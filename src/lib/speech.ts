@@ -81,7 +81,11 @@ export function speakSeq(parts: string[], opts: { onEnd?: () => void } = {}) {
   if (!voicesLoaded) pickVoice();
   const synth = window.speechSynthesis;
   synth.cancel();
-  const list = parts.flatMap((p) => p.match(/[^.!?]+[.!?]+["”’]?|[^.!?]+$/g) ?? []).map((x) => x.trim()).filter(Boolean);
+  // titles such as "Mr." do not end a sentence
+  const list = parts
+    .flatMap((p) => p.replace(/\b(Mr|Mrs|Ms|Dr)\./g, '$1').match(/[^.!?]+[.!?]+["”’]?|[^.!?]+$/g) ?? [])
+    .map((x) => x.trim())
+    .filter(Boolean);
   const utterances = list.map((text, i) => {
     const u = new SpeechSynthesisUtterance(text);
     u.lang = enVoice?.lang || 'en-US';
