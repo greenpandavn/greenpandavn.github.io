@@ -32,7 +32,7 @@ export default function App() {
     return () => window.removeEventListener('tts-error', onErr);
   }, []);
   const toast = ttsError && (
-    <div role="alert" className="fixed inset-x-3 top-3 z-[60] mx-auto max-w-md animate-pop rounded-2xl bg-ink-700 px-4 py-3 text-sm font-bold text-white shadow-lg">
+    <div role="alert" className="pointer-events-none fixed inset-x-3 bottom-24 z-[60] mx-auto max-w-md animate-pop rounded-2xl bg-ink-700 px-4 py-3 text-sm font-bold text-white shadow-lg">
       Không phát được âm thanh: thiết bị chưa có giọng đọc tiếng Trung. Hãy cài giọng “Chinese (China)” trong cài đặt hệ thống, hoặc dùng Chrome/Safari/Edge.
     </div>
   );
