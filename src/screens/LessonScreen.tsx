@@ -32,6 +32,7 @@ import {
   addXp,
   checkAchievements,
   completeLesson,
+  failLesson,
   getProgress,
   noteCombo,
   recordTest,
@@ -207,6 +208,7 @@ export default function LessonScreen({ mode, onExit }: { mode: SessionMode; onEx
     setFeedback(null);
     setCheck(null);
     if (!isTest && hearts <= 0) {
+      if (mode.type === 'lesson') failLesson(mode.lessonId);
       setPhase('failed');
       return;
     }

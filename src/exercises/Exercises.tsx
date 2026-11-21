@@ -235,7 +235,7 @@ export function TypeEx({ ex, difficulty, locked, setCheck, submit }: ExProps<Of<
         inputMode="text"
         placeholder="Ví dụ: ni3 hao3 hoặc nǐ hǎo"
         aria-label="Nhập pinyin"
-        className="w-full rounded-2xl border-2 border-cloud bg-[#f7f7f7] px-4 py-4 text-center text-2xl font-extrabold text-ink-700 outline-none focus:border-sky-400"
+        className="w-full rounded-2xl border-2 border-cloud bg-mist px-4 py-4 text-center text-2xl font-extrabold text-ink-700 outline-none focus:border-sky-400"
       />
       {/[1-5]/.test(val) && <p className="mt-2 text-center text-lg font-bold text-sky-600">{numbersToMarks(val)}</p>}
       <p className="mt-2 text-center text-xs font-semibold text-ink-400">Có thể gõ có dấu (nǐ), số thanh (ni3) hoặc không dấu (ni). Gõ v thay cho ü.</p>

@@ -36,7 +36,7 @@ export default function WordsScreen() {
         onChange={(e) => setQ(e.target.value)}
         placeholder="Tìm chữ Hán, pinyin hoặc nghĩa..."
         aria-label="Tìm từ"
-        className="mb-4 w-full rounded-2xl border-2 border-cloud bg-[#f7f7f7] px-4 py-3 font-bold outline-none focus:border-sky-400"
+        className="mb-4 w-full rounded-2xl border-2 border-cloud bg-mist px-4 py-3 font-bold outline-none focus:border-sky-400"
       />
       {groups.map(({ l, words }) => (
         <section key={l.id} className="mb-5">

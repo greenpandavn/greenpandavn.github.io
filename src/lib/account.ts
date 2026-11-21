@@ -6,9 +6,12 @@ export interface AccountState {
   user: { uid: string; email: string | null; displayName: string; photoURL: string | null; provider: string } | null;
   sync: 'idle' | 'saving' | 'saved' | 'offline' | 'error';
   migrated: boolean; // local progress merged into the account on this login
+  role: 'admin' | 'user';
+  notice: string; // e.g. "account locked" message shown after a forced sign-out
 }
 
-let state: AccountState = { ready: false, user: null, sync: 'idle', migrated: false };
+export const OWNER_EMAIL = 'virusphuoc@gmail.com';
+let state: AccountState = { ready: false, user: null, sync: 'idle', migrated: false, role: 'user', notice: '' };
 const listeners = new Set<() => void>();
 
 export const getAccount = () => state;

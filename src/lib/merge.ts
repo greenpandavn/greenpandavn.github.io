@@ -8,6 +8,12 @@ const maxBy = <T>(a: T | undefined, b: T | undefined, score: (x: T) => number): 
 
 const laterDate = (a: string | null, b: string | null) => (!a ? b : !b ? a : a >= b ? a : b);
 
+function mergeStats(a: Progress['lessonStats'] = {}, b: Progress['lessonStats'] = {}) {
+  const out: Progress['lessonStats'] = { ...b };
+  for (const [id, v] of Object.entries(a)) out[id] = { fails: Math.max(v.fails, out[id]?.fails ?? 0) };
+  return out;
+}
+
 export function hasProgress(p: Progress | null | undefined): boolean {
   return !!p && (p.xp > 0 || Object.keys(p.lessons).length > 0 || Object.keys(p.words).length > 0 || p.certificates.length > 0);
 }
@@ -71,7 +77,13 @@ export function mergeProgress(primary: Progress, other: Progress): Progress {
     goalBonusDates: [...new Set([...primary.goalBonusDates, ...other.goalBonusDates])].sort().slice(-60),
     certificates: [...certMap.values()].sort((a, b) => a.unit - b.unit),
     tests,
-    settings: { ...other.settings, ...primary.settings, name: primary.settings.name || other.settings.name },
+    settings: {
+      ...other.settings,
+      ...primary.settings,
+      name: primary.settings.name || other.settings.name,
+      level: primary.settings.level || other.settings.level,
+    },
+    lessonStats: mergeStats(primary.lessonStats, other.lessonStats),
   };
 }
 
@@ -94,6 +106,14 @@ export function resolveLogin(opts: {
   if (!opts.alreadyMigrated && hasProgress(opts.guest)) {
     p = mergeProgress(p, opts.guest!);
     migrated = true;
+  }
+  const g = opts.guest?.settings;
+  if (g) {
+    // Choices made before signing in (level, colours) carry over when the account has none yet.
+    const s = { ...p.settings };
+    if (!s.level && g.level) s.level = g.level;
+    if (!opts.cloud) Object.assign(s, { theme: g.theme, dark: g.dark });
+    p = { ...p, settings: s };
   }
   return { progress: p, migrated };
 }

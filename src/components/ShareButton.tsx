@@ -27,7 +27,7 @@ export default function ShareButton({ text, label = 'Chia sẻ', className = '' 
         <div className="fixed inset-0 z-[70] flex items-end justify-center bg-black/40" onClick={() => setSheet(false)}>
           <div role="dialog" aria-label="Chia sẻ" className="w-full max-w-md animate-slideUp rounded-t-3xl bg-white p-5" onClick={(e) => e.stopPropagation()} data-testid="share-sheet">
             <h3 className="mb-2 text-lg font-black">Chia sẻ thành tích</h3>
-            <p className="mb-3 rounded-2xl bg-[#f7f7f7] p-3 text-sm font-semibold text-ink-700">{full}</p>
+            <p className="mb-3 rounded-2xl bg-mist p-3 text-sm font-semibold text-ink-700">{full}</p>
             {copied && <p className="mb-3 text-sm font-bold text-leaf-600">Đã sao chép nội dung vào bộ nhớ tạm!</p>}
             <div className="grid grid-cols-3 gap-2">
               <a href={facebookUrl(text)} target="_blank" rel="noopener noreferrer" className="btn !bg-[#1877f2] !text-white !shadow-[0_4px_0_#0f5bbd]">

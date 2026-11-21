@@ -37,6 +37,29 @@ npm test         # kiểm thử logic gộp/di chuyển tiến độ (Vitest)
   - Lưu ý: không có máy chủ push nên nhắc nhở hiện khi ứng dụng đang mở (hoặc chạy nền); trên Chrome Android khi đã cài PWA, service worker còn dùng Periodic Background Sync (trình duyệt quyết định tần suất).
 - **Chân trang bản quyền/liên hệ** trên mọi trang + mục “Giới thiệu / Liên hệ” trong Hồ sơ.
 
+### Mới trong bản nâng cấp 2
+
+- **Chọn trình độ khi mở lần đầu** (tự chọn, không có bài kiểm tra xếp lớp): “Chưa biết gì” (học từ bài 1), “Biết sơ sơ” (mở toàn bộ Phần 1, bắt đầu từ Phần 2), “Đã học rồi” (mở mọi bài, tự chọn bài). Đổi lại bất cứ lúc nào trong Hồ sơ → Cài đặt. Lưu trong tiến độ (khách: `localStorage`; tài khoản: Firestore). Người học cũ đã có tiến độ không bị hỏi lại.
+- **Giao diện màu + chế độ tối**: 5 bảng màu (mặc định Xanh lá Gấu Trúc, Biển xanh, Tím nho, Hồng anh đào, Cam hoàng hôn) và chế độ tối, áp dụng ngay, lưu theo tài khoản hoặc trên máy với khách.
+- **Học không cần đăng nhập** vẫn đầy đủ như cũ; đăng nhập chỉ để đồng bộ, xếp hạng và lưu chứng chỉ lên đám mây.
+- **Trang quản trị** (Hồ sơ → “Trang quản trị”, chỉ hiện với tài khoản admin):
+  - *Người dùng*: tên, email, cấp, XP, chuỗi ngày, ngày tham gia; khóa/mở khóa (tài khoản bị khóa bị đăng xuất và không đăng nhập được); cấp/thu hồi quyền admin.
+  - *Nội dung*: thêm/sửa/xóa bài học và từ vựng bằng biểu mẫu (có thể thêm Phần 4, 5… cho HSK 2). Nội dung lưu ở Firestore (`lessons/{id}`, `units/{số}`); ứng dụng tải nội dung từ Firestore khi có, phần còn lại dùng nội dung gốc đóng gói sẵn (offline vẫn học được). Bài gốc đã sửa/xóa có nút “Khôi phục bản gốc”.
+  - *Thống kê*: tổng học viên, hoạt động hôm nay / 7 ngày, lượt hoàn thành bài, 5 bài khó nhất (tỉ lệ đạt thấp nhất = hoàn thành / (hoàn thành + hết tim)). Chỉ tính tài khoản đã đăng nhập.
+  - *Kiểm duyệt*: sửa tên hiển thị (tên bắt buộc, người dùng không ghi đè được) hoặc xóa người dùng khỏi bảng xếp hạng; xem và thu hồi/khôi phục chứng chỉ.
+  - Quyền lưu ở `roles/{uid}` (`role`, `locked`, `hidden`, `forcedName`, `revoked`), chỉ admin đọc/ghi được (xem `firestore.rules`). `virusphuoc@gmail.com` (đăng nhập Google hoặc email đã xác minh) luôn là admin và tự tạo `roles/{uid}` khi đăng nhập lần đầu. Để cấp admin thủ công: tạo document `roles/{uid}` với `role: "admin"` trong Firebase Console, hoặc dùng nút “Cấp admin”.
+- **Liên hệ chỉ qua email**: huuphuocln@gmail.com (đã bỏ số điện thoại).
+- **Đồng bộ lại nhanh hơn sau khi có mạng** (thử kết nối lại sau 1,5 / 4 / 8 giây khi còn thay đổi chưa gửi, kiểm tra định kỳ mỗi 4 giây).
+
+> ⚠️ Sau khi cập nhật lên bản này, cần **publish lại `firestore.rules`** (bản mới cho phép lưu email/ngày tham gia và thêm quyền admin).
+
+### Phát âm & luyện nói — hãy thử trên điện thoại
+
+Máy kiểm thử không có giọng đọc tiếng Trung và micro nên phần này được kiểm tra bằng đọc mã, chưa nghe/nói thật:
+- Đọc: `src/lib/speech.ts` dùng `speechSynthesis` với `lang = 'zh-CN'`, chọn giọng `zh-CN` tốt nhất (ưu tiên Google, Xiaoxiao, Yunxi, Tingting), cập nhật khi có sự kiện `voiceschanged`; nếu thiết bị không có giọng tiếng Trung, ứng dụng hiện thông báo hướng dẫn cài giọng “Chinese (China)”.
+- Luyện nói: `src/lib/speech.ts` dùng `SpeechRecognition`/`webkitSpeechRecognition` với `lang = 'zh-CN'`, `src/components/SpeakCheck.tsx` so khớp kết quả với chữ Hán cần đọc; trình duyệt không hỗ trợ thì không có bài nói, và luôn có nút “Bỏ qua”.
+- Nên thử: Chrome Android, Safari iOS (cho phép micro khi được hỏi).
+
 ## Cấu hình Firebase
 
 Cấu hình Firebase **chỉ** được đọc từ biến môi trường Vite, không có giá trị viết cứng trong mã nguồn (`src/lib/firebaseConfig.ts`). Cần đủ 6 biến sau (lấy trong Firebase Console → Project settings → Your apps → Web app → *SDK setup and configuration*):
@@ -85,7 +108,7 @@ Từ vựng được soạn trong `scripts/vocab.txt` và sinh ra `src/data/less
 
 ## Giấy phép & ghi công
 
-© 2026 VH Phước — Học Tiếng Trung, Gấu Trúc Mập. Mọi nội dung thuộc về VH Phước. Liên hệ: VH Phước — 0988474228 · [YouTube @vhphuocmedia](https://www.youtube.com/@vhphuocmedia).
+© 2026 VH Phước — Học Tiếng Trung, Gấu Trúc Mập. Mọi nội dung thuộc về VH Phước. Liên hệ: [huuphuocln@gmail.com](mailto:huuphuocln@gmail.com) · [YouTube @vhphuocmedia](https://www.youtube.com/@vhphuocmedia).
 
 
 Nội dung, hình gấu trúc và giao diện là nguyên bản. Thư viện [HanziWriter](https://hanziwriter.org) (MIT); dữ liệu nét chữ từ [Make Me a Hanzi](https://github.com/skishore/makemeahanzi) (Arphic Public License). Không liên kết với Duolingo.

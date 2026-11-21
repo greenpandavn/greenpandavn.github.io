@@ -118,6 +118,7 @@ export default function AuthScreen({ onClose }: { onClose: () => void }) {
             required
           />
         )}
+        {!err && acc.notice && <p className="rounded-xl bg-coral-100 p-3 text-sm font-bold text-coral-600" data-testid="auth-notice">{acc.notice}</p>}
         {err && (
           <p role="alert" className="text-sm font-bold text-coral-500">
             {err}

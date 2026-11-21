@@ -16,6 +16,7 @@ export interface Word {
 
 export interface Lesson {
   id: string;
+  order?: number;
   title: string;
   desc: string;
   icon: string;
@@ -49,7 +50,13 @@ export interface Settings {
   name: string; // display name (guest) – mirrors the account name when logged in
   reminderOn: boolean;
   reminderTime: string; // HH:mm
+  level: StartLevel | ''; // '' = not chosen yet (first launch)
+  theme: ThemeId;
+  dark: boolean;
 }
+
+export type StartLevel = 'new' | 'some' | 'done';
+export type ThemeId = 'leaf' | 'ocean' | 'grape' | 'sakura' | 'sunset';
 
 export interface Certificate {
   id: string;
@@ -87,5 +94,6 @@ export interface Progress {
   goalBonusDates: string[];
   certificates: Certificate[];
   tests: TestResult[];
+  lessonStats: Record<string, { fails: number }>; // failed attempts (hearts ran out) per lesson
   settings: Settings;
 }

@@ -7,7 +7,7 @@ import { installHelp, promptInstall, useInstall } from '../lib/install';
 import { shareText } from '../lib/share';
 import ShareButton from '../components/ShareButton';
 import CertificateView from '../components/CertificateView';
-import { CONTACT, YOUTUBE_URL } from '../components/Footer';
+import { CONTACT_EMAIL, YOUTUBE_URL } from '../components/Footer';
 import { Trophy } from '../components/Icons';
 import { exportProgress, importProgress, resetProgress, updateProgress, useProgress } from '../lib/store';
 import { ACHIEVEMENTS, currentStreak, levelInfo } from '../lib/gamification';
@@ -18,10 +18,12 @@ import ProgressBar from '../components/ProgressBar';
 import Panda from '../components/Panda';
 import { BadgeGlyph, Bolt, Flame, Gem, Star } from '../components/Icons';
 import { CORE_LESSONS } from '../data';
+import { LEVELS, setLevel } from '../lib/unlock';
+import { THEMES } from '../lib/theme';
 
 const BADGE_COLORS = ['bg-leaf-500', 'bg-sky-500', 'bg-grape-500', 'bg-[#ff9600]', 'bg-coral-500', 'bg-sun-500'];
 
-export default function ProfileScreen({ onLogin }: { onLogin: () => void }) {
+export default function ProfileScreen({ onLogin, onAdmin }: { onLogin: () => void; onAdmin: () => void }) {
   const p = useProgress();
   const acc = useAccount();
   const inst = useInstall();
@@ -230,8 +232,45 @@ export default function ProfileScreen({ onLogin }: { onLogin: () => void }) {
         })}
       </div>
 
+      {acc.user && acc.role === 'admin' && (
+        <button type="button" className="btn-green mt-4 w-full !bg-grape-500" onClick={onAdmin} data-testid="admin-link">
+          Trang quản trị
+        </button>
+      )}
+
       <h2 className="mb-2 mt-6 text-lg font-black">Cài đặt</h2>
       <div className="card flex flex-col gap-4">
+        <div data-testid="level-setting">
+          <div className="mb-2 font-extrabold">Trình độ của bạn</div>
+          <div className="grid grid-cols-3 gap-2">
+            {LEVELS.map((l) => (
+              <button key={l.id} type="button" className={`chip !px-1 ${p.settings.level === l.id ? 'chip-active' : ''}`} onClick={() => setLevel(l.id)} data-testid={`set-level-${l.id}`}>
+                {l.title}
+              </button>
+            ))}
+          </div>
+          <p className="mt-1 text-xs font-bold text-ink-400">{LEVELS.find((l) => l.id === p.settings.level)?.desc ?? 'Chưa chọn trình độ.'}</p>
+        </div>
+        <div data-testid="theme-setting">
+          <div className="mb-2 font-extrabold">Màu giao diện</div>
+          <div className="flex flex-wrap gap-3">
+            {THEMES.map((t) => (
+              <button
+                key={t.id}
+                type="button"
+                title={t.name}
+                aria-label={t.name}
+                aria-pressed={p.settings.theme === t.id}
+                onClick={() => setSetting('theme', t.id)}
+                data-testid={`theme-${t.id}`}
+                className={`h-11 w-11 rounded-full border-4 ${p.settings.theme === t.id ? 'border-ink-700' : 'border-transparent'}`}
+                style={{ background: t.scale[3], boxShadow: `0 3px 0 ${t.scale[4]}` }}
+              />
+            ))}
+          </div>
+          <p className="mt-1 text-xs font-bold text-ink-400">{THEMES.find((t) => t.id === p.settings.theme)?.name}</p>
+        </div>
+        <Toggle label="Chế độ tối" checked={p.settings.dark} onChange={(v) => setSetting('dark', v)} />
         <div>
           <div className="mb-2 font-extrabold">Mục tiêu XP mỗi ngày</div>
           <div className="grid grid-cols-4 gap-2">
@@ -355,9 +394,9 @@ export default function ProfileScreen({ onLogin }: { onLogin: () => void }) {
         </p>
         <p>© 2026 VH Phước — Học Tiếng Trung, Gấu Trúc Mập. Mọi nội dung thuộc về VH Phước.</p>
         <p>
-          Liên hệ:{' '}
-          <a href="tel:0988474228" className="font-extrabold text-ink-700 underline">
-            {CONTACT}
+          Email liên hệ:{' '}
+          <a href={`mailto:${CONTACT_EMAIL}`} className="font-extrabold text-ink-700 underline">
+            {CONTACT_EMAIL}
           </a>
         </p>
         <p>

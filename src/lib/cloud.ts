@@ -19,6 +19,7 @@ import {
   getCountFromServer,
   getDoc,
   getDocsFromCache,
+  getDocs,
   getDocsFromServer,
   limit,
   onSnapshot,
@@ -31,7 +32,9 @@ import {
 import { auth, db } from './firebase';
 import { applyRemote, defaultProgress, getProgress, GUEST_KEY, loadFrom, onLocalChange, sanitize, updateProgress, switchStorageSlot } from './store';
 import { mergeProgress, resolveLogin, weekId, weekXp } from './merge';
-import { getAccount, setAccount } from './account';
+import { getAccount, OWNER_EMAIL, setAccount } from './account';
+import { applyContent, type LessonDoc, type UnitDoc } from '../data';
+import { dropRevoked } from './store';
 import type { Progress } from '../types';
 
 const MIGRATED_KEY = 'hoc-tieng-trung-migrated-uids';
@@ -44,6 +47,9 @@ let timer: ReturnType<typeof setTimeout> | null = null;
 let lastWritten = 0;
 let started = false;
 let pendingName = '';
+let stopRole: Unsubscribe | null = null;
+let roleInfo: { forcedName: string; hidden: boolean; revoked: string[] } = { forcedName: '', hidden: false, revoked: [] };
+const LOCKED_MSG = 'Tài khoản này đã bị khóa. Vui lòng liên hệ huuphuocln@gmail.com nếu cần hỗ trợ.';
 let kicking = false;
 let pendingSince = 0;
 
@@ -64,7 +70,7 @@ async function kickNetwork() {
   }
 }
 const kickIfStuck = () => {
-  if (pendingSince && Date.now() - pendingSince > 3000) void kickNetwork();
+  if (pendingSince && Date.now() - pendingSince > 1200) void kickNetwork();
 };
 
 const migratedUids = (): string[] => {
@@ -91,18 +97,27 @@ function toUser(u: User) {
 async function upload(u: User, p: Progress) {
   const now = Date.now();
   lastWritten = now;
-  const displayName = getAccount().user?.displayName || nameOf(u, p);
+  const displayName = roleInfo.forcedName || getAccount().user?.displayName || nameOf(u, p);
   setAccount({ sync: navigator.onLine ? 'saving' : 'offline' });
-  // Firestore queues these writes in IndexedDB while offline and flushes them when back online.
+  const createdAt = Date.parse(u.metadata.creationTime ?? '') || now;
   const writes = [
-    setDoc(doc(db, 'users', u.uid), { displayName, progress: JSON.parse(JSON.stringify(p)), updatedAt: now, clientId: CLIENT_ID }),
-    setDoc(doc(db, 'leaderboard', u.uid), { displayName, xp: Math.round(p.xp), updatedAt: now }),
+    setDoc(doc(db, 'users', u.uid), {
+      displayName,
+      email: u.email ?? '',
+      createdAt,
+      lastActive: now,
+      progress: JSON.parse(JSON.stringify(p)),
+      updatedAt: now,
+      clientId: CLIENT_ID,
+    }),
   ];
+  // Moderation: hidden users stay off the public boards.
+  if (!roleInfo.hidden) writes.push(setDoc(doc(db, 'leaderboard', u.uid), { displayName, xp: Math.round(p.xp), updatedAt: now }));
   const wxp = weekXp(p);
-  if (wxp > 0) writes.push(setDoc(doc(db, 'weeks', weekId(), 'entries', u.uid), { displayName, xp: Math.round(wxp), updatedAt: now }));
+  if (wxp > 0 && !roleInfo.hidden) writes.push(setDoc(doc(db, 'weeks', weekId(), 'entries', u.uid), { displayName, xp: Math.round(wxp), updatedAt: now }));
   if (!pendingSince) pendingSince = now;
   // Writes stay queued while the stream is down; if nothing is acknowledged for a while, restart the network.
-  const watchdog = setInterval(kickIfStuck, 6000);
+  const watchdog = setInterval(kickIfStuck, 4000);
   try {
     await Promise.all(writes);
     if (lastWritten === now) {
@@ -127,8 +142,47 @@ function scheduleUpload(u: User) {
   }, 600);
 }
 
+/** Read (and for the owner, bootstrap) the account's role document; false when the account is locked. */
+async function checkRole(u: User): Promise<boolean> {
+  try {
+    const ref = doc(db, 'roles', u.uid);
+    const snap = await getDoc(ref);
+    const d = snap.exists() ? snap.data() : {};
+    if (d.locked) return false;
+    const owner = u.email?.toLowerCase() === OWNER_EMAIL && u.emailVerified;
+    if (owner && d.role !== 'admin') await setDoc(ref, { role: 'admin', email: u.email, updatedAt: Date.now() }, { merge: true });
+    applyRole({ ...d, role: owner ? 'admin' : d.role });
+  } catch (e) {
+    console.warn('Role check failed', e);
+  }
+  return true;
+}
+
+function applyRole(d: Record<string, unknown>) {
+  roleInfo = {
+    forcedName: typeof d.forcedName === 'string' ? d.forcedName : '',
+    hidden: d.hidden === true,
+    revoked: Array.isArray(d.revoked) ? (d.revoked as string[]) : [],
+  };
+  const patch: Partial<ReturnType<typeof getAccount>> = { role: d.role === 'admin' ? 'admin' : 'user' };
+  const cur = getAccount().user;
+  if (roleInfo.forcedName && cur && cur.displayName !== roleInfo.forcedName) {
+    patch.user = { ...cur, displayName: roleInfo.forcedName };
+    updateProgress((p) => ({ ...p, settings: { ...p.settings, name: roleInfo.forcedName } }));
+  }
+  setAccount(patch);
+  dropRevoked(roleInfo.revoked);
+}
+
+async function forceLogout(msg: string) {
+  setAccount({ notice: msg });
+  await signOut(auth);
+}
+
 async function startSession(u: User) {
-  setAccount({ ready: true, user: toUser(u), sync: 'saving' });
+  setAccount({ ready: true, user: toUser(u), sync: 'saving', notice: '' });
+  if (!(await checkRole(u))) return forceLogout(LOCKED_MSG);
+  if (auth.currentUser?.uid !== u.uid) return;
   const guest = loadFrom(GUEST_KEY);
   const cache = loadFrom(userKey(u.uid));
   switchStorageSlot(userKey(u.uid), cache ?? defaultProgress());
@@ -153,6 +207,7 @@ async function startSession(u: User) {
   });
   if (!progress.settings.name) progress.settings = { ...progress.settings, name: nameOf(u) };
   applyRemote(progress);
+  dropRevoked(roleInfo.revoked);
   if (migrated) markMigrated(u.uid);
   setAccount({ migrated, user: { ...toUser(u), displayName: u.displayName || progress.settings.name || nameOf(u) } });
 
@@ -160,6 +215,18 @@ async function startSession(u: User) {
   stopLocal = onLocalChange(() => scheduleUpload(u));
   void upload(u, progress);
   if (!reachable) setAccount({ sync: 'offline' });
+
+  stopRole?.();
+  stopRole = onSnapshot(
+    doc(db, 'roles', u.uid),
+    (snap) => {
+      const d = snap.exists() ? snap.data() : {};
+      if (d.locked) return void forceLogout(LOCKED_MSG);
+      const owner = u.email?.toLowerCase() === OWNER_EMAIL && u.emailVerified;
+      applyRole({ ...d, role: owner ? 'admin' : d.role });
+    },
+    (e) => console.warn('Role listener error', e),
+  );
 
   stopSnapshot?.();
   stopSnapshot = onSnapshot(
@@ -180,18 +247,22 @@ async function startSession(u: User) {
 function endSession() {
   stopSnapshot?.();
   stopSnapshot = null;
+  stopRole?.();
+  stopRole = null;
+  roleInfo = { forcedName: '', hidden: false, revoked: [] };
   stopLocal?.();
   stopLocal = null;
   if (timer) clearTimeout(timer);
   timer = null;
   switchStorageSlot(GUEST_KEY, loadFrom(GUEST_KEY) ?? defaultProgress());
-  setAccount({ ready: true, user: null, sync: 'idle', migrated: false });
+  setAccount({ ready: true, user: null, sync: 'idle', migrated: false, role: 'user' });
 }
 
 export function initCloud() {
   if (started) return;
   started = true;
   getRedirectResult(auth).catch((e) => console.warn('Redirect sign-in failed', e));
+  void loadContent();
   onAuthStateChanged(auth, (u) => {
     if (u) void startSession(u);
     else endSession();
@@ -201,8 +272,8 @@ export function initCloud() {
     if (!u) return;
     void kickNetwork();
     void upload(u, getProgress());
-    // the first reconnect attempt often races the network coming up – retry shortly after
-    setTimeout(kickIfStuck, 4000);
+    // the first reconnect attempt often races the network coming up – retry a few times while writes are pending
+    for (const ms of [1500, 4000, 8000]) setTimeout(kickIfStuck, ms);
   });
   document.addEventListener('visibilitychange', () => {
     if (document.visibilityState === 'visible' && auth.currentUser) kickIfStuck();
@@ -210,6 +281,23 @@ export function initCloud() {
   window.addEventListener('offline', () => {
     if (auth.currentUser) setAccount({ sync: 'offline' });
   });
+}
+
+// ---------- admin-managed content ----------
+/** Load lessons/units edited in the admin panel; bundled content is used for anything not in Firestore. */
+export async function loadContent() {
+  try {
+    const [ls, us] = await Promise.all([
+      withTimeout(getDocs(collection(db, 'lessons')), 15000),
+      withTimeout(getDocs(collection(db, 'units')), 15000),
+    ]);
+    applyContent({
+      lessons: ls.docs.map((d) => ({ ...d.data(), id: d.id }) as LessonDoc),
+      units: us.docs.map((d) => ({ ...d.data(), unit: Number(d.id) }) as UnitDoc),
+    });
+  } catch (e) {
+    console.warn('Using bundled/cached lesson content', e);
+  }
 }
 
 // ---------- auth actions ----------
@@ -230,6 +318,7 @@ const ERRORS: Record<string, string> = {
 };
 export const authErrorMessage = (e: unknown) => {
   const code = (e as { code?: string })?.code ?? '';
+  if (code === 'app/locked') return LOCKED_MSG;
   return ERRORS[code] ?? `Có lỗi xảy ra (${code || 'không rõ'}). Vui lòng thử lại.`;
 };
 
@@ -242,13 +331,28 @@ export async function registerEmail(name: string, email: string, password: strin
   return cred.user;
 }
 
-export const loginEmail = (email: string, password: string) => signInWithEmailAndPassword(auth, email.trim(), password);
+/** Locked accounts (set by an admin) are signed straight back out. */
+async function ensureNotLocked(u: User) {
+  const snap = await getDoc(doc(db, 'roles', u.uid)).catch(() => null);
+  if (snap?.exists() && snap.data().locked) {
+    await signOut(auth);
+    throw Object.assign(new Error(LOCKED_MSG), { code: 'app/locked' });
+  }
+}
+
+export async function loginEmail(email: string, password: string) {
+  const cred = await signInWithEmailAndPassword(auth, email.trim(), password);
+  await ensureNotLocked(cred.user);
+  return cred;
+}
 
 export async function loginGoogle() {
   const provider = new GoogleAuthProvider();
   provider.setCustomParameters({ prompt: 'select_account' });
   try {
-    return await signInWithPopup(auth, provider);
+    const cred = await signInWithPopup(auth, provider);
+    await ensureNotLocked(cred.user);
+    return cred;
   } catch (e) {
     const code = (e as { code?: string }).code;
     if (code === 'auth/popup-blocked' || code === 'auth/operation-not-supported-in-this-environment') {

@@ -1,5 +1,6 @@
 import { useEffect, useRef, useState } from 'react';
 import HanziWriter from 'hanzi-writer';
+import { isDark } from '../lib/theme';
 
 const cache = new Map<string, Promise<unknown>>();
 
@@ -35,9 +36,9 @@ export function HanziChar({ char, size = 200, autoAnimate = true }: { char: stri
       height: size,
       padding: 10,
       showOutline: true,
-      strokeColor: '#4b4b4b',
+      strokeColor: isDark() ? '#e6e9ee' : '#4b4b4b',
       radicalColor: '#1cb0f6',
-      outlineColor: '#e5e5e5',
+      outlineColor: isDark() ? '#3a4452' : '#e5e5e5',
       highlightColor: '#58cc02',
       drawingColor: '#1cb0f6',
       drawingWidth: 22,

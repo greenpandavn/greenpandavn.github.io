@@ -5,6 +5,7 @@ import { updateWord } from './srs';
 import { ACHIEVEMENTS, type Achievement } from './gamification';
 import { setSpeechRate } from './speech';
 import { setSfxEnabled } from './sound';
+import { applyTheme } from './theme';
 
 export const GUEST_KEY = 'hoc-tieng-trung-progress-v1';
 let storageKey = GUEST_KEY;
@@ -28,7 +29,19 @@ export function defaultProgress(): Progress {
     goalBonusDates: [],
     certificates: [],
     tests: [],
-    settings: { sound: true, rate: 0.8, dailyGoal: 20, speaking: true, name: '', reminderOn: true, reminderTime: '19:00' },
+    lessonStats: {},
+    settings: {
+      sound: true,
+      rate: 0.8,
+      dailyGoal: 20,
+      speaking: true,
+      name: '',
+      reminderOn: true,
+      reminderTime: '19:00',
+      level: '',
+      theme: 'leaf',
+      dark: false,
+    },
   };
 }
 
@@ -37,11 +50,15 @@ export function sanitize(raw: unknown): Progress {
   if (!raw || typeof raw !== 'object') throw new Error('invalid');
   const r = raw as Partial<Progress>;
   if (typeof r.xp !== 'number' || typeof r.lessons !== 'object') throw new Error('invalid');
+  const settings = { ...d.settings, ...(r.settings || {}) };
+  // Learners from before the level picker existed already have a path – don't ask them again.
+  if (!r.settings?.level && Object.keys(r.lessons).length > 0) settings.level = 'new';
   return {
     ...d,
     ...r,
     streak: { ...d.streak, ...(r.streak || {}) },
-    settings: { ...d.settings, ...(r.settings || {}) },
+    settings,
+    lessonStats: r.lessonStats && typeof r.lessonStats === 'object' ? r.lessonStats : {},
     certificates: Array.isArray(r.certificates) ? r.certificates : [],
     tests: Array.isArray(r.tests) ? r.tests : [],
     version: 1,
@@ -81,6 +98,7 @@ export function onLocalChange(fn: (p: Progress) => void) {
 function applySettings() {
   setSpeechRate(state.settings.rate);
   setSfxEnabled(state.settings.sound);
+  applyTheme(state.settings.theme, state.settings.dark);
 }
 applySettings();
 
@@ -172,6 +190,20 @@ export function completeLesson(lessonId: string, accuracy: number) {
       perfectLessons: p.perfectLessons + (accuracy >= 1 ? 1 : 0),
     };
   });
+}
+
+export function failLesson(lessonId: string) {
+  updateProgress((p) => ({
+    ...p,
+    lessonStats: { ...p.lessonStats, [lessonId]: { fails: (p.lessonStats[lessonId]?.fails ?? 0) + 1 } },
+  }));
+}
+
+/** Drop certificates an admin revoked (keys are `${id}@${date}`). */
+export function dropRevoked(revoked: string[]) {
+  if (!revoked.length) return;
+  const keep = state.certificates.filter((c) => !revoked.includes(`${c.id}@${c.date}`));
+  if (keep.length !== state.certificates.length) set({ ...state, certificates: keep });
 }
 
 export function noteCombo(combo: number) {

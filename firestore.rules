@@ -6,32 +6,66 @@ service cloud.firestore {
     function validName(n) { return n is string && n.size() > 0 && n.size() <= 40; }
     function validXp(x) { return x is int && x >= 0 && x < 100000000; }
 
-    // Private progress document: only the owner can read/write.
+    // Role / moderation state lives in roles/{uid} and can only be written by admins.
+    function roleDoc(uid) { return get(/databases/$(database)/documents/roles/$(uid)).data; }
+    function hasRole(uid) { return exists(/databases/$(database)/documents/roles/$(uid)); }
+    function isOwnerEmail() {
+      return signedIn() && request.auth.token.email == 'virusphuoc@gmail.com' && request.auth.token.email_verified == true;
+    }
+    function isAdmin() {
+      return isOwnerEmail() || (signedIn() && hasRole(request.auth.uid) && roleDoc(request.auth.uid).get('role', 'user') == 'admin');
+    }
+    function notLocked(uid) { return !hasRole(uid) || roleDoc(uid).get('locked', false) != true; }
+    function notHidden(uid) { return !hasRole(uid) || roleDoc(uid).get('hidden', false) != true; }
+    function nameAllowed(uid, n) {
+      return validName(n) && (!hasRole(uid) || roleDoc(uid).get('forcedName', '') == '' || roleDoc(uid).get('forcedName', '') == n);
+    }
+
     match /users/{uid} {
-      allow read, delete: if isOwner(uid);
-      allow create, update: if isOwner(uid)
-        && request.resource.data.keys().hasOnly(['displayName', 'progress', 'updatedAt', 'clientId'])
+      allow read: if isOwner(uid) || isAdmin();
+      allow delete: if isOwner(uid) || isAdmin();
+      allow create, update: if isOwner(uid) && notLocked(uid)
+        && request.resource.data.keys().hasOnly(['displayName', 'email', 'createdAt', 'lastActive', 'progress', 'updatedAt', 'clientId'])
         && request.resource.data.progress is map;
     }
 
-    // All-time leaderboard: public read, owner-only write.
-    match /leaderboard/{uid} {
-      allow read: if true;
-      allow create, update: if isOwner(uid)
-        && request.resource.data.keys().hasOnly(['displayName', 'xp', 'updatedAt'])
-        && validName(request.resource.data.displayName)
-        && validXp(request.resource.data.xp);
-      allow delete: if isOwner(uid);
+    match /roles/{uid} {
+      allow read: if isOwner(uid) || isAdmin();
+      allow write: if isAdmin()
+        && request.resource.data.keys().hasOnly(['role', 'email', 'locked', 'hidden', 'forcedName', 'revoked', 'updatedAt']);
+      allow delete: if isAdmin();
     }
 
-    // Weekly leaderboard: weeks/{yyyy-Www}/entries/{uid}
+    match /leaderboard/{uid} {
+      allow read: if true;
+      allow create, update: if isOwner(uid) && notLocked(uid) && notHidden(uid)
+        && request.resource.data.keys().hasOnly(['displayName', 'xp', 'updatedAt'])
+        && nameAllowed(uid, request.resource.data.displayName)
+        && validXp(request.resource.data.xp);
+      allow update: if isAdmin() && validName(request.resource.data.displayName)
+        && request.resource.data.diff(resource.data).affectedKeys().hasOnly(['displayName']);
+      allow delete: if isOwner(uid) || isAdmin();
+    }
+
     match /weeks/{weekId}/entries/{uid} {
       allow read: if true;
-      allow create, update: if isOwner(uid)
+      allow create, update: if isOwner(uid) && notLocked(uid) && notHidden(uid)
         && request.resource.data.keys().hasOnly(['displayName', 'xp', 'updatedAt'])
-        && validName(request.resource.data.displayName)
+        && nameAllowed(uid, request.resource.data.displayName)
         && validXp(request.resource.data.xp);
-      allow delete: if isOwner(uid);
+      allow update: if isAdmin() && validName(request.resource.data.displayName)
+        && request.resource.data.diff(resource.data).affectedKeys().hasOnly(['displayName']);
+      allow delete: if isOwner(uid) || isAdmin();
+    }
+
+    // Admin-managed course content (falls back to the bundled lessons when empty).
+    match /lessons/{id} {
+      allow read: if true;
+      allow write: if isAdmin();
+    }
+    match /units/{id} {
+      allow read: if true;
+      allow write: if isAdmin();
     }
   }
 }

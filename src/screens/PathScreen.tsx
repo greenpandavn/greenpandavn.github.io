@@ -1,5 +1,6 @@
-import { useState } from 'react';
+import { useEffect, useRef, useState } from 'react';
 import { CORE_LESSONS, LESSONS, UNITS } from '../data';
+import { currentLessonId, isDone as lessonDone, isTestUnlocked, isUnlocked as lessonUnlocked } from '../lib/unlock';
 import type { Lesson } from '../types';
 import { spendGems, updateProgress, useProgress } from '../lib/store';
 import { todayXp } from '../lib/gamification';
@@ -9,10 +10,12 @@ import ProgressBar from '../components/ProgressBar';
 import { Check, Gem, Gift, Lock, Star, Bolt } from '../components/Icons';
 
 const UNIT_COLORS: Record<string, { bg: string; shadow: string; text: string }> = {
-  leaf: { bg: 'bg-leaf-500', shadow: '#46a302', text: 'text-leaf-600' },
+  leaf: { bg: 'bg-leaf-500', shadow: 'rgb(var(--leaf-600))', text: 'text-leaf-600' },
   sky: { bg: 'bg-sky-500', shadow: '#1899d6', text: 'text-sky-600' },
   grape: { bg: 'bg-grape-500', shadow: '#a560e8', text: 'text-grape-600' },
 };
+
+const UNIT_KEYS = Object.keys(UNIT_COLORS);
 
 const OFFSETS = [0, 44, 70, 44, 0, -44, -70, -44];
 
@@ -25,14 +28,16 @@ const NODE_GLYPH: Record<string, string> = {
 export default function PathScreen({ onStart, onTest }: { onStart: (lessonId: string) => void; onTest: (unit: number) => void }) {
   const p = useProgress();
   const [open, setOpen] = useState<string | null>(null);
-  const isDone = (l: Lesson) => (p.lessons[l.id]?.completed ?? 0) > 0;
-  const coreIndex = (l: Lesson) => CORE_LESSONS.findIndex((c) => c.id === l.id);
-  const isUnlocked = (l: Lesson) => {
-    if (l.bonus) return p.unlockedBonus.includes(l.id);
-    const i = coreIndex(l);
-    return i === 0 || isDone(CORE_LESSONS[i - 1]);
-  };
-  const currentId = CORE_LESSONS.find((l) => !isDone(l) && isUnlocked(l))?.id;
+  const isDone = (l: Lesson) => lessonDone(p, l);
+  const isUnlocked = (l: Lesson) => lessonUnlocked(p, l);
+  const currentId = currentLessonId(p);
+  const scrolled = useRef(false);
+  useEffect(() => {
+    // "Biết sơ sơ" starts at Part 2: bring the current lesson into view once.
+    if (scrolled.current || !currentId || currentId === CORE_LESSONS[0]?.id) return;
+    scrolled.current = true;
+    document.querySelector(`[data-testid="node-${currentId}"]`)?.scrollIntoView({ block: 'center' });
+  }, [currentId]);
   const goal = p.settings.dailyGoal;
   const txp = todayXp(p);
 
@@ -52,7 +57,7 @@ export default function PathScreen({ onStart, onTest }: { onStart: (lessonId: st
       </div>
 
       {UNITS.map((u) => {
-        const color = UNIT_COLORS[u.color];
+        const color = UNIT_COLORS[u.color] ?? UNIT_COLORS[UNIT_KEYS[(u.unit - 1) % UNIT_KEYS.length]];
         const lessons = LESSONS.filter((l) => l.unit === u.unit).sort((a, b) => Number(!!a.bonus) - Number(!!b.bonus));
         return (
           <section key={u.unit} className="mb-8">
@@ -102,11 +107,11 @@ export default function PathScreen({ onStart, onTest }: { onStart: (lessonId: st
                         <Lock size={30} className="text-ink-300" />
                       ) : done ? (
                         <span className="relative">
-                          <span className="font-han text-2xl font-black">{NODE_GLYPH[l.icon]}</span>
+                          <span className="font-han text-2xl font-black">{NODE_GLYPH[l.icon] ?? (l.icon || l.words[0]?.hanzi || '?').slice(0, 2)}</span>
                           <Check size={18} className="absolute -bottom-3 -right-4 rounded-full bg-white p-0.5 text-sun-600" />
                         </span>
                       ) : (
-                        <span className="font-han text-2xl font-black">{NODE_GLYPH[l.icon]}</span>
+                        <span className="font-han text-2xl font-black">{NODE_GLYPH[l.icon] ?? (l.icon || l.words[0]?.hanzi || '?').slice(0, 2)}</span>
                       )}
                     </button>
                     <div className="mt-3 max-w-[140px] text-center text-xs font-extrabold text-ink-500">{l.title}</div>
@@ -132,7 +137,7 @@ export default function PathScreen({ onStart, onTest }: { onStart: (lessonId: st
               <TestNode
                 unit={u.unit}
                 title={u.title}
-                unlocked={CORE_LESSONS.filter((l) => l.unit === u.unit).every(isDone)}
+                unlocked={isTestUnlocked(p, u.unit)}
                 cert={p.certificates.find((c) => c.unit === u.unit)?.score}
                 open={open === `test-${u.unit}`}
                 onToggle={() => setOpen(open === `test-${u.unit}` ? null : `test-${u.unit}`)}
@@ -144,7 +149,7 @@ export default function PathScreen({ onStart, onTest }: { onStart: (lessonId: st
       })}
       <div className="flex flex-col items-center gap-2 pb-4 text-center">
         <Star size={40} />
-        <p className="font-extrabold text-ink-400">Hoàn thành 15 bài để tốt nghiệp HSK 1!</p>
+        <p className="font-extrabold text-ink-400">Hoàn thành {CORE_LESSONS.length} bài để tốt nghiệp!</p>
       </div>
     </div>
   );

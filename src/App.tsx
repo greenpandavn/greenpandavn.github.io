@@ -1,4 +1,4 @@
-import { useEffect, useRef, useState } from 'react';
+import { lazy, Suspense, useEffect, useRef, useState } from 'react';
 import TopBar from './components/TopBar';
 import BottomNav, { type Tab } from './components/BottomNav';
 import PathScreen from './screens/PathScreen';
@@ -12,6 +12,11 @@ import AppBanners from './components/AppBanners';
 import LessonScreen, { type SessionMode } from './screens/LessonScreen';
 import { useProgress } from './lib/store';
 import { dueCount } from './lib/srs';
+import { useAccount } from './lib/account';
+import { useContentVersion } from './data';
+import LevelPicker from './components/LevelPicker';
+
+const AdminScreen = lazy(() => import('./admin/AdminScreen'));
 
 const TABS: Tab[] = ['learn', 'review', 'words', 'rank', 'profile'];
 const tabFromHash = (): Tab => {
@@ -23,6 +28,9 @@ export default function App() {
   const [tab, setTab] = useState<Tab>(tabFromHash);
   const prevTab = useRef<Tab>('profile');
   const [authOpen, setAuthOpen] = useState(() => window.location.hash === '#/auth');
+  const [adminOpen, setAdminOpen] = useState(() => window.location.hash === '#/admin');
+  const acc = useAccount();
+  useContentVersion();
   const [session, setSession] = useState<SessionMode | null>(null);
   const p = useProgress();
 
@@ -47,6 +55,7 @@ export default function App() {
     const onHash = () => {
       setTab(tabFromHash());
       setAuthOpen(window.location.hash === '#/auth');
+      setAdminOpen(window.location.hash === '#/admin');
     };
     window.addEventListener('hashchange', onHash);
     return () => window.removeEventListener('hashchange', onHash);
@@ -78,6 +87,28 @@ export default function App() {
       </>
     );
 
+  const openAdmin = () => {
+    window.location.hash = '/admin';
+    setAdminOpen(true);
+    window.scrollTo(0, 0);
+  };
+
+  if (adminOpen && !session && acc.role === 'admin')
+    return (
+      <Suspense fallback={<p className="p-6 text-center font-bold text-ink-400">Đang tải trang quản trị…</p>}>
+        <AdminScreen onClose={() => changeTab('profile')} />
+      </Suspense>
+    );
+
+  // First launch: self-select a starting level (guests included – no login needed).
+  if (!p.settings.level && !session && acc.ready && acc.sync !== 'saving')
+    return (
+      <>
+        {toast}
+        <LevelPicker />
+      </>
+    );
+
   if (session)
     return (
       <>
@@ -94,7 +125,7 @@ export default function App() {
     );
 
   return (
-    <div className="min-h-[100dvh] bg-white">
+    <div className="min-h-[100dvh] bg-surface">
       {toast}
       <TopBar />
       <AppBanners onLearn={() => changeTab('learn')} />
@@ -104,7 +135,7 @@ export default function App() {
       {tab === 'review' && <ReviewScreen onStart={() => setSession({ type: 'review' })} />}
       {tab === 'words' && <WordsScreen />}
       {tab === 'rank' && <LeaderboardScreen onLogin={openAuth} />}
-      {tab === 'profile' && <ProfileScreen onLogin={openAuth} />}
+      {tab === 'profile' && <ProfileScreen onLogin={openAuth} onAdmin={openAdmin} />}
       <Footer className="pb-24" />
       <BottomNav tab={tab} onChange={changeTab} badge={Math.min(dueCount(p), 10)} />
     </div>
