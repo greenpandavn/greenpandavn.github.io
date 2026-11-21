@@ -1,100 +1,307 @@
-import type { ToeicGroup, ToeicItem } from '../../../lib/toeic';
+import type { ToeicGroup, ToeicItem } from "../../../lib/toeic";
 
 export const part5: ToeicItem[] = [
-  { q: 'Ms. Pham will ___ the quarterly results at tomorrow’s meeting.', options: ['present', 'presentation', 'presenter', 'presentable'], explain: 'Sau “will” cần động từ nguyên mẫu: present.' },
-  { q: 'The new software is ___ easier to use than the old version.', options: ['much', 'very', 'more', 'too'], explain: '“much” đứng trước so sánh hơn để nhấn mạnh: much easier.' },
-  { q: 'All employees must wear their ID badges ___ they are in the building.', options: ['while', 'during', 'despite', 'among'], explain: 'Sau chỗ trống là một mệnh đề → dùng liên từ “while”; “during” đi với danh từ.' },
-  { q: 'The contract was signed ___ both parties last Friday.', options: ['by', 'with', 'from', 'at'], explain: 'Câu bị động: tác nhân đi với “by”.' },
-  { q: 'Please submit your expense report ___ the end of the month.', options: ['by', 'until', 'in', 'on'], explain: '“by + mốc thời gian” = trước/chậm nhất là; “until” chỉ hành động kéo dài.' },
-  { q: 'Mr. Kim is responsible ___ training the new sales staff.', options: ['for', 'of', 'to', 'with'], explain: 'Cụm cố định: be responsible for.' },
-  { q: 'The marketing team worked ___ to finish the campaign on time.', options: ['diligently', 'diligent', 'diligence', 'more diligent'], explain: 'Bổ nghĩa cho động từ “worked” cần trạng từ: diligently.' },
-  { q: 'Neither the manager ___ his assistant was available this morning.', options: ['nor', 'or', 'and', 'but'], explain: 'Cặp liên từ: neither … nor ….' },
-  { q: 'The company has ___ its headquarters to a larger building.', options: ['relocated', 'relocate', 'relocating', 'relocation'], explain: 'Sau “has” dùng phân từ hai (hiện tại hoàn thành): relocated.' },
-  { q: 'Customers ___ purchase two items will receive a third one free.', options: ['who', 'whose', 'which', 'whom'], explain: 'Đại từ quan hệ làm chủ ngữ chỉ người: who.' },
-  { q: 'The shipment is expected to arrive ___ three business days.', options: ['within', 'since', 'along', 'between'], explain: '“within + khoảng thời gian” = trong vòng.' },
-  { q: 'Due to ___ demand, the factory added a night shift.', options: ['increasing', 'increase', 'increases', 'increasingly'], explain: 'Trước danh từ “demand” cần tính từ (phân từ): increasing demand.' },
-  { q: 'The director asked us to keep the information ___.', options: ['confidential', 'confidentially', 'confidence', 'confide'], explain: 'Cấu trúc keep + tân ngữ + tính từ: keep the information confidential.' },
-  { q: '___ the heavy traffic, the delivery arrived on time.', options: ['Despite', 'Although', 'Because', 'However'], explain: '“Despite + danh từ”; “Although” phải đi với mệnh đề.' },
-  { q: 'Each of the applicants ___ required to take a short written test.', options: ['is', 'are', 'were', 'be'], explain: '“Each of + danh từ số nhiều” đi với động từ số ít: is.' },
-  { q: 'The seminar was so ___ that many participants asked for a second session.', options: ['informative', 'information', 'inform', 'informatively'], explain: 'Sau “so” và động từ “was” cần tính từ: informative.' },
-  { q: 'Our store offers free ___ on all orders over fifty dollars.', options: ['shipping', 'ship', 'shipped', 'shipper'], explain: 'Sau tính từ “free” cần danh từ: free shipping.' },
-  { q: 'Ms. Lopez handled the complaint ___, without asking her supervisor.', options: ['herself', 'her', 'hers', 'she'], explain: 'Đại từ phản thân nhấn mạnh chủ ngữ tự làm: herself.' },
-  { q: 'If the supplier ___ the price, we will sign a two-year agreement.', options: ['lowers', 'will lower', 'lowered', 'lowering'], explain: 'Câu điều kiện loại 1: mệnh đề “if” dùng hiện tại đơn.' },
-  { q: 'The annual budget must be approved ___ the board of directors.', options: ['by', 'for', 'to', 'into'], explain: 'Bị động “be approved by” + tác nhân.' },
-  { q: 'Sales figures have risen ___ since the new advertisement was launched.', options: ['steadily', 'steady', 'steadiness', 'steadier'], explain: 'Bổ nghĩa cho “have risen” cần trạng từ: steadily.' },
-  { q: 'Please ___ the attached form and return it to human resources.', options: ['complete', 'completion', 'completely', 'completing'], explain: 'Câu mệnh lệnh sau “Please” dùng động từ nguyên mẫu: complete.' },
-  { q: 'The hotel is ___ located near the airport and the convention center.', options: ['conveniently', 'convenient', 'convenience', 'conveniences'], explain: 'Trạng từ bổ nghĩa cho phân từ “located”: conveniently located.' },
-  { q: 'Mr. Chen has worked in the insurance industry ___ more than fifteen years.', options: ['for', 'since', 'during', 'from'], explain: '“for + khoảng thời gian” với thì hiện tại hoàn thành.' },
-  { q: 'The technician will repair the copier as soon as the replacement part ___.', options: ['arrives', 'will arrive', 'arrived', 'arriving'], explain: 'Mệnh đề thời gian với “as soon as” dùng hiện tại đơn để nói về tương lai.' },
-  { q: 'We are looking for a candidate with strong ___ skills.', options: ['communication', 'communicate', 'communicated', 'communicates'], explain: 'Danh từ ghép: communication skills.' },
-  { q: 'The price of raw materials has increased ___ over the past year.', options: ['significantly', 'significant', 'significance', 'signify'], explain: 'Bổ nghĩa cho động từ “has increased” cần trạng từ: significantly.' },
-  { q: 'Employees are encouraged to ___ in the company’s wellness program.', options: ['participate', 'attend', 'visit', 'reach'], explain: 'Chỉ “participate” đi với giới từ “in”; attend/visit/reach không đi với “in”.' },
-  { q: 'The warranty does not ___ damage caused by misuse.', options: ['cover', 'spend', 'remind', 'reach'], explain: '“cover damage” = bảo hành cho hư hỏng; các động từ khác không hợp nghĩa.' },
-  { q: 'The meeting has been ___ until next Monday because the director is away.', options: ['postponed', 'extended', 'reminded', 'dismissed'], explain: '“postpone … until” = hoãn đến; hợp với lý do giám đốc vắng mặt.' },
+  {
+    q: "Ms. Pham will ___ the quarterly results at tomorrow’s meeting.",
+    options: ["present", "presentation", "presenter", "presentable"],
+    explain: "Sau “will” cần động từ nguyên mẫu: present.",
+  },
+  {
+    q: "The new software is ___ easier to use than the old version.",
+    options: ["much", "very", "more", "too"],
+    explain: "“much” đứng trước so sánh hơn để nhấn mạnh: much easier.",
+  },
+  {
+    q: "All employees must wear their ID badges ___ they are in the building.",
+    options: ["while", "during", "despite", "among"],
+    explain:
+      "Sau chỗ trống là một mệnh đề → dùng liên từ “while”; “during” đi với danh từ.",
+  },
+  {
+    q: "The contract was signed ___ both parties last Friday.",
+    options: ["by", "with", "from", "at"],
+    explain: "Câu bị động: tác nhân đi với “by”.",
+  },
+  {
+    q: "Please submit your expense report ___ the end of the month.",
+    options: ["by", "until", "in", "on"],
+    explain:
+      "“by + mốc thời gian” = trước/chậm nhất là; “until” chỉ hành động kéo dài.",
+  },
+  {
+    q: "Mr. Kim is responsible ___ training the new sales staff.",
+    options: ["for", "of", "to", "with"],
+    explain: "Cụm cố định: be responsible for.",
+  },
+  {
+    q: "The marketing team worked ___ to finish the campaign on time.",
+    options: ["diligently", "diligent", "diligence", "more diligent"],
+    explain: "Bổ nghĩa cho động từ “worked” cần trạng từ: diligently.",
+  },
+  {
+    q: "Neither the manager ___ his assistant was available this morning.",
+    options: ["nor", "or", "and", "but"],
+    explain: "Cặp liên từ: neither … nor ….",
+  },
+  {
+    q: "The company has ___ its headquarters to a larger building.",
+    options: ["relocated", "relocate", "relocating", "relocation"],
+    explain: "Sau “has” dùng phân từ hai (hiện tại hoàn thành): relocated.",
+  },
+  {
+    q: "Customers ___ purchase two items will receive a third one free.",
+    options: ["who", "whose", "which", "whom"],
+    explain: "Đại từ quan hệ làm chủ ngữ chỉ người: who.",
+  },
+  {
+    q: "The shipment is expected to arrive ___ three business days.",
+    options: ["within", "since", "along", "between"],
+    explain: "“within + khoảng thời gian” = trong vòng.",
+  },
+  {
+    q: "Due to ___ demand, the factory added a night shift.",
+    options: ["increasing", "increase", "increases", "increasingly"],
+    explain: "Trước danh từ “demand” cần tính từ (phân từ): increasing demand.",
+  },
+  {
+    q: "The director asked us to keep the information ___.",
+    options: ["confidential", "confidentially", "confidence", "confide"],
+    explain:
+      "Cấu trúc keep + tân ngữ + tính từ: keep the information confidential.",
+  },
+  {
+    q: "___ the heavy traffic, the delivery arrived on time.",
+    options: ["Despite", "Although", "Because", "However"],
+    explain: "“Despite + danh từ”; “Although” phải đi với mệnh đề.",
+  },
+  {
+    q: "Each of the applicants ___ required to take a short written test.",
+    options: ["is", "are", "were", "be"],
+    explain: "“Each of + danh từ số nhiều” đi với động từ số ít: is.",
+  },
+  {
+    q: "The seminar was so ___ that many participants asked for a second session.",
+    options: ["informative", "information", "inform", "informatively"],
+    explain: "Sau “so” và động từ “was” cần tính từ: informative.",
+  },
+  {
+    q: "Our store offers free ___ on all orders over fifty dollars.",
+    options: ["shipping", "ship", "shipped", "shipper"],
+    explain: "Sau tính từ “free” cần danh từ: free shipping.",
+  },
+  {
+    q: "Ms. Lopez handled the complaint ___, without asking her supervisor.",
+    options: ["herself", "her", "hers", "she"],
+    explain: "Đại từ phản thân nhấn mạnh chủ ngữ tự làm: herself.",
+  },
+  {
+    q: "If the supplier ___ the price, we will sign a two-year agreement.",
+    options: ["lowers", "will lower", "lowered", "lowering"],
+    explain: "Câu điều kiện loại 1: mệnh đề “if” dùng hiện tại đơn.",
+  },
+  {
+    q: "The annual budget must be approved ___ the board of directors.",
+    options: ["by", "for", "to", "into"],
+    explain: "Bị động “be approved by” + tác nhân.",
+  },
+  {
+    q: "Sales figures have risen ___ since the new advertisement was launched.",
+    options: ["steadily", "steady", "steadiness", "steadier"],
+    explain: "Bổ nghĩa cho “have risen” cần trạng từ: steadily.",
+  },
+  {
+    q: "Please ___ the attached form and return it to human resources.",
+    options: ["complete", "completion", "completely", "completing"],
+    explain: "Câu mệnh lệnh sau “Please” dùng động từ nguyên mẫu: complete.",
+  },
+  {
+    q: "The hotel is ___ located near the airport and the convention center.",
+    options: ["conveniently", "convenient", "convenience", "conveniences"],
+    explain: "Trạng từ bổ nghĩa cho phân từ “located”: conveniently located.",
+  },
+  {
+    q: "Mr. Chen has worked in the insurance industry ___ more than fifteen years.",
+    options: ["for", "since", "during", "from"],
+    explain: "“for + khoảng thời gian” với thì hiện tại hoàn thành.",
+  },
+  {
+    q: "The technician will repair the copier as soon as the replacement part ___.",
+    options: ["arrives", "will arrive", "arrived", "arriving"],
+    explain:
+      "Mệnh đề thời gian với “as soon as” dùng hiện tại đơn để nói về tương lai.",
+  },
+  {
+    q: "We are looking for a candidate with strong ___ skills.",
+    options: ["communication", "communicate", "communicated", "communicates"],
+    explain: "Danh từ ghép: communication skills.",
+  },
+  {
+    q: "The price of raw materials has increased ___ over the past year.",
+    options: ["significantly", "significant", "significance", "signify"],
+    explain:
+      "Bổ nghĩa cho động từ “has increased” cần trạng từ: significantly.",
+  },
+  {
+    q: "Employees are encouraged to ___ in the company’s wellness program.",
+    options: ["participate", "attend", "visit", "reach"],
+    explain:
+      "Chỉ “participate” đi với giới từ “in”; attend/visit/reach không đi với “in”.",
+  },
+  {
+    q: "The warranty does not ___ damage caused by misuse.",
+    options: ["cover", "spend", "remind", "reach"],
+    explain:
+      "“cover damage” = bảo hành cho hư hỏng; các động từ khác không hợp nghĩa.",
+  },
+  {
+    q: "The meeting has been ___ until next Monday because the director is away.",
+    options: ["postponed", "extended", "reminded", "dismissed"],
+    explain: "“postpone … until” = hoãn đến; hợp với lý do giám đốc vắng mặt.",
+  },
 ];
 
 export const part6: ToeicGroup[] = [
   {
     text: [
-      'To: All staff',
-      'From: Facilities Department',
-      'Subject: Elevator maintenance',
-      'Please be informed that the east elevators will be out of [1] from Monday to Wednesday next week for annual maintenance.',
-      'During this period, employees should use the west elevators or the stairs. [2]',
-      'Deliveries of large items should be [3] until Thursday whenever possible.',
-      'We apologize for any inconvenience and thank you for your [4].',
+      "To: All staff",
+      "From: Facilities Department",
+      "Subject: Elevator maintenance",
+      "Please be informed that the east elevators will be out of [1] from Monday to Wednesday next week for annual maintenance.",
+      "During this period, employees should use the west elevators or the stairs. [2]",
+      "Deliveries of large items should be [3] until Thursday whenever possible.",
+      "We apologize for any inconvenience and thank you for your [4].",
     ],
     qs: [
-      { options: ['service', 'order', 'time', 'reach'], explain: '“out of service” = ngừng hoạt động (thang máy đang bảo trì).' },
-      { options: ['Please allow extra time when moving between floors.', 'The cafeteria menu will change next month.', 'Elevators were invented in the nineteenth century.', 'Your salary will be paid on Friday.'], explain: 'Câu phù hợp mạch văn: vì chỉ còn thang phía tây và cầu thang nên cần dành thêm thời gian di chuyển.' },
-      { options: ['postponed', 'postpone', 'postponing', 'postpones'], explain: 'Bị động sau “should be”: postponed.' },
-      { options: ['cooperation', 'cooperate', 'cooperative', 'cooperatively'], explain: 'Sau tính từ sở hữu “your” cần danh từ: cooperation.' },
+      {
+        options: ["service", "order", "time", "reach"],
+        explain: "“out of service” = ngừng hoạt động (thang máy đang bảo trì).",
+      },
+      {
+        options: [
+          "Please allow extra time when moving between floors.",
+          "The cafeteria menu will change next month.",
+          "Elevators were invented in the nineteenth century.",
+          "Your salary will be paid on Friday.",
+        ],
+        explain:
+          "Câu phù hợp mạch văn: vì chỉ còn thang phía tây và cầu thang nên cần dành thêm thời gian di chuyển.",
+      },
+      {
+        options: ["postponed", "postpone", "postponing", "postpones"],
+        explain: "Bị động sau “should be”: postponed.",
+      },
+      {
+        options: ["cooperation", "cooperate", "cooperative", "cooperatively"],
+        explain: "Sau tính từ sở hữu “your” cần danh từ: cooperation.",
+      },
     ],
   },
   {
     text: [
-      'Dear Mr. Rivera,',
-      'Thank you for your interest in the position of sales representative at Corvin Tools. We were [1] by your experience and would like to invite you to an interview.',
-      'The interview will take place on 14 May at ten o’clock at our main office. [2]',
-      'Please bring a copy of your résumé and two [3] from previous employers.',
-      'If you are unable to attend at this time, please contact me so that we can [4] another appointment.',
-      'Sincerely, Hannah Weiss, Human Resources',
+      "Dear Mr. Rivera,",
+      "Thank you for your interest in the position of sales representative at Corvin Tools. We were [1] by your experience and would like to invite you to an interview.",
+      "The interview will take place on 14 May at ten o’clock at our main office. [2]",
+      "Please bring a copy of your résumé and two [3] from previous employers.",
+      "If you are unable to attend at this time, please contact me so that we can [4] another appointment.",
+      "Sincerely, Hannah Weiss, Human Resources",
     ],
     qs: [
-      { options: ['impressed', 'impressing', 'impressive', 'impression'], explain: 'Bị động “We were impressed by …” = chúng tôi ấn tượng với ….' },
-      { options: ['It is expected to last about forty-five minutes.', 'Our tools are sold in twenty countries.', 'The position has already been filled.', 'Interviews are no longer necessary.'], explain: 'Câu nối tiếp thông tin về buổi phỏng vấn: thời lượng dự kiến.' },
-      { options: ['references', 'receipts', 'invoices', 'samples'], explain: '“references from previous employers” = thư giới thiệu của nơi làm việc cũ.' },
-      { options: ['arrange', 'arranging', 'arranged', 'arrangement'], explain: 'Sau “can” dùng động từ nguyên mẫu: arrange.' },
+      {
+        options: ["impressed", "impressing", "impressive", "impression"],
+        explain: "Bị động “We were impressed by …” = chúng tôi ấn tượng với ….",
+      },
+      {
+        options: [
+          "It is expected to last about forty-five minutes.",
+          "Our tools are sold in twenty countries.",
+          "The position has already been filled.",
+          "Interviews are no longer necessary.",
+        ],
+        explain:
+          "Câu nối tiếp thông tin về buổi phỏng vấn: thời lượng dự kiến.",
+      },
+      {
+        options: ["references", "receipts", "invoices", "samples"],
+        explain:
+          "“references from previous employers” = thư giới thiệu của nơi làm việc cũ.",
+      },
+      {
+        options: ["arrange", "arranging", "arranged", "arrangement"],
+        explain: "Sau “can” dùng động từ nguyên mẫu: arrange.",
+      },
     ],
   },
   {
     text: [
-      'Riverside Fitness Center is pleased to announce the opening of its second location on Oak Avenue.',
-      'The new center [1] a swimming pool, a yoga studio and more than eighty exercise machines.',
-      'To celebrate, we are offering new members a thirty percent discount on annual memberships [2] the month of March.',
-      '[3] Members may also bring one guest free of charge every weekend.',
-      'For more [4], visit our front desk or call 555 0188.',
+      "Riverside Fitness Center is pleased to announce the opening of its second location on Oak Avenue.",
+      "The new center [1] a swimming pool, a yoga studio and more than eighty exercise machines.",
+      "To celebrate, we are offering new members a thirty percent discount on annual memberships [2] the month of March.",
+      "[3] Members may also bring one guest free of charge every weekend.",
+      "For more [4], visit our front desk or call 555 0188.",
     ],
     qs: [
-      { options: ['features', 'feature', 'featuring', 'to feature'], explain: 'Chủ ngữ số ít “The new center” + động từ chia hiện tại đơn: features.' },
-      { options: ['throughout', 'among', 'beside', 'onto'], explain: '“throughout the month of March” = suốt tháng Ba.' },
-      { options: ['Free personal training sessions are included in the first week.', 'The old center closed ten years ago.', 'Swimming is dangerous for beginners.', 'Our prices will double in April.'], explain: 'Câu phù hợp: nêu thêm một ưu đãi cho hội viên mới, trước câu “Members may also …”.' },
-      { options: ['information', 'inform', 'informed', 'informative'], explain: 'Sau “more” cần danh từ: for more information.' },
+      {
+        options: ["features", "feature", "featuring", "to feature"],
+        explain:
+          "Chủ ngữ số ít “The new center” + động từ chia hiện tại đơn: features.",
+      },
+      {
+        options: ["throughout", "among", "beside", "onto"],
+        explain: "“throughout the month of March” = suốt tháng Ba.",
+      },
+      {
+        options: [
+          "Free personal training sessions are included in the first week.",
+          "The old center closed ten years ago.",
+          "Swimming is dangerous for beginners.",
+          "Our prices will double in April.",
+        ],
+        explain:
+          "Câu phù hợp: nêu thêm một ưu đãi cho hội viên mới, trước câu “Members may also …”.",
+      },
+      {
+        options: ["information", "inform", "informed", "informative"],
+        explain: "Sau “more” cần danh từ: for more information.",
+      },
     ],
   },
   {
     text: [
-      'Notice to customers of Harbor Bank',
-      'Our online banking system will be [1] unavailable on Sunday, 9 June, from midnight to six in the morning while we upgrade our servers.',
-      'During these hours, you will not be able to log in, transfer money [2] pay bills online.',
-      'Cash machines and card payments will not be affected. [3]',
-      'We recommend that you [4] any urgent transactions before Saturday evening.',
+      "Notice to customers of Harbor Bank",
+      "Our online banking system will be [1] unavailable on Sunday, 9 June, from midnight to six in the morning while we upgrade our servers.",
+      "During these hours, you will not be able to log in, transfer money [2] pay bills online.",
+      "Cash machines and card payments will not be affected. [3]",
+      "We recommend that you [4] any urgent transactions before Saturday evening.",
     ],
     qs: [
-      { options: ['temporarily', 'temporary', 'temporariness', 'more temporary'], explain: 'Trạng từ bổ nghĩa cho tính từ “unavailable”: temporarily.' },
-      { options: ['or', 'so', 'but', 'yet'], explain: 'Liệt kê trong câu phủ định: not … log in, transfer money or pay bills.' },
-      { options: ['The upgrade will make our service faster and more secure.', 'Our branches are closed every Monday.', 'Interest rates rose last year.', 'Please bring your passport to the branch.'], explain: 'Câu phù hợp: giải thích lợi ích của việc nâng cấp máy chủ.' },
-      { options: ['complete', 'completes', 'completed', 'completing'], explain: 'Sau “recommend that + chủ ngữ” dùng động từ nguyên mẫu: complete.' },
+      {
+        options: [
+          "temporarily",
+          "temporary",
+          "temporariness",
+          "more temporary",
+        ],
+        explain: "Trạng từ bổ nghĩa cho tính từ “unavailable”: temporarily.",
+      },
+      {
+        options: ["or", "so", "but", "yet"],
+        explain:
+          "Liệt kê trong câu phủ định: not … log in, transfer money or pay bills.",
+      },
+      {
+        options: [
+          "The upgrade will make our service faster and more secure.",
+          "Our branches are closed every Monday.",
+          "Interest rates rose last year.",
+          "Please bring your passport to the branch.",
+        ],
+        explain: "Câu phù hợp: giải thích lợi ích của việc nâng cấp máy chủ.",
+      },
+      {
+        options: ["complete", "completes", "completed", "completing"],
+        explain:
+          "Sau “recommend that + chủ ngữ” dùng động từ nguyên mẫu: complete.",
+      },
     ],
   },
 ];

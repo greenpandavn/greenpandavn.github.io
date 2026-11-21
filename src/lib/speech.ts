@@ -3,32 +3,44 @@ let enVoice: SpeechSynthesisVoice | null = null;
 let voicesLoaded = false;
 
 function pickVoice() {
-  if (typeof window === 'undefined' || !('speechSynthesis' in window)) return;
+  if (typeof window === "undefined" || !("speechSynthesis" in window)) return;
   const voices = window.speechSynthesis.getVoices();
   if (!voices.length) return;
   voicesLoaded = true;
-  const zh = voices.filter((v) => /^zh[-_]?(CN|Hans)?/i.test(v.lang) || /chinese|mandarin|普通话|中文/i.test(v.name));
+  const zh = voices.filter(
+    (v) =>
+      /^zh[-_]?(CN|Hans)?/i.test(v.lang) ||
+      /chinese|mandarin|普通话|中文/i.test(v.name),
+  );
   zhVoice =
-    zh.find((v) => /zh[-_]CN/i.test(v.lang) && /google|xiaoxiao|yunxi|tingting|ting-ting/i.test(v.name)) ||
+    zh.find(
+      (v) =>
+        /zh[-_]CN/i.test(v.lang) &&
+        /google|xiaoxiao|yunxi|tingting|ting-ting/i.test(v.name),
+    ) ||
     zh.find((v) => /zh[-_]CN/i.test(v.lang)) ||
     zh.find((v) => !/HK|TW/i.test(v.lang)) ||
     zh[0] ||
     null;
   const en = voices.filter((v) => /^en([-_]|$)/i.test(v.lang));
   enVoice =
-    en.find((v) => /en[-_]US/i.test(v.lang) && /google|samantha|aria|jenny/i.test(v.name)) ||
+    en.find(
+      (v) =>
+        /en[-_]US/i.test(v.lang) && /google|samantha|aria|jenny/i.test(v.name),
+    ) ||
     en.find((v) => /en[-_]US/i.test(v.lang)) ||
     en.find((v) => /en[-_]GB/i.test(v.lang)) ||
     en[0] ||
     null;
 }
 
-if (typeof window !== 'undefined' && 'speechSynthesis' in window) {
+if (typeof window !== "undefined" && "speechSynthesis" in window) {
   pickVoice();
-  window.speechSynthesis.addEventListener?.('voiceschanged', pickVoice);
+  window.speechSynthesis.addEventListener?.("voiceschanged", pickVoice);
 }
 
-export const ttsSupported = () => typeof window !== 'undefined' && 'speechSynthesis' in window;
+export const ttsSupported = () =>
+  typeof window !== "undefined" && "speechSynthesis" in window;
 export const hasChineseVoice = () => {
   if (!voicesLoaded) pickVoice();
   return !!zhVoice;
@@ -38,7 +50,8 @@ export const hasEnglishVoice = () => {
   return !!enVoice;
 };
 /** Chinese text is spoken/recognised as zh-CN, everything else (the English course) as en-US. */
-export const speechLang = (text: string): 'zh-CN' | 'en-US' => (/\p{Script=Han}/u.test(text) ? 'zh-CN' : 'en-US');
+export const speechLang = (text: string): "zh-CN" | "en-US" =>
+  /\p{Script=Han}/u.test(text) ? "zh-CN" : "en-US";
 
 let rate = 0.8;
 export function setSpeechRate(r: number) {
@@ -46,7 +59,10 @@ export function setSpeechRate(r: number) {
 }
 
 /** Speak Chinese (zh-CN) or English (en-US) text with the browser's free Web Speech API. */
-export function speak(text: string, opts: { slow?: boolean; onEnd?: () => void } = {}) {
+export function speak(
+  text: string,
+  opts: { slow?: boolean; onEnd?: () => void } = {},
+) {
   if (!ttsSupported()) {
     opts.onEnd?.();
     return;
@@ -56,14 +72,15 @@ export function speak(text: string, opts: { slow?: boolean; onEnd?: () => void }
   synth.cancel();
   const u = new SpeechSynthesisUtterance(text);
   const lang = speechLang(text);
-  const voice = lang === 'zh-CN' ? zhVoice : enVoice;
+  const voice = lang === "zh-CN" ? zhVoice : enVoice;
   u.lang = voice?.lang || lang;
   if (voice) u.voice = voice;
   u.rate = opts.slow ? Math.max(0.4, rate - 0.35) : rate;
   u.onend = () => opts.onEnd?.();
   u.onerror = (e) => {
     opts.onEnd?.();
-    if (e.error !== 'interrupted' && e.error !== 'canceled') window.dispatchEvent(new CustomEvent('tts-error'));
+    if (e.error !== "interrupted" && e.error !== "canceled")
+      window.dispatchEvent(new CustomEvent("tts-error"));
   };
   // Chrome sometimes drops an utterance issued right after cancel()
   setTimeout(() => synth.speak(u), 30);
@@ -83,19 +100,24 @@ export function speakSeq(parts: string[], opts: { onEnd?: () => void } = {}) {
   synth.cancel();
   // titles such as "Mr." do not end a sentence
   const list = parts
-    .flatMap((p) => p.replace(/\b(Mr|Mrs|Ms|Dr)\./g, '$1').match(/[^.!?]+[.!?]+["”’]?|[^.!?]+$/g) ?? [])
+    .flatMap(
+      (p) =>
+        p
+          .replace(/\b(Mr|Mrs|Ms|Dr)\./g, "$1")
+          .match(/[^.!?]+[.!?]+["”’]?|[^.!?]+$/g) ?? [],
+    )
     .map((x) => x.trim())
     .filter(Boolean);
   const utterances = list.map((text, i) => {
     const u = new SpeechSynthesisUtterance(text);
-    u.lang = enVoice?.lang || 'en-US';
+    u.lang = enVoice?.lang || "en-US";
     if (enVoice) u.voice = enVoice;
     u.rate = Math.max(rate, 0.9);
     if (i === list.length - 1) u.onend = () => opts.onEnd?.();
     u.onerror = (e) => {
-      if (e.error === 'interrupted' || e.error === 'canceled') return;
+      if (e.error === "interrupted" || e.error === "canceled") return;
       opts.onEnd?.();
-      window.dispatchEvent(new CustomEvent('tts-error'));
+      window.dispatchEvent(new CustomEvent("tts-error"));
     };
     return u;
   });
@@ -115,22 +137,33 @@ type Rec = {
   start: () => void;
   stop: () => void;
   abort: () => void;
-  onresult: ((e: { results: ArrayLike<ArrayLike<{ transcript: string }>> }) => void) | null;
+  onresult:
+    | ((e: { results: ArrayLike<ArrayLike<{ transcript: string }>> }) => void)
+    | null;
   onerror: ((e: { error: string }) => void) | null;
   onend: (() => void) | null;
 };
 
 function getRecCtor(): (new () => Rec) | null {
   const w = window as unknown as Record<string, unknown>;
-  return (w.SpeechRecognition || w.webkitSpeechRecognition || null) as (new () => Rec) | null;
+  return (w.SpeechRecognition || w.webkitSpeechRecognition || null) as
+    (new () => Rec) | null;
 }
 
-export const recognitionSupported = () => typeof window !== 'undefined' && !!getRecCtor();
+export const recognitionSupported = () =>
+  typeof window !== "undefined" && !!getRecCtor();
 
 /** Listen once in the given language; resolves with candidate transcripts. */
-export function listenOnce(lang: 'zh-CN' | 'en-US' = 'zh-CN'): { promise: Promise<string[]>; stop: () => void } {
+export function listenOnce(lang: "zh-CN" | "en-US" = "zh-CN"): {
+  promise: Promise<string[]>;
+  stop: () => void;
+} {
   const Ctor = getRecCtor();
-  if (!Ctor) return { promise: Promise.reject(new Error('unsupported')), stop: () => {} };
+  if (!Ctor)
+    return {
+      promise: Promise.reject(new Error("unsupported")),
+      stop: () => {},
+    };
   const rec = new Ctor();
   rec.lang = lang;
   rec.interimResults = false;

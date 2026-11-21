@@ -1,279 +1,1494 @@
-import type { GrammarItem, ReadingItem } from './enMock';
+import type { GrammarItem, ReadingItem } from "./enMock";
 
 /** Question banks of the advanced (3) and proficient (4) papers. The FIRST option is the right answer. */
 export const GRAMMAR_HIGH: Record<number, GrammarItem[]> = {
   3: [
-    { q: 'If I ___ more time, I would learn Japanese.', options: ['had', 'have', 'will have', 'would have'], explain: 'Câu điều kiện loại 2: If + quá khứ đơn, would + động từ nguyên mẫu.' },
-    { q: 'If she had studied harder, she ___ the exam.', options: ['would have passed', 'would pass', 'will pass', 'passed'], explain: 'Câu điều kiện loại 3: If + had + phân từ hai, would have + phân từ hai.' },
-    { q: 'The bridge ___ in 1995.', options: ['was built', 'built', 'has built', 'was building'], explain: 'Câu bị động thì quá khứ đơn: was/were + phân từ hai.' },
-    { q: 'The report must ___ by Friday.', options: ['be finished', 'finish', 'be finishing', 'have finish'], explain: 'Bị động với động từ khuyết thiếu: must + be + phân từ hai.' },
-    { q: 'She asked me where I ___.', options: ['lived', 'do live', 'did I live', 'am living'], explain: 'Câu hỏi gián tiếp: lùi thì và không đảo ngữ → “where I lived”.' },
-    { q: 'He said that he ___ call me the next day.', options: ['would', 'will', 'shall', 'can'], explain: 'Câu tường thuật: “will” lùi thành “would”.' },
-    { q: 'The woman ___ lives next door is a doctor.', options: ['who', 'which', 'whose', 'whom'], explain: 'Đại từ quan hệ “who” thay cho người làm chủ ngữ.' },
-    { q: 'This is the house ___ I was born.', options: ['where', 'which', 'that', 'who'], explain: '“where” thay cho nơi chốn trong mệnh đề quan hệ.' },
-    { q: 'The man ___ car was stolen called the police.', options: ['whose', 'who', 'which', 'whom'], explain: '“whose” chỉ sự sở hữu: xe của người đàn ông.' },
-    { q: 'I am used to ___ up early.', options: ['getting', 'get', 'got', 'be getting'], explain: '“be used to + V-ing”: quen với việc gì.' },
-    { q: 'She suggested ___ to the beach.', options: ['going', 'to go', 'go', 'went'], explain: 'Sau “suggest” dùng V-ing.' },
-    { q: 'He promised ___ me with the project.', options: ['to help', 'helping', 'help', 'helped'], explain: 'Sau “promise” dùng to + động từ nguyên mẫu.' },
-    { q: 'I wish I ___ speak French.', options: ['could', 'can', 'will', 'am able to'], explain: 'Câu ước ở hiện tại: wish + quá khứ (could).' },
-    { q: 'By the time we arrived, the film ___.', options: ['had started', 'has started', 'starts', 'would start'], explain: 'Hành động xảy ra trước một thời điểm trong quá khứ dùng quá khứ hoàn thành.' },
-    { q: 'I ___ for this company for ten years.', options: ['have been working', 'am working', 'work', 'was working'], explain: '“for ten years” đến hiện tại → hiện tại hoàn thành tiếp diễn.' },
-    { q: 'This time next week, I ___ on a beach.', options: ['will be lying', 'lie', 'am lying', 'have lain'], explain: 'Hành động đang diễn ra tại một thời điểm trong tương lai: will be + V-ing.' },
-    { q: '___ it was raining, we went out.', options: ['Although', 'Because', 'Despite', 'However'], explain: '“Although” + mệnh đề chỉ sự nhượng bộ; “despite” + danh từ.' },
-    { q: '___ the heavy traffic, we arrived on time.', options: ['Despite', 'Although', 'Even though', 'Because'], explain: '“Despite” + cụm danh từ.' },
-    { q: 'You ___ have told me earlier. Now it is too late.', options: ['should', 'must', 'can', 'will'], explain: '“should have + phân từ hai”: lẽ ra nên làm nhưng đã không làm.' },
-    { q: 'The lights are off. They ___ have gone out.', options: ['must', 'should', 'can', 'would'], explain: '“must have + phân từ hai”: suy đoán chắc chắn về quá khứ.' },
-    { q: 'I had my car ___ yesterday.', options: ['repaired', 'repair', 'repairing', 'to repair'], explain: 'Cấu trúc nhờ vả: have + tân ngữ + phân từ hai.' },
-    { q: 'The more you practice, ___ you become.', options: ['the better', 'better', 'the best', 'the more good'], explain: 'So sánh kép: the + so sánh hơn …, the + so sánh hơn ….' },
-    { q: 'She is not as tall ___ her brother.', options: ['as', 'than', 'like', 'that'], explain: 'So sánh bằng: as + tính từ + as.' },
-    { q: 'He is interested ___ learning about history.', options: ['in', 'on', 'at', 'about'], explain: '“interested in”: quan tâm đến.' },
-    { q: 'It was ___ a good film that I watched it twice.', options: ['such', 'so', 'very', 'too'], explain: '“such + a/an + tính từ + danh từ + that”.' },
-    { q: 'The test was ___ difficult that nobody finished it.', options: ['so', 'such', 'too', 'enough'], explain: '“so + tính từ + that”.' },
-    { q: 'You had better ___ a doctor.', options: ['see', 'to see', 'seeing', 'saw'], explain: 'Sau “had better” dùng động từ nguyên mẫu không “to”.' },
-    { q: 'I would rather ___ at home tonight.', options: ['stay', 'to stay', 'staying', 'stayed'], explain: 'Sau “would rather” dùng động từ nguyên mẫu không “to”.' },
-    { q: 'Unless you hurry, you ___ the bus.', options: ['will miss', 'would miss', 'missed', 'do not miss'], explain: '“Unless” = “if … not”; câu điều kiện loại 1 dùng “will”.' },
-    { q: 'Neither my brother nor my sister ___ here.', options: ['lives', 'live', 'are living', 'have lived'], explain: '“Neither … nor …”: động từ chia theo chủ ngữ gần nhất (my sister → lives).' },
-    { q: 'She speaks English ___ than I do.', options: ['more fluently', 'more fluent', 'most fluently', 'fluenter'], explain: 'So sánh hơn của trạng từ dài: more + trạng từ.' },
-    { q: 'Do you mind ___ the window?', options: ['opening', 'to open', 'open', 'opened'], explain: 'Sau “mind” dùng V-ing.' },
+    {
+      q: "If I ___ more time, I would learn Japanese.",
+      options: ["had", "have", "will have", "would have"],
+      explain:
+        "Câu điều kiện loại 2: If + quá khứ đơn, would + động từ nguyên mẫu.",
+    },
+    {
+      q: "If she had studied harder, she ___ the exam.",
+      options: ["would have passed", "would pass", "will pass", "passed"],
+      explain:
+        "Câu điều kiện loại 3: If + had + phân từ hai, would have + phân từ hai.",
+    },
+    {
+      q: "The bridge ___ in 1995.",
+      options: ["was built", "built", "has built", "was building"],
+      explain: "Câu bị động thì quá khứ đơn: was/were + phân từ hai.",
+    },
+    {
+      q: "The report must ___ by Friday.",
+      options: ["be finished", "finish", "be finishing", "have finish"],
+      explain: "Bị động với động từ khuyết thiếu: must + be + phân từ hai.",
+    },
+    {
+      q: "She asked me where I ___.",
+      options: ["lived", "do live", "did I live", "am living"],
+      explain: "Câu hỏi gián tiếp: lùi thì và không đảo ngữ → “where I lived”.",
+    },
+    {
+      q: "He said that he ___ call me the next day.",
+      options: ["would", "will", "shall", "can"],
+      explain: "Câu tường thuật: “will” lùi thành “would”.",
+    },
+    {
+      q: "The woman ___ lives next door is a doctor.",
+      options: ["who", "which", "whose", "whom"],
+      explain: "Đại từ quan hệ “who” thay cho người làm chủ ngữ.",
+    },
+    {
+      q: "This is the house ___ I was born.",
+      options: ["where", "which", "that", "who"],
+      explain: "“where” thay cho nơi chốn trong mệnh đề quan hệ.",
+    },
+    {
+      q: "The man ___ car was stolen called the police.",
+      options: ["whose", "who", "which", "whom"],
+      explain: "“whose” chỉ sự sở hữu: xe của người đàn ông.",
+    },
+    {
+      q: "I am used to ___ up early.",
+      options: ["getting", "get", "got", "be getting"],
+      explain: "“be used to + V-ing”: quen với việc gì.",
+    },
+    {
+      q: "She suggested ___ to the beach.",
+      options: ["going", "to go", "go", "went"],
+      explain: "Sau “suggest” dùng V-ing.",
+    },
+    {
+      q: "He promised ___ me with the project.",
+      options: ["to help", "helping", "help", "helped"],
+      explain: "Sau “promise” dùng to + động từ nguyên mẫu.",
+    },
+    {
+      q: "I wish I ___ speak French.",
+      options: ["could", "can", "will", "am able to"],
+      explain: "Câu ước ở hiện tại: wish + quá khứ (could).",
+    },
+    {
+      q: "By the time we arrived, the film ___.",
+      options: ["had started", "has started", "starts", "would start"],
+      explain:
+        "Hành động xảy ra trước một thời điểm trong quá khứ dùng quá khứ hoàn thành.",
+    },
+    {
+      q: "I ___ for this company for ten years.",
+      options: ["have been working", "am working", "work", "was working"],
+      explain: "“for ten years” đến hiện tại → hiện tại hoàn thành tiếp diễn.",
+    },
+    {
+      q: "This time next week, I ___ on a beach.",
+      options: ["will be lying", "lie", "am lying", "have lain"],
+      explain:
+        "Hành động đang diễn ra tại một thời điểm trong tương lai: will be + V-ing.",
+    },
+    {
+      q: "___ it was raining, we went out.",
+      options: ["Although", "Because", "Despite", "However"],
+      explain: "“Although” + mệnh đề chỉ sự nhượng bộ; “despite” + danh từ.",
+    },
+    {
+      q: "___ the heavy traffic, we arrived on time.",
+      options: ["Despite", "Although", "Even though", "Because"],
+      explain: "“Despite” + cụm danh từ.",
+    },
+    {
+      q: "You ___ have told me earlier. Now it is too late.",
+      options: ["should", "must", "can", "will"],
+      explain: "“should have + phân từ hai”: lẽ ra nên làm nhưng đã không làm.",
+    },
+    {
+      q: "The lights are off. They ___ have gone out.",
+      options: ["must", "should", "can", "would"],
+      explain: "“must have + phân từ hai”: suy đoán chắc chắn về quá khứ.",
+    },
+    {
+      q: "I had my car ___ yesterday.",
+      options: ["repaired", "repair", "repairing", "to repair"],
+      explain: "Cấu trúc nhờ vả: have + tân ngữ + phân từ hai.",
+    },
+    {
+      q: "The more you practice, ___ you become.",
+      options: ["the better", "better", "the best", "the more good"],
+      explain: "So sánh kép: the + so sánh hơn …, the + so sánh hơn ….",
+    },
+    {
+      q: "She is not as tall ___ her brother.",
+      options: ["as", "than", "like", "that"],
+      explain: "So sánh bằng: as + tính từ + as.",
+    },
+    {
+      q: "He is interested ___ learning about history.",
+      options: ["in", "on", "at", "about"],
+      explain: "“interested in”: quan tâm đến.",
+    },
+    {
+      q: "It was ___ a good film that I watched it twice.",
+      options: ["such", "so", "very", "too"],
+      explain: "“such + a/an + tính từ + danh từ + that”.",
+    },
+    {
+      q: "The test was ___ difficult that nobody finished it.",
+      options: ["so", "such", "too", "enough"],
+      explain: "“so + tính từ + that”.",
+    },
+    {
+      q: "You had better ___ a doctor.",
+      options: ["see", "to see", "seeing", "saw"],
+      explain: "Sau “had better” dùng động từ nguyên mẫu không “to”.",
+    },
+    {
+      q: "I would rather ___ at home tonight.",
+      options: ["stay", "to stay", "staying", "stayed"],
+      explain: "Sau “would rather” dùng động từ nguyên mẫu không “to”.",
+    },
+    {
+      q: "Unless you hurry, you ___ the bus.",
+      options: ["will miss", "would miss", "missed", "do not miss"],
+      explain: "“Unless” = “if … not”; câu điều kiện loại 1 dùng “will”.",
+    },
+    {
+      q: "Neither my brother nor my sister ___ here.",
+      options: ["lives", "live", "are living", "have lived"],
+      explain:
+        "“Neither … nor …”: động từ chia theo chủ ngữ gần nhất (my sister → lives).",
+    },
+    {
+      q: "She speaks English ___ than I do.",
+      options: ["more fluently", "more fluent", "most fluently", "fluenter"],
+      explain: "So sánh hơn của trạng từ dài: more + trạng từ.",
+    },
+    {
+      q: "Do you mind ___ the window?",
+      options: ["opening", "to open", "open", "opened"],
+      explain: "Sau “mind” dùng V-ing.",
+    },
   ],
   4: [
-    { q: 'Hardly ___ the door when the phone rang.', options: ['had I opened', 'I had opened', 'I opened', 'did I opened'], explain: 'Đảo ngữ với “Hardly”: Hardly + had + chủ ngữ + phân từ hai … when ….' },
-    { q: 'Not only ___ late, but he also forgot the documents.', options: ['did he arrive', 'he arrived', 'he did arrive', 'arrived he'], explain: 'Đảo ngữ sau “Not only”: trợ động từ đứng trước chủ ngữ.' },
-    { q: '___ I known about the problem, I would have helped.', options: ['Had', 'If', 'Should', 'Were'], explain: 'Đảo ngữ câu điều kiện loại 3: Had + chủ ngữ + phân từ hai.' },
-    { q: '___ you need any help, please call me.', options: ['Should', 'Had', 'Were', 'Would'], explain: 'Đảo ngữ câu điều kiện loại 1: Should + chủ ngữ + động từ nguyên mẫu.' },
-    { q: 'If I had taken the job, I ___ in London now.', options: ['would be living', 'would have lived', 'will live', 'had lived'], explain: 'Câu điều kiện hỗn hợp: điều kiện quá khứ, kết quả hiện tại → would + động từ nguyên mẫu.' },
-    { q: 'The manager insisted that every employee ___ on time.', options: ['be', 'is', 'was', 'will be'], explain: 'Thức giả định sau “insist that”: động từ nguyên mẫu không “to”.' },
-    { q: 'It is essential that she ___ the form today.', options: ['sign', 'signs', 'signed', 'will sign'], explain: 'Thức giả định sau “It is essential that”: động từ nguyên mẫu.' },
-    { q: 'It is high time we ___ a decision.', options: ['made', 'make', 'will make', 'have made'], explain: '“It is high time + chủ ngữ + quá khứ đơn”.' },
-    { q: 'I would rather you ___ here.', options: ['did not smoke', 'do not smoke', 'not smoke', 'will not smoke'], explain: '“would rather + chủ ngữ khác + quá khứ đơn” khi nói về hiện tại.' },
-    { q: 'He talks as if he ___ everything.', options: ['knew', 'knows', 'has known', 'will know'], explain: '“as if” + quá khứ đơn diễn tả điều không có thật ở hiện tại.' },
-    { q: '___ the report, she went home.', options: ['Having finished', 'Finished', 'To finish', 'Being finished'], explain: 'Phân từ hoàn thành “Having + phân từ hai”: hành động xảy ra trước.' },
-    { q: '___ in 1900, the school is the oldest in the city.', options: ['Founded', 'Founding', 'Having founded', 'To found'], explain: 'Mệnh đề rút gọn bị động dùng phân từ hai.' },
-    { q: 'The company is said ___ millions last year.', options: ['to have lost', 'to lose', 'losing', 'that it lost'], explain: 'Bị động với động từ tường thuật: be said + to have + phân từ hai (việc đã xảy ra).' },
-    { q: 'By next June, she ___ here for twenty years.', options: ['will have worked', 'will work', 'has worked', 'is working'], explain: 'Tương lai hoàn thành: will have + phân từ hai, với “by + thời điểm tương lai”.' },
-    { q: 'You ___ have brought a gift, but thank you.', options: ['need not', 'must not', 'could not', 'may not'], explain: '“need not have + phân từ hai”: đã làm việc không cần thiết.' },
-    { q: 'He ___ have taken the money. He was not even there.', options: ['cannot', 'must', 'should', 'need'], explain: '“cannot have + phân từ hai”: suy đoán chắc chắn điều đã không xảy ra.' },
-    { q: 'Little ___ that the decision would change his life.', options: ['did he know', 'he knew', 'he did know', 'knew he'], explain: 'Đảo ngữ sau trạng từ phủ định “Little”.' },
-    { q: '___ hard he tried, he could not open the door.', options: ['However', 'Whatever', 'Although', 'Despite'], explain: '“However + tính từ/trạng từ + chủ ngữ + động từ”: dù … đến đâu.' },
-    { q: 'What I need ___ a long holiday.', options: ['is', 'are', 'being', 'to be'], explain: 'Câu chẻ với “What”: mệnh đề danh từ làm chủ ngữ số ít → “is”.' },
-    { q: 'It was the manager ___ made the final decision.', options: ['who', 'whom', 'what', 'which'], explain: 'Câu chẻ: It was + người + who/that + động từ.' },
-    { q: 'She objected ___ treated like a child.', options: ['to being', 'to be', 'being', 'be'], explain: '“object to + V-ing”; dạng bị động: being + phân từ hai.' },
-    { q: 'There is no point ___ about it now.', options: ['in worrying', 'to worry', 'worry', 'of worry'], explain: '“There is no point in + V-ing”.' },
-    { q: 'I regret ___ you that your application was not successful.', options: ['to inform', 'informing', 'inform', 'informed'], explain: '“regret to inform”: lấy làm tiếc phải thông báo (trang trọng).' },
-    { q: 'The new law, ___ was passed last month, bans smoking in cafes.', options: ['which', 'that', 'what', 'who'], explain: 'Mệnh đề quan hệ không xác định (có dấu phẩy) dùng “which”, không dùng “that”.' },
-    { q: 'Under no circumstances ___ leave the building.', options: ['should you', 'you should', 'you must', 'do you should'], explain: 'Đảo ngữ sau “Under no circumstances”.' },
-    { q: 'The project was completed ahead ___ schedule.', options: ['of', 'from', 'to', 'with'], explain: 'Cụm cố định “ahead of schedule”: trước thời hạn.' },
-    { q: 'She succeeded ___ persuading the board.', options: ['in', 'on', 'at', 'to'], explain: '“succeed in + V-ing”.' },
-    { q: 'Were it not ___ your help, I would have failed.', options: ['for', 'by', 'with', 'of'], explain: '“Were it not for …”: nếu không nhờ có ….' },
-    { q: 'No sooner had we sat down ___ the lights went out.', options: ['than', 'when', 'that', 'then'], explain: '“No sooner … than …”.' },
-    { q: 'The data ___ that prices will rise.', options: ['suggest', 'suggesting', 'is suggested', 'to suggest'], explain: 'Câu cần một động từ chính chia thì: “suggest”.' },
-    { q: 'He is believed ___ abroad at the moment.', options: ['to be living', 'living', 'to have live', 'that lives'], explain: 'be believed + to be + V-ing: việc đang diễn ra.' },
-    { q: 'Only after the meeting ___ the truth.', options: ['did I learn', 'I learned', 'I did learn', 'learned I'], explain: 'Đảo ngữ sau “Only after + danh từ”.' },
+    {
+      q: "Hardly ___ the door when the phone rang.",
+      options: ["had I opened", "I had opened", "I opened", "did I opened"],
+      explain:
+        "Đảo ngữ với “Hardly”: Hardly + had + chủ ngữ + phân từ hai … when ….",
+    },
+    {
+      q: "Not only ___ late, but he also forgot the documents.",
+      options: ["did he arrive", "he arrived", "he did arrive", "arrived he"],
+      explain: "Đảo ngữ sau “Not only”: trợ động từ đứng trước chủ ngữ.",
+    },
+    {
+      q: "___ I known about the problem, I would have helped.",
+      options: ["Had", "If", "Should", "Were"],
+      explain: "Đảo ngữ câu điều kiện loại 3: Had + chủ ngữ + phân từ hai.",
+    },
+    {
+      q: "___ you need any help, please call me.",
+      options: ["Should", "Had", "Were", "Would"],
+      explain:
+        "Đảo ngữ câu điều kiện loại 1: Should + chủ ngữ + động từ nguyên mẫu.",
+    },
+    {
+      q: "If I had taken the job, I ___ in London now.",
+      options: [
+        "would be living",
+        "would have lived",
+        "will live",
+        "had lived",
+      ],
+      explain:
+        "Câu điều kiện hỗn hợp: điều kiện quá khứ, kết quả hiện tại → would + động từ nguyên mẫu.",
+    },
+    {
+      q: "The manager insisted that every employee ___ on time.",
+      options: ["be", "is", "was", "will be"],
+      explain:
+        "Thức giả định sau “insist that”: động từ nguyên mẫu không “to”.",
+    },
+    {
+      q: "It is essential that she ___ the form today.",
+      options: ["sign", "signs", "signed", "will sign"],
+      explain: "Thức giả định sau “It is essential that”: động từ nguyên mẫu.",
+    },
+    {
+      q: "It is high time we ___ a decision.",
+      options: ["made", "make", "will make", "have made"],
+      explain: "“It is high time + chủ ngữ + quá khứ đơn”.",
+    },
+    {
+      q: "I would rather you ___ here.",
+      options: ["did not smoke", "do not smoke", "not smoke", "will not smoke"],
+      explain:
+        "“would rather + chủ ngữ khác + quá khứ đơn” khi nói về hiện tại.",
+    },
+    {
+      q: "He talks as if he ___ everything.",
+      options: ["knew", "knows", "has known", "will know"],
+      explain: "“as if” + quá khứ đơn diễn tả điều không có thật ở hiện tại.",
+    },
+    {
+      q: "___ the report, she went home.",
+      options: ["Having finished", "Finished", "To finish", "Being finished"],
+      explain:
+        "Phân từ hoàn thành “Having + phân từ hai”: hành động xảy ra trước.",
+    },
+    {
+      q: "___ in 1900, the school is the oldest in the city.",
+      options: ["Founded", "Founding", "Having founded", "To found"],
+      explain: "Mệnh đề rút gọn bị động dùng phân từ hai.",
+    },
+    {
+      q: "The company is said ___ millions last year.",
+      options: ["to have lost", "to lose", "losing", "that it lost"],
+      explain:
+        "Bị động với động từ tường thuật: be said + to have + phân từ hai (việc đã xảy ra).",
+    },
+    {
+      q: "By next June, she ___ here for twenty years.",
+      options: ["will have worked", "will work", "has worked", "is working"],
+      explain:
+        "Tương lai hoàn thành: will have + phân từ hai, với “by + thời điểm tương lai”.",
+    },
+    {
+      q: "You ___ have brought a gift, but thank you.",
+      options: ["need not", "must not", "could not", "may not"],
+      explain: "“need not have + phân từ hai”: đã làm việc không cần thiết.",
+    },
+    {
+      q: "He ___ have taken the money. He was not even there.",
+      options: ["cannot", "must", "should", "need"],
+      explain:
+        "“cannot have + phân từ hai”: suy đoán chắc chắn điều đã không xảy ra.",
+    },
+    {
+      q: "Little ___ that the decision would change his life.",
+      options: ["did he know", "he knew", "he did know", "knew he"],
+      explain: "Đảo ngữ sau trạng từ phủ định “Little”.",
+    },
+    {
+      q: "___ hard he tried, he could not open the door.",
+      options: ["However", "Whatever", "Although", "Despite"],
+      explain:
+        "“However + tính từ/trạng từ + chủ ngữ + động từ”: dù … đến đâu.",
+    },
+    {
+      q: "What I need ___ a long holiday.",
+      options: ["is", "are", "being", "to be"],
+      explain: "Câu chẻ với “What”: mệnh đề danh từ làm chủ ngữ số ít → “is”.",
+    },
+    {
+      q: "It was the manager ___ made the final decision.",
+      options: ["who", "whom", "what", "which"],
+      explain: "Câu chẻ: It was + người + who/that + động từ.",
+    },
+    {
+      q: "She objected ___ treated like a child.",
+      options: ["to being", "to be", "being", "be"],
+      explain: "“object to + V-ing”; dạng bị động: being + phân từ hai.",
+    },
+    {
+      q: "There is no point ___ about it now.",
+      options: ["in worrying", "to worry", "worry", "of worry"],
+      explain: "“There is no point in + V-ing”.",
+    },
+    {
+      q: "I regret ___ you that your application was not successful.",
+      options: ["to inform", "informing", "inform", "informed"],
+      explain: "“regret to inform”: lấy làm tiếc phải thông báo (trang trọng).",
+    },
+    {
+      q: "The new law, ___ was passed last month, bans smoking in cafes.",
+      options: ["which", "that", "what", "who"],
+      explain:
+        "Mệnh đề quan hệ không xác định (có dấu phẩy) dùng “which”, không dùng “that”.",
+    },
+    {
+      q: "Under no circumstances ___ leave the building.",
+      options: ["should you", "you should", "you must", "do you should"],
+      explain: "Đảo ngữ sau “Under no circumstances”.",
+    },
+    {
+      q: "The project was completed ahead ___ schedule.",
+      options: ["of", "from", "to", "with"],
+      explain: "Cụm cố định “ahead of schedule”: trước thời hạn.",
+    },
+    {
+      q: "She succeeded ___ persuading the board.",
+      options: ["in", "on", "at", "to"],
+      explain: "“succeed in + V-ing”.",
+    },
+    {
+      q: "Were it not ___ your help, I would have failed.",
+      options: ["for", "by", "with", "of"],
+      explain: "“Were it not for …”: nếu không nhờ có ….",
+    },
+    {
+      q: "No sooner had we sat down ___ the lights went out.",
+      options: ["than", "when", "that", "then"],
+      explain: "“No sooner … than …”.",
+    },
+    {
+      q: "The data ___ that prices will rise.",
+      options: ["suggest", "suggesting", "is suggested", "to suggest"],
+      explain: "Câu cần một động từ chính chia thì: “suggest”.",
+    },
+    {
+      q: "He is believed ___ abroad at the moment.",
+      options: ["to be living", "living", "to have live", "that lives"],
+      explain: "be believed + to be + V-ing: việc đang diễn ra.",
+    },
+    {
+      q: "Only after the meeting ___ the truth.",
+      options: ["did I learn", "I learned", "I did learn", "learned I"],
+      explain: "Đảo ngữ sau “Only after + danh từ”.",
+    },
   ],
   5: [
-    { q: 'Little ___ that the decision would change his life.', options: ['did he know', 'he knew', 'he did know', 'knew he'], explain: 'Đảo ngữ sau “Little”: trợ động từ đứng trước chủ ngữ.' },
-    { q: 'Under no circumstances ___ to leave the building.', options: ['are visitors allowed', 'visitors are allowed', 'visitors allowed', 'allowed are visitors'], explain: 'Đảo ngữ sau cụm phủ định “Under no circumstances”.' },
-    { q: 'Only after the meeting ___ how serious the problem was.', options: ['did she realize', 'she realized', 'she did realize', 'realized she'], explain: 'Đảo ngữ sau “Only after …”: trợ động từ + chủ ngữ + động từ.' },
-    { q: 'So ___ that nobody could finish it.', options: ['difficult was the test', 'the test was difficult', 'difficult the test was', 'was the test difficult'], explain: 'Đảo ngữ “So + tính từ + be + chủ ngữ + that …”.' },
-    { q: '___ it not been for your help, we would have failed.', options: ['Had', 'If', 'Were', 'Should'], explain: '“Had it not been for …” = nếu không nhờ … (đảo ngữ điều kiện loại 3).' },
-    { q: '___ the weather to improve, we could go sailing.', options: ['Were', 'Had', 'Should', 'If'], explain: 'Đảo ngữ điều kiện loại 2: Were + chủ ngữ + to V.' },
-    { q: 'The committee recommended that the proposal ___ rejected.', options: ['be', 'is', 'was', 'would be'], explain: 'Thức giả định sau “recommend that”: động từ nguyên mẫu “be”.' },
-    { q: 'He is believed ___ the country last week.', options: ['to have left', 'to leave', 'leaving', 'that he left'], explain: 'Bị động với động từ tường thuật: be believed + to have + phân từ hai (việc đã xảy ra).' },
-    { q: 'The bridge is said ___ in the fifteenth century.', options: ['to have been built', 'to be building', 'to build', 'having built'], explain: 'Nguyên mẫu hoàn thành bị động: to have been + phân từ hai.' },
-    { q: 'I regret ___ you that your application was unsuccessful.', options: ['to inform', 'informing', 'inform', 'informed'], explain: '“regret to inform” = lấy làm tiếc phải thông báo (việc sắp nói).' },
-    { q: 'She denied ___ the confidential files.', options: ['having seen', 'to see', 'to have seen', 'see'], explain: 'Sau “deny” dùng V-ing; “having seen” nhấn mạnh việc xảy ra trước.' },
-    { q: 'You ___ have told me earlier; now it is too late.', options: ['should', 'must', 'can', 'will'], explain: '“should have + phân từ hai”: lẽ ra nên làm nhưng đã không làm.' },
-    { q: 'The lights are off, so they ___ have gone out.', options: ['must', 'should', 'need', 'would'], explain: '“must have + phân từ hai”: suy đoán chắc chắn về quá khứ.' },
-    { q: 'You ___ have brought wine; we already had plenty.', options: ['need not', 'must not', 'could not', 'might not'], explain: '“need not have + phân từ hai”: đã làm một việc không cần thiết.' },
-    { q: '___ tired she was, she kept working.', options: ['However', 'Whatever', 'Although', 'Despite'], explain: '“However + tính từ + chủ ngữ + động từ” = dù … đến đâu.' },
-    { q: 'Try ___ he might, he could not open the door.', options: ['as', 'so', 'if', 'that'], explain: 'Cấu trúc nhượng bộ đảo ngữ: “Try as he might” = dù cố thế nào.' },
-    { q: 'The report, ___ was published yesterday, criticizes the plan.', options: ['which', 'that', 'what', 'who'], explain: 'Mệnh đề quan hệ không xác định (có dấu phẩy) dùng “which”, không dùng “that”.' },
-    { q: 'She has two brothers, both of ___ are doctors.', options: ['whom', 'who', 'which', 'them'], explain: 'Sau giới từ “of” chỉ người trong mệnh đề quan hệ dùng “whom”.' },
-    { q: 'By the time you arrive, we ___ dinner.', options: ['will have finished', 'will finish', 'have finished', 'finished'], explain: 'Tương lai hoàn thành: việc hoàn tất trước một thời điểm tương lai.' },
-    { q: 'I wish I ___ harder when I was at school.', options: ['had studied', 'studied', 'would study', 'have studied'], explain: '“wish + quá khứ hoàn thành”: tiếc về quá khứ.' },
-    { q: 'It was not until midnight ___ the rain stopped.', options: ['that', 'when', 'then', 'which'], explain: 'Câu nhấn mạnh: “It was not until … that …”.' },
-    { q: 'What surprised me most ___ his calm reaction.', options: ['was', 'were', 'is being', 'have been'], explain: 'Mệnh đề “What …” làm chủ ngữ số ít → động từ số ít “was”.' },
-    { q: 'No sooner had we sat down ___ the fire alarm rang.', options: ['than', 'when', 'then', 'that'], explain: '“No sooner … than …” = vừa mới … thì ….' },
-    { q: 'The new law, ___ effect in May, bans plastic bags.', options: ['which comes into', 'what comes into', 'that it comes into', 'coming to'], explain: 'Mệnh đề quan hệ không xác định với “which”; “come into effect” = có hiệu lực.' },
-    { q: 'Not until the results were published ___ the scale of the error.', options: ['did they grasp', 'they grasped', 'they did grasp', 'grasped they'], explain: 'Đảo ngữ ở mệnh đề chính sau “Not until …”.' },
-    { q: 'She would sooner resign ___ accept those conditions.', options: ['than', 'to', 'rather', 'as'], explain: '“would sooner + V + than + V” = thà … còn hơn ….' },
+    {
+      q: "Little ___ that the decision would change his life.",
+      options: ["did he know", "he knew", "he did know", "knew he"],
+      explain: "Đảo ngữ sau “Little”: trợ động từ đứng trước chủ ngữ.",
+    },
+    {
+      q: "Under no circumstances ___ to leave the building.",
+      options: [
+        "are visitors allowed",
+        "visitors are allowed",
+        "visitors allowed",
+        "allowed are visitors",
+      ],
+      explain: "Đảo ngữ sau cụm phủ định “Under no circumstances”.",
+    },
+    {
+      q: "Only after the meeting ___ how serious the problem was.",
+      options: [
+        "did she realize",
+        "she realized",
+        "she did realize",
+        "realized she",
+      ],
+      explain: "Đảo ngữ sau “Only after …”: trợ động từ + chủ ngữ + động từ.",
+    },
+    {
+      q: "So ___ that nobody could finish it.",
+      options: [
+        "difficult was the test",
+        "the test was difficult",
+        "difficult the test was",
+        "was the test difficult",
+      ],
+      explain: "Đảo ngữ “So + tính từ + be + chủ ngữ + that …”.",
+    },
+    {
+      q: "___ it not been for your help, we would have failed.",
+      options: ["Had", "If", "Were", "Should"],
+      explain:
+        "“Had it not been for …” = nếu không nhờ … (đảo ngữ điều kiện loại 3).",
+    },
+    {
+      q: "___ the weather to improve, we could go sailing.",
+      options: ["Were", "Had", "Should", "If"],
+      explain: "Đảo ngữ điều kiện loại 2: Were + chủ ngữ + to V.",
+    },
+    {
+      q: "The committee recommended that the proposal ___ rejected.",
+      options: ["be", "is", "was", "would be"],
+      explain: "Thức giả định sau “recommend that”: động từ nguyên mẫu “be”.",
+    },
+    {
+      q: "He is believed ___ the country last week.",
+      options: ["to have left", "to leave", "leaving", "that he left"],
+      explain:
+        "Bị động với động từ tường thuật: be believed + to have + phân từ hai (việc đã xảy ra).",
+    },
+    {
+      q: "The bridge is said ___ in the fifteenth century.",
+      options: [
+        "to have been built",
+        "to be building",
+        "to build",
+        "having built",
+      ],
+      explain: "Nguyên mẫu hoàn thành bị động: to have been + phân từ hai.",
+    },
+    {
+      q: "I regret ___ you that your application was unsuccessful.",
+      options: ["to inform", "informing", "inform", "informed"],
+      explain:
+        "“regret to inform” = lấy làm tiếc phải thông báo (việc sắp nói).",
+    },
+    {
+      q: "She denied ___ the confidential files.",
+      options: ["having seen", "to see", "to have seen", "see"],
+      explain:
+        "Sau “deny” dùng V-ing; “having seen” nhấn mạnh việc xảy ra trước.",
+    },
+    {
+      q: "You ___ have told me earlier; now it is too late.",
+      options: ["should", "must", "can", "will"],
+      explain: "“should have + phân từ hai”: lẽ ra nên làm nhưng đã không làm.",
+    },
+    {
+      q: "The lights are off, so they ___ have gone out.",
+      options: ["must", "should", "need", "would"],
+      explain: "“must have + phân từ hai”: suy đoán chắc chắn về quá khứ.",
+    },
+    {
+      q: "You ___ have brought wine; we already had plenty.",
+      options: ["need not", "must not", "could not", "might not"],
+      explain:
+        "“need not have + phân từ hai”: đã làm một việc không cần thiết.",
+    },
+    {
+      q: "___ tired she was, she kept working.",
+      options: ["However", "Whatever", "Although", "Despite"],
+      explain: "“However + tính từ + chủ ngữ + động từ” = dù … đến đâu.",
+    },
+    {
+      q: "Try ___ he might, he could not open the door.",
+      options: ["as", "so", "if", "that"],
+      explain: "Cấu trúc nhượng bộ đảo ngữ: “Try as he might” = dù cố thế nào.",
+    },
+    {
+      q: "The report, ___ was published yesterday, criticizes the plan.",
+      options: ["which", "that", "what", "who"],
+      explain:
+        "Mệnh đề quan hệ không xác định (có dấu phẩy) dùng “which”, không dùng “that”.",
+    },
+    {
+      q: "She has two brothers, both of ___ are doctors.",
+      options: ["whom", "who", "which", "them"],
+      explain: "Sau giới từ “of” chỉ người trong mệnh đề quan hệ dùng “whom”.",
+    },
+    {
+      q: "By the time you arrive, we ___ dinner.",
+      options: [
+        "will have finished",
+        "will finish",
+        "have finished",
+        "finished",
+      ],
+      explain:
+        "Tương lai hoàn thành: việc hoàn tất trước một thời điểm tương lai.",
+    },
+    {
+      q: "I wish I ___ harder when I was at school.",
+      options: ["had studied", "studied", "would study", "have studied"],
+      explain: "“wish + quá khứ hoàn thành”: tiếc về quá khứ.",
+    },
+    {
+      q: "It was not until midnight ___ the rain stopped.",
+      options: ["that", "when", "then", "which"],
+      explain: "Câu nhấn mạnh: “It was not until … that …”.",
+    },
+    {
+      q: "What surprised me most ___ his calm reaction.",
+      options: ["was", "were", "is being", "have been"],
+      explain: "Mệnh đề “What …” làm chủ ngữ số ít → động từ số ít “was”.",
+    },
+    {
+      q: "No sooner had we sat down ___ the fire alarm rang.",
+      options: ["than", "when", "then", "that"],
+      explain: "“No sooner … than …” = vừa mới … thì ….",
+    },
+    {
+      q: "The new law, ___ effect in May, bans plastic bags.",
+      options: [
+        "which comes into",
+        "what comes into",
+        "that it comes into",
+        "coming to",
+      ],
+      explain:
+        "Mệnh đề quan hệ không xác định với “which”; “come into effect” = có hiệu lực.",
+    },
+    {
+      q: "Not until the results were published ___ the scale of the error.",
+      options: [
+        "did they grasp",
+        "they grasped",
+        "they did grasp",
+        "grasped they",
+      ],
+      explain: "Đảo ngữ ở mệnh đề chính sau “Not until …”.",
+    },
+    {
+      q: "She would sooner resign ___ accept those conditions.",
+      options: ["than", "to", "rather", "as"],
+      explain: "“would sooner + V + than + V” = thà … còn hơn ….",
+    },
   ],
 };
 
 export const READING_HIGH: Record<number, ReadingItem[]> = {
   3: [
     {
-      text: 'More and more people now work from home. Supporters say that it saves time and money because workers do not have to commute, and many employees feel less stress. However, some managers worry that teamwork suffers when colleagues rarely meet. A recent survey of five hundred companies found that most of them plan to keep a mixed model: staff come to the office two or three days a week and work from home on the other days.',
+      text: "More and more people now work from home. Supporters say that it saves time and money because workers do not have to commute, and many employees feel less stress. However, some managers worry that teamwork suffers when colleagues rarely meet. A recent survey of five hundred companies found that most of them plan to keep a mixed model: staff come to the office two or three days a week and work from home on the other days.",
       qs: [
-        { q: 'What is the main topic of the text?', options: ['Working from home', 'Traffic problems in cities', 'How to find a new job', 'Stress at school'], explain: 'Cả bài nói về việc làm việc tại nhà.' },
-        { q: 'Why does working from home save time?', options: ['Workers do not have to commute', 'Meetings are shorter', 'Managers work less', 'Offices close earlier'], explain: 'Trong bài: “workers do not have to commute”.' },
-        { q: 'What do some managers worry about?', options: ['Teamwork may suffer', 'Workers earn too much', 'Offices are too expensive', 'Employees feel less stress'], explain: 'Trong bài: “some managers worry that teamwork suffers”.' },
-        { q: 'How many companies took part in the survey?', options: ['Five hundred', 'Two or three', 'Fifty', 'Five thousand'], explain: 'Trong bài: “A recent survey of five hundred companies”.' },
-        { q: 'What do most companies plan to do?', options: ['Keep a mixed model', 'Close their offices', 'Stop working from home', 'Hire more managers'], explain: 'Trong bài: “most of them plan to keep a mixed model”.' },
+        {
+          q: "What is the main topic of the text?",
+          options: [
+            "Working from home",
+            "Traffic problems in cities",
+            "How to find a new job",
+            "Stress at school",
+          ],
+          explain: "Cả bài nói về việc làm việc tại nhà.",
+        },
+        {
+          q: "Why does working from home save time?",
+          options: [
+            "Workers do not have to commute",
+            "Meetings are shorter",
+            "Managers work less",
+            "Offices close earlier",
+          ],
+          explain: "Trong bài: “workers do not have to commute”.",
+        },
+        {
+          q: "What do some managers worry about?",
+          options: [
+            "Teamwork may suffer",
+            "Workers earn too much",
+            "Offices are too expensive",
+            "Employees feel less stress",
+          ],
+          explain: "Trong bài: “some managers worry that teamwork suffers”.",
+        },
+        {
+          q: "How many companies took part in the survey?",
+          options: ["Five hundred", "Two or three", "Fifty", "Five thousand"],
+          explain: "Trong bài: “A recent survey of five hundred companies”.",
+        },
+        {
+          q: "What do most companies plan to do?",
+          options: [
+            "Keep a mixed model",
+            "Close their offices",
+            "Stop working from home",
+            "Hire more managers",
+          ],
+          explain: "Trong bài: “most of them plan to keep a mixed model”.",
+        },
       ],
     },
     {
-      text: 'Plastic pollution is one of the most serious environmental problems today. Every year, millions of tons of plastic end up in the ocean, where it harms fish, birds and other wildlife. Plastic does not disappear; it only breaks into smaller pieces. Many countries have banned plastic bags, and some supermarkets now charge for them. Experts say that the best solution is to reduce the amount of plastic we use, then to reuse and recycle the rest.',
+      text: "Plastic pollution is one of the most serious environmental problems today. Every year, millions of tons of plastic end up in the ocean, where it harms fish, birds and other wildlife. Plastic does not disappear; it only breaks into smaller pieces. Many countries have banned plastic bags, and some supermarkets now charge for them. Experts say that the best solution is to reduce the amount of plastic we use, then to reuse and recycle the rest.",
       qs: [
-        { q: 'Where does a lot of plastic end up?', options: ['In the ocean', 'In supermarkets', 'In forests', 'In factories'], explain: 'Trong bài: “millions of tons of plastic end up in the ocean”.' },
-        { q: 'What happens to plastic over time?', options: ['It breaks into smaller pieces', 'It disappears completely', 'It turns into soil', 'It becomes safe for fish'], explain: 'Trong bài: “it only breaks into smaller pieces”.' },
-        { q: 'What have many countries done?', options: ['Banned plastic bags', 'Closed supermarkets', 'Stopped fishing', 'Built more factories'], explain: 'Trong bài: “Many countries have banned plastic bags”.' },
-        { q: 'According to experts, what is the best solution?', options: ['Reducing the plastic we use', 'Making cheaper plastic', 'Burning all plastic', 'Throwing plastic into the sea'], explain: 'Trong bài: “the best solution is to reduce the amount of plastic we use”.' },
-        { q: 'Which animals are mentioned as being harmed?', options: ['Fish and birds', 'Cats and dogs', 'Cows and pigs', 'Tigers and bears'], explain: 'Trong bài: “it harms fish, birds and other wildlife”.' },
+        {
+          q: "Where does a lot of plastic end up?",
+          options: [
+            "In the ocean",
+            "In supermarkets",
+            "In forests",
+            "In factories",
+          ],
+          explain:
+            "Trong bài: “millions of tons of plastic end up in the ocean”.",
+        },
+        {
+          q: "What happens to plastic over time?",
+          options: [
+            "It breaks into smaller pieces",
+            "It disappears completely",
+            "It turns into soil",
+            "It becomes safe for fish",
+          ],
+          explain: "Trong bài: “it only breaks into smaller pieces”.",
+        },
+        {
+          q: "What have many countries done?",
+          options: [
+            "Banned plastic bags",
+            "Closed supermarkets",
+            "Stopped fishing",
+            "Built more factories",
+          ],
+          explain: "Trong bài: “Many countries have banned plastic bags”.",
+        },
+        {
+          q: "According to experts, what is the best solution?",
+          options: [
+            "Reducing the plastic we use",
+            "Making cheaper plastic",
+            "Burning all plastic",
+            "Throwing plastic into the sea",
+          ],
+          explain:
+            "Trong bài: “the best solution is to reduce the amount of plastic we use”.",
+        },
+        {
+          q: "Which animals are mentioned as being harmed?",
+          options: [
+            "Fish and birds",
+            "Cats and dogs",
+            "Cows and pigs",
+            "Tigers and bears",
+          ],
+          explain: "Trong bài: “it harms fish, birds and other wildlife”.",
+        },
       ],
     },
     {
-      text: 'Minh graduated from university two years ago with a degree in marketing. At first he could not find a job in his field, so he worked as a waiter and took an online course in data analysis in the evenings. Last month a technology company offered him a position in its marketing team. The manager said that Minh was chosen not only because of his degree, but also because he had shown that he could learn new skills by himself.',
+      text: "Minh graduated from university two years ago with a degree in marketing. At first he could not find a job in his field, so he worked as a waiter and took an online course in data analysis in the evenings. Last month a technology company offered him a position in its marketing team. The manager said that Minh was chosen not only because of his degree, but also because he had shown that he could learn new skills by himself.",
       qs: [
-        { q: 'What did Minh study at university?', options: ['Marketing', 'Data analysis', 'Technology', 'Cooking'], explain: 'Trong bài: “a degree in marketing”.' },
-        { q: 'What job did he do at first?', options: ['He worked as a waiter', 'He worked as a manager', 'He taught online', 'He sold computers'], explain: 'Trong bài: “he worked as a waiter”.' },
-        { q: 'When did he study data analysis?', options: ['In the evenings', 'In the mornings', 'At weekends only', 'At university'], explain: 'Trong bài: “took an online course in data analysis in the evenings”.' },
-        { q: 'Who offered him a position?', options: ['A technology company', 'A restaurant', 'His university', 'A bank'], explain: 'Trong bài: “a technology company offered him a position”.' },
-        { q: 'Why was Minh chosen, according to the manager?', options: ['His degree and his ability to learn by himself', 'His experience as a waiter', 'His low salary', 'His friendship with the manager'], explain: 'Trong bài: “not only because of his degree, but also because he had shown that he could learn new skills by himself”.' },
+        {
+          q: "What did Minh study at university?",
+          options: ["Marketing", "Data analysis", "Technology", "Cooking"],
+          explain: "Trong bài: “a degree in marketing”.",
+        },
+        {
+          q: "What job did he do at first?",
+          options: [
+            "He worked as a waiter",
+            "He worked as a manager",
+            "He taught online",
+            "He sold computers",
+          ],
+          explain: "Trong bài: “he worked as a waiter”.",
+        },
+        {
+          q: "When did he study data analysis?",
+          options: [
+            "In the evenings",
+            "In the mornings",
+            "At weekends only",
+            "At university",
+          ],
+          explain:
+            "Trong bài: “took an online course in data analysis in the evenings”.",
+        },
+        {
+          q: "Who offered him a position?",
+          options: [
+            "A technology company",
+            "A restaurant",
+            "His university",
+            "A bank",
+          ],
+          explain: "Trong bài: “a technology company offered him a position”.",
+        },
+        {
+          q: "Why was Minh chosen, according to the manager?",
+          options: [
+            "His degree and his ability to learn by himself",
+            "His experience as a waiter",
+            "His low salary",
+            "His friendship with the manager",
+          ],
+          explain:
+            "Trong bài: “not only because of his degree, but also because he had shown that he could learn new skills by himself”.",
+        },
       ],
     },
     {
-      text: 'Doctors recommend that adults sleep between seven and nine hours a night. Yet a growing number of people sleep less than six hours, often because they use their phones in bed. The light from screens makes the brain think that it is still daytime, so it becomes harder to fall asleep. Lack of sleep affects memory and mood, and in the long term it increases the risk of heart disease. Experts advise turning off all screens an hour before bedtime.',
+      text: "Doctors recommend that adults sleep between seven and nine hours a night. Yet a growing number of people sleep less than six hours, often because they use their phones in bed. The light from screens makes the brain think that it is still daytime, so it becomes harder to fall asleep. Lack of sleep affects memory and mood, and in the long term it increases the risk of heart disease. Experts advise turning off all screens an hour before bedtime.",
       qs: [
-        { q: 'How long should adults sleep each night?', options: ['Seven to nine hours', 'Less than six hours', 'Exactly ten hours', 'Four to five hours'], explain: 'Trong bài: “between seven and nine hours a night”.' },
-        { q: 'Why do many people sleep less?', options: ['They use their phones in bed', 'They work at night', 'They drink too much tea', 'Their beds are uncomfortable'], explain: 'Trong bài: “often because they use their phones in bed”.' },
-        { q: 'What does the light from screens do?', options: ['It makes the brain think it is daytime', 'It helps people relax', 'It improves memory', 'It protects the heart'], explain: 'Trong bài: “makes the brain think that it is still daytime”.' },
-        { q: 'What is a long-term effect of lack of sleep?', options: ['A higher risk of heart disease', 'Better mood', 'Stronger memory', 'More free time'], explain: 'Trong bài: “it increases the risk of heart disease”.' },
-        { q: 'What do experts advise?', options: ['Turning off screens an hour before bedtime', 'Sleeping with the lights on', 'Using phones only in bed', 'Going to bed after midnight'], explain: 'Trong bài: “turning off all screens an hour before bedtime”.' },
+        {
+          q: "How long should adults sleep each night?",
+          options: [
+            "Seven to nine hours",
+            "Less than six hours",
+            "Exactly ten hours",
+            "Four to five hours",
+          ],
+          explain: "Trong bài: “between seven and nine hours a night”.",
+        },
+        {
+          q: "Why do many people sleep less?",
+          options: [
+            "They use their phones in bed",
+            "They work at night",
+            "They drink too much tea",
+            "Their beds are uncomfortable",
+          ],
+          explain: "Trong bài: “often because they use their phones in bed”.",
+        },
+        {
+          q: "What does the light from screens do?",
+          options: [
+            "It makes the brain think it is daytime",
+            "It helps people relax",
+            "It improves memory",
+            "It protects the heart",
+          ],
+          explain:
+            "Trong bài: “makes the brain think that it is still daytime”.",
+        },
+        {
+          q: "What is a long-term effect of lack of sleep?",
+          options: [
+            "A higher risk of heart disease",
+            "Better mood",
+            "Stronger memory",
+            "More free time",
+          ],
+          explain: "Trong bài: “it increases the risk of heart disease”.",
+        },
+        {
+          q: "What do experts advise?",
+          options: [
+            "Turning off screens an hour before bedtime",
+            "Sleeping with the lights on",
+            "Using phones only in bed",
+            "Going to bed after midnight",
+          ],
+          explain:
+            "Trong bài: “turning off all screens an hour before bedtime”.",
+        },
       ],
     },
     {
-      text: 'Hoi An is a small town in central Vietnam that attracts millions of tourists every year. Visitors come to see its old houses, its lanterns and its famous tailors, who can make a suit in a single day. Tourism has created many jobs, but it has also brought problems. The narrow streets are often crowded, prices have risen, and some local families have moved away. The town is now trying to limit the number of vehicles in the old quarter.',
+      text: "Hoi An is a small town in central Vietnam that attracts millions of tourists every year. Visitors come to see its old houses, its lanterns and its famous tailors, who can make a suit in a single day. Tourism has created many jobs, but it has also brought problems. The narrow streets are often crowded, prices have risen, and some local families have moved away. The town is now trying to limit the number of vehicles in the old quarter.",
       qs: [
-        { q: 'Where is Hoi An?', options: ['In central Vietnam', 'In northern Vietnam', 'Near Ho Chi Minh City', 'On an island'], explain: 'Trong bài: “a small town in central Vietnam”.' },
-        { q: 'What can the tailors of Hoi An do?', options: ['Make a suit in a single day', 'Build old houses', 'Make lanterns in an hour', 'Guide tourists for free'], explain: 'Trong bài: “who can make a suit in a single day”.' },
-        { q: 'What is one benefit of tourism?', options: ['It has created many jobs', 'It has lowered prices', 'It has made the streets wider', 'It has reduced traffic'], explain: 'Trong bài: “Tourism has created many jobs”.' },
-        { q: 'Which problem is NOT mentioned?', options: ['Polluted rivers', 'Crowded streets', 'Higher prices', 'Families moving away'], explain: 'Bài nhắc đến đường phố đông, giá tăng và các gia đình chuyển đi; không nhắc đến sông ô nhiễm.' },
-        { q: 'What is the town trying to do now?', options: ['Limit vehicles in the old quarter', 'Build more hotels', 'Close the tailor shops', 'Stop all tourism'], explain: 'Trong bài: “trying to limit the number of vehicles in the old quarter”.' },
+        {
+          q: "Where is Hoi An?",
+          options: [
+            "In central Vietnam",
+            "In northern Vietnam",
+            "Near Ho Chi Minh City",
+            "On an island",
+          ],
+          explain: "Trong bài: “a small town in central Vietnam”.",
+        },
+        {
+          q: "What can the tailors of Hoi An do?",
+          options: [
+            "Make a suit in a single day",
+            "Build old houses",
+            "Make lanterns in an hour",
+            "Guide tourists for free",
+          ],
+          explain: "Trong bài: “who can make a suit in a single day”.",
+        },
+        {
+          q: "What is one benefit of tourism?",
+          options: [
+            "It has created many jobs",
+            "It has lowered prices",
+            "It has made the streets wider",
+            "It has reduced traffic",
+          ],
+          explain: "Trong bài: “Tourism has created many jobs”.",
+        },
+        {
+          q: "Which problem is NOT mentioned?",
+          options: [
+            "Polluted rivers",
+            "Crowded streets",
+            "Higher prices",
+            "Families moving away",
+          ],
+          explain:
+            "Bài nhắc đến đường phố đông, giá tăng và các gia đình chuyển đi; không nhắc đến sông ô nhiễm.",
+        },
+        {
+          q: "What is the town trying to do now?",
+          options: [
+            "Limit vehicles in the old quarter",
+            "Build more hotels",
+            "Close the tailor shops",
+            "Stop all tourism",
+          ],
+          explain:
+            "Trong bài: “trying to limit the number of vehicles in the old quarter”.",
+        },
       ],
     },
     {
-      text: 'Online shopping has changed the way people buy things. Customers can compare prices in seconds and have goods delivered to their door. For small businesses, the internet offers a chance to reach buyers all over the country without renting an expensive shop. On the other hand, customers cannot touch or try products before paying, and returning an item can take a long time. For this reason, many people still prefer to buy clothes and shoes in a real store.',
+      text: "Online shopping has changed the way people buy things. Customers can compare prices in seconds and have goods delivered to their door. For small businesses, the internet offers a chance to reach buyers all over the country without renting an expensive shop. On the other hand, customers cannot touch or try products before paying, and returning an item can take a long time. For this reason, many people still prefer to buy clothes and shoes in a real store.",
       qs: [
-        { q: 'What can online customers do in seconds?', options: ['Compare prices', 'Try on clothes', 'Return an item', 'Rent a shop'], explain: 'Trong bài: “Customers can compare prices in seconds”.' },
-        { q: 'How does the internet help small businesses?', options: ['They can reach buyers across the country', 'They pay no taxes', 'They get free products', 'They can hire more staff'], explain: 'Trong bài: “a chance to reach buyers all over the country”.' },
-        { q: 'What is a disadvantage of online shopping?', options: ['Customers cannot try products before paying', 'Prices are always higher', 'Delivery is impossible', 'Shops are too crowded'], explain: 'Trong bài: “customers cannot touch or try products before paying”.' },
-        { q: 'What can take a long time?', options: ['Returning an item', 'Comparing prices', 'Paying online', 'Finding a website'], explain: 'Trong bài: “returning an item can take a long time”.' },
-        { q: 'What do many people still buy in real stores?', options: ['Clothes and shoes', 'Books and music', 'Food and drinks', 'Phones and computers'], explain: 'Trong bài: “prefer to buy clothes and shoes in a real store”.' },
+        {
+          q: "What can online customers do in seconds?",
+          options: [
+            "Compare prices",
+            "Try on clothes",
+            "Return an item",
+            "Rent a shop",
+          ],
+          explain: "Trong bài: “Customers can compare prices in seconds”.",
+        },
+        {
+          q: "How does the internet help small businesses?",
+          options: [
+            "They can reach buyers across the country",
+            "They pay no taxes",
+            "They get free products",
+            "They can hire more staff",
+          ],
+          explain:
+            "Trong bài: “a chance to reach buyers all over the country”.",
+        },
+        {
+          q: "What is a disadvantage of online shopping?",
+          options: [
+            "Customers cannot try products before paying",
+            "Prices are always higher",
+            "Delivery is impossible",
+            "Shops are too crowded",
+          ],
+          explain:
+            "Trong bài: “customers cannot touch or try products before paying”.",
+        },
+        {
+          q: "What can take a long time?",
+          options: [
+            "Returning an item",
+            "Comparing prices",
+            "Paying online",
+            "Finding a website",
+          ],
+          explain: "Trong bài: “returning an item can take a long time”.",
+        },
+        {
+          q: "What do many people still buy in real stores?",
+          options: [
+            "Clothes and shoes",
+            "Books and music",
+            "Food and drinks",
+            "Phones and computers",
+          ],
+          explain:
+            "Trong bài: “prefer to buy clothes and shoes in a real store”.",
+        },
       ],
     },
   ],
   4: [
     {
-      text: 'Artificial intelligence is transforming the labor market faster than most economists predicted. Routine tasks such as data entry and basic translation are increasingly automated, and even some creative work is now assisted by algorithms. Optimists argue that, as in previous industrial revolutions, new professions will emerge to replace those that disappear. Skeptics point out that this time the transition may be too rapid for workers to retrain. What both sides agree on is that education systems must place greater emphasis on critical thinking and adaptability rather than on memorizing facts.',
+      text: "Artificial intelligence is transforming the labor market faster than most economists predicted. Routine tasks such as data entry and basic translation are increasingly automated, and even some creative work is now assisted by algorithms. Optimists argue that, as in previous industrial revolutions, new professions will emerge to replace those that disappear. Skeptics point out that this time the transition may be too rapid for workers to retrain. What both sides agree on is that education systems must place greater emphasis on critical thinking and adaptability rather than on memorizing facts.",
       qs: [
-        { q: 'According to the text, how fast is AI changing the labor market?', options: ['Faster than most economists predicted', 'Exactly as expected', 'More slowly than predicted', 'Only in creative fields'], explain: 'Trong bài: “faster than most economists predicted”.' },
-        { q: 'Which tasks are mentioned as increasingly automated?', options: ['Data entry and basic translation', 'Teaching and nursing', 'Management and law', 'Farming and fishing'], explain: 'Trong bài: “Routine tasks such as data entry and basic translation”.' },
-        { q: 'What do optimists believe?', options: ['New professions will replace the lost ones', 'All jobs will disappear', 'AI will be banned', 'Workers do not need training'], explain: 'Trong bài: “new professions will emerge to replace those that disappear”.' },
-        { q: 'What is the concern of skeptics?', options: ['The change may be too fast for workers to retrain', 'Algorithms are too expensive', 'Creative work will stop', 'Education is too difficult'], explain: 'Trong bài: “the transition may be too rapid for workers to retrain”.' },
-        { q: 'What do both sides agree that education should emphasize?', options: ['Critical thinking and adaptability', 'Memorizing facts', 'Data entry skills', 'Basic translation'], explain: 'Trong bài: “greater emphasis on critical thinking and adaptability rather than on memorizing facts”.' },
+        {
+          q: "According to the text, how fast is AI changing the labor market?",
+          options: [
+            "Faster than most economists predicted",
+            "Exactly as expected",
+            "More slowly than predicted",
+            "Only in creative fields",
+          ],
+          explain: "Trong bài: “faster than most economists predicted”.",
+        },
+        {
+          q: "Which tasks are mentioned as increasingly automated?",
+          options: [
+            "Data entry and basic translation",
+            "Teaching and nursing",
+            "Management and law",
+            "Farming and fishing",
+          ],
+          explain:
+            "Trong bài: “Routine tasks such as data entry and basic translation”.",
+        },
+        {
+          q: "What do optimists believe?",
+          options: [
+            "New professions will replace the lost ones",
+            "All jobs will disappear",
+            "AI will be banned",
+            "Workers do not need training",
+          ],
+          explain:
+            "Trong bài: “new professions will emerge to replace those that disappear”.",
+        },
+        {
+          q: "What is the concern of skeptics?",
+          options: [
+            "The change may be too fast for workers to retrain",
+            "Algorithms are too expensive",
+            "Creative work will stop",
+            "Education is too difficult",
+          ],
+          explain:
+            "Trong bài: “the transition may be too rapid for workers to retrain”.",
+        },
+        {
+          q: "What do both sides agree that education should emphasize?",
+          options: [
+            "Critical thinking and adaptability",
+            "Memorizing facts",
+            "Data entry skills",
+            "Basic translation",
+          ],
+          explain:
+            "Trong bài: “greater emphasis on critical thinking and adaptability rather than on memorizing facts”.",
+        },
       ],
     },
     {
-      text: 'For decades, economists measured the success of a country almost entirely by its gross domestic product. Critics have long argued that this figure ignores inequality, environmental damage and unpaid work such as caring for relatives. A country may record impressive growth while its rivers are polluted and the majority of its citizens see no improvement in their living standards. Consequently, several governments have begun to publish alternative indicators that include health, education and life satisfaction. Whether these measures will ever influence policy as strongly as growth figures do remains uncertain.',
+      text: "For decades, economists measured the success of a country almost entirely by its gross domestic product. Critics have long argued that this figure ignores inequality, environmental damage and unpaid work such as caring for relatives. A country may record impressive growth while its rivers are polluted and the majority of its citizens see no improvement in their living standards. Consequently, several governments have begun to publish alternative indicators that include health, education and life satisfaction. Whether these measures will ever influence policy as strongly as growth figures do remains uncertain.",
       qs: [
-        { q: 'How did economists traditionally measure a country’s success?', options: ['By its gross domestic product', 'By life satisfaction', 'By the number of schools', 'By the quality of its rivers'], explain: 'Trong bài: “almost entirely by its gross domestic product”.' },
-        { q: 'Which of the following is NOT mentioned as something GDP ignores?', options: ['Military spending', 'Inequality', 'Environmental damage', 'Unpaid work'], explain: 'Bài nêu bất bình đẳng, thiệt hại môi trường và công việc không lương; không nêu chi tiêu quân sự.' },
-        { q: 'What example of unpaid work is given?', options: ['Caring for relatives', 'Cleaning rivers', 'Teaching at school', 'Publishing indicators'], explain: 'Trong bài: “unpaid work such as caring for relatives”.' },
-        { q: 'What have several governments started to do?', options: ['Publish alternative indicators', 'Stop measuring growth', 'Reduce education spending', 'Ban economists'], explain: 'Trong bài: “begun to publish alternative indicators”.' },
-        { q: 'What does the writer say about the future influence of these measures?', options: ['It remains uncertain', 'It is already greater than growth figures', 'It will certainly disappear', 'It has been proven'], explain: 'Câu cuối: “remains uncertain”.' },
+        {
+          q: "How did economists traditionally measure a country’s success?",
+          options: [
+            "By its gross domestic product",
+            "By life satisfaction",
+            "By the number of schools",
+            "By the quality of its rivers",
+          ],
+          explain:
+            "Trong bài: “almost entirely by its gross domestic product”.",
+        },
+        {
+          q: "Which of the following is NOT mentioned as something GDP ignores?",
+          options: [
+            "Military spending",
+            "Inequality",
+            "Environmental damage",
+            "Unpaid work",
+          ],
+          explain:
+            "Bài nêu bất bình đẳng, thiệt hại môi trường và công việc không lương; không nêu chi tiêu quân sự.",
+        },
+        {
+          q: "What example of unpaid work is given?",
+          options: [
+            "Caring for relatives",
+            "Cleaning rivers",
+            "Teaching at school",
+            "Publishing indicators",
+          ],
+          explain: "Trong bài: “unpaid work such as caring for relatives”.",
+        },
+        {
+          q: "What have several governments started to do?",
+          options: [
+            "Publish alternative indicators",
+            "Stop measuring growth",
+            "Reduce education spending",
+            "Ban economists",
+          ],
+          explain: "Trong bài: “begun to publish alternative indicators”.",
+        },
+        {
+          q: "What does the writer say about the future influence of these measures?",
+          options: [
+            "It remains uncertain",
+            "It is already greater than growth figures",
+            "It will certainly disappear",
+            "It has been proven",
+          ],
+          explain: "Câu cuối: “remains uncertain”.",
+        },
       ],
     },
     {
-      text: 'When antibiotics were introduced in the 1940s, they were regarded as miracle drugs. Infections that had once been fatal could suddenly be cured within days. However, bacteria evolve quickly, and the excessive use of antibiotics in both medicine and agriculture has allowed resistant strains to spread. Doctors now warn that, without new treatments, routine operations could again become dangerous. Developing new antibiotics is costly and offers little profit, so pharmaceutical companies have been reluctant to invest. Many experts therefore call for public funding and for stricter rules on how existing drugs are prescribed.',
+      text: "When antibiotics were introduced in the 1940s, they were regarded as miracle drugs. Infections that had once been fatal could suddenly be cured within days. However, bacteria evolve quickly, and the excessive use of antibiotics in both medicine and agriculture has allowed resistant strains to spread. Doctors now warn that, without new treatments, routine operations could again become dangerous. Developing new antibiotics is costly and offers little profit, so pharmaceutical companies have been reluctant to invest. Many experts therefore call for public funding and for stricter rules on how existing drugs are prescribed.",
       qs: [
-        { q: 'How were antibiotics regarded in the 1940s?', options: ['As miracle drugs', 'As dangerous chemicals', 'As useless treatments', 'As farm products'], explain: 'Trong bài: “they were regarded as miracle drugs”.' },
-        { q: 'Why have resistant bacteria spread?', options: ['Antibiotics have been used excessively', 'Doctors stopped using antibiotics', 'Operations became routine', 'Companies invested too much'], explain: 'Trong bài: “the excessive use of antibiotics … has allowed resistant strains to spread”.' },
-        { q: 'What do doctors warn could happen?', options: ['Routine operations could become dangerous again', 'Bacteria will stop evolving', 'Agriculture will collapse', 'Antibiotics will become free'], explain: 'Trong bài: “routine operations could again become dangerous”.' },
-        { q: 'Why are companies reluctant to develop new antibiotics?', options: ['It is costly and offers little profit', 'It is illegal', 'There are too many experts', 'Patients refuse new drugs'], explain: 'Trong bài: “costly and offers little profit”.' },
-        { q: 'What do many experts call for?', options: ['Public funding and stricter prescription rules', 'A ban on all antibiotics', 'Lower taxes for farmers', 'Fewer hospitals'], explain: 'Trong bài: “public funding and … stricter rules on how existing drugs are prescribed”.' },
+        {
+          q: "How were antibiotics regarded in the 1940s?",
+          options: [
+            "As miracle drugs",
+            "As dangerous chemicals",
+            "As useless treatments",
+            "As farm products",
+          ],
+          explain: "Trong bài: “they were regarded as miracle drugs”.",
+        },
+        {
+          q: "Why have resistant bacteria spread?",
+          options: [
+            "Antibiotics have been used excessively",
+            "Doctors stopped using antibiotics",
+            "Operations became routine",
+            "Companies invested too much",
+          ],
+          explain:
+            "Trong bài: “the excessive use of antibiotics … has allowed resistant strains to spread”.",
+        },
+        {
+          q: "What do doctors warn could happen?",
+          options: [
+            "Routine operations could become dangerous again",
+            "Bacteria will stop evolving",
+            "Agriculture will collapse",
+            "Antibiotics will become free",
+          ],
+          explain:
+            "Trong bài: “routine operations could again become dangerous”.",
+        },
+        {
+          q: "Why are companies reluctant to develop new antibiotics?",
+          options: [
+            "It is costly and offers little profit",
+            "It is illegal",
+            "There are too many experts",
+            "Patients refuse new drugs",
+          ],
+          explain: "Trong bài: “costly and offers little profit”.",
+        },
+        {
+          q: "What do many experts call for?",
+          options: [
+            "Public funding and stricter prescription rules",
+            "A ban on all antibiotics",
+            "Lower taxes for farmers",
+            "Fewer hospitals",
+          ],
+          explain:
+            "Trong bài: “public funding and … stricter rules on how existing drugs are prescribed”.",
+        },
       ],
     },
     {
-      text: 'The idea that people use only ten percent of their brains is one of the most persistent myths in popular science. Brain scans show that virtually every region is active at some point during the day, even during sleep. The myth probably survives because it is flattering: it implies that everyone has enormous hidden potential. In reality, improvement comes not from waking up unused areas but from strengthening the connections between neurons through practice. Learning a language or a musical instrument, for instance, physically changes the structure of the brain.',
+      text: "The idea that people use only ten percent of their brains is one of the most persistent myths in popular science. Brain scans show that virtually every region is active at some point during the day, even during sleep. The myth probably survives because it is flattering: it implies that everyone has enormous hidden potential. In reality, improvement comes not from waking up unused areas but from strengthening the connections between neurons through practice. Learning a language or a musical instrument, for instance, physically changes the structure of the brain.",
       qs: [
-        { q: 'What does the writer call the ten percent idea?', options: ['A persistent myth', 'A proven theory', 'A recent discovery', 'A medical treatment'], explain: 'Trong bài: “one of the most persistent myths in popular science”.' },
-        { q: 'What do brain scans show?', options: ['Nearly every region is active at some point', 'Most of the brain is never used', 'The brain stops during sleep', 'Only one region learns languages'], explain: 'Trong bài: “virtually every region is active at some point during the day”.' },
-        { q: 'Why does the myth probably survive?', options: ['Because it is flattering', 'Because scientists support it', 'Because scans confirm it', 'Because it is taught at school'], explain: 'Trong bài: “The myth probably survives because it is flattering”.' },
-        { q: 'Where does real improvement come from?', options: ['Strengthening connections between neurons', 'Waking up unused areas', 'Sleeping longer', 'Taking special drugs'], explain: 'Trong bài: “from strengthening the connections between neurons through practice”.' },
-        { q: 'Which example of practice is given?', options: ['Learning a language or an instrument', 'Watching brain scans', 'Reading popular science', 'Sleeping during the day'], explain: 'Trong bài: “Learning a language or a musical instrument”.' },
+        {
+          q: "What does the writer call the ten percent idea?",
+          options: [
+            "A persistent myth",
+            "A proven theory",
+            "A recent discovery",
+            "A medical treatment",
+          ],
+          explain:
+            "Trong bài: “one of the most persistent myths in popular science”.",
+        },
+        {
+          q: "What do brain scans show?",
+          options: [
+            "Nearly every region is active at some point",
+            "Most of the brain is never used",
+            "The brain stops during sleep",
+            "Only one region learns languages",
+          ],
+          explain:
+            "Trong bài: “virtually every region is active at some point during the day”.",
+        },
+        {
+          q: "Why does the myth probably survive?",
+          options: [
+            "Because it is flattering",
+            "Because scientists support it",
+            "Because scans confirm it",
+            "Because it is taught at school",
+          ],
+          explain:
+            "Trong bài: “The myth probably survives because it is flattering”.",
+        },
+        {
+          q: "Where does real improvement come from?",
+          options: [
+            "Strengthening connections between neurons",
+            "Waking up unused areas",
+            "Sleeping longer",
+            "Taking special drugs",
+          ],
+          explain:
+            "Trong bài: “from strengthening the connections between neurons through practice”.",
+        },
+        {
+          q: "Which example of practice is given?",
+          options: [
+            "Learning a language or an instrument",
+            "Watching brain scans",
+            "Reading popular science",
+            "Sleeping during the day",
+          ],
+          explain: "Trong bài: “Learning a language or a musical instrument”.",
+        },
       ],
     },
     {
-      text: 'Cities occupy only a small proportion of the planet’s land, yet they consume most of its energy. As urban populations continue to expand, planners are searching for ways to make cities more sustainable. Some have invested heavily in public transport and cycling lanes, thereby reducing congestion and emissions. Others have introduced green roofs, which absorb rainwater and lower temperatures in summer. Nevertheless, such measures are expensive, and poorer cities often cannot afford them. Without international cooperation, the gap between wealthy and developing cities is likely to widen.',
+      text: "Cities occupy only a small proportion of the planet’s land, yet they consume most of its energy. As urban populations continue to expand, planners are searching for ways to make cities more sustainable. Some have invested heavily in public transport and cycling lanes, thereby reducing congestion and emissions. Others have introduced green roofs, which absorb rainwater and lower temperatures in summer. Nevertheless, such measures are expensive, and poorer cities often cannot afford them. Without international cooperation, the gap between wealthy and developing cities is likely to widen.",
       qs: [
-        { q: 'What contrast is made in the first sentence?', options: ['Cities use little land but most of the energy', 'Cities are large but empty', 'Cities are rich but slow', 'Cities have energy but no land'], explain: 'Câu đầu: “only a small proportion of the planet’s land, yet they consume most of its energy”.' },
-        { q: 'What is the result of investing in public transport and cycling lanes?', options: ['Less congestion and lower emissions', 'Higher temperatures', 'More rainwater', 'A larger population'], explain: 'Trong bài: “thereby reducing congestion and emissions”.' },
-        { q: 'What do green roofs do?', options: ['Absorb rainwater and lower temperatures', 'Produce electricity', 'Increase traffic', 'Replace public transport'], explain: 'Trong bài: “which absorb rainwater and lower temperatures in summer”.' },
-        { q: 'Why can poorer cities not adopt these measures?', options: ['They are expensive', 'They are illegal', 'They do not work', 'Planners oppose them'], explain: 'Trong bài: “such measures are expensive, and poorer cities often cannot afford them”.' },
-        { q: 'What is likely to happen without international cooperation?', options: ['The gap between rich and developing cities will widen', 'All cities will become sustainable', 'Urban populations will fall', 'Energy use will stop'], explain: 'Câu cuối: “the gap … is likely to widen”.' },
+        {
+          q: "What contrast is made in the first sentence?",
+          options: [
+            "Cities use little land but most of the energy",
+            "Cities are large but empty",
+            "Cities are rich but slow",
+            "Cities have energy but no land",
+          ],
+          explain:
+            "Câu đầu: “only a small proportion of the planet’s land, yet they consume most of its energy”.",
+        },
+        {
+          q: "What is the result of investing in public transport and cycling lanes?",
+          options: [
+            "Less congestion and lower emissions",
+            "Higher temperatures",
+            "More rainwater",
+            "A larger population",
+          ],
+          explain: "Trong bài: “thereby reducing congestion and emissions”.",
+        },
+        {
+          q: "What do green roofs do?",
+          options: [
+            "Absorb rainwater and lower temperatures",
+            "Produce electricity",
+            "Increase traffic",
+            "Replace public transport",
+          ],
+          explain:
+            "Trong bài: “which absorb rainwater and lower temperatures in summer”.",
+        },
+        {
+          q: "Why can poorer cities not adopt these measures?",
+          options: [
+            "They are expensive",
+            "They are illegal",
+            "They do not work",
+            "Planners oppose them",
+          ],
+          explain:
+            "Trong bài: “such measures are expensive, and poorer cities often cannot afford them”.",
+        },
+        {
+          q: "What is likely to happen without international cooperation?",
+          options: [
+            "The gap between rich and developing cities will widen",
+            "All cities will become sustainable",
+            "Urban populations will fall",
+            "Energy use will stop",
+          ],
+          explain: "Câu cuối: “the gap … is likely to widen”.",
+        },
       ],
     },
     {
-      text: 'Social media platforms were originally praised for giving ordinary people a voice. In recent years, however, researchers have grown concerned about the spread of misleading information. Because algorithms favor content that provokes strong emotions, false stories often travel further and faster than accurate ones. Some platforms have responded by hiring fact checkers and labeling doubtful posts, although critics claim that these steps are superficial. Ultimately, many scholars argue, the most effective defense is media literacy: teaching users to verify sources before they share anything.',
+      text: "Social media platforms were originally praised for giving ordinary people a voice. In recent years, however, researchers have grown concerned about the spread of misleading information. Because algorithms favor content that provokes strong emotions, false stories often travel further and faster than accurate ones. Some platforms have responded by hiring fact checkers and labeling doubtful posts, although critics claim that these steps are superficial. Ultimately, many scholars argue, the most effective defense is media literacy: teaching users to verify sources before they share anything.",
       qs: [
-        { q: 'Why were social media platforms originally praised?', options: ['They gave ordinary people a voice', 'They hired fact checkers', 'They stopped false stories', 'They taught media literacy'], explain: 'Trong bài: “praised for giving ordinary people a voice”.' },
-        { q: 'What are researchers concerned about?', options: ['The spread of misleading information', 'The cost of platforms', 'The number of scholars', 'The lack of emotions online'], explain: 'Trong bài: “concerned about the spread of misleading information”.' },
-        { q: 'Why do false stories spread quickly?', options: ['Algorithms favor emotional content', 'Users always verify sources', 'Fact checkers share them', 'Accurate stories are banned'], explain: 'Trong bài: “algorithms favor content that provokes strong emotions”.' },
-        { q: 'How do critics describe the steps taken by platforms?', options: ['Superficial', 'Excessive', 'Illegal', 'Revolutionary'], explain: 'Trong bài: “critics claim that these steps are superficial”.' },
-        { q: 'What do many scholars consider the most effective defense?', options: ['Media literacy', 'More algorithms', 'Closing all platforms', 'Labeling every post'], explain: 'Trong bài: “the most effective defense is media literacy”.' },
+        {
+          q: "Why were social media platforms originally praised?",
+          options: [
+            "They gave ordinary people a voice",
+            "They hired fact checkers",
+            "They stopped false stories",
+            "They taught media literacy",
+          ],
+          explain: "Trong bài: “praised for giving ordinary people a voice”.",
+        },
+        {
+          q: "What are researchers concerned about?",
+          options: [
+            "The spread of misleading information",
+            "The cost of platforms",
+            "The number of scholars",
+            "The lack of emotions online",
+          ],
+          explain:
+            "Trong bài: “concerned about the spread of misleading information”.",
+        },
+        {
+          q: "Why do false stories spread quickly?",
+          options: [
+            "Algorithms favor emotional content",
+            "Users always verify sources",
+            "Fact checkers share them",
+            "Accurate stories are banned",
+          ],
+          explain:
+            "Trong bài: “algorithms favor content that provokes strong emotions”.",
+        },
+        {
+          q: "How do critics describe the steps taken by platforms?",
+          options: ["Superficial", "Excessive", "Illegal", "Revolutionary"],
+          explain:
+            "Trong bài: “critics claim that these steps are superficial”.",
+        },
+        {
+          q: "What do many scholars consider the most effective defense?",
+          options: [
+            "Media literacy",
+            "More algorithms",
+            "Closing all platforms",
+            "Labeling every post",
+          ],
+          explain: "Trong bài: “the most effective defense is media literacy”.",
+        },
       ],
     },
   ],
   5: [
     {
-      text: 'Peer review is often described as the gold standard of scientific publishing, yet the process is far from flawless. Before an article appears in a journal, anonymous experts scrutinize its methodology and conclusions, and many submissions are rejected or returned for revision. Critics note that reviewers are unpaid, overworked and occasionally biased toward famous institutions. Moreover, studies with negative results are less likely to be published, which distorts the overall picture of the evidence. Some journals have responded by publishing the reviewers’ reports alongside the article, hoping that transparency will raise the quality of criticism.',
+      text: "Peer review is often described as the gold standard of scientific publishing, yet the process is far from flawless. Before an article appears in a journal, anonymous experts scrutinize its methodology and conclusions, and many submissions are rejected or returned for revision. Critics note that reviewers are unpaid, overworked and occasionally biased toward famous institutions. Moreover, studies with negative results are less likely to be published, which distorts the overall picture of the evidence. Some journals have responded by publishing the reviewers’ reports alongside the article, hoping that transparency will raise the quality of criticism.",
       qs: [
-        { q: 'How is peer review often described?', options: ['As the gold standard of scientific publishing', 'As a waste of time', 'As a new invention', 'As a legal requirement'], explain: 'Trong bài: “the gold standard of scientific publishing”.' },
-        { q: 'What do the anonymous experts examine?', options: ['The methodology and conclusions', 'The author’s salary', 'The journal’s price', 'The number of readers'], explain: 'Trong bài: “scrutinize its methodology and conclusions”.' },
-        { q: 'Which criticism of reviewers is mentioned?', options: ['They may favor famous institutions', 'They are paid too much', 'They are not experts', 'They publish their own names'], explain: 'Trong bài: “occasionally biased toward famous institutions”.' },
-        { q: 'Why is the picture of the evidence distorted?', options: ['Negative results are published less often', 'Too many articles are published', 'Reviewers reject famous authors', 'Journals are too transparent'], explain: 'Trong bài: “studies with negative results are less likely to be published”.' },
-        { q: 'What have some journals started to do?', options: ['Publish the reviewers’ reports with the article', 'Pay every reviewer', 'Stop reviewing articles', 'Hide the authors’ names'], explain: 'Trong bài: “publishing the reviewers’ reports alongside the article”.' },
+        {
+          q: "How is peer review often described?",
+          options: [
+            "As the gold standard of scientific publishing",
+            "As a waste of time",
+            "As a new invention",
+            "As a legal requirement",
+          ],
+          explain: "Trong bài: “the gold standard of scientific publishing”.",
+        },
+        {
+          q: "What do the anonymous experts examine?",
+          options: [
+            "The methodology and conclusions",
+            "The author’s salary",
+            "The journal’s price",
+            "The number of readers",
+          ],
+          explain: "Trong bài: “scrutinize its methodology and conclusions”.",
+        },
+        {
+          q: "Which criticism of reviewers is mentioned?",
+          options: [
+            "They may favor famous institutions",
+            "They are paid too much",
+            "They are not experts",
+            "They publish their own names",
+          ],
+          explain:
+            "Trong bài: “occasionally biased toward famous institutions”.",
+        },
+        {
+          q: "Why is the picture of the evidence distorted?",
+          options: [
+            "Negative results are published less often",
+            "Too many articles are published",
+            "Reviewers reject famous authors",
+            "Journals are too transparent",
+          ],
+          explain:
+            "Trong bài: “studies with negative results are less likely to be published”.",
+        },
+        {
+          q: "What have some journals started to do?",
+          options: [
+            "Publish the reviewers’ reports with the article",
+            "Pay every reviewer",
+            "Stop reviewing articles",
+            "Hide the authors’ names",
+          ],
+          explain:
+            "Trong bài: “publishing the reviewers’ reports alongside the article”.",
+        },
       ],
     },
     {
-      text: 'When a central bank raises interest rates, borrowing becomes more expensive for households and firms alike. Mortgage payments climb, companies postpone investment, and consumer spending gradually weakens. The intended result is lower inflation, but the medicine works slowly: economists estimate that the full effect may take eighteen months to appear. During that interval policymakers must decide whether to tighten further without knowing how much their earlier decisions have already achieved. If they act too timidly, prices keep rising; if they overreact, they risk pushing the economy into recession.',
+      text: "When a central bank raises interest rates, borrowing becomes more expensive for households and firms alike. Mortgage payments climb, companies postpone investment, and consumer spending gradually weakens. The intended result is lower inflation, but the medicine works slowly: economists estimate that the full effect may take eighteen months to appear. During that interval policymakers must decide whether to tighten further without knowing how much their earlier decisions have already achieved. If they act too timidly, prices keep rising; if they overreact, they risk pushing the economy into recession.",
       qs: [
-        { q: 'What happens when a central bank raises interest rates?', options: ['Borrowing becomes more expensive', 'Borrowing becomes cheaper', 'Wages rise at once', 'Taxes are reduced'], explain: 'Trong bài: “borrowing becomes more expensive for households and firms alike”.' },
-        { q: 'How do companies react, according to the text?', options: ['They postpone investment', 'They hire more staff', 'They raise prices', 'They move abroad'], explain: 'Trong bài: “companies postpone investment”.' },
-        { q: 'What is the intended result of higher rates?', options: ['Lower inflation', 'Higher mortgage payments', 'More consumer spending', 'A recession'], explain: 'Trong bài: “The intended result is lower inflation”.' },
-        { q: 'How long may the full effect take to appear?', options: ['Eighteen months', 'Eighteen days', 'Eight years', 'One month'], explain: 'Trong bài: “the full effect may take eighteen months to appear”.' },
-        { q: 'What is the risk of overreacting?', options: ['Pushing the economy into recession', 'Prices rising faster', 'Banks lending too much', 'Interest rates falling'], explain: 'Trong bài: “if they overreact, they risk pushing the economy into recession”.' },
+        {
+          q: "What happens when a central bank raises interest rates?",
+          options: [
+            "Borrowing becomes more expensive",
+            "Borrowing becomes cheaper",
+            "Wages rise at once",
+            "Taxes are reduced",
+          ],
+          explain:
+            "Trong bài: “borrowing becomes more expensive for households and firms alike”.",
+        },
+        {
+          q: "How do companies react, according to the text?",
+          options: [
+            "They postpone investment",
+            "They hire more staff",
+            "They raise prices",
+            "They move abroad",
+          ],
+          explain: "Trong bài: “companies postpone investment”.",
+        },
+        {
+          q: "What is the intended result of higher rates?",
+          options: [
+            "Lower inflation",
+            "Higher mortgage payments",
+            "More consumer spending",
+            "A recession",
+          ],
+          explain: "Trong bài: “The intended result is lower inflation”.",
+        },
+        {
+          q: "How long may the full effect take to appear?",
+          options: [
+            "Eighteen months",
+            "Eighteen days",
+            "Eight years",
+            "One month",
+          ],
+          explain:
+            "Trong bài: “the full effect may take eighteen months to appear”.",
+        },
+        {
+          q: "What is the risk of overreacting?",
+          options: [
+            "Pushing the economy into recession",
+            "Prices rising faster",
+            "Banks lending too much",
+            "Interest rates falling",
+          ],
+          explain:
+            "Trong bài: “if they overreact, they risk pushing the economy into recession”.",
+        },
       ],
     },
     {
-      text: 'Archaeologists working on a hillside in the Mediterranean recently uncovered the remains of a workshop that produced purple dye more than three thousand years ago. The dye, extracted from sea snails, was so costly that garments colored with it became a symbol of royal power. Thousands of crushed shells were found beside stone basins stained a deep violet. Chemical analysis confirmed that the residue matched the famous pigment described by ancient writers. The discovery suggests that the industry was organized on a far larger scale, and far earlier, than historians had assumed.',
+      text: "Archaeologists working on a hillside in the Mediterranean recently uncovered the remains of a workshop that produced purple dye more than three thousand years ago. The dye, extracted from sea snails, was so costly that garments colored with it became a symbol of royal power. Thousands of crushed shells were found beside stone basins stained a deep violet. Chemical analysis confirmed that the residue matched the famous pigment described by ancient writers. The discovery suggests that the industry was organized on a far larger scale, and far earlier, than historians had assumed.",
       qs: [
-        { q: 'What did the workshop produce?', options: ['Purple dye', 'Stone basins', 'Royal jewelry', 'Sea salt'], explain: 'Trong bài: “a workshop that produced purple dye”.' },
-        { q: 'What was the dye extracted from?', options: ['Sea snails', 'Violet flowers', 'Crushed stones', 'Tree bark'], explain: 'Trong bài: “extracted from sea snails”.' },
-        { q: 'Why did purple garments become a symbol of royal power?', options: ['The dye was extremely costly', 'The color was forbidden', 'Only kings could swim', 'The cloth was very heavy'], explain: 'Trong bài: “so costly that garments colored with it became a symbol of royal power”.' },
-        { q: 'What confirmed that the residue was the famous pigment?', options: ['Chemical analysis', 'An ancient map', 'A royal letter', 'The shape of the basins'], explain: 'Trong bài: “Chemical analysis confirmed that the residue matched the famous pigment”.' },
-        { q: 'What does the discovery suggest about the industry?', options: ['It was larger and earlier than assumed', 'It never really existed', 'It began only recently', 'It was a small family business'], explain: 'Trong bài: “organized on a far larger scale, and far earlier, than historians had assumed”.' },
+        {
+          q: "What did the workshop produce?",
+          options: ["Purple dye", "Stone basins", "Royal jewelry", "Sea salt"],
+          explain: "Trong bài: “a workshop that produced purple dye”.",
+        },
+        {
+          q: "What was the dye extracted from?",
+          options: [
+            "Sea snails",
+            "Violet flowers",
+            "Crushed stones",
+            "Tree bark",
+          ],
+          explain: "Trong bài: “extracted from sea snails”.",
+        },
+        {
+          q: "Why did purple garments become a symbol of royal power?",
+          options: [
+            "The dye was extremely costly",
+            "The color was forbidden",
+            "Only kings could swim",
+            "The cloth was very heavy",
+          ],
+          explain:
+            "Trong bài: “so costly that garments colored with it became a symbol of royal power”.",
+        },
+        {
+          q: "What confirmed that the residue was the famous pigment?",
+          options: [
+            "Chemical analysis",
+            "An ancient map",
+            "A royal letter",
+            "The shape of the basins",
+          ],
+          explain:
+            "Trong bài: “Chemical analysis confirmed that the residue matched the famous pigment”.",
+        },
+        {
+          q: "What does the discovery suggest about the industry?",
+          options: [
+            "It was larger and earlier than assumed",
+            "It never really existed",
+            "It began only recently",
+            "It was a small family business",
+          ],
+          explain:
+            "Trong bài: “organized on a far larger scale, and far earlier, than historians had assumed”.",
+        },
       ],
     },
     {
-      text: 'Antibiotic resistance has been called a silent pandemic. Each time these drugs are prescribed unnecessarily, or a patient abandons the course halfway, the surviving bacteria are those best equipped to withstand the treatment. They multiply and pass their resistance on, sometimes even to unrelated species. Meanwhile pharmaceutical companies have little commercial incentive to develop new antibiotics, since a drug taken for a week earns far less than one taken for life. Public health experts therefore advocate a double strategy: stricter control over prescriptions and government funding to reward the invention of new compounds.',
+      text: "Antibiotic resistance has been called a silent pandemic. Each time these drugs are prescribed unnecessarily, or a patient abandons the course halfway, the surviving bacteria are those best equipped to withstand the treatment. They multiply and pass their resistance on, sometimes even to unrelated species. Meanwhile pharmaceutical companies have little commercial incentive to develop new antibiotics, since a drug taken for a week earns far less than one taken for life. Public health experts therefore advocate a double strategy: stricter control over prescriptions and government funding to reward the invention of new compounds.",
       qs: [
-        { q: 'What has antibiotic resistance been called?', options: ['A silent pandemic', 'A commercial success', 'A minor nuisance', 'A new treatment'], explain: 'Trong bài: “has been called a silent pandemic”.' },
-        { q: 'Which behavior helps resistant bacteria survive?', options: ['Abandoning the course halfway', 'Finishing the full course', 'Washing hands often', 'Avoiding all drugs'], explain: 'Trong bài: “a patient abandons the course halfway”.' },
-        { q: 'What can resistant bacteria do with their resistance?', options: ['Pass it on, even to unrelated species', 'Lose it within a week', 'Keep it only in hospitals', 'Sell it to companies'], explain: 'Trong bài: “pass their resistance on, sometimes even to unrelated species”.' },
-        { q: 'Why do companies have little incentive to develop new antibiotics?', options: ['A drug taken for a week earns far less', 'Governments forbid research', 'Bacteria no longer exist', 'Doctors refuse to prescribe them'], explain: 'Trong bài: “a drug taken for a week earns far less than one taken for life”.' },
-        { q: 'What double strategy do experts advocate?', options: ['Stricter prescriptions and public funding for new drugs', 'Higher prices and fewer hospitals', 'Longer courses and more advertising', 'Banning antibiotics and closing laboratories'], explain: 'Trong bài: “stricter control over prescriptions and government funding to reward the invention of new compounds”.' },
+        {
+          q: "What has antibiotic resistance been called?",
+          options: [
+            "A silent pandemic",
+            "A commercial success",
+            "A minor nuisance",
+            "A new treatment",
+          ],
+          explain: "Trong bài: “has been called a silent pandemic”.",
+        },
+        {
+          q: "Which behavior helps resistant bacteria survive?",
+          options: [
+            "Abandoning the course halfway",
+            "Finishing the full course",
+            "Washing hands often",
+            "Avoiding all drugs",
+          ],
+          explain: "Trong bài: “a patient abandons the course halfway”.",
+        },
+        {
+          q: "What can resistant bacteria do with their resistance?",
+          options: [
+            "Pass it on, even to unrelated species",
+            "Lose it within a week",
+            "Keep it only in hospitals",
+            "Sell it to companies",
+          ],
+          explain:
+            "Trong bài: “pass their resistance on, sometimes even to unrelated species”.",
+        },
+        {
+          q: "Why do companies have little incentive to develop new antibiotics?",
+          options: [
+            "A drug taken for a week earns far less",
+            "Governments forbid research",
+            "Bacteria no longer exist",
+            "Doctors refuse to prescribe them",
+          ],
+          explain:
+            "Trong bài: “a drug taken for a week earns far less than one taken for life”.",
+        },
+        {
+          q: "What double strategy do experts advocate?",
+          options: [
+            "Stricter prescriptions and public funding for new drugs",
+            "Higher prices and fewer hospitals",
+            "Longer courses and more advertising",
+            "Banning antibiotics and closing laboratories",
+          ],
+          explain:
+            "Trong bài: “stricter control over prescriptions and government funding to reward the invention of new compounds”.",
+        },
       ],
     },
     {
-      text: 'Linguists estimate that roughly half of the world’s seven thousand languages may fall silent before the end of this century. A language rarely dies because its speakers vanish; more often parents simply stop passing it on, convinced that a dominant tongue offers their children better prospects. With each loss, a unique way of classifying plants, describing kinship or telling stories disappears as well. Revival is possible but arduous: it requires recordings, dictionaries, trained teachers and, above all, a community determined to use the language in daily life. Technology helps, yet no application can substitute for conversation at the family table.',
+      text: "Linguists estimate that roughly half of the world’s seven thousand languages may fall silent before the end of this century. A language rarely dies because its speakers vanish; more often parents simply stop passing it on, convinced that a dominant tongue offers their children better prospects. With each loss, a unique way of classifying plants, describing kinship or telling stories disappears as well. Revival is possible but arduous: it requires recordings, dictionaries, trained teachers and, above all, a community determined to use the language in daily life. Technology helps, yet no application can substitute for conversation at the family table.",
       qs: [
-        { q: 'What share of the world’s languages may fall silent this century?', options: ['Roughly half', 'Almost none', 'About one tenth', 'All of them'], explain: 'Trong bài: “roughly half of the world’s seven thousand languages”.' },
-        { q: 'Why does a language most often die?', options: ['Parents stop passing it on', 'All its speakers vanish', 'Governments forbid it', 'It has no dictionary'], explain: 'Trong bài: “more often parents simply stop passing it on”.' },
-        { q: 'Why do parents choose a dominant tongue?', options: ['They think it offers better prospects', 'They dislike their own culture', 'Teachers force them to', 'It is easier to pronounce'], explain: 'Trong bài: “convinced that a dominant tongue offers their children better prospects”.' },
-        { q: 'What is needed above all for revival?', options: ['A community determined to use the language', 'A new alphabet', 'A large government budget', 'A mobile application'], explain: 'Trong bài: “above all, a community determined to use the language in daily life”.' },
-        { q: 'What does the writer say about technology?', options: ['It helps but cannot replace family conversation', 'It is the only solution', 'It destroys small languages', 'It is useless for learning'], explain: 'Trong bài: “no application can substitute for conversation at the family table”.' },
+        {
+          q: "What share of the world’s languages may fall silent this century?",
+          options: [
+            "Roughly half",
+            "Almost none",
+            "About one tenth",
+            "All of them",
+          ],
+          explain:
+            "Trong bài: “roughly half of the world’s seven thousand languages”.",
+        },
+        {
+          q: "Why does a language most often die?",
+          options: [
+            "Parents stop passing it on",
+            "All its speakers vanish",
+            "Governments forbid it",
+            "It has no dictionary",
+          ],
+          explain: "Trong bài: “more often parents simply stop passing it on”.",
+        },
+        {
+          q: "Why do parents choose a dominant tongue?",
+          options: [
+            "They think it offers better prospects",
+            "They dislike their own culture",
+            "Teachers force them to",
+            "It is easier to pronounce",
+          ],
+          explain:
+            "Trong bài: “convinced that a dominant tongue offers their children better prospects”.",
+        },
+        {
+          q: "What is needed above all for revival?",
+          options: [
+            "A community determined to use the language",
+            "A new alphabet",
+            "A large government budget",
+            "A mobile application",
+          ],
+          explain:
+            "Trong bài: “above all, a community determined to use the language in daily life”.",
+        },
+        {
+          q: "What does the writer say about technology?",
+          options: [
+            "It helps but cannot replace family conversation",
+            "It is the only solution",
+            "It destroys small languages",
+            "It is useless for learning",
+          ],
+          explain:
+            "Trong bài: “no application can substitute for conversation at the family table”.",
+        },
       ],
     },
   ],
