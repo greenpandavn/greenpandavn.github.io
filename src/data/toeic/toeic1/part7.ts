@@ -139,3 +139,93 @@ const single: ToeicGroup[] = [
     ],
   },
 ];
+
+const multi: ToeicGroup[] = [
+  {
+    text: [
+      '— Advertisement —',
+      'Summit Training: One-Day Business Writing Workshop',
+      'Learn to write clear emails, reports and proposals. Dates: 12 June (Hanoi) and 19 June (Da Nang). Fee: $120 per person; groups of five or more pay $95 each. Lunch and course materials are included. Register at least one week in advance.',
+      '— Email —',
+      'To: Summit Training · From: Hoang Minh, Vega Software',
+      'I would like to register six members of my team for the Da Nang workshop. Two of them do not eat meat; I hope that can be arranged. Could you also send an invoice addressed to our accounting department?',
+    ],
+    qs: [
+      { q: 'What is the workshop about?', options: ['Business writing', 'Public speaking', 'Software design', 'Accounting'], explain: 'Quảng cáo: “One-Day Business Writing Workshop”.' },
+      { q: 'What is included in the fee?', options: ['Lunch and course materials', 'A hotel room', 'Transportation', 'A certificate in a frame'], explain: '“Lunch and course materials are included.”' },
+      { q: 'On what date will Mr. Minh’s team attend?', options: ['19 June', '12 June', '5 June', '26 June'], explain: 'Email đăng ký lớp ở Đà Nẵng; quảng cáo ghi Đà Nẵng là ngày 19 tháng 6.' },
+      { q: 'How much will Vega Software pay per person?', options: ['$95', '$120', '$100', '$60'], explain: 'Đăng ký sáu người → áp dụng giá nhóm từ năm người: $95 mỗi người.' },
+      { q: 'What does Mr. Minh request?', options: ['An invoice for the accounting department', 'A later date', 'A discount for students', 'A list of trainers'], explain: '“Could you also send an invoice addressed to our accounting department?”' },
+    ],
+  },
+  {
+    text: [
+      '— Notice —',
+      'Greenway Apartments: The water supply will be shut off on Tuesday, 4 March, from 9:00 to 15:00 while a main pipe is replaced. Residents are advised to store water in advance. The laundry room will remain closed until Wednesday morning.',
+      '— Email —',
+      'To: Building Manager · From: Anna Schmidt, Apartment 5B',
+      'I work from home and have an important video meeting with a client at 14:00 on Tuesday. Will the electricity or the internet be affected by the repair? Also, I had planned to do my laundry on Tuesday evening. When exactly will the laundry room reopen?',
+    ],
+    qs: [
+      { q: 'Why will the water be shut off?', options: ['A main pipe is being replaced.', 'The bills were not paid.', 'The laundry room is being painted.', 'There is a water shortage in the city.'], explain: '“while a main pipe is replaced”.' },
+      { q: 'What are residents advised to do?', options: ['Store water in advance', 'Leave the building', 'Close their windows', 'Call a plumber'], explain: '“Residents are advised to store water in advance.”' },
+      { q: 'What is Ms. Schmidt concerned about?', options: ['Losing electricity or internet during a meeting', 'The cost of the repair', 'Noise from her neighbors', 'A broken washing machine'], explain: '“Will the electricity or the internet be affected by the repair?”' },
+      { q: 'What will be happening in the building during Ms. Schmidt’s meeting?', options: ['The water will still be off.', 'The laundry room will reopen.', 'The repair will be finished.', 'The manager will visit her.'], explain: 'Cuộc họp lúc 14:00 thứ Ba; nước bị cắt từ 9:00 đến 15:00.' },
+      { q: 'When can Ms. Schmidt use the laundry room again?', options: ['On Wednesday morning', 'On Tuesday evening', 'On Tuesday at 15:00', 'On Monday night'], explain: 'Thông báo: “The laundry room will remain closed until Wednesday morning.”' },
+    ],
+  },
+  {
+    text: [
+      '— Web page —',
+      'Coastal Car Rental – Rates per day: Compact $35 · Sedan $50 · Minivan (7 seats) $80. Rent for five days or more and get 10% off. Free pickup at the airport. Drivers must be at least 23 years old.',
+      '— Email —',
+      'To: Coastal Car Rental · From: Raj Patel',
+      'Seven colleagues and I are attending a conference from 3 to 8 October. We need one vehicle for six days. Can we collect it at the airport when we land at 11:15?',
+      '— Reply —',
+      'Dear Mr. Patel, a minivan seats seven people including the driver, so for a group of eight you will need a second vehicle; a compact car would be enough. Both can be waiting for you at the airport. Please send copies of both drivers’ licenses.',
+    ],
+    qs: [
+      { q: 'What does the web page say about drivers?', options: ['They must be at least 23 years old.', 'They must pay a deposit.', 'They must live locally.', 'They must have insurance.'], explain: '“Drivers must be at least 23 years old.”' },
+      { q: 'Why is Mr. Patel traveling?', options: ['To attend a conference', 'To visit family', 'To buy a car', 'To inspect a factory'], explain: '“Seven colleagues and I are attending a conference.”' },
+      { q: 'Why does the company suggest a second vehicle?', options: ['The group has eight people.', 'The minivan is not available.', 'The trip is too long.', 'One driver is too young.'], explain: 'Xe minivan chỉ chở bảy người, nhóm có tám người (bảy đồng nghiệp và ông Patel).' },
+      { q: 'What discount will Mr. Patel’s group receive?', options: ['10% for renting five days or more', 'A free extra day', '20% for two vehicles', 'No discount'], explain: 'Thuê sáu ngày → theo trang web “five days or more … 10% off”.' },
+      { q: 'What must Mr. Patel send?', options: ['Copies of two drivers’ licenses', 'A list of passengers', 'His flight ticket', 'A conference invitation'], explain: '“Please send copies of both drivers’ licenses.”' },
+    ],
+  },
+  {
+    text: [
+      '— Announcement —',
+      'Halden Electronics Annual Customer Survey: Complete our ten-minute survey by 30 November and receive a $15 voucher by email within one week. Vouchers can be used online or in stores until 31 January.',
+      '— Survey comment —',
+      'Name: Julia Novak. I bought a wireless speaker in September. The sound is excellent, but the battery lasts only four hours, not the ten hours promised on the box. The store assistant was friendly, but he could not explain the problem.',
+      '— Email —',
+      'Dear Ms. Novak, thank you for completing our survey on 20 November. We are sorry about the battery. A small number of speakers made in August have this fault. Please bring yours to any store for a free replacement. Your voucher is attached.',
+    ],
+    qs: [
+      { q: 'How long does the survey take?', options: ['Ten minutes', 'Fifteen minutes', 'One week', 'Four hours'], explain: '“Complete our ten-minute survey”.' },
+      { q: 'What is Ms. Novak’s complaint?', options: ['The battery does not last as long as promised.', 'The sound is poor.', 'The assistant was rude.', 'The speaker arrived late.'], explain: '“the battery lasts only four hours, not the ten hours promised on the box”.' },
+      { q: 'What does the email say about the faulty speakers?', options: ['They were made in August.', 'They are no longer sold.', 'They cannot be replaced.', 'They were sold only online.'], explain: '“A small number of speakers made in August have this fault.”' },
+      { q: 'What is Ms. Novak asked to do?', options: ['Bring the speaker to a store', 'Fill in another survey', 'Send the box by post', 'Call the factory'], explain: '“Please bring yours to any store for a free replacement.”' },
+      { q: 'Until when can Ms. Novak use her voucher?', options: ['31 January', '30 November', '20 November', '31 August'], explain: 'Thông báo: phiếu dùng được “until 31 January”.' },
+    ],
+  },
+  {
+    text: [
+      '— Agenda —',
+      'Regional Managers’ Meeting, 9 April, Room 301. 9:00 Sales review (Mr. Ito) · 10:30 New product line (Ms. Barros) · 13:00 Customer service training plan (Mr. Osei) · 14:30 Budget for next year (Ms. Lindqvist).',
+      '— Email 1 —',
+      'From: Clara Barros · To: all managers. My flight from Lisbon lands at noon on 9 April, so I cannot present at 10:30. Mr. Osei has kindly agreed to exchange time slots with me.',
+      '— Email 2 —',
+      'From: Meeting organizer · To: all managers. Please note the exchange described by Ms. Barros. In addition, Room 301 is being renovated, so we will meet in Room 210. Lunch will be served at noon in the cafeteria.',
+    ],
+    qs: [
+      { q: 'Who will present the sales review?', options: ['Mr. Ito', 'Ms. Barros', 'Mr. Osei', 'Ms. Lindqvist'], explain: 'Chương trình: “9:00 Sales review (Mr. Ito)”.' },
+      { q: 'Why can Ms. Barros not present at 10:30?', options: ['Her flight lands at noon.', 'She is ill.', 'Her slides are not ready.', 'She has another meeting.'], explain: '“My flight from Lisbon lands at noon on 9 April.”' },
+      { q: 'At what time will Ms. Barros now present?', options: ['13:00', '9:00', '10:30', '14:30'], explain: 'Bà đổi giờ với ông Osei, người có lịch lúc 13:00.' },
+      { q: 'What will be discussed at 10:30?', options: ['The customer service training plan', 'The new product line', 'The budget', 'The sales review'], explain: 'Ông Osei chuyển sang 10:30 với nội dung “Customer service training plan”.' },
+      { q: 'Where will the meeting be held?', options: ['In Room 210', 'In Room 301', 'In the cafeteria', 'In Lisbon'], explain: '“Room 301 is being renovated, so we will meet in Room 210.”' },
+    ],
+  },
+];
+
+export const part7: ToeicGroup[] = [...single, ...multi];
