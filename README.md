@@ -49,7 +49,7 @@ npm test         # kiểm thử logic gộp/di chuyển tiến độ (Vitest)
   - *Kiểm duyệt*: sửa tên hiển thị (tên bắt buộc, người dùng không ghi đè được) hoặc xóa người dùng khỏi bảng xếp hạng; xem và thu hồi/khôi phục chứng chỉ.
   - Quyền lưu ở `roles/{uid}` (`role`, `locked`, `hidden`, `forcedName`, `revoked`), chỉ admin đọc/ghi được (xem `firestore.rules`). `virusphuoc@gmail.com` (đăng nhập Google hoặc email đã xác minh) luôn là admin và tự tạo `roles/{uid}` khi đăng nhập lần đầu. Để cấp admin thủ công: tạo document `roles/{uid}` với `role: "admin"` trong Firebase Console, hoặc dùng nút “Cấp admin”.
 - **Liên hệ chỉ qua email**: huuphuocln@gmail.com (đã bỏ số điện thoại).
-- **Đồng bộ lại nhanh hơn sau khi có mạng** (thử kết nối lại sau 1,5 / 4 / 8 giây khi còn thay đổi chưa gửi, kiểm tra định kỳ mỗi 4 giây).
+- **Đồng bộ lại nhanh hơn sau khi có mạng:** gửi lại ngay khi có mạng; nếu sau 2 giây vẫn chưa xong thì tạo lại kết nối Firestore. Đo thực tế: 4–5 giây (trước đây hơn 21 giây).
 
 > ⚠️ Sau khi cập nhật lên bản này, cần **publish lại `firestore.rules`** (bản mới cho phép lưu email/ngày tham gia và thêm quyền admin).
 
