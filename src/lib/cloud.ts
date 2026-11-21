@@ -13,10 +13,13 @@ import {
 } from 'firebase/auth';
 import {
   collection,
+  disableNetwork,
   doc,
+  enableNetwork,
   getCountFromServer,
   getDoc,
-  getDocs,
+  getDocsFromCache,
+  getDocsFromServer,
   limit,
   onSnapshot,
   orderBy,
@@ -41,6 +44,28 @@ let timer: ReturnType<typeof setTimeout> | null = null;
 let lastWritten = 0;
 let started = false;
 let pendingName = '';
+let kicking = false;
+let pendingSince = 0;
+
+const withTimeout = <T>(p: Promise<T>, ms: number) =>
+  Promise.race([p, new Promise<never>((_, rej) => setTimeout(() => rej(new Error('timeout')), ms))]);
+
+/** Restart Firestore's streams – recovers a write/listen channel left broken after sleep or network changes. */
+async function kickNetwork() {
+  if (kicking || !navigator.onLine) return;
+  kicking = true;
+  try {
+    await disableNetwork(db);
+    await enableNetwork(db);
+  } catch (e) {
+    console.warn('Network restart failed', e);
+  } finally {
+    kicking = false;
+  }
+}
+const kickIfStuck = () => {
+  if (pendingSince && Date.now() - pendingSince > 8000) void kickNetwork();
+};
 
 const migratedUids = (): string[] => {
   try {
@@ -75,12 +100,21 @@ async function upload(u: User, p: Progress) {
   ];
   const wxp = weekXp(p);
   if (wxp > 0) writes.push(setDoc(doc(db, 'weeks', weekId(), 'entries', u.uid), { displayName, xp: Math.round(wxp), updatedAt: now }));
+  if (!pendingSince) pendingSince = now;
+  // Writes stay queued while the stream is down; if nothing is acknowledged for a while, restart the network.
+  const watchdog = setInterval(kickIfStuck, 10000);
   try {
     await Promise.all(writes);
-    if (lastWritten === now) setAccount({ sync: 'saved' });
+    if (lastWritten === now) {
+      pendingSince = 0;
+      setAccount({ sync: 'saved' });
+    }
   } catch (e) {
+    pendingSince = 0;
     console.warn('Sync failed', e);
     setAccount({ sync: 'error' });
+  } finally {
+    clearInterval(watchdog);
   }
 }
 
@@ -164,7 +198,12 @@ export function initCloud() {
   });
   window.addEventListener('online', () => {
     const u = auth.currentUser;
-    if (u) void upload(u, getProgress());
+    if (!u) return;
+    void kickNetwork();
+    void upload(u, getProgress());
+  });
+  document.addEventListener('visibilitychange', () => {
+    if (document.visibilityState === 'visible' && auth.currentUser) kickIfStuck();
   });
   window.addEventListener('offline', () => {
     if (auth.currentUser) setAccount({ sync: 'offline' });
@@ -254,7 +293,15 @@ export interface Board {
 
 export async function fetchBoard(kind: 'week' | 'all'): Promise<Board> {
   const col = kind === 'all' ? collection(db, 'leaderboard') : collection(db, 'weeks', weekId(), 'entries');
-  const snap = await getDocs(query(col, orderBy('xp', 'desc'), limit(20)));
+  const q = query(col, orderBy('xp', 'desc'), limit(20));
+  let snap;
+  try {
+    snap = await withTimeout(getDocsFromServer(q), 10000);
+  } catch (e) {
+    void kickNetwork();
+    snap = await getDocsFromCache(q).catch(() => null);
+    if (!snap || snap.empty) throw e;
+  }
   const rows = snap.docs.map((d) => ({ uid: d.id, displayName: String(d.data().displayName ?? 'Học viên'), xp: Number(d.data().xp ?? 0) }));
   const u = auth.currentUser;
   let me: Board['me'] = null;
@@ -263,8 +310,8 @@ export async function fetchBoard(kind: 'week' | 'all'): Promise<Board> {
     const idx = rows.findIndex((r) => r.uid === u.uid);
     if (idx >= 0) me = { rank: idx + 1, xp: rows[idx].xp };
     else if (xp > 0) {
-      const higher = await getCountFromServer(query(col, where('xp', '>', xp)));
-      me = { rank: higher.data().count + 1, xp };
+      const higher = await withTimeout(getCountFromServer(query(col, where('xp', '>', xp))), 8000).catch(() => null);
+      me = higher ? { rank: higher.data().count + 1, xp } : null;
     }
   }
   return { rows, me };
