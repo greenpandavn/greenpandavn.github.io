@@ -80,10 +80,10 @@ export default function ProfileScreen({ onLogin, onAdmin }: { onLogin: () => voi
   return (
     <div className="mx-auto max-w-md px-4 pb-2 pt-4">
       <div className="mb-4 flex items-center gap-4">
-        <div className="rounded-full bg-leaf-50 p-1">
+        <div className="shrink-0 rounded-full bg-leaf-50 p-1">
           <Panda size={84} />
         </div>
-        <div className="flex-1">
+        <div className="min-w-0 flex-1">
           {editing ? (
             <form
               className="flex gap-2"
@@ -92,19 +92,19 @@ export default function ProfileScreen({ onLogin, onAdmin }: { onLogin: () => voi
                 void saveName();
               }}
             >
-              <input className="input !min-h-[40px] !px-3" value={nameDraft} maxLength={40} onChange={(e) => setNameDraft(e.target.value)} autoFocus aria-label="Tên hiển thị" />
+              <input className="input !min-h-[40px] min-w-0 !px-3" value={nameDraft} maxLength={40} onChange={(e) => setNameDraft(e.target.value)} autoFocus aria-label="Tên hiển thị" />
               <button type="submit" className="chip !text-leaf-600">
                 Lưu
               </button>
             </form>
           ) : (
-            <h1 className="flex items-center gap-2 text-2xl font-black">
-              <span className="truncate" data-testid="profile-name">
+            <h1 className="flex min-w-0 items-center gap-2 text-2xl font-black">
+              <span className="min-w-0 truncate" data-testid="profile-name">
                 {displayName}
               </span>
               <button
                 type="button"
-                className="text-xs font-extrabold text-sky-600 underline"
+                className="shrink-0 text-xs font-extrabold text-sky-600 underline"
                 onClick={() => {
                   setNameDraft(displayName);
                   setEditing(true);
