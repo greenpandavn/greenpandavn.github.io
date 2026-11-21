@@ -1,6 +1,8 @@
 import { arrayRemove, arrayUnion, collection, deleteDoc, doc, getDocs, setDoc, updateDoc } from 'firebase/firestore';
 import { db } from './firebase';
 import { weekId } from './merge';
+import { certKey } from './account';
+export { certKey };
 import { sanitize } from './store';
 import { BUNDLED_LESSONS, BUNDLED_UNITS, type RawLesson, type Unit } from '../data';
 import type { Progress } from '../types';
@@ -75,7 +77,6 @@ export async function setHidden(uid: string, hidden: boolean) {
   if (hidden) await Promise.all([deleteDoc(doc(db, 'leaderboard', uid)), deleteDoc(doc(db, 'weeks', weekId(), 'entries', uid))]);
 }
 
-export const certKey = (c: { id: string; date: string }) => `${c.id}@${c.date}`;
 export const revokeCert = (uid: string, key: string) => setDoc(role(uid), { revoked: arrayUnion(key), ...touch() }, { merge: true });
 export const restoreCert = (uid: string, key: string) => setDoc(role(uid), { revoked: arrayRemove(key), ...touch() }, { merge: true });
 

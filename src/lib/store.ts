@@ -199,13 +199,6 @@ export function failLesson(lessonId: string) {
   }));
 }
 
-/** Drop certificates an admin revoked (keys are `${id}@${date}`). */
-export function dropRevoked(revoked: string[]) {
-  if (!revoked.length) return;
-  const keep = state.certificates.filter((c) => !revoked.includes(`${c.id}@${c.date}`));
-  if (keep.length !== state.certificates.length) set({ ...state, certificates: keep });
-}
-
 export function noteCombo(combo: number) {
   if (combo > state.bestCombo) updateProgress((p) => ({ ...p, bestCombo: combo }));
 }

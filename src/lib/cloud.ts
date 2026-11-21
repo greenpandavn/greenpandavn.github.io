@@ -34,7 +34,6 @@ import { applyRemote, defaultProgress, getProgress, GUEST_KEY, loadFrom, onLocal
 import { mergeProgress, resolveLogin, weekId, weekXp } from './merge';
 import { getAccount, OWNER_EMAIL, setAccount } from './account';
 import { applyContent, type LessonDoc, type UnitDoc } from '../data';
-import { dropRevoked } from './store';
 import type { Progress } from '../types';
 
 const MIGRATED_KEY = 'hoc-tieng-trung-migrated-uids';
@@ -164,14 +163,13 @@ function applyRole(d: Record<string, unknown>) {
     hidden: d.hidden === true,
     revoked: Array.isArray(d.revoked) ? (d.revoked as string[]) : [],
   };
-  const patch: Partial<ReturnType<typeof getAccount>> = { role: d.role === 'admin' ? 'admin' : 'user' };
+  const patch: Partial<ReturnType<typeof getAccount>> = { role: d.role === 'admin' ? 'admin' : 'user', revoked: roleInfo.revoked };
   const cur = getAccount().user;
   if (roleInfo.forcedName && cur && cur.displayName !== roleInfo.forcedName) {
     patch.user = { ...cur, displayName: roleInfo.forcedName };
     updateProgress((p) => ({ ...p, settings: { ...p.settings, name: roleInfo.forcedName } }));
   }
   setAccount(patch);
-  dropRevoked(roleInfo.revoked);
 }
 
 async function forceLogout(msg: string) {
@@ -207,7 +205,6 @@ async function startSession(u: User) {
   });
   if (!progress.settings.name) progress.settings = { ...progress.settings, name: nameOf(u) };
   applyRemote(progress);
-  dropRevoked(roleInfo.revoked);
   if (migrated) markMigrated(u.uid);
   setAccount({ migrated, user: { ...toUser(u), displayName: u.displayName || progress.settings.name || nameOf(u) } });
 
@@ -255,7 +252,7 @@ function endSession() {
   if (timer) clearTimeout(timer);
   timer = null;
   switchStorageSlot(GUEST_KEY, loadFrom(GUEST_KEY) ?? defaultProgress());
-  setAccount({ ready: true, user: null, sync: 'idle', migrated: false, role: 'user' });
+  setAccount({ ready: true, user: null, sync: 'idle', migrated: false, role: 'user', revoked: [] });
 }
 
 export function initCloud() {

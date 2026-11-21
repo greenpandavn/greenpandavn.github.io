@@ -8,13 +8,18 @@ export interface AccountState {
   migrated: boolean; // local progress merged into the account on this login
   role: 'admin' | 'user';
   notice: string; // e.g. "account locked" message shown after a forced sign-out
+  revoked: string[]; // certificate keys revoked by an admin (hidden, but kept in the stored progress)
 }
 
 export const OWNER_EMAIL = 'virusphuoc@gmail.com';
-let state: AccountState = { ready: false, user: null, sync: 'idle', migrated: false, role: 'user', notice: '' };
+let state: AccountState = { ready: false, user: null, sync: 'idle', migrated: false, role: 'user', notice: '', revoked: [] };
 const listeners = new Set<() => void>();
 
 export const getAccount = () => state;
+export const certKey = (c: { id: string; date: string }) => `${c.id}@${c.date}`;
+/** Certificates to show the learner (admin-revoked ones are hidden). */
+export const visibleCerts = <T extends { id: string; date: string }>(certs: T[], revoked: string[]) =>
+  revoked.length ? certs.filter((c) => !revoked.includes(certKey(c))) : certs;
 export function setAccount(patch: Partial<AccountState>) {
   state = { ...state, ...patch };
   listeners.forEach((l) => l());

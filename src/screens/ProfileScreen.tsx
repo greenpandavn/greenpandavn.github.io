@@ -1,6 +1,6 @@
 import { useRef, useState } from 'react';
 import type { Certificate } from '../types';
-import { firebaseConfigured, loadCloud, useAccount } from '../lib/account';
+import { firebaseConfigured, loadCloud, useAccount, visibleCerts } from '../lib/account';
 import { NOT_CONFIGURED_MSG } from '../lib/firebaseConfig';
 import { notifyPermission, notifySupported, requestNotify } from '../lib/reminder';
 import { installHelp, promptInstall, useInstall } from '../lib/install';
@@ -26,6 +26,7 @@ const BADGE_COLORS = ['bg-leaf-500', 'bg-sky-500', 'bg-grape-500', 'bg-[#ff9600]
 export default function ProfileScreen({ onLogin, onAdmin }: { onLogin: () => void; onAdmin: () => void }) {
   const p = useProgress();
   const acc = useAccount();
+  const certs = visibleCerts(p.certificates, acc.revoked);
   const inst = useInstall();
   const [cert, setCert] = useState<Certificate | null>(null);
   const [perm, setPerm] = useState(notifyPermission());
@@ -190,13 +191,13 @@ export default function ProfileScreen({ onLogin, onAdmin }: { onLogin: () => voi
       <StreakCalendar days={p.days} goal={p.settings.dailyGoal} />
 
       <h2 className="mb-2 mt-6 text-lg font-black">Chứng chỉ của tôi</h2>
-      {p.certificates.length === 0 ? (
+      {certs.length === 0 ? (
         <p className="card text-sm font-bold text-ink-400" data-testid="no-certs">
           Chưa có chứng chỉ. Hoàn thành bài kiểm tra cuối mỗi phần (đạt từ 80%) để nhận chứng chỉ.
         </p>
       ) : (
         <ul className="flex flex-col gap-2" data-testid="cert-list">
-          {p.certificates.map((c) => (
+          {certs.map((c) => (
             <li key={c.id} className="card flex items-center gap-3 !p-3">
               <span className="flex h-11 w-11 items-center justify-center rounded-xl bg-sun-100 text-sun-600">
                 <Trophy size={28} />

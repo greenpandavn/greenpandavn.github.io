@@ -1,3 +1,4 @@
+import { useAccount, visibleCerts } from '../lib/account';
 import { useEffect, useRef, useState } from 'react';
 import { CORE_LESSONS, LESSONS, UNITS } from '../data';
 import { currentLessonId, isDone as lessonDone, isTestUnlocked, isUnlocked as lessonUnlocked } from '../lib/unlock';
@@ -27,6 +28,7 @@ const NODE_GLYPH: Record<string, string> = {
 
 export default function PathScreen({ onStart, onTest }: { onStart: (lessonId: string) => void; onTest: (unit: number) => void }) {
   const p = useProgress();
+  const acc = useAccount();
   const [open, setOpen] = useState<string | null>(null);
   const isDone = (l: Lesson) => lessonDone(p, l);
   const isUnlocked = (l: Lesson) => lessonUnlocked(p, l);
@@ -138,7 +140,7 @@ export default function PathScreen({ onStart, onTest }: { onStart: (lessonId: st
                 unit={u.unit}
                 title={u.title}
                 unlocked={isTestUnlocked(p, u.unit)}
-                cert={p.certificates.find((c) => c.unit === u.unit)?.score}
+                cert={visibleCerts(p.certificates, acc.revoked).find((c) => c.unit === u.unit)?.score}
                 open={open === `test-${u.unit}`}
                 onToggle={() => setOpen(open === `test-${u.unit}` ? null : `test-${u.unit}`)}
                 onStart={() => onTest(u.unit)}
