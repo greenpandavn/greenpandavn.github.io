@@ -1,0 +1,214 @@
+# Khóa tiếng Anh cho người Việt – sơ cấp, phần mở rộng 2 (v5.2).
+# Cùng định dạng với english.txt.
+
+%103|1|Phần 7: Vui chơi và khám phá|Con vật, món ăn, truyện cổ tích, cắm trại, lễ hội|coral
+@c01|Thú con và chim|Cún con, mèo con, cừu non, chim sẻ|Puppy
+puppy|chó con|The puppy sleeps in a box.|Chú chó con ngủ trong một cái hộp.
+kitten|mèo con|My kitten likes milk.|Mèo con của tôi thích sữa.
+pony|ngựa nhỏ|The girl rides a pony.|Cô bé cưỡi một con ngựa nhỏ.
+lamb|cừu non|The lamb follows its mother.|Chú cừu non đi theo mẹ.
+calf|con bê|The calf drinks milk.|Con bê uống sữa.
+chick|gà con|A yellow chick runs in the yard.|Một chú gà con màu vàng chạy trong sân.
+piglet|lợn con|The piglet is pink and small.|Chú lợn con màu hồng và nhỏ.
+swan|thiên nga|A white swan swims on the lake.|Một con thiên nga trắng bơi trên hồ.
+pigeon|chim bồ câu|A pigeon sits on the roof.|Một con bồ câu đậu trên mái nhà.
+crow|con quạ|The crow is black.|Con quạ màu đen.
+sparrow|chim sẻ|A sparrow eats rice in the yard.|Một con chim sẻ ăn thóc trong sân.
+owl|con cú|The owl sleeps in the day.|Con cú ngủ vào ban ngày.
+
+@c02|Con vật nhỏ|Nhện, sâu, ốc sên, sóc, nhím|Spider
+spider|con nhện|There is a spider on the wall.|Có một con nhện trên tường.
+worm|con sâu, con giun|The bird eats a worm.|Con chim ăn một con sâu.
+snail|ốc sên|A snail moves very slowly.|Ốc sên di chuyển rất chậm.
+mosquito|con muỗi|A mosquito bit my arm.|Một con muỗi đốt tay tôi.
+beetle|bọ cánh cứng|The beetle walks on a leaf.|Con bọ cánh cứng bò trên chiếc lá.
+ladybug|bọ rùa|A ladybug is red with black spots.|Bọ rùa màu đỏ có chấm đen.
+dragonfly|chuồn chuồn|A dragonfly flies over the pond.|Một con chuồn chuồn bay trên ao.
+grasshopper|châu chấu|The grasshopper jumps very far.|Con châu chấu nhảy rất xa.
+squirrel|con sóc|A squirrel climbs the tree.|Một con sóc trèo lên cây.
+hedgehog|con nhím|The hedgehog comes out at night.|Con nhím ra ngoài vào ban đêm.
+cage|cái lồng|The bird is in a cage.|Con chim ở trong lồng.
+leash|dây dắt (chó)|Keep your dog on a leash.|Hãy giữ chó của bạn bằng dây dắt.
+
+@c03|Ở vườn thú và biển|Lạc đà, hươu cao cổ, chim cánh cụt, sứa|Zebra
+camel|lạc đà|A camel can walk for days without water.|Lạc đà có thể đi nhiều ngày không cần nước.
+giraffe|hươu cao cổ|The giraffe has a long neck.|Hươu cao cổ có cái cổ dài.
+zebra|ngựa vằn|A zebra is black and white.|Ngựa vằn màu đen và trắng.
+hippo|hà mã|The hippo stays in the water.|Hà mã ở dưới nước.
+kangaroo|chuột túi|A kangaroo can jump very high.|Chuột túi có thể nhảy rất cao.
+panda|gấu trúc|The panda eats bamboo.|Gấu trúc ăn tre.
+penguin|chim cánh cụt|A penguin cannot fly.|Chim cánh cụt không biết bay.
+seal|hải cẩu|The seal plays with a ball.|Chú hải cẩu chơi với quả bóng.
+octopus|bạch tuộc|An octopus has eight arms.|Bạch tuộc có tám cái tay.
+jellyfish|con sứa|Do not touch the jellyfish.|Đừng chạm vào con sứa.
+starfish|sao biển|I found a starfish on the beach.|Tôi tìm thấy một con sao biển trên bãi biển.
+lobster|tôm hùm|The lobster is very big.|Con tôm hùm rất to.
+
+@c04|Trái cây và rau củ 3|Mận, dưa, ổi, đậu Hà Lan, gừng|Plum
+plum|quả mận|This plum is sweet.|Quả mận này ngọt.
+melon|quả dưa|We eat melon in summer.|Chúng tôi ăn dưa vào mùa hè.
+guava|quả ổi|I like guava with salt.|Tôi thích ăn ổi chấm muối.
+kiwi|quả kiwi|A kiwi is green inside.|Quả kiwi có màu xanh bên trong.
+apricot|quả mơ|She eats an apricot every morning.|Cô ấy ăn một quả mơ mỗi sáng.
+fig|quả sung, quả vả|There is a fig tree in the garden.|Có một cây vả trong vườn.
+pea|hạt đậu Hà Lan|The baby dropped a pea on the floor.|Em bé làm rơi một hạt đậu xuống sàn.
+lettuce|rau xà lách|Wash the lettuce first.|Hãy rửa rau xà lách trước.
+spinach|rau chân vịt|Spinach is good for you.|Rau chân vịt tốt cho bạn.
+celery|cần tây|I put celery in the soup.|Tôi cho cần tây vào súp.
+ginger|gừng|My mother makes ginger tea.|Mẹ tôi pha trà gừng.
+eggplant|cà tím|We grow eggplant at home.|Chúng tôi trồng cà tím ở nhà.
+
+@c05|Bánh và đồ ăn nhanh|Bánh kếp, bánh rán, pizza, xúc xích|Pizza
+pancake|bánh kếp|I want a pancake with honey.|Tôi muốn một cái bánh kếp với mật ong.
+waffle|bánh quế|The waffle is hot.|Bánh quế còn nóng.
+donut|bánh rán vòng|He eats a donut after school.|Cậu ấy ăn một cái bánh rán sau giờ học.
+pie|bánh nướng nhân|Grandma makes apple pie.|Bà làm bánh táo nướng.
+biscuit|bánh quy|Would you like a biscuit?|Bạn có muốn một cái bánh quy không?
+muffin|bánh nướng xốp|This muffin has banana in it.|Bánh nướng xốp này có chuối bên trong.
+popcorn|bỏng ngô|We eat popcorn at the movies.|Chúng tôi ăn bỏng ngô ở rạp chiếu phim.
+pizza|bánh pizza|Let's order pizza tonight.|Tối nay mình gọi pizza đi.
+burger|bánh mì kẹp thịt|I had a burger for lunch.|Tôi ăn bánh mì kẹp thịt vào bữa trưa.
+sausage|xúc xích|He cooks a sausage on the fire.|Anh ấy nướng một cây xúc xích trên lửa.
+bacon|thịt xông khói|I like bacon with eggs.|Tôi thích thịt xông khói với trứng.
+ham|giăm bông|She makes a ham sandwich.|Cô ấy làm bánh mì kẹp giăm bông.
+
+@c06|Trong bếp 2|Mì, mật ong, mứt, tiêu, giấm|Honey
+steak|bít tết|My father likes steak.|Bố tôi thích bít tết.
+cereal|ngũ cốc ăn sáng|I eat cereal with milk.|Tôi ăn ngũ cốc với sữa.
+yogurt|sữa chua|This yogurt is very cold.|Sữa chua này rất lạnh.
+ketchup|tương cà|Put ketchup on my fries, please.|Làm ơn cho tương cà lên khoai tây chiên của tôi.
+mustard|mù tạt|He does not like mustard.|Anh ấy không thích mù tạt.
+vinegar|giấm|Add a little vinegar.|Hãy thêm một chút giấm.
+noodle|sợi mì|A noodle fell on my shirt.|Một sợi mì rơi lên áo tôi.
+cookie|bánh quy|Take one cookie from the plate.|Hãy lấy một cái bánh quy trên đĩa.
+chocolate|sô cô la|Children love chocolate.|Trẻ con rất thích sô cô la.
+honey|mật ong|Bees make honey.|Ong làm ra mật.
+jam|mứt|I put jam on my bread.|Tôi phết mứt lên bánh mì.
+pepper|hạt tiêu; quả ớt chuông|Please pass the pepper.|Làm ơn đưa giúp tôi lọ tiêu.
+
+@c07|Truyện cổ tích|Nàng tiên, rồng, phù thủy, lâu đài|Castle
+fairy|nàng tiên|The fairy has small wings.|Nàng tiên có đôi cánh nhỏ.
+giant|người khổng lồ; khổng lồ|The giant lives on a mountain.|Người khổng lồ sống trên một ngọn núi.
+dragon|con rồng|The dragon breathes fire.|Con rồng phun lửa.
+witch|mụ phù thủy|The witch has a black cat.|Mụ phù thủy có một con mèo đen.
+wizard|thầy phù thủy|The wizard wears a tall hat.|Thầy phù thủy đội một chiếc mũ cao.
+prince|hoàng tử|The prince rides a white horse.|Hoàng tử cưỡi một con ngựa trắng.
+princess|công chúa|The princess sings in the garden.|Công chúa hát trong vườn.
+queen|nữ hoàng, hoàng hậu|The queen is kind to everyone.|Nữ hoàng tốt với mọi người.
+king|nhà vua|The king has three sons.|Nhà vua có ba người con trai.
+castle|lâu đài|They live in a big castle.|Họ sống trong một lâu đài lớn.
+monster|quái vật|There is no monster under your bed.|Không có con quái vật nào dưới giường con đâu.
+ghost|con ma|I am not afraid of a ghost.|Tôi không sợ ma.
+
+@c08|Phiêu lưu|Cướp biển, kho báu, hiệp sĩ, nàng tiên cá|Pirate
+pirate|cướp biển|The pirate has a big ship.|Tên cướp biển có một con tàu lớn.
+treasure|kho báu|They found treasure on the island.|Họ tìm thấy kho báu trên đảo.
+sword|thanh kiếm|The sword is very sharp.|Thanh kiếm rất sắc.
+crown|vương miện|The king wears a gold crown.|Nhà vua đội vương miện vàng.
+knight|hiệp sĩ|The knight saves the town.|Hiệp sĩ cứu thị trấn.
+elf|yêu tinh nhỏ|An elf helps the old man.|Một chú yêu tinh giúp ông lão.
+mermaid|nàng tiên cá|The mermaid lives in the sea.|Nàng tiên cá sống dưới biển.
+alien|người ngoài hành tinh|The alien in the film is green.|Người ngoài hành tinh trong phim màu xanh.
+spaceship|tàu vũ trụ|The spaceship flies to the moon.|Tàu vũ trụ bay lên mặt trăng.
+magician|ảo thuật gia|The magician pulls a rabbit from a hat.|Ảo thuật gia lôi một con thỏ ra từ chiếc mũ.
+juggler|người tung hứng|The juggler throws five balls.|Người tung hứng ném năm quả bóng.
+acrobat|diễn viên nhào lộn|The acrobat walks on her hands.|Diễn viên nhào lộn đi bằng hai tay.
+
+@c09|Đi cắm trại|Lều, lửa trại, đèn pin, xuồng|Tent
+tent|cái lều|We sleep in a tent.|Chúng tôi ngủ trong lều.
+campfire|lửa trại|We sing around the campfire.|Chúng tôi hát quanh lửa trại.
+flashlight|đèn pin|Bring a flashlight for the night.|Hãy mang đèn pin cho buổi tối.
+trail|đường mòn|This trail goes to the lake.|Đường mòn này dẫn đến hồ.
+hook|cái móc, lưỡi câu|Hang your coat on the hook.|Hãy treo áo khoác lên móc.
+net|cái lưới, cái vợt|He catches fish with a net.|Anh ấy bắt cá bằng lưới.
+canoe|xuồng nhỏ|We cross the river in a canoe.|Chúng tôi qua sông bằng xuồng.
+raft|cái bè|The boys made a raft from wood.|Các cậu bé làm một cái bè bằng gỗ.
+rope|sợi dây thừng|Tie the boat with a rope.|Hãy buộc thuyền bằng dây thừng.
+torch|ngọn đuốc, đèn pin|He holds a torch in the dark.|Anh ấy cầm một ngọn đuốc trong bóng tối.
+candle|cây nến|Light a candle, please.|Làm ơn thắp một cây nến.
+picnic|buổi dã ngoại|We have a picnic in the park.|Chúng tôi đi dã ngoại ở công viên.
+
+@c10|Lễ hội|Quà, hóa trang, diễu hành, pháo hoa|Party
+present|món quà|This present is for you.|Món quà này dành cho bạn.
+surprise|điều bất ngờ|The party is a surprise for Mom.|Bữa tiệc là một bất ngờ dành cho mẹ.
+costume|trang phục hóa trang|He wears a tiger costume.|Cậu ấy mặc trang phục hổ.
+parade|cuộc diễu hành|We watch the parade in the street.|Chúng tôi xem diễu hành trên phố.
+firework|pháo hoa|A big firework lit the sky.|Một quả pháo hoa lớn thắp sáng bầu trời.
+lantern|đèn lồng|The child carries a red lantern.|Đứa trẻ cầm một chiếc đèn lồng đỏ.
+barbecue|tiệc nướng ngoài trời|We have a barbecue on Sunday.|Chúng tôi tổ chức tiệc nướng vào Chủ nhật.
+feast|bữa tiệc lớn|There is a feast at the wedding.|Có một bữa tiệc lớn trong đám cưới.
+snack|đồ ăn vặt|I want a snack after school.|Tôi muốn ăn vặt sau giờ học.
+hooray|hoan hô|Hooray, we won the game!|Hoan hô, chúng ta thắng rồi!
+wow|ồ, chà|Wow, your house is big!|Chà, nhà bạn to quá!
+captain|đội trưởng, thuyền trưởng|She is the captain of our team.|Cô ấy là đội trưởng của đội chúng tôi.
+
+@c11|Nhạc cụ và hình khối|Còi, kèn, sáo, hình chữ nhật, mũi tên|Flute
+whistle|cái còi; huýt sáo|The teacher blows a whistle.|Thầy giáo thổi còi.
+trumpet|kèn trumpet|My brother plays the trumpet.|Anh tôi chơi kèn trumpet.
+flute|cây sáo|She plays the flute at school.|Cô ấy thổi sáo ở trường.
+violin|đàn vi-ô-lông|I am learning the violin.|Tôi đang học đàn vi-ô-lông.
+bell|cái chuông|The bell rings at eight.|Chuông reo lúc tám giờ.
+rectangle|hình chữ nhật|A door is a rectangle.|Cánh cửa là một hình chữ nhật.
+oval|hình bầu dục|An egg is oval.|Quả trứng có hình bầu dục.
+diamond|hình thoi; kim cương|The kite is a diamond.|Con diều có hình thoi.
+cube|hình lập phương, khối vuông|Put an ice cube in my drink.|Hãy cho một viên đá vào đồ uống của tôi.
+dot|dấu chấm|Draw a dot on the paper.|Hãy vẽ một dấu chấm lên giấy.
+arrow|mũi tên|Follow the red arrow.|Hãy đi theo mũi tên đỏ.
+sandbox|hố cát (cho trẻ chơi)|The kids play in the sandbox.|Bọn trẻ chơi trong hố cát.
+
+@c12|Thời tiết 2|Mưa, tuyết, sương mù, gió nhẹ, bóng râm|Snow
+rainy|có mưa|It is rainy today.|Hôm nay trời mưa.
+snowy|có tuyết|We stay home on a snowy day.|Chúng tôi ở nhà vào ngày có tuyết.
+foggy|có sương mù|The morning is foggy.|Buổi sáng có sương mù.
+stormy|có bão|The sea is stormy tonight.|Tối nay biển có bão.
+cool|mát; tuyệt|The evening is cool.|Buổi tối trời mát.
+breeze|làn gió nhẹ|A breeze comes from the sea.|Một làn gió nhẹ thổi từ biển vào.
+snowflake|bông tuyết|A snowflake fell on my nose.|Một bông tuyết rơi lên mũi tôi.
+icicle|cột băng nhỏ|An icicle hangs from the roof.|Một cột băng nhỏ treo trên mái nhà.
+snowman|người tuyết|We made a snowman in the yard.|Chúng tôi làm một người tuyết trong sân.
+raindrop|giọt mưa|I felt a raindrop on my hand.|Tôi cảm thấy một giọt mưa trên tay.
+sunshine|ánh nắng|The cat sleeps in the sunshine.|Con mèo ngủ dưới ánh nắng.
+shadow|cái bóng|My shadow is long in the evening.|Bóng của tôi dài vào buổi chiều tối.
+
+@c13|Vận động vui chơi|Kính bơi, ván trượt, nhảy lò cò, bò|Skate
+swimsuit|đồ bơi|I need a new swimsuit.|Tôi cần một bộ đồ bơi mới.
+goggles|kính bơi|Wear your goggles in the pool.|Hãy đeo kính bơi khi ở hồ bơi.
+bat|gậy đánh bóng; con dơi|He hits the ball with a bat.|Cậu ấy đánh quả bóng bằng gậy.
+skateboard|ván trượt|He rides his skateboard to school.|Cậu ấy đi ván trượt đến trường.
+sled|xe trượt tuyết nhỏ|The children ride a sled down the hill.|Bọn trẻ đi xe trượt tuyết xuống đồi.
+ski|trượt tuyết; ván trượt tuyết|We ski in winter.|Chúng tôi trượt tuyết vào mùa đông.
+skate|trượt băng, trượt pa-tanh|Can you skate?|Bạn có biết trượt băng không?
+bounce|nảy lên; làm nảy|The ball does not bounce on sand.|Quả bóng không nảy trên cát.
+spin|quay tròn|The dancers spin around.|Các vũ công xoay tròn.
+hop|nhảy lò cò|Can you hop on one foot?|Bạn có thể nhảy lò cò bằng một chân không?
+skip|nhảy chân sáo; bỏ qua|The girls skip to school.|Các cô bé nhảy chân sáo đến trường.
+crawl|bò|Babies crawl before they walk.|Em bé bò trước khi biết đi.
+
+%104|1|Phần 8: Đời sống quanh em|Quần áo, đồ dùng, động tác, tính từ, nghề nghiệp|grape
+@c14|Quần áo 3|Váy, áo khoác, găng tay, đồ ngủ|Coat
+skirt|chân váy|She wears a blue skirt.|Cô ấy mặc chân váy màu xanh.
+coat|áo khoác dài|Put on your coat.|Hãy mặc áo khoác vào.
+sweater|áo len|This sweater is warm.|Chiếc áo len này ấm.
+boots|đôi ủng, giày cao cổ|I wear boots in the rain.|Tôi đi ủng khi trời mưa.
+cap|mũ lưỡi trai|He has a red cap.|Cậu ấy có một chiếc mũ lưỡi trai đỏ.
+gloves|găng tay|My gloves are in my bag.|Găng tay của tôi ở trong túi.
+sandals|dép xăng đan|I wear sandals in summer.|Tôi đi dép xăng đan vào mùa hè.
+shorts|quần đùi|He plays football in shorts.|Cậu ấy đá bóng trong chiếc quần đùi.
+pajamas|đồ ngủ|The baby is in pajamas.|Em bé đang mặc đồ ngủ.
+raincoat|áo mưa|Take your raincoat today.|Hôm nay hãy mang áo mưa.
+hanger|cái móc áo|Put the shirt on a hanger.|Hãy treo áo sơ mi lên móc.
+pin|cái ghim|I need a pin for this paper.|Tôi cần một cái ghim cho tờ giấy này.
+
+@c15|Đồ dùng học tập 2|Tẩy, thước, vở, băng dính, ghim|Ruler
+eraser|cục tẩy|Can I use your eraser?|Mình dùng cục tẩy của bạn được không?
+ruler|cái thước kẻ|Draw a line with a ruler.|Hãy kẻ một đường bằng thước.
+notebook|quyển vở|Write the word in your notebook.|Hãy viết từ đó vào vở.
+globe|quả địa cầu|There is a globe on the desk.|Có một quả địa cầu trên bàn.
+paintbrush|cọ vẽ|Wash the paintbrush after class.|Hãy rửa cọ vẽ sau giờ học.
+sticker|hình dán|The teacher gave me a sticker.|Cô giáo cho tôi một hình dán.
+tape|băng dính|Fix the page with tape.|Hãy dán trang giấy bằng băng dính.
+stapler|cái dập ghim|The stapler is on the shelf.|Cái dập ghim ở trên kệ.
+folder|bìa đựng tài liệu, thư mục|Keep your papers in a folder.|Hãy giữ giấy tờ trong bìa đựng.
+sharpener|cái gọt bút chì|I lost my pencil sharpener.|Tôi làm mất cái gọt bút chì.
+highlighter|bút dạ quang|Mark the new words with a highlighter.|Hãy đánh dấu từ mới bằng bút dạ quang.
+clip|cái kẹp giấy|Use a clip to hold the pages.|Hãy dùng kẹp để giữ các trang giấy.
