@@ -29,7 +29,7 @@ export interface MockQuestion {
 }
 
 export interface MockSpec {
-  /** Key of the saved result: the HSK level ('1'…'6') or 'en1' … 'en4'. */
+  /** Key of the saved result: the HSK level ('1'…'6') or 'en1' … 'en5'. */
   id: string;
   course: CourseId;
   title: string;
@@ -228,6 +228,20 @@ export const MOCK_SPECS: MockSpec[] = [
       { id: 'vocab', parts: [{ type: 'r-meaning-word', count: 15 }, { type: 'r-cloze', count: 15 }, { type: 'r-word-tf', count: 5 }] },
       { id: 'grammar', parts: [{ type: 'g-choice', count: 25 }] },
       { id: 'reading', parts: [{ type: 'rd-passage', count: 25 }] },
+    ],
+  },
+  {
+    id: 'en5',
+    course: 'en',
+    title: 'Tiếng Anh chuyên sâu',
+    level: 5,
+    minutes: 60,
+    pass: 240,
+    sections: [
+      { id: 'listening', parts: [{ type: 'l-word-hanzi', count: 5 }, { type: 'l-sent-meaning', count: 10 }] },
+      { id: 'vocab', parts: [{ type: 'r-meaning-word', count: 10 }, { type: 'r-cloze', count: 10 }, { type: 'r-word-tf', count: 5 }] },
+      { id: 'grammar', parts: [{ type: 'g-choice', count: 20 }] },
+      { id: 'reading', parts: [{ type: 'rd-passage', count: 20 }] },
     ],
   },
 ];

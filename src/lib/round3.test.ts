@@ -147,6 +147,7 @@ describe('v4.5: Thi thử tiếng Anh', () => {
       ['en2', 80, 60, 400, 240],
       ['en3', 100, 75, 400, 240],
       ['en4', 100, 90, 400, 240],
+      ['en5', 80, 60, 400, 240],
     ]);
     for (const spec of specs) {
       expect(spec.sections.map((s) => s.id)).toEqual(['listening', 'vocab', 'grammar', 'reading']);
@@ -187,8 +188,8 @@ describe('v4.5: Thi thử tiếng Anh', () => {
   });
   it('every bank item has one right answer and distinct options; results are stored per paper', async () => {
     const { GRAMMAR, READING } = await import('../data/enMock');
-    for (const lv of [1, 2, 3, 4]) {
-      const need = [15, 20, 25, 25][lv - 1];
+    for (const lv of [1, 2, 3, 4, 5]) {
+      const need = [15, 20, 25, 25, 20][lv - 1];
       expect(GRAMMAR[lv].length).toBeGreaterThanOrEqual(need);
       for (const g of GRAMMAR[lv]) {
         expect(g.q).toContain('___');
