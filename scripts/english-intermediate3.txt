@@ -1,0 +1,185 @@
+# Khóa tiếng Anh cho người Việt – trung cấp, phần mở rộng 2 (v5.2).
+# Cùng định dạng với english.txt.
+
+%204|2|Phần 12: Nhà cửa, mua sắm và đi lại|Đồ gia dụng, quần áo, đường phố, mua hàng, du lịch biển|sky
+@n01|Đồ điện gia dụng|Máy rửa bát, tủ đông, máy xay, ổ cắm|Home
+detergent|bột giặt, nước giặt|We have run out of detergent.|Chúng ta hết nước giặt rồi.
+dishwasher|máy rửa bát|Put the plates in the dishwasher.|Hãy xếp đĩa vào máy rửa bát.
+freezer|tủ đông, ngăn đá|There is ice cream in the freezer.|Có kem trong ngăn đá.
+blender|máy xay sinh tố|I make smoothies with a blender.|Tôi làm sinh tố bằng máy xay.
+toaster|máy nướng bánh mì|The toaster is broken again.|Máy nướng bánh mì lại hỏng rồi.
+heater|máy sưởi, bình nóng lạnh|Turn on the heater if you are cold.|Hãy bật máy sưởi nếu bạn lạnh.
+mattress|tấm nệm|This mattress is too soft for me.|Tấm nệm này quá mềm đối với tôi.
+adapter|bộ chuyển đổi, đầu chuyển|You need an adapter for this plug.|Bạn cần một đầu chuyển cho phích cắm này.
+cable|dây cáp|I forgot my phone cable at home.|Tôi quên dây cáp điện thoại ở nhà.
+socket|ổ cắm điện|Is there a socket near the bed?|Có ổ cắm nào gần giường không?
+bleach|thuốc tẩy; tẩy trắng|Do not use bleach on this shirt.|Đừng dùng thuốc tẩy cho chiếc áo này.
+stain|vết bẩn; làm bẩn|There is a coffee stain on my shirt.|Có một vết cà phê trên áo tôi.
+
+@n02|Dụng cụ nấu ăn|Muôi, phới, đồ bào, rổ, tạp dề|Cook
+ladle|cái muôi|Serve the soup with a ladle.|Hãy múc súp bằng muôi.
+spatula|cái xẻng lật, phới dẹt|Turn the eggs with a spatula.|Hãy lật trứng bằng xẻng lật.
+whisk|cái đánh trứng; đánh (trứng)|Beat the eggs with a whisk.|Hãy đánh trứng bằng cây đánh trứng.
+grater|đồ bào, cái nạo|Use a grater for the cheese.|Hãy dùng đồ bào để bào phô mai.
+colander|cái rổ để ráo nước|Drain the pasta in a colander.|Hãy để mì ráo nước trong rổ.
+foil|giấy bạc|Cover the fish with foil.|Hãy bọc cá bằng giấy bạc.
+apron|tạp dề|She always wears an apron when she cooks.|Cô ấy luôn đeo tạp dề khi nấu ăn.
+burner|bếp (một lò), đầu đốt|Only one burner works on this stove.|Chỉ có một bếp hoạt động trên cái bếp này.
+tongs|cái kẹp gắp|Pick up the meat with tongs.|Hãy gắp thịt bằng kẹp.
+peeler|dao bào vỏ|I need a peeler for these potatoes.|Tôi cần một cái bào vỏ cho mấy củ khoai tây này.
+strainer|cái rây lọc|Pour the tea through a strainer.|Hãy rót trà qua rây lọc.
+tin|hộp (đồ hộp), hộp thiếc|She opened a tin of tuna.|Cô ấy mở một hộp cá ngừ.
+
+@n03|Các khu trong nhà|Gác mái, hành lang, hiên, ống khói, bãi cỏ|Room
+closet|tủ âm tường, tủ quần áo|Hang your coat in the closet.|Hãy treo áo khoác trong tủ.
+attic|gác mái|We keep old toys in the attic.|Chúng tôi cất đồ chơi cũ trên gác mái.
+hallway|hành lang|Leave your umbrella in the hallway.|Hãy để ô ở hành lang.
+porch|hiên nhà|We sat on the porch and talked.|Chúng tôi ngồi ở hiên nhà và trò chuyện.
+doormat|thảm chùi chân|The key is under the doormat.|Chìa khóa ở dưới thảm chùi chân.
+chimney|ống khói|Smoke is coming out of the chimney.|Khói đang bốc ra từ ống khói.
+fireplace|lò sưởi|We read by the fireplace in winter.|Mùa đông chúng tôi đọc sách bên lò sưởi.
+driveway|lối xe vào nhà|He parked the car in the driveway.|Anh ấy đỗ xe ở lối vào nhà.
+lawn|bãi cỏ|My father cuts the lawn every Saturday.|Bố tôi cắt cỏ mỗi thứ Bảy.
+shed|nhà kho nhỏ|The bikes are in the shed.|Xe đạp ở trong nhà kho.
+bedsheet|ga trải giường|I changed the bedsheet this morning.|Sáng nay tôi đã thay ga trải giường.
+pillowcase|vỏ gối|This pillowcase needs washing.|Cái vỏ gối này cần giặt.
+
+@n04|Thuê nhà và chỗ ở|Hợp đồng thuê, bạn cùng phòng, tiền điện nước|Rent
+lease|hợp đồng thuê|We signed a one-year lease.|Chúng tôi ký hợp đồng thuê một năm.
+roommate|bạn cùng phòng|My roommate cooks very well.|Bạn cùng phòng của tôi nấu ăn rất ngon.
+landlady|bà chủ nhà|The landlady lives downstairs from us.|Bà chủ nhà sống ở tầng dưới chúng tôi.
+utility|dịch vụ điện nước|The rent does not include any utility bills.|Tiền thuê không bao gồm hóa đơn điện nước.
+flatmate|bạn ở chung căn hộ|I am looking for a new flatmate.|Tôi đang tìm một người ở chung căn hộ mới.
+errand|việc vặt|I have to run an errand before lunch.|Tôi phải đi làm một việc vặt trước bữa trưa.
+grocery|hàng tạp hóa, thực phẩm|She works at a grocery store.|Cô ấy làm ở một cửa hàng tạp hóa.
+duvet|chăn bông|I bought a warm duvet for winter.|Tôi mua một cái chăn bông ấm cho mùa đông.
+cottage|nhà nhỏ ở nông thôn|They rented a cottage by the sea.|Họ thuê một ngôi nhà nhỏ bên bờ biển.
+bungalow|nhà một tầng|My grandparents live in a bungalow.|Ông bà tôi sống trong một ngôi nhà một tầng.
+villa|biệt thự|We stayed in a villa with a pool.|Chúng tôi ở trong một biệt thự có hồ bơi.
+hometown|quê nhà|I visit my hometown twice a year.|Tôi về thăm quê hai lần mỗi năm.
+
+@n05|Vải và chi tiết quần áo|Len, bò, nhung, ren, khóa cài|Cloth
+fabric|vải|This fabric feels very soft.|Loại vải này sờ rất mềm.
+wool|len|The scarf is made of wool.|Chiếc khăn được làm bằng len.
+denim|vải bò|She wore a denim jacket.|Cô ấy mặc áo khoác bò.
+nylon|ni lông|The bag is made of strong nylon.|Chiếc túi được làm bằng ni lông bền.
+velvet|nhung|The chairs are covered in red velvet.|Những chiếc ghế được bọc nhung đỏ.
+lace|ren; dây giày|The dress has lace on the sleeves.|Chiếc váy có ren ở tay áo.
+hood|mũ trùm đầu (liền áo)|Put up your hood, it is raining.|Hãy đội mũ trùm lên, trời đang mưa.
+cuff|cổ tay áo|There is ink on your cuff.|Có vết mực trên cổ tay áo của bạn.
+buckle|khóa cài (thắt lưng)|The buckle on my belt broke.|Khóa thắt lưng của tôi bị gãy.
+strap|quai, dây đeo|The strap of my bag is too long.|Quai túi của tôi quá dài.
+sole|đế giày; lòng bàn chân|There is a hole in the sole of my shoe.|Có một cái lỗ ở đế giày của tôi.
+wrinkle|nếp nhăn; làm nhăn|This shirt does not wrinkle easily.|Chiếc áo này không dễ bị nhăn.
+
+@n06|Trang phục thường ngày|Giày thể thao, áo nỉ, quần bò, áo vest|Wear
+sneakers|giày thể thao|I wear sneakers to work.|Tôi đi giày thể thao đến chỗ làm.
+hoodie|áo nỉ có mũ|He wears the same hoodie every day.|Ngày nào anh ấy cũng mặc cùng một chiếc áo nỉ có mũ.
+jeans|quần bò|These jeans are too tight.|Chiếc quần bò này chật quá.
+leggings|quần bó (legging)|She wears leggings to the gym.|Cô ấy mặc quần legging đến phòng tập.
+tights|quần tất|I need black tights for the party.|Tôi cần quần tất đen cho bữa tiệc.
+vest|áo gi lê, áo ba lỗ|He wore a vest under his jacket.|Anh ấy mặc áo gi lê bên trong áo khoác.
+blazer|áo khoác blazer|She bought a blue blazer for the interview.|Cô ấy mua một chiếc blazer xanh cho buổi phỏng vấn.
+cardigan|áo len cài khuy|Take a cardigan in case it gets cold.|Hãy mang áo len cài khuy phòng khi trời lạnh.
+tracksuit|bộ đồ thể thao|He jogs in an old tracksuit.|Anh ấy chạy bộ trong bộ đồ thể thao cũ.
+swimwear|đồ bơi|The shop sells swimwear all year.|Cửa hàng bán đồ bơi quanh năm.
+underwear|đồ lót|Pack enough underwear for a week.|Hãy mang đủ đồ lót cho một tuần.
+bra|áo ngực|She bought a sports bra.|Cô ấy mua một chiếc áo ngực thể thao.
+
+@n07|Đường sá|Vạch qua đường, ngã tư, vòng xuyến, đường vòng|Road
+crosswalk|vạch sang đường|Always use the crosswalk.|Hãy luôn đi trên vạch sang đường.
+intersection|ngã tư, giao lộ|Turn right at the next intersection.|Hãy rẽ phải ở giao lộ tiếp theo.
+roundabout|vòng xuyến|Take the second exit at the roundabout.|Hãy đi lối ra thứ hai ở vòng xuyến.
+lane|làn đường; ngõ nhỏ|Stay in the left lane.|Hãy đi ở làn bên trái.
+overpass|cầu vượt|The bus goes over the overpass.|Xe buýt đi qua cầu vượt.
+detour|đường vòng|We had to take a detour.|Chúng tôi phải đi đường vòng.
+parking|việc đỗ xe, chỗ đỗ xe|Parking is free on Sundays.|Đỗ xe miễn phí vào Chủ nhật.
+cyclist|người đi xe đạp|A cyclist was waiting at the lights.|Một người đi xe đạp đang chờ đèn đỏ.
+motorist|người lái ô tô|A motorist stopped to help us.|Một người lái ô tô dừng lại giúp chúng tôi.
+commuter|người đi làm hằng ngày (bằng xe, tàu)|Every commuter knows this station.|Người đi làm nào cũng biết nhà ga này.
+carriage|toa tàu|Our seats are in the last carriage.|Chỗ của chúng tôi ở toa cuối.
+district|quận, huyện|We live in a quiet district.|Chúng tôi sống ở một quận yên tĩnh.
+
+@n08|Mua sắm và thanh toán|Phiếu giảm giá, lối đi, trả góp, chuyển khoản|Pay
+coupon|phiếu giảm giá|I have a coupon for free coffee.|Tôi có phiếu tặng cà phê miễn phí.
+aisle|lối đi giữa các kệ, các hàng ghế|The rice is in the next aisle.|Gạo ở lối đi bên cạnh.
+trolley|xe đẩy hàng|Our trolley is already full.|Xe đẩy của chúng tôi đã đầy.
+label|nhãn; dán nhãn|Read the label before you buy.|Hãy đọc nhãn trước khi mua.
+cashback|tiền hoàn lại|This card gives two percent cashback.|Thẻ này hoàn lại hai phần trăm.
+installment|kỳ trả góp|I pay for the phone in one installment a month.|Tôi trả tiền điện thoại mỗi tháng một kỳ góp.
+debit|ghi nợ; thẻ ghi nợ|Can I pay by debit card?|Tôi trả bằng thẻ ghi nợ được không?
+transfer|chuyển khoản; chuyển|I will transfer the money tonight.|Tối nay tôi sẽ chuyển khoản.
+statement|bản sao kê; lời tuyên bố|Check your bank statement every month.|Hãy kiểm tra sao kê ngân hàng hằng tháng.
+atm|máy rút tiền|Is there an atm near here?|Gần đây có máy rút tiền không?
+delivery|việc giao hàng|Delivery takes three days.|Giao hàng mất ba ngày.
+courier|người giao hàng, công ty chuyển phát|The courier left the box at the door.|Người giao hàng để chiếc hộp ở cửa.
+
+@n09|Bưu kiện và thư viện|Theo dõi đơn, phí gửi, quá hạn, gia hạn|Post
+tracking|việc theo dõi (đơn hàng)|Use the tracking number to find your order.|Hãy dùng mã theo dõi để tìm đơn hàng của bạn.
+shipping|việc vận chuyển, phí vận chuyển|Shipping is free for large orders.|Miễn phí vận chuyển cho đơn hàng lớn.
+postage|bưu phí|How much is the postage to Japan?|Bưu phí gửi sang Nhật là bao nhiêu?
+postcode|mã bưu chính|Please write your postcode here.|Vui lòng ghi mã bưu chính của bạn ở đây.
+sender|người gửi|The letter went back to the sender.|Lá thư bị trả về cho người gửi.
+recipient|người nhận|The recipient must sign for the parcel.|Người nhận phải ký nhận bưu kiện.
+overdue|quá hạn|These library books are overdue.|Những cuốn sách thư viện này đã quá hạn.
+renew|gia hạn, làm mới|I need to renew my passport.|Tôi cần gia hạn hộ chiếu.
+due|đến hạn|The rent is due on Friday.|Tiền thuê nhà đến hạn vào thứ Sáu.
+librarian|thủ thư|Ask the librarian for help.|Hãy nhờ thủ thư giúp.
+catalogue|danh mục|Look for the book in the online catalogue.|Hãy tìm cuốn sách trong danh mục trực tuyến.
+copy|bản sao; sao chép|Please make a copy of this page.|Vui lòng sao một bản trang này.
+
+@n10|Làm đẹp và tập luyện|Cắt tóc, làm móng, mát-xa, máy chạy bộ|Gym
+haircut|việc cắt tóc, kiểu tóc|I need a haircut before the wedding.|Tôi cần cắt tóc trước đám cưới.
+manicure|làm móng tay|She gets a manicure once a month.|Cô ấy làm móng mỗi tháng một lần.
+salon|tiệm làm đẹp|My sister works at a hair salon.|Chị tôi làm ở một tiệm làm tóc.
+massage|mát-xa|A massage helps after a long day.|Mát-xa rất có ích sau một ngày dài.
+spa|spa, khu chăm sóc sức khỏe|The hotel has a small spa.|Khách sạn có một spa nhỏ.
+membership|tư cách thành viên, thẻ hội viên|My gym membership ends in June.|Thẻ hội viên phòng tập của tôi hết hạn vào tháng Sáu.
+treadmill|máy chạy bộ|I run on the treadmill when it rains.|Tôi chạy trên máy chạy bộ khi trời mưa.
+yoga|yoga|She does yoga before breakfast.|Cô ấy tập yoga trước bữa sáng.
+jogging|chạy bộ|We go jogging by the lake.|Chúng tôi chạy bộ bên hồ.
+nap|giấc ngủ ngắn; chợp mắt|I took a short nap after lunch.|Tôi chợp mắt một lúc sau bữa trưa.
+floss|chỉ nha khoa; dùng chỉ nha khoa|Dentists say you should floss every day.|Nha sĩ nói bạn nên dùng chỉ nha khoa hằng ngày.
+gargle|súc họng|Gargle with salt water for a sore throat.|Hãy súc họng bằng nước muối khi đau họng.
+
+@n11|Nơi lưu trú và nắng hè|Nhà trọ, nhà nghỉ, phòng hạng sang, cháy nắng|Stay
+hostel|nhà trọ giá rẻ (cho khách du lịch)|We stayed in a hostel near the station.|Chúng tôi ở một nhà trọ gần nhà ga.
+lodge|nhà nghỉ vùng núi|The lodge is at the foot of the mountain.|Nhà nghỉ nằm ở chân núi.
+inn|quán trọ|We had dinner at a small inn.|Chúng tôi ăn tối ở một quán trọ nhỏ.
+motel|nhà nghỉ ven đường|They stopped at a motel for the night.|Họ dừng lại ở một nhà nghỉ ven đường qua đêm.
+guesthouse|nhà khách|The guesthouse is run by a family.|Nhà khách do một gia đình điều hành.
+suite|phòng hạng sang (nhiều buồng)|They booked a suite for their parents.|Họ đặt một phòng hạng sang cho bố mẹ.
+boarding|việc lên máy bay, lên tàu|Boarding starts at ten thirty.|Việc lên máy bay bắt đầu lúc mười giờ ba mươi.
+sunglasses|kính râm|Do not forget your sunglasses.|Đừng quên kính râm.
+sunburn|sự cháy nắng|I got a bad sunburn at the beach.|Tôi bị cháy nắng nặng ở bãi biển.
+tan|làn da rám nắng; rám nắng|She came back with a nice tan.|Cô ấy trở về với làn da rám nắng đẹp.
+caravan|xe nhà lưu động|They travel around Europe in a caravan.|Họ đi khắp châu Âu bằng xe nhà lưu động.
+cabin|nhà gỗ nhỏ; khoang (tàu, máy bay)|We rented a cabin in the woods.|Chúng tôi thuê một căn nhà gỗ trong rừng.
+
+@n12|Ở bờ biển|Lặn ống thở, hải đăng, bến tàu, lâu đài cát|Beach
+snorkel|ống thở khi lặn; lặn bằng ống thở|You can snorkel near the rocks.|Bạn có thể lặn ống thở gần bãi đá.
+paddle|mái chèo; chèo|I dropped my paddle in the water.|Tôi làm rơi mái chèo xuống nước.
+seaweed|rong biển|The beach was covered in seaweed.|Bãi biển phủ đầy rong biển.
+bay|vịnh|The boats are safe in the bay.|Những con thuyền được an toàn trong vịnh.
+lighthouse|ngọn hải đăng|The lighthouse can be seen from far away.|Có thể nhìn thấy ngọn hải đăng từ rất xa.
+pier|cầu tàu|We walked to the end of the pier.|Chúng tôi đi bộ ra cuối cầu tàu.
+dock|bến tàu|The ship is waiting at the dock.|Con tàu đang đợi ở bến.
+sandcastle|lâu đài cát|The children built a sandcastle.|Bọn trẻ xây một lâu đài cát.
+seashell|vỏ sò, vỏ ốc|She found a pretty seashell.|Cô ấy nhặt được một vỏ sò đẹp.
+lagoon|đầm phá|We swam in a blue lagoon.|Chúng tôi bơi trong một đầm nước xanh biếc.
+lifeguard|nhân viên cứu hộ|The lifeguard watches the swimmers.|Nhân viên cứu hộ quan sát những người đang bơi.
+surf|lướt sóng; lướt (mạng)|He learned to surf in Da Nang.|Anh ấy học lướt sóng ở Đà Nẵng.
+
+@n13|Họ hàng và họp mặt|Họ, vợ chồng, anh chị em, bố dượng, họp mặt|Family
+surname|họ (tên họ)|How do you spell your surname?|Họ của bạn đánh vần thế nào?
+maiden|(tên) thời con gái|Her maiden name is Tran.|Họ thời con gái của bà ấy là Trần.
+initials|chữ cái đầu của họ tên|Write your initials at the bottom.|Hãy ghi các chữ cái đầu của họ tên bạn ở cuối trang.
+spouse|vợ hoặc chồng|You may bring your spouse to the party.|Bạn có thể đưa vợ hoặc chồng đến bữa tiệc.
+sibling|anh, chị, em ruột|I have one sibling, an older sister.|Tôi có một người chị ruột.
+in-law|người thân bên vợ hoặc chồng|My mother in-law is visiting us.|Mẹ chồng tôi đang đến thăm chúng tôi.
+stepfather|bố dượng|Her stepfather taught her to drive.|Bố dượng dạy cô ấy lái xe.
+stepmother|mẹ kế|He gets on well with his stepmother.|Anh ấy hòa thuận với mẹ kế.
+godmother|mẹ đỡ đầu|My godmother sends me a card every year.|Mẹ đỡ đầu gửi thiệp cho tôi hằng năm.
+reunion|buổi họp mặt|We have a family reunion every summer.|Chúng tôi họp mặt gia đình mỗi mùa hè.
+gathering|buổi tụ họp|It was a small gathering of friends.|Đó là một buổi tụ họp bạn bè nho nhỏ.
+outing|chuyến đi chơi|The class went on an outing to the zoo.|Cả lớp đi chơi sở thú.
