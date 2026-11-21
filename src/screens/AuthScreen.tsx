@@ -76,7 +76,7 @@ export default function AuthScreen({ onClose }: { onClose: () => void }) {
         <h1 className="mt-3 text-2xl font-black">Chưa cấu hình Firebase</h1>
         <p className="mt-1 font-semibold text-ink-500">{NOT_CONFIGURED_MSG}</p>
         <button type="button" className="btn-green mt-6" onClick={onClose}>
-          Quay lại học
+          Quay lại
         </button>
         <Footer className="mt-auto" />
       </div>
