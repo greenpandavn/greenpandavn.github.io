@@ -27,7 +27,7 @@ a|打击|đả kích, giáng đòn; đòn đau|这/次/失败/对/他/打击/很
 a|打架|đánh nhau|两/个/孩子/在/学校/打架/了/。|Hai đứa trẻ đã đánh nhau ở trường.
 a|打量|quan sát, ngắm nghía (người)|他/上下/打量/了/我/一/眼/。|Anh ta nhìn tôi từ đầu đến chân một lượt.
 a|打猎|đi săn|以前/这里/的/人/靠/打猎/生活/。|Trước đây người dân ở đây sống nhờ săn bắn.
-a|打仗|đánh trận, chiến đấu|爷爷/年轻/时/打/过=guo/仗/。|Ông nội hồi trẻ từng đi đánh trận.
+a|打仗|đánh trận, chiến đấu|两/个/国家/正在/打仗/。|Hai nước đang đánh nhau.
 g|大不了|cùng lắm thì|大不了/明天/再/来/一/次/。|Cùng lắm thì mai lại đến lần nữa.
 p|大臣|đại thần|皇帝/问/大臣/们/的/意见/。|Hoàng đế hỏi ý kiến các đại thần.
 p|大伙儿|mọi người, cả bọn|大伙儿/一起/去/吃饭/吧/。|Mọi người cùng đi ăn cơm nhé.
@@ -157,7 +157,7 @@ t|多元化|đa dạng hóa, đa nguyên|现在/的/社会/越来越/多元化/�
 a|哆嗦|run lẩy bẩy|他/冷/得/直/哆嗦/。|Anh ấy lạnh run lẩy bẩy.
 a|堕落|sa đọa, sa ngã|他/不/愿意/看/着/朋友/堕落/。|Anh ấy không muốn nhìn bạn mình sa ngã.
 d|额外|thêm, ngoài định mức|这/个/月/我/有/一/笔/额外/的/收入/。|Tháng này tôi có một khoản thu nhập thêm.
-e|恶心|buồn nôn; ghê tởm|我/坐/车/的/时候/觉得/恶心/。|Khi đi xe tôi thấy buồn nôn.
+e|恶心=ěxin|buồn nôn; ghê tởm|我/坐/车/的/时候/觉得/恶心/。|Khi đi xe tôi thấy buồn nôn.
 a|恶化|xấu đi, trầm trọng thêm|他/的/病情/恶化/了/。|Bệnh tình của ông ấy đã xấu đi.
 a|遏制|kiềm chế, ngăn chặn|政府/努力/遏制/物价/上涨/。|Chính phủ nỗ lực kiềm chế giá cả tăng.
 t|恩怨|ân oán|他们/之间/有/很/深/的/恩怨/。|Giữa họ có ân oán rất sâu.

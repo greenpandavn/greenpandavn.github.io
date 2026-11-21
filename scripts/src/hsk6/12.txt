@@ -93,7 +93,7 @@ a|陷入|rơi vào, lâm vào|公司/陷入/了/困难/。|Công ty đã lâm v�
 l|馅儿|nhân (bánh)|这/个/饺子/是/什么/馅儿/的/？|Sủi cảo này nhân gì thế?
 t|线索|manh mối|警察/找到/了/新/的/线索/。|Cảnh sát đã tìm được manh mối mới.
 a|相差|chênh nhau, cách nhau|他们/的/年龄/相差/五/岁/。|Tuổi của họ chênh nhau năm tuổi.
-a|相等|bằng nhau|这/两/个/数/相等/。|Hai số này bằng nhau.
+a|相等|bằng nhau|这/两/个/数=shù/相等/。|Hai số này bằng nhau.
 a|相辅相成|bổ trợ lẫn nhau|学习/和/实践/相辅相成/。|Học và hành bổ trợ lẫn nhau.
 d|相应|tương ứng|我们/要/采取/相应/的/措施/。|Chúng ta phải áp dụng biện pháp tương ứng.
 a|镶嵌|khảm, nạm|戒指/上/镶嵌/着/一/颗/宝石/。|Trên chiếc nhẫn có nạm một viên đá quý.
@@ -122,7 +122,7 @@ a|协助|hỗ trợ, giúp đỡ|我/来/协助/你/完成/工作/。|Tôi đế
 w|写作|viết văn, sáng tác|他/的/爱好/是/写作/。|Sở thích của anh ấy là viết văn.
 l|屑|vụn, mảnh vụn|桌子/上/有/面包/屑/。|Trên bàn có vụn bánh mì.
 a|谢绝|từ chối khéo, khước từ|他/谢绝/了/我们/的/邀请/。|Anh ấy đã khước từ lời mời của chúng tôi.
-a|泄露|tiết lộ, rò rỉ|他/泄露/了/公司/的/秘密/。|Anh ta đã tiết lộ bí mật của công ty.
+a|泄露=xièlòu|tiết lộ, rò rỉ|他/泄露/了/公司/的/秘密/。|Anh ta đã tiết lộ bí mật của công ty.
 e|泄气|nản chí, xì hơi|失败/了/也/别/泄气/。|Thất bại cũng đừng nản chí.
 t|新陈代谢|trao đổi chất; đổi mới thay cũ|运动/可以/加快/新陈代谢/。|Vận động có thể đẩy nhanh quá trình trao đổi chất.
 p|新郎|chú rể|新郎/今天/很/帅/。|Hôm nay chú rể rất bảnh.
@@ -153,7 +153,7 @@ t|性命|tính mạng|医生/救/了/他/的/性命/。|Bác sĩ đã cứu tín
 t|性能|tính năng|这/辆/车/的/性能/很/好/。|Tính năng của chiếc xe này rất tốt.
 e|性情|tính tình|他/的/性情/很/温和/。|Tính tình anh ấy rất ôn hòa.
 g|幸好|may mà|幸好/你/提醒/了/我/。|May mà bạn đã nhắc tôi.
-e|兴高采烈|hân hoan phấn khởi|孩子/们/兴高采烈/地=de/去/公园/了/。|Bọn trẻ hân hoan phấn khởi đi công viên.
+e|兴高采烈=xìnggāocǎiliè|hân hoan phấn khởi|孩子/们/兴高采烈/地=de/去/公园/了/。|Bọn trẻ hân hoan phấn khởi đi công viên.
 e|兴致勃勃|hào hứng, đầy hứng thú|他/兴致勃勃/地=de/讲/着/旅行/的/事/。|Anh ấy hào hứng kể chuyện đi du lịch.
 e|胸怀|tấm lòng, lòng dạ|他/是/一/个/胸怀/很/宽/的/人/。|Ông ấy là người có tấm lòng rất rộng.
 l|胸膛|lồng ngực|他/挺/起/了/胸膛/。|Anh ấy ưỡn ngực lên.

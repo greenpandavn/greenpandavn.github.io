@@ -51,7 +51,7 @@ a|探测|thăm dò, dò tìm|科学家/在/探测/海/底/。|Các nhà khoa h�
 a|探索|tìm tòi, khám phá|人类/一直/在/探索/宇宙/。|Loài người luôn khám phá vũ trụ.
 a|探讨|thảo luận, bàn bạc tìm hiểu|我们/一起/探讨/这/个/问题/吧/。|Chúng ta cùng thảo luận vấn đề này nhé.
 a|探望|thăm, thăm viếng|他/去/医院/探望/朋友/。|Anh ấy đến bệnh viện thăm bạn.
-a|叹气|thở dài|他/叹/了/一/口/气/。|Anh ấy thở dài một tiếng.
+a|叹气|thở dài|他/一边/看/信/一边/叹气/。|Anh ấy vừa đọc thư vừa thở dài.
 l|糖葫芦|kẹo hồ lô|北京/的/糖葫芦/很/有名/。|Kẹo hồ lô Bắc Kinh rất nổi tiếng.
 g|倘若|nếu như, giả sử|倘若/明天/下雨/，/比赛/就/取消/。|Nếu ngày mai mưa thì trận đấu sẽ hủy.
 a|掏|móc ra, lấy ra|他/从/口袋/里/掏/出/手机/。|Anh ấy móc điện thoại từ trong túi ra.

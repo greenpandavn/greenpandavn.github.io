@@ -1,5 +1,5 @@
 e|留恋|lưu luyến|他/很/留恋/大学/的/生活/。|Anh ấy rất lưu luyến cuộc sống đại học.
-a|留念|lưu niệm, làm kỷ niệm|我们/一起/照/张/相/留念/吧/。|Chúng mình chụp chung một tấm ảnh làm kỷ niệm nhé.
+a|留念|lưu niệm, làm kỷ niệm|我们/一起/照/张/相=xiàng/留念/吧/。|Chúng mình chụp chung một tấm ảnh làm kỷ niệm nhé.
 a|留神|để ý, cẩn thận|过=guò/马路/要/留神/。|Qua đường phải để ý.
 a|流浪|lang thang, lưu lạc|街/上/有/一/只=zhī/流浪/狗/。|Trên phố có một con chó hoang.
 a|流露|bộc lộ, để lộ|他/的/眼睛/里/流露/出/失望/。|Trong mắt anh ấy lộ ra vẻ thất vọng.
@@ -119,7 +119,7 @@ t|内涵|nội hàm, chiều sâu|这/部/电影/很/有/内涵/。|Bộ phim n�
 t|内幕|nội tình, hậu trường|记者/知道/了/事情/的/内幕/。|Phóng viên đã biết được nội tình sự việc.
 d|内在|nội tại, bên trong|内在/的/美/更/重要/。|Vẻ đẹp bên trong quan trọng hơn.
 t|能量|năng lượng|食物/给/我们/能量/。|Thức ăn cho chúng ta năng lượng.
-g|嗯|ừ, ờ (thán từ)|嗯/，/我/知道/了/。|Ừ, tôi biết rồi.
+g|嗯=ǹg|ừ, ờ (thán từ)|嗯/，/我/知道/了/。|Ừ, tôi biết rồi.
 a|拟定|soạn thảo, vạch ra|我们/拟定/了/一/个/计划/。|Chúng tôi đã vạch ra một kế hoạch.
 g|年度|năm (tài chính, công tác)|这/是/公司/的/年度/报告/。|Đây là báo cáo thường niên của công ty.
 a|捏|nặn, bóp, véo|孩子/用/泥/捏/了/一/只=zhī/小/狗/。|Đứa trẻ dùng đất nặn một chú chó con.

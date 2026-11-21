@@ -26,7 +26,7 @@ describe('v3 content', () => {
   it('Chinese course has HSK 1–3 with tests per part', () => {
     data.setCourse('zh');
     const count = (lv: number) => data.LESSONS.filter((l) => data.unitLevel(l.unit) === lv).flatMap((l) => l.words).length;
-    expect([count(1), count(2), count(3), count(4), count(5)]).toEqual([181, 144, 287, 596, 1300]);
+    expect([count(1), count(2), count(3), count(4), count(5), count(6)]).toEqual([181, 144, 287, 596, 1300, 2500]);
     expect(data.UNITS.map((u) => u.unit).slice(0, 22)).toEqual([1, 2, 3, 21, 22, 23, 31, 32, 33, 34, 41, 42, 43, 44, 51, 52, 53, 54, 55, 56, 57, 58]);
     for (const w of data.ALL_WORDS) {
       expect(w.pinyin, w.hanzi).toBeTruthy();
@@ -211,16 +211,14 @@ describe('v4: Thi thử HSK', () => {
   it('papers follow the exam structure and score per section', async () => {
     const mock = await import('./mock');
     const sizes = mock.mockSpecs().map((s) => [s.level, mock.questionCount(s), s.minutes, mock.maxScore(s), s.pass]);
-    expect(sizes.slice(0, 5)).toEqual([
+    expect(sizes).toEqual([
       [1, 40, 40, 200, 120],
       [2, 60, 55, 200, 120],
       [3, 80, 90, 300, 180],
       [4, 100, 105, 300, 180],
       [5, 100, 125, 300, 180],
+      [6, 101, 140, 300, 180],
     ]);
-    // HSK 6 follows the real paper (101 questions, 140 minutes) once the level has content
-    const six = mock.MOCK_SPECS.find((s) => s.id === '6')!;
-    expect([mock.questionCount(six), six.minutes, mock.maxScore(six)]).toEqual([101, 140, 300]);
     for (const spec of mock.mockSpecs()) {
       const qs = mock.buildMock(spec);
       expect(qs.length).toBe(mock.questionCount(spec));

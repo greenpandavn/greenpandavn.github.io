@@ -91,7 +91,7 @@ t|潜力|tiềm lực, tiềm năng|这/个/年轻/人/很/有/潜力/。|Chàng
 a|潜水|lặn|他/喜欢/在/海/里/潜水/。|Anh ấy thích lặn dưới biển.
 a|潜移默化|ngấm ngầm thay đổi, mưa dầm thấm lâu|父母/的/行为/潜移默化/地=de/影响/着/孩子/。|Hành vi của cha mẹ ảnh hưởng đến con cái theo kiểu mưa dầm thấm lâu.
 a|谴责|lên án, khiển trách|大家/都/谴责/这/种/行为/。|Mọi người đều lên án hành vi này.
-a|强制|cưỡng chế|法院/强制/他/还/钱/。|Tòa án cưỡng chế anh ta trả tiền.
+a|强制|cưỡng chế|法院/强制/他/还=huán/钱/。|Tòa án cưỡng chế anh ta trả tiền.
 a|抢劫|cướp|昨天/有/人/抢劫/了/一/家/商店/。|Hôm qua có người đã cướp một cửa hàng.
 a|抢救|cấp cứu, cứu chữa khẩn cấp|医生/正在/抢救/病人/。|Bác sĩ đang cấp cứu bệnh nhân.
 a|强迫|ép buộc, cưỡng bách|不/要/强迫/孩子/学/钢琴/。|Đừng ép buộc con học đàn piano.

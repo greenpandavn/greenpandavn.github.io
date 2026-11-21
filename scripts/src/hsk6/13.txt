@@ -156,7 +156,7 @@ d|优异|xuất sắc, ưu tú|他/以/优异/的/成绩/毕业/。|Anh ấy t�
 d|优越|ưu việt, hơn hẳn|这里/的/条件/很/优越/。|Điều kiện ở đây rất ưu việt.
 e|忧郁|u uất, buồn rầu|她/的/眼神/很/忧郁/。|Ánh mắt cô ấy rất u buồn.
 d|油腻|béo ngậy, nhiều dầu mỡ|这/个/菜/太/油腻/了/。|Món này nhiều dầu mỡ quá.
-l|油漆|sơn; quét sơn|门/上/的/油漆/还/没/干/。|Sơn trên cửa vẫn chưa khô.
+l|油漆|sơn; quét sơn|门/上/的/油漆/还/没/干=gān/。|Sơn trên cửa vẫn chưa khô.
 g|犹如|giống như, tựa như|她/的/笑容/犹如/阳光/。|Nụ cười của cô ấy tựa như ánh nắng.
 d|有条不紊|ngăn nắp, có trật tự|他/做/事/有条不紊/。|Anh ấy làm việc ngăn nắp có trật tự.
 e|幼稚|ấu trĩ, non nớt|这/种/想法/太/幼稚/了/。|Suy nghĩ này ấu trĩ quá.
