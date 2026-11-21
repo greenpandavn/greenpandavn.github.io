@@ -64,7 +64,7 @@ async function kickNetwork() {
   }
 }
 const kickIfStuck = () => {
-  if (pendingSince && Date.now() - pendingSince > 8000) void kickNetwork();
+  if (pendingSince && Date.now() - pendingSince > 3000) void kickNetwork();
 };
 
 const migratedUids = (): string[] => {
@@ -102,7 +102,7 @@ async function upload(u: User, p: Progress) {
   if (wxp > 0) writes.push(setDoc(doc(db, 'weeks', weekId(), 'entries', u.uid), { displayName, xp: Math.round(wxp), updatedAt: now }));
   if (!pendingSince) pendingSince = now;
   // Writes stay queued while the stream is down; if nothing is acknowledged for a while, restart the network.
-  const watchdog = setInterval(kickIfStuck, 10000);
+  const watchdog = setInterval(kickIfStuck, 6000);
   try {
     await Promise.all(writes);
     if (lastWritten === now) {
@@ -201,6 +201,8 @@ export function initCloud() {
     if (!u) return;
     void kickNetwork();
     void upload(u, getProgress());
+    // the first reconnect attempt often races the network coming up – retry shortly after
+    setTimeout(kickIfStuck, 4000);
   });
   document.addEventListener('visibilitychange', () => {
     if (document.visibilityState === 'visible' && auth.currentUser) kickIfStuck();
