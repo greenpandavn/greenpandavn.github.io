@@ -67,5 +67,118 @@ service cloud.firestore {
       allow read: if true;
       allow write: if isAdmin();
     }
+
+    // ---------- v4: friends + 1-to-1 chat (text and emoji only) ----------
+    function me() { return request.auth.uid; }
+    function path(col, id) { return /databases/$(database)/documents/$(col)/$(id); }
+    function isFriendPair(pairId) { return exists(path('friendships', pairId)); }
+    function pairOf(a, b) { return a < b ? a + '_' + b : b + '_' + a; }
+    function blockedBy(by, target) { return exists(path('blocks', by + '_' + target)); }
+    // users: [a, b] sorted, document id "a_b", and the caller is one of the two
+    function validPair(pairId, users) {
+      return users is list && users.size() == 2 && users[0] is string && users[1] is string
+        && users[0] < users[1] && pairId == users[0] + '_' + users[1] && me() in users;
+    }
+    function otherOf(users) { return users[0] == me() ? users[1] : users[0]; }
+    function validText(t) { return t is string && t.size() > 0 && t.size() <= 1000; }
+    function isReported(chatId, msgId) { return exists(path('reports', chatId + '_' + msgId)); }
+
+    // Public name used to find people. Only the owner writes it; any signed-in user can read it.
+    match /profiles/{userId} {
+      allow read: if signedIn();
+      allow create, update: if isOwner(userId) && notLocked(userId)
+        && request.resource.data.keys().hasOnly(['displayName', 'nameLower', 'updatedAt'])
+        && nameAllowed(userId, request.resource.data.displayName)
+        && request.resource.data.nameLower == request.resource.data.displayName.lower();
+      allow delete: if isOwner(userId) || isAdmin();
+    }
+
+    // Pending friend request, id "<from>_<to>". Visible to the two people only.
+    match /friendRequests/{id} {
+      allow read: if signedIn() && (resource.data.from == me() || resource.data.to == me());
+      allow create: if signedIn() && notLocked(me())
+        && request.resource.data.keys().hasOnly(['from', 'to', 'fromName', 'toName', 'createdAt'])
+        && request.resource.data.from == me()
+        && request.resource.data.to is string && request.resource.data.to != me()
+        && id == me() + '_' + request.resource.data.to
+        && validName(request.resource.data.fromName) && validName(request.resource.data.toName)
+        && request.resource.data.createdAt is int
+        && exists(path('profiles', request.resource.data.to))
+        && !blockedBy(request.resource.data.to, me()) && !blockedBy(me(), request.resource.data.to)
+        && !isFriendPair(pairOf(me(), request.resource.data.to));
+      // the receiver declines, the sender cancels
+      allow delete: if signedIn() && (resource.data.from == me() || resource.data.to == me());
+    }
+
+    // A friendship exists only after the receiver accepted a request. Either friend can end it.
+    match /friendships/{pairId} {
+      allow read: if signedIn() && me() in resource.data.users;
+      allow create: if signedIn() && notLocked(me())
+        && request.resource.data.keys().hasOnly(['users', 'names', 'createdAt'])
+        && validPair(pairId, request.resource.data.users)
+        && request.resource.data.names is map && request.resource.data.createdAt is int
+        && exists(path('friendRequests', otherOf(request.resource.data.users) + '_' + me()))
+        && !blockedBy(me(), otherOf(request.resource.data.users));
+      allow delete: if signedIn() && me() in resource.data.users;
+    }
+
+    // Block list, id "<by>_<target>". Only the blocker sees and manages it.
+    match /blocks/{id} {
+      allow read: if signedIn() && resource.data.by == me();
+      allow create: if signedIn()
+        && request.resource.data.keys().hasOnly(['by', 'target', 'targetName', 'createdAt'])
+        && request.resource.data.by == me()
+        && request.resource.data.target is string && request.resource.data.target != me()
+        && id == me() + '_' + request.resource.data.target;
+      allow delete: if signedIn() && resource.data.by == me();
+    }
+
+    // Chat between two friends: ONLY the two participants can read or write it.
+    match /chats/{pairId} {
+      allow read: if signedIn() && me() in resource.data.users;
+      allow create: if signedIn() && notLocked(me())
+        && request.resource.data.keys().hasOnly(['users', 'lastText', 'lastAt', 'lastFrom', 'unread'])
+        && validPair(pairId, request.resource.data.users)
+        && isFriendPair(pairId);
+      allow update: if signedIn() && notLocked(me()) && me() in resource.data.users
+        && request.resource.data.keys().hasOnly(['users', 'lastText', 'lastAt', 'lastFrom', 'unread'])
+        && request.resource.data.users == resource.data.users;
+
+      match /messages/{msgId} {
+        // participants; an admin can read a message only once it has been reported
+        allow read: if signedIn()
+          && (me() in get(path('chats', pairId)).data.users || (isAdmin() && isReported(pairId, msgId)));
+        // strangers cannot message: the two must be friends right now
+        allow create: if signedIn() && notLocked(me())
+          && request.resource.data.keys().hasOnly(['from', 'text', 'at'])
+          && request.resource.data.from == me()
+          && validText(request.resource.data.text) && request.resource.data.at is int
+          && isFriendPair(pairId) && me() in get(path('friendships', pairId)).data.users;
+        // moderation: an admin can hide (blank) a reported message, nothing else
+        allow update: if isAdmin() && isReported(pairId, msgId)
+          && request.resource.data.diff(resource.data).affectedKeys().hasOnly(['hidden', 'text'])
+          && request.resource.data.hidden == true && request.resource.data.text == '';
+        // only the sender can delete their own message
+        allow delete: if signedIn() && resource.data.from == me();
+      }
+    }
+
+    // Copy of a reported message for the admin page, id "<chatId>_<msgId>".
+    match /reports/{id} {
+      allow read, delete: if isAdmin();
+      allow create: if signedIn() && notLocked(me())
+        && request.resource.data.keys().hasOnly(['chatId', 'msgId', 'from', 'fromName', 'text', 'at', 'reporter', 'reporterName', 'reason', 'createdAt', 'status'])
+        && request.resource.data.reporter == me()
+        && id == request.resource.data.chatId + '_' + request.resource.data.msgId
+        && me() in get(path('chats', request.resource.data.chatId)).data.users
+        // the copy must match the real message, and you cannot report yourself
+        && get(/databases/$(database)/documents/chats/$(request.resource.data.chatId)/messages/$(request.resource.data.msgId)).data.from == request.resource.data.from
+        && get(/databases/$(database)/documents/chats/$(request.resource.data.chatId)/messages/$(request.resource.data.msgId)).data.text == request.resource.data.text
+        && request.resource.data.from != me()
+        && request.resource.data.status == 'open'
+        && request.resource.data.reason is string && request.resource.data.reason.size() <= 200;
+      allow update: if isAdmin()
+        && request.resource.data.diff(resource.data).affectedKeys().hasOnly(['status', 'resolvedAt', 'resolvedBy']);
+    }
   }
 }

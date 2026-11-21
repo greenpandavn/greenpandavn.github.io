@@ -15,11 +15,14 @@ import { dueCount } from './lib/srs';
 import { useAccount } from './lib/account';
 import { courseChosen, isEnglish, setCourse, useContentVersion } from './data';
 import CoursePicker from './components/CoursePicker';
+import MockScreen from './screens/MockScreen';
+import FriendsScreen from './screens/FriendsScreen';
+import { socialBadge, useSocial } from './lib/socialState';
 import LevelPicker from './components/LevelPicker';
 
 const AdminScreen = lazy(() => import('./admin/AdminScreen'));
 
-const TABS: Tab[] = ['learn', 'review', 'words', 'rank', 'profile'];
+const TABS: Tab[] = ['learn', 'review', 'words', 'friends', 'rank', 'profile'];
 const tabFromHash = (): Tab => {
   const h = window.location.hash.replace('#/', '') as Tab;
   return TABS.includes(h) ? h : 'learn';
@@ -30,6 +33,7 @@ export default function App() {
   const prevTab = useRef<Tab>('profile');
   const [authOpen, setAuthOpen] = useState(() => window.location.hash === '#/auth');
   const [adminOpen, setAdminOpen] = useState(() => window.location.hash === '#/admin');
+  const [mockOpen, setMockOpen] = useState(() => window.location.hash === '#/mock');
   const acc = useAccount();
   useContentVersion();
   const [session, setSession] = useState<SessionMode | null>(null);
@@ -38,6 +42,8 @@ export default function App() {
     if (adminOpen && acc.role === 'admin' && isEnglish()) setCourse('zh');
   }, [adminOpen, acc.role]);
   const p = useProgress();
+  const social = useSocial();
+  const [chatOpen, setChatOpen] = useState(false);
 
   const [ttsError, setTtsError] = useState(false);
   useEffect(() => {
@@ -61,6 +67,7 @@ export default function App() {
       setTab(tabFromHash());
       setAuthOpen(window.location.hash === '#/auth');
       setAdminOpen(window.location.hash === '#/admin');
+      setMockOpen(window.location.hash === '#/mock');
     };
     window.addEventListener('hashchange', onHash);
     return () => window.removeEventListener('hashchange', onHash);
@@ -69,6 +76,7 @@ export default function App() {
   const changeTab = (t: Tab) => {
     window.location.hash = `/${t}`;
     setTab(t);
+    setMockOpen(false);
     window.scrollTo(0, 0);
   };
 
@@ -103,6 +111,15 @@ export default function App() {
       <Suspense fallback={<p className="p-6 text-center font-bold text-ink-400">Đang tải trang quản trị…</p>}>
         <AdminScreen onClose={() => changeTab('profile')} />
       </Suspense>
+    );
+
+  // 'Thi thử HSK' is a standalone, optional section (no gate, guests included).
+  if (mockOpen && !session)
+    return (
+      <>
+        {toast}
+        <MockScreen onClose={() => changeTab('learn')} />
+      </>
     );
 
   // First launch: pick a course. Learners from before v3 already study Chinese and are not asked.
@@ -144,14 +161,23 @@ export default function App() {
       <TopBar />
       <AppBanners onLearn={() => changeTab('learn')} />
       {tab === 'learn' && (
-        <PathScreen onStart={(id) => setSession({ type: 'lesson', lessonId: id })} onTest={(unit) => setSession({ type: 'test', unit })} />
+        <PathScreen
+          onStart={(id) => setSession({ type: 'lesson', lessonId: id })}
+          onTest={(unit) => setSession({ type: 'test', unit })}
+          onMock={() => {
+            window.location.hash = '/mock';
+            setMockOpen(true);
+            window.scrollTo(0, 0);
+          }}
+        />
       )}
       {tab === 'review' && <ReviewScreen onStart={() => setSession({ type: 'review' })} />}
       {tab === 'words' && <WordsScreen />}
+      {tab === 'friends' && <FriendsScreen onLogin={openAuth} onChat={setChatOpen} />}
       {tab === 'rank' && <LeaderboardScreen onLogin={openAuth} />}
       {tab === 'profile' && <ProfileScreen onLogin={openAuth} onAdmin={openAdmin} />}
-      <Footer className="pb-24" />
-      <BottomNav tab={tab} onChange={changeTab} badge={Math.min(dueCount(p), 10)} />
+      {!(tab === 'friends' && chatOpen) && <Footer className="pb-24" />}
+      {!(tab === 'friends' && chatOpen) && <BottomNav tab={tab} onChange={changeTab} badge={Math.min(dueCount(p), 10)} friendsBadge={acc.user ? socialBadge(social) : 0} />}
     </div>
   );
 }

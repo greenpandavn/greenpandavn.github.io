@@ -1,6 +1,6 @@
 import { initializeApp } from 'firebase/app';
-import { getAuth } from 'firebase/auth';
-import { initializeFirestore, memoryLocalCache, terminate, type Firestore } from 'firebase/firestore';
+import { connectAuthEmulator, getAuth } from 'firebase/auth';
+import { connectFirestoreEmulator, initializeFirestore, memoryLocalCache, terminate, type Firestore } from 'firebase/firestore';
 
 import { firebaseConfig, firebaseConfigured } from './firebaseConfig';
 
@@ -8,6 +8,9 @@ if (!firebaseConfigured) throw Object.assign(new Error('Firebase is not configur
 
 export const app = initializeApp(firebaseConfig);
 export const auth = getAuth(app);
+/** Local testing only: `VITE_FIREBASE_EMULATOR=1` points the app at the Firebase Emulator Suite (auth :9099, firestore :8080). */
+const useEmulator = import.meta.env.VITE_FIREBASE_EMULATOR === '1';
+if (useEmulator) connectAuthEmulator(auth, 'http://127.0.0.1:9099', { disableWarnings: true });
 
 /*
  * Memory cache + long polling: robust behind proxies/VPNs and with several tabs open (no IndexedDB lease).
@@ -15,7 +18,9 @@ export const auth = getAuth(app);
  * when the connection returns or on the next login (see cloud.ts), so nothing queued offline is lost.
  */
 function makeDb(): Firestore {
-  return initializeFirestore(app, { localCache: memoryLocalCache(), experimentalForceLongPolling: true });
+  const d = initializeFirestore(app, { localCache: memoryLocalCache(), experimentalForceLongPolling: true });
+  if (useEmulator) connectFirestoreEmulator(d, '127.0.0.1', 8080);
+  return d;
 }
 export let db = makeDb();
 

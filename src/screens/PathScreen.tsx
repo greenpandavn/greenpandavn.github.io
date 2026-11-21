@@ -28,7 +28,7 @@ const NODE_GLYPH: Record<string, string> = {
   bonusfood: '饺', bonusbody: '手',
 };
 
-export default function PathScreen({ onStart, onTest }: { onStart: (lessonId: string) => void; onTest: (unit: number) => void }) {
+export default function PathScreen({ onStart, onTest, onMock }: { onStart: (lessonId: string) => void; onTest: (unit: number) => void; onMock: () => void }) {
   const p = useProgress();
   const course = useContentVersion();
   const en = isEnglish();
@@ -67,6 +67,20 @@ export default function PathScreen({ onStart, onTest }: { onStart: (lessonId: st
         </div>
       </div>
 
+      {!en && (
+        <button type="button" className="card mb-4 flex w-full items-center gap-3 text-left" onClick={onMock} data-testid="open-mock">
+          <span className="flex h-11 w-11 shrink-0 items-center justify-center rounded-xl bg-sun-100 text-sun-600">
+            <Trophy size={26} />
+          </span>
+          <span className="min-w-0 flex-1">
+            <span className="block font-black text-ink-700">Thi thử HSK</span>
+            <span className="block text-xs font-bold text-ink-400">Đề dài, tính giờ như thi thật · không bắt buộc</span>
+          </span>
+          <span className="text-xl font-black text-ink-300" aria-hidden>
+            ›
+          </span>
+        </button>
+      )}
       {levels.length > 1 && (
         <div className="mb-5 flex flex-wrap items-center gap-2" data-testid="level-nav">
           <span className="text-xs font-extrabold uppercase text-ink-400">Cấp độ:</span>

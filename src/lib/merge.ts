@@ -17,6 +17,7 @@ function mergeStats(a: Progress['lessonStats'] = {}, b: Progress['lessonStats'] 
 
 export function hasProgress(p: Progress | null | undefined): boolean {
   if (p?.en && hasProgress(courseView(p, 'en'))) return true;
+  if (p?.mock && Object.keys(p.mock).length) return true;
   return !!p && (p.xp > 0 || Object.keys(p.lessons).length > 0 || Object.keys(p.words).length > 0 || p.certificates.length > 0);
 }
 
@@ -32,7 +33,12 @@ export function mergeProgress(primary: Progress, other: Progress): Progress {
     primary.en && other.en
       ? coursePart(mergeFlat(courseView(primary, 'en'), courseView(other, 'en')))
       : (primary.en ?? other.en);
-  return { ...merged, gems: Math.max(primary.gems, other.gems), en };
+  const mock: NonNullable<Progress['mock']> = { ...other.mock };
+  for (const [lv, a] of Object.entries(primary.mock ?? {})) {
+    const b = mock[lv];
+    mock[lv] = !b ? a : { ...(a.best >= b.best ? a : b), attempts: Math.max(a.attempts, b.attempts) };
+  }
+  return { ...merged, gems: Math.max(primary.gems, other.gems), en, mock: Object.keys(mock).length ? mock : undefined };
 }
 
 function mergeFlat(primary: Progress, other: Progress): Progress {

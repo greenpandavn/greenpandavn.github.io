@@ -81,7 +81,7 @@ export function courseView(stored: Progress, course: CourseId): Progress {
 /** Write a course view back into the stored form (Chinese at the top level, English under `en`). */
 function foldView(stored: Progress, view: Progress, course: CourseId): Progress {
   if (course === 'zh') return { ...view, en: stored.en };
-  const out: Progress = { ...stored, gems: view.gems, settings: { ...view.settings, level: stored.settings.level }, en: coursePart(view) };
+  const out: Progress = { ...stored, gems: view.gems, mock: view.mock, settings: { ...view.settings, level: stored.settings.level }, en: coursePart(view) };
   return out;
 }
 
@@ -131,6 +131,7 @@ export function sanitize(raw: unknown): Progress {
     certificates: Array.isArray(r.certificates) ? r.certificates : [],
     tests: Array.isArray(r.tests) ? r.tests : [],
     en: sanitizeCourse(r.en),
+    mock: r.mock && typeof r.mock === 'object' ? r.mock : undefined,
     version: 1,
   } as Progress;
 }
@@ -309,6 +310,28 @@ export function importProgress(text: string) {
 
 export function resetProgress() {
   set(defaultProgress());
+}
+
+/** Save a 'Thi thử HSK' attempt; keeps the best score per level. Works for guests and syncs like the rest. */
+export function recordMock(level: number, score: number, max: number, passed: boolean) {
+  updateProgress((p) => {
+    const prev = p.mock?.[level];
+    const better = !prev || score > prev.best;
+    return {
+      ...p,
+      mock: {
+        ...p.mock,
+        [level]: {
+          best: better ? score : prev.best,
+          max,
+          passed: better ? passed : prev.passed,
+          attempts: (prev?.attempts ?? 0) + 1,
+          last: score,
+          date: better ? dateKey() : prev.date,
+        },
+      },
+    };
+  });
 }
 
 export const TEST_PASS = 0.8;

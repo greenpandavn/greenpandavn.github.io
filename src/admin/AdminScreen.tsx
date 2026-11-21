@@ -11,12 +11,13 @@ import { Chevron } from '../components/Icons';
 import LessonEditor from './LessonEditor';
 import type { Certificate } from '../types';
 
-type Tab = 'stats' | 'users' | 'content' | 'certs';
+type Tab = 'stats' | 'users' | 'content' | 'certs' | 'reports';
 const TABS: [Tab, string][] = [
   ['stats', 'Thống kê'],
   ['users', 'Người dùng'],
   ['content', 'Nội dung'],
   ['certs', 'Chứng chỉ'],
+  ['reports', 'Báo cáo'],
 ];
 const fmtDate = (t: number) => (t ? new Date(t).toLocaleDateString('vi-VN') : '—');
 
@@ -24,6 +25,8 @@ export default function AdminScreen({ onClose }: { onClose: () => void }) {
   const acc = useAccount();
   const [tab, setTab] = useState<Tab>('stats');
   const [users, setUsers] = useState<api.AdminUser[] | null>(null);
+  const [reports, setReports] = useState<api.Report[] | null>(null);
+  const [reportsError, setReportsError] = useState('');
   const [error, setError] = useState('');
   const [busy, setBusy] = useState('');
   const [q, setQ] = useState('');
@@ -31,14 +34,22 @@ export default function AdminScreen({ onClose }: { onClose: () => void }) {
   const [editing, setEditing] = useState<string | null>(null); // lesson id or 'new'
   useContentVersion();
 
-  const reload = () =>
+  const reload = () => {
     api
+      .listReports()
+      .then((r) => {
+        setReports(r);
+        setReportsError('');
+      })
+      .catch((e) => setReportsError(`Không tải được danh sách báo cáo (${(e as { code?: string }).code ?? 'lỗi'}). Hãy publish firestore.rules bản v4.`));
+    return api
       .listUsers()
       .then((u) => {
         setUsers(u.sort((a, b) => (b.progress?.xp ?? 0) - (a.progress?.xp ?? 0)));
         setError('');
       })
       .catch((e) => setError(`Không tải được dữ liệu quản trị (${(e as { code?: string }).code ?? 'lỗi'}). Hãy kiểm tra firestore.rules đã được publish.`));
+  };
   useEffect(() => {
     if (acc.role === 'admin') void reload();
   }, [acc.role]);
@@ -87,10 +98,11 @@ export default function AdminScreen({ onClose }: { onClose: () => void }) {
       </button>
       <h1 className="text-2xl font-black">Quản trị</h1>
       <p className="mb-3 text-sm font-bold text-ink-400">Đăng nhập với quyền admin: {acc.user?.email}</p>
-      <div className="mb-4 grid grid-cols-4 gap-1.5">
+      <div className="mb-4 grid grid-cols-5 gap-1">
         {TABS.map(([id, label]) => (
-          <button key={id} type="button" className={`chip !px-1 !text-xs ${tab === id ? 'chip-active' : ''}`} onClick={() => setTab(id)} data-testid={`admin-tab-${id}`}>
+          <button key={id} type="button" className={`chip !px-0.5 !text-[11px] ${tab === id ? 'chip-active' : ''}`} onClick={() => setTab(id)} data-testid={`admin-tab-${id}`}>
             {label}
+            {id === 'reports' && !!reports?.filter((r) => r.status === 'open').length && ` (${reports.filter((r) => r.status === 'open').length})`}
           </button>
         ))}
       </div>
@@ -276,6 +288,62 @@ export default function AdminScreen({ onClose }: { onClose: () => void }) {
           )}
           {users.every((u) => !u.progress?.certificates.length) && <p className="font-bold text-ink-400">Chưa có chứng chỉ nào được cấp.</p>}
           <p className="text-xs font-bold text-ink-400">Chứng chỉ bị thu hồi sẽ biến mất khỏi hồ sơ của học viên ở lần đồng bộ tiếp theo.</p>
+        </div>
+      )}
+      {tab === 'reports' && (
+        <div className="flex flex-col gap-2" data-testid="admin-reports">
+          {reportsError && <p className="rounded-xl bg-coral-100 p-3 text-sm font-bold text-coral-600">{reportsError}</p>}
+          {reports?.length === 0 && <p className="font-bold text-ink-400">Chưa có tin nhắn nào bị báo cáo.</p>}
+          {reports?.map((r) => {
+            const sender = users?.find((u) => u.uid === r.from);
+            return (
+              <div key={r.id} className="card flex flex-col gap-2 !p-3" data-testid="admin-report" data-status={r.status}>
+                <div className="flex items-center justify-between gap-2 text-xs font-extrabold">
+                  <span className="text-ink-400">{new Date(r.createdAt).toLocaleString('vi-VN')}</span>
+                  <span className={r.status === 'open' ? 'text-coral-500' : 'text-ink-400'}>
+                    {r.status === 'open' ? 'Chờ xử lý' : r.status === 'hidden' ? 'Đã ẩn tin nhắn' : 'Đã bỏ qua'}
+                  </span>
+                </div>
+                <p className="whitespace-pre-wrap break-words rounded-xl bg-mist px-3 py-2 font-semibold text-ink-700" data-testid="report-text">
+                  {r.text}
+                </p>
+                <p className="text-xs font-bold text-ink-500">
+                  Người gửi: <b>{sender?.displayName ?? r.fromName}</b> {sender?.email && `(${sender.email})`}{' '}
+                  {sender?.locked && <span className="rounded bg-coral-500 px-1.5 text-white">đã khóa</span>}
+                  <br />
+                  Người báo cáo: <b>{r.reporterName}</b>
+                  {r.reason && ` · Lý do: ${r.reason}`}
+                </p>
+                <div className="flex flex-wrap gap-1.5">
+                  {r.status !== 'hidden' && (
+                    <button type="button" className="chip !py-1 !text-xs !text-coral-500" onClick={() => act('ẩn tin nhắn', () => api.hideReported(r, acc.user?.uid ?? ''))} data-testid="report-hide">
+                      Ẩn tin nhắn
+                    </button>
+                  )}
+                  {r.status === 'open' && (
+                    <button type="button" className="chip !py-1 !text-xs" onClick={() => act('bỏ qua báo cáo', () => api.dismissReport(r, acc.user?.uid ?? ''))} data-testid="report-dismiss">
+                      Bỏ qua
+                    </button>
+                  )}
+                  <button
+                    type="button"
+                    className="chip !py-1 !text-xs"
+                    disabled={r.from === acc.user?.uid}
+                    onClick={() => act('khóa/mở khóa', () => api.setLocked(r.from, !sender?.locked))}
+                    data-testid="report-lock"
+                  >
+                    {sender?.locked ? 'Mở khóa tài khoản' : 'Khóa tài khoản người gửi'}
+                  </button>
+                  {r.status !== 'open' && (
+                    <button type="button" className="chip !py-1 !text-xs" onClick={() => act('xóa báo cáo', () => api.deleteReport(r))}>
+                      Xóa báo cáo
+                    </button>
+                  )}
+                </div>
+              </div>
+            );
+          })}
+          <p className="text-xs font-bold text-ink-400">Ẩn tin nhắn sẽ xóa nội dung khỏi cuộc trò chuyện của hai người; bản sao vẫn được giữ ở đây để đối chiếu.</p>
         </div>
       )}
       {cert && <CertificateView cert={cert} onClose={() => setCert(null)} />}

@@ -150,3 +150,11 @@ export const Trophy = ({ size, ...p }: P) => (
     <path d="M10 14h4v3h-4zM8 20h8" stroke="currentColor" strokeWidth="2.4" strokeLinecap="round" />
   </svg>
 );
+export const Friends = ({ size, ...p }: P) => (
+  <svg {...base(size, p)}>
+    <circle cx="9" cy="8" r="4" fill="currentColor" />
+    <path d="M1.5 20.5a7.5 7.5 0 0 1 15 0h-15Z" fill="currentColor" />
+    <circle cx="17.5" cy="9" r="3" fill="currentColor" opacity=".6" />
+    <path d="M18 14.2c2.6.5 4.5 2.9 4.5 6.3h-4.2a9.4 9.4 0 0 0-2.4-5.9c.7-.3 1.4-.4 2.1-.4Z" fill="currentColor" opacity=".6" />
+  </svg>
+);

@@ -99,8 +99,19 @@ export interface Progress {
   tests: TestResult[];
   lessonStats: Record<string, { fails: number }>; // failed attempts (hearts ran out) per lesson
   settings: Settings;
+  /** 'Thi thử HSK' results, keyed by HSK level. */
+  mock?: Record<string, MockResult>;
   /** English-course progress. The top-level fields above always hold the Chinese course when stored. */
   en?: CourseProgress;
+}
+
+export interface MockResult {
+  best: number; // best total score
+  max: number; // 200 or 300
+  passed: boolean; // the best attempt reached the pass mark
+  attempts: number;
+  last: number; // score of the latest attempt
+  date: string; // yyyy-mm-dd of the best attempt
 }
 
 /** The part of the progress that is tracked separately for each course. */

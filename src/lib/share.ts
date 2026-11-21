@@ -1,5 +1,5 @@
 import { isEnglish } from '../data';
-export const APP_URL = 'https://hoc-tieng-trung-roan.vercel.app/';
+export const APP_URL = 'https://greenpandavn.github.io/';
 export const APP_NAME = 'Học Ngoại Ngữ – Gấu Trúc Xanh';
 
 const lang = () => (isEnglish() ? 'tiếng Anh' : 'tiếng Trung');

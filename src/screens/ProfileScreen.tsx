@@ -195,6 +195,23 @@ export default function ProfileScreen({ onLogin, onAdmin }: { onLogin: () => voi
           Bài học, chuỗi ngày, huy hiệu và chứng chỉ được tính riêng cho từng khóa. Đá quý, tài khoản và bảng xếp hạng (tổng XP của cả hai khóa) dùng chung.
         </p>
       </div>
+      {p.mock && Object.keys(p.mock).length > 0 && (
+        <div className="card mb-5" data-testid="mock-results">
+          <h2 className="mb-2 font-black">Thi thử HSK – điểm cao nhất</h2>
+          <div className="flex flex-col gap-1">
+            {Object.entries(p.mock)
+              .sort(([a], [b]) => Number(a) - Number(b))
+              .map(([lv, r]) => (
+                <div key={lv} className="flex items-center justify-between text-sm font-bold" data-testid={`profile-mock-${lv}`}>
+                  <span className="font-extrabold text-ink-700">HSK {lv}</span>
+                  <span className={r.passed ? 'text-leaf-600' : 'text-ink-500'}>
+                    {r.best}/{r.max} · {r.passed ? 'Đạt' : 'Chưa đạt'} · {r.attempts} lần thi
+                  </span>
+                </div>
+              ))}
+          </div>
+        </div>
+      )}
       <div className="mb-4 flex flex-wrap justify-center gap-2">
         {streak > 0 && <ShareButton text={shareText.streak(streak)} label={`Chia sẻ chuỗi ${streak} ngày`} />}
         {p.xp > 0 && <ShareButton text={shareText.xp(p.xp)} label={`Chia sẻ ${p.xp} XP`} />}

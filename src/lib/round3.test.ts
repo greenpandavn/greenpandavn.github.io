@@ -132,3 +132,58 @@ describe('per-course progress', () => {
     data.setCourse('zh');
   });
 });
+
+describe('v4: Thi thử HSK', () => {
+  it('papers follow the exam structure and score per section', async () => {
+    const mock = await import('./mock');
+    const sizes = mock.mockSpecs().map((s) => [s.level, mock.questionCount(s), s.minutes, mock.maxScore(s), s.pass]);
+    expect(sizes).toEqual([
+      [1, 40, 40, 200, 120],
+      [2, 60, 55, 200, 120],
+      [3, 80, 90, 300, 180],
+    ]);
+    for (const spec of mock.mockSpecs()) {
+      const qs = mock.buildMock(spec);
+      expect(qs.length).toBe(mock.questionCount(spec));
+      for (const q of qs) {
+        expect(q.explain.length, `${spec.level}#${q.n}`).toBeGreaterThan(10);
+        if (q.kind === 'choice') {
+          expect(q.answer, `${spec.level}#${q.n}`).toBeGreaterThanOrEqual(0);
+          expect(new Set(q.options).size, `${spec.level}#${q.n} ${q.options}`).toBe(q.options.length);
+          expect(q.options[q.answer]).toBe(q.solution);
+        }
+      }
+      const right = qs.map((q) => (q.kind === 'choice' ? q.answer : (q.solution.match(/[^，。？！、]+/g) ?? [])));
+      const all = mock.scoreMock(spec, qs, right as never);
+      expect(all.score).toBe(mock.maxScore(spec));
+      expect(all.passed).toBe(true);
+      const none = mock.scoreMock(spec, qs, qs.map(() => undefined));
+      expect(none.score).toBe(0);
+      expect(none.passed).toBe(false);
+    }
+  });
+  it('best score per level is kept, merged and survives course switches', () => {
+    store.resetProgress();
+    data.setCourse('zh');
+    store.recordMock(1, 150, 200, true);
+    store.recordMock(1, 90, 200, false);
+    expect(store.getProgress().mock?.['1']).toMatchObject({ best: 150, passed: true, attempts: 2, last: 90 });
+    data.setCourse('en');
+    store.recordMock(2, 100, 200, false);
+    data.setCourse('zh');
+    expect(Object.keys(store.getStored().mock ?? {})).toEqual(['1', '2']);
+    const other = store.defaultProgress();
+    other.mock = { '1': { best: 180, max: 200, passed: true, attempts: 1, last: 180, date: '2026-01-01' } };
+    const m = merge.mergeProgress(store.getStored(), other);
+    expect(m.mock?.['1']).toMatchObject({ best: 180, attempts: 2 });
+    expect(m.mock?.['2'].best).toBe(100);
+    expect(store.sanitize(JSON.parse(JSON.stringify(m))).mock?.['1'].best).toBe(180);
+  });
+  it('chat text is cleaned and capped', async () => {
+    const s = await import('./socialState');
+    expect(s.cleanMessage('  xin chào 🐼\u0007 ')).toBe('xin chào 🐼');
+    expect(s.cleanMessage('   ')).toBe('');
+    expect(s.cleanMessage('x'.repeat(2000)).length).toBe(s.MAX_MESSAGE);
+    expect(s.pairId('b', 'a')).toBe('a_b');
+  });
+});

@@ -35,6 +35,7 @@ import { mergeProgress, resolveLogin, weekId, weekXp } from './merge';
 import { getAccount, OWNER_EMAIL, setAccount } from './account';
 import { applyContent, type LessonDoc, type UnitDoc } from '../data';
 import type { Progress } from '../types';
+import { setSocialName, startSocial, stopSocial } from './social';
 
 const MIGRATED_KEY = 'hoc-tieng-trung-migrated-uids';
 const CLIENT_ID = Math.random().toString(36).slice(2);
@@ -46,6 +47,7 @@ let timer: ReturnType<typeof setTimeout> | null = null;
 let lastWritten = 0;
 let started = false;
 let pendingName = '';
+let profileName = ''; // display name last written to profiles/{uid}
 let stopRole: Unsubscribe | null = null;
 let roleInfo: { forcedName: string; hidden: boolean; revoked: string[] } = { forcedName: '', hidden: false, revoked: [] };
 const LOCKED_MSG = 'Tài khoản này đã bị khóa. Vui lòng liên hệ huuphuocln@gmail.com nếu cần hỗ trợ.';
@@ -146,6 +148,13 @@ async function upload(u: User, p: Progress) {
   if (!roleInfo.hidden) writes.push(setDoc(doc(db, 'leaderboard', u.uid), { displayName, xp: Math.round(xpByCourse(p).total), updatedAt: now }));
   const wxp = totalWeekXp(p);
   if (wxp > 0 && !roleInfo.hidden) writes.push(setDoc(doc(db, 'weeks', weekId(), 'entries', u.uid), { displayName, xp: Math.round(wxp), updatedAt: now }));
+  // Public name for the friend search. Kept out of the sync status: it needs the v4 rules to be published.
+  if (displayName !== profileName) {
+    setSocialName(displayName);
+    setDoc(doc(db, 'profiles', u.uid), { displayName, nameLower: displayName.toLowerCase(), updatedAt: now })
+      .then(() => (profileName = displayName))
+      .catch((e) => console.warn('Profile not published', (e as { code?: string }).code));
+  }
   if (!pendingSince) pendingSince = now;
   // Writes stay queued while the stream is down; if nothing is acknowledged for a while, restart the network.
   const watchdog = setInterval(kickIfStuck, 2000);
@@ -247,6 +256,7 @@ async function startSession(u: User) {
   void upload(u, progress);
   if (!reachable) setAccount({ sync: 'offline' });
   listen(u);
+  startSocial(u.uid, roleInfo.forcedName || getAccount().user?.displayName || nameOf(u, progress));
 }
 
 function listen(u: User) {
@@ -284,6 +294,8 @@ function endSession() {
   stopRole?.();
   stopRole = null;
   roleInfo = { forcedName: '', hidden: false, revoked: [] };
+  profileName = '';
+  stopSocial();
   stopLocal?.();
   stopLocal = null;
   if (timer) clearTimeout(timer);
@@ -460,3 +472,6 @@ export async function fetchBoard(kind: 'week' | 'all'): Promise<Board> {
   }
   return { rows, me };
 }
+
+// ---------- friends + chat (same lazy chunk as the rest of the Firebase layer) ----------
+export * as social from './social';

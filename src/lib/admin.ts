@@ -138,3 +138,54 @@ export function computeStats(users: AdminUser[], now = new Date()): Stats {
     .slice(0, 5);
   return { learners: users.filter((u) => u.progress).length, dau, wau, lessonsCompleted, certificates, hardest };
 }
+
+// ---------- reported chat messages ----------
+export interface Report {
+  id: string;
+  chatId: string;
+  msgId: string;
+  from: string;
+  fromName: string;
+  text: string;
+  at: number;
+  reporter: string;
+  reporterName: string;
+  reason: string;
+  createdAt: number;
+  status: 'open' | 'hidden' | 'dismissed';
+}
+
+export async function listReports(): Promise<Report[]> {
+  const snap = await getDocs(collection(db, 'reports'));
+  return snap.docs
+    .map((d) => {
+      const x = d.data();
+      return {
+        id: d.id,
+        chatId: String(x.chatId),
+        msgId: String(x.msgId),
+        from: String(x.from),
+        fromName: String(x.fromName ?? 'Học viên'),
+        text: String(x.text ?? ''),
+        at: Number(x.at ?? 0),
+        reporter: String(x.reporter),
+        reporterName: String(x.reporterName ?? 'Học viên'),
+        reason: String(x.reason ?? ''),
+        createdAt: Number(x.createdAt ?? 0),
+        status: x.status === 'hidden' || x.status === 'dismissed' ? x.status : 'open',
+      } as Report;
+    })
+    .sort((a, b) => Number(a.status !== 'open') - Number(b.status !== 'open') || b.createdAt - a.createdAt);
+}
+
+const resolve = (r: Report, status: Report['status'], by: string) => updateDoc(doc(db, 'reports', r.id), { status, resolvedAt: Date.now(), resolvedBy: by });
+/** Remove the reported message from the chat (its text is blanked; the report keeps a copy). */
+export async function hideReported(r: Report, by: string) {
+  // the sender may already have deleted it
+  await updateDoc(doc(db, 'chats', r.chatId, 'messages', r.msgId), { hidden: true, text: '' }).catch((e) => {
+    if ((e as { code?: string }).code !== 'not-found') throw e;
+  });
+  await resolve(r, 'hidden', by);
+}
+export const dismissReport = (r: Report, by: string) => resolve(r, 'dismissed', by);
+export const deleteReport = (r: Report) => deleteDoc(doc(db, 'reports', r.id));
