@@ -47,8 +47,8 @@ export default function App() {
   useEffect(() => {
     if (!courseChosen() && !p.settings.level) return; // nothing is downloaded before a course is picked
     ensureCourse();
-    // once every level is known, remember which HSK level is being studied (it is loaded first next time)
-    if (isEnglish() || !courseLoaded()) return;
+    // once every level is known, remember which level is being studied (it is loaded first next time)
+    if (!courseLoaded()) return;
     const cur = currentLessonId(p);
     if (cur && LESSON_BY_ID[cur]) noteLevel(unitLevel(LESSON_BY_ID[cur].unit));
   }, [p, contentVersion]);

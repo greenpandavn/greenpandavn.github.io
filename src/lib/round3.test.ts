@@ -39,11 +39,11 @@ describe('v3 content', () => {
     }
     expect(new Set(data.ALL_WORDS.map((w) => w.id)).size).toBe(data.ALL_WORDS.length);
   });
-  it('English course: 243 lessons, 2927 words, every lesson builds a full exercise queue', () => {
+  it('English course: 407 lessons, 4895 words, every lesson builds a full exercise queue', () => {
     data.setCourse('en');
-    expect(data.LESSONS.length).toBe(243);
-    expect(data.ALL_WORDS.length).toBe(2927);
-    expect(data.LESSONS.filter((l) => data.unitLevel(l.unit) === 1).flatMap((l) => l.words).length).toBe(659);
+    expect(data.LESSONS.length).toBe(407);
+    expect(data.ALL_WORDS.length).toBe(4895);
+    expect(data.LESSONS.filter((l) => data.unitLevel(l.unit) === 1).flatMap((l) => l.words).length).toBe(959);
     for (const l of data.LESSONS) {
       const q = ex.buildLesson(l.words, { difficulty: 'normal', newWordIds: new Set(l.words.map((w) => w.id)), speaking: true });
       const kinds = new Set(q.map((e) => e.kind));
@@ -209,13 +209,14 @@ describe('v4.5: Thi thử tiếng Anh', () => {
       const ls = data.CORE_LESSONS.filter((l) => data.unitLevel(l.unit) === lv);
       return [ls.length, ls.reduce((n, l) => n + l.words.length, 0)];
     };
-    expect([1, 2, 3, 4].map(size)).toEqual([
-      [54, 659],
-      [61, 732],
-      [64, 768],
+    expect([1, 2, 3, 4, 5].map(size)).toEqual([
+      [79, 959],
+      [86, 1032],
+      [89, 1068],
+      [89, 1068],
       [64, 768],
     ]);
-    expect([1, 2, 3, 4].map((lv) => data.levelLabel(lv))).toEqual(['Sơ cấp', 'Trung cấp', 'Nâng cao', 'Thành thạo']);
+    expect([1, 2, 3, 4, 5].map((lv) => data.levelLabel(lv))).toEqual(['Sơ cấp', 'Trung cấp', 'Nâng cao', 'Thành thạo', 'Chuyên sâu']);
     data.setCourse('zh');
     expect(data.levelLabel(4)).toBe('HSK 4');
   });

@@ -20,7 +20,7 @@ export interface ContentOverrides {
 }
 
 // The word lists are big, so they are separate chunks, fetched when a course is opened (see loadCourse):
-// English is one chunk, Chinese one chunk per level (HSK 1–3 together).
+// one chunk per level (HSK 1–3 together).
 export let BUNDLED_LESSONS: RawLesson[] = [];
 export let BUNDLED_UNITS: Unit[] = [];
 export let EN_LESSONS: RawLesson[] = [];
@@ -28,7 +28,7 @@ export let EN_UNITS: Unit[] = [];
 
 export const COURSES: { id: CourseId; label: string; title: string; desc: string; glyph: string }[] = [
   { id: 'zh', label: 'Tiếng Trung', title: 'Khóa học tiếng Trung HSK 1–9', desc: 'HSK 1 → HSK 9 · chữ Hán, pinyin, luyện nghe nói', glyph: '中' },
-  { id: 'en', label: 'Tiếng Anh', title: 'Khóa học tiếng Anh từ sơ cấp đến thành thạo', desc: 'Sơ cấp → Thành thạo · từ vựng, chính tả, luyện nghe nói', glyph: 'En' },
+  { id: 'en', label: 'Tiếng Anh', title: 'Khóa học tiếng Anh từ sơ cấp đến chuyên sâu', desc: 'Sơ cấp → Chuyên sâu · từ vựng, chính tả, luyện nghe nói', glyph: 'En' },
 ];
 const COURSE_KEY = 'gp-course';
 function storedCourse(): CourseId | null {
@@ -63,24 +63,31 @@ interface RawData {
 }
 const ZH_CHUNKS = import.meta.glob<{ default: RawData }>('./zh/*.json');
 const ZH_BASE = './zh/hsk1-3.json';
-const zhChunkOf = (level: number) => (ZH_CHUNKS[`./zh/hsk${level}.json`] ? `./zh/hsk${level}.json` : ZH_BASE);
-const LEVEL_KEY = 'gp-zh-level';
-/** Remember the HSK level being studied, so that its chunk is waited for on the next launch. */
-export function noteLevel(level: number) {
+const EN_CHUNKS = import.meta.glob<{ default: RawData }>('./en/*.json');
+const EN_BASE = './en/en1.json';
+const CHUNKS = { ...ZH_CHUNKS, ...EN_CHUNKS };
+const chunkOf = (c: CourseId, level: number) => {
+  const key = c === 'en' ? `./en/en${level}.json` : `./zh/hsk${level}.json`;
+  return CHUNKS[key] ? key : c === 'en' ? EN_BASE : ZH_BASE;
+};
+const levelKey = (c: CourseId) => `gp-${c}-level`;
+/** Remember the level being studied, so that its chunk is waited for on the next launch. */
+export function noteLevel(level: number, c: CourseId = course) {
   try {
-    if (localStorage.getItem(LEVEL_KEY) !== String(level)) localStorage.setItem(LEVEL_KEY, String(level));
+    if (localStorage.getItem(levelKey(c)) !== String(level)) localStorage.setItem(levelKey(c), String(level));
   } catch {
     /* private mode */
   }
 }
-function zhPriority() {
+/** The chunks needed to show a course: its first level(s) plus the level being studied. */
+function priority(c: CourseId) {
   let level = 1;
   try {
-    level = Number(localStorage.getItem(LEVEL_KEY)) || 1;
+    level = Number(localStorage.getItem(levelKey(c))) || 1;
   } catch {
     /* private mode */
   }
-  return [...new Set([ZH_BASE, zhChunkOf(level)])];
+  return [...new Set([c === 'en' ? EN_BASE : ZH_BASE, chunkOf(c, level)])];
 }
 const loaded = new Set<string>(); // 'en', 'zh' (every level) and the Chinese chunks
 const loading = new Map<string, Promise<void>>();
@@ -100,37 +107,31 @@ function once(key: string, start: () => Promise<void>) {
   }
   return job;
 }
-const loadZhChunk = (key: string) =>
+const loadChunk = (key: string) =>
   once(key, async () => {
-    const raw = (await ZH_CHUNKS[key]()).default;
-    BUNDLED_LESSONS = [...BUNDLED_LESSONS, ...raw.lessons].sort((a, b) => (a.order ?? 0) - (b.order ?? 0));
-    BUNDLED_UNITS = [...BUNDLED_UNITS, ...raw.units].sort((a, b) => a.unit - b.unit);
-    if (course === 'zh') build(overrides);
+    const raw = (await CHUNKS[key]()).default;
+    const en = key in EN_CHUNKS;
+    const lessons = [...(en ? EN_LESSONS : BUNDLED_LESSONS), ...raw.lessons].sort((a, b) => (a.order ?? 0) - (b.order ?? 0));
+    const units = [...(en ? EN_UNITS : BUNDLED_UNITS), ...raw.units].sort((a, b) => a.unit - b.unit);
+    if (en) [EN_LESSONS, EN_UNITS] = [lessons, units];
+    else [BUNDLED_LESSONS, BUNDLED_UNITS] = [lessons, units];
+    if (course === (en ? 'en' : 'zh')) build(overrides);
     notify();
   });
 /** Fetch all the lessons of a course (once). Resolves when every level is available. */
 export function loadCourse(c: CourseId): Promise<void> {
-  if (c === 'zh')
-    return once('zh', async () => {
-      await Promise.all(Object.keys(ZH_CHUNKS).map(loadZhChunk));
-      notify();
-    });
-  return once('en', async () => {
-    const raw = (await import('./english.json')).default as unknown as RawData;
-    [EN_LESSONS, EN_UNITS] = [raw.lessons.map((l, i) => ({ ...l, order: (i + 1) * 10 })), raw.units];
-    if (course === 'en') build(overrides);
+  return once(c, async () => {
+    await Promise.all(Object.keys(c === 'en' ? EN_CHUNKS : ZH_CHUNKS).map(loadChunk));
     notify();
   });
 }
 /** True when every level of the course is in memory. */
 export const courseLoaded = (c: CourseId = course) => loaded.has(c);
-/** Enough to show the course: English entirely; Chinese HSK 1–3 plus the level being studied (the rest follows). */
-const usable = (c: CourseId) => (c === 'en' ? loaded.has('en') : zhPriority().every((k) => loaded.has(k)));
+/** Enough to show the course: its first level(s) plus the level being studied (the rest follows). */
+const usable = (c: CourseId) => priority(c).every((k) => loaded.has(k));
 function loadUsable(c: CourseId): Promise<unknown> {
-  const all = loadCourse(c);
-  if (c === 'en') return all;
-  all.catch(() => {}); // the other levels keep loading in the background
-  return Promise.all(zhPriority().map(loadZhChunk));
+  loadCourse(c).catch(() => {}); // the other levels keep loading in the background
+  return Promise.all(priority(c).map(loadChunk));
 }
 /** 'ready' when the active course can be shown; 'loading' / 'error' while its data is fetched. */
 export const courseState = (): 'ready' | 'loading' | 'error' => (loadFailed ? 'error' : pending || !usable(course) ? 'loading' : 'ready');
@@ -180,7 +181,7 @@ export function retryCourse() {
 }
 /** HSK level of a unit (1 when the unit has none, e.g. the English course). */
 /** Name of a level of the active course, e.g. 'HSK 4' or 'Trung cấp'. */
-export const EN_LEVEL_LABEL = ['Sơ cấp', 'Trung cấp', 'Nâng cao', 'Thành thạo'];
+export const EN_LEVEL_LABEL = ['Sơ cấp', 'Trung cấp', 'Nâng cao', 'Thành thạo', 'Chuyên sâu'];
 export const levelLabel = (level: number, c: CourseId = course) => (c === 'en' ? (EN_LEVEL_LABEL[level - 1] ?? EN_LEVEL_LABEL[0]) : `HSK ${level}`);
 export const unitLevel = (unit: number) => UNITS.find((u) => u.unit === unit)?.level ?? 1;
 

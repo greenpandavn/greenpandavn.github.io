@@ -440,7 +440,7 @@ export default function ProfileScreen({ onLogin, onAdmin }: { onLogin: () => voi
       <h2 className="mb-2 mt-6 text-lg font-black">Giới thiệu / Liên hệ</h2>
       <div className="card flex flex-col gap-1 text-sm font-semibold text-ink-500" data-testid="about">
         <p>
-          <b className="text-ink-700">Học Ngoại Ngữ – Gấu Trúc Xanh</b> là ứng dụng học tiếng Trung (HSK) và tiếng Anh (sơ cấp đến thành thạo) miễn phí cho người Việt.
+          <b className="text-ink-700">Học Ngoại Ngữ – Gấu Trúc Xanh</b> là ứng dụng học tiếng Trung (HSK) và tiếng Anh (sơ cấp đến chuyên sâu, kèm thi thử TOEIC) miễn phí cho người Việt.
         </p>
         <p>© 2026 VH Phước — Học Ngoại Ngữ, Gấu Trúc Xanh. Mọi nội dung thuộc về VH Phước.</p>
         <p data-testid="about-version">
