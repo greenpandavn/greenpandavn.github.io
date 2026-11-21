@@ -675,3 +675,228 @@ canyon|hẻm núi|The river runs through a deep canyon.|Con sông chảy qua m�
 crystal|pha lê, tinh thể|The water is as clear as crystal.|Nước trong như pha lê.
 landslide|vụ lở đất|A landslide blocked the road.|Một vụ lở đất đã chặn con đường.
 plateau|cao nguyên|Da Lat is on a high plateau.|Đà Lạt nằm trên một cao nguyên.
+
+%404|4|Phần 4: Diễn đạt tinh tế|Sắc thái, thành ngữ, cụm động từ, tu từ, nhấn mạnh|coral
+@p49|Tính từ chính xác|Tinh tế, mơ hồ, toàn diện, hời hợt|Adj
+subtle|tinh tế, khó nhận thấy|There is a subtle difference in taste.|Có một sự khác biệt tinh tế về hương vị.
+vague|mơ hồ|His answer was very vague.|Câu trả lời của anh ấy rất mơ hồ.
+comprehensive|toàn diện|The book gives a comprehensive view of the war.|Cuốn sách đưa ra cái nhìn toàn diện về cuộc chiến.
+superficial|hời hợt, bề ngoài|The report is too superficial.|Bản báo cáo quá hời hợt.
+profound|sâu sắc|The film had a profound effect on me.|Bộ phim đã có ảnh hưởng sâu sắc đến tôi.
+crucial|cốt yếu, cực kỳ quan trọng|Sleep is crucial for your health.|Giấc ngủ cực kỳ quan trọng với sức khỏe của bạn.
+trivial|tầm thường, vặt vãnh|Do not argue about trivial things.|Đừng cãi nhau về những chuyện vặt vãnh.
+ambiguous|mơ hồ, nhiều nghĩa|The question is ambiguous.|Câu hỏi này mơ hồ.
+explicit|rõ ràng, tường minh|She gave explicit instructions.|Cô ấy đã đưa ra chỉ dẫn rõ ràng.
+inevitable|không thể tránh khỏi|Change is inevitable.|Thay đổi là điều không thể tránh khỏi.
+remarkable|đáng chú ý, phi thường|She made a remarkable recovery.|Cô ấy đã hồi phục một cách phi thường.
+adequate|đủ, thỏa đáng|The room is small but adequate.|Căn phòng nhỏ nhưng đủ dùng.
+
+@p50|Động từ sắc thái|Ám chỉ, phóng đại, đánh giá thấp, lưỡng lự|Verb
+exaggerate|phóng đại|Do not exaggerate the problem.|Đừng phóng đại vấn đề.
+underestimate|đánh giá thấp|Never underestimate your opponent.|Đừng bao giờ đánh giá thấp đối thủ.
+hesitate|do dự, ngần ngại|Do not hesitate to ask for help.|Đừng ngần ngại nhờ giúp đỡ.
+emerge|nổi lên, xuất hiện|New leaders emerge in every crisis.|Những nhà lãnh đạo mới xuất hiện trong mọi cuộc khủng hoảng.
+undermine|làm suy yếu|Lies undermine trust.|Những lời nói dối làm suy yếu lòng tin.
+enhance|nâng cao, tăng cường|Good lighting can enhance a photo.|Ánh sáng tốt có thể làm bức ảnh đẹp hơn.
+diminish|giảm bớt, thu nhỏ|The pain will diminish with time.|Cơn đau sẽ giảm dần theo thời gian.
+provoke|khiêu khích, gây ra|His words may provoke an angry reply.|Lời nói của anh ấy có thể gây ra một câu trả lời giận dữ.
+neglect|bỏ bê, xao nhãng|Do not neglect your health.|Đừng xao nhãng sức khỏe của bạn.
+pursue|theo đuổi|She wants to pursue a career in law.|Cô ấy muốn theo đuổi sự nghiệp luật.
+tolerate|chịu đựng, dung thứ|I cannot tolerate this noise.|Tôi không thể chịu được tiếng ồn này.
+anticipate|lường trước, mong đợi|We anticipate a large crowd.|Chúng tôi dự đoán sẽ có đông người.
+
+@p51|Từ nối trang trọng|Hơn nữa, do đó, ngược lại, tức là|Thus
+thus|do đó, như vậy|He was ill and thus could not come.|Anh ấy bị ốm và do đó không thể đến.
+consequently|vì vậy, hệ quả là|It rained all day. Consequently, the match was canceled.|Trời mưa cả ngày. Vì vậy, trận đấu đã bị hủy.
+nonetheless|tuy vậy|The task was hard. Nonetheless, we finished it.|Nhiệm vụ rất khó. Tuy vậy, chúng tôi đã hoàn thành.
+likewise|tương tự như vậy|He left early, and I did likewise.|Anh ấy về sớm, và tôi cũng làm như vậy.
+conversely|ngược lại|Some like heat. Conversely, others prefer cold.|Một số người thích nóng. Ngược lại, những người khác thích lạnh.
+namely|cụ thể là, tức là|Two students, namely Lan and Nam, won.|Hai học sinh, cụ thể là Lan và Nam, đã thắng.
+albeit|mặc dù|He agreed, albeit slowly.|Anh ấy đã đồng ý, dù chậm.
+hereby|bằng văn bản này|I hereby accept the offer.|Bằng văn bản này, tôi chấp nhận lời đề nghị.
+whereby|theo đó, nhờ đó|They made a plan whereby everyone saves money.|Họ lập một kế hoạch mà theo đó mọi người đều tiết kiệm được tiền.
+notwithstanding|bất chấp, mặc dù|Notwithstanding the rain, the game went on.|Bất chấp trời mưa, trận đấu vẫn tiếp tục.
+in contrast|trái lại|In contrast, the south is warm all year.|Trái lại, miền nam ấm áp quanh năm.
+to sum up|tóm lại|To sum up, we need more time.|Tóm lại, chúng ta cần thêm thời gian.
+
+@p52|Thành ngữ 2|Break the ice, a piece of cake, under the weather|Idm
+break the ice|phá vỡ sự ngượng ngùng ban đầu|A joke can break the ice.|Một câu đùa có thể phá vỡ sự ngượng ngùng.
+a piece of cake|dễ như ăn bánh|The test was a piece of cake.|Bài kiểm tra dễ như ăn bánh.
+under the weather|hơi ốm, không khỏe|I feel under the weather today.|Hôm nay tôi thấy không được khỏe.
+once in a blue moon|rất hiếm khi|We eat out once in a blue moon.|Chúng tôi rất hiếm khi đi ăn ngoài.
+cost an arm and a leg|đắt cắt cổ|That car must cost an arm and a leg.|Chiếc xe đó chắc đắt cắt cổ.
+hit the books|học bài chăm chỉ|I have to hit the books tonight.|Tối nay tôi phải học bài chăm chỉ.
+call it a day|nghỉ, kết thúc công việc hôm nay|Let us call it a day.|Chúng ta nghỉ thôi.
+on the fence|lưỡng lự, chưa quyết|I am still on the fence about the job.|Tôi vẫn đang lưỡng lự về công việc đó.
+out of the blue|bất ngờ, không báo trước|She called me out of the blue.|Cô ấy bất ngờ gọi cho tôi.
+get cold feet|chùn bước, mất can đảm|Do not get cold feet before the wedding.|Đừng chùn bước trước đám cưới.
+see eye to eye|đồng quan điểm|We do not see eye to eye on politics.|Chúng tôi không cùng quan điểm về chính trị.
+the last straw|giọt nước tràn ly|His rude email was the last straw.|Email thô lỗ của anh ta là giọt nước tràn ly.
+
+@p53|Cụm động từ 3|Come up with, put up with, turn down, bring up|Phr
+come up with|nghĩ ra|We need to come up with a new idea.|Chúng ta cần nghĩ ra một ý tưởng mới.
+put up with|chịu đựng|I cannot put up with the noise.|Tôi không thể chịu đựng tiếng ồn.
+turn down|từ chối; vặn nhỏ|She had to turn down the offer.|Cô ấy đã phải từ chối lời đề nghị.
+bring up|nuôi nấng; nêu ra|Please do not bring up that topic.|Xin đừng nêu ra chủ đề đó.
+figure out|tìm ra, hiểu ra|I cannot figure out this puzzle.|Tôi không thể giải được câu đố này.
+call off|hủy bỏ|They had to call off the wedding.|Họ đã phải hủy đám cưới.
+run into|tình cờ gặp|I often run into old friends here.|Tôi thường tình cờ gặp bạn cũ ở đây.
+catch up|bắt kịp|You go ahead, and I will catch up.|Bạn đi trước đi, tôi sẽ bắt kịp.
+cut down on|cắt giảm|You should cut down on sugar.|Bạn nên cắt giảm đường.
+get over|vượt qua, bình phục|It took a month to get over the flu.|Mất một tháng mới khỏi cúm.
+point out|chỉ ra|Let me point out one mistake.|Để tôi chỉ ra một lỗi.
+show up|xuất hiện, có mặt|He did not show up for the meeting.|Anh ấy đã không có mặt trong cuộc họp.
+
+@p54|Kết hợp từ|Heavy rain, strong coffee, make progress|Co
+heavy traffic|giao thông đông đúc|There is heavy traffic at five.|Lúc năm giờ giao thông rất đông.
+strong coffee|cà phê đậm|I need a strong coffee this morning.|Sáng nay tôi cần một ly cà phê đậm.
+make an effort|nỗ lực|Please make an effort to be on time.|Hãy nỗ lực đến đúng giờ.
+take a risk|chấp nhận rủi ro|Sometimes you must take a risk.|Đôi khi bạn phải chấp nhận rủi ro.
+do business|làm ăn, kinh doanh|We do business with many countries.|Chúng tôi làm ăn với nhiều nước.
+catch a cold|bị cảm lạnh|Wear a coat or you will catch a cold.|Mặc áo khoác vào kẻo bị cảm lạnh.
+keep a promise|giữ lời hứa|She will always keep a promise.|Cô ấy sẽ luôn giữ lời hứa.
+break a habit|bỏ một thói quen|It is hard to break a habit.|Bỏ một thói quen là điều khó.
+raise awareness|nâng cao nhận thức|The campaign will raise awareness of the disease.|Chiến dịch sẽ nâng cao nhận thức về căn bệnh.
+meet a deadline|kịp hạn chót|We worked all night to meet a deadline.|Chúng tôi đã làm việc suốt đêm để kịp hạn chót.
+draw a conclusion|rút ra kết luận|It is too early to draw a conclusion.|Còn quá sớm để rút ra kết luận.
+gain experience|tích lũy kinh nghiệm|Young workers need to gain experience.|Người lao động trẻ cần tích lũy kinh nghiệm.
+
+@p55|Cảm xúc tinh tế|Hoài niệm, choáng ngợp, bực bội, mãn nguyện|Mood
+nostalgic|hoài niệm|Old songs make me nostalgic.|Những bài hát cũ làm tôi hoài niệm.
+overwhelmed|choáng ngợp, quá tải|I feel overwhelmed by all this work.|Tôi thấy quá tải vì tất cả công việc này.
+frustrated|bực bội, nản lòng|He was frustrated with the slow internet.|Anh ấy bực bội vì mạng chậm.
+content|mãn nguyện, hài lòng|She is content with her simple life.|Cô ấy mãn nguyện với cuộc sống giản dị của mình.
+indifferent|thờ ơ|He seems indifferent to the news.|Anh ấy có vẻ thờ ơ với tin tức.
+reluctant|miễn cưỡng|She was reluctant to speak in public.|Cô ấy miễn cưỡng khi phải nói trước đám đông.
+resentful|oán giận, bực tức|He felt resentful about the decision.|Anh ấy thấy bực tức về quyết định đó.
+thrilled|vô cùng phấn khích|We were thrilled to win the prize.|Chúng tôi vô cùng phấn khích khi giành giải.
+desperate|tuyệt vọng, rất cần|He was desperate for a job.|Anh ấy rất cần một công việc.
+furious|giận dữ|My mother was furious about the broken window.|Mẹ tôi đã rất giận về cái cửa sổ bị vỡ.
+astonished|kinh ngạc|I was astonished by the price.|Tôi kinh ngạc vì giá cả.
+miserable|khổ sở|The cold rain made us miserable.|Cơn mưa lạnh làm chúng tôi khổ sở.
+
+@p56|Tính cách nhiều mặt|Kiêu ngạo, khiêm nhường, tận tâm, đa nghi|Self
+arrogant|kiêu ngạo|Nobody likes an arrogant boss.|Không ai thích một ông chủ kiêu ngạo.
+humble|khiêm nhường|He is rich but very humble.|Ông ấy giàu nhưng rất khiêm nhường.
+conscientious|tận tâm, chu đáo|She is a conscientious student.|Cô ấy là một học sinh tận tâm.
+cynical|hoài nghi, yếm thế|He is cynical about politics.|Anh ấy hoài nghi về chính trị.
+compassionate|giàu lòng trắc ẩn|The nurse was kind and compassionate.|Cô y tá tốt bụng và giàu lòng trắc ẩn.
+impulsive|bốc đồng|Do not make an impulsive decision.|Đừng đưa ra một quyết định bốc đồng.
+decisive|quyết đoán|A leader must be decisive.|Một người lãnh đạo phải quyết đoán.
+sincere|chân thành|Please accept my sincere thanks.|Xin hãy nhận lời cảm ơn chân thành của tôi.
+witty|dí dỏm|Her speech was short and witty.|Bài phát biểu của cô ấy ngắn gọn và dí dỏm.
+stingy|keo kiệt|He is too stingy to buy a gift.|Anh ta quá keo kiệt nên không mua quà.
+outgoing|cởi mở, hướng ngoại|My sister is very outgoing.|Chị gái tôi rất cởi mở.
+moody|tính khí thất thường|Teenagers can be moody.|Thanh thiếu niên có thể thất thường.
+
+@p57|Mô tả sự thay đổi|Dao động, tăng vọt, chững lại, suy giảm|Chg
+fluctuate|dao động|Prices fluctuate from day to day.|Giá cả dao động từng ngày.
+soar|tăng vọt; bay cao|House prices soar every spring.|Giá nhà tăng vọt mỗi mùa xuân.
+plunge|lao dốc, giảm mạnh|Sales may plunge next year.|Doanh số có thể lao dốc vào năm sau.
+stagnate|trì trệ, chững lại|Wages stagnate while prices rise.|Tiền lương chững lại trong khi giá cả tăng.
+surge|sự tăng vọt|There was a surge in online learning.|Đã có sự tăng vọt về học trực tuyến.
+transition|sự chuyển tiếp|The transition to the new system was smooth.|Việc chuyển sang hệ thống mới diễn ra suôn sẻ.
+steady|đều đặn, vững|There is a steady rise in tourism.|Du lịch đang tăng đều đặn.
+dramatic|đột ngột, đầy kịch tính|There was a dramatic fall in prices.|Đã có một đợt giảm giá đột ngột.
+peak|đỉnh điểm, đỉnh núi|Sales reach a peak in December.|Doanh số đạt đỉnh vào tháng Mười Hai.
+reverse|đảo ngược|It is hard to reverse the decision.|Khó mà đảo ngược quyết định.
+evolve|tiến hóa, phát triển dần|Languages evolve over time.|Ngôn ngữ phát triển dần theo thời gian.
+temporary|tạm thời|This is only a temporary job.|Đây chỉ là một công việc tạm thời.
+
+@p58|Mô tả chất lượng|Chính hãng, tinh xảo, tầm thường, hoàn hảo|Qual
+genuine|thật, chính hãng|Is this a genuine leather bag?|Đây có phải túi da thật không?
+superb|tuyệt hảo|The food at the wedding was superb.|Đồ ăn ở đám cưới thật tuyệt hảo.
+mediocre|tầm thường|The movie was mediocre at best.|Bộ phim cùng lắm chỉ ở mức tầm thường.
+flawless|hoàn hảo, không tì vết|Her English is almost flawless.|Tiếng Anh của cô ấy gần như hoàn hảo.
+inferior|kém hơn|These goods are of inferior quality.|Những hàng hóa này có chất lượng kém hơn.
+superior|vượt trội; cấp trên|This phone is superior to the old one.|Chiếc điện thoại này vượt trội hơn cái cũ.
+authentic|đích thực, chính gốc|This restaurant serves authentic Hue food.|Nhà hàng này phục vụ món Huế chính gốc.
+defective|bị lỗi|The shop replaced the defective phone.|Cửa hàng đã đổi chiếc điện thoại bị lỗi.
+exquisite|tinh xảo, tuyệt đẹp|She wore an exquisite silk dress.|Cô ấy mặc một chiếc váy lụa tuyệt đẹp.
+sturdy|chắc chắn, cứng cáp|We need a sturdy table.|Chúng ta cần một cái bàn chắc chắn.
+shabby|tồi tàn, xơ xác|He lives in a shabby old house.|Anh ấy sống trong một ngôi nhà cũ tồi tàn.
+pristine|nguyên sơ, còn mới nguyên|The beach is still pristine.|Bãi biển vẫn còn nguyên sơ.
+
+@p59|Biện pháp tu từ|Ẩn dụ, so sánh, biểu tượng, châm biếm|Lit
+metaphor|ẩn dụ|Time is money is a common metaphor.|Thời gian là tiền bạc là một ẩn dụ phổ biến.
+simile|phép so sánh|As brave as a lion is a simile.|Dũng cảm như sư tử là một phép so sánh.
+symbol|biểu tượng|The dove is a symbol of peace.|Chim bồ câu là biểu tượng của hòa bình.
+irony|sự trớ trêu, mỉa mai|The irony is that he hates flying.|Điều trớ trêu là anh ấy ghét đi máy bay.
+satire|sự châm biếm|The show is a satire on politics.|Chương trình là một tác phẩm châm biếm chính trị.
+narrative|lời kể, câu chuyện|The narrative moves between two cities.|Câu chuyện chuyển qua lại giữa hai thành phố.
+theme|chủ đề|Love is the main theme of the novel.|Tình yêu là chủ đề chính của cuốn tiểu thuyết.
+tone|giọng điệu|The tone of the letter was friendly.|Giọng điệu của bức thư rất thân thiện.
+genre|thể loại|What is your favorite film genre?|Thể loại phim yêu thích của bạn là gì?
+protagonist|nhân vật chính|The protagonist is a young doctor.|Nhân vật chính là một bác sĩ trẻ.
+imagery|hình ảnh (trong văn thơ)|The poem is full of sea imagery.|Bài thơ tràn ngập hình ảnh biển cả.
+climax|cao trào|The climax of the story comes at the end.|Cao trào của câu chuyện nằm ở cuối.
+
+@p60|Hùng biện và tranh luận|Phản bác, nhượng bộ, lập trường, thuyết phục|Deb
+debate|cuộc tranh luận|The debate lasted two hours.|Cuộc tranh luận kéo dài hai tiếng.
+rebut|phản bác|She was able to rebut every point.|Cô ấy đã có thể phản bác mọi luận điểm.
+concede|thừa nhận, nhượng bộ|I concede that you are right.|Tôi thừa nhận rằng bạn đúng.
+stance|lập trường|What is your stance on this issue?|Lập trường của bạn về vấn đề này là gì?
+advocate|ủng hộ, người ủng hộ|Doctors advocate a healthy diet.|Các bác sĩ ủng hộ chế độ ăn lành mạnh.
+oppose|phản đối|Many people oppose the new road.|Nhiều người phản đối con đường mới.
+controversial|gây tranh cãi|It is a controversial topic.|Đó là một chủ đề gây tranh cãi.
+compelling|đầy sức thuyết phục|She gave a compelling reason.|Cô ấy đã đưa ra một lý do đầy sức thuyết phục.
+issue|vấn đề|Housing is a big issue in the city.|Nhà ở là một vấn đề lớn của thành phố.
+counterargument|lập luận phản bác|Every essay needs a counterargument.|Bài luận nào cũng cần một lập luận phản bác.
+consensus|sự đồng thuận|The team reached a consensus.|Cả nhóm đã đạt được sự đồng thuận.
+rhetoric|thuật hùng biện, lời lẽ hoa mỹ|His speech was full of empty rhetoric.|Bài phát biểu của ông ấy đầy những lời hoa mỹ rỗng tuếch.
+
+@p61|Hài hước và mỉa mai|Chơi chữ, trêu chọc, mỉa mai, buồn cười|Ha
+humor|sự hài hước|He has a good sense of humor.|Anh ấy có khiếu hài hước.
+joke|câu đùa, trò đùa|Nobody laughed at his joke.|Không ai cười trước câu đùa của anh ấy.
+sarcasm|lời mỉa mai|I could hear the sarcasm in her voice.|Tôi có thể nghe thấy sự mỉa mai trong giọng cô ấy.
+pun|trò chơi chữ|The headline was a clever pun.|Tiêu đề là một trò chơi chữ thông minh.
+tease|trêu chọc|Do not tease your little sister.|Đừng trêu em gái con.
+hilarious|cực kỳ buồn cười|The movie was hilarious.|Bộ phim cực kỳ buồn cười.
+ridiculous|lố bịch, vô lý|That is a ridiculous idea.|Đó là một ý tưởng vô lý.
+absurd|phi lý|The price is absurd.|Cái giá đó thật phi lý.
+mock|chế giễu|It is unkind to mock other people.|Chế giễu người khác là không tử tế.
+giggle|cười khúc khích|The girls began to giggle.|Các cô bé bắt đầu cười khúc khích.
+amuse|làm cho vui, giải trí|His stories always amuse the children.|Những câu chuyện của ông ấy luôn làm bọn trẻ thích thú.
+prank|trò chơi khăm|It was just a harmless prank.|Đó chỉ là một trò chơi khăm vô hại.
+
+@p62|Nói giảm và thận trọng|Có lẽ, dường như, phần nào, có xu hướng|May
+apparently|có vẻ như, nghe nói|Apparently, the shop is closed today.|Nghe nói hôm nay cửa hàng đóng cửa.
+presumably|có lẽ, đoán chừng|Presumably, he missed the bus.|Có lẽ anh ấy đã lỡ xe buýt.
+seemingly|dường như|It was a seemingly simple question.|Đó là một câu hỏi tưởng chừng đơn giản.
+somewhat|phần nào, hơi|The result was somewhat surprising.|Kết quả phần nào gây bất ngờ.
+tend to|có xu hướng|People tend to eat more in winter.|Mọi người có xu hướng ăn nhiều hơn vào mùa đông.
+arguably|có thể cho rằng|He is arguably the best player in Asia.|Có thể nói anh ấy là cầu thủ giỏi nhất châu Á.
+relatively|tương đối|The test was relatively easy.|Bài kiểm tra tương đối dễ.
+roughly|khoảng chừng|The trip costs roughly two million dong.|Chuyến đi tốn khoảng hai triệu đồng.
+to some extent|ở một mức độ nào đó|I agree with you to some extent.|Tôi đồng ý với bạn ở một mức độ nào đó.
+potentially|có khả năng, tiềm tàng|This is a potentially dangerous road.|Đây là một con đường có thể gây nguy hiểm.
+supposedly|được cho là|This is supposedly the oldest tree in town.|Đây được cho là cái cây già nhất thị trấn.
+virtually|hầu như, gần như|The town was virtually empty.|Thị trấn gần như vắng tanh.
+
+@p63|Nhấn mạnh|Hoàn toàn, thật sự, tuyệt đối, chính là|Bold
+utterly|hoàn toàn|I was utterly exhausted.|Tôi đã hoàn toàn kiệt sức.
+entirely|toàn bộ, hoàn toàn|It is entirely my fault.|Đó hoàn toàn là lỗi của tôi.
+indeed|thật vậy, quả thực|It was indeed a great day.|Đó quả thực là một ngày tuyệt vời.
+highly|rất, hết sức|She is a highly skilled doctor.|Cô ấy là một bác sĩ có tay nghề rất cao.
+deeply|sâu sắc|We are deeply sorry for the mistake.|Chúng tôi vô cùng xin lỗi vì sai sót.
+strongly|mạnh mẽ|I strongly recommend this book.|Tôi đặc biệt khuyên bạn đọc cuốn sách này.
+by far|vượt xa, hơn hẳn|She is by far the best singer.|Cô ấy là ca sĩ hay nhất, vượt xa những người khác.
+above all|trên hết|Above all, stay calm.|Trên hết, hãy bình tĩnh.
+whatsoever|bất cứ ... nào (nhấn mạnh phủ định)|I have no doubt whatsoever.|Tôi không có chút nghi ngờ nào.
+literally|theo nghĩa đen, thực sự|The town was literally under water.|Thị trấn thực sự chìm trong nước.
+undoubtedly|chắc chắn, không nghi ngờ gì|She is undoubtedly the right person.|Cô ấy chắc chắn là người phù hợp.
+sheer|hoàn toàn, tuyệt đối|We won by sheer luck.|Chúng tôi thắng hoàn toàn nhờ may mắn.
+
+@p64|Cấu tạo từ|Tiền tố, hậu tố, từ trái nghĩa, từ ghép|Word
+prefix|tiền tố|The prefix un means not.|Tiền tố un có nghĩa là không.
+suffix|hậu tố|The suffix ness makes a noun.|Hậu tố ness tạo thành danh từ.
+synonym|từ đồng nghĩa|Big is a synonym of large.|Big là từ đồng nghĩa của large.
+antonym|từ trái nghĩa|Hot is the antonym of cold.|Hot là từ trái nghĩa của cold.
+misunderstand|hiểu lầm|Please do not misunderstand me.|Xin đừng hiểu lầm tôi.
+unpredictable|khó lường|The weather here is unpredictable.|Thời tiết ở đây khó lường.
+irresponsible|vô trách nhiệm|It was irresponsible to leave the child alone.|Để đứa trẻ một mình là vô trách nhiệm.
+overestimate|đánh giá quá cao|Do not overestimate your strength.|Đừng đánh giá quá cao sức mình.
+rewrite|viết lại|I had to rewrite the whole essay.|Tôi đã phải viết lại toàn bộ bài luận.
+disapprove|không tán thành|Her parents disapprove of her plan.|Bố mẹ cô ấy không tán thành kế hoạch của cô ấy.
+worthwhile|đáng làm, bõ công|The trip was long but worthwhile.|Chuyến đi dài nhưng đáng giá.
+straightforward|đơn giản, thẳng thắn|The instructions are straightforward.|Các hướng dẫn rất đơn giản.
