@@ -53,6 +53,7 @@ let kicking = false;
 let pendingSince = 0;
 let kickedAt = 0;
 let rebuilding = false;
+let reconnecting = false;
 
 const withTimeout = <T>(p: Promise<T>, ms: number) =>
   Promise.race([p, new Promise<never>((_, rej) => setTimeout(() => rej(new Error('timeout')), ms))]);
@@ -83,17 +84,21 @@ async function rebuildClient() {
     rebuilding = false;
   }
   pendingSince = 0;
-  kickedAt = 0;
   if (auth.currentUser?.uid !== u.uid) return;
   listen(u);
   void upload(u, getProgress());
 }
 
+/**
+ * Escalation for writes that stay unacknowledged: one stream restart per pending batch, then (if that didn't help)
+ * a full client rebuild. Restarting more often keeps aborting the long-poll channel, so each step happens once.
+ */
 const kickIfStuck = () => {
-  if (!pendingSince || !navigator.onLine) return;
+  if (!pendingSince || !navigator.onLine || kicking || rebuilding) return;
   const now = Date.now();
-  if (kickedAt > pendingSince && now - kickedAt > 3500) void rebuildClient();
-  else if (now - pendingSince > 1200) void kickNetwork();
+  if (kickedAt >= pendingSince) {
+    if (now - kickedAt > 4000) void rebuildClient();
+  } else if (now - pendingSince > (reconnecting ? 2500 : 8000)) void kickNetwork();
 };
 
 const migratedUids = (): string[] => {
@@ -145,6 +150,7 @@ async function upload(u: User, p: Progress) {
     await Promise.all(writes);
     if (lastWritten === now) {
       pendingSince = 0;
+      reconnecting = false;
       setAccount({ sync: 'saved' });
     }
   } catch (e) {
@@ -295,10 +301,11 @@ export function initCloud() {
   window.addEventListener('online', () => {
     const u = auth.currentUser;
     if (!u) return;
-    void kickNetwork();
+    // Firestore restarts its own streams on 'online'; re-send the snapshot and escalate only if it stays stuck.
+    reconnecting = true;
+    pendingSince = 0;
     void upload(u, getProgress());
-    // the first reconnect attempt often races the network coming up – retry a few times while writes are pending
-    for (const ms of [1500, 4000, 6000, 9000]) setTimeout(kickIfStuck, ms);
+    for (const ms of [3000, 7000, 12000]) setTimeout(kickIfStuck, ms);
   });
   document.addEventListener('visibilitychange', () => {
     if (document.visibilityState === 'visible' && auth.currentUser) kickIfStuck();
