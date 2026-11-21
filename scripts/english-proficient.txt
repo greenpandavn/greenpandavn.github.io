@@ -450,3 +450,228 @@ threat|mối đe dọa|Pollution is a threat to our health.|Ô nhiễm là mối
 vulnerable|dễ bị tổn thương|Children are the most vulnerable.|Trẻ em là những người dễ bị tổn thương nhất.
 resilience|sức chống chịu, khả năng phục hồi|The town showed great resilience after the flood.|Thị trấn đã thể hiện sức chống chịu lớn sau trận lũ.
 precaution|biện pháp phòng ngừa|Take an umbrella as a precaution.|Hãy mang ô để đề phòng.
+
+%403|4|Phần 3: Khoa học chuyên sâu|Di truyền, sinh thái, vật lý, kỹ thuật, trí tuệ nhân tạo, toán học|grape
+@p33|Di truyền học|Gen, tế bào, đột biến, tiến hóa|DNA
+gene|gen|This gene controls eye color.|Gen này quyết định màu mắt.
+cell|tế bào; phòng giam|Every cell needs oxygen.|Mọi tế bào đều cần ô xy.
+mutation|đột biến|The mutation makes the virus stronger.|Đột biến làm cho vi rút mạnh hơn.
+evolution|sự tiến hóa|Evolution takes millions of years.|Sự tiến hóa mất hàng triệu năm.
+inherit|thừa hưởng, thừa kế|Children inherit genes from both parents.|Con cái thừa hưởng gen từ cả bố và mẹ.
+genetic|thuộc di truyền|It is a genetic disease.|Đó là một bệnh di truyền.
+organism|sinh vật|Each organism needs water to live.|Mỗi sinh vật đều cần nước để sống.
+clone|bản sao vô tính, nhân bản|Scientists made a clone of a sheep.|Các nhà khoa học đã tạo ra một bản sao vô tính của con cừu.
+embryo|phôi thai|The embryo grows very fast.|Phôi thai phát triển rất nhanh.
+trait|đặc điểm, tính trạng|Blue eyes are a family trait.|Mắt xanh là một đặc điểm của gia đình.
+reproduce|sinh sản; tái tạo|Some plants reproduce without seeds.|Một số loài cây sinh sản không cần hạt.
+adapt|thích nghi|Animals adapt to cold weather.|Động vật thích nghi với thời tiết lạnh.
+
+@p34|Y học chuyên sâu|Khối u, kháng sinh, thuốc mê, tiên lượng|MD
+tumor|khối u|The doctors removed the tumor.|Các bác sĩ đã cắt bỏ khối u.
+antibiotic|thuốc kháng sinh|You need an antibiotic for this infection.|Bạn cần thuốc kháng sinh cho chỗ nhiễm trùng này.
+anesthetic|thuốc gây mê, gây tê|The dentist gave me an anesthetic.|Nha sĩ đã tiêm thuốc tê cho tôi.
+diabetes|bệnh tiểu đường|My uncle has diabetes.|Chú tôi bị tiểu đường.
+cancer|ung thư|Smoking can cause lung cancer.|Hút thuốc có thể gây ung thư phổi.
+stroke|cơn đột quỵ|He had a stroke last year.|Ông ấy bị đột quỵ năm ngoái.
+fracture|chỗ gãy xương|The fracture will take six weeks to heal.|Chỗ gãy xương sẽ mất sáu tuần để lành.
+heal|lành, chữa lành|The cut will heal in a few days.|Vết cắt sẽ lành trong vài ngày.
+inject|tiêm|The nurse will inject the vaccine.|Y tá sẽ tiêm vắc xin.
+diagnose|chẩn đoán|Doctors diagnose the illness with a blood test.|Bác sĩ chẩn đoán bệnh bằng xét nghiệm máu.
+remedy|phương thuốc, cách chữa|Ginger tea is a good remedy for a cold.|Trà gừng là một phương thuốc tốt cho cảm lạnh.
+terminal|giai đoạn cuối; nhà ga|The patient has a terminal illness.|Bệnh nhân mắc bệnh giai đoạn cuối.
+
+@p35|Não bộ|Tế bào thần kinh, trí nhớ, tập trung, phản xạ|Brain
+neuron|tế bào thần kinh|A neuron sends signals to the brain.|Một tế bào thần kinh gửi tín hiệu đến não.
+nerve|dây thần kinh|The nerve in my tooth hurts.|Dây thần kinh trong răng tôi bị đau.
+reflex|phản xạ|The doctor tested my knee reflex.|Bác sĩ đã kiểm tra phản xạ đầu gối của tôi.
+stimulate|kích thích|Coffee can stimulate the brain.|Cà phê có thể kích thích não.
+concentration|sự tập trung|This game needs a lot of concentration.|Trò chơi này cần rất nhiều sự tập trung.
+recall|nhớ lại|I cannot recall his name.|Tôi không thể nhớ lại tên anh ấy.
+intelligence|trí thông minh|Dolphins show high intelligence.|Cá heo thể hiện trí thông minh cao.
+dementia|chứng sa sút trí tuệ|My grandmother has dementia.|Bà tôi mắc chứng sa sút trí tuệ.
+hormone|hoóc môn|This hormone controls sleep.|Hoóc môn này điều khiển giấc ngủ.
+sensory|thuộc giác quan|The skin sends sensory signals to the brain.|Da gửi tín hiệu giác quan đến não.
+paralysis|sự tê liệt|The injury caused paralysis in one leg.|Chấn thương đã gây liệt một chân.
+coma|trạng thái hôn mê|He was in a coma for three days.|Anh ấy đã hôn mê ba ngày.
+
+@p36|Sinh thái học|Hệ sinh thái, đa dạng sinh học, chuỗi thức ăn|Bio
+ecosystem|hệ sinh thái|The lake has a rich ecosystem.|Hồ có một hệ sinh thái phong phú.
+biodiversity|đa dạng sinh học|We must protect the biodiversity of the forest.|Chúng ta phải bảo vệ đa dạng sinh học của khu rừng.
+predator|động vật săn mồi|The lion is a powerful predator.|Sư tử là một loài săn mồi mạnh mẽ.
+prey|con mồi|The eagle caught its prey.|Con đại bàng đã bắt được con mồi.
+conservation|sự bảo tồn|She works in wildlife conservation.|Cô ấy làm việc trong lĩnh vực bảo tồn động vật hoang dã.
+deforestation|nạn phá rừng|Deforestation destroys animal habitats.|Nạn phá rừng phá hủy môi trường sống của động vật.
+vegetation|thảm thực vật|The island is covered with thick vegetation.|Hòn đảo được bao phủ bởi thảm thực vật dày.
+migrate|di cư|Many birds migrate in autumn.|Nhiều loài chim di cư vào mùa thu.
+breed|nhân giống; giống loài|Pandas rarely breed in zoos.|Gấu trúc hiếm khi sinh sản trong vườn thú.
+extinction|sự tuyệt chủng|The species is close to extinction.|Loài này đang gần tuyệt chủng.
+reef|rạn san hô, đá ngầm|The reef is home to many fish.|Rạn san hô là nhà của nhiều loài cá.
+swamp|đầm lầy|The swamp is full of insects.|Đầm lầy đầy côn trùng.
+
+@p37|Khí hậu|Khí quyển, nhà kính, băng tan, mực nước biển|Clim
+atmosphere|khí quyển; bầu không khí|The atmosphere protects the earth.|Khí quyển bảo vệ trái đất.
+greenhouse|nhà kính|We grow tomatoes in a greenhouse.|Chúng tôi trồng cà chua trong nhà kính.
+glacier|sông băng|The glacier is melting quickly.|Sông băng đang tan nhanh.
+melt|tan chảy|The ice will melt in the sun.|Băng sẽ tan dưới ánh mặt trời.
+sea level|mực nước biển|The sea level is rising every year.|Mực nước biển đang dâng lên mỗi năm.
+humidity|độ ẩm|The humidity is very high in summer.|Độ ẩm rất cao vào mùa hè.
+tropical|nhiệt đới|Vietnam has a tropical climate.|Việt Nam có khí hậu nhiệt đới.
+heatwave|đợt nắng nóng|The heatwave lasted for ten days.|Đợt nắng nóng kéo dài mười ngày.
+erosion|sự xói mòn|Trees stop soil erosion.|Cây cối ngăn chặn xói mòn đất.
+ozone|tầng ô dôn|The ozone layer protects us from the sun.|Tầng ô dôn bảo vệ chúng ta khỏi mặt trời.
+polar|thuộc vùng cực|Polar bears live on the ice.|Gấu Bắc Cực sống trên băng.
+monsoon|gió mùa, mùa mưa|The monsoon brings heavy rain.|Gió mùa mang đến mưa lớn.
+
+@p38|Đại dương|Dòng hải lưu, thủy triều, san hô, biển sâu|Sea
+tide|thủy triều|The tide is low in the morning.|Thủy triều thấp vào buổi sáng.
+current|dòng chảy; hiện tại|The current is strong near the rocks.|Dòng chảy rất mạnh gần những tảng đá.
+coral|san hô|The coral is dying because of warm water.|San hô đang chết vì nước ấm.
+marine|thuộc biển|She studies marine animals.|Cô ấy nghiên cứu động vật biển.
+wave|con sóng; vẫy tay|A big wave hit the boat.|Một con sóng lớn đã đập vào thuyền.
+shore|bờ (biển, hồ)|We walked along the shore.|Chúng tôi đã đi dạo dọc bờ biển.
+harbor|bến cảng|The boats are safe in the harbor.|Những chiếc thuyền an toàn trong bến cảng.
+dive|lặn|We dive to see the fish.|Chúng tôi lặn để ngắm cá.
+shallow|nông|The water is shallow here.|Nước ở đây nông.
+float|nổi|Wood can float on water.|Gỗ có thể nổi trên nước.
+sink|chìm; bồn rửa|The stone will sink quickly.|Hòn đá sẽ chìm nhanh.
+dolphin|cá heo|A dolphin swam next to our boat.|Một con cá heo đã bơi cạnh thuyền của chúng tôi.
+
+@p39|Thiên văn học|Hệ mặt trời, sao chổi, nhật thực, năm ánh sáng|Star
+solar system|hệ mặt trời|There are eight planets in the solar system.|Có tám hành tinh trong hệ mặt trời.
+comet|sao chổi|We saw a comet last night.|Tối qua chúng tôi đã thấy một ngôi sao chổi.
+eclipse|nhật thực, nguyệt thực|The eclipse lasted three minutes.|Nhật thực kéo dài ba phút.
+light year|năm ánh sáng|The star is one light year away.|Ngôi sao cách chúng ta một năm ánh sáng.
+asteroid|tiểu hành tinh|An asteroid passed close to the earth.|Một tiểu hành tinh đã bay qua gần trái đất.
+astronomy|thiên văn học|Astronomy is the study of the stars.|Thiên văn học là ngành nghiên cứu các vì sao.
+black hole|lỗ đen|Nothing can escape from a black hole.|Không gì có thể thoát khỏi lỗ đen.
+observe|quan sát|We observe the moon every night.|Chúng tôi quan sát mặt trăng mỗi đêm.
+spacecraft|tàu vũ trụ|The spacecraft landed on Mars.|Tàu vũ trụ đã hạ cánh xuống sao Hỏa.
+lunar|thuộc mặt trăng|Tet follows the lunar calendar.|Tết theo âm lịch.
+cosmic|thuộc vũ trụ|Cosmic dust covers the old satellite.|Bụi vũ trụ phủ lên vệ tinh cũ.
+horizon|đường chân trời|The sun went down below the horizon.|Mặt trời đã lặn xuống dưới đường chân trời.
+
+@p40|Vật lý|Lực, khối lượng, vận tốc, bức xạ|Phy
+force|lực; ép buộc|The force of the wind broke the window.|Sức gió đã làm vỡ cửa sổ.
+mass|khối lượng|The mass of the earth is very large.|Khối lượng của trái đất rất lớn.
+velocity|vận tốc|The car reached a high velocity.|Chiếc xe đã đạt vận tốc cao.
+radiation|bức xạ|Too much radiation is dangerous.|Quá nhiều bức xạ thì nguy hiểm.
+atom|nguyên tử|An atom is too small to see.|Nguyên tử quá nhỏ để nhìn thấy.
+particle|hạt|A particle of dust got in my eye.|Một hạt bụi đã bay vào mắt tôi.
+friction|lực ma sát|Friction makes the wheels hot.|Ma sát làm bánh xe nóng lên.
+magnet|nam châm|A magnet attracts iron.|Nam châm hút sắt.
+motion|sự chuyển động|The motion of the boat made me sick.|Chuyển động của con thuyền làm tôi say sóng.
+frequency|tần số, tần suất|The radio uses a different frequency.|Đài phát thanh dùng một tần số khác.
+vacuum|chân không; máy hút bụi|Sound cannot travel in a vacuum.|Âm thanh không thể truyền trong chân không.
+accelerate|tăng tốc|The car can accelerate very quickly.|Chiếc xe có thể tăng tốc rất nhanh.
+
+@p41|Hóa học|Nguyên tố, phân tử, phản ứng, axit|Chem
+element|nguyên tố; yếu tố|Gold is a chemical element.|Vàng là một nguyên tố hóa học.
+molecule|phân tử|A water molecule has three atoms.|Một phân tử nước có ba nguyên tử.
+reaction|phản ứng|The reaction produces heat.|Phản ứng tạo ra nhiệt.
+acid|axit|Lemon juice contains acid.|Nước chanh có chứa axit.
+oxygen|khí ô xy|We need oxygen to breathe.|Chúng ta cần ô xy để thở.
+hydrogen|khí hydro|Hydrogen is the lightest gas.|Hydro là khí nhẹ nhất.
+compound|hợp chất|Salt is a simple compound.|Muối là một hợp chất đơn giản.
+dissolve|hòa tan|Sugar will dissolve in hot water.|Đường sẽ tan trong nước nóng.
+solid|chất rắn; chắc chắn|Ice is water in solid form.|Băng là nước ở thể rắn.
+toxic|độc hại|The smoke is toxic.|Khói này độc hại.
+evaporate|bay hơi|Water will evaporate in the sun.|Nước sẽ bay hơi dưới nắng.
+substance|chất|This substance burns easily.|Chất này dễ cháy.
+
+@p42|Kỹ thuật|Cơ khí, mạch điện, bảo trì, thông số|Eng
+engineering|ngành kỹ thuật|He studies engineering in Hanoi.|Anh ấy học ngành kỹ thuật ở Hà Nội.
+mechanical|thuộc cơ khí|The plane had a mechanical problem.|Máy bay đã gặp sự cố cơ khí.
+circuit|mạch điện|There is a fault in the circuit.|Có lỗi trong mạch điện.
+maintenance|sự bảo trì|The lift is closed for maintenance.|Thang máy đóng để bảo trì.
+component|linh kiện, thành phần|One component of the engine is broken.|Một linh kiện của động cơ bị hỏng.
+specification|thông số kỹ thuật|Check the specification before you buy.|Hãy kiểm tra thông số kỹ thuật trước khi mua.
+assemble|lắp ráp|Workers assemble phones in this factory.|Công nhân lắp ráp điện thoại trong nhà máy này.
+pump|máy bơm; bơm|The pump brings water to the house.|Máy bơm đưa nước vào nhà.
+pipe|ống dẫn|A water pipe broke in the kitchen.|Một ống nước đã vỡ trong bếp.
+valve|van|Close the valve to stop the gas.|Hãy đóng van để ngắt ga.
+wire|dây điện, dây kim loại|Do not touch that wire.|Đừng chạm vào sợi dây điện đó.
+generator|máy phát điện|The hospital has its own generator.|Bệnh viện có máy phát điện riêng.
+
+@p43|Trí tuệ nhân tạo|Thuật toán, học máy, mô hình, tự động|AI
+algorithm|thuật toán|The algorithm chooses videos for you.|Thuật toán chọn video cho bạn.
+machine learning|học máy|Machine learning helps doctors read scans.|Học máy giúp bác sĩ đọc ảnh chụp.
+model|mô hình; người mẫu|The model can predict the weather.|Mô hình có thể dự báo thời tiết.
+automation|sự tự động hóa|Automation will change many jobs.|Tự động hóa sẽ thay đổi nhiều công việc.
+database|cơ sở dữ liệu|All names are stored in a database.|Mọi cái tên đều được lưu trong cơ sở dữ liệu.
+code|mã, mã lập trình|She can write code in three languages.|Cô ấy có thể viết mã bằng ba ngôn ngữ.
+programmer|lập trình viên|My brother is a programmer.|Anh trai tôi là lập trình viên.
+virtual|ảo|We had a virtual meeting yesterday.|Hôm qua chúng tôi đã họp trực tuyến.
+simulate|mô phỏng|The program can simulate a flight.|Chương trình có thể mô phỏng một chuyến bay.
+process|xử lý; quá trình|Computers process data very fast.|Máy tính xử lý dữ liệu rất nhanh.
+sensor|cảm biến|The sensor turns on the light.|Cảm biến bật đèn lên.
+interface|giao diện|The app has a simple interface.|Ứng dụng có giao diện đơn giản.
+
+@p44|An ninh mạng|Tin tặc, mã hóa, lừa đảo, sao lưu|Lock
+hacker|tin tặc|A hacker stole the passwords.|Một tin tặc đã đánh cắp các mật khẩu.
+encrypt|mã hóa|You should encrypt your files.|Bạn nên mã hóa các tập tin của mình.
+scam|trò lừa đảo|That email is a scam.|Email đó là một trò lừa đảo.
+backup|bản sao lưu|Keep a backup of your photos.|Hãy giữ một bản sao lưu ảnh của bạn.
+firewall|tường lửa|The firewall blocks dangerous sites.|Tường lửa chặn các trang web nguy hiểm.
+malware|phần mềm độc hại|The malware deleted all my files.|Phần mềm độc hại đã xóa hết tập tin của tôi.
+phishing|lừa đảo qua mạng để lấy thông tin|Phishing emails try to steal your password.|Email lừa đảo tìm cách đánh cắp mật khẩu của bạn.
+authenticate|xác thực|You must authenticate with your phone.|Bạn phải xác thực bằng điện thoại.
+access|quyền truy cập; truy cập|Only teachers have access to this room.|Chỉ giáo viên mới được vào phòng này.
+spam|thư rác|I get too much spam every day.|Ngày nào tôi cũng nhận quá nhiều thư rác.
+surveillance|sự giám sát|The shop has video surveillance.|Cửa hàng có camera giám sát.
+log in|đăng nhập|Please log in with your email.|Vui lòng đăng nhập bằng email của bạn.
+
+@p45|Công nghệ sinh học|Biến đổi gen, tế bào gốc, vi khuẩn, lên men|Gen
+biotechnology|công nghệ sinh học|Biotechnology helps farmers grow more food.|Công nghệ sinh học giúp nông dân trồng được nhiều lương thực hơn.
+modify|chỉnh sửa, biến đổi|Scientists can modify the genes of plants.|Các nhà khoa học có thể biến đổi gen của cây trồng.
+stem cell|tế bào gốc|A stem cell can become any other cell.|Tế bào gốc có thể trở thành bất kỳ tế bào nào khác.
+bacteria|vi khuẩn|Some bacteria are good for your stomach.|Một số vi khuẩn tốt cho dạ dày của bạn.
+ferment|lên men|Farmers ferment fish to make sauce.|Nông dân lên men cá để làm nước mắm.
+enzyme|men, enzim|This enzyme helps you digest milk.|Enzim này giúp bạn tiêu hóa sữa.
+digest|tiêu hóa|Rice is easy to digest.|Cơm dễ tiêu hóa.
+synthetic|tổng hợp, nhân tạo|This shirt is made of synthetic material.|Chiếc áo này làm bằng chất liệu tổng hợp.
+pesticide|thuốc trừ sâu|The farmer does not use any pesticide.|Người nông dân không dùng thuốc trừ sâu.
+fertilizer|phân bón|Too much fertilizer harms the river.|Quá nhiều phân bón gây hại cho dòng sông.
+yield|sản lượng; mang lại|The rice yield was high this year.|Sản lượng lúa năm nay cao.
+resistant|kháng, chống chịu|This plant is resistant to disease.|Loại cây này kháng bệnh.
+
+@p46|Vật liệu|Sợi, nhựa, hợp kim, bền, dẻo|Mat
+fiber|sợi; chất xơ|Vegetables contain a lot of fiber.|Rau chứa nhiều chất xơ.
+alloy|hợp kim|Steel is an alloy of iron.|Thép là một hợp kim của sắt.
+durable|bền|These shoes are very durable.|Đôi giày này rất bền.
+flexible|dẻo, linh hoạt|My working hours are flexible.|Giờ làm việc của tôi linh hoạt.
+fragile|dễ vỡ|Be careful, the glass is fragile.|Cẩn thận, cái ly dễ vỡ.
+rubber|cao su|The tires are made of rubber.|Lốp xe làm bằng cao su.
+leather|da thuộc|He bought a leather bag.|Anh ấy đã mua một chiếc túi da.
+cotton|bông, vải cotton|This shirt is made of cotton.|Chiếc áo này làm bằng vải cotton.
+silk|lụa|Vietnam is famous for its silk.|Việt Nam nổi tiếng về lụa.
+rust|gỉ sét|The old gate is covered with rust.|Cánh cổng cũ phủ đầy gỉ sét.
+layer|lớp|There is a thin layer of dust on the table.|Có một lớp bụi mỏng trên bàn.
+surface|bề mặt|The surface of the lake is calm.|Mặt hồ phẳng lặng.
+
+@p47|Toán học|Phương trình, phân số, hình học, góc|Math
+equation|phương trình|Can you solve this equation?|Bạn có giải được phương trình này không?
+fraction|phân số; phần nhỏ|One half is a simple fraction.|Một phần hai là một phân số đơn giản.
+geometry|hình học|We learn about circles in geometry.|Chúng tôi học về hình tròn trong môn hình học.
+angle|góc|The angle is ninety degrees.|Góc này là chín mươi độ.
+multiply|nhân|Multiply six by seven.|Hãy nhân sáu với bảy.
+divide|chia|Divide the cake into eight pieces.|Hãy chia chiếc bánh thành tám miếng.
+subtract|trừ|Subtract five from twelve.|Hãy lấy mười hai trừ năm.
+circle|hình tròn|The children sat in a circle.|Bọn trẻ ngồi thành vòng tròn.
+triangle|hình tam giác|A triangle has three sides.|Hình tam giác có ba cạnh.
+formula|công thức|I cannot remember the formula.|Tôi không thể nhớ công thức.
+decimal|số thập phân|Write the answer as a decimal.|Hãy viết đáp số dưới dạng số thập phân.
+diameter|đường kính|The diameter of the table is one meter.|Đường kính của cái bàn là một mét.
+
+@p48|Địa chất|Đá, trầm tích, mảng kiến tạo, hóa thạch|Rock
+geology|địa chất học|Geology is the study of rocks.|Địa chất học là ngành nghiên cứu về đá.
+fossil|hóa thạch|They found a fossil of a fish.|Họ đã tìm thấy hóa thạch của một con cá.
+rock|đá, tảng đá|We sat on a big rock by the sea.|Chúng tôi ngồi trên một tảng đá lớn bên bờ biển.
+sediment|trầm tích|The river carries sediment to the sea.|Con sông mang trầm tích ra biển.
+crater|miệng núi lửa, hố lớn|There is a lake in the crater.|Có một cái hồ trong miệng núi lửa.
+erupt|phun trào|The volcano may erupt again.|Núi lửa có thể phun trào lần nữa.
+lava|dung nham|Hot lava ran down the mountain.|Dung nham nóng chảy xuống núi.
+cliff|vách đá|Do not stand near the cliff.|Đừng đứng gần vách đá.
+canyon|hẻm núi|The river runs through a deep canyon.|Con sông chảy qua một hẻm núi sâu.
+crystal|pha lê, tinh thể|The water is as clear as crystal.|Nước trong như pha lê.
+landslide|vụ lở đất|A landslide blocked the road.|Một vụ lở đất đã chặn con đường.
+plateau|cao nguyên|Da Lat is on a high plateau.|Đà Lạt nằm trên một cao nguyên.
