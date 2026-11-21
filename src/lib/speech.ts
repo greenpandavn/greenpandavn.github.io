@@ -69,6 +69,40 @@ export function speak(text: string, opts: { slow?: boolean; onEnd?: () => void }
   setTimeout(() => synth.speak(u), 30);
 }
 
+/**
+ * Speak several English (en-US) sentences one after another, e.g. a TOEIC conversation.
+ * One utterance per sentence, because some browsers cut a long utterance short.
+ */
+export function speakSeq(parts: string[], opts: { onEnd?: () => void } = {}) {
+  if (!ttsSupported()) {
+    opts.onEnd?.();
+    return;
+  }
+  if (!voicesLoaded) pickVoice();
+  const synth = window.speechSynthesis;
+  synth.cancel();
+  const list = parts.flatMap((p) => p.match(/[^.!?]+[.!?]+["”’]?|[^.!?]+$/g) ?? []).map((x) => x.trim()).filter(Boolean);
+  const utterances = list.map((text, i) => {
+    const u = new SpeechSynthesisUtterance(text);
+    u.lang = enVoice?.lang || 'en-US';
+    if (enVoice) u.voice = enVoice;
+    u.rate = Math.max(rate, 0.9);
+    if (i === list.length - 1) u.onend = () => opts.onEnd?.();
+    u.onerror = (e) => {
+      if (e.error === 'interrupted' || e.error === 'canceled') return;
+      opts.onEnd?.();
+      window.dispatchEvent(new CustomEvent('tts-error'));
+    };
+    return u;
+  });
+  if (!utterances.length) opts.onEnd?.();
+  setTimeout(() => utterances.forEach((u) => synth.speak(u)), 30);
+}
+/** Stop whatever is being spoken. */
+export const stopSpeaking = () => {
+  if (ttsSupported()) window.speechSynthesis.cancel();
+};
+
 // ---- Speech recognition (best effort) ----
 type Rec = {
   lang: string;
