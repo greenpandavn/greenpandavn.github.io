@@ -1,0 +1,228 @@
+# Khóa tiếng Anh cho người Việt – trình độ chuyên sâu (level 5).
+# Cùng định dạng với english.txt.
+
+%501|5|Phần 1: Học thuật và chuyên ngành|Nghiên cứu, ngôn ngữ, lịch sử, luật, tài chính, ngoại giao|leaf
+@x01|Phương pháp nghiên cứu|Mẫu, biến số, định tính, định lượng|Method
+methodology|phương pháp luận|The methodology is explained in chapter two.|Phương pháp luận được giải thích ở chương hai.
+qualitative|định tính|We used qualitative interviews with ten teachers.|Chúng tôi dùng phỏng vấn định tính với mười giáo viên.
+quantitative|định lượng|The quantitative data came from a large survey.|Dữ liệu định lượng đến từ một cuộc khảo sát lớn.
+empirical|thực nghiệm, dựa trên quan sát|There is little empirical evidence for this idea.|Có rất ít bằng chứng thực nghiệm cho ý tưởng này.
+longitudinal|theo chiều dọc thời gian, dài hạn|A longitudinal study followed the children for ten years.|Một nghiên cứu dài hạn đã theo dõi bọn trẻ suốt mười năm.
+questionnaire|bảng câu hỏi|Please fill in the questionnaire before you leave.|Vui lòng điền bảng câu hỏi trước khi bạn rời đi.
+respondent|người trả lời khảo sát|Every respondent was over eighteen.|Mọi người trả lời khảo sát đều trên mười tám tuổi.
+replicate|lặp lại (thí nghiệm), tái tạo|Other teams could not replicate the results.|Các nhóm khác không thể lặp lại kết quả đó.
+anecdotal|mang tính giai thoại, không có hệ thống|The evidence is only anecdotal.|Bằng chứng chỉ mang tính giai thoại.
+caveat|lời cảnh báo, điều lưu ý|There is one caveat to this conclusion.|Có một điều cần lưu ý với kết luận này.
+rigorous|chặt chẽ, nghiêm ngặt|The drug passed rigorous tests.|Loại thuốc đã vượt qua các thử nghiệm nghiêm ngặt.
+tentative|tạm thời, chưa chắc chắn|These are only tentative findings.|Đây mới chỉ là những phát hiện tạm thời.
+
+@x02|Xuất bản học thuật|Tạp chí, bình duyệt, bản thảo, chú thích|Journal
+manuscript|bản thảo|She sent the manuscript to three publishers.|Cô ấy gửi bản thảo cho ba nhà xuất bản.
+footnote|chú thích cuối trang|The source is given in a footnote.|Nguồn được ghi trong chú thích cuối trang.
+appendix|phụ lục|The full tables are in the appendix.|Các bảng đầy đủ nằm ở phần phụ lục.
+bibliography|thư mục tài liệu|The bibliography lists over a hundred books.|Thư mục liệt kê hơn một trăm cuốn sách.
+monograph|chuyên khảo|He published a monograph on medieval trade.|Ông ấy xuất bản một chuyên khảo về thương mại thời trung cổ.
+dissertation|luận án|Her dissertation took four years to finish.|Luận án của cô ấy mất bốn năm để hoàn thành.
+reviewer|người bình duyệt, người nhận xét|One reviewer asked for more data.|Một người bình duyệt yêu cầu thêm dữ liệu.
+erratum|đính chính (lỗi in)|The journal printed an erratum last month.|Tạp chí đã in một bản đính chính vào tháng trước.
+preface|lời nói đầu|The author thanks her family in the preface.|Tác giả cảm ơn gia đình trong lời nói đầu.
+glossary|bảng chú giải thuật ngữ|Look up the term in the glossary.|Hãy tra thuật ngữ đó trong bảng chú giải.
+excerpt|đoạn trích|We read an excerpt from the novel in class.|Chúng tôi đọc một đoạn trích của cuốn tiểu thuyết trên lớp.
+annotate|chú giải, ghi chú thêm|Students annotate the text as they read.|Sinh viên ghi chú vào văn bản khi đọc.
+
+@x03|Ngôn ngữ học|Ngữ pháp, ngữ âm, phương ngữ, cú pháp|Language
+syntax|cú pháp|English syntax is different from Vietnamese syntax.|Cú pháp tiếng Anh khác cú pháp tiếng Việt.
+phonetics|ngữ âm học|Phonetics helps you pronounce new sounds.|Ngữ âm học giúp bạn phát âm những âm mới.
+dialect|phương ngữ, tiếng địa phương|My grandmother speaks a northern dialect.|Bà tôi nói một phương ngữ miền Bắc.
+vowel|nguyên âm|This word begins with a vowel.|Từ này bắt đầu bằng một nguyên âm.
+consonant|phụ âm|The last consonant is silent.|Phụ âm cuối là âm câm.
+syllable|âm tiết|Stress the second syllable.|Hãy nhấn vào âm tiết thứ hai.
+intonation|ngữ điệu|Her intonation rises at the end of a question.|Ngữ điệu của cô ấy lên cao ở cuối câu hỏi.
+bilingual|song ngữ|Their children are bilingual.|Con cái họ nói được hai thứ tiếng.
+idiom|thành ngữ|This idiom is hard to translate.|Thành ngữ này khó dịch.
+etymology|từ nguyên học, nguồn gốc của từ|The etymology of this word is unknown.|Nguồn gốc của từ này chưa được biết.
+morphology|hình thái học|Morphology studies how words are built.|Hình thái học nghiên cứu cách các từ được cấu tạo.
+lexicon|vốn từ vựng, từ điển|New technical terms enter the lexicon every year.|Mỗi năm có những thuật ngữ kỹ thuật mới đi vào vốn từ vựng.
+
+@x04|Lịch sử|Triều đại, đế chế, cách mạng, biên niên|History
+dynasty|triều đại|The dynasty ruled for three hundred years.|Triều đại đó trị vì ba trăm năm.
+empire|đế chế|The empire stretched across two continents.|Đế chế trải dài trên hai châu lục.
+monarch|quốc vương, vua|The monarch has little real power today.|Ngày nay quốc vương có rất ít thực quyền.
+conquest|cuộc chinh phục|The conquest of the island took two years.|Cuộc chinh phục hòn đảo mất hai năm.
+uprising|cuộc nổi dậy|The uprising began in the capital.|Cuộc nổi dậy bắt đầu ở thủ đô.
+feudal|phong kiến|Farmers had few rights in feudal times.|Nông dân có rất ít quyền trong thời phong kiến.
+medieval|thuộc thời trung cổ|We visited a medieval castle.|Chúng tôi đã thăm một lâu đài thời trung cổ.
+chronicle|biên niên sử|The chronicle describes the great fire.|Cuốn biên niên sử mô tả trận hỏa hoạn lớn.
+abolish|bãi bỏ, xóa bỏ|The country voted to abolish the old law.|Đất nước đã bỏ phiếu bãi bỏ đạo luật cũ.
+successor|người kế vị, người kế nhiệm|The king named his daughter as his successor.|Nhà vua chỉ định con gái làm người kế vị.
+reign|triều đại, thời gian trị vì; trị vì|Her reign lasted sixty years.|Thời gian trị vì của bà kéo dài sáu mươi năm.
+colonial|thuộc địa, thời thuộc địa|The city has many colonial buildings.|Thành phố có nhiều tòa nhà thời thuộc địa.
+
+@x05|Khảo cổ học|Khai quật, di vật, hóa thạch, tàn tích|Dig
+excavate|khai quật|They plan to excavate the site next spring.|Họ dự định khai quật địa điểm này vào mùa xuân tới.
+artifact|hiện vật, đồ tạo tác|Each artifact is cleaned and photographed.|Mỗi hiện vật đều được làm sạch và chụp ảnh.
+relic|di vật, thánh tích|The museum keeps a relic from the old temple.|Bảo tàng lưu giữ một di vật từ ngôi đền cổ.
+ruins|tàn tích, phế tích|Tourists walk among the ruins at sunset.|Du khách đi dạo giữa tàn tích lúc hoàng hôn.
+tomb|lăng mộ|The tomb was closed for two thousand years.|Lăng mộ đã bị đóng kín suốt hai nghìn năm.
+pottery|đồ gốm|Pieces of pottery were found near the river.|Những mảnh gốm được tìm thấy gần con sông.
+inscription|chữ khắc, bia ký|Nobody can read the inscription on the stone.|Không ai đọc được dòng chữ khắc trên đá.
+prehistoric|tiền sử|These are prehistoric cave paintings.|Đây là những bức tranh hang động thời tiền sử.
+skeleton|bộ xương|A complete skeleton lay under the floor.|Một bộ xương hoàn chỉnh nằm dưới sàn nhà.
+burial|sự chôn cất, mai táng|The burial took place at dawn.|Lễ chôn cất diễn ra lúc bình minh.
+antiquity|thời cổ đại; đồ cổ|The city was famous in antiquity.|Thành phố này nổi tiếng từ thời cổ đại.
+unearth|đào lên, phát hiện ra|Workers happened to unearth a gold coin.|Công nhân tình cờ đào được một đồng tiền vàng.
+
+@x06|Nhân học|Bộ tộc, nghi lễ, họ hàng, tục lệ|Tribe
+tribe|bộ tộc, bộ lạc|The tribe lives deep in the forest.|Bộ tộc đó sống sâu trong rừng.
+ritual|nghi lễ, nghi thức|The ritual is held every full moon.|Nghi lễ được tổ chức vào mỗi kỳ trăng tròn.
+kinship|quan hệ họ hàng|Kinship is very important in village life.|Quan hệ họ hàng rất quan trọng trong đời sống làng quê.
+ancestral|thuộc về tổ tiên|They returned to their ancestral home.|Họ trở về quê cha đất tổ.
+nomadic|du mục|Nomadic families move with their animals.|Các gia đình du mục di chuyển cùng đàn gia súc.
+clan|thị tộc, gia tộc|The whole clan gathered for the wedding.|Cả gia tộc tụ họp trong đám cưới.
+folklore|văn hóa dân gian|The wolf appears often in local folklore.|Con sói thường xuất hiện trong văn hóa dân gian địa phương.
+taboo|điều cấm kỵ|Talking about money is a taboo in that family.|Nói chuyện tiền bạc là điều cấm kỵ trong gia đình đó.
+shaman|thầy cúng, pháp sư|The shaman sang over the sick child.|Thầy cúng hát bên đứa trẻ bị ốm.
+lineage|dòng dõi|He can trace his lineage back four hundred years.|Ông ấy có thể truy dòng dõi của mình về bốn trăm năm trước.
+dowry|của hồi môn|Her dowry included land and cattle.|Của hồi môn của cô ấy gồm đất và gia súc.
+rite|lễ nghi|This rite marks the start of adult life.|Lễ nghi này đánh dấu sự bắt đầu của tuổi trưởng thành.
+
+@x07|Luật chuyên sâu|Án lệ, bị đơn, kháng cáo, bồi thường|Court
+plaintiff|nguyên đơn|The plaintiff asked for one million dollars.|Nguyên đơn đòi một triệu đô la.
+tort|hành vi gây thiệt hại ngoài hợp đồng|Negligence is the most common tort.|Sơ suất là hành vi gây thiệt hại ngoài hợp đồng phổ biến nhất.
+precedent|án lệ, tiền lệ|This case sets an important precedent.|Vụ án này tạo ra một tiền lệ quan trọng.
+affidavit|bản khai có tuyên thệ|She signed an affidavit in front of a lawyer.|Cô ấy ký bản khai có tuyên thệ trước mặt luật sư.
+subpoena|trát đòi ra tòa|He received a subpoena to appear on Monday.|Anh ấy nhận được trát đòi ra tòa vào thứ Hai.
+injunction|lệnh cấm của tòa|The court issued an injunction against the factory.|Tòa án ban hành lệnh cấm đối với nhà máy.
+litigation|việc kiện tụng|Litigation can take many years.|Việc kiện tụng có thể kéo dài nhiều năm.
+testify|làm chứng trước tòa|Two neighbors agreed to testify.|Hai người hàng xóm đồng ý ra làm chứng.
+acquit|tuyên trắng án|The jury decided to acquit him.|Bồi thẩm đoàn quyết định tuyên anh ta trắng án.
+indict|truy tố|Prosecutors may indict the former mayor.|Các công tố viên có thể truy tố cựu thị trưởng.
+bailiff|thừa phát lại, nhân viên tòa án|The bailiff led the witness into the room.|Nhân viên tòa án dẫn nhân chứng vào phòng.
+perjury|tội khai man|Lying in court is called perjury.|Nói dối trước tòa được gọi là tội khai man.
+
+@x08|Kế toán và kiểm toán|Sổ sách, khấu hao, bảng cân đối|Ledger
+ledger|sổ cái|Every payment is written in the ledger.|Mọi khoản thanh toán đều được ghi vào sổ cái.
+auditor|kiểm toán viên|The auditor found two small errors.|Kiểm toán viên tìm thấy hai lỗi nhỏ.
+depreciation|khấu hao|Depreciation reduces the value of the machines each year.|Khấu hao làm giảm giá trị máy móc mỗi năm.
+receivable|khoản phải thu|This receivable is ninety days late.|Khoản phải thu này đã trễ chín mươi ngày.
+payable|phải trả|The invoice is payable within thirty days.|Hóa đơn phải được thanh toán trong vòng ba mươi ngày.
+accrual|khoản dồn tích|The accrual is recorded at the end of the month.|Khoản dồn tích được ghi nhận vào cuối tháng.
+solvent|có khả năng thanh toán|The company is still solvent.|Công ty vẫn còn khả năng thanh toán.
+write-off|khoản xóa sổ|The bank announced a large write-off.|Ngân hàng công bố một khoản xóa sổ lớn.
+reconcile|đối chiếu; hòa giải|We reconcile the accounts every Friday.|Chúng tôi đối chiếu sổ sách vào mỗi thứ Sáu.
+overhead|chi phí chung|Rent is our biggest overhead.|Tiền thuê là chi phí chung lớn nhất của chúng tôi.
+amortize|trả dần, khấu hao dần|We amortize the loan over ten years.|Chúng tôi trả dần khoản vay trong mười năm.
+bookkeeping|công việc ghi sổ kế toán|Good bookkeeping saves time at tax season.|Ghi sổ kế toán tốt giúp tiết kiệm thời gian vào mùa thuế.
+
+
+@x09|Ngân hàng đầu tư|Chứng khoán, phái sinh, bảo lãnh phát hành|Bank
+underwrite|bảo lãnh phát hành|Two banks agreed to underwrite the share sale.|Hai ngân hàng đồng ý bảo lãnh đợt bán cổ phần.
+derivative|công cụ phái sinh|A derivative gets its value from another asset.|Công cụ phái sinh có giá trị dựa trên một tài sản khác.
+arbitrage|kinh doanh chênh lệch giá|The fund makes money through arbitrage.|Quỹ kiếm tiền nhờ kinh doanh chênh lệch giá.
+leverage|đòn bẩy tài chính|Too much leverage makes a company fragile.|Quá nhiều đòn bẩy tài chính khiến công ty dễ đổ vỡ.
+liquidate|thanh lý|The owners decided to liquidate the business.|Các chủ sở hữu quyết định thanh lý doanh nghiệp.
+prospectus|bản cáo bạch|Read the prospectus before you buy shares.|Hãy đọc bản cáo bạch trước khi mua cổ phiếu.
+syndicate|tổ hợp, nghiệp đoàn tài chính|A syndicate of banks financed the bridge.|Một tổ hợp ngân hàng đã tài trợ cho cây cầu.
+hedge|phòng ngừa rủi ro; hàng rào|Investors buy gold to hedge against inflation.|Nhà đầu tư mua vàng để phòng ngừa lạm phát.
+divest|thoái vốn|The group will divest its hotel business.|Tập đoàn sẽ thoái vốn khỏi mảng khách sạn.
+tranche|đợt, phần (của khoản vay)|The first tranche of the loan arrives in May.|Đợt đầu tiên của khoản vay sẽ đến vào tháng Năm.
+escrow|ký quỹ qua bên thứ ba|The money stays in escrow until the sale is complete.|Tiền được giữ ở tài khoản ký quỹ cho đến khi giao dịch hoàn tất.
+covenant|điều khoản cam kết|The loan includes a strict covenant.|Khoản vay có kèm một điều khoản cam kết chặt chẽ.
+
+@x10|Bảo hiểm|Phí, bồi thường, rủi ro, người thụ hưởng|Insure
+premium|phí bảo hiểm|My car insurance premium went up this year.|Phí bảo hiểm xe của tôi tăng trong năm nay.
+deductible|mức khấu trừ|The deductible is five hundred dollars.|Mức khấu trừ là năm trăm đô la.
+beneficiary|người thụ hưởng|His wife is the only beneficiary.|Vợ ông ấy là người thụ hưởng duy nhất.
+actuary|chuyên viên định phí bảo hiểm|An actuary calculates the risk of each policy.|Chuyên viên định phí tính toán rủi ro của từng hợp đồng.
+indemnity|khoản bồi thường|The contract includes an indemnity for damage.|Hợp đồng có khoản bồi thường cho thiệt hại.
+policyholder|người mua bảo hiểm|Each policyholder gets a yearly statement.|Mỗi người mua bảo hiểm nhận được bản kê hằng năm.
+claimant|người yêu cầu bồi thường|The claimant sent photos of the accident.|Người yêu cầu bồi thường gửi ảnh về vụ tai nạn.
+exclusion|điều khoản loại trừ|Flood damage is an exclusion in this policy.|Thiệt hại do lũ là điều khoản loại trừ trong hợp đồng này.
+annuity|niên kim|She receives an annuity every month.|Bà ấy nhận một khoản niên kim mỗi tháng.
+surcharge|phụ phí|There is a surcharge for young drivers.|Có một khoản phụ phí cho tài xế trẻ.
+reimburse|hoàn trả|The company will reimburse your travel costs.|Công ty sẽ hoàn trả chi phí đi lại của bạn.
+lapse|hết hiệu lực; sự sai sót nhỏ|Do not let your policy lapse.|Đừng để hợp đồng bảo hiểm của bạn hết hiệu lực.
+
+@x11|Bất động sản|Thế chấp, chủ đất, người thuê, định giá|Property
+conveyancing|thủ tục chuyển nhượng nhà đất|Conveyancing usually takes about eight weeks.|Thủ tục chuyển nhượng nhà đất thường mất khoảng tám tuần.
+tenancy|thời hạn thuê nhà|The tenancy ends in December.|Thời hạn thuê kết thúc vào tháng Mười hai.
+freehold|quyền sở hữu vĩnh viễn|They bought the freehold of the shop.|Họ mua quyền sở hữu vĩnh viễn của cửa hàng.
+leasehold|quyền thuê dài hạn|The flat is sold as a leasehold.|Căn hộ được bán theo dạng quyền thuê dài hạn.
+foreclosure|tịch thu tài sản thế chấp|The family lost the house through foreclosure.|Gia đình mất căn nhà do bị tịch thu tài sản thế chấp.
+escalator|thang cuốn|Take the escalator to the second floor.|Hãy đi thang cuốn lên tầng hai.
+zoning|quy hoạch phân khu|Zoning rules forbid factories here.|Quy định phân khu cấm xây nhà máy ở đây.
+evict|đuổi khỏi nhà thuê|He cannot evict them without a court order.|Ông ta không thể đuổi họ nếu không có lệnh của tòa.
+refurbish|tân trang, sửa sang lại|They plan to refurbish the old hotel.|Họ dự định tân trang khách sạn cũ.
+acreage|diện tích đất (tính bằng mẫu Anh)|The farm has a large acreage.|Trang trại có diện tích đất lớn.
+surveyor|người khảo sát, đo đạc|A surveyor measured the garden.|Một người đo đạc đã đo khu vườn.
+deed|chứng thư, giấy tờ nhà đất|Keep the deed in a safe place.|Hãy cất giấy tờ nhà đất ở nơi an toàn.
+
+@x12|Ngoại giao|Đại sứ, hiệp ước, lãnh sự, nghị định thư|Embassy
+envoy|đặc phái viên|The president sent an envoy to the talks.|Tổng thống cử một đặc phái viên đến cuộc đàm phán.
+consulate|lãnh sự quán|You can renew your passport at the consulate.|Bạn có thể gia hạn hộ chiếu tại lãnh sự quán.
+attaché|tùy viên|The cultural attaché opened the exhibition.|Tùy viên văn hóa khai mạc triển lãm.
+communiqué|thông cáo chính thức|The leaders issued a joint communiqué.|Các nhà lãnh đạo ra một thông cáo chung.
+protocol|nghi thức; nghị định thư|Protocol says the guest speaks first.|Theo nghi thức, khách phát biểu trước.
+accord|hiệp định|The peace accord was signed in Paris.|Hiệp định hòa bình được ký tại Paris.
+bilateral|song phương|The two countries held bilateral talks.|Hai nước tổ chức đàm phán song phương.
+ratify|phê chuẩn|Parliament must ratify the agreement.|Quốc hội phải phê chuẩn hiệp định.
+emissary|sứ giả|An emissary carried the letter to the king.|Một sứ giả mang bức thư đến cho nhà vua.
+détente|sự hòa dịu (quan hệ)|A period of détente followed the crisis.|Một thời kỳ hòa dịu tiếp sau cuộc khủng hoảng.
+rapprochement|sự nối lại quan hệ hữu hảo|The visit was a sign of rapprochement.|Chuyến thăm là dấu hiệu của sự nối lại quan hệ hữu hảo.
+extradite|dẫn độ|The government refused to extradite him.|Chính phủ từ chối dẫn độ ông ta.
+
+@x13|Quân sự|Quân đội, chiến dịch, tình báo, hậu cần|Army
+infantry|bộ binh|The infantry crossed the river at night.|Bộ binh vượt sông vào ban đêm.
+artillery|pháo binh|Artillery fire could be heard all day.|Tiếng pháo có thể nghe thấy suốt cả ngày.
+battalion|tiểu đoàn|The battalion returned home in March.|Tiểu đoàn trở về nhà vào tháng Ba.
+garrison|đồn trú, đơn vị đồn trú|A small garrison guards the port.|Một đơn vị đồn trú nhỏ canh giữ cảng.
+reconnaissance|trinh sát|A drone flew a reconnaissance mission.|Một máy bay không người lái thực hiện nhiệm vụ trinh sát.
+ambush|cuộc phục kích|The convoy drove into an ambush.|Đoàn xe đi vào một cuộc phục kích.
+siege|cuộc bao vây|The siege lasted eight months.|Cuộc bao vây kéo dài tám tháng.
+truce|thỏa thuận ngừng bắn tạm thời|Both sides agreed to a short truce.|Cả hai bên đồng ý ngừng bắn trong thời gian ngắn.
+conscript|lính nghĩa vụ; bắt đi lính|Each conscript serves for one year.|Mỗi lính nghĩa vụ phục vụ một năm.
+veteran|cựu chiến binh|My uncle is a veteran of two wars.|Chú tôi là cựu chiến binh của hai cuộc chiến.
+deploy|triển khai|The army will deploy more troops to the border.|Quân đội sẽ triển khai thêm lính đến biên giới.
+barracks|doanh trại|The soldiers returned to the barracks at six.|Những người lính trở về doanh trại lúc sáu giờ.
+
+@x14|Hành chính công|Quan liêu, công chức, sắc lệnh, ngân sách|Office
+bureaucracy|bộ máy quan liêu|The bureaucracy slows every decision.|Bộ máy quan liêu làm chậm mọi quyết định.
+ordinance|pháp lệnh, quy định địa phương|A city ordinance bans loud music after ten.|Một quy định của thành phố cấm nhạc ồn sau mười giờ.
+decree|sắc lệnh|The decree takes effect tomorrow.|Sắc lệnh có hiệu lực từ ngày mai.
+municipal|thuộc thành phố, đô thị|The municipal library opens at nine.|Thư viện thành phố mở cửa lúc chín giờ.
+constituency|khu vực bầu cử|She represents a rural constituency.|Bà ấy đại diện cho một khu vực bầu cử nông thôn.
+ombudsman|thanh tra viên tiếp nhận khiếu nại|You can complain to the ombudsman.|Bạn có thể khiếu nại với thanh tra viên.
+levy|khoản thuế; đánh thuế|The city plans a new levy on plastic bags.|Thành phố dự định đánh một khoản thuế mới lên túi ni lông.
+statute|đạo luật thành văn|The statute was passed in 1998.|Đạo luật được thông qua năm 1998.
+tender|gói thầu; mời thầu|Three firms answered the tender for the road.|Ba công ty đã tham gia gói thầu làm đường.
+mandate|sự ủy nhiệm, nhiệm kỳ được giao|The new mayor has a clear mandate.|Thị trưởng mới có sự ủy nhiệm rõ ràng của cử tri.
+oversight|sự giám sát; sơ suất|The project needs stronger oversight.|Dự án cần được giám sát chặt chẽ hơn.
+incumbent|người đương nhiệm|The incumbent lost by two hundred votes.|Người đương nhiệm thua với cách biệt hai trăm phiếu.
+
+@x15|Tôn giáo và thần thoại|Thần linh, kinh sách, hành hương, truyền thuyết|Temple
+deity|vị thần|Each river had its own deity.|Mỗi con sông có một vị thần riêng.
+scripture|kinh sách|He reads scripture every morning.|Ông ấy đọc kinh sách mỗi sáng.
+pilgrimage|cuộc hành hương|They made a pilgrimage to the holy mountain.|Họ thực hiện một cuộc hành hương lên núi thiêng.
+monastery|tu viện|The monastery stands on a high cliff.|Tu viện nằm trên một vách đá cao.
+sermon|bài giảng đạo|The sermon lasted twenty minutes.|Bài giảng đạo kéo dài hai mươi phút.
+clergy|giới tăng lữ, giáo sĩ|The clergy led the procession.|Giới tăng lữ dẫn đầu đám rước.
+sacred|thiêng liêng|This tree is sacred to the villagers.|Cái cây này thiêng liêng với dân làng.
+heresy|dị giáo|His ideas were called heresy at the time.|Thời đó tư tưởng của ông bị gọi là dị giáo.
+mythology|thần thoại|Greek mythology is full of heroes.|Thần thoại Hy Lạp có rất nhiều anh hùng.
+omen|điềm báo|A black cat is seen as a bad omen.|Mèo đen bị coi là điềm xấu.
+prophecy|lời tiên tri|The prophecy said the city would fall.|Lời tiên tri nói rằng thành phố sẽ sụp đổ.
+reincarnation|sự luân hồi, đầu thai|Many people believe in reincarnation.|Nhiều người tin vào sự luân hồi.
+
+@x16|Giáo dục học|Sư phạm, chương trình, đánh giá, năng lực|Teach
+pedagogy|khoa sư phạm, phương pháp giảng dạy|Good pedagogy starts with clear goals.|Phương pháp giảng dạy tốt bắt đầu từ mục tiêu rõ ràng.
+syllabus|đề cương môn học|The syllabus lists all the reading for the term.|Đề cương liệt kê toàn bộ tài liệu đọc của học kỳ.
+rubric|bảng tiêu chí chấm điểm|The teacher shared the rubric before the test.|Giáo viên chia sẻ bảng tiêu chí chấm điểm trước bài kiểm tra.
+didactic|mang tính giáo huấn|The story is too didactic for young readers.|Câu chuyện quá mang tính giáo huấn đối với độc giả nhỏ tuổi.
+numeracy|khả năng tính toán|The course builds basic numeracy.|Khóa học xây dựng khả năng tính toán cơ bản.
+aptitude|năng khiếu|She shows a real aptitude for languages.|Cô ấy thể hiện năng khiếu thật sự về ngôn ngữ.
+remedial|phụ đạo, bổ túc|He takes a remedial class in math.|Cậu ấy học lớp phụ đạo môn toán.
+invigilate|coi thi|Two teachers invigilate each exam.|Hai giáo viên coi mỗi buổi thi.
+sabbatical|kỳ nghỉ phép dài để nghiên cứu|The professor is on sabbatical this year.|Năm nay giáo sư đang nghỉ phép để nghiên cứu.
+truancy|sự trốn học|Truancy fell after the new program began.|Tình trạng trốn học giảm sau khi chương trình mới bắt đầu.
+alumnus|cựu sinh viên|He is an alumnus of this university.|Ông ấy là cựu sinh viên của trường đại học này.
+proficiency|sự thành thạo|The job requires proficiency in English.|Công việc đòi hỏi sự thành thạo tiếng Anh.
