@@ -1,9 +1,16 @@
 import { useCallback, useMemo, useRef, useState } from 'react';
 import type { Word } from '../types';
-import { LESSON_BY_ID } from '../data';
+import { CORE_LESSONS, LESSON_BY_ID, UNITS } from '../data';
+import type { Certificate } from '../types';
+import { getAccount } from '../lib/account';
+import CertificateView from '../components/CertificateView';
+import ShareButton from '../components/ShareButton';
+import Footer from '../components/Footer';
+import { shareText } from '../lib/share';
 import {
   buildLesson,
   buildReview,
+  buildTest,
   exerciseWords,
   makeExercise,
   makeRetry,
@@ -27,6 +34,7 @@ import {
   completeLesson,
   getProgress,
   noteCombo,
+  recordTest,
   recordAnswer,
   spendGems,
   updateProgress,
@@ -41,7 +49,7 @@ import { BadgeGlyph, Bolt, Close, Flame, Gem, Heart, Check } from '../components
 import type { CheckResult } from '../exercises/types';
 import { ArrangeEx, CharEx, IntroCard, ListenEx, MatchEx, MeaningEx, SpeakEx, TypeEx } from '../exercises/Exercises';
 
-export type SessionMode = { type: 'lesson'; lessonId: string } | { type: 'review' };
+export type SessionMode = { type: 'lesson'; lessonId: string } | { type: 'review' } | { type: 'test'; unit: number };
 
 interface Summary {
   xp: number;
@@ -52,12 +60,16 @@ interface Summary {
   goalReached: boolean;
   achievements: Achievement[];
   missed: Word[];
+  test?: { correct: number; total: number; score: number; passed: boolean; cert: Certificate | null };
 }
+
+const partName = (unit: number) => UNITS.find((u) => u.unit === unit)?.title ?? `Phần ${unit}`;
 
 function buildQueue(mode: SessionMode, pool: Word[]): Exercise[] {
   const p = getProgress();
   const d = calcDifficulty(p.recent, 0, 0);
   const speaking = p.settings.speaking && recognitionSupported();
+  if (mode.type === 'test') return buildTest(pool);
   if (mode.type === 'review') return buildReview(pool, { difficulty: d, speaking: false });
   const newIds = new Set(pool.filter((w) => !p.words[w.id]).map((w) => w.id));
   return buildLesson(pool, { difficulty: d, newWordIds: newIds, speaking });
@@ -66,7 +78,12 @@ function buildQueue(mode: SessionMode, pool: Word[]): Exercise[] {
 export default function LessonScreen({ mode, onExit }: { mode: SessionMode; onExit: () => void }) {
   const progress = useProgress();
   const pool = useMemo<Word[]>(
-    () => (mode.type === 'lesson' ? LESSON_BY_ID[mode.lessonId].words : weakestWords(getProgress(), 10)),
+    () =>
+      mode.type === 'lesson'
+        ? LESSON_BY_ID[mode.lessonId].words
+        : mode.type === 'test'
+          ? CORE_LESSONS.filter((l) => l.unit === mode.unit).flatMap((l) => l.words)
+          : weakestWords(getProgress(), 10),
     [mode],
   );
   const [queue, setQueue] = useState<Exercise[]>(() => buildQueue(mode, pool));
@@ -93,7 +110,8 @@ export default function LessonScreen({ mode, onExit }: { mode: SessionMode; onEx
 
   const ex = queue[idx];
   const diff = calcDifficulty(progress.recent, combo, wrongStreak);
-  const title = mode.type === 'lesson' ? LESSON_BY_ID[mode.lessonId].title : 'Ôn tập từ yếu';
+  const isTest = mode.type === 'test';
+  const title = mode.type === 'lesson' ? LESSON_BY_ID[mode.lessonId].title : mode.type === 'test' ? `Kiểm tra · ${partName(mode.unit)}` : 'Ôn tập từ yếu';
 
   const reset = () => {
     setQueue(buildQueue(mode, pool));
@@ -141,8 +159,9 @@ export default function LessonScreen({ mode, onExit }: { mode: SessionMode; onEx
     sfx.wrong();
     setCombo(0);
     setWrongStreak((s) => s + 1);
-    setHearts((h) => h - 1);
     setMissed((m) => [...m, ...words.filter((w) => !m.some((x) => x.id === w.id))]);
+    if (isTest) return; // tests: no hearts, no repeats – the score decides
+    setHearts((h) => h - 1);
     const d = calcDifficulty(getProgress().recent, 0, wrongStreak + 1);
     setQueue((q) => [...q, ...makeRetry(current, words, pool, d)]);
   };
@@ -154,6 +173,21 @@ export default function LessonScreen({ mode, onExit }: { mode: SessionMode; onEx
   };
 
   const finish = () => {
+    if (mode.type === 'test') {
+      const total = queue.length;
+      const name = getAccount().user?.displayName || getProgress().settings.name || 'Học viên Gấu Trúc';
+      const res = recordTest(mode.unit, partName(mode.unit), name, right, total);
+      const gained = xp + (res.passed ? 20 : 0);
+      const r2 = addXp(gained);
+      const gems = res.passed ? 15 : 0;
+      if (gems) addGems(gems);
+      noteCombo(maxCombo);
+      const achievements = checkAchievements();
+      sfx.complete();
+      setSummary({ xp: gained, accuracy: right / total, maxCombo, gems, ...r2, achievements, missed, test: { correct: right, total, ...res } });
+      setPhase('done');
+      return;
+    }
     const accuracy = graded ? right / graded : 1;
     const perfect = missed.length === 0;
     const total = xp + LESSON_BONUS_XP + (perfect ? PERFECT_BONUS_XP : 0);
@@ -172,7 +206,7 @@ export default function LessonScreen({ mode, onExit }: { mode: SessionMode; onEx
   const next = () => {
     setFeedback(null);
     setCheck(null);
-    if (hearts <= 0) {
+    if (!isTest && hearts <= 0) {
       setPhase('failed');
       return;
     }
@@ -195,7 +229,7 @@ export default function LessonScreen({ mode, onExit }: { mode: SessionMode; onEx
     else setIdx(idx + 1);
   };
 
-  if (phase === 'done' && summary) return <ResultView s={summary} mode={mode} onDone={onExit} />;
+  if (phase === 'done' && summary) return <ResultView s={summary} mode={mode} onDone={onExit} onRetry={reset} />;
 
   if (phase === 'failed')
     return (
@@ -237,6 +271,7 @@ export default function LessonScreen({ mode, onExit }: { mode: SessionMode; onEx
             Thoát
           </button>
         </div>
+        <Footer />
       </div>
     );
 
@@ -254,9 +289,15 @@ export default function LessonScreen({ mode, onExit }: { mode: SessionMode; onEx
           <Close size={28} />
         </button>
         <ProgressBar value={pct} className="flex-1" />
-        <span className="flex items-center gap-1 font-extrabold text-coral-500" data-testid="hearts" aria-label={`${hearts} tim`}>
-          <Heart size={26} /> {hearts}
-        </span>
+        {isTest ? (
+          <span className="whitespace-nowrap font-extrabold text-grape-600" data-testid="test-count">
+            {Math.min(idx + 1, queue.length)}/{queue.length}
+          </span>
+        ) : (
+          <span className="flex items-center gap-1 font-extrabold text-coral-500" data-testid="hearts" aria-label={`${hearts} tim`}>
+            <Heart size={26} /> {hearts}
+          </span>
+        )}
       </div>
       <div className="flex h-7 items-center justify-between px-4 text-xs font-extrabold">
         <span className="truncate text-ink-400">{title}</span>
@@ -304,6 +345,7 @@ export default function LessonScreen({ mode, onExit }: { mode: SessionMode; onEx
             }}
           />
         )}
+        <Footer className="!px-0 !pb-0" />
       </main>
 
       <FeedbackBar
@@ -407,8 +449,45 @@ function FeedbackBar({
   );
 }
 
-function ResultView({ s, mode, onDone }: { s: Summary; mode: SessionMode; onDone: () => void }) {
+function ResultView({ s, mode, onDone, onRetry }: { s: Summary; mode: SessionMode; onDone: () => void; onRetry: () => void }) {
   const p = useProgress();
+  const [showCert, setShowCert] = useState(false);
+  if (s.test) {
+    const t = s.test;
+    return (
+      <div className="mx-auto flex min-h-[100dvh] max-w-md flex-col items-center px-6 pb-4 pt-10 text-center">
+        <Panda size={140} mood={t.passed ? 'cheer' : 'sad'} className={t.passed ? 'animate-bounceSoft' : ''} />
+        <h1 className={`mt-2 text-3xl font-black ${t.passed ? 'text-sun-600' : 'text-coral-500'}`}>{t.passed ? 'Bạn đã đạt!' : 'Chưa đạt rồi'}</h1>
+        <p className="font-bold text-ink-500">
+          Đúng {t.correct}/{t.total} câu · cần 80% để đạt
+        </p>
+        <div className={`mt-5 text-6xl font-black ${t.passed ? 'text-leaf-500' : 'text-coral-500'}`} data-testid="test-score">
+          {t.score}%
+        </div>
+        {t.passed && t.cert && (
+          <div className="card mt-5 w-full">
+            <p className="font-extrabold text-ink-700">Bạn nhận được chứng chỉ “{t.cert.part}”!</p>
+            <p className="mb-3 text-sm font-semibold text-ink-500">+{s.xp} XP · +{s.gems} đá quý · đã lưu vào Hồ sơ</p>
+            <button type="button" className="btn-green" onClick={() => setShowCert(true)} data-testid="view-cert">
+              Xem chứng chỉ
+            </button>
+          </div>
+        )}
+        <div className="mt-auto flex w-full flex-col gap-3 pt-6">
+          {!t.passed && (
+            <button type="button" className="btn-green" onClick={onRetry}>
+              Làm lại bài kiểm tra
+            </button>
+          )}
+          <button type="button" className={t.passed ? 'btn-green' : 'btn-white'} onClick={onDone}>
+            Tiếp tục
+          </button>
+        </div>
+        <Footer />
+        {showCert && t.cert && <CertificateView cert={t.cert} onClose={() => setShowCert(false)} />}
+      </div>
+    );
+  }
   return (
     <div className="mx-auto flex min-h-[100dvh] max-w-md flex-col items-center px-6 pb-8 pt-10 text-center">
       <Panda size={150} mood="cheer" className="animate-bounceSoft" />
@@ -425,7 +504,8 @@ function ResultView({ s, mode, onDone }: { s: Summary; mode: SessionMode; onDone
         </Banner>
         {s.streakExtended && (
           <Banner>
-            <Flame size={22} /> Chuỗi học tập: <b className="text-[#ff9600]">{p.streak.current} ngày</b>!
+            <Flame size={22} /> <span className="flex-1">Chuỗi học tập: <b className="text-[#ff9600]">{p.streak.current} ngày</b>!</span>
+            <ShareButton text={shareText.streak(p.streak.current)} label="" className="!px-2" />
           </Banner>
         )}
         {s.goalReached && (
@@ -438,7 +518,10 @@ function ResultView({ s, mode, onDone }: { s: Summary; mode: SessionMode; onDone
             <span className="flex h-8 w-8 items-center justify-center rounded-full bg-grape-500">
               <BadgeGlyph name={a.icon} size={18} />
             </span>
-            Huy hiệu mới: <b>{a.title}</b> (+{a.gems} đá quý)
+            <span className="flex-1">
+              Huy hiệu mới: <b>{a.title}</b> (+{a.gems} đá quý)
+            </span>
+            {a.id.startsWith('xp') && <ShareButton text={shareText.xp(p.xp)} label="" className="!px-2" />}
           </Banner>
         ))}
         {s.missed.length > 0 && (
@@ -459,6 +542,7 @@ function ResultView({ s, mode, onDone }: { s: Summary; mode: SessionMode; onDone
           Tiếp tục
         </button>
       </div>
+      <Footer />
     </div>
   );
 }

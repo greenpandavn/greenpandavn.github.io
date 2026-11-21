@@ -1,4 +1,13 @@
 import { useRef, useState } from 'react';
+import type { Certificate } from '../types';
+import { loadCloud, useAccount } from '../lib/account';
+import { notifyPermission, notifySupported, requestNotify } from '../lib/reminder';
+import { installHelp, promptInstall, useInstall } from '../lib/install';
+import { shareText } from '../lib/share';
+import ShareButton from '../components/ShareButton';
+import CertificateView from '../components/CertificateView';
+import { CONTACT, YOUTUBE_URL } from '../components/Footer';
+import { Trophy } from '../components/Icons';
 import { exportProgress, importProgress, resetProgress, updateProgress, useProgress } from '../lib/store';
 import { ACHIEVEMENTS, currentStreak, levelInfo } from '../lib/gamification';
 import { countByStatus } from '../lib/srs';
@@ -11,8 +20,31 @@ import { CORE_LESSONS } from '../data';
 
 const BADGE_COLORS = ['bg-leaf-500', 'bg-sky-500', 'bg-grape-500', 'bg-[#ff9600]', 'bg-coral-500', 'bg-sun-500'];
 
-export default function ProfileScreen() {
+export default function ProfileScreen({ onLogin }: { onLogin: () => void }) {
   const p = useProgress();
+  const acc = useAccount();
+  const inst = useInstall();
+  const [cert, setCert] = useState<Certificate | null>(null);
+  const [perm, setPerm] = useState(notifyPermission());
+  const [editing, setEditing] = useState(false);
+  const displayName = acc.user?.displayName || p.settings.name || 'Học viên Gấu Trúc';
+  const [nameDraft, setNameDraft] = useState(displayName);
+  const saveName = async () => {
+    const n = nameDraft.trim().slice(0, 40);
+    if (!n) return;
+    setEditing(false);
+    if (acc.user) {
+      try {
+        await (await loadCloud()).setDisplayName(n);
+        setMsg('');
+      } catch {
+        setMsg('Chưa đổi được tên. Hãy thử lại khi có mạng.');
+      }
+    } else setSetting('name', n);
+  };
+  const logout = async () => {
+    await (await loadCloud()).logout();
+  };
   const lv = levelInfo(p.xp);
   const counts = countByStatus(p);
   const streak = currentStreak(p);
@@ -43,13 +75,42 @@ export default function ProfileScreen() {
   };
 
   return (
-    <div className="mx-auto max-w-md px-4 pb-28 pt-4">
+    <div className="mx-auto max-w-md px-4 pb-2 pt-4">
       <div className="mb-4 flex items-center gap-4">
         <div className="rounded-full bg-leaf-50 p-1">
           <Panda size={84} />
         </div>
         <div className="flex-1">
-          <h1 className="text-2xl font-black">Hồ sơ của bạn</h1>
+          {editing ? (
+            <form
+              className="flex gap-2"
+              onSubmit={(e) => {
+                e.preventDefault();
+                void saveName();
+              }}
+            >
+              <input className="input !min-h-[40px] !px-3" value={nameDraft} maxLength={40} onChange={(e) => setNameDraft(e.target.value)} autoFocus aria-label="Tên hiển thị" />
+              <button type="submit" className="chip !text-leaf-600">
+                Lưu
+              </button>
+            </form>
+          ) : (
+            <h1 className="flex items-center gap-2 text-2xl font-black">
+              <span className="truncate" data-testid="profile-name">
+                {displayName}
+              </span>
+              <button
+                type="button"
+                className="text-xs font-extrabold text-sky-600 underline"
+                onClick={() => {
+                  setNameDraft(displayName);
+                  setEditing(true);
+                }}
+              >
+                Sửa
+              </button>
+            </h1>
+          )}
           <div className="font-extrabold text-leaf-600">Cấp độ {lv.level}</div>
           <ProgressBar value={lv.pct} className="mt-1 !h-3" />
           <div className="mt-1 text-xs font-bold text-ink-400">
@@ -58,11 +119,46 @@ export default function ProfileScreen() {
         </div>
       </div>
 
+      <div className="card mb-4 flex flex-col gap-2" data-testid="account-card">
+        {acc.user ? (
+          <>
+            <div className="flex items-center justify-between gap-2">
+              <div className="min-w-0">
+                <div className="truncate text-sm font-extrabold text-ink-700">{acc.user.email ?? 'Tài khoản Google'}</div>
+                <div className="text-xs font-bold text-ink-400">
+                  {acc.user.provider === 'google.com' ? 'Đăng nhập bằng Google' : 'Đăng nhập bằng email'} ·{' '}
+                  <span className={acc.sync === 'error' ? 'text-coral-500' : acc.sync === 'offline' ? 'text-[#ff9600]' : 'text-leaf-600'} data-testid="sync-status">
+                    {SYNC_LABEL[acc.sync]}
+                  </span>
+                </div>
+              </div>
+              <button type="button" className="chip !text-coral-500" onClick={() => void logout()} data-testid="logout">
+                Đăng xuất
+              </button>
+            </div>
+            {acc.migrated && <p className="text-xs font-bold text-leaf-600">Đã gộp tiến độ trên máy này vào tài khoản.</p>}
+          </>
+        ) : (
+          <>
+            <p className="text-sm font-bold text-ink-500">
+              {acc.ready ? 'Bạn đang học không cần tài khoản. Đăng nhập để lưu tiến độ lên đám mây và lên bảng xếp hạng.' : 'Đang kiểm tra tài khoản…'}
+            </p>
+            <button type="button" className="btn-green" onClick={onLogin} data-testid="open-auth">
+              Đăng nhập / Đăng ký
+            </button>
+          </>
+        )}
+      </div>
+
       <div className="mb-5 grid grid-cols-2 gap-3">
         <StatBox icon={<Flame size={26} />} value={streak} label="Ngày liên tiếp" />
         <StatBox icon={<Bolt size={26} />} value={p.xp} label="Tổng XP" />
         <StatBox icon={<Gem size={24} />} value={p.gems} label="Đá quý" />
         <StatBox icon={<Star size={26} />} value={`${done}/${CORE_LESSONS.length}`} label="Bài đã học" />
+      </div>
+      <div className="mb-4 flex flex-wrap justify-center gap-2">
+        {streak > 0 && <ShareButton text={shareText.streak(streak)} label={`Chia sẻ chuỗi ${streak} ngày`} />}
+        {p.xp > 0 && <ShareButton text={shareText.xp(p.xp)} label={`Chia sẻ ${p.xp} XP`} />}
       </div>
       <div className="card mb-5 flex justify-around text-center">
         <div>
@@ -81,6 +177,33 @@ export default function ProfileScreen() {
 
       <h2 className="mb-2 text-lg font-black">Lịch học tập</h2>
       <StreakCalendar days={p.days} goal={p.settings.dailyGoal} />
+
+      <h2 className="mb-2 mt-6 text-lg font-black">Chứng chỉ của tôi</h2>
+      {p.certificates.length === 0 ? (
+        <p className="card text-sm font-bold text-ink-400" data-testid="no-certs">
+          Chưa có chứng chỉ. Hoàn thành bài kiểm tra cuối mỗi phần (đạt từ 80%) để nhận chứng chỉ.
+        </p>
+      ) : (
+        <ul className="flex flex-col gap-2" data-testid="cert-list">
+          {p.certificates.map((c) => (
+            <li key={c.id} className="card flex items-center gap-3 !p-3">
+              <span className="flex h-11 w-11 items-center justify-center rounded-xl bg-sun-100 text-sun-600">
+                <Trophy size={28} />
+              </span>
+              <div className="min-w-0 flex-1">
+                <div className="truncate font-extrabold">{c.part}</div>
+                <div className="text-xs font-bold text-ink-400">
+                  {c.score}% · {c.date.split('-').reverse().join('/')}
+                </div>
+              </div>
+              <button type="button" className="chip !text-sky-600" onClick={() => setCert(c)}>
+                Xem
+              </button>
+            </li>
+          ))}
+        </ul>
+      )}
+      {cert && <CertificateView cert={cert} onClose={() => setCert(null)} />}
 
       <h2 className="mb-2 mt-6 text-lg font-black">Huy hiệu</h2>
       <div className="grid grid-cols-3 gap-3">
@@ -138,9 +261,52 @@ export default function ProfileScreen() {
         <Toggle label="Bài tập luyện nói (nếu trình duyệt hỗ trợ)" checked={p.settings.speaking} onChange={(v) => setSetting('speaking', v)} />
       </div>
 
+      <h2 className="mb-2 mt-6 text-lg font-black">Nhắc học hằng ngày</h2>
+      <div className="card flex flex-col gap-3" data-testid="reminder-card">
+        <Toggle label="Nhắc tôi học mỗi ngày" checked={p.settings.reminderOn} onChange={(v) => setSetting('reminderOn', v)} />
+        <label className="flex items-center justify-between font-extrabold">
+          <span>Giờ nhắc</span>
+          <input
+            type="time"
+            className="input !min-h-[44px] !w-32 !px-3"
+            value={p.settings.reminderTime}
+            onChange={(e) => e.target.value && setSetting('reminderTime', e.target.value)}
+            data-testid="reminder-time"
+          />
+        </label>
+        {perm === 'granted' ? (
+          <p className="text-xs font-bold text-leaf-600">Đã bật thông báo. Bạn sẽ nhận nhắc nhở nếu hôm đó chưa học.</p>
+        ) : perm === 'denied' || perm === 'unsupported' ? (
+          <p className="text-xs font-bold text-[#ff9600]">
+            {perm === 'denied' ? 'Thông báo đang bị chặn' : 'Trình duyệt không hỗ trợ thông báo'} — ứng dụng sẽ hiện banner nhắc nhở khi bạn mở app.
+          </p>
+        ) : (
+          notifySupported() && (
+            <button type="button" className="btn-blue" onClick={async () => setPerm(await requestNotify())} data-testid="enable-notify">
+              Bật thông báo nhắc học
+            </button>
+          )
+        )}
+      </div>
+
+      <h2 className="mb-2 mt-6 text-lg font-black">Cài ứng dụng</h2>
+      <div className="card flex flex-col gap-2">
+        {inst.installed ? (
+          <p className="text-sm font-bold text-leaf-600">Ứng dụng đã được cài trên thiết bị này.</p>
+        ) : inst.canPrompt ? (
+          <button type="button" className="btn-green" onClick={() => void promptInstall()} data-testid="install-profile">
+            Thêm vào màn hình chính
+          </button>
+        ) : (
+          <p className="text-sm font-bold text-ink-500">{installHelp()}</p>
+        )}
+      </div>
+
       <h2 className="mb-2 mt-6 text-lg font-black">Sao lưu tiến độ</h2>
       <div className="card flex flex-col gap-3">
-        <p className="text-sm font-semibold text-ink-500">Tiến độ được lưu trên trình duyệt này. Xuất ra tệp để chuyển sang thiết bị khác.</p>
+        <p className="text-sm font-semibold text-ink-500">
+          {acc.user ? 'Tiến độ được đồng bộ với tài khoản và lưu cả trên trình duyệt này.' : 'Tiến độ được lưu trên trình duyệt này. Đăng nhập hoặc xuất ra tệp để chuyển sang thiết bị khác.'}
+        </p>
         <button type="button" className="btn-blue" onClick={doExport}>
           Xuất tiến độ (JSON)
         </button>
@@ -173,6 +339,25 @@ export default function ProfileScreen() {
         </button>
         {msg && <p className="text-center text-sm font-bold text-leaf-600">{msg}</p>}
       </div>
+      <h2 className="mb-2 mt-6 text-lg font-black">Giới thiệu / Liên hệ</h2>
+      <div className="card flex flex-col gap-1 text-sm font-semibold text-ink-500" data-testid="about">
+        <p>
+          <b className="text-ink-700">Học Tiếng Trung – Gấu Trúc Mập</b> là ứng dụng học tiếng Trung HSK 1 miễn phí cho người Việt.
+        </p>
+        <p>© 2026 VH Phước — Học Tiếng Trung, Gấu Trúc Mập. Mọi nội dung thuộc về VH Phước.</p>
+        <p>
+          Liên hệ:{' '}
+          <a href="tel:0988474228" className="font-extrabold text-ink-700 underline">
+            {CONTACT}
+          </a>
+        </p>
+        <p>
+          YouTube:{' '}
+          <a href={YOUTUBE_URL} target="_blank" rel="noopener noreferrer" className="font-extrabold text-coral-500 underline">
+            youtube.com/@vhphuocmedia
+          </a>
+        </p>
+      </div>
       <p className="mt-6 text-center text-xs font-semibold text-ink-300">
         Ứng dụng miễn phí, mã nguồn mở. Nét chữ: HanziWriter (MIT) · Dữ liệu nét: Make Me a Hanzi (Arphic PL).
       </p>
@@ -204,3 +389,5 @@ const Toggle = ({ label, checked, onChange }: { label: string; checked: boolean;
     </button>
   </label>
 );
+
+const SYNC_LABEL = { idle: 'Đã kết nối', saving: 'Đang đồng bộ…', saved: 'Đã đồng bộ', offline: 'Ngoại tuyến – sẽ đồng bộ khi có mạng', error: 'Lỗi đồng bộ' } as const;

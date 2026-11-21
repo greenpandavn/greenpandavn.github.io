@@ -194,3 +194,17 @@ export function makeRetry(ex: Exercise, missed: Word[], pool: Word[], d: Difficu
     return makeExercise(kind, w, pool, d === 'hard' ? 'normal' : d);
   });
 }
+
+/** End-of-part test: 10 questions mixing listening, meaning, pinyin and sentence building. */
+export function buildTest(words: Word[], count = 10): Exercise[] {
+  const picked = shuffle(words).slice(0, count);
+  const kinds: ExerciseKind[] = ['listen', 'listen', 'listen', 'meaning', 'meaning', 'type', 'type', 'arrange', 'arrange', 'arrange'];
+  return shuffle(
+    picked.map((w, i) => {
+      const k = kinds[i % kinds.length];
+      if (k === 'arrange') return makeArrange(w, words, 'normal');
+      if (k === 'meaning' && i % 2) return makeSentenceMeaning(w, words, 'normal');
+      return makeExercise(k, w, words, 'normal');
+    }),
+  );
+}

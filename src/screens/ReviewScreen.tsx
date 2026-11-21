@@ -13,7 +13,7 @@ export default function ReviewScreen({ onStart }: { onStart: () => void }) {
   const [sheet, setSheet] = useState<Word | null>(null);
   const has = weak.length > 0;
   return (
-    <div className="mx-auto max-w-md px-4 pb-28 pt-4">
+    <div className="mx-auto max-w-md px-4 pb-2 pt-4">
       <h1 className="mb-3 text-2xl font-black">Ôn tập thông minh</h1>
       <PandaSays
         mood={has ? 'happy' : 'think'}

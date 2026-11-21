@@ -46,6 +46,28 @@ export interface Settings {
   rate: number;
   dailyGoal: number;
   speaking: boolean;
+  name: string; // display name (guest) – mirrors the account name when logged in
+  reminderOn: boolean;
+  reminderTime: string; // HH:mm
+}
+
+export interface Certificate {
+  id: string;
+  unit: number;
+  part: string;
+  name: string;
+  score: number; // 0..100
+  correct: number;
+  total: number;
+  date: string; // yyyy-mm-dd
+}
+
+export interface TestResult {
+  unit: number;
+  correct: number;
+  total: number;
+  passed: boolean;
+  date: string;
 }
 
 export interface Progress {
@@ -63,5 +85,7 @@ export interface Progress {
   perfectLessons: number;
   bestCombo: number;
   goalBonusDates: string[];
+  certificates: Certificate[];
+  tests: TestResult[];
   settings: Settings;
 }

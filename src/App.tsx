@@ -1,15 +1,19 @@
-import { useEffect, useState } from 'react';
+import { useEffect, useRef, useState } from 'react';
 import TopBar from './components/TopBar';
 import BottomNav, { type Tab } from './components/BottomNav';
 import PathScreen from './screens/PathScreen';
 import ReviewScreen from './screens/ReviewScreen';
 import WordsScreen from './screens/WordsScreen';
 import ProfileScreen from './screens/ProfileScreen';
+import LeaderboardScreen from './screens/LeaderboardScreen';
+import AuthScreen from './screens/AuthScreen';
+import Footer from './components/Footer';
+import AppBanners from './components/AppBanners';
 import LessonScreen, { type SessionMode } from './screens/LessonScreen';
 import { useProgress } from './lib/store';
 import { dueCount } from './lib/srs';
 
-const TABS: Tab[] = ['learn', 'review', 'words', 'profile'];
+const TABS: Tab[] = ['learn', 'review', 'words', 'rank', 'profile'];
 const tabFromHash = (): Tab => {
   const h = window.location.hash.replace('#/', '') as Tab;
   return TABS.includes(h) ? h : 'learn';
@@ -17,6 +21,8 @@ const tabFromHash = (): Tab => {
 
 export default function App() {
   const [tab, setTab] = useState<Tab>(tabFromHash);
+  const prevTab = useRef<Tab>('profile');
+  const [authOpen, setAuthOpen] = useState(() => window.location.hash === '#/auth');
   const [session, setSession] = useState<SessionMode | null>(null);
   const p = useProgress();
 
@@ -38,7 +44,10 @@ export default function App() {
   );
 
   useEffect(() => {
-    const onHash = () => setTab(tabFromHash());
+    const onHash = () => {
+      setTab(tabFromHash());
+      setAuthOpen(window.location.hash === '#/auth');
+    };
     window.addEventListener('hashchange', onHash);
     return () => window.removeEventListener('hashchange', onHash);
   }, []);
@@ -48,6 +57,26 @@ export default function App() {
     setTab(t);
     window.scrollTo(0, 0);
   };
+
+  const openAuth = () => {
+    prevTab.current = tab;
+    window.location.hash = '/auth';
+    setAuthOpen(true);
+    window.scrollTo(0, 0);
+  };
+
+  if (authOpen && !session)
+    return (
+      <>
+        {toast}
+        <AuthScreen
+          onClose={() => {
+            setAuthOpen(false);
+            changeTab(prevTab.current);
+          }}
+        />
+      </>
+    );
 
   if (session)
     return (
@@ -68,10 +97,15 @@ export default function App() {
     <div className="min-h-[100dvh] bg-white">
       {toast}
       <TopBar />
-      {tab === 'learn' && <PathScreen onStart={(id) => setSession({ type: 'lesson', lessonId: id })} />}
+      <AppBanners onLearn={() => changeTab('learn')} />
+      {tab === 'learn' && (
+        <PathScreen onStart={(id) => setSession({ type: 'lesson', lessonId: id })} onTest={(unit) => setSession({ type: 'test', unit })} />
+      )}
       {tab === 'review' && <ReviewScreen onStart={() => setSession({ type: 'review' })} />}
       {tab === 'words' && <WordsScreen />}
-      {tab === 'profile' && <ProfileScreen />}
+      {tab === 'rank' && <LeaderboardScreen onLogin={openAuth} />}
+      {tab === 'profile' && <ProfileScreen onLogin={openAuth} />}
+      <Footer className="pb-24" />
       <BottomNav tab={tab} onChange={changeTab} badge={Math.min(dueCount(p), 10)} />
     </div>
   );

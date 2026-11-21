@@ -3,6 +3,7 @@ import { CORE_LESSONS, LESSONS, UNITS } from '../data';
 import type { Lesson } from '../types';
 import { spendGems, updateProgress, useProgress } from '../lib/store';
 import { todayXp } from '../lib/gamification';
+import { Trophy } from '../components/Icons';
 import Panda from '../components/Panda';
 import ProgressBar from '../components/ProgressBar';
 import { Check, Gem, Gift, Lock, Star, Bolt } from '../components/Icons';
@@ -21,7 +22,7 @@ const NODE_GLYPH: Record<string, string> = {
   bonusfood: '饺', bonusbody: '手',
 };
 
-export default function PathScreen({ onStart }: { onStart: (lessonId: string) => void }) {
+export default function PathScreen({ onStart, onTest }: { onStart: (lessonId: string) => void; onTest: (unit: number) => void }) {
   const p = useProgress();
   const [open, setOpen] = useState<string | null>(null);
   const isDone = (l: Lesson) => (p.lessons[l.id]?.completed ?? 0) > 0;
@@ -36,7 +37,7 @@ export default function PathScreen({ onStart }: { onStart: (lessonId: string) =>
   const txp = todayXp(p);
 
   return (
-    <div className="mx-auto max-w-md px-4 pb-28 pt-4">
+    <div className="mx-auto max-w-md px-4 pb-2 pt-4">
       <div className="card mb-6 flex items-center gap-3">
         <Bolt size={34} />
         <div className="flex-1">
@@ -128,6 +129,15 @@ export default function PathScreen({ onStart }: { onStart: (lessonId: string) =>
                   </div>
                 );
               })}
+              <TestNode
+                unit={u.unit}
+                title={u.title}
+                unlocked={CORE_LESSONS.filter((l) => l.unit === u.unit).every(isDone)}
+                cert={p.certificates.find((c) => c.unit === u.unit)?.score}
+                open={open === `test-${u.unit}`}
+                onToggle={() => setOpen(open === `test-${u.unit}` ? null : `test-${u.unit}`)}
+                onStart={() => onTest(u.unit)}
+              />
             </div>
           </section>
         );
@@ -183,6 +193,41 @@ function LessonPopover({
         </button>
       ) : (
         <div className="rounded-xl bg-cloud px-3 py-3 text-center text-sm font-extrabold text-ink-400">Hoàn thành bài trước để mở khóa</div>
+      )}
+    </div>
+  );
+}
+
+function TestNode({ unit, title, unlocked, cert, open, onToggle, onStart }: {
+  unit: number; title: string; unlocked: boolean; cert?: number; open: boolean; onToggle: () => void; onStart: () => void;
+}) {
+  return (
+    <div className={`relative mt-2 flex flex-col items-center ${open ? 'z-30' : 'z-0'}`}>
+      <button
+        type="button"
+        data-testid={`test-node-${unit}`}
+        aria-label={`Bài kiểm tra ${title}${unlocked ? '' : ' (đã khóa)'}`}
+        onClick={onToggle}
+        className={`btn-3d flex h-[84px] w-[84px] items-center justify-center rounded-3xl ${cert ? 'bg-sun-500 text-white' : unlocked ? 'bg-[#ff9600] text-white' : 'bg-cloud text-ink-300'}`}
+        style={{ boxShadow: `0 7px 0 ${cert ? '#e5a800' : unlocked ? '#d87f00' : '#c4c4c4'}` }}
+      >
+        <Trophy size={44} />
+      </button>
+      <div className="mt-3 text-center text-xs font-extrabold text-ink-500">
+        Kiểm tra cuối phần{cert ? ` · ${cert}%` : ''}
+      </div>
+      {open && (
+        <div className="absolute top-[118px] z-20 w-72 animate-pop rounded-2xl border-2 border-cloud bg-white p-4 shadow-xl">
+          <div className="text-lg font-black text-ink-700">Kiểm tra: {title}</div>
+          <p className="mb-3 text-sm font-semibold text-ink-500">10 câu hỏi (nghe, nghĩa, pinyin, sắp xếp câu). Đạt từ 80% để nhận chứng chỉ.</p>
+          {unlocked ? (
+            <button type="button" className="btn-green" onClick={onStart} data-testid="start-test">
+              {cert ? 'Thi lại' : 'Làm bài kiểm tra'}
+            </button>
+          ) : (
+            <div className="rounded-xl bg-cloud px-3 py-3 text-center text-sm font-extrabold text-ink-400">Hoàn thành tất cả bài của phần này để mở khóa</div>
+          )}
+        </div>
       )}
     </div>
   );

@@ -6,7 +6,8 @@ import { ACHIEVEMENTS, type Achievement } from './gamification';
 import { setSpeechRate } from './speech';
 import { setSfxEnabled } from './sound';
 
-const KEY = 'hoc-tieng-trung-progress-v1';
+export const GUEST_KEY = 'hoc-tieng-trung-progress-v1';
+let storageKey = GUEST_KEY;
 export const DAILY_GOAL_GEMS = 10;
 
 export function defaultProgress(): Progress {
@@ -25,11 +26,13 @@ export function defaultProgress(): Progress {
     perfectLessons: 0,
     bestCombo: 0,
     goalBonusDates: [],
-    settings: { sound: true, rate: 0.8, dailyGoal: 20, speaking: true },
+    certificates: [],
+    tests: [],
+    settings: { sound: true, rate: 0.8, dailyGoal: 20, speaking: true, name: '', reminderOn: true, reminderTime: '19:00' },
   };
 }
 
-function sanitize(raw: unknown): Progress {
+export function sanitize(raw: unknown): Progress {
   const d = defaultProgress();
   if (!raw || typeof raw !== 'object') throw new Error('invalid');
   const r = raw as Partial<Progress>;
@@ -39,13 +42,25 @@ function sanitize(raw: unknown): Progress {
     ...r,
     streak: { ...d.streak, ...(r.streak || {}) },
     settings: { ...d.settings, ...(r.settings || {}) },
+    certificates: Array.isArray(r.certificates) ? r.certificates : [],
+    tests: Array.isArray(r.tests) ? r.tests : [],
     version: 1,
   } as Progress;
 }
 
+export function loadFrom(key: string): Progress | null {
+  try {
+    const s = localStorage.getItem(key);
+    if (s) return sanitize(JSON.parse(s));
+  } catch {
+    /* ignore corrupted storage */
+  }
+  return null;
+}
+
 function load(): Progress {
   try {
-    const s = localStorage.getItem(KEY);
+    const s = localStorage.getItem(storageKey);
     if (s) return sanitize(JSON.parse(s));
   } catch {
     /* ignore corrupted storage */
@@ -55,6 +70,13 @@ function load(): Progress {
 
 let state: Progress = load();
 const listeners = new Set<() => void>();
+type ChangeSource = 'local' | 'remote';
+const changeHooks = new Set<(p: Progress) => void>();
+/** Subscribe to progress changes made by this device (not ones applied from the cloud). */
+export function onLocalChange(fn: (p: Progress) => void) {
+  changeHooks.add(fn);
+  return () => changeHooks.delete(fn);
+}
 
 function applySettings() {
   setSpeechRate(state.settings.rate);
@@ -62,16 +84,26 @@ function applySettings() {
 }
 applySettings();
 
-function set(next: Progress) {
+function set(next: Progress, source: ChangeSource = 'local') {
   state = next;
   try {
-    localStorage.setItem(KEY, JSON.stringify(state));
+    localStorage.setItem(storageKey, JSON.stringify(state));
   } catch {
     /* storage full / private mode */
   }
   applySettings();
   listeners.forEach((l) => l());
+  if (source === 'local') changeHooks.forEach((h) => h(state));
 }
+
+/** Switch the active storage slot (guest or a signed-in user's offline cache) and load `p` into it. */
+export function switchStorageSlot(key: string, p: Progress) {
+  storageKey = key;
+  set(p, 'remote');
+}
+export const activeStorageKey = () => storageKey;
+/** Replace progress with data coming from the cloud (does not trigger an upload). */
+export const applyRemote = (p: Progress) => set(p, 'remote');
 
 export const getProgress = () => state;
 export const updateProgress = (fn: (p: Progress) => Progress) => set(fn(state));
@@ -171,4 +203,22 @@ export function importProgress(text: string) {
 
 export function resetProgress() {
   set(defaultProgress());
+}
+
+export const TEST_PASS = 0.8;
+/** Save a part-test result; issues (or upgrades) the certificate when passed. */
+export function recordTest(unit: number, part: string, name: string, correct: number, total: number) {
+  const date = dateKey();
+  const passed = correct / total >= TEST_PASS;
+  const score = Math.round((correct / total) * 100);
+  let cert: import('../types').Certificate | null = null;
+  updateProgress((p) => {
+    const tests = [...p.tests, { unit, correct, total, passed, date }].slice(-50);
+    if (!passed) return { ...p, tests };
+    const id = `hsk1-part${unit}`;
+    const prev = p.certificates.find((c) => c.id === id);
+    cert = prev && prev.score >= score ? prev : { id, unit, part, name, score, correct, total, date };
+    return { ...p, tests, certificates: [...p.certificates.filter((c) => c.id !== id), cert].sort((a, b) => a.unit - b.unit) };
+  });
+  return { passed, score, cert: cert as import('../types').Certificate | null };
 }

@@ -28,7 +28,7 @@ export default function WordsScreen() {
   );
   const total = LESSONS.reduce((n, l) => n + l.words.length, 0);
   return (
-    <div className="mx-auto max-w-md px-4 pb-28 pt-4">
+    <div className="mx-auto max-w-md px-4 pb-2 pt-4">
       <h1 className="text-2xl font-black">Từ vựng</h1>
       <p className="mb-3 text-sm font-semibold text-ink-500">{total} từ · chạm vào từ để nghe, xem nét viết và luyện nói</p>
       <input
