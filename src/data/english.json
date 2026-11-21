@@ -21,7 +21,8 @@
   {"unit":402,"level":4,"title":"Phần 2: Xã hội và thế giới","desc":"Nhà nước, quan hệ quốc tế, nhân quyền, y tế, tâm lý, triết học","color":"sky","course":"en"},
   {"unit":403,"level":4,"title":"Phần 3: Khoa học chuyên sâu","desc":"Di truyền, sinh thái, vật lý, kỹ thuật, trí tuệ nhân tạo, toán học","color":"grape","course":"en"},
   {"unit":404,"level":4,"title":"Phần 4: Diễn đạt tinh tế","desc":"Sắc thái, thành ngữ, cụm động từ, tu từ, nhấn mạnh","color":"coral","course":"en"},
-  {"unit":501,"level":5,"title":"Phần 1: Học thuật và chuyên ngành","desc":"Nghiên cứu, ngôn ngữ, lịch sử, luật, tài chính, ngoại giao","color":"leaf","course":"en"}
+  {"unit":501,"level":5,"title":"Phần 1: Học thuật và chuyên ngành","desc":"Nghiên cứu, ngôn ngữ, lịch sử, luật, tài chính, ngoại giao","color":"leaf","course":"en"},
+  {"unit":502,"level":5,"title":"Phần 2: Khoa học và kỹ thuật","desc":"Y khoa, sinh học, khí tượng, hàng không, điện tử, dữ liệu","color":"sky","course":"en"}
  ],
  "lessons": [
   {"id":"e01","title":"Chào hỏi","desc":"Xin chào, cảm ơn, tạm biệt","icon":"Hi","unit":1,"course":"en","words":[
@@ -3660,6 +3661,118 @@
    {"id":"x16-truancy","hanzi":"truancy","pinyin":"","vi":"sự trốn học","ex":{"tokens":["Truancy","fell","after","the","new","program","began","."],"py":["","","","","","","","."],"vi":"Tình trạng trốn học giảm sau khi chương trình mới bắt đầu.","alts":[]}},
    {"id":"x16-alumnus","hanzi":"alumnus","pinyin":"","vi":"cựu sinh viên","ex":{"tokens":["He","is","an","alumnus","of","this","university","."],"py":["","","","","","","","."],"vi":"Ông ấy là cựu sinh viên của trường đại học này.","alts":[]}},
    {"id":"x16-proficiency","hanzi":"proficiency","pinyin":"","vi":"sự thành thạo","ex":{"tokens":["The","job","requires","proficiency","in","English","."],"py":["","","","","","","."],"vi":"Công việc đòi hỏi sự thành thạo tiếng Anh.","alts":[]}}
+  ]},
+  {"id":"x17","title":"Giải phẫu","desc":"Xương, gân, cơ quan, mạch máu","icon":"Body","unit":502,"course":"en","words":[
+   {"id":"x17-cranium","hanzi":"cranium","pinyin":"","vi":"hộp sọ","ex":{"tokens":["The","cranium","protects","the","brain","."],"py":["","","","","","."],"vi":"Hộp sọ bảo vệ não.","alts":[]}},
+   {"id":"x17-femur","hanzi":"femur","pinyin":"","vi":"xương đùi","ex":{"tokens":["The","femur","is","the","longest","bone","in","the","body","."],"py":["","","","","","","","","","."],"vi":"Xương đùi là xương dài nhất trong cơ thể.","alts":[]}},
+   {"id":"x17-tendon","hanzi":"tendon","pinyin":"","vi":"gân","ex":{"tokens":["He","tore","a","tendon","in","his","ankle","."],"py":["","","","","","","","."],"vi":"Anh ấy bị rách gân ở mắt cá chân.","alts":[]}},
+   {"id":"x17-ligament","hanzi":"ligament","pinyin":"","vi":"dây chằng","ex":{"tokens":["A","knee","ligament","takes","months","to","heal","."],"py":["","","","","","","","."],"vi":"Dây chằng đầu gối mất nhiều tháng mới lành.","alts":[]}},
+   {"id":"x17-cartilage","hanzi":"cartilage","pinyin":"","vi":"sụn","ex":{"tokens":["Cartilage","covers","the","ends","of","the","bones","."],"py":["","","","","","","","."],"vi":"Sụn bao bọc đầu các xương.","alts":[]}},
+   {"id":"x17-vertebra","hanzi":"vertebra","pinyin":"","vi":"đốt sống","ex":{"tokens":["One","vertebra","in","his","neck","was","broken","."],"py":["","","","","","","","."],"vi":"Một đốt sống cổ của anh ấy bị gãy.","alts":[]}},
+   {"id":"x17-abdomen","hanzi":"abdomen","pinyin":"","vi":"bụng, ổ bụng","ex":{"tokens":["She","felt","a","sharp","pain","in","her","abdomen","."],"py":["","","","","","","","","."],"vi":"Cô ấy thấy đau nhói ở bụng.","alts":[]}},
+   {"id":"x17-pancreas","hanzi":"pancreas","pinyin":"","vi":"tuyến tụy","ex":{"tokens":["The","pancreas","makes","insulin","."],"py":["","","","","."],"vi":"Tuyến tụy sản xuất insulin.","alts":[]}},
+   {"id":"x17-spleen","hanzi":"spleen","pinyin":"","vi":"lá lách","ex":{"tokens":["The","spleen","helps","the","body","fight","infection","."],"py":["","","","","","","","."],"vi":"Lá lách giúp cơ thể chống nhiễm trùng.","alts":[]}},
+   {"id":"x17-retina","hanzi":"retina","pinyin":"","vi":"võng mạc","ex":{"tokens":["Light","falls","on","the","retina","at","the","back","of","the","eye","."],"py":["","","","","","","","","","","","."],"vi":"Ánh sáng rơi vào võng mạc ở phía sau mắt.","alts":[]}},
+   {"id":"x17-artery","hanzi":"artery","pinyin":"","vi":"động mạch","ex":{"tokens":["A","blocked","artery","can","cause","a","heart","attack","."],"py":["","","","","","","","","."],"vi":"Động mạch bị tắc có thể gây đau tim.","alts":[]}},
+   {"id":"x17-capillary","hanzi":"capillary","pinyin":"","vi":"mao mạch","ex":{"tokens":["A","capillary","is","thinner","than","a","hair","."],"py":["","","","","","","","."],"vi":"Mao mạch mỏng hơn một sợi tóc.","alts":[]}}
+  ]},
+  {"id":"x18","title":"Bệnh lý","desc":"U lành, u ác, viêm, tái phát, tiên lượng","icon":"Illness","unit":502,"course":"en","words":[
+   {"id":"x18-benign","hanzi":"benign","pinyin":"","vi":"lành tính","ex":{"tokens":["The","lump","was","benign","."],"py":["","","","","."],"vi":"Khối u là lành tính.","alts":[]}},
+   {"id":"x18-malignant","hanzi":"malignant","pinyin":"","vi":"ác tính","ex":{"tokens":["Tests","showed","that","the","tumor","was","malignant","."],"py":["","","","","","","","."],"vi":"Xét nghiệm cho thấy khối u là ác tính.","alts":[]}},
+   {"id":"x18-lesion","hanzi":"lesion","pinyin":"","vi":"tổn thương (trên da, mô)","ex":{"tokens":["The","doctor","examined","a","lesion","on","his","arm","."],"py":["","","","","","","","","."],"vi":"Bác sĩ khám một vết tổn thương trên cánh tay anh ấy.","alts":[]}},
+   {"id":"x18-inflammation","hanzi":"inflammation","pinyin":"","vi":"chứng viêm","ex":{"tokens":["Ice","reduces","inflammation","."],"py":["","","","."],"vi":"Đá lạnh làm giảm viêm.","alts":[]}},
+   {"id":"x18-edema","hanzi":"edema","pinyin":"","vi":"chứng phù","ex":{"tokens":["Edema","made","her","feet","swell","."],"py":["","","","","","."],"vi":"Chứng phù khiến bàn chân cô ấy sưng lên.","alts":[]}},
+   {"id":"x18-fibrosis","hanzi":"fibrosis","pinyin":"","vi":"chứng xơ hóa","ex":{"tokens":["Fibrosis","makes","the","lungs","stiff","."],"py":["","","","","","."],"vi":"Chứng xơ hóa làm phổi bị cứng.","alts":[]}},
+   {"id":"x18-necrosis","hanzi":"necrosis","pinyin":"","vi":"hoại tử","ex":{"tokens":["Necrosis","set","in","after","the","burn","."],"py":["","","","","","","."],"vi":"Hoại tử xuất hiện sau vết bỏng.","alts":[]}},
+   {"id":"x18-sepsis","hanzi":"sepsis","pinyin":"","vi":"nhiễm trùng huyết","ex":{"tokens":["Sepsis","must","be","treated","within","hours","."],"py":["","","","","","","."],"vi":"Nhiễm trùng huyết phải được điều trị trong vòng vài giờ.","alts":[]}},
+   {"id":"x18-hemorrhage","hanzi":"hemorrhage","pinyin":"","vi":"xuất huyết","ex":{"tokens":["He","died","of","a","brain","hemorrhage","."],"py":["","","","","","","."],"vi":"Ông ấy qua đời vì xuất huyết não.","alts":[]}},
+   {"id":"x18-relapse","hanzi":"relapse","pinyin":"","vi":"tái phát","ex":{"tokens":["She","had","a","relapse","after","two","good","years","."],"py":["","","","","","","","","."],"vi":"Cô ấy bị tái phát sau hai năm khỏe mạnh.","alts":[]}},
+   {"id":"x18-remission","hanzi":"remission","pinyin":"","vi":"sự thuyên giảm (bệnh)","ex":{"tokens":["The","cancer","is","now","in","remission","."],"py":["","","","","","","."],"vi":"Bệnh ung thư hiện đang thuyên giảm.","alts":[]}},
+   {"id":"x18-prognosis","hanzi":"prognosis","pinyin":"","vi":"tiên lượng bệnh","ex":{"tokens":["The","prognosis","is","good","if","we","act","early","."],"py":["","","","","","","","","."],"vi":"Tiên lượng tốt nếu chúng ta hành động sớm.","alts":[]}}
+  ]},
+  {"id":"x19","title":"Dược phẩm","desc":"Liều lượng, thuốc an thần, giả dược, thuốc mỡ","icon":"Drug","unit":502,"course":"en","words":[
+   {"id":"x19-dosage","hanzi":"dosage","pinyin":"","vi":"liều lượng","ex":{"tokens":["Do","not","exceed","the","stated","dosage","."],"py":["","","","","","","."],"vi":"Không dùng quá liều lượng đã ghi.","alts":[]}},
+   {"id":"x19-sedative","hanzi":"sedative","pinyin":"","vi":"thuốc an thần","ex":{"tokens":["The","nurse","gave","him","a","mild","sedative","."],"py":["","","","","","","","."],"vi":"Y tá cho ông ấy một liều thuốc an thần nhẹ.","alts":[]}},
+   {"id":"x19-antidote","hanzi":"antidote","pinyin":"","vi":"thuốc giải độc","ex":{"tokens":["There","is","no","antidote","for","this","poison","."],"py":["","","","","","","","."],"vi":"Không có thuốc giải cho loại độc này.","alts":[]}},
+   {"id":"x19-analgesic","hanzi":"analgesic","pinyin":"","vi":"thuốc giảm đau","ex":{"tokens":["Take","an","analgesic","if","the","pain","returns","."],"py":["","","","","","","","."],"vi":"Hãy uống thuốc giảm đau nếu cơn đau trở lại.","alts":[]}},
+   {"id":"x19-placebo","hanzi":"placebo","pinyin":"","vi":"giả dược","ex":{"tokens":["Half","of","the","patients","received","a","placebo","."],"py":["","","","","","","","."],"vi":"Một nửa số bệnh nhân được dùng giả dược.","alts":[]}},
+   {"id":"x19-contraindication","hanzi":"contraindication","pinyin":"","vi":"chống chỉ định","ex":{"tokens":["Pregnancy","is","a","contraindication","for","this","drug","."],"py":["","","","","","","","."],"vi":"Mang thai là một chống chỉ định của thuốc này.","alts":[]}},
+   {"id":"x19-antiseptic","hanzi":"antiseptic","pinyin":"","vi":"thuốc sát trùng","ex":{"tokens":["Clean","the","cut","with","antiseptic","."],"py":["","","","","","."],"vi":"Hãy rửa vết cắt bằng thuốc sát trùng.","alts":[]}},
+   {"id":"x19-ointment","hanzi":"ointment","pinyin":"","vi":"thuốc mỡ","ex":{"tokens":["Put","the","ointment","on","twice","a","day","."],"py":["","","","","","","","."],"vi":"Bôi thuốc mỡ hai lần mỗi ngày.","alts":[]}},
+   {"id":"x19-tablet","hanzi":"tablet","pinyin":"","vi":"viên nén; máy tính bảng","ex":{"tokens":["Take","one","tablet","after","each","meal","."],"py":["","","","","","","."],"vi":"Uống một viên sau mỗi bữa ăn.","alts":[]}},
+   {"id":"x19-capsule","hanzi":"capsule","pinyin":"","vi":"viên nang","ex":{"tokens":["Swallow","the","capsule","with","water","."],"py":["","","","","","."],"vi":"Nuốt viên nang với nước.","alts":[]}},
+   {"id":"x19-syrup","hanzi":"syrup","pinyin":"","vi":"xi rô","ex":{"tokens":["The","child","takes","cough","syrup","at","night","."],"py":["","","","","","","","."],"vi":"Đứa trẻ uống xi rô ho vào buổi tối.","alts":[]}},
+   {"id":"x19-prescribe","hanzi":"prescribe","pinyin":"","vi":"kê đơn","ex":{"tokens":["The","doctor","will","prescribe","something","stronger","."],"py":["","","","","","","."],"vi":"Bác sĩ sẽ kê loại thuốc mạnh hơn.","alts":[]}}
+  ]},
+  {"id":"x20","title":"Phẫu thuật","desc":"Dao mổ, khâu, gây mê, ghép, sinh thiết","icon":"Surgery","unit":502,"course":"en","words":[
+   {"id":"x20-incision","hanzi":"incision","pinyin":"","vi":"vết rạch, đường mổ","ex":{"tokens":["The","surgeon","made","a","small","incision","."],"py":["","","","","","","."],"vi":"Bác sĩ phẫu thuật rạch một đường nhỏ.","alts":[]}},
+   {"id":"x20-suture","hanzi":"suture","pinyin":"","vi":"mũi khâu; khâu vết thương","ex":{"tokens":["The","nurse","removed","each","suture","carefully","."],"py":["","","","","","","."],"vi":"Y tá cẩn thận tháo từng mũi khâu.","alts":[]}},
+   {"id":"x20-scalpel","hanzi":"scalpel","pinyin":"","vi":"dao mổ","ex":{"tokens":["The","scalpel","must","be","perfectly","clean","."],"py":["","","","","","","."],"vi":"Dao mổ phải hoàn toàn sạch.","alts":[]}},
+   {"id":"x20-anesthesia","hanzi":"anesthesia","pinyin":"","vi":"sự gây mê, gây tê","ex":{"tokens":["The","operation","is","done","under","local","anesthesia","."],"py":["","","","","","","","."],"vi":"Ca mổ được thực hiện dưới gây tê tại chỗ.","alts":[]}},
+   {"id":"x20-graft","hanzi":"graft","pinyin":"","vi":"mảnh ghép; ghép","ex":{"tokens":["He","needed","a","skin","graft","after","the","fire","."],"py":["","","","","","","","","."],"vi":"Anh ấy cần ghép da sau vụ cháy.","alts":[]}},
+   {"id":"x20-tourniquet","hanzi":"tourniquet","pinyin":"","vi":"ga rô","ex":{"tokens":["Tie","a","tourniquet","above","the","wound","."],"py":["","","","","","","."],"vi":"Hãy buộc ga rô phía trên vết thương.","alts":[]}},
+   {"id":"x20-biopsy","hanzi":"biopsy","pinyin":"","vi":"sinh thiết","ex":{"tokens":["The","biopsy","results","come","back","on","Friday","."],"py":["","","","","","","","."],"vi":"Kết quả sinh thiết sẽ có vào thứ Sáu.","alts":[]}},
+   {"id":"x20-catheter","hanzi":"catheter","pinyin":"","vi":"ống thông","ex":{"tokens":["A","catheter","was","placed","in","his","arm","."],"py":["","","","","","","","."],"vi":"Một ống thông được đặt vào cánh tay ông ấy.","alts":[]}},
+   {"id":"x20-stent","hanzi":"stent","pinyin":"","vi":"ống đỡ động mạch","ex":{"tokens":["Doctors","put","a","stent","in","the","blocked","artery","."],"py":["","","","","","","","","."],"vi":"Các bác sĩ đặt một ống đỡ vào động mạch bị tắc.","alts":[]}},
+   {"id":"x20-amputation","hanzi":"amputation","pinyin":"","vi":"sự cắt cụt chi","ex":{"tokens":["Amputation","was","the","only","way","to","save","her","life","."],"py":["","","","","","","","","","."],"vi":"Cắt cụt chi là cách duy nhất để cứu sống cô ấy.","alts":[]}},
+   {"id":"x20-sterile","hanzi":"sterile","pinyin":"","vi":"vô trùng","ex":{"tokens":["Use","a","sterile","needle","every","time","."],"py":["","","","","","","."],"vi":"Hãy dùng kim vô trùng mỗi lần.","alts":[]}},
+   {"id":"x20-forceps","hanzi":"forceps","pinyin":"","vi":"cái kẹp phẫu thuật","ex":{"tokens":["She","held","the","thread","with","forceps","."],"py":["","","","","","","."],"vi":"Cô ấy giữ sợi chỉ bằng kẹp.","alts":[]}}
+  ]},
+  {"id":"x21","title":"Vi sinh vật","desc":"Mầm bệnh, vi khuẩn, nấm, kháng thể","icon":"Germ","unit":502,"course":"en","words":[
+   {"id":"x21-pathogen","hanzi":"pathogen","pinyin":"","vi":"mầm bệnh","ex":{"tokens":["The","pathogen","spreads","through","dirty","water","."],"py":["","","","","","","."],"vi":"Mầm bệnh lây qua nước bẩn.","alts":[]}},
+   {"id":"x21-bacterium","hanzi":"bacterium","pinyin":"","vi":"vi khuẩn (số ít)","ex":{"tokens":["A","single","bacterium","can","divide","every","twenty","minutes","."],"py":["","","","","","","","","."],"vi":"Một vi khuẩn có thể phân chia mỗi hai mươi phút.","alts":[]}},
+   {"id":"x21-fungus","hanzi":"fungus","pinyin":"","vi":"nấm","ex":{"tokens":["A","fungus","is","growing","on","the","bread","."],"py":["","","","","","","","."],"vi":"Một loại nấm đang mọc trên bánh mì.","alts":[]}},
+   {"id":"x21-spore","hanzi":"spore","pinyin":"","vi":"bào tử","ex":{"tokens":["Each","spore","can","grow","into","a","new","plant","."],"py":["","","","","","","","","."],"vi":"Mỗi bào tử có thể phát triển thành một cây mới.","alts":[]}},
+   {"id":"x21-parasite","hanzi":"parasite","pinyin":"","vi":"ký sinh trùng","ex":{"tokens":["The","parasite","lives","inside","the","fish","."],"py":["","","","","","","."],"vi":"Ký sinh trùng sống bên trong con cá.","alts":[]}},
+   {"id":"x21-inoculate","hanzi":"inoculate","pinyin":"","vi":"tiêm chủng, cấy","ex":{"tokens":["Nurses","inoculate","children","against","measles","."],"py":["","","","","","."],"vi":"Y tá tiêm chủng cho trẻ em phòng bệnh sởi.","alts":[]}},
+   {"id":"x21-incubate","hanzi":"incubate","pinyin":"","vi":"ủ, nuôi cấy","ex":{"tokens":["We","incubate","the","samples","at","body","temperature","."],"py":["","","","","","","","."],"vi":"Chúng tôi ủ các mẫu ở nhiệt độ cơ thể.","alts":[]}},
+   {"id":"x21-strain","hanzi":"strain","pinyin":"","vi":"chủng (vi rút); sự căng thẳng","ex":{"tokens":["A","new","strain","of","flu","appeared","this","winter","."],"py":["","","","","","","","","."],"vi":"Một chủng cúm mới xuất hiện mùa đông này.","alts":[]}},
+   {"id":"x21-virulent","hanzi":"virulent","pinyin":"","vi":"có độc lực cao, rất độc","ex":{"tokens":["This","is","a","very","virulent","form","of","the","disease","."],"py":["","","","","","","","","","."],"vi":"Đây là một dạng bệnh có độc lực rất cao.","alts":[]}},
+   {"id":"x21-antibody","hanzi":"antibody","pinyin":"","vi":"kháng thể","ex":{"tokens":["The","test","looks","for","one","antibody","in","the","blood","."],"py":["","","","","","","","","","."],"vi":"Xét nghiệm tìm một loại kháng thể trong máu.","alts":[]}},
+   {"id":"x21-microbe","hanzi":"microbe","pinyin":"","vi":"vi sinh vật","ex":{"tokens":["You","cannot","see","a","microbe","without","a","microscope","."],"py":["","","","","","","","","."],"vi":"Bạn không thể thấy vi sinh vật nếu không có kính hiển vi.","alts":[]}},
+   {"id":"x21-toxin","hanzi":"toxin","pinyin":"","vi":"độc tố","ex":{"tokens":["The","bacteria","produce","a","dangerous","toxin","."],"py":["","","","","","","."],"vi":"Vi khuẩn tạo ra một độc tố nguy hiểm.","alts":[]}}
+  ]},
+  {"id":"x22","title":"Thực vật học","desc":"Phấn hoa, cánh hoa, tán lá, nảy mầm","icon":"Plant","unit":502,"course":"en","words":[
+   {"id":"x22-botany","hanzi":"botany","pinyin":"","vi":"thực vật học","ex":{"tokens":["She","studied","botany","at","university","."],"py":["","","","","","."],"vi":"Cô ấy học thực vật học ở đại học.","alts":[]}},
+   {"id":"x22-pollen","hanzi":"pollen","pinyin":"","vi":"phấn hoa","ex":{"tokens":["Pollen","makes","me","sneeze","in","spring","."],"py":["","","","","","","."],"vi":"Phấn hoa làm tôi hắt hơi vào mùa xuân.","alts":[]}},
+   {"id":"x22-stamen","hanzi":"stamen","pinyin":"","vi":"nhị hoa","ex":{"tokens":["Each","flower","has","one","long","stamen","."],"py":["","","","","","","."],"vi":"Mỗi bông hoa có một nhị dài.","alts":[]}},
+   {"id":"x22-petal","hanzi":"petal","pinyin":"","vi":"cánh hoa","ex":{"tokens":["A","petal","fell","onto","the","table","."],"py":["","","","","","","."],"vi":"Một cánh hoa rơi xuống bàn.","alts":[]}},
+   {"id":"x22-foliage","hanzi":"foliage","pinyin":"","vi":"tán lá","ex":{"tokens":["The","foliage","turns","red","in","autumn","."],"py":["","","","","","","."],"vi":"Tán lá chuyển sang màu đỏ vào mùa thu.","alts":[]}},
+   {"id":"x22-shrub","hanzi":"shrub","pinyin":"","vi":"cây bụi","ex":{"tokens":["A","shrub","grows","beside","the","gate","."],"py":["","","","","","","."],"vi":"Một cây bụi mọc bên cạnh cổng.","alts":[]}},
+   {"id":"x22-perennial","hanzi":"perennial","pinyin":"","vi":"cây lâu năm; lâu dài","ex":{"tokens":["This","perennial","flowers","every","summer","."],"py":["","","","","","."],"vi":"Loại cây lâu năm này ra hoa mỗi mùa hè.","alts":[]}},
+   {"id":"x22-germinate","hanzi":"germinate","pinyin":"","vi":"nảy mầm","ex":{"tokens":["The","seeds","germinate","in","about","a","week","."],"py":["","","","","","","","."],"vi":"Hạt nảy mầm trong khoảng một tuần.","alts":[]}},
+   {"id":"x22-photosynthesis","hanzi":"photosynthesis","pinyin":"","vi":"quang hợp","ex":{"tokens":["Plants","need","light","for","photosynthesis","."],"py":["","","","","","."],"vi":"Cây cần ánh sáng để quang hợp.","alts":[]}},
+   {"id":"x22-sap","hanzi":"sap","pinyin":"","vi":"nhựa cây","ex":{"tokens":["Sap","ran","down","the","trunk","."],"py":["","","","","","."],"vi":"Nhựa cây chảy xuống thân cây.","alts":[]}},
+   {"id":"x22-bark","hanzi":"bark","pinyin":"","vi":"vỏ cây; sủa","ex":{"tokens":["The","bark","of","this","tree","is","white","."],"py":["","","","","","","","."],"vi":"Vỏ của cây này màu trắng.","alts":[]}},
+   {"id":"x22-seedling","hanzi":"seedling","pinyin":"","vi":"cây con, cây giống","ex":{"tokens":["Water","each","seedling","every","morning","."],"py":["","","","","","."],"vi":"Hãy tưới mỗi cây con vào mỗi sáng.","alts":[]}}
+  ]},
+  {"id":"x23","title":"Động vật học","desc":"Bò sát, lưỡng cư, ăn thịt, ngủ đông","icon":"Animal","unit":502,"course":"en","words":[
+   {"id":"x23-mammal","hanzi":"mammal","pinyin":"","vi":"động vật có vú","ex":{"tokens":["A","whale","is","a","mammal",",","not","a","fish","."],"py":["","","","","",",","","","","."],"vi":"Cá voi là động vật có vú, không phải cá.","alts":[]}},
+   {"id":"x23-reptile","hanzi":"reptile","pinyin":"","vi":"loài bò sát","ex":{"tokens":["A","snake","is","a","reptile","."],"py":["","","","","","."],"vi":"Rắn là một loài bò sát.","alts":[]}},
+   {"id":"x23-amphibian","hanzi":"amphibian","pinyin":"","vi":"động vật lưỡng cư","ex":{"tokens":["A","frog","is","an","amphibian","."],"py":["","","","","","."],"vi":"Ếch là một động vật lưỡng cư.","alts":[]}},
+   {"id":"x23-vertebrate","hanzi":"vertebrate","pinyin":"","vi":"động vật có xương sống","ex":{"tokens":["Every","bird","is","a","vertebrate","."],"py":["","","","","","."],"vi":"Mọi loài chim đều là động vật có xương sống.","alts":[]}},
+   {"id":"x23-scavenger","hanzi":"scavenger","pinyin":"","vi":"động vật ăn xác thối","ex":{"tokens":["The","vulture","is","a","scavenger","."],"py":["","","","","","."],"vi":"Kền kền là loài ăn xác thối.","alts":[]}},
+   {"id":"x23-marsupial","hanzi":"marsupial","pinyin":"","vi":"thú có túi","ex":{"tokens":["The","kangaroo","is","a","marsupial","."],"py":["","","","","","."],"vi":"Chuột túi là một loài thú có túi.","alts":[]}},
+   {"id":"x23-carnivore","hanzi":"carnivore","pinyin":"","vi":"động vật ăn thịt","ex":{"tokens":["A","lion","is","a","carnivore","."],"py":["","","","","","."],"vi":"Sư tử là động vật ăn thịt.","alts":[]}},
+   {"id":"x23-herbivore","hanzi":"herbivore","pinyin":"","vi":"động vật ăn cỏ","ex":{"tokens":["A","cow","is","a","herbivore","."],"py":["","","","","","."],"vi":"Bò là động vật ăn cỏ.","alts":[]}},
+   {"id":"x23-plumage","hanzi":"plumage","pinyin":"","vi":"bộ lông chim","ex":{"tokens":["The","male","bird","has","bright","plumage","."],"py":["","","","","","","."],"vi":"Con chim trống có bộ lông sặc sỡ.","alts":[]}},
+   {"id":"x23-hibernate","hanzi":"hibernate","pinyin":"","vi":"ngủ đông","ex":{"tokens":["Bears","hibernate","through","the","winter","."],"py":["","","","","","."],"vi":"Gấu ngủ đông suốt mùa đông.","alts":[]}},
+   {"id":"x23-molt","hanzi":"molt","pinyin":"","vi":"thay lông, lột xác","ex":{"tokens":["Snakes","molt","several","times","a","year","."],"py":["","","","","","","."],"vi":"Rắn lột xác vài lần mỗi năm.","alts":[]}},
+   {"id":"x23-larva","hanzi":"larva","pinyin":"","vi":"ấu trùng","ex":{"tokens":["The","larva","becomes","a","butterfly","."],"py":["","","","","","."],"vi":"Ấu trùng trở thành bướm.","alts":[]}}
+  ]},
+  {"id":"x24","title":"Khí tượng","desc":"Áp kế, mưa đá, gió giật, sương giá","icon":"Sky","unit":502,"course":"en","words":[
+   {"id":"x24-barometer","hanzi":"barometer","pinyin":"","vi":"áp kế","ex":{"tokens":["The","barometer","shows","that","rain","is","coming","."],"py":["","","","","","","","."],"vi":"Áp kế cho thấy trời sắp mưa.","alts":[]}},
+   {"id":"x24-dew","hanzi":"dew","pinyin":"","vi":"sương","ex":{"tokens":["The","grass","was","wet","with","dew","."],"py":["","","","","","","."],"vi":"Cỏ ướt đẫm sương.","alts":[]}},
+   {"id":"x24-precipitation","hanzi":"precipitation","pinyin":"","vi":"lượng mưa, giáng thủy","ex":{"tokens":["Precipitation","is","highest","in","August","."],"py":["","","","","","."],"vi":"Lượng mưa cao nhất vào tháng Tám.","alts":[]}},
+   {"id":"x24-squall","hanzi":"squall","pinyin":"","vi":"cơn gió mạnh bất chợt kèm mưa","ex":{"tokens":["A","squall","hit","the","boat","without","warning","."],"py":["","","","","","","","."],"vi":"Một cơn gió mạnh kèm mưa ập vào con thuyền mà không báo trước.","alts":[]}},
+   {"id":"x24-cyclone","hanzi":"cyclone","pinyin":"","vi":"lốc xoáy, bão xoáy","ex":{"tokens":["The","cyclone","destroyed","hundreds","of","homes","."],"py":["","","","","","","."],"vi":"Cơn bão xoáy phá hủy hàng trăm ngôi nhà.","alts":[]}},
+   {"id":"x24-drizzle","hanzi":"drizzle","pinyin":"","vi":"mưa phùn","ex":{"tokens":["A","light","drizzle","fell","all","morning","."],"py":["","","","","","","."],"vi":"Mưa phùn nhẹ rơi suốt buổi sáng.","alts":[]}},
+   {"id":"x24-hail","hanzi":"hail","pinyin":"","vi":"mưa đá","ex":{"tokens":["Hail","damaged","the","cars","in","the","street","."],"py":["","","","","","","","."],"vi":"Mưa đá làm hỏng những chiếc xe trên phố.","alts":[]}},
+   {"id":"x24-gust","hanzi":"gust","pinyin":"","vi":"cơn gió giật","ex":{"tokens":["A","gust","of","wind","blew","my","hat","away","."],"py":["","","","","","","","","."],"vi":"Một cơn gió giật thổi bay mũ của tôi.","alts":[]}},
+   {"id":"x24-frost","hanzi":"frost","pinyin":"","vi":"sương giá","ex":{"tokens":["Frost","covered","the","fields","this","morning","."],"py":["","","","","","","."],"vi":"Sáng nay sương giá phủ kín cánh đồng.","alts":[]}},
+   {"id":"x24-overcast","hanzi":"overcast","pinyin":"","vi":"u ám, nhiều mây","ex":{"tokens":["The","sky","was","overcast","all","day","."],"py":["","","","","","","."],"vi":"Bầu trời u ám cả ngày.","alts":[]}},
+   {"id":"x24-meteorologist","hanzi":"meteorologist","pinyin":"","vi":"nhà khí tượng học","ex":{"tokens":["The","meteorologist","warned","of","heavy","snow","."],"py":["","","","","","","."],"vi":"Nhà khí tượng học cảnh báo có tuyết rơi dày.","alts":[]}},
+   {"id":"x24-sleet","hanzi":"sleet","pinyin":"","vi":"mưa tuyết","ex":{"tokens":["Sleet","made","the","roads","dangerous","."],"py":["","","","","","."],"vi":"Mưa tuyết khiến đường sá nguy hiểm.","alts":[]}}
   ]}
  ]
 }

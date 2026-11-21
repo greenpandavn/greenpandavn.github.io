@@ -297,7 +297,7 @@ strain|chủng (vi rút); sự căng thẳng|A new strain of flu appeared this w
 virulent|có độc lực cao, rất độc|This is a very virulent form of the disease.|Đây là một dạng bệnh có độc lực rất cao.
 antibody|kháng thể|The test looks for one antibody in the blood.|Xét nghiệm tìm một loại kháng thể trong máu.
 microbe|vi sinh vật|You cannot see a microbe without a microscope.|Bạn không thể thấy vi sinh vật nếu không có kính hiển vi.
-enzyme|enzim|This enzyme helps the body digest milk.|Enzim này giúp cơ thể tiêu hóa sữa.
+toxin|độc tố|The bacteria produce a dangerous toxin.|Vi khuẩn tạo ra một độc tố nguy hiểm.
 
 @x22|Thực vật học|Phấn hoa, cánh hoa, tán lá, nảy mầm|Plant
 botany|thực vật học|She studied botany at university.|Cô ấy học thực vật học ở đại học.
