@@ -1,0 +1,218 @@
+# Format:
+# @lessonId|Tiêu đề|Mô tả|icon|unit|bonusCost(optional)
+# hanzi|pinyin|nghĩa tiếng Việt|câu ví dụ (tách từ bằng /)|pinyin câu ví dụ (tách bằng /)|nghĩa câu ví dụ|thứ tự đúng khác (tùy chọn, tách bằng ;)
+
+@l01|Chào hỏi|Xin chào, cảm ơn, tạm biệt|wave|1
+你好|nǐ hǎo|xin chào|你好/，/老师/！|nǐ hǎo/,/lǎoshī/!|Em chào thầy/cô ạ!
+谢谢|xièxie|cảm ơn|谢谢/你/！|xièxie/nǐ/!|Cảm ơn bạn!
+不客气|bú kèqi|không có gì, đừng khách sáo|不客气/，/朋友/。|bú kèqi/,/péngyou/.|Không có gì đâu, bạn ơi.
+再见|zàijiàn|tạm biệt|老师/再见/！|lǎoshī/zàijiàn/!|Tạm biệt thầy/cô!|再见老师
+对不起|duìbuqǐ|xin lỗi|对不起/，/我/不/认识/你/。|duìbuqǐ/,/wǒ/bú/rènshi/nǐ/.|Xin lỗi, tôi không quen bạn.
+没关系|méi guānxi|không sao đâu|没关系/，/再见/！|méi guānxi/,/zàijiàn/!|Không sao đâu, tạm biệt!
+请|qǐng|mời; xin vui lòng|请/喝/茶/。|qǐng/hē/chá/.|Mời uống trà.
+喂|wèi|alô (khi nghe điện thoại)|喂/，/你/是/谁/？|wèi/,/nǐ/shì/shéi/?|A lô, ai đấy ạ?
+你|nǐ|bạn, anh, chị (ngôi thứ hai)|你/是/老师/吗/？|nǐ/shì/lǎoshī/ma/?|Bạn là giáo viên à?
+我|wǒ|tôi, mình|我/是/学生/。|wǒ/shì/xuésheng/.|Tôi là học sinh.
+
+@l02|Giới thiệu bản thân|Tên, quốc tịch, làm quen|id|1
+是|shì|là|他/是/我/朋友/。|tā/shì/wǒ/péngyou/.|Anh ấy là bạn tôi.
+不|bù|không|我/不/是/老师/。|wǒ/bú/shì/lǎoshī/.|Tôi không phải là giáo viên.
+叫|jiào|gọi, tên là|我/叫/小明/。|wǒ/jiào/Xiǎo Míng/.|Tôi tên là Tiểu Minh.
+名字|míngzi|tên|你/叫/什么/名字/？|nǐ/jiào/shénme/míngzi/?|Bạn tên là gì?
+什么|shénme|cái gì, gì|这/是/什么/？|zhè/shì/shénme/?|Đây là cái gì?
+他|tā|anh ấy, ông ấy (nam)|他/是/中国/人/。|tā/shì/Zhōngguó/rén/.|Anh ấy là người Trung Quốc.
+她|tā|cô ấy, bà ấy (nữ)|她/是/我/妈妈/。|tā/shì/wǒ/māma/.|Bà ấy là mẹ tôi.
+我们|wǒmen|chúng tôi, chúng ta|我们/是/同学/。|wǒmen/shì/tóngxué/.|Chúng tôi là bạn cùng lớp.
+人|rén|người|你/是/哪/国/人/？|nǐ/shì/nǎ/guó/rén/?|Bạn là người nước nào?
+中国|Zhōngguó|Trung Quốc|我/喜欢/中国/菜/。|wǒ/xǐhuan/Zhōngguó/cài/.|Tôi thích món ăn Trung Quốc.
+越南|Yuènán|Việt Nam|我/是/越南/人/。|wǒ/shì/Yuènán/rén/.|Tôi là người Việt Nam.
+认识|rènshi|quen biết|认识/你/很/高兴/。|rènshi/nǐ/hěn/gāoxìng/.|Rất vui được làm quen với bạn.
+高兴|gāoxìng|vui, vui mừng|今天/我/很/高兴/。|jīntiān/wǒ/hěn/gāoxìng/.|Hôm nay tôi rất vui.|我今天很高兴
+
+@l03|Số đếm|Đếm từ 1 đến 10|numbers|1
+一|yī|một (số 1)|我/有/一/个/朋友/。|wǒ/yǒu/yí/ge/péngyou/.|Tôi có một người bạn.
+二|èr|hai (số 2)|今天/是/二/月/一/号/。|jīntiān/shì/èr/yuè/yī/hào/.|Hôm nay là ngày mùng 1 tháng 2.
+三|sān|ba (số 3)|我/家/有/三/个/人/。|wǒ/jiā/yǒu/sān/ge/rén/.|Nhà tôi có ba người.
+四|sì|bốn (số 4)|我/有/四/本/书/。|wǒ/yǒu/sì/běn/shū/.|Tôi có bốn quyển sách.
+五|wǔ|năm (số 5)|我/买/五/个/苹果/。|wǒ/mǎi/wǔ/ge/píngguǒ/.|Tôi mua năm quả táo.
+六|liù|sáu (số 6)|他/六/岁/。|tā/liù/suì/.|Cậu bé ấy sáu tuổi.
+七|qī|bảy (số 7)|一/个/星期/有/七/天/。|yí/ge/xīngqī/yǒu/qī/tiān/.|Một tuần có bảy ngày.
+八|bā|tám (số 8)|现在/八/点/。|xiànzài/bā/diǎn/.|Bây giờ là tám giờ.
+九|jiǔ|chín (số 9)|我/女儿/九/岁/。|wǒ/nǚ'ér/jiǔ/suì/.|Con gái tôi chín tuổi.
+十|shí|mười (số 10)|我们/班/有/十/个/学生/。|wǒmen/bān/yǒu/shí/ge/xuésheng/.|Lớp chúng tôi có mười học sinh.
+
+@l04|Mua sắm|Bao nhiêu tiền? Mua gì?|shop|1
+几|jǐ|mấy (hỏi số nhỏ)|你/几/岁/？|nǐ/jǐ/suì/?|Con mấy tuổi rồi?
+多少|duōshao|bao nhiêu|这/个/多少/钱/？|zhè/ge/duōshao/qián/?|Cái này bao nhiêu tiền?
+个|gè|cái, chiếc (lượng từ chung)|我/想/买/一/个/杯子/。|wǒ/xiǎng/mǎi/yí/ge/bēizi/.|Tôi muốn mua một cái cốc.
+本|běn|quyển, cuốn (lượng từ cho sách)|这/本/书/很/好/。|zhè/běn/shū/hěn/hǎo/.|Quyển sách này rất hay.
+块|kuài|đồng (đơn vị tiền, khẩu ngữ)|一/个/苹果/三/块/钱/。|yí/ge/píngguǒ/sān/kuài/qián/.|Một quả táo giá ba đồng.
+钱|qián|tiền|我/没有/钱/。|wǒ/méiyǒu/qián/.|Tôi không có tiền.
+买|mǎi|mua|我/去/商店/买/东西/。|wǒ/qù/shāngdiàn/mǎi/dōngxi/.|Tôi đi cửa hàng mua đồ.
+商店|shāngdiàn|cửa hàng|商店/在/哪儿/？|shāngdiàn/zài/nǎr/?|Cửa hàng ở đâu?
+东西|dōngxi|đồ, đồ vật|你/想/买/什么/东西/？|nǐ/xiǎng/mǎi/shénme/dōngxi/?|Bạn muốn mua đồ gì?
+些|xiē|một vài, một ít|我/想/买/一些/水果/。|wǒ/xiǎng/mǎi/yìxiē/shuǐguǒ/.|Tôi muốn mua một ít hoa quả.
+多|duō|nhiều|商店/里/人/很/多/。|shāngdiàn/li/rén/hěn/duō/.|Trong cửa hàng rất đông người.
+少|shǎo|ít|今天/人/很/少/。|jīntiān/rén/hěn/shǎo/.|Hôm nay rất ít người.
+
+@l05|Gia đình|Bố, mẹ, con cái, bạn bè|family|1
+家|jiā|nhà, gia đình|我/家/在/河内/。|wǒ/jiā/zài/Hénèi/.|Nhà tôi ở Hà Nội.
+爸爸|bàba|bố, ba|我/爸爸/是/医生/。|wǒ/bàba/shì/yīshēng/.|Bố tôi là bác sĩ.
+妈妈|māma|mẹ, má|我/妈妈/是/老师/。|wǒ/māma/shì/lǎoshī/.|Mẹ tôi là giáo viên.
+儿子|érzi|con trai|他/有/一/个/儿子/。|tā/yǒu/yí/ge/érzi/.|Anh ấy có một cậu con trai.
+女儿|nǚ'ér|con gái|她/女儿/很/漂亮/。|tā/nǚ'ér/hěn/piàoliang/.|Con gái cô ấy rất xinh.
+朋友|péngyou|bạn, bạn bè|他/是/我/的/好/朋友/。|tā/shì/wǒ/de/hǎo/péngyou/.|Cậu ấy là bạn thân của tôi.
+爱|ài|yêu|我/爱/我/的/家/。|wǒ/ài/wǒ/de/jiā/.|Tôi yêu gia đình của tôi.
+和|hé|và, với|爸爸/和/妈妈/都/在/家/。|bàba/hé/māma/dōu/zài/jiā/.|Bố và mẹ đều ở nhà.|妈妈和爸爸都在家
+有|yǒu|có|我/有/很/多/朋友/。|wǒ/yǒu/hěn/duō/péngyou/.|Tôi có rất nhiều bạn.
+没有|méiyǒu|không có|我/没有/哥哥/。|wǒ/méiyǒu/gēge/.|Tôi không có anh trai.
+岁|suì|tuổi|我/妈妈/四十/岁/。|wǒ/māma/sìshí/suì/.|Mẹ tôi bốn mươi tuổi.
+
+@l06|Đồ ăn, thức uống|Ăn gì, uống gì?|food|2
+吃|chī|ăn|我/想/吃/米饭/。|wǒ/xiǎng/chī/mǐfàn/.|Tôi muốn ăn cơm.
+喝|hē|uống|你/想/喝/什么/？|nǐ/xiǎng/hē/shénme/?|Bạn muốn uống gì?
+水|shuǐ|nước|我/想/喝/水/。|wǒ/xiǎng/hē/shuǐ/.|Tôi muốn uống nước.
+米饭|mǐfàn|cơm (gạo nấu chín)|越南/人/喜欢/吃/米饭/。|Yuènán/rén/xǐhuan/chī/mǐfàn/.|Người Việt Nam thích ăn cơm.
+菜|cài|món ăn; rau|这/个/菜/很/好吃/。|zhè/ge/cài/hěn/hǎochī/.|Món này rất ngon.
+茶|chá|trà|中国/人/喜欢/喝/茶/。|Zhōngguó/rén/xǐhuan/hē/chá/.|Người Trung Quốc thích uống trà.
+苹果|píngguǒ|quả táo|这/个/苹果/很/大/。|zhè/ge/píngguǒ/hěn/dà/.|Quả táo này rất to.
+水果|shuǐguǒ|hoa quả, trái cây|我/喜欢/吃/水果/。|wǒ/xǐhuan/chī/shuǐguǒ/.|Tôi thích ăn trái cây.
+杯子|bēizi|cái cốc, cái ly|杯子/里/有/水/。|bēizi/li/yǒu/shuǐ/.|Trong cốc có nước.
+饭店|fàndiàn|nhà hàng; khách sạn|我们/去/饭店/吃饭/。|wǒmen/qù/fàndiàn/chīfàn/.|Chúng ta đi nhà hàng ăn cơm.
+喜欢|xǐhuan|thích|你/喜欢/吃/什么/？|nǐ/xǐhuan/chī/shénme/?|Bạn thích ăn gì?
+想|xiǎng|muốn; nghĩ, nhớ|我/想/去/中国/。|wǒ/xiǎng/qù/Zhōngguó/.|Tôi muốn đi Trung Quốc.
+
+@l07|Màu sắc & miêu tả|Đỏ, xanh, to, nhỏ, đẹp|colors|2
+颜色|yánsè|màu sắc|你/喜欢/什么/颜色/？|nǐ/xǐhuan/shénme/yánsè/?|Bạn thích màu gì?
+红色|hóngsè|màu đỏ|我/喜欢/红色/。|wǒ/xǐhuan/hóngsè/.|Tôi thích màu đỏ.
+白色|báisè|màu trắng|我/的/猫/是/白色/的/。|wǒ/de/māo/shì/báisè/de/.|Con mèo của tôi màu trắng.
+黑色|hēisè|màu đen|他/的/狗/是/黑色/的/。|tā/de/gǒu/shì/hēisè/de/.|Con chó của anh ấy màu đen.
+蓝色|lánsè|màu xanh lam, xanh dương|天/是/蓝色/的/。|tiān/shì/lánsè/de/.|Bầu trời màu xanh lam.
+绿色|lǜsè|màu xanh lá cây|我/有/一/件/绿色/的/衣服/。|wǒ/yǒu/yí/jiàn/lǜsè/de/yīfu/.|Tôi có một bộ quần áo màu xanh lá.
+黄色|huángsè|màu vàng|这/个/杯子/是/黄色/的/。|zhè/ge/bēizi/shì/huángsè/de/.|Cái cốc này màu vàng.
+大|dà|to, lớn|我/家/很/大/。|wǒ/jiā/hěn/dà/.|Nhà tôi rất to.
+小|xiǎo|nhỏ, bé|这/只/猫/很/小/。|zhè/zhī/māo/hěn/xiǎo/.|Con mèo này rất nhỏ.
+好|hǎo|tốt, hay, đẹp|今天/天气/很/好/。|jīntiān/tiānqì/hěn/hǎo/.|Hôm nay thời tiết rất đẹp.
+漂亮|piàoliang|đẹp, xinh|这/件/衣服/很/漂亮/。|zhè/jiàn/yīfu/hěn/piàoliang/.|Bộ quần áo này rất đẹp.
+很|hěn|rất|我/很/好/，/谢谢/。|wǒ/hěn/hǎo/,/xièxie/.|Tôi rất khỏe, cảm ơn.
+
+@l08|Ngày tháng|Hôm nay, ngày mai, thứ mấy?|calendar|2
+今天|jīntiān|hôm nay|今天/是/星期一/。|jīntiān/shì/xīngqīyī/.|Hôm nay là thứ Hai.
+明天|míngtiān|ngày mai|我/明天/去/学校/。|wǒ/míngtiān/qù/xuéxiào/.|Ngày mai tôi đến trường.|明天我去学校
+昨天|zuótiān|hôm qua|我/昨天/去/商店/了/。|wǒ/zuótiān/qù/shāngdiàn/le/.|Hôm qua tôi đã đi cửa hàng.|昨天我去商店了
+今年|jīnnián|năm nay|今年/我/十八/岁/。|jīnnián/wǒ/shíbā/suì/.|Năm nay tôi mười tám tuổi.|我今年十八岁
+年|nián|năm|一/年/有/十二/个/月/。|yì/nián/yǒu/shí'èr/ge/yuè/.|Một năm có mười hai tháng.
+月|yuè|tháng; mặt trăng|现在/是/五/月/。|xiànzài/shì/wǔ/yuè/.|Bây giờ là tháng năm.
+号|hào|ngày (trong tháng); số|今天/几/号/？|jīntiān/jǐ/hào/?|Hôm nay là ngày mấy?
+星期|xīngqī|tuần, thứ (trong tuần)|明天/星期/几/？|míngtiān/xīngqī/jǐ/?|Ngày mai là thứ mấy?
+现在|xiànzài|bây giờ|现在/几/点/？|xiànzài/jǐ/diǎn/?|Bây giờ là mấy giờ?
+时候|shíhou|lúc, khi|你/什么/时候/去/北京/？|nǐ/shénme/shíhou/qù/Běijīng/?|Khi nào bạn đi Bắc Kinh?
+
+@l09|Giờ giấc|Sáng, trưa, chiều và công việc|clock|2
+点|diǎn|giờ (chỉ thời điểm)|我们/十/点/见/。|wǒmen/shí/diǎn/jiàn/.|Chúng ta gặp nhau lúc mười giờ.
+分钟|fēnzhōng|phút|请/等/五/分钟/。|qǐng/děng/wǔ/fēnzhōng/.|Xin vui lòng đợi năm phút.
+上午|shàngwǔ|buổi sáng|我/上午/在/学校/。|wǒ/shàngwǔ/zài/xuéxiào/.|Buổi sáng tôi ở trường.|上午我在学校
+中午|zhōngwǔ|buổi trưa|中午/我们/去/吃饭/。|zhōngwǔ/wǒmen/qù/chīfàn/.|Buổi trưa chúng ta đi ăn cơm.|我们中午去吃饭
+下午|xiàwǔ|buổi chiều|下午/我/去/商店/。|xiàwǔ/wǒ/qù/shāngdiàn/.|Buổi chiều tôi đi cửa hàng.|我下午去商店
+睡觉|shuìjiào|ngủ, đi ngủ|我/十一/点/睡觉/。|wǒ/shíyī/diǎn/shuìjiào/.|Tôi đi ngủ lúc mười một giờ.
+工作|gōngzuò|làm việc; công việc|我/爸爸/在/医院/工作/。|wǒ/bàba/zài/yīyuàn/gōngzuò/.|Bố tôi làm việc ở bệnh viện.
+做|zuò|làm|你/在/做/什么/？|nǐ/zài/zuò/shénme/?|Bạn đang làm gì thế?
+回|huí|về, trở về|我/想/回/家/。|wǒ/xiǎng/huí/jiā/.|Tôi muốn về nhà.
+了|le|rồi, đã (trợ từ)|他/回/家/了/。|tā/huí/jiā/le/.|Anh ấy về nhà rồi.
+
+@l10|Trường học|Thầy cô, bạn học, sách vở|school|2
+学校|xuéxiào|trường học|我/的/学校/很/大/。|wǒ/de/xuéxiào/hěn/dà/.|Trường của tôi rất lớn.
+老师|lǎoshī|giáo viên, thầy/cô|我/的/汉语/老师/是/中国/人/。|wǒ/de/Hànyǔ/lǎoshī/shì/Zhōngguó/rén/.|Giáo viên tiếng Trung của tôi là người Trung Quốc.
+学生|xuésheng|học sinh, sinh viên|我们/都/是/学生/。|wǒmen/dōu/shì/xuésheng/.|Chúng tôi đều là học sinh.
+同学|tóngxué|bạn học, bạn cùng lớp|他/是/我/同学/。|tā/shì/wǒ/tóngxué/.|Cậu ấy là bạn cùng lớp của tôi.
+学习|xuéxí|học, học tập|我/在/学习/汉语/。|wǒ/zài/xuéxí/Hànyǔ/.|Tôi đang học tiếng Trung.
+汉语|Hànyǔ|tiếng Hán, tiếng Trung|你/会/说/汉语/吗/？|nǐ/huì/shuō/Hànyǔ/ma/?|Bạn biết nói tiếng Trung không?
+书|shū|sách|这/是/我/的/书/。|zhè/shì/wǒ/de/shū/.|Đây là sách của tôi.
+字|zì|chữ|这/个/字/怎么/读/？|zhè/ge/zì/zěnme/dú/?|Chữ này đọc thế nào?
+写|xiě|viết|我/会/写/汉字/。|wǒ/huì/xiě/Hànzì/.|Tôi biết viết chữ Hán.
+读|dú|đọc|请/读/这/本/书/。|qǐng/dú/zhè/běn/shū/.|Hãy đọc quyển sách này.
+说|shuō|nói|她/会/说/越南语/。|tā/huì/shuō/Yuènányǔ/.|Cô ấy biết nói tiếng Việt.
+听|tīng|nghe|我/喜欢/听/中国/歌/。|wǒ/xǐhuan/tīng/Zhōngguó/gē/.|Tôi thích nghe bài hát Trung Quốc.
+
+@l11|Động vật|Mèo, chó, gấu trúc|animals|3
+猫|māo|con mèo|我/家/有/两/只/猫/。|wǒ/jiā/yǒu/liǎng/zhī/māo/.|Nhà tôi có hai con mèo.
+狗|gǒu|con chó|这/只/狗/很/大/。|zhè/zhī/gǒu/hěn/dà/.|Con chó này rất to.
+鸟|niǎo|con chim|树/上/有/一/只/鸟/。|shù/shang/yǒu/yì/zhī/niǎo/.|Trên cây có một con chim.
+鱼|yú|con cá|我/喜欢/吃/鱼/。|wǒ/xǐhuan/chī/yú/.|Tôi thích ăn cá.
+马|mǎ|con ngựa|这/匹/马/很/漂亮/。|zhè/pǐ/mǎ/hěn/piàoliang/.|Con ngựa này rất đẹp.
+牛|niú|con bò, con trâu|牛/喜欢/吃/草/。|niú/xǐhuan/chī/cǎo/.|Bò thích ăn cỏ.
+熊猫|xióngmāo|gấu trúc|我/很/喜欢/熊猫/。|wǒ/hěn/xǐhuan/xióngmāo/.|Tôi rất thích gấu trúc.
+只|zhī|con (lượng từ cho động vật)|我/有/一/只/狗/。|wǒ/yǒu/yì/zhī/gǒu/.|Tôi có một con chó.
+看|kàn|nhìn, xem|我/喜欢/看/书/。|wǒ/xǐhuan/kàn/shū/.|Tôi thích đọc sách.
+看见|kànjiàn|nhìn thấy|我/看见/一/只/猫/。|wǒ/kànjiàn/yì/zhī/māo/.|Tôi nhìn thấy một con mèo.
+
+@l12|Đồ vật trong nhà|Bàn, ghế, ti vi, máy tính|home|3
+桌子|zhuōzi|cái bàn|书/在/桌子/上/。|shū/zài/zhuōzi/shang/.|Sách ở trên bàn.
+椅子|yǐzi|cái ghế|这/把/椅子/很/小/。|zhè/bǎ/yǐzi/hěn/xiǎo/.|Cái ghế này rất nhỏ.
+电脑|diànnǎo|máy vi tính|我/的/电脑/是/新/的/。|wǒ/de/diànnǎo/shì/xīn/de/.|Máy tính của tôi là máy mới.
+电视|diànshì|ti vi, truyền hình|爸爸/在/看/电视/。|bàba/zài/kàn/diànshì/.|Bố đang xem ti vi.
+电影|diànyǐng|phim, điện ảnh|我们/去/看/电影/吧/！|wǒmen/qù/kàn/diànyǐng/ba/!|Chúng ta đi xem phim nhé!
+衣服|yīfu|quần áo|我/想/买/衣服/。|wǒ/xiǎng/mǎi/yīfu/.|Tôi muốn mua quần áo.
+打电话|dǎ diànhuà|gọi điện thoại|我/给/妈妈/打电话/。|wǒ/gěi/māma/dǎ diànhuà/.|Tôi gọi điện cho mẹ.
+开|kāi|mở; lái (xe)|请/开/门/。|qǐng/kāi/mén/.|Xin hãy mở cửa.
+在|zài|ở, tại; đang|他/在/学校/。|tā/zài/xuéxiào/.|Anh ấy đang ở trường.
+住|zhù|sống, ở (cư trú)|你/住/在/哪儿/？|nǐ/zhù/zài/nǎr/?|Bạn sống ở đâu?
+
+@l13|Vị trí & câu hỏi|Ở đâu? Ai? Cái nào?|question|3
+这|zhè|này, đây|这/是/我/妈妈/。|zhè/shì/wǒ/māma/.|Đây là mẹ tôi.
+那|nà|kia, đó|那/是/什么/？|nà/shì/shénme/?|Kia là cái gì?
+哪|nǎ|nào|你/喜欢/哪/个/？|nǐ/xǐhuan/nǎ/ge/?|Bạn thích cái nào?
+哪儿|nǎr|ở đâu, chỗ nào|你/去/哪儿/？|nǐ/qù/nǎr/?|Bạn đi đâu đấy?
+谁|shéi|ai|他/是/谁/？|tā/shì/shéi/?|Anh ấy là ai?
+上|shàng|trên; lên|他/上/车/了/。|tā/shàng/chē/le/.|Anh ấy lên xe rồi.
+下|xià|dưới; xuống|猫/在/椅子/下面/。|māo/zài/yǐzi/xiàmiàn/.|Con mèo ở dưới ghế.
+里|lǐ|trong, bên trong|家/里/有/人/吗/？|jiā/li/yǒu/rén/ma/?|Trong nhà có ai không?
+前面|qiánmiàn|phía trước|学校/前面/有/一/个/商店/。|xuéxiào/qiánmiàn/yǒu/yí/ge/shāngdiàn/.|Phía trước trường có một cửa hàng.
+后面|hòumiàn|phía sau|饭店/在/学校/后面/。|fàndiàn/zài/xuéxiào/hòumiàn/.|Nhà hàng ở phía sau trường.
+吗|ma|không? phải không? (trợ từ hỏi)|你/是/越南/人/吗/？|nǐ/shì/Yuènán/rén/ma/?|Bạn là người Việt Nam phải không?
+呢|ne|còn...thì sao? (trợ từ hỏi)|我/很/好/，/你/呢/？|wǒ/hěn/hǎo/,/nǐ/ne/?|Tôi khỏe, còn bạn thì sao?
+
+@l14|Du lịch|Đi lại bằng máy bay, taxi|travel|3
+去|qù|đi|我/想/去/北京/。|wǒ/xiǎng/qù/Běijīng/.|Tôi muốn đi Bắc Kinh.
+来|lái|đến, tới|欢迎/来/越南/！|huānyíng/lái/Yuènán/!|Chào mừng bạn đến Việt Nam!
+坐|zuò|ngồi; đi (phương tiện)|我/坐/飞机/去/北京/。|wǒ/zuò/fēijī/qù/Běijīng/.|Tôi đi máy bay đến Bắc Kinh.
+飞机|fēijī|máy bay|飞机/几/点/到/？|fēijī/jǐ/diǎn/dào/?|Máy bay mấy giờ đến?
+出租车|chūzūchē|xe taxi|我们/坐/出租车/去/吧/。|wǒmen/zuò/chūzūchē/qù/ba/.|Chúng ta đi taxi nhé.
+北京|Běijīng|Bắc Kinh|北京/是/中国/的/首都/。|Běijīng/shì/Zhōngguó/de/shǒudū/.|Bắc Kinh là thủ đô của Trung Quốc.
+医院|yīyuàn|bệnh viện|医院/在/哪儿/？|yīyuàn/zài/nǎr/?|Bệnh viện ở đâu?
+医生|yīshēng|bác sĩ|她/是/一/个/好/医生/。|tā/shì/yí/ge/hǎo/yīshēng/.|Cô ấy là một bác sĩ giỏi.
+先生|xiānsheng|ông, ngài; chồng|王/先生/，/你好/！|Wáng/xiānsheng/,/nǐ hǎo/!|Chào ông Vương!
+小姐|xiǎojiě|cô (cách gọi lịch sự)|李/小姐/是/老师/。|Lǐ/xiǎojiě/shì/lǎoshī/.|Cô Lý là giáo viên.
+怎么|zěnme|thế nào, làm sao|去/机场/怎么/走/？|qù/jīchǎng/zěnme/zǒu/?|Đi đến sân bay thế nào?
+
+@l15|Thời tiết & khả năng|Nóng, lạnh, mưa; biết, có thể|weather|3
+天气|tiānqì|thời tiết|明天/天气/怎么样/？|míngtiān/tiānqì/zěnmeyàng/?|Thời tiết ngày mai thế nào?
+冷|lěng|lạnh|今天/很/冷/。|jīntiān/hěn/lěng/.|Hôm nay rất lạnh.
+热|rè|nóng|越南/的/夏天/很/热/。|Yuènán/de/xiàtiān/hěn/rè/.|Mùa hè ở Việt Nam rất nóng.
+下雨|xià yǔ|mưa, trời mưa|今天/下雨/了/。|jīntiān/xià yǔ/le/.|Hôm nay trời mưa rồi.
+太|tài|quá, lắm|太/好/了/！|tài/hǎo/le/!|Tuyệt quá!
+怎么样|zěnmeyàng|thế nào, ra sao|这/个/菜/怎么样/？|zhè/ge/cài/zěnmeyàng/?|Món này thế nào?
+能|néng|có thể|我/能/坐/这儿/吗/？|wǒ/néng/zuò/zhèr/ma/?|Tôi có thể ngồi ở đây không?
+会|huì|biết (làm gì); sẽ|我/会/说/一点儿/汉语/。|wǒ/huì/shuō/yìdiǎnr/Hànyǔ/.|Tôi biết nói một chút tiếng Trung.
+都|dōu|đều|我们/都/喜欢/熊猫/。|wǒmen/dōu/xǐhuan/xióngmāo/.|Chúng tôi đều thích gấu trúc.
+的|de|của (trợ từ)|这/是/谁/的/书/？|zhè/shì/shéi/de/shū/?|Đây là sách của ai?
+
+@b01|Bonus: Món ngon|Mì, sủi cảo, cà phê, bánh mì|bonusfood|2|50
+面条|miàntiáo|mì, sợi mì|我/想/吃/面条/。|wǒ/xiǎng/chī/miàntiáo/.|Tôi muốn ăn mì.
+饺子|jiǎozi|sủi cảo, bánh chẻo|中国/人/喜欢/吃/饺子/。|Zhōngguó/rén/xǐhuan/chī/jiǎozi/.|Người Trung Quốc thích ăn sủi cảo.
+咖啡|kāfēi|cà phê|越南/咖啡/很/好喝/。|Yuènán/kāfēi/hěn/hǎohē/.|Cà phê Việt Nam rất ngon.
+牛奶|niúnǎi|sữa bò|我/每天/喝/牛奶/。|wǒ/měitiān/hē/niúnǎi/.|Tôi uống sữa mỗi ngày.|每天我喝牛奶
+鸡蛋|jīdàn|trứng gà|我/买/了/十/个/鸡蛋/。|wǒ/mǎi/le/shí/ge/jīdàn/.|Tôi đã mua mười quả trứng gà.
+面包|miànbāo|bánh mì|越南/面包/很/好吃/。|Yuènán/miànbāo/hěn/hǎochī/.|Bánh mì Việt Nam rất ngon.
+好吃|hǎochī|ngon (đồ ăn)|妈妈/做/的/菜/很/好吃/。|māma/zuò/de/cài/hěn/hǎochī/.|Món mẹ nấu rất ngon.
+筷子|kuàizi|đôi đũa|我/会/用/筷子/。|wǒ/huì/yòng/kuàizi/.|Tôi biết dùng đũa.
+
+@b02|Bonus: Cơ thể|Đầu, tay, mắt, mũi|bonusbody|3|50
+头|tóu|cái đầu|我/头/疼/。|wǒ/tóu/téng/.|Tôi bị đau đầu.
+手|shǒu|tay, bàn tay|请/洗/手/。|qǐng/xǐ/shǒu/.|Hãy rửa tay.
+眼睛|yǎnjing|mắt|她/的/眼睛/很/大/。|tā/de/yǎnjing/hěn/dà/.|Mắt cô ấy rất to.
+嘴|zuǐ|miệng|请/张开/嘴/。|qǐng/zhāngkāi/zuǐ/.|Hãy há miệng ra.
+耳朵|ěrduo|tai|兔子/的/耳朵/很/长/。|tùzi/de/ěrduo/hěn/cháng/.|Tai của con thỏ rất dài.
+脚|jiǎo|bàn chân|我/的/脚/很/冷/。|wǒ/de/jiǎo/hěn/lěng/.|Chân tôi rất lạnh.
+鼻子|bízi|cái mũi|大象/的/鼻子/很/长/。|dàxiàng/de/bízi/hěn/cháng/.|Vòi của con voi rất dài.
+身体|shēntǐ|cơ thể; sức khỏe|祝/你/身体/健康/！|zhù/nǐ/shēntǐ/jiànkāng/!|Chúc bạn mạnh khỏe!

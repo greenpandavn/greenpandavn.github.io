@@ -1,0 +1,4645 @@
+{
+ "lessons": [
+  {
+   "id": "l01",
+   "title": "Chào hỏi",
+   "desc": "Xin chào, cảm ơn, tạm biệt",
+   "icon": "wave",
+   "unit": 1,
+   "words": [
+    {
+     "id": "l01-你好",
+     "hanzi": "你好",
+     "pinyin": "nǐ hǎo",
+     "vi": "xin chào",
+     "ex": {
+      "tokens": [
+       "你好",
+       "，",
+       "老师",
+       "！"
+      ],
+      "py": [
+       "nǐ hǎo",
+       ",",
+       "lǎoshī",
+       "!"
+      ],
+      "vi": "Em chào thầy/cô ạ!",
+      "alts": []
+     }
+    },
+    {
+     "id": "l01-谢谢",
+     "hanzi": "谢谢",
+     "pinyin": "xièxie",
+     "vi": "cảm ơn",
+     "ex": {
+      "tokens": [
+       "谢谢",
+       "你",
+       "！"
+      ],
+      "py": [
+       "xièxie",
+       "nǐ",
+       "!"
+      ],
+      "vi": "Cảm ơn bạn!",
+      "alts": []
+     }
+    },
+    {
+     "id": "l01-不客气",
+     "hanzi": "不客气",
+     "pinyin": "bú kèqi",
+     "vi": "không có gì, đừng khách sáo",
+     "ex": {
+      "tokens": [
+       "不客气",
+       "，",
+       "朋友",
+       "。"
+      ],
+      "py": [
+       "bú kèqi",
+       ",",
+       "péngyou",
+       "."
+      ],
+      "vi": "Không có gì đâu, bạn ơi.",
+      "alts": []
+     }
+    },
+    {
+     "id": "l01-再见",
+     "hanzi": "再见",
+     "pinyin": "zàijiàn",
+     "vi": "tạm biệt",
+     "ex": {
+      "tokens": [
+       "老师",
+       "再见",
+       "！"
+      ],
+      "py": [
+       "lǎoshī",
+       "zàijiàn",
+       "!"
+      ],
+      "vi": "Tạm biệt thầy/cô!",
+      "alts": [
+       "再见老师"
+      ]
+     }
+    },
+    {
+     "id": "l01-对不起",
+     "hanzi": "对不起",
+     "pinyin": "duìbuqǐ",
+     "vi": "xin lỗi",
+     "ex": {
+      "tokens": [
+       "对不起",
+       "，",
+       "我",
+       "不",
+       "认识",
+       "你",
+       "。"
+      ],
+      "py": [
+       "duìbuqǐ",
+       ",",
+       "wǒ",
+       "bú",
+       "rènshi",
+       "nǐ",
+       "."
+      ],
+      "vi": "Xin lỗi, tôi không quen bạn.",
+      "alts": []
+     }
+    },
+    {
+     "id": "l01-没关系",
+     "hanzi": "没关系",
+     "pinyin": "méi guānxi",
+     "vi": "không sao đâu",
+     "ex": {
+      "tokens": [
+       "没关系",
+       "，",
+       "再见",
+       "！"
+      ],
+      "py": [
+       "méi guānxi",
+       ",",
+       "zàijiàn",
+       "!"
+      ],
+      "vi": "Không sao đâu, tạm biệt!",
+      "alts": []
+     }
+    },
+    {
+     "id": "l01-请",
+     "hanzi": "请",
+     "pinyin": "qǐng",
+     "vi": "mời; xin vui lòng",
+     "ex": {
+      "tokens": [
+       "请",
+       "喝",
+       "茶",
+       "。"
+      ],
+      "py": [
+       "qǐng",
+       "hē",
+       "chá",
+       "."
+      ],
+      "vi": "Mời uống trà.",
+      "alts": []
+     }
+    },
+    {
+     "id": "l01-喂",
+     "hanzi": "喂",
+     "pinyin": "wèi",
+     "vi": "alô (khi nghe điện thoại)",
+     "ex": {
+      "tokens": [
+       "喂",
+       "，",
+       "你",
+       "是",
+       "谁",
+       "？"
+      ],
+      "py": [
+       "wèi",
+       ",",
+       "nǐ",
+       "shì",
+       "shéi",
+       "?"
+      ],
+      "vi": "A lô, ai đấy ạ?",
+      "alts": []
+     }
+    },
+    {
+     "id": "l01-你",
+     "hanzi": "你",
+     "pinyin": "nǐ",
+     "vi": "bạn, anh, chị (ngôi thứ hai)",
+     "ex": {
+      "tokens": [
+       "你",
+       "是",
+       "老师",
+       "吗",
+       "？"
+      ],
+      "py": [
+       "nǐ",
+       "shì",
+       "lǎoshī",
+       "ma",
+       "?"
+      ],
+      "vi": "Bạn là giáo viên à?",
+      "alts": []
+     }
+    },
+    {
+     "id": "l01-我",
+     "hanzi": "我",
+     "pinyin": "wǒ",
+     "vi": "tôi, mình",
+     "ex": {
+      "tokens": [
+       "我",
+       "是",
+       "学生",
+       "。"
+      ],
+      "py": [
+       "wǒ",
+       "shì",
+       "xuésheng",
+       "."
+      ],
+      "vi": "Tôi là học sinh.",
+      "alts": []
+     }
+    }
+   ]
+  },
+  {
+   "id": "l02",
+   "title": "Giới thiệu bản thân",
+   "desc": "Tên, quốc tịch, làm quen",
+   "icon": "id",
+   "unit": 1,
+   "words": [
+    {
+     "id": "l02-是",
+     "hanzi": "是",
+     "pinyin": "shì",
+     "vi": "là",
+     "ex": {
+      "tokens": [
+       "他",
+       "是",
+       "我",
+       "朋友",
+       "。"
+      ],
+      "py": [
+       "tā",
+       "shì",
+       "wǒ",
+       "péngyou",
+       "."
+      ],
+      "vi": "Anh ấy là bạn tôi.",
+      "alts": []
+     }
+    },
+    {
+     "id": "l02-不",
+     "hanzi": "不",
+     "pinyin": "bù",
+     "vi": "không",
+     "ex": {
+      "tokens": [
+       "我",
+       "不",
+       "是",
+       "老师",
+       "。"
+      ],
+      "py": [
+       "wǒ",
+       "bú",
+       "shì",
+       "lǎoshī",
+       "."
+      ],
+      "vi": "Tôi không phải là giáo viên.",
+      "alts": []
+     }
+    },
+    {
+     "id": "l02-叫",
+     "hanzi": "叫",
+     "pinyin": "jiào",
+     "vi": "gọi, tên là",
+     "ex": {
+      "tokens": [
+       "我",
+       "叫",
+       "小明",
+       "。"
+      ],
+      "py": [
+       "wǒ",
+       "jiào",
+       "Xiǎo Míng",
+       "."
+      ],
+      "vi": "Tôi tên là Tiểu Minh.",
+      "alts": []
+     }
+    },
+    {
+     "id": "l02-名字",
+     "hanzi": "名字",
+     "pinyin": "míngzi",
+     "vi": "tên",
+     "ex": {
+      "tokens": [
+       "你",
+       "叫",
+       "什么",
+       "名字",
+       "？"
+      ],
+      "py": [
+       "nǐ",
+       "jiào",
+       "shénme",
+       "míngzi",
+       "?"
+      ],
+      "vi": "Bạn tên là gì?",
+      "alts": []
+     }
+    },
+    {
+     "id": "l02-什么",
+     "hanzi": "什么",
+     "pinyin": "shénme",
+     "vi": "cái gì, gì",
+     "ex": {
+      "tokens": [
+       "这",
+       "是",
+       "什么",
+       "？"
+      ],
+      "py": [
+       "zhè",
+       "shì",
+       "shénme",
+       "?"
+      ],
+      "vi": "Đây là cái gì?",
+      "alts": []
+     }
+    },
+    {
+     "id": "l02-他",
+     "hanzi": "他",
+     "pinyin": "tā",
+     "vi": "anh ấy, ông ấy (nam)",
+     "ex": {
+      "tokens": [
+       "他",
+       "是",
+       "中国",
+       "人",
+       "。"
+      ],
+      "py": [
+       "tā",
+       "shì",
+       "Zhōngguó",
+       "rén",
+       "."
+      ],
+      "vi": "Anh ấy là người Trung Quốc.",
+      "alts": []
+     }
+    },
+    {
+     "id": "l02-她",
+     "hanzi": "她",
+     "pinyin": "tā",
+     "vi": "cô ấy, bà ấy (nữ)",
+     "ex": {
+      "tokens": [
+       "她",
+       "是",
+       "我",
+       "妈妈",
+       "。"
+      ],
+      "py": [
+       "tā",
+       "shì",
+       "wǒ",
+       "māma",
+       "."
+      ],
+      "vi": "Bà ấy là mẹ tôi.",
+      "alts": []
+     }
+    },
+    {
+     "id": "l02-我们",
+     "hanzi": "我们",
+     "pinyin": "wǒmen",
+     "vi": "chúng tôi, chúng ta",
+     "ex": {
+      "tokens": [
+       "我们",
+       "是",
+       "同学",
+       "。"
+      ],
+      "py": [
+       "wǒmen",
+       "shì",
+       "tóngxué",
+       "."
+      ],
+      "vi": "Chúng tôi là bạn cùng lớp.",
+      "alts": []
+     }
+    },
+    {
+     "id": "l02-人",
+     "hanzi": "人",
+     "pinyin": "rén",
+     "vi": "người",
+     "ex": {
+      "tokens": [
+       "你",
+       "是",
+       "哪",
+       "国",
+       "人",
+       "？"
+      ],
+      "py": [
+       "nǐ",
+       "shì",
+       "nǎ",
+       "guó",
+       "rén",
+       "?"
+      ],
+      "vi": "Bạn là người nước nào?",
+      "alts": []
+     }
+    },
+    {
+     "id": "l02-中国",
+     "hanzi": "中国",
+     "pinyin": "Zhōngguó",
+     "vi": "Trung Quốc",
+     "ex": {
+      "tokens": [
+       "我",
+       "喜欢",
+       "中国",
+       "菜",
+       "。"
+      ],
+      "py": [
+       "wǒ",
+       "xǐhuan",
+       "Zhōngguó",
+       "cài",
+       "."
+      ],
+      "vi": "Tôi thích món ăn Trung Quốc.",
+      "alts": []
+     }
+    },
+    {
+     "id": "l02-越南",
+     "hanzi": "越南",
+     "pinyin": "Yuènán",
+     "vi": "Việt Nam",
+     "ex": {
+      "tokens": [
+       "我",
+       "是",
+       "越南",
+       "人",
+       "。"
+      ],
+      "py": [
+       "wǒ",
+       "shì",
+       "Yuènán",
+       "rén",
+       "."
+      ],
+      "vi": "Tôi là người Việt Nam.",
+      "alts": []
+     }
+    },
+    {
+     "id": "l02-认识",
+     "hanzi": "认识",
+     "pinyin": "rènshi",
+     "vi": "quen biết",
+     "ex": {
+      "tokens": [
+       "认识",
+       "你",
+       "很",
+       "高兴",
+       "。"
+      ],
+      "py": [
+       "rènshi",
+       "nǐ",
+       "hěn",
+       "gāoxìng",
+       "."
+      ],
+      "vi": "Rất vui được làm quen với bạn.",
+      "alts": []
+     }
+    },
+    {
+     "id": "l02-高兴",
+     "hanzi": "高兴",
+     "pinyin": "gāoxìng",
+     "vi": "vui, vui mừng",
+     "ex": {
+      "tokens": [
+       "今天",
+       "我",
+       "很",
+       "高兴",
+       "。"
+      ],
+      "py": [
+       "jīntiān",
+       "wǒ",
+       "hěn",
+       "gāoxìng",
+       "."
+      ],
+      "vi": "Hôm nay tôi rất vui.",
+      "alts": [
+       "我今天很高兴"
+      ]
+     }
+    }
+   ]
+  },
+  {
+   "id": "l03",
+   "title": "Số đếm",
+   "desc": "Đếm từ 1 đến 10",
+   "icon": "numbers",
+   "unit": 1,
+   "words": [
+    {
+     "id": "l03-一",
+     "hanzi": "一",
+     "pinyin": "yī",
+     "vi": "một (số 1)",
+     "ex": {
+      "tokens": [
+       "我",
+       "有",
+       "一",
+       "个",
+       "朋友",
+       "。"
+      ],
+      "py": [
+       "wǒ",
+       "yǒu",
+       "yí",
+       "ge",
+       "péngyou",
+       "."
+      ],
+      "vi": "Tôi có một người bạn.",
+      "alts": []
+     }
+    },
+    {
+     "id": "l03-二",
+     "hanzi": "二",
+     "pinyin": "èr",
+     "vi": "hai (số 2)",
+     "ex": {
+      "tokens": [
+       "今天",
+       "是",
+       "二",
+       "月",
+       "一",
+       "号",
+       "。"
+      ],
+      "py": [
+       "jīntiān",
+       "shì",
+       "èr",
+       "yuè",
+       "yī",
+       "hào",
+       "."
+      ],
+      "vi": "Hôm nay là ngày mùng 1 tháng 2.",
+      "alts": []
+     }
+    },
+    {
+     "id": "l03-三",
+     "hanzi": "三",
+     "pinyin": "sān",
+     "vi": "ba (số 3)",
+     "ex": {
+      "tokens": [
+       "我",
+       "家",
+       "有",
+       "三",
+       "个",
+       "人",
+       "。"
+      ],
+      "py": [
+       "wǒ",
+       "jiā",
+       "yǒu",
+       "sān",
+       "ge",
+       "rén",
+       "."
+      ],
+      "vi": "Nhà tôi có ba người.",
+      "alts": []
+     }
+    },
+    {
+     "id": "l03-四",
+     "hanzi": "四",
+     "pinyin": "sì",
+     "vi": "bốn (số 4)",
+     "ex": {
+      "tokens": [
+       "我",
+       "有",
+       "四",
+       "本",
+       "书",
+       "。"
+      ],
+      "py": [
+       "wǒ",
+       "yǒu",
+       "sì",
+       "běn",
+       "shū",
+       "."
+      ],
+      "vi": "Tôi có bốn quyển sách.",
+      "alts": []
+     }
+    },
+    {
+     "id": "l03-五",
+     "hanzi": "五",
+     "pinyin": "wǔ",
+     "vi": "năm (số 5)",
+     "ex": {
+      "tokens": [
+       "我",
+       "买",
+       "五",
+       "个",
+       "苹果",
+       "。"
+      ],
+      "py": [
+       "wǒ",
+       "mǎi",
+       "wǔ",
+       "ge",
+       "píngguǒ",
+       "."
+      ],
+      "vi": "Tôi mua năm quả táo.",
+      "alts": []
+     }
+    },
+    {
+     "id": "l03-六",
+     "hanzi": "六",
+     "pinyin": "liù",
+     "vi": "sáu (số 6)",
+     "ex": {
+      "tokens": [
+       "他",
+       "六",
+       "岁",
+       "。"
+      ],
+      "py": [
+       "tā",
+       "liù",
+       "suì",
+       "."
+      ],
+      "vi": "Cậu bé ấy sáu tuổi.",
+      "alts": []
+     }
+    },
+    {
+     "id": "l03-七",
+     "hanzi": "七",
+     "pinyin": "qī",
+     "vi": "bảy (số 7)",
+     "ex": {
+      "tokens": [
+       "一",
+       "个",
+       "星期",
+       "有",
+       "七",
+       "天",
+       "。"
+      ],
+      "py": [
+       "yí",
+       "ge",
+       "xīngqī",
+       "yǒu",
+       "qī",
+       "tiān",
+       "."
+      ],
+      "vi": "Một tuần có bảy ngày.",
+      "alts": []
+     }
+    },
+    {
+     "id": "l03-八",
+     "hanzi": "八",
+     "pinyin": "bā",
+     "vi": "tám (số 8)",
+     "ex": {
+      "tokens": [
+       "现在",
+       "八",
+       "点",
+       "。"
+      ],
+      "py": [
+       "xiànzài",
+       "bā",
+       "diǎn",
+       "."
+      ],
+      "vi": "Bây giờ là tám giờ.",
+      "alts": []
+     }
+    },
+    {
+     "id": "l03-九",
+     "hanzi": "九",
+     "pinyin": "jiǔ",
+     "vi": "chín (số 9)",
+     "ex": {
+      "tokens": [
+       "我",
+       "女儿",
+       "九",
+       "岁",
+       "。"
+      ],
+      "py": [
+       "wǒ",
+       "nǚ'ér",
+       "jiǔ",
+       "suì",
+       "."
+      ],
+      "vi": "Con gái tôi chín tuổi.",
+      "alts": []
+     }
+    },
+    {
+     "id": "l03-十",
+     "hanzi": "十",
+     "pinyin": "shí",
+     "vi": "mười (số 10)",
+     "ex": {
+      "tokens": [
+       "我们",
+       "班",
+       "有",
+       "十",
+       "个",
+       "学生",
+       "。"
+      ],
+      "py": [
+       "wǒmen",
+       "bān",
+       "yǒu",
+       "shí",
+       "ge",
+       "xuésheng",
+       "."
+      ],
+      "vi": "Lớp chúng tôi có mười học sinh.",
+      "alts": []
+     }
+    }
+   ]
+  },
+  {
+   "id": "l04",
+   "title": "Mua sắm",
+   "desc": "Bao nhiêu tiền? Mua gì?",
+   "icon": "shop",
+   "unit": 1,
+   "words": [
+    {
+     "id": "l04-几",
+     "hanzi": "几",
+     "pinyin": "jǐ",
+     "vi": "mấy (hỏi số nhỏ)",
+     "ex": {
+      "tokens": [
+       "你",
+       "几",
+       "岁",
+       "？"
+      ],
+      "py": [
+       "nǐ",
+       "jǐ",
+       "suì",
+       "?"
+      ],
+      "vi": "Con mấy tuổi rồi?",
+      "alts": []
+     }
+    },
+    {
+     "id": "l04-多少",
+     "hanzi": "多少",
+     "pinyin": "duōshao",
+     "vi": "bao nhiêu",
+     "ex": {
+      "tokens": [
+       "这",
+       "个",
+       "多少",
+       "钱",
+       "？"
+      ],
+      "py": [
+       "zhè",
+       "ge",
+       "duōshao",
+       "qián",
+       "?"
+      ],
+      "vi": "Cái này bao nhiêu tiền?",
+      "alts": []
+     }
+    },
+    {
+     "id": "l04-个",
+     "hanzi": "个",
+     "pinyin": "gè",
+     "vi": "cái, chiếc (lượng từ chung)",
+     "ex": {
+      "tokens": [
+       "我",
+       "想",
+       "买",
+       "一",
+       "个",
+       "杯子",
+       "。"
+      ],
+      "py": [
+       "wǒ",
+       "xiǎng",
+       "mǎi",
+       "yí",
+       "ge",
+       "bēizi",
+       "."
+      ],
+      "vi": "Tôi muốn mua một cái cốc.",
+      "alts": []
+     }
+    },
+    {
+     "id": "l04-本",
+     "hanzi": "本",
+     "pinyin": "běn",
+     "vi": "quyển, cuốn (lượng từ cho sách)",
+     "ex": {
+      "tokens": [
+       "这",
+       "本",
+       "书",
+       "很",
+       "好",
+       "。"
+      ],
+      "py": [
+       "zhè",
+       "běn",
+       "shū",
+       "hěn",
+       "hǎo",
+       "."
+      ],
+      "vi": "Quyển sách này rất hay.",
+      "alts": []
+     }
+    },
+    {
+     "id": "l04-块",
+     "hanzi": "块",
+     "pinyin": "kuài",
+     "vi": "đồng (đơn vị tiền, khẩu ngữ)",
+     "ex": {
+      "tokens": [
+       "一",
+       "个",
+       "苹果",
+       "三",
+       "块",
+       "钱",
+       "。"
+      ],
+      "py": [
+       "yí",
+       "ge",
+       "píngguǒ",
+       "sān",
+       "kuài",
+       "qián",
+       "."
+      ],
+      "vi": "Một quả táo giá ba đồng.",
+      "alts": []
+     }
+    },
+    {
+     "id": "l04-钱",
+     "hanzi": "钱",
+     "pinyin": "qián",
+     "vi": "tiền",
+     "ex": {
+      "tokens": [
+       "我",
+       "没有",
+       "钱",
+       "。"
+      ],
+      "py": [
+       "wǒ",
+       "méiyǒu",
+       "qián",
+       "."
+      ],
+      "vi": "Tôi không có tiền.",
+      "alts": []
+     }
+    },
+    {
+     "id": "l04-买",
+     "hanzi": "买",
+     "pinyin": "mǎi",
+     "vi": "mua",
+     "ex": {
+      "tokens": [
+       "我",
+       "去",
+       "商店",
+       "买",
+       "东西",
+       "。"
+      ],
+      "py": [
+       "wǒ",
+       "qù",
+       "shāngdiàn",
+       "mǎi",
+       "dōngxi",
+       "."
+      ],
+      "vi": "Tôi đi cửa hàng mua đồ.",
+      "alts": []
+     }
+    },
+    {
+     "id": "l04-商店",
+     "hanzi": "商店",
+     "pinyin": "shāngdiàn",
+     "vi": "cửa hàng",
+     "ex": {
+      "tokens": [
+       "商店",
+       "在",
+       "哪儿",
+       "？"
+      ],
+      "py": [
+       "shāngdiàn",
+       "zài",
+       "nǎr",
+       "?"
+      ],
+      "vi": "Cửa hàng ở đâu?",
+      "alts": []
+     }
+    },
+    {
+     "id": "l04-东西",
+     "hanzi": "东西",
+     "pinyin": "dōngxi",
+     "vi": "đồ, đồ vật",
+     "ex": {
+      "tokens": [
+       "你",
+       "想",
+       "买",
+       "什么",
+       "东西",
+       "？"
+      ],
+      "py": [
+       "nǐ",
+       "xiǎng",
+       "mǎi",
+       "shénme",
+       "dōngxi",
+       "?"
+      ],
+      "vi": "Bạn muốn mua đồ gì?",
+      "alts": []
+     }
+    },
+    {
+     "id": "l04-些",
+     "hanzi": "些",
+     "pinyin": "xiē",
+     "vi": "một vài, một ít",
+     "ex": {
+      "tokens": [
+       "我",
+       "想",
+       "买",
+       "一些",
+       "水果",
+       "。"
+      ],
+      "py": [
+       "wǒ",
+       "xiǎng",
+       "mǎi",
+       "yìxiē",
+       "shuǐguǒ",
+       "."
+      ],
+      "vi": "Tôi muốn mua một ít hoa quả.",
+      "alts": []
+     }
+    },
+    {
+     "id": "l04-多",
+     "hanzi": "多",
+     "pinyin": "duō",
+     "vi": "nhiều",
+     "ex": {
+      "tokens": [
+       "商店",
+       "里",
+       "人",
+       "很",
+       "多",
+       "。"
+      ],
+      "py": [
+       "shāngdiàn",
+       "li",
+       "rén",
+       "hěn",
+       "duō",
+       "."
+      ],
+      "vi": "Trong cửa hàng rất đông người.",
+      "alts": []
+     }
+    },
+    {
+     "id": "l04-少",
+     "hanzi": "少",
+     "pinyin": "shǎo",
+     "vi": "ít",
+     "ex": {
+      "tokens": [
+       "今天",
+       "人",
+       "很",
+       "少",
+       "。"
+      ],
+      "py": [
+       "jīntiān",
+       "rén",
+       "hěn",
+       "shǎo",
+       "."
+      ],
+      "vi": "Hôm nay rất ít người.",
+      "alts": []
+     }
+    }
+   ]
+  },
+  {
+   "id": "l05",
+   "title": "Gia đình",
+   "desc": "Bố, mẹ, con cái, bạn bè",
+   "icon": "family",
+   "unit": 1,
+   "words": [
+    {
+     "id": "l05-家",
+     "hanzi": "家",
+     "pinyin": "jiā",
+     "vi": "nhà, gia đình",
+     "ex": {
+      "tokens": [
+       "我",
+       "家",
+       "在",
+       "河内",
+       "。"
+      ],
+      "py": [
+       "wǒ",
+       "jiā",
+       "zài",
+       "Hénèi",
+       "."
+      ],
+      "vi": "Nhà tôi ở Hà Nội.",
+      "alts": []
+     }
+    },
+    {
+     "id": "l05-爸爸",
+     "hanzi": "爸爸",
+     "pinyin": "bàba",
+     "vi": "bố, ba",
+     "ex": {
+      "tokens": [
+       "我",
+       "爸爸",
+       "是",
+       "医生",
+       "。"
+      ],
+      "py": [
+       "wǒ",
+       "bàba",
+       "shì",
+       "yīshēng",
+       "."
+      ],
+      "vi": "Bố tôi là bác sĩ.",
+      "alts": []
+     }
+    },
+    {
+     "id": "l05-妈妈",
+     "hanzi": "妈妈",
+     "pinyin": "māma",
+     "vi": "mẹ, má",
+     "ex": {
+      "tokens": [
+       "我",
+       "妈妈",
+       "是",
+       "老师",
+       "。"
+      ],
+      "py": [
+       "wǒ",
+       "māma",
+       "shì",
+       "lǎoshī",
+       "."
+      ],
+      "vi": "Mẹ tôi là giáo viên.",
+      "alts": []
+     }
+    },
+    {
+     "id": "l05-儿子",
+     "hanzi": "儿子",
+     "pinyin": "érzi",
+     "vi": "con trai",
+     "ex": {
+      "tokens": [
+       "他",
+       "有",
+       "一",
+       "个",
+       "儿子",
+       "。"
+      ],
+      "py": [
+       "tā",
+       "yǒu",
+       "yí",
+       "ge",
+       "érzi",
+       "."
+      ],
+      "vi": "Anh ấy có một cậu con trai.",
+      "alts": []
+     }
+    },
+    {
+     "id": "l05-女儿",
+     "hanzi": "女儿",
+     "pinyin": "nǚ'ér",
+     "vi": "con gái",
+     "ex": {
+      "tokens": [
+       "她",
+       "女儿",
+       "很",
+       "漂亮",
+       "。"
+      ],
+      "py": [
+       "tā",
+       "nǚ'ér",
+       "hěn",
+       "piàoliang",
+       "."
+      ],
+      "vi": "Con gái cô ấy rất xinh.",
+      "alts": []
+     }
+    },
+    {
+     "id": "l05-朋友",
+     "hanzi": "朋友",
+     "pinyin": "péngyou",
+     "vi": "bạn, bạn bè",
+     "ex": {
+      "tokens": [
+       "他",
+       "是",
+       "我",
+       "的",
+       "好",
+       "朋友",
+       "。"
+      ],
+      "py": [
+       "tā",
+       "shì",
+       "wǒ",
+       "de",
+       "hǎo",
+       "péngyou",
+       "."
+      ],
+      "vi": "Cậu ấy là bạn thân của tôi.",
+      "alts": []
+     }
+    },
+    {
+     "id": "l05-爱",
+     "hanzi": "爱",
+     "pinyin": "ài",
+     "vi": "yêu",
+     "ex": {
+      "tokens": [
+       "我",
+       "爱",
+       "我",
+       "的",
+       "家",
+       "。"
+      ],
+      "py": [
+       "wǒ",
+       "ài",
+       "wǒ",
+       "de",
+       "jiā",
+       "."
+      ],
+      "vi": "Tôi yêu gia đình của tôi.",
+      "alts": []
+     }
+    },
+    {
+     "id": "l05-和",
+     "hanzi": "和",
+     "pinyin": "hé",
+     "vi": "và, với",
+     "ex": {
+      "tokens": [
+       "爸爸",
+       "和",
+       "妈妈",
+       "都",
+       "在",
+       "家",
+       "。"
+      ],
+      "py": [
+       "bàba",
+       "hé",
+       "māma",
+       "dōu",
+       "zài",
+       "jiā",
+       "."
+      ],
+      "vi": "Bố và mẹ đều ở nhà.",
+      "alts": [
+       "妈妈和爸爸都在家"
+      ]
+     }
+    },
+    {
+     "id": "l05-有",
+     "hanzi": "有",
+     "pinyin": "yǒu",
+     "vi": "có",
+     "ex": {
+      "tokens": [
+       "我",
+       "有",
+       "很",
+       "多",
+       "朋友",
+       "。"
+      ],
+      "py": [
+       "wǒ",
+       "yǒu",
+       "hěn",
+       "duō",
+       "péngyou",
+       "."
+      ],
+      "vi": "Tôi có rất nhiều bạn.",
+      "alts": []
+     }
+    },
+    {
+     "id": "l05-没有",
+     "hanzi": "没有",
+     "pinyin": "méiyǒu",
+     "vi": "không có",
+     "ex": {
+      "tokens": [
+       "我",
+       "没有",
+       "哥哥",
+       "。"
+      ],
+      "py": [
+       "wǒ",
+       "méiyǒu",
+       "gēge",
+       "."
+      ],
+      "vi": "Tôi không có anh trai.",
+      "alts": []
+     }
+    },
+    {
+     "id": "l05-岁",
+     "hanzi": "岁",
+     "pinyin": "suì",
+     "vi": "tuổi",
+     "ex": {
+      "tokens": [
+       "我",
+       "妈妈",
+       "四十",
+       "岁",
+       "。"
+      ],
+      "py": [
+       "wǒ",
+       "māma",
+       "sìshí",
+       "suì",
+       "."
+      ],
+      "vi": "Mẹ tôi bốn mươi tuổi.",
+      "alts": []
+     }
+    }
+   ]
+  },
+  {
+   "id": "l06",
+   "title": "Đồ ăn, thức uống",
+   "desc": "Ăn gì, uống gì?",
+   "icon": "food",
+   "unit": 2,
+   "words": [
+    {
+     "id": "l06-吃",
+     "hanzi": "吃",
+     "pinyin": "chī",
+     "vi": "ăn",
+     "ex": {
+      "tokens": [
+       "我",
+       "想",
+       "吃",
+       "米饭",
+       "。"
+      ],
+      "py": [
+       "wǒ",
+       "xiǎng",
+       "chī",
+       "mǐfàn",
+       "."
+      ],
+      "vi": "Tôi muốn ăn cơm.",
+      "alts": []
+     }
+    },
+    {
+     "id": "l06-喝",
+     "hanzi": "喝",
+     "pinyin": "hē",
+     "vi": "uống",
+     "ex": {
+      "tokens": [
+       "你",
+       "想",
+       "喝",
+       "什么",
+       "？"
+      ],
+      "py": [
+       "nǐ",
+       "xiǎng",
+       "hē",
+       "shénme",
+       "?"
+      ],
+      "vi": "Bạn muốn uống gì?",
+      "alts": []
+     }
+    },
+    {
+     "id": "l06-水",
+     "hanzi": "水",
+     "pinyin": "shuǐ",
+     "vi": "nước",
+     "ex": {
+      "tokens": [
+       "我",
+       "想",
+       "喝",
+       "水",
+       "。"
+      ],
+      "py": [
+       "wǒ",
+       "xiǎng",
+       "hē",
+       "shuǐ",
+       "."
+      ],
+      "vi": "Tôi muốn uống nước.",
+      "alts": []
+     }
+    },
+    {
+     "id": "l06-米饭",
+     "hanzi": "米饭",
+     "pinyin": "mǐfàn",
+     "vi": "cơm (gạo nấu chín)",
+     "ex": {
+      "tokens": [
+       "越南",
+       "人",
+       "喜欢",
+       "吃",
+       "米饭",
+       "。"
+      ],
+      "py": [
+       "Yuènán",
+       "rén",
+       "xǐhuan",
+       "chī",
+       "mǐfàn",
+       "."
+      ],
+      "vi": "Người Việt Nam thích ăn cơm.",
+      "alts": []
+     }
+    },
+    {
+     "id": "l06-菜",
+     "hanzi": "菜",
+     "pinyin": "cài",
+     "vi": "món ăn; rau",
+     "ex": {
+      "tokens": [
+       "这",
+       "个",
+       "菜",
+       "很",
+       "好吃",
+       "。"
+      ],
+      "py": [
+       "zhè",
+       "ge",
+       "cài",
+       "hěn",
+       "hǎochī",
+       "."
+      ],
+      "vi": "Món này rất ngon.",
+      "alts": []
+     }
+    },
+    {
+     "id": "l06-茶",
+     "hanzi": "茶",
+     "pinyin": "chá",
+     "vi": "trà",
+     "ex": {
+      "tokens": [
+       "中国",
+       "人",
+       "喜欢",
+       "喝",
+       "茶",
+       "。"
+      ],
+      "py": [
+       "Zhōngguó",
+       "rén",
+       "xǐhuan",
+       "hē",
+       "chá",
+       "."
+      ],
+      "vi": "Người Trung Quốc thích uống trà.",
+      "alts": []
+     }
+    },
+    {
+     "id": "l06-苹果",
+     "hanzi": "苹果",
+     "pinyin": "píngguǒ",
+     "vi": "quả táo",
+     "ex": {
+      "tokens": [
+       "这",
+       "个",
+       "苹果",
+       "很",
+       "大",
+       "。"
+      ],
+      "py": [
+       "zhè",
+       "ge",
+       "píngguǒ",
+       "hěn",
+       "dà",
+       "."
+      ],
+      "vi": "Quả táo này rất to.",
+      "alts": []
+     }
+    },
+    {
+     "id": "l06-水果",
+     "hanzi": "水果",
+     "pinyin": "shuǐguǒ",
+     "vi": "hoa quả, trái cây",
+     "ex": {
+      "tokens": [
+       "我",
+       "喜欢",
+       "吃",
+       "水果",
+       "。"
+      ],
+      "py": [
+       "wǒ",
+       "xǐhuan",
+       "chī",
+       "shuǐguǒ",
+       "."
+      ],
+      "vi": "Tôi thích ăn trái cây.",
+      "alts": []
+     }
+    },
+    {
+     "id": "l06-杯子",
+     "hanzi": "杯子",
+     "pinyin": "bēizi",
+     "vi": "cái cốc, cái ly",
+     "ex": {
+      "tokens": [
+       "杯子",
+       "里",
+       "有",
+       "水",
+       "。"
+      ],
+      "py": [
+       "bēizi",
+       "li",
+       "yǒu",
+       "shuǐ",
+       "."
+      ],
+      "vi": "Trong cốc có nước.",
+      "alts": []
+     }
+    },
+    {
+     "id": "l06-饭店",
+     "hanzi": "饭店",
+     "pinyin": "fàndiàn",
+     "vi": "nhà hàng; khách sạn",
+     "ex": {
+      "tokens": [
+       "我们",
+       "去",
+       "饭店",
+       "吃饭",
+       "。"
+      ],
+      "py": [
+       "wǒmen",
+       "qù",
+       "fàndiàn",
+       "chīfàn",
+       "."
+      ],
+      "vi": "Chúng ta đi nhà hàng ăn cơm.",
+      "alts": []
+     }
+    },
+    {
+     "id": "l06-喜欢",
+     "hanzi": "喜欢",
+     "pinyin": "xǐhuan",
+     "vi": "thích",
+     "ex": {
+      "tokens": [
+       "你",
+       "喜欢",
+       "吃",
+       "什么",
+       "？"
+      ],
+      "py": [
+       "nǐ",
+       "xǐhuan",
+       "chī",
+       "shénme",
+       "?"
+      ],
+      "vi": "Bạn thích ăn gì?",
+      "alts": []
+     }
+    },
+    {
+     "id": "l06-想",
+     "hanzi": "想",
+     "pinyin": "xiǎng",
+     "vi": "muốn; nghĩ, nhớ",
+     "ex": {
+      "tokens": [
+       "我",
+       "想",
+       "去",
+       "中国",
+       "。"
+      ],
+      "py": [
+       "wǒ",
+       "xiǎng",
+       "qù",
+       "Zhōngguó",
+       "."
+      ],
+      "vi": "Tôi muốn đi Trung Quốc.",
+      "alts": []
+     }
+    }
+   ]
+  },
+  {
+   "id": "l07",
+   "title": "Màu sắc & miêu tả",
+   "desc": "Đỏ, xanh, to, nhỏ, đẹp",
+   "icon": "colors",
+   "unit": 2,
+   "words": [
+    {
+     "id": "l07-颜色",
+     "hanzi": "颜色",
+     "pinyin": "yánsè",
+     "vi": "màu sắc",
+     "ex": {
+      "tokens": [
+       "你",
+       "喜欢",
+       "什么",
+       "颜色",
+       "？"
+      ],
+      "py": [
+       "nǐ",
+       "xǐhuan",
+       "shénme",
+       "yánsè",
+       "?"
+      ],
+      "vi": "Bạn thích màu gì?",
+      "alts": []
+     }
+    },
+    {
+     "id": "l07-红色",
+     "hanzi": "红色",
+     "pinyin": "hóngsè",
+     "vi": "màu đỏ",
+     "ex": {
+      "tokens": [
+       "我",
+       "喜欢",
+       "红色",
+       "。"
+      ],
+      "py": [
+       "wǒ",
+       "xǐhuan",
+       "hóngsè",
+       "."
+      ],
+      "vi": "Tôi thích màu đỏ.",
+      "alts": []
+     }
+    },
+    {
+     "id": "l07-白色",
+     "hanzi": "白色",
+     "pinyin": "báisè",
+     "vi": "màu trắng",
+     "ex": {
+      "tokens": [
+       "我",
+       "的",
+       "猫",
+       "是",
+       "白色",
+       "的",
+       "。"
+      ],
+      "py": [
+       "wǒ",
+       "de",
+       "māo",
+       "shì",
+       "báisè",
+       "de",
+       "."
+      ],
+      "vi": "Con mèo của tôi màu trắng.",
+      "alts": []
+     }
+    },
+    {
+     "id": "l07-黑色",
+     "hanzi": "黑色",
+     "pinyin": "hēisè",
+     "vi": "màu đen",
+     "ex": {
+      "tokens": [
+       "他",
+       "的",
+       "狗",
+       "是",
+       "黑色",
+       "的",
+       "。"
+      ],
+      "py": [
+       "tā",
+       "de",
+       "gǒu",
+       "shì",
+       "hēisè",
+       "de",
+       "."
+      ],
+      "vi": "Con chó của anh ấy màu đen.",
+      "alts": []
+     }
+    },
+    {
+     "id": "l07-蓝色",
+     "hanzi": "蓝色",
+     "pinyin": "lánsè",
+     "vi": "màu xanh lam, xanh dương",
+     "ex": {
+      "tokens": [
+       "天",
+       "是",
+       "蓝色",
+       "的",
+       "。"
+      ],
+      "py": [
+       "tiān",
+       "shì",
+       "lánsè",
+       "de",
+       "."
+      ],
+      "vi": "Bầu trời màu xanh lam.",
+      "alts": []
+     }
+    },
+    {
+     "id": "l07-绿色",
+     "hanzi": "绿色",
+     "pinyin": "lǜsè",
+     "vi": "màu xanh lá cây",
+     "ex": {
+      "tokens": [
+       "我",
+       "有",
+       "一",
+       "件",
+       "绿色",
+       "的",
+       "衣服",
+       "。"
+      ],
+      "py": [
+       "wǒ",
+       "yǒu",
+       "yí",
+       "jiàn",
+       "lǜsè",
+       "de",
+       "yīfu",
+       "."
+      ],
+      "vi": "Tôi có một bộ quần áo màu xanh lá.",
+      "alts": []
+     }
+    },
+    {
+     "id": "l07-黄色",
+     "hanzi": "黄色",
+     "pinyin": "huángsè",
+     "vi": "màu vàng",
+     "ex": {
+      "tokens": [
+       "这",
+       "个",
+       "杯子",
+       "是",
+       "黄色",
+       "的",
+       "。"
+      ],
+      "py": [
+       "zhè",
+       "ge",
+       "bēizi",
+       "shì",
+       "huángsè",
+       "de",
+       "."
+      ],
+      "vi": "Cái cốc này màu vàng.",
+      "alts": []
+     }
+    },
+    {
+     "id": "l07-大",
+     "hanzi": "大",
+     "pinyin": "dà",
+     "vi": "to, lớn",
+     "ex": {
+      "tokens": [
+       "我",
+       "家",
+       "很",
+       "大",
+       "。"
+      ],
+      "py": [
+       "wǒ",
+       "jiā",
+       "hěn",
+       "dà",
+       "."
+      ],
+      "vi": "Nhà tôi rất to.",
+      "alts": []
+     }
+    },
+    {
+     "id": "l07-小",
+     "hanzi": "小",
+     "pinyin": "xiǎo",
+     "vi": "nhỏ, bé",
+     "ex": {
+      "tokens": [
+       "这",
+       "只",
+       "猫",
+       "很",
+       "小",
+       "。"
+      ],
+      "py": [
+       "zhè",
+       "zhī",
+       "māo",
+       "hěn",
+       "xiǎo",
+       "."
+      ],
+      "vi": "Con mèo này rất nhỏ.",
+      "alts": []
+     }
+    },
+    {
+     "id": "l07-好",
+     "hanzi": "好",
+     "pinyin": "hǎo",
+     "vi": "tốt, hay, đẹp",
+     "ex": {
+      "tokens": [
+       "今天",
+       "天气",
+       "很",
+       "好",
+       "。"
+      ],
+      "py": [
+       "jīntiān",
+       "tiānqì",
+       "hěn",
+       "hǎo",
+       "."
+      ],
+      "vi": "Hôm nay thời tiết rất đẹp.",
+      "alts": []
+     }
+    },
+    {
+     "id": "l07-漂亮",
+     "hanzi": "漂亮",
+     "pinyin": "piàoliang",
+     "vi": "đẹp, xinh",
+     "ex": {
+      "tokens": [
+       "这",
+       "件",
+       "衣服",
+       "很",
+       "漂亮",
+       "。"
+      ],
+      "py": [
+       "zhè",
+       "jiàn",
+       "yīfu",
+       "hěn",
+       "piàoliang",
+       "."
+      ],
+      "vi": "Bộ quần áo này rất đẹp.",
+      "alts": []
+     }
+    },
+    {
+     "id": "l07-很",
+     "hanzi": "很",
+     "pinyin": "hěn",
+     "vi": "rất",
+     "ex": {
+      "tokens": [
+       "我",
+       "很",
+       "好",
+       "，",
+       "谢谢",
+       "。"
+      ],
+      "py": [
+       "wǒ",
+       "hěn",
+       "hǎo",
+       ",",
+       "xièxie",
+       "."
+      ],
+      "vi": "Tôi rất khỏe, cảm ơn.",
+      "alts": []
+     }
+    }
+   ]
+  },
+  {
+   "id": "l08",
+   "title": "Ngày tháng",
+   "desc": "Hôm nay, ngày mai, thứ mấy?",
+   "icon": "calendar",
+   "unit": 2,
+   "words": [
+    {
+     "id": "l08-今天",
+     "hanzi": "今天",
+     "pinyin": "jīntiān",
+     "vi": "hôm nay",
+     "ex": {
+      "tokens": [
+       "今天",
+       "是",
+       "星期一",
+       "。"
+      ],
+      "py": [
+       "jīntiān",
+       "shì",
+       "xīngqīyī",
+       "."
+      ],
+      "vi": "Hôm nay là thứ Hai.",
+      "alts": []
+     }
+    },
+    {
+     "id": "l08-明天",
+     "hanzi": "明天",
+     "pinyin": "míngtiān",
+     "vi": "ngày mai",
+     "ex": {
+      "tokens": [
+       "我",
+       "明天",
+       "去",
+       "学校",
+       "。"
+      ],
+      "py": [
+       "wǒ",
+       "míngtiān",
+       "qù",
+       "xuéxiào",
+       "."
+      ],
+      "vi": "Ngày mai tôi đến trường.",
+      "alts": [
+       "明天我去学校"
+      ]
+     }
+    },
+    {
+     "id": "l08-昨天",
+     "hanzi": "昨天",
+     "pinyin": "zuótiān",
+     "vi": "hôm qua",
+     "ex": {
+      "tokens": [
+       "我",
+       "昨天",
+       "去",
+       "商店",
+       "了",
+       "。"
+      ],
+      "py": [
+       "wǒ",
+       "zuótiān",
+       "qù",
+       "shāngdiàn",
+       "le",
+       "."
+      ],
+      "vi": "Hôm qua tôi đã đi cửa hàng.",
+      "alts": [
+       "昨天我去商店了"
+      ]
+     }
+    },
+    {
+     "id": "l08-今年",
+     "hanzi": "今年",
+     "pinyin": "jīnnián",
+     "vi": "năm nay",
+     "ex": {
+      "tokens": [
+       "今年",
+       "我",
+       "十八",
+       "岁",
+       "。"
+      ],
+      "py": [
+       "jīnnián",
+       "wǒ",
+       "shíbā",
+       "suì",
+       "."
+      ],
+      "vi": "Năm nay tôi mười tám tuổi.",
+      "alts": [
+       "我今年十八岁"
+      ]
+     }
+    },
+    {
+     "id": "l08-年",
+     "hanzi": "年",
+     "pinyin": "nián",
+     "vi": "năm",
+     "ex": {
+      "tokens": [
+       "一",
+       "年",
+       "有",
+       "十二",
+       "个",
+       "月",
+       "。"
+      ],
+      "py": [
+       "yì",
+       "nián",
+       "yǒu",
+       "shí'èr",
+       "ge",
+       "yuè",
+       "."
+      ],
+      "vi": "Một năm có mười hai tháng.",
+      "alts": []
+     }
+    },
+    {
+     "id": "l08-月",
+     "hanzi": "月",
+     "pinyin": "yuè",
+     "vi": "tháng; mặt trăng",
+     "ex": {
+      "tokens": [
+       "现在",
+       "是",
+       "五",
+       "月",
+       "。"
+      ],
+      "py": [
+       "xiànzài",
+       "shì",
+       "wǔ",
+       "yuè",
+       "."
+      ],
+      "vi": "Bây giờ là tháng năm.",
+      "alts": []
+     }
+    },
+    {
+     "id": "l08-号",
+     "hanzi": "号",
+     "pinyin": "hào",
+     "vi": "ngày (trong tháng); số",
+     "ex": {
+      "tokens": [
+       "今天",
+       "几",
+       "号",
+       "？"
+      ],
+      "py": [
+       "jīntiān",
+       "jǐ",
+       "hào",
+       "?"
+      ],
+      "vi": "Hôm nay là ngày mấy?",
+      "alts": []
+     }
+    },
+    {
+     "id": "l08-星期",
+     "hanzi": "星期",
+     "pinyin": "xīngqī",
+     "vi": "tuần, thứ (trong tuần)",
+     "ex": {
+      "tokens": [
+       "明天",
+       "星期",
+       "几",
+       "？"
+      ],
+      "py": [
+       "míngtiān",
+       "xīngqī",
+       "jǐ",
+       "?"
+      ],
+      "vi": "Ngày mai là thứ mấy?",
+      "alts": []
+     }
+    },
+    {
+     "id": "l08-现在",
+     "hanzi": "现在",
+     "pinyin": "xiànzài",
+     "vi": "bây giờ",
+     "ex": {
+      "tokens": [
+       "现在",
+       "几",
+       "点",
+       "？"
+      ],
+      "py": [
+       "xiànzài",
+       "jǐ",
+       "diǎn",
+       "?"
+      ],
+      "vi": "Bây giờ là mấy giờ?",
+      "alts": []
+     }
+    },
+    {
+     "id": "l08-时候",
+     "hanzi": "时候",
+     "pinyin": "shíhou",
+     "vi": "lúc, khi",
+     "ex": {
+      "tokens": [
+       "你",
+       "什么",
+       "时候",
+       "去",
+       "北京",
+       "？"
+      ],
+      "py": [
+       "nǐ",
+       "shénme",
+       "shíhou",
+       "qù",
+       "Běijīng",
+       "?"
+      ],
+      "vi": "Khi nào bạn đi Bắc Kinh?",
+      "alts": []
+     }
+    }
+   ]
+  },
+  {
+   "id": "l09",
+   "title": "Giờ giấc",
+   "desc": "Sáng, trưa, chiều và công việc",
+   "icon": "clock",
+   "unit": 2,
+   "words": [
+    {
+     "id": "l09-点",
+     "hanzi": "点",
+     "pinyin": "diǎn",
+     "vi": "giờ (chỉ thời điểm)",
+     "ex": {
+      "tokens": [
+       "我们",
+       "十",
+       "点",
+       "见",
+       "。"
+      ],
+      "py": [
+       "wǒmen",
+       "shí",
+       "diǎn",
+       "jiàn",
+       "."
+      ],
+      "vi": "Chúng ta gặp nhau lúc mười giờ.",
+      "alts": []
+     }
+    },
+    {
+     "id": "l09-分钟",
+     "hanzi": "分钟",
+     "pinyin": "fēnzhōng",
+     "vi": "phút",
+     "ex": {
+      "tokens": [
+       "请",
+       "等",
+       "五",
+       "分钟",
+       "。"
+      ],
+      "py": [
+       "qǐng",
+       "děng",
+       "wǔ",
+       "fēnzhōng",
+       "."
+      ],
+      "vi": "Xin vui lòng đợi năm phút.",
+      "alts": []
+     }
+    },
+    {
+     "id": "l09-上午",
+     "hanzi": "上午",
+     "pinyin": "shàngwǔ",
+     "vi": "buổi sáng",
+     "ex": {
+      "tokens": [
+       "我",
+       "上午",
+       "在",
+       "学校",
+       "。"
+      ],
+      "py": [
+       "wǒ",
+       "shàngwǔ",
+       "zài",
+       "xuéxiào",
+       "."
+      ],
+      "vi": "Buổi sáng tôi ở trường.",
+      "alts": [
+       "上午我在学校"
+      ]
+     }
+    },
+    {
+     "id": "l09-中午",
+     "hanzi": "中午",
+     "pinyin": "zhōngwǔ",
+     "vi": "buổi trưa",
+     "ex": {
+      "tokens": [
+       "中午",
+       "我们",
+       "去",
+       "吃饭",
+       "。"
+      ],
+      "py": [
+       "zhōngwǔ",
+       "wǒmen",
+       "qù",
+       "chīfàn",
+       "."
+      ],
+      "vi": "Buổi trưa chúng ta đi ăn cơm.",
+      "alts": [
+       "我们中午去吃饭"
+      ]
+     }
+    },
+    {
+     "id": "l09-下午",
+     "hanzi": "下午",
+     "pinyin": "xiàwǔ",
+     "vi": "buổi chiều",
+     "ex": {
+      "tokens": [
+       "下午",
+       "我",
+       "去",
+       "商店",
+       "。"
+      ],
+      "py": [
+       "xiàwǔ",
+       "wǒ",
+       "qù",
+       "shāngdiàn",
+       "."
+      ],
+      "vi": "Buổi chiều tôi đi cửa hàng.",
+      "alts": [
+       "我下午去商店"
+      ]
+     }
+    },
+    {
+     "id": "l09-睡觉",
+     "hanzi": "睡觉",
+     "pinyin": "shuìjiào",
+     "vi": "ngủ, đi ngủ",
+     "ex": {
+      "tokens": [
+       "我",
+       "十一",
+       "点",
+       "睡觉",
+       "。"
+      ],
+      "py": [
+       "wǒ",
+       "shíyī",
+       "diǎn",
+       "shuìjiào",
+       "."
+      ],
+      "vi": "Tôi đi ngủ lúc mười một giờ.",
+      "alts": []
+     }
+    },
+    {
+     "id": "l09-工作",
+     "hanzi": "工作",
+     "pinyin": "gōngzuò",
+     "vi": "làm việc; công việc",
+     "ex": {
+      "tokens": [
+       "我",
+       "爸爸",
+       "在",
+       "医院",
+       "工作",
+       "。"
+      ],
+      "py": [
+       "wǒ",
+       "bàba",
+       "zài",
+       "yīyuàn",
+       "gōngzuò",
+       "."
+      ],
+      "vi": "Bố tôi làm việc ở bệnh viện.",
+      "alts": []
+     }
+    },
+    {
+     "id": "l09-做",
+     "hanzi": "做",
+     "pinyin": "zuò",
+     "vi": "làm",
+     "ex": {
+      "tokens": [
+       "你",
+       "在",
+       "做",
+       "什么",
+       "？"
+      ],
+      "py": [
+       "nǐ",
+       "zài",
+       "zuò",
+       "shénme",
+       "?"
+      ],
+      "vi": "Bạn đang làm gì thế?",
+      "alts": []
+     }
+    },
+    {
+     "id": "l09-回",
+     "hanzi": "回",
+     "pinyin": "huí",
+     "vi": "về, trở về",
+     "ex": {
+      "tokens": [
+       "我",
+       "想",
+       "回",
+       "家",
+       "。"
+      ],
+      "py": [
+       "wǒ",
+       "xiǎng",
+       "huí",
+       "jiā",
+       "."
+      ],
+      "vi": "Tôi muốn về nhà.",
+      "alts": []
+     }
+    },
+    {
+     "id": "l09-了",
+     "hanzi": "了",
+     "pinyin": "le",
+     "vi": "rồi, đã (trợ từ)",
+     "ex": {
+      "tokens": [
+       "他",
+       "回",
+       "家",
+       "了",
+       "。"
+      ],
+      "py": [
+       "tā",
+       "huí",
+       "jiā",
+       "le",
+       "."
+      ],
+      "vi": "Anh ấy về nhà rồi.",
+      "alts": []
+     }
+    }
+   ]
+  },
+  {
+   "id": "l10",
+   "title": "Trường học",
+   "desc": "Thầy cô, bạn học, sách vở",
+   "icon": "school",
+   "unit": 2,
+   "words": [
+    {
+     "id": "l10-学校",
+     "hanzi": "学校",
+     "pinyin": "xuéxiào",
+     "vi": "trường học",
+     "ex": {
+      "tokens": [
+       "我",
+       "的",
+       "学校",
+       "很",
+       "大",
+       "。"
+      ],
+      "py": [
+       "wǒ",
+       "de",
+       "xuéxiào",
+       "hěn",
+       "dà",
+       "."
+      ],
+      "vi": "Trường của tôi rất lớn.",
+      "alts": []
+     }
+    },
+    {
+     "id": "l10-老师",
+     "hanzi": "老师",
+     "pinyin": "lǎoshī",
+     "vi": "giáo viên, thầy/cô",
+     "ex": {
+      "tokens": [
+       "我",
+       "的",
+       "汉语",
+       "老师",
+       "是",
+       "中国",
+       "人",
+       "。"
+      ],
+      "py": [
+       "wǒ",
+       "de",
+       "Hànyǔ",
+       "lǎoshī",
+       "shì",
+       "Zhōngguó",
+       "rén",
+       "."
+      ],
+      "vi": "Giáo viên tiếng Trung của tôi là người Trung Quốc.",
+      "alts": []
+     }
+    },
+    {
+     "id": "l10-学生",
+     "hanzi": "学生",
+     "pinyin": "xuésheng",
+     "vi": "học sinh, sinh viên",
+     "ex": {
+      "tokens": [
+       "我们",
+       "都",
+       "是",
+       "学生",
+       "。"
+      ],
+      "py": [
+       "wǒmen",
+       "dōu",
+       "shì",
+       "xuésheng",
+       "."
+      ],
+      "vi": "Chúng tôi đều là học sinh.",
+      "alts": []
+     }
+    },
+    {
+     "id": "l10-同学",
+     "hanzi": "同学",
+     "pinyin": "tóngxué",
+     "vi": "bạn học, bạn cùng lớp",
+     "ex": {
+      "tokens": [
+       "他",
+       "是",
+       "我",
+       "同学",
+       "。"
+      ],
+      "py": [
+       "tā",
+       "shì",
+       "wǒ",
+       "tóngxué",
+       "."
+      ],
+      "vi": "Cậu ấy là bạn cùng lớp của tôi.",
+      "alts": []
+     }
+    },
+    {
+     "id": "l10-学习",
+     "hanzi": "学习",
+     "pinyin": "xuéxí",
+     "vi": "học, học tập",
+     "ex": {
+      "tokens": [
+       "我",
+       "在",
+       "学习",
+       "汉语",
+       "。"
+      ],
+      "py": [
+       "wǒ",
+       "zài",
+       "xuéxí",
+       "Hànyǔ",
+       "."
+      ],
+      "vi": "Tôi đang học tiếng Trung.",
+      "alts": []
+     }
+    },
+    {
+     "id": "l10-汉语",
+     "hanzi": "汉语",
+     "pinyin": "Hànyǔ",
+     "vi": "tiếng Hán, tiếng Trung",
+     "ex": {
+      "tokens": [
+       "你",
+       "会",
+       "说",
+       "汉语",
+       "吗",
+       "？"
+      ],
+      "py": [
+       "nǐ",
+       "huì",
+       "shuō",
+       "Hànyǔ",
+       "ma",
+       "?"
+      ],
+      "vi": "Bạn biết nói tiếng Trung không?",
+      "alts": []
+     }
+    },
+    {
+     "id": "l10-书",
+     "hanzi": "书",
+     "pinyin": "shū",
+     "vi": "sách",
+     "ex": {
+      "tokens": [
+       "这",
+       "是",
+       "我",
+       "的",
+       "书",
+       "。"
+      ],
+      "py": [
+       "zhè",
+       "shì",
+       "wǒ",
+       "de",
+       "shū",
+       "."
+      ],
+      "vi": "Đây là sách của tôi.",
+      "alts": []
+     }
+    },
+    {
+     "id": "l10-字",
+     "hanzi": "字",
+     "pinyin": "zì",
+     "vi": "chữ",
+     "ex": {
+      "tokens": [
+       "这",
+       "个",
+       "字",
+       "怎么",
+       "读",
+       "？"
+      ],
+      "py": [
+       "zhè",
+       "ge",
+       "zì",
+       "zěnme",
+       "dú",
+       "?"
+      ],
+      "vi": "Chữ này đọc thế nào?",
+      "alts": []
+     }
+    },
+    {
+     "id": "l10-写",
+     "hanzi": "写",
+     "pinyin": "xiě",
+     "vi": "viết",
+     "ex": {
+      "tokens": [
+       "我",
+       "会",
+       "写",
+       "汉字",
+       "。"
+      ],
+      "py": [
+       "wǒ",
+       "huì",
+       "xiě",
+       "Hànzì",
+       "."
+      ],
+      "vi": "Tôi biết viết chữ Hán.",
+      "alts": []
+     }
+    },
+    {
+     "id": "l10-读",
+     "hanzi": "读",
+     "pinyin": "dú",
+     "vi": "đọc",
+     "ex": {
+      "tokens": [
+       "请",
+       "读",
+       "这",
+       "本",
+       "书",
+       "。"
+      ],
+      "py": [
+       "qǐng",
+       "dú",
+       "zhè",
+       "běn",
+       "shū",
+       "."
+      ],
+      "vi": "Hãy đọc quyển sách này.",
+      "alts": []
+     }
+    },
+    {
+     "id": "l10-说",
+     "hanzi": "说",
+     "pinyin": "shuō",
+     "vi": "nói",
+     "ex": {
+      "tokens": [
+       "她",
+       "会",
+       "说",
+       "越南语",
+       "。"
+      ],
+      "py": [
+       "tā",
+       "huì",
+       "shuō",
+       "Yuènányǔ",
+       "."
+      ],
+      "vi": "Cô ấy biết nói tiếng Việt.",
+      "alts": []
+     }
+    },
+    {
+     "id": "l10-听",
+     "hanzi": "听",
+     "pinyin": "tīng",
+     "vi": "nghe",
+     "ex": {
+      "tokens": [
+       "我",
+       "喜欢",
+       "听",
+       "中国",
+       "歌",
+       "。"
+      ],
+      "py": [
+       "wǒ",
+       "xǐhuan",
+       "tīng",
+       "Zhōngguó",
+       "gē",
+       "."
+      ],
+      "vi": "Tôi thích nghe bài hát Trung Quốc.",
+      "alts": []
+     }
+    }
+   ]
+  },
+  {
+   "id": "l11",
+   "title": "Động vật",
+   "desc": "Mèo, chó, gấu trúc",
+   "icon": "animals",
+   "unit": 3,
+   "words": [
+    {
+     "id": "l11-猫",
+     "hanzi": "猫",
+     "pinyin": "māo",
+     "vi": "con mèo",
+     "ex": {
+      "tokens": [
+       "我",
+       "家",
+       "有",
+       "两",
+       "只",
+       "猫",
+       "。"
+      ],
+      "py": [
+       "wǒ",
+       "jiā",
+       "yǒu",
+       "liǎng",
+       "zhī",
+       "māo",
+       "."
+      ],
+      "vi": "Nhà tôi có hai con mèo.",
+      "alts": []
+     }
+    },
+    {
+     "id": "l11-狗",
+     "hanzi": "狗",
+     "pinyin": "gǒu",
+     "vi": "con chó",
+     "ex": {
+      "tokens": [
+       "这",
+       "只",
+       "狗",
+       "很",
+       "大",
+       "。"
+      ],
+      "py": [
+       "zhè",
+       "zhī",
+       "gǒu",
+       "hěn",
+       "dà",
+       "."
+      ],
+      "vi": "Con chó này rất to.",
+      "alts": []
+     }
+    },
+    {
+     "id": "l11-鸟",
+     "hanzi": "鸟",
+     "pinyin": "niǎo",
+     "vi": "con chim",
+     "ex": {
+      "tokens": [
+       "树",
+       "上",
+       "有",
+       "一",
+       "只",
+       "鸟",
+       "。"
+      ],
+      "py": [
+       "shù",
+       "shang",
+       "yǒu",
+       "yì",
+       "zhī",
+       "niǎo",
+       "."
+      ],
+      "vi": "Trên cây có một con chim.",
+      "alts": []
+     }
+    },
+    {
+     "id": "l11-鱼",
+     "hanzi": "鱼",
+     "pinyin": "yú",
+     "vi": "con cá",
+     "ex": {
+      "tokens": [
+       "我",
+       "喜欢",
+       "吃",
+       "鱼",
+       "。"
+      ],
+      "py": [
+       "wǒ",
+       "xǐhuan",
+       "chī",
+       "yú",
+       "."
+      ],
+      "vi": "Tôi thích ăn cá.",
+      "alts": []
+     }
+    },
+    {
+     "id": "l11-马",
+     "hanzi": "马",
+     "pinyin": "mǎ",
+     "vi": "con ngựa",
+     "ex": {
+      "tokens": [
+       "这",
+       "匹",
+       "马",
+       "很",
+       "漂亮",
+       "。"
+      ],
+      "py": [
+       "zhè",
+       "pǐ",
+       "mǎ",
+       "hěn",
+       "piàoliang",
+       "."
+      ],
+      "vi": "Con ngựa này rất đẹp.",
+      "alts": []
+     }
+    },
+    {
+     "id": "l11-牛",
+     "hanzi": "牛",
+     "pinyin": "niú",
+     "vi": "con bò, con trâu",
+     "ex": {
+      "tokens": [
+       "牛",
+       "喜欢",
+       "吃",
+       "草",
+       "。"
+      ],
+      "py": [
+       "niú",
+       "xǐhuan",
+       "chī",
+       "cǎo",
+       "."
+      ],
+      "vi": "Bò thích ăn cỏ.",
+      "alts": []
+     }
+    },
+    {
+     "id": "l11-熊猫",
+     "hanzi": "熊猫",
+     "pinyin": "xióngmāo",
+     "vi": "gấu trúc",
+     "ex": {
+      "tokens": [
+       "我",
+       "很",
+       "喜欢",
+       "熊猫",
+       "。"
+      ],
+      "py": [
+       "wǒ",
+       "hěn",
+       "xǐhuan",
+       "xióngmāo",
+       "."
+      ],
+      "vi": "Tôi rất thích gấu trúc.",
+      "alts": []
+     }
+    },
+    {
+     "id": "l11-只",
+     "hanzi": "只",
+     "pinyin": "zhī",
+     "vi": "con (lượng từ cho động vật)",
+     "ex": {
+      "tokens": [
+       "我",
+       "有",
+       "一",
+       "只",
+       "狗",
+       "。"
+      ],
+      "py": [
+       "wǒ",
+       "yǒu",
+       "yì",
+       "zhī",
+       "gǒu",
+       "."
+      ],
+      "vi": "Tôi có một con chó.",
+      "alts": []
+     }
+    },
+    {
+     "id": "l11-看",
+     "hanzi": "看",
+     "pinyin": "kàn",
+     "vi": "nhìn, xem",
+     "ex": {
+      "tokens": [
+       "我",
+       "喜欢",
+       "看",
+       "书",
+       "。"
+      ],
+      "py": [
+       "wǒ",
+       "xǐhuan",
+       "kàn",
+       "shū",
+       "."
+      ],
+      "vi": "Tôi thích đọc sách.",
+      "alts": []
+     }
+    },
+    {
+     "id": "l11-看见",
+     "hanzi": "看见",
+     "pinyin": "kànjiàn",
+     "vi": "nhìn thấy",
+     "ex": {
+      "tokens": [
+       "我",
+       "看见",
+       "一",
+       "只",
+       "猫",
+       "。"
+      ],
+      "py": [
+       "wǒ",
+       "kànjiàn",
+       "yì",
+       "zhī",
+       "māo",
+       "."
+      ],
+      "vi": "Tôi nhìn thấy một con mèo.",
+      "alts": []
+     }
+    }
+   ]
+  },
+  {
+   "id": "l12",
+   "title": "Đồ vật trong nhà",
+   "desc": "Bàn, ghế, ti vi, máy tính",
+   "icon": "home",
+   "unit": 3,
+   "words": [
+    {
+     "id": "l12-桌子",
+     "hanzi": "桌子",
+     "pinyin": "zhuōzi",
+     "vi": "cái bàn",
+     "ex": {
+      "tokens": [
+       "书",
+       "在",
+       "桌子",
+       "上",
+       "。"
+      ],
+      "py": [
+       "shū",
+       "zài",
+       "zhuōzi",
+       "shang",
+       "."
+      ],
+      "vi": "Sách ở trên bàn.",
+      "alts": []
+     }
+    },
+    {
+     "id": "l12-椅子",
+     "hanzi": "椅子",
+     "pinyin": "yǐzi",
+     "vi": "cái ghế",
+     "ex": {
+      "tokens": [
+       "这",
+       "把",
+       "椅子",
+       "很",
+       "小",
+       "。"
+      ],
+      "py": [
+       "zhè",
+       "bǎ",
+       "yǐzi",
+       "hěn",
+       "xiǎo",
+       "."
+      ],
+      "vi": "Cái ghế này rất nhỏ.",
+      "alts": []
+     }
+    },
+    {
+     "id": "l12-电脑",
+     "hanzi": "电脑",
+     "pinyin": "diànnǎo",
+     "vi": "máy vi tính",
+     "ex": {
+      "tokens": [
+       "我",
+       "的",
+       "电脑",
+       "是",
+       "新",
+       "的",
+       "。"
+      ],
+      "py": [
+       "wǒ",
+       "de",
+       "diànnǎo",
+       "shì",
+       "xīn",
+       "de",
+       "."
+      ],
+      "vi": "Máy tính của tôi là máy mới.",
+      "alts": []
+     }
+    },
+    {
+     "id": "l12-电视",
+     "hanzi": "电视",
+     "pinyin": "diànshì",
+     "vi": "ti vi, truyền hình",
+     "ex": {
+      "tokens": [
+       "爸爸",
+       "在",
+       "看",
+       "电视",
+       "。"
+      ],
+      "py": [
+       "bàba",
+       "zài",
+       "kàn",
+       "diànshì",
+       "."
+      ],
+      "vi": "Bố đang xem ti vi.",
+      "alts": []
+     }
+    },
+    {
+     "id": "l12-电影",
+     "hanzi": "电影",
+     "pinyin": "diànyǐng",
+     "vi": "phim, điện ảnh",
+     "ex": {
+      "tokens": [
+       "我们",
+       "去",
+       "看",
+       "电影",
+       "吧",
+       "！"
+      ],
+      "py": [
+       "wǒmen",
+       "qù",
+       "kàn",
+       "diànyǐng",
+       "ba",
+       "!"
+      ],
+      "vi": "Chúng ta đi xem phim nhé!",
+      "alts": []
+     }
+    },
+    {
+     "id": "l12-衣服",
+     "hanzi": "衣服",
+     "pinyin": "yīfu",
+     "vi": "quần áo",
+     "ex": {
+      "tokens": [
+       "我",
+       "想",
+       "买",
+       "衣服",
+       "。"
+      ],
+      "py": [
+       "wǒ",
+       "xiǎng",
+       "mǎi",
+       "yīfu",
+       "."
+      ],
+      "vi": "Tôi muốn mua quần áo.",
+      "alts": []
+     }
+    },
+    {
+     "id": "l12-打电话",
+     "hanzi": "打电话",
+     "pinyin": "dǎ diànhuà",
+     "vi": "gọi điện thoại",
+     "ex": {
+      "tokens": [
+       "我",
+       "给",
+       "妈妈",
+       "打电话",
+       "。"
+      ],
+      "py": [
+       "wǒ",
+       "gěi",
+       "māma",
+       "dǎ diànhuà",
+       "."
+      ],
+      "vi": "Tôi gọi điện cho mẹ.",
+      "alts": []
+     }
+    },
+    {
+     "id": "l12-开",
+     "hanzi": "开",
+     "pinyin": "kāi",
+     "vi": "mở; lái (xe)",
+     "ex": {
+      "tokens": [
+       "请",
+       "开",
+       "门",
+       "。"
+      ],
+      "py": [
+       "qǐng",
+       "kāi",
+       "mén",
+       "."
+      ],
+      "vi": "Xin hãy mở cửa.",
+      "alts": []
+     }
+    },
+    {
+     "id": "l12-在",
+     "hanzi": "在",
+     "pinyin": "zài",
+     "vi": "ở, tại; đang",
+     "ex": {
+      "tokens": [
+       "他",
+       "在",
+       "学校",
+       "。"
+      ],
+      "py": [
+       "tā",
+       "zài",
+       "xuéxiào",
+       "."
+      ],
+      "vi": "Anh ấy đang ở trường.",
+      "alts": []
+     }
+    },
+    {
+     "id": "l12-住",
+     "hanzi": "住",
+     "pinyin": "zhù",
+     "vi": "sống, ở (cư trú)",
+     "ex": {
+      "tokens": [
+       "你",
+       "住",
+       "在",
+       "哪儿",
+       "？"
+      ],
+      "py": [
+       "nǐ",
+       "zhù",
+       "zài",
+       "nǎr",
+       "?"
+      ],
+      "vi": "Bạn sống ở đâu?",
+      "alts": []
+     }
+    }
+   ]
+  },
+  {
+   "id": "l13",
+   "title": "Vị trí & câu hỏi",
+   "desc": "Ở đâu? Ai? Cái nào?",
+   "icon": "question",
+   "unit": 3,
+   "words": [
+    {
+     "id": "l13-这",
+     "hanzi": "这",
+     "pinyin": "zhè",
+     "vi": "này, đây",
+     "ex": {
+      "tokens": [
+       "这",
+       "是",
+       "我",
+       "妈妈",
+       "。"
+      ],
+      "py": [
+       "zhè",
+       "shì",
+       "wǒ",
+       "māma",
+       "."
+      ],
+      "vi": "Đây là mẹ tôi.",
+      "alts": []
+     }
+    },
+    {
+     "id": "l13-那",
+     "hanzi": "那",
+     "pinyin": "nà",
+     "vi": "kia, đó",
+     "ex": {
+      "tokens": [
+       "那",
+       "是",
+       "什么",
+       "？"
+      ],
+      "py": [
+       "nà",
+       "shì",
+       "shénme",
+       "?"
+      ],
+      "vi": "Kia là cái gì?",
+      "alts": []
+     }
+    },
+    {
+     "id": "l13-哪",
+     "hanzi": "哪",
+     "pinyin": "nǎ",
+     "vi": "nào",
+     "ex": {
+      "tokens": [
+       "你",
+       "喜欢",
+       "哪",
+       "个",
+       "？"
+      ],
+      "py": [
+       "nǐ",
+       "xǐhuan",
+       "nǎ",
+       "ge",
+       "?"
+      ],
+      "vi": "Bạn thích cái nào?",
+      "alts": []
+     }
+    },
+    {
+     "id": "l13-哪儿",
+     "hanzi": "哪儿",
+     "pinyin": "nǎr",
+     "vi": "ở đâu, chỗ nào",
+     "ex": {
+      "tokens": [
+       "你",
+       "去",
+       "哪儿",
+       "？"
+      ],
+      "py": [
+       "nǐ",
+       "qù",
+       "nǎr",
+       "?"
+      ],
+      "vi": "Bạn đi đâu đấy?",
+      "alts": []
+     }
+    },
+    {
+     "id": "l13-谁",
+     "hanzi": "谁",
+     "pinyin": "shéi",
+     "vi": "ai",
+     "ex": {
+      "tokens": [
+       "他",
+       "是",
+       "谁",
+       "？"
+      ],
+      "py": [
+       "tā",
+       "shì",
+       "shéi",
+       "?"
+      ],
+      "vi": "Anh ấy là ai?",
+      "alts": []
+     }
+    },
+    {
+     "id": "l13-上",
+     "hanzi": "上",
+     "pinyin": "shàng",
+     "vi": "trên; lên",
+     "ex": {
+      "tokens": [
+       "他",
+       "上",
+       "车",
+       "了",
+       "。"
+      ],
+      "py": [
+       "tā",
+       "shàng",
+       "chē",
+       "le",
+       "."
+      ],
+      "vi": "Anh ấy lên xe rồi.",
+      "alts": []
+     }
+    },
+    {
+     "id": "l13-下",
+     "hanzi": "下",
+     "pinyin": "xià",
+     "vi": "dưới; xuống",
+     "ex": {
+      "tokens": [
+       "猫",
+       "在",
+       "椅子",
+       "下面",
+       "。"
+      ],
+      "py": [
+       "māo",
+       "zài",
+       "yǐzi",
+       "xiàmiàn",
+       "."
+      ],
+      "vi": "Con mèo ở dưới ghế.",
+      "alts": []
+     }
+    },
+    {
+     "id": "l13-里",
+     "hanzi": "里",
+     "pinyin": "lǐ",
+     "vi": "trong, bên trong",
+     "ex": {
+      "tokens": [
+       "家",
+       "里",
+       "有",
+       "人",
+       "吗",
+       "？"
+      ],
+      "py": [
+       "jiā",
+       "li",
+       "yǒu",
+       "rén",
+       "ma",
+       "?"
+      ],
+      "vi": "Trong nhà có ai không?",
+      "alts": []
+     }
+    },
+    {
+     "id": "l13-前面",
+     "hanzi": "前面",
+     "pinyin": "qiánmiàn",
+     "vi": "phía trước",
+     "ex": {
+      "tokens": [
+       "学校",
+       "前面",
+       "有",
+       "一",
+       "个",
+       "商店",
+       "。"
+      ],
+      "py": [
+       "xuéxiào",
+       "qiánmiàn",
+       "yǒu",
+       "yí",
+       "ge",
+       "shāngdiàn",
+       "."
+      ],
+      "vi": "Phía trước trường có một cửa hàng.",
+      "alts": []
+     }
+    },
+    {
+     "id": "l13-后面",
+     "hanzi": "后面",
+     "pinyin": "hòumiàn",
+     "vi": "phía sau",
+     "ex": {
+      "tokens": [
+       "饭店",
+       "在",
+       "学校",
+       "后面",
+       "。"
+      ],
+      "py": [
+       "fàndiàn",
+       "zài",
+       "xuéxiào",
+       "hòumiàn",
+       "."
+      ],
+      "vi": "Nhà hàng ở phía sau trường.",
+      "alts": []
+     }
+    },
+    {
+     "id": "l13-吗",
+     "hanzi": "吗",
+     "pinyin": "ma",
+     "vi": "không? phải không? (trợ từ hỏi)",
+     "ex": {
+      "tokens": [
+       "你",
+       "是",
+       "越南",
+       "人",
+       "吗",
+       "？"
+      ],
+      "py": [
+       "nǐ",
+       "shì",
+       "Yuènán",
+       "rén",
+       "ma",
+       "?"
+      ],
+      "vi": "Bạn là người Việt Nam phải không?",
+      "alts": []
+     }
+    },
+    {
+     "id": "l13-呢",
+     "hanzi": "呢",
+     "pinyin": "ne",
+     "vi": "còn...thì sao? (trợ từ hỏi)",
+     "ex": {
+      "tokens": [
+       "我",
+       "很",
+       "好",
+       "，",
+       "你",
+       "呢",
+       "？"
+      ],
+      "py": [
+       "wǒ",
+       "hěn",
+       "hǎo",
+       ",",
+       "nǐ",
+       "ne",
+       "?"
+      ],
+      "vi": "Tôi khỏe, còn bạn thì sao?",
+      "alts": []
+     }
+    }
+   ]
+  },
+  {
+   "id": "l14",
+   "title": "Du lịch",
+   "desc": "Đi lại bằng máy bay, taxi",
+   "icon": "travel",
+   "unit": 3,
+   "words": [
+    {
+     "id": "l14-去",
+     "hanzi": "去",
+     "pinyin": "qù",
+     "vi": "đi",
+     "ex": {
+      "tokens": [
+       "我",
+       "想",
+       "去",
+       "北京",
+       "。"
+      ],
+      "py": [
+       "wǒ",
+       "xiǎng",
+       "qù",
+       "Běijīng",
+       "."
+      ],
+      "vi": "Tôi muốn đi Bắc Kinh.",
+      "alts": []
+     }
+    },
+    {
+     "id": "l14-来",
+     "hanzi": "来",
+     "pinyin": "lái",
+     "vi": "đến, tới",
+     "ex": {
+      "tokens": [
+       "欢迎",
+       "来",
+       "越南",
+       "！"
+      ],
+      "py": [
+       "huānyíng",
+       "lái",
+       "Yuènán",
+       "!"
+      ],
+      "vi": "Chào mừng bạn đến Việt Nam!",
+      "alts": []
+     }
+    },
+    {
+     "id": "l14-坐",
+     "hanzi": "坐",
+     "pinyin": "zuò",
+     "vi": "ngồi; đi (phương tiện)",
+     "ex": {
+      "tokens": [
+       "我",
+       "坐",
+       "飞机",
+       "去",
+       "北京",
+       "。"
+      ],
+      "py": [
+       "wǒ",
+       "zuò",
+       "fēijī",
+       "qù",
+       "Běijīng",
+       "."
+      ],
+      "vi": "Tôi đi máy bay đến Bắc Kinh.",
+      "alts": []
+     }
+    },
+    {
+     "id": "l14-飞机",
+     "hanzi": "飞机",
+     "pinyin": "fēijī",
+     "vi": "máy bay",
+     "ex": {
+      "tokens": [
+       "飞机",
+       "几",
+       "点",
+       "到",
+       "？"
+      ],
+      "py": [
+       "fēijī",
+       "jǐ",
+       "diǎn",
+       "dào",
+       "?"
+      ],
+      "vi": "Máy bay mấy giờ đến?",
+      "alts": []
+     }
+    },
+    {
+     "id": "l14-出租车",
+     "hanzi": "出租车",
+     "pinyin": "chūzūchē",
+     "vi": "xe taxi",
+     "ex": {
+      "tokens": [
+       "我们",
+       "坐",
+       "出租车",
+       "去",
+       "吧",
+       "。"
+      ],
+      "py": [
+       "wǒmen",
+       "zuò",
+       "chūzūchē",
+       "qù",
+       "ba",
+       "."
+      ],
+      "vi": "Chúng ta đi taxi nhé.",
+      "alts": []
+     }
+    },
+    {
+     "id": "l14-北京",
+     "hanzi": "北京",
+     "pinyin": "Běijīng",
+     "vi": "Bắc Kinh",
+     "ex": {
+      "tokens": [
+       "北京",
+       "是",
+       "中国",
+       "的",
+       "首都",
+       "。"
+      ],
+      "py": [
+       "Běijīng",
+       "shì",
+       "Zhōngguó",
+       "de",
+       "shǒudū",
+       "."
+      ],
+      "vi": "Bắc Kinh là thủ đô của Trung Quốc.",
+      "alts": []
+     }
+    },
+    {
+     "id": "l14-医院",
+     "hanzi": "医院",
+     "pinyin": "yīyuàn",
+     "vi": "bệnh viện",
+     "ex": {
+      "tokens": [
+       "医院",
+       "在",
+       "哪儿",
+       "？"
+      ],
+      "py": [
+       "yīyuàn",
+       "zài",
+       "nǎr",
+       "?"
+      ],
+      "vi": "Bệnh viện ở đâu?",
+      "alts": []
+     }
+    },
+    {
+     "id": "l14-医生",
+     "hanzi": "医生",
+     "pinyin": "yīshēng",
+     "vi": "bác sĩ",
+     "ex": {
+      "tokens": [
+       "她",
+       "是",
+       "一",
+       "个",
+       "好",
+       "医生",
+       "。"
+      ],
+      "py": [
+       "tā",
+       "shì",
+       "yí",
+       "ge",
+       "hǎo",
+       "yīshēng",
+       "."
+      ],
+      "vi": "Cô ấy là một bác sĩ giỏi.",
+      "alts": []
+     }
+    },
+    {
+     "id": "l14-先生",
+     "hanzi": "先生",
+     "pinyin": "xiānsheng",
+     "vi": "ông, ngài; chồng",
+     "ex": {
+      "tokens": [
+       "王",
+       "先生",
+       "，",
+       "你好",
+       "！"
+      ],
+      "py": [
+       "Wáng",
+       "xiānsheng",
+       ",",
+       "nǐ hǎo",
+       "!"
+      ],
+      "vi": "Chào ông Vương!",
+      "alts": []
+     }
+    },
+    {
+     "id": "l14-小姐",
+     "hanzi": "小姐",
+     "pinyin": "xiǎojiě",
+     "vi": "cô (cách gọi lịch sự)",
+     "ex": {
+      "tokens": [
+       "李",
+       "小姐",
+       "是",
+       "老师",
+       "。"
+      ],
+      "py": [
+       "Lǐ",
+       "xiǎojiě",
+       "shì",
+       "lǎoshī",
+       "."
+      ],
+      "vi": "Cô Lý là giáo viên.",
+      "alts": []
+     }
+    },
+    {
+     "id": "l14-怎么",
+     "hanzi": "怎么",
+     "pinyin": "zěnme",
+     "vi": "thế nào, làm sao",
+     "ex": {
+      "tokens": [
+       "去",
+       "机场",
+       "怎么",
+       "走",
+       "？"
+      ],
+      "py": [
+       "qù",
+       "jīchǎng",
+       "zěnme",
+       "zǒu",
+       "?"
+      ],
+      "vi": "Đi đến sân bay thế nào?",
+      "alts": []
+     }
+    }
+   ]
+  },
+  {
+   "id": "l15",
+   "title": "Thời tiết & khả năng",
+   "desc": "Nóng, lạnh, mưa; biết, có thể",
+   "icon": "weather",
+   "unit": 3,
+   "words": [
+    {
+     "id": "l15-天气",
+     "hanzi": "天气",
+     "pinyin": "tiānqì",
+     "vi": "thời tiết",
+     "ex": {
+      "tokens": [
+       "明天",
+       "天气",
+       "怎么样",
+       "？"
+      ],
+      "py": [
+       "míngtiān",
+       "tiānqì",
+       "zěnmeyàng",
+       "?"
+      ],
+      "vi": "Thời tiết ngày mai thế nào?",
+      "alts": []
+     }
+    },
+    {
+     "id": "l15-冷",
+     "hanzi": "冷",
+     "pinyin": "lěng",
+     "vi": "lạnh",
+     "ex": {
+      "tokens": [
+       "今天",
+       "很",
+       "冷",
+       "。"
+      ],
+      "py": [
+       "jīntiān",
+       "hěn",
+       "lěng",
+       "."
+      ],
+      "vi": "Hôm nay rất lạnh.",
+      "alts": []
+     }
+    },
+    {
+     "id": "l15-热",
+     "hanzi": "热",
+     "pinyin": "rè",
+     "vi": "nóng",
+     "ex": {
+      "tokens": [
+       "越南",
+       "的",
+       "夏天",
+       "很",
+       "热",
+       "。"
+      ],
+      "py": [
+       "Yuènán",
+       "de",
+       "xiàtiān",
+       "hěn",
+       "rè",
+       "."
+      ],
+      "vi": "Mùa hè ở Việt Nam rất nóng.",
+      "alts": []
+     }
+    },
+    {
+     "id": "l15-下雨",
+     "hanzi": "下雨",
+     "pinyin": "xià yǔ",
+     "vi": "mưa, trời mưa",
+     "ex": {
+      "tokens": [
+       "今天",
+       "下雨",
+       "了",
+       "。"
+      ],
+      "py": [
+       "jīntiān",
+       "xià yǔ",
+       "le",
+       "."
+      ],
+      "vi": "Hôm nay trời mưa rồi.",
+      "alts": []
+     }
+    },
+    {
+     "id": "l15-太",
+     "hanzi": "太",
+     "pinyin": "tài",
+     "vi": "quá, lắm",
+     "ex": {
+      "tokens": [
+       "太",
+       "好",
+       "了",
+       "！"
+      ],
+      "py": [
+       "tài",
+       "hǎo",
+       "le",
+       "!"
+      ],
+      "vi": "Tuyệt quá!",
+      "alts": []
+     }
+    },
+    {
+     "id": "l15-怎么样",
+     "hanzi": "怎么样",
+     "pinyin": "zěnmeyàng",
+     "vi": "thế nào, ra sao",
+     "ex": {
+      "tokens": [
+       "这",
+       "个",
+       "菜",
+       "怎么样",
+       "？"
+      ],
+      "py": [
+       "zhè",
+       "ge",
+       "cài",
+       "zěnmeyàng",
+       "?"
+      ],
+      "vi": "Món này thế nào?",
+      "alts": []
+     }
+    },
+    {
+     "id": "l15-能",
+     "hanzi": "能",
+     "pinyin": "néng",
+     "vi": "có thể",
+     "ex": {
+      "tokens": [
+       "我",
+       "能",
+       "坐",
+       "这儿",
+       "吗",
+       "？"
+      ],
+      "py": [
+       "wǒ",
+       "néng",
+       "zuò",
+       "zhèr",
+       "ma",
+       "?"
+      ],
+      "vi": "Tôi có thể ngồi ở đây không?",
+      "alts": []
+     }
+    },
+    {
+     "id": "l15-会",
+     "hanzi": "会",
+     "pinyin": "huì",
+     "vi": "biết (làm gì); sẽ",
+     "ex": {
+      "tokens": [
+       "我",
+       "会",
+       "说",
+       "一点儿",
+       "汉语",
+       "。"
+      ],
+      "py": [
+       "wǒ",
+       "huì",
+       "shuō",
+       "yìdiǎnr",
+       "Hànyǔ",
+       "."
+      ],
+      "vi": "Tôi biết nói một chút tiếng Trung.",
+      "alts": []
+     }
+    },
+    {
+     "id": "l15-都",
+     "hanzi": "都",
+     "pinyin": "dōu",
+     "vi": "đều",
+     "ex": {
+      "tokens": [
+       "我们",
+       "都",
+       "喜欢",
+       "熊猫",
+       "。"
+      ],
+      "py": [
+       "wǒmen",
+       "dōu",
+       "xǐhuan",
+       "xióngmāo",
+       "."
+      ],
+      "vi": "Chúng tôi đều thích gấu trúc.",
+      "alts": []
+     }
+    },
+    {
+     "id": "l15-的",
+     "hanzi": "的",
+     "pinyin": "de",
+     "vi": "của (trợ từ)",
+     "ex": {
+      "tokens": [
+       "这",
+       "是",
+       "谁",
+       "的",
+       "书",
+       "？"
+      ],
+      "py": [
+       "zhè",
+       "shì",
+       "shéi",
+       "de",
+       "shū",
+       "?"
+      ],
+      "vi": "Đây là sách của ai?",
+      "alts": []
+     }
+    }
+   ]
+  },
+  {
+   "id": "b01",
+   "title": "Bonus: Món ngon",
+   "desc": "Mì, sủi cảo, cà phê, bánh mì",
+   "icon": "bonusfood",
+   "unit": 2,
+   "words": [
+    {
+     "id": "b01-面条",
+     "hanzi": "面条",
+     "pinyin": "miàntiáo",
+     "vi": "mì, sợi mì",
+     "ex": {
+      "tokens": [
+       "我",
+       "想",
+       "吃",
+       "面条",
+       "。"
+      ],
+      "py": [
+       "wǒ",
+       "xiǎng",
+       "chī",
+       "miàntiáo",
+       "."
+      ],
+      "vi": "Tôi muốn ăn mì.",
+      "alts": []
+     }
+    },
+    {
+     "id": "b01-饺子",
+     "hanzi": "饺子",
+     "pinyin": "jiǎozi",
+     "vi": "sủi cảo, bánh chẻo",
+     "ex": {
+      "tokens": [
+       "中国",
+       "人",
+       "喜欢",
+       "吃",
+       "饺子",
+       "。"
+      ],
+      "py": [
+       "Zhōngguó",
+       "rén",
+       "xǐhuan",
+       "chī",
+       "jiǎozi",
+       "."
+      ],
+      "vi": "Người Trung Quốc thích ăn sủi cảo.",
+      "alts": []
+     }
+    },
+    {
+     "id": "b01-咖啡",
+     "hanzi": "咖啡",
+     "pinyin": "kāfēi",
+     "vi": "cà phê",
+     "ex": {
+      "tokens": [
+       "越南",
+       "咖啡",
+       "很",
+       "好喝",
+       "。"
+      ],
+      "py": [
+       "Yuènán",
+       "kāfēi",
+       "hěn",
+       "hǎohē",
+       "."
+      ],
+      "vi": "Cà phê Việt Nam rất ngon.",
+      "alts": []
+     }
+    },
+    {
+     "id": "b01-牛奶",
+     "hanzi": "牛奶",
+     "pinyin": "niúnǎi",
+     "vi": "sữa bò",
+     "ex": {
+      "tokens": [
+       "我",
+       "每天",
+       "喝",
+       "牛奶",
+       "。"
+      ],
+      "py": [
+       "wǒ",
+       "měitiān",
+       "hē",
+       "niúnǎi",
+       "."
+      ],
+      "vi": "Tôi uống sữa mỗi ngày.",
+      "alts": [
+       "每天我喝牛奶"
+      ]
+     }
+    },
+    {
+     "id": "b01-鸡蛋",
+     "hanzi": "鸡蛋",
+     "pinyin": "jīdàn",
+     "vi": "trứng gà",
+     "ex": {
+      "tokens": [
+       "我",
+       "买",
+       "了",
+       "十",
+       "个",
+       "鸡蛋",
+       "。"
+      ],
+      "py": [
+       "wǒ",
+       "mǎi",
+       "le",
+       "shí",
+       "ge",
+       "jīdàn",
+       "."
+      ],
+      "vi": "Tôi đã mua mười quả trứng gà.",
+      "alts": []
+     }
+    },
+    {
+     "id": "b01-面包",
+     "hanzi": "面包",
+     "pinyin": "miànbāo",
+     "vi": "bánh mì",
+     "ex": {
+      "tokens": [
+       "越南",
+       "面包",
+       "很",
+       "好吃",
+       "。"
+      ],
+      "py": [
+       "Yuènán",
+       "miànbāo",
+       "hěn",
+       "hǎochī",
+       "."
+      ],
+      "vi": "Bánh mì Việt Nam rất ngon.",
+      "alts": []
+     }
+    },
+    {
+     "id": "b01-好吃",
+     "hanzi": "好吃",
+     "pinyin": "hǎochī",
+     "vi": "ngon (đồ ăn)",
+     "ex": {
+      "tokens": [
+       "妈妈",
+       "做",
+       "的",
+       "菜",
+       "很",
+       "好吃",
+       "。"
+      ],
+      "py": [
+       "māma",
+       "zuò",
+       "de",
+       "cài",
+       "hěn",
+       "hǎochī",
+       "."
+      ],
+      "vi": "Món mẹ nấu rất ngon.",
+      "alts": []
+     }
+    },
+    {
+     "id": "b01-筷子",
+     "hanzi": "筷子",
+     "pinyin": "kuàizi",
+     "vi": "đôi đũa",
+     "ex": {
+      "tokens": [
+       "我",
+       "会",
+       "用",
+       "筷子",
+       "。"
+      ],
+      "py": [
+       "wǒ",
+       "huì",
+       "yòng",
+       "kuàizi",
+       "."
+      ],
+      "vi": "Tôi biết dùng đũa.",
+      "alts": []
+     }
+    }
+   ],
+   "bonus": true,
+   "cost": 50
+  },
+  {
+   "id": "b02",
+   "title": "Bonus: Cơ thể",
+   "desc": "Đầu, tay, mắt, mũi",
+   "icon": "bonusbody",
+   "unit": 3,
+   "words": [
+    {
+     "id": "b02-头",
+     "hanzi": "头",
+     "pinyin": "tóu",
+     "vi": "cái đầu",
+     "ex": {
+      "tokens": [
+       "我",
+       "头",
+       "疼",
+       "。"
+      ],
+      "py": [
+       "wǒ",
+       "tóu",
+       "téng",
+       "."
+      ],
+      "vi": "Tôi bị đau đầu.",
+      "alts": []
+     }
+    },
+    {
+     "id": "b02-手",
+     "hanzi": "手",
+     "pinyin": "shǒu",
+     "vi": "tay, bàn tay",
+     "ex": {
+      "tokens": [
+       "请",
+       "洗",
+       "手",
+       "。"
+      ],
+      "py": [
+       "qǐng",
+       "xǐ",
+       "shǒu",
+       "."
+      ],
+      "vi": "Hãy rửa tay.",
+      "alts": []
+     }
+    },
+    {
+     "id": "b02-眼睛",
+     "hanzi": "眼睛",
+     "pinyin": "yǎnjing",
+     "vi": "mắt",
+     "ex": {
+      "tokens": [
+       "她",
+       "的",
+       "眼睛",
+       "很",
+       "大",
+       "。"
+      ],
+      "py": [
+       "tā",
+       "de",
+       "yǎnjing",
+       "hěn",
+       "dà",
+       "."
+      ],
+      "vi": "Mắt cô ấy rất to.",
+      "alts": []
+     }
+    },
+    {
+     "id": "b02-嘴",
+     "hanzi": "嘴",
+     "pinyin": "zuǐ",
+     "vi": "miệng",
+     "ex": {
+      "tokens": [
+       "请",
+       "张开",
+       "嘴",
+       "。"
+      ],
+      "py": [
+       "qǐng",
+       "zhāngkāi",
+       "zuǐ",
+       "."
+      ],
+      "vi": "Hãy há miệng ra.",
+      "alts": []
+     }
+    },
+    {
+     "id": "b02-耳朵",
+     "hanzi": "耳朵",
+     "pinyin": "ěrduo",
+     "vi": "tai",
+     "ex": {
+      "tokens": [
+       "兔子",
+       "的",
+       "耳朵",
+       "很",
+       "长",
+       "。"
+      ],
+      "py": [
+       "tùzi",
+       "de",
+       "ěrduo",
+       "hěn",
+       "cháng",
+       "."
+      ],
+      "vi": "Tai của con thỏ rất dài.",
+      "alts": []
+     }
+    },
+    {
+     "id": "b02-脚",
+     "hanzi": "脚",
+     "pinyin": "jiǎo",
+     "vi": "bàn chân",
+     "ex": {
+      "tokens": [
+       "我",
+       "的",
+       "脚",
+       "很",
+       "冷",
+       "。"
+      ],
+      "py": [
+       "wǒ",
+       "de",
+       "jiǎo",
+       "hěn",
+       "lěng",
+       "."
+      ],
+      "vi": "Chân tôi rất lạnh.",
+      "alts": []
+     }
+    },
+    {
+     "id": "b02-鼻子",
+     "hanzi": "鼻子",
+     "pinyin": "bízi",
+     "vi": "cái mũi",
+     "ex": {
+      "tokens": [
+       "大象",
+       "的",
+       "鼻子",
+       "很",
+       "长",
+       "。"
+      ],
+      "py": [
+       "dàxiàng",
+       "de",
+       "bízi",
+       "hěn",
+       "cháng",
+       "."
+      ],
+      "vi": "Vòi của con voi rất dài.",
+      "alts": []
+     }
+    },
+    {
+     "id": "b02-身体",
+     "hanzi": "身体",
+     "pinyin": "shēntǐ",
+     "vi": "cơ thể; sức khỏe",
+     "ex": {
+      "tokens": [
+       "祝",
+       "你",
+       "身体",
+       "健康",
+       "！"
+      ],
+      "py": [
+       "zhù",
+       "nǐ",
+       "shēntǐ",
+       "jiànkāng",
+       "!"
+      ],
+      "vi": "Chúc bạn mạnh khỏe!",
+      "alts": []
+     }
+    }
+   ],
+   "bonus": true,
+   "cost": 50
+  }
+ ]
+}
