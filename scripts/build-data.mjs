@@ -67,6 +67,8 @@ const units = [
 
 /* ---------------- pinyin helpers ---------------- */
 const ref = JSON.parse(read('scripts/ref/hsk-old.json'));
+// HSK 7: the most frequent third of the HSK 3.0 level 7–9 list (MIT, github.com/drkameleon/complete-hsk-vocabulary)
+Object.assign(ref, JSON.parse(read('scripts/ref/hsk7.json')));
 const TONES = { a: 'āáǎà', e: 'ēéěè', i: 'īíǐì', o: 'ōóǒò', u: 'ūúǔù', ü: 'ǖǘǚǜ' };
 const toneOf = (syl) => {
   for (const ch of syl.toLowerCase()) for (const m of Object.values(TONES)) if (m.includes(ch)) return m.indexOf(ch) + 1;
