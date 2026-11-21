@@ -1,3 +1,4 @@
+import ScrollButtons from '../components/ScrollButtons';
 import { useEffect, useMemo, useRef, useState } from 'react';
 import {
   answerText,
@@ -293,6 +294,7 @@ function MockResultView({ spec, qs, answers, result, onExit }: { spec: MockSpec;
   const shown = qs.map((q, i) => ({ q, a: answers[i], ok: isCorrect(q, answers[i]) })).filter((x) => !onlyWrong || !x.ok);
   return (
     <div className="mx-auto min-h-[100dvh] max-w-md px-4 pb-6 pt-6" data-testid="mock-result">
+      <ScrollButtons className="bottom-4" />
       <div className="text-center">
         <Panda size={96} mood={result.passed ? 'cheer' : 'happy'} className="mx-auto" />
         <h1 className="mt-2 text-2xl font-black text-ink-700">Kết quả thi thử {spec.title}</h1>

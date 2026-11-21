@@ -10,6 +10,7 @@ import AuthScreen from './screens/AuthScreen';
 import Footer from './components/Footer';
 import AppBanners from './components/AppBanners';
 import LessonScreen, { type SessionMode } from './screens/LessonScreen';
+import ScrollButtons from './components/ScrollButtons';
 import { currentLessonId } from './lib/unlock';
 import { useProgress } from './lib/store';
 import { dueCount } from './lib/srs';
@@ -44,6 +45,7 @@ export default function App() {
   const p = useProgress();
   const contentVersion = useContentVersion();
   useEffect(() => {
+    if (!courseChosen() && !p.settings.level) return; // nothing is downloaded before a course is picked
     ensureCourse();
     // once every level is known, remember which HSK level is being studied (it is loaded first next time)
     if (isEnglish() || !courseLoaded()) return;
@@ -206,6 +208,7 @@ export default function App() {
       {tab === 'rank' && <LeaderboardScreen onLogin={openAuth} />}
       {tab === 'profile' && <ProfileScreen onLogin={openAuth} onAdmin={openAdmin} />}
       {!(tab === 'friends' && chatOpen) && <Footer className="pb-24" />}
+      {!(tab === 'friends' && chatOpen) && <ScrollButtons />}
       {!(tab === 'friends' && chatOpen) && <BottomNav tab={tab} onChange={changeTab} badge={Math.min(dueCount(p), 10)} friendsBadge={acc.user ? socialBadge(social) : 0} />}
     </div>
   );
