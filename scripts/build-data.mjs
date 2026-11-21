@@ -71,6 +71,8 @@ const ref = JSON.parse(read('scripts/ref/hsk-old.json'));
 Object.assign(ref, JSON.parse(read('scripts/ref/hsk7.json')));
 // HSK 8: the next 1,800 words by frequency from the same list
 Object.assign(ref, JSON.parse(read('scripts/ref/hsk8.json')));
+// HSK 9: the remaining 450 words of the list
+Object.assign(ref, JSON.parse(read('scripts/ref/hsk9.json')));
 const TONES = { a: 'āáǎà', e: 'ēéěè', i: 'īíǐì', o: 'ōóǒò', u: 'ūúǔù', ü: 'ǖǘǚǜ' };
 const toneOf = (syl) => {
   for (const ch of syl.toLowerCase()) for (const m of Object.values(TONES)) if (m.includes(ch)) return m.indexOf(ch) + 1;

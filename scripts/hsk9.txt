@@ -1,0 +1,531 @@
+# HSK 9 (chuẩn HSK 3.0, danh sách từ cấp 7–9: nhóm từ còn lại; các từ đã học ở cấp dưới không lặp lại).
+# TỆP TỰ SINH từ scripts/src/hsk9/*.txt bằng scripts/group-level.mjs — hãy sửa ở tệp nguồn.
+
+%101|9|Phần 1: HSK 9 – chặng 1|12 bài · 138 từ|leaf
+@h9-01|Con người và xã hội 1|Con người, nghề nghiệp, quan hệ|义
+义工|tình nguyện viên; việc tình nguyện|周末/她/常/去/医院/做/义工/。|Cuối tuần cô ấy thường đến bệnh viện làm tình nguyện viên.
+官吏|quan lại|古代/的/官吏/要/通过/考试/选拔/。|Quan lại thời xưa phải được tuyển chọn qua thi cử.
+千家万户|muôn nhà, mọi gia đình|互联网/已经/走/进/了/千家万户/。|Internet đã đi vào mọi gia đình.
+师长|thầy cô, bậc thầy; sư đoàn trưởng|我们/应该/尊敬/师长/。|Chúng ta nên kính trọng thầy cô.
+家家户户|nhà nhà, mọi nhà|春节/时/，/家家户户/都/贴/春联/。|Dịp Tết, nhà nhà đều dán câu đối xuân.
+同人|đồng nghiệp, người cùng nghề|公司/全体/同人/向/您/表示/感谢/。|Toàn thể đồng nghiệp trong công ty xin cảm ơn ông.
+带头人|người dẫn đầu, người tiên phong|他/是/村/里/致富/的/带头人/。|Anh ấy là người dẫn đầu làm giàu trong làng.
+学子|học trò, sinh viên|每/年/有/无数/学子/参加/高考/。|Mỗi năm có vô số học trò dự kỳ thi đại học.
+半边天|nửa bầu trời; phụ nữ|妇女/能/顶/半边天/。|Phụ nữ có thể gánh vác nửa bầu trời.
+
+@h9-02|Đời sống hằng ngày 1|Đồ vật, ăn mặc, sức khỏe, mua sắm|防
+防盗门|cửa chống trộm|我们/家/新/装/了/一/扇/防盗门/。|Nhà chúng tôi mới lắp một cánh cửa chống trộm.
+借条|giấy vay nợ|借/钱/的/时候/最好/写/一/张/借条/。|Khi vay tiền tốt nhất nên viết một tờ giấy vay nợ.
+洗涤剂|chất tẩy rửa|这/种=zhǒng/洗涤剂/对/皮肤/没有/伤害/。|Loại chất tẩy rửa này không gây hại cho da.
+偏方|bài thuốc dân gian|奶奶/用/一/个/偏方/治/好/了/我/的/咳嗽/。|Bà dùng một bài thuốc dân gian chữa khỏi ho cho tôi.
+龙舟|thuyền rồng|端午节/有/赛/龙舟/的/传统/。|Tết Đoan ngọ có truyền thống đua thuyền rồng.
+化纤|sợi hóa học|这/件/衣服/是/化纤/做/的/。|Chiếc áo này làm bằng sợi hóa học.
+欠条|giấy nợ|他/给/我/写/了/一/张/欠条/。|Anh ấy viết cho tôi một tờ giấy nợ.
+水货|hàng xách tay, hàng lậu; hàng kém|这/部/手机/是/水货/，/没有/保修/。|Chiếc điện thoại này là hàng xách tay, không có bảo hành.
+磁卡|thẻ từ|进/大楼/需要/刷/磁卡/。|Vào tòa nhà cần quẹt thẻ từ.
+锦旗|cờ lụa (tặng thưởng, cảm ơn)|病人/给/医生/送/了/一/面/锦旗/。|Bệnh nhân tặng bác sĩ một lá cờ lụa cảm ơn.
+衣食住行|ăn mặc ở đi lại|衣食住行/是/人们/最/基本/的/需要/。|Ăn mặc ở đi lại là nhu cầu cơ bản nhất của con người.
+
+@h9-03|Học tập và công việc 1|Trường lớp, công sở, truyền thông|备
+备课|soạn bài, chuẩn bị bài giảng|王/老师/每天/晚上/都/要/备课/。|Thầy Vương tối nào cũng phải soạn bài.
+小曲|khúc hát dân gian, điệu hát nhỏ|奶奶/一边/做饭/一边/哼/着/小曲/。|Bà vừa nấu cơm vừa ngân nga điệu hát.
+物流|logistics, hậu cần vận chuyển|这/家/公司/的/物流/速度/很/快/。|Tốc độ vận chuyển của công ty này rất nhanh.
+秧歌|điệu múa ương ca (dân gian miền Bắc Trung Quốc)|广场/上/有/很/多/老人/在/扭/秧歌/。|Trên quảng trường có nhiều cụ già đang múa ương ca.
+公开信|thư ngỏ|他/在/报纸/上/发表/了/一/封/公开信/。|Ông ấy đăng một bức thư ngỏ trên báo.
+高新技术|công nghệ cao|这/个/地区/有/很/多/高新技术/企业/。|Khu vực này có nhiều doanh nghiệp công nghệ cao.
+讲学|giảng dạy, thuyết giảng học thuật|李/教授/应邀/去/国外/讲学/。|Giáo sư Lý được mời ra nước ngoài giảng dạy.
+贺电|điện mừng|总统/向/获奖/的/运动员/发/了/贺电/。|Tổng thống gửi điện mừng tới vận động viên đoạt giải.
+错别字|chữ viết sai, chữ dùng nhầm|你/的/作文/里/有/几/个/错别字/。|Trong bài văn của em có vài chữ viết sai.
+工科|ngành kỹ thuật|他/是/工科/大学/的/学生/。|Anh ấy là sinh viên trường đại học kỹ thuật.
+活期|(tiền gửi) không kỳ hạn|我/把/钱/存/在/活期/账户/里/。|Tôi gửi tiền vào tài khoản không kỳ hạn.
+
+@h9-04|Cảm xúc và tính cách 1|Tâm trạng, thái độ, phẩm chất|心
+心急如焚|lòng nóng như lửa đốt|孩子/不见/了/，/她/心急如焚/。|Đứa trẻ biến mất, cô ấy lòng nóng như lửa đốt.
+怜惜|thương xót, thương tiếc|她/很/怜惜/这/只=zhī/受伤/的/小/猫/。|Cô ấy rất thương chú mèo con bị thương này.
+豁达|khoáng đạt, rộng rãi|爷爷/性格/豁达/，/从/不/生气/。|Ông nội tính tình khoáng đạt, không bao giờ giận.
+烦闷|buồn bực, phiền muộn|下雨天/让/人/感到/烦闷/。|Ngày mưa khiến người ta thấy buồn bực.
+依依不舍|lưu luyến không nỡ rời|毕业/那/天/，/同学/们/依依不舍/地=de/告别/。|Ngày tốt nghiệp, các bạn học lưu luyến chia tay.
+害臊|xấu hổ, ngượng|在/大家/面前/唱歌/，/他/有点儿/害臊/。|Hát trước mặt mọi người, cậu ấy hơi ngượng.
+红眼|đỏ mắt (tức giận hoặc ghen tị)|看到/别人/赚钱/，/他/就/红眼/。|Thấy người khác kiếm được tiền là anh ta ghen tị.
+多心|đa nghi, nghĩ ngợi nhiều|我/只=zhǐ/是/开/个/玩笑/，/你/别/多心/。|Tôi chỉ đùa thôi, bạn đừng nghĩ ngợi.
+愁眉苦脸|mặt mày ủ rũ|你/怎么/整天/愁眉苦脸/的/？|Sao cả ngày bạn mặt mày ủ rũ thế?
+粗心大意|cẩu thả, sơ ý|考试/时/千万/不/要/粗心大意/。|Khi thi nhất định đừng cẩu thả.
+垂头丧气|ủ rũ, cụp đầu chán nản|输/了/比赛/，/队员/们/垂头丧气/。|Thua trận, các cầu thủ ủ rũ chán nản.
+
+@h9-05|Hành động 1|Động từ thường dùng|回
+回落|giảm trở lại, hạ xuống|最近/油价/开始/回落/了/。|Gần đây giá xăng dầu bắt đầu giảm trở lại.
+灵机一动=língjīyídòng|chợt nảy ra ý hay|他/灵机一动/，/想/出/了/一/个/好/办法/。|Anh ấy chợt nảy ra ý hay, nghĩ được một cách tốt.
+踏上|đặt chân lên, bước lên|他/第一/次/踏上/了/这/片/土地/。|Lần đầu tiên anh ấy đặt chân lên mảnh đất này.
+不利于|bất lợi cho, không có lợi cho|熬夜/不利于/身体/健康/。|Thức khuya không có lợi cho sức khỏe.
+稍候|chờ một lát|请/您/稍候/，/经理/马上/就/来/。|Xin ông chờ một lát, giám đốc sẽ đến ngay.
+蕴涵|hàm chứa, bao hàm|这/句/话/蕴涵/着/深刻/的/道理/。|Câu nói này hàm chứa đạo lý sâu sắc.
+出难题|ra bài toán khó, làm khó|你/这/是/在/给/我/出难题/啊/。|Anh đang làm khó tôi đấy.
+亡羊补牢|mất bò mới lo làm chuồng (sửa sai vẫn chưa muộn)|现在/改正/还/来得及/，/亡羊补牢/嘛/。|Bây giờ sửa vẫn còn kịp, mất bò mới lo làm chuồng mà.
+哺育|nuôi nấng, nuôi dưỡng|母亲/辛苦/地=de/哺育/了/我们/。|Mẹ đã vất vả nuôi nấng chúng tôi.
+走后门|đi cửa sau, nhờ quan hệ|他/不/愿意/靠/走后门/找/工作/。|Anh ấy không muốn dựa vào cửa sau để xin việc.
+守株待兔|ôm cây đợi thỏ (há miệng chờ sung)|机会/要/自己/找/，/不/能/守株待兔/。|Cơ hội phải tự tìm, không thể ôm cây đợi thỏ.
+改为|đổi thành, chuyển thành|会议/时间/改为/下午/三/点/。|Giờ họp đổi thành ba giờ chiều.
+
+@h9-06|Miêu tả 1|Tính chất, trạng thái|此
+此起彼伏|nối tiếp nhau, hết đợt này đến đợt khác|会场/里/掌声/此起彼伏/。|Trong hội trường tiếng vỗ tay vang lên hết đợt này đến đợt khác.
+宽泛|rộng, bao quát|这/个/概念/太/宽泛/了/。|Khái niệm này quá rộng.
+划时代|mang tính thời đại, mở ra kỷ nguyên|这/是/一/项/划时代/的/发明/。|Đây là một phát minh mang tính thời đại.
+驰名|nổi tiếng, lừng danh|这/种=zhǒng/茶/驰名/中外/。|Loại trà này nổi tiếng trong và ngoài nước.
+因人而异|tùy từng người mà khác nhau|学习/方法/因人而异/。|Phương pháp học tập tùy từng người mà khác nhau.
+不约而同|không hẹn mà cùng|大家/不约而同/地=de/笑/了/起来/。|Mọi người không hẹn mà cùng bật cười.
+古朴|cổ kính, mộc mạc|这/座/小/镇/的/建筑/很/古朴/。|Kiến trúc của thị trấn nhỏ này rất cổ kính.
+惨白|trắng bệch, tái nhợt|听到/消息/，/他/的/脸色/变/得=de/惨白/。|Nghe tin, sắc mặt anh ấy trở nên trắng bệch.
+碧绿|xanh biếc|湖水/碧绿/，/像/一/块/玉/。|Nước hồ xanh biếc như một miếng ngọc.
+哗然|xôn xao, ồn ào phản đối|消息/一/公布/，/舆论/哗然/。|Tin vừa công bố, dư luận xôn xao.
+忙乱|bận rối, tất bật lộn xộn|搬家/那/几/天/，/家里/一/片/忙乱/。|Mấy ngày chuyển nhà, trong nhà rối tung tất bật.
+美中不足|điều chưa trọn vẹn trong cái đẹp, hơi đáng tiếc|旅行/很/愉快/，/美中不足/的/是/天气/不/好/。|Chuyến đi rất vui, chỉ tiếc là thời tiết không đẹp.
+
+@h9-07|Thiên nhiên và nơi chốn 1|Địa điểm, động thực vật, thời tiết|汪
+汪洋|biển cả mênh mông|大雨/过后/，/田野/成/了/一/片/汪洋/。|Sau trận mưa lớn, cánh đồng thành một biển nước mênh mông.
+旱灾|hạn hán|今年/北方/发生/了/严重/的/旱灾/。|Năm nay miền Bắc xảy ra hạn hán nghiêm trọng.
+清明=qīngmíng|tiết Thanh minh; trong sáng|清明/的/时候/，/人们/去/扫墓/。|Vào tiết Thanh minh, mọi người đi tảo mộ.
+风沙|gió cát|春天/这里/的/风沙/很/大/。|Mùa xuân ở đây gió cát rất lớn.
+荷花|hoa sen|夏天/，/池塘/里/开/满/了/荷花/。|Mùa hè, trong ao nở đầy hoa sen.
+沿线|dọc tuyến (đường)|铁路/沿线/的/风景/很/美/。|Phong cảnh dọc tuyến đường sắt rất đẹp.
+树梢|ngọn cây|一/只=zhī/小/鸟/停/在/树梢/上/。|Một chú chim nhỏ đậu trên ngọn cây.
+矿藏|khoáng sản, mỏ khoáng|这/个/地区/矿藏/丰富/。|Khu vực này giàu khoáng sản.
+旋涡|xoáy nước, vòng xoáy|河/中间/有/一/个/很/大/的/旋涡/。|Giữa sông có một xoáy nước rất lớn.
+柏树|cây bách|公园/里/种=zhòng/着/很/多/柏树/。|Trong công viên trồng rất nhiều cây bách.
+
+@h9-08|Khái niệm 1|Danh từ trừu tượng|常
+常温|nhiệt độ thường|这/种=zhǒng/牛奶/可以/在/常温/下/保存/。|Loại sữa này có thể bảo quản ở nhiệt độ thường.
+纵深|chiều sâu|改革/正在/向/纵深/发展/。|Cải cách đang phát triển theo chiều sâu.
+月初|đầu tháng|公司/每/个/月初/发/工资/。|Công ty phát lương vào đầu mỗi tháng.
+底蕴|bề dày (văn hóa), nội tình|这/座/城市/有/深厚/的/文化/底蕴/。|Thành phố này có bề dày văn hóa sâu sắc.
+可乘之机|cơ hội để lợi dụng, sơ hở|我们/不/能/给/骗子/可乘之机/。|Chúng ta không thể để kẻ lừa đảo có cơ hội lợi dụng.
+硕果|thành quả lớn|多/年/的/研究/终于/结/出/了/硕果/。|Nhiều năm nghiên cứu cuối cùng đã cho thành quả lớn.
+瑰宝|báu vật, của quý|京剧/是/中国/文化/的/瑰宝/。|Kinh kịch là báu vật của văn hóa Trung Quốc.
+一技之长|có một nghề trong tay, sở trường|年轻人/应该/学/会/一技之长/。|Người trẻ nên học lấy một nghề trong tay.
+一言一行=yìyányìxíng|mỗi lời nói việc làm|父母/的/一言一行/都/影响/着/孩子/。|Mỗi lời nói việc làm của cha mẹ đều ảnh hưởng đến con cái.
+浮力|lực nổi, sức đẩy của nước|船/靠/水/的/浮力/浮/在/水面/上/。|Thuyền nhờ lực nổi của nước mà nổi trên mặt nước.
+能耗|mức tiêu hao năng lượng|新/机器/的/能耗/比较/低/。|Mức tiêu hao năng lượng của máy mới khá thấp.
+脉络|mạch lạc; mạch máu|这/篇/文章/的/脉络/很/清楚/。|Mạch lạc của bài văn này rất rõ ràng.
+定心丸|liều thuốc an thần, điều làm yên lòng|经理/的/话/让/大家/吃/了/定心丸/。|Lời của giám đốc khiến mọi người yên lòng.
+
+@h9-09|Từ nối và hư từ 1|Phó từ, liên từ, giới từ, lượng từ|按
+按说|lẽ ra, theo lý mà nói|按说/他/早/该/到/了/。|Lẽ ra anh ấy phải đến từ lâu rồi.
+骤然|đột nhiên, bất chợt|气温/骤然/下降/了/十/度/。|Nhiệt độ đột nhiên giảm mười độ.
+一个劲儿=yígèjìnr|liên tục, không ngừng|孩子/一个劲儿/地=de/哭/，/怎么/哄/也/不/行/。|Đứa bé khóc không ngừng, dỗ thế nào cũng không được.
+立方米|mét khối|这/个/水池/能/装/五十/立方米/水/。|Bể nước này chứa được năm mươi mét khối nước.
+由此可见|từ đó có thể thấy|由此可见/，/教育/非常/重要/。|Từ đó có thể thấy, giáo dục vô cùng quan trọng.
+综上所述|tóm lại, tổng hợp những điều trên|综上所述/，/这/个/计划/是/可行/的/。|Tóm lại, kế hoạch này là khả thi.
+一年到头|quanh năm suốt tháng|他/一年到头/都/在/外地/工作/。|Anh ấy quanh năm làm việc ở nơi khác.
+人次|lượt người|去年/这/个/博物馆/接待/了/一百万/人次/。|Năm ngoái bảo tàng này đón một triệu lượt người.
+改日|hôm khác|今天/太/晚/了/，/改日/再/聊/吧/。|Hôm nay muộn quá rồi, hôm khác nói chuyện tiếp nhé.
+譬如说|ví dụ như|我/喜欢/运动/，/譬如说/游泳/和/跑步/。|Tôi thích thể thao, ví dụ như bơi và chạy bộ.
+无形中|một cách vô hình, vô tình|手机/无形中/改变/了/我们/的/生活/。|Điện thoại đã vô hình trung thay đổi cuộc sống của chúng ta.
+三番五次|năm lần bảy lượt|我/三番五次/地=de/提醒/他/，/他/还是/忘/了/。|Tôi năm lần bảy lượt nhắc anh ấy mà anh ấy vẫn quên.
+
+@h9-10|Hành động 2|Động từ thường dùng|落
+落户|định cư, nhập hộ khẩu|他/一家/在/上海/落户/了/。|Cả nhà anh ấy đã định cư ở Thượng Hải.
+不辞而别|bỏ đi không lời từ biệt|他/昨天/不辞而别/，/谁/也/不/知道/原因/。|Hôm qua anh ấy bỏ đi không lời từ biệt, không ai biết lý do.
+见外|khách sáo, coi như người ngoài|都/是/老/朋友/，/你/别/见外/。|Đều là bạn cũ cả, anh đừng khách sáo.
+朝夕相处=zhāoxīxiāngchǔ|sớm tối bên nhau|我们/朝夕相处/了/四/年/，/感情/很/深/。|Chúng tôi sớm tối bên nhau bốn năm, tình cảm rất sâu đậm.
+碍事|vướng víu, cản trở; nghiêm trọng|把/箱子/放/在/这里/太/碍事/了/。|Để cái hòm ở đây vướng quá.
+萌发|nảy mầm; nảy sinh|春天/来/了/，/种子=zhǒngzi/开始/萌发/。|Mùa xuân đến, hạt giống bắt đầu nảy mầm.
+学艺|học nghề, học nghệ thuật|他/从小/跟/着/师傅/学艺/。|Từ nhỏ anh ấy đã theo thầy học nghề.
+增收|tăng thu nhập|新/技术/帮助/农民/增收/。|Kỹ thuật mới giúp nông dân tăng thu nhập.
+一鼓作气|làm một mạch, thừa thắng xông lên|我们/一鼓作气/爬/到/了/山顶/。|Chúng tôi leo một mạch lên tới đỉnh núi.
+挂失|báo mất (thẻ, giấy tờ)|银行卡/丢/了/要/马上/挂失/。|Mất thẻ ngân hàng phải báo mất ngay.
+畏缩|rụt rè, co rúm lại vì sợ|面对/困难/，/他/从/不/畏缩/。|Đối mặt với khó khăn, anh ấy không bao giờ chùn bước.
+争分夺秒|tranh thủ từng phút từng giây|医生/们/争分夺秒/地=de/抢救/病人/。|Các bác sĩ tranh thủ từng giây cấp cứu bệnh nhân.
+
+@h9-11|Miêu tả 2|Tính chất, trạng thái|不
+不假思索|không cần suy nghĩ, ngay lập tức|他/不假思索/地=de/回答/了/问题/。|Anh ấy trả lời câu hỏi mà không cần suy nghĩ.
+前无古人|xưa nay chưa từng có|这/是/一/项/前无古人/的/事业/。|Đây là một sự nghiệp xưa nay chưa từng có.
+僻静|vắng vẻ, yên tĩnh|他/住/在/一/条/僻静/的/小/街/上/。|Anh ấy sống trên một con phố nhỏ vắng vẻ.
+风和日丽|trời quang gió nhẹ, nắng đẹp|今天/风和日丽/，/适合/去/郊游/。|Hôm nay trời đẹp gió nhẹ, thích hợp đi dã ngoại.
+大有可为|rất có triển vọng|在/农村/，/年轻人/大有可为/。|Ở nông thôn, người trẻ rất có triển vọng.
+杂乱无章|lộn xộn, không có trật tự|他/的/房间/杂乱无章/。|Phòng của anh ấy lộn xộn không có trật tự.
+俊俏|xinh xắn, khôi ngô|这/个/姑娘/长=zhǎng/得=de/很/俊俏/。|Cô gái này trông rất xinh xắn.
+扣人心弦|hồi hộp, lay động lòng người|这/场=chǎng/比赛/扣人心弦/。|Trận đấu này thật hồi hộp nghẹt thở.
+千钧一发=qiānjūnyífà|ngàn cân treo sợi tóc|在/千钧一发/的/时刻/，/警察/赶到/了/。|Trong giây phút ngàn cân treo sợi tóc, cảnh sát đã kịp đến.
+千变万化|thiên biến vạn hóa|山/里/的/天气/千变万化/。|Thời tiết trong núi thiên biến vạn hóa.
+洪亮|vang, sang sảng|他/的/声音/很/洪亮/。|Giọng anh ấy rất vang.
+峰回路转|núi vòng đường uốn; tình thế xoay chuyển|事情/峰回路转/，/出现/了/新/的/希望/。|Sự việc xoay chuyển, xuất hiện hy vọng mới.
+
+@h9-12|Hành động 3|Động từ thường dùng|壮
+壮胆|lấy can đảm, thêm gan|他/大声/唱歌/给/自己/壮胆/。|Anh ấy hát thật to để lấy can đảm.
+世袭|cha truyền con nối, thế tập|古代/的/王位/是/世袭/的/。|Ngôi vua thời xưa là cha truyền con nối.
+珍重|giữ gìn, trân trọng|天气/冷/了/，/请/多/珍重/。|Trời lạnh rồi, xin hãy giữ gìn sức khỏe.
+夸夸其谈|nói khoác, ba hoa|他/只=zhǐ/会/夸夸其谈/，/不/做/实事/。|Anh ta chỉ biết ba hoa, không làm việc thực tế.
+下乡|về nông thôn|医生/们/定期/下乡/给/农民/看病/。|Các bác sĩ định kỳ về nông thôn khám bệnh cho nông dân.
+弘扬|phát huy, đề cao|我们/要/弘扬/优秀/的/传统/文化/。|Chúng ta cần phát huy văn hóa truyền thống tốt đẹp.
+化险为夷|chuyển nguy thành an|司机/反应/很/快/，/终于/化险为夷/。|Tài xế phản ứng rất nhanh, cuối cùng chuyển nguy thành an.
+走过场|làm cho có lệ, làm chiếu lệ|这/次/检查/不/能/走过场/。|Lần kiểm tra này không thể làm chiếu lệ.
+酌情|xem xét tình hình mà xử lý|具体/怎么/办/，/你/可以/酌情/处理/。|Cụ thể làm thế nào, anh có thể tùy tình hình mà xử lý.
+搞鬼|giở trò, làm trò ma mãnh|我/怀疑/有/人/在/背后/搞鬼/。|Tôi nghi có người giở trò sau lưng.
+说不上=shuōbushàng|không nói rõ được; chưa thể gọi là|我/说不上/他/到底/哪里/不/对/。|Tôi không nói rõ được rốt cuộc anh ấy sai ở đâu.
+同舟共济|cùng hội cùng thuyền, đồng lòng vượt khó|困难/面前/，/我们/要/同舟共济/。|Trước khó khăn, chúng ta phải đồng lòng cùng vượt qua.
+自强不息|tự cường không ngừng|他/身体/残疾/，/却/自强不息/。|Anh ấy khuyết tật nhưng vẫn không ngừng tự vươn lên.
+
+%102|9|Phần 2: HSK 9 – chặng 2|13 bài · 152 từ|sky
+@h9-13|Cảm xúc và tính cách 2|Tâm trạng, thái độ, phẩm chất|刚
+刚毅|cương nghị|他/的/脸/上/带/着/刚毅/的/表情/。|Trên mặt anh ấy mang vẻ cương nghị.
+光明磊落|quang minh chính đại|他/做事/一向/光明磊落/。|Anh ấy làm việc xưa nay luôn quang minh chính đại.
+诚心诚意|thành tâm thành ý|他/诚心诚意/地=de/向/我/道歉/。|Anh ấy thành tâm thành ý xin lỗi tôi.
+大大咧咧|xuề xòa, vô tư|她/性格/大大咧咧/，/常常/忘/带/钥匙/。|Cô ấy tính xuề xòa, thường quên mang chìa khóa.
+喜洋洋|hớn hở, vui tươi|过年/了/，/人人/脸/上/喜洋洋/。|Tết đến, ai nấy mặt mày hớn hở.
+漠然|thờ ơ, lãnh đạm|他/对/别人/的/痛苦/很/漠然/。|Anh ta rất thờ ơ với nỗi đau của người khác.
+足智多谋|túc trí đa mưu, lắm mưu nhiều kế|诸葛亮/是/一/个/足智多谋/的/人/。|Gia Cát Lượng là người túc trí đa mưu.
+犯愁|lo lắng, phát rầu|他/正/为=wèi/孩子/的/学费/犯愁/。|Anh ấy đang phát rầu vì học phí của con.
+侠义|nghĩa hiệp|他/是/一/个/有/侠义/精神/的/人/。|Anh ấy là người có tinh thần nghĩa hiệp.
+半信半疑|bán tín bán nghi, nửa tin nửa ngờ|听/了/他/的/话/，/我/半信半疑/。|Nghe lời anh ấy, tôi nửa tin nửa ngờ.
+恋恋不舍|quyến luyến không nỡ rời|孩子/们/恋恋不舍/地=de/离开/了/动物园/。|Bọn trẻ quyến luyến rời khỏi vườn thú.
+
+@h9-14|Hành động 4|Động từ thường dùng|堆
+堆砌|xếp chồng; chồng chất (chữ nghĩa)|写/文章/不/要/堆砌/漂亮/的/词语/。|Viết văn đừng chồng chất những từ ngữ hoa mỹ.
+说情|nói giúp, xin hộ|他/犯/了/错/，/谁/来/说情/都/没/用/。|Anh ta phạm lỗi, ai đến xin hộ cũng vô ích.
+耻笑|chê cười, chế giễu|不/要/耻笑/别人/的/缺点/。|Đừng chê cười khuyết điểm của người khác.
+跑龙套|đóng vai phụ, làm chân chạy việc|他/在/剧团/里/跑龙套/跑/了/十/年/。|Anh ấy đóng vai phụ trong đoàn kịch suốt mười năm.
+长达=chángdá|dài tới, kéo dài đến|会议/长达/五/个/小时/。|Cuộc họp kéo dài tới năm tiếng.
+嬉笑|cười đùa|孩子/们/在/院子/里/嬉笑/打闹/。|Bọn trẻ cười đùa nghịch ngợm trong sân.
+提速|tăng tốc|这/条/铁路/下/个/月/开始/提速/。|Tuyến đường sắt này tháng sau bắt đầu tăng tốc.
+求医|tìm thầy chữa bệnh|他/带/着/父亲/四处/求医/。|Anh ấy đưa cha đi khắp nơi tìm thầy chữa bệnh.
+改邪归正|cải tà quy chính|出狱/以后/，/他/决心/改邪归正/。|Sau khi ra tù, anh ta quyết tâm cải tà quy chính.
+敬而远之|kính nhi viễn chi, kính trọng nhưng giữ khoảng cách|他/脾气/太/坏/，/大家/都/敬而远之/。|Anh ta tính quá xấu, mọi người đều kính nhi viễn chi.
+泼冷水|dội gáo nước lạnh, làm cụt hứng|我/刚/有/个/想法/，/他/就/泼冷水/。|Tôi vừa có ý tưởng, anh ấy đã dội gáo nước lạnh.
+沏|pha (trà)|我/给/您/沏/一/杯/热/茶/。|Tôi pha cho ông một tách trà nóng.
+
+@h9-15|Miêu tả 3|Tính chất, trạng thái|鹤
+鹤立鸡群|hạc giữa bầy gà, nổi bật hơn người|他/个子/很/高/，/在/人群/中/鹤立鸡群/。|Anh ấy rất cao, nổi bật giữa đám đông như hạc giữa bầy gà.
+工整|ngay ngắn, cẩn thận|她/的/字/写/得=de/很/工整/。|Chữ cô ấy viết rất ngay ngắn.
+变幻莫测|biến ảo khôn lường|海/上/的/天气/变幻莫测/。|Thời tiết trên biển biến ảo khôn lường.
+火暴|nóng nảy; sôi động, đắt khách|这/家/饭馆/的/生意/很/火暴/。|Quán ăn này làm ăn rất đắt khách.
+沉甸甸|nặng trĩu|他/提/着/一/个/沉甸甸/的/箱子/。|Anh ấy xách một cái hòm nặng trĩu.
+似是而非|tưởng đúng mà sai|这/种=zhǒng/说法/似是而非/，/不/能/相信/。|Cách nói này tưởng đúng mà sai, không thể tin.
+多边|đa phương|两/国/支持/多边/贸易/。|Hai nước ủng hộ thương mại đa phương.
+不亚于|không kém, không thua|他/的/汉语/水平/不亚于/中国/人/。|Trình độ tiếng Trung của anh ấy không kém người Trung Quốc.
+醇厚|đậm đà; thuần hậu|这/种=zhǒng/酒/味道/醇厚/。|Loại rượu này vị đậm đà.
+丰硕|dồi dào, to lớn (thành quả)|我们/的/合作/取得/了/丰硕/的/成果/。|Sự hợp tác của chúng ta đạt được thành quả to lớn.
+临街|giáp mặt phố|他们/租/了/一/间/临街/的/房子/开/店/。|Họ thuê một căn nhà mặt phố để mở cửa hàng.
+头头是道|rành mạch, đâu ra đấy|他/讲/起/历史/来/头头是道/。|Anh ấy nói về lịch sử rành mạch đâu ra đấy.
+壮实|khỏe mạnh, rắn chắc|这/个/小伙子/长=zhǎng/得=de/很/壮实/。|Chàng trai này trông rất rắn chắc.
+
+@h9-16|Đời sống hằng ngày 2|Đồ vật, ăn mặc, sức khỏe, mua sắm|车
+车轴|trục xe|这/辆/车/的/车轴/坏/了/。|Trục của chiếc xe này hỏng rồi.
+渣子|cặn, bã, vụn|桌子/上/有/很/多/面包/渣子/。|Trên bàn có rất nhiều vụn bánh mì.
+喜酒|rượu mừng, tiệc cưới|下/个/月/请/你/喝/我/的/喜酒/。|Tháng sau mời bạn đến uống rượu mừng của tôi.
+私房钱|quỹ đen, tiền riêng|他/偷偷/存/了/一点儿/私房钱/。|Anh ấy lén để dành một ít quỹ đen.
+杠铃|tạ đòn|他/每天/举/杠铃/锻炼/身体/。|Ngày nào anh ấy cũng nâng tạ đòn để rèn luyện thân thể.
+卡子=qiǎzi|cái kẹp; trạm kiểm soát|她/用/卡子/把/头发/夹/了/起来/。|Cô ấy dùng kẹp để kẹp tóc lên.
+汤圆|bánh trôi nước|元宵节/要/吃/汤圆/。|Tết Nguyên tiêu phải ăn bánh trôi.
+便饭=biànfàn|bữa cơm thường|晚上/来/我/家/吃/顿/便饭/吧/。|Tối nay đến nhà tôi ăn bữa cơm thường nhé.
+卤味|món kho ướp gia vị (đồ lỗ)|这/家/店/的/卤味/很/受/欢迎/。|Món kho ướp gia vị của quán này rất được ưa chuộng.
+拉锁|khóa kéo|我/外套/的/拉锁/坏/了/。|Khóa kéo áo khoác của tôi hỏng rồi.
+藤椅|ghế mây|爷爷/喜欢/坐/在/藤椅/上/看/报/。|Ông nội thích ngồi trên ghế mây đọc báo.
+
+@h9-17|Hành động 5|Động từ thường dùng|烘
+烘托|làm nổi bật, tôn lên|音乐/烘托/出/了/节日/的/气氛/。|Âm nhạc làm nổi bật không khí ngày lễ.
+强占|chiếm đoạt bằng vũ lực|他们/强占/了/农民/的/土地/。|Chúng đã cưỡng chiếm đất của nông dân.
+建交|thiết lập quan hệ ngoại giao|两/国/建交/已经/五十/年/了/。|Hai nước đã thiết lập quan hệ ngoại giao được năm mươi năm.
+分赃|chia của ăn cướp, chia chác|几/个/小偷/因为/分赃/不/均/吵/了/起来/。|Mấy tên trộm cãi nhau vì chia chác không đều.
+勤工俭学|vừa học vừa làm|他/靠/勤工俭学/读/完/了/大学/。|Anh ấy vừa học vừa làm để học xong đại học.
+打岔|ngắt lời, nói chen|我/说话/的/时候/，/请/别/打岔/。|Khi tôi nói, xin đừng ngắt lời.
+夺魁|giành ngôi đầu, đoạt chức vô địch|他/在/全国/比赛/中/夺魁/。|Anh ấy giành ngôi đầu trong cuộc thi toàn quốc.
+慰劳|úy lạo, thăm hỏi động viên|领导/到/工地/慰劳/工人/。|Lãnh đạo đến công trường úy lạo công nhân.
+俯首|cúi đầu|敌人/终于/俯首/认输/了/。|Kẻ địch cuối cùng đã cúi đầu chịu thua.
+讹诈|tống tiền, bắt chẹt|有/人/想/用/这/张/照片/讹诈/他/。|Có người muốn dùng tấm ảnh này để tống tiền anh ấy.
+无恶不作|không việc ác nào không làm|这/伙/强盗/无恶不作/。|Bọn cướp này không việc ác nào không làm.
+秉承|kế thừa, tuân theo|公司/秉承/诚信/的/原则/。|Công ty tuân theo nguyên tắc trung thực giữ chữ tín.
+顾全大局|lo cho đại cục|为了/顾全大局/，/他/放弃/了/自己/的/意见/。|Vì đại cục, anh ấy đã từ bỏ ý kiến của mình.
+
+@h9-18|Thiên nhiên và nơi chốn 2|Địa điểm, động thực vật, thời tiết|山
+山岭|dãy núi, núi non|这/条/公路/穿过/高高/的/山岭/。|Con đường này đi xuyên qua dãy núi cao.
+仙鹤|hạc tiên, sếu đầu đỏ|湖边/站/着/两/只=zhī/仙鹤/。|Bên hồ có hai con hạc đang đứng.
+戈壁|sa mạc Gobi, hoang mạc sỏi đá|火车/穿过/了/茫茫/的/戈壁/。|Tàu hỏa đi xuyên qua hoang mạc Gobi mênh mông.
+禾苗|mạ, cây lúa non|雨/后/，/田/里/的/禾苗/长=zhǎng/得=de/很/快/。|Sau mưa, mạ ngoài ruộng lớn rất nhanh.
+杨树|cây dương|路/两/边/种=zhòng/着/高/高/的/杨树/。|Hai bên đường trồng những cây dương cao.
+彩霞|ráng mây rực rỡ|傍晚/，/天/边/出现/了/美丽/的/彩霞/。|Chiều tối, phía chân trời xuất hiện ráng mây đẹp.
+暴风骤雨|mưa to gió lớn, bão táp|昨天/夜里/下/了/一/场=cháng/暴风骤雨/。|Đêm qua có một trận mưa to gió lớn.
+瑞雪|tuyết lành, tuyết báo điềm tốt|新年/的/第一/场=cháng/瑞雪/下/了/一/夜/。|Trận tuyết lành đầu tiên của năm mới rơi suốt một đêm.
+大雁|chim nhạn, ngỗng trời|秋天/，/大雁/往/南/飞/。|Mùa thu, chim nhạn bay về phương nam.
+海内外|trong và ngoài nước|这/位/作家/在/海内外/都/很/有名/。|Nhà văn này nổi tiếng cả trong và ngoài nước.
+
+@h9-19|Khái niệm 2|Danh từ trừu tượng|观
+观感|cảm tưởng, ấn tượng|请/谈/谈/你/对/这/座/城市/的/观感/。|Xin hãy nói về cảm tưởng của bạn đối với thành phố này.
+国徽=guóhuī|quốc huy|大门/上/挂/着/国徽/。|Trên cổng lớn treo quốc huy.
+上旬|thượng tuần, mười ngày đầu tháng|会议/安排/在/五月/上旬/。|Hội nghị được xếp vào thượng tuần tháng năm.
+兆头|điềm, điềm báo|一/大早/就/听到/喜鹊/叫/，/是/个/好/兆头/。|Sáng sớm đã nghe chim khách kêu, là một điềm lành.
+积淀|sự tích lũy, lắng đọng (văn hóa)|这里/有/几千/年/的/历史/积淀/。|Nơi đây có sự lắng đọng lịch sử mấy nghìn năm.
+经度|kinh độ|请/告诉/我/这/个/地方/的/经度/和/纬度/。|Xin cho tôi biết kinh độ và vĩ độ của nơi này.
+一锅粥|một nồi cháo; rối như canh hẹ|会场/里/乱/成/了/一锅粥/。|Trong hội trường rối như canh hẹ.
+廉政|chính quyền liêm khiết|政府/重视/廉政/建设/。|Chính phủ coi trọng việc xây dựng chính quyền liêm khiết.
+千军万马|thiên binh vạn mã|高考/就/像/千军万马/过/独木桥/。|Thi đại học giống như thiên binh vạn mã qua cầu độc mộc.
+客流|lượng khách, dòng khách|节日/期间/，/车站/的/客流/很/大/。|Trong dịp lễ, lượng khách ở nhà ga rất lớn.
+马后炮|nước đã đến chân mới nhảy, nói sau khi việc đã rồi|事情/都/过去/了/，/别/放/马后炮/了/。|Việc đã qua rồi, đừng nói chuyện đã rồi nữa.
+互信|tin cậy lẫn nhau|合作/的/基础/是/互信/。|Nền tảng của hợp tác là tin cậy lẫn nhau.
+干戈=gāngē|binh đao, chiến tranh|两/国/希望/不/再/动/干戈/。|Hai nước mong không còn động binh đao nữa.
+
+@h9-20|Hành động 6|Động từ thường dùng|钻
+钻空子=zuānkòngzi|lợi dụng sơ hở, lách luật|有些/人/专门/钻空子/逃税/。|Có những người chuyên lợi dụng sơ hở để trốn thuế.
+会意|hiểu ý; chữ hội ý|她/会意/地=de/点/了/点/头/。|Cô ấy gật đầu hiểu ý.
+说闲话|nói ra nói vào, ngồi lê đôi mách|不/要/在/背后/说闲话/。|Đừng nói ra nói vào sau lưng người khác.
+逞能|khoe tài, ra vẻ ta đây|你/不/会/游泳/就/别/逞能/。|Không biết bơi thì đừng ra vẻ ta đây.
+交头接耳|ghé tai thì thầm|考试/时/不/许/交头接耳/。|Khi thi không được ghé tai thì thầm.
+左顾右盼|nhìn ngang nhìn dọc|过/马路/时/要/左顾右盼/。|Khi qua đường phải nhìn ngang nhìn dọc.
+废寝忘食|quên ăn quên ngủ|他/废寝忘食/地=de/工作/。|Anh ấy làm việc quên ăn quên ngủ.
+任人宰割|mặc người xâu xé|我们/不/能/任人宰割/。|Chúng ta không thể mặc người xâu xé.
+捉迷藏|chơi trốn tìm|孩子/们/在/院子/里/捉迷藏/。|Bọn trẻ chơi trốn tìm trong sân.
+诀别|vĩnh biệt, từ biệt|他/和/家人/诀别/后/上/了/战场/。|Sau khi từ biệt gia đình, anh ấy ra chiến trường.
+对弈|đánh cờ với nhau|两/位/老人/在/树/下/对弈/。|Hai cụ già đánh cờ dưới gốc cây.
+哄堂大笑=hōngtángdàxiào|cả phòng cười ồ|他/的/话/引/得=de/大家/哄堂大笑/。|Lời anh ấy khiến cả phòng cười ồ.
+
+@h9-21|Miêu tả 4|Tính chất, trạng thái|水
+水涨船高|nước lên thuyền lên|房价/上涨/，/房租/也/水涨船高/。|Giá nhà tăng, tiền thuê nhà cũng nước lên thuyền lên.
+开天辟地|khai thiên lập địa, lần đầu tiên trong lịch sử|这/是/一/件/开天辟地/的/大事/。|Đây là một việc lớn chưa từng có từ khai thiên lập địa.
+远近闻名|nổi tiếng gần xa|这/家/饭馆/的/烤鸭/远近闻名/。|Vịt quay của quán này nổi tiếng gần xa.
+七嘴八舌|mỗi người một câu, nhao nhao|同学/们/七嘴八舌/地=de/讨论/起来/。|Các bạn học mỗi người một câu bắt đầu bàn luận.
+众志成城|đồng lòng thành sức mạnh|只要/我们/众志成城/，/就/能/战胜/困难/。|Chỉ cần chúng ta đồng lòng thì sẽ chiến thắng khó khăn.
+阔绰|xa hoa, hào phóng|他/花钱/很/阔绰/。|Anh ấy tiêu tiền rất hào phóng.
+有声有色|sinh động, hấp dẫn|他/把/故事/讲/得=de/有声有色/。|Anh ấy kể chuyện rất sinh động.
+门当户对|môn đăng hộ đối|父母/希望/她/找/个/门当户对/的/丈夫/。|Bố mẹ mong cô ấy tìm được người chồng môn đăng hộ đối.
+絮叨|lải nhải, nói dai|妈妈/又/开始/絮叨/了/。|Mẹ lại bắt đầu lải nhải rồi.
+鸦雀无声|im phăng phắc|老师/一/进来/，/教室/里/鸦雀无声/。|Thầy giáo vừa vào, lớp học im phăng phắc.
+可歌可泣|đáng ca ngợi, cảm động rơi lệ|他们/的/事迹/可歌可泣/。|Sự tích của họ thật đáng ca ngợi và cảm động.
+举世无双|có một không hai trên đời|这/座/宫殿/举世无双/。|Cung điện này có một không hai trên đời.
+
+@h9-22|Con người và xã hội 2|Con người, nghề nghiệp, quan hệ|农
+农民工|lao động nhập cư từ nông thôn|很/多/农民工/春节/前/回家/。|Nhiều lao động nhập cư từ nông thôn về quê trước Tết.
+祖籍|quê gốc, nguyên quán|他/的/祖籍/是/广东/。|Quê gốc của anh ấy là Quảng Đông.
+嫦娥|Hằng Nga|传说/嫦娥/住/在/月亮/上/。|Tương truyền Hằng Nga sống trên mặt trăng.
+栋梁|rường cột, trụ cột (nhân tài)|青年/是/国家/的/栋梁/。|Thanh niên là rường cột của đất nước.
+网民|cư dân mạng|这/条/新闻/引起/了/网民/的/关注/。|Tin này thu hút sự chú ý của cư dân mạng.
+小卒|lính quèn; con tốt (cờ)|我/只=zhǐ/是/个/无名/小卒/。|Tôi chỉ là một tên lính quèn vô danh.
+院士|viện sĩ|他/是/中国/科学院/的/院士/。|Ông ấy là viện sĩ Viện Khoa học Trung Quốc.
+老伴儿=lǎobànr|ông bạn già, bà bạn già (vợ/chồng lúc tuổi già)|他/每天/陪/老伴儿/去/公园/散步/。|Ngày nào ông ấy cũng cùng bà bạn già ra công viên đi dạo.
+大腕儿=dàwànr|ngôi sao lớn, nhân vật tên tuổi|这/部/电影/请/了/好/几/位/大腕儿/。|Bộ phim này mời mấy ngôi sao lớn.
+聋人|người khiếm thính|这/所/学校/专门/教/聋人/学生/。|Ngôi trường này chuyên dạy học sinh khiếm thính.
+
+@h9-23|Học tập và công việc 2|Trường lớp, công sở, truyền thông|师
+师资|đội ngũ giáo viên|这/所/学校/的/师资/力量/很/强/。|Đội ngũ giáo viên của trường này rất mạnh.
+国学|quốc học, Hán học cổ điển|他/对/国学/很/有/研究/。|Ông ấy nghiên cứu rất sâu về quốc học.
+茶道|trà đạo|她/在/日本/学/过/茶道/。|Cô ấy từng học trà đạo ở Nhật Bản.
+经贸|kinh tế thương mại|两/国/的/经贸/关系/越来越/密切/。|Quan hệ kinh tế thương mại hai nước ngày càng mật thiết.
+概论|khái luận, đại cương|这/学期/我/选/了/经济学/概论/。|Học kỳ này tôi chọn môn kinh tế học đại cương.
+印刷术|thuật in ấn|印刷术/是/中国/古代/的/四/大/发明/之一/。|Thuật in ấn là một trong bốn phát minh lớn của Trung Quốc cổ đại.
+贺信|thư chúc mừng|校长/收到/了/很/多/贺信/。|Hiệu trưởng nhận được rất nhiều thư chúc mừng.
+公函|công hàm, công văn|我们/收到/了/教育局/的/公函/。|Chúng tôi đã nhận được công văn của sở giáo dục.
+括弧|dấu ngoặc đơn|请/把/答案/写/在/括弧/里/。|Hãy viết đáp án vào trong ngoặc đơn.
+造纸术|thuật làm giấy|造纸术/后来/传/到/了/世界/各地/。|Thuật làm giấy về sau truyền đi khắp thế giới.
+大数据|dữ liệu lớn|公司/用/大数据/分析/顾客/的/需要/。|Công ty dùng dữ liệu lớn để phân tích nhu cầu khách hàng.
+点击率|tỷ lệ nhấp chuột, lượt xem|这/个/视频/的/点击率/很/高/。|Lượt xem của video này rất cao.
+
+@h9-24|Cảm xúc và tính cách 3|Tâm trạng, thái độ, phẩm chất|面
+面红耳赤|mặt đỏ tía tai|两/个/人/争/得=de/面红耳赤/。|Hai người cãi nhau đến mặt đỏ tía tai.
+盛气凌人=shèngqìlíngrén|hống hách, ra vẻ ta đây|他/说话/总是/盛气凌人/。|Anh ta nói chuyện lúc nào cũng hống hách.
+心灵手巧|khéo tay hay làm, thông minh khéo léo|她/心灵手巧/，/会/做/各种=gèzhǒng/手工/。|Cô ấy khéo tay, biết làm đủ loại đồ thủ công.
+爱面子|sĩ diện, giữ thể diện|他/很/爱面子/，/不/愿意/向/别人/借/钱/。|Anh ấy rất sĩ diện, không muốn vay tiền người khác.
+眉开眼笑|mặt mày hớn hở|听到/好/消息/，/奶奶/眉开眼笑/。|Nghe tin vui, bà mặt mày hớn hở.
+平常心|tâm thế bình thản|比赛/时/要/保持/一/颗/平常心/。|Khi thi đấu cần giữ tâm thế bình thản.
+大公无私|chí công vô tư|他/是/一/位/大公无私/的/法官/。|Ông ấy là một vị thẩm phán chí công vô tư.
+迷惑不解|khó hiểu, hoang mang|他/的/决定/让/大家/迷惑不解/。|Quyết định của anh ấy khiến mọi người khó hiểu.
+冷酷无情|lạnh lùng tàn nhẫn|他/是/个/冷酷无情/的/人/。|Hắn là kẻ lạnh lùng tàn nhẫn.
+怡然自得|ung dung tự tại, vui vẻ thỏa mãn|老人/坐/在/树/下/喝/茶/，/怡然自得/。|Ông cụ ngồi dưới gốc cây uống trà, ung dung tự tại.
+无情无义|vô tình vô nghĩa, bạc tình bạc nghĩa|你/怎么/能/这么/无情无义/？|Sao anh có thể bạc tình bạc nghĩa như vậy?
+
+@h9-25|Hành động 7|Động từ thường dùng|赐
+赐教|chỉ giáo|我/有/一/个/问题/，/请/您/赐教/。|Tôi có một câu hỏi, xin ông chỉ giáo.
+接济|giúp đỡ (tiền của), chu cấp|他/常常/接济/生活/困难/的/邻居/。|Anh ấy thường chu cấp cho hàng xóm khó khăn.
+吵嘴|cãi nhau|他们/夫妻/很/少/吵嘴/。|Vợ chồng họ rất ít khi cãi nhau.
+斩草除根|nhổ cỏ tận gốc|解决/这/个/问题/要/斩草除根/。|Giải quyết vấn đề này phải nhổ cỏ tận gốc.
+前赴后继|lớp trước ngã lớp sau tiến lên|无数/英雄/前赴后继/，/为=wèi/国家/奋斗/。|Vô số anh hùng lớp trước ngã lớp sau tiến lên, phấn đấu vì đất nước.
+画龙点睛|vẽ rồng điểm mắt, thêm nét then chốt|最后/这/句/话/起/到/了/画龙点睛/的/作用/。|Câu cuối cùng này có tác dụng như vẽ rồng điểm mắt.
+攻关|giải quyết khâu then chốt, công phá khó khăn|科学家/们/正在/进行/技术/攻关/。|Các nhà khoa học đang giải quyết khâu kỹ thuật then chốt.
+走弯路|đi đường vòng, mất công vô ích|有/老师/指导/，/可以/少/走弯路/。|Có thầy hướng dẫn thì đỡ phải đi đường vòng.
+发愣|ngẩn người, sững sờ|你/站/在/那儿/发愣/干=gàn/什么/？|Anh đứng ngẩn người ở đó làm gì?
+酣睡|ngủ say|孩子/在/妈妈/怀/里/酣睡/。|Đứa trẻ ngủ say trong lòng mẹ.
+一概而论|vơ đũa cả nắm|每/个/人/情况/不同/，/不/能/一概而论/。|Hoàn cảnh mỗi người khác nhau, không thể vơ đũa cả nắm.
+乔装|cải trang|警察/乔装/成/顾客/进/了/商店/。|Cảnh sát cải trang thành khách hàng vào cửa hàng.
+
+%103|9|Phần 3: HSK 9 – chặng 3|13 bài · 160 từ|grape
+@h9-26|Từ nối và hư từ 2|Phó từ, liên từ, giới từ, lượng từ|没
+没准儿=méizhǔnr|không chừng, biết đâu|没准儿/明天/会/下雨/。|Không chừng ngày mai trời sẽ mưa.
+由此看来|xem ra, từ đó mà xét|由此看来/，/他/说/的/是/真/的/。|Xem ra điều anh ấy nói là thật.
+别提了|thôi đừng nhắc nữa|别提了/，/我/今天/又/迟到/了/。|Thôi đừng nhắc nữa, hôm nay tôi lại đến muộn.
+从今以后|từ nay về sau|从今以后/，/我/要/每天/锻炼/身体/。|Từ nay về sau, tôi sẽ tập thể dục mỗi ngày.
+从早到晚|từ sáng đến tối|他/从早到晚/都/在/工作/。|Anh ấy làm việc từ sáng đến tối.
+极少数|số rất ít, thiểu số cực nhỏ|只=zhǐ/有/极少数/人/反对/这/个/计划/。|Chỉ có một số rất ít người phản đối kế hoạch này.
+哪知道|nào ngờ, ai ngờ|我/以为/他/会/同意/，/哪知道/他/拒绝/了/。|Tôi tưởng anh ấy sẽ đồng ý, nào ngờ anh ấy từ chối.
+如果说|nếu nói rằng|如果说/失败/是/老师/，/那/我/学/了/很/多/。|Nếu nói thất bại là thầy thì tôi đã học được rất nhiều.
+谁知道|ai mà biết, ai ngờ|谁知道/他/今天/会/不/会/来/呢/？|Ai mà biết hôm nay anh ấy có đến không?
+说老实话|nói thật lòng|说老实话/，/我/不/太/喜欢/这/个/地方/。|Nói thật lòng, tôi không thích nơi này lắm.
+说起来=shuōqǐlái|nói ra thì, nhắc đến thì|说起来/，/我们/已经/十/年/没/见面/了/。|Nói ra thì chúng ta đã mười năm không gặp nhau.
+说真的|nói thật|说真的/，/你/的/汉语/进步/很/大/。|Nói thật, tiếng Trung của bạn tiến bộ rất nhiều.
+
+@h9-27|Miêu tả 5|Tính chất, trạng thái|横
+横七竖八|ngổn ngang, lộn xộn|地/上/横七竖八/地=de/放/着/很/多/箱子/。|Trên sàn để ngổn ngang rất nhiều hòm.
+孤陋寡闻|hiểu biết nông cạn, quê mùa|我/孤陋寡闻/，/没/听/说/过/这/件/事/。|Tôi hiểu biết nông cạn, chưa từng nghe việc này.
+精练|cô đọng, súc tích|他/的/文章/语言/精练/。|Bài văn của anh ấy ngôn ngữ súc tích.
+见仁见智|mỗi người một ý|这/个/问题/见仁见智/，/没有/标准/答案/。|Vấn đề này mỗi người một ý, không có đáp án chuẩn.
+潦草|nguệch ngoạc, cẩu thả|他/的/字/太/潦草/，/我/看/不/清楚/。|Chữ anh ấy nguệch ngoạc quá, tôi nhìn không rõ.
+多元|đa nguyên, đa dạng|这/是/一/个/多元/文化/的/社会/。|Đây là một xã hội đa văn hóa.
+通顺|trôi chảy, mạch lạc|这/个/句子/不/太/通顺/。|Câu này không được trôi chảy lắm.
+纵横交错|đan xen ngang dọc, chằng chịt|城市/里/的/道路/纵横交错/。|Đường sá trong thành phố chằng chịt ngang dọc.
+绘声绘色|sinh động như thật|他/绘声绘色/地=de/讲/了/旅行/的/经历/。|Anh ấy kể lại chuyến đi một cách sinh động như thật.
+约定俗成|theo thói quen mà thành, ước định thành lệ|很/多/词语/的/用法/是/约定俗成/的/。|Cách dùng của nhiều từ ngữ là do thói quen mà thành.
+没说的|không chê vào đâu được; khỏi phải nói|他/的/技术/真/是/没说的/。|Tay nghề của anh ấy thật không chê vào đâu được.
+单边|đơn phương|我们/反对/任何/单边/行动/。|Chúng tôi phản đối mọi hành động đơn phương.
+抑扬顿挫|trầm bổng nhịp nhàng|她/读/课文/读/得=de/抑扬顿挫/。|Cô ấy đọc bài khóa trầm bổng nhịp nhàng.
+
+@h9-28|Hành động 8|Động từ thường dùng|互
+互访|thăm lẫn nhau|两/国/领导人/经常/互访/。|Lãnh đạo hai nước thường xuyên thăm lẫn nhau.
+思前想后|nghĩ trước nghĩ sau, cân nhắc kỹ|他/思前想后/，/决定/留/下来/。|Anh ấy nghĩ trước nghĩ sau rồi quyết định ở lại.
+娇惯|nuông chiều|不/要/太/娇惯/孩子/。|Đừng nuông chiều con quá.
+萍水相逢|bèo nước gặp nhau, tình cờ quen biết|我们/萍水相逢/，/却/成/了/好/朋友/。|Chúng tôi tình cờ gặp nhau mà lại thành bạn tốt.
+多劳多得|làm nhiều hưởng nhiều|公司/实行/多劳多得/的/制度/。|Công ty thực hiện chế độ làm nhiều hưởng nhiều.
+扑面而来|phả vào mặt, ập đến|一/打开/门/，/热气/扑面而来/。|Vừa mở cửa, hơi nóng phả vào mặt.
+引经据典|trích dẫn kinh điển|他/说话/喜欢/引经据典/。|Ông ấy nói chuyện thích trích dẫn kinh điển.
+抚恤|trợ cấp (cho thân nhân người mất, bị thương)|政府/抚恤/了/牺牲/警察/的/家属/。|Chính phủ trợ cấp cho gia đình cảnh sát hy sinh.
+愚公移山|Ngu Công dời núi (kiên trì ắt thành công)|我们/要/学习/愚公移山/的/精神/。|Chúng ta cần học tinh thần Ngu Công dời núi.
+歌咏|ca hát|学校/举办/了/歌咏/比赛/。|Trường tổ chức cuộc thi ca hát.
+赞叹不已|khen ngợi không ngớt|游客/们/对/这里/的/风景/赞叹不已/。|Du khách khen ngợi không ngớt phong cảnh nơi đây.
+节水|tiết kiệm nước|这/种=zhǒng/洗衣机/可以/节水/。|Loại máy giặt này có thể tiết kiệm nước.
+风餐露宿|ăn gió nằm sương|地质/队员/常年/风餐露宿/。|Các đội viên địa chất quanh năm ăn gió nằm sương.
+
+@h9-29|Đời sống hằng ngày 3|Đồ vật, ăn mặc, sức khỏe, mua sắm|禅
+禅杖|thiền trượng, gậy của nhà sư|老/和尚/手/里/拿/着/一/根/禅杖/。|Vị hòa thượng già cầm một cây thiền trượng trong tay.
+书橱|tủ sách|他/的/书橱/里/放/满/了/小说/。|Tủ sách của anh ấy đầy tiểu thuyết.
+船桨|mái chèo|他/用力/划/着/船桨/。|Anh ấy ra sức khua mái chèo.
+冰棍儿=bīnggùnr|que kem|夏天/孩子/们/最/爱/吃/冰棍儿/。|Mùa hè bọn trẻ thích ăn que kem nhất.
+电铃|chuông điện|门口/的/电铃/响/了/。|Chuông điện ngoài cửa reo.
+帐子|màn (chống muỗi)|夏天/睡觉/要/挂/帐子/。|Mùa hè đi ngủ phải mắc màn.
+兜儿=dōur|túi (áo, quần)|他/把/钥匙/放/进/了/兜儿/里/。|Anh ấy bỏ chìa khóa vào túi.
+后备箱|cốp xe|请/把/行李/放/在/后备箱/里/。|Xin để hành lý vào cốp xe.
+沐浴露|sữa tắm|我/想/买/一/瓶/沐浴露/。|Tôi muốn mua một chai sữa tắm.
+私家车|xe ô tô riêng|现在/很/多/家庭/都/有/私家车/。|Bây giờ nhiều gia đình đều có ô tô riêng.
+一卡通=yìkǎtōng|thẻ đa năng (đi lại, thanh toán)|坐/地铁/可以/刷/一卡通/。|Đi tàu điện ngầm có thể quẹt thẻ đa năng.
+
+@h9-30|Hành động 9|Động từ thường dùng|忌
+忌口|kiêng ăn, ăn kiêng|医生/让/他/忌口/，/不/能/吃/辣/的/。|Bác sĩ bảo anh ấy kiêng ăn, không được ăn cay.
+举一反三|học một biết mười, suy một ra ba|学习/要/学/会/举一反三/。|Học tập phải biết suy một ra ba.
+损人利己|hại người lợi mình|我们/不/能/做/损人利己/的/事/。|Chúng ta không được làm việc hại người lợi mình.
+野炊|nấu ăn ngoài trời, dã ngoại nấu nướng|周末/我们/去/河边/野炊/吧/。|Cuối tuần chúng ta ra bờ sông nấu ăn dã ngoại nhé.
+东奔西走|chạy ngược chạy xuôi|为了/找/工作/，/他/每天/东奔西走/。|Để tìm việc, ngày nào anh ấy cũng chạy ngược chạy xuôi.
+怠工|lãn công|工人/们/用/怠工/来/表示/不满/。|Công nhân dùng cách lãn công để bày tỏ sự bất mãn.
+有的放矢=yǒudìfàngshǐ|có mục tiêu rõ ràng, bắn tên có đích|复习/的/时候/要/有的放矢/。|Khi ôn tập cần có mục tiêu rõ ràng.
+沽名钓誉|mua danh chuộc tiếng|他/捐/钱/只=zhǐ/是/为了/沽名钓誉/。|Anh ta quyên tiền chỉ để mua danh chuộc tiếng.
+大包大揽|ôm đồm hết mọi việc|父母/不/应该/对/孩子/的/事/大包大揽/。|Cha mẹ không nên ôm đồm hết mọi việc của con.
+连滚带爬|vừa lăn vừa bò, cuống cuồng|小偷/吓/得=de/连滚带爬/地=de/跑/了/。|Tên trộm sợ đến mức vừa lăn vừa bò chạy mất.
+朝三暮四=zhāosānmùsì|sớm ba chiều bốn, hay thay đổi|做/事/不/能/朝三暮四/。|Làm việc không thể nay thế này mai thế khác.
+前仰后合|(cười) ngả nghiêng|大家/笑/得=de/前仰后合/。|Mọi người cười ngả nghiêng.
+
+@h9-31|Thiên nhiên và nơi chốn 3|Địa điểm, động thực vật, thời tiết|四
+四合院|tứ hợp viện|北京/的/老/四合院/越来越/少/了/。|Tứ hợp viện cổ ở Bắc Kinh ngày càng ít đi.
+桂花|hoa quế|秋天/，/院子/里/的/桂花/很/香/。|Mùa thu, hoa quế trong sân rất thơm.
+涝|úng, ngập úng|今年/雨/太/多/，/庄稼/都/涝/了/。|Năm nay mưa nhiều quá, hoa màu đều bị úng.
+芦花|hoa lau|秋天/，/河边/开/满/了/白色/的/芦花/。|Mùa thu, bờ sông nở đầy hoa lau trắng.
+槐树|cây hòe|院子/里/有/一/棵/老/槐树/。|Trong sân có một cây hòe già.
+奇花异草|hoa thơm cỏ lạ|植物园/里/有/很/多/奇花异草/。|Trong vườn thực vật có rất nhiều hoa thơm cỏ lạ.
+山冈|đồi, gò núi|太阳/从/山冈/后面/升/起来/了/。|Mặt trời mọc lên từ sau ngọn đồi.
+报亭|sạp báo, quầy báo|我/在/路口/的/报亭/买/了/一/份/报纸/。|Tôi mua một tờ báo ở sạp báo đầu ngã tư.
+便利店=biànlìdiàn|cửa hàng tiện lợi|楼下/有/一/家/二十四/小时/便利店/。|Dưới nhà có một cửa hàng tiện lợi mở 24 giờ.
+茶馆儿=cháguǎnr|quán trà|老人/们/喜欢/在/茶馆儿/里/聊天/。|Các cụ thích trò chuyện trong quán trà.
+
+@h9-32|Khái niệm 3|Danh từ trừu tượng|上
+上期|kỳ trước|上期/杂志/已经/卖/完/了/。|Tạp chí kỳ trước đã bán hết rồi.
+非金属|phi kim|碳/是/一/种=zhǒng/非金属/元素/。|Cacbon là một nguyên tố phi kim.
+顺差|thặng dư (thương mại)|今年/的/贸易/顺差/扩大/了/。|Thặng dư thương mại năm nay đã tăng lên.
+腊月=làyuè|tháng Chạp|腊月/里/，/人们/开始/准备/过年/。|Tháng Chạp, mọi người bắt đầu chuẩn bị đón Tết.
+悲欢离合|vui buồn tan hợp|这/部/小说/写/了/一/家/人/的/悲欢离合/。|Cuốn tiểu thuyết này viết về những vui buồn tan hợp của một gia đình.
+节气|tiết khí|中国/农历/有/二十四/个/节气/。|Âm lịch Trung Quốc có hai mươi bốn tiết khí.
+内需|nhu cầu trong nước|政府/采取/措施/扩大/内需/。|Chính phủ áp dụng biện pháp mở rộng nhu cầu trong nước.
+个头儿=gètóur|vóc dáng, kích cỡ|他/个头儿/不/高/，/力气/却/很/大/。|Anh ấy vóc người không cao nhưng sức rất khỏe.
+一长一短=yìchángyìduǎn|một dài một ngắn; chuyện dài dòng|这/两/根/筷子/一长一短/。|Hai chiếc đũa này một dài một ngắn.
+人缘儿=rényuánr|quan hệ với mọi người, được lòng người|她/在/公司/里/人缘儿/很/好/。|Cô ấy rất được lòng mọi người trong công ty.
+软实力|sức mạnh mềm|文化/是/一/个/国家/的/软实力/。|Văn hóa là sức mạnh mềm của một quốc gia.
+双赢|đôi bên cùng có lợi|这/次/合作/实现/了/双赢/。|Lần hợp tác này đạt được kết quả đôi bên cùng có lợi.
+性价比|tỷ lệ giá trị trên giá tiền|这/款/手机/的/性价比/很/高/。|Mẫu điện thoại này rất đáng đồng tiền.
+正能量|năng lượng tích cực|他/的/故事/充满/了/正能量/。|Câu chuyện của anh ấy tràn đầy năng lượng tích cực.
+
+@h9-33|Miêu tả 6|Tính chất, trạng thái|经
+经久不息|kéo dài không dứt|演出/结束/后/，/掌声/经久不息/。|Sau buổi diễn, tiếng vỗ tay kéo dài không dứt.
+水灵灵|tươi mơn mởn, long lanh|小/姑娘/有/一/双/水灵灵/的/大/眼睛/。|Cô bé có đôi mắt to long lanh.
+朱红|đỏ son|故宫/的/大门/是/朱红/色/的/。|Cổng lớn của Cố Cung có màu đỏ son.
+红扑扑|đỏ hây hây|孩子/的/小/脸/红扑扑/的/。|Khuôn mặt nhỏ của đứa trẻ đỏ hây hây.
+大模大样|nghênh ngang, đàng hoàng như không|他/大模大样/地=de/走/进/了/办公室/。|Anh ta nghênh ngang bước vào văn phòng.
+别具匠心|độc đáo, có ý tưởng riêng|这/座/花园/的/设计/别具匠心/。|Thiết kế của khu vườn này rất độc đáo.
+暖烘烘|ấm áp, ấm sực|屋子/里/暖烘烘/的/，/很/舒服/。|Trong nhà ấm sực, rất dễ chịu.
+半真半假|nửa thật nửa giả|他/的/话/半真半假/，/不/能/全/信/。|Lời anh ta nửa thật nửa giả, không thể tin hết.
+有两下子|có nghề, có bản lĩnh|没/想到/你/做/菜/还/真/有两下子/。|Không ngờ bạn nấu ăn cũng thật có nghề.
+酣畅|sảng khoái, thỏa thích|昨天/我们/聊/得=de/很/酣畅/。|Hôm qua chúng tôi trò chuyện rất sảng khoái.
+万古长青=wàngǔchángqīng|muôn đời xanh tươi, đời đời bền vững|祝/我们/的/友谊/万古长青/。|Chúc tình hữu nghị của chúng ta đời đời bền vững.
+势不可当=shìbùkědāng|thế không gì cản nổi|球队/一/路/胜利/，/势不可当/。|Đội bóng thắng liên tiếp, thế không gì cản nổi.
+
+@h9-34|Cảm xúc và tính cách 4|Tâm trạng, thái độ, phẩm chất|耿
+耿直|thẳng thắn, cương trực|他/性格/耿直/，/有/话/直/说/。|Anh ấy tính thẳng thắn, có gì nói thẳng.
+美滋滋|sướng rơn, khoái chí|听到/表扬/，/他/心里/美滋滋/的/。|Nghe khen, trong lòng anh ấy sướng rơn.
+敦厚|đôn hậu|他/为人/敦厚/，/大家/都/信任/他/。|Anh ấy là người đôn hậu, mọi người đều tin tưởng.
+见钱眼开|thấy tiền là sáng mắt|他/是/个/见钱眼开/的/人/。|Hắn là kẻ thấy tiền là sáng mắt.
+爱理不理|thờ ơ, lạnh nhạt chẳng buồn để ý|服务员/对/顾客/爱理不理/的/。|Nhân viên phục vụ thờ ơ với khách hàng.
+有口无心|nói vô tâm, ruột để ngoài da|他/有口无心/，/你/别/生气/。|Anh ấy nói vô tâm thôi, bạn đừng giận.
+如醉如痴|như say như mê|观众/听/得=de/如醉如痴/。|Khán giả nghe như say như mê.
+一毛不拔|vắt cổ chày ra nước, keo kiệt|他/很/有钱/，/却/一毛不拔/。|Anh ta rất giàu mà lại keo kiệt vắt cổ chày ra nước.
+遂心|vừa ý, toại nguyện|这/份/工作/很/遂心/。|Công việc này rất vừa ý.
+得意扬扬=déyìyángyáng|dương dương tự đắc|他/赢/了/比赛/，/得意扬扬/地=de/回家/了/。|Anh ấy thắng trận, dương dương tự đắc về nhà.
+廉正|liêm chính|他/是/一/位/廉正/的/官员/。|Ông ấy là một viên chức liêm chính.
+不服气|không phục, ấm ức|输/了/比赛/，/他/很/不服气/。|Thua trận, anh ấy rất không phục.
+
+@h9-35|Hành động 10|Động từ thường dùng|迭
+迭起|liên tiếp xuất hiện, dồn dập|比赛/高潮/迭起/，/非常/精彩/。|Trận đấu cao trào dồn dập, vô cùng đặc sắc.
+哗变|binh biến, nổi loạn (trong quân đội)|一/支/军队/在/夜里/哗变/了/。|Một đội quân đã làm binh biến trong đêm.
+节衣缩食|thắt lưng buộc bụng, ăn tiêu dè sẻn|父母/节衣缩食/供/他/上/大学/。|Bố mẹ thắt lưng buộc bụng nuôi anh ấy học đại học.
+张灯结彩|treo đèn kết hoa|春节/到/了/，/街/上/张灯结彩/。|Tết đến, trên phố treo đèn kết hoa.
+陶冶|hun đúc, bồi dưỡng (tâm hồn)|音乐/可以/陶冶/人/的/性情/。|Âm nhạc có thể bồi dưỡng tâm hồn con người.
+碰钉子|bị từ chối, vấp phải trở ngại|他/去/找/经理/借/钱/，/结果/碰钉子/了/。|Anh ấy đi tìm giám đốc vay tiền, kết quả là bị từ chối.
+各奔前程|mỗi người một ngả, ai theo đường nấy|毕业/以后/，/同学/们/各奔前程/。|Sau khi tốt nghiệp, các bạn học mỗi người một ngả.
+乘人之危|thừa lúc người ta gặp nguy|我们/不/能/乘人之危/抬高/价格/。|Chúng ta không thể thừa lúc người ta gặp khó mà nâng giá.
+穿小鞋|gây khó dễ, trù dập|他/怕/领导/给/他/穿小鞋/。|Anh ấy sợ lãnh đạo gây khó dễ cho mình.
+耳闻目睹|tai nghe mắt thấy|这些/都/是/我/耳闻目睹/的/事情/。|Đây đều là những việc tôi tai nghe mắt thấy.
+发愤图强|quyết chí vươn lên|失败/以后/，/他/发愤图强/，/终于/成功/了/。|Sau thất bại, anh ấy quyết chí vươn lên, cuối cùng đã thành công.
+默读|đọc thầm|请/大家/先/默读/一/遍/课文/。|Mời mọi người đọc thầm bài khóa một lượt trước.
+忍饥挨饿|chịu đói chịu khát|战争/年代/，/很/多/人/忍饥挨饿/。|Thời chiến tranh, nhiều người phải chịu đói.
+
+@h9-36|Hành động 11|Động từ thường dùng|侃
+侃大山|tán gẫu, chém gió|几/个/朋友/坐/在/一起/侃大山/。|Mấy người bạn ngồi với nhau tán gẫu.
+不耻下问|không ngại hỏi người dưới|学习/要/有/不耻下问/的/精神/。|Học tập cần có tinh thần không ngại hỏi người kém mình.
+爆冷门|gây bất ngờ lớn (kết quả không ai ngờ)|这/场=chǎng/比赛/爆冷门/，/弱/队/赢/了/。|Trận đấu này gây bất ngờ lớn, đội yếu đã thắng.
+出口成章|xuất khẩu thành chương, nói ra thành văn|他/读/书/很/多/，/出口成章/。|Anh ấy đọc nhiều sách, nói ra thành văn.
+敲边鼓|nói đỡ, phụ họa bên cạnh|我/去/跟/他/谈/，/你/在/旁边/敲边鼓/。|Tôi đi nói chuyện với anh ấy, bạn ở bên cạnh nói đỡ.
+刻舟求剑|khắc thuyền tìm gươm (cứng nhắc, không biết ứng biến)|情况/变/了/，/我们/不/能/刻舟求剑/。|Tình hình đã thay đổi, chúng ta không thể khắc thuyền tìm gươm.
+闹着玩儿=nàozhewánr|đùa, chơi cho vui|我/是/跟/你/闹着玩儿/的/，/别/当真/。|Tôi đùa với bạn thôi, đừng tưởng thật.
+随大溜|theo số đông, a dua|他/没有/主见/，/总是/随大溜/。|Anh ấy không có chính kiến, lúc nào cũng theo số đông.
+操控|điều khiển, thao túng|有/人/在/背后/操控/市场/。|Có người thao túng thị trường ở phía sau.
+吃不上=chībushàng|không có mà ăn; không kịp ăn|以前/很/多/人/吃不上/饭/。|Trước đây nhiều người không có cơm ăn.
+吹了|hỏng rồi, tan vỡ (chuyện tình, kế hoạch)|听说/他们/俩=liǎ/的/婚事/吹了/。|Nghe nói chuyện cưới xin của hai người họ hỏng rồi.
+打盹儿=dǎdǔnr|ngủ gật, chợp mắt|爷爷/坐/在/沙发/上/打盹儿/。|Ông nội ngồi trên sofa ngủ gật.
+
+@h9-37|Miêu tả 7|Tính chất, trạng thái|长
+长效=chángxiào|có hiệu lực lâu dài|我们/需要/建立/长效/的/管理/制度/。|Chúng ta cần xây dựng chế độ quản lý có hiệu lực lâu dài.
+鹏程万里|tiền đồ rộng mở|祝/你/毕业/以后/鹏程万里/。|Chúc bạn sau khi tốt nghiệp tiền đồ rộng mở.
+办不到=bànbudào|không làm được|这/件/事/我/一/个/人/办不到/。|Việc này một mình tôi không làm được.
+低碳|ít cacbon, phát thải thấp|我们/提倡/低碳/生活/。|Chúng tôi đề xướng lối sống ít phát thải cacbon.
+搞笑|gây cười, hài hước|这/个/节目/特别/搞笑/。|Chương trình này đặc biệt hài hước.
+忽高忽低|lúc cao lúc thấp|最近/气温/忽高忽低/，/容易/感冒/。|Gần đây nhiệt độ lúc cao lúc thấp, dễ bị cảm.
+离谱儿=lípǔr|quá đáng, vô lý|这/个/价格/太/离谱儿/了/。|Giá này quá vô lý.
+难得一见=nándéyíjiàn|hiếm khi thấy|这/种=zhǒng/鸟/在/城市/里/难得一见/。|Loài chim này hiếm khi thấy trong thành phố.
+难以想象=nányǐxiǎngxiàng|khó mà tưởng tượng|没有/手机/的/生活/难以想象/。|Cuộc sống không có điện thoại thật khó mà tưởng tượng.
+时好时坏|lúc tốt lúc xấu|他/的/身体/时好时坏/。|Sức khỏe của ông ấy lúc tốt lúc xấu.
+贪玩儿=tānwánr|ham chơi|这/孩子/太/贪玩儿/，/不/爱/学习/。|Đứa trẻ này ham chơi quá, không thích học.
+讨人喜欢|dễ mến, đáng yêu|这/个/小/女孩/很/讨人喜欢/。|Cô bé này rất dễ mến.
+原创|nguyên bản, tự sáng tác|这/是/一/首/原创/歌曲/。|Đây là một ca khúc tự sáng tác.
+
+@h9-38|Hành động 12|Động từ thường dùng|防
+防汛|phòng chống lũ|夏天/到/了/，/各地/开始/防汛/。|Mùa hè đến, các nơi bắt đầu phòng chống lũ.
+公示|công bố công khai, niêm yết|录取/名单/将/在/网/上/公示/。|Danh sách trúng tuyển sẽ được công bố công khai trên mạng.
+顾不上=gùbushàng|không kịp lo, không có thì giờ để|他/忙/得=de/顾不上/吃/饭/。|Anh ấy bận đến mức không kịp ăn cơm.
+接听|nghe máy, nhận cuộc gọi|开车/的/时候/不/要/接听/电话/。|Khi lái xe đừng nghe điện thoại.
+咧嘴|nhếch miệng, toét miệng|他/高兴/得=de/咧嘴/笑/了/。|Anh ấy vui đến nỗi toét miệng cười.
+领军|dẫn đầu, dẫn dắt|他/是/这/个/领域/的/领军/人物/。|Ông ấy là nhân vật dẫn đầu trong lĩnh vực này.
+受过|chịu tội thay, gánh trách nhiệm thay|我/不/愿意/替/别人/受过/。|Tôi không muốn chịu tội thay người khác.
+说干就干=shuōgànjiùgàn|nói là làm|他/这/个/人/说干就干/，/从/不/拖/。|Con người anh ấy nói là làm, không bao giờ chần chừ.
+搜救|tìm kiếm cứu nạn|搜救/人员/正在/山/里/寻找/失踪/的/游客/。|Lực lượng tìm kiếm cứu nạn đang tìm du khách mất tích trong núi.
+与时俱进|tiến cùng thời đại|我们/的/教育/要/与时俱进/。|Nền giáo dục của chúng ta phải tiến cùng thời đại.
+着眼于=zhuóyǎnyú|tập trung vào, nhìn vào|我们/应该/着眼于/未来/的/发展/。|Chúng ta nên tập trung vào sự phát triển trong tương lai.
+追尾|đâm vào đuôi xe trước|高速公路/上/发生/了/一/起/追尾/事故/。|Trên đường cao tốc xảy ra một vụ đâm đuôi xe.
+做证|làm chứng|他/愿意/到/法院/做证/。|Anh ấy sẵn lòng đến tòa làm chứng.

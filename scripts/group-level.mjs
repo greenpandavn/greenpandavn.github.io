@@ -16,7 +16,7 @@ const THEMES = {
   t: ['Khái niệm', 'Danh từ trừu tượng', '理'],
   g: ['Từ nối và hư từ', 'Phó từ, liên từ, giới từ, lượng từ', '而'],
 };
-const PARTS = { 4: [41, 4, 'sun'], 5: [51, 8, 'coral'], 6: [61, 12, 'grape'], 7: [81, 9, 'sky'], 8: [91, 9, 'leaf'] }; // first unit number, number of parts
+const PARTS = { 4: [41, 4, 'sun'], 5: [51, 8, 'coral'], 6: [61, 12, 'grape'], 7: [81, 9, 'sky'], 8: [91, 9, 'leaf'], 9: [101, 3, 'sky'] }; // first unit number, number of parts
 const COLORS = ['leaf', 'sky', 'grape', 'sun', 'coral'];
 const SIZE = 12;
 const level = Number(process.argv[2]);
@@ -50,7 +50,7 @@ while (all.length < total) {
   all.push(queues[best][taken[best]++]);
 }
 const [firstUnit, nParts] = PARTS[level];
-const out = [level >= 7 ? `# HSK ${level} (chuẩn HSK 3.0, danh sách từ cấp 7–9: ${level === 7 ? 'nhóm từ thông dụng nhất' : 'nhóm từ thông dụng tiếp theo'}; các từ đã học ở cấp dưới không lặp lại).` : `# HSK ${level} (chuẩn HSK cũ; các từ đã học ở cấp dưới không lặp lại).`, `# TỆP TỰ SINH từ scripts/src/hsk${level}/*.txt bằng scripts/group-level.mjs — hãy sửa ở tệp nguồn.`, ''];
+const out = [level >= 7 ? `# HSK ${level} (chuẩn HSK 3.0, danh sách từ cấp 7–9: ${level === 7 ? 'nhóm từ thông dụng nhất' : level === 8 ? 'nhóm từ thông dụng tiếp theo' : 'nhóm từ còn lại'}; các từ đã học ở cấp dưới không lặp lại).` : `# HSK ${level} (chuẩn HSK cũ; các từ đã học ở cấp dưới không lặp lại).`, `# TỆP TỰ SINH từ scripts/src/hsk${level}/*.txt bằng scripts/group-level.mjs — hãy sửa ở tệp nguồn.`, ''];
 let n = 0;
 for (let p = 0; p < nParts; p++) {
   const part = all.slice(Math.floor((p * all.length) / nParts), Math.floor(((p + 1) * all.length) / nParts));
