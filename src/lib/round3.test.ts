@@ -26,8 +26,8 @@ describe('v3 content', () => {
   it('Chinese course has HSK 1–3 with tests per part', () => {
     data.setCourse('zh');
     const count = (lv: number) => data.LESSONS.filter((l) => data.unitLevel(l.unit) === lv).flatMap((l) => l.words).length;
-    expect([count(1), count(2), count(3)]).toEqual([181, 144, 287]);
-    expect(data.UNITS.map((u) => u.unit)).toEqual([1, 2, 3, 21, 22, 23, 31, 32, 33, 34]);
+    expect([count(1), count(2), count(3), count(4), count(5)]).toEqual([181, 144, 287, 596, 1300]);
+    expect(data.UNITS.map((u) => u.unit).slice(0, 22)).toEqual([1, 2, 3, 21, 22, 23, 31, 32, 33, 34, 41, 42, 43, 44, 51, 52, 53, 54, 55, 56, 57, 58]);
     for (const w of data.ALL_WORDS) {
       expect(w.pinyin, w.hanzi).toBeTruthy();
       expect(w.ex.tokens.length, w.hanzi).toBe(w.ex.py.length);
@@ -35,10 +35,11 @@ describe('v3 content', () => {
     }
     expect(new Set(data.ALL_WORDS.map((w) => w.id)).size).toBe(data.ALL_WORDS.length);
   });
-  it('English course: 30 lessons, 371 words, every lesson builds a full exercise queue', () => {
+  it('English course: 58 lessons, 707 words, every lesson builds a full exercise queue', () => {
     data.setCourse('en');
-    expect(data.LESSONS.length).toBe(30);
-    expect(data.ALL_WORDS.length).toBe(371);
+    expect(data.LESSONS.length).toBe(58);
+    expect(data.ALL_WORDS.length).toBe(707);
+    expect(data.LESSONS.filter((l) => data.unitLevel(l.unit) === 1).flatMap((l) => l.words).length).toBe(371);
     for (const l of data.LESSONS) {
       const q = ex.buildLesson(l.words, { difficulty: 'normal', newWordIds: new Set(l.words.map((w) => w.id)), speaking: true });
       const kinds = new Set(q.map((e) => e.kind));
@@ -133,15 +134,93 @@ describe('per-course progress', () => {
   });
 });
 
+describe('v4.5: Thi thử tiếng Anh', () => {
+  it('papers have vocabulary, grammar, reading and listening sections and score per section', async () => {
+    const mock = await import('./mock');
+    const specs = mock.mockSpecs('en');
+    expect(specs.map((s) => [s.id, mock.questionCount(s), s.minutes, mock.maxScore(s), s.pass])).toEqual([
+      ['en1', 60, 45, 400, 240],
+      ['en2', 80, 60, 400, 240],
+    ]);
+    for (const spec of specs) {
+      expect(spec.sections.map((s) => s.id)).toEqual(['listening', 'vocab', 'grammar', 'reading']);
+      const qs = mock.buildMock(spec);
+      expect(qs.length).toBe(mock.questionCount(spec));
+      for (const q of qs) {
+        expect(q.kind).toBe('choice');
+        expect(new Set(q.options).size, `${spec.id}#${q.n} ${q.options}`).toBe(q.options.length);
+        expect(q.options[q.answer]).toBe(q.solution);
+        expect(q.explain.length).toBeGreaterThan(10);
+        expect(/\p{Script=Han}/u.test(`${q.prompt ?? ''}${q.audio ?? ''}${q.options.join('')}`)).toBe(false);
+      }
+      const grammar = qs.filter((q) => q.section === 'grammar');
+      expect(new Set(grammar.map((q) => q.prompt)).size).toBe(grammar.length); // no repeated item
+      expect(grammar.every((q) => q.prompt!.includes('___'))).toBe(true);
+      const reading = qs.filter((q) => q.section === 'reading');
+      expect(reading.every((q) => (q.passage ?? '').length > 80)).toBe(true);
+      expect(new Set(reading.map((q) => q.passage + q.prompt!)).size).toBe(reading.length);
+      expect(qs.filter((q) => q.section === 'listening').every((q) => !!q.audio)).toBe(true);
+
+      const right = qs.map((q) => q.answer);
+      expect(mock.scoreMock(spec, qs, right).score).toBe(400);
+      // only the grammar section right: 100 of 400, not passed
+      const onlyGrammar = mock.scoreMock(spec, qs, qs.map((q) => (q.section === 'grammar' ? q.answer : undefined)));
+      expect(onlyGrammar.sections.map((s) => s.score)).toEqual([0, 0, 100, 0]);
+      expect(onlyGrammar.passed).toBe(false);
+      // 60% of every section reaches the pass mark exactly
+      const seen: Record<string, number> = {};
+      const sixty = qs.map((q) => {
+        const total = qs.filter((x) => x.section === q.section).length;
+        seen[q.section] = (seen[q.section] ?? 0) + 1;
+        return seen[q.section] <= total * 0.6 ? q.answer : (q.answer + 1) % q.options.length;
+      });
+      const r = mock.scoreMock(spec, qs, sixty);
+      expect(r.score).toBe(240);
+      expect(r.passed).toBe(true);
+    }
+  });
+  it('every bank item has one right answer and distinct options; results are stored per paper', async () => {
+    const { GRAMMAR, READING } = await import('../data/enMock');
+    for (const lv of [1, 2]) {
+      expect(GRAMMAR[lv].length).toBeGreaterThanOrEqual(lv === 1 ? 15 : 20);
+      for (const g of GRAMMAR[lv]) {
+        expect(g.q).toContain('___');
+        expect(new Set(g.options).size).toBe(g.options.length);
+      }
+      expect(READING[lv].reduce((n, t) => n + t.qs.length, 0)).toBeGreaterThanOrEqual(lv === 1 ? 15 : 20);
+      for (const t of READING[lv]) for (const q of t.qs) expect(new Set(q.options).size).toBe(q.options.length);
+    }
+    store.recordMock('en1', 250, 400, true);
+    store.recordMock('en1', 300, 400, true);
+    expect(store.getProgress().mock?.en1).toMatchObject({ best: 300, max: 400, attempts: 2 });
+  });
+  it('English has a beginner and an intermediate level', () => {
+    data.setCourse('en');
+    const levels = [...new Set(data.UNITS.map((u) => u.level))];
+    expect(levels).toEqual([1, 2]);
+    const inter = data.CORE_LESSONS.filter((l) => data.unitLevel(l.unit) === 2);
+    expect(inter.length).toBeGreaterThanOrEqual(25);
+    expect(inter.reduce((n, l) => n + l.words.length, 0)).toBeGreaterThanOrEqual(300);
+    expect(data.levelLabel(2)).toBe('Trung cấp');
+    data.setCourse('zh');
+    expect(data.levelLabel(4)).toBe('HSK 4');
+  });
+});
+
 describe('v4: Thi thử HSK', () => {
   it('papers follow the exam structure and score per section', async () => {
     const mock = await import('./mock');
     const sizes = mock.mockSpecs().map((s) => [s.level, mock.questionCount(s), s.minutes, mock.maxScore(s), s.pass]);
-    expect(sizes).toEqual([
+    expect(sizes.slice(0, 5)).toEqual([
       [1, 40, 40, 200, 120],
       [2, 60, 55, 200, 120],
       [3, 80, 90, 300, 180],
+      [4, 100, 105, 300, 180],
+      [5, 100, 125, 300, 180],
     ]);
+    // HSK 6 follows the real paper (101 questions, 140 minutes) once the level has content
+    const six = mock.MOCK_SPECS.find((s) => s.id === '6')!;
+    expect([mock.questionCount(six), six.minutes, mock.maxScore(six)]).toEqual([101, 140, 300]);
     for (const spec of mock.mockSpecs()) {
       const qs = mock.buildMock(spec);
       expect(qs.length).toBe(mock.questionCount(spec));

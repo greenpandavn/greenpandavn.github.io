@@ -197,13 +197,13 @@ export default function ProfileScreen({ onLogin, onAdmin }: { onLogin: () => voi
       </div>
       {p.mock && Object.keys(p.mock).length > 0 && (
         <div className="card mb-5" data-testid="mock-results">
-          <h2 className="mb-2 font-black">Thi thử HSK – điểm cao nhất</h2>
+          <h2 className="mb-2 font-black">Thi thử – điểm cao nhất</h2>
           <div className="flex flex-col gap-1">
             {Object.entries(p.mock)
-              .sort(([a], [b]) => Number(a) - Number(b))
+              .sort(([a], [b]) => a.localeCompare(b))
               .map(([lv, r]) => (
                 <div key={lv} className="flex items-center justify-between text-sm font-bold" data-testid={`profile-mock-${lv}`}>
-                  <span className="font-extrabold text-ink-700">HSK {lv}</span>
+                  <span className="font-extrabold text-ink-700">{lv === 'en1' ? 'Tiếng Anh cơ bản' : lv === 'en2' ? 'Tiếng Anh trung cấp' : `HSK ${lv}`}</span>
                   <span className={r.passed ? 'text-leaf-600' : 'text-ink-500'}>
                     {r.best}/{r.max} · {r.passed ? 'Đạt' : 'Chưa đạt'} · {r.attempts} lần thi
                   </span>
@@ -436,7 +436,7 @@ export default function ProfileScreen({ onLogin, onAdmin }: { onLogin: () => voi
       <h2 className="mb-2 mt-6 text-lg font-black">Giới thiệu / Liên hệ</h2>
       <div className="card flex flex-col gap-1 text-sm font-semibold text-ink-500" data-testid="about">
         <p>
-          <b className="text-ink-700">Học Ngoại Ngữ – Gấu Trúc Xanh</b> là ứng dụng học tiếng Trung (HSK 1–3) và tiếng Anh cơ bản miễn phí cho người Việt.
+          <b className="text-ink-700">Học Ngoại Ngữ – Gấu Trúc Xanh</b> là ứng dụng học tiếng Trung (HSK) và tiếng Anh (cơ bản, trung cấp) miễn phí cho người Việt.
         </p>
         <p>© 2026 VH Phước — Học Ngoại Ngữ, Gấu Trúc Xanh. Mọi nội dung thuộc về VH Phước.</p>
         <p data-testid="about-version">

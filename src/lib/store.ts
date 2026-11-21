@@ -313,7 +313,7 @@ export function resetProgress() {
 }
 
 /** Save a 'Thi thử HSK' attempt; keeps the best score per level. Works for guests and syncs like the rest. */
-export function recordMock(level: number, score: number, max: number, passed: boolean) {
+export function recordMock(level: number | string, score: number, max: number, passed: boolean) {
   updateProgress((p) => {
     const prev = p.mock?.[level];
     const better = !prev || score > prev.best;

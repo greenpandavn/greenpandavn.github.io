@@ -1,6 +1,6 @@
 import { lazy, Suspense, useEffect, useRef, useState } from 'react';
 import TopBar from './components/TopBar';
-import BottomNav, { type Tab } from './components/BottomNav';
+import BottomNav, { SocialTabs, type Tab } from './components/BottomNav';
 import PathScreen from './screens/PathScreen';
 import ReviewScreen from './screens/ReviewScreen';
 import WordsScreen from './screens/WordsScreen';
@@ -173,6 +173,7 @@ export default function App() {
       )}
       {tab === 'review' && <ReviewScreen onStart={() => setSession({ type: 'review' })} />}
       {tab === 'words' && <WordsScreen />}
+      {(tab === 'rank' || (tab === 'friends' && !chatOpen)) && <SocialTabs tab={tab} onChange={changeTab} friendsBadge={acc.user ? socialBadge(social) : 0} />}
       {tab === 'friends' && <FriendsScreen onLogin={openAuth} onChat={setChatOpen} />}
       {tab === 'rank' && <LeaderboardScreen onLogin={openAuth} />}
       {tab === 'profile' && <ProfileScreen onLogin={openAuth} onAdmin={openAdmin} />}

@@ -5,6 +5,7 @@ import {
   isAnswered,
   isCorrect,
   maxScore,
+  mockName,
   mockSpecs,
   questionCount,
   scoreMock,
@@ -15,6 +16,7 @@ import {
   type MockSpec,
 } from '../lib/mock';
 import { recordMock, useProgress } from '../lib/store';
+import { getCourse } from '../data';
 import { speak } from '../lib/speech';
 import SpeakerButton from '../components/SpeakerButton';
 import Footer from '../components/Footer';
@@ -23,11 +25,12 @@ import { Chevron, Trophy } from '../components/Icons';
 
 const clock = (s: number) => `${String(Math.floor(s / 60)).padStart(2, '0')}:${String(s % 60).padStart(2, '0')}`;
 
-/** Standalone, optional "Thi thử HSK" section: pick a level, sit the timed paper, review every answer. */
+/** Standalone, optional "Thi thử HSK" / "Thi thử tiếng Anh" section (follows the course being studied): pick a level, sit the timed paper, review every answer. */
 export default function MockScreen({ onClose }: { onClose: () => void }) {
   const p = useProgress();
   const [spec, setSpec] = useState<MockSpec | null>(null);
-  if (spec) return <MockRun key={spec.level} spec={spec} onExit={() => setSpec(null)} />;
+  const course = getCourse();
+  if (spec) return <MockRun key={spec.id} spec={spec} onExit={() => setSpec(null)} />;
   return (
     <div className="mx-auto flex min-h-[100dvh] max-w-md flex-col px-4 pb-6 pt-4" data-testid="mock-screen">
       <button type="button" onClick={onClose} className="mb-2 flex items-center gap-1 font-extrabold text-ink-400" data-testid="mock-back">
@@ -38,19 +41,19 @@ export default function MockScreen({ onClose }: { onClose: () => void }) {
           <Trophy size={34} />
         </span>
         <div>
-          <h1 className="text-2xl font-black">Thi thử HSK</h1>
+          <h1 className="text-2xl font-black">{mockName(course)}</h1>
           <p className="text-sm font-semibold text-ink-500">Đề thi dài, tính giờ như thi thật. Không bắt buộc, không ảnh hưởng đến lộ trình học.</p>
         </div>
       </div>
       <div className="flex flex-col gap-3">
-        {mockSpecs().map((s) => {
-          const r = p.mock?.[s.level];
+        {mockSpecs(course).map((s) => {
+          const r = p.mock?.[s.id];
           return (
-            <div key={s.level} className="card" data-testid={`mock-level-${s.level}`}>
+            <div key={s.id} className="card" data-testid={`mock-level-${s.id}`}>
               <div className="flex items-center justify-between gap-2">
-                <h2 className="text-xl font-black text-ink-700">HSK {s.level}</h2>
+                <h2 className="text-xl font-black text-ink-700">{s.title}</h2>
                 {r && (
-                  <span className={`rounded-lg px-2 py-0.5 text-sm font-extrabold ${r.passed ? 'bg-leaf-50 text-leaf-600' : 'bg-cloud text-ink-500'}`} data-testid={`mock-best-${s.level}`}>
+                  <span className={`rounded-lg px-2 py-0.5 text-sm font-extrabold ${r.passed ? 'bg-leaf-50 text-leaf-600' : 'bg-cloud text-ink-500'}`} data-testid={`mock-best-${s.id}`}>
                     Cao nhất: {r.best}/{r.max}
                   </span>
                 )}
@@ -61,7 +64,7 @@ export default function MockScreen({ onClose }: { onClose: () => void }) {
               <p className="mb-3 text-xs font-bold text-ink-400">
                 Tổng {maxScore(s)} điểm, đạt từ {s.pass} điểm.{r ? ` Đã thi ${r.attempts} lần, lần gần nhất ${r.last} điểm.` : ''}
               </p>
-              <button type="button" className="btn-green" onClick={() => setSpec(s)} data-testid={`mock-start-${s.level}`}>
+              <button type="button" className="btn-green" onClick={() => setSpec(s)} data-testid={`mock-start-${s.id}`}>
                 {r ? 'Thi lại' : 'Bắt đầu thi'}
               </button>
             </div>
@@ -69,7 +72,7 @@ export default function MockScreen({ onClose }: { onClose: () => void }) {
         })}
       </div>
       <p className="mt-4 text-center text-xs font-bold text-ink-400">
-        HSK 4–6 sẽ có đề thi thử khi nội dung các cấp này được bổ sung. Kết quả được lưu trên máy và đồng bộ khi bạn đăng nhập.
+        Đề được tạo từ từ vựng và câu ví dụ của từng cấp{course === 'en' ? ', cùng ngân hàng câu hỏi ngữ pháp và đọc hiểu' : ''} – không phải đề thi thật. Mỗi lần thi là một đề mới. Kết quả được lưu trên máy và đồng bộ khi bạn đăng nhập.
       </p>
       <Footer className="mt-auto" />
     </div>
@@ -90,7 +93,7 @@ function MockRun({ spec, onExit }: { spec: MockSpec; onExit: () => void }) {
 
   const submit = () => {
     const s = scoreMock(spec, qs, answersRef.current);
-    recordMock(spec.level, s.score, s.max, s.passed);
+    recordMock(spec.id, s.score, s.max, s.passed);
     setResult(s);
     setConfirm(false);
     window.scrollTo(0, 0);
@@ -139,7 +142,7 @@ function MockRun({ spec, onExit }: { spec: MockSpec; onExit: () => void }) {
           <button type="button" className="text-sm font-extrabold text-ink-400" onClick={() => setConfirm(true)}>
             ✕ Thoát
           </button>
-          <span className="font-black text-ink-700">Thi thử HSK {spec.level}</span>
+          <span className="truncate font-black text-ink-700">{spec.course === 'en' ? spec.title : `Thi thử ${spec.title}`}</span>
           <span
             className={`rounded-lg px-2 py-0.5 font-mono text-lg font-black ${left < 300 ? 'bg-coral-100 text-coral-600' : 'bg-sun-100 text-sun-600'}`}
             data-testid="mock-timer"
@@ -184,9 +187,14 @@ function MockRun({ spec, onExit }: { spec: MockSpec; onExit: () => void }) {
             <SpeakerButton text={q.audio} size="lg" slow className="self-end" />
           </div>
         )}
+        {q.passage && (
+          <div className="mb-3 rounded-2xl bg-mist px-4 py-3 text-[17px] font-semibold leading-relaxed text-ink-700" data-testid="mock-passage">
+            {q.passage}
+          </div>
+        )}
         {(q.prompt || q.sub) && (
           <div className="mb-4 rounded-2xl border-2 border-cloud px-4 py-3">
-            {q.prompt && <div className="font-han text-3xl leading-snug text-ink-700">{q.prompt}</div>}
+            {q.prompt && <div className={spec.course === 'en' ? 'text-xl font-extrabold leading-snug text-ink-700' : 'font-han text-3xl leading-snug text-ink-700'}>{q.prompt}</div>}
             {q.sub && <div className="mt-1 text-[15px] font-bold text-ink-500">{q.sub}</div>}
           </div>
         )}
@@ -202,7 +210,7 @@ function MockRun({ spec, onExit }: { spec: MockSpec; onExit: () => void }) {
                 className={`option flex items-center gap-3 ${a === i ? 'option-selected' : ''}`}
               >
                 <span className="flex h-7 w-7 shrink-0 items-center justify-center rounded-lg border-2 border-current text-xs opacity-60">{'ABCD'[i]}</span>
-                <span className={q.han ? 'font-han text-2xl' : ''}>{o}</span>
+                <span className={q.han && spec.course === 'zh' ? 'font-han text-2xl' : ''}>{o}</span>
               </button>
             ))}
           </div>
@@ -281,13 +289,13 @@ function MockRun({ spec, onExit }: { spec: MockSpec; onExit: () => void }) {
 function MockResultView({ spec, qs, answers, result, onExit }: { spec: MockSpec; qs: MockQuestion[]; answers: MockAnswer[]; result: MockScore; onExit: () => void }) {
   const p = useProgress();
   const [onlyWrong, setOnlyWrong] = useState(false);
-  const best = p.mock?.[spec.level];
+  const best = p.mock?.[spec.id];
   const shown = qs.map((q, i) => ({ q, a: answers[i], ok: isCorrect(q, answers[i]) })).filter((x) => !onlyWrong || !x.ok);
   return (
     <div className="mx-auto min-h-[100dvh] max-w-md px-4 pb-6 pt-6" data-testid="mock-result">
       <div className="text-center">
         <Panda size={96} mood={result.passed ? 'cheer' : 'happy'} className="mx-auto" />
-        <h1 className="mt-2 text-2xl font-black text-ink-700">Kết quả thi thử HSK {spec.level}</h1>
+        <h1 className="mt-2 text-2xl font-black text-ink-700">Kết quả thi thử {spec.title}</h1>
         <div className={`mt-2 text-6xl font-black ${result.passed ? 'text-leaf-500' : 'text-coral-500'}`} data-testid="mock-score">
           {result.score}
           <span className="text-2xl text-ink-400">/{result.max}</span>
@@ -301,7 +309,7 @@ function MockResultView({ spec, qs, answers, result, onExit }: { spec: MockSpec;
           </p>
         )}
       </div>
-      <div className={`mt-4 grid gap-2 ${result.sections.length === 3 ? 'grid-cols-3' : 'grid-cols-2'}`}>
+      <div className={`mt-4 grid gap-2 ${result.sections.length === 3 ? 'grid-cols-3' : result.sections.length === 4 ? 'grid-cols-4' : 'grid-cols-2'}`}>
         {result.sections.map((s) => (
           <div key={s.id} className="card !p-3 text-center" data-testid={`mock-section-${s.id}`}>
             <div className="text-xs font-extrabold uppercase text-ink-400">{SECTION_LABEL[s.id]}</div>
@@ -335,7 +343,8 @@ function MockResultView({ spec, qs, answers, result, onExit }: { spec: MockSpec;
             <div className="mt-1 flex items-start gap-2">
               {q.audio && <SpeakerButton text={q.audio} size="sm" />}
               <div className="min-w-0">
-                {(q.prompt || q.audio) && <div className="font-han text-xl text-ink-700">{q.prompt ?? q.audio}</div>}
+                {q.passage && <div className="mb-1 text-sm font-semibold text-ink-500">{q.passage}</div>}
+                {(q.prompt || q.audio) && <div className={spec.course === 'en' ? 'text-base font-extrabold text-ink-700' : 'font-han text-xl text-ink-700'}>{q.prompt ?? q.audio}</div>}
                 {q.sub && <div className="text-sm font-bold text-ink-500">{q.sub}</div>}
               </div>
             </div>

@@ -27,14 +27,15 @@ describe('level picker unlocks', () => {
   it('"Chưa biết gì" opens only lesson 1', () => {
     const p = withLevel('new');
     const open = data.CORE_LESSONS.filter((l) => unlock.isUnlocked(p, l)).map((l) => l.id);
-    expect(open).toEqual(['l01', 'h2-01', 'h3-01']); // v3: every HSK level can be started directly
+    expect(open.slice(0, 5)).toEqual(['l01', 'h2-01', 'h3-01', 'h4-01', 'h5-01']);
+    expect(open.every((id) => id === 'l01' || /^h\d-01$/.test(id))).toBe(true); // v3: every HSK level can be started directly
     expect(unlock.currentLessonId(p)).toBe('l01');
     expect(unlock.isTestUnlocked(p, 1)).toBe(false);
   });
   it('"Biết sơ sơ" opens Part 1 and starts at Part 2', () => {
     const p = withLevel('some');
     const open = data.CORE_LESSONS.filter((l) => unlock.isUnlocked(p, l)).map((l) => l.id);
-    expect(open).toEqual(['l01', 'l02', 'l03', 'l04', 'l05', 'l06', 'h2-01', 'h3-01']);
+    expect(open.slice(0, 10)).toEqual(['l01', 'l02', 'l03', 'l04', 'l05', 'l06', 'h2-01', 'h3-01', 'h4-01', 'h5-01']);
     expect(unlock.currentLessonId(p)).toBe('l06');
     expect(unlock.isTestUnlocked(p, 1)).toBe(true);
     expect(unlock.isTestUnlocked(p, 2)).toBe(false);

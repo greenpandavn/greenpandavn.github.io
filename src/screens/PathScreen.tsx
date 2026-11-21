@@ -1,6 +1,6 @@
 import { useAccount, visibleCerts } from '../lib/account';
 import { useEffect, useRef, useState } from 'react';
-import { CORE_LESSONS, LESSONS, UNITS, isEnglish, useContentVersion } from '../data';
+import { CORE_LESSONS, LESSONS, UNITS, isEnglish, levelLabel, useContentVersion } from '../data';
 import { CourseCards } from '../components/CoursePicker';
 import { currentLessonId, isDone as lessonDone, isTestUnlocked, isUnlocked as lessonUnlocked } from '../lib/unlock';
 import type { Lesson } from '../types';
@@ -47,7 +47,7 @@ export default function PathScreen({ onStart, onTest, onMock }: { onStart: (less
   }, [currentId]);
   const goal = p.settings.dailyGoal;
   const txp = todayXp(p);
-  const levels = en ? [] : [...new Set(UNITS.map((u) => u.level ?? 1))];
+  const levels = [...new Set(UNITS.map((u) => u.level ?? 1))];
 
   return (
     <div className="mx-auto max-w-md px-4 pb-2 pt-4" key={course}>
@@ -67,13 +67,13 @@ export default function PathScreen({ onStart, onTest, onMock }: { onStart: (less
         </div>
       </div>
 
-      {!en && (
+      {(
         <button type="button" className="card mb-4 flex w-full items-center gap-3 text-left" onClick={onMock} data-testid="open-mock">
           <span className="flex h-11 w-11 shrink-0 items-center justify-center rounded-xl bg-sun-100 text-sun-600">
             <Trophy size={26} />
           </span>
           <span className="min-w-0 flex-1">
-            <span className="block font-black text-ink-700">Thi thử HSK</span>
+            <span className="block font-black text-ink-700">{en ? 'Thi thử tiếng Anh' : 'Thi thử HSK'}</span>
             <span className="block text-xs font-bold text-ink-400">Đề dài, tính giờ như thi thật · không bắt buộc</span>
           </span>
           <span className="text-xl font-black text-ink-300" aria-hidden>
@@ -92,7 +92,7 @@ export default function PathScreen({ onStart, onTest, onMock }: { onStart: (less
               data-testid={`level-jump-${lv}`}
               onClick={() => document.getElementById(`level-${lv}`)?.scrollIntoView({ behavior: 'smooth', block: 'start' })}
             >
-              HSK {lv}
+              {levelLabel(lv)}
             </button>
           ))}
         </div>
@@ -107,7 +107,7 @@ export default function PathScreen({ onStart, onTest, onMock }: { onStart: (less
           <section key={u.unit} className="mb-8">
             {firstOfLevel && (
               <div id={`level-${level}`} className="mb-4 flex scroll-mt-16 items-center gap-3" data-testid={`level-${level}`}>
-                <span className="rounded-xl bg-ink-700 px-3 py-1 font-black text-white">HSK {level}</span>
+                <span className="rounded-xl bg-ink-700 px-3 py-1 font-black text-white">{levelLabel(level)}</span>
                 <span className="text-sm font-extrabold text-ink-500">
                   {levelLessons.filter((l) => isDone(l)).length}/{levelLessons.length} bài · {levelLessons.reduce((n, l) => n + l.words.length, 0)} từ
                 </span>
@@ -203,7 +203,6 @@ export default function PathScreen({ onStart, onTest, onMock }: { onStart: (less
       <div className="flex flex-col items-center gap-2 pb-4 text-center">
         <Star size={40} />
         <p className="font-extrabold text-ink-400">Hoàn thành {CORE_LESSONS.length} bài để tốt nghiệp!</p>
-        {!en && <p className="text-xs font-bold text-ink-400">HSK 4–6 sẽ được bổ sung ở phiên bản sau.</p>}
       </div>
     </div>
   );

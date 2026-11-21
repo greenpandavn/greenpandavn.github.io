@@ -23,12 +23,12 @@ export interface ContentOverrides {
 
 export const BUNDLED_LESSONS: RawLesson[] = (raw.lessons as RawLesson[]).map((l, i) => ({ ...l, order: (i + 1) * 10 }));
 export const BUNDLED_UNITS: Unit[] = raw.units as Unit[];
-const EN_LESSONS: RawLesson[] = (rawEn.lessons as RawLesson[]).map((l, i) => ({ ...l, order: (i + 1) * 10 }));
-const EN_UNITS: Unit[] = rawEn.units as Unit[];
+export const EN_LESSONS: RawLesson[] = (rawEn.lessons as RawLesson[]).map((l, i) => ({ ...l, order: (i + 1) * 10 }));
+export const EN_UNITS: Unit[] = rawEn.units as Unit[];
 
 export const COURSES: { id: CourseId; label: string; title: string; desc: string; glyph: string }[] = [
-  { id: 'zh', label: 'Tiếng Trung', title: 'Khóa học tiếng Trung HSK 1–3', desc: 'HSK 1 → HSK 3 · chữ Hán, pinyin, luyện nghe nói', glyph: '中' },
-  { id: 'en', label: 'Tiếng Anh', title: 'Khóa học tiếng Anh cho người mới bắt đầu', desc: 'Cơ bản · từ vựng, chính tả, luyện nghe nói', glyph: 'En' },
+  { id: 'zh', label: 'Tiếng Trung', title: `Khóa học tiếng Trung HSK 1–${Math.max(...BUNDLED_UNITS.map((u) => u.level ?? 1))}`, desc: `HSK 1 → HSK ${Math.max(...BUNDLED_UNITS.map((u) => u.level ?? 1))} · chữ Hán, pinyin, luyện nghe nói`, glyph: '中' },
+  { id: 'en', label: 'Tiếng Anh', title: 'Khóa học tiếng Anh cơ bản và trung cấp', desc: 'Cơ bản → Trung cấp · từ vựng, chính tả, luyện nghe nói', glyph: 'En' },
 ];
 const COURSE_KEY = 'gp-course';
 function storedCourse(): CourseId | null {
@@ -67,6 +67,8 @@ export function setCourse(c: CourseId) {
   listeners.forEach((l) => l());
 }
 /** HSK level of a unit (1 when the unit has none, e.g. the English course). */
+/** Name of a level of the active course, e.g. 'HSK 4' or 'Trung cấp'. */
+export const levelLabel = (level: number, c: CourseId = course) => (c === 'en' ? (level === 2 ? 'Trung cấp' : 'Cơ bản') : `HSK ${level}`);
 export const unitLevel = (unit: number) => UNITS.find((u) => u.unit === unit)?.level ?? 1;
 
 // Live bindings: reassigned when admin-managed content arrives from Firestore.
