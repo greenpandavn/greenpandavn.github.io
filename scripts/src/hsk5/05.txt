@@ -102,7 +102,7 @@ a|切|cắt, thái|请/把/西瓜/切/开/。|Hãy bổ quả dưa hấu ra.
 e|亲爱|thân yêu, thân mến|亲爱/的/朋友/，/你/好/！|Bạn thân mến, xin chào!
 e|亲切|thân thiết, ân cần|老师/对/我们/很/亲切/。|Thầy giáo rất ân cần với chúng tôi.
 g|亲自|đích thân, tự mình|经理/亲自/来/接/我们/。|Giám đốc đích thân đến đón chúng tôi.
-a|侵略|xâm lược|我们/反对/侵略/。|Chúng ta phản đối xâm lược.
+a|侵略=qīnlüè|xâm lược|我们/反对/侵略/。|Chúng ta phản đối xâm lược.
 e|勤奋|siêng năng, cần cù|他/学习/很/勤奋/。|Cậu ấy học rất siêng năng.
 e|勤劳|cần cù, chăm chỉ (lao động)|中国/人/很/勤劳/。|Người Trung Quốc rất cần cù.
 d|青|xanh (lá, lam)|山/上/的/草/很/青/。|Cỏ trên núi rất xanh.

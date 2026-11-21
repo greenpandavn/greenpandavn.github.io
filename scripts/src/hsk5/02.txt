@@ -151,7 +151,7 @@ n|鸽子|chim bồ câu|广场/上/有/很多/鸽子/。|Trên quảng trường
 n|隔壁|nhà bên cạnh, phòng bên|他/住/在/我/家/隔壁/。|Anh ấy sống cạnh nhà tôi.
 g|格外|đặc biệt, khác thường|今天/的/天气/格外/好/。|Thời tiết hôm nay đặc biệt đẹp.
 t|革命|cách mạng|这/是/一/场/技术/革命/。|Đây là một cuộc cách mạng kỹ thuật.
-d|个别|cá biệt, riêng lẻ|只/有/个别/学生/没/来/。|Chỉ có vài học sinh cá biệt không đến.
+d|个别|cá biệt, riêng lẻ|只=zhǐ/有/个别/学生/没/来/。|Chỉ có vài học sinh cá biệt không đến.
 p|个人|cá nhân|这/是/我/个人/的/看法/。|Đây là quan điểm cá nhân tôi.
 e|个性|cá tính|她/是/一/个/很/有/个性/的/人/。|Cô ấy là người rất có cá tính.
 g|各自|mỗi người tự, riêng mình|下课/后/大家/各自/回家/了/。|Tan học mọi người ai về nhà nấy.

@@ -19,7 +19,7 @@ w|生产|sản xuất|这/家/工厂/生产/手机/。|Nhà máy này sản xu�
 d|生动|sinh động|老师/讲/得/很/生动/。|Thầy giáo giảng rất sinh động.
 w|声调|thanh điệu|汉语/有/四/个/声调/。|Tiếng Trung có bốn thanh điệu.
 l|绳子|sợi dây thừng|请/用/绳子/把/箱子/捆/好/。|Hãy dùng dây buộc chặt cái hòm lại.
-a|省略|lược bỏ, tỉnh lược|这/个/词/不/能/省略/。|Từ này không thể lược bỏ.
+a|省略=shěnglüè|lược bỏ, tỉnh lược|这/个/词/不/能/省略/。|Từ này không thể lược bỏ.
 t|胜利|thắng lợi|我们/取得/了/胜利/。|Chúng ta đã giành được thắng lợi.
 w|诗|bài thơ|他/会/背/很多/诗/。|Cậu ấy thuộc rất nhiều bài thơ.
 l|失眠|mất ngủ|我/昨天/晚上/失眠/了/。|Tối qua tôi bị mất ngủ.

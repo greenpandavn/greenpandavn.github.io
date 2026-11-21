@@ -41,13 +41,13 @@ t|真理|chân lý|我们/要/坚持/真理/。|Chúng ta phải kiên trì châ
 d|真实|chân thực, có thật|这/是/一/个/真实/的/故事/。|Đây là một câu chuyện có thật.
 g|针对|nhằm vào, đối với|这/本/书/是/针对/孩子/写/的/。|Cuốn sách này viết dành cho trẻ em.
 e|珍惜|trân trọng, quý trọng|我们/要/珍惜/时间/。|Chúng ta phải trân trọng thời gian.
-a|诊断|chẩn đoán|医生/诊断/他/得/了/感冒/。|Bác sĩ chẩn đoán anh ấy bị cảm.
+a|诊断|chẩn đoán|医生/诊断/他/得=dé/了/感冒/。|Bác sĩ chẩn đoán anh ấy bị cảm.
 l|枕头|cái gối|这/个/枕头/很/软/。|Cái gối này rất mềm.
 g|阵|trận, cơn (lượng từ)|外面/下/了/一/阵/雨/。|Bên ngoài vừa có một trận mưa.
 a|振动|rung, chấn động|手机/在/桌子/上/振动/。|Điện thoại đang rung trên bàn.
 a|睁|mở (mắt)|他/睁/开/了/眼睛/。|Anh ấy mở mắt ra.
 a|争论|tranh luận|他们/为/这/个/问题/争论/了/很/久/。|Họ đã tranh luận rất lâu về vấn đề này.
-a|争取|tranh thủ, giành lấy|我/要/争取/得/第一/名/。|Tôi phải cố giành hạng nhất.
+a|争取|tranh thủ, giành lấy|我/要/争取/得=dé/第一/名/。|Tôi phải cố giành hạng nhất.
 a|征求|trưng cầu, xin (ý kiến)|我/想/征求/一下/大家/的/意见/。|Tôi muốn xin ý kiến của mọi người.
 d|整个|toàn bộ, cả|我/整个/下午/都/在/看/书/。|Cả buổi chiều tôi đều đọc sách.
 t|整体|chỉnh thể, tổng thể|我们/要/从/整体/看/问题/。|Chúng ta phải nhìn vấn đề từ tổng thể.

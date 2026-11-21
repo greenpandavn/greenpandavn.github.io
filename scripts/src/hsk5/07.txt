@@ -62,7 +62,7 @@ p|小偷|kẻ trộm|警察/抓/住/了/小偷/。|Cảnh sát đã bắt đư�
 t|效率|hiệu suất|他/工作/的/效率/很/高/。|Hiệu suất làm việc của anh ấy rất cao.
 e|孝顺|hiếu thảo|他/很/孝顺/父母/。|Anh ấy rất hiếu thảo với bố mẹ.
 a|歇|nghỉ, nghỉ ngơi|我们/歇/一会儿=yíhuìr/再/走/吧/。|Chúng ta nghỉ một lát rồi đi tiếp nhé.
-d|斜|nghiêng, xiên|这/棵/树/长/斜/了/。|Cái cây này mọc nghiêng rồi.
+d|斜|nghiêng, xiên|这/棵/树/长=zhǎng/斜/了/。|Cái cây này mọc nghiêng rồi.
 a|协调|điều phối, hài hòa|我们/需要/协调/一下/时间/。|Chúng ta cần điều phối thời gian một chút.
 t|心理|tâm lý|他/的/心理/很/健康/。|Tâm lý của anh ấy rất khỏe mạnh.
 l|心脏|tim|爷爷/的/心脏/不/太/好/。|Tim ông nội không được tốt lắm.

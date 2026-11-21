@@ -35,7 +35,7 @@ t|观点|quan điểm|我/同意/你/的/观点/。|Tôi đồng ý với quan �
 t|观念|quan niệm|年轻/人/的/观念/不/一样/。|Quan niệm của người trẻ không giống.
 l|管子|cái ống|这/根/管子/坏/了/。|Cái ống này hỏng rồi.
 l|罐头|đồ hộp|我/买/了/两/个/鱼/罐头/。|Tôi đã mua hai hộp cá.
-p|冠军|quán quân, nhà vô địch|他/得/了/这/次/比赛/的/冠军/。|Anh ấy giành chức vô địch cuộc thi lần này.
+p|冠军|quán quân, nhà vô địch|他/得=dé/了/这/次/比赛/的/冠军/。|Anh ấy giành chức vô địch cuộc thi lần này.
 d|光滑|nhẵn bóng, trơn|她/的/皮肤/很/光滑/。|Da cô ấy rất mịn màng.
 a|光临|đến dự, ghé thăm (kính ngữ)|欢迎/光临/！|Hoan nghênh quý khách!
 d|光明|sáng sủa, tươi sáng|我们/的/未来/很/光明/。|Tương lai của chúng ta rất tươi sáng.
@@ -52,7 +52,7 @@ n|柜台|quầy|请/到/那个/柜台/付款/。|Xin đến quầy kia thanh to�
 a|滚|lăn; cút|球/滚/到/桌子/下面/了/。|Quả bóng lăn xuống gầm bàn rồi.
 l|锅|cái nồi, cái chảo|锅/里/有/汤/。|Trong nồi có canh.
 p|国籍|quốc tịch|请/写/上/你/的/国籍/。|Xin hãy ghi quốc tịch của bạn.
-g|国庆节|ngày Quốc khánh|国庆节/我们/放/七/天/假/。|Quốc khánh chúng tôi được nghỉ bảy ngày.
+g|国庆节|ngày Quốc khánh|国庆节/我们/放/七/天/假=jià/。|Quốc khánh chúng tôi được nghỉ bảy ngày.
 n|果实|quả, trái; thành quả|树/上/结/了/很多/果实/。|Trên cây kết rất nhiều quả.
 d|过分|quá đáng|你/这样/说/太/过分/了/。|Bạn nói vậy quá đáng quá.
 l|过敏|dị ứng|我/对/花生/过敏/。|Tôi bị dị ứng với lạc.
