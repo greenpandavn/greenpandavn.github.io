@@ -213,7 +213,8 @@ for (const file of EN_FILES.filter((f) => fs.existsSync(path.join(root, 'scripts
       errors.push(`${where}: missing fields`);
       continue;
     }
-    const key = word.toLowerCase();
+    // Proper nouns keep their case so that the month May does not clash with the modal may.
+    const key = /^[A-Z][a-z]/.test(word) ? word : word.toLowerCase();
     if (enSeen.has(key)) errors.push(`${where}: duplicate word ${word}`);
     enSeen.add(key);
     const tokens = sentence.split(/\s+/).flatMap((t) => {
@@ -224,7 +225,7 @@ for (const file of EN_FILES.filter((f) => fs.existsSync(path.join(root, 'scripts
     if (!` ${norm(sentence)} `.includes(` ${norm(word)} `)) errors.push(`${where}: example does not contain "${word}"`);
     if (!/[.?!]$/.test(sentence)) errors.push(`${where}: example has no final punctuation`);
     current.words.push({
-      id: `${current.id}-${key.replace(/[^a-z0-9]+/g, '_')}`,
+      id: `${current.id}-${word.toLowerCase().replace(/[^a-z0-9]+/g, '_')}`,
       hanzi: word,
       pinyin: '',
       vi,

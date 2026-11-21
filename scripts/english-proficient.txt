@@ -379,7 +379,7 @@ dose|liều thuốc|Take one dose after each meal.|Uống một liều sau mỗi
 side effect|tác dụng phụ|This medicine has one common side effect.|Thuốc này có một tác dụng phụ thường gặp.
 allergy|dị ứng|I have an allergy to seafood.|Tôi bị dị ứng hải sản.
 transplant|ca cấy ghép|He needs a heart transplant.|Ông ấy cần ghép tim.
-ward|khu, phòng bệnh|She works in the children's ward.|Cô ấy làm việc ở khu bệnh nhi.
+ward|khu, phòng bệnh|She works in a hospital ward.|Cô ấy làm việc ở một khu trong bệnh viện.
 
 @p28|Triết học|Tồn tại, ý thức, đạo lý, tri thức|Why
 philosophy|triết học|He studies philosophy at university.|Anh ấy học triết học ở đại học.
@@ -406,7 +406,7 @@ personality|nhân cách, cá tính|She has a warm personality.|Cô ấy có tín
 subconscious|tiềm thức|Dreams come from the subconscious mind.|Giấc mơ đến từ tiềm thức.
 empathy|sự đồng cảm|A good nurse shows empathy.|Một y tá giỏi biết đồng cảm.
 obsession|nỗi ám ảnh|Football is his obsession.|Bóng đá là nỗi ám ảnh của anh ấy.
-self-esteem|lòng tự trọng|Praise can build a child's self-esteem.|Lời khen có thể xây dựng lòng tự trọng của trẻ.
+self-esteem|lòng tự trọng|Praise can build self-esteem in children.|Lời khen có thể xây dựng lòng tự trọng ở trẻ.
 cognitive|thuộc nhận thức|Games can improve cognitive skills.|Trò chơi có thể cải thiện kỹ năng nhận thức.
 
 @p30|Xã hội học|Tầng lớp, chuẩn mực, bản sắc, hòa nhập|Soc

@@ -1,0 +1,340 @@
+# Khóa tiếng Anh cho người Việt – trình độ sơ cấp, các phần bổ sung (level 1).
+# Cùng định dạng với english.txt.
+
+%101|1|Phần 5: Thế giới quanh em|Tháng trong năm, trái cây, rau củ, đồ ăn, cơ thể, gia đình, con vật, nhà cửa|grape
+@b01|Các tháng trong năm|Từ tháng Một đến tháng Mười Hai|Jan
+January|tháng Một|My birthday is in January.|Sinh nhật tôi vào tháng Một.
+February|tháng Hai|Tet is often in February.|Tết thường vào tháng Hai.
+March|tháng Ba|It is warm in March.|Tháng Ba trời ấm.
+April|tháng Tư|We travel in April.|Chúng tôi đi du lịch vào tháng Tư.
+May|tháng Năm|School ends in May.|Trường học kết thúc vào tháng Năm.
+June|tháng Sáu|June is very hot.|Tháng Sáu rất nóng.
+July|tháng Bảy|We go to the beach in July.|Chúng tôi đi biển vào tháng Bảy.
+August|tháng Tám|It rains a lot in August.|Tháng Tám mưa nhiều.
+September|tháng Chín|School starts in September.|Trường học bắt đầu vào tháng Chín.
+October|tháng Mười|October is cool.|Tháng Mười mát mẻ.
+November|tháng Mười Một|My sister was born in November.|Em gái tôi sinh vào tháng Mười Một.
+December|tháng Mười Hai|December is cold.|Tháng Mười Hai lạnh.
+
+@b02|Trái cây|Xoài, nho, dưa hấu, dứa, dừa|Fruit
+mango|quả xoài|This mango is yellow.|Quả xoài này màu vàng.
+grape|quả nho|This grape is green.|Quả nho này màu xanh.
+watermelon|quả dưa hấu|We eat watermelon in summer.|Chúng tôi ăn dưa hấu vào mùa hè.
+pineapple|quả dứa|The pineapple is very big.|Quả dứa rất to.
+coconut|quả dừa|I drink coconut water.|Tôi uống nước dừa.
+strawberry|quả dâu tây|The strawberry is red.|Quả dâu tây màu đỏ.
+peach|quả đào|This peach is good.|Quả đào này ngon.
+pear|quả lê|I have a pear in my bag.|Tôi có một quả lê trong túi.
+lemon|quả chanh vàng|I want tea with lemon.|Tôi muốn trà với chanh.
+papaya|quả đu đủ|My mother likes papaya.|Mẹ tôi thích đu đủ.
+cherry|quả anh đào|The cherry is small and red.|Quả anh đào nhỏ và đỏ.
+lime|quả chanh xanh|Put some lime in the soup.|Hãy cho một ít chanh vào súp.
+
+@b03|Rau củ|Khoai tây, cà chua, cà rốt, hành, tỏi|Veg
+potato|khoai tây|I eat a potato for lunch.|Tôi ăn một củ khoai tây vào bữa trưa.
+tomato|cà chua|The tomato is red.|Quả cà chua màu đỏ.
+carrot|cà rốt|The carrot is orange.|Củ cà rốt màu cam.
+onion|củ hành|I do not like onion.|Tôi không thích hành.
+garlic|tỏi|My mother cooks with garlic.|Mẹ tôi nấu ăn với tỏi.
+cucumber|dưa chuột|I want a cucumber salad.|Tôi muốn một đĩa salad dưa chuột.
+cabbage|bắp cải|We eat cabbage soup.|Chúng tôi ăn canh bắp cải.
+mushroom|nấm|This mushroom is big.|Cây nấm này to.
+pumpkin|bí ngô|The pumpkin is orange.|Quả bí ngô màu cam.
+bean|hạt đậu|This bean is black.|Hạt đậu này màu đen.
+peanut|đậu phộng, lạc|The monkey eats a peanut.|Con khỉ ăn một hạt lạc.
+chili|quả ớt|This chili is very hot.|Quả ớt này rất cay.
+
+@b04|Đồ ăn 2|Đường, muối, bơ, mì, thịt lợn, thịt bò|Food
+sugar|đường|I do not want sugar in my coffee.|Tôi không muốn đường trong cà phê.
+salt|muối|The soup needs salt.|Súp cần muối.
+butter|bơ|I eat bread with butter.|Tôi ăn bánh mì với bơ.
+cheese|phô mai|The mouse likes cheese.|Con chuột thích phô mai.
+noodles|mì, bún, phở|I eat noodles for breakfast.|Tôi ăn mì vào bữa sáng.
+pork|thịt lợn|We eat pork and rice.|Chúng tôi ăn thịt lợn với cơm.
+beef|thịt bò|I like beef soup.|Tôi thích súp thịt bò.
+shrimp|con tôm|The shrimp is fresh.|Con tôm tươi.
+crab|con cua|The crab is in the water.|Con cua ở dưới nước.
+sandwich|bánh mì kẹp|I have a sandwich for lunch.|Tôi ăn bánh mì kẹp vào bữa trưa.
+cake|bánh ngọt|This is my birthday cake.|Đây là bánh sinh nhật của tôi.
+candy|kẹo|The boy wants candy.|Cậu bé muốn kẹo.
+
+@b05|Trên bàn ăn|Bát, đĩa, cốc, đũa, hộp, giỏ|Bowl
+bowl|cái bát|I eat a bowl of rice.|Tôi ăn một bát cơm.
+plate|cái đĩa|The fish is on the plate.|Con cá ở trên đĩa.
+cup|cái cốc, tách|I drink a cup of tea.|Tôi uống một tách trà.
+chopsticks|đôi đũa|We eat with chopsticks.|Chúng tôi ăn bằng đũa.
+straw|ống hút; rơm|I drink juice with a straw.|Tôi uống nước ép bằng ống hút.
+napkin|khăn ăn|Can I have a napkin?|Cho tôi xin một cái khăn ăn được không?
+teapot|ấm trà|The teapot is on the table.|Ấm trà ở trên bàn.
+jar|cái lọ, hũ|The candy is in the jar.|Kẹo ở trong lọ.
+basket|cái giỏ|The apples are in the basket.|Táo ở trong giỏ.
+box|cái hộp|What is in the box?|Trong hộp có gì?
+bin|thùng rác|Put the paper in the bin.|Hãy bỏ giấy vào thùng rác.
+tissue|khăn giấy|I need a tissue.|Tôi cần một tờ khăn giấy.
+
+@b06|Cơ thể 2|Cánh tay, cổ, lưng, răng, môi, ngón chân|Arm
+arm|cánh tay|My arm is long.|Cánh tay tôi dài.
+neck|cái cổ|The bird has a long neck.|Con chim có cái cổ dài.
+back|cái lưng; phía sau|My back hurts.|Lưng tôi bị đau.
+teeth|những cái răng|I clean my teeth every day.|Tôi làm sạch răng mỗi ngày.
+lip|môi|Her lip is red.|Môi cô ấy đỏ.
+tongue|cái lưỡi|The dog has a long tongue.|Con chó có cái lưỡi dài.
+toe|ngón chân|My toe is cold.|Ngón chân tôi lạnh.
+elbow|khuỷu tay|My elbow hurts.|Khuỷu tay tôi bị đau.
+thumb|ngón tay cái|This is my thumb.|Đây là ngón tay cái của tôi.
+cheek|cái má|The baby has a red cheek.|Em bé có một bên má đỏ.
+chin|cái cằm|He has a small chin.|Anh ấy có cái cằm nhỏ.
+ankle|mắt cá chân|My left ankle hurts.|Mắt cá chân trái của tôi bị đau.
+
+@b07|Gia đình 2|Chồng, vợ, anh chị em họ, cháu, ông bà|Kin
+husband|chồng|Her husband is a doctor.|Chồng cô ấy là bác sĩ.
+wife|vợ|His wife is a teacher.|Vợ anh ấy là giáo viên.
+cousin|anh chị em họ|My cousin lives in Hue.|Anh họ tôi sống ở Huế.
+nephew|cháu trai|My nephew is five.|Cháu trai tôi năm tuổi.
+niece|cháu gái|My niece likes cats.|Cháu gái tôi thích mèo.
+grandson|cháu trai (của ông bà)|He loves his grandson.|Ông ấy yêu cháu trai của mình.
+granddaughter|cháu gái (của ông bà)|She has one granddaughter.|Bà ấy có một cháu gái.
+grandparents|ông bà|My grandparents live with us.|Ông bà tôi sống với chúng tôi.
+twin|sinh đôi|She is my twin sister.|Cô ấy là chị em sinh đôi của tôi.
+kid|đứa trẻ|The kid is happy.|Đứa trẻ vui vẻ.
+mom|mẹ (thân mật)|My mom cooks dinner.|Mẹ tôi nấu bữa tối.
+dad|bố (thân mật)|My dad drives a bus.|Bố tôi lái xe buýt.
+
+@b08|Con vật 2|Thỏ, ếch, ong, kiến, bướm, sư tử|Zoo
+rabbit|con thỏ|The rabbit is white.|Con thỏ màu trắng.
+frog|con ếch|The frog is green.|Con ếch màu xanh lá.
+bee|con ong|The bee likes flowers.|Con ong thích hoa.
+ant|con kiến|The ant is very small.|Con kiến rất nhỏ.
+butterfly|con bướm|The butterfly is beautiful.|Con bướm đẹp.
+lion|con sư tử|The lion is big.|Con sư tử to.
+turtle|con rùa|The turtle is old.|Con rùa già.
+deer|con hươu|I see a deer in the forest.|Tôi thấy một con hươu trong rừng.
+fox|con cáo|The fox is red.|Con cáo màu đỏ.
+buffalo|con trâu|The buffalo is in the field.|Con trâu ở ngoài đồng.
+goose|con ngỗng|The goose is white.|Con ngỗng màu trắng.
+parrot|con vẹt|My parrot can say hello.|Con vẹt của tôi biết nói xin chào.
+
+@b09|Nhà cửa 2|Phòng khách, sân, ga ra, hàng rào, đồng hồ|Home
+living room|phòng khách|We watch TV in the living room.|Chúng tôi xem ti vi trong phòng khách.
+toilet|nhà vệ sinh|Where is the toilet?|Nhà vệ sinh ở đâu?
+yard|cái sân|The dog is in the yard.|Con chó ở ngoài sân.
+garage|ga ra, nhà để xe|The car is in the garage.|Xe ô tô ở trong ga ra.
+fence|hàng rào|The fence is white.|Hàng rào màu trắng.
+doorbell|chuông cửa|I hear the doorbell.|Tôi nghe thấy chuông cửa.
+carpet|tấm thảm|The cat is on the carpet.|Con mèo ở trên thảm.
+clock|đồng hồ treo tường|The clock is on the wall.|Đồng hồ ở trên tường.
+lock|ổ khóa; khóa|Please lock the door.|Làm ơn khóa cửa.
+wardrobe|tủ quần áo|My clothes are in the wardrobe.|Quần áo của tôi ở trong tủ.
+desk|bàn học, bàn làm việc|My book is on the desk.|Sách của tôi ở trên bàn học.
+bench|ghế dài|We sit on a bench in the park.|Chúng tôi ngồi trên ghế dài trong công viên.
+
+@b10|Trong lớp học|Bảng, phấn, hồ dán, kéo, trang, dòng|Class
+board|cái bảng|Look at the board.|Hãy nhìn lên bảng.
+chalk|phấn viết bảng|The teacher has white chalk.|Giáo viên có phấn trắng.
+crayon|bút sáp màu|I have a red crayon.|Tôi có một cây bút sáp màu đỏ.
+glue|hồ dán, keo|I need some glue.|Tôi cần một ít hồ dán.
+scissors|cái kéo|Where are the scissors?|Cái kéo ở đâu?
+marker|bút dạ|Use a black marker.|Hãy dùng bút dạ đen.
+page|trang|Open your book to page ten.|Hãy mở sách trang mười.
+line|dòng, đường kẻ|Read the first line.|Hãy đọc dòng đầu tiên.
+test|bài kiểm tra|We have a test today.|Hôm nay chúng tôi có bài kiểm tra.
+classroom|phòng học|Our classroom is big.|Phòng học của chúng tôi rộng.
+schoolbag|cặp sách|My schoolbag is blue.|Cặp sách của tôi màu xanh.
+pencil case|hộp bút|My pen is in my pencil case.|Bút của tôi ở trong hộp bút.
+
+@b11|Đồ chơi|Búp bê, diều, bóng bay, xích đu, gấu bông|Toy
+toy|đồ chơi|This is my new toy.|Đây là đồ chơi mới của tôi.
+doll|búp bê|The girl has a doll.|Cô bé có một con búp bê.
+kite|con diều|The kite is in the sky.|Con diều ở trên trời.
+balloon|quả bóng bay|I want a red balloon.|Tôi muốn một quả bóng bay màu đỏ.
+swing|cái xích đu|The girl is on the swing.|Cô bé đang ngồi trên xích đu.
+teddy bear|gấu bông|I sleep with my teddy bear.|Tôi ngủ với gấu bông của mình.
+jump rope|dây nhảy|She has a new jump rope.|Cô bé có một sợi dây nhảy mới.
+dice|xúc xắc|We need dice for this game.|Chúng ta cần xúc xắc cho trò chơi này.
+mask|mặt nạ, khẩu trang|He has a tiger mask.|Cậu bé có một cái mặt nạ hổ.
+marble|viên bi|The boy has a blue marble.|Cậu bé có một viên bi xanh.
+hide and seek|trò chơi trốn tìm|The children play hide and seek.|Bọn trẻ chơi trốn tìm.
+seesaw|cái bập bênh|Two kids are on the seesaw.|Hai đứa trẻ đang chơi bập bênh.
+
+@b12|Nơi chốn trong phố|Siêu thị, tiệm bánh, rạp phim, sở thú, chùa|Town
+supermarket|siêu thị|I buy milk at the supermarket.|Tôi mua sữa ở siêu thị.
+bakery|tiệm bánh|The bakery is next to my house.|Tiệm bánh ở cạnh nhà tôi.
+bookstore|hiệu sách|I buy a book at the bookstore.|Tôi mua một cuốn sách ở hiệu sách.
+cinema|rạp chiếu phim|We go to the cinema on Sunday.|Chúng tôi đi xem phim vào Chủ nhật.
+zoo|sở thú|I see a tiger at the zoo.|Tôi thấy một con hổ ở sở thú.
+pool|hồ bơi|We swim in the pool.|Chúng tôi bơi trong hồ bơi.
+pagoda|ngôi chùa|My grandmother goes to the pagoda.|Bà tôi đi chùa.
+police station|đồn cảnh sát|The police station is near the bank.|Đồn cảnh sát ở gần ngân hàng.
+bus stop|trạm xe buýt|I wait at the bus stop.|Tôi đợi ở trạm xe buýt.
+cafe|quán cà phê|We meet at a cafe.|Chúng tôi gặp nhau ở quán cà phê.
+mall|trung tâm thương mại|The mall is big.|Trung tâm thương mại rất lớn.
+fountain|đài phun nước|There is a fountain in the park.|Có một đài phun nước trong công viên.
+
+%102|1|Phần 6: Từ và câu thông dụng|Phương tiện, thiên nhiên, tính từ, động từ, đại từ, giới từ, số, giờ giấc, chỉ đường|coral
+@b13|Phương tiện 2|Thuyền, xe đạp, trực thăng, phà, lên xe, xuống xe|Boat
+boat|con thuyền|The boat is on the river.|Con thuyền ở trên sông.
+bicycle|xe đạp|I have a red bicycle.|Tôi có một chiếc xe đạp đỏ.
+helicopter|máy bay trực thăng|I see a helicopter in the sky.|Tôi thấy một chiếc trực thăng trên trời.
+ferry|phà|We take the ferry to the island.|Chúng tôi đi phà ra đảo.
+van|xe tải nhỏ|The van is white.|Chiếc xe tải nhỏ màu trắng.
+scooter|xe tay ga|My sister has a scooter.|Chị tôi có một chiếc xe tay ga.
+fly|bay|Birds fly in the sky.|Chim bay trên trời.
+sail|đi thuyền buồm; cánh buồm|We sail on the lake.|Chúng tôi đi thuyền trên hồ.
+stop|dừng lại|The bus will stop here.|Xe buýt sẽ dừng ở đây.
+get on|lên (xe)|We get on the bus at seven.|Chúng tôi lên xe buýt lúc bảy giờ.
+get off|xuống (xe)|I get off at the next station.|Tôi xuống ở ga tiếp theo.
+seat|chỗ ngồi|This seat is free.|Chỗ ngồi này còn trống.
+
+@b14|Thiên nhiên 2|Lá, đá, cát, cầu vồng, băng, lửa|Leaf
+leaf|chiếc lá|The leaf is green.|Chiếc lá màu xanh.
+stone|hòn đá|The stone is small.|Hòn đá nhỏ.
+sand|cát|The sand is hot.|Cát nóng.
+rainbow|cầu vồng|I see a rainbow in the sky.|Tôi thấy cầu vồng trên trời.
+ice|đá lạnh, băng|I want water with ice.|Tôi muốn nước với đá.
+fire|lửa|The fire is hot.|Lửa nóng.
+root|rễ cây|The tree has a long root.|Cái cây có một cái rễ dài.
+shell|vỏ sò, vỏ ốc|I find a shell on the beach.|Tôi nhặt được một cái vỏ sò trên bãi biển.
+mud|bùn|My shoes have mud on them.|Giày của tôi dính bùn.
+hole|cái lỗ, cái hố|There is a hole in my sock.|Có một cái lỗ trên tất của tôi.
+nest|tổ chim|The bird is in its nest.|Con chim ở trong tổ.
+stream|dòng suối|The water in the stream is cold.|Nước trong suối lạnh.
+
+@b15|Tính từ trái nghĩa|Nhanh, chậm, cao, thấp, trẻ, yếu, an toàn|Opp
+fast|nhanh|The train is fast.|Tàu hỏa nhanh.
+slow|chậm|The turtle is slow.|Con rùa chậm.
+high|cao|The mountain is high.|Ngọn núi cao.
+low|thấp|The table is low.|Cái bàn thấp.
+young|trẻ|My teacher is young.|Giáo viên của tôi trẻ.
+weak|yếu|The sick boy is weak.|Cậu bé ốm thì yếu.
+full|đầy; no|The glass is full.|Cái ly đầy.
+wet|ướt|My hair is wet.|Tóc tôi ướt.
+safe|an toàn|This street is safe.|Con phố này an toàn.
+dangerous|nguy hiểm|The tiger is dangerous.|Con hổ nguy hiểm.
+wide|rộng|The river is wide.|Con sông rộng.
+narrow|hẹp|The street is narrow.|Con phố hẹp.
+
+@b16|Tính từ thông dụng|Đẹp, tuyệt, tệ, lạ, nổi tiếng, yêu thích|Nice
+nice|đẹp, dễ chịu, tốt bụng|Your house is nice.|Nhà bạn đẹp.
+great|tuyệt vời|This is a great book.|Đây là một cuốn sách tuyệt vời.
+bad|xấu, tệ|The weather is bad today.|Hôm nay thời tiết xấu.
+wonderful|tuyệt vời|We had a wonderful day.|Chúng tôi đã có một ngày tuyệt vời.
+lovely|đáng yêu|What a lovely baby!|Em bé đáng yêu quá!
+simple|đơn giản|The question is simple.|Câu hỏi đơn giản.
+strange|kỳ lạ|I hear a strange sound.|Tôi nghe thấy một âm thanh lạ.
+special|đặc biệt|Today is a special day.|Hôm nay là một ngày đặc biệt.
+famous|nổi tiếng|He is a famous singer.|Anh ấy là một ca sĩ nổi tiếng.
+popular|phổ biến, được ưa thích|Football is popular in Vietnam.|Bóng đá được ưa thích ở Việt Nam.
+favorite|yêu thích nhất|Blue is my favorite color.|Màu xanh là màu yêu thích của tôi.
+boring|nhàm chán|This movie is boring.|Bộ phim này nhàm chán.
+
+@b17|Động từ hằng ngày 2|Ngồi, đứng, cười, khóc, mang, gửi, tìm|Do
+sit|ngồi|I sit next to my friend.|Tôi ngồi cạnh bạn tôi.
+stand|đứng|We stand in front of the school.|Chúng tôi đứng trước trường.
+laugh|cười|The children laugh a lot.|Bọn trẻ cười rất nhiều.
+cry|khóc|Babies cry at night.|Em bé khóc vào ban đêm.
+bring|mang đến|Please bring your book.|Hãy mang sách của bạn đến.
+send|gửi|I send an email to my teacher.|Tôi gửi email cho giáo viên.
+show|cho xem, chỉ|Show me your photo.|Hãy cho tôi xem ảnh của bạn.
+put|đặt, để|Put the book on the table.|Hãy đặt cuốn sách lên bàn.
+find|tìm thấy|I cannot find my pen.|Tôi không tìm thấy bút của mình.
+keep|giữ|You can keep the pencil.|Bạn có thể giữ cây bút chì.
+use|dùng, sử dụng|I use a computer at school.|Tôi dùng máy tính ở trường.
+forget|quên|Do not forget your bag.|Đừng quên túi của bạn.
+
+@b18|Động từ hằng ngày 3|Đóng, kết thúc, chỉ, gõ, đếm, đánh vần|Act
+shut|đóng lại|Please shut the window.|Làm ơn đóng cửa sổ.
+end|kết thúc|The lessons end at four.|Các tiết học kết thúc lúc bốn giờ.
+pick|hái, nhặt, chọn|We pick apples in the garden.|Chúng tôi hái táo trong vườn.
+point|chỉ (tay)|Point to the door.|Hãy chỉ vào cái cửa.
+knock|gõ cửa|Knock on the door first.|Hãy gõ cửa trước.
+kiss|hôn|I kiss my mother good night.|Tôi hôn chúc mẹ ngủ ngon.
+count|đếm|Can you count to ten?|Bạn có đếm được đến mười không?
+spell|đánh vần|How do you spell your name?|Tên bạn đánh vần như thế nào?
+fill|đổ đầy|Fill the glass with water.|Hãy đổ đầy nước vào ly.
+cover|che, đậy|Cover the food, please.|Làm ơn đậy thức ăn lại.
+join|tham gia|Come and join the game.|Hãy đến tham gia trò chơi.
+build|xây dựng|They build a new house.|Họ xây một ngôi nhà mới.
+
+@b19|Đại từ|Tôi, anh ấy, chúng tôi, mọi người, cái gì đó|Me
+me|tôi (tân ngữ)|Please help me.|Làm ơn giúp tôi.
+him|anh ấy (tân ngữ)|I know him.|Tôi biết anh ấy.
+us|chúng tôi (tân ngữ)|Come with us.|Hãy đi với chúng tôi.
+them|họ, chúng (tân ngữ)|I like them.|Tôi thích họ.
+mine|của tôi|This pen is mine.|Cây bút này là của tôi.
+yours|của bạn|Is this bag yours?|Cái túi này là của bạn phải không?
+everyone|mọi người|Everyone is here.|Mọi người đều ở đây.
+someone|ai đó|Someone is in the room.|Có ai đó trong phòng.
+something|cái gì đó|I want something to eat.|Tôi muốn ăn gì đó.
+nothing|không có gì|There is nothing in the box.|Không có gì trong hộp.
+anything|bất cứ cái gì|Do you want anything?|Bạn có muốn gì không?
+everything|mọi thứ|Everything is ready.|Mọi thứ đã sẵn sàng.
+
+@b20|Giới từ 2|Bên trên, bên dưới, bên trong, bên ngoài, xung quanh|Prep
+above|ở phía trên|The picture is above the bed.|Bức tranh ở phía trên giường.
+below|ở phía dưới|My room is below yours.|Phòng tôi ở dưới phòng bạn.
+inside|bên trong|The cat is inside the box.|Con mèo ở trong hộp.
+outside|bên ngoài|The children play outside.|Bọn trẻ chơi ở bên ngoài.
+around|xung quanh|We sit around the table.|Chúng tôi ngồi quanh bàn.
+through|xuyên qua|We walk through the park.|Chúng tôi đi bộ xuyên qua công viên.
+into|vào trong|She goes into the room.|Cô ấy đi vào phòng.
+over|bên trên, qua|The bird flies over the house.|Con chim bay qua ngôi nhà.
+among|ở giữa (nhiều thứ)|The house is among the trees.|Ngôi nhà nằm giữa những cái cây.
+beside|bên cạnh|Sit beside me.|Hãy ngồi cạnh tôi.
+along|dọc theo|We walk along the river.|Chúng tôi đi bộ dọc bờ sông.
+opposite|đối diện|The bank is opposite the school.|Ngân hàng ở đối diện trường học.
+
+@b21|Số thứ tự và số lớn|Thứ hai, thứ ba, sáu mươi, một triệu|No
+second|thứ hai; giây|This is my second cup of tea.|Đây là tách trà thứ hai của tôi.
+third|thứ ba|I live on the third floor.|Tôi sống ở tầng ba.
+fourth|thứ tư|April is the fourth month.|Tháng Tư là tháng thứ tư.
+fifth|thứ năm|Today is my fifth day here.|Hôm nay là ngày thứ năm của tôi ở đây.
+tenth|thứ mười|October is the tenth month.|Tháng Mười là tháng thứ mười.
+sixty|sáu mươi|My father is sixty.|Bố tôi sáu mươi tuổi.
+seventy|bảy mươi|My grandmother is seventy.|Bà tôi bảy mươi tuổi.
+eighty|tám mươi|The book has eighty pages.|Cuốn sách có tám mươi trang.
+ninety|chín mươi|My grandfather is ninety.|Ông tôi chín mươi tuổi.
+zero|số không|The number starts with zero.|Con số bắt đầu bằng số không.
+million|một triệu|The city has one million people.|Thành phố có một triệu người.
+billion|một tỷ|There are eight billion people in the world.|Có tám tỷ người trên thế giới.
+
+@b22|Giờ giấc|Tối nay, đêm qua, tuần sau, ngay bây giờ|Hour
+tonight|tối nay|I will call you tonight.|Tối nay tôi sẽ gọi cho bạn.
+past|quá, hơn (giờ)|It is ten past six.|Bây giờ là sáu giờ mười.
+weekday|ngày trong tuần|I go to school every weekday.|Tôi đi học mọi ngày trong tuần.
+moment|lát, khoảnh khắc|Wait a moment, please.|Vui lòng đợi một lát.
+last night|tối qua|I watched a movie last night.|Tối qua tôi đã xem một bộ phim.
+next week|tuần sau|We have a test next week.|Tuần sau chúng tôi có bài kiểm tra.
+every day|mỗi ngày|I read books every day.|Tôi đọc sách mỗi ngày.
+right now|ngay bây giờ|I am busy right now.|Ngay bây giờ tôi đang bận.
+a long time|một thời gian dài|I waited for a long time.|Tôi đã đợi một thời gian dài.
+at night|vào ban đêm|It is cold at night.|Ban đêm trời lạnh.
+the day after tomorrow|ngày kia|I will see you the day after tomorrow.|Tôi sẽ gặp bạn vào ngày kia.
+half past|rưỡi (giờ)|It is half past seven.|Bây giờ là bảy giờ rưỡi.
+
+@b23|Chỉ đường|Đi thẳng, rẽ trái, rẽ phải, bên trái, lối vào|Way
+east|phía đông|The sun comes up in the east.|Mặt trời mọc ở phía đông.
+west|phía tây|The sun goes down in the west.|Mặt trời lặn ở phía tây.
+go straight|đi thẳng|Go straight for two minutes.|Hãy đi thẳng hai phút.
+turn left|rẽ trái|Turn left at the bank.|Hãy rẽ trái ở ngân hàng.
+turn right|rẽ phải|Turn right at the school.|Hãy rẽ phải ở trường học.
+go past|đi qua|Go past the hospital.|Hãy đi qua bệnh viện.
+on the left|ở bên trái|The shop is on the left.|Cửa hàng ở bên trái.
+on the right|ở bên phải|My house is on the right.|Nhà tôi ở bên phải.
+at the end of|ở cuối|The park is at the end of the street.|Công viên ở cuối phố.
+way|đường đi, cách|Is this the way to the station?|Đây có phải đường đến nhà ga không?
+nearby|gần đây|Is there a bank nearby?|Gần đây có ngân hàng không?
+entrance|lối vào|The entrance is over there.|Lối vào ở đằng kia.
+
+@b24|Lời nói lịch sự|Không có gì, chúc may mắn, chúc mừng sinh nhật|Hi
+you are welcome|không có gì|Thank you. You are welcome.|Cảm ơn bạn. Không có gì.
+no problem|không sao, không vấn đề gì|No problem, I can help you.|Không sao, tôi có thể giúp bạn.
+see you later|hẹn gặp lại sau|Goodbye, see you later.|Tạm biệt, hẹn gặp lại sau.
+good luck|chúc may mắn|Good luck with your test.|Chúc bạn làm bài kiểm tra may mắn.
+well done|làm tốt lắm|Well done, your answer is right.|Làm tốt lắm, câu trả lời của bạn đúng rồi.
+congratulations|xin chúc mừng|Congratulations on your new job.|Chúc mừng bạn có công việc mới.
+happy birthday|chúc mừng sinh nhật|Happy birthday, my friend.|Chúc mừng sinh nhật, bạn của tôi.
+good night|chúc ngủ ngon|Good night, mom.|Chúc mẹ ngủ ngon.
+nice to meet you|rất vui được gặp bạn|Hello, nice to meet you.|Xin chào, rất vui được gặp bạn.
+take your time|cứ từ từ|Take your time, we are not late.|Cứ từ từ, chúng ta không muộn đâu.
+never mind|không sao đâu, đừng bận tâm|Never mind, I will do it.|Không sao đâu, tôi sẽ làm.
+have a nice day|chúc một ngày tốt lành|Thank you, have a nice day.|Cảm ơn, chúc một ngày tốt lành.

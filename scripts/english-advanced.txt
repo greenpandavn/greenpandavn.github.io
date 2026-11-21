@@ -194,7 +194,7 @@ get along|hòa thuận|I get along well with my sister.|Tôi rất hòa thuận 
 look forward to|mong chờ|I look forward to your reply.|Tôi mong chờ câu trả lời của bạn.
 come back|quay lại|When will you come back home?|Khi nào bạn sẽ về nhà?
 break down|hỏng, suy sụp|Old cars often break down.|Xe cũ thường hay bị hỏng.
-check in|làm thủ tục nhận phòng, lên máy bay|We can check in after two o'clock.|Chúng ta có thể nhận phòng sau hai giờ.
+check in|làm thủ tục nhận phòng, lên máy bay|We can check in after two in the afternoon.|Chúng ta có thể nhận phòng sau hai giờ chiều.
 hand in|nộp|Please hand in your homework now.|Hãy nộp bài tập về nhà ngay bây giờ.
 work out|tập thể dục, tìm ra cách|I work out at the gym twice a week.|Tôi tập ở phòng gym hai lần một tuần.
 
