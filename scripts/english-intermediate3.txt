@@ -176,10 +176,180 @@ maiden|(tên) thời con gái|Her maiden name is Tran.|Họ thời con gái củ
 initials|chữ cái đầu của họ tên|Write your initials at the bottom.|Hãy ghi các chữ cái đầu của họ tên bạn ở cuối trang.
 spouse|vợ hoặc chồng|You may bring your spouse to the party.|Bạn có thể đưa vợ hoặc chồng đến bữa tiệc.
 sibling|anh, chị, em ruột|I have one sibling, an older sister.|Tôi có một người chị ruột.
-in-law|người thân bên vợ hoặc chồng|My mother in-law is visiting us.|Mẹ chồng tôi đang đến thăm chúng tôi.
+in-law|người thân bên vợ hoặc chồng|My mother-in-law is visiting us.|Mẹ chồng tôi đang đến thăm chúng tôi.
 stepfather|bố dượng|Her stepfather taught her to drive.|Bố dượng dạy cô ấy lái xe.
 stepmother|mẹ kế|He gets on well with his stepmother.|Anh ấy hòa thuận với mẹ kế.
 godmother|mẹ đỡ đầu|My godmother sends me a card every year.|Mẹ đỡ đầu gửi thiệp cho tôi hằng năm.
 reunion|buổi họp mặt|We have a family reunion every summer.|Chúng tôi họp mặt gia đình mỗi mùa hè.
 gathering|buổi tụ họp|It was a small gathering of friends.|Đó là một buổi tụ họp bạn bè nho nhỏ.
 outing|chuyến đi chơi|The class went on an outing to the zoo.|Cả lớp đi chơi sở thú.
+
+
+%205|2|Phần 13: Sức khỏe, công nghệ và giao tiếp|Chăm con, ốm đau, mạng xã hội, máy tính, ăn uống, trạng từ|leaf
+@n14|Chăm sóc em bé|Trẻ mới biết đi, xe đẩy, tã, cũi, bài hát ru|Baby
+toddler|trẻ mới biết đi|The toddler is learning to talk.|Đứa trẻ mới biết đi đang tập nói.
+infant|trẻ sơ sinh|An infant needs a lot of sleep.|Trẻ sơ sinh cần ngủ rất nhiều.
+nanny|bảo mẫu|The nanny picks the kids up from school.|Bảo mẫu đón bọn trẻ ở trường.
+babysitter|người trông trẻ|We need a babysitter for Saturday night.|Chúng tôi cần người trông trẻ vào tối thứ Bảy.
+stroller|xe đẩy em bé|The baby fell asleep in the stroller.|Em bé ngủ thiếp đi trong xe đẩy.
+diaper|tã, bỉm|It is time to change the diaper.|Đến lúc thay tã rồi.
+pacifier|núm vú giả|The baby dropped her pacifier.|Em bé làm rơi núm vú giả.
+crib|cũi trẻ em|The baby sleeps in a crib.|Em bé ngủ trong cũi.
+playpen|quây chơi của trẻ|Put the toys in the playpen.|Hãy bỏ đồ chơi vào trong quây.
+lullaby|bài hát ru|She sings a lullaby every night.|Tối nào cô ấy cũng hát một bài ru.
+bedtime|giờ đi ngủ|Bedtime is at eight on school nights.|Giờ đi ngủ là tám giờ vào những tối trước ngày đi học.
+sleepover|buổi ngủ lại nhà bạn|My daughter is at a sleepover tonight.|Tối nay con gái tôi ngủ lại nhà bạn.
+
+@n15|Chấn thương và triệu chứng|Phát ban, phồng rộp, bong gân, buồn nôn, sẹo|Hurt
+rash|chứng phát ban|The baby has a rash on her face.|Em bé bị phát ban trên mặt.
+blister|vết phồng rộp|New shoes gave me a blister.|Đôi giày mới làm chân tôi phồng rộp.
+sprain|bong gân|A sprain needs rest and ice.|Bong gân cần nghỉ ngơi và chườm đá.
+cramp|chuột rút|I got a cramp in my leg while swimming.|Tôi bị chuột rút ở chân khi đang bơi.
+nausea|cảm giác buồn nôn|The medicine can cause nausea.|Thuốc này có thể gây buồn nôn.
+vomit|nôn|The smell made me want to vomit.|Mùi đó khiến tôi muốn nôn.
+diarrhea|tiêu chảy|Drink a lot of water if you have diarrhea.|Hãy uống nhiều nước nếu bạn bị tiêu chảy.
+scratch|vết xước; gãi, cào|It is only a scratch.|Chỉ là một vết xước thôi.
+scar|vết sẹo|He has a scar on his chin.|Anh ấy có một vết sẹo ở cằm.
+swelling|chỗ sưng|Ice will bring the swelling down.|Đá lạnh sẽ làm giảm sưng.
+stitches|các mũi khâu|She needed five stitches in her hand.|Cô ấy phải khâu năm mũi ở tay.
+cast|bột bó (xương gãy); dàn diễn viên|His arm is in a cast.|Tay anh ấy đang bó bột.
+
+@n16|Đi khám bệnh|Khám tổng quát, chụp X-quang, dược sĩ, niềng răng|Clinic
+checkup|buổi khám sức khỏe tổng quát|I have a checkup once a year.|Tôi khám sức khỏe mỗi năm một lần.
+x-ray|ảnh chụp X-quang; chụp X-quang|The x-ray shows a broken bone.|Ảnh chụp X-quang cho thấy một chiếc xương gãy.
+scan|chụp cắt lớp; quét|The doctor ordered a scan of his chest.|Bác sĩ yêu cầu chụp cắt lớp ngực của ông ấy.
+specialist|bác sĩ chuyên khoa, chuyên gia|You should see a skin specialist.|Bạn nên đi khám bác sĩ chuyên khoa da liễu.
+pharmacist|dược sĩ|Ask the pharmacist how to take it.|Hãy hỏi dược sĩ cách dùng.
+painkiller|thuốc giảm đau|I took a painkiller for my headache.|Tôi uống một viên thuốc giảm đau để chữa đau đầu.
+splint|nẹp cố định|The nurse put a splint on his finger.|Y tá đặt nẹp cho ngón tay anh ấy.
+plaster|băng dán cá nhân; thạch cao|Put a plaster on that cut.|Hãy dán băng cá nhân lên vết cắt đó.
+ache|cơn đau âm ỉ; đau nhức|I have an ache in my lower back.|Tôi bị đau âm ỉ ở thắt lưng.
+hiccup|cơn nấc; nấc|Hold your breath to stop a hiccup.|Hãy nín thở để hết nấc.
+filling|miếng trám răng; nhân bánh|The dentist gave me a filling.|Nha sĩ trám cho tôi một chiếc răng.
+braces|niềng răng|My son has to wear braces for two years.|Con trai tôi phải đeo niềng răng hai năm.
+
+@n17|Mạng xã hội|Đăng nhập, thông báo, người theo dõi, đăng ký kênh|Online
+login|việc đăng nhập, thông tin đăng nhập|Enter your login and password.|Hãy nhập tên đăng nhập và mật khẩu.
+browser|trình duyệt|Open the link in your browser.|Hãy mở đường liên kết trong trình duyệt.
+notification|thông báo|I got a notification about your message.|Tôi nhận được thông báo về tin nhắn của bạn.
+emoji|biểu tượng cảm xúc|She ended the message with a smiling emoji.|Cô ấy kết thúc tin nhắn bằng một biểu tượng mặt cười.
+hashtag|thẻ hashtag|Add a hashtag to your post.|Hãy thêm một hashtag vào bài đăng của bạn.
+follower|người theo dõi|Her first follower was her mother.|Người theo dõi đầu tiên của cô ấy là mẹ cô.
+influencer|người có ảnh hưởng trên mạng|He works as a travel influencer.|Anh ấy làm người có ảnh hưởng về du lịch.
+vlog|nhật ký video|She makes a vlog about cooking.|Cô ấy làm vlog về nấu ăn.
+podcast|podcast, chương trình âm thanh|I listen to a podcast on the bus.|Tôi nghe podcast trên xe buýt.
+livestream|buổi phát trực tiếp; phát trực tiếp|The livestream starts at eight.|Buổi phát trực tiếp bắt đầu lúc tám giờ.
+playlist|danh sách phát|I made a playlist for the party.|Tôi tạo một danh sách phát cho bữa tiệc.
+subscribe|đăng ký (kênh, dịch vụ)|Subscribe to the channel for new videos.|Hãy đăng ký kênh để xem video mới.
+
+@n18|Thiết bị và thao tác|Tai nghe, bộ phát wifi, vuốt, kéo, dán|Device
+headset|tai nghe có micro|I use a headset for online meetings.|Tôi dùng tai nghe có micro cho các cuộc họp trực tuyến.
+earbuds|tai nghe nhét tai|I left my earbuds on the train.|Tôi để quên tai nghe trên tàu.
+webcam|webcam|Please turn on your webcam.|Vui lòng bật webcam của bạn.
+scanner|máy quét|The office has a new scanner.|Văn phòng có một máy quét mới.
+router|bộ phát wifi, bộ định tuyến|Try turning the router off and on.|Hãy thử tắt rồi bật lại bộ phát wifi.
+swipe|vuốt (màn hình)|Swipe left to delete the message.|Hãy vuốt sang trái để xóa tin nhắn.
+drag|kéo|Drag the file into this folder.|Hãy kéo tệp vào thư mục này.
+paste|dán|Copy the text and paste it here.|Hãy sao chép đoạn văn bản và dán vào đây.
+unsubscribe|hủy đăng ký|Click here to unsubscribe from our emails.|Hãy nhấp vào đây để hủy đăng ký nhận thư của chúng tôi.
+screenshot|ảnh chụp màn hình|Send me a screenshot of the error.|Hãy gửi tôi ảnh chụp màn hình của lỗi.
+attachment|tệp đính kèm|I cannot open the attachment.|Tôi không mở được tệp đính kèm.
+inbox|hộp thư đến|My inbox is full of ads.|Hộp thư đến của tôi đầy quảng cáo.
+
+@n19|Thời tiết 3|Giông, bão, lốc xoáy, oi ẩm, se lạnh|Storm
+thunderstorm|cơn giông|A thunderstorm woke me up last night.|Đêm qua một cơn giông làm tôi thức giấc.
+typhoon|bão nhiệt đới|The typhoon will reach the coast tomorrow.|Cơn bão sẽ đến bờ biển vào ngày mai.
+tornado|lốc xoáy|The tornado destroyed several houses.|Cơn lốc xoáy phá hủy vài ngôi nhà.
+tsunami|sóng thần|People ran to the hills after the tsunami warning.|Mọi người chạy lên đồi sau cảnh báo sóng thần.
+chilly|se lạnh|It gets chilly in the evening.|Buổi tối trời se lạnh.
+mild|ôn hòa, nhẹ|We had a mild winter this year.|Năm nay chúng tôi có một mùa đông ôn hòa.
+humid|ẩm, oi ẩm|Summer in Hanoi is hot and humid.|Mùa hè ở Hà Nội nóng và oi ẩm.
+damp|ẩm ướt|The towels are still damp.|Khăn tắm vẫn còn ẩm.
+breezy|có gió nhẹ|It is cool and breezy by the river.|Bên sông trời mát và có gió nhẹ.
+boiling|nóng như thiêu; đang sôi|It is boiling in this room.|Trong phòng này nóng như thiêu.
+scorching|nóng cháy da|We stayed inside on that scorching afternoon.|Chúng tôi ở trong nhà vào buổi chiều nóng cháy da đó.
+drizzly|có mưa phùn|It was a gray, drizzly morning.|Đó là một buổi sáng xám xịt có mưa phùn.
+
+@n20|Máy tính trục trặc|Khởi động lại, treo máy, lỗi, biểu tượng, phím tắt|Bug
+storage|dung lượng lưu trữ; kho chứa|My phone has no storage left.|Điện thoại của tôi hết dung lượng lưu trữ rồi.
+reboot|khởi động lại (máy)|Reboot the computer and try again.|Hãy khởi động lại máy tính rồi thử lại.
+restart|khởi động lại, bắt đầu lại|You have to restart the app.|Bạn phải khởi động lại ứng dụng.
+shutdown|việc tắt máy; việc đóng cửa|Save your work before shutdown.|Hãy lưu công việc trước khi tắt máy.
+crash|bị treo, bị sập; vụ va chạm|The game may crash on old phones.|Trò chơi có thể bị sập trên điện thoại cũ.
+glitch|trục trặc nhỏ|A glitch stopped the video.|Một trục trặc nhỏ làm video dừng lại.
+bug|lỗi phần mềm; con bọ|The new version fixes this bug.|Phiên bản mới sửa lỗi này.
+pop-up|cửa sổ bật lên|Close the pop-up to continue.|Hãy đóng cửa sổ bật lên để tiếp tục.
+icon|biểu tượng|Tap the blue icon to open the app.|Hãy chạm vào biểu tượng màu xanh để mở ứng dụng.
+cursor|con trỏ chuột|Move the cursor over the picture.|Hãy di con trỏ lên bức hình.
+shortcut|lối tắt, phím tắt|There is a shortcut on the desktop screen.|Có một lối tắt trên màn hình chính.
+mute|tắt tiếng|Please mute your microphone.|Vui lòng tắt tiếng micro của bạn.
+
+@n21|Đám cưới|Đính hôn, tuần trăng mật, cô dâu, chú rể, phù dâu|Wedding
+engagement|sự đính hôn|They announced their engagement last week.|Họ thông báo đính hôn vào tuần trước.
+honeymoon|tuần trăng mật|They went to Da Lat for their honeymoon.|Họ đi Đà Lạt hưởng tuần trăng mật.
+bride|cô dâu|The bride wore a white dress.|Cô dâu mặc váy trắng.
+groom|chú rể|The groom looked very nervous.|Chú rể trông rất hồi hộp.
+reception|tiệc chiêu đãi; quầy lễ tân|The reception is at a hotel by the river.|Tiệc cưới được tổ chức ở một khách sạn bên sông.
+veil|khăn voan|Her veil was two meters long.|Khăn voan của cô ấy dài hai mét.
+bouquet|bó hoa|She carried a bouquet of roses.|Cô ấy cầm một bó hoa hồng.
+vows|lời thề (hôn nhân)|They wrote their own vows.|Họ tự viết lời thề của mình.
+bridesmaid|phù dâu|Her best friend was her bridesmaid.|Bạn thân nhất của cô ấy làm phù dâu.
+fiancee|vợ chưa cưới|He introduced his fiancee to his parents.|Anh ấy giới thiệu vợ chưa cưới với bố mẹ.
+newlywed|người mới cưới; mới cưới|The newlywed couple moved to Hue.|Cặp vợ chồng mới cưới chuyển đến Huế.
+in-laws|gia đình bên vợ, bên chồng|We visit my in-laws at Tet.|Chúng tôi về thăm gia đình bên chồng vào dịp Tết.
+
+@n22|Ăn ở ngoài|Đồ ăn thừa, mang về, tiệc tự chọn, bữa xế|Eat
+leftover|đồ ăn thừa; còn thừa|We ate leftover rice for lunch.|Chúng tôi ăn cơm thừa vào bữa trưa.
+takeaway|đồ ăn mang về|Let's get a takeaway tonight.|Tối nay mình mua đồ ăn mang về đi.
+starter|món khai vị|I had soup as a starter.|Tôi ăn súp làm món khai vị.
+beverage|đồ uống|A beverage is included in the price.|Giá đã bao gồm một đồ uống.
+vegan|người ăn thuần chay; thuần chay|Do you have a vegan menu?|Quán có thực đơn thuần chay không?
+seasoning|gia vị|This soup needs more seasoning.|Món súp này cần thêm gia vị.
+buffet|tiệc tự chọn|The hotel offers a breakfast buffet.|Khách sạn phục vụ bữa sáng tự chọn.
+brunch|bữa nửa buổi (sáng gộp trưa)|We meet for brunch on Sundays.|Chúng tôi gặp nhau ăn bữa nửa buổi vào Chủ nhật.
+supper|bữa tối nhẹ|We had a light supper at home.|Chúng tôi ăn tối nhẹ ở nhà.
+refill|việc rót thêm; đổ đầy lại|Would you like a refill?|Bạn có muốn rót thêm không?
+waitress|nữ phục vụ bàn|The waitress brought the menu.|Cô phục vụ mang thực đơn ra.
+serving|khẩu phần, suất ăn|One serving is enough for me.|Một suất là đủ cho tôi.
+
+@n23|Trạng từ tần suất và mức độ|Hiếm khi, thỉnh thoảng, liên tục, gần đây|Often
+rarely|hiếm khi|I rarely eat meat.|Tôi hiếm khi ăn thịt.
+seldom|ít khi|He seldom calls his parents.|Anh ấy ít khi gọi cho bố mẹ.
+occasionally|thỉnh thoảng|We occasionally go to the theater.|Thỉnh thoảng chúng tôi đi xem kịch.
+frequently|thường xuyên|Buses run frequently in the morning.|Buổi sáng xe buýt chạy thường xuyên.
+constantly|liên tục|My phone rings constantly.|Điện thoại của tôi reo liên tục.
+recently|gần đây|I recently changed jobs.|Gần đây tôi đã đổi việc.
+lately|dạo này|I have been very tired lately.|Dạo này tôi rất mệt.
+barely|vừa đủ, hầu như không|I could barely hear him.|Tôi hầu như không nghe được anh ấy.
+mostly|chủ yếu, phần lớn|The guests were mostly students.|Khách phần lớn là sinh viên.
+partly|một phần|It is partly my fault.|Đó một phần là lỗi của tôi.
+totally|hoàn toàn|I totally forgot about the meeting.|Tôi hoàn toàn quên mất cuộc họp.
+regularly|đều đặn|She exercises regularly.|Cô ấy tập thể dục đều đặn.
+
+@n24|Trạng từ trong hội thoại|Thật ra, nhìn chung, dù sao, ngày nay|Talk
+basically|về cơ bản|The two phones are basically the same.|Hai chiếc điện thoại về cơ bản là giống nhau.
+actually|thật ra|I actually like the old design more.|Thật ra tôi thích thiết kế cũ hơn.
+generally|nhìn chung|People here are generally friendly.|Người ở đây nhìn chung thân thiện.
+normally|thông thường|I normally get up at six.|Thông thường tôi dậy lúc sáu giờ.
+typically|thường thì, điển hình là|A lesson typically lasts ten minutes.|Một bài học thường kéo dài mười phút.
+besides|ngoài ra, hơn nữa|It is too late, and besides, I am tired.|Muộn quá rồi, hơn nữa tôi cũng mệt.
+anyway|dù sao đi nữa|It rained, but we went anyway.|Trời mưa nhưng dù sao chúng tôi vẫn đi.
+beforehand|trước đó, từ trước|Please tell me beforehand if you cannot come.|Vui lòng báo trước cho tôi nếu bạn không đến được.
+nowadays|ngày nay|Nowadays most people shop online.|Ngày nay hầu hết mọi người mua sắm trực tuyến.
+forever|mãi mãi|Nothing lasts forever.|Không có gì kéo dài mãi mãi.
+anymore|nữa (không còn nữa)|She does not live here anymore.|Cô ấy không còn sống ở đây nữa.
+somehow|bằng cách nào đó|We will finish it somehow.|Bằng cách nào đó chúng tôi sẽ làm xong.
+
+@n25|Bạn bè và tính nết|Bạn thân, người quen, đồng đội, lời khen|Friend
+buddy|bạn thân, anh bạn|He is my buddy from school.|Cậu ấy là bạn thân của tôi từ hồi đi học.
+mate|bạn (thân mật)|I went fishing with a mate from work.|Tôi đi câu cá với một người bạn ở chỗ làm.
+pal|bạn (thân mật)|She is an old pal of mine.|Cô ấy là bạn cũ của tôi.
+acquaintance|người quen|He is an acquaintance, not a close friend.|Anh ấy là người quen, không phải bạn thân.
+teammate|đồng đội|My teammate passed me the ball.|Đồng đội chuyền bóng cho tôi.
+companion|bạn đồng hành|A dog is a good companion.|Chó là một người bạn đồng hành tốt.
+compliment|lời khen; khen|Thank you for the compliment.|Cảm ơn bạn vì lời khen.
+bossy|hách dịch, thích ra lệnh|My older sister is a bit bossy.|Chị tôi hơi thích ra lệnh.
+easygoing|dễ tính|Our new teacher is very easygoing.|Giáo viên mới của chúng tôi rất dễ tính.
+sensible|biết điều, hợp lý|That is a sensible idea.|Đó là một ý kiến hợp lý.
+upstairs|trên gác, tầng trên|My friend lives upstairs.|Bạn tôi sống ở tầng trên.
+downstairs|dưới nhà, tầng dưới|The kids are playing downstairs.|Bọn trẻ đang chơi dưới nhà.
