@@ -4,7 +4,7 @@ export default {
   theme: {
     extend: {
       fontFamily: {
-        sans: ['"Nunito"', 'system-ui', '-apple-system', 'Segoe UI', 'Roboto', 'sans-serif'],
+        sans: ['"Nunito"', '"Noto Sans SC"', 'system-ui', '-apple-system', 'Segoe UI', 'Roboto', 'sans-serif'],
         han: ['"Noto Sans SC"', '"PingFang SC"', '"Microsoft YaHei"', 'sans-serif'],
       },
       colors: {

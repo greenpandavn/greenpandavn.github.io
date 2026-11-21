@@ -45,7 +45,10 @@ export function speak(text: string, opts: { slow?: boolean; onEnd?: () => void }
   if (zhVoice) u.voice = zhVoice;
   u.rate = opts.slow ? Math.max(0.4, rate - 0.35) : rate;
   u.onend = () => opts.onEnd?.();
-  u.onerror = () => opts.onEnd?.();
+  u.onerror = (e) => {
+    opts.onEnd?.();
+    if (e.error !== 'interrupted' && e.error !== 'canceled') window.dispatchEvent(new CustomEvent('tts-error'));
+  };
   // Chrome sometimes drops an utterance issued right after cancel()
   setTimeout(() => synth.speak(u), 30);
 }

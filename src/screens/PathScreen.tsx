@@ -66,7 +66,7 @@ export default function PathScreen({ onStart }: { onStart: (lessonId: string) =>
                 const current = l.id === currentId;
                 const off = OFFSETS[(i + u.unit * 2) % OFFSETS.length];
                 return (
-                  <div key={l.id} className="relative flex flex-col items-center" style={{ transform: `translateX(${off}px)` }}>
+                  <div key={l.id} className={`relative flex flex-col items-center ${open === l.id ? 'z-30' : 'z-0'}`} style={{ transform: `translateX(${off}px)` }}>
                     {current && (
                       <div className="absolute -top-9 z-10 animate-bounceSoft whitespace-nowrap rounded-xl border-2 border-cloud bg-white px-3 py-1 text-sm font-black uppercase text-leaf-600">
                         Bắt đầu

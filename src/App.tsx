@@ -20,6 +20,23 @@ export default function App() {
   const [session, setSession] = useState<SessionMode | null>(null);
   const p = useProgress();
 
+  const [ttsError, setTtsError] = useState(false);
+  useEffect(() => {
+    let t: ReturnType<typeof setTimeout>;
+    const onErr = () => {
+      setTtsError(true);
+      clearTimeout(t);
+      t = setTimeout(() => setTtsError(false), 5000);
+    };
+    window.addEventListener('tts-error', onErr);
+    return () => window.removeEventListener('tts-error', onErr);
+  }, []);
+  const toast = ttsError && (
+    <div role="alert" className="fixed inset-x-3 top-3 z-[60] mx-auto max-w-md animate-pop rounded-2xl bg-ink-700 px-4 py-3 text-sm font-bold text-white shadow-lg">
+      Không phát được âm thanh: thiết bị chưa có giọng đọc tiếng Trung. Hãy cài giọng “Chinese (China)” trong cài đặt hệ thống, hoặc dùng Chrome/Safari/Edge.
+    </div>
+  );
+
   useEffect(() => {
     const onHash = () => setTab(tabFromHash());
     window.addEventListener('hashchange', onHash);
@@ -34,7 +51,9 @@ export default function App() {
 
   if (session)
     return (
-      <LessonScreen
+      <>
+        {toast}
+        <LessonScreen
         key={JSON.stringify(session)}
         mode={session}
         onExit={() => {
@@ -42,10 +61,12 @@ export default function App() {
           window.scrollTo(0, 0);
         }}
       />
+      </>
     );
 
   return (
     <div className="min-h-[100dvh] bg-white">
+      {toast}
       <TopBar />
       {tab === 'learn' && <PathScreen onStart={(id) => setSession({ type: 'lesson', lessonId: id })} />}
       {tab === 'review' && <ReviewScreen onStart={() => setSession({ type: 'review' })} />}

@@ -40,7 +40,13 @@ export default function ReviewScreen({ onStart }: { onStart: () => void }) {
               const wp = p.words[w.id];
               return (
                 <li key={w.id}>
-                  <button type="button" onClick={() => setSheet(w)} className="card flex w-full items-center gap-3 !py-3 text-left">
+                  <div
+                    role="button"
+                    tabIndex={0}
+                    onClick={() => setSheet(w)}
+                    onKeyDown={(e) => e.key === 'Enter' && setSheet(w)}
+                    className="card flex w-full cursor-pointer items-center gap-3 !py-3 text-left"
+                  >
                     <span className="w-16 shrink-0 font-han text-2xl">{w.hanzi}</span>
                     <span className="min-w-0 flex-1">
                       <span className="block font-extrabold text-sky-600">{w.pinyin}</span>
@@ -57,7 +63,7 @@ export default function ReviewScreen({ onStart }: { onStart: () => void }) {
                       </span>
                     </span>
                     <SpeakerButton text={w.hanzi} size="sm" />
-                  </button>
+                  </div>
                 </li>
               );
             })}
