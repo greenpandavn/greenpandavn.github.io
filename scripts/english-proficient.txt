@@ -1,0 +1,452 @@
+# Khóa tiếng Anh cho người Việt – trình độ thành thạo (level 4).
+# Cùng định dạng với english.txt.
+
+%401|4|Phần 1: Học thuật và nghề nghiệp|Lập luận, thống kê, quản trị, khởi nghiệp, đạo đức nghề nghiệp|leaf
+@p01|Viết học thuật|Luận điểm, trích dẫn, tóm tắt, tài liệu tham khảo|Essay
+thesis|luận văn, luận điểm chính|She is writing her thesis on climate change.|Cô ấy đang viết luận văn về biến đổi khí hậu.
+abstract|bản tóm tắt; trừu tượng|The abstract is only two hundred words.|Bản tóm tắt chỉ có hai trăm từ.
+citation|trích dẫn nguồn|Every citation must include the year.|Mọi trích dẫn phải ghi năm.
+reference|tài liệu tham khảo, sự nhắc đến|Add this book to your reference list.|Hãy thêm cuốn sách này vào danh mục tài liệu tham khảo.
+summarize|tóm tắt|Please summarize the article in five sentences.|Hãy tóm tắt bài báo trong năm câu.
+paraphrase|diễn đạt lại|Try to paraphrase the sentence in your own words.|Hãy thử diễn đạt lại câu đó bằng lời của bạn.
+draft|bản nháp|This is only the first draft.|Đây mới chỉ là bản nháp đầu tiên.
+revise|sửa lại, ôn lại|You should revise your essay before Friday.|Bạn nên sửa lại bài luận trước thứ Sáu.
+outline|dàn ý, phác thảo|Write an outline before you start.|Hãy viết dàn ý trước khi bắt đầu.
+plagiarism|đạo văn|Plagiarism is a serious problem at universities.|Đạo văn là một vấn đề nghiêm trọng ở các trường đại học.
+paragraph|đoạn văn|Each paragraph needs one main idea.|Mỗi đoạn văn cần một ý chính.
+conclusion|kết luận|The conclusion is too short.|Phần kết luận quá ngắn.
+
+@p02|Lập luận|Luận cứ, giả định, phản bác, hợp lý|Logic
+argument|lập luận, cuộc tranh cãi|Her argument was clear and strong.|Lập luận của cô ấy rõ ràng và chặt chẽ.
+assumption|giả định|This plan is based on a wrong assumption.|Kế hoạch này dựa trên một giả định sai.
+logical|hợp logic|That is a logical answer.|Đó là một câu trả lời hợp logic.
+valid|hợp lệ, có căn cứ|Your ticket is valid for one month.|Vé của bạn có giá trị trong một tháng.
+contradict|mâu thuẫn với, nói trái lại|The two reports contradict each other.|Hai bản báo cáo mâu thuẫn với nhau.
+justify|biện minh, chứng minh là đúng|Can you justify this expense?|Bạn có thể giải trình khoản chi này không?
+imply|ngụ ý|What do you imply by that?|Bạn ngụ ý gì khi nói thế?
+conclude|kết luận|We can conclude that the plan works.|Chúng ta có thể kết luận rằng kế hoạch có hiệu quả.
+bias|thành kiến, sự thiên lệch|The report shows a clear bias.|Bản báo cáo thể hiện sự thiên lệch rõ ràng.
+objective|khách quan; mục tiêu|A judge must be objective.|Một thẩm phán phải khách quan.
+subjective|chủ quan|Beauty is subjective.|Cái đẹp mang tính chủ quan.
+perspective|góc nhìn, quan điểm|Try to see it from my perspective.|Hãy thử nhìn nó từ góc nhìn của tôi.
+
+@p03|Tư duy phản biện|Đánh giá, diễn giải, phân biệt, tiêu chí|Think
+evaluate|đánh giá|We need to evaluate the results.|Chúng ta cần đánh giá kết quả.
+interpret|diễn giải, phiên dịch|How do you interpret this poem?|Bạn hiểu bài thơ này như thế nào?
+distinguish|phân biệt|Can you distinguish fact from opinion?|Bạn có thể phân biệt sự thật với ý kiến không?
+criteria|các tiêu chí|What are the criteria for this award?|Các tiêu chí cho giải thưởng này là gì?
+identify|xác định, nhận diện|Can you identify the man in the photo?|Bạn có nhận ra người đàn ông trong ảnh không?
+assess|đánh giá, thẩm định|Teachers assess students every month.|Giáo viên đánh giá học sinh hằng tháng.
+insight|sự hiểu biết sâu sắc|The book gives insight into village life.|Cuốn sách cho ta hiểu sâu hơn về đời sống làng quê.
+hypothesis|giả thuyết|The experiment supports our hypothesis.|Thí nghiệm ủng hộ giả thuyết của chúng tôi.
+relevant|liên quan, thích đáng|Please ask only relevant questions.|Vui lòng chỉ hỏi những câu hỏi liên quan.
+accurate|chính xác|The map is very accurate.|Bản đồ rất chính xác.
+reasoning|sự lập luận|I cannot follow your reasoning.|Tôi không theo kịp lập luận của bạn.
+skeptical|hoài nghi|I am skeptical about his promise.|Tôi hoài nghi về lời hứa của anh ấy.
+
+@p04|Thống kê|Tỷ lệ, mẫu, xác suất, biểu đồ|Stat
+statistics|số liệu thống kê|The statistics show a clear change.|Số liệu thống kê cho thấy một thay đổi rõ ràng.
+proportion|tỷ lệ, phần|A large proportion of the class passed.|Phần lớn lớp đã thi đỗ.
+probability|xác suất|The probability of rain is low today.|Xác suất mưa hôm nay thấp.
+chart|biểu đồ|This chart shows our sales.|Biểu đồ này thể hiện doanh số của chúng tôi.
+graph|đồ thị|Look at the graph on page ten.|Hãy nhìn đồ thị ở trang mười.
+figure|con số, hình|The figure for May is higher.|Con số của tháng Năm cao hơn.
+estimate|ước tính|I estimate that it will take two days.|Tôi ước tính sẽ mất hai ngày.
+approximately|xấp xỉ, khoảng|The trip takes approximately three hours.|Chuyến đi mất khoảng ba tiếng.
+significant|đáng kể, quan trọng|There is a significant difference in price.|Có sự chênh lệch đáng kể về giá.
+calculate|tính toán|Let me calculate the total cost.|Để tôi tính tổng chi phí.
+ratio|tỷ số|The ratio of boys to girls is equal.|Tỷ số nam và nữ bằng nhau.
+variable|biến số; hay thay đổi|Temperature is an important variable here.|Nhiệt độ là một biến số quan trọng ở đây.
+
+@p05|Quản trị|Điều hành, ủy quyền, giám sát, cơ cấu|Mgmt
+executive|giám đốc điều hành, lãnh đạo cấp cao|She is a senior executive at a bank.|Cô ấy là lãnh đạo cấp cao tại một ngân hàng.
+delegate|ủy quyền, giao việc|A good manager knows how to delegate.|Một quản lý giỏi biết cách giao việc.
+oversee|giám sát|He will oversee the whole project.|Anh ấy sẽ giám sát toàn bộ dự án.
+coordinate|điều phối|She will coordinate the two teams.|Cô ấy sẽ điều phối hai nhóm.
+implement|triển khai, thực hiện|We will implement the plan next month.|Chúng tôi sẽ triển khai kế hoạch vào tháng sau.
+allocate|phân bổ|We must allocate more money to training.|Chúng ta phải phân bổ thêm tiền cho đào tạo.
+headquarters|trụ sở chính|The headquarters is in Singapore.|Trụ sở chính ở Singapore.
+branch|chi nhánh, cành cây|The bank opened a new branch here.|Ngân hàng đã mở một chi nhánh mới ở đây.
+merger|vụ sáp nhập|The merger created a very large company.|Vụ sáp nhập đã tạo ra một công ty rất lớn.
+restructure|tái cơ cấu|They plan to restructure the company.|Họ dự định tái cơ cấu công ty.
+stakeholder|bên liên quan|Every stakeholder was invited to the meeting.|Mọi bên liên quan đều được mời đến cuộc họp.
+accountable|chịu trách nhiệm giải trình|Managers are accountable for their teams.|Các quản lý phải chịu trách nhiệm về nhóm của mình.
+
+@p06|Khởi nghiệp|Doanh nhân, vốn, rủi ro, mở rộng|Start
+entrepreneur|doanh nhân khởi nghiệp|The young entrepreneur started three companies.|Doanh nhân trẻ đã lập ba công ty.
+startup|công ty khởi nghiệp|She works for a small startup.|Cô ấy làm việc cho một công ty khởi nghiệp nhỏ.
+investor|nhà đầu tư|We are looking for an investor.|Chúng tôi đang tìm một nhà đầu tư.
+venture|dự án kinh doanh mạo hiểm|Their new venture is a coffee chain.|Dự án kinh doanh mới của họ là một chuỗi cà phê.
+risk|rủi ro|Every business has some risk.|Mọi việc kinh doanh đều có rủi ro.
+revenue|doanh thu|Our revenue doubled this year.|Doanh thu của chúng tôi đã tăng gấp đôi trong năm nay.
+expand|mở rộng|We plan to expand into Asia.|Chúng tôi dự định mở rộng sang châu Á.
+innovation|sự đổi mới, sáng tạo|Innovation keeps a company alive.|Đổi mới giúp một công ty tồn tại.
+founder|người sáng lập|The founder still runs the company.|Người sáng lập vẫn điều hành công ty.
+pitch|bài thuyết trình gọi vốn, chào hàng|Her pitch lasted only five minutes.|Bài thuyết trình gọi vốn của cô ấy chỉ kéo dài năm phút.
+franchise|nhượng quyền thương mại|He bought a fast food franchise.|Anh ấy đã mua quyền kinh doanh một chuỗi đồ ăn nhanh.
+bankrupt|phá sản|The company went bankrupt last year.|Công ty đã phá sản năm ngoái.
+
+@p07|Tài chính chuyên sâu|Cổ phiếu, tài sản, lạm phát, kế toán|Fin
+stock|cổ phiếu, hàng tồn kho|He bought stock in a tech company.|Anh ấy đã mua cổ phiếu của một công ty công nghệ.
+shareholder|cổ đông|Each shareholder gets one vote.|Mỗi cổ đông có một phiếu bầu.
+asset|tài sản|Our staff are our greatest asset.|Nhân viên là tài sản lớn nhất của chúng tôi.
+inflation|lạm phát|Inflation is rising again.|Lạm phát đang tăng trở lại.
+mortgage|khoản vay thế chấp mua nhà|They pay the mortgage every month.|Họ trả khoản vay mua nhà hằng tháng.
+accountant|kế toán viên|Our accountant checks every bill.|Kế toán của chúng tôi kiểm tra mọi hóa đơn.
+audit|kiểm toán|The audit found no problems.|Cuộc kiểm toán không phát hiện vấn đề gì.
+dividend|cổ tức|The company pays a dividend twice a year.|Công ty trả cổ tức hai lần một năm.
+transaction|giao dịch|The transaction took only a few seconds.|Giao dịch chỉ mất vài giây.
+recession|suy thoái kinh tế|Many shops closed during the recession.|Nhiều cửa hàng đã đóng cửa trong thời kỳ suy thoái.
+fiscal|thuộc tài khóa|The fiscal year ends in December.|Năm tài khóa kết thúc vào tháng Mười Hai.
+deficit|thâm hụt|The country has a large trade deficit.|Nước này có thâm hụt thương mại lớn.
+
+@p08|Hợp đồng và pháp lý|Điều khoản, nghĩa vụ, vi phạm, bồi thường|Sign
+clause|điều khoản; mệnh đề|Read this clause before you sign.|Hãy đọc điều khoản này trước khi ký.
+obligation|nghĩa vụ|You have no obligation to buy.|Bạn không có nghĩa vụ phải mua.
+breach|sự vi phạm|This is a breach of the contract.|Đây là một sự vi phạm hợp đồng.
+compensation|tiền bồi thường, đền bù|She received compensation for the accident.|Cô ấy đã nhận tiền bồi thường cho vụ tai nạn.
+liability|trách nhiệm pháp lý|The company accepts no liability for lost bags.|Công ty không chịu trách nhiệm về hành lý thất lạc.
+terminate|chấm dứt|They decided to terminate the contract.|Họ đã quyết định chấm dứt hợp đồng.
+binding|có tính ràng buộc|The agreement is legally binding.|Thỏa thuận có tính ràng buộc pháp lý.
+dispute|tranh chấp|The dispute lasted for two years.|Vụ tranh chấp kéo dài hai năm.
+sue|kiện|He plans to sue the hospital.|Anh ấy định kiện bệnh viện.
+settlement|sự dàn xếp, thỏa thuận giải quyết|Both sides agreed to a settlement.|Hai bên đã đồng ý dàn xếp.
+copyright|bản quyền|The song is protected by copyright.|Bài hát được bảo vệ bản quyền.
+patent|bằng sáng chế|She holds a patent for the device.|Cô ấy giữ bằng sáng chế cho thiết bị này.
+
+@p09|Nhân sự|Tuyển dụng, sa thải, đánh giá, phúc lợi|HR
+recruit|tuyển dụng|We need to recruit five engineers.|Chúng tôi cần tuyển năm kỹ sư.
+dismiss|sa thải, gạt bỏ|They had to dismiss two workers.|Họ đã phải sa thải hai công nhân.
+appraisal|sự đánh giá (nhân viên)|My annual appraisal is next week.|Buổi đánh giá hằng năm của tôi là vào tuần sau.
+probation|thời gian thử việc|New staff have two months of probation.|Nhân viên mới có hai tháng thử việc.
+incentive|sự khuyến khích, ưu đãi|The bonus is a strong incentive.|Tiền thưởng là một sự khuyến khích mạnh mẽ.
+bonus|tiền thưởng|Everyone got a bonus at Tet.|Mọi người đều được thưởng Tết.
+pension|lương hưu|My grandfather lives on his pension.|Ông tôi sống bằng lương hưu.
+redundant|dư thừa, bị cho thôi việc|Fifty workers were made redundant.|Năm mươi công nhân đã bị cho thôi việc.
+workforce|lực lượng lao động|The workforce is young and skilled.|Lực lượng lao động trẻ và có tay nghề.
+vacancy|vị trí còn trống|There is a vacancy in the sales team.|Có một vị trí trống trong nhóm bán hàng.
+mentor|người cố vấn, dìu dắt|My mentor taught me a lot.|Người cố vấn đã dạy tôi rất nhiều.
+turnover|doanh số; tỷ lệ nghỉ việc|Staff turnover is very low here.|Tỷ lệ nghỉ việc ở đây rất thấp.
+
+@p10|Chuỗi cung ứng|Kho hàng, vận chuyển, hàng tồn, nhà cung cấp|Ship
+logistics|hậu cần, logistics|Logistics is the hardest part of the event.|Hậu cần là phần khó nhất của sự kiện.
+warehouse|nhà kho|The goods are stored in a warehouse.|Hàng hóa được cất trong nhà kho.
+inventory|hàng tồn kho|We check the inventory every month.|Chúng tôi kiểm tra hàng tồn kho hằng tháng.
+supplier|nhà cung cấp|We changed our supplier last year.|Chúng tôi đã đổi nhà cung cấp năm ngoái.
+shipment|lô hàng|The shipment will arrive on Monday.|Lô hàng sẽ đến vào thứ Hai.
+distribute|phân phối|They distribute food to local shops.|Họ phân phối thực phẩm cho các cửa hàng địa phương.
+manufacture|sản xuất, chế tạo|They manufacture car parts.|Họ sản xuất phụ tùng ô tô.
+wholesale|bán buôn|We buy rice at wholesale prices.|Chúng tôi mua gạo với giá bán buôn.
+retail|bán lẻ|She works in retail.|Cô ấy làm trong ngành bán lẻ.
+cargo|hàng hóa chuyên chở|The ship carries cargo to Japan.|Con tàu chở hàng sang Nhật Bản.
+freight|hàng hóa vận chuyển, cước vận chuyển|Freight costs went up this year.|Cước vận chuyển đã tăng trong năm nay.
+bulk|số lượng lớn|It is cheaper to buy in bulk.|Mua số lượng lớn thì rẻ hơn.
+
+@p11|Đổi mới|Đột phá, nguyên mẫu, tiên phong, lỗi thời|New
+breakthrough|bước đột phá|The new medicine is a real breakthrough.|Loại thuốc mới là một bước đột phá thật sự.
+prototype|nguyên mẫu|They built a prototype of the car.|Họ đã chế tạo một nguyên mẫu của chiếc xe.
+pioneer|người tiên phong|She was a pioneer in computer science.|Bà ấy là người tiên phong trong khoa học máy tính.
+obsolete|lỗi thời|This phone is already obsolete.|Chiếc điện thoại này đã lỗi thời rồi.
+cutting-edge|tiên tiến nhất|The lab uses cutting-edge technology.|Phòng thí nghiệm dùng công nghệ tiên tiến nhất.
+revolutionary|mang tính cách mạng|It was a revolutionary idea at the time.|Vào thời đó, đó là một ý tưởng mang tính cách mạng.
+adopt|áp dụng; nhận nuôi|Many schools adopt new teaching methods.|Nhiều trường áp dụng phương pháp dạy học mới.
+transform|biến đổi, chuyển đổi|Technology will transform education.|Công nghệ sẽ làm thay đổi giáo dục.
+upgrade|nâng cấp|I need to upgrade my computer.|Tôi cần nâng cấp máy tính của mình.
+feature|tính năng, đặc điểm|The best feature of this phone is the camera.|Tính năng tốt nhất của điện thoại này là máy ảnh.
+automate|tự động hóa|Factories automate more work every year.|Các nhà máy tự động hóa ngày càng nhiều công việc.
+disrupt|làm gián đoạn, phá vỡ|Heavy rain can disrupt traffic.|Mưa lớn có thể làm gián đoạn giao thông.
+
+@p12|Đạo đức|Liêm chính, minh bạch, tham nhũng, hối lộ|Good
+ethics|đạo đức (nghề nghiệp)|Medical ethics is taught at university.|Đạo đức y khoa được dạy ở đại học.
+integrity|sự chính trực, liêm chính|He is a man of integrity.|Ông ấy là một người chính trực.
+transparent|minh bạch; trong suốt|The process must be transparent.|Quy trình phải minh bạch.
+corruption|tham nhũng|The country is fighting corruption.|Đất nước đang chống tham nhũng.
+bribe|hối lộ, tiền hối lộ|He refused to take a bribe.|Ông ấy đã từ chối nhận hối lộ.
+fraud|sự gian lận, lừa đảo|He was arrested for fraud.|Anh ta đã bị bắt vì tội lừa đảo.
+moral|thuộc đạo đức; bài học|It is a moral question, not a legal one.|Đó là một vấn đề đạo đức, không phải pháp lý.
+dilemma|tình thế khó xử|I am facing a difficult dilemma.|Tôi đang đối mặt với một tình thế khó xử.
+conscience|lương tâm|My conscience is clear.|Lương tâm tôi trong sạch.
+principle|nguyên tắc|Honesty is my first principle.|Trung thực là nguyên tắc đầu tiên của tôi.
+exploit|bóc lột, khai thác|Some factories exploit their workers.|Một số nhà máy bóc lột công nhân.
+dignity|phẩm giá|Every person deserves dignity.|Mỗi người đều xứng đáng được tôn trọng phẩm giá.
+
+@p13|Thuyết trình|Diễn giả, trình chiếu, nhấn mạnh, minh họa|Talk
+presentation|bài thuyết trình|My presentation is at ten tomorrow.|Bài thuyết trình của tôi vào mười giờ ngày mai.
+speaker|diễn giả, người nói; loa|The speaker told a funny story.|Diễn giả đã kể một câu chuyện vui.
+slide|trang chiếu; trượt|The next slide shows our plan.|Trang chiếu tiếp theo thể hiện kế hoạch của chúng tôi.
+emphasize|nhấn mạnh|I want to emphasize this point.|Tôi muốn nhấn mạnh điểm này.
+illustrate|minh họa|Let me illustrate this with an example.|Hãy để tôi minh họa điều này bằng một ví dụ.
+clarify|làm rõ|Could you clarify your question?|Bạn có thể làm rõ câu hỏi của mình không?
+highlight|làm nổi bật, điểm nổi bật|The report will highlight three problems.|Bản báo cáo sẽ nêu bật ba vấn đề.
+demonstrate|chứng minh, trình diễn|Let me demonstrate how it works.|Hãy để tôi trình diễn cách nó hoạt động.
+gesture|cử chỉ|He made a friendly gesture.|Anh ấy đã có một cử chỉ thân thiện.
+persuade|thuyết phục|She tried to persuade the audience.|Cô ấy đã cố thuyết phục khán giả.
+fluent|trôi chảy|She is fluent in three languages.|Cô ấy nói trôi chảy ba thứ tiếng.
+handout|tài liệu phát tay|Please take a handout before you sit down.|Vui lòng lấy tài liệu phát tay trước khi ngồi.
+
+@p14|Động từ học thuật|Thu được, duy trì, cho thấy, bao gồm|Verb
+obtain|thu được, đạt được|You can obtain a form at the office.|Bạn có thể lấy mẫu đơn tại văn phòng.
+maintain|duy trì, bảo dưỡng|It is hard to maintain a healthy weight.|Duy trì cân nặng khỏe mạnh là điều khó.
+indicate|chỉ ra, cho thấy|The results indicate a serious problem.|Kết quả cho thấy một vấn đề nghiêm trọng.
+involve|bao gồm, liên quan đến|The job will involve a lot of travel.|Công việc sẽ phải đi lại nhiều.
+require|đòi hỏi, yêu cầu|Most jobs require computer skills.|Hầu hết các công việc đều đòi hỏi kỹ năng máy tính.
+occur|xảy ra|Accidents often occur at this corner.|Tai nạn thường xảy ra ở góc đường này.
+establish|thành lập, thiết lập|They want to establish a new school.|Họ muốn thành lập một ngôi trường mới.
+acquire|đạt được, thu nhận|Children acquire language very quickly.|Trẻ em tiếp thu ngôn ngữ rất nhanh.
+conduct|tiến hành|We will conduct a survey next week.|Chúng tôi sẽ tiến hành một cuộc khảo sát vào tuần sau.
+enable|cho phép, tạo điều kiện|The loan will enable us to buy a house.|Khoản vay sẽ giúp chúng tôi mua được nhà.
+ensure|đảm bảo|Please ensure that the door is locked.|Vui lòng đảm bảo rằng cửa đã khóa.
+exceed|vượt quá|Do not exceed the speed limit.|Đừng vượt quá giới hạn tốc độ.
+
+@p15|Từ trang trọng|Bắt đầu, mua, hỗ trợ, đủ|Sir
+commence|bắt đầu (trang trọng)|The meeting will commence at nine.|Cuộc họp sẽ bắt đầu lúc chín giờ.
+sufficient|đủ|We have sufficient time to finish.|Chúng ta có đủ thời gian để hoàn thành.
+assistance|sự hỗ trợ|Do you need any assistance?|Bạn có cần hỗ trợ gì không?
+inquire|hỏi thông tin|I would like to inquire about the price.|Tôi muốn hỏi về giá cả.
+regarding|về, liên quan đến|I am writing regarding your order.|Tôi viết thư này về đơn hàng của bạn.
+prior to|trước khi|Please arrive ten minutes prior to the meeting.|Vui lòng đến trước cuộc họp mười phút.
+hence|do đó, vì vậy|The road was closed, hence the delay.|Con đường bị đóng, do đó mới có sự chậm trễ.
+notify|thông báo|Please notify us if you move.|Vui lòng thông báo cho chúng tôi nếu bạn chuyển nhà.
+attend|tham dự|All staff must attend the meeting.|Toàn bộ nhân viên phải tham dự cuộc họp.
+comply|tuân thủ|All shops must comply with the law.|Mọi cửa hàng phải tuân thủ pháp luật.
+additional|bổ sung, thêm|There is an additional charge for bags.|Có phụ phí cho hành lý.
+subsequent|tiếp theo, sau đó|The subsequent meeting was much shorter.|Cuộc họp sau đó ngắn hơn nhiều.
+
+@p16|Sự nghiệp và thành tựu|Uy tín, cống hiến, xuất sắc, kiên trì|Top
+reputation|danh tiếng, uy tín|The school has a good reputation.|Ngôi trường có danh tiếng tốt.
+dedication|sự tận tụy, cống hiến|Thank you for your dedication.|Cảm ơn sự tận tụy của bạn.
+outstanding|xuất sắc, nổi bật|She did an outstanding job.|Cô ấy đã làm việc rất xuất sắc.
+persistence|sự kiên trì|Success takes persistence.|Thành công cần sự kiên trì.
+accomplish|hoàn thành, đạt được|We can accomplish a lot together.|Chúng ta có thể cùng nhau làm được nhiều việc.
+recognition|sự công nhận|He received recognition for his work.|Anh ấy đã được công nhận vì công việc của mình.
+expertise|chuyên môn|We need her expertise in law.|Chúng tôi cần chuyên môn về luật của cô ấy.
+competent|có năng lực|He is a competent engineer.|Anh ấy là một kỹ sư có năng lực.
+prestigious|danh giá|She studies at a prestigious university.|Cô ấy học tại một trường đại học danh giá.
+milestone|cột mốc|This is a milestone in my career.|Đây là một cột mốc trong sự nghiệp của tôi.
+setback|bước lùi, trở ngại|The injury was a serious setback.|Chấn thương là một trở ngại nghiêm trọng.
+overcome|vượt qua|She had to overcome many problems.|Cô ấy đã phải vượt qua nhiều vấn đề.
+
+%402|4|Phần 2: Xã hội và thế giới|Nhà nước, quan hệ quốc tế, nhân quyền, y tế, tâm lý, triết học|sky
+@p17|Nhà nước|Quốc hội, hiến pháp, lập pháp, nhiệm kỳ|Gov
+parliament|quốc hội, nghị viện|Parliament passed the new law.|Quốc hội đã thông qua luật mới.
+constitution|hiến pháp|The constitution protects free speech.|Hiến pháp bảo vệ quyền tự do ngôn luận.
+legislation|luật pháp, sự lập pháp|New legislation will protect the forests.|Luật mới sẽ bảo vệ các khu rừng.
+administration|chính quyền, sự quản lý|The new administration promised lower taxes.|Chính quyền mới đã hứa giảm thuế.
+senate|thượng viện|The senate will vote on the bill tomorrow.|Thượng viện sẽ bỏ phiếu về dự luật vào ngày mai.
+term|nhiệm kỳ; thuật ngữ; học kỳ|The president serves a term of five years.|Tổng thống có nhiệm kỳ năm năm.
+opposition|phe đối lập, sự phản đối|The opposition voted against the plan.|Phe đối lập đã bỏ phiếu chống lại kế hoạch.
+reform|cải cách|The country needs education reform.|Đất nước cần cải cách giáo dục.
+regime|chế độ|The old regime fell in one week.|Chế độ cũ đã sụp đổ trong một tuần.
+republic|nước cộng hòa|France is a republic.|Pháp là một nước cộng hòa.
+sovereignty|chủ quyền|Every nation defends its sovereignty.|Mọi quốc gia đều bảo vệ chủ quyền của mình.
+governor|thống đốc|The governor visited the flooded area.|Thống đốc đã đến thăm vùng bị lũ.
+
+@p18|Quan hệ quốc tế|Ngoại giao, đại sứ, hiệp ước, liên minh|UN
+diplomacy|ngoại giao|The problem was solved through diplomacy.|Vấn đề đã được giải quyết bằng ngoại giao.
+ambassador|đại sứ|The ambassador met the president.|Đại sứ đã gặp tổng thống.
+embassy|đại sứ quán|I got my visa at the embassy.|Tôi đã lấy thị thực tại đại sứ quán.
+treaty|hiệp ước|The two countries signed a peace treaty.|Hai nước đã ký một hiệp ước hòa bình.
+alliance|liên minh|The two parties formed an alliance.|Hai đảng đã lập một liên minh.
+sanction|lệnh trừng phạt|The sanction hurt the economy.|Lệnh trừng phạt đã gây tổn hại cho nền kinh tế.
+summit|hội nghị thượng đỉnh; đỉnh núi|The leaders met at a summit in Hanoi.|Các nhà lãnh đạo đã gặp nhau tại một hội nghị thượng đỉnh ở Hà Nội.
+negotiation|cuộc đàm phán|The negotiation lasted all night.|Cuộc đàm phán kéo dài suốt đêm.
+neutral|trung lập|Switzerland stayed neutral in the war.|Thụy Sĩ đã giữ trung lập trong chiến tranh.
+tension|sự căng thẳng|There is tension between the two countries.|Có căng thẳng giữa hai nước.
+ally|đồng minh|Japan is a close ally of the United States.|Nhật Bản là đồng minh thân cận của Hoa Kỳ.
+territory|lãnh thổ|The island is part of French territory.|Hòn đảo là một phần lãnh thổ của Pháp.
+
+@p19|Chiến tranh và hòa bình|Quân đội, vũ khí, xâm lược, ngừng bắn|War
+war|chiến tranh|The war lasted ten years.|Cuộc chiến kéo dài mười năm.
+army|quân đội|He joined the army at eighteen.|Anh ấy nhập ngũ năm mười tám tuổi.
+soldier|người lính|The soldier came home after two years.|Người lính trở về nhà sau hai năm.
+weapon|vũ khí|The police found a weapon in the car.|Cảnh sát đã tìm thấy một vũ khí trong xe.
+invade|xâm lược|They tried to invade the country by sea.|Họ đã cố xâm lược đất nước bằng đường biển.
+defend|bảo vệ, phòng thủ|Soldiers defend the border.|Những người lính bảo vệ biên giới.
+battle|trận đánh|The battle ended at night.|Trận đánh kết thúc vào ban đêm.
+enemy|kẻ thù|The enemy attacked from the north.|Kẻ thù tấn công từ phía bắc.
+ceasefire|lệnh ngừng bắn|Both sides agreed to a ceasefire.|Cả hai bên đã đồng ý ngừng bắn.
+surrender|đầu hàng|The army refused to surrender.|Đội quân từ chối đầu hàng.
+victory|chiến thắng|The team celebrated its victory.|Đội đã ăn mừng chiến thắng.
+civilian|dân thường|No civilian was hurt in the attack.|Không có dân thường nào bị thương trong vụ tấn công.
+
+@p20|Toàn cầu hóa|Đa quốc gia, hội nhập, thuế quan, gia công|Glob
+globalization|toàn cầu hóa|Globalization connects markets around the world.|Toàn cầu hóa kết nối các thị trường trên khắp thế giới.
+multinational|đa quốc gia|He works for a multinational company.|Anh ấy làm việc cho một công ty đa quốc gia.
+integrate|hội nhập, tích hợp|Immigrants need time to integrate.|Người nhập cư cần thời gian để hòa nhập.
+tariff|thuế quan|The government put a tariff on steel.|Chính phủ đã áp thuế quan lên thép.
+outsource|thuê ngoài|Many firms outsource their customer service.|Nhiều công ty thuê ngoài dịch vụ khách hàng.
+domestic|trong nước; thuộc gia đình|Domestic flights are cheaper.|Các chuyến bay trong nước rẻ hơn.
+overseas|ở nước ngoài, hải ngoại|She has many overseas customers.|Cô ấy có nhiều khách hàng ở nước ngoài.
+emerging|mới nổi|Vietnam is an emerging market.|Việt Nam là một thị trường mới nổi.
+prosperity|sự thịnh vượng|Peace brings prosperity.|Hòa bình mang lại thịnh vượng.
+inequality|sự bất bình đẳng|Inequality between rich and poor is growing.|Bất bình đẳng giữa người giàu và người nghèo đang gia tăng.
+migration|sự di cư|Migration to the cities continues.|Việc di cư đến các thành phố vẫn tiếp diễn.
+diverse|đa dạng|Our class is very diverse.|Lớp chúng tôi rất đa dạng.
+
+@p21|Hệ thống tư pháp|Phiên tòa, bồi thẩm, bản án, kháng cáo|Jury
+trial|phiên tòa; sự thử nghiệm|The trial starts on Monday.|Phiên tòa bắt đầu vào thứ Hai.
+jury|bồi thẩm đoàn|The jury listened to the witness.|Bồi thẩm đoàn đã lắng nghe nhân chứng.
+verdict|phán quyết|The verdict was not guilty.|Phán quyết là vô tội.
+sentence|bản án; câu|He received a sentence of five years.|Anh ta nhận bản án năm năm.
+appeal|kháng cáo; lời kêu gọi|His lawyer will appeal next week.|Luật sư của anh ấy sẽ kháng cáo vào tuần sau.
+prosecute|truy tố|The state will prosecute the driver.|Nhà nước sẽ truy tố người lái xe.
+defendant|bị cáo|The defendant said nothing in court.|Bị cáo không nói gì trước tòa.
+testimony|lời khai|Her testimony helped the police.|Lời khai của cô ấy đã giúp cảnh sát.
+convict|kết án; người bị kết án|There was not enough evidence to convict him.|Không có đủ bằng chứng để kết án anh ta.
+bail|tiền bảo lãnh tại ngoại|He was released on bail.|Anh ta được tại ngoại nhờ nộp tiền bảo lãnh.
+custody|sự tạm giam; quyền nuôi con|The suspect is in police custody.|Nghi phạm đang bị cảnh sát tạm giam.
+offense|hành vi phạm tội; sự xúc phạm|Drunk driving is a serious offense.|Lái xe khi say rượu là một hành vi phạm tội nghiêm trọng.
+
+@p22|Nhân quyền|Tự do ngôn luận, áp bức, biểu tình, kiểm duyệt|Free
+liberty|quyền tự do|They fought for liberty.|Họ đã chiến đấu vì tự do.
+oppression|sự áp bức|People stood up against oppression.|Mọi người đã đứng lên chống lại sự áp bức.
+protest|cuộc biểu tình, phản đối|Thousands joined the protest.|Hàng nghìn người đã tham gia cuộc biểu tình.
+censorship|sự kiểm duyệt|Writers spoke out against censorship.|Các nhà văn đã lên tiếng phản đối kiểm duyệt.
+activist|nhà hoạt động|She is a famous environmental activist.|Cô ấy là một nhà hoạt động môi trường nổi tiếng.
+persecute|ngược đãi, đàn áp|No government should persecute its people.|Không chính phủ nào được đàn áp người dân của mình.
+slavery|chế độ nô lệ|Slavery ended there in 1865.|Chế độ nô lệ ở đó đã chấm dứt vào năm 1865.
+tolerance|sự khoan dung|Tolerance makes a society stronger.|Sự khoan dung làm cho xã hội vững mạnh hơn.
+prejudice|định kiến|We must fight prejudice at school.|Chúng ta phải chống lại định kiến trong trường học.
+abuse|sự lạm dụng, ngược đãi|Child abuse is a terrible crime.|Ngược đãi trẻ em là một tội ác khủng khiếp.
+asylum|sự tị nạn (chính trị)|The family asked for asylum.|Gia đình đã xin tị nạn.
+humanitarian|nhân đạo|The country sent humanitarian aid.|Nước này đã gửi viện trợ nhân đạo.
+
+@p23|Báo chí|Đưa tin, biên tập, nguồn tin, tin giả|Press
+coverage|sự đưa tin; phạm vi bảo hiểm|The match got a lot of media coverage.|Trận đấu được truyền thông đưa tin rất nhiều.
+editor|biên tập viên|The editor changed the headline.|Biên tập viên đã sửa tiêu đề.
+correspondent|phóng viên thường trú|She is a correspondent in Paris.|Cô ấy là phóng viên thường trú tại Paris.
+press|báo chí; ấn|The press waited outside the court.|Báo chí đã đợi bên ngoài tòa án.
+anonymous|ẩn danh|The letter came from an anonymous writer.|Bức thư đến từ một người viết ẩn danh.
+propaganda|tuyên truyền|The film was pure propaganda.|Bộ phim hoàn toàn là tuyên truyền.
+misleading|gây hiểu lầm|The advertisement was misleading.|Quảng cáo đó gây hiểu lầm.
+exclusive|độc quyền|The paper got an exclusive interview.|Tờ báo đã có một cuộc phỏng vấn độc quyền.
+verify|xác minh|Always verify the facts first.|Luôn xác minh sự thật trước.
+investigate|điều tra|Police will investigate the fire.|Cảnh sát sẽ điều tra vụ cháy.
+scandal|vụ bê bối|The scandal ended his career.|Vụ bê bối đã chấm dứt sự nghiệp của ông ấy.
+reveal|tiết lộ|The report will reveal the truth.|Bản báo cáo sẽ tiết lộ sự thật.
+
+@p24|Quy hoạch đô thị|Hạ tầng, ùn tắc, khu dân cư, mật độ|Plan
+infrastructure|cơ sở hạ tầng|The city needs better infrastructure.|Thành phố cần cơ sở hạ tầng tốt hơn.
+congestion|sự ùn tắc|Traffic congestion is worst at six.|Ùn tắc giao thông tệ nhất vào lúc sáu giờ.
+residential|thuộc khu dân cư|This is a quiet residential area.|Đây là một khu dân cư yên tĩnh.
+density|mật độ|The population density is very high here.|Mật độ dân số ở đây rất cao.
+commute|đi lại hằng ngày (đi làm)|I commute to work by train.|Tôi đi làm hằng ngày bằng tàu.
+slum|khu ổ chuột|Many families live in the slum.|Nhiều gia đình sống trong khu ổ chuột.
+sewage|nước thải|Sewage must not flow into the river.|Nước thải không được chảy ra sông.
+zone|khu vực, vùng|This is a no parking zone.|Đây là khu vực cấm đỗ xe.
+landmark|địa danh nổi bật, cột mốc|The tower is a famous landmark.|Tòa tháp là một địa danh nổi tiếng.
+outskirts|vùng ven, ngoại vi|They live on the outskirts of the city.|Họ sống ở vùng ven thành phố.
+renovate|cải tạo, tân trang|They plan to renovate the old market.|Họ dự định cải tạo khu chợ cũ.
+demolish|phá dỡ|Workers will demolish the old bridge.|Công nhân sẽ phá dỡ cây cầu cũ.
+
+@p25|Dân số|Tỷ lệ sinh, tuổi thọ, già hóa, điều tra dân số|Pop
+census|cuộc điều tra dân số|The census takes place every ten years.|Cuộc điều tra dân số diễn ra mười năm một lần.
+life expectancy|tuổi thọ trung bình|Life expectancy is rising in Asia.|Tuổi thọ trung bình đang tăng ở châu Á.
+aging|sự già hóa|Japan has an aging population.|Nhật Bản có dân số đang già hóa.
+fertility|khả năng sinh sản, mức sinh|The fertility rate is falling.|Mức sinh đang giảm.
+mortality|tỷ lệ tử vong|Child mortality is much lower now.|Tỷ lệ tử vong ở trẻ em hiện nay thấp hơn nhiều.
+household|hộ gia đình|Each household pays for its water.|Mỗi hộ gia đình tự trả tiền nước.
+inhabitant|cư dân|The oldest inhabitant is one hundred years old.|Cư dân lớn tuổi nhất đã một trăm tuổi.
+ethnic|thuộc dân tộc|Vietnam has many ethnic groups.|Việt Nam có nhiều dân tộc.
+settle|định cư; giải quyết|They decided to settle in Da Nang.|Họ đã quyết định định cư ở Đà Nẵng.
+decline|sự suy giảm; từ chối|There is a decline in the birth rate.|Có sự suy giảm về tỷ lệ sinh.
+indigenous|bản địa|The indigenous people live in the mountains.|Người bản địa sống trên núi.
+nationality|quốc tịch|What is your nationality?|Quốc tịch của bạn là gì?
+
+@p26|Chính sách giáo dục|Chương trình học, biết chữ, bắt buộc, sư phạm|Edu
+curriculum|chương trình học|The new curriculum includes coding.|Chương trình học mới có môn lập trình.
+literacy|khả năng đọc viết|Literacy is very high in this country.|Tỷ lệ biết chữ ở nước này rất cao.
+compulsory|bắt buộc|English is compulsory at this school.|Tiếng Anh là môn bắt buộc ở trường này.
+vocational|thuộc dạy nghề|He chose a vocational school.|Anh ấy đã chọn một trường dạy nghề.
+tutor|gia sư|She has a math tutor twice a week.|Cô ấy học gia sư toán hai lần một tuần.
+enroll|ghi danh, nhập học|I want to enroll in the evening class.|Tôi muốn ghi danh vào lớp buổi tối.
+discipline|kỷ luật; ngành học|The school is known for its discipline.|Ngôi trường nổi tiếng về kỷ luật.
+academic|thuộc học thuật|The academic year starts in September.|Năm học bắt đầu vào tháng Chín.
+diploma|bằng, chứng chỉ|She has a diploma in nursing.|Cô ấy có bằng điều dưỡng.
+kindergarten|trường mẫu giáo|My daughter goes to kindergarten.|Con gái tôi đi học mẫu giáo.
+principal|hiệu trưởng; chính|The principal spoke to the parents.|Hiệu trưởng đã nói chuyện với phụ huynh.
+dropout|người bỏ học|He was a dropout who became rich.|Anh ấy là một người bỏ học rồi trở nên giàu có.
+
+@p27|Hệ thống y tế|Chẩn đoán, dịch bệnh, mãn tính, phòng khám|Care
+diagnosis|sự chẩn đoán|The doctor gave a clear diagnosis.|Bác sĩ đã đưa ra chẩn đoán rõ ràng.
+epidemic|dịch bệnh|The epidemic spread to three cities.|Dịch bệnh đã lan ra ba thành phố.
+chronic|mãn tính|He has chronic back pain.|Ông ấy bị đau lưng mãn tính.
+clinic|phòng khám|The clinic opens at eight.|Phòng khám mở cửa lúc tám giờ.
+surgeon|bác sĩ phẫu thuật|The surgeon worked for six hours.|Bác sĩ phẫu thuật đã làm việc suốt sáu tiếng.
+immune|miễn dịch|Sleep keeps your immune system strong.|Giấc ngủ giữ cho hệ miễn dịch của bạn khỏe mạnh.
+contagious|dễ lây|The flu is very contagious.|Bệnh cúm rất dễ lây.
+dose|liều thuốc|Take one dose after each meal.|Uống một liều sau mỗi bữa ăn.
+side effect|tác dụng phụ|This medicine has one common side effect.|Thuốc này có một tác dụng phụ thường gặp.
+allergy|dị ứng|I have an allergy to seafood.|Tôi bị dị ứng hải sản.
+transplant|ca cấy ghép|He needs a heart transplant.|Ông ấy cần ghép tim.
+ward|khu, phòng bệnh|She works in the children's ward.|Cô ấy làm việc ở khu bệnh nhi.
+
+@p28|Triết học|Tồn tại, ý thức, đạo lý, tri thức|Why
+philosophy|triết học|He studies philosophy at university.|Anh ấy học triết học ở đại học.
+existence|sự tồn tại|Do you believe in the existence of ghosts?|Bạn có tin vào sự tồn tại của ma không?
+consciousness|ý thức|He lost consciousness after the fall.|Anh ấy đã bất tỉnh sau cú ngã.
+wisdom|sự thông thái, trí tuệ|Wisdom comes with age.|Sự thông thái đến cùng tuổi tác.
+virtue|đức hạnh|Patience is a virtue.|Kiên nhẫn là một đức tính tốt.
+reality|thực tế|The reality is harder than the dream.|Thực tế khó khăn hơn giấc mơ.
+illusion|ảo tưởng, ảo giác|The mirror gives an illusion of space.|Tấm gương tạo ảo giác về không gian.
+destiny|vận mệnh|She believes it was her destiny.|Cô ấy tin rằng đó là vận mệnh của mình.
+ideal|lý tưởng|This is an ideal place for a picnic.|Đây là nơi lý tưởng để đi dã ngoại.
+rational|có lý trí, hợp lý|Try to make a rational decision.|Hãy cố đưa ra một quyết định sáng suốt.
+infinite|vô hạn|The universe may be infinite.|Vũ trụ có thể là vô hạn.
+essence|bản chất|Trust is the essence of friendship.|Lòng tin là bản chất của tình bạn.
+
+@p29|Tâm lý học|Nhận thức, động lực, tiềm thức, sang chấn|Psy
+psychology|tâm lý học|She has a degree in psychology.|Cô ấy có bằng tâm lý học.
+perception|nhận thức, cách nhìn nhận|Our perception of time changes with age.|Nhận thức của chúng ta về thời gian thay đổi theo tuổi tác.
+motivation|động lực|He has lost his motivation to study.|Cậu ấy đã mất động lực học tập.
+instinct|bản năng|Birds fly south by instinct.|Chim bay về phương nam theo bản năng.
+trauma|sang chấn tâm lý|The accident left her with deep trauma.|Vụ tai nạn đã để lại cho cô ấy sang chấn sâu sắc.
+phobia|chứng sợ|He has a phobia of spiders.|Anh ấy mắc chứng sợ nhện.
+personality|nhân cách, cá tính|She has a warm personality.|Cô ấy có tính cách ấm áp.
+subconscious|tiềm thức|Dreams come from the subconscious mind.|Giấc mơ đến từ tiềm thức.
+empathy|sự đồng cảm|A good nurse shows empathy.|Một y tá giỏi biết đồng cảm.
+obsession|nỗi ám ảnh|Football is his obsession.|Bóng đá là nỗi ám ảnh của anh ấy.
+self-esteem|lòng tự trọng|Praise can build a child's self-esteem.|Lời khen có thể xây dựng lòng tự trọng của trẻ.
+cognitive|thuộc nhận thức|Games can improve cognitive skills.|Trò chơi có thể cải thiện kỹ năng nhận thức.
+
+@p30|Xã hội học|Tầng lớp, chuẩn mực, bản sắc, hòa nhập|Soc
+hierarchy|hệ thống thứ bậc|The company has a strict hierarchy.|Công ty có hệ thống thứ bậc nghiêm ngặt.
+norm|chuẩn mực|Working from home is now the norm.|Làm việc tại nhà giờ đã là chuyện bình thường.
+identity|bản sắc, danh tính|Language is part of our identity.|Ngôn ngữ là một phần bản sắc của chúng ta.
+status|địa vị, tình trạng|Doctors have a high status in society.|Bác sĩ có địa vị cao trong xã hội.
+stereotype|khuôn mẫu, định kiến rập khuôn|That is just an old stereotype.|Đó chỉ là một định kiến rập khuôn cũ.
+conform|tuân theo, làm theo số đông|Teenagers often conform to their friends.|Thanh thiếu niên thường làm theo bạn bè.
+heritage|di sản|Hoi An is a world heritage site.|Hội An là một di sản thế giới.
+institution|thể chế, tổ chức|The bank is a respected institution.|Ngân hàng là một tổ chức được kính trọng.
+mainstream|dòng chính, chủ đạo|His music is now part of the mainstream.|Âm nhạc của anh ấy giờ đã thuộc dòng chính.
+solidarity|sự đoàn kết|The workers showed great solidarity.|Những người công nhân đã thể hiện sự đoàn kết lớn.
+isolation|sự cô lập|Old people often suffer from isolation.|Người già thường chịu cảnh cô lập.
+privilege|đặc quyền, vinh dự|Education is a right, not a privilege.|Giáo dục là một quyền, không phải đặc quyền.
+
+@p31|Kinh tế vĩ mô|Tổng sản phẩm, trợ cấp, tư nhân hóa, tiền lương|GDP
+subsidy|khoản trợ cấp|Farmers receive a subsidy from the state.|Nông dân nhận một khoản trợ cấp từ nhà nước.
+privatize|tư nhân hóa|The government plans to privatize the airline.|Chính phủ dự định tư nhân hóa hãng hàng không.
+monopoly|sự độc quyền|The company has a monopoly on gas.|Công ty nắm độc quyền về khí đốt.
+wage|tiền lương (theo giờ, tuần)|The minimum wage went up this year.|Lương tối thiểu đã tăng trong năm nay.
+sector|khu vực, lĩnh vực|She works in the public sector.|Cô ấy làm việc trong khu vực công.
+productivity|năng suất|New machines increased productivity.|Máy móc mới đã làm tăng năng suất.
+commodity|hàng hóa, mặt hàng|Coffee is an important commodity for Vietnam.|Cà phê là một mặt hàng quan trọng của Việt Nam.
+stimulus|biện pháp kích thích|The economy needs a new stimulus.|Nền kinh tế cần một biện pháp kích thích mới.
+boom|sự bùng nổ, tăng trưởng nóng|There is a boom in online shopping.|Có sự bùng nổ về mua sắm trực tuyến.
+slump|sự sụt giảm mạnh|Sales are in a slump this year.|Doanh số đang sụt giảm mạnh trong năm nay.
+regulate|quản lý, điều tiết|The state must regulate the banks.|Nhà nước phải quản lý các ngân hàng.
+austerity|chính sách thắt lưng buộc bụng|Austerity made life harder for many families.|Chính sách thắt lưng buộc bụng khiến cuộc sống của nhiều gia đình khó khăn hơn.
+
+@p32|Khủng hoảng và ứng phó|Sơ tán, cứu trợ, phục hồi, khẩn cấp|Aid
+evacuate|sơ tán|Police had to evacuate the building.|Cảnh sát đã phải sơ tán tòa nhà.
+relief|cứu trợ; sự nhẹ nhõm|Relief workers arrived the next day.|Nhân viên cứu trợ đã đến vào ngày hôm sau.
+recovery|sự phục hồi|The recovery of the economy is slow.|Sự phục hồi của nền kinh tế diễn ra chậm.
+casualty|thương vong|Luckily there was not a single casualty.|May mắn là không có một thương vong nào.
+outbreak|sự bùng phát|There was an outbreak of flu at school.|Đã có một đợt bùng phát cúm ở trường.
+quarantine|sự cách ly|The travelers spent a week in quarantine.|Các du khách đã cách ly một tuần.
+famine|nạn đói lớn|The famine killed thousands of people.|Nạn đói đã làm hàng nghìn người thiệt mạng.
+collapse|sụp đổ|The old bridge may collapse.|Cây cầu cũ có thể sụp đổ.
+threat|mối đe dọa|Pollution is a threat to our health.|Ô nhiễm là mối đe dọa đối với sức khỏe của chúng ta.
+vulnerable|dễ bị tổn thương|Children are the most vulnerable.|Trẻ em là những người dễ bị tổn thương nhất.
+resilience|sức chống chịu, khả năng phục hồi|The town showed great resilience after the flood.|Thị trấn đã thể hiện sức chống chịu lớn sau trận lũ.
+precaution|biện pháp phòng ngừa|Take an umbrella as a precaution.|Hãy mang ô để đề phòng.
