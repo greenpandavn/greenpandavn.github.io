@@ -437,3 +437,400 @@ learn|học|We learn English together.|Chúng tôi học tiếng Anh cùng nhau.
 slowly|chậm, từ từ|Please speak slowly.|Xin hãy nói chậm.
 together|cùng nhau|We study together.|Chúng tôi học cùng nhau.
 job|công việc, nghề nghiệp|What is your job?|Bạn làm nghề gì?
+
+# ===== Trình độ trung cấp (level 2) =====
+%5|2|Phần 5: Quá khứ và tương lai|Thì quá khứ, tương lai, du lịch, công việc|leaf
+@e31|Thì quá khứ đơn|Was, were, did, went, saw|Was
+was|đã là, đã ở (quá khứ của am/is)|I was at home yesterday.|Hôm qua tôi ở nhà.
+were|đã là, đã ở (quá khứ của are)|They were very happy.|Họ đã rất vui.
+did|đã làm (quá khứ của do)|What did you do yesterday?|Hôm qua bạn đã làm gì?
+went|đã đi (quá khứ của go)|We went to the beach.|Chúng tôi đã đi biển.
+saw|đã thấy (quá khứ của see)|I saw him at school.|Tôi đã thấy anh ấy ở trường.
+had|đã có (quá khứ của have)|She had a small dog.|Cô ấy đã có một con chó nhỏ.
+came|đã đến (quá khứ của come)|He came home late.|Anh ấy đã về nhà muộn.
+said|đã nói (quá khứ của say)|She said hello to me.|Cô ấy đã chào tôi.
+made|đã làm ra (quá khứ của make)|My mother made a cake.|Mẹ tôi đã làm một cái bánh.
+bought|đã mua (quá khứ của buy)|I bought a new phone.|Tôi đã mua một chiếc điện thoại mới.
+ate|đã ăn (quá khứ của eat)|We ate dinner together.|Chúng tôi đã ăn tối cùng nhau.
+took|đã lấy, đã đi (quá khứ của take)|He took a taxi to work.|Anh ấy đã đi taxi đến chỗ làm.
+
+@e32|Từ chỉ thời gian|Ago, already, yet, just, still|Ago
+ago|cách đây, trước đây|I met her two years ago.|Tôi đã gặp cô ấy cách đây hai năm.
+last|trước, vừa qua; cuối cùng|We went there last week.|Tuần trước chúng tôi đã đến đó.
+already|đã ... rồi|I have already eaten lunch.|Tôi đã ăn trưa rồi.
+yet|chưa (trong câu phủ định, câu hỏi)|He has not arrived yet.|Anh ấy vẫn chưa đến.
+just|vừa mới; chỉ|She has just left.|Cô ấy vừa mới đi.
+still|vẫn, vẫn còn|It is still raining.|Trời vẫn đang mưa.
+since|từ khi, kể từ|I have lived here since 2020.|Tôi sống ở đây từ năm 2020.
+during|trong suốt, trong lúc|He slept during the movie.|Anh ấy đã ngủ trong lúc xem phim.
+until|cho đến khi|Wait here until I come back.|Hãy đợi ở đây cho đến khi tôi quay lại.
+once|một lần; đã từng|I go swimming once a week.|Tôi đi bơi một lần mỗi tuần.
+later|sau, lát nữa|I will call you later.|Tôi sẽ gọi cho bạn sau.
+soon|sớm, chẳng bao lâu nữa|See you soon!|Hẹn sớm gặp lại bạn!
+
+@e33|Tương lai và kế hoạch|Will, going to, plan, hope|Will
+will|sẽ|I will help you tomorrow.|Ngày mai tôi sẽ giúp bạn.
+going to|sắp, định (làm gì)|I am going to visit my aunt.|Tôi định đi thăm dì tôi.
+plan|kế hoạch; lên kế hoạch|What is your plan for Sunday?|Kế hoạch Chủ nhật của bạn là gì?
+hope|hy vọng|I hope you feel better.|Tôi hy vọng bạn thấy khỏe hơn.
+future|tương lai|She wants to be a doctor in the future.|Cô ấy muốn làm bác sĩ trong tương lai.
+decide|quyết định|We must decide today.|Chúng ta phải quyết định hôm nay.
+promise|hứa; lời hứa|I promise to come early.|Tôi hứa sẽ đến sớm.
+next|tiếp theo, tới|We will meet next month.|Chúng ta sẽ gặp nhau vào tháng tới.
+probably|có lẽ, chắc là|It will probably rain tonight.|Tối nay có lẽ trời sẽ mưa.
+ready|sẵn sàng|Are you ready to go?|Bạn sẵn sàng đi chưa?
+prepare|chuẩn bị|I need to prepare for the exam.|Tôi cần chuẩn bị cho kỳ thi.
+expect|mong đợi, cho rằng sẽ|We expect good weather tomorrow.|Chúng tôi cho rằng ngày mai thời tiết đẹp.
+
+@e34|Du lịch|Sân bay, hộ chiếu, hành lý, chuyến bay|Tr
+travel|du lịch, đi lại|I love to travel by train.|Tôi thích du lịch bằng tàu hỏa.
+trip|chuyến đi|Our trip to Hue was wonderful.|Chuyến đi Huế của chúng tôi rất tuyệt.
+airport|sân bay|The airport is far from the city.|Sân bay ở xa thành phố.
+passport|hộ chiếu|Do not forget your passport.|Đừng quên hộ chiếu của bạn.
+luggage|hành lý|My luggage is very heavy.|Hành lý của tôi rất nặng.
+flight|chuyến bay|Our flight leaves at nine.|Chuyến bay của chúng tôi cất cánh lúc chín giờ.
+map|bản đồ|Can you show me on the map?|Bạn chỉ cho tôi trên bản đồ được không?
+tourist|khách du lịch|I am a tourist in this city.|Tôi là khách du lịch ở thành phố này.
+visit|thăm, tham quan|We want to visit the museum.|Chúng tôi muốn tham quan bảo tàng.
+arrive|đến nơi|The train will arrive at six.|Tàu sẽ đến lúc sáu giờ.
+leave|rời đi, để lại|I leave home at seven every day.|Ngày nào tôi cũng rời nhà lúc bảy giờ.
+stay|ở lại|We will stay at a small hotel.|Chúng tôi sẽ ở một khách sạn nhỏ.
+
+@e35|Hỏi đường|Rẽ, đi thẳng, góc phố, cây cầu|Go
+turn|rẽ, quay|Turn left at the bank.|Rẽ trái ở chỗ ngân hàng.
+straight|thẳng|Go straight for two minutes.|Đi thẳng trong hai phút.
+corner|góc (phố)|The shop is on the corner.|Cửa hàng ở góc phố.
+cross|băng qua|Be careful when you cross the street.|Hãy cẩn thận khi bạn băng qua đường.
+bridge|cây cầu|There is an old bridge over the river.|Có một cây cầu cũ bắc qua sông.
+road|con đường|This road is very busy.|Con đường này rất đông đúc.
+traffic|giao thông, xe cộ|The traffic is bad in the morning.|Buổi sáng giao thông rất tệ.
+station|nhà ga, trạm|Where is the bus station?|Bến xe buýt ở đâu?
+follow|đi theo, làm theo|Please follow me.|Xin hãy đi theo tôi.
+across|bên kia, ngang qua|The bank is across the street.|Ngân hàng ở bên kia đường.
+lost|bị lạc; bị mất|I think we are lost.|Tôi nghĩ chúng ta bị lạc rồi.
+direction|hướng, phương hướng|Which direction is the market?|Chợ ở hướng nào?
+
+@e36|Nghề nghiệp và công sở|Kỹ sư, quản lý, công ty, cuộc họp|Job
+engineer|kỹ sư|My brother is an engineer.|Anh trai tôi là kỹ sư.
+farmer|nông dân|The farmer gets up very early.|Người nông dân dậy rất sớm.
+driver|tài xế, người lái xe|The bus driver is very kind.|Bác tài xế xe buýt rất tốt bụng.
+police officer|cảnh sát|Ask the police officer for help.|Hãy nhờ cảnh sát giúp đỡ.
+manager|quản lý, giám đốc|The manager is in a meeting.|Người quản lý đang họp.
+worker|công nhân, người lao động|He is a factory worker.|Anh ấy là công nhân nhà máy.
+office|văn phòng|I work in a small office.|Tôi làm việc trong một văn phòng nhỏ.
+company|công ty|She works for a big company.|Cô ấy làm việc cho một công ty lớn.
+boss|sếp, ông chủ|My boss is very friendly.|Sếp của tôi rất thân thiện.
+salary|lương|His salary is not very high.|Lương của anh ấy không cao lắm.
+meeting|cuộc họp|We have a meeting at ten.|Chúng tôi có một cuộc họp lúc mười giờ.
+business|kinh doanh, việc làm ăn|She has her own business.|Cô ấy có công việc kinh doanh riêng.
+
+@e37|Việc nhà|Dọn dẹp, giặt giũ, sửa chữa|Cl
+clean|sạch; lau dọn|I clean my room every Saturday.|Thứ Bảy nào tôi cũng dọn phòng.
+dirty|bẩn|Your shoes are very dirty.|Giày của bạn rất bẩn.
+sweep|quét|Please sweep the floor.|Làm ơn quét nhà.
+laundry|quần áo cần giặt, việc giặt giũ|I do the laundry on Sunday.|Tôi giặt quần áo vào Chủ nhật.
+dish|cái đĩa; món ăn|He broke a dish in the kitchen.|Anh ấy làm vỡ một cái đĩa trong bếp.
+trash|rác|Please take out the trash.|Làm ơn mang rác ra ngoài.
+fix|sửa chữa|My father can fix the bike.|Bố tôi có thể sửa chiếc xe đạp.
+tidy|gọn gàng; dọn gọn|Her desk is always tidy.|Bàn làm việc của cô ấy luôn gọn gàng.
+floor|sàn nhà; tầng|The cat is sleeping on the floor.|Con mèo đang ngủ trên sàn nhà.
+wall|bức tường|There is a clock on the wall.|Có một cái đồng hồ trên tường.
+key|chìa khóa|I cannot find my key.|Tôi không tìm thấy chìa khóa của mình.
+neighbor|hàng xóm|Our neighbor is very quiet.|Hàng xóm của chúng tôi rất yên lặng.
+
+%6|2|Phần 6: Con người và đời sống|So sánh, cảm xúc, sức khỏe, ăn uống, mua sắm|sky
+@e38|So sánh|Better, worse, more, less, than|>
+better|tốt hơn|This book is better than that one.|Quyển sách này hay hơn quyển kia.
+worse|tệ hơn|The weather is worse today.|Hôm nay thời tiết tệ hơn.
+best|tốt nhất|She is my best friend.|Cô ấy là bạn thân nhất của tôi.
+more|nhiều hơn, hơn|This bag is more expensive.|Cái túi này đắt hơn.
+less|ít hơn|I drink less coffee now.|Bây giờ tôi uống ít cà phê hơn.
+most|nhất; hầu hết|It is the most beautiful city.|Đó là thành phố đẹp nhất.
+than|hơn (so sánh)|My brother is taller than me.|Anh trai tôi cao hơn tôi.
+same|giống nhau, cùng|We are in the same class.|Chúng tôi học cùng lớp.
+different|khác, khác nhau|Their houses are very different.|Nhà của họ rất khác nhau.
+enough|đủ|We have enough food for everyone.|Chúng ta có đủ thức ăn cho mọi người.
+quite|khá|The test was quite easy.|Bài kiểm tra khá dễ.
+almost|gần như, suýt|It is almost midnight.|Gần nửa đêm rồi.
+
+@e39|Cảm xúc|Hào hứng, chán, ngạc nhiên, lo lắng|Oh
+excited|hào hứng, phấn khích|The children are excited about the trip.|Bọn trẻ rất hào hứng về chuyến đi.
+bored|chán, buồn chán|I am bored at home.|Tôi thấy chán khi ở nhà.
+surprised|ngạc nhiên|She was surprised to see me.|Cô ấy ngạc nhiên khi thấy tôi.
+worried|lo lắng|My mother is worried about me.|Mẹ tôi lo lắng cho tôi.
+proud|tự hào|We are proud of you.|Chúng tôi tự hào về bạn.
+nervous|hồi hộp, lo lắng|I feel nervous before exams.|Tôi thấy hồi hộp trước các kỳ thi.
+lonely|cô đơn|He feels lonely in the new city.|Anh ấy thấy cô đơn ở thành phố mới.
+calm|bình tĩnh|Please stay calm.|Xin hãy giữ bình tĩnh.
+glad|vui mừng|I am glad to meet you.|Tôi rất vui được gặp bạn.
+upset|buồn bực, khó chịu|She is upset about the news.|Cô ấy buồn bực vì tin đó.
+shy|nhút nhát, ngại ngùng|The little boy is very shy.|Cậu bé rất nhút nhát.
+relaxed|thư giãn, thoải mái|I feel relaxed on the weekend.|Tôi thấy thư giãn vào cuối tuần.
+
+@e40|Tính cách|Thân thiện, lịch sự, trung thực, lười|Ch
+friendly|thân thiện|Our new teacher is very friendly.|Giáo viên mới của chúng tôi rất thân thiện.
+polite|lịch sự|He is always polite to everyone.|Anh ấy luôn lịch sự với mọi người.
+honest|trung thực|Thank you for being honest.|Cảm ơn bạn đã trung thực.
+lazy|lười biếng|Do not be lazy!|Đừng lười biếng!
+clever|thông minh, khéo léo|She is a clever student.|Cô ấy là một học sinh thông minh.
+funny|buồn cười, hài hước|My uncle is very funny.|Chú tôi rất hài hước.
+quiet|yên lặng, ít nói|Please be quiet in the library.|Xin giữ yên lặng trong thư viện.
+brave|dũng cảm|The brave girl saved the cat.|Cô bé dũng cảm đã cứu con mèo.
+careful|cẩn thận|Be careful with that knife.|Hãy cẩn thận với con dao đó.
+patient|kiên nhẫn|A good teacher is patient.|Một giáo viên giỏi thì kiên nhẫn.
+generous|hào phóng, rộng rãi|My grandmother is very generous.|Bà tôi rất hào phóng.
+serious|nghiêm túc; nghiêm trọng|He is serious about his work.|Anh ấy nghiêm túc với công việc.
+
+@e41|Sức khỏe|Đau đầu, sốt, ho, tập thể dục|Dr
+headache|đau đầu|I have a bad headache.|Tôi bị đau đầu nặng.
+fever|sốt|The baby has a fever.|Em bé bị sốt.
+cough|ho; cơn ho|This medicine is good for a cough.|Thuốc này tốt cho bệnh ho.
+pain|cơn đau|I have a pain in my back.|Tôi bị đau ở lưng.
+exercise|tập thể dục; bài tập|I exercise every morning.|Sáng nào tôi cũng tập thể dục.
+diet|chế độ ăn|A healthy diet is important.|Chế độ ăn lành mạnh rất quan trọng.
+weight|cân nặng|He wants to lose weight.|Anh ấy muốn giảm cân.
+dentist|nha sĩ|I must see the dentist tomorrow.|Ngày mai tôi phải đi gặp nha sĩ.
+stomach|dạ dày, bụng|My stomach hurts.|Tôi bị đau bụng.
+appointment|cuộc hẹn|I have an appointment at three.|Tôi có một cuộc hẹn lúc ba giờ.
+illness|bệnh, sự ốm đau|He missed school because of illness.|Cậu ấy nghỉ học vì bị ốm.
+recover|hồi phục|She will recover soon.|Cô ấy sẽ sớm hồi phục.
+
+@e42|Nấu ăn và mùi vị|Luộc, chiên, ngọt, chua, cay|Yum
+boil|luộc, đun sôi|Boil the eggs for ten minutes.|Luộc trứng trong mười phút.
+fry|chiên, rán|I will fry the fish.|Tôi sẽ rán cá.
+cut|cắt|Please cut the bread.|Làm ơn cắt bánh mì.
+mix|trộn|Mix the eggs and the milk.|Trộn trứng với sữa.
+taste|vị; nếm, có vị|I like the taste of this soup.|Tôi thích vị của món súp này.
+sweet|ngọt|This cake is too sweet.|Cái bánh này ngọt quá.
+sour|chua|The orange is a little sour.|Quả cam hơi chua.
+salty|mặn|The soup is too salty.|Món súp mặn quá.
+spicy|cay|I cannot eat spicy food.|Tôi không ăn được đồ cay.
+fresh|tươi|These vegetables are very fresh.|Những loại rau này rất tươi.
+recipe|công thức nấu ăn|Can you give me the recipe?|Bạn cho tôi công thức được không?
+meal|bữa ăn|Dinner is my favorite meal.|Bữa tối là bữa ăn tôi thích nhất.
+
+@e43|Ở nhà hàng|Thực đơn, gọi món, hóa đơn|Menu
+menu|thực đơn|Can I see the menu, please?|Cho tôi xem thực đơn được không?
+order|gọi món, đặt hàng|Are you ready to order?|Quý khách đã sẵn sàng gọi món chưa?
+waiter|người phục vụ (nam)|The waiter brought our drinks.|Người phục vụ đã mang đồ uống cho chúng tôi.
+bill|hóa đơn|Can we have the bill, please?|Cho chúng tôi xin hóa đơn được không?
+tip|tiền boa|We left a small tip.|Chúng tôi đã để lại một ít tiền boa.
+dessert|món tráng miệng|What would you like for dessert?|Bạn muốn dùng gì tráng miệng?
+salad|món rau trộn, sa lát|I will have a chicken salad.|Tôi sẽ dùng sa lát gà.
+spoon|cái thìa|I need a spoon for my soup.|Tôi cần một cái thìa để ăn súp.
+fork|cái nĩa|The fork is next to the plate.|Cái nĩa ở cạnh cái đĩa.
+knife|con dao|This knife is very sharp.|Con dao này rất sắc.
+glass|cái ly, cốc thủy tinh|A glass of water, please.|Cho tôi một ly nước.
+bottle|cái chai|He bought a bottle of milk.|Anh ấy đã mua một chai sữa.
+
+@e44|Mua sắm nâng cao|Cỡ, giảm giá, hóa đơn, giao hàng|Sale
+size|cỡ, kích cỡ|What size do you wear?|Bạn mặc cỡ nào?
+try on|mặc thử|Can I try on this shirt?|Tôi mặc thử chiếc áo này được không?
+discount|giảm giá|Students get a discount here.|Học sinh được giảm giá ở đây.
+customer|khách hàng|The customer is always right.|Khách hàng luôn luôn đúng.
+receipt|biên lai, hóa đơn mua hàng|Please keep your receipt.|Xin hãy giữ biên lai của bạn.
+cash|tiền mặt|Can I pay in cash?|Tôi trả bằng tiền mặt được không?
+card|thẻ|I will pay by card.|Tôi sẽ trả bằng thẻ.
+online|trực tuyến, trên mạng|I often shop online.|Tôi thường mua sắm trên mạng.
+deliver|giao hàng|They deliver food to your home.|Họ giao đồ ăn đến tận nhà bạn.
+return|trả lại; quay lại|I want to return these shoes.|Tôi muốn trả lại đôi giày này.
+choose|chọn|It is hard to choose a gift.|Thật khó để chọn một món quà.
+quality|chất lượng|The quality of this bag is good.|Chất lượng của chiếc túi này tốt.
+
+%7|2|Phần 7: Thế giới hiện đại|Công nghệ, học tập, thiên nhiên, giải trí, thể thao|grape
+@e45|Công nghệ|Máy tính, internet, mật khẩu, tải xuống|Web
+computer|máy tính|I use a computer at work.|Tôi dùng máy tính ở chỗ làm.
+internet|mạng internet|The internet is slow today.|Hôm nay mạng internet chậm.
+email|thư điện tử|I will send you an email.|Tôi sẽ gửi thư điện tử cho bạn.
+message|tin nhắn|Did you get my message?|Bạn có nhận được tin nhắn của tôi không?
+website|trang web|This website is very useful.|Trang web này rất hữu ích.
+password|mật khẩu|Do not tell anyone your password.|Đừng nói mật khẩu của bạn cho ai.
+screen|màn hình|The screen of my phone is broken.|Màn hình điện thoại của tôi bị vỡ.
+download|tải xuống|You can download the app for free.|Bạn có thể tải ứng dụng miễn phí.
+search|tìm kiếm|Search for the word online.|Hãy tìm từ đó trên mạng.
+video|đoạn phim, video|We watched a funny video.|Chúng tôi đã xem một video hài.
+app|ứng dụng|This app helps me learn English.|Ứng dụng này giúp tôi học tiếng Anh.
+charge|sạc (pin); tính tiền|I need to charge my phone.|Tôi cần sạc điện thoại.
+
+@e46|Học tập|Đại học, kỳ thi, điểm, môn học|A+
+university|trường đại học|My sister studies at a university.|Chị tôi học ở một trường đại học.
+exam|kỳ thi|The exam starts at eight.|Kỳ thi bắt đầu lúc tám giờ.
+grade|điểm; lớp (khối)|He got a good grade in English.|Cậu ấy được điểm cao môn tiếng Anh.
+subject|môn học; chủ đề|What is your favorite subject?|Môn học bạn thích nhất là gì?
+math|môn toán|Math is difficult for me.|Môn toán khó đối với tôi.
+history|lịch sử|We learn history on Tuesday.|Chúng tôi học lịch sử vào thứ Ba.
+science|khoa học|She loves science and nature.|Cô ấy yêu khoa học và thiên nhiên.
+pass|đỗ, vượt qua; đưa|I hope to pass the test.|Tôi hy vọng sẽ đỗ bài kiểm tra.
+fail|trượt, thất bại|Do not worry if you fail once.|Đừng lo nếu bạn trượt một lần.
+practice|luyện tập|You should practice every day.|Bạn nên luyện tập mỗi ngày.
+explain|giải thích|Can you explain this word?|Bạn giải thích từ này được không?
+remember|nhớ|I cannot remember his name.|Tôi không nhớ được tên anh ấy.
+
+@e47|Thiên nhiên|Rừng, hồ, bãi biển, sao, mây|Sky
+forest|khu rừng|Many animals live in the forest.|Nhiều loài động vật sống trong rừng.
+lake|hồ|We swam in the lake.|Chúng tôi đã bơi ở hồ.
+beach|bãi biển|The beach is clean and quiet.|Bãi biển sạch và yên tĩnh.
+island|hòn đảo|They live on a small island.|Họ sống trên một hòn đảo nhỏ.
+sky|bầu trời|The sky is blue today.|Hôm nay bầu trời xanh.
+star|ngôi sao|I can see a bright star.|Tôi có thể thấy một ngôi sao sáng.
+moon|mặt trăng|The moon is very big tonight.|Tối nay trăng rất to.
+cloud|đám mây|There is not a cloud in the sky.|Trên trời không có một đám mây nào.
+storm|cơn bão|A big storm is coming.|Một cơn bão lớn đang đến.
+snow|tuyết|Children love to play in the snow.|Trẻ con thích chơi trong tuyết.
+desert|sa mạc|It is very dry in the desert.|Ở sa mạc rất khô.
+field|cánh đồng; sân|The cows are in the field.|Những con bò đang ở trên cánh đồng.
+
+@e48|Môi trường|Ô nhiễm, tái chế, bảo vệ, năng lượng|Eco
+environment|môi trường|We must protect the environment.|Chúng ta phải bảo vệ môi trường.
+pollution|sự ô nhiễm|Air pollution is a big problem.|Ô nhiễm không khí là một vấn đề lớn.
+plastic|nhựa|Do not use too much plastic.|Đừng dùng quá nhiều nhựa.
+recycle|tái chế|We recycle paper and bottles.|Chúng tôi tái chế giấy và chai lọ.
+protect|bảo vệ|Parents protect their children.|Cha mẹ bảo vệ con cái.
+save|tiết kiệm; cứu|Turn off the light to save energy.|Hãy tắt đèn để tiết kiệm năng lượng.
+waste|lãng phí; rác thải|Do not waste water.|Đừng lãng phí nước.
+energy|năng lượng|The sun gives us energy.|Mặt trời cho chúng ta năng lượng.
+air|không khí|The air is fresh in the mountains.|Không khí ở vùng núi trong lành.
+climate|khí hậu|The climate here is hot and wet.|Khí hậu ở đây nóng và ẩm.
+plant|cây, thực vật; trồng|We plant trees every spring.|Mùa xuân nào chúng tôi cũng trồng cây.
+earth|trái đất; đất|The earth is our home.|Trái đất là nhà của chúng ta.
+
+@e49|Giải trí|Hòa nhạc, bảo tàng, ảnh, vẽ|Art
+concert|buổi hòa nhạc|We went to a concert last night.|Tối qua chúng tôi đã đi xem hòa nhạc.
+museum|bảo tàng|The museum is closed on Monday.|Bảo tàng đóng cửa vào thứ Hai.
+theater|nhà hát, rạp|There is a new theater in town.|Có một nhà hát mới trong thị trấn.
+camera|máy ảnh|He bought a new camera.|Anh ấy đã mua một chiếc máy ảnh mới.
+photo|bức ảnh|Can you take a photo of us?|Bạn chụp cho chúng tôi một bức ảnh được không?
+novel|tiểu thuyết|I am reading a long novel.|Tôi đang đọc một cuốn tiểu thuyết dài.
+paint|sơn, vẽ (bằng màu)|She likes to paint flowers.|Cô ấy thích vẽ hoa.
+draw|vẽ (bằng bút)|Can you draw a horse?|Bạn vẽ được con ngựa không?
+guitar|đàn ghi-ta|He plays the guitar very well.|Anh ấy chơi ghi-ta rất hay.
+hobby|sở thích|My hobby is cooking.|Sở thích của tôi là nấu ăn.
+collect|sưu tầm, thu thập|I collect old coins.|Tôi sưu tầm tiền xu cổ.
+festival|lễ hội|The festival is in the spring.|Lễ hội diễn ra vào mùa xuân.
+
+@e50|Thể thao|Đội, trận đấu, thắng, thua|Win
+team|đội|Our team is very strong.|Đội của chúng tôi rất mạnh.
+match|trận đấu|The match starts at seven.|Trận đấu bắt đầu lúc bảy giờ.
+win|thắng|I hope we win the game.|Tôi hy vọng chúng ta thắng trận.
+lose|thua; làm mất|They never lose at home.|Họ không bao giờ thua trên sân nhà.
+player|cầu thủ, người chơi|He is the best player in the team.|Anh ấy là cầu thủ giỏi nhất đội.
+score|tỷ số; ghi điểm|What is the score now?|Tỷ số bây giờ là bao nhiêu?
+ball|quả bóng|The boy kicked the ball.|Cậu bé đã đá quả bóng.
+race|cuộc đua|She won the race.|Cô ấy đã thắng cuộc đua.
+coach|huấn luyện viên|The coach is talking to the team.|Huấn luyện viên đang nói chuyện với đội.
+tennis|quần vợt|We play tennis on Sunday.|Chúng tôi chơi quần vợt vào Chủ nhật.
+basketball|bóng rổ|He is tall and good at basketball.|Anh ấy cao và chơi bóng rổ giỏi.
+gym|phòng tập thể dục|I go to the gym after work.|Tôi đến phòng tập sau giờ làm.
+
+@e51|Động từ khuyết thiếu|Should, must, may, might, could|Can
+should|nên|You should drink more water.|Bạn nên uống nhiều nước hơn.
+must|phải|You must wear a helmet.|Bạn phải đội mũ bảo hiểm.
+may|có thể, được phép|May I come in?|Tôi vào được không?
+might|có lẽ, có thể|It might rain this afternoon.|Chiều nay trời có thể mưa.
+could|có thể (quá khứ, lịch sự)|Could you open the window?|Bạn mở cửa sổ giúp được không?
+would|sẽ, muốn (lịch sự)|I would like a cup of tea.|Tôi muốn một tách trà.
+have to|phải (bắt buộc)|I have to get up early tomorrow.|Ngày mai tôi phải dậy sớm.
+able|có thể, có khả năng|She is able to swim well.|Cô ấy có thể bơi giỏi.
+allow|cho phép|My parents allow me to go out.|Bố mẹ cho phép tôi ra ngoài.
+possible|có thể, khả thi|Is it possible to come earlier?|Có thể đến sớm hơn không?
+necessary|cần thiết|It is necessary to sleep enough.|Ngủ đủ giấc là cần thiết.
+advice|lời khuyên|Thank you for your advice.|Cảm ơn lời khuyên của bạn.
+
+%8|2|Phần 8: Diễn đạt ý kiến|Ý kiến, từ nối, trải nghiệm, giao tiếp, xã hội, mục tiêu|coral
+@e52|Ý kiến|Đồng ý, tin, lý do, quan trọng|Idea
+agree|đồng ý|I agree with you.|Tôi đồng ý với bạn.
+disagree|không đồng ý|We sometimes disagree about music.|Đôi khi chúng tôi bất đồng về âm nhạc.
+opinion|ý kiến|What is your opinion?|Ý kiến của bạn là gì?
+believe|tin, tin tưởng|I believe you can do it.|Tôi tin bạn có thể làm được.
+idea|ý tưởng|That is a great idea!|Đó là một ý tưởng tuyệt vời!
+reason|lý do|What is the reason for your choice?|Lý do cho lựa chọn của bạn là gì?
+true|đúng, thật|Is this story true?|Câu chuyện này có thật không?
+false|sai, giả|That answer is false.|Câu trả lời đó sai.
+sure|chắc chắn|Are you sure about that?|Bạn có chắc về điều đó không?
+important|quan trọng|Family is very important to me.|Gia đình rất quan trọng với tôi.
+interesting|thú vị|This is an interesting book.|Đây là một cuốn sách thú vị.
+prefer|thích hơn|I prefer tea to coffee.|Tôi thích trà hơn cà phê.
+
+@e53|Từ nối|Although, however, so, if, while|If
+although|mặc dù|Although it rained, we went out.|Mặc dù trời mưa, chúng tôi vẫn ra ngoài.
+however|tuy nhiên|He is rich. However, he is not happy.|Anh ấy giàu. Tuy nhiên, anh ấy không hạnh phúc.
+so|vì vậy; rất|I was tired, so I went to bed.|Tôi mệt nên đã đi ngủ.
+if|nếu|If it rains, we will stay home.|Nếu trời mưa, chúng tôi sẽ ở nhà.
+while|trong khi|She sings while she cooks.|Cô ấy hát trong khi nấu ăn.
+unless|trừ khi|I will go unless it rains.|Tôi sẽ đi trừ khi trời mưa.
+instead|thay vào đó|Let us walk instead.|Thay vào đó chúng ta hãy đi bộ.
+therefore|do đó, vì thế|He was sick. Therefore, he stayed home.|Anh ấy bị ốm. Do đó, anh ấy ở nhà.
+for example|ví dụ|I like fruit, for example apples.|Tôi thích hoa quả, ví dụ như táo.
+both|cả hai|Both of my parents are teachers.|Cả bố và mẹ tôi đều là giáo viên.
+either|một trong hai; cũng (không)|You can take either bus.|Bạn có thể đi một trong hai xe buýt.
+neither|không ... nào (trong hai)|Neither answer is right.|Không câu trả lời nào đúng.
+
+@e54|Trải nghiệm|Ever, been, done, bắt đầu, thay đổi|Ever
+ever|đã từng, bao giờ|Have you ever seen snow?|Bạn đã bao giờ thấy tuyết chưa?
+been|đã ở, đã đến (phân từ của be)|I have been to Hanoi twice.|Tôi đã đến Hà Nội hai lần.
+done|đã làm xong (phân từ của do)|Have you done your homework?|Bạn đã làm xong bài tập chưa?
+seen|đã thấy (phân từ của see)|I have seen that movie before.|Tôi đã xem bộ phim đó trước đây.
+experience|kinh nghiệm, trải nghiệm|She has a lot of experience.|Cô ấy có rất nhiều kinh nghiệm.
+finish|hoàn thành, kết thúc|I will finish this work tonight.|Tối nay tôi sẽ hoàn thành việc này.
+start|bắt đầu|The class will start at nine.|Lớp học sẽ bắt đầu lúc chín giờ.
+begin|bắt đầu|Let us begin the lesson.|Chúng ta hãy bắt đầu bài học.
+continue|tiếp tục|Please continue your story.|Xin hãy kể tiếp câu chuyện của bạn.
+change|thay đổi|I want to change my job.|Tôi muốn đổi việc.
+become|trở thành|He wants to become a pilot.|Anh ấy muốn trở thành phi công.
+happen|xảy ra|What will happen next?|Điều gì sẽ xảy ra tiếp theo?
+
+@e55|Giao tiếp|Trò chuyện, thảo luận, mời, xin lỗi|Talk
+conversation|cuộc trò chuyện|We had a long conversation.|Chúng tôi đã có một cuộc trò chuyện dài.
+discuss|thảo luận|Let us discuss the plan.|Chúng ta hãy thảo luận kế hoạch.
+describe|miêu tả|Can you describe your house?|Bạn miêu tả ngôi nhà của bạn được không?
+suggest|gợi ý, đề nghị|I suggest we take a taxi.|Tôi đề nghị chúng ta đi taxi.
+invite|mời|They will invite us to dinner.|Họ sẽ mời chúng tôi ăn tối.
+reply|trả lời, hồi âm|Please reply to my email.|Xin hãy trả lời thư của tôi.
+introduce|giới thiệu|Let me introduce my friend.|Để tôi giới thiệu bạn tôi.
+complain|phàn nàn|He likes to complain about the food.|Anh ấy hay phàn nàn về đồ ăn.
+apologize|xin lỗi|You should apologize to her.|Bạn nên xin lỗi cô ấy.
+repeat|nhắc lại, lặp lại|Could you repeat that, please?|Bạn nhắc lại điều đó được không?
+translate|dịch|Can you translate this sentence?|Bạn dịch câu này được không?
+language|ngôn ngữ|English is a useful language.|Tiếng Anh là một ngôn ngữ hữu ích.
+
+@e56|Xã hội|Chính phủ, luật, tin tức, văn hóa|News
+government|chính phủ|The government built a new road.|Chính phủ đã xây một con đường mới.
+law|luật, pháp luật|Everyone must follow the law.|Mọi người phải tuân theo pháp luật.
+news|tin tức|I watch the news every evening.|Tối nào tôi cũng xem tin tức.
+newspaper|tờ báo|My father reads the newspaper.|Bố tôi đọc báo.
+culture|văn hóa|I want to learn about Vietnamese culture.|Tôi muốn tìm hiểu về văn hóa Việt Nam.
+tradition|truyền thống|This is an old family tradition.|Đây là một truyền thống lâu đời của gia đình.
+society|xã hội|Teachers are important in our society.|Giáo viên rất quan trọng trong xã hội chúng ta.
+community|cộng đồng|Our community is small and friendly.|Cộng đồng của chúng tôi nhỏ và thân thiện.
+public|công cộng|This is a public park.|Đây là một công viên công cộng.
+rule|quy tắc, luật lệ|This is the first rule of the game.|Đây là quy tắc đầu tiên của trò chơi.
+problem|vấn đề|We can solve this problem.|Chúng ta có thể giải quyết vấn đề này.
+world|thế giới|English is spoken all over the world.|Tiếng Anh được nói trên khắp thế giới.
+
+@e57|Tiền bạc|Kiếm, tiêu, vay, thuê|Pay
+earn|kiếm (tiền)|I want to earn more money.|Tôi muốn kiếm nhiều tiền hơn.
+spend|tiêu (tiền), dành (thời gian)|I spend too much on clothes.|Tôi tiêu quá nhiều tiền vào quần áo.
+borrow|vay, mượn|Can I borrow your pen?|Tôi mượn bút của bạn được không?
+lend|cho vay, cho mượn|I can lend you some money.|Tôi có thể cho bạn mượn ít tiền.
+cost|có giá; chi phí|How much does this cost?|Cái này giá bao nhiêu?
+rent|tiền thuê; thuê|The rent is very high here.|Tiền thuê nhà ở đây rất cao.
+budget|ngân sách|We have a small budget for the trip.|Chúng tôi có ngân sách nhỏ cho chuyến đi.
+account|tài khoản|I opened a bank account.|Tôi đã mở một tài khoản ngân hàng.
+rich|giàu|He is not rich, but he is happy.|Anh ấy không giàu nhưng hạnh phúc.
+poor|nghèo|They help poor children.|Họ giúp đỡ trẻ em nghèo.
+free|miễn phí; rảnh, tự do|The museum is free on Sunday.|Bảo tàng miễn phí vào Chủ nhật.
+own|của riêng; sở hữu|I have my own room.|Tôi có phòng riêng.
+
+@e58|Mục tiêu|Ước mơ, thành công, cố gắng, cải thiện|Goal
+dream|giấc mơ, ước mơ|My dream is to travel the world.|Ước mơ của tôi là du lịch khắp thế giới.
+goal|mục tiêu|My goal is to speak English well.|Mục tiêu của tôi là nói tiếng Anh giỏi.
+success|sự thành công|Hard work brings success.|Làm việc chăm chỉ mang lại thành công.
+succeed|thành công|You will succeed if you try.|Bạn sẽ thành công nếu bạn cố gắng.
+try|cố gắng, thử|I will try my best.|Tôi sẽ cố gắng hết sức.
+effort|sự nỗ lực|Thank you for your effort.|Cảm ơn sự nỗ lực của bạn.
+improve|cải thiện|I want to improve my English.|Tôi muốn cải thiện tiếng Anh của mình.
+skill|kỹ năng|Cooking is a useful skill.|Nấu ăn là một kỹ năng hữu ích.
+chance|cơ hội|Give me one more chance.|Hãy cho tôi thêm một cơ hội.
+choice|sự lựa chọn|You made a good choice.|Bạn đã có một lựa chọn tốt.
+mistake|lỗi, sai lầm|Sorry, it was my mistake.|Xin lỗi, đó là lỗi của tôi.
+achieve|đạt được|She worked hard to achieve her goal.|Cô ấy đã làm việc chăm chỉ để đạt mục tiêu.
