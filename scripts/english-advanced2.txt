@@ -1,0 +1,185 @@
+# Khóa tiếng Anh cho người Việt – nâng cao, phần mở rộng (v5.2).
+# Cùng định dạng với english.txt.
+
+%305|3|Phần 5: Công sở, xã hội và sức khỏe|Họp hành, doanh nghiệp, chính trị, báo chí, bệnh tật, môi trường|coral
+@r01|Họp hành và nhân sự|Chương trình họp, biên bản, bàn giao, bảng lương|Meeting
+agenda|chương trình họp|The first item on the agenda is the budget.|Mục đầu tiên trong chương trình họp là ngân sách.
+minutes|biên bản cuộc họp|Who is taking the minutes today?|Hôm nay ai ghi biên bản cuộc họp?
+memo|thông báo nội bộ|The manager sent a memo to all staff.|Người quản lý gửi một thông báo nội bộ cho toàn bộ nhân viên.
+workload|khối lượng công việc|My workload has doubled this month.|Khối lượng công việc của tôi tăng gấp đôi trong tháng này.
+backlog|việc tồn đọng|We have a backlog of orders to send.|Chúng tôi có nhiều đơn hàng tồn đọng cần gửi.
+briefing|buổi phổ biến thông tin|There is a short briefing every morning.|Mỗi sáng có một buổi phổ biến thông tin ngắn.
+handover|sự bàn giao|The handover takes place on Friday.|Việc bàn giao diễn ra vào thứ Sáu.
+shortlist|danh sách rút gọn; đưa vào danh sách rút gọn|Three people are on the shortlist for the job.|Có ba người trong danh sách rút gọn cho vị trí này.
+payroll|bảng lương|The company has two hundred people on its payroll.|Công ty có hai trăm người trong bảng lương.
+allowance|khoản trợ cấp, phụ cấp|She gets a travel allowance.|Cô ấy được nhận phụ cấp đi lại.
+commission|tiền hoa hồng; ủy ban|Sales staff earn a commission on each sale.|Nhân viên bán hàng được hưởng hoa hồng trên mỗi đơn hàng.
+headcount|tổng số nhân sự|The firm plans to cut its headcount.|Công ty dự định cắt giảm số nhân sự.
+
+@r02|Hình thức làm việc|Tự do, bán thời gian, thực tập, nghỉ thai sản|Job
+severance|trợ cấp thôi việc|He received three months of severance pay.|Anh ấy nhận trợ cấp thôi việc bằng ba tháng lương.
+resignation|sự từ chức, đơn xin nghỉ việc|She handed in her resignation yesterday.|Hôm qua cô ấy đã nộp đơn xin nghỉ việc.
+apprentice|người học việc|He started as an apprentice at sixteen.|Anh ấy bắt đầu làm người học việc năm mười sáu tuổi.
+trainee|thực tập sinh, người được đào tạo|The trainee learns quickly.|Thực tập sinh học rất nhanh.
+freelance|làm tự do|She does freelance design work.|Cô ấy làm thiết kế tự do.
+self-employed|tự kinh doanh, làm chủ|My father has been self-employed for years.|Bố tôi tự kinh doanh đã nhiều năm.
+part-time|bán thời gian|He has a part-time job in a cafe.|Anh ấy có một công việc bán thời gian ở quán cà phê.
+full-time|toàn thời gian|She went back to full-time work in May.|Cô ấy quay lại làm toàn thời gian vào tháng Năm.
+rota|bảng phân ca|Check the rota to see when you work.|Hãy xem bảng phân ca để biết khi nào bạn làm.
+absence|sự vắng mặt|His absence was noticed by everyone.|Mọi người đều để ý đến sự vắng mặt của anh ấy.
+maternity|thai sản|She is on maternity leave until March.|Cô ấy nghỉ thai sản đến tháng Ba.
+perk|quyền lợi thêm, bổng lộc|Free lunch is a nice perk of the job.|Bữa trưa miễn phí là một quyền lợi thú vị của công việc.
+
+@r03|Doanh nghiệp và nợ|Mua lại, công ty con, hóa đơn, phá sản|Firm
+acquisition|sự mua lại, thâu tóm|The acquisition cost two billion dollars.|Thương vụ mua lại tốn hai tỷ đô la.
+subsidiary|công ty con|The bank has a subsidiary in Vietnam.|Ngân hàng có một công ty con ở Việt Nam.
+margin|biên lợi nhuận; lề giấy|The profit margin on food is small.|Biên lợi nhuận của thực phẩm thấp.
+invoice|hóa đơn (yêu cầu thanh toán)|Please send the invoice by email.|Vui lòng gửi hóa đơn qua thư điện tử.
+quotation|bảng báo giá; lời trích dẫn|We asked three firms for a quotation.|Chúng tôi yêu cầu ba công ty gửi báo giá.
+outlet|cửa hàng, điểm bán; lối thoát|The brand has an outlet in every city.|Thương hiệu có điểm bán ở mọi thành phố.
+distributor|nhà phân phối|We are looking for a distributor in Asia.|Chúng tôi đang tìm một nhà phân phối ở châu Á.
+collateral|tài sản thế chấp|They used their house as collateral.|Họ dùng ngôi nhà làm tài sản thế chấp.
+creditor|chủ nợ|The biggest creditor is a foreign bank.|Chủ nợ lớn nhất là một ngân hàng nước ngoài.
+debtor|con nợ|The debtor promised to pay by June.|Con nợ hứa sẽ trả trước tháng Sáu.
+bankruptcy|sự phá sản|The airline is close to bankruptcy.|Hãng hàng không đang gần phá sản.
+surplus|thặng dư, phần dư|The country has a trade surplus.|Đất nước có thặng dư thương mại.
+
+@r04|Quảng cáo và thương hiệu|Tờ rơi, biển quảng cáo, khẩu hiệu, nhà tài trợ|Brand
+brochure|tập quảng cáo|Take a brochure about the tour.|Hãy lấy một tập quảng cáo về chuyến tham quan.
+flyer|tờ rơi|Someone handed me a flyer in the street.|Ai đó đưa cho tôi một tờ rơi trên phố.
+billboard|biển quảng cáo lớn|There is a huge billboard by the highway.|Có một biển quảng cáo khổng lồ bên đường cao tốc.
+slogan|khẩu hiệu|The slogan is short and easy to remember.|Khẩu hiệu ngắn gọn và dễ nhớ.
+logo|biểu trưng|The new logo is a green panda.|Biểu trưng mới là một chú gấu trúc xanh.
+sponsor|nhà tài trợ; tài trợ|The team is looking for a new sponsor.|Đội đang tìm một nhà tài trợ mới.
+endorsement|sự chứng thực, quảng bá của người nổi tiếng|The singer earns millions from one endorsement.|Ca sĩ kiếm hàng triệu đô từ một hợp đồng quảng bá.
+publicity|sự quảng bá, sự chú ý của công chúng|The film got a lot of free publicity.|Bộ phim được quảng bá miễn phí rất nhiều.
+testimonial|lời chứng thực của khách hàng|The website shows a testimonial from a happy customer.|Trang web đăng lời chứng thực của một khách hàng hài lòng.
+reward|phần thưởng; thưởng|There is a reward for finding the dog.|Có phần thưởng cho ai tìm được con chó.
+prestige|uy tín, thanh thế|The prize brings great prestige.|Giải thưởng mang lại uy tín lớn.
+merit|giá trị, công trạng|The plan has some merit.|Kế hoạch có một số giá trị.
+
+@r05|Chính trị 2|Lá phiếu, trưng cầu, liên minh, biểu tình, đình công|Vote
+ballot|lá phiếu, cuộc bỏ phiếu kín|Each member has one ballot.|Mỗi thành viên có một lá phiếu.
+referendum|cuộc trưng cầu dân ý|The country held a referendum on the new law.|Đất nước tổ chức trưng cầu dân ý về luật mới.
+coalition|liên minh|Two parties formed a coalition.|Hai đảng lập một liên minh.
+manifesto|bản tuyên ngôn, cương lĩnh|The party published its manifesto.|Đảng công bố cương lĩnh của mình.
+cabinet|nội các; tủ có ngăn|The cabinet meets every Tuesday.|Nội các họp vào mỗi thứ Ba.
+senator|thượng nghị sĩ|The senator spoke for an hour.|Thượng nghị sĩ phát biểu suốt một tiếng.
+rally|cuộc mít tinh; tập hợp lại|Thousands joined the rally in the square.|Hàng nghìn người tham gia mít tinh ở quảng trường.
+petition|đơn kiến nghị|Over a million people signed the petition.|Hơn một triệu người đã ký đơn kiến nghị.
+boycott|tẩy chay; cuộc tẩy chay|Customers began to boycott the brand.|Khách hàng bắt đầu tẩy chay thương hiệu.
+strike|cuộc đình công; đình công; đánh|Train drivers are on strike today.|Hôm nay các lái tàu đình công.
+riot|cuộc bạo loạn|A riot broke out after the match.|Một cuộc bạo loạn nổ ra sau trận đấu.
+unrest|tình trạng bất ổn|There is growing unrest in the capital.|Tình trạng bất ổn ở thủ đô đang gia tăng.
+
+@r06|Tội phạm 2|Trọng tội, kiện tụng, công tố viên, trộm cắp, tống tiền|Crime
+parole|sự tạm tha có điều kiện|He was released on parole after five years.|Anh ta được tạm tha có điều kiện sau năm năm.
+felony|trọng tội|Armed robbery is a felony.|Cướp có vũ trang là một trọng tội.
+misdemeanor|tội nhẹ|He was charged with a misdemeanor.|Anh ta bị buộc một tội nhẹ.
+lawsuit|vụ kiện|The family filed a lawsuit against the hospital.|Gia đình đâm đơn kiện bệnh viện.
+attorney|luật sư|You have the right to an attorney.|Bạn có quyền có luật sư.
+prosecutor|công tố viên|The prosecutor asked for ten years in prison.|Công tố viên đề nghị mười năm tù.
+hoax|trò lừa bịp, tin giả|The bomb warning was a hoax.|Lời cảnh báo có bom là một trò lừa bịp.
+forgery|sự giả mạo, đồ giả mạo|The painting turned out to be a forgery.|Bức tranh hóa ra là đồ giả mạo.
+blackmail|tống tiền; sự tống tiền|He tried to blackmail his former boss.|Anh ta tìm cách tống tiền sếp cũ.
+theft|vụ trộm, tội trộm cắp|Bike theft is common in this area.|Trộm xe đạp rất phổ biến ở khu này.
+burglary|vụ trộm đột nhập|There was a burglary next door last night.|Đêm qua nhà bên cạnh bị trộm đột nhập.
+vandalism|hành vi phá hoại tài sản|The school suffers from vandalism at weekends.|Ngôi trường bị phá hoại vào các dịp cuối tuần.
+
+@r07|Báo chí và sách|Xã luận, báo lá cải, tiểu thuyết gia, hồi ký|Press
+editorial|bài xã luận|The editorial criticizes the new tax.|Bài xã luận chỉ trích loại thuế mới.
+columnist|người viết chuyên mục|She is a columnist for a national paper.|Cô ấy viết chuyên mục cho một tờ báo quốc gia.
+tabloid|báo lá cải|The story first appeared in a tabloid.|Câu chuyện lần đầu xuất hiện trên một tờ báo lá cải.
+circulation|số lượng phát hành; sự lưu thông|The paper has a circulation of two million.|Tờ báo có số phát hành hai triệu bản.
+scoop|tin độc quyền; cái muỗng xúc|The reporter got the scoop of the year.|Phóng viên có được tin độc quyền của năm.
+novelist|tiểu thuyết gia|The novelist won a major prize.|Tiểu thuyết gia giành một giải thưởng lớn.
+autobiography|tự truyện|He wrote his autobiography at eighty.|Ông ấy viết tự truyện năm tám mươi tuổi.
+memoir|hồi ký|Her memoir describes life during the war.|Hồi ký của bà kể về cuộc sống thời chiến.
+thriller|truyện, phim ly kỳ|I read a thriller on the plane.|Tôi đọc một cuốn truyện ly kỳ trên máy bay.
+bestseller|sách bán chạy nhất|Her first book became a bestseller.|Cuốn sách đầu tay của cô ấy trở thành sách bán chạy.
+paperback|sách bìa mềm|The paperback comes out in June.|Bản bìa mềm ra mắt vào tháng Sáu.
+publisher|nhà xuất bản|The publisher wants a second book.|Nhà xuất bản muốn có cuốn sách thứ hai.
+
+@r08|Bệnh thường gặp|Đại dịch, béo phì, hen, mất ngủ, cao huyết áp|Health
+pandemic|đại dịch|The pandemic changed how we work.|Đại dịch đã thay đổi cách chúng ta làm việc.
+immunity|khả năng miễn dịch; quyền miễn trừ|The vaccine gives immunity for years.|Vắc xin tạo miễn dịch trong nhiều năm.
+rehabilitation|sự phục hồi chức năng|He needs months of rehabilitation after the accident.|Anh ấy cần nhiều tháng phục hồi chức năng sau tai nạn.
+acute|cấp tính; gay gắt|She was taken to hospital with acute pain.|Cô ấy được đưa vào viện vì cơn đau cấp tính.
+obesity|bệnh béo phì|Obesity is rising among children.|Béo phì đang gia tăng ở trẻ em.
+asthma|bệnh hen suyễn|He has had asthma since childhood.|Anh ấy bị hen suyễn từ nhỏ.
+arthritis|bệnh viêm khớp|My grandmother has arthritis in her hands.|Bà tôi bị viêm khớp ở bàn tay.
+insomnia|chứng mất ngủ|Coffee makes my insomnia worse.|Cà phê làm chứng mất ngủ của tôi nặng hơn.
+migraine|chứng đau nửa đầu|Bright light can start a migraine.|Ánh sáng chói có thể gây ra cơn đau nửa đầu.
+anemia|bệnh thiếu máu|Anemia makes you feel tired.|Thiếu máu khiến bạn thấy mệt mỏi.
+ulcer|vết loét|Stress can make a stomach ulcer worse.|Căng thẳng có thể làm vết loét dạ dày nặng hơn.
+hypertension|bệnh cao huyết áp|Too much salt can lead to hypertension.|Ăn quá nhiều muối có thể dẫn đến cao huyết áp.
+
+@r09|Sức khỏe tinh thần 2|Chánh niệm, thiền, kiệt sức, tư vấn, sức bền|Mind
+wellbeing|sự khỏe mạnh, hạnh phúc|Sleep is important for your wellbeing.|Giấc ngủ rất quan trọng với sức khỏe và hạnh phúc của bạn.
+mindfulness|chánh niệm|Mindfulness helps me stay calm.|Chánh niệm giúp tôi giữ bình tĩnh.
+meditation|thiền|She begins each day with meditation.|Cô ấy bắt đầu mỗi ngày bằng việc thiền.
+burnout|sự kiệt sức vì làm việc|Many nurses suffer from burnout.|Nhiều y tá bị kiệt sức vì công việc.
+counseling|sự tư vấn tâm lý|The school offers free counseling.|Trường cung cấp tư vấn tâm lý miễn phí.
+therapist|nhà trị liệu|He sees a therapist once a week.|Anh ấy gặp nhà trị liệu mỗi tuần một lần.
+anxiety|sự lo âu|Exercise can reduce anxiety.|Tập thể dục có thể làm giảm lo âu.
+stamina|sức bền, thể lực|You need stamina to run a marathon.|Bạn cần sức bền để chạy marathon.
+endurance|sức chịu đựng|The race is a test of endurance.|Cuộc đua là một bài kiểm tra sức chịu đựng.
+workout|buổi tập luyện|I do a short workout before work.|Tôi tập một buổi ngắn trước khi đi làm.
+warm-up|bài khởi động|Never skip the warm-up.|Đừng bao giờ bỏ qua bài khởi động.
+contagion|sự lây lan (bệnh)|Masks reduce the risk of contagion.|Khẩu trang làm giảm nguy cơ lây lan.
+
+@r10|Môi trường và địa hình|Khí thải, bãi rác, tái chế, bán đảo, đầm lầy|Earth
+emissions|khí thải|The city wants to cut emissions by half.|Thành phố muốn cắt giảm một nửa lượng khí thải.
+landfill|bãi chôn lấp rác|Most of this waste goes to landfill.|Phần lớn rác này được đưa đến bãi chôn lấp.
+recycling|việc tái chế|Recycling saves energy.|Tái chế giúp tiết kiệm năng lượng.
+poaching|nạn săn trộm|Poaching threatens the last rhinos.|Nạn săn trộm đe dọa những con tê giác cuối cùng.
+sustainability|tính bền vững|The company talks a lot about sustainability.|Công ty nói nhiều về tính bền vững.
+iceberg|tảng băng trôi|The ship hit an iceberg.|Con tàu đâm vào một tảng băng trôi.
+peninsula|bán đảo|The hotel is on a small peninsula.|Khách sạn nằm trên một bán đảo nhỏ.
+delta|vùng châu thổ|Rice grows well in the delta.|Lúa mọc tốt ở vùng châu thổ.
+marsh|đầm lầy|Many birds nest in the marsh.|Nhiều loài chim làm tổ ở đầm lầy.
+dune|cồn cát|We climbed a sand dune to watch the sunset.|Chúng tôi leo lên một cồn cát để ngắm hoàng hôn.
+prairie|đồng cỏ lớn|Wild horses run across the prairie.|Ngựa hoang chạy băng qua đồng cỏ.
+tundra|lãnh nguyên|Few trees grow on the tundra.|Rất ít cây mọc trên lãnh nguyên.
+
+@r11|Nông trại và đô thị|Tưới tiêu, gia súc, chuồng, vỉa hè, đèn đường|Farm
+irrigation|sự tưới tiêu|Irrigation turned the desert into farmland.|Tưới tiêu đã biến sa mạc thành đất canh tác.
+livestock|gia súc, vật nuôi|The farmer sold his livestock.|Người nông dân bán đàn gia súc của mình.
+plow|cái cày; cày|The farmer uses a buffalo to pull the plow.|Người nông dân dùng trâu để kéo cày.
+barn|nhà kho, chuồng (ở trang trại)|The hay is kept in the barn.|Cỏ khô được cất trong nhà kho.
+pasture|đồng cỏ chăn thả|Cows are eating in the pasture.|Bò đang ăn cỏ trên đồng.
+dairy|sản phẩm từ sữa; trại bò sữa|I try to eat less dairy.|Tôi cố ăn ít sản phẩm từ sữa hơn.
+poultry|gia cầm|The farm raises poultry and pigs.|Trang trại nuôi gia cầm và lợn.
+sanitation|hệ thống vệ sinh|Poor sanitation spreads disease.|Vệ sinh kém làm lây lan bệnh tật.
+pavement|vỉa hè, mặt đường lát|Motorbikes are parked on the pavement.|Xe máy đỗ trên vỉa hè.
+streetlight|đèn đường|The streetlight outside my window is broken.|Đèn đường bên ngoài cửa sổ nhà tôi bị hỏng.
+monument|đài tưởng niệm, công trình kỷ niệm|The monument stands in the main square.|Đài tưởng niệm nằm ở quảng trường chính.
+gadget|đồ dùng công nghệ nhỏ|This kitchen gadget peels garlic.|Món đồ nhà bếp này bóc được tỏi.
+
+@r12|Di cư và từ thiện|Người di cư, quốc tịch, trục xuất, nhà hảo tâm|Move
+migrant|người di cư|Each migrant has a different story.|Mỗi người di cư có một câu chuyện khác nhau.
+citizenship|quốc tịch, quyền công dân|She applied for citizenship last year.|Năm ngoái cô ấy nộp đơn xin quốc tịch.
+deport|trục xuất|The government decided to deport him.|Chính phủ quyết định trục xuất anh ta.
+expatriate|người sống ở nước ngoài|He is an expatriate working in Hanoi.|Anh ấy là người nước ngoài làm việc ở Hà Nội.
+homeland|quê hương, tổ quốc|She returned to her homeland after thirty years.|Bà ấy trở về quê hương sau ba mươi năm.
+exile|sự lưu vong; người lưu vong|The writer spent ten years in exile.|Nhà văn sống lưu vong mười năm.
+settler|người định cư|The first settler built a house by the river.|Người định cư đầu tiên dựng một ngôi nhà bên sông.
+fundraiser|sự kiện gây quỹ|The school held a fundraiser for the library.|Trường tổ chức một sự kiện gây quỹ cho thư viện.
+donor|người hiến tặng, nhà hảo tâm|A donor paid for the new hospital wing.|Một nhà hảo tâm đã chi tiền xây khu mới của bệnh viện.
+orphanage|trại trẻ mồ côi|She grew up in an orphanage.|Cô ấy lớn lên trong trại trẻ mồ côi.
+homelessness|tình trạng vô gia cư|Homelessness is rising in big cities.|Tình trạng vô gia cư đang tăng ở các thành phố lớn.
+curfew|lệnh giới nghiêm|The curfew begins at ten.|Lệnh giới nghiêm bắt đầu lúc mười giờ.
+
+@r13|Thể thao và dã ngoại|Khán giả, đối thủ, bán kết, đi bộ đường dài|Trip
+spectator|khán giả (xem thi đấu)|A spectator ran onto the field.|Một khán giả chạy vào sân.
+opponent|đối thủ|She beat her opponent in two sets.|Cô ấy thắng đối thủ sau hai séc.
+underdog|kẻ yếu thế, đội cửa dưới|Everyone loves it when the underdog wins.|Ai cũng thích khi đội cửa dưới chiến thắng.
+league|giải đấu, liên đoàn|They finished third in the league.|Họ đứng thứ ba giải đấu.
+semifinal|trận bán kết|Vietnam reached the semifinal.|Việt Nam vào đến bán kết.
+hike|đi bộ đường dài; chuyến đi bộ|We went on a hike in Sa Pa.|Chúng tôi đi bộ đường dài ở Sa Pa.
+stroll|đi dạo; cuộc đi dạo|We took a stroll along the river.|Chúng tôi đi dạo dọc bờ sông.
+wander|đi lang thang|I like to wander around old towns.|Tôi thích đi lang thang quanh các phố cổ.
+roam|đi rong, lang thang|Cows roam freely in the village.|Bò đi rong tự do trong làng.
+voyage|chuyến đi dài (trên biển, vũ trụ)|The voyage took six weeks.|Chuyến hải trình kéo dài sáu tuần.
+excursion|chuyến tham quan ngắn|The price includes an excursion to the island.|Giá đã bao gồm một chuyến tham quan ra đảo.
+getaway|chuyến đi nghỉ ngắn|We planned a weekend getaway.|Chúng tôi lên kế hoạch cho một chuyến nghỉ cuối tuần.
