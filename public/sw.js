@@ -1,4 +1,4 @@
-/* Học Tiếng Trung – Gấu Trúc Mập service worker: offline app shell + daily reminder. */
+/* Học Ngoại Ngữ – Gấu Trúc Xanh service worker: offline app shell + daily reminder. */
 const VERSION = '__BUILD_ID__';
 const PRECACHE = self.__PRECACHE__ || []; // filled in by the Vite build (vite.config.ts)
 const SHELL = `htt-shell-${VERSION}`;

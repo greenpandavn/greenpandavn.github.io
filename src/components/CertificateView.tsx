@@ -40,7 +40,7 @@ export default function CertificateView({ cert, onClose }: { cert: Certificate; 
               <div className="text-xl font-black text-ink-700">{fmt(cert.date)}</div>
             </div>
           </div>
-          <p className="mt-4 text-xs font-bold text-ink-400">Học Tiếng Trung – Gấu Trúc Mập · VH Phước</p>
+          <p className="mt-4 text-xs font-bold text-ink-400">Học Ngoại Ngữ – Gấu Trúc Xanh · VH Phước</p>
           <p className="text-[10px] font-semibold text-ink-300">Mã: {cert.id.toUpperCase()}-{cert.date.replace(/-/g, '')}</p>
         </div>
         <div className="no-print mt-3 flex flex-col gap-2 rounded-3xl bg-white p-4">

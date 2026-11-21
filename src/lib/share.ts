@@ -1,5 +1,5 @@
 export const APP_URL = 'https://hoc-tieng-trung-roan.vercel.app/';
-export const APP_NAME = 'Học Tiếng Trung – Gấu Trúc Mập';
+export const APP_NAME = 'Học Ngoại Ngữ – Gấu Trúc Xanh';
 
 export const shareText = {
   streak: (n: number) => `Tôi đã học tiếng Trung được ${n} ngày liên tiếp trên ${APP_NAME}! 🔥`,

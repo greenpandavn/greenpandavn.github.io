@@ -1,3 +1,4 @@
+import { VERSION_LABEL } from '../lib/version';
 import { useRef, useState } from 'react';
 import type { Certificate } from '../types';
 import { firebaseConfigured, loadCloud, useAccount, visibleCerts } from '../lib/account';
@@ -391,9 +392,12 @@ export default function ProfileScreen({ onLogin, onAdmin }: { onLogin: () => voi
       <h2 className="mb-2 mt-6 text-lg font-black">Giới thiệu / Liên hệ</h2>
       <div className="card flex flex-col gap-1 text-sm font-semibold text-ink-500" data-testid="about">
         <p>
-          <b className="text-ink-700">Học Tiếng Trung – Gấu Trúc Mập</b> là ứng dụng học tiếng Trung HSK 1 miễn phí cho người Việt.
+          <b className="text-ink-700">Học Ngoại Ngữ – Gấu Trúc Xanh</b> là ứng dụng học tiếng Trung HSK 1 miễn phí cho người Việt.
         </p>
-        <p>© 2026 VH Phước — Học Tiếng Trung, Gấu Trúc Mập. Mọi nội dung thuộc về VH Phước.</p>
+        <p>© 2026 VH Phước — Học Ngoại Ngữ, Gấu Trúc Xanh. Mọi nội dung thuộc về VH Phước.</p>
+        <p data-testid="about-version">
+          Phiên bản: <b className="text-ink-700">{VERSION_LABEL}</b>
+        </p>
         <p>
           Email liên hệ:{' '}
           <a href={`mailto:${CONTACT_EMAIL}`} className="font-extrabold text-ink-700 underline">

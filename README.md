@@ -1,8 +1,8 @@
-# Học Tiếng Trung – Gấu Trúc Mập 🐼
+# Học Ngoại Ngữ – Gấu Trúc Xanh 🐼
 
 Ứng dụng học tiếng Trung (HSK 1) **miễn phí** cho người Việt, phong cách học qua trò chơi. Dùng được ngay không cần tài khoản; đăng nhập (Firebase, gói Spark miễn phí) để đồng bộ tiến độ và lên bảng xếp hạng.
 
-Bản chạy thật: https://hoc-tieng-trung-roan.vercel.app/
+Bản chạy thật: https://greenpandavn.github.io/ (GitHub Pages) · Phiên bản hiện tại: **GreenPanda v2.0.0** (`src/lib/version.ts`)
 
 ## Chạy thử
 
@@ -108,7 +108,7 @@ Từ vựng được soạn trong `scripts/vocab.txt` và sinh ra `src/data/less
 
 ## Giấy phép & ghi công
 
-© 2026 VH Phước — Học Tiếng Trung, Gấu Trúc Mập. Mọi nội dung thuộc về VH Phước. Liên hệ: [huuphuocln@gmail.com](mailto:huuphuocln@gmail.com) · [YouTube @vhphuocmedia](https://www.youtube.com/@vhphuocmedia).
+© 2026 VH Phước — Học Ngoại Ngữ, Gấu Trúc Xanh. Mọi nội dung thuộc về VH Phước. Liên hệ: [huuphuocln@gmail.com](mailto:huuphuocln@gmail.com) · [YouTube @vhphuocmedia](https://www.youtube.com/@vhphuocmedia).
 
 
 Nội dung, hình gấu trúc và giao diện là nguyên bản. Thư viện [HanziWriter](https://hanziwriter.org) (MIT); dữ liệu nét chữ từ [Make Me a Hanzi](https://github.com/skishore/makemeahanzi) (Arphic Public License). Không liên kết với Duolingo.

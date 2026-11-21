@@ -1,6 +1,6 @@
 export type Mood = 'happy' | 'sad' | 'neutral' | 'cheer' | 'think';
 
-/** Original cute panda mascot ("Gấu Trúc Mập"). */
+/** Original cute panda mascot ("Gấu Trúc Xanh"). */
 export default function Panda({ size = 120, mood = 'happy', className = '' }: { size?: number; mood?: Mood; className?: string }) {
   const mouth =
     mood === 'sad' ? (
