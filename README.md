@@ -106,7 +106,11 @@ Từ vựng được soạn trong `scripts/vocab.txt` và sinh ra `src/data/less
 
 `vite.config.ts` dùng `base: './'`, nên thư mục `dist/` chạy được trên Vercel, GitHub Pages hoặc bất kỳ host tĩnh nào. Khi build, plugin `sw-precache` ghi danh sách tệp vào `dist/sw.js` để lưu offline.
 
-## Giấy phép & ghi công
+## Bản quyền / License
+
+Ứng dụng được dùng **miễn phí** tại <https://greenpandavn.github.io/>. Tuy nhiên, toàn bộ mã nguồn và nội dung học tập (bài học, dữ liệu từ vựng, đề thi thử, hình ảnh và thiết kế) là tài sản của **VH Phước**. Không được sao chép, phân phối, chỉnh sửa hay sử dụng lại bất kỳ phần nào khi chưa có sự cho phép bằng văn bản của chủ sở hữu. Xem tệp [LICENSE](LICENSE).
+
+## Ghi công
 
 © 2026 VH Phước — Học Ngoại Ngữ, Gấu Trúc Xanh. Mọi nội dung thuộc về VH Phước. Liên hệ: [huuphuocln@gmail.com](mailto:huuphuocln@gmail.com) · [YouTube @vhphuocmedia](https://www.youtube.com/@vhphuocmedia).
 
