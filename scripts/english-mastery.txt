@@ -226,3 +226,117 @@ sabbatical|kỳ nghỉ phép dài để nghiên cứu|The professor is on sabbat
 truancy|sự trốn học|Truancy fell after the new program began.|Tình trạng trốn học giảm sau khi chương trình mới bắt đầu.
 alumnus|cựu sinh viên|He is an alumnus of this university.|Ông ấy là cựu sinh viên của trường đại học này.
 proficiency|sự thành thạo|The job requires proficiency in English.|Công việc đòi hỏi sự thành thạo tiếng Anh.
+
+
+%502|5|Phần 2: Khoa học và kỹ thuật|Y khoa, sinh học, khí tượng, hàng không, điện tử, dữ liệu|sky
+@x17|Giải phẫu|Xương, gân, cơ quan, mạch máu|Body
+cranium|hộp sọ|The cranium protects the brain.|Hộp sọ bảo vệ não.
+femur|xương đùi|The femur is the longest bone in the body.|Xương đùi là xương dài nhất trong cơ thể.
+tendon|gân|He tore a tendon in his ankle.|Anh ấy bị rách gân ở mắt cá chân.
+ligament|dây chằng|A knee ligament takes months to heal.|Dây chằng đầu gối mất nhiều tháng mới lành.
+cartilage|sụn|Cartilage covers the ends of the bones.|Sụn bao bọc đầu các xương.
+vertebra|đốt sống|One vertebra in his neck was broken.|Một đốt sống cổ của anh ấy bị gãy.
+abdomen|bụng, ổ bụng|She felt a sharp pain in her abdomen.|Cô ấy thấy đau nhói ở bụng.
+pancreas|tuyến tụy|The pancreas makes insulin.|Tuyến tụy sản xuất insulin.
+spleen|lá lách|The spleen helps the body fight infection.|Lá lách giúp cơ thể chống nhiễm trùng.
+retina|võng mạc|Light falls on the retina at the back of the eye.|Ánh sáng rơi vào võng mạc ở phía sau mắt.
+artery|động mạch|A blocked artery can cause a heart attack.|Động mạch bị tắc có thể gây đau tim.
+capillary|mao mạch|A capillary is thinner than a hair.|Mao mạch mỏng hơn một sợi tóc.
+
+@x18|Bệnh lý|U lành, u ác, viêm, tái phát, tiên lượng|Illness
+benign|lành tính|The lump was benign.|Khối u là lành tính.
+malignant|ác tính|Tests showed that the tumor was malignant.|Xét nghiệm cho thấy khối u là ác tính.
+lesion|tổn thương (trên da, mô)|The doctor examined a lesion on his arm.|Bác sĩ khám một vết tổn thương trên cánh tay anh ấy.
+inflammation|chứng viêm|Ice reduces inflammation.|Đá lạnh làm giảm viêm.
+edema|chứng phù|Edema made her feet swell.|Chứng phù khiến bàn chân cô ấy sưng lên.
+fibrosis|chứng xơ hóa|Fibrosis makes the lungs stiff.|Chứng xơ hóa làm phổi bị cứng.
+necrosis|hoại tử|Necrosis set in after the burn.|Hoại tử xuất hiện sau vết bỏng.
+sepsis|nhiễm trùng huyết|Sepsis must be treated within hours.|Nhiễm trùng huyết phải được điều trị trong vòng vài giờ.
+hemorrhage|xuất huyết|He died of a brain hemorrhage.|Ông ấy qua đời vì xuất huyết não.
+relapse|tái phát|She had a relapse after two good years.|Cô ấy bị tái phát sau hai năm khỏe mạnh.
+remission|sự thuyên giảm (bệnh)|The cancer is now in remission.|Bệnh ung thư hiện đang thuyên giảm.
+prognosis|tiên lượng bệnh|The prognosis is good if we act early.|Tiên lượng tốt nếu chúng ta hành động sớm.
+
+@x19|Dược phẩm|Liều lượng, thuốc an thần, giả dược, thuốc mỡ|Drug
+dosage|liều lượng|Do not exceed the stated dosage.|Không dùng quá liều lượng đã ghi.
+sedative|thuốc an thần|The nurse gave him a mild sedative.|Y tá cho ông ấy một liều thuốc an thần nhẹ.
+antidote|thuốc giải độc|There is no antidote for this poison.|Không có thuốc giải cho loại độc này.
+analgesic|thuốc giảm đau|Take an analgesic if the pain returns.|Hãy uống thuốc giảm đau nếu cơn đau trở lại.
+placebo|giả dược|Half of the patients received a placebo.|Một nửa số bệnh nhân được dùng giả dược.
+contraindication|chống chỉ định|Pregnancy is a contraindication for this drug.|Mang thai là một chống chỉ định của thuốc này.
+antiseptic|thuốc sát trùng|Clean the cut with antiseptic.|Hãy rửa vết cắt bằng thuốc sát trùng.
+ointment|thuốc mỡ|Put the ointment on twice a day.|Bôi thuốc mỡ hai lần mỗi ngày.
+tablet|viên nén; máy tính bảng|Take one tablet after each meal.|Uống một viên sau mỗi bữa ăn.
+capsule|viên nang|Swallow the capsule with water.|Nuốt viên nang với nước.
+syrup|xi rô|The child takes cough syrup at night.|Đứa trẻ uống xi rô ho vào buổi tối.
+prescribe|kê đơn|The doctor will prescribe something stronger.|Bác sĩ sẽ kê loại thuốc mạnh hơn.
+
+@x20|Phẫu thuật|Dao mổ, khâu, gây mê, ghép, sinh thiết|Surgery
+incision|vết rạch, đường mổ|The surgeon made a small incision.|Bác sĩ phẫu thuật rạch một đường nhỏ.
+suture|mũi khâu; khâu vết thương|The nurse removed each suture carefully.|Y tá cẩn thận tháo từng mũi khâu.
+scalpel|dao mổ|The scalpel must be perfectly clean.|Dao mổ phải hoàn toàn sạch.
+anesthesia|sự gây mê, gây tê|The operation is done under local anesthesia.|Ca mổ được thực hiện dưới gây tê tại chỗ.
+graft|mảnh ghép; ghép|He needed a skin graft after the fire.|Anh ấy cần ghép da sau vụ cháy.
+tourniquet|ga rô|Tie a tourniquet above the wound.|Hãy buộc ga rô phía trên vết thương.
+biopsy|sinh thiết|The biopsy results come back on Friday.|Kết quả sinh thiết sẽ có vào thứ Sáu.
+catheter|ống thông|A catheter was placed in his arm.|Một ống thông được đặt vào cánh tay ông ấy.
+stent|ống đỡ động mạch|Doctors put a stent in the blocked artery.|Các bác sĩ đặt một ống đỡ vào động mạch bị tắc.
+amputation|sự cắt cụt chi|Amputation was the only way to save her life.|Cắt cụt chi là cách duy nhất để cứu sống cô ấy.
+sterile|vô trùng|Use a sterile needle every time.|Hãy dùng kim vô trùng mỗi lần.
+forceps|cái kẹp phẫu thuật|She held the thread with forceps.|Cô ấy giữ sợi chỉ bằng kẹp.
+
+@x21|Vi sinh vật|Mầm bệnh, vi khuẩn, nấm, kháng thể|Germ
+pathogen|mầm bệnh|The pathogen spreads through dirty water.|Mầm bệnh lây qua nước bẩn.
+bacterium|vi khuẩn (số ít)|A single bacterium can divide every twenty minutes.|Một vi khuẩn có thể phân chia mỗi hai mươi phút.
+fungus|nấm|A fungus is growing on the bread.|Một loại nấm đang mọc trên bánh mì.
+spore|bào tử|Each spore can grow into a new plant.|Mỗi bào tử có thể phát triển thành một cây mới.
+parasite|ký sinh trùng|The parasite lives inside the fish.|Ký sinh trùng sống bên trong con cá.
+inoculate|tiêm chủng, cấy|Nurses inoculate children against measles.|Y tá tiêm chủng cho trẻ em phòng bệnh sởi.
+incubate|ủ, nuôi cấy|We incubate the samples at body temperature.|Chúng tôi ủ các mẫu ở nhiệt độ cơ thể.
+strain|chủng (vi rút); sự căng thẳng|A new strain of flu appeared this winter.|Một chủng cúm mới xuất hiện mùa đông này.
+virulent|có độc lực cao, rất độc|This is a very virulent form of the disease.|Đây là một dạng bệnh có độc lực rất cao.
+antibody|kháng thể|The test looks for one antibody in the blood.|Xét nghiệm tìm một loại kháng thể trong máu.
+microbe|vi sinh vật|You cannot see a microbe without a microscope.|Bạn không thể thấy vi sinh vật nếu không có kính hiển vi.
+enzyme|enzim|This enzyme helps the body digest milk.|Enzim này giúp cơ thể tiêu hóa sữa.
+
+@x22|Thực vật học|Phấn hoa, cánh hoa, tán lá, nảy mầm|Plant
+botany|thực vật học|She studied botany at university.|Cô ấy học thực vật học ở đại học.
+pollen|phấn hoa|Pollen makes me sneeze in spring.|Phấn hoa làm tôi hắt hơi vào mùa xuân.
+stamen|nhị hoa|Each flower has one long stamen.|Mỗi bông hoa có một nhị dài.
+petal|cánh hoa|A petal fell onto the table.|Một cánh hoa rơi xuống bàn.
+foliage|tán lá|The foliage turns red in autumn.|Tán lá chuyển sang màu đỏ vào mùa thu.
+shrub|cây bụi|A shrub grows beside the gate.|Một cây bụi mọc bên cạnh cổng.
+perennial|cây lâu năm; lâu dài|This perennial flowers every summer.|Loại cây lâu năm này ra hoa mỗi mùa hè.
+germinate|nảy mầm|The seeds germinate in about a week.|Hạt nảy mầm trong khoảng một tuần.
+photosynthesis|quang hợp|Plants need light for photosynthesis.|Cây cần ánh sáng để quang hợp.
+sap|nhựa cây|Sap ran down the trunk.|Nhựa cây chảy xuống thân cây.
+bark|vỏ cây; sủa|The bark of this tree is white.|Vỏ của cây này màu trắng.
+seedling|cây con, cây giống|Water each seedling every morning.|Hãy tưới mỗi cây con vào mỗi sáng.
+
+@x23|Động vật học|Bò sát, lưỡng cư, ăn thịt, ngủ đông|Animal
+mammal|động vật có vú|A whale is a mammal, not a fish.|Cá voi là động vật có vú, không phải cá.
+reptile|loài bò sát|A snake is a reptile.|Rắn là một loài bò sát.
+amphibian|động vật lưỡng cư|A frog is an amphibian.|Ếch là một động vật lưỡng cư.
+vertebrate|động vật có xương sống|Every bird is a vertebrate.|Mọi loài chim đều là động vật có xương sống.
+scavenger|động vật ăn xác thối|The vulture is a scavenger.|Kền kền là loài ăn xác thối.
+marsupial|thú có túi|The kangaroo is a marsupial.|Chuột túi là một loài thú có túi.
+carnivore|động vật ăn thịt|A lion is a carnivore.|Sư tử là động vật ăn thịt.
+herbivore|động vật ăn cỏ|A cow is a herbivore.|Bò là động vật ăn cỏ.
+plumage|bộ lông chim|The male bird has bright plumage.|Con chim trống có bộ lông sặc sỡ.
+hibernate|ngủ đông|Bears hibernate through the winter.|Gấu ngủ đông suốt mùa đông.
+molt|thay lông, lột xác|Snakes molt several times a year.|Rắn lột xác vài lần mỗi năm.
+larva|ấu trùng|The larva becomes a butterfly.|Ấu trùng trở thành bướm.
+
+@x24|Khí tượng|Áp kế, mưa đá, gió giật, sương giá|Sky
+barometer|áp kế|The barometer shows that rain is coming.|Áp kế cho thấy trời sắp mưa.
+dew|sương|The grass was wet with dew.|Cỏ ướt đẫm sương.
+precipitation|lượng mưa, giáng thủy|Precipitation is highest in August.|Lượng mưa cao nhất vào tháng Tám.
+squall|cơn gió mạnh bất chợt kèm mưa|A squall hit the boat without warning.|Một cơn gió mạnh kèm mưa ập vào con thuyền mà không báo trước.
+cyclone|lốc xoáy, bão xoáy|The cyclone destroyed hundreds of homes.|Cơn bão xoáy phá hủy hàng trăm ngôi nhà.
+drizzle|mưa phùn|A light drizzle fell all morning.|Mưa phùn nhẹ rơi suốt buổi sáng.
+hail|mưa đá|Hail damaged the cars in the street.|Mưa đá làm hỏng những chiếc xe trên phố.
+gust|cơn gió giật|A gust of wind blew my hat away.|Một cơn gió giật thổi bay mũ của tôi.
+frost|sương giá|Frost covered the fields this morning.|Sáng nay sương giá phủ kín cánh đồng.
+overcast|u ám, nhiều mây|The sky was overcast all day.|Bầu trời u ám cả ngày.
+meteorologist|nhà khí tượng học|The meteorologist warned of heavy snow.|Nhà khí tượng học cảnh báo có tuyết rơi dày.
+sleet|mưa tuyết|Sleet made the roads dangerous.|Mưa tuyết khiến đường sá nguy hiểm.
