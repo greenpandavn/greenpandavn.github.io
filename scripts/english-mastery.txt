@@ -453,3 +453,117 @@ suspension|hệ thống treo; sự đình chỉ|The suspension makes the ride sm
 carburetor|bộ chế hòa khí|The old motorbike needs a new carburetor.|Chiếc xe máy cũ cần một bộ chế hòa khí mới.
 lubricant|chất bôi trơn|Use a lubricant on the chain.|Hãy dùng chất bôi trơn cho xích.
 gasket|gioăng, miếng đệm|The gasket is leaking oil.|Miếng đệm đang rò dầu.
+
+
+%503|5|Phần 3: Văn hóa và nghệ thuật|Âm nhạc, hội họa, sân khấu, kiến trúc, ẩm thực, thú vui|grape
+@x33|Âm nhạc cổ điển|Giao hưởng, hòa tấu, nhịp độ, giọng hát|Music
+symphony|bản giao hưởng|The orchestra played a symphony by Beethoven.|Dàn nhạc chơi một bản giao hưởng của Beethoven.
+concerto|bản công-xéc-tô|She performed a piano concerto last night.|Tối qua cô ấy biểu diễn một bản công-xéc-tô cho piano.
+sonata|bản xô-nát|He practiced the sonata for months.|Anh ấy luyện bản xô-nát suốt nhiều tháng.
+overture|khúc dạo đầu|The overture lasts about five minutes.|Khúc dạo đầu kéo dài khoảng năm phút.
+crescendo|đoạn mạnh dần; cao trào|The music rose to a crescendo.|Âm nhạc dâng lên đến cao trào.
+tempo|nhịp độ|The tempo of this song is very fast.|Nhịp độ của bài hát này rất nhanh.
+maestro|nhạc trưởng bậc thầy|The maestro bowed to the audience.|Vị nhạc trưởng cúi chào khán giả.
+soprano|giọng nữ cao|The soprano sang without a microphone.|Giọng nữ cao hát mà không cần micro.
+tenor|giọng nam cao|A famous tenor will sing tonight.|Một giọng nam cao nổi tiếng sẽ hát tối nay.
+quartet|bộ tứ, nhóm bốn người|A string quartet played at the wedding.|Một bộ tứ đàn dây chơi tại đám cưới.
+aria|khúc đơn ca trong nhạc kịch|Her aria made the audience cry.|Khúc đơn ca của cô ấy khiến khán giả rơi nước mắt.
+libretto|lời nhạc kịch|The libretto was written in Italian.|Lời nhạc kịch được viết bằng tiếng Ý.
+
+@x34|Hội họa|Bích họa, bảng màu, giá vẽ, sơn dầu|Paint
+fresco|tranh bích họa (vẽ trên vữa ướt)|A fresco covers the ceiling of the church.|Một bức bích họa phủ kín trần nhà thờ.
+mural|tranh tường|Students painted a mural on the school wall.|Học sinh vẽ một bức tranh tường trên tường trường.
+palette|bảng pha màu; gam màu|The artist mixed blue and white on her palette.|Họa sĩ pha màu xanh và trắng trên bảng màu.
+easel|giá vẽ|He set up his easel by the river.|Anh ấy dựng giá vẽ bên bờ sông.
+canvas|vải vẽ, tranh sơn dầu|She stretched the canvas over a wooden frame.|Cô ấy căng vải vẽ lên một khung gỗ.
+pigment|chất màu, sắc tố|This pigment comes from a red stone.|Chất màu này lấy từ một loại đá đỏ.
+etching|tranh khắc axit|An etching of the old town hangs in the hall.|Một bức tranh khắc về phố cổ treo trong sảnh.
+watercolor|màu nước, tranh màu nước|She gave me a small watercolor of the sea.|Cô ấy tặng tôi một bức màu nước nhỏ vẽ biển.
+portrait|tranh chân dung|A portrait of the founder hangs in the lobby.|Một bức chân dung của người sáng lập treo ở sảnh.
+gouache|màu bột|He prefers gouache to oil paint.|Anh ấy thích màu bột hơn sơn dầu.
+varnish|véc-ni, dầu bóng|A coat of varnish protects the painting.|Một lớp dầu bóng bảo vệ bức tranh.
+curator|người phụ trách bảo tàng, giám tuyển|The curator chose forty works for the show.|Giám tuyển đã chọn bốn mươi tác phẩm cho triển lãm.
+
+@x35|Sân khấu|Kịch tác gia, tập dượt, độc thoại, hậu trường|Stage
+playwright|nhà viết kịch|The playwright was in the audience.|Nhà viết kịch ngồi trong hàng khán giả.
+rehearsal|buổi diễn tập|The final rehearsal is on Thursday.|Buổi diễn tập cuối cùng là vào thứ Năm.
+monologue|đoạn độc thoại|His monologue lasted ten minutes.|Đoạn độc thoại của anh ấy kéo dài mười phút.
+understudy|diễn viên dự bị|The understudy played the lead last night.|Diễn viên dự bị đã đóng vai chính tối qua.
+props|đạo cụ|The props are kept behind the curtain.|Đạo cụ được cất phía sau tấm màn.
+backstage|hậu trường|We met the actors backstage.|Chúng tôi gặp các diễn viên ở hậu trường.
+intermission|giờ nghỉ giữa buổi diễn|There is a short intermission after act one.|Có một giờ nghỉ ngắn sau màn một.
+encore|màn diễn thêm theo yêu cầu|The band played one encore.|Ban nhạc chơi thêm một bài theo yêu cầu.
+choreography|biên đạo múa|The choreography was simple but beautiful.|Phần biên đạo múa đơn giản nhưng đẹp.
+matinee|suất diễn buổi chiều|Tickets for the matinee are cheaper.|Vé suất diễn buổi chiều rẻ hơn.
+auditorium|khán phòng|The auditorium seats two thousand people.|Khán phòng có hai nghìn chỗ ngồi.
+troupe|đoàn kịch, gánh hát|The troupe travels from town to town.|Đoàn kịch đi từ thị trấn này sang thị trấn khác.
+
+@x36|Điện ảnh|Kịch bản, quay phim, dựng phim, lồng tiếng|Film
+screenplay|kịch bản phim|She wrote the screenplay in six weeks.|Cô ấy viết kịch bản phim trong sáu tuần.
+cinematography|nghệ thuật quay phim|The cinematography won an award.|Phần quay phim đã giành một giải thưởng.
+footage|cảnh quay, đoạn phim|The news showed footage of the flood.|Bản tin chiếu cảnh quay về trận lũ.
+montage|đoạn dựng ghép cảnh|The film opens with a montage of city streets.|Bộ phim mở đầu bằng một đoạn ghép cảnh đường phố.
+dubbing|việc lồng tiếng|The dubbing does not match the actors' lips.|Phần lồng tiếng không khớp với môi diễn viên.
+voiceover|lời thuyết minh, giọng dẫn|A calm voiceover explains the story.|Một giọng dẫn điềm tĩnh giải thích câu chuyện.
+sequel|phần tiếp theo|The sequel is better than the first film.|Phần tiếp theo hay hơn phim đầu.
+cameo|vai khách mời ngắn|The director has a cameo in every movie.|Đạo diễn có một vai khách mời trong mọi bộ phim.
+premiere|buổi công chiếu đầu tiên|The premiere takes place in London.|Buổi công chiếu diễn ra ở London.
+blockbuster|phim bom tấn|The blockbuster earned a billion dollars.|Bộ phim bom tấn thu về một tỷ đô la.
+storyboard|bảng phân cảnh|The team drew a storyboard for each scene.|Nhóm vẽ bảng phân cảnh cho từng cảnh.
+cutaway|cảnh chen (chuyển sang hình khác)|The editor added a cutaway to the crowd.|Người dựng phim thêm một cảnh chen quay đám đông.
+
+@x37|Thi ca|Khổ thơ, vần, thể thơ, điệp khúc|Poem
+stanza|khổ thơ|The poem has four lines in each stanza.|Bài thơ có bốn dòng trong mỗi khổ.
+verse|câu thơ, đoạn thơ; lời bài hát|I only remember the first verse.|Tôi chỉ nhớ đoạn đầu tiên.
+rhyme|vần; gieo vần|The lines do not rhyme.|Các dòng thơ không gieo vần.
+sonnet|bài thơ xon-nê (14 dòng)|A sonnet has fourteen lines.|Một bài xon-nê có mười bốn dòng.
+ode|bài tụng ca|He wrote an ode to the sea.|Ông ấy viết một bài tụng ca về biển.
+elegy|bài thơ khóc than, ai ca|The elegy was read at her funeral.|Bài ai ca được đọc trong tang lễ của bà.
+prose|văn xuôi|She writes prose as well as poems.|Cô ấy viết cả văn xuôi lẫn thơ.
+couplet|cặp câu thơ|The poem ends with a couplet.|Bài thơ kết thúc bằng một cặp câu.
+ballad|khúc ballad, bài ca kể chuyện|The singer is known for a sad ballad.|Ca sĩ nổi tiếng với một bản ballad buồn.
+refrain|điệp khúc; kiềm chế|Everyone joined in the refrain.|Mọi người cùng hát điệp khúc.
+limerick|bài thơ hài năm dòng|He made up a funny limerick about his cat.|Anh ấy sáng tác một bài thơ hài về con mèo của mình.
+lyrical|trữ tình|Her writing is soft and lyrical.|Văn của cô ấy nhẹ nhàng và trữ tình.
+
+@x38|Chi tiết kiến trúc|Mặt tiền, vòm, mái vòm, cột, sân trong|Arch
+facade|mặt tiền|The facade of the theater is being cleaned.|Mặt tiền của nhà hát đang được làm sạch.
+arch|vòm, cổng vòm|We walked under a stone arch.|Chúng tôi đi dưới một cổng vòm bằng đá.
+dome|mái vòm|The dome can be seen from every street.|Mái vòm có thể nhìn thấy từ mọi con phố.
+spire|chóp nhọn (nhà thờ)|The spire rises above the trees.|Chóp nhọn vươn cao trên những hàng cây.
+column|cột; chuyên mục|Each column is ten meters tall.|Mỗi cây cột cao mười mét.
+vault|mái vòm cuốn; hầm két|The vault of the hall is painted blue.|Mái vòm của đại sảnh được sơn màu xanh.
+buttress|trụ ốp tường; củng cố|A buttress supports the north wall.|Một trụ ốp chống đỡ bức tường phía bắc.
+colonnade|hàng cột|A long colonnade surrounds the square.|Một hàng cột dài bao quanh quảng trường.
+courtyard|sân trong|Children play in the courtyard.|Trẻ con chơi ở sân trong.
+pavilion|nhà mát, gian trưng bày|We had tea in the garden pavilion.|Chúng tôi uống trà trong nhà mát ngoài vườn.
+gable|đầu hồi nhà|A small window sits in the gable.|Một ô cửa sổ nhỏ nằm ở đầu hồi.
+atrium|sảnh thông tầng|The hotel has a bright glass atrium.|Khách sạn có một sảnh thông tầng bằng kính sáng sủa.
+
+@x39|Thời trang|May đo, đường may, ve áo, thêu|Fashion
+couture|thời trang cao cấp may đo|The house is famous for its couture.|Nhà mốt này nổi tiếng với thời trang cao cấp.
+hem|gấu áo, gấu quần; lên gấu|The hem of my dress is torn.|Gấu váy của tôi bị rách.
+seam|đường may nối|The seam split when he sat down.|Đường may bị bung khi anh ấy ngồi xuống.
+lapel|ve áo|He wore a flower on his lapel.|Anh ấy cài một bông hoa trên ve áo.
+pleat|nếp gấp (vải)|Iron each pleat carefully.|Hãy là cẩn thận từng nếp gấp.
+embroidery|đồ thêu, nghề thêu|The blouse has fine embroidery on the collar.|Chiếc áo có đường thêu tinh xảo ở cổ.
+textile|vải dệt, ngành dệt|The textile industry employs thousands here.|Ngành dệt tạo việc làm cho hàng nghìn người ở đây.
+garment|quần áo, y phục|Wash this garment by hand.|Hãy giặt bộ đồ này bằng tay.
+silhouette|hình bóng, dáng (trang phục)|The coat has a slim silhouette.|Chiếc áo khoác có dáng thon.
+mannequin|ma-nơ-canh|The dress on the mannequin is not for sale.|Chiếc váy trên ma-nơ-canh không bán.
+cufflink|khuy măng sét|He lost a gold cufflink at the party.|Anh ấy làm mất một chiếc khuy măng sét bằng vàng ở bữa tiệc.
+tassel|tua rua|A red tassel hangs from the lamp.|Một chiếc tua rua đỏ treo trên cây đèn.
+
+@x40|Ẩm thực cao cấp|Trang trí món, om, áp chảo, sành ăn|Dish
+garnish|đồ trang trí món ăn; trang trí|Add a lemon slice as a garnish.|Thêm một lát chanh để trang trí.
+simmer|ninh nhỏ lửa|Let the soup simmer for an hour.|Hãy ninh súp nhỏ lửa trong một tiếng.
+braise|om, hầm|Braise the beef in red wine.|Hãy om thịt bò trong rượu vang đỏ.
+sauté|áp chảo, xào nhanh|Sauté the onions until they are soft.|Xào hành tây cho đến khi mềm.
+marinade|nước ướp|Leave the chicken in the marinade overnight.|Để gà trong nước ướp qua đêm.
+reduction|nước xốt cô đặc; sự giảm|The steak comes with a wine reduction.|Món bít tết đi kèm xốt rượu vang cô đặc.
+connoisseur|người sành sỏi|He is a connoisseur of fine tea.|Ông ấy là người sành trà ngon.
+palate|khẩu vị; vòm miệng|This dish is too sweet for my palate.|Món này quá ngọt so với khẩu vị của tôi.
+delicacy|món ngon hiếm, đặc sản|This fish is a delicacy in Japan.|Loại cá này là một đặc sản ở Nhật.
+appetizer|món khai vị|We shared an appetizer before the main course.|Chúng tôi ăn chung một món khai vị trước món chính.
+gourmet|sành ăn; cao cấp (đồ ăn)|They opened a gourmet restaurant downtown.|Họ mở một nhà hàng cao cấp ở trung tâm.
+entrée|món chính|I ordered fish as my entrée.|Tôi gọi cá làm món chính.
