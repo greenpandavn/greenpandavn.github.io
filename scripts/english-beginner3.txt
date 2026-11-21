@@ -212,3 +212,144 @@ folder|bìa đựng tài liệu, thư mục|Keep your papers in a folder.|Hãy g
 sharpener|cái gọt bút chì|I lost my pencil sharpener.|Tôi làm mất cái gọt bút chì.
 highlighter|bút dạ quang|Mark the new words with a highlighter.|Hãy đánh dấu từ mới bằng bút dạ quang.
 clip|cái kẹp giấy|Use a clip to hold the pages.|Hãy dùng kẹp để giữ các trang giấy.
+
+
+@c16|Đồ đạc trong nhà 3|Ghế bành, thảm, bình hoa, bồn tắm|Vase
+armchair|ghế bành|Grandpa sits in his armchair.|Ông ngồi trên ghế bành của mình.
+stool|ghế đẩu|Sit on the stool.|Hãy ngồi lên ghế đẩu.
+rug|tấm thảm nhỏ|The dog sleeps on the rug.|Con chó ngủ trên tấm thảm.
+mat|tấm chiếu, thảm chùi chân|Leave your shoes on the mat.|Hãy để giày trên thảm chùi chân.
+cushion|cái gối tựa|This cushion is soft.|Cái gối tựa này mềm.
+vase|bình hoa|Put the flowers in a vase.|Hãy cắm hoa vào bình.
+frame|khung ảnh|The photo is in a frame.|Bức ảnh nằm trong khung.
+bookshelf|giá sách|My bookshelf is full.|Giá sách của tôi đã đầy.
+bathtub|bồn tắm|The baby plays in the bathtub.|Em bé chơi trong bồn tắm.
+razor|dao cạo râu|Dad needs a new razor.|Bố cần một cái dao cạo mới.
+shampoo|dầu gội đầu|This shampoo smells nice.|Dầu gội này có mùi thơm.
+toothpaste|kem đánh răng|We have no toothpaste.|Chúng ta hết kem đánh răng rồi.
+
+@c17|Dụng cụ và xe cộ|Xẻng, ổ cắm, công tắc, phanh, lốp xe|Wheel
+chain|dây xích|My bike chain is broken.|Xích xe đạp của tôi bị đứt.
+shovel|cái xẻng|Dig a hole with the shovel.|Hãy đào một cái hố bằng xẻng.
+plug|phích cắm|Put the plug in the wall.|Hãy cắm phích vào tường.
+switch|công tắc; chuyển đổi|The light switch is by the door.|Công tắc đèn ở cạnh cửa.
+remote|điều khiển từ xa|Where is the TV remote?|Điều khiển ti vi ở đâu?
+cart|xe đẩy|Put the milk in the cart.|Hãy bỏ sữa vào xe đẩy.
+wagon|xe kéo, toa xe|The horse pulls a wagon.|Con ngựa kéo một chiếc xe.
+brake|cái phanh; phanh|Use the brake to stop.|Hãy dùng phanh để dừng lại.
+horn|còi xe; cái sừng|The driver sounds the horn.|Tài xế bấm còi.
+tire|lốp xe|The car has a flat tire.|Chiếc xe bị xẹp lốp.
+submarine|tàu ngầm|A submarine travels under the sea.|Tàu ngầm đi dưới biển.
+tram|tàu điện|We take the tram to school.|Chúng tôi đi tàu điện đến trường.
+
+@c18|Ở phòng khám|Nhiệt kế, mũi tiêm, xe lăn, ngứa|Nurse
+thermometer|nhiệt kế|The nurse has a thermometer.|Y tá có một cái nhiệt kế.
+injection|mũi tiêm|The boy is afraid of an injection.|Cậu bé sợ bị tiêm.
+wheelchair|xe lăn|My grandmother uses a wheelchair.|Bà tôi dùng xe lăn.
+crutch|cái nạng|He walks with a crutch.|Anh ấy đi bằng nạng.
+sore|đau, nhức|My feet are sore.|Chân tôi bị đau.
+runny|chảy nước (mũi)|I have a runny nose.|Tôi bị chảy nước mũi.
+itchy|ngứa|My arm is itchy.|Tay tôi bị ngứa.
+forehead|trán|Her forehead is hot.|Trán cô ấy nóng.
+heel|gót chân|My heel hurts.|Gót chân tôi đau.
+wrist|cổ tay|He wears a watch on his wrist.|Anh ấy đeo đồng hồ ở cổ tay.
+scared|sợ hãi|The child is scared of the dark.|Đứa trẻ sợ bóng tối.
+sleepy|buồn ngủ|I am sleepy after lunch.|Tôi buồn ngủ sau bữa trưa.
+
+@c19|Cây cối và cảnh vật|Thân cây, nụ, gai, bụi cây, hoàng hôn|Tree
+stem|thân, cuống (cây, hoa)|The flower has a long stem.|Bông hoa có cuống dài.
+trunk|thân cây; cốp xe|The tree trunk is very thick.|Thân cây rất to.
+bud|nụ, chồi|There is a new bud on the rose.|Có một nụ mới trên cây hoa hồng.
+blossom|hoa (trên cây ăn quả)|The peach blossom is pink.|Hoa đào màu hồng.
+thorn|cái gai|A thorn hurt my finger.|Một cái gai làm đau ngón tay tôi.
+moss|rêu|Green moss grows on the stone.|Rêu xanh mọc trên đá.
+vine|cây leo, dây leo|A vine grows up the wall.|Một cây leo mọc lên bức tường.
+bush|bụi cây|The cat hides in a bush.|Con mèo trốn trong bụi cây.
+puddle|vũng nước|The boy jumps in a puddle.|Cậu bé nhảy vào vũng nước.
+jungle|rừng rậm|Monkeys live in the jungle.|Khỉ sống trong rừng rậm.
+sunset|hoàng hôn|We watch the sunset on the beach.|Chúng tôi ngắm hoàng hôn trên bãi biển.
+sunrise|bình minh|He gets up before sunrise.|Anh ấy dậy trước bình minh.
+
+@c20|Động tác 4|Cọ rửa, nhai, cắn, vỗ tay, gật đầu|Clap
+scrub|cọ, chà|Scrub your hands with soap.|Hãy chà tay bằng xà phòng.
+rinse|rửa lại, xả nước|Rinse the cup with water.|Hãy tráng cái cốc bằng nước.
+chew|nhai|Chew your food slowly.|Hãy nhai thức ăn chậm thôi.
+swallow|nuốt|Do not swallow the gum.|Đừng nuốt kẹo cao su.
+bite|cắn; miếng cắn|The dog does not bite.|Con chó không cắn đâu.
+lick|liếm|Cats lick their paws.|Mèo liếm chân của chúng.
+clap|vỗ tay|We clap after the song.|Chúng tôi vỗ tay sau bài hát.
+nod|gật đầu|Just nod if you agree.|Cứ gật đầu nếu bạn đồng ý.
+ring|reo; gọi điện; cái nhẫn|Phones ring all day in the office.|Điện thoại reo cả ngày trong văn phòng.
+tap|gõ nhẹ; vòi nước|Tap the screen to start.|Hãy chạm nhẹ vào màn hình để bắt đầu.
+grab|chộp lấy, nắm lấy|Grab your bag and come.|Hãy cầm lấy túi rồi đi nào.
+squeeze|vắt, bóp|Squeeze the lemon into the tea.|Hãy vắt chanh vào trà.
+
+@c21|Động tác 5|Xé, gói, lăn, trượt, cúi, ngáp|Roll
+tear|xé; nước mắt|Do not tear the paper.|Đừng xé tờ giấy.
+untie|cởi (dây), tháo nút|Can you untie my shoes?|Bạn cởi dây giày giúp mình được không?
+wrap|gói, bọc|Wrap the gift in red paper.|Hãy gói quà bằng giấy đỏ.
+unwrap|mở gói, bóc ra|The kids unwrap their gifts.|Bọn trẻ mở gói quà của chúng.
+roll|lăn, cuộn; ổ bánh mì nhỏ|Roll the ball to me.|Hãy lăn quả bóng cho mình.
+slip|trượt chân|Be careful not to slip.|Cẩn thận kẻo trượt chân.
+bend|cúi, uốn cong|Bend your knees.|Hãy gập đầu gối lại.
+kneel|quỳ|They kneel on the floor.|Họ quỳ trên sàn nhà.
+lean|tựa, nghiêng người|Do not lean on the door.|Đừng tựa vào cửa.
+blow|thổi|Blow on your soup.|Hãy thổi súp của bạn đi.
+yawn|ngáp|I yawn when I am tired.|Tôi ngáp khi mệt.
+snore|ngáy|My father and my uncle snore.|Bố tôi và chú tôi ngáy.
+
+@c22|Tính từ 3|Bừa bộn, gọn gàng, tí hon, khổng lồ|Tiny
+sigh|thở dài|I sigh when I see my homework.|Tôi thở dài khi nhìn thấy bài tập về nhà.
+blink|chớp mắt|Do not blink for the photo.|Đừng chớp mắt khi chụp ảnh.
+wink|nháy mắt|Friends wink at each other.|Bạn bè nháy mắt với nhau.
+dull|tẻ nhạt; cùn|The film was dull.|Bộ phim thật tẻ nhạt.
+deep|sâu|The river is deep here.|Con sông ở chỗ này sâu.
+messy|bừa bộn|Your room is messy.|Phòng của con bừa bộn quá.
+neat|gọn gàng|Her desk is always neat.|Bàn của cô ấy luôn gọn gàng.
+cozy|ấm cúng|This room is small but cozy.|Căn phòng này nhỏ nhưng ấm cúng.
+tiny|tí hon, rất nhỏ|The baby has tiny hands.|Em bé có đôi bàn tay tí hon.
+huge|to lớn, khổng lồ|They live in a huge house.|Họ sống trong một ngôi nhà rất lớn.
+enormous|to lớn, khổng lồ|An enormous dog ran to me.|Một con chó to lớn chạy về phía tôi.
+cheeky|láu lỉnh, hỗn|He is a cheeky boy.|Cậu ấy là một cậu bé láu lỉnh.
+
+@c23|Mùi vị và lời cảm thán|Ngon, giòn, mọng nước, dính, ôi|Yummy
+yummy|ngon tuyệt|This cake is yummy.|Cái bánh này ngon tuyệt.
+tasty|ngon miệng|The soup is very tasty.|Món súp rất ngon.
+crunchy|giòn|I like crunchy apples.|Tôi thích táo giòn.
+juicy|mọng nước|This orange is juicy.|Quả cam này mọng nước.
+sticky|dính|My hands are sticky.|Tay tôi bị dính.
+rotten|thối, hỏng|That egg is rotten.|Quả trứng đó bị thối rồi.
+grumpy|cáu kỉnh|Dad is grumpy in the morning.|Bố hay cáu kỉnh vào buổi sáng.
+everybody|mọi người|Everybody likes ice cream.|Mọi người đều thích kem.
+anybody|bất kỳ ai, có ai|Is anybody home?|Có ai ở nhà không?
+ouch|ái, ui da|Ouch, that hurts!|Ui da, đau quá!
+oops|ối (khi lỡ tay)|Oops, I dropped my pen.|Ối, mình làm rơi bút rồi.
+yuck|eo ôi, kinh quá|Yuck, this milk is old!|Eo ôi, sữa này để lâu rồi!
+
+@c24|Nghề nghiệp 3|Người đưa thư, thợ cắt tóc, thủy thủ, thợ mộc|Sailor
+postman|người đưa thư|The postman comes at ten.|Người đưa thư đến lúc mười giờ.
+barber|thợ cắt tóc nam|The barber cuts my hair.|Thợ cắt tóc cắt tóc cho tôi.
+sailor|thủy thủ|My uncle is a sailor.|Chú tôi là thủy thủ.
+clown|chú hề|The clown has a red nose.|Chú hề có cái mũi đỏ.
+painter|thợ sơn, họa sĩ|The painter is working on our house.|Người thợ sơn đang làm việc ở nhà chúng tôi.
+carpenter|thợ mộc|A carpenter made this table.|Một người thợ mộc đã đóng chiếc bàn này.
+gardener|người làm vườn|The gardener waters the flowers.|Người làm vườn tưới hoa.
+cleaner|người dọn dẹp|The cleaner comes every Friday.|Người dọn dẹp đến vào mỗi thứ Sáu.
+penny|đồng xu (một xu)|I found a penny on the floor.|Tôi nhặt được một đồng xu trên sàn.
+cent|xu (1/100 đô la)|This candy costs one cent.|Cái kẹo này giá một xu.
+pan|cái chảo|Fry the egg in a pan.|Hãy rán trứng trong chảo.
+pot|cái nồi|The soup is in the pot.|Súp ở trong nồi.
+
+@c25|Vị trí và số lượng|Ở giữa, trên cùng, cạnh, một chồng, một bó|Middle
+single|đơn, một; độc thân|I need a single room.|Tôi cần một phòng đơn.
+lump|cục, miếng|He puts a lump of sugar in his tea.|Anh ấy cho một cục đường vào trà.
+pile|chồng, đống|There is a pile of books on the floor.|Có một chồng sách trên sàn.
+bunch|chùm, bó|She bought a bunch of flowers.|Cô ấy mua một bó hoa.
+pack|gói, hộp; đóng gói|I bought a pack of gum.|Tôi mua một gói kẹo cao su.
+middle|ở giữa|The table is in the middle of the room.|Cái bàn ở giữa phòng.
+top|đỉnh, phía trên cùng|My name is at the top of the list.|Tên tôi ở đầu danh sách.
+bottom|đáy, phía dưới cùng|The key is at the bottom of my bag.|Chìa khóa ở dưới đáy túi của tôi.
+front|phía trước|Sit in the front of the bus.|Hãy ngồi ở phía trước xe buýt.
+edge|mép, rìa|Do not stand on the edge.|Đừng đứng ở mép.
+side|bên, phía|Walk on this side of the road.|Hãy đi ở bên này đường.
+center|trung tâm, ở giữa|The shop is in the center of town.|Cửa hàng nằm ở trung tâm thị trấn.
