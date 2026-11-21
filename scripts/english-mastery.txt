@@ -340,3 +340,116 @@ frost|sương giá|Frost covered the fields this morning.|Sáng nay sương giá
 overcast|u ám, nhiều mây|The sky was overcast all day.|Bầu trời u ám cả ngày.
 meteorologist|nhà khí tượng học|The meteorologist warned of heavy snow.|Nhà khí tượng học cảnh báo có tuyết rơi dày.
 sleet|mưa tuyết|Sleet made the roads dangerous.|Mưa tuyết khiến đường sá nguy hiểm.
+
+
+@x25|Hàng không|Thân máy bay, buồng lái, đường băng, nhiễu động|Plane
+fuselage|thân máy bay|The fuselage is made of light metal.|Thân máy bay được làm bằng kim loại nhẹ.
+cockpit|buồng lái|Only the crew may enter the cockpit.|Chỉ phi hành đoàn mới được vào buồng lái.
+altitude|độ cao|The plane is flying at a high altitude.|Máy bay đang bay ở độ cao lớn.
+turbulence|nhiễu động không khí|We hit turbulence over the mountains.|Chúng tôi gặp nhiễu động khi bay qua núi.
+runway|đường băng|The runway was closed because of snow.|Đường băng bị đóng vì tuyết.
+hangar|nhà chứa máy bay|The jet is being repaired in the hangar.|Chiếc phản lực đang được sửa trong nhà chứa máy bay.
+aileron|cánh liệng|The aileron controls the roll of the plane.|Cánh liệng điều khiển độ nghiêng của máy bay.
+throttle|cần ga, van tiết lưu|The pilot pushed the throttle forward.|Phi công đẩy cần ga về phía trước.
+glide|lướt, bay lượn|The plane can glide for miles without power.|Máy bay có thể lướt nhiều dặm mà không cần động cơ.
+descent|sự hạ độ cao, sự đi xuống|We will begin our descent in ten minutes.|Chúng ta sẽ bắt đầu hạ độ cao trong mười phút nữa.
+layover|thời gian quá cảnh|We have a three-hour layover in Singapore.|Chúng tôi có ba tiếng quá cảnh ở Singapore.
+tarmac|mặt sân đỗ máy bay, mặt đường nhựa|Passengers waited on the tarmac for an hour.|Hành khách chờ trên sân đỗ suốt một tiếng.
+
+@x26|Hàng hải|Thân tàu, mũi tàu, bánh lái, neo, phao|Ship
+hull|thân tàu|The hull was damaged by a rock.|Thân tàu bị đá làm hỏng.
+keel|sống tàu|The keel keeps the boat steady.|Sống tàu giữ cho con thuyền ổn định.
+stern|đuôi tàu; nghiêm khắc|He stood at the stern and waved.|Anh ấy đứng ở đuôi tàu và vẫy tay.
+prow|mũi tàu|Water splashed over the prow.|Nước bắn tung lên mũi tàu.
+mast|cột buồm|The storm broke the mast.|Cơn bão làm gãy cột buồm.
+rudder|bánh lái|The rudder turns the ship.|Bánh lái làm con tàu đổi hướng.
+anchor|mỏ neo; thả neo|We dropped the anchor in the bay.|Chúng tôi thả neo trong vịnh.
+buoy|phao tiêu|A red buoy marks the rocks.|Một phao tiêu màu đỏ đánh dấu bãi đá.
+starboard|mạn phải tàu|Land appeared on the starboard side.|Đất liền hiện ra ở mạn phải.
+knot|hải lý một giờ; nút thắt|The ship travels at about one knot in the harbor.|Con tàu chạy khoảng một hải lý một giờ trong cảng.
+mooring|chỗ neo đậu|The boat broke free from its mooring.|Con thuyền tuột khỏi chỗ neo đậu.
+vessel|tàu thuyền; mạch (máu)|The vessel carries oil to Asia.|Con tàu chở dầu sang châu Á.
+
+@x27|Điện tử|Điện trở, tụ điện, bóng bán dẫn, hàn|Chip
+inductor|cuộn cảm|An inductor stores energy in a magnetic field.|Cuộn cảm lưu trữ năng lượng trong từ trường.
+resistor|điện trở|Replace the burnt resistor.|Hãy thay điện trở bị cháy.
+capacitor|tụ điện|A capacitor stores a small charge.|Tụ điện lưu trữ một lượng điện tích nhỏ.
+transistor|bóng bán dẫn|Each transistor on the chip is tiny.|Mỗi bóng bán dẫn trên con chip đều cực nhỏ.
+diode|đi-ốt|A diode lets current flow one way.|Đi-ốt cho dòng điện chạy theo một chiều.
+voltage|điện áp|Check the voltage before you plug it in.|Hãy kiểm tra điện áp trước khi cắm điện.
+amplifier|bộ khuếch đại|The amplifier makes the guitar louder.|Bộ khuếch đại làm tiếng đàn ghi-ta to hơn.
+solder|hàn (bằng thiếc); thiếc hàn|Solder the wire to the board.|Hãy hàn sợi dây vào bảng mạch.
+semiconductor|chất bán dẫn|Silicon is a common semiconductor.|Silic là một chất bán dẫn phổ biến.
+oscillator|bộ dao động|The oscillator keeps the clock accurate.|Bộ dao động giữ cho đồng hồ chính xác.
+conductor|chất dẫn điện; nhạc trưởng|Copper is an excellent conductor.|Đồng là chất dẫn điện tuyệt vời.
+insulator|chất cách điện|Rubber is a good insulator.|Cao su là chất cách điện tốt.
+
+@x28|Lập trình|Biên dịch, gỡ lỗi, đệ quy, kho mã|Code
+compile|biên dịch; biên soạn|The program takes a minute to compile.|Chương trình mất một phút để biên dịch.
+debug|gỡ lỗi|I spent all night trying to debug the app.|Tôi mất cả đêm để gỡ lỗi ứng dụng.
+parser|bộ phân tích cú pháp|The parser reads the file line by line.|Bộ phân tích cú pháp đọc tệp từng dòng một.
+pointer|con trỏ|The pointer holds the address of the data.|Con trỏ giữ địa chỉ của dữ liệu.
+recursion|đệ quy|Recursion is when a function calls itself.|Đệ quy là khi một hàm tự gọi chính nó.
+iterate|lặp, lặp lại|We iterate over every item in the list.|Chúng tôi lặp qua từng phần tử trong danh sách.
+repository|kho lưu trữ (mã nguồn)|Push your changes to the repository.|Hãy đẩy các thay đổi của bạn lên kho mã.
+compiler|trình biên dịch|The compiler found three errors.|Trình biên dịch tìm thấy ba lỗi.
+runtime|thời gian chạy (chương trình)|The error only appears at runtime.|Lỗi chỉ xuất hiện khi chương trình chạy.
+refactor|tái cấu trúc mã|We need to refactor this old module.|Chúng ta cần tái cấu trúc mô-đun cũ này.
+array|mảng|Store the numbers in an array.|Hãy lưu các con số vào một mảng.
+boolean|kiểu đúng/sai (logic)|A boolean is either true or false.|Giá trị boolean chỉ là đúng hoặc sai.
+
+@x29|Dữ liệu|Tập dữ liệu, ngoại lệ, độ trễ, bộ nhớ đệm|Data
+dataset|tập dữ liệu|The dataset contains a million rows.|Tập dữ liệu chứa một triệu dòng.
+outlier|giá trị ngoại lệ|One outlier changed the average.|Một giá trị ngoại lệ đã làm thay đổi mức trung bình.
+regression|hồi quy; sự thụt lùi|We used regression to predict sales.|Chúng tôi dùng hồi quy để dự đoán doanh số.
+cluster|cụm; nhóm lại|The servers form a cluster.|Các máy chủ tạo thành một cụm.
+latency|độ trễ|Low latency is important for video calls.|Độ trễ thấp rất quan trọng với cuộc gọi video.
+throughput|thông lượng|The new line doubled our throughput.|Dây chuyền mới làm tăng gấp đôi thông lượng của chúng tôi.
+schema|lược đồ (cơ sở dữ liệu)|The schema defines each table.|Lược đồ định nghĩa từng bảng.
+query|truy vấn|This query takes ten seconds to run.|Truy vấn này mất mười giây để chạy.
+cache|bộ nhớ đệm|Clear the cache and try again.|Hãy xóa bộ nhớ đệm rồi thử lại.
+checksum|mã kiểm tra tổng|The checksum shows that the file is complete.|Mã kiểm tra cho thấy tệp còn nguyên vẹn.
+bandwidth|băng thông|Video uses a lot of bandwidth.|Video dùng rất nhiều băng thông.
+redundancy|sự dự phòng; sự dư thừa|Redundancy keeps the system running after a failure.|Sự dự phòng giữ cho hệ thống chạy tiếp sau sự cố.
+
+@x30|Kỹ thuật năng lượng|Tua-bin, lò phản ứng, lưới điện, địa nhiệt|Power
+turbine|tua-bin|The wind turns the turbine.|Gió làm quay tua-bin.
+reactor|lò phản ứng|The reactor was shut down for repairs.|Lò phản ứng đã ngừng hoạt động để sửa chữa.
+grid|lưới điện; mạng lưới|The village is not connected to the grid.|Ngôi làng chưa được nối vào lưới điện.
+photovoltaic|quang điện|Photovoltaic panels cover the roof.|Các tấm pin quang điện phủ kín mái nhà.
+biomass|sinh khối|The plant burns biomass instead of coal.|Nhà máy đốt sinh khối thay cho than.
+kilowatt|ki-lô-oát|The heater uses one kilowatt.|Máy sưởi dùng một ki-lô-oát.
+geothermal|địa nhiệt|Iceland uses geothermal energy to heat homes.|Iceland dùng năng lượng địa nhiệt để sưởi ấm nhà cửa.
+combustion|sự đốt cháy|Combustion needs oxygen.|Sự đốt cháy cần có oxy.
+wattage|công suất (tính bằng oát)|Check the wattage of the bulb.|Hãy kiểm tra công suất của bóng đèn.
+hydroelectric|thủy điện|A hydroelectric dam supplies the city.|Một đập thủy điện cung cấp điện cho thành phố.
+transmission|sự truyền tải; hộp số|Power is lost during transmission.|Điện năng bị hao hụt trong quá trình truyền tải.
+dynamo|máy phát điện nhỏ, đi-na-mô|A dynamo powers the bicycle light.|Một đi-na-mô cấp điện cho đèn xe đạp.
+
+@x31|Thi công xây dựng|Giàn giáo, dầm, vữa, móng, cách nhiệt|Build
+scaffold|giàn giáo|Workers climbed the scaffold.|Công nhân leo lên giàn giáo.
+girder|dầm thép lớn|A steel girder supports the bridge.|Một dầm thép đỡ cây cầu.
+mortar|vữa|Mortar holds the bricks together.|Vữa giữ các viên gạch dính vào nhau.
+beam|xà, dầm; tia sáng|A wooden beam runs across the ceiling.|Một thanh xà gỗ chạy ngang trần nhà.
+rebar|thép cây gia cố bê tông|Rebar makes concrete much stronger.|Thép cây làm bê tông chắc hơn nhiều.
+blueprint|bản thiết kế chi tiết|The builder studied the blueprint.|Người thợ xây nghiên cứu bản thiết kế.
+excavation|việc đào móng, khai đào|Excavation for the basement starts on Monday.|Việc đào tầng hầm bắt đầu vào thứ Hai.
+foundation|nền móng; quỹ|The house has a solid foundation.|Ngôi nhà có nền móng vững chắc.
+cladding|lớp ốp ngoài|The cladding protects the walls from rain.|Lớp ốp bảo vệ tường khỏi mưa.
+drywall|vách thạch cao|We put up drywall in the bedroom.|Chúng tôi dựng vách thạch cao trong phòng ngủ.
+plumbing|hệ thống ống nước|The plumbing in this house is very old.|Hệ thống ống nước trong ngôi nhà này rất cũ.
+insulation|lớp cách nhiệt, cách âm|Good insulation keeps the house warm.|Lớp cách nhiệt tốt giữ cho ngôi nhà ấm.
+
+@x32|Cơ khí ô tô|Khung gầm, hộp số, pít-tông, ly hợp|Engine
+chassis|khung gầm|The chassis was bent in the crash.|Khung gầm bị cong trong vụ va chạm.
+gearbox|hộp số|The gearbox makes a strange noise.|Hộp số phát ra tiếng lạ.
+piston|pít-tông|The piston moves up and down.|Pít-tông chuyển động lên xuống.
+clutch|bộ ly hợp; nắm chặt|Press the clutch before you change gear.|Hãy đạp ly hợp trước khi sang số.
+axle|trục bánh xe|The rear axle is broken.|Trục sau bị gãy.
+torque|mô-men xoắn|This engine has a lot of torque.|Động cơ này có mô-men xoắn lớn.
+ignition|bộ đánh lửa, sự khởi động|Turn the key in the ignition.|Hãy vặn chìa khóa ở ổ khởi động.
+exhaust|ống xả, khí thải; làm kiệt sức|Smoke came out of the exhaust.|Khói bốc ra từ ống xả.
+suspension|hệ thống treo; sự đình chỉ|The suspension makes the ride smooth.|Hệ thống treo giúp xe chạy êm.
+carburetor|bộ chế hòa khí|The old motorbike needs a new carburetor.|Chiếc xe máy cũ cần một bộ chế hòa khí mới.
+lubricant|chất bôi trơn|Use a lubricant on the chain.|Hãy dùng chất bôi trơn cho xích.
+gasket|gioăng, miếng đệm|The gasket is leaking oil.|Miếng đệm đang rò dầu.
