@@ -28,7 +28,7 @@ export const part5: ToeicItem[] = [
   { q: 'The technician will repair the copier as soon as the replacement part ___.', options: ['arrives', 'will arrive', 'arrived', 'arriving'], explain: 'Mệnh đề thời gian với “as soon as” dùng hiện tại đơn để nói về tương lai.' },
   { q: 'We are looking for a candidate with strong ___ skills.', options: ['communication', 'communicate', 'communicated', 'communicates'], explain: 'Danh từ ghép: communication skills.' },
   { q: 'The price of raw materials has increased ___ over the past year.', options: ['significantly', 'significant', 'significance', 'signify'], explain: 'Bổ nghĩa cho động từ “has increased” cần trạng từ: significantly.' },
-  { q: 'Employees are encouraged to ___ in the company’s wellness program.', options: ['participate', 'attend', 'join', 'enter'], explain: 'Chỉ “participate” đi với giới từ “in”; attend/join/enter không cần “in”.' },
+  { q: 'Employees are encouraged to ___ in the company’s wellness program.', options: ['participate', 'attend', 'visit', 'reach'], explain: 'Chỉ “participate” đi với giới từ “in”; attend/visit/reach không đi với “in”.' },
   { q: 'The warranty does not ___ damage caused by misuse.', options: ['cover', 'spend', 'remind', 'reach'], explain: '“cover damage” = bảo hành cho hư hỏng; các động từ khác không hợp nghĩa.' },
   { q: 'The meeting has been ___ until next Monday because the director is away.', options: ['postponed', 'extended', 'reminded', 'dismissed'], explain: '“postpone … until” = hoãn đến; hợp với lý do giám đốc vắng mặt.' },
 ];
