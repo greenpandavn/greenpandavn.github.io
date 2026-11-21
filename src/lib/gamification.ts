@@ -1,5 +1,5 @@
 import type { Progress } from '../types';
-import { CORE_LESSONS } from '../data';
+import { CORE_LESSONS, isEnglish, unitLevel } from '../data';
 import { countByStatus } from './srs';
 import { dateKey, addDays } from './date';
 
@@ -46,11 +46,11 @@ export interface Achievement {
 const lessonsDone = (p: Progress) => Object.values(p.lessons).filter((l) => l.completed > 0).length;
 const coreDone = (p: Progress) => CORE_LESSONS.filter((l) => p.lessons[l.id]?.completed).length;
 
-export const ACHIEVEMENTS: Achievement[] = [
+const BASE_ACHIEVEMENTS: Achievement[] = [
   { id: 'first', title: 'Bước đầu tiên', desc: 'Hoàn thành bài học đầu tiên', icon: 'sprout', gems: 5, check: (p) => lessonsDone(p) >= 1 },
   { id: 'lessons5', title: 'Chăm chỉ', desc: 'Hoàn thành 5 bài học', icon: 'book', gems: 10, check: (p) => lessonsDone(p) >= 5 },
   { id: 'lessons10', title: 'Học giả nhí', desc: 'Hoàn thành 10 bài học', icon: 'cap', gems: 20, check: (p) => lessonsDone(p) >= 10 },
-  { id: 'course', title: 'Tốt nghiệp HSK 1', desc: 'Hoàn thành cả 15 bài học chính', icon: 'trophy', gems: 50, check: (p) => coreDone(p) >= CORE_LESSONS.length },
+  { id: 'course', title: 'Tốt nghiệp HSK 1', desc: 'Hoàn thành tất cả bài học chính của HSK 1', icon: 'trophy', gems: 50, check: (p) => levelDone(p, 1) },
   { id: 'streak3', title: 'Khởi động', desc: 'Giữ chuỗi 3 ngày', icon: 'flame', gems: 5, check: (p) => p.streak.longest >= 3 },
   { id: 'streak7', title: 'Một tuần rực lửa', desc: 'Giữ chuỗi 7 ngày', icon: 'flame', gems: 20, check: (p) => p.streak.longest >= 7 },
   { id: 'streak30', title: 'Không thể cản phá', desc: 'Giữ chuỗi 30 ngày', icon: 'flame', gems: 100, check: (p) => p.streak.longest >= 30 },
@@ -63,6 +63,31 @@ export const ACHIEVEMENTS: Achievement[] = [
   { id: 'master100', title: 'Bộ não siêu việt', desc: 'Thuộc 100 từ', icon: 'brain', gems: 50, check: (p) => countByStatus(p).mastered >= 100 },
   { id: 'review5', title: 'Ôn cũ biết mới', desc: 'Hoàn thành 5 lượt ôn tập', icon: 'refresh', gems: 10, check: (p) => p.reviews >= 5 },
 ];
+
+const levelDone = (p: Progress, level: number) => {
+  const ls = CORE_LESSONS.filter((l) => unitLevel(l.unit) === level);
+  return ls.length > 0 && ls.every((l) => p.lessons[l.id]?.completed);
+};
+
+/** Badges of the active course. Each course keeps its own set of unlocked badges. */
+export function achievements(): Achievement[] {
+  if (isEnglish())
+    return BASE_ACHIEVEMENTS.map((a) =>
+      a.id === 'course'
+        ? { ...a, title: 'Tốt nghiệp tiếng Anh cơ bản', desc: 'Hoàn thành tất cả bài học tiếng Anh', check: (p: Progress) => coreDone(p) >= CORE_LESSONS.length }
+        : a,
+    );
+  const i = BASE_ACHIEVEMENTS.findIndex((a) => a.id === 'course') + 1;
+  const extra: Achievement[] = [2, 3].map((lv) => ({
+    id: `hsk${lv}`,
+    title: `Tốt nghiệp HSK ${lv}`,
+    desc: `Hoàn thành tất cả bài học của HSK ${lv}`,
+    icon: 'trophy',
+    gems: 50 * lv,
+    check: (p: Progress) => levelDone(p, lv),
+  }));
+  return [...BASE_ACHIEVEMENTS.slice(0, i), ...extra, ...BASE_ACHIEVEMENTS.slice(i)];
+}
 
 export type Difficulty = 'easy' | 'normal' | 'hard';
 

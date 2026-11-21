@@ -6,6 +6,13 @@ import ShareButton from './ShareButton';
 import { shareText } from '../lib/share';
 
 const fmt = (d: string) => d.split('-').reverse().join('/');
+const HSK_ZH = ['', '一', '二', '三', '四', '五', '六'];
+/** Course line of the certificate, derived from its id (hsk2-part21, en-part1…). */
+const courseLine = (id: string) => {
+  const m = id.match(/^hsk(\d)/);
+  if (m) return `汉语水平${HSK_ZH[Number(m[1])] ?? m[1]}级 · HSK ${m[1]}`;
+  return 'English · Beginner (A1)';
+};
 
 export default function CertificateView({ cert, onClose }: { cert: Certificate; onClose: () => void }) {
   useEffect(() => () => document.body.classList.remove('print-cert'), []);
@@ -25,7 +32,7 @@ export default function CertificateView({ cert, onClose }: { cert: Certificate; 
           <div className="absolute inset-2 rounded-2xl border-2 border-sun-400/60" aria-hidden />
           <Panda size={72} mood="cheer" className="mx-auto" />
           <div className="mt-1 text-xs font-black uppercase tracking-[0.2em] text-sun-600">Chứng chỉ hoàn thành</div>
-          <div className="mt-1 font-han text-lg font-bold text-coral-500">汉语水平一级 · HSK 1</div>
+          <div className="mt-1 font-han text-lg font-bold text-coral-500">{courseLine(cert.id)}</div>
           <p className="mt-3 text-sm font-semibold text-ink-500">Chứng nhận học viên</p>
           <p className="my-1 text-2xl font-black text-ink-700" data-testid="cert-name">{cert.name}</p>
           <p className="text-sm font-semibold text-ink-500">đã vượt qua bài kiểm tra</p>

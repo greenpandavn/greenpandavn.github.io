@@ -2,7 +2,7 @@ import { dateKey } from './date';
 import { getProgress, onLocalChange } from './store';
 import type { Progress } from '../types';
 
-export const REMINDER_TEXT = 'Đến giờ học tiếng Trung rồi!';
+export const REMINDER_TEXT = 'Đến giờ học ngoại ngữ rồi!';
 const LAST_KEY = 'hoc-tieng-trung-reminded';
 
 export const notifySupported = () => typeof window !== 'undefined' && 'Notification' in window;

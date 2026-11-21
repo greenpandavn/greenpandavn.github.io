@@ -1,4 +1,5 @@
 let zhVoice: SpeechSynthesisVoice | null = null;
+let enVoice: SpeechSynthesisVoice | null = null;
 let voicesLoaded = false;
 
 function pickVoice() {
@@ -13,6 +14,13 @@ function pickVoice() {
     zh.find((v) => !/HK|TW/i.test(v.lang)) ||
     zh[0] ||
     null;
+  const en = voices.filter((v) => /^en([-_]|$)/i.test(v.lang));
+  enVoice =
+    en.find((v) => /en[-_]US/i.test(v.lang) && /google|samantha|aria|jenny/i.test(v.name)) ||
+    en.find((v) => /en[-_]US/i.test(v.lang)) ||
+    en.find((v) => /en[-_]GB/i.test(v.lang)) ||
+    en[0] ||
+    null;
 }
 
 if (typeof window !== 'undefined' && 'speechSynthesis' in window) {
@@ -25,13 +33,19 @@ export const hasChineseVoice = () => {
   if (!voicesLoaded) pickVoice();
   return !!zhVoice;
 };
+export const hasEnglishVoice = () => {
+  if (!voicesLoaded) pickVoice();
+  return !!enVoice;
+};
+/** Chinese text is spoken/recognised as zh-CN, everything else (the English course) as en-US. */
+export const speechLang = (text: string): 'zh-CN' | 'en-US' => (/\p{Script=Han}/u.test(text) ? 'zh-CN' : 'en-US');
 
 let rate = 0.8;
 export function setSpeechRate(r: number) {
   rate = r;
 }
 
-/** Speak Chinese text with the browser's free Web Speech API. */
+/** Speak Chinese (zh-CN) or English (en-US) text with the browser's free Web Speech API. */
 export function speak(text: string, opts: { slow?: boolean; onEnd?: () => void } = {}) {
   if (!ttsSupported()) {
     opts.onEnd?.();
@@ -41,8 +55,10 @@ export function speak(text: string, opts: { slow?: boolean; onEnd?: () => void }
   const synth = window.speechSynthesis;
   synth.cancel();
   const u = new SpeechSynthesisUtterance(text);
-  u.lang = zhVoice?.lang || 'zh-CN';
-  if (zhVoice) u.voice = zhVoice;
+  const lang = speechLang(text);
+  const voice = lang === 'zh-CN' ? zhVoice : enVoice;
+  u.lang = voice?.lang || lang;
+  if (voice) u.voice = voice;
   u.rate = opts.slow ? Math.max(0.4, rate - 0.35) : rate;
   u.onend = () => opts.onEnd?.();
   u.onerror = (e) => {
@@ -73,12 +89,12 @@ function getRecCtor(): (new () => Rec) | null {
 
 export const recognitionSupported = () => typeof window !== 'undefined' && !!getRecCtor();
 
-/** Listen once in zh-CN; resolves with candidate transcripts. */
-export function listenOnce(): { promise: Promise<string[]>; stop: () => void } {
+/** Listen once in the given language; resolves with candidate transcripts. */
+export function listenOnce(lang: 'zh-CN' | 'en-US' = 'zh-CN'): { promise: Promise<string[]>; stop: () => void } {
   const Ctor = getRecCtor();
   if (!Ctor) return { promise: Promise.reject(new Error('unsupported')), stop: () => {} };
   const rec = new Ctor();
-  rec.lang = 'zh-CN';
+  rec.lang = lang;
   rec.interimResults = false;
   rec.maxAlternatives = 5;
   const promise = new Promise<string[]>((resolve, reject) => {

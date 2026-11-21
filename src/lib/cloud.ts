@@ -30,7 +30,7 @@ import {
   type Unsubscribe,
 } from 'firebase/firestore';
 import { auth, db, resetDb } from './firebase';
-import { applyRemote, defaultProgress, getProgress, GUEST_KEY, loadFrom, onLocalChange, sanitize, updateProgress, switchStorageSlot } from './store';
+import { applyRemote, courseView, defaultProgress, getStored, GUEST_KEY, xpByCourse, loadFrom, onLocalChange, sanitize, updateProgress, switchStorageSlot } from './store';
 import { mergeProgress, resolveLogin, weekId, weekXp } from './merge';
 import { getAccount, OWNER_EMAIL, setAccount } from './account';
 import { applyContent, type LessonDoc, type UnitDoc } from '../data';
@@ -87,7 +87,7 @@ async function rebuildClient() {
   reconnecting = false;
   if (auth.currentUser?.uid !== u.uid) return;
   listen(u);
-  void upload(u, getProgress());
+  void upload(u, getStored());
 }
 
 /**
@@ -143,8 +143,8 @@ async function upload(u: User, p: Progress) {
     }),
   ];
   // Moderation: hidden users stay off the public boards.
-  if (!roleInfo.hidden) writes.push(setDoc(doc(db, 'leaderboard', u.uid), { displayName, xp: Math.round(p.xp), updatedAt: now }));
-  const wxp = weekXp(p);
+  if (!roleInfo.hidden) writes.push(setDoc(doc(db, 'leaderboard', u.uid), { displayName, xp: Math.round(xpByCourse(p).total), updatedAt: now }));
+  const wxp = totalWeekXp(p);
   if (wxp > 0 && !roleInfo.hidden) writes.push(setDoc(doc(db, 'weeks', weekId(), 'entries', u.uid), { displayName, xp: Math.round(wxp), updatedAt: now }));
   if (!pendingSince) pendingSince = now;
   // Writes stay queued while the stream is down; if nothing is acknowledged for a while, restart the network.
@@ -171,7 +171,7 @@ function scheduleUpload(u: User) {
   setAccount({ sync: navigator.onLine ? 'saving' : 'offline' });
   timer = setTimeout(() => {
     timer = null;
-    void upload(u, getProgress());
+    void upload(u, getStored());
   }, 600);
 }
 
@@ -272,7 +272,7 @@ function listen(u: User) {
       if (data.clientId === CLIENT_ID && data.updatedAt < lastWritten) return;
       const remote = sanitize(data.progress);
       // Another device changed the data: cloud is the source of truth, but keep unsent local edits.
-      applyRemote(timer ? mergeProgress(getProgress(), remote) : remote);
+      applyRemote(timer ? mergeProgress(getStored(), remote) : remote);
     },
     (e) => console.warn('Snapshot error', e),
   );
@@ -307,7 +307,7 @@ export function initCloud() {
     // Firestore restarts its own streams on 'online'; re-send the snapshot and escalate only if it stays stuck.
     reconnecting = true;
     pendingSince = 0;
-    void upload(u, getProgress());
+    void upload(u, getStored());
     for (const ms of [2000, 6000, 12000]) setTimeout(kickIfStuck, ms);
   });
   document.addEventListener('visibilitychange', () => {
@@ -405,7 +405,7 @@ export async function logout() {
   if (u && timer) {
     clearTimeout(timer);
     timer = null;
-    await upload(u, getProgress()).catch(() => undefined);
+    await upload(u, getStored()).catch(() => undefined);
   }
   await signOut(auth);
 }
@@ -422,6 +422,9 @@ export async function setDisplayName(name: string) {
 }
 
 // ---------- leaderboard ----------
+/** The leaderboard is shared: XP of every course counts. */
+const totalWeekXp = (p: Progress) => weekXp(p) + (p.en ? weekXp(courseView(p, 'en')) : 0);
+
 export interface BoardRow {
   uid: string;
   displayName: string;
@@ -447,7 +450,7 @@ export async function fetchBoard(kind: 'week' | 'all'): Promise<Board> {
   const u = auth.currentUser;
   let me: Board['me'] = null;
   if (u) {
-    const xp = kind === 'all' ? Math.round(getProgress().xp) : Math.round(weekXp(getProgress()));
+    const xp = kind === 'all' ? Math.round(xpByCourse(getStored()).total) : Math.round(totalWeekXp(getStored()));
     const idx = rows.findIndex((r) => r.uid === u.uid);
     if (idx >= 0) me = { rank: idx + 1, xp: rows[idx].xp };
     else if (xp > 0) {

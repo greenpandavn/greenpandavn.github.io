@@ -1,8 +1,9 @@
 import { useSyncExternalStore } from 'react';
-import type { Progress } from '../types';
+import type { CourseId, CourseProgress, Progress } from '../types';
+import { getCourse, onCourseChange, unitLevel } from '../data';
 import { dateKey, addDays } from './date';
 import { updateWord } from './srs';
-import { ACHIEVEMENTS, type Achievement } from './gamification';
+import { achievements, type Achievement } from './gamification';
 import { setSpeechRate } from './speech';
 import { setSfxEnabled } from './sound';
 import { applyTheme } from './theme';
@@ -45,6 +46,74 @@ export function defaultProgress(): Progress {
   };
 }
 
+export const COURSE_KEYS = [
+  'xp',
+  'lessons',
+  'unlockedBonus',
+  'words',
+  'streak',
+  'days',
+  'achievements',
+  'recent',
+  'reviews',
+  'perfectLessons',
+  'bestCombo',
+  'goalBonusDates',
+  'certificates',
+  'tests',
+  'lessonStats',
+] as const;
+
+/** The per-course slice of a flat progress object. */
+export function coursePart(p: Progress): CourseProgress {
+  const out: Record<string, unknown> = { level: p.settings.level };
+  for (const k of COURSE_KEYS) out[k] = p[k];
+  return out as unknown as CourseProgress;
+}
+
+/** A flat progress object for one course: shared fields (gems, settings) + that course's own progress. */
+export function courseView(stored: Progress, course: CourseId): Progress {
+  if (course === 'zh') return stored;
+  const { level, ...part } = stored.en ?? coursePart(defaultProgress());
+  return { ...stored, ...part, settings: { ...stored.settings, level }, en: undefined };
+}
+
+/** Write a course view back into the stored form (Chinese at the top level, English under `en`). */
+function foldView(stored: Progress, view: Progress, course: CourseId): Progress {
+  if (course === 'zh') return { ...view, en: stored.en };
+  const out: Progress = { ...stored, gems: view.gems, settings: { ...view.settings, level: stored.settings.level }, en: coursePart(view) };
+  return out;
+}
+
+/** XP of each course and their sum (the shared leaderboard uses the total). */
+export function xpByCourse(stored: Progress = state) {
+  const zh = stored.xp;
+  const en = stored.en?.xp ?? 0;
+  return { zh, en, total: zh + en };
+}
+
+function sanitizeCourse(raw: unknown): CourseProgress | undefined {
+  if (!raw || typeof raw !== 'object') return undefined;
+  const r = raw as Partial<CourseProgress>;
+  if (typeof r.xp !== 'number' || !r.lessons || typeof r.lessons !== 'object') return undefined;
+  const d = coursePart(defaultProgress());
+  return {
+    ...d,
+    ...r,
+    streak: { ...d.streak, ...(r.streak || {}) },
+    words: r.words && typeof r.words === 'object' ? r.words : {},
+    days: r.days && typeof r.days === 'object' ? r.days : {},
+    achievements: r.achievements && typeof r.achievements === 'object' ? r.achievements : {},
+    lessonStats: r.lessonStats && typeof r.lessonStats === 'object' ? r.lessonStats : {},
+    unlockedBonus: Array.isArray(r.unlockedBonus) ? r.unlockedBonus : [],
+    recent: Array.isArray(r.recent) ? r.recent : [],
+    goalBonusDates: Array.isArray(r.goalBonusDates) ? r.goalBonusDates : [],
+    certificates: Array.isArray(r.certificates) ? r.certificates : [],
+    tests: Array.isArray(r.tests) ? r.tests : [],
+    level: r.level || (Object.keys(r.lessons).length > 0 ? 'new' : ''),
+  };
+}
+
 export function sanitize(raw: unknown): Progress {
   const d = defaultProgress();
   if (!raw || typeof raw !== 'object') throw new Error('invalid');
@@ -61,6 +130,7 @@ export function sanitize(raw: unknown): Progress {
     lessonStats: r.lessonStats && typeof r.lessonStats === 'object' ? r.lessonStats : {},
     certificates: Array.isArray(r.certificates) ? r.certificates : [],
     tests: Array.isArray(r.tests) ? r.tests : [],
+    en: sanitizeCourse(r.en),
     version: 1,
   } as Progress;
 }
@@ -85,7 +155,9 @@ function load(): Progress {
   return defaultProgress();
 }
 
+// `state` is the stored form (all courses); `view` is the active course, which is what the app reads.
 let state: Progress = load();
+let view: Progress = courseView(state, getCourse());
 const listeners = new Set<() => void>();
 type ChangeSource = 'local' | 'remote';
 const changeHooks = new Set<(p: Progress) => void>();
@@ -96,6 +168,7 @@ export function onLocalChange(fn: (p: Progress) => void) {
 }
 
 function applySettings() {
+  // the level differs per course, the rest of the settings are shared
   setSpeechRate(state.settings.rate);
   setSfxEnabled(state.settings.sound);
   applyTheme(state.settings.theme, state.settings.dark);
@@ -104,6 +177,7 @@ applySettings();
 
 function set(next: Progress, source: ChangeSource = 'local') {
   state = next;
+  view = courseView(state, getCourse());
   try {
     localStorage.setItem(storageKey, JSON.stringify(state));
   } catch {
@@ -123,8 +197,15 @@ export const activeStorageKey = () => storageKey;
 /** Replace progress with data coming from the cloud (does not trigger an upload). */
 export const applyRemote = (p: Progress) => set(p, 'remote');
 
-export const getProgress = () => state;
-export const updateProgress = (fn: (p: Progress) => Progress) => set(fn(state));
+/** Progress of the active course (shared gems/settings included). */
+export const getProgress = () => view;
+/** Everything that is saved and synced: the Chinese course at the top level, English under `en`. */
+export const getStored = () => state;
+export const updateProgress = (fn: (p: Progress) => Progress) => set(foldView(state, fn(view), getCourse()));
+onCourseChange(() => {
+  view = courseView(state, getCourse());
+  listeners.forEach((l) => l());
+});
 
 export function useProgress() {
   return useSyncExternalStore(
@@ -132,7 +213,7 @@ export function useProgress() {
       listeners.add(l);
       return () => listeners.delete(l);
     },
-    () => state,
+    () => view,
   );
 }
 
@@ -176,7 +257,7 @@ export function addGems(n: number) {
 }
 
 export function spendGems(n: number) {
-  if (state.gems < n) return false;
+  if (view.gems < n) return false;
   updateProgress((p) => ({ ...p, gems: p.gems - n }));
   return true;
 }
@@ -200,12 +281,12 @@ export function failLesson(lessonId: string) {
 }
 
 export function noteCombo(combo: number) {
-  if (combo > state.bestCombo) updateProgress((p) => ({ ...p, bestCombo: combo }));
+  if (combo > view.bestCombo) updateProgress((p) => ({ ...p, bestCombo: combo }));
 }
 
 /** Unlock new achievements, award their gems, return the newly unlocked ones. */
 export function checkAchievements(): Achievement[] {
-  const fresh = ACHIEVEMENTS.filter((a) => !state.achievements[a.id] && a.check(state));
+  const fresh = achievements().filter((a) => !view.achievements[a.id] && a.check(view));
   if (fresh.length) {
     const today = dateKey();
     updateProgress((p) => ({
@@ -240,7 +321,8 @@ export function recordTest(unit: number, part: string, name: string, correct: nu
   updateProgress((p) => {
     const tests = [...p.tests, { unit, correct, total, passed, date }].slice(-50);
     if (!passed) return { ...p, tests };
-    const id = `hsk1-part${unit}`;
+    // Chinese: hsk1-part1…3 (kept from v2), hsk2-part21…; English: en-part1…
+    const id = getCourse() === 'en' ? `en-part${unit}` : `hsk${unitLevel(unit)}-part${unit}`;
     const prev = p.certificates.find((c) => c.id === id);
     cert = prev && prev.score >= score ? prev : { id, unit, part, name, score, correct, total, date };
     return { ...p, tests, certificates: [...p.certificates.filter((c) => c.id !== id), cert].sort((a, b) => a.unit - b.unit) };

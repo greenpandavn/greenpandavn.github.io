@@ -1,4 +1,5 @@
 import type { Certificate, Progress, TestResult, WordProgress } from '../types';
+import { coursePart, courseView } from './store';
 
 const maxBy = <T>(a: T | undefined, b: T | undefined, score: (x: T) => number): T | undefined => {
   if (!a) return b;
@@ -15,6 +16,7 @@ function mergeStats(a: Progress['lessonStats'] = {}, b: Progress['lessonStats'] 
 }
 
 export function hasProgress(p: Progress | null | undefined): boolean {
+  if (p?.en && hasProgress(courseView(p, 'en'))) return true;
   return !!p && (p.xp > 0 || Object.keys(p.lessons).length > 0 || Object.keys(p.words).length > 0 || p.certificates.length > 0);
 }
 
@@ -24,6 +26,16 @@ export function hasProgress(p: Progress | null | undefined): boolean {
  * `primary` wins for settings (cloud data when logging in).
  */
 export function mergeProgress(primary: Progress, other: Progress): Progress {
+  const merged = mergeFlat(primary, other);
+  // the English course is merged with the same rules as the Chinese one
+  const en =
+    primary.en && other.en
+      ? coursePart(mergeFlat(courseView(primary, 'en'), courseView(other, 'en')))
+      : (primary.en ?? other.en);
+  return { ...merged, gems: Math.max(primary.gems, other.gems), en };
+}
+
+function mergeFlat(primary: Progress, other: Progress): Progress {
   const lessons: Progress['lessons'] = { ...other.lessons };
   for (const [id, lp] of Object.entries(primary.lessons)) {
     const o = lessons[id];

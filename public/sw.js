@@ -91,7 +91,7 @@ async function maybeRemind() {
   s.lastNotified = today();
   reminder = s;
   await store('put', s);
-  await self.registration.showNotification('Đến giờ học tiếng Trung rồi!', {
+  await self.registration.showNotification('Đến giờ học ngoại ngữ rồi!', {
     body: 'Học một bài ngắn để giữ chuỗi ngày nhé 🐼',
     icon: 'icons/icon-192.png',
     badge: 'icons/icon-192.png',

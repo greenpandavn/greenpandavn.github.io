@@ -1,6 +1,7 @@
 import { useSyncExternalStore } from 'react';
 import raw from './lessons.json';
-import type { Lesson, Word } from '../types';
+import rawEn from './english.json';
+import type { CourseId, Lesson, Word } from '../types';
 
 export type RawWord = Omit<Word, 'lessonId'>;
 export type RawLesson = Omit<Lesson, 'words'> & { words: RawWord[] };
@@ -9,6 +10,8 @@ export interface Unit {
   title: string;
   desc: string;
   color: string;
+  /** HSK level (Chinese course); units of one level are shown together. */
+  level?: number;
 }
 /** A Firestore content document: a full lesson/unit, or a tombstone hiding a bundled one. */
 export type LessonDoc = RawLesson | { id: string; deleted: true };
@@ -19,11 +22,52 @@ export interface ContentOverrides {
 }
 
 export const BUNDLED_LESSONS: RawLesson[] = (raw.lessons as RawLesson[]).map((l, i) => ({ ...l, order: (i + 1) * 10 }));
-export const BUNDLED_UNITS: Unit[] = [
-  { unit: 1, title: 'Phần 1: Làm quen', desc: 'Chào hỏi, giới thiệu, số đếm, gia đình', color: 'leaf' },
-  { unit: 2, title: 'Phần 2: Cuộc sống hằng ngày', desc: 'Ăn uống, màu sắc, thời gian, trường học', color: 'sky' },
-  { unit: 3, title: 'Phần 3: Khám phá thế giới', desc: 'Động vật, nhà cửa, du lịch, thời tiết', color: 'grape' },
+export const BUNDLED_UNITS: Unit[] = raw.units as Unit[];
+const EN_LESSONS: RawLesson[] = (rawEn.lessons as RawLesson[]).map((l, i) => ({ ...l, order: (i + 1) * 10 }));
+const EN_UNITS: Unit[] = rawEn.units as Unit[];
+
+export const COURSES: { id: CourseId; label: string; title: string; desc: string; glyph: string }[] = [
+  { id: 'zh', label: 'Tiếng Trung', title: 'Khóa học tiếng Trung HSK 1–3', desc: 'HSK 1 → HSK 3 · chữ Hán, pinyin, luyện nghe nói', glyph: '中' },
+  { id: 'en', label: 'Tiếng Anh', title: 'Khóa học tiếng Anh cho người mới bắt đầu', desc: 'Cơ bản · từ vựng, chính tả, luyện nghe nói', glyph: 'En' },
 ];
+const COURSE_KEY = 'gp-course';
+function storedCourse(): CourseId | null {
+  try {
+    const c = typeof localStorage !== 'undefined' ? localStorage.getItem(COURSE_KEY) : null;
+    return c === 'zh' || c === 'en' ? c : null;
+  } catch {
+    return null;
+  }
+}
+let chosen = storedCourse() !== null;
+let course: CourseId = storedCourse() ?? 'zh';
+let overrides: ContentOverrides | null = null;
+/** The course being studied on this device. All the live bindings below belong to it. */
+export const getCourse = () => course;
+export const isEnglish = () => course === 'en';
+/** False until the learner has picked a course on this device. */
+export const courseChosen = () => chosen;
+export const courseInfo = (id: CourseId = course) => COURSES.find((c) => c.id === id)!;
+const courseHooks = new Set<() => void>();
+/** Runs right after the active course changed, before React re-renders. */
+export function onCourseChange(fn: () => void) {
+  courseHooks.add(fn);
+}
+export function setCourse(c: CourseId) {
+  chosen = true;
+  course = c;
+  try {
+    localStorage.setItem(COURSE_KEY, c);
+  } catch {
+    /* private mode */
+  }
+  build(overrides);
+  courseHooks.forEach((h) => h());
+  version++;
+  listeners.forEach((l) => l());
+}
+/** HSK level of a unit (1 when the unit has none, e.g. the English course). */
+export const unitLevel = (unit: number) => UNITS.find((u) => u.unit === unit)?.level ?? 1;
 
 // Live bindings: reassigned when admin-managed content arrives from Firestore.
 export let LESSONS: Lesson[] = [];
@@ -40,8 +84,10 @@ let version = 0;
 const listeners = new Set<() => void>();
 
 function build(o: ContentOverrides | null) {
-  const lessonMap = new Map<string, RawLesson>(BUNDLED_LESSONS.map((l) => [l.id, l]));
-  const unitMap = new Map<number, Unit>(BUNDLED_UNITS.map((u) => [u.unit, u]));
+  overrides = o;
+  if (course === 'en') o = null; // admin-managed content only exists for the Chinese course
+  const lessonMap = new Map<string, RawLesson>((course === 'en' ? EN_LESSONS : BUNDLED_LESSONS).map((l) => [l.id, l]));
+  const unitMap = new Map<number, Unit>((course === 'en' ? EN_UNITS : BUNDLED_UNITS).map((u) => [u.unit, u]));
   for (const d of o?.lessons ?? []) {
     if ('deleted' in d) lessonMap.delete(d.id);
     else if (d.id && Array.isArray(d.words)) lessonMap.set(d.id, d);
@@ -94,14 +140,21 @@ export function useContentVersion() {
   );
 }
 
-const PUNCT = /^[，。？！、；：]$/;
+const PUNCT = /^[，。？！、；：,.?!;:]$/;
+const hasHan = (s: string) => /\p{Script=Han}/u.test(s);
 export const isPunct = (t: string) => PUNCT.test(t);
 
+/** The example sentence as written: Chinese has no spaces, English words are separated by spaces. */
 export function sentenceZh(w: Word) {
-  return w.ex.tokens.join('');
+  if (hasHan(w.ex.tokens.join(''))) return w.ex.tokens.join('');
+  return w.ex.tokens.reduce((out, t, i) => out + (i && !isPunct(t) ? ' ' : '') + t, '');
 }
 
+/** Normalised form used to compare an arranged sentence with the accepted answers. */
+export const sentenceKey = (s: string) => (hasHan(s) ? s.replace(/[，。？！、；：\s]/g, '') : s.toLowerCase().replace(/[^a-z0-9]/g, ''));
+
 export function sentencePinyin(w: Word) {
+  if (!w.pinyin && w.ex.py.every((p) => !p || isPunct(p))) return '';
   let out = '';
   w.ex.py.forEach((p, i) => {
     if (/^[,.?!;:]$/.test(p)) out += p;

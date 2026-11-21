@@ -1,5 +1,5 @@
 import type { Word } from '../types';
-import { ALL_WORDS, sentenceTiles } from '../data';
+import { ALL_WORDS, isEnglish, sentenceTiles } from '../data';
 import { toneless } from './pinyin';
 import type { Difficulty } from './gamification';
 
@@ -16,6 +16,12 @@ export type Exercise =
   | { id: string; kind: 'speak'; word: Word };
 
 export type ExerciseKind = Exercise['kind'];
+
+/** What a word sounds like, for telling apart listening options (pinyin, or the word itself in English). */
+const soundKey = (w: Word) => (w.pinyin ? toneless(w.pinyin) : w.hanzi.toLowerCase());
+
+export const KIND_LABEL_EN: Partial<Record<ExerciseKind, string>> = { char: 'Chọn từ đúng', type: 'Chính tả' };
+export const kindLabel = (k: ExerciseKind) => (isEnglish() && KIND_LABEL_EN[k]) || KIND_LABEL[k];
 
 export const KIND_LABEL: Record<ExerciseKind, string> = {
   intro: 'Từ mới',
@@ -48,15 +54,15 @@ function distractors(word: Word, pool: Word[], n: number, avoidSound: boolean): 
     w.id !== word.id &&
     w.hanzi !== word.hanzi &&
     w.vi !== word.vi &&
-    (!avoidSound || toneless(w.pinyin) !== toneless(word.pinyin));
+    (!avoidSound || soundKey(w) !== soundKey(word));
   const picked: Word[] = [];
   const used = new Set<string>();
   for (const src of [shuffle(pool), shuffle(ALL_WORDS)]) {
     for (const w of src) {
       if (picked.length >= n) break;
-      if (!ok(w) || used.has(w.hanzi) || used.has(toneless(w.pinyin)) || used.has(w.vi)) continue;
+      if (!ok(w) || used.has(w.hanzi) || used.has(soundKey(w)) || used.has(w.vi)) continue;
       used.add(w.hanzi);
-      used.add(toneless(w.pinyin));
+      used.add(soundKey(w));
       used.add(w.vi);
       picked.push(w);
     }
@@ -106,7 +112,7 @@ export function makeArrange(word: Word, pool: Word[], d: Difficulty): Exercise {
   const extra = d === 'easy' ? 0 : d === 'normal' ? 1 : 2;
   const have = new Set(tiles.map((t) => t.zh));
   const extras = shuffle(pool.length > 4 ? pool : ALL_WORDS)
-    .filter((w) => !have.has(w.hanzi) && w.hanzi.length <= 2)
+    .filter((w) => !have.has(w.hanzi) && (w.pinyin ? w.hanzi.length <= 2 : !w.hanzi.includes(' ')))
     .slice(0, extra)
     .map((w, i) => ({ id: `x${i}`, zh: w.hanzi, py: w.pinyin }));
   return { id: uid(), kind: 'arrange', word, tiles: shuffle([...tiles, ...extras]) };

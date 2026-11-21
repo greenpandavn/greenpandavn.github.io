@@ -1,9 +1,11 @@
+import { isEnglish } from '../data';
 export const APP_URL = 'https://hoc-tieng-trung-roan.vercel.app/';
 export const APP_NAME = 'Học Ngoại Ngữ – Gấu Trúc Xanh';
 
+const lang = () => (isEnglish() ? 'tiếng Anh' : 'tiếng Trung');
 export const shareText = {
-  streak: (n: number) => `Tôi đã học tiếng Trung được ${n} ngày liên tiếp trên ${APP_NAME}! 🔥`,
-  xp: (xp: number) => `Tôi đã đạt ${xp} XP khi học tiếng Trung trên ${APP_NAME}! ⚡`,
+  streak: (n: number) => `Tôi đã học ${lang()} được ${n} ngày liên tiếp trên ${APP_NAME}! 🔥`,
+  xp: (xp: number) => `Tôi đã đạt ${xp} XP khi học ${lang()} trên ${APP_NAME}! ⚡`,
   cert: (part: string, score: number) => `Tôi vừa nhận chứng chỉ "${part}" với điểm ${score}% trên ${APP_NAME}! 🏆`,
 };
 

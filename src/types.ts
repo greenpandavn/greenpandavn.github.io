@@ -23,8 +23,11 @@ export interface Lesson {
   unit: number;
   words: Word[];
   bonus?: boolean;
+  course?: CourseId;
   cost?: number;
 }
+
+export type CourseId = 'zh' | 'en';
 
 export type WordStatus = 'new' | 'learning' | 'mastered';
 
@@ -96,4 +99,26 @@ export interface Progress {
   tests: TestResult[];
   lessonStats: Record<string, { fails: number }>; // failed attempts (hearts ran out) per lesson
   settings: Settings;
+  /** English-course progress. The top-level fields above always hold the Chinese course when stored. */
+  en?: CourseProgress;
 }
+
+/** The part of the progress that is tracked separately for each course. */
+export type CourseProgress = Pick<
+  Progress,
+  | 'xp'
+  | 'lessons'
+  | 'unlockedBonus'
+  | 'words'
+  | 'streak'
+  | 'days'
+  | 'achievements'
+  | 'recent'
+  | 'reviews'
+  | 'perfectLessons'
+  | 'bestCombo'
+  | 'goalBonusDates'
+  | 'certificates'
+  | 'tests'
+  | 'lessonStats'
+> & { level: StartLevel | '' };

@@ -1,5 +1,5 @@
 import { useMemo, useState } from 'react';
-import { LESSONS } from '../data';
+import { LESSONS, isEnglish } from '../data';
 import { useProgress } from '../lib/store';
 import { wordStatus } from '../lib/srs';
 import { toneless } from '../lib/pinyin';
@@ -21,7 +21,7 @@ export default function WordsScreen() {
       LESSONS.map((l) => ({
         l,
         words: l.words.filter(
-          (w) => !query || w.hanzi.includes(q.trim()) || toneless(w.pinyin).includes(toneless(q)) || fold(w.vi).includes(query),
+          (w) => !query || w.hanzi.toLowerCase().includes(q.trim().toLowerCase()) || (!!w.pinyin && toneless(w.pinyin).includes(toneless(q))) || fold(w.vi).includes(query),
         ),
       })).filter((g) => g.words.length),
     [q, query],
@@ -30,11 +30,11 @@ export default function WordsScreen() {
   return (
     <div className="mx-auto max-w-md px-4 pb-2 pt-4">
       <h1 className="text-2xl font-black">Từ vựng</h1>
-      <p className="mb-3 text-sm font-semibold text-ink-500">{total} từ · chạm vào từ để nghe, xem nét viết và luyện nói</p>
+      <p className="mb-3 text-sm font-semibold text-ink-500">{total} từ · chạm vào từ để nghe{isEnglish() ? '' : ', xem nét viết'} và luyện nói</p>
       <input
         value={q}
         onChange={(e) => setQ(e.target.value)}
-        placeholder="Tìm chữ Hán, pinyin hoặc nghĩa..."
+        placeholder={isEnglish() ? 'Tìm từ tiếng Anh hoặc nghĩa...' : 'Tìm chữ Hán, pinyin hoặc nghĩa...'}
         aria-label="Tìm từ"
         className="mb-4 w-full rounded-2xl border-2 border-cloud bg-mist px-4 py-3 font-bold outline-none focus:border-sky-400"
       />

@@ -1,5 +1,5 @@
 import { useState } from 'react';
-import { listenOnce, recognitionSupported } from '../lib/speech';
+import { listenOnce, recognitionSupported, speechLang } from '../lib/speech';
 import { Mic } from './Icons';
 import type { Word } from '../types';
 
@@ -7,11 +7,34 @@ export type SpeakResult = 'correct' | 'close' | 'wrong' | 'error';
 
 /** Best-effort pronunciation check: compares the zh-CN transcript with the target characters. */
 export function judgeSpeech(alts: string[], target: string): SpeakResult {
+  if (speechLang(target) === 'en-US') return judgeEnglish(alts, target);
   const clean = (s: string) => s.replace(/[\s，。？！,.?!]/g, '');
   const t = clean(target);
   if (alts.some((a) => clean(a) === t || clean(a).includes(t))) return 'correct';
   const tChars = new Set(t);
   const best = Math.max(0, ...alts.map((a) => [...clean(a)].filter((c) => tChars.has(c)).length / tChars.size));
+  return best >= 0.6 ? 'close' : 'wrong';
+}
+
+const enWords = (s: string) =>
+  s
+    .toLowerCase()
+    .replace(/[^a-z0-9' ]/g, ' ')
+    .split(/\s+/)
+    .filter(Boolean);
+
+/** English: compares the en-US transcript with the target word by word. */
+function judgeEnglish(alts: string[], target: string): SpeakResult {
+  const t = enWords(target);
+  const tStr = t.join(' ');
+  if (alts.some((a) => ` ${enWords(a).join(' ')} `.includes(` ${tStr} `))) return 'correct';
+  const best = Math.max(
+    0,
+    ...alts.map((a) => {
+      const heard = new Set(enWords(a));
+      return t.filter((w) => heard.has(w)).length / t.length;
+    }),
+  );
   return best >= 0.6 ? 'close' : 'wrong';
 }
 
@@ -39,7 +62,7 @@ export default function SpeakCheck({
     setState('listening');
     setHeard('');
     setResult(null);
-    const { promise } = listenOnce();
+    const { promise } = listenOnce(speechLang(text));
     promise
       .then((alts) => {
         const r = alts.length ? judgeSpeech(alts, text) : 'wrong';

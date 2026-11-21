@@ -2,6 +2,7 @@ import { LEVELS, setLevel } from '../lib/unlock';
 import type { StartLevel } from '../types';
 import Panda from './Panda';
 import Footer from './Footer';
+import { isEnglish } from '../data';
 
 const GLYPH: Record<StartLevel, string> = { new: '🌱', some: '🌿', done: '🌳' };
 
@@ -10,7 +11,7 @@ export default function LevelPicker() {
   return (
     <div className="mx-auto flex min-h-[100dvh] max-w-md flex-col px-5 pt-10" data-testid="level-picker">
       <Panda size={110} mood="happy" className="mx-auto" />
-      <h1 className="mt-3 text-center text-2xl font-black">Bạn biết tiếng Trung đến đâu rồi?</h1>
+      <h1 className="mt-3 text-center text-2xl font-black">Bạn biết {isEnglish() ? 'tiếng Anh' : 'tiếng Trung'} đến đâu rồi?</h1>
       <p className="mb-6 mt-1 text-center font-semibold text-ink-500">Chọn điểm bắt đầu phù hợp. Bạn có thể đổi lại trong Cài đặt bất cứ lúc nào.</p>
       <div className="flex flex-col gap-3">
         {LEVELS.map((l) => (

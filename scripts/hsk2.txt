@@ -1,0 +1,173 @@
+# HSK 2 (chuẩn HSK cũ, 150 từ; 9 từ đã có ở HSK 1) + 6 từ HSK 1 còn thiếu (日 零 没 饭馆 火车站 说话).
+# Định dạng: xem scripts/build-data.mjs
+
+%21|2|Phần 1: Con người và cuộc sống|Gia đình, thời gian, sinh hoạt, sở thích|leaf
+@h2-01|Gia đình và mọi người|Anh chị em, vợ chồng, con cái|哥
+哥哥|anh trai|我/哥哥/是/医生/。|Anh trai tôi là bác sĩ.
+姐姐|chị gái|姐姐/在/北京/工作/。|Chị gái làm việc ở Bắc Kinh.
+弟弟|em trai|我/弟弟/今年/八/岁/。|Em trai tôi năm nay tám tuổi.
+妹妹|em gái|妹妹/喜欢/小/猫/。|Em gái thích mèo con.
+丈夫|chồng|她/丈夫/是/老师/。|Chồng cô ấy là giáo viên.
+妻子|vợ|他/妻子/很/漂亮/。|Vợ anh ấy rất xinh đẹp.
+孩子|con, đứa trẻ|他们/有/两/个/孩子/。|Họ có hai đứa con.
+男人|đàn ông|那/个/男人/是/谁/？|Người đàn ông kia là ai?
+女人|phụ nữ|那/个/女人/是/我/妈妈/。|Người phụ nữ kia là mẹ tôi.
+大家|mọi người|大家/好/！|Chào mọi người!
+您|ông, bà, ngài (kính trọng)|您/好/，/请/坐/。|Chào ông/bà, mời ngồi.
+它|nó (đồ vật, con vật)|它/是/我/的/小/狗/。|Nó là con chó nhỏ của tôi.
+
+@h2-02|Thời gian|Sáng, tối, giờ giấc, ngày tháng|时
+早上|buổi sáng|早上/好/！|Chào buổi sáng!
+晚上|buổi tối|晚上/我/看/电视/。|Buổi tối tôi xem ti vi.|我晚上看电视
+小时|tiếng (đồng hồ)|我/每天/学习/两/个/小时/。|Mỗi ngày tôi học hai tiếng.|每天我学习两个小时
+时间|thời gian|今天/我/没有/时间/。|Hôm nay tôi không có thời gian.|我今天没有时间
+去年|năm ngoái|去年/我/去/了/中国/。|Năm ngoái tôi đã đi Trung Quốc.|我去年去了中国
+生日|sinh nhật|祝/你/生日/快乐/！|Chúc bạn sinh nhật vui vẻ!
+每|mỗi|我/每/天/都/喝/茶/。|Ngày nào tôi cũng uống trà.
+日|ngày, mùng|今天/是/八/月/九/日/。|Hôm nay là ngày 9 tháng 8.
+已经|đã, rồi|他/已经/回/家/了/。|Anh ấy đã về nhà rồi.
+正在|đang|妈妈/正在/做/饭/。|Mẹ đang nấu cơm.
+开始|bắt đầu|电影/开始/了/。|Phim bắt đầu rồi.
+
+@h2-03|Sinh hoạt hằng ngày|Thức dậy, đi làm, nghỉ ngơi|起
+起床|thức dậy, ngủ dậy|我/早上/六/点/起床/。|Buổi sáng tôi dậy lúc sáu giờ.
+上班|đi làm|爸爸/八/点/上班/。|Bố đi làm lúc tám giờ.
+休息|nghỉ ngơi|你/累/了/，/休息/一下/吧/。|Bạn mệt rồi, nghỉ một chút đi.
+洗|rửa, giặt|我/在/洗/衣服/。|Tôi đang giặt quần áo.
+穿|mặc, đi (giày)|她/穿/红色/的/衣服/。|Cô ấy mặc quần áo màu đỏ.
+走|đi, đi bộ|我们/走/吧/。|Chúng ta đi thôi.
+进|vào|请/进/！|Mời vào!
+出|ra, ra ngoài|他/出/门/了/。|Anh ấy ra khỏi nhà rồi.
+找|tìm|你/找/谁/？|Bạn tìm ai?
+玩|chơi|孩子/们/在/外面/玩/。|Bọn trẻ đang chơi ở bên ngoài.
+完|xong, hết|我/吃/完/了/。|Tôi ăn xong rồi.
+准备|chuẩn bị|你/准备/好/了/吗/？|Bạn chuẩn bị xong chưa?
+
+@h2-04|Thể thao và sở thích|Vận động, ca hát, du lịch|跑
+运动|vận động, thể thao|我/喜欢/运动/。|Tôi thích thể thao.
+跑步|chạy bộ|他/每天/早上/跑步/。|Sáng nào anh ấy cũng chạy bộ.
+游泳|bơi, bơi lội|我/不/会/游泳/。|Tôi không biết bơi.
+打篮球=dǎ lánqiú|chơi bóng rổ|哥哥/喜欢/打篮球/。|Anh trai thích chơi bóng rổ.
+踢足球=tī zúqiú|đá bóng|弟弟/在/踢足球/。|Em trai đang đá bóng.
+唱歌|hát, ca hát|她/唱歌/很/好听/。|Cô ấy hát rất hay.
+跳舞|nhảy, khiêu vũ|妹妹/会/跳舞/。|Em gái biết nhảy.
+旅游|du lịch|我/想/去/中国/旅游/。|Tôi muốn đi du lịch Trung Quốc.
+一起|cùng nhau|我们/一起/去/吧/。|Chúng ta cùng đi nhé.
+笑|cười|她/笑/了/。|Cô ấy cười rồi.
+快乐|vui vẻ|我/今天/很/快乐/。|Hôm nay tôi rất vui.|今天我很快乐
+累|mệt|我/很/累/，/想/睡觉/。|Tôi rất mệt, muốn đi ngủ.
+
+%22|2|Phần 2: Học tập, công việc, mua sắm|Lớp học, công ty, cửa hàng, quán ăn|sky
+@h2-05|Ở lớp học|Bài học, thi cử, câu hỏi|课
+教室|phòng học|教室/里/有/很/多/学生/。|Trong phòng học có rất nhiều học sinh.
+课|bài học, tiết học|今天/我/有/汉语/课/。|Hôm nay tôi có tiết tiếng Trung.|我今天有汉语课
+考试|thi, kỳ thi|明天/我们/有/考试/。|Ngày mai chúng tôi có bài thi.|我们明天有考试
+题|câu hỏi, đề bài|这/个/题/很/难/。|Câu này rất khó.
+问|hỏi|我/想/问/老师/。|Tôi muốn hỏi thầy giáo.
+问题|câu hỏi, vấn đề|我/有/一/个/问题/。|Tôi có một câu hỏi.
+回答|trả lời|请/回答/我/的/问题/。|Xin hãy trả lời câu hỏi của tôi.
+懂|hiểu|我/听/不/懂/。|Tôi nghe không hiểu.
+错|sai|对不起/，/我/错/了/。|Xin lỗi, tôi sai rồi.
+意思|ý nghĩa|这/个/字/是/什么/意思/？|Chữ này có nghĩa là gì?
+第一|thứ nhất|这/是/我/第一/次/来/中国/。|Đây là lần đầu tiên tôi đến Trung Quốc.
+次|lần|我/去/过/一/次/北京/。|Tôi đã đi Bắc Kinh một lần.
+
+@h2-06|Công việc và giao tiếp|Công ty, giúp đỡ, giới thiệu|司
+公司|công ty|我/在/一/家/公司/工作/。|Tôi làm việc ở một công ty.
+忙|bận|你/今天/忙/吗/？|Hôm nay bạn có bận không?|今天你忙吗
+事情|sự việc, chuyện|我/有/很/多/事情/要/做/。|Tôi có rất nhiều việc phải làm.
+帮助|giúp đỡ|谢谢/你/的/帮助/。|Cảm ơn sự giúp đỡ của bạn.
+告诉|nói cho biết, bảo|请/告诉/我/你/的/名字/。|Xin cho tôi biết tên của bạn.
+介绍|giới thiệu|我/来/介绍/一下/。|Để tôi giới thiệu một chút.
+知道|biết|我/不/知道/他/在/哪儿/。|Tôi không biết anh ấy ở đâu.
+觉得|cảm thấy, cho rằng|我/觉得/汉语/很/有/意思/。|Tôi thấy tiếng Trung rất thú vị.
+希望|hy vọng|我/希望/你/能/来/。|Tôi hy vọng bạn có thể đến.
+让|để, bảo, cho phép|妈妈/不/让/我/看/电视/。|Mẹ không cho tôi xem ti vi.
+欢迎|hoan nghênh, chào mừng|欢迎/你/来/我/家/。|Chào mừng bạn đến nhà tôi.
+说话|nói chuyện|他们/在/说话/。|Họ đang nói chuyện.
+
+@h2-07|Mua sắm|Giá cả, số lớn, đồ dùng|买
+卖|bán|这/个/商店/卖/水果/。|Cửa hàng này bán hoa quả.
+贵|đắt|这/件/衣服/太/贵/了/。|Bộ quần áo này đắt quá.
+便宜|rẻ|苹果/很/便宜/。|Táo rất rẻ.
+元|đồng, tệ (đơn vị tiền)|这/本/书/二十/元/。|Quyển sách này hai mươi tệ.
+百|trăm|这/个/手机/八/百/块/。|Chiếc điện thoại này tám trăm tệ.
+千|nghìn|学校/有/两/千/个/学生/。|Trường có hai nghìn học sinh.
+两|hai (dùng trước lượng từ)|我/要/两/杯/茶/。|Tôi muốn hai cốc trà.
+零|số không|现在/是/十/点/零/五/分/。|Bây giờ là mười giờ năm phút.
+公斤|ki-lô-gam, cân|我/买/一/公斤/苹果/。|Tôi mua một cân táo.
+件|chiếc, cái (lượng từ quần áo, sự việc)|我/想/买/一/件/衣服/。|Tôi muốn mua một chiếc áo.
+张|tờ, tấm (lượng từ)|我/要/一/张/票/。|Tôi muốn một tấm vé.
+票|vé|你/买/票/了/吗/？|Bạn mua vé chưa?
+手表|đồng hồ đeo tay|这/块/手表/很/漂亮/。|Chiếc đồng hồ này rất đẹp.
+手机|điện thoại di động|我/的/手机/在/桌子/上/。|Điện thoại của tôi ở trên bàn.
+
+@h2-08|Quán ăn và sức khỏe|Gọi món, ốm đau, phòng ở|药
+饭馆|quán ăn, nhà hàng|我们/去/饭馆/吃/饭/吧/。|Chúng ta đi quán ăn cơm đi.
+服务员|nhân viên phục vụ|服务员/，/我/要/一/杯/水/。|Phục vụ ơi, cho tôi một cốc nước.
+西瓜|dưa hấu|西瓜/很/好吃/。|Dưa hấu rất ngon.
+羊肉|thịt dê, thịt cừu|我/不/吃/羊肉/。|Tôi không ăn thịt dê.
+生病|bị ốm|他/生病/了/。|Anh ấy bị ốm rồi.
+药|thuốc|你/吃/药/了/吗/？|Bạn uống thuốc chưa?
+报纸|báo, tờ báo|爸爸/在/看/报纸/。|Bố đang đọc báo.
+房间|phòng, căn phòng|我/的/房间/很/小/。|Phòng của tôi rất nhỏ.
+门|cửa|请/开/门/。|Xin hãy mở cửa.
+新|mới|这/是/我/的/新/手机/。|Đây là điện thoại mới của tôi.
+给|cho, đưa cho|妈妈/给/我/一/个/苹果/。|Mẹ cho tôi một quả táo.
+送|tặng, tiễn, đưa|朋友/送/我/一/本/书/。|Bạn tặng tôi một quyển sách.
+
+%23|2|Phần 3: Thế giới xung quanh|Đi lại, vị trí, thời tiết, so sánh, từ nối|grape
+@h2-09|Đi lại|Xe buýt, sân bay, xa gần|路
+公共汽车|xe buýt|我/坐/公共汽车/去/学校/。|Tôi đi xe buýt đến trường.
+自行车|xe đạp|他/有/一/辆/自行车/。|Anh ấy có một chiếc xe đạp.
+船|thuyền, tàu thủy|我们/坐/船/去/吧/。|Chúng ta đi bằng thuyền nhé.
+机场|sân bay|我/去/机场/坐/飞机/。|Tôi ra sân bay đi máy bay.
+火车站|ga tàu hỏa|火车站/在/哪儿/？|Ga tàu hỏa ở đâu?
+路|đường, con đường|这/条/路/很/长/。|Con đường này rất dài.
+远|xa|我/家/很/远/。|Nhà tôi rất xa.
+近|gần|学校/很/近/。|Trường học rất gần.
+离|cách (khoảng cách)|我/家/离/学校/不/远/。|Nhà tôi cách trường không xa.
+从|từ|我/从/越南/来/。|Tôi đến từ Việt Nam.
+到|đến, tới|他/到/北京/了/。|Anh ấy đến Bắc Kinh rồi.
+向|về phía, hướng về|请/向/前/走/。|Xin hãy đi về phía trước.
+
+@h2-10|Vị trí, màu sắc, thời tiết|Trái phải, trắng đen, nắng mưa|晴
+左边|bên trái|商店/在/学校/左边/。|Cửa hàng ở bên trái trường học.
+右边|bên phải|医院/在/右边/。|Bệnh viện ở bên phải.
+旁边|bên cạnh|他/坐/在/我/旁边/。|Anh ấy ngồi bên cạnh tôi.
+外|ngoài, bên ngoài|门/外/有/一/个/人/。|Ngoài cửa có một người.
+白|trắng|她/穿/白/衣服/。|Cô ấy mặc áo trắng.
+黑|đen|我/有/一/只=zhī/黑/猫/。|Tôi có một con mèo đen.
+红|đỏ|苹果/红/了/。|Táo đỏ rồi.
+晴|nắng, quang đãng|今天/是/晴/天/。|Hôm nay trời nắng.
+阴|râm, âm u|明天/是/阴/天/。|Ngày mai trời âm u.
+雪|tuyết|今天/下/雪/了/。|Hôm nay tuyết rơi rồi.
+高|cao|我/哥哥/很/高/。|Anh trai tôi rất cao.
+长|dài|她/的/头发/很/长/。|Tóc cô ấy rất dài.
+
+@h2-11|Mô tả và so sánh|Nhanh chậm, hơn nhất, có thể|比
+快|nhanh|他/跑/得/很/快/。|Anh ấy chạy rất nhanh.
+慢|chậm|请/说/慢/一点儿/。|Xin hãy nói chậm một chút.
+比|hơn (so sánh)|哥哥/比/我/高/。|Anh trai cao hơn tôi.
+最|nhất|我/最/喜欢/吃/饺子/。|Tôi thích ăn sủi cảo nhất.
+真|thật, thật là|你/的/衣服/真/漂亮/！|Quần áo của bạn đẹp thật!
+非常|vô cùng, rất|今天/非常/冷/。|Hôm nay vô cùng lạnh.
+也|cũng|我/也/是/学生/。|Tôi cũng là học sinh.
+还|còn, vẫn|他/还/在/睡觉/。|Anh ấy vẫn đang ngủ.
+可能|có thể, có lẽ|明天/可能/下/雨/。|Ngày mai có thể mưa.
+可以|có thể, được phép|我/可以/进来/吗/？|Tôi vào được không?
+要|muốn, cần, phải|我/要/一/杯/咖啡/。|Tôi muốn một cốc cà phê.
+别|đừng|别/说话/！|Đừng nói chuyện!
+
+@h2-12|Từ nối và ngữ pháp|Vì, nên, nhưng, trợ từ|因
+因为|bởi vì|因为/下/雨/，/我/不/去/了/。|Vì trời mưa nên tôi không đi nữa.
+所以|cho nên|他/生病/了/，/所以/没/来/。|Anh ấy bị ốm nên không đến.
+但是|nhưng, nhưng mà|汉语/很/难/，/但是/很/有/意思/。|Tiếng Trung rất khó nhưng rất thú vị.
+为什么|tại sao, vì sao|你/为什么/不/吃/？|Tại sao bạn không ăn?
+吧|nhé, đi, nhỉ (trợ từ)|我们/回/家/吧/。|Chúng ta về nhà nhé.
+着|đang (trợ từ chỉ trạng thái)|门/开/着/。|Cửa đang mở.
+得|trợ từ bổ ngữ (làm... như thế nào)|她/唱/得/很/好/。|Cô ấy hát rất hay.
+没|không, chưa|我/没/吃/早饭/。|Tôi chưa ăn sáng.
+姓|họ, mang họ|我/姓/王=Wáng/。|Tôi họ Vương.
+就|thì, liền, ngay|我/现在/就/去/。|Tôi đi ngay bây giờ.
+再|lại, nữa|请/再/说/一/次/。|Xin hãy nói lại một lần nữa.

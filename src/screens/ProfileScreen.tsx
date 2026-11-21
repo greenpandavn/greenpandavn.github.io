@@ -10,15 +10,15 @@ import ShareButton from '../components/ShareButton';
 import CertificateView from '../components/CertificateView';
 import { CONTACT_EMAIL, YOUTUBE_URL } from '../components/Footer';
 import { Trophy } from '../components/Icons';
-import { exportProgress, importProgress, resetProgress, updateProgress, useProgress } from '../lib/store';
-import { ACHIEVEMENTS, currentStreak, levelInfo } from '../lib/gamification';
+import { exportProgress, importProgress, resetProgress, updateProgress, useProgress, xpByCourse } from '../lib/store';
+import { achievements, currentStreak, levelInfo } from '../lib/gamification';
 import { countByStatus } from '../lib/srs';
-import { hasChineseVoice, speak, ttsSupported } from '../lib/speech';
+import { hasChineseVoice, hasEnglishVoice, speak, ttsSupported } from '../lib/speech';
 import StreakCalendar from '../components/StreakCalendar';
 import ProgressBar from '../components/ProgressBar';
 import Panda from '../components/Panda';
 import { BadgeGlyph, Bolt, Flame, Gem, Star } from '../components/Icons';
-import { CORE_LESSONS } from '../data';
+import { COURSES, CORE_LESSONS, courseInfo, isEnglish, setCourse, useContentVersion } from '../data';
 import { LEVELS, setLevel } from '../lib/unlock';
 import { THEMES } from '../lib/theme';
 
@@ -26,6 +26,7 @@ const BADGE_COLORS = ['bg-leaf-500', 'bg-sky-500', 'bg-grape-500', 'bg-[#ff9600]
 
 export default function ProfileScreen({ onLogin, onAdmin }: { onLogin: () => void; onAdmin: () => void }) {
   const p = useProgress();
+  useContentVersion();
   const acc = useAccount();
   const certs = visibleCerts(p.certificates, acc.revoked);
   const inst = useInstall();
@@ -165,9 +166,34 @@ export default function ProfileScreen({ onLogin, onAdmin }: { onLogin: () => voi
 
       <div className="mb-5 grid grid-cols-2 gap-3">
         <StatBox icon={<Flame size={26} />} value={streak} label="Ngày liên tiếp" />
-        <StatBox icon={<Bolt size={26} />} value={p.xp} label="Tổng XP" />
+        <StatBox icon={<Bolt size={26} />} value={p.xp} label={`XP ${courseInfo().label}`} />
         <StatBox icon={<Gem size={24} />} value={p.gems} label="Đá quý" />
         <StatBox icon={<Star size={26} />} value={`${done}/${CORE_LESSONS.length}`} label="Bài đã học" />
+      </div>
+      <div className="card mb-5" data-testid="course-xp">
+        <div className="mb-2 flex items-center justify-between">
+          <h2 className="font-black">XP theo khóa học</h2>
+          <span className="text-sm font-extrabold text-sun-600" data-testid="total-xp">
+            Tổng: {xpByCourse().total} XP
+          </span>
+        </div>
+        <div className="grid grid-cols-2 gap-2">
+          {COURSES.map((c) => (
+            <button
+              key={c.id}
+              type="button"
+              data-testid={`profile-course-${c.id}`}
+              onClick={() => setCourse(c.id)}
+              className={`option !px-3 !py-2 text-left ${c.id === courseInfo().id ? 'option-selected' : ''}`}
+            >
+              <span className="block text-[15px] font-black leading-tight text-ink-700">{c.label}</span>
+              <span className="block text-xs font-bold text-ink-400">{xpByCourse()[c.id]} XP</span>
+            </button>
+          ))}
+        </div>
+        <p className="mt-2 text-xs font-semibold text-ink-400">
+          Bài học, chuỗi ngày, huy hiệu và chứng chỉ được tính riêng cho từng khóa. Đá quý, tài khoản và bảng xếp hạng (tổng XP của cả hai khóa) dùng chung.
+        </p>
       </div>
       <div className="mb-4 flex flex-wrap justify-center gap-2">
         {streak > 0 && <ShareButton text={shareText.streak(streak)} label={`Chia sẻ chuỗi ${streak} ngày`} />}
@@ -220,7 +246,7 @@ export default function ProfileScreen({ onLogin, onAdmin }: { onLogin: () => voi
 
       <h2 className="mb-2 mt-6 text-lg font-black">Huy hiệu</h2>
       <div className="grid grid-cols-3 gap-3">
-        {ACHIEVEMENTS.map((a, i) => {
+        {achievements().map((a, i) => {
           const got = !!p.achievements[a.id];
           return (
             <div key={a.id} className={`card flex flex-col items-center !p-2 text-center ${got ? '' : 'opacity-50'}`} title={a.desc}>
@@ -286,7 +312,7 @@ export default function ProfileScreen({ onLogin, onAdmin }: { onLogin: () => voi
         <div>
           <div className="mb-2 flex items-center justify-between font-extrabold">
             <span>Tốc độ đọc</span>
-            <button type="button" className="chip" onClick={() => speak('你好，我是熊猫。')}>
+            <button type="button" className="chip" onClick={() => speak(isEnglish() ? 'Hello, I am a panda.' : '你好，我是熊猫。')}>
               Nghe thử
             </button>
           </div>
@@ -301,9 +327,10 @@ export default function ProfileScreen({ onLogin, onAdmin }: { onLogin: () => voi
               </button>
             ))}
           </div>
-          {(!ttsSupported() || !hasChineseVoice()) && (
+          {(!ttsSupported() || !(isEnglish() ? hasEnglishVoice() : hasChineseVoice())) && (
             <p className="mt-2 text-xs font-bold text-coral-500">
-              Không tìm thấy giọng đọc tiếng Trung trên thiết bị. Hãy cài giọng “Chinese (China)” trong cài đặt hệ thống hoặc dùng Chrome.
+              Không tìm thấy giọng đọc {isEnglish() ? 'tiếng Anh' : 'tiếng Trung'} trên thiết bị. Hãy cài giọng {isEnglish() ? '“English (United States)”' : '“Chinese (China)”'} trong cài đặt hệ
+              thống hoặc dùng Chrome.
             </p>
           )}
         </div>
@@ -392,7 +419,7 @@ export default function ProfileScreen({ onLogin, onAdmin }: { onLogin: () => voi
       <h2 className="mb-2 mt-6 text-lg font-black">Giới thiệu / Liên hệ</h2>
       <div className="card flex flex-col gap-1 text-sm font-semibold text-ink-500" data-testid="about">
         <p>
-          <b className="text-ink-700">Học Ngoại Ngữ – Gấu Trúc Xanh</b> là ứng dụng học tiếng Trung HSK 1 miễn phí cho người Việt.
+          <b className="text-ink-700">Học Ngoại Ngữ – Gấu Trúc Xanh</b> là ứng dụng học tiếng Trung (HSK 1–3) và tiếng Anh cơ bản miễn phí cho người Việt.
         </p>
         <p>© 2026 VH Phước — Học Ngoại Ngữ, Gấu Trúc Xanh. Mọi nội dung thuộc về VH Phước.</p>
         <p data-testid="about-version">

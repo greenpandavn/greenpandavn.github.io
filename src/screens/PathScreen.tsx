@@ -1,6 +1,7 @@
 import { useAccount, visibleCerts } from '../lib/account';
 import { useEffect, useRef, useState } from 'react';
-import { CORE_LESSONS, LESSONS, UNITS } from '../data';
+import { CORE_LESSONS, LESSONS, UNITS, isEnglish, useContentVersion } from '../data';
+import { CourseCards } from '../components/CoursePicker';
 import { currentLessonId, isDone as lessonDone, isTestUnlocked, isUnlocked as lessonUnlocked } from '../lib/unlock';
 import type { Lesson } from '../types';
 import { spendGems, updateProgress, useProgress } from '../lib/store';
@@ -14,6 +15,7 @@ const UNIT_COLORS: Record<string, { bg: string; shadow: string; text: string }> 
   leaf: { bg: 'bg-leaf-500', shadow: 'rgb(var(--leaf-600))', text: 'text-leaf-600' },
   sky: { bg: 'bg-sky-500', shadow: '#1899d6', text: 'text-sky-600' },
   grape: { bg: 'bg-grape-500', shadow: '#a560e8', text: 'text-grape-600' },
+  coral: { bg: 'bg-coral-500', shadow: '#d93a3a', text: 'text-coral-600' },
 };
 
 const UNIT_KEYS = Object.keys(UNIT_COLORS);
@@ -28,6 +30,8 @@ const NODE_GLYPH: Record<string, string> = {
 
 export default function PathScreen({ onStart, onTest }: { onStart: (lessonId: string) => void; onTest: (unit: number) => void }) {
   const p = useProgress();
+  const course = useContentVersion();
+  const en = isEnglish();
   const acc = useAccount();
   const [open, setOpen] = useState<string | null>(null);
   const isDone = (l: Lesson) => lessonDone(p, l);
@@ -37,15 +41,20 @@ export default function PathScreen({ onStart, onTest }: { onStart: (lessonId: st
   useEffect(() => {
     // "Biết sơ sơ" starts at Part 2: bring the current lesson into view once.
     if (scrolled.current || !currentId || currentId === CORE_LESSONS[0]?.id) return;
+    if (!document.querySelector(`[data-testid="node-${currentId}"]`)) return;
     scrolled.current = true;
     document.querySelector(`[data-testid="node-${currentId}"]`)?.scrollIntoView({ block: 'center' });
   }, [currentId]);
   const goal = p.settings.dailyGoal;
   const txp = todayXp(p);
+  const levels = en ? [] : [...new Set(UNITS.map((u) => u.level ?? 1))];
 
   return (
-    <div className="mx-auto max-w-md px-4 pb-2 pt-4">
-      <div className="card mb-6 flex items-center gap-3">
+    <div className="mx-auto max-w-md px-4 pb-2 pt-4" key={course}>
+      <div className="mb-3">
+        <CourseCards compact />
+      </div>
+      <div className="card mb-4 flex items-center gap-3">
         <Bolt size={34} />
         <div className="flex-1">
           <div className="flex justify-between text-sm font-extrabold">
@@ -58,11 +67,39 @@ export default function PathScreen({ onStart, onTest }: { onStart: (lessonId: st
         </div>
       </div>
 
-      {UNITS.map((u) => {
+      {levels.length > 1 && (
+        <div className="mb-5 flex flex-wrap items-center gap-2" data-testid="level-nav">
+          <span className="text-xs font-extrabold uppercase text-ink-400">Cấp độ:</span>
+          {levels.map((lv) => (
+            <button
+              key={lv}
+              type="button"
+              className="chip"
+              data-testid={`level-jump-${lv}`}
+              onClick={() => document.getElementById(`level-${lv}`)?.scrollIntoView({ behavior: 'smooth', block: 'start' })}
+            >
+              HSK {lv}
+            </button>
+          ))}
+        </div>
+      )}
+      {UNITS.map((u, ui) => {
+        const level = u.level ?? 1;
+        const firstOfLevel = levels.length > 1 && (ui === 0 || (UNITS[ui - 1].level ?? 1) !== level);
+        const levelLessons = CORE_LESSONS.filter((l) => (UNITS.find((x) => x.unit === l.unit)?.level ?? 1) === level);
         const color = UNIT_COLORS[u.color] ?? UNIT_COLORS[UNIT_KEYS[(u.unit - 1) % UNIT_KEYS.length]];
         const lessons = LESSONS.filter((l) => l.unit === u.unit).sort((a, b) => Number(!!a.bonus) - Number(!!b.bonus));
         return (
           <section key={u.unit} className="mb-8">
+            {firstOfLevel && (
+              <div id={`level-${level}`} className="mb-4 flex scroll-mt-16 items-center gap-3" data-testid={`level-${level}`}>
+                <span className="rounded-xl bg-ink-700 px-3 py-1 font-black text-white">HSK {level}</span>
+                <span className="text-sm font-extrabold text-ink-500">
+                  {levelLessons.filter((l) => isDone(l)).length}/{levelLessons.length} bài · {levelLessons.reduce((n, l) => n + l.words.length, 0)} từ
+                </span>
+                <span className="h-0.5 flex-1 rounded bg-cloud" />
+              </div>
+            )}
             <div className={`${color.bg} mb-6 rounded-2xl px-4 py-3 text-white`} style={{ boxShadow: `0 4px 0 ${color.shadow}` }}>
               <h2 className="text-lg font-black">{u.title}</h2>
               <p className="text-sm font-bold opacity-90">{u.desc}</p>
@@ -152,6 +189,7 @@ export default function PathScreen({ onStart, onTest }: { onStart: (lessonId: st
       <div className="flex flex-col items-center gap-2 pb-4 text-center">
         <Star size={40} />
         <p className="font-extrabold text-ink-400">Hoàn thành {CORE_LESSONS.length} bài để tốt nghiệp!</p>
+        {!en && <p className="text-xs font-bold text-ink-400">HSK 4–6 sẽ được bổ sung ở phiên bản sau.</p>}
       </div>
     </div>
   );
@@ -183,7 +221,7 @@ function LessonPopover({
       <div className="text-lg font-black text-ink-700">{lesson.title}</div>
       <div className="mb-1 text-sm font-semibold text-ink-500">{lesson.desc}</div>
       <div className="mb-3 font-han text-sm text-ink-400">
-        {lesson.words.length} từ: {lesson.words.slice(0, 6).map((w) => w.hanzi).join('、')}…
+        {lesson.words.length} từ: {lesson.words.slice(0, 6).map((w) => w.hanzi).join(lesson.words[0]?.pinyin ? '、' : ', ')}…
       </div>
       {unlocked ? (
         <button type="button" className={done ? 'btn-white' : 'btn-green'} onClick={onStart} data-testid="start-lesson">
@@ -226,7 +264,7 @@ function TestNode({ unit, title, unlocked, cert, open, onToggle, onStart }: {
       {open && (
         <div className="absolute top-[118px] z-20 w-72 animate-pop rounded-2xl border-2 border-cloud bg-white p-4 shadow-xl">
           <div className="text-lg font-black text-ink-700">Kiểm tra: {title}</div>
-          <p className="mb-3 text-sm font-semibold text-ink-500">10 câu hỏi (nghe, nghĩa, pinyin, sắp xếp câu). Đạt từ 80% để nhận chứng chỉ.</p>
+          <p className="mb-3 text-sm font-semibold text-ink-500">10 câu hỏi (nghe, nghĩa, {isEnglish() ? 'chính tả' : 'pinyin'}, sắp xếp câu). Đạt từ 80% để nhận chứng chỉ.</p>
           {unlocked ? (
             <button type="button" className="btn-green" onClick={onStart} data-testid="start-test">
               {cert ? 'Thi lại' : 'Làm bài kiểm tra'}

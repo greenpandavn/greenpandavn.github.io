@@ -13,7 +13,8 @@ import LessonScreen, { type SessionMode } from './screens/LessonScreen';
 import { useProgress } from './lib/store';
 import { dueCount } from './lib/srs';
 import { useAccount } from './lib/account';
-import { useContentVersion } from './data';
+import { courseChosen, isEnglish, setCourse, useContentVersion } from './data';
+import CoursePicker from './components/CoursePicker';
 import LevelPicker from './components/LevelPicker';
 
 const AdminScreen = lazy(() => import('./admin/AdminScreen'));
@@ -32,6 +33,10 @@ export default function App() {
   const acc = useAccount();
   useContentVersion();
   const [session, setSession] = useState<SessionMode | null>(null);
+  useEffect(() => {
+    // the admin area manages the Chinese course content only
+    if (adminOpen && acc.role === 'admin' && isEnglish()) setCourse('zh');
+  }, [adminOpen, acc.role]);
   const p = useProgress();
 
   const [ttsError, setTtsError] = useState(false);
@@ -47,7 +52,7 @@ export default function App() {
   }, []);
   const toast = ttsError && (
     <div role="alert" className="pointer-events-none fixed inset-x-3 bottom-24 z-[60] mx-auto max-w-md animate-pop rounded-2xl bg-ink-700 px-4 py-3 text-sm font-bold text-white shadow-lg">
-      Không phát được âm thanh: thiết bị chưa có giọng đọc tiếng Trung. Hãy cài giọng “Chinese (China)” trong cài đặt hệ thống, hoặc dùng Chrome/Safari/Edge.
+      Không phát được âm thanh: thiết bị chưa có giọng đọc {isEnglish() ? 'tiếng Anh' : 'tiếng Trung'}. Hãy cài giọng {isEnglish() ? '“English (United States)”' : '“Chinese (China)”'} trong cài đặt hệ thống, hoặc dùng Chrome/Safari/Edge.
     </div>
   );
 
@@ -100,7 +105,16 @@ export default function App() {
       </Suspense>
     );
 
-  // First launch: self-select a starting level (guests included – no login needed).
+  // First launch: pick a course. Learners from before v3 already study Chinese and are not asked.
+  if (!courseChosen() && !p.settings.level && !session && acc.ready && acc.sync !== 'saving')
+    return (
+      <>
+        {toast}
+        <CoursePicker />
+      </>
+    );
+
+  // First launch of a course: self-select a starting level (guests included – no login needed).
   if (!p.settings.level && !session && acc.ready && acc.sync !== 'saving')
     return (
       <>

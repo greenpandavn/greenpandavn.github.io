@@ -1,4 +1,4 @@
-import { CORE_LESSONS, UNITS } from '../data';
+import { CORE_LESSONS, UNITS, unitLevel } from '../data';
 import type { Lesson, Progress, StartLevel } from '../types';
 import { updateProgress } from './store';
 
@@ -26,6 +26,8 @@ export function isUnlocked(p: Progress, l: Lesson) {
   const i = CORE_LESSONS.findIndex((c) => c.id === l.id);
   if (i <= 0) return true;
   const prev = CORE_LESSONS[i - 1];
+  // every level (HSK 1, 2, 3…) can be started directly, without finishing the previous one
+  if (unitLevel(prev.unit) !== unitLevel(l.unit)) return true;
   return prev.unit <= free || isDone(p, prev);
 }
 
@@ -37,5 +39,9 @@ export function isTestUnlocked(p: Progress, unit: number) {
 export function currentLessonId(p: Progress) {
   const free = freeUnit(p);
   const open = CORE_LESSONS.filter((l) => !isDone(p, l) && isUnlocked(p, l));
-  return (open.find((l) => l.unit > free) ?? open[0])?.id;
+  // continue in the level studied most recently (the last level with a finished lesson)
+  const last = [...CORE_LESSONS].reverse().find((l) => isDone(p, l));
+  const here = last ? open.filter((l) => unitLevel(l.unit) >= unitLevel(last.unit)) : open;
+  const list = here.length ? here : open;
+  return (list.find((l) => l.unit > free) ?? list[0])?.id;
 }

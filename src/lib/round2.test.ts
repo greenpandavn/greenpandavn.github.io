@@ -27,14 +27,14 @@ describe('level picker unlocks', () => {
   it('"Chưa biết gì" opens only lesson 1', () => {
     const p = withLevel('new');
     const open = data.CORE_LESSONS.filter((l) => unlock.isUnlocked(p, l)).map((l) => l.id);
-    expect(open).toEqual(['l01']);
+    expect(open).toEqual(['l01', 'h2-01', 'h3-01']); // v3: every HSK level can be started directly
     expect(unlock.currentLessonId(p)).toBe('l01');
     expect(unlock.isTestUnlocked(p, 1)).toBe(false);
   });
   it('"Biết sơ sơ" opens Part 1 and starts at Part 2', () => {
     const p = withLevel('some');
     const open = data.CORE_LESSONS.filter((l) => unlock.isUnlocked(p, l)).map((l) => l.id);
-    expect(open).toEqual(['l01', 'l02', 'l03', 'l04', 'l05', 'l06']);
+    expect(open).toEqual(['l01', 'l02', 'l03', 'l04', 'l05', 'l06', 'h2-01', 'h3-01']);
     expect(unlock.currentLessonId(p)).toBe('l06');
     expect(unlock.isTestUnlocked(p, 1)).toBe(true);
     expect(unlock.isTestUnlocked(p, 2)).toBe(false);
@@ -53,30 +53,31 @@ describe('level picker unlocks', () => {
 });
 
 describe('admin content overrides', () => {
-  it('bundled content is the default: 17 lessons, 181 words', () => {
-    expect(data.LESSONS.length).toBe(17);
-    expect(data.ALL_WORDS.length).toBe(181);
+  it('bundled content is the default: HSK 1 is still 17 lessons, 181 words', () => {
+    const hsk1 = data.LESSONS.filter((l) => data.unitLevel(l.unit) === 1);
+    expect(hsk1.length).toBe(17);
+    expect(hsk1.flatMap((l) => l.words).length).toBe(181);
     expect(data.contentSource).toBe('bundled');
   });
   it('Firestore lessons replace, add and delete; bundled fallback otherwise', () => {
     const l01 = data.BUNDLED_LESSONS[0];
-    const words = l01.words.slice(0, 4).map((w) => ({ ...w, id: `h2-${w.id}` }));
+    const words = l01.words.slice(0, 4).map((w) => ({ ...w, id: `x-${w.id}` }));
     data.applyContent({
       lessons: [
         { ...l01, title: 'Chào hỏi (sửa)' },
         { id: 'l02', deleted: true },
-        { id: 'h2-01', title: 'HSK 2', desc: '', icon: '书', unit: 4, order: 1, words },
+        { id: 'x-01', title: 'Thêm', desc: '', icon: '书', unit: 4, order: 1, words },
       ],
       units: [],
     });
     expect(data.LESSON_BY_ID.l01.title).toBe('Chào hỏi (sửa)');
     expect(data.LESSON_BY_ID.l02).toBeUndefined();
-    expect(data.LESSON_BY_ID['h2-01'].words[0].lessonId).toBe('h2-01');
+    expect(data.LESSON_BY_ID['x-01'].words[0].lessonId).toBe('x-01');
     expect(data.UNITS.map((u) => u.unit)).toContain(4);
-    expect(data.LESSONS[data.LESSONS.length - 1].id).toBe('h2-01');
+    expect(data.LESSONS.filter((l) => l.unit === 4).map((l) => l.id)).toEqual(['x-01']);
     data.applyContent({ lessons: [], units: [] });
-    expect(data.LESSONS.length).toBe(17);
-    expect(data.ALL_WORDS.length).toBe(181);
+    expect(data.LESSONS.length).toBe(data.BUNDLED_LESSONS.length);
+    expect(data.LESSON_BY_ID.l02).toBeDefined();
   });
 });
 
