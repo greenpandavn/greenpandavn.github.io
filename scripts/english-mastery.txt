@@ -160,14 +160,14 @@ deed|chứng thư, giấy tờ nhà đất|Keep the deed in a safe place.|Hãy c
 @x12|Ngoại giao|Đại sứ, hiệp ước, lãnh sự, nghị định thư|Embassy
 envoy|đặc phái viên|The president sent an envoy to the talks.|Tổng thống cử một đặc phái viên đến cuộc đàm phán.
 consulate|lãnh sự quán|You can renew your passport at the consulate.|Bạn có thể gia hạn hộ chiếu tại lãnh sự quán.
-attaché|tùy viên|The cultural attaché opened the exhibition.|Tùy viên văn hóa khai mạc triển lãm.
-communiqué|thông cáo chính thức|The leaders issued a joint communiqué.|Các nhà lãnh đạo ra một thông cáo chung.
+attache|tùy viên|The cultural attache opened the exhibition.|Tùy viên văn hóa khai mạc triển lãm.
+communique|thông cáo chính thức|The leaders issued a joint communique.|Các nhà lãnh đạo ra một thông cáo chung.
 protocol|nghi thức; nghị định thư|Protocol says the guest speaks first.|Theo nghi thức, khách phát biểu trước.
 accord|hiệp định|The peace accord was signed in Paris.|Hiệp định hòa bình được ký tại Paris.
 bilateral|song phương|The two countries held bilateral talks.|Hai nước tổ chức đàm phán song phương.
 ratify|phê chuẩn|Parliament must ratify the agreement.|Quốc hội phải phê chuẩn hiệp định.
 emissary|sứ giả|An emissary carried the letter to the king.|Một sứ giả mang bức thư đến cho nhà vua.
-détente|sự hòa dịu (quan hệ)|A period of détente followed the crisis.|Một thời kỳ hòa dịu tiếp sau cuộc khủng hoảng.
+detente|sự hòa dịu (quan hệ)|A period of detente followed the crisis.|Một thời kỳ hòa dịu tiếp sau cuộc khủng hoảng.
 rapprochement|sự nối lại quan hệ hữu hảo|The visit was a sign of rapprochement.|Chuyến thăm là dấu hiệu của sự nối lại quan hệ hữu hảo.
 extradite|dẫn độ|The government refused to extradite him.|Chính phủ từ chối dẫn độ ông ta.
 
@@ -558,7 +558,7 @@ tassel|tua rua|A red tassel hangs from the lamp.|Một chiếc tua rua đỏ tre
 garnish|đồ trang trí món ăn; trang trí|Add a lemon slice as a garnish.|Thêm một lát chanh để trang trí.
 simmer|ninh nhỏ lửa|Let the soup simmer for an hour.|Hãy ninh súp nhỏ lửa trong một tiếng.
 braise|om, hầm|Braise the beef in red wine.|Hãy om thịt bò trong rượu vang đỏ.
-sauté|áp chảo, xào nhanh|Sauté the onions until they are soft.|Xào hành tây cho đến khi mềm.
+saute|áp chảo, xào nhanh|Saute the onions until they are soft.|Xào hành tây cho đến khi mềm.
 marinade|nước ướp|Leave the chicken in the marinade overnight.|Để gà trong nước ướp qua đêm.
 reduction|nước xốt cô đặc; sự giảm|The steak comes with a wine reduction.|Món bít tết đi kèm xốt rượu vang cô đặc.
 connoisseur|người sành sỏi|He is a connoisseur of fine tea.|Ông ấy là người sành trà ngon.
@@ -566,7 +566,7 @@ palate|khẩu vị; vòm miệng|This dish is too sweet for my palate.|Món này
 delicacy|món ngon hiếm, đặc sản|This fish is a delicacy in Japan.|Loại cá này là một đặc sản ở Nhật.
 appetizer|món khai vị|We shared an appetizer before the main course.|Chúng tôi ăn chung một món khai vị trước món chính.
 gourmet|sành ăn; cao cấp (đồ ăn)|They opened a gourmet restaurant downtown.|Họ mở một nhà hàng cao cấp ở trung tâm.
-entrée|món chính|I ordered fish as my entrée.|Tôi gọi cá làm món chính.
+entree|món chính|I ordered fish as my entree.|Tôi gọi cá làm món chính.
 
 
 @x41|Đồ uống|Rượu vang, pha chế, chưng cất, cà phê|Drink
@@ -680,3 +680,117 @@ trump|quân bài chủ; thắng thế|Hearts are the trump suit in this round.|C
 bluff|đánh lừa, tháu cáy|I knew that he was trying to bluff.|Tôi biết anh ta đang cố tháu cáy.
 jigsaw|trò chơi ghép hình|We finished the jigsaw in two days.|Chúng tôi hoàn thành bộ ghép hình trong hai ngày.
 riddle|câu đố|Can you solve this riddle?|Bạn có giải được câu đố này không?
+
+
+%504|5|Phần 4: Ngôn ngữ tinh luyện|Từ văn chương, từ mượn, thành ngữ, sắc thái tinh tế|sun
+@x49|Tính từ văn chương|Phù du, rực rỡ, thanh bình, u sầu|Book
+ephemeral|phù du, chóng tàn|Fame is often ephemeral.|Danh tiếng thường phù du.
+luminous|sáng ngời, phát sáng|The moon was luminous over the lake.|Vầng trăng sáng ngời trên mặt hồ.
+serene|thanh bình, thanh thản|The garden felt serene at dawn.|Khu vườn thật thanh bình lúc bình minh.
+melancholy|u sầu; nỗi u sầu|A melancholy song played on the radio.|Một bài hát u sầu vang lên trên đài.
+wistful|bâng khuâng, tiếc nuối|She gave a wistful smile.|Cô ấy mỉm cười bâng khuâng.
+ethereal|thanh thoát, siêu trần|Her voice has an ethereal quality.|Giọng cô ấy có nét thanh thoát siêu trần.
+resplendent|lộng lẫy, rực rỡ|The bride looked resplendent in white.|Cô dâu trông lộng lẫy trong bộ váy trắng.
+desolate|hoang vắng, tiêu điều|The village was desolate after the war.|Ngôi làng tiêu điều sau chiến tranh.
+poignant|xúc động, day dứt|The film has a poignant ending.|Bộ phim có một kết thúc day dứt.
+tranquil|yên tĩnh, thanh bình|We found a tranquil spot by the river.|Chúng tôi tìm được một chỗ yên tĩnh bên sông.
+languid|uể oải, lờ đờ|He waved a languid hand.|Anh ấy uể oải vẫy tay.
+somber|ảm đạm, u buồn|The mood at the meeting was somber.|Không khí cuộc họp thật ảm đạm.
+
+@x50|Động từ hiếm|Van nài, tán dương, giả vờ, cản trở|Verb
+beseech|van nài, khẩn cầu|I beseech you to stay.|Tôi khẩn cầu bạn ở lại.
+cajole|dỗ ngọt, tán tỉnh để thuyết phục|She tried to cajole him into coming.|Cô ấy cố dỗ ngọt để anh ấy đến.
+decry|lên án công khai|Critics decry the new policy.|Giới phê bình lên án chính sách mới.
+espouse|tán thành, ủng hộ (một tư tưởng)|They espouse equal rights for all.|Họ ủng hộ quyền bình đẳng cho mọi người.
+extol|tán dương, ca tụng|Doctors extol the benefits of walking.|Các bác sĩ ca ngợi lợi ích của việc đi bộ.
+feign|giả vờ|He tried to feign surprise.|Anh ấy cố giả vờ ngạc nhiên.
+galvanize|kích động, thúc đẩy hành động|The speech helped galvanize the voters.|Bài phát biểu đã giúp thúc đẩy cử tri hành động.
+lament|than khóc, thương tiếc|Many people lament the loss of the old market.|Nhiều người tiếc thương khu chợ cũ đã mất.
+ponder|suy ngẫm|Take a moment to ponder the question.|Hãy dành chút thời gian suy ngẫm về câu hỏi.
+rebuke|khiển trách; lời khiển trách|The judge had to rebuke the lawyer.|Thẩm phán đã phải khiển trách vị luật sư.
+relish|thích thú, thưởng thức|I relish the chance to work abroad.|Tôi thích thú với cơ hội làm việc ở nước ngoài.
+thwart|ngăn cản, phá ngang|Police managed to thwart the robbery.|Cảnh sát đã ngăn chặn được vụ cướp.
+
+@x51|Danh từ trừu tượng|Sự thẳng thắn, nghị lực, niềm an ủi, nghịch lý|Idea
+candor|sự thẳng thắn|I appreciate your candor.|Tôi trân trọng sự thẳng thắn của bạn.
+fortitude|sự kiên cường, nghị lực|She faced her illness with fortitude.|Cô ấy đối mặt với bệnh tật bằng nghị lực.
+solace|niềm an ủi|He found solace in music.|Anh ấy tìm thấy niềm an ủi trong âm nhạc.
+reverie|sự mơ màng, mộng tưởng|A knock at the door broke her reverie.|Tiếng gõ cửa cắt ngang cơn mơ màng của cô ấy.
+tenacity|sự bền bỉ, kiên trì|Her tenacity won the contract.|Sự bền bỉ của cô ấy đã giành được hợp đồng.
+zeal|lòng nhiệt thành|He works with great zeal.|Anh ấy làm việc với lòng nhiệt thành lớn.
+hubris|sự ngạo mạn quá mức|His hubris led to his fall.|Sự ngạo mạn đã dẫn đến thất bại của ông ta.
+malaise|cảm giác bất ổn, khó ở|There is a general malaise in the industry.|Có một cảm giác bất ổn chung trong ngành.
+nostalgia|nỗi hoài niệm|The old song filled me with nostalgia.|Bài hát cũ khiến tôi tràn ngập hoài niệm.
+paradox|nghịch lý|It is a paradox that less can be more.|Thật nghịch lý khi ít hơn lại có thể là nhiều hơn.
+serendipity|sự tình cờ may mắn|We met by pure serendipity.|Chúng tôi gặp nhau hoàn toàn nhờ tình cờ may mắn.
+quandary|tình thế khó xử|I am in a quandary about the job offer.|Tôi đang khó xử về lời mời làm việc.
+
+@x52|Trạng từ tinh tế|Bề ngoài là, dứt khoát, tỉ mỉ, ngầm|Adverb
+ostensibly|bề ngoài là, có vẻ như|He came ostensibly to help.|Bề ngoài thì anh ta đến để giúp.
+inexorably|không thể ngăn cản được|Prices rose inexorably.|Giá cả tăng lên không gì ngăn được.
+unequivocally|một cách dứt khoát, rõ ràng|She unequivocally denied the story.|Cô ấy dứt khoát phủ nhận câu chuyện.
+begrudgingly|một cách miễn cưỡng|He begrudgingly agreed to pay.|Anh ta miễn cưỡng đồng ý trả tiền.
+meticulously|một cách tỉ mỉ|The room was meticulously cleaned.|Căn phòng được dọn dẹp tỉ mỉ.
+tacitly|một cách ngầm, không nói ra|The manager tacitly approved the plan.|Người quản lý ngầm chấp thuận kế hoạch.
+vehemently|một cách kịch liệt|They vehemently opposed the idea.|Họ kịch liệt phản đối ý tưởng đó.
+fleetingly|thoáng qua|She smiled fleetingly and left.|Cô ấy thoáng mỉm cười rồi rời đi.
+wryly|một cách châm biếm nhẹ, hóm hỉnh|He wryly noted that nobody had read the report.|Anh ấy hóm hỉnh nhận xét rằng chưa ai đọc bản báo cáo.
+aptly|một cách thích đáng, đúng|The cafe is aptly named Sunrise.|Quán cà phê được đặt tên rất đúng là Sunrise.
+profusely|rất nhiều, dồi dào|He apologized profusely.|Anh ấy xin lỗi rối rít.
+succinctly|một cách ngắn gọn, súc tích|Please explain it succinctly.|Vui lòng giải thích ngắn gọn.
+
+@x53|Từ gốc Latinh|Nguyên văn, trên thực tế, ngược lại, hiện trạng|Latin
+verbatim|nguyên văn, đúng từng chữ|She repeated his words verbatim.|Cô ấy lặp lại nguyên văn lời anh ta.
+ad hoc|tạm thời cho một việc cụ thể|We formed an ad hoc committee.|Chúng tôi lập một ủy ban tạm thời.
+bona fide|thật, chân chính|He is a bona fide expert.|Ông ấy là một chuyên gia thực thụ.
+per se|tự thân nó, xét riêng|The plan is not bad per se.|Kế hoạch tự nó không tệ.
+de facto|trên thực tế|English is the de facto language of the office.|Tiếng Anh trên thực tế là ngôn ngữ của văn phòng.
+status quo|hiện trạng|Most voters prefer the status quo.|Đa số cử tri thích giữ nguyên hiện trạng.
+vice versa|ngược lại|I help her, and vice versa.|Tôi giúp cô ấy, và ngược lại.
+quid pro quo|sự trao đổi có đi có lại|The deal was a simple quid pro quo.|Thỏa thuận là một sự trao đổi có đi có lại đơn giản.
+alma mater|trường cũ|He gave money to his alma mater.|Ông ấy tặng tiền cho trường cũ.
+pro bono|làm miễn phí vì cộng đồng|The lawyer took the case pro bono.|Luật sư nhận vụ án miễn phí.
+per capita|tính theo đầu người|Income per capita has doubled.|Thu nhập bình quân đầu người đã tăng gấp đôi.
+et cetera|vân vân|Bring pens, paper, et cetera.|Hãy mang bút, giấy, vân vân.
+
+@x54|Từ mượn tiếng Pháp|Cuộc hẹn, sáo ngữ, thị trường ngách|French
+rendezvous|cuộc hẹn gặp|We arranged a rendezvous at the station.|Chúng tôi sắp xếp một cuộc hẹn ở nhà ga.
+cliche|câu sáo rỗng|That phrase has become a cliche.|Cụm từ đó đã trở thành câu sáo rỗng.
+faux pas|hành vi lỡ lời, thất lễ|Wearing shoes inside was a faux pas.|Đi giày vào trong nhà là một hành vi thất lễ.
+deja vu|cảm giác đã từng trải qua|I had a strong feeling of deja vu.|Tôi có cảm giác rất rõ là đã từng trải qua chuyện này.
+fiance|chồng chưa cưới|Her fiance works in Hanoi.|Chồng chưa cưới của cô ấy làm việc ở Hà Nội.
+niche|thị trường ngách; chỗ đứng phù hợp|The company found a niche in organic tea.|Công ty tìm được thị trường ngách về trà hữu cơ.
+naive|ngây thơ, cả tin|It was naive to trust him.|Thật ngây thơ khi tin anh ta.
+debris|mảnh vỡ, đống đổ nát|Debris covered the road after the storm.|Mảnh vỡ phủ kín con đường sau cơn bão.
+liaison|sự liên lạc, người liên lạc|She acts as a liaison between the two teams.|Cô ấy làm đầu mối liên lạc giữa hai nhóm.
+carte blanche|toàn quyền hành động|The director gave her carte blanche.|Giám đốc trao cho cô ấy toàn quyền.
+protege|người được dìu dắt, học trò cưng|The young pianist is his protege.|Nghệ sĩ dương cầm trẻ là học trò cưng của ông ấy.
+repertoire|vốn tiết mục, vốn kỹ năng|The band has a large repertoire.|Ban nhạc có vốn tiết mục phong phú.
+
+@x55|Thành ngữ 3|Trong cái rủi có cái may, cắn răng chịu, vạch áo|Saying
+a blessing in disguise|trong cái rủi có cái may|Losing that job was a blessing in disguise.|Mất công việc đó hóa ra lại là trong cái rủi có cái may.
+bite the bullet|cắn răng chịu đựng, đành làm việc khó|I decided to bite the bullet and call her.|Tôi quyết định cắn răng gọi cho cô ấy.
+burn the midnight oil|thức khuya làm việc|Students burn the midnight oil before exams.|Sinh viên thức khuya học bài trước kỳ thi.
+cut corners|làm ẩu, làm tắt|Never cut corners on safety.|Đừng bao giờ làm ẩu trong chuyện an toàn.
+hit the nail on the head|nói trúng vấn đề|You hit the nail on the head with that comment.|Bạn đã nói trúng vấn đề với nhận xét đó.
+let the cat out of the bag|lỡ lời tiết lộ bí mật|Who let the cat out of the bag about the party?|Ai đã lỡ lời tiết lộ về bữa tiệc vậy?
+pull someone's leg|trêu đùa ai|Relax, I only wanted to pull someone's leg.|Bình tĩnh đi, tôi chỉ muốn trêu ai đó thôi.
+the tip of the iceberg|phần nổi của tảng băng|These complaints are only the tip of the iceberg.|Những lời phàn nàn này mới chỉ là phần nổi của tảng băng.
+bark up the wrong tree|nhầm đối tượng, đi sai hướng|If you blame me, you bark up the wrong tree.|Nếu bạn đổ lỗi cho tôi thì bạn nhầm người rồi.
+beat around the bush|nói vòng vo|Please do not beat around the bush.|Xin đừng nói vòng vo.
+back to square one|trở lại vạch xuất phát|The deal failed, so we are back to square one.|Thỏa thuận thất bại nên chúng tôi trở lại vạch xuất phát.
+a drop in the ocean|muối bỏ bể|Our gift is only a drop in the ocean.|Món quà của chúng tôi chỉ như muối bỏ bể.
+
+@x56|Cụm động từ 4|Ôn lại, trấn áp, loại trừ, bắt nguồn từ|Phrase
+brush up on|ôn lại, trau dồi lại|I need to brush up on my French.|Tôi cần ôn lại tiếng Pháp.
+crack down on|trấn áp, xử lý mạnh tay|Police will crack down on speeding.|Cảnh sát sẽ xử lý mạnh tay việc chạy quá tốc độ.
+fall through|thất bại, không thành|Our holiday plans may fall through.|Kế hoạch nghỉ lễ của chúng tôi có thể không thành.
+iron out|giải quyết (vướng mắc nhỏ)|We still need to iron out a few details.|Chúng tôi vẫn cần giải quyết vài chi tiết.
+phase out|loại bỏ dần|The city will phase out old buses.|Thành phố sẽ loại bỏ dần xe buýt cũ.
+rule out|loại trừ|Doctors cannot rule out an infection.|Các bác sĩ không thể loại trừ khả năng nhiễm trùng.
+scale back|cắt giảm quy mô|The firm had to scale back its plans.|Công ty phải cắt giảm quy mô kế hoạch.
+single out|chọn riêng ra, nêu đích danh|It is unfair to single out one student.|Thật không công bằng khi nêu đích danh một học sinh.
+stem from|bắt nguồn từ|Many problems stem from poor planning.|Nhiều vấn đề bắt nguồn từ việc lập kế hoạch kém.
+wind down|giảm dần hoạt động; thư giãn|I read a book to wind down at night.|Tôi đọc sách để thư giãn vào buổi tối.
+zero in on|tập trung vào, nhắm trúng|Let us zero in on the main problem.|Chúng ta hãy tập trung vào vấn đề chính.
+boil down to|rốt cuộc là, quy về|The choices boil down to time and money.|Các lựa chọn rốt cuộc quy về thời gian và tiền bạc.
