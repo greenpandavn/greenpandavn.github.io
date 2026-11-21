@@ -204,7 +204,7 @@ describe('v4.5: Thi thử tiếng Anh', () => {
   it('English has four levels with the v4.6 sizes', () => {
     data.setCourse('en');
     const levels = [...new Set(data.UNITS.map((u) => u.level))];
-    expect(levels).toEqual([1, 2, 3, 4]);
+    expect(levels).toEqual([1, 2, 3, 4, 5]);
     const size = (lv: number) => {
       const ls = data.CORE_LESSONS.filter((l) => data.unitLevel(l.unit) === lv);
       return [ls.length, ls.reduce((n, l) => n + l.words.length, 0)];
