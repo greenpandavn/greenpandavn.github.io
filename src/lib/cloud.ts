@@ -84,6 +84,7 @@ async function rebuildClient() {
     rebuilding = false;
   }
   pendingSince = 0;
+  reconnecting = false;
   if (auth.currentUser?.uid !== u.uid) return;
   listen(u);
   void upload(u, getProgress());
@@ -96,9 +97,11 @@ async function rebuildClient() {
 const kickIfStuck = () => {
   if (!pendingSince || !navigator.onLine || kicking || rebuilding) return;
   const now = Date.now();
-  if (kickedAt >= pendingSince) {
+  // After going offline the long-poll channel is usually dead for good; a stream restart doesn't revive it, a new client does.
+  if (reconnecting && now - pendingSince > 1800) void rebuildClient();
+  else if (kickedAt >= pendingSince) {
     if (now - kickedAt > 4000) void rebuildClient();
-  } else if (now - pendingSince > (reconnecting ? 2500 : 8000)) void kickNetwork();
+  } else if (now - pendingSince > 8000) void kickNetwork();
 };
 
 const migratedUids = (): string[] => {
@@ -305,7 +308,7 @@ export function initCloud() {
     reconnecting = true;
     pendingSince = 0;
     void upload(u, getProgress());
-    for (const ms of [3000, 7000, 12000]) setTimeout(kickIfStuck, ms);
+    for (const ms of [2000, 6000, 12000]) setTimeout(kickIfStuck, ms);
   });
   document.addEventListener('visibilitychange', () => {
     if (document.visibilityState === 'visible' && auth.currentUser) kickIfStuck();
