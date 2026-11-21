@@ -54,7 +54,7 @@ export default function BottomNav({ tab, onChange, badge, friendsBadge }: { tab:
 /** Switcher shown at the top of the "Cộng đồng" area. */
 export function SocialTabs({ tab, onChange, friendsBadge }: { tab: Tab; onChange: (t: Tab) => void; friendsBadge?: number }) {
   const items: { id: Tab; label: string; Icon: typeof Home }[] = [
-    { id: 'friends', label: 'Bạn bè & tin nhắn', Icon: Friends },
+    { id: 'friends', label: 'Bạn bè · Chat', Icon: Friends },
     { id: 'rank', label: 'Xếp hạng', Icon: Trophy },
   ];
   return (
