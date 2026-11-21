@@ -19,14 +19,15 @@ export interface ContentOverrides {
   units: UnitDoc[];
 }
 
-// The word lists are big, so each course is its own chunk, fetched when that course is opened (see loadCourse).
+// The word lists are big, so they are separate chunks, fetched when a course is opened (see loadCourse):
+// English is one chunk, Chinese one chunk per level (HSK 1–3 together).
 export let BUNDLED_LESSONS: RawLesson[] = [];
 export let BUNDLED_UNITS: Unit[] = [];
 export let EN_LESSONS: RawLesson[] = [];
 export let EN_UNITS: Unit[] = [];
 
 export const COURSES: { id: CourseId; label: string; title: string; desc: string; glyph: string }[] = [
-  { id: 'zh', label: 'Tiếng Trung', title: 'Khóa học tiếng Trung HSK 1–6', desc: 'HSK 1 → HSK 6 · chữ Hán, pinyin, luyện nghe nói', glyph: '中' },
+  { id: 'zh', label: 'Tiếng Trung', title: 'Khóa học tiếng Trung HSK 1–7', desc: 'HSK 1 → HSK 7 · chữ Hán, pinyin, luyện nghe nói', glyph: '中' },
   { id: 'en', label: 'Tiếng Anh', title: 'Khóa học tiếng Anh từ sơ cấp đến thành thạo', desc: 'Sơ cấp → Thành thạo · từ vựng, chính tả, luyện nghe nói', glyph: 'En' },
 ];
 const COURSE_KEY = 'gp-course';
@@ -56,35 +57,83 @@ const notify = () => {
   version++;
   listeners.forEach((l) => l());
 };
-const loaded = new Set<CourseId>();
-const loading = new Map<CourseId, Promise<void>>();
+interface RawData {
+  lessons: RawLesson[];
+  units: Unit[];
+}
+const ZH_CHUNKS = import.meta.glob<{ default: RawData }>('./zh/*.json');
+const ZH_BASE = './zh/hsk1-3.json';
+const zhChunkOf = (level: number) => (ZH_CHUNKS[`./zh/hsk${level}.json`] ? `./zh/hsk${level}.json` : ZH_BASE);
+const LEVEL_KEY = 'gp-zh-level';
+/** Remember the HSK level being studied, so that its chunk is waited for on the next launch. */
+export function noteLevel(level: number) {
+  try {
+    if (localStorage.getItem(LEVEL_KEY) !== String(level)) localStorage.setItem(LEVEL_KEY, String(level));
+  } catch {
+    /* private mode */
+  }
+}
+function zhPriority() {
+  let level = 1;
+  try {
+    level = Number(localStorage.getItem(LEVEL_KEY)) || 1;
+  } catch {
+    /* private mode */
+  }
+  return [...new Set([ZH_BASE, zhChunkOf(level)])];
+}
+const loaded = new Set<string>(); // 'en', 'zh' (every level) and the Chinese chunks
+const loading = new Map<string, Promise<void>>();
 let pending: CourseId | null = null;
 let loadFailed = false;
-/** 'ready' when the words of the active course are in memory; 'loading' / 'error' while its chunk is fetched. */
-export const courseState = (): 'ready' | 'loading' | 'error' => (loadFailed ? 'error' : pending || !loaded.has(course) ? 'loading' : 'ready');
-/** Fetch the lessons of a course (once). Resolves when they are available. */
-export function loadCourse(c: CourseId): Promise<void> {
-  let job = loading.get(c);
+function once(key: string, start: () => Promise<void>) {
+  let job = loading.get(key);
   if (!job) {
-    job = (c === 'en' ? import('./english.json') : import('./lessons.json')).then(
-      (m) => {
-        const raw = m.default as unknown as { lessons: RawLesson[]; units: Unit[] };
-        const lessons = raw.lessons.map((l, i) => ({ ...l, order: (i + 1) * 10 }));
-        if (c === 'en') [EN_LESSONS, EN_UNITS] = [lessons, raw.units];
-        else [BUNDLED_LESSONS, BUNDLED_UNITS] = [lessons, raw.units];
-        loaded.add(c);
-        if (c === course) build(overrides);
-        notify();
-      },
+    job = start().then(
+      () => void loaded.add(key),
       (e) => {
-        loading.delete(c);
+        loading.delete(key);
         throw e;
       },
     );
-    loading.set(c, job);
+    loading.set(key, job);
   }
   return job;
 }
+const loadZhChunk = (key: string) =>
+  once(key, async () => {
+    const raw = (await ZH_CHUNKS[key]()).default;
+    BUNDLED_LESSONS = [...BUNDLED_LESSONS, ...raw.lessons].sort((a, b) => (a.order ?? 0) - (b.order ?? 0));
+    BUNDLED_UNITS = [...BUNDLED_UNITS, ...raw.units].sort((a, b) => a.unit - b.unit);
+    if (course === 'zh') build(overrides);
+    notify();
+  });
+/** Fetch all the lessons of a course (once). Resolves when every level is available. */
+export function loadCourse(c: CourseId): Promise<void> {
+  if (c === 'zh')
+    return once('zh', async () => {
+      await Promise.all(Object.keys(ZH_CHUNKS).map(loadZhChunk));
+      notify();
+    });
+  return once('en', async () => {
+    const raw = (await import('./english.json')).default as unknown as RawData;
+    [EN_LESSONS, EN_UNITS] = [raw.lessons.map((l, i) => ({ ...l, order: (i + 1) * 10 })), raw.units];
+    if (course === 'en') build(overrides);
+    notify();
+  });
+}
+/** True when every level of the course is in memory. */
+export const courseLoaded = (c: CourseId = course) => loaded.has(c);
+/** Enough to show the course: English entirely; Chinese HSK 1–3 plus the level being studied (the rest follows). */
+const usable = (c: CourseId) => (c === 'en' ? loaded.has('en') : zhPriority().every((k) => loaded.has(k)));
+function loadUsable(c: CourseId): Promise<unknown> {
+  const all = loadCourse(c);
+  if (c === 'en') return all;
+  all.catch(() => {}); // the other levels keep loading in the background
+  return Promise.all(zhPriority().map(loadZhChunk));
+}
+/** 'ready' when the active course can be shown; 'loading' / 'error' while its data is fetched. */
+export const courseState = (): 'ready' | 'loading' | 'error' => (loadFailed ? 'error' : pending || !usable(course) ? 'loading' : 'ready');
 function activate(c: CourseId) {
   course = c;
   build(overrides);
@@ -100,14 +149,15 @@ export function setCourse(c: CourseId) {
     /* private mode */
   }
   loadFailed = false;
-  if (loaded.has(c)) {
+  if (usable(c)) {
     pending = null;
     activate(c);
+    loadUsable(c).catch(() => {});
     return;
   }
   pending = c;
   notify();
-  loadCourse(c).then(
+  loadUsable(c).then(
     () => {
       if (pending !== c) return;
       pending = null;
@@ -185,7 +235,8 @@ build(cached());
 /** Start fetching the active course if that has not happened yet (no-op once it is loading or ready). */
 export function ensureCourse() {
   if (loaded.has(course) || pending || loadFailed) return;
-  loadCourse(course).catch(() => {
+  loadUsable(course).catch(() => {
+    if (usable(course)) return; // a background level failed: it is retried on the next call
     loadFailed = true;
     notify();
   });

@@ -100,7 +100,7 @@ Cấu trúc dữ liệu:
 
 ## Dữ liệu
 
-Từ vựng được soạn trong `scripts/vocab.txt` và sinh ra `src/data/lessons.json` bằng `node scripts/build-data.mjs` (đồng thời sao chép dữ liệu nét chữ vào `public/hanzi/`). `node scripts/check-pinyin.mjs` đối chiếu pinyin với `pinyin-pro` (các khác biệt còn lại là thanh nhẹ/biến điệu đã được kiểm tra thủ công).
+Từ vựng được soạn trong `scripts/vocab.txt` và sinh ra `src/data/zh/*.json` (mỗi cấp HSK một tệp) bằng `node scripts/build-data.mjs` (đồng thời sao chép dữ liệu nét chữ vào `public/hanzi/`). `node scripts/check-pinyin.mjs` đối chiếu pinyin với `pinyin-pro` (các khác biệt còn lại là thanh nhẹ/biến điệu đã được kiểm tra thủ công).
 
 ## Triển khai
 

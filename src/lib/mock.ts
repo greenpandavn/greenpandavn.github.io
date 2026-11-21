@@ -133,6 +133,20 @@ export const MOCK_SPECS: MockSpec[] = [
     ],
   },
   {
+    // modelled on the HSK 7–9 paper (40 listening + 47 reading items); its translation and speaking tasks are replaced by writing items
+    id: '7',
+    course: 'zh',
+    title: 'HSK 7',
+    level: 7,
+    minutes: 150,
+    pass: 180,
+    sections: [
+      { id: 'listening', parts: [{ type: 'l-word-hanzi', count: 10 }, { type: 'l-sent-tf', count: 10 }, { type: 'l-sent-meaning', count: 20 }] },
+      { id: 'reading', parts: [{ type: 'r-cloze', count: 20 }, { type: 'r-meaning-word', count: 12 }, { type: 'r-sent-meaning', count: 15 }] },
+      { id: 'writing', parts: [{ type: 'w-arrange', count: 10 }, { type: 'w-hanzi', count: 4 }] },
+    ],
+  },
+  {
     id: 'en1',
     course: 'en',
     title: 'Tiếng Anh sơ cấp',

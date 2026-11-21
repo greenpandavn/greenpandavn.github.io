@@ -10,10 +10,11 @@ import AuthScreen from './screens/AuthScreen';
 import Footer from './components/Footer';
 import AppBanners from './components/AppBanners';
 import LessonScreen, { type SessionMode } from './screens/LessonScreen';
+import { currentLessonId } from './lib/unlock';
 import { useProgress } from './lib/store';
 import { dueCount } from './lib/srs';
 import { useAccount } from './lib/account';
-import { courseChosen, courseState, ensureCourse, isEnglish, retryCourse, setCourse, useContentVersion } from './data';
+import { LESSON_BY_ID, courseChosen, courseLoaded, courseState, ensureCourse, isEnglish, noteLevel, retryCourse, setCourse, unitLevel, useContentVersion } from './data';
 import CoursePicker from './components/CoursePicker';
 import MockScreen from './screens/MockScreen';
 import FriendsScreen from './screens/FriendsScreen';
@@ -35,13 +36,20 @@ export default function App() {
   const [adminOpen, setAdminOpen] = useState(() => window.location.hash === '#/admin');
   const [mockOpen, setMockOpen] = useState(() => window.location.hash === '#/mock');
   const acc = useAccount();
-  useContentVersion();
   const [session, setSession] = useState<SessionMode | null>(null);
   useEffect(() => {
     // the admin area manages the Chinese course content only
     if (adminOpen && acc.role === 'admin' && isEnglish()) setCourse('zh');
   }, [adminOpen, acc.role]);
   const p = useProgress();
+  const contentVersion = useContentVersion();
+  useEffect(() => {
+    ensureCourse();
+    // once every level is known, remember which HSK level is being studied (it is loaded first next time)
+    if (isEnglish() || !courseLoaded()) return;
+    const cur = currentLessonId(p);
+    if (cur && LESSON_BY_ID[cur]) noteLevel(unitLevel(LESSON_BY_ID[cur].unit));
+  }, [p, contentVersion]);
   const social = useSocial();
   const [chatOpen, setChatOpen] = useState(false);
 
@@ -114,7 +122,8 @@ export default function App() {
     );
 
   // The lessons of each course are a separate download: wait for the active course before showing it.
-  if ((mockOpen || courseChosen() || p.settings.level) && courseState() !== 'ready') {
+  // (the mock papers need every level, the lessons only the levels in use)
+  if ((mockOpen || courseChosen() || p.settings.level) && (courseState() !== 'ready' || (mockOpen && !courseLoaded()))) {
     ensureCourse();
     return (
       <div className="flex min-h-dvh flex-col items-center justify-center gap-4 p-6 text-center" data-testid="course-loading">

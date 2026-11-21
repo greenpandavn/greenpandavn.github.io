@@ -1,4 +1,4 @@
-// Generates src/data/lessons.json (Chinese, HSK 1+) and src/data/english.json, and copies the
+// Generates src/data/zh/*.json (Chinese, one file per level) and src/data/english.json, and copies the
 // HanziWriter stroke data needed by the Chinese course into public/hanzi/.
 //
 // Sources:
@@ -262,7 +262,21 @@ const dump = (obj) =>
     .map((l) => `  ${JSON.stringify({ ...l, words: undefined }).slice(0, -1)},"words":[\n${l.words.map((w) => `   ${JSON.stringify(w)}`).join(',\n')}\n  ]}`)
     .join(',\n')}\n ]\n}\n`;
 fs.mkdirSync(path.join(root, 'src/data'), { recursive: true });
-fs.writeFileSync(path.join(root, 'src/data/lessons.json'), dump({ units, lessons }));
+// Chinese is split into one file per level (HSK 1–3 together) so that the app can load the levels separately.
+// `order` keeps the position of a lesson in the whole course.
+{
+  const lv = new Map(units.map((u) => [u.unit, u.level ?? 1]));
+  const chunk = (level) => (level <= 3 ? 'hsk1-3' : `hsk${level}`);
+  const zhDir = path.join(root, 'src/data/zh');
+  fs.rmSync(zhDir, { recursive: true, force: true });
+  fs.mkdirSync(zhDir, { recursive: true });
+  const ordered = lessons.map((l, i) => ({ ...l, order: (i + 1) * 10 }));
+  for (const name of new Set(units.map((u) => chunk(lv.get(u.unit)))))
+    fs.writeFileSync(
+      path.join(zhDir, `${name}.json`),
+      dump({ units: units.filter((u) => chunk(lv.get(u.unit)) === name), lessons: ordered.filter((l) => chunk(lv.get(l.unit) ?? 1) === name) }),
+    );
+}
 fs.writeFileSync(path.join(root, 'src/data/english.json'), dump({ units: enUnits, lessons: enLessons }));
 
 // Copy stroke-order data for every character used anywhere in the course.
