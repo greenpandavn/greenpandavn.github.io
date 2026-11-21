@@ -1,0 +1,170 @@
+a|维修|bảo trì, sửa chữa|工人/正在/维修/电梯/。|Công nhân đang sửa chữa thang máy.
+g|唯独|chỉ riêng, duy chỉ|大家/都/来/了/，/唯独/他/没/来/。|Mọi người đều đến, chỉ riêng anh ấy không đến.
+e|为难|khó xử; làm khó|这/件/事/让/我/很/为难/。|Việc này khiến tôi rất khó xử.
+g|为期|kéo dài trong (thời hạn)|这/是/一/次/为期/三/天/的/会议/。|Đây là một hội nghị kéo dài ba ngày.
+g|为首|đứng đầu|以/他/为首/的/小组/完成/了/任务/。|Nhóm do anh ấy đứng đầu đã hoàn thành nhiệm vụ.
+p|委员|ủy viên|他/是/学生/会/的/委员/。|Anh ấy là ủy viên hội sinh viên.
+a|伪造|làm giả, ngụy tạo|他/伪造/了/一/张/证件/。|Hắn đã làm giả một tấm giấy tờ.
+l|胃口|khẩu vị, sự thèm ăn|我/今天/没有/胃口/。|Hôm nay tôi không muốn ăn.
+a|位于|nằm ở, tọa lạc tại|我们/学校/位于/市/中心/。|Trường chúng tôi nằm ở trung tâm thành phố.
+g|未免|có phần hơi, không khỏi|你/这样/说/未免/太/过分/了/。|Bạn nói vậy có phần quá đáng quá.
+e|畏惧|sợ hãi, e sợ|他/从/不/畏惧/困难/。|Anh ấy không bao giờ e sợ khó khăn.
+t|卫星|vệ tinh|这/颗/卫星/是/去年/发射/的/。|Vệ tinh này được phóng năm ngoái.
+a|慰问|thăm hỏi, ủy lạo|领导/去/医院/慰问/了/病人/。|Lãnh đạo đã đến bệnh viện thăm hỏi bệnh nhân.
+n|温带|ôn đới|这/个/国家/在/温带/。|Đất nước này nằm ở vùng ôn đới.
+e|温和|ôn hòa|他/的/态度/很/温和/。|Thái độ của anh ấy rất ôn hòa.
+w|文凭|văn bằng, bằng cấp|他/有/大学/文凭/。|Anh ấy có bằng đại học.
+t|文物|văn vật, di vật văn hóa|博物馆/里/有/很多/文物/。|Trong bảo tàng có rất nhiều di vật văn hóa.
+w|文献|văn hiến, tài liệu|他/查/了/很多/历史/文献/。|Anh ấy đã tra cứu rất nhiều tài liệu lịch sử.
+e|文雅|nho nhã, tao nhã|她/说话/很/文雅/。|Cô ấy nói năng rất tao nhã.
+w|文艺|văn nghệ|学校/举行/了/文艺/表演/。|Nhà trường đã tổ chức biểu diễn văn nghệ.
+a|问世|ra đời, ra mắt|他/的/新/书/问世/了/。|Sách mới của ông ấy đã ra mắt.
+n|窝|tổ, ổ|树/上/有/一/个/鸟/窝/。|Trên cây có một tổ chim.
+d|乌黑|đen nhánh|她/有/一/头/乌黑/的/头发/。|Cô ấy có mái tóc đen nhánh.
+a|污蔑|vu khống, bôi nhọ|他/污蔑/我/偷/了/东西/。|Hắn vu khống tôi ăn trộm đồ.
+a|诬陷|vu cáo hãm hại|他/被/人/诬陷/了/。|Anh ấy đã bị người ta vu cáo hãm hại.
+g|无比|vô cùng, không gì sánh bằng|听/到/这/个/消息/，/我/无比/高兴/。|Nghe tin này, tôi vui vô cùng.
+d|无偿|không hoàn lại, miễn phí|他们/为/老人/提供/无偿/服务/。|Họ cung cấp dịch vụ miễn phí cho người già.
+e|无耻|vô liêm sỉ|这/种/行为/太/无耻/了/。|Hành vi này quá vô liêm sỉ.
+g|无从|không biết từ đâu, không có cách nào|事情/太/多/，/我/无从/开始/。|Nhiều việc quá, tôi không biết bắt đầu từ đâu.
+e|无动于衷|dửng dưng, thờ ơ|看/到/别人/有/困难/，/他/无动于衷/。|Thấy người khác gặp khó khăn, anh ta vẫn dửng dưng.
+g|无非|chẳng qua là, chỉ là|他/这样/做/无非/是/为了/钱/。|Anh ta làm vậy chẳng qua là vì tiền.
+e|无精打采|ủ rũ, phờ phạc|他/今天/无精打采/的/。|Hôm nay anh ấy trông ủ rũ.
+g|无可奉告|không có gì để nói, miễn bình luận|对/这/件/事/，/我/无可奉告/。|Về việc này, tôi không có gì để nói.
+e|无可奈何|đành chịu, không biết làm sao|他/无可奈何/地=de/摇/了/摇/头/。|Anh ấy lắc đầu đành chịu.
+p|无赖|vô lại, kẻ lưu manh|别/理/那/个/无赖/。|Đừng để ý đến tên vô lại đó.
+a|无理取闹|vô cớ gây sự|你/不/要/无理取闹/。|Bạn đừng vô cớ gây sự.
+e|无能为力|bất lực, lực bất tòng tâm|对/这/件/事/，/我/无能为力/。|Về việc này, tôi lực bất tòng tâm.
+d|无穷无尽|vô cùng vô tận|知识/是/无穷无尽/的/。|Tri thức là vô cùng vô tận.
+d|无微不至|chu đáo từng li từng tí|妈妈/无微不至/地=de/照顾/我/。|Mẹ chăm sóc tôi chu đáo từng li từng tí.
+e|无忧无虑|vô lo vô nghĩ|孩子/们/过=guò/着/无忧无虑/的/生活/。|Bọn trẻ sống cuộc sống vô lo vô nghĩ.
+d|无知|vô tri, thiếu hiểu biết|请/原谅/我/的/无知/。|Xin thứ lỗi cho sự thiếu hiểu biết của tôi.
+w|舞蹈|vũ đạo, múa|她/从/小/学习/舞蹈/。|Cô ấy học múa từ nhỏ.
+w|武侠|võ hiệp|他/喜欢/看/武侠/小说/。|Anh ấy thích đọc tiểu thuyết võ hiệp.
+t|武装|vũ trang|他们/用/知识/武装/自己/。|Họ vũ trang cho mình bằng tri thức.
+a|侮辱|sỉ nhục, làm nhục|你/不/能/侮辱/别人/。|Bạn không được sỉ nhục người khác.
+g|勿|chớ, đừng (văn viết)|请/勿/吸烟/。|Xin đừng hút thuốc.
+g|务必|nhất thiết phải|请/你/务必/准时/到/。|Xin bạn nhất thiết phải đến đúng giờ.
+e|务实|thực tế, thiết thực|他/是/一/个/很/务实/的/人/。|Anh ấy là người rất thực tế.
+t|误差|sai số|这/个/结果/的/误差/很/小/。|Sai số của kết quả này rất nhỏ.
+a|误解|hiểu lầm|你/误解/了/我/的/意思/。|Bạn đã hiểu lầm ý tôi.
+d|物美价廉|hàng tốt giá rẻ|这/家/商店/的/东西/物美价廉/。|Hàng của cửa hàng này tốt mà giá rẻ.
+t|物资|vật tư|他们/给/灾区/送/去/了/物资/。|Họ đã gửi vật tư đến vùng thiên tai.
+n|溪|con suối, khe suối|山/下/有/一/条/小/溪/。|Dưới núi có một con suối nhỏ.
+l|膝盖|đầu gối|他/的/膝盖/受伤/了/。|Đầu gối anh ấy bị thương.
+a|熄灭|tắt, dập tắt|火/终于/熄灭/了/。|Lửa cuối cùng đã tắt.
+a|吸取|hấp thu, rút (kinh nghiệm)|我们/要/吸取/这/次/的/教训/。|Chúng ta phải rút ra bài học lần này.
+g|昔日|ngày xưa, thuở trước|昔日/的/小/村子/变/成/了/城市/。|Ngôi làng nhỏ thuở trước đã thành thành phố.
+a|牺牲|hy sinh|他/牺牲/了/休息/时间/来/帮/我/。|Anh ấy hy sinh thời gian nghỉ ngơi để giúp tôi.
+n|夕阳|mặt trời lặn, tà dương|海/边/的/夕阳/很/美/。|Hoàng hôn bên bờ biển rất đẹp.
+p|媳妇|con dâu; vợ|她/是/一/个/好/媳妇/。|Cô ấy là một người con dâu tốt.
+t|习俗|tập tục|每/个/国家/都/有/不同/的/习俗/。|Mỗi nước đều có tập tục khác nhau.
+a|袭击|tập kích, tấn công bất ngờ|台风/袭击/了/这/个/城市/。|Bão đã tấn công thành phố này.
+d|喜闻乐见|được ưa thích (vui lòng nghe, thích thú xem)|这/是/老百姓/喜闻乐见/的/节目/。|Đây là chương trình được người dân ưa thích.
+e|喜悦|vui mừng, hân hoan|她/的/脸/上/充满/了/喜悦/。|Trên mặt cô ấy tràn đầy niềm vui.
+t|系列|loạt, sê-ri|公司/推出/了/一/系列/新/产品/。|Công ty đã tung ra một loạt sản phẩm mới.
+t|细胞|tế bào|人/的/身体/里/有/很多/细胞/。|Trong cơ thể người có rất nhiều tế bào.
+t|细菌|vi khuẩn|手/上/有/很多/细菌/。|Trên tay có rất nhiều vi khuẩn.
+d|细致|tỉ mỉ, kỹ lưỡng|他/工作/非常/细致/。|Anh ấy làm việc vô cùng tỉ mỉ.
+n|霞|ráng (chiều, sớm)|傍晚/的/天空/有/美丽/的/霞/。|Bầu trời chiều tối có ráng đẹp.
+d|狭隘|hẹp hòi|他/的/想法/太/狭隘/了/。|Suy nghĩ của anh ta quá hẹp hòi.
+d|狭窄|chật hẹp|这/条/街/很/狭窄/。|Con phố này rất chật hẹp.
+n|峡谷|hẻm núi|这/个/峡谷/很/深/。|Hẻm núi này rất sâu.
+w|夏令营|trại hè|孩子/暑假/参加/了/夏令营/。|Kỳ nghỉ hè đứa trẻ đã tham gia trại hè.
+p|下属|cấp dưới|他/对/下属/很/好/。|Ông ấy rất tốt với cấp dưới.
+d|先进|tiên tiến|这/家/工厂/的/技术/很/先进/。|Kỹ thuật của nhà máy này rất tiên tiến.
+g|先前|trước đây, lúc trước|他/比/先前/瘦/了/很多/。|Anh ấy gầy hơn trước rất nhiều.
+d|鲜明|rõ nét, tươi sáng|这/两/种/颜色/的/对比/很/鲜明/。|Sự tương phản của hai màu này rất rõ nét.
+a|掀起|dấy lên, lật lên|全/国/掀起/了/学习/外语/的/热潮/。|Cả nước dấy lên cao trào học ngoại ngữ.
+l|纤维|sợi, chất xơ|蔬菜/里/有/很多/纤维/。|Trong rau có rất nhiều chất xơ.
+l|弦|dây đàn|吉他/的/一/根/弦/断/了/。|Một dây đàn ghi-ta bị đứt rồi.
+a|嫌|chê, ghét bỏ|他/嫌/这里/太/吵/。|Anh ấy chê ở đây ồn quá.
+t|嫌疑|hiềm nghi, nghi ngờ|他/有/偷/东西/的/嫌疑/。|Anh ta bị tình nghi ăn trộm.
+t|闲话|chuyện phiếm; lời đàm tiếu|别/在/背后/说/别人/的/闲话/。|Đừng nói xấu người khác sau lưng.
+e|贤惠|hiền thục, đảm đang|他/的/妻子/很/贤惠/。|Vợ anh ấy rất hiền thục đảm đang.
+a|衔接|nối tiếp, kết nối|这/两/段/话/衔接/得/很/自然/。|Hai đoạn này nối tiếp nhau rất tự nhiên.
+d|显著|rõ rệt, nổi bật|他/的/成绩/有/了/显著/的/提高/。|Thành tích của cậu ấy đã tiến bộ rõ rệt.
+n|现场|hiện trường, tại chỗ|警察/很/快/到/了/现场/。|Cảnh sát đã đến hiện trường rất nhanh.
+d|现成|có sẵn|冰箱/里/有/现成/的/饭菜/。|Trong tủ lạnh có cơm canh làm sẵn.
+t|现状|hiện trạng|他/不/满意/自己/的/现状/。|Anh ấy không hài lòng với hiện trạng của mình.
+t|宪法|hiến pháp|宪法/是/国家/的/根本/法律/。|Hiến pháp là luật căn bản của quốc gia.
+a|陷害|hãm hại|他/被/坏/人/陷害/了/。|Anh ấy đã bị kẻ xấu hãm hại.
+a|陷入|rơi vào, lâm vào|公司/陷入/了/困难/。|Công ty đã lâm vào khó khăn.
+l|馅儿|nhân (bánh)|这/个/饺子/是/什么/馅儿/的/？|Sủi cảo này nhân gì thế?
+t|线索|manh mối|警察/找到/了/新/的/线索/。|Cảnh sát đã tìm được manh mối mới.
+a|相差|chênh nhau, cách nhau|他们/的/年龄/相差/五/岁/。|Tuổi của họ chênh nhau năm tuổi.
+a|相等|bằng nhau|这/两/个/数/相等/。|Hai số này bằng nhau.
+a|相辅相成|bổ trợ lẫn nhau|学习/和/实践/相辅相成/。|Học và hành bổ trợ lẫn nhau.
+d|相应|tương ứng|我们/要/采取/相应/的/措施/。|Chúng ta phải áp dụng biện pháp tương ứng.
+a|镶嵌|khảm, nạm|戒指/上/镶嵌/着/一/颗/宝石/。|Trên chiếc nhẫn có nạm một viên đá quý.
+n|乡镇|thị trấn, xã|这/个/乡镇/发展/得/很/快/。|Thị trấn này phát triển rất nhanh.
+a|想方设法|tìm đủ mọi cách|他/想方设法/解决/问题/。|Anh ấy tìm đủ mọi cách giải quyết vấn đề.
+d|响亮|vang dội, to rõ|他/的/声音/很/响亮/。|Giọng anh ấy rất vang.
+a|响应|hưởng ứng|大家/积极/响应/学校/的/号召/。|Mọi người tích cực hưởng ứng lời kêu gọi của nhà trường.
+n|巷|ngõ, hẻm|他/家/在/一/条/小/巷/里/。|Nhà anh ấy ở trong một con hẻm nhỏ.
+p|向导|người dẫn đường, hướng dẫn viên|我们/请/了/一/位/当地/的/向导/。|Chúng tôi đã thuê một người dẫn đường địa phương.
+g|向来|xưa nay, từ trước đến nay|他/向来/很/准时/。|Anh ấy xưa nay rất đúng giờ.
+e|向往|hướng tới, khao khát|他/向往/自由/的/生活/。|Anh ấy khao khát cuộc sống tự do.
+a|消除|xóa bỏ, loại trừ|我们/要/消除/误会/。|Chúng ta phải xóa bỏ hiểu lầm.
+l|消毒|khử trùng, tiêu độc|这些/碗/已经/消毒/了/。|Những cái bát này đã được khử trùng.
+w|消防|phòng cháy chữa cháy|消防/车/很/快/就/到/了/。|Xe cứu hỏa đã đến rất nhanh.
+a|消耗|tiêu hao|运动/消耗/了/很多/能量/。|Vận động tiêu hao rất nhiều năng lượng.
+e|消极|tiêu cực|不/要/用/消极/的/态度/看/问题/。|Đừng nhìn vấn đề bằng thái độ tiêu cực.
+a|销毁|tiêu hủy|这些/假/货/必须/销毁/。|Chỗ hàng giả này phải tiêu hủy.
+e|小心翼翼|hết sức cẩn thận, rón rén|他/小心翼翼/地=de/拿/着/花瓶/。|Anh ấy cầm bình hoa hết sức cẩn thận.
+w|效益|hiệu quả và lợi ích|这/家/公司/的/效益/很/好/。|Hiệu quả kinh doanh của công ty này rất tốt.
+l|肖像|chân dung|墙/上/挂/着/一/幅/肖像/。|Trên tường treo một bức chân dung.
+a|携带|mang theo|坐/飞机/不/能/携带/危险/物品/。|Đi máy bay không được mang theo vật nguy hiểm.
+w|协会|hiệp hội|他/是/作家/协会/的/会员/。|Ông ấy là hội viên hội nhà văn.
+a|协商|hiệp thương, bàn bạc|这/件/事/我们/可以/协商/解决/。|Việc này chúng ta có thể bàn bạc giải quyết.
+w|协议|thỏa thuận, hiệp nghị|双方/达成/了/协议/。|Hai bên đã đạt được thỏa thuận.
+a|协助|hỗ trợ, giúp đỡ|我/来/协助/你/完成/工作/。|Tôi đến hỗ trợ bạn hoàn thành công việc.
+w|写作|viết văn, sáng tác|他/的/爱好/是/写作/。|Sở thích của anh ấy là viết văn.
+l|屑|vụn, mảnh vụn|桌子/上/有/面包/屑/。|Trên bàn có vụn bánh mì.
+a|谢绝|từ chối khéo, khước từ|他/谢绝/了/我们/的/邀请/。|Anh ấy đã khước từ lời mời của chúng tôi.
+a|泄露|tiết lộ, rò rỉ|他/泄露/了/公司/的/秘密/。|Anh ta đã tiết lộ bí mật của công ty.
+e|泄气|nản chí, xì hơi|失败/了/也/别/泄气/。|Thất bại cũng đừng nản chí.
+t|新陈代谢|trao đổi chất; đổi mới thay cũ|运动/可以/加快/新陈代谢/。|Vận động có thể đẩy nhanh quá trình trao đổi chất.
+p|新郎|chú rể|新郎/今天/很/帅/。|Hôm nay chú rể rất bảnh.
+p|新娘|cô dâu|新娘/穿/着/白色/的/裙子/。|Cô dâu mặc váy trắng.
+d|新颖|mới mẻ, mới lạ|这/个/设计/很/新颖/。|Thiết kế này rất mới lạ.
+t|心得|tâm đắc, điều thu hoạch được|请/谈/谈/你/的/学习/心得/。|Xin hãy chia sẻ điều bạn tâm đắc khi học.
+t|心灵|tâm hồn|音乐/可以/安慰/人/的/心灵/。|Âm nhạc có thể an ủi tâm hồn con người.
+t|心态|tâm thế, tâm trạng|比赛/时/要/保持/好/的/心态/。|Khi thi đấu phải giữ tâm thế tốt.
+e|心疼|thương xót; tiếc|看/到/孩子/生病/，/妈妈/很/心疼/。|Thấy con ốm, mẹ rất xót.
+t|心血|tâm huyết|这/本/书/花/了/他/很多/心血/。|Cuốn sách này đã tốn rất nhiều tâm huyết của ông ấy.
+e|心眼儿|tấm lòng, bụng dạ; tâm cơ|他/的/心眼儿/很/好/。|Anh ấy rất tốt bụng.
+e|辛勤|cần cù, siêng năng|农民/辛勤/地=de/劳动/。|Nông dân lao động cần cù.
+e|欣慰|vui mừng yên lòng|看/到/孩子/的/进步/，/我/很/欣慰/。|Thấy con tiến bộ, tôi rất vui mừng yên lòng.
+d|欣欣向荣|phồn vinh phát triển, tươi tốt|这/个/城市/欣欣向荣/。|Thành phố này đang phát triển phồn vinh.
+w|薪水|tiền lương|他/的/薪水/不/低/。|Tiền lương của anh ấy không thấp.
+e|信赖|tin cậy|他/是/一/个/值得/信赖/的/朋友/。|Anh ấy là một người bạn đáng tin cậy.
+t|信念|niềm tin, tín niệm|他/有/坚定/的/信念/。|Anh ấy có niềm tin kiên định.
+t|信仰|tín ngưỡng, đức tin|我们/尊重/每/个/人/的/信仰/。|Chúng tôi tôn trọng tín ngưỡng của mỗi người.
+t|信誉|uy tín, tín nhiệm|这/家/商店/的/信誉/很/好/。|Uy tín của cửa hàng này rất tốt.
+d|腥|tanh|这/条/鱼/有点儿/腥/。|Con cá này hơi tanh.
+d|兴隆|phát đạt, thịnh vượng|祝/你/生意/兴隆/！|Chúc bạn làm ăn phát đạt!
+d|兴旺|hưng vượng, thịnh vượng|他/的/事业/越来越/兴旺/。|Sự nghiệp của anh ấy ngày càng hưng vượng.
+w|行政|hành chính|她/在/公司/做/行政/工作/。|Cô ấy làm công việc hành chính ở công ty.
+t|形态|hình thái|水/有/三/种/形态/。|Nước có ba hình thái.
+w|刑事|hình sự|这/是/一/个/刑事/案件/。|Đây là một vụ án hình sự.
+d|性感|gợi cảm|她/的/声音/很/性感/。|Giọng cô ấy rất gợi cảm.
+t|性命|tính mạng|医生/救/了/他/的/性命/。|Bác sĩ đã cứu tính mạng anh ấy.
+t|性能|tính năng|这/辆/车/的/性能/很/好/。|Tính năng của chiếc xe này rất tốt.
+e|性情|tính tình|他/的/性情/很/温和/。|Tính tình anh ấy rất ôn hòa.
+g|幸好|may mà|幸好/你/提醒/了/我/。|May mà bạn đã nhắc tôi.
+e|兴高采烈|hân hoan phấn khởi|孩子/们/兴高采烈/地=de/去/公园/了/。|Bọn trẻ hân hoan phấn khởi đi công viên.
+e|兴致勃勃|hào hứng, đầy hứng thú|他/兴致勃勃/地=de/讲/着/旅行/的/事/。|Anh ấy hào hứng kể chuyện đi du lịch.
+e|胸怀|tấm lòng, lòng dạ|他/是/一/个/胸怀/很/宽/的/人/。|Ông ấy là người có tấm lòng rất rộng.
+l|胸膛|lồng ngực|他/挺/起/了/胸膛/。|Anh ấy ưỡn ngực lên.
+e|凶恶|hung ác|那/只=zhī/狗/看/起来/很/凶恶/。|Con chó đó trông rất hung dữ.
+p|凶手|hung thủ|警察/抓/住/了/凶手/。|Cảnh sát đã bắt được hung thủ.
+d|雄厚|hùng hậu, dồi dào|这/家/公司/的/资金/很/雄厚/。|Nguồn vốn của công ty này rất hùng hậu.
+a|修复|tu sửa, phục hồi|工人/修复/了/这/座/古老/的/桥/。|Công nhân đã phục hồi cây cầu cổ này.
+a|修建|xây dựng, tu sửa|政府/修建/了/一/条/新/路/。|Chính phủ đã xây một con đường mới.
+a|修理|sửa chữa|我/的/自行车/需要/修理/。|Xe đạp của tôi cần sửa.
+e|羞耻|xấu hổ, nhục nhã|他/为/自己/的/行为/感到/羞耻/。|Anh ta cảm thấy xấu hổ vì hành vi của mình.
+a|休养|nghỉ dưỡng, an dưỡng|医生/让/他/在/家/休养/。|Bác sĩ bảo anh ấy ở nhà nghỉ dưỡng.
+a|绣|thêu|奶奶/在/布/上/绣/了/一/朵/花/。|Bà nội thêu một bông hoa lên vải.
+t|嗅觉|khứu giác|狗/的/嗅觉/很/灵敏/。|Khứu giác của chó rất nhạy.
+d|虚假|giả dối, hư giả|这/是/一/个/虚假/的/广告/。|Đây là một quảng cáo giả dối.
