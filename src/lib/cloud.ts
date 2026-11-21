@@ -29,7 +29,7 @@ import {
   where,
   type Unsubscribe,
 } from 'firebase/firestore';
-import { auth, db } from './firebase';
+import { auth, db, resetDb } from './firebase';
 import { applyRemote, defaultProgress, getProgress, GUEST_KEY, loadFrom, onLocalChange, sanitize, updateProgress, switchStorageSlot } from './store';
 import { mergeProgress, resolveLogin, weekId, weekXp } from './merge';
 import { getAccount, OWNER_EMAIL, setAccount } from './account';
@@ -51,14 +51,17 @@ let roleInfo: { forcedName: string; hidden: boolean; revoked: string[] } = { for
 const LOCKED_MSG = 'Tài khoản này đã bị khóa. Vui lòng liên hệ huuphuocln@gmail.com nếu cần hỗ trợ.';
 let kicking = false;
 let pendingSince = 0;
+let kickedAt = 0;
+let rebuilding = false;
 
 const withTimeout = <T>(p: Promise<T>, ms: number) =>
   Promise.race([p, new Promise<never>((_, rej) => setTimeout(() => rej(new Error('timeout')), ms))]);
 
 /** Restart Firestore's streams – recovers a write/listen channel left broken after sleep or network changes. */
 async function kickNetwork() {
-  if (kicking || !navigator.onLine) return;
+  if (kicking || rebuilding || !navigator.onLine) return;
   kicking = true;
+  kickedAt = Date.now();
   try {
     await disableNetwork(db);
     await enableNetwork(db);
@@ -68,8 +71,29 @@ async function kickNetwork() {
     kicking = false;
   }
 }
+
+/** A restart didn't help (channel keeps failing): rebuild the client, re-attach listeners and re-send the local snapshot. */
+async function rebuildClient() {
+  const u = auth.currentUser;
+  if (rebuilding || !u || !navigator.onLine) return;
+  rebuilding = true;
+  try {
+    await resetDb();
+  } finally {
+    rebuilding = false;
+  }
+  pendingSince = 0;
+  kickedAt = 0;
+  if (auth.currentUser?.uid !== u.uid) return;
+  listen(u);
+  void upload(u, getProgress());
+}
+
 const kickIfStuck = () => {
-  if (pendingSince && Date.now() - pendingSince > 1200) void kickNetwork();
+  if (!pendingSince || !navigator.onLine) return;
+  const now = Date.now();
+  if (kickedAt > pendingSince && now - kickedAt > 3500) void rebuildClient();
+  else if (now - pendingSince > 1200) void kickNetwork();
 };
 
 const migratedUids = (): string[] => {
@@ -116,7 +140,7 @@ async function upload(u: User, p: Progress) {
   if (wxp > 0 && !roleInfo.hidden) writes.push(setDoc(doc(db, 'weeks', weekId(), 'entries', u.uid), { displayName, xp: Math.round(wxp), updatedAt: now }));
   if (!pendingSince) pendingSince = now;
   // Writes stay queued while the stream is down; if nothing is acknowledged for a while, restart the network.
-  const watchdog = setInterval(kickIfStuck, 4000);
+  const watchdog = setInterval(kickIfStuck, 2000);
   try {
     await Promise.all(writes);
     if (lastWritten === now) {
@@ -124,6 +148,7 @@ async function upload(u: User, p: Progress) {
       setAccount({ sync: 'saved' });
     }
   } catch (e) {
+    if (rebuilding || lastWritten !== now) return; // superseded (e.g. client rebuilt mid-write)
     pendingSince = 0;
     console.warn('Sync failed', e);
     setAccount({ sync: 'error' });
@@ -212,7 +237,10 @@ async function startSession(u: User) {
   stopLocal = onLocalChange(() => scheduleUpload(u));
   void upload(u, progress);
   if (!reachable) setAccount({ sync: 'offline' });
+  listen(u);
+}
 
+function listen(u: User) {
   stopRole?.();
   stopRole = onSnapshot(
     doc(db, 'roles', u.uid),
@@ -270,7 +298,7 @@ export function initCloud() {
     void kickNetwork();
     void upload(u, getProgress());
     // the first reconnect attempt often races the network coming up – retry a few times while writes are pending
-    for (const ms of [1500, 4000, 8000]) setTimeout(kickIfStuck, ms);
+    for (const ms of [1500, 4000, 6000, 9000]) setTimeout(kickIfStuck, ms);
   });
   document.addEventListener('visibilitychange', () => {
     if (document.visibilityState === 'visible' && auth.currentUser) kickIfStuck();

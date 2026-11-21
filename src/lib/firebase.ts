@@ -1,6 +1,6 @@
 import { initializeApp } from 'firebase/app';
 import { getAuth } from 'firebase/auth';
-import { initializeFirestore, memoryLocalCache, type Firestore } from 'firebase/firestore';
+import { initializeFirestore, memoryLocalCache, terminate, type Firestore } from 'firebase/firestore';
 
 import { firebaseConfig, firebaseConfigured } from './firebaseConfig';
 
@@ -17,4 +17,11 @@ export const auth = getAuth(app);
 function makeDb(): Firestore {
   return initializeFirestore(app, { localCache: memoryLocalCache(), experimentalForceLongPolling: true });
 }
-export const db = makeDb();
+export let db = makeDb();
+
+/** Replace the Firestore client with a fresh one (last resort when its long-poll channel stays broken after a reconnect). */
+export async function resetDb() {
+  const old = db;
+  await terminate(old).catch(() => undefined);
+  db = makeDb();
+}
