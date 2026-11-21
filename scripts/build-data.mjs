@@ -188,11 +188,13 @@ for (const { word, parts } of pending) {
 const enLessons = [];
 const enUnits = [];
 const enSeen = new Set();
-{
+// english.txt holds the original beginner + intermediate lessons; the other files add levels and extra parts
+const EN_FILES = ['english.txt', 'english-beginner2.txt', 'english-intermediate2.txt', 'english-advanced.txt', 'english-proficient.txt'];
+for (const file of EN_FILES.filter((f) => fs.existsSync(path.join(root, 'scripts', f)))) {
   let unit = null;
-  for (const [i, raw] of read('scripts/english.txt').split('\n').entries()) {
+  for (const [i, raw] of read(`scripts/${file}`).split('\n').entries()) {
     const line = raw.trim();
-    const where = `english.txt:${i + 1}`;
+    const where = `${file}:${i + 1}`;
     if (!line || line.startsWith('#')) continue;
     if (line.startsWith('%')) {
       const [u, level, title, desc, color] = line.slice(1).split('|');
@@ -228,6 +230,22 @@ const enSeen = new Set();
       vi,
       ex: { tokens, py: tokens.map((t) => (/^[,.?!]$/.test(t) ? t : '')), vi: exVi, alts: alts ? alts.split(';') : [] },
     });
+  }
+}
+{
+  const ids = new Set();
+  for (const l of enLessons) {
+    if (ids.has(l.id)) errors.push(`english: duplicate lesson id ${l.id}`);
+    ids.add(l.id);
+    if (l.words.length < 12 || l.words.length > 14) errors.push(`english: lesson ${l.id} has ${l.words.length} words (expected 12–14)`);
+  }
+  const lv = new Map(enUnits.map((u) => [u.unit, u.level]));
+  enUnits.sort((a, b) => a.level - b.level || a.unit - b.unit);
+  const pos = new Map(enUnits.map((u, i) => [u.unit, i]));
+  enLessons.sort((a, b) => pos.get(a.unit) - pos.get(b.unit));
+  for (const level of new Set(lv.values())) {
+    const ls = enLessons.filter((l) => lv.get(l.unit) === level);
+    console.log(`English level ${level}: ${ls.length} lessons, ${ls.reduce((n, l) => n + l.words.length, 0)} words`);
   }
 }
 
