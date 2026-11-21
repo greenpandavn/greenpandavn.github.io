@@ -2,7 +2,8 @@ import { useState } from 'react';
 import Panda from '../components/Panda';
 import Footer from '../components/Footer';
 import { Chevron } from '../components/Icons';
-import { loadCloud, useAccount } from '../lib/account';
+import { firebaseConfigured, loadCloud, useAccount } from '../lib/account';
+import { NOT_CONFIGURED_MSG } from '../lib/firebaseConfig';
 import { getProgress } from '../lib/store';
 import { hasProgress } from '../lib/merge';
 
@@ -63,6 +64,19 @@ export default function AuthScreen({ onClose }: { onClose: () => void }) {
         <p className="font-semibold text-ink-500">Bạn đã đăng nhập. Tiến độ sẽ được đồng bộ lên đám mây.</p>
         <button type="button" className="btn-green mt-6" onClick={onClose}>
           Tiếp tục học
+        </button>
+        <Footer className="mt-auto" />
+      </div>
+    );
+
+  if (!firebaseConfigured)
+    return (
+      <div className="mx-auto flex min-h-[100dvh] max-w-md flex-col items-center px-6 pt-16 text-center" data-testid="firebase-not-configured">
+        <Panda size={120} mood="sad" />
+        <h1 className="mt-3 text-2xl font-black">Chưa cấu hình Firebase</h1>
+        <p className="mt-1 font-semibold text-ink-500">{NOT_CONFIGURED_MSG}</p>
+        <button type="button" className="btn-green mt-6" onClick={onClose}>
+          Quay lại học
         </button>
         <Footer className="mt-auto" />
       </div>

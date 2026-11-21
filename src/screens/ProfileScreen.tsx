@@ -1,6 +1,7 @@
 import { useRef, useState } from 'react';
 import type { Certificate } from '../types';
-import { loadCloud, useAccount } from '../lib/account';
+import { firebaseConfigured, loadCloud, useAccount } from '../lib/account';
+import { NOT_CONFIGURED_MSG } from '../lib/firebaseConfig';
 import { notifyPermission, notifySupported, requestNotify } from '../lib/reminder';
 import { installHelp, promptInstall, useInstall } from '../lib/install';
 import { shareText } from '../lib/share';
@@ -140,12 +141,20 @@ export default function ProfileScreen({ onLogin }: { onLogin: () => void }) {
           </>
         ) : (
           <>
-            <p className="text-sm font-bold text-ink-500">
-              {acc.ready ? 'Bạn đang học không cần tài khoản. Đăng nhập để lưu tiến độ lên đám mây và lên bảng xếp hạng.' : 'Đang kiểm tra tài khoản…'}
-            </p>
-            <button type="button" className="btn-green" onClick={onLogin} data-testid="open-auth">
-              Đăng nhập / Đăng ký
-            </button>
+            {firebaseConfigured ? (
+              <>
+                <p className="text-sm font-bold text-ink-500">
+                  {acc.ready ? 'Bạn đang học không cần tài khoản. Đăng nhập để lưu tiến độ lên đám mây và lên bảng xếp hạng.' : 'Đang kiểm tra tài khoản…'}
+                </p>
+                <button type="button" className="btn-green" onClick={onLogin} data-testid="open-auth">
+                  Đăng nhập / Đăng ký
+                </button>
+              </>
+            ) : (
+              <p className="text-sm font-bold text-ink-500" data-testid="firebase-not-configured">
+                <b className="text-ink-700">Chưa cấu hình Firebase.</b> {NOT_CONFIGURED_MSG}
+              </p>
+            )}
           </>
         )}
       </div>

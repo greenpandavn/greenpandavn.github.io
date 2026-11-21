@@ -1,7 +1,8 @@
 import { useEffect, useState } from 'react';
 import Panda from '../components/Panda';
 import { Trophy } from '../components/Icons';
-import { loadCloud, useAccount } from '../lib/account';
+import { firebaseConfigured, loadCloud, useAccount } from '../lib/account';
+import { NOT_CONFIGURED_MSG } from '../lib/firebaseConfig';
 import type { Board } from '../lib/cloud';
 
 const MEDAL = ['bg-sun-500', 'bg-[#c0c7cf]', 'bg-[#e0915a]'];
@@ -52,7 +53,7 @@ export default function LeaderboardScreen({ onLogin }: { onLogin: () => void }) 
         ))}
       </div>
 
-      {!acc.user && (
+      {!acc.user && firebaseConfigured && (
         <div className="card mb-4 flex items-center gap-3 !bg-sky-500/10">
           <p className="flex-1 text-sm font-bold text-ink-700">Bạn đang xem ở chế độ chỉ đọc. Đăng nhập để có tên trên bảng xếp hạng!</p>
           <button type="button" className="chip !text-sky-600" onClick={onLogin}>
@@ -61,7 +62,9 @@ export default function LeaderboardScreen({ onLogin }: { onLogin: () => void }) 
         </div>
       )}
 
-      {error ? (
+      {!firebaseConfigured ? (
+        <Empty text={NOT_CONFIGURED_MSG} />
+      ) : error ? (
         <Empty text="Không tải được bảng xếp hạng. Hãy kiểm tra kết nối mạng rồi thử lại." />
       ) : !board ? (
         <div className="flex flex-col gap-2" aria-busy>

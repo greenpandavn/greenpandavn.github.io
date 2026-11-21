@@ -26,5 +26,9 @@ export function useAccount() {
   );
 }
 
-const cloud = () => import('./cloud');
-export const loadCloud = cloud;
+import { firebaseConfigured, NOT_CONFIGURED_MSG } from './firebaseConfig';
+
+export { firebaseConfigured };
+/** Lazily loads the Firebase layer; rejects when the VITE_FIREBASE_* env vars are missing. */
+export const loadCloud = () =>
+  firebaseConfigured ? import('./cloud') : Promise.reject(Object.assign(new Error(NOT_CONFIGURED_MSG), { code: 'app/not-configured' }));

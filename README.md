@@ -39,16 +39,20 @@ npm test         # kiểm thử logic gộp/di chuyển tiến độ (Vitest)
 
 ## Cấu hình Firebase
 
-Cấu hình web của dự án `hoc-tieng-trung-6f3e1` nằm sẵn trong `src/lib/firebase.ts` (đây là cấu hình công khai phía trình duyệt, không phải bí mật). Có thể ghi đè bằng biến môi trường Vite (xem `.env.example`):
+Cấu hình Firebase **chỉ** được đọc từ biến môi trường Vite, không có giá trị viết cứng trong mã nguồn (`src/lib/firebaseConfig.ts`). Cần đủ 6 biến sau (lấy trong Firebase Console → Project settings → Your apps → Web app → *SDK setup and configuration*):
 
-| Biến | Ví dụ |
-| --- | --- |
-| `VITE_FIREBASE_API_KEY` | `AIza…` |
-| `VITE_FIREBASE_AUTH_DOMAIN` | `hoc-tieng-trung-6f3e1.firebaseapp.com` |
-| `VITE_FIREBASE_PROJECT_ID` | `hoc-tieng-trung-6f3e1` |
-| `VITE_FIREBASE_STORAGE_BUCKET` | `hoc-tieng-trung-6f3e1.firebasestorage.app` |
-| `VITE_FIREBASE_MESSAGING_SENDER_ID` | `372532313687` |
-| `VITE_FIREBASE_APP_ID` | `1:372532313687:web:…` |
+| Biến | Bắt buộc | Ví dụ |
+| --- | --- | --- |
+| `VITE_FIREBASE_API_KEY` | ✔ | `AIza…` |
+| `VITE_FIREBASE_AUTH_DOMAIN` | ✔ | `<project-id>.firebaseapp.com` |
+| `VITE_FIREBASE_PROJECT_ID` | ✔ | `<project-id>` |
+| `VITE_FIREBASE_STORAGE_BUCKET` | ✔ | `<project-id>.firebasestorage.app` |
+| `VITE_FIREBASE_MESSAGING_SENDER_ID` | ✔ | `1234567890` |
+| `VITE_FIREBASE_APP_ID` | ✔ | `1:1234567890:web:abc123` |
+
+- **Chạy trên máy**: sao chép `.env.example` thành `.env.local` (đã nằm trong `.gitignore`, không commit) rồi điền giá trị.
+- **Vercel**: khai báo trong *Settings → Environment Variables* (xem phần Triển khai).
+- Thiếu biến: ứng dụng vẫn chạy đầy đủ ở chế độ khách (lưu `localStorage`); màn hình tài khoản, Hồ sơ và Bảng xếp hạng hiện thông báo “Chưa cấu hình Firebase”.
 
 Các bước trong [Firebase Console](https://console.firebase.google.com/) (một lần):
 
@@ -66,7 +70,7 @@ Cấu trúc dữ liệu:
 
 1. Vercel → **Add New → Project** → chọn repo `hoc-tieng-trung`.
 2. Framework: **Vite** (Build command `npm run build`, Output `dist`).
-3. (Tuỳ chọn) **Settings → Environment Variables**: thêm 6 biến `VITE_FIREBASE_*` ở trên cho Production/Preview. Không thêm thì ứng dụng dùng cấu hình mặc định trong `src/lib/firebase.ts`. Đổi biến xong cần **Redeploy**.
+3. **Settings → Environment Variables** (bắt buộc để có tài khoản/đồng bộ/xếp hạng): thêm đủ 6 biến `VITE_FIREBASE_*` ở trên cho Production và Preview. Biến được nhúng lúc build, nên đổi biến xong cần **Redeploy**.
 4. Thêm tên miền Vercel vào *Authorized domains* của Firebase (bước 2 ở trên), nếu không đăng nhập Google sẽ báo `auth/unauthorized-domain`.
 
 `vercel.json` đặt `Cache-Control: no-cache` cho `sw.js` và `manifest.json` để bản mới được cập nhật ngay.
