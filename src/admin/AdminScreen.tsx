@@ -1,5 +1,5 @@
 import { useEffect, useMemo, useState } from 'react';
-import { BUNDLED_LESSONS, LESSONS, LESSON_BY_ID, UNITS, useContentVersion } from '../data';
+import { BUNDLED_LESSONS, LESSONS, LESSON_BY_ID, UNITS, loadCourse, useContentVersion } from '../data';
 import { useAccount } from '../lib/account';
 import { levelInfo } from '../lib/gamification';
 import { currentStreak } from '../lib/gamification';
@@ -33,6 +33,8 @@ export default function AdminScreen({ onClose }: { onClose: () => void }) {
   const [cert, setCert] = useState<Certificate | null>(null);
   const [editing, setEditing] = useState<string | null>(null); // lesson id or 'new'
   useContentVersion();
+  // the editor compares against the bundled Chinese lessons, whichever course is being studied
+  useEffect(() => void loadCourse('zh').catch(() => {}), []);
 
   const reload = () => {
     api

@@ -16,6 +16,7 @@ let game: typeof import('./gamification');
 beforeAll(async () => {
   store = await import('./store');
   data = await import('../data');
+  await Promise.all([data.loadCourse('zh'), data.loadCourse('en')]);
   merge = await import('./merge');
   ex = await import('./exercises');
   unlock = await import('./unlock');

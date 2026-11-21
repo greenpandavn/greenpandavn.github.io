@@ -1,6 +1,4 @@
 import { useSyncExternalStore } from 'react';
-import raw from './lessons.json';
-import rawEn from './english.json';
 import type { CourseId, Lesson, Word } from '../types';
 
 export type RawWord = Omit<Word, 'lessonId'>;
@@ -21,13 +19,14 @@ export interface ContentOverrides {
   units: UnitDoc[];
 }
 
-export const BUNDLED_LESSONS: RawLesson[] = (raw.lessons as RawLesson[]).map((l, i) => ({ ...l, order: (i + 1) * 10 }));
-export const BUNDLED_UNITS: Unit[] = raw.units as Unit[];
-export const EN_LESSONS: RawLesson[] = (rawEn.lessons as RawLesson[]).map((l, i) => ({ ...l, order: (i + 1) * 10 }));
-export const EN_UNITS: Unit[] = rawEn.units as Unit[];
+// The word lists are big, so each course is its own chunk, fetched when that course is opened (see loadCourse).
+export let BUNDLED_LESSONS: RawLesson[] = [];
+export let BUNDLED_UNITS: Unit[] = [];
+export let EN_LESSONS: RawLesson[] = [];
+export let EN_UNITS: Unit[] = [];
 
 export const COURSES: { id: CourseId; label: string; title: string; desc: string; glyph: string }[] = [
-  { id: 'zh', label: 'Tiếng Trung', title: `Khóa học tiếng Trung HSK 1–${Math.max(...BUNDLED_UNITS.map((u) => u.level ?? 1))}`, desc: `HSK 1 → HSK ${Math.max(...BUNDLED_UNITS.map((u) => u.level ?? 1))} · chữ Hán, pinyin, luyện nghe nói`, glyph: '中' },
+  { id: 'zh', label: 'Tiếng Trung', title: 'Khóa học tiếng Trung HSK 1–6', desc: 'HSK 1 → HSK 6 · chữ Hán, pinyin, luyện nghe nói', glyph: '中' },
   { id: 'en', label: 'Tiếng Anh', title: 'Khóa học tiếng Anh từ sơ cấp đến thành thạo', desc: 'Sơ cấp → Thành thạo · từ vựng, chính tả, luyện nghe nói', glyph: 'En' },
 ];
 const COURSE_KEY = 'gp-course';
@@ -53,18 +52,81 @@ const courseHooks = new Set<() => void>();
 export function onCourseChange(fn: () => void) {
   courseHooks.add(fn);
 }
+const notify = () => {
+  version++;
+  listeners.forEach((l) => l());
+};
+const loaded = new Set<CourseId>();
+const loading = new Map<CourseId, Promise<void>>();
+let pending: CourseId | null = null;
+let loadFailed = false;
+/** 'ready' when the words of the active course are in memory; 'loading' / 'error' while its chunk is fetched. */
+export const courseState = (): 'ready' | 'loading' | 'error' => (loadFailed ? 'error' : pending || !loaded.has(course) ? 'loading' : 'ready');
+/** Fetch the lessons of a course (once). Resolves when they are available. */
+export function loadCourse(c: CourseId): Promise<void> {
+  let job = loading.get(c);
+  if (!job) {
+    job = (c === 'en' ? import('./english.json') : import('./lessons.json')).then(
+      (m) => {
+        const raw = m.default as unknown as { lessons: RawLesson[]; units: Unit[] };
+        const lessons = raw.lessons.map((l, i) => ({ ...l, order: (i + 1) * 10 }));
+        if (c === 'en') [EN_LESSONS, EN_UNITS] = [lessons, raw.units];
+        else [BUNDLED_LESSONS, BUNDLED_UNITS] = [lessons, raw.units];
+        loaded.add(c);
+        if (c === course) build(overrides);
+        notify();
+      },
+      (e) => {
+        loading.delete(c);
+        throw e;
+      },
+    );
+    loading.set(c, job);
+  }
+  return job;
+}
+function activate(c: CourseId) {
+  course = c;
+  build(overrides);
+  courseHooks.forEach((h) => h());
+  notify();
+}
+/** Switch course. The switch happens at once when its lessons are loaded, otherwise as soon as they arrive. */
 export function setCourse(c: CourseId) {
   chosen = true;
-  course = c;
   try {
     localStorage.setItem(COURSE_KEY, c);
   } catch {
     /* private mode */
   }
-  build(overrides);
-  courseHooks.forEach((h) => h());
-  version++;
-  listeners.forEach((l) => l());
+  loadFailed = false;
+  if (loaded.has(c)) {
+    pending = null;
+    activate(c);
+    return;
+  }
+  pending = c;
+  notify();
+  loadCourse(c).then(
+    () => {
+      if (pending !== c) return;
+      pending = null;
+      activate(c);
+    },
+    () => {
+      if (pending !== c) return;
+      loadFailed = true;
+      notify();
+    },
+  );
+}
+/** Try again after a failed download of the course data. */
+export function retryCourse() {
+  const c = pending ?? course;
+  loadFailed = false;
+  if (pending) return setCourse(c);
+  notify();
+  ensureCourse();
 }
 /** HSK level of a unit (1 when the unit has none, e.g. the English course). */
 /** Name of a level of the active course, e.g. 'HSK 4' or 'Trung cấp'. */
@@ -120,6 +182,16 @@ function cached(): ContentOverrides | null {
   }
 }
 build(cached());
+/** Start fetching the active course if that has not happened yet (no-op once it is loading or ready). */
+export function ensureCourse() {
+  if (loaded.has(course) || pending || loadFailed) return;
+  loadCourse(course).catch(() => {
+    loadFailed = true;
+    notify();
+  });
+}
+// A returning learner needs the saved course right away; a new visitor loads it after picking one.
+if (chosen) ensureCourse();
 
 /** Apply admin content from Firestore (cached for offline use); bundled content fills any gaps. */
 export function applyContent(o: ContentOverrides) {

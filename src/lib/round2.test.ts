@@ -16,6 +16,7 @@ beforeAll(async () => {
   store = await import('./store');
   unlock = await import('./unlock');
   data = await import('../data');
+  await Promise.all([data.loadCourse('zh'), data.loadCourse('en')]);
 });
 
 const withLevel = (level: Progress['settings']['level']): Progress => {

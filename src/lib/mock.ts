@@ -208,11 +208,10 @@ const PART_TITLE: Record<PartType, string> = {
 };
 const partTitle = (type: PartType, course: CourseId) => (course === 'en' && type === 'r-meaning-word' ? 'Chọn từ tiếng Anh đúng với nghĩa' : PART_TITLE[type]);
 
-const levelOfUnit = new Map(BUNDLED_UNITS.map((u) => [u.unit, u.level ?? 1]));
-const enLevelOfUnit = new Map(EN_UNITS.map((u) => [u.unit, u.level ?? 1]));
 /** Bundled words of one level of a course (independent of the course being studied). */
 export function levelWords(level: number, course: CourseId = 'zh'): Word[] {
-  const [lessons, levels] = course === 'en' ? [EN_LESSONS, enLevelOfUnit] : [BUNDLED_LESSONS, levelOfUnit];
+  const [lessons, units] = course === 'en' ? [EN_LESSONS, EN_UNITS] : [BUNDLED_LESSONS, BUNDLED_UNITS];
+  const levels = new Map(units.map((u) => [u.unit, u.level ?? 1]));
   return lessons.filter((l) => (levels.get(l.unit) ?? 1) === level).flatMap((l) => l.words.map((w) => ({ ...w, lessonId: l.id })));
 }
 /** Papers of a course: every level that has bundled content. */

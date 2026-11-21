@@ -13,7 +13,7 @@ import LessonScreen, { type SessionMode } from './screens/LessonScreen';
 import { useProgress } from './lib/store';
 import { dueCount } from './lib/srs';
 import { useAccount } from './lib/account';
-import { courseChosen, isEnglish, setCourse, useContentVersion } from './data';
+import { courseChosen, courseState, ensureCourse, isEnglish, retryCourse, setCourse, useContentVersion } from './data';
 import CoursePicker from './components/CoursePicker';
 import MockScreen from './screens/MockScreen';
 import FriendsScreen from './screens/FriendsScreen';
@@ -112,6 +112,25 @@ export default function App() {
         <AdminScreen onClose={() => changeTab('profile')} />
       </Suspense>
     );
+
+  // The lessons of each course are a separate download: wait for the active course before showing it.
+  if ((mockOpen || courseChosen() || p.settings.level) && courseState() !== 'ready') {
+    ensureCourse();
+    return (
+      <div className="flex min-h-dvh flex-col items-center justify-center gap-4 p-6 text-center" data-testid="course-loading">
+        {courseState() === 'error' ? (
+          <>
+            <p className="font-bold text-ink-500">Không tải được dữ liệu khóa học. Hãy kiểm tra kết nối mạng rồi thử lại.</p>
+            <button className="btn-primary" onClick={retryCourse}>
+              Thử lại
+            </button>
+          </>
+        ) : (
+          <p className="font-bold text-ink-400">Đang tải khóa học…</p>
+        )}
+      </div>
+    );
+  }
 
   // 'Thi thử HSK' is a standalone, optional section (no gate, guests included).
   if (mockOpen && !session)
