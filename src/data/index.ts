@@ -28,7 +28,7 @@ export const EN_UNITS: Unit[] = rawEn.units as Unit[];
 
 export const COURSES: { id: CourseId; label: string; title: string; desc: string; glyph: string }[] = [
   { id: 'zh', label: 'Tiếng Trung', title: `Khóa học tiếng Trung HSK 1–${Math.max(...BUNDLED_UNITS.map((u) => u.level ?? 1))}`, desc: `HSK 1 → HSK ${Math.max(...BUNDLED_UNITS.map((u) => u.level ?? 1))} · chữ Hán, pinyin, luyện nghe nói`, glyph: '中' },
-  { id: 'en', label: 'Tiếng Anh', title: 'Khóa học tiếng Anh cơ bản và trung cấp', desc: 'Cơ bản → Trung cấp · từ vựng, chính tả, luyện nghe nói', glyph: 'En' },
+  { id: 'en', label: 'Tiếng Anh', title: 'Khóa học tiếng Anh từ sơ cấp đến thành thạo', desc: 'Sơ cấp → Thành thạo · từ vựng, chính tả, luyện nghe nói', glyph: 'En' },
 ];
 const COURSE_KEY = 'gp-course';
 function storedCourse(): CourseId | null {
@@ -68,7 +68,8 @@ export function setCourse(c: CourseId) {
 }
 /** HSK level of a unit (1 when the unit has none, e.g. the English course). */
 /** Name of a level of the active course, e.g. 'HSK 4' or 'Trung cấp'. */
-export const levelLabel = (level: number, c: CourseId = course) => (c === 'en' ? (level === 2 ? 'Trung cấp' : 'Cơ bản') : `HSK ${level}`);
+export const EN_LEVEL_LABEL = ['Sơ cấp', 'Trung cấp', 'Nâng cao', 'Thành thạo'];
+export const levelLabel = (level: number, c: CourseId = course) => (c === 'en' ? (EN_LEVEL_LABEL[level - 1] ?? EN_LEVEL_LABEL[0]) : `HSK ${level}`);
 export const unitLevel = (unit: number) => UNITS.find((u) => u.unit === unit)?.level ?? 1;
 
 // Live bindings: reassigned when admin-managed content arrives from Firestore.

@@ -29,7 +29,7 @@ export interface MockQuestion {
 }
 
 export interface MockSpec {
-  /** Key of the saved result: the HSK level ('1'…'6') or 'en1' / 'en2'. */
+  /** Key of the saved result: the HSK level ('1'…'6') or 'en1' … 'en4'. */
   id: string;
   course: CourseId;
   title: string;
@@ -135,7 +135,7 @@ export const MOCK_SPECS: MockSpec[] = [
   {
     id: 'en1',
     course: 'en',
-    title: 'Tiếng Anh cơ bản',
+    title: 'Tiếng Anh sơ cấp',
     level: 1,
     minutes: 45,
     pass: 240,
@@ -158,6 +158,34 @@ export const MOCK_SPECS: MockSpec[] = [
       { id: 'vocab', parts: [{ type: 'r-meaning-word', count: 10 }, { type: 'r-cloze', count: 10 }, { type: 'r-word-tf', count: 5 }] },
       { id: 'grammar', parts: [{ type: 'g-choice', count: 20 }] },
       { id: 'reading', parts: [{ type: 'rd-passage', count: 20 }] },
+    ],
+  },
+  {
+    id: 'en3',
+    course: 'en',
+    title: 'Tiếng Anh nâng cao',
+    level: 3,
+    minutes: 75,
+    pass: 240,
+    sections: [
+      { id: 'listening', parts: [{ type: 'l-word-hanzi', count: 5 }, { type: 'l-sent-meaning', count: 10 }] },
+      { id: 'vocab', parts: [{ type: 'r-meaning-word', count: 15 }, { type: 'r-cloze', count: 15 }, { type: 'r-word-tf', count: 5 }] },
+      { id: 'grammar', parts: [{ type: 'g-choice', count: 25 }] },
+      { id: 'reading', parts: [{ type: 'rd-passage', count: 25 }] },
+    ],
+  },
+  {
+    id: 'en4',
+    course: 'en',
+    title: 'Tiếng Anh thành thạo',
+    level: 4,
+    minutes: 90,
+    pass: 240,
+    sections: [
+      { id: 'listening', parts: [{ type: 'l-word-hanzi', count: 5 }, { type: 'l-sent-meaning', count: 10 }] },
+      { id: 'vocab', parts: [{ type: 'r-meaning-word', count: 15 }, { type: 'r-cloze', count: 15 }, { type: 'r-word-tf', count: 5 }] },
+      { id: 'grammar', parts: [{ type: 'g-choice', count: 25 }] },
+      { id: 'reading', parts: [{ type: 'rd-passage', count: 25 }] },
     ],
   },
 ];

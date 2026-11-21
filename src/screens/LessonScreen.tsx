@@ -1,6 +1,6 @@
 import { useCallback, useMemo, useRef, useState } from 'react';
 import type { Word } from '../types';
-import { CORE_LESSONS, LESSON_BY_ID, UNITS, isEnglish } from '../data';
+import { CORE_LESSONS, LESSON_BY_ID, UNITS, isEnglish, levelLabel } from '../data';
 import type { Certificate } from '../types';
 import { getAccount } from '../lib/account';
 import CertificateView from '../components/CertificateView';
@@ -67,7 +67,7 @@ interface Summary {
 const partName = (unit: number) => {
   const u = UNITS.find((x) => x.unit === unit);
   const title = u?.title ?? `Phần ${unit}`;
-  return isEnglish() ? `Tiếng Anh cơ bản · ${title}` : `HSK ${u?.level ?? 1} · ${title}`;
+  return isEnglish() ? `Tiếng Anh ${levelLabel(u?.level ?? 1).toLowerCase()} · ${title}` : `HSK ${u?.level ?? 1} · ${title}`;
 };
 
 function buildQueue(mode: SessionMode, pool: Word[]): Exercise[] {

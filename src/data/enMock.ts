@@ -2,6 +2,8 @@
  * Hand-written question banks for "Thi thử tiếng Anh": grammar and reading comprehension.
  * In every item the FIRST option is the right answer; the paper shuffles the options.
  */
+import { GRAMMAR_HIGH, READING_HIGH } from './enMockHigh';
+
 export interface GrammarItem {
   q: string; // sentence with a gap (___)
   options: string[];
@@ -82,6 +84,7 @@ export const GRAMMAR: Record<number, GrammarItem[]> = {
     { q: 'My parents do not allow me ___ out late.', options: ['to go', 'go', 'going'], explain: 'Cấu trúc: allow someone to do something.' },
     { q: 'What ___ you do if you fail the exam?', options: ['will', 'did', 'have'], explain: 'Câu điều kiện loại 1: mệnh đề chính dùng “will”.' },
   ],
+  ...GRAMMAR_HIGH,
 };
 
 export const READING: Record<number, ReadingItem[]> = {
@@ -191,4 +194,5 @@ export const READING: Record<number, ReadingItem[]> = {
       ],
     },
   ],
+  ...READING_HIGH,
 };

@@ -74,7 +74,7 @@ export function achievements(): Achievement[] {
   if (isEnglish())
     return BASE_ACHIEVEMENTS.map((a) =>
       a.id === 'course'
-        ? { ...a, title: 'Tốt nghiệp tiếng Anh cơ bản', desc: 'Hoàn thành tất cả bài học tiếng Anh', check: (p: Progress) => coreDone(p) >= CORE_LESSONS.length }
+        ? { ...a, title: 'Tốt nghiệp tiếng Anh', desc: 'Hoàn thành tất cả bài học tiếng Anh', check: (p: Progress) => coreDone(p) >= CORE_LESSONS.length }
         : a,
     );
   const i = BASE_ACHIEVEMENTS.findIndex((a) => a.id === 'course') + 1;

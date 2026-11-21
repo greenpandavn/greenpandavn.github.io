@@ -20,6 +20,7 @@ import Panda from '../components/Panda';
 import { BadgeGlyph, Bolt, Flame, Gem, Star } from '../components/Icons';
 import { COURSES, CORE_LESSONS, courseInfo, isEnglish, setCourse, useContentVersion } from '../data';
 import { LEVELS, setLevel } from '../lib/unlock';
+import { MOCK_SPECS } from '../lib/mock';
 import { THEMES } from '../lib/theme';
 
 const BADGE_COLORS = ['bg-leaf-500', 'bg-sky-500', 'bg-grape-500', 'bg-[#ff9600]', 'bg-coral-500', 'bg-sun-500'];
@@ -203,7 +204,7 @@ export default function ProfileScreen({ onLogin, onAdmin }: { onLogin: () => voi
               .sort(([a], [b]) => a.localeCompare(b))
               .map(([lv, r]) => (
                 <div key={lv} className="flex items-center justify-between text-sm font-bold" data-testid={`profile-mock-${lv}`}>
-                  <span className="font-extrabold text-ink-700">{lv === 'en1' ? 'Tiếng Anh cơ bản' : lv === 'en2' ? 'Tiếng Anh trung cấp' : `HSK ${lv}`}</span>
+                  <span className="font-extrabold text-ink-700">{MOCK_SPECS.find((m) => m.id === lv)?.title ?? `HSK ${lv}`}</span>
                   <span className={r.passed ? 'text-leaf-600' : 'text-ink-500'}>
                     {r.best}/{r.max} · {r.passed ? 'Đạt' : 'Chưa đạt'} · {r.attempts} lần thi
                   </span>
@@ -436,7 +437,7 @@ export default function ProfileScreen({ onLogin, onAdmin }: { onLogin: () => voi
       <h2 className="mb-2 mt-6 text-lg font-black">Giới thiệu / Liên hệ</h2>
       <div className="card flex flex-col gap-1 text-sm font-semibold text-ink-500" data-testid="about">
         <p>
-          <b className="text-ink-700">Học Ngoại Ngữ – Gấu Trúc Xanh</b> là ứng dụng học tiếng Trung (HSK) và tiếng Anh (cơ bản, trung cấp) miễn phí cho người Việt.
+          <b className="text-ink-700">Học Ngoại Ngữ – Gấu Trúc Xanh</b> là ứng dụng học tiếng Trung (HSK) và tiếng Anh (sơ cấp đến thành thạo) miễn phí cho người Việt.
         </p>
         <p>© 2026 VH Phước — Học Ngoại Ngữ, Gấu Trúc Xanh. Mọi nội dung thuộc về VH Phước.</p>
         <p data-testid="about-version">

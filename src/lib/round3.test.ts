@@ -35,11 +35,11 @@ describe('v3 content', () => {
     }
     expect(new Set(data.ALL_WORDS.map((w) => w.id)).size).toBe(data.ALL_WORDS.length);
   });
-  it('English course: 58 lessons, 707 words, every lesson builds a full exercise queue', () => {
+  it('English course: 243 lessons, 2927 words, every lesson builds a full exercise queue', () => {
     data.setCourse('en');
-    expect(data.LESSONS.length).toBe(58);
-    expect(data.ALL_WORDS.length).toBe(707);
-    expect(data.LESSONS.filter((l) => data.unitLevel(l.unit) === 1).flatMap((l) => l.words).length).toBe(371);
+    expect(data.LESSONS.length).toBe(243);
+    expect(data.ALL_WORDS.length).toBe(2927);
+    expect(data.LESSONS.filter((l) => data.unitLevel(l.unit) === 1).flatMap((l) => l.words).length).toBe(659);
     for (const l of data.LESSONS) {
       const q = ex.buildLesson(l.words, { difficulty: 'normal', newWordIds: new Set(l.words.map((w) => w.id)), speaking: true });
       const kinds = new Set(q.map((e) => e.kind));
@@ -141,6 +141,8 @@ describe('v4.5: Thi thử tiếng Anh', () => {
     expect(specs.map((s) => [s.id, mock.questionCount(s), s.minutes, mock.maxScore(s), s.pass])).toEqual([
       ['en1', 60, 45, 400, 240],
       ['en2', 80, 60, 400, 240],
+      ['en3', 100, 75, 400, 240],
+      ['en4', 100, 90, 400, 240],
     ]);
     for (const spec of specs) {
       expect(spec.sections.map((s) => s.id)).toEqual(['listening', 'vocab', 'grammar', 'reading']);
@@ -181,27 +183,35 @@ describe('v4.5: Thi thử tiếng Anh', () => {
   });
   it('every bank item has one right answer and distinct options; results are stored per paper', async () => {
     const { GRAMMAR, READING } = await import('../data/enMock');
-    for (const lv of [1, 2]) {
-      expect(GRAMMAR[lv].length).toBeGreaterThanOrEqual(lv === 1 ? 15 : 20);
+    for (const lv of [1, 2, 3, 4]) {
+      const need = [15, 20, 25, 25][lv - 1];
+      expect(GRAMMAR[lv].length).toBeGreaterThanOrEqual(need);
       for (const g of GRAMMAR[lv]) {
         expect(g.q).toContain('___');
         expect(new Set(g.options).size).toBe(g.options.length);
       }
-      expect(READING[lv].reduce((n, t) => n + t.qs.length, 0)).toBeGreaterThanOrEqual(lv === 1 ? 15 : 20);
+      expect(READING[lv].reduce((n, t) => n + t.qs.length, 0)).toBeGreaterThanOrEqual(need);
       for (const t of READING[lv]) for (const q of t.qs) expect(new Set(q.options).size).toBe(q.options.length);
     }
     store.recordMock('en1', 250, 400, true);
     store.recordMock('en1', 300, 400, true);
     expect(store.getProgress().mock?.en1).toMatchObject({ best: 300, max: 400, attempts: 2 });
   });
-  it('English has a beginner and an intermediate level', () => {
+  it('English has four levels with the v4.6 sizes', () => {
     data.setCourse('en');
     const levels = [...new Set(data.UNITS.map((u) => u.level))];
-    expect(levels).toEqual([1, 2]);
-    const inter = data.CORE_LESSONS.filter((l) => data.unitLevel(l.unit) === 2);
-    expect(inter.length).toBeGreaterThanOrEqual(25);
-    expect(inter.reduce((n, l) => n + l.words.length, 0)).toBeGreaterThanOrEqual(300);
-    expect(data.levelLabel(2)).toBe('Trung cấp');
+    expect(levels).toEqual([1, 2, 3, 4]);
+    const size = (lv: number) => {
+      const ls = data.CORE_LESSONS.filter((l) => data.unitLevel(l.unit) === lv);
+      return [ls.length, ls.reduce((n, l) => n + l.words.length, 0)];
+    };
+    expect([1, 2, 3, 4].map(size)).toEqual([
+      [54, 659],
+      [61, 732],
+      [64, 768],
+      [64, 768],
+    ]);
+    expect([1, 2, 3, 4].map((lv) => data.levelLabel(lv))).toEqual(['Sơ cấp', 'Trung cấp', 'Nâng cao', 'Thành thạo']);
     data.setCourse('zh');
     expect(data.levelLabel(4)).toBe('HSK 4');
   });
