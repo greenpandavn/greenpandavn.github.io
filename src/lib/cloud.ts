@@ -36,6 +36,7 @@ import { getAccount, OWNER_EMAIL, setAccount } from './account';
 import { applyContent, type LessonDoc, type UnitDoc } from '../data';
 import type { Progress } from '../types';
 import { setSocialName, startSocial, stopSocial } from './social';
+import { startVisits } from './visits';
 
 const MIGRATED_KEY = 'hoc-tieng-trung-migrated-uids';
 const CLIENT_ID = Math.random().toString(36).slice(2);
@@ -309,6 +310,7 @@ export function initCloud() {
   started = true;
   getRedirectResult(auth).catch((e) => console.warn('Redirect sign-in failed', e));
   void loadContent();
+  startVisits();
   onAuthStateChanged(auth, (u) => {
     if (u) void startSession(u);
     else endSession();

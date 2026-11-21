@@ -1,10 +1,11 @@
-import { useEffect, useMemo, useState } from 'react';
+import { useCallback, useEffect, useMemo, useState } from 'react';
 import { BUNDLED_LESSONS, LESSONS, LESSON_BY_ID, UNITS, loadCourse, useContentVersion } from '../data';
 import { useAccount } from '../lib/account';
 import { levelInfo } from '../lib/gamification';
 import { currentStreak } from '../lib/gamification';
 import * as api from '../lib/admin';
 import { loadContent } from '../lib/cloud';
+import { loadVisitStats, type VisitStats } from '../lib/visits';
 import CertificateView from '../components/CertificateView';
 import Footer from '../components/Footer';
 import { Chevron } from '../components/Icons';
@@ -27,6 +28,8 @@ export default function AdminScreen({ onClose }: { onClose: () => void }) {
   const [users, setUsers] = useState<api.AdminUser[] | null>(null);
   const [reports, setReports] = useState<api.Report[] | null>(null);
   const [reportsError, setReportsError] = useState('');
+  const [visits, setVisits] = useState<VisitStats | null>(null);
+  const [visitsError, setVisitsError] = useState('');
   const [error, setError] = useState('');
   const [busy, setBusy] = useState('');
   const [q, setQ] = useState('');
@@ -36,6 +39,16 @@ export default function AdminScreen({ onClose }: { onClose: () => void }) {
   // the editor compares against the bundled Chinese lessons, whichever course is being studied
   useEffect(() => void loadCourse('zh').catch(() => {}), []);
 
+  const reloadVisits = useCallback(
+    () =>
+      loadVisitStats()
+        .then((v) => {
+          setVisits(v);
+          setVisitsError('');
+        })
+        .catch((e) => setVisitsError(`Không tải được thống kê truy cập (${(e as { code?: string }).code ?? 'lỗi'}). Hãy publish firestore.rules bản v5.1.`)),
+    [],
+  );
   const reload = () => {
     api
       .listReports()
@@ -55,6 +68,13 @@ export default function AdminScreen({ onClose }: { onClose: () => void }) {
   useEffect(() => {
     if (acc.role === 'admin') void reload();
   }, [acc.role]);
+  // keep the online count fresh while the statistics tab is open
+  useEffect(() => {
+    if (acc.role !== 'admin' || tab !== 'stats') return;
+    void reloadVisits();
+    const t = setInterval(() => void reloadVisits(), 60_000);
+    return () => clearInterval(t);
+  }, [acc.role, tab, reloadVisits]);
 
   const act = async (label: string, fn: () => Promise<unknown>) => {
     setBusy(label);
@@ -114,6 +134,37 @@ export default function AdminScreen({ onClose }: { onClose: () => void }) {
 
       {tab === 'stats' && stats && (
         <div className="flex flex-col gap-3" data-testid="admin-stats">
+          <div className="card" data-testid="admin-visits">
+            <div className="mb-2 flex items-center justify-between gap-2">
+              <div className="font-extrabold">Thống kê truy cập</div>
+              <button type="button" className="chip !text-xs" onClick={() => void reloadVisits()} data-testid="admin-visits-refresh">
+                Làm mới
+              </button>
+            </div>
+            {visitsError ? (
+              <p className="text-sm font-bold text-coral-600">{visitsError}</p>
+            ) : !visits ? (
+              <p className="text-sm font-bold text-ink-400">Đang tải…</p>
+            ) : (
+              <div className="grid grid-cols-3 gap-2 text-center">
+                {(
+                  [
+                    [visits.online, 'Số người đang online', 'online'],
+                    [visits.total, 'Tổng số lượt truy cập', 'total'],
+                    [visits.today, 'Lượt truy cập hôm nay', 'today'],
+                  ] as const
+                ).map(([value, label, id]) => (
+                  <div key={id}>
+                    <div className="text-2xl font-black text-leaf-600" data-testid={`admin-visits-${id}`}>
+                      {value.toLocaleString('vi-VN')}
+                    </div>
+                    <div className="text-xs font-bold text-ink-400">{label}</div>
+                  </div>
+                ))}
+              </div>
+            )}
+            <p className="mt-2 text-xs font-bold text-ink-400">Tính cả khách chưa đăng nhập. “Đang online” = thiết bị có tín hiệu trong 5 phút gần nhất; tự cập nhật mỗi phút.</p>
+          </div>
           <div className="grid grid-cols-2 gap-3">
             <Stat value={stats.learners} label="Tổng học viên" />
             <Stat value={stats.dau} label="Hoạt động hôm nay" />

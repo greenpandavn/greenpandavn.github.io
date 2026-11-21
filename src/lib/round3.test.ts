@@ -27,7 +27,8 @@ describe('v3 content', () => {
   it('Chinese course has HSK 1–3 with tests per part', () => {
     data.setCourse('zh');
     const count = (lv: number) => data.LESSONS.filter((l) => data.unitLevel(l.unit) === lv).flatMap((l) => l.words).length;
-    expect([count(1), count(2), count(3), count(4), count(5), count(6), count(7)]).toEqual([181, 144, 287, 596, 1300, 2500, 1800]);
+    expect([count(1), count(2), count(3), count(4), count(5), count(6), count(7), count(8)]).toEqual([181, 144, 287, 596, 1300, 2500, 1800, 1800]);
+    expect(data.CORE_LESSONS.filter((l) => data.unitLevel(l.unit) === 8).length).toBe(150);
     expect(data.CORE_LESSONS.filter((l) => data.unitLevel(l.unit) === 7).length).toBe(151);
     expect(data.UNITS.map((u) => u.unit).slice(0, 22)).toEqual([1, 2, 3, 21, 22, 23, 31, 32, 33, 34, 41, 42, 43, 44, 51, 52, 53, 54, 55, 56, 57, 58]);
     for (const w of data.ALL_WORDS) {
@@ -231,6 +232,7 @@ describe('v4: Thi thử HSK', () => {
       [5, 100, 125, 300, 180],
       [6, 101, 140, 300, 180],
       [7, 101, 150, 300, 180],
+      [8, 100, 140, 300, 180],
     ]);
     for (const spec of mock.mockSpecs()) {
       const qs = mock.buildMock(spec);

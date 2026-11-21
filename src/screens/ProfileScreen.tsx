@@ -4,7 +4,8 @@ import type { Certificate } from '../types';
 import { firebaseConfigured, loadCloud, useAccount, visibleCerts } from '../lib/account';
 import { NOT_CONFIGURED_MSG } from '../lib/firebaseConfig';
 import { notifyPermission, notifySupported, requestNotify } from '../lib/reminder';
-import { installHelp, promptInstall, useInstall } from '../lib/install';
+import { installHelp, isIOS, promptInstall, useInstall } from '../lib/install';
+import IosInstallHint from '../components/IosInstallHint';
 import { shareText } from '../lib/share';
 import ShareButton from '../components/ShareButton';
 import CertificateView from '../components/CertificateView';
@@ -392,6 +393,8 @@ export default function ProfileScreen({ onLogin, onAdmin }: { onLogin: () => voi
           <button type="button" className="btn-green" onClick={() => void promptInstall()} data-testid="install-profile">
             Thêm vào màn hình chính
           </button>
+        ) : isIOS() ? (
+          <IosInstallHint testid="ios-install-profile" />
         ) : (
           <p className="text-sm font-bold text-ink-500">{installHelp()}</p>
         )}

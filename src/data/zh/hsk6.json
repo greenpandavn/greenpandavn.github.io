@@ -612,7 +612,7 @@
    {"id":"h6-43-纲领","hanzi":"纲领","pinyin":"gānglǐng","vi":"cương lĩnh","ex":{"tokens":["这","是","他们","的","行动","纲领","。"],"py":["zhè","shì","tāmen","de","xíngdòng","gānglǐng","."],"vi":"Đây là cương lĩnh hành động của họ.","alts":[]}}
   ]},
   {"id":"h6-44","title":"Từ nối và hư từ 4","desc":"Phó từ, liên từ, giới từ, lượng từ","icon":"端","unit":63,"order":2540,"words":[
-   {"id":"h6-44-端午节","hanzi":"端午节","pinyin":"Duānwǔjié","vi":"Tết Đoan Ngọ","ex":{"tokens":["端午节","人们","吃","粽子","。"],"py":["Duānwǔjié","rénmen","chī","zòngzǐ","."],"vi":"Tết Đoan Ngọ mọi người ăn bánh chưng (bánh ú).","alts":[]}},
+   {"id":"h6-44-端午节","hanzi":"端午节","pinyin":"Duānwǔjié","vi":"Tết Đoan Ngọ","ex":{"tokens":["端午节","人们","吃","粽子","。"],"py":["Duānwǔjié","rénmen","chī","zòngzi","."],"vi":"Tết Đoan Ngọ mọi người ăn bánh chưng (bánh ú).","alts":[]}},
    {"id":"h6-44-顿时","hanzi":"顿时","pinyin":"dùnshí","vi":"ngay lập tức, bỗng chốc","ex":{"tokens":["听","到","这","个","消息","，","大家","顿时","安静","了","。"],"py":["tīng","dào","zhè","ge","xiāoxi",",","dàjiā","dùnshí","ānjìng","le","."],"vi":"Nghe tin này, mọi người bỗng chốc im lặng.","alts":[]}},
    {"id":"h6-44-而已","hanzi":"而已","pinyin":"éryǐ","vi":"mà thôi","ex":{"tokens":["我","只","是","开","个","玩笑","而已","。"],"py":["wǒ","zhǐ","shì","kāi","ge","wánxiào","éryǐ","."],"vi":"Tôi chỉ đùa một chút mà thôi.","alts":[]}},
    {"id":"h6-44-番","hanzi":"番","pinyin":"fān","vi":"lần, hồi, phen (lượng từ)","ex":{"tokens":["他","认真","考虑","了","一","番","。"],"py":["tā","rènzhēn","kǎolǜ","le","yì","fān","."],"vi":"Anh ấy đã suy nghĩ nghiêm túc một phen.","alts":[]}},
@@ -1252,7 +1252,7 @@
    {"id":"h6-89-戒备","hanzi":"戒备","pinyin":"jièbèi","vi":"cảnh giác, canh phòng","ex":{"tokens":["这里","戒备","很","严","。"],"py":["zhèlǐ","jièbèi","hěn","yán","."],"vi":"Ở đây canh phòng rất nghiêm ngặt.","alts":[]}},
    {"id":"h6-89-进攻","hanzi":"进攻","pinyin":"jìngōng","vi":"tấn công","ex":{"tokens":["我们","队","开始","进攻","了","。"],"py":["wǒmen","duì","kāishǐ","jìngōng","le","."],"vi":"Đội chúng tôi bắt đầu tấn công.","alts":[]}},
    {"id":"h6-89-进化","hanzi":"进化","pinyin":"jìnhuà","vi":"tiến hóa","ex":{"tokens":["人类","是","慢慢","进化","来","的","。"],"py":["rénlèi","shì","mànmàn","jìnhuà","lái","de","."],"vi":"Loài người tiến hóa dần dần mà thành.","alts":[]}},
-   {"id":"h6-89-浸泡","hanzi":"浸泡","pinyin":"jìnpào","vi":"ngâm","ex":{"tokens":["把","豆子","浸泡","一","个","晚上","。"],"py":["bǎ","dòuzǐ","jìnpào","yí","ge","wǎnshang","."],"vi":"Ngâm đậu một đêm.","alts":[]}},
+   {"id":"h6-89-浸泡","hanzi":"浸泡","pinyin":"jìnpào","vi":"ngâm","ex":{"tokens":["把","豆子","浸泡","一","个","晚上","。"],"py":["bǎ","dòuzi","jìnpào","yí","ge","wǎnshang","."],"vi":"Ngâm đậu một đêm.","alts":[]}},
    {"id":"h6-89-精简","hanzi":"精简","pinyin":"jīngjiǎn","vi":"tinh giản","ex":{"tokens":["公司","精简","了","机构","。"],"py":["gōngsī","jīngjiǎn","le","jīgòu","."],"vi":"Công ty đã tinh giản bộ máy.","alts":[]}},
    {"id":"h6-89-精通","hanzi":"精通","pinyin":"jīngtōng","vi":"tinh thông, thông thạo","ex":{"tokens":["他","精通","三","门","外语","。"],"py":["tā","jīngtōng","sān","mén","wàiyǔ","."],"vi":"Anh ấy thông thạo ba ngoại ngữ.","alts":[]}},
    {"id":"h6-89-惊动","hanzi":"惊动","pinyin":"jīngdòng","vi":"làm kinh động, quấy rầy","ex":{"tokens":["别","惊动","正在","睡觉","的","孩子","。"],"py":["bié","jīngdòng","zhèngzài","shuìjiào","de","háizi","."],"vi":"Đừng làm kinh động đứa trẻ đang ngủ.","alts":[]}},
@@ -1421,7 +1421,7 @@
    {"id":"h6-101-联络","hanzi":"联络","pinyin":"liánluò","vi":"liên lạc","ex":{"tokens":["我们","要","经常","联络","。"],"py":["wǒmen","yào","jīngcháng","liánluò","."],"vi":"Chúng ta phải thường xuyên liên lạc.","alts":[]}},
    {"id":"h6-101-联想","hanzi":"联想","pinyin":"liánxiǎng","vi":"liên tưởng","ex":{"tokens":["这","首","歌","让","我","联想","到","家乡","。"],"py":["zhè","shǒu","gē","ràng","wǒ","liánxiǎng","dào","jiāxiāng","."],"vi":"Bài hát này khiến tôi liên tưởng đến quê hương.","alts":[]}},
    {"id":"h6-101-晾","hanzi":"晾","pinyin":"liàng","vi":"phơi, hong","ex":{"tokens":["把","衣服","晾","在","阳台","上","。"],"py":["bǎ","yīfu","liàng","zài","yángtái","shang","."],"vi":"Phơi quần áo ngoài ban công.","alts":[]}},
-   {"id":"h6-101-谅解","hanzi":"谅解","pinyin":"liàngjiě","vi":"thông cảm, lượng thứ","ex":{"tokens":["请","你","谅解","我","的","难处","。"],"py":["qǐng","nǐ","liàngjiě","wǒ","de","nánchù","."],"vi":"Xin bạn thông cảm cho nỗi khó của tôi.","alts":[]}},
+   {"id":"h6-101-谅解","hanzi":"谅解","pinyin":"liàngjiě","vi":"thông cảm, lượng thứ","ex":{"tokens":["请","你","谅解","我","的","难处","。"],"py":["qǐng","nǐ","liàngjiě","wǒ","de","nánchu","."],"vi":"Xin bạn thông cảm cho nỗi khó của tôi.","alts":[]}},
    {"id":"h6-101-列举","hanzi":"列举","pinyin":"lièjǔ","vi":"liệt kê","ex":{"tokens":["他","列举","了","很多","例子","。"],"py":["tā","lièjǔ","le","hěnduō","lìzǐ","."],"vi":"Anh ấy đã liệt kê rất nhiều ví dụ.","alts":[]}},
    {"id":"h6-101-淋","hanzi":"淋","pinyin":"lín","vi":"dầm (mưa), tưới","ex":{"tokens":["我","没","带","伞","，","淋","了","雨","。"],"py":["wǒ","méi","dài","sǎn",",","lín","le","yǔ","."],"vi":"Tôi không mang ô nên bị dầm mưa.","alts":[]}},
    {"id":"h6-101-领会","hanzi":"领会","pinyin":"lǐnghuì","vi":"lĩnh hội, hiểu thấu","ex":{"tokens":["我","领会","了","他","的","意思","。"],"py":["wǒ","lǐnghuì","le","tā","de","yìsi","."],"vi":"Tôi đã hiểu ý của anh ấy.","alts":[]}},

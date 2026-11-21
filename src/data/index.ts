@@ -27,7 +27,7 @@ export let EN_LESSONS: RawLesson[] = [];
 export let EN_UNITS: Unit[] = [];
 
 export const COURSES: { id: CourseId; label: string; title: string; desc: string; glyph: string }[] = [
-  { id: 'zh', label: 'Tiếng Trung', title: 'Khóa học tiếng Trung HSK 1–7', desc: 'HSK 1 → HSK 7 · chữ Hán, pinyin, luyện nghe nói', glyph: '中' },
+  { id: 'zh', label: 'Tiếng Trung', title: 'Khóa học tiếng Trung HSK 1–8', desc: 'HSK 1 → HSK 8 · chữ Hán, pinyin, luyện nghe nói', glyph: '中' },
   { id: 'en', label: 'Tiếng Anh', title: 'Khóa học tiếng Anh từ sơ cấp đến thành thạo', desc: 'Sơ cấp → Thành thạo · từ vựng, chính tả, luyện nghe nói', glyph: 'En' },
 ];
 const COURSE_KEY = 'gp-course';

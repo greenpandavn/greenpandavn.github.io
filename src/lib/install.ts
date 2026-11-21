@@ -31,7 +31,10 @@ if (typeof window !== 'undefined') {
   });
 }
 
-export const isIOS = () => /iphone|ipad|ipod/i.test(navigator.userAgent) && !/crios|fxios/i.test(navigator.userAgent);
+// iPhone/iPad/iPod in any browser; iPadOS 13+ reports itself as a Mac with a touch screen
+export const isIOS = () =>
+  typeof navigator !== 'undefined' && (/iphone|ipad|ipod/i.test(navigator.userAgent) || (/macintosh/i.test(navigator.userAgent) && navigator.maxTouchPoints > 1));
+export const isIOSSafari = () => isIOS() && !/crios|fxios|edgios|opios|fban|fbav|zalo|instagram|line\//i.test(navigator.userAgent);
 
 export async function promptInstall(): Promise<boolean> {
   if (!deferred) return false;

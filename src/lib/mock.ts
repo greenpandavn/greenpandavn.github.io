@@ -147,6 +147,20 @@ export const MOCK_SPECS: MockSpec[] = [
     ],
   },
   {
+    // same HSK 7–9 structure as the HSK 7 paper, drawn from the HSK 8 vocabulary; slightly shorter
+    id: '8',
+    course: 'zh',
+    title: 'HSK 8',
+    level: 8,
+    minutes: 140,
+    pass: 180,
+    sections: [
+      { id: 'listening', parts: [{ type: 'l-word-hanzi', count: 10 }, { type: 'l-sent-tf', count: 10 }, { type: 'l-sent-meaning', count: 20 }] },
+      { id: 'reading', parts: [{ type: 'r-cloze', count: 20 }, { type: 'r-meaning-word', count: 12 }, { type: 'r-sent-meaning', count: 15 }] },
+      { id: 'writing', parts: [{ type: 'w-arrange', count: 9 }, { type: 'w-hanzi', count: 4 }] },
+    ],
+  },
+  {
     id: 'en1',
     course: 'en',
     title: 'Tiếng Anh sơ cấp',

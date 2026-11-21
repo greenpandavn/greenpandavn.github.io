@@ -705,7 +705,7 @@
   ]},
   {"id":"h7-51","title":"Hành động 17","desc":"Động từ thường dùng","icon":"克","unit":84,"order":4690,"words":[
    {"id":"h7-51-克隆","hanzi":"克隆","pinyin":"kèlóng","vi":"nhân bản vô tính","ex":{"tokens":["科学家","成功","地","克隆","了","一","只","羊","。"],"py":["kēxuéjiā","chénggōng","de","kèlóng","le","yì","zhī","yáng","."],"vi":"Các nhà khoa học đã nhân bản thành công một con cừu.","alts":[]}},
-   {"id":"h7-51-裹","hanzi":"裹","pinyin":"guǒ","vi":"quấn, bọc","ex":{"tokens":["她","用","毯子","把","孩子","裹","了","起来","。"],"py":["tā","yòng","tǎnzǐ","bǎ","háizi","guǒ","le","qilai","."],"vi":"Cô ấy lấy chăn quấn đứa bé lại.","alts":[]}},
+   {"id":"h7-51-裹","hanzi":"裹","pinyin":"guǒ","vi":"quấn, bọc","ex":{"tokens":["她","用","毯子","把","孩子","裹","了","起来","。"],"py":["tā","yòng","tǎnzi","bǎ","háizi","guǒ","le","qilai","."],"vi":"Cô ấy lấy chăn quấn đứa bé lại.","alts":[]}},
    {"id":"h7-51-皱","hanzi":"皱","pinyin":"zhòu","vi":"nhăn, nhíu","ex":{"tokens":["他","皱","着","眉头","看","那","封","信","。"],"py":["tā","zhòu","zhe","méitóu","kàn","nà","fēng","xìn","."],"vi":"Anh ấy nhíu mày đọc lá thư đó.","alts":[]}},
    {"id":"h7-51-丢掉","hanzi":"丢掉","pinyin":"diūdiào","vi":"vứt bỏ; đánh mất","ex":{"tokens":["把","这些","旧","报纸","丢掉","吧","。"],"py":["bǎ","zhèxiē","jiù","bàozhǐ","diūdiào","ba","."],"vi":"Vứt mấy tờ báo cũ này đi.","alts":[]}},
    {"id":"h7-51-赴","hanzi":"赴","pinyin":"fù","vi":"đi đến, tới dự","ex":{"tokens":["他","下","个","月","赴","美国","留学","。"],"py":["tā","xià","ge","yuè","fù","měiguó","liúxué","."],"vi":"Tháng sau anh ấy sang Mỹ du học.","alts":[]}},
