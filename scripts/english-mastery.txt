@@ -567,3 +567,116 @@ delicacy|món ngon hiếm, đặc sản|This fish is a delicacy in Japan.|Loại
 appetizer|món khai vị|We shared an appetizer before the main course.|Chúng tôi ăn chung một món khai vị trước món chính.
 gourmet|sành ăn; cao cấp (đồ ăn)|They opened a gourmet restaurant downtown.|Họ mở một nhà hàng cao cấp ở trung tâm.
 entrée|món chính|I ordered fish as my entrée.|Tôi gọi cá làm món chính.
+
+
+@x41|Đồ uống|Rượu vang, pha chế, chưng cất, cà phê|Drink
+vintage|niên vụ rượu; cổ điển|This vintage is the best in ten years.|Niên vụ này là ngon nhất trong mười năm.
+sommelier|chuyên gia rượu vang|The sommelier suggested a dry white wine.|Chuyên gia rượu vang gợi ý một loại vang trắng không ngọt.
+brew|pha (trà, cà phê); ủ bia|Let the tea brew for three minutes.|Hãy để trà ngấm trong ba phút.
+distill|chưng cất|They distill whisky from local grain.|Họ chưng cất rượu whisky từ ngũ cốc địa phương.
+carafe|bình đựng nước, rượu trên bàn ăn|The waiter brought a carafe of water.|Người phục vụ mang ra một bình nước.
+cork|nút bần|He pulled the cork out of the bottle.|Anh ấy rút nút bần ra khỏi chai.
+decanter|bình thủy tinh đựng rượu|Pour the wine into a decanter first.|Hãy rót rượu vào bình trước.
+espresso|cà phê espresso|I drink an espresso after lunch.|Tôi uống một ly espresso sau bữa trưa.
+infusion|trà thảo mộc; sự ngâm|She drinks a herbal infusion before bed.|Cô ấy uống trà thảo mộc trước khi ngủ.
+barista|nhân viên pha cà phê|The barista knows my order by heart.|Nhân viên pha cà phê thuộc lòng món tôi hay gọi.
+aperitif|rượu khai vị|We had an aperitif on the terrace.|Chúng tôi uống rượu khai vị trên sân thượng.
+tannin|chất chát (tanin)|Strong tea is full of tannin.|Trà đặc chứa nhiều chất chát.
+
+@x42|Thể thao chuyên sâu|Trọng tài, việt vị, tiếp sức, bục nhận giải|Sport
+linesman|trọng tài biên|The linesman raised his flag.|Trọng tài biên giơ cờ lên.
+umpire|trọng tài (quần vợt, bóng chày)|The umpire called the ball out.|Trọng tài tuyên bố bóng ra ngoài.
+volley|cú vô lê|He scored with a volley from the edge of the box.|Anh ấy ghi bàn bằng một cú vô lê từ rìa vòng cấm.
+offside|việt vị|The goal was not allowed because he was offside.|Bàn thắng không được công nhận vì anh ấy việt vị.
+dribble|rê bóng|She can dribble past three defenders.|Cô ấy có thể rê bóng qua ba hậu vệ.
+tackle|pha tranh bóng; giải quyết|A late tackle injured the striker.|Một pha tranh bóng muộn làm tiền đạo bị thương.
+sprint|chạy nước rút|He won the hundred-meter sprint.|Anh ấy thắng cuộc chạy nước rút một trăm mét.
+relay|chạy tiếp sức; chuyển tiếp|Our team came second in the relay.|Đội chúng tôi về nhì trong cuộc chạy tiếp sức.
+javelin|cây lao, môn ném lao|She threw the javelin sixty meters.|Cô ấy ném lao xa sáu mươi mét.
+hurdle|rào (chạy vượt rào); trở ngại|He fell at the last hurdle.|Anh ấy ngã ở hàng rào cuối cùng.
+podium|bục nhận giải, bục phát biểu|Three runners stood on the podium.|Ba vận động viên chạy đứng trên bục nhận giải.
+doping|việc dùng chất kích thích|He was banned for doping.|Anh ấy bị cấm thi đấu vì dùng chất kích thích.
+
+@x43|Mạo hiểm|Thám hiểm, khe băng, tuyết lở, la bàn|Trek
+expedition|cuộc thám hiểm|The expedition reached the pole in January.|Đoàn thám hiểm tới cực vào tháng Một.
+trek|chuyến đi bộ đường dài; đi bộ dài ngày|The trek to the lake takes two days.|Chuyến đi bộ tới hồ mất hai ngày.
+ridge|sống núi, dãy đồi|We walked along the ridge at sunrise.|Chúng tôi đi dọc sống núi lúc bình minh.
+crevasse|khe nứt băng|A climber fell into a crevasse.|Một người leo núi rơi xuống khe nứt băng.
+avalanche|tuyết lở|An avalanche blocked the road.|Một trận tuyết lở chặn con đường.
+kayak|thuyền kayak|We crossed the bay by kayak.|Chúng tôi vượt vịnh bằng thuyền kayak.
+rappel|đu dây xuống vách núi|They had to rappel down the cliff.|Họ phải đu dây xuống vách đá.
+bivouac|chỗ trú tạm ngoài trời; ngủ ngoài trời|We made a bivouac under a rock.|Chúng tôi dựng chỗ trú tạm dưới một tảng đá.
+compass|la bàn|Use a compass if the path disappears.|Hãy dùng la bàn nếu lối mòn biến mất.
+terrain|địa hình|The terrain is too rough for cars.|Địa hình quá gồ ghề đối với ô tô.
+wilderness|vùng hoang dã|They spent a month in the wilderness.|Họ sống một tháng ở vùng hoang dã.
+outpost|tiền đồn, trạm xa xôi|The last outpost is fifty miles away.|Tiền đồn cuối cùng cách đây năm mươi dặm.
+
+@x44|Nhiếp ảnh|Khẩu độ, màn trập, phơi sáng, chân máy|Photo
+aperture|khẩu độ|A wide aperture lets in more light.|Khẩu độ rộng cho nhiều ánh sáng lọt vào hơn.
+shutter|màn trập; cửa chớp|Press the shutter gently.|Hãy bấm màn trập nhẹ nhàng.
+exposure|sự phơi sáng; sự tiếp xúc|A long exposure makes water look smooth.|Phơi sáng lâu làm mặt nước trông mịn.
+tripod|chân máy ba chân|Put the camera on a tripod.|Hãy đặt máy ảnh lên chân máy.
+lens|ống kính, thấu kính|Clean the lens with a soft cloth.|Hãy lau ống kính bằng vải mềm.
+viewfinder|khung ngắm|Look through the viewfinder.|Hãy nhìn qua khung ngắm.
+negative|phim âm bản; tiêu cực|He kept every negative in a box.|Ông ấy giữ mọi tấm phim âm bản trong một chiếc hộp.
+darkroom|phòng tối rửa ảnh|She prints her photos in a darkroom.|Cô ấy in ảnh trong phòng tối.
+zoom|phóng to, thu nhỏ (ống kính)|Zoom in on the bird.|Hãy phóng to vào con chim.
+panorama|toàn cảnh, ảnh toàn cảnh|The tower offers a panorama of the city.|Tòa tháp cho thấy toàn cảnh thành phố.
+filter|kính lọc; lọc|A red filter makes the sky darker.|Kính lọc đỏ làm bầu trời tối hơn.
+composition|bố cục; bài luận; thành phần|The composition of this photo is perfect.|Bố cục của bức ảnh này thật hoàn hảo.
+
+@x45|Thủ công|Đan, móc, dệt, chạm khắc, sơn mài|Craft
+knit|đan (len)|My grandmother can knit a scarf in one evening.|Bà tôi có thể đan một chiếc khăn trong một buổi tối.
+crochet|móc (len)|She learned to crochet from a video.|Cô ấy học móc len qua video.
+weave|dệt, đan|They weave baskets from bamboo.|Họ đan giỏ bằng tre.
+loom|khung cửi|The loom stands by the window.|Khung cửi đặt cạnh cửa sổ.
+enamel|men (tráng); tráng men|The bowl is covered with blue enamel.|Chiếc bát được phủ men xanh.
+kiln|lò nung|The pots stay in the kiln overnight.|Những chiếc bình nằm trong lò nung qua đêm.
+carve|chạm khắc|He can carve a bird from a piece of wood.|Ông ấy có thể khắc một con chim từ một khúc gỗ.
+whittle|vót, gọt (gỗ)|He likes to whittle sticks by the fire.|Anh ấy thích vót que bên đống lửa.
+origami|nghệ thuật gấp giấy|She made a paper crane with origami.|Cô ấy gấp một con hạc giấy theo kiểu origami.
+quilt|chăn chần bông|A warm quilt lay on the bed.|Một chiếc chăn bông ấm nằm trên giường.
+stitch|mũi khâu; khâu|Each stitch must be the same size.|Mỗi mũi khâu phải bằng nhau.
+lacquer|sơn mài|The box is finished with black lacquer.|Chiếc hộp được hoàn thiện bằng sơn mài đen.
+
+@x46|Làm vườn|Tỉa cành, phân ủ, giàn leo, gieo hạt|Garden
+prune|tỉa cành|Prune the roses in early spring.|Hãy tỉa hoa hồng vào đầu mùa xuân.
+pollinate|thụ phấn|Bees pollinate the apple trees.|Ong thụ phấn cho những cây táo.
+compost|phân ủ; ủ phân|We turn kitchen waste into compost.|Chúng tôi biến rác bếp thành phân ủ.
+mulch|lớp phủ gốc|Mulch keeps the soil wet.|Lớp phủ gốc giữ ẩm cho đất.
+trellis|giàn leo|The beans climb up a trellis.|Cây đậu leo lên giàn.
+bulb|củ (hoa); bóng đèn|Plant each bulb in autumn.|Hãy trồng từng củ vào mùa thu.
+sow|gieo hạt|Sow the seeds in rows.|Hãy gieo hạt thành hàng.
+weed|cỏ dại; nhổ cỏ|Pull out every weed before it flowers.|Hãy nhổ từng cây cỏ dại trước khi nó ra hoa.
+rake|cái cào; cào|Use a rake to collect the leaves.|Hãy dùng cào để gom lá.
+sapling|cây non|We planted a sapling for each child.|Chúng tôi trồng một cây non cho mỗi đứa trẻ.
+topiary|nghệ thuật cắt tỉa cây cảnh|The garden is known for its topiary.|Khu vườn nổi tiếng với nghệ thuật tỉa cây cảnh.
+orchard|vườn cây ăn quả|Their orchard has two hundred apple trees.|Vườn cây của họ có hai trăm cây táo.
+
+@x47|Lễ nghi|Đăng quang, nhậm chức, yến tiệc, điếu văn|Ceremony
+coronation|lễ đăng quang|Millions watched the coronation on television.|Hàng triệu người xem lễ đăng quang trên truyền hình.
+inauguration|lễ nhậm chức, lễ khánh thành|The inauguration takes place in January.|Lễ nhậm chức diễn ra vào tháng Một.
+procession|đám rước|The procession moved slowly through the town.|Đám rước di chuyển chậm rãi qua thị trấn.
+banquet|yến tiệc|A banquet was held for the visitors.|Một buổi yến tiệc được tổ chức cho các vị khách.
+toast|lời chúc rượu; bánh mì nướng|He raised his glass for a toast.|Anh ấy nâng ly để chúc rượu.
+etiquette|phép xã giao, nghi thức|Table etiquette differs from country to country.|Phép lịch sự trên bàn ăn khác nhau giữa các nước.
+vow|lời thề; thề|They kept every vow they made.|Họ giữ mọi lời thề mình đã hứa.
+christening|lễ rửa tội đặt tên|The whole family came to the christening.|Cả gia đình đến dự lễ rửa tội.
+homage|sự tôn kính, lòng kính trọng|The film pays homage to old westerns.|Bộ phim bày tỏ lòng kính trọng với phim cao bồi xưa.
+jubilee|lễ kỷ niệm lớn (25, 50 năm)|The school celebrated its golden jubilee.|Ngôi trường tổ chức lễ kỷ niệm năm mươi năm.
+wreath|vòng hoa|She laid a wreath at the memorial.|Bà ấy đặt vòng hoa tại đài tưởng niệm.
+eulogy|bài điếu văn|His son gave the eulogy.|Con trai ông ấy đọc điếu văn.
+
+@x48|Cờ và trò chơi|Chiếu hết, quân cờ, nước thí, câu đố|Game
+checkmate|chiếu hết|She won with a checkmate in ten moves.|Cô ấy thắng bằng nước chiếu hết sau mười nước.
+pawn|quân tốt; con tốt thí|He lost a pawn early in the game.|Anh ấy mất một quân tốt ngay đầu ván.
+rook|quân xe|Move your rook to the open file.|Hãy đưa quân xe của bạn vào cột mở.
+bishop|quân tượng; giám mục|The bishop moves diagonally.|Quân tượng đi theo đường chéo.
+gambit|nước thí quân; nước cờ mạo hiểm|His opening gambit surprised everyone.|Nước thí quân mở đầu của anh ấy khiến mọi người bất ngờ.
+stalemate|thế hòa bí; thế bế tắc|The game ended in a stalemate.|Ván cờ kết thúc trong thế hòa.
+checkers|cờ đam|My grandfather taught me to play checkers.|Ông tôi dạy tôi chơi cờ đam.
+domino|quân đô-mi-nô|One domino knocked over all the others.|Một quân đô-mi-nô làm đổ tất cả những quân còn lại.
+trump|quân bài chủ; thắng thế|Hearts are the trump suit in this round.|Chất cơ là chất chủ trong ván này.
+bluff|đánh lừa, tháu cáy|I knew that he was trying to bluff.|Tôi biết anh ta đang cố tháu cáy.
+jigsaw|trò chơi ghép hình|We finished the jigsaw in two days.|Chúng tôi hoàn thành bộ ghép hình trong hai ngày.
+riddle|câu đố|Can you solve this riddle?|Bạn có giải được câu đố này không?
