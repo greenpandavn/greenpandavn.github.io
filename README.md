@@ -28,7 +28,7 @@ npm test         # kiểm thử logic gộp/di chuyển tiến độ (Vitest)
 - **Tài khoản + đồng bộ đám mây** (Firebase Auth + Cloud Firestore): đăng ký/đăng nhập bằng email + mật khẩu hoặc Google, quên mật khẩu, đổi tên hiển thị. Lưu toàn bộ tiến độ theo người dùng: bài đã học, XP, chuỗi ngày, đá quý, mức thuộc từng từ, huy hiệu, kết quả kiểm tra, chứng chỉ.
   - Không đăng nhập vẫn học đầy đủ như trước (lưu `localStorage`).
   - Lần đầu đăng nhập: tiến độ trên máy được **gộp** vào tài khoản (giữ XP/chuỗi ngày cao hơn, hợp nhất bài học, từ, huy hiệu, chứng chỉ). Mỗi tài khoản chỉ gộp một lần.
-  - Sau khi đăng nhập, đám mây là nguồn dữ liệu chính; mọi thay đổi được đồng bộ (sau ~0,6 giây). Khi mất mạng, Firestore xếp hàng các thao tác ghi (bộ nhớ đệm IndexedDB) và gửi lại khi có mạng; bản sao theo tài khoản cũng được giữ trong `localStorage`.
+  - Sau khi đăng nhập, đám mây là nguồn dữ liệu chính; mọi thay đổi được đồng bộ (sau ~0,6 giây). Khi mất mạng, thay đổi được lưu vào bản sao theo tài khoản trong `localStorage` và tự gửi lại toàn bộ khi có mạng (hoặc ở lần mở/đăng nhập tiếp theo, gộp với dữ liệu đám mây).
 - **Bảng xếp hạng** tuần (thứ Hai–Chủ nhật) và mọi thời đại: top 20 + hạng của bạn. Khách xem ở chế độ chỉ đọc.
 - **Kiểm tra cuối phần** (Phần 1, 2, 3): 10 câu (nghe, nghĩa, pinyin, sắp xếp câu), đạt từ 80% nhận **chứng chỉ** (tên, phần, điểm, ngày). Xem, tải PDF (hộp thoại in của trình duyệt), chia sẻ trong mục “Chứng chỉ của tôi” ở Hồ sơ.
 - **Chia sẻ thành tích** (chuỗi ngày, mốc XP, chứng chỉ): Web Share API, dự phòng sao chép vào bộ nhớ tạm + nút Facebook/Zalo.
