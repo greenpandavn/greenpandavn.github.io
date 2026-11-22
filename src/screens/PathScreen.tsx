@@ -28,7 +28,7 @@ const NODE_GLYPH: Record<string, string> = {
   bonusfood: '饺', bonusbody: '手',
 };
 
-export default function PathScreen({ onStart, onTest, onMock }: { onStart: (lessonId: string) => void; onTest: (unit: number) => void; onMock: () => void }) {
+export default function PathScreen({ onStart, onTest, onMock, onGame }: { onStart: (lessonId: string) => void; onTest: (unit: number) => void; onMock: () => void; onGame: () => void }) {
   const p = useProgress();
   useContentVersion();
   const en = isEnglish();
@@ -81,6 +81,18 @@ export default function PathScreen({ onStart, onTest, onMock }: { onStart: (less
           </span>
         </button>
       )}
+      <button type="button" className="card mb-4 flex w-full items-center gap-3 text-left" onClick={onGame} data-testid="open-game">
+        <span className="flex h-11 w-11 shrink-0 items-center justify-center rounded-xl bg-leaf-100 text-2xl" aria-hidden>
+          🎮
+        </span>
+        <span className="min-w-0 flex-1">
+          <span className="block font-black text-ink-700">Trò chơi</span>
+          <span className="block text-xs font-bold text-ink-400">Đúng hay Sai · 10 câu, 60 giây · +10 XP mỗi câu đúng</span>
+        </span>
+        <span className="text-xl font-black text-ink-300" aria-hidden>
+          ›
+        </span>
+      </button>
       {levels.length > 1 && (
         <div className="mb-5 flex flex-wrap items-center gap-2" data-testid="level-nav">
           <span className="text-xs font-extrabold uppercase text-ink-400">Cấp độ:</span>

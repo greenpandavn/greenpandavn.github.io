@@ -29,6 +29,7 @@ const screens = {
   friends: () => import('./screens/FriendsScreen'),
   auth: () => import('./screens/AuthScreen'),
   mock: () => import('./screens/MockScreen'),
+  game: () => import('./screens/GameScreen'),
 };
 const LessonScreen = lazy(screens.lesson);
 const ReviewScreen = lazy(screens.review);
@@ -38,6 +39,7 @@ const LeaderboardScreen = lazy(screens.rank);
 const FriendsScreen = lazy(screens.friends);
 const AuthScreen = lazy(screens.auth);
 const MockScreen = lazy(screens.mock);
+const GameScreen = lazy(screens.game);
 const AdminScreen = lazy(() => import('./admin/AdminScreen'));
 const Loading = () => (
   <div className="flex min-h-[60dvh] items-center justify-center" data-testid="screen-loading">
@@ -58,6 +60,7 @@ export default function App() {
   const [authOpen, setAuthOpen] = useState(() => window.location.hash === '#/auth');
   const [adminOpen, setAdminOpen] = useState(() => window.location.hash === '#/admin');
   const [mockOpen, setMockOpen] = useState(() => window.location.hash === '#/mock');
+  const [gameOpen, setGameOpen] = useState(() => window.location.hash === '#/game');
   const acc = useAccount();
   const [session, setSession] = useState<SessionMode | null>(null);
   useEffect(() => {
@@ -136,6 +139,7 @@ export default function App() {
       setAuthOpen(window.location.hash === '#/auth');
       setAdminOpen(window.location.hash === '#/admin');
       setMockOpen(window.location.hash === '#/mock');
+      setGameOpen(window.location.hash === '#/game');
     };
     window.addEventListener('hashchange', onHash);
     return () => window.removeEventListener('hashchange', onHash);
@@ -145,6 +149,7 @@ export default function App() {
     window.location.hash = `/${t}`;
     setTab(t);
     setMockOpen(false);
+    setGameOpen(false);
     window.scrollTo(0, 0);
   };
 
@@ -193,6 +198,17 @@ export default function App() {
         {toast}
         <Suspense fallback={<Loading />}>
           <MockScreen onClose={() => changeTab('learn')} />
+        </Suspense>
+      </>
+    );
+
+  // 'Trò chơi': a casual mini-game (no hearts), guests included.
+  if (gameOpen && !session && courseChosen())
+    return (
+      <>
+        {toast}
+        <Suspense fallback={<Loading />}>
+          <GameScreen onClose={() => changeTab('learn')} />
         </Suspense>
       </>
     );
@@ -249,6 +265,11 @@ export default function App() {
           onMock={() => {
             window.location.hash = '/mock';
             setMockOpen(true);
+            window.scrollTo(0, 0);
+          }}
+          onGame={() => {
+            window.location.hash = '/game';
+            setGameOpen(true);
             window.scrollTo(0, 0);
           }}
         />
