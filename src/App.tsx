@@ -203,7 +203,7 @@ export default function App() {
     );
 
   // 'Trò chơi': a casual mini-game (no hearts), guests included.
-  if (gameOpen && !session && courseChosen())
+  if (gameOpen && !session && (courseChosen() || p.settings.level))
     return (
       <>
         {toast}

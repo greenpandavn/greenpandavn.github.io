@@ -18,6 +18,45 @@ const splash = (c: string, edge = "none") =>
 const face = (skin: string) =>
   `<circle cx="50" cy="54" r="27" fill="${skin}"/>${eyes(54, 40, 60, 3.5)}`;
 
+const bust = (shirt: string, skin = "#f2c9a0") =>
+  `<path d="M22 100c0-22 12-28 28-28s28 6 28 28z" fill="${shirt}"/>${face(skin)}`;
+const shortHair = (c: string) =>
+  `<path d="M23 50c-2-22 12-32 28-32 14 0 28 8 26 32-6-10-14-16-26-16s-22 6-28 16z" fill="${c}"/>`;
+const blush = `<circle cx="34" cy="62" r="4" fill="#f7a8b8"/><circle cx="66" cy="62" r="4" fill="#f7a8b8"/>`;
+const star = (x: number, y: number, r: number, c = "#ffde00") => {
+  const pts = Array.from({ length: 10 }, (_, i) => {
+    const a = (Math.PI * (i * 36 - 90)) / 180;
+    const d = i % 2 ? r * 0.4 : r;
+    return `${(x + d * Math.cos(a)).toFixed(1)},${(y + d * Math.sin(a)).toFixed(1)}`;
+  });
+  return `<polygon points="${pts.join(" ")}" fill="${c}"/>`;
+};
+const flag = (inner: string) =>
+  `<rect x="8" y="6" width="6" height="90" rx="3" fill="#8a5a33"/><path d="M14 12q20-8 40 0t40 0v50q-20 8-40 0t-40 0z" fill="#e5383b"/>${inner}`;
+const TILE = [
+  "#4aa3f0",
+  "#58cc02",
+  "#ff9f1c",
+  "#e5383b",
+  "#8e4ec6",
+  "#1cb0a8",
+  "#f58fb5",
+  "#2f7fd0",
+  "#8a5a33",
+  "#3fae2a",
+];
+/** A number card: the numeral with as many dots. */
+const num = (n: number) =>
+  `<rect x="10" y="6" width="80" height="88" rx="16" fill="${TILE[n - 1]}"/><rect x="16" y="12" width="68" height="76" rx="11" fill="#fff" fill-opacity=".18"/>` +
+  `<text x="50" y="${n === 10 ? 60 : 62}" text-anchor="middle" font-size="${n === 10 ? 50 : 58}" font-weight="900" font-family="inherit" fill="#fff">${n}</text>` +
+  Array.from(
+    { length: n },
+    (_, i) =>
+      `<circle cx="${50 + (i - (n - 1) / 2) * 7}" cy="78" r="2.6" fill="#fff"/>`,
+  ).join("");
+const thermo = (c: string, top: number) =>
+  `<rect x="24" y="6" width="20" height="66" rx="10" fill="#fff" stroke="#9fb4c9" stroke-width="3"/><circle cx="34" cy="78" r="16" fill="#fff" stroke="#9fb4c9" stroke-width="3"/><circle cx="34" cy="78" r="11" fill="${c}"/><rect x="30" y="${top}" width="8" height="${74 - top}" rx="4" fill="${c}"/>`;
+
 export const ART: Record<string, string> = {
   // animals
   cat: `<path d="M22 32 26 8l22 14zM78 32 74 8 52 22z" fill="#f4a13a"/><circle cx="50" cy="55" r="33" fill="#f4a13a"/>${eyes(49)}<path d="M45 60h10l-5 6z" fill="#e8607a"/><path d="M50 66q-6 8-12 3M50 66q6 8 12 3M21 58 6 55M21 65 6 68M79 58l15-3M79 65l15 3" ${L}/>`,
@@ -119,6 +158,71 @@ export const ART: Record<string, string> = {
   brown: splash("#8a5a33"),
   pink: splash("#f58fb5"),
   gray: splash("#9aa0a6"),
+  // people
+  happy: `<circle cx="50" cy="50" r="42" fill="#ffd93b"/><path d="M28 42q7-9 14 0M58 42q7-9 14 0" ${L}/><path d="M28 56h44c0 16-10 24-22 24S28 72 28 56z" fill="#7a2e1d"/><path d="M36 72q14-10 28 0-6 8-14 8t-14-8z" fill="#f2637a"/><circle cx="20" cy="56" r="6" fill="#ffb347"/><circle cx="80" cy="56" r="6" fill="#ffb347"/>`,
+  person: `<circle cx="50" cy="20" r="14" fill="#f2c9a0"/><path d="M36 18c0-10 6-14 14-14s14 4 14 14c-4-5-9-7-14-7s-10 2-14 7z" fill="#4b2e1a"/><rect x="34" y="36" width="32" height="34" rx="9" fill="#58cc02"/><rect x="22" y="38" width="10" height="28" rx="5" fill="#58cc02"/><rect x="68" y="38" width="10" height="28" rx="5" fill="#58cc02"/><rect x="36" y="66" width="12" height="30" rx="5" fill="#3b82c4"/><rect x="52" y="66" width="12" height="30" rx="5" fill="#3b82c4"/>`,
+  friends: `<path d="M4 100c0-18 10-24 24-24s24 6 24 24z" fill="#4aa3f0"/><path d="M48 100c0-18 10-24 24-24s24 6 24 24z" fill="#ff9f1c"/><circle cx="28" cy="56" r="20" fill="#f2c9a0"/><circle cx="72" cy="56" r="20" fill="#f7d3b0"/><path d="M8 54c-1-16 9-22 20-22s21 6 20 22c-5-7-11-10-20-10S13 47 8 54z" fill="#4b2e1a"/><path d="M52 58c-2-18 8-26 20-26s22 8 20 26c-4-9-10-14-20-14s-16 5-20 14z" fill="#7a4a2a"/>${eyes(57, 21, 35, 2.8)}${eyes(57, 65, 79, 2.8)}<path d="M22 65q6 5 12 0M66 65q6 5 12 0" ${L}/><path d="M50 14c-4-7-14-3-10 5 2 4 6 7 10 10 4-3 8-6 10-10 4-8-6-12-10-5z" fill="#e5383b"/>`,
+  boy: `${bust("#4aa3f0")}${shortHair("#4b2e1a")}<path d="M24 46c10-14 36-18 54-4l10-2c-2-8-10-10-16-10C66 20 34 18 24 46z" fill="#e5383b"/>${smile(64, 7)}${blush}`,
+  girl: `<circle cx="18" cy="46" r="11" fill="#7a4a2a"/><circle cx="82" cy="46" r="11" fill="#7a4a2a"/>${bust("#f58fb5", "#f7d3b0")}<path d="M23 52c0-20 12-30 27-30s27 10 27 30c-8-8-16-12-27-12s-19 4-27 12z" fill="#7a4a2a"/><path d="M12 34l10 6-10 6zM30 34l-10 6 10 6zM88 34l-10 6 10 6zM70 34l10 6-10 6z" fill="#e5383b"/>${smile(64, 7)}${blush}`,
+  man: `${bust("#5b6b7a")}${shortHair("#3a2a1e")}<path d="M27 62c2 18 12 24 23 24s21-6 23-24c-6 8-14 10-23 10s-17-2-23-10z" fill="#3a2a1e"/><path d="M43 70q7 5 14 0" stroke="#f2c9a0" stroke-width="3" stroke-linecap="round" fill="none"/><path d="M40 78l10 10 10-10" stroke="#fff" stroke-width="4" fill="none"/>`,
+  woman: `<path d="M18 44c0-20 14-30 32-30s32 10 32 30v52H18z" fill="#3a2a1e"/>${bust("#8e4ec6", "#f7d3b0")}<path d="M23 52c0-20 12-30 27-30s27 10 27 30c-12-2-22-8-27-18-5 10-15 16-27 18z" fill="#3a2a1e"/><path d="M42 64q8 7 16 0z" fill="#e5383b"/><circle cx="24" cy="66" r="3.5" fill="#ffd93b"/><circle cx="76" cy="66" r="3.5" fill="#ffd93b"/><path d="M40 80q10 8 20 0" stroke="#ffd93b" stroke-width="3" fill="none"/>`,
+  teacher: `<rect x="4" y="6" width="74" height="52" rx="5" fill="#2f7d4f" stroke="#a9703f" stroke-width="5"/><path d="M14 22h22M14 34h34M14 46h16" stroke="#fff" stroke-width="4" stroke-linecap="round"/><path d="M52 20l6 6 12-12" stroke="#ffd93b" stroke-width="4" fill="none" stroke-linecap="round"/><path d="M44 100c0-16 9-22 22-22s22 6 22 22z" fill="#e8607a"/><circle cx="66" cy="62" r="18" fill="#f7d3b0"/><path d="M47 62c-2-16 8-22 19-22s21 6 19 22c-5-7-10-10-19-10s-14 3-19 10z" fill="#4b2e1a"/><circle cx="59" cy="63" r="5.500" fill="#fff" fill-opacity=".5" stroke="${K}" stroke-width="2"/><circle cx="73" cy="63" r="5.500" fill="#fff" fill-opacity=".5" stroke="${K}" stroke-width="2"/><path d="M61 72q5 4 10 0" ${L}/><path d="M48 84 30 50" stroke="#a9703f" stroke-width="4" stroke-linecap="round"/>`,
+  student: `${bust("#fff")}<path d="M40 76l10 12 10-12" fill="none" stroke="#2f7fd0" stroke-width="5"/>${shortHair("#4b2e1a")}<path d="M50 6 8 24l42 18 42-18z" fill="#2b3a55"/><path d="M26 32v12c14 10 34 10 48 0V32L50 42z" fill="#3b4f73"/><path d="M84 26v20" stroke="#ffd93b" stroke-width="3"/><circle cx="84" cy="48" r="4" fill="#ffd93b"/>${smile(64, 7)}`,
+  doctor: `${bust("#fff")}<path d="M22 100c0-22 12-28 28-28s28 6 28 28" fill="none" stroke="#9fb4c9" stroke-width="2.5"/>${shortHair("#4b2e1a")}<rect x="30" y="14" width="40" height="18" rx="6" fill="#fff" stroke="#9fb4c9" stroke-width="2.5"/><path d="M50 17v12M44 23h12" stroke="#e5383b" stroke-width="4" stroke-linecap="round"/>${smile(64, 7)}<path d="M38 76c0 14 6 18 12 18s12-4 12-18" fill="none" stroke="#3a3a3a" stroke-width="3"/><circle cx="62" cy="92" r="5" fill="#9fb4c9" stroke="#3a3a3a" stroke-width="2"/>`,
+  head: `<rect x="40" y="70" width="20" height="24" rx="6" fill="#e9b98c"/><circle cx="22" cy="50" r="8" fill="#f2c9a0"/><circle cx="78" cy="50" r="8" fill="#f2c9a0"/><circle cx="50" cy="46" r="30" fill="#f2c9a0"/><path d="M20 44c-2-22 14-32 30-32s32 10 30 32c-6-10-16-16-30-16s-24 6-30 16z" fill="#4b2e1a"/>${eyes(48, 40, 60, 3.5)}${smile(58, 7)}<path d="M50 50v5" ${L}/>`,
+  body: `<circle cx="50" cy="16" r="12" fill="#f2c9a0"/><path d="M38 30h24l22 20-7 8-13-10v18H36V48L23 58l-7-8z" fill="#f2c9a0"/><rect x="36" y="62" width="28" height="14" rx="3" fill="#4aa3f0"/><rect x="36" y="74" width="12" height="22" rx="5" fill="#f2c9a0"/><rect x="52" y="74" width="12" height="22" rx="5" fill="#f2c9a0"/>`,
+  // places and flags
+  shop: `<rect x="12" y="38" width="76" height="54" fill="#fbe9cf"/><path d="M6 14h88l-4 26H10z" fill="#fff"/><path d="M6 14h13l-1 26h-8zM32 14h12v26H31zM56 14h12l1 26H56zM81 14h13l-4 26h-8z" fill="#e5383b"/><path d="M10 40q5.500 8 10.500 0 5.500 8 10.500 0 6 8 12 0 6.500 8 13 0 6 8 12 0 5.500 8 11 0 5 8 10.500 0" fill="none" stroke="#e5383b" stroke-width="3"/><rect x="20" y="52" width="26" height="22" rx="2" fill="#7fd0ff" stroke="#fff" stroke-width="3"/><rect x="58" y="52" width="20" height="40" rx="2" fill="#a9703f"/><circle cx="62" cy="74" r="2" fill="#ffd93b"/><rect x="6" y="90" width="88" height="6" rx="3" fill="#b9bfc7"/>`,
+  restaurant: `<circle cx="50" cy="50" r="30" fill="#fff" stroke="#9fb4c9" stroke-width="3"/><circle cx="50" cy="50" r="19" fill="#eef3f8"/><path d="M12 10v22M6 10v14c0 5 3 8 6 8s6-3 6-8V10M12 32v58" stroke="#8b96a3" stroke-width="4" stroke-linecap="round" fill="none"/><path d="M90 90V10c-8 6-10 18-8 34h8" fill="#b9bfc7" stroke="#8b96a3" stroke-width="3" stroke-linejoin="round"/>`,
+  china: flag(
+    star(34, 30, 11) +
+      star(52, 18, 4) +
+      star(60, 27, 4) +
+      star(60, 39, 4) +
+      star(52, 48, 4),
+  ),
+  vietnam: flag(star(54, 37, 17)),
+  company: `<rect x="22" y="6" width="56" height="88" rx="4" fill="#7c9cc4"/><g fill="#d6ecff"><rect x="30" y="14" width="10" height="10"/><rect x="45" y="14" width="10" height="10"/><rect x="60" y="14" width="10" height="10"/><rect x="30" y="30" width="10" height="10"/><rect x="45" y="30" width="10" height="10"/><rect x="60" y="30" width="10" height="10"/><rect x="30" y="46" width="10" height="10"/><rect x="45" y="46" width="10" height="10"/><rect x="60" y="46" width="10" height="10"/><rect x="30" y="62" width="10" height="10"/><rect x="60" y="62" width="10" height="10"/></g><rect x="43" y="68" width="14" height="26" fill="#3b4f73"/><rect x="8" y="92" width="84" height="5" rx="2.5" fill="#b9bfc7"/>`,
+  road: `<path d="M0 0h100v40H0z" fill="#bfe6ff"/><path d="M0 40h100v60H0z" fill="#7ec850"/><path d="M40 40h20l30 60H10z" fill="#6b7480"/><path d="M50 44v8M50 60v10M50 80v14" stroke="#fff" stroke-width="4" stroke-linecap="round"/><circle cx="80" cy="18" r="9" fill="#ffd93b"/>`,
+  // numbers
+  n1: num(1),
+  n2: num(2),
+  n3: num(3),
+  n4: num(4),
+  n5: num(5),
+  n6: num(6),
+  n7: num(7),
+  n8: num(8),
+  n9: num(9),
+  n10: num(10),
+  // actions
+  eat: `<circle cx="44" cy="54" r="38" fill="#ffd93b"/>${eyes(42, 30, 54, 4)}<ellipse cx="44" cy="68" rx="14" ry="12" fill="#7a2e1d"/><path d="M96 26 62 60" stroke="#b9bfc7" stroke-width="5" stroke-linecap="round"/><ellipse cx="56" cy="66" rx="10" ry="7" transform="rotate(-45 56 66)" fill="#dfe3e8"/><circle cx="55" cy="67" r="5" fill="#ff9f1c"/>`,
+  drink: `<path d="M26 26h48l-7 66H33z" fill="#fff" fill-opacity=".7" stroke="#9fb4c9" stroke-width="3"/><path d="M29 46h42l-5 44H34z" fill="#ff9f1c"/><path d="M60 46 72 6l14-2" stroke="#e5383b" stroke-width="5" stroke-linecap="round" fill="none"/><circle cx="42" cy="62" r="4" fill="#fff" fill-opacity=".6"/><circle cx="54" cy="76" r="3" fill="#fff" fill-opacity=".6"/><path d="M22 22a12 12 0 0 1 20-6" fill="#ffd93b"/>`,
+  sleep: `<rect x="4" y="60" width="92" height="34" rx="14" fill="#cfe5ff"/><circle cx="42" cy="56" r="32" fill="#ffd93b"/><path d="M22 54q7 7 14 0M46 54q7 7 14 0" ${L}/><ellipse cx="41" cy="72" rx="5" ry="6" fill="#7a2e1d"/><g fill="none" stroke="#2f7fd0" stroke-width="4" stroke-linecap="round" stroke-linejoin="round"><path d="M70 30h12L70 44h12"/><path d="M84 8h10L84 20h10"/></g>`,
+  buy: `<path d="M6 16h12l10 46h50l8-34H22" fill="none" stroke="#3a3a3a" stroke-width="5" stroke-linecap="round" stroke-linejoin="round"/><path d="M24 30h58l-6 28H30z" fill="#bfe6ff"/><rect x="34" y="14" width="16" height="22" rx="2" fill="#ff9f1c"/><rect x="54" y="8" width="16" height="28" rx="2" fill="#58cc02"/><circle cx="36" cy="80" r="8" fill="#3a3a3a"/><circle cx="70" cy="80" r="8" fill="#3a3a3a"/><circle cx="36" cy="80" r="3" fill="#fff"/><circle cx="70" cy="80" r="3" fill="#fff"/>`,
+  write: `<rect x="10" y="12" width="60" height="80" rx="5" fill="#fff" stroke="#9fb4c9" stroke-width="3"/><path d="M20 30h40M20 44h40M20 58h26" stroke="#4aa3f0" stroke-width="4" stroke-linecap="round"/><g transform="rotate(40 66 60)"><rect x="60" y="20" width="12" height="46" fill="#ffd21f"/><rect x="60" y="12" width="12" height="10" rx="3" fill="#f58fb5"/><path d="M60 66h12l-6 12z" fill="#f2c9a0"/><path d="M64 73h4l-2 5z" fill="#3a3a3a"/></g>`,
+  listen: `<path d="M16 60V46a34 34 0 0 1 68 0v14" fill="none" stroke="#3a3a3a" stroke-width="7" stroke-linecap="round"/><rect x="6" y="54" width="22" height="36" rx="10" fill="#e5383b"/><rect x="72" y="54" width="22" height="36" rx="10" fill="#e5383b"/><rect x="12" y="62" width="8" height="20" rx="4" fill="#ff8f8f"/><rect x="80" y="62" width="8" height="20" rx="4" fill="#ff8f8f"/><path d="M44 62v14l12-3V58l-12 3" fill="none" stroke="#4aa3f0" stroke-width="3" stroke-linejoin="round"/><circle cx="41" cy="77" r="4" fill="#4aa3f0"/><circle cx="53" cy="74" r="4" fill="#4aa3f0"/>`,
+  speak: `<path d="M10 10h62a8 8 0 0 1 8 8v30a8 8 0 0 1-8 8H38L20 72V56H10a8 8 0 0 1-8-8V18a8 8 0 0 1 8-8z" fill="#4aa3f0"/><path d="M16 26h48M16 40h32" stroke="#fff" stroke-width="5" stroke-linecap="round"/><path d="M52 62h38a8 8 0 0 1 8 8v12a8 8 0 0 1-8 8h-4v8l-12-8H52a8 8 0 0 1-8-8V70a8 8 0 0 1 8-8z" fill="#58cc02"/><circle cx="58" cy="76" r="3" fill="#fff"/><circle cx="71" cy="76" r="3" fill="#fff"/><circle cx="84" cy="76" r="3" fill="#fff"/>`,
+  call: `<path d="M14 48h72l6 34a8 8 0 0 1-8 8H16a8 8 0 0 1-8-8z" fill="#e5383b"/><path d="M6 34c0-12 18-22 44-22s44 10 44 22v6a5 5 0 0 1-5 5H75a5 5 0 0 1-5-5v-6H30v6a5 5 0 0 1-5 5H11a5 5 0 0 1-5-5z" fill="#b82a2d"/><circle cx="50" cy="66" r="15" fill="#fff"/><circle cx="50" cy="66" r="6" fill="#e5383b"/><g fill="#e5383b"><circle cx="50" cy="55" r="2"/><circle cx="60" cy="61" r="2"/><circle cx="60" cy="71" r="2"/><circle cx="50" cy="77" r="2"/><circle cx="40" cy="71" r="2"/><circle cx="40" cy="61" r="2"/></g>`,
+  run: `<circle cx="62" cy="16" r="11" fill="#f2c9a0"/><path d="M58 30 44 58l18 12-4 24" fill="none" stroke="#3b82c4" stroke-width="9" stroke-linecap="round" stroke-linejoin="round"/><path d="M44 58 28 70 12 66" fill="none" stroke="#3b82c4" stroke-width="9" stroke-linecap="round" stroke-linejoin="round"/><path d="M58 30 44 58" stroke="#ff9f1c" stroke-width="12" stroke-linecap="round"/><path d="M56 34 38 36 30 48M60 34l14 10 12-6" fill="none" stroke="#f2c9a0" stroke-width="7" stroke-linecap="round" stroke-linejoin="round"/><path d="M4 30h18M2 44h14M8 84h16" stroke="#9fb4c9" stroke-width="4" stroke-linecap="round"/>`,
+  swim: `<circle cx="62" cy="44" r="13" fill="#f2c9a0"/><path d="M50 40a13 13 0 0 1 24-4z" fill="#e5383b"/><path d="M48 56 22 60M40 50 30 28l18-10" fill="none" stroke="#f2c9a0" stroke-width="8" stroke-linecap="round" stroke-linejoin="round"/><rect x="66" y="42" width="9" height="5" rx="2" fill="#3a3a3a"/><path d="M0 62q8-8 16 0t16 0 16 0 16 0 16 0 20 0v38H0z" fill="#4aa3f0"/><path d="M6 80q8-6 16 0t16 0M56 86q8-6 16 0t16 0" stroke="#bfe6ff" stroke-width="3" fill="none" stroke-linecap="round"/>`,
+  basketball: `<circle cx="50" cy="50" r="42" fill="#f08a24"/><path d="M8 50h84M50 8v84M20 20c16 16 16 44 0 60M80 20c-16 16-16 44 0 60" fill="none" stroke="#3a3a3a" stroke-width="3"/>`,
+  sing: `<g transform="rotate(30 40 60)"><rect x="33" y="44" width="14" height="50" rx="6" fill="#3a3a3a"/><circle cx="40" cy="30" r="18" fill="#b9bfc7"/><path d="M24 26h32M23 34h34M40 12v36" stroke="#8b96a3" stroke-width="2"/><rect x="31" y="46" width="18" height="7" rx="3" fill="#e5383b"/></g><path d="M72 40V16l18-5v22" fill="none" stroke="#8e4ec6" stroke-width="4" stroke-linejoin="round"/><ellipse cx="67" cy="41" rx="7" ry="5" fill="#8e4ec6"/><ellipse cx="85" cy="34" rx="7" ry="5" fill="#8e4ec6"/><path d="M12 22V8" stroke="#f58fb5" stroke-width="4" stroke-linecap="round"/><ellipse cx="8" cy="23" rx="6" ry="4.500" fill="#f58fb5"/>`,
+  travel: `<path d="M38 22v-8a6 6 0 0 1 6-6h12a6 6 0 0 1 6 6v8" fill="none" stroke="#3a3a3a" stroke-width="5"/><rect x="12" y="22" width="76" height="62" rx="10" fill="#1cb0a8"/><path d="M30 22v62M70 22v62" stroke="#0e8a84" stroke-width="5"/><circle cx="50" cy="44" r="10" fill="#fff"/><path d="M44 44h12M50 38c-4 4-4 8 0 12 4-4 4-8 0-12" stroke="#1cb0a8" stroke-width="2" fill="none"/><rect x="40" y="62" width="22" height="12" rx="2" fill="#ffd93b" transform="rotate(-8 51 68)"/><circle cx="28" cy="90" r="6" fill="#3a3a3a"/><circle cx="72" cy="90" r="6" fill="#3a3a3a"/>`,
+  // things
+  movie: `<rect x="8" y="38" width="84" height="54" rx="6" fill="#3a3a3a"/><path d="M8 24 88 8l3 14L11 38z" fill="#3a3a3a"/><path d="M20 22l12-2 6 12-12 2zM44 17l12-2 6 12-12 2zM68 12l12-2 6 12-12 2z" fill="#fff"/><path d="M42 54v24l22-12z" fill="#ffd93b"/><path d="M8 44h84" stroke="#fff" stroke-width="3"/>`,
+  love: `<path d="M50 90C22 68 6 52 6 32 6 12 34 6 50 28 66 6 94 12 94 32c0 20-16 36-44 58z" fill="#e5383b"/><path d="M20 30c0-8 6-12 12-12" stroke="#fff" stroke-opacity=".6" stroke-width="5" stroke-linecap="round" fill="none"/>`,
+  fruit: `<path d="M26 40q8-34 30-30" fill="none" stroke="#a9703f" stroke-width="4" stroke-linecap="round"/><circle cx="34" cy="48" r="17" fill="#e5383b"/><circle cx="62" cy="46" r="17" fill="#ff9f1c"/><path d="M34 30c2-6 6-8 10-8" stroke="#58cc02" stroke-width="5" stroke-linecap="round" fill="none"/><path d="M60 20c10 6 22 22 22 38l-8 2C72 44 66 32 56 26z" fill="#ffd21f"/><circle cx="48" cy="56" r="8" fill="#8e4ec6"/><circle cx="42" cy="64" r="8" fill="#8e4ec6"/><circle cx="56" cy="64" r="8" fill="#8e4ec6"/><path d="M6 58h88c0 22-16 36-44 36S6 80 6 58z" fill="#c98e5c"/><path d="M12 68h76M18 80h64" stroke="#a9703f" stroke-width="3"/>`,
+  vegetable: `<path d="M26 22 14 8M30 20 30 4M34 22 46 10" stroke="#3fae2a" stroke-width="6" stroke-linecap="round"/><path d="M18 26c8-6 18-6 26 0L34 92c-1 4-5 4-6 0z" fill="#ff8a1c"/><path d="M24 44h8M26 60h10M28 76h6" stroke="#d96a00" stroke-width="3" stroke-linecap="round"/><rect x="64" y="60" width="12" height="34" rx="5" fill="#8fcf5a"/><circle cx="58" cy="46" r="13" fill="#3fae2a"/><circle cx="76" cy="38" r="14" fill="#3fae2a"/><circle cx="86" cy="54" r="11" fill="#3fae2a"/><circle cx="68" cy="56" r="12" fill="#2f9321"/>`,
+  dumplings: `<path d="M34 16q-6-6 0-12M50 14q-6-6 0-12M66 16q-6-6 0-12" stroke="#b9bfc7" stroke-width="3" fill="none" stroke-linecap="round"/><ellipse cx="50" cy="76" rx="46" ry="14" fill="#fff" stroke="#9fb4c9" stroke-width="3"/><g fill="#fbe9cf" stroke="#d9b98a" stroke-width="2.5" stroke-linejoin="round"><path d="M8 70c2-18 14-26 24-26s20 8 22 26z"/><path d="M46 70c2-18 14-26 24-26s20 8 22 26z"/><path d="M26 78c2-20 14-30 24-30s22 10 24 30z"/></g><path d="M36 56q4-6 8 0 4-6 8 0 4-6 8 0 4-6 6 2" stroke="#d9b98a" stroke-width="2.5" fill="none" stroke-linecap="round"/>`,
+  cold: `${thermo("#4aa3f0", 52)}<g stroke="#4aa3f0" stroke-width="4" stroke-linecap="round"><path d="M72 14v44M53 25l38 22M53 47l38-22"/><path d="M66 18l6 6 6-6M66 54l6-6 6 6"/></g>`,
+  hot: `${thermo("#e5383b", 16)}<g stroke="#ff9f1c" stroke-width="5" stroke-linecap="round"><path d="M72 8v8M72 56v8M48 36h8M88 36h8M55 19l6 6M83 47l6 6M89 19l-6 6M61 47l-6 6"/></g><circle cx="72" cy="36" r="13" fill="#ffd93b"/>`,
+  exam: `<rect x="14" y="6" width="64" height="88" rx="5" fill="#fff" stroke="#9fb4c9" stroke-width="3"/><path d="M22 28l4 4 7-8M22 46l4 4 7-8M22 64l4 4 7-8" stroke="#58cc02" stroke-width="4" fill="none" stroke-linecap="round" stroke-linejoin="round"/><path d="M40 30h28M40 48h28M40 66h20" stroke="#b9bfc7" stroke-width="4" stroke-linecap="round"/><circle cx="74" cy="76" r="19" fill="#e5383b"/><text x="74" y="84" text-anchor="middle" font-size="22" font-weight="900" font-family="inherit" fill="#fff">A+</text>`,
+  medicine: `<rect x="14" y="30" width="40" height="62" rx="8" fill="#ff9f1c"/><rect x="18" y="12" width="32" height="20" rx="4" fill="#fff" stroke="#9fb4c9" stroke-width="3"/><rect x="14" y="48" width="40" height="26" fill="#fff"/><path d="M34 53v16M26 61h16" stroke="#e5383b" stroke-width="5" stroke-linecap="round"/><g transform="rotate(-35 76 66)"><rect x="60" y="56" width="34" height="18" rx="9" fill="#e5383b"/><path d="M77 56h8a9 9 0 0 1 0 18h-8z" fill="#fff" stroke="#9fb4c9" stroke-width="2"/></g><circle cx="72" cy="28" r="9" fill="#fff" stroke="#9fb4c9" stroke-width="3"/><path d="M65 28h14" stroke="#9fb4c9" stroke-width="2.5"/>`,
+  newspaper: `<path d="M8 14h70v72H16a8 8 0 0 1-8-8z" fill="#fff" stroke="#8b96a3" stroke-width="3"/><path d="M78 30h14v48a8 8 0 0 1-16 0" fill="#e6ebf0" stroke="#8b96a3" stroke-width="3"/><rect x="16" y="22" width="54" height="10" rx="2" fill="#3a3a3a"/><rect x="16" y="40" width="24" height="20" fill="#7fd0ff"/><path d="M46 42h24M46 50h24M46 58h24M16 68h54M16 76h40" stroke="#b9bfc7" stroke-width="3" stroke-linecap="round"/>`,
+  ticket: `<g transform="rotate(-12 50 50)"><path d="M6 28h88v14a8 8 0 0 0 0 16v14H6V58a8 8 0 0 0 0-16z" fill="#ffd21f"/><path d="M66 30v40" stroke="#d9a400" stroke-width="3" stroke-dasharray="5 5"/>${star(38, 50, 14, "#e5383b")}<path d="M74 42h12M74 50h12M74 58h12" stroke="#d9a400" stroke-width="3" stroke-linecap="round"/></g>`,
+  night: `<rect x="4" y="4" width="92" height="92" rx="18" fill="#2b3a67"/><path d="M60 18a26 26 0 1 0 18 34 22 22 0 0 1-18-34z" fill="#ffd93b"/>${star(24, 24, 6, "#fff")}${star(80, 22, 5, "#fff")}${star(22, 60, 4, "#fff")}<path d="M4 84q22-18 46-6t46-8v8a18 18 0 0 1-18 18H22A18 18 0 0 1 4 78z" fill="#1c2747"/>`,
+  morning: `<rect x="4" y="4" width="92" height="92" rx="18" fill="#ffe2a8"/><g stroke="#ff9f1c" stroke-width="5" stroke-linecap="round"><path d="M50 14v10M22 26l7 8M78 26l-7 8M10 50h10M80 50h10"/></g><circle cx="50" cy="62" r="22" fill="#ff9f1c"/><path d="M4 62q24-12 46 0t46 0v16a18 18 0 0 1-18 18H22A18 18 0 0 1 4 78z" fill="#7ec850"/><path d="M4 76q24-10 46 0t46-2v4a18 18 0 0 1-18 18H22A18 18 0 0 1 4 78z" fill="#58a83a"/>`,
 };
 
 /** Words drawn by each picture: [English words, Chinese words]. */
@@ -150,7 +254,7 @@ const WORDS: Record<string, [string, string]> = {
   tea: ["tea", "茶"],
   coffee: ["coffee", "咖啡"],
   water: ["water", "水"],
-  cake: ["cake", "蛋糕"],
+  cake: ["cake", "蛋糕 生日"],
   eye: ["eye", "眼睛"],
   ear: ["ear", "耳朵"],
   nose: ["nose", "鼻子"],
@@ -177,15 +281,15 @@ const WORDS: Record<string, [string, string]> = {
   bag: ["bag", ""],
   key: ["key", "钥匙"],
   umbrella: ["umbrella", "伞"],
-  clock: ["clock", "钟"],
+  clock: ["clock time", "钟 时间"],
   shoes: ["shoes", "鞋"],
   hat: ["hat", "帽子"],
   clothes: ["clothes shirt", "衣服"],
   chopsticks: ["chopsticks", "筷子"],
   money: ["money", "钱"],
-  ball: ["ball football", ""],
-  sun: ["sun", "太阳"],
-  moon: ["moon", "月亮"],
+  ball: ["ball football", "踢足球"],
+  sun: ["sun sunny", "太阳 晴"],
+  moon: ["moon", "月亮 月"],
   star: ["star", ""],
   tree: ["tree", "树"],
   flower: ["flower", ""],
@@ -193,15 +297,15 @@ const WORDS: Record<string, [string, string]> = {
   snow: ["snow", "雪"],
   mountain: ["mountain", ""],
   fire: ["fire", "火"],
-  cloud: ["cloud", "云"],
+  cloud: ["cloud cloudy", "云 阴"],
   car: ["car", ""],
   bus: ["bus", "公共汽车"],
   plane: ["plane", "飞机"],
   taxi: ["taxi", "出租车"],
   bicycle: ["bicycle bike", "自行车"],
-  train: ["train", ""],
+  train: ["train", "火车站"],
   boat: ["boat", "船"],
-  house: ["house", ""],
+  house: ["house home", "家"],
   school: ["school", "学校"],
   hospital: ["hospital", "医院"],
   red: ["red", "红色 红"],
@@ -214,6 +318,60 @@ const WORDS: Record<string, [string, string]> = {
   brown: ["brown", "棕色"],
   pink: ["pink", "粉色"],
   gray: ["gray", ""],
+  happy: ["happy smile", "高兴 快乐 笑"],
+  person: ["person", "人"],
+  friends: ["friend", "朋友"],
+  boy: ["boy", "儿子"],
+  girl: ["girl", "女儿"],
+  man: ["man", "男人"],
+  woman: ["woman", "女人"],
+  teacher: ["teacher", "老师"],
+  student: ["student", "学生"],
+  doctor: ["doctor", "医生"],
+  head: ["head", "头"],
+  body: ["body", "身体"],
+  shop: ["shop", "商店"],
+  restaurant: ["restaurant", "饭店 饭馆"],
+  china: ["", "中国"],
+  vietnam: ["", "越南"],
+  company: ["company office", "公司"],
+  road: ["road street", "路"],
+  n1: ["one", "一"],
+  n2: ["two", "二 两"],
+  n3: ["three", "三"],
+  n4: ["four", "四"],
+  n5: ["five", "五"],
+  n6: ["six", "六"],
+  n7: ["seven", "七"],
+  n8: ["eight", "八"],
+  n9: ["nine", "九"],
+  n10: ["ten", "十"],
+  eat: ["eat", "吃"],
+  drink: ["drink", "喝"],
+  sleep: ["sleep", "睡觉"],
+  buy: ["buy", "买"],
+  write: ["write", "写"],
+  listen: ["listen headphones", "听"],
+  speak: ["speak", "说 说话"],
+  call: ["call", "打电话"],
+  run: ["run", "跑步"],
+  swim: ["swim", "游泳"],
+  basketball: ["basketball", "打篮球"],
+  sing: ["sing", "唱歌"],
+  travel: ["travel suitcase", "旅游"],
+  movie: ["movie", "电影"],
+  love: ["love heart", "爱"],
+  fruit: ["fruit", "水果"],
+  vegetable: ["vegetable", "菜"],
+  dumplings: ["", "饺子"],
+  cold: ["cold", "冷"],
+  hot: ["hot", "热"],
+  exam: ["exam test", "考试"],
+  medicine: ["medicine", "药"],
+  newspaper: ["newspaper", "报纸"],
+  ticket: ["ticket", "票"],
+  night: ["night", "晚上"],
+  morning: ["morning", "早上"],
 };
 
 /** Pictures that look alike: a "wrong" pairing never uses a picture from the same group as the right one. */
@@ -242,6 +400,45 @@ const GROUPS = [
   ["tree", "flower"],
   ["shoes", "foot", "clothes", "hat"],
   ["book", "pencil", "school"],
+  [
+    "father",
+    "mother",
+    "baby",
+    "grandfather",
+    "grandmother",
+    "boy",
+    "girl",
+    "man",
+    "woman",
+    "person",
+    "friends",
+    "teacher",
+    "student",
+    "doctor",
+    "head",
+    "body",
+  ],
+  ["happy", "sleep", "eat", "head"],
+  ["eat", "restaurant", "rice", "noodles", "dumplings", "chopsticks"],
+  ["drink", "cup", "tea", "coffee", "water", "milk"],
+  ["china", "vietnam", "star", "red"],
+  ["write", "pencil", "book", "exam", "newspaper"],
+  ["listen", "call", "phone", "speak", "sing", "ear"],
+  ["fruit", "apple", "banana", "orange", "grape", "watermelon", "vegetable"],
+  ["cold", "hot", "snow", "sun", "fire"],
+  ["run", "person", "body", "swim", "foot"],
+  ["swim", "water", "boat", "fish", "duck"],
+  ["basketball", "ball", "orange"],
+  ["travel", "bag", "plane"],
+  ["company", "hospital", "school", "shop", "house"],
+  ["night", "moon", "star", "morning", "sun", "mountain", "sleep"],
+  ["ticket", "movie", "money", "television"],
+  ["road", "car", "bus", "taxi"],
+  ["love", "red", "happy"],
+  ["medicine", "hospital", "doctor"],
+  ["buy", "shop", "money"],
+  ["clock", "watch", "morning", "night"],
+  ["teacher", "school", "student", "book"],
 ];
 
 const CONCEPT: Record<string, string> = {};

@@ -92,7 +92,7 @@ export function buildRound(
   );
   return words.map((word, i) => {
     const art = !!conceptOf(word.hanzi);
-    // English: drawing, else pictorial emoji, else meaning. Chinese: mostly the drawing when there is one, else pinyin or meaning.
+    // English: drawing, else pictorial emoji, else meaning. Chinese: the drawing when there is one, else pinyin or meaning.
     const text: ClueKind = word.pinyin && rnd() < 0.5 ? "pinyin" : "vi";
     const kind: ClueKind =
       course === "en"
@@ -101,7 +101,7 @@ export function buildRound(
           : emojiOf(word)
             ? "emoji"
             : "vi"
-        : art && rnd() < 0.7
+        : art
           ? "art"
           : text;
     const truth = clue(word, kind)!;
