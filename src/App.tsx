@@ -1,3 +1,4 @@
+import { COC_COC_HINT, isCocCoc } from './lib/speech';
 import { lazy, Suspense, useEffect, useRef, useState } from 'react';
 import TopBar from './components/TopBar';
 import BottomNav, { SocialTabs, type Tab } from './components/BottomNav';
@@ -68,7 +69,7 @@ export default function App() {
   }, []);
   const toast = ttsError && (
     <div role="alert" className="pointer-events-none fixed inset-x-3 bottom-24 z-[60] mx-auto max-w-md animate-pop rounded-2xl bg-ink-700 px-4 py-3 text-sm font-bold text-white shadow-lg">
-      Không phát được âm thanh: thiết bị chưa có giọng đọc {isEnglish() ? 'tiếng Anh' : 'tiếng Trung'}. Hãy cài giọng {isEnglish() ? '“English (United States)”' : '“Chinese (China)”'} trong cài đặt hệ thống, hoặc dùng Chrome/Safari/Edge.
+      {isCocCoc() ? COC_COC_HINT : <>Không phát được âm thanh: thiết bị chưa có giọng đọc {isEnglish() ? 'tiếng Anh' : 'tiếng Trung'}. Hãy cài giọng {isEnglish() ? '“English (United States)”' : '“Chinese (China)”'} trong cài đặt hệ thống, hoặc dùng Chrome/Safari/Edge.</>}
     </div>
   );
 

@@ -1,6 +1,6 @@
 import { toeicTitle } from "../data/toeic";
 import { VERSION_LABEL } from "../lib/version";
-import { useRef, useState } from "react";
+import { useEffect, useRef, useState } from "react";
 import type { Certificate } from "../types";
 import {
   firebaseConfigured,
@@ -32,8 +32,11 @@ import {
 import { achievements, currentStreak, levelInfo } from "../lib/gamification";
 import { countByStatus } from "../lib/srs";
 import {
+  COC_COC_HINT,
   hasChineseVoice,
   hasEnglishVoice,
+  isCocCoc,
+  listVoices,
   speak,
   ttsSupported,
 } from "../lib/speech";
@@ -540,16 +543,7 @@ export default function ProfileScreen({
               </button>
             ))}
           </div>
-          {(!ttsSupported() ||
-            !(isEnglish() ? hasEnglishVoice() : hasChineseVoice())) && (
-            <p className="mt-2 text-xs font-bold text-coral-500">
-              Không tìm thấy giọng đọc{" "}
-              {isEnglish() ? "tiếng Anh" : "tiếng Trung"} trên thiết bị. Hãy cài
-              giọng{" "}
-              {isEnglish() ? "“English (United States)”" : "“Chinese (China)”"}{" "}
-              trong cài đặt hệ thống hoặc dùng Chrome.
-            </p>
-          )}
+          <VoiceInfo />
         </div>
         <Toggle
           label="Âm thanh hiệu ứng"
@@ -770,3 +764,53 @@ const SYNC_LABEL = {
   offline: "Ngoại tuyến – sẽ đồng bộ khi có mạng",
   error: "Lỗi đồng bộ",
 } as const;
+
+/** What the browser really offers for the course language, so a learner can see why audio fails. */
+function VoiceInfo() {
+  const lang = isEnglish() ? "en-US" : "zh-CN";
+  const [voices, setVoices] = useState(() => listVoices(lang));
+  useEffect(() => {
+    if (!ttsSupported()) return;
+    const update = () => setVoices(listVoices(lang));
+    update();
+    const synth = window.speechSynthesis;
+    synth.addEventListener?.("voiceschanged", update);
+    // Android may fill the list late without firing the event
+    const t = setTimeout(update, 2500);
+    return () => {
+      synth.removeEventListener?.("voiceschanged", update);
+      clearTimeout(t);
+    };
+  }, [lang]);
+  // the picked voice may also be matched by name, so ask the speech module too
+  const missing =
+    !ttsSupported() ||
+    (!voices.length && !(isEnglish() ? hasEnglishVoice() : hasChineseVoice()));
+  return (
+    <div className="mt-2 text-xs font-bold text-ink-400" data-testid="voice-info">
+      {missing && !isCocCoc() && (
+        <p className="mb-1 text-coral-500" data-testid="voice-warning">
+              Không tìm thấy giọng đọc{" "}
+              {isEnglish() ? "tiếng Anh" : "tiếng Trung"} trên thiết bị. Hãy cài
+              giọng{" "}
+              {isEnglish() ? "“English (United States)”" : "“Chinese (China)”"}{" "}
+              trong cài đặt hệ thống hoặc dùng Chrome.
+            </p>
+      )}
+      {isCocCoc() && (
+        <p className="mb-1 text-coral-500" data-testid="coccoc-hint">
+          {COC_COC_HINT}
+        </p>
+      )}
+      <p>
+        Giọng {isEnglish() ? "tiếng Anh" : "tiếng Trung"} trình duyệt nhìn
+        thấy:{" "}
+        {!ttsSupported()
+          ? "trình duyệt không hỗ trợ đọc giọng"
+          : voices.length
+            ? voices.map((v) => `${v.name} (${v.lang})`).join(", ")
+            : "không thấy giọng nào"}
+      </p>
+    </div>
+  );
+}
