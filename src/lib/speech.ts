@@ -1,3 +1,5 @@
+import { unsupportedBrowser } from './browser';
+
 let zhVoice: SpeechSynthesisVoice | null = null;
 let enVoice: SpeechSynthesisVoice | null = null;
 let voicesLoaded = false;
@@ -101,10 +103,19 @@ function whenVoices(run: () => void) {
   synth.addEventListener?.('voiceschanged', go);
 }
 
+/** Fired when a requested sound could not be played (after the retries). */
 const ttsFailed = () => window.dispatchEvent(new CustomEvent('tts-error'));
 const stopped = (e: SpeechSynthesisErrorEvent) => e.error === 'interrupted' || e.error === 'canceled';
 /** Only the latest speak()/speakSeq() call may talk or report errors. */
 let job = 0;
+
+/**
+ * In Cốc Cốc and in-app browsers an empty voice list (after the wait) means there will be no sound:
+ * say so at once instead of after the retries, which take several seconds on a silent engine.
+ */
+function warnEarly(id: number) {
+  if (id === job && unsupportedBrowser() && !window.speechSynthesis.getVoices().length) ttsFailed();
+}
 
 /**
  * Queue utterances for one job. If one fails (an error, or nothing starts within a few seconds),
@@ -161,11 +172,15 @@ function run(id: number, texts: string[], lang: 'zh-CN' | 'en-US', speed: number
 export function speak(text: string, opts: { slow?: boolean; onEnd?: () => void } = {}) {
   if (!ttsSupported()) {
     opts.onEnd?.();
+    ttsFailed();
     return;
   }
   const id = ++job;
   window.speechSynthesis.cancel();
-  whenVoices(() => run(id, [text], speechLang(text), opts.slow ? Math.max(0.4, rate - 0.35) : rate, opts.onEnd));
+  whenVoices(() => {
+    warnEarly(id);
+    run(id, [text], speechLang(text), opts.slow ? Math.max(0.4, rate - 0.35) : rate, opts.onEnd);
+  });
 }
 
 /**
@@ -175,6 +190,7 @@ export function speak(text: string, opts: { slow?: boolean; onEnd?: () => void }
 export function speakSeq(parts: string[], opts: { onEnd?: () => void } = {}) {
   if (!ttsSupported()) {
     opts.onEnd?.();
+    ttsFailed();
     return;
   }
   const id = ++job;
@@ -184,7 +200,10 @@ export function speakSeq(parts: string[], opts: { onEnd?: () => void } = {}) {
     .flatMap((p) => p.replace(/\b(Mr|Mrs|Ms|Dr)\./g, '$1').match(/[^.!?]+[.!?]+["”’]?|[^.!?]+$/g) ?? [])
     .map((x) => x.trim())
     .filter(Boolean);
-  whenVoices(() => run(id, list, 'en-US', Math.max(rate, 0.9), opts.onEnd));
+  whenVoices(() => {
+    warnEarly(id);
+    run(id, list, 'en-US', Math.max(rate, 0.9), opts.onEnd);
+  });
 }
 /** Stop whatever is being spoken. */
 export const stopSpeaking = () => {

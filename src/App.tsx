@@ -1,4 +1,5 @@
-import { COC_COC_HINT, isCocCoc } from './lib/speech';
+import BrowserNotice from './components/BrowserNotice';
+import { NO_AUDIO_MSG, browserNoticeSeen, markBrowserNoticeSeen, unsupportedBrowser } from './lib/browser';
 import { lazy, Suspense, useEffect, useRef, useState } from 'react';
 import TopBar from './components/TopBar';
 import BottomNav, { SocialTabs, type Tab } from './components/BottomNav';
@@ -83,21 +84,50 @@ export default function App() {
   const social = useSocial();
   const [chatOpen, setChatOpen] = useState(false);
 
-  const [ttsError, setTtsError] = useState(false);
+  // Sound that could not be played: a dialog the first time, then (once the learner has read it) a short toast.
+  const [ttsError, setTtsError] = useState<'dialog' | 'toast' | null>(null);
+  const audioWarned = useRef(false);
   useEffect(() => {
     let t: ReturnType<typeof setTimeout>;
     const onErr = () => {
-      setTtsError(true);
+      if (!audioWarned.current) return setTtsError('dialog');
+      setTtsError((cur) => (cur === 'dialog' ? cur : 'toast'));
       clearTimeout(t);
-      t = setTimeout(() => setTtsError(false), 5000);
+      t = setTimeout(() => setTtsError((cur) => (cur === 'toast' ? null : cur)), 5000);
     };
     window.addEventListener('tts-error', onErr);
     return () => window.removeEventListener('tts-error', onErr);
   }, []);
-  const toast = ttsError && (
-    <div role="alert" className="pointer-events-none fixed inset-x-3 bottom-24 z-[60] mx-auto max-w-md animate-pop rounded-2xl bg-ink-700 px-4 py-3 text-sm font-bold text-white shadow-lg">
-      {isCocCoc() ? COC_COC_HINT : <>Không phát được âm thanh: thiết bị chưa có giọng đọc {isEnglish() ? 'tiếng Anh' : 'tiếng Trung'}. Hãy cài giọng {isEnglish() ? '“English (United States)”' : '“Chinese (China)”'} trong cài đặt hệ thống, hoặc dùng Chrome/Safari/Edge.</>}
-    </div>
+  // Cốc Cốc and in-app browsers (Zalo, Facebook) have no voices: say so once per session when the app opens.
+  const [browserNotice, setBrowserNotice] = useState(() => !!unsupportedBrowser() && !browserNoticeSeen());
+  const voiceHint = <>Thiết bị chưa có giọng đọc {isEnglish() ? 'tiếng Anh' : 'tiếng Trung'}: hãy cài giọng {isEnglish() ? '“English (United States)”' : '“Chinese (China)”'} trong cài đặt hệ thống, hoặc dùng Chrome/Safari/Edge.</>;
+  const toast = (
+    <>
+      {ttsError === 'toast' && (
+        <div role="alert" data-testid="tts-toast" className="pointer-events-none fixed inset-x-3 bottom-24 z-[60] mx-auto max-w-md animate-pop rounded-2xl bg-ink-700 px-4 py-3 text-sm font-bold text-white shadow-lg">
+          {unsupportedBrowser() ? NO_AUDIO_MSG : <>Không phát được âm thanh. {voiceHint}</>}
+        </div>
+      )}
+      {ttsError === 'dialog' && (
+        <BrowserNotice
+          kind="audio"
+          extra={voiceHint}
+          onClose={() => {
+            audioWarned.current = true;
+            setTtsError(null);
+          }}
+        />
+      )}
+      {browserNotice && ttsError !== 'dialog' && (
+        <BrowserNotice
+          kind="load"
+          onClose={() => {
+            markBrowserNoticeSeen();
+            setBrowserNotice(false);
+          }}
+        />
+      )}
+    </>
   );
 
   useEffect(() => {

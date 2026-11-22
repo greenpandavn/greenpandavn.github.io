@@ -1,3 +1,4 @@
+import { NO_AUDIO_MSG, unsupportedBrowser } from '../lib/browser';
 import { toeicTitle } from "../data/toeic";
 import { VERSION_LABEL } from "../lib/version";
 import { useEffect, useRef, useState } from "react";
@@ -788,7 +789,7 @@ function VoiceInfo() {
     (!voices.length && !(isEnglish() ? hasEnglishVoice() : hasChineseVoice()));
   return (
     <div className="mt-2 text-xs font-bold text-ink-400" data-testid="voice-info">
-      {missing && !isCocCoc() && (
+      {missing && !unsupportedBrowser() && (
         <p className="mb-1 text-coral-500" data-testid="voice-warning">
               Không tìm thấy giọng đọc{" "}
               {isEnglish() ? "tiếng Anh" : "tiếng Trung"} trên thiết bị. Hãy cài
@@ -797,9 +798,9 @@ function VoiceInfo() {
               trong cài đặt hệ thống hoặc dùng Chrome.
             </p>
       )}
-      {isCocCoc() && (
+      {unsupportedBrowser() && (
         <p className="mb-1 text-coral-500" data-testid="coccoc-hint">
-          {COC_COC_HINT}
+          {isCocCoc() ? COC_COC_HINT : NO_AUDIO_MSG}
         </p>
       )}
       <p>
