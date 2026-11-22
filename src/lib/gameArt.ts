@@ -1,0 +1,256 @@
+/**
+ * Pictures of the 'Đúng hay Sai' game: original flat SVG drawings made for GreenPanda, one per concept
+ * (a concept is shared by the Chinese and the English word). Each value is the inside of a 100×100 <svg>.
+ */
+const K = "#3a3a3a";
+const L = `stroke="${K}" stroke-width="3" stroke-linecap="round" stroke-linejoin="round" fill="none"`;
+const eyes = (y: number, a = 38, b = 62, r = 4.5) =>
+  `<circle cx="${a}" cy="${y}" r="${r}" fill="${K}"/><circle cx="${b}" cy="${y}" r="${r}" fill="${K}"/>`;
+const smile = (y: number, w = 8) =>
+  `<path d="M${50 - w} ${y}q${w} ${w} ${2 * w} 0" ${L}/>`;
+
+/** A paint splash with a brush: reads as "a colour", not as a plain disc. */
+const splash = (c: string, edge = "none") =>
+  `<g stroke="${edge}" stroke-width="2"><path d="M44 12c8-6 19-1 21 8 10-3 20 6 16 16 9 4 10 17 1 22 3 10-7 19-16 15-4 9-17 11-23 3-9 5-20-2-18-12C15 61 12 48 20 42c-5-9 3-20 13-18 1-6 5-10 11-12z" fill="${c}"/><circle cx="14" cy="24" r="5" fill="${c}"/><circle cx="84" cy="16" r="4" fill="${c}"/><circle cx="10" cy="76" r="3.5" fill="${c}"/><path d="M30 76c0 6-2 9-2 13a4 4 0 0 0 8 0c0-4-2-7-2-13z" fill="${c}"/></g>` +
+  `<path d="M34 26c5-5 11-6 16-5" stroke="#fff" stroke-opacity=".55" stroke-width="4" stroke-linecap="round" fill="none"/>` +
+  `<g transform="rotate(-42 70 70)"><rect x="66" y="64" width="8" height="34" rx="4" fill="#e0a458"/><rect x="64" y="52" width="12" height="13" fill="#b9bfc7"/><path d="M64 52c0-9 2-14 6-20 4 6 6 11 6 20z" fill="${c}" stroke="${edge}" stroke-width="2"/></g>`;
+
+const face = (skin: string) =>
+  `<circle cx="50" cy="54" r="27" fill="${skin}"/>${eyes(54, 40, 60, 3.5)}`;
+
+export const ART: Record<string, string> = {
+  // animals
+  cat: `<path d="M22 32 26 8l22 14zM78 32 74 8 52 22z" fill="#f4a13a"/><circle cx="50" cy="55" r="33" fill="#f4a13a"/>${eyes(49)}<path d="M45 60h10l-5 6z" fill="#e8607a"/><path d="M50 66q-6 8-12 3M50 66q6 8 12 3M21 58 6 55M21 65 6 68M79 58l15-3M79 65l15 3" ${L}/>`,
+  dog: `<ellipse cx="20" cy="48" rx="11" ry="24" fill="#8a5a33" transform="rotate(14 20 48)"/><ellipse cx="80" cy="48" rx="11" ry="24" fill="#8a5a33" transform="rotate(-14 80 48)"/><circle cx="50" cy="50" r="31" fill="#d9a066"/><ellipse cx="50" cy="64" rx="16" ry="13" fill="#f6e3c8"/>${eyes(44)}<ellipse cx="50" cy="57" rx="6" ry="4.5" fill="${K}"/><path d="M44 68h12v6a6 6 0 0 1-12 0z" fill="#e8607a"/>`,
+  bird: `<path d="M22 60 4 52l4 20z" fill="#2f7fd0"/><ellipse cx="48" cy="56" rx="30" ry="25" fill="#4aa3f0"/><circle cx="68" cy="36" r="17" fill="#4aa3f0"/><path d="M84 32l13 5-13 5z" fill="#f4a13a"/><circle cx="72" cy="33" r="3.5" fill="${K}"/><path d="M28 54c10-10 26-8 30 4-8 10-22 10-30-4z" fill="#2f7fd0"/><path d="M42 80v12M56 80v12M36 92h12M50 92h12" ${L}/>`,
+  fish: `<path d="M70 50 96 28v44z" fill="#f08a2c"/><path d="M40 28c6-12 18-14 26-8l-8 12zM44 72c6 10 14 10 20 6l-8-10z" fill="#f08a2c"/><ellipse cx="44" cy="50" rx="36" ry="24" fill="#f9b233"/><circle cx="26" cy="44" r="5" fill="#fff"/><circle cx="26" cy="44" r="2.5" fill="${K}"/><path d="M44 34q8 16 0 32M58 38q5 12 0 24" stroke="#f08a2c" stroke-width="3" fill="none"/>`,
+  horse: `<path d="M26 44c-8 4-12 16-8 30" stroke="#5b3a21" stroke-width="7" stroke-linecap="round" fill="none"/><rect x="30" y="62" width="7" height="30" rx="3" fill="#a9703f"/><rect x="62" y="62" width="7" height="30" rx="3" fill="#a9703f"/><ellipse cx="50" cy="56" rx="28" ry="16" fill="#c4854d"/><path d="M62 52 70 18l14 6-6 34z" fill="#c4854d"/><path d="M68 16c8-6 22-2 26 10l-4 8-18-6z" fill="#c4854d"/><path d="M70 10l4 10-8-2z" fill="#c4854d"/><path d="M64 48 70 16" stroke="#5b3a21" stroke-width="6" stroke-linecap="round"/><circle cx="80" cy="22" r="2.5" fill="${K}"/><path d="M30 92h7M62 92h7" stroke="${K}" stroke-width="5" stroke-linecap="round"/>`,
+  cow: `<path d="M26 24C18 20 14 12 18 6c4 8 10 10 16 12zM74 24c8-4 12-12 8-18-4 8-10 10-16 12z" fill="#e8d9b0"/><ellipse cx="14" cy="38" rx="11" ry="6" fill="#fff" stroke="${K}" stroke-width="2" transform="rotate(-18 14 38)"/><ellipse cx="86" cy="38" rx="11" ry="6" fill="#fff" stroke="${K}" stroke-width="2" transform="rotate(18 86 38)"/><rect x="22" y="18" width="56" height="66" rx="27" fill="#fff" stroke="${K}" stroke-width="2"/><path d="M24 40c0-12 8-20 20-20 2 12-6 24-20 20z" fill="${K}"/>${eyes(46, 37, 63, 4)}<ellipse cx="50" cy="70" rx="22" ry="13" fill="#f7b6c2"/><circle cx="42" cy="70" r="3" fill="#c96a80"/><circle cx="58" cy="70" r="3" fill="#c96a80"/>`,
+  panda: `<circle cx="22" cy="24" r="13" fill="${K}"/><circle cx="78" cy="24" r="13" fill="${K}"/><circle cx="50" cy="54" r="35" fill="#fff" stroke="${K}" stroke-width="2"/><ellipse cx="35" cy="50" rx="9" ry="12" fill="${K}" transform="rotate(20 35 50)"/><ellipse cx="65" cy="50" rx="9" ry="12" fill="${K}" transform="rotate(-20 65 50)"/><circle cx="36" cy="49" r="3" fill="#fff"/><circle cx="64" cy="49" r="3" fill="#fff"/><ellipse cx="50" cy="63" rx="5" ry="3.5" fill="${K}"/>${smile(68, 6)}<path d="M78 80c6-8 14-6 16 0-6 2-10 4-16 0z" fill="#58cc02"/>`,
+  pig: `<path d="M20 30 16 10l20 8zM80 30l4-20-20 8z" fill="#f08fa5"/><circle cx="50" cy="54" r="34" fill="#f9b4c3"/>${eyes(44)}<ellipse cx="50" cy="64" rx="17" ry="12" fill="#f08fa5"/><ellipse cx="44" cy="64" rx="3" ry="5" fill="#c9566f"/><ellipse cx="56" cy="64" rx="3" ry="5" fill="#c9566f"/>`,
+  chicken: `<path d="M44 14c0-8 8-8 8-2 2-6 10-4 8 3 5-3 9 3 4 7H44z" fill="#e5383b"/><path d="M26 62C8 56 6 40 10 34c6 10 14 12 22 14z" fill="#f1ece1"/><ellipse cx="46" cy="62" rx="27" ry="22" fill="#fffaf0" stroke="#d9cfba" stroke-width="2"/><circle cx="56" cy="34" r="16" fill="#fffaf0" stroke="#d9cfba" stroke-width="2"/><path d="M70 30l14 5-14 5z" fill="#f4a13a"/><path d="M66 42c4 0 6 4 4 9-4 0-6-4-4-9z" fill="#e5383b"/><circle cx="60" cy="31" r="3" fill="${K}"/><path d="M40 84v10M52 84v10M34 94h12M46 94h12" stroke="#f4a13a" stroke-width="3" stroke-linecap="round"/>`,
+  duck: `<path d="M22 62 6 50l2 18z" fill="#f2c200"/><ellipse cx="46" cy="64" rx="30" ry="18" fill="#ffd93b"/><circle cx="66" cy="38" r="17" fill="#ffd93b"/><path d="M80 36h16c2 6-4 10-16 8z" fill="#f08a2c"/><circle cx="70" cy="34" r="3.5" fill="${K}"/><path d="M34 62c8-6 18-4 22 4-8 6-16 4-22-4z" fill="#f2c200"/><path d="M4 84q8-7 16 0t16 0 16 0 16 0 16 0 12-2v14H4z" fill="#4aa3f0"/>`,
+  rabbit: `<ellipse cx="36" cy="24" rx="9" ry="24" fill="#f3efe9" stroke="#c9c1b6" stroke-width="2" transform="rotate(-8 36 24)"/><ellipse cx="64" cy="24" rx="9" ry="24" fill="#f3efe9" stroke="#c9c1b6" stroke-width="2" transform="rotate(8 64 24)"/><ellipse cx="36" cy="26" rx="4" ry="16" fill="#f7b6c2" transform="rotate(-8 36 26)"/><ellipse cx="64" cy="26" rx="4" ry="16" fill="#f7b6c2" transform="rotate(8 64 26)"/><circle cx="50" cy="64" r="29" fill="#f3efe9" stroke="#c9c1b6" stroke-width="2"/>${eyes(58, 39, 61, 4)}<path d="M46 68h8l-4 5z" fill="#e8607a"/><rect x="45" y="76" width="10" height="9" rx="2" fill="#fff" stroke="${K}" stroke-width="1.5"/><path d="M50 76v9" stroke="${K}" stroke-width="1.5"/>`,
+  tiger: `<circle cx="22" cy="26" r="11" fill="#f08a2c"/><circle cx="78" cy="26" r="11" fill="#f08a2c"/><circle cx="50" cy="54" r="34" fill="#f9a03f"/><ellipse cx="50" cy="68" rx="17" ry="13" fill="#fff"/><path d="M50 20v14M40 22l3 10M60 22l-3 10M16 50l12 3M17 62l11-1M84 50l-12 3M83 62l-11-1" stroke="${K}" stroke-width="4" stroke-linecap="round"/>${eyes(48)}<path d="M45 61h10l-5 6z" fill="${K}"/><path d="M50 67q-5 7-10 3M50 67q5 7 10 3" ${L}/>`,
+  elephant: `<ellipse cx="18" cy="46" rx="17" ry="25" fill="#8e9bab"/><ellipse cx="82" cy="46" rx="17" ry="25" fill="#8e9bab"/><ellipse cx="18" cy="46" rx="9" ry="16" fill="#f7b6c2"/><ellipse cx="82" cy="46" rx="9" ry="16" fill="#f7b6c2"/><circle cx="50" cy="42" r="28" fill="#a9b6c5"/><path d="M41 58h18v22c0 8 12 8 12 2" stroke="#a9b6c5" stroke-width="15" stroke-linecap="round" fill="none"/>${eyes(40, 38, 62, 4)}<path d="M36 64l-6 8M64 64l6 8" stroke="#fff" stroke-width="5" stroke-linecap="round"/>`,
+  monkey: `<circle cx="16" cy="48" r="13" fill="#8a5a33"/><circle cx="84" cy="48" r="13" fill="#8a5a33"/><circle cx="16" cy="48" r="7" fill="#f2cfa5"/><circle cx="84" cy="48" r="7" fill="#f2cfa5"/><circle cx="50" cy="50" r="33" fill="#8a5a33"/><path d="M50 30c-18-10-28 10-18 22-8 22 44 22 36 0 10-12 0-32-18-22z" fill="#f2cfa5"/>${eyes(46, 40, 60, 4)}<path d="M40 64q10 9 20 0" ${L}/><circle cx="47" cy="56" r="1.6" fill="${K}"/><circle cx="53" cy="56" r="1.6" fill="${K}"/>`,
+  // food and drink
+  apple: `<path d="M50 30c-4-10 0-18 6-22" ${L}/><path d="M56 16c6-8 16-8 22-4-4 8-14 10-22 4z" fill="#58cc02"/><path d="M50 30c-14-10-36-2-36 22 0 22 14 38 26 38 4 0 6-2 10-2s6 2 10 2c12 0 26-16 26-38 0-24-22-32-36-22z" fill="#e5383b"/><path d="M26 44c2-8 8-12 14-12" stroke="#fff" stroke-opacity=".6" stroke-width="5" stroke-linecap="round" fill="none"/>`,
+  banana: `<path d="M18 22c4 34 30 58 66 54 4-1 6-4 4-8C60 66 38 50 30 20c-4-6-12-4-12 2z" fill="#ffd93b"/><path d="M22 28c8 28 30 44 58 44" stroke="#e0b000" stroke-width="3" fill="none" stroke-linecap="round"/><path d="M18 22l-2-10 10 1 4 8z" fill="#7a5a2b"/><path d="M84 76l8 2-2-8z" fill="#7a5a2b"/>`,
+  watermelon: `<path d="M6 40a44 44 0 0 0 88 0z" fill="#2e9e4f"/><path d="M12 40a38 38 0 0 0 76 0z" fill="#f4f7e4"/><path d="M17 40a33 33 0 0 0 66 0z" fill="#f0485f"/><g fill="${K}"><ellipse cx="34" cy="50" rx="2.2" ry="3.6"/><ellipse cx="50" cy="48" rx="2.2" ry="3.6"/><ellipse cx="66" cy="50" rx="2.2" ry="3.6"/><ellipse cx="42" cy="60" rx="2.2" ry="3.6"/><ellipse cx="58" cy="60" rx="2.2" ry="3.6"/></g>`,
+  grape: `<path d="M50 24V8" ${L}/><path d="M50 14c8-8 20-6 24 2-8 6-18 6-24-2z" fill="#58cc02"/><g fill="#8e4ec6"><circle cx="30" cy="34" r="11"/><circle cx="50" cy="34" r="11"/><circle cx="70" cy="34" r="11"/><circle cx="40" cy="52" r="11"/><circle cx="60" cy="52" r="11"/><circle cx="50" cy="70" r="11"/><circle cx="50" cy="88" r="9"/></g><g fill="#fff" fill-opacity=".45"><circle cx="26" cy="30" r="3"/><circle cx="46" cy="30" r="3"/><circle cx="66" cy="30" r="3"/><circle cx="36" cy="48" r="3"/><circle cx="56" cy="48" r="3"/><circle cx="46" cy="66" r="3"/></g>`,
+  orange: `<circle cx="50" cy="56" r="36" fill="#ff9f1c"/><path d="M50 20c2-8 12-14 22-10-2 8-12 14-22 10z" fill="#58cc02"/><g fill="#e58300"><circle cx="30" cy="50" r="1.5"/><circle cx="44" cy="66" r="1.5"/><circle cx="54" cy="46" r="1.5"/><circle cx="34" cy="72" r="1.5"/></g>`,
+  egg: `<ellipse cx="34" cy="50" rx="24" ry="32" fill="#fbe9cf" stroke="#d9b98c" stroke-width="2"/><path d="M52 70c-6-10 4-20 14-16 6-8 20-4 20 6 8 4 6 18-4 18-4 8-16 8-20 2-6 0-8-6-10-10z" fill="#fff" stroke="#d9cfba" stroke-width="2"/><circle cx="72" cy="68" r="9" fill="#ffc21c"/>`,
+  bread: `<path d="M10 46c-8-18 10-28 26-24 8-8 26-8 32 0 16-4 30 8 22 24v34a4 4 0 0 1-4 4H14a4 4 0 0 1-4-4z" fill="#e0a458"/><path d="M18 48c-4-10 6-16 18-14 6-6 22-6 28 0 12-2 22 4 18 14v26H18z" fill="#f6d9a8"/>`,
+  rice: `<path d="M22 46c-2-12 8-18 16-14 2-10 18-12 22-2 10-6 22 2 18 16z" fill="#fff" stroke="#c9c1b6" stroke-width="2"/><path d="M36 38l4 2M52 30l4 2M62 40l4-2M46 42l4 1" stroke="#c9c1b6" stroke-width="2" stroke-linecap="round"/><path d="M10 46h80c0 22-14 38-28 40H38C24 84 10 68 10 46z" fill="#4aa3f0"/><path d="M34 86h32v6H34z" fill="#2f7fd0"/><path d="M24 58q26 10 52 0" stroke="#fff" stroke-width="3" fill="none" stroke-linecap="round"/>`,
+  noodles: `<path d="M70 4 58 44M84 8 66 44" stroke="#a9703f" stroke-width="4" stroke-linecap="round"/><path d="M18 46q6-12 12 0t12 0 12 0 12 0 12 0" stroke="#ffd27a" stroke-width="6" fill="none" stroke-linecap="round"/><path d="M22 40q8-10 16 0t16 0 14 0" stroke="#f9b233" stroke-width="5" fill="none" stroke-linecap="round"/><path d="M10 46h80c0 22-14 38-28 40H38C24 84 10 68 10 46z" fill="#e5383b"/><path d="M34 86h32v6H34z" fill="#b82a2d"/><circle cx="36" cy="36" r="5" fill="#58cc02"/>`,
+  milk: `<path d="M30 30 40 12h20l10 18z" fill="#dfe9f3" stroke="#9fb4c9" stroke-width="2"/><rect x="30" y="30" width="40" height="60" rx="3" fill="#fff" stroke="#9fb4c9" stroke-width="2"/><rect x="30" y="44" width="40" height="26" fill="#4aa3f0"/><path d="M50 50c-5 6-7 9-7 12a7 7 0 0 0 14 0c0-3-2-6-7-12z" fill="#fff"/><path d="M40 12h20v6H40z" fill="#9fb4c9"/>`,
+  tea: `<path d="M70 52h10a11 11 0 0 1 0 22H68" ${L} stroke-width="5"/><path d="M16 46h56v20a22 22 0 0 1-22 22H38a22 22 0 0 1-22-22z" fill="#fff" stroke="#9fb4c9" stroke-width="2"/><ellipse cx="44" cy="48" rx="26" ry="5" fill="#9bc53d"/><path d="M58 48V30" stroke="${K}" stroke-width="1.5"/><rect x="52" y="20" width="12" height="12" rx="2" fill="#58cc02"/><path d="M30 34q-5-7 0-14M42 34q-5-7 0-14" stroke="#b9bfc7" stroke-width="3" fill="none" stroke-linecap="round"/><ellipse cx="44" cy="92" rx="34" ry="5" fill="#dfe9f3"/>`,
+  coffee: `<path d="M68 44h10a11 11 0 0 1 0 22H68" stroke="#7a4a2a" stroke-width="6" fill="none"/><path d="M20 30h50v40a16 16 0 0 1-16 16H36a16 16 0 0 1-16-16z" fill="#a9703f"/><ellipse cx="45" cy="31" rx="25" ry="6" fill="#4b2e1a"/><path d="M32 22q-5-7 0-14M46 22q-5-7 0-14M60 22q-5-7 0-14" stroke="#b9bfc7" stroke-width="3" fill="none" stroke-linecap="round"/><g transform="rotate(-25 45 60)"><ellipse cx="45" cy="60" rx="8" ry="11" fill="#4b2e1a"/><path d="M45 50q-4 10 0 20" stroke="#a9703f" stroke-width="2" fill="none"/></g>`,
+  water: `<path d="M50 8C34 30 22 46 22 62a28 28 0 0 0 56 0c0-16-12-32-28-54z" fill="#4aa3f0"/><path d="M34 62c0 8 5 14 12 16" stroke="#fff" stroke-opacity=".7" stroke-width="5" stroke-linecap="round" fill="none"/>`,
+  cake: `<path d="M50 22V10" stroke="#f4a13a" stroke-width="4" stroke-linecap="round"/><path d="M50 2c4 4 4 8 0 10-4-2-4-6 0-10z" fill="#ff9f1c"/><rect x="26" y="26" width="48" height="24" rx="5" fill="#f7b6c2"/><rect x="12" y="50" width="76" height="34" rx="5" fill="#f6d9a8"/><path d="M12 58q9 12 19 0t19 0 19 0 19 0v-4a4 4 0 0 0-4-4H16a4 4 0 0 0-4 4z" fill="#fff"/><path d="M26 34q8 10 16 0t16 0 16 0v-4a4 4 0 0 0-4-4H30a4 4 0 0 0-4 4z" fill="#fff"/><circle cx="26" cy="72" r="3" fill="#e5383b"/><circle cx="50" cy="74" r="3" fill="#4aa3f0"/><circle cx="74" cy="72" r="3" fill="#58cc02"/><rect x="6" y="84" width="88" height="6" rx="3" fill="#b9bfc7"/>`,
+  // body
+  eye: `<path d="M6 52q44-44 88 0-44 44-88 0z" fill="#fff" stroke="${K}" stroke-width="3"/><circle cx="50" cy="52" r="17" fill="#4a90d9"/><circle cx="50" cy="52" r="8" fill="${K}"/><circle cx="56" cy="46" r="4" fill="#fff"/><path d="M20 30l-5-8M36 21l-3-9M64 21l3-9M80 30l5-8" ${L}/>`,
+  ear: `<path d="M58 92c-10 2-18-4-18-14 0-8-14-18-14-38a28 28 0 0 1 56 0c0 14-8 20-12 28-4 8-2 20-12 24z" fill="#f2c9a0" stroke="#c98e5c" stroke-width="2.5"/><path d="M40 44c-2-14 6-22 16-22 12 0 18 12 12 22-3 5-8 6-9 12M46 48c6-4 12 2 8 8" stroke="#c98e5c" stroke-width="3.5" fill="none" stroke-linecap="round"/>`,
+  nose: `<path d="M46 8c-2 26-12 40-22 54-8 12 2 24 14 20 4 6 14 6 20 0 12 4 22-8 14-20C62 48 56 34 54 8z" fill="#f2c9a0" stroke="#c98e5c" stroke-width="2.5"/><ellipse cx="38" cy="72" rx="6" ry="4" fill="#8a5a33"/><ellipse cx="62" cy="72" rx="6" ry="4" fill="#8a5a33"/>`,
+  mouth: `<path d="M8 46c14-18 28-22 42-12 14-10 28-6 42 12-10 26-30 34-42 34S18 72 8 46z" fill="#e5383b"/><path d="M14 46h72c-8 14-22 20-36 20s-28-6-36-20z" fill="#7a1f2b"/><path d="M26 46h48v7a3 3 0 0 1-3 3H29a3 3 0 0 1-3-3z" fill="#fff"/><path d="M36 64q14-8 28 0-14 8-28 0z" fill="#f08fa5"/>`,
+  hand: `<path d="M30 54V24a6 6 0 0 1 12 0v-8a6 6 0 0 1 12 0v6a6 6 0 0 1 12 0v10a6 6 0 0 1 12 0v32c0 18-12 28-26 28S34 86 26 72L12 52c-4-6 4-12 9-7z" fill="#f2c9a0" stroke="#c98e5c" stroke-width="2.5" stroke-linejoin="round"/><path d="M42 24v24M54 22v26M66 32v18" stroke="#c98e5c" stroke-width="2.5" stroke-linecap="round"/>`,
+  foot: `<path d="M34 6h28v40c14 10 30 14 32 28 1 8-4 12-12 12H30c-8 0-12-6-10-16 2-12 14-20 14-36z" fill="#f2c9a0" stroke="#c98e5c" stroke-width="2.5" stroke-linejoin="round"/><path d="M92 76q-4-6-10-4M82 70q-5-4-10-1M72 66q-5-3-9 0" stroke="#c98e5c" stroke-width="2.5" fill="none" stroke-linecap="round"/><path d="M34 6h28v10H34z" fill="#4aa3f0"/>`,
+  tooth: `<path d="M50 20c-10-10-34-8-34 14 0 14 6 20 8 34 2 12 4 22 10 22 8 0 6-22 16-22s8 22 16 22c6 0 8-10 10-22 2-14 8-20 8-34 0-22-24-24-34-14z" fill="#fff" stroke="#9fb4c9" stroke-width="3"/><path d="M28 34c0-6 4-9 9-9" stroke="#cfe0f0" stroke-width="5" stroke-linecap="round" fill="none"/>${eyes(42, 42, 58, 3)}${smile(50, 6)}`,
+  // family
+  father: `<path d="M22 100c0-22 12-28 28-28s28 6 28 28z" fill="#3b82c4"/>${face("#f2c9a0")}<path d="M23 50c-2-22 12-32 28-32 14 0 28 8 26 32-6-10-14-16-26-16s-22 6-28 16z" fill="#4b2e1a"/><path d="M38 66q6-6 12 0 6-6 12 0-6 5-12 2-6 3-12-2z" fill="#4b2e1a"/><path d="M46 80l4 16 4-16z" fill="#e5383b"/>`,
+  mother: `<path d="M20 40c0-18 14-26 30-26s30 8 30 26v44H20z" fill="#7a4a2a"/><path d="M22 100c0-22 12-28 28-28s28 6 28 28z" fill="#e8607a"/>${face("#f7d3b0")}<path d="M23 52c0-20 12-30 27-30s27 10 27 30c-10-4-18-10-22-18-6 10-18 16-32 18z" fill="#7a4a2a"/>${smile(66, 7)}<circle cx="34" cy="62" r="4" fill="#f7a8b8"/><circle cx="66" cy="62" r="4" fill="#f7a8b8"/>`,
+  baby: `<circle cx="50" cy="52" r="33" fill="#f7d3b0"/><path d="M50 19c-6-8 4-14 8-8" ${L}/>${eyes(48, 37, 63, 4)}<circle cx="50" cy="68" r="9" fill="#4aa3f0"/><circle cx="50" cy="68" r="4" fill="#fff"/><circle cx="30" cy="60" r="5" fill="#f7a8b8"/><circle cx="70" cy="60" r="5" fill="#f7a8b8"/><path d="M26 100c2-12 12-16 24-16s22 4 24 16z" fill="#ffd93b"/>`,
+  grandfather: `<path d="M22 100c0-22 12-28 28-28s28 6 28 28z" fill="#6b8e4e"/><circle cx="50" cy="54" r="27" fill="#f2c9a0"/><path d="M23 50c0-8 2-14 6-18l2 14zM77 50c0-8-2-14-6-18l-2 14z" fill="#dfe3e8"/><circle cx="39" cy="52" r="8" fill="#fff" fill-opacity=".5" stroke="${K}" stroke-width="2.5"/><circle cx="61" cy="52" r="8" fill="#fff" fill-opacity=".5" stroke="${K}" stroke-width="2.5"/><path d="M47 52h6" stroke="${K}" stroke-width="2.5"/><circle cx="39" cy="52" r="2.5" fill="${K}"/><circle cx="61" cy="52" r="2.5" fill="${K}"/><path d="M30 66c4 18 36 18 40 0-6 4-12 0-20 0s-14 4-20 0z" fill="#dfe3e8"/>`,
+  grandmother: `<circle cx="50" cy="16" r="11" fill="#dfe3e8"/><path d="M22 100c0-22 12-28 28-28s28 6 28 28z" fill="#9b6bc4"/><circle cx="50" cy="54" r="27" fill="#f7d3b0"/><path d="M22 54c-2-22 12-32 28-32s30 10 28 32c-6-10-14-18-28-18S28 44 22 54z" fill="#dfe3e8"/><circle cx="39" cy="54" r="8" fill="#fff" fill-opacity=".5" stroke="#b5651d" stroke-width="2.5"/><circle cx="61" cy="54" r="8" fill="#fff" fill-opacity=".5" stroke="#b5651d" stroke-width="2.5"/><path d="M47 54h6" stroke="#b5651d" stroke-width="2.5"/><circle cx="39" cy="54" r="2.5" fill="${K}"/><circle cx="61" cy="54" r="2.5" fill="${K}"/>${smile(68, 7)}`,
+  // everyday objects
+  book: `<path d="M50 24C38 14 22 14 8 18v60c14-4 30-4 42 6z" fill="#4aa3f0"/><path d="M50 24c12-10 28-10 42-6v60c-14-4-30-4-42 6z" fill="#2f7fd0"/><path d="M50 28C40 20 26 20 14 23v49c12-3 26-3 36 5zM50 28c10-8 24-8 36-5v49c-12-3-26-3-36 5z" fill="#fff"/><path d="M22 36q10-2 20 3M22 48q10-2 20 3M22 60q10-2 20 3M58 39q10-5 20-3M58 51q10-5 20-3M58 63q10-5 20-3" stroke="#b9bfc7" stroke-width="2.5" fill="none" stroke-linecap="round"/>`,
+  cup: `<path d="M68 38h10a12 12 0 0 1 0 24H68" stroke="#e0b000" stroke-width="7" fill="none"/><path d="M18 20h54v52a14 14 0 0 1-14 14H32a14 14 0 0 1-14-14z" fill="#ffd93b"/><path d="M28 30v36" stroke="#fff" stroke-opacity=".7" stroke-width="5" stroke-linecap="round"/><path d="M45 44l3 7 7 1-5 5 1 7-6-4-6 4 1-7-5-5 7-1z" fill="#fff"/>`,
+  table: `<rect x="6" y="30" width="88" height="12" rx="4" fill="#c4854d"/><rect x="14" y="42" width="9" height="48" fill="#a9703f"/><rect x="77" y="42" width="9" height="48" fill="#a9703f"/><rect x="23" y="42" width="54" height="7" fill="#a9703f"/>`,
+  chair: `<rect x="28" y="6" width="9" height="86" rx="3" fill="#a9703f"/><rect x="28" y="10" width="40" height="9" rx="3" fill="#c4854d"/><rect x="28" y="26" width="40" height="9" rx="3" fill="#c4854d"/><rect x="60" y="6" width="9" height="46" rx="3" fill="#a9703f"/><rect x="26" y="50" width="52" height="10" rx="4" fill="#c4854d"/><rect x="68" y="58" width="9" height="34" rx="3" fill="#a9703f"/>`,
+  computer: `<rect x="18" y="14" width="64" height="46" rx="5" fill="${K}"/><rect x="23" y="19" width="54" height="36" rx="2" fill="#7fd0ff"/><path d="M30 46l10-12 8 8 6-6 14 14" stroke="#fff" stroke-width="3" fill="none" stroke-linejoin="round"/><path d="M6 78l10-16h68l10 16a4 4 0 0 1-4 6H10a4 4 0 0 1-4-6z" fill="#b9bfc7"/><path d="M22 68h56M19 74h62" stroke="#8a929c" stroke-width="3" stroke-dasharray="5 3"/>`,
+  television: `<path d="M36 4l14 16L64 4" ${L}/><rect x="8" y="20" width="84" height="60" rx="8" fill="#e5383b"/><rect x="16" y="28" width="52" height="44" rx="5" fill="#7fd0ff"/><circle cx="80" cy="38" r="5" fill="#fff"/><circle cx="80" cy="54" r="5" fill="#fff"/><path d="M22 64l12-16 10 10 6-6 12 12z" fill="#58cc02"/><circle cx="56" cy="38" r="5" fill="#ffd93b"/><path d="M24 80l-6 12M76 80l6 12" ${L}/>`,
+  phone: `<rect x="28" y="4" width="44" height="92" rx="9" fill="${K}"/><rect x="33" y="14" width="34" height="66" rx="2" fill="#7fd0ff"/><circle cx="50" cy="88" r="4" fill="#8a929c"/><g fill="#fff"><rect x="38" y="20" width="10" height="10" rx="2"/><rect x="52" y="20" width="10" height="10" rx="2" fill="#ffd93b"/><rect x="38" y="34" width="10" height="10" rx="2" fill="#58cc02"/><rect x="52" y="34" width="10" height="10" rx="2" fill="#f0485f"/></g>`,
+  watch: `<rect x="36" y="2" width="28" height="96" rx="7" fill="#7a4a2a"/><circle cx="50" cy="50" r="27" fill="#b9bfc7"/><circle cx="50" cy="50" r="21" fill="#fff"/><path d="M50 36v14l9 6" ${L}/><rect x="76" y="46" width="6" height="8" rx="2" fill="#8a929c"/>`,
+  bed: `<rect x="6" y="28" width="9" height="60" rx="3" fill="#a9703f"/><rect x="85" y="46" width="9" height="42" rx="3" fill="#a9703f"/><rect x="12" y="56" width="76" height="20" fill="#c4854d"/><rect x="15" y="50" width="70" height="14" rx="5" fill="#fff"/><rect x="18" y="40" width="24" height="14" rx="6" fill="#dfe9f3" stroke="#9fb4c9" stroke-width="2"/><path d="M44 46h36a5 5 0 0 1 5 5v13H44z" fill="#4aa3f0"/>`,
+  door: `<rect x="20" y="4" width="60" height="92" rx="4" fill="#a9703f"/><rect x="27" y="11" width="46" height="85" fill="#c4854d"/><rect x="33" y="18" width="34" height="28" rx="3" fill="#a9703f"/><rect x="33" y="54" width="34" height="34" rx="3" fill="#a9703f"/><circle cx="66" cy="52" r="4.5" fill="#ffd93b"/>`,
+  pencil: `<g transform="rotate(45 50 50)"><rect x="42" y="2" width="16" height="12" rx="4" fill="#f7a8b8"/><rect x="42" y="12" width="16" height="7" fill="#b9bfc7"/><rect x="42" y="19" width="16" height="56" fill="#ffd93b"/><rect x="47" y="19" width="6" height="56" fill="#f2c200"/><path d="M42 75h16l-8 22z" fill="#f2cfa5"/><path d="M46.5 87h7L50 97z" fill="${K}"/></g>`,
+  bag: `<path d="M34 34V22a16 16 0 0 1 32 0v12" stroke="#5b3a21" stroke-width="6" fill="none"/><rect x="16" y="28" width="68" height="64" rx="12" fill="#e5383b"/><rect x="28" y="54" width="44" height="28" rx="6" fill="#b82a2d"/><path d="M28 62h44" stroke="#ffd93b" stroke-width="3"/><rect x="46" y="58" width="8" height="8" rx="2" fill="#ffd93b"/>`,
+  key: `<circle cx="28" cy="50" r="20" fill="#f2c200"/><circle cx="24" cy="50" r="7" fill="#fff"/><path d="M46 44h46v12h-8v10h-9V56h-6v8h-9v-8H46z" fill="#f2c200"/>`,
+  umbrella: `<path d="M50 44v40a9 9 0 0 1-18 0" ${L} stroke-width="4"/><path d="M50 8v6" ${L} stroke-width="4"/><path d="M6 50a44 40 0 0 1 88 0q-7-8-14.700 0-7.300-8-14.600 0-7.400-8-14.700 0-7.300-8-14.700 0-7.300-8-14.600 0Q13 42 6 50z" fill="#e5383b"/><path d="M50 12c-10 10-14 24-14.700 38M50 12c10 10 14 24 14.700 38" stroke="#b82a2d" stroke-width="2.5" fill="none"/>`,
+  clock: `<circle cx="50" cy="52" r="40" fill="#4aa3f0"/><circle cx="50" cy="52" r="32" fill="#fff"/><path d="M50 28v24l14 10" ${L} stroke-width="4"/><g fill="${K}"><circle cx="50" cy="25" r="2"/><circle cx="77" cy="52" r="2"/><circle cx="50" cy="79" r="2"/><circle cx="23" cy="52" r="2"/></g><path d="M20 12 8 24M80 12l12 12" stroke="#2f7fd0" stroke-width="7" stroke-linecap="round"/>`,
+  shoes: `<path d="M8 44c0-8 8-10 12-6l10 12c8-10 16-12 22-8l6 12c14 2 32 6 34 18v8a4 4 0 0 1-4 4H12a4 4 0 0 1-4-4z" fill="#4aa3f0"/><path d="M8 74h84v6a4 4 0 0 1-4 4H12a4 4 0 0 1-4-4z" fill="#fff" stroke="#9fb4c9" stroke-width="2"/><path d="M40 50l8 8M48 44l8 10M34 58l8 6" stroke="#fff" stroke-width="3" stroke-linecap="round"/>`,
+  hat: `<ellipse cx="50" cy="70" rx="46" ry="12" fill="#f2c200"/><path d="M22 70c0-30 8-48 28-48s28 18 28 48z" fill="#ffd93b"/><path d="M22.500 60c18 6 37 6 55 0v9c-18 6-37 6-55 0z" fill="#e5383b"/>`,
+  clothes: `<path d="M34 10 8 26l10 20 12-6v48h40V40l12 6 10-20-26-16c-4 10-28 10-32 0z" fill="#58cc02"/><path d="M34 10c4 14 28 14 32 0" stroke="#3f9a00" stroke-width="3" fill="none"/><rect x="40" y="46" width="20" height="14" rx="3" fill="#fff" fill-opacity=".6"/>`,
+  chopsticks: `<path d="M20 92 62 6M40 94 82 8" stroke="#a9703f" stroke-width="6" stroke-linecap="round"/><path d="M52.500 25.500 62 6M72.500 27.500 82 8" stroke="#e5383b" stroke-width="6" stroke-linecap="round"/>`,
+  money: `<rect x="4" y="30" width="80" height="44" rx="5" fill="#3f9a00" transform="rotate(-8 44 52)"/><rect x="12" y="34" width="84" height="46" rx="5" fill="#58cc02"/><rect x="18" y="40" width="72" height="34" rx="3" fill="none" stroke="#fff" stroke-width="2.5"/><circle cx="54" cy="57" r="12" fill="#fff"/><path d="M58 51c-6-3-10 0-8 3s9 2 8 6-6 4-9 1M54 47v20" ${L} stroke-width="2.500" stroke="#3f9a00"/>`,
+  ball: `<circle cx="50" cy="50" r="42" fill="#fff" stroke="${K}" stroke-width="3"/><path d="M50 34l15 11-6 18H41l-6-18z" fill="${K}"/><path d="M50 34V10M65 45l22-8M59 63l14 20M41 63 27 83M35 45l-22-8" stroke="${K}" stroke-width="3"/><path d="M34 12l16 6 16-6M88 36l-2 20 6 8M74 86l-16-4-16 4M12 36l2 20-6 8" stroke="${K}" stroke-width="3" fill="none"/>`,
+  // nature
+  sun: `<g stroke="#ff9f1c" stroke-width="7" stroke-linecap="round"><path d="M50 4v12M50 84v12M4 50h12M84 50h12M17 17l9 9M74 74l9 9M83 17l-9 9M26 74l-9 9"/></g><circle cx="50" cy="50" r="26" fill="#ffd93b"/>${eyes(46, 41, 59, 3)}${smile(54, 7)}`,
+  moon: `<path d="M64 8a44 44 0 1 0 28 60A36 36 0 0 1 64 8z" fill="#ffd93b"/><circle cx="40" cy="48" r="5" fill="#f2c200"/><circle cx="54" cy="72" r="4" fill="#f2c200"/><circle cx="30" cy="68" r="3" fill="#f2c200"/><path d="M78 20l2 6 6 2-6 2-2 6-2-6-6-2 6-2z" fill="#fff" stroke="#f2c200" stroke-width="1.5"/>`,
+  star: `<path d="M50 4l13 30 33 3-25 22 8 33-29-18-29 18 8-33L4 37l33-3z" fill="#ffd93b" stroke="#f2c200" stroke-width="3" stroke-linejoin="round"/>${eyes(46, 42, 58, 3)}${smile(54, 6)}`,
+  tree: `<rect x="43" y="56" width="14" height="38" rx="3" fill="#a9703f"/><circle cx="50" cy="32" r="26" fill="#58cc02"/><circle cx="28" cy="46" r="18" fill="#58cc02"/><circle cx="72" cy="46" r="18" fill="#58cc02"/><circle cx="40" cy="30" r="5" fill="#8ee04a"/><circle cx="64" cy="44" r="4" fill="#8ee04a"/><path d="M24 94h52" stroke="#3f9a00" stroke-width="5" stroke-linecap="round"/>`,
+  flower: `<path d="M50 58v36" stroke="#3f9a00" stroke-width="5" stroke-linecap="round"/><path d="M50 82c-10-12-22-10-26-4 8 8 18 8 26 4zM50 74c8-10 18-8 22-2-6 6-14 6-22 2z" fill="#58cc02"/><g fill="#f0719a"><circle cx="50" cy="16" r="13"/><circle cx="72" cy="32" r="13"/><circle cx="64" cy="56" r="13"/><circle cx="36" cy="56" r="13"/><circle cx="28" cy="32" r="13"/></g><circle cx="50" cy="38" r="12" fill="#ffd93b"/>`,
+  rain: `<path d="M24 54a18 18 0 0 1 4-36 24 24 0 0 1 46 4 16 16 0 0 1 2 32z" fill="#a9b6c5"/><g stroke="#4aa3f0" stroke-width="5" stroke-linecap="round"><path d="M28 64l-6 14M46 64l-6 14M64 64l-6 14M80 64l-6 14M38 82l-5 12M56 82l-5 12M72 82l-5 12"/></g>`,
+  snow: `<g stroke="#4aa3f0" stroke-width="5" stroke-linecap="round" fill="none"><path d="M50 6v88M12 28l76 44M12 72l76-44"/><path d="M40 12l10 10 10-10M40 88l10-10 10 10M12 42l12-8-2-14M88 58l-12 8 2 14M12 58l12 8-2 14M88 42l-12-8 2-14"/></g><circle cx="50" cy="50" r="7" fill="#fff" stroke="#4aa3f0" stroke-width="4"/>`,
+  mountain: `<path d="M2 88 38 22l22 40 12-18 26 44z" fill="#6b8e4e"/><path d="M38 22 26 44l8-4 6 8 6-10 6 6z" fill="#fff"/><path d="M72 44l-8 12 8-3 6 5z" fill="#fff"/><circle cx="82" cy="18" r="9" fill="#ffd93b"/><path d="M2 88h96v6H2z" fill="#3f9a00"/>`,
+  fire: `<path d="M50 4c4 18 26 28 26 54a26 26 0 0 1-52 0c0-12 6-20 12-26 0 8 4 12 8 12C40 28 46 16 50 4z" fill="#f0522b"/><path d="M50 40c2 10 14 16 14 28a14 14 0 0 1-28 0c0-8 4-12 8-16 0 4 2 6 4 6-2-6 0-12 2-18z" fill="#ffc21c"/><path d="M22 92h56" stroke="#7a4a2a" stroke-width="7" stroke-linecap="round"/>`,
+  cloud: `<path d="M24 76a20 20 0 0 1 4-40 26 26 0 0 1 50 6 17 17 0 0 1 0 34z" fill="#fff" stroke="#9fc7ea" stroke-width="3"/><path d="M34 62q8 6 16 0" stroke="#9fc7ea" stroke-width="3" fill="none" stroke-linecap="round"/>`,
+  // vehicles
+  car: `<path d="M14 54 26 30a8 8 0 0 1 7-4h34a8 8 0 0 1 7 4l12 24z" fill="#e5383b"/><path d="M26 52l8-18h14v18zM54 34h12l8 18H54z" fill="#bfe6ff"/><rect x="4" y="50" width="92" height="26" rx="10" fill="#e5383b"/><circle cx="26" cy="78" r="12" fill="${K}"/><circle cx="74" cy="78" r="12" fill="${K}"/><circle cx="26" cy="78" r="5" fill="#b9bfc7"/><circle cx="74" cy="78" r="5" fill="#b9bfc7"/><rect x="86" y="56" width="8" height="7" rx="2" fill="#ffd93b"/>`,
+  bus: `<rect x="4" y="16" width="92" height="62" rx="10" fill="#f9a03f"/><g fill="#bfe6ff"><rect x="12" y="26" width="16" height="20" rx="3"/><rect x="33" y="26" width="16" height="20" rx="3"/><rect x="54" y="26" width="16" height="20" rx="3"/><rect x="75" y="26" width="14" height="34" rx="3"/></g><path d="M4 56h66" stroke="#fff" stroke-width="5"/><circle cx="26" cy="80" r="11" fill="${K}"/><circle cx="72" cy="80" r="11" fill="${K}"/><circle cx="26" cy="80" r="4.5" fill="#b9bfc7"/><circle cx="72" cy="80" r="4.5" fill="#b9bfc7"/>`,
+  plane: `<g transform="rotate(-20 50 50)"><path d="M44 46 30 12h10l24 34zM44 54 30 88h10l24-34z" fill="#2f7fd0"/><path d="M14 44 6 26h8l12 16z" fill="#2f7fd0"/><path d="M8 42h66c12 0 20 4 20 8s-8 8-20 8H8z" fill="#fff" stroke="#9fb4c9" stroke-width="2.500"/><g fill="#4aa3f0"><circle cx="40" cy="50" r="3"/><circle cx="52" cy="50" r="3"/><circle cx="64" cy="50" r="3"/></g><path d="M78 44c6 0 10 2 13 4H78z" fill="#4aa3f0"/></g>`,
+  taxi: `<rect x="38" y="12" width="24" height="12" rx="3" fill="${K}"/><path d="M41 21h18" stroke="#ffd93b" stroke-width="4" stroke-dasharray="4 3"/><path d="M14 54 26 30a8 8 0 0 1 7-4h34a8 8 0 0 1 7 4l12 24z" fill="#ffd93b"/><path d="M26 52l8-18h14v18zM54 34h12l8 18H54z" fill="#bfe6ff"/><rect x="4" y="50" width="92" height="26" rx="10" fill="#ffd93b"/><g fill="${K}"><rect x="10" y="60" width="8" height="8"/><rect x="26" y="60" width="8" height="8"/><rect x="42" y="60" width="8" height="8"/><rect x="58" y="60" width="8" height="8"/><rect x="74" y="60" width="8" height="8"/></g><circle cx="26" cy="80" r="11" fill="${K}"/><circle cx="74" cy="80" r="11" fill="${K}"/><circle cx="26" cy="80" r="4.500" fill="#b9bfc7"/><circle cx="74" cy="80" r="4.500" fill="#b9bfc7"/>`,
+  bicycle: `<circle cx="22" cy="66" r="18" fill="none" stroke="${K}" stroke-width="5"/><circle cx="78" cy="66" r="18" fill="none" stroke="${K}" stroke-width="5"/><path d="M22 66 38 36h30l10 30M38 36l12 30h-28M50 66 68 36M64 22h12M68 22v14M30 30h14" stroke="#e5383b" stroke-width="5" fill="none" stroke-linecap="round" stroke-linejoin="round"/><circle cx="50" cy="66" r="5" fill="${K}"/>`,
+  train: `<rect x="16" y="6" width="68" height="70" rx="14" fill="#2f7fd0"/><rect x="24" y="16" width="52" height="26" rx="6" fill="#bfe6ff"/><path d="M50 16v26" stroke="#2f7fd0" stroke-width="4"/><circle cx="30" cy="58" r="6" fill="#ffd93b"/><circle cx="70" cy="58" r="6" fill="#ffd93b"/><rect x="40" y="52" width="20" height="10" rx="3" fill="#fff"/><path d="M30 76 18 94M70 76l12 18M22 88h56" stroke="${K}" stroke-width="5" stroke-linecap="round"/>`,
+  boat: `<path d="M50 6v52" stroke="#7a4a2a" stroke-width="5" stroke-linecap="round"/><path d="M54 10l30 44H54z" fill="#fff" stroke="#9fb4c9" stroke-width="2.500"/><path d="M46 20 22 54h24z" fill="#e5383b"/><path d="M8 62h84L80 82H22z" fill="#a9703f"/><path d="M2 86q8-7 16 0t16 0 16 0 16 0 16 0 16 0v10H2z" fill="#4aa3f0"/>`,
+  // places
+  house: `<rect x="66" y="12" width="10" height="22" fill="#b82a2d"/><path d="M50 8 4 48h92z" fill="#e5383b"/><rect x="14" y="48" width="72" height="44" fill="#fbe9cf"/><rect x="42" y="62" width="18" height="30" rx="2" fill="#a9703f"/><rect x="20" y="58" width="16" height="16" rx="2" fill="#7fd0ff" stroke="#fff" stroke-width="3"/><rect x="66" y="58" width="14" height="16" rx="2" fill="#7fd0ff" stroke="#fff" stroke-width="3"/><circle cx="56" cy="78" r="2" fill="#ffd93b"/>`,
+  school: `<path d="M50 14V2h16l-4 5 4 5H50" fill="#e5383b" stroke="${K}" stroke-width="2"/><path d="M50 14 26 36h48z" fill="#e5383b"/><rect x="4" y="46" width="92" height="46" fill="#ffd93b"/><rect x="28" y="36" width="44" height="56" fill="#ffe680"/><circle cx="50" cy="50" r="9" fill="#fff" stroke="${K}" stroke-width="2"/><path d="M50 45v5l4 2" stroke="${K}" stroke-width="2" fill="none"/><rect x="42" y="68" width="16" height="24" fill="#a9703f"/><g fill="#7fd0ff"><rect x="10" y="56" width="12" height="12"/><rect x="78" y="56" width="12" height="12"/><rect x="10" y="74" width="12" height="12"/><rect x="78" y="74" width="12" height="12"/></g>`,
+  hospital: `<rect x="10" y="20" width="80" height="72" rx="4" fill="#fff" stroke="#9fb4c9" stroke-width="3"/><rect x="34" y="6" width="32" height="32" rx="5" fill="#e5383b"/><path d="M50 12v20M40 22h20" stroke="#fff" stroke-width="7" stroke-linecap="round"/><rect x="42" y="68" width="16" height="24" fill="#4aa3f0"/><g fill="#7fd0ff"><rect x="18" y="46" width="14" height="12"/><rect x="68" y="46" width="14" height="12"/><rect x="18" y="66" width="14" height="12"/><rect x="68" y="66" width="14" height="12"/><rect x="43" y="46" width="14" height="12"/></g>`,
+  // colours
+  red: splash("#e5383b"),
+  blue: splash("#2f7fd0"),
+  green: splash("#3fae2a"),
+  yellow: splash("#ffd21f"),
+  black: splash("#2b2b2b"),
+  white: splash("#ffffff", "#9aa5b1"),
+  purple: splash("#8e4ec6"),
+  brown: splash("#8a5a33"),
+  pink: splash("#f58fb5"),
+  gray: splash("#9aa0a6"),
+};
+
+/** Words drawn by each picture: [English words, Chinese words]. */
+const WORDS: Record<string, [string, string]> = {
+  cat: ["cat", "猫"],
+  dog: ["dog", "狗"],
+  bird: ["bird", "鸟"],
+  fish: ["fish", "鱼"],
+  horse: ["horse", "马"],
+  cow: ["cow", "牛"],
+  panda: ["panda", "熊猫"],
+  pig: ["pig", "猪"],
+  chicken: ["chicken", ""],
+  duck: ["duck", ""],
+  rabbit: ["rabbit", "兔子"],
+  tiger: ["tiger", "老虎"],
+  elephant: ["elephant", "大象"],
+  monkey: ["monkey", "猴子"],
+  apple: ["apple", "苹果"],
+  banana: ["banana", "香蕉"],
+  watermelon: ["watermelon", "西瓜"],
+  grape: ["grape", "葡萄"],
+  orange: ["orange", "桔子 橘子"],
+  egg: ["egg", "鸡蛋"],
+  bread: ["bread", "面包"],
+  rice: ["rice", "米饭"],
+  noodles: ["noodles noodle", "面条"],
+  milk: ["milk", "牛奶"],
+  tea: ["tea", "茶"],
+  coffee: ["coffee", "咖啡"],
+  water: ["water", "水"],
+  cake: ["cake", "蛋糕"],
+  eye: ["eye", "眼睛"],
+  ear: ["ear", "耳朵"],
+  nose: ["nose", "鼻子"],
+  mouth: ["mouth", "嘴"],
+  hand: ["hand", "手"],
+  foot: ["foot", "脚"],
+  tooth: ["tooth", "牙齿"],
+  father: ["father dad", "爸爸"],
+  mother: ["mother mom", "妈妈"],
+  baby: ["baby", "婴儿"],
+  grandfather: ["grandfather", "爷爷"],
+  grandmother: ["grandmother", "奶奶"],
+  book: ["book", "书"],
+  cup: ["cup", "杯子"],
+  table: ["table", "桌子"],
+  chair: ["chair", "椅子"],
+  computer: ["computer", "电脑"],
+  television: ["", "电视"],
+  phone: ["phone", "手机"],
+  watch: ["", "手表"],
+  bed: ["bed", ""],
+  door: ["door", "门"],
+  pencil: ["pencil", "铅笔"],
+  bag: ["bag", ""],
+  key: ["key", "钥匙"],
+  umbrella: ["umbrella", "伞"],
+  clock: ["clock", "钟"],
+  shoes: ["shoes", "鞋"],
+  hat: ["hat", "帽子"],
+  clothes: ["clothes shirt", "衣服"],
+  chopsticks: ["chopsticks", "筷子"],
+  money: ["money", "钱"],
+  ball: ["ball football", ""],
+  sun: ["sun", "太阳"],
+  moon: ["moon", "月亮"],
+  star: ["star", ""],
+  tree: ["tree", "树"],
+  flower: ["flower", ""],
+  rain: ["rain", "下雨"],
+  snow: ["snow", "雪"],
+  mountain: ["mountain", ""],
+  fire: ["fire", "火"],
+  cloud: ["cloud", "云"],
+  car: ["car", ""],
+  bus: ["bus", "公共汽车"],
+  plane: ["plane", "飞机"],
+  taxi: ["taxi", "出租车"],
+  bicycle: ["bicycle bike", "自行车"],
+  train: ["train", ""],
+  boat: ["boat", "船"],
+  house: ["house", ""],
+  school: ["school", "学校"],
+  hospital: ["hospital", "医院"],
+  red: ["red", "红色 红"],
+  blue: ["blue", "蓝色 蓝"],
+  green: ["green", "绿色 绿"],
+  yellow: ["yellow", "黄色 黄"],
+  black: ["black", "黑色 黑"],
+  white: ["white", "白色 白"],
+  purple: ["purple", ""],
+  brown: ["brown", "棕色"],
+  pink: ["pink", "粉色"],
+  gray: ["gray", ""],
+};
+
+/** Pictures that look alike: a "wrong" pairing never uses a picture from the same group as the right one. */
+const GROUPS = [
+  ["cup", "tea", "coffee", "water", "milk"],
+  ["rice", "noodles", "chopsticks"],
+  ["bread", "cake"],
+  ["clock", "watch"],
+  ["car", "taxi", "bus"],
+  ["rain", "cloud", "umbrella", "snow", "water"],
+  ["father", "mother", "baby", "grandfather", "grandmother"],
+  ["bird", "chicken", "duck"],
+  ["computer", "television", "phone"],
+  ["table", "chair"],
+  ["sun", "star", "moon"],
+  ["eye", "ear", "nose", "mouth", "tooth"],
+  ["hand", "foot"],
+  ["black", "gray", "brown"],
+  ["red", "pink", "purple"],
+  ["house", "school", "hospital", "door"],
+  ["egg", "chicken"],
+  ["cow", "milk"],
+  ["boat", "water", "fish"],
+  ["orange", "apple"],
+  ["fire", "sun"],
+  ["tree", "flower"],
+  ["shoes", "foot", "clothes", "hat"],
+  ["book", "pencil", "school"],
+];
+
+const CONCEPT: Record<string, string> = {};
+for (const [concept, lists] of Object.entries(WORDS))
+  for (const w of lists.join(" ").split(" ")) if (w) CONCEPT[w] = concept;
+
+/** The picture (concept) of a course word, if it has one. */
+export const conceptOf = (word: string): string | undefined =>
+  CONCEPT[word.trim().toLowerCase()];
+export const alike = (a: string, b: string) =>
+  a === b || GROUPS.some((g) => g.includes(a) && g.includes(b));
+export const CONCEPTS = Object.keys(WORDS);
