@@ -4,7 +4,7 @@ import { weekId } from './merge';
 import { certKey } from './account';
 export { certKey };
 import { sanitize } from './store';
-import { BUNDLED_LESSONS, BUNDLED_UNITS, type RawLesson, type Unit } from '../data';
+import { BUNDLED_UNITS, isBundledLesson, type RawLesson, type Unit } from '../data';
 import type { Progress } from '../types';
 
 export interface AdminUser {
@@ -81,7 +81,7 @@ export const revokeCert = (uid: string, key: string) => setDoc(role(uid), { revo
 export const restoreCert = (uid: string, key: string) => setDoc(role(uid), { revoked: arrayRemove(key), ...touch() }, { merge: true });
 
 // ---------- content ----------
-const bundledLesson = (id: string) => BUNDLED_LESSONS.some((l) => l.id === id);
+const bundledLesson = isBundledLesson;
 export const saveLesson = (l: RawLesson) => setDoc(doc(db, 'lessons', l.id), JSON.parse(JSON.stringify(l)));
 /** Delete a lesson: custom lessons are removed; bundled ones are hidden with a tombstone. */
 export const deleteLesson = (id: string) =>

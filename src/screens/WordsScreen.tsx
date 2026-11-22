@@ -1,5 +1,5 @@
-import { useMemo, useState } from 'react';
-import { LESSONS, isEnglish } from '../data';
+import { useEffect, useMemo, useState } from 'react';
+import { LESSONS, courseLoaded, getCourse, isEnglish, loadCourse, useContentVersion } from '../data';
 import { useProgress } from '../lib/store';
 import { wordStatus } from '../lib/srs';
 import { toneless } from '../lib/pinyin';
@@ -16,6 +16,18 @@ export default function WordsScreen() {
   const [q, setQ] = useState('');
   const [sheet, setSheet] = useState<Word | null>(null);
   const query = fold(q.trim());
+  // the list fills in level by level while the course is downloaded
+  const version = useContentVersion();
+  const [failed, setFailed] = useState(false);
+  const loaded = courseLoaded();
+  useEffect(() => {
+    if (loaded || failed) return;
+    let live = true;
+    loadCourse(getCourse()).catch(() => live && setFailed(true));
+    return () => {
+      live = false;
+    };
+  }, [loaded, failed, version]);
   const groups = useMemo(
     () =>
       LESSONS.map((l) => ({
@@ -24,9 +36,10 @@ export default function WordsScreen() {
           (w) => !query || w.hanzi.toLowerCase().includes(q.trim().toLowerCase()) || (!!w.pinyin && toneless(w.pinyin).includes(toneless(q))) || fold(w.vi).includes(query),
         ),
       })).filter((g) => g.words.length),
-    [q, query],
+    // eslint-disable-next-line react-hooks/exhaustive-deps -- LESSONS changes with `version`
+    [q, query, version],
   );
-  const total = LESSONS.reduce((n, l) => n + l.words.length, 0);
+  const total = LESSONS.reduce((n, l) => n + l.wordCount, 0);
   return (
     <div className="mx-auto max-w-md px-4 pb-2 pt-4">
       <h1 className="text-2xl font-black">Từ vựng</h1>
@@ -38,6 +51,20 @@ export default function WordsScreen() {
         aria-label="Tìm từ"
         className="mb-4 w-full rounded-2xl border-2 border-cloud bg-mist px-4 py-3 font-bold outline-none focus:border-sky-400"
       />
+      {!loaded && (
+        <p className="mb-4 text-sm font-bold text-ink-400" data-testid="words-loading">
+          {failed ? (
+            <>
+              Không tải được hết từ vựng.{' '}
+              <button type="button" className="font-black text-sky-600 underline" onClick={() => setFailed(false)}>
+                Thử lại
+              </button>
+            </>
+          ) : (
+            'Đang tải thêm từ vựng…'
+          )}
+        </p>
+      )}
       {groups.map(({ l, words }) => (
         <section key={l.id} className="mb-5">
           <h2 className="mb-2 text-sm font-black uppercase tracking-wide text-ink-400">{l.title}</h2>

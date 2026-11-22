@@ -1,0 +1,92 @@
+{
+ "units": [
+  {"unit":32,"level":3,"title":"Phần 2: Học tập, công việc, thành phố","desc":"Trường lớp, cơ quan, giải trí, phố xá","color":"sky"}
+ ],
+ "lessons": [
+  {"id":"h3-07","title":"Trường lớp","desc":"Lớp, bảng đen, từ điển, bài tập, môn học","icon":"班","unit":32,"order":360,"words":[
+   {"id":"h3-07-班","hanzi":"班","pinyin":"bān","vi":"lớp","ex":{"tokens":["我们","班","有","三十","个","学生","。"],"py":["wǒmen","bān","yǒu","sānshí","ge","xuésheng","."],"vi":"Lớp chúng tôi có ba mươi học sinh.","alts":[]}},
+   {"id":"h3-07-年级","hanzi":"年级","pinyin":"niánjí","vi":"lớp (khối), năm học","ex":{"tokens":["我","弟弟","上","三","年级","。"],"py":["wǒ","dìdi","shàng","sān","niánjí","."],"vi":"Em trai tôi học lớp ba.","alts":[]}},
+   {"id":"h3-07-黑板","hanzi":"黑板","pinyin":"hēibǎn","vi":"bảng đen","ex":{"tokens":["请","看","黑板","。"],"py":["qǐng","kàn","hēibǎn","."],"vi":"Xin hãy nhìn lên bảng.","alts":[]}},
+   {"id":"h3-07-铅笔","hanzi":"铅笔","pinyin":"qiānbǐ","vi":"bút chì","ex":{"tokens":["我","可以","用","你","的","铅笔","吗","？"],"py":["wǒ","kěyǐ","yòng","nǐ","de","qiānbǐ","ma","?"],"vi":"Tôi dùng bút chì của bạn được không?","alts":[]}},
+   {"id":"h3-07-字典","hanzi":"字典","pinyin":"zìdiǎn","vi":"từ điển","ex":{"tokens":["我","想","买","一","本","字典","。"],"py":["wǒ","xiǎng","mǎi","yì","běn","zìdiǎn","."],"vi":"Tôi muốn mua một quyển từ điển.","alts":[]}},
+   {"id":"h3-07-词语","hanzi":"词语","pinyin":"cíyǔ","vi":"từ ngữ","ex":{"tokens":["这","个","词语","是","什么","意思","？"],"py":["zhè","ge","cíyǔ","shì","shénme","yìsi","?"],"vi":"Từ này có nghĩa là gì?","alts":[]}},
+   {"id":"h3-07-句子","hanzi":"句子","pinyin":"jùzi","vi":"câu","ex":{"tokens":["请","读","这","个","句子","。"],"py":["qǐng","dú","zhè","ge","jùzi","."],"vi":"Xin hãy đọc câu này.","alts":[]}},
+   {"id":"h3-07-作业","hanzi":"作业","pinyin":"zuòyè","vi":"bài tập về nhà","ex":{"tokens":["我","在","写","作业","。"],"py":["wǒ","zài","xiě","zuòyè","."],"vi":"Tôi đang làm bài tập.","alts":[]}},
+   {"id":"h3-07-成绩","hanzi":"成绩","pinyin":"chéngjì","vi":"thành tích, kết quả học tập","ex":{"tokens":["她","的","成绩","很","好","。"],"py":["tā","de","chéngjì","hěn","hǎo","."],"vi":"Thành tích của cô ấy rất tốt.","alts":[]}},
+   {"id":"h3-07-数学","hanzi":"数学","pinyin":"shùxué","vi":"toán học","ex":{"tokens":["我","喜欢","数学","。"],"py":["wǒ","xǐhuan","shùxué","."],"vi":"Tôi thích môn toán.","alts":[]}},
+   {"id":"h3-07-历史","hanzi":"历史","pinyin":"lìshǐ","vi":"lịch sử","ex":{"tokens":["中国","的","历史","很","长","。"],"py":["Zhōngguó","de","lìshǐ","hěn","cháng","."],"vi":"Lịch sử Trung Quốc rất dài.","alts":[]}},
+   {"id":"h3-07-体育","hanzi":"体育","pinyin":"tǐyù","vi":"thể dục, thể thao","ex":{"tokens":["今天","下午","有","体育","课","。"],"py":["jīntiān","xiàwǔ","yǒu","tǐyù","kè","."],"vi":"Chiều nay có tiết thể dục.","alts":[]}}
+  ]},
+  {"id":"h3-08","title":"Học tập","desc":"Ôn tập, luyện tập, trình độ, dễ, khó","icon":"习","unit":32,"order":370,"words":[
+   {"id":"h3-08-复习","hanzi":"复习","pinyin":"fùxí","vi":"ôn tập","ex":{"tokens":["明天","考试","，","我","要","复习","。"],"py":["míngtiān","kǎoshì",",","wǒ","yào","fùxí","."],"vi":"Ngày mai thi, tôi phải ôn tập.","alts":[]}},
+   {"id":"h3-08-练习","hanzi":"练习","pinyin":"liànxí","vi":"luyện tập; bài tập","ex":{"tokens":["我","每天","练习","说","汉语","。"],"py":["wǒ","měitiān","liànxí","shuō","Hànyǔ","."],"vi":"Ngày nào tôi cũng luyện nói tiếng Trung.","alts":[]}},
+   {"id":"h3-08-教","hanzi":"教","pinyin":"jiāo","vi":"dạy","ex":{"tokens":["王","老师","教","我们","汉语","。"],"py":["Wáng","lǎoshī","jiāo","wǒmen","Hànyǔ","."],"vi":"Thầy Vương dạy chúng tôi tiếng Trung.","alts":[]}},
+   {"id":"h3-08-讲","hanzi":"讲","pinyin":"jiǎng","vi":"giảng, kể, nói","ex":{"tokens":["老师","在","讲","课","。"],"py":["lǎoshī","zài","jiǎng","kè","."],"vi":"Thầy giáo đang giảng bài.","alts":[]}},
+   {"id":"h3-08-提高","hanzi":"提高","pinyin":"tígāo","vi":"nâng cao","ex":{"tokens":["我","想","提高","汉语","水平","。"],"py":["wǒ","xiǎng","tígāo","Hànyǔ","shuǐpíng","."],"vi":"Tôi muốn nâng cao trình độ tiếng Trung.","alts":[]}},
+   {"id":"h3-08-水平","hanzi":"水平","pinyin":"shuǐpíng","vi":"trình độ, mức độ","ex":{"tokens":["他","的","汉语","水平","很","高","。"],"py":["tā","de","Hànyǔ","shuǐpíng","hěn","gāo","."],"vi":"Trình độ tiếng Trung của anh ấy rất cao.","alts":[]}},
+   {"id":"h3-08-普通话","hanzi":"普通话","pinyin":"pǔtōnghuà","vi":"tiếng phổ thông","ex":{"tokens":["你","的","普通话","说","得","很","好","。"],"py":["nǐ","de","pǔtōnghuà","shuō","de","hěn","hǎo","."],"vi":"Bạn nói tiếng phổ thông rất tốt.","alts":[]}},
+   {"id":"h3-08-图书馆","hanzi":"图书馆","pinyin":"túshūguǎn","vi":"thư viện","ex":{"tokens":["我","常","去","图书馆","看","书","。"],"py":["wǒ","cháng","qù","túshūguǎn","kàn","shū","."],"vi":"Tôi thường đến thư viện đọc sách.","alts":[]}},
+   {"id":"h3-08-认真","hanzi":"认真","pinyin":"rènzhēn","vi":"chăm chỉ, nghiêm túc","ex":{"tokens":["她","学习","很","认真","。"],"py":["tā","xuéxí","hěn","rènzhēn","."],"vi":"Cô ấy học rất nghiêm túc.","alts":[]}},
+   {"id":"h3-08-努力","hanzi":"努力","pinyin":"nǔlì","vi":"cố gắng, nỗ lực","ex":{"tokens":["我们","要","努力","学习","。"],"py":["wǒmen","yào","nǔlì","xuéxí","."],"vi":"Chúng ta phải cố gắng học tập.","alts":[]}},
+   {"id":"h3-08-简单","hanzi":"简单","pinyin":"jiǎndān","vi":"đơn giản","ex":{"tokens":["这","个","问题","很","简单","。"],"py":["zhè","ge","wèntí","hěn","jiǎndān","."],"vi":"Câu hỏi này rất đơn giản.","alts":[]}},
+   {"id":"h3-08-容易","hanzi":"容易","pinyin":"róngyì","vi":"dễ, dễ dàng","ex":{"tokens":["汉语","不","容易","。"],"py":["Hànyǔ","bù","róngyì","."],"vi":"Tiếng Trung không dễ.","alts":[]}},
+   {"id":"h3-08-难","hanzi":"难","pinyin":"nán","vi":"khó","ex":{"tokens":["这","个","题","太","难","了","。"],"py":["zhè","ge","tí","tài","nán","le","."],"vi":"Câu này khó quá.","alts":[]}}
+  ]},
+  {"id":"h3-09","title":"Công việc","desc":"Văn phòng, hội nghị, giải quyết, quyết định","icon":"办","unit":32,"order":380,"words":[
+   {"id":"h3-09-办公室","hanzi":"办公室","pinyin":"bàngōngshì","vi":"văn phòng","ex":{"tokens":["经理","在","办公室","。"],"py":["jīnglǐ","zài","bàngōngshì","."],"vi":"Giám đốc ở trong văn phòng.","alts":[]}},
+   {"id":"h3-09-会议","hanzi":"会议","pinyin":"huìyì","vi":"hội nghị, cuộc họp","ex":{"tokens":["下午","有","一","个","会议","。"],"py":["xiàwǔ","yǒu","yí","ge","huìyì","."],"vi":"Buổi chiều có một cuộc họp.","alts":[]}},
+   {"id":"h3-09-参加","hanzi":"参加","pinyin":"cānjiā","vi":"tham gia","ex":{"tokens":["我","想","参加","比赛","。"],"py":["wǒ","xiǎng","cānjiā","bǐsài","."],"vi":"Tôi muốn tham gia cuộc thi.","alts":[]}},
+   {"id":"h3-09-完成","hanzi":"完成","pinyin":"wánchéng","vi":"hoàn thành","ex":{"tokens":["我","完成","作业","了","。"],"py":["wǒ","wánchéng","zuòyè","le","."],"vi":"Tôi hoàn thành bài tập rồi.","alts":[]}},
+   {"id":"h3-09-解决","hanzi":"解决","pinyin":"jiějué","vi":"giải quyết","ex":{"tokens":["这","个","问题","已经","解决","了","。"],"py":["zhè","ge","wèntí","yǐjīng","jiějué","le","."],"vi":"Vấn đề này đã được giải quyết rồi.","alts":[]}},
+   {"id":"h3-09-决定","hanzi":"决定","pinyin":"juédìng","vi":"quyết định","ex":{"tokens":["我","决定","去","中国","学习","。"],"py":["wǒ","juédìng","qù","Zhōngguó","xuéxí","."],"vi":"Tôi quyết định đi Trung Quốc học.","alts":[]}},
+   {"id":"h3-09-检查","hanzi":"检查","pinyin":"jiǎnchá","vi":"kiểm tra","ex":{"tokens":["请","检查","一下","你","的","作业","。"],"py":["qǐng","jiǎnchá","yíxià","nǐ","de","zuòyè","."],"vi":"Hãy kiểm tra lại bài tập của bạn.","alts":[]}},
+   {"id":"h3-09-办法","hanzi":"办法","pinyin":"bànfǎ","vi":"cách, biện pháp","ex":{"tokens":["我","有","一","个","好","办法","。"],"py":["wǒ","yǒu","yí","ge","hǎo","bànfǎ","."],"vi":"Tôi có một cách hay.","alts":[]}},
+   {"id":"h3-09-机会","hanzi":"机会","pinyin":"jīhuì","vi":"cơ hội","ex":{"tokens":["这","是","一","个","好","机会","。"],"py":["zhè","shì","yí","ge","hǎo","jīhuì","."],"vi":"Đây là một cơ hội tốt.","alts":[]}},
+   {"id":"h3-09-迟到","hanzi":"迟到","pinyin":"chídào","vi":"đến muộn","ex":{"tokens":["对不起","，","我","迟到","了","。"],"py":["duìbuqǐ",",","wǒ","chídào","le","."],"vi":"Xin lỗi, tôi đến muộn.","alts":[]}},
+   {"id":"h3-09-帮忙","hanzi":"帮忙","pinyin":"bāngmáng","vi":"giúp, giúp một tay","ex":{"tokens":["你","能","帮忙","吗","？"],"py":["nǐ","néng","bāngmáng","ma","?"],"vi":"Bạn có thể giúp một tay không?","alts":[]}},
+   {"id":"h3-09-需要","hanzi":"需要","pinyin":"xūyào","vi":"cần, cần phải","ex":{"tokens":["我","需要","你","的","帮助","。"],"py":["wǒ","xūyào","nǐ","de","bāngzhù","."],"vi":"Tôi cần sự giúp đỡ của bạn.","alts":[]}}
+  ]},
+  {"id":"h3-10","title":"Giải trí","desc":"Sở thích, âm nhạc, trò chơi, thi đấu, tin tức","icon":"乐","unit":32,"order":390,"words":[
+   {"id":"h3-10-爱好","hanzi":"爱好","pinyin":"àihào","vi":"sở thích","ex":{"tokens":["你","有","什么","爱好","？"],"py":["nǐ","yǒu","shénme","àihào","?"],"vi":"Bạn có sở thích gì?","alts":[]}},
+   {"id":"h3-10-兴趣","hanzi":"兴趣","pinyin":"xìngqù","vi":"hứng thú","ex":{"tokens":["我","对","音乐","很","有","兴趣","。"],"py":["wǒ","duì","yīnyuè","hěn","yǒu","xìngqù","."],"vi":"Tôi rất có hứng thú với âm nhạc.","alts":[]}},
+   {"id":"h3-10-音乐","hanzi":"音乐","pinyin":"yīnyuè","vi":"âm nhạc","ex":{"tokens":["我","喜欢","听","音乐","。"],"py":["wǒ","xǐhuan","tīng","yīnyuè","."],"vi":"Tôi thích nghe nhạc.","alts":[]}},
+   {"id":"h3-10-游戏","hanzi":"游戏","pinyin":"yóuxì","vi":"trò chơi","ex":{"tokens":["孩子","们","在","玩","游戏","。"],"py":["háizi","men","zài","wán","yóuxì","."],"vi":"Bọn trẻ đang chơi trò chơi.","alts":[]}},
+   {"id":"h3-10-比赛","hanzi":"比赛","pinyin":"bǐsài","vi":"trận đấu, cuộc thi","ex":{"tokens":["今天","的","比赛","很","好看","。"],"py":["jīntiān","de","bǐsài","hěn","hǎokàn","."],"vi":"Trận đấu hôm nay rất hay.","alts":[]}},
+   {"id":"h3-10-表演","hanzi":"表演","pinyin":"biǎoyǎn","vi":"biểu diễn","ex":{"tokens":["她","的","表演","很","好","。"],"py":["tā","de","biǎoyǎn","hěn","hǎo","."],"vi":"Phần biểu diễn của cô ấy rất hay.","alts":[]}},
+   {"id":"h3-10-节目","hanzi":"节目","pinyin":"jiémù","vi":"chương trình, tiết mục","ex":{"tokens":["这","个","电视","节目","很","有","意思","。"],"py":["zhè","ge","diànshì","jiémù","hěn","yǒu","yìsi","."],"vi":"Chương trình ti vi này rất thú vị.","alts":[]}},
+   {"id":"h3-10-故事","hanzi":"故事","pinyin":"gùshi","vi":"câu chuyện","ex":{"tokens":["奶奶","给","我","讲","故事","。"],"py":["nǎinai","gěi","wǒ","jiǎng","gùshi","."],"vi":"Bà nội kể chuyện cho tôi.","alts":[]}},
+   {"id":"h3-10-画","hanzi":"画","pinyin":"huà","vi":"vẽ; bức tranh","ex":{"tokens":["妹妹","喜欢","画","画","。"],"py":["mèimei","xǐhuan","huà","huà","."],"vi":"Em gái thích vẽ tranh.","alts":[]}},
+   {"id":"h3-10-新闻","hanzi":"新闻","pinyin":"xīnwén","vi":"tin tức, thời sự","ex":{"tokens":["爸爸","每天","看","新闻","。"],"py":["bàba","měitiān","kàn","xīnwén","."],"vi":"Ngày nào bố cũng xem thời sự.","alts":[]}},
+   {"id":"h3-10-电子邮件","hanzi":"电子邮件","pinyin":"diànzǐ yóujiàn","vi":"thư điện tử, email","ex":{"tokens":["我","给","你","发","了","电子邮件","。"],"py":["wǒ","gěi","nǐ","fā","le","diànzǐ yóujiàn","."],"vi":"Tôi đã gửi email cho bạn.","alts":[]}},
+   {"id":"h3-10-信","hanzi":"信","pinyin":"xìn","vi":"thư, bức thư","ex":{"tokens":["我","给","妈妈","写","信","。"],"py":["wǒ","gěi","māma","xiě","xìn","."],"vi":"Tôi viết thư cho mẹ.","alts":[]}}
+  ]},
+  {"id":"h3-11","title":"Thành phố","desc":"Đường phố, công viên, siêu thị, ngân hàng","icon":"城","unit":32,"order":400,"words":[
+   {"id":"h3-11-城市","hanzi":"城市","pinyin":"chéngshì","vi":"thành phố","ex":{"tokens":["河内","是","一","个","大","城市","。"],"py":["Hénèi","shì","yí","ge","dà","chéngshì","."],"vi":"Hà Nội là một thành phố lớn.","alts":[]}},
+   {"id":"h3-11-街道","hanzi":"街道","pinyin":"jiēdào","vi":"đường phố","ex":{"tokens":["这","条","街道","很","干净","。"],"py":["zhè","tiáo","jiēdào","hěn","gānjìng","."],"vi":"Con phố này rất sạch.","alts":[]}},
+   {"id":"h3-11-公园","hanzi":"公园","pinyin":"gōngyuán","vi":"công viên","ex":{"tokens":["我们","去","公园","玩","吧","。"],"py":["wǒmen","qù","gōngyuán","wán","ba","."],"vi":"Chúng ta ra công viên chơi nhé.","alts":[]}},
+   {"id":"h3-11-花园","hanzi":"花园","pinyin":"huāyuán","vi":"vườn hoa","ex":{"tokens":["我","家","有","一","个","小","花园","。"],"py":["wǒ","jiā","yǒu","yí","ge","xiǎo","huāyuán","."],"vi":"Nhà tôi có một vườn hoa nhỏ.","alts":[]}},
+   {"id":"h3-11-超市","hanzi":"超市","pinyin":"chāoshì","vi":"siêu thị","ex":{"tokens":["我","去","超市","买","东西","。"],"py":["wǒ","qù","chāoshì","mǎi","dōngxi","."],"vi":"Tôi đi siêu thị mua đồ.","alts":[]}},
+   {"id":"h3-11-宾馆","hanzi":"宾馆","pinyin":"bīnguǎn","vi":"khách sạn","ex":{"tokens":["这","个","宾馆","很","大","。"],"py":["zhè","ge","bīnguǎn","hěn","dà","."],"vi":"Khách sạn này rất lớn.","alts":[]}},
+   {"id":"h3-11-银行","hanzi":"银行","pinyin":"yínháng","vi":"ngân hàng","ex":{"tokens":["银行","在","学校","旁边","。"],"py":["yínháng","zài","xuéxiào","pángbiān","."],"vi":"Ngân hàng ở bên cạnh trường học.","alts":[]}},
+   {"id":"h3-11-地铁","hanzi":"地铁","pinyin":"dìtiě","vi":"tàu điện ngầm","ex":{"tokens":["我","坐","地铁","上班","。"],"py":["wǒ","zuò","dìtiě","shàngbān","."],"vi":"Tôi đi tàu điện ngầm đi làm.","alts":[]}},
+   {"id":"h3-11-地图","hanzi":"地图","pinyin":"dìtú","vi":"bản đồ","ex":{"tokens":["我","想","买","一","张","地图","。"],"py":["wǒ","xiǎng","mǎi","yì","zhāng","dìtú","."],"vi":"Tôi muốn mua một tấm bản đồ.","alts":[]}},
+   {"id":"h3-11-地方","hanzi":"地方","pinyin":"dìfang","vi":"nơi, chỗ, địa phương","ex":{"tokens":["这","个","地方","很","漂亮","。"],"py":["zhè","ge","dìfang","hěn","piàoliang","."],"vi":"Nơi này rất đẹp.","alts":[]}},
+   {"id":"h3-11-附近","hanzi":"附近","pinyin":"fùjìn","vi":"gần đây, lân cận","ex":{"tokens":["附近","有","超市","吗","？"],"py":["fùjìn","yǒu","chāoshì","ma","?"],"vi":"Gần đây có siêu thị không?","alts":[]}},
+   {"id":"h3-11-中间","hanzi":"中间","pinyin":"zhōngjiān","vi":"ở giữa","ex":{"tokens":["我","坐","在","中间","。"],"py":["wǒ","zuò","zài","zhōngjiān","."],"vi":"Tôi ngồi ở giữa.","alts":[]}}
+  ]},
+  {"id":"h3-12","title":"Phương hướng và đi lại","desc":"Đông tây nam bắc, hộ chiếu, gặp gỡ","icon":"东","unit":32,"order":410,"words":[
+   {"id":"h3-12-东","hanzi":"东","pinyin":"dōng","vi":"phía đông","ex":{"tokens":["太阳","从","东","边","出来","。"],"py":["tàiyáng","cóng","dōng","biān","chūlái","."],"vi":"Mặt trời mọc từ phía đông.","alts":[]}},
+   {"id":"h3-12-西","hanzi":"西","pinyin":"xī","vi":"phía tây","ex":{"tokens":["学校","在","城市","的","西","边","。"],"py":["xuéxiào","zài","chéngshì","de","xī","biān","."],"vi":"Trường học ở phía tây thành phố.","alts":[]}},
+   {"id":"h3-12-南","hanzi":"南","pinyin":"nán","vi":"phía nam","ex":{"tokens":["我","家","在","南","边","。"],"py":["wǒ","jiā","zài","nán","biān","."],"vi":"Nhà tôi ở phía nam.","alts":[]}},
+   {"id":"h3-12-北方","hanzi":"北方","pinyin":"běifāng","vi":"miền Bắc, phương bắc","ex":{"tokens":["北方","的","冬天","很","冷","。"],"py":["běifāng","de","dōngtiān","hěn","lěng","."],"vi":"Mùa đông miền Bắc rất lạnh.","alts":[]}},
+   {"id":"h3-12-护照","hanzi":"护照","pinyin":"hùzhào","vi":"hộ chiếu","ex":{"tokens":["请","给","我","看","一下","您","的","护照","。"],"py":["qǐng","gěi","wǒ","kàn","yíxià","nín","de","hùzhào","."],"vi":"Xin cho tôi xem hộ chiếu của ông/bà.","alts":[]}},
+   {"id":"h3-12-站","hanzi":"站","pinyin":"zhàn","vi":"đứng; bến, ga","ex":{"tokens":["我","在","下","一","站","下","车","。"],"py":["wǒ","zài","xià","yí","zhàn","xià","chē","."],"vi":"Tôi xuống xe ở bến tiếp theo.","alts":[]}},
+   {"id":"h3-12-辆","hanzi":"辆","pinyin":"liàng","vi":"chiếc (lượng từ của xe)","ex":{"tokens":["他","买","了","一","辆","新","车","。"],"py":["tā","mǎi","le","yí","liàng","xīn","chē","."],"vi":"Anh ấy đã mua một chiếc xe mới.","alts":[]}},
+   {"id":"h3-12-经过","hanzi":"经过","pinyin":"jīngguò","vi":"đi qua, trải qua","ex":{"tokens":["这","辆","公共汽车","经过","我","家","。"],"py":["zhè","liàng","gōnggòngqìchē","jīngguò","wǒ","jiā","."],"vi":"Chiếc xe buýt này đi qua nhà tôi.","alts":[]}},
+   {"id":"h3-12-离开","hanzi":"离开","pinyin":"líkāi","vi":"rời khỏi, rời đi","ex":{"tokens":["他","昨天","离开","了","北京","。"],"py":["tā","zuótiān","líkāi","le","Běijīng","."],"vi":"Hôm qua anh ấy đã rời Bắc Kinh.","alts":[]}},
+   {"id":"h3-12-接","hanzi":"接","pinyin":"jiē","vi":"đón; nhận, nối","ex":{"tokens":["我","去","机场","接","朋友","。"],"py":["wǒ","qù","jīchǎng","jiē","péngyou","."],"vi":"Tôi ra sân bay đón bạn.","alts":[]}},
+   {"id":"h3-12-遇到","hanzi":"遇到","pinyin":"yùdào","vi":"gặp, gặp phải","ex":{"tokens":["我","在","路","上","遇到","了","老师","。"],"py":["wǒ","zài","lù","shang","yùdào","le","lǎoshī","."],"vi":"Tôi gặp thầy giáo trên đường.","alts":[]}},
+   {"id":"h3-12-见面","hanzi":"见面","pinyin":"jiànmiàn","vi":"gặp mặt","ex":{"tokens":["我们","明天","见面","吧","。"],"py":["wǒmen","míngtiān","jiànmiàn","ba","."],"vi":"Ngày mai chúng ta gặp nhau nhé.","alts":["明天我们见面吧"]}}
+  ]}
+ ]
+}

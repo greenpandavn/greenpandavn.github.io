@@ -1,0 +1,83 @@
+{
+ "units": [
+  {"unit":2,"level":1,"title":"Phần 2: Cuộc sống hằng ngày","desc":"Ăn uống, màu sắc, thời gian, trường học","color":"sky"}
+ ],
+ "lessons": [
+  {"id":"l06","title":"Đồ ăn, thức uống","desc":"Ăn gì, uống gì?","icon":"food","unit":2,"order":60,"words":[
+   {"id":"l06-吃","hanzi":"吃","pinyin":"chī","vi":"ăn","ex":{"tokens":["我","想","吃","米饭","。"],"py":["wǒ","xiǎng","chī","mǐfàn","."],"vi":"Tôi muốn ăn cơm.","alts":[]}},
+   {"id":"l06-喝","hanzi":"喝","pinyin":"hē","vi":"uống","ex":{"tokens":["你","想","喝","什么","？"],"py":["nǐ","xiǎng","hē","shénme","?"],"vi":"Bạn muốn uống gì?","alts":[]}},
+   {"id":"l06-水","hanzi":"水","pinyin":"shuǐ","vi":"nước","ex":{"tokens":["我","想","喝","水","。"],"py":["wǒ","xiǎng","hē","shuǐ","."],"vi":"Tôi muốn uống nước.","alts":[]}},
+   {"id":"l06-米饭","hanzi":"米饭","pinyin":"mǐfàn","vi":"cơm (gạo nấu chín)","ex":{"tokens":["越南","人","喜欢","吃","米饭","。"],"py":["Yuènán","rén","xǐhuan","chī","mǐfàn","."],"vi":"Người Việt Nam thích ăn cơm.","alts":[]}},
+   {"id":"l06-菜","hanzi":"菜","pinyin":"cài","vi":"món ăn; rau","ex":{"tokens":["这","个","菜","很","好吃","。"],"py":["zhè","ge","cài","hěn","hǎochī","."],"vi":"Món này rất ngon.","alts":[]}},
+   {"id":"l06-茶","hanzi":"茶","pinyin":"chá","vi":"trà","ex":{"tokens":["中国","人","喜欢","喝","茶","。"],"py":["Zhōngguó","rén","xǐhuan","hē","chá","."],"vi":"Người Trung Quốc thích uống trà.","alts":[]}},
+   {"id":"l06-苹果","hanzi":"苹果","pinyin":"píngguǒ","vi":"quả táo","ex":{"tokens":["这","个","苹果","很","大","。"],"py":["zhè","ge","píngguǒ","hěn","dà","."],"vi":"Quả táo này rất to.","alts":[]}},
+   {"id":"l06-水果","hanzi":"水果","pinyin":"shuǐguǒ","vi":"hoa quả, trái cây","ex":{"tokens":["我","喜欢","吃","水果","。"],"py":["wǒ","xǐhuan","chī","shuǐguǒ","."],"vi":"Tôi thích ăn trái cây.","alts":[]}},
+   {"id":"l06-杯子","hanzi":"杯子","pinyin":"bēizi","vi":"cái cốc, cái ly","ex":{"tokens":["杯子","里","有","水","。"],"py":["bēizi","li","yǒu","shuǐ","."],"vi":"Trong cốc có nước.","alts":[]}},
+   {"id":"l06-饭店","hanzi":"饭店","pinyin":"fàndiàn","vi":"nhà hàng; khách sạn","ex":{"tokens":["我们","去","饭店","吃饭","。"],"py":["wǒmen","qù","fàndiàn","chīfàn","."],"vi":"Chúng ta đi nhà hàng ăn cơm.","alts":[]}},
+   {"id":"l06-喜欢","hanzi":"喜欢","pinyin":"xǐhuan","vi":"thích","ex":{"tokens":["你","喜欢","吃","什么","？"],"py":["nǐ","xǐhuan","chī","shénme","?"],"vi":"Bạn thích ăn gì?","alts":[]}},
+   {"id":"l06-想","hanzi":"想","pinyin":"xiǎng","vi":"muốn; nghĩ, nhớ","ex":{"tokens":["我","想","去","中国","。"],"py":["wǒ","xiǎng","qù","Zhōngguó","."],"vi":"Tôi muốn đi Trung Quốc.","alts":[]}}
+  ]},
+  {"id":"l07","title":"Màu sắc & miêu tả","desc":"Đỏ, xanh, to, nhỏ, đẹp","icon":"colors","unit":2,"order":70,"words":[
+   {"id":"l07-颜色","hanzi":"颜色","pinyin":"yánsè","vi":"màu sắc","ex":{"tokens":["你","喜欢","什么","颜色","？"],"py":["nǐ","xǐhuan","shénme","yánsè","?"],"vi":"Bạn thích màu gì?","alts":[]}},
+   {"id":"l07-红色","hanzi":"红色","pinyin":"hóngsè","vi":"màu đỏ","ex":{"tokens":["我","喜欢","红色","。"],"py":["wǒ","xǐhuan","hóngsè","."],"vi":"Tôi thích màu đỏ.","alts":[]}},
+   {"id":"l07-白色","hanzi":"白色","pinyin":"báisè","vi":"màu trắng","ex":{"tokens":["我","的","猫","是","白色","的","。"],"py":["wǒ","de","māo","shì","báisè","de","."],"vi":"Con mèo của tôi màu trắng.","alts":[]}},
+   {"id":"l07-黑色","hanzi":"黑色","pinyin":"hēisè","vi":"màu đen","ex":{"tokens":["他","的","狗","是","黑色","的","。"],"py":["tā","de","gǒu","shì","hēisè","de","."],"vi":"Con chó của anh ấy màu đen.","alts":[]}},
+   {"id":"l07-蓝色","hanzi":"蓝色","pinyin":"lánsè","vi":"màu xanh lam, xanh dương","ex":{"tokens":["天","是","蓝色","的","。"],"py":["tiān","shì","lánsè","de","."],"vi":"Bầu trời màu xanh lam.","alts":[]}},
+   {"id":"l07-绿色","hanzi":"绿色","pinyin":"lǜsè","vi":"màu xanh lá cây","ex":{"tokens":["我","有","一","件","绿色","的","衣服","。"],"py":["wǒ","yǒu","yí","jiàn","lǜsè","de","yīfu","."],"vi":"Tôi có một bộ quần áo màu xanh lá.","alts":[]}},
+   {"id":"l07-黄色","hanzi":"黄色","pinyin":"huángsè","vi":"màu vàng","ex":{"tokens":["这","个","杯子","是","黄色","的","。"],"py":["zhè","ge","bēizi","shì","huángsè","de","."],"vi":"Cái cốc này màu vàng.","alts":[]}},
+   {"id":"l07-大","hanzi":"大","pinyin":"dà","vi":"to, lớn","ex":{"tokens":["我","家","很","大","。"],"py":["wǒ","jiā","hěn","dà","."],"vi":"Nhà tôi rất to.","alts":[]}},
+   {"id":"l07-小","hanzi":"小","pinyin":"xiǎo","vi":"nhỏ, bé","ex":{"tokens":["这","只","猫","很","小","。"],"py":["zhè","zhī","māo","hěn","xiǎo","."],"vi":"Con mèo này rất nhỏ.","alts":[]}},
+   {"id":"l07-好","hanzi":"好","pinyin":"hǎo","vi":"tốt, hay, đẹp","ex":{"tokens":["今天","天气","很","好","。"],"py":["jīntiān","tiānqì","hěn","hǎo","."],"vi":"Hôm nay thời tiết rất đẹp.","alts":[]}},
+   {"id":"l07-漂亮","hanzi":"漂亮","pinyin":"piàoliang","vi":"đẹp, xinh","ex":{"tokens":["这","件","衣服","很","漂亮","。"],"py":["zhè","jiàn","yīfu","hěn","piàoliang","."],"vi":"Bộ quần áo này rất đẹp.","alts":[]}},
+   {"id":"l07-很","hanzi":"很","pinyin":"hěn","vi":"rất","ex":{"tokens":["我","很","好","，","谢谢","。"],"py":["wǒ","hěn","hǎo",",","xièxie","."],"vi":"Tôi rất khỏe, cảm ơn.","alts":[]}}
+  ]},
+  {"id":"l08","title":"Ngày tháng","desc":"Hôm nay, ngày mai, thứ mấy?","icon":"calendar","unit":2,"order":80,"words":[
+   {"id":"l08-今天","hanzi":"今天","pinyin":"jīntiān","vi":"hôm nay","ex":{"tokens":["今天","是","星期一","。"],"py":["jīntiān","shì","xīngqīyī","."],"vi":"Hôm nay là thứ Hai.","alts":[]}},
+   {"id":"l08-明天","hanzi":"明天","pinyin":"míngtiān","vi":"ngày mai","ex":{"tokens":["我","明天","去","学校","。"],"py":["wǒ","míngtiān","qù","xuéxiào","."],"vi":"Ngày mai tôi đến trường.","alts":["明天我去学校"]}},
+   {"id":"l08-昨天","hanzi":"昨天","pinyin":"zuótiān","vi":"hôm qua","ex":{"tokens":["我","昨天","去","商店","了","。"],"py":["wǒ","zuótiān","qù","shāngdiàn","le","."],"vi":"Hôm qua tôi đã đi cửa hàng.","alts":["昨天我去商店了"]}},
+   {"id":"l08-今年","hanzi":"今年","pinyin":"jīnnián","vi":"năm nay","ex":{"tokens":["今年","我","十八","岁","。"],"py":["jīnnián","wǒ","shíbā","suì","."],"vi":"Năm nay tôi mười tám tuổi.","alts":["我今年十八岁"]}},
+   {"id":"l08-年","hanzi":"年","pinyin":"nián","vi":"năm","ex":{"tokens":["一","年","有","十二","个","月","。"],"py":["yì","nián","yǒu","shí'èr","ge","yuè","."],"vi":"Một năm có mười hai tháng.","alts":[]}},
+   {"id":"l08-月","hanzi":"月","pinyin":"yuè","vi":"tháng; mặt trăng","ex":{"tokens":["现在","是","五","月","。"],"py":["xiànzài","shì","wǔ","yuè","."],"vi":"Bây giờ là tháng năm.","alts":[]}},
+   {"id":"l08-号","hanzi":"号","pinyin":"hào","vi":"ngày (trong tháng); số","ex":{"tokens":["今天","几","号","？"],"py":["jīntiān","jǐ","hào","?"],"vi":"Hôm nay là ngày mấy?","alts":[]}},
+   {"id":"l08-星期","hanzi":"星期","pinyin":"xīngqī","vi":"tuần, thứ (trong tuần)","ex":{"tokens":["明天","星期","几","？"],"py":["míngtiān","xīngqī","jǐ","?"],"vi":"Ngày mai là thứ mấy?","alts":[]}},
+   {"id":"l08-现在","hanzi":"现在","pinyin":"xiànzài","vi":"bây giờ","ex":{"tokens":["现在","几","点","？"],"py":["xiànzài","jǐ","diǎn","?"],"vi":"Bây giờ là mấy giờ?","alts":[]}},
+   {"id":"l08-时候","hanzi":"时候","pinyin":"shíhou","vi":"lúc, khi","ex":{"tokens":["你","什么","时候","去","北京","？"],"py":["nǐ","shénme","shíhou","qù","Běijīng","?"],"vi":"Khi nào bạn đi Bắc Kinh?","alts":[]}}
+  ]},
+  {"id":"l09","title":"Giờ giấc","desc":"Sáng, trưa, chiều và công việc","icon":"clock","unit":2,"order":90,"words":[
+   {"id":"l09-点","hanzi":"点","pinyin":"diǎn","vi":"giờ (chỉ thời điểm)","ex":{"tokens":["我们","十","点","见","。"],"py":["wǒmen","shí","diǎn","jiàn","."],"vi":"Chúng ta gặp nhau lúc mười giờ.","alts":[]}},
+   {"id":"l09-分钟","hanzi":"分钟","pinyin":"fēnzhōng","vi":"phút","ex":{"tokens":["请","等","五","分钟","。"],"py":["qǐng","děng","wǔ","fēnzhōng","."],"vi":"Xin vui lòng đợi năm phút.","alts":[]}},
+   {"id":"l09-上午","hanzi":"上午","pinyin":"shàngwǔ","vi":"buổi sáng","ex":{"tokens":["我","上午","在","学校","。"],"py":["wǒ","shàngwǔ","zài","xuéxiào","."],"vi":"Buổi sáng tôi ở trường.","alts":["上午我在学校"]}},
+   {"id":"l09-中午","hanzi":"中午","pinyin":"zhōngwǔ","vi":"buổi trưa","ex":{"tokens":["中午","我们","去","吃饭","。"],"py":["zhōngwǔ","wǒmen","qù","chīfàn","."],"vi":"Buổi trưa chúng ta đi ăn cơm.","alts":["我们中午去吃饭"]}},
+   {"id":"l09-下午","hanzi":"下午","pinyin":"xiàwǔ","vi":"buổi chiều","ex":{"tokens":["下午","我","去","商店","。"],"py":["xiàwǔ","wǒ","qù","shāngdiàn","."],"vi":"Buổi chiều tôi đi cửa hàng.","alts":["我下午去商店"]}},
+   {"id":"l09-睡觉","hanzi":"睡觉","pinyin":"shuìjiào","vi":"ngủ, đi ngủ","ex":{"tokens":["我","十一","点","睡觉","。"],"py":["wǒ","shíyī","diǎn","shuìjiào","."],"vi":"Tôi đi ngủ lúc mười một giờ.","alts":[]}},
+   {"id":"l09-工作","hanzi":"工作","pinyin":"gōngzuò","vi":"làm việc; công việc","ex":{"tokens":["我","爸爸","在","医院","工作","。"],"py":["wǒ","bàba","zài","yīyuàn","gōngzuò","."],"vi":"Bố tôi làm việc ở bệnh viện.","alts":[]}},
+   {"id":"l09-做","hanzi":"做","pinyin":"zuò","vi":"làm","ex":{"tokens":["你","在","做","什么","？"],"py":["nǐ","zài","zuò","shénme","?"],"vi":"Bạn đang làm gì thế?","alts":[]}},
+   {"id":"l09-回","hanzi":"回","pinyin":"huí","vi":"về, trở về","ex":{"tokens":["我","想","回","家","。"],"py":["wǒ","xiǎng","huí","jiā","."],"vi":"Tôi muốn về nhà.","alts":[]}},
+   {"id":"l09-了","hanzi":"了","pinyin":"le","vi":"rồi, đã (trợ từ)","ex":{"tokens":["他","回","家","了","。"],"py":["tā","huí","jiā","le","."],"vi":"Anh ấy về nhà rồi.","alts":[]}}
+  ]},
+  {"id":"l10","title":"Trường học","desc":"Thầy cô, bạn học, sách vở","icon":"school","unit":2,"order":100,"words":[
+   {"id":"l10-学校","hanzi":"学校","pinyin":"xuéxiào","vi":"trường học","ex":{"tokens":["我","的","学校","很","大","。"],"py":["wǒ","de","xuéxiào","hěn","dà","."],"vi":"Trường của tôi rất lớn.","alts":[]}},
+   {"id":"l10-老师","hanzi":"老师","pinyin":"lǎoshī","vi":"giáo viên, thầy/cô","ex":{"tokens":["我","的","汉语","老师","是","中国","人","。"],"py":["wǒ","de","Hànyǔ","lǎoshī","shì","Zhōngguó","rén","."],"vi":"Giáo viên tiếng Trung của tôi là người Trung Quốc.","alts":[]}},
+   {"id":"l10-学生","hanzi":"学生","pinyin":"xuésheng","vi":"học sinh, sinh viên","ex":{"tokens":["我们","都","是","学生","。"],"py":["wǒmen","dōu","shì","xuésheng","."],"vi":"Chúng tôi đều là học sinh.","alts":[]}},
+   {"id":"l10-同学","hanzi":"同学","pinyin":"tóngxué","vi":"bạn học, bạn cùng lớp","ex":{"tokens":["他","是","我","同学","。"],"py":["tā","shì","wǒ","tóngxué","."],"vi":"Cậu ấy là bạn cùng lớp của tôi.","alts":[]}},
+   {"id":"l10-学习","hanzi":"学习","pinyin":"xuéxí","vi":"học, học tập","ex":{"tokens":["我","在","学习","汉语","。"],"py":["wǒ","zài","xuéxí","Hànyǔ","."],"vi":"Tôi đang học tiếng Trung.","alts":[]}},
+   {"id":"l10-汉语","hanzi":"汉语","pinyin":"Hànyǔ","vi":"tiếng Hán, tiếng Trung","ex":{"tokens":["你","会","说","汉语","吗","？"],"py":["nǐ","huì","shuō","Hànyǔ","ma","?"],"vi":"Bạn biết nói tiếng Trung không?","alts":[]}},
+   {"id":"l10-书","hanzi":"书","pinyin":"shū","vi":"sách","ex":{"tokens":["这","是","我","的","书","。"],"py":["zhè","shì","wǒ","de","shū","."],"vi":"Đây là sách của tôi.","alts":[]}},
+   {"id":"l10-字","hanzi":"字","pinyin":"zì","vi":"chữ","ex":{"tokens":["这","个","字","怎么","读","？"],"py":["zhè","ge","zì","zěnme","dú","?"],"vi":"Chữ này đọc thế nào?","alts":[]}},
+   {"id":"l10-写","hanzi":"写","pinyin":"xiě","vi":"viết","ex":{"tokens":["我","会","写","汉字","。"],"py":["wǒ","huì","xiě","Hànzì","."],"vi":"Tôi biết viết chữ Hán.","alts":[]}},
+   {"id":"l10-读","hanzi":"读","pinyin":"dú","vi":"đọc","ex":{"tokens":["请","读","这","本","书","。"],"py":["qǐng","dú","zhè","běn","shū","."],"vi":"Hãy đọc quyển sách này.","alts":[]}},
+   {"id":"l10-说","hanzi":"说","pinyin":"shuō","vi":"nói","ex":{"tokens":["她","会","说","越南语","。"],"py":["tā","huì","shuō","Yuènányǔ","."],"vi":"Cô ấy biết nói tiếng Việt.","alts":[]}},
+   {"id":"l10-听","hanzi":"听","pinyin":"tīng","vi":"nghe","ex":{"tokens":["我","喜欢","听","中国","歌","。"],"py":["wǒ","xǐhuan","tīng","Zhōngguó","gē","."],"vi":"Tôi thích nghe bài hát Trung Quốc.","alts":[]}}
+  ]},
+  {"id":"b01","title":"Bonus: Món ngon","desc":"Mì, sủi cảo, cà phê, bánh mì","icon":"bonusfood","unit":2,"bonus":true,"cost":50,"order":160,"words":[
+   {"id":"b01-面条","hanzi":"面条","pinyin":"miàntiáo","vi":"mì, sợi mì","ex":{"tokens":["我","想","吃","面条","。"],"py":["wǒ","xiǎng","chī","miàntiáo","."],"vi":"Tôi muốn ăn mì.","alts":[]}},
+   {"id":"b01-饺子","hanzi":"饺子","pinyin":"jiǎozi","vi":"sủi cảo, bánh chẻo","ex":{"tokens":["中国","人","喜欢","吃","饺子","。"],"py":["Zhōngguó","rén","xǐhuan","chī","jiǎozi","."],"vi":"Người Trung Quốc thích ăn sủi cảo.","alts":[]}},
+   {"id":"b01-咖啡","hanzi":"咖啡","pinyin":"kāfēi","vi":"cà phê","ex":{"tokens":["越南","咖啡","很","好喝","。"],"py":["Yuènán","kāfēi","hěn","hǎohē","."],"vi":"Cà phê Việt Nam rất ngon.","alts":[]}},
+   {"id":"b01-牛奶","hanzi":"牛奶","pinyin":"niúnǎi","vi":"sữa bò","ex":{"tokens":["我","每天","喝","牛奶","。"],"py":["wǒ","měitiān","hē","niúnǎi","."],"vi":"Tôi uống sữa mỗi ngày.","alts":["每天我喝牛奶"]}},
+   {"id":"b01-鸡蛋","hanzi":"鸡蛋","pinyin":"jīdàn","vi":"trứng gà","ex":{"tokens":["我","买","了","十","个","鸡蛋","。"],"py":["wǒ","mǎi","le","shí","ge","jīdàn","."],"vi":"Tôi đã mua mười quả trứng gà.","alts":[]}},
+   {"id":"b01-面包","hanzi":"面包","pinyin":"miànbāo","vi":"bánh mì","ex":{"tokens":["越南","面包","很","好吃","。"],"py":["Yuènán","miànbāo","hěn","hǎochī","."],"vi":"Bánh mì Việt Nam rất ngon.","alts":[]}},
+   {"id":"b01-好吃","hanzi":"好吃","pinyin":"hǎochī","vi":"ngon (đồ ăn)","ex":{"tokens":["妈妈","做","的","菜","很","好吃","。"],"py":["māma","zuò","de","cài","hěn","hǎochī","."],"vi":"Món mẹ nấu rất ngon.","alts":[]}},
+   {"id":"b01-筷子","hanzi":"筷子","pinyin":"kuàizi","vi":"đôi đũa","ex":{"tokens":["我","会","用","筷子","。"],"py":["wǒ","huì","yòng","kuàizi","."],"vi":"Tôi biết dùng đũa.","alts":[]}}
+  ]}
+ ]
+}

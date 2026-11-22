@@ -2,6 +2,7 @@ import type { CourseId, Word } from "../types";
 import {
   BUNDLED_LESSONS,
   BUNDLED_UNITS,
+  levelWordCount,
   EN_LESSONS,
   EN_UNITS,
   isPunct,
@@ -526,7 +527,7 @@ export function levelWords(level: number, course: CourseId = "zh"): Word[] {
 /** Papers of a course: every level that has bundled content. */
 export const mockSpecs = (course: CourseId = "zh") =>
   MOCK_SPECS.filter(
-    (s) => s.course === course && levelWords(s.level, s.course).length >= 60,
+    (s) => s.course === course && levelWordCount(s.level, s.course) >= 60,
   );
 export const questionCount = (s: MockSpec) =>
   s.sections.reduce(

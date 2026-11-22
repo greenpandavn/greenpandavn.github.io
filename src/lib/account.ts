@@ -20,8 +20,24 @@ export const certKey = (c: { id: string; date: string }) => `${c.id}@${c.date}`;
 /** Certificates to show the learner (admin-revoked ones are hidden). */
 export const visibleCerts = <T extends { id: string; date: string }>(certs: T[], revoked: string[]) =>
   revoked.length ? certs.filter((c) => !revoked.includes(certKey(c))) : certs;
+const SIGNED_IN_KEY = 'gp-signed-in';
+/** True when an account was signed in on this device at the last launch (known before Firebase is loaded). */
+export function everSignedIn() {
+  try {
+    return localStorage.getItem(SIGNED_IN_KEY) === '1';
+  } catch {
+    return false;
+  }
+}
 export function setAccount(patch: Partial<AccountState>) {
   state = { ...state, ...patch };
+  if ('user' in patch || patch.ready)
+    try {
+      if (state.user) localStorage.setItem(SIGNED_IN_KEY, '1');
+      else if (state.ready) localStorage.removeItem(SIGNED_IN_KEY);
+    } catch {
+      /* private mode */
+    }
   listeners.forEach((l) => l());
 }
 export function useAccount() {

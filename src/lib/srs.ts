@@ -1,5 +1,5 @@
 import type { Progress, WordProgress, WordStatus, Word } from '../types';
-import { ALL_WORDS } from '../data';
+import { ALL_WORDS, knownWord, wordTotal } from '../data';
 
 const HOUR = 3600_000;
 // Review interval for each strength level (0..5)
@@ -49,7 +49,9 @@ export function weakestWords(p: Progress, limit = 10, now = Date.now()): Word[] 
 
 export function countByStatus(p: Progress) {
   const out = { new: 0, learning: 0, mastered: 0 };
-  for (const w of ALL_WORDS) out[wordStatus(p.words[w.id])]++;
+  // counted from the progress itself, so that it does not depend on which parts are downloaded
+  for (const id in p.words) if (knownWord(id)) out[wordStatus(p.words[id])]++;
+  out.new = Math.max(0, wordTotal() - out.learning - out.mastered);
   return out;
 }
 

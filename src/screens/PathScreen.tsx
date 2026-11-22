@@ -1,6 +1,6 @@
 import { useAccount, visibleCerts } from '../lib/account';
 import { useEffect, useRef, useState } from 'react';
-import { CORE_LESSONS, LESSONS, UNITS, isEnglish, levelLabel, useContentVersion } from '../data';
+import { CORE_LESSONS, LESSONS, UNITS, getCourse, isEnglish, levelLabel, loadUnits, useContentVersion } from '../data';
 import { CourseCards } from '../components/CoursePicker';
 import { currentLessonId, isDone as lessonDone, isTestUnlocked, isUnlocked as lessonUnlocked } from '../lib/unlock';
 import type { Lesson } from '../types';
@@ -30,7 +30,7 @@ const NODE_GLYPH: Record<string, string> = {
 
 export default function PathScreen({ onStart, onTest, onMock }: { onStart: (lessonId: string) => void; onTest: (unit: number) => void; onMock: () => void }) {
   const p = useProgress();
-  const course = useContentVersion();
+  useContentVersion();
   const en = isEnglish();
   const acc = useAccount();
   const [open, setOpen] = useState<string | null>(null);
@@ -50,7 +50,7 @@ export default function PathScreen({ onStart, onTest, onMock }: { onStart: (less
   const levels = [...new Set(UNITS.map((u) => u.level ?? 1))];
 
   return (
-    <div className="mx-auto max-w-md px-4 pb-2 pt-4" key={course}>
+    <div className="mx-auto max-w-md px-4 pb-2 pt-4" key={getCourse()}>
       <div className="mb-3">
         <CourseCards compact />
       </div>
@@ -109,7 +109,7 @@ export default function PathScreen({ onStart, onTest, onMock }: { onStart: (less
               <div id={`level-${level}`} className="mb-4 flex scroll-mt-16 items-center gap-3" data-testid={`level-${level}`}>
                 <span className="rounded-xl bg-ink-700 px-3 py-1 font-black text-white">{levelLabel(level)}</span>
                 <span className="text-sm font-extrabold text-ink-500">
-                  {levelLessons.filter((l) => isDone(l)).length}/{levelLessons.length} bài · {levelLessons.reduce((n, l) => n + l.words.length, 0)} từ
+                  {levelLessons.filter((l) => isDone(l)).length}/{levelLessons.length} bài · {levelLessons.reduce((n, l) => n + l.wordCount, 0)} từ
                 </span>
                 <span className="h-0.5 flex-1 rounded bg-cloud" />
               </div>
@@ -225,6 +225,8 @@ function LessonPopover({
   onStart: () => void;
   onUnlock: () => void;
 }) {
+  // the words of the part are fetched as soon as the card opens, so that the lesson starts without a wait
+  useEffect(() => void loadUnits([lesson.unit]).catch(() => {}), [lesson.unit]);
   return (
     <div
       className="absolute top-[108px] z-20 w-[280px] animate-pop rounded-2xl border-2 border-cloud bg-white p-4 text-left shadow-lg"
@@ -232,9 +234,9 @@ function LessonPopover({
       onClick={(e) => e.stopPropagation()}
     >
       <div className="text-lg font-black text-ink-700">{lesson.title}</div>
-      <div className="mb-1 text-sm font-semibold text-ink-500">{lesson.desc}</div>
+      <div className="mb-1 min-h-5 text-sm font-semibold text-ink-500">{lesson.desc}</div>
       <div className="mb-3 font-han text-sm text-ink-400">
-        {lesson.words.length} từ: {lesson.words.slice(0, 6).map((w) => w.hanzi).join(lesson.words[0]?.pinyin ? '、' : ', ')}…
+        {lesson.wordCount} từ{lesson.words.length > 0 && `: ${lesson.words.slice(0, 6).map((w) => w.hanzi).join(lesson.words[0]?.pinyin ? '、' : ', ')}…`}
       </div>
       {unlocked ? (
         <button type="button" className={done ? 'btn-white' : 'btn-green'} onClick={onStart} data-testid="start-lesson">

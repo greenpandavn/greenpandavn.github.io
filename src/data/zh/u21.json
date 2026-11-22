@@ -1,0 +1,62 @@
+{
+ "units": [
+  {"unit":21,"level":2,"title":"Phần 1: Con người và cuộc sống","desc":"Gia đình, thời gian, sinh hoạt, sở thích","color":"leaf"}
+ ],
+ "lessons": [
+  {"id":"h2-01","title":"Gia đình và mọi người","desc":"Anh chị em, vợ chồng, con cái","icon":"哥","unit":21,"order":180,"words":[
+   {"id":"h2-01-哥哥","hanzi":"哥哥","pinyin":"gēge","vi":"anh trai","ex":{"tokens":["我","哥哥","是","医生","。"],"py":["wǒ","gēge","shì","yīshēng","."],"vi":"Anh trai tôi là bác sĩ.","alts":[]}},
+   {"id":"h2-01-姐姐","hanzi":"姐姐","pinyin":"jiějie","vi":"chị gái","ex":{"tokens":["姐姐","在","北京","工作","。"],"py":["jiějie","zài","Běijīng","gōngzuò","."],"vi":"Chị gái làm việc ở Bắc Kinh.","alts":[]}},
+   {"id":"h2-01-弟弟","hanzi":"弟弟","pinyin":"dìdi","vi":"em trai","ex":{"tokens":["我","弟弟","今年","八","岁","。"],"py":["wǒ","dìdi","jīnnián","bā","suì","."],"vi":"Em trai tôi năm nay tám tuổi.","alts":[]}},
+   {"id":"h2-01-妹妹","hanzi":"妹妹","pinyin":"mèimei","vi":"em gái","ex":{"tokens":["妹妹","喜欢","小","猫","。"],"py":["mèimei","xǐhuan","xiǎo","māo","."],"vi":"Em gái thích mèo con.","alts":[]}},
+   {"id":"h2-01-丈夫","hanzi":"丈夫","pinyin":"zhàngfu","vi":"chồng","ex":{"tokens":["她","丈夫","是","老师","。"],"py":["tā","zhàngfu","shì","lǎoshī","."],"vi":"Chồng cô ấy là giáo viên.","alts":[]}},
+   {"id":"h2-01-妻子","hanzi":"妻子","pinyin":"qīzi","vi":"vợ","ex":{"tokens":["他","妻子","很","漂亮","。"],"py":["tā","qīzi","hěn","piàoliang","."],"vi":"Vợ anh ấy rất xinh đẹp.","alts":[]}},
+   {"id":"h2-01-孩子","hanzi":"孩子","pinyin":"háizi","vi":"con, đứa trẻ","ex":{"tokens":["他们","有","两","个","孩子","。"],"py":["tāmen","yǒu","liǎng","ge","háizi","."],"vi":"Họ có hai đứa con.","alts":[]}},
+   {"id":"h2-01-男人","hanzi":"男人","pinyin":"nánrén","vi":"đàn ông","ex":{"tokens":["那","个","男人","是","谁","？"],"py":["nà","ge","nánrén","shì","shéi","?"],"vi":"Người đàn ông kia là ai?","alts":[]}},
+   {"id":"h2-01-女人","hanzi":"女人","pinyin":"nǚrén","vi":"phụ nữ","ex":{"tokens":["那","个","女人","是","我","妈妈","。"],"py":["nà","ge","nǚrén","shì","wǒ","māma","."],"vi":"Người phụ nữ kia là mẹ tôi.","alts":[]}},
+   {"id":"h2-01-大家","hanzi":"大家","pinyin":"dàjiā","vi":"mọi người","ex":{"tokens":["大家","好","！"],"py":["dàjiā","hǎo","!"],"vi":"Chào mọi người!","alts":[]}},
+   {"id":"h2-01-您","hanzi":"您","pinyin":"nín","vi":"ông, bà, ngài (kính trọng)","ex":{"tokens":["您","好","，","请","坐","。"],"py":["nín","hǎo",",","qǐng","zuò","."],"vi":"Chào ông/bà, mời ngồi.","alts":[]}},
+   {"id":"h2-01-它","hanzi":"它","pinyin":"tā","vi":"nó (đồ vật, con vật)","ex":{"tokens":["它","是","我","的","小","狗","。"],"py":["tā","shì","wǒ","de","xiǎo","gǒu","."],"vi":"Nó là con chó nhỏ của tôi.","alts":[]}}
+  ]},
+  {"id":"h2-02","title":"Thời gian","desc":"Sáng, tối, giờ giấc, ngày tháng","icon":"时","unit":21,"order":190,"words":[
+   {"id":"h2-02-早上","hanzi":"早上","pinyin":"zǎoshang","vi":"buổi sáng","ex":{"tokens":["早上","好","！"],"py":["zǎoshang","hǎo","!"],"vi":"Chào buổi sáng!","alts":[]}},
+   {"id":"h2-02-晚上","hanzi":"晚上","pinyin":"wǎnshang","vi":"buổi tối","ex":{"tokens":["晚上","我","看","电视","。"],"py":["wǎnshang","wǒ","kàn","diànshì","."],"vi":"Buổi tối tôi xem ti vi.","alts":["我晚上看电视"]}},
+   {"id":"h2-02-小时","hanzi":"小时","pinyin":"xiǎoshí","vi":"tiếng (đồng hồ)","ex":{"tokens":["我","每天","学习","两","个","小时","。"],"py":["wǒ","měitiān","xuéxí","liǎng","ge","xiǎoshí","."],"vi":"Mỗi ngày tôi học hai tiếng.","alts":["每天我学习两个小时"]}},
+   {"id":"h2-02-时间","hanzi":"时间","pinyin":"shíjiān","vi":"thời gian","ex":{"tokens":["今天","我","没有","时间","。"],"py":["jīntiān","wǒ","méiyǒu","shíjiān","."],"vi":"Hôm nay tôi không có thời gian.","alts":["我今天没有时间"]}},
+   {"id":"h2-02-去年","hanzi":"去年","pinyin":"qùnián","vi":"năm ngoái","ex":{"tokens":["去年","我","去","了","中国","。"],"py":["qùnián","wǒ","qù","le","Zhōngguó","."],"vi":"Năm ngoái tôi đã đi Trung Quốc.","alts":["我去年去了中国"]}},
+   {"id":"h2-02-生日","hanzi":"生日","pinyin":"shēngrì","vi":"sinh nhật","ex":{"tokens":["祝","你","生日","快乐","！"],"py":["zhù","nǐ","shēngrì","kuàilè","!"],"vi":"Chúc bạn sinh nhật vui vẻ!","alts":[]}},
+   {"id":"h2-02-每","hanzi":"每","pinyin":"měi","vi":"mỗi","ex":{"tokens":["我","每","天","都","喝","茶","。"],"py":["wǒ","měi","tiān","dōu","hē","chá","."],"vi":"Ngày nào tôi cũng uống trà.","alts":[]}},
+   {"id":"h2-02-日","hanzi":"日","pinyin":"rì","vi":"ngày, mùng","ex":{"tokens":["今天","是","八","月","九","日","。"],"py":["jīntiān","shì","bā","yuè","jiǔ","rì","."],"vi":"Hôm nay là ngày 9 tháng 8.","alts":[]}},
+   {"id":"h2-02-已经","hanzi":"已经","pinyin":"yǐjīng","vi":"đã, rồi","ex":{"tokens":["他","已经","回","家","了","。"],"py":["tā","yǐjīng","huí","jiā","le","."],"vi":"Anh ấy đã về nhà rồi.","alts":[]}},
+   {"id":"h2-02-正在","hanzi":"正在","pinyin":"zhèngzài","vi":"đang","ex":{"tokens":["妈妈","正在","做","饭","。"],"py":["māma","zhèngzài","zuò","fàn","."],"vi":"Mẹ đang nấu cơm.","alts":[]}},
+   {"id":"h2-02-开始","hanzi":"开始","pinyin":"kāishǐ","vi":"bắt đầu","ex":{"tokens":["电影","开始","了","。"],"py":["diànyǐng","kāishǐ","le","."],"vi":"Phim bắt đầu rồi.","alts":[]}}
+  ]},
+  {"id":"h2-03","title":"Sinh hoạt hằng ngày","desc":"Thức dậy, đi làm, nghỉ ngơi","icon":"起","unit":21,"order":200,"words":[
+   {"id":"h2-03-起床","hanzi":"起床","pinyin":"qǐchuáng","vi":"thức dậy, ngủ dậy","ex":{"tokens":["我","早上","六","点","起床","。"],"py":["wǒ","zǎoshang","liù","diǎn","qǐchuáng","."],"vi":"Buổi sáng tôi dậy lúc sáu giờ.","alts":[]}},
+   {"id":"h2-03-上班","hanzi":"上班","pinyin":"shàngbān","vi":"đi làm","ex":{"tokens":["爸爸","八","点","上班","。"],"py":["bàba","bā","diǎn","shàngbān","."],"vi":"Bố đi làm lúc tám giờ.","alts":[]}},
+   {"id":"h2-03-休息","hanzi":"休息","pinyin":"xiūxi","vi":"nghỉ ngơi","ex":{"tokens":["你","累","了","，","休息","一下","吧","。"],"py":["nǐ","lèi","le",",","xiūxi","yíxià","ba","."],"vi":"Bạn mệt rồi, nghỉ một chút đi.","alts":[]}},
+   {"id":"h2-03-洗","hanzi":"洗","pinyin":"xǐ","vi":"rửa, giặt","ex":{"tokens":["我","在","洗","衣服","。"],"py":["wǒ","zài","xǐ","yīfu","."],"vi":"Tôi đang giặt quần áo.","alts":[]}},
+   {"id":"h2-03-穿","hanzi":"穿","pinyin":"chuān","vi":"mặc, đi (giày)","ex":{"tokens":["她","穿","红色","的","衣服","。"],"py":["tā","chuān","hóngsè","de","yīfu","."],"vi":"Cô ấy mặc quần áo màu đỏ.","alts":[]}},
+   {"id":"h2-03-走","hanzi":"走","pinyin":"zǒu","vi":"đi, đi bộ","ex":{"tokens":["我们","走","吧","。"],"py":["wǒmen","zǒu","ba","."],"vi":"Chúng ta đi thôi.","alts":[]}},
+   {"id":"h2-03-进","hanzi":"进","pinyin":"jìn","vi":"vào","ex":{"tokens":["请","进","！"],"py":["qǐng","jìn","!"],"vi":"Mời vào!","alts":[]}},
+   {"id":"h2-03-出","hanzi":"出","pinyin":"chū","vi":"ra, ra ngoài","ex":{"tokens":["他","出","门","了","。"],"py":["tā","chū","mén","le","."],"vi":"Anh ấy ra khỏi nhà rồi.","alts":[]}},
+   {"id":"h2-03-找","hanzi":"找","pinyin":"zhǎo","vi":"tìm","ex":{"tokens":["你","找","谁","？"],"py":["nǐ","zhǎo","shéi","?"],"vi":"Bạn tìm ai?","alts":[]}},
+   {"id":"h2-03-玩","hanzi":"玩","pinyin":"wán","vi":"chơi","ex":{"tokens":["孩子","们","在","外面","玩","。"],"py":["háizi","men","zài","wàimiàn","wán","."],"vi":"Bọn trẻ đang chơi ở bên ngoài.","alts":[]}},
+   {"id":"h2-03-完","hanzi":"完","pinyin":"wán","vi":"xong, hết","ex":{"tokens":["我","吃","完","了","。"],"py":["wǒ","chī","wán","le","."],"vi":"Tôi ăn xong rồi.","alts":[]}},
+   {"id":"h2-03-准备","hanzi":"准备","pinyin":"zhǔnbèi","vi":"chuẩn bị","ex":{"tokens":["你","准备","好","了","吗","？"],"py":["nǐ","zhǔnbèi","hǎo","le","ma","?"],"vi":"Bạn chuẩn bị xong chưa?","alts":[]}}
+  ]},
+  {"id":"h2-04","title":"Thể thao và sở thích","desc":"Vận động, ca hát, du lịch","icon":"跑","unit":21,"order":210,"words":[
+   {"id":"h2-04-运动","hanzi":"运动","pinyin":"yùndòng","vi":"vận động, thể thao","ex":{"tokens":["我","喜欢","运动","。"],"py":["wǒ","xǐhuan","yùndòng","."],"vi":"Tôi thích thể thao.","alts":[]}},
+   {"id":"h2-04-跑步","hanzi":"跑步","pinyin":"pǎobù","vi":"chạy bộ","ex":{"tokens":["他","每天","早上","跑步","。"],"py":["tā","měitiān","zǎoshang","pǎobù","."],"vi":"Sáng nào anh ấy cũng chạy bộ.","alts":[]}},
+   {"id":"h2-04-游泳","hanzi":"游泳","pinyin":"yóuyǒng","vi":"bơi, bơi lội","ex":{"tokens":["我","不","会","游泳","。"],"py":["wǒ","bú","huì","yóuyǒng","."],"vi":"Tôi không biết bơi.","alts":[]}},
+   {"id":"h2-04-打篮球","hanzi":"打篮球","pinyin":"dǎ lánqiú","vi":"chơi bóng rổ","ex":{"tokens":["哥哥","喜欢","打篮球","。"],"py":["gēge","xǐhuan","dǎ lánqiú","."],"vi":"Anh trai thích chơi bóng rổ.","alts":[]}},
+   {"id":"h2-04-踢足球","hanzi":"踢足球","pinyin":"tī zúqiú","vi":"đá bóng","ex":{"tokens":["弟弟","在","踢足球","。"],"py":["dìdi","zài","tī zúqiú","."],"vi":"Em trai đang đá bóng.","alts":[]}},
+   {"id":"h2-04-唱歌","hanzi":"唱歌","pinyin":"chànggē","vi":"hát, ca hát","ex":{"tokens":["她","唱歌","很","好听","。"],"py":["tā","chànggē","hěn","hǎotīng","."],"vi":"Cô ấy hát rất hay.","alts":[]}},
+   {"id":"h2-04-跳舞","hanzi":"跳舞","pinyin":"tiàowǔ","vi":"nhảy, khiêu vũ","ex":{"tokens":["妹妹","会","跳舞","。"],"py":["mèimei","huì","tiàowǔ","."],"vi":"Em gái biết nhảy.","alts":[]}},
+   {"id":"h2-04-旅游","hanzi":"旅游","pinyin":"lǚyóu","vi":"du lịch","ex":{"tokens":["我","想","去","中国","旅游","。"],"py":["wǒ","xiǎng","qù","Zhōngguó","lǚyóu","."],"vi":"Tôi muốn đi du lịch Trung Quốc.","alts":[]}},
+   {"id":"h2-04-一起","hanzi":"一起","pinyin":"yìqǐ","vi":"cùng nhau","ex":{"tokens":["我们","一起","去","吧","。"],"py":["wǒmen","yìqǐ","qù","ba","."],"vi":"Chúng ta cùng đi nhé.","alts":[]}},
+   {"id":"h2-04-笑","hanzi":"笑","pinyin":"xiào","vi":"cười","ex":{"tokens":["她","笑","了","。"],"py":["tā","xiào","le","."],"vi":"Cô ấy cười rồi.","alts":[]}},
+   {"id":"h2-04-快乐","hanzi":"快乐","pinyin":"kuàilè","vi":"vui vẻ","ex":{"tokens":["我","今天","很","快乐","。"],"py":["wǒ","jīntiān","hěn","kuàilè","."],"vi":"Hôm nay tôi rất vui.","alts":["今天我很快乐"]}},
+   {"id":"h2-04-累","hanzi":"累","pinyin":"lèi","vi":"mệt","ex":{"tokens":["我","很","累","，","想","睡觉","。"],"py":["wǒ","hěn","lèi",",","xiǎng","shuìjiào","."],"vi":"Tôi rất mệt, muốn đi ngủ.","alts":[]}}
+  ]}
+ ]
+}

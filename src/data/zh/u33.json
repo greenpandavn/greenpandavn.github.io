@@ -1,0 +1,91 @@
+{
+ "units": [
+  {"unit":33,"level":3,"title":"Phần 3: Thiên nhiên, thời gian, cảm xúc","desc":"Bốn mùa, giờ giấc, sức khỏe, suy nghĩ","color":"grape"}
+ ],
+ "lessons": [
+  {"id":"h3-13","title":"Thiên nhiên","desc":"Bốn mùa, mặt trời, mặt trăng, cây cỏ","icon":"春","unit":33,"order":420,"words":[
+   {"id":"h3-13-春","hanzi":"春","pinyin":"chūn","vi":"mùa xuân","ex":{"tokens":["春","天","来","了","。"],"py":["chūn","tiān","lái","le","."],"vi":"Mùa xuân đến rồi.","alts":[]}},
+   {"id":"h3-13-夏","hanzi":"夏","pinyin":"xià","vi":"mùa hè","ex":{"tokens":["夏","天","很","热","。"],"py":["xià","tiān","hěn","rè","."],"vi":"Mùa hè rất nóng.","alts":[]}},
+   {"id":"h3-13-秋","hanzi":"秋","pinyin":"qiū","vi":"mùa thu","ex":{"tokens":["我","最","喜欢","秋","天","。"],"py":["wǒ","zuì","xǐhuan","qiū","tiān","."],"vi":"Tôi thích mùa thu nhất.","alts":[]}},
+   {"id":"h3-13-冬","hanzi":"冬","pinyin":"dōng","vi":"mùa đông","ex":{"tokens":["冬","天","常常","下","雪","。"],"py":["dōng","tiān","chángcháng","xià","xuě","."],"vi":"Mùa đông thường có tuyết rơi.","alts":[]}},
+   {"id":"h3-13-季节","hanzi":"季节","pinyin":"jìjié","vi":"mùa","ex":{"tokens":["你","喜欢","哪","个","季节","？"],"py":["nǐ","xǐhuan","nǎ","ge","jìjié","?"],"vi":"Bạn thích mùa nào?","alts":[]}},
+   {"id":"h3-13-太阳","hanzi":"太阳","pinyin":"tàiyáng","vi":"mặt trời","ex":{"tokens":["今天","的","太阳","很","大","。"],"py":["jīntiān","de","tàiyáng","hěn","dà","."],"vi":"Hôm nay nắng to.","alts":[]}},
+   {"id":"h3-13-月亮","hanzi":"月亮","pinyin":"yuèliang","vi":"mặt trăng","ex":{"tokens":["今天","晚上","的","月亮","真","漂亮","。"],"py":["jīntiān","wǎnshang","de","yuèliang","zhēn","piàoliang","."],"vi":"Trăng tối nay đẹp thật.","alts":[]}},
+   {"id":"h3-13-云","hanzi":"云","pinyin":"yún","vi":"mây","ex":{"tokens":["天","上","有","很","多","云","。"],"py":["tiān","shang","yǒu","hěn","duō","yún","."],"vi":"Trên trời có rất nhiều mây.","alts":[]}},
+   {"id":"h3-13-河","hanzi":"河","pinyin":"hé","vi":"sông","ex":{"tokens":["这","条","河","很","长","。"],"py":["zhè","tiáo","hé","hěn","cháng","."],"vi":"Con sông này rất dài.","alts":[]}},
+   {"id":"h3-13-树","hanzi":"树","pinyin":"shù","vi":"cây","ex":{"tokens":["公园","里","有","很","多","树","。"],"py":["gōngyuán","li","yǒu","hěn","duō","shù","."],"vi":"Trong công viên có rất nhiều cây.","alts":[]}},
+   {"id":"h3-13-草","hanzi":"草","pinyin":"cǎo","vi":"cỏ","ex":{"tokens":["小","羊","在","吃","草","。"],"py":["xiǎo","yáng","zài","chī","cǎo","."],"vi":"Cừu con đang ăn cỏ.","alts":[]}},
+   {"id":"h3-13-花","hanzi":"花","pinyin":"huā","vi":"hoa; tiêu (tiền, thời gian)","ex":{"tokens":["这些","花","真","漂亮","。"],"py":["zhèxiē","huā","zhēn","piàoliang","."],"vi":"Những bông hoa này đẹp thật.","alts":[]}}
+  ]},
+  {"id":"h3-14","title":"Màu sắc và thế giới","desc":"Vàng, xanh, động vật, đất nước, văn hóa","icon":"世","unit":33,"order":430,"words":[
+   {"id":"h3-14-黄","hanzi":"黄","pinyin":"huáng","vi":"vàng","ex":{"tokens":["香蕉","是","黄","的","。"],"py":["xiāngjiāo","shì","huáng","de","."],"vi":"Chuối màu vàng.","alts":[]}},
+   {"id":"h3-14-蓝","hanzi":"蓝","pinyin":"lán","vi":"xanh lam","ex":{"tokens":["今天","的","天","很","蓝","。"],"py":["jīntiān","de","tiān","hěn","lán","."],"vi":"Bầu trời hôm nay rất xanh.","alts":[]}},
+   {"id":"h3-14-绿","hanzi":"绿","pinyin":"lǜ","vi":"xanh lá","ex":{"tokens":["春","天","，","草","绿","了","。"],"py":["chūn","tiān",",","cǎo","lǜ","le","."],"vi":"Mùa xuân, cỏ xanh rồi.","alts":[]}},
+   {"id":"h3-14-刮风","hanzi":"刮风","pinyin":"guā fēng","vi":"gió thổi, nổi gió","ex":{"tokens":["外面","刮风","了","。"],"py":["wàimiàn","guā fēng","le","."],"vi":"Bên ngoài nổi gió rồi.","alts":[]}},
+   {"id":"h3-14-动物","hanzi":"动物","pinyin":"dòngwù","vi":"động vật","ex":{"tokens":["我","很","喜欢","小","动物","。"],"py":["wǒ","hěn","xǐhuan","xiǎo","dòngwù","."],"vi":"Tôi rất thích động vật nhỏ.","alts":[]}},
+   {"id":"h3-14-环境","hanzi":"环境","pinyin":"huánjìng","vi":"môi trường, hoàn cảnh","ex":{"tokens":["这","里","的","环境","很","好","。"],"py":["zhè","lǐ","de","huánjìng","hěn","hǎo","."],"vi":"Môi trường ở đây rất tốt.","alts":[]}},
+   {"id":"h3-14-世界","hanzi":"世界","pinyin":"shìjiè","vi":"thế giới","ex":{"tokens":["我","想","去","世界","旅游","。"],"py":["wǒ","xiǎng","qù","shìjiè","lǚyóu","."],"vi":"Tôi muốn đi du lịch thế giới.","alts":[]}},
+   {"id":"h3-14-国家","hanzi":"国家","pinyin":"guójiā","vi":"quốc gia, đất nước","ex":{"tokens":["越南","是","一","个","漂亮","的","国家","。"],"py":["Yuènán","shì","yí","ge","piàoliang","de","guójiā","."],"vi":"Việt Nam là một đất nước xinh đẹp.","alts":[]}},
+   {"id":"h3-14-文化","hanzi":"文化","pinyin":"wénhuà","vi":"văn hóa","ex":{"tokens":["我","喜欢","中国","文化","。"],"py":["wǒ","xǐhuan","Zhōngguó","wénhuà","."],"vi":"Tôi thích văn hóa Trung Quốc.","alts":[]}},
+   {"id":"h3-14-节日","hanzi":"节日","pinyin":"jiérì","vi":"ngày lễ, lễ tết","ex":{"tokens":["春节","是","中国","的","节日","。"],"py":["Chūn Jié","shì","Zhōngguó","de","jiérì","."],"vi":"Tết Nguyên đán là ngày lễ của Trung Quốc.","alts":[]}},
+   {"id":"h3-14-安静","hanzi":"安静","pinyin":"ānjìng","vi":"yên tĩnh","ex":{"tokens":["图书馆","里","很","安静","。"],"py":["túshūguǎn","li","hěn","ānjìng","."],"vi":"Trong thư viện rất yên tĩnh.","alts":[]}},
+   {"id":"h3-14-声音","hanzi":"声音","pinyin":"shēngyīn","vi":"âm thanh, tiếng","ex":{"tokens":["你","的","声音","很","好听","。"],"py":["nǐ","de","shēngyīn","hěn","hǎotīng","."],"vi":"Giọng của bạn rất hay.","alts":[]}}
+  ]},
+  {"id":"h3-15","title":"Thời gian","desc":"Rưỡi, khắc, trước, sau, vừa nãy, cuối tuần","icon":"刻","unit":33,"order":440,"words":[
+   {"id":"h3-15-半","hanzi":"半","pinyin":"bàn","vi":"rưỡi, một nửa","ex":{"tokens":["现在","八","点","半","。"],"py":["xiànzài","bā","diǎn","bàn","."],"vi":"Bây giờ là tám rưỡi.","alts":[]}},
+   {"id":"h3-15-刻","hanzi":"刻","pinyin":"kè","vi":"khắc (15 phút)","ex":{"tokens":["现在","三","点","一","刻","。"],"py":["xiànzài","sān","diǎn","yí","kè","."],"vi":"Bây giờ là ba giờ mười lăm.","alts":[]}},
+   {"id":"h3-15-分","hanzi":"分","pinyin":"fēn","vi":"phút; điểm; xu","ex":{"tokens":["现在","九","点","十","分","。"],"py":["xiànzài","jiǔ","diǎn","shí","fēn","."],"vi":"Bây giờ là chín giờ mười phút.","alts":[]}},
+   {"id":"h3-15-以前","hanzi":"以前","pinyin":"yǐqián","vi":"trước đây, trước khi","ex":{"tokens":["我","以前","住","在","河内","。"],"py":["wǒ","yǐqián","zhù","zài","Hénèi","."],"vi":"Trước đây tôi sống ở Hà Nội.","alts":[]}},
+   {"id":"h3-15-以后","hanzi":"以后","pinyin":"yǐhòu","vi":"sau này, sau khi","ex":{"tokens":["下","课","以后","我","去","图书馆","。"],"py":["xià","kè","yǐhòu","wǒ","qù","túshūguǎn","."],"vi":"Sau khi tan học tôi đến thư viện.","alts":[]}},
+   {"id":"h3-15-刚才","hanzi":"刚才","pinyin":"gāngcái","vi":"vừa nãy, vừa rồi","ex":{"tokens":["刚才","谁","来","了","？"],"py":["gāngcái","shéi","lái","le","?"],"vi":"Vừa nãy ai đến thế?","alts":[]}},
+   {"id":"h3-15-最近","hanzi":"最近","pinyin":"zuìjìn","vi":"gần đây, dạo này","ex":{"tokens":["你","最近","忙","吗","？"],"py":["nǐ","zuìjìn","máng","ma","?"],"vi":"Dạo này bạn có bận không?","alts":["最近你忙吗"]}},
+   {"id":"h3-15-周末","hanzi":"周末","pinyin":"zhōumò","vi":"cuối tuần","ex":{"tokens":["周末","你","做","什么","？"],"py":["zhōumò","nǐ","zuò","shénme","?"],"vi":"Cuối tuần bạn làm gì?","alts":["你周末做什么"]}},
+   {"id":"h3-15-一会儿","hanzi":"一会儿","pinyin":"yíhuìr","vi":"một lát, một lúc","ex":{"tokens":["请","等","一会儿","。"],"py":["qǐng","děng","yíhuìr","."],"vi":"Xin hãy đợi một lát.","alts":[]}},
+   {"id":"h3-15-马上","hanzi":"马上","pinyin":"mǎshàng","vi":"ngay, lập tức","ex":{"tokens":["我","马上","来","。"],"py":["wǒ","mǎshàng","lái","."],"vi":"Tôi đến ngay.","alts":[]}},
+   {"id":"h3-15-久","hanzi":"久","pinyin":"jiǔ","vi":"lâu","ex":{"tokens":["我","等","了","很","久","。"],"py":["wǒ","děng","le","hěn","jiǔ","."],"vi":"Tôi đã đợi rất lâu.","alts":[]}},
+   {"id":"h3-15-过去","hanzi":"过去","pinyin":"guòqù","vi":"quá khứ, trước kia","ex":{"tokens":["过去","的","事情","别","想","了","。"],"py":["guòqù","de","shìqing","bié","xiǎng","le","."],"vi":"Chuyện đã qua đừng nghĩ nữa.","alts":[]}}
+  ]},
+  {"id":"h3-16","title":"Sức khỏe và cảm xúc","desc":"Cảm, sốt, đau, lo lắng, tức giận","icon":"疼","unit":33,"order":450,"words":[
+   {"id":"h3-16-感冒","hanzi":"感冒","pinyin":"gǎnmào","vi":"cảm, bị cảm","ex":{"tokens":["我","感冒","了","。"],"py":["wǒ","gǎnmào","le","."],"vi":"Tôi bị cảm rồi.","alts":[]}},
+   {"id":"h3-16-发烧","hanzi":"发烧","pinyin":"fāshāo","vi":"sốt, bị sốt","ex":{"tokens":["孩子","发烧","了","。"],"py":["háizi","fāshāo","le","."],"vi":"Đứa trẻ bị sốt rồi.","alts":[]}},
+   {"id":"h3-16-疼","hanzi":"疼","pinyin":"téng","vi":"đau","ex":{"tokens":["我","的","头","很","疼","。"],"py":["wǒ","de","tóu","hěn","téng","."],"vi":"Đầu tôi rất đau.","alts":[]}},
+   {"id":"h3-16-健康","hanzi":"健康","pinyin":"jiànkāng","vi":"khỏe mạnh, sức khỏe","ex":{"tokens":["祝","你","身体","健康","！"],"py":["zhù","nǐ","shēntǐ","jiànkāng","!"],"vi":"Chúc bạn mạnh khỏe!","alts":[]}},
+   {"id":"h3-16-舒服","hanzi":"舒服","pinyin":"shūfu","vi":"dễ chịu, thoải mái","ex":{"tokens":["我","今天","不","舒服","。"],"py":["wǒ","jīntiān","bù","shūfu","."],"vi":"Hôm nay tôi không khỏe.","alts":["今天我不舒服"]}},
+   {"id":"h3-16-担心","hanzi":"担心","pinyin":"dānxīn","vi":"lo lắng","ex":{"tokens":["别","担心","，","没","问题","。"],"py":["bié","dānxīn",",","méi","wèntí","."],"vi":"Đừng lo, không vấn đề gì.","alts":[]}},
+   {"id":"h3-16-放心","hanzi":"放心","pinyin":"fàngxīn","vi":"yên tâm","ex":{"tokens":["你","放心","吧","。"],"py":["nǐ","fàngxīn","ba","."],"vi":"Bạn yên tâm đi.","alts":[]}},
+   {"id":"h3-16-害怕","hanzi":"害怕","pinyin":"hàipà","vi":"sợ, sợ hãi","ex":{"tokens":["我","害怕","大","狗","。"],"py":["wǒ","hàipà","dà","gǒu","."],"vi":"Tôi sợ chó to.","alts":[]}},
+   {"id":"h3-16-生气","hanzi":"生气","pinyin":"shēngqì","vi":"tức giận","ex":{"tokens":["妈妈","生气","了","。"],"py":["māma","shēngqì","le","."],"vi":"Mẹ giận rồi.","alts":[]}},
+   {"id":"h3-16-难过","hanzi":"难过","pinyin":"nánguò","vi":"buồn, đau lòng","ex":{"tokens":["别","难过","了","。"],"py":["bié","nánguò","le","."],"vi":"Đừng buồn nữa.","alts":[]}},
+   {"id":"h3-16-着急","hanzi":"着急","pinyin":"zháojí","vi":"sốt ruột, lo lắng","ex":{"tokens":["别","着急","，","慢慢","来","。"],"py":["bié","zháojí",",","mànmàn","lái","."],"vi":"Đừng sốt ruột, cứ từ từ.","alts":[]}},
+   {"id":"h3-16-哭","hanzi":"哭","pinyin":"kū","vi":"khóc","ex":{"tokens":["孩子","哭","了","。"],"py":["háizi","kū","le","."],"vi":"Đứa trẻ khóc rồi.","alts":[]}}
+  ]},
+  {"id":"h3-17","title":"Suy nghĩ và hiểu biết","desc":"Cho rằng, tin, nhớ, quên, hiểu, phát hiện","icon":"想","unit":33,"order":460,"words":[
+   {"id":"h3-17-认为","hanzi":"认为","pinyin":"rènwéi","vi":"cho rằng, nghĩ rằng","ex":{"tokens":["我","认为","你","是","对","的","。"],"py":["wǒ","rènwéi","nǐ","shì","duì","de","."],"vi":"Tôi cho rằng bạn đúng.","alts":[]}},
+   {"id":"h3-17-以为","hanzi":"以为","pinyin":"yǐwéi","vi":"tưởng, tưởng rằng","ex":{"tokens":["我","以为","你","不","来","了","。"],"py":["wǒ","yǐwéi","nǐ","bù","lái","le","."],"vi":"Tôi tưởng bạn không đến nữa.","alts":[]}},
+   {"id":"h3-17-相信","hanzi":"相信","pinyin":"xiāngxìn","vi":"tin, tin tưởng","ex":{"tokens":["我","相信","你","。"],"py":["wǒ","xiāngxìn","nǐ","."],"vi":"Tôi tin bạn.","alts":[]}},
+   {"id":"h3-17-记得","hanzi":"记得","pinyin":"jìde","vi":"nhớ, còn nhớ","ex":{"tokens":["你","还","记得","我","吗","？"],"py":["nǐ","hái","jìde","wǒ","ma","?"],"vi":"Bạn còn nhớ tôi không?","alts":[]}},
+   {"id":"h3-17-忘记","hanzi":"忘记","pinyin":"wàngjì","vi":"quên","ex":{"tokens":["我","忘记","带","钱","了","。"],"py":["wǒ","wàngjì","dài","qián","le","."],"vi":"Tôi quên mang tiền rồi.","alts":[]}},
+   {"id":"h3-17-明白","hanzi":"明白","pinyin":"míngbai","vi":"hiểu, rõ ràng","ex":{"tokens":["我","明白","你","的","意思","。"],"py":["wǒ","míngbai","nǐ","de","yìsi","."],"vi":"Tôi hiểu ý của bạn.","alts":[]}},
+   {"id":"h3-17-了解","hanzi":"了解","pinyin":"liǎojiě","vi":"hiểu rõ, tìm hiểu","ex":{"tokens":["我","很","了解","他","。"],"py":["wǒ","hěn","liǎojiě","tā","."],"vi":"Tôi rất hiểu anh ấy.","alts":[]}},
+   {"id":"h3-17-清楚","hanzi":"清楚","pinyin":"qīngchu","vi":"rõ ràng","ex":{"tokens":["我","听","得","很","清楚","。"],"py":["wǒ","tīng","de","hěn","qīngchu","."],"vi":"Tôi nghe rất rõ.","alts":[]}},
+   {"id":"h3-17-发现","hanzi":"发现","pinyin":"fāxiàn","vi":"phát hiện","ex":{"tokens":["我","发现","了","一","个","问题","。"],"py":["wǒ","fāxiàn","le","yí","ge","wèntí","."],"vi":"Tôi đã phát hiện một vấn đề.","alts":[]}},
+   {"id":"h3-17-注意","hanzi":"注意","pinyin":"zhùyì","vi":"chú ý","ex":{"tokens":["请","注意","安全","。"],"py":["qǐng","zhùyì","ānquán","."],"vi":"Xin hãy chú ý an toàn.","alts":[]}},
+   {"id":"h3-17-小心","hanzi":"小心","pinyin":"xiǎoxīn","vi":"cẩn thận","ex":{"tokens":["路","上","小心","！"],"py":["lù","shang","xiǎoxīn","!"],"vi":"Đi đường cẩn thận nhé!","alts":[]}},
+   {"id":"h3-17-同意","hanzi":"同意","pinyin":"tóngyì","vi":"đồng ý","ex":{"tokens":["我","同意","你","的","话","。"],"py":["wǒ","tóngyì","nǐ","de","huà","."],"vi":"Tôi đồng ý với lời của bạn.","alts":[]}}
+  ]},
+  {"id":"h3-18","title":"Mong muốn và quan tâm","desc":"Sẵn lòng, dự định, lựa chọn, chăm sóc","icon":"愿","unit":33,"order":470,"words":[
+   {"id":"h3-18-愿意","hanzi":"愿意","pinyin":"yuànyì","vi":"sẵn lòng, bằng lòng","ex":{"tokens":["我","愿意","帮助","你","。"],"py":["wǒ","yuànyì","bāngzhù","nǐ","."],"vi":"Tôi sẵn lòng giúp bạn.","alts":[]}},
+   {"id":"h3-18-打算","hanzi":"打算","pinyin":"dǎsuàn","vi":"dự định, định","ex":{"tokens":["你","周末","打算","做","什么","？"],"py":["nǐ","zhōumò","dǎsuàn","zuò","shénme","?"],"vi":"Cuối tuần bạn định làm gì?","alts":["周末你打算做什么"]}},
+   {"id":"h3-18-选择","hanzi":"选择","pinyin":"xuǎnzé","vi":"lựa chọn","ex":{"tokens":["这","是","我","的","选择","。"],"py":["zhè","shì","wǒ","de","xuǎnzé","."],"vi":"Đây là lựa chọn của tôi.","alts":[]}},
+   {"id":"h3-18-要求","hanzi":"要求","pinyin":"yāoqiú","vi":"yêu cầu","ex":{"tokens":["老师","的","要求","很","高","。"],"py":["lǎoshī","de","yāoqiú","hěn","gāo","."],"vi":"Yêu cầu của thầy giáo rất cao.","alts":[]}},
+   {"id":"h3-18-满意","hanzi":"满意","pinyin":"mǎnyì","vi":"hài lòng","ex":{"tokens":["我","对","这","个","房间","很","满意","。"],"py":["wǒ","duì","zhè","ge","fángjiān","hěn","mǎnyì","."],"vi":"Tôi rất hài lòng với căn phòng này.","alts":[]}},
+   {"id":"h3-18-关心","hanzi":"关心","pinyin":"guānxīn","vi":"quan tâm","ex":{"tokens":["谢谢","你","的","关心","。"],"py":["xièxie","nǐ","de","guānxīn","."],"vi":"Cảm ơn sự quan tâm của bạn.","alts":[]}},
+   {"id":"h3-18-照顾","hanzi":"照顾","pinyin":"zhàogu","vi":"chăm sóc","ex":{"tokens":["我","要","照顾","孩子","。"],"py":["wǒ","yào","zhàogu","háizi","."],"vi":"Tôi phải chăm sóc con.","alts":[]}},
+   {"id":"h3-18-影响","hanzi":"影响","pinyin":"yǐngxiǎng","vi":"ảnh hưởng","ex":{"tokens":["别","影响","别人","休息","。"],"py":["bié","yǐngxiǎng","biéren","xiūxi","."],"vi":"Đừng làm ảnh hưởng người khác nghỉ ngơi.","alts":[]}},
+   {"id":"h3-18-表示","hanzi":"表示","pinyin":"biǎoshì","vi":"bày tỏ, biểu thị","ex":{"tokens":["我","向","大家","表示","欢迎","。"],"py":["wǒ","xiàng","dàjiā","biǎoshì","huānyíng","."],"vi":"Tôi xin bày tỏ lời chào mừng tới mọi người.","alts":[]}},
+   {"id":"h3-18-祝","hanzi":"祝","pinyin":"zhù","vi":"chúc","ex":{"tokens":["祝","你","生日","快乐","！"],"py":["zhù","nǐ","shēngrì","kuàilè","!"],"vi":"Chúc bạn sinh nhật vui vẻ!","alts":[]}},
+   {"id":"h3-18-敢","hanzi":"敢","pinyin":"gǎn","vi":"dám","ex":{"tokens":["我","不","敢","一","个","人","去","。"],"py":["wǒ","bù","gǎn","yí","ge","rén","qù","."],"vi":"Tôi không dám đi một mình.","alts":[]}},
+   {"id":"h3-18-习惯","hanzi":"习惯","pinyin":"xíguàn","vi":"thói quen; quen","ex":{"tokens":["我","习惯","早","起","。"],"py":["wǒ","xíguàn","zǎo","qǐ","."],"vi":"Tôi quen dậy sớm.","alts":[]}}
+  ]}
+ ]
+}

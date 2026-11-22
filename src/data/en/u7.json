@@ -1,0 +1,105 @@
+{
+ "units": [
+  {"unit":7,"level":2,"title":"Phần 7: Thế giới hiện đại","desc":"Công nghệ, học tập, thiên nhiên, giải trí, thể thao","color":"grape","course":"en"}
+ ],
+ "lessons": [
+  {"id":"e45","title":"Công nghệ","desc":"Máy tính, internet, mật khẩu, tải xuống","icon":"Web","unit":7,"course":"en","order":940,"words":[
+   {"id":"e45-computer","hanzi":"computer","pinyin":"","vi":"máy tính","ex":{"tokens":["I","use","a","computer","at","work","."],"py":["","","","","","","."],"vi":"Tôi dùng máy tính ở chỗ làm.","alts":[]}},
+   {"id":"e45-internet","hanzi":"internet","pinyin":"","vi":"mạng internet","ex":{"tokens":["The","internet","is","slow","today","."],"py":["","","","","","."],"vi":"Hôm nay mạng internet chậm.","alts":[]}},
+   {"id":"e45-email","hanzi":"email","pinyin":"","vi":"thư điện tử","ex":{"tokens":["I","will","send","you","an","email","."],"py":["","","","","","","."],"vi":"Tôi sẽ gửi thư điện tử cho bạn.","alts":[]}},
+   {"id":"e45-message","hanzi":"message","pinyin":"","vi":"tin nhắn","ex":{"tokens":["Did","you","get","my","message","?"],"py":["","","","","","?"],"vi":"Bạn có nhận được tin nhắn của tôi không?","alts":[]}},
+   {"id":"e45-website","hanzi":"website","pinyin":"","vi":"trang web","ex":{"tokens":["This","website","is","very","useful","."],"py":["","","","","","."],"vi":"Trang web này rất hữu ích.","alts":[]}},
+   {"id":"e45-password","hanzi":"password","pinyin":"","vi":"mật khẩu","ex":{"tokens":["Do","not","tell","anyone","your","password","."],"py":["","","","","","","."],"vi":"Đừng nói mật khẩu của bạn cho ai.","alts":[]}},
+   {"id":"e45-screen","hanzi":"screen","pinyin":"","vi":"màn hình","ex":{"tokens":["The","screen","of","my","phone","is","broken","."],"py":["","","","","","","","."],"vi":"Màn hình điện thoại của tôi bị vỡ.","alts":[]}},
+   {"id":"e45-download","hanzi":"download","pinyin":"","vi":"tải xuống","ex":{"tokens":["You","can","download","the","app","for","free","."],"py":["","","","","","","","."],"vi":"Bạn có thể tải ứng dụng miễn phí.","alts":[]}},
+   {"id":"e45-search","hanzi":"search","pinyin":"","vi":"tìm kiếm","ex":{"tokens":["Search","for","the","word","online","."],"py":["","","","","","."],"vi":"Hãy tìm từ đó trên mạng.","alts":[]}},
+   {"id":"e45-video","hanzi":"video","pinyin":"","vi":"đoạn phim, video","ex":{"tokens":["We","watched","a","funny","video","."],"py":["","","","","","."],"vi":"Chúng tôi đã xem một video hài.","alts":[]}},
+   {"id":"e45-app","hanzi":"app","pinyin":"","vi":"ứng dụng","ex":{"tokens":["This","app","helps","me","learn","English","."],"py":["","","","","","","."],"vi":"Ứng dụng này giúp tôi học tiếng Anh.","alts":[]}},
+   {"id":"e45-charge","hanzi":"charge","pinyin":"","vi":"sạc (pin); tính tiền","ex":{"tokens":["I","need","to","charge","my","phone","."],"py":["","","","","","","."],"vi":"Tôi cần sạc điện thoại.","alts":[]}}
+  ]},
+  {"id":"e46","title":"Học tập","desc":"Đại học, kỳ thi, điểm, môn học","icon":"A+","unit":7,"course":"en","order":950,"words":[
+   {"id":"e46-university","hanzi":"university","pinyin":"","vi":"trường đại học","ex":{"tokens":["My","sister","studies","at","a","university","."],"py":["","","","","","","."],"vi":"Chị tôi học ở một trường đại học.","alts":[]}},
+   {"id":"e46-exam","hanzi":"exam","pinyin":"","vi":"kỳ thi","ex":{"tokens":["The","exam","starts","at","eight","."],"py":["","","","","","."],"vi":"Kỳ thi bắt đầu lúc tám giờ.","alts":[]}},
+   {"id":"e46-grade","hanzi":"grade","pinyin":"","vi":"điểm; lớp (khối)","ex":{"tokens":["He","got","a","good","grade","in","English","."],"py":["","","","","","","","."],"vi":"Cậu ấy được điểm cao môn tiếng Anh.","alts":[]}},
+   {"id":"e46-subject","hanzi":"subject","pinyin":"","vi":"môn học; chủ đề","ex":{"tokens":["What","is","your","favorite","subject","?"],"py":["","","","","","?"],"vi":"Môn học bạn thích nhất là gì?","alts":[]}},
+   {"id":"e46-math","hanzi":"math","pinyin":"","vi":"môn toán","ex":{"tokens":["Math","is","difficult","for","me","."],"py":["","","","","","."],"vi":"Môn toán khó đối với tôi.","alts":[]}},
+   {"id":"e46-history","hanzi":"history","pinyin":"","vi":"lịch sử","ex":{"tokens":["We","learn","history","on","Tuesday","."],"py":["","","","","","."],"vi":"Chúng tôi học lịch sử vào thứ Ba.","alts":[]}},
+   {"id":"e46-science","hanzi":"science","pinyin":"","vi":"khoa học","ex":{"tokens":["She","loves","science","and","nature","."],"py":["","","","","","."],"vi":"Cô ấy yêu khoa học và thiên nhiên.","alts":[]}},
+   {"id":"e46-pass","hanzi":"pass","pinyin":"","vi":"đỗ, vượt qua; đưa","ex":{"tokens":["I","hope","to","pass","the","test","."],"py":["","","","","","","."],"vi":"Tôi hy vọng sẽ đỗ bài kiểm tra.","alts":[]}},
+   {"id":"e46-fail","hanzi":"fail","pinyin":"","vi":"trượt, thất bại","ex":{"tokens":["Do","not","worry","if","you","fail","once","."],"py":["","","","","","","","."],"vi":"Đừng lo nếu bạn trượt một lần.","alts":[]}},
+   {"id":"e46-practice","hanzi":"practice","pinyin":"","vi":"luyện tập","ex":{"tokens":["You","should","practice","every","day","."],"py":["","","","","","."],"vi":"Bạn nên luyện tập mỗi ngày.","alts":[]}},
+   {"id":"e46-explain","hanzi":"explain","pinyin":"","vi":"giải thích","ex":{"tokens":["Can","you","explain","this","word","?"],"py":["","","","","","?"],"vi":"Bạn giải thích từ này được không?","alts":[]}},
+   {"id":"e46-remember","hanzi":"remember","pinyin":"","vi":"nhớ","ex":{"tokens":["I","cannot","remember","his","name","."],"py":["","","","","","."],"vi":"Tôi không nhớ được tên anh ấy.","alts":[]}}
+  ]},
+  {"id":"e47","title":"Thiên nhiên","desc":"Rừng, hồ, bãi biển, sao, mây","icon":"Sky","unit":7,"course":"en","order":960,"words":[
+   {"id":"e47-forest","hanzi":"forest","pinyin":"","vi":"khu rừng","ex":{"tokens":["Many","animals","live","in","the","forest","."],"py":["","","","","","","."],"vi":"Nhiều loài động vật sống trong rừng.","alts":[]}},
+   {"id":"e47-lake","hanzi":"lake","pinyin":"","vi":"hồ","ex":{"tokens":["We","swam","in","the","lake","."],"py":["","","","","","."],"vi":"Chúng tôi đã bơi ở hồ.","alts":[]}},
+   {"id":"e47-beach","hanzi":"beach","pinyin":"","vi":"bãi biển","ex":{"tokens":["The","beach","is","clean","and","quiet","."],"py":["","","","","","","."],"vi":"Bãi biển sạch và yên tĩnh.","alts":[]}},
+   {"id":"e47-island","hanzi":"island","pinyin":"","vi":"hòn đảo","ex":{"tokens":["They","live","on","a","small","island","."],"py":["","","","","","","."],"vi":"Họ sống trên một hòn đảo nhỏ.","alts":[]}},
+   {"id":"e47-sky","hanzi":"sky","pinyin":"","vi":"bầu trời","ex":{"tokens":["The","sky","is","blue","today","."],"py":["","","","","","."],"vi":"Hôm nay bầu trời xanh.","alts":[]}},
+   {"id":"e47-star","hanzi":"star","pinyin":"","vi":"ngôi sao","ex":{"tokens":["I","can","see","a","bright","star","."],"py":["","","","","","","."],"vi":"Tôi có thể thấy một ngôi sao sáng.","alts":[]}},
+   {"id":"e47-moon","hanzi":"moon","pinyin":"","vi":"mặt trăng","ex":{"tokens":["The","moon","is","very","big","tonight","."],"py":["","","","","","","."],"vi":"Tối nay trăng rất to.","alts":[]}},
+   {"id":"e47-cloud","hanzi":"cloud","pinyin":"","vi":"đám mây","ex":{"tokens":["There","is","not","a","cloud","in","the","sky","."],"py":["","","","","","","","","."],"vi":"Trên trời không có một đám mây nào.","alts":[]}},
+   {"id":"e47-storm","hanzi":"storm","pinyin":"","vi":"cơn bão","ex":{"tokens":["A","big","storm","is","coming","."],"py":["","","","","","."],"vi":"Một cơn bão lớn đang đến.","alts":[]}},
+   {"id":"e47-snow","hanzi":"snow","pinyin":"","vi":"tuyết","ex":{"tokens":["Children","love","to","play","in","the","snow","."],"py":["","","","","","","","."],"vi":"Trẻ con thích chơi trong tuyết.","alts":[]}},
+   {"id":"e47-desert","hanzi":"desert","pinyin":"","vi":"sa mạc","ex":{"tokens":["It","is","very","dry","in","the","desert","."],"py":["","","","","","","","."],"vi":"Ở sa mạc rất khô.","alts":[]}},
+   {"id":"e47-field","hanzi":"field","pinyin":"","vi":"cánh đồng; sân","ex":{"tokens":["The","cows","are","in","the","field","."],"py":["","","","","","","."],"vi":"Những con bò đang ở trên cánh đồng.","alts":[]}}
+  ]},
+  {"id":"e48","title":"Môi trường","desc":"Ô nhiễm, tái chế, bảo vệ, năng lượng","icon":"Eco","unit":7,"course":"en","order":970,"words":[
+   {"id":"e48-environment","hanzi":"environment","pinyin":"","vi":"môi trường","ex":{"tokens":["We","must","protect","the","environment","."],"py":["","","","","","."],"vi":"Chúng ta phải bảo vệ môi trường.","alts":[]}},
+   {"id":"e48-pollution","hanzi":"pollution","pinyin":"","vi":"sự ô nhiễm","ex":{"tokens":["Air","pollution","is","a","big","problem","."],"py":["","","","","","","."],"vi":"Ô nhiễm không khí là một vấn đề lớn.","alts":[]}},
+   {"id":"e48-plastic","hanzi":"plastic","pinyin":"","vi":"nhựa","ex":{"tokens":["Do","not","use","too","much","plastic","."],"py":["","","","","","","."],"vi":"Đừng dùng quá nhiều nhựa.","alts":[]}},
+   {"id":"e48-recycle","hanzi":"recycle","pinyin":"","vi":"tái chế","ex":{"tokens":["We","recycle","paper","and","bottles","."],"py":["","","","","","."],"vi":"Chúng tôi tái chế giấy và chai lọ.","alts":[]}},
+   {"id":"e48-protect","hanzi":"protect","pinyin":"","vi":"bảo vệ","ex":{"tokens":["Parents","protect","their","children","."],"py":["","","","","."],"vi":"Cha mẹ bảo vệ con cái.","alts":[]}},
+   {"id":"e48-save","hanzi":"save","pinyin":"","vi":"tiết kiệm; cứu","ex":{"tokens":["Turn","off","the","light","to","save","energy","."],"py":["","","","","","","","."],"vi":"Hãy tắt đèn để tiết kiệm năng lượng.","alts":[]}},
+   {"id":"e48-waste","hanzi":"waste","pinyin":"","vi":"lãng phí; rác thải","ex":{"tokens":["Do","not","waste","water","."],"py":["","","","","."],"vi":"Đừng lãng phí nước.","alts":[]}},
+   {"id":"e48-energy","hanzi":"energy","pinyin":"","vi":"năng lượng","ex":{"tokens":["The","sun","gives","us","energy","."],"py":["","","","","","."],"vi":"Mặt trời cho chúng ta năng lượng.","alts":[]}},
+   {"id":"e48-air","hanzi":"air","pinyin":"","vi":"không khí","ex":{"tokens":["The","air","is","fresh","in","the","mountains","."],"py":["","","","","","","","."],"vi":"Không khí ở vùng núi trong lành.","alts":[]}},
+   {"id":"e48-climate","hanzi":"climate","pinyin":"","vi":"khí hậu","ex":{"tokens":["The","climate","here","is","hot","and","wet","."],"py":["","","","","","","","."],"vi":"Khí hậu ở đây nóng và ẩm.","alts":[]}},
+   {"id":"e48-plant","hanzi":"plant","pinyin":"","vi":"cây, thực vật; trồng","ex":{"tokens":["We","plant","trees","every","spring","."],"py":["","","","","","."],"vi":"Mùa xuân nào chúng tôi cũng trồng cây.","alts":[]}},
+   {"id":"e48-earth","hanzi":"earth","pinyin":"","vi":"trái đất; đất","ex":{"tokens":["The","earth","is","our","home","."],"py":["","","","","","."],"vi":"Trái đất là nhà của chúng ta.","alts":[]}}
+  ]},
+  {"id":"e49","title":"Giải trí","desc":"Hòa nhạc, bảo tàng, ảnh, vẽ","icon":"Art","unit":7,"course":"en","order":980,"words":[
+   {"id":"e49-concert","hanzi":"concert","pinyin":"","vi":"buổi hòa nhạc","ex":{"tokens":["We","went","to","a","concert","last","night","."],"py":["","","","","","","","."],"vi":"Tối qua chúng tôi đã đi xem hòa nhạc.","alts":[]}},
+   {"id":"e49-museum","hanzi":"museum","pinyin":"","vi":"bảo tàng","ex":{"tokens":["The","museum","is","closed","on","Monday","."],"py":["","","","","","","."],"vi":"Bảo tàng đóng cửa vào thứ Hai.","alts":[]}},
+   {"id":"e49-theater","hanzi":"theater","pinyin":"","vi":"nhà hát, rạp","ex":{"tokens":["There","is","a","new","theater","in","town","."],"py":["","","","","","","","."],"vi":"Có một nhà hát mới trong thị trấn.","alts":[]}},
+   {"id":"e49-camera","hanzi":"camera","pinyin":"","vi":"máy ảnh","ex":{"tokens":["He","bought","a","new","camera","."],"py":["","","","","","."],"vi":"Anh ấy đã mua một chiếc máy ảnh mới.","alts":[]}},
+   {"id":"e49-photo","hanzi":"photo","pinyin":"","vi":"bức ảnh","ex":{"tokens":["Can","you","take","a","photo","of","us","?"],"py":["","","","","","","","?"],"vi":"Bạn chụp cho chúng tôi một bức ảnh được không?","alts":[]}},
+   {"id":"e49-novel","hanzi":"novel","pinyin":"","vi":"tiểu thuyết","ex":{"tokens":["I","am","reading","a","long","novel","."],"py":["","","","","","","."],"vi":"Tôi đang đọc một cuốn tiểu thuyết dài.","alts":[]}},
+   {"id":"e49-paint","hanzi":"paint","pinyin":"","vi":"sơn, vẽ (bằng màu)","ex":{"tokens":["She","likes","to","paint","flowers","."],"py":["","","","","","."],"vi":"Cô ấy thích vẽ hoa.","alts":[]}},
+   {"id":"e49-draw","hanzi":"draw","pinyin":"","vi":"vẽ (bằng bút)","ex":{"tokens":["Can","you","draw","a","horse","?"],"py":["","","","","","?"],"vi":"Bạn vẽ được con ngựa không?","alts":[]}},
+   {"id":"e49-guitar","hanzi":"guitar","pinyin":"","vi":"đàn ghi-ta","ex":{"tokens":["He","plays","the","guitar","very","well","."],"py":["","","","","","","."],"vi":"Anh ấy chơi ghi-ta rất hay.","alts":[]}},
+   {"id":"e49-hobby","hanzi":"hobby","pinyin":"","vi":"sở thích","ex":{"tokens":["My","hobby","is","cooking","."],"py":["","","","","."],"vi":"Sở thích của tôi là nấu ăn.","alts":[]}},
+   {"id":"e49-collect","hanzi":"collect","pinyin":"","vi":"sưu tầm, thu thập","ex":{"tokens":["I","collect","old","coins","."],"py":["","","","","."],"vi":"Tôi sưu tầm tiền xu cổ.","alts":[]}},
+   {"id":"e49-festival","hanzi":"festival","pinyin":"","vi":"lễ hội","ex":{"tokens":["The","festival","is","in","the","spring","."],"py":["","","","","","","."],"vi":"Lễ hội diễn ra vào mùa xuân.","alts":[]}}
+  ]},
+  {"id":"e50","title":"Thể thao","desc":"Đội, trận đấu, thắng, thua","icon":"Win","unit":7,"course":"en","order":990,"words":[
+   {"id":"e50-team","hanzi":"team","pinyin":"","vi":"đội","ex":{"tokens":["Our","team","is","very","strong","."],"py":["","","","","","."],"vi":"Đội của chúng tôi rất mạnh.","alts":[]}},
+   {"id":"e50-match","hanzi":"match","pinyin":"","vi":"trận đấu","ex":{"tokens":["The","match","starts","at","seven","."],"py":["","","","","","."],"vi":"Trận đấu bắt đầu lúc bảy giờ.","alts":[]}},
+   {"id":"e50-win","hanzi":"win","pinyin":"","vi":"thắng","ex":{"tokens":["I","hope","we","win","the","game","."],"py":["","","","","","","."],"vi":"Tôi hy vọng chúng ta thắng trận.","alts":[]}},
+   {"id":"e50-lose","hanzi":"lose","pinyin":"","vi":"thua; làm mất","ex":{"tokens":["They","never","lose","at","home","."],"py":["","","","","","."],"vi":"Họ không bao giờ thua trên sân nhà.","alts":[]}},
+   {"id":"e50-player","hanzi":"player","pinyin":"","vi":"cầu thủ, người chơi","ex":{"tokens":["He","is","the","best","player","in","the","team","."],"py":["","","","","","","","","."],"vi":"Anh ấy là cầu thủ giỏi nhất đội.","alts":[]}},
+   {"id":"e50-score","hanzi":"score","pinyin":"","vi":"tỷ số; ghi điểm","ex":{"tokens":["What","is","the","score","now","?"],"py":["","","","","","?"],"vi":"Tỷ số bây giờ là bao nhiêu?","alts":[]}},
+   {"id":"e50-ball","hanzi":"ball","pinyin":"","vi":"quả bóng","ex":{"tokens":["The","boy","kicked","the","ball","."],"py":["","","","","","."],"vi":"Cậu bé đã đá quả bóng.","alts":[]}},
+   {"id":"e50-race","hanzi":"race","pinyin":"","vi":"cuộc đua","ex":{"tokens":["She","won","the","race","."],"py":["","","","","."],"vi":"Cô ấy đã thắng cuộc đua.","alts":[]}},
+   {"id":"e50-coach","hanzi":"coach","pinyin":"","vi":"huấn luyện viên","ex":{"tokens":["The","coach","is","talking","to","the","team","."],"py":["","","","","","","","."],"vi":"Huấn luyện viên đang nói chuyện với đội.","alts":[]}},
+   {"id":"e50-tennis","hanzi":"tennis","pinyin":"","vi":"quần vợt","ex":{"tokens":["We","play","tennis","on","Sunday","."],"py":["","","","","","."],"vi":"Chúng tôi chơi quần vợt vào Chủ nhật.","alts":[]}},
+   {"id":"e50-basketball","hanzi":"basketball","pinyin":"","vi":"bóng rổ","ex":{"tokens":["He","is","tall","and","good","at","basketball","."],"py":["","","","","","","","."],"vi":"Anh ấy cao và chơi bóng rổ giỏi.","alts":[]}},
+   {"id":"e50-gym","hanzi":"gym","pinyin":"","vi":"phòng tập thể dục","ex":{"tokens":["I","go","to","the","gym","after","work","."],"py":["","","","","","","","."],"vi":"Tôi đến phòng tập sau giờ làm.","alts":[]}}
+  ]},
+  {"id":"e51","title":"Động từ khuyết thiếu","desc":"Should, must, may, might, could","icon":"Can","unit":7,"course":"en","order":1000,"words":[
+   {"id":"e51-should","hanzi":"should","pinyin":"","vi":"nên","ex":{"tokens":["You","should","drink","more","water","."],"py":["","","","","","."],"vi":"Bạn nên uống nhiều nước hơn.","alts":[]}},
+   {"id":"e51-must","hanzi":"must","pinyin":"","vi":"phải","ex":{"tokens":["You","must","wear","a","helmet","."],"py":["","","","","","."],"vi":"Bạn phải đội mũ bảo hiểm.","alts":[]}},
+   {"id":"e51-may","hanzi":"may","pinyin":"","vi":"có thể, được phép","ex":{"tokens":["May","I","come","in","?"],"py":["","","","","?"],"vi":"Tôi vào được không?","alts":[]}},
+   {"id":"e51-might","hanzi":"might","pinyin":"","vi":"có lẽ, có thể","ex":{"tokens":["It","might","rain","this","afternoon","."],"py":["","","","","","."],"vi":"Chiều nay trời có thể mưa.","alts":[]}},
+   {"id":"e51-could","hanzi":"could","pinyin":"","vi":"có thể (quá khứ, lịch sự)","ex":{"tokens":["Could","you","open","the","window","?"],"py":["","","","","","?"],"vi":"Bạn mở cửa sổ giúp được không?","alts":[]}},
+   {"id":"e51-would","hanzi":"would","pinyin":"","vi":"sẽ, muốn (lịch sự)","ex":{"tokens":["I","would","like","a","cup","of","tea","."],"py":["","","","","","","","."],"vi":"Tôi muốn một tách trà.","alts":[]}},
+   {"id":"e51-have_to","hanzi":"have to","pinyin":"","vi":"phải (bắt buộc)","ex":{"tokens":["I","have","to","get","up","early","tomorrow","."],"py":["","","","","","","","."],"vi":"Ngày mai tôi phải dậy sớm.","alts":[]}},
+   {"id":"e51-able","hanzi":"able","pinyin":"","vi":"có thể, có khả năng","ex":{"tokens":["She","is","able","to","swim","well","."],"py":["","","","","","","."],"vi":"Cô ấy có thể bơi giỏi.","alts":[]}},
+   {"id":"e51-allow","hanzi":"allow","pinyin":"","vi":"cho phép","ex":{"tokens":["My","parents","allow","me","to","go","out","."],"py":["","","","","","","","."],"vi":"Bố mẹ cho phép tôi ra ngoài.","alts":[]}},
+   {"id":"e51-possible","hanzi":"possible","pinyin":"","vi":"có thể, khả thi","ex":{"tokens":["Is","it","possible","to","come","earlier","?"],"py":["","","","","","","?"],"vi":"Có thể đến sớm hơn không?","alts":[]}},
+   {"id":"e51-necessary","hanzi":"necessary","pinyin":"","vi":"cần thiết","ex":{"tokens":["It","is","necessary","to","sleep","enough","."],"py":["","","","","","","."],"vi":"Ngủ đủ giấc là cần thiết.","alts":[]}},
+   {"id":"e51-advice","hanzi":"advice","pinyin":"","vi":"lời khuyên","ex":{"tokens":["Thank","you","for","your","advice","."],"py":["","","","","","."],"vi":"Cảm ơn lời khuyên của bạn.","alts":[]}}
+  ]}
+ ]
+}

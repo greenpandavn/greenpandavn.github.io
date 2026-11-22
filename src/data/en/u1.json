@@ -1,0 +1,105 @@
+{
+ "units": [
+  {"unit":1,"level":1,"title":"Phần 1: Làm quen","desc":"Chào hỏi, giới thiệu, số đếm, màu sắc, gia đình","color":"leaf","course":"en"}
+ ],
+ "lessons": [
+  {"id":"e01","title":"Chào hỏi","desc":"Xin chào, cảm ơn, tạm biệt","icon":"Hi","unit":1,"course":"en","order":10,"words":[
+   {"id":"e01-hello","hanzi":"hello","pinyin":"","vi":"xin chào","ex":{"tokens":["Hello",",","how","are","you","?"],"py":["",",","","","","?"],"vi":"Xin chào, bạn khỏe không?","alts":[]}},
+   {"id":"e01-goodbye","hanzi":"goodbye","pinyin":"","vi":"tạm biệt","ex":{"tokens":["Goodbye",",","see","you","tomorrow","."],"py":["",",","","","","."],"vi":"Tạm biệt, hẹn gặp bạn ngày mai.","alts":[]}},
+   {"id":"e01-thank_you","hanzi":"thank you","pinyin":"","vi":"cảm ơn","ex":{"tokens":["Thank","you","very","much","."],"py":["","","","","."],"vi":"Cảm ơn bạn rất nhiều.","alts":[]}},
+   {"id":"e01-please","hanzi":"please","pinyin":"","vi":"làm ơn, xin vui lòng","ex":{"tokens":["Please","sit","down","."],"py":["","","","."],"vi":"Xin mời ngồi.","alts":[]}},
+   {"id":"e01-sorry","hanzi":"sorry","pinyin":"","vi":"xin lỗi","ex":{"tokens":["I","am","sorry","."],"py":["","","","."],"vi":"Tôi xin lỗi.","alts":[]}},
+   {"id":"e01-yes","hanzi":"yes","pinyin":"","vi":"vâng, có","ex":{"tokens":["Yes",",","I","am","a","student","."],"py":["",",","","","","","."],"vi":"Vâng, tôi là học sinh.","alts":[]}},
+   {"id":"e01-no","hanzi":"no","pinyin":"","vi":"không","ex":{"tokens":["No",",","I","am","not","a","teacher","."],"py":["",",","","","","","","."],"vi":"Không, tôi không phải là giáo viên.","alts":[]}},
+   {"id":"e01-good","hanzi":"good","pinyin":"","vi":"tốt, giỏi","ex":{"tokens":["This","book","is","good","."],"py":["","","","","."],"vi":"Quyển sách này hay.","alts":[]}},
+   {"id":"e01-morning","hanzi":"morning","pinyin":"","vi":"buổi sáng","ex":{"tokens":["Good","morning",",","teacher","."],"py":["","",",","","."],"vi":"Chào buổi sáng, thầy/cô.","alts":[]}},
+   {"id":"e01-night","hanzi":"night","pinyin":"","vi":"ban đêm, buổi tối","ex":{"tokens":["Good","night",",","mom","."],"py":["","",",","","."],"vi":"Chúc mẹ ngủ ngon.","alts":[]}},
+   {"id":"e01-fine","hanzi":"fine","pinyin":"","vi":"khỏe, ổn","ex":{"tokens":["I","am","fine",",","thank","you","."],"py":["","","",",","","","."],"vi":"Tôi khỏe, cảm ơn bạn.","alts":[]}},
+   {"id":"e01-welcome","hanzi":"welcome","pinyin":"","vi":"chào mừng","ex":{"tokens":["Welcome","to","my","house","."],"py":["","","","","."],"vi":"Chào mừng đến nhà tôi.","alts":[]}}
+  ]},
+  {"id":"e02","title":"Giới thiệu bản thân","desc":"Tôi, bạn, tên, đến từ","icon":"I","unit":1,"course":"en","order":20,"words":[
+   {"id":"e02-i","hanzi":"I","pinyin":"","vi":"tôi","ex":{"tokens":["I","am","from","Vietnam","."],"py":["","","","","."],"vi":"Tôi đến từ Việt Nam.","alts":[]}},
+   {"id":"e02-you","hanzi":"you","pinyin":"","vi":"bạn, các bạn","ex":{"tokens":["You","are","my","friend","."],"py":["","","","","."],"vi":"Bạn là bạn của tôi.","alts":[]}},
+   {"id":"e02-he","hanzi":"he","pinyin":"","vi":"anh ấy, ông ấy","ex":{"tokens":["He","is","a","doctor","."],"py":["","","","","."],"vi":"Anh ấy là bác sĩ.","alts":[]}},
+   {"id":"e02-she","hanzi":"she","pinyin":"","vi":"cô ấy, bà ấy","ex":{"tokens":["She","is","a","teacher","."],"py":["","","","","."],"vi":"Cô ấy là giáo viên.","alts":[]}},
+   {"id":"e02-we","hanzi":"we","pinyin":"","vi":"chúng tôi, chúng ta","ex":{"tokens":["We","are","students","."],"py":["","","","."],"vi":"Chúng tôi là học sinh.","alts":[]}},
+   {"id":"e02-they","hanzi":"they","pinyin":"","vi":"họ","ex":{"tokens":["They","are","my","friends","."],"py":["","","","","."],"vi":"Họ là bạn của tôi.","alts":[]}},
+   {"id":"e02-it","hanzi":"it","pinyin":"","vi":"nó","ex":{"tokens":["It","is","a","cat","."],"py":["","","","","."],"vi":"Nó là một con mèo.","alts":[]}},
+   {"id":"e02-name","hanzi":"name","pinyin":"","vi":"tên","ex":{"tokens":["My","name","is","Nam","."],"py":["","","","","."],"vi":"Tên tôi là Nam.","alts":[]}},
+   {"id":"e02-my","hanzi":"my","pinyin":"","vi":"của tôi","ex":{"tokens":["This","is","my","book","."],"py":["","","","","."],"vi":"Đây là sách của tôi.","alts":[]}},
+   {"id":"e02-your","hanzi":"your","pinyin":"","vi":"của bạn","ex":{"tokens":["What","is","your","name","?"],"py":["","","","","?"],"vi":"Tên bạn là gì?","alts":[]}},
+   {"id":"e02-friend","hanzi":"friend","pinyin":"","vi":"bạn, người bạn","ex":{"tokens":["She","is","my","best","friend","."],"py":["","","","","","."],"vi":"Cô ấy là bạn thân nhất của tôi.","alts":[]}},
+   {"id":"e02-from","hanzi":"from","pinyin":"","vi":"từ, đến từ","ex":{"tokens":["Where","are","you","from","?"],"py":["","","","","?"],"vi":"Bạn đến từ đâu?","alts":[]}}
+  ]},
+  {"id":"e03","title":"Số đếm 1–10","desc":"Một đến mười","icon":"12","unit":1,"course":"en","order":30,"words":[
+   {"id":"e03-one","hanzi":"one","pinyin":"","vi":"một","ex":{"tokens":["I","have","one","brother","."],"py":["","","","","."],"vi":"Tôi có một anh trai.","alts":[]}},
+   {"id":"e03-two","hanzi":"two","pinyin":"","vi":"hai","ex":{"tokens":["She","has","two","cats","."],"py":["","","","","."],"vi":"Cô ấy có hai con mèo.","alts":[]}},
+   {"id":"e03-three","hanzi":"three","pinyin":"","vi":"ba","ex":{"tokens":["We","have","three","books","."],"py":["","","","","."],"vi":"Chúng tôi có ba quyển sách.","alts":[]}},
+   {"id":"e03-four","hanzi":"four","pinyin":"","vi":"bốn","ex":{"tokens":["There","are","four","chairs","."],"py":["","","","","."],"vi":"Có bốn cái ghế.","alts":[]}},
+   {"id":"e03-five","hanzi":"five","pinyin":"","vi":"năm","ex":{"tokens":["I","have","five","pens","."],"py":["","","","","."],"vi":"Tôi có năm cái bút.","alts":[]}},
+   {"id":"e03-six","hanzi":"six","pinyin":"","vi":"sáu","ex":{"tokens":["He","is","six","years","old","."],"py":["","","","","","."],"vi":"Cậu ấy sáu tuổi.","alts":[]}},
+   {"id":"e03-seven","hanzi":"seven","pinyin":"","vi":"bảy","ex":{"tokens":["There","are","seven","days","in","a","week","."],"py":["","","","","","","","."],"vi":"Một tuần có bảy ngày.","alts":[]}},
+   {"id":"e03-eight","hanzi":"eight","pinyin":"","vi":"tám","ex":{"tokens":["I","get","up","at","eight","."],"py":["","","","","","."],"vi":"Tôi thức dậy lúc tám giờ.","alts":[]}},
+   {"id":"e03-nine","hanzi":"nine","pinyin":"","vi":"chín","ex":{"tokens":["School","starts","at","nine","."],"py":["","","","","."],"vi":"Trường bắt đầu học lúc chín giờ.","alts":[]}},
+   {"id":"e03-ten","hanzi":"ten","pinyin":"","vi":"mười","ex":{"tokens":["I","have","ten","fingers","."],"py":["","","","","."],"vi":"Tôi có mười ngón tay.","alts":[]}},
+   {"id":"e03-number","hanzi":"number","pinyin":"","vi":"số, con số","ex":{"tokens":["What","is","your","phone","number","?"],"py":["","","","","","?"],"vi":"Số điện thoại của bạn là gì?","alts":[]}},
+   {"id":"e03-how_many","hanzi":"how many","pinyin":"","vi":"bao nhiêu (đếm được)","ex":{"tokens":["How","many","apples","do","you","have","?"],"py":["","","","","","","?"],"vi":"Bạn có bao nhiêu quả táo?","alts":[]}}
+  ]},
+  {"id":"e04","title":"Số đếm lớn","desc":"Mười một đến một nghìn","icon":"99","unit":1,"course":"en","order":40,"words":[
+   {"id":"e04-eleven","hanzi":"eleven","pinyin":"","vi":"mười một","ex":{"tokens":["There","are","eleven","boys","."],"py":["","","","","."],"vi":"Có mười một bạn nam.","alts":[]}},
+   {"id":"e04-twelve","hanzi":"twelve","pinyin":"","vi":"mười hai","ex":{"tokens":["There","are","twelve","months","in","a","year","."],"py":["","","","","","","","."],"vi":"Một năm có mười hai tháng.","alts":[]}},
+   {"id":"e04-thirteen","hanzi":"thirteen","pinyin":"","vi":"mười ba","ex":{"tokens":["My","sister","is","thirteen","."],"py":["","","","","."],"vi":"Em gái tôi mười ba tuổi.","alts":[]}},
+   {"id":"e04-fifteen","hanzi":"fifteen","pinyin":"","vi":"mười lăm","ex":{"tokens":["The","bus","comes","in","fifteen","minutes","."],"py":["","","","","","","."],"vi":"Xe buýt sẽ đến trong mười lăm phút nữa.","alts":[]}},
+   {"id":"e04-twenty","hanzi":"twenty","pinyin":"","vi":"hai mươi","ex":{"tokens":["I","am","twenty","years","old","."],"py":["","","","","","."],"vi":"Tôi hai mươi tuổi.","alts":[]}},
+   {"id":"e04-thirty","hanzi":"thirty","pinyin":"","vi":"ba mươi","ex":{"tokens":["There","are","thirty","students","in","my","class","."],"py":["","","","","","","","."],"vi":"Lớp tôi có ba mươi học sinh.","alts":[]}},
+   {"id":"e04-forty","hanzi":"forty","pinyin":"","vi":"bốn mươi","ex":{"tokens":["My","father","is","forty","."],"py":["","","","","."],"vi":"Bố tôi bốn mươi tuổi.","alts":[]}},
+   {"id":"e04-fifty","hanzi":"fifty","pinyin":"","vi":"năm mươi","ex":{"tokens":["This","shirt","is","fifty","dollars","."],"py":["","","","","","."],"vi":"Chiếc áo này giá năm mươi đô la.","alts":[]}},
+   {"id":"e04-hundred","hanzi":"hundred","pinyin":"","vi":"trăm","ex":{"tokens":["There","are","one","hundred","people","here","."],"py":["","","","","","","."],"vi":"Ở đây có một trăm người.","alts":[]}},
+   {"id":"e04-thousand","hanzi":"thousand","pinyin":"","vi":"nghìn","ex":{"tokens":["The","school","has","one","thousand","students","."],"py":["","","","","","","."],"vi":"Trường có một nghìn học sinh.","alts":[]}},
+   {"id":"e04-first","hanzi":"first","pinyin":"","vi":"thứ nhất, đầu tiên","ex":{"tokens":["This","is","my","first","lesson","."],"py":["","","","","","."],"vi":"Đây là bài học đầu tiên của tôi.","alts":[]}},
+   {"id":"e04-age","hanzi":"age","pinyin":"","vi":"tuổi","ex":{"tokens":["What","is","your","age","?"],"py":["","","","","?"],"vi":"Bạn bao nhiêu tuổi?","alts":[]}}
+  ]},
+  {"id":"e05","title":"Màu sắc","desc":"Đỏ, xanh, vàng, trắng, đen","icon":"R","unit":1,"course":"en","order":50,"words":[
+   {"id":"e05-color","hanzi":"color","pinyin":"","vi":"màu sắc","ex":{"tokens":["What","color","is","it","?"],"py":["","","","","?"],"vi":"Nó màu gì?","alts":[]}},
+   {"id":"e05-red","hanzi":"red","pinyin":"","vi":"màu đỏ","ex":{"tokens":["The","apple","is","red","."],"py":["","","","","."],"vi":"Quả táo màu đỏ.","alts":[]}},
+   {"id":"e05-blue","hanzi":"blue","pinyin":"","vi":"màu xanh dương","ex":{"tokens":["The","sky","is","blue","."],"py":["","","","","."],"vi":"Bầu trời màu xanh.","alts":[]}},
+   {"id":"e05-green","hanzi":"green","pinyin":"","vi":"màu xanh lá","ex":{"tokens":["The","tree","is","green","."],"py":["","","","","."],"vi":"Cái cây màu xanh lá.","alts":[]}},
+   {"id":"e05-yellow","hanzi":"yellow","pinyin":"","vi":"màu vàng","ex":{"tokens":["The","banana","is","yellow","."],"py":["","","","","."],"vi":"Quả chuối màu vàng.","alts":[]}},
+   {"id":"e05-black","hanzi":"black","pinyin":"","vi":"màu đen","ex":{"tokens":["I","have","a","black","cat","."],"py":["","","","","","."],"vi":"Tôi có một con mèo đen.","alts":[]}},
+   {"id":"e05-white","hanzi":"white","pinyin":"","vi":"màu trắng","ex":{"tokens":["Her","shirt","is","white","."],"py":["","","","","."],"vi":"Áo của cô ấy màu trắng.","alts":[]}},
+   {"id":"e05-orange","hanzi":"orange","pinyin":"","vi":"màu cam; quả cam","ex":{"tokens":["I","like","orange","juice","."],"py":["","","","","."],"vi":"Tôi thích nước cam.","alts":[]}},
+   {"id":"e05-pink","hanzi":"pink","pinyin":"","vi":"màu hồng","ex":{"tokens":["She","likes","pink","."],"py":["","","","."],"vi":"Cô ấy thích màu hồng.","alts":[]}},
+   {"id":"e05-brown","hanzi":"brown","pinyin":"","vi":"màu nâu","ex":{"tokens":["The","dog","is","brown","."],"py":["","","","","."],"vi":"Con chó màu nâu.","alts":[]}},
+   {"id":"e05-purple","hanzi":"purple","pinyin":"","vi":"màu tím","ex":{"tokens":["The","flower","is","purple","."],"py":["","","","","."],"vi":"Bông hoa màu tím.","alts":[]}},
+   {"id":"e05-gray","hanzi":"gray","pinyin":"","vi":"màu xám","ex":{"tokens":["His","hair","is","gray","."],"py":["","","","","."],"vi":"Tóc ông ấy màu xám.","alts":[]}}
+  ]},
+  {"id":"e06","title":"Gia đình","desc":"Bố mẹ, anh chị em, ông bà","icon":"Fa","unit":1,"course":"en","order":60,"words":[
+   {"id":"e06-family","hanzi":"family","pinyin":"","vi":"gia đình","ex":{"tokens":["I","love","my","family","."],"py":["","","","","."],"vi":"Tôi yêu gia đình tôi.","alts":[]}},
+   {"id":"e06-father","hanzi":"father","pinyin":"","vi":"bố, cha","ex":{"tokens":["My","father","is","a","doctor","."],"py":["","","","","","."],"vi":"Bố tôi là bác sĩ.","alts":[]}},
+   {"id":"e06-mother","hanzi":"mother","pinyin":"","vi":"mẹ","ex":{"tokens":["My","mother","cooks","very","well","."],"py":["","","","","","."],"vi":"Mẹ tôi nấu ăn rất ngon.","alts":[]}},
+   {"id":"e06-brother","hanzi":"brother","pinyin":"","vi":"anh trai, em trai","ex":{"tokens":["My","brother","is","tall","."],"py":["","","","","."],"vi":"Anh trai tôi cao.","alts":[]}},
+   {"id":"e06-sister","hanzi":"sister","pinyin":"","vi":"chị gái, em gái","ex":{"tokens":["My","sister","likes","music","."],"py":["","","","","."],"vi":"Chị gái tôi thích âm nhạc.","alts":[]}},
+   {"id":"e06-son","hanzi":"son","pinyin":"","vi":"con trai","ex":{"tokens":["They","have","one","son","."],"py":["","","","","."],"vi":"Họ có một người con trai.","alts":[]}},
+   {"id":"e06-daughter","hanzi":"daughter","pinyin":"","vi":"con gái","ex":{"tokens":["Their","daughter","is","five","."],"py":["","","","","."],"vi":"Con gái họ năm tuổi.","alts":[]}},
+   {"id":"e06-grandfather","hanzi":"grandfather","pinyin":"","vi":"ông","ex":{"tokens":["My","grandfather","is","old","."],"py":["","","","","."],"vi":"Ông tôi đã già.","alts":[]}},
+   {"id":"e06-grandmother","hanzi":"grandmother","pinyin":"","vi":"bà","ex":{"tokens":["My","grandmother","lives","with","us","."],"py":["","","","","","."],"vi":"Bà tôi sống cùng chúng tôi.","alts":[]}},
+   {"id":"e06-baby","hanzi":"baby","pinyin":"","vi":"em bé","ex":{"tokens":["The","baby","is","sleeping","."],"py":["","","","","."],"vi":"Em bé đang ngủ.","alts":[]}},
+   {"id":"e06-parents","hanzi":"parents","pinyin":"","vi":"bố mẹ","ex":{"tokens":["My","parents","work","in","Hanoi","."],"py":["","","","","","."],"vi":"Bố mẹ tôi làm việc ở Hà Nội.","alts":[]}},
+   {"id":"e06-child","hanzi":"child","pinyin":"","vi":"đứa trẻ, con","ex":{"tokens":["The","child","is","happy","."],"py":["","","","","."],"vi":"Đứa trẻ rất vui.","alts":[]}}
+  ]},
+  {"id":"e07","title":"Con người","desc":"Đàn ông, phụ nữ, bạn bè, nghề nghiệp","icon":"Mr","unit":1,"course":"en","order":70,"words":[
+   {"id":"e07-man","hanzi":"man","pinyin":"","vi":"người đàn ông","ex":{"tokens":["That","man","is","my","uncle","."],"py":["","","","","","."],"vi":"Người đàn ông kia là chú tôi.","alts":[]}},
+   {"id":"e07-woman","hanzi":"woman","pinyin":"","vi":"người phụ nữ","ex":{"tokens":["That","woman","is","my","aunt","."],"py":["","","","","","."],"vi":"Người phụ nữ kia là cô tôi.","alts":[]}},
+   {"id":"e07-boy","hanzi":"boy","pinyin":"","vi":"con trai, cậu bé","ex":{"tokens":["The","boy","plays","football","."],"py":["","","","","."],"vi":"Cậu bé chơi bóng đá.","alts":[]}},
+   {"id":"e07-girl","hanzi":"girl","pinyin":"","vi":"con gái, cô bé","ex":{"tokens":["The","girl","reads","a","book","."],"py":["","","","","","."],"vi":"Cô bé đọc sách.","alts":[]}},
+   {"id":"e07-teacher","hanzi":"teacher","pinyin":"","vi":"giáo viên","ex":{"tokens":["Our","teacher","is","very","kind","."],"py":["","","","","","."],"vi":"Giáo viên của chúng tôi rất tốt bụng.","alts":[]}},
+   {"id":"e07-student","hanzi":"student","pinyin":"","vi":"học sinh, sinh viên","ex":{"tokens":["I","am","a","new","student","."],"py":["","","","","","."],"vi":"Tôi là học sinh mới.","alts":[]}},
+   {"id":"e07-doctor","hanzi":"doctor","pinyin":"","vi":"bác sĩ","ex":{"tokens":["The","doctor","works","in","a","hospital","."],"py":["","","","","","","."],"vi":"Bác sĩ làm việc ở bệnh viện.","alts":[]}},
+   {"id":"e07-uncle","hanzi":"uncle","pinyin":"","vi":"chú, bác, cậu","ex":{"tokens":["My","uncle","lives","in","Da","Nang","."],"py":["","","","","","","."],"vi":"Chú tôi sống ở Đà Nẵng.","alts":[]}},
+   {"id":"e07-aunt","hanzi":"aunt","pinyin":"","vi":"cô, dì, bác gái","ex":{"tokens":["My","aunt","is","a","nurse","."],"py":["","","","","","."],"vi":"Dì tôi là y tá.","alts":[]}},
+   {"id":"e07-people","hanzi":"people","pinyin":"","vi":"mọi người, người ta","ex":{"tokens":["Many","people","live","here","."],"py":["","","","","."],"vi":"Nhiều người sống ở đây.","alts":[]}},
+   {"id":"e07-person","hanzi":"person","pinyin":"","vi":"người","ex":{"tokens":["He","is","a","good","person","."],"py":["","","","","","."],"vi":"Anh ấy là một người tốt.","alts":[]}},
+   {"id":"e07-who","hanzi":"who","pinyin":"","vi":"ai","ex":{"tokens":["Who","is","that","man","?"],"py":["","","","","?"],"vi":"Người đàn ông kia là ai?","alts":[]}}
+  ]}
+ ]
+}

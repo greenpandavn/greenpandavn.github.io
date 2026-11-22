@@ -1,0 +1,93 @@
+{
+ "units": [
+  {"unit":3,"level":1,"title":"Phần 3: Thế giới quanh ta","desc":"Cơ thể, quần áo, động vật, thời tiết, nơi chốn","color":"grape","course":"en"}
+ ],
+ "lessons": [
+  {"id":"e15","title":"Cơ thể","desc":"Đầu, mắt, tay, chân","icon":"Bo","unit":3,"course":"en","order":150,"words":[
+   {"id":"e15-body","hanzi":"body","pinyin":"","vi":"cơ thể","ex":{"tokens":["Exercise","is","good","for","your","body","."],"py":["","","","","","","."],"vi":"Tập thể dục tốt cho cơ thể bạn.","alts":[]}},
+   {"id":"e15-head","hanzi":"head","pinyin":"","vi":"cái đầu","ex":{"tokens":["My","head","hurts","."],"py":["","","","."],"vi":"Đầu tôi đau.","alts":[]}},
+   {"id":"e15-face","hanzi":"face","pinyin":"","vi":"khuôn mặt","ex":{"tokens":["Wash","your","face","."],"py":["","","","."],"vi":"Hãy rửa mặt đi.","alts":[]}},
+   {"id":"e15-eye","hanzi":"eye","pinyin":"","vi":"mắt","ex":{"tokens":["My","right","eye","hurts","."],"py":["","","","","."],"vi":"Mắt phải của tôi đau.","alts":[]}},
+   {"id":"e15-ear","hanzi":"ear","pinyin":"","vi":"tai","ex":{"tokens":["My","left","ear","hurts","."],"py":["","","","","."],"vi":"Tai trái của tôi đau.","alts":[]}},
+   {"id":"e15-nose","hanzi":"nose","pinyin":"","vi":"mũi","ex":{"tokens":["The","dog","has","a","wet","nose","."],"py":["","","","","","","."],"vi":"Con chó có cái mũi ướt.","alts":[]}},
+   {"id":"e15-mouth","hanzi":"mouth","pinyin":"","vi":"miệng","ex":{"tokens":["Open","your","mouth",",","please","."],"py":["","","",",","","."],"vi":"Xin hãy mở miệng.","alts":[]}},
+   {"id":"e15-hand","hanzi":"hand","pinyin":"","vi":"bàn tay","ex":{"tokens":["Raise","your","hand","."],"py":["","","","."],"vi":"Hãy giơ tay lên.","alts":[]}},
+   {"id":"e15-foot","hanzi":"foot","pinyin":"","vi":"bàn chân","ex":{"tokens":["My","foot","is","cold","."],"py":["","","","","."],"vi":"Bàn chân tôi lạnh.","alts":[]}},
+   {"id":"e15-leg","hanzi":"leg","pinyin":"","vi":"chân","ex":{"tokens":["My","leg","hurts","."],"py":["","","","."],"vi":"Chân tôi đau.","alts":[]}},
+   {"id":"e15-hair","hanzi":"hair","pinyin":"","vi":"tóc","ex":{"tokens":["She","has","long","hair","."],"py":["","","","","."],"vi":"Cô ấy có mái tóc dài.","alts":[]}},
+   {"id":"e15-tooth","hanzi":"tooth","pinyin":"","vi":"răng","ex":{"tokens":["I","have","a","bad","tooth","."],"py":["","","","","","."],"vi":"Tôi có một cái răng sâu.","alts":[]}}
+  ]},
+  {"id":"e16","title":"Quần áo","desc":"Áo, quần, giày, mũ","icon":"Sh","unit":3,"course":"en","order":160,"words":[
+   {"id":"e16-clothes","hanzi":"clothes","pinyin":"","vi":"quần áo","ex":{"tokens":["I","wash","my","clothes","on","Sunday","."],"py":["","","","","","","."],"vi":"Tôi giặt quần áo vào chủ nhật.","alts":[]}},
+   {"id":"e16-shirt","hanzi":"shirt","pinyin":"","vi":"áo sơ mi","ex":{"tokens":["He","wears","a","white","shirt","."],"py":["","","","","","."],"vi":"Anh ấy mặc áo sơ mi trắng.","alts":[]}},
+   {"id":"e16-dress","hanzi":"dress","pinyin":"","vi":"váy liền","ex":{"tokens":["She","has","a","red","dress","."],"py":["","","","","","."],"vi":"Cô ấy có một chiếc váy đỏ.","alts":[]}},
+   {"id":"e16-pants","hanzi":"pants","pinyin":"","vi":"quần dài","ex":{"tokens":["These","pants","are","too","long","."],"py":["","","","","","."],"vi":"Chiếc quần này dài quá.","alts":[]}},
+   {"id":"e16-shoes","hanzi":"shoes","pinyin":"","vi":"giày","ex":{"tokens":["I","need","new","shoes","."],"py":["","","","","."],"vi":"Tôi cần giày mới.","alts":[]}},
+   {"id":"e16-hat","hanzi":"hat","pinyin":"","vi":"mũ, nón","ex":{"tokens":["He","wears","a","hat","."],"py":["","","","","."],"vi":"Anh ấy đội mũ.","alts":[]}},
+   {"id":"e16-jacket","hanzi":"jacket","pinyin":"","vi":"áo khoác","ex":{"tokens":["Take","your","jacket","."],"py":["","","","."],"vi":"Hãy mang áo khoác theo.","alts":[]}},
+   {"id":"e16-socks","hanzi":"socks","pinyin":"","vi":"tất, vớ","ex":{"tokens":["Where","are","my","socks","?"],"py":["","","","","?"],"vi":"Tất của tôi đâu?","alts":[]}},
+   {"id":"e16-wear","hanzi":"wear","pinyin":"","vi":"mặc, đội, đeo","ex":{"tokens":["I","wear","a","uniform","at","school","."],"py":["","","","","","","."],"vi":"Tôi mặc đồng phục ở trường.","alts":[]}},
+   {"id":"e16-buy","hanzi":"buy","pinyin":"","vi":"mua","ex":{"tokens":["I","want","to","buy","a","shirt","."],"py":["","","","","","","."],"vi":"Tôi muốn mua một chiếc áo sơ mi.","alts":[]}},
+   {"id":"e16-new","hanzi":"new","pinyin":"","vi":"mới","ex":{"tokens":["This","is","my","new","phone","."],"py":["","","","","","."],"vi":"Đây là điện thoại mới của tôi.","alts":[]}},
+   {"id":"e16-old","hanzi":"old","pinyin":"","vi":"cũ, già","ex":{"tokens":["This","house","is","very","old","."],"py":["","","","","","."],"vi":"Ngôi nhà này rất cũ.","alts":[]}}
+  ]},
+  {"id":"e17","title":"Động vật","desc":"Chó, mèo, chim, cá, bò","icon":"Do","unit":3,"course":"en","order":170,"words":[
+   {"id":"e17-animal","hanzi":"animal","pinyin":"","vi":"động vật","ex":{"tokens":["What","is","your","favorite","animal","?"],"py":["","","","","","?"],"vi":"Bạn thích con vật nào nhất?","alts":[]}},
+   {"id":"e17-dog","hanzi":"dog","pinyin":"","vi":"con chó","ex":{"tokens":["My","dog","is","very","friendly","."],"py":["","","","","","."],"vi":"Con chó của tôi rất thân thiện.","alts":[]}},
+   {"id":"e17-cat","hanzi":"cat","pinyin":"","vi":"con mèo","ex":{"tokens":["The","cat","drinks","milk","."],"py":["","","","","."],"vi":"Con mèo uống sữa.","alts":[]}},
+   {"id":"e17-bird","hanzi":"bird","pinyin":"","vi":"con chim","ex":{"tokens":["The","bird","sings","in","the","morning","."],"py":["","","","","","","."],"vi":"Con chim hót vào buổi sáng.","alts":[]}},
+   {"id":"e17-cow","hanzi":"cow","pinyin":"","vi":"con bò","ex":{"tokens":["The","cow","eats","grass","."],"py":["","","","","."],"vi":"Con bò ăn cỏ.","alts":[]}},
+   {"id":"e17-pig","hanzi":"pig","pinyin":"","vi":"con lợn","ex":{"tokens":["The","pig","is","fat","."],"py":["","","","","."],"vi":"Con lợn béo.","alts":[]}},
+   {"id":"e17-horse","hanzi":"horse","pinyin":"","vi":"con ngựa","ex":{"tokens":["The","horse","runs","fast","."],"py":["","","","","."],"vi":"Con ngựa chạy nhanh.","alts":[]}},
+   {"id":"e17-duck","hanzi":"duck","pinyin":"","vi":"con vịt","ex":{"tokens":["The","duck","swims","in","the","lake","."],"py":["","","","","","","."],"vi":"Con vịt bơi trong hồ.","alts":[]}},
+   {"id":"e17-mouse","hanzi":"mouse","pinyin":"","vi":"con chuột","ex":{"tokens":["The","cat","sees","a","mouse","."],"py":["","","","","","."],"vi":"Con mèo nhìn thấy một con chuột.","alts":[]}},
+   {"id":"e17-monkey","hanzi":"monkey","pinyin":"","vi":"con khỉ","ex":{"tokens":["The","monkey","is","in","the","tree","."],"py":["","","","","","","."],"vi":"Con khỉ ở trên cây.","alts":[]}},
+   {"id":"e17-tiger","hanzi":"tiger","pinyin":"","vi":"con hổ","ex":{"tokens":["The","tiger","is","very","strong","."],"py":["","","","","","."],"vi":"Con hổ rất khỏe.","alts":[]}},
+   {"id":"e17-elephant","hanzi":"elephant","pinyin":"","vi":"con voi","ex":{"tokens":["The","elephant","is","very","big","."],"py":["","","","","","."],"vi":"Con voi rất to.","alts":[]}}
+  ]},
+  {"id":"e18","title":"Thời tiết và thiên nhiên","desc":"Nắng, mưa, nóng, lạnh, cây, hoa","icon":"Su","unit":3,"course":"en","order":180,"words":[
+   {"id":"e18-weather","hanzi":"weather","pinyin":"","vi":"thời tiết","ex":{"tokens":["The","weather","is","nice","today","."],"py":["","","","","","."],"vi":"Hôm nay thời tiết đẹp.","alts":[]}},
+   {"id":"e18-sun","hanzi":"sun","pinyin":"","vi":"mặt trời","ex":{"tokens":["The","sun","is","hot","."],"py":["","","","","."],"vi":"Mặt trời nóng.","alts":[]}},
+   {"id":"e18-rain","hanzi":"rain","pinyin":"","vi":"mưa","ex":{"tokens":["I","do","not","like","rain","."],"py":["","","","","","."],"vi":"Tôi không thích mưa.","alts":[]}},
+   {"id":"e18-wind","hanzi":"wind","pinyin":"","vi":"gió","ex":{"tokens":["The","wind","is","strong","today","."],"py":["","","","","","."],"vi":"Hôm nay gió mạnh.","alts":[]}},
+   {"id":"e18-hot","hanzi":"hot","pinyin":"","vi":"nóng","ex":{"tokens":["It","is","very","hot","today","."],"py":["","","","","","."],"vi":"Hôm nay trời rất nóng.","alts":[]}},
+   {"id":"e18-cold","hanzi":"cold","pinyin":"","vi":"lạnh","ex":{"tokens":["It","is","cold","in","winter","."],"py":["","","","","","."],"vi":"Mùa đông trời lạnh.","alts":[]}},
+   {"id":"e18-warm","hanzi":"warm","pinyin":"","vi":"ấm áp","ex":{"tokens":["It","is","warm","in","spring","."],"py":["","","","","","."],"vi":"Mùa xuân trời ấm áp.","alts":[]}},
+   {"id":"e18-summer","hanzi":"summer","pinyin":"","vi":"mùa hè","ex":{"tokens":["We","go","to","the","beach","in","summer","."],"py":["","","","","","","","."],"vi":"Chúng tôi đi biển vào mùa hè.","alts":[]}},
+   {"id":"e18-tree","hanzi":"tree","pinyin":"","vi":"cái cây","ex":{"tokens":["There","is","a","big","tree","near","my","house","."],"py":["","","","","","","","","."],"vi":"Có một cái cây to gần nhà tôi.","alts":[]}},
+   {"id":"e18-flower","hanzi":"flower","pinyin":"","vi":"bông hoa","ex":{"tokens":["This","flower","is","beautiful","."],"py":["","","","","."],"vi":"Bông hoa này đẹp.","alts":[]}},
+   {"id":"e18-river","hanzi":"river","pinyin":"","vi":"con sông","ex":{"tokens":["This","river","is","very","long","."],"py":["","","","","","."],"vi":"Con sông này rất dài.","alts":[]}},
+   {"id":"e18-sea","hanzi":"sea","pinyin":"","vi":"biển","ex":{"tokens":["I","like","swimming","in","the","sea","."],"py":["","","","","","","."],"vi":"Tôi thích bơi ở biển.","alts":[]}},
+   {"id":"e18-mountain","hanzi":"mountain","pinyin":"","vi":"ngọn núi","ex":{"tokens":["That","mountain","is","very","high","."],"py":["","","","","","."],"vi":"Ngọn núi kia rất cao.","alts":[]}}
+  ]},
+  {"id":"e19","title":"Nơi chốn","desc":"Chợ, bệnh viện, công viên, thành phố","icon":"Ci","unit":3,"course":"en","order":190,"words":[
+   {"id":"e19-city","hanzi":"city","pinyin":"","vi":"thành phố","ex":{"tokens":["Hanoi","is","a","big","city","."],"py":["","","","","","."],"vi":"Hà Nội là một thành phố lớn.","alts":[]}},
+   {"id":"e19-street","hanzi":"street","pinyin":"","vi":"đường phố","ex":{"tokens":["This","street","is","very","busy","."],"py":["","","","","","."],"vi":"Con phố này rất đông đúc.","alts":[]}},
+   {"id":"e19-market","hanzi":"market","pinyin":"","vi":"chợ","ex":{"tokens":["My","mother","goes","to","the","market","."],"py":["","","","","","","."],"vi":"Mẹ tôi đi chợ.","alts":[]}},
+   {"id":"e19-shop","hanzi":"shop","pinyin":"","vi":"cửa hàng","ex":{"tokens":["This","shop","sells","books","."],"py":["","","","","."],"vi":"Cửa hàng này bán sách.","alts":[]}},
+   {"id":"e19-hospital","hanzi":"hospital","pinyin":"","vi":"bệnh viện","ex":{"tokens":["The","hospital","is","near","my","house","."],"py":["","","","","","","."],"vi":"Bệnh viện ở gần nhà tôi.","alts":[]}},
+   {"id":"e19-park","hanzi":"park","pinyin":"","vi":"công viên","ex":{"tokens":["We","walk","in","the","park","."],"py":["","","","","","."],"vi":"Chúng tôi đi dạo trong công viên.","alts":[]}},
+   {"id":"e19-bank","hanzi":"bank","pinyin":"","vi":"ngân hàng","ex":{"tokens":["The","bank","opens","at","eight","."],"py":["","","","","","."],"vi":"Ngân hàng mở cửa lúc tám giờ.","alts":[]}},
+   {"id":"e19-restaurant","hanzi":"restaurant","pinyin":"","vi":"nhà hàng","ex":{"tokens":["We","eat","at","a","restaurant","."],"py":["","","","","","."],"vi":"Chúng tôi ăn ở nhà hàng.","alts":[]}},
+   {"id":"e19-hotel","hanzi":"hotel","pinyin":"","vi":"khách sạn","ex":{"tokens":["This","hotel","is","very","nice","."],"py":["","","","","","."],"vi":"Khách sạn này rất đẹp.","alts":[]}},
+   {"id":"e19-country","hanzi":"country","pinyin":"","vi":"đất nước, quốc gia","ex":{"tokens":["Vietnam","is","a","beautiful","country","."],"py":["","","","","","."],"vi":"Việt Nam là một đất nước xinh đẹp.","alts":[]}},
+   {"id":"e19-where","hanzi":"where","pinyin":"","vi":"ở đâu","ex":{"tokens":["Where","do","you","live","?"],"py":["","","","","?"],"vi":"Bạn sống ở đâu?","alts":[]}},
+   {"id":"e19-here","hanzi":"here","pinyin":"","vi":"ở đây","ex":{"tokens":["I","live","here","."],"py":["","","","."],"vi":"Tôi sống ở đây.","alts":[]}},
+   {"id":"e19-there","hanzi":"there","pinyin":"","vi":"ở đó, ở kia","ex":{"tokens":["The","shop","is","over","there","."],"py":["","","","","","."],"vi":"Cửa hàng ở đằng kia.","alts":[]}}
+  ]},
+  {"id":"e20","title":"Đi lại","desc":"Xe buýt, xe máy, máy bay, vé","icon":"Bu","unit":3,"course":"en","order":200,"words":[
+   {"id":"e20-bus","hanzi":"bus","pinyin":"","vi":"xe buýt","ex":{"tokens":["The","bus","is","late","."],"py":["","","","","."],"vi":"Xe buýt đến muộn.","alts":[]}},
+   {"id":"e20-car","hanzi":"car","pinyin":"","vi":"xe ô tô","ex":{"tokens":["My","uncle","has","a","new","car","."],"py":["","","","","","","."],"vi":"Chú tôi có một chiếc ô tô mới.","alts":[]}},
+   {"id":"e20-bike","hanzi":"bike","pinyin":"","vi":"xe đạp","ex":{"tokens":["I","go","to","school","by","bike","."],"py":["","","","","","","."],"vi":"Tôi đi học bằng xe đạp.","alts":[]}},
+   {"id":"e20-motorbike","hanzi":"motorbike","pinyin":"","vi":"xe máy","ex":{"tokens":["My","father","rides","a","motorbike","."],"py":["","","","","","."],"vi":"Bố tôi đi xe máy.","alts":[]}},
+   {"id":"e20-train","hanzi":"train","pinyin":"","vi":"tàu hỏa","ex":{"tokens":["The","train","leaves","at","nine","."],"py":["","","","","","."],"vi":"Tàu khởi hành lúc chín giờ.","alts":[]}},
+   {"id":"e20-plane","hanzi":"plane","pinyin":"","vi":"máy bay","ex":{"tokens":["We","go","to","Da","Nang","by","plane","."],"py":["","","","","","","","."],"vi":"Chúng tôi đi Đà Nẵng bằng máy bay.","alts":[]}},
+   {"id":"e20-taxi","hanzi":"taxi","pinyin":"","vi":"xe taxi","ex":{"tokens":["Let","us","take","a","taxi","."],"py":["","","","","","."],"vi":"Chúng ta đi taxi nhé.","alts":[]}},
+   {"id":"e20-ticket","hanzi":"ticket","pinyin":"","vi":"vé","ex":{"tokens":["I","need","a","ticket","."],"py":["","","","","."],"vi":"Tôi cần một vé.","alts":[]}},
+   {"id":"e20-left","hanzi":"left","pinyin":"","vi":"bên trái","ex":{"tokens":["Turn","left","at","the","bank","."],"py":["","","","","","."],"vi":"Rẽ trái ở ngân hàng.","alts":[]}},
+   {"id":"e20-right","hanzi":"right","pinyin":"","vi":"bên phải; đúng","ex":{"tokens":["Turn","right","at","the","school","."],"py":["","","","","","."],"vi":"Rẽ phải ở trường học.","alts":[]}},
+   {"id":"e20-near","hanzi":"near","pinyin":"","vi":"gần","ex":{"tokens":["My","house","is","near","the","market","."],"py":["","","","","","","."],"vi":"Nhà tôi gần chợ.","alts":[]}},
+   {"id":"e20-far","hanzi":"far","pinyin":"","vi":"xa","ex":{"tokens":["The","airport","is","far","from","here","."],"py":["","","","","","","."],"vi":"Sân bay ở xa đây.","alts":[]}}
+  ]}
+ ]
+}

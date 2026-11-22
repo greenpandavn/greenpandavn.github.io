@@ -17,7 +17,8 @@ import {
   type MockSpec,
 } from "../lib/mock";
 import { recordMock, useProgress } from "../lib/store";
-import { getCourse } from "../data";
+import { getCourse, levelUnits } from "../data";
+import DataGate from "../components/DataGate";
 import { speak } from "../lib/speech";
 import SpeakerButton from "../components/SpeakerButton";
 import Footer from "../components/Footer";
@@ -48,7 +49,11 @@ export default function MockScreen({ onClose }: { onClose: () => void }) {
       <ToeicRun key={toeic.id} test={toeic} onExit={() => setToeic(null)} />
     );
   if (spec)
-    return <MockRun key={spec.id} spec={spec} onExit={() => setSpec(null)} />;
+    return (
+      <DataGate units={levelUnits(spec.level, spec.course)}>
+        <MockRun key={spec.id} spec={spec} onExit={() => setSpec(null)} />
+      </DataGate>
+    );
   return (
     <div
       className="mx-auto flex min-h-[100dvh] max-w-md flex-col px-4 pb-6 pt-4"

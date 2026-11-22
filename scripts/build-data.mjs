@@ -1,4 +1,4 @@
-// Generates src/data/zh/*.json (Chinese, one file per level) and src/data/en/*.json (English, one file per level), and copies the
+// Generates src/data/zh/ and src/data/en/ (meta.json + one u<unit>.json per part, see writeCourse), and copies the
 // HanziWriter stroke data needed by the Chinese course into public/hanzi/.
 //
 // Sources:
@@ -266,34 +266,30 @@ const dump = (obj) =>
     .map((l) => `  ${JSON.stringify({ ...l, words: undefined }).slice(0, -1)},"words":[\n${l.words.map((w) => `   ${JSON.stringify(w)}`).join(',\n')}\n  ]}`)
     .join(',\n')}\n ]\n}\n`;
 fs.mkdirSync(path.join(root, 'src/data'), { recursive: true });
-// Chinese is split into one file per level (HSK 1–3 together) so that the app can load the levels separately.
+// Each course is written as:
+//  - meta.json: the units and, per lesson, only what the lesson path shows (no description, no words) – small,
+//    bundled with the app;
+//  - u<unit>.json: the full lessons of one part, downloaded when a lesson of that part is opened.
 // `order` keeps the position of a lesson in the whole course.
-{
-  const lv = new Map(units.map((u) => [u.unit, u.level ?? 1]));
-  const chunk = (level) => (level <= 3 ? 'hsk1-3' : `hsk${level}`);
-  const zhDir = path.join(root, 'src/data/zh');
-  fs.rmSync(zhDir, { recursive: true, force: true });
-  fs.mkdirSync(zhDir, { recursive: true });
-  const ordered = lessons.map((l, i) => ({ ...l, order: (i + 1) * 10 }));
-  for (const name of new Set(units.map((u) => chunk(lv.get(u.unit)))))
-    fs.writeFileSync(
-      path.join(zhDir, `${name}.json`),
-      dump({ units: units.filter((u) => chunk(lv.get(u.unit)) === name), lessons: ordered.filter((l) => chunk(lv.get(l.unit) ?? 1) === name) }),
-    );
+function writeCourse(dir, courseUnits, courseLessons) {
+  const out = path.join(root, 'src/data', dir);
+  fs.rmSync(out, { recursive: true, force: true });
+  fs.mkdirSync(out, { recursive: true });
+  const ordered = courseLessons.map((l, i) => ({ ...l, order: (i + 1) * 10 }));
+  for (const u of courseUnits) fs.writeFileSync(path.join(out, `u${u.unit}.json`), dump({ units: [u], lessons: ordered.filter((l) => l.unit === u.unit) }));
+  const orphans = ordered.filter((l) => !courseUnits.some((u) => u.unit === l.unit));
+  if (orphans.length) throw new Error(`lessons without a unit: ${orphans.map((l) => l.id).join(' ')}`);
+  // a lesson in meta.json: [id, title, icon, unit, word count, cost of a bonus lesson]; its order is its position
+  const extra = ordered.flatMap((l) => Object.keys(l).filter((k) => !['id', 'title', 'desc', 'icon', 'unit', 'order', 'words', 'course', 'bonus', 'cost'].includes(k)));
+  if (extra.length) throw new Error(`meta.json does not keep these lesson fields: ${[...new Set(extra)].join(' ')}`);
+  const rows = ordered.map((l) => `  ${JSON.stringify([l.id, l.title, l.icon, l.unit, l.words.length, ...(l.bonus ? [l.cost ?? 0] : [])])}`);
+  fs.writeFileSync(
+    path.join(out, 'meta.json'),
+    `{\n "units": [\n${courseUnits.map((u) => `  ${JSON.stringify(u)}`).join(',\n')}\n ],\n "lessons": [\n${rows.join(',\n')}\n ]\n}\n`,
+  );
 }
-// English is split the same way, one file per level.
-{
-  const lv = new Map(enUnits.map((u) => [u.unit, u.level ?? 1]));
-  const enDir = path.join(root, 'src/data/en');
-  fs.rmSync(enDir, { recursive: true, force: true });
-  fs.mkdirSync(enDir, { recursive: true });
-  const ordered = enLessons.map((l, i) => ({ ...l, order: (i + 1) * 10 }));
-  for (const level of new Set(lv.values()))
-    fs.writeFileSync(
-      path.join(enDir, `en${level}.json`),
-      dump({ units: enUnits.filter((u) => lv.get(u.unit) === level), lessons: ordered.filter((l) => (lv.get(l.unit) ?? 1) === level) }),
-    );
-}
+writeCourse('zh', units, lessons);
+writeCourse('en', enUnits, enLessons);
 fs.rmSync(path.join(root, 'src/data/english.json'), { force: true });
 
 // Copy stroke-order data for every character used anywhere in the course.

@@ -566,3 +566,26 @@ describe("TOEIC mock tests", () => {
     expect(toeicScaled("reading", 50)).toBe(235);
   });
 });
+
+describe("v5.2.3 course metadata", () => {
+  it("the bundled metadata matches the downloaded parts", () => {
+    for (const c of ["zh", "en"] as const) {
+      data.setCourse(c);
+      expect(data.courseLoaded(c)).toBe(true);
+      // every lesson has its words, and the count known before the download is the real one
+      for (const l of data.LESSONS) expect(l.words.length, l.id).toBe(l.wordCount);
+      expect(data.wordTotal()).toBe(data.ALL_WORDS.length);
+      // word ids lead back to their lesson, which is how the parts needed for a review are found
+      for (const w of data.ALL_WORDS) expect(w.id.startsWith(`${w.lessonId}-`), w.id).toBe(true);
+      const some = data.ALL_WORDS.filter((_, i) => i % 400 === 0);
+      expect(data.unitsOfWords(some.map((w) => w.id)).sort()).toEqual(
+        [...new Set(some.map((w) => data.LESSON_BY_ID[w.lessonId].unit))].sort(),
+      );
+      expect(data.knownWord("no-such-word")).toBe(false);
+    }
+    data.setCourse("zh");
+    expect(data.levelWordCount(8, "zh")).toBe(1800);
+    expect(data.levelWordCount(9, "zh")).toBe(450);
+    expect(data.levelWordCount(5, "en")).toBe(768);
+  });
+});

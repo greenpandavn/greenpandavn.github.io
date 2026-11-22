@@ -1,0 +1,88 @@
+{
+ "units": [
+  {"unit":34,"level":3,"title":"Phần 4: Mô tả và ngữ pháp","desc":"Tính từ, phó từ, từ nối, lượng từ","color":"coral"}
+ ],
+ "lessons": [
+  {"id":"h3-19","title":"Mô tả sự vật","desc":"Ngắn, thấp, cũ, hỏng, tiện, quan trọng","icon":"旧","unit":34,"order":480,"words":[
+   {"id":"h3-19-短","hanzi":"短","pinyin":"duǎn","vi":"ngắn","ex":{"tokens":["这","条","裤子","太","短","了","。"],"py":["zhè","tiáo","kùzi","tài","duǎn","le","."],"vi":"Chiếc quần này ngắn quá.","alts":[]}},
+   {"id":"h3-19-低","hanzi":"低","pinyin":"dī","vi":"thấp","ex":{"tokens":["这","个","桌子","太","低","了","。"],"py":["zhè","ge","zhuōzi","tài","dī","le","."],"vi":"Cái bàn này thấp quá.","alts":[]}},
+   {"id":"h3-19-旧","hanzi":"旧","pinyin":"jiù","vi":"cũ","ex":{"tokens":["我","的","手机","很","旧","。"],"py":["wǒ","de","shǒujī","hěn","jiù","."],"vi":"Điện thoại của tôi rất cũ.","alts":[]}},
+   {"id":"h3-19-坏","hanzi":"坏","pinyin":"huài","vi":"hỏng, xấu","ex":{"tokens":["我","的","电脑","坏","了","。"],"py":["wǒ","de","diànnǎo","huài","le","."],"vi":"Máy tính của tôi hỏng rồi.","alts":[]}},
+   {"id":"h3-19-差","hanzi":"差","pinyin":"chà","vi":"kém, tồi; thiếu","ex":{"tokens":["我","的","成绩","很","差","。"],"py":["wǒ","de","chéngjì","hěn","chà","."],"vi":"Thành tích của tôi rất kém.","alts":[]}},
+   {"id":"h3-19-方便","hanzi":"方便","pinyin":"fāngbiàn","vi":"thuận tiện, tiện lợi","ex":{"tokens":["坐","地铁","很","方便","。"],"py":["zuò","dìtiě","hěn","fāngbiàn","."],"vi":"Đi tàu điện ngầm rất tiện.","alts":[]}},
+   {"id":"h3-19-重要","hanzi":"重要","pinyin":"zhòngyào","vi":"quan trọng","ex":{"tokens":["这","个","会议","很","重要","。"],"py":["zhè","ge","huìyì","hěn","zhòngyào","."],"vi":"Cuộc họp này rất quan trọng.","alts":[]}},
+   {"id":"h3-19-主要","hanzi":"主要","pinyin":"zhǔyào","vi":"chủ yếu, chính","ex":{"tokens":["这","是","主要","的","问题","。"],"py":["zhè","shì","zhǔyào","de","wèntí","."],"vi":"Đây là vấn đề chính.","alts":[]}},
+   {"id":"h3-19-有名","hanzi":"有名","pinyin":"yǒumíng","vi":"nổi tiếng","ex":{"tokens":["他","是","很","有名","的","医生","。"],"py":["tā","shì","hěn","yǒumíng","de","yīshēng","."],"vi":"Ông ấy là bác sĩ rất nổi tiếng.","alts":[]}},
+   {"id":"h3-19-奇怪","hanzi":"奇怪","pinyin":"qíguài","vi":"kỳ lạ","ex":{"tokens":["这","件","事情","很","奇怪","。"],"py":["zhè","jiàn","shìqing","hěn","qíguài","."],"vi":"Chuyện này rất kỳ lạ.","alts":[]}},
+   {"id":"h3-19-相同","hanzi":"相同","pinyin":"xiāngtóng","vi":"giống nhau, tương đồng","ex":{"tokens":["我们","的","爱好","相同","。"],"py":["wǒmen","de","àihào","xiāngtóng","."],"vi":"Sở thích của chúng tôi giống nhau.","alts":[]}},
+   {"id":"h3-19-一样","hanzi":"一样","pinyin":"yíyàng","vi":"giống nhau, như nhau","ex":{"tokens":["我","的","手机","和","你","的","一样","。"],"py":["wǒ","de","shǒujī","hé","nǐ","de","yíyàng","."],"vi":"Điện thoại của tôi giống của bạn.","alts":[]}}
+  ]},
+  {"id":"h3-20","title":"Phó từ (1)","desc":"Mới, càng, lại, trước, đặc biệt, luôn","icon":"才","unit":34,"order":490,"words":[
+   {"id":"h3-20-才","hanzi":"才","pinyin":"cái","vi":"mới (muộn hơn dự tính)","ex":{"tokens":["他","十","点","才","起床","。"],"py":["tā","shí","diǎn","cái","qǐchuáng","."],"vi":"Mười giờ anh ấy mới dậy.","alts":[]}},
+   {"id":"h3-20-更","hanzi":"更","pinyin":"gèng","vi":"càng, hơn nữa","ex":{"tokens":["今天","比","昨天","更","冷","。"],"py":["jīntiān","bǐ","zuótiān","gèng","lěng","."],"vi":"Hôm nay còn lạnh hơn hôm qua.","alts":[]}},
+   {"id":"h3-20-又","hanzi":"又","pinyin":"yòu","vi":"lại (đã xảy ra)","ex":{"tokens":["他","又","迟到","了","。"],"py":["tā","yòu","chídào","le","."],"vi":"Anh ấy lại đến muộn rồi.","alts":[]}},
+   {"id":"h3-20-先","hanzi":"先","pinyin":"xiān","vi":"trước, trước tiên","ex":{"tokens":["你","先","吃","吧","。"],"py":["nǐ","xiān","chī","ba","."],"vi":"Bạn ăn trước đi.","alts":[]}},
+   {"id":"h3-20-极","hanzi":"极","pinyin":"jí","vi":"cực kỳ, vô cùng","ex":{"tokens":["这","个","菜","好吃","极","了","。"],"py":["zhè","ge","cài","hǎochī","jí","le","."],"vi":"Món này ngon vô cùng.","alts":[]}},
+   {"id":"h3-20-特别","hanzi":"特别","pinyin":"tèbié","vi":"đặc biệt","ex":{"tokens":["今天","特别","热","。"],"py":["jīntiān","tèbié","rè","."],"vi":"Hôm nay đặc biệt nóng.","alts":[]}},
+   {"id":"h3-20-比较","hanzi":"比较","pinyin":"bǐjiào","vi":"tương đối, khá; so sánh","ex":{"tokens":["这","件","衣服","比较","贵","。"],"py":["zhè","jiàn","yīfu","bǐjiào","guì","."],"vi":"Bộ quần áo này khá đắt.","alts":[]}},
+   {"id":"h3-20-几乎","hanzi":"几乎","pinyin":"jīhū","vi":"hầu như, gần như","ex":{"tokens":["我","几乎","每天","都","跑步","。"],"py":["wǒ","jīhū","měitiān","dōu","pǎobù","."],"vi":"Hầu như ngày nào tôi cũng chạy bộ.","alts":[]}},
+   {"id":"h3-20-一定","hanzi":"一定","pinyin":"yídìng","vi":"nhất định","ex":{"tokens":["我","明天","一定","来","。"],"py":["wǒ","míngtiān","yídìng","lái","."],"vi":"Ngày mai tôi nhất định đến.","alts":["明天我一定来"]}},
+   {"id":"h3-20-一共","hanzi":"一共","pinyin":"yígòng","vi":"tổng cộng","ex":{"tokens":["一共","多少","钱","？"],"py":["yígòng","duōshao","qián","?"],"vi":"Tổng cộng bao nhiêu tiền?","alts":[]}},
+   {"id":"h3-20-一般","hanzi":"一般","pinyin":"yìbān","vi":"bình thường, thường thì","ex":{"tokens":["我","一般","六","点","起床","。"],"py":["wǒ","yìbān","liù","diǎn","qǐchuáng","."],"vi":"Tôi thường dậy lúc sáu giờ.","alts":[]}},
+   {"id":"h3-20-一直","hanzi":"一直","pinyin":"yìzhí","vi":"luôn luôn, suốt; thẳng","ex":{"tokens":["他","一直","在","学习","。"],"py":["tā","yìzhí","zài","xuéxí","."],"vi":"Anh ấy học suốt.","alts":[]}}
+  ]},
+  {"id":"h3-21","title":"Phó từ (2)","desc":"Thường xuyên, cuối cùng, đột nhiên, nên","icon":"常","unit":34,"order":500,"words":[
+   {"id":"h3-21-经常","hanzi":"经常","pinyin":"jīngcháng","vi":"thường xuyên","ex":{"tokens":["我","经常","去","图书馆","。"],"py":["wǒ","jīngcháng","qù","túshūguǎn","."],"vi":"Tôi thường xuyên đến thư viện.","alts":[]}},
+   {"id":"h3-21-总是","hanzi":"总是","pinyin":"zǒngshì","vi":"luôn luôn, lúc nào cũng","ex":{"tokens":["他","总是","很","忙","。"],"py":["tā","zǒngshì","hěn","máng","."],"vi":"Anh ấy lúc nào cũng bận.","alts":[]}},
+   {"id":"h3-21-终于","hanzi":"终于","pinyin":"zhōngyú","vi":"cuối cùng","ex":{"tokens":["我","终于","完成","了","作业","。"],"py":["wǒ","zhōngyú","wánchéng","le","zuòyè","."],"vi":"Cuối cùng tôi cũng làm xong bài tập.","alts":[]}},
+   {"id":"h3-21-突然","hanzi":"突然","pinyin":"tūrán","vi":"đột nhiên, bỗng nhiên","ex":{"tokens":["突然","下","雨","了","。"],"py":["tūrán","xià","yǔ","le","."],"vi":"Đột nhiên trời mưa.","alts":[]}},
+   {"id":"h3-21-其实","hanzi":"其实","pinyin":"qíshí","vi":"thật ra","ex":{"tokens":["其实","我","不","想","去","。"],"py":["qíshí","wǒ","bù","xiǎng","qù","."],"vi":"Thật ra tôi không muốn đi.","alts":[]}},
+   {"id":"h3-21-当然","hanzi":"当然","pinyin":"dāngrán","vi":"đương nhiên, tất nhiên","ex":{"tokens":["我","当然","愿意","。"],"py":["wǒ","dāngrán","yuànyì","."],"vi":"Tất nhiên là tôi sẵn lòng.","alts":[]}},
+   {"id":"h3-21-必须","hanzi":"必须","pinyin":"bìxū","vi":"phải, nhất định phải","ex":{"tokens":["你","必须","去","医院","。"],"py":["nǐ","bìxū","qù","yīyuàn","."],"vi":"Bạn phải đi bệnh viện.","alts":[]}},
+   {"id":"h3-21-应该","hanzi":"应该","pinyin":"yīnggāi","vi":"nên, cần phải","ex":{"tokens":["你","应该","多","休息","。"],"py":["nǐ","yīnggāi","duō","xiūxi","."],"vi":"Bạn nên nghỉ ngơi nhiều.","alts":[]}},
+   {"id":"h3-21-多么","hanzi":"多么","pinyin":"duōme","vi":"biết bao, thật là","ex":{"tokens":["今天","的","天气","多么","好","啊","！"],"py":["jīntiān","de","tiānqì","duōme","hǎo","a","!"],"vi":"Thời tiết hôm nay đẹp biết bao!","alts":[]}},
+   {"id":"h3-21-越","hanzi":"越","pinyin":"yuè","vi":"càng","ex":{"tokens":["雨","越","下","越","大","。"],"py":["yǔ","yuè","xià","yuè","dà","."],"vi":"Mưa càng lúc càng to.","alts":[]}},
+   {"id":"h3-21-一边","hanzi":"一边","pinyin":"yìbiān","vi":"vừa... vừa; một bên","ex":{"tokens":["他","一边","吃","饭","，","一边","看","电视","。"],"py":["tā","yìbiān","chī","fàn",",","yìbiān","kàn","diànshì","."],"vi":"Anh ấy vừa ăn cơm vừa xem ti vi.","alts":[]}},
+   {"id":"h3-21-然后","hanzi":"然后","pinyin":"ránhòu","vi":"sau đó","ex":{"tokens":["我","先","做","作业","，","然后","看","电视","。"],"py":["wǒ","xiān","zuò","zuòyè",",","ránhòu","kàn","diànshì","."],"vi":"Tôi làm bài tập trước, sau đó xem ti vi.","alts":[]}}
+  ]},
+  {"id":"h3-22","title":"Từ nối","desc":"Nếu, tuy, hơn nữa, hoặc, ngoài ra, để","icon":"如","unit":34,"order":510,"words":[
+   {"id":"h3-22-如果","hanzi":"如果","pinyin":"rúguǒ","vi":"nếu, nếu như","ex":{"tokens":["如果","明天","下","雨","，","我","就","不","去","了","。"],"py":["rúguǒ","míngtiān","xià","yǔ",",","wǒ","jiù","bú","qù","le","."],"vi":"Nếu ngày mai mưa thì tôi không đi nữa.","alts":[]}},
+   {"id":"h3-22-虽然","hanzi":"虽然","pinyin":"suīrán","vi":"tuy, mặc dù","ex":{"tokens":["虽然","很","累","，","但是","我","很","快乐","。"],"py":["suīrán","hěn","lèi",",","dànshì","wǒ","hěn","kuàilè","."],"vi":"Tuy rất mệt nhưng tôi rất vui.","alts":[]}},
+   {"id":"h3-22-而且","hanzi":"而且","pinyin":"érqiě","vi":"hơn nữa, mà còn","ex":{"tokens":["这","件","衣服","很","漂亮","，","而且","不","贵","。"],"py":["zhè","jiàn","yīfu","hěn","piàoliang",",","érqiě","bú","guì","."],"vi":"Bộ quần áo này rất đẹp, hơn nữa không đắt.","alts":[]}},
+   {"id":"h3-22-或者","hanzi":"或者","pinyin":"huòzhě","vi":"hoặc, hoặc là","ex":{"tokens":["你","可以","坐","地铁","或者","公共汽车","。"],"py":["nǐ","kěyǐ","zuò","dìtiě","huòzhě","gōnggòngqìchē","."],"vi":"Bạn có thể đi tàu điện ngầm hoặc xe buýt.","alts":[]}},
+   {"id":"h3-22-还是","hanzi":"还是","pinyin":"háishi","vi":"hay là; vẫn","ex":{"tokens":["你","喝","茶","还是","咖啡","？"],"py":["nǐ","hē","chá","háishi","kāfēi","?"],"vi":"Bạn uống trà hay cà phê?","alts":[]}},
+   {"id":"h3-22-除了","hanzi":"除了","pinyin":"chúle","vi":"ngoài ra, trừ","ex":{"tokens":["除了","他","，","大家","都","来","了","。"],"py":["chúle","tā",",","dàjiā","dōu","lái","le","."],"vi":"Ngoài anh ấy ra, mọi người đều đến rồi.","alts":[]}},
+   {"id":"h3-22-为了","hanzi":"为了","pinyin":"wèile","vi":"để, vì","ex":{"tokens":["为了","健康","，","我","每天","运动","。"],"py":["wèile","jiànkāng",",","wǒ","měitiān","yùndòng","."],"vi":"Để khỏe mạnh, ngày nào tôi cũng vận động.","alts":[]}},
+   {"id":"h3-22-关于","hanzi":"关于","pinyin":"guānyú","vi":"về, liên quan đến","ex":{"tokens":["这","是","关于","中国","的","书","。"],"py":["zhè","shì","guānyú","Zhōngguó","de","shū","."],"vi":"Đây là sách về Trung Quốc.","alts":[]}},
+   {"id":"h3-22-根据","hanzi":"根据","pinyin":"gēnjù","vi":"căn cứ, dựa theo","ex":{"tokens":["请","根据","地图","走","。"],"py":["qǐng","gēnjù","dìtú","zǒu","."],"vi":"Hãy đi theo bản đồ.","alts":[]}},
+   {"id":"h3-22-跟","hanzi":"跟","pinyin":"gēn","vi":"với, cùng; theo","ex":{"tokens":["我","跟","朋友","去","看","电影","。"],"py":["wǒ","gēn","péngyou","qù","kàn","diànyǐng","."],"vi":"Tôi đi xem phim với bạn.","alts":[]}},
+   {"id":"h3-22-像","hanzi":"像","pinyin":"xiàng","vi":"giống, giống như","ex":{"tokens":["她","很","像","她","妈妈","。"],"py":["tā","hěn","xiàng","tā","māma","."],"vi":"Cô ấy rất giống mẹ.","alts":[]}},
+   {"id":"h3-22-其他","hanzi":"其他","pinyin":"qítā","vi":"khác, cái khác","ex":{"tokens":["其他","人","在","哪儿","？"],"py":["qítā","rén","zài","nǎr","?"],"vi":"Những người khác ở đâu?","alts":[]}}
+  ]},
+  {"id":"h3-23","title":"Ngữ pháp và lượng từ","desc":"Câu chữ 把, câu bị động, lượng từ","icon":"把","unit":34,"order":520,"words":[
+   {"id":"h3-23-把","hanzi":"把","pinyin":"bǎ","vi":"(giới từ đưa tân ngữ lên trước động từ)","ex":{"tokens":["请","把","门","关","上","。"],"py":["qǐng","bǎ","mén","guān","shang","."],"vi":"Xin hãy đóng cửa lại.","alts":[]}},
+   {"id":"h3-23-被","hanzi":"被","pinyin":"bèi","vi":"bị, được (câu bị động)","ex":{"tokens":["我","的","蛋糕","被","弟弟","吃","了","。"],"py":["wǒ","de","dàngāo","bèi","dìdi","chī","le","."],"vi":"Bánh kem của tôi bị em trai ăn rồi.","alts":[]}},
+   {"id":"h3-23-地","hanzi":"地","pinyin":"de","vi":"(trợ từ nối trạng ngữ với động từ) một cách","ex":{"tokens":["她","高兴","地","笑","了","。"],"py":["tā","gāoxìng","de","xiào","le","."],"vi":"Cô ấy cười một cách vui vẻ.","alts":[]}},
+   {"id":"h3-23-啊","hanzi":"啊","pinyin":"a","vi":"a, à (trợ từ cảm thán)","ex":{"tokens":["这","里","真","漂亮","啊","！"],"py":["zhè","lǐ","zhēn","piàoliang","a","!"],"vi":"Ở đây đẹp thật đấy!","alts":[]}},
+   {"id":"h3-23-使","hanzi":"使","pinyin":"shǐ","vi":"khiến, làm cho","ex":{"tokens":["运动","使","人","健康","。"],"py":["yùndòng","shǐ","rén","jiànkāng","."],"vi":"Vận động khiến con người khỏe mạnh.","alts":[]}},
+   {"id":"h3-23-用","hanzi":"用","pinyin":"yòng","vi":"dùng, sử dụng","ex":{"tokens":["我","可以","用","你","的","手机","吗","？"],"py":["wǒ","kěyǐ","yòng","nǐ","de","shǒujī","ma","?"],"vi":"Tôi dùng điện thoại của bạn được không?","alts":[]}},
+   {"id":"h3-23-位","hanzi":"位","pinyin":"wèi","vi":"vị (lượng từ lịch sự chỉ người)","ex":{"tokens":["这","位","是","我们","的","校长","。"],"py":["zhè","wèi","shì","wǒmen","de","xiàozhǎng","."],"vi":"Vị này là hiệu trưởng của chúng tôi.","alts":[]}},
+   {"id":"h3-23-条","hanzi":"条","pinyin":"tiáo","vi":"con, chiếc (lượng từ vật dài)","ex":{"tokens":["我","买","了","一","条","裙子","。"],"py":["wǒ","mǎi","le","yì","tiáo","qúnzi","."],"vi":"Tôi đã mua một chiếc váy.","alts":[]}},
+   {"id":"h3-23-双","hanzi":"双","pinyin":"shuāng","vi":"đôi (lượng từ)","ex":{"tokens":["我","有","三","双","鞋","。"],"py":["wǒ","yǒu","sān","shuāng","xié","."],"vi":"Tôi có ba đôi giày.","alts":[]}},
+   {"id":"h3-23-种","hanzi":"种","pinyin":"zhǒng","vi":"loại, chủng loại","ex":{"tokens":["我","喜欢","这","种","水果","。"],"py":["wǒ","xǐhuan","zhè","zhǒng","shuǐguǒ","."],"vi":"Tôi thích loại hoa quả này.","alts":[]}},
+   {"id":"h3-23-段","hanzi":"段","pinyin":"duàn","vi":"đoạn, khúc","ex":{"tokens":["请","读","这","一","段","。"],"py":["qǐng","dú","zhè","yí","duàn","."],"vi":"Xin hãy đọc đoạn này.","alts":[]}},
+   {"id":"h3-23-角","hanzi":"角","pinyin":"jiǎo","vi":"hào (1/10 tệ); góc","ex":{"tokens":["这","个","五","角","钱","。"],"py":["zhè","ge","wǔ","jiǎo","qián","."],"vi":"Cái này năm hào.","alts":[]}},
+   {"id":"h3-23-万","hanzi":"万","pinyin":"wàn","vi":"vạn, mười nghìn","ex":{"tokens":["这","个","城市","有","八","百","万","人","。"],"py":["zhè","ge","chéngshì","yǒu","bā","bǎi","wàn","rén","."],"vi":"Thành phố này có tám triệu người.","alts":[]}}
+  ]},
+  {"id":"h3-24","title":"Sự việc và thay đổi","desc":"Thay đổi, tổ chức, kết hôn, kết thúc, quan hệ","icon":"变","unit":34,"order":530,"words":[
+   {"id":"h3-24-变化","hanzi":"变化","pinyin":"biànhuà","vi":"thay đổi, biến đổi","ex":{"tokens":["这","个","城市","的","变化","很","大","。"],"py":["zhè","ge","chéngshì","de","biànhuà","hěn","dà","."],"vi":"Thành phố này thay đổi rất nhiều.","alts":[]}},
+   {"id":"h3-24-出现","hanzi":"出现","pinyin":"chūxiàn","vi":"xuất hiện","ex":{"tokens":["太阳","出现","了","。"],"py":["tàiyáng","chūxiàn","le","."],"vi":"Mặt trời xuất hiện rồi.","alts":[]}},
+   {"id":"h3-24-举行","hanzi":"举行","pinyin":"jǔxíng","vi":"tổ chức, cử hành","ex":{"tokens":["学校","明天","举行","比赛","。"],"py":["xuéxiào","míngtiān","jǔxíng","bǐsài","."],"vi":"Ngày mai trường tổ chức cuộc thi.","alts":[]}},
+   {"id":"h3-24-结婚","hanzi":"结婚","pinyin":"jiéhūn","vi":"kết hôn","ex":{"tokens":["他们","下","个","月","结婚","。"],"py":["tāmen","xià","ge","yuè","jiéhūn","."],"vi":"Tháng sau họ kết hôn.","alts":[]}},
+   {"id":"h3-24-结束","hanzi":"结束","pinyin":"jiéshù","vi":"kết thúc","ex":{"tokens":["会议","结束","了","。"],"py":["huìyì","jiéshù","le","."],"vi":"Cuộc họp kết thúc rồi.","alts":[]}},
+   {"id":"h3-24-关","hanzi":"关","pinyin":"guān","vi":"đóng, tắt","ex":{"tokens":["请","关","灯","。"],"py":["qǐng","guān","dēng","."],"vi":"Xin hãy tắt đèn.","alts":[]}},
+   {"id":"h3-24-关系","hanzi":"关系","pinyin":"guānxì","vi":"quan hệ","ex":{"tokens":["我们","的","关系","很","好","。"],"py":["wǒmen","de","guānxì","hěn","hǎo","."],"vi":"Quan hệ của chúng tôi rất tốt.","alts":[]}},
+   {"id":"h3-24-作用","hanzi":"作用","pinyin":"zuòyòng","vi":"tác dụng","ex":{"tokens":["这","种","药","很","有","作用","。"],"py":["zhè","zhǒng","yào","hěn","yǒu","zuòyòng","."],"vi":"Loại thuốc này rất có tác dụng.","alts":[]}}
+  ]}
+ ]
+}

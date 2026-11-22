@@ -47,7 +47,7 @@ self.addEventListener('fetch', (event) => {
   const isFont = /fonts\.(googleapis|gstatic)\.com/.test(url.host);
   if (!sameOrigin && !isFont) return;
   event.respondWith(
-    caches.match(req, { ignoreSearch: sameOrigin }).then(
+    caches.match(req, { ignoreSearch: sameOrigin, ignoreVary: true }).then(
       (hit) =>
         hit ||
         fetch(req).then((res) => {

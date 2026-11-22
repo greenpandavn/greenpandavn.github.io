@@ -3,7 +3,7 @@ import fs from 'node:fs';
 import { pinyin } from 'pinyin-pro';
 
 const dir = new URL('../src/data/zh/', import.meta.url);
-const lessons = fs.readdirSync(dir).flatMap((f) => JSON.parse(fs.readFileSync(new URL(f, dir))).lessons);
+const lessons = fs.readdirSync(dir).filter((f) => f !== 'meta.json').flatMap((f) => JSON.parse(fs.readFileSync(new URL(f, dir))).lessons);
 const norm = (s) => s.toLowerCase().replace(/[\s'’,.?!]/g, '');
 // strip tone marks (used to detect neutral-tone / sandhi-only differences)
 const bare = (s) => norm(s).normalize('NFD').replace(/[\u0300-\u036f]/g, '').replace(/ü/g, 'v');

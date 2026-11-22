@@ -1,8 +1,10 @@
 import { useSyncExternalStore } from "react";
 import type { CourseId, Lesson, Word } from "../types";
+import zhMeta from "./zh/meta.json";
+import enMeta from "./en/meta.json";
 
 export type RawWord = Omit<Word, "lessonId">;
-export type RawLesson = Omit<Lesson, "words"> & { words: RawWord[] };
+export type RawLesson = Omit<Lesson, "words" | "wordCount"> & { words: RawWord[] };
 export interface Unit {
   unit: number;
   title: string;
@@ -19,12 +21,53 @@ export interface ContentOverrides {
   units: UnitDoc[];
 }
 
-// The word lists are big, so they are separate chunks, fetched when a course is opened (see loadCourse):
-// one chunk per level (HSK 1–3 together).
+// The word lists are big, so every part (unit) of a course is a separate chunk, fetched when one of its lessons is
+// needed (see loadUnits). The lesson path itself is drawn from the small bundled meta files.
+type MetaLesson = [id: string, title: string, icon: string, unit: number, words: number, cost?: number];
+interface Meta {
+  units: Unit[];
+  lessons: MetaLesson[];
+}
+/** A lesson as known before its part is downloaded: no words and no description yet. */
+const stubs = (meta: Meta, c: CourseId): RawLesson[] =>
+  meta.lessons.map(([id, title, icon, unit, , cost], i) => ({
+    id,
+    title,
+    desc: "",
+    icon,
+    unit,
+    ...(cost === undefined ? {} : { bonus: true, cost }),
+    ...(c === "en" ? { course: c } : {}),
+    order: (i + 1) * 10,
+    words: [],
+  }));
+const byUnit = (a: Unit, b: Unit) => a.unit - b.unit;
+const META = { zh: zhMeta as unknown as Meta, en: enMeta as unknown as Meta };
+const STUBS: Record<CourseId, RawLesson[]> = {
+  zh: stubs(META.zh, "zh"),
+  en: stubs(META.en, "en"),
+};
+const WORD_COUNT = new Map<string, number>(
+  [...META.zh.lessons, ...META.en.lessons].map((l) => [l[0], l[4]]),
+);
+/** The bundled lessons whose words are in memory (all of them once loadCourse has finished). */
 export let BUNDLED_LESSONS: RawLesson[] = [];
-export let BUNDLED_UNITS: Unit[] = [];
+export const BUNDLED_UNITS: Unit[] = [...META.zh.units].sort(byUnit);
 export let EN_LESSONS: RawLesson[] = [];
-export let EN_UNITS: Unit[] = [];
+export const EN_UNITS: Unit[] = [...META.en.units].sort(byUnit);
+const unitsOf = (c: CourseId) => (c === "en" ? EN_UNITS : BUNDLED_UNITS);
+/** True for a lesson that ships with the app (even when its words are not downloaded yet). */
+export const isBundledLesson = (id: string) => WORD_COUNT.has(id);
+/** Parts (units) of one level of a course. */
+export const levelUnits = (level: number, c: CourseId = course) =>
+  unitsOf(c)
+    .filter((u) => (u.level ?? 1) === level)
+    .map((u) => u.unit);
+/** Number of bundled words of one level of a course (known without downloading it). */
+export function levelWordCount(level: number, c: CourseId = course) {
+  const units = new Set(levelUnits(level, c));
+  return META[c].lessons.reduce((n, l) => n + (units.has(l[3]) ? l[4] : 0), 0);
+}
 
 export const COURSES: {
   id: CourseId;
@@ -81,98 +124,72 @@ const notify = () => {
 };
 interface RawData {
   lessons: RawLesson[];
-  units: Unit[];
 }
-const ZH_CHUNKS = import.meta.glob<{ default: RawData }>("./zh/*.json");
-const ZH_BASE = "./zh/hsk1-3.json";
-const EN_CHUNKS = import.meta.glob<{ default: RawData }>("./en/*.json");
-const EN_BASE = "./en/en1.json";
-const CHUNKS = { ...ZH_CHUNKS, ...EN_CHUNKS };
-const chunkOf = (c: CourseId, level: number) => {
-  const key = c === "en" ? `./en/en${level}.json` : `./zh/hsk${level}.json`;
-  return CHUNKS[key] ? key : c === "en" ? EN_BASE : ZH_BASE;
+const CHUNKS = {
+  ...import.meta.glob<{ default: RawData }>("./zh/u*.json"),
+  ...import.meta.glob<{ default: RawData }>("./en/u*.json"),
 };
-const levelKey = (c: CourseId) => `gp-${c}-level`;
-/** Remember the level being studied, so that its chunk is waited for on the next launch. */
-export function noteLevel(level: number, c: CourseId = course) {
-  try {
-    if (localStorage.getItem(levelKey(c)) !== String(level))
-      localStorage.setItem(levelKey(c), String(level));
-  } catch {
-    /* private mode */
-  }
-}
-/** The chunks needed to show a course: its first level(s) plus the level being studied. */
-function priority(c: CourseId) {
-  let level = 1;
-  try {
-    level = Number(localStorage.getItem(levelKey(c))) || 1;
-  } catch {
-    /* private mode */
-  }
-  return [...new Set([c === "en" ? EN_BASE : ZH_BASE, chunkOf(c, level)])];
-}
-const loaded = new Set<string>(); // 'en', 'zh' (every level) and the Chinese chunks
-const loading = new Map<string, Promise<void>>();
-let pending: CourseId | null = null;
-let loadFailed = false;
-function once(key: string, start: () => Promise<void>) {
-  let job = loading.get(key);
+const chunkKey = (c: CourseId, unit: number) => `./${c}/u${unit}.json`;
+const FULL: Record<CourseId, Map<string, RawLesson>> = {
+  zh: new Map(),
+  en: new Map(),
+};
+const ready = new Set<string>(); // chunks in memory
+const fetching = new Map<string, Promise<void>>();
+let dirty = false;
+function fetchUnit(c: CourseId, unit: number) {
+  const key = chunkKey(c, unit);
+  let job = fetching.get(key);
   if (!job) {
-    job = start().then(
-      () => void loaded.add(key),
+    job = CHUNKS[key]().then(
+      (m) => {
+        for (const l of m.default.lessons) FULL[c].set(l.id, l);
+        ready.add(key);
+        dirty = true;
+      },
       (e) => {
-        loading.delete(key);
+        fetching.delete(key); // retried on the next call
         throw e;
       },
     );
-    loading.set(key, job);
+    fetching.set(key, job);
   }
   return job;
 }
-const loadChunk = (key: string) =>
-  once(key, async () => {
-    const raw = (await CHUNKS[key]()).default;
-    const en = key in EN_CHUNKS;
-    const lessons = [
-      ...(en ? EN_LESSONS : BUNDLED_LESSONS),
-      ...raw.lessons,
-    ].sort((a, b) => (a.order ?? 0) - (b.order ?? 0));
-    const units = [...(en ? EN_UNITS : BUNDLED_UNITS), ...raw.units].sort(
-      (a, b) => a.unit - b.unit,
-    );
-    if (en) [EN_LESSONS, EN_UNITS] = [lessons, units];
-    else [BUNDLED_LESSONS, BUNDLED_UNITS] = [lessons, units];
-    if (course === (en ? "en" : "zh")) build(overrides);
-    notify();
-  });
-/** Fetch all the lessons of a course (once). Resolves when every level is available. */
-export function loadCourse(c: CourseId): Promise<void> {
-  return once(c, async () => {
-    await Promise.all(
-      Object.keys(c === "en" ? EN_CHUNKS : ZH_CHUNKS).map(loadChunk),
-    );
-    notify();
-  });
-}
-/** True when every level of the course is in memory. */
-export const courseLoaded = (c: CourseId = course) => loaded.has(c);
-/** Enough to show the course: its first level(s) plus the level being studied (the rest follows). */
-const usable = (c: CourseId) => priority(c).every((k) => loaded.has(k));
-function loadUsable(c: CourseId): Promise<unknown> {
-  loadCourse(c).catch(() => {}); // the other levels keep loading in the background
-  return Promise.all(priority(c).map(loadChunk));
-}
-/** 'ready' when the active course can be shown; 'loading' / 'error' while its data is fetched. */
-export const courseState = (): "ready" | "loading" | "error" =>
-  loadFailed ? "error" : pending || !usable(course) ? "loading" : "ready";
-function activate(c: CourseId) {
-  course = c;
+/** Rebuild the lesson lists once after a batch of parts has arrived. */
+function flush() {
+  if (!dirty) return;
+  dirty = false;
+  const full = (c: CourseId) =>
+    [...FULL[c].values()].sort((a, b) => (a.order ?? 0) - (b.order ?? 0));
+  [BUNDLED_LESSONS, EN_LESSONS] = [full("zh"), full("en")];
   build(overrides);
-  courseHooks.forEach((h) => h());
   notify();
 }
-/** Switch course. The switch happens at once when its lessons are loaded, otherwise as soon as they arrive. */
+/** True when the words of these parts are in memory (parts without bundled data count as ready). */
+export const unitsReady = (units: number[], c: CourseId = course) =>
+  units.every((u) => !CHUNKS[chunkKey(c, u)] || ready.has(chunkKey(c, u)));
+/** Fetch the words of some parts of a course (each part is downloaded once). */
+export function loadUnits(units: number[], c: CourseId = course): Promise<void> {
+  const need = units.filter((u) => !unitsReady([u], c));
+  if (!need.length) return Promise.resolve();
+  return Promise.all(need.map((u) => fetchUnit(c, u))).then(flush, (e) => {
+    flush(); // keep the parts that did arrive
+    throw e;
+  });
+}
+/** Fetch every lesson of a course, level by level. Resolves when all of them are available. */
+export async function loadCourse(c: CourseId): Promise<void> {
+  const levels = [...new Set(unitsOf(c).map((u) => u.level ?? 1))];
+  for (const level of levels) await loadUnits(levelUnits(level, c), c);
+}
+/** True when every lesson of the course is in memory. */
+export const courseLoaded = (c: CourseId = course) =>
+  unitsReady(
+    unitsOf(c).map((u) => u.unit),
+    c,
+  );
+/** Switch course (the lesson path needs no download; the words follow when a lesson is opened). */
 export function setCourse(c: CourseId) {
   chosen = true;
   try {
@@ -180,35 +197,10 @@ export function setCourse(c: CourseId) {
   } catch {
     /* private mode */
   }
-  loadFailed = false;
-  if (usable(c)) {
-    pending = null;
-    activate(c);
-    loadUsable(c).catch(() => {});
-    return;
-  }
-  pending = c;
+  course = c;
+  build(overrides);
+  courseHooks.forEach((h) => h());
   notify();
-  loadUsable(c).then(
-    () => {
-      if (pending !== c) return;
-      pending = null;
-      activate(c);
-    },
-    () => {
-      if (pending !== c) return;
-      loadFailed = true;
-      notify();
-    },
-  );
-}
-/** Try again after a failed download of the course data. */
-export function retryCourse() {
-  const c = pending ?? course;
-  loadFailed = false;
-  if (pending) return setCourse(c);
-  notify();
-  ensureCourse();
 }
 /** HSK level of a unit (1 when the unit has none, e.g. the English course). */
 /** Name of a level of the active course, e.g. 'HSK 4' or 'Trung cấp'. */
@@ -244,10 +236,10 @@ function build(o: ContentOverrides | null) {
   overrides = o;
   if (course === "en") o = null; // admin-managed content only exists for the Chinese course
   const lessonMap = new Map<string, RawLesson>(
-    (course === "en" ? EN_LESSONS : BUNDLED_LESSONS).map((l) => [l.id, l]),
+    STUBS[course].map((l) => [l.id, FULL[course].get(l.id) ?? l]),
   );
   const unitMap = new Map<number, Unit>(
-    (course === "en" ? EN_UNITS : BUNDLED_UNITS).map((u) => [u.unit, u]),
+    unitsOf(course).map((u) => [u.unit, u]),
   );
   for (const d of o?.lessons ?? []) {
     if ("deleted" in d) lessonMap.delete(d.id);
@@ -262,6 +254,7 @@ function build(o: ContentOverrides | null) {
   );
   LESSONS = sorted.map((l) => ({
     ...l,
+    wordCount: l.words.length || WORD_COUNT.get(l.id) || 0,
     words: l.words.map((w) => ({ ...w, lessonId: l.id })),
   }));
   for (const l of LESSONS)
@@ -296,17 +289,28 @@ function cached(): ContentOverrides | null {
   }
 }
 build(cached());
-/** Start fetching the active course if that has not happened yet (no-op once it is loading or ready). */
-export function ensureCourse() {
-  if (loaded.has(course) || pending || loadFailed) return;
-  loadUsable(course).catch(() => {
-    if (usable(course)) return; // a background level failed: it is retried on the next call
-    loadFailed = true;
-    notify();
-  });
+
+/** The lesson a word id belongs to: word ids are '<lesson id>-<word>'. */
+function lessonOfWord(id: string): Lesson | undefined {
+  for (let i = id.indexOf("-"); i > 0; i = id.indexOf("-", i + 1)) {
+    const l = LESSON_BY_ID[id.slice(0, i)];
+    if (l) return l;
+  }
+  return WORD_BY_ID[id] && LESSON_BY_ID[WORD_BY_ID[id].lessonId];
 }
-// A returning learner needs the saved course right away; a new visitor loads it after picking one.
-if (chosen) ensureCourse();
+/** Is this word id part of the active course (whether or not its part is downloaded)? */
+export const knownWord = (id: string) => !!lessonOfWord(id);
+/** The parts that hold the given words, e.g. every word the learner has practised. */
+export function unitsOfWords(ids: string[]): number[] {
+  const units = new Set<number>();
+  for (const id of ids) {
+    const l = lessonOfWord(id);
+    if (l) units.add(l.unit);
+  }
+  return [...units];
+}
+/** Number of words in the active course. */
+export const wordTotal = () => LESSONS.reduce((n, l) => n + l.wordCount, 0);
 
 /** Apply admin content from Firestore (cached for offline use); bundled content fills any gaps. */
 export function applyContent(o: ContentOverrides) {

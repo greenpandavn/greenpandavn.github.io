@@ -1,0 +1,92 @@
+{
+ "units": [
+  {"unit":31,"level":3,"title":"Phần 1: Con người và đời sống","desc":"Người thân, ngoại hình, đồ dùng, ăn uống, nhà cửa","color":"leaf"}
+ ],
+ "lessons": [
+  {"id":"h3-01","title":"Người thân và người quen","desc":"Ông bà, cô chú, hàng xóm, đồng nghiệp","icon":"爷","unit":31,"order":300,"words":[
+   {"id":"h3-01-爷爷","hanzi":"爷爷","pinyin":"yéye","vi":"ông nội","ex":{"tokens":["爷爷","每天","早上","去","公园","。"],"py":["yéye","měitiān","zǎoshang","qù","gōngyuán","."],"vi":"Sáng nào ông nội cũng ra công viên.","alts":[]}},
+   {"id":"h3-01-奶奶","hanzi":"奶奶","pinyin":"nǎinai","vi":"bà nội","ex":{"tokens":["奶奶","做","的","菜","很","好吃","。"],"py":["nǎinai","zuò","de","cài","hěn","hǎochī","."],"vi":"Món bà nội nấu rất ngon.","alts":[]}},
+   {"id":"h3-01-叔叔","hanzi":"叔叔","pinyin":"shūshu","vi":"chú","ex":{"tokens":["叔叔","在","银行","工作","。"],"py":["shūshu","zài","yínháng","gōngzuò","."],"vi":"Chú làm việc ở ngân hàng.","alts":[]}},
+   {"id":"h3-01-阿姨","hanzi":"阿姨","pinyin":"āyí","vi":"cô, dì","ex":{"tokens":["阿姨","，","您","好","！"],"py":["āyí",",","nín","hǎo","!"],"vi":"Cháu chào cô ạ!","alts":[]}},
+   {"id":"h3-01-邻居","hanzi":"邻居","pinyin":"línjū","vi":"hàng xóm","ex":{"tokens":["我","的","邻居","很","热情","。"],"py":["wǒ","de","línjū","hěn","rèqíng","."],"vi":"Hàng xóm của tôi rất nhiệt tình.","alts":[]}},
+   {"id":"h3-01-客人","hanzi":"客人","pinyin":"kèrén","vi":"khách","ex":{"tokens":["今天","家","里","来","了","客人","。"],"py":["jīntiān","jiā","li","lái","le","kèrén","."],"vi":"Hôm nay nhà có khách đến.","alts":[]}},
+   {"id":"h3-01-同事","hanzi":"同事","pinyin":"tóngshì","vi":"đồng nghiệp","ex":{"tokens":["他","是","我","的","同事","。"],"py":["tā","shì","wǒ","de","tóngshì","."],"vi":"Anh ấy là đồng nghiệp của tôi.","alts":[]}},
+   {"id":"h3-01-经理","hanzi":"经理","pinyin":"jīnglǐ","vi":"giám đốc, quản lý","ex":{"tokens":["经理","正在","开会","。"],"py":["jīnglǐ","zhèngzài","kāihuì","."],"vi":"Giám đốc đang họp.","alts":[]}},
+   {"id":"h3-01-校长","hanzi":"校长","pinyin":"xiàozhǎng","vi":"hiệu trưởng","ex":{"tokens":["校长","今天","不","在","学校","。"],"py":["xiàozhǎng","jīntiān","bú","zài","xuéxiào","."],"vi":"Hôm nay hiệu trưởng không có ở trường.","alts":[]}},
+   {"id":"h3-01-司机","hanzi":"司机","pinyin":"sījī","vi":"tài xế, lái xe","ex":{"tokens":["我","爸爸","是","司机","。"],"py":["wǒ","bàba","shì","sījī","."],"vi":"Bố tôi là tài xế.","alts":[]}},
+   {"id":"h3-01-别人","hanzi":"别人","pinyin":"biéren","vi":"người khác","ex":{"tokens":["别","拿","别人","的","东西","。"],"py":["bié","ná","biéren","de","dōngxi","."],"vi":"Đừng lấy đồ của người khác.","alts":[]}},
+   {"id":"h3-01-自己","hanzi":"自己","pinyin":"zìjǐ","vi":"tự mình, bản thân","ex":{"tokens":["我","自己","做","饭","。"],"py":["wǒ","zìjǐ","zuò","fàn","."],"vi":"Tôi tự nấu cơm.","alts":[]}}
+  ]},
+  {"id":"h3-02","title":"Ngoại hình và tính cách","desc":"Cao thấp, béo gầy, thông minh","icon":"脸","unit":31,"order":310,"words":[
+   {"id":"h3-02-矮","hanzi":"矮","pinyin":"ǎi","vi":"thấp, lùn","ex":{"tokens":["弟弟","比","我","矮","。"],"py":["dìdi","bǐ","wǒ","ǎi","."],"vi":"Em trai thấp hơn tôi.","alts":[]}},
+   {"id":"h3-02-胖","hanzi":"胖","pinyin":"pàng","vi":"béo, mập","ex":{"tokens":["我","最近","胖","了","。"],"py":["wǒ","zuìjìn","pàng","le","."],"vi":"Dạo này tôi béo lên rồi.","alts":[]}},
+   {"id":"h3-02-瘦","hanzi":"瘦","pinyin":"shòu","vi":"gầy","ex":{"tokens":["她","很","瘦","。"],"py":["tā","hěn","shòu","."],"vi":"Cô ấy rất gầy.","alts":[]}},
+   {"id":"h3-02-老","hanzi":"老","pinyin":"lǎo","vi":"già, cũ","ex":{"tokens":["爷爷","老","了","。"],"py":["yéye","lǎo","le","."],"vi":"Ông nội già rồi.","alts":[]}},
+   {"id":"h3-02-年轻","hanzi":"年轻","pinyin":"niánqīng","vi":"trẻ, trẻ tuổi","ex":{"tokens":["妈妈","看","起来","很","年轻","。"],"py":["māma","kàn","qilai","hěn","niánqīng","."],"vi":"Mẹ trông rất trẻ.","alts":[]}},
+   {"id":"h3-02-脸","hanzi":"脸","pinyin":"liǎn","vi":"mặt, khuôn mặt","ex":{"tokens":["她","的","脸","红","了","。"],"py":["tā","de","liǎn","hóng","le","."],"vi":"Mặt cô ấy đỏ lên rồi.","alts":[]}},
+   {"id":"h3-02-腿","hanzi":"腿","pinyin":"tuǐ","vi":"chân (cả chân)","ex":{"tokens":["我","的","腿","很","疼","。"],"py":["wǒ","de","tuǐ","hěn","téng","."],"vi":"Chân tôi rất đau.","alts":[]}},
+   {"id":"h3-02-头发","hanzi":"头发","pinyin":"tóufa","vi":"tóc","ex":{"tokens":["她","的","头发","是","黑色","的","。"],"py":["tā","de","tóufa","shì","hēisè","de","."],"vi":"Tóc cô ấy màu đen.","alts":[]}},
+   {"id":"h3-02-口","hanzi":"口","pinyin":"kǒu","vi":"miệng; nhân khẩu (lượng từ)","ex":{"tokens":["我","家","有","四","口","人","。"],"py":["wǒ","jiā","yǒu","sì","kǒu","rén","."],"vi":"Nhà tôi có bốn người.","alts":[]}},
+   {"id":"h3-02-聪明","hanzi":"聪明","pinyin":"cōngming","vi":"thông minh","ex":{"tokens":["这","个","孩子","很","聪明","。"],"py":["zhè","ge","háizi","hěn","cōngming","."],"vi":"Đứa trẻ này rất thông minh.","alts":[]}},
+   {"id":"h3-02-可爱","hanzi":"可爱","pinyin":"kě'ài","vi":"đáng yêu","ex":{"tokens":["小","猫","真","可爱","！"],"py":["xiǎo","māo","zhēn","kě'ài","!"],"vi":"Mèo con đáng yêu thật!","alts":[]}},
+   {"id":"h3-02-热情","hanzi":"热情","pinyin":"rèqíng","vi":"nhiệt tình","ex":{"tokens":["服务员","很","热情","。"],"py":["fúwùyuán","hěn","rèqíng","."],"vi":"Nhân viên phục vụ rất nhiệt tình.","alts":[]}}
+  ]},
+  {"id":"h3-03","title":"Quần áo và đồ dùng","desc":"Áo sơ mi, váy, kính, ô, quà","icon":"帽","unit":31,"order":320,"words":[
+   {"id":"h3-03-衬衫","hanzi":"衬衫","pinyin":"chènshān","vi":"áo sơ mi","ex":{"tokens":["这","件","衬衫","多少","钱","？"],"py":["zhè","jiàn","chènshān","duōshao","qián","?"],"vi":"Chiếc áo sơ mi này bao nhiêu tiền?","alts":[]}},
+   {"id":"h3-03-裤子","hanzi":"裤子","pinyin":"kùzi","vi":"quần","ex":{"tokens":["这","条","裤子","太","长","了","。"],"py":["zhè","tiáo","kùzi","tài","cháng","le","."],"vi":"Chiếc quần này dài quá.","alts":[]}},
+   {"id":"h3-03-裙子","hanzi":"裙子","pinyin":"qúnzi","vi":"váy","ex":{"tokens":["她","穿","着","红","裙子","。"],"py":["tā","chuān","zhe","hóng","qúnzi","."],"vi":"Cô ấy đang mặc váy đỏ.","alts":[]}},
+   {"id":"h3-03-帽子","hanzi":"帽子","pinyin":"màozi","vi":"mũ, nón","ex":{"tokens":["你","的","帽子","很","好看","。"],"py":["nǐ","de","màozi","hěn","hǎokàn","."],"vi":"Mũ của bạn rất đẹp.","alts":[]}},
+   {"id":"h3-03-鞋","hanzi":"鞋","pinyin":"xié","vi":"giày","ex":{"tokens":["我","想","买","一","双","鞋","。"],"py":["wǒ","xiǎng","mǎi","yì","shuāng","xié","."],"vi":"Tôi muốn mua một đôi giày.","alts":[]}},
+   {"id":"h3-03-眼镜","hanzi":"眼镜","pinyin":"yǎnjìng","vi":"kính mắt","ex":{"tokens":["爷爷","的","眼镜","在","桌子","上","。"],"py":["yéye","de","yǎnjìng","zài","zhuōzi","shang","."],"vi":"Kính của ông nội ở trên bàn.","alts":[]}},
+   {"id":"h3-03-伞","hanzi":"伞","pinyin":"sǎn","vi":"ô, dù","ex":{"tokens":["下","雨","了","，","带","伞","吧","。"],"py":["xià","yǔ","le",",","dài","sǎn","ba","."],"vi":"Mưa rồi, mang ô đi.","alts":[]}},
+   {"id":"h3-03-包","hanzi":"包","pinyin":"bāo","vi":"túi, bao; gói","ex":{"tokens":["我","的","包","在","哪儿","？"],"py":["wǒ","de","bāo","zài","nǎr","?"],"vi":"Túi của tôi ở đâu?","alts":[]}},
+   {"id":"h3-03-行李箱","hanzi":"行李箱","pinyin":"xínglixiāng","vi":"va li","ex":{"tokens":["你","的","行李箱","真","大","。"],"py":["nǐ","de","xínglixiāng","zhēn","dà","."],"vi":"Va li của bạn to thật.","alts":[]}},
+   {"id":"h3-03-照相机","hanzi":"照相机","pinyin":"zhàoxiàngjī","vi":"máy ảnh","ex":{"tokens":["我","有","一","个","新","照相机","。"],"py":["wǒ","yǒu","yí","ge","xīn","zhàoxiàngjī","."],"vi":"Tôi có một chiếc máy ảnh mới.","alts":[]}},
+   {"id":"h3-03-照片","hanzi":"照片","pinyin":"zhàopiàn","vi":"ảnh, bức ảnh","ex":{"tokens":["这","是","我","家","的","照片","。"],"py":["zhè","shì","wǒ","jiā","de","zhàopiàn","."],"vi":"Đây là ảnh gia đình tôi.","alts":[]}},
+   {"id":"h3-03-礼物","hanzi":"礼物","pinyin":"lǐwù","vi":"quà, quà tặng","ex":{"tokens":["这","是","给","你","的","礼物","。"],"py":["zhè","shì","gěi","nǐ","de","lǐwù","."],"vi":"Đây là quà tặng bạn.","alts":[]}}
+  ]},
+  {"id":"h3-04","title":"Ăn uống","desc":"Đói, khát, ngọt, bánh, hoa quả","icon":"饿","unit":31,"order":330,"words":[
+   {"id":"h3-04-饿","hanzi":"饿","pinyin":"è","vi":"đói","ex":{"tokens":["我","饿","了","。"],"py":["wǒ","è","le","."],"vi":"Tôi đói rồi.","alts":[]}},
+   {"id":"h3-04-渴","hanzi":"渴","pinyin":"kě","vi":"khát","ex":{"tokens":["我","很","渴","，","想","喝","水","。"],"py":["wǒ","hěn","kě",",","xiǎng","hē","shuǐ","."],"vi":"Tôi rất khát, muốn uống nước.","alts":[]}},
+   {"id":"h3-04-饱","hanzi":"饱","pinyin":"bǎo","vi":"no","ex":{"tokens":["我","吃","饱","了","。"],"py":["wǒ","chī","bǎo","le","."],"vi":"Tôi ăn no rồi.","alts":[]}},
+   {"id":"h3-04-甜","hanzi":"甜","pinyin":"tián","vi":"ngọt","ex":{"tokens":["这","个","西瓜","很","甜","。"],"py":["zhè","ge","xīguā","hěn","tián","."],"vi":"Quả dưa hấu này rất ngọt.","alts":[]}},
+   {"id":"h3-04-新鲜","hanzi":"新鲜","pinyin":"xīnxiān","vi":"tươi, tươi mới","ex":{"tokens":["这些","水果","很","新鲜","。"],"py":["zhèxiē","shuǐguǒ","hěn","xīnxiān","."],"vi":"Chỗ hoa quả này rất tươi.","alts":[]}},
+   {"id":"h3-04-蛋糕","hanzi":"蛋糕","pinyin":"dàngāo","vi":"bánh ga tô, bánh kem","ex":{"tokens":["我","喜欢","吃","蛋糕","。"],"py":["wǒ","xǐhuan","chī","dàngāo","."],"vi":"Tôi thích ăn bánh kem.","alts":[]}},
+   {"id":"h3-04-香蕉","hanzi":"香蕉","pinyin":"xiāngjiāo","vi":"chuối","ex":{"tokens":["香蕉","很","便宜","。"],"py":["xiāngjiāo","hěn","piányi","."],"vi":"Chuối rất rẻ.","alts":[]}},
+   {"id":"h3-04-葡萄","hanzi":"葡萄","pinyin":"pútao","vi":"nho","ex":{"tokens":["这","种","葡萄","很","甜","。"],"py":["zhè","zhǒng","pútao","hěn","tián","."],"vi":"Loại nho này rất ngọt.","alts":[]}},
+   {"id":"h3-04-果汁","hanzi":"果汁","pinyin":"guǒzhī","vi":"nước hoa quả","ex":{"tokens":["我","要","一","杯","果汁","。"],"py":["wǒ","yào","yì","bēi","guǒzhī","."],"vi":"Tôi muốn một cốc nước hoa quả.","alts":[]}},
+   {"id":"h3-04-啤酒","hanzi":"啤酒","pinyin":"píjiǔ","vi":"bia","ex":{"tokens":["爸爸","爱","喝","啤酒","。"],"py":["bàba","ài","hē","píjiǔ","."],"vi":"Bố thích uống bia.","alts":[]}},
+   {"id":"h3-04-糖","hanzi":"糖","pinyin":"táng","vi":"đường, kẹo","ex":{"tokens":["咖啡","里","要","放","糖","吗","？"],"py":["kāfēi","li","yào","fàng","táng","ma","?"],"vi":"Cà phê có cho đường không?","alts":[]}},
+   {"id":"h3-04-米","hanzi":"米","pinyin":"mǐ","vi":"gạo; mét","ex":{"tokens":["我","家","离","学校","五","百","米","。"],"py":["wǒ","jiā","lí","xuéxiào","wǔ","bǎi","mǐ","."],"vi":"Nhà tôi cách trường năm trăm mét.","alts":[]}},
+   {"id":"h3-04-菜单","hanzi":"菜单","pinyin":"càidān","vi":"thực đơn","ex":{"tokens":["服务员","，","请","给","我","菜单","。"],"py":["fúwùyuán",",","qǐng","gěi","wǒ","càidān","."],"vi":"Phục vụ ơi, cho tôi xin thực đơn.","alts":[]}}
+  ]},
+  {"id":"h3-05","title":"Nhà cửa","desc":"Bếp, tủ lạnh, đèn, thang máy, dọn dẹp","icon":"楼","unit":31,"order":340,"words":[
+   {"id":"h3-05-厨房","hanzi":"厨房","pinyin":"chúfáng","vi":"nhà bếp","ex":{"tokens":["妈妈","在","厨房","做","饭","。"],"py":["māma","zài","chúfáng","zuò","fàn","."],"vi":"Mẹ đang nấu cơm trong bếp.","alts":[]}},
+   {"id":"h3-05-洗手间","hanzi":"洗手间","pinyin":"xǐshǒujiān","vi":"nhà vệ sinh","ex":{"tokens":["请问","，","洗手间","在","哪儿","？"],"py":["qǐngwèn",",","xǐshǒujiān","zài","nǎr","?"],"vi":"Xin hỏi, nhà vệ sinh ở đâu?","alts":[]}},
+   {"id":"h3-05-冰箱","hanzi":"冰箱","pinyin":"bīngxiāng","vi":"tủ lạnh","ex":{"tokens":["冰箱","里","有","牛奶","。"],"py":["bīngxiāng","li","yǒu","niúnǎi","."],"vi":"Trong tủ lạnh có sữa.","alts":[]}},
+   {"id":"h3-05-空调","hanzi":"空调","pinyin":"kōngtiáo","vi":"điều hòa","ex":{"tokens":["天气","太","热","了","，","开","空调","吧","。"],"py":["tiānqì","tài","rè","le",",","kāi","kōngtiáo","ba","."],"vi":"Trời nóng quá, bật điều hòa đi.","alts":[]}},
+   {"id":"h3-05-灯","hanzi":"灯","pinyin":"dēng","vi":"đèn","ex":{"tokens":["请","开","灯","。"],"py":["qǐng","kāi","dēng","."],"vi":"Xin hãy bật đèn.","alts":[]}},
+   {"id":"h3-05-电梯","hanzi":"电梯","pinyin":"diàntī","vi":"thang máy","ex":{"tokens":["我们","坐","电梯","上","去","吧","。"],"py":["wǒmen","zuò","diàntī","shàng","qù","ba","."],"vi":"Chúng ta đi thang máy lên nhé.","alts":[]}},
+   {"id":"h3-05-楼","hanzi":"楼","pinyin":"lóu","vi":"tòa nhà, tầng lầu","ex":{"tokens":["我","住","在","三","楼","。"],"py":["wǒ","zhù","zài","sān","lóu","."],"vi":"Tôi ở tầng ba.","alts":[]}},
+   {"id":"h3-05-层","hanzi":"层","pinyin":"céng","vi":"tầng (lượng từ)","ex":{"tokens":["这","个","楼","有","二十","层","。"],"py":["zhè","ge","lóu","yǒu","èrshí","céng","."],"vi":"Tòa nhà này có hai mươi tầng.","alts":[]}},
+   {"id":"h3-05-碗","hanzi":"碗","pinyin":"wǎn","vi":"bát, chén","ex":{"tokens":["我","吃","了","两","碗","米饭","。"],"py":["wǒ","chī","le","liǎng","wǎn","mǐfàn","."],"vi":"Tôi đã ăn hai bát cơm.","alts":[]}},
+   {"id":"h3-05-盘子","hanzi":"盘子","pinyin":"pánzi","vi":"đĩa","ex":{"tokens":["我","在","洗","盘子","。"],"py":["wǒ","zài","xǐ","pánzi","."],"vi":"Tôi đang rửa đĩa.","alts":[]}},
+   {"id":"h3-05-干净","hanzi":"干净","pinyin":"gānjìng","vi":"sạch sẽ","ex":{"tokens":["你","的","房间","很","干净","。"],"py":["nǐ","de","fángjiān","hěn","gānjìng","."],"vi":"Phòng của bạn rất sạch sẽ.","alts":[]}},
+   {"id":"h3-05-打扫","hanzi":"打扫","pinyin":"dǎsǎo","vi":"quét dọn, dọn dẹp","ex":{"tokens":["周末","我","打扫","房间","。"],"py":["zhōumò","wǒ","dǎsǎo","fángjiān","."],"vi":"Cuối tuần tôi dọn phòng.","alts":["我周末打扫房间"]}}
+  ]},
+  {"id":"h3-06","title":"Hoạt động hằng ngày","desc":"Tắm, lên mạng, tập luyện, cầm, mang, đổi","icon":"骑","unit":31,"order":350,"words":[
+   {"id":"h3-06-洗澡","hanzi":"洗澡","pinyin":"xǐzǎo","vi":"tắm","ex":{"tokens":["我","晚上","洗澡","。"],"py":["wǒ","wǎnshang","xǐzǎo","."],"vi":"Tôi tắm vào buổi tối.","alts":[]}},
+   {"id":"h3-06-刷牙","hanzi":"刷牙","pinyin":"shuā yá","vi":"đánh răng","ex":{"tokens":["睡觉","前","要","刷牙","。"],"py":["shuìjiào","qián","yào","shuā yá","."],"vi":"Trước khi ngủ phải đánh răng.","alts":[]}},
+   {"id":"h3-06-上网","hanzi":"上网","pinyin":"shàngwǎng","vi":"lên mạng","ex":{"tokens":["弟弟","喜欢","上网","。"],"py":["dìdi","xǐhuan","shàngwǎng","."],"vi":"Em trai thích lên mạng.","alts":[]}},
+   {"id":"h3-06-锻炼","hanzi":"锻炼","pinyin":"duànliàn","vi":"tập luyện, rèn luyện","ex":{"tokens":["我","每天","锻炼","身体","。"],"py":["wǒ","měitiān","duànliàn","shēntǐ","."],"vi":"Ngày nào tôi cũng rèn luyện sức khỏe.","alts":[]}},
+   {"id":"h3-06-爬山","hanzi":"爬山","pinyin":"páshān","vi":"leo núi","ex":{"tokens":["周末","我们","去","爬山","吧","。"],"py":["zhōumò","wǒmen","qù","páshān","ba","."],"vi":"Cuối tuần chúng ta đi leo núi nhé.","alts":["我们周末去爬山吧"]}},
+   {"id":"h3-06-骑","hanzi":"骑","pinyin":"qí","vi":"cưỡi, đi (xe đạp, xe máy)","ex":{"tokens":["我","骑","自行车","上班","。"],"py":["wǒ","qí","zìxíngchē","shàngbān","."],"vi":"Tôi đạp xe đi làm.","alts":[]}},
+   {"id":"h3-06-搬","hanzi":"搬","pinyin":"bān","vi":"chuyển, dọn, bê","ex":{"tokens":["我们","下","个","月","搬","家","。"],"py":["wǒmen","xià","ge","yuè","bān","jiā","."],"vi":"Tháng sau chúng tôi chuyển nhà.","alts":[]}},
+   {"id":"h3-06-拿","hanzi":"拿","pinyin":"ná","vi":"cầm, lấy","ex":{"tokens":["请","帮","我","拿","一下","。"],"py":["qǐng","bāng","wǒ","ná","yíxià","."],"vi":"Làm ơn cầm giúp tôi một chút.","alts":[]}},
+   {"id":"h3-06-放","hanzi":"放","pinyin":"fàng","vi":"đặt, để","ex":{"tokens":["书","放","在","桌子","上","。"],"py":["shū","fàng","zài","zhuōzi","shang","."],"vi":"Sách để ở trên bàn.","alts":[]}},
+   {"id":"h3-06-带","hanzi":"带","pinyin":"dài","vi":"mang, đem theo","ex":{"tokens":["别","忘","了","带","护照","。"],"py":["bié","wàng","le","dài","hùzhào","."],"vi":"Đừng quên mang hộ chiếu.","alts":[]}},
+   {"id":"h3-06-换","hanzi":"换","pinyin":"huàn","vi":"đổi, thay","ex":{"tokens":["我","想","换","一","件","衣服","。"],"py":["wǒ","xiǎng","huàn","yí","jiàn","yīfu","."],"vi":"Tôi muốn thay một bộ quần áo.","alts":[]}},
+   {"id":"h3-06-借","hanzi":"借","pinyin":"jiè","vi":"mượn, cho mượn","ex":{"tokens":["我","想","借","一","本","书","。"],"py":["wǒ","xiǎng","jiè","yì","běn","shū","."],"vi":"Tôi muốn mượn một quyển sách.","alts":[]}}
+  ]}
+ ]
+}

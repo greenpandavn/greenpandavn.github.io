@@ -1,0 +1,108 @@
+{
+ "units": [
+  {"unit":2,"level":1,"title":"Phần 2: Cuộc sống hằng ngày","desc":"Đồ ăn, thời gian, nhà cửa, trường học","color":"sky","course":"en"}
+ ],
+ "lessons": [
+  {"id":"e08","title":"Đồ ăn","desc":"Cơm, bánh mì, thịt, trứng, rau","icon":"Fo","unit":2,"course":"en","order":80,"words":[
+   {"id":"e08-food","hanzi":"food","pinyin":"","vi":"đồ ăn, thức ăn","ex":{"tokens":["Vietnamese","food","is","delicious","."],"py":["","","","","."],"vi":"Đồ ăn Việt Nam rất ngon.","alts":[]}},
+   {"id":"e08-rice","hanzi":"rice","pinyin":"","vi":"cơm, gạo","ex":{"tokens":["We","eat","rice","every","day","."],"py":["","","","","","."],"vi":"Chúng tôi ăn cơm mỗi ngày.","alts":[]}},
+   {"id":"e08-bread","hanzi":"bread","pinyin":"","vi":"bánh mì","ex":{"tokens":["I","eat","bread","for","breakfast","."],"py":["","","","","","."],"vi":"Tôi ăn bánh mì vào bữa sáng.","alts":[]}},
+   {"id":"e08-egg","hanzi":"egg","pinyin":"","vi":"quả trứng","ex":{"tokens":["I","want","an","egg","."],"py":["","","","","."],"vi":"Tôi muốn một quả trứng.","alts":[]}},
+   {"id":"e08-meat","hanzi":"meat","pinyin":"","vi":"thịt","ex":{"tokens":["He","does","not","eat","meat","."],"py":["","","","","","."],"vi":"Anh ấy không ăn thịt.","alts":[]}},
+   {"id":"e08-fish","hanzi":"fish","pinyin":"","vi":"cá","ex":{"tokens":["I","like","fish","."],"py":["","","","."],"vi":"Tôi thích cá.","alts":[]}},
+   {"id":"e08-chicken","hanzi":"chicken","pinyin":"","vi":"gà, thịt gà","ex":{"tokens":["We","have","chicken","for","dinner","."],"py":["","","","","","."],"vi":"Chúng tôi ăn thịt gà vào bữa tối.","alts":[]}},
+   {"id":"e08-vegetable","hanzi":"vegetable","pinyin":"","vi":"rau, rau củ","ex":{"tokens":["This","vegetable","is","fresh","."],"py":["","","","","."],"vi":"Loại rau này tươi.","alts":[]}},
+   {"id":"e08-fruit","hanzi":"fruit","pinyin":"","vi":"trái cây, hoa quả","ex":{"tokens":["I","eat","fruit","every","day","."],"py":["","","","","","."],"vi":"Tôi ăn trái cây mỗi ngày.","alts":[]}},
+   {"id":"e08-apple","hanzi":"apple","pinyin":"","vi":"quả táo","ex":{"tokens":["This","apple","is","sweet","."],"py":["","","","","."],"vi":"Quả táo này ngọt.","alts":[]}},
+   {"id":"e08-banana","hanzi":"banana","pinyin":"","vi":"quả chuối","ex":{"tokens":["The","monkey","eats","a","banana","."],"py":["","","","","","."],"vi":"Con khỉ ăn một quả chuối.","alts":[]}},
+   {"id":"e08-soup","hanzi":"soup","pinyin":"","vi":"canh, súp","ex":{"tokens":["The","soup","is","hot","."],"py":["","","","","."],"vi":"Canh nóng.","alts":[]}}
+  ]},
+  {"id":"e09","title":"Đồ uống và bữa ăn","desc":"Nước, trà, sữa, bữa sáng, trưa, tối","icon":"Te","unit":2,"course":"en","order":90,"words":[
+   {"id":"e09-water","hanzi":"water","pinyin":"","vi":"nước","ex":{"tokens":["I","drink","water","every","morning","."],"py":["","","","","","."],"vi":"Tôi uống nước mỗi sáng.","alts":[]}},
+   {"id":"e09-tea","hanzi":"tea","pinyin":"","vi":"trà","ex":{"tokens":["My","father","drinks","tea","."],"py":["","","","","."],"vi":"Bố tôi uống trà.","alts":[]}},
+   {"id":"e09-coffee","hanzi":"coffee","pinyin":"","vi":"cà phê","ex":{"tokens":["She","drinks","coffee","in","the","morning","."],"py":["","","","","","","."],"vi":"Cô ấy uống cà phê vào buổi sáng.","alts":[]}},
+   {"id":"e09-milk","hanzi":"milk","pinyin":"","vi":"sữa","ex":{"tokens":["The","baby","drinks","milk","."],"py":["","","","","."],"vi":"Em bé uống sữa.","alts":[]}},
+   {"id":"e09-juice","hanzi":"juice","pinyin":"","vi":"nước ép","ex":{"tokens":["I","want","a","glass","of","juice","."],"py":["","","","","","","."],"vi":"Tôi muốn một cốc nước ép.","alts":[]}},
+   {"id":"e09-breakfast","hanzi":"breakfast","pinyin":"","vi":"bữa sáng","ex":{"tokens":["I","have","breakfast","at","seven","."],"py":["","","","","","."],"vi":"Tôi ăn sáng lúc bảy giờ.","alts":[]}},
+   {"id":"e09-lunch","hanzi":"lunch","pinyin":"","vi":"bữa trưa","ex":{"tokens":["We","have","lunch","at","school","."],"py":["","","","","","."],"vi":"Chúng tôi ăn trưa ở trường.","alts":[]}},
+   {"id":"e09-dinner","hanzi":"dinner","pinyin":"","vi":"bữa tối","ex":{"tokens":["My","family","has","dinner","together","."],"py":["","","","","","."],"vi":"Gia đình tôi ăn tối cùng nhau.","alts":[]}},
+   {"id":"e09-eat","hanzi":"eat","pinyin":"","vi":"ăn","ex":{"tokens":["I","eat","rice","."],"py":["","","","."],"vi":"Tôi ăn cơm.","alts":[]}},
+   {"id":"e09-drink","hanzi":"drink","pinyin":"","vi":"uống","ex":{"tokens":["What","do","you","drink","?"],"py":["","","","","?"],"vi":"Bạn uống gì?","alts":[]}},
+   {"id":"e09-hungry","hanzi":"hungry","pinyin":"","vi":"đói","ex":{"tokens":["I","am","very","hungry","."],"py":["","","","","."],"vi":"Tôi rất đói.","alts":[]}},
+   {"id":"e09-thirsty","hanzi":"thirsty","pinyin":"","vi":"khát","ex":{"tokens":["Are","you","thirsty","?"],"py":["","","","?"],"vi":"Bạn có khát không?","alts":[]}},
+   {"id":"e09-delicious","hanzi":"delicious","pinyin":"","vi":"ngon","ex":{"tokens":["This","cake","is","delicious","."],"py":["","","","","."],"vi":"Cái bánh này rất ngon.","alts":[]}}
+  ]},
+  {"id":"e10","title":"Thời gian","desc":"Hôm nay, ngày mai, giờ, phút","icon":"T","unit":2,"course":"en","order":100,"words":[
+   {"id":"e10-time","hanzi":"time","pinyin":"","vi":"thời gian, giờ","ex":{"tokens":["What","time","is","it","?"],"py":["","","","","?"],"vi":"Mấy giờ rồi?","alts":[]}},
+   {"id":"e10-today","hanzi":"today","pinyin":"","vi":"hôm nay","ex":{"tokens":["Today","is","my","birthday","."],"py":["","","","","."],"vi":"Hôm nay là sinh nhật tôi.","alts":[]}},
+   {"id":"e10-tomorrow","hanzi":"tomorrow","pinyin":"","vi":"ngày mai","ex":{"tokens":["I","go","to","school","tomorrow","."],"py":["","","","","","."],"vi":"Ngày mai tôi đi học.","alts":["Tomorrow I go to school."]}},
+   {"id":"e10-yesterday","hanzi":"yesterday","pinyin":"","vi":"hôm qua","ex":{"tokens":["Yesterday","was","Sunday","."],"py":["","","","."],"vi":"Hôm qua là chủ nhật.","alts":[]}},
+   {"id":"e10-now","hanzi":"now","pinyin":"","vi":"bây giờ","ex":{"tokens":["I","am","busy","now","."],"py":["","","","","."],"vi":"Bây giờ tôi đang bận.","alts":[]}},
+   {"id":"e10-day","hanzi":"day","pinyin":"","vi":"ngày","ex":{"tokens":["Have","a","nice","day","."],"py":["","","","","."],"vi":"Chúc một ngày tốt lành.","alts":[]}},
+   {"id":"e10-week","hanzi":"week","pinyin":"","vi":"tuần","ex":{"tokens":["I","play","football","every","week","."],"py":["","","","","","."],"vi":"Tuần nào tôi cũng chơi bóng đá.","alts":[]}},
+   {"id":"e10-month","hanzi":"month","pinyin":"","vi":"tháng","ex":{"tokens":["This","month","is","very","hot","."],"py":["","","","","","."],"vi":"Tháng này rất nóng.","alts":[]}},
+   {"id":"e10-year","hanzi":"year","pinyin":"","vi":"năm","ex":{"tokens":["Happy","new","year","!"],"py":["","","","!"],"vi":"Chúc mừng năm mới!","alts":[]}},
+   {"id":"e10-hour","hanzi":"hour","pinyin":"","vi":"giờ, tiếng","ex":{"tokens":["I","study","for","one","hour","."],"py":["","","","","","."],"vi":"Tôi học trong một tiếng.","alts":[]}},
+   {"id":"e10-minute","hanzi":"minute","pinyin":"","vi":"phút","ex":{"tokens":["Wait","a","minute",",","please","."],"py":["","","",",","","."],"vi":"Xin chờ một phút.","alts":[]}},
+   {"id":"e10-afternoon","hanzi":"afternoon","pinyin":"","vi":"buổi chiều","ex":{"tokens":["I","play","in","the","afternoon","."],"py":["","","","","","."],"vi":"Tôi chơi vào buổi chiều.","alts":[]}},
+   {"id":"e10-evening","hanzi":"evening","pinyin":"","vi":"buổi tối","ex":{"tokens":["We","watch","TV","in","the","evening","."],"py":["","","","","","","."],"vi":"Chúng tôi xem ti vi vào buổi tối.","alts":[]}}
+  ]},
+  {"id":"e11","title":"Các ngày trong tuần","desc":"Thứ hai đến chủ nhật","icon":"Mo","unit":2,"course":"en","order":110,"words":[
+   {"id":"e11-monday","hanzi":"Monday","pinyin":"","vi":"thứ hai","ex":{"tokens":["I","go","to","work","on","Monday","."],"py":["","","","","","","."],"vi":"Tôi đi làm vào thứ hai.","alts":[]}},
+   {"id":"e11-tuesday","hanzi":"Tuesday","pinyin":"","vi":"thứ ba","ex":{"tokens":["We","have","English","on","Tuesday","."],"py":["","","","","","."],"vi":"Chúng tôi có môn tiếng Anh vào thứ ba.","alts":[]}},
+   {"id":"e11-wednesday","hanzi":"Wednesday","pinyin":"","vi":"thứ tư","ex":{"tokens":["Today","is","Wednesday","."],"py":["","","","."],"vi":"Hôm nay là thứ tư.","alts":[]}},
+   {"id":"e11-thursday","hanzi":"Thursday","pinyin":"","vi":"thứ năm","ex":{"tokens":["I","play","tennis","on","Thursday","."],"py":["","","","","","."],"vi":"Tôi chơi quần vợt vào thứ năm.","alts":[]}},
+   {"id":"e11-friday","hanzi":"Friday","pinyin":"","vi":"thứ sáu","ex":{"tokens":["Friday","is","my","favorite","day","."],"py":["","","","","","."],"vi":"Thứ sáu là ngày tôi thích nhất.","alts":[]}},
+   {"id":"e11-saturday","hanzi":"Saturday","pinyin":"","vi":"thứ bảy","ex":{"tokens":["I","do","not","work","on","Saturday","."],"py":["","","","","","","."],"vi":"Tôi không làm việc vào thứ bảy.","alts":[]}},
+   {"id":"e11-sunday","hanzi":"Sunday","pinyin":"","vi":"chủ nhật","ex":{"tokens":["We","visit","our","grandmother","on","Sunday","."],"py":["","","","","","","."],"vi":"Chúng tôi thăm bà vào chủ nhật.","alts":[]}},
+   {"id":"e11-weekend","hanzi":"weekend","pinyin":"","vi":"cuối tuần","ex":{"tokens":["What","do","you","do","on","the","weekend","?"],"py":["","","","","","","","?"],"vi":"Bạn làm gì vào cuối tuần?","alts":[]}},
+   {"id":"e11-birthday","hanzi":"birthday","pinyin":"","vi":"sinh nhật","ex":{"tokens":["Happy","birthday","to","you","!"],"py":["","","","","!"],"vi":"Chúc mừng sinh nhật bạn!","alts":[]}},
+   {"id":"e11-early","hanzi":"early","pinyin":"","vi":"sớm","ex":{"tokens":["I","get","up","early","."],"py":["","","","","."],"vi":"Tôi dậy sớm.","alts":[]}},
+   {"id":"e11-late","hanzi":"late","pinyin":"","vi":"muộn, trễ","ex":{"tokens":["Do","not","be","late","."],"py":["","","","","."],"vi":"Đừng đến muộn.","alts":[]}},
+   {"id":"e11-when","hanzi":"when","pinyin":"","vi":"khi nào","ex":{"tokens":["When","do","you","get","up","?"],"py":["","","","","","?"],"vi":"Bạn thức dậy khi nào?","alts":[]}}
+  ]},
+  {"id":"e12","title":"Nhà cửa","desc":"Phòng, bàn, ghế, giường, cửa","icon":"Ho","unit":2,"course":"en","order":120,"words":[
+   {"id":"e12-house","hanzi":"house","pinyin":"","vi":"ngôi nhà","ex":{"tokens":["My","house","is","small","."],"py":["","","","","."],"vi":"Nhà tôi nhỏ.","alts":[]}},
+   {"id":"e12-room","hanzi":"room","pinyin":"","vi":"căn phòng","ex":{"tokens":["This","is","my","room","."],"py":["","","","","."],"vi":"Đây là phòng của tôi.","alts":[]}},
+   {"id":"e12-kitchen","hanzi":"kitchen","pinyin":"","vi":"nhà bếp","ex":{"tokens":["My","mother","is","in","the","kitchen","."],"py":["","","","","","","."],"vi":"Mẹ tôi đang ở trong bếp.","alts":[]}},
+   {"id":"e12-bedroom","hanzi":"bedroom","pinyin":"","vi":"phòng ngủ","ex":{"tokens":["My","bedroom","is","clean","."],"py":["","","","","."],"vi":"Phòng ngủ của tôi sạch sẽ.","alts":[]}},
+   {"id":"e12-bathroom","hanzi":"bathroom","pinyin":"","vi":"phòng tắm","ex":{"tokens":["Where","is","the","bathroom","?"],"py":["","","","","?"],"vi":"Phòng tắm ở đâu?","alts":[]}},
+   {"id":"e12-door","hanzi":"door","pinyin":"","vi":"cửa ra vào","ex":{"tokens":["Please","open","the","door","."],"py":["","","","","."],"vi":"Làm ơn mở cửa.","alts":[]}},
+   {"id":"e12-window","hanzi":"window","pinyin":"","vi":"cửa sổ","ex":{"tokens":["Please","close","the","window","."],"py":["","","","","."],"vi":"Làm ơn đóng cửa sổ.","alts":[]}},
+   {"id":"e12-table","hanzi":"table","pinyin":"","vi":"cái bàn","ex":{"tokens":["The","book","is","on","the","table","."],"py":["","","","","","","."],"vi":"Quyển sách ở trên bàn.","alts":[]}},
+   {"id":"e12-chair","hanzi":"chair","pinyin":"","vi":"cái ghế","ex":{"tokens":["Sit","on","the","chair","."],"py":["","","","","."],"vi":"Hãy ngồi lên ghế.","alts":[]}},
+   {"id":"e12-bed","hanzi":"bed","pinyin":"","vi":"cái giường","ex":{"tokens":["The","cat","is","on","the","bed","."],"py":["","","","","","","."],"vi":"Con mèo ở trên giường.","alts":[]}},
+   {"id":"e12-home","hanzi":"home","pinyin":"","vi":"nhà, tổ ấm","ex":{"tokens":["I","go","home","at","five","."],"py":["","","","","","."],"vi":"Tôi về nhà lúc năm giờ.","alts":[]}},
+   {"id":"e12-garden","hanzi":"garden","pinyin":"","vi":"khu vườn","ex":{"tokens":["There","are","flowers","in","the","garden","."],"py":["","","","","","","."],"vi":"Có hoa ở trong vườn.","alts":[]}}
+  ]},
+  {"id":"e13","title":"Trường học","desc":"Sách, bút, lớp học, bài học","icon":"Sc","unit":2,"course":"en","order":130,"words":[
+   {"id":"e13-school","hanzi":"school","pinyin":"","vi":"trường học","ex":{"tokens":["I","go","to","school","by","bus","."],"py":["","","","","","","."],"vi":"Tôi đi học bằng xe buýt.","alts":[]}},
+   {"id":"e13-class","hanzi":"class","pinyin":"","vi":"lớp học","ex":{"tokens":["My","class","has","thirty","students","."],"py":["","","","","","."],"vi":"Lớp tôi có ba mươi học sinh.","alts":[]}},
+   {"id":"e13-book","hanzi":"book","pinyin":"","vi":"quyển sách","ex":{"tokens":["I","read","a","book","every","night","."],"py":["","","","","","","."],"vi":"Tối nào tôi cũng đọc sách.","alts":[]}},
+   {"id":"e13-pen","hanzi":"pen","pinyin":"","vi":"cái bút","ex":{"tokens":["Can","I","use","your","pen","?"],"py":["","","","","","?"],"vi":"Tôi dùng bút của bạn được không?","alts":[]}},
+   {"id":"e13-pencil","hanzi":"pencil","pinyin":"","vi":"bút chì","ex":{"tokens":["I","write","with","a","pencil","."],"py":["","","","","","."],"vi":"Tôi viết bằng bút chì.","alts":[]}},
+   {"id":"e13-bag","hanzi":"bag","pinyin":"","vi":"cái cặp, cái túi","ex":{"tokens":["My","bag","is","heavy","."],"py":["","","","","."],"vi":"Cặp của tôi nặng.","alts":[]}},
+   {"id":"e13-lesson","hanzi":"lesson","pinyin":"","vi":"bài học","ex":{"tokens":["This","lesson","is","easy","."],"py":["","","","","."],"vi":"Bài học này dễ.","alts":[]}},
+   {"id":"e13-homework","hanzi":"homework","pinyin":"","vi":"bài tập về nhà","ex":{"tokens":["I","do","my","homework","after","dinner","."],"py":["","","","","","","."],"vi":"Tôi làm bài tập sau bữa tối.","alts":[]}},
+   {"id":"e13-question","hanzi":"question","pinyin":"","vi":"câu hỏi","ex":{"tokens":["I","have","a","question","."],"py":["","","","","."],"vi":"Tôi có một câu hỏi.","alts":[]}},
+   {"id":"e13-answer","hanzi":"answer","pinyin":"","vi":"câu trả lời; trả lời","ex":{"tokens":["Please","answer","the","question","."],"py":["","","","","."],"vi":"Hãy trả lời câu hỏi.","alts":[]}},
+   {"id":"e13-english","hanzi":"English","pinyin":"","vi":"tiếng Anh","ex":{"tokens":["I","learn","English","every","day","."],"py":["","","","","","."],"vi":"Tôi học tiếng Anh mỗi ngày.","alts":[]}},
+   {"id":"e13-word","hanzi":"word","pinyin":"","vi":"từ","ex":{"tokens":["What","does","this","word","mean","?"],"py":["","","","","","?"],"vi":"Từ này có nghĩa là gì?","alts":[]}},
+   {"id":"e13-paper","hanzi":"paper","pinyin":"","vi":"giấy","ex":{"tokens":["I","need","a","piece","of","paper","."],"py":["","","","","","","."],"vi":"Tôi cần một tờ giấy.","alts":[]}}
+  ]},
+  {"id":"e14","title":"Hoạt động hằng ngày","desc":"Thức dậy, đi, làm việc, ngủ","icon":"Go","unit":2,"course":"en","order":140,"words":[
+   {"id":"e14-get_up","hanzi":"get up","pinyin":"","vi":"thức dậy","ex":{"tokens":["I","get","up","at","six","."],"py":["","","","","","."],"vi":"Tôi thức dậy lúc sáu giờ.","alts":[]}},
+   {"id":"e14-go","hanzi":"go","pinyin":"","vi":"đi","ex":{"tokens":["I","go","to","work","by","bus","."],"py":["","","","","","","."],"vi":"Tôi đi làm bằng xe buýt.","alts":[]}},
+   {"id":"e14-come","hanzi":"come","pinyin":"","vi":"đến, tới","ex":{"tokens":["Please","come","here","."],"py":["","","","."],"vi":"Hãy đến đây.","alts":[]}},
+   {"id":"e14-work","hanzi":"work","pinyin":"","vi":"làm việc; công việc","ex":{"tokens":["I","work","in","a","bank","."],"py":["","","","","","."],"vi":"Tôi làm việc ở ngân hàng.","alts":[]}},
+   {"id":"e14-study","hanzi":"study","pinyin":"","vi":"học","ex":{"tokens":["I","study","English","at","night","."],"py":["","","","","","."],"vi":"Tôi học tiếng Anh vào buổi tối.","alts":[]}},
+   {"id":"e14-sleep","hanzi":"sleep","pinyin":"","vi":"ngủ","ex":{"tokens":["I","sleep","eight","hours","a","day","."],"py":["","","","","","","."],"vi":"Tôi ngủ tám tiếng một ngày.","alts":[]}},
+   {"id":"e14-cook","hanzi":"cook","pinyin":"","vi":"nấu ăn","ex":{"tokens":["I","cook","dinner","every","day","."],"py":["","","","","","."],"vi":"Tôi nấu bữa tối mỗi ngày.","alts":[]}},
+   {"id":"e14-wash","hanzi":"wash","pinyin":"","vi":"rửa, giặt","ex":{"tokens":["I","wash","my","hands","."],"py":["","","","","."],"vi":"Tôi rửa tay.","alts":[]}},
+   {"id":"e14-watch","hanzi":"watch","pinyin":"","vi":"xem; đồng hồ đeo tay","ex":{"tokens":["We","watch","TV","after","dinner","."],"py":["","","","","","."],"vi":"Chúng tôi xem ti vi sau bữa tối.","alts":[]}},
+   {"id":"e14-read","hanzi":"read","pinyin":"","vi":"đọc","ex":{"tokens":["I","read","the","newspaper","."],"py":["","","","","."],"vi":"Tôi đọc báo.","alts":[]}},
+   {"id":"e14-write","hanzi":"write","pinyin":"","vi":"viết","ex":{"tokens":["Please","write","your","name","."],"py":["","","","","."],"vi":"Hãy viết tên của bạn.","alts":[]}},
+   {"id":"e14-play","hanzi":"play","pinyin":"","vi":"chơi","ex":{"tokens":["The","children","play","in","the","park","."],"py":["","","","","","","."],"vi":"Bọn trẻ chơi trong công viên.","alts":[]}}
+  ]}
+ ]
+}

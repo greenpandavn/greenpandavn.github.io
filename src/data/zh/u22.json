@@ -1,0 +1,65 @@
+{
+ "units": [
+  {"unit":22,"level":2,"title":"Phần 2: Học tập, công việc, mua sắm","desc":"Lớp học, công ty, cửa hàng, quán ăn","color":"sky"}
+ ],
+ "lessons": [
+  {"id":"h2-05","title":"Ở lớp học","desc":"Bài học, thi cử, câu hỏi","icon":"课","unit":22,"order":220,"words":[
+   {"id":"h2-05-教室","hanzi":"教室","pinyin":"jiàoshì","vi":"phòng học","ex":{"tokens":["教室","里","有","很","多","学生","。"],"py":["jiàoshì","li","yǒu","hěn","duō","xuésheng","."],"vi":"Trong phòng học có rất nhiều học sinh.","alts":[]}},
+   {"id":"h2-05-课","hanzi":"课","pinyin":"kè","vi":"bài học, tiết học","ex":{"tokens":["今天","我","有","汉语","课","。"],"py":["jīntiān","wǒ","yǒu","Hànyǔ","kè","."],"vi":"Hôm nay tôi có tiết tiếng Trung.","alts":["我今天有汉语课"]}},
+   {"id":"h2-05-考试","hanzi":"考试","pinyin":"kǎoshì","vi":"thi, kỳ thi","ex":{"tokens":["明天","我们","有","考试","。"],"py":["míngtiān","wǒmen","yǒu","kǎoshì","."],"vi":"Ngày mai chúng tôi có bài thi.","alts":["我们明天有考试"]}},
+   {"id":"h2-05-题","hanzi":"题","pinyin":"tí","vi":"câu hỏi, đề bài","ex":{"tokens":["这","个","题","很","难","。"],"py":["zhè","ge","tí","hěn","nán","."],"vi":"Câu này rất khó.","alts":[]}},
+   {"id":"h2-05-问","hanzi":"问","pinyin":"wèn","vi":"hỏi","ex":{"tokens":["我","想","问","老师","。"],"py":["wǒ","xiǎng","wèn","lǎoshī","."],"vi":"Tôi muốn hỏi thầy giáo.","alts":[]}},
+   {"id":"h2-05-问题","hanzi":"问题","pinyin":"wèntí","vi":"câu hỏi, vấn đề","ex":{"tokens":["我","有","一","个","问题","。"],"py":["wǒ","yǒu","yí","ge","wèntí","."],"vi":"Tôi có một câu hỏi.","alts":[]}},
+   {"id":"h2-05-回答","hanzi":"回答","pinyin":"huídá","vi":"trả lời","ex":{"tokens":["请","回答","我","的","问题","。"],"py":["qǐng","huídá","wǒ","de","wèntí","."],"vi":"Xin hãy trả lời câu hỏi của tôi.","alts":[]}},
+   {"id":"h2-05-懂","hanzi":"懂","pinyin":"dǒng","vi":"hiểu","ex":{"tokens":["我","听","不","懂","。"],"py":["wǒ","tīng","bù","dǒng","."],"vi":"Tôi nghe không hiểu.","alts":[]}},
+   {"id":"h2-05-错","hanzi":"错","pinyin":"cuò","vi":"sai","ex":{"tokens":["对不起","，","我","错","了","。"],"py":["duìbuqǐ",",","wǒ","cuò","le","."],"vi":"Xin lỗi, tôi sai rồi.","alts":[]}},
+   {"id":"h2-05-意思","hanzi":"意思","pinyin":"yìsi","vi":"ý nghĩa","ex":{"tokens":["这","个","字","是","什么","意思","？"],"py":["zhè","ge","zì","shì","shénme","yìsi","?"],"vi":"Chữ này có nghĩa là gì?","alts":[]}},
+   {"id":"h2-05-第一","hanzi":"第一","pinyin":"dìyī","vi":"thứ nhất","ex":{"tokens":["这","是","我","第一","次","来","中国","。"],"py":["zhè","shì","wǒ","dìyī","cì","lái","Zhōngguó","."],"vi":"Đây là lần đầu tiên tôi đến Trung Quốc.","alts":[]}},
+   {"id":"h2-05-次","hanzi":"次","pinyin":"cì","vi":"lần","ex":{"tokens":["我","去","过","一","次","北京","。"],"py":["wǒ","qù","guò","yí","cì","Běijīng","."],"vi":"Tôi đã đi Bắc Kinh một lần.","alts":[]}}
+  ]},
+  {"id":"h2-06","title":"Công việc và giao tiếp","desc":"Công ty, giúp đỡ, giới thiệu","icon":"司","unit":22,"order":230,"words":[
+   {"id":"h2-06-公司","hanzi":"公司","pinyin":"gōngsī","vi":"công ty","ex":{"tokens":["我","在","一","家","公司","工作","。"],"py":["wǒ","zài","yì","jiā","gōngsī","gōngzuò","."],"vi":"Tôi làm việc ở một công ty.","alts":[]}},
+   {"id":"h2-06-忙","hanzi":"忙","pinyin":"máng","vi":"bận","ex":{"tokens":["你","今天","忙","吗","？"],"py":["nǐ","jīntiān","máng","ma","?"],"vi":"Hôm nay bạn có bận không?","alts":["今天你忙吗"]}},
+   {"id":"h2-06-事情","hanzi":"事情","pinyin":"shìqing","vi":"sự việc, chuyện","ex":{"tokens":["我","有","很","多","事情","要","做","。"],"py":["wǒ","yǒu","hěn","duō","shìqing","yào","zuò","."],"vi":"Tôi có rất nhiều việc phải làm.","alts":[]}},
+   {"id":"h2-06-帮助","hanzi":"帮助","pinyin":"bāngzhù","vi":"giúp đỡ","ex":{"tokens":["谢谢","你","的","帮助","。"],"py":["xièxie","nǐ","de","bāngzhù","."],"vi":"Cảm ơn sự giúp đỡ của bạn.","alts":[]}},
+   {"id":"h2-06-告诉","hanzi":"告诉","pinyin":"gàosu","vi":"nói cho biết, bảo","ex":{"tokens":["请","告诉","我","你","的","名字","。"],"py":["qǐng","gàosu","wǒ","nǐ","de","míngzi","."],"vi":"Xin cho tôi biết tên của bạn.","alts":[]}},
+   {"id":"h2-06-介绍","hanzi":"介绍","pinyin":"jièshào","vi":"giới thiệu","ex":{"tokens":["我","来","介绍","一下","。"],"py":["wǒ","lái","jièshào","yíxià","."],"vi":"Để tôi giới thiệu một chút.","alts":[]}},
+   {"id":"h2-06-知道","hanzi":"知道","pinyin":"zhīdào","vi":"biết","ex":{"tokens":["我","不","知道","他","在","哪儿","。"],"py":["wǒ","bù","zhīdào","tā","zài","nǎr","."],"vi":"Tôi không biết anh ấy ở đâu.","alts":[]}},
+   {"id":"h2-06-觉得","hanzi":"觉得","pinyin":"juéde","vi":"cảm thấy, cho rằng","ex":{"tokens":["我","觉得","汉语","很","有","意思","。"],"py":["wǒ","juéde","Hànyǔ","hěn","yǒu","yìsi","."],"vi":"Tôi thấy tiếng Trung rất thú vị.","alts":[]}},
+   {"id":"h2-06-希望","hanzi":"希望","pinyin":"xīwàng","vi":"hy vọng","ex":{"tokens":["我","希望","你","能","来","。"],"py":["wǒ","xīwàng","nǐ","néng","lái","."],"vi":"Tôi hy vọng bạn có thể đến.","alts":[]}},
+   {"id":"h2-06-让","hanzi":"让","pinyin":"ràng","vi":"để, bảo, cho phép","ex":{"tokens":["妈妈","不","让","我","看","电视","。"],"py":["māma","bú","ràng","wǒ","kàn","diànshì","."],"vi":"Mẹ không cho tôi xem ti vi.","alts":[]}},
+   {"id":"h2-06-欢迎","hanzi":"欢迎","pinyin":"huānyíng","vi":"hoan nghênh, chào mừng","ex":{"tokens":["欢迎","你","来","我","家","。"],"py":["huānyíng","nǐ","lái","wǒ","jiā","."],"vi":"Chào mừng bạn đến nhà tôi.","alts":[]}},
+   {"id":"h2-06-说话","hanzi":"说话","pinyin":"shuōhuà","vi":"nói chuyện","ex":{"tokens":["他们","在","说话","。"],"py":["tāmen","zài","shuōhuà","."],"vi":"Họ đang nói chuyện.","alts":[]}}
+  ]},
+  {"id":"h2-07","title":"Mua sắm","desc":"Giá cả, số lớn, đồ dùng","icon":"买","unit":22,"order":240,"words":[
+   {"id":"h2-07-卖","hanzi":"卖","pinyin":"mài","vi":"bán","ex":{"tokens":["这","个","商店","卖","水果","。"],"py":["zhè","ge","shāngdiàn","mài","shuǐguǒ","."],"vi":"Cửa hàng này bán hoa quả.","alts":[]}},
+   {"id":"h2-07-贵","hanzi":"贵","pinyin":"guì","vi":"đắt","ex":{"tokens":["这","件","衣服","太","贵","了","。"],"py":["zhè","jiàn","yīfu","tài","guì","le","."],"vi":"Bộ quần áo này đắt quá.","alts":[]}},
+   {"id":"h2-07-便宜","hanzi":"便宜","pinyin":"piányi","vi":"rẻ","ex":{"tokens":["苹果","很","便宜","。"],"py":["píngguǒ","hěn","piányi","."],"vi":"Táo rất rẻ.","alts":[]}},
+   {"id":"h2-07-元","hanzi":"元","pinyin":"yuán","vi":"đồng, tệ (đơn vị tiền)","ex":{"tokens":["这","本","书","二十","元","。"],"py":["zhè","běn","shū","èrshí","yuán","."],"vi":"Quyển sách này hai mươi tệ.","alts":[]}},
+   {"id":"h2-07-百","hanzi":"百","pinyin":"bǎi","vi":"trăm","ex":{"tokens":["这","个","手机","八","百","块","。"],"py":["zhè","ge","shǒujī","bā","bǎi","kuài","."],"vi":"Chiếc điện thoại này tám trăm tệ.","alts":[]}},
+   {"id":"h2-07-千","hanzi":"千","pinyin":"qiān","vi":"nghìn","ex":{"tokens":["学校","有","两","千","个","学生","。"],"py":["xuéxiào","yǒu","liǎng","qiān","ge","xuésheng","."],"vi":"Trường có hai nghìn học sinh.","alts":[]}},
+   {"id":"h2-07-两","hanzi":"两","pinyin":"liǎng","vi":"hai (dùng trước lượng từ)","ex":{"tokens":["我","要","两","杯","茶","。"],"py":["wǒ","yào","liǎng","bēi","chá","."],"vi":"Tôi muốn hai cốc trà.","alts":[]}},
+   {"id":"h2-07-零","hanzi":"零","pinyin":"líng","vi":"số không","ex":{"tokens":["现在","是","十","点","零","五","分","。"],"py":["xiànzài","shì","shí","diǎn","líng","wǔ","fēn","."],"vi":"Bây giờ là mười giờ năm phút.","alts":[]}},
+   {"id":"h2-07-公斤","hanzi":"公斤","pinyin":"gōngjīn","vi":"ki-lô-gam, cân","ex":{"tokens":["我","买","一","公斤","苹果","。"],"py":["wǒ","mǎi","yì","gōngjīn","píngguǒ","."],"vi":"Tôi mua một cân táo.","alts":[]}},
+   {"id":"h2-07-件","hanzi":"件","pinyin":"jiàn","vi":"chiếc, cái (lượng từ quần áo, sự việc)","ex":{"tokens":["我","想","买","一","件","衣服","。"],"py":["wǒ","xiǎng","mǎi","yí","jiàn","yīfu","."],"vi":"Tôi muốn mua một chiếc áo.","alts":[]}},
+   {"id":"h2-07-张","hanzi":"张","pinyin":"zhāng","vi":"tờ, tấm (lượng từ)","ex":{"tokens":["我","要","一","张","票","。"],"py":["wǒ","yào","yì","zhāng","piào","."],"vi":"Tôi muốn một tấm vé.","alts":[]}},
+   {"id":"h2-07-票","hanzi":"票","pinyin":"piào","vi":"vé","ex":{"tokens":["你","买","票","了","吗","？"],"py":["nǐ","mǎi","piào","le","ma","?"],"vi":"Bạn mua vé chưa?","alts":[]}},
+   {"id":"h2-07-手表","hanzi":"手表","pinyin":"shǒubiǎo","vi":"đồng hồ đeo tay","ex":{"tokens":["这","块","手表","很","漂亮","。"],"py":["zhè","kuài","shǒubiǎo","hěn","piàoliang","."],"vi":"Chiếc đồng hồ này rất đẹp.","alts":[]}},
+   {"id":"h2-07-手机","hanzi":"手机","pinyin":"shǒujī","vi":"điện thoại di động","ex":{"tokens":["我","的","手机","在","桌子","上","。"],"py":["wǒ","de","shǒujī","zài","zhuōzi","shang","."],"vi":"Điện thoại của tôi ở trên bàn.","alts":[]}}
+  ]},
+  {"id":"h2-08","title":"Quán ăn và sức khỏe","desc":"Gọi món, ốm đau, phòng ở","icon":"药","unit":22,"order":250,"words":[
+   {"id":"h2-08-饭馆","hanzi":"饭馆","pinyin":"fànguǎn","vi":"quán ăn, nhà hàng","ex":{"tokens":["我们","去","饭馆","吃","饭","吧","。"],"py":["wǒmen","qù","fànguǎn","chī","fàn","ba","."],"vi":"Chúng ta đi quán ăn cơm đi.","alts":[]}},
+   {"id":"h2-08-服务员","hanzi":"服务员","pinyin":"fúwùyuán","vi":"nhân viên phục vụ","ex":{"tokens":["服务员","，","我","要","一","杯","水","。"],"py":["fúwùyuán",",","wǒ","yào","yì","bēi","shuǐ","."],"vi":"Phục vụ ơi, cho tôi một cốc nước.","alts":[]}},
+   {"id":"h2-08-西瓜","hanzi":"西瓜","pinyin":"xīguā","vi":"dưa hấu","ex":{"tokens":["西瓜","很","好吃","。"],"py":["xīguā","hěn","hǎochī","."],"vi":"Dưa hấu rất ngon.","alts":[]}},
+   {"id":"h2-08-羊肉","hanzi":"羊肉","pinyin":"yángròu","vi":"thịt dê, thịt cừu","ex":{"tokens":["我","不","吃","羊肉","。"],"py":["wǒ","bù","chī","yángròu","."],"vi":"Tôi không ăn thịt dê.","alts":[]}},
+   {"id":"h2-08-生病","hanzi":"生病","pinyin":"shēngbìng","vi":"bị ốm","ex":{"tokens":["他","生病","了","。"],"py":["tā","shēngbìng","le","."],"vi":"Anh ấy bị ốm rồi.","alts":[]}},
+   {"id":"h2-08-药","hanzi":"药","pinyin":"yào","vi":"thuốc","ex":{"tokens":["你","吃","药","了","吗","？"],"py":["nǐ","chī","yào","le","ma","?"],"vi":"Bạn uống thuốc chưa?","alts":[]}},
+   {"id":"h2-08-报纸","hanzi":"报纸","pinyin":"bàozhǐ","vi":"báo, tờ báo","ex":{"tokens":["爸爸","在","看","报纸","。"],"py":["bàba","zài","kàn","bàozhǐ","."],"vi":"Bố đang đọc báo.","alts":[]}},
+   {"id":"h2-08-房间","hanzi":"房间","pinyin":"fángjiān","vi":"phòng, căn phòng","ex":{"tokens":["我","的","房间","很","小","。"],"py":["wǒ","de","fángjiān","hěn","xiǎo","."],"vi":"Phòng của tôi rất nhỏ.","alts":[]}},
+   {"id":"h2-08-门","hanzi":"门","pinyin":"mén","vi":"cửa","ex":{"tokens":["请","开","门","。"],"py":["qǐng","kāi","mén","."],"vi":"Xin hãy mở cửa.","alts":[]}},
+   {"id":"h2-08-新","hanzi":"新","pinyin":"xīn","vi":"mới","ex":{"tokens":["这","是","我","的","新","手机","。"],"py":["zhè","shì","wǒ","de","xīn","shǒujī","."],"vi":"Đây là điện thoại mới của tôi.","alts":[]}},
+   {"id":"h2-08-给","hanzi":"给","pinyin":"gěi","vi":"cho, đưa cho","ex":{"tokens":["妈妈","给","我","一","个","苹果","。"],"py":["māma","gěi","wǒ","yí","ge","píngguǒ","."],"vi":"Mẹ cho tôi một quả táo.","alts":[]}},
+   {"id":"h2-08-送","hanzi":"送","pinyin":"sòng","vi":"tặng, tiễn, đưa","ex":{"tokens":["朋友","送","我","一","本","书","。"],"py":["péngyou","sòng","wǒ","yì","běn","shū","."],"vi":"Bạn tặng tôi một quyển sách.","alts":[]}}
+  ]}
+ ]
+}

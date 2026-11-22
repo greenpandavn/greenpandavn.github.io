@@ -1,0 +1,73 @@
+{
+ "units": [
+  {"unit":1,"level":1,"title":"Phần 1: Làm quen","desc":"Chào hỏi, giới thiệu, số đếm, gia đình","color":"leaf"}
+ ],
+ "lessons": [
+  {"id":"l01","title":"Chào hỏi","desc":"Xin chào, cảm ơn, tạm biệt","icon":"wave","unit":1,"order":10,"words":[
+   {"id":"l01-你好","hanzi":"你好","pinyin":"nǐ hǎo","vi":"xin chào","ex":{"tokens":["你好","，","老师","！"],"py":["nǐ hǎo",",","lǎoshī","!"],"vi":"Em chào thầy/cô ạ!","alts":[]}},
+   {"id":"l01-谢谢","hanzi":"谢谢","pinyin":"xièxie","vi":"cảm ơn","ex":{"tokens":["谢谢","你","！"],"py":["xièxie","nǐ","!"],"vi":"Cảm ơn bạn!","alts":[]}},
+   {"id":"l01-不客气","hanzi":"不客气","pinyin":"bú kèqi","vi":"không có gì, đừng khách sáo","ex":{"tokens":["不客气","，","朋友","。"],"py":["bú kèqi",",","péngyou","."],"vi":"Không có gì đâu, bạn ơi.","alts":[]}},
+   {"id":"l01-再见","hanzi":"再见","pinyin":"zàijiàn","vi":"tạm biệt","ex":{"tokens":["老师","再见","！"],"py":["lǎoshī","zàijiàn","!"],"vi":"Tạm biệt thầy/cô!","alts":["再见老师"]}},
+   {"id":"l01-对不起","hanzi":"对不起","pinyin":"duìbuqǐ","vi":"xin lỗi","ex":{"tokens":["对不起","，","我","不","认识","你","。"],"py":["duìbuqǐ",",","wǒ","bú","rènshi","nǐ","."],"vi":"Xin lỗi, tôi không quen bạn.","alts":[]}},
+   {"id":"l01-没关系","hanzi":"没关系","pinyin":"méi guānxi","vi":"không sao đâu","ex":{"tokens":["没关系","，","再见","！"],"py":["méi guānxi",",","zàijiàn","!"],"vi":"Không sao đâu, tạm biệt!","alts":[]}},
+   {"id":"l01-请","hanzi":"请","pinyin":"qǐng","vi":"mời; xin vui lòng","ex":{"tokens":["请","喝","茶","。"],"py":["qǐng","hē","chá","."],"vi":"Mời uống trà.","alts":[]}},
+   {"id":"l01-喂","hanzi":"喂","pinyin":"wèi","vi":"alô (khi nghe điện thoại)","ex":{"tokens":["喂","，","你","是","谁","？"],"py":["wèi",",","nǐ","shì","shéi","?"],"vi":"A lô, ai đấy ạ?","alts":[]}},
+   {"id":"l01-你","hanzi":"你","pinyin":"nǐ","vi":"bạn, anh, chị (ngôi thứ hai)","ex":{"tokens":["你","是","老师","吗","？"],"py":["nǐ","shì","lǎoshī","ma","?"],"vi":"Bạn là giáo viên à?","alts":[]}},
+   {"id":"l01-我","hanzi":"我","pinyin":"wǒ","vi":"tôi, mình","ex":{"tokens":["我","是","学生","。"],"py":["wǒ","shì","xuésheng","."],"vi":"Tôi là học sinh.","alts":[]}}
+  ]},
+  {"id":"l02","title":"Giới thiệu bản thân","desc":"Tên, quốc tịch, làm quen","icon":"id","unit":1,"order":20,"words":[
+   {"id":"l02-是","hanzi":"是","pinyin":"shì","vi":"là","ex":{"tokens":["他","是","我","朋友","。"],"py":["tā","shì","wǒ","péngyou","."],"vi":"Anh ấy là bạn tôi.","alts":[]}},
+   {"id":"l02-不","hanzi":"不","pinyin":"bù","vi":"không","ex":{"tokens":["我","不","是","老师","。"],"py":["wǒ","bú","shì","lǎoshī","."],"vi":"Tôi không phải là giáo viên.","alts":[]}},
+   {"id":"l02-叫","hanzi":"叫","pinyin":"jiào","vi":"gọi, tên là","ex":{"tokens":["我","叫","小明","。"],"py":["wǒ","jiào","Xiǎo Míng","."],"vi":"Tôi tên là Tiểu Minh.","alts":[]}},
+   {"id":"l02-名字","hanzi":"名字","pinyin":"míngzi","vi":"tên","ex":{"tokens":["你","叫","什么","名字","？"],"py":["nǐ","jiào","shénme","míngzi","?"],"vi":"Bạn tên là gì?","alts":[]}},
+   {"id":"l02-什么","hanzi":"什么","pinyin":"shénme","vi":"cái gì, gì","ex":{"tokens":["这","是","什么","？"],"py":["zhè","shì","shénme","?"],"vi":"Đây là cái gì?","alts":[]}},
+   {"id":"l02-他","hanzi":"他","pinyin":"tā","vi":"anh ấy, ông ấy (nam)","ex":{"tokens":["他","是","中国","人","。"],"py":["tā","shì","Zhōngguó","rén","."],"vi":"Anh ấy là người Trung Quốc.","alts":[]}},
+   {"id":"l02-她","hanzi":"她","pinyin":"tā","vi":"cô ấy, bà ấy (nữ)","ex":{"tokens":["她","是","我","妈妈","。"],"py":["tā","shì","wǒ","māma","."],"vi":"Bà ấy là mẹ tôi.","alts":[]}},
+   {"id":"l02-我们","hanzi":"我们","pinyin":"wǒmen","vi":"chúng tôi, chúng ta","ex":{"tokens":["我们","是","同学","。"],"py":["wǒmen","shì","tóngxué","."],"vi":"Chúng tôi là bạn cùng lớp.","alts":[]}},
+   {"id":"l02-人","hanzi":"人","pinyin":"rén","vi":"người","ex":{"tokens":["你","是","哪","国","人","？"],"py":["nǐ","shì","nǎ","guó","rén","?"],"vi":"Bạn là người nước nào?","alts":[]}},
+   {"id":"l02-中国","hanzi":"中国","pinyin":"Zhōngguó","vi":"Trung Quốc","ex":{"tokens":["我","喜欢","中国","菜","。"],"py":["wǒ","xǐhuan","Zhōngguó","cài","."],"vi":"Tôi thích món ăn Trung Quốc.","alts":[]}},
+   {"id":"l02-越南","hanzi":"越南","pinyin":"Yuènán","vi":"Việt Nam","ex":{"tokens":["我","是","越南","人","。"],"py":["wǒ","shì","Yuènán","rén","."],"vi":"Tôi là người Việt Nam.","alts":[]}},
+   {"id":"l02-认识","hanzi":"认识","pinyin":"rènshi","vi":"quen biết","ex":{"tokens":["认识","你","很","高兴","。"],"py":["rènshi","nǐ","hěn","gāoxìng","."],"vi":"Rất vui được làm quen với bạn.","alts":[]}},
+   {"id":"l02-高兴","hanzi":"高兴","pinyin":"gāoxìng","vi":"vui, vui mừng","ex":{"tokens":["今天","我","很","高兴","。"],"py":["jīntiān","wǒ","hěn","gāoxìng","."],"vi":"Hôm nay tôi rất vui.","alts":["我今天很高兴"]}}
+  ]},
+  {"id":"l03","title":"Số đếm","desc":"Đếm từ 1 đến 10","icon":"numbers","unit":1,"order":30,"words":[
+   {"id":"l03-一","hanzi":"一","pinyin":"yī","vi":"một (số 1)","ex":{"tokens":["我","有","一","个","朋友","。"],"py":["wǒ","yǒu","yí","ge","péngyou","."],"vi":"Tôi có một người bạn.","alts":[]}},
+   {"id":"l03-二","hanzi":"二","pinyin":"èr","vi":"hai (số 2)","ex":{"tokens":["今天","是","二","月","一","号","。"],"py":["jīntiān","shì","èr","yuè","yī","hào","."],"vi":"Hôm nay là ngày mùng 1 tháng 2.","alts":[]}},
+   {"id":"l03-三","hanzi":"三","pinyin":"sān","vi":"ba (số 3)","ex":{"tokens":["我","家","有","三","个","人","。"],"py":["wǒ","jiā","yǒu","sān","ge","rén","."],"vi":"Nhà tôi có ba người.","alts":[]}},
+   {"id":"l03-四","hanzi":"四","pinyin":"sì","vi":"bốn (số 4)","ex":{"tokens":["我","有","四","本","书","。"],"py":["wǒ","yǒu","sì","běn","shū","."],"vi":"Tôi có bốn quyển sách.","alts":[]}},
+   {"id":"l03-五","hanzi":"五","pinyin":"wǔ","vi":"năm (số 5)","ex":{"tokens":["我","买","五","个","苹果","。"],"py":["wǒ","mǎi","wǔ","ge","píngguǒ","."],"vi":"Tôi mua năm quả táo.","alts":[]}},
+   {"id":"l03-六","hanzi":"六","pinyin":"liù","vi":"sáu (số 6)","ex":{"tokens":["他","六","岁","。"],"py":["tā","liù","suì","."],"vi":"Cậu bé ấy sáu tuổi.","alts":[]}},
+   {"id":"l03-七","hanzi":"七","pinyin":"qī","vi":"bảy (số 7)","ex":{"tokens":["一","个","星期","有","七","天","。"],"py":["yí","ge","xīngqī","yǒu","qī","tiān","."],"vi":"Một tuần có bảy ngày.","alts":[]}},
+   {"id":"l03-八","hanzi":"八","pinyin":"bā","vi":"tám (số 8)","ex":{"tokens":["现在","八","点","。"],"py":["xiànzài","bā","diǎn","."],"vi":"Bây giờ là tám giờ.","alts":[]}},
+   {"id":"l03-九","hanzi":"九","pinyin":"jiǔ","vi":"chín (số 9)","ex":{"tokens":["我","女儿","九","岁","。"],"py":["wǒ","nǚ'ér","jiǔ","suì","."],"vi":"Con gái tôi chín tuổi.","alts":[]}},
+   {"id":"l03-十","hanzi":"十","pinyin":"shí","vi":"mười (số 10)","ex":{"tokens":["我们","班","有","十","个","学生","。"],"py":["wǒmen","bān","yǒu","shí","ge","xuésheng","."],"vi":"Lớp chúng tôi có mười học sinh.","alts":[]}}
+  ]},
+  {"id":"l04","title":"Mua sắm","desc":"Bao nhiêu tiền? Mua gì?","icon":"shop","unit":1,"order":40,"words":[
+   {"id":"l04-几","hanzi":"几","pinyin":"jǐ","vi":"mấy (hỏi số nhỏ)","ex":{"tokens":["你","几","岁","？"],"py":["nǐ","jǐ","suì","?"],"vi":"Con mấy tuổi rồi?","alts":[]}},
+   {"id":"l04-多少","hanzi":"多少","pinyin":"duōshao","vi":"bao nhiêu","ex":{"tokens":["这","个","多少","钱","？"],"py":["zhè","ge","duōshao","qián","?"],"vi":"Cái này bao nhiêu tiền?","alts":[]}},
+   {"id":"l04-个","hanzi":"个","pinyin":"gè","vi":"cái, chiếc (lượng từ chung)","ex":{"tokens":["我","想","买","一","个","杯子","。"],"py":["wǒ","xiǎng","mǎi","yí","ge","bēizi","."],"vi":"Tôi muốn mua một cái cốc.","alts":[]}},
+   {"id":"l04-本","hanzi":"本","pinyin":"běn","vi":"quyển, cuốn (lượng từ cho sách)","ex":{"tokens":["这","本","书","很","好","。"],"py":["zhè","běn","shū","hěn","hǎo","."],"vi":"Quyển sách này rất hay.","alts":[]}},
+   {"id":"l04-块","hanzi":"块","pinyin":"kuài","vi":"đồng (đơn vị tiền, khẩu ngữ)","ex":{"tokens":["一","个","苹果","三","块","钱","。"],"py":["yí","ge","píngguǒ","sān","kuài","qián","."],"vi":"Một quả táo giá ba đồng.","alts":[]}},
+   {"id":"l04-钱","hanzi":"钱","pinyin":"qián","vi":"tiền","ex":{"tokens":["我","没有","钱","。"],"py":["wǒ","méiyǒu","qián","."],"vi":"Tôi không có tiền.","alts":[]}},
+   {"id":"l04-买","hanzi":"买","pinyin":"mǎi","vi":"mua","ex":{"tokens":["我","去","商店","买","东西","。"],"py":["wǒ","qù","shāngdiàn","mǎi","dōngxi","."],"vi":"Tôi đi cửa hàng mua đồ.","alts":[]}},
+   {"id":"l04-商店","hanzi":"商店","pinyin":"shāngdiàn","vi":"cửa hàng","ex":{"tokens":["商店","在","哪儿","？"],"py":["shāngdiàn","zài","nǎr","?"],"vi":"Cửa hàng ở đâu?","alts":[]}},
+   {"id":"l04-东西","hanzi":"东西","pinyin":"dōngxi","vi":"đồ, đồ vật","ex":{"tokens":["你","想","买","什么","东西","？"],"py":["nǐ","xiǎng","mǎi","shénme","dōngxi","?"],"vi":"Bạn muốn mua đồ gì?","alts":[]}},
+   {"id":"l04-些","hanzi":"些","pinyin":"xiē","vi":"một vài, một ít","ex":{"tokens":["我","想","买","一些","水果","。"],"py":["wǒ","xiǎng","mǎi","yìxiē","shuǐguǒ","."],"vi":"Tôi muốn mua một ít hoa quả.","alts":[]}},
+   {"id":"l04-多","hanzi":"多","pinyin":"duō","vi":"nhiều","ex":{"tokens":["商店","里","人","很","多","。"],"py":["shāngdiàn","li","rén","hěn","duō","."],"vi":"Trong cửa hàng rất đông người.","alts":[]}},
+   {"id":"l04-少","hanzi":"少","pinyin":"shǎo","vi":"ít","ex":{"tokens":["今天","人","很","少","。"],"py":["jīntiān","rén","hěn","shǎo","."],"vi":"Hôm nay rất ít người.","alts":[]}}
+  ]},
+  {"id":"l05","title":"Gia đình","desc":"Bố, mẹ, con cái, bạn bè","icon":"family","unit":1,"order":50,"words":[
+   {"id":"l05-家","hanzi":"家","pinyin":"jiā","vi":"nhà, gia đình","ex":{"tokens":["我","家","在","河内","。"],"py":["wǒ","jiā","zài","Hénèi","."],"vi":"Nhà tôi ở Hà Nội.","alts":[]}},
+   {"id":"l05-爸爸","hanzi":"爸爸","pinyin":"bàba","vi":"bố, ba","ex":{"tokens":["我","爸爸","是","医生","。"],"py":["wǒ","bàba","shì","yīshēng","."],"vi":"Bố tôi là bác sĩ.","alts":[]}},
+   {"id":"l05-妈妈","hanzi":"妈妈","pinyin":"māma","vi":"mẹ, má","ex":{"tokens":["我","妈妈","是","老师","。"],"py":["wǒ","māma","shì","lǎoshī","."],"vi":"Mẹ tôi là giáo viên.","alts":[]}},
+   {"id":"l05-儿子","hanzi":"儿子","pinyin":"érzi","vi":"con trai","ex":{"tokens":["他","有","一","个","儿子","。"],"py":["tā","yǒu","yí","ge","érzi","."],"vi":"Anh ấy có một cậu con trai.","alts":[]}},
+   {"id":"l05-女儿","hanzi":"女儿","pinyin":"nǚ'ér","vi":"con gái","ex":{"tokens":["她","女儿","很","漂亮","。"],"py":["tā","nǚ'ér","hěn","piàoliang","."],"vi":"Con gái cô ấy rất xinh.","alts":[]}},
+   {"id":"l05-朋友","hanzi":"朋友","pinyin":"péngyou","vi":"bạn, bạn bè","ex":{"tokens":["他","是","我","的","好","朋友","。"],"py":["tā","shì","wǒ","de","hǎo","péngyou","."],"vi":"Cậu ấy là bạn thân của tôi.","alts":[]}},
+   {"id":"l05-爱","hanzi":"爱","pinyin":"ài","vi":"yêu","ex":{"tokens":["我","爱","我","的","家","。"],"py":["wǒ","ài","wǒ","de","jiā","."],"vi":"Tôi yêu gia đình của tôi.","alts":[]}},
+   {"id":"l05-和","hanzi":"和","pinyin":"hé","vi":"và, với","ex":{"tokens":["爸爸","和","妈妈","都","在","家","。"],"py":["bàba","hé","māma","dōu","zài","jiā","."],"vi":"Bố và mẹ đều ở nhà.","alts":["妈妈和爸爸都在家"]}},
+   {"id":"l05-有","hanzi":"有","pinyin":"yǒu","vi":"có","ex":{"tokens":["我","有","很","多","朋友","。"],"py":["wǒ","yǒu","hěn","duō","péngyou","."],"vi":"Tôi có rất nhiều bạn.","alts":[]}},
+   {"id":"l05-没有","hanzi":"没有","pinyin":"méiyǒu","vi":"không có","ex":{"tokens":["我","没有","哥哥","。"],"py":["wǒ","méiyǒu","gēge","."],"vi":"Tôi không có anh trai.","alts":[]}},
+   {"id":"l05-岁","hanzi":"岁","pinyin":"suì","vi":"tuổi","ex":{"tokens":["我","妈妈","四十","岁","。"],"py":["wǒ","māma","sìshí","suì","."],"vi":"Mẹ tôi bốn mươi tuổi.","alts":[]}}
+  ]}
+ ]
+}

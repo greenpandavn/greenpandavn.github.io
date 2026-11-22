@@ -1,0 +1,62 @@
+{
+ "units": [
+  {"unit":23,"level":2,"title":"Phần 3: Thế giới xung quanh","desc":"Đi lại, vị trí, thời tiết, so sánh, từ nối","color":"grape"}
+ ],
+ "lessons": [
+  {"id":"h2-09","title":"Đi lại","desc":"Xe buýt, sân bay, xa gần","icon":"路","unit":23,"order":260,"words":[
+   {"id":"h2-09-公共汽车","hanzi":"公共汽车","pinyin":"gōnggòngqìchē","vi":"xe buýt","ex":{"tokens":["我","坐","公共汽车","去","学校","。"],"py":["wǒ","zuò","gōnggòngqìchē","qù","xuéxiào","."],"vi":"Tôi đi xe buýt đến trường.","alts":[]}},
+   {"id":"h2-09-自行车","hanzi":"自行车","pinyin":"zìxíngchē","vi":"xe đạp","ex":{"tokens":["他","有","一","辆","自行车","。"],"py":["tā","yǒu","yí","liàng","zìxíngchē","."],"vi":"Anh ấy có một chiếc xe đạp.","alts":[]}},
+   {"id":"h2-09-船","hanzi":"船","pinyin":"chuán","vi":"thuyền, tàu thủy","ex":{"tokens":["我们","坐","船","去","吧","。"],"py":["wǒmen","zuò","chuán","qù","ba","."],"vi":"Chúng ta đi bằng thuyền nhé.","alts":[]}},
+   {"id":"h2-09-机场","hanzi":"机场","pinyin":"jīchǎng","vi":"sân bay","ex":{"tokens":["我","去","机场","坐","飞机","。"],"py":["wǒ","qù","jīchǎng","zuò","fēijī","."],"vi":"Tôi ra sân bay đi máy bay.","alts":[]}},
+   {"id":"h2-09-火车站","hanzi":"火车站","pinyin":"huǒchēzhàn","vi":"ga tàu hỏa","ex":{"tokens":["火车站","在","哪儿","？"],"py":["huǒchēzhàn","zài","nǎr","?"],"vi":"Ga tàu hỏa ở đâu?","alts":[]}},
+   {"id":"h2-09-路","hanzi":"路","pinyin":"lù","vi":"đường, con đường","ex":{"tokens":["这","条","路","很","长","。"],"py":["zhè","tiáo","lù","hěn","cháng","."],"vi":"Con đường này rất dài.","alts":[]}},
+   {"id":"h2-09-远","hanzi":"远","pinyin":"yuǎn","vi":"xa","ex":{"tokens":["我","家","很","远","。"],"py":["wǒ","jiā","hěn","yuǎn","."],"vi":"Nhà tôi rất xa.","alts":[]}},
+   {"id":"h2-09-近","hanzi":"近","pinyin":"jìn","vi":"gần","ex":{"tokens":["学校","很","近","。"],"py":["xuéxiào","hěn","jìn","."],"vi":"Trường học rất gần.","alts":[]}},
+   {"id":"h2-09-离","hanzi":"离","pinyin":"lí","vi":"cách (khoảng cách)","ex":{"tokens":["我","家","离","学校","不","远","。"],"py":["wǒ","jiā","lí","xuéxiào","bù","yuǎn","."],"vi":"Nhà tôi cách trường không xa.","alts":[]}},
+   {"id":"h2-09-从","hanzi":"从","pinyin":"cóng","vi":"từ","ex":{"tokens":["我","从","越南","来","。"],"py":["wǒ","cóng","Yuènán","lái","."],"vi":"Tôi đến từ Việt Nam.","alts":[]}},
+   {"id":"h2-09-到","hanzi":"到","pinyin":"dào","vi":"đến, tới","ex":{"tokens":["他","到","北京","了","。"],"py":["tā","dào","Běijīng","le","."],"vi":"Anh ấy đến Bắc Kinh rồi.","alts":[]}},
+   {"id":"h2-09-向","hanzi":"向","pinyin":"xiàng","vi":"về phía, hướng về","ex":{"tokens":["请","向","前","走","。"],"py":["qǐng","xiàng","qián","zǒu","."],"vi":"Xin hãy đi về phía trước.","alts":[]}}
+  ]},
+  {"id":"h2-10","title":"Vị trí, màu sắc, thời tiết","desc":"Trái phải, trắng đen, nắng mưa","icon":"晴","unit":23,"order":270,"words":[
+   {"id":"h2-10-左边","hanzi":"左边","pinyin":"zuǒbian","vi":"bên trái","ex":{"tokens":["商店","在","学校","左边","。"],"py":["shāngdiàn","zài","xuéxiào","zuǒbian","."],"vi":"Cửa hàng ở bên trái trường học.","alts":[]}},
+   {"id":"h2-10-右边","hanzi":"右边","pinyin":"yòubian","vi":"bên phải","ex":{"tokens":["医院","在","右边","。"],"py":["yīyuàn","zài","yòubian","."],"vi":"Bệnh viện ở bên phải.","alts":[]}},
+   {"id":"h2-10-旁边","hanzi":"旁边","pinyin":"pángbiān","vi":"bên cạnh","ex":{"tokens":["他","坐","在","我","旁边","。"],"py":["tā","zuò","zài","wǒ","pángbiān","."],"vi":"Anh ấy ngồi bên cạnh tôi.","alts":[]}},
+   {"id":"h2-10-外","hanzi":"外","pinyin":"wài","vi":"ngoài, bên ngoài","ex":{"tokens":["门","外","有","一","个","人","。"],"py":["mén","wài","yǒu","yí","ge","rén","."],"vi":"Ngoài cửa có một người.","alts":[]}},
+   {"id":"h2-10-白","hanzi":"白","pinyin":"bái","vi":"trắng","ex":{"tokens":["她","穿","白","衣服","。"],"py":["tā","chuān","bái","yīfu","."],"vi":"Cô ấy mặc áo trắng.","alts":[]}},
+   {"id":"h2-10-黑","hanzi":"黑","pinyin":"hēi","vi":"đen","ex":{"tokens":["我","有","一","只","黑","猫","。"],"py":["wǒ","yǒu","yì","zhī","hēi","māo","."],"vi":"Tôi có một con mèo đen.","alts":[]}},
+   {"id":"h2-10-红","hanzi":"红","pinyin":"hóng","vi":"đỏ","ex":{"tokens":["苹果","红","了","。"],"py":["píngguǒ","hóng","le","."],"vi":"Táo đỏ rồi.","alts":[]}},
+   {"id":"h2-10-晴","hanzi":"晴","pinyin":"qíng","vi":"nắng, quang đãng","ex":{"tokens":["今天","是","晴","天","。"],"py":["jīntiān","shì","qíng","tiān","."],"vi":"Hôm nay trời nắng.","alts":[]}},
+   {"id":"h2-10-阴","hanzi":"阴","pinyin":"yīn","vi":"râm, âm u","ex":{"tokens":["明天","是","阴","天","。"],"py":["míngtiān","shì","yīn","tiān","."],"vi":"Ngày mai trời âm u.","alts":[]}},
+   {"id":"h2-10-雪","hanzi":"雪","pinyin":"xuě","vi":"tuyết","ex":{"tokens":["今天","下","雪","了","。"],"py":["jīntiān","xià","xuě","le","."],"vi":"Hôm nay tuyết rơi rồi.","alts":[]}},
+   {"id":"h2-10-高","hanzi":"高","pinyin":"gāo","vi":"cao","ex":{"tokens":["我","哥哥","很","高","。"],"py":["wǒ","gēge","hěn","gāo","."],"vi":"Anh trai tôi rất cao.","alts":[]}},
+   {"id":"h2-10-长","hanzi":"长","pinyin":"cháng","vi":"dài","ex":{"tokens":["她","的","头发","很","长","。"],"py":["tā","de","tóufa","hěn","cháng","."],"vi":"Tóc cô ấy rất dài.","alts":[]}}
+  ]},
+  {"id":"h2-11","title":"Mô tả và so sánh","desc":"Nhanh chậm, hơn nhất, có thể","icon":"比","unit":23,"order":280,"words":[
+   {"id":"h2-11-快","hanzi":"快","pinyin":"kuài","vi":"nhanh","ex":{"tokens":["他","跑","得","很","快","。"],"py":["tā","pǎo","de","hěn","kuài","."],"vi":"Anh ấy chạy rất nhanh.","alts":[]}},
+   {"id":"h2-11-慢","hanzi":"慢","pinyin":"màn","vi":"chậm","ex":{"tokens":["请","说","慢","一点儿","。"],"py":["qǐng","shuō","màn","yìdiǎnr","."],"vi":"Xin hãy nói chậm một chút.","alts":[]}},
+   {"id":"h2-11-比","hanzi":"比","pinyin":"bǐ","vi":"hơn (so sánh)","ex":{"tokens":["哥哥","比","我","高","。"],"py":["gēge","bǐ","wǒ","gāo","."],"vi":"Anh trai cao hơn tôi.","alts":[]}},
+   {"id":"h2-11-最","hanzi":"最","pinyin":"zuì","vi":"nhất","ex":{"tokens":["我","最","喜欢","吃","饺子","。"],"py":["wǒ","zuì","xǐhuan","chī","jiǎozi","."],"vi":"Tôi thích ăn sủi cảo nhất.","alts":[]}},
+   {"id":"h2-11-真","hanzi":"真","pinyin":"zhēn","vi":"thật, thật là","ex":{"tokens":["你","的","衣服","真","漂亮","！"],"py":["nǐ","de","yīfu","zhēn","piàoliang","!"],"vi":"Quần áo của bạn đẹp thật!","alts":[]}},
+   {"id":"h2-11-非常","hanzi":"非常","pinyin":"fēicháng","vi":"vô cùng, rất","ex":{"tokens":["今天","非常","冷","。"],"py":["jīntiān","fēicháng","lěng","."],"vi":"Hôm nay vô cùng lạnh.","alts":[]}},
+   {"id":"h2-11-也","hanzi":"也","pinyin":"yě","vi":"cũng","ex":{"tokens":["我","也","是","学生","。"],"py":["wǒ","yě","shì","xuésheng","."],"vi":"Tôi cũng là học sinh.","alts":[]}},
+   {"id":"h2-11-还","hanzi":"还","pinyin":"hái","vi":"còn, vẫn","ex":{"tokens":["他","还","在","睡觉","。"],"py":["tā","hái","zài","shuìjiào","."],"vi":"Anh ấy vẫn đang ngủ.","alts":[]}},
+   {"id":"h2-11-可能","hanzi":"可能","pinyin":"kěnéng","vi":"có thể, có lẽ","ex":{"tokens":["明天","可能","下","雨","。"],"py":["míngtiān","kěnéng","xià","yǔ","."],"vi":"Ngày mai có thể mưa.","alts":[]}},
+   {"id":"h2-11-可以","hanzi":"可以","pinyin":"kěyǐ","vi":"có thể, được phép","ex":{"tokens":["我","可以","进来","吗","？"],"py":["wǒ","kěyǐ","jìnlái","ma","?"],"vi":"Tôi vào được không?","alts":[]}},
+   {"id":"h2-11-要","hanzi":"要","pinyin":"yào","vi":"muốn, cần, phải","ex":{"tokens":["我","要","一","杯","咖啡","。"],"py":["wǒ","yào","yì","bēi","kāfēi","."],"vi":"Tôi muốn một cốc cà phê.","alts":[]}},
+   {"id":"h2-11-别","hanzi":"别","pinyin":"bié","vi":"đừng","ex":{"tokens":["别","说话","！"],"py":["bié","shuōhuà","!"],"vi":"Đừng nói chuyện!","alts":[]}}
+  ]},
+  {"id":"h2-12","title":"Từ nối và ngữ pháp","desc":"Vì, nên, nhưng, trợ từ","icon":"因","unit":23,"order":290,"words":[
+   {"id":"h2-12-因为","hanzi":"因为","pinyin":"yīnwèi","vi":"bởi vì","ex":{"tokens":["因为","下","雨","，","我","不","去","了","。"],"py":["yīnwèi","xià","yǔ",",","wǒ","bú","qù","le","."],"vi":"Vì trời mưa nên tôi không đi nữa.","alts":[]}},
+   {"id":"h2-12-所以","hanzi":"所以","pinyin":"suǒyǐ","vi":"cho nên","ex":{"tokens":["他","生病","了","，","所以","没","来","。"],"py":["tā","shēngbìng","le",",","suǒyǐ","méi","lái","."],"vi":"Anh ấy bị ốm nên không đến.","alts":[]}},
+   {"id":"h2-12-但是","hanzi":"但是","pinyin":"dànshì","vi":"nhưng, nhưng mà","ex":{"tokens":["汉语","很","难","，","但是","很","有","意思","。"],"py":["Hànyǔ","hěn","nán",",","dànshì","hěn","yǒu","yìsi","."],"vi":"Tiếng Trung rất khó nhưng rất thú vị.","alts":[]}},
+   {"id":"h2-12-为什么","hanzi":"为什么","pinyin":"wèishénme","vi":"tại sao, vì sao","ex":{"tokens":["你","为什么","不","吃","？"],"py":["nǐ","wèishénme","bù","chī","?"],"vi":"Tại sao bạn không ăn?","alts":[]}},
+   {"id":"h2-12-吧","hanzi":"吧","pinyin":"ba","vi":"nhé, đi, nhỉ (trợ từ)","ex":{"tokens":["我们","回","家","吧","。"],"py":["wǒmen","huí","jiā","ba","."],"vi":"Chúng ta về nhà nhé.","alts":[]}},
+   {"id":"h2-12-着","hanzi":"着","pinyin":"zhe","vi":"đang (trợ từ chỉ trạng thái)","ex":{"tokens":["门","开","着","。"],"py":["mén","kāi","zhe","."],"vi":"Cửa đang mở.","alts":[]}},
+   {"id":"h2-12-得","hanzi":"得","pinyin":"de","vi":"trợ từ bổ ngữ (làm... như thế nào)","ex":{"tokens":["她","唱","得","很","好","。"],"py":["tā","chàng","de","hěn","hǎo","."],"vi":"Cô ấy hát rất hay.","alts":[]}},
+   {"id":"h2-12-没","hanzi":"没","pinyin":"méi","vi":"không, chưa","ex":{"tokens":["我","没","吃","早饭","。"],"py":["wǒ","méi","chī","zǎofàn","."],"vi":"Tôi chưa ăn sáng.","alts":[]}},
+   {"id":"h2-12-姓","hanzi":"姓","pinyin":"xìng","vi":"họ, mang họ","ex":{"tokens":["我","姓","王","。"],"py":["wǒ","xìng","Wáng","."],"vi":"Tôi họ Vương.","alts":[]}},
+   {"id":"h2-12-就","hanzi":"就","pinyin":"jiù","vi":"thì, liền, ngay","ex":{"tokens":["我","现在","就","去","。"],"py":["wǒ","xiànzài","jiù","qù","."],"vi":"Tôi đi ngay bây giờ.","alts":[]}},
+   {"id":"h2-12-再","hanzi":"再","pinyin":"zài","vi":"lại, nữa","ex":{"tokens":["请","再","说","一","次","。"],"py":["qǐng","zài","shuō","yí","cì","."],"vi":"Xin hãy nói lại một lần nữa.","alts":[]}}
+  ]}
+ ]
+}

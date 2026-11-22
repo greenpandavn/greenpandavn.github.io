@@ -1,5 +1,5 @@
 import { useCallback, useEffect, useMemo, useState } from 'react';
-import { BUNDLED_LESSONS, LESSONS, LESSON_BY_ID, UNITS, loadCourse, useContentVersion } from '../data';
+import { BUNDLED_LESSONS, isBundledLesson, LESSONS, LESSON_BY_ID, UNITS, loadCourse, useContentVersion } from '../data';
 import { useAccount } from '../lib/account';
 import { levelInfo } from '../lib/gamification';
 import { currentStreak } from '../lib/gamification';
@@ -272,7 +272,7 @@ export default function AdminScreen({ onClose }: { onClose: () => void }) {
                 </button>
               </div>
               {LESSONS.filter((l) => l.unit === un.unit).map((l) => {
-                const edited = !BUNDLED_LESSONS.some((b) => b.id === l.id) ? 'mới' : '';
+                const edited = !isBundledLesson(l.id) ? 'mới' : '';
                 return (
                   <div key={l.id} className="card mb-1.5 flex items-center gap-2 !p-2.5">
                     <div className="min-w-0 flex-1">

@@ -21,7 +21,9 @@ export interface Lesson {
   desc: string;
   icon: string;
   unit: number;
+  /** Empty until the part of the lesson is downloaded; `wordCount` is always known. */
   words: Word[];
+  wordCount: number;
   bonus?: boolean;
   course?: CourseId;
   cost?: number;
