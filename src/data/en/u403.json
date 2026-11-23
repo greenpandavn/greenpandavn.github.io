@@ -1,9 +1,9 @@
 {
  "units": [
-  {"unit":403,"level":4,"title":"Phần 26: Khoa học chuyên sâu","desc":"Di truyền, sinh thái, vật lý, kỹ thuật, trí tuệ nhân tạo, toán học","color":"grape","course":"en"}
+  {"unit":403,"level":4,"title":"Phần 27: Khoa học chuyên sâu","desc":"Di truyền, sinh thái, vật lý, kỹ thuật, trí tuệ nhân tạo, toán học","color":"grape","course":"en"}
  ],
  "lessons": [
-  {"id":"p33","title":"Di truyền học","desc":"Gen, tế bào, đột biến, tiến hóa","icon":"DNA","unit":403,"course":"en","order":2930,"words":[
+  {"id":"p33","title":"Di truyền học","desc":"Gen, tế bào, đột biến, tiến hóa","icon":"DNA","unit":403,"course":"en","order":2970,"words":[
    {"id":"p33-gene","hanzi":"gene","pinyin":"","vi":"gen","ex":{"tokens":["This","gene","controls","eye","color","."],"py":["","","","","","."],"vi":"Gen này quyết định màu mắt.","alts":[]}},
    {"id":"p33-cell","hanzi":"cell","pinyin":"","vi":"tế bào; phòng giam","ex":{"tokens":["Every","cell","needs","oxygen","."],"py":["","","","","."],"vi":"Mọi tế bào đều cần ô xy.","alts":[]}},
    {"id":"p33-mutation","hanzi":"mutation","pinyin":"","vi":"đột biến","ex":{"tokens":["The","mutation","makes","the","virus","stronger","."],"py":["","","","","","","."],"vi":"Đột biến làm cho vi rút mạnh hơn.","alts":[]}},
@@ -17,7 +17,7 @@
    {"id":"p33-reproduce","hanzi":"reproduce","pinyin":"","vi":"sinh sản; tái tạo","ex":{"tokens":["Some","plants","reproduce","without","seeds","."],"py":["","","","","","."],"vi":"Một số loài cây sinh sản không cần hạt.","alts":[]}},
    {"id":"p33-adapt","hanzi":"adapt","pinyin":"","vi":"thích nghi","ex":{"tokens":["Animals","adapt","to","cold","weather","."],"py":["","","","","","."],"vi":"Động vật thích nghi với thời tiết lạnh.","alts":[]}}
   ]},
-  {"id":"p34","title":"Y học chuyên sâu","desc":"Khối u, kháng sinh, thuốc mê, tiên lượng","icon":"MD","unit":403,"course":"en","order":2940,"words":[
+  {"id":"p34","title":"Y học chuyên sâu","desc":"Khối u, kháng sinh, thuốc mê, tiên lượng","icon":"MD","unit":403,"course":"en","order":2980,"words":[
    {"id":"p34-tumor","hanzi":"tumor","pinyin":"","vi":"khối u","ex":{"tokens":["The","doctors","removed","the","tumor","."],"py":["","","","","","."],"vi":"Các bác sĩ đã cắt bỏ khối u.","alts":[]}},
    {"id":"p34-antibiotic","hanzi":"antibiotic","pinyin":"","vi":"thuốc kháng sinh","ex":{"tokens":["You","need","an","antibiotic","for","this","infection","."],"py":["","","","","","","","."],"vi":"Bạn cần thuốc kháng sinh cho chỗ nhiễm trùng này.","alts":[]}},
    {"id":"p34-anesthetic","hanzi":"anesthetic","pinyin":"","vi":"thuốc gây mê, gây tê","ex":{"tokens":["The","dentist","gave","me","an","anesthetic","."],"py":["","","","","","","."],"vi":"Nha sĩ đã tiêm thuốc tê cho tôi.","alts":[]}},
@@ -31,7 +31,7 @@
    {"id":"p34-remedy","hanzi":"remedy","pinyin":"","vi":"phương thuốc, cách chữa","ex":{"tokens":["Ginger","tea","is","a","good","remedy","for","a","cold","."],"py":["","","","","","","","","","."],"vi":"Trà gừng là một phương thuốc tốt cho cảm lạnh.","alts":[]}},
    {"id":"p34-terminal","hanzi":"terminal","pinyin":"","vi":"giai đoạn cuối; nhà ga","ex":{"tokens":["The","patient","has","a","terminal","illness","."],"py":["","","","","","","."],"vi":"Bệnh nhân mắc bệnh giai đoạn cuối.","alts":[]}}
   ]},
-  {"id":"p35","title":"Não bộ","desc":"Tế bào thần kinh, trí nhớ, tập trung, phản xạ","icon":"Brain","unit":403,"course":"en","order":2950,"words":[
+  {"id":"p35","title":"Não bộ","desc":"Tế bào thần kinh, trí nhớ, tập trung, phản xạ","icon":"Brain","unit":403,"course":"en","order":2990,"words":[
    {"id":"p35-neuron","hanzi":"neuron","pinyin":"","vi":"tế bào thần kinh","ex":{"tokens":["A","neuron","sends","signals","to","the","brain","."],"py":["","","","","","","","."],"vi":"Một tế bào thần kinh gửi tín hiệu đến não.","alts":[]}},
    {"id":"p35-nerve","hanzi":"nerve","pinyin":"","vi":"dây thần kinh","ex":{"tokens":["The","nerve","in","my","tooth","hurts","."],"py":["","","","","","","."],"vi":"Dây thần kinh trong răng tôi bị đau.","alts":[]}},
    {"id":"p35-reflex","hanzi":"reflex","pinyin":"","vi":"phản xạ","ex":{"tokens":["The","doctor","tested","my","knee","reflex","."],"py":["","","","","","","."],"vi":"Bác sĩ đã kiểm tra phản xạ đầu gối của tôi.","alts":[]}},
@@ -45,7 +45,7 @@
    {"id":"p35-paralysis","hanzi":"paralysis","pinyin":"","vi":"sự tê liệt","ex":{"tokens":["The","injury","caused","paralysis","in","one","leg","."],"py":["","","","","","","","."],"vi":"Chấn thương đã gây liệt một chân.","alts":[]}},
    {"id":"p35-coma","hanzi":"coma","pinyin":"","vi":"trạng thái hôn mê","ex":{"tokens":["He","was","in","a","coma","for","three","days","."],"py":["","","","","","","","","."],"vi":"Anh ấy đã hôn mê ba ngày.","alts":[]}}
   ]},
-  {"id":"p36","title":"Sinh thái học","desc":"Hệ sinh thái, đa dạng sinh học, chuỗi thức ăn","icon":"Bio","unit":403,"course":"en","order":2960,"words":[
+  {"id":"p36","title":"Sinh thái học","desc":"Hệ sinh thái, đa dạng sinh học, chuỗi thức ăn","icon":"Bio","unit":403,"course":"en","order":3000,"words":[
    {"id":"p36-ecosystem","hanzi":"ecosystem","pinyin":"","vi":"hệ sinh thái","ex":{"tokens":["The","lake","has","a","rich","ecosystem","."],"py":["","","","","","","."],"vi":"Hồ có một hệ sinh thái phong phú.","alts":[]}},
    {"id":"p36-biodiversity","hanzi":"biodiversity","pinyin":"","vi":"đa dạng sinh học","ex":{"tokens":["We","must","protect","the","biodiversity","of","the","forest","."],"py":["","","","","","","","","."],"vi":"Chúng ta phải bảo vệ đa dạng sinh học của khu rừng.","alts":[]}},
    {"id":"p36-predator","hanzi":"predator","pinyin":"","vi":"động vật săn mồi","ex":{"tokens":["The","lion","is","a","powerful","predator","."],"py":["","","","","","","."],"vi":"Sư tử là một loài săn mồi mạnh mẽ.","alts":[]}},
@@ -59,7 +59,7 @@
    {"id":"p36-reef","hanzi":"reef","pinyin":"","vi":"rạn san hô, đá ngầm","ex":{"tokens":["The","reef","is","home","to","many","fish","."],"py":["","","","","","","","."],"vi":"Rạn san hô là nhà của nhiều loài cá.","alts":[]}},
    {"id":"p36-swamp","hanzi":"swamp","pinyin":"","vi":"đầm lầy","ex":{"tokens":["The","swamp","is","full","of","insects","."],"py":["","","","","","","."],"vi":"Đầm lầy đầy côn trùng.","alts":[]}}
   ]},
-  {"id":"p37","title":"Khí hậu","desc":"Khí quyển, nhà kính, băng tan, mực nước biển","icon":"Clim","unit":403,"course":"en","order":2970,"words":[
+  {"id":"p37","title":"Khí hậu","desc":"Khí quyển, nhà kính, băng tan, mực nước biển","icon":"Clim","unit":403,"course":"en","order":3010,"words":[
    {"id":"p37-atmosphere","hanzi":"atmosphere","pinyin":"","vi":"khí quyển; bầu không khí","ex":{"tokens":["The","atmosphere","protects","the","earth","."],"py":["","","","","","."],"vi":"Khí quyển bảo vệ trái đất.","alts":[]}},
    {"id":"p37-greenhouse","hanzi":"greenhouse","pinyin":"","vi":"nhà kính","ex":{"tokens":["We","grow","tomatoes","in","a","greenhouse","."],"py":["","","","","","","."],"vi":"Chúng tôi trồng cà chua trong nhà kính.","alts":[]}},
    {"id":"p37-glacier","hanzi":"glacier","pinyin":"","vi":"sông băng","ex":{"tokens":["The","glacier","is","melting","quickly","."],"py":["","","","","","."],"vi":"Sông băng đang tan nhanh.","alts":[]}},
@@ -73,7 +73,7 @@
    {"id":"p37-polar","hanzi":"polar","pinyin":"","vi":"thuộc vùng cực","ex":{"tokens":["Polar","bears","live","on","the","ice","."],"py":["","","","","","","."],"vi":"Gấu Bắc Cực sống trên băng.","alts":[]}},
    {"id":"p37-monsoon","hanzi":"monsoon","pinyin":"","vi":"gió mùa, mùa mưa","ex":{"tokens":["The","monsoon","brings","heavy","rain","."],"py":["","","","","","."],"vi":"Gió mùa mang đến mưa lớn.","alts":[]}}
   ]},
-  {"id":"p38","title":"Đại dương","desc":"Dòng hải lưu, thủy triều, san hô, biển sâu","icon":"Sea","unit":403,"course":"en","order":2980,"words":[
+  {"id":"p38","title":"Đại dương","desc":"Dòng hải lưu, thủy triều, san hô, biển sâu","icon":"Sea","unit":403,"course":"en","order":3020,"words":[
    {"id":"p38-tide","hanzi":"tide","pinyin":"","vi":"thủy triều","ex":{"tokens":["The","tide","is","low","in","the","morning","."],"py":["","","","","","","","."],"vi":"Thủy triều thấp vào buổi sáng.","alts":[]}},
    {"id":"p38-current","hanzi":"current","pinyin":"","vi":"dòng chảy; hiện tại","ex":{"tokens":["The","current","is","strong","near","the","rocks","."],"py":["","","","","","","","."],"vi":"Dòng chảy rất mạnh gần những tảng đá.","alts":[]}},
    {"id":"p38-coral","hanzi":"coral","pinyin":"","vi":"san hô","ex":{"tokens":["The","coral","is","dying","because","of","warm","water","."],"py":["","","","","","","","","."],"vi":"San hô đang chết vì nước ấm.","alts":[]}},
@@ -87,7 +87,7 @@
    {"id":"p38-sink","hanzi":"sink","pinyin":"","vi":"chìm; bồn rửa","ex":{"tokens":["The","stone","will","sink","quickly","."],"py":["","","","","","."],"vi":"Hòn đá sẽ chìm nhanh.","alts":[]}},
    {"id":"p38-dolphin","hanzi":"dolphin","pinyin":"","vi":"cá heo","ex":{"tokens":["A","dolphin","swam","next","to","our","boat","."],"py":["","","","","","","","."],"vi":"Một con cá heo đã bơi cạnh thuyền của chúng tôi.","alts":[]}}
   ]},
-  {"id":"p39","title":"Thiên văn học 1","desc":"Hệ mặt trời, sao chổi, nhật thực, năm ánh sáng","icon":"Star","unit":403,"course":"en","order":2990,"words":[
+  {"id":"p39","title":"Thiên văn học 1","desc":"Hệ mặt trời, sao chổi, nhật thực, năm ánh sáng","icon":"Star","unit":403,"course":"en","order":3030,"words":[
    {"id":"p39-solar_system","hanzi":"solar system","pinyin":"","vi":"hệ mặt trời","ex":{"tokens":["There","are","eight","planets","in","the","solar","system","."],"py":["","","","","","","","","."],"vi":"Có tám hành tinh trong hệ mặt trời.","alts":[]}},
    {"id":"p39-comet","hanzi":"comet","pinyin":"","vi":"sao chổi","ex":{"tokens":["We","saw","a","comet","last","night","."],"py":["","","","","","","."],"vi":"Tối qua chúng tôi đã thấy một ngôi sao chổi.","alts":[]}},
    {"id":"p39-eclipse","hanzi":"eclipse","pinyin":"","vi":"nhật thực, nguyệt thực","ex":{"tokens":["The","eclipse","lasted","three","minutes","."],"py":["","","","","","."],"vi":"Nhật thực kéo dài ba phút.","alts":[]}},
@@ -101,7 +101,7 @@
    {"id":"p39-cosmic","hanzi":"cosmic","pinyin":"","vi":"thuộc vũ trụ","ex":{"tokens":["Cosmic","dust","covers","the","old","satellite","."],"py":["","","","","","","."],"vi":"Bụi vũ trụ phủ lên vệ tinh cũ.","alts":[]}},
    {"id":"p39-horizon","hanzi":"horizon","pinyin":"","vi":"đường chân trời","ex":{"tokens":["The","sun","went","down","below","the","horizon","."],"py":["","","","","","","","."],"vi":"Mặt trời đã lặn xuống dưới đường chân trời.","alts":[]}}
   ]},
-  {"id":"p40","title":"Vật lý 1","desc":"Lực, khối lượng, vận tốc, bức xạ","icon":"Phy","unit":403,"course":"en","order":3000,"words":[
+  {"id":"p40","title":"Vật lý 1","desc":"Lực, khối lượng, vận tốc, bức xạ","icon":"Phy","unit":403,"course":"en","order":3040,"words":[
    {"id":"p40-force","hanzi":"force","pinyin":"","vi":"lực; ép buộc","ex":{"tokens":["The","force","of","the","wind","broke","the","window","."],"py":["","","","","","","","","."],"vi":"Sức gió đã làm vỡ cửa sổ.","alts":[]}},
    {"id":"p40-mass","hanzi":"mass","pinyin":"","vi":"khối lượng","ex":{"tokens":["The","mass","of","the","earth","is","very","large","."],"py":["","","","","","","","","."],"vi":"Khối lượng của trái đất rất lớn.","alts":[]}},
    {"id":"p40-velocity","hanzi":"velocity","pinyin":"","vi":"vận tốc","ex":{"tokens":["The","car","reached","a","high","velocity","."],"py":["","","","","","","."],"vi":"Chiếc xe đã đạt vận tốc cao.","alts":[]}},
@@ -115,7 +115,7 @@
    {"id":"p40-vacuum","hanzi":"vacuum","pinyin":"","vi":"chân không; máy hút bụi","ex":{"tokens":["Sound","cannot","travel","in","a","vacuum","."],"py":["","","","","","","."],"vi":"Âm thanh không thể truyền trong chân không.","alts":[]}},
    {"id":"p40-accelerate","hanzi":"accelerate","pinyin":"","vi":"tăng tốc","ex":{"tokens":["The","car","can","accelerate","very","quickly","."],"py":["","","","","","","."],"vi":"Chiếc xe có thể tăng tốc rất nhanh.","alts":[]}}
   ]},
-  {"id":"p41","title":"Hóa học 1","desc":"Nguyên tố, phân tử, phản ứng, axit","icon":"Chem","unit":403,"course":"en","order":3010,"words":[
+  {"id":"p41","title":"Hóa học 1","desc":"Nguyên tố, phân tử, phản ứng, axit","icon":"Chem","unit":403,"course":"en","order":3050,"words":[
    {"id":"p41-element","hanzi":"element","pinyin":"","vi":"nguyên tố; yếu tố","ex":{"tokens":["Gold","is","a","chemical","element","."],"py":["","","","","","."],"vi":"Vàng là một nguyên tố hóa học.","alts":[]}},
    {"id":"p41-molecule","hanzi":"molecule","pinyin":"","vi":"phân tử","ex":{"tokens":["A","water","molecule","has","three","atoms","."],"py":["","","","","","","."],"vi":"Một phân tử nước có ba nguyên tử.","alts":[]}},
    {"id":"p41-reaction","hanzi":"reaction","pinyin":"","vi":"phản ứng","ex":{"tokens":["The","reaction","produces","heat","."],"py":["","","","","."],"vi":"Phản ứng tạo ra nhiệt.","alts":[]}},
@@ -129,7 +129,7 @@
    {"id":"p41-evaporate","hanzi":"evaporate","pinyin":"","vi":"bay hơi","ex":{"tokens":["Water","will","evaporate","in","the","sun","."],"py":["","","","","","","."],"vi":"Nước sẽ bay hơi dưới nắng.","alts":[]}},
    {"id":"p41-substance","hanzi":"substance","pinyin":"","vi":"chất","ex":{"tokens":["This","substance","burns","easily","."],"py":["","","","","."],"vi":"Chất này dễ cháy.","alts":[]}}
   ]},
-  {"id":"p42","title":"Kỹ thuật","desc":"Cơ khí, mạch điện, bảo trì, thông số","icon":"Eng","unit":403,"course":"en","order":3020,"words":[
+  {"id":"p42","title":"Kỹ thuật","desc":"Cơ khí, mạch điện, bảo trì, thông số","icon":"Eng","unit":403,"course":"en","order":3060,"words":[
    {"id":"p42-engineering","hanzi":"engineering","pinyin":"","vi":"ngành kỹ thuật","ex":{"tokens":["He","studies","engineering","in","Hanoi","."],"py":["","","","","","."],"vi":"Anh ấy học ngành kỹ thuật ở Hà Nội.","alts":[]}},
    {"id":"p42-mechanical","hanzi":"mechanical","pinyin":"","vi":"thuộc cơ khí","ex":{"tokens":["The","plane","had","a","mechanical","problem","."],"py":["","","","","","","."],"vi":"Máy bay đã gặp sự cố cơ khí.","alts":[]}},
    {"id":"p42-circuit","hanzi":"circuit","pinyin":"","vi":"mạch điện","ex":{"tokens":["There","is","a","fault","in","the","circuit","."],"py":["","","","","","","","."],"vi":"Có lỗi trong mạch điện.","alts":[]}},
@@ -143,7 +143,7 @@
    {"id":"p42-wire","hanzi":"wire","pinyin":"","vi":"dây điện, dây kim loại","ex":{"tokens":["Do","not","touch","that","wire","."],"py":["","","","","","."],"vi":"Đừng chạm vào sợi dây điện đó.","alts":[]}},
    {"id":"p42-generator","hanzi":"generator","pinyin":"","vi":"máy phát điện","ex":{"tokens":["The","hospital","has","its","own","generator","."],"py":["","","","","","","."],"vi":"Bệnh viện có máy phát điện riêng.","alts":[]}}
   ]},
-  {"id":"p43","title":"Trí tuệ nhân tạo","desc":"Thuật toán, học máy, mô hình, tự động","icon":"AI","unit":403,"course":"en","order":3030,"words":[
+  {"id":"p43","title":"Trí tuệ nhân tạo","desc":"Thuật toán, học máy, mô hình, tự động","icon":"AI","unit":403,"course":"en","order":3070,"words":[
    {"id":"p43-algorithm","hanzi":"algorithm","pinyin":"","vi":"thuật toán","ex":{"tokens":["The","algorithm","chooses","videos","for","you","."],"py":["","","","","","","."],"vi":"Thuật toán chọn video cho bạn.","alts":[]}},
    {"id":"p43-machine_learning","hanzi":"machine learning","pinyin":"","vi":"học máy","ex":{"tokens":["Machine","learning","helps","doctors","read","scans","."],"py":["","","","","","","."],"vi":"Học máy giúp bác sĩ đọc ảnh chụp.","alts":[]}},
    {"id":"p43-model","hanzi":"model","pinyin":"","vi":"mô hình; người mẫu","ex":{"tokens":["The","model","can","predict","the","weather","."],"py":["","","","","","","."],"vi":"Mô hình có thể dự báo thời tiết.","alts":[]}},
@@ -157,7 +157,7 @@
    {"id":"p43-sensor","hanzi":"sensor","pinyin":"","vi":"cảm biến","ex":{"tokens":["The","sensor","turns","on","the","light","."],"py":["","","","","","","."],"vi":"Cảm biến bật đèn lên.","alts":[]}},
    {"id":"p43-interface","hanzi":"interface","pinyin":"","vi":"giao diện","ex":{"tokens":["The","app","has","a","simple","interface","."],"py":["","","","","","","."],"vi":"Ứng dụng có giao diện đơn giản.","alts":[]}}
   ]},
-  {"id":"p44","title":"An ninh mạng","desc":"Tin tặc, mã hóa, lừa đảo, sao lưu","icon":"Lock","unit":403,"course":"en","order":3040,"words":[
+  {"id":"p44","title":"An ninh mạng","desc":"Tin tặc, mã hóa, lừa đảo, sao lưu","icon":"Lock","unit":403,"course":"en","order":3080,"words":[
    {"id":"p44-hacker","hanzi":"hacker","pinyin":"","vi":"tin tặc","ex":{"tokens":["A","hacker","stole","the","passwords","."],"py":["","","","","","."],"vi":"Một tin tặc đã đánh cắp các mật khẩu.","alts":[]}},
    {"id":"p44-encrypt","hanzi":"encrypt","pinyin":"","vi":"mã hóa","ex":{"tokens":["You","should","encrypt","your","files","."],"py":["","","","","","."],"vi":"Bạn nên mã hóa các tập tin của mình.","alts":[]}},
    {"id":"p44-scam","hanzi":"scam","pinyin":"","vi":"trò lừa đảo","ex":{"tokens":["That","email","is","a","scam","."],"py":["","","","","","."],"vi":"Email đó là một trò lừa đảo.","alts":[]}},
@@ -171,7 +171,7 @@
    {"id":"p44-surveillance","hanzi":"surveillance","pinyin":"","vi":"sự giám sát","ex":{"tokens":["The","shop","has","video","surveillance","."],"py":["","","","","","."],"vi":"Cửa hàng có camera giám sát.","alts":[]}},
    {"id":"p44-log_in","hanzi":"log in","pinyin":"","vi":"đăng nhập","ex":{"tokens":["Please","log","in","with","your","email","."],"py":["","","","","","","."],"vi":"Vui lòng đăng nhập bằng email của bạn.","alts":[]}}
   ]},
-  {"id":"p45","title":"Công nghệ sinh học","desc":"Biến đổi gen, tế bào gốc, vi khuẩn, lên men","icon":"Gen","unit":403,"course":"en","order":3050,"words":[
+  {"id":"p45","title":"Công nghệ sinh học","desc":"Biến đổi gen, tế bào gốc, vi khuẩn, lên men","icon":"Gen","unit":403,"course":"en","order":3090,"words":[
    {"id":"p45-biotechnology","hanzi":"biotechnology","pinyin":"","vi":"công nghệ sinh học","ex":{"tokens":["Biotechnology","helps","farmers","grow","more","food","."],"py":["","","","","","","."],"vi":"Công nghệ sinh học giúp nông dân trồng được nhiều lương thực hơn.","alts":[]}},
    {"id":"p45-modify","hanzi":"modify","pinyin":"","vi":"chỉnh sửa, biến đổi","ex":{"tokens":["Scientists","can","modify","the","genes","of","plants","."],"py":["","","","","","","","."],"vi":"Các nhà khoa học có thể biến đổi gen của cây trồng.","alts":[]}},
    {"id":"p45-stem_cell","hanzi":"stem cell","pinyin":"","vi":"tế bào gốc","ex":{"tokens":["A","stem","cell","can","become","any","other","cell","."],"py":["","","","","","","","","."],"vi":"Tế bào gốc có thể trở thành bất kỳ tế bào nào khác.","alts":[]}},
@@ -185,7 +185,7 @@
    {"id":"p45-yield","hanzi":"yield","pinyin":"","vi":"sản lượng; mang lại","ex":{"tokens":["The","rice","yield","was","high","this","year","."],"py":["","","","","","","","."],"vi":"Sản lượng lúa năm nay cao.","alts":[]}},
    {"id":"p45-resistant","hanzi":"resistant","pinyin":"","vi":"kháng, chống chịu","ex":{"tokens":["This","plant","is","resistant","to","disease","."],"py":["","","","","","","."],"vi":"Loại cây này kháng bệnh.","alts":[]}}
   ]},
-  {"id":"p46","title":"Vật liệu","desc":"Sợi, nhựa, hợp kim, bền, dẻo","icon":"Mat","unit":403,"course":"en","order":3060,"words":[
+  {"id":"p46","title":"Vật liệu","desc":"Sợi, nhựa, hợp kim, bền, dẻo","icon":"Mat","unit":403,"course":"en","order":3100,"words":[
    {"id":"p46-fiber","hanzi":"fiber","pinyin":"","vi":"sợi; chất xơ","ex":{"tokens":["Vegetables","contain","a","lot","of","fiber","."],"py":["","","","","","","."],"vi":"Rau chứa nhiều chất xơ.","alts":[]}},
    {"id":"p46-alloy","hanzi":"alloy","pinyin":"","vi":"hợp kim","ex":{"tokens":["Steel","is","an","alloy","of","iron","."],"py":["","","","","","","."],"vi":"Thép là một hợp kim của sắt.","alts":[]}},
    {"id":"p46-durable","hanzi":"durable","pinyin":"","vi":"bền","ex":{"tokens":["These","shoes","are","very","durable","."],"py":["","","","","","."],"vi":"Đôi giày này rất bền.","alts":[]}},
@@ -199,7 +199,7 @@
    {"id":"p46-layer","hanzi":"layer","pinyin":"","vi":"lớp","ex":{"tokens":["There","is","a","thin","layer","of","dust","on","the","table","."],"py":["","","","","","","","","","","."],"vi":"Có một lớp bụi mỏng trên bàn.","alts":[]}},
    {"id":"p46-surface","hanzi":"surface","pinyin":"","vi":"bề mặt","ex":{"tokens":["The","surface","of","the","lake","is","calm","."],"py":["","","","","","","","."],"vi":"Mặt hồ phẳng lặng.","alts":[]}}
   ]},
-  {"id":"p47","title":"Toán học 1","desc":"Phương trình, phân số, hình học, góc","icon":"Math","unit":403,"course":"en","order":3070,"words":[
+  {"id":"p47","title":"Toán học 1","desc":"Phương trình, phân số, hình học, góc","icon":"Math","unit":403,"course":"en","order":3110,"words":[
    {"id":"p47-equation","hanzi":"equation","pinyin":"","vi":"phương trình","ex":{"tokens":["Can","you","solve","this","equation","?"],"py":["","","","","","?"],"vi":"Bạn có giải được phương trình này không?","alts":[]}},
    {"id":"p47-fraction","hanzi":"fraction","pinyin":"","vi":"phân số; phần nhỏ","ex":{"tokens":["One","half","is","a","simple","fraction","."],"py":["","","","","","","."],"vi":"Một phần hai là một phân số đơn giản.","alts":[]}},
    {"id":"p47-geometry","hanzi":"geometry","pinyin":"","vi":"hình học","ex":{"tokens":["We","learn","about","circles","in","geometry","."],"py":["","","","","","","."],"vi":"Chúng tôi học về hình tròn trong môn hình học.","alts":[]}},
@@ -213,7 +213,7 @@
    {"id":"p47-decimal","hanzi":"decimal","pinyin":"","vi":"số thập phân","ex":{"tokens":["Write","the","answer","as","a","decimal","."],"py":["","","","","","","."],"vi":"Hãy viết đáp số dưới dạng số thập phân.","alts":[]}},
    {"id":"p47-diameter","hanzi":"diameter","pinyin":"","vi":"đường kính","ex":{"tokens":["The","diameter","of","the","table","is","one","meter","."],"py":["","","","","","","","","."],"vi":"Đường kính của cái bàn là một mét.","alts":[]}}
   ]},
-  {"id":"p48","title":"Địa chất","desc":"Đá, trầm tích, mảng kiến tạo, hóa thạch","icon":"Rock","unit":403,"course":"en","order":3080,"words":[
+  {"id":"p48","title":"Địa chất","desc":"Đá, trầm tích, mảng kiến tạo, hóa thạch","icon":"Rock","unit":403,"course":"en","order":3120,"words":[
    {"id":"p48-geology","hanzi":"geology","pinyin":"","vi":"địa chất học","ex":{"tokens":["Geology","is","the","study","of","rocks","."],"py":["","","","","","","."],"vi":"Địa chất học là ngành nghiên cứu về đá.","alts":[]}},
    {"id":"p48-fossil","hanzi":"fossil","pinyin":"","vi":"hóa thạch","ex":{"tokens":["They","found","a","fossil","of","a","fish","."],"py":["","","","","","","","."],"vi":"Họ đã tìm thấy hóa thạch của một con cá.","alts":[]}},
    {"id":"p48-rock","hanzi":"rock","pinyin":"","vi":"đá, tảng đá","ex":{"tokens":["We","sat","on","a","big","rock","by","the","sea","."],"py":["","","","","","","","","","."],"vi":"Chúng tôi ngồi trên một tảng đá lớn bên bờ biển.","alts":[]}},

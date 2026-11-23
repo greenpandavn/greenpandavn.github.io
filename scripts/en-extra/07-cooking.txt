@@ -1,0 +1,60 @@
+# Level 3 (Nâng cao): nấu nướng.
+@3|Kỹ thuật nấu nướng|Các cách chế biến món ăn|Cook
+poach|chần, luộc lòng đào|I like to poach eggs for breakfast.|Tôi thích chần trứng cho bữa sáng.
+blanch|chần sơ qua nước sôi|You should blanch the beans for one minute.|Bạn nên chần đậu trong một phút.
+grate|bào, nạo|Please grate some cheese for the pasta.|Làm ơn bào ít phô mai cho món mì.
+mince|băm nhỏ; thịt băm|You need to mince the garlic first.|Bạn cần băm tỏi trước.
+shred|xé nhỏ, thái sợi|Please shred the chicken with a fork.|Hãy xé nhỏ thịt gà bằng nĩa.
+sear|áp chảo cho xém mặt|You should sear the steak on both sides.|Bạn nên áp chảo miếng bít tết cả hai mặt.
+stew|món hầm; hầm|My mother made beef stew for dinner.|Mẹ tôi nấu thịt bò hầm cho bữa tối.
+stir-fry|xào; món xào|I will stir-fry the vegetables with garlic.|Tôi sẽ xào rau với tỏi.
+deep-fry|chiên ngập dầu|They deep-fry the chicken until it is golden.|Họ chiên ngập dầu thịt gà cho tới khi vàng.
+caramelize|thắng đường, làm chuyển màu caramen|Slowly caramelize the onions in butter.|Hãy từ từ xào hành tây với bơ cho ngả màu caramen.
+glaze|phết lớp bóng; lớp phủ bóng|You can glaze the cake with honey.|Bạn có thể phết mật ong lên bánh cho bóng.
+sift|rây|You must sift the flour before mixing.|Bạn phải rây bột trước khi trộn.
+drain|làm ráo nước; cống thoát nước|You should drain the noodles well.|Bạn nên để mì thật ráo nước.
+mash|nghiền nát|I will mash the potatoes with butter.|Tôi sẽ nghiền khoai tây với bơ.
+puree|món xay nhuyễn; xay nhuyễn|The baby ate carrot puree.|Em bé ăn cà rốt xay nhuyễn.
+fillet|miếng phi lê; lọc phi lê|I bought a salmon fillet.|Tôi mua một miếng phi lê cá hồi.
+skewer|que xiên; xiên|Put the meat on a skewer.|Hãy xiên thịt vào que.
+stuff|nhồi; đồ đạc|We stuff the peppers with rice.|Chúng tôi nhồi cơm vào ớt chuông.
+thaw|rã đông, tan băng|Let the meat thaw in the fridge.|Hãy để thịt rã đông trong tủ lạnh.
+defrost|rã đông|You can defrost the bread in the microwave.|Bạn có thể rã đông bánh mì bằng lò vi sóng.
+preheat|làm nóng lò trước|You should preheat the oven to 180 degrees.|Bạn nên làm nóng lò trước ở 180 độ.
+reheat|hâm nóng lại|I will reheat the soup for lunch.|Tôi sẽ hâm nóng lại súp cho bữa trưa.
+chill|làm lạnh; cái lạnh|You should chill the juice before serving.|Bạn nên làm lạnh nước ép trước khi dùng.
+pickle|dưa muối; muối chua|She added a pickle to my burger.|Cô ấy thêm một miếng dưa muối vào bánh mì kẹp của tôi.
+smoke|hun khói; khói|They smoke the fish over wood.|Họ hun khói cá trên củi.
+tenderize|làm mềm (thịt)|You can tenderize the beef with pineapple.|Bạn có thể làm mềm thịt bò bằng dứa.
+zest|vỏ bào (cam, chanh); sự hào hứng|Add some lemon zest to the cake.|Hãy thêm chút vỏ chanh bào vào bánh.
+baste|rưới mỡ, phết nước sốt (khi nướng)|You should baste the chicken every twenty minutes.|Bạn nên rưới mỡ lên gà mỗi hai mươi phút.
+
+@3|Dụng cụ nhà bếp|Nồi, chảo, đồ dùng trên bàn ăn|Kitchen
+sieve|cái rây|Pour the flour through a sieve.|Hãy đổ bột qua cái rây.
+corkscrew|cái mở nút chai rượu|I need a corkscrew to open the wine.|Tôi cần cái mở nút chai để mở rượu.
+rolling pin|cây cán bột|She flattened the dough with a rolling pin.|Cô ấy cán mỏng bột bằng cây cán bột.
+cutting board|cái thớt|Wash the cutting board after cutting meat.|Hãy rửa thớt sau khi cắt thịt.
+saucepan|cái nồi nhỏ có cán|Heat the milk in a saucepan.|Hãy đun sữa trong một cái nồi nhỏ.
+skillet|chảo rán|He cooked the eggs in a skillet.|Anh ấy rán trứng trong chảo.
+wok|chảo sâu lòng|She fried the rice in a wok.|Cô ấy rang cơm trong chảo sâu lòng.
+casserole|món hầm trong nồi; nồi hầm|We had a chicken casserole for dinner.|Chúng tôi ăn món gà hầm cho bữa tối.
+thermos|bình giữ nhiệt|I carry hot tea in a thermos.|Tôi mang trà nóng trong bình giữ nhiệt.
+mixer|máy trộn, máy đánh trứng|Beat the eggs with a mixer.|Hãy đánh trứng bằng máy trộn.
+steamer|nồi hấp, xửng hấp|Cook the buns in a steamer.|Hãy hấp bánh bao trong xửng hấp.
+pressure cooker|nồi áp suất|Beans cook quickly in a pressure cooker.|Đậu chín nhanh trong nồi áp suất.
+rice cooker|nồi cơm điện|Every Vietnamese kitchen has a rice cooker.|Bếp nhà người Việt nào cũng có nồi cơm điện.
+oven mitt|găng tay lò nướng|Use an oven mitt to take out the tray.|Hãy dùng găng tay lò nướng để lấy khay ra.
+platter|đĩa lớn bày thức ăn|The fruit was served on a large platter.|Trái cây được bày trên một chiếc đĩa lớn.
+saucer|đĩa lót tách|She put the cup back on the saucer.|Cô ấy đặt tách trở lại đĩa lót.
+mug|cái cốc có quai|He drank coffee from a big mug.|Anh ấy uống cà phê bằng một chiếc cốc to.
+pitcher|bình rót nước|There is a pitcher of water on the table.|Có một bình nước trên bàn.
+jug|cái bình có tay cầm|She filled the jug with milk.|Cô ấy đổ đầy sữa vào bình.
+cutlery|bộ dao nĩa thìa|The cutlery is in the top drawer.|Bộ dao nĩa nằm trong ngăn kéo trên cùng.
+teaspoon|thìa cà phê|Add one teaspoon of salt.|Hãy thêm một thìa cà phê muối.
+tablespoon|thìa canh|Add a tablespoon of oil to the pan.|Hãy thêm một thìa canh dầu vào chảo.
+measuring cup|cốc đong|Use a measuring cup for the flour.|Hãy dùng cốc đong để đong bột.
+funnel|cái phễu|Pour the oil into the bottle with a funnel.|Hãy rót dầu vào chai bằng cái phễu.
+cleaver|dao chặt, dao phay|The butcher cut the bone with a cleaver.|Người bán thịt chặt xương bằng dao phay.
+bottle opener|cái mở nắp chai|Do you have a bottle opener?|Bạn có cái mở nắp chai không?
+can opener|cái mở đồ hộp|I cannot find the can opener.|Tôi không tìm thấy cái mở đồ hộp.
+tablecloth|khăn trải bàn|She spread a white tablecloth on the table.|Cô ấy trải một chiếc khăn trắng lên bàn.

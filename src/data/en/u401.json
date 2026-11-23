@@ -1,9 +1,9 @@
 {
  "units": [
-  {"unit":401,"level":4,"title":"Phần 24: Học thuật và nghề nghiệp","desc":"Lập luận, thống kê, quản trị, khởi nghiệp, đạo đức nghề nghiệp","color":"leaf","course":"en"}
+  {"unit":401,"level":4,"title":"Phần 25: Học thuật và nghề nghiệp","desc":"Lập luận, thống kê, quản trị, khởi nghiệp, đạo đức nghề nghiệp","color":"leaf","course":"en"}
  ],
  "lessons": [
-  {"id":"p01","title":"Viết học thuật","desc":"Luận điểm, trích dẫn, tóm tắt, tài liệu tham khảo","icon":"Essay","unit":401,"course":"en","order":2610,"words":[
+  {"id":"p01","title":"Viết học thuật","desc":"Luận điểm, trích dẫn, tóm tắt, tài liệu tham khảo","icon":"Essay","unit":401,"course":"en","order":2650,"words":[
    {"id":"p01-thesis","hanzi":"thesis","pinyin":"","vi":"luận văn, luận điểm chính","ex":{"tokens":["She","is","writing","her","thesis","on","climate","change","."],"py":["","","","","","","","","."],"vi":"Cô ấy đang viết luận văn về biến đổi khí hậu.","alts":[]}},
    {"id":"p01-abstract","hanzi":"abstract","pinyin":"","vi":"bản tóm tắt; trừu tượng","ex":{"tokens":["The","abstract","is","only","two","hundred","words","."],"py":["","","","","","","","."],"vi":"Bản tóm tắt chỉ có hai trăm từ.","alts":[]}},
    {"id":"p01-citation","hanzi":"citation","pinyin":"","vi":"trích dẫn nguồn","ex":{"tokens":["Every","citation","must","include","the","year","."],"py":["","","","","","","."],"vi":"Mọi trích dẫn phải ghi năm.","alts":[]}},
@@ -17,7 +17,7 @@
    {"id":"p01-paragraph","hanzi":"paragraph","pinyin":"","vi":"đoạn văn","ex":{"tokens":["Each","paragraph","needs","one","main","idea","."],"py":["","","","","","","."],"vi":"Mỗi đoạn văn cần một ý chính.","alts":[]}},
    {"id":"p01-conclusion","hanzi":"conclusion","pinyin":"","vi":"kết luận","ex":{"tokens":["The","conclusion","is","too","short","."],"py":["","","","","","."],"vi":"Phần kết luận quá ngắn.","alts":[]}}
   ]},
-  {"id":"p02","title":"Lập luận","desc":"Luận cứ, giả định, phản bác, hợp lý","icon":"Logic","unit":401,"course":"en","order":2620,"words":[
+  {"id":"p02","title":"Lập luận","desc":"Luận cứ, giả định, phản bác, hợp lý","icon":"Logic","unit":401,"course":"en","order":2660,"words":[
    {"id":"p02-argument","hanzi":"argument","pinyin":"","vi":"lập luận, cuộc tranh cãi","ex":{"tokens":["Her","argument","was","clear","and","strong","."],"py":["","","","","","","."],"vi":"Lập luận của cô ấy rõ ràng và chặt chẽ.","alts":[]}},
    {"id":"p02-assumption","hanzi":"assumption","pinyin":"","vi":"giả định","ex":{"tokens":["This","plan","is","based","on","a","wrong","assumption","."],"py":["","","","","","","","","."],"vi":"Kế hoạch này dựa trên một giả định sai.","alts":[]}},
    {"id":"p02-logical","hanzi":"logical","pinyin":"","vi":"hợp logic","ex":{"tokens":["That","is","a","logical","answer","."],"py":["","","","","","."],"vi":"Đó là một câu trả lời hợp logic.","alts":[]}},
@@ -31,7 +31,7 @@
    {"id":"p02-subjective","hanzi":"subjective","pinyin":"","vi":"chủ quan","ex":{"tokens":["Beauty","is","subjective","."],"py":["","","","."],"vi":"Cái đẹp mang tính chủ quan.","alts":[]}},
    {"id":"p02-perspective","hanzi":"perspective","pinyin":"","vi":"góc nhìn, quan điểm","ex":{"tokens":["Try","to","see","it","from","my","perspective","."],"py":["","","","","","","","."],"vi":"Hãy thử nhìn nó từ góc nhìn của tôi.","alts":[]}}
   ]},
-  {"id":"p03","title":"Tư duy phản biện","desc":"Đánh giá, diễn giải, phân biệt, tiêu chí","icon":"Think","unit":401,"course":"en","order":2630,"words":[
+  {"id":"p03","title":"Tư duy phản biện","desc":"Đánh giá, diễn giải, phân biệt, tiêu chí","icon":"Think","unit":401,"course":"en","order":2670,"words":[
    {"id":"p03-evaluate","hanzi":"evaluate","pinyin":"","vi":"đánh giá","ex":{"tokens":["We","need","to","evaluate","the","results","."],"py":["","","","","","","."],"vi":"Chúng ta cần đánh giá kết quả.","alts":[]}},
    {"id":"p03-interpret","hanzi":"interpret","pinyin":"","vi":"diễn giải, phiên dịch","ex":{"tokens":["How","do","you","interpret","this","poem","?"],"py":["","","","","","","?"],"vi":"Bạn hiểu bài thơ này như thế nào?","alts":[]}},
    {"id":"p03-distinguish","hanzi":"distinguish","pinyin":"","vi":"phân biệt","ex":{"tokens":["Can","you","distinguish","fact","from","opinion","?"],"py":["","","","","","","?"],"vi":"Bạn có thể phân biệt sự thật với ý kiến không?","alts":[]}},
@@ -45,7 +45,7 @@
    {"id":"p03-reasoning","hanzi":"reasoning","pinyin":"","vi":"sự lập luận","ex":{"tokens":["I","cannot","follow","your","reasoning","."],"py":["","","","","","."],"vi":"Tôi không theo kịp lập luận của bạn.","alts":[]}},
    {"id":"p03-skeptical","hanzi":"skeptical","pinyin":"","vi":"hoài nghi","ex":{"tokens":["I","am","skeptical","about","his","promise","."],"py":["","","","","","","."],"vi":"Tôi hoài nghi về lời hứa của anh ấy.","alts":[]}}
   ]},
-  {"id":"p04","title":"Thống kê","desc":"Tỷ lệ, mẫu, xác suất, biểu đồ","icon":"Stat","unit":401,"course":"en","order":2640,"words":[
+  {"id":"p04","title":"Thống kê","desc":"Tỷ lệ, mẫu, xác suất, biểu đồ","icon":"Stat","unit":401,"course":"en","order":2680,"words":[
    {"id":"p04-statistics","hanzi":"statistics","pinyin":"","vi":"số liệu thống kê","ex":{"tokens":["The","statistics","show","a","clear","change","."],"py":["","","","","","","."],"vi":"Số liệu thống kê cho thấy một thay đổi rõ ràng.","alts":[]}},
    {"id":"p04-proportion","hanzi":"proportion","pinyin":"","vi":"tỷ lệ, phần","ex":{"tokens":["A","large","proportion","of","the","class","passed","."],"py":["","","","","","","","."],"vi":"Phần lớn lớp đã thi đỗ.","alts":[]}},
    {"id":"p04-probability","hanzi":"probability","pinyin":"","vi":"xác suất","ex":{"tokens":["The","probability","of","rain","is","low","today","."],"py":["","","","","","","","."],"vi":"Xác suất mưa hôm nay thấp.","alts":[]}},
@@ -59,7 +59,7 @@
    {"id":"p04-ratio","hanzi":"ratio","pinyin":"","vi":"tỷ số","ex":{"tokens":["The","ratio","of","boys","to","girls","is","equal","."],"py":["","","","","","","","","."],"vi":"Tỷ số nam và nữ bằng nhau.","alts":[]}},
    {"id":"p04-variable","hanzi":"variable","pinyin":"","vi":"biến số; hay thay đổi","ex":{"tokens":["Temperature","is","an","important","variable","here","."],"py":["","","","","","","."],"vi":"Nhiệt độ là một biến số quan trọng ở đây.","alts":[]}}
   ]},
-  {"id":"p05","title":"Quản trị","desc":"Điều hành, ủy quyền, giám sát, cơ cấu","icon":"Mgmt","unit":401,"course":"en","order":2650,"words":[
+  {"id":"p05","title":"Quản trị","desc":"Điều hành, ủy quyền, giám sát, cơ cấu","icon":"Mgmt","unit":401,"course":"en","order":2690,"words":[
    {"id":"p05-executive","hanzi":"executive","pinyin":"","vi":"giám đốc điều hành, lãnh đạo cấp cao","ex":{"tokens":["She","is","a","senior","executive","at","a","bank","."],"py":["","","","","","","","","."],"vi":"Cô ấy là lãnh đạo cấp cao tại một ngân hàng.","alts":[]}},
    {"id":"p05-delegate","hanzi":"delegate","pinyin":"","vi":"ủy quyền, giao việc","ex":{"tokens":["A","good","manager","knows","how","to","delegate","."],"py":["","","","","","","","."],"vi":"Một quản lý giỏi biết cách giao việc.","alts":[]}},
    {"id":"p05-oversee","hanzi":"oversee","pinyin":"","vi":"giám sát","ex":{"tokens":["He","will","oversee","the","whole","project","."],"py":["","","","","","","."],"vi":"Anh ấy sẽ giám sát toàn bộ dự án.","alts":[]}},
@@ -73,7 +73,7 @@
    {"id":"p05-stakeholder","hanzi":"stakeholder","pinyin":"","vi":"bên liên quan","ex":{"tokens":["Every","stakeholder","was","invited","to","the","meeting","."],"py":["","","","","","","","."],"vi":"Mọi bên liên quan đều được mời đến cuộc họp.","alts":[]}},
    {"id":"p05-accountable","hanzi":"accountable","pinyin":"","vi":"chịu trách nhiệm giải trình","ex":{"tokens":["Managers","are","accountable","for","their","teams","."],"py":["","","","","","","."],"vi":"Các quản lý phải chịu trách nhiệm về nhóm của mình.","alts":[]}}
   ]},
-  {"id":"p06","title":"Khởi nghiệp","desc":"Doanh nhân, vốn, rủi ro, mở rộng","icon":"Start","unit":401,"course":"en","order":2660,"words":[
+  {"id":"p06","title":"Khởi nghiệp","desc":"Doanh nhân, vốn, rủi ro, mở rộng","icon":"Start","unit":401,"course":"en","order":2700,"words":[
    {"id":"p06-entrepreneur","hanzi":"entrepreneur","pinyin":"","vi":"doanh nhân khởi nghiệp","ex":{"tokens":["The","young","entrepreneur","started","three","companies","."],"py":["","","","","","","."],"vi":"Doanh nhân trẻ đã lập ba công ty.","alts":[]}},
    {"id":"p06-startup","hanzi":"startup","pinyin":"","vi":"công ty khởi nghiệp","ex":{"tokens":["She","works","for","a","small","startup","."],"py":["","","","","","","."],"vi":"Cô ấy làm việc cho một công ty khởi nghiệp nhỏ.","alts":[]}},
    {"id":"p06-investor","hanzi":"investor","pinyin":"","vi":"nhà đầu tư","ex":{"tokens":["We","are","looking","for","an","investor","."],"py":["","","","","","","."],"vi":"Chúng tôi đang tìm một nhà đầu tư.","alts":[]}},
@@ -87,7 +87,7 @@
    {"id":"p06-franchise","hanzi":"franchise","pinyin":"","vi":"nhượng quyền thương mại","ex":{"tokens":["He","bought","a","fast","food","franchise","."],"py":["","","","","","","."],"vi":"Anh ấy đã mua quyền kinh doanh một chuỗi đồ ăn nhanh.","alts":[]}},
    {"id":"p06-bankrupt","hanzi":"bankrupt","pinyin":"","vi":"phá sản","ex":{"tokens":["The","company","went","bankrupt","last","year","."],"py":["","","","","","","."],"vi":"Công ty đã phá sản năm ngoái.","alts":[]}}
   ]},
-  {"id":"p07","title":"Tài chính chuyên sâu","desc":"Cổ phiếu, tài sản, lạm phát, kế toán","icon":"Fin","unit":401,"course":"en","order":2670,"words":[
+  {"id":"p07","title":"Tài chính chuyên sâu","desc":"Cổ phiếu, tài sản, lạm phát, kế toán","icon":"Fin","unit":401,"course":"en","order":2710,"words":[
    {"id":"p07-stock","hanzi":"stock","pinyin":"","vi":"cổ phiếu, hàng tồn kho","ex":{"tokens":["He","bought","stock","in","a","tech","company","."],"py":["","","","","","","","."],"vi":"Anh ấy đã mua cổ phiếu của một công ty công nghệ.","alts":[]}},
    {"id":"p07-shareholder","hanzi":"shareholder","pinyin":"","vi":"cổ đông","ex":{"tokens":["Each","shareholder","gets","one","vote","."],"py":["","","","","","."],"vi":"Mỗi cổ đông có một phiếu bầu.","alts":[]}},
    {"id":"p07-asset","hanzi":"asset","pinyin":"","vi":"tài sản","ex":{"tokens":["Our","staff","are","our","greatest","asset","."],"py":["","","","","","","."],"vi":"Nhân viên là tài sản lớn nhất của chúng tôi.","alts":[]}},
@@ -101,7 +101,7 @@
    {"id":"p07-fiscal","hanzi":"fiscal","pinyin":"","vi":"thuộc tài khóa","ex":{"tokens":["The","fiscal","year","ends","in","December","."],"py":["","","","","","","."],"vi":"Năm tài khóa kết thúc vào tháng Mười Hai.","alts":[]}},
    {"id":"p07-deficit","hanzi":"deficit","pinyin":"","vi":"thâm hụt","ex":{"tokens":["The","country","has","a","large","trade","deficit","."],"py":["","","","","","","","."],"vi":"Nước này có thâm hụt thương mại lớn.","alts":[]}}
   ]},
-  {"id":"p08","title":"Hợp đồng và pháp lý","desc":"Điều khoản, nghĩa vụ, vi phạm, bồi thường","icon":"Sign","unit":401,"course":"en","order":2680,"words":[
+  {"id":"p08","title":"Hợp đồng và pháp lý","desc":"Điều khoản, nghĩa vụ, vi phạm, bồi thường","icon":"Sign","unit":401,"course":"en","order":2720,"words":[
    {"id":"p08-clause","hanzi":"clause","pinyin":"","vi":"điều khoản; mệnh đề","ex":{"tokens":["Read","this","clause","before","you","sign","."],"py":["","","","","","","."],"vi":"Hãy đọc điều khoản này trước khi ký.","alts":[]}},
    {"id":"p08-obligation","hanzi":"obligation","pinyin":"","vi":"nghĩa vụ","ex":{"tokens":["You","have","no","obligation","to","buy","."],"py":["","","","","","","."],"vi":"Bạn không có nghĩa vụ phải mua.","alts":[]}},
    {"id":"p08-breach","hanzi":"breach","pinyin":"","vi":"sự vi phạm","ex":{"tokens":["This","is","a","breach","of","the","contract","."],"py":["","","","","","","","."],"vi":"Đây là một sự vi phạm hợp đồng.","alts":[]}},
@@ -115,7 +115,7 @@
    {"id":"p08-copyright","hanzi":"copyright","pinyin":"","vi":"bản quyền","ex":{"tokens":["The","song","is","protected","by","copyright","."],"py":["","","","","","","."],"vi":"Bài hát được bảo vệ bản quyền.","alts":[]}},
    {"id":"p08-patent","hanzi":"patent","pinyin":"","vi":"bằng sáng chế","ex":{"tokens":["She","holds","a","patent","for","the","device","."],"py":["","","","","","","","."],"vi":"Cô ấy giữ bằng sáng chế cho thiết bị này.","alts":[]}}
   ]},
-  {"id":"p09","title":"Nhân sự","desc":"Tuyển dụng, sa thải, đánh giá, phúc lợi","icon":"HR","unit":401,"course":"en","order":2690,"words":[
+  {"id":"p09","title":"Nhân sự","desc":"Tuyển dụng, sa thải, đánh giá, phúc lợi","icon":"HR","unit":401,"course":"en","order":2730,"words":[
    {"id":"p09-recruit","hanzi":"recruit","pinyin":"","vi":"tuyển dụng","ex":{"tokens":["We","need","to","recruit","five","engineers","."],"py":["","","","","","","."],"vi":"Chúng tôi cần tuyển năm kỹ sư.","alts":[]}},
    {"id":"p09-dismiss","hanzi":"dismiss","pinyin":"","vi":"sa thải, gạt bỏ","ex":{"tokens":["They","had","to","dismiss","two","workers","."],"py":["","","","","","","."],"vi":"Họ đã phải sa thải hai công nhân.","alts":[]}},
    {"id":"p09-appraisal","hanzi":"appraisal","pinyin":"","vi":"sự đánh giá (nhân viên)","ex":{"tokens":["My","annual","appraisal","is","next","week","."],"py":["","","","","","","."],"vi":"Buổi đánh giá hằng năm của tôi là vào tuần sau.","alts":[]}},
@@ -129,7 +129,7 @@
    {"id":"p09-mentor","hanzi":"mentor","pinyin":"","vi":"người cố vấn, dìu dắt","ex":{"tokens":["My","mentor","taught","me","a","lot","."],"py":["","","","","","","."],"vi":"Người cố vấn đã dạy tôi rất nhiều.","alts":[]}},
    {"id":"p09-turnover","hanzi":"turnover","pinyin":"","vi":"doanh số; tỷ lệ nghỉ việc","ex":{"tokens":["Staff","turnover","is","very","low","here","."],"py":["","","","","","","."],"vi":"Tỷ lệ nghỉ việc ở đây rất thấp.","alts":[]}}
   ]},
-  {"id":"p10","title":"Chuỗi cung ứng","desc":"Kho hàng, vận chuyển, hàng tồn, nhà cung cấp","icon":"Ship","unit":401,"course":"en","order":2700,"words":[
+  {"id":"p10","title":"Chuỗi cung ứng","desc":"Kho hàng, vận chuyển, hàng tồn, nhà cung cấp","icon":"Ship","unit":401,"course":"en","order":2740,"words":[
    {"id":"p10-logistics","hanzi":"logistics","pinyin":"","vi":"hậu cần, logistics","ex":{"tokens":["Logistics","is","the","hardest","part","of","the","event","."],"py":["","","","","","","","","."],"vi":"Hậu cần là phần khó nhất của sự kiện.","alts":[]}},
    {"id":"p10-warehouse","hanzi":"warehouse","pinyin":"","vi":"nhà kho","ex":{"tokens":["The","goods","are","stored","in","a","warehouse","."],"py":["","","","","","","","."],"vi":"Hàng hóa được cất trong nhà kho.","alts":[]}},
    {"id":"p10-inventory","hanzi":"inventory","pinyin":"","vi":"hàng tồn kho","ex":{"tokens":["We","check","the","inventory","every","month","."],"py":["","","","","","","."],"vi":"Chúng tôi kiểm tra hàng tồn kho hằng tháng.","alts":[]}},
@@ -143,7 +143,7 @@
    {"id":"p10-freight","hanzi":"freight","pinyin":"","vi":"hàng hóa vận chuyển, cước vận chuyển","ex":{"tokens":["Freight","costs","went","up","this","year","."],"py":["","","","","","","."],"vi":"Cước vận chuyển đã tăng trong năm nay.","alts":[]}},
    {"id":"p10-bulk","hanzi":"bulk","pinyin":"","vi":"số lượng lớn","ex":{"tokens":["It","is","cheaper","to","buy","in","bulk","."],"py":["","","","","","","","."],"vi":"Mua số lượng lớn thì rẻ hơn.","alts":[]}}
   ]},
-  {"id":"p11","title":"Đổi mới","desc":"Đột phá, nguyên mẫu, tiên phong, lỗi thời","icon":"New","unit":401,"course":"en","order":2710,"words":[
+  {"id":"p11","title":"Đổi mới","desc":"Đột phá, nguyên mẫu, tiên phong, lỗi thời","icon":"New","unit":401,"course":"en","order":2750,"words":[
    {"id":"p11-breakthrough","hanzi":"breakthrough","pinyin":"","vi":"bước đột phá","ex":{"tokens":["The","new","medicine","is","a","real","breakthrough","."],"py":["","","","","","","","."],"vi":"Loại thuốc mới là một bước đột phá thật sự.","alts":[]}},
    {"id":"p11-prototype","hanzi":"prototype","pinyin":"","vi":"nguyên mẫu","ex":{"tokens":["They","built","a","prototype","of","the","car","."],"py":["","","","","","","","."],"vi":"Họ đã chế tạo một nguyên mẫu của chiếc xe.","alts":[]}},
    {"id":"p11-pioneer","hanzi":"pioneer","pinyin":"","vi":"người tiên phong","ex":{"tokens":["She","was","a","pioneer","in","computer","science","."],"py":["","","","","","","","."],"vi":"Bà ấy là người tiên phong trong khoa học máy tính.","alts":[]}},
@@ -157,7 +157,7 @@
    {"id":"p11-automate","hanzi":"automate","pinyin":"","vi":"tự động hóa","ex":{"tokens":["Factories","automate","more","work","every","year","."],"py":["","","","","","","."],"vi":"Các nhà máy tự động hóa ngày càng nhiều công việc.","alts":[]}},
    {"id":"p11-disrupt","hanzi":"disrupt","pinyin":"","vi":"làm gián đoạn, phá vỡ","ex":{"tokens":["Heavy","rain","can","disrupt","traffic","."],"py":["","","","","","."],"vi":"Mưa lớn có thể làm gián đoạn giao thông.","alts":[]}}
   ]},
-  {"id":"p12","title":"Đạo đức","desc":"Liêm chính, minh bạch, tham nhũng, hối lộ","icon":"Good","unit":401,"course":"en","order":2720,"words":[
+  {"id":"p12","title":"Đạo đức","desc":"Liêm chính, minh bạch, tham nhũng, hối lộ","icon":"Good","unit":401,"course":"en","order":2760,"words":[
    {"id":"p12-ethics","hanzi":"ethics","pinyin":"","vi":"đạo đức (nghề nghiệp)","ex":{"tokens":["Medical","ethics","is","taught","at","university","."],"py":["","","","","","","."],"vi":"Đạo đức y khoa được dạy ở đại học.","alts":[]}},
    {"id":"p12-integrity","hanzi":"integrity","pinyin":"","vi":"sự chính trực, liêm chính","ex":{"tokens":["He","is","a","man","of","integrity","."],"py":["","","","","","","."],"vi":"Ông ấy là một người chính trực.","alts":[]}},
    {"id":"p12-transparent","hanzi":"transparent","pinyin":"","vi":"minh bạch; trong suốt","ex":{"tokens":["The","process","must","be","transparent","."],"py":["","","","","","."],"vi":"Quy trình phải minh bạch.","alts":[]}},
@@ -171,7 +171,7 @@
    {"id":"p12-exploit","hanzi":"exploit","pinyin":"","vi":"bóc lột, khai thác","ex":{"tokens":["Some","factories","exploit","their","workers","."],"py":["","","","","","."],"vi":"Một số nhà máy bóc lột công nhân.","alts":[]}},
    {"id":"p12-dignity","hanzi":"dignity","pinyin":"","vi":"phẩm giá","ex":{"tokens":["Every","person","deserves","dignity","."],"py":["","","","","."],"vi":"Mỗi người đều xứng đáng được tôn trọng phẩm giá.","alts":[]}}
   ]},
-  {"id":"p13","title":"Thuyết trình","desc":"Diễn giả, trình chiếu, nhấn mạnh, minh họa","icon":"Talk","unit":401,"course":"en","order":2730,"words":[
+  {"id":"p13","title":"Thuyết trình","desc":"Diễn giả, trình chiếu, nhấn mạnh, minh họa","icon":"Talk","unit":401,"course":"en","order":2770,"words":[
    {"id":"p13-presentation","hanzi":"presentation","pinyin":"","vi":"bài thuyết trình","ex":{"tokens":["My","presentation","is","at","ten","tomorrow","."],"py":["","","","","","","."],"vi":"Bài thuyết trình của tôi vào mười giờ ngày mai.","alts":[]}},
    {"id":"p13-speaker","hanzi":"speaker","pinyin":"","vi":"diễn giả, người nói; loa","ex":{"tokens":["The","speaker","told","a","funny","story","."],"py":["","","","","","","."],"vi":"Diễn giả đã kể một câu chuyện vui.","alts":[]}},
    {"id":"p13-slide","hanzi":"slide","pinyin":"","vi":"trang chiếu; trượt","ex":{"tokens":["The","next","slide","shows","our","plan","."],"py":["","","","","","","."],"vi":"Trang chiếu tiếp theo thể hiện kế hoạch của chúng tôi.","alts":[]}},
@@ -185,7 +185,7 @@
    {"id":"p13-fluent","hanzi":"fluent","pinyin":"","vi":"trôi chảy","ex":{"tokens":["She","is","fluent","in","three","languages","."],"py":["","","","","","","."],"vi":"Cô ấy nói trôi chảy ba thứ tiếng.","alts":[]}},
    {"id":"p13-handout","hanzi":"handout","pinyin":"","vi":"tài liệu phát tay","ex":{"tokens":["Please","take","a","handout","before","you","sit","down","."],"py":["","","","","","","","","."],"vi":"Vui lòng lấy tài liệu phát tay trước khi ngồi.","alts":[]}}
   ]},
-  {"id":"p14","title":"Động từ học thuật","desc":"Thu được, duy trì, cho thấy, bao gồm","icon":"Verb","unit":401,"course":"en","order":2740,"words":[
+  {"id":"p14","title":"Động từ học thuật","desc":"Thu được, duy trì, cho thấy, bao gồm","icon":"Verb","unit":401,"course":"en","order":2780,"words":[
    {"id":"p14-obtain","hanzi":"obtain","pinyin":"","vi":"thu được, đạt được","ex":{"tokens":["You","can","obtain","a","form","at","the","office","."],"py":["","","","","","","","","."],"vi":"Bạn có thể lấy mẫu đơn tại văn phòng.","alts":[]}},
    {"id":"p14-maintain","hanzi":"maintain","pinyin":"","vi":"duy trì, bảo dưỡng","ex":{"tokens":["It","is","hard","to","maintain","a","healthy","weight","."],"py":["","","","","","","","","."],"vi":"Duy trì cân nặng khỏe mạnh là điều khó.","alts":[]}},
    {"id":"p14-indicate","hanzi":"indicate","pinyin":"","vi":"chỉ ra, cho thấy","ex":{"tokens":["The","results","indicate","a","serious","problem","."],"py":["","","","","","","."],"vi":"Kết quả cho thấy một vấn đề nghiêm trọng.","alts":[]}},
@@ -199,7 +199,7 @@
    {"id":"p14-ensure","hanzi":"ensure","pinyin":"","vi":"đảm bảo","ex":{"tokens":["Please","ensure","that","the","door","is","locked","."],"py":["","","","","","","","."],"vi":"Vui lòng đảm bảo rằng cửa đã khóa.","alts":[]}},
    {"id":"p14-exceed","hanzi":"exceed","pinyin":"","vi":"vượt quá","ex":{"tokens":["Do","not","exceed","the","speed","limit","."],"py":["","","","","","","."],"vi":"Đừng vượt quá giới hạn tốc độ.","alts":[]}}
   ]},
-  {"id":"p15","title":"Từ trang trọng","desc":"Bắt đầu, mua, hỗ trợ, đủ","icon":"Sir","unit":401,"course":"en","order":2750,"words":[
+  {"id":"p15","title":"Từ trang trọng","desc":"Bắt đầu, mua, hỗ trợ, đủ","icon":"Sir","unit":401,"course":"en","order":2790,"words":[
    {"id":"p15-commence","hanzi":"commence","pinyin":"","vi":"bắt đầu (trang trọng)","ex":{"tokens":["The","meeting","will","commence","at","nine","."],"py":["","","","","","","."],"vi":"Cuộc họp sẽ bắt đầu lúc chín giờ.","alts":[]}},
    {"id":"p15-sufficient","hanzi":"sufficient","pinyin":"","vi":"đủ","ex":{"tokens":["We","have","sufficient","time","to","finish","."],"py":["","","","","","","."],"vi":"Chúng ta có đủ thời gian để hoàn thành.","alts":[]}},
    {"id":"p15-assistance","hanzi":"assistance","pinyin":"","vi":"sự hỗ trợ","ex":{"tokens":["Do","you","need","any","assistance","?"],"py":["","","","","","?"],"vi":"Bạn có cần hỗ trợ gì không?","alts":[]}},
@@ -213,7 +213,7 @@
    {"id":"p15-additional","hanzi":"additional","pinyin":"","vi":"bổ sung, thêm","ex":{"tokens":["There","is","an","additional","charge","for","bags","."],"py":["","","","","","","","."],"vi":"Có phụ phí cho hành lý.","alts":[]}},
    {"id":"p15-subsequent","hanzi":"subsequent","pinyin":"","vi":"tiếp theo, sau đó","ex":{"tokens":["The","subsequent","meeting","was","much","shorter","."],"py":["","","","","","","."],"vi":"Cuộc họp sau đó ngắn hơn nhiều.","alts":[]}}
   ]},
-  {"id":"p16","title":"Sự nghiệp và thành tựu","desc":"Uy tín, cống hiến, xuất sắc, kiên trì","icon":"Top","unit":401,"course":"en","order":2760,"words":[
+  {"id":"p16","title":"Sự nghiệp và thành tựu","desc":"Uy tín, cống hiến, xuất sắc, kiên trì","icon":"Top","unit":401,"course":"en","order":2800,"words":[
    {"id":"p16-reputation","hanzi":"reputation","pinyin":"","vi":"danh tiếng, uy tín","ex":{"tokens":["The","school","has","a","good","reputation","."],"py":["","","","","","","."],"vi":"Ngôi trường có danh tiếng tốt.","alts":[]}},
    {"id":"p16-dedication","hanzi":"dedication","pinyin":"","vi":"sự tận tụy, cống hiến","ex":{"tokens":["Thank","you","for","your","dedication","."],"py":["","","","","","."],"vi":"Cảm ơn sự tận tụy của bạn.","alts":[]}},
    {"id":"p16-outstanding","hanzi":"outstanding","pinyin":"","vi":"xuất sắc, nổi bật","ex":{"tokens":["She","did","an","outstanding","job","."],"py":["","","","","","."],"vi":"Cô ấy đã làm việc rất xuất sắc.","alts":[]}},

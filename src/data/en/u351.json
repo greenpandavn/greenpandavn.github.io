@@ -1,0 +1,71 @@
+{
+ "units": [
+  {"unit":351,"level":3,"title":"Phần 24: Mở rộng – Kỹ thuật nấu nướng","desc":"Kỹ thuật nấu nướng, Dụng cụ nhà bếp","color":"leaf","course":"en"}
+ ],
+ "lessons": [
+  {"id":"y3001","title":"Kỹ thuật nấu nướng 1","desc":"Các cách chế biến món ăn","icon":"Cook","unit":351,"course":"en","order":2610,"words":[
+   {"id":"y3001-poach","hanzi":"poach","pinyin":"","vi":"chần, luộc lòng đào","ex":{"tokens":["I","like","to","poach","eggs","for","breakfast","."],"py":["","","","","","","","."],"vi":"Tôi thích chần trứng cho bữa sáng.","alts":[]}},
+   {"id":"y3001-blanch","hanzi":"blanch","pinyin":"","vi":"chần sơ qua nước sôi","ex":{"tokens":["You","should","blanch","the","beans","for","one","minute","."],"py":["","","","","","","","","."],"vi":"Bạn nên chần đậu trong một phút.","alts":[]}},
+   {"id":"y3001-grate","hanzi":"grate","pinyin":"","vi":"bào, nạo","ex":{"tokens":["Please","grate","some","cheese","for","the","pasta","."],"py":["","","","","","","","."],"vi":"Làm ơn bào ít phô mai cho món mì.","alts":[]}},
+   {"id":"y3001-mince","hanzi":"mince","pinyin":"","vi":"băm nhỏ; thịt băm","ex":{"tokens":["You","need","to","mince","the","garlic","first","."],"py":["","","","","","","","."],"vi":"Bạn cần băm tỏi trước.","alts":[]}},
+   {"id":"y3001-shred","hanzi":"shred","pinyin":"","vi":"xé nhỏ, thái sợi","ex":{"tokens":["Please","shred","the","chicken","with","a","fork","."],"py":["","","","","","","","."],"vi":"Hãy xé nhỏ thịt gà bằng nĩa.","alts":[]}},
+   {"id":"y3001-sear","hanzi":"sear","pinyin":"","vi":"áp chảo cho xém mặt","ex":{"tokens":["You","should","sear","the","steak","on","both","sides","."],"py":["","","","","","","","","."],"vi":"Bạn nên áp chảo miếng bít tết cả hai mặt.","alts":[]}},
+   {"id":"y3001-stew","hanzi":"stew","pinyin":"","vi":"món hầm; hầm","ex":{"tokens":["My","mother","made","beef","stew","for","dinner","."],"py":["","","","","","","","."],"vi":"Mẹ tôi nấu thịt bò hầm cho bữa tối.","alts":[]}},
+   {"id":"y3001-stir_fry","hanzi":"stir-fry","pinyin":"","vi":"xào; món xào","ex":{"tokens":["I","will","stir-fry","the","vegetables","with","garlic","."],"py":["","","","","","","","."],"vi":"Tôi sẽ xào rau với tỏi.","alts":[]}},
+   {"id":"y3001-deep_fry","hanzi":"deep-fry","pinyin":"","vi":"chiên ngập dầu","ex":{"tokens":["They","deep-fry","the","chicken","until","it","is","golden","."],"py":["","","","","","","","","."],"vi":"Họ chiên ngập dầu thịt gà cho tới khi vàng.","alts":[]}},
+   {"id":"y3001-caramelize","hanzi":"caramelize","pinyin":"","vi":"thắng đường, làm chuyển màu caramen","ex":{"tokens":["Slowly","caramelize","the","onions","in","butter","."],"py":["","","","","","","."],"vi":"Hãy từ từ xào hành tây với bơ cho ngả màu caramen.","alts":[]}},
+   {"id":"y3001-glaze","hanzi":"glaze","pinyin":"","vi":"phết lớp bóng; lớp phủ bóng","ex":{"tokens":["You","can","glaze","the","cake","with","honey","."],"py":["","","","","","","","."],"vi":"Bạn có thể phết mật ong lên bánh cho bóng.","alts":[]}},
+   {"id":"y3001-sift","hanzi":"sift","pinyin":"","vi":"rây","ex":{"tokens":["You","must","sift","the","flour","before","mixing","."],"py":["","","","","","","","."],"vi":"Bạn phải rây bột trước khi trộn.","alts":[]}},
+   {"id":"y3001-drain","hanzi":"drain","pinyin":"","vi":"làm ráo nước; cống thoát nước","ex":{"tokens":["You","should","drain","the","noodles","well","."],"py":["","","","","","","."],"vi":"Bạn nên để mì thật ráo nước.","alts":[]}},
+   {"id":"y3001-mash","hanzi":"mash","pinyin":"","vi":"nghiền nát","ex":{"tokens":["I","will","mash","the","potatoes","with","butter","."],"py":["","","","","","","","."],"vi":"Tôi sẽ nghiền khoai tây với bơ.","alts":[]}}
+  ]},
+  {"id":"y3002","title":"Kỹ thuật nấu nướng 2","desc":"Các cách chế biến món ăn","icon":"Cook","unit":351,"course":"en","order":2620,"words":[
+   {"id":"y3002-puree","hanzi":"puree","pinyin":"","vi":"món xay nhuyễn; xay nhuyễn","ex":{"tokens":["The","baby","ate","carrot","puree","."],"py":["","","","","","."],"vi":"Em bé ăn cà rốt xay nhuyễn.","alts":[]}},
+   {"id":"y3002-fillet","hanzi":"fillet","pinyin":"","vi":"miếng phi lê; lọc phi lê","ex":{"tokens":["I","bought","a","salmon","fillet","."],"py":["","","","","","."],"vi":"Tôi mua một miếng phi lê cá hồi.","alts":[]}},
+   {"id":"y3002-skewer","hanzi":"skewer","pinyin":"","vi":"que xiên; xiên","ex":{"tokens":["Put","the","meat","on","a","skewer","."],"py":["","","","","","","."],"vi":"Hãy xiên thịt vào que.","alts":[]}},
+   {"id":"y3002-stuff","hanzi":"stuff","pinyin":"","vi":"nhồi; đồ đạc","ex":{"tokens":["We","stuff","the","peppers","with","rice","."],"py":["","","","","","","."],"vi":"Chúng tôi nhồi cơm vào ớt chuông.","alts":[]}},
+   {"id":"y3002-thaw","hanzi":"thaw","pinyin":"","vi":"rã đông, tan băng","ex":{"tokens":["Let","the","meat","thaw","in","the","fridge","."],"py":["","","","","","","","."],"vi":"Hãy để thịt rã đông trong tủ lạnh.","alts":[]}},
+   {"id":"y3002-defrost","hanzi":"defrost","pinyin":"","vi":"rã đông","ex":{"tokens":["You","can","defrost","the","bread","in","the","microwave","."],"py":["","","","","","","","","."],"vi":"Bạn có thể rã đông bánh mì bằng lò vi sóng.","alts":[]}},
+   {"id":"y3002-preheat","hanzi":"preheat","pinyin":"","vi":"làm nóng lò trước","ex":{"tokens":["You","should","preheat","the","oven","to","180","degrees","."],"py":["","","","","","","","","."],"vi":"Bạn nên làm nóng lò trước ở 180 độ.","alts":[]}},
+   {"id":"y3002-reheat","hanzi":"reheat","pinyin":"","vi":"hâm nóng lại","ex":{"tokens":["I","will","reheat","the","soup","for","lunch","."],"py":["","","","","","","","."],"vi":"Tôi sẽ hâm nóng lại súp cho bữa trưa.","alts":[]}},
+   {"id":"y3002-chill","hanzi":"chill","pinyin":"","vi":"làm lạnh; cái lạnh","ex":{"tokens":["You","should","chill","the","juice","before","serving","."],"py":["","","","","","","","."],"vi":"Bạn nên làm lạnh nước ép trước khi dùng.","alts":[]}},
+   {"id":"y3002-pickle","hanzi":"pickle","pinyin":"","vi":"dưa muối; muối chua","ex":{"tokens":["She","added","a","pickle","to","my","burger","."],"py":["","","","","","","","."],"vi":"Cô ấy thêm một miếng dưa muối vào bánh mì kẹp của tôi.","alts":[]}},
+   {"id":"y3002-smoke","hanzi":"smoke","pinyin":"","vi":"hun khói; khói","ex":{"tokens":["They","smoke","the","fish","over","wood","."],"py":["","","","","","","."],"vi":"Họ hun khói cá trên củi.","alts":[]}},
+   {"id":"y3002-tenderize","hanzi":"tenderize","pinyin":"","vi":"làm mềm (thịt)","ex":{"tokens":["You","can","tenderize","the","beef","with","pineapple","."],"py":["","","","","","","","."],"vi":"Bạn có thể làm mềm thịt bò bằng dứa.","alts":[]}},
+   {"id":"y3002-zest","hanzi":"zest","pinyin":"","vi":"vỏ bào (cam, chanh); sự hào hứng","ex":{"tokens":["Add","some","lemon","zest","to","the","cake","."],"py":["","","","","","","","."],"vi":"Hãy thêm chút vỏ chanh bào vào bánh.","alts":[]}},
+   {"id":"y3002-baste","hanzi":"baste","pinyin":"","vi":"rưới mỡ, phết nước sốt (khi nướng)","ex":{"tokens":["You","should","baste","the","chicken","every","twenty","minutes","."],"py":["","","","","","","","","."],"vi":"Bạn nên rưới mỡ lên gà mỗi hai mươi phút.","alts":[]}}
+  ]},
+  {"id":"y3003","title":"Dụng cụ nhà bếp 1","desc":"Nồi, chảo, đồ dùng trên bàn ăn","icon":"Kitchen","unit":351,"course":"en","order":2630,"words":[
+   {"id":"y3003-sieve","hanzi":"sieve","pinyin":"","vi":"cái rây","ex":{"tokens":["Pour","the","flour","through","a","sieve","."],"py":["","","","","","","."],"vi":"Hãy đổ bột qua cái rây.","alts":[]}},
+   {"id":"y3003-corkscrew","hanzi":"corkscrew","pinyin":"","vi":"cái mở nút chai rượu","ex":{"tokens":["I","need","a","corkscrew","to","open","the","wine","."],"py":["","","","","","","","","."],"vi":"Tôi cần cái mở nút chai để mở rượu.","alts":[]}},
+   {"id":"y3003-rolling_pin","hanzi":"rolling pin","pinyin":"","vi":"cây cán bột","ex":{"tokens":["She","flattened","the","dough","with","a","rolling","pin","."],"py":["","","","","","","","","."],"vi":"Cô ấy cán mỏng bột bằng cây cán bột.","alts":[]}},
+   {"id":"y3003-cutting_board","hanzi":"cutting board","pinyin":"","vi":"cái thớt","ex":{"tokens":["Wash","the","cutting","board","after","cutting","meat","."],"py":["","","","","","","","."],"vi":"Hãy rửa thớt sau khi cắt thịt.","alts":[]}},
+   {"id":"y3003-saucepan","hanzi":"saucepan","pinyin":"","vi":"cái nồi nhỏ có cán","ex":{"tokens":["Heat","the","milk","in","a","saucepan","."],"py":["","","","","","","."],"vi":"Hãy đun sữa trong một cái nồi nhỏ.","alts":[]}},
+   {"id":"y3003-skillet","hanzi":"skillet","pinyin":"","vi":"chảo rán","ex":{"tokens":["He","cooked","the","eggs","in","a","skillet","."],"py":["","","","","","","","."],"vi":"Anh ấy rán trứng trong chảo.","alts":[]}},
+   {"id":"y3003-wok","hanzi":"wok","pinyin":"","vi":"chảo sâu lòng","ex":{"tokens":["She","fried","the","rice","in","a","wok","."],"py":["","","","","","","","."],"vi":"Cô ấy rang cơm trong chảo sâu lòng.","alts":[]}},
+   {"id":"y3003-casserole","hanzi":"casserole","pinyin":"","vi":"món hầm trong nồi; nồi hầm","ex":{"tokens":["We","had","a","chicken","casserole","for","dinner","."],"py":["","","","","","","","."],"vi":"Chúng tôi ăn món gà hầm cho bữa tối.","alts":[]}},
+   {"id":"y3003-thermos","hanzi":"thermos","pinyin":"","vi":"bình giữ nhiệt","ex":{"tokens":["I","carry","hot","tea","in","a","thermos","."],"py":["","","","","","","","."],"vi":"Tôi mang trà nóng trong bình giữ nhiệt.","alts":[]}},
+   {"id":"y3003-mixer","hanzi":"mixer","pinyin":"","vi":"máy trộn, máy đánh trứng","ex":{"tokens":["Beat","the","eggs","with","a","mixer","."],"py":["","","","","","","."],"vi":"Hãy đánh trứng bằng máy trộn.","alts":[]}},
+   {"id":"y3003-steamer","hanzi":"steamer","pinyin":"","vi":"nồi hấp, xửng hấp","ex":{"tokens":["Cook","the","buns","in","a","steamer","."],"py":["","","","","","","."],"vi":"Hãy hấp bánh bao trong xửng hấp.","alts":[]}},
+   {"id":"y3003-pressure_cooker","hanzi":"pressure cooker","pinyin":"","vi":"nồi áp suất","ex":{"tokens":["Beans","cook","quickly","in","a","pressure","cooker","."],"py":["","","","","","","","."],"vi":"Đậu chín nhanh trong nồi áp suất.","alts":[]}},
+   {"id":"y3003-rice_cooker","hanzi":"rice cooker","pinyin":"","vi":"nồi cơm điện","ex":{"tokens":["Every","Vietnamese","kitchen","has","a","rice","cooker","."],"py":["","","","","","","","."],"vi":"Bếp nhà người Việt nào cũng có nồi cơm điện.","alts":[]}},
+   {"id":"y3003-oven_mitt","hanzi":"oven mitt","pinyin":"","vi":"găng tay lò nướng","ex":{"tokens":["Use","an","oven","mitt","to","take","out","the","tray","."],"py":["","","","","","","","","","."],"vi":"Hãy dùng găng tay lò nướng để lấy khay ra.","alts":[]}}
+  ]},
+  {"id":"y3004","title":"Dụng cụ nhà bếp 2","desc":"Nồi, chảo, đồ dùng trên bàn ăn","icon":"Kitchen","unit":351,"course":"en","order":2640,"words":[
+   {"id":"y3004-platter","hanzi":"platter","pinyin":"","vi":"đĩa lớn bày thức ăn","ex":{"tokens":["The","fruit","was","served","on","a","large","platter","."],"py":["","","","","","","","","."],"vi":"Trái cây được bày trên một chiếc đĩa lớn.","alts":[]}},
+   {"id":"y3004-saucer","hanzi":"saucer","pinyin":"","vi":"đĩa lót tách","ex":{"tokens":["She","put","the","cup","back","on","the","saucer","."],"py":["","","","","","","","","."],"vi":"Cô ấy đặt tách trở lại đĩa lót.","alts":[]}},
+   {"id":"y3004-mug","hanzi":"mug","pinyin":"","vi":"cái cốc có quai","ex":{"tokens":["He","drank","coffee","from","a","big","mug","."],"py":["","","","","","","","."],"vi":"Anh ấy uống cà phê bằng một chiếc cốc to.","alts":[]}},
+   {"id":"y3004-pitcher","hanzi":"pitcher","pinyin":"","vi":"bình rót nước","ex":{"tokens":["There","is","a","pitcher","of","water","on","the","table","."],"py":["","","","","","","","","","."],"vi":"Có một bình nước trên bàn.","alts":[]}},
+   {"id":"y3004-jug","hanzi":"jug","pinyin":"","vi":"cái bình có tay cầm","ex":{"tokens":["She","filled","the","jug","with","milk","."],"py":["","","","","","","."],"vi":"Cô ấy đổ đầy sữa vào bình.","alts":[]}},
+   {"id":"y3004-cutlery","hanzi":"cutlery","pinyin":"","vi":"bộ dao nĩa thìa","ex":{"tokens":["The","cutlery","is","in","the","top","drawer","."],"py":["","","","","","","","."],"vi":"Bộ dao nĩa nằm trong ngăn kéo trên cùng.","alts":[]}},
+   {"id":"y3004-teaspoon","hanzi":"teaspoon","pinyin":"","vi":"thìa cà phê","ex":{"tokens":["Add","one","teaspoon","of","salt","."],"py":["","","","","","."],"vi":"Hãy thêm một thìa cà phê muối.","alts":[]}},
+   {"id":"y3004-tablespoon","hanzi":"tablespoon","pinyin":"","vi":"thìa canh","ex":{"tokens":["Add","a","tablespoon","of","oil","to","the","pan","."],"py":["","","","","","","","","."],"vi":"Hãy thêm một thìa canh dầu vào chảo.","alts":[]}},
+   {"id":"y3004-measuring_cup","hanzi":"measuring cup","pinyin":"","vi":"cốc đong","ex":{"tokens":["Use","a","measuring","cup","for","the","flour","."],"py":["","","","","","","","."],"vi":"Hãy dùng cốc đong để đong bột.","alts":[]}},
+   {"id":"y3004-funnel","hanzi":"funnel","pinyin":"","vi":"cái phễu","ex":{"tokens":["Pour","the","oil","into","the","bottle","with","a","funnel","."],"py":["","","","","","","","","","."],"vi":"Hãy rót dầu vào chai bằng cái phễu.","alts":[]}},
+   {"id":"y3004-cleaver","hanzi":"cleaver","pinyin":"","vi":"dao chặt, dao phay","ex":{"tokens":["The","butcher","cut","the","bone","with","a","cleaver","."],"py":["","","","","","","","","."],"vi":"Người bán thịt chặt xương bằng dao phay.","alts":[]}},
+   {"id":"y3004-bottle_opener","hanzi":"bottle opener","pinyin":"","vi":"cái mở nắp chai","ex":{"tokens":["Do","you","have","a","bottle","opener","?"],"py":["","","","","","","?"],"vi":"Bạn có cái mở nắp chai không?","alts":[]}},
+   {"id":"y3004-can_opener","hanzi":"can opener","pinyin":"","vi":"cái mở đồ hộp","ex":{"tokens":["I","cannot","find","the","can","opener","."],"py":["","","","","","","."],"vi":"Tôi không tìm thấy cái mở đồ hộp.","alts":[]}},
+   {"id":"y3004-tablecloth","hanzi":"tablecloth","pinyin":"","vi":"khăn trải bàn","ex":{"tokens":["She","spread","a","white","tablecloth","on","the","table","."],"py":["","","","","","","","","."],"vi":"Cô ấy trải một chiếc khăn trắng lên bàn.","alts":[]}}
+  ]}
+ ]
+}
