@@ -1,0 +1,75 @@
+# Level 5 (Chuyên sâu): y học nâng cao.
+@5|Y học chuyên sâu|Bệnh lý, điều trị, chuyên khoa|Medical
+antibiotic resistance|sự kháng kháng sinh|Antibiotic resistance is a global threat.|Kháng kháng sinh là mối đe dọa toàn cầu.
+anticoagulant|thuốc chống đông máu|He takes an anticoagulant every day.|Ông ấy uống thuốc chống đông máu mỗi ngày.
+antihistamine|thuốc kháng histamin|An antihistamine helps with hay fever.|Thuốc kháng histamin giúp giảm viêm mũi dị ứng.
+arrhythmia|rối loạn nhịp tim|The test showed an arrhythmia.|Xét nghiệm cho thấy có rối loạn nhịp tim.
+arteriosclerosis|xơ cứng động mạch|Smoking raises the risk of arteriosclerosis.|Hút thuốc làm tăng nguy cơ xơ cứng động mạch.
+benign tumor|khối u lành tính|The doctor removed a benign tumor.|Bác sĩ cắt bỏ một khối u lành tính.
+metastasis|sự di căn|The scan showed no metastasis.|Ảnh chụp cho thấy không có di căn.
+defibrillator|máy khử rung tim|The airport has a defibrillator on every floor.|Sân bay có máy khử rung tim ở mỗi tầng.
+transplant rejection|sự thải ghép|Drugs help prevent transplant rejection.|Thuốc giúp ngăn ngừa thải ghép.
+donor organ|tạng hiến|She waited a year for a donor organ.|Cô ấy chờ một năm để có tạng hiến.
+embolism|tắc mạch|He died of a lung embolism.|Ông ấy qua đời vì tắc mạch phổi.
+aneurysm|phình mạch|The aneurysm was found by chance.|Chỗ phình mạch được phát hiện tình cờ.
+thrombosis|huyết khối|Long flights can cause thrombosis.|Các chuyến bay dài có thể gây huyết khối.
+ischemia|thiếu máu cục bộ|Ischemia damages the heart muscle.|Thiếu máu cục bộ làm tổn thương cơ tim.
+infarction|nhồi máu|The patient suffered a heart infarction.|Bệnh nhân bị nhồi máu cơ tim.
+cardiac arrest|ngừng tim|He went into cardiac arrest.|Ông ấy bị ngừng tim.
+hypotension|huyết áp thấp|Hypotension can make you feel faint.|Huyết áp thấp có thể làm bạn choáng váng.
+hyperglycemia|tăng đường huyết|Hyperglycemia is common in diabetes.|Tăng đường huyết thường gặp ở bệnh tiểu đường.
+hypoglycemia|hạ đường huyết|Eat something sweet if you have hypoglycemia.|Hãy ăn chút đồ ngọt nếu bạn bị hạ đường huyết.
+insulin resistance|kháng insulin|Exercise reduces insulin resistance.|Tập thể dục làm giảm kháng insulin.
+triglyceride|chất béo trung tính|Her triglyceride level is too high.|Chỉ số chất béo trung tính của cô ấy quá cao.
+lymphoma|u lym-phô|He is being treated for lymphoma.|Ông ấy đang điều trị u lym-phô.
+melanoma|u hắc tố|Too much sun can cause melanoma.|Phơi nắng quá nhiều có thể gây u hắc tố.
+carcinoma|ung thư biểu mô|The biopsy confirmed a carcinoma.|Sinh thiết xác nhận ung thư biểu mô.
+sarcoma|ung thư mô liên kết|Sarcoma is a rare cancer.|Ung thư mô liên kết là một loại ung thư hiếm.
+cirrhosis|xơ gan|Heavy drinking leads to cirrhosis.|Uống nhiều rượu dẫn đến xơ gan.
+pancreatitis|viêm tụy|He was in hospital with pancreatitis.|Anh ấy nằm viện vì viêm tụy.
+gastritis|viêm dạ dày|Spicy food makes her gastritis worse.|Đồ cay làm bệnh viêm dạ dày của cô ấy nặng hơn.
+appendicitis|viêm ruột thừa|The pain turned out to be appendicitis.|Cơn đau hóa ra là viêm ruột thừa.
+meningitis|viêm màng não|Students are vaccinated against meningitis.|Sinh viên được tiêm phòng viêm màng não.
+encephalitis|viêm não|The child recovered from encephalitis.|Đứa trẻ đã khỏi bệnh viêm não.
+gangrene|hoại tử|The wound developed gangrene.|Vết thương bị hoại tử.
+tetanus|uốn ván|You need a tetanus shot after that cut.|Bạn cần tiêm phòng uốn ván sau vết cắt đó.
+rabies|bệnh dại|The dog was tested for rabies.|Con chó được xét nghiệm bệnh dại.
+typhoid|thương hàn|Typhoid spreads through dirty water.|Thương hàn lây qua nước bẩn.
+dengue fever|sốt xuất huyết|Dengue fever is common in the rainy season.|Sốt xuất huyết phổ biến vào mùa mưa.
+incubation period|thời kỳ ủ bệnh|The incubation period is about five days.|Thời kỳ ủ bệnh khoảng năm ngày.
+booster shot|mũi tiêm nhắc lại|I had my booster shot last week.|Tuần trước tôi đã tiêm mũi nhắc lại.
+herd immunity|miễn dịch cộng đồng|Vaccines help us reach herd immunity.|Vắc xin giúp chúng ta đạt miễn dịch cộng đồng.
+overdose|quá liều|He was taken to hospital after an overdose.|Anh ta được đưa vào viện sau khi dùng quá liều.
+palliative care|chăm sóc giảm nhẹ|She received palliative care at home.|Bà ấy được chăm sóc giảm nhẹ tại nhà.
+intensive care|hồi sức tích cực|He spent a week in intensive care.|Ông ấy nằm hồi sức tích cực một tuần.
+life support|máy hỗ trợ sự sống|The patient is on life support.|Bệnh nhân đang được duy trì bằng máy hỗ trợ sự sống.
+vital signs|dấu hiệu sinh tồn|The nurse checked his vital signs.|Y tá kiểm tra dấu hiệu sinh tồn của ông ấy.
+triage|phân loại bệnh nhân theo mức độ|A nurse does triage at the door.|Một y tá phân loại bệnh nhân ngay ở cửa.
+tranquilizer|thuốc an thần|The vet gave the horse a tranquilizer.|Bác sĩ thú y tiêm thuốc an thần cho con ngựa.
+steroid|thuốc steroid|The doctor prescribed a steroid cream.|Bác sĩ kê một loại kem steroid.
+diuretic|thuốc lợi tiểu|Coffee is a mild diuretic.|Cà phê là chất lợi tiểu nhẹ.
+laxative|thuốc nhuận tràng|Prunes work as a natural laxative.|Mận khô có tác dụng như thuốc nhuận tràng tự nhiên.
+intravenous|qua đường tĩnh mạch|She was given intravenous fluids.|Cô ấy được truyền dịch qua đường tĩnh mạch.
+subcutaneous|dưới da|Insulin is given by subcutaneous injection.|Insulin được tiêm dưới da.
+topical|bôi ngoài da; mang tính thời sự|Use a topical cream on the rash.|Hãy dùng kem bôi ngoài da cho chỗ phát ban.
+chronic pain|đau mạn tính|Yoga helps her manage chronic pain.|Yoga giúp cô ấy kiểm soát cơn đau mạn tính.
+congenital|bẩm sinh|He has a congenital heart problem.|Anh ấy có bệnh tim bẩm sinh.
+autoimmune|tự miễn|Lupus is an autoimmune disease.|Lupus là một bệnh tự miễn.
+polyp|pô-líp|The doctor removed a small polyp.|Bác sĩ cắt một pô-líp nhỏ.
+dislocation|sự trật khớp|He suffered a shoulder dislocation.|Anh ấy bị trật khớp vai.
+vertigo|chứng chóng mặt|Heights give me vertigo.|Độ cao làm tôi chóng mặt.
+tinnitus|chứng ù tai|Loud music can cause tinnitus.|Nhạc to có thể gây ù tai.
+sciatica|đau thần kinh tọa|Sciatica makes it hard to sit.|Đau thần kinh tọa khiến việc ngồi rất khó khăn.
+endoscopy|nội soi|She had an endoscopy this morning.|Sáng nay cô ấy đi nội soi.
+mammogram|chụp nhũ ảnh|Women over fifty should have a mammogram.|Phụ nữ trên năm mươi nên chụp nhũ ảnh.
+electrocardiogram|điện tâm đồ|The electrocardiogram was normal.|Điện tâm đồ bình thường.
+pathology|bệnh học, giải phẫu bệnh|The sample was sent to pathology.|Mẫu được gửi đến khoa giải phẫu bệnh.
+oncology|khoa ung bướu|She works in oncology.|Cô ấy làm ở khoa ung bướu.
+cardiology|khoa tim mạch|He was moved to cardiology.|Ông ấy được chuyển đến khoa tim mạch.
+neurology|khoa thần kinh|She is a professor of neurology.|Bà ấy là giáo sư thần kinh học.
+pediatrics|nhi khoa|He chose to specialize in pediatrics.|Anh ấy chọn chuyên ngành nhi khoa.
+geriatrics|lão khoa|Geriatrics deals with the health of old people.|Lão khoa chăm lo sức khỏe người cao tuổi.
+obstetrics|sản khoa|She trained in obstetrics.|Cô ấy được đào tạo về sản khoa.
+dermatology|da liễu|I have an appointment in dermatology.|Tôi có lịch hẹn ở khoa da liễu.
+orthopedics|chỉnh hình|He had surgery in orthopedics.|Anh ấy phẫu thuật ở khoa chỉnh hình.
+suppository|thuốc đạn (đặt hậu môn)|The medicine comes as a suppository.|Thuốc này ở dạng thuốc đạn.

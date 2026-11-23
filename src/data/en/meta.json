@@ -61,7 +61,8 @@
   {"unit":556,"level":5,"title":"Phần 59: Mở rộng – Tính từ trang trọng","desc":"Tính từ trang trọng, Danh từ trừu tượng, Triết học và logic","color":"leaf","course":"en"},
   {"unit":557,"level":5,"title":"Phần 60: Mở rộng – Triết học và logic","desc":"Triết học và logic, Ngôn ngữ học, Kinh tế học","color":"sky","course":"en"},
   {"unit":558,"level":5,"title":"Phần 61: Mở rộng – Kinh tế học","desc":"Kinh tế học, Sinh học và di truyền, Kỹ thuật và công trình","color":"grape","course":"en"},
-  {"unit":559,"level":5,"title":"Phần 62: Mở rộng – Từ văn chương","desc":"Từ văn chương, Từ văn chương nâng cao","color":"coral","course":"en"}
+  {"unit":559,"level":5,"title":"Phần 62: Mở rộng – Từ văn chương","desc":"Từ văn chương, Từ văn chương nâng cao","color":"coral","course":"en"},
+  {"unit":560,"level":5,"title":"Phần 63: Mở rộng – Từ văn chương nâng cao","desc":"Từ văn chương nâng cao, Y học chuyên sâu, Pháp luật và thể chế","color":"sun","course":"en"}
  ],
  "lessons": [
   ["e01","Chào hỏi","Hi",1,12],
@@ -446,7 +447,7 @@
   ["p31","Kinh tế vĩ mô","GDP",402,12],
   ["p32","Khủng hoảng và ứng phó","Aid",402,12],
   ["p33","Di truyền học","DNA",403,12],
-  ["p34","Y học chuyên sâu","MD",403,12],
+  ["p34","Y học chuyên sâu 1","MD",403,12],
   ["p35","Não bộ","Brain",403,12],
   ["p36","Sinh thái học","Bio",403,12],
   ["p37","Khí hậu","Clim",403,12],
@@ -755,7 +756,17 @@
   ["y5168","Từ văn chương nâng cao 2","Erudite",559,12],
   ["y5169","Từ văn chương nâng cao 3","Erudite",559,12],
   ["y5170","Từ văn chương nâng cao 4","Erudite",559,12],
-  ["y5171","Từ văn chương nâng cao 5","Erudite",559,12],
-  ["y5172","Từ văn chương nâng cao 6","Erudite",559,12]
+  ["y5181","Từ văn chương nâng cao 5","Erudite",560,12],
+  ["y5182","Từ văn chương nâng cao 6","Erudite",560,12],
+  ["y5183","Y học chuyên sâu 2","Medical",560,13],
+  ["y5184","Y học chuyên sâu 3","Medical",560,12],
+  ["y5185","Y học chuyên sâu 4","Medical",560,12],
+  ["y5186","Y học chuyên sâu 5","Medical",560,12],
+  ["y5187","Y học chuyên sâu 6","Medical",560,12],
+  ["y5188","Y học chuyên sâu 7","Medical",560,12],
+  ["y5189","Pháp luật và thể chế 1","Governance",560,14],
+  ["y5190","Pháp luật và thể chế 2","Governance",560,14],
+  ["y5191","Pháp luật và thể chế 3","Governance",560,14],
+  ["y5192","Pháp luật và thể chế 4","Governance",560,14]
  ]
 }

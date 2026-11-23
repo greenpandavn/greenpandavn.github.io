@@ -17,7 +17,7 @@
    {"id":"p33-reproduce","hanzi":"reproduce","pinyin":"","vi":"sinh sản; tái tạo","ex":{"tokens":["Some","plants","reproduce","without","seeds","."],"py":["","","","","","."],"vi":"Một số loài cây sinh sản không cần hạt.","alts":[]}},
    {"id":"p33-adapt","hanzi":"adapt","pinyin":"","vi":"thích nghi","ex":{"tokens":["Animals","adapt","to","cold","weather","."],"py":["","","","","","."],"vi":"Động vật thích nghi với thời tiết lạnh.","alts":[]}}
   ]},
-  {"id":"p34","title":"Y học chuyên sâu","desc":"Khối u, kháng sinh, thuốc mê, tiên lượng","icon":"MD","unit":403,"course":"en","order":3830,"words":[
+  {"id":"p34","title":"Y học chuyên sâu 1","desc":"Khối u, kháng sinh, thuốc mê, tiên lượng","icon":"MD","unit":403,"course":"en","order":3830,"words":[
    {"id":"p34-tumor","hanzi":"tumor","pinyin":"","vi":"khối u","ex":{"tokens":["The","doctors","removed","the","tumor","."],"py":["","","","","","."],"vi":"Các bác sĩ đã cắt bỏ khối u.","alts":[]}},
    {"id":"p34-antibiotic","hanzi":"antibiotic","pinyin":"","vi":"thuốc kháng sinh","ex":{"tokens":["You","need","an","antibiotic","for","this","infection","."],"py":["","","","","","","","."],"vi":"Bạn cần thuốc kháng sinh cho chỗ nhiễm trùng này.","alts":[]}},
    {"id":"p34-anesthetic","hanzi":"anesthetic","pinyin":"","vi":"thuốc gây mê, gây tê","ex":{"tokens":["The","dentist","gave","me","an","anesthetic","."],"py":["","","","","","","."],"vi":"Nha sĩ đã tiêm thuốc tê cho tôi.","alts":[]}},

@@ -146,34 +146,6 @@
    {"id":"y5170-officious","hanzi":"officious","pinyin":"","vi":"hay xen vào, hách dịch","ex":{"tokens":["An","officious","clerk","asked","for","more","papers","."],"py":["","","","","","","","."],"vi":"Một nhân viên hách dịch đòi thêm giấy tờ.","alts":[]}},
    {"id":"y5170-opprobrium","hanzi":"opprobrium","pinyin":"","vi":"sự chê trách, điều ô nhục","ex":{"tokens":["The","decision","drew","public","opprobrium","."],"py":["","","","","","."],"vi":"Quyết định đó hứng chịu sự chê trách của công chúng.","alts":[]}},
    {"id":"y5170-palliate","hanzi":"palliate","pinyin":"","vi":"làm dịu tạm thời","ex":{"tokens":["These","drugs","only","palliate","the","symptoms","."],"py":["","","","","","","."],"vi":"Những thuốc này chỉ làm dịu triệu chứng.","alts":[]}}
-  ]},
-  {"id":"y5171","title":"Từ văn chương nâng cao 5","desc":"Từ hiếm gặp trong văn học và báo chí chất lượng cao","icon":"Erudite","unit":559,"course":"en","order":6920,"words":[
-   {"id":"y5171-pariah","hanzi":"pariah","pinyin":"","vi":"kẻ bị ruồng bỏ","ex":{"tokens":["After","the","scandal","he","became","a","pariah","."],"py":["","","","","","","","."],"vi":"Sau vụ bê bối, ông ta trở thành kẻ bị ruồng bỏ.","alts":[]}},
-   {"id":"y5171-peremptory","hanzi":"peremptory","pinyin":"","vi":"dứt khoát, hách dịch","ex":{"tokens":["She","gave","a","peremptory","order","."],"py":["","","","","","."],"vi":"Bà ấy ra một mệnh lệnh dứt khoát.","alts":[]}},
-   {"id":"y5171-pithy","hanzi":"pithy","pinyin":"","vi":"súc tích","ex":{"tokens":["He","is","known","for","his","pithy","remarks","."],"py":["","","","","","","","."],"vi":"Ông ấy nổi tiếng với những nhận xét súc tích.","alts":[]}},
-   {"id":"y5171-portentous","hanzi":"portentous","pinyin":"","vi":"báo điềm; trịnh trọng quá mức","ex":{"tokens":["There","was","a","portentous","silence","."],"py":["","","","","","."],"vi":"Có một sự im lặng báo điềm chẳng lành.","alts":[]}},
-   {"id":"y5171-profligate","hanzi":"profligate","pinyin":"","vi":"hoang phí","ex":{"tokens":["The","profligate","prince","spent","the","family","fortune","."],"py":["","","","","","","","."],"vi":"Vị hoàng tử hoang phí tiêu hết gia sản.","alts":[]}},
-   {"id":"y5171-propitious","hanzi":"propitious","pinyin":"","vi":"thuận lợi","ex":{"tokens":["It","was","a","propitious","moment","to","invest","."],"py":["","","","","","","","."],"vi":"Đó là thời điểm thuận lợi để đầu tư.","alts":[]}},
-   {"id":"y5171-punctilious","hanzi":"punctilious","pinyin":"","vi":"kỹ tính, chi li","ex":{"tokens":["He","is","punctilious","about","manners","."],"py":["","","","","","."],"vi":"Ông ấy rất chi li về phép tắc.","alts":[]}},
-   {"id":"y5171-rapacious","hanzi":"rapacious","pinyin":"","vi":"tham lam, tham tàn","ex":{"tokens":["The","rapacious","landlord","raised","the","rent","again","."],"py":["","","","","","","","."],"vi":"Tên chủ nhà tham lam lại tăng tiền thuê.","alts":[]}},
-   {"id":"y5171-rarefied","hanzi":"rarefied","pinyin":"","vi":"cao siêu, xa rời số đông","ex":{"tokens":["He","lives","in","the","rarefied","world","of","opera","."],"py":["","","","","","","","","."],"vi":"Ông ấy sống trong thế giới cao siêu của opera.","alts":[]}},
-   {"id":"y5171-repartee","hanzi":"repartee","pinyin":"","vi":"lời đối đáp sắc sảo","ex":{"tokens":["She","is","famous","for","her","quick","repartee","."],"py":["","","","","","","","."],"vi":"Cô ấy nổi tiếng đối đáp nhanh và sắc sảo.","alts":[]}},
-   {"id":"y5171-salubrious","hanzi":"salubrious","pinyin":"","vi":"lành mạnh, tốt cho sức khỏe","ex":{"tokens":["They","moved","to","a","more","salubrious","area","."],"py":["","","","","","","","."],"vi":"Họ chuyển đến một khu trong lành hơn.","alts":[]}},
-   {"id":"y5171-solicitous","hanzi":"solicitous","pinyin":"","vi":"ân cần, quan tâm","ex":{"tokens":["The","nurse","was","solicitous","about","his","comfort","."],"py":["","","","","","","","."],"vi":"Cô y tá ân cần lo cho ông ấy được thoải mái.","alts":[]}}
-  ]},
-  {"id":"y5172","title":"Từ văn chương nâng cao 6","desc":"Từ hiếm gặp trong văn học và báo chí chất lượng cao","icon":"Erudite","unit":559,"course":"en","order":6930,"words":[
-   {"id":"y5172-sonorous","hanzi":"sonorous","pinyin":"","vi":"vang, trầm ấm","ex":{"tokens":["He","read","the","poem","in","a","sonorous","voice","."],"py":["","","","","","","","","."],"vi":"Ông ấy đọc bài thơ bằng giọng trầm vang.","alts":[]}},
-   {"id":"y5172-strident","hanzi":"strident","pinyin":"","vi":"the thé; gay gắt","ex":{"tokens":["Her","strident","voice","filled","the","room","."],"py":["","","","","","","."],"vi":"Giọng the thé của bà ấy vang khắp phòng.","alts":[]}},
-   {"id":"y5172-stultify","hanzi":"stultify","pinyin":"","vi":"làm cùn mòn, làm mụ mẫm","ex":{"tokens":["Dull","lessons","stultify","young","minds","."],"py":["","","","","","."],"vi":"Những bài học tẻ nhạt làm mụ mẫm đầu óc trẻ.","alts":[]}},
-   {"id":"y5172-tirade","hanzi":"tirade","pinyin":"","vi":"tràng đả kích","ex":{"tokens":["He","delivered","a","tirade","against","the","referee","."],"py":["","","","","","","","."],"vi":"Anh ta tuôn một tràng đả kích trọng tài.","alts":[]}},
-   {"id":"y5172-tractable","hanzi":"tractable","pinyin":"","vi":"dễ bảo","ex":{"tokens":["The","horse","is","gentle","and","tractable","."],"py":["","","","","","","."],"vi":"Con ngựa hiền và dễ bảo.","alts":[]}},
-   {"id":"y5172-trenchant","hanzi":"trenchant","pinyin":"","vi":"sắc bén","ex":{"tokens":["She","wrote","a","trenchant","review","."],"py":["","","","","","."],"vi":"Cô ấy viết một bài phê bình sắc bén.","alts":[]}},
-   {"id":"y5172-umbrage","hanzi":"umbrage","pinyin":"","vi":"sự phật ý","ex":{"tokens":["He","took","umbrage","at","the","joke","."],"py":["","","","","","","."],"vi":"Anh ấy phật ý vì câu đùa.","alts":[]}},
-   {"id":"y5172-urbane","hanzi":"urbane","pinyin":"","vi":"lịch lãm","ex":{"tokens":["The","urbane","host","greeted","every","guest","."],"py":["","","","","","","."],"vi":"Vị chủ nhà lịch lãm chào từng vị khách.","alts":[]}},
-   {"id":"y5172-vacuous","hanzi":"vacuous","pinyin":"","vi":"trống rỗng, ngớ ngẩn","ex":{"tokens":["He","gave","a","vacuous","smile","."],"py":["","","","","","."],"vi":"Anh ta nở một nụ cười trống rỗng.","alts":[]}},
-   {"id":"y5172-venal","hanzi":"venal","pinyin":"","vi":"dễ mua chuộc","ex":{"tokens":["The","venal","official","took","the","money","."],"py":["","","","","","","."],"vi":"Viên quan chức dễ mua chuộc đã nhận tiền.","alts":[]}},
-   {"id":"y5172-verisimilitude","hanzi":"verisimilitude","pinyin":"","vi":"tính chân thực","ex":{"tokens":["The","details","give","the","novel","verisimilitude","."],"py":["","","","","","","."],"vi":"Các chi tiết làm cuốn tiểu thuyết thêm chân thực.","alts":[]}},
-   {"id":"y5172-contumacious","hanzi":"contumacious","pinyin":"","vi":"ương ngạnh, chống đối","ex":{"tokens":["The","contumacious","witness","refused","to","answer","."],"py":["","","","","","","."],"vi":"Nhân chứng ương ngạnh từ chối trả lời.","alts":[]}}
   ]}
  ]
 }

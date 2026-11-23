@@ -1,0 +1,61 @@
+# Level 5 (Chuyên sâu): pháp luật và thể chế.
+@5|Pháp luật và thể chế|Tố tụng, hợp đồng, nghị viện, thể chế chính trị|Governance
+jurisprudence|luật học|She teaches jurisprudence at the university.|Bà ấy dạy luật học ở trường đại học.
+edict|sắc lệnh, chỉ dụ|The king issued an edict.|Nhà vua ban một chỉ dụ.
+deposition|lời khai có tuyên thệ; sự phế truất|The lawyer read his deposition.|Luật sư đọc lời khai có tuyên thệ của ông ấy.
+appeal court|tòa phúc thẩm|The appeal court overturned the verdict.|Tòa phúc thẩm bác bản án.
+tribunal|tòa án, hội đồng xét xử|The case went to an employment tribunal.|Vụ việc được đưa ra tòa lao động.
+litigant|đương sự|Each litigant pays their own costs.|Mỗi đương sự tự trả chi phí của mình.
+foreman|trưởng bồi thẩm đoàn; đốc công|The foreman read the verdict.|Trưởng bồi thẩm đoàn đọc phán quyết.
+contempt of court|tội coi thường tòa án|He was jailed for contempt of court.|Ông ta bị tù vì tội coi thường tòa án.
+due process|trình tự pháp lý công bằng|Everyone has a right to due process.|Ai cũng có quyền được xét xử đúng trình tự pháp lý.
+habeas corpus|lệnh đình quyền giam giữ (habeas corpus)|The lawyer filed for habeas corpus.|Luật sư nộp đơn xin lệnh habeas corpus.
+burden of proof|nghĩa vụ chứng minh|The burden of proof lies with the prosecution.|Nghĩa vụ chứng minh thuộc về bên công tố.
+reasonable doubt|nghi ngờ hợp lý|Guilt must be proved beyond reasonable doubt.|Tội phải được chứng minh vượt khỏi mọi nghi ngờ hợp lý.
+statute of limitations|thời hiệu khởi kiện|The statute of limitations has expired.|Thời hiệu khởi kiện đã hết.
+double jeopardy|việc bị xét xử hai lần cho một tội|Double jeopardy is banned by the constitution.|Hiến pháp cấm xét xử hai lần cho cùng một tội.
+extradition|sự dẫn độ|He is fighting extradition to the US.|Ông ta đang chống lại việc bị dẫn độ sang Mỹ.
+pardon|lệnh ân xá; tha thứ|The president granted him a pardon.|Tổng thống ban lệnh ân xá cho ông ấy.
+restitution|sự bồi hoàn|The court ordered restitution to the victims.|Tòa yêu cầu bồi hoàn cho các nạn nhân.
+class action|vụ kiện tập thể|Customers filed a class action against the bank.|Khách hàng đệ đơn kiện tập thể ngân hàng.
+breach of contract|vi phạm hợp đồng|They sued the builder for breach of contract.|Họ kiện nhà thầu vì vi phạm hợp đồng.
+null and void|vô hiệu|The court declared the agreement null and void.|Tòa tuyên bố thỏa thuận vô hiệu.
+power of attorney|giấy ủy quyền|She has power of attorney for her father.|Cô ấy có giấy ủy quyền thay mặt cha.
+intestate|(chết) không để lại di chúc|He died intestate.|Ông ấy mất mà không để lại di chúc.
+trustee|người được ủy thác|The trustee manages the money for the children.|Người được ủy thác quản lý tiền cho bọn trẻ.
+fiduciary|thuộc nghĩa vụ ủy thác|Directors have a fiduciary duty to shareholders.|Giám đốc có nghĩa vụ ủy thác đối với cổ đông.
+easement|quyền sử dụng hạn chế bất động sản liền kề|The neighbor has an easement over our driveway.|Nhà hàng xóm có quyền đi qua lối xe nhà chúng tôi.
+eviction|sự trục xuất khỏi nhà thuê|The family faces eviction.|Gia đình đối mặt với việc bị đuổi khỏi nhà thuê.
+bylaw|quy định địa phương; điều lệ|A local bylaw bans dogs on the beach.|Một quy định địa phương cấm chó trên bãi biển.
+charter|hiến chương, điều lệ|The UN charter was signed in 1945.|Hiến chương Liên Hợp Quốc được ký năm 1945.
+ratification|sự phê chuẩn|The treaty awaits ratification.|Hiệp ước đang chờ phê chuẩn.
+plebiscite|cuộc trưng cầu dân ý|The region held a plebiscite on independence.|Vùng này tổ chức trưng cầu dân ý về độc lập.
+legislature|cơ quan lập pháp|The legislature passed the budget.|Cơ quan lập pháp thông qua ngân sách.
+bicameral|lưỡng viện|The country has a bicameral parliament.|Đất nước có nghị viện lưỡng viện.
+filibuster|việc kéo dài tranh luận để cản trở biểu quyết|The senator used a filibuster to delay the vote.|Thượng nghị sĩ kéo dài tranh luận để trì hoãn cuộc bỏ phiếu.
+quorum|số đại biểu tối thiểu cần có|The meeting lacked a quorum.|Cuộc họp không đủ số đại biểu cần thiết.
+impeachment|sự luận tội|The house voted for impeachment.|Hạ viện bỏ phiếu luận tội.
+gerrymandering|việc vẽ lại khu vực bầu cử để trục lợi|The court ruled against gerrymandering.|Tòa ra phán quyết chống việc vẽ lại khu vực bầu cử để trục lợi.
+coalition government|chính phủ liên hiệp|The two parties formed a coalition government.|Hai đảng lập chính phủ liên hiệp.
+minority government|chính phủ thiểu số|A minority government needs support from other parties.|Chính phủ thiểu số cần sự ủng hộ của các đảng khác.
+vote of no confidence|cuộc bỏ phiếu bất tín nhiệm|The prime minister lost a vote of no confidence.|Thủ tướng thua trong cuộc bỏ phiếu bất tín nhiệm.
+checks and balances|cơ chế kiểm soát và đối trọng|Checks and balances limit the president's power.|Cơ chế kiểm soát và đối trọng hạn chế quyền lực tổng thống.
+separation of powers|tam quyền phân lập|The constitution protects the separation of powers.|Hiến pháp bảo vệ nguyên tắc phân quyền.
+rule of law|pháp quyền|Investors want the rule of law.|Nhà đầu tư cần pháp quyền.
+federalism|chế độ liên bang|Federalism gives power to the states.|Chế độ liên bang trao quyền cho các bang.
+technocrat|nhà kỹ trị|A technocrat was named finance minister.|Một nhà kỹ trị được bổ nhiệm làm bộ trưởng tài chính.
+theocracy|chế độ thần quyền|The country is ruled as a theocracy.|Đất nước được cai trị theo chế độ thần quyền.
+totalitarianism|chủ nghĩa toàn trị|Orwell wrote about totalitarianism.|Orwell viết về chủ nghĩa toàn trị.
+authoritarian|độc đoán, chuyên chế|He has an authoritarian style of leadership.|Ông ấy có phong cách lãnh đạo độc đoán.
+dissident|người bất đồng chính kiến|The dissident was freed after ten years.|Người bất đồng chính kiến được thả sau mười năm.
+transparency|sự minh bạch|Voters demand transparency.|Cử tri đòi hỏi sự minh bạch.
+accountability|trách nhiệm giải trình|There must be accountability for the mistakes.|Phải có trách nhiệm giải trình cho những sai lầm đó.
+nepotism|gia đình trị, ưu ái người nhà|He was accused of nepotism.|Ông ta bị cáo buộc ưu ái người nhà.
+cronyism|sự ưu ái bạn bè thân hữu|Cronyism hurts honest firms.|Sự ưu ái thân hữu làm hại các doanh nghiệp trung thực.
+patronage|sự bảo trợ, đỡ đầu|The arts depend on private patronage.|Nghệ thuật phụ thuộc vào sự bảo trợ tư nhân.
+diplomatic immunity|quyền miễn trừ ngoại giao|The driver claimed diplomatic immunity.|Người lái xe viện quyền miễn trừ ngoại giao.
+attaché|tùy viên|He is the cultural attaché at the embassy.|Ông ấy là tùy viên văn hóa của đại sứ quán.
+communiqué|thông cáo chính thức|The leaders issued a joint communiqué.|Các nhà lãnh đạo ra thông cáo chung.
+multilateral|đa phương|They signed a multilateral trade deal.|Họ ký một thỏa thuận thương mại đa phương.
+promulgate|ban hành, công bố|The government will promulgate the new law in May.|Chính phủ sẽ ban hành luật mới vào tháng Năm.
+abrogate|bãi bỏ, hủy bỏ|The state cannot abrogate that right.|Nhà nước không thể bãi bỏ quyền đó.

@@ -4247,7 +4247,8 @@ officious|hay xen vào, hách dịch|An officious clerk asked for more papers.|M
 opprobrium|sự chê trách, điều ô nhục|The decision drew public opprobrium.|Quyết định đó hứng chịu sự chê trách của công chúng.
 palliate|làm dịu tạm thời|These drugs only palliate the symptoms.|Những thuốc này chỉ làm dịu triệu chứng.
 
-@y5171|Từ văn chương nâng cao 5|Từ hiếm gặp trong văn học và báo chí chất lượng cao|Erudite
+%560|5|Phần 10: Mở rộng – Từ văn chương nâng cao|Từ văn chương nâng cao, Y học chuyên sâu, Pháp luật và thể chế|sun
+@y5181|Từ văn chương nâng cao 5|Từ hiếm gặp trong văn học và báo chí chất lượng cao|Erudite
 pariah|kẻ bị ruồng bỏ|After the scandal he became a pariah.|Sau vụ bê bối, ông ta trở thành kẻ bị ruồng bỏ.
 peremptory|dứt khoát, hách dịch|She gave a peremptory order.|Bà ấy ra một mệnh lệnh dứt khoát.
 pithy|súc tích|He is known for his pithy remarks.|Ông ấy nổi tiếng với những nhận xét súc tích.
@@ -4261,7 +4262,7 @@ repartee|lời đối đáp sắc sảo|She is famous for her quick repartee.|C�
 salubrious|lành mạnh, tốt cho sức khỏe|They moved to a more salubrious area.|Họ chuyển đến một khu trong lành hơn.
 solicitous|ân cần, quan tâm|The nurse was solicitous about his comfort.|Cô y tá ân cần lo cho ông ấy được thoải mái.
 
-@y5172|Từ văn chương nâng cao 6|Từ hiếm gặp trong văn học và báo chí chất lượng cao|Erudite
+@y5182|Từ văn chương nâng cao 6|Từ hiếm gặp trong văn học và báo chí chất lượng cao|Erudite
 sonorous|vang, trầm ấm|He read the poem in a sonorous voice.|Ông ấy đọc bài thơ bằng giọng trầm vang.
 strident|the thé; gay gắt|Her strident voice filled the room.|Giọng the thé của bà ấy vang khắp phòng.
 stultify|làm cùn mòn, làm mụ mẫm|Dull lessons stultify young minds.|Những bài học tẻ nhạt làm mụ mẫm đầu óc trẻ.
@@ -4274,3 +4275,152 @@ vacuous|trống rỗng, ngớ ngẩn|He gave a vacuous smile.|Anh ta nở một 
 venal|dễ mua chuộc|The venal official took the money.|Viên quan chức dễ mua chuộc đã nhận tiền.
 verisimilitude|tính chân thực|The details give the novel verisimilitude.|Các chi tiết làm cuốn tiểu thuyết thêm chân thực.
 contumacious|ương ngạnh, chống đối|The contumacious witness refused to answer.|Nhân chứng ương ngạnh từ chối trả lời.
+
+@y5183|Y học chuyên sâu 1|Bệnh lý, điều trị, chuyên khoa|Medical
+antibiotic resistance|sự kháng kháng sinh|Antibiotic resistance is a global threat.|Kháng kháng sinh là mối đe dọa toàn cầu.
+anticoagulant|thuốc chống đông máu|He takes an anticoagulant every day.|Ông ấy uống thuốc chống đông máu mỗi ngày.
+antihistamine|thuốc kháng histamin|An antihistamine helps with hay fever.|Thuốc kháng histamin giúp giảm viêm mũi dị ứng.
+arrhythmia|rối loạn nhịp tim|The test showed an arrhythmia.|Xét nghiệm cho thấy có rối loạn nhịp tim.
+arteriosclerosis|xơ cứng động mạch|Smoking raises the risk of arteriosclerosis.|Hút thuốc làm tăng nguy cơ xơ cứng động mạch.
+benign tumor|khối u lành tính|The doctor removed a benign tumor.|Bác sĩ cắt bỏ một khối u lành tính.
+metastasis|sự di căn|The scan showed no metastasis.|Ảnh chụp cho thấy không có di căn.
+defibrillator|máy khử rung tim|The airport has a defibrillator on every floor.|Sân bay có máy khử rung tim ở mỗi tầng.
+transplant rejection|sự thải ghép|Drugs help prevent transplant rejection.|Thuốc giúp ngăn ngừa thải ghép.
+donor organ|tạng hiến|She waited a year for a donor organ.|Cô ấy chờ một năm để có tạng hiến.
+embolism|tắc mạch|He died of a lung embolism.|Ông ấy qua đời vì tắc mạch phổi.
+aneurysm|phình mạch|The aneurysm was found by chance.|Chỗ phình mạch được phát hiện tình cờ.
+thrombosis|huyết khối|Long flights can cause thrombosis.|Các chuyến bay dài có thể gây huyết khối.
+
+@y5184|Y học chuyên sâu 2|Bệnh lý, điều trị, chuyên khoa|Medical
+ischemia|thiếu máu cục bộ|Ischemia damages the heart muscle.|Thiếu máu cục bộ làm tổn thương cơ tim.
+infarction|nhồi máu|The patient suffered a heart infarction.|Bệnh nhân bị nhồi máu cơ tim.
+cardiac arrest|ngừng tim|He went into cardiac arrest.|Ông ấy bị ngừng tim.
+hypotension|huyết áp thấp|Hypotension can make you feel faint.|Huyết áp thấp có thể làm bạn choáng váng.
+hyperglycemia|tăng đường huyết|Hyperglycemia is common in diabetes.|Tăng đường huyết thường gặp ở bệnh tiểu đường.
+hypoglycemia|hạ đường huyết|Eat something sweet if you have hypoglycemia.|Hãy ăn chút đồ ngọt nếu bạn bị hạ đường huyết.
+insulin resistance|kháng insulin|Exercise reduces insulin resistance.|Tập thể dục làm giảm kháng insulin.
+triglyceride|chất béo trung tính|Her triglyceride level is too high.|Chỉ số chất béo trung tính của cô ấy quá cao.
+lymphoma|u lym-phô|He is being treated for lymphoma.|Ông ấy đang điều trị u lym-phô.
+melanoma|u hắc tố|Too much sun can cause melanoma.|Phơi nắng quá nhiều có thể gây u hắc tố.
+carcinoma|ung thư biểu mô|The biopsy confirmed a carcinoma.|Sinh thiết xác nhận ung thư biểu mô.
+sarcoma|ung thư mô liên kết|Sarcoma is a rare cancer.|Ung thư mô liên kết là một loại ung thư hiếm.
+
+@y5185|Y học chuyên sâu 3|Bệnh lý, điều trị, chuyên khoa|Medical
+cirrhosis|xơ gan|Heavy drinking leads to cirrhosis.|Uống nhiều rượu dẫn đến xơ gan.
+pancreatitis|viêm tụy|He was in hospital with pancreatitis.|Anh ấy nằm viện vì viêm tụy.
+gastritis|viêm dạ dày|Spicy food makes her gastritis worse.|Đồ cay làm bệnh viêm dạ dày của cô ấy nặng hơn.
+appendicitis|viêm ruột thừa|The pain turned out to be appendicitis.|Cơn đau hóa ra là viêm ruột thừa.
+meningitis|viêm màng não|Students are vaccinated against meningitis.|Sinh viên được tiêm phòng viêm màng não.
+encephalitis|viêm não|The child recovered from encephalitis.|Đứa trẻ đã khỏi bệnh viêm não.
+gangrene|hoại tử|The wound developed gangrene.|Vết thương bị hoại tử.
+tetanus|uốn ván|You need a tetanus shot after that cut.|Bạn cần tiêm phòng uốn ván sau vết cắt đó.
+rabies|bệnh dại|The dog was tested for rabies.|Con chó được xét nghiệm bệnh dại.
+typhoid|thương hàn|Typhoid spreads through dirty water.|Thương hàn lây qua nước bẩn.
+dengue fever|sốt xuất huyết|Dengue fever is common in the rainy season.|Sốt xuất huyết phổ biến vào mùa mưa.
+incubation period|thời kỳ ủ bệnh|The incubation period is about five days.|Thời kỳ ủ bệnh khoảng năm ngày.
+
+@y5186|Y học chuyên sâu 4|Bệnh lý, điều trị, chuyên khoa|Medical
+booster shot|mũi tiêm nhắc lại|I had my booster shot last week.|Tuần trước tôi đã tiêm mũi nhắc lại.
+herd immunity|miễn dịch cộng đồng|Vaccines help us reach herd immunity.|Vắc xin giúp chúng ta đạt miễn dịch cộng đồng.
+overdose|quá liều|He was taken to hospital after an overdose.|Anh ta được đưa vào viện sau khi dùng quá liều.
+palliative care|chăm sóc giảm nhẹ|She received palliative care at home.|Bà ấy được chăm sóc giảm nhẹ tại nhà.
+intensive care|hồi sức tích cực|He spent a week in intensive care.|Ông ấy nằm hồi sức tích cực một tuần.
+life support|máy hỗ trợ sự sống|The patient is on life support.|Bệnh nhân đang được duy trì bằng máy hỗ trợ sự sống.
+vital signs|dấu hiệu sinh tồn|The nurse checked his vital signs.|Y tá kiểm tra dấu hiệu sinh tồn của ông ấy.
+triage|phân loại bệnh nhân theo mức độ|A nurse does triage at the door.|Một y tá phân loại bệnh nhân ngay ở cửa.
+tranquilizer|thuốc an thần|The vet gave the horse a tranquilizer.|Bác sĩ thú y tiêm thuốc an thần cho con ngựa.
+steroid|thuốc steroid|The doctor prescribed a steroid cream.|Bác sĩ kê một loại kem steroid.
+diuretic|thuốc lợi tiểu|Coffee is a mild diuretic.|Cà phê là chất lợi tiểu nhẹ.
+laxative|thuốc nhuận tràng|Prunes work as a natural laxative.|Mận khô có tác dụng như thuốc nhuận tràng tự nhiên.
+
+@y5187|Y học chuyên sâu 5|Bệnh lý, điều trị, chuyên khoa|Medical
+intravenous|qua đường tĩnh mạch|She was given intravenous fluids.|Cô ấy được truyền dịch qua đường tĩnh mạch.
+subcutaneous|dưới da|Insulin is given by subcutaneous injection.|Insulin được tiêm dưới da.
+topical|bôi ngoài da; mang tính thời sự|Use a topical cream on the rash.|Hãy dùng kem bôi ngoài da cho chỗ phát ban.
+chronic pain|đau mạn tính|Yoga helps her manage chronic pain.|Yoga giúp cô ấy kiểm soát cơn đau mạn tính.
+congenital|bẩm sinh|He has a congenital heart problem.|Anh ấy có bệnh tim bẩm sinh.
+autoimmune|tự miễn|Lupus is an autoimmune disease.|Lupus là một bệnh tự miễn.
+polyp|pô-líp|The doctor removed a small polyp.|Bác sĩ cắt một pô-líp nhỏ.
+dislocation|sự trật khớp|He suffered a shoulder dislocation.|Anh ấy bị trật khớp vai.
+vertigo|chứng chóng mặt|Heights give me vertigo.|Độ cao làm tôi chóng mặt.
+tinnitus|chứng ù tai|Loud music can cause tinnitus.|Nhạc to có thể gây ù tai.
+sciatica|đau thần kinh tọa|Sciatica makes it hard to sit.|Đau thần kinh tọa khiến việc ngồi rất khó khăn.
+endoscopy|nội soi|She had an endoscopy this morning.|Sáng nay cô ấy đi nội soi.
+
+@y5188|Y học chuyên sâu 6|Bệnh lý, điều trị, chuyên khoa|Medical
+mammogram|chụp nhũ ảnh|Women over fifty should have a mammogram.|Phụ nữ trên năm mươi nên chụp nhũ ảnh.
+electrocardiogram|điện tâm đồ|The electrocardiogram was normal.|Điện tâm đồ bình thường.
+pathology|bệnh học, giải phẫu bệnh|The sample was sent to pathology.|Mẫu được gửi đến khoa giải phẫu bệnh.
+oncology|khoa ung bướu|She works in oncology.|Cô ấy làm ở khoa ung bướu.
+cardiology|khoa tim mạch|He was moved to cardiology.|Ông ấy được chuyển đến khoa tim mạch.
+neurology|khoa thần kinh|She is a professor of neurology.|Bà ấy là giáo sư thần kinh học.
+pediatrics|nhi khoa|He chose to specialize in pediatrics.|Anh ấy chọn chuyên ngành nhi khoa.
+geriatrics|lão khoa|Geriatrics deals with the health of old people.|Lão khoa chăm lo sức khỏe người cao tuổi.
+obstetrics|sản khoa|She trained in obstetrics.|Cô ấy được đào tạo về sản khoa.
+dermatology|da liễu|I have an appointment in dermatology.|Tôi có lịch hẹn ở khoa da liễu.
+orthopedics|chỉnh hình|He had surgery in orthopedics.|Anh ấy phẫu thuật ở khoa chỉnh hình.
+suppository|thuốc đạn (đặt hậu môn)|The medicine comes as a suppository.|Thuốc này ở dạng thuốc đạn.
+
+@y5189|Pháp luật và thể chế 1|Tố tụng, hợp đồng, nghị viện, thể chế chính trị|Governance
+jurisprudence|luật học|She teaches jurisprudence at the university.|Bà ấy dạy luật học ở trường đại học.
+edict|sắc lệnh, chỉ dụ|The king issued an edict.|Nhà vua ban một chỉ dụ.
+deposition|lời khai có tuyên thệ; sự phế truất|The lawyer read his deposition.|Luật sư đọc lời khai có tuyên thệ của ông ấy.
+appeal court|tòa phúc thẩm|The appeal court overturned the verdict.|Tòa phúc thẩm bác bản án.
+tribunal|tòa án, hội đồng xét xử|The case went to an employment tribunal.|Vụ việc được đưa ra tòa lao động.
+litigant|đương sự|Each litigant pays their own costs.|Mỗi đương sự tự trả chi phí của mình.
+foreman|trưởng bồi thẩm đoàn; đốc công|The foreman read the verdict.|Trưởng bồi thẩm đoàn đọc phán quyết.
+contempt of court|tội coi thường tòa án|He was jailed for contempt of court.|Ông ta bị tù vì tội coi thường tòa án.
+due process|trình tự pháp lý công bằng|Everyone has a right to due process.|Ai cũng có quyền được xét xử đúng trình tự pháp lý.
+habeas corpus|lệnh đình quyền giam giữ (habeas corpus)|The lawyer filed for habeas corpus.|Luật sư nộp đơn xin lệnh habeas corpus.
+burden of proof|nghĩa vụ chứng minh|The burden of proof lies with the prosecution.|Nghĩa vụ chứng minh thuộc về bên công tố.
+reasonable doubt|nghi ngờ hợp lý|Guilt must be proved beyond reasonable doubt.|Tội phải được chứng minh vượt khỏi mọi nghi ngờ hợp lý.
+statute of limitations|thời hiệu khởi kiện|The statute of limitations has expired.|Thời hiệu khởi kiện đã hết.
+double jeopardy|việc bị xét xử hai lần cho một tội|Double jeopardy is banned by the constitution.|Hiến pháp cấm xét xử hai lần cho cùng một tội.
+
+@y5190|Pháp luật và thể chế 2|Tố tụng, hợp đồng, nghị viện, thể chế chính trị|Governance
+extradition|sự dẫn độ|He is fighting extradition to the US.|Ông ta đang chống lại việc bị dẫn độ sang Mỹ.
+pardon|lệnh ân xá; tha thứ|The president granted him a pardon.|Tổng thống ban lệnh ân xá cho ông ấy.
+restitution|sự bồi hoàn|The court ordered restitution to the victims.|Tòa yêu cầu bồi hoàn cho các nạn nhân.
+class action|vụ kiện tập thể|Customers filed a class action against the bank.|Khách hàng đệ đơn kiện tập thể ngân hàng.
+breach of contract|vi phạm hợp đồng|They sued the builder for breach of contract.|Họ kiện nhà thầu vì vi phạm hợp đồng.
+null and void|vô hiệu|The court declared the agreement null and void.|Tòa tuyên bố thỏa thuận vô hiệu.
+power of attorney|giấy ủy quyền|She has power of attorney for her father.|Cô ấy có giấy ủy quyền thay mặt cha.
+intestate|(chết) không để lại di chúc|He died intestate.|Ông ấy mất mà không để lại di chúc.
+trustee|người được ủy thác|The trustee manages the money for the children.|Người được ủy thác quản lý tiền cho bọn trẻ.
+fiduciary|thuộc nghĩa vụ ủy thác|Directors have a fiduciary duty to shareholders.|Giám đốc có nghĩa vụ ủy thác đối với cổ đông.
+easement|quyền sử dụng hạn chế bất động sản liền kề|The neighbor has an easement over our driveway.|Nhà hàng xóm có quyền đi qua lối xe nhà chúng tôi.
+eviction|sự trục xuất khỏi nhà thuê|The family faces eviction.|Gia đình đối mặt với việc bị đuổi khỏi nhà thuê.
+bylaw|quy định địa phương; điều lệ|A local bylaw bans dogs on the beach.|Một quy định địa phương cấm chó trên bãi biển.
+charter|hiến chương, điều lệ|The UN charter was signed in 1945.|Hiến chương Liên Hợp Quốc được ký năm 1945.
+
+@y5191|Pháp luật và thể chế 3|Tố tụng, hợp đồng, nghị viện, thể chế chính trị|Governance
+ratification|sự phê chuẩn|The treaty awaits ratification.|Hiệp ước đang chờ phê chuẩn.
+plebiscite|cuộc trưng cầu dân ý|The region held a plebiscite on independence.|Vùng này tổ chức trưng cầu dân ý về độc lập.
+legislature|cơ quan lập pháp|The legislature passed the budget.|Cơ quan lập pháp thông qua ngân sách.
+bicameral|lưỡng viện|The country has a bicameral parliament.|Đất nước có nghị viện lưỡng viện.
+filibuster|việc kéo dài tranh luận để cản trở biểu quyết|The senator used a filibuster to delay the vote.|Thượng nghị sĩ kéo dài tranh luận để trì hoãn cuộc bỏ phiếu.
+quorum|số đại biểu tối thiểu cần có|The meeting lacked a quorum.|Cuộc họp không đủ số đại biểu cần thiết.
+impeachment|sự luận tội|The house voted for impeachment.|Hạ viện bỏ phiếu luận tội.
+gerrymandering|việc vẽ lại khu vực bầu cử để trục lợi|The court ruled against gerrymandering.|Tòa ra phán quyết chống việc vẽ lại khu vực bầu cử để trục lợi.
+coalition government|chính phủ liên hiệp|The two parties formed a coalition government.|Hai đảng lập chính phủ liên hiệp.
+minority government|chính phủ thiểu số|A minority government needs support from other parties.|Chính phủ thiểu số cần sự ủng hộ của các đảng khác.
+vote of no confidence|cuộc bỏ phiếu bất tín nhiệm|The prime minister lost a vote of no confidence.|Thủ tướng thua trong cuộc bỏ phiếu bất tín nhiệm.
+checks and balances|cơ chế kiểm soát và đối trọng|Checks and balances limit the president's power.|Cơ chế kiểm soát và đối trọng hạn chế quyền lực tổng thống.
+separation of powers|tam quyền phân lập|The constitution protects the separation of powers.|Hiến pháp bảo vệ nguyên tắc phân quyền.
+rule of law|pháp quyền|Investors want the rule of law.|Nhà đầu tư cần pháp quyền.
+
+@y5192|Pháp luật và thể chế 4|Tố tụng, hợp đồng, nghị viện, thể chế chính trị|Governance
+federalism|chế độ liên bang|Federalism gives power to the states.|Chế độ liên bang trao quyền cho các bang.
+technocrat|nhà kỹ trị|A technocrat was named finance minister.|Một nhà kỹ trị được bổ nhiệm làm bộ trưởng tài chính.
+theocracy|chế độ thần quyền|The country is ruled as a theocracy.|Đất nước được cai trị theo chế độ thần quyền.
+totalitarianism|chủ nghĩa toàn trị|Orwell wrote about totalitarianism.|Orwell viết về chủ nghĩa toàn trị.
+authoritarian|độc đoán, chuyên chế|He has an authoritarian style of leadership.|Ông ấy có phong cách lãnh đạo độc đoán.
+dissident|người bất đồng chính kiến|The dissident was freed after ten years.|Người bất đồng chính kiến được thả sau mười năm.
+transparency|sự minh bạch|Voters demand transparency.|Cử tri đòi hỏi sự minh bạch.
+accountability|trách nhiệm giải trình|There must be accountability for the mistakes.|Phải có trách nhiệm giải trình cho những sai lầm đó.
+nepotism|gia đình trị, ưu ái người nhà|He was accused of nepotism.|Ông ta bị cáo buộc ưu ái người nhà.
+cronyism|sự ưu ái bạn bè thân hữu|Cronyism hurts honest firms.|Sự ưu ái thân hữu làm hại các doanh nghiệp trung thực.
+patronage|sự bảo trợ, đỡ đầu|The arts depend on private patronage.|Nghệ thuật phụ thuộc vào sự bảo trợ tư nhân.
+diplomatic immunity|quyền miễn trừ ngoại giao|The driver claimed diplomatic immunity.|Người lái xe viện quyền miễn trừ ngoại giao.
+attaché|tùy viên|He is the cultural attaché at the embassy.|Ông ấy là tùy viên văn hóa của đại sứ quán.
+communiqué|thông cáo chính thức|The leaders issued a joint communiqué.|Các nhà lãnh đạo ra thông cáo chung.
