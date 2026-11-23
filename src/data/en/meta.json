@@ -46,7 +46,8 @@
   {"unit":504,"level":5,"title":"Phần 44: Ngôn ngữ tinh luyện","desc":"Từ văn chương, từ mượn, thành ngữ, sắc thái tinh tế","color":"sun","course":"en"},
   {"unit":551,"level":5,"title":"Phần 45: Mở rộng – Giải phẫu cơ thể","desc":"Giải phẫu cơ thể, Bệnh lý, Thủ thuật và thiết bị y khoa, Thực vật học, Động vật học","color":"leaf","course":"en"},
   {"unit":552,"level":5,"title":"Phần 46: Mở rộng – Động vật học","desc":"Động vật học, Chim và côn trùng, Sinh vật biển, Địa chất và địa hình","color":"sky","course":"en"},
-  {"unit":553,"level":5,"title":"Phần 47: Mở rộng – Hóa học","desc":"Hóa học, Vật lý, Thiên văn học, Toán học","color":"grape","course":"en"}
+  {"unit":553,"level":5,"title":"Phần 47: Mở rộng – Hóa học","desc":"Hóa học, Vật lý, Thiên văn học, Toán học","color":"grape","course":"en"},
+  {"unit":554,"level":5,"title":"Phần 48: Mở rộng – Toán học","desc":"Toán học, Động từ trang trọng","color":"coral","course":"en"}
  ],
  "lessons": [
   ["e01","Chào hỏi","Hi",1,12],
@@ -586,8 +587,17 @@
   ["y5048","Thiên văn học 2","Space",553,14],
   ["y5049","Thiên văn học 3","Space",553,14],
   ["y5050","Toán học 2","Maths",553,14],
-  ["y5051","Toán học 3","Maths",553,14],
-  ["y5052","Toán học 4","Maths",553,14],
-  ["y5053","Toán học 5","Maths",553,14]
+  ["y5061","Toán học 3","Maths",554,14],
+  ["y5062","Toán học 4","Maths",554,14],
+  ["y5063","Toán học 5","Maths",554,14],
+  ["y5064","Động từ trang trọng 7","Formal",554,14],
+  ["y5065","Động từ trang trọng 8","Formal",554,14],
+  ["y5066","Động từ trang trọng 9","Formal",554,13],
+  ["y5067","Động từ trang trọng 10","Formal",554,13],
+  ["y5068","Động từ trang trọng 11","Formal",554,13],
+  ["y5069","Động từ trang trọng 12","Formal",554,13],
+  ["y5070","Động từ trang trọng 13","Formal",554,13],
+  ["y5071","Động từ trang trọng 14","Formal",554,13],
+  ["y5072","Động từ trang trọng 15","Formal",554,13]
  ]
 }
