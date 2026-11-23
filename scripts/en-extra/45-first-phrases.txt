@@ -1,0 +1,92 @@
+# Level 1 (Sơ cấp): từ ghép và cụm từ đơn giản.
+@1|Từ ghép đơn giản|Đồ vật, đồ ăn, gia đình, sân chơi|Simple
+bathtime|giờ tắm|It is bathtime for the baby.|Đến giờ tắm cho em bé rồi.
+mealtime|giờ ăn|Wash your hands before mealtime.|Hãy rửa tay trước giờ ăn.
+lunchtime|giờ ăn trưa|We play at lunchtime.|Chúng tôi chơi vào giờ ăn trưa.
+daytime|ban ngày|Owls sleep in the daytime.|Cú ngủ vào ban ngày.
+nighttime|ban đêm|Stars come out at nighttime.|Sao hiện ra vào ban đêm.
+birthday cake|bánh sinh nhật|Mom made a birthday cake.|Mẹ làm một chiếc bánh sinh nhật.
+birthday party|tiệc sinh nhật|Come to my birthday party.|Hãy đến dự tiệc sinh nhật của tôi.
+birthday card|thiệp sinh nhật|I made a birthday card for Dad.|Tôi làm một tấm thiệp sinh nhật cho bố.
+birthday present|quà sinh nhật|This is a birthday present for you.|Đây là quà sinh nhật cho bạn.
+Christmas tree|cây thông Noel|We have a big Christmas tree.|Chúng tôi có một cây thông Noel to.
+snowball|quả cầu tuyết|He threw a snowball at me.|Cậu ấy ném một quả cầu tuyết vào tôi.
+rain boots|ủng đi mưa|Put on your rain boots.|Hãy mang ủng đi mưa vào.
+bath towel|khăn tắm|My bath towel is green.|Khăn tắm của tôi màu xanh lá.
+hair clip|kẹp tóc|She has a pink hair clip.|Cô bé có một cái kẹp tóc màu hồng.
+hair band|băng đô, dây buộc tóc|I need a hair band.|Tôi cần một cái dây buộc tóc.
+shoelace|dây giày|Your shoelace is open.|Dây giày của bạn bị tuột.
+shoe box|hộp đựng giày|I keep my cards in a shoe box.|Tôi cất thẻ trong một cái hộp giày.
+toy box|thùng đồ chơi|Put the car in the toy box.|Hãy cất xe vào thùng đồ chơi.
+toy train|tàu hỏa đồ chơi|He got a toy train for his birthday.|Cậu bé được tặng một chiếc tàu hỏa đồ chơi vào sinh nhật.
+school bus|xe buýt trường học|The school bus is yellow.|Xe buýt trường học màu vàng.
+fire truck|xe cứu hỏa|The fire truck is red.|Xe cứu hỏa màu đỏ.
+police car|xe cảnh sát|A police car is on the street.|Một chiếc xe cảnh sát ở trên đường.
+ice cube|viên đá|Put an ice cube in my drink.|Hãy cho một viên đá vào đồ uống của tôi.
+fruit salad|sa lát trái cây|We made a fruit salad.|Chúng tôi làm món sa lát trái cây.
+orange juice|nước cam|I drink orange juice every morning.|Sáng nào tôi cũng uống nước cam.
+apple juice|nước táo|Can I have some apple juice?|Cho tôi ít nước táo được không?
+tea cup|tách trà|The tea cup is hot.|Tách trà nóng.
+soup bowl|bát canh|My soup bowl is empty.|Bát canh của tôi hết rồi.
+bread roll|ổ bánh mì nhỏ|I ate a bread roll.|Tôi ăn một ổ bánh mì nhỏ.
+big sister|chị gái|My big sister helps me.|Chị gái tôi giúp tôi.
+little sister|em gái|My little sister is four.|Em gái tôi bốn tuổi.
+big brother|anh trai|My big brother is tall.|Anh trai tôi cao.
+little brother|em trai|My little brother likes cars.|Em trai tôi thích xe hơi.
+tree house|nhà trên cây|We play in the tree house.|Chúng tôi chơi trong ngôi nhà trên cây.
+dog house|chuồng chó|The dog sleeps in the dog house.|Con chó ngủ trong chuồng.
+bird house|nhà cho chim|Dad made a bird house.|Bố làm một cái nhà cho chim.
+fish tank|bể cá|There are six fish in the fish tank.|Có sáu con cá trong bể cá.
+flower pot|chậu hoa|The flower pot is by the door.|Chậu hoa ở cạnh cửa.
+garden hose|vòi tưới vườn|Dad waters the plants with a garden hose.|Bố tưới cây bằng vòi tưới vườn.
+park bench|ghế đá công viên|Grandma sits on a park bench.|Bà ngồi trên ghế đá công viên.
+sand pit|hố cát|The kids play in the sand pit.|Bọn trẻ chơi trong hố cát.
+swing set|bộ xích đu|We have a swing set in the garden.|Chúng tôi có một bộ xích đu trong vườn.
+bike helmet|mũ bảo hiểm xe đạp|Wear your bike helmet.|Hãy đội mũ bảo hiểm xe đạp.
+tennis ball|bóng quần vợt|The dog has a tennis ball.|Con chó có một quả bóng quần vợt.
+soccer ball|quả bóng đá|He kicks the soccer ball.|Cậu ấy đá quả bóng.
+beach ball|bóng bãi biển|Throw me the beach ball.|Hãy ném quả bóng bãi biển cho tôi.
+hula hoop|vòng lắc eo|She plays with a hula hoop.|Cô bé chơi vòng lắc eo.
+car seat|ghế ô tô cho trẻ em|The baby sits in a car seat.|Em bé ngồi trong ghế ô tô cho trẻ em.
+
+@1|Cụm từ đầu tiên|Chào hỏi, việc hằng ngày của bé|Phrases
+good morning|chào buổi sáng|Good morning, teacher!|Chào buổi sáng, thưa cô!
+good afternoon|chào buổi chiều|Good afternoon, class.|Chào buổi chiều cả lớp.
+good evening|chào buổi tối|Good evening, Mr. Lee.|Chào buổi tối, ông Lee.
+good job|làm tốt lắm|Good job, Nam!|Làm tốt lắm, Nam!
+see you|hẹn gặp lại|See you tomorrow!|Hẹn gặp lại ngày mai!
+bye-bye|tạm biệt|Say bye-bye to Grandma.|Hãy chào tạm biệt bà đi.
+go to bed|đi ngủ|I go to bed at nine.|Tôi đi ngủ lúc chín giờ.
+go home|về nhà|We go home after school.|Chúng tôi về nhà sau giờ học.
+look at|nhìn vào|Look at the board.|Hãy nhìn lên bảng.
+listen to|lắng nghe|Listen to the teacher.|Hãy lắng nghe cô giáo.
+clean up|dọn dẹp|Clean up your toys, please.|Con dọn đồ chơi đi nhé.
+hold hands|nắm tay|We hold hands when we cross the street.|Chúng tôi nắm tay khi qua đường.
+say hello|chào hỏi|Say hello to your aunt.|Hãy chào dì đi con.
+say goodbye|chào tạm biệt|It is time to say goodbye.|Đến lúc chào tạm biệt rồi.
+take a nap|ngủ trưa|The baby will take a nap now.|Bây giờ em bé sẽ ngủ trưa.
+take a bath|tắm bồn|I take a bath every night.|Tối nào tôi cũng tắm.
+brush my teeth|đánh răng|I brush my teeth after breakfast.|Tôi đánh răng sau bữa sáng.
+wash my hands|rửa tay|I wash my hands before I eat.|Tôi rửa tay trước khi ăn.
+comb my hair|chải tóc|I comb my hair in the morning.|Tôi chải tóc vào buổi sáng.
+tie my shoes|buộc dây giày|I can tie my shoes.|Tôi biết buộc dây giày.
+make my bed|dọn giường|I make my bed every day.|Ngày nào tôi cũng dọn giường.
+feed the dog|cho chó ăn|I feed the dog at six.|Tôi cho chó ăn lúc sáu giờ.
+ride a bike|đi xe đạp|I can ride a bike.|Tôi biết đi xe đạp.
+fly a kite|thả diều|We fly a kite in the park.|Chúng tôi thả diều trong công viên.
+play a game|chơi trò chơi|Let us play a game.|Chúng ta chơi một trò chơi nhé.
+sing a song|hát một bài|Can you sing a song?|Bạn hát một bài được không?
+draw a picture|vẽ tranh|I draw a picture of my cat.|Tôi vẽ một bức tranh về con mèo của mình.
+read a book|đọc sách|I read a book before bed.|Tôi đọc sách trước khi ngủ.
+tell a story|kể chuyện|Grandpa will tell a story.|Ông sẽ kể một câu chuyện.
+count to ten|đếm đến mười|My sister can count to ten.|Em gái tôi đếm được đến mười.
+teddy|gấu bông|I sleep with my teddy.|Tôi ngủ cùng gấu bông.
+kitty|mèo con|The kitty is under the chair.|Chú mèo con ở dưới ghế.
+doggy|cún con|The doggy wants to play.|Chú cún muốn chơi.
+mommy|mẹ (cách gọi của bé)|Mommy, I am hungry.|Mẹ ơi, con đói.
+daddy|bố (cách gọi của bé)|Daddy is at work.|Bố đang đi làm.
+grandma|bà|Grandma makes good soup.|Bà nấu canh ngon.
+grandpa|ông|Grandpa reads the paper.|Ông đọc báo.
+auntie|cô, dì (thân mật)|Auntie gave me a book.|Dì cho tôi một cuốn sách.
+front seat|ghế trước|Dad sits in the front seat.|Bố ngồi ở ghế trước.
+back seat|ghế sau|I sit in the back seat.|Tôi ngồi ở ghế sau.

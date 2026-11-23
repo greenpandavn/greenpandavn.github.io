@@ -1,0 +1,51 @@
+# Level 3 (Nâng cao): thiên nhiên và nông trại.
+@3|Thiên nhiên và nông trại|Cảnh quan, cây cối, động vật, thời tiết|Countryside
+meadow|đồng cỏ|Cows eat grass in the meadow.|Bò gặm cỏ trên đồng cỏ.
+vineyard|vườn nho|We visited a vineyard in France.|Chúng tôi thăm một vườn nho ở Pháp.
+plantation|đồn điền|He works on a coffee plantation.|Anh ấy làm việc ở một đồn điền cà phê.
+paddy field|ruộng lúa nước|Farmers are planting in the paddy field.|Nông dân đang cấy trên ruộng lúa.
+rice terrace|ruộng bậc thang|The rice terrace turns gold in autumn.|Ruộng bậc thang chuyển vàng vào mùa thu.
+pigsty|chuồng lợn|The farmer cleaned the pigsty.|Người nông dân dọn chuồng lợn.
+henhouse|chuồng gà|A fox got into the henhouse.|Một con cáo chui vào chuồng gà.
+haystack|đống cỏ khô|The children jumped on the haystack.|Bọn trẻ nhảy lên đống cỏ khô.
+cowboy|cao bồi|The cowboy rode across the plain.|Chàng cao bồi cưỡi ngựa băng qua đồng bằng.
+rancher|chủ trại chăn nuôi|The rancher owns a thousand cattle.|Chủ trại sở hữu một nghìn con gia súc.
+palm tree|cây cọ, cây dừa|We sat under a palm tree.|Chúng tôi ngồi dưới một cây cọ.
+pine tree|cây thông|A pine tree stays green all year.|Cây thông xanh quanh năm.
+oak tree|cây sồi|The oak tree is two hundred years old.|Cây sồi đã hai trăm năm tuổi.
+maple tree|cây phong|The maple tree turns red in autumn.|Cây phong chuyển đỏ vào mùa thu.
+nectar|mật hoa|Bees collect nectar from flowers.|Ong hút mật hoa.
+ripen|chín dần|The mangoes ripen in May.|Xoài chín vào tháng Năm.
+rot|thối rữa|The fruit will rot if you leave it there.|Trái cây sẽ thối nếu bạn để ở đó.
+decay|sự mục nát; phân hủy|Sugar causes tooth decay.|Đường gây sâu răng.
+slope|sườn dốc|We walked down the slope.|Chúng tôi đi xuống sườn dốc.
+plain|đồng bằng; giản dị|The river crosses a wide plain.|Con sông chảy qua một vùng đồng bằng rộng.
+inlet|vịnh nhỏ, lạch|The boat stayed in a quiet inlet.|Con thuyền neo trong một vịnh nhỏ yên tĩnh.
+rapids|ghềnh thác|The canoe went over the rapids.|Chiếc xuồng vượt qua ghềnh thác.
+riverbank|bờ sông|We had a picnic on the riverbank.|Chúng tôi dã ngoại trên bờ sông.
+riverbed|lòng sông|The riverbed is dry in summer.|Lòng sông khô cạn vào mùa hè.
+creek|con lạch|The children played in the creek.|Bọn trẻ chơi ở con lạch.
+brook|suối nhỏ|A brook runs behind the house.|Một con suối nhỏ chảy sau nhà.
+rainforest|rừng mưa nhiệt đới|Many animals live in the rainforest.|Nhiều loài động vật sống trong rừng mưa nhiệt đới.
+woodland|vùng rừng cây|We walked through quiet woodland.|Chúng tôi đi qua khu rừng yên tĩnh.
+grove|khu rừng nhỏ, vườn cây|They rested in an orange grove.|Họ nghỉ chân trong một vườn cam.
+thicket|bụi rậm|The rabbit ran into a thicket.|Con thỏ chạy vào bụi rậm.
+clearing|khoảng rừng trống|We camped in a clearing.|Chúng tôi cắm trại ở một khoảng rừng trống.
+lay eggs|đẻ trứng|Turtles lay eggs on the beach.|Rùa đẻ trứng trên bãi biển.
+graze|gặm cỏ; làm trầy da|Sheep graze on the hill.|Cừu gặm cỏ trên đồi.
+pounce|vồ, chồm tới|The cat is ready to pounce on the mouse.|Con mèo sẵn sàng vồ con chuột.
+den|hang (thú)|The fox returned to its den.|Con cáo trở về hang.
+anthill|tổ kiến|Do not step on the anthill.|Đừng giẫm lên tổ kiến.
+beehive|tổ ong|There is a beehive in the tree.|Có một tổ ong trên cây.
+cobweb|mạng nhện|There is a cobweb in the corner.|Có một cái mạng nhện ở góc nhà.
+paw print|dấu chân thú|We saw a paw print in the snow.|Chúng tôi thấy một dấu chân thú trên tuyết.
+fang|răng nanh|The snake showed one long fang.|Con rắn nhe một chiếc răng nanh dài.
+venom|nọc độc|The venom of this snake can kill.|Nọc độc của loài rắn này có thể gây chết người.
+sting|đốt, chích; vết đốt|A bee sting hurts a lot.|Vết ong đốt rất đau.
+hailstone|hạt mưa đá|A hailstone hit the window.|Một hạt mưa đá đập vào cửa sổ.
+heat|sức nóng, cái nóng|I cannot work in this heat.|Tôi không thể làm việc trong cái nóng này.
+clear sky|bầu trời quang đãng|We slept under a clear sky.|Chúng tôi ngủ dưới bầu trời quang đãng.
+crescent moon|trăng lưỡi liềm|A crescent moon hung over the hills.|Vầng trăng lưỡi liềm treo trên những ngọn đồi.
+full moon|trăng tròn|There is a full moon tonight.|Tối nay trăng tròn.
+starry|đầy sao|It was a clear, starry night.|Đó là một đêm trời quang và đầy sao.
+midday|giữa trưa|The sun is strongest at midday.|Nắng gắt nhất vào giữa trưa.

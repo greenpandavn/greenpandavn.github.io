@@ -1,9 +1,9 @@
 {
  "units": [
-  {"unit":402,"level":4,"title":"Phần 35: Xã hội và thế giới","desc":"Nhà nước, quan hệ quốc tế, nhân quyền, y tế, tâm lý, triết học","color":"sky","course":"en"}
+  {"unit":402,"level":4,"title":"Phần 37: Xã hội và thế giới","desc":"Nhà nước, quan hệ quốc tế, nhân quyền, y tế, tâm lý, triết học","color":"sky","course":"en"}
  ],
  "lessons": [
-  {"id":"p17","title":"Nhà nước","desc":"Quốc hội, hiến pháp, lập pháp, nhiệm kỳ","icon":"Gov","unit":402,"course":"en","order":3720,"words":[
+  {"id":"p17","title":"Nhà nước","desc":"Quốc hội, hiến pháp, lập pháp, nhiệm kỳ","icon":"Gov","unit":402,"course":"en","order":3880,"words":[
    {"id":"p17-parliament","hanzi":"parliament","pinyin":"","vi":"quốc hội, nghị viện","ex":{"tokens":["Parliament","passed","the","new","law","."],"py":["","","","","","."],"vi":"Quốc hội đã thông qua luật mới.","alts":[]}},
    {"id":"p17-constitution","hanzi":"constitution","pinyin":"","vi":"hiến pháp","ex":{"tokens":["The","constitution","protects","free","speech","."],"py":["","","","","","."],"vi":"Hiến pháp bảo vệ quyền tự do ngôn luận.","alts":[]}},
    {"id":"p17-legislation","hanzi":"legislation","pinyin":"","vi":"luật pháp, sự lập pháp","ex":{"tokens":["New","legislation","will","protect","the","forests","."],"py":["","","","","","","."],"vi":"Luật mới sẽ bảo vệ các khu rừng.","alts":[]}},
@@ -17,7 +17,7 @@
    {"id":"p17-sovereignty","hanzi":"sovereignty","pinyin":"","vi":"chủ quyền","ex":{"tokens":["Every","nation","defends","its","sovereignty","."],"py":["","","","","","."],"vi":"Mọi quốc gia đều bảo vệ chủ quyền của mình.","alts":[]}},
    {"id":"p17-governor","hanzi":"governor","pinyin":"","vi":"thống đốc","ex":{"tokens":["The","governor","visited","the","flooded","area","."],"py":["","","","","","","."],"vi":"Thống đốc đã đến thăm vùng bị lũ.","alts":[]}}
   ]},
-  {"id":"p18","title":"Quan hệ quốc tế","desc":"Ngoại giao, đại sứ, hiệp ước, liên minh","icon":"UN","unit":402,"course":"en","order":3730,"words":[
+  {"id":"p18","title":"Quan hệ quốc tế","desc":"Ngoại giao, đại sứ, hiệp ước, liên minh","icon":"UN","unit":402,"course":"en","order":3890,"words":[
    {"id":"p18-diplomacy","hanzi":"diplomacy","pinyin":"","vi":"ngoại giao","ex":{"tokens":["The","problem","was","solved","through","diplomacy","."],"py":["","","","","","","."],"vi":"Vấn đề đã được giải quyết bằng ngoại giao.","alts":[]}},
    {"id":"p18-ambassador","hanzi":"ambassador","pinyin":"","vi":"đại sứ","ex":{"tokens":["The","ambassador","met","the","president","."],"py":["","","","","","."],"vi":"Đại sứ đã gặp tổng thống.","alts":[]}},
    {"id":"p18-embassy","hanzi":"embassy","pinyin":"","vi":"đại sứ quán","ex":{"tokens":["I","got","my","visa","at","the","embassy","."],"py":["","","","","","","","."],"vi":"Tôi đã lấy thị thực tại đại sứ quán.","alts":[]}},
@@ -31,7 +31,7 @@
    {"id":"p18-ally","hanzi":"ally","pinyin":"","vi":"đồng minh","ex":{"tokens":["Japan","is","a","close","ally","of","the","United","States","."],"py":["","","","","","","","","","."],"vi":"Nhật Bản là đồng minh thân cận của Hoa Kỳ.","alts":[]}},
    {"id":"p18-territory","hanzi":"territory","pinyin":"","vi":"lãnh thổ","ex":{"tokens":["The","island","is","part","of","French","territory","."],"py":["","","","","","","","."],"vi":"Hòn đảo là một phần lãnh thổ của Pháp.","alts":[]}}
   ]},
-  {"id":"p19","title":"Chiến tranh và hòa bình","desc":"Quân đội, vũ khí, xâm lược, ngừng bắn","icon":"War","unit":402,"course":"en","order":3740,"words":[
+  {"id":"p19","title":"Chiến tranh và hòa bình","desc":"Quân đội, vũ khí, xâm lược, ngừng bắn","icon":"War","unit":402,"course":"en","order":3900,"words":[
    {"id":"p19-war","hanzi":"war","pinyin":"","vi":"chiến tranh","ex":{"tokens":["The","war","lasted","ten","years","."],"py":["","","","","","."],"vi":"Cuộc chiến kéo dài mười năm.","alts":[]}},
    {"id":"p19-army","hanzi":"army","pinyin":"","vi":"quân đội","ex":{"tokens":["He","joined","the","army","at","eighteen","."],"py":["","","","","","","."],"vi":"Anh ấy nhập ngũ năm mười tám tuổi.","alts":[]}},
    {"id":"p19-soldier","hanzi":"soldier","pinyin":"","vi":"người lính","ex":{"tokens":["The","soldier","came","home","after","two","years","."],"py":["","","","","","","","."],"vi":"Người lính trở về nhà sau hai năm.","alts":[]}},
@@ -45,7 +45,7 @@
    {"id":"p19-victory","hanzi":"victory","pinyin":"","vi":"chiến thắng","ex":{"tokens":["The","team","celebrated","its","victory","."],"py":["","","","","","."],"vi":"Đội đã ăn mừng chiến thắng.","alts":[]}},
    {"id":"p19-civilian","hanzi":"civilian","pinyin":"","vi":"dân thường","ex":{"tokens":["No","civilian","was","hurt","in","the","attack","."],"py":["","","","","","","","."],"vi":"Không có dân thường nào bị thương trong vụ tấn công.","alts":[]}}
   ]},
-  {"id":"p20","title":"Toàn cầu hóa","desc":"Đa quốc gia, hội nhập, thuế quan, gia công","icon":"Glob","unit":402,"course":"en","order":3750,"words":[
+  {"id":"p20","title":"Toàn cầu hóa","desc":"Đa quốc gia, hội nhập, thuế quan, gia công","icon":"Glob","unit":402,"course":"en","order":3910,"words":[
    {"id":"p20-globalization","hanzi":"globalization","pinyin":"","vi":"toàn cầu hóa","ex":{"tokens":["Globalization","connects","markets","around","the","world","."],"py":["","","","","","","."],"vi":"Toàn cầu hóa kết nối các thị trường trên khắp thế giới.","alts":[]}},
    {"id":"p20-multinational","hanzi":"multinational","pinyin":"","vi":"đa quốc gia","ex":{"tokens":["He","works","for","a","multinational","company","."],"py":["","","","","","","."],"vi":"Anh ấy làm việc cho một công ty đa quốc gia.","alts":[]}},
    {"id":"p20-integrate","hanzi":"integrate","pinyin":"","vi":"hội nhập, tích hợp","ex":{"tokens":["Immigrants","need","time","to","integrate","."],"py":["","","","","","."],"vi":"Người nhập cư cần thời gian để hòa nhập.","alts":[]}},
@@ -59,7 +59,7 @@
    {"id":"p20-migration","hanzi":"migration","pinyin":"","vi":"sự di cư","ex":{"tokens":["Migration","to","the","cities","continues","."],"py":["","","","","","."],"vi":"Việc di cư đến các thành phố vẫn tiếp diễn.","alts":[]}},
    {"id":"p20-diverse","hanzi":"diverse","pinyin":"","vi":"đa dạng","ex":{"tokens":["Our","class","is","very","diverse","."],"py":["","","","","","."],"vi":"Lớp chúng tôi rất đa dạng.","alts":[]}}
   ]},
-  {"id":"p21","title":"Hệ thống tư pháp","desc":"Phiên tòa, bồi thẩm, bản án, kháng cáo","icon":"Jury","unit":402,"course":"en","order":3760,"words":[
+  {"id":"p21","title":"Hệ thống tư pháp","desc":"Phiên tòa, bồi thẩm, bản án, kháng cáo","icon":"Jury","unit":402,"course":"en","order":3920,"words":[
    {"id":"p21-trial","hanzi":"trial","pinyin":"","vi":"phiên tòa; sự thử nghiệm","ex":{"tokens":["The","trial","starts","on","Monday","."],"py":["","","","","","."],"vi":"Phiên tòa bắt đầu vào thứ Hai.","alts":[]}},
    {"id":"p21-jury","hanzi":"jury","pinyin":"","vi":"bồi thẩm đoàn","ex":{"tokens":["The","jury","listened","to","the","witness","."],"py":["","","","","","","."],"vi":"Bồi thẩm đoàn đã lắng nghe nhân chứng.","alts":[]}},
    {"id":"p21-verdict","hanzi":"verdict","pinyin":"","vi":"phán quyết","ex":{"tokens":["The","verdict","was","not","guilty","."],"py":["","","","","","."],"vi":"Phán quyết là vô tội.","alts":[]}},
@@ -73,7 +73,7 @@
    {"id":"p21-custody","hanzi":"custody","pinyin":"","vi":"sự tạm giam; quyền nuôi con","ex":{"tokens":["The","suspect","is","in","police","custody","."],"py":["","","","","","","."],"vi":"Nghi phạm đang bị cảnh sát tạm giam.","alts":[]}},
    {"id":"p21-offense","hanzi":"offense","pinyin":"","vi":"hành vi phạm tội; sự xúc phạm","ex":{"tokens":["Drunk","driving","is","a","serious","offense","."],"py":["","","","","","","."],"vi":"Lái xe khi say rượu là một hành vi phạm tội nghiêm trọng.","alts":[]}}
   ]},
-  {"id":"p22","title":"Nhân quyền","desc":"Tự do ngôn luận, áp bức, biểu tình, kiểm duyệt","icon":"Free","unit":402,"course":"en","order":3770,"words":[
+  {"id":"p22","title":"Nhân quyền","desc":"Tự do ngôn luận, áp bức, biểu tình, kiểm duyệt","icon":"Free","unit":402,"course":"en","order":3930,"words":[
    {"id":"p22-liberty","hanzi":"liberty","pinyin":"","vi":"quyền tự do","ex":{"tokens":["They","fought","for","liberty","."],"py":["","","","","."],"vi":"Họ đã chiến đấu vì tự do.","alts":[]}},
    {"id":"p22-oppression","hanzi":"oppression","pinyin":"","vi":"sự áp bức","ex":{"tokens":["People","stood","up","against","oppression","."],"py":["","","","","","."],"vi":"Mọi người đã đứng lên chống lại sự áp bức.","alts":[]}},
    {"id":"p22-protest","hanzi":"protest","pinyin":"","vi":"cuộc biểu tình, phản đối","ex":{"tokens":["Thousands","joined","the","protest","."],"py":["","","","","."],"vi":"Hàng nghìn người đã tham gia cuộc biểu tình.","alts":[]}},
@@ -87,7 +87,7 @@
    {"id":"p22-asylum","hanzi":"asylum","pinyin":"","vi":"sự tị nạn (chính trị)","ex":{"tokens":["The","family","asked","for","asylum","."],"py":["","","","","","."],"vi":"Gia đình đã xin tị nạn.","alts":[]}},
    {"id":"p22-humanitarian","hanzi":"humanitarian","pinyin":"","vi":"nhân đạo","ex":{"tokens":["The","country","sent","humanitarian","aid","."],"py":["","","","","","."],"vi":"Nước này đã gửi viện trợ nhân đạo.","alts":[]}}
   ]},
-  {"id":"p23","title":"Báo chí","desc":"Đưa tin, biên tập, nguồn tin, tin giả","icon":"Press","unit":402,"course":"en","order":3780,"words":[
+  {"id":"p23","title":"Báo chí","desc":"Đưa tin, biên tập, nguồn tin, tin giả","icon":"Press","unit":402,"course":"en","order":3940,"words":[
    {"id":"p23-coverage","hanzi":"coverage","pinyin":"","vi":"sự đưa tin; phạm vi bảo hiểm","ex":{"tokens":["The","match","got","a","lot","of","media","coverage","."],"py":["","","","","","","","","."],"vi":"Trận đấu được truyền thông đưa tin rất nhiều.","alts":[]}},
    {"id":"p23-editor","hanzi":"editor","pinyin":"","vi":"biên tập viên","ex":{"tokens":["The","editor","changed","the","headline","."],"py":["","","","","","."],"vi":"Biên tập viên đã sửa tiêu đề.","alts":[]}},
    {"id":"p23-correspondent","hanzi":"correspondent","pinyin":"","vi":"phóng viên thường trú","ex":{"tokens":["She","is","a","correspondent","in","Paris","."],"py":["","","","","","","."],"vi":"Cô ấy là phóng viên thường trú tại Paris.","alts":[]}},
@@ -101,7 +101,7 @@
    {"id":"p23-scandal","hanzi":"scandal","pinyin":"","vi":"vụ bê bối","ex":{"tokens":["The","scandal","ended","his","career","."],"py":["","","","","","."],"vi":"Vụ bê bối đã chấm dứt sự nghiệp của ông ấy.","alts":[]}},
    {"id":"p23-reveal","hanzi":"reveal","pinyin":"","vi":"tiết lộ","ex":{"tokens":["The","report","will","reveal","the","truth","."],"py":["","","","","","","."],"vi":"Bản báo cáo sẽ tiết lộ sự thật.","alts":[]}}
   ]},
-  {"id":"p24","title":"Quy hoạch đô thị","desc":"Hạ tầng, ùn tắc, khu dân cư, mật độ","icon":"Plan","unit":402,"course":"en","order":3790,"words":[
+  {"id":"p24","title":"Quy hoạch đô thị","desc":"Hạ tầng, ùn tắc, khu dân cư, mật độ","icon":"Plan","unit":402,"course":"en","order":3950,"words":[
    {"id":"p24-infrastructure","hanzi":"infrastructure","pinyin":"","vi":"cơ sở hạ tầng","ex":{"tokens":["The","city","needs","better","infrastructure","."],"py":["","","","","","."],"vi":"Thành phố cần cơ sở hạ tầng tốt hơn.","alts":[]}},
    {"id":"p24-congestion","hanzi":"congestion","pinyin":"","vi":"sự ùn tắc","ex":{"tokens":["Traffic","congestion","is","worst","at","six","."],"py":["","","","","","","."],"vi":"Ùn tắc giao thông tệ nhất vào lúc sáu giờ.","alts":[]}},
    {"id":"p24-residential","hanzi":"residential","pinyin":"","vi":"thuộc khu dân cư","ex":{"tokens":["This","is","a","quiet","residential","area","."],"py":["","","","","","","."],"vi":"Đây là một khu dân cư yên tĩnh.","alts":[]}},
@@ -115,7 +115,7 @@
    {"id":"p24-renovate","hanzi":"renovate","pinyin":"","vi":"cải tạo, tân trang","ex":{"tokens":["They","plan","to","renovate","the","old","market","."],"py":["","","","","","","","."],"vi":"Họ dự định cải tạo khu chợ cũ.","alts":[]}},
    {"id":"p24-demolish","hanzi":"demolish","pinyin":"","vi":"phá dỡ","ex":{"tokens":["Workers","will","demolish","the","old","bridge","."],"py":["","","","","","","."],"vi":"Công nhân sẽ phá dỡ cây cầu cũ.","alts":[]}}
   ]},
-  {"id":"p25","title":"Dân số","desc":"Tỷ lệ sinh, tuổi thọ, già hóa, điều tra dân số","icon":"Pop","unit":402,"course":"en","order":3800,"words":[
+  {"id":"p25","title":"Dân số","desc":"Tỷ lệ sinh, tuổi thọ, già hóa, điều tra dân số","icon":"Pop","unit":402,"course":"en","order":3960,"words":[
    {"id":"p25-census","hanzi":"census","pinyin":"","vi":"cuộc điều tra dân số","ex":{"tokens":["The","census","takes","place","every","ten","years","."],"py":["","","","","","","","."],"vi":"Cuộc điều tra dân số diễn ra mười năm một lần.","alts":[]}},
    {"id":"p25-life_expectancy","hanzi":"life expectancy","pinyin":"","vi":"tuổi thọ trung bình","ex":{"tokens":["Life","expectancy","is","rising","in","Asia","."],"py":["","","","","","","."],"vi":"Tuổi thọ trung bình đang tăng ở châu Á.","alts":[]}},
    {"id":"p25-aging","hanzi":"aging","pinyin":"","vi":"sự già hóa","ex":{"tokens":["Japan","has","an","aging","population","."],"py":["","","","","","."],"vi":"Nhật Bản có dân số đang già hóa.","alts":[]}},
@@ -129,7 +129,7 @@
    {"id":"p25-indigenous","hanzi":"indigenous","pinyin":"","vi":"bản địa","ex":{"tokens":["The","indigenous","people","live","in","the","mountains","."],"py":["","","","","","","","."],"vi":"Người bản địa sống trên núi.","alts":[]}},
    {"id":"p25-nationality","hanzi":"nationality","pinyin":"","vi":"quốc tịch","ex":{"tokens":["What","is","your","nationality","?"],"py":["","","","","?"],"vi":"Quốc tịch của bạn là gì?","alts":[]}}
   ]},
-  {"id":"p26","title":"Chính sách giáo dục","desc":"Chương trình học, biết chữ, bắt buộc, sư phạm","icon":"Edu","unit":402,"course":"en","order":3810,"words":[
+  {"id":"p26","title":"Chính sách giáo dục","desc":"Chương trình học, biết chữ, bắt buộc, sư phạm","icon":"Edu","unit":402,"course":"en","order":3970,"words":[
    {"id":"p26-curriculum","hanzi":"curriculum","pinyin":"","vi":"chương trình học","ex":{"tokens":["The","new","curriculum","includes","coding","."],"py":["","","","","","."],"vi":"Chương trình học mới có môn lập trình.","alts":[]}},
    {"id":"p26-literacy","hanzi":"literacy","pinyin":"","vi":"khả năng đọc viết","ex":{"tokens":["Literacy","is","very","high","in","this","country","."],"py":["","","","","","","","."],"vi":"Tỷ lệ biết chữ ở nước này rất cao.","alts":[]}},
    {"id":"p26-compulsory","hanzi":"compulsory","pinyin":"","vi":"bắt buộc","ex":{"tokens":["English","is","compulsory","at","this","school","."],"py":["","","","","","","."],"vi":"Tiếng Anh là môn bắt buộc ở trường này.","alts":[]}},
@@ -143,7 +143,7 @@
    {"id":"p26-principal","hanzi":"principal","pinyin":"","vi":"hiệu trưởng; chính","ex":{"tokens":["The","principal","spoke","to","the","parents","."],"py":["","","","","","","."],"vi":"Hiệu trưởng đã nói chuyện với phụ huynh.","alts":[]}},
    {"id":"p26-dropout","hanzi":"dropout","pinyin":"","vi":"người bỏ học","ex":{"tokens":["He","was","a","dropout","who","became","rich","."],"py":["","","","","","","","."],"vi":"Anh ấy là một người bỏ học rồi trở nên giàu có.","alts":[]}}
   ]},
-  {"id":"p27","title":"Hệ thống y tế","desc":"Chẩn đoán, dịch bệnh, mãn tính, phòng khám","icon":"Care","unit":402,"course":"en","order":3820,"words":[
+  {"id":"p27","title":"Hệ thống y tế","desc":"Chẩn đoán, dịch bệnh, mãn tính, phòng khám","icon":"Care","unit":402,"course":"en","order":3980,"words":[
    {"id":"p27-diagnosis","hanzi":"diagnosis","pinyin":"","vi":"sự chẩn đoán","ex":{"tokens":["The","doctor","gave","a","clear","diagnosis","."],"py":["","","","","","","."],"vi":"Bác sĩ đã đưa ra chẩn đoán rõ ràng.","alts":[]}},
    {"id":"p27-epidemic","hanzi":"epidemic","pinyin":"","vi":"dịch bệnh","ex":{"tokens":["The","epidemic","spread","to","three","cities","."],"py":["","","","","","","."],"vi":"Dịch bệnh đã lan ra ba thành phố.","alts":[]}},
    {"id":"p27-chronic","hanzi":"chronic","pinyin":"","vi":"mãn tính","ex":{"tokens":["He","has","chronic","back","pain","."],"py":["","","","","","."],"vi":"Ông ấy bị đau lưng mãn tính.","alts":[]}},
@@ -157,7 +157,7 @@
    {"id":"p27-transplant","hanzi":"transplant","pinyin":"","vi":"ca cấy ghép","ex":{"tokens":["He","needs","a","heart","transplant","."],"py":["","","","","","."],"vi":"Ông ấy cần ghép tim.","alts":[]}},
    {"id":"p27-ward","hanzi":"ward","pinyin":"","vi":"khu, phòng bệnh","ex":{"tokens":["She","works","in","a","hospital","ward","."],"py":["","","","","","","."],"vi":"Cô ấy làm việc ở một khu trong bệnh viện.","alts":[]}}
   ]},
-  {"id":"p28","title":"Triết học","desc":"Tồn tại, ý thức, đạo lý, tri thức","icon":"Why","unit":402,"course":"en","order":3830,"words":[
+  {"id":"p28","title":"Triết học","desc":"Tồn tại, ý thức, đạo lý, tri thức","icon":"Why","unit":402,"course":"en","order":3990,"words":[
    {"id":"p28-philosophy","hanzi":"philosophy","pinyin":"","vi":"triết học","ex":{"tokens":["He","studies","philosophy","at","university","."],"py":["","","","","","."],"vi":"Anh ấy học triết học ở đại học.","alts":[]}},
    {"id":"p28-existence","hanzi":"existence","pinyin":"","vi":"sự tồn tại","ex":{"tokens":["Do","you","believe","in","the","existence","of","ghosts","?"],"py":["","","","","","","","","?"],"vi":"Bạn có tin vào sự tồn tại của ma không?","alts":[]}},
    {"id":"p28-consciousness","hanzi":"consciousness","pinyin":"","vi":"ý thức","ex":{"tokens":["He","lost","consciousness","after","the","fall","."],"py":["","","","","","","."],"vi":"Anh ấy đã bất tỉnh sau cú ngã.","alts":[]}},
@@ -171,7 +171,7 @@
    {"id":"p28-infinite","hanzi":"infinite","pinyin":"","vi":"vô hạn","ex":{"tokens":["The","universe","may","be","infinite","."],"py":["","","","","","."],"vi":"Vũ trụ có thể là vô hạn.","alts":[]}},
    {"id":"p28-essence","hanzi":"essence","pinyin":"","vi":"bản chất","ex":{"tokens":["Trust","is","the","essence","of","friendship","."],"py":["","","","","","","."],"vi":"Lòng tin là bản chất của tình bạn.","alts":[]}}
   ]},
-  {"id":"p29","title":"Tâm lý học","desc":"Nhận thức, động lực, tiềm thức, sang chấn","icon":"Psy","unit":402,"course":"en","order":3840,"words":[
+  {"id":"p29","title":"Tâm lý học","desc":"Nhận thức, động lực, tiềm thức, sang chấn","icon":"Psy","unit":402,"course":"en","order":4000,"words":[
    {"id":"p29-psychology","hanzi":"psychology","pinyin":"","vi":"tâm lý học","ex":{"tokens":["She","has","a","degree","in","psychology","."],"py":["","","","","","","."],"vi":"Cô ấy có bằng tâm lý học.","alts":[]}},
    {"id":"p29-perception","hanzi":"perception","pinyin":"","vi":"nhận thức, cách nhìn nhận","ex":{"tokens":["Our","perception","of","time","changes","with","age","."],"py":["","","","","","","","."],"vi":"Nhận thức của chúng ta về thời gian thay đổi theo tuổi tác.","alts":[]}},
    {"id":"p29-motivation","hanzi":"motivation","pinyin":"","vi":"động lực","ex":{"tokens":["He","has","lost","his","motivation","to","study","."],"py":["","","","","","","","."],"vi":"Cậu ấy đã mất động lực học tập.","alts":[]}},
@@ -185,7 +185,7 @@
    {"id":"p29-self_esteem","hanzi":"self-esteem","pinyin":"","vi":"lòng tự trọng","ex":{"tokens":["Praise","can","build","self-esteem","in","children","."],"py":["","","","","","","."],"vi":"Lời khen có thể xây dựng lòng tự trọng ở trẻ.","alts":[]}},
    {"id":"p29-cognitive","hanzi":"cognitive","pinyin":"","vi":"thuộc nhận thức","ex":{"tokens":["Games","can","improve","cognitive","skills","."],"py":["","","","","","."],"vi":"Trò chơi có thể cải thiện kỹ năng nhận thức.","alts":[]}}
   ]},
-  {"id":"p30","title":"Xã hội học","desc":"Tầng lớp, chuẩn mực, bản sắc, hòa nhập","icon":"Soc","unit":402,"course":"en","order":3850,"words":[
+  {"id":"p30","title":"Xã hội học","desc":"Tầng lớp, chuẩn mực, bản sắc, hòa nhập","icon":"Soc","unit":402,"course":"en","order":4010,"words":[
    {"id":"p30-hierarchy","hanzi":"hierarchy","pinyin":"","vi":"hệ thống thứ bậc","ex":{"tokens":["The","company","has","a","strict","hierarchy","."],"py":["","","","","","","."],"vi":"Công ty có hệ thống thứ bậc nghiêm ngặt.","alts":[]}},
    {"id":"p30-norm","hanzi":"norm","pinyin":"","vi":"chuẩn mực","ex":{"tokens":["Working","from","home","is","now","the","norm","."],"py":["","","","","","","","."],"vi":"Làm việc tại nhà giờ đã là chuyện bình thường.","alts":[]}},
    {"id":"p30-identity","hanzi":"identity","pinyin":"","vi":"bản sắc, danh tính","ex":{"tokens":["Language","is","part","of","our","identity","."],"py":["","","","","","","."],"vi":"Ngôn ngữ là một phần bản sắc của chúng ta.","alts":[]}},
@@ -199,7 +199,7 @@
    {"id":"p30-isolation","hanzi":"isolation","pinyin":"","vi":"sự cô lập","ex":{"tokens":["Old","people","often","suffer","from","isolation","."],"py":["","","","","","","."],"vi":"Người già thường chịu cảnh cô lập.","alts":[]}},
    {"id":"p30-privilege","hanzi":"privilege","pinyin":"","vi":"đặc quyền, vinh dự","ex":{"tokens":["Education","is","a","right",",","not","a","privilege","."],"py":["","","","",",","","","","."],"vi":"Giáo dục là một quyền, không phải đặc quyền.","alts":[]}}
   ]},
-  {"id":"p31","title":"Kinh tế vĩ mô","desc":"Tổng sản phẩm, trợ cấp, tư nhân hóa, tiền lương","icon":"GDP","unit":402,"course":"en","order":3860,"words":[
+  {"id":"p31","title":"Kinh tế vĩ mô","desc":"Tổng sản phẩm, trợ cấp, tư nhân hóa, tiền lương","icon":"GDP","unit":402,"course":"en","order":4020,"words":[
    {"id":"p31-subsidy","hanzi":"subsidy","pinyin":"","vi":"khoản trợ cấp","ex":{"tokens":["Farmers","receive","a","subsidy","from","the","state","."],"py":["","","","","","","","."],"vi":"Nông dân nhận một khoản trợ cấp từ nhà nước.","alts":[]}},
    {"id":"p31-privatize","hanzi":"privatize","pinyin":"","vi":"tư nhân hóa","ex":{"tokens":["The","government","plans","to","privatize","the","airline","."],"py":["","","","","","","","."],"vi":"Chính phủ dự định tư nhân hóa hãng hàng không.","alts":[]}},
    {"id":"p31-monopoly","hanzi":"monopoly","pinyin":"","vi":"sự độc quyền","ex":{"tokens":["The","company","has","a","monopoly","on","gas","."],"py":["","","","","","","","."],"vi":"Công ty nắm độc quyền về khí đốt.","alts":[]}},
@@ -213,7 +213,7 @@
    {"id":"p31-regulate","hanzi":"regulate","pinyin":"","vi":"quản lý, điều tiết","ex":{"tokens":["The","state","must","regulate","the","banks","."],"py":["","","","","","","."],"vi":"Nhà nước phải quản lý các ngân hàng.","alts":[]}},
    {"id":"p31-austerity","hanzi":"austerity","pinyin":"","vi":"chính sách thắt lưng buộc bụng","ex":{"tokens":["Austerity","made","life","harder","for","many","families","."],"py":["","","","","","","","."],"vi":"Chính sách thắt lưng buộc bụng khiến cuộc sống của nhiều gia đình khó khăn hơn.","alts":[]}}
   ]},
-  {"id":"p32","title":"Khủng hoảng và ứng phó","desc":"Sơ tán, cứu trợ, phục hồi, khẩn cấp","icon":"Aid","unit":402,"course":"en","order":3870,"words":[
+  {"id":"p32","title":"Khủng hoảng và ứng phó","desc":"Sơ tán, cứu trợ, phục hồi, khẩn cấp","icon":"Aid","unit":402,"course":"en","order":4030,"words":[
    {"id":"p32-evacuate","hanzi":"evacuate","pinyin":"","vi":"sơ tán","ex":{"tokens":["Police","had","to","evacuate","the","building","."],"py":["","","","","","","."],"vi":"Cảnh sát đã phải sơ tán tòa nhà.","alts":[]}},
    {"id":"p32-relief","hanzi":"relief","pinyin":"","vi":"cứu trợ; sự nhẹ nhõm","ex":{"tokens":["Relief","workers","arrived","the","next","day","."],"py":["","","","","","","."],"vi":"Nhân viên cứu trợ đã đến vào ngày hôm sau.","alts":[]}},
    {"id":"p32-recovery","hanzi":"recovery","pinyin":"","vi":"sự phục hồi","ex":{"tokens":["The","recovery","of","the","economy","is","slow","."],"py":["","","","","","","","."],"vi":"Sự phục hồi của nền kinh tế diễn ra chậm.","alts":[]}},

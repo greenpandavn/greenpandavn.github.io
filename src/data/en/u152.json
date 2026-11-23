@@ -1,0 +1,67 @@
+{
+ "units": [
+  {"unit":152,"level":1,"title":"Phần 10: Mở rộng – Từ ghép đơn giản","desc":"Từ ghép đơn giản, Cụm từ đầu tiên","color":"sky","course":"en"}
+ ],
+ "lessons": [
+  {"id":"y1021","title":"Từ ghép đơn giản 4","desc":"Đồ vật, đồ ăn, gia đình, sân chơi","icon":"Simple","unit":152,"course":"en","order":920,"words":[
+   {"id":"y1021-fish_tank","hanzi":"fish tank","pinyin":"","vi":"bể cá","ex":{"tokens":["There","are","six","fish","in","the","fish","tank","."],"py":["","","","","","","","","."],"vi":"Có sáu con cá trong bể cá.","alts":[]}},
+   {"id":"y1021-flower_pot","hanzi":"flower pot","pinyin":"","vi":"chậu hoa","ex":{"tokens":["The","flower","pot","is","by","the","door","."],"py":["","","","","","","","."],"vi":"Chậu hoa ở cạnh cửa.","alts":[]}},
+   {"id":"y1021-garden_hose","hanzi":"garden hose","pinyin":"","vi":"vòi tưới vườn","ex":{"tokens":["Dad","waters","the","plants","with","a","garden","hose","."],"py":["","","","","","","","","."],"vi":"Bố tưới cây bằng vòi tưới vườn.","alts":[]}},
+   {"id":"y1021-park_bench","hanzi":"park bench","pinyin":"","vi":"ghế đá công viên","ex":{"tokens":["Grandma","sits","on","a","park","bench","."],"py":["","","","","","","."],"vi":"Bà ngồi trên ghế đá công viên.","alts":[]}},
+   {"id":"y1021-sand_pit","hanzi":"sand pit","pinyin":"","vi":"hố cát","ex":{"tokens":["The","kids","play","in","the","sand","pit","."],"py":["","","","","","","","."],"vi":"Bọn trẻ chơi trong hố cát.","alts":[]}},
+   {"id":"y1021-swing_set","hanzi":"swing set","pinyin":"","vi":"bộ xích đu","ex":{"tokens":["We","have","a","swing","set","in","the","garden","."],"py":["","","","","","","","","."],"vi":"Chúng tôi có một bộ xích đu trong vườn.","alts":[]}},
+   {"id":"y1021-bike_helmet","hanzi":"bike helmet","pinyin":"","vi":"mũ bảo hiểm xe đạp","ex":{"tokens":["Wear","your","bike","helmet","."],"py":["","","","","."],"vi":"Hãy đội mũ bảo hiểm xe đạp.","alts":[]}},
+   {"id":"y1021-tennis_ball","hanzi":"tennis ball","pinyin":"","vi":"bóng quần vợt","ex":{"tokens":["The","dog","has","a","tennis","ball","."],"py":["","","","","","","."],"vi":"Con chó có một quả bóng quần vợt.","alts":[]}},
+   {"id":"y1021-soccer_ball","hanzi":"soccer ball","pinyin":"","vi":"quả bóng đá","ex":{"tokens":["He","kicks","the","soccer","ball","."],"py":["","","","","","."],"vi":"Cậu ấy đá quả bóng.","alts":[]}},
+   {"id":"y1021-beach_ball","hanzi":"beach ball","pinyin":"","vi":"bóng bãi biển","ex":{"tokens":["Throw","me","the","beach","ball","."],"py":["","","","","","."],"vi":"Hãy ném quả bóng bãi biển cho tôi.","alts":[]}},
+   {"id":"y1021-hula_hoop","hanzi":"hula hoop","pinyin":"","vi":"vòng lắc eo","ex":{"tokens":["She","plays","with","a","hula","hoop","."],"py":["","","","","","","."],"vi":"Cô bé chơi vòng lắc eo.","alts":[]}},
+   {"id":"y1021-car_seat","hanzi":"car seat","pinyin":"","vi":"ghế ô tô cho trẻ em","ex":{"tokens":["The","baby","sits","in","a","car","seat","."],"py":["","","","","","","","."],"vi":"Em bé ngồi trong ghế ô tô cho trẻ em.","alts":[]}}
+  ]},
+  {"id":"y1022","title":"Cụm từ đầu tiên 1","desc":"Chào hỏi, việc hằng ngày của bé","icon":"Phrases","unit":152,"course":"en","order":930,"words":[
+   {"id":"y1022-good_morning","hanzi":"good morning","pinyin":"","vi":"chào buổi sáng","ex":{"tokens":["Good","morning",",","teacher","!"],"py":["","",",","","!"],"vi":"Chào buổi sáng, thưa cô!","alts":[]}},
+   {"id":"y1022-good_afternoon","hanzi":"good afternoon","pinyin":"","vi":"chào buổi chiều","ex":{"tokens":["Good","afternoon",",","class","."],"py":["","",",","","."],"vi":"Chào buổi chiều cả lớp.","alts":[]}},
+   {"id":"y1022-good_evening","hanzi":"good evening","pinyin":"","vi":"chào buổi tối","ex":{"tokens":["Good","evening",",","Mr",".","Lee","."],"py":["","",",","",".","","."],"vi":"Chào buổi tối, ông Lee.","alts":[]}},
+   {"id":"y1022-good_job","hanzi":"good job","pinyin":"","vi":"làm tốt lắm","ex":{"tokens":["Good","job",",","Nam","!"],"py":["","",",","","!"],"vi":"Làm tốt lắm, Nam!","alts":[]}},
+   {"id":"y1022-see_you","hanzi":"see you","pinyin":"","vi":"hẹn gặp lại","ex":{"tokens":["See","you","tomorrow","!"],"py":["","","","!"],"vi":"Hẹn gặp lại ngày mai!","alts":[]}},
+   {"id":"y1022-bye_bye","hanzi":"bye-bye","pinyin":"","vi":"tạm biệt","ex":{"tokens":["Say","bye-bye","to","Grandma","."],"py":["","","","","."],"vi":"Hãy chào tạm biệt bà đi.","alts":[]}},
+   {"id":"y1022-go_to_bed","hanzi":"go to bed","pinyin":"","vi":"đi ngủ","ex":{"tokens":["I","go","to","bed","at","nine","."],"py":["","","","","","","."],"vi":"Tôi đi ngủ lúc chín giờ.","alts":[]}},
+   {"id":"y1022-go_home","hanzi":"go home","pinyin":"","vi":"về nhà","ex":{"tokens":["We","go","home","after","school","."],"py":["","","","","","."],"vi":"Chúng tôi về nhà sau giờ học.","alts":[]}},
+   {"id":"y1022-look_at","hanzi":"look at","pinyin":"","vi":"nhìn vào","ex":{"tokens":["Look","at","the","board","."],"py":["","","","","."],"vi":"Hãy nhìn lên bảng.","alts":[]}},
+   {"id":"y1022-listen_to","hanzi":"listen to","pinyin":"","vi":"lắng nghe","ex":{"tokens":["Listen","to","the","teacher","."],"py":["","","","","."],"vi":"Hãy lắng nghe cô giáo.","alts":[]}},
+   {"id":"y1022-clean_up","hanzi":"clean up","pinyin":"","vi":"dọn dẹp","ex":{"tokens":["Clean","up","your","toys",",","please","."],"py":["","","","",",","","."],"vi":"Con dọn đồ chơi đi nhé.","alts":[]}},
+   {"id":"y1022-hold_hands","hanzi":"hold hands","pinyin":"","vi":"nắm tay","ex":{"tokens":["We","hold","hands","when","we","cross","the","street","."],"py":["","","","","","","","","."],"vi":"Chúng tôi nắm tay khi qua đường.","alts":[]}},
+   {"id":"y1022-say_hello","hanzi":"say hello","pinyin":"","vi":"chào hỏi","ex":{"tokens":["Say","hello","to","your","aunt","."],"py":["","","","","","."],"vi":"Hãy chào dì đi con.","alts":[]}},
+   {"id":"y1022-say_goodbye","hanzi":"say goodbye","pinyin":"","vi":"chào tạm biệt","ex":{"tokens":["It","is","time","to","say","goodbye","."],"py":["","","","","","","."],"vi":"Đến lúc chào tạm biệt rồi.","alts":[]}}
+  ]},
+  {"id":"y1023","title":"Cụm từ đầu tiên 2","desc":"Chào hỏi, việc hằng ngày của bé","icon":"Phrases","unit":152,"course":"en","order":940,"words":[
+   {"id":"y1023-take_a_nap","hanzi":"take a nap","pinyin":"","vi":"ngủ trưa","ex":{"tokens":["The","baby","will","take","a","nap","now","."],"py":["","","","","","","","."],"vi":"Bây giờ em bé sẽ ngủ trưa.","alts":[]}},
+   {"id":"y1023-take_a_bath","hanzi":"take a bath","pinyin":"","vi":"tắm bồn","ex":{"tokens":["I","take","a","bath","every","night","."],"py":["","","","","","","."],"vi":"Tối nào tôi cũng tắm.","alts":[]}},
+   {"id":"y1023-brush_my_teeth","hanzi":"brush my teeth","pinyin":"","vi":"đánh răng","ex":{"tokens":["I","brush","my","teeth","after","breakfast","."],"py":["","","","","","","."],"vi":"Tôi đánh răng sau bữa sáng.","alts":[]}},
+   {"id":"y1023-wash_my_hands","hanzi":"wash my hands","pinyin":"","vi":"rửa tay","ex":{"tokens":["I","wash","my","hands","before","I","eat","."],"py":["","","","","","","","."],"vi":"Tôi rửa tay trước khi ăn.","alts":[]}},
+   {"id":"y1023-comb_my_hair","hanzi":"comb my hair","pinyin":"","vi":"chải tóc","ex":{"tokens":["I","comb","my","hair","in","the","morning","."],"py":["","","","","","","","."],"vi":"Tôi chải tóc vào buổi sáng.","alts":[]}},
+   {"id":"y1023-tie_my_shoes","hanzi":"tie my shoes","pinyin":"","vi":"buộc dây giày","ex":{"tokens":["I","can","tie","my","shoes","."],"py":["","","","","","."],"vi":"Tôi biết buộc dây giày.","alts":[]}},
+   {"id":"y1023-make_my_bed","hanzi":"make my bed","pinyin":"","vi":"dọn giường","ex":{"tokens":["I","make","my","bed","every","day","."],"py":["","","","","","","."],"vi":"Ngày nào tôi cũng dọn giường.","alts":[]}},
+   {"id":"y1023-feed_the_dog","hanzi":"feed the dog","pinyin":"","vi":"cho chó ăn","ex":{"tokens":["I","feed","the","dog","at","six","."],"py":["","","","","","","."],"vi":"Tôi cho chó ăn lúc sáu giờ.","alts":[]}},
+   {"id":"y1023-ride_a_bike","hanzi":"ride a bike","pinyin":"","vi":"đi xe đạp","ex":{"tokens":["I","can","ride","a","bike","."],"py":["","","","","","."],"vi":"Tôi biết đi xe đạp.","alts":[]}},
+   {"id":"y1023-fly_a_kite","hanzi":"fly a kite","pinyin":"","vi":"thả diều","ex":{"tokens":["We","fly","a","kite","in","the","park","."],"py":["","","","","","","","."],"vi":"Chúng tôi thả diều trong công viên.","alts":[]}},
+   {"id":"y1023-play_a_game","hanzi":"play a game","pinyin":"","vi":"chơi trò chơi","ex":{"tokens":["Let","us","play","a","game","."],"py":["","","","","","."],"vi":"Chúng ta chơi một trò chơi nhé.","alts":[]}},
+   {"id":"y1023-sing_a_song","hanzi":"sing a song","pinyin":"","vi":"hát một bài","ex":{"tokens":["Can","you","sing","a","song","?"],"py":["","","","","","?"],"vi":"Bạn hát một bài được không?","alts":[]}},
+   {"id":"y1023-draw_a_picture","hanzi":"draw a picture","pinyin":"","vi":"vẽ tranh","ex":{"tokens":["I","draw","a","picture","of","my","cat","."],"py":["","","","","","","","."],"vi":"Tôi vẽ một bức tranh về con mèo của mình.","alts":[]}}
+  ]},
+  {"id":"y1024","title":"Cụm từ đầu tiên 3","desc":"Chào hỏi, việc hằng ngày của bé","icon":"Phrases","unit":152,"course":"en","order":950,"words":[
+   {"id":"y1024-read_a_book","hanzi":"read a book","pinyin":"","vi":"đọc sách","ex":{"tokens":["I","read","a","book","before","bed","."],"py":["","","","","","","."],"vi":"Tôi đọc sách trước khi ngủ.","alts":[]}},
+   {"id":"y1024-tell_a_story","hanzi":"tell a story","pinyin":"","vi":"kể chuyện","ex":{"tokens":["Grandpa","will","tell","a","story","."],"py":["","","","","","."],"vi":"Ông sẽ kể một câu chuyện.","alts":[]}},
+   {"id":"y1024-count_to_ten","hanzi":"count to ten","pinyin":"","vi":"đếm đến mười","ex":{"tokens":["My","sister","can","count","to","ten","."],"py":["","","","","","","."],"vi":"Em gái tôi đếm được đến mười.","alts":[]}},
+   {"id":"y1024-teddy","hanzi":"teddy","pinyin":"","vi":"gấu bông","ex":{"tokens":["I","sleep","with","my","teddy","."],"py":["","","","","","."],"vi":"Tôi ngủ cùng gấu bông.","alts":[]}},
+   {"id":"y1024-kitty","hanzi":"kitty","pinyin":"","vi":"mèo con","ex":{"tokens":["The","kitty","is","under","the","chair","."],"py":["","","","","","","."],"vi":"Chú mèo con ở dưới ghế.","alts":[]}},
+   {"id":"y1024-doggy","hanzi":"doggy","pinyin":"","vi":"cún con","ex":{"tokens":["The","doggy","wants","to","play","."],"py":["","","","","","."],"vi":"Chú cún muốn chơi.","alts":[]}},
+   {"id":"y1024-mommy","hanzi":"mommy","pinyin":"","vi":"mẹ (cách gọi của bé)","ex":{"tokens":["Mommy",",","I","am","hungry","."],"py":["",",","","","","."],"vi":"Mẹ ơi, con đói.","alts":[]}},
+   {"id":"y1024-daddy","hanzi":"daddy","pinyin":"","vi":"bố (cách gọi của bé)","ex":{"tokens":["Daddy","is","at","work","."],"py":["","","","","."],"vi":"Bố đang đi làm.","alts":[]}},
+   {"id":"y1024-grandma","hanzi":"grandma","pinyin":"","vi":"bà","ex":{"tokens":["Grandma","makes","good","soup","."],"py":["","","","","."],"vi":"Bà nấu canh ngon.","alts":[]}},
+   {"id":"y1024-grandpa","hanzi":"grandpa","pinyin":"","vi":"ông","ex":{"tokens":["Grandpa","reads","the","paper","."],"py":["","","","","."],"vi":"Ông đọc báo.","alts":[]}},
+   {"id":"y1024-auntie","hanzi":"auntie","pinyin":"","vi":"cô, dì (thân mật)","ex":{"tokens":["Auntie","gave","me","a","book","."],"py":["","","","","","."],"vi":"Dì cho tôi một cuốn sách.","alts":[]}},
+   {"id":"y1024-front_seat","hanzi":"front seat","pinyin":"","vi":"ghế trước","ex":{"tokens":["Dad","sits","in","the","front","seat","."],"py":["","","","","","","."],"vi":"Bố ngồi ở ghế trước.","alts":[]}},
+   {"id":"y1024-back_seat","hanzi":"back seat","pinyin":"","vi":"ghế sau","ex":{"tokens":["I","sit","in","the","back","seat","."],"py":["","","","","","","."],"vi":"Tôi ngồi ở ghế sau.","alts":[]}}
+  ]}
+ ]
+}

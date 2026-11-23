@@ -1,9 +1,9 @@
 {
  "units": [
-  {"unit":457,"level":4,"title":"Phần 46: Mở rộng – Cụm động từ thông dụng","desc":"Cụm động từ thông dụng, Cụm động từ nâng cao","color":"sky","course":"en"}
+  {"unit":457,"level":4,"title":"Phần 48: Mở rộng – Cụm động từ thông dụng","desc":"Cụm động từ thông dụng, Cụm động từ nâng cao","color":"sky","course":"en"}
  ],
  "lessons": [
-  {"id":"y4121","title":"Cụm động từ thông dụng 4","desc":"Cụm động từ thường gặp trong giao tiếp và báo chí","icon":"Phrasal","unit":457,"course":"en","order":5070,"words":[
+  {"id":"y4121","title":"Cụm động từ thông dụng 4","desc":"Cụm động từ thường gặp trong giao tiếp và báo chí","icon":"Phrasal","unit":457,"course":"en","order":5230,"words":[
    {"id":"y4121-cut_out","hanzi":"cut out","pinyin":"","vi":"cắt bỏ, ngừng","ex":{"tokens":["You","should","cut","out","sugar","."],"py":["","","","","","."],"vi":"Bạn nên bỏ đường.","alts":[]}},
    {"id":"y4121-die_down","hanzi":"die down","pinyin":"","vi":"lắng xuống, dịu đi","ex":{"tokens":["Wait","for","the","wind","to","die","down","."],"py":["","","","","","","","."],"vi":"Hãy chờ gió lặng bớt.","alts":[]}},
    {"id":"y4121-die_out","hanzi":"die out","pinyin":"","vi":"tuyệt chủng, mất hẳn","ex":{"tokens":["Many","old","customs","may","die","out","."],"py":["","","","","","","."],"vi":"Nhiều phong tục cổ có thể mất hẳn.","alts":[]}},
@@ -17,7 +17,7 @@
    {"id":"y4121-drum_up","hanzi":"drum up","pinyin":"","vi":"vận động, khuấy động (sự ủng hộ)","ex":{"tokens":["They","are","trying","to","drum","up","support","."],"py":["","","","","","","","."],"vi":"Họ đang cố vận động sự ủng hộ.","alts":[]}},
    {"id":"y4121-dwell_on","hanzi":"dwell on","pinyin":"","vi":"nghĩ mãi về, day dứt","ex":{"tokens":["Do","not","dwell","on","the","past","."],"py":["","","","","","","."],"vi":"Đừng nghĩ mãi về quá khứ.","alts":[]}}
   ]},
-  {"id":"y4122","title":"Cụm động từ thông dụng 5","desc":"Cụm động từ thường gặp trong giao tiếp và báo chí","icon":"Phrasal","unit":457,"course":"en","order":5080,"words":[
+  {"id":"y4122","title":"Cụm động từ thông dụng 5","desc":"Cụm động từ thường gặp trong giao tiếp và báo chí","icon":"Phrasal","unit":457,"course":"en","order":5240,"words":[
    {"id":"y4122-ease_off","hanzi":"ease off","pinyin":"","vi":"giảm bớt, dịu đi","ex":{"tokens":["The","rain","began","to","ease","off","."],"py":["","","","","","","."],"vi":"Mưa bắt đầu ngớt.","alts":[]}},
    {"id":"y4122-eat_out","hanzi":"eat out","pinyin":"","vi":"ăn ngoài tiệm","ex":{"tokens":["We","eat","out","every","Friday","."],"py":["","","","","","."],"vi":"Thứ Sáu nào chúng tôi cũng đi ăn tiệm.","alts":[]}},
    {"id":"y4122-egg_on","hanzi":"egg on","pinyin":"","vi":"xúi giục","ex":{"tokens":["His","friends","egg","on","the","boy","to","jump","."],"py":["","","","","","","","","."],"vi":"Đám bạn xúi cậu bé nhảy.","alts":[]}},
@@ -31,7 +31,7 @@
    {"id":"y4122-flare_up","hanzi":"flare up","pinyin":"","vi":"bùng lên","ex":{"tokens":["Tensions","flare","up","every","summer","."],"py":["","","","","","."],"vi":"Căng thẳng bùng lên mỗi mùa hè.","alts":[]}},
    {"id":"y4122-fool_around","hanzi":"fool around","pinyin":"","vi":"đùa nghịch, lêu lổng","ex":{"tokens":["Do","not","fool","around","with","the","tools","."],"py":["","","","","","","","."],"vi":"Đừng nghịch dụng cụ.","alts":[]}}
   ]},
-  {"id":"y4123","title":"Cụm động từ thông dụng 6","desc":"Cụm động từ thường gặp trong giao tiếp và báo chí","icon":"Phrasal","unit":457,"course":"en","order":5090,"words":[
+  {"id":"y4123","title":"Cụm động từ thông dụng 6","desc":"Cụm động từ thường gặp trong giao tiếp và báo chí","icon":"Phrasal","unit":457,"course":"en","order":5250,"words":[
    {"id":"y4123-freak_out","hanzi":"freak out","pinyin":"","vi":"hoảng lên","ex":{"tokens":["Do","not","freak","out;","it","is","only","a","spider","."],"py":["","","","","","","","","","."],"vi":"Đừng hoảng; chỉ là con nhện thôi.","alts":[]}},
    {"id":"y4123-get_across","hanzi":"get across","pinyin":"","vi":"truyền đạt được","ex":{"tokens":["He","could","not","get","across","his","idea","."],"py":["","","","","","","","."],"vi":"Anh ấy không truyền đạt được ý của mình.","alts":[]}},
    {"id":"y4123-get_ahead","hanzi":"get ahead","pinyin":"","vi":"tiến thân, vượt lên","ex":{"tokens":["You","must","work","hard","to","get","ahead","."],"py":["","","","","","","","."],"vi":"Bạn phải chăm chỉ mới tiến thân được.","alts":[]}},
@@ -45,7 +45,7 @@
    {"id":"y4123-give_in","hanzi":"give in","pinyin":"","vi":"nhượng bộ, chịu thua","ex":{"tokens":["Do","not","give","in","to","pressure","."],"py":["","","","","","","."],"vi":"Đừng nhượng bộ trước áp lực.","alts":[]}},
    {"id":"y4123-give_off","hanzi":"give off","pinyin":"","vi":"tỏa ra (mùi, nhiệt)","ex":{"tokens":["The","flowers","give","off","a","sweet","smell","."],"py":["","","","","","","","."],"vi":"Những bông hoa tỏa hương ngọt ngào.","alts":[]}}
   ]},
-  {"id":"y4124","title":"Cụm động từ thông dụng 7","desc":"Cụm động từ thường gặp trong giao tiếp và báo chí","icon":"Phrasal","unit":457,"course":"en","order":5100,"words":[
+  {"id":"y4124","title":"Cụm động từ thông dụng 7","desc":"Cụm động từ thường gặp trong giao tiếp và báo chí","icon":"Phrasal","unit":457,"course":"en","order":5260,"words":[
    {"id":"y4124-give_out","hanzi":"give out","pinyin":"","vi":"phân phát; hết, cạn","ex":{"tokens":["Volunteers","give","out","food","every","evening","."],"py":["","","","","","","."],"vi":"Tình nguyện viên phát đồ ăn mỗi tối.","alts":[]}},
    {"id":"y4124-go_about","hanzi":"go about","pinyin":"","vi":"bắt tay vào, tiến hành","ex":{"tokens":["How","do","I","go","about","getting","a","visa","?"],"py":["","","","","","","","","?"],"vi":"Tôi phải tiến hành xin visa như thế nào?","alts":[]}},
    {"id":"y4124-go_ahead","hanzi":"go ahead","pinyin":"","vi":"cứ làm đi, tiến hành","ex":{"tokens":["Go","ahead","and","start","without","me","."],"py":["","","","","","","."],"vi":"Cứ bắt đầu đi, không cần đợi tôi.","alts":[]}},
@@ -59,7 +59,7 @@
    {"id":"y4124-head_for","hanzi":"head for","pinyin":"","vi":"đi về hướng","ex":{"tokens":["Let","us","head","for","the","beach","."],"py":["","","","","","","."],"vi":"Chúng ta hãy đi ra biển.","alts":[]}},
    {"id":"y4124-hit_back","hanzi":"hit back","pinyin":"","vi":"đáp trả","ex":{"tokens":["The","minister","decided","to","hit","back","at","his","critics","."],"py":["","","","","","","","","","."],"vi":"Bộ trưởng quyết định đáp trả những người chỉ trích.","alts":[]}}
   ]},
-  {"id":"y4125","title":"Cụm động từ thông dụng 8","desc":"Cụm động từ thường gặp trong giao tiếp và báo chí","icon":"Phrasal","unit":457,"course":"en","order":5110,"words":[
+  {"id":"y4125","title":"Cụm động từ thông dụng 8","desc":"Cụm động từ thường gặp trong giao tiếp và báo chí","icon":"Phrasal","unit":457,"course":"en","order":5270,"words":[
    {"id":"y4125-hold_off","hanzi":"hold off","pinyin":"","vi":"trì hoãn, tạm chưa","ex":{"tokens":["Let","us","hold","off","the","decision","until","Monday","."],"py":["","","","","","","","","."],"vi":"Hãy hoãn quyết định đến thứ Hai.","alts":[]}},
    {"id":"y4125-hold_on_to","hanzi":"hold on to","pinyin":"","vi":"giữ chặt, giữ lại","ex":{"tokens":["Hold","on","to","your","ticket","."],"py":["","","","","","."],"vi":"Hãy giữ lại vé của bạn.","alts":[]}},
    {"id":"y4125-hold_up","hanzi":"hold up","pinyin":"","vi":"làm trì hoãn; cướp có vũ trang","ex":{"tokens":["Roadworks","hold","up","the","traffic","every","morning","."],"py":["","","","","","","","."],"vi":"Việc sửa đường làm giao thông ùn tắc mỗi sáng.","alts":[]}},
@@ -73,7 +73,7 @@
    {"id":"y4125-let_on","hanzi":"let on","pinyin":"","vi":"để lộ ra","ex":{"tokens":["Do","not","let","on","that","you","know","."],"py":["","","","","","","","."],"vi":"Đừng để lộ là bạn biết.","alts":[]}},
    {"id":"y4125-level_off","hanzi":"level off","pinyin":"","vi":"chững lại, ổn định","ex":{"tokens":["Prices","should","level","off","next","year","."],"py":["","","","","","","."],"vi":"Giá cả hẳn sẽ chững lại vào năm sau.","alts":[]}}
   ]},
-  {"id":"y4126","title":"Cụm động từ nâng cao 1","desc":"Cụm động từ thường gặp trong giao tiếp và báo chí","icon":"Phrasal","unit":457,"course":"en","order":5120,"words":[
+  {"id":"y4126","title":"Cụm động từ nâng cao 1","desc":"Cụm động từ thường gặp trong giao tiếp và báo chí","icon":"Phrasal","unit":457,"course":"en","order":5280,"words":[
    {"id":"y4126-go_off","hanzi":"go off","pinyin":"","vi":"nổ; reo (chuông); ôi thiu","ex":{"tokens":["The","alarm","will","go","off","at","six","."],"py":["","","","","","","","."],"vi":"Chuông báo thức sẽ reo lúc sáu giờ.","alts":[]}},
    {"id":"y4126-go_over","hanzi":"go over","pinyin":"","vi":"xem lại, rà soát","ex":{"tokens":["Let","us","go","over","the","plan","again","."],"py":["","","","","","","","."],"vi":"Chúng ta hãy rà lại kế hoạch lần nữa.","alts":[]}},
    {"id":"y4126-go_through_with","hanzi":"go through with","pinyin":"","vi":"làm đến cùng","ex":{"tokens":["She","decided","to","go","through","with","the","wedding","."],"py":["","","","","","","","","."],"vi":"Cô ấy quyết định vẫn tiến hành đám cưới.","alts":[]}},
@@ -89,7 +89,7 @@
    {"id":"y4126-mess_up","hanzi":"mess up","pinyin":"","vi":"làm hỏng, làm rối","ex":{"tokens":["Do","not","mess","up","the","kitchen","."],"py":["","","","","","","."],"vi":"Đừng làm bừa nhà bếp.","alts":[]}},
    {"id":"y4126-miss_out_on","hanzi":"miss out on","pinyin":"","vi":"bỏ lỡ","ex":{"tokens":["Do","not","miss","out","on","this","chance","."],"py":["","","","","","","","."],"vi":"Đừng bỏ lỡ cơ hội này.","alts":[]}}
   ]},
-  {"id":"y4127","title":"Cụm động từ nâng cao 2","desc":"Cụm động từ thường gặp trong giao tiếp và báo chí","icon":"Phrasal","unit":457,"course":"en","order":5130,"words":[
+  {"id":"y4127","title":"Cụm động từ nâng cao 2","desc":"Cụm động từ thường gặp trong giao tiếp và báo chí","icon":"Phrasal","unit":457,"course":"en","order":5290,"words":[
    {"id":"y4127-mix_up","hanzi":"mix up","pinyin":"","vi":"nhầm lẫn","ex":{"tokens":["I","always","mix","up","the","twins","."],"py":["","","","","","","."],"vi":"Tôi luôn nhầm hai đứa sinh đôi.","alts":[]}},
    {"id":"y4127-narrow_down","hanzi":"narrow down","pinyin":"","vi":"thu hẹp lại","ex":{"tokens":["We","must","narrow","down","the","list","."],"py":["","","","","","","."],"vi":"Chúng ta phải thu hẹp danh sách.","alts":[]}},
    {"id":"y4127-nod_off","hanzi":"nod off","pinyin":"","vi":"ngủ gật","ex":{"tokens":["I","nod","off","in","long","meetings","."],"py":["","","","","","","."],"vi":"Tôi ngủ gật trong các cuộc họp dài.","alts":[]}},
@@ -105,7 +105,7 @@
    {"id":"y4127-play_down","hanzi":"play down","pinyin":"","vi":"làm giảm nhẹ tầm quan trọng","ex":{"tokens":["Officials","play","down","the","risk","."],"py":["","","","","","."],"vi":"Các quan chức làm nhẹ mức độ rủi ro.","alts":[]}},
    {"id":"y4127-play_up","hanzi":"play up","pinyin":"","vi":"thổi phồng; quậy phá","ex":{"tokens":["Adverts","play","up","the","good","points","."],"py":["","","","","","","."],"vi":"Quảng cáo thổi phồng các điểm tốt.","alts":[]}}
   ]},
-  {"id":"y4128","title":"Cụm động từ nâng cao 3","desc":"Cụm động từ thường gặp trong giao tiếp và báo chí","icon":"Phrasal","unit":457,"course":"en","order":5140,"words":[
+  {"id":"y4128","title":"Cụm động từ nâng cao 3","desc":"Cụm động từ thường gặp trong giao tiếp và báo chí","icon":"Phrasal","unit":457,"course":"en","order":5300,"words":[
    {"id":"y4128-pull_through","hanzi":"pull through","pinyin":"","vi":"vượt qua (bệnh, khó khăn)","ex":{"tokens":["The","doctors","think","he","will","pull","through","."],"py":["","","","","","","","."],"vi":"Các bác sĩ nghĩ anh ấy sẽ qua khỏi.","alts":[]}},
    {"id":"y4128-push_ahead","hanzi":"push ahead","pinyin":"","vi":"tiếp tục xúc tiến","ex":{"tokens":["The","city","will","push","ahead","with","the","plan","."],"py":["","","","","","","","","."],"vi":"Thành phố sẽ tiếp tục xúc tiến kế hoạch.","alts":[]}},
    {"id":"y4128-put_across","hanzi":"put across","pinyin":"","vi":"diễn đạt, truyền đạt","ex":{"tokens":["She","knows","how","to","put","across","her","ideas","."],"py":["","","","","","","","","."],"vi":"Cô ấy biết cách truyền đạt ý tưởng của mình.","alts":[]}},
@@ -121,7 +121,7 @@
    {"id":"y4128-settle_down","hanzi":"settle down","pinyin":"","vi":"ổn định cuộc sống; ngồi yên","ex":{"tokens":["He","wants","to","settle","down","and","have","children","."],"py":["","","","","","","","","."],"vi":"Anh ấy muốn ổn định cuộc sống và sinh con.","alts":[]}},
    {"id":"y4128-settle_for","hanzi":"settle for","pinyin":"","vi":"đành chấp nhận","ex":{"tokens":["Do","not","settle","for","second","best","."],"py":["","","","","","","."],"vi":"Đừng đành chấp nhận hạng nhì.","alts":[]}}
   ]},
-  {"id":"y4129","title":"Cụm động từ nâng cao 4","desc":"Cụm động từ thường gặp trong giao tiếp và báo chí","icon":"Phrasal","unit":457,"course":"en","order":5150,"words":[
+  {"id":"y4129","title":"Cụm động từ nâng cao 4","desc":"Cụm động từ thường gặp trong giao tiếp và báo chí","icon":"Phrasal","unit":457,"course":"en","order":5310,"words":[
    {"id":"y4129-shake_off","hanzi":"shake off","pinyin":"","vi":"rũ bỏ, thoát khỏi","ex":{"tokens":["I","cannot","shake","off","this","cold","."],"py":["","","","","","","."],"vi":"Tôi không sao dứt được cơn cảm này.","alts":[]}},
    {"id":"y4129-shop_around","hanzi":"shop around","pinyin":"","vi":"khảo giá nhiều nơi","ex":{"tokens":["Shop","around","before","you","buy","a","car","."],"py":["","","","","","","","."],"vi":"Hãy khảo giá nhiều nơi trước khi mua xe.","alts":[]}},
    {"id":"y4129-show_off","hanzi":"show off","pinyin":"","vi":"khoe khoang","ex":{"tokens":["He","likes","to","show","off","his","new","watch","."],"py":["","","","","","","","","."],"vi":"Anh ấy thích khoe chiếc đồng hồ mới.","alts":[]}},
@@ -137,7 +137,7 @@
    {"id":"y4129-stand_by","hanzi":"stand by","pinyin":"","vi":"ủng hộ, ở bên; sẵn sàng","ex":{"tokens":["I","will","stand","by","you","."],"py":["","","","","","."],"vi":"Tôi sẽ luôn ở bên bạn.","alts":[]}},
    {"id":"y4129-stand_for","hanzi":"stand for","pinyin":"","vi":"là viết tắt của; đại diện cho","ex":{"tokens":["What","does","UN","stand","for","?"],"py":["","","","","","?"],"vi":"UN là viết tắt của gì?","alts":[]}}
   ]},
-  {"id":"y4130","title":"Cụm động từ nâng cao 5","desc":"Cụm động từ thường gặp trong giao tiếp và báo chí","icon":"Phrasal","unit":457,"course":"en","order":5160,"words":[
+  {"id":"y4130","title":"Cụm động từ nâng cao 5","desc":"Cụm động từ thường gặp trong giao tiếp và báo chí","icon":"Phrasal","unit":457,"course":"en","order":5320,"words":[
    {"id":"y4130-stand_in_for","hanzi":"stand in for","pinyin":"","vi":"thay thế tạm thời","ex":{"tokens":["I","will","stand","in","for","the","manager","today","."],"py":["","","","","","","","","."],"vi":"Hôm nay tôi sẽ thay quản lý.","alts":[]}},
    {"id":"y4130-stand_out","hanzi":"stand out","pinyin":"","vi":"nổi bật","ex":{"tokens":["Bright","colors","stand","out","."],"py":["","","","","."],"vi":"Màu sáng thì nổi bật.","alts":[]}},
    {"id":"y4130-stand_up_for","hanzi":"stand up for","pinyin":"","vi":"bênh vực","ex":{"tokens":["You","should","stand","up","for","your","rights","."],"py":["","","","","","","","."],"vi":"Bạn nên bảo vệ quyền lợi của mình.","alts":[]}},

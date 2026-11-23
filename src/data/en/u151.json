@@ -1,6 +1,6 @@
 {
  "units": [
-  {"unit":151,"level":1,"title":"Phần 9: Mở rộng – Đồ vật và hành động quen thuộc","desc":"Đồ vật và hành động quen thuộc, Con vật và thiên nhiên, Đồ ăn, đồ chơi và lớp học","color":"leaf","course":"en"}
+  {"unit":151,"level":1,"title":"Phần 9: Mở rộng – Đồ vật và hành động quen thuộc","desc":"Đồ vật và hành động quen thuộc, Con vật và thiên nhiên, Đồ ăn, đồ chơi và lớp học, Từ ghép đơn giản","color":"leaf","course":"en"}
  ],
  "lessons": [
   {"id":"y1001","title":"Đồ vật và hành động quen thuộc 1","desc":"Đồ chơi, đồ ăn vặt, con vật nhỏ, hành động","icon":"Kids","unit":151,"course":"en","order":820,"words":[
@@ -113,6 +113,48 @@
    {"id":"y1007-playtime","hanzi":"playtime","pinyin":"","vi":"giờ chơi","ex":{"tokens":["Playtime","is","after","lunch","."],"py":["","","","","."],"vi":"Giờ chơi là sau bữa trưa.","alts":[]}},
    {"id":"y1007-recess","hanzi":"recess","pinyin":"","vi":"giờ ra chơi","ex":{"tokens":["We","run","at","recess","."],"py":["","","","","."],"vi":"Chúng tôi chạy nhảy vào giờ ra chơi.","alts":[]}},
    {"id":"y1007-show_and_tell","hanzi":"show-and-tell","pinyin":"","vi":"giờ mang đồ đến lớp và kể chuyện","ex":{"tokens":["I","took","my","shell","to","show-and-tell","."],"py":["","","","","","","."],"vi":"Tôi mang vỏ sò đến giờ kể chuyện ở lớp.","alts":[]}}
+  ]},
+  {"id":"y1008","title":"Từ ghép đơn giản 1","desc":"Đồ vật, đồ ăn, gia đình, sân chơi","icon":"Simple","unit":151,"course":"en","order":890,"words":[
+   {"id":"y1008-bathtime","hanzi":"bathtime","pinyin":"","vi":"giờ tắm","ex":{"tokens":["It","is","bathtime","for","the","baby","."],"py":["","","","","","","."],"vi":"Đến giờ tắm cho em bé rồi.","alts":[]}},
+   {"id":"y1008-mealtime","hanzi":"mealtime","pinyin":"","vi":"giờ ăn","ex":{"tokens":["Wash","your","hands","before","mealtime","."],"py":["","","","","","."],"vi":"Hãy rửa tay trước giờ ăn.","alts":[]}},
+   {"id":"y1008-lunchtime","hanzi":"lunchtime","pinyin":"","vi":"giờ ăn trưa","ex":{"tokens":["We","play","at","lunchtime","."],"py":["","","","","."],"vi":"Chúng tôi chơi vào giờ ăn trưa.","alts":[]}},
+   {"id":"y1008-daytime","hanzi":"daytime","pinyin":"","vi":"ban ngày","ex":{"tokens":["Owls","sleep","in","the","daytime","."],"py":["","","","","","."],"vi":"Cú ngủ vào ban ngày.","alts":[]}},
+   {"id":"y1008-nighttime","hanzi":"nighttime","pinyin":"","vi":"ban đêm","ex":{"tokens":["Stars","come","out","at","nighttime","."],"py":["","","","","","."],"vi":"Sao hiện ra vào ban đêm.","alts":[]}},
+   {"id":"y1008-birthday_cake","hanzi":"birthday cake","pinyin":"","vi":"bánh sinh nhật","ex":{"tokens":["Mom","made","a","birthday","cake","."],"py":["","","","","","."],"vi":"Mẹ làm một chiếc bánh sinh nhật.","alts":[]}},
+   {"id":"y1008-birthday_party","hanzi":"birthday party","pinyin":"","vi":"tiệc sinh nhật","ex":{"tokens":["Come","to","my","birthday","party","."],"py":["","","","","","."],"vi":"Hãy đến dự tiệc sinh nhật của tôi.","alts":[]}},
+   {"id":"y1008-birthday_card","hanzi":"birthday card","pinyin":"","vi":"thiệp sinh nhật","ex":{"tokens":["I","made","a","birthday","card","for","Dad","."],"py":["","","","","","","","."],"vi":"Tôi làm một tấm thiệp sinh nhật cho bố.","alts":[]}},
+   {"id":"y1008-birthday_present","hanzi":"birthday present","pinyin":"","vi":"quà sinh nhật","ex":{"tokens":["This","is","a","birthday","present","for","you","."],"py":["","","","","","","","."],"vi":"Đây là quà sinh nhật cho bạn.","alts":[]}},
+   {"id":"y1008-christmas_tree","hanzi":"Christmas tree","pinyin":"","vi":"cây thông Noel","ex":{"tokens":["We","have","a","big","Christmas","tree","."],"py":["","","","","","","."],"vi":"Chúng tôi có một cây thông Noel to.","alts":[]}},
+   {"id":"y1008-snowball","hanzi":"snowball","pinyin":"","vi":"quả cầu tuyết","ex":{"tokens":["He","threw","a","snowball","at","me","."],"py":["","","","","","","."],"vi":"Cậu ấy ném một quả cầu tuyết vào tôi.","alts":[]}},
+   {"id":"y1008-rain_boots","hanzi":"rain boots","pinyin":"","vi":"ủng đi mưa","ex":{"tokens":["Put","on","your","rain","boots","."],"py":["","","","","","."],"vi":"Hãy mang ủng đi mưa vào.","alts":[]}}
+  ]},
+  {"id":"y1009","title":"Từ ghép đơn giản 2","desc":"Đồ vật, đồ ăn, gia đình, sân chơi","icon":"Simple","unit":151,"course":"en","order":900,"words":[
+   {"id":"y1009-bath_towel","hanzi":"bath towel","pinyin":"","vi":"khăn tắm","ex":{"tokens":["My","bath","towel","is","green","."],"py":["","","","","","."],"vi":"Khăn tắm của tôi màu xanh lá.","alts":[]}},
+   {"id":"y1009-hair_clip","hanzi":"hair clip","pinyin":"","vi":"kẹp tóc","ex":{"tokens":["She","has","a","pink","hair","clip","."],"py":["","","","","","","."],"vi":"Cô bé có một cái kẹp tóc màu hồng.","alts":[]}},
+   {"id":"y1009-hair_band","hanzi":"hair band","pinyin":"","vi":"băng đô, dây buộc tóc","ex":{"tokens":["I","need","a","hair","band","."],"py":["","","","","","."],"vi":"Tôi cần một cái dây buộc tóc.","alts":[]}},
+   {"id":"y1009-shoelace","hanzi":"shoelace","pinyin":"","vi":"dây giày","ex":{"tokens":["Your","shoelace","is","open","."],"py":["","","","","."],"vi":"Dây giày của bạn bị tuột.","alts":[]}},
+   {"id":"y1009-shoe_box","hanzi":"shoe box","pinyin":"","vi":"hộp đựng giày","ex":{"tokens":["I","keep","my","cards","in","a","shoe","box","."],"py":["","","","","","","","","."],"vi":"Tôi cất thẻ trong một cái hộp giày.","alts":[]}},
+   {"id":"y1009-toy_box","hanzi":"toy box","pinyin":"","vi":"thùng đồ chơi","ex":{"tokens":["Put","the","car","in","the","toy","box","."],"py":["","","","","","","","."],"vi":"Hãy cất xe vào thùng đồ chơi.","alts":[]}},
+   {"id":"y1009-toy_train","hanzi":"toy train","pinyin":"","vi":"tàu hỏa đồ chơi","ex":{"tokens":["He","got","a","toy","train","for","his","birthday","."],"py":["","","","","","","","","."],"vi":"Cậu bé được tặng một chiếc tàu hỏa đồ chơi vào sinh nhật.","alts":[]}},
+   {"id":"y1009-school_bus","hanzi":"school bus","pinyin":"","vi":"xe buýt trường học","ex":{"tokens":["The","school","bus","is","yellow","."],"py":["","","","","","."],"vi":"Xe buýt trường học màu vàng.","alts":[]}},
+   {"id":"y1009-fire_truck","hanzi":"fire truck","pinyin":"","vi":"xe cứu hỏa","ex":{"tokens":["The","fire","truck","is","red","."],"py":["","","","","","."],"vi":"Xe cứu hỏa màu đỏ.","alts":[]}},
+   {"id":"y1009-police_car","hanzi":"police car","pinyin":"","vi":"xe cảnh sát","ex":{"tokens":["A","police","car","is","on","the","street","."],"py":["","","","","","","","."],"vi":"Một chiếc xe cảnh sát ở trên đường.","alts":[]}},
+   {"id":"y1009-ice_cube","hanzi":"ice cube","pinyin":"","vi":"viên đá","ex":{"tokens":["Put","an","ice","cube","in","my","drink","."],"py":["","","","","","","","."],"vi":"Hãy cho một viên đá vào đồ uống của tôi.","alts":[]}},
+   {"id":"y1009-fruit_salad","hanzi":"fruit salad","pinyin":"","vi":"sa lát trái cây","ex":{"tokens":["We","made","a","fruit","salad","."],"py":["","","","","","."],"vi":"Chúng tôi làm món sa lát trái cây.","alts":[]}}
+  ]},
+  {"id":"y1010","title":"Từ ghép đơn giản 3","desc":"Đồ vật, đồ ăn, gia đình, sân chơi","icon":"Simple","unit":151,"course":"en","order":910,"words":[
+   {"id":"y1010-orange_juice","hanzi":"orange juice","pinyin":"","vi":"nước cam","ex":{"tokens":["I","drink","orange","juice","every","morning","."],"py":["","","","","","","."],"vi":"Sáng nào tôi cũng uống nước cam.","alts":[]}},
+   {"id":"y1010-apple_juice","hanzi":"apple juice","pinyin":"","vi":"nước táo","ex":{"tokens":["Can","I","have","some","apple","juice","?"],"py":["","","","","","","?"],"vi":"Cho tôi ít nước táo được không?","alts":[]}},
+   {"id":"y1010-tea_cup","hanzi":"tea cup","pinyin":"","vi":"tách trà","ex":{"tokens":["The","tea","cup","is","hot","."],"py":["","","","","","."],"vi":"Tách trà nóng.","alts":[]}},
+   {"id":"y1010-soup_bowl","hanzi":"soup bowl","pinyin":"","vi":"bát canh","ex":{"tokens":["My","soup","bowl","is","empty","."],"py":["","","","","","."],"vi":"Bát canh của tôi hết rồi.","alts":[]}},
+   {"id":"y1010-bread_roll","hanzi":"bread roll","pinyin":"","vi":"ổ bánh mì nhỏ","ex":{"tokens":["I","ate","a","bread","roll","."],"py":["","","","","","."],"vi":"Tôi ăn một ổ bánh mì nhỏ.","alts":[]}},
+   {"id":"y1010-big_sister","hanzi":"big sister","pinyin":"","vi":"chị gái","ex":{"tokens":["My","big","sister","helps","me","."],"py":["","","","","","."],"vi":"Chị gái tôi giúp tôi.","alts":[]}},
+   {"id":"y1010-little_sister","hanzi":"little sister","pinyin":"","vi":"em gái","ex":{"tokens":["My","little","sister","is","four","."],"py":["","","","","","."],"vi":"Em gái tôi bốn tuổi.","alts":[]}},
+   {"id":"y1010-big_brother","hanzi":"big brother","pinyin":"","vi":"anh trai","ex":{"tokens":["My","big","brother","is","tall","."],"py":["","","","","","."],"vi":"Anh trai tôi cao.","alts":[]}},
+   {"id":"y1010-little_brother","hanzi":"little brother","pinyin":"","vi":"em trai","ex":{"tokens":["My","little","brother","likes","cars","."],"py":["","","","","","."],"vi":"Em trai tôi thích xe hơi.","alts":[]}},
+   {"id":"y1010-tree_house","hanzi":"tree house","pinyin":"","vi":"nhà trên cây","ex":{"tokens":["We","play","in","the","tree","house","."],"py":["","","","","","","."],"vi":"Chúng tôi chơi trong ngôi nhà trên cây.","alts":[]}},
+   {"id":"y1010-dog_house","hanzi":"dog house","pinyin":"","vi":"chuồng chó","ex":{"tokens":["The","dog","sleeps","in","the","dog","house","."],"py":["","","","","","","","."],"vi":"Con chó ngủ trong chuồng.","alts":[]}},
+   {"id":"y1010-bird_house","hanzi":"bird house","pinyin":"","vi":"nhà cho chim","ex":{"tokens":["Dad","made","a","bird","house","."],"py":["","","","","","."],"vi":"Bố làm một cái nhà cho chim.","alts":[]}}
   ]}
  ]
 }

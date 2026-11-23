@@ -1,9 +1,9 @@
 {
  "units": [
-  {"unit":252,"level":2,"title":"Phần 20: Mở rộng – Động từ và tính từ thường ngày","desc":"Động từ và tính từ thường ngày, Nhà cửa, gia đình và khu phố, Món ăn và nấu nướng","color":"sky","course":"en"}
+  {"unit":252,"level":2,"title":"Phần 21: Mở rộng – Động từ và tính từ thường ngày","desc":"Động từ và tính từ thường ngày, Nhà cửa, gia đình và khu phố, Món ăn và nấu nướng","color":"sky","course":"en"}
  ],
  "lessons": [
-  {"id":"y2021","title":"Động từ và tính từ thường ngày 4","desc":"Hành động, cảm giác, trạng thái đồ vật","icon":"Everyday","unit":252,"course":"en","order":1870,"words":[
+  {"id":"y2021","title":"Động từ và tính từ thường ngày 4","desc":"Hành động, cảm giác, trạng thái đồ vật","icon":"Everyday","unit":252,"course":"en","order":1940,"words":[
    {"id":"y2021-filthy","hanzi":"filthy","pinyin":"","vi":"bẩn thỉu","ex":{"tokens":["Your","boots","are","filthy","."],"py":["","","","","."],"vi":"Đôi ủng của bạn bẩn thỉu quá.","alts":[]}},
    {"id":"y2021-dusty","hanzi":"dusty","pinyin":"","vi":"đầy bụi","ex":{"tokens":["The","old","books","are","dusty","."],"py":["","","","","","."],"vi":"Những cuốn sách cũ đầy bụi.","alts":[]}},
    {"id":"y2021-rusty","hanzi":"rusty","pinyin":"","vi":"bị gỉ","ex":{"tokens":["The","gate","is","old","and","rusty","."],"py":["","","","","","","."],"vi":"Cánh cổng cũ và gỉ sét.","alts":[]}},
@@ -19,7 +19,7 @@
    {"id":"y2021-giggly","hanzi":"giggly","pinyin":"","vi":"hay cười khúc khích","ex":{"tokens":["The","girls","were","in","a","giggly","mood","."],"py":["","","","","","","","."],"vi":"Mấy cô bé đang trong tâm trạng hay cười khúc khích.","alts":[]}},
    {"id":"y2021-boo","hanzi":"boo","pinyin":"","vi":"la ó","ex":{"tokens":["The","fans","began","to","boo","the","referee","."],"py":["","","","","","","","."],"vi":"Người hâm mộ bắt đầu la ó trọng tài.","alts":[]}}
   ]},
-  {"id":"y2022","title":"Nhà cửa, gia đình và khu phố 1","desc":"Người thân, cửa hàng, nơi công cộng, đồ trong nhà","icon":"Town","unit":252,"course":"en","order":1880,"words":[
+  {"id":"y2022","title":"Nhà cửa, gia đình và khu phố 1","desc":"Người thân, cửa hàng, nơi công cộng, đồ trong nhà","icon":"Town","unit":252,"course":"en","order":1950,"words":[
    {"id":"y2022-grandchild","hanzi":"grandchild","pinyin":"","vi":"cháu (của ông bà)","ex":{"tokens":["Her","first","grandchild","was","born","in","May","."],"py":["","","","","","","","."],"vi":"Đứa cháu đầu tiên của bà ấy chào đời vào tháng Năm.","alts":[]}},
    {"id":"y2022-stepbrother","hanzi":"stepbrother","pinyin":"","vi":"anh/em trai kế","ex":{"tokens":["My","stepbrother","is","older","than","me","."],"py":["","","","","","","."],"vi":"Anh trai kế của tôi lớn hơn tôi.","alts":[]}},
    {"id":"y2022-stepsister","hanzi":"stepsister","pinyin":"","vi":"chị/em gái kế","ex":{"tokens":["I","share","a","room","with","my","stepsister","."],"py":["","","","","","","","."],"vi":"Tôi ở chung phòng với chị gái kế.","alts":[]}},
@@ -35,7 +35,7 @@
    {"id":"y2022-queue","hanzi":"queue","pinyin":"","vi":"hàng người chờ; xếp hàng","ex":{"tokens":["There","was","a","long","queue","at","the","bank","."],"py":["","","","","","","","","."],"vi":"Có một hàng dài ở ngân hàng.","alts":[]}},
    {"id":"y2022-community_center","hanzi":"community center","pinyin":"","vi":"nhà văn hóa, trung tâm cộng đồng","ex":{"tokens":["The","class","is","at","the","community","center","."],"py":["","","","","","","","."],"vi":"Lớp học diễn ra ở nhà văn hóa.","alts":[]}}
   ]},
-  {"id":"y2023","title":"Nhà cửa, gia đình và khu phố 2","desc":"Người thân, cửa hàng, nơi công cộng, đồ trong nhà","icon":"Town","unit":252,"course":"en","order":1890,"words":[
+  {"id":"y2023","title":"Nhà cửa, gia đình và khu phố 2","desc":"Người thân, cửa hàng, nơi công cộng, đồ trong nhà","icon":"Town","unit":252,"course":"en","order":1960,"words":[
    {"id":"y2023-youth_club","hanzi":"youth club","pinyin":"","vi":"câu lạc bộ thanh thiếu niên","ex":{"tokens":["He","plays","table","tennis","at","the","youth","club","."],"py":["","","","","","","","","."],"vi":"Cậu ấy chơi bóng bàn ở câu lạc bộ thanh thiếu niên.","alts":[]}},
    {"id":"y2023-sports_club","hanzi":"sports club","pinyin":"","vi":"câu lạc bộ thể thao","ex":{"tokens":["She","joined","a","sports","club","."],"py":["","","","","","."],"vi":"Cô ấy tham gia một câu lạc bộ thể thao.","alts":[]}},
    {"id":"y2023-town_square","hanzi":"town square","pinyin":"","vi":"quảng trường thị trấn","ex":{"tokens":["The","market","is","in","the","town","square","."],"py":["","","","","","","","."],"vi":"Chợ họp ở quảng trường thị trấn.","alts":[]}},
@@ -51,7 +51,7 @@
    {"id":"y2023-butcher_shop","hanzi":"butcher shop","pinyin":"","vi":"cửa hàng thịt","ex":{"tokens":["We","buy","meat","at","the","butcher","shop","."],"py":["","","","","","","","."],"vi":"Chúng tôi mua thịt ở cửa hàng thịt.","alts":[]}},
    {"id":"y2023-fish_market","hanzi":"fish market","pinyin":"","vi":"chợ cá","ex":{"tokens":["The","fish","market","opens","very","early","."],"py":["","","","","","","."],"vi":"Chợ cá mở cửa rất sớm.","alts":[]}}
   ]},
-  {"id":"y2024","title":"Nhà cửa, gia đình và khu phố 3","desc":"Người thân, cửa hàng, nơi công cộng, đồ trong nhà","icon":"Town","unit":252,"course":"en","order":1900,"words":[
+  {"id":"y2024","title":"Nhà cửa, gia đình và khu phố 3","desc":"Người thân, cửa hàng, nơi công cộng, đồ trong nhà","icon":"Town","unit":252,"course":"en","order":1970,"words":[
    {"id":"y2024-farmers_market","hanzi":"farmers market","pinyin":"","vi":"chợ nông sản","ex":{"tokens":["We","buy","vegetables","at","the","farmers","market","."],"py":["","","","","","","","."],"vi":"Chúng tôi mua rau ở chợ nông sản.","alts":[]}},
    {"id":"y2024-food_court","hanzi":"food court","pinyin":"","vi":"khu ăn uống","ex":{"tokens":["Let","us","eat","at","the","food","court","."],"py":["","","","","","","","."],"vi":"Chúng ta ăn ở khu ăn uống đi.","alts":[]}},
    {"id":"y2024-coffee_shop","hanzi":"coffee shop","pinyin":"","vi":"quán cà phê","ex":{"tokens":["We","met","in","a","coffee","shop","."],"py":["","","","","","","."],"vi":"Chúng tôi gặp nhau ở quán cà phê.","alts":[]}},
@@ -67,7 +67,7 @@
    {"id":"y2024-primary_school","hanzi":"primary school","pinyin":"","vi":"trường tiểu học","ex":{"tokens":["She","teaches","at","a","primary","school","."],"py":["","","","","","","."],"vi":"Cô ấy dạy ở trường tiểu học.","alts":[]}},
    {"id":"y2024-secondary_school","hanzi":"secondary school","pinyin":"","vi":"trường trung học","ex":{"tokens":["He","is","in","his","first","year","of","secondary","school","."],"py":["","","","","","","","","","."],"vi":"Cậu ấy học năm đầu trung học.","alts":[]}}
   ]},
-  {"id":"y2025","title":"Nhà cửa, gia đình và khu phố 4","desc":"Người thân, cửa hàng, nơi công cộng, đồ trong nhà","icon":"Town","unit":252,"course":"en","order":1910,"words":[
+  {"id":"y2025","title":"Nhà cửa, gia đình và khu phố 4","desc":"Người thân, cửa hàng, nơi công cộng, đồ trong nhà","icon":"Town","unit":252,"course":"en","order":1980,"words":[
    {"id":"y2025-high_school","hanzi":"high school","pinyin":"","vi":"trường trung học phổ thông","ex":{"tokens":["We","met","in","high","school","."],"py":["","","","","","."],"vi":"Chúng tôi quen nhau thời trung học phổ thông.","alts":[]}},
    {"id":"y2025-driving_school","hanzi":"driving school","pinyin":"","vi":"trường dạy lái xe","ex":{"tokens":["I","learned","to","drive","at","a","driving","school","."],"py":["","","","","","","","","."],"vi":"Tôi học lái ở trường dạy lái xe.","alts":[]}},
    {"id":"y2025-swimming_pool","hanzi":"swimming pool","pinyin":"","vi":"hồ bơi","ex":{"tokens":["The","hotel","has","a","swimming","pool","."],"py":["","","","","","","."],"vi":"Khách sạn có hồ bơi.","alts":[]}},
@@ -83,7 +83,7 @@
    {"id":"y2025-front_yard","hanzi":"front yard","pinyin":"","vi":"sân trước","ex":{"tokens":["There","is","a","tree","in","the","front","yard","."],"py":["","","","","","","","","."],"vi":"Có một cái cây ở sân trước.","alts":[]}},
    {"id":"y2025-flower_bed","hanzi":"flower bed","pinyin":"","vi":"luống hoa","ex":{"tokens":["She","planted","roses","in","the","flower","bed","."],"py":["","","","","","","","."],"vi":"Bà ấy trồng hoa hồng trong luống hoa.","alts":[]}}
   ]},
-  {"id":"y2026","title":"Nhà cửa, gia đình và khu phố 5","desc":"Người thân, cửa hàng, nơi công cộng, đồ trong nhà","icon":"Town","unit":252,"course":"en","order":1920,"words":[
+  {"id":"y2026","title":"Nhà cửa, gia đình và khu phố 5","desc":"Người thân, cửa hàng, nơi công cộng, đồ trong nhà","icon":"Town","unit":252,"course":"en","order":1990,"words":[
    {"id":"y2026-vegetable_patch","hanzi":"vegetable patch","pinyin":"","vi":"vườn rau nhỏ","ex":{"tokens":["We","grow","beans","in","the","vegetable","patch","."],"py":["","","","","","","","."],"vi":"Chúng tôi trồng đậu trong vườn rau.","alts":[]}},
    {"id":"y2026-shower_head","hanzi":"shower head","pinyin":"","vi":"vòi hoa sen","ex":{"tokens":["The","shower","head","is","broken","."],"py":["","","","","","."],"vi":"Vòi hoa sen bị hỏng.","alts":[]}},
    {"id":"y2026-dryer","hanzi":"dryer","pinyin":"","vi":"máy sấy","ex":{"tokens":["Put","the","wet","clothes","in","the","dryer","."],"py":["","","","","","","","."],"vi":"Hãy bỏ quần áo ướt vào máy sấy.","alts":[]}},
@@ -99,7 +99,7 @@
    {"id":"y2026-dog_park","hanzi":"dog park","pinyin":"","vi":"công viên cho chó","ex":{"tokens":["We","take","Max","to","the","dog","park","."],"py":["","","","","","","","."],"vi":"Chúng tôi dẫn Max đến công viên cho chó.","alts":[]}},
    {"id":"y2026-bandstand","hanzi":"bandstand","pinyin":"","vi":"bục biểu diễn nhạc ngoài trời","ex":{"tokens":["A","band","played","on","the","bandstand","."],"py":["","","","","","","."],"vi":"Một ban nhạc chơi trên bục biểu diễn.","alts":[]}}
   ]},
-  {"id":"y2027","title":"Món ăn và nấu nướng 1","desc":"Món ăn, nguyên liệu, đồ uống, cách chế biến","icon":"Cooking","unit":252,"course":"en","order":1930,"words":[
+  {"id":"y2027","title":"Món ăn và nấu nướng 1","desc":"Món ăn, nguyên liệu, đồ uống, cách chế biến","icon":"Cooking","unit":252,"course":"en","order":2000,"words":[
    {"id":"y2027-main_course","hanzi":"main course","pinyin":"","vi":"món chính","ex":{"tokens":["I","had","fish","for","my","main","course","."],"py":["","","","","","","","."],"vi":"Tôi ăn cá cho món chính.","alts":[]}},
    {"id":"y2027-side_dish","hanzi":"side dish","pinyin":"","vi":"món ăn kèm","ex":{"tokens":["Rice","is","a","common","side","dish","."],"py":["","","","","","","."],"vi":"Cơm là món ăn kèm phổ biến.","alts":[]}},
    {"id":"y2027-set_meal","hanzi":"set meal","pinyin":"","vi":"suất ăn theo thực đơn cố định","ex":{"tokens":["The","set","meal","includes","a","drink","."],"py":["","","","","","","."],"vi":"Suất ăn cố định có kèm đồ uống.","alts":[]}},
@@ -114,7 +114,7 @@
    {"id":"y2027-chicken_breast","hanzi":"chicken breast","pinyin":"","vi":"ức gà","ex":{"tokens":["Grill","the","chicken","breast","for","ten","minutes","."],"py":["","","","","","","","."],"vi":"Hãy nướng ức gà trong mười phút.","alts":[]}},
    {"id":"y2027-chicken_wing","hanzi":"chicken wing","pinyin":"","vi":"cánh gà","ex":{"tokens":["He","ate","one","chicken","wing","after","another","."],"py":["","","","","","","","."],"vi":"Anh ấy ăn hết cánh gà này đến cánh gà khác.","alts":[]}}
   ]},
-  {"id":"y2028","title":"Món ăn và nấu nướng 2","desc":"Món ăn, nguyên liệu, đồ uống, cách chế biến","icon":"Cooking","unit":252,"course":"en","order":1940,"words":[
+  {"id":"y2028","title":"Món ăn và nấu nướng 2","desc":"Món ăn, nguyên liệu, đồ uống, cách chế biến","icon":"Cooking","unit":252,"course":"en","order":2010,"words":[
    {"id":"y2028-pork_chop","hanzi":"pork chop","pinyin":"","vi":"sườn cốt lết","ex":{"tokens":["I","ordered","a","pork","chop","with","rice","."],"py":["","","","","","","","."],"vi":"Tôi gọi một miếng sườn cốt lết ăn với cơm.","alts":[]}},
    {"id":"y2028-fish_fillet","hanzi":"fish fillet","pinyin":"","vi":"phi lê cá","ex":{"tokens":["Fry","the","fish","fillet","in","butter","."],"py":["","","","","","","."],"vi":"Hãy chiên phi lê cá với bơ.","alts":[]}},
    {"id":"y2028-fried_egg","hanzi":"fried egg","pinyin":"","vi":"trứng ốp la","ex":{"tokens":["I","like","a","fried","egg","on","toast","."],"py":["","","","","","","","."],"vi":"Tôi thích trứng ốp la ăn với bánh mì nướng.","alts":[]}},
@@ -129,7 +129,7 @@
    {"id":"y2028-rice_noodles","hanzi":"rice noodles","pinyin":"","vi":"bún, phở, mì gạo","ex":{"tokens":["Pho","is","made","with","rice","noodles","."],"py":["","","","","","","."],"vi":"Phở được làm từ bánh phở gạo.","alts":[]}},
    {"id":"y2028-spring_roll","hanzi":"spring roll","pinyin":"","vi":"chả giò, nem cuốn","ex":{"tokens":["I","ate","a","spring","roll","with","fish","sauce","."],"py":["","","","","","","","","."],"vi":"Tôi ăn một cuốn chả giò chấm nước mắm.","alts":[]}}
   ]},
-  {"id":"y2029","title":"Món ăn và nấu nướng 3","desc":"Món ăn, nguyên liệu, đồ uống, cách chế biến","icon":"Cooking","unit":252,"course":"en","order":1950,"words":[
+  {"id":"y2029","title":"Món ăn và nấu nướng 3","desc":"Món ăn, nguyên liệu, đồ uống, cách chế biến","icon":"Cooking","unit":252,"course":"en","order":2020,"words":[
    {"id":"y2029-hot_pot","hanzi":"hot pot","pinyin":"","vi":"lẩu","ex":{"tokens":["We","had","hot","pot","on","a","cold","night","."],"py":["","","","","","","","","."],"vi":"Chúng tôi ăn lẩu vào một đêm lạnh.","alts":[]}},
    {"id":"y2029-chili_sauce","hanzi":"chili sauce","pinyin":"","vi":"tương ớt","ex":{"tokens":["Do","you","want","chili","sauce","on","it","?"],"py":["","","","","","","","?"],"vi":"Bạn có muốn thêm tương ớt không?","alts":[]}},
    {"id":"y2029-olive_oil","hanzi":"olive oil","pinyin":"","vi":"dầu ô liu","ex":{"tokens":["Add","a","little","olive","oil","to","the","salad","."],"py":["","","","","","","","","."],"vi":"Hãy thêm chút dầu ô liu vào món rau trộn.","alts":[]}},
@@ -144,7 +144,7 @@
    {"id":"y2029-black_pepper","hanzi":"black pepper","pinyin":"","vi":"tiêu đen","ex":{"tokens":["I","like","black","pepper","on","my","eggs","."],"py":["","","","","","","","."],"vi":"Tôi thích rắc tiêu đen lên trứng.","alts":[]}},
    {"id":"y2029-lemongrass","hanzi":"lemongrass","pinyin":"","vi":"sả","ex":{"tokens":["The","soup","smells","of","lemongrass","."],"py":["","","","","","."],"vi":"Món canh thơm mùi sả.","alts":[]}}
   ]},
-  {"id":"y2030","title":"Món ăn và nấu nướng 4","desc":"Món ăn, nguyên liệu, đồ uống, cách chế biến","icon":"Cooking","unit":252,"course":"en","order":1960,"words":[
+  {"id":"y2030","title":"Món ăn và nấu nướng 4","desc":"Món ăn, nguyên liệu, đồ uống, cách chế biến","icon":"Cooking","unit":252,"course":"en","order":2030,"words":[
    {"id":"y2030-green_onion","hanzi":"green onion","pinyin":"","vi":"hành lá","ex":{"tokens":["Chop","a","green","onion","for","the","soup","."],"py":["","","","","","","","."],"vi":"Hãy thái một cây hành lá cho món canh.","alts":[]}},
    {"id":"y2030-beetroot","hanzi":"beetroot","pinyin":"","vi":"củ dền","ex":{"tokens":["Beetroot","makes","the","soup","red","."],"py":["","","","","","."],"vi":"Củ dền làm món canh có màu đỏ.","alts":[]}},
    {"id":"y2030-pomelo","hanzi":"pomelo","pinyin":"","vi":"quả bưởi","ex":{"tokens":["We","ate","pomelo","after","dinner","."],"py":["","","","","","."],"vi":"Chúng tôi ăn bưởi sau bữa tối.","alts":[]}},
@@ -158,34 +158,6 @@
    {"id":"y2030-hot_chocolate","hanzi":"hot chocolate","pinyin":"","vi":"sô cô la nóng","ex":{"tokens":["We","drank","hot","chocolate","by","the","fire","."],"py":["","","","","","","","."],"vi":"Chúng tôi uống sô cô la nóng bên lò sưởi.","alts":[]}},
    {"id":"y2030-bottled_water","hanzi":"bottled water","pinyin":"","vi":"nước đóng chai","ex":{"tokens":["Buy","some","bottled","water","for","the","trip","."],"py":["","","","","","","","."],"vi":"Hãy mua ít nước đóng chai cho chuyến đi.","alts":[]}},
    {"id":"y2030-sparkling_water","hanzi":"sparkling water","pinyin":"","vi":"nước khoáng có ga","ex":{"tokens":["Still","or","sparkling","water","?"],"py":["","","","","?"],"vi":"Nước thường hay nước khoáng có ga?","alts":[]}}
-  ]},
-  {"id":"y2031","title":"Món ăn và nấu nướng 5","desc":"Món ăn, nguyên liệu, đồ uống, cách chế biến","icon":"Cooking","unit":252,"course":"en","order":1970,"words":[
-   {"id":"y2031-fruit_juice","hanzi":"fruit juice","pinyin":"","vi":"nước ép trái cây","ex":{"tokens":["The","children","drink","fruit","juice","at","breakfast","."],"py":["","","","","","","","."],"vi":"Bọn trẻ uống nước ép trái cây vào bữa sáng.","alts":[]}},
-   {"id":"y2031-coconut_water","hanzi":"coconut water","pinyin":"","vi":"nước dừa","ex":{"tokens":["Coconut","water","is","great","on","a","hot","day","."],"py":["","","","","","","","","."],"vi":"Nước dừa rất tuyệt trong ngày nóng.","alts":[]}},
-   {"id":"y2031-sugarcane_juice","hanzi":"sugarcane juice","pinyin":"","vi":"nước mía","ex":{"tokens":["We","stopped","for","a","glass","of","sugarcane","juice","."],"py":["","","","","","","","","."],"vi":"Chúng tôi dừng lại uống một ly nước mía.","alts":[]}},
-   {"id":"y2031-energy_drink","hanzi":"energy drink","pinyin":"","vi":"nước tăng lực","ex":{"tokens":["He","had","an","energy","drink","before","the","game","."],"py":["","","","","","","","","."],"vi":"Anh ấy uống nước tăng lực trước trận đấu.","alts":[]}},
-   {"id":"y2031-tap_water","hanzi":"tap water","pinyin":"","vi":"nước máy","ex":{"tokens":["Is","the","tap","water","safe","to","drink","?"],"py":["","","","","","","","?"],"vi":"Nước máy có uống được không?","alts":[]}},
-   {"id":"y2031-ripe","hanzi":"ripe","pinyin":"","vi":"chín","ex":{"tokens":["These","bananas","are","not","ripe","yet","."],"py":["","","","","","","."],"vi":"Những quả chuối này chưa chín.","alts":[]}},
-   {"id":"y2031-stale","hanzi":"stale","pinyin":"","vi":"ôi, cũ, hết giòn","ex":{"tokens":["The","bread","is","stale","."],"py":["","","","","."],"vi":"Bánh mì đã bị cũ.","alts":[]}},
-   {"id":"y2031-frozen","hanzi":"frozen","pinyin":"","vi":"đông lạnh","ex":{"tokens":["We","bought","frozen","peas","."],"py":["","","","","."],"vi":"Chúng tôi mua đậu Hà Lan đông lạnh.","alts":[]}},
-   {"id":"y2031-canned","hanzi":"canned","pinyin":"","vi":"đóng hộp","ex":{"tokens":["I","made","soup","from","canned","tomatoes","."],"py":["","","","","","","."],"vi":"Tôi nấu canh từ cà chua đóng hộp.","alts":[]}},
-   {"id":"y2031-dried","hanzi":"dried","pinyin":"","vi":"sấy khô, phơi khô","ex":{"tokens":["She","put","dried","fruit","in","the","cake","."],"py":["","","","","","","","."],"vi":"Cô ấy cho trái cây sấy khô vào bánh.","alts":[]}},
-   {"id":"y2031-pickled","hanzi":"pickled","pinyin":"","vi":"muối chua, ngâm giấm","ex":{"tokens":["Pickled","vegetables","go","well","with","rice","."],"py":["","","","","","","."],"vi":"Rau củ muối chua rất hợp ăn với cơm.","alts":[]}},
-   {"id":"y2031-smoked","hanzi":"smoked","pinyin":"","vi":"hun khói","ex":{"tokens":["I","love","smoked","fish","."],"py":["","","","","."],"vi":"Tôi thích cá hun khói.","alts":[]}}
-  ]},
-  {"id":"y2032","title":"Món ăn và nấu nướng 6","desc":"Món ăn, nguyên liệu, đồ uống, cách chế biến","icon":"Cooking","unit":252,"course":"en","order":1980,"words":[
-   {"id":"y2032-grilled","hanzi":"grilled","pinyin":"","vi":"nướng (vỉ)","ex":{"tokens":["We","had","grilled","pork","for","lunch","."],"py":["","","","","","","."],"vi":"Chúng tôi ăn thịt heo nướng vào bữa trưa.","alts":[]}},
-   {"id":"y2032-roasted","hanzi":"roasted","pinyin":"","vi":"quay, rang","ex":{"tokens":["He","bought","a","bag","of","roasted","peanuts","."],"py":["","","","","","","","."],"vi":"Anh ấy mua một túi đậu phộng rang.","alts":[]}},
-   {"id":"y2032-steamed","hanzi":"steamed","pinyin":"","vi":"hấp","ex":{"tokens":["Steamed","fish","is","healthy","."],"py":["","","","","."],"vi":"Cá hấp tốt cho sức khỏe.","alts":[]}},
-   {"id":"y2032-baked","hanzi":"baked","pinyin":"","vi":"nướng (lò)","ex":{"tokens":["The","baked","apples","smell","wonderful","."],"py":["","","","","","."],"vi":"Táo nướng thơm tuyệt.","alts":[]}},
-   {"id":"y2032-fried","hanzi":"fried","pinyin":"","vi":"chiên, rán","ex":{"tokens":["Fried","chicken","is","his","favorite","."],"py":["","","","","","."],"vi":"Gà rán là món khoái khẩu của anh ấy.","alts":[]}},
-   {"id":"y2032-boiled","hanzi":"boiled","pinyin":"","vi":"luộc","ex":{"tokens":["We","ate","boiled","corn","."],"py":["","","","","."],"vi":"Chúng tôi ăn bắp luộc.","alts":[]}},
-   {"id":"y2032-tough","hanzi":"tough","pinyin":"","vi":"dai; khó khăn","ex":{"tokens":["This","meat","is","too","tough","to","chew","."],"py":["","","","","","","","."],"vi":"Thịt này dai quá, không nhai nổi.","alts":[]}},
-   {"id":"y2032-greasy","hanzi":"greasy","pinyin":"","vi":"nhiều dầu mỡ","ex":{"tokens":["The","pizza","was","too","greasy","."],"py":["","","","","","."],"vi":"Bánh pizza quá nhiều dầu mỡ.","alts":[]}},
-   {"id":"y2032-creamy","hanzi":"creamy","pinyin":"","vi":"béo ngậy, mịn như kem","ex":{"tokens":["The","soup","is","thick","and","creamy","."],"py":["","","","","","","."],"vi":"Món súp đặc và béo ngậy.","alts":[]}},
-   {"id":"y2032-crispy","hanzi":"crispy","pinyin":"","vi":"giòn rụm","ex":{"tokens":["I","like","crispy","bacon","."],"py":["","","","","."],"vi":"Tôi thích thịt xông khói giòn rụm.","alts":[]}},
-   {"id":"y2032-bland","hanzi":"bland","pinyin":"","vi":"nhạt nhẽo","ex":{"tokens":["The","rice","was","bland","without","sauce","."],"py":["","","","","","","."],"vi":"Cơm nhạt nhẽo khi không có nước chấm.","alts":[]}},
-   {"id":"y2032-mouthwatering","hanzi":"mouthwatering","pinyin":"","vi":"ngon chảy nước miếng","ex":{"tokens":["The","smell","from","the","kitchen","is","mouthwatering","."],"py":["","","","","","","","."],"vi":"Mùi thơm từ bếp làm chảy nước miếng.","alts":[]}}
   ]}
  ]
 }

@@ -1,9 +1,9 @@
 {
  "units": [
-  {"unit":203,"level":2,"title":"Phần 16: Kể chuyện và diễn đạt","desc":"Động từ bất quy tắc, kể chuyện, lời nói, khả năng, so sánh, cụm động từ","color":"grape","course":"en"}
+  {"unit":203,"level":2,"title":"Phần 17: Kể chuyện và diễn đạt","desc":"Động từ bất quy tắc, kể chuyện, lời nói, khả năng, so sánh, cụm động từ","color":"grape","course":"en"}
  ],
  "lessons": [
-  {"id":"m23","title":"Quá khứ bất quy tắc 2","desc":"Gave, got, knew, found, told, thought","icon":"V2","unit":203,"course":"en","order":1390,"words":[
+  {"id":"m23","title":"Quá khứ bất quy tắc 2","desc":"Gave, got, knew, found, told, thought","icon":"V2","unit":203,"course":"en","order":1460,"words":[
    {"id":"m23-gave","hanzi":"gave","pinyin":"","vi":"đã cho, đã tặng (quá khứ của give)","ex":{"tokens":["She","gave","me","a","book","."],"py":["","","","","","."],"vi":"Cô ấy đã tặng tôi một cuốn sách.","alts":[]}},
    {"id":"m23-got","hanzi":"got","pinyin":"","vi":"đã nhận, đã có (quá khứ của get)","ex":{"tokens":["I","got","a","letter","yesterday","."],"py":["","","","","","."],"vi":"Hôm qua tôi đã nhận được một lá thư.","alts":[]}},
    {"id":"m23-knew","hanzi":"knew","pinyin":"","vi":"đã biết (quá khứ của know)","ex":{"tokens":["I","knew","the","answer","."],"py":["","","","","."],"vi":"Tôi đã biết câu trả lời.","alts":[]}},
@@ -17,7 +17,7 @@
    {"id":"m23-slept","hanzi":"slept","pinyin":"","vi":"đã ngủ (quá khứ của sleep)","ex":{"tokens":["The","baby","slept","all","night","."],"py":["","","","","","."],"vi":"Em bé đã ngủ suốt đêm.","alts":[]}},
    {"id":"m23-ran","hanzi":"ran","pinyin":"","vi":"đã chạy (quá khứ của run)","ex":{"tokens":["The","dog","ran","after","the","ball","."],"py":["","","","","","","."],"vi":"Con chó đã chạy theo quả bóng.","alts":[]}}
   ]},
-  {"id":"m24","title":"Quá khứ phân từ","desc":"Given, taken, written, eaten, gone, known","icon":"V3","unit":203,"course":"en","order":1400,"words":[
+  {"id":"m24","title":"Quá khứ phân từ","desc":"Given, taken, written, eaten, gone, known","icon":"V3","unit":203,"course":"en","order":1470,"words":[
    {"id":"m24-given","hanzi":"given","pinyin":"","vi":"đã cho (phân từ của give)","ex":{"tokens":["She","has","given","me","good","advice","."],"py":["","","","","","","."],"vi":"Cô ấy đã cho tôi lời khuyên hay.","alts":[]}},
    {"id":"m24-taken","hanzi":"taken","pinyin":"","vi":"đã lấy, đã chụp (phân từ của take)","ex":{"tokens":["I","have","taken","many","photos","."],"py":["","","","","","."],"vi":"Tôi đã chụp nhiều ảnh.","alts":[]}},
    {"id":"m24-written","hanzi":"written","pinyin":"","vi":"đã viết (phân từ của write)","ex":{"tokens":["He","has","written","three","books","."],"py":["","","","","","."],"vi":"Ông ấy đã viết ba cuốn sách.","alts":[]}},
@@ -31,7 +31,7 @@
    {"id":"m24-fallen","hanzi":"fallen","pinyin":"","vi":"đã rơi, đã ngã (phân từ của fall)","ex":{"tokens":["The","leaves","have","fallen","from","the","tree","."],"py":["","","","","","","","."],"vi":"Lá đã rụng khỏi cây.","alts":[]}},
    {"id":"m24-begun","hanzi":"begun","pinyin":"","vi":"đã bắt đầu (phân từ của begin)","ex":{"tokens":["The","movie","has","begun","."],"py":["","","","","."],"vi":"Bộ phim đã bắt đầu.","alts":[]}}
   ]},
-  {"id":"m25","title":"Kể chuyện","desc":"Ngày xửa ngày xưa, bỗng nhiên, cuối cùng","icon":"Tale","unit":203,"course":"en","order":1410,"words":[
+  {"id":"m25","title":"Kể chuyện","desc":"Ngày xửa ngày xưa, bỗng nhiên, cuối cùng","icon":"Tale","unit":203,"course":"en","order":1480,"words":[
    {"id":"m25-once_upon_a_time","hanzi":"once upon a time","pinyin":"","vi":"ngày xửa ngày xưa","ex":{"tokens":["Once","upon","a","time",",","there","was","a","king","."],"py":["","","","",",","","","","","."],"vi":"Ngày xửa ngày xưa, có một ông vua.","alts":[]}},
    {"id":"m25-suddenly","hanzi":"suddenly","pinyin":"","vi":"bỗng nhiên","ex":{"tokens":["Suddenly",",","the","lights","went","out","."],"py":["",",","","","","","."],"vi":"Bỗng nhiên, đèn tắt.","alts":[]}},
    {"id":"m25-finally","hanzi":"finally","pinyin":"","vi":"cuối cùng","ex":{"tokens":["Finally",",","we","arrived","at","the","hotel","."],"py":["",",","","","","","","."],"vi":"Cuối cùng, chúng tôi đã đến khách sạn.","alts":[]}},
@@ -45,7 +45,7 @@
    {"id":"m25-luckily","hanzi":"luckily","pinyin":"","vi":"may mắn thay","ex":{"tokens":["Luckily",",","nobody","was","hurt","."],"py":["",",","","","","."],"vi":"May mắn thay, không ai bị thương.","alts":[]}},
    {"id":"m25-unfortunately","hanzi":"unfortunately","pinyin":"","vi":"thật không may","ex":{"tokens":["Unfortunately",",","I","missed","the","train","."],"py":["",",","","","","","."],"vi":"Thật không may, tôi đã lỡ tàu.","alts":[]}}
   ]},
-  {"id":"m26","title":"Động từ lời nói","desc":"Hét, thì thầm, ngắt lời, khen, đổ lỗi","icon":"Say","unit":203,"course":"en","order":1420,"words":[
+  {"id":"m26","title":"Động từ lời nói","desc":"Hét, thì thầm, ngắt lời, khen, đổ lỗi","icon":"Say","unit":203,"course":"en","order":1490,"words":[
    {"id":"m26-shout","hanzi":"shout","pinyin":"","vi":"hét, la to","ex":{"tokens":["Do","not","shout","in","the","library","."],"py":["","","","","","","."],"vi":"Đừng la hét trong thư viện.","alts":[]}},
    {"id":"m26-whisper","hanzi":"whisper","pinyin":"","vi":"thì thầm","ex":{"tokens":["Please","whisper",",","the","baby","is","sleeping","."],"py":["","",",","","","","","."],"vi":"Hãy nói thì thầm thôi, em bé đang ngủ.","alts":[]}},
    {"id":"m26-scream","hanzi":"scream","pinyin":"","vi":"thét lên","ex":{"tokens":["I","heard","someone","scream","."],"py":["","","","","."],"vi":"Tôi nghe thấy ai đó thét lên.","alts":[]}},
@@ -59,7 +59,7 @@
    {"id":"m26-boast","hanzi":"boast","pinyin":"","vi":"khoe khoang","ex":{"tokens":["He","likes","to","boast","about","his","car","."],"py":["","","","","","","","."],"vi":"Anh ta thích khoe khoang về chiếc xe của mình.","alts":[]}},
    {"id":"m26-remark","hanzi":"remark","pinyin":"","vi":"nhận xét","ex":{"tokens":["She","made","a","kind","remark","about","my","dress","."],"py":["","","","","","","","","."],"vi":"Cô ấy đã có một nhận xét tử tế về chiếc váy của tôi.","alts":[]}}
   ]},
-  {"id":"m27","title":"Khả năng và sự chắc chắn","desc":"Ought to, be able to, perhaps, certainly","icon":"Can","unit":203,"course":"en","order":1430,"words":[
+  {"id":"m27","title":"Khả năng và sự chắc chắn","desc":"Ought to, be able to, perhaps, certainly","icon":"Can","unit":203,"course":"en","order":1500,"words":[
    {"id":"m27-ought_to","hanzi":"ought to","pinyin":"","vi":"nên","ex":{"tokens":["You","ought","to","see","a","doctor","."],"py":["","","","","","","."],"vi":"Bạn nên đi khám bác sĩ.","alts":[]}},
    {"id":"m27-be_able_to","hanzi":"be able to","pinyin":"","vi":"có thể, có khả năng","ex":{"tokens":["You","will","be","able","to","swim","soon","."],"py":["","","","","","","","."],"vi":"Bạn sẽ sớm biết bơi.","alts":[]}},
    {"id":"m27-be_allowed_to","hanzi":"be allowed to","pinyin":"","vi":"được phép","ex":{"tokens":["Children","should","not","be","allowed","to","drive","."],"py":["","","","","","","","."],"vi":"Trẻ em không nên được phép lái xe.","alts":[]}},
@@ -73,7 +73,7 @@
    {"id":"m27-surely","hanzi":"surely","pinyin":"","vi":"chắc hẳn","ex":{"tokens":["Surely","you","remember","her","."],"py":["","","","","."],"vi":"Chắc hẳn bạn nhớ cô ấy.","alts":[]}},
    {"id":"m27-impossible","hanzi":"impossible","pinyin":"","vi":"không thể","ex":{"tokens":["Nothing","is","impossible","."],"py":["","","","."],"vi":"Không gì là không thể.","alts":[]}}
   ]},
-  {"id":"m28","title":"So sánh 2","desc":"Ít nhất, tệ nhất, giống, khác, gấp đôi","icon":"Than","unit":203,"course":"en","order":1440,"words":[
+  {"id":"m28","title":"So sánh 2","desc":"Ít nhất, tệ nhất, giống, khác, gấp đôi","icon":"Than","unit":203,"course":"en","order":1510,"words":[
    {"id":"m28-least","hanzi":"least","pinyin":"","vi":"ít nhất","ex":{"tokens":["This","is","the","least","expensive","phone","."],"py":["","","","","","","."],"vi":"Đây là chiếc điện thoại rẻ nhất.","alts":[]}},
    {"id":"m28-worst","hanzi":"worst","pinyin":"","vi":"tệ nhất","ex":{"tokens":["It","was","the","worst","day","of","my","life","."],"py":["","","","","","","","","."],"vi":"Đó là ngày tệ nhất trong đời tôi.","alts":[]}},
    {"id":"m28-further","hanzi":"further","pinyin":"","vi":"xa hơn, thêm nữa","ex":{"tokens":["The","bank","is","further","down","the","street","."],"py":["","","","","","","","."],"vi":"Ngân hàng ở xa hơn phía cuối phố.","alts":[]}},
@@ -87,7 +87,7 @@
    {"id":"m28-latest","hanzi":"latest","pinyin":"","vi":"mới nhất","ex":{"tokens":["Have","you","seen","his","latest","movie","?"],"py":["","","","","","","?"],"vi":"Bạn đã xem bộ phim mới nhất của anh ấy chưa?","alts":[]}},
    {"id":"m28-former","hanzi":"former","pinyin":"","vi":"trước đây, cũ","ex":{"tokens":["He","is","a","former","teacher","of","mine","."],"py":["","","","","","","","."],"vi":"Ông ấy là thầy giáo cũ của tôi.","alts":[]}}
   ]},
-  {"id":"m29","title":"Ai đó, ở đâu đó","desc":"Whoever, whatever, somewhere, nobody","icon":"Any","unit":203,"course":"en","order":1450,"words":[
+  {"id":"m29","title":"Ai đó, ở đâu đó","desc":"Whoever, whatever, somewhere, nobody","icon":"Any","unit":203,"course":"en","order":1520,"words":[
    {"id":"m29-whoever","hanzi":"whoever","pinyin":"","vi":"bất cứ ai","ex":{"tokens":["Whoever","comes","first","gets","the","best","seat","."],"py":["","","","","","","","."],"vi":"Bất cứ ai đến trước sẽ được chỗ ngồi tốt nhất.","alts":[]}},
    {"id":"m29-whatever","hanzi":"whatever","pinyin":"","vi":"bất cứ điều gì","ex":{"tokens":["Eat","whatever","you","like","."],"py":["","","","","."],"vi":"Hãy ăn bất cứ thứ gì bạn thích.","alts":[]}},
    {"id":"m29-whenever","hanzi":"whenever","pinyin":"","vi":"bất cứ khi nào","ex":{"tokens":["Call","me","whenever","you","want","."],"py":["","","","","","."],"vi":"Hãy gọi cho tôi bất cứ khi nào bạn muốn.","alts":[]}},
@@ -101,7 +101,7 @@
    {"id":"m29-somebody","hanzi":"somebody","pinyin":"","vi":"ai đó","ex":{"tokens":["Somebody","is","at","the","door","."],"py":["","","","","","."],"vi":"Có ai đó ở cửa.","alts":[]}},
    {"id":"m29-nobody","hanzi":"nobody","pinyin":"","vi":"không ai","ex":{"tokens":["Nobody","knows","the","answer","."],"py":["","","","","."],"vi":"Không ai biết câu trả lời.","alts":[]}}
   ]},
-  {"id":"m30","title":"Điện thoại và mạng","desc":"Sạc, tai nghe, nhấp, nhắn tin, bình luận","icon":"Net","unit":203,"course":"en","order":1460,"words":[
+  {"id":"m30","title":"Điện thoại và mạng","desc":"Sạc, tai nghe, nhấp, nhắn tin, bình luận","icon":"Net","unit":203,"course":"en","order":1530,"words":[
    {"id":"m30-charger","hanzi":"charger","pinyin":"","vi":"bộ sạc","ex":{"tokens":["Can","I","borrow","your","charger","?"],"py":["","","","","","?"],"vi":"Tôi mượn bộ sạc của bạn được không?","alts":[]}},
    {"id":"m30-headphones","hanzi":"headphones","pinyin":"","vi":"tai nghe","ex":{"tokens":["I","use","headphones","on","the","bus","."],"py":["","","","","","","."],"vi":"Tôi dùng tai nghe trên xe buýt.","alts":[]}},
    {"id":"m30-click","hanzi":"click","pinyin":"","vi":"nhấp chuột","ex":{"tokens":["Click","the","green","button","."],"py":["","","","","."],"vi":"Hãy nhấp vào nút màu xanh lá.","alts":[]}},
@@ -115,7 +115,7 @@
    {"id":"m30-username","hanzi":"username","pinyin":"","vi":"tên đăng nhập","ex":{"tokens":["Enter","your","username","here","."],"py":["","","","","."],"vi":"Hãy nhập tên đăng nhập của bạn vào đây.","alts":[]}},
    {"id":"m30-printer","hanzi":"printer","pinyin":"","vi":"máy in","ex":{"tokens":["The","printer","is","out","of","paper","."],"py":["","","","","","","."],"vi":"Máy in hết giấy rồi.","alts":[]}}
   ]},
-  {"id":"m31","title":"Du lịch 2","desc":"Vali, ba lô, thẻ lên máy bay, khu nghỉ dưỡng","icon":"Tour","unit":203,"course":"en","order":1470,"words":[
+  {"id":"m31","title":"Du lịch 2","desc":"Vali, ba lô, thẻ lên máy bay, khu nghỉ dưỡng","icon":"Tour","unit":203,"course":"en","order":1540,"words":[
    {"id":"m31-suitcase","hanzi":"suitcase","pinyin":"","vi":"va li","ex":{"tokens":["My","suitcase","is","too","heavy","."],"py":["","","","","","."],"vi":"Va li của tôi nặng quá.","alts":[]}},
    {"id":"m31-backpack","hanzi":"backpack","pinyin":"","vi":"ba lô","ex":{"tokens":["He","carries","a","backpack","to","school","."],"py":["","","","","","","."],"vi":"Cậu ấy đeo ba lô đến trường.","alts":[]}},
    {"id":"m31-boarding_pass","hanzi":"boarding pass","pinyin":"","vi":"thẻ lên máy bay","ex":{"tokens":["Show","your","boarding","pass",",","please","."],"py":["","","","",",","","."],"vi":"Vui lòng xuất trình thẻ lên máy bay.","alts":[]}},
@@ -129,7 +129,7 @@
    {"id":"m31-postcard","hanzi":"postcard","pinyin":"","vi":"bưu thiếp","ex":{"tokens":["I","sent","a","postcard","to","my","parents","."],"py":["","","","","","","","."],"vi":"Tôi đã gửi một tấm bưu thiếp cho bố mẹ.","alts":[]}},
    {"id":"m31-exchange_rate","hanzi":"exchange rate","pinyin":"","vi":"tỷ giá hối đoái","ex":{"tokens":["The","exchange","rate","is","good","today","."],"py":["","","","","","","."],"vi":"Hôm nay tỷ giá tốt.","alts":[]}}
   ]},
-  {"id":"m32","title":"Cụm động từ 1","desc":"Sit down, hurry up, write down, throw away","icon":"Phr","unit":203,"course":"en","order":1480,"words":[
+  {"id":"m32","title":"Cụm động từ 1","desc":"Sit down, hurry up, write down, throw away","icon":"Phr","unit":203,"course":"en","order":1550,"words":[
    {"id":"m32-sit_down","hanzi":"sit down","pinyin":"","vi":"ngồi xuống","ex":{"tokens":["Please","sit","down","."],"py":["","","","."],"vi":"Mời ngồi.","alts":[]}},
    {"id":"m32-stand_up","hanzi":"stand up","pinyin":"","vi":"đứng dậy","ex":{"tokens":["Stand","up","when","the","teacher","comes","in","."],"py":["","","","","","","","."],"vi":"Hãy đứng dậy khi giáo viên bước vào.","alts":[]}},
    {"id":"m32-go_out","hanzi":"go out","pinyin":"","vi":"đi ra ngoài, đi chơi","ex":{"tokens":["We","go","out","for","dinner","on","Saturday","."],"py":["","","","","","","","."],"vi":"Thứ Bảy chúng tôi ra ngoài ăn tối.","alts":[]}},
@@ -143,7 +143,7 @@
    {"id":"m32-go_on","hanzi":"go on","pinyin":"","vi":"tiếp tục","ex":{"tokens":["Please","go","on","with","your","story","."],"py":["","","","","","","."],"vi":"Hãy kể tiếp câu chuyện của bạn.","alts":[]}},
    {"id":"m32-look_up","hanzi":"look up","pinyin":"","vi":"tra cứu","ex":{"tokens":["Look","up","the","word","online","."],"py":["","","","","","."],"vi":"Hãy tra từ đó trên mạng.","alts":[]}}
   ]},
-  {"id":"m33","title":"Tiền tiêu hằng ngày","desc":"Ví, tiền tiêu vặt, phí, tổng cộng, giảm giá","icon":"Cash","unit":203,"course":"en","order":1490,"words":[
+  {"id":"m33","title":"Tiền tiêu hằng ngày","desc":"Ví, tiền tiêu vặt, phí, tổng cộng, giảm giá","icon":"Cash","unit":203,"course":"en","order":1560,"words":[
    {"id":"m33-purse","hanzi":"purse","pinyin":"","vi":"ví nữ","ex":{"tokens":["She","keeps","her","money","in","a","purse","."],"py":["","","","","","","","."],"vi":"Cô ấy để tiền trong ví.","alts":[]}},
    {"id":"m33-pocket_money","hanzi":"pocket money","pinyin":"","vi":"tiền tiêu vặt","ex":{"tokens":["I","get","pocket","money","every","week","."],"py":["","","","","","","."],"vi":"Tuần nào tôi cũng được cho tiền tiêu vặt.","alts":[]}},
    {"id":"m33-fee","hanzi":"fee","pinyin":"","vi":"lệ phí","ex":{"tokens":["The","entrance","fee","is","fifty","thousand","dong","."],"py":["","","","","","","","."],"vi":"Phí vào cửa là năm mươi nghìn đồng.","alts":[]}},

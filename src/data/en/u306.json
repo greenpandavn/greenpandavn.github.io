@@ -1,9 +1,9 @@
 {
  "units": [
-  {"unit":306,"level":3,"title":"Phần 26: Tư duy và diễn đạt nâng cao","desc":"Động từ, tính từ, trạng từ, cụm động từ","color":"sky","course":"en"}
+  {"unit":306,"level":3,"title":"Phần 28: Tư duy và diễn đạt nâng cao","desc":"Động từ, tính từ, trạng từ, cụm động từ","color":"sky","course":"en"}
  ],
  "lessons": [
-  {"id":"r14","title":"Động từ công việc","desc":"Thừa nhận, hợp tác, bồi thường, giám sát, ưu tiên","icon":"Work","unit":306,"course":"en","order":2760,"words":[
+  {"id":"r14","title":"Động từ công việc","desc":"Thừa nhận, hợp tác, bồi thường, giám sát, ưu tiên","icon":"Work","unit":306,"course":"en","order":2880,"words":[
    {"id":"r14-acknowledge","hanzi":"acknowledge","pinyin":"","vi":"thừa nhận, ghi nhận","ex":{"tokens":["You","should","acknowledge","your","mistake","."],"py":["","","","","","."],"vi":"Bạn nên thừa nhận lỗi của mình.","alts":[]}},
    {"id":"r14-collaborate","hanzi":"collaborate","pinyin":"","vi":"hợp tác","ex":{"tokens":["The","two","schools","collaborate","on","science","projects","."],"py":["","","","","","","","."],"vi":"Hai trường hợp tác trong các dự án khoa học.","alts":[]}},
    {"id":"r14-compensate","hanzi":"compensate","pinyin":"","vi":"bồi thường, bù đắp","ex":{"tokens":["The","airline","will","compensate","you","for","the","delay","."],"py":["","","","","","","","","."],"vi":"Hãng hàng không sẽ bồi thường cho bạn vì chuyến bay bị trễ.","alts":[]}},
@@ -17,7 +17,7 @@
    {"id":"r14-prioritize","hanzi":"prioritize","pinyin":"","vi":"ưu tiên","ex":{"tokens":["You","need","to","prioritize","your","health","."],"py":["","","","","","","."],"vi":"Bạn cần ưu tiên sức khỏe của mình.","alts":[]}},
    {"id":"r14-reinforce","hanzi":"reinforce","pinyin":"","vi":"củng cố, tăng cường","ex":{"tokens":["Games","reinforce","what","children","learn","."],"py":["","","","","","."],"vi":"Trò chơi củng cố những gì trẻ học được.","alts":[]}}
   ]},
-  {"id":"r15","title":"Động từ thay đổi","desc":"Giải quyết, hạn chế, giữ lại, tích lũy, loại bỏ","icon":"Change","unit":306,"course":"en","order":2770,"words":[
+  {"id":"r15","title":"Động từ thay đổi","desc":"Giải quyết, hạn chế, giữ lại, tích lũy, loại bỏ","icon":"Change","unit":306,"course":"en","order":2890,"words":[
    {"id":"r15-resolve","hanzi":"resolve","pinyin":"","vi":"giải quyết; quyết tâm","ex":{"tokens":["We","need","to","resolve","this","before","Friday","."],"py":["","","","","","","","."],"vi":"Chúng ta cần giải quyết việc này trước thứ Sáu.","alts":[]}},
    {"id":"r15-restrict","hanzi":"restrict","pinyin":"","vi":"hạn chế","ex":{"tokens":["The","new","rules","restrict","parking","in","the","center","."],"py":["","","","","","","","","."],"vi":"Quy định mới hạn chế đỗ xe ở trung tâm.","alts":[]}},
    {"id":"r15-retain","hanzi":"retain","pinyin":"","vi":"giữ lại","ex":{"tokens":["The","company","wants","to","retain","its","best","staff","."],"py":["","","","","","","","","."],"vi":"Công ty muốn giữ lại những nhân viên giỏi nhất.","alts":[]}},
@@ -31,7 +31,7 @@
    {"id":"r15-broaden","hanzi":"broaden","pinyin":"","vi":"mở rộng","ex":{"tokens":["Travel","helps","to","broaden","the","mind","."],"py":["","","","","","","."],"vi":"Du lịch giúp mở mang đầu óc.","alts":[]}},
    {"id":"r15-eliminate","hanzi":"eliminate","pinyin":"","vi":"loại bỏ","ex":{"tokens":["We","must","eliminate","these","errors","."],"py":["","","","","","."],"vi":"Chúng ta phải loại bỏ những lỗi này.","alts":[]}}
   ]},
-  {"id":"r16","title":"Tính từ học thuật 1","desc":"Rõ ràng, phù hợp, đáng kể, nhất quán, khả thi","icon":"Clear","unit":306,"course":"en","order":2780,"words":[
+  {"id":"r16","title":"Tính từ học thuật 1","desc":"Rõ ràng, phù hợp, đáng kể, nhất quán, khả thi","icon":"Clear","unit":306,"course":"en","order":2900,"words":[
    {"id":"r16-apparent","hanzi":"apparent","pinyin":"","vi":"rõ ràng, bề ngoài","ex":{"tokens":["He","left","for","no","apparent","reason","."],"py":["","","","","","","."],"vi":"Anh ấy bỏ đi mà không có lý do rõ ràng nào.","alts":[]}},
    {"id":"r16-appropriate","hanzi":"appropriate","pinyin":"","vi":"phù hợp, thích đáng","ex":{"tokens":["Jeans","are","not","appropriate","for","the","interview","."],"py":["","","","","","","","."],"vi":"Quần bò không phù hợp cho buổi phỏng vấn.","alts":[]}},
    {"id":"r16-arbitrary","hanzi":"arbitrary","pinyin":"","vi":"tùy tiện","ex":{"tokens":["The","decision","seemed","completely","arbitrary","."],"py":["","","","","","."],"vi":"Quyết định có vẻ hoàn toàn tùy tiện.","alts":[]}},
@@ -45,7 +45,7 @@
    {"id":"r16-feasible","hanzi":"feasible","pinyin":"","vi":"khả thi","ex":{"tokens":["Is","it","feasible","to","finish","by","May","?"],"py":["","","","","","","","?"],"vi":"Liệu có khả thi để hoàn thành trước tháng Năm không?","alts":[]}},
    {"id":"r16-fundamental","hanzi":"fundamental","pinyin":"","vi":"cơ bản, nền tảng","ex":{"tokens":["There","is","a","fundamental","difference","between","them","."],"py":["","","","","","","","."],"vi":"Có một khác biệt cơ bản giữa chúng.","alts":[]}}
   ]},
-  {"id":"r17","title":"Tính từ học thuật 2","desc":"Mãnh liệt, chính đáng, vừa phải, chính xác, nổi bật","icon":"Exact","unit":306,"course":"en","order":2790,"words":[
+  {"id":"r17","title":"Tính từ học thuật 2","desc":"Mãnh liệt, chính đáng, vừa phải, chính xác, nổi bật","icon":"Exact","unit":306,"course":"en","order":2910,"words":[
    {"id":"r17-intense","hanzi":"intense","pinyin":"","vi":"mãnh liệt, dữ dội","ex":{"tokens":["The","heat","was","intense","at","noon","."],"py":["","","","","","","."],"vi":"Cái nóng thật dữ dội vào buổi trưa.","alts":[]}},
    {"id":"r17-legitimate","hanzi":"legitimate","pinyin":"","vi":"chính đáng, hợp pháp","ex":{"tokens":["That","is","a","legitimate","question","."],"py":["","","","","","."],"vi":"Đó là một câu hỏi chính đáng.","alts":[]}},
    {"id":"r17-marginal","hanzi":"marginal","pinyin":"","vi":"không đáng kể, bên lề","ex":{"tokens":["The","difference","in","price","is","marginal","."],"py":["","","","","","","."],"vi":"Chênh lệch giá là không đáng kể.","alts":[]}},
@@ -59,7 +59,7 @@
    {"id":"r17-preliminary","hanzi":"preliminary","pinyin":"","vi":"sơ bộ","ex":{"tokens":["These","are","only","preliminary","results","."],"py":["","","","","","."],"vi":"Đây mới chỉ là kết quả sơ bộ.","alts":[]}},
    {"id":"r17-prominent","hanzi":"prominent","pinyin":"","vi":"nổi bật, có tiếng","ex":{"tokens":["She","is","a","prominent","lawyer","."],"py":["","","","","","."],"vi":"Bà ấy là một luật sư có tiếng.","alts":[]}}
   ]},
-  {"id":"r18","title":"Tính từ học thuật 3","desc":"Triệt để, cứng nhắc, tẻ nhạt, chưa từng có, nhiệt tình","icon":"Strong","unit":306,"course":"en","order":2800,"words":[
+  {"id":"r18","title":"Tính từ học thuật 3","desc":"Triệt để, cứng nhắc, tẻ nhạt, chưa từng có, nhiệt tình","icon":"Strong","unit":306,"course":"en","order":2920,"words":[
    {"id":"r18-radical","hanzi":"radical","pinyin":"","vi":"triệt để, cấp tiến","ex":{"tokens":["The","school","made","radical","changes","."],"py":["","","","","","."],"vi":"Nhà trường thực hiện những thay đổi triệt để.","alts":[]}},
    {"id":"r18-rigid","hanzi":"rigid","pinyin":"","vi":"cứng nhắc, cứng","ex":{"tokens":["The","rules","are","too","rigid","."],"py":["","","","","","."],"vi":"Các quy định quá cứng nhắc.","alts":[]}},
    {"id":"r18-tedious","hanzi":"tedious","pinyin":"","vi":"tẻ nhạt, chán ngắt","ex":{"tokens":["Filling","in","forms","is","tedious","."],"py":["","","","","","."],"vi":"Điền biểu mẫu thật tẻ nhạt.","alts":[]}},
@@ -73,7 +73,7 @@
    {"id":"r18-passionate","hanzi":"passionate","pinyin":"","vi":"đam mê, nồng nhiệt","ex":{"tokens":["He","is","passionate","about","football","."],"py":["","","","","","."],"vi":"Anh ấy đam mê bóng đá.","alts":[]}},
    {"id":"r18-determined","hanzi":"determined","pinyin":"","vi":"quyết tâm","ex":{"tokens":["She","is","determined","to","pass","the","exam","."],"py":["","","","","","","","."],"vi":"Cô ấy quyết tâm thi đỗ.","alts":[]}}
   ]},
-  {"id":"r19","title":"Thái độ và cách nghĩ","desc":"Thận trọng, lạc quan, cảm thông, tư duy, trực giác","icon":"Think","unit":306,"course":"en","order":2810,"words":[
+  {"id":"r19","title":"Thái độ và cách nghĩ","desc":"Thận trọng, lạc quan, cảm thông, tư duy, trực giác","icon":"Think","unit":306,"course":"en","order":2930,"words":[
    {"id":"r19-cautious","hanzi":"cautious","pinyin":"","vi":"thận trọng","ex":{"tokens":["Be","cautious","when","you","drive","at","night","."],"py":["","","","","","","","."],"vi":"Hãy thận trọng khi lái xe ban đêm.","alts":[]}},
    {"id":"r19-optimistic","hanzi":"optimistic","pinyin":"","vi":"lạc quan","ex":{"tokens":["I","am","optimistic","about","the","future","."],"py":["","","","","","","."],"vi":"Tôi lạc quan về tương lai.","alts":[]}},
    {"id":"r19-pessimistic","hanzi":"pessimistic","pinyin":"","vi":"bi quan","ex":{"tokens":["Do","not","be","so","pessimistic","."],"py":["","","","","","."],"vi":"Đừng bi quan như vậy.","alts":[]}},
@@ -87,7 +87,7 @@
    {"id":"r19-devastated","hanzi":"devastated","pinyin":"","vi":"suy sụp, đau khổ tột cùng","ex":{"tokens":["She","was","devastated","by","the","news","."],"py":["","","","","","","."],"vi":"Cô ấy suy sụp vì tin đó.","alts":[]}},
    {"id":"r19-restless","hanzi":"restless","pinyin":"","vi":"bồn chồn, không yên","ex":{"tokens":["The","children","get","restless","on","long","trips","."],"py":["","","","","","","","."],"vi":"Bọn trẻ trở nên bồn chồn trong những chuyến đi dài.","alts":[]}}
   ]},
-  {"id":"r20","title":"Trở ngại","desc":"Chướng ngại, nhược điểm, kẽ hở, gánh nặng, phiền toái","icon":"Block","unit":306,"course":"en","order":2820,"words":[
+  {"id":"r20","title":"Trở ngại","desc":"Chướng ngại, nhược điểm, kẽ hở, gánh nặng, phiền toái","icon":"Block","unit":306,"course":"en","order":2940,"words":[
    {"id":"r20-obstacle","hanzi":"obstacle","pinyin":"","vi":"chướng ngại, trở ngại","ex":{"tokens":["Money","is","the","main","obstacle","."],"py":["","","","","","."],"vi":"Tiền là trở ngại chính.","alts":[]}},
    {"id":"r20-drawback","hanzi":"drawback","pinyin":"","vi":"điểm bất lợi","ex":{"tokens":["The","only","drawback","is","the","price","."],"py":["","","","","","","."],"vi":"Điểm bất lợi duy nhất là giá cả.","alts":[]}},
    {"id":"r20-shortcoming","hanzi":"shortcoming","pinyin":"","vi":"thiếu sót, nhược điểm","ex":{"tokens":["Every","plan","has","a","shortcoming","."],"py":["","","","","","."],"vi":"Kế hoạch nào cũng có thiếu sót.","alts":[]}},
@@ -101,7 +101,7 @@
    {"id":"r20-halt","hanzi":"halt","pinyin":"","vi":"sự dừng lại; dừng lại","ex":{"tokens":["Work","came","to","a","halt","during","the","storm","."],"py":["","","","","","","","","."],"vi":"Công việc dừng lại trong cơn bão.","alts":[]}},
    {"id":"r20-hinder","hanzi":"hinder","pinyin":"","vi":"cản trở","ex":{"tokens":["Bad","weather","may","hinder","the","search","."],"py":["","","","","","","."],"vi":"Thời tiết xấu có thể cản trở cuộc tìm kiếm.","alts":[]}}
   ]},
-  {"id":"r21","title":"Sưu tầm và khoa học","desc":"Đồ cổ, đấu giá, bản sao, sao băng, chòm sao","icon":"Star","unit":306,"course":"en","order":2830,"words":[
+  {"id":"r21","title":"Sưu tầm và khoa học","desc":"Đồ cổ, đấu giá, bản sao, sao băng, chòm sao","icon":"Star","unit":306,"course":"en","order":2950,"words":[
    {"id":"r21-craftsmanship","hanzi":"craftsmanship","pinyin":"","vi":"tay nghề thủ công","ex":{"tokens":["The","table","shows","fine","craftsmanship","."],"py":["","","","","","."],"vi":"Chiếc bàn thể hiện tay nghề tinh xảo.","alts":[]}},
    {"id":"r21-antique","hanzi":"antique","pinyin":"","vi":"đồ cổ; cổ","ex":{"tokens":["She","collects","antique","clocks","."],"py":["","","","","."],"vi":"Cô ấy sưu tầm đồng hồ cổ.","alts":[]}},
    {"id":"r21-collector","hanzi":"collector","pinyin":"","vi":"nhà sưu tầm","ex":{"tokens":["The","collector","paid","a","million","for","it","."],"py":["","","","","","","","."],"vi":"Nhà sưu tầm trả một triệu cho nó.","alts":[]}},
@@ -115,7 +115,7 @@
    {"id":"r21-backpacking","hanzi":"backpacking","pinyin":"","vi":"du lịch bụi","ex":{"tokens":["We","went","backpacking","around","Asia","."],"py":["","","","","","."],"vi":"Chúng tôi đi du lịch bụi khắp châu Á.","alts":[]}},
    {"id":"r21-demonstration","hanzi":"demonstration","pinyin":"","vi":"cuộc biểu tình; buổi trình diễn","ex":{"tokens":["The","chef","gave","a","cooking","demonstration","."],"py":["","","","","","","."],"vi":"Đầu bếp có một buổi trình diễn nấu ăn.","alts":[]}}
   ]},
-  {"id":"r22","title":"Trạng từ nhận định","desc":"Do đó, đồng thời, phải thừa nhận, trớ trêu thay","icon":"Adverb","unit":306,"course":"en","order":2840,"words":[
+  {"id":"r22","title":"Trạng từ nhận định","desc":"Do đó, đồng thời, phải thừa nhận, trớ trêu thay","icon":"Adverb","unit":306,"course":"en","order":2960,"words":[
    {"id":"r22-accordingly","hanzi":"accordingly","pinyin":"","vi":"theo đó, cho phù hợp","ex":{"tokens":["Check","the","weather","and","dress","accordingly","."],"py":["","","","","","","."],"vi":"Hãy xem thời tiết và ăn mặc cho phù hợp.","alts":[]}},
    {"id":"r22-alternatively","hanzi":"alternatively","pinyin":"","vi":"hoặc là, cách khác là","ex":{"tokens":["We","could","drive",",","or","alternatively","take","the","train","."],"py":["","","",",","","","","","","."],"vi":"Chúng ta có thể lái xe, hoặc là đi tàu.","alts":[]}},
    {"id":"r22-subsequently","hanzi":"subsequently","pinyin":"","vi":"sau đó","ex":{"tokens":["He","was","arrested","and","subsequently","released","."],"py":["","","","","","","."],"vi":"Anh ta bị bắt và sau đó được thả.","alts":[]}},
@@ -129,7 +129,7 @@
    {"id":"r22-surprisingly","hanzi":"surprisingly","pinyin":"","vi":"thật ngạc nhiên","ex":{"tokens":["The","exam","was","surprisingly","easy","."],"py":["","","","","","."],"vi":"Bài thi dễ đến ngạc nhiên.","alts":[]}},
    {"id":"r22-by_chance","hanzi":"by chance","pinyin":"","vi":"tình cờ","ex":{"tokens":["I","met","her","by","chance","at","the","airport","."],"py":["","","","","","","","","."],"vi":"Tôi tình cờ gặp cô ấy ở sân bay.","alts":[]}}
   ]},
-  {"id":"r23","title":"Tính từ và động từ mạnh","desc":"Kỳ quặc, xảo quyệt, ảm đạm, giảm thiểu, kéo dài","icon":"Bold","unit":306,"course":"en","order":2850,"words":[
+  {"id":"r23","title":"Tính từ và động từ mạnh","desc":"Kỳ quặc, xảo quyệt, ảm đạm, giảm thiểu, kéo dài","icon":"Bold","unit":306,"course":"en","order":2970,"words":[
    {"id":"r23-awkward","hanzi":"awkward","pinyin":"","vi":"ngượng nghịu, khó xử","ex":{"tokens":["There","was","an","awkward","silence","."],"py":["","","","","","."],"vi":"Có một khoảng im lặng ngượng nghịu.","alts":[]}},
    {"id":"r23-bizarre","hanzi":"bizarre","pinyin":"","vi":"kỳ quặc","ex":{"tokens":["He","told","us","a","bizarre","story","."],"py":["","","","","","","."],"vi":"Anh ấy kể cho chúng tôi một câu chuyện kỳ quặc.","alts":[]}},
    {"id":"r23-cunning","hanzi":"cunning","pinyin":"","vi":"xảo quyệt, ranh mãnh","ex":{"tokens":["The","fox","is","a","cunning","animal","."],"py":["","","","","","","."],"vi":"Cáo là loài vật ranh mãnh.","alts":[]}},
@@ -143,7 +143,7 @@
    {"id":"r23-prolong","hanzi":"prolong","pinyin":"","vi":"kéo dài","ex":{"tokens":["Good","care","can","prolong","life","."],"py":["","","","","","."],"vi":"Chăm sóc tốt có thể kéo dài tuổi thọ.","alts":[]}},
    {"id":"r23-suspend","hanzi":"suspend","pinyin":"","vi":"đình chỉ, tạm ngừng","ex":{"tokens":["The","school","may","suspend","him","for","a","week","."],"py":["","","","","","","","","."],"vi":"Nhà trường có thể đình chỉ cậu ấy một tuần.","alts":[]}}
   ]},
-  {"id":"r24","title":"Cụm động từ 4","desc":"Giải thích cho, sao lưu, tiến hành, tình cờ gặp","icon":"Phrase","unit":306,"course":"en","order":2860,"words":[
+  {"id":"r24","title":"Cụm động từ 4","desc":"Giải thích cho, sao lưu, tiến hành, tình cờ gặp","icon":"Phrase","unit":306,"course":"en","order":2980,"words":[
    {"id":"r24-account_for","hanzi":"account for","pinyin":"","vi":"giải thích cho; chiếm (tỷ lệ)","ex":{"tokens":["Can","you","account","for","the","missing","money","?"],"py":["","","","","","","","?"],"vi":"Bạn có thể giải thích về số tiền bị thiếu không?","alts":[]}},
    {"id":"r24-back_up","hanzi":"back up","pinyin":"","vi":"sao lưu; ủng hộ","ex":{"tokens":["Always","back","up","your","files","."],"py":["","","","","","."],"vi":"Hãy luôn sao lưu các tệp của bạn.","alts":[]}},
    {"id":"r24-bring_about","hanzi":"bring about","pinyin":"","vi":"gây ra, mang lại","ex":{"tokens":["The","internet","did","bring","about","great","changes","."],"py":["","","","","","","","."],"vi":"Internet quả thật đã mang lại những thay đổi lớn.","alts":[]}},
@@ -157,7 +157,7 @@
    {"id":"r24-hand_over","hanzi":"hand over","pinyin":"","vi":"giao lại, bàn giao","ex":{"tokens":["Please","hand","over","the","keys","."],"py":["","","","","","."],"vi":"Vui lòng giao lại chìa khóa.","alts":[]}},
    {"id":"r24-hold_back","hanzi":"hold back","pinyin":"","vi":"kìm lại, ngăn lại","ex":{"tokens":["She","could","not","hold","back","her","tears","."],"py":["","","","","","","","."],"vi":"Cô ấy không kìm được nước mắt.","alts":[]}}
   ]},
-  {"id":"r25","title":"Cụm động từ 5","desc":"Theo kịp, sa thải, xem xét, bù đắp, tiếp quản","icon":"Phrase","unit":306,"course":"en","order":2870,"words":[
+  {"id":"r25","title":"Cụm động từ 5","desc":"Theo kịp, sa thải, xem xét, bù đắp, tiếp quản","icon":"Phrase","unit":306,"course":"en","order":2990,"words":[
    {"id":"r25-keep_up_with","hanzi":"keep up with","pinyin":"","vi":"theo kịp","ex":{"tokens":["I","cannot","keep","up","with","the","news","."],"py":["","","","","","","","."],"vi":"Tôi không theo kịp tin tức.","alts":[]}},
    {"id":"r25-lay_off","hanzi":"lay off","pinyin":"","vi":"sa thải (do cắt giảm)","ex":{"tokens":["The","factory","will","lay","off","fifty","workers","."],"py":["","","","","","","","."],"vi":"Nhà máy sẽ cho năm mươi công nhân nghỉ việc.","alts":[]}},
    {"id":"r25-look_into","hanzi":"look into","pinyin":"","vi":"xem xét, điều tra","ex":{"tokens":["We","will","look","into","your","complaint","."],"py":["","","","","","","."],"vi":"Chúng tôi sẽ xem xét khiếu nại của bạn.","alts":[]}},
@@ -171,7 +171,7 @@
    {"id":"r25-take_over","hanzi":"take over","pinyin":"","vi":"tiếp quản","ex":{"tokens":["She","will","take","over","the","family","business","."],"py":["","","","","","","","."],"vi":"Cô ấy sẽ tiếp quản công việc kinh doanh của gia đình.","alts":[]}},
    {"id":"r25-turn_out","hanzi":"turn out","pinyin":"","vi":"hóa ra; có mặt","ex":{"tokens":["Things","will","turn","out","fine","."],"py":["","","","","","."],"vi":"Mọi chuyện rồi sẽ ổn thôi.","alts":[]}}
   ]},
-  {"id":"r26","title":"Việc làm thời nay","desc":"Người làm tự do, thực tập sinh, bảng tính, làm việc kết hợp","icon":"Work","unit":306,"course":"en","order":2880,"words":[
+  {"id":"r26","title":"Việc làm thời nay","desc":"Người làm tự do, thực tập sinh, bảng tính, làm việc kết hợp","icon":"Work","unit":306,"course":"en","order":3000,"words":[
    {"id":"r26-freelancer","hanzi":"freelancer","pinyin":"","vi":"người làm tự do","ex":{"tokens":["She","left","the","company","to","work","as","a","freelancer","."],"py":["","","","","","","","","","."],"vi":"Cô ấy rời công ty để làm việc tự do.","alts":[]}},
    {"id":"r26-intern","hanzi":"intern","pinyin":"","vi":"thực tập sinh","ex":{"tokens":["The","new","intern","learns","very","quickly","."],"py":["","","","","","","."],"vi":"Thực tập sinh mới học rất nhanh.","alts":[]}},
    {"id":"r26-recruiter","hanzi":"recruiter","pinyin":"","vi":"nhà tuyển dụng","ex":{"tokens":["A","recruiter","contacted","me","about","the","position","."],"py":["","","","","","","","."],"vi":"Một nhà tuyển dụng đã liên hệ với tôi về vị trí đó.","alts":[]}},
@@ -185,7 +185,7 @@
    {"id":"r26-introvert","hanzi":"introvert","pinyin":"","vi":"người hướng nội","ex":{"tokens":["An","introvert","often","needs","quiet","time","alone","."],"py":["","","","","","","","."],"vi":"Người hướng nội thường cần thời gian yên tĩnh một mình.","alts":[]}},
    {"id":"r26-extrovert","hanzi":"extrovert","pinyin":"","vi":"người hướng ngoại","ex":{"tokens":["An","extrovert","enjoys","meeting","new","people","."],"py":["","","","","","","."],"vi":"Người hướng ngoại thích gặp gỡ người mới.","alts":[]}}
   ]},
-  {"id":"r27","title":"Môi trường và y tế","desc":"Tái sử dụng, phân hủy sinh học, cháy rừng, tiêm chủng","icon":"Green","unit":306,"course":"en","order":2890,"words":[
+  {"id":"r27","title":"Môi trường và y tế","desc":"Tái sử dụng, phân hủy sinh học, cháy rừng, tiêm chủng","icon":"Green","unit":306,"course":"en","order":3010,"words":[
    {"id":"r27-reusable","hanzi":"reusable","pinyin":"","vi":"có thể tái sử dụng","ex":{"tokens":["Bring","a","reusable","bag","when","you","go","shopping","."],"py":["","","","","","","","","."],"vi":"Hãy mang theo túi tái sử dụng khi đi mua sắm.","alts":[]}},
    {"id":"r27-disposable","hanzi":"disposable","pinyin":"","vi":"dùng một lần","ex":{"tokens":["The","café","stopped","using","disposable","cups","."],"py":["","","","","","","."],"vi":"Quán cà phê đã ngừng dùng cốc dùng một lần.","alts":[]}},
    {"id":"r27-biodegradable","hanzi":"biodegradable","pinyin":"","vi":"có thể phân hủy sinh học","ex":{"tokens":["These","plates","are","made","of","biodegradable","material","."],"py":["","","","","","","","."],"vi":"Những chiếc đĩa này làm từ vật liệu phân hủy sinh học.","alts":[]}},

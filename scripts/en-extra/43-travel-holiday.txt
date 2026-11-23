@@ -1,0 +1,68 @@
+# Level 2 (Trung cấp): du lịch và kỳ nghỉ.
+@2|Du lịch và kỳ nghỉ|Sân bay, khách sạn, bãi biển, đi lại|Holiday
+hand luggage|hành lý xách tay|You can take one piece of hand luggage.|Bạn được mang một kiện hành lý xách tay.
+check-in desk|quầy làm thủ tục|Go to the check-in desk first.|Hãy đến quầy làm thủ tục trước.
+arrival hall|sảnh đến|I will wait for you in the arrival hall.|Tôi sẽ đợi bạn ở sảnh đến.
+passport control|khu kiểm tra hộ chiếu|There was a long line at passport control.|Có một hàng dài ở khu kiểm tra hộ chiếu.
+customs officer|nhân viên hải quan|The customs officer opened my bag.|Nhân viên hải quan mở túi của tôi.
+security check|kiểm tra an ninh|Take off your belt at the security check.|Hãy tháo thắt lưng ở khu kiểm tra an ninh.
+duty-free shop|cửa hàng miễn thuế|She bought perfume in the duty-free shop.|Cô ấy mua nước hoa ở cửa hàng miễn thuế.
+seat number|số ghế|What is your seat number?|Số ghế của bạn là bao nhiêu?
+travel sickness|chứng say tàu xe|I get travel sickness on buses.|Tôi bị say xe khi đi xe buýt.
+one-way ticket|vé một chiều|I bought a one-way ticket to Hanoi.|Tôi mua vé một chiều đi Hà Nội.
+day trip|chuyến đi trong ngày|We took a day trip to the island.|Chúng tôi đi chơi đảo trong ngày.
+road trip|chuyến đi đường dài bằng ô tô|We went on a road trip along the coast.|Chúng tôi lái xe dọc bờ biển.
+boat trip|chuyến đi thuyền|The boat trip takes two hours.|Chuyến đi thuyền mất hai tiếng.
+bus tour|chuyến tham quan bằng xe buýt|We saw the city on a bus tour.|Chúng tôi ngắm thành phố trong chuyến tham quan bằng xe buýt.
+guided tour|chuyến tham quan có hướng dẫn viên|The museum offers a guided tour.|Bảo tàng có chuyến tham quan có hướng dẫn viên.
+tour group|đoàn du lịch|A tour group arrived at the hotel.|Một đoàn du lịch đến khách sạn.
+souvenir shop|cửa hàng lưu niệm|I bought a magnet at the souvenir shop.|Tôi mua một nam châm ở cửa hàng lưu niệm.
+travel agency|công ty du lịch|We booked the trip through a travel agency.|Chúng tôi đặt chuyến đi qua một công ty du lịch.
+booking|việc đặt chỗ|I made a booking for two nights.|Tôi đã đặt chỗ hai đêm.
+twin room|phòng hai giường đơn|We would like a twin room.|Chúng tôi muốn một phòng hai giường đơn.
+room key|chìa khóa phòng|I left my room key at reception.|Tôi để chìa khóa phòng ở quầy lễ tân.
+front desk|quầy lễ tân|Ask at the front desk for a map.|Hãy hỏi xin bản đồ ở quầy lễ tân.
+bellboy|nhân viên xách hành lý|The bellboy carried our bags.|Nhân viên xách hành lý mang túi giúp chúng tôi.
+check-out time|giờ trả phòng|Check-out time is eleven o'clock.|Giờ trả phòng là mười một giờ.
+homestay|nhà dân cho khách ở trọ|We stayed at a homestay in Sapa.|Chúng tôi ở homestay tại Sa Pa.
+beach hut|chòi trên bãi biển|We rented a beach hut for the day.|Chúng tôi thuê một cái chòi trên bãi biển trong ngày.
+campground|khu cắm trại|The campground is next to a lake.|Khu cắm trại nằm cạnh một cái hồ.
+cruise ship|tàu du lịch biển|A cruise ship is in the harbor.|Một chiếc tàu du lịch đang ở trong cảng.
+speedboat|ca nô cao tốc|We took a speedboat to the island.|Chúng tôi đi ca nô cao tốc ra đảo.
+rowing boat|thuyền chèo|They crossed the lake in a rowing boat.|Họ băng qua hồ bằng thuyền chèo.
+coastline|đường bờ biển|Vietnam has a long coastline.|Việt Nam có đường bờ biển dài.
+seaside|vùng ven biển|We spent a week at the seaside.|Chúng tôi ở vùng biển một tuần.
+sunbed|ghế tắm nắng|She fell asleep on a sunbed.|Cô ấy ngủ quên trên ghế tắm nắng.
+beach towel|khăn tắm biển|Do not forget your beach towel.|Đừng quên khăn tắm biển.
+sun hat|mũ che nắng|Wear a sun hat at midday.|Hãy đội mũ che nắng vào buổi trưa.
+surfboard|ván lướt sóng|He carried his surfboard to the sea.|Anh ấy mang ván lướt sóng ra biển.
+ski lift|cáp treo trượt tuyết|We took the ski lift to the top.|Chúng tôi đi cáp treo lên đỉnh.
+ski resort|khu nghỉ dưỡng trượt tuyết|They stayed at a ski resort in Japan.|Họ ở một khu trượt tuyết tại Nhật Bản.
+hiking boots|giày đi bộ đường dài|You need hiking boots for this trail.|Bạn cần giày đi bộ đường dài cho con đường mòn này.
+walking stick|gậy chống|Grandpa uses a walking stick.|Ông dùng gậy chống.
+footpath|lối đi bộ|Follow the footpath to the beach.|Hãy đi theo lối đi bộ ra bãi biển.
+signpost|biển chỉ đường|The signpost says two kilometers to town.|Biển chỉ đường ghi còn hai cây số nữa đến thị trấn.
+phrase book|sổ tay hội thoại|I took a Japanese phrase book with me.|Tôi mang theo một cuốn sổ tay hội thoại tiếng Nhật.
+travel guide|sách hướng dẫn du lịch|The travel guide lists cheap hotels.|Sách hướng dẫn du lịch liệt kê các khách sạn giá rẻ.
+foreign currency|ngoại tệ|You can change foreign currency at the bank.|Bạn có thể đổi ngoại tệ ở ngân hàng.
+money belt|đai đựng tiền|Keep your passport in a money belt.|Hãy để hộ chiếu trong đai đựng tiền.
+lost property|đồ thất lạc|I found my umbrella at the lost property office.|Tôi tìm thấy chiếc ô ở phòng đồ thất lạc.
+tourist office|văn phòng du lịch|The tourist office gives out free maps.|Văn phòng du lịch phát bản đồ miễn phí.
+low season|mùa thấp điểm|Hotels are cheaper in the low season.|Khách sạn rẻ hơn vào mùa thấp điểm.
+public holiday|ngày nghỉ lễ|Monday is a public holiday.|Thứ Hai là ngày nghỉ lễ.
+long weekend|kỳ nghỉ cuối tuần dài|We are going away for the long weekend.|Chúng tôi sẽ đi chơi vào kỳ nghỉ cuối tuần dài.
+time zone|múi giờ|London is in a different time zone.|Luân Đôn ở múi giờ khác.
+local time|giờ địa phương|We land at six local time.|Chúng tôi hạ cánh lúc sáu giờ theo giờ địa phương.
+ring road|đường vành đai|Take the ring road to avoid the center.|Hãy đi đường vành đai để tránh trung tâm.
+toll road|đường thu phí|The toll road is faster.|Đường thu phí đi nhanh hơn.
+petrol station|trạm xăng|We stopped at a petrol station.|Chúng tôi dừng ở một trạm xăng.
+rest stop|trạm dừng nghỉ|Let us have a coffee at the next rest stop.|Mình uống cà phê ở trạm dừng nghỉ tới nhé.
+car rental|dịch vụ thuê xe|The car rental office is at the airport.|Văn phòng thuê xe nằm ở sân bay.
+bus fare|tiền vé xe buýt|The bus fare is seven thousand dong.|Tiền vé xe buýt là bảy nghìn đồng.
+train fare|tiền vé tàu|The train fare went up this year.|Tiền vé tàu tăng trong năm nay.
+platform number|số sân ga|Check the platform number on the screen.|Hãy xem số sân ga trên màn hình.
+sleeper train|tàu giường nằm|We took the sleeper train to Hue.|Chúng tôi đi tàu giường nằm ra Huế.
+dining car|toa ăn|We had lunch in the dining car.|Chúng tôi ăn trưa ở toa ăn.
+subway map|bản đồ tàu điện ngầm|I have a subway map on my phone.|Tôi có bản đồ tàu điện ngầm trên điện thoại.
+tram stop|trạm xe điện|The tram stop is across the street.|Trạm xe điện ở bên kia đường.
+pickpocketing|nạn móc túi|Pickpocketing is common in busy markets.|Nạn móc túi phổ biến ở các khu chợ đông người.

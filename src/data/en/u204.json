@@ -1,9 +1,9 @@
 {
  "units": [
-  {"unit":204,"level":2,"title":"Phần 17: Nhà cửa, mua sắm và đi lại","desc":"Đồ gia dụng, quần áo, đường phố, mua hàng, du lịch biển","color":"sky","course":"en"}
+  {"unit":204,"level":2,"title":"Phần 18: Nhà cửa, mua sắm và đi lại","desc":"Đồ gia dụng, quần áo, đường phố, mua hàng, du lịch biển","color":"sky","course":"en"}
  ],
  "lessons": [
-  {"id":"n01","title":"Đồ điện gia dụng","desc":"Máy rửa bát, tủ đông, máy xay, ổ cắm","icon":"Home","unit":204,"course":"en","order":1500,"words":[
+  {"id":"n01","title":"Đồ điện gia dụng","desc":"Máy rửa bát, tủ đông, máy xay, ổ cắm","icon":"Home","unit":204,"course":"en","order":1570,"words":[
    {"id":"n01-detergent","hanzi":"detergent","pinyin":"","vi":"bột giặt, nước giặt","ex":{"tokens":["We","have","run","out","of","detergent","."],"py":["","","","","","","."],"vi":"Chúng ta hết nước giặt rồi.","alts":[]}},
    {"id":"n01-dishwasher","hanzi":"dishwasher","pinyin":"","vi":"máy rửa bát","ex":{"tokens":["Put","the","plates","in","the","dishwasher","."],"py":["","","","","","","."],"vi":"Hãy xếp đĩa vào máy rửa bát.","alts":[]}},
    {"id":"n01-freezer","hanzi":"freezer","pinyin":"","vi":"tủ đông, ngăn đá","ex":{"tokens":["There","is","ice","cream","in","the","freezer","."],"py":["","","","","","","","."],"vi":"Có kem trong ngăn đá.","alts":[]}},
@@ -17,7 +17,7 @@
    {"id":"n01-bleach","hanzi":"bleach","pinyin":"","vi":"thuốc tẩy; tẩy trắng","ex":{"tokens":["Do","not","use","bleach","on","this","shirt","."],"py":["","","","","","","","."],"vi":"Đừng dùng thuốc tẩy cho chiếc áo này.","alts":[]}},
    {"id":"n01-stain","hanzi":"stain","pinyin":"","vi":"vết bẩn; làm bẩn","ex":{"tokens":["There","is","a","coffee","stain","on","my","shirt","."],"py":["","","","","","","","","."],"vi":"Có một vết cà phê trên áo tôi.","alts":[]}}
   ]},
-  {"id":"n02","title":"Dụng cụ nấu ăn","desc":"Muôi, phới, đồ bào, rổ, tạp dề","icon":"Cook","unit":204,"course":"en","order":1510,"words":[
+  {"id":"n02","title":"Dụng cụ nấu ăn","desc":"Muôi, phới, đồ bào, rổ, tạp dề","icon":"Cook","unit":204,"course":"en","order":1580,"words":[
    {"id":"n02-ladle","hanzi":"ladle","pinyin":"","vi":"cái muôi","ex":{"tokens":["Serve","the","soup","with","a","ladle","."],"py":["","","","","","","."],"vi":"Hãy múc súp bằng muôi.","alts":[]}},
    {"id":"n02-spatula","hanzi":"spatula","pinyin":"","vi":"cái xẻng lật, phới dẹt","ex":{"tokens":["Turn","the","eggs","with","a","spatula","."],"py":["","","","","","","."],"vi":"Hãy lật trứng bằng xẻng lật.","alts":[]}},
    {"id":"n02-whisk","hanzi":"whisk","pinyin":"","vi":"cái đánh trứng; đánh (trứng)","ex":{"tokens":["Beat","the","eggs","with","a","whisk","."],"py":["","","","","","","."],"vi":"Hãy đánh trứng bằng cây đánh trứng.","alts":[]}},
@@ -31,7 +31,7 @@
    {"id":"n02-strainer","hanzi":"strainer","pinyin":"","vi":"cái rây lọc","ex":{"tokens":["Pour","the","tea","through","a","strainer","."],"py":["","","","","","","."],"vi":"Hãy rót trà qua rây lọc.","alts":[]}},
    {"id":"n02-tin","hanzi":"tin","pinyin":"","vi":"hộp (đồ hộp), hộp thiếc","ex":{"tokens":["She","opened","a","tin","of","tuna","."],"py":["","","","","","","."],"vi":"Cô ấy mở một hộp cá ngừ.","alts":[]}}
   ]},
-  {"id":"n03","title":"Các khu trong nhà","desc":"Gác mái, hành lang, hiên, ống khói, bãi cỏ","icon":"Room","unit":204,"course":"en","order":1520,"words":[
+  {"id":"n03","title":"Các khu trong nhà","desc":"Gác mái, hành lang, hiên, ống khói, bãi cỏ","icon":"Room","unit":204,"course":"en","order":1590,"words":[
    {"id":"n03-closet","hanzi":"closet","pinyin":"","vi":"tủ âm tường, tủ quần áo","ex":{"tokens":["Hang","your","coat","in","the","closet","."],"py":["","","","","","","."],"vi":"Hãy treo áo khoác trong tủ.","alts":[]}},
    {"id":"n03-attic","hanzi":"attic","pinyin":"","vi":"gác mái","ex":{"tokens":["We","keep","old","toys","in","the","attic","."],"py":["","","","","","","","."],"vi":"Chúng tôi cất đồ chơi cũ trên gác mái.","alts":[]}},
    {"id":"n03-hallway","hanzi":"hallway","pinyin":"","vi":"hành lang","ex":{"tokens":["Leave","your","umbrella","in","the","hallway","."],"py":["","","","","","","."],"vi":"Hãy để ô ở hành lang.","alts":[]}},
@@ -45,7 +45,7 @@
    {"id":"n03-bedsheet","hanzi":"bedsheet","pinyin":"","vi":"ga trải giường","ex":{"tokens":["I","changed","the","bedsheet","this","morning","."],"py":["","","","","","","."],"vi":"Sáng nay tôi đã thay ga trải giường.","alts":[]}},
    {"id":"n03-pillowcase","hanzi":"pillowcase","pinyin":"","vi":"vỏ gối","ex":{"tokens":["This","pillowcase","needs","washing","."],"py":["","","","","."],"vi":"Cái vỏ gối này cần giặt.","alts":[]}}
   ]},
-  {"id":"n04","title":"Thuê nhà và chỗ ở","desc":"Hợp đồng thuê, bạn cùng phòng, tiền điện nước","icon":"Rent","unit":204,"course":"en","order":1530,"words":[
+  {"id":"n04","title":"Thuê nhà và chỗ ở","desc":"Hợp đồng thuê, bạn cùng phòng, tiền điện nước","icon":"Rent","unit":204,"course":"en","order":1600,"words":[
    {"id":"n04-lease","hanzi":"lease","pinyin":"","vi":"hợp đồng thuê","ex":{"tokens":["We","signed","a","one-year","lease","."],"py":["","","","","","."],"vi":"Chúng tôi ký hợp đồng thuê một năm.","alts":[]}},
    {"id":"n04-roommate","hanzi":"roommate","pinyin":"","vi":"bạn cùng phòng","ex":{"tokens":["My","roommate","cooks","very","well","."],"py":["","","","","","."],"vi":"Bạn cùng phòng của tôi nấu ăn rất ngon.","alts":[]}},
    {"id":"n04-landlady","hanzi":"landlady","pinyin":"","vi":"bà chủ nhà","ex":{"tokens":["The","landlady","lives","downstairs","from","us","."],"py":["","","","","","","."],"vi":"Bà chủ nhà sống ở tầng dưới chúng tôi.","alts":[]}},
@@ -59,7 +59,7 @@
    {"id":"n04-villa","hanzi":"villa","pinyin":"","vi":"biệt thự","ex":{"tokens":["We","stayed","in","a","villa","with","a","pool","."],"py":["","","","","","","","","."],"vi":"Chúng tôi ở trong một biệt thự có hồ bơi.","alts":[]}},
    {"id":"n04-hometown","hanzi":"hometown","pinyin":"","vi":"quê nhà","ex":{"tokens":["I","visit","my","hometown","twice","a","year","."],"py":["","","","","","","","."],"vi":"Tôi về thăm quê hai lần mỗi năm.","alts":[]}}
   ]},
-  {"id":"n05","title":"Vải và chi tiết quần áo","desc":"Len, bò, nhung, ren, khóa cài","icon":"Cloth","unit":204,"course":"en","order":1540,"words":[
+  {"id":"n05","title":"Vải và chi tiết quần áo","desc":"Len, bò, nhung, ren, khóa cài","icon":"Cloth","unit":204,"course":"en","order":1610,"words":[
    {"id":"n05-fabric","hanzi":"fabric","pinyin":"","vi":"vải","ex":{"tokens":["This","fabric","feels","very","soft","."],"py":["","","","","","."],"vi":"Loại vải này sờ rất mềm.","alts":[]}},
    {"id":"n05-wool","hanzi":"wool","pinyin":"","vi":"len","ex":{"tokens":["The","scarf","is","made","of","wool","."],"py":["","","","","","","."],"vi":"Chiếc khăn được làm bằng len.","alts":[]}},
    {"id":"n05-denim","hanzi":"denim","pinyin":"","vi":"vải bò","ex":{"tokens":["She","wore","a","denim","jacket","."],"py":["","","","","","."],"vi":"Cô ấy mặc áo khoác bò.","alts":[]}},
@@ -73,7 +73,7 @@
    {"id":"n05-sole","hanzi":"sole","pinyin":"","vi":"đế giày; lòng bàn chân","ex":{"tokens":["There","is","a","hole","in","the","sole","of","my","shoe","."],"py":["","","","","","","","","","","."],"vi":"Có một cái lỗ ở đế giày của tôi.","alts":[]}},
    {"id":"n05-wrinkle","hanzi":"wrinkle","pinyin":"","vi":"nếp nhăn; làm nhăn","ex":{"tokens":["This","shirt","does","not","wrinkle","easily","."],"py":["","","","","","","."],"vi":"Chiếc áo này không dễ bị nhăn.","alts":[]}}
   ]},
-  {"id":"n06","title":"Trang phục thường ngày","desc":"Giày thể thao, áo nỉ, quần bò, áo vest","icon":"Wear","unit":204,"course":"en","order":1550,"words":[
+  {"id":"n06","title":"Trang phục thường ngày","desc":"Giày thể thao, áo nỉ, quần bò, áo vest","icon":"Wear","unit":204,"course":"en","order":1620,"words":[
    {"id":"n06-sneakers","hanzi":"sneakers","pinyin":"","vi":"giày thể thao","ex":{"tokens":["I","wear","sneakers","to","work","."],"py":["","","","","","."],"vi":"Tôi đi giày thể thao đến chỗ làm.","alts":[]}},
    {"id":"n06-hoodie","hanzi":"hoodie","pinyin":"","vi":"áo nỉ có mũ","ex":{"tokens":["He","wears","the","same","hoodie","every","day","."],"py":["","","","","","","","."],"vi":"Ngày nào anh ấy cũng mặc cùng một chiếc áo nỉ có mũ.","alts":[]}},
    {"id":"n06-jeans","hanzi":"jeans","pinyin":"","vi":"quần bò","ex":{"tokens":["These","jeans","are","too","tight","."],"py":["","","","","","."],"vi":"Chiếc quần bò này chật quá.","alts":[]}},
@@ -87,7 +87,7 @@
    {"id":"n06-underwear","hanzi":"underwear","pinyin":"","vi":"đồ lót","ex":{"tokens":["Pack","enough","underwear","for","a","week","."],"py":["","","","","","","."],"vi":"Hãy mang đủ đồ lót cho một tuần.","alts":[]}},
    {"id":"n06-bra","hanzi":"bra","pinyin":"","vi":"áo ngực","ex":{"tokens":["She","bought","a","sports","bra","."],"py":["","","","","","."],"vi":"Cô ấy mua một chiếc áo ngực thể thao.","alts":[]}}
   ]},
-  {"id":"n07","title":"Đường sá","desc":"Vạch qua đường, ngã tư, vòng xuyến, đường vòng","icon":"Road","unit":204,"course":"en","order":1560,"words":[
+  {"id":"n07","title":"Đường sá","desc":"Vạch qua đường, ngã tư, vòng xuyến, đường vòng","icon":"Road","unit":204,"course":"en","order":1630,"words":[
    {"id":"n07-crosswalk","hanzi":"crosswalk","pinyin":"","vi":"vạch sang đường","ex":{"tokens":["Always","use","the","crosswalk","."],"py":["","","","","."],"vi":"Hãy luôn đi trên vạch sang đường.","alts":[]}},
    {"id":"n07-intersection","hanzi":"intersection","pinyin":"","vi":"ngã tư, giao lộ","ex":{"tokens":["Turn","right","at","the","next","intersection","."],"py":["","","","","","","."],"vi":"Hãy rẽ phải ở giao lộ tiếp theo.","alts":[]}},
    {"id":"n07-roundabout","hanzi":"roundabout","pinyin":"","vi":"vòng xuyến","ex":{"tokens":["Take","the","second","exit","at","the","roundabout","."],"py":["","","","","","","","."],"vi":"Hãy đi lối ra thứ hai ở vòng xuyến.","alts":[]}},
@@ -101,7 +101,7 @@
    {"id":"n07-carriage","hanzi":"carriage","pinyin":"","vi":"toa tàu","ex":{"tokens":["Our","seats","are","in","the","last","carriage","."],"py":["","","","","","","","."],"vi":"Chỗ của chúng tôi ở toa cuối.","alts":[]}},
    {"id":"n07-district","hanzi":"district","pinyin":"","vi":"quận, huyện","ex":{"tokens":["We","live","in","a","quiet","district","."],"py":["","","","","","","."],"vi":"Chúng tôi sống ở một quận yên tĩnh.","alts":[]}}
   ]},
-  {"id":"n08","title":"Mua sắm và thanh toán","desc":"Phiếu giảm giá, lối đi, trả góp, chuyển khoản","icon":"Pay","unit":204,"course":"en","order":1570,"words":[
+  {"id":"n08","title":"Mua sắm và thanh toán","desc":"Phiếu giảm giá, lối đi, trả góp, chuyển khoản","icon":"Pay","unit":204,"course":"en","order":1640,"words":[
    {"id":"n08-coupon","hanzi":"coupon","pinyin":"","vi":"phiếu giảm giá","ex":{"tokens":["I","have","a","coupon","for","free","coffee","."],"py":["","","","","","","","."],"vi":"Tôi có phiếu tặng cà phê miễn phí.","alts":[]}},
    {"id":"n08-aisle","hanzi":"aisle","pinyin":"","vi":"lối đi giữa các kệ, các hàng ghế","ex":{"tokens":["The","rice","is","in","the","next","aisle","."],"py":["","","","","","","","."],"vi":"Gạo ở lối đi bên cạnh.","alts":[]}},
    {"id":"n08-trolley","hanzi":"trolley","pinyin":"","vi":"xe đẩy hàng","ex":{"tokens":["Our","trolley","is","already","full","."],"py":["","","","","","."],"vi":"Xe đẩy của chúng tôi đã đầy.","alts":[]}},
@@ -115,7 +115,7 @@
    {"id":"n08-delivery","hanzi":"delivery","pinyin":"","vi":"việc giao hàng","ex":{"tokens":["Delivery","takes","three","days","."],"py":["","","","","."],"vi":"Giao hàng mất ba ngày.","alts":[]}},
    {"id":"n08-courier","hanzi":"courier","pinyin":"","vi":"người giao hàng, công ty chuyển phát","ex":{"tokens":["The","courier","left","the","box","at","the","door","."],"py":["","","","","","","","","."],"vi":"Người giao hàng để chiếc hộp ở cửa.","alts":[]}}
   ]},
-  {"id":"n09","title":"Bưu kiện và thư viện","desc":"Theo dõi đơn, phí gửi, quá hạn, gia hạn","icon":"Post","unit":204,"course":"en","order":1580,"words":[
+  {"id":"n09","title":"Bưu kiện và thư viện","desc":"Theo dõi đơn, phí gửi, quá hạn, gia hạn","icon":"Post","unit":204,"course":"en","order":1650,"words":[
    {"id":"n09-tracking","hanzi":"tracking","pinyin":"","vi":"việc theo dõi (đơn hàng)","ex":{"tokens":["Use","the","tracking","number","to","find","your","order","."],"py":["","","","","","","","","."],"vi":"Hãy dùng mã theo dõi để tìm đơn hàng của bạn.","alts":[]}},
    {"id":"n09-shipping","hanzi":"shipping","pinyin":"","vi":"việc vận chuyển, phí vận chuyển","ex":{"tokens":["Shipping","is","free","for","large","orders","."],"py":["","","","","","","."],"vi":"Miễn phí vận chuyển cho đơn hàng lớn.","alts":[]}},
    {"id":"n09-postage","hanzi":"postage","pinyin":"","vi":"bưu phí","ex":{"tokens":["How","much","is","the","postage","to","Japan","?"],"py":["","","","","","","","?"],"vi":"Bưu phí gửi sang Nhật là bao nhiêu?","alts":[]}},
@@ -129,7 +129,7 @@
    {"id":"n09-catalogue","hanzi":"catalogue","pinyin":"","vi":"danh mục","ex":{"tokens":["Look","for","the","book","in","the","online","catalogue","."],"py":["","","","","","","","","."],"vi":"Hãy tìm cuốn sách trong danh mục trực tuyến.","alts":[]}},
    {"id":"n09-copy","hanzi":"copy","pinyin":"","vi":"bản sao; sao chép","ex":{"tokens":["Please","make","a","copy","of","this","page","."],"py":["","","","","","","","."],"vi":"Vui lòng sao một bản trang này.","alts":[]}}
   ]},
-  {"id":"n10","title":"Làm đẹp và tập luyện","desc":"Cắt tóc, làm móng, mát-xa, máy chạy bộ","icon":"Gym","unit":204,"course":"en","order":1590,"words":[
+  {"id":"n10","title":"Làm đẹp và tập luyện","desc":"Cắt tóc, làm móng, mát-xa, máy chạy bộ","icon":"Gym","unit":204,"course":"en","order":1660,"words":[
    {"id":"n10-haircut","hanzi":"haircut","pinyin":"","vi":"việc cắt tóc, kiểu tóc","ex":{"tokens":["I","need","a","haircut","before","the","wedding","."],"py":["","","","","","","","."],"vi":"Tôi cần cắt tóc trước đám cưới.","alts":[]}},
    {"id":"n10-manicure","hanzi":"manicure","pinyin":"","vi":"làm móng tay","ex":{"tokens":["She","gets","a","manicure","once","a","month","."],"py":["","","","","","","","."],"vi":"Cô ấy làm móng mỗi tháng một lần.","alts":[]}},
    {"id":"n10-salon","hanzi":"salon","pinyin":"","vi":"tiệm làm đẹp","ex":{"tokens":["My","sister","works","at","a","hair","salon","."],"py":["","","","","","","","."],"vi":"Chị tôi làm ở một tiệm làm tóc.","alts":[]}},
@@ -143,7 +143,7 @@
    {"id":"n10-floss","hanzi":"floss","pinyin":"","vi":"chỉ nha khoa; dùng chỉ nha khoa","ex":{"tokens":["Dentists","say","you","should","floss","every","day","."],"py":["","","","","","","","."],"vi":"Nha sĩ nói bạn nên dùng chỉ nha khoa hằng ngày.","alts":[]}},
    {"id":"n10-gargle","hanzi":"gargle","pinyin":"","vi":"súc họng","ex":{"tokens":["Gargle","with","salt","water","for","a","sore","throat","."],"py":["","","","","","","","","."],"vi":"Hãy súc họng bằng nước muối khi đau họng.","alts":[]}}
   ]},
-  {"id":"n11","title":"Nơi lưu trú và nắng hè","desc":"Nhà trọ, nhà nghỉ, phòng hạng sang, cháy nắng","icon":"Stay","unit":204,"course":"en","order":1600,"words":[
+  {"id":"n11","title":"Nơi lưu trú và nắng hè","desc":"Nhà trọ, nhà nghỉ, phòng hạng sang, cháy nắng","icon":"Stay","unit":204,"course":"en","order":1670,"words":[
    {"id":"n11-hostel","hanzi":"hostel","pinyin":"","vi":"nhà trọ giá rẻ (cho khách du lịch)","ex":{"tokens":["We","stayed","in","a","hostel","near","the","station","."],"py":["","","","","","","","","."],"vi":"Chúng tôi ở một nhà trọ gần nhà ga.","alts":[]}},
    {"id":"n11-lodge","hanzi":"lodge","pinyin":"","vi":"nhà nghỉ vùng núi","ex":{"tokens":["The","lodge","is","at","the","foot","of","the","mountain","."],"py":["","","","","","","","","","."],"vi":"Nhà nghỉ nằm ở chân núi.","alts":[]}},
    {"id":"n11-inn","hanzi":"inn","pinyin":"","vi":"quán trọ","ex":{"tokens":["We","had","dinner","at","a","small","inn","."],"py":["","","","","","","","."],"vi":"Chúng tôi ăn tối ở một quán trọ nhỏ.","alts":[]}},
@@ -157,7 +157,7 @@
    {"id":"n11-caravan","hanzi":"caravan","pinyin":"","vi":"xe nhà lưu động","ex":{"tokens":["They","travel","around","Europe","in","a","caravan","."],"py":["","","","","","","","."],"vi":"Họ đi khắp châu Âu bằng xe nhà lưu động.","alts":[]}},
    {"id":"n11-cabin","hanzi":"cabin","pinyin":"","vi":"nhà gỗ nhỏ; khoang (tàu, máy bay)","ex":{"tokens":["We","rented","a","cabin","in","the","woods","."],"py":["","","","","","","","."],"vi":"Chúng tôi thuê một căn nhà gỗ trong rừng.","alts":[]}}
   ]},
-  {"id":"n12","title":"Ở bờ biển","desc":"Lặn ống thở, hải đăng, bến tàu, lâu đài cát","icon":"Beach","unit":204,"course":"en","order":1610,"words":[
+  {"id":"n12","title":"Ở bờ biển","desc":"Lặn ống thở, hải đăng, bến tàu, lâu đài cát","icon":"Beach","unit":204,"course":"en","order":1680,"words":[
    {"id":"n12-snorkel","hanzi":"snorkel","pinyin":"","vi":"ống thở khi lặn; lặn bằng ống thở","ex":{"tokens":["You","can","snorkel","near","the","rocks","."],"py":["","","","","","","."],"vi":"Bạn có thể lặn ống thở gần bãi đá.","alts":[]}},
    {"id":"n12-paddle","hanzi":"paddle","pinyin":"","vi":"mái chèo; chèo","ex":{"tokens":["I","dropped","my","paddle","in","the","water","."],"py":["","","","","","","","."],"vi":"Tôi làm rơi mái chèo xuống nước.","alts":[]}},
    {"id":"n12-seaweed","hanzi":"seaweed","pinyin":"","vi":"rong biển","ex":{"tokens":["The","beach","was","covered","in","seaweed","."],"py":["","","","","","","."],"vi":"Bãi biển phủ đầy rong biển.","alts":[]}},
@@ -171,7 +171,7 @@
    {"id":"n12-lifeguard","hanzi":"lifeguard","pinyin":"","vi":"nhân viên cứu hộ","ex":{"tokens":["The","lifeguard","watches","the","swimmers","."],"py":["","","","","","."],"vi":"Nhân viên cứu hộ quan sát những người đang bơi.","alts":[]}},
    {"id":"n12-surf","hanzi":"surf","pinyin":"","vi":"lướt sóng; lướt (mạng)","ex":{"tokens":["He","learned","to","surf","in","Da","Nang","."],"py":["","","","","","","","."],"vi":"Anh ấy học lướt sóng ở Đà Nẵng.","alts":[]}}
   ]},
-  {"id":"n13","title":"Họ hàng và họp mặt","desc":"Họ, vợ chồng, anh chị em, bố dượng, họp mặt","icon":"Family","unit":204,"course":"en","order":1620,"words":[
+  {"id":"n13","title":"Họ hàng và họp mặt","desc":"Họ, vợ chồng, anh chị em, bố dượng, họp mặt","icon":"Family","unit":204,"course":"en","order":1690,"words":[
    {"id":"n13-surname","hanzi":"surname","pinyin":"","vi":"họ (tên họ)","ex":{"tokens":["How","do","you","spell","your","surname","?"],"py":["","","","","","","?"],"vi":"Họ của bạn đánh vần thế nào?","alts":[]}},
    {"id":"n13-maiden","hanzi":"maiden","pinyin":"","vi":"(tên) thời con gái","ex":{"tokens":["Her","maiden","name","is","Tran","."],"py":["","","","","","."],"vi":"Họ thời con gái của bà ấy là Trần.","alts":[]}},
    {"id":"n13-initials","hanzi":"initials","pinyin":"","vi":"chữ cái đầu của họ tên","ex":{"tokens":["Write","your","initials","at","the","bottom","."],"py":["","","","","","","."],"vi":"Hãy ghi các chữ cái đầu của họ tên bạn ở cuối trang.","alts":[]}},
