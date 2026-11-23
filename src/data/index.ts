@@ -231,6 +231,23 @@ export const courseLoaded = (c: CourseId = course) =>
     c,
   );
 /** Switch course (the lesson path needs no download; the words follow when a lesson is opened). */
+const SCRIPT_FONT: Partial<Record<CourseId, string>> = {
+  ko: "Noto+Sans+KR",
+  ja: "Noto+Sans+JP",
+};
+/** Korean and Japanese get their own glyphs instead of the Chinese font's. */
+function scriptFont() {
+  if (typeof document === "undefined") return;
+  document.documentElement.dataset.course = course;
+  const family = SCRIPT_FONT[course];
+  const id = `font-${course}`;
+  if (!family || document.getElementById(id)) return;
+  const link = document.createElement("link");
+  link.id = id;
+  link.rel = "stylesheet";
+  link.href = `https://fonts.googleapis.com/css2?family=${family}:wght@400;700&display=swap`;
+  document.head.appendChild(link);
+}
 export function setCourse(c: CourseId) {
   chosen = true;
   try {
@@ -239,6 +256,7 @@ export function setCourse(c: CourseId) {
     /* private mode */
   }
   course = c;
+  scriptFont();
   build(overrides);
   courseHooks.forEach((h) => h());
   notify();
@@ -414,3 +432,4 @@ export function sentenceTiles(w: Word) {
     .map((t, i) => ({ zh: t, py: w.ex.py[i] }))
     .filter((t) => !isPunct(t.zh));
 }
+scriptFont();
