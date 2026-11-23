@@ -722,7 +722,7 @@ demon|con quỷ|The mask shows the face of a demon.|Chiếc mặt nạ có hình
 devil|ma quỷ, quỷ dữ|In the story, he sells his soul to the devil.|Trong truyện, anh ta bán linh hồn cho quỷ dữ.
 afterlife|kiếp sau, thế giới bên kia|The Egyptians believed in an afterlife.|Người Ai Cập tin vào thế giới bên kia.
 
-%453|4|Phần 3: Mở rộng – Tôn giáo và tín ngưỡng|Tôn giáo và tín ngưỡng, Mỹ thuật và kiến trúc|grape
+%453|4|Phần 3: Mở rộng – Tôn giáo và tín ngưỡng|Tôn giáo và tín ngưỡng, Mỹ thuật và kiến trúc, Âm nhạc và biểu diễn|grape
 @y4041|Tôn giáo và tín ngưỡng 4|Nơi thờ, chức sắc, nghi lễ, khái niệm|Belief
 karma|nghiệp, nhân quả|She believes in karma.|Cô ấy tin vào nhân quả.
 nirvana|niết bàn|Buddhists hope to reach nirvana.|Phật tử mong đạt tới niết bàn.
@@ -815,6 +815,139 @@ balustrade|lan can có con tiện|She leaned on the stone balustrade.|Cô ấy t
 cornice|gờ trang trí (mái, trần)|A white cornice runs around the ceiling.|Một đường gờ trắng chạy quanh trần nhà.
 parapet|tường chắn thấp (mái, cầu)|He looked over the parapet of the bridge.|Anh ấy nhìn qua tường chắn của cây cầu.
 stonework|phần xây, chạm bằng đá|The stonework of the temple is very fine.|Phần chạm đá của ngôi đền rất tinh xảo.
+
+@y4047|Âm nhạc và biểu diễn 1|Nhạc lý, nhạc cụ, thể loại, sân khấu|Music
+melody|giai điệu|I cannot forget that melody.|Tôi không thể quên giai điệu đó.
+harmony|hòa âm; sự hòa hợp|The two sisters sang in harmony.|Hai chị em hát bè hòa âm với nhau.
+rhythm|nhịp điệu|She danced to the rhythm of the drums.|Cô ấy nhảy theo nhịp trống.
+scale|gam nhạc; thang đo; cái cân|The student played a scale on the piano.|Học sinh chơi một gam trên đàn piano.
+octave|quãng tám|Her voice covers more than one octave.|Giọng cô ấy rộng hơn một quãng tám.
+note|nốt nhạc; ghi chú|He sang a very high note.|Anh ấy hát một nốt rất cao.
+beat|nhịp, phách; đánh|The song has a strong beat.|Bài hát có nhịp mạnh.
+bar|ô nhịp; quán bar; thanh|Play the first bar again.|Hãy chơi lại ô nhịp đầu tiên.
+chorus|điệp khúc; dàn đồng ca|Everyone sang the chorus together.|Mọi người cùng hát điệp khúc.
+lyric|lời bài hát|I do not understand this lyric.|Tôi không hiểu câu hát này.
+tune|giai điệu; lên dây đàn|He whistled a happy tune.|Anh ấy huýt sáo một giai điệu vui.
+opera|nhạc kịch opera|We saw an opera in Vienna.|Chúng tôi xem một vở opera ở Viên.
+
+@y4048|Âm nhạc và biểu diễn 2|Nhạc lý, nhạc cụ, thể loại, sân khấu|Music
+duet|bài song ca, song tấu|They sang a duet at the wedding.|Họ song ca trong đám cưới.
+trio|bộ ba, tam tấu|A jazz trio played in the bar.|Một ban tam tấu nhạc jazz chơi trong quán.
+ensemble|nhóm nhạc, ban nhạc hòa tấu|She plays in a small ensemble.|Cô ấy chơi trong một nhóm hòa tấu nhỏ.
+choir|dàn hợp xướng|He sings in the school choir.|Cậu ấy hát trong dàn hợp xướng của trường.
+composer|nhà soạn nhạc|Mozart was a great composer.|Mozart là một nhà soạn nhạc vĩ đại.
+soloist|nghệ sĩ độc tấu, đơn ca|The soloist played without any mistakes.|Nghệ sĩ độc tấu chơi không mắc lỗi nào.
+baritone|giọng nam trung|He has a warm baritone voice.|Anh ấy có giọng nam trung ấm.
+bass|giọng nam trầm; âm trầm|Turn down the bass, please.|Làm ơn giảm âm trầm xuống.
+cello|đàn xen lô|She has played the cello since she was six.|Cô ấy chơi đàn xen lô từ năm sáu tuổi.
+harp|đàn hạc|A woman played the harp in the hotel lobby.|Một phụ nữ chơi đàn hạc ở sảnh khách sạn.
+clarinet|kèn clarinet|He plays the clarinet in a band.|Anh ấy chơi kèn clarinet trong một ban nhạc.
+saxophone|kèn saxophone|The saxophone is common in jazz.|Kèn saxophone phổ biến trong nhạc jazz.
+
+@y4049|Âm nhạc và biểu diễn 3|Nhạc lý, nhạc cụ, thể loại, sân khấu|Music
+trombone|kèn trombone|My brother is learning the trombone.|Em trai tôi đang học kèn trombone.
+percussion|bộ gõ|He plays percussion in the orchestra.|Anh ấy chơi bộ gõ trong dàn nhạc.
+cymbal|chũm chọe|The drummer hit the cymbal.|Tay trống đánh vào chũm chọe.
+tambourine|trống lục lạc|The singer shook a tambourine.|Ca sĩ lắc trống lục lạc.
+xylophone|đàn mộc cầm|The child got a toy xylophone.|Đứa bé được tặng một chiếc mộc cầm đồ chơi.
+accordion|đàn phong cầm|An old man played the accordion in the street.|Một ông cụ chơi đàn phong cầm trên phố.
+harmonica|kèn harmonica|He carries a harmonica in his pocket.|Anh ấy mang một chiếc kèn harmonica trong túi.
+banjo|đàn banjo|The banjo is used in country music.|Đàn banjo được dùng trong nhạc đồng quê.
+ukulele|đàn ukulele|She learned the ukulele in a week.|Cô ấy học đàn ukulele trong một tuần.
+synthesizer|đàn tổng hợp âm điện tử|The band uses a synthesizer.|Ban nhạc dùng đàn tổng hợp âm.
+organ|đàn organ; cơ quan (cơ thể)|He plays the organ in church.|Ông ấy chơi đàn organ ở nhà thờ.
+metronome|máy đếm nhịp|Practice slowly with a metronome.|Hãy tập chậm với máy đếm nhịp.
+
+@y4050|Âm nhạc và biểu diễn 4|Nhạc lý, nhạc cụ, thể loại, sân khấu|Music
+microphone|micrô|The singer dropped the microphone.|Ca sĩ đánh rơi micrô.
+audition|buổi thử giọng, thử vai|She has an audition for the school play.|Cô ấy có buổi thử vai cho vở kịch của trường.
+recital|buổi độc tấu|My daughter has a piano recital tonight.|Con gái tôi có buổi độc tấu piano tối nay.
+gig|buổi diễn (nhạc)|The band played a gig at a small club.|Ban nhạc diễn ở một câu lạc bộ nhỏ.
+acoustic|mộc (không dùng điện); thuộc âm học|He played an acoustic guitar.|Anh ấy chơi đàn ghi ta mộc.
+improvise|ứng tác, ứng biến|Jazz musicians often improvise.|Nhạc công jazz thường ứng tác.
+compose|sáng tác (nhạc)|He began to compose music at ten.|Anh ấy bắt đầu sáng tác nhạc năm mười tuổi.
+strum|gảy (đàn ghi ta)|She began to strum her guitar.|Cô ấy bắt đầu gảy đàn ghi ta.
+pluck|gảy (dây đàn); nhổ, hái|You pluck the strings with your fingers.|Bạn gảy dây đàn bằng ngón tay.
+anthem|quốc ca; bài ca chính thức|Everyone stood for the national anthem.|Mọi người đứng dậy hát quốc ca.
+folk song|bài dân ca|My grandmother taught me a folk song.|Bà dạy tôi một bài dân ca.
+jazz|nhạc jazz|He listens to jazz while he works.|Anh ấy nghe nhạc jazz khi làm việc.
+
+%454|4|Phần 4: Mở rộng – Âm nhạc và biểu diễn|Âm nhạc và biểu diễn, Văn học và sách|coral
+@y4061|Âm nhạc và biểu diễn 5|Nhạc lý, nhạc cụ, thể loại, sân khấu|Music
+hip-hop|nhạc hip-hop|Hip-hop started in New York.|Nhạc hip-hop bắt nguồn từ New York.
+rap|nhạc rap; đọc rap|My brother likes rap music.|Anh trai tôi thích nhạc rap.
+ballet|múa ba lê|She has studied ballet for ten years.|Cô ấy học múa ba lê mười năm.
+tango|điệu tango|They danced a tango.|Họ nhảy một điệu tango.
+waltz|điệu van|The couple danced a waltz at their wedding.|Cặp đôi nhảy một điệu van trong lễ cưới.
+mime|kịch câm|The actor did a short mime.|Diễn viên diễn một tiết mục kịch câm ngắn.
+puppet|con rối|Water puppet shows are popular in Hanoi.|Múa rối nước rất được ưa chuộng ở Hà Nội.
+stuntman|diễn viên đóng thế|A stuntman did the jump for the actor.|Một diễn viên đóng thế thực hiện cú nhảy thay cho diễn viên.
+spotlight|đèn sân khấu; tâm điểm chú ý|The singer stood in the spotlight.|Ca sĩ đứng dưới ánh đèn sân khấu.
+standing ovation|tràng vỗ tay đứng dậy hoan hô|The pianist received a standing ovation.|Nghệ sĩ dương cầm nhận được tràng vỗ tay đứng dậy hoan hô.
+alto|giọng nữ trầm|She sings alto in the choir.|Cô ấy hát giọng nữ trầm trong dàn hợp xướng.
+viola|đàn viola|The viola is a little larger than the violin.|Đàn viola lớn hơn đàn violin một chút.
+
+@y4062|Âm nhạc và biểu diễn 6|Nhạc lý, nhạc cụ, thể loại, sân khấu|Music
+double bass|đàn công bát|He carries his double bass on the train.|Anh ấy mang đàn công bát lên tàu.
+oboe|kèn ô boa|The oboe gives the note for the orchestra.|Kèn ô boa lấy nốt chuẩn cho dàn nhạc.
+bassoon|kèn pha gốt|She plays the bassoon in the school band.|Cô ấy chơi kèn pha gốt trong ban nhạc của trường.
+tuba|kèn tuba|The tuba is the largest brass instrument.|Kèn tuba là nhạc cụ đồng lớn nhất.
+French horn|kèn cor|He practices the French horn every day.|Ngày nào anh ấy cũng tập kèn cor.
+mandolin|đàn măng đô lin|She sang and played the mandolin.|Cô ấy vừa hát vừa chơi đàn măng đô lin.
+tuning fork|âm thoa|He hit the tuning fork on the table.|Anh ấy gõ âm thoa vào bàn.
+reggae|nhạc reggae|Reggae comes from Jamaica.|Nhạc reggae có nguồn gốc từ Jamaica.
+techno|nhạc techno|The club plays techno all night.|Câu lạc bộ mở nhạc techno suốt đêm.
+tap dance|nhảy thiết hài|She learned tap dance as a child.|Cô ấy học nhảy thiết hài từ nhỏ.
+ventriloquist|nghệ sĩ nói tiếng bụng|The ventriloquist made the doll talk.|Nghệ sĩ nói tiếng bụng làm con búp bê nói chuyện.
+curtain call|màn chào khán giả cuối buổi diễn|The actors came out for a curtain call.|Các diễn viên bước ra chào khán giả.
+
+@y4063|Văn học và sách 1|Thể loại, biện pháp tu từ, xuất bản|Books
+novella|truyện vừa|She wrote a novella about her childhood.|Cô ấy viết một truyện vừa về tuổi thơ của mình.
+short story|truyện ngắn|I read a short story before bed.|Tôi đọc một truyện ngắn trước khi ngủ.
+fable|truyện ngụ ngôn|The fable teaches children to be honest.|Truyện ngụ ngôn dạy trẻ em trung thực.
+myth|thần thoại; điều hoang đường|It is a myth that cats hate water.|Chuyện mèo ghét nước là điều hoang đường.
+legend|truyền thuyết; huyền thoại|The legend tells of a golden turtle.|Truyền thuyết kể về một con rùa vàng.
+fairy tale|truyện cổ tích|My mother read me a fairy tale every night.|Mẹ đọc cho tôi một truyện cổ tích mỗi tối.
+epic|sử thi; hoành tráng|The epic tells the story of a long war.|Bộ sử thi kể câu chuyện về một cuộc chiến dài.
+saga|truyện dài nhiều tập, trường thiên|The family saga covers three generations.|Bộ truyện gia đình trải dài ba thế hệ.
+anthology|tuyển tập|She bought an anthology of love poems.|Cô ấy mua một tuyển tập thơ tình.
+pamphlet|tờ rơi, sách mỏng|The clinic gave me a pamphlet about diet.|Phòng khám đưa tôi một tập sách mỏng về chế độ ăn.
+haiku|thơ haiku|A haiku has only three lines.|Một bài thơ haiku chỉ có ba dòng.
+allegory|truyện phúng dụ|The novel is an allegory of war.|Cuốn tiểu thuyết là một phúng dụ về chiến tranh.
+parody|tác phẩm nhại|The show is a parody of the news.|Chương trình là một bản nhại bản tin thời sự.
+hyperbole|phép nói quá|Saying he is a thousand years old is hyperbole.|Nói rằng ông ấy nghìn tuổi là nói quá.
+
+@y4064|Văn học và sách 2|Thể loại, biện pháp tu từ, xuất bản|Books
+understatement|cách nói giảm|To say it was cold is an understatement.|Nói rằng trời lạnh là còn nói giảm.
+cliché|câu sáo rỗng|The speech was full of one cliché after another.|Bài phát biểu toàn những câu sáo rỗng nối tiếp nhau.
+flashback|cảnh hồi tưởng|The film begins with a flashback.|Bộ phim mở đầu bằng một cảnh hồi tưởng.
+narrator|người kể chuyện|The narrator of the story is a child.|Người kể chuyện trong truyện là một đứa trẻ.
+antagonist|nhân vật phản diện|The antagonist wants to destroy the city.|Nhân vật phản diện muốn phá hủy thành phố.
+villain|kẻ ác|The villain wears a black mask.|Kẻ ác đeo mặt nạ đen.
+hero|người hùng; nhân vật chính|The firefighter was called a hero.|Người lính cứu hỏa được gọi là người hùng.
+heroine|nữ anh hùng; nữ chính|The heroine of the novel is a doctor.|Nữ chính của cuốn tiểu thuyết là một bác sĩ.
+twist|tình tiết bất ngờ; vặn|The story has a twist at the end.|Câu chuyện có một tình tiết bất ngờ ở cuối.
+cliffhanger|kết thúc lửng gây hồi hộp|The episode ended on a cliffhanger.|Tập phim kết thúc lửng đầy hồi hộp.
+prologue|phần mở đầu|The prologue explains the history of the family.|Phần mở đầu giải thích lịch sử của gia đình.
+epilogue|phần kết, vĩ thanh|The epilogue shows the hero ten years later.|Phần vĩ thanh cho thấy người hùng mười năm sau.
+foreword|lời tựa|A famous writer wrote the foreword.|Một nhà văn nổi tiếng viết lời tựa.
+index|bảng chỉ mục; chỉ số|Look up the name in the index.|Hãy tra cái tên trong bảng chỉ mục.
+
+@y4065|Văn học và sách 3|Thể loại, biện pháp tu từ, xuất bản|Books
+synopsis|bản tóm tắt nội dung|Read the synopsis on the back of the book.|Hãy đọc phần tóm tắt ở bìa sau cuốn sách.
+proofreader|người soát lỗi bản in|A proofreader checks every page.|Người soát lỗi kiểm tra từng trang.
+ghostwriter|người chấp bút thay|The star's book was written by a ghostwriter.|Cuốn sách của ngôi sao do một người chấp bút thay viết.
+critic|nhà phê bình|The critic loved the new film.|Nhà phê bình rất thích bộ phim mới.
+edition|ấn bản|This is the second edition of the dictionary.|Đây là ấn bản thứ hai của cuốn từ điển.
+volume|tập (sách); âm lượng; thể tích|The story continues in the next volume.|Câu chuyện tiếp tục ở tập sau.
+nonfiction|sách phi hư cấu|He mostly reads nonfiction.|Anh ấy chủ yếu đọc sách phi hư cấu.
+mystery|truyện trinh thám; điều bí ẩn|She is reading a murder mystery.|Cô ấy đang đọc một truyện trinh thám án mạng.
+fantasy|truyện giả tưởng; sự tưởng tượng|He loves fantasy books with dragons.|Cậu ấy mê truyện giả tưởng có rồng.
+science fiction|khoa học viễn tưởng|The film is science fiction about Mars.|Bộ phim là khoa học viễn tưởng về Sao Hỏa.
+romance|truyện tình cảm; chuyện tình|She writes romance novels.|Cô ấy viết tiểu thuyết tình cảm.
+tragedy|bi kịch|The play is a famous tragedy.|Vở kịch là một bi kịch nổi tiếng.
+drama|kịch; phim chính kịch|She studies drama at university.|Cô ấy học kịch ở đại học.
+parable|truyện dụ ngôn|The teacher told a parable about two sons.|Người thầy kể một dụ ngôn về hai người con trai.
 
 %551|5|Phần 1: Mở rộng – Giải phẫu cơ thể|Giải phẫu cơ thể, Bệnh lý, Thủ thuật và thiết bị y khoa, Thực vật học, Động vật học|leaf
 @y5001|Giải phẫu cơ thể 1|Xương, nội tạng, các phần trên cơ thể|Anatomy

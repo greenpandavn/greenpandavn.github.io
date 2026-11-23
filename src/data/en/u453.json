@@ -1,6 +1,6 @@
 {
  "units": [
-  {"unit":453,"level":4,"title":"Phần 35: Mở rộng – Tôn giáo và tín ngưỡng","desc":"Tôn giáo và tín ngưỡng, Mỹ thuật và kiến trúc","color":"grape","course":"en"}
+  {"unit":453,"level":4,"title":"Phần 35: Mở rộng – Tôn giáo và tín ngưỡng","desc":"Tôn giáo và tín ngưỡng, Mỹ thuật và kiến trúc, Âm nhạc và biểu diễn","color":"grape","course":"en"}
  ],
  "lessons": [
   {"id":"y4041","title":"Tôn giáo và tín ngưỡng 4","desc":"Nơi thờ, chức sắc, nghi lễ, khái niệm","icon":"Belief","unit":453,"course":"en","order":3990,"words":[
@@ -95,6 +95,62 @@
    {"id":"y4046-cornice","hanzi":"cornice","pinyin":"","vi":"gờ trang trí (mái, trần)","ex":{"tokens":["A","white","cornice","runs","around","the","ceiling","."],"py":["","","","","","","","."],"vi":"Một đường gờ trắng chạy quanh trần nhà.","alts":[]}},
    {"id":"y4046-parapet","hanzi":"parapet","pinyin":"","vi":"tường chắn thấp (mái, cầu)","ex":{"tokens":["He","looked","over","the","parapet","of","the","bridge","."],"py":["","","","","","","","","."],"vi":"Anh ấy nhìn qua tường chắn của cây cầu.","alts":[]}},
    {"id":"y4046-stonework","hanzi":"stonework","pinyin":"","vi":"phần xây, chạm bằng đá","ex":{"tokens":["The","stonework","of","the","temple","is","very","fine","."],"py":["","","","","","","","","."],"vi":"Phần chạm đá của ngôi đền rất tinh xảo.","alts":[]}}
+  ]},
+  {"id":"y4047","title":"Âm nhạc và biểu diễn 1","desc":"Nhạc lý, nhạc cụ, thể loại, sân khấu","icon":"Music","unit":453,"course":"en","order":4050,"words":[
+   {"id":"y4047-melody","hanzi":"melody","pinyin":"","vi":"giai điệu","ex":{"tokens":["I","cannot","forget","that","melody","."],"py":["","","","","","."],"vi":"Tôi không thể quên giai điệu đó.","alts":[]}},
+   {"id":"y4047-harmony","hanzi":"harmony","pinyin":"","vi":"hòa âm; sự hòa hợp","ex":{"tokens":["The","two","sisters","sang","in","harmony","."],"py":["","","","","","","."],"vi":"Hai chị em hát bè hòa âm với nhau.","alts":[]}},
+   {"id":"y4047-rhythm","hanzi":"rhythm","pinyin":"","vi":"nhịp điệu","ex":{"tokens":["She","danced","to","the","rhythm","of","the","drums","."],"py":["","","","","","","","","."],"vi":"Cô ấy nhảy theo nhịp trống.","alts":[]}},
+   {"id":"y4047-scale","hanzi":"scale","pinyin":"","vi":"gam nhạc; thang đo; cái cân","ex":{"tokens":["The","student","played","a","scale","on","the","piano","."],"py":["","","","","","","","","."],"vi":"Học sinh chơi một gam trên đàn piano.","alts":[]}},
+   {"id":"y4047-octave","hanzi":"octave","pinyin":"","vi":"quãng tám","ex":{"tokens":["Her","voice","covers","more","than","one","octave","."],"py":["","","","","","","","."],"vi":"Giọng cô ấy rộng hơn một quãng tám.","alts":[]}},
+   {"id":"y4047-note","hanzi":"note","pinyin":"","vi":"nốt nhạc; ghi chú","ex":{"tokens":["He","sang","a","very","high","note","."],"py":["","","","","","","."],"vi":"Anh ấy hát một nốt rất cao.","alts":[]}},
+   {"id":"y4047-beat","hanzi":"beat","pinyin":"","vi":"nhịp, phách; đánh","ex":{"tokens":["The","song","has","a","strong","beat","."],"py":["","","","","","","."],"vi":"Bài hát có nhịp mạnh.","alts":[]}},
+   {"id":"y4047-bar","hanzi":"bar","pinyin":"","vi":"ô nhịp; quán bar; thanh","ex":{"tokens":["Play","the","first","bar","again","."],"py":["","","","","","."],"vi":"Hãy chơi lại ô nhịp đầu tiên.","alts":[]}},
+   {"id":"y4047-chorus","hanzi":"chorus","pinyin":"","vi":"điệp khúc; dàn đồng ca","ex":{"tokens":["Everyone","sang","the","chorus","together","."],"py":["","","","","","."],"vi":"Mọi người cùng hát điệp khúc.","alts":[]}},
+   {"id":"y4047-lyric","hanzi":"lyric","pinyin":"","vi":"lời bài hát","ex":{"tokens":["I","do","not","understand","this","lyric","."],"py":["","","","","","","."],"vi":"Tôi không hiểu câu hát này.","alts":[]}},
+   {"id":"y4047-tune","hanzi":"tune","pinyin":"","vi":"giai điệu; lên dây đàn","ex":{"tokens":["He","whistled","a","happy","tune","."],"py":["","","","","","."],"vi":"Anh ấy huýt sáo một giai điệu vui.","alts":[]}},
+   {"id":"y4047-opera","hanzi":"opera","pinyin":"","vi":"nhạc kịch opera","ex":{"tokens":["We","saw","an","opera","in","Vienna","."],"py":["","","","","","","."],"vi":"Chúng tôi xem một vở opera ở Viên.","alts":[]}}
+  ]},
+  {"id":"y4048","title":"Âm nhạc và biểu diễn 2","desc":"Nhạc lý, nhạc cụ, thể loại, sân khấu","icon":"Music","unit":453,"course":"en","order":4060,"words":[
+   {"id":"y4048-duet","hanzi":"duet","pinyin":"","vi":"bài song ca, song tấu","ex":{"tokens":["They","sang","a","duet","at","the","wedding","."],"py":["","","","","","","","."],"vi":"Họ song ca trong đám cưới.","alts":[]}},
+   {"id":"y4048-trio","hanzi":"trio","pinyin":"","vi":"bộ ba, tam tấu","ex":{"tokens":["A","jazz","trio","played","in","the","bar","."],"py":["","","","","","","","."],"vi":"Một ban tam tấu nhạc jazz chơi trong quán.","alts":[]}},
+   {"id":"y4048-ensemble","hanzi":"ensemble","pinyin":"","vi":"nhóm nhạc, ban nhạc hòa tấu","ex":{"tokens":["She","plays","in","a","small","ensemble","."],"py":["","","","","","","."],"vi":"Cô ấy chơi trong một nhóm hòa tấu nhỏ.","alts":[]}},
+   {"id":"y4048-choir","hanzi":"choir","pinyin":"","vi":"dàn hợp xướng","ex":{"tokens":["He","sings","in","the","school","choir","."],"py":["","","","","","","."],"vi":"Cậu ấy hát trong dàn hợp xướng của trường.","alts":[]}},
+   {"id":"y4048-composer","hanzi":"composer","pinyin":"","vi":"nhà soạn nhạc","ex":{"tokens":["Mozart","was","a","great","composer","."],"py":["","","","","","."],"vi":"Mozart là một nhà soạn nhạc vĩ đại.","alts":[]}},
+   {"id":"y4048-soloist","hanzi":"soloist","pinyin":"","vi":"nghệ sĩ độc tấu, đơn ca","ex":{"tokens":["The","soloist","played","without","any","mistakes","."],"py":["","","","","","","."],"vi":"Nghệ sĩ độc tấu chơi không mắc lỗi nào.","alts":[]}},
+   {"id":"y4048-baritone","hanzi":"baritone","pinyin":"","vi":"giọng nam trung","ex":{"tokens":["He","has","a","warm","baritone","voice","."],"py":["","","","","","","."],"vi":"Anh ấy có giọng nam trung ấm.","alts":[]}},
+   {"id":"y4048-bass","hanzi":"bass","pinyin":"","vi":"giọng nam trầm; âm trầm","ex":{"tokens":["Turn","down","the","bass",",","please","."],"py":["","","","",",","","."],"vi":"Làm ơn giảm âm trầm xuống.","alts":[]}},
+   {"id":"y4048-cello","hanzi":"cello","pinyin":"","vi":"đàn xen lô","ex":{"tokens":["She","has","played","the","cello","since","she","was","six","."],"py":["","","","","","","","","","."],"vi":"Cô ấy chơi đàn xen lô từ năm sáu tuổi.","alts":[]}},
+   {"id":"y4048-harp","hanzi":"harp","pinyin":"","vi":"đàn hạc","ex":{"tokens":["A","woman","played","the","harp","in","the","hotel","lobby","."],"py":["","","","","","","","","","."],"vi":"Một phụ nữ chơi đàn hạc ở sảnh khách sạn.","alts":[]}},
+   {"id":"y4048-clarinet","hanzi":"clarinet","pinyin":"","vi":"kèn clarinet","ex":{"tokens":["He","plays","the","clarinet","in","a","band","."],"py":["","","","","","","","."],"vi":"Anh ấy chơi kèn clarinet trong một ban nhạc.","alts":[]}},
+   {"id":"y4048-saxophone","hanzi":"saxophone","pinyin":"","vi":"kèn saxophone","ex":{"tokens":["The","saxophone","is","common","in","jazz","."],"py":["","","","","","","."],"vi":"Kèn saxophone phổ biến trong nhạc jazz.","alts":[]}}
+  ]},
+  {"id":"y4049","title":"Âm nhạc và biểu diễn 3","desc":"Nhạc lý, nhạc cụ, thể loại, sân khấu","icon":"Music","unit":453,"course":"en","order":4070,"words":[
+   {"id":"y4049-trombone","hanzi":"trombone","pinyin":"","vi":"kèn trombone","ex":{"tokens":["My","brother","is","learning","the","trombone","."],"py":["","","","","","","."],"vi":"Em trai tôi đang học kèn trombone.","alts":[]}},
+   {"id":"y4049-percussion","hanzi":"percussion","pinyin":"","vi":"bộ gõ","ex":{"tokens":["He","plays","percussion","in","the","orchestra","."],"py":["","","","","","","."],"vi":"Anh ấy chơi bộ gõ trong dàn nhạc.","alts":[]}},
+   {"id":"y4049-cymbal","hanzi":"cymbal","pinyin":"","vi":"chũm chọe","ex":{"tokens":["The","drummer","hit","the","cymbal","."],"py":["","","","","","."],"vi":"Tay trống đánh vào chũm chọe.","alts":[]}},
+   {"id":"y4049-tambourine","hanzi":"tambourine","pinyin":"","vi":"trống lục lạc","ex":{"tokens":["The","singer","shook","a","tambourine","."],"py":["","","","","","."],"vi":"Ca sĩ lắc trống lục lạc.","alts":[]}},
+   {"id":"y4049-xylophone","hanzi":"xylophone","pinyin":"","vi":"đàn mộc cầm","ex":{"tokens":["The","child","got","a","toy","xylophone","."],"py":["","","","","","","."],"vi":"Đứa bé được tặng một chiếc mộc cầm đồ chơi.","alts":[]}},
+   {"id":"y4049-accordion","hanzi":"accordion","pinyin":"","vi":"đàn phong cầm","ex":{"tokens":["An","old","man","played","the","accordion","in","the","street","."],"py":["","","","","","","","","","."],"vi":"Một ông cụ chơi đàn phong cầm trên phố.","alts":[]}},
+   {"id":"y4049-harmonica","hanzi":"harmonica","pinyin":"","vi":"kèn harmonica","ex":{"tokens":["He","carries","a","harmonica","in","his","pocket","."],"py":["","","","","","","","."],"vi":"Anh ấy mang một chiếc kèn harmonica trong túi.","alts":[]}},
+   {"id":"y4049-banjo","hanzi":"banjo","pinyin":"","vi":"đàn banjo","ex":{"tokens":["The","banjo","is","used","in","country","music","."],"py":["","","","","","","","."],"vi":"Đàn banjo được dùng trong nhạc đồng quê.","alts":[]}},
+   {"id":"y4049-ukulele","hanzi":"ukulele","pinyin":"","vi":"đàn ukulele","ex":{"tokens":["She","learned","the","ukulele","in","a","week","."],"py":["","","","","","","","."],"vi":"Cô ấy học đàn ukulele trong một tuần.","alts":[]}},
+   {"id":"y4049-synthesizer","hanzi":"synthesizer","pinyin":"","vi":"đàn tổng hợp âm điện tử","ex":{"tokens":["The","band","uses","a","synthesizer","."],"py":["","","","","","."],"vi":"Ban nhạc dùng đàn tổng hợp âm.","alts":[]}},
+   {"id":"y4049-organ","hanzi":"organ","pinyin":"","vi":"đàn organ; cơ quan (cơ thể)","ex":{"tokens":["He","plays","the","organ","in","church","."],"py":["","","","","","","."],"vi":"Ông ấy chơi đàn organ ở nhà thờ.","alts":[]}},
+   {"id":"y4049-metronome","hanzi":"metronome","pinyin":"","vi":"máy đếm nhịp","ex":{"tokens":["Practice","slowly","with","a","metronome","."],"py":["","","","","","."],"vi":"Hãy tập chậm với máy đếm nhịp.","alts":[]}}
+  ]},
+  {"id":"y4050","title":"Âm nhạc và biểu diễn 4","desc":"Nhạc lý, nhạc cụ, thể loại, sân khấu","icon":"Music","unit":453,"course":"en","order":4080,"words":[
+   {"id":"y4050-microphone","hanzi":"microphone","pinyin":"","vi":"micrô","ex":{"tokens":["The","singer","dropped","the","microphone","."],"py":["","","","","","."],"vi":"Ca sĩ đánh rơi micrô.","alts":[]}},
+   {"id":"y4050-audition","hanzi":"audition","pinyin":"","vi":"buổi thử giọng, thử vai","ex":{"tokens":["She","has","an","audition","for","the","school","play","."],"py":["","","","","","","","","."],"vi":"Cô ấy có buổi thử vai cho vở kịch của trường.","alts":[]}},
+   {"id":"y4050-recital","hanzi":"recital","pinyin":"","vi":"buổi độc tấu","ex":{"tokens":["My","daughter","has","a","piano","recital","tonight","."],"py":["","","","","","","","."],"vi":"Con gái tôi có buổi độc tấu piano tối nay.","alts":[]}},
+   {"id":"y4050-gig","hanzi":"gig","pinyin":"","vi":"buổi diễn (nhạc)","ex":{"tokens":["The","band","played","a","gig","at","a","small","club","."],"py":["","","","","","","","","","."],"vi":"Ban nhạc diễn ở một câu lạc bộ nhỏ.","alts":[]}},
+   {"id":"y4050-acoustic","hanzi":"acoustic","pinyin":"","vi":"mộc (không dùng điện); thuộc âm học","ex":{"tokens":["He","played","an","acoustic","guitar","."],"py":["","","","","","."],"vi":"Anh ấy chơi đàn ghi ta mộc.","alts":[]}},
+   {"id":"y4050-improvise","hanzi":"improvise","pinyin":"","vi":"ứng tác, ứng biến","ex":{"tokens":["Jazz","musicians","often","improvise","."],"py":["","","","","."],"vi":"Nhạc công jazz thường ứng tác.","alts":[]}},
+   {"id":"y4050-compose","hanzi":"compose","pinyin":"","vi":"sáng tác (nhạc)","ex":{"tokens":["He","began","to","compose","music","at","ten","."],"py":["","","","","","","","."],"vi":"Anh ấy bắt đầu sáng tác nhạc năm mười tuổi.","alts":[]}},
+   {"id":"y4050-strum","hanzi":"strum","pinyin":"","vi":"gảy (đàn ghi ta)","ex":{"tokens":["She","began","to","strum","her","guitar","."],"py":["","","","","","","."],"vi":"Cô ấy bắt đầu gảy đàn ghi ta.","alts":[]}},
+   {"id":"y4050-pluck","hanzi":"pluck","pinyin":"","vi":"gảy (dây đàn); nhổ, hái","ex":{"tokens":["You","pluck","the","strings","with","your","fingers","."],"py":["","","","","","","","."],"vi":"Bạn gảy dây đàn bằng ngón tay.","alts":[]}},
+   {"id":"y4050-anthem","hanzi":"anthem","pinyin":"","vi":"quốc ca; bài ca chính thức","ex":{"tokens":["Everyone","stood","for","the","national","anthem","."],"py":["","","","","","","."],"vi":"Mọi người đứng dậy hát quốc ca.","alts":[]}},
+   {"id":"y4050-folk_song","hanzi":"folk song","pinyin":"","vi":"bài dân ca","ex":{"tokens":["My","grandmother","taught","me","a","folk","song","."],"py":["","","","","","","","."],"vi":"Bà dạy tôi một bài dân ca.","alts":[]}},
+   {"id":"y4050-jazz","hanzi":"jazz","pinyin":"","vi":"nhạc jazz","ex":{"tokens":["He","listens","to","jazz","while","he","works","."],"py":["","","","","","","","."],"vi":"Anh ấy nghe nhạc jazz khi làm việc.","alts":[]}}
   ]}
  ]
 }
