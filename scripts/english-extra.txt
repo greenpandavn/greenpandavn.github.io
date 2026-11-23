@@ -1480,7 +1480,7 @@ dropshipping|bán hàng không lưu kho|He started a dropshipping business from 
 pop-up shop|cửa hàng tạm thời|The brand opened a pop-up shop for one week.|Thương hiệu mở một cửa hàng tạm thời trong một tuần.
 cross-sell|bán chéo|Banks cross-sell insurance to their customers.|Ngân hàng bán chéo bảo hiểm cho khách hàng.
 
-%455|4|Phần 5: Mở rộng – Báo chí và truyền hình|Báo chí và truyền hình|sun
+%455|4|Phần 5: Mở rộng – Báo chí và truyền hình|Báo chí và truyền hình, Tâm lý và tâm trí|sun
 @y4081|Báo chí và truyền hình 1|Tin tức, chương trình, điện ảnh, mạng xã hội|Media
 caption|chú thích ảnh|Read the caption under the photo.|Hãy đọc chú thích dưới bức ảnh.
 obituary|cáo phó|I read his obituary in the paper.|Tôi đọc cáo phó của ông ấy trên báo.
@@ -1539,6 +1539,70 @@ quiz show|chương trình đố vui|He won a prize on a quiz show.|Anh ấy th�
 cinematographer|nhà quay phim|The cinematographer chose soft light.|Nhà quay phim chọn ánh sáng dịu.
 green screen|phông xanh (kỹ xảo)|The scene was filmed in front of a green screen.|Cảnh đó được quay trước phông xanh.
 press pass|thẻ nhà báo|You need a press pass to enter.|Bạn cần thẻ nhà báo để vào.
+
+@y4085|Tâm lý và tâm trí 1|Nhận thức, rối loạn, trị liệu, giao tiếp|Mind
+cognition|nhận thức|Sleep is important for cognition.|Giấc ngủ quan trọng đối với nhận thức.
+impulse|sự thôi thúc, bốc đồng|I bought the shoes on impulse.|Tôi mua đôi giày trong lúc bốc đồng.
+compulsion|sự thôi thúc không cưỡng được|He feels a compulsion to wash his hands.|Anh ấy luôn bị thôi thúc phải rửa tay.
+paranoia|chứng hoang tưởng bị hại|His paranoia made him lock every door.|Chứng hoang tưởng khiến anh ấy khóa mọi cánh cửa.
+delusion|ảo tưởng|He lives under the delusion that he is famous.|Anh ta sống trong ảo tưởng rằng mình nổi tiếng.
+hallucination|ảo giác|The fever caused a hallucination.|Cơn sốt gây ra ảo giác.
+nightmare|cơn ác mộng|The child woke from a nightmare.|Đứa trẻ tỉnh dậy sau cơn ác mộng.
+amnesia|chứng mất trí nhớ|He suffered amnesia after the accident.|Anh ấy bị mất trí nhớ sau tai nạn.
+autism|chứng tự kỷ|The school supports children with autism.|Trường hỗ trợ trẻ mắc chứng tự kỷ.
+dyslexia|chứng khó đọc|Dyslexia makes reading difficult.|Chứng khó đọc khiến việc đọc trở nên khó khăn.
+attention span|khả năng tập trung chú ý|Young children have a short attention span.|Trẻ nhỏ chỉ tập trung được trong thời gian ngắn.
+mood swing|sự thay đổi tâm trạng thất thường|A sudden mood swing surprised his friends.|Sự thay đổi tâm trạng đột ngột làm bạn bè anh ấy bất ngờ.
+self-confidence|sự tự tin|Sport gave her self-confidence.|Thể thao đem lại cho cô ấy sự tự tin.
+self-control|sự tự chủ|It takes self-control to stop eating sweets.|Cần tự chủ mới ngừng ăn đồ ngọt được.
+
+@y4086|Tâm lý và tâm trí 2|Nhận thức, rối loạn, trị liệu, giao tiếp|Mind
+self-awareness|sự tự nhận thức|Self-awareness helps you learn from mistakes.|Tự nhận thức giúp bạn học từ sai lầm.
+self-pity|sự tự thương hại|Stop sitting there in self-pity.|Đừng ngồi đó tự thương hại nữa.
+ego|cái tôi|He has a huge ego.|Anh ta có cái tôi rất lớn.
+identity crisis|khủng hoảng bản sắc|Many teenagers go through an identity crisis.|Nhiều thiếu niên trải qua khủng hoảng bản sắc.
+inferiority complex|mặc cảm tự ti|He has an inferiority complex about his height.|Anh ấy mặc cảm tự ti về chiều cao.
+personality trait|nét tính cách|Patience is a useful personality trait.|Kiên nhẫn là một nét tính cách hữu ích.
+temperament|tính khí|The horse has a calm temperament.|Con ngựa có tính khí điềm đạm.
+narcissist|người ái kỷ|A narcissist talks only about himself.|Người ái kỷ chỉ nói về bản thân.
+psychopath|kẻ thái nhân cách|The killer in the film is a psychopath.|Kẻ giết người trong phim là một kẻ thái nhân cách.
+realist|người thực tế|I am a realist, not a dreamer.|Tôi là người thực tế, không phải kẻ mộng mơ.
+coping mechanism|cách đối phó (tâm lý)|Humor is his coping mechanism.|Hài hước là cách anh ấy đối phó.
+denial|sự chối bỏ|She is in denial about her illness.|Cô ấy đang chối bỏ căn bệnh của mình.
+grief|nỗi đau buồn (mất mát)|She could not hide her grief.|Cô ấy không giấu nổi nỗi đau buồn.
+bereavement|sự mất người thân|He took a week off after his bereavement.|Anh ấy nghỉ một tuần sau khi mất người thân.
+
+@y4087|Tâm lý và tâm trí 3|Nhận thức, rối loạn, trị liệu, giao tiếp|Mind
+mourning|sự để tang|The family is still in mourning.|Gia đình vẫn đang để tang.
+loneliness|sự cô đơn|Loneliness is common among old people.|Sự cô đơn phổ biến ở người già.
+panic attack|cơn hoảng loạn|She had a panic attack on the plane.|Cô ấy lên cơn hoảng loạn trên máy bay.
+eating disorder|rối loạn ăn uống|She recovered from an eating disorder.|Cô ấy đã hồi phục sau chứng rối loạn ăn uống.
+schizophrenia|bệnh tâm thần phân liệt|Schizophrenia can be treated with medicine.|Bệnh tâm thần phân liệt có thể điều trị bằng thuốc.
+counselor|chuyên viên tư vấn|The school counselor helped him.|Chuyên viên tư vấn của trường đã giúp cậu ấy.
+psychiatrist|bác sĩ tâm thần|The psychiatrist gave her some medicine.|Bác sĩ tâm thần kê cho cô ấy ít thuốc.
+psychologist|nhà tâm lý học|A psychologist studies how people think.|Nhà tâm lý học nghiên cứu cách con người suy nghĩ.
+hypnosis|thôi miên|He stopped smoking through hypnosis.|Anh ấy bỏ thuốc nhờ thôi miên.
+placebo effect|hiệu ứng giả dược|The placebo effect made her feel better.|Hiệu ứng giả dược làm cô ấy thấy khá hơn.
+peer pressure|áp lực từ bạn bè đồng trang lứa|He started smoking because of peer pressure.|Cậu ấy bắt đầu hút thuốc vì áp lực từ bạn bè.
+body language|ngôn ngữ cơ thể|Her body language showed she was nervous.|Ngôn ngữ cơ thể cho thấy cô ấy lo lắng.
+eye contact|giao tiếp bằng mắt|Make eye contact when you speak.|Hãy nhìn vào mắt người nghe khi nói.
+facial expression|nét mặt|His facial expression did not change.|Nét mặt anh ấy không thay đổi.
+
+@y4088|Tâm lý và tâm trí 4|Nhận thức, rối loạn, trị liệu, giao tiếp|Mind
+tone of voice|giọng điệu|I did not like her tone of voice.|Tôi không thích giọng điệu của cô ấy.
+assertive|quyết đoán|You need to be more assertive at work.|Bạn cần quyết đoán hơn trong công việc.
+passive|thụ động|He is too passive in meetings.|Anh ấy quá thụ động trong các cuộc họp.
+aggressive|hung hăng|The dog is aggressive toward strangers.|Con chó hung hăng với người lạ.
+manipulative|hay thao túng|She has a manipulative boss.|Cô ấy có một người sếp hay thao túng.
+reinforcement|sự củng cố; quân tiếp viện|Praise is positive reinforcement for a child.|Lời khen là sự củng cố tích cực cho trẻ.
+conditioning|sự tạo phản xạ có điều kiện; rèn luyện|The dog learned through conditioning.|Con chó học được nhờ phản xạ có điều kiện.
+hyperactivity|chứng tăng động|Too much sugar does not cause hyperactivity.|Quá nhiều đường không gây ra chứng tăng động.
+sociopath|kẻ rối loạn nhân cách chống đối xã hội|The novel is about a charming sociopath.|Cuốn tiểu thuyết kể về một kẻ rối loạn nhân cách đầy quyến rũ.
+defense mechanism|cơ chế phòng vệ (tâm lý)|Joking is a defense mechanism for him.|Nói đùa là một cơ chế phòng vệ của anh ấy.
+repression|sự kìm nén; sự đàn áp|Years of repression made him ill.|Nhiều năm kìm nén khiến anh ấy đổ bệnh.
+anxiety disorder|rối loạn lo âu|She is being treated for an anxiety disorder.|Cô ấy đang điều trị rối loạn lo âu.
+psychoanalysis|phân tâm học|Freud is the father of psychoanalysis.|Freud là cha đẻ của phân tâm học.
+groupthink|tư duy bầy đàn|Groupthink led the team to a bad decision.|Tư duy bầy đàn khiến cả nhóm quyết định sai.
 
 %551|5|Phần 1: Mở rộng – Giải phẫu cơ thể|Giải phẫu cơ thể, Bệnh lý, Thủ thuật và thiết bị y khoa, Thực vật học, Động vật học|leaf
 @y5001|Giải phẫu cơ thể 1|Xương, nội tạng, các phần trên cơ thể|Anatomy
