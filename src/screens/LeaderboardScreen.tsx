@@ -25,9 +25,9 @@ export default function LeaderboardScreen({ onLogin }: { onLogin: () => void }) 
     return () => {
       alive = false;
     };
-  }, [kind, acc.user?.uid, synced]);
+  }, [kind, acc.user?.uid, acc.anon?.uid, acc.anon?.name, synced]);
 
-  const uid = acc.user?.uid;
+  const uid = acc.user?.uid ?? acc.anon?.uid;
   return (
     <div className="mx-auto max-w-md px-4 pb-2 pt-4">
       <div className="mb-4 flex items-center gap-3">
@@ -36,7 +36,7 @@ export default function LeaderboardScreen({ onLogin }: { onLogin: () => void }) 
         </span>
         <div>
           <h1 className="text-2xl font-black">Bảng xếp hạng</h1>
-          <p className="text-sm font-semibold text-ink-500">Top 20 theo XP · thi đua cùng bạn bè</p>
+          <p className="text-sm font-semibold text-ink-500">Top 100 theo XP · thi đua cùng bạn bè</p>
         </div>
       </div>
       <div className="mb-4 grid grid-cols-2 gap-2 rounded-2xl bg-cloud/60 p-1">
@@ -55,7 +55,7 @@ export default function LeaderboardScreen({ onLogin }: { onLogin: () => void }) 
 
       {!acc.user && firebaseConfigured && (
         <div className="card mb-4 flex items-center gap-3 !bg-sky-500/10">
-          <p className="flex-1 text-sm font-bold text-ink-700">Bạn đang xem ở chế độ chỉ đọc. Đăng nhập để có tên trên bảng xếp hạng!</p>
+          <p className="flex-1 text-sm font-bold text-ink-700">{acc.anon?.no ? `Bạn đang chơi ẩn danh với tên “${acc.anon.name}”. Đăng nhập để giữ điểm khi đổi máy!` : 'Bạn đang chơi ẩn danh. Đăng nhập để giữ điểm khi đổi máy!'}</p>
           <button type="button" className="chip !text-sky-600" onClick={onLogin}>
             Đăng nhập
           </button>
@@ -79,9 +79,14 @@ export default function LeaderboardScreen({ onLogin }: { onLogin: () => void }) 
           {board.rows.map((r, i) => (
             <li key={r.uid} className={`flex items-center gap-3 rounded-2xl border-2 px-3 py-2.5 ${r.uid === uid ? 'border-sky-400 bg-sky-500/10' : 'border-cloud'}`}>
               <span className={`flex h-8 w-8 items-center justify-center rounded-full text-sm font-black ${i < 3 ? `${MEDAL[i]} text-white` : 'text-ink-400'}`}>{i + 1}</span>
-              <span className="flex-1 truncate font-extrabold">
-                {r.displayName}
-                {r.uid === uid && <span className="ml-1 text-xs text-sky-600">(bạn)</span>}
+              <span className="flex min-w-0 flex-1 items-center gap-1.5 font-extrabold">
+                <span className="truncate">{r.displayName}</span>
+                {r.anon && (
+                  <span className="shrink-0 rounded-full bg-cloud px-1.5 py-0.5 text-[10px] font-black text-ink-500" data-testid="anon-tag">
+                    Ẩn danh
+                  </span>
+                )}
+                {r.uid === uid && <span className="shrink-0 text-xs text-sky-600">(bạn)</span>}
               </span>
               <span className="font-black text-sun-600">{r.xp} XP</span>
             </li>

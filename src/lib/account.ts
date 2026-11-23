@@ -9,6 +9,8 @@ export interface AccountState {
   role: 'admin' | 'user';
   notice: string; // e.g. "account locked" message shown after a forced sign-out
   revoked: string[]; // certificate keys revoked by an admin (hidden, but kept in the stored progress)
+  /** Firebase anonymous identity of a learner who has not logged in (`user` stays null for them). */
+  anon?: { uid: string; no: number; name: string } | null;
 }
 
 export const OWNER_EMAIL = 'virusphuoc@gmail.com';

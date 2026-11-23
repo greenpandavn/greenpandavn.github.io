@@ -93,11 +93,11 @@ describe('resolveLogin (localStorage → cloud migration)', () => {
     expect(r.progress.lessons.l1).toBeDefined();
   });
 
-  it('first login on an existing account merges, keeping the higher XP/streak', () => {
+  it('first login on an existing account merges: guest XP is added (v5.2.8), higher streak kept', () => {
     const cloud = make({ xp: 500, streak: { current: 1, longest: 10, lastDate: '2026-11-19' }, lessons: { l2: { completed: 2, bestAccuracy: 0.9 } } });
     const r = resolveLogin({ cloud, cache: null, guest: guest(), alreadyMigrated: false, fallback: defaultProgress() });
     expect(r.migrated).toBe(true);
-    expect(r.progress.xp).toBe(500);
+    expect(r.progress.xp).toBe(700);
     expect(r.progress.streak.current).toBe(3);
     expect(r.progress.streak.longest).toBe(10);
     expect(Object.keys(r.progress.lessons).sort()).toEqual(['l1', 'l2']);

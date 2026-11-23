@@ -1,3 +1,4 @@
+import AnnouncementEditor from './AnnouncementEditor';
 import { useCallback, useEffect, useMemo, useState } from 'react';
 import { BUNDLED_LESSONS, isBundledLesson, LESSONS, LESSON_BY_ID, UNITS, loadCourse, useContentVersion } from '../data';
 import { useAccount } from '../lib/account';
@@ -165,6 +166,7 @@ export default function AdminScreen({ onClose }: { onClose: () => void }) {
             )}
             <p className="mt-2 text-xs font-bold text-ink-400">Tính cả khách chưa đăng nhập. “Đang online” = thiết bị có tín hiệu trong 5 phút gần nhất; tự cập nhật mỗi phút.</p>
           </div>
+          <AnnouncementEditor />
           <div className="grid grid-cols-2 gap-3">
             <Stat value={stats.learners} label="Tổng học viên" />
             <Stat value={stats.dau} label="Hoạt động hôm nay" />

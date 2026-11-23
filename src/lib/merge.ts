@@ -117,12 +117,21 @@ export function resolveLogin(opts: {
   guest: Progress | null;
   alreadyMigrated: boolean;
   fallback: Progress;
+  /** Guest XP already carried into an account earlier (per course); only the rest is added. */
+  carried?: { zh: number; en: number };
 }): { progress: Progress; migrated: boolean } {
   let p = opts.cloud ?? opts.cache ?? opts.fallback;
   if (opts.cloud && opts.cache) p = mergeProgress(opts.cloud, opts.cache);
   let migrated = false;
   if (!opts.alreadyMigrated && hasProgress(opts.guest)) {
+    const base = opts.cloud || opts.cache ? p : null;
     p = mergeProgress(p, opts.guest!);
+    if (base) {
+      // XP earned while anonymous is added on top of the account's XP (everything else is a union).
+      const c = opts.carried ?? { zh: 0, en: 0 };
+      p = { ...p, xp: Math.max(p.xp, base.xp + Math.max(0, opts.guest!.xp - c.zh)) };
+      if (p.en) p = { ...p, en: { ...p.en, xp: Math.max(p.en.xp, (base.en?.xp ?? 0) + Math.max(0, (opts.guest!.en?.xp ?? 0) - c.en)) } };
+    }
     migrated = true;
   }
   const g = opts.guest?.settings;

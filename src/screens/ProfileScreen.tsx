@@ -82,10 +82,12 @@ export default function ProfileScreen({
   const [perm, setPerm] = useState(notifyPermission());
   const [editing, setEditing] = useState(false);
   const displayName =
-    acc.user?.displayName || p.settings.name || "Học viên Gấu Trúc";
+    acc.user?.displayName || p.settings.name.slice(0, acc.user ? 40 : 20) || (acc.anon?.no ? `Học viên ẩn danh ${acc.anon.no}` : "Học viên Gấu Trúc");
+  // Anonymous learners get a nickname of at most 20 characters (shown on the leaderboard).
+  const nameMax = acc.user ? 40 : 20;
   const [nameDraft, setNameDraft] = useState(displayName);
   const saveName = async () => {
-    const n = nameDraft.trim().slice(0, 40);
+    const n = nameDraft.trim().slice(0, nameMax);
     if (!n) return;
     setEditing(false);
     if (acc.user) {
@@ -150,7 +152,7 @@ export default function ProfileScreen({
               <input
                 className="input !min-h-[40px] min-w-0 !px-3"
                 value={nameDraft}
-                maxLength={40}
+                maxLength={nameMax}
                 onChange={(e) => setNameDraft(e.target.value)}
                 autoFocus
                 aria-label="Tên hiển thị"

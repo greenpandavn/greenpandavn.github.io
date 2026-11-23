@@ -1,9 +1,14 @@
 import {
   createUserWithEmailAndPassword,
+  EmailAuthProvider,
   getRedirectResult,
   GoogleAuthProvider,
   onAuthStateChanged,
+  linkWithCredential,
+  linkWithPopup,
   sendPasswordResetEmail,
+  signInAnonymously,
+  signInWithCredential,
   signInWithEmailAndPassword,
   signInWithPopup,
   signInWithRedirect,
@@ -25,11 +30,14 @@ import {
   onSnapshot,
   orderBy,
   query,
+  runTransaction,
   setDoc,
   where,
   type Unsubscribe,
 } from 'firebase/firestore';
 import { auth, db, resetDb } from './firebase';
+import { firebaseConfig } from './firebaseConfig';
+import { levelInfo } from './gamification';
 import { applyRemote, courseView, defaultProgress, getStored, GUEST_KEY, xpByCourse, loadFrom, onLocalChange, sanitize, updateProgress, switchStorageSlot } from './store';
 import { mergeProgress, resolveLogin, weekId, weekXp } from './merge';
 import { getAccount, OWNER_EMAIL, setAccount } from './account';
@@ -37,6 +45,7 @@ import { applyContent, type LessonDoc, type UnitDoc } from '../data';
 import type { Progress } from '../types';
 import { setSocialName, startSocial, stopSocial } from './social';
 import { startVisits } from './visits';
+import { setRemoteAnnouncement } from './announcement';
 
 const MIGRATED_KEY = 'hoc-tieng-trung-migrated-uids';
 const CLIENT_ID = Math.random().toString(36).slice(2);
@@ -146,7 +155,8 @@ async function upload(u: User, p: Progress) {
     }),
   ];
   // Moderation: hidden users stay off the public boards.
-  if (!roleInfo.hidden) writes.push(setDoc(doc(db, 'leaderboard', u.uid), { displayName, xp: Math.round(xpByCourse(p).total), updatedAt: now }));
+  const total = Math.round(xpByCourse(p).total);
+  if (!roleInfo.hidden) writes.push(writeBoard(u.uid, { displayName, xp: total, updatedAt: now }, { level: levelInfo(total).level }));
   const wxp = totalWeekXp(p);
   if (wxp > 0 && !roleInfo.hidden) writes.push(setDoc(doc(db, 'weeks', weekId(), 'entries', u.uid), { displayName, xp: Math.round(wxp), updatedAt: now }));
   // Public name for the friend search. Kept out of the sync status: it needs the v4 rules to be published.
@@ -221,8 +231,148 @@ async function forceLogout(msg: string) {
   await signOut(auth);
 }
 
+// ---------- anonymous learners (v5.2.8) ----------
+const ANON_KEY = 'gp-anon'; // { uid, no }: the join number already given to this anonymous uid
+const CARRIED_KEY = 'gp-anon-carried'; // guest XP already merged into an account, so it is not counted twice
+const DROP_KEY = 'gp-anon-drop'; // anonymous identity to clean up once a real account is signed in
+const ANON_NAME = 'Học viên ẩn danh';
+let anonTimer: ReturnType<typeof setTimeout> | null = null;
+let stopAnon: (() => void) | null = null;
+let anonRetryAt = 0;
+let legacyBoard = false; // the published rules still reject the v5.2.8 leaderboard fields
+
+const readJson = <T,>(store: Storage, key: string, fallback: T): T => {
+  try {
+    return (JSON.parse(store.getItem(key) || 'null') as T) ?? fallback;
+  } catch {
+    return fallback;
+  }
+};
+const carried = () => readJson(localStorage, CARRIED_KEY, { zh: 0, en: 0 });
+
+/** Leaderboard write; falls back to the pre-5.2.8 fields while the new rules are not published. */
+async function writeBoard(uid: string, base: { displayName: string; xp: number; updatedAt: number }, extra: Record<string, unknown>) {
+  const ref = doc(db, 'leaderboard', uid);
+  if (!legacyBoard)
+    try {
+      return await setDoc(ref, { ...base, ...extra });
+    } catch (e) {
+      if ((e as { code?: string }).code !== 'permission-denied') throw e;
+      legacyBoard = true;
+    }
+  return setDoc(ref, base);
+}
+
+/** Join number of an anonymous learner: taken once from a counter in a transaction, so two learners never share one. */
+async function anonNumber(uid: string, xp: number): Promise<number> {
+  const saved = readJson<{ uid?: string; no?: number }>(localStorage, ANON_KEY, {});
+  if (saved.uid === uid && saved.no) return saved.no;
+  const mine = doc(db, 'leaderboard', uid);
+  const counter = doc(db, 'site', 'anonCounter');
+  if (Date.now() < anonRetryAt) throw Object.assign(new Error('waiting'), { code: 'app/anon-cooldown' });
+  let last: unknown;
+  // The SDK retries a transaction that lost a race; a commit judged by the rules against a counter that has already
+  // moved comes back as permission-denied instead, so that is retried here as well (with a little jitter).
+  for (let attempt = 0; attempt < 6; attempt++) {
+    try {
+      const no = await runTransaction(db, async (tx) => {
+        const own = await tx.get(mine);
+        if (own.exists() && Number(own.data().no) > 0) return Number(own.data().no);
+        const c = await tx.get(counter);
+        const next = (c.exists() ? Number(c.data().count) || 0 : 0) + 1;
+        tx.set(counter, { count: next });
+        tx.set(mine, { displayName: `${ANON_NAME} ${next}`, xp, level: levelInfo(xp).level, updatedAt: Date.now(), anon: true, no: next });
+        return next;
+      });
+      localStorage.setItem(ANON_KEY, JSON.stringify({ uid, no }));
+      return no;
+    } catch (e) {
+      last = e;
+      await new Promise((r) => setTimeout(r, 200 * 2 ** attempt * (0.5 + Math.random())));
+    }
+  }
+  // Still refused (e.g. the v5.2.8 rules are not published yet): leave it for a few minutes.
+  anonRetryAt = Date.now() + 5 * 60000;
+  throw last;
+}
+
+/** XP an anonymous learner shows on the board: everything earned on this device, minus what an account already took over. */
+function anonXp(p: Progress) {
+  const x = xpByCourse(p);
+  const c = carried();
+  return Math.round(Math.max(0, x.zh - c.zh) + Math.max(0, x.en - c.en));
+}
+export const anonLabel = (no: number, nick?: string) => nick?.trim().slice(0, 20) || `${ANON_NAME} ${no}`;
+
+async function uploadAnon(u: User) {
+  if (auth.currentUser?.uid !== u.uid || !u.isAnonymous) return;
+  try {
+    const no = await anonNumber(u.uid, anonXp(getStored()));
+    if (auth.currentUser?.uid !== u.uid || !u.isAnonymous) return;
+    const p = getStored();
+    const displayName = anonLabel(no, p.settings.name);
+    setAccount({ anon: { uid: u.uid, no, name: displayName } });
+    const xp = anonXp(p);
+    const now = Date.now();
+    await setDoc(doc(db, 'leaderboard', u.uid), { displayName, xp, level: levelInfo(xp).level, updatedAt: now, anon: true, no });
+    const wxp = Math.min(Math.round(totalWeekXp(p)), xp);
+    if (wxp > 0) await setDoc(doc(db, 'weeks', weekId(), 'entries', u.uid), { displayName, xp: wxp, updatedAt: now, anon: true });
+  } catch (e) {
+    console.warn('Anonymous leaderboard not updated', (e as { code?: string }).code ?? e);
+  }
+}
+
+function startAnon(u: User) {
+  endSession(false);
+  const saved = readJson<{ uid?: string; no?: number }>(localStorage, ANON_KEY, {});
+  const no = saved.uid === u.uid ? (saved.no ?? 0) : 0;
+  setAccount({ anon: { uid: u.uid, no, name: no ? anonLabel(no, getStored().settings.name) : '' } });
+  stopAnon = onLocalChange(() => {
+    if (anonTimer) clearTimeout(anonTimer);
+    anonTimer = setTimeout(() => void uploadAnon(u), 800);
+  });
+  void uploadAnon(u);
+}
+
+function leaveAnon() {
+  stopAnon?.();
+  stopAnon = null;
+  if (anonTimer) clearTimeout(anonTimer);
+  anonTimer = null;
+}
+
+const restBase = () =>
+  `${import.meta.env.VITE_FIREBASE_EMULATOR === '1' ? 'http://127.0.0.1:8080' : 'https://firestore.googleapis.com'}/v1/projects/${firebaseConfig.projectId}/databases/(default)/documents`;
+
+/** Before leaving an anonymous identity: remember it (with its token) so its board entry can be removed afterwards. */
+async function stashAnon() {
+  const u = auth.currentUser;
+  if (!u?.isAnonymous) return null;
+  if (anonTimer) {
+    clearTimeout(anonTimer);
+    anonTimer = null;
+  }
+  try {
+    sessionStorage.setItem(DROP_KEY, JSON.stringify({ uid: u.uid, token: await u.getIdToken() }));
+  } catch {
+    /* offline: the entry simply stays */
+  }
+  return u;
+}
+
+/** The anonymous identity was replaced by a real account (link not possible): its XP is merged locally, drop its entries. */
+async function dropAnon(realUid: string) {
+  const d = readJson<{ uid?: string; token?: string }>(sessionStorage, DROP_KEY, {});
+  sessionStorage.removeItem(DROP_KEY);
+  if (!d.uid || !d.token || d.uid === realUid) return;
+  const headers = { Authorization: `Bearer ${d.token}` };
+  for (const path of [`leaderboard/${d.uid}`, `weeks/${weekId()}/entries/${d.uid}`])
+    await fetch(`${restBase()}/${path}`, { method: 'DELETE', headers }).catch(() => undefined);
+}
+
 async function startSession(u: User) {
-  setAccount({ ready: true, user: toUser(u), sync: 'saving', notice: '' });
+  leaveAnon();
+  setAccount({ ready: true, user: toUser(u), anon: null, sync: 'saving', notice: '' });
   if (!(await checkRole(u))) return forceLogout(LOCKED_MSG);
   if (auth.currentUser?.uid !== u.uid) return;
   const guest = loadFrom(GUEST_KEY);
@@ -246,10 +396,15 @@ async function startSession(u: User) {
     guest,
     alreadyMigrated: migratedUids().includes(u.uid),
     fallback: defaultProgress(),
+    carried: carried(),
   });
   if (!progress.settings.name) progress.settings = { ...progress.settings, name: nameOf(u) };
   applyRemote(progress);
-  if (migrated) markMigrated(u.uid);
+  if (migrated) {
+    markMigrated(u.uid);
+    if (guest) localStorage.setItem(CARRIED_KEY, JSON.stringify({ zh: guest.xp, en: guest.en?.xp ?? 0 }));
+  }
+  void dropAnon(u.uid);
   setAccount({ migrated, user: { ...toUser(u), displayName: u.displayName || progress.settings.name || nameOf(u) } });
 
   stopLocal?.();
@@ -289,7 +444,8 @@ function listen(u: User) {
   );
 }
 
-function endSession() {
+function endSession(signedOut = true) {
+  leaveAnon();
   stopSnapshot?.();
   stopSnapshot = null;
   stopRole?.();
@@ -302,7 +458,7 @@ function endSession() {
   if (timer) clearTimeout(timer);
   timer = null;
   switchStorageSlot(GUEST_KEY, loadFrom(GUEST_KEY) ?? defaultProgress());
-  setAccount({ ready: true, user: null, sync: 'idle', migrated: false, role: 'user', revoked: [] });
+  setAccount({ ready: true, user: null, sync: 'idle', migrated: false, role: 'user', revoked: [], ...(signedOut ? { anon: null } : {}) });
 }
 
 export function initCloud() {
@@ -310,14 +466,21 @@ export function initCloud() {
   started = true;
   getRedirectResult(auth).catch((e) => console.warn('Redirect sign-in failed', e));
   void loadContent();
+  void loadAnnouncement();
   startVisits();
   onAuthStateChanged(auth, (u) => {
-    if (u) void startSession(u);
-    else endSession();
+    if (u?.isAnonymous) startAnon(u);
+    else if (u) void startSession(u);
+    else {
+      endSession();
+      // Learners who are not logged in get an anonymous Firebase identity for the public leaderboard.
+      signInAnonymously(auth).catch((e) => console.warn('Anonymous sign-in failed', (e as { code?: string }).code ?? e));
+    }
   });
   window.addEventListener('online', () => {
     const u = auth.currentUser;
     if (!u) return;
+    if (u.isAnonymous) return void uploadAnon(u);
     // Firestore restarts its own streams on 'online'; re-send the snapshot and escalate only if it stays stuck.
     reconnecting = true;
     pendingSince = 0;
@@ -325,10 +488,10 @@ export function initCloud() {
     for (const ms of [2000, 6000, 12000]) setTimeout(kickIfStuck, ms);
   });
   document.addEventListener('visibilitychange', () => {
-    if (document.visibilityState === 'visible' && auth.currentUser) kickIfStuck();
+    if (document.visibilityState === 'visible' && auth.currentUser && !auth.currentUser.isAnonymous) kickIfStuck();
   });
   window.addEventListener('offline', () => {
-    if (auth.currentUser) setAccount({ sync: 'offline' });
+    if (auth.currentUser && !auth.currentUser.isAnonymous) setAccount({ sync: 'offline' });
   });
 }
 
@@ -346,6 +509,16 @@ export async function loadContent() {
     });
   } catch (e) {
     console.warn('Using bundled/cached lesson content', e);
+  }
+}
+
+/** "What's new" notice edited in the admin screen (site/announcement); the bundled text is used when there is none. */
+export async function loadAnnouncement() {
+  try {
+    const snap = await withTimeout(getDoc(doc(db, 'site', 'announcement')), 15000);
+    setRemoteAnnouncement(snap.exists() ? snap.data() : null);
+  } catch (e) {
+    console.warn('Using bundled/cached announcement', (e as { code?: string }).code ?? e);
   }
 }
 
@@ -373,8 +546,13 @@ export const authErrorMessage = (e: unknown) => {
 
 export async function registerEmail(name: string, email: string, password: string) {
   pendingName = name.trim().slice(0, 40);
-  const cred = await createUserWithEmailAndPassword(auth, email.trim(), password);
+  const anon = await stashAnon();
+  // An anonymous learner keeps the same uid: the email account is linked onto it, so XP and history carry over.
+  const cred = anon
+    ? await linkWithCredential(anon, EmailAuthProvider.credential(email.trim(), password))
+    : await createUserWithEmailAndPassword(auth, email.trim(), password);
   await updateProfile(cred.user, { displayName: name.trim().slice(0, 40) });
+  if (anon) void startSession(cred.user);
   setAccount({ user: toUser(cred.user) });
   updateProgress((p) => ({ ...p, settings: { ...p.settings, name: name.trim().slice(0, 40) } }));
   return cred.user;
@@ -390,6 +568,7 @@ async function ensureNotLocked(u: User) {
 }
 
 export async function loginEmail(email: string, password: string) {
+  await stashAnon();
   const cred = await signInWithEmailAndPassword(auth, email.trim(), password);
   await ensureNotLocked(cred.user);
   return cred;
@@ -398,7 +577,22 @@ export async function loginEmail(email: string, password: string) {
 export async function loginGoogle() {
   const provider = new GoogleAuthProvider();
   provider.setCustomParameters({ prompt: 'select_account' });
+  const anon = await stashAnon();
   try {
+    if (anon)
+      try {
+        // Link Google onto the anonymous uid so XP, rank and history carry over as they are.
+        const linked = await linkWithPopup(anon, provider);
+        void startSession(linked.user);
+        return linked;
+      } catch (e) {
+        // This Google account already exists: sign in to it; startSession adds the anonymous XP and drops the anonymous entry.
+        const existing = (e as { code?: string }).code === 'auth/credential-already-in-use' ? GoogleAuthProvider.credentialFromError(e as never) : null;
+        if (!existing) throw e;
+        const cred = await signInWithCredential(auth, existing);
+        await ensureNotLocked(cred.user);
+        return cred;
+      }
     const cred = await signInWithPopup(auth, provider);
     await ensureNotLocked(cred.user);
     return cred;
@@ -424,6 +618,11 @@ export async function logout() {
   await signOut(auth);
 }
 
+/** Nickname of an anonymous learner (max 20 characters); empty goes back to the numbered name. */
+export function setAnonName(name: string) {
+  updateProgress((p) => ({ ...p, settings: { ...p.settings, name: name.trim().slice(0, 20) } }));
+}
+
 export async function setDisplayName(name: string) {
   const u = auth.currentUser;
   const clean = name.trim().slice(0, 40);
@@ -443,6 +642,7 @@ export interface BoardRow {
   uid: string;
   displayName: string;
   xp: number;
+  anon: boolean;
 }
 export interface Board {
   rows: BoardRow[];
@@ -451,7 +651,7 @@ export interface Board {
 
 export async function fetchBoard(kind: 'week' | 'all'): Promise<Board> {
   const col = kind === 'all' ? collection(db, 'leaderboard') : collection(db, 'weeks', weekId(), 'entries');
-  const q = query(col, orderBy('xp', 'desc'), limit(20));
+  const q = query(col, orderBy('xp', 'desc'), limit(100));
   let snap;
   try {
     snap = await withTimeout(getDocsFromServer(q), 10000);
@@ -460,11 +660,12 @@ export async function fetchBoard(kind: 'week' | 'all'): Promise<Board> {
     snap = await getDocsFromCache(q).catch(() => null);
     if (!snap || snap.empty) throw e;
   }
-  const rows = snap.docs.map((d) => ({ uid: d.id, displayName: String(d.data().displayName ?? 'Học viên'), xp: Number(d.data().xp ?? 0) }));
+  const rows = snap.docs.map((d) => ({ uid: d.id, displayName: String(d.data().displayName ?? 'Học viên'), xp: Number(d.data().xp ?? 0), anon: d.data().anon === true }));
   const u = auth.currentUser;
   let me: Board['me'] = null;
   if (u) {
-    const xp = kind === 'all' ? Math.round(xpByCourse(getStored()).total) : Math.round(totalWeekXp(getStored()));
+    const all = u.isAnonymous ? anonXp(getStored()) : Math.round(xpByCourse(getStored()).total);
+    const xp = kind === 'all' ? all : Math.min(Math.round(totalWeekXp(getStored())), all);
     const idx = rows.findIndex((r) => r.uid === u.uid);
     if (idx >= 0) me = { rank: idx + 1, xp: rows[idx].xp };
     else if (xp > 0) {

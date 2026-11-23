@@ -3,6 +3,8 @@ service cloud.firestore {
   match /databases/{database}/documents {
     function signedIn() { return request.auth != null; }
     function isOwner(uid) { return signedIn() && request.auth.uid == uid; }
+    // v5.2.8: learners who are not logged in have a Firebase Anonymous Auth uid.
+    function isAnon() { return signedIn() && request.auth.token.firebase.sign_in_provider == 'anonymous'; }
     function validName(n) { return n is string && n.size() > 0 && n.size() <= 40; }
     function validXp(x) { return x is int && x >= 0 && x < 100000000; }
 
@@ -24,7 +26,7 @@ service cloud.firestore {
     match /users/{uid} {
       allow read: if isOwner(uid) || isAdmin();
       allow delete: if isOwner(uid) || isAdmin();
-      allow create, update: if isOwner(uid) && notLocked(uid)
+      allow create, update: if isOwner(uid) && !isAnon() && notLocked(uid)
         && request.resource.data.keys().hasOnly(['displayName', 'email', 'createdAt', 'lastActive', 'progress', 'updatedAt', 'clientId'])
         && request.resource.data.progress is map;
     }
@@ -36,12 +38,28 @@ service cloud.firestore {
       allow delete: if isAdmin();
     }
 
+    // ---------- v5.2.8: one public board for accounts and anonymous learners ----------
+    // Anyone reads; only the owner of the uid writes its document. Anonymous learners (Firebase Anonymous Auth) must be
+    // marked `anon: true` and carry the join number `no` taken from site/anonCounter; accounts may not carry either.
+    function anonCounter() { return /databases/$(database)/documents/site/anonCounter; }
+    function boardEntry(uid, d) {
+      return isOwner(uid) && notLocked(uid) && notHidden(uid)
+        && nameAllowed(uid, d.displayName) && validXp(d.xp) && d.updatedAt is number
+        && (!('level' in d) || (d.level is int && d.level >= 1 && d.level < 100000))
+        && (isAnon() ? d.anon == true && d.displayName.size() <= 30 : !('anon' in d) && !('no' in d));
+    }
+
     match /leaderboard/{uid} {
       allow read: if true;
-      allow create, update: if isOwner(uid) && notLocked(uid) && notHidden(uid)
-        && request.resource.data.keys().hasOnly(['displayName', 'xp', 'updatedAt'])
-        && nameAllowed(uid, request.resource.data.displayName)
-        && validXp(request.resource.data.xp);
+      // New entry: an anonymous learner's number must be the one the counter reaches in the same transaction.
+      allow create: if request.resource.data.keys().hasOnly(['displayName', 'xp', 'level', 'updatedAt', 'anon', 'no'])
+        && boardEntry(uid, request.resource.data)
+        && (!isAnon() || (request.resource.data.no is int && request.resource.data.no == getAfter(anonCounter()).data.count
+            && (!exists(anonCounter()) || get(anonCounter()).data.count == request.resource.data.no - 1)));
+      // Later writes keep the number. After linking to a real account the anonymous marks are dropped.
+      allow update: if request.resource.data.keys().hasOnly(['displayName', 'xp', 'level', 'updatedAt', 'anon', 'no'])
+        && boardEntry(uid, request.resource.data)
+        && (!isAnon() || request.resource.data.no == resource.data.no);
       allow update: if isAdmin() && validName(request.resource.data.displayName)
         && request.resource.data.diff(resource.data).affectedKeys().hasOnly(['displayName']);
       allow delete: if isOwner(uid) || isAdmin();
@@ -49,13 +67,32 @@ service cloud.firestore {
 
     match /weeks/{weekId}/entries/{uid} {
       allow read: if true;
-      allow create, update: if isOwner(uid) && notLocked(uid) && notHidden(uid)
-        && request.resource.data.keys().hasOnly(['displayName', 'xp', 'updatedAt'])
-        && nameAllowed(uid, request.resource.data.displayName)
-        && validXp(request.resource.data.xp);
+      allow create, update: if request.resource.data.keys().hasOnly(['displayName', 'xp', 'updatedAt', 'anon'])
+        && boardEntry(uid, request.resource.data);
       allow update: if isAdmin() && validName(request.resource.data.displayName)
         && request.resource.data.diff(resource.data).affectedKeys().hasOnly(['displayName']);
       allow delete: if isOwner(uid) || isAdmin();
+    }
+
+    // site/announcement: the "what's new" notice. Everyone reads, only admins write.
+    // site/anonCounter: { count } = number of anonymous learners so far. It only moves up by exactly 1, and only in the
+    // same transaction in which the caller creates its own leaderboard entry with that number.
+    match /site/{id} {
+      allow read: if true;
+      allow write: if id != 'anonCounter' && isAdmin()
+        && request.resource.data.keys().hasOnly(['title', 'body', 'version', 'updatedAt'])
+        && request.resource.data.title is string && request.resource.data.title.size() <= 80
+        && request.resource.data.body is string && request.resource.data.body.size() <= 1500
+        && request.resource.data.version is string && request.resource.data.version.size() <= 20;
+      allow delete: if id != 'anonCounter' && isAdmin();
+      allow create: if id == 'anonCounter' && isAnon()
+        && request.resource.data.keys().hasOnly(['count']) && request.resource.data.count == 1
+        && !exists(/databases/$(database)/documents/leaderboard/$(request.auth.uid))
+        && getAfter(/databases/$(database)/documents/leaderboard/$(request.auth.uid)).data.no == 1;
+      allow update: if id == 'anonCounter' && isAnon()
+        && request.resource.data.keys().hasOnly(['count']) && request.resource.data.count == resource.data.count + 1
+        && !exists(/databases/$(database)/documents/leaderboard/$(request.auth.uid))
+        && getAfter(/databases/$(database)/documents/leaderboard/$(request.auth.uid)).data.no == request.resource.data.count;
     }
 
     // Admin-managed course content (falls back to the bundled lessons when empty).

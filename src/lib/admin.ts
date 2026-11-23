@@ -189,3 +189,7 @@ export async function hideReported(r: Report, by: string) {
 }
 export const dismissReport = (r: Report, by: string) => resolve(r, 'dismissed', by);
 export const deleteReport = (r: Report) => deleteDoc(doc(db, 'reports', r.id));
+
+// ---------- v5.2.8: "what's new" notice ----------
+export const saveAnnouncement = (a: { title: string; body: string; version: string }) =>
+  setDoc(doc(db, 'site', 'announcement'), { title: a.title.trim().slice(0, 80), body: a.body.trim().slice(0, 1500), version: a.version.trim().replace(/^v/i, '').slice(0, 20), updatedAt: Date.now() });

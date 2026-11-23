@@ -12,7 +12,10 @@ import ScrollButtons from './components/ScrollButtons';
 import { currentLessonId } from './lib/unlock';
 import { useProgress } from './lib/store';
 import { dueCount } from './lib/srs';
-import { everSignedIn, useAccount } from './lib/account';
+import { everSignedIn, firebaseConfigured, useAccount } from './lib/account';
+import AnnouncementPanel from './components/AnnouncementPanel';
+import LoginGate from './components/LoginGate';
+import { needsLogin } from './lib/gate';
 import { LESSON_BY_ID, courseChosen, isEnglish, loadUnits, setCourse, unitsOfWords, useContentVersion } from './data';
 import CoursePicker from './components/CoursePicker';
 import { socialBadge, useSocial } from './lib/socialState';
@@ -153,6 +156,14 @@ export default function App() {
     window.scrollTo(0, 0);
   };
 
+  // v5.2.8: lessons and part tests from Part 3 on need an account (the game and the review stay open).
+  const [gate, setGate] = useState(false);
+  const gated = (unit: number | undefined) => {
+    if (!firebaseConfigured || acc.user || !needsLogin(unit)) return false;
+    setGate(true);
+    return true;
+  };
+
   const openAuth = () => {
     prevTab.current = tab;
     window.location.hash = '/auth';
@@ -260,8 +271,12 @@ export default function App() {
       <AppBanners onLearn={() => changeTab('learn')} />
       {tab === 'learn' && (
         <PathScreen
-          onStart={(id) => setSession({ type: 'lesson', lessonId: id })}
-          onTest={(unit) => setSession({ type: 'test', unit })}
+          onStart={(id) => {
+            if (!gated(LESSON_BY_ID[id]?.unit)) setSession({ type: 'lesson', lessonId: id });
+          }}
+          onTest={(unit) => {
+            if (!gated(unit)) setSession({ type: 'test', unit });
+          }}
           onMock={() => {
             window.location.hash = '/mock';
             setMockOpen(true);
@@ -286,6 +301,16 @@ export default function App() {
       {tab === 'rank' && <LeaderboardScreen onLogin={openAuth} />}
       {tab === 'profile' && <ProfileScreen onLogin={openAuth} onAdmin={openAdmin} />}
       </Suspense>
+      {gate && !acc.user && (
+        <LoginGate
+          onClose={() => setGate(false)}
+          onEmail={() => {
+            setGate(false);
+            openAuth();
+          }}
+        />
+      )}
+      {!gate && !(tab === 'friends' && chatOpen) && <AnnouncementPanel />}
       {!(tab === 'friends' && chatOpen) && <Footer className="pb-24" />}
       {!(tab === 'friends' && chatOpen) && <ScrollButtons />}
       {!(tab === 'friends' && chatOpen) && <BottomNav tab={tab} onChange={changeTab} badge={Math.min(dueCount(p), 10)} friendsBadge={acc.user ? socialBadge(social) : 0} />}
