@@ -29,7 +29,9 @@ export interface Lesson {
   cost?: number;
 }
 
-export type CourseId = 'zh' | 'en';
+export type CourseId = 'zh' | 'en' | 'ko' | 'ja';
+/** Courses whose progress is stored under their own key (Chinese is stored at the top level). */
+export type SubCourseId = Exclude<CourseId, 'zh'>;
 
 export type WordStatus = 'new' | 'learning' | 'mastered';
 
@@ -105,6 +107,9 @@ export interface Progress {
   mock?: Record<string, MockResult>;
   /** English-course progress. The top-level fields above always hold the Chinese course when stored. */
   en?: CourseProgress;
+  /** Korean- and Japanese-course progress. */
+  ko?: CourseProgress;
+  ja?: CourseProgress;
 }
 
 export interface MockResult {

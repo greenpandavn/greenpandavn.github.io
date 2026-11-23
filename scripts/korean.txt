@@ -1,0 +1,426 @@
+# Khóa tiếng Hàn (TOPIK 1–2). Định dạng: xem scripts/build-data.mjs (phiên âm được tạo tự động từ Hangul).
+%1|1|Phần 1: Làm quen|Chào hỏi, giới thiệu, số đếm, gia đình, con người|leaf
+@ko101|Chào hỏi|Xin chào, cảm ơn, xin lỗi|안
+안녕하세요|xin chào|안녕하세요, 저는 민수입니다.|Xin chào, tôi là Minsu.
+감사합니다|cảm ơn|도와주셔서 정말 감사합니다.|Thật sự cảm ơn vì đã giúp tôi.
+죄송합니다|xin lỗi|늦어서 정말 죄송합니다.|Thật sự xin lỗi vì tôi đến muộn.
+네|vâng, có|네, 저는 학생입니다.|Vâng, tôi là học sinh.
+아니요|không|아니요, 저는 의사가 아닙니다.|Không, tôi không phải là bác sĩ.
+안녕히|một cách bình an|안녕히 가세요, 내일 만나요.|Tạm biệt, mai gặp lại nhé.
+반갑습니다|rất vui được gặp|만나서 정말 반갑습니다.|Rất vui được gặp bạn.
+괜찮아요|không sao|저는 정말 괜찮아요.|Tôi thật sự không sao.
+잠깐만요|chờ một chút|잠깐만요, 지금 갑니다.|Chờ một chút, tôi đi ngay đây.
+실례합니다|xin phép, xin lỗi làm phiền|실례합니다, 여기가 은행입니까?|Xin lỗi, đây có phải ngân hàng không?
+천만에요|không có gì|천만에요, 또 오세요.|Không có gì, lần sau lại đến nhé.
+축하합니다|chúc mừng|생일을 진심으로 축하합니다.|Chân thành chúc mừng sinh nhật.
+
+@ko102|Giới thiệu bản thân|Tôi, bạn, tên, quốc tịch|저
+저|tôi (khiêm tốn)|저는 베트남 사람입니다.|Tôi là người Việt Nam.
+이름|tên|제 이름은 란입니다.|Tên tôi là Lan.
+사람|người|그 사람은 제 친구입니다.|Người đó là bạn tôi.
+친구|bạn bè|저는 한국 친구가 많습니다.|Tôi có nhiều bạn Hàn Quốc.
+한국|Hàn Quốc|저는 한국에 가고 싶습니다.|Tôi muốn đi Hàn Quốc.
+베트남|Việt Nam|베트남은 아주 아름답습니다.|Việt Nam rất đẹp.
+나라|đất nước|어느 나라에서 왔습니까?|Bạn đến từ nước nào?
+우리|chúng tôi, chúng ta|우리 같이 밥을 먹어요.|Chúng ta cùng ăn cơm nhé.
+누구|ai|저 사람은 누구입니까?|Người kia là ai?
+학생|học sinh|제 동생은 대학교 학생입니다.|Em tôi là sinh viên đại học.
+선생님|giáo viên|선생님은 지금 교실에 계십니다.|Thầy giáo bây giờ đang ở trong lớp.
+회사원|nhân viên công ty|우리 아버지는 회사원입니다.|Bố tôi là nhân viên công ty.
+
+@ko103|Số đếm|Số Hán Hàn và số thuần Hàn|일
+하나|một (thuần Hàn)|사과 하나 주세요.|Cho tôi một quả táo.
+둘|hai (thuần Hàn)|동생이 둘 있습니다.|Tôi có hai người em.
+셋|ba (thuần Hàn)|고양이 셋이 같이 삽니다.|Ba con mèo sống cùng nhau.
+넷|bốn (thuần Hàn)|우리 가족은 모두 넷입니다.|Gia đình tôi có tất cả bốn người.
+다섯|năm (thuần Hàn)|책을 다섯 권 샀습니다.|Tôi đã mua năm quyển sách.
+열|mười (thuần Hàn)|학생이 열 명 있습니다.|Có mười học sinh.
+일|một (Hán Hàn); ngày|오늘은 오월 일 일입니다.|Hôm nay là ngày một tháng năm.
+이|hai (Hán Hàn)|교실은 이 층에 있습니다.|Phòng học ở tầng hai.
+삼|ba (Hán Hàn)|삼 분만 기다려 주세요.|Xin hãy chờ ba phút thôi.
+십|mười (Hán Hàn)|버스는 십 분 후에 옵니다.|Xe buýt sẽ đến sau mười phút.
+백|một trăm|이 책은 백 쪽입니다.|Quyển sách này dày một trăm trang.
+몇|mấy, bao nhiêu|가족이 모두 몇 명입니까?|Gia đình bạn có tất cả mấy người?
+
+@ko104|Gia đình|Bố mẹ, anh chị em, ông bà|가
+가족|gia đình|우리 가족은 서울에 삽니다.|Gia đình tôi sống ở Seoul.
+아버지|bố|아버지는 매일 신문을 읽습니다.|Bố đọc báo mỗi ngày.
+어머니|mẹ|어머니는 요리를 아주 잘합니다.|Mẹ nấu ăn rất giỏi.
+부모님|bố mẹ|부모님은 고향에 계십니다.|Bố mẹ tôi đang ở quê.
+형|anh trai (em trai gọi)|형은 저보다 키가 큽니다.|Anh trai cao hơn tôi.
+누나|chị gái (em trai gọi)|누나는 은행에서 일합니다.|Chị gái làm việc ở ngân hàng.
+오빠|anh trai (em gái gọi)|오빠는 운동을 아주 좋아합니다.|Anh trai rất thích thể thao.
+언니|chị gái (em gái gọi)|언니는 내년에 결혼합니다.|Chị gái sẽ kết hôn vào năm sau.
+동생|em|동생은 아직 중학생입니다.|Em tôi vẫn còn là học sinh cấp hai.
+할아버지|ông|할아버지는 매일 아침 산책합니다.|Ông đi dạo mỗi sáng.
+할머니|bà|할머니는 옛날 이야기를 잘하십니다.|Bà kể chuyện ngày xưa rất hay.
+아이|đứa trẻ|아이가 공원에서 놀고 있습니다.|Đứa trẻ đang chơi trong công viên.
+
+@ko105|Con người|Nam, nữ, nghề nghiệp|남
+남자|đàn ông, con trai|저 남자는 제 형입니다.|Người đàn ông kia là anh tôi.
+여자|phụ nữ, con gái|그 여자는 노래를 잘합니다.|Cô gái đó hát hay.
+의사|bác sĩ|의사가 환자를 보고 있습니다.|Bác sĩ đang khám cho bệnh nhân.
+간호사|y tá|간호사는 병원에서 일합니다.|Y tá làm việc ở bệnh viện.
+경찰|cảnh sát|경찰이 길을 알려 주었습니다.|Cảnh sát đã chỉ đường cho tôi.
+가수|ca sĩ|저는 그 가수를 좋아합니다.|Tôi thích ca sĩ đó.
+요리사|đầu bếp|요리사가 맛있는 음식을 만듭니다.|Đầu bếp làm món ăn ngon.
+손님|khách|가게에 손님이 아주 많습니다.|Trong cửa hàng có rất nhiều khách.
+어른|người lớn|어른은 표가 더 비쌉니다.|Vé người lớn đắt hơn.
+아기|em bé|아기가 방에서 자고 있습니다.|Em bé đang ngủ trong phòng.
+남편|chồng|제 남편은 요리를 좋아합니다.|Chồng tôi thích nấu ăn.
+아내|vợ|아내와 같이 시장에 갑니다.|Tôi đi chợ cùng vợ.
+
+%2|1|Phần 2: Cuộc sống hằng ngày|Ăn uống, thời gian, nhà cửa, trường học, hoạt động|sky
+@ko106|Đồ ăn|Cơm, kim chi, thịt, trái cây|밥
+밥|cơm|저는 아침에 밥을 먹습니다.|Tôi ăn cơm vào buổi sáng.
+김치|kim chi|한국 사람은 김치를 자주 먹습니다.|Người Hàn Quốc thường ăn kim chi.
+빵|bánh mì|아침에는 빵과 우유를 먹어요.|Buổi sáng tôi ăn bánh mì và uống sữa.
+고기|thịt|저는 고기를 별로 안 좋아합니다.|Tôi không thích thịt lắm.
+생선|cá (món ăn)|어머니가 생선을 굽고 있습니다.|Mẹ đang nướng cá.
+과일|trái cây|시장에서 과일을 많이 샀습니다.|Tôi đã mua nhiều trái cây ở chợ.
+사과|quả táo|이 사과는 정말 맛있습니다.|Quả táo này thật sự ngon.
+계란|trứng|냉장고에 계란이 없습니다.|Trong tủ lạnh không có trứng.
+라면|mì gói|밤에 라면을 먹고 싶어요.|Buổi tối tôi muốn ăn mì gói.
+음식|món ăn, thức ăn|한국 음식은 조금 맵습니다.|Món ăn Hàn Quốc hơi cay.
+채소|rau|채소를 많이 먹으면 건강에 좋습니다.|Ăn nhiều rau thì tốt cho sức khỏe.
+국|canh|오늘 저녁에는 국을 끓입니다.|Tối nay tôi nấu canh.
+
+@ko107|Đồ uống và bữa ăn|Nước, trà, cà phê, sáng trưa tối|물
+물|nước|물 한 잔 주세요.|Cho tôi một cốc nước.
+우유|sữa|아이가 우유를 마시고 있습니다.|Đứa trẻ đang uống sữa.
+커피|cà phê|저는 매일 커피를 마십니다.|Tôi uống cà phê mỗi ngày.
+차|trà; xe ô tô|따뜻한 차를 한 잔 마셨습니다.|Tôi đã uống một tách trà ấm.
+주스|nước ép|오렌지 주스를 좋아합니까?|Bạn có thích nước cam không?
+아침|buổi sáng; bữa sáng|아침에 일찍 일어납니다.|Tôi dậy sớm vào buổi sáng.
+점심|buổi trưa; bữa trưa|친구와 같이 점심을 먹었습니다.|Tôi đã ăn trưa cùng bạn.
+저녁|buổi tối; bữa tối|저녁에 가족과 텔레비전을 봅니다.|Buổi tối tôi xem ti vi với gia đình.
+먹다|ăn|우리는 식당에서 불고기를 먹었습니다.|Chúng tôi đã ăn bulgogi ở nhà hàng.
+마시다|uống|운동 후에 물을 많이 마십니다.|Sau khi tập thể dục tôi uống nhiều nước.
+맛있다|ngon|이 식당 음식은 정말 맛있습니다.|Đồ ăn ở nhà hàng này thật sự ngon.
+배고프다|đói bụng|아침을 안 먹어서 배가 고픕니다.|Vì không ăn sáng nên tôi đói bụng.
+
+@ko108|Thời gian|Hôm nay, ngày mai, giờ, tuần|시
+오늘|hôm nay|오늘은 날씨가 아주 좋습니다.|Hôm nay thời tiết rất đẹp.
+내일|ngày mai|내일 친구를 만날 겁니다.|Ngày mai tôi sẽ gặp bạn.
+어제|hôm qua|어제 영화를 봤습니다.|Hôm qua tôi đã xem phim.
+지금|bây giờ|지금 무엇을 하고 있습니까?|Bây giờ bạn đang làm gì?
+시간|thời gian; tiếng đồng hồ|오늘은 시간이 별로 없습니다.|Hôm nay tôi không có nhiều thời gian.
+주말|cuối tuần|주말에 보통 집에서 쉽니다.|Cuối tuần tôi thường nghỉ ở nhà.
+요일|thứ (trong tuần)|오늘은 무슨 요일입니까?|Hôm nay là thứ mấy?
+월요일|thứ Hai|월요일에 한국어 수업이 있습니다.|Thứ Hai tôi có lớp tiếng Hàn.
+생일|sinh nhật|제 생일은 다음 달입니다.|Sinh nhật tôi vào tháng sau.
+올해|năm nay|올해 한국에 가고 싶습니다.|Năm nay tôi muốn đi Hàn Quốc.
+언제|khi nào|언제 베트남에 돌아갑니까?|Khi nào bạn về Việt Nam?
+매일|mỗi ngày|저는 매일 한국어를 공부합니다.|Tôi học tiếng Hàn mỗi ngày.
+
+@ko109|Nhà cửa|Nhà, phòng, đồ đạc|집
+집|nhà|우리 집은 학교에서 가깝습니다.|Nhà tôi gần trường.
+방|phòng|제 방은 작지만 깨끗합니다.|Phòng tôi nhỏ nhưng sạch sẽ.
+부엌|bếp|어머니는 부엌에서 요리합니다.|Mẹ nấu ăn trong bếp.
+화장실|nhà vệ sinh|화장실은 어디에 있습니까?|Nhà vệ sinh ở đâu?
+문|cửa|나갈 때 문을 닫아 주세요.|Khi ra ngoài xin hãy đóng cửa.
+창문|cửa sổ|더워서 창문을 열었습니다.|Vì nóng nên tôi đã mở cửa sổ.
+책상|bàn học|책상 위에 책이 있습니다.|Trên bàn có sách.
+의자|ghế|이 의자는 아주 편합니다.|Cái ghế này rất thoải mái.
+침대|giường|침대 옆에 시계가 있습니다.|Bên cạnh giường có đồng hồ.
+냉장고|tủ lạnh|우유는 냉장고 안에 있습니다.|Sữa ở trong tủ lạnh.
+텔레비전|ti vi|저녁에 가족과 텔레비전을 봐요.|Buổi tối tôi xem ti vi cùng gia đình.
+열쇠|chìa khóa|집 열쇠를 잃어버렸습니다.|Tôi đã làm mất chìa khóa nhà.
+
+@ko110|Trường học và hoạt động|Học, đọc, viết, đi, đến|학
+학교|trường học|저는 버스로 학교에 갑니다.|Tôi đi đến trường bằng xe buýt.
+교실|phòng học|교실에 학생이 많이 있습니다.|Trong phòng học có nhiều học sinh.
+책|sách|도서관에서 책을 빌렸습니다.|Tôi đã mượn sách ở thư viện.
+숙제|bài tập về nhà|저녁에 숙제를 해야 합니다.|Buổi tối tôi phải làm bài tập.
+시험|kỳ thi|다음 주에 한국어 시험이 있습니다.|Tuần sau có kỳ thi tiếng Hàn.
+한국어|tiếng Hàn|한국어는 어렵지만 재미있습니다.|Tiếng Hàn khó nhưng thú vị.
+공부하다|học|저는 도서관에서 공부합니다.|Tôi học ở thư viện.
+읽다|đọc|아버지는 아침마다 신문을 읽습니다.|Bố đọc báo mỗi sáng.
+쓰다|viết|친구에게 편지를 쓰고 있습니다.|Tôi đang viết thư cho bạn.
+가다|đi|주말에 친구와 바다에 갑니다.|Cuối tuần tôi đi biển với bạn.
+오다|đến|친구가 우리 집에 왔습니다.|Bạn tôi đã đến nhà tôi.
+자다|ngủ|저는 보통 열한 시에 잡니다.|Tôi thường ngủ lúc mười một giờ.
+
+%3|1|Phần 3: Thế giới quanh ta|Cơ thể, quần áo, thời tiết, nơi chốn, đi lại|grape
+@ko111|Cơ thể|Đầu, mắt, tay, chân|몸
+몸|cơ thể|운동을 하면 몸이 건강해집니다.|Tập thể dục thì cơ thể khỏe mạnh hơn.
+머리|đầu; tóc|어제부터 머리가 아픕니다.|Tôi bị đau đầu từ hôm qua.
+얼굴|khuôn mặt|아침에 얼굴을 씻습니다.|Buổi sáng tôi rửa mặt.
+눈|mắt; tuyết|그 아이는 눈이 아주 큽니다.|Đứa trẻ đó có đôi mắt rất to.
+코|mũi|감기 때문에 코가 막혔습니다.|Vì cảm nên tôi bị nghẹt mũi.
+입|miệng|입을 크게 벌려 보세요.|Hãy mở to miệng ra.
+귀|tai|할머니는 귀가 잘 안 들립니다.|Bà nghe không rõ.
+손|bàn tay|밥을 먹기 전에 손을 씻으세요.|Hãy rửa tay trước khi ăn cơm.
+발|bàn chân|오래 걸어서 발이 아픕니다.|Vì đi bộ lâu nên tôi đau chân.
+다리|chân; cây cầu|축구를 하다가 다리를 다쳤습니다.|Tôi bị thương ở chân khi đá bóng.
+배|bụng; quả lê; tàu thuyền|너무 많이 먹어서 배가 아파요.|Vì ăn quá nhiều nên tôi đau bụng.
+어깨|vai|가방이 무거워서 어깨가 아픕니다.|Túi nặng nên tôi đau vai.
+
+@ko112|Quần áo và màu sắc|Áo, quần, giày, màu|옷
+옷|quần áo|백화점에서 새 옷을 샀습니다.|Tôi đã mua quần áo mới ở trung tâm thương mại.
+바지|quần|이 바지는 조금 깁니다.|Cái quần này hơi dài.
+치마|váy|동생은 빨간 치마를 입었습니다.|Em tôi mặc váy đỏ.
+신발|giày dép|새 신발이 아주 편합니다.|Đôi giày mới rất thoải mái.
+모자|mũ|날씨가 더워서 모자를 썼습니다.|Vì trời nóng nên tôi đội mũ.
+가방|cặp, túi xách|제 가방은 의자 위에 있습니다.|Túi của tôi ở trên ghế.
+안경|kính mắt|할아버지는 안경을 찾고 있습니다.|Ông đang tìm kính.
+입다|mặc|추워서 두꺼운 옷을 입었습니다.|Vì lạnh nên tôi mặc áo dày.
+색|màu sắc|무슨 색을 제일 좋아합니까?|Bạn thích màu gì nhất?
+빨간색|màu đỏ|저는 빨간색 가방을 샀습니다.|Tôi đã mua cái túi màu đỏ.
+파란색|màu xanh dương|하늘이 파란색이라서 예쁩니다.|Bầu trời màu xanh nên rất đẹp.
+하얀색|màu trắng|하얀색 셔츠가 잘 어울립니다.|Áo sơ mi trắng rất hợp.
+
+@ko113|Thời tiết và thiên nhiên|Mưa, nắng, bốn mùa|날
+날씨|thời tiết|요즘 날씨가 정말 따뜻합니다.|Dạo này thời tiết thật ấm áp.
+비|mưa|밖에 비가 많이 옵니다.|Bên ngoài mưa to.
+바람|gió|오늘은 바람이 많이 붑니다.|Hôm nay gió thổi mạnh.
+하늘|bầu trời|가을 하늘은 높고 맑습니다.|Bầu trời mùa thu cao và trong.
+봄|mùa xuân|봄에는 꽃이 많이 핍니다.|Mùa xuân hoa nở nhiều.
+여름|mùa hè|한국의 여름은 덥고 비가 많습니다.|Mùa hè Hàn Quốc nóng và mưa nhiều.
+가을|mùa thu|저는 사계절 중에서 가을을 좋아합니다.|Trong bốn mùa tôi thích mùa thu.
+겨울|mùa đông|겨울에는 눈이 자주 옵니다.|Mùa đông tuyết thường rơi.
+덥다|nóng|오늘은 어제보다 더 덥습니다.|Hôm nay nóng hơn hôm qua.
+춥다|lạnh|밖이 추우니까 코트를 입으세요.|Bên ngoài lạnh nên hãy mặc áo khoác.
+산|núi|주말마다 아버지와 산에 갑니다.|Mỗi cuối tuần tôi đi núi với bố.
+바다|biển|여름에는 바다에서 수영합니다.|Mùa hè tôi bơi ở biển.
+
+@ko114|Nơi chốn|Chợ, bệnh viện, ngân hàng, ở đâu|곳
+시장|chợ|어머니는 시장에서 채소를 삽니다.|Mẹ mua rau ở chợ.
+병원|bệnh viện|아파서 병원에 갔습니다.|Vì ốm nên tôi đã đi bệnh viện.
+은행|ngân hàng|은행은 우체국 옆에 있습니다.|Ngân hàng ở bên cạnh bưu điện.
+식당|nhà hàng, quán ăn|학교 앞 식당은 값이 쌉니다.|Quán ăn trước trường giá rẻ.
+가게|cửa hàng|이 가게는 아홉 시에 문을 엽니다.|Cửa hàng này mở cửa lúc chín giờ.
+공원|công viên|아침마다 공원에서 운동합니다.|Mỗi sáng tôi tập thể dục ở công viên.
+도서관|thư viện|도서관은 조용해서 공부하기 좋습니다.|Thư viện yên tĩnh nên học rất tốt.
+회사|công ty|회사는 집에서 조금 멉니다.|Công ty hơi xa nhà.
+어디|ở đâu|지금 어디에 가고 있습니까?|Bây giờ bạn đang đi đâu?
+여기|ở đây|여기에서 사진을 찍어도 됩니까?|Tôi chụp ảnh ở đây được không?
+앞|phía trước|학교 앞에 큰 서점이 있습니다.|Trước trường có một hiệu sách lớn.
+옆|bên cạnh|제 옆에 앉으세요.|Hãy ngồi cạnh tôi.
+
+@ko115|Đi lại|Xe buýt, tàu điện ngầm, vé, đường|길
+버스|xe buýt|저는 매일 버스를 탑니다.|Tôi đi xe buýt mỗi ngày.
+지하철|tàu điện ngầm|지하철이 버스보다 더 빠릅니다.|Tàu điện ngầm nhanh hơn xe buýt.
+택시|taxi|늦어서 택시를 탔습니다.|Vì muộn nên tôi đã đi taxi.
+기차|tàu hỏa|부산까지 기차로 세 시간 걸립니다.|Đi tàu hỏa đến Busan mất ba tiếng.
+비행기|máy bay|비행기 표를 미리 샀습니다.|Tôi đã mua vé máy bay trước.
+자전거|xe đạp|동생은 자전거로 학교에 갑니다.|Em tôi đi học bằng xe đạp.
+길|con đường|이 길로 쭉 가세요.|Hãy đi thẳng theo con đường này.
+역|ga|서울역에서 친구를 만났습니다.|Tôi đã gặp bạn ở ga Seoul.
+공항|sân bay|공항까지 한 시간쯤 걸립니다.|Đến sân bay mất khoảng một tiếng.
+표|vé|영화 표를 두 장 샀습니다.|Tôi đã mua hai vé xem phim.
+타다|đi (xe), lên (xe)|여기에서 몇 번 버스를 탑니까?|Ở đây đi xe buýt số mấy?
+걷다|đi bộ|날씨가 좋아서 집까지 걸었습니다.|Vì thời tiết đẹp nên tôi đi bộ về nhà.
+
+%21|2|Phần 1: Con người và đời sống|Cảm xúc, sở thích, sức khỏe, mua sắm, công việc|leaf
+@ko201|Cảm xúc và tính cách|Vui, buồn, lo lắng, hiền lành|기
+기분|tâm trạng|오늘은 기분이 아주 좋습니다.|Hôm nay tâm trạng tôi rất tốt.
+기쁘다|vui mừng|시험에 합격해서 정말 기쁩니다.|Tôi thật sự vui vì đã thi đỗ.
+슬프다|buồn|영화가 너무 슬퍼서 울었습니다.|Bộ phim buồn quá nên tôi đã khóc.
+화나다|tức giận|동생이 거짓말을 해서 화났습니다.|Tôi tức giận vì em nói dối.
+걱정하다|lo lắng|부모님이 제 건강을 걱정하십니다.|Bố mẹ lo lắng cho sức khỏe của tôi.
+행복하다|hạnh phúc|가족과 함께 있으면 행복합니다.|Ở cùng gia đình thì tôi hạnh phúc.
+심심하다|buồn chán|주말에 할 일이 없어서 심심합니다.|Cuối tuần không có việc gì làm nên tôi chán.
+피곤하다|mệt mỏi|어제 늦게 자서 피곤합니다.|Hôm qua ngủ muộn nên tôi mệt.
+친절하다|tốt bụng, thân thiện|그 가게 직원은 아주 친절합니다.|Nhân viên cửa hàng đó rất thân thiện.
+조용하다|yên tĩnh, ít nói|제 친구는 성격이 조용합니다.|Bạn tôi tính tình ít nói.
+성격|tính cách|언니와 저는 성격이 다릅니다.|Chị và tôi tính cách khác nhau.
+마음|tấm lòng, tâm trí|선물이 마음에 들었습니다.|Tôi đã thấy thích món quà.
+
+@ko202|Sở thích|Âm nhạc, phim, thể thao, du lịch|취
+취미|sở thích|제 취미는 사진 찍기입니다.|Sở thích của tôi là chụp ảnh.
+음악|âm nhạc|저는 조용한 음악을 자주 듣습니다.|Tôi thường nghe nhạc nhẹ.
+영화|phim|주말에 친구와 영화를 볼 겁니다.|Cuối tuần tôi sẽ xem phim với bạn.
+노래|bài hát|한국 노래를 따라 부릅니다.|Tôi hát theo bài hát Hàn Quốc.
+운동|thể thao, vận động|건강을 위해서 매일 운동을 합니다.|Tôi tập thể dục mỗi ngày vì sức khỏe.
+축구|bóng đá|남동생은 축구를 아주 잘합니다.|Em trai tôi đá bóng rất giỏi.
+수영|bơi lội|여름 방학에 수영을 배웠습니다.|Kỳ nghỉ hè tôi đã học bơi.
+여행|du lịch|내년에 제주도로 여행을 가려고 합니다.|Năm sau tôi định đi du lịch đảo Jeju.
+사진|bức ảnh|바다에서 사진을 많이 찍었습니다.|Tôi đã chụp nhiều ảnh ở biển.
+그림|bức tranh|동생은 그림을 잘 그립니다.|Em tôi vẽ tranh đẹp.
+게임|trò chơi điện tử|숙제를 한 후에 게임을 합니다.|Sau khi làm bài tập tôi chơi game.
+춤|điệu nhảy|그 가수는 춤도 잘 춥니다.|Ca sĩ đó nhảy cũng giỏi.
+
+@ko203|Sức khỏe|Ốm, thuốc, bệnh viện|약
+건강|sức khỏe|건강이 무엇보다 중요합니다.|Sức khỏe quan trọng hơn mọi thứ.
+감기|cảm cúm|날씨가 추워서 감기에 걸렸습니다.|Vì trời lạnh nên tôi bị cảm.
+약|thuốc|식사 후에 이 약을 드세요.|Hãy uống thuốc này sau bữa ăn.
+약국|hiệu thuốc|약국은 병원 건너편에 있습니다.|Hiệu thuốc ở đối diện bệnh viện.
+두통|chứng đau đầu|두통이 심해서 약을 먹었습니다.|Tôi đau đầu nặng nên đã uống thuốc.
+기침|ho|어제부터 기침이 심합니다.|Từ hôm qua tôi ho nặng.
+아프다|đau, ốm|목이 아파서 말을 못 합니다.|Tôi đau họng nên không nói được.
+낫다|khỏi bệnh|약을 먹고 감기가 다 나았습니다.|Uống thuốc xong tôi đã khỏi cảm hẳn.
+쉬다|nghỉ ngơi|몸이 안 좋으면 집에서 쉬세요.|Nếu thấy không khỏe thì hãy nghỉ ở nhà.
+목|cổ, họng|노래를 많이 불러서 목이 아파요.|Hát nhiều nên tôi đau họng.
+허리|eo, lưng|오래 앉아 있어서 허리가 아픕니다.|Ngồi lâu nên tôi đau lưng.
+환자|bệnh nhân|병원에 환자가 많아서 오래 기다렸습니다.|Bệnh viện đông bệnh nhân nên tôi chờ lâu.
+
+@ko204|Mua sắm|Giá, tiền, đắt rẻ, đổi trả|돈
+돈|tiền|지갑에 돈이 조금밖에 없습니다.|Trong ví chỉ có một ít tiền.
+값|giá cả|요즘 채소 값이 많이 올랐습니다.|Dạo này giá rau tăng nhiều.
+지갑|ví tiền|지하철에서 지갑을 잃어버렸습니다.|Tôi đã làm mất ví trên tàu điện ngầm.
+싸다|rẻ|시장은 백화점보다 훨씬 쌉니다.|Chợ rẻ hơn trung tâm thương mại nhiều.
+비싸다|đắt|이 구두는 예쁘지만 너무 비쌉니다.|Đôi giày này đẹp nhưng đắt quá.
+사다|mua|어머니 생신 선물을 샀습니다.|Tôi đã mua quà sinh nhật cho mẹ.
+팔다|bán|저 가게에서는 과일을 팝니다.|Cửa hàng kia bán trái cây.
+선물|quà tặng|친구에게 줄 선물을 고르고 있습니다.|Tôi đang chọn quà tặng bạn.
+백화점|trung tâm thương mại|백화점에서 세일을 하고 있습니다.|Trung tâm thương mại đang giảm giá.
+바꾸다|đổi|옷이 작아서 큰 것으로 바꿨습니다.|Áo nhỏ nên tôi đã đổi sang cái lớn.
+계산하다|thanh toán, tính tiền|카드로 계산해도 됩니까?|Tôi thanh toán bằng thẻ được không?
+영수증|hóa đơn|영수증을 꼭 받아 두세요.|Hãy nhớ lấy hóa đơn.
+
+@ko205|Công việc|Công ty, họp, bận rộn|일
+직장|nơi làm việc|새 직장은 집에서 가깝습니다.|Chỗ làm mới gần nhà.
+회의|cuộc họp|오후 두 시에 회의가 있습니다.|Hai giờ chiều có cuộc họp.
+일하다|làm việc|형은 무역 회사에서 일합니다.|Anh tôi làm việc ở công ty thương mại.
+바쁘다|bận|요즘 일이 많아서 아주 바쁩니다.|Dạo này nhiều việc nên tôi rất bận.
+출근하다|đi làm|저는 아침 여덟 시에 출근합니다.|Tôi đi làm lúc tám giờ sáng.
+퇴근하다|tan làm|오늘은 일찍 퇴근할 수 있습니다.|Hôm nay tôi có thể tan làm sớm.
+월급|lương tháng|이번 달 월급을 아직 못 받았습니다.|Tôi chưa nhận được lương tháng này.
+사장님|giám đốc|사장님은 지금 출장 중입니다.|Giám đốc hiện đang đi công tác.
+동료|đồng nghiệp|동료들과 점심을 같이 먹습니다.|Tôi ăn trưa cùng các đồng nghiệp.
+휴가|kỳ nghỉ phép|다음 주에 휴가를 갑니다.|Tuần sau tôi đi nghỉ phép.
+컴퓨터|máy tính|회사에서 컴퓨터로 일을 합니다.|Ở công ty tôi làm việc bằng máy tính.
+서류|tài liệu, giấy tờ|이 서류에 이름을 써 주세요.|Xin hãy viết tên vào giấy tờ này.
+
+%22|2|Phần 2: Ra ngoài và giao tiếp|Du lịch, thành phố, liên lạc, học tập, sinh hoạt|sky
+@ko206|Du lịch|Khách sạn, hộ chiếu, đặt chỗ|여
+호텔|khách sạn|바다가 보이는 호텔을 예약했습니다.|Tôi đã đặt khách sạn nhìn ra biển.
+여권|hộ chiếu|공항에서 여권을 보여 주세요.|Xin hãy xuất trình hộ chiếu ở sân bay.
+예약하다|đặt trước|식당을 미리 예약하는 것이 좋습니다.|Nên đặt nhà hàng trước.
+출발하다|khởi hành|기차는 아홉 시에 출발합니다.|Tàu khởi hành lúc chín giờ.
+도착하다|đến nơi|비행기가 한 시간 늦게 도착했습니다.|Máy bay đến muộn một tiếng.
+짐|hành lý|짐이 많아서 택시를 불렀습니다.|Nhiều hành lý nên tôi đã gọi taxi.
+지도|bản đồ|휴대폰으로 지도를 보고 찾아갔습니다.|Tôi xem bản đồ trên điện thoại rồi tìm đến.
+관광객|khách du lịch|이곳은 외국인 관광객이 많습니다.|Nơi này có nhiều khách du lịch nước ngoài.
+구경하다|tham quan, ngắm|시장을 구경하고 기념품을 샀습니다.|Tôi dạo chợ và mua quà lưu niệm.
+외국|nước ngoài|저는 외국에서 살아 본 적이 없습니다.|Tôi chưa từng sống ở nước ngoài.
+경치|phong cảnh|산 위에서 본 경치가 아름답습니다.|Phong cảnh nhìn từ trên núi rất đẹp.
+묵다|trọ lại, nghỉ lại|친구 집에서 이틀 동안 묵었습니다.|Tôi đã nghỉ lại nhà bạn hai ngày.
+
+@ko207|Thành phố và chỉ đường|Ngã tư, đèn giao thông, rẽ|도
+도시|thành phố|서울은 크고 복잡한 도시입니다.|Seoul là một thành phố lớn và đông đúc.
+시골|nông thôn|할머니는 조용한 시골에 사십니다.|Bà sống ở vùng quê yên tĩnh.
+건물|tòa nhà|저 높은 건물이 우리 회사입니다.|Tòa nhà cao kia là công ty tôi.
+사거리|ngã tư|사거리에서 왼쪽으로 가세요.|Hãy rẽ trái ở ngã tư.
+신호등|đèn giao thông|신호등이 빨간색이면 멈춰야 합니다.|Đèn đỏ thì phải dừng lại.
+오른쪽|bên phải|은행은 오른쪽에 있습니다.|Ngân hàng ở bên phải.
+왼쪽|bên trái|왼쪽 길로 가면 공원이 나옵니다.|Đi đường bên trái sẽ thấy công viên.
+건너다|băng qua|길을 건널 때 조심하세요.|Hãy cẩn thận khi băng qua đường.
+가깝다|gần|지하철역이 집에서 아주 가깝습니다.|Ga tàu điện ngầm rất gần nhà.
+멀다|xa|학교가 멀어서 일찍 출발합니다.|Trường xa nên tôi xuất phát sớm.
+우체국|bưu điện|우체국에서 소포를 보냈습니다.|Tôi đã gửi bưu kiện ở bưu điện.
+편의점|cửa hàng tiện lợi|집 앞 편의점은 밤에도 엽니다.|Cửa hàng tiện lợi trước nhà mở cả ban đêm.
+
+@ko208|Liên lạc|Điện thoại, tin nhắn, internet|전
+전화|điện thoại, cuộc gọi|어머니에게 매일 전화를 합니다.|Tôi gọi điện cho mẹ mỗi ngày.
+휴대폰|điện thoại di động|휴대폰을 집에 두고 왔습니다.|Tôi để quên điện thoại ở nhà.
+문자|tin nhắn|도착하면 문자를 보내 주세요.|Đến nơi thì hãy nhắn tin cho tôi.
+번호|số|전화 번호를 알려 주시겠습니까?|Bạn cho tôi biết số điện thoại được không?
+인터넷|internet|인터넷으로 비행기 표를 샀습니다.|Tôi đã mua vé máy bay qua internet.
+이메일|thư điện tử|교수님께 이메일을 보냈습니다.|Tôi đã gửi email cho giáo sư.
+편지|bức thư|고향 친구에게서 편지가 왔습니다.|Có thư từ người bạn ở quê gửi đến.
+소식|tin tức|오랫동안 그 친구 소식을 못 들었습니다.|Đã lâu tôi không nghe tin về người bạn đó.
+연락하다|liên lạc|서울에 오면 꼭 연락하세요.|Đến Seoul thì nhất định hãy liên lạc nhé.
+보내다|gửi|부모님께 선물을 보냈습니다.|Tôi đã gửi quà cho bố mẹ.
+받다|nhận|어제 친구의 전화를 받았습니다.|Hôm qua tôi đã nhận điện thoại của bạn.
+말하다|nói|천천히 말해 주시겠습니까?|Bạn nói chậm lại được không?
+
+@ko209|Học tập|Đại học, chuyên ngành, luyện tập|배
+대학교|trường đại học|저는 내년에 대학교에 들어갑니다.|Năm sau tôi vào đại học.
+전공|chuyên ngành|제 전공은 한국어 교육입니다.|Chuyên ngành của tôi là giáo dục tiếng Hàn.
+수업|tiết học, lớp học|오전 수업은 아홉 시에 시작합니다.|Lớp buổi sáng bắt đầu lúc chín giờ.
+방학|kỳ nghỉ (của trường)|겨울 방학에 아르바이트를 하려고 합니다.|Kỳ nghỉ đông tôi định đi làm thêm.
+배우다|học (kỹ năng)|요즘 한국 요리를 배우고 있습니다.|Dạo này tôi đang học nấu món Hàn.
+가르치다|dạy|어머니는 초등학교에서 수학을 가르칩니다.|Mẹ dạy toán ở trường tiểu học.
+연습하다|luyện tập|발음을 매일 연습해야 합니다.|Phải luyện phát âm mỗi ngày.
+질문|câu hỏi|모르는 것이 있으면 질문하세요.|Có gì không biết thì hãy hỏi.
+대답|câu trả lời|학생이 큰 소리로 대답했습니다.|Học sinh trả lời to.
+단어|từ vựng|하루에 단어를 스무 개씩 외웁니다.|Mỗi ngày tôi học thuộc hai mươi từ.
+문법|ngữ pháp|한국어 문법은 조금 어렵습니다.|Ngữ pháp tiếng Hàn hơi khó.
+졸업하다|tốt nghiệp|형은 작년에 대학교를 졸업했습니다.|Anh tôi tốt nghiệp đại học năm ngoái.
+
+@ko210|Sinh hoạt hằng ngày|Dậy, tắm rửa, dọn dẹp, nấu ăn|생
+생활|cuộc sống, sinh hoạt|한국 생활에 많이 익숙해졌습니다.|Tôi đã quen nhiều với cuộc sống ở Hàn Quốc.
+일어나다|thức dậy|저는 보통 여섯 시에 일어납니다.|Tôi thường dậy lúc sáu giờ.
+씻다|rửa, tắm rửa|집에 오면 먼저 손을 씻습니다.|Về nhà là tôi rửa tay trước.
+청소하다|dọn dẹp|주말마다 방을 깨끗하게 청소합니다.|Mỗi cuối tuần tôi dọn phòng sạch sẽ.
+빨래|việc giặt giũ|날씨가 좋아서 빨래를 했습니다.|Trời đẹp nên tôi đã giặt đồ.
+요리하다|nấu ăn|아버지는 주말에 가족을 위해 요리합니다.|Cuối tuần bố nấu ăn cho cả nhà.
+설거지|việc rửa bát|밥을 먹은 후에 설거지를 합니다.|Ăn cơm xong tôi rửa bát.
+만나다|gặp|역 앞에서 친구를 만나기로 했습니다.|Tôi đã hẹn gặp bạn trước nhà ga.
+기다리다|chờ đợi|버스를 삼십 분이나 기다렸습니다.|Tôi đã chờ xe buýt những ba mươi phút.
+돌아오다|trở về|아버지는 밤 열 시에 돌아오셨습니다.|Bố đã về lúc mười giờ đêm.
+준비하다|chuẩn bị|내일 발표를 열심히 준비하고 있습니다.|Tôi đang chăm chỉ chuẩn bị bài thuyết trình ngày mai.
+시작하다|bắt đầu|영화가 곧 시작하니까 빨리 오세요.|Phim sắp bắt đầu nên hãy đến nhanh.
+
+%23|2|Phần 3: Diễn đạt phong phú|Tính từ, phó từ, thiên nhiên, văn hóa, kế hoạch|grape
+@ko211|Tính từ thường dùng|To nhỏ, dài ngắn, khó dễ|크
+크다|to, lớn|이 방은 크고 밝습니다.|Căn phòng này rộng và sáng.
+작다|nhỏ|신발이 작아서 발이 아픕니다.|Giày nhỏ nên tôi đau chân.
+길다|dài|한국의 겨울은 길고 춥습니다.|Mùa đông ở Hàn Quốc dài và lạnh.
+짧다|ngắn|머리를 짧게 잘랐습니다.|Tôi đã cắt tóc ngắn.
+어렵다|khó|이번 시험은 생각보다 어려웠습니다.|Kỳ thi lần này khó hơn tôi nghĩ.
+쉽다|dễ|이 책은 쉬워서 금방 읽었습니다.|Quyển sách này dễ nên tôi đọc xong ngay.
+재미있다|thú vị|한국 드라마가 정말 재미있습니다.|Phim truyền hình Hàn Quốc thật sự thú vị.
+예쁘다|xinh đẹp|공원에 예쁜 꽃이 많이 피었습니다.|Trong công viên nở nhiều hoa đẹp.
+깨끗하다|sạch sẽ|호텔 방이 넓고 깨끗했습니다.|Phòng khách sạn rộng và sạch.
+더럽다|bẩn|비가 와서 신발이 더러워졌습니다.|Trời mưa nên giày bị bẩn.
+무겁다|nặng|가방이 무거워서 들 수 없습니다.|Túi nặng nên tôi không xách nổi.
+빠르다|nhanh|지하철이 버스보다 훨씬 빠릅니다.|Tàu điện ngầm nhanh hơn xe buýt nhiều.
+
+@ko212|Phó từ và từ nối|Rất, cũng, nhưng, vì vậy|또
+아주|rất|이 김치는 아주 맵습니다.|Kim chi này rất cay.
+조금|một chút|한국어를 조금 할 수 있습니다.|Tôi nói được một chút tiếng Hàn.
+많이|nhiều|어제 눈이 많이 왔습니다.|Hôm qua tuyết rơi nhiều.
+자주|thường xuyên|저는 부모님께 자주 전화합니다.|Tôi thường xuyên gọi điện cho bố mẹ.
+가끔|thỉnh thoảng|가끔 혼자 영화를 보러 갑니다.|Thỉnh thoảng tôi đi xem phim một mình.
+벌써|đã ... rồi|벌써 열두 시가 되었습니다.|Đã mười hai giờ rồi.
+아직|vẫn chưa, vẫn còn|숙제를 아직 다 못 했습니다.|Tôi vẫn chưa làm xong bài tập.
+다시|lại, một lần nữa|다시 한 번 말해 주세요.|Xin hãy nói lại một lần nữa.
+그리고|và, rồi|밥을 먹고 그리고 커피를 마셨습니다.|Tôi ăn cơm rồi uống cà phê.
+그래서|vì vậy|비가 왔습니다. 그래서 집에 있었습니다.|Trời mưa. Vì vậy tôi đã ở nhà.
+하지만|nhưng|이 옷은 예쁩니다. 하지만 너무 비쌉니다.|Cái áo này đẹp. Nhưng đắt quá.
+함께|cùng với|주말에 가족과 함께 여행을 갑니다.|Cuối tuần tôi đi du lịch cùng gia đình.
+
+@ko213|Thiên nhiên và động vật|Hoa, cây, chó, mèo|꽃
+꽃|hoa|어머니께 꽃을 선물했습니다.|Tôi đã tặng hoa cho mẹ.
+나무|cây|집 앞에 큰 나무가 있습니다.|Trước nhà có một cái cây lớn.
+강|sông|강 옆에서 자전거를 탑니다.|Tôi đạp xe bên bờ sông.
+개|con chó|우리 집 개는 아주 똑똑합니다.|Con chó nhà tôi rất thông minh.
+고양이|con mèo|고양이가 소파 위에서 자고 있습니다.|Con mèo đang ngủ trên ghế sofa.
+새|con chim|아침에 새 소리를 들었습니다.|Buổi sáng tôi đã nghe tiếng chim.
+물고기|con cá|아이가 강에서 물고기를 잡았습니다.|Đứa trẻ đã bắt cá ở sông.
+동물|động vật|동생은 동물을 아주 좋아합니다.|Em tôi rất thích động vật.
+달|mặt trăng; tháng|오늘 밤에는 달이 아주 밝습니다.|Đêm nay trăng rất sáng.
+별|ngôi sao|시골에서는 별이 많이 보입니다.|Ở nông thôn nhìn thấy nhiều sao.
+해|mặt trời; năm|여름에는 해가 일찍 뜹니다.|Mùa hè mặt trời mọc sớm.
+구름|mây|하늘에 구름이 하나도 없습니다.|Trên trời không có một gợn mây.
+
+@ko214|Văn hóa và xã hội|Lễ tết, phong tục, tin tức|문
+문화|văn hóa|한국 문화에 관심이 많습니다.|Tôi rất quan tâm đến văn hóa Hàn Quốc.
+명절|ngày lễ truyền thống|명절에는 가족이 모두 모입니다.|Vào ngày lễ cả gia đình tụ họp.
+설날|Tết Nguyên đán|설날 아침에 떡국을 먹습니다.|Sáng mùng một Tết người ta ăn canh bánh gạo.
+한복|hanbok (áo truyền thống)|결혼식에서 한복을 입었습니다.|Tôi đã mặc hanbok trong lễ cưới.
+결혼식|lễ cưới|다음 달에 친구 결혼식이 있습니다.|Tháng sau có lễ cưới của bạn tôi.
+초대하다|mời|생일 파티에 친구들을 초대했습니다.|Tôi đã mời các bạn đến tiệc sinh nhật.
+인사하다|chào hỏi|어른을 만나면 먼저 인사합니다.|Gặp người lớn thì chào trước.
+예절|phép lịch sự|나라마다 식사 예절이 다릅니다.|Mỗi nước có phép lịch sự khi ăn uống khác nhau.
+뉴스|tin tức thời sự|아버지는 저녁마다 뉴스를 보십니다.|Tối nào bố cũng xem thời sự.
+신문|báo|요즘은 신문을 인터넷으로 읽습니다.|Dạo này tôi đọc báo trên internet.
+역사|lịch sử|저는 한국 역사를 공부하고 싶습니다.|Tôi muốn học lịch sử Hàn Quốc.
+전통|truyền thống|이 마을에는 오래된 전통이 있습니다.|Ngôi làng này có truyền thống lâu đời.
+
+@ko215|Kế hoạch và ý kiến|Dự định, hẹn, nghĩ, cần|꿈
+계획|kế hoạch|방학 계획을 벌써 세웠습니다.|Tôi đã lập kế hoạch cho kỳ nghỉ rồi.
+약속|cuộc hẹn, lời hứa|저녁에 친구와 약속이 있습니다.|Buổi tối tôi có hẹn với bạn.
+꿈|giấc mơ, ước mơ|제 꿈은 통역사가 되는 것입니다.|Ước mơ của tôi là trở thành phiên dịch viên.
+생각하다|suy nghĩ|저는 그 계획이 좋다고 생각합니다.|Tôi nghĩ kế hoạch đó tốt.
+필요하다|cần thiết|외국 여행에는 여권이 필요합니다.|Đi du lịch nước ngoài cần hộ chiếu.
+결정하다|quyết định|어느 대학교에 갈지 아직 못 결정했습니다.|Tôi chưa quyết định được sẽ vào đại học nào.
+노력하다|nỗ lực|한국어를 잘하려고 매일 노력합니다.|Tôi nỗ lực mỗi ngày để giỏi tiếng Hàn.
+도와주다|giúp đỡ|친구가 이사를 도와주었습니다.|Bạn tôi đã giúp tôi chuyển nhà.
+경험|kinh nghiệm|외국에서 일한 경험이 있습니까?|Bạn có kinh nghiệm làm việc ở nước ngoài không?
+이유|lý do|늦은 이유를 말해 주세요.|Hãy cho tôi biết lý do đến muộn.
+문제|vấn đề|이 문제는 혼자 풀기 어렵습니다.|Vấn đề này khó tự mình giải quyết.
+방법|phương pháp, cách|좋은 공부 방법을 가르쳐 주세요.|Hãy chỉ cho tôi cách học tốt.

@@ -39,10 +39,10 @@ import { auth, db, resetDb } from './firebase';
 import { firebaseConfig } from './firebaseConfig';
 import { levelInfo } from './gamification';
 import { applyRemote, courseView, defaultProgress, getStored, GUEST_KEY, xpByCourse, loadFrom, onLocalChange, sanitize, updateProgress, switchStorageSlot } from './store';
-import { mergeProgress, resolveLogin, weekId, weekXp } from './merge';
+import { mergeProgress, resolveLogin, SUB_COURSES, weekId, weekXp } from './merge';
 import { getAccount, OWNER_EMAIL, setAccount } from './account';
-import { applyContent, type LessonDoc, type UnitDoc } from '../data';
-import type { Progress } from '../types';
+import { applyContent, COURSE_IDS, type LessonDoc, type UnitDoc } from '../data';
+import type { CourseId, Progress } from '../types';
 import { setSocialName, startSocial, stopSocial } from './social';
 import { startVisits } from './visits';
 import { setRemoteAnnouncement } from './announcement';
@@ -248,7 +248,7 @@ const readJson = <T,>(store: Storage, key: string, fallback: T): T => {
     return fallback;
   }
 };
-const carried = () => readJson(localStorage, CARRIED_KEY, { zh: 0, en: 0 });
+const carried = () => readJson<Partial<Record<CourseId, number>>>(localStorage, CARRIED_KEY, {});
 
 /** Leaderboard write; falls back to the pre-5.2.8 fields while the new rules are not published. */
 async function writeBoard(uid: string, base: { displayName: string; xp: number; updatedAt: number }, extra: Record<string, unknown>) {
@@ -300,7 +300,7 @@ async function anonNumber(uid: string, xp: number): Promise<number> {
 function anonXp(p: Progress) {
   const x = xpByCourse(p);
   const c = carried();
-  return Math.round(Math.max(0, x.zh - c.zh) + Math.max(0, x.en - c.en));
+  return Math.round(COURSE_IDS.reduce((n, k) => n + Math.max(0, x[k] - (c[k] ?? 0)), 0));
 }
 export const anonLabel = (no: number, nick?: string) => nick?.trim().slice(0, 20) || `${ANON_NAME} ${no}`;
 
@@ -402,7 +402,7 @@ async function startSession(u: User) {
   applyRemote(progress);
   if (migrated) {
     markMigrated(u.uid);
-    if (guest) localStorage.setItem(CARRIED_KEY, JSON.stringify({ zh: guest.xp, en: guest.en?.xp ?? 0 }));
+    if (guest) localStorage.setItem(CARRIED_KEY, JSON.stringify({ zh: guest.xp, en: guest.en?.xp ?? 0, ko: guest.ko?.xp ?? 0, ja: guest.ja?.xp ?? 0 }));
   }
   void dropAnon(u.uid);
   setAccount({ migrated, user: { ...toUser(u), displayName: u.displayName || progress.settings.name || nameOf(u) } });
@@ -636,7 +636,7 @@ export async function setDisplayName(name: string) {
 
 // ---------- leaderboard ----------
 /** The leaderboard is shared: XP of every course counts. */
-const totalWeekXp = (p: Progress) => weekXp(p) + (p.en ? weekXp(courseView(p, 'en')) : 0);
+const totalWeekXp = (p: Progress) => weekXp(p) + SUB_COURSES.reduce((n, c) => n + (p[c] ? weekXp(courseView(p, c)) : 0), 0);
 
 export interface BoardRow {
   uid: string;

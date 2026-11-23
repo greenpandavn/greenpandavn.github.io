@@ -1,5 +1,5 @@
 import type { Word } from '../types';
-import { sentencePinyin, sentenceZh } from '../data';
+import { getCourse, sentencePinyin, sentenceZh } from '../data';
 import SpeakerButton from './SpeakerButton';
 import HanziBox from './HanziBox';
 import SpeakCheck from './SpeakCheck';
@@ -33,7 +33,7 @@ export default function WordSheet({ word, onClose }: { word: Word; onClose: () =
           </button>
         </div>
         <div className="flex items-center gap-4">
-          <div className={`font-han font-bold text-ink-700 ${word.pinyin ? 'text-6xl' : 'text-4xl'}`}>{word.hanzi}</div>
+          <div className={`font-han font-bold text-ink-700 ${word.pinyin && word.hanzi.length <= 4 ? 'text-6xl' : 'text-4xl'}`}>{word.hanzi}</div>
           <div className="min-w-0 flex-1">
             <div className="text-2xl font-extrabold text-sky-600">{word.pinyin}</div>
             <div className="text-lg font-bold text-ink-700">{word.vi}</div>
@@ -56,7 +56,7 @@ export default function WordSheet({ word, onClose }: { word: Word; onClose: () =
           </div>
         </div>
 
-        {word.pinyin && (
+        {word.pinyin && getCourse() === 'zh' && (
           <div className="mt-5">
             <div className="mb-2 text-xs font-extrabold uppercase tracking-wide text-ink-400">Thứ tự nét viết</div>
             <HanziBox text={word.hanzi} size={190} />

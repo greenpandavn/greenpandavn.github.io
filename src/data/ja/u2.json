@@ -1,0 +1,77 @@
+{
+ "units": [
+  {"unit":2,"level":1,"title":"Phần 2: Cuộc sống hằng ngày","desc":"Ăn uống, thời gian, nhà cửa, trường học, hoạt động","color":"sky","course":"ja"}
+ ],
+ "lessons": [
+  {"id":"ja106","title":"Đồ ăn","desc":"Cơm, thịt, cá, rau, trái cây","icon":"食","unit":2,"course":"ja","order":60,"words":[
+   {"id":"ja106-ご飯","hanzi":"ご飯","pinyin":"gohan","vi":"cơm; bữa ăn","ex":{"tokens":["朝","は","ご飯","を","食べます","。"],"py":["asa","wa","gohan","o","tabemasu","."],"vi":"Buổi sáng tôi ăn cơm.","alts":[]}},
+   {"id":"ja106-パン","hanzi":"パン","pinyin":"pan","vi":"bánh mì","ex":{"tokens":["朝","は","パン","と","牛乳","です","。"],"py":["asa","wa","pan","to","gyuunyuu","desu","."],"vi":"Buổi sáng tôi ăn bánh mì và uống sữa.","alts":[]}},
+   {"id":"ja106-肉","hanzi":"肉","pinyin":"niku","vi":"thịt","ex":{"tokens":["私","は","肉","が","あまり","好き","では","ありません","。"],"py":["watashi","wa","niku","ga","amari","suki","dewa","arimasen","."],"vi":"Tôi không thích thịt lắm.","alts":[]}},
+   {"id":"ja106-魚","hanzi":"魚","pinyin":"sakana","vi":"cá","ex":{"tokens":["母","が","魚","を","焼いて","います","。"],"py":["haha","ga","sakana","o","yaite","imasu","."],"vi":"Mẹ đang nướng cá.","alts":[]}},
+   {"id":"ja106-野菜","hanzi":"野菜","pinyin":"yasai","vi":"rau","ex":{"tokens":["野菜","を","たくさん","食べて","ください","。"],"py":["yasai","o","takusan","tabete","kudasai","."],"vi":"Hãy ăn nhiều rau.","alts":[]}},
+   {"id":"ja106-果物","hanzi":"果物","pinyin":"kudamono","vi":"trái cây","ex":{"tokens":["市場","で","果物","を","買いました","。"],"py":["ichiba","de","kudamono","o","kaimashita","."],"vi":"Tôi đã mua trái cây ở chợ.","alts":[]}},
+   {"id":"ja106-卵","hanzi":"卵","pinyin":"tamago","vi":"trứng","ex":{"tokens":["冷蔵庫","に","卵","が","ありません","。"],"py":["reizouko","ni","tamago","ga","arimasen","."],"vi":"Trong tủ lạnh không có trứng.","alts":[]}},
+   {"id":"ja106-りんご","hanzi":"りんご","pinyin":"ringo","vi":"quả táo","ex":{"tokens":["この","りんご","は","とても","甘い","です","。"],"py":["kono","ringo","wa","totemo","amai","desu","."],"vi":"Quả táo này rất ngọt.","alts":[]}},
+   {"id":"ja106-料理","hanzi":"料理","pinyin":"ryouri","vi":"món ăn; việc nấu ăn","ex":{"tokens":["日本","の","料理","は","おいしい","です","。"],"py":["nihon","no","ryouri","wa","oishii","desu","."],"vi":"Món ăn Nhật Bản ngon.","alts":[]}},
+   {"id":"ja106-寿司","hanzi":"寿司","pinyin":"sushi","vi":"sushi","ex":{"tokens":["昨日","友達","と","寿司","を","食べました","。"],"py":["kinou","tomodachi","to","sushi","o","tabemashita","."],"vi":"Hôm qua tôi đã ăn sushi với bạn.","alts":[]}},
+   {"id":"ja106-塩","hanzi":"塩","pinyin":"shio","vi":"muối","ex":{"tokens":["スープ","に","塩","を","少し","入れます","。"],"py":["suupu","ni","shio","o","sukoshi","iremasu","."],"vi":"Tôi cho một chút muối vào súp.","alts":[]}},
+   {"id":"ja106-砂糖","hanzi":"砂糖","pinyin":"satou","vi":"đường","ex":{"tokens":["コーヒー","に","砂糖","を","入れません","。"],"py":["koohii","ni","satou","o","iremasen","."],"vi":"Tôi không cho đường vào cà phê.","alts":[]}}
+  ]},
+  {"id":"ja107","title":"Đồ uống và bữa ăn","desc":"Nước, trà, sáng trưa tối","icon":"水","unit":2,"course":"ja","order":70,"words":[
+   {"id":"ja107-水","hanzi":"水","pinyin":"mizu","vi":"nước","ex":{"tokens":["水","を","一杯","ください","。"],"py":["mizu","o","ippai","kudasai","."],"vi":"Cho tôi một cốc nước.","alts":[]}},
+   {"id":"ja107-お茶","hanzi":"お茶","pinyin":"ocha","vi":"trà","ex":{"tokens":["食事","の","後","で","お茶","を","飲みます","。"],"py":["shokuji","no","ato","de","ocha","o","nomimasu","."],"vi":"Sau bữa ăn tôi uống trà.","alts":[]}},
+   {"id":"ja107-牛乳","hanzi":"牛乳","pinyin":"gyuunyuu","vi":"sữa bò","ex":{"tokens":["子供","は","毎日","牛乳","を","飲みます","。"],"py":["kodomo","wa","mainichi","gyuunyuu","o","nomimasu","."],"vi":"Trẻ con uống sữa mỗi ngày.","alts":[]}},
+   {"id":"ja107-コーヒー","hanzi":"コーヒー","pinyin":"koohii","vi":"cà phê","ex":{"tokens":["毎朝","コーヒー","を","飲みます","。"],"py":["maiasa","koohii","o","nomimasu","."],"vi":"Mỗi sáng tôi uống cà phê.","alts":[]}},
+   {"id":"ja107-ジュース","hanzi":"ジュース","pinyin":"juusu","vi":"nước ép","ex":{"tokens":["オレンジ","の","ジュース","が","好き","です","か","。"],"py":["orenji","no","juusu","ga","suki","desu","ka","."],"vi":"Bạn có thích nước cam không?","alts":[]}},
+   {"id":"ja107-朝ご飯","hanzi":"朝ご飯","pinyin":"asagohan","vi":"bữa sáng","ex":{"tokens":["今朝","は","朝ご飯","を","食べません","でした","。"],"py":["kesa","wa","asagohan","o","tabemasen","deshita","."],"vi":"Sáng nay tôi đã không ăn sáng.","alts":[]}},
+   {"id":"ja107-昼ご飯","hanzi":"昼ご飯","pinyin":"hirugohan","vi":"bữa trưa","ex":{"tokens":["友達","と","昼ご飯","を","食べました","。"],"py":["tomodachi","to","hirugohan","o","tabemashita","."],"vi":"Tôi đã ăn trưa với bạn.","alts":[]}},
+   {"id":"ja107-晩ご飯","hanzi":"晩ご飯","pinyin":"bangohan","vi":"bữa tối","ex":{"tokens":["晩ご飯","は","家族","と","食べます","。"],"py":["bangohan","wa","kazoku","to","tabemasu","."],"vi":"Tôi ăn tối cùng gia đình.","alts":[]}},
+   {"id":"ja107-食べる","hanzi":"食べる","pinyin":"taberu","vi":"ăn","ex":{"tokens":["私達","は","レストラン","で","食べる","つもり","です","。"],"py":["watashitachi","wa","resutoran","de","taberu","tsumori","desu","."],"vi":"Chúng tôi định ăn ở nhà hàng.","alts":[]}},
+   {"id":"ja107-飲む","hanzi":"飲む","pinyin":"nomu","vi":"uống","ex":{"tokens":["運動","の","後","で","水","を","飲む","。"],"py":["undou","no","ato","de","mizu","o","nomu","."],"vi":"Sau khi tập thể dục tôi uống nước.","alts":[]}},
+   {"id":"ja107-おいしい","hanzi":"おいしい","pinyin":"oishii","vi":"ngon","ex":{"tokens":["この","店","の","ラーメン","は","おいしい","です","。"],"py":["kono","mise","no","raamen","wa","oishii","desu","."],"vi":"Mì ramen ở quán này ngon.","alts":[]}},
+   {"id":"ja107-甘い","hanzi":"甘い","pinyin":"amai","vi":"ngọt","ex":{"tokens":["この","ケーキ","は","少し","甘い","です","。"],"py":["kono","keeki","wa","sukoshi","amai","desu","."],"vi":"Cái bánh này hơi ngọt.","alts":[]}}
+  ]},
+  {"id":"ja108","title":"Thời gian","desc":"Hôm nay, ngày mai, giờ, tuần","icon":"時","unit":2,"course":"ja","order":80,"words":[
+   {"id":"ja108-今日","hanzi":"今日","pinyin":"kyou","vi":"hôm nay","ex":{"tokens":["今日","は","天気","が","いい","です","。"],"py":["kyou","wa","tenki","ga","ii","desu","."],"vi":"Hôm nay thời tiết đẹp.","alts":[]}},
+   {"id":"ja108-明日","hanzi":"明日","pinyin":"ashita","vi":"ngày mai","ex":{"tokens":["明日","友達","に","会います","。"],"py":["ashita","tomodachi","ni","aimasu","."],"vi":"Ngày mai tôi sẽ gặp bạn.","alts":[]}},
+   {"id":"ja108-昨日","hanzi":"昨日","pinyin":"kinou","vi":"hôm qua","ex":{"tokens":["昨日","映画","を","見ました","。"],"py":["kinou","eiga","o","mimashita","."],"vi":"Hôm qua tôi đã xem phim.","alts":[]}},
+   {"id":"ja108-今","hanzi":"今","pinyin":"ima","vi":"bây giờ","ex":{"tokens":["今","は","午後","三時","です","。"],"py":["ima","wa","gogo","sanji","desu","."],"vi":"Bây giờ là ba giờ chiều.","alts":[]}},
+   {"id":"ja108-時間","hanzi":"時間","pinyin":"jikan","vi":"thời gian","ex":{"tokens":["今日","は","時間","が","ありません","。"],"py":["kyou","wa","jikan","ga","arimasen","."],"vi":"Hôm nay tôi không có thời gian.","alts":[]}},
+   {"id":"ja108-毎日","hanzi":"毎日","pinyin":"mainichi","vi":"mỗi ngày","ex":{"tokens":["毎日","七時","に","起きます","。"],"py":["mainichi","shichiji","ni","okimasu","."],"vi":"Mỗi ngày tôi dậy lúc bảy giờ.","alts":[]}},
+   {"id":"ja108-週末","hanzi":"週末","pinyin":"shuumatsu","vi":"cuối tuần","ex":{"tokens":["週末","は","家","で","休みます","。"],"py":["shuumatsu","wa","ie","de","yasumimasu","."],"vi":"Cuối tuần tôi nghỉ ở nhà.","alts":[]}},
+   {"id":"ja108-月曜日","hanzi":"月曜日","pinyin":"getsuyoubi","vi":"thứ Hai","ex":{"tokens":["月曜日","に","日本語","の","授業","が","あります","。"],"py":["getsuyoubi","ni","nihongo","no","jugyou","ga","arimasu","."],"vi":"Thứ Hai tôi có tiết tiếng Nhật.","alts":[]}},
+   {"id":"ja108-誕生日","hanzi":"誕生日","pinyin":"tanjoubi","vi":"sinh nhật","ex":{"tokens":["私","の","誕生日","は","来月","です","。"],"py":["watashi","no","tanjoubi","wa","raigetsu","desu","."],"vi":"Sinh nhật tôi vào tháng sau.","alts":[]}},
+   {"id":"ja108-今年","hanzi":"今年","pinyin":"kotoshi","vi":"năm nay","ex":{"tokens":["今年","日本","へ","行きます","。"],"py":["kotoshi","nihon","e","ikimasu","."],"vi":"Năm nay tôi sẽ đi Nhật Bản.","alts":[]}},
+   {"id":"ja108-朝","hanzi":"朝","pinyin":"asa","vi":"buổi sáng","ex":{"tokens":["朝","早く","起きます","。"],"py":["asa","hayaku","okimasu","."],"vi":"Tôi dậy sớm vào buổi sáng.","alts":[]}},
+   {"id":"ja108-夜","hanzi":"夜","pinyin":"yoru","vi":"buổi tối, ban đêm","ex":{"tokens":["夜","は","テレビ","を","見ます","。"],"py":["yoru","wa","terebi","o","mimasu","."],"vi":"Buổi tối tôi xem ti vi.","alts":[]}}
+  ]},
+  {"id":"ja109","title":"Nhà cửa","desc":"Nhà, phòng, đồ đạc","icon":"部","unit":2,"course":"ja","order":90,"words":[
+   {"id":"ja109-家","hanzi":"家","pinyin":"ie","vi":"nhà","ex":{"tokens":["私","の","家","は","駅","から","近い","です","。"],"py":["watashi","no","ie","wa","eki","kara","chikai","desu","."],"vi":"Nhà tôi gần nhà ga.","alts":[]}},
+   {"id":"ja109-部屋","hanzi":"部屋","pinyin":"heya","vi":"phòng","ex":{"tokens":["私","の","部屋","は","狭い","です","が","きれい","です","。"],"py":["watashi","no","heya","wa","semai","desu","ga","kirei","desu","."],"vi":"Phòng tôi chật nhưng sạch.","alts":[]}},
+   {"id":"ja109-台所","hanzi":"台所","pinyin":"daidokoro","vi":"bếp","ex":{"tokens":["母","は","台所","で","料理","を","します","。"],"py":["haha","wa","daidokoro","de","ryouri","o","shimasu","."],"vi":"Mẹ nấu ăn trong bếp.","alts":[]}},
+   {"id":"ja109-お手洗い","hanzi":"お手洗い","pinyin":"otearai","vi":"nhà vệ sinh","ex":{"tokens":["お手洗い","は","どこ","です","か","。"],"py":["otearai","wa","doko","desu","ka","."],"vi":"Nhà vệ sinh ở đâu ạ?","alts":[]}},
+   {"id":"ja109-窓","hanzi":"窓","pinyin":"mado","vi":"cửa sổ","ex":{"tokens":["暑い","です","から","窓","を","開けました","。"],"py":["atsui","desu","kara","mado","o","akemashita","."],"vi":"Vì nóng nên tôi đã mở cửa sổ.","alts":[]}},
+   {"id":"ja109-机","hanzi":"机","pinyin":"tsukue","vi":"bàn học","ex":{"tokens":["机","の","上","に","本","が","あります","。"],"py":["tsukue","no","ue","ni","hon","ga","arimasu","."],"vi":"Trên bàn có sách.","alts":[]}},
+   {"id":"ja109-椅子","hanzi":"椅子","pinyin":"isu","vi":"ghế","ex":{"tokens":["この","椅子","は","とても","楽","です","。"],"py":["kono","isu","wa","totemo","raku","desu","."],"vi":"Cái ghế này rất thoải mái.","alts":[]}},
+   {"id":"ja109-冷蔵庫","hanzi":"冷蔵庫","pinyin":"reizouko","vi":"tủ lạnh","ex":{"tokens":["牛乳","は","冷蔵庫","の","中","に","あります","。"],"py":["gyuunyuu","wa","reizouko","no","naka","ni","arimasu","."],"vi":"Sữa ở trong tủ lạnh.","alts":[]}},
+   {"id":"ja109-テレビ","hanzi":"テレビ","pinyin":"terebi","vi":"ti vi","ex":{"tokens":["夜","は","家族","と","テレビ","を","見ます","。"],"py":["yoru","wa","kazoku","to","terebi","o","mimasu","."],"vi":"Buổi tối tôi xem ti vi cùng gia đình.","alts":[]}},
+   {"id":"ja109-鍵","hanzi":"鍵","pinyin":"kagi","vi":"chìa khóa","ex":{"tokens":["家","の","鍵","を","なくしました","。"],"py":["ie","no","kagi","o","nakushimashita","."],"vi":"Tôi đã làm mất chìa khóa nhà.","alts":[]}},
+   {"id":"ja109-電気","hanzi":"電気","pinyin":"denki","vi":"điện; đèn điện","ex":{"tokens":["出かける","時","は","電気","を","消します","。"],"py":["dekakeru","toki","wa","denki","o","keshimasu","."],"vi":"Khi ra ngoài tôi tắt đèn.","alts":[]}},
+   {"id":"ja109-庭","hanzi":"庭","pinyin":"niwa","vi":"sân vườn","ex":{"tokens":["庭","に","きれい","な","花","が","あります","。"],"py":["niwa","ni","kirei","na","hana","ga","arimasu","."],"vi":"Trong vườn có hoa đẹp.","alts":[]}}
+  ]},
+  {"id":"ja110","title":"Trường học và hoạt động","desc":"Học, đọc, viết, đi, đến","icon":"学","unit":2,"course":"ja","order":100,"words":[
+   {"id":"ja110-学校","hanzi":"学校","pinyin":"gakkou","vi":"trường học","ex":{"tokens":["バス","で","学校","へ","行きます","。"],"py":["basu","de","gakkou","e","ikimasu","."],"vi":"Tôi đi đến trường bằng xe buýt.","alts":[]}},
+   {"id":"ja110-教室","hanzi":"教室","pinyin":"kyoushitsu","vi":"phòng học","ex":{"tokens":["教室","に","学生","が","たくさん","います","。"],"py":["kyoushitsu","ni","gakusei","ga","takusan","imasu","."],"vi":"Trong phòng học có nhiều học sinh.","alts":[]}},
+   {"id":"ja110-本","hanzi":"本","pinyin":"hon","vi":"sách","ex":{"tokens":["図書館","で","本","を","借りました","。"],"py":["toshokan","de","hon","o","karimashita","."],"vi":"Tôi đã mượn sách ở thư viện.","alts":[]}},
+   {"id":"ja110-宿題","hanzi":"宿題","pinyin":"shukudai","vi":"bài tập về nhà","ex":{"tokens":["夜","宿題","を","します","。"],"py":["yoru","shukudai","o","shimasu","."],"vi":"Buổi tối tôi làm bài tập.","alts":[]}},
+   {"id":"ja110-試験","hanzi":"試験","pinyin":"shiken","vi":"kỳ thi","ex":{"tokens":["来週","日本語","の","試験","が","あります","。"],"py":["raishuu","nihongo","no","shiken","ga","arimasu","."],"vi":"Tuần sau có kỳ thi tiếng Nhật.","alts":[]}},
+   {"id":"ja110-勉強","hanzi":"勉強","pinyin":"benkyou","vi":"việc học","ex":{"tokens":["図書館","で","勉強","を","します","。"],"py":["toshokan","de","benkyou","o","shimasu","."],"vi":"Tôi học ở thư viện.","alts":[]}},
+   {"id":"ja110-読む","hanzi":"読む","pinyin":"yomu","vi":"đọc","ex":{"tokens":["父","は","毎朝","新聞","を","読む","。"],"py":["chichi","wa","maiasa","shinbun","o","yomu","."],"vi":"Bố đọc báo mỗi sáng.","alts":[]}},
+   {"id":"ja110-書く","hanzi":"書く","pinyin":"kaku","vi":"viết","ex":{"tokens":["友達","に","手紙","を","書く","。"],"py":["tomodachi","ni","tegami","o","kaku","."],"vi":"Tôi viết thư cho bạn.","alts":[]}},
+   {"id":"ja110-行く","hanzi":"行く","pinyin":"iku","vi":"đi","ex":{"tokens":["週末","友達","と","海","へ","行く","。"],"py":["shuumatsu","tomodachi","to","umi","e","iku","."],"vi":"Cuối tuần tôi đi biển với bạn.","alts":[]}},
+   {"id":"ja110-来る","hanzi":"来る","pinyin":"kuru","vi":"đến","ex":{"tokens":["友達","が","家","に","来る","。"],"py":["tomodachi","ga","ie","ni","kuru","."],"vi":"Bạn tôi đến nhà.","alts":[]}},
+   {"id":"ja110-寝る","hanzi":"寝る","pinyin":"neru","vi":"ngủ","ex":{"tokens":["私","は","いつも","十一時","に","寝る","。"],"py":["watashi","wa","itsumo","juuichiji","ni","neru","."],"vi":"Tôi luôn ngủ lúc mười một giờ.","alts":[]}},
+   {"id":"ja110-起きる","hanzi":"起きる","pinyin":"okiru","vi":"thức dậy","ex":{"tokens":["毎朝","六時","に","起きる","。"],"py":["maiasa","rokuji","ni","okiru","."],"vi":"Mỗi sáng tôi dậy lúc sáu giờ.","alts":[]}}
+  ]}
+ ]
+}

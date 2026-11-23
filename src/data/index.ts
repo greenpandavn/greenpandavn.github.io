@@ -2,6 +2,8 @@ import { useSyncExternalStore } from "react";
 import type { CourseId, Lesson, Word } from "../types";
 import zhMeta from "./zh/meta.json";
 import enMeta from "./en/meta.json";
+import koMeta from "./ko/meta.json";
+import jaMeta from "./ja/meta.json";
 
 export type RawWord = Omit<Word, "lessonId">;
 export type RawLesson = Omit<Lesson, "words" | "wordCount"> & { words: RawWord[] };
@@ -37,25 +39,40 @@ const stubs = (meta: Meta, c: CourseId): RawLesson[] =>
     icon,
     unit,
     ...(cost === undefined ? {} : { bonus: true, cost }),
-    ...(c === "en" ? { course: c } : {}),
+    ...(c === "zh" ? {} : { course: c }),
     order: (i + 1) * 10,
     words: [],
   }));
 const byUnit = (a: Unit, b: Unit) => a.unit - b.unit;
-const META = { zh: zhMeta as unknown as Meta, en: enMeta as unknown as Meta };
-const STUBS: Record<CourseId, RawLesson[]> = {
-  zh: stubs(META.zh, "zh"),
-  en: stubs(META.en, "en"),
+export const COURSE_IDS: CourseId[] = ["zh", "en", "ko", "ja"];
+const META: Record<CourseId, Meta> = {
+  zh: zhMeta as unknown as Meta,
+  en: enMeta as unknown as Meta,
+  ko: koMeta as unknown as Meta,
+  ja: jaMeta as unknown as Meta,
 };
+const STUBS = Object.fromEntries(
+  COURSE_IDS.map((c) => [c, stubs(META[c], c)]),
+) as Record<CourseId, RawLesson[]>;
 const WORD_COUNT = new Map<string, number>(
-  [...META.zh.lessons, ...META.en.lessons].map((l) => [l[0], l[4]]),
+  COURSE_IDS.flatMap((c) => META[c].lessons).map((l) => [l[0], l[4]]),
 );
 /** The bundled lessons whose words are in memory (all of them once loadCourse has finished). */
 export let BUNDLED_LESSONS: RawLesson[] = [];
 export const BUNDLED_UNITS: Unit[] = [...META.zh.units].sort(byUnit);
 export let EN_LESSONS: RawLesson[] = [];
 export const EN_UNITS: Unit[] = [...META.en.units].sort(byUnit);
-const unitsOf = (c: CourseId) => (c === "en" ? EN_UNITS : BUNDLED_UNITS);
+const COURSE_UNITS: Record<CourseId, Unit[]> = {
+  zh: BUNDLED_UNITS,
+  en: EN_UNITS,
+  ko: [...META.ko.units].sort(byUnit),
+  ja: [...META.ja.units].sort(byUnit),
+};
+/** Lessons of each course whose words are in memory. */
+const COURSE_LESSONS: Record<CourseId, RawLesson[]> = { zh: [], en: [], ko: [], ja: [] };
+export const courseUnits = (c: CourseId) => COURSE_UNITS[c];
+export const courseLessons = (c: CourseId) => COURSE_LESSONS[c];
+const unitsOf = (c: CourseId) => COURSE_UNITS[c];
 /** True for a lesson that ships with the app (even when its words are not downloaded yet). */
 export const isBundledLesson = (id: string) => WORD_COUNT.has(id);
 /** Parts (units) of one level of a course. */
@@ -90,7 +107,24 @@ export const COURSES: {
     desc: "Sơ cấp → Chuyên sâu · từ vựng, chính tả, luyện nghe nói",
     glyph: "En",
   },
+  {
+    id: "ko",
+    label: "Tiếng Hàn",
+    title: "Khóa học tiếng Hàn TOPIK 1–2",
+    desc: "TOPIK 1 → TOPIK 2 · Hangul, phiên âm, luyện nghe nói",
+    glyph: "한",
+  },
+  {
+    id: "ja",
+    label: "Tiếng Nhật",
+    title: "Khóa học tiếng Nhật JLPT N5–N4",
+    desc: "JLPT N5 → N4 · Kanji, Kana, romaji, luyện nghe nói",
+    glyph: "あ",
+  },
 ];
+/** Name of the language of a course, e.g. "tiếng Hàn". */
+export const langName = (c: CourseId = course) =>
+  COURSES.find((x) => x.id === c)!.label.toLowerCase();
 const COURSE_KEY = "gp-course";
 function storedCourse(): CourseId | null {
   try {
@@ -98,7 +132,7 @@ function storedCourse(): CourseId | null {
       typeof localStorage !== "undefined"
         ? localStorage.getItem(COURSE_KEY)
         : null;
-    return c === "zh" || c === "en" ? c : null;
+    return COURSE_IDS.includes(c as CourseId) ? (c as CourseId) : null;
   } catch {
     return null;
   }
@@ -109,6 +143,8 @@ let overrides: ContentOverrides | null = null;
 /** The course being studied on this device. All the live bindings below belong to it. */
 export const getCourse = () => course;
 export const isEnglish = () => course === "en";
+/** Korean and Japanese: words have a script form and a romanization, but no stroke order or tones. */
+export const isRoman = (c: CourseId = course) => c === "ko" || c === "ja";
 /** False until the learner has picked a course on this device. */
 export const courseChosen = () => chosen;
 export const courseInfo = (id: CourseId = course) =>
@@ -128,11 +164,15 @@ interface RawData {
 const CHUNKS = {
   ...import.meta.glob<{ default: RawData }>("./zh/u*.json"),
   ...import.meta.glob<{ default: RawData }>("./en/u*.json"),
+  ...import.meta.glob<{ default: RawData }>("./ko/u*.json"),
+  ...import.meta.glob<{ default: RawData }>("./ja/u*.json"),
 };
 const chunkKey = (c: CourseId, unit: number) => `./${c}/u${unit}.json`;
 const FULL: Record<CourseId, Map<string, RawLesson>> = {
   zh: new Map(),
   en: new Map(),
+  ko: new Map(),
+  ja: new Map(),
 };
 const ready = new Set<string>(); // chunks in memory
 const fetching = new Map<string, Promise<void>>();
@@ -162,7 +202,8 @@ function flush() {
   dirty = false;
   const full = (c: CourseId) =>
     [...FULL[c].values()].sort((a, b) => (a.order ?? 0) - (b.order ?? 0));
-  [BUNDLED_LESSONS, EN_LESSONS] = [full("zh"), full("en")];
+  for (const c of COURSE_IDS) COURSE_LESSONS[c] = full(c);
+  [BUNDLED_LESSONS, EN_LESSONS] = [COURSE_LESSONS.zh, COURSE_LESSONS.en];
   build(overrides);
   notify();
 }
@@ -214,7 +255,11 @@ export const EN_LEVEL_LABEL = [
 export const levelLabel = (level: number, c: CourseId = course) =>
   c === "en"
     ? (EN_LEVEL_LABEL[level - 1] ?? EN_LEVEL_LABEL[0])
-    : `HSK ${level}`;
+    : c === "ko"
+      ? `TOPIK ${level}`
+      : c === "ja"
+        ? `JLPT N${Math.max(1, 6 - level)}`
+        : `HSK ${level}`;
 export const unitLevel = (unit: number) =>
   UNITS.find((u) => u.unit === unit)?.level ?? 1;
 
@@ -234,7 +279,7 @@ const listeners = new Set<() => void>();
 
 function build(o: ContentOverrides | null) {
   overrides = o;
-  if (course === "en") o = null; // admin-managed content only exists for the Chinese course
+  if (course !== "zh") o = null; // admin-managed content only exists for the Chinese course
   const lessonMap = new Map<string, RawLesson>(
     STUBS[course].map((l) => [l.id, FULL[course].get(l.id) ?? l]),
   );
@@ -335,7 +380,8 @@ export function useContentVersion() {
 }
 
 const PUNCT = /^[，。？！、；：,.?!;:]$/;
-const hasHan = (s: string) => /\p{Script=Han}/u.test(s);
+// Chinese and Japanese are written without spaces
+const hasHan = (s: string) => /[\p{Script=Han}\u3040-\u30ff]/u.test(s);
 export const isPunct = (t: string) => PUNCT.test(t);
 
 /** The example sentence as written: Chinese has no spaces, English words are separated by spaces. */
@@ -351,7 +397,7 @@ export function sentenceZh(w: Word) {
 export const sentenceKey = (s: string) =>
   hasHan(s)
     ? s.replace(/[，。？！、；：\s]/g, "")
-    : s.toLowerCase().replace(/[^a-z0-9]/g, "");
+    : s.toLowerCase().replace(/[^\p{L}\p{N}]/gu, "");
 
 export function sentencePinyin(w: Word) {
   if (!w.pinyin && w.ex.py.every((p) => !p || isPunct(p))) return "";

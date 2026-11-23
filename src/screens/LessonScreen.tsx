@@ -67,7 +67,7 @@ interface Summary {
 const partName = (unit: number) => {
   const u = UNITS.find((x) => x.unit === unit);
   const title = u?.title ?? `Phần ${unit}`;
-  return isEnglish() ? `Tiếng Anh ${levelLabel(u?.level ?? 1).toLowerCase()} · ${title}` : `HSK ${u?.level ?? 1} · ${title}`;
+  return isEnglish() ? `Tiếng Anh ${levelLabel(u?.level ?? 1).toLowerCase()} · ${title}` : `${levelLabel(u?.level ?? 1)} · ${title}`;
 };
 
 function buildQueue(mode: SessionMode, pool: Word[]): Exercise[] {

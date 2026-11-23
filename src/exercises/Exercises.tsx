@@ -6,7 +6,7 @@ import type { Word } from '../types';
 import SpeakerButton from '../components/SpeakerButton';
 import HanziBox from '../components/HanziBox';
 import SpeakCheck from '../components/SpeakCheck';
-import { sentenceKey, sentencePinyin, sentenceZh } from '../data';
+import { getCourse, isRoman, langName, sentenceKey, sentencePinyin, sentenceZh } from '../data';
 import { speak } from '../lib/speech';
 import { checkPinyin, numbersToMarks, toneless } from '../lib/pinyin';
 import { sfx } from '../lib/sound';
@@ -22,6 +22,11 @@ const Title = ({ children }: { children: React.ReactNode }) => (
 const answerSub = (w: Word) => (w.pinyin ? `${w.pinyin} · ${w.vi}` : w.vi);
 /** English-course words have no pinyin: they are typed (spelled) instead. */
 const isEn = (w: Word) => !w.pinyin;
+/** Korean / Japanese: the romanization is typed, and there is no stroke-order data. */
+const roman = () => isRoman();
+const letters = (s: string) => s.toLowerCase().replace(/[^a-z]/g, '');
+/** Long words (Korean, Japanese) are drawn smaller so that they fit a phone screen. */
+const fit = (text: string, base: string, mid: string, small: string) => (text.length > 6 ? small : text.length > 4 ? mid : base);
 const spell = (s: string) => s.toLowerCase().replace(/[^a-z0-9]/g, '');
 
 /* ---------- Intro card (new word) ---------- */
@@ -35,7 +40,7 @@ export function IntroCard({ ex }: { ex: Of<'intro'> }) {
     <div className="animate-pop">
       <div className="mb-3 inline-block rounded-lg bg-grape-500/15 px-2 py-1 text-xs font-extrabold uppercase text-grape-600">Từ mới</div>
       <div className="card flex flex-col items-center gap-2 py-6 text-center">
-        <div className={`font-han font-bold text-ink-700 ${isEn(w) ? 'text-5xl' : 'text-7xl'}`}>{w.hanzi}</div>
+        <div className={`font-han font-bold text-ink-700 ${isEn(w) ? 'text-5xl' : fit(w.hanzi, 'text-7xl', 'text-5xl', 'text-4xl')}`}>{w.hanzi}</div>
         <div className="text-2xl font-extrabold text-sky-600">{w.pinyin}</div>
         <div className="text-xl font-bold text-ink-700">{w.vi}</div>
         <div className="mt-2 flex gap-3">
@@ -51,14 +56,14 @@ export function IntroCard({ ex }: { ex: Of<'intro'> }) {
           <div className="text-sm font-semibold text-ink-500">{w.ex.vi}</div>
         </div>
       </div>
-      {!isEn(w) && (
+      {!isEn(w) && !roman() && (
         <div className="mt-3 flex justify-center">
           <button type="button" className="chip flex items-center gap-1" onClick={() => setShowStrokes(!showStrokes)}>
             <Brush size={16} /> {showStrokes ? 'Ẩn cách viết' : 'Xem cách viết'}
           </button>
         </div>
       )}
-      {showStrokes && !isEn(w) && (
+      {showStrokes && !isEn(w) && !roman() && (
         <div className="mt-3">
           <HanziBox text={w.hanzi} size={170} />
         </div>
@@ -100,7 +105,7 @@ export function ListenEx({ ex, difficulty, locked, setCheck }: ExProps<Of<'liste
             }}
             className={`option flex min-h-[88px] flex-col items-center justify-center text-center ${sel === o.id ? 'option-selected' : ''}`}
           >
-            <span className={`font-han ${isEn(o) ? 'text-2xl' : 'text-3xl'}`}>{o.hanzi}</span>
+            <span className={`font-han ${isEn(o) ? 'text-2xl' : fit(o.hanzi, 'text-3xl', 'text-2xl', 'text-xl')}`}>{o.hanzi}</span>
             {difficulty === 'easy' && <span className="text-sm font-bold text-ink-400">{o.pinyin}</span>}
           </button>
         ))}
@@ -155,7 +160,7 @@ export function CharEx({ ex, locked, setCheck }: ExProps<Of<'char'>>) {
   }, [sel, ex, setCheck]);
   return (
     <div>
-      <Title>{isEn(ex.word) ? 'Chọn từ tiếng Anh đúng' : 'Chọn chữ Hán đúng'}</Title>
+      <Title>{isEn(ex.word) ? 'Chọn từ tiếng Anh đúng' : roman() ? `Chọn từ ${langName()} đúng` : 'Chọn chữ Hán đúng'}</Title>
       <div className="mb-6 rounded-2xl bg-sky-500/10 px-4 py-4 text-center">
         {ex.word.pinyin && <div className="text-3xl font-extrabold text-sky-600">{ex.word.pinyin}</div>}
         <div className="text-lg font-bold text-ink-700">“{ex.word.vi}”</div>
@@ -167,7 +172,7 @@ export function CharEx({ ex, locked, setCheck }: ExProps<Of<'char'>>) {
             type="button"
             disabled={locked}
             onClick={() => setSel(o.id)}
-            className={`option flex min-h-[88px] items-center justify-center font-han ${isEn(o) ? 'text-2xl' : 'text-4xl'} ${sel === o.id ? 'option-selected' : ''}`}
+            className={`option flex min-h-[88px] items-center justify-center font-han ${isEn(o) ? 'text-2xl' : fit(o.hanzi, 'text-4xl', 'text-2xl', 'text-xl')} ${sel === o.id ? 'option-selected' : ''}`}
           >
             {o.hanzi}
           </button>
@@ -195,6 +200,7 @@ export function TypeEx({ ex, difficulty, locked, setCheck, submit }: ExProps<Of<
       val.trim()
         ? () => {
             if (en) return { correct: spell(val) === spell(w.hanzi), solution: w.hanzi, solutionSub: w.vi };
+            if (roman()) return { correct: letters(val) === letters(w.pinyin), solution: w.pinyin, solutionSub: `${w.hanzi} · ${w.vi}` };
             const r = checkPinyin(val, w.pinyin);
             return {
               correct: r !== 'wrong',
@@ -206,11 +212,11 @@ export function TypeEx({ ex, difficulty, locked, setCheck, submit }: ExProps<Of<
         : null,
     );
   }, [val, w, en, setCheck]);
-  const plain = en ? w.hanzi : toneless(w.pinyin);
+  const plain = en ? w.hanzi : roman() ? w.pinyin : toneless(w.pinyin);
   const hintText = plain.slice(0, hint) + '•'.repeat(Math.max(0, plain.length - hint));
   return (
     <div>
-      <Title>{en ? (ex.mode === 'audio' ? 'Nghe và viết lại từ tiếng Anh' : 'Viết từ này bằng tiếng Anh') : ex.mode === 'audio' ? 'Nghe và gõ pinyin' : 'Gõ pinyin của chữ này'}</Title>
+      <Title>{en ? (ex.mode === 'audio' ? 'Nghe và viết lại từ tiếng Anh' : 'Viết từ này bằng tiếng Anh') : roman() ? (ex.mode === 'audio' ? 'Nghe và gõ phiên âm' : 'Gõ phiên âm của từ này') : ex.mode === 'audio' ? 'Nghe và gõ pinyin' : 'Gõ pinyin của chữ này'}</Title>
       <div className="mb-5 flex items-center justify-center gap-4">
         {ex.mode === 'audio' ? (
           <>
@@ -221,7 +227,7 @@ export function TypeEx({ ex, difficulty, locked, setCheck, submit }: ExProps<Of<
           <div className="rounded-2xl border-2 border-cloud px-6 py-4 text-center text-2xl font-extrabold text-ink-700">“{w.vi}”</div>
         ) : (
           <div className="flex items-center gap-3">
-            <div className="rounded-2xl border-2 border-cloud px-6 py-3 font-han text-6xl text-ink-700">{w.hanzi}</div>
+            <div className={`rounded-2xl border-2 border-cloud px-6 py-3 font-han text-ink-700 ${fit(w.hanzi, 'text-6xl', 'text-4xl', 'text-3xl')}`}>{w.hanzi}</div>
             <SpeakerButton text={w.hanzi} size="md" />
           </div>
         )}
@@ -242,13 +248,13 @@ export function TypeEx({ ex, difficulty, locked, setCheck, submit }: ExProps<Of<
         autoComplete="off"
         spellCheck={false}
         inputMode="text"
-        placeholder={en ? 'Gõ từ tiếng Anh' : 'Ví dụ: ni3 hao3 hoặc nǐ hǎo'}
-        aria-label={en ? 'Nhập từ tiếng Anh' : 'Nhập pinyin'}
+        placeholder={en ? 'Gõ từ tiếng Anh' : roman() ? (getCourse() === 'ko' ? 'Ví dụ: hakgyo' : 'Ví dụ: gakkou') : 'Ví dụ: ni3 hao3 hoặc nǐ hǎo'}
+        aria-label={en ? 'Nhập từ tiếng Anh' : roman() ? 'Nhập phiên âm' : 'Nhập pinyin'}
         className="w-full rounded-2xl border-2 border-cloud bg-mist px-4 py-4 text-center text-2xl font-extrabold text-ink-700 outline-none focus:border-sky-400"
       />
-      {!en && /[1-5]/.test(val) && <p className="mt-2 text-center text-lg font-bold text-sky-600">{numbersToMarks(val)}</p>}
+      {!en && !roman() && /[1-5]/.test(val) && <p className="mt-2 text-center text-lg font-bold text-sky-600">{numbersToMarks(val)}</p>}
       <p className="mt-2 text-center text-xs font-semibold text-ink-400">
-        {en ? 'Gõ đúng chính tả. Không phân biệt chữ hoa, chữ thường.' : 'Có thể gõ có dấu (nǐ), số thanh (ni3) hoặc không dấu (ni). Gõ v thay cho ü.'}
+        {en ? 'Gõ đúng chính tả. Không phân biệt chữ hoa, chữ thường.' : roman() ? 'Gõ phiên âm bằng chữ Latinh như hiển thị trong bài. Không phân biệt chữ hoa, dấu cách.' : 'Có thể gõ có dấu (nǐ), số thanh (ni3) hoặc không dấu (ni). Gõ v thay cho ü.'}
       </p>
       {difficulty !== 'hard' && !locked && (
         <div className="mt-3 flex flex-col items-center gap-1">
@@ -401,7 +407,7 @@ export function MatchEx({
                 setSelL(w.id);
                 speak(w.hanzi);
               }}
-              className={`option flex min-h-[64px] items-center justify-center text-center font-han ${isEn(w) ? 'text-xl' : 'text-2xl'} ${cls(w.id, selL)}`}
+              className={`option flex min-h-[64px] items-center justify-center text-center font-han ${isEn(w) ? 'text-xl' : fit(w.hanzi, 'text-2xl', 'text-xl', 'text-lg')} ${cls(w.id, selL)}`}
             >
               {w.hanzi}
             </button>

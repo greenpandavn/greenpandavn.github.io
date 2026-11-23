@@ -77,7 +77,9 @@ export function buildRound(
       ? first
       : [...first, ...shuffle(unique(level), rnd)];
   // words with a drawing go first (at most 7 of the 10), so that a round has pictures whenever the level offers them
-  const drawn = list.filter((w) => conceptOf(w.hanzi)).slice(0, MAX_DRAWN);
+  // the drawings are keyed by Chinese and English words only
+  const pictures = course === "zh" || course === "en";
+  const drawn = list.filter((w) => pictures && conceptOf(w.hanzi)).slice(0, MAX_DRAWN);
   const words = shuffle(
     [...drawn, ...list.filter((w) => !drawn.includes(w))].slice(
       0,
@@ -91,7 +93,7 @@ export function buildRound(
     rnd,
   );
   return words.map((word, i) => {
-    const art = !!conceptOf(word.hanzi);
+    const art = pictures && !!conceptOf(word.hanzi);
     // English: drawing, else pictorial emoji, else meaning. Chinese: the drawing when there is one, else pinyin or meaning.
     const text: ClueKind = word.pinyin && rnd() < 0.5 ? "pinyin" : "vi";
     const kind: ClueKind =

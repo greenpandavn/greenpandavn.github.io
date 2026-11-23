@@ -1,4 +1,6 @@
-import type { Certificate, Progress, TestResult, WordProgress } from '../types';
+import type { Certificate, CourseId, Progress, SubCourseId, TestResult, WordProgress } from '../types';
+
+export const SUB_COURSES: SubCourseId[] = ['en', 'ko', 'ja'];
 import { coursePart, courseView } from './store';
 
 const maxBy = <T>(a: T | undefined, b: T | undefined, score: (x: T) => number): T | undefined => {
@@ -16,7 +18,7 @@ function mergeStats(a: Progress['lessonStats'] = {}, b: Progress['lessonStats'] 
 }
 
 export function hasProgress(p: Progress | null | undefined): boolean {
-  if (p?.en && hasProgress(courseView(p, 'en'))) return true;
+  for (const c of SUB_COURSES) if (p?.[c] && hasProgress(courseView(p, c))) return true;
   if (p?.mock && Object.keys(p.mock).length) return true;
   return !!p && (p.xp > 0 || Object.keys(p.lessons).length > 0 || Object.keys(p.words).length > 0 || p.certificates.length > 0);
 }
@@ -28,17 +30,19 @@ export function hasProgress(p: Progress | null | undefined): boolean {
  */
 export function mergeProgress(primary: Progress, other: Progress): Progress {
   const merged = mergeFlat(primary, other);
-  // the English course is merged with the same rules as the Chinese one
-  const en =
-    primary.en && other.en
-      ? coursePart(mergeFlat(courseView(primary, 'en'), courseView(other, 'en')))
-      : (primary.en ?? other.en);
+  // the other courses are merged with the same rules as the Chinese one
+  const sub = Object.fromEntries(
+    SUB_COURSES.map((c) => [
+      c,
+      primary[c] && other[c] ? coursePart(mergeFlat(courseView(primary, c), courseView(other, c))) : (primary[c] ?? other[c]),
+    ]),
+  ) as Pick<Progress, SubCourseId>;
   const mock: NonNullable<Progress['mock']> = { ...other.mock };
   for (const [lv, a] of Object.entries(primary.mock ?? {})) {
     const b = mock[lv];
     mock[lv] = !b ? a : { ...(a.best >= b.best ? a : b), attempts: Math.max(a.attempts, b.attempts) };
   }
-  return { ...merged, gems: Math.max(primary.gems, other.gems), en, mock: Object.keys(mock).length ? mock : undefined };
+  return { ...merged, gems: Math.max(primary.gems, other.gems), ...sub, mock: Object.keys(mock).length ? mock : undefined };
 }
 
 function mergeFlat(primary: Progress, other: Progress): Progress {
@@ -118,7 +122,7 @@ export function resolveLogin(opts: {
   alreadyMigrated: boolean;
   fallback: Progress;
   /** Guest XP already carried into an account earlier (per course); only the rest is added. */
-  carried?: { zh: number; en: number };
+  carried?: Partial<Record<CourseId, number>>;
 }): { progress: Progress; migrated: boolean } {
   let p = opts.cloud ?? opts.cache ?? opts.fallback;
   if (opts.cloud && opts.cache) p = mergeProgress(opts.cloud, opts.cache);
@@ -128,9 +132,12 @@ export function resolveLogin(opts: {
     p = mergeProgress(p, opts.guest!);
     if (base) {
       // XP earned while anonymous is added on top of the account's XP (everything else is a union).
-      const c = opts.carried ?? { zh: 0, en: 0 };
-      p = { ...p, xp: Math.max(p.xp, base.xp + Math.max(0, opts.guest!.xp - c.zh)) };
-      if (p.en) p = { ...p, en: { ...p.en, xp: Math.max(p.en.xp, (base.en?.xp ?? 0) + Math.max(0, (opts.guest!.en?.xp ?? 0) - c.en)) } };
+      const c = opts.carried ?? {};
+      p = { ...p, xp: Math.max(p.xp, base.xp + Math.max(0, opts.guest!.xp - (c.zh ?? 0))) };
+      for (const k of SUB_COURSES) {
+        const part = p[k];
+        if (part) p = { ...p, [k]: { ...part, xp: Math.max(part.xp, (base[k]?.xp ?? 0) + Math.max(0, (opts.guest![k]?.xp ?? 0) - (c[k] ?? 0))) } };
+      }
     }
     migrated = true;
   }

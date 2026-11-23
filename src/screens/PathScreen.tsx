@@ -1,6 +1,7 @@
 import { useAccount, visibleCerts } from '../lib/account';
 import { useEffect, useRef, useState } from 'react';
-import { CORE_LESSONS, LESSONS, UNITS, getCourse, isEnglish, levelLabel, loadUnits, useContentVersion } from '../data';
+import { CORE_LESSONS, LESSONS, UNITS, getCourse, isEnglish, isRoman, levelLabel, loadUnits, useContentVersion } from '../data';
+import { mockName } from '../lib/mock';
 import { CourseCards } from '../components/CoursePicker';
 import { currentLessonId, isDone as lessonDone, isTestUnlocked, isUnlocked as lessonUnlocked } from '../lib/unlock';
 import type { Lesson } from '../types';
@@ -73,7 +74,7 @@ export default function PathScreen({ onStart, onTest, onMock, onGame }: { onStar
             <Trophy size={26} />
           </span>
           <span className="min-w-0 flex-1">
-            <span className="block font-black text-ink-700">{en ? 'Thi thử tiếng Anh' : 'Thi thử HSK'}</span>
+            <span className="block font-black text-ink-700">{mockName(getCourse())}</span>
             <span className="block text-xs font-bold text-ink-400">Đề dài, tính giờ như thi thật · không bắt buộc</span>
           </span>
           <span className="text-xl font-black text-ink-300" aria-hidden>
@@ -309,7 +310,7 @@ function TestNode({ unit, title, unlocked, cert, open, onToggle, onStart }: {
       {open && (
         <div className="absolute top-[118px] z-20 w-72 animate-pop rounded-2xl border-2 border-cloud bg-white p-4 shadow-xl">
           <div className="text-lg font-black text-ink-700">Kiểm tra: {title}</div>
-          <p className="mb-3 text-sm font-semibold text-ink-500">10 câu hỏi (nghe, nghĩa, {isEnglish() ? 'chính tả' : 'pinyin'}, sắp xếp câu). Đạt từ 80% để nhận chứng chỉ.</p>
+          <p className="mb-3 text-sm font-semibold text-ink-500">10 câu hỏi (nghe, nghĩa, {isEnglish() ? 'chính tả' : isRoman() ? 'phiên âm' : 'pinyin'}, sắp xếp câu). Đạt từ 80% để nhận chứng chỉ.</p>
           {unlocked ? (
             <button type="button" className="btn-green" onClick={onStart} data-testid="start-test">
               {cert ? 'Thi lại' : 'Làm bài kiểm tra'}

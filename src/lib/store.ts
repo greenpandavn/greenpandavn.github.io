@@ -74,14 +74,14 @@ export function coursePart(p: Progress): CourseProgress {
 /** A flat progress object for one course: shared fields (gems, settings) + that course's own progress. */
 export function courseView(stored: Progress, course: CourseId): Progress {
   if (course === 'zh') return stored;
-  const { level, ...part } = stored.en ?? coursePart(defaultProgress());
-  return { ...stored, ...part, settings: { ...stored.settings, level }, en: undefined };
+  const { level, ...part } = stored[course] ?? coursePart(defaultProgress());
+  return { ...stored, ...part, settings: { ...stored.settings, level }, en: undefined, ko: undefined, ja: undefined };
 }
 
 /** Write a course view back into the stored form (Chinese at the top level, English under `en`). */
 function foldView(stored: Progress, view: Progress, course: CourseId): Progress {
-  if (course === 'zh') return { ...view, en: stored.en };
-  const out: Progress = { ...stored, gems: view.gems, mock: view.mock, settings: { ...view.settings, level: stored.settings.level }, en: coursePart(view) };
+  if (course === 'zh') return { ...view, en: stored.en, ko: stored.ko, ja: stored.ja };
+  const out: Progress = { ...stored, gems: view.gems, mock: view.mock, settings: { ...view.settings, level: stored.settings.level }, [course]: coursePart(view) };
   return out;
 }
 
@@ -89,7 +89,9 @@ function foldView(stored: Progress, view: Progress, course: CourseId): Progress 
 export function xpByCourse(stored: Progress = state) {
   const zh = stored.xp;
   const en = stored.en?.xp ?? 0;
-  return { zh, en, total: zh + en };
+  const ko = stored.ko?.xp ?? 0;
+  const ja = stored.ja?.xp ?? 0;
+  return { zh, en, ko, ja, total: zh + en + ko + ja };
 }
 
 function sanitizeCourse(raw: unknown): CourseProgress | undefined {
@@ -131,6 +133,8 @@ export function sanitize(raw: unknown): Progress {
     certificates: Array.isArray(r.certificates) ? r.certificates : [],
     tests: Array.isArray(r.tests) ? r.tests : [],
     en: sanitizeCourse(r.en),
+    ko: sanitizeCourse(r.ko),
+    ja: sanitizeCourse(r.ja),
     mock: r.mock && typeof r.mock === 'object' ? r.mock : undefined,
     version: 1,
   } as Progress;
@@ -345,7 +349,7 @@ export function recordTest(unit: number, part: string, name: string, correct: nu
     const tests = [...p.tests, { unit, correct, total, passed, date }].slice(-50);
     if (!passed) return { ...p, tests };
     // Chinese: hsk1-part1…3 (kept from v2), hsk2-part21…; English: en-part1…
-    const id = getCourse() === 'en' ? `en-part${unit}` : `hsk${unitLevel(unit)}-part${unit}`;
+    const id = getCourse() === 'zh' ? `hsk${unitLevel(unit)}-part${unit}` : `${getCourse()}-part${unit}`;
     const prev = p.certificates.find((c) => c.id === id);
     cert = prev && prev.score >= score ? prev : { id, unit, part, name, score, correct, total, date };
     return { ...p, tests, certificates: [...p.certificates.filter((c) => c.id !== id), cert].sort((a, b) => a.unit - b.unit) };

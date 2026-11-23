@@ -1,0 +1,77 @@
+{
+ "units": [
+  {"unit":1,"level":1,"title":"Phần 1: Làm quen","desc":"Chào hỏi, giới thiệu, số đếm, gia đình, con người","color":"leaf","course":"ja"}
+ ],
+ "lessons": [
+  {"id":"ja101","title":"Chào hỏi","desc":"Xin chào, cảm ơn, xin lỗi","icon":"挨","unit":1,"course":"ja","order":10,"words":[
+   {"id":"ja101-こんにちは","hanzi":"こんにちは","pinyin":"konnichiwa","vi":"xin chào (ban ngày)","ex":{"tokens":["こんにちは","、","田中","さん","。"],"py":["konnichiwa",",","tanaka","san","."],"vi":"Xin chào anh Tanaka.","alts":[]}},
+   {"id":"ja101-おはよう","hanzi":"おはよう","pinyin":"ohayou","vi":"chào buổi sáng","ex":{"tokens":["先生","、","おはよう","ございます","。"],"py":["sensei",",","ohayou","gozaimasu","."],"vi":"Em chào thầy buổi sáng ạ.","alts":[]}},
+   {"id":"ja101-こんばんは","hanzi":"こんばんは","pinyin":"konbanwa","vi":"chào buổi tối","ex":{"tokens":["こんばんは","、","今日","は","寒い","です","ね","。"],"py":["konbanwa",",","kyou","wa","samui","desu","ne","."],"vi":"Chào buổi tối, hôm nay lạnh nhỉ.","alts":[]}},
+   {"id":"ja101-さようなら","hanzi":"さようなら","pinyin":"sayounara","vi":"tạm biệt","ex":{"tokens":["さようなら","、","また","明日","。"],"py":["sayounara",",","mata","ashita","."],"vi":"Tạm biệt, mai gặp lại.","alts":[]}},
+   {"id":"ja101-ありがとう","hanzi":"ありがとう","pinyin":"arigatou","vi":"cảm ơn","ex":{"tokens":["手伝って","くれて","ありがとう","。"],"py":["tetsudatte","kurete","arigatou","."],"vi":"Cảm ơn vì đã giúp tôi.","alts":[]}},
+   {"id":"ja101-すみません","hanzi":"すみません","pinyin":"sumimasen","vi":"xin lỗi; làm ơn cho hỏi","ex":{"tokens":["すみません","、","駅","は","どこ","です","か","。"],"py":["sumimasen",",","eki","wa","doko","desu","ka","."],"vi":"Xin lỗi, nhà ga ở đâu ạ?","alts":[]}},
+   {"id":"ja101-はい","hanzi":"はい","pinyin":"hai","vi":"vâng, có","ex":{"tokens":["はい","、","私","は","学生","です","。"],"py":["hai",",","watashi","wa","gakusei","desu","."],"vi":"Vâng, tôi là học sinh.","alts":[]}},
+   {"id":"ja101-いいえ","hanzi":"いいえ","pinyin":"iie","vi":"không","ex":{"tokens":["いいえ","、","私","は","医者","では","ありません","。"],"py":["iie",",","watashi","wa","isha","dewa","arimasen","."],"vi":"Không, tôi không phải là bác sĩ.","alts":[]}},
+   {"id":"ja101-お願い","hanzi":"お願い","pinyin":"onegai","vi":"sự nhờ vả, làm ơn","ex":{"tokens":["コーヒー","を","お願い","します","。"],"py":["koohii","o","onegai","shimasu","."],"vi":"Làm ơn cho tôi cà phê.","alts":[]}},
+   {"id":"ja101-どうぞ","hanzi":"どうぞ","pinyin":"douzo","vi":"xin mời","ex":{"tokens":["どうぞ","、","こちら","に","座って","ください","。"],"py":["douzo",",","kochira","ni","suwatte","kudasai","."],"vi":"Xin mời ngồi ở đây.","alts":[]}},
+   {"id":"ja101-元気","hanzi":"元気","pinyin":"genki","vi":"khỏe mạnh","ex":{"tokens":["お","元気","です","か","。"],"py":["o","genki","desu","ka","."],"vi":"Bạn có khỏe không?","alts":[]}},
+   {"id":"ja101-大丈夫","hanzi":"大丈夫","pinyin":"daijoubu","vi":"ổn, không sao","ex":{"tokens":["私","は","大丈夫","です","。"],"py":["watashi","wa","daijoubu","desu","."],"vi":"Tôi không sao.","alts":[]}}
+  ]},
+  {"id":"ja102","title":"Giới thiệu bản thân","desc":"Tôi, bạn, tên, quốc tịch","icon":"私","unit":1,"course":"ja","order":20,"words":[
+   {"id":"ja102-私","hanzi":"私","pinyin":"watashi","vi":"tôi","ex":{"tokens":["私","は","ベトナム人","です","。"],"py":["watashi","wa","betonamujin","desu","."],"vi":"Tôi là người Việt Nam.","alts":[]}},
+   {"id":"ja102-名前","hanzi":"名前","pinyin":"namae","vi":"tên","ex":{"tokens":["私","の","名前","は","ラン","です","。"],"py":["watashi","no","namae","wa","ran","desu","."],"vi":"Tên tôi là Lan.","alts":[]}},
+   {"id":"ja102-人","hanzi":"人","pinyin":"hito","vi":"người","ex":{"tokens":["あの","人","は","私","の","友達","です","。"],"py":["ano","hito","wa","watashi","no","tomodachi","desu","."],"vi":"Người kia là bạn tôi.","alts":[]}},
+   {"id":"ja102-友達","hanzi":"友達","pinyin":"tomodachi","vi":"bạn bè","ex":{"tokens":["日本人","の","友達","が","います","。"],"py":["nihonjin","no","tomodachi","ga","imasu","."],"vi":"Tôi có bạn người Nhật.","alts":[]}},
+   {"id":"ja102-日本","hanzi":"日本","pinyin":"nihon","vi":"Nhật Bản","ex":{"tokens":["来年","日本","へ","行きたい","です","。"],"py":["rainen","nihon","e","ikitai","desu","."],"vi":"Năm sau tôi muốn đi Nhật Bản.","alts":[]}},
+   {"id":"ja102-国","hanzi":"国","pinyin":"kuni","vi":"đất nước","ex":{"tokens":["お","国","は","どちら","です","か","。"],"py":["o","kuni","wa","dochira","desu","ka","."],"vi":"Bạn đến từ nước nào?","alts":[]}},
+   {"id":"ja102-学生","hanzi":"学生","pinyin":"gakusei","vi":"học sinh, sinh viên","ex":{"tokens":["弟","は","大学","の","学生","です","。"],"py":["otouto","wa","daigaku","no","gakusei","desu","."],"vi":"Em trai tôi là sinh viên đại học.","alts":[]}},
+   {"id":"ja102-先生","hanzi":"先生","pinyin":"sensei","vi":"giáo viên","ex":{"tokens":["先生","は","教室","に","います","。"],"py":["sensei","wa","kyoushitsu","ni","imasu","."],"vi":"Thầy giáo đang ở trong lớp.","alts":[]}},
+   {"id":"ja102-会社員","hanzi":"会社員","pinyin":"kaishain","vi":"nhân viên công ty","ex":{"tokens":["父","は","会社員","です","。"],"py":["chichi","wa","kaishain","desu","."],"vi":"Bố tôi là nhân viên công ty.","alts":[]}},
+   {"id":"ja102-誰","hanzi":"誰","pinyin":"dare","vi":"ai","ex":{"tokens":["あの","人","は","誰","です","か","。"],"py":["ano","hito","wa","dare","desu","ka","."],"vi":"Người kia là ai?","alts":[]}},
+   {"id":"ja102-何","hanzi":"何","pinyin":"nani","vi":"cái gì","ex":{"tokens":["今","何","を","して","います","か","。"],"py":["ima","nani","o","shite","imasu","ka","."],"vi":"Bây giờ bạn đang làm gì?","alts":[]}},
+   {"id":"ja102-日本語","hanzi":"日本語","pinyin":"nihongo","vi":"tiếng Nhật","ex":{"tokens":["毎日","日本語","を","勉強します","。"],"py":["mainichi","nihongo","o","benkyoushimasu","."],"vi":"Tôi học tiếng Nhật mỗi ngày.","alts":[]}}
+  ]},
+  {"id":"ja103","title":"Số đếm","desc":"Một đến mười, trăm, nghìn","icon":"一","unit":1,"course":"ja","order":30,"words":[
+   {"id":"ja103-一","hanzi":"一","pinyin":"ichi","vi":"một","ex":{"tokens":["一","から","十","まで","数えます","。"],"py":["ichi","kara","juu","made","kazoemasu","."],"vi":"Tôi đếm từ một đến mười.","alts":[]}},
+   {"id":"ja103-二","hanzi":"二","pinyin":"ni","vi":"hai","ex":{"tokens":["教室","は","二","階","に","あります","。"],"py":["kyoushitsu","wa","ni","kai","ni","arimasu","."],"vi":"Phòng học ở tầng hai.","alts":[]}},
+   {"id":"ja103-三","hanzi":"三","pinyin":"san","vi":"ba","ex":{"tokens":["三","分","待って","ください","。"],"py":["san","pun","matte","kudasai","."],"vi":"Xin hãy chờ ba phút.","alts":[]}},
+   {"id":"ja103-四","hanzi":"四","pinyin":"yon","vi":"bốn","ex":{"tokens":["家族","は","四","人","です","。"],"py":["kazoku","wa","yon","nin","desu","."],"vi":"Gia đình tôi có bốn người.","alts":[]}},
+   {"id":"ja103-五","hanzi":"五","pinyin":"go","vi":"năm","ex":{"tokens":["りんご","を","五","個","買いました","。"],"py":["ringo","o","go","ko","kaimashita","."],"vi":"Tôi đã mua năm quả táo.","alts":[]}},
+   {"id":"ja103-六","hanzi":"六","pinyin":"roku","vi":"sáu","ex":{"tokens":["毎朝","六","時","に","起きます","。"],"py":["maiasa","roku","ji","ni","okimasu","."],"vi":"Mỗi sáng tôi dậy lúc sáu giờ.","alts":[]}},
+   {"id":"ja103-七","hanzi":"七","pinyin":"nana","vi":"bảy","ex":{"tokens":["七","時","に","晩ご飯","を","食べます","。"],"py":["nana","ji","ni","bangohan","o","tabemasu","."],"vi":"Tôi ăn tối lúc bảy giờ.","alts":[]}},
+   {"id":"ja103-八","hanzi":"八","pinyin":"hachi","vi":"tám","ex":{"tokens":["授業","は","八","時","に","始まります","。"],"py":["jugyou","wa","hachi","ji","ni","hajimarimasu","."],"vi":"Tiết học bắt đầu lúc tám giờ.","alts":[]}},
+   {"id":"ja103-九","hanzi":"九","pinyin":"kyuu","vi":"chín","ex":{"tokens":["店","は","九","時","に","開きます","。"],"py":["mise","wa","kyuu","ji","ni","akimasu","."],"vi":"Cửa hàng mở cửa lúc chín giờ.","alts":[]}},
+   {"id":"ja103-十","hanzi":"十","pinyin":"juu","vi":"mười","ex":{"tokens":["バス","は","十","分","後","に","来ます","。"],"py":["basu","wa","juu","pun","go","ni","kimasu","."],"vi":"Xe buýt sẽ đến sau mười phút.","alts":[]}},
+   {"id":"ja103-百","hanzi":"百","pinyin":"hyaku","vi":"một trăm","ex":{"tokens":["この","本","は","百","ページ","あります","。"],"py":["kono","hon","wa","hyaku","peeji","arimasu","."],"vi":"Quyển sách này có một trăm trang.","alts":[]}},
+   {"id":"ja103-千","hanzi":"千","pinyin":"sen","vi":"một nghìn","ex":{"tokens":["この","ペン","は","千","円","です","。"],"py":["kono","pen","wa","sen","en","desu","."],"vi":"Cái bút này giá một nghìn yên.","alts":[]}}
+  ]},
+  {"id":"ja104","title":"Gia đình","desc":"Bố mẹ, anh chị em, ông bà","icon":"家","unit":1,"course":"ja","order":40,"words":[
+   {"id":"ja104-家族","hanzi":"家族","pinyin":"kazoku","vi":"gia đình","ex":{"tokens":["家族","は","東京","に","住んで","います","。"],"py":["kazoku","wa","toukyou","ni","sunde","imasu","."],"vi":"Gia đình tôi sống ở Tokyo.","alts":[]}},
+   {"id":"ja104-父","hanzi":"父","pinyin":"chichi","vi":"bố (của mình)","ex":{"tokens":["父","は","毎朝","新聞","を","読みます","。"],"py":["chichi","wa","maiasa","shinbun","o","yomimasu","."],"vi":"Bố tôi đọc báo mỗi sáng.","alts":[]}},
+   {"id":"ja104-母","hanzi":"母","pinyin":"haha","vi":"mẹ (của mình)","ex":{"tokens":["母","は","料理","が","上手","です","。"],"py":["haha","wa","ryouri","ga","jouzu","desu","."],"vi":"Mẹ tôi nấu ăn giỏi.","alts":[]}},
+   {"id":"ja104-兄","hanzi":"兄","pinyin":"ani","vi":"anh trai (của mình)","ex":{"tokens":["兄","は","私","より","背","が","高い","です","。"],"py":["ani","wa","watashi","yori","se","ga","takai","desu","."],"vi":"Anh trai tôi cao hơn tôi.","alts":[]}},
+   {"id":"ja104-姉","hanzi":"姉","pinyin":"ane","vi":"chị gái (của mình)","ex":{"tokens":["姉","は","銀行","で","働いて","います","。"],"py":["ane","wa","ginkou","de","hataraite","imasu","."],"vi":"Chị gái tôi làm việc ở ngân hàng.","alts":[]}},
+   {"id":"ja104-弟","hanzi":"弟","pinyin":"otouto","vi":"em trai","ex":{"tokens":["弟","は","サッカー","が","好き","です","。"],"py":["otouto","wa","sakkaa","ga","suki","desu","."],"vi":"Em trai tôi thích bóng đá.","alts":[]}},
+   {"id":"ja104-妹","hanzi":"妹","pinyin":"imouto","vi":"em gái","ex":{"tokens":["妹","は","まだ","中学生","です","。"],"py":["imouto","wa","mada","chuugakusei","desu","."],"vi":"Em gái tôi vẫn là học sinh cấp hai.","alts":[]}},
+   {"id":"ja104-両親","hanzi":"両親","pinyin":"ryoushin","vi":"bố mẹ","ex":{"tokens":["両親","は","田舎","に","住んで","います","。"],"py":["ryoushin","wa","inaka","ni","sunde","imasu","."],"vi":"Bố mẹ tôi sống ở quê.","alts":[]}},
+   {"id":"ja104-祖父","hanzi":"祖父","pinyin":"sofu","vi":"ông (của mình)","ex":{"tokens":["祖父","は","毎朝","散歩します","。"],"py":["sofu","wa","maiasa","sanposhimasu","."],"vi":"Ông tôi đi dạo mỗi sáng.","alts":[]}},
+   {"id":"ja104-祖母","hanzi":"祖母","pinyin":"sobo","vi":"bà (của mình)","ex":{"tokens":["祖母","は","昔","の","話","を","よく","します","。"],"py":["sobo","wa","mukashi","no","hanashi","o","yoku","shimasu","."],"vi":"Bà tôi hay kể chuyện ngày xưa.","alts":[]}},
+   {"id":"ja104-子供","hanzi":"子供","pinyin":"kodomo","vi":"trẻ con, con cái","ex":{"tokens":["子供","が","公園","で","遊んで","います","。"],"py":["kodomo","ga","kouen","de","asonde","imasu","."],"vi":"Trẻ con đang chơi trong công viên.","alts":[]}},
+   {"id":"ja104-夫","hanzi":"夫","pinyin":"otto","vi":"chồng (của mình)","ex":{"tokens":["夫","は","料理","が","好き","です","。"],"py":["otto","wa","ryouri","ga","suki","desu","."],"vi":"Chồng tôi thích nấu ăn.","alts":[]}}
+  ]},
+  {"id":"ja105","title":"Con người","desc":"Nam, nữ, nghề nghiệp","icon":"男","unit":1,"course":"ja","order":50,"words":[
+   {"id":"ja105-男","hanzi":"男","pinyin":"otoko","vi":"đàn ông, con trai","ex":{"tokens":["あの","男","の","人","は","兄","です","。"],"py":["ano","otoko","no","hito","wa","ani","desu","."],"vi":"Người đàn ông kia là anh tôi.","alts":[]}},
+   {"id":"ja105-女","hanzi":"女","pinyin":"onna","vi":"phụ nữ, con gái","ex":{"tokens":["その","女","の","人","は","歌","が","上手","です","。"],"py":["sono","onna","no","hito","wa","uta","ga","jouzu","desu","."],"vi":"Người phụ nữ đó hát hay.","alts":[]}},
+   {"id":"ja105-医者","hanzi":"医者","pinyin":"isha","vi":"bác sĩ","ex":{"tokens":["医者","に","薬","を","もらいました","。"],"py":["isha","ni","kusuri","o","moraimashita","."],"vi":"Tôi đã nhận thuốc từ bác sĩ.","alts":[]}},
+   {"id":"ja105-警官","hanzi":"警官","pinyin":"keikan","vi":"cảnh sát","ex":{"tokens":["警官","が","道","を","教えて","くれました","。"],"py":["keikan","ga","michi","o","oshiete","kuremashita","."],"vi":"Cảnh sát đã chỉ đường cho tôi.","alts":[]}},
+   {"id":"ja105-歌手","hanzi":"歌手","pinyin":"kashu","vi":"ca sĩ","ex":{"tokens":["私","は","その","歌手","が","好き","です","。"],"py":["watashi","wa","sono","kashu","ga","suki","desu","."],"vi":"Tôi thích ca sĩ đó.","alts":[]}},
+   {"id":"ja105-店員","hanzi":"店員","pinyin":"ten'in","vi":"nhân viên cửa hàng","ex":{"tokens":["店員","は","とても","親切","でした","。"],"py":["ten'in","wa","totemo","shinsetsu","deshita","."],"vi":"Nhân viên cửa hàng rất thân thiện.","alts":[]}},
+   {"id":"ja105-客","hanzi":"客","pinyin":"kyaku","vi":"khách","ex":{"tokens":["店","に","客","が","たくさん","います","。"],"py":["mise","ni","kyaku","ga","takusan","imasu","."],"vi":"Trong cửa hàng có nhiều khách.","alts":[]}},
+   {"id":"ja105-大人","hanzi":"大人","pinyin":"otona","vi":"người lớn","ex":{"tokens":["大人","の","切符","は","高い","です","。"],"py":["otona","no","kippu","wa","takai","desu","."],"vi":"Vé người lớn thì đắt.","alts":[]}},
+   {"id":"ja105-赤ちゃん","hanzi":"赤ちゃん","pinyin":"akachan","vi":"em bé","ex":{"tokens":["赤ちゃん","が","部屋","で","寝て","います","。"],"py":["akachan","ga","heya","de","nete","imasu","."],"vi":"Em bé đang ngủ trong phòng.","alts":[]}},
+   {"id":"ja105-妻","hanzi":"妻","pinyin":"tsuma","vi":"vợ (của mình)","ex":{"tokens":["妻","と","一緒","に","買い物","に","行きます","。"],"py":["tsuma","to","issho","ni","kaimono","ni","ikimasu","."],"vi":"Tôi đi mua sắm cùng vợ.","alts":[]}},
+   {"id":"ja105-皆","hanzi":"皆","pinyin":"minna","vi":"mọi người","ex":{"tokens":["皆","で","写真","を","撮りました","。"],"py":["minna","de","shashin","o","torimashita","."],"vi":"Mọi người đã cùng chụp ảnh.","alts":[]}},
+   {"id":"ja105-自分","hanzi":"自分","pinyin":"jibun","vi":"bản thân","ex":{"tokens":["自分","の","部屋","を","掃除します","。"],"py":["jibun","no","heya","o","soujishimasu","."],"vi":"Tôi dọn phòng của mình.","alts":[]}}
+  ]}
+ ]
+}

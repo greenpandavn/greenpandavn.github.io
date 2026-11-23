@@ -1,0 +1,77 @@
+{
+ "units": [
+  {"unit":3,"level":1,"title":"Phần 3: Thế giới quanh ta","desc":"Cơ thể, quần áo, thời tiết, nơi chốn, đi lại","color":"grape","course":"ko"}
+ ],
+ "lessons": [
+  {"id":"ko111","title":"Cơ thể","desc":"Đầu, mắt, tay, chân","icon":"몸","unit":3,"course":"ko","order":110,"words":[
+   {"id":"ko111-몸","hanzi":"몸","pinyin":"mom","vi":"cơ thể","ex":{"tokens":["운동을","하면","몸이","건강해집니다","."],"py":["undongeul","hamyeon","momi","geonganghaejimnida","."],"vi":"Tập thể dục thì cơ thể khỏe mạnh hơn.","alts":[]}},
+   {"id":"ko111-머리","hanzi":"머리","pinyin":"meori","vi":"đầu; tóc","ex":{"tokens":["어제부터","머리가","아픕니다","."],"py":["eojebuteo","meoriga","apeumnida","."],"vi":"Tôi bị đau đầu từ hôm qua.","alts":[]}},
+   {"id":"ko111-얼굴","hanzi":"얼굴","pinyin":"eolgul","vi":"khuôn mặt","ex":{"tokens":["아침에","얼굴을","씻습니다","."],"py":["achime","eolgureul","ssitseumnida","."],"vi":"Buổi sáng tôi rửa mặt.","alts":[]}},
+   {"id":"ko111-눈","hanzi":"눈","pinyin":"nun","vi":"mắt; tuyết","ex":{"tokens":["그","아이는","눈이","아주","큽니다","."],"py":["geu","aineun","nuni","aju","keumnida","."],"vi":"Đứa trẻ đó có đôi mắt rất to.","alts":[]}},
+   {"id":"ko111-코","hanzi":"코","pinyin":"ko","vi":"mũi","ex":{"tokens":["감기","때문에","코가","막혔습니다","."],"py":["gamgi","ttaemune","koga","makyeotseumnida","."],"vi":"Vì cảm nên tôi bị nghẹt mũi.","alts":[]}},
+   {"id":"ko111-입","hanzi":"입","pinyin":"ip","vi":"miệng","ex":{"tokens":["입을","크게","벌려","보세요","."],"py":["ibeul","keuge","beollyeo","boseyo","."],"vi":"Hãy mở to miệng ra.","alts":[]}},
+   {"id":"ko111-귀","hanzi":"귀","pinyin":"gwi","vi":"tai","ex":{"tokens":["할머니는","귀가","잘","안","들립니다","."],"py":["halmeonineun","gwiga","jal","an","deullimnida","."],"vi":"Bà nghe không rõ.","alts":[]}},
+   {"id":"ko111-손","hanzi":"손","pinyin":"son","vi":"bàn tay","ex":{"tokens":["밥을","먹기","전에","손을","씻으세요","."],"py":["babeul","meokgi","jeone","soneul","ssiseuseyo","."],"vi":"Hãy rửa tay trước khi ăn cơm.","alts":[]}},
+   {"id":"ko111-발","hanzi":"발","pinyin":"bal","vi":"bàn chân","ex":{"tokens":["오래","걸어서","발이","아픕니다","."],"py":["orae","georeoseo","bari","apeumnida","."],"vi":"Vì đi bộ lâu nên tôi đau chân.","alts":[]}},
+   {"id":"ko111-다리","hanzi":"다리","pinyin":"dari","vi":"chân; cây cầu","ex":{"tokens":["축구를","하다가","다리를","다쳤습니다","."],"py":["chukgureul","hadaga","darireul","dachyeotseumnida","."],"vi":"Tôi bị thương ở chân khi đá bóng.","alts":[]}},
+   {"id":"ko111-배","hanzi":"배","pinyin":"bae","vi":"bụng; quả lê; tàu thuyền","ex":{"tokens":["너무","많이","먹어서","배가","아파요","."],"py":["neomu","mani","meogeoseo","baega","apayo","."],"vi":"Vì ăn quá nhiều nên tôi đau bụng.","alts":[]}},
+   {"id":"ko111-어깨","hanzi":"어깨","pinyin":"eokkae","vi":"vai","ex":{"tokens":["가방이","무거워서","어깨가","아픕니다","."],"py":["gabangi","mugeowoseo","eokkaega","apeumnida","."],"vi":"Túi nặng nên tôi đau vai.","alts":[]}}
+  ]},
+  {"id":"ko112","title":"Quần áo và màu sắc","desc":"Áo, quần, giày, màu","icon":"옷","unit":3,"course":"ko","order":120,"words":[
+   {"id":"ko112-옷","hanzi":"옷","pinyin":"ot","vi":"quần áo","ex":{"tokens":["백화점에서","새","옷을","샀습니다","."],"py":["baekwajeomeseo","sae","oseul","satseumnida","."],"vi":"Tôi đã mua quần áo mới ở trung tâm thương mại.","alts":[]}},
+   {"id":"ko112-바지","hanzi":"바지","pinyin":"baji","vi":"quần","ex":{"tokens":["이","바지는","조금","깁니다","."],"py":["i","bajineun","jogeum","gimnida","."],"vi":"Cái quần này hơi dài.","alts":[]}},
+   {"id":"ko112-치마","hanzi":"치마","pinyin":"chima","vi":"váy","ex":{"tokens":["동생은","빨간","치마를","입었습니다","."],"py":["dongsaengeun","ppalgan","chimareul","ibeotseumnida","."],"vi":"Em tôi mặc váy đỏ.","alts":[]}},
+   {"id":"ko112-신발","hanzi":"신발","pinyin":"sinbal","vi":"giày dép","ex":{"tokens":["새","신발이","아주","편합니다","."],"py":["sae","sinbari","aju","pyeonhamnida","."],"vi":"Đôi giày mới rất thoải mái.","alts":[]}},
+   {"id":"ko112-모자","hanzi":"모자","pinyin":"moja","vi":"mũ","ex":{"tokens":["날씨가","더워서","모자를","썼습니다","."],"py":["nalssiga","deowoseo","mojareul","sseotseumnida","."],"vi":"Vì trời nóng nên tôi đội mũ.","alts":[]}},
+   {"id":"ko112-가방","hanzi":"가방","pinyin":"gabang","vi":"cặp, túi xách","ex":{"tokens":["제","가방은","의자","위에","있습니다","."],"py":["je","gabangeun","uija","wie","itseumnida","."],"vi":"Túi của tôi ở trên ghế.","alts":[]}},
+   {"id":"ko112-안경","hanzi":"안경","pinyin":"angyeong","vi":"kính mắt","ex":{"tokens":["할아버지는","안경을","찾고","있습니다","."],"py":["harabeojineun","angyeongeul","chatgo","itseumnida","."],"vi":"Ông đang tìm kính.","alts":[]}},
+   {"id":"ko112-입다","hanzi":"입다","pinyin":"ipda","vi":"mặc","ex":{"tokens":["추워서","두꺼운","옷을","입었습니다","."],"py":["chuwoseo","dukkeoun","oseul","ibeotseumnida","."],"vi":"Vì lạnh nên tôi mặc áo dày.","alts":[]}},
+   {"id":"ko112-색","hanzi":"색","pinyin":"saek","vi":"màu sắc","ex":{"tokens":["무슨","색을","제일","좋아합니까","?"],"py":["museun","saegeul","jeil","joahamnikka","?"],"vi":"Bạn thích màu gì nhất?","alts":[]}},
+   {"id":"ko112-빨간색","hanzi":"빨간색","pinyin":"ppalgansaek","vi":"màu đỏ","ex":{"tokens":["저는","빨간색","가방을","샀습니다","."],"py":["jeoneun","ppalgansaek","gabangeul","satseumnida","."],"vi":"Tôi đã mua cái túi màu đỏ.","alts":[]}},
+   {"id":"ko112-파란색","hanzi":"파란색","pinyin":"paransaek","vi":"màu xanh dương","ex":{"tokens":["하늘이","파란색이라서","예쁩니다","."],"py":["haneuri","paransaegiraseo","yeppeumnida","."],"vi":"Bầu trời màu xanh nên rất đẹp.","alts":[]}},
+   {"id":"ko112-하얀색","hanzi":"하얀색","pinyin":"hayansaek","vi":"màu trắng","ex":{"tokens":["하얀색","셔츠가","잘","어울립니다","."],"py":["hayansaek","syeocheuga","jal","eoullimnida","."],"vi":"Áo sơ mi trắng rất hợp.","alts":[]}}
+  ]},
+  {"id":"ko113","title":"Thời tiết và thiên nhiên","desc":"Mưa, nắng, bốn mùa","icon":"날","unit":3,"course":"ko","order":130,"words":[
+   {"id":"ko113-날씨","hanzi":"날씨","pinyin":"nalssi","vi":"thời tiết","ex":{"tokens":["요즘","날씨가","정말","따뜻합니다","."],"py":["yojeum","nalssiga","jeongmal","ttatteutamnida","."],"vi":"Dạo này thời tiết thật ấm áp.","alts":[]}},
+   {"id":"ko113-비","hanzi":"비","pinyin":"bi","vi":"mưa","ex":{"tokens":["밖에","비가","많이","옵니다","."],"py":["bakke","biga","mani","omnida","."],"vi":"Bên ngoài mưa to.","alts":[]}},
+   {"id":"ko113-바람","hanzi":"바람","pinyin":"baram","vi":"gió","ex":{"tokens":["오늘은","바람이","많이","붑니다","."],"py":["oneureun","barami","mani","bumnida","."],"vi":"Hôm nay gió thổi mạnh.","alts":[]}},
+   {"id":"ko113-하늘","hanzi":"하늘","pinyin":"haneul","vi":"bầu trời","ex":{"tokens":["가을","하늘은","높고","맑습니다","."],"py":["gaeul","haneureun","nopgo","makseumnida","."],"vi":"Bầu trời mùa thu cao và trong.","alts":[]}},
+   {"id":"ko113-봄","hanzi":"봄","pinyin":"bom","vi":"mùa xuân","ex":{"tokens":["봄에는","꽃이","많이","핍니다","."],"py":["bomeneun","kkochi","mani","pimnida","."],"vi":"Mùa xuân hoa nở nhiều.","alts":[]}},
+   {"id":"ko113-여름","hanzi":"여름","pinyin":"yeoreum","vi":"mùa hè","ex":{"tokens":["한국의","여름은","덥고","비가","많습니다","."],"py":["hangugui","yeoreumeun","deopgo","biga","manseumnida","."],"vi":"Mùa hè Hàn Quốc nóng và mưa nhiều.","alts":[]}},
+   {"id":"ko113-가을","hanzi":"가을","pinyin":"gaeul","vi":"mùa thu","ex":{"tokens":["저는","사계절","중에서","가을을","좋아합니다","."],"py":["jeoneun","sagyejeol","jungeseo","gaeureul","joahamnida","."],"vi":"Trong bốn mùa tôi thích mùa thu.","alts":[]}},
+   {"id":"ko113-겨울","hanzi":"겨울","pinyin":"gyeoul","vi":"mùa đông","ex":{"tokens":["겨울에는","눈이","자주","옵니다","."],"py":["gyeoureneun","nuni","jaju","omnida","."],"vi":"Mùa đông tuyết thường rơi.","alts":[]}},
+   {"id":"ko113-덥다","hanzi":"덥다","pinyin":"deopda","vi":"nóng","ex":{"tokens":["오늘은","어제보다","더","덥습니다","."],"py":["oneureun","eojeboda","deo","deopseumnida","."],"vi":"Hôm nay nóng hơn hôm qua.","alts":[]}},
+   {"id":"ko113-춥다","hanzi":"춥다","pinyin":"chupda","vi":"lạnh","ex":{"tokens":["밖이","추우니까","코트를","입으세요","."],"py":["bakki","chuunikka","koteureul","ibeuseyo","."],"vi":"Bên ngoài lạnh nên hãy mặc áo khoác.","alts":[]}},
+   {"id":"ko113-산","hanzi":"산","pinyin":"san","vi":"núi","ex":{"tokens":["주말마다","아버지와","산에","갑니다","."],"py":["jumalmada","abeojiwa","sane","gamnida","."],"vi":"Mỗi cuối tuần tôi đi núi với bố.","alts":[]}},
+   {"id":"ko113-바다","hanzi":"바다","pinyin":"bada","vi":"biển","ex":{"tokens":["여름에는","바다에서","수영합니다","."],"py":["yeoreumeneun","badaeseo","suyeonghamnida","."],"vi":"Mùa hè tôi bơi ở biển.","alts":[]}}
+  ]},
+  {"id":"ko114","title":"Nơi chốn","desc":"Chợ, bệnh viện, ngân hàng, ở đâu","icon":"곳","unit":3,"course":"ko","order":140,"words":[
+   {"id":"ko114-시장","hanzi":"시장","pinyin":"sijang","vi":"chợ","ex":{"tokens":["어머니는","시장에서","채소를","삽니다","."],"py":["eomeonineun","sijangeseo","chaesoreul","samnida","."],"vi":"Mẹ mua rau ở chợ.","alts":[]}},
+   {"id":"ko114-병원","hanzi":"병원","pinyin":"byeongwon","vi":"bệnh viện","ex":{"tokens":["아파서","병원에","갔습니다","."],"py":["apaseo","byeongwone","gatseumnida","."],"vi":"Vì ốm nên tôi đã đi bệnh viện.","alts":[]}},
+   {"id":"ko114-은행","hanzi":"은행","pinyin":"eunhaeng","vi":"ngân hàng","ex":{"tokens":["은행은","우체국","옆에","있습니다","."],"py":["eunhaengeun","ucheguk","yeope","itseumnida","."],"vi":"Ngân hàng ở bên cạnh bưu điện.","alts":[]}},
+   {"id":"ko114-식당","hanzi":"식당","pinyin":"sikdang","vi":"nhà hàng, quán ăn","ex":{"tokens":["학교","앞","식당은","값이","쌉니다","."],"py":["hakgyo","ap","sikdangeun","gapsi","ssamnida","."],"vi":"Quán ăn trước trường giá rẻ.","alts":[]}},
+   {"id":"ko114-가게","hanzi":"가게","pinyin":"gage","vi":"cửa hàng","ex":{"tokens":["이","가게는","아홉","시에","문을","엽니다","."],"py":["i","gageneun","ahop","sie","muneul","yeomnida","."],"vi":"Cửa hàng này mở cửa lúc chín giờ.","alts":[]}},
+   {"id":"ko114-공원","hanzi":"공원","pinyin":"gongwon","vi":"công viên","ex":{"tokens":["아침마다","공원에서","운동합니다","."],"py":["achimmada","gongwoneseo","undonghamnida","."],"vi":"Mỗi sáng tôi tập thể dục ở công viên.","alts":[]}},
+   {"id":"ko114-도서관","hanzi":"도서관","pinyin":"doseogwan","vi":"thư viện","ex":{"tokens":["도서관은","조용해서","공부하기","좋습니다","."],"py":["doseogwaneun","joyonghaeseo","gongbuhagi","joseumnida","."],"vi":"Thư viện yên tĩnh nên học rất tốt.","alts":[]}},
+   {"id":"ko114-회사","hanzi":"회사","pinyin":"hoesa","vi":"công ty","ex":{"tokens":["회사는","집에서","조금","멉니다","."],"py":["hoesaneun","jibeseo","jogeum","meomnida","."],"vi":"Công ty hơi xa nhà.","alts":[]}},
+   {"id":"ko114-어디","hanzi":"어디","pinyin":"eodi","vi":"ở đâu","ex":{"tokens":["지금","어디에","가고","있습니까","?"],"py":["jigeum","eodie","gago","itseumnikka","?"],"vi":"Bây giờ bạn đang đi đâu?","alts":[]}},
+   {"id":"ko114-여기","hanzi":"여기","pinyin":"yeogi","vi":"ở đây","ex":{"tokens":["여기에서","사진을","찍어도","됩니까","?"],"py":["yeogieseo","sajineul","jjigeodo","doemnikka","?"],"vi":"Tôi chụp ảnh ở đây được không?","alts":[]}},
+   {"id":"ko114-앞","hanzi":"앞","pinyin":"ap","vi":"phía trước","ex":{"tokens":["학교","앞에","큰","서점이","있습니다","."],"py":["hakgyo","ape","keun","seojeomi","itseumnida","."],"vi":"Trước trường có một hiệu sách lớn.","alts":[]}},
+   {"id":"ko114-옆","hanzi":"옆","pinyin":"yeop","vi":"bên cạnh","ex":{"tokens":["제","옆에","앉으세요","."],"py":["je","yeope","anjeuseyo","."],"vi":"Hãy ngồi cạnh tôi.","alts":[]}}
+  ]},
+  {"id":"ko115","title":"Đi lại","desc":"Xe buýt, tàu điện ngầm, vé, đường","icon":"길","unit":3,"course":"ko","order":150,"words":[
+   {"id":"ko115-버스","hanzi":"버스","pinyin":"beoseu","vi":"xe buýt","ex":{"tokens":["저는","매일","버스를","탑니다","."],"py":["jeoneun","maeil","beoseureul","tamnida","."],"vi":"Tôi đi xe buýt mỗi ngày.","alts":[]}},
+   {"id":"ko115-지하철","hanzi":"지하철","pinyin":"jihacheol","vi":"tàu điện ngầm","ex":{"tokens":["지하철이","버스보다","더","빠릅니다","."],"py":["jihacheori","beoseuboda","deo","ppareumnida","."],"vi":"Tàu điện ngầm nhanh hơn xe buýt.","alts":[]}},
+   {"id":"ko115-택시","hanzi":"택시","pinyin":"taeksi","vi":"taxi","ex":{"tokens":["늦어서","택시를","탔습니다","."],"py":["neujeoseo","taeksireul","tatseumnida","."],"vi":"Vì muộn nên tôi đã đi taxi.","alts":[]}},
+   {"id":"ko115-기차","hanzi":"기차","pinyin":"gicha","vi":"tàu hỏa","ex":{"tokens":["부산까지","기차로","세","시간","걸립니다","."],"py":["busankkaji","gicharo","se","sigan","geollimnida","."],"vi":"Đi tàu hỏa đến Busan mất ba tiếng.","alts":[]}},
+   {"id":"ko115-비행기","hanzi":"비행기","pinyin":"bihaenggi","vi":"máy bay","ex":{"tokens":["비행기","표를","미리","샀습니다","."],"py":["bihaenggi","pyoreul","miri","satseumnida","."],"vi":"Tôi đã mua vé máy bay trước.","alts":[]}},
+   {"id":"ko115-자전거","hanzi":"자전거","pinyin":"jajeongeo","vi":"xe đạp","ex":{"tokens":["동생은","자전거로","학교에","갑니다","."],"py":["dongsaengeun","jajeongeoro","hakgyoe","gamnida","."],"vi":"Em tôi đi học bằng xe đạp.","alts":[]}},
+   {"id":"ko115-길","hanzi":"길","pinyin":"gil","vi":"con đường","ex":{"tokens":["이","길로","쭉","가세요","."],"py":["i","gillo","jjuk","gaseyo","."],"vi":"Hãy đi thẳng theo con đường này.","alts":[]}},
+   {"id":"ko115-역","hanzi":"역","pinyin":"yeok","vi":"ga","ex":{"tokens":["서울역에서","친구를","만났습니다","."],"py":["seouryeogeseo","chingureul","mannatseumnida","."],"vi":"Tôi đã gặp bạn ở ga Seoul.","alts":[]}},
+   {"id":"ko115-공항","hanzi":"공항","pinyin":"gonghang","vi":"sân bay","ex":{"tokens":["공항까지","한","시간쯤","걸립니다","."],"py":["gonghangkkaji","han","siganjjeum","geollimnida","."],"vi":"Đến sân bay mất khoảng một tiếng.","alts":[]}},
+   {"id":"ko115-표","hanzi":"표","pinyin":"pyo","vi":"vé","ex":{"tokens":["영화","표를","두","장","샀습니다","."],"py":["yeonghwa","pyoreul","du","jang","satseumnida","."],"vi":"Tôi đã mua hai vé xem phim.","alts":[]}},
+   {"id":"ko115-타다","hanzi":"타다","pinyin":"tada","vi":"đi (xe), lên (xe)","ex":{"tokens":["여기에서","몇","번","버스를","탑니까","?"],"py":["yeogieseo","myeot","beon","beoseureul","tamnikka","?"],"vi":"Ở đây đi xe buýt số mấy?","alts":[]}},
+   {"id":"ko115-걷다","hanzi":"걷다","pinyin":"geotda","vi":"đi bộ","ex":{"tokens":["날씨가","좋아서","집까지","걸었습니다","."],"py":["nalssiga","joaseo","jipkkaji","georeotseumnida","."],"vi":"Vì thời tiết đẹp nên tôi đi bộ về nhà.","alts":[]}}
+  ]}
+ ]
+}

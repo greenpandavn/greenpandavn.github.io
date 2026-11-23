@@ -1,0 +1,42 @@
+{
+ "units": [
+  {"unit":1,"level":1,"title":"Phần 1: Làm quen","desc":"Chào hỏi, giới thiệu, số đếm, gia đình, con người","color":"leaf","course":"ja"},
+  {"unit":2,"level":1,"title":"Phần 2: Cuộc sống hằng ngày","desc":"Ăn uống, thời gian, nhà cửa, trường học, hoạt động","color":"sky","course":"ja"},
+  {"unit":3,"level":1,"title":"Phần 3: Thế giới quanh ta","desc":"Cơ thể, quần áo, thời tiết, nơi chốn, đi lại","color":"grape","course":"ja"},
+  {"unit":21,"level":2,"title":"Phần 1: Con người và đời sống","desc":"Cảm xúc, sở thích, sức khỏe, mua sắm, công việc","color":"leaf","course":"ja"},
+  {"unit":22,"level":2,"title":"Phần 2: Ra ngoài và giao tiếp","desc":"Du lịch, thành phố, liên lạc, học tập, sinh hoạt","color":"sky","course":"ja"},
+  {"unit":23,"level":2,"title":"Phần 3: Diễn đạt phong phú","desc":"Tính từ, phó từ, thiên nhiên, văn hóa, kế hoạch","color":"grape","course":"ja"}
+ ],
+ "lessons": [
+  ["ja101","Chào hỏi","挨",1,12],
+  ["ja102","Giới thiệu bản thân","私",1,12],
+  ["ja103","Số đếm","一",1,12],
+  ["ja104","Gia đình","家",1,12],
+  ["ja105","Con người","男",1,12],
+  ["ja106","Đồ ăn","食",2,12],
+  ["ja107","Đồ uống và bữa ăn","水",2,12],
+  ["ja108","Thời gian","時",2,12],
+  ["ja109","Nhà cửa","部",2,12],
+  ["ja110","Trường học và hoạt động","学",2,12],
+  ["ja111","Cơ thể","体",3,12],
+  ["ja112","Quần áo và màu sắc","服",3,12],
+  ["ja113","Thời tiết và thiên nhiên","天",3,12],
+  ["ja114","Nơi chốn","所",3,12],
+  ["ja115","Đi lại","道",3,12],
+  ["ja201","Cảm xúc và tính cách","気",21,12],
+  ["ja202","Sở thích","趣",21,12],
+  ["ja203","Sức khỏe","薬",21,12],
+  ["ja204","Mua sắm","買",21,12],
+  ["ja205","Công việc","仕",21,12],
+  ["ja206","Du lịch","旅",22,12],
+  ["ja207","Thành phố và chỉ đường","町",22,12],
+  ["ja208","Liên lạc","電",22,12],
+  ["ja209","Học tập","習",22,12],
+  ["ja210","Sinh hoạt hằng ngày","生",22,12],
+  ["ja211","Tính từ thường dùng","形",23,12],
+  ["ja212","Phó từ và từ nối","副",23,12],
+  ["ja213","Thiên nhiên và động vật","花",23,12],
+  ["ja214","Văn hóa và xã hội","文",23,12],
+  ["ja215","Kế hoạch và ý kiến","夢",23,12]
+ ]
+}

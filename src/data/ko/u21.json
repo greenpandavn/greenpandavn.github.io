@@ -1,0 +1,77 @@
+{
+ "units": [
+  {"unit":21,"level":2,"title":"Phần 1: Con người và đời sống","desc":"Cảm xúc, sở thích, sức khỏe, mua sắm, công việc","color":"leaf","course":"ko"}
+ ],
+ "lessons": [
+  {"id":"ko201","title":"Cảm xúc và tính cách","desc":"Vui, buồn, lo lắng, hiền lành","icon":"기","unit":21,"course":"ko","order":160,"words":[
+   {"id":"ko201-기분","hanzi":"기분","pinyin":"gibun","vi":"tâm trạng","ex":{"tokens":["오늘은","기분이","아주","좋습니다","."],"py":["oneureun","gibuni","aju","joseumnida","."],"vi":"Hôm nay tâm trạng tôi rất tốt.","alts":[]}},
+   {"id":"ko201-기쁘다","hanzi":"기쁘다","pinyin":"gippeuda","vi":"vui mừng","ex":{"tokens":["시험에","합격해서","정말","기쁩니다","."],"py":["siheome","hapgyeokaeseo","jeongmal","gippeumnida","."],"vi":"Tôi thật sự vui vì đã thi đỗ.","alts":[]}},
+   {"id":"ko201-슬프다","hanzi":"슬프다","pinyin":"seulpeuda","vi":"buồn","ex":{"tokens":["영화가","너무","슬퍼서","울었습니다","."],"py":["yeonghwaga","neomu","seulpeoseo","ureotseumnida","."],"vi":"Bộ phim buồn quá nên tôi đã khóc.","alts":[]}},
+   {"id":"ko201-화나다","hanzi":"화나다","pinyin":"hwanada","vi":"tức giận","ex":{"tokens":["동생이","거짓말을","해서","화났습니다","."],"py":["dongsaengi","geojinmareul","haeseo","hwanatseumnida","."],"vi":"Tôi tức giận vì em nói dối.","alts":[]}},
+   {"id":"ko201-걱정하다","hanzi":"걱정하다","pinyin":"geokjeonghada","vi":"lo lắng","ex":{"tokens":["부모님이","제","건강을","걱정하십니다","."],"py":["bumonimi","je","geongangeul","geokjeonghasimnida","."],"vi":"Bố mẹ lo lắng cho sức khỏe của tôi.","alts":[]}},
+   {"id":"ko201-행복하다","hanzi":"행복하다","pinyin":"haengbokada","vi":"hạnh phúc","ex":{"tokens":["가족과","함께","있으면","행복합니다","."],"py":["gajokgwa","hamkke","isseumyeon","haengbokamnida","."],"vi":"Ở cùng gia đình thì tôi hạnh phúc.","alts":[]}},
+   {"id":"ko201-심심하다","hanzi":"심심하다","pinyin":"simsimhada","vi":"buồn chán","ex":{"tokens":["주말에","할","일이","없어서","심심합니다","."],"py":["jumare","hal","iri","eopseoseo","simsimhamnida","."],"vi":"Cuối tuần không có việc gì làm nên tôi chán.","alts":[]}},
+   {"id":"ko201-피곤하다","hanzi":"피곤하다","pinyin":"pigonhada","vi":"mệt mỏi","ex":{"tokens":["어제","늦게","자서","피곤합니다","."],"py":["eoje","neutge","jaseo","pigonhamnida","."],"vi":"Hôm qua ngủ muộn nên tôi mệt.","alts":[]}},
+   {"id":"ko201-친절하다","hanzi":"친절하다","pinyin":"chinjeolhada","vi":"tốt bụng, thân thiện","ex":{"tokens":["그","가게","직원은","아주","친절합니다","."],"py":["geu","gage","jigwoneun","aju","chinjeolhamnida","."],"vi":"Nhân viên cửa hàng đó rất thân thiện.","alts":[]}},
+   {"id":"ko201-조용하다","hanzi":"조용하다","pinyin":"joyonghada","vi":"yên tĩnh, ít nói","ex":{"tokens":["제","친구는","성격이","조용합니다","."],"py":["je","chinguneun","seonggyeogi","joyonghamnida","."],"vi":"Bạn tôi tính tình ít nói.","alts":[]}},
+   {"id":"ko201-성격","hanzi":"성격","pinyin":"seonggyeok","vi":"tính cách","ex":{"tokens":["언니와","저는","성격이","다릅니다","."],"py":["eonniwa","jeoneun","seonggyeogi","dareumnida","."],"vi":"Chị và tôi tính cách khác nhau.","alts":[]}},
+   {"id":"ko201-마음","hanzi":"마음","pinyin":"maeum","vi":"tấm lòng, tâm trí","ex":{"tokens":["선물이","마음에","들었습니다","."],"py":["seonmuri","maeume","deureotseumnida","."],"vi":"Tôi đã thấy thích món quà.","alts":[]}}
+  ]},
+  {"id":"ko202","title":"Sở thích","desc":"Âm nhạc, phim, thể thao, du lịch","icon":"취","unit":21,"course":"ko","order":170,"words":[
+   {"id":"ko202-취미","hanzi":"취미","pinyin":"chwimi","vi":"sở thích","ex":{"tokens":["제","취미는","사진","찍기입니다","."],"py":["je","chwimineun","sajin","jjikgiimnida","."],"vi":"Sở thích của tôi là chụp ảnh.","alts":[]}},
+   {"id":"ko202-음악","hanzi":"음악","pinyin":"eumak","vi":"âm nhạc","ex":{"tokens":["저는","조용한","음악을","자주","듣습니다","."],"py":["jeoneun","joyonghan","eumageul","jaju","deutseumnida","."],"vi":"Tôi thường nghe nhạc nhẹ.","alts":[]}},
+   {"id":"ko202-영화","hanzi":"영화","pinyin":"yeonghwa","vi":"phim","ex":{"tokens":["주말에","친구와","영화를","볼","겁니다","."],"py":["jumare","chinguwa","yeonghwareul","bol","geomnida","."],"vi":"Cuối tuần tôi sẽ xem phim với bạn.","alts":[]}},
+   {"id":"ko202-노래","hanzi":"노래","pinyin":"norae","vi":"bài hát","ex":{"tokens":["한국","노래를","따라","부릅니다","."],"py":["hanguk","noraereul","ttara","bureumnida","."],"vi":"Tôi hát theo bài hát Hàn Quốc.","alts":[]}},
+   {"id":"ko202-운동","hanzi":"운동","pinyin":"undong","vi":"thể thao, vận động","ex":{"tokens":["건강을","위해서","매일","운동을","합니다","."],"py":["geongangeul","wihaeseo","maeil","undongeul","hamnida","."],"vi":"Tôi tập thể dục mỗi ngày vì sức khỏe.","alts":[]}},
+   {"id":"ko202-축구","hanzi":"축구","pinyin":"chukgu","vi":"bóng đá","ex":{"tokens":["남동생은","축구를","아주","잘합니다","."],"py":["namdongsaengeun","chukgureul","aju","jalhamnida","."],"vi":"Em trai tôi đá bóng rất giỏi.","alts":[]}},
+   {"id":"ko202-수영","hanzi":"수영","pinyin":"suyeong","vi":"bơi lội","ex":{"tokens":["여름","방학에","수영을","배웠습니다","."],"py":["yeoreum","banghage","suyeongeul","baewotseumnida","."],"vi":"Kỳ nghỉ hè tôi đã học bơi.","alts":[]}},
+   {"id":"ko202-여행","hanzi":"여행","pinyin":"yeohaeng","vi":"du lịch","ex":{"tokens":["내년에","제주도로","여행을","가려고","합니다","."],"py":["naenyeone","jejudoro","yeohaengeul","garyeogo","hamnida","."],"vi":"Năm sau tôi định đi du lịch đảo Jeju.","alts":[]}},
+   {"id":"ko202-사진","hanzi":"사진","pinyin":"sajin","vi":"bức ảnh","ex":{"tokens":["바다에서","사진을","많이","찍었습니다","."],"py":["badaeseo","sajineul","mani","jjigeotseumnida","."],"vi":"Tôi đã chụp nhiều ảnh ở biển.","alts":[]}},
+   {"id":"ko202-그림","hanzi":"그림","pinyin":"geurim","vi":"bức tranh","ex":{"tokens":["동생은","그림을","잘","그립니다","."],"py":["dongsaengeun","geurimeul","jal","geurimnida","."],"vi":"Em tôi vẽ tranh đẹp.","alts":[]}},
+   {"id":"ko202-게임","hanzi":"게임","pinyin":"geim","vi":"trò chơi điện tử","ex":{"tokens":["숙제를","한","후에","게임을","합니다","."],"py":["sukjereul","han","hue","geimeul","hamnida","."],"vi":"Sau khi làm bài tập tôi chơi game.","alts":[]}},
+   {"id":"ko202-춤","hanzi":"춤","pinyin":"chum","vi":"điệu nhảy","ex":{"tokens":["그","가수는","춤도","잘","춥니다","."],"py":["geu","gasuneun","chumdo","jal","chumnida","."],"vi":"Ca sĩ đó nhảy cũng giỏi.","alts":[]}}
+  ]},
+  {"id":"ko203","title":"Sức khỏe","desc":"Ốm, thuốc, bệnh viện","icon":"약","unit":21,"course":"ko","order":180,"words":[
+   {"id":"ko203-건강","hanzi":"건강","pinyin":"geongang","vi":"sức khỏe","ex":{"tokens":["건강이","무엇보다","중요합니다","."],"py":["geongangi","mueotboda","jungyohamnida","."],"vi":"Sức khỏe quan trọng hơn mọi thứ.","alts":[]}},
+   {"id":"ko203-감기","hanzi":"감기","pinyin":"gamgi","vi":"cảm cúm","ex":{"tokens":["날씨가","추워서","감기에","걸렸습니다","."],"py":["nalssiga","chuwoseo","gamgie","geollyeotseumnida","."],"vi":"Vì trời lạnh nên tôi bị cảm.","alts":[]}},
+   {"id":"ko203-약","hanzi":"약","pinyin":"yak","vi":"thuốc","ex":{"tokens":["식사","후에","이","약을","드세요","."],"py":["siksa","hue","i","yageul","deuseyo","."],"vi":"Hãy uống thuốc này sau bữa ăn.","alts":[]}},
+   {"id":"ko203-약국","hanzi":"약국","pinyin":"yakguk","vi":"hiệu thuốc","ex":{"tokens":["약국은","병원","건너편에","있습니다","."],"py":["yakgugeun","byeongwon","geonneopyeone","itseumnida","."],"vi":"Hiệu thuốc ở đối diện bệnh viện.","alts":[]}},
+   {"id":"ko203-두통","hanzi":"두통","pinyin":"dutong","vi":"chứng đau đầu","ex":{"tokens":["두통이","심해서","약을","먹었습니다","."],"py":["dutongi","simhaeseo","yageul","meogeotseumnida","."],"vi":"Tôi đau đầu nặng nên đã uống thuốc.","alts":[]}},
+   {"id":"ko203-기침","hanzi":"기침","pinyin":"gichim","vi":"ho","ex":{"tokens":["어제부터","기침이","심합니다","."],"py":["eojebuteo","gichimi","simhamnida","."],"vi":"Từ hôm qua tôi ho nặng.","alts":[]}},
+   {"id":"ko203-아프다","hanzi":"아프다","pinyin":"apeuda","vi":"đau, ốm","ex":{"tokens":["목이","아파서","말을","못","합니다","."],"py":["mogi","apaseo","mareul","mot","hamnida","."],"vi":"Tôi đau họng nên không nói được.","alts":[]}},
+   {"id":"ko203-낫다","hanzi":"낫다","pinyin":"natda","vi":"khỏi bệnh","ex":{"tokens":["약을","먹고","감기가","다","나았습니다","."],"py":["yageul","meokgo","gamgiga","da","naatseumnida","."],"vi":"Uống thuốc xong tôi đã khỏi cảm hẳn.","alts":[]}},
+   {"id":"ko203-쉬다","hanzi":"쉬다","pinyin":"swida","vi":"nghỉ ngơi","ex":{"tokens":["몸이","안","좋으면","집에서","쉬세요","."],"py":["momi","an","joeumyeon","jibeseo","swiseyo","."],"vi":"Nếu thấy không khỏe thì hãy nghỉ ở nhà.","alts":[]}},
+   {"id":"ko203-목","hanzi":"목","pinyin":"mok","vi":"cổ, họng","ex":{"tokens":["노래를","많이","불러서","목이","아파요","."],"py":["noraereul","mani","bulleoseo","mogi","apayo","."],"vi":"Hát nhiều nên tôi đau họng.","alts":[]}},
+   {"id":"ko203-허리","hanzi":"허리","pinyin":"heori","vi":"eo, lưng","ex":{"tokens":["오래","앉아","있어서","허리가","아픕니다","."],"py":["orae","anja","isseoseo","heoriga","apeumnida","."],"vi":"Ngồi lâu nên tôi đau lưng.","alts":[]}},
+   {"id":"ko203-환자","hanzi":"환자","pinyin":"hwanja","vi":"bệnh nhân","ex":{"tokens":["병원에","환자가","많아서","오래","기다렸습니다","."],"py":["byeongwone","hwanjaga","manaseo","orae","gidaryeotseumnida","."],"vi":"Bệnh viện đông bệnh nhân nên tôi chờ lâu.","alts":[]}}
+  ]},
+  {"id":"ko204","title":"Mua sắm","desc":"Giá, tiền, đắt rẻ, đổi trả","icon":"돈","unit":21,"course":"ko","order":190,"words":[
+   {"id":"ko204-돈","hanzi":"돈","pinyin":"don","vi":"tiền","ex":{"tokens":["지갑에","돈이","조금밖에","없습니다","."],"py":["jigabe","doni","jogeumbakke","eopseumnida","."],"vi":"Trong ví chỉ có một ít tiền.","alts":[]}},
+   {"id":"ko204-값","hanzi":"값","pinyin":"gap","vi":"giá cả","ex":{"tokens":["요즘","채소","값이","많이","올랐습니다","."],"py":["yojeum","chaeso","gapsi","mani","ollatseumnida","."],"vi":"Dạo này giá rau tăng nhiều.","alts":[]}},
+   {"id":"ko204-지갑","hanzi":"지갑","pinyin":"jigap","vi":"ví tiền","ex":{"tokens":["지하철에서","지갑을","잃어버렸습니다","."],"py":["jihacheoreseo","jigabeul","ireobeoryeotseumnida","."],"vi":"Tôi đã làm mất ví trên tàu điện ngầm.","alts":[]}},
+   {"id":"ko204-싸다","hanzi":"싸다","pinyin":"ssada","vi":"rẻ","ex":{"tokens":["시장은","백화점보다","훨씬","쌉니다","."],"py":["sijangeun","baekwajeomboda","hwolssin","ssamnida","."],"vi":"Chợ rẻ hơn trung tâm thương mại nhiều.","alts":[]}},
+   {"id":"ko204-비싸다","hanzi":"비싸다","pinyin":"bissada","vi":"đắt","ex":{"tokens":["이","구두는","예쁘지만","너무","비쌉니다","."],"py":["i","guduneun","yeppeujiman","neomu","bissamnida","."],"vi":"Đôi giày này đẹp nhưng đắt quá.","alts":[]}},
+   {"id":"ko204-사다","hanzi":"사다","pinyin":"sada","vi":"mua","ex":{"tokens":["어머니","생신","선물을","샀습니다","."],"py":["eomeoni","saengsin","seonmureul","satseumnida","."],"vi":"Tôi đã mua quà sinh nhật cho mẹ.","alts":[]}},
+   {"id":"ko204-팔다","hanzi":"팔다","pinyin":"palda","vi":"bán","ex":{"tokens":["저","가게에서는","과일을","팝니다","."],"py":["jeo","gageeseoneun","gwaireul","pamnida","."],"vi":"Cửa hàng kia bán trái cây.","alts":[]}},
+   {"id":"ko204-선물","hanzi":"선물","pinyin":"seonmul","vi":"quà tặng","ex":{"tokens":["친구에게","줄","선물을","고르고","있습니다","."],"py":["chinguege","jul","seonmureul","goreugo","itseumnida","."],"vi":"Tôi đang chọn quà tặng bạn.","alts":[]}},
+   {"id":"ko204-백화점","hanzi":"백화점","pinyin":"baekwajeom","vi":"trung tâm thương mại","ex":{"tokens":["백화점에서","세일을","하고","있습니다","."],"py":["baekwajeomeseo","seireul","hago","itseumnida","."],"vi":"Trung tâm thương mại đang giảm giá.","alts":[]}},
+   {"id":"ko204-바꾸다","hanzi":"바꾸다","pinyin":"bakkuda","vi":"đổi","ex":{"tokens":["옷이","작아서","큰","것으로","바꿨습니다","."],"py":["osi","jagaseo","keun","geoseuro","bakkwotseumnida","."],"vi":"Áo nhỏ nên tôi đã đổi sang cái lớn.","alts":[]}},
+   {"id":"ko204-계산하다","hanzi":"계산하다","pinyin":"gyesanhada","vi":"thanh toán, tính tiền","ex":{"tokens":["카드로","계산해도","됩니까","?"],"py":["kadeuro","gyesanhaedo","doemnikka","?"],"vi":"Tôi thanh toán bằng thẻ được không?","alts":[]}},
+   {"id":"ko204-영수증","hanzi":"영수증","pinyin":"yeongsujeung","vi":"hóa đơn","ex":{"tokens":["영수증을","꼭","받아","두세요","."],"py":["yeongsujeungeul","kkok","bada","duseyo","."],"vi":"Hãy nhớ lấy hóa đơn.","alts":[]}}
+  ]},
+  {"id":"ko205","title":"Công việc","desc":"Công ty, họp, bận rộn","icon":"일","unit":21,"course":"ko","order":200,"words":[
+   {"id":"ko205-직장","hanzi":"직장","pinyin":"jikjang","vi":"nơi làm việc","ex":{"tokens":["새","직장은","집에서","가깝습니다","."],"py":["sae","jikjangeun","jibeseo","gakkapseumnida","."],"vi":"Chỗ làm mới gần nhà.","alts":[]}},
+   {"id":"ko205-회의","hanzi":"회의","pinyin":"hoeui","vi":"cuộc họp","ex":{"tokens":["오후","두","시에","회의가","있습니다","."],"py":["ohu","du","sie","hoeuiga","itseumnida","."],"vi":"Hai giờ chiều có cuộc họp.","alts":[]}},
+   {"id":"ko205-일하다","hanzi":"일하다","pinyin":"ilhada","vi":"làm việc","ex":{"tokens":["형은","무역","회사에서","일합니다","."],"py":["hyeongeun","muyeok","hoesaeseo","ilhamnida","."],"vi":"Anh tôi làm việc ở công ty thương mại.","alts":[]}},
+   {"id":"ko205-바쁘다","hanzi":"바쁘다","pinyin":"bappeuda","vi":"bận","ex":{"tokens":["요즘","일이","많아서","아주","바쁩니다","."],"py":["yojeum","iri","manaseo","aju","bappeumnida","."],"vi":"Dạo này nhiều việc nên tôi rất bận.","alts":[]}},
+   {"id":"ko205-출근하다","hanzi":"출근하다","pinyin":"chulgeunhada","vi":"đi làm","ex":{"tokens":["저는","아침","여덟","시에","출근합니다","."],"py":["jeoneun","achim","yeodeol","sie","chulgeunhamnida","."],"vi":"Tôi đi làm lúc tám giờ sáng.","alts":[]}},
+   {"id":"ko205-퇴근하다","hanzi":"퇴근하다","pinyin":"toegeunhada","vi":"tan làm","ex":{"tokens":["오늘은","일찍","퇴근할","수","있습니다","."],"py":["oneureun","iljjik","toegeunhal","su","itseumnida","."],"vi":"Hôm nay tôi có thể tan làm sớm.","alts":[]}},
+   {"id":"ko205-월급","hanzi":"월급","pinyin":"wolgeup","vi":"lương tháng","ex":{"tokens":["이번","달","월급을","아직","못","받았습니다","."],"py":["ibeon","dal","wolgeubeul","ajik","mot","badatseumnida","."],"vi":"Tôi chưa nhận được lương tháng này.","alts":[]}},
+   {"id":"ko205-사장님","hanzi":"사장님","pinyin":"sajangnim","vi":"giám đốc","ex":{"tokens":["사장님은","지금","출장","중입니다","."],"py":["sajangnimeun","jigeum","chuljang","jungimnida","."],"vi":"Giám đốc hiện đang đi công tác.","alts":[]}},
+   {"id":"ko205-동료","hanzi":"동료","pinyin":"dongnyo","vi":"đồng nghiệp","ex":{"tokens":["동료들과","점심을","같이","먹습니다","."],"py":["dongnyodeulgwa","jeomsimeul","gachi","meokseumnida","."],"vi":"Tôi ăn trưa cùng các đồng nghiệp.","alts":[]}},
+   {"id":"ko205-휴가","hanzi":"휴가","pinyin":"hyuga","vi":"kỳ nghỉ phép","ex":{"tokens":["다음","주에","휴가를","갑니다","."],"py":["daeum","jue","hyugareul","gamnida","."],"vi":"Tuần sau tôi đi nghỉ phép.","alts":[]}},
+   {"id":"ko205-컴퓨터","hanzi":"컴퓨터","pinyin":"keompyuteo","vi":"máy tính","ex":{"tokens":["회사에서","컴퓨터로","일을","합니다","."],"py":["hoesaeseo","keompyuteoro","ireul","hamnida","."],"vi":"Ở công ty tôi làm việc bằng máy tính.","alts":[]}},
+   {"id":"ko205-서류","hanzi":"서류","pinyin":"seoryu","vi":"tài liệu, giấy tờ","ex":{"tokens":["이","서류에","이름을","써","주세요","."],"py":["i","seoryue","ireumeul","sseo","juseyo","."],"vi":"Xin hãy viết tên vào giấy tờ này.","alts":[]}}
+  ]}
+ ]
+}

@@ -8,7 +8,7 @@ export type SpeakResult = 'correct' | 'close' | 'wrong' | 'error';
 /** Best-effort pronunciation check: compares the zh-CN transcript with the target characters. */
 export function judgeSpeech(alts: string[], target: string): SpeakResult {
   if (speechLang(target) === 'en-US') return judgeEnglish(alts, target);
-  const clean = (s: string) => s.replace(/[\s，。？！,.?!]/g, '');
+  const clean = (s: string) => s.replace(/[\s，。？！、,.?!]/g, '');
   const t = clean(target);
   if (alts.some((a) => clean(a) === t || clean(a).includes(t))) return 'correct';
   const tChars = new Set(t);

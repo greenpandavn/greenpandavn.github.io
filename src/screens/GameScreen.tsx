@@ -45,8 +45,9 @@ export default function GameScreen({ onClose }: { onClose: () => void }) {
   const p = useProgress();
   const course = getCourse();
   const scope = gameScope(p);
-  const other = COURSES.find((c) => c.id !== course)!;
-  const name = course === "en" ? "Tiếng Anh" : "Tiếng Trung";
+  // the switch goes round the courses
+  const other = COURSES[(COURSES.findIndex((c) => c.id === course) + 1) % COURSES.length];
+  const name = COURSES.find((c) => c.id === course)!.label;
   return (
     <div
       className="mx-auto flex min-h-[100dvh] max-w-md flex-col px-4 pb-6 pt-4"
@@ -77,7 +78,7 @@ export default function GameScreen({ onClose }: { onClose: () => void }) {
           onClick={() => setCourse(other.id)}
           data-testid="game-switch"
         >
-          Chơi {other.id === "en" ? "tiếng Anh" : "tiếng Trung"}
+          Chơi {other.label.toLowerCase()}
         </button>
       </div>
       <DataGate units={scope.units}>
@@ -263,7 +264,7 @@ function Round({
         data-match={q!.match}
       >
         <p
-          className={`break-words font-black text-ink-700 ${course === "en" ? "text-4xl" : "font-han text-6xl"}`}
+          className={`break-words font-black text-ink-700 ${course === "en" ? "text-4xl" : course === "ko" ? "font-han text-5xl" : "font-han text-6xl"}`}
           data-testid="game-word"
         >
           {q!.word.hanzi}

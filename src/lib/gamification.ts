@@ -1,5 +1,5 @@
 import type { Progress } from '../types';
-import { CORE_LESSONS, isEnglish, unitLevel } from '../data';
+import { CORE_LESSONS, getCourse, langName, unitLevel } from '../data';
 import { countByStatus } from './srs';
 import { dateKey, addDays } from './date';
 
@@ -71,10 +71,10 @@ const levelDone = (p: Progress, level: number) => {
 
 /** Badges of the active course. Each course keeps its own set of unlocked badges. */
 export function achievements(): Achievement[] {
-  if (isEnglish())
+  if (getCourse() !== 'zh')
     return BASE_ACHIEVEMENTS.map((a) =>
       a.id === 'course'
-        ? { ...a, title: 'Tốt nghiệp tiếng Anh', desc: 'Hoàn thành tất cả bài học tiếng Anh', check: (p: Progress) => coreDone(p) >= CORE_LESSONS.length }
+        ? { ...a, title: `Tốt nghiệp ${langName()}`, desc: `Hoàn thành tất cả bài học ${langName()}`, check: (p: Progress) => coreDone(p) >= CORE_LESSONS.length }
         : a,
     );
   const i = BASE_ACHIEVEMENTS.findIndex((a) => a.id === 'course') + 1;

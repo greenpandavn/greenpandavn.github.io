@@ -1,0 +1,427 @@
+# Khóa tiếng Nhật (JLPT N5–N4). Định dạng: xem scripts/build-data.mjs.
+# Từ hoặc cụm có Kanji viết kèm cách đọc: 学校:がっこう. Romaji được tạo tự động từ Kana.
+%1|1|Phần 1: Làm quen|Chào hỏi, giới thiệu, số đếm, gia đình, con người|leaf
+@ja101|Chào hỏi|Xin chào, cảm ơn, xin lỗi|挨
+こんにちは|xin chào (ban ngày)|こんにちは 、 田中:たなか さん 。|Xin chào anh Tanaka.
+おはよう|chào buổi sáng|先生:せんせい 、 おはよう ございます 。|Em chào thầy buổi sáng ạ.
+こんばんは|chào buổi tối|こんばんは 、 今日:きょう は 寒い:さむい です ね 。|Chào buổi tối, hôm nay lạnh nhỉ.
+さようなら|tạm biệt|さようなら 、 また 明日:あした 。|Tạm biệt, mai gặp lại.
+ありがとう|cảm ơn|手伝って:てつだって くれて ありがとう 。|Cảm ơn vì đã giúp tôi.
+すみません|xin lỗi; làm ơn cho hỏi|すみません 、 駅:えき は どこ です か 。|Xin lỗi, nhà ga ở đâu ạ?
+はい|vâng, có|はい 、 私:わたし は 学生:がくせい です 。|Vâng, tôi là học sinh.
+いいえ|không|いいえ 、 私:わたし は 医者:いしゃ では ありません 。|Không, tôi không phải là bác sĩ.
+お願い:おねがい|sự nhờ vả, làm ơn|コーヒー を お願い:おねがい します 。|Làm ơn cho tôi cà phê.
+どうぞ|xin mời|どうぞ 、 こちら に 座って:すわって ください 。|Xin mời ngồi ở đây.
+元気:げんき|khỏe mạnh|お 元気:げんき です か 。|Bạn có khỏe không?
+大丈夫:だいじょうぶ|ổn, không sao|私:わたし は 大丈夫:だいじょうぶ です 。|Tôi không sao.
+
+@ja102|Giới thiệu bản thân|Tôi, bạn, tên, quốc tịch|私
+私:わたし|tôi|私:わたし は ベトナム人:べとなむじん です 。|Tôi là người Việt Nam.
+名前:なまえ|tên|私:わたし の 名前:なまえ は ラン です 。|Tên tôi là Lan.
+人:ひと|người|あの 人:ひと は 私:わたし の 友達:ともだち です 。|Người kia là bạn tôi.
+友達:ともだち|bạn bè|日本人:にほんじん の 友達:ともだち が います 。|Tôi có bạn người Nhật.
+日本:にほん|Nhật Bản|来年:らいねん 日本:にほん へ 行きたい:いきたい です 。|Năm sau tôi muốn đi Nhật Bản.
+国:くに|đất nước|お 国:くに は どちら です か 。|Bạn đến từ nước nào?
+学生:がくせい|học sinh, sinh viên|弟:おとうと は 大学:だいがく の 学生:がくせい です 。|Em trai tôi là sinh viên đại học.
+先生:せんせい|giáo viên|先生:せんせい は 教室:きょうしつ に います 。|Thầy giáo đang ở trong lớp.
+会社員:かいしゃいん|nhân viên công ty|父:ちち は 会社員:かいしゃいん です 。|Bố tôi là nhân viên công ty.
+誰:だれ|ai|あの 人:ひと は 誰:だれ です か 。|Người kia là ai?
+何:なに|cái gì|今:いま 何:なに を して います か 。|Bây giờ bạn đang làm gì?
+日本語:にほんご|tiếng Nhật|毎日:まいにち 日本語:にほんご を 勉強します:べんきょうします 。|Tôi học tiếng Nhật mỗi ngày.
+
+@ja103|Số đếm|Một đến mười, trăm, nghìn|一
+一:いち|một|一:いち から 十:じゅう まで 数えます:かぞえます 。|Tôi đếm từ một đến mười.
+二:に|hai|教室:きょうしつ は 二:に 階:かい に あります 。|Phòng học ở tầng hai.
+三:さん|ba|三:さん 分:ぷん 待って:まって ください 。|Xin hãy chờ ba phút.
+四:よん|bốn|家族:かぞく は 四:よん 人:にん です 。|Gia đình tôi có bốn người.
+五:ご|năm|りんご を 五:ご 個:こ 買いました:かいました 。|Tôi đã mua năm quả táo.
+六:ろく|sáu|毎朝:まいあさ 六:ろく 時:じ に 起きます:おきます 。|Mỗi sáng tôi dậy lúc sáu giờ.
+七:なな|bảy|七:なな 時:じ に 晩ご飯:ばんごはん を 食べます:たべます 。|Tôi ăn tối lúc bảy giờ.
+八:はち|tám|授業:じゅぎょう は 八:はち 時:じ に 始まります:はじまります 。|Tiết học bắt đầu lúc tám giờ.
+九:きゅう|chín|店:みせ は 九:きゅう 時:じ に 開きます:あきます 。|Cửa hàng mở cửa lúc chín giờ.
+十:じゅう|mười|バス は 十:じゅう 分:ぷん 後:ご に 来ます:きます 。|Xe buýt sẽ đến sau mười phút.
+百:ひゃく|một trăm|この 本:ほん は 百:ひゃく ページ あります 。|Quyển sách này có một trăm trang.
+千:せん|một nghìn|この ペン は 千:せん 円:えん です 。|Cái bút này giá một nghìn yên.
+
+@ja104|Gia đình|Bố mẹ, anh chị em, ông bà|家
+家族:かぞく|gia đình|家族:かぞく は 東京:とうきょう に 住んで:すんで います 。|Gia đình tôi sống ở Tokyo.
+父:ちち|bố (của mình)|父:ちち は 毎朝:まいあさ 新聞:しんぶん を 読みます:よみます 。|Bố tôi đọc báo mỗi sáng.
+母:はは|mẹ (của mình)|母:はは は 料理:りょうり が 上手:じょうず です 。|Mẹ tôi nấu ăn giỏi.
+兄:あに|anh trai (của mình)|兄:あに は 私:わたし より 背:せ が 高い:たかい です 。|Anh trai tôi cao hơn tôi.
+姉:あね|chị gái (của mình)|姉:あね は 銀行:ぎんこう で 働いて:はたらいて います 。|Chị gái tôi làm việc ở ngân hàng.
+弟:おとうと|em trai|弟:おとうと は サッカー が 好き:すき です 。|Em trai tôi thích bóng đá.
+妹:いもうと|em gái|妹:いもうと は まだ 中学生:ちゅうがくせい です 。|Em gái tôi vẫn là học sinh cấp hai.
+両親:りょうしん|bố mẹ|両親:りょうしん は 田舎:いなか に 住んで:すんで います 。|Bố mẹ tôi sống ở quê.
+祖父:そふ|ông (của mình)|祖父:そふ は 毎朝:まいあさ 散歩します:さんぽします 。|Ông tôi đi dạo mỗi sáng.
+祖母:そぼ|bà (của mình)|祖母:そぼ は 昔:むかし の 話:はなし を よく します 。|Bà tôi hay kể chuyện ngày xưa.
+子供:こども|trẻ con, con cái|子供:こども が 公園:こうえん で 遊んで:あそんで います 。|Trẻ con đang chơi trong công viên.
+夫:おっと|chồng (của mình)|夫:おっと は 料理:りょうり が 好き:すき です 。|Chồng tôi thích nấu ăn.
+
+@ja105|Con người|Nam, nữ, nghề nghiệp|男
+男:おとこ|đàn ông, con trai|あの 男:おとこ の 人:ひと は 兄:あに です 。|Người đàn ông kia là anh tôi.
+女:おんな|phụ nữ, con gái|その 女:おんな の 人:ひと は 歌:うた が 上手:じょうず です 。|Người phụ nữ đó hát hay.
+医者:いしゃ|bác sĩ|医者:いしゃ に 薬:くすり を もらいました 。|Tôi đã nhận thuốc từ bác sĩ.
+警官:けいかん|cảnh sát|警官:けいかん が 道:みち を 教えて:おしえて くれました 。|Cảnh sát đã chỉ đường cho tôi.
+歌手:かしゅ|ca sĩ|私:わたし は その 歌手:かしゅ が 好き:すき です 。|Tôi thích ca sĩ đó.
+店員:てんいん|nhân viên cửa hàng|店員:てんいん は とても 親切:しんせつ でした 。|Nhân viên cửa hàng rất thân thiện.
+客:きゃく|khách|店:みせ に 客:きゃく が たくさん います 。|Trong cửa hàng có nhiều khách.
+大人:おとな|người lớn|大人:おとな の 切符:きっぷ は 高い:たかい です 。|Vé người lớn thì đắt.
+赤ちゃん:あかちゃん|em bé|赤ちゃん:あかちゃん が 部屋:へや で 寝て:ねて います 。|Em bé đang ngủ trong phòng.
+妻:つま|vợ (của mình)|妻:つま と 一緒:いっしょ に 買い物:かいもの に 行きます:いきます 。|Tôi đi mua sắm cùng vợ.
+皆:みんな|mọi người|皆:みんな で 写真:しゃしん を 撮りました:とりました 。|Mọi người đã cùng chụp ảnh.
+自分:じぶん|bản thân|自分:じぶん の 部屋:へや を 掃除します:そうじします 。|Tôi dọn phòng của mình.
+
+%2|1|Phần 2: Cuộc sống hằng ngày|Ăn uống, thời gian, nhà cửa, trường học, hoạt động|sky
+@ja106|Đồ ăn|Cơm, thịt, cá, rau, trái cây|食
+ご飯:ごはん|cơm; bữa ăn|朝:あさ は ご飯:ごはん を 食べます:たべます 。|Buổi sáng tôi ăn cơm.
+パン|bánh mì|朝:あさ は パン と 牛乳:ぎゅうにゅう です 。|Buổi sáng tôi ăn bánh mì và uống sữa.
+肉:にく|thịt|私:わたし は 肉:にく が あまり 好き:すき では ありません 。|Tôi không thích thịt lắm.
+魚:さかな|cá|母:はは が 魚:さかな を 焼いて:やいて います 。|Mẹ đang nướng cá.
+野菜:やさい|rau|野菜:やさい を たくさん 食べて:たべて ください 。|Hãy ăn nhiều rau.
+果物:くだもの|trái cây|市場:いちば で 果物:くだもの を 買いました:かいました 。|Tôi đã mua trái cây ở chợ.
+卵:たまご|trứng|冷蔵庫:れいぞうこ に 卵:たまご が ありません 。|Trong tủ lạnh không có trứng.
+りんご|quả táo|この りんご は とても 甘い:あまい です 。|Quả táo này rất ngọt.
+料理:りょうり|món ăn; việc nấu ăn|日本:にほん の 料理:りょうり は おいしい です 。|Món ăn Nhật Bản ngon.
+寿司:すし|sushi|昨日:きのう 友達:ともだち と 寿司:すし を 食べました:たべました 。|Hôm qua tôi đã ăn sushi với bạn.
+塩:しお|muối|スープ に 塩:しお を 少し:すこし 入れます:いれます 。|Tôi cho một chút muối vào súp.
+砂糖:さとう|đường|コーヒー に 砂糖:さとう を 入れません:いれません 。|Tôi không cho đường vào cà phê.
+
+@ja107|Đồ uống và bữa ăn|Nước, trà, sáng trưa tối|水
+水:みず|nước|水:みず を 一杯:いっぱい ください 。|Cho tôi một cốc nước.
+お茶:おちゃ|trà|食事:しょくじ の 後:あと で お茶:おちゃ を 飲みます:のみます 。|Sau bữa ăn tôi uống trà.
+牛乳:ぎゅうにゅう|sữa bò|子供:こども は 毎日:まいにち 牛乳:ぎゅうにゅう を 飲みます:のみます 。|Trẻ con uống sữa mỗi ngày.
+コーヒー|cà phê|毎朝:まいあさ コーヒー を 飲みます:のみます 。|Mỗi sáng tôi uống cà phê.
+ジュース|nước ép|オレンジ の ジュース が 好き:すき です か 。|Bạn có thích nước cam không?
+朝ご飯:あさごはん|bữa sáng|今朝:けさ は 朝ご飯:あさごはん を 食べません:たべません でした 。|Sáng nay tôi đã không ăn sáng.
+昼ご飯:ひるごはん|bữa trưa|友達:ともだち と 昼ご飯:ひるごはん を 食べました:たべました 。|Tôi đã ăn trưa với bạn.
+晩ご飯:ばんごはん|bữa tối|晩ご飯:ばんごはん は 家族:かぞく と 食べます:たべます 。|Tôi ăn tối cùng gia đình.
+食べる:たべる|ăn|私達:わたしたち は レストラン で 食べる:たべる つもり です 。|Chúng tôi định ăn ở nhà hàng.
+飲む:のむ|uống|運動:うんどう の 後:あと で 水:みず を 飲む:のむ 。|Sau khi tập thể dục tôi uống nước.
+おいしい|ngon|この 店:みせ の ラーメン は おいしい です 。|Mì ramen ở quán này ngon.
+甘い:あまい|ngọt|この ケーキ は 少し:すこし 甘い:あまい です 。|Cái bánh này hơi ngọt.
+
+@ja108|Thời gian|Hôm nay, ngày mai, giờ, tuần|時
+今日:きょう|hôm nay|今日:きょう は 天気:てんき が いい です 。|Hôm nay thời tiết đẹp.
+明日:あした|ngày mai|明日:あした 友達:ともだち に 会います:あいます 。|Ngày mai tôi sẽ gặp bạn.
+昨日:きのう|hôm qua|昨日:きのう 映画:えいが を 見ました:みました 。|Hôm qua tôi đã xem phim.
+今:いま|bây giờ|今:いま は 午後:ごご 三時:さんじ です 。|Bây giờ là ba giờ chiều.
+時間:じかん|thời gian|今日:きょう は 時間:じかん が ありません 。|Hôm nay tôi không có thời gian.
+毎日:まいにち|mỗi ngày|毎日:まいにち 七時:しちじ に 起きます:おきます 。|Mỗi ngày tôi dậy lúc bảy giờ.
+週末:しゅうまつ|cuối tuần|週末:しゅうまつ は 家:いえ で 休みます:やすみます 。|Cuối tuần tôi nghỉ ở nhà.
+月曜日:げつようび|thứ Hai|月曜日:げつようび に 日本語:にほんご の 授業:じゅぎょう が あります 。|Thứ Hai tôi có tiết tiếng Nhật.
+誕生日:たんじょうび|sinh nhật|私:わたし の 誕生日:たんじょうび は 来月:らいげつ です 。|Sinh nhật tôi vào tháng sau.
+今年:ことし|năm nay|今年:ことし 日本:にほん へ 行きます:いきます 。|Năm nay tôi sẽ đi Nhật Bản.
+朝:あさ|buổi sáng|朝:あさ 早く:はやく 起きます:おきます 。|Tôi dậy sớm vào buổi sáng.
+夜:よる|buổi tối, ban đêm|夜:よる は テレビ を 見ます:みます 。|Buổi tối tôi xem ti vi.
+
+@ja109|Nhà cửa|Nhà, phòng, đồ đạc|部
+家:いえ|nhà|私:わたし の 家:いえ は 駅:えき から 近い:ちかい です 。|Nhà tôi gần nhà ga.
+部屋:へや|phòng|私:わたし の 部屋:へや は 狭い:せまい です が きれい です 。|Phòng tôi chật nhưng sạch.
+台所:だいどころ|bếp|母:はは は 台所:だいどころ で 料理:りょうり を します 。|Mẹ nấu ăn trong bếp.
+お手洗い:おてあらい|nhà vệ sinh|お手洗い:おてあらい は どこ です か 。|Nhà vệ sinh ở đâu ạ?
+窓:まど|cửa sổ|暑い:あつい です から 窓:まど を 開けました:あけました 。|Vì nóng nên tôi đã mở cửa sổ.
+机:つくえ|bàn học|机:つくえ の 上:うえ に 本:ほん が あります 。|Trên bàn có sách.
+椅子:いす|ghế|この 椅子:いす は とても 楽:らく です 。|Cái ghế này rất thoải mái.
+冷蔵庫:れいぞうこ|tủ lạnh|牛乳:ぎゅうにゅう は 冷蔵庫:れいぞうこ の 中:なか に あります 。|Sữa ở trong tủ lạnh.
+テレビ|ti vi|夜:よる は 家族:かぞく と テレビ を 見ます:みます 。|Buổi tối tôi xem ti vi cùng gia đình.
+鍵:かぎ|chìa khóa|家:いえ の 鍵:かぎ を なくしました 。|Tôi đã làm mất chìa khóa nhà.
+電気:でんき|điện; đèn điện|出かける:でかける 時:とき は 電気:でんき を 消します:けします 。|Khi ra ngoài tôi tắt đèn.
+庭:にわ|sân vườn|庭:にわ に きれい な 花:はな が あります 。|Trong vườn có hoa đẹp.
+
+@ja110|Trường học và hoạt động|Học, đọc, viết, đi, đến|学
+学校:がっこう|trường học|バス で 学校:がっこう へ 行きます:いきます 。|Tôi đi đến trường bằng xe buýt.
+教室:きょうしつ|phòng học|教室:きょうしつ に 学生:がくせい が たくさん います 。|Trong phòng học có nhiều học sinh.
+本:ほん|sách|図書館:としょかん で 本:ほん を 借りました:かりました 。|Tôi đã mượn sách ở thư viện.
+宿題:しゅくだい|bài tập về nhà|夜:よる 宿題:しゅくだい を します 。|Buổi tối tôi làm bài tập.
+試験:しけん|kỳ thi|来週:らいしゅう 日本語:にほんご の 試験:しけん が あります 。|Tuần sau có kỳ thi tiếng Nhật.
+勉強:べんきょう|việc học|図書館:としょかん で 勉強:べんきょう を します 。|Tôi học ở thư viện.
+読む:よむ|đọc|父:ちち は 毎朝:まいあさ 新聞:しんぶん を 読む:よむ 。|Bố đọc báo mỗi sáng.
+書く:かく|viết|友達:ともだち に 手紙:てがみ を 書く:かく 。|Tôi viết thư cho bạn.
+行く:いく|đi|週末:しゅうまつ 友達:ともだち と 海:うみ へ 行く:いく 。|Cuối tuần tôi đi biển với bạn.
+来る:くる|đến|友達:ともだち が 家:いえ に 来る:くる 。|Bạn tôi đến nhà.
+寝る:ねる|ngủ|私:わたし は いつも 十一時:じゅういちじ に 寝る:ねる 。|Tôi luôn ngủ lúc mười một giờ.
+起きる:おきる|thức dậy|毎朝:まいあさ 六時:ろくじ に 起きる:おきる 。|Mỗi sáng tôi dậy lúc sáu giờ.
+
+%3|1|Phần 3: Thế giới quanh ta|Cơ thể, quần áo, thời tiết, nơi chốn, đi lại|grape
+@ja111|Cơ thể|Đầu, mắt, tay, chân|体
+体:からだ|cơ thể|運動:うんどう は 体:からだ に いい です 。|Vận động tốt cho cơ thể.
+頭:あたま|đầu|昨日:きのう から 頭:あたま が 痛い:いたい です 。|Tôi bị đau đầu từ hôm qua.
+顔:かお|khuôn mặt|朝:あさ 顔:かお を 洗います:あらいます 。|Buổi sáng tôi rửa mặt.
+目:め|mắt|その 子:こ は 目:め が 大きい:おおきい です 。|Đứa trẻ đó có đôi mắt to.
+耳:みみ|tai|祖母:そぼ は 耳:みみ が 遠い:とおい です 。|Bà tôi nặng tai.
+口:くち|miệng|口:くち を 大きく:おおきく 開けて:あけて ください 。|Hãy mở to miệng ra.
+手:て|tay|食事:しょくじ の 前:まえ に 手:て を 洗います:あらいます 。|Tôi rửa tay trước bữa ăn.
+足:あし|chân|たくさん 歩いて:あるいて 足:あし が 痛い:いたい です 。|Đi bộ nhiều nên tôi đau chân.
+歯:は|răng|寝る:ねる 前:まえ に 歯:は を 磨きます:みがきます 。|Tôi đánh răng trước khi ngủ.
+お腹:おなか|bụng|食べすぎて:たべすぎて お腹:おなか が 痛い:いたい です 。|Ăn nhiều quá nên tôi đau bụng.
+髪:かみ|tóc|姉:あね は 髪:かみ が 長い:ながい です 。|Chị tôi tóc dài.
+背:せ|chiều cao, lưng|弟:おとうと は 背:せ が 高い:たかい です 。|Em trai tôi cao.
+
+@ja112|Quần áo và màu sắc|Áo, quần, giày, màu|服
+服:ふく|quần áo|デパート で 新しい:あたらしい 服:ふく を 買いました:かいました 。|Tôi đã mua quần áo mới ở trung tâm thương mại.
+シャツ|áo sơ mi|白い:しろい シャツ を 着て:きて います 。|Tôi đang mặc áo sơ mi trắng.
+ズボン|quần dài|この ズボン は 少し:すこし 長い:ながい です 。|Cái quần này hơi dài.
+靴:くつ|giày|新しい:あたらしい 靴:くつ は とても 楽:らく です 。|Đôi giày mới rất thoải mái.
+帽子:ぼうし|mũ|暑い:あつい です から 帽子:ぼうし を かぶります 。|Vì nóng nên tôi đội mũ.
+かばん|cặp, túi xách|私:わたし の かばん は 椅子:いす の 上:うえ に あります 。|Túi của tôi ở trên ghế.
+眼鏡:めがね|kính mắt|祖父:そふ は 眼鏡:めがね を 探して:さがして います 。|Ông đang tìm kính.
+着る:きる|mặc|寒い:さむい 日:ひ は コート を 着る:きる 。|Ngày lạnh tôi mặc áo khoác.
+色:いろ|màu sắc|どんな 色:いろ が 一番:いちばん 好き:すき です か 。|Bạn thích màu gì nhất?
+赤:あか|màu đỏ|赤:あか の かばん を 買いました:かいました 。|Tôi đã mua cái túi màu đỏ.
+青:あお|màu xanh dương|空:そら の 色:いろ は 青:あお です 。|Bầu trời có màu xanh.
+白:しろ|màu trắng|白:しろ の シャツ が よく 似合います:にあいます 。|Áo sơ mi màu trắng rất hợp.
+
+@ja113|Thời tiết và thiên nhiên|Mưa, nắng, bốn mùa|天
+天気:てんき|thời tiết|今日:きょう は 天気:てんき が 悪い:わるい です 。|Hôm nay thời tiết xấu.
+雨:あめ|mưa|外:そと は 雨:あめ が 降って:ふって います 。|Bên ngoài trời đang mưa.
+雪:ゆき|tuyết|冬:ふゆ は 雪:ゆき が たくさん 降ります:ふります 。|Mùa đông tuyết rơi nhiều.
+風:かぜ|gió|今日:きょう は 風:かぜ が 強い:つよい です 。|Hôm nay gió mạnh.
+空:そら|bầu trời|秋:あき の 空:そら は とても きれい です 。|Bầu trời mùa thu rất đẹp.
+春:はる|mùa xuân|春:はる は 花:はな が たくさん 咲きます:さきます 。|Mùa xuân hoa nở nhiều.
+夏:なつ|mùa hè|日本:にほん の 夏:なつ は とても 暑い:あつい です 。|Mùa hè ở Nhật rất nóng.
+秋:あき|mùa thu|私:わたし は 秋:あき が 一番:いちばん 好き:すき です 。|Tôi thích mùa thu nhất.
+冬:ふゆ|mùa đông|冬:ふゆ は スキー に 行きます:いきます 。|Mùa đông tôi đi trượt tuyết.
+暑い:あつい|nóng (thời tiết)|今日:きょう は 昨日:きのう より 暑い:あつい です 。|Hôm nay nóng hơn hôm qua.
+寒い:さむい|lạnh (thời tiết)|外:そと は 寒い:さむい です から コート を 着ます:きます 。|Bên ngoài lạnh nên tôi mặc áo khoác.
+山:やま|núi|週末:しゅうまつ 父:ちち と 山:やま に 登ります:のぼります 。|Cuối tuần tôi leo núi với bố.
+
+@ja114|Nơi chốn|Cửa hàng, bệnh viện, ngân hàng, ở đâu|所
+店:みせ|cửa hàng|この 店:みせ は 九時:くじ に 開きます:あきます 。|Cửa hàng này mở cửa lúc chín giờ.
+病院:びょういん|bệnh viện|熱:ねつ が あります から 病院:びょういん へ 行きます:いきます 。|Vì bị sốt nên tôi đi bệnh viện.
+銀行:ぎんこう|ngân hàng|銀行:ぎんこう は 郵便局:ゆうびんきょく の 隣:となり に あります 。|Ngân hàng ở cạnh bưu điện.
+食堂:しょくどう|nhà ăn, quán ăn|学校:がっこう の 食堂:しょくどう は 安い:やすい です 。|Nhà ăn của trường rẻ.
+公園:こうえん|công viên|毎朝:まいあさ 公園:こうえん を 散歩します:さんぽします 。|Mỗi sáng tôi đi dạo ở công viên.
+図書館:としょかん|thư viện|図書館:としょかん は 静か:しずか です 。|Thư viện yên tĩnh.
+会社:かいしゃ|công ty|会社:かいしゃ は 家:いえ から 少し:すこし 遠い:とおい です 。|Công ty hơi xa nhà.
+郵便局:ゆうびんきょく|bưu điện|郵便局:ゆうびんきょく で 切手:きって を 買います:かいます 。|Tôi mua tem ở bưu điện.
+どこ|ở đâu|今:いま どこ へ 行きます:いきます か 。|Bây giờ bạn đi đâu?
+ここ|ở đây|ここ で 写真:しゃしん を 撮って:とって も いい です か 。|Tôi chụp ảnh ở đây được không?
+前:まえ|phía trước|学校:がっこう の 前:まえ に 本屋:ほんや が あります 。|Trước trường có hiệu sách.
+隣:となり|bên cạnh|私:わたし の 隣:となり に 座って:すわって ください 。|Hãy ngồi cạnh tôi.
+
+@ja115|Đi lại|Xe buýt, tàu điện, vé, đường|道
+バス|xe buýt|私:わたし は 毎日:まいにち バス に 乗ります:のります 。|Tôi đi xe buýt mỗi ngày.
+電車:でんしゃ|tàu điện|電車:でんしゃ は バス より 速い:はやい です 。|Tàu điện nhanh hơn xe buýt.
+地下鉄:ちかてつ|tàu điện ngầm|地下鉄:ちかてつ で 会社:かいしゃ へ 行きます:いきます 。|Tôi đi làm bằng tàu điện ngầm.
+タクシー|taxi|遅い:おそい です から タクシー に 乗りました:のりました 。|Vì muộn nên tôi đã đi taxi.
+飛行機:ひこうき|máy bay|飛行機:ひこうき の 切符:きっぷ を 買いました:かいました 。|Tôi đã mua vé máy bay.
+自転車:じてんしゃ|xe đạp|弟:おとうと は 自転車:じてんしゃ で 学校:がっこう へ 行きます:いきます 。|Em trai tôi đi học bằng xe đạp.
+車:くるま|xe ô tô|父:ちち は 新しい:あたらしい 車:くるま を 買いました:かいました 。|Bố tôi đã mua xe ô tô mới.
+道:みち|con đường|この 道:みち を まっすぐ 行って:いって ください 。|Hãy đi thẳng con đường này.
+駅:えき|nhà ga|東京:とうきょう 駅:えき で 友達:ともだち に 会いました:あいました 。|Tôi đã gặp bạn ở ga Tokyo.
+空港:くうこう|sân bay|空港:くうこう まで 一時間:いちじかん かかります 。|Đến sân bay mất một tiếng.
+切符:きっぷ|vé|映画:えいが の 切符:きっぷ を 二枚:にまい 買いました:かいました 。|Tôi đã mua hai vé xem phim.
+歩く:あるく|đi bộ|天気:てんき が いい です から 駅:えき まで 歩く:あるく 。|Vì thời tiết đẹp nên tôi đi bộ đến ga.
+
+%21|2|Phần 1: Con người và đời sống|Cảm xúc, sở thích, sức khỏe, mua sắm, công việc|leaf
+@ja201|Cảm xúc và tính cách|Vui, buồn, lo lắng, hiền lành|気
+気持ち:きもち|cảm giác, tâm trạng|今日:きょう は 気持ち:きもち が いい です 。|Hôm nay tôi thấy dễ chịu.
+嬉しい:うれしい|vui mừng|試験:しけん に 合格して:ごうかくして 嬉しい:うれしい です 。|Tôi vui vì đã thi đỗ.
+悲しい:かなしい|buồn|映画:えいが が 悲しくて:かなしくて 泣きました:なきました 。|Bộ phim buồn nên tôi đã khóc.
+怒る:おこる|tức giận|弟:おとうと が 嘘:うそ を ついて 父:ちち が 怒る:おこる 。|Em trai nói dối nên bố tức giận.
+心配:しんぱい|sự lo lắng|両親:りょうしん は 私:わたし の 健康:けんこう を 心配:しんぱい して います 。|Bố mẹ lo lắng cho sức khỏe của tôi.
+寂しい:さびしい|cô đơn, buồn vắng|一人:ひとり で 住んで:すんで いて 寂しい:さびしい です 。|Sống một mình nên tôi thấy cô đơn.
+疲れる:つかれる|mệt|毎日:まいにち 残業:ざんぎょう で 疲れる:つかれる 。|Ngày nào cũng làm thêm giờ nên tôi mệt.
+優しい:やさしい|hiền, dịu dàng|あの 先生:せんせい は とても 優しい:やさしい です 。|Thầy giáo đó rất hiền.
+真面目:まじめ|nghiêm túc, chăm chỉ|彼:かれ は 真面目:まじめ な 学生:がくせい です 。|Anh ấy là một sinh viên nghiêm túc.
+恥ずかしい:はずかしい|xấu hổ, ngượng|皆:みんな の 前:まえ で 歌う:うたう の は 恥ずかしい:はずかしい です 。|Hát trước mọi người thật ngượng.
+安心:あんしん|sự yên tâm|無事:ぶじ に 着いた:ついた と 聞いて:きいて 安心:あんしん しました 。|Nghe tin đã đến nơi an toàn tôi thấy yên tâm.
+性格:せいかく|tính cách|姉:あね と 私:わたし は 性格:せいかく が 違います:ちがいます 。|Chị và tôi tính cách khác nhau.
+
+@ja202|Sở thích|Âm nhạc, phim, thể thao, du lịch|趣
+趣味:しゅみ|sở thích|私:わたし の 趣味:しゅみ は 写真:しゃしん を 撮る:とる こと です 。|Sở thích của tôi là chụp ảnh.
+音楽:おんがく|âm nhạc|静か:しずか な 音楽:おんがく を よく 聞きます:ききます 。|Tôi hay nghe nhạc nhẹ.
+映画:えいが|phim|週末:しゅうまつ 友達:ともだち と 映画:えいが を 見ます:みます 。|Cuối tuần tôi xem phim với bạn.
+歌:うた|bài hát|日本:にほん の 歌:うた を 歌います:うたいます 。|Tôi hát bài hát Nhật.
+運動:うんどう|vận động, thể thao|健康:けんこう の ため に 毎日:まいにち 運動:うんどう します 。|Tôi vận động mỗi ngày vì sức khỏe.
+水泳:すいえい|bơi lội|夏休み:なつやすみ に 水泳:すいえい を 習いました:ならいました 。|Kỳ nghỉ hè tôi đã học bơi.
+旅行:りょこう|du lịch|来年:らいねん 北海道:ほっかいどう へ 旅行:りょこう する つもり です 。|Năm sau tôi định đi du lịch Hokkaido.
+写真:しゃしん|bức ảnh|海:うみ で 写真:しゃしん を たくさん 撮りました:とりました 。|Tôi đã chụp nhiều ảnh ở biển.
+絵:え|bức tranh|妹:いもうと は 絵:え を 描く:かく の が 上手:じょうず です 。|Em gái tôi vẽ tranh giỏi.
+釣り:つり|câu cá|父:ちち は 日曜日:にちようび に 釣り:つり に 行きます:いきます 。|Chủ nhật bố tôi đi câu cá.
+踊る:おどる|nhảy múa|祭り:まつり で 皆:みんな と 踊る:おどる 。|Tôi nhảy múa cùng mọi người ở lễ hội.
+楽しい:たのしい|vui, thú vị|昨日:きのう の パーティー は とても 楽しかった:たのしかった です 。|Bữa tiệc hôm qua rất vui.
+
+@ja203|Sức khỏe|Ốm, thuốc, bệnh viện|薬
+健康:けんこう|sức khỏe|健康:けんこう は 何:なに より 大切:たいせつ です 。|Sức khỏe quan trọng hơn mọi thứ.
+風邪:かぜ|cảm cúm|寒くて:さむくて 風邪:かぜ を 引きました:ひきました 。|Trời lạnh nên tôi bị cảm.
+薬:くすり|thuốc|食事:しょくじ の 後:あと で この 薬:くすり を 飲んで:のんで ください 。|Hãy uống thuốc này sau bữa ăn.
+熱:ねつ|sốt|子供:こども が 夜:よる に 熱:ねつ を 出しました:だしました 。|Đứa trẻ bị sốt vào ban đêm.
+咳:せき|ho|昨日:きのう から 咳:せき が 止まりません:とまりません 。|Từ hôm qua tôi ho không ngừng.
+痛い:いたい|đau|喉:のど が 痛い:いたい です から 話せません:はなせません 。|Tôi đau họng nên không nói được.
+治る:なおる|khỏi bệnh|薬:くすり を 飲んで:のんで 風邪:かぜ が 治る:なおる 。|Uống thuốc thì khỏi cảm.
+休む:やすむ|nghỉ ngơi|具合:ぐあい が 悪い:わるい 時:とき は 家:いえ で 休む:やすむ 。|Khi thấy không khỏe thì nghỉ ở nhà.
+喉:のど|họng|歌:うた を 歌いすぎて:うたいすぎて 喉:のど が 痛い:いたい です 。|Hát nhiều quá nên tôi đau họng.
+怪我:けが|vết thương, chấn thương|サッカー で 足:あし に 怪我:けが を しました 。|Tôi bị thương ở chân khi đá bóng.
+入院:にゅういん|sự nhập viện|祖父:そふ は 先週:せんしゅう から 入院:にゅういん して います 。|Ông tôi nằm viện từ tuần trước.
+看護師:かんごし|y tá|看護師:かんごし が 優しく:やさしく 説明:せつめい して くれました 。|Y tá đã giải thích nhẹ nhàng cho tôi.
+
+@ja204|Mua sắm|Giá, tiền, đắt rẻ, đổi trả|買
+お金:おかね|tiền|財布:さいふ に お金:おかね が 少し:すこし しか ありません 。|Trong ví chỉ có một ít tiền.
+値段:ねだん|giá cả|最近:さいきん 野菜:やさい の 値段:ねだん が 上がりました:あがりました 。|Gần đây giá rau đã tăng.
+財布:さいふ|ví tiền|電車:でんしゃ で 財布:さいふ を 落としました:おとしました 。|Tôi đã đánh rơi ví trên tàu điện.
+安い:やすい|rẻ|市場:いちば は デパート より ずっと 安い:やすい です 。|Chợ rẻ hơn trung tâm thương mại nhiều.
+高い:たかい|đắt; cao|この 靴:くつ は きれい です が 高い:たかい です 。|Đôi giày này đẹp nhưng đắt.
+買う:かう|mua|母:はは の 誕生日:たんじょうび に 花:はな を 買う:かう 。|Tôi mua hoa vào sinh nhật mẹ.
+売る:うる|bán|あの 店:みせ は 果物:くだもの を 売る:うる 。|Cửa hàng kia bán trái cây.
+贈り物:おくりもの|quà tặng|友達:ともだち に あげる 贈り物:おくりもの を 選んで:えらんで います 。|Tôi đang chọn quà tặng bạn.
+デパート|trung tâm thương mại|デパート で セール を して います 。|Trung tâm thương mại đang giảm giá.
+払う:はらう|trả tiền|カード で 払う:はらう こと が できます か 。|Tôi trả bằng thẻ được không?
+お釣り:おつり|tiền thừa|店員:てんいん から お釣り:おつり を もらいました 。|Tôi đã nhận tiền thừa từ nhân viên.
+買い物:かいもの|việc mua sắm|日曜日:にちようび に 家族:かぞく と 買い物:かいもの に 行きます:いきます 。|Chủ nhật tôi đi mua sắm với gia đình.
+
+@ja205|Công việc|Công ty, họp, bận rộn|仕
+仕事:しごと|công việc|新しい:あたらしい 仕事:しごと は 来週:らいしゅう から 始まります:はじまります 。|Công việc mới bắt đầu từ tuần sau.
+会議:かいぎ|cuộc họp|午後:ごご 二時:にじ から 会議:かいぎ が あります 。|Từ hai giờ chiều có cuộc họp.
+働く:はたらく|làm việc|兄:あに は 貿易:ぼうえき の 会社:かいしゃ で 働く:はたらく 。|Anh tôi làm việc ở công ty thương mại.
+忙しい:いそがしい|bận|最近:さいきん 仕事:しごと が 多くて:おおくて 忙しい:いそがしい です 。|Gần đây nhiều việc nên tôi bận.
+給料:きゅうりょう|tiền lương|今月:こんげつ の 給料:きゅうりょう を まだ もらって いません 。|Tôi chưa nhận lương tháng này.
+社長:しゃちょう|giám đốc|社長:しゃちょう は 今:いま 出張:しゅっちょう 中:ちゅう です 。|Giám đốc hiện đang đi công tác.
+同僚:どうりょう|đồng nghiệp|同僚:どうりょう と 一緒:いっしょ に 昼ご飯:ひるごはん を 食べます:たべます 。|Tôi ăn trưa cùng đồng nghiệp.
+残業:ざんぎょう|việc làm thêm giờ|今日:きょう は 残業:ざんぎょう が ありません 。|Hôm nay không phải làm thêm giờ.
+休み:やすみ|kỳ nghỉ, ngày nghỉ|来週:らいしゅう 三日間:みっかかん 休み:やすみ を 取ります:とります 。|Tuần sau tôi nghỉ ba ngày.
+書類:しょるい|giấy tờ, tài liệu|この 書類:しょるい に 名前:なまえ を 書いて:かいて ください 。|Xin hãy viết tên vào giấy tờ này.
+経験:けいけん|kinh nghiệm|外国:がいこく で 働いた:はたらいた 経験:けいけん が あります か 。|Bạn có kinh nghiệm làm việc ở nước ngoài không?
+辞める:やめる|nghỉ việc, từ bỏ|彼:かれ は 来月:らいげつ 会社:かいしゃ を 辞める:やめる 。|Tháng sau anh ấy nghỉ việc ở công ty.
+
+%22|2|Phần 2: Ra ngoài và giao tiếp|Du lịch, thành phố, liên lạc, học tập, sinh hoạt|sky
+@ja206|Du lịch|Khách sạn, hộ chiếu, đặt chỗ|旅
+ホテル|khách sạn|海:うみ が 見える:みえる ホテル を 予約:よやく しました 。|Tôi đã đặt khách sạn nhìn ra biển.
+予約:よやく|việc đặt trước|レストラン の 予約:よやく を お願い:おねがい します 。|Làm ơn cho tôi đặt bàn nhà hàng.
+出発:しゅっぱつ|sự khởi hành|電車:でんしゃ は 九時:くじ に 出発:しゅっぱつ します 。|Tàu khởi hành lúc chín giờ.
+到着:とうちゃく|sự đến nơi|飛行機:ひこうき は 一時間:いちじかん 遅れて:おくれて 到着:とうちゃく しました 。|Máy bay đã đến muộn một tiếng.
+荷物:にもつ|hành lý|荷物:にもつ が 多い:おおい です から タクシー を 呼びました:よびました 。|Nhiều hành lý nên tôi đã gọi taxi.
+地図:ちず|bản đồ|携帯:けいたい で 地図:ちず を 見て:みて 行きました:いきました 。|Tôi xem bản đồ trên điện thoại rồi đi.
+観光:かんこう|tham quan, du lịch|京都:きょうと は 観光:かんこう の 客:きゃく が 多い:おおい です 。|Kyoto có nhiều khách tham quan.
+外国:がいこく|nước ngoài|私:わたし は 外国:がいこく に 住んだ:すんだ こと が ありません 。|Tôi chưa từng sống ở nước ngoài.
+景色:けしき|phong cảnh|山:やま の 上:うえ から 見る:みる 景色:けしき は きれい です 。|Phong cảnh nhìn từ trên núi rất đẹp.
+泊まる:とまる|trọ lại, nghỉ lại|友達:ともだち の 家:いえ に 二日:ふつか 泊まる:とまる 。|Tôi nghỉ lại nhà bạn hai ngày.
+お土産:おみやげ|quà lưu niệm|家族:かぞく に お土産:おみやげ を 買いました:かいました 。|Tôi đã mua quà lưu niệm cho gia đình.
+案内:あんない|sự hướng dẫn|友達:ともだち が 町:まち を 案内:あんない して くれました 。|Bạn tôi đã dẫn tôi đi tham quan thị trấn.
+
+@ja207|Thành phố và chỉ đường|Ngã tư, đèn giao thông, rẽ|町
+町:まち|thị trấn, khu phố|この 町:まち は 静か:しずか で 住みやすい:すみやすい です 。|Thị trấn này yên tĩnh và dễ sống.
+田舎:いなか|nông thôn, quê|祖母:そぼ は 静か:しずか な 田舎:いなか に 住んで:すんで います 。|Bà tôi sống ở vùng quê yên tĩnh.
+建物:たてもの|tòa nhà|あの 高い:たかい 建物:たてもの は 私:わたし の 会社:かいしゃ です 。|Tòa nhà cao kia là công ty tôi.
+交差点:こうさてん|ngã tư|次:つぎ の 交差点:こうさてん を 左:ひだり に 曲がって:まがって ください 。|Hãy rẽ trái ở ngã tư tiếp theo.
+信号:しんごう|đèn giao thông|信号:しんごう が 赤:あか の 時:とき は 止まります:とまります 。|Khi đèn đỏ thì dừng lại.
+右:みぎ|bên phải|銀行:ぎんこう は 右:みぎ に あります 。|Ngân hàng ở bên phải.
+左:ひだり|bên trái|左:ひだり の 道:みち を 行く:いく と 公園:こうえん が あります 。|Đi đường bên trái sẽ có công viên.
+渡る:わたる|băng qua|道:みち を 渡る:わたる 時:とき は 気:き を つけて ください 。|Hãy cẩn thận khi băng qua đường.
+近い:ちかい|gần|駅:えき は 家:いえ から とても 近い:ちかい です 。|Nhà ga rất gần nhà tôi.
+遠い:とおい|xa|学校:がっこう が 遠い:とおい です から 早く:はやく 出ます:でます 。|Trường xa nên tôi đi sớm.
+橋:はし|cây cầu|この 橋:はし を 渡って:わたって まっすぐ 行きます:いきます 。|Qua cây cầu này rồi đi thẳng.
+角:かど|góc (đường)|あの 角:かど に コンビニ が あります 。|Ở góc đường kia có cửa hàng tiện lợi.
+
+@ja208|Liên lạc|Điện thoại, tin nhắn, internet|電
+電話:でんわ|điện thoại, cuộc gọi|母:はは に 毎日:まいにち 電話:でんわ を かけます 。|Tôi gọi điện cho mẹ mỗi ngày.
+携帯:けいたい|điện thoại di động|携帯:けいたい を 家:いえ に 忘れました:わすれました 。|Tôi để quên điện thoại ở nhà.
+番号:ばんごう|số|電話:でんわ の 番号:ばんごう を 教えて:おしえて ください 。|Xin hãy cho tôi biết số điện thoại.
+メール|thư điện tử, tin nhắn|着いたら:ついたら メール を 送って:おくって ください 。|Đến nơi thì hãy gửi tin nhắn cho tôi.
+手紙:てがみ|bức thư|国:くに の 友達:ともだち から 手紙:てがみ が 来ました:きました 。|Có thư từ người bạn ở quê gửi đến.
+連絡:れんらく|sự liên lạc|東京:とうきょう に 来たら:きたら 連絡:れんらく して ください 。|Đến Tokyo thì hãy liên lạc nhé.
+送る:おくる|gửi|両親:りょうしん に 荷物:にもつ を 送る:おくる 。|Tôi gửi bưu kiện cho bố mẹ.
+届く:とどく|được gửi đến|昨日:きのう 友達:ともだち から 荷物:にもつ が 届く:とどく 。|Hôm qua bưu kiện của bạn được gửi đến.
+話す:はなす|nói chuyện|もう 少し:すこし ゆっくり 話す:はなす 。|Nói chậm hơn một chút.
+聞く:きく|nghe; hỏi|分からない:わからない 時:とき は 先生:せんせい に 聞く:きく 。|Khi không hiểu thì hỏi thầy giáo.
+返事:へんじ|câu trả lời, hồi âm|メール の 返事:へんじ を まだ もらって いません 。|Tôi chưa nhận được hồi âm thư.
+伝える:つたえる|truyền đạt, nhắn lại|田中:たなか さん に よろしく と 伝える:つたえる 。|Nhắn lời hỏi thăm đến anh Tanaka.
+
+@ja209|Học tập|Đại học, chuyên ngành, luyện tập|習
+大学:だいがく|trường đại học|来年:らいねん 大学:だいがく に 入ります:はいります 。|Năm sau tôi vào đại học.
+専門:せんもん|chuyên ngành|私:わたし の 専門:せんもん は 日本語:にほんご の 教育:きょういく です 。|Chuyên ngành của tôi là giáo dục tiếng Nhật.
+授業:じゅぎょう|tiết học|午前:ごぜん の 授業:じゅぎょう は 九時:くじ に 始まります:はじまります 。|Tiết học buổi sáng bắt đầu lúc chín giờ.
+夏休み:なつやすみ|kỳ nghỉ hè|夏休み:なつやすみ に アルバイト を する つもり です 。|Kỳ nghỉ hè tôi định đi làm thêm.
+習う:ならう|học (từ ai đó)|最近:さいきん 日本:にほん の 料理:りょうり を 習う:ならう 。|Gần đây tôi học nấu món Nhật.
+教える:おしえる|dạy, chỉ bảo|母:はは は 小学校:しょうがっこう で 数学:すうがく を 教える:おしえる 。|Mẹ tôi dạy toán ở trường tiểu học.
+練習:れんしゅう|sự luyện tập|発音:はつおん を 毎日:まいにち 練習:れんしゅう します 。|Tôi luyện phát âm mỗi ngày.
+質問:しつもん|câu hỏi|分からない:わからない こと は 質問:しつもん して ください 。|Có gì không hiểu thì hãy hỏi.
+答え:こたえ|câu trả lời, đáp án|この 問題:もんだい の 答え:こたえ が 分かりません:わかりません 。|Tôi không biết đáp án của câu hỏi này.
+漢字:かんじ|chữ Hán (Kanji)|毎日:まいにち 漢字:かんじ を 十:じゅう 個:こ 覚えます:おぼえます 。|Mỗi ngày tôi học thuộc mười chữ Kanji.
+文法:ぶんぽう|ngữ pháp|日本語:にほんご の 文法:ぶんぽう は 少し:すこし 難しい:むずかしい です 。|Ngữ pháp tiếng Nhật hơi khó.
+卒業:そつぎょう|sự tốt nghiệp|兄:あに は 去年:きょねん 大学:だいがく を 卒業:そつぎょう しました 。|Anh tôi đã tốt nghiệp đại học năm ngoái.
+
+@ja210|Sinh hoạt hằng ngày|Tắm rửa, dọn dẹp, nấu ăn, gặp gỡ|生
+生活:せいかつ|cuộc sống, sinh hoạt|日本:にほん の 生活:せいかつ に 慣れました:なれました 。|Tôi đã quen với cuộc sống ở Nhật.
+洗う:あらう|rửa, giặt|家:いえ に 帰ったら:かえったら 手:て を 洗う:あらう 。|Về nhà thì rửa tay.
+掃除:そうじ|việc dọn dẹp|週末:しゅうまつ に 部屋:へや を 掃除:そうじ します 。|Cuối tuần tôi dọn phòng.
+洗濯:せんたく|việc giặt giũ|天気:てんき が いい です から 洗濯:せんたく を しました 。|Trời đẹp nên tôi đã giặt đồ.
+作る:つくる|làm, nấu|父:ちち は 週末:しゅうまつ に カレー を 作る:つくる 。|Cuối tuần bố tôi nấu cà ri.
+会う:あう|gặp|駅:えき の 前:まえ で 友達:ともだち に 会う:あう 。|Tôi gặp bạn trước nhà ga.
+待つ:まつ|chờ đợi|バス を 三十分:さんじゅっぷん も 待つ:まつ 。|Tôi chờ xe buýt những ba mươi phút.
+帰る:かえる|trở về|父:ちち は 夜:よる 十時:じゅうじ に 帰る:かえる 。|Bố tôi về lúc mười giờ đêm.
+準備:じゅんび|sự chuẩn bị|明日:あした の 発表:はっぴょう の 準備:じゅんび を して います 。|Tôi đang chuẩn bị cho bài thuyết trình ngày mai.
+始める:はじめる|bắt đầu (làm gì)|来月:らいげつ から ピアノ を 始める:はじめる 。|Từ tháng sau tôi bắt đầu học piano.
+終わる:おわる|kết thúc|仕事:しごと は 六時:ろくじ に 終わる:おわる 。|Công việc kết thúc lúc sáu giờ.
+浴びる:あびる|tắm (vòi sen)|毎朝:まいあさ シャワー を 浴びる:あびる 。|Mỗi sáng tôi tắm vòi sen.
+
+%23|2|Phần 3: Diễn đạt phong phú|Tính từ, phó từ, thiên nhiên, văn hóa, kế hoạch|grape
+@ja211|Tính từ thường dùng|To nhỏ, dài ngắn, khó dễ|形
+大きい:おおきい|to, lớn|この 部屋:へや は 大きくて:おおきくて 明るい:あかるい です 。|Căn phòng này rộng và sáng.
+小さい:ちいさい|nhỏ|靴:くつ が 小さい:ちいさい です から 足:あし が 痛い:いたい です 。|Giày nhỏ nên tôi đau chân.
+長い:ながい|dài|北海道:ほっかいどう の 冬:ふゆ は 長い:ながい です 。|Mùa đông ở Hokkaido dài.
+短い:みじかい|ngắn|髪:かみ を 短く:みじかく 切りました:きりました 。|Tôi đã cắt tóc ngắn.
+難しい:むずかしい|khó|今度:こんど の 試験:しけん は 難しかった:むずかしかった です 。|Kỳ thi lần này khó.
+易しい:やさしい|dễ|この 本:ほん は 易しい:やさしい です から すぐ 読めます:よめます 。|Quyển sách này dễ nên đọc được ngay.
+面白い:おもしろい|thú vị, hay|日本:にほん の ドラマ は 面白い:おもしろい です 。|Phim truyền hình Nhật Bản hay.
+新しい:あたらしい|mới|新しい:あたらしい 携帯:けいたい を 買いました:かいました 。|Tôi đã mua điện thoại mới.
+古い:ふるい|cũ|この 町:まち に は 古い:ふるい お寺:おてら が あります 。|Thị trấn này có ngôi chùa cổ.
+重い:おもい|nặng|かばん が 重くて:おもくて 持てません:もてません 。|Túi nặng nên tôi không xách nổi.
+速い:はやい|nhanh|新幹線:しんかんせん は とても 速い:はやい です 。|Tàu shinkansen rất nhanh.
+便利:べんり|tiện lợi|この アプリ は とても 便利:べんり です 。|Ứng dụng này rất tiện lợi.
+
+@ja212|Phó từ và từ nối|Rất, cũng, nhưng, vì vậy|副
+とても|rất|この カレー は とても 辛い:からい です 。|Món cà ri này rất cay.
+少し:すこし|một chút|日本語:にほんご が 少し:すこし 話せます:はなせます 。|Tôi nói được một chút tiếng Nhật.
+たくさん|nhiều|昨日:きのう 雪:ゆき が たくさん 降りました:ふりました 。|Hôm qua tuyết rơi nhiều.
+よく|thường; giỏi, kỹ|私:わたし は 両親:りょうしん に よく 電話:でんわ します 。|Tôi thường gọi điện cho bố mẹ.
+時々:ときどき|thỉnh thoảng|時々:ときどき 一人:ひとり で 映画:えいが を 見ます:みます 。|Thỉnh thoảng tôi xem phim một mình.
+もう|đã ... rồi|もう 十二時:じゅうにじ に なりました 。|Đã mười hai giờ rồi.
+まだ|vẫn chưa, vẫn còn|宿題:しゅくだい は まだ 終わって:おわって いません 。|Bài tập vẫn chưa xong.
+また|lại, lần nữa|来年:らいねん また 日本:にほん へ 来ます:きます 。|Năm sau tôi sẽ lại đến Nhật.
+そして|và, rồi|ご飯:ごはん を 食べて:たべて 、 そして コーヒー を 飲みました:のみました 。|Tôi ăn cơm, rồi uống cà phê.
+だから|vì vậy|雨:あめ でした 。 だから 家:いえ に いました 。|Trời mưa. Vì vậy tôi đã ở nhà.
+しかし|nhưng, tuy nhiên|この 服:ふく は きれい です 。 しかし 高い:たかい です 。|Bộ quần áo này đẹp. Nhưng đắt.
+一緒:いっしょ|cùng nhau|週末:しゅうまつ 家族:かぞく と 一緒:いっしょ に 旅行:りょこう します 。|Cuối tuần tôi đi du lịch cùng gia đình.
+
+@ja213|Thiên nhiên và động vật|Hoa, cây, chó, mèo|花
+花:はな|hoa|母:はは に 花:はな を あげました 。|Tôi đã tặng hoa cho mẹ.
+木:き|cây|家:いえ の 前:まえ に 大きい:おおきい 木:き が あります 。|Trước nhà có một cái cây lớn.
+川:かわ|sông|川:かわ の そば を 自転車:じてんしゃ で 走ります:はしります 。|Tôi đạp xe bên bờ sông.
+海:うみ|biển|夏:なつ は 海:うみ で 泳ぎます:およぎます 。|Mùa hè tôi bơi ở biển.
+犬:いぬ|con chó|家:うち の 犬:いぬ は とても 頭:あたま が いい です 。|Con chó nhà tôi rất thông minh.
+猫:ねこ|con mèo|猫:ねこ が ソファー の 上:うえ で 寝て:ねて います 。|Con mèo đang ngủ trên ghế sofa.
+鳥:とり|con chim|朝:あさ 鳥:とり の 声:こえ が 聞こえました:きこえました 。|Buổi sáng tôi đã nghe thấy tiếng chim.
+動物:どうぶつ|động vật|妹:いもうと は 動物:どうぶつ が 大好き:だいすき です 。|Em gái tôi rất thích động vật.
+月:つき|mặt trăng|今夜:こんや は 月:つき が とても 明るい:あかるい です 。|Đêm nay trăng rất sáng.
+星:ほし|ngôi sao|田舎:いなか で は 星:ほし が たくさん 見えます:みえます 。|Ở nông thôn nhìn thấy nhiều sao.
+太陽:たいよう|mặt trời|夏:なつ は 太陽:たいよう が 早く:はやく 出ます:でます 。|Mùa hè mặt trời mọc sớm.
+雲:くも|mây|空:そら に 雲:くも が 一つ:ひとつ も ありません 。|Trên trời không có một đám mây nào.
+
+@ja214|Văn hóa và xã hội|Lễ hội, phong tục, tin tức|文
+文化:ぶんか|văn hóa|日本:にほん の 文化:ぶんか に 興味:きょうみ が あります 。|Tôi quan tâm đến văn hóa Nhật Bản.
+祭り:まつり|lễ hội|夏:なつ の 祭り:まつり で 花火:はなび を 見ました:みました 。|Tôi đã xem pháo hoa ở lễ hội mùa hè.
+正月:しょうがつ|Tết (năm mới)|正月:しょうがつ に 家族:かぞく が 皆:みんな 集まります:あつまります 。|Dịp Tết cả gia đình tụ họp.
+着物:きもの|kimono|結婚式:けっこんしき で 着物:きもの を 着ました:きました 。|Tôi đã mặc kimono trong lễ cưới.
+結婚式:けっこんしき|lễ cưới|来月:らいげつ 友達:ともだち の 結婚式:けっこんしき が あります 。|Tháng sau có lễ cưới của bạn tôi.
+招待:しょうたい|lời mời, sự mời|誕生日:たんじょうび の パーティー に 友達:ともだち を 招待:しょうたい しました 。|Tôi đã mời bạn bè đến tiệc sinh nhật.
+挨拶:あいさつ|lời chào hỏi|近所:きんじょ の 人:ひと に 挨拶:あいさつ を します 。|Tôi chào hỏi hàng xóm.
+習慣:しゅうかん|thói quen, phong tục|国:くに に よって 食事:しょくじ の 習慣:しゅうかん が 違います:ちがいます 。|Mỗi nước có phong tục ăn uống khác nhau.
+ニュース|tin tức thời sự|父:ちち は 毎晩:まいばん ニュース を 見ます:みます 。|Tối nào bố tôi cũng xem thời sự.
+新聞:しんぶん|báo|最近:さいきん は 新聞:しんぶん を インターネット で 読みます:よみます 。|Gần đây tôi đọc báo trên internet.
+歴史:れきし|lịch sử|日本:にほん の 歴史:れきし を 勉強:べんきょう したい です 。|Tôi muốn học lịch sử Nhật Bản.
+お寺:おてら|chùa|京都:きょうと に は 有名:ゆうめい な お寺:おてら が 多い:おおい です 。|Ở Kyoto có nhiều ngôi chùa nổi tiếng.
+
+@ja215|Kế hoạch và ý kiến|Dự định, hẹn, nghĩ, cần|夢
+予定:よてい|dự định, lịch trình|週末:しゅうまつ の 予定:よてい は もう 決まりました:きまりました 。|Lịch trình cuối tuần đã được quyết định rồi.
+約束:やくそく|cuộc hẹn, lời hứa|今晩:こんばん 友達:ともだち と 約束:やくそく が あります 。|Tối nay tôi có hẹn với bạn.
+夢:ゆめ|giấc mơ, ước mơ|私:わたし の 夢:ゆめ は 通訳:つうやく に なる こと です 。|Ước mơ của tôi là trở thành phiên dịch viên.
+思う:おもう|nghĩ|その 計画:けいかく は いい と 思う:おもう 。|Tôi nghĩ kế hoạch đó tốt.
+必要:ひつよう|cần thiết|外国:がいこく の 旅行:りょこう に は パスポート が 必要:ひつよう です 。|Đi du lịch nước ngoài cần hộ chiếu.
+決める:きめる|quyết định|どの 大学:だいがく に 行く:いく か まだ 決める:きめる こと が できません 。|Tôi vẫn chưa thể quyết định sẽ vào đại học nào.
+頑張る:がんばる|cố gắng|日本語:にほんご が 上手:じょうず に なる よう に 頑張る:がんばる 。|Tôi cố gắng để giỏi tiếng Nhật.
+手伝う:てつだう|giúp đỡ|友達:ともだち の 引っ越し:ひっこし を 手伝う:てつだう 。|Tôi giúp bạn chuyển nhà.
+理由:りゆう|lý do|遅れた:おくれた 理由:りゆう を 教えて:おしえて ください 。|Hãy cho tôi biết lý do đến muộn.
+問題:もんだい|vấn đề, câu hỏi|この 問題:もんだい は 一人:ひとり で は 難しい:むずかしい です 。|Vấn đề này khó nếu làm một mình.
+方法:ほうほう|phương pháp, cách|いい 勉強:べんきょう の 方法:ほうほう を 教えて:おしえて ください 。|Hãy chỉ cho tôi cách học tốt.
+意見:いけん|ý kiến|皆:みんな の 意見:いけん を 聞きたい:ききたい です 。|Tôi muốn nghe ý kiến của mọi người.

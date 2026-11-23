@@ -1,7 +1,16 @@
 import { unsupportedBrowser } from './browser';
+import { getCourse } from '../data';
+import type { CourseId } from '../types';
+
+export type SpeechLang = 'zh-CN' | 'en-US' | 'ko-KR' | 'ja-JP';
+export const COURSE_LANG: Record<CourseId, SpeechLang> = { zh: 'zh-CN', en: 'en-US', ko: 'ko-KR', ja: 'ja-JP' };
+/** Name of the voice pack to install, as the system settings call it. */
+export const VOICE_PACK: Record<SpeechLang, string> = { 'zh-CN': 'Chinese (China)', 'en-US': 'English (United States)', 'ko-KR': 'Korean (South Korea)', 'ja-JP': 'Japanese (Japan)' };
 
 let zhVoice: SpeechSynthesisVoice | null = null;
 let enVoice: SpeechSynthesisVoice | null = null;
+let koVoice: SpeechSynthesisVoice | null = null;
+let jaVoice: SpeechSynthesisVoice | null = null;
 let voicesLoaded = false;
 
 function pickVoice() {
@@ -34,7 +43,16 @@ function pickVoice() {
     en.find((v) => /en[-_]GB/i.test(v.lang)) ||
     en[0] ||
     null;
+  const byLang = (re: RegExp) => voices.filter((v) => re.test(v.lang)).sort((a, b) => Number(/google/i.test(b.name)) - Number(/google/i.test(a.name)))[0] ?? null;
+  koVoice = byLang(/^ko([-_]|$)/i);
+  jaVoice = byLang(/^ja([-_]|$)/i);
 }
+const voiceOf = (lang: SpeechLang) => (lang === 'zh-CN' ? zhVoice : lang === 'ko-KR' ? koVoice : lang === 'ja-JP' ? jaVoice : enVoice);
+/** Is there a voice for this language (the active course's by default)? */
+export const hasVoice = (lang: SpeechLang = COURSE_LANG[getCourse()]) => {
+  if (!voicesLoaded) pickVoice();
+  return !!voiceOf(lang);
+};
 
 if (typeof window !== "undefined" && "speechSynthesis" in window) {
   pickVoice();
@@ -51,9 +69,17 @@ export const hasEnglishVoice = () => {
   if (!voicesLoaded) pickVoice();
   return !!enVoice;
 };
-/** Chinese text is spoken/recognised as zh-CN, everything else (the English course) as en-US. */
-export const speechLang = (text: string): "zh-CN" | "en-US" =>
-  /\p{Script=Han}/u.test(text) ? "zh-CN" : "en-US";
+/** The language a text is spoken/recognised in, from its script (kanji alone follow the course being studied). */
+export const speechLang = (text: string): SpeechLang =>
+  /[\uac00-\ud7a3]/.test(text)
+    ? 'ko-KR'
+    : /[\u3040-\u30ff]/.test(text)
+      ? 'ja-JP'
+      : /\p{Script=Han}/u.test(text)
+        ? getCourse() === 'ja'
+          ? 'ja-JP'
+          : 'zh-CN'
+        : 'en-US';
 
 let rate = 0.8;
 export function setSpeechRate(r: number) {
@@ -66,9 +92,9 @@ export const isCocCoc = () => typeof navigator !== 'undefined' && /coc_coc|cocco
 export const COC_COC_HINT = 'Trình duyệt Cốc Cốc không đọc được giọng. Hãy mở app bằng Chrome để nghe phát âm.';
 
 /** The voices the browser really offers for a course language (shown in the settings as a diagnostic). */
-export function listVoices(lang: 'zh-CN' | 'en-US'): { name: string; lang: string }[] {
+export function listVoices(lang: SpeechLang): { name: string; lang: string }[] {
   if (!ttsSupported()) return [];
-  const re = lang === 'zh-CN' ? /^(zh|cmn|yue)([-_]|$)/i : /^en([-_]|$)/i;
+  const re = lang === 'zh-CN' ? /^(zh|cmn|yue)([-_]|$)/i : new RegExp(`^${lang.slice(0, 2)}([-_]|$)`, 'i');
   return window.speechSynthesis
     .getVoices()
     .filter((v) => re.test(v.lang))
@@ -122,11 +148,11 @@ function warnEarly(id: number) {
  * the rest is tried once more with only the language set – some engines reject a chosen voice –
  * and only when that fails too is "tts-error" fired.
  */
-function run(id: number, texts: string[], lang: 'zh-CN' | 'en-US', speed: number, onEnd?: () => void, plain = false) {
+function run(id: number, texts: string[], lang: SpeechLang, speed: number, onEnd?: () => void, plain = false) {
   if (id !== job) return;
   if (!texts.length) return onEnd?.();
   const synth = window.speechSynthesis;
-  const voice = plain ? null : lang === 'zh-CN' ? zhVoice : enVoice;
+  const voice = plain ? null : voiceOf(lang);
   let over = false;
   let started = false;
   const fail = (from: number) => {
@@ -242,7 +268,7 @@ export const recognitionSupported = () =>
   typeof window !== "undefined" && !!getRecCtor();
 
 /** Listen once in the given language; resolves with candidate transcripts. */
-export function listenOnce(lang: "zh-CN" | "en-US" = "zh-CN"): {
+export function listenOnce(lang: SpeechLang = "zh-CN"): {
   promise: Promise<string[]>;
   stop: () => void;
 } {

@@ -1,5 +1,5 @@
 import { useEffect, useMemo, useState } from 'react';
-import { LESSONS, courseLoaded, getCourse, isEnglish, loadCourse, useContentVersion } from '../data';
+import { LESSONS, courseLoaded, getCourse, isEnglish, isRoman, langName, loadCourse, useContentVersion } from '../data';
 import { useProgress } from '../lib/store';
 import { wordStatus } from '../lib/srs';
 import { toneless } from '../lib/pinyin';
@@ -43,11 +43,11 @@ export default function WordsScreen() {
   return (
     <div className="mx-auto max-w-md px-4 pb-2 pt-4">
       <h1 className="text-2xl font-black">Từ vựng</h1>
-      <p className="mb-3 text-sm font-semibold text-ink-500">{total} từ · chạm vào từ để nghe{isEnglish() ? '' : ', xem nét viết'} và luyện nói</p>
+      <p className="mb-3 text-sm font-semibold text-ink-500">{total} từ · chạm vào từ để nghe{getCourse() === 'zh' ? ', xem nét viết' : ''} và luyện nói</p>
       <input
         value={q}
         onChange={(e) => setQ(e.target.value)}
-        placeholder={isEnglish() ? 'Tìm từ tiếng Anh hoặc nghĩa...' : 'Tìm chữ Hán, pinyin hoặc nghĩa...'}
+        placeholder={isEnglish() ? 'Tìm từ tiếng Anh hoặc nghĩa...' : isRoman() ? `Tìm từ ${langName()}, phiên âm hoặc nghĩa...` : 'Tìm chữ Hán, pinyin hoặc nghĩa...'}
         aria-label="Tìm từ"
         className="mb-4 w-full rounded-2xl border-2 border-cloud bg-mist px-4 py-3 font-bold outline-none focus:border-sky-400"
       />

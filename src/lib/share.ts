@@ -1,8 +1,8 @@
-import { isEnglish } from '../data';
+import { langName } from '../data';
 export const APP_URL = 'https://greenpandavn.github.io/';
 export const APP_NAME = 'Học Ngoại Ngữ – Gấu Trúc Xanh';
 
-const lang = () => (isEnglish() ? 'tiếng Anh' : 'tiếng Trung');
+const lang = () => langName();
 export const shareText = {
   streak: (n: number) => `Tôi đã học ${lang()} được ${n} ngày liên tiếp trên ${APP_NAME}! 🔥`,
   xp: (xp: number) => `Tôi đã đạt ${xp} XP khi học ${lang()} trên ${APP_NAME}! ⚡`,

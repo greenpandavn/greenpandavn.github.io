@@ -1,0 +1,77 @@
+{
+ "units": [
+  {"unit":3,"level":1,"title":"Phần 3: Thế giới quanh ta","desc":"Cơ thể, quần áo, thời tiết, nơi chốn, đi lại","color":"grape","course":"ja"}
+ ],
+ "lessons": [
+  {"id":"ja111","title":"Cơ thể","desc":"Đầu, mắt, tay, chân","icon":"体","unit":3,"course":"ja","order":110,"words":[
+   {"id":"ja111-体","hanzi":"体","pinyin":"karada","vi":"cơ thể","ex":{"tokens":["運動","は","体","に","いい","です","。"],"py":["undou","wa","karada","ni","ii","desu","."],"vi":"Vận động tốt cho cơ thể.","alts":[]}},
+   {"id":"ja111-頭","hanzi":"頭","pinyin":"atama","vi":"đầu","ex":{"tokens":["昨日","から","頭","が","痛い","です","。"],"py":["kinou","kara","atama","ga","itai","desu","."],"vi":"Tôi bị đau đầu từ hôm qua.","alts":[]}},
+   {"id":"ja111-顔","hanzi":"顔","pinyin":"kao","vi":"khuôn mặt","ex":{"tokens":["朝","顔","を","洗います","。"],"py":["asa","kao","o","araimasu","."],"vi":"Buổi sáng tôi rửa mặt.","alts":[]}},
+   {"id":"ja111-目","hanzi":"目","pinyin":"me","vi":"mắt","ex":{"tokens":["その","子","は","目","が","大きい","です","。"],"py":["sono","ko","wa","me","ga","ookii","desu","."],"vi":"Đứa trẻ đó có đôi mắt to.","alts":[]}},
+   {"id":"ja111-耳","hanzi":"耳","pinyin":"mimi","vi":"tai","ex":{"tokens":["祖母","は","耳","が","遠い","です","。"],"py":["sobo","wa","mimi","ga","tooi","desu","."],"vi":"Bà tôi nặng tai.","alts":[]}},
+   {"id":"ja111-口","hanzi":"口","pinyin":"kuchi","vi":"miệng","ex":{"tokens":["口","を","大きく","開けて","ください","。"],"py":["kuchi","o","ookiku","akete","kudasai","."],"vi":"Hãy mở to miệng ra.","alts":[]}},
+   {"id":"ja111-手","hanzi":"手","pinyin":"te","vi":"tay","ex":{"tokens":["食事","の","前","に","手","を","洗います","。"],"py":["shokuji","no","mae","ni","te","o","araimasu","."],"vi":"Tôi rửa tay trước bữa ăn.","alts":[]}},
+   {"id":"ja111-足","hanzi":"足","pinyin":"ashi","vi":"chân","ex":{"tokens":["たくさん","歩いて","足","が","痛い","です","。"],"py":["takusan","aruite","ashi","ga","itai","desu","."],"vi":"Đi bộ nhiều nên tôi đau chân.","alts":[]}},
+   {"id":"ja111-歯","hanzi":"歯","pinyin":"ha","vi":"răng","ex":{"tokens":["寝る","前","に","歯","を","磨きます","。"],"py":["neru","mae","ni","ha","o","migakimasu","."],"vi":"Tôi đánh răng trước khi ngủ.","alts":[]}},
+   {"id":"ja111-お腹","hanzi":"お腹","pinyin":"onaka","vi":"bụng","ex":{"tokens":["食べすぎて","お腹","が","痛い","です","。"],"py":["tabesugite","onaka","ga","itai","desu","."],"vi":"Ăn nhiều quá nên tôi đau bụng.","alts":[]}},
+   {"id":"ja111-髪","hanzi":"髪","pinyin":"kami","vi":"tóc","ex":{"tokens":["姉","は","髪","が","長い","です","。"],"py":["ane","wa","kami","ga","nagai","desu","."],"vi":"Chị tôi tóc dài.","alts":[]}},
+   {"id":"ja111-背","hanzi":"背","pinyin":"se","vi":"chiều cao, lưng","ex":{"tokens":["弟","は","背","が","高い","です","。"],"py":["otouto","wa","se","ga","takai","desu","."],"vi":"Em trai tôi cao.","alts":[]}}
+  ]},
+  {"id":"ja112","title":"Quần áo và màu sắc","desc":"Áo, quần, giày, màu","icon":"服","unit":3,"course":"ja","order":120,"words":[
+   {"id":"ja112-服","hanzi":"服","pinyin":"fuku","vi":"quần áo","ex":{"tokens":["デパート","で","新しい","服","を","買いました","。"],"py":["depaato","de","atarashii","fuku","o","kaimashita","."],"vi":"Tôi đã mua quần áo mới ở trung tâm thương mại.","alts":[]}},
+   {"id":"ja112-シャツ","hanzi":"シャツ","pinyin":"shatsu","vi":"áo sơ mi","ex":{"tokens":["白い","シャツ","を","着て","います","。"],"py":["shiroi","shatsu","o","kite","imasu","."],"vi":"Tôi đang mặc áo sơ mi trắng.","alts":[]}},
+   {"id":"ja112-ズボン","hanzi":"ズボン","pinyin":"zubon","vi":"quần dài","ex":{"tokens":["この","ズボン","は","少し","長い","です","。"],"py":["kono","zubon","wa","sukoshi","nagai","desu","."],"vi":"Cái quần này hơi dài.","alts":[]}},
+   {"id":"ja112-靴","hanzi":"靴","pinyin":"kutsu","vi":"giày","ex":{"tokens":["新しい","靴","は","とても","楽","です","。"],"py":["atarashii","kutsu","wa","totemo","raku","desu","."],"vi":"Đôi giày mới rất thoải mái.","alts":[]}},
+   {"id":"ja112-帽子","hanzi":"帽子","pinyin":"boushi","vi":"mũ","ex":{"tokens":["暑い","です","から","帽子","を","かぶります","。"],"py":["atsui","desu","kara","boushi","o","kaburimasu","."],"vi":"Vì nóng nên tôi đội mũ.","alts":[]}},
+   {"id":"ja112-かばん","hanzi":"かばん","pinyin":"kaban","vi":"cặp, túi xách","ex":{"tokens":["私","の","かばん","は","椅子","の","上","に","あります","。"],"py":["watashi","no","kaban","wa","isu","no","ue","ni","arimasu","."],"vi":"Túi của tôi ở trên ghế.","alts":[]}},
+   {"id":"ja112-眼鏡","hanzi":"眼鏡","pinyin":"megane","vi":"kính mắt","ex":{"tokens":["祖父","は","眼鏡","を","探して","います","。"],"py":["sofu","wa","megane","o","sagashite","imasu","."],"vi":"Ông đang tìm kính.","alts":[]}},
+   {"id":"ja112-着る","hanzi":"着る","pinyin":"kiru","vi":"mặc","ex":{"tokens":["寒い","日","は","コート","を","着る","。"],"py":["samui","hi","wa","kooto","o","kiru","."],"vi":"Ngày lạnh tôi mặc áo khoác.","alts":[]}},
+   {"id":"ja112-色","hanzi":"色","pinyin":"iro","vi":"màu sắc","ex":{"tokens":["どんな","色","が","一番","好き","です","か","。"],"py":["donna","iro","ga","ichiban","suki","desu","ka","."],"vi":"Bạn thích màu gì nhất?","alts":[]}},
+   {"id":"ja112-赤","hanzi":"赤","pinyin":"aka","vi":"màu đỏ","ex":{"tokens":["赤","の","かばん","を","買いました","。"],"py":["aka","no","kaban","o","kaimashita","."],"vi":"Tôi đã mua cái túi màu đỏ.","alts":[]}},
+   {"id":"ja112-青","hanzi":"青","pinyin":"ao","vi":"màu xanh dương","ex":{"tokens":["空","の","色","は","青","です","。"],"py":["sora","no","iro","wa","ao","desu","."],"vi":"Bầu trời có màu xanh.","alts":[]}},
+   {"id":"ja112-白","hanzi":"白","pinyin":"shiro","vi":"màu trắng","ex":{"tokens":["白","の","シャツ","が","よく","似合います","。"],"py":["shiro","no","shatsu","ga","yoku","niaimasu","."],"vi":"Áo sơ mi màu trắng rất hợp.","alts":[]}}
+  ]},
+  {"id":"ja113","title":"Thời tiết và thiên nhiên","desc":"Mưa, nắng, bốn mùa","icon":"天","unit":3,"course":"ja","order":130,"words":[
+   {"id":"ja113-天気","hanzi":"天気","pinyin":"tenki","vi":"thời tiết","ex":{"tokens":["今日","は","天気","が","悪い","です","。"],"py":["kyou","wa","tenki","ga","warui","desu","."],"vi":"Hôm nay thời tiết xấu.","alts":[]}},
+   {"id":"ja113-雨","hanzi":"雨","pinyin":"ame","vi":"mưa","ex":{"tokens":["外","は","雨","が","降って","います","。"],"py":["soto","wa","ame","ga","futte","imasu","."],"vi":"Bên ngoài trời đang mưa.","alts":[]}},
+   {"id":"ja113-雪","hanzi":"雪","pinyin":"yuki","vi":"tuyết","ex":{"tokens":["冬","は","雪","が","たくさん","降ります","。"],"py":["fuyu","wa","yuki","ga","takusan","furimasu","."],"vi":"Mùa đông tuyết rơi nhiều.","alts":[]}},
+   {"id":"ja113-風","hanzi":"風","pinyin":"kaze","vi":"gió","ex":{"tokens":["今日","は","風","が","強い","です","。"],"py":["kyou","wa","kaze","ga","tsuyoi","desu","."],"vi":"Hôm nay gió mạnh.","alts":[]}},
+   {"id":"ja113-空","hanzi":"空","pinyin":"sora","vi":"bầu trời","ex":{"tokens":["秋","の","空","は","とても","きれい","です","。"],"py":["aki","no","sora","wa","totemo","kirei","desu","."],"vi":"Bầu trời mùa thu rất đẹp.","alts":[]}},
+   {"id":"ja113-春","hanzi":"春","pinyin":"haru","vi":"mùa xuân","ex":{"tokens":["春","は","花","が","たくさん","咲きます","。"],"py":["haru","wa","hana","ga","takusan","sakimasu","."],"vi":"Mùa xuân hoa nở nhiều.","alts":[]}},
+   {"id":"ja113-夏","hanzi":"夏","pinyin":"natsu","vi":"mùa hè","ex":{"tokens":["日本","の","夏","は","とても","暑い","です","。"],"py":["nihon","no","natsu","wa","totemo","atsui","desu","."],"vi":"Mùa hè ở Nhật rất nóng.","alts":[]}},
+   {"id":"ja113-秋","hanzi":"秋","pinyin":"aki","vi":"mùa thu","ex":{"tokens":["私","は","秋","が","一番","好き","です","。"],"py":["watashi","wa","aki","ga","ichiban","suki","desu","."],"vi":"Tôi thích mùa thu nhất.","alts":[]}},
+   {"id":"ja113-冬","hanzi":"冬","pinyin":"fuyu","vi":"mùa đông","ex":{"tokens":["冬","は","スキー","に","行きます","。"],"py":["fuyu","wa","sukii","ni","ikimasu","."],"vi":"Mùa đông tôi đi trượt tuyết.","alts":[]}},
+   {"id":"ja113-暑い","hanzi":"暑い","pinyin":"atsui","vi":"nóng (thời tiết)","ex":{"tokens":["今日","は","昨日","より","暑い","です","。"],"py":["kyou","wa","kinou","yori","atsui","desu","."],"vi":"Hôm nay nóng hơn hôm qua.","alts":[]}},
+   {"id":"ja113-寒い","hanzi":"寒い","pinyin":"samui","vi":"lạnh (thời tiết)","ex":{"tokens":["外","は","寒い","です","から","コート","を","着ます","。"],"py":["soto","wa","samui","desu","kara","kooto","o","kimasu","."],"vi":"Bên ngoài lạnh nên tôi mặc áo khoác.","alts":[]}},
+   {"id":"ja113-山","hanzi":"山","pinyin":"yama","vi":"núi","ex":{"tokens":["週末","父","と","山","に","登ります","。"],"py":["shuumatsu","chichi","to","yama","ni","noborimasu","."],"vi":"Cuối tuần tôi leo núi với bố.","alts":[]}}
+  ]},
+  {"id":"ja114","title":"Nơi chốn","desc":"Cửa hàng, bệnh viện, ngân hàng, ở đâu","icon":"所","unit":3,"course":"ja","order":140,"words":[
+   {"id":"ja114-店","hanzi":"店","pinyin":"mise","vi":"cửa hàng","ex":{"tokens":["この","店","は","九時","に","開きます","。"],"py":["kono","mise","wa","kuji","ni","akimasu","."],"vi":"Cửa hàng này mở cửa lúc chín giờ.","alts":[]}},
+   {"id":"ja114-病院","hanzi":"病院","pinyin":"byouin","vi":"bệnh viện","ex":{"tokens":["熱","が","あります","から","病院","へ","行きます","。"],"py":["netsu","ga","arimasu","kara","byouin","e","ikimasu","."],"vi":"Vì bị sốt nên tôi đi bệnh viện.","alts":[]}},
+   {"id":"ja114-銀行","hanzi":"銀行","pinyin":"ginkou","vi":"ngân hàng","ex":{"tokens":["銀行","は","郵便局","の","隣","に","あります","。"],"py":["ginkou","wa","yuubinkyoku","no","tonari","ni","arimasu","."],"vi":"Ngân hàng ở cạnh bưu điện.","alts":[]}},
+   {"id":"ja114-食堂","hanzi":"食堂","pinyin":"shokudou","vi":"nhà ăn, quán ăn","ex":{"tokens":["学校","の","食堂","は","安い","です","。"],"py":["gakkou","no","shokudou","wa","yasui","desu","."],"vi":"Nhà ăn của trường rẻ.","alts":[]}},
+   {"id":"ja114-公園","hanzi":"公園","pinyin":"kouen","vi":"công viên","ex":{"tokens":["毎朝","公園","を","散歩します","。"],"py":["maiasa","kouen","o","sanposhimasu","."],"vi":"Mỗi sáng tôi đi dạo ở công viên.","alts":[]}},
+   {"id":"ja114-図書館","hanzi":"図書館","pinyin":"toshokan","vi":"thư viện","ex":{"tokens":["図書館","は","静か","です","。"],"py":["toshokan","wa","shizuka","desu","."],"vi":"Thư viện yên tĩnh.","alts":[]}},
+   {"id":"ja114-会社","hanzi":"会社","pinyin":"kaisha","vi":"công ty","ex":{"tokens":["会社","は","家","から","少し","遠い","です","。"],"py":["kaisha","wa","ie","kara","sukoshi","tooi","desu","."],"vi":"Công ty hơi xa nhà.","alts":[]}},
+   {"id":"ja114-郵便局","hanzi":"郵便局","pinyin":"yuubinkyoku","vi":"bưu điện","ex":{"tokens":["郵便局","で","切手","を","買います","。"],"py":["yuubinkyoku","de","kitte","o","kaimasu","."],"vi":"Tôi mua tem ở bưu điện.","alts":[]}},
+   {"id":"ja114-どこ","hanzi":"どこ","pinyin":"doko","vi":"ở đâu","ex":{"tokens":["今","どこ","へ","行きます","か","。"],"py":["ima","doko","e","ikimasu","ka","."],"vi":"Bây giờ bạn đi đâu?","alts":[]}},
+   {"id":"ja114-ここ","hanzi":"ここ","pinyin":"koko","vi":"ở đây","ex":{"tokens":["ここ","で","写真","を","撮って","も","いい","です","か","。"],"py":["koko","de","shashin","o","totte","mo","ii","desu","ka","."],"vi":"Tôi chụp ảnh ở đây được không?","alts":[]}},
+   {"id":"ja114-前","hanzi":"前","pinyin":"mae","vi":"phía trước","ex":{"tokens":["学校","の","前","に","本屋","が","あります","。"],"py":["gakkou","no","mae","ni","hon'ya","ga","arimasu","."],"vi":"Trước trường có hiệu sách.","alts":[]}},
+   {"id":"ja114-隣","hanzi":"隣","pinyin":"tonari","vi":"bên cạnh","ex":{"tokens":["私","の","隣","に","座って","ください","。"],"py":["watashi","no","tonari","ni","suwatte","kudasai","."],"vi":"Hãy ngồi cạnh tôi.","alts":[]}}
+  ]},
+  {"id":"ja115","title":"Đi lại","desc":"Xe buýt, tàu điện, vé, đường","icon":"道","unit":3,"course":"ja","order":150,"words":[
+   {"id":"ja115-バス","hanzi":"バス","pinyin":"basu","vi":"xe buýt","ex":{"tokens":["私","は","毎日","バス","に","乗ります","。"],"py":["watashi","wa","mainichi","basu","ni","norimasu","."],"vi":"Tôi đi xe buýt mỗi ngày.","alts":[]}},
+   {"id":"ja115-電車","hanzi":"電車","pinyin":"densha","vi":"tàu điện","ex":{"tokens":["電車","は","バス","より","速い","です","。"],"py":["densha","wa","basu","yori","hayai","desu","."],"vi":"Tàu điện nhanh hơn xe buýt.","alts":[]}},
+   {"id":"ja115-地下鉄","hanzi":"地下鉄","pinyin":"chikatetsu","vi":"tàu điện ngầm","ex":{"tokens":["地下鉄","で","会社","へ","行きます","。"],"py":["chikatetsu","de","kaisha","e","ikimasu","."],"vi":"Tôi đi làm bằng tàu điện ngầm.","alts":[]}},
+   {"id":"ja115-タクシー","hanzi":"タクシー","pinyin":"takushii","vi":"taxi","ex":{"tokens":["遅い","です","から","タクシー","に","乗りました","。"],"py":["osoi","desu","kara","takushii","ni","norimashita","."],"vi":"Vì muộn nên tôi đã đi taxi.","alts":[]}},
+   {"id":"ja115-飛行機","hanzi":"飛行機","pinyin":"hikouki","vi":"máy bay","ex":{"tokens":["飛行機","の","切符","を","買いました","。"],"py":["hikouki","no","kippu","o","kaimashita","."],"vi":"Tôi đã mua vé máy bay.","alts":[]}},
+   {"id":"ja115-自転車","hanzi":"自転車","pinyin":"jitensha","vi":"xe đạp","ex":{"tokens":["弟","は","自転車","で","学校","へ","行きます","。"],"py":["otouto","wa","jitensha","de","gakkou","e","ikimasu","."],"vi":"Em trai tôi đi học bằng xe đạp.","alts":[]}},
+   {"id":"ja115-車","hanzi":"車","pinyin":"kuruma","vi":"xe ô tô","ex":{"tokens":["父","は","新しい","車","を","買いました","。"],"py":["chichi","wa","atarashii","kuruma","o","kaimashita","."],"vi":"Bố tôi đã mua xe ô tô mới.","alts":[]}},
+   {"id":"ja115-道","hanzi":"道","pinyin":"michi","vi":"con đường","ex":{"tokens":["この","道","を","まっすぐ","行って","ください","。"],"py":["kono","michi","o","massugu","itte","kudasai","."],"vi":"Hãy đi thẳng con đường này.","alts":[]}},
+   {"id":"ja115-駅","hanzi":"駅","pinyin":"eki","vi":"nhà ga","ex":{"tokens":["東京","駅","で","友達","に","会いました","。"],"py":["toukyou","eki","de","tomodachi","ni","aimashita","."],"vi":"Tôi đã gặp bạn ở ga Tokyo.","alts":[]}},
+   {"id":"ja115-空港","hanzi":"空港","pinyin":"kuukou","vi":"sân bay","ex":{"tokens":["空港","まで","一時間","かかります","。"],"py":["kuukou","made","ichijikan","kakarimasu","."],"vi":"Đến sân bay mất một tiếng.","alts":[]}},
+   {"id":"ja115-切符","hanzi":"切符","pinyin":"kippu","vi":"vé","ex":{"tokens":["映画","の","切符","を","二枚","買いました","。"],"py":["eiga","no","kippu","o","nimai","kaimashita","."],"vi":"Tôi đã mua hai vé xem phim.","alts":[]}},
+   {"id":"ja115-歩く","hanzi":"歩く","pinyin":"aruku","vi":"đi bộ","ex":{"tokens":["天気","が","いい","です","から","駅","まで","歩く","。"],"py":["tenki","ga","ii","desu","kara","eki","made","aruku","."],"vi":"Vì thời tiết đẹp nên tôi đi bộ đến ga.","alts":[]}}
+  ]}
+ ]
+}

@@ -256,6 +256,155 @@ for (const file of EN_FILES.filter((f) => fs.existsSync(path.join(root, 'scripts
   }
 }
 
+/* ---------------- Korean and Japanese ---------------- */
+// scripts/korean.txt and scripts/japanese.txt use the unit/lesson lines of the compact format and
+//   word|nghĩa|câu ví dụ (từ cách nhau bằng dấu cách)|nghĩa câu ví dụ
+// Korean: the romanization (Revised Romanization, as pronounced) is derived from the Hangul.
+// Japanese: a word or token with kanji is written kanji:kana (学校:がっこう); romaji is derived from the kana.
+const K_INIT = ['g', 'kk', 'n', 'd', 'tt', 'r', 'm', 'b', 'pp', 's', 'ss', '', 'j', 'jj', 'ch', 'k', 't', 'p', 'h'];
+const K_MED = ['a', 'ae', 'ya', 'yae', 'eo', 'e', 'yeo', 'ye', 'o', 'wa', 'wae', 'oe', 'yo', 'u', 'wo', 'we', 'wi', 'yu', 'eu', 'ui', 'i'];
+// finals: [sound at the end of a syllable, what stays before a vowel, what moves to the next syllable before a vowel]
+const K_FIN = [
+  ['', '', ''], ['k', '', 'g'], ['k', '', 'kk'], ['k', 'k', 's'], ['n', '', 'n'], ['n', 'n', 'j'], ['n', '', 'n'], ['t', '', 'd'], ['l', '', 'r'],
+  ['k', 'l', 'g'], ['m', 'l', 'm'], ['l', 'l', 'b'], ['l', 'l', 's'], ['l', 'l', 't'], ['p', 'l', 'p'], ['l', '', 'r'], ['m', '', 'm'], ['p', '', 'b'],
+  ['p', 'p', 's'], ['t', '', 's'], ['t', '', 'ss'], ['ng', 'ng', ''], ['t', '', 'j'], ['t', '', 'ch'], ['k', '', 'k'], ['t', '', 't'], ['p', '', 'p'], ['t', '', ''],
+];
+function romanizeKo(text) {
+  const syl = [...text].map((ch) => {
+    const c = ch.charCodeAt(0) - 0xac00;
+    return c < 0 || c > 11171 ? { raw: ch } : { i: Math.floor(c / 588), m: Math.floor((c % 588) / 28), f: c % 28 };
+  });
+  let out = '';
+  syl.forEach((s, k) => {
+    if (s.raw !== undefined) return void (out += s.raw);
+    const next = syl[k + 1] && syl[k + 1].raw === undefined ? syl[k + 1] : null;
+    const prev = syl[k - 1] && syl[k - 1].raw === undefined ? syl[k - 1] : null;
+    // initial
+    let init = K_INIT[s.i];
+    if (prev && prev.f) {
+      const pf = K_FIN[prev.f][0];
+      if (s.i === 11) init = ''; // the previous final was carried over (see below)
+      else if (s.i === 5) init = pf === 'l' || pf === 'n' ? 'l' : 'n'; // ㄹ after a consonant
+      else if (s.i === 2 && pf === 'l') init = 'l'; // ㄹ + ㄴ sounds ll
+      else if (s.i === 18 && ['k', 't', 'p'].includes(pf)) init = ''; // ㅎ merges into the previous stop
+      else if ([27, 6, 15].includes(prev.f) && [0, 3, 12].includes(s.i)) init = { 0: 'k', 3: 't', 12: 'ch' }[s.i]; // ㅎ + ㄱㄷㅈ
+    } else if (s.i === 5 && !prev) init = 'r';
+    out += init + K_MED[s.m];
+    // final
+    if (!s.f) return;
+    const [end, stay, move] = K_FIN[s.f];
+    if (next && next.i === 11) {
+      // liaison; ㄷ/ㅌ + 이 becomes j/ch
+      const palatal = next.m === 20 && (s.f === 7 || s.f === 25);
+      out += stay + (palatal ? (s.f === 7 ? 'j' : 'ch') : move);
+    } else if (next && (next.i === 2 || next.i === 6)) out += { k: 'ng', t: 'n', p: 'm' }[end] ?? end; // nasalization
+    else if (next && next.i === 5) out += end === 'n' || end === 'l' ? 'l' : ({ k: 'ng', t: 'n', p: 'm' }[end] ?? end);
+    else if (next && next.i === 18 && ['k', 't', 'p'].includes(end)) out += end === 't' && [22].includes(s.f) ? 'ch' : end;
+    else if (next && [27, 6, 15].includes(s.f)) out += s.f === 27 ? '' : s.f === 6 ? 'n' : 'l'; // ㅎ is not heard
+    else out += end;
+  });
+  return out;
+}
+const KANA = {
+  あ: 'a', い: 'i', う: 'u', え: 'e', お: 'o', か: 'ka', き: 'ki', く: 'ku', け: 'ke', こ: 'ko', さ: 'sa', し: 'shi', す: 'su', せ: 'se', そ: 'so',
+  た: 'ta', ち: 'chi', つ: 'tsu', て: 'te', と: 'to', な: 'na', に: 'ni', ぬ: 'nu', ね: 'ne', の: 'no', は: 'ha', ひ: 'hi', ふ: 'fu', へ: 'he', ほ: 'ho',
+  ま: 'ma', み: 'mi', む: 'mu', め: 'me', も: 'mo', や: 'ya', ゆ: 'yu', よ: 'yo', ら: 'ra', り: 'ri', る: 'ru', れ: 're', ろ: 'ro', わ: 'wa', を: 'o', ん: 'n',
+  が: 'ga', ぎ: 'gi', ぐ: 'gu', げ: 'ge', ご: 'go', ざ: 'za', じ: 'ji', ず: 'zu', ぜ: 'ze', ぞ: 'zo', だ: 'da', ぢ: 'ji', づ: 'zu', で: 'de', ど: 'do',
+  ば: 'ba', び: 'bi', ぶ: 'bu', べ: 'be', ぼ: 'bo', ぱ: 'pa', ぴ: 'pi', ぷ: 'pu', ぺ: 'pe', ぽ: 'po', ぁ: 'a', ぃ: 'i', ぅ: 'u', ぇ: 'e', ぉ: 'o',
+};
+const YOON = { ゃ: 'a', ゅ: 'u', ょ: 'o' };
+const toHira = (s) => s.replace(/[\u30a1-\u30f6]/g, (c) => String.fromCharCode(c.charCodeAt(0) - 0x60));
+const JA_PARTICLE = { は: 'wa', へ: 'e', を: 'o', こんにちは: 'konnichiwa', こんばんは: 'konbanwa', では: 'dewa', には: 'niwa' };
+function romanizeJa(kana, particle = true) {
+  if (particle && JA_PARTICLE[kana]) return JA_PARTICLE[kana];
+  const h = [...toHira(kana)];
+  let out = '';
+  for (let k = 0; k < h.length; k++) {
+    const c = h[k];
+    if (c === 'っ') {
+      const n = KANA[h[k + 1]];
+      out += n ? (n.startsWith('ch') ? 't' : n[0]) : '';
+    } else if (c === 'ー') out += out.slice(-1);
+    else if (YOON[h[k + 1]] && KANA[c]) {
+      const base = KANA[c];
+      out += (/^(sh|ch|j)/.test(base) ? base.slice(0, -1) : base.slice(0, -1) + 'y') + YOON[h[k + 1]];
+      k++;
+    } else if (c === 'ん') out += /^[aiueoy]/.test(KANA[h[k + 1]] ?? '') ? "n'" : 'n';
+    else if (KANA[c]) out += KANA[c];
+    else out += c;
+  }
+  return out;
+}
+const SCRIPT_PUNCT = /^[。、？！,.?!]$/;
+function scriptCourse(file, course, romanize) {
+  const cUnits = [];
+  const cLessons = [];
+  const cSeen = new Set();
+  let unit = null;
+  let lesson = null;
+  // a token as written in the source -> [surface, romanization]
+  const token = (t, where) => {
+    if (SCRIPT_PUNCT.test(t)) return [t, { '。': '.', '、': ',', '？': '?', '！': '!' }[t] ?? t];
+    const [surface, reading] = t.split(':');
+    if (course === 'ja') {
+      if (/\p{Script=Han}/u.test(surface) && !reading) errors.push(`${where}: no reading for ${surface}`);
+      if (reading && !/^[\u3040-\u30ffー]+$/.test(reading)) errors.push(`${where}: reading of ${surface} is not kana`);
+      if (!/^[\u3040-\u30ffー\p{Script=Han}々0-9A-Za-z]+$/u.test(surface)) errors.push(`${where}: unexpected characters in ${surface}`);
+    } else if (!/^[\uac00-\ud7a30-9A-Za-z]+$/.test(surface)) errors.push(`${where}: unexpected characters in ${surface}`);
+    return [surface, romanize(reading ?? surface, !reading)]; // は, へ, を written alone are particles
+  };
+  for (const [i, raw] of read(`scripts/${file}`).split('\n').entries()) {
+    const line = raw.trim();
+    const where = `${file}:${i + 1}`;
+    if (!line || line.startsWith('#')) continue;
+    if (line.startsWith('%')) {
+      const [u, level, title, desc, color] = line.slice(1).split('|');
+      unit = { unit: Number(u), level: Number(level), title, desc, color, course };
+      cUnits.push(unit);
+      continue;
+    }
+    if (line.startsWith('@')) {
+      const [id, title, desc, icon] = line.slice(1).split('|');
+      lesson = { id, title, desc, icon, unit: unit.unit, course, words: [] };
+      cLessons.push(lesson);
+      continue;
+    }
+    const [w, vi, sentence, exVi] = line.split('|');
+    if (!exVi) {
+      errors.push(`${where}: missing fields`);
+      continue;
+    }
+    const [word, py] = token(w, where);
+    if (cSeen.has(word)) errors.push(`${where}: duplicate word ${word}`);
+    cSeen.add(word);
+    const parts = sentence
+      .split(/\s+/)
+      .flatMap((t) => {
+        const m = t.match(/^(.*?)([。、？！,.?!]*)$/);
+        return [m[1], ...m[2]].filter(Boolean);
+      })
+      .map((t) => token(t, where));
+    if (!SCRIPT_PUNCT.test(parts[parts.length - 1][0])) errors.push(`${where}: example has no final punctuation`);
+    if (parts.filter((t) => !SCRIPT_PUNCT.test(t[0])).length < 2) errors.push(`${where}: example is too short`);
+    lesson.words.push({ id: `${lesson.id}-${word}`, hanzi: word, pinyin: py, vi, ex: { tokens: parts.map((t) => t[0]), py: parts.map((t) => t[1]), vi: exVi, alts: [] } });
+  }
+  const ids = new Set();
+  for (const l of cLessons) {
+    if (ids.has(l.id)) errors.push(`${file}: duplicate lesson id ${l.id}`);
+    ids.add(l.id);
+    if (l.words.length < 10 || l.words.length > 14) errors.push(`${file}: lesson ${l.id} has ${l.words.length} words (expected 10–14)`);
+  }
+  for (const level of new Set(cUnits.map((u) => u.level))) {
+    const us = new Set(cUnits.filter((u) => u.level === level).map((u) => u.unit));
+    const ls = cLessons.filter((l) => us.has(l.unit));
+    console.log(`${file} level ${level}: ${ls.length} lessons, ${ls.reduce((n, l) => n + l.words.length, 0)} words`);
+  }
+  return { units: cUnits, lessons: cLessons };
+}
+const ko = scriptCourse('korean.txt', 'ko', romanizeKo);
+const ja = scriptCourse('japanese.txt', 'ja', romanizeJa);
+if (process.argv.includes('--roman')) for (const c of [ko, ja]) for (const l of c.lessons) for (const w of l.words) console.log(`${w.hanzi}\t${w.pinyin}\t${w.ex.py.join(' ')}`);
+
 if (errors.length) {
   console.error(errors.join('\n'));
   process.exit(1);
@@ -290,6 +439,8 @@ function writeCourse(dir, courseUnits, courseLessons) {
 }
 writeCourse('zh', units, lessons);
 writeCourse('en', enUnits, enLessons);
+writeCourse('ko', ko.units, ko.lessons);
+writeCourse('ja', ja.units, ja.lessons);
 fs.rmSync(path.join(root, 'src/data/english.json'), { force: true });
 
 // Copy stroke-order data for every character used anywhere in the course.

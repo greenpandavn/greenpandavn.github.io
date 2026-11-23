@@ -1,0 +1,42 @@
+{
+ "units": [
+  {"unit":1,"level":1,"title":"Phần 1: Làm quen","desc":"Chào hỏi, giới thiệu, số đếm, gia đình, con người","color":"leaf","course":"ko"},
+  {"unit":2,"level":1,"title":"Phần 2: Cuộc sống hằng ngày","desc":"Ăn uống, thời gian, nhà cửa, trường học, hoạt động","color":"sky","course":"ko"},
+  {"unit":3,"level":1,"title":"Phần 3: Thế giới quanh ta","desc":"Cơ thể, quần áo, thời tiết, nơi chốn, đi lại","color":"grape","course":"ko"},
+  {"unit":21,"level":2,"title":"Phần 1: Con người và đời sống","desc":"Cảm xúc, sở thích, sức khỏe, mua sắm, công việc","color":"leaf","course":"ko"},
+  {"unit":22,"level":2,"title":"Phần 2: Ra ngoài và giao tiếp","desc":"Du lịch, thành phố, liên lạc, học tập, sinh hoạt","color":"sky","course":"ko"},
+  {"unit":23,"level":2,"title":"Phần 3: Diễn đạt phong phú","desc":"Tính từ, phó từ, thiên nhiên, văn hóa, kế hoạch","color":"grape","course":"ko"}
+ ],
+ "lessons": [
+  ["ko101","Chào hỏi","안",1,12],
+  ["ko102","Giới thiệu bản thân","저",1,12],
+  ["ko103","Số đếm","일",1,12],
+  ["ko104","Gia đình","가",1,12],
+  ["ko105","Con người","남",1,12],
+  ["ko106","Đồ ăn","밥",2,12],
+  ["ko107","Đồ uống và bữa ăn","물",2,12],
+  ["ko108","Thời gian","시",2,12],
+  ["ko109","Nhà cửa","집",2,12],
+  ["ko110","Trường học và hoạt động","학",2,12],
+  ["ko111","Cơ thể","몸",3,12],
+  ["ko112","Quần áo và màu sắc","옷",3,12],
+  ["ko113","Thời tiết và thiên nhiên","날",3,12],
+  ["ko114","Nơi chốn","곳",3,12],
+  ["ko115","Đi lại","길",3,12],
+  ["ko201","Cảm xúc và tính cách","기",21,12],
+  ["ko202","Sở thích","취",21,12],
+  ["ko203","Sức khỏe","약",21,12],
+  ["ko204","Mua sắm","돈",21,12],
+  ["ko205","Công việc","일",21,12],
+  ["ko206","Du lịch","여",22,12],
+  ["ko207","Thành phố và chỉ đường","도",22,12],
+  ["ko208","Liên lạc","전",22,12],
+  ["ko209","Học tập","배",22,12],
+  ["ko210","Sinh hoạt hằng ngày","생",22,12],
+  ["ko211","Tính từ thường dùng","크",23,12],
+  ["ko212","Phó từ và từ nối","또",23,12],
+  ["ko213","Thiên nhiên và động vật","꽃",23,12],
+  ["ko214","Văn hóa và xã hội","문",23,12],
+  ["ko215","Kế hoạch và ý kiến","꿈",23,12]
+ ]
+}

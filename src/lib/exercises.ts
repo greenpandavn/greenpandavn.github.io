@@ -1,5 +1,5 @@
 import type { Word } from '../types';
-import { ALL_WORDS, isEnglish, sentenceTiles } from '../data';
+import { ALL_WORDS, isEnglish, isRoman, sentenceTiles } from '../data';
 import { toneless } from './pinyin';
 import type { Difficulty } from './gamification';
 
@@ -21,7 +21,8 @@ export type ExerciseKind = Exercise['kind'];
 const soundKey = (w: Word) => (w.pinyin ? toneless(w.pinyin) : w.hanzi.toLowerCase());
 
 export const KIND_LABEL_EN: Partial<Record<ExerciseKind, string>> = { char: 'Chọn từ đúng', type: 'Chính tả' };
-export const kindLabel = (k: ExerciseKind) => (isEnglish() && KIND_LABEL_EN[k]) || KIND_LABEL[k];
+const KIND_LABEL_ROMAN: Partial<Record<ExerciseKind, string>> = { char: 'Chọn từ đúng', type: 'Gõ phiên âm' };
+export const kindLabel = (k: ExerciseKind) => (isEnglish() && KIND_LABEL_EN[k]) || (isRoman() && KIND_LABEL_ROMAN[k]) || KIND_LABEL[k];
 
 export const KIND_LABEL: Record<ExerciseKind, string> = {
   intro: 'Từ mới',

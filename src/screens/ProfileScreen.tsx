@@ -34,8 +34,9 @@ import { achievements, currentStreak, levelInfo } from "../lib/gamification";
 import { countByStatus } from "../lib/srs";
 import {
   COC_COC_HINT,
-  hasChineseVoice,
-  hasEnglishVoice,
+  COURSE_LANG,
+  hasVoice,
+  VOICE_PACK,
   isCocCoc,
   listVoices,
   speak,
@@ -49,7 +50,8 @@ import {
   COURSES,
   CORE_LESSONS,
   courseInfo,
-  isEnglish,
+  getCourse,
+  langName,
   setCourse,
   useContentVersion,
 } from "../data";
@@ -524,7 +526,7 @@ export default function ProfileScreen({
               type="button"
               className="chip"
               onClick={() =>
-                speak(isEnglish() ? "Hello, I am a panda." : "你好，我是熊猫。")
+                speak({ zh: "你好，我是熊猫。", en: "Hello, I am a panda.", ko: "안녕하세요, 저는 판다예요.", ja: "こんにちは、パンダです。" }[getCourse()])
               }
             >
               Nghe thử
@@ -770,7 +772,7 @@ const SYNC_LABEL = {
 
 /** What the browser really offers for the course language, so a learner can see why audio fails. */
 function VoiceInfo() {
-  const lang = isEnglish() ? "en-US" : "zh-CN";
+  const lang = COURSE_LANG[getCourse()];
   const [voices, setVoices] = useState(() => listVoices(lang));
   useEffect(() => {
     if (!ttsSupported()) return;
@@ -788,15 +790,13 @@ function VoiceInfo() {
   // the picked voice may also be matched by name, so ask the speech module too
   const missing =
     !ttsSupported() ||
-    (!voices.length && !(isEnglish() ? hasEnglishVoice() : hasChineseVoice()));
+    (!voices.length && !hasVoice(lang));
   return (
     <div className="mt-2 text-xs font-bold text-ink-400" data-testid="voice-info">
       {missing && !unsupportedBrowser() && (
         <p className="mb-1 text-coral-500" data-testid="voice-warning">
               Không tìm thấy giọng đọc{" "}
-              {isEnglish() ? "tiếng Anh" : "tiếng Trung"} trên thiết bị. Hãy cài
-              giọng{" "}
-              {isEnglish() ? "“English (United States)”" : "“Chinese (China)”"}{" "}
+              {langName()} trên thiết bị. Hãy cài giọng “{VOICE_PACK[lang]}”{" "}
               trong cài đặt hệ thống hoặc dùng Chrome.
             </p>
       )}
@@ -806,7 +806,7 @@ function VoiceInfo() {
         </p>
       )}
       <p>
-        Giọng {isEnglish() ? "tiếng Anh" : "tiếng Trung"} trình duyệt nhìn
+        Giọng {langName()} trình duyệt nhìn
         thấy:{" "}
         {!ttsSupported()
           ? "trình duyệt không hỗ trợ đọc giọng"

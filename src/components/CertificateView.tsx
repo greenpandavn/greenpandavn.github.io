@@ -11,6 +11,8 @@ const HSK_ZH = ['', '一', '二', '三', '四', '五', '六'];
 const courseLine = (id: string) => {
   const m = id.match(/^hsk(\d)/);
   if (m) return `汉语水平${HSK_ZH[Number(m[1])] ?? m[1]}级 · HSK ${m[1]}`;
+  if (id.startsWith('ko-')) return '한국어 · TOPIK';
+  if (id.startsWith('ja-')) return '日本語 · JLPT';
   return 'English · Beginner (A1)';
 };
 

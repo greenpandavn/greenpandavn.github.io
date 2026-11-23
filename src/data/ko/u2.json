@@ -1,0 +1,77 @@
+{
+ "units": [
+  {"unit":2,"level":1,"title":"Phần 2: Cuộc sống hằng ngày","desc":"Ăn uống, thời gian, nhà cửa, trường học, hoạt động","color":"sky","course":"ko"}
+ ],
+ "lessons": [
+  {"id":"ko106","title":"Đồ ăn","desc":"Cơm, kim chi, thịt, trái cây","icon":"밥","unit":2,"course":"ko","order":60,"words":[
+   {"id":"ko106-밥","hanzi":"밥","pinyin":"bap","vi":"cơm","ex":{"tokens":["저는","아침에","밥을","먹습니다","."],"py":["jeoneun","achime","babeul","meokseumnida","."],"vi":"Tôi ăn cơm vào buổi sáng.","alts":[]}},
+   {"id":"ko106-김치","hanzi":"김치","pinyin":"gimchi","vi":"kim chi","ex":{"tokens":["한국","사람은","김치를","자주","먹습니다","."],"py":["hanguk","sarameun","gimchireul","jaju","meokseumnida","."],"vi":"Người Hàn Quốc thường ăn kim chi.","alts":[]}},
+   {"id":"ko106-빵","hanzi":"빵","pinyin":"ppang","vi":"bánh mì","ex":{"tokens":["아침에는","빵과","우유를","먹어요","."],"py":["achimeneun","ppanggwa","uyureul","meogeoyo","."],"vi":"Buổi sáng tôi ăn bánh mì và uống sữa.","alts":[]}},
+   {"id":"ko106-고기","hanzi":"고기","pinyin":"gogi","vi":"thịt","ex":{"tokens":["저는","고기를","별로","안","좋아합니다","."],"py":["jeoneun","gogireul","byeollo","an","joahamnida","."],"vi":"Tôi không thích thịt lắm.","alts":[]}},
+   {"id":"ko106-생선","hanzi":"생선","pinyin":"saengseon","vi":"cá (món ăn)","ex":{"tokens":["어머니가","생선을","굽고","있습니다","."],"py":["eomeoniga","saengseoneul","gupgo","itseumnida","."],"vi":"Mẹ đang nướng cá.","alts":[]}},
+   {"id":"ko106-과일","hanzi":"과일","pinyin":"gwail","vi":"trái cây","ex":{"tokens":["시장에서","과일을","많이","샀습니다","."],"py":["sijangeseo","gwaireul","mani","satseumnida","."],"vi":"Tôi đã mua nhiều trái cây ở chợ.","alts":[]}},
+   {"id":"ko106-사과","hanzi":"사과","pinyin":"sagwa","vi":"quả táo","ex":{"tokens":["이","사과는","정말","맛있습니다","."],"py":["i","sagwaneun","jeongmal","masitseumnida","."],"vi":"Quả táo này thật sự ngon.","alts":[]}},
+   {"id":"ko106-계란","hanzi":"계란","pinyin":"gyeran","vi":"trứng","ex":{"tokens":["냉장고에","계란이","없습니다","."],"py":["naengjanggoe","gyerani","eopseumnida","."],"vi":"Trong tủ lạnh không có trứng.","alts":[]}},
+   {"id":"ko106-라면","hanzi":"라면","pinyin":"ramyeon","vi":"mì gói","ex":{"tokens":["밤에","라면을","먹고","싶어요","."],"py":["bame","ramyeoneul","meokgo","sipeoyo","."],"vi":"Buổi tối tôi muốn ăn mì gói.","alts":[]}},
+   {"id":"ko106-음식","hanzi":"음식","pinyin":"eumsik","vi":"món ăn, thức ăn","ex":{"tokens":["한국","음식은","조금","맵습니다","."],"py":["hanguk","eumsigeun","jogeum","maepseumnida","."],"vi":"Món ăn Hàn Quốc hơi cay.","alts":[]}},
+   {"id":"ko106-채소","hanzi":"채소","pinyin":"chaeso","vi":"rau","ex":{"tokens":["채소를","많이","먹으면","건강에","좋습니다","."],"py":["chaesoreul","mani","meogeumyeon","geongange","joseumnida","."],"vi":"Ăn nhiều rau thì tốt cho sức khỏe.","alts":[]}},
+   {"id":"ko106-국","hanzi":"국","pinyin":"guk","vi":"canh","ex":{"tokens":["오늘","저녁에는","국을","끓입니다","."],"py":["oneul","jeonyeogeneun","gugeul","kkeurimnida","."],"vi":"Tối nay tôi nấu canh.","alts":[]}}
+  ]},
+  {"id":"ko107","title":"Đồ uống và bữa ăn","desc":"Nước, trà, cà phê, sáng trưa tối","icon":"물","unit":2,"course":"ko","order":70,"words":[
+   {"id":"ko107-물","hanzi":"물","pinyin":"mul","vi":"nước","ex":{"tokens":["물","한","잔","주세요","."],"py":["mul","han","jan","juseyo","."],"vi":"Cho tôi một cốc nước.","alts":[]}},
+   {"id":"ko107-우유","hanzi":"우유","pinyin":"uyu","vi":"sữa","ex":{"tokens":["아이가","우유를","마시고","있습니다","."],"py":["aiga","uyureul","masigo","itseumnida","."],"vi":"Đứa trẻ đang uống sữa.","alts":[]}},
+   {"id":"ko107-커피","hanzi":"커피","pinyin":"keopi","vi":"cà phê","ex":{"tokens":["저는","매일","커피를","마십니다","."],"py":["jeoneun","maeil","keopireul","masimnida","."],"vi":"Tôi uống cà phê mỗi ngày.","alts":[]}},
+   {"id":"ko107-차","hanzi":"차","pinyin":"cha","vi":"trà; xe ô tô","ex":{"tokens":["따뜻한","차를","한","잔","마셨습니다","."],"py":["ttatteutan","chareul","han","jan","masyeotseumnida","."],"vi":"Tôi đã uống một tách trà ấm.","alts":[]}},
+   {"id":"ko107-주스","hanzi":"주스","pinyin":"juseu","vi":"nước ép","ex":{"tokens":["오렌지","주스를","좋아합니까","?"],"py":["orenji","juseureul","joahamnikka","?"],"vi":"Bạn có thích nước cam không?","alts":[]}},
+   {"id":"ko107-아침","hanzi":"아침","pinyin":"achim","vi":"buổi sáng; bữa sáng","ex":{"tokens":["아침에","일찍","일어납니다","."],"py":["achime","iljjik","ireonamnida","."],"vi":"Tôi dậy sớm vào buổi sáng.","alts":[]}},
+   {"id":"ko107-점심","hanzi":"점심","pinyin":"jeomsim","vi":"buổi trưa; bữa trưa","ex":{"tokens":["친구와","같이","점심을","먹었습니다","."],"py":["chinguwa","gachi","jeomsimeul","meogeotseumnida","."],"vi":"Tôi đã ăn trưa cùng bạn.","alts":[]}},
+   {"id":"ko107-저녁","hanzi":"저녁","pinyin":"jeonyeok","vi":"buổi tối; bữa tối","ex":{"tokens":["저녁에","가족과","텔레비전을","봅니다","."],"py":["jeonyeoge","gajokgwa","tellebijeoneul","bomnida","."],"vi":"Buổi tối tôi xem ti vi với gia đình.","alts":[]}},
+   {"id":"ko107-먹다","hanzi":"먹다","pinyin":"meokda","vi":"ăn","ex":{"tokens":["우리는","식당에서","불고기를","먹었습니다","."],"py":["urineun","sikdangeseo","bulgogireul","meogeotseumnida","."],"vi":"Chúng tôi đã ăn bulgogi ở nhà hàng.","alts":[]}},
+   {"id":"ko107-마시다","hanzi":"마시다","pinyin":"masida","vi":"uống","ex":{"tokens":["운동","후에","물을","많이","마십니다","."],"py":["undong","hue","mureul","mani","masimnida","."],"vi":"Sau khi tập thể dục tôi uống nhiều nước.","alts":[]}},
+   {"id":"ko107-맛있다","hanzi":"맛있다","pinyin":"masitda","vi":"ngon","ex":{"tokens":["이","식당","음식은","정말","맛있습니다","."],"py":["i","sikdang","eumsigeun","jeongmal","masitseumnida","."],"vi":"Đồ ăn ở nhà hàng này thật sự ngon.","alts":[]}},
+   {"id":"ko107-배고프다","hanzi":"배고프다","pinyin":"baegopeuda","vi":"đói bụng","ex":{"tokens":["아침을","안","먹어서","배가","고픕니다","."],"py":["achimeul","an","meogeoseo","baega","gopeumnida","."],"vi":"Vì không ăn sáng nên tôi đói bụng.","alts":[]}}
+  ]},
+  {"id":"ko108","title":"Thời gian","desc":"Hôm nay, ngày mai, giờ, tuần","icon":"시","unit":2,"course":"ko","order":80,"words":[
+   {"id":"ko108-오늘","hanzi":"오늘","pinyin":"oneul","vi":"hôm nay","ex":{"tokens":["오늘은","날씨가","아주","좋습니다","."],"py":["oneureun","nalssiga","aju","joseumnida","."],"vi":"Hôm nay thời tiết rất đẹp.","alts":[]}},
+   {"id":"ko108-내일","hanzi":"내일","pinyin":"naeil","vi":"ngày mai","ex":{"tokens":["내일","친구를","만날","겁니다","."],"py":["naeil","chingureul","mannal","geomnida","."],"vi":"Ngày mai tôi sẽ gặp bạn.","alts":[]}},
+   {"id":"ko108-어제","hanzi":"어제","pinyin":"eoje","vi":"hôm qua","ex":{"tokens":["어제","영화를","봤습니다","."],"py":["eoje","yeonghwareul","bwatseumnida","."],"vi":"Hôm qua tôi đã xem phim.","alts":[]}},
+   {"id":"ko108-지금","hanzi":"지금","pinyin":"jigeum","vi":"bây giờ","ex":{"tokens":["지금","무엇을","하고","있습니까","?"],"py":["jigeum","mueoseul","hago","itseumnikka","?"],"vi":"Bây giờ bạn đang làm gì?","alts":[]}},
+   {"id":"ko108-시간","hanzi":"시간","pinyin":"sigan","vi":"thời gian; tiếng đồng hồ","ex":{"tokens":["오늘은","시간이","별로","없습니다","."],"py":["oneureun","sigani","byeollo","eopseumnida","."],"vi":"Hôm nay tôi không có nhiều thời gian.","alts":[]}},
+   {"id":"ko108-주말","hanzi":"주말","pinyin":"jumal","vi":"cuối tuần","ex":{"tokens":["주말에","보통","집에서","쉽니다","."],"py":["jumare","botong","jibeseo","swimnida","."],"vi":"Cuối tuần tôi thường nghỉ ở nhà.","alts":[]}},
+   {"id":"ko108-요일","hanzi":"요일","pinyin":"yoil","vi":"thứ (trong tuần)","ex":{"tokens":["오늘은","무슨","요일입니까","?"],"py":["oneureun","museun","yoirimnikka","?"],"vi":"Hôm nay là thứ mấy?","alts":[]}},
+   {"id":"ko108-월요일","hanzi":"월요일","pinyin":"woryoil","vi":"thứ Hai","ex":{"tokens":["월요일에","한국어","수업이","있습니다","."],"py":["woryoire","hangugeo","sueobi","itseumnida","."],"vi":"Thứ Hai tôi có lớp tiếng Hàn.","alts":[]}},
+   {"id":"ko108-생일","hanzi":"생일","pinyin":"saengil","vi":"sinh nhật","ex":{"tokens":["제","생일은","다음","달입니다","."],"py":["je","saengireun","daeum","darimnida","."],"vi":"Sinh nhật tôi vào tháng sau.","alts":[]}},
+   {"id":"ko108-올해","hanzi":"올해","pinyin":"olhae","vi":"năm nay","ex":{"tokens":["올해","한국에","가고","싶습니다","."],"py":["olhae","hanguge","gago","sipseumnida","."],"vi":"Năm nay tôi muốn đi Hàn Quốc.","alts":[]}},
+   {"id":"ko108-언제","hanzi":"언제","pinyin":"eonje","vi":"khi nào","ex":{"tokens":["언제","베트남에","돌아갑니까","?"],"py":["eonje","beteuname","doragamnikka","?"],"vi":"Khi nào bạn về Việt Nam?","alts":[]}},
+   {"id":"ko108-매일","hanzi":"매일","pinyin":"maeil","vi":"mỗi ngày","ex":{"tokens":["저는","매일","한국어를","공부합니다","."],"py":["jeoneun","maeil","hangugeoreul","gongbuhamnida","."],"vi":"Tôi học tiếng Hàn mỗi ngày.","alts":[]}}
+  ]},
+  {"id":"ko109","title":"Nhà cửa","desc":"Nhà, phòng, đồ đạc","icon":"집","unit":2,"course":"ko","order":90,"words":[
+   {"id":"ko109-집","hanzi":"집","pinyin":"jip","vi":"nhà","ex":{"tokens":["우리","집은","학교에서","가깝습니다","."],"py":["uri","jibeun","hakgyoeseo","gakkapseumnida","."],"vi":"Nhà tôi gần trường.","alts":[]}},
+   {"id":"ko109-방","hanzi":"방","pinyin":"bang","vi":"phòng","ex":{"tokens":["제","방은","작지만","깨끗합니다","."],"py":["je","bangeun","jakjiman","kkaekkeutamnida","."],"vi":"Phòng tôi nhỏ nhưng sạch sẽ.","alts":[]}},
+   {"id":"ko109-부엌","hanzi":"부엌","pinyin":"bueok","vi":"bếp","ex":{"tokens":["어머니는","부엌에서","요리합니다","."],"py":["eomeonineun","bueokeseo","yorihamnida","."],"vi":"Mẹ nấu ăn trong bếp.","alts":[]}},
+   {"id":"ko109-화장실","hanzi":"화장실","pinyin":"hwajangsil","vi":"nhà vệ sinh","ex":{"tokens":["화장실은","어디에","있습니까","?"],"py":["hwajangsireun","eodie","itseumnikka","?"],"vi":"Nhà vệ sinh ở đâu?","alts":[]}},
+   {"id":"ko109-문","hanzi":"문","pinyin":"mun","vi":"cửa","ex":{"tokens":["나갈","때","문을","닫아","주세요","."],"py":["nagal","ttae","muneul","dada","juseyo","."],"vi":"Khi ra ngoài xin hãy đóng cửa.","alts":[]}},
+   {"id":"ko109-창문","hanzi":"창문","pinyin":"changmun","vi":"cửa sổ","ex":{"tokens":["더워서","창문을","열었습니다","."],"py":["deowoseo","changmuneul","yeoreotseumnida","."],"vi":"Vì nóng nên tôi đã mở cửa sổ.","alts":[]}},
+   {"id":"ko109-책상","hanzi":"책상","pinyin":"chaeksang","vi":"bàn học","ex":{"tokens":["책상","위에","책이","있습니다","."],"py":["chaeksang","wie","chaegi","itseumnida","."],"vi":"Trên bàn có sách.","alts":[]}},
+   {"id":"ko109-의자","hanzi":"의자","pinyin":"uija","vi":"ghế","ex":{"tokens":["이","의자는","아주","편합니다","."],"py":["i","uijaneun","aju","pyeonhamnida","."],"vi":"Cái ghế này rất thoải mái.","alts":[]}},
+   {"id":"ko109-침대","hanzi":"침대","pinyin":"chimdae","vi":"giường","ex":{"tokens":["침대","옆에","시계가","있습니다","."],"py":["chimdae","yeope","sigyega","itseumnida","."],"vi":"Bên cạnh giường có đồng hồ.","alts":[]}},
+   {"id":"ko109-냉장고","hanzi":"냉장고","pinyin":"naengjanggo","vi":"tủ lạnh","ex":{"tokens":["우유는","냉장고","안에","있습니다","."],"py":["uyuneun","naengjanggo","ane","itseumnida","."],"vi":"Sữa ở trong tủ lạnh.","alts":[]}},
+   {"id":"ko109-텔레비전","hanzi":"텔레비전","pinyin":"tellebijeon","vi":"ti vi","ex":{"tokens":["저녁에","가족과","텔레비전을","봐요","."],"py":["jeonyeoge","gajokgwa","tellebijeoneul","bwayo","."],"vi":"Buổi tối tôi xem ti vi cùng gia đình.","alts":[]}},
+   {"id":"ko109-열쇠","hanzi":"열쇠","pinyin":"yeolsoe","vi":"chìa khóa","ex":{"tokens":["집","열쇠를","잃어버렸습니다","."],"py":["jip","yeolsoereul","ireobeoryeotseumnida","."],"vi":"Tôi đã làm mất chìa khóa nhà.","alts":[]}}
+  ]},
+  {"id":"ko110","title":"Trường học và hoạt động","desc":"Học, đọc, viết, đi, đến","icon":"학","unit":2,"course":"ko","order":100,"words":[
+   {"id":"ko110-학교","hanzi":"학교","pinyin":"hakgyo","vi":"trường học","ex":{"tokens":["저는","버스로","학교에","갑니다","."],"py":["jeoneun","beoseuro","hakgyoe","gamnida","."],"vi":"Tôi đi đến trường bằng xe buýt.","alts":[]}},
+   {"id":"ko110-교실","hanzi":"교실","pinyin":"gyosil","vi":"phòng học","ex":{"tokens":["교실에","학생이","많이","있습니다","."],"py":["gyosire","haksaengi","mani","itseumnida","."],"vi":"Trong phòng học có nhiều học sinh.","alts":[]}},
+   {"id":"ko110-책","hanzi":"책","pinyin":"chaek","vi":"sách","ex":{"tokens":["도서관에서","책을","빌렸습니다","."],"py":["doseogwaneseo","chaegeul","billyeotseumnida","."],"vi":"Tôi đã mượn sách ở thư viện.","alts":[]}},
+   {"id":"ko110-숙제","hanzi":"숙제","pinyin":"sukje","vi":"bài tập về nhà","ex":{"tokens":["저녁에","숙제를","해야","합니다","."],"py":["jeonyeoge","sukjereul","haeya","hamnida","."],"vi":"Buổi tối tôi phải làm bài tập.","alts":[]}},
+   {"id":"ko110-시험","hanzi":"시험","pinyin":"siheom","vi":"kỳ thi","ex":{"tokens":["다음","주에","한국어","시험이","있습니다","."],"py":["daeum","jue","hangugeo","siheomi","itseumnida","."],"vi":"Tuần sau có kỳ thi tiếng Hàn.","alts":[]}},
+   {"id":"ko110-한국어","hanzi":"한국어","pinyin":"hangugeo","vi":"tiếng Hàn","ex":{"tokens":["한국어는","어렵지만","재미있습니다","."],"py":["hangugeoneun","eoryeopjiman","jaemiitseumnida","."],"vi":"Tiếng Hàn khó nhưng thú vị.","alts":[]}},
+   {"id":"ko110-공부하다","hanzi":"공부하다","pinyin":"gongbuhada","vi":"học","ex":{"tokens":["저는","도서관에서","공부합니다","."],"py":["jeoneun","doseogwaneseo","gongbuhamnida","."],"vi":"Tôi học ở thư viện.","alts":[]}},
+   {"id":"ko110-읽다","hanzi":"읽다","pinyin":"ikda","vi":"đọc","ex":{"tokens":["아버지는","아침마다","신문을","읽습니다","."],"py":["abeojineun","achimmada","sinmuneul","ikseumnida","."],"vi":"Bố đọc báo mỗi sáng.","alts":[]}},
+   {"id":"ko110-쓰다","hanzi":"쓰다","pinyin":"sseuda","vi":"viết","ex":{"tokens":["친구에게","편지를","쓰고","있습니다","."],"py":["chinguege","pyeonjireul","sseugo","itseumnida","."],"vi":"Tôi đang viết thư cho bạn.","alts":[]}},
+   {"id":"ko110-가다","hanzi":"가다","pinyin":"gada","vi":"đi","ex":{"tokens":["주말에","친구와","바다에","갑니다","."],"py":["jumare","chinguwa","badae","gamnida","."],"vi":"Cuối tuần tôi đi biển với bạn.","alts":[]}},
+   {"id":"ko110-오다","hanzi":"오다","pinyin":"oda","vi":"đến","ex":{"tokens":["친구가","우리","집에","왔습니다","."],"py":["chinguga","uri","jibe","watseumnida","."],"vi":"Bạn tôi đã đến nhà tôi.","alts":[]}},
+   {"id":"ko110-자다","hanzi":"자다","pinyin":"jada","vi":"ngủ","ex":{"tokens":["저는","보통","열한","시에","잡니다","."],"py":["jeoneun","botong","yeolhan","sie","jamnida","."],"vi":"Tôi thường ngủ lúc mười một giờ.","alts":[]}}
+  ]}
+ ]
+}

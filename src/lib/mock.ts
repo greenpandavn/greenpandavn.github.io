@@ -1,10 +1,8 @@
 import type { CourseId, Word } from "../types";
 import {
-  BUNDLED_LESSONS,
-  BUNDLED_UNITS,
+  courseLessons,
+  courseUnits,
   levelWordCount,
-  EN_LESSONS,
-  EN_UNITS,
   isPunct,
   sentencePinyin,
   sentenceZh,
@@ -363,6 +361,130 @@ export const MOCK_SPECS: MockSpec[] = [
       },
     ],
   },
+  // TOPIK I has two sections (Nghe, Đọc), 200 points: level 1 from 80, level 2 from 140.
+  {
+    id: "ko1",
+    course: "ko",
+    title: "TOPIK 1",
+    level: 1,
+    minutes: 40,
+    pass: 80,
+    sections: [
+      {
+        id: "listening",
+        parts: [
+          { type: "l-word-tf", count: 5 },
+          { type: "l-word-meaning", count: 5 },
+          { type: "l-word-hanzi", count: 5 },
+          { type: "l-sent-meaning", count: 5 },
+        ],
+      },
+      {
+        id: "reading",
+        parts: [
+          { type: "r-word-tf", count: 5 },
+          { type: "r-pinyin", count: 5 },
+          { type: "r-meaning-word", count: 5 },
+          { type: "r-sent-meaning", count: 5 },
+        ],
+      },
+    ],
+  },
+  {
+    id: "ko2",
+    course: "ko",
+    title: "TOPIK 2",
+    level: 2,
+    minutes: 60,
+    pass: 140,
+    sections: [
+      {
+        id: "listening",
+        parts: [
+          { type: "l-word-tf", count: 5 },
+          { type: "l-word-meaning", count: 10 },
+          { type: "l-word-hanzi", count: 5 },
+          { type: "l-sent-meaning", count: 10 },
+        ],
+      },
+      {
+        id: "reading",
+        parts: [
+          { type: "r-word-tf", count: 5 },
+          { type: "r-meaning-word", count: 10 },
+          { type: "r-sent-meaning", count: 10 },
+          { type: "w-arrange", count: 5 },
+        ],
+      },
+    ],
+  },
+  // JLPT has three scored sections (từ vựng, đọc, nghe).
+  {
+    id: "ja1",
+    course: "ja",
+    title: "JLPT N5",
+    level: 1,
+    minutes: 45,
+    pass: 135,
+    sections: [
+      {
+        id: "vocab",
+        parts: [
+          { type: "r-word-tf", count: 5 },
+          { type: "r-pinyin", count: 5 },
+          { type: "r-meaning-word", count: 5 },
+        ],
+      },
+      {
+        id: "reading",
+        parts: [
+          { type: "r-sent-meaning", count: 10 },
+          { type: "w-arrange", count: 5 },
+        ],
+      },
+      {
+        id: "listening",
+        parts: [
+          { type: "l-word-meaning", count: 5 },
+          { type: "l-word-hanzi", count: 5 },
+          { type: "l-sent-meaning", count: 5 },
+        ],
+      },
+    ],
+  },
+  {
+    id: "ja2",
+    course: "ja",
+    title: "JLPT N4",
+    level: 2,
+    minutes: 60,
+    pass: 150,
+    sections: [
+      {
+        id: "vocab",
+        parts: [
+          { type: "r-word-tf", count: 5 },
+          { type: "r-pinyin", count: 5 },
+          { type: "r-meaning-word", count: 10 },
+        ],
+      },
+      {
+        id: "reading",
+        parts: [
+          { type: "r-sent-meaning", count: 15 },
+          { type: "w-arrange", count: 5 },
+        ],
+      },
+      {
+        id: "listening",
+        parts: [
+          { type: "l-word-meaning", count: 5 },
+          { type: "l-word-hanzi", count: 5 },
+          { type: "l-sent-meaning", count: 10 },
+        ],
+      },
+    ],
+  },
   {
     id: "en1",
     course: "en",
@@ -515,15 +637,22 @@ const PART_TITLE: Record<PartType, string> = {
   "g-choice": "Chọn đáp án đúng để hoàn thành câu",
   "rd-passage": "Đọc đoạn văn và trả lời câu hỏi",
 };
+const LANG: Record<CourseId, string> = {
+  zh: "tiếng Trung",
+  en: "tiếng Anh",
+  ko: "tiếng Hàn",
+  ja: "tiếng Nhật",
+};
 const partTitle = (type: PartType, course: CourseId) =>
-  course === "en" && type === "r-meaning-word"
-    ? "Chọn từ tiếng Anh đúng với nghĩa"
-    : PART_TITLE[type];
+  type === "r-meaning-word"
+    ? `Chọn từ ${LANG[course]} đúng với nghĩa`
+    : type === "r-pinyin" && course !== "zh"
+      ? `Chọn phiên âm (${course === "ja" ? "romaji" : "chữ Latinh"}) đúng`
+      : PART_TITLE[type];
 
 /** Bundled words of one level of a course (independent of the course being studied). */
 export function levelWords(level: number, course: CourseId = "zh"): Word[] {
-  const [lessons, units] =
-    course === "en" ? [EN_LESSONS, EN_UNITS] : [BUNDLED_LESSONS, BUNDLED_UNITS];
+  const [lessons, units] = [courseLessons(course), courseUnits(course)];
   const levels = new Map(units.map((u) => [u.unit, u.level ?? 1]));
   return lessons
     .filter((l) => (levels.get(l.unit) ?? 1) === level)
@@ -541,7 +670,13 @@ export const questionCount = (s: MockSpec) =>
   );
 export const maxScore = (s: MockSpec) => s.sections.length * 100;
 export const mockName = (course: CourseId) =>
-  course === "en" ? "Thi thử tiếng Anh" : "Thi thử HSK";
+  course === "en"
+    ? "Thi thử tiếng Anh"
+    : course === "ko"
+      ? "Thi thử TOPIK"
+      : course === "ja"
+        ? "Thi thử JLPT"
+        : "Thi thử HSK";
 
 const TF = ["Đúng", "Sai"];
 const paren = (s: string) => (s ? ` (${s})` : "");

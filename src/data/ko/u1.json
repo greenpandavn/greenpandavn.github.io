@@ -1,0 +1,77 @@
+{
+ "units": [
+  {"unit":1,"level":1,"title":"Phần 1: Làm quen","desc":"Chào hỏi, giới thiệu, số đếm, gia đình, con người","color":"leaf","course":"ko"}
+ ],
+ "lessons": [
+  {"id":"ko101","title":"Chào hỏi","desc":"Xin chào, cảm ơn, xin lỗi","icon":"안","unit":1,"course":"ko","order":10,"words":[
+   {"id":"ko101-안녕하세요","hanzi":"안녕하세요","pinyin":"annyeonghaseyo","vi":"xin chào","ex":{"tokens":["안녕하세요",",","저는","민수입니다","."],"py":["annyeonghaseyo",",","jeoneun","minsuimnida","."],"vi":"Xin chào, tôi là Minsu.","alts":[]}},
+   {"id":"ko101-감사합니다","hanzi":"감사합니다","pinyin":"gamsahamnida","vi":"cảm ơn","ex":{"tokens":["도와주셔서","정말","감사합니다","."],"py":["dowajusyeoseo","jeongmal","gamsahamnida","."],"vi":"Thật sự cảm ơn vì đã giúp tôi.","alts":[]}},
+   {"id":"ko101-죄송합니다","hanzi":"죄송합니다","pinyin":"joesonghamnida","vi":"xin lỗi","ex":{"tokens":["늦어서","정말","죄송합니다","."],"py":["neujeoseo","jeongmal","joesonghamnida","."],"vi":"Thật sự xin lỗi vì tôi đến muộn.","alts":[]}},
+   {"id":"ko101-네","hanzi":"네","pinyin":"ne","vi":"vâng, có","ex":{"tokens":["네",",","저는","학생입니다","."],"py":["ne",",","jeoneun","haksaengimnida","."],"vi":"Vâng, tôi là học sinh.","alts":[]}},
+   {"id":"ko101-아니요","hanzi":"아니요","pinyin":"aniyo","vi":"không","ex":{"tokens":["아니요",",","저는","의사가","아닙니다","."],"py":["aniyo",",","jeoneun","uisaga","animnida","."],"vi":"Không, tôi không phải là bác sĩ.","alts":[]}},
+   {"id":"ko101-안녕히","hanzi":"안녕히","pinyin":"annyeonghi","vi":"một cách bình an","ex":{"tokens":["안녕히","가세요",",","내일","만나요","."],"py":["annyeonghi","gaseyo",",","naeil","mannayo","."],"vi":"Tạm biệt, mai gặp lại nhé.","alts":[]}},
+   {"id":"ko101-반갑습니다","hanzi":"반갑습니다","pinyin":"bangapseumnida","vi":"rất vui được gặp","ex":{"tokens":["만나서","정말","반갑습니다","."],"py":["mannaseo","jeongmal","bangapseumnida","."],"vi":"Rất vui được gặp bạn.","alts":[]}},
+   {"id":"ko101-괜찮아요","hanzi":"괜찮아요","pinyin":"gwaenchanayo","vi":"không sao","ex":{"tokens":["저는","정말","괜찮아요","."],"py":["jeoneun","jeongmal","gwaenchanayo","."],"vi":"Tôi thật sự không sao.","alts":[]}},
+   {"id":"ko101-잠깐만요","hanzi":"잠깐만요","pinyin":"jamkkanmanyo","vi":"chờ một chút","ex":{"tokens":["잠깐만요",",","지금","갑니다","."],"py":["jamkkanmanyo",",","jigeum","gamnida","."],"vi":"Chờ một chút, tôi đi ngay đây.","alts":[]}},
+   {"id":"ko101-실례합니다","hanzi":"실례합니다","pinyin":"sillyehamnida","vi":"xin phép, xin lỗi làm phiền","ex":{"tokens":["실례합니다",",","여기가","은행입니까","?"],"py":["sillyehamnida",",","yeogiga","eunhaengimnikka","?"],"vi":"Xin lỗi, đây có phải ngân hàng không?","alts":[]}},
+   {"id":"ko101-천만에요","hanzi":"천만에요","pinyin":"cheonmaneyo","vi":"không có gì","ex":{"tokens":["천만에요",",","또","오세요","."],"py":["cheonmaneyo",",","tto","oseyo","."],"vi":"Không có gì, lần sau lại đến nhé.","alts":[]}},
+   {"id":"ko101-축하합니다","hanzi":"축하합니다","pinyin":"chukahamnida","vi":"chúc mừng","ex":{"tokens":["생일을","진심으로","축하합니다","."],"py":["saengireul","jinsimeuro","chukahamnida","."],"vi":"Chân thành chúc mừng sinh nhật.","alts":[]}}
+  ]},
+  {"id":"ko102","title":"Giới thiệu bản thân","desc":"Tôi, bạn, tên, quốc tịch","icon":"저","unit":1,"course":"ko","order":20,"words":[
+   {"id":"ko102-저","hanzi":"저","pinyin":"jeo","vi":"tôi (khiêm tốn)","ex":{"tokens":["저는","베트남","사람입니다","."],"py":["jeoneun","beteunam","saramimnida","."],"vi":"Tôi là người Việt Nam.","alts":[]}},
+   {"id":"ko102-이름","hanzi":"이름","pinyin":"ireum","vi":"tên","ex":{"tokens":["제","이름은","란입니다","."],"py":["je","ireumeun","ranimnida","."],"vi":"Tên tôi là Lan.","alts":[]}},
+   {"id":"ko102-사람","hanzi":"사람","pinyin":"saram","vi":"người","ex":{"tokens":["그","사람은","제","친구입니다","."],"py":["geu","sarameun","je","chinguimnida","."],"vi":"Người đó là bạn tôi.","alts":[]}},
+   {"id":"ko102-친구","hanzi":"친구","pinyin":"chingu","vi":"bạn bè","ex":{"tokens":["저는","한국","친구가","많습니다","."],"py":["jeoneun","hanguk","chinguga","manseumnida","."],"vi":"Tôi có nhiều bạn Hàn Quốc.","alts":[]}},
+   {"id":"ko102-한국","hanzi":"한국","pinyin":"hanguk","vi":"Hàn Quốc","ex":{"tokens":["저는","한국에","가고","싶습니다","."],"py":["jeoneun","hanguge","gago","sipseumnida","."],"vi":"Tôi muốn đi Hàn Quốc.","alts":[]}},
+   {"id":"ko102-베트남","hanzi":"베트남","pinyin":"beteunam","vi":"Việt Nam","ex":{"tokens":["베트남은","아주","아름답습니다","."],"py":["beteunameun","aju","areumdapseumnida","."],"vi":"Việt Nam rất đẹp.","alts":[]}},
+   {"id":"ko102-나라","hanzi":"나라","pinyin":"nara","vi":"đất nước","ex":{"tokens":["어느","나라에서","왔습니까","?"],"py":["eoneu","naraeseo","watseumnikka","?"],"vi":"Bạn đến từ nước nào?","alts":[]}},
+   {"id":"ko102-우리","hanzi":"우리","pinyin":"uri","vi":"chúng tôi, chúng ta","ex":{"tokens":["우리","같이","밥을","먹어요","."],"py":["uri","gachi","babeul","meogeoyo","."],"vi":"Chúng ta cùng ăn cơm nhé.","alts":[]}},
+   {"id":"ko102-누구","hanzi":"누구","pinyin":"nugu","vi":"ai","ex":{"tokens":["저","사람은","누구입니까","?"],"py":["jeo","sarameun","nuguimnikka","?"],"vi":"Người kia là ai?","alts":[]}},
+   {"id":"ko102-학생","hanzi":"학생","pinyin":"haksaeng","vi":"học sinh","ex":{"tokens":["제","동생은","대학교","학생입니다","."],"py":["je","dongsaengeun","daehakgyo","haksaengimnida","."],"vi":"Em tôi là sinh viên đại học.","alts":[]}},
+   {"id":"ko102-선생님","hanzi":"선생님","pinyin":"seonsaengnim","vi":"giáo viên","ex":{"tokens":["선생님은","지금","교실에","계십니다","."],"py":["seonsaengnimeun","jigeum","gyosire","gyesimnida","."],"vi":"Thầy giáo bây giờ đang ở trong lớp.","alts":[]}},
+   {"id":"ko102-회사원","hanzi":"회사원","pinyin":"hoesawon","vi":"nhân viên công ty","ex":{"tokens":["우리","아버지는","회사원입니다","."],"py":["uri","abeojineun","hoesawonimnida","."],"vi":"Bố tôi là nhân viên công ty.","alts":[]}}
+  ]},
+  {"id":"ko103","title":"Số đếm","desc":"Số Hán Hàn và số thuần Hàn","icon":"일","unit":1,"course":"ko","order":30,"words":[
+   {"id":"ko103-하나","hanzi":"하나","pinyin":"hana","vi":"một (thuần Hàn)","ex":{"tokens":["사과","하나","주세요","."],"py":["sagwa","hana","juseyo","."],"vi":"Cho tôi một quả táo.","alts":[]}},
+   {"id":"ko103-둘","hanzi":"둘","pinyin":"dul","vi":"hai (thuần Hàn)","ex":{"tokens":["동생이","둘","있습니다","."],"py":["dongsaengi","dul","itseumnida","."],"vi":"Tôi có hai người em.","alts":[]}},
+   {"id":"ko103-셋","hanzi":"셋","pinyin":"set","vi":"ba (thuần Hàn)","ex":{"tokens":["고양이","셋이","같이","삽니다","."],"py":["goyangi","sesi","gachi","samnida","."],"vi":"Ba con mèo sống cùng nhau.","alts":[]}},
+   {"id":"ko103-넷","hanzi":"넷","pinyin":"net","vi":"bốn (thuần Hàn)","ex":{"tokens":["우리","가족은","모두","넷입니다","."],"py":["uri","gajogeun","modu","nesimnida","."],"vi":"Gia đình tôi có tất cả bốn người.","alts":[]}},
+   {"id":"ko103-다섯","hanzi":"다섯","pinyin":"daseot","vi":"năm (thuần Hàn)","ex":{"tokens":["책을","다섯","권","샀습니다","."],"py":["chaegeul","daseot","gwon","satseumnida","."],"vi":"Tôi đã mua năm quyển sách.","alts":[]}},
+   {"id":"ko103-열","hanzi":"열","pinyin":"yeol","vi":"mười (thuần Hàn)","ex":{"tokens":["학생이","열","명","있습니다","."],"py":["haksaengi","yeol","myeong","itseumnida","."],"vi":"Có mười học sinh.","alts":[]}},
+   {"id":"ko103-일","hanzi":"일","pinyin":"il","vi":"một (Hán Hàn); ngày","ex":{"tokens":["오늘은","오월","일","일입니다","."],"py":["oneureun","owol","il","irimnida","."],"vi":"Hôm nay là ngày một tháng năm.","alts":[]}},
+   {"id":"ko103-이","hanzi":"이","pinyin":"i","vi":"hai (Hán Hàn)","ex":{"tokens":["교실은","이","층에","있습니다","."],"py":["gyosireun","i","cheunge","itseumnida","."],"vi":"Phòng học ở tầng hai.","alts":[]}},
+   {"id":"ko103-삼","hanzi":"삼","pinyin":"sam","vi":"ba (Hán Hàn)","ex":{"tokens":["삼","분만","기다려","주세요","."],"py":["sam","bunman","gidaryeo","juseyo","."],"vi":"Xin hãy chờ ba phút thôi.","alts":[]}},
+   {"id":"ko103-십","hanzi":"십","pinyin":"sip","vi":"mười (Hán Hàn)","ex":{"tokens":["버스는","십","분","후에","옵니다","."],"py":["beoseuneun","sip","bun","hue","omnida","."],"vi":"Xe buýt sẽ đến sau mười phút.","alts":[]}},
+   {"id":"ko103-백","hanzi":"백","pinyin":"baek","vi":"một trăm","ex":{"tokens":["이","책은","백","쪽입니다","."],"py":["i","chaegeun","baek","jjogimnida","."],"vi":"Quyển sách này dày một trăm trang.","alts":[]}},
+   {"id":"ko103-몇","hanzi":"몇","pinyin":"myeot","vi":"mấy, bao nhiêu","ex":{"tokens":["가족이","모두","몇","명입니까","?"],"py":["gajogi","modu","myeot","myeongimnikka","?"],"vi":"Gia đình bạn có tất cả mấy người?","alts":[]}}
+  ]},
+  {"id":"ko104","title":"Gia đình","desc":"Bố mẹ, anh chị em, ông bà","icon":"가","unit":1,"course":"ko","order":40,"words":[
+   {"id":"ko104-가족","hanzi":"가족","pinyin":"gajok","vi":"gia đình","ex":{"tokens":["우리","가족은","서울에","삽니다","."],"py":["uri","gajogeun","seoure","samnida","."],"vi":"Gia đình tôi sống ở Seoul.","alts":[]}},
+   {"id":"ko104-아버지","hanzi":"아버지","pinyin":"abeoji","vi":"bố","ex":{"tokens":["아버지는","매일","신문을","읽습니다","."],"py":["abeojineun","maeil","sinmuneul","ikseumnida","."],"vi":"Bố đọc báo mỗi ngày.","alts":[]}},
+   {"id":"ko104-어머니","hanzi":"어머니","pinyin":"eomeoni","vi":"mẹ","ex":{"tokens":["어머니는","요리를","아주","잘합니다","."],"py":["eomeonineun","yorireul","aju","jalhamnida","."],"vi":"Mẹ nấu ăn rất giỏi.","alts":[]}},
+   {"id":"ko104-부모님","hanzi":"부모님","pinyin":"bumonim","vi":"bố mẹ","ex":{"tokens":["부모님은","고향에","계십니다","."],"py":["bumonimeun","gohyange","gyesimnida","."],"vi":"Bố mẹ tôi đang ở quê.","alts":[]}},
+   {"id":"ko104-형","hanzi":"형","pinyin":"hyeong","vi":"anh trai (em trai gọi)","ex":{"tokens":["형은","저보다","키가","큽니다","."],"py":["hyeongeun","jeoboda","kiga","keumnida","."],"vi":"Anh trai cao hơn tôi.","alts":[]}},
+   {"id":"ko104-누나","hanzi":"누나","pinyin":"nuna","vi":"chị gái (em trai gọi)","ex":{"tokens":["누나는","은행에서","일합니다","."],"py":["nunaneun","eunhaengeseo","ilhamnida","."],"vi":"Chị gái làm việc ở ngân hàng.","alts":[]}},
+   {"id":"ko104-오빠","hanzi":"오빠","pinyin":"oppa","vi":"anh trai (em gái gọi)","ex":{"tokens":["오빠는","운동을","아주","좋아합니다","."],"py":["oppaneun","undongeul","aju","joahamnida","."],"vi":"Anh trai rất thích thể thao.","alts":[]}},
+   {"id":"ko104-언니","hanzi":"언니","pinyin":"eonni","vi":"chị gái (em gái gọi)","ex":{"tokens":["언니는","내년에","결혼합니다","."],"py":["eonnineun","naenyeone","gyeolhonhamnida","."],"vi":"Chị gái sẽ kết hôn vào năm sau.","alts":[]}},
+   {"id":"ko104-동생","hanzi":"동생","pinyin":"dongsaeng","vi":"em","ex":{"tokens":["동생은","아직","중학생입니다","."],"py":["dongsaengeun","ajik","junghaksaengimnida","."],"vi":"Em tôi vẫn còn là học sinh cấp hai.","alts":[]}},
+   {"id":"ko104-할아버지","hanzi":"할아버지","pinyin":"harabeoji","vi":"ông","ex":{"tokens":["할아버지는","매일","아침","산책합니다","."],"py":["harabeojineun","maeil","achim","sanchaekamnida","."],"vi":"Ông đi dạo mỗi sáng.","alts":[]}},
+   {"id":"ko104-할머니","hanzi":"할머니","pinyin":"halmeoni","vi":"bà","ex":{"tokens":["할머니는","옛날","이야기를","잘하십니다","."],"py":["halmeonineun","yennal","iyagireul","jalhasimnida","."],"vi":"Bà kể chuyện ngày xưa rất hay.","alts":[]}},
+   {"id":"ko104-아이","hanzi":"아이","pinyin":"ai","vi":"đứa trẻ","ex":{"tokens":["아이가","공원에서","놀고","있습니다","."],"py":["aiga","gongwoneseo","nolgo","itseumnida","."],"vi":"Đứa trẻ đang chơi trong công viên.","alts":[]}}
+  ]},
+  {"id":"ko105","title":"Con người","desc":"Nam, nữ, nghề nghiệp","icon":"남","unit":1,"course":"ko","order":50,"words":[
+   {"id":"ko105-남자","hanzi":"남자","pinyin":"namja","vi":"đàn ông, con trai","ex":{"tokens":["저","남자는","제","형입니다","."],"py":["jeo","namjaneun","je","hyeongimnida","."],"vi":"Người đàn ông kia là anh tôi.","alts":[]}},
+   {"id":"ko105-여자","hanzi":"여자","pinyin":"yeoja","vi":"phụ nữ, con gái","ex":{"tokens":["그","여자는","노래를","잘합니다","."],"py":["geu","yeojaneun","noraereul","jalhamnida","."],"vi":"Cô gái đó hát hay.","alts":[]}},
+   {"id":"ko105-의사","hanzi":"의사","pinyin":"uisa","vi":"bác sĩ","ex":{"tokens":["의사가","환자를","보고","있습니다","."],"py":["uisaga","hwanjareul","bogo","itseumnida","."],"vi":"Bác sĩ đang khám cho bệnh nhân.","alts":[]}},
+   {"id":"ko105-간호사","hanzi":"간호사","pinyin":"ganhosa","vi":"y tá","ex":{"tokens":["간호사는","병원에서","일합니다","."],"py":["ganhosaneun","byeongwoneseo","ilhamnida","."],"vi":"Y tá làm việc ở bệnh viện.","alts":[]}},
+   {"id":"ko105-경찰","hanzi":"경찰","pinyin":"gyeongchal","vi":"cảnh sát","ex":{"tokens":["경찰이","길을","알려","주었습니다","."],"py":["gyeongchari","gireul","allyeo","jueotseumnida","."],"vi":"Cảnh sát đã chỉ đường cho tôi.","alts":[]}},
+   {"id":"ko105-가수","hanzi":"가수","pinyin":"gasu","vi":"ca sĩ","ex":{"tokens":["저는","그","가수를","좋아합니다","."],"py":["jeoneun","geu","gasureul","joahamnida","."],"vi":"Tôi thích ca sĩ đó.","alts":[]}},
+   {"id":"ko105-요리사","hanzi":"요리사","pinyin":"yorisa","vi":"đầu bếp","ex":{"tokens":["요리사가","맛있는","음식을","만듭니다","."],"py":["yorisaga","masinneun","eumsigeul","mandeumnida","."],"vi":"Đầu bếp làm món ăn ngon.","alts":[]}},
+   {"id":"ko105-손님","hanzi":"손님","pinyin":"sonnim","vi":"khách","ex":{"tokens":["가게에","손님이","아주","많습니다","."],"py":["gagee","sonnimi","aju","manseumnida","."],"vi":"Trong cửa hàng có rất nhiều khách.","alts":[]}},
+   {"id":"ko105-어른","hanzi":"어른","pinyin":"eoreun","vi":"người lớn","ex":{"tokens":["어른은","표가","더","비쌉니다","."],"py":["eoreuneun","pyoga","deo","bissamnida","."],"vi":"Vé người lớn đắt hơn.","alts":[]}},
+   {"id":"ko105-아기","hanzi":"아기","pinyin":"agi","vi":"em bé","ex":{"tokens":["아기가","방에서","자고","있습니다","."],"py":["agiga","bangeseo","jago","itseumnida","."],"vi":"Em bé đang ngủ trong phòng.","alts":[]}},
+   {"id":"ko105-남편","hanzi":"남편","pinyin":"nampyeon","vi":"chồng","ex":{"tokens":["제","남편은","요리를","좋아합니다","."],"py":["je","nampyeoneun","yorireul","joahamnida","."],"vi":"Chồng tôi thích nấu ăn.","alts":[]}},
+   {"id":"ko105-아내","hanzi":"아내","pinyin":"anae","vi":"vợ","ex":{"tokens":["아내와","같이","시장에","갑니다","."],"py":["anaewa","gachi","sijange","gamnida","."],"vi":"Tôi đi chợ cùng vợ.","alts":[]}}
+  ]}
+ ]
+}

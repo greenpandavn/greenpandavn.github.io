@@ -16,7 +16,8 @@ import { everSignedIn, firebaseConfigured, useAccount } from './lib/account';
 import AnnouncementPanel from './components/AnnouncementPanel';
 import LoginGate from './components/LoginGate';
 import { needsLogin } from './lib/gate';
-import { LESSON_BY_ID, courseChosen, isEnglish, loadUnits, setCourse, unitsOfWords, useContentVersion } from './data';
+import { COURSE_LANG, VOICE_PACK } from './lib/speech';
+import { LESSON_BY_ID, courseChosen, getCourse, langName, loadUnits, setCourse, unitsOfWords, useContentVersion } from './data';
 import CoursePicker from './components/CoursePicker';
 import { socialBadge, useSocial } from './lib/socialState';
 import LevelPicker from './components/LevelPicker';
@@ -69,7 +70,7 @@ export default function App() {
   const [session, setSession] = useState<SessionMode | null>(null);
   useEffect(() => {
     // the admin area manages the Chinese course content only
-    if (adminOpen && acc.role === 'admin' && isEnglish()) setCourse('zh');
+    if (adminOpen && acc.role === 'admin' && getCourse() !== 'zh') setCourse('zh');
   }, [adminOpen, acc.role]);
   const p = useProgress();
   const contentVersion = useContentVersion();
@@ -107,7 +108,7 @@ export default function App() {
   }, []);
   // Cốc Cốc and in-app browsers (Zalo, Facebook) have no voices: say so once per session when the app opens.
   const [browserNotice, setBrowserNotice] = useState(() => !!unsupportedBrowser() && !browserNoticeSeen());
-  const voiceHint = <>Thiết bị chưa có giọng đọc {isEnglish() ? 'tiếng Anh' : 'tiếng Trung'}: hãy cài giọng {isEnglish() ? '“English (United States)”' : '“Chinese (China)”'} trong cài đặt hệ thống, hoặc dùng Chrome/Safari/Edge.</>;
+  const voiceHint = <>Thiết bị chưa có giọng đọc {langName()}: hãy cài giọng “{VOICE_PACK[COURSE_LANG[getCourse()]]}” trong cài đặt hệ thống, hoặc dùng Chrome/Safari/Edge.</>;
   const toast = (
     <>
       {ttsError === 'toast' && (
