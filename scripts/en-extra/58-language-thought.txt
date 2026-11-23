@@ -1,0 +1,65 @@
+# Level 5 (Chuyên sâu): thuật ngữ ngôn ngữ, văn học, lập luận.
+@5|Thuật ngữ ngữ pháp|Từ loại, mệnh đề, phát âm|Grammar
+word order|trật tự từ|English word order is subject, verb, object.|Trật tự từ tiếng Anh là chủ ngữ, động từ, tân ngữ.
+parts of speech|các từ loại|Nouns and verbs are parts of speech.|Danh từ và động từ là các từ loại.
+verb tense|thì của động từ|Choose the correct verb tense.|Hãy chọn thì đúng của động từ.
+passive voice|thể bị động|The report is written in the passive voice.|Bản báo cáo được viết ở thể bị động.
+active voice|thể chủ động|Use the active voice for clear writing.|Hãy dùng thể chủ động để viết rõ ràng.
+direct speech|lời nói trực tiếp|Direct speech needs quotation marks.|Lời nói trực tiếp cần dấu ngoặc kép.
+reported speech|lời nói gián tiếp|Change the sentence into reported speech.|Hãy đổi câu sang lời nói gián tiếp.
+relative clause|mệnh đề quan hệ|A relative clause often begins with "who".|Mệnh đề quan hệ thường bắt đầu bằng "who".
+subordinate clause|mệnh đề phụ|A subordinate clause cannot stand alone.|Mệnh đề phụ không thể đứng một mình.
+main clause|mệnh đề chính|Every sentence needs a main clause.|Mỗi câu đều cần một mệnh đề chính.
+noun phrase|cụm danh từ|"The old house" is a noun phrase.|"The old house" là một cụm danh từ.
+compound noun|danh từ ghép|"Toothbrush" is a compound noun.|"Toothbrush" là một danh từ ghép.
+proper noun|danh từ riêng|A proper noun starts with a capital letter.|Danh từ riêng bắt đầu bằng chữ hoa.
+uncountable noun|danh từ không đếm được|"Water" is an uncountable noun.|"Water" là danh từ không đếm được.
+modal verb|động từ khuyết thiếu|"Can" is a modal verb.|"Can" là một động từ khuyết thiếu.
+auxiliary verb|trợ động từ|"Do" is an auxiliary verb in questions.|"Do" là trợ động từ trong câu hỏi.
+irregular verb|động từ bất quy tắc|"Go" is an irregular verb.|"Go" là một động từ bất quy tắc.
+phrasal verb|cụm động từ|"Give up" is a phrasal verb.|"Give up" là một cụm động từ.
+past participle|quá khứ phân từ|"Written" is the past participle of "write".|"Written" là quá khứ phân từ của "write".
+present participle|hiện tại phân từ|"Running" is a present participle.|"Running" là một hiện tại phân từ.
+definite article|mạo từ xác định|"The" is the definite article.|"The" là mạo từ xác định.
+indefinite article|mạo từ không xác định|"A" is an indefinite article.|"A" là một mạo từ không xác định.
+possessive pronoun|đại từ sở hữu|"Mine" is a possessive pronoun.|"Mine" là một đại từ sở hữu.
+reflexive pronoun|đại từ phản thân|"Myself" is a reflexive pronoun.|"Myself" là một đại từ phản thân.
+comparative form|dạng so sánh hơn|"Bigger" is the comparative form of "big".|"Bigger" là dạng so sánh hơn của "big".
+superlative form|dạng so sánh nhất|"Best" is the superlative form of "good".|"Best" là dạng so sánh nhất của "good".
+word stress|trọng âm từ|Word stress changes the meaning of "record".|Trọng âm làm đổi nghĩa của từ "record".
+vowel sound|nguyên âm|"Ship" has a short vowel sound.|"Ship" có nguyên âm ngắn.
+consonant cluster|cụm phụ âm|"Strength" begins with a consonant cluster.|"Strength" bắt đầu bằng một cụm phụ âm.
+silent letter|chữ cái câm|The "k" in "knee" is a silent letter.|Chữ "k" trong "knee" là chữ cái câm.
+tongue twister|câu nói líu lưỡi|Try this tongue twister three times fast.|Hãy thử đọc nhanh câu líu lưỡi này ba lần.
+syntax tree|cây cú pháp|Draw a syntax tree for this sentence.|Hãy vẽ cây cú pháp cho câu này.
+dialect continuum|chuỗi phương ngữ liên tục|The villages form a dialect continuum.|Các ngôi làng tạo thành một chuỗi phương ngữ liên tục.
+
+@5|Văn học và lập luận|Thuật ngữ văn học, tu từ, triết lý|Rhetoric
+free verse|thơ tự do|The poem is written in free verse.|Bài thơ được viết theo thể tự do.
+blank verse|thơ không vần|Shakespeare often used blank verse.|Shakespeare thường dùng thơ không vần.
+stream of consciousness|dòng ý thức|The novel uses stream of consciousness.|Cuốn tiểu thuyết dùng thủ pháp dòng ý thức.
+unreliable narrator|người kể chuyện không đáng tin|The story has an unreliable narrator.|Câu chuyện có người kể không đáng tin.
+plot twist|tình tiết bất ngờ|The plot twist surprised everyone.|Tình tiết bất ngờ làm mọi người ngạc nhiên.
+character arc|hành trình phát triển nhân vật|The hero has a clear character arc.|Người hùng có hành trình phát triển rõ ràng.
+narrative voice|giọng kể|The narrative voice is warm and funny.|Giọng kể ấm áp và hài hước.
+point of view|góc nhìn, quan điểm|The story is told from a child's point of view.|Câu chuyện được kể từ góc nhìn của một đứa trẻ.
+frame story|truyện khung|The book uses a frame story.|Cuốn sách dùng một truyện khung.
+coming-of-age novel|tiểu thuyết trưởng thành|It is a coming-of-age novel set in Hanoi.|Đó là một tiểu thuyết trưởng thành lấy bối cảnh Hà Nội.
+magic realism|chủ nghĩa hiện thực huyền ảo|Márquez is famous for magic realism.|Márquez nổi tiếng với chủ nghĩa hiện thực huyền ảo.
+poetic license|sự phóng tác nghệ thuật|The film takes poetic license with history.|Bộ phim phóng tác lịch sử.
+red herring|chi tiết đánh lạc hướng|The missing key was a red herring.|Chiếc chìa khóa bị mất là chi tiết đánh lạc hướng.
+categorical imperative|mệnh lệnh tuyệt đối|Kant described the categorical imperative.|Kant mô tả mệnh lệnh tuyệt đối.
+moral compass|la bàn đạo đức|He lost his moral compass.|Anh ta đã đánh mất la bàn đạo đức.
+ethical dilemma|tình huống khó xử về đạo đức|The doctor faced an ethical dilemma.|Bác sĩ đối mặt với tình huống khó xử về đạo đức.
+value judgment|phán xét giá trị|That is a value judgment, not a fact.|Đó là phán xét giá trị, không phải sự thật.
+first principles|nguyên lý cơ bản|Let us reason from first principles.|Hãy lập luận từ các nguyên lý cơ bản.
+analogy|phép loại suy, sự so sánh tương tự|He drew an analogy between the heart and a pump.|Ông ấy so sánh trái tim với một cái bơm.
+oratory|thuật hùng biện|She is known for her oratory.|Bà ấy nổi tiếng về thuật hùng biện.
+allusion|sự ám chỉ, điển tích|The title is an allusion to a poem.|Tiêu đề ám chỉ một bài thơ.
+anecdote|giai thoại, chuyện vặt|He began with a funny anecdote.|Ông ấy mở đầu bằng một giai thoại vui.
+truism|chân lý hiển nhiên|It is a truism that practice helps.|Luyện tập thì có ích là một chân lý hiển nhiên.
+innuendo|lời nói bóng gió|The article was full of innuendo.|Bài báo đầy lời bóng gió.
+rhetorical question|câu hỏi tu từ|"Who cares?" is a rhetorical question.|"Ai quan tâm chứ?" là một câu hỏi tu từ.
+figure of speech|biện pháp tu từ|"Time is money" is a figure of speech.|"Thời gian là tiền bạc" là một biện pháp tu từ.
+play on words|lối chơi chữ|The shop name is a play on words.|Tên cửa hàng là một lối chơi chữ.
+turn of phrase|cách diễn đạt|She has a clever turn of phrase.|Cô ấy có cách diễn đạt khéo léo.

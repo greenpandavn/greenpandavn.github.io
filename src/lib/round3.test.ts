@@ -63,10 +63,10 @@ describe("v3 content", () => {
       data.ALL_WORDS.length,
     );
   });
-  it("English course: 780 lessons, 9838 words, every lesson builds a full exercise queue", () => {
+  it("English course: 792 lessons, 10000 words, every lesson builds a full exercise queue", () => {
     data.setCourse("en");
-    expect(data.LESSONS.length).toBe(780);
-    expect(data.ALL_WORDS.length).toBe(9838);
+    expect(data.LESSONS.length).toBe(792);
+    expect(data.ALL_WORDS.length).toBe(10000);
     expect(
       data.LESSONS.filter((l) => data.unitLevel(l.unit) === 1).flatMap(
         (l) => l.words,
@@ -337,9 +337,9 @@ describe("v4.5: Thi thử tiếng Anh", () => {
     expect([1, 2, 3, 4, 5].map(size)).toEqual([
       [95, 1168],
       [122, 1511],
-      [183, 2317],
-      [201, 2537],
-      [179, 2305],
+      [185, 2342],
+      [206, 2607],
+      [184, 2372],
     ]);
     expect([1, 2, 3, 4, 5].map((lv) => data.levelLabel(lv))).toEqual([
       "Sơ cấp",
@@ -586,6 +586,6 @@ describe("v5.2.3 course metadata", () => {
     data.setCourse("zh");
     expect(data.levelWordCount(8, "zh")).toBe(1800);
     expect(data.levelWordCount(9, "zh")).toBe(450);
-    expect(data.levelWordCount(5, "en")).toBe(2305);
+    expect(data.levelWordCount(5, "en")).toBe(2372);
   });
 });

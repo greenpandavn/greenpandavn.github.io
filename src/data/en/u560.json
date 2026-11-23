@@ -1,9 +1,9 @@
 {
  "units": [
-  {"unit":560,"level":5,"title":"Phần 69: Mở rộng – Từ văn chương nâng cao","desc":"Từ văn chương nâng cao, Y học chuyên sâu, Pháp luật và thể chế","color":"sun","course":"en"}
+  {"unit":560,"level":5,"title":"Phần 71: Mở rộng – Từ văn chương nâng cao","desc":"Từ văn chương nâng cao, Y học chuyên sâu, Pháp luật và thể chế","color":"sun","course":"en"}
  ],
  "lessons": [
-  {"id":"y5181","title":"Từ văn chương nâng cao 5","desc":"Từ hiếm gặp trong văn học và báo chí chất lượng cao","icon":"Erudite","unit":560,"course":"en","order":7570,"words":[
+  {"id":"y5181","title":"Từ văn chương nâng cao 5","desc":"Từ hiếm gặp trong văn học và báo chí chất lượng cao","icon":"Erudite","unit":560,"course":"en","order":7640,"words":[
    {"id":"y5181-pariah","hanzi":"pariah","pinyin":"","vi":"kẻ bị ruồng bỏ","ex":{"tokens":["After","the","scandal","he","became","a","pariah","."],"py":["","","","","","","","."],"vi":"Sau vụ bê bối, ông ta trở thành kẻ bị ruồng bỏ.","alts":[]}},
    {"id":"y5181-peremptory","hanzi":"peremptory","pinyin":"","vi":"dứt khoát, hách dịch","ex":{"tokens":["She","gave","a","peremptory","order","."],"py":["","","","","","."],"vi":"Bà ấy ra một mệnh lệnh dứt khoát.","alts":[]}},
    {"id":"y5181-pithy","hanzi":"pithy","pinyin":"","vi":"súc tích","ex":{"tokens":["He","is","known","for","his","pithy","remarks","."],"py":["","","","","","","","."],"vi":"Ông ấy nổi tiếng với những nhận xét súc tích.","alts":[]}},
@@ -17,7 +17,7 @@
    {"id":"y5181-salubrious","hanzi":"salubrious","pinyin":"","vi":"lành mạnh, tốt cho sức khỏe","ex":{"tokens":["They","moved","to","a","more","salubrious","area","."],"py":["","","","","","","","."],"vi":"Họ chuyển đến một khu trong lành hơn.","alts":[]}},
    {"id":"y5181-solicitous","hanzi":"solicitous","pinyin":"","vi":"ân cần, quan tâm","ex":{"tokens":["The","nurse","was","solicitous","about","his","comfort","."],"py":["","","","","","","","."],"vi":"Cô y tá ân cần lo cho ông ấy được thoải mái.","alts":[]}}
   ]},
-  {"id":"y5182","title":"Từ văn chương nâng cao 6","desc":"Từ hiếm gặp trong văn học và báo chí chất lượng cao","icon":"Erudite","unit":560,"course":"en","order":7580,"words":[
+  {"id":"y5182","title":"Từ văn chương nâng cao 6","desc":"Từ hiếm gặp trong văn học và báo chí chất lượng cao","icon":"Erudite","unit":560,"course":"en","order":7650,"words":[
    {"id":"y5182-sonorous","hanzi":"sonorous","pinyin":"","vi":"vang, trầm ấm","ex":{"tokens":["He","read","the","poem","in","a","sonorous","voice","."],"py":["","","","","","","","","."],"vi":"Ông ấy đọc bài thơ bằng giọng trầm vang.","alts":[]}},
    {"id":"y5182-strident","hanzi":"strident","pinyin":"","vi":"the thé; gay gắt","ex":{"tokens":["Her","strident","voice","filled","the","room","."],"py":["","","","","","","."],"vi":"Giọng the thé của bà ấy vang khắp phòng.","alts":[]}},
    {"id":"y5182-stultify","hanzi":"stultify","pinyin":"","vi":"làm cùn mòn, làm mụ mẫm","ex":{"tokens":["Dull","lessons","stultify","young","minds","."],"py":["","","","","","."],"vi":"Những bài học tẻ nhạt làm mụ mẫm đầu óc trẻ.","alts":[]}},
@@ -31,7 +31,7 @@
    {"id":"y5182-verisimilitude","hanzi":"verisimilitude","pinyin":"","vi":"tính chân thực","ex":{"tokens":["The","details","give","the","novel","verisimilitude","."],"py":["","","","","","","."],"vi":"Các chi tiết làm cuốn tiểu thuyết thêm chân thực.","alts":[]}},
    {"id":"y5182-contumacious","hanzi":"contumacious","pinyin":"","vi":"ương ngạnh, chống đối","ex":{"tokens":["The","contumacious","witness","refused","to","answer","."],"py":["","","","","","","."],"vi":"Nhân chứng ương ngạnh từ chối trả lời.","alts":[]}}
   ]},
-  {"id":"y5183","title":"Y học chuyên sâu 2","desc":"Bệnh lý, điều trị, chuyên khoa","icon":"Medical","unit":560,"course":"en","order":7590,"words":[
+  {"id":"y5183","title":"Y học chuyên sâu 2","desc":"Bệnh lý, điều trị, chuyên khoa","icon":"Medical","unit":560,"course":"en","order":7660,"words":[
    {"id":"y5183-antibiotic_resistance","hanzi":"antibiotic resistance","pinyin":"","vi":"sự kháng kháng sinh","ex":{"tokens":["Antibiotic","resistance","is","a","global","threat","."],"py":["","","","","","","."],"vi":"Kháng kháng sinh là mối đe dọa toàn cầu.","alts":[]}},
    {"id":"y5183-anticoagulant","hanzi":"anticoagulant","pinyin":"","vi":"thuốc chống đông máu","ex":{"tokens":["He","takes","an","anticoagulant","every","day","."],"py":["","","","","","","."],"vi":"Ông ấy uống thuốc chống đông máu mỗi ngày.","alts":[]}},
    {"id":"y5183-antihistamine","hanzi":"antihistamine","pinyin":"","vi":"thuốc kháng histamin","ex":{"tokens":["An","antihistamine","helps","with","hay","fever","."],"py":["","","","","","","."],"vi":"Thuốc kháng histamin giúp giảm viêm mũi dị ứng.","alts":[]}},
@@ -46,7 +46,7 @@
    {"id":"y5183-aneurysm","hanzi":"aneurysm","pinyin":"","vi":"phình mạch","ex":{"tokens":["The","aneurysm","was","found","by","chance","."],"py":["","","","","","","."],"vi":"Chỗ phình mạch được phát hiện tình cờ.","alts":[]}},
    {"id":"y5183-thrombosis","hanzi":"thrombosis","pinyin":"","vi":"huyết khối","ex":{"tokens":["Long","flights","can","cause","thrombosis","."],"py":["","","","","","."],"vi":"Các chuyến bay dài có thể gây huyết khối.","alts":[]}}
   ]},
-  {"id":"y5184","title":"Y học chuyên sâu 3","desc":"Bệnh lý, điều trị, chuyên khoa","icon":"Medical","unit":560,"course":"en","order":7600,"words":[
+  {"id":"y5184","title":"Y học chuyên sâu 3","desc":"Bệnh lý, điều trị, chuyên khoa","icon":"Medical","unit":560,"course":"en","order":7670,"words":[
    {"id":"y5184-ischemia","hanzi":"ischemia","pinyin":"","vi":"thiếu máu cục bộ","ex":{"tokens":["Ischemia","damages","the","heart","muscle","."],"py":["","","","","","."],"vi":"Thiếu máu cục bộ làm tổn thương cơ tim.","alts":[]}},
    {"id":"y5184-infarction","hanzi":"infarction","pinyin":"","vi":"nhồi máu","ex":{"tokens":["The","patient","suffered","a","heart","infarction","."],"py":["","","","","","","."],"vi":"Bệnh nhân bị nhồi máu cơ tim.","alts":[]}},
    {"id":"y5184-cardiac_arrest","hanzi":"cardiac arrest","pinyin":"","vi":"ngừng tim","ex":{"tokens":["He","went","into","cardiac","arrest","."],"py":["","","","","","."],"vi":"Ông ấy bị ngừng tim.","alts":[]}},
@@ -60,7 +60,7 @@
    {"id":"y5184-carcinoma","hanzi":"carcinoma","pinyin":"","vi":"ung thư biểu mô","ex":{"tokens":["The","biopsy","confirmed","a","carcinoma","."],"py":["","","","","","."],"vi":"Sinh thiết xác nhận ung thư biểu mô.","alts":[]}},
    {"id":"y5184-sarcoma","hanzi":"sarcoma","pinyin":"","vi":"ung thư mô liên kết","ex":{"tokens":["Sarcoma","is","a","rare","cancer","."],"py":["","","","","","."],"vi":"Ung thư mô liên kết là một loại ung thư hiếm.","alts":[]}}
   ]},
-  {"id":"y5185","title":"Y học chuyên sâu 4","desc":"Bệnh lý, điều trị, chuyên khoa","icon":"Medical","unit":560,"course":"en","order":7610,"words":[
+  {"id":"y5185","title":"Y học chuyên sâu 4","desc":"Bệnh lý, điều trị, chuyên khoa","icon":"Medical","unit":560,"course":"en","order":7680,"words":[
    {"id":"y5185-cirrhosis","hanzi":"cirrhosis","pinyin":"","vi":"xơ gan","ex":{"tokens":["Heavy","drinking","leads","to","cirrhosis","."],"py":["","","","","","."],"vi":"Uống nhiều rượu dẫn đến xơ gan.","alts":[]}},
    {"id":"y5185-pancreatitis","hanzi":"pancreatitis","pinyin":"","vi":"viêm tụy","ex":{"tokens":["He","was","in","hospital","with","pancreatitis","."],"py":["","","","","","","."],"vi":"Anh ấy nằm viện vì viêm tụy.","alts":[]}},
    {"id":"y5185-gastritis","hanzi":"gastritis","pinyin":"","vi":"viêm dạ dày","ex":{"tokens":["Spicy","food","makes","her","gastritis","worse","."],"py":["","","","","","","."],"vi":"Đồ cay làm bệnh viêm dạ dày của cô ấy nặng hơn.","alts":[]}},
@@ -74,7 +74,7 @@
    {"id":"y5185-dengue_fever","hanzi":"dengue fever","pinyin":"","vi":"sốt xuất huyết","ex":{"tokens":["Dengue","fever","is","common","in","the","rainy","season","."],"py":["","","","","","","","","."],"vi":"Sốt xuất huyết phổ biến vào mùa mưa.","alts":[]}},
    {"id":"y5185-incubation_period","hanzi":"incubation period","pinyin":"","vi":"thời kỳ ủ bệnh","ex":{"tokens":["The","incubation","period","is","about","five","days","."],"py":["","","","","","","","."],"vi":"Thời kỳ ủ bệnh khoảng năm ngày.","alts":[]}}
   ]},
-  {"id":"y5186","title":"Y học chuyên sâu 5","desc":"Bệnh lý, điều trị, chuyên khoa","icon":"Medical","unit":560,"course":"en","order":7620,"words":[
+  {"id":"y5186","title":"Y học chuyên sâu 5","desc":"Bệnh lý, điều trị, chuyên khoa","icon":"Medical","unit":560,"course":"en","order":7690,"words":[
    {"id":"y5186-booster_shot","hanzi":"booster shot","pinyin":"","vi":"mũi tiêm nhắc lại","ex":{"tokens":["I","had","my","booster","shot","last","week","."],"py":["","","","","","","","."],"vi":"Tuần trước tôi đã tiêm mũi nhắc lại.","alts":[]}},
    {"id":"y5186-herd_immunity","hanzi":"herd immunity","pinyin":"","vi":"miễn dịch cộng đồng","ex":{"tokens":["Vaccines","help","us","reach","herd","immunity","."],"py":["","","","","","","."],"vi":"Vắc xin giúp chúng ta đạt miễn dịch cộng đồng.","alts":[]}},
    {"id":"y5186-overdose","hanzi":"overdose","pinyin":"","vi":"quá liều","ex":{"tokens":["He","was","taken","to","hospital","after","an","overdose","."],"py":["","","","","","","","","."],"vi":"Anh ta được đưa vào viện sau khi dùng quá liều.","alts":[]}},
@@ -88,7 +88,7 @@
    {"id":"y5186-diuretic","hanzi":"diuretic","pinyin":"","vi":"thuốc lợi tiểu","ex":{"tokens":["Coffee","is","a","mild","diuretic","."],"py":["","","","","","."],"vi":"Cà phê là chất lợi tiểu nhẹ.","alts":[]}},
    {"id":"y5186-laxative","hanzi":"laxative","pinyin":"","vi":"thuốc nhuận tràng","ex":{"tokens":["Prunes","work","as","a","natural","laxative","."],"py":["","","","","","","."],"vi":"Mận khô có tác dụng như thuốc nhuận tràng tự nhiên.","alts":[]}}
   ]},
-  {"id":"y5187","title":"Y học chuyên sâu 6","desc":"Bệnh lý, điều trị, chuyên khoa","icon":"Medical","unit":560,"course":"en","order":7630,"words":[
+  {"id":"y5187","title":"Y học chuyên sâu 6","desc":"Bệnh lý, điều trị, chuyên khoa","icon":"Medical","unit":560,"course":"en","order":7700,"words":[
    {"id":"y5187-intravenous","hanzi":"intravenous","pinyin":"","vi":"qua đường tĩnh mạch","ex":{"tokens":["She","was","given","intravenous","fluids","."],"py":["","","","","","."],"vi":"Cô ấy được truyền dịch qua đường tĩnh mạch.","alts":[]}},
    {"id":"y5187-subcutaneous","hanzi":"subcutaneous","pinyin":"","vi":"dưới da","ex":{"tokens":["Insulin","is","given","by","subcutaneous","injection","."],"py":["","","","","","","."],"vi":"Insulin được tiêm dưới da.","alts":[]}},
    {"id":"y5187-topical","hanzi":"topical","pinyin":"","vi":"bôi ngoài da; mang tính thời sự","ex":{"tokens":["Use","a","topical","cream","on","the","rash","."],"py":["","","","","","","","."],"vi":"Hãy dùng kem bôi ngoài da cho chỗ phát ban.","alts":[]}},
@@ -102,7 +102,7 @@
    {"id":"y5187-sciatica","hanzi":"sciatica","pinyin":"","vi":"đau thần kinh tọa","ex":{"tokens":["Sciatica","makes","it","hard","to","sit","."],"py":["","","","","","","."],"vi":"Đau thần kinh tọa khiến việc ngồi rất khó khăn.","alts":[]}},
    {"id":"y5187-endoscopy","hanzi":"endoscopy","pinyin":"","vi":"nội soi","ex":{"tokens":["She","had","an","endoscopy","this","morning","."],"py":["","","","","","","."],"vi":"Sáng nay cô ấy đi nội soi.","alts":[]}}
   ]},
-  {"id":"y5188","title":"Y học chuyên sâu 7","desc":"Bệnh lý, điều trị, chuyên khoa","icon":"Medical","unit":560,"course":"en","order":7640,"words":[
+  {"id":"y5188","title":"Y học chuyên sâu 7","desc":"Bệnh lý, điều trị, chuyên khoa","icon":"Medical","unit":560,"course":"en","order":7710,"words":[
    {"id":"y5188-mammogram","hanzi":"mammogram","pinyin":"","vi":"chụp nhũ ảnh","ex":{"tokens":["Women","over","fifty","should","have","a","mammogram","."],"py":["","","","","","","","."],"vi":"Phụ nữ trên năm mươi nên chụp nhũ ảnh.","alts":[]}},
    {"id":"y5188-electrocardiogram","hanzi":"electrocardiogram","pinyin":"","vi":"điện tâm đồ","ex":{"tokens":["The","electrocardiogram","was","normal","."],"py":["","","","","."],"vi":"Điện tâm đồ bình thường.","alts":[]}},
    {"id":"y5188-pathology","hanzi":"pathology","pinyin":"","vi":"bệnh học, giải phẫu bệnh","ex":{"tokens":["The","sample","was","sent","to","pathology","."],"py":["","","","","","","."],"vi":"Mẫu được gửi đến khoa giải phẫu bệnh.","alts":[]}},
@@ -116,7 +116,7 @@
    {"id":"y5188-orthopedics","hanzi":"orthopedics","pinyin":"","vi":"chỉnh hình","ex":{"tokens":["He","had","surgery","in","orthopedics","."],"py":["","","","","","."],"vi":"Anh ấy phẫu thuật ở khoa chỉnh hình.","alts":[]}},
    {"id":"y5188-suppository","hanzi":"suppository","pinyin":"","vi":"thuốc đạn (đặt hậu môn)","ex":{"tokens":["The","medicine","comes","as","a","suppository","."],"py":["","","","","","","."],"vi":"Thuốc này ở dạng thuốc đạn.","alts":[]}}
   ]},
-  {"id":"y5189","title":"Pháp luật và thể chế 1","desc":"Tố tụng, hợp đồng, nghị viện, thể chế chính trị","icon":"Governance","unit":560,"course":"en","order":7650,"words":[
+  {"id":"y5189","title":"Pháp luật và thể chế 1","desc":"Tố tụng, hợp đồng, nghị viện, thể chế chính trị","icon":"Governance","unit":560,"course":"en","order":7720,"words":[
    {"id":"y5189-jurisprudence","hanzi":"jurisprudence","pinyin":"","vi":"luật học","ex":{"tokens":["She","teaches","jurisprudence","at","the","university","."],"py":["","","","","","","."],"vi":"Bà ấy dạy luật học ở trường đại học.","alts":[]}},
    {"id":"y5189-edict","hanzi":"edict","pinyin":"","vi":"sắc lệnh, chỉ dụ","ex":{"tokens":["The","king","issued","an","edict","."],"py":["","","","","","."],"vi":"Nhà vua ban một chỉ dụ.","alts":[]}},
    {"id":"y5189-deposition","hanzi":"deposition","pinyin":"","vi":"lời khai có tuyên thệ; sự phế truất","ex":{"tokens":["The","lawyer","read","his","deposition","."],"py":["","","","","","."],"vi":"Luật sư đọc lời khai có tuyên thệ của ông ấy.","alts":[]}},
@@ -132,7 +132,7 @@
    {"id":"y5189-statute_of_limitations","hanzi":"statute of limitations","pinyin":"","vi":"thời hiệu khởi kiện","ex":{"tokens":["The","statute","of","limitations","has","expired","."],"py":["","","","","","","."],"vi":"Thời hiệu khởi kiện đã hết.","alts":[]}},
    {"id":"y5189-double_jeopardy","hanzi":"double jeopardy","pinyin":"","vi":"việc bị xét xử hai lần cho một tội","ex":{"tokens":["Double","jeopardy","is","banned","by","the","constitution","."],"py":["","","","","","","","."],"vi":"Hiến pháp cấm xét xử hai lần cho cùng một tội.","alts":[]}}
   ]},
-  {"id":"y5190","title":"Pháp luật và thể chế 2","desc":"Tố tụng, hợp đồng, nghị viện, thể chế chính trị","icon":"Governance","unit":560,"course":"en","order":7660,"words":[
+  {"id":"y5190","title":"Pháp luật và thể chế 2","desc":"Tố tụng, hợp đồng, nghị viện, thể chế chính trị","icon":"Governance","unit":560,"course":"en","order":7730,"words":[
    {"id":"y5190-extradition","hanzi":"extradition","pinyin":"","vi":"sự dẫn độ","ex":{"tokens":["He","is","fighting","extradition","to","the","US","."],"py":["","","","","","","","."],"vi":"Ông ta đang chống lại việc bị dẫn độ sang Mỹ.","alts":[]}},
    {"id":"y5190-pardon","hanzi":"pardon","pinyin":"","vi":"lệnh ân xá; tha thứ","ex":{"tokens":["The","president","granted","him","a","pardon","."],"py":["","","","","","","."],"vi":"Tổng thống ban lệnh ân xá cho ông ấy.","alts":[]}},
    {"id":"y5190-restitution","hanzi":"restitution","pinyin":"","vi":"sự bồi hoàn","ex":{"tokens":["The","court","ordered","restitution","to","the","victims","."],"py":["","","","","","","","."],"vi":"Tòa yêu cầu bồi hoàn cho các nạn nhân.","alts":[]}},

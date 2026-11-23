@@ -1,9 +1,9 @@
 {
  "units": [
-  {"unit":452,"level":4,"title":"Phần 46: Mở rộng – Chính trị và nhà nước","desc":"Chính trị và nhà nước, Quân sự và chiến tranh, Tôn giáo và tín ngưỡng","color":"sky","course":"en"}
+  {"unit":452,"level":4,"title":"Phần 47: Mở rộng – Chính trị và nhà nước","desc":"Chính trị và nhà nước, Quân sự và chiến tranh, Tôn giáo và tín ngưỡng","color":"sky","course":"en"}
  ],
  "lessons": [
-  {"id":"y4021","title":"Chính trị và nhà nước 4","desc":"Thể chế, chức vụ, hệ tư tưởng","icon":"Politics","unit":452,"course":"en","order":5020,"words":[
+  {"id":"y4021","title":"Chính trị và nhà nước 4","desc":"Thể chế, chức vụ, hệ tư tưởng","icon":"Politics","unit":452,"course":"en","order":5040,"words":[
    {"id":"y4021-whistleblower","hanzi":"whistleblower","pinyin":"","vi":"người tố giác","ex":{"tokens":["A","whistleblower","told","the","press","about","the","fraud","."],"py":["","","","","","","","","."],"vi":"Một người tố giác đã nói với báo chí về vụ gian lận.","alts":[]}},
    {"id":"y4021-naturalization","hanzi":"naturalization","pinyin":"","vi":"sự nhập quốc tịch","ex":{"tokens":["He","became","a","citizen","through","naturalization","."],"py":["","","","","","","."],"vi":"Anh ấy trở thành công dân qua việc nhập quốc tịch.","alts":[]}},
    {"id":"y4021-immigration","hanzi":"immigration","pinyin":"","vi":"sự nhập cư","ex":{"tokens":["Immigration","is","a","big","issue","in","the","election","."],"py":["","","","","","","","","."],"vi":"Nhập cư là vấn đề lớn trong cuộc bầu cử.","alts":[]}},
@@ -17,7 +17,7 @@
    {"id":"y4021-regent","hanzi":"regent","pinyin":"","vi":"quan nhiếp chính","ex":{"tokens":["A","regent","ruled","while","the","king","was","a","child","."],"py":["","","","","","","","","","."],"vi":"Một quan nhiếp chính cai trị khi nhà vua còn nhỏ.","alts":[]}},
    {"id":"y4021-caucus","hanzi":"caucus","pinyin":"","vi":"cuộc họp kín của đảng","ex":{"tokens":["The","party","held","a","caucus","to","choose","its","leader","."],"py":["","","","","","","","","","."],"vi":"Đảng tổ chức họp kín để chọn lãnh đạo.","alts":[]}}
   ]},
-  {"id":"y4022","title":"Quân sự và chiến tranh 1","desc":"Đơn vị, vũ khí, cấp bậc, chiến dịch","icon":"Military","unit":452,"course":"en","order":5030,"words":[
+  {"id":"y4022","title":"Quân sự và chiến tranh 1","desc":"Đơn vị, vũ khí, cấp bậc, chiến dịch","icon":"Military","unit":452,"course":"en","order":5050,"words":[
    {"id":"y4022-cavalry","hanzi":"cavalry","pinyin":"","vi":"kỵ binh","ex":{"tokens":["The","cavalry","attacked","at","dawn","."],"py":["","","","","","."],"vi":"Kỵ binh tấn công lúc rạng đông.","alts":[]}},
    {"id":"y4022-regiment","hanzi":"regiment","pinyin":"","vi":"trung đoàn","ex":{"tokens":["His","regiment","was","sent","to","the","border","."],"py":["","","","","","","","."],"vi":"Trung đoàn của anh ấy được điều ra biên giới.","alts":[]}},
    {"id":"y4022-brigade","hanzi":"brigade","pinyin":"","vi":"lữ đoàn","ex":{"tokens":["The","brigade","marched","north","."],"py":["","","","","."],"vi":"Lữ đoàn hành quân về phía bắc.","alts":[]}},
@@ -32,7 +32,7 @@
    {"id":"y4022-drawbridge","hanzi":"drawbridge","pinyin":"","vi":"cầu rút","ex":{"tokens":["They","raised","the","drawbridge","at","night","."],"py":["","","","","","","."],"vi":"Họ kéo cầu rút lên vào ban đêm.","alts":[]}},
    {"id":"y4022-armor","hanzi":"armor","pinyin":"","vi":"áo giáp","ex":{"tokens":["The","knight","wore","heavy","armor","."],"py":["","","","","","."],"vi":"Hiệp sĩ mặc áo giáp nặng.","alts":[]}}
   ]},
-  {"id":"y4023","title":"Quân sự và chiến tranh 2","desc":"Đơn vị, vũ khí, cấp bậc, chiến dịch","icon":"Military","unit":452,"course":"en","order":5040,"words":[
+  {"id":"y4023","title":"Quân sự và chiến tranh 2","desc":"Đơn vị, vũ khí, cấp bậc, chiến dịch","icon":"Military","unit":452,"course":"en","order":5060,"words":[
    {"id":"y4023-shield","hanzi":"shield","pinyin":"","vi":"cái khiên; che chắn","ex":{"tokens":["He","blocked","the","arrow","with","his","shield","."],"py":["","","","","","","","."],"vi":"Anh ấy chặn mũi tên bằng khiên.","alts":[]}},
    {"id":"y4023-dagger","hanzi":"dagger","pinyin":"","vi":"dao găm","ex":{"tokens":["He","hid","a","dagger","in","his","boot","."],"py":["","","","","","","","."],"vi":"Anh ta giấu một con dao găm trong ủng.","alts":[]}},
    {"id":"y4023-spear","hanzi":"spear","pinyin":"","vi":"ngọn giáo","ex":{"tokens":["The","hunter","threw","his","spear","."],"py":["","","","","","."],"vi":"Người thợ săn phóng ngọn giáo.","alts":[]}},
@@ -47,7 +47,7 @@
    {"id":"y4023-missile","hanzi":"missile","pinyin":"","vi":"tên lửa","ex":{"tokens":["The","ship","fired","a","missile","."],"py":["","","","","","."],"vi":"Con tàu phóng một quả tên lửa.","alts":[]}},
    {"id":"y4023-torpedo","hanzi":"torpedo","pinyin":"","vi":"ngư lôi","ex":{"tokens":["A","torpedo","sank","the","ship","."],"py":["","","","","","."],"vi":"Một quả ngư lôi đánh chìm con tàu.","alts":[]}}
   ]},
-  {"id":"y4024","title":"Quân sự và chiến tranh 3","desc":"Đơn vị, vũ khí, cấp bậc, chiến dịch","icon":"Military","unit":452,"course":"en","order":5050,"words":[
+  {"id":"y4024","title":"Quân sự và chiến tranh 3","desc":"Đơn vị, vũ khí, cấp bậc, chiến dịch","icon":"Military","unit":452,"course":"en","order":5070,"words":[
    {"id":"y4024-warhead","hanzi":"warhead","pinyin":"","vi":"đầu đạn","ex":{"tokens":["The","missile","carries","a","nuclear","warhead","."],"py":["","","","","","","."],"vi":"Tên lửa mang đầu đạn hạt nhân.","alts":[]}},
    {"id":"y4024-landmine","hanzi":"landmine","pinyin":"","vi":"mìn chôn dưới đất","ex":{"tokens":["A","landmine","can","stay","dangerous","for","decades","."],"py":["","","","","","","","."],"vi":"Một quả mìn có thể còn nguy hiểm trong nhiều thập kỷ.","alts":[]}},
    {"id":"y4024-ammunition","hanzi":"ammunition","pinyin":"","vi":"đạn dược","ex":{"tokens":["The","soldiers","ran","out","of","ammunition","."],"py":["","","","","","","."],"vi":"Binh lính hết đạn dược.","alts":[]}},
@@ -62,7 +62,7 @@
    {"id":"y4024-lieutenant","hanzi":"lieutenant","pinyin":"","vi":"trung úy","ex":{"tokens":["The","lieutenant","gave","the","order","to","move","."],"py":["","","","","","","","."],"vi":"Viên trung úy ra lệnh di chuyển.","alts":[]}},
    {"id":"y4024-major","hanzi":"major","pinyin":"","vi":"thiếu tá; chủ yếu","ex":{"tokens":["The","major","read","the","report","."],"py":["","","","","","."],"vi":"Viên thiếu tá đọc bản báo cáo.","alts":[]}}
   ]},
-  {"id":"y4025","title":"Quân sự và chiến tranh 4","desc":"Đơn vị, vũ khí, cấp bậc, chiến dịch","icon":"Military","unit":452,"course":"en","order":5060,"words":[
+  {"id":"y4025","title":"Quân sự và chiến tranh 4","desc":"Đơn vị, vũ khí, cấp bậc, chiến dịch","icon":"Military","unit":452,"course":"en","order":5080,"words":[
    {"id":"y4025-colonel","hanzi":"colonel","pinyin":"","vi":"đại tá","ex":{"tokens":["The","colonel","visited","the","camp","."],"py":["","","","","","."],"vi":"Vị đại tá đến thăm doanh trại.","alts":[]}},
    {"id":"y4025-general","hanzi":"general","pinyin":"","vi":"vị tướng; chung","ex":{"tokens":["The","general","planned","the","attack","."],"py":["","","","","","."],"vi":"Vị tướng lên kế hoạch tấn công.","alts":[]}},
    {"id":"y4025-admiral","hanzi":"admiral","pinyin":"","vi":"đô đốc","ex":{"tokens":["The","admiral","commands","the","whole","fleet","."],"py":["","","","","","","."],"vi":"Vị đô đốc chỉ huy toàn bộ hạm đội.","alts":[]}},
@@ -76,7 +76,7 @@
    {"id":"y4025-deserter","hanzi":"deserter","pinyin":"","vi":"kẻ đào ngũ","ex":{"tokens":["The","deserter","hid","in","the","forest","."],"py":["","","","","","","."],"vi":"Kẻ đào ngũ trốn trong rừng.","alts":[]}},
    {"id":"y4025-traitor","hanzi":"traitor","pinyin":"","vi":"kẻ phản bội","ex":{"tokens":["They","called","him","a","traitor","."],"py":["","","","","","."],"vi":"Họ gọi anh ta là kẻ phản bội.","alts":[]}}
   ]},
-  {"id":"y4026","title":"Quân sự và chiến tranh 5","desc":"Đơn vị, vũ khí, cấp bậc, chiến dịch","icon":"Military","unit":452,"course":"en","order":5070,"words":[
+  {"id":"y4026","title":"Quân sự và chiến tranh 5","desc":"Đơn vị, vũ khí, cấp bậc, chiến dịch","icon":"Military","unit":452,"course":"en","order":5090,"words":[
    {"id":"y4026-espionage","hanzi":"espionage","pinyin":"","vi":"hoạt động gián điệp","ex":{"tokens":["He","was","arrested","for","espionage","."],"py":["","","","","","."],"vi":"Anh ta bị bắt vì hoạt động gián điệp.","alts":[]}},
    {"id":"y4026-sabotage","hanzi":"sabotage","pinyin":"","vi":"phá hoại ngầm","ex":{"tokens":["The","fire","was","an","act","of","sabotage","."],"py":["","","","","","","","."],"vi":"Vụ cháy là một hành động phá hoại.","alts":[]}},
    {"id":"y4026-camouflage","hanzi":"camouflage","pinyin":"","vi":"ngụy trang","ex":{"tokens":["The","soldiers","wore","camouflage","."],"py":["","","","","."],"vi":"Binh lính mặc đồ ngụy trang.","alts":[]}},
@@ -90,7 +90,7 @@
    {"id":"y4026-fighter_jet","hanzi":"fighter jet","pinyin":"","vi":"máy bay chiến đấu","ex":{"tokens":["A","fighter","jet","flew","low","over","the","town","."],"py":["","","","","","","","","."],"vi":"Một máy bay chiến đấu bay thấp qua thị trấn.","alts":[]}},
    {"id":"y4026-bomber","hanzi":"bomber","pinyin":"","vi":"máy bay ném bom","ex":{"tokens":["The","bomber","returned","to","base","."],"py":["","","","","","."],"vi":"Máy bay ném bom quay về căn cứ.","alts":[]}}
   ]},
-  {"id":"y4027","title":"Quân sự và chiến tranh 6","desc":"Đơn vị, vũ khí, cấp bậc, chiến dịch","icon":"Military","unit":452,"course":"en","order":5080,"words":[
+  {"id":"y4027","title":"Quân sự và chiến tranh 6","desc":"Đơn vị, vũ khí, cấp bậc, chiến dịch","icon":"Military","unit":452,"course":"en","order":5100,"words":[
    {"id":"y4027-parachute","hanzi":"parachute","pinyin":"","vi":"cái dù","ex":{"tokens":["His","parachute","opened","safely","."],"py":["","","","","."],"vi":"Chiếc dù của anh ấy bung ra an toàn.","alts":[]}},
    {"id":"y4027-paratrooper","hanzi":"paratrooper","pinyin":"","vi":"lính nhảy dù","ex":{"tokens":["Each","paratrooper","jumped","from","the","plane","."],"py":["","","","","","","."],"vi":"Từng lính nhảy dù nhảy khỏi máy bay.","alts":[]}},
    {"id":"y4027-salute","hanzi":"salute","pinyin":"","vi":"chào kiểu nhà binh","ex":{"tokens":["The","soldiers","salute","the","flag","."],"py":["","","","","","."],"vi":"Những người lính chào cờ.","alts":[]}},
@@ -104,7 +104,7 @@
    {"id":"y4027-destroyer","hanzi":"destroyer","pinyin":"","vi":"tàu khu trục","ex":{"tokens":["The","destroyer","followed","the","submarine","."],"py":["","","","","","."],"vi":"Tàu khu trục bám theo tàu ngầm.","alts":[]}},
    {"id":"y4027-demilitarize","hanzi":"demilitarize","pinyin":"","vi":"phi quân sự hóa","ex":{"tokens":["Both","sides","agreed","to","demilitarize","the","border","."],"py":["","","","","","","","."],"vi":"Hai bên đồng ý phi quân sự hóa biên giới.","alts":[]}}
   ]},
-  {"id":"y4028","title":"Tôn giáo và tín ngưỡng 1","desc":"Nơi thờ, chức sắc, nghi lễ, khái niệm","icon":"Belief","unit":452,"course":"en","order":5090,"words":[
+  {"id":"y4028","title":"Tôn giáo và tín ngưỡng 1","desc":"Nơi thờ, chức sắc, nghi lễ, khái niệm","icon":"Belief","unit":452,"course":"en","order":5110,"words":[
    {"id":"y4028-divine","hanzi":"divine","pinyin":"","vi":"thiêng liêng, thuộc thần thánh","ex":{"tokens":["They","prayed","for","divine","help","."],"py":["","","","","","."],"vi":"Họ cầu xin sự giúp đỡ của thần linh.","alts":[]}},
    {"id":"y4028-worship","hanzi":"worship","pinyin":"","vi":"thờ cúng, thờ phụng","ex":{"tokens":["Many","families","worship","their","ancestors","."],"py":["","","","","","."],"vi":"Nhiều gia đình thờ cúng tổ tiên.","alts":[]}},
    {"id":"y4028-prayer","hanzi":"prayer","pinyin":"","vi":"lời cầu nguyện","ex":{"tokens":["She","said","a","short","prayer","before","the","meal","."],"py":["","","","","","","","","."],"vi":"Cô ấy đọc một lời cầu nguyện ngắn trước bữa ăn.","alts":[]}},
@@ -120,7 +120,7 @@
    {"id":"y4028-chapel","hanzi":"chapel","pinyin":"","vi":"nhà nguyện","ex":{"tokens":["They","were","married","in","a","small","chapel","."],"py":["","","","","","","","."],"vi":"Họ làm lễ cưới trong một nhà nguyện nhỏ.","alts":[]}},
    {"id":"y4028-cathedral","hanzi":"cathedral","pinyin":"","vi":"nhà thờ lớn","ex":{"tokens":["The","cathedral","is","eight","hundred","years","old","."],"py":["","","","","","","","."],"vi":"Nhà thờ lớn đã tám trăm năm tuổi.","alts":[]}}
   ]},
-  {"id":"y4029","title":"Tôn giáo và tín ngưỡng 2","desc":"Nơi thờ, chức sắc, nghi lễ, khái niệm","icon":"Belief","unit":452,"course":"en","order":5100,"words":[
+  {"id":"y4029","title":"Tôn giáo và tín ngưỡng 2","desc":"Nơi thờ, chức sắc, nghi lễ, khái niệm","icon":"Belief","unit":452,"course":"en","order":5120,"words":[
    {"id":"y4029-convent","hanzi":"convent","pinyin":"","vi":"nữ tu viện","ex":{"tokens":["She","went","to","a","school","run","by","a","convent","."],"py":["","","","","","","","","","."],"vi":"Cô ấy học ở một trường do nữ tu viện điều hành.","alts":[]}},
    {"id":"y4029-abbey","hanzi":"abbey","pinyin":"","vi":"tu viện lớn","ex":{"tokens":["The","old","abbey","is","now","a","museum","."],"py":["","","","","","","","."],"vi":"Tu viện cổ nay là một bảo tàng.","alts":[]}},
    {"id":"y4029-mosque","hanzi":"mosque","pinyin":"","vi":"nhà thờ Hồi giáo","ex":{"tokens":["The","men","pray","at","the","mosque","on","Friday","."],"py":["","","","","","","","","."],"vi":"Những người đàn ông cầu nguyện ở nhà thờ Hồi giáo vào thứ Sáu.","alts":[]}},
@@ -136,7 +136,7 @@
    {"id":"y4029-congregation","hanzi":"congregation","pinyin":"","vi":"giáo đoàn (người dự lễ)","ex":{"tokens":["The","congregation","stood","up","to","sing","."],"py":["","","","","","","."],"vi":"Giáo đoàn đứng dậy hát.","alts":[]}},
    {"id":"y4029-parish","hanzi":"parish","pinyin":"","vi":"giáo xứ","ex":{"tokens":["He","has","lived","in","this","parish","all","his","life","."],"py":["","","","","","","","","","."],"vi":"Ông ấy sống ở giáo xứ này cả đời.","alts":[]}}
   ]},
-  {"id":"y4030","title":"Tôn giáo và tín ngưỡng 3","desc":"Nơi thờ, chức sắc, nghi lễ, khái niệm","icon":"Belief","unit":452,"course":"en","order":5110,"words":[
+  {"id":"y4030","title":"Tôn giáo và tín ngưỡng 3","desc":"Nơi thờ, chức sắc, nghi lễ, khái niệm","icon":"Belief","unit":452,"course":"en","order":5130,"words":[
    {"id":"y4030-baptism","hanzi":"baptism","pinyin":"","vi":"lễ rửa tội","ex":{"tokens":["The","whole","family","came","to","the","baptism","."],"py":["","","","","","","","."],"vi":"Cả gia đình đến dự lễ rửa tội.","alts":[]}},
    {"id":"y4030-confession","hanzi":"confession","pinyin":"","vi":"sự xưng tội; lời thú nhận","ex":{"tokens":["He","made","a","full","confession","to","the","police","."],"py":["","","","","","","","","."],"vi":"Anh ta thú nhận toàn bộ với cảnh sát.","alts":[]}},
    {"id":"y4030-sin","hanzi":"sin","pinyin":"","vi":"tội lỗi","ex":{"tokens":["Stealing","is","a","sin","."],"py":["","","","","."],"vi":"Trộm cắp là một tội lỗi.","alts":[]}},

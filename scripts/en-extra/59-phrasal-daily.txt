@@ -1,0 +1,29 @@
+# Level 3 (Nâng cao): cụm động từ ba thành phần, cụm danh từ đời thường.
+@3|Cụm động từ nâng cao|Cụm động từ nhiều thành phần|Phrasal
+catch up on|làm bù, cập nhật|I need to catch up on sleep.|Tôi cần ngủ bù.
+fall back on|dựa vào khi cần|She can fall back on her savings.|Cô ấy có thể dựa vào tiền tiết kiệm.
+drop in on|ghé thăm|Let us drop in on Lan after work.|Tan làm mình ghé thăm Lan đi.
+check up on|kiểm tra, để mắt tới|I will check up on Grandma tonight.|Tối nay tôi sẽ ghé xem bà thế nào.
+grow out of|lớn lên không còn vừa, hết thói quen|Children grow out of shoes quickly.|Trẻ con lớn nhanh nên giày mau chật.
+read up on|đọc tìm hiểu về|I must read up on the history of Hue.|Tôi phải đọc tìm hiểu về lịch sử Huế.
+sign up for|đăng ký|I want to sign up for a cooking class.|Tôi muốn đăng ký một lớp nấu ăn.
+look out for|để ý, trông chừng|Look out for bikes when you cross.|Hãy để ý xe đạp khi băng qua đường.
+own up to|thú nhận|He decided to own up to the mistake.|Anh ấy quyết định thú nhận sai lầm.
+date back to|có từ (thời)|The temple may date back to the 11th century.|Ngôi đền có thể có từ thế kỷ 11.
+stay away from|tránh xa|Stay away from the edge.|Hãy tránh xa mép vực.
+watch out for|coi chừng|Watch out for the wet floor.|Coi chừng sàn ướt.
+get down to|bắt tay vào|Let us get down to work.|Hãy bắt tay vào việc thôi.
+
+@3|Cụm danh từ đời thường|Cụm từ quen thuộc hằng ngày|Daily
+bedtime story|truyện kể trước khi ngủ|Dad reads me a bedtime story.|Bố đọc cho tôi truyện trước khi ngủ.
+dinner party|tiệc tối|We are having a dinner party on Saturday.|Chúng tôi tổ chức tiệc tối vào thứ Bảy.
+family tree|cây gia phả|We drew our family tree at school.|Chúng tôi vẽ cây gia phả ở trường.
+first aid|sơ cứu|She gave him first aid.|Cô ấy sơ cứu cho anh ấy.
+to-do list|danh sách việc cần làm|My to-do list is very long today.|Hôm nay danh sách việc cần làm của tôi rất dài.
+rain check|lời hẹn dịp khác|Can I take a rain check on dinner?|Tôi hẹn bữa tối vào dịp khác được không?
+sweet tooth|sự hảo ngọt|My brother has a sweet tooth.|Em trai tôi hảo ngọt.
+green fingers|tài trồng cây|Grandma has green fingers.|Bà tôi trồng cây rất mát tay.
+early bird|người dậy sớm|My mother is an early bird.|Mẹ tôi là người dậy sớm.
+night owl|cú đêm, người thức khuya|I am a night owl and work late.|Tôi là cú đêm và làm việc khuya.
+couch potato|người lười chỉ ngồi xem TV|Do not be a couch potato; go for a walk.|Đừng chỉ ngồi xem TV; hãy đi dạo đi.
+bookworm|mọt sách|My sister is a bookworm.|Chị tôi là một mọt sách.

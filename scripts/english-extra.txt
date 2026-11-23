@@ -1973,7 +1973,7 @@ earphones|tai nghe nhét tai|I left my earphones on the bus.|Tôi để quên ta
 smart speaker|loa thông minh|The smart speaker plays music when I ask.|Loa thông minh phát nhạc khi tôi yêu cầu.
 fitness tracker|vòng theo dõi sức khỏe|My fitness tracker counts my steps.|Vòng theo dõi sức khỏe đếm số bước chân của tôi.
 
-%359|3|Phần 9: Mở rộng – Công nghệ hằng ngày|Công nghệ hằng ngày, Sửa chữa và lái xe, Tính từ tả đồ vật, Từ vựng tổng hợp|coral
+%359|3|Phần 9: Mở rộng – Công nghệ hằng ngày|Công nghệ hằng ngày, Sửa chữa và lái xe, Tính từ tả đồ vật, Cụm động từ nâng cao, Cụm danh từ đời thường|coral
 @y3161|Công nghệ hằng ngày 2|Điện thoại, ứng dụng, mạng|Devices
 game console|máy chơi game|He got a game console for his birthday.|Cậu ấy được tặng máy chơi game vào sinh nhật.
 game controller|tay cầm chơi game|The game controller needs new batteries.|Tay cầm chơi game cần thay pin.
@@ -2096,7 +2096,37 @@ old-fashioned|lỗi thời, kiểu cũ|My phone is old-fashioned.|Điện thoạ
 state-of-the-art|tối tân|The hospital has state-of-the-art equipment.|Bệnh viện có thiết bị tối tân.
 high-tech|công nghệ cao|He works for a high-tech company.|Anh ấy làm cho một công ty công nghệ cao.
 
-@y3169|Từ vựng tổng hợp 1|Từ thuộc nhiều chủ đề|Mix
+@y3169|Cụm động từ nâng cao|Cụm động từ nhiều thành phần|Phrasal
+catch up on|làm bù, cập nhật|I need to catch up on sleep.|Tôi cần ngủ bù.
+fall back on|dựa vào khi cần|She can fall back on her savings.|Cô ấy có thể dựa vào tiền tiết kiệm.
+drop in on|ghé thăm|Let us drop in on Lan after work.|Tan làm mình ghé thăm Lan đi.
+check up on|kiểm tra, để mắt tới|I will check up on Grandma tonight.|Tối nay tôi sẽ ghé xem bà thế nào.
+grow out of|lớn lên không còn vừa, hết thói quen|Children grow out of shoes quickly.|Trẻ con lớn nhanh nên giày mau chật.
+read up on|đọc tìm hiểu về|I must read up on the history of Hue.|Tôi phải đọc tìm hiểu về lịch sử Huế.
+sign up for|đăng ký|I want to sign up for a cooking class.|Tôi muốn đăng ký một lớp nấu ăn.
+look out for|để ý, trông chừng|Look out for bikes when you cross.|Hãy để ý xe đạp khi băng qua đường.
+own up to|thú nhận|He decided to own up to the mistake.|Anh ấy quyết định thú nhận sai lầm.
+date back to|có từ (thời)|The temple may date back to the 11th century.|Ngôi đền có thể có từ thế kỷ 11.
+stay away from|tránh xa|Stay away from the edge.|Hãy tránh xa mép vực.
+watch out for|coi chừng|Watch out for the wet floor.|Coi chừng sàn ướt.
+get down to|bắt tay vào|Let us get down to work.|Hãy bắt tay vào việc thôi.
+
+@y3170|Cụm danh từ đời thường|Cụm từ quen thuộc hằng ngày|Daily
+bedtime story|truyện kể trước khi ngủ|Dad reads me a bedtime story.|Bố đọc cho tôi truyện trước khi ngủ.
+dinner party|tiệc tối|We are having a dinner party on Saturday.|Chúng tôi tổ chức tiệc tối vào thứ Bảy.
+family tree|cây gia phả|We drew our family tree at school.|Chúng tôi vẽ cây gia phả ở trường.
+first aid|sơ cứu|She gave him first aid.|Cô ấy sơ cứu cho anh ấy.
+to-do list|danh sách việc cần làm|My to-do list is very long today.|Hôm nay danh sách việc cần làm của tôi rất dài.
+rain check|lời hẹn dịp khác|Can I take a rain check on dinner?|Tôi hẹn bữa tối vào dịp khác được không?
+sweet tooth|sự hảo ngọt|My brother has a sweet tooth.|Em trai tôi hảo ngọt.
+green fingers|tài trồng cây|Grandma has green fingers.|Bà tôi trồng cây rất mát tay.
+early bird|người dậy sớm|My mother is an early bird.|Mẹ tôi là người dậy sớm.
+night owl|cú đêm, người thức khuya|I am a night owl and work late.|Tôi là cú đêm và làm việc khuya.
+couch potato|người lười chỉ ngồi xem TV|Do not be a couch potato; go for a walk.|Đừng chỉ ngồi xem TV; hãy đi dạo đi.
+bookworm|mọt sách|My sister is a bookworm.|Chị tôi là một mọt sách.
+
+%360|3|Phần 10: Mở rộng – Từ vựng tổng hợp|Từ vựng tổng hợp|sun
+@y3181|Từ vựng tổng hợp 1|Từ thuộc nhiều chủ đề|Mix
 candlestick|chân nến|There is a silver candlestick on the table.|Có một chiếc chân nến bạc trên bàn.
 ornament|đồ trang trí|She hung an ornament on the tree.|Cô ấy treo một món đồ trang trí lên cây.
 picture frame|khung ảnh|The photo is in a wooden picture frame.|Bức ảnh nằm trong khung gỗ.
@@ -2112,7 +2142,7 @@ odometer|đồng hồ đo quãng đường|The odometer shows fifty thousand kil
 tailgate|bám sát đuôi xe; cửa hậu|Do not tailgate the car in front.|Đừng bám sát đuôi xe phía trước.
 promenade|đường dạo ven biển|We walked along the promenade at sunset.|Chúng tôi đi dạo trên đường ven biển lúc hoàng hôn.
 
-@y3170|Từ vựng tổng hợp 2|Từ thuộc nhiều chủ đề|Mix
+@y3182|Từ vựng tổng hợp 2|Từ thuộc nhiều chủ đề|Mix
 boardwalk|lối đi lát ván ven biển|There are food stalls on the boardwalk.|Có các quầy đồ ăn trên lối đi lát ván.
 immigration desk|quầy xuất nhập cảnh|Show your passport at the immigration desk.|Hãy xuất trình hộ chiếu ở quầy xuất nhập cảnh.
 bellhop|nhân viên xách hành lý khách sạn|The bellhop took our bags to the room.|Nhân viên xách hành lý mang túi của chúng tôi lên phòng.
@@ -2128,7 +2158,7 @@ labor strike|cuộc đình công|The labor strike closed the factory.|Cuộc đ�
 picket line|hàng người đình công đứng chặn|No one crossed the picket line.|Không ai vượt qua hàng người đình công.
 mentee|người được cố vấn|The mentor meets her mentee every month.|Người cố vấn gặp người được cố vấn của mình mỗi tháng.
 
-@y3171|Từ vựng tổng hợp 3|Từ thuộc nhiều chủ đề|Mix
+@y3183|Từ vựng tổng hợp 3|Từ thuộc nhiều chủ đề|Mix
 get well|khỏi bệnh|I hope you get well soon.|Tôi mong bạn sớm khỏi bệnh.
 bleed|chảy máu|The cut began to bleed.|Vết cắt bắt đầu chảy máu.
 swell|sưng lên|My ankle began to swell.|Mắt cá chân tôi bắt đầu sưng lên.
@@ -2144,7 +2174,7 @@ do the shopping|đi mua sắm, đi chợ|I do the shopping on Saturday.|Tôi đi
 do damage|gây thiệt hại|The storm may do damage to the roof.|Cơn bão có thể gây thiệt hại cho mái nhà.
 do research|nghiên cứu|Students do research in the library.|Sinh viên nghiên cứu trong thư viện.
 
-@y3172|Từ vựng tổng hợp 4|Từ thuộc nhiều chủ đề|Mix
+@y3184|Từ vựng tổng hợp 4|Từ thuộc nhiều chủ đề|Mix
 do well|làm tốt, học tốt|I hope you do well in the interview.|Tôi mong bạn làm tốt trong buổi phỏng vấn.
 get in touch|liên lạc|Get in touch if you need help.|Hãy liên lạc nếu bạn cần giúp đỡ.
 get rid of|vứt bỏ, loại bỏ|I want to get rid of these old shoes.|Tôi muốn vứt mấy đôi giày cũ này.
@@ -3688,7 +3718,7 @@ self-disciplined|có kỷ luật tự giác|You must be self-disciplined to stud
 well-behaved|ngoan ngoãn|The children were well-behaved all day.|Bọn trẻ ngoan ngoãn cả ngày.
 well-mannered|lịch sự, có phép tắc|He is a well-mannered young man.|Anh ấy là một chàng trai lịch sự.
 
-%461|4|Phần 11: Mở rộng – Tính từ ghép tả tính cách|Tính từ ghép tả tính cách, Cụm từ nối và diễn đạt, Thể hình và dinh dưỡng, Từ vựng tổng hợp|leaf
+%461|4|Phần 11: Mở rộng – Tính từ ghép tả tính cách|Tính từ ghép tả tính cách, Cụm từ nối và diễn đạt, Thể hình và dinh dưỡng, Cụm từ thành ngữ|leaf
 @y4201|Tính từ ghép tả tính cách 2|Tính từ ghép miêu tả con người|Character
 bad-tempered|nóng nảy, hay cáu|He is bad-tempered in the morning.|Buổi sáng ông ấy hay cáu.
 good-natured|tốt tính, hiền hậu|Our dog is big but good-natured.|Con chó nhà tôi to nhưng hiền.
@@ -3804,7 +3834,72 @@ mental health|sức khỏe tinh thần|Exercise is good for mental health.|Tập
 stress relief|sự giải tỏa căng thẳng|Music is my stress relief.|Âm nhạc là cách tôi giải tỏa căng thẳng.
 self-care|tự chăm sóc bản thân|Sleep is part of self-care.|Giấc ngủ là một phần của việc tự chăm sóc bản thân.
 
-@y4209|Từ vựng tổng hợp 1|Từ thuộc nhiều chủ đề|Mix
+@y4209|Cụm từ thành ngữ 1|Cụm danh từ thường gặp trong công việc và đời sống|Idioms
+ballpark figure|con số ước chừng|Can you give me a ballpark figure for the cost?|Bạn cho tôi một con số ước chừng về chi phí được không?
+corner the market|thống lĩnh thị trường|The firm tried to corner the market in coffee.|Công ty cố thống lĩnh thị trường cà phê.
+in the loop|được cập nhật thông tin|Please keep me in the loop.|Xin hãy cập nhật thông tin cho tôi.
+win-win|đôi bên cùng có lợi|The deal is a win-win for both companies.|Thỏa thuận này có lợi cho cả hai công ty.
+big picture|bức tranh toàn cảnh|Step back and look at the big picture.|Hãy lùi lại và nhìn bức tranh toàn cảnh.
+game plan|kế hoạch hành động|What is our game plan for the meeting?|Kế hoạch hành động của chúng ta cho cuộc họp là gì?
+long shot|việc ít khả năng thành công|It is a long shot, but we should try.|Việc này ít khả năng thành công, nhưng ta nên thử.
+safe bet|lựa chọn chắc ăn|This restaurant is a safe bet.|Nhà hàng này là lựa chọn chắc ăn.
+level playing field|sân chơi bình đẳng|Small firms want a level playing field.|Các công ty nhỏ muốn một sân chơi bình đẳng.
+rule of thumb|quy tắc kinh nghiệm|As a rule of thumb, save ten percent of your pay.|Theo kinh nghiệm, hãy tiết kiệm mười phần trăm lương.
+track record|thành tích đã có|She has a strong track record in sales.|Cô ấy có thành tích bán hàng rất tốt.
+learning curve|quá trình làm quen|The new software has a steep learning curve.|Phần mềm mới cần nhiều thời gian làm quen.
+comfort zone|vùng an toàn|Travel pushes you out of your comfort zone.|Du lịch đẩy bạn ra khỏi vùng an toàn.
+fine print|điều khoản in chữ nhỏ|Read the fine print before you sign.|Hãy đọc các điều khoản in chữ nhỏ trước khi ký.
+
+@y4210|Cụm từ thành ngữ 2|Cụm danh từ thường gặp trong công việc và đời sống|Idioms
+silver lining|điểm sáng trong hoàn cảnh xấu|The silver lining is that nobody was hurt.|Điểm sáng là không ai bị thương.
+tipping point|điểm bùng phát|Sales reached a tipping point last year.|Doanh số đạt điểm bùng phát vào năm ngoái.
+last resort|giải pháp cuối cùng|Surgery is a last resort.|Phẫu thuật là giải pháp cuối cùng.
+grey area|vùng xám, chỗ chưa rõ ràng|The law has a grey area here.|Luật có chỗ chưa rõ ràng ở điểm này.
+blind spot|điểm mù|Check your blind spot before you turn.|Hãy kiểm tra điểm mù trước khi rẽ.
+common ground|điểm chung|The two sides found common ground.|Hai bên đã tìm được điểm chung.
+double standard|tiêu chuẩn kép|It is a double standard to punish only one of them.|Chỉ phạt một người trong số họ là tiêu chuẩn kép.
+hidden agenda|ý đồ ngầm|I think he has a hidden agenda.|Tôi nghĩ anh ta có ý đồ ngầm.
+mixed feelings|cảm xúc lẫn lộn|I have mixed feelings about moving.|Tôi có cảm xúc lẫn lộn về việc chuyển nhà.
+second thoughts|sự đắn đo lại|She is having second thoughts about the job.|Cô ấy đang đắn đo lại về công việc đó.
+short notice|báo gấp|Thank you for coming at short notice.|Cảm ơn bạn đã đến dù được báo gấp.
+tight deadline|thời hạn gấp|We are working to a tight deadline.|Chúng tôi đang làm việc với thời hạn gấp.
+tough call|quyết định khó khăn|It was a tough call, but we cancelled the trip.|Đó là quyết định khó khăn, nhưng chúng tôi đã hủy chuyến đi.
+vicious circle|vòng luẩn quẩn|Debt can become a vicious circle.|Nợ nần có thể trở thành vòng luẩn quẩn.
+
+%462|4|Phần 12: Mở rộng – Cụm từ thành ngữ|Cụm từ thành ngữ, Xã hội và truyền thông, Từ vựng tổng hợp|sky
+@y4221|Cụm từ thành ngữ 3|Cụm danh từ thường gặp trong công việc và đời sống|Idioms
+white lie|lời nói dối vô hại|I told a white lie about the gift.|Tôi nói dối vô hại về món quà.
+wishful thinking|suy nghĩ viển vông|Hoping for a pay rise is wishful thinking.|Hy vọng được tăng lương là suy nghĩ viển vông.
+uphill battle|cuộc chiến gian nan|Learning a language at sixty is an uphill battle.|Học ngoại ngữ ở tuổi sáu mươi là một cuộc chiến gian nan.
+close call|lần thoát hiểm trong gang tấc|That was a close call; the car almost hit us.|Thật là thoát hiểm trong gang tấc; chiếc xe suýt đâm chúng tôi.
+clean slate|khởi đầu mới, xóa bỏ quá khứ|The new year is a clean slate.|Năm mới là một khởi đầu mới.
+fresh start|sự bắt đầu lại|They moved abroad for a fresh start.|Họ ra nước ngoài để bắt đầu lại.
+raw deal|sự đối xử bất công|The workers got a raw deal.|Các công nhân bị đối xử bất công.
+golden opportunity|cơ hội vàng|This is a golden opportunity to learn.|Đây là cơ hội vàng để học hỏi.
+turning point|bước ngoặt|The meeting was a turning point in her career.|Cuộc gặp là bước ngoặt trong sự nghiệp của cô ấy.
+breaking point|giới hạn chịu đựng|The nurses are at breaking point.|Các y tá đã tới giới hạn chịu đựng.
+sticking point|điểm vướng mắc|Price is the main sticking point.|Giá cả là điểm vướng mắc chính.
+selling point|điểm hấp dẫn khách hàng|The camera is the phone's main selling point.|Máy ảnh là điểm hấp dẫn chính của chiếc điện thoại.
+focal point|tâm điểm|The fireplace is the focal point of the room.|Lò sưởi là tâm điểm của căn phòng.
+moot point|điều không còn đáng bàn|Whether he was right is now a moot point.|Việc anh ấy đúng hay sai giờ không còn đáng bàn.
+
+@y4222|Xã hội và truyền thông|Báo chí, quyền, dân số, thị trường|Society
+news anchor|người dẫn bản tin|The news anchor read the headlines.|Người dẫn bản tin đọc các tin chính.
+social network|mạng xã hội|She shares photos on a social network.|Cô ấy chia sẻ ảnh trên một mạng xã hội.
+public opinion|dư luận|Public opinion has changed.|Dư luận đã thay đổi.
+opinion poll|cuộc thăm dò dư luận|The opinion poll shows a close race.|Cuộc thăm dò dư luận cho thấy cuộc đua sát sao.
+target audience|khán giả mục tiêu|Teenagers are the target audience.|Thanh thiếu niên là khán giả mục tiêu.
+mass media|phương tiện truyền thông đại chúng|Mass media shapes how we see the world.|Truyền thông đại chúng định hình cách ta nhìn thế giới.
+freedom of speech|tự do ngôn luận|Freedom of speech is protected by law.|Tự do ngôn luận được pháp luật bảo vệ.
+freedom of the press|tự do báo chí|Freedom of the press matters in a democracy.|Tự do báo chí quan trọng trong một nền dân chủ.
+equal rights|quyền bình đẳng|They marched for equal rights.|Họ tuần hành vì quyền bình đẳng.
+social justice|công bằng xã hội|She works for social justice.|Cô ấy hoạt động vì công bằng xã hội.
+class divide|sự phân hóa giai cấp|The class divide is growing.|Sự phân hóa giai cấp đang gia tăng.
+culture shock|sốc văn hóa|I felt culture shock in my first week abroad.|Tôi bị sốc văn hóa trong tuần đầu ở nước ngoài.
+brain drain|chảy máu chất xám|The country suffers from brain drain.|Đất nước chịu cảnh chảy máu chất xám.
+quality of life|chất lượng cuộc sống|Parks improve the quality of life.|Công viên nâng cao chất lượng cuộc sống.
+
+@y4223|Từ vựng tổng hợp 1|Từ thuộc nhiều chủ đề|Mix
 solvency|khả năng thanh toán|The auditors checked the solvency of the firm.|Kiểm toán viên kiểm tra khả năng thanh toán của công ty.
 rosary|chuỗi tràng hạt|She held a rosary while she prayed.|Bà ấy cầm chuỗi tràng hạt khi cầu nguyện.
 alliteration|phép điệp âm đầu|The poem uses alliteration in every line.|Bài thơ dùng phép điệp âm ở mọi dòng.
@@ -3820,7 +3915,7 @@ oral tradition|truyền thống truyền miệng|The story survived through oral
 ancestor worship|tục thờ cúng tổ tiên|Ancestor worship is common in Vietnam.|Tục thờ cúng tổ tiên phổ biến ở Việt Nam.
 charity work|công việc từ thiện|He does charity work at weekends.|Anh ấy làm từ thiện vào cuối tuần.
 
-@y4210|Từ vựng tổng hợp 2|Từ thuộc nhiều chủ đề|Mix
+@y4224|Từ vựng tổng hợp 2|Từ thuộc nhiều chủ đề|Mix
 philanthropy|hoạt động từ thiện (quy mô lớn)|The hospital was built through philanthropy.|Bệnh viện được xây nhờ hoạt động từ thiện.
 volunteerism|tinh thần tình nguyện|Volunteerism is strong among students.|Tinh thần tình nguyện rất mạnh trong sinh viên.
 spin-off|phần ngoại truyện|The series got a spin-off.|Loạt phim có thêm phần ngoại truyện.
@@ -3835,6 +3930,22 @@ deadline pressure|áp lực hạn chót|He works well under deadline pressure.|A
 shareholder meeting|cuộc họp cổ đông|The plan was approved at the shareholder meeting.|Kế hoạch được thông qua tại cuộc họp cổ đông.
 big-hearted|rộng lượng|He is a big-hearted man.|Ông ấy là người rộng lượng.
 light-hearted|vui vẻ, nhẹ nhàng|It is a light-hearted comedy.|Đó là một bộ phim hài nhẹ nhàng.
+
+@y4225|Từ vựng tổng hợp 3|Từ thuộc nhiều chủ đề|Mix
+half-hearted|hời hợt, không nhiệt tình|He made a half-hearted attempt to help.|Anh ta giúp một cách hời hợt.
+single-minded|chuyên tâm, quyết chí|She is single-minded about her career.|Cô ấy quyết chí theo đuổi sự nghiệp.
+high-spirited|sôi nổi, hăng hái|The high-spirited children ran outside.|Lũ trẻ sôi nổi chạy ra ngoài.
+long-winded|dài dòng|His speech was long-winded.|Bài phát biểu của ông ấy dài dòng.
+short-tempered|nóng tính|He gets short-tempered when he is tired.|Anh ấy trở nên nóng tính khi mệt.
+safety net|lưới an sinh|Savings are a safety net.|Tiền tiết kiệm là một lưới an toàn.
+living wage|mức lương đủ sống|Workers are asking for a living wage.|Người lao động đòi mức lương đủ sống.
+gig economy|nền kinh tế việc làm tự do|Many drivers work in the gig economy.|Nhiều tài xế làm việc trong nền kinh tế việc làm tự do.
+digital divide|khoảng cách số|The digital divide affects rural schools.|Khoảng cách số ảnh hưởng đến trường học nông thôn.
+ageing population|dân số già|Japan has an ageing population.|Nhật Bản có dân số già.
+housing market|thị trường nhà ở|The housing market is cooling.|Thị trường nhà ở đang hạ nhiệt.
+housing crisis|khủng hoảng nhà ở|The city faces a housing crisis.|Thành phố đối mặt với khủng hoảng nhà ở.
+public sector|khu vực công|Teachers work in the public sector.|Giáo viên làm việc trong khu vực công.
+private sector|khu vực tư nhân|He moved to the private sector.|Anh ấy chuyển sang khu vực tư nhân.
 
 %551|5|Phần 1: Mở rộng – Giải phẫu cơ thể|Giải phẫu cơ thể, Bệnh lý, Thủ thuật và thiết bị y khoa, Thực vật học, Động vật học|leaf
 @y5001|Giải phẫu cơ thể 1|Xương, nội tạng, các phần trên cơ thể|Anatomy
@@ -5536,7 +5647,7 @@ polarization|sự phân cực|Polarization reduces glare in sunglasses.|Sự ph�
 electromagnetic wave|sóng điện từ|Light is an electromagnetic wave.|Ánh sáng là một sóng điện từ.
 gamma ray|tia gam-ma|A gamma ray has very high energy.|Tia gam-ma có năng lượng rất cao.
 
-%562|5|Phần 12: Mở rộng – Vật lý|Vật lý, Cụm từ La-tinh, Từ vựng tổng hợp|sky
+%562|5|Phần 12: Mở rộng – Vật lý|Vật lý, Cụm từ La-tinh, Thuật ngữ ngữ pháp, Văn học và lập luận, Từ vựng tổng hợp|sky
 @y5221|Vật lý 2|Năng lượng, sóng, hạt, điện từ|Physics
 lepton|lép-tôn|The electron is a lepton.|Electron là một lép-tôn.
 boson|bô-zôn|The Higgs boson was found in 2012.|Hạt bô-zôn Higgs được tìm thấy năm 2012.
@@ -5585,7 +5696,71 @@ inter alia|trong số những điều khác|The report covers, inter alia, pay a
 post mortem|khám nghiệm tử thi; rút kinh nghiệm sau sự việc|The team held a post mortem after the defeat.|Đội họp rút kinh nghiệm sau trận thua.
 curriculum vitae|sơ yếu lý lịch|Send your curriculum vitae by email.|Hãy gửi sơ yếu lý lịch qua email.
 
-@y5224|Từ vựng tổng hợp|Từ thuộc nhiều chủ đề|Mix
+@y5224|Thuật ngữ ngữ pháp 1|Từ loại, mệnh đề, phát âm|Grammar
+word order|trật tự từ|English word order is subject, verb, object.|Trật tự từ tiếng Anh là chủ ngữ, động từ, tân ngữ.
+parts of speech|các từ loại|Nouns and verbs are parts of speech.|Danh từ và động từ là các từ loại.
+verb tense|thì của động từ|Choose the correct verb tense.|Hãy chọn thì đúng của động từ.
+passive voice|thể bị động|The report is written in the passive voice.|Bản báo cáo được viết ở thể bị động.
+active voice|thể chủ động|Use the active voice for clear writing.|Hãy dùng thể chủ động để viết rõ ràng.
+direct speech|lời nói trực tiếp|Direct speech needs quotation marks.|Lời nói trực tiếp cần dấu ngoặc kép.
+reported speech|lời nói gián tiếp|Change the sentence into reported speech.|Hãy đổi câu sang lời nói gián tiếp.
+relative clause|mệnh đề quan hệ|A relative clause often begins with "who".|Mệnh đề quan hệ thường bắt đầu bằng "who".
+subordinate clause|mệnh đề phụ|A subordinate clause cannot stand alone.|Mệnh đề phụ không thể đứng một mình.
+main clause|mệnh đề chính|Every sentence needs a main clause.|Mỗi câu đều cần một mệnh đề chính.
+noun phrase|cụm danh từ|"The old house" is a noun phrase.|"The old house" là một cụm danh từ.
+compound noun|danh từ ghép|"Toothbrush" is a compound noun.|"Toothbrush" là một danh từ ghép.
+proper noun|danh từ riêng|A proper noun starts with a capital letter.|Danh từ riêng bắt đầu bằng chữ hoa.
+uncountable noun|danh từ không đếm được|"Water" is an uncountable noun.|"Water" là danh từ không đếm được.
+
+@y5225|Thuật ngữ ngữ pháp 2|Từ loại, mệnh đề, phát âm|Grammar
+modal verb|động từ khuyết thiếu|"Can" is a modal verb.|"Can" là một động từ khuyết thiếu.
+auxiliary verb|trợ động từ|"Do" is an auxiliary verb in questions.|"Do" là trợ động từ trong câu hỏi.
+irregular verb|động từ bất quy tắc|"Go" is an irregular verb.|"Go" là một động từ bất quy tắc.
+phrasal verb|cụm động từ|"Give up" is a phrasal verb.|"Give up" là một cụm động từ.
+past participle|quá khứ phân từ|"Written" is the past participle of "write".|"Written" là quá khứ phân từ của "write".
+present participle|hiện tại phân từ|"Running" is a present participle.|"Running" là một hiện tại phân từ.
+definite article|mạo từ xác định|"The" is the definite article.|"The" là mạo từ xác định.
+indefinite article|mạo từ không xác định|"A" is an indefinite article.|"A" là một mạo từ không xác định.
+possessive pronoun|đại từ sở hữu|"Mine" is a possessive pronoun.|"Mine" là một đại từ sở hữu.
+reflexive pronoun|đại từ phản thân|"Myself" is a reflexive pronoun.|"Myself" là một đại từ phản thân.
+comparative form|dạng so sánh hơn|"Bigger" is the comparative form of "big".|"Bigger" là dạng so sánh hơn của "big".
+superlative form|dạng so sánh nhất|"Best" is the superlative form of "good".|"Best" là dạng so sánh nhất của "good".
+word stress|trọng âm từ|Word stress changes the meaning of "record".|Trọng âm làm đổi nghĩa của từ "record".
+vowel sound|nguyên âm|"Ship" has a short vowel sound.|"Ship" có nguyên âm ngắn.
+
+@y5226|Văn học và lập luận 1|Thuật ngữ văn học, tu từ, triết lý|Rhetoric
+free verse|thơ tự do|The poem is written in free verse.|Bài thơ được viết theo thể tự do.
+blank verse|thơ không vần|Shakespeare often used blank verse.|Shakespeare thường dùng thơ không vần.
+stream of consciousness|dòng ý thức|The novel uses stream of consciousness.|Cuốn tiểu thuyết dùng thủ pháp dòng ý thức.
+unreliable narrator|người kể chuyện không đáng tin|The story has an unreliable narrator.|Câu chuyện có người kể không đáng tin.
+plot twist|tình tiết bất ngờ|The plot twist surprised everyone.|Tình tiết bất ngờ làm mọi người ngạc nhiên.
+character arc|hành trình phát triển nhân vật|The hero has a clear character arc.|Người hùng có hành trình phát triển rõ ràng.
+narrative voice|giọng kể|The narrative voice is warm and funny.|Giọng kể ấm áp và hài hước.
+point of view|góc nhìn, quan điểm|The story is told from a child's point of view.|Câu chuyện được kể từ góc nhìn của một đứa trẻ.
+frame story|truyện khung|The book uses a frame story.|Cuốn sách dùng một truyện khung.
+coming-of-age novel|tiểu thuyết trưởng thành|It is a coming-of-age novel set in Hanoi.|Đó là một tiểu thuyết trưởng thành lấy bối cảnh Hà Nội.
+magic realism|chủ nghĩa hiện thực huyền ảo|Márquez is famous for magic realism.|Márquez nổi tiếng với chủ nghĩa hiện thực huyền ảo.
+poetic license|sự phóng tác nghệ thuật|The film takes poetic license with history.|Bộ phim phóng tác lịch sử.
+red herring|chi tiết đánh lạc hướng|The missing key was a red herring.|Chiếc chìa khóa bị mất là chi tiết đánh lạc hướng.
+categorical imperative|mệnh lệnh tuyệt đối|Kant described the categorical imperative.|Kant mô tả mệnh lệnh tuyệt đối.
+
+@y5227|Văn học và lập luận 2|Thuật ngữ văn học, tu từ, triết lý|Rhetoric
+moral compass|la bàn đạo đức|He lost his moral compass.|Anh ta đã đánh mất la bàn đạo đức.
+ethical dilemma|tình huống khó xử về đạo đức|The doctor faced an ethical dilemma.|Bác sĩ đối mặt với tình huống khó xử về đạo đức.
+value judgment|phán xét giá trị|That is a value judgment, not a fact.|Đó là phán xét giá trị, không phải sự thật.
+first principles|nguyên lý cơ bản|Let us reason from first principles.|Hãy lập luận từ các nguyên lý cơ bản.
+analogy|phép loại suy, sự so sánh tương tự|He drew an analogy between the heart and a pump.|Ông ấy so sánh trái tim với một cái bơm.
+oratory|thuật hùng biện|She is known for her oratory.|Bà ấy nổi tiếng về thuật hùng biện.
+allusion|sự ám chỉ, điển tích|The title is an allusion to a poem.|Tiêu đề ám chỉ một bài thơ.
+anecdote|giai thoại, chuyện vặt|He began with a funny anecdote.|Ông ấy mở đầu bằng một giai thoại vui.
+truism|chân lý hiển nhiên|It is a truism that practice helps.|Luyện tập thì có ích là một chân lý hiển nhiên.
+innuendo|lời nói bóng gió|The article was full of innuendo.|Bài báo đầy lời bóng gió.
+rhetorical question|câu hỏi tu từ|"Who cares?" is a rhetorical question.|"Ai quan tâm chứ?" là một câu hỏi tu từ.
+figure of speech|biện pháp tu từ|"Time is money" is a figure of speech.|"Thời gian là tiền bạc" là một biện pháp tu từ.
+play on words|lối chơi chữ|The shop name is a play on words.|Tên cửa hàng là một lối chơi chữ.
+turn of phrase|cách diễn đạt|She has a clever turn of phrase.|Cô ấy có cách diễn đạt khéo léo.
+
+@y5228|Từ vựng tổng hợp 1|Từ thuộc nhiều chủ đề|Mix
 multilateral|đa phương|They signed a multilateral trade deal.|Họ ký một thỏa thuận thương mại đa phương.
 promulgate|ban hành, công bố|The government will promulgate the new law in May.|Chính phủ sẽ ban hành luật mới vào tháng Năm.
 abrogate|bãi bỏ, hủy bỏ|The state cannot abrogate that right.|Nhà nước không thể bãi bỏ quyền đó.
@@ -5599,4 +5774,17 @@ escape velocity|vận tốc thoát ly|The rocket must reach escape velocity.|Tê
 moraine|băng tích|The glacier left a moraine behind.|Sông băng để lại một dải băng tích.
 continental shelf|thềm lục địa|Oil was found on the continental shelf.|Dầu mỏ được tìm thấy trên thềm lục địa.
 ocean trench|rãnh đại dương|The deepest ocean trench is in the Pacific.|Rãnh đại dương sâu nhất nằm ở Thái Bình Dương.
+
+@y5229|Từ vựng tổng hợp 2|Từ thuộc nhiều chủ đề|Mix
 mantle|lớp phủ (của Trái Đất)|The mantle lies under the crust.|Lớp phủ nằm bên dưới vỏ Trái Đất.
+core|lõi|The core of the Earth is very hot.|Lõi Trái Đất rất nóng.
+litmus paper|giấy quỳ|Litmus paper turns red in acid.|Giấy quỳ chuyển đỏ trong a-xít.
+Bunsen burner|đèn Bunsen|Light the Bunsen burner carefully.|Hãy châm đèn Bunsen cẩn thận.
+special relativity|thuyết tương đối hẹp|Einstein published special relativity in 1905.|Einstein công bố thuyết tương đối hẹp năm 1905.
+general relativity|thuyết tương đối rộng|General relativity explains gravity.|Thuyết tương đối rộng giải thích lực hấp dẫn.
+spacetime|không-thời gian|Mass bends spacetime.|Khối lượng làm cong không-thời gian.
+consonant cluster|cụm phụ âm|"Strength" begins with a consonant cluster.|"Strength" bắt đầu bằng một cụm phụ âm.
+silent letter|chữ cái câm|The "k" in "knee" is a silent letter.|Chữ "k" trong "knee" là chữ cái câm.
+tongue twister|câu nói líu lưỡi|Try this tongue twister three times fast.|Hãy thử đọc nhanh câu líu lưỡi này ba lần.
+syntax tree|cây cú pháp|Draw a syntax tree for this sentence.|Hãy vẽ cây cú pháp cho câu này.
+dialect continuum|chuỗi phương ngữ liên tục|The villages form a dialect continuum.|Các ngôi làng tạo thành một chuỗi phương ngữ liên tục.
