@@ -1,0 +1,72 @@
+# Level 4 (Thành thạo): tội phạm và công lý.
+@4|Tội phạm và điều tra|Các loại tội phạm, cảnh sát, điều tra, nhà tù|Crime
+burglar|kẻ trộm đột nhập|A burglar broke into our house.|Một tên trộm đã đột nhập vào nhà chúng tôi.
+robbery|vụ cướp|There was a robbery at the bank.|Có một vụ cướp ở ngân hàng.
+mugging|vụ trấn lột|He was hurt in a mugging.|Anh ấy bị thương trong một vụ trấn lột.
+mugger|kẻ trấn lột|The mugger took her phone.|Kẻ trấn lột lấy điện thoại của cô ấy.
+pickpocket|kẻ móc túi|A pickpocket stole my wallet on the bus.|Một kẻ móc túi lấy trộm ví của tôi trên xe buýt.
+shoplifting|trộm đồ trong cửa hàng|She was arrested for shoplifting.|Cô ta bị bắt vì trộm đồ trong cửa hàng.
+shoplifter|kẻ trộm đồ trong cửa hàng|The guard caught a shoplifter.|Bảo vệ bắt được một kẻ trộm đồ.
+vandal|kẻ phá hoại tài sản|A vandal broke the bus stop.|Một kẻ phá hoại đập vỡ trạm xe buýt.
+arsonist|kẻ phóng hỏa|Police are looking for the arsonist.|Cảnh sát đang truy tìm kẻ phóng hỏa.
+kidnapper|kẻ bắt cóc|The kidnapper asked for money.|Kẻ bắt cóc đòi tiền.
+hijacking|vụ cướp máy bay, không tặc|The hijacking ended without injuries.|Vụ không tặc kết thúc mà không ai bị thương.
+hijacker|kẻ không tặc|The hijacker gave himself up.|Kẻ không tặc đã ra đầu hàng.
+smuggler|kẻ buôn lậu|The smuggler hid gold in his shoes.|Kẻ buôn lậu giấu vàng trong giày.
+trafficking|nạn buôn bán trái phép|He was jailed for drug trafficking.|Hắn bị bỏ tù vì buôn bán ma túy.
+counterfeit|giả, hàng giả; làm giả|The shop sold counterfeit watches.|Cửa hàng bán đồng hồ giả.
+fraudster|kẻ lừa đảo|The fraudster stole her savings.|Kẻ lừa đảo lấy hết tiền tiết kiệm của bà ấy.
+money laundering|rửa tiền|The bank was fined for money laundering.|Ngân hàng bị phạt vì rửa tiền.
+identity theft|đánh cắp danh tính|Identity theft is growing online.|Nạn đánh cắp danh tính đang gia tăng trên mạng.
+cybercrime|tội phạm mạng|Cybercrime costs firms billions.|Tội phạm mạng khiến doanh nghiệp thiệt hại hàng tỷ.
+hacking|việc xâm nhập máy tính trái phép|He was charged with hacking.|Anh ta bị buộc tội xâm nhập máy tính trái phép.
+stalking|hành vi rình rập, bám đuôi|Stalking is a crime.|Rình rập bám đuôi là một tội.
+harassment|sự quấy rối|She reported the harassment to her manager.|Cô ấy báo cáo việc bị quấy rối với quản lý.
+murderer|kẻ giết người|The murderer was caught after ten years.|Kẻ giết người bị bắt sau mười năm.
+serial killer|kẻ giết người hàng loạt|The film is about a serial killer.|Bộ phim kể về một kẻ giết người hàng loạt.
+hitman|sát thủ thuê|The gang hired a hitman.|Băng nhóm thuê một sát thủ.
+gangster|tay xã hội đen|He plays a gangster in the film.|Anh ấy đóng vai một tay xã hội đen trong phim.
+drug dealer|kẻ buôn ma túy|The police arrested a drug dealer.|Cảnh sát bắt một kẻ buôn ma túy.
+offender|người phạm tội|He is a first-time offender.|Anh ta là người phạm tội lần đầu.
+inmate|tù nhân, phạm nhân|An inmate escaped from the prison.|Một phạm nhân trốn khỏi nhà tù.
+fugitive|kẻ đào tẩu|The fugitive hid in the mountains.|Kẻ đào tẩu trốn trên núi.
+fingerprint|dấu vân tay|The police found a fingerprint on the glass.|Cảnh sát tìm thấy một dấu vân tay trên cái ly.
+DNA evidence|bằng chứng DNA|DNA evidence proved he was innocent.|Bằng chứng DNA chứng minh anh ấy vô tội.
+crime scene|hiện trường vụ án|Do not touch anything at the crime scene.|Đừng chạm vào bất cứ thứ gì ở hiện trường vụ án.
+forensic|thuộc pháp y|A forensic team examined the car.|Một đội pháp y khám nghiệm chiếc xe.
+autopsy|khám nghiệm tử thi|The autopsy showed the cause of death.|Việc khám nghiệm tử thi cho thấy nguyên nhân tử vong.
+interrogation|cuộc thẩm vấn|The interrogation lasted six hours.|Cuộc thẩm vấn kéo dài sáu tiếng.
+arrest warrant|lệnh bắt giữ|The judge signed an arrest warrant.|Thẩm phán ký lệnh bắt giữ.
+search warrant|lệnh khám xét|Police need a search warrant to enter.|Cảnh sát cần lệnh khám xét để vào.
+handcuffs|còng tay|The officer put handcuffs on him.|Viên cảnh sát còng tay anh ta.
+police custody|sự tạm giữ của cảnh sát|Two men are in police custody.|Hai người đàn ông đang bị cảnh sát tạm giữ.
+prison cell|buồng giam|He spent the night in a prison cell.|Anh ta qua đêm trong buồng giam.
+solitary confinement|biệt giam|He was kept in solitary confinement.|Hắn bị biệt giam.
+juvenile|vị thành niên|The juvenile court heard the case.|Tòa án vị thành niên xét xử vụ việc.
+delinquent|thiếu niên phạm pháp; chậm trả|The center helps delinquent teenagers.|Trung tâm giúp đỡ thiếu niên phạm pháp.
+reoffend|tái phạm|Many prisoners reoffend within a year.|Nhiều tù nhân tái phạm trong vòng một năm.
+law enforcement|lực lượng thực thi pháp luật|He works in law enforcement.|Anh ấy làm trong lực lượng thực thi pháp luật.
+patrol car|xe tuần tra|A patrol car stopped outside.|Một chiếc xe tuần tra dừng bên ngoài.
+undercover|hoạt động bí mật, nằm vùng|An undercover officer joined the gang.|Một cảnh sát chìm trà trộn vào băng nhóm.
+informant|người cung cấp tin|An informant told the police about the plan.|Một người cung cấp tin báo cho cảnh sát về kế hoạch.
+surveillance camera|camera giám sát|A surveillance camera recorded the theft.|Một camera giám sát ghi lại vụ trộm.
+lie detector|máy phát hiện nói dối|He agreed to take a lie detector test.|Anh ta đồng ý kiểm tra bằng máy phát hiện nói dối.
+cold case|vụ án tồn đọng chưa phá|New evidence reopened the cold case.|Bằng chứng mới khiến vụ án tồn đọng được mở lại.
+eyewitness|nhân chứng tận mắt|An eyewitness described the driver.|Một nhân chứng tận mắt mô tả người lái xe.
+ransom|tiền chuộc|The family paid the ransom.|Gia đình đã trả tiền chuộc.
+loot|của cướp được; cướp phá|The thieves hid their loot in a garage.|Bọn trộm giấu của cướp được trong một ga-ra.
+stolen goods|đồ ăn cắp|He was caught selling stolen goods.|Hắn bị bắt khi đang bán đồ ăn cắp.
+speeding ticket|vé phạt chạy quá tốc độ|I got a speeding ticket last week.|Tuần trước tôi bị phạt chạy quá tốc độ.
+drunk driving|lái xe khi say rượu|Drunk driving kills thousands every year.|Lái xe khi say rượu giết chết hàng nghìn người mỗi năm.
+hit-and-run|gây tai nạn rồi bỏ chạy|She was injured in a hit-and-run accident.|Cô ấy bị thương trong một vụ gây tai nạn rồi bỏ chạy.
+trespassing|xâm nhập trái phép|He was fined for trespassing.|Anh ta bị phạt vì xâm nhập trái phép.
+neighborhood watch|tổ dân phòng|Our street has a neighborhood watch.|Phố chúng tôi có tổ dân phòng.
+self-defense|tự vệ|She took a self-defense class.|Cô ấy học một lớp tự vệ.
+plea bargain|thỏa thuận nhận tội|He accepted a plea bargain.|Anh ta chấp nhận thỏa thuận nhận tội.
+miscarriage of justice|vụ án oan sai|His ten years in jail were a miscarriage of justice.|Mười năm tù của ông ấy là một vụ án oan sai.
+mobster|thành viên băng đảng mafia|The mobster controlled the docks.|Tên mafia kiểm soát khu bến cảng.
+witness statement|lời khai nhân chứng|The police took a witness statement.|Cảnh sát lấy lời khai nhân chứng.
+bail hearing|phiên xét bảo lãnh|His bail hearing is tomorrow.|Phiên xét bảo lãnh của anh ta diễn ra ngày mai.
+police raid|cuộc đột kích của cảnh sát|Ten people were arrested in a police raid.|Mười người bị bắt trong một cuộc đột kích của cảnh sát.
+getaway car|xe tẩu thoát|The robbers left in a getaway car.|Bọn cướp tẩu thoát trên một chiếc xe.
+loitering|la cà, lảng vảng|A sign says "No loitering".|Tấm biển ghi "Cấm la cà".

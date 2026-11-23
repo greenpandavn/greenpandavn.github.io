@@ -3,7 +3,7 @@
   {"unit":503,"level":5,"title":"Phần 50: Văn hóa và nghệ thuật","desc":"Âm nhạc, hội họa, sân khấu, kiến trúc, ẩm thực, thú vui","color":"grape","course":"en"}
  ],
  "lessons": [
-  {"id":"x33","title":"Âm nhạc cổ điển","desc":"Giao hưởng, hòa tấu, nhịp độ, giọng hát","icon":"Music","unit":503,"course":"en","order":5530,"words":[
+  {"id":"x33","title":"Âm nhạc cổ điển","desc":"Giao hưởng, hòa tấu, nhịp độ, giọng hát","icon":"Music","unit":503,"course":"en","order":5580,"words":[
    {"id":"x33-symphony","hanzi":"symphony","pinyin":"","vi":"bản giao hưởng","ex":{"tokens":["The","orchestra","played","a","symphony","by","Beethoven","."],"py":["","","","","","","","."],"vi":"Dàn nhạc chơi một bản giao hưởng của Beethoven.","alts":[]}},
    {"id":"x33-concerto","hanzi":"concerto","pinyin":"","vi":"bản công-xéc-tô","ex":{"tokens":["She","performed","a","piano","concerto","last","night","."],"py":["","","","","","","","."],"vi":"Tối qua cô ấy biểu diễn một bản công-xéc-tô cho piano.","alts":[]}},
    {"id":"x33-sonata","hanzi":"sonata","pinyin":"","vi":"bản xô-nát","ex":{"tokens":["He","practiced","the","sonata","for","months","."],"py":["","","","","","","."],"vi":"Anh ấy luyện bản xô-nát suốt nhiều tháng.","alts":[]}},
@@ -17,7 +17,7 @@
    {"id":"x33-aria","hanzi":"aria","pinyin":"","vi":"khúc đơn ca trong nhạc kịch","ex":{"tokens":["Her","aria","made","the","audience","cry","."],"py":["","","","","","","."],"vi":"Khúc đơn ca của cô ấy khiến khán giả rơi nước mắt.","alts":[]}},
    {"id":"x33-libretto","hanzi":"libretto","pinyin":"","vi":"lời nhạc kịch","ex":{"tokens":["The","libretto","was","written","in","Italian","."],"py":["","","","","","","."],"vi":"Lời nhạc kịch được viết bằng tiếng Ý.","alts":[]}}
   ]},
-  {"id":"x34","title":"Hội họa","desc":"Bích họa, bảng màu, giá vẽ, sơn dầu","icon":"Paint","unit":503,"course":"en","order":5540,"words":[
+  {"id":"x34","title":"Hội họa","desc":"Bích họa, bảng màu, giá vẽ, sơn dầu","icon":"Paint","unit":503,"course":"en","order":5590,"words":[
    {"id":"x34-fresco","hanzi":"fresco","pinyin":"","vi":"tranh bích họa (vẽ trên vữa ướt)","ex":{"tokens":["A","fresco","covers","the","ceiling","of","the","church","."],"py":["","","","","","","","","."],"vi":"Một bức bích họa phủ kín trần nhà thờ.","alts":[]}},
    {"id":"x34-mural","hanzi":"mural","pinyin":"","vi":"tranh tường","ex":{"tokens":["Students","painted","a","mural","on","the","school","wall","."],"py":["","","","","","","","","."],"vi":"Học sinh vẽ một bức tranh tường trên tường trường.","alts":[]}},
    {"id":"x34-palette","hanzi":"palette","pinyin":"","vi":"bảng pha màu; gam màu","ex":{"tokens":["The","artist","mixed","blue","and","white","on","her","palette","."],"py":["","","","","","","","","","."],"vi":"Họa sĩ pha màu xanh và trắng trên bảng màu.","alts":[]}},
@@ -31,7 +31,7 @@
    {"id":"x34-varnish","hanzi":"varnish","pinyin":"","vi":"véc-ni, dầu bóng","ex":{"tokens":["A","coat","of","varnish","protects","the","painting","."],"py":["","","","","","","","."],"vi":"Một lớp dầu bóng bảo vệ bức tranh.","alts":[]}},
    {"id":"x34-curator","hanzi":"curator","pinyin":"","vi":"người phụ trách bảo tàng, giám tuyển","ex":{"tokens":["The","curator","chose","forty","works","for","the","show","."],"py":["","","","","","","","","."],"vi":"Giám tuyển đã chọn bốn mươi tác phẩm cho triển lãm.","alts":[]}}
   ]},
-  {"id":"x35","title":"Sân khấu","desc":"Kịch tác gia, tập dượt, độc thoại, hậu trường","icon":"Stage","unit":503,"course":"en","order":5550,"words":[
+  {"id":"x35","title":"Sân khấu","desc":"Kịch tác gia, tập dượt, độc thoại, hậu trường","icon":"Stage","unit":503,"course":"en","order":5600,"words":[
    {"id":"x35-playwright","hanzi":"playwright","pinyin":"","vi":"nhà viết kịch","ex":{"tokens":["The","playwright","was","in","the","audience","."],"py":["","","","","","","."],"vi":"Nhà viết kịch ngồi trong hàng khán giả.","alts":[]}},
    {"id":"x35-rehearsal","hanzi":"rehearsal","pinyin":"","vi":"buổi diễn tập","ex":{"tokens":["The","final","rehearsal","is","on","Thursday","."],"py":["","","","","","","."],"vi":"Buổi diễn tập cuối cùng là vào thứ Năm.","alts":[]}},
    {"id":"x35-monologue","hanzi":"monologue","pinyin":"","vi":"đoạn độc thoại","ex":{"tokens":["His","monologue","lasted","ten","minutes","."],"py":["","","","","","."],"vi":"Đoạn độc thoại của anh ấy kéo dài mười phút.","alts":[]}},
@@ -45,7 +45,7 @@
    {"id":"x35-auditorium","hanzi":"auditorium","pinyin":"","vi":"khán phòng","ex":{"tokens":["The","auditorium","seats","two","thousand","people","."],"py":["","","","","","","."],"vi":"Khán phòng có hai nghìn chỗ ngồi.","alts":[]}},
    {"id":"x35-troupe","hanzi":"troupe","pinyin":"","vi":"đoàn kịch, gánh hát","ex":{"tokens":["The","troupe","travels","from","town","to","town","."],"py":["","","","","","","","."],"vi":"Đoàn kịch đi từ thị trấn này sang thị trấn khác.","alts":[]}}
   ]},
-  {"id":"x36","title":"Điện ảnh","desc":"Kịch bản, quay phim, dựng phim, lồng tiếng","icon":"Film","unit":503,"course":"en","order":5560,"words":[
+  {"id":"x36","title":"Điện ảnh","desc":"Kịch bản, quay phim, dựng phim, lồng tiếng","icon":"Film","unit":503,"course":"en","order":5610,"words":[
    {"id":"x36-screenplay","hanzi":"screenplay","pinyin":"","vi":"kịch bản phim","ex":{"tokens":["She","wrote","the","screenplay","in","six","weeks","."],"py":["","","","","","","","."],"vi":"Cô ấy viết kịch bản phim trong sáu tuần.","alts":[]}},
    {"id":"x36-cinematography","hanzi":"cinematography","pinyin":"","vi":"nghệ thuật quay phim","ex":{"tokens":["The","cinematography","won","an","award","."],"py":["","","","","","."],"vi":"Phần quay phim đã giành một giải thưởng.","alts":[]}},
    {"id":"x36-footage","hanzi":"footage","pinyin":"","vi":"cảnh quay, đoạn phim","ex":{"tokens":["The","news","showed","footage","of","the","flood","."],"py":["","","","","","","","."],"vi":"Bản tin chiếu cảnh quay về trận lũ.","alts":[]}},
@@ -59,7 +59,7 @@
    {"id":"x36-storyboard","hanzi":"storyboard","pinyin":"","vi":"bảng phân cảnh","ex":{"tokens":["The","team","drew","a","storyboard","for","each","scene","."],"py":["","","","","","","","","."],"vi":"Nhóm vẽ bảng phân cảnh cho từng cảnh.","alts":[]}},
    {"id":"x36-cutaway","hanzi":"cutaway","pinyin":"","vi":"cảnh chen (chuyển sang hình khác)","ex":{"tokens":["The","editor","added","a","cutaway","to","the","crowd","."],"py":["","","","","","","","","."],"vi":"Người dựng phim thêm một cảnh chen quay đám đông.","alts":[]}}
   ]},
-  {"id":"x37","title":"Thi ca","desc":"Khổ thơ, vần, thể thơ, điệp khúc","icon":"Poem","unit":503,"course":"en","order":5570,"words":[
+  {"id":"x37","title":"Thi ca","desc":"Khổ thơ, vần, thể thơ, điệp khúc","icon":"Poem","unit":503,"course":"en","order":5620,"words":[
    {"id":"x37-stanza","hanzi":"stanza","pinyin":"","vi":"khổ thơ","ex":{"tokens":["The","poem","has","four","lines","in","each","stanza","."],"py":["","","","","","","","","."],"vi":"Bài thơ có bốn dòng trong mỗi khổ.","alts":[]}},
    {"id":"x37-verse","hanzi":"verse","pinyin":"","vi":"câu thơ, đoạn thơ; lời bài hát","ex":{"tokens":["I","only","remember","the","first","verse","."],"py":["","","","","","","."],"vi":"Tôi chỉ nhớ đoạn đầu tiên.","alts":[]}},
    {"id":"x37-rhyme","hanzi":"rhyme","pinyin":"","vi":"vần; gieo vần","ex":{"tokens":["The","lines","do","not","rhyme","."],"py":["","","","","","."],"vi":"Các dòng thơ không gieo vần.","alts":[]}},
@@ -73,7 +73,7 @@
    {"id":"x37-limerick","hanzi":"limerick","pinyin":"","vi":"bài thơ hài năm dòng","ex":{"tokens":["He","made","up","a","funny","limerick","about","his","cat","."],"py":["","","","","","","","","","."],"vi":"Anh ấy sáng tác một bài thơ hài về con mèo của mình.","alts":[]}},
    {"id":"x37-lyrical","hanzi":"lyrical","pinyin":"","vi":"trữ tình","ex":{"tokens":["Her","writing","is","soft","and","lyrical","."],"py":["","","","","","","."],"vi":"Văn của cô ấy nhẹ nhàng và trữ tình.","alts":[]}}
   ]},
-  {"id":"x38","title":"Chi tiết kiến trúc","desc":"Mặt tiền, vòm, mái vòm, cột, sân trong","icon":"Arch","unit":503,"course":"en","order":5580,"words":[
+  {"id":"x38","title":"Chi tiết kiến trúc","desc":"Mặt tiền, vòm, mái vòm, cột, sân trong","icon":"Arch","unit":503,"course":"en","order":5630,"words":[
    {"id":"x38-facade","hanzi":"facade","pinyin":"","vi":"mặt tiền","ex":{"tokens":["The","facade","of","the","theater","is","being","cleaned","."],"py":["","","","","","","","","."],"vi":"Mặt tiền của nhà hát đang được làm sạch.","alts":[]}},
    {"id":"x38-arch","hanzi":"arch","pinyin":"","vi":"vòm, cổng vòm","ex":{"tokens":["We","walked","under","a","stone","arch","."],"py":["","","","","","","."],"vi":"Chúng tôi đi dưới một cổng vòm bằng đá.","alts":[]}},
    {"id":"x38-dome","hanzi":"dome","pinyin":"","vi":"mái vòm","ex":{"tokens":["The","dome","can","be","seen","from","every","street","."],"py":["","","","","","","","","."],"vi":"Mái vòm có thể nhìn thấy từ mọi con phố.","alts":[]}},
@@ -87,7 +87,7 @@
    {"id":"x38-gable","hanzi":"gable","pinyin":"","vi":"đầu hồi nhà","ex":{"tokens":["A","small","window","sits","in","the","gable","."],"py":["","","","","","","","."],"vi":"Một ô cửa sổ nhỏ nằm ở đầu hồi.","alts":[]}},
    {"id":"x38-atrium","hanzi":"atrium","pinyin":"","vi":"sảnh thông tầng","ex":{"tokens":["The","hotel","has","a","bright","glass","atrium","."],"py":["","","","","","","","."],"vi":"Khách sạn có một sảnh thông tầng bằng kính sáng sủa.","alts":[]}}
   ]},
-  {"id":"x39","title":"Thời trang","desc":"May đo, đường may, ve áo, thêu","icon":"Fashion","unit":503,"course":"en","order":5590,"words":[
+  {"id":"x39","title":"Thời trang","desc":"May đo, đường may, ve áo, thêu","icon":"Fashion","unit":503,"course":"en","order":5640,"words":[
    {"id":"x39-couture","hanzi":"couture","pinyin":"","vi":"thời trang cao cấp may đo","ex":{"tokens":["The","house","is","famous","for","its","couture","."],"py":["","","","","","","","."],"vi":"Nhà mốt này nổi tiếng với thời trang cao cấp.","alts":[]}},
    {"id":"x39-hem","hanzi":"hem","pinyin":"","vi":"gấu áo, gấu quần; lên gấu","ex":{"tokens":["The","hem","of","my","dress","is","torn","."],"py":["","","","","","","","."],"vi":"Gấu váy của tôi bị rách.","alts":[]}},
    {"id":"x39-seam","hanzi":"seam","pinyin":"","vi":"đường may nối","ex":{"tokens":["The","seam","split","when","he","sat","down","."],"py":["","","","","","","","."],"vi":"Đường may bị bung khi anh ấy ngồi xuống.","alts":[]}},
@@ -101,7 +101,7 @@
    {"id":"x39-cufflink","hanzi":"cufflink","pinyin":"","vi":"khuy măng sét","ex":{"tokens":["He","lost","a","gold","cufflink","at","the","party","."],"py":["","","","","","","","","."],"vi":"Anh ấy làm mất một chiếc khuy măng sét bằng vàng ở bữa tiệc.","alts":[]}},
    {"id":"x39-tassel","hanzi":"tassel","pinyin":"","vi":"tua rua","ex":{"tokens":["A","red","tassel","hangs","from","the","lamp","."],"py":["","","","","","","","."],"vi":"Một chiếc tua rua đỏ treo trên cây đèn.","alts":[]}}
   ]},
-  {"id":"x40","title":"Ẩm thực cao cấp","desc":"Trang trí món, om, áp chảo, sành ăn","icon":"Dish","unit":503,"course":"en","order":5600,"words":[
+  {"id":"x40","title":"Ẩm thực cao cấp","desc":"Trang trí món, om, áp chảo, sành ăn","icon":"Dish","unit":503,"course":"en","order":5650,"words":[
    {"id":"x40-garnish","hanzi":"garnish","pinyin":"","vi":"đồ trang trí món ăn; trang trí","ex":{"tokens":["Add","a","lemon","slice","as","a","garnish","."],"py":["","","","","","","","."],"vi":"Thêm một lát chanh để trang trí.","alts":[]}},
    {"id":"x40-simmer","hanzi":"simmer","pinyin":"","vi":"ninh nhỏ lửa","ex":{"tokens":["Let","the","soup","simmer","for","an","hour","."],"py":["","","","","","","","."],"vi":"Hãy ninh súp nhỏ lửa trong một tiếng.","alts":[]}},
    {"id":"x40-braise","hanzi":"braise","pinyin":"","vi":"om, hầm","ex":{"tokens":["Braise","the","beef","in","red","wine","."],"py":["","","","","","","."],"vi":"Hãy om thịt bò trong rượu vang đỏ.","alts":[]}},
@@ -115,7 +115,7 @@
    {"id":"x40-gourmet","hanzi":"gourmet","pinyin":"","vi":"sành ăn; cao cấp (đồ ăn)","ex":{"tokens":["They","opened","a","gourmet","restaurant","downtown","."],"py":["","","","","","","."],"vi":"Họ mở một nhà hàng cao cấp ở trung tâm.","alts":[]}},
    {"id":"x40-entree","hanzi":"entree","pinyin":"","vi":"món chính","ex":{"tokens":["I","ordered","fish","as","my","entree","."],"py":["","","","","","","."],"vi":"Tôi gọi cá làm món chính.","alts":[]}}
   ]},
-  {"id":"x41","title":"Đồ uống","desc":"Rượu vang, pha chế, chưng cất, cà phê","icon":"Drink","unit":503,"course":"en","order":5610,"words":[
+  {"id":"x41","title":"Đồ uống","desc":"Rượu vang, pha chế, chưng cất, cà phê","icon":"Drink","unit":503,"course":"en","order":5660,"words":[
    {"id":"x41-vintage","hanzi":"vintage","pinyin":"","vi":"niên vụ rượu; cổ điển","ex":{"tokens":["This","vintage","is","the","best","in","ten","years","."],"py":["","","","","","","","","."],"vi":"Niên vụ này là ngon nhất trong mười năm.","alts":[]}},
    {"id":"x41-sommelier","hanzi":"sommelier","pinyin":"","vi":"chuyên gia rượu vang","ex":{"tokens":["The","sommelier","suggested","a","dry","white","wine","."],"py":["","","","","","","","."],"vi":"Chuyên gia rượu vang gợi ý một loại vang trắng không ngọt.","alts":[]}},
    {"id":"x41-brew","hanzi":"brew","pinyin":"","vi":"pha (trà, cà phê); ủ bia","ex":{"tokens":["Let","the","tea","brew","for","three","minutes","."],"py":["","","","","","","","."],"vi":"Hãy để trà ngấm trong ba phút.","alts":[]}},
@@ -129,7 +129,7 @@
    {"id":"x41-aperitif","hanzi":"aperitif","pinyin":"","vi":"rượu khai vị","ex":{"tokens":["We","had","an","aperitif","on","the","terrace","."],"py":["","","","","","","","."],"vi":"Chúng tôi uống rượu khai vị trên sân thượng.","alts":[]}},
    {"id":"x41-tannin","hanzi":"tannin","pinyin":"","vi":"chất chát (tanin)","ex":{"tokens":["Strong","tea","is","full","of","tannin","."],"py":["","","","","","","."],"vi":"Trà đặc chứa nhiều chất chát.","alts":[]}}
   ]},
-  {"id":"x42","title":"Thể thao chuyên sâu","desc":"Trọng tài, việt vị, tiếp sức, bục nhận giải","icon":"Sport","unit":503,"course":"en","order":5620,"words":[
+  {"id":"x42","title":"Thể thao chuyên sâu","desc":"Trọng tài, việt vị, tiếp sức, bục nhận giải","icon":"Sport","unit":503,"course":"en","order":5670,"words":[
    {"id":"x42-linesman","hanzi":"linesman","pinyin":"","vi":"trọng tài biên","ex":{"tokens":["The","linesman","raised","his","flag","."],"py":["","","","","","."],"vi":"Trọng tài biên giơ cờ lên.","alts":[]}},
    {"id":"x42-umpire","hanzi":"umpire","pinyin":"","vi":"trọng tài (quần vợt, bóng chày)","ex":{"tokens":["The","umpire","called","the","ball","out","."],"py":["","","","","","","."],"vi":"Trọng tài tuyên bố bóng ra ngoài.","alts":[]}},
    {"id":"x42-volley","hanzi":"volley","pinyin":"","vi":"cú vô lê","ex":{"tokens":["He","scored","with","a","volley","from","the","edge","of","the","box","."],"py":["","","","","","","","","","","","."],"vi":"Anh ấy ghi bàn bằng một cú vô lê từ rìa vòng cấm.","alts":[]}},
@@ -143,7 +143,7 @@
    {"id":"x42-podium","hanzi":"podium","pinyin":"","vi":"bục nhận giải, bục phát biểu","ex":{"tokens":["Three","runners","stood","on","the","podium","."],"py":["","","","","","","."],"vi":"Ba vận động viên chạy đứng trên bục nhận giải.","alts":[]}},
    {"id":"x42-doping","hanzi":"doping","pinyin":"","vi":"việc dùng chất kích thích","ex":{"tokens":["He","was","banned","for","doping","."],"py":["","","","","","."],"vi":"Anh ấy bị cấm thi đấu vì dùng chất kích thích.","alts":[]}}
   ]},
-  {"id":"x43","title":"Mạo hiểm","desc":"Thám hiểm, khe băng, tuyết lở, la bàn","icon":"Trek","unit":503,"course":"en","order":5630,"words":[
+  {"id":"x43","title":"Mạo hiểm","desc":"Thám hiểm, khe băng, tuyết lở, la bàn","icon":"Trek","unit":503,"course":"en","order":5680,"words":[
    {"id":"x43-expedition","hanzi":"expedition","pinyin":"","vi":"cuộc thám hiểm","ex":{"tokens":["The","expedition","reached","the","pole","in","January","."],"py":["","","","","","","","."],"vi":"Đoàn thám hiểm tới cực vào tháng Một.","alts":[]}},
    {"id":"x43-trek","hanzi":"trek","pinyin":"","vi":"chuyến đi bộ đường dài; đi bộ dài ngày","ex":{"tokens":["The","trek","to","the","lake","takes","two","days","."],"py":["","","","","","","","","."],"vi":"Chuyến đi bộ tới hồ mất hai ngày.","alts":[]}},
    {"id":"x43-ridge","hanzi":"ridge","pinyin":"","vi":"sống núi, dãy đồi","ex":{"tokens":["We","walked","along","the","ridge","at","sunrise","."],"py":["","","","","","","","."],"vi":"Chúng tôi đi dọc sống núi lúc bình minh.","alts":[]}},
@@ -157,7 +157,7 @@
    {"id":"x43-wilderness","hanzi":"wilderness","pinyin":"","vi":"vùng hoang dã","ex":{"tokens":["They","spent","a","month","in","the","wilderness","."],"py":["","","","","","","","."],"vi":"Họ sống một tháng ở vùng hoang dã.","alts":[]}},
    {"id":"x43-outpost","hanzi":"outpost","pinyin":"","vi":"tiền đồn, trạm xa xôi","ex":{"tokens":["The","last","outpost","is","fifty","miles","away","."],"py":["","","","","","","","."],"vi":"Tiền đồn cuối cùng cách đây năm mươi dặm.","alts":[]}}
   ]},
-  {"id":"x44","title":"Nhiếp ảnh","desc":"Khẩu độ, màn trập, phơi sáng, chân máy","icon":"Photo","unit":503,"course":"en","order":5640,"words":[
+  {"id":"x44","title":"Nhiếp ảnh","desc":"Khẩu độ, màn trập, phơi sáng, chân máy","icon":"Photo","unit":503,"course":"en","order":5690,"words":[
    {"id":"x44-aperture","hanzi":"aperture","pinyin":"","vi":"khẩu độ","ex":{"tokens":["A","wide","aperture","lets","in","more","light","."],"py":["","","","","","","","."],"vi":"Khẩu độ rộng cho nhiều ánh sáng lọt vào hơn.","alts":[]}},
    {"id":"x44-shutter","hanzi":"shutter","pinyin":"","vi":"màn trập; cửa chớp","ex":{"tokens":["Press","the","shutter","gently","."],"py":["","","","","."],"vi":"Hãy bấm màn trập nhẹ nhàng.","alts":[]}},
    {"id":"x44-exposure","hanzi":"exposure","pinyin":"","vi":"sự phơi sáng; sự tiếp xúc","ex":{"tokens":["A","long","exposure","makes","water","look","smooth","."],"py":["","","","","","","","."],"vi":"Phơi sáng lâu làm mặt nước trông mịn.","alts":[]}},
@@ -171,7 +171,7 @@
    {"id":"x44-filter","hanzi":"filter","pinyin":"","vi":"kính lọc; lọc","ex":{"tokens":["A","red","filter","makes","the","sky","darker","."],"py":["","","","","","","","."],"vi":"Kính lọc đỏ làm bầu trời tối hơn.","alts":[]}},
    {"id":"x44-composition","hanzi":"composition","pinyin":"","vi":"bố cục; bài luận; thành phần","ex":{"tokens":["The","composition","of","this","photo","is","perfect","."],"py":["","","","","","","","."],"vi":"Bố cục của bức ảnh này thật hoàn hảo.","alts":[]}}
   ]},
-  {"id":"x45","title":"Thủ công","desc":"Đan, móc, dệt, chạm khắc, sơn mài","icon":"Craft","unit":503,"course":"en","order":5650,"words":[
+  {"id":"x45","title":"Thủ công","desc":"Đan, móc, dệt, chạm khắc, sơn mài","icon":"Craft","unit":503,"course":"en","order":5700,"words":[
    {"id":"x45-knit","hanzi":"knit","pinyin":"","vi":"đan (len)","ex":{"tokens":["My","grandmother","can","knit","a","scarf","in","one","evening","."],"py":["","","","","","","","","","."],"vi":"Bà tôi có thể đan một chiếc khăn trong một buổi tối.","alts":[]}},
    {"id":"x45-crochet","hanzi":"crochet","pinyin":"","vi":"móc (len)","ex":{"tokens":["She","learned","to","crochet","from","a","video","."],"py":["","","","","","","","."],"vi":"Cô ấy học móc len qua video.","alts":[]}},
    {"id":"x45-weave","hanzi":"weave","pinyin":"","vi":"dệt, đan","ex":{"tokens":["They","weave","baskets","from","bamboo","."],"py":["","","","","","."],"vi":"Họ đan giỏ bằng tre.","alts":[]}},
@@ -185,7 +185,7 @@
    {"id":"x45-stitch","hanzi":"stitch","pinyin":"","vi":"mũi khâu; khâu","ex":{"tokens":["Each","stitch","must","be","the","same","size","."],"py":["","","","","","","","."],"vi":"Mỗi mũi khâu phải bằng nhau.","alts":[]}},
    {"id":"x45-lacquer","hanzi":"lacquer","pinyin":"","vi":"sơn mài","ex":{"tokens":["The","box","is","finished","with","black","lacquer","."],"py":["","","","","","","","."],"vi":"Chiếc hộp được hoàn thiện bằng sơn mài đen.","alts":[]}}
   ]},
-  {"id":"x46","title":"Làm vườn","desc":"Tỉa cành, phân ủ, giàn leo, gieo hạt","icon":"Garden","unit":503,"course":"en","order":5660,"words":[
+  {"id":"x46","title":"Làm vườn","desc":"Tỉa cành, phân ủ, giàn leo, gieo hạt","icon":"Garden","unit":503,"course":"en","order":5710,"words":[
    {"id":"x46-prune","hanzi":"prune","pinyin":"","vi":"tỉa cành","ex":{"tokens":["Prune","the","roses","in","early","spring","."],"py":["","","","","","","."],"vi":"Hãy tỉa hoa hồng vào đầu mùa xuân.","alts":[]}},
    {"id":"x46-pollinate","hanzi":"pollinate","pinyin":"","vi":"thụ phấn","ex":{"tokens":["Bees","pollinate","the","apple","trees","."],"py":["","","","","","."],"vi":"Ong thụ phấn cho những cây táo.","alts":[]}},
    {"id":"x46-compost","hanzi":"compost","pinyin":"","vi":"phân ủ; ủ phân","ex":{"tokens":["We","turn","kitchen","waste","into","compost","."],"py":["","","","","","","."],"vi":"Chúng tôi biến rác bếp thành phân ủ.","alts":[]}},
@@ -199,7 +199,7 @@
    {"id":"x46-topiary","hanzi":"topiary","pinyin":"","vi":"nghệ thuật cắt tỉa cây cảnh","ex":{"tokens":["The","garden","is","known","for","its","topiary","."],"py":["","","","","","","","."],"vi":"Khu vườn nổi tiếng với nghệ thuật tỉa cây cảnh.","alts":[]}},
    {"id":"x46-orchard","hanzi":"orchard","pinyin":"","vi":"vườn cây ăn quả","ex":{"tokens":["Their","orchard","has","two","hundred","apple","trees","."],"py":["","","","","","","","."],"vi":"Vườn cây của họ có hai trăm cây táo.","alts":[]}}
   ]},
-  {"id":"x47","title":"Lễ nghi","desc":"Đăng quang, nhậm chức, yến tiệc, điếu văn","icon":"Ceremony","unit":503,"course":"en","order":5670,"words":[
+  {"id":"x47","title":"Lễ nghi","desc":"Đăng quang, nhậm chức, yến tiệc, điếu văn","icon":"Ceremony","unit":503,"course":"en","order":5720,"words":[
    {"id":"x47-coronation","hanzi":"coronation","pinyin":"","vi":"lễ đăng quang","ex":{"tokens":["Millions","watched","the","coronation","on","television","."],"py":["","","","","","","."],"vi":"Hàng triệu người xem lễ đăng quang trên truyền hình.","alts":[]}},
    {"id":"x47-inauguration","hanzi":"inauguration","pinyin":"","vi":"lễ nhậm chức, lễ khánh thành","ex":{"tokens":["The","inauguration","takes","place","in","January","."],"py":["","","","","","","."],"vi":"Lễ nhậm chức diễn ra vào tháng Một.","alts":[]}},
    {"id":"x47-procession","hanzi":"procession","pinyin":"","vi":"đám rước","ex":{"tokens":["The","procession","moved","slowly","through","the","town","."],"py":["","","","","","","","."],"vi":"Đám rước di chuyển chậm rãi qua thị trấn.","alts":[]}},
@@ -213,7 +213,7 @@
    {"id":"x47-wreath","hanzi":"wreath","pinyin":"","vi":"vòng hoa","ex":{"tokens":["She","laid","a","wreath","at","the","memorial","."],"py":["","","","","","","","."],"vi":"Bà ấy đặt vòng hoa tại đài tưởng niệm.","alts":[]}},
    {"id":"x47-eulogy","hanzi":"eulogy","pinyin":"","vi":"bài điếu văn","ex":{"tokens":["His","son","gave","the","eulogy","."],"py":["","","","","","."],"vi":"Con trai ông ấy đọc điếu văn.","alts":[]}}
   ]},
-  {"id":"x48","title":"Cờ và trò chơi","desc":"Chiếu hết, quân cờ, nước thí, câu đố","icon":"Game","unit":503,"course":"en","order":5680,"words":[
+  {"id":"x48","title":"Cờ và trò chơi","desc":"Chiếu hết, quân cờ, nước thí, câu đố","icon":"Game","unit":503,"course":"en","order":5730,"words":[
    {"id":"x48-checkmate","hanzi":"checkmate","pinyin":"","vi":"chiếu hết","ex":{"tokens":["She","won","with","a","checkmate","in","ten","moves","."],"py":["","","","","","","","","."],"vi":"Cô ấy thắng bằng nước chiếu hết sau mười nước.","alts":[]}},
    {"id":"x48-pawn","hanzi":"pawn","pinyin":"","vi":"quân tốt; con tốt thí","ex":{"tokens":["He","lost","a","pawn","early","in","the","game","."],"py":["","","","","","","","","."],"vi":"Anh ấy mất một quân tốt ngay đầu ván.","alts":[]}},
    {"id":"x48-rook","hanzi":"rook","pinyin":"","vi":"quân xe","ex":{"tokens":["Move","your","rook","to","the","open","file","."],"py":["","","","","","","","."],"vi":"Hãy đưa quân xe của bạn vào cột mở.","alts":[]}},
