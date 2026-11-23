@@ -1,0 +1,71 @@
+{
+ "units": [
+  {"unit":553,"level":5,"title":"Phần 36: Mở rộng – Hóa học","desc":"Hóa học","color":"grape","course":"en"}
+ ],
+ "lessons": [
+  {"id":"y5041","title":"Hóa học 2","desc":"Nguyên tử, nguyên tố, phản ứng, dụng cụ thí nghiệm","icon":"Chem","unit":553,"course":"en","order":4370,"words":[
+   {"id":"y5041-ion","hanzi":"ion","pinyin":"","vi":"ion","ex":{"tokens":["A","sodium","ion","has","a","positive","charge","."],"py":["","","","","","","","."],"vi":"Ion natri mang điện tích dương.","alts":[]}},
+   {"id":"y5041-isotope","hanzi":"isotope","pinyin":"","vi":"đồng vị","ex":{"tokens":["Carbon-14","is","an","isotope","of","carbon","."],"py":["","","","","","","."],"vi":"Cacbon-14 là một đồng vị của cacbon.","alts":[]}},
+   {"id":"y5041-proton","hanzi":"proton","pinyin":"","vi":"proton","ex":{"tokens":["A","hydrogen","atom","has","one","proton","."],"py":["","","","","","","."],"vi":"Nguyên tử hydro có một proton.","alts":[]}},
+   {"id":"y5041-neutron","hanzi":"neutron","pinyin":"","vi":"nơtron","ex":{"tokens":["A","neutron","has","no","electric","charge","."],"py":["","","","","","","."],"vi":"Nơtron không mang điện tích.","alts":[]}},
+   {"id":"y5041-electron","hanzi":"electron","pinyin":"","vi":"electron","ex":{"tokens":["An","electron","moves","around","the","nucleus","."],"py":["","","","","","","."],"vi":"Electron chuyển động quanh hạt nhân.","alts":[]}},
+   {"id":"y5041-nucleus","hanzi":"nucleus","pinyin":"","vi":"hạt nhân","ex":{"tokens":["The","nucleus","is","the","center","of","the","atom","."],"py":["","","","","","","","","."],"vi":"Hạt nhân là trung tâm của nguyên tử.","alts":[]}},
+   {"id":"y5041-mixture","hanzi":"mixture","pinyin":"","vi":"hỗn hợp","ex":{"tokens":["Air","is","a","mixture","of","gases","."],"py":["","","","","","","."],"vi":"Không khí là hỗn hợp các chất khí.","alts":[]}},
+   {"id":"y5041-reagent","hanzi":"reagent","pinyin":"","vi":"thuốc thử","ex":{"tokens":["Add","the","reagent","to","the","test","tube","."],"py":["","","","","","","","."],"vi":"Hãy thêm thuốc thử vào ống nghiệm.","alts":[]}},
+   {"id":"y5041-polymer","hanzi":"polymer","pinyin":"","vi":"polyme, chất trùng hợp","ex":{"tokens":["Plastic","is","a","kind","of","polymer","."],"py":["","","","","","","."],"vi":"Nhựa là một loại polyme.","alts":[]}},
+   {"id":"y5041-alkali","hanzi":"alkali","pinyin":"","vi":"chất kiềm","ex":{"tokens":["Soap","is","made","with","an","alkali","."],"py":["","","","","","","."],"vi":"Xà phòng được làm bằng chất kiềm.","alts":[]}},
+   {"id":"y5041-oxide","hanzi":"oxide","pinyin":"","vi":"oxit","ex":{"tokens":["Rust","is","iron","oxide","."],"py":["","","","","."],"vi":"Gỉ sắt là oxit sắt.","alts":[]}},
+   {"id":"y5041-nitrate","hanzi":"nitrate","pinyin":"","vi":"nitrat","ex":{"tokens":["Too","much","nitrate","pollutes","the","river","."],"py":["","","","","","","."],"vi":"Quá nhiều nitrat làm ô nhiễm dòng sông.","alts":[]}},
+   {"id":"y5041-carbonate","hanzi":"carbonate","pinyin":"","vi":"cacbonat","ex":{"tokens":["Chalk","is","calcium","carbonate","."],"py":["","","","","."],"vi":"Phấn là canxi cacbonat.","alts":[]}},
+   {"id":"y5041-chloride","hanzi":"chloride","pinyin":"","vi":"clorua","ex":{"tokens":["Table","salt","is","sodium","chloride","."],"py":["","","","","","."],"vi":"Muối ăn là natri clorua.","alts":[]}}
+  ]},
+  {"id":"y5042","title":"Hóa học 3","desc":"Nguyên tử, nguyên tố, phản ứng, dụng cụ thí nghiệm","icon":"Chem","unit":553,"course":"en","order":4380,"words":[
+   {"id":"y5042-helium","hanzi":"helium","pinyin":"","vi":"khí heli","ex":{"tokens":["The","balloon","is","filled","with","helium","."],"py":["","","","","","","."],"vi":"Quả bóng bay được bơm khí heli.","alts":[]}},
+   {"id":"y5042-lithium","hanzi":"lithium","pinyin":"","vi":"liti","ex":{"tokens":["Phone","batteries","contain","lithium","."],"py":["","","","","."],"vi":"Pin điện thoại có chứa liti.","alts":[]}},
+   {"id":"y5042-nitrogen","hanzi":"nitrogen","pinyin":"","vi":"nitơ","ex":{"tokens":["Most","of","the","air","is","nitrogen","."],"py":["","","","","","","."],"vi":"Phần lớn không khí là nitơ.","alts":[]}},
+   {"id":"y5042-sodium","hanzi":"sodium","pinyin":"","vi":"natri","ex":{"tokens":["Too","much","sodium","is","bad","for","your","heart","."],"py":["","","","","","","","","."],"vi":"Quá nhiều natri có hại cho tim.","alts":[]}},
+   {"id":"y5042-magnesium","hanzi":"magnesium","pinyin":"","vi":"magiê","ex":{"tokens":["Nuts","are","rich","in","magnesium","."],"py":["","","","","","."],"vi":"Các loại hạt giàu magiê.","alts":[]}},
+   {"id":"y5042-aluminum","hanzi":"aluminum","pinyin":"","vi":"nhôm","ex":{"tokens":["The","can","is","made","of","aluminum","."],"py":["","","","","","","."],"vi":"Cái lon làm bằng nhôm.","alts":[]}},
+   {"id":"y5042-silicon","hanzi":"silicon","pinyin":"","vi":"silic","ex":{"tokens":["Computer","chips","are","made","of","silicon","."],"py":["","","","","","","."],"vi":"Chip máy tính được làm từ silic.","alts":[]}},
+   {"id":"y5042-phosphorus","hanzi":"phosphorus","pinyin":"","vi":"phốt pho","ex":{"tokens":["Bones","contain","phosphorus","."],"py":["","","","."],"vi":"Xương có chứa phốt pho.","alts":[]}},
+   {"id":"y5042-sulfur","hanzi":"sulfur","pinyin":"","vi":"lưu huỳnh","ex":{"tokens":["The","hot","spring","smells","of","sulfur","."],"py":["","","","","","","."],"vi":"Suối nước nóng có mùi lưu huỳnh.","alts":[]}},
+   {"id":"y5042-chlorine","hanzi":"chlorine","pinyin":"","vi":"clo","ex":{"tokens":["The","pool","smells","of","chlorine","."],"py":["","","","","","."],"vi":"Bể bơi có mùi clo.","alts":[]}},
+   {"id":"y5042-potassium","hanzi":"potassium","pinyin":"","vi":"kali","ex":{"tokens":["Bananas","contain","a","lot","of","potassium","."],"py":["","","","","","","."],"vi":"Chuối chứa nhiều kali.","alts":[]}},
+   {"id":"y5042-calcium","hanzi":"calcium","pinyin":"","vi":"canxi","ex":{"tokens":["Milk","is","a","good","source","of","calcium","."],"py":["","","","","","","","."],"vi":"Sữa là nguồn canxi tốt.","alts":[]}},
+   {"id":"y5042-copper","hanzi":"copper","pinyin":"","vi":"đồng (kim loại)","ex":{"tokens":["The","wire","is","made","of","copper","."],"py":["","","","","","","."],"vi":"Sợi dây làm bằng đồng.","alts":[]}},
+   {"id":"y5042-zinc","hanzi":"zinc","pinyin":"","vi":"kẽm","ex":{"tokens":["The","roof","is","covered","with","zinc","."],"py":["","","","","","","."],"vi":"Mái nhà được lợp kẽm.","alts":[]}}
+  ]},
+  {"id":"y5043","title":"Hóa học 4","desc":"Nguyên tử, nguyên tố, phản ứng, dụng cụ thí nghiệm","icon":"Chem","unit":553,"course":"en","order":4390,"words":[
+   {"id":"y5043-iodine","hanzi":"iodine","pinyin":"","vi":"iốt","ex":{"tokens":["Iodine","is","added","to","table","salt","."],"py":["","","","","","","."],"vi":"Iốt được thêm vào muối ăn.","alts":[]}},
+   {"id":"y5043-platinum","hanzi":"platinum","pinyin":"","vi":"bạch kim","ex":{"tokens":["Her","ring","is","made","of","platinum","."],"py":["","","","","","","."],"vi":"Chiếc nhẫn của cô ấy làm bằng bạch kim.","alts":[]}},
+   {"id":"y5043-mercury","hanzi":"mercury","pinyin":"","vi":"thủy ngân","ex":{"tokens":["Old","thermometers","contain","mercury","."],"py":["","","","","."],"vi":"Nhiệt kế cũ có chứa thủy ngân.","alts":[]}},
+   {"id":"y5043-uranium","hanzi":"uranium","pinyin":"","vi":"urani","ex":{"tokens":["The","power","plant","uses","uranium","as","fuel","."],"py":["","","","","","","","."],"vi":"Nhà máy điện dùng urani làm nhiên liệu.","alts":[]}},
+   {"id":"y5043-titanium","hanzi":"titanium","pinyin":"","vi":"titan","ex":{"tokens":["The","bike","frame","is","made","of","titanium","."],"py":["","","","","","","","."],"vi":"Khung xe đạp làm bằng titan.","alts":[]}},
+   {"id":"y5043-nickel","hanzi":"nickel","pinyin":"","vi":"niken","ex":{"tokens":["The","coin","contains","nickel","."],"py":["","","","","."],"vi":"Đồng xu có chứa niken.","alts":[]}},
+   {"id":"y5043-cobalt","hanzi":"cobalt","pinyin":"","vi":"coban","ex":{"tokens":["Cobalt","is","used","in","batteries","."],"py":["","","","","","."],"vi":"Coban được dùng trong pin.","alts":[]}},
+   {"id":"y5043-tungsten","hanzi":"tungsten","pinyin":"","vi":"vonfram","ex":{"tokens":["The","wire","inside","the","old","bulb","is","tungsten","."],"py":["","","","","","","","","."],"vi":"Sợi dây trong bóng đèn cũ là vonfram.","alts":[]}},
+   {"id":"y5043-arsenic","hanzi":"arsenic","pinyin":"","vi":"thạch tín, asen","ex":{"tokens":["The","well","water","contained","arsenic","."],"py":["","","","","","."],"vi":"Nước giếng có chứa thạch tín.","alts":[]}},
+   {"id":"y5043-ammonia","hanzi":"ammonia","pinyin":"","vi":"amoniac","ex":{"tokens":["The","cleaner","smells","strongly","of","ammonia","."],"py":["","","","","","","."],"vi":"Chất tẩy rửa có mùi amoniac nồng.","alts":[]}},
+   {"id":"y5043-methane","hanzi":"methane","pinyin":"","vi":"khí mêtan","ex":{"tokens":["Cows","produce","methane","."],"py":["","","","."],"vi":"Bò thải ra khí mêtan.","alts":[]}},
+   {"id":"y5043-ethanol","hanzi":"ethanol","pinyin":"","vi":"etanol, cồn","ex":{"tokens":["Some","cars","run","on","ethanol","."],"py":["","","","","","."],"vi":"Một số xe chạy bằng etanol.","alts":[]}},
+   {"id":"y5043-glucose","hanzi":"glucose","pinyin":"","vi":"đường glucozơ","ex":{"tokens":["The","brain","needs","glucose","for","energy","."],"py":["","","","","","","."],"vi":"Não cần glucozơ để có năng lượng.","alts":[]}},
+   {"id":"y5043-condense","hanzi":"condense","pinyin":"","vi":"ngưng tụ","ex":{"tokens":["Steam","will","condense","on","a","cold","window","."],"py":["","","","","","","","."],"vi":"Hơi nước sẽ ngưng tụ trên cửa sổ lạnh.","alts":[]}}
+  ]},
+  {"id":"y5044","title":"Hóa học 5","desc":"Nguyên tử, nguyên tố, phản ứng, dụng cụ thí nghiệm","icon":"Chem","unit":553,"course":"en","order":4400,"words":[
+   {"id":"y5044-oxidize","hanzi":"oxidize","pinyin":"","vi":"oxy hóa","ex":{"tokens":["Iron","will","oxidize","in","wet","air","."],"py":["","","","","","","."],"vi":"Sắt sẽ bị oxy hóa trong không khí ẩm.","alts":[]}},
+   {"id":"y5044-corrode","hanzi":"corrode","pinyin":"","vi":"ăn mòn","ex":{"tokens":["Salt","water","can","corrode","metal","."],"py":["","","","","","."],"vi":"Nước muối có thể ăn mòn kim loại.","alts":[]}},
+   {"id":"y5044-neutralize","hanzi":"neutralize","pinyin":"","vi":"trung hòa","ex":{"tokens":["You","can","neutralize","the","acid","with","baking","soda","."],"py":["","","","","","","","","."],"vi":"Bạn có thể trung hòa axit bằng bột nở.","alts":[]}},
+   {"id":"y5044-saturate","hanzi":"saturate","pinyin":"","vi":"làm bão hòa","ex":{"tokens":["Keep","adding","salt","to","saturate","the","water","."],"py":["","","","","","","","."],"vi":"Tiếp tục cho thêm muối để làm nước bão hòa.","alts":[]}},
+   {"id":"y5044-dilute","hanzi":"dilute","pinyin":"","vi":"pha loãng","ex":{"tokens":["You","should","dilute","the","juice","with","water","."],"py":["","","","","","","","."],"vi":"Bạn nên pha loãng nước ép với nước.","alts":[]}},
+   {"id":"y5044-viscosity","hanzi":"viscosity","pinyin":"","vi":"độ nhớt","ex":{"tokens":["Honey","has","a","high","viscosity","."],"py":["","","","","","."],"vi":"Mật ong có độ nhớt cao.","alts":[]}},
+   {"id":"y5044-solubility","hanzi":"solubility","pinyin":"","vi":"độ tan","ex":{"tokens":["Heat","increases","the","solubility","of","sugar","."],"py":["","","","","","","."],"vi":"Nhiệt làm tăng độ tan của đường.","alts":[]}},
+   {"id":"y5044-residue","hanzi":"residue","pinyin":"","vi":"cặn, chất còn lại","ex":{"tokens":["A","white","residue","was","left","in","the","glass","."],"py":["","","","","","","","","."],"vi":"Một lớp cặn trắng còn lại trong cốc.","alts":[]}},
+   {"id":"y5044-beaker","hanzi":"beaker","pinyin":"","vi":"cốc thí nghiệm","ex":{"tokens":["Pour","the","liquid","into","a","beaker","."],"py":["","","","","","","."],"vi":"Hãy rót chất lỏng vào cốc thí nghiệm.","alts":[]}},
+   {"id":"y5044-flask","hanzi":"flask","pinyin":"","vi":"bình thí nghiệm; bình đựng","ex":{"tokens":["He","heated","the","flask","over","a","flame","."],"py":["","","","","","","","."],"vi":"Anh ấy đun bình thí nghiệm trên ngọn lửa.","alts":[]}},
+   {"id":"y5044-pipette","hanzi":"pipette","pinyin":"","vi":"ống hút nhỏ giọt","ex":{"tokens":["Use","a","pipette","to","add","three","drops","."],"py":["","","","","","","","."],"vi":"Hãy dùng ống nhỏ giọt để thêm ba giọt.","alts":[]}},
+   {"id":"y5044-sulfate","hanzi":"sulfate","pinyin":"","vi":"sunfat","ex":{"tokens":["Copper","sulfate","forms","blue","crystals","."],"py":["","","","","","."],"vi":"Đồng sunfat tạo thành tinh thể màu xanh.","alts":[]}},
+   {"id":"y5044-solute","hanzi":"solute","pinyin":"","vi":"chất tan","ex":{"tokens":["Sugar","is","the","solute","in","sweet","tea","."],"py":["","","","","","","","."],"vi":"Đường là chất tan trong trà ngọt.","alts":[]}},
+   {"id":"y5044-chromium","hanzi":"chromium","pinyin":"","vi":"crom","ex":{"tokens":["Chromium","makes","steel","shiny","and","hard","."],"py":["","","","","","","."],"vi":"Crom làm thép bóng và cứng.","alts":[]}}
+  ]}
+ ]
+}

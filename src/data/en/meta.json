@@ -34,7 +34,8 @@
   {"unit":503,"level":5,"title":"Phần 32: Văn hóa và nghệ thuật","desc":"Âm nhạc, hội họa, sân khấu, kiến trúc, ẩm thực, thú vui","color":"grape","course":"en"},
   {"unit":504,"level":5,"title":"Phần 33: Ngôn ngữ tinh luyện","desc":"Từ văn chương, từ mượn, thành ngữ, sắc thái tinh tế","color":"sun","course":"en"},
   {"unit":551,"level":5,"title":"Phần 34: Mở rộng – Giải phẫu cơ thể","desc":"Giải phẫu cơ thể, Bệnh lý, Thủ thuật và thiết bị y khoa, Thực vật học, Động vật học","color":"leaf","course":"en"},
-  {"unit":552,"level":5,"title":"Phần 35: Mở rộng – Động vật học","desc":"Động vật học, Chim và côn trùng, Sinh vật biển, Địa chất và địa hình","color":"sky","course":"en"}
+  {"unit":552,"level":5,"title":"Phần 35: Mở rộng – Động vật học","desc":"Động vật học, Chim và côn trùng, Sinh vật biển, Địa chất và địa hình","color":"sky","course":"en"},
+  {"unit":553,"level":5,"title":"Phần 36: Mở rộng – Hóa học","desc":"Hóa học","color":"grape","course":"en"}
  ],
  "lessons": [
   ["e01","Chào hỏi","Hi",1,12],
@@ -337,7 +338,7 @@
   ["p38","Đại dương","Sea",403,12],
   ["p39","Thiên văn học","Star",403,12],
   ["p40","Vật lý","Phy",403,12],
-  ["p41","Hóa học","Chem",403,12],
+  ["p41","Hóa học 1","Chem",403,12],
   ["p42","Kỹ thuật","Eng",403,12],
   ["p43","Trí tuệ nhân tạo","AI",403,12],
   ["p44","An ninh mạng","Lock",403,12],
@@ -472,6 +473,10 @@
   ["y5027","Sinh vật biển 3","Ocean",552,14],
   ["y5028","Địa chất và địa hình 1","Rocks",552,14],
   ["y5029","Địa chất và địa hình 2","Rocks",552,14],
-  ["y5030","Địa chất và địa hình 3","Rocks",552,14]
+  ["y5030","Địa chất và địa hình 3","Rocks",552,14],
+  ["y5041","Hóa học 2","Chem",553,14],
+  ["y5042","Hóa học 3","Chem",553,14],
+  ["y5043","Hóa học 4","Chem",553,14],
+  ["y5044","Hóa học 5","Chem",553,14]
  ]
 }

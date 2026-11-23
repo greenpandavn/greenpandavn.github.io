@@ -321,3 +321,68 @@ stalagmite|măng đá|A stalagmite grows up from the cave floor.|Một măng đ�
 cavern|hang lớn|The guide led us into a huge cavern.|Hướng dẫn viên dẫn chúng tôi vào một cái hang khổng lồ.
 foothill|đồi thấp dưới chân núi|The village lies in a foothill of the mountains.|Ngôi làng nằm ở vùng đồi dưới chân núi.
 shale|đá phiến sét|Gas is taken from shale deep underground.|Khí đốt được khai thác từ đá phiến sét sâu dưới lòng đất.
+
+%553|5|Phần 3: Mở rộng – Hóa học|Hóa học|grape
+@y5041|Hóa học 1|Nguyên tử, nguyên tố, phản ứng, dụng cụ thí nghiệm|Chem
+ion|ion|A sodium ion has a positive charge.|Ion natri mang điện tích dương.
+isotope|đồng vị|Carbon-14 is an isotope of carbon.|Cacbon-14 là một đồng vị của cacbon.
+proton|proton|A hydrogen atom has one proton.|Nguyên tử hydro có một proton.
+neutron|nơtron|A neutron has no electric charge.|Nơtron không mang điện tích.
+electron|electron|An electron moves around the nucleus.|Electron chuyển động quanh hạt nhân.
+nucleus|hạt nhân|The nucleus is the center of the atom.|Hạt nhân là trung tâm của nguyên tử.
+mixture|hỗn hợp|Air is a mixture of gases.|Không khí là hỗn hợp các chất khí.
+reagent|thuốc thử|Add the reagent to the test tube.|Hãy thêm thuốc thử vào ống nghiệm.
+polymer|polyme, chất trùng hợp|Plastic is a kind of polymer.|Nhựa là một loại polyme.
+alkali|chất kiềm|Soap is made with an alkali.|Xà phòng được làm bằng chất kiềm.
+oxide|oxit|Rust is iron oxide.|Gỉ sắt là oxit sắt.
+nitrate|nitrat|Too much nitrate pollutes the river.|Quá nhiều nitrat làm ô nhiễm dòng sông.
+carbonate|cacbonat|Chalk is calcium carbonate.|Phấn là canxi cacbonat.
+chloride|clorua|Table salt is sodium chloride.|Muối ăn là natri clorua.
+
+@y5042|Hóa học 2|Nguyên tử, nguyên tố, phản ứng, dụng cụ thí nghiệm|Chem
+helium|khí heli|The balloon is filled with helium.|Quả bóng bay được bơm khí heli.
+lithium|liti|Phone batteries contain lithium.|Pin điện thoại có chứa liti.
+nitrogen|nitơ|Most of the air is nitrogen.|Phần lớn không khí là nitơ.
+sodium|natri|Too much sodium is bad for your heart.|Quá nhiều natri có hại cho tim.
+magnesium|magiê|Nuts are rich in magnesium.|Các loại hạt giàu magiê.
+aluminum|nhôm|The can is made of aluminum.|Cái lon làm bằng nhôm.
+silicon|silic|Computer chips are made of silicon.|Chip máy tính được làm từ silic.
+phosphorus|phốt pho|Bones contain phosphorus.|Xương có chứa phốt pho.
+sulfur|lưu huỳnh|The hot spring smells of sulfur.|Suối nước nóng có mùi lưu huỳnh.
+chlorine|clo|The pool smells of chlorine.|Bể bơi có mùi clo.
+potassium|kali|Bananas contain a lot of potassium.|Chuối chứa nhiều kali.
+calcium|canxi|Milk is a good source of calcium.|Sữa là nguồn canxi tốt.
+copper|đồng (kim loại)|The wire is made of copper.|Sợi dây làm bằng đồng.
+zinc|kẽm|The roof is covered with zinc.|Mái nhà được lợp kẽm.
+
+@y5043|Hóa học 3|Nguyên tử, nguyên tố, phản ứng, dụng cụ thí nghiệm|Chem
+iodine|iốt|Iodine is added to table salt.|Iốt được thêm vào muối ăn.
+platinum|bạch kim|Her ring is made of platinum.|Chiếc nhẫn của cô ấy làm bằng bạch kim.
+mercury|thủy ngân|Old thermometers contain mercury.|Nhiệt kế cũ có chứa thủy ngân.
+uranium|urani|The power plant uses uranium as fuel.|Nhà máy điện dùng urani làm nhiên liệu.
+titanium|titan|The bike frame is made of titanium.|Khung xe đạp làm bằng titan.
+nickel|niken|The coin contains nickel.|Đồng xu có chứa niken.
+cobalt|coban|Cobalt is used in batteries.|Coban được dùng trong pin.
+tungsten|vonfram|The wire inside the old bulb is tungsten.|Sợi dây trong bóng đèn cũ là vonfram.
+arsenic|thạch tín, asen|The well water contained arsenic.|Nước giếng có chứa thạch tín.
+ammonia|amoniac|The cleaner smells strongly of ammonia.|Chất tẩy rửa có mùi amoniac nồng.
+methane|khí mêtan|Cows produce methane.|Bò thải ra khí mêtan.
+ethanol|etanol, cồn|Some cars run on ethanol.|Một số xe chạy bằng etanol.
+glucose|đường glucozơ|The brain needs glucose for energy.|Não cần glucozơ để có năng lượng.
+condense|ngưng tụ|Steam will condense on a cold window.|Hơi nước sẽ ngưng tụ trên cửa sổ lạnh.
+
+@y5044|Hóa học 4|Nguyên tử, nguyên tố, phản ứng, dụng cụ thí nghiệm|Chem
+oxidize|oxy hóa|Iron will oxidize in wet air.|Sắt sẽ bị oxy hóa trong không khí ẩm.
+corrode|ăn mòn|Salt water can corrode metal.|Nước muối có thể ăn mòn kim loại.
+neutralize|trung hòa|You can neutralize the acid with baking soda.|Bạn có thể trung hòa axit bằng bột nở.
+saturate|làm bão hòa|Keep adding salt to saturate the water.|Tiếp tục cho thêm muối để làm nước bão hòa.
+dilute|pha loãng|You should dilute the juice with water.|Bạn nên pha loãng nước ép với nước.
+viscosity|độ nhớt|Honey has a high viscosity.|Mật ong có độ nhớt cao.
+solubility|độ tan|Heat increases the solubility of sugar.|Nhiệt làm tăng độ tan của đường.
+residue|cặn, chất còn lại|A white residue was left in the glass.|Một lớp cặn trắng còn lại trong cốc.
+beaker|cốc thí nghiệm|Pour the liquid into a beaker.|Hãy rót chất lỏng vào cốc thí nghiệm.
+flask|bình thí nghiệm; bình đựng|He heated the flask over a flame.|Anh ấy đun bình thí nghiệm trên ngọn lửa.
+pipette|ống hút nhỏ giọt|Use a pipette to add three drops.|Hãy dùng ống nhỏ giọt để thêm ba giọt.
+sulfate|sunfat|Copper sulfate forms blue crystals.|Đồng sunfat tạo thành tinh thể màu xanh.
+solute|chất tan|Sugar is the solute in sweet tea.|Đường là chất tan trong trà ngọt.
+chromium|crom|Chromium makes steel shiny and hard.|Crom làm thép bóng và cứng.

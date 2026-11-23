@@ -115,7 +115,7 @@
    {"id":"p40-vacuum","hanzi":"vacuum","pinyin":"","vi":"chân không; máy hút bụi","ex":{"tokens":["Sound","cannot","travel","in","a","vacuum","."],"py":["","","","","","","."],"vi":"Âm thanh không thể truyền trong chân không.","alts":[]}},
    {"id":"p40-accelerate","hanzi":"accelerate","pinyin":"","vi":"tăng tốc","ex":{"tokens":["The","car","can","accelerate","very","quickly","."],"py":["","","","","","","."],"vi":"Chiếc xe có thể tăng tốc rất nhanh.","alts":[]}}
   ]},
-  {"id":"p41","title":"Hóa học","desc":"Nguyên tố, phân tử, phản ứng, axit","icon":"Chem","unit":403,"course":"en","order":3010,"words":[
+  {"id":"p41","title":"Hóa học 1","desc":"Nguyên tố, phân tử, phản ứng, axit","icon":"Chem","unit":403,"course":"en","order":3010,"words":[
    {"id":"p41-element","hanzi":"element","pinyin":"","vi":"nguyên tố; yếu tố","ex":{"tokens":["Gold","is","a","chemical","element","."],"py":["","","","","","."],"vi":"Vàng là một nguyên tố hóa học.","alts":[]}},
    {"id":"p41-molecule","hanzi":"molecule","pinyin":"","vi":"phân tử","ex":{"tokens":["A","water","molecule","has","three","atoms","."],"py":["","","","","","","."],"vi":"Một phân tử nước có ba nguyên tử.","alts":[]}},
    {"id":"p41-reaction","hanzi":"reaction","pinyin":"","vi":"phản ứng","ex":{"tokens":["The","reaction","produces","heat","."],"py":["","","","","."],"vi":"Phản ứng tạo ra nhiệt.","alts":[]}},
