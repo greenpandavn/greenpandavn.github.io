@@ -3,7 +3,7 @@
   {"unit":460,"level":4,"title":"Phần 54: Mở rộng – Lịch sử","desc":"Lịch sử, Xã hội, Nghệ thuật và sân khấu, Công sở, Tính từ ghép tả tính cách","color":"sun","course":"en"}
  ],
  "lessons": [
-  {"id":"y4181","title":"Lịch sử 1","desc":"Thời kỳ, chế độ, chiến tranh, di tích","icon":"History","unit":460,"course":"en","order":5770,"words":[
+  {"id":"y4181","title":"Lịch sử 1","desc":"Thời kỳ, chế độ, chiến tranh, di tích","icon":"History","unit":460,"course":"en","order":5820,"words":[
    {"id":"y4181-stone_age","hanzi":"Stone Age","pinyin":"","vi":"thời kỳ đồ đá","ex":{"tokens":["People","in","the","Stone","Age","used","stone","tools","."],"py":["","","","","","","","","."],"vi":"Con người thời kỳ đồ đá dùng công cụ bằng đá.","alts":[]}},
    {"id":"y4181-bronze_age","hanzi":"Bronze Age","pinyin":"","vi":"thời kỳ đồ đồng","ex":{"tokens":["The","sword","dates","from","the","Bronze","Age","."],"py":["","","","","","","","."],"vi":"Thanh kiếm có từ thời kỳ đồ đồng.","alts":[]}},
    {"id":"y4181-iron_age","hanzi":"Iron Age","pinyin":"","vi":"thời kỳ đồ sắt","ex":{"tokens":["The","village","was","built","in","the","Iron","Age","."],"py":["","","","","","","","","."],"vi":"Ngôi làng được dựng từ thời kỳ đồ sắt.","alts":[]}},
@@ -19,7 +19,7 @@
    {"id":"y4181-emperor","hanzi":"emperor","pinyin":"","vi":"hoàng đế","ex":{"tokens":["The","emperor","ruled","for","forty","years","."],"py":["","","","","","","."],"vi":"Hoàng đế trị vì bốn mươi năm.","alts":[]}},
    {"id":"y4181-empress","hanzi":"empress","pinyin":"","vi":"nữ hoàng, hoàng hậu","ex":{"tokens":["The","empress","built","a","new","palace","."],"py":["","","","","","","."],"vi":"Nữ hoàng cho xây một cung điện mới.","alts":[]}}
   ]},
-  {"id":"y4182","title":"Lịch sử 2","desc":"Thời kỳ, chế độ, chiến tranh, di tích","icon":"History","unit":460,"course":"en","order":5780,"words":[
+  {"id":"y4182","title":"Lịch sử 2","desc":"Thời kỳ, chế độ, chiến tranh, di tích","icon":"History","unit":460,"course":"en","order":5830,"words":[
    {"id":"y4182-kingdom","hanzi":"kingdom","pinyin":"","vi":"vương quốc","ex":{"tokens":["The","kingdom","was","rich","and","peaceful","."],"py":["","","","","","","."],"vi":"Vương quốc giàu có và thanh bình.","alts":[]}},
    {"id":"y4182-city_state","hanzi":"city-state","pinyin":"","vi":"thành bang","ex":{"tokens":["Athens","was","a","powerful","city-state","."],"py":["","","","","","."],"vi":"Athens là một thành bang hùng mạnh.","alts":[]}},
    {"id":"y4182-chieftain","hanzi":"chieftain","pinyin":"","vi":"tù trưởng","ex":{"tokens":["The","chieftain","led","his","people","to","war","."],"py":["","","","","","","","."],"vi":"Tù trưởng dẫn dắt dân mình ra trận.","alts":[]}},
@@ -35,7 +35,7 @@
    {"id":"y4182-slave_trade","hanzi":"slave trade","pinyin":"","vi":"buôn bán nô lệ","ex":{"tokens":["Britain","ended","the","slave","trade","in","1807","."],"py":["","","","","","","","."],"vi":"Anh chấm dứt buôn bán nô lệ năm 1807.","alts":[]}},
    {"id":"y4182-abolition","hanzi":"abolition","pinyin":"","vi":"sự bãi bỏ","ex":{"tokens":["He","fought","for","the","abolition","of","slavery","."],"py":["","","","","","","","."],"vi":"Ông ấy đấu tranh cho việc bãi bỏ chế độ nô lệ.","alts":[]}}
   ]},
-  {"id":"y4183","title":"Lịch sử 3","desc":"Thời kỳ, chế độ, chiến tranh, di tích","icon":"History","unit":460,"course":"en","order":5790,"words":[
+  {"id":"y4183","title":"Lịch sử 3","desc":"Thời kỳ, chế độ, chiến tranh, di tích","icon":"History","unit":460,"course":"en","order":5840,"words":[
    {"id":"y4183-mutiny","hanzi":"mutiny","pinyin":"","vi":"cuộc binh biến, nổi loạn trên tàu","ex":{"tokens":["The","sailors","planned","a","mutiny","."],"py":["","","","","","."],"vi":"Các thủy thủ âm mưu nổi loạn.","alts":[]}},
    {"id":"y4183-civil_war","hanzi":"civil war","pinyin":"","vi":"nội chiến","ex":{"tokens":["The","civil","war","lasted","four","years","."],"py":["","","","","","","."],"vi":"Cuộc nội chiến kéo dài bốn năm.","alts":[]}},
    {"id":"y4183-world_war","hanzi":"world war","pinyin":"","vi":"chiến tranh thế giới","ex":{"tokens":["My","grandfather","fought","in","a","world","war","."],"py":["","","","","","","","."],"vi":"Ông tôi từng chiến đấu trong một cuộc chiến tranh thế giới.","alts":[]}},
@@ -51,7 +51,7 @@
    {"id":"y4183-catacomb","hanzi":"catacomb","pinyin":"","vi":"hầm mộ","ex":{"tokens":["Tourists","walked","through","the","catacomb","."],"py":["","","","","","."],"vi":"Du khách đi qua khu hầm mộ.","alts":[]}},
    {"id":"y4183-archaeologist","hanzi":"archaeologist","pinyin":"","vi":"nhà khảo cổ","ex":{"tokens":["The","archaeologist","found","an","old","coin","."],"py":["","","","","","","."],"vi":"Nhà khảo cổ tìm thấy một đồng xu cổ.","alts":[]}}
   ]},
-  {"id":"y4184","title":"Xã hội 2","desc":"Tầng lớp, dân số, quyền con người, cộng đồng","icon":"Society","unit":460,"course":"en","order":5800,"words":[
+  {"id":"y4184","title":"Xã hội 2","desc":"Tầng lớp, dân số, quyền con người, cộng đồng","icon":"Society","unit":460,"course":"en","order":5850,"words":[
    {"id":"y4184-caste","hanzi":"caste","pinyin":"","vi":"đẳng cấp","ex":{"tokens":["He","was","born","into","a","low","caste","."],"py":["","","","","","","","."],"vi":"Ông ấy sinh ra trong một đẳng cấp thấp.","alts":[]}},
    {"id":"y4184-social_class","hanzi":"social class","pinyin":"","vi":"tầng lớp xã hội","ex":{"tokens":["Social","class","still","affects","education","."],"py":["","","","","","."],"vi":"Tầng lớp xã hội vẫn ảnh hưởng đến giáo dục.","alts":[]}},
    {"id":"y4184-working_class","hanzi":"working class","pinyin":"","vi":"tầng lớp lao động","ex":{"tokens":["He","grew","up","in","a","working","class","family","."],"py":["","","","","","","","","."],"vi":"Anh ấy lớn lên trong một gia đình lao động.","alts":[]}},
@@ -67,7 +67,7 @@
    {"id":"y4184-aging_population","hanzi":"aging population","pinyin":"","vi":"dân số già hóa","ex":{"tokens":["Japan","has","an","aging","population","."],"py":["","","","","","."],"vi":"Nhật Bản có dân số già hóa.","alts":[]}},
    {"id":"y4184-baby_boom","hanzi":"baby boom","pinyin":"","vi":"thời kỳ bùng nổ trẻ sơ sinh","ex":{"tokens":["There","was","a","baby","boom","after","the","war","."],"py":["","","","","","","","","."],"vi":"Có một thời kỳ bùng nổ trẻ sơ sinh sau chiến tranh.","alts":[]}}
   ]},
-  {"id":"y4185","title":"Xã hội 3","desc":"Tầng lớp, dân số, quyền con người, cộng đồng","icon":"Society","unit":460,"course":"en","order":5810,"words":[
+  {"id":"y4185","title":"Xã hội 3","desc":"Tầng lớp, dân số, quyền con người, cộng đồng","icon":"Society","unit":460,"course":"en","order":5860,"words":[
    {"id":"y4185-generation_gap","hanzi":"generation gap","pinyin":"","vi":"khoảng cách thế hệ","ex":{"tokens":["Music","shows","the","generation","gap","in","our","family","."],"py":["","","","","","","","","."],"vi":"Âm nhạc cho thấy khoảng cách thế hệ trong nhà tôi.","alts":[]}},
    {"id":"y4185-gender_equality","hanzi":"gender equality","pinyin":"","vi":"bình đẳng giới","ex":{"tokens":["The","company","supports","gender","equality","."],"py":["","","","","","."],"vi":"Công ty ủng hộ bình đẳng giới.","alts":[]}},
    {"id":"y4185-human_rights","hanzi":"human rights","pinyin":"","vi":"nhân quyền","ex":{"tokens":["Education","is","one","of","our","human","rights","."],"py":["","","","","","","","."],"vi":"Giáo dục là một trong các quyền con người.","alts":[]}},
@@ -83,7 +83,7 @@
    {"id":"y4185-grassroots","hanzi":"grassroots","pinyin":"","vi":"cơ sở, từ quần chúng","ex":{"tokens":["It","began","as","a","grassroots","campaign","."],"py":["","","","","","","."],"vi":"Nó bắt đầu như một chiến dịch từ quần chúng.","alts":[]}},
    {"id":"y4185-nonprofit","hanzi":"nonprofit","pinyin":"","vi":"phi lợi nhuận; tổ chức phi lợi nhuận","ex":{"tokens":["She","works","for","a","nonprofit","."],"py":["","","","","","."],"vi":"Cô ấy làm cho một tổ chức phi lợi nhuận.","alts":[]}}
   ]},
-  {"id":"y4186","title":"Nghệ thuật và sân khấu 1","desc":"Hội họa, âm nhạc, sân khấu, điện ảnh","icon":"Stage","unit":460,"course":"en","order":5820,"words":[
+  {"id":"y4186","title":"Nghệ thuật và sân khấu 1","desc":"Hội họa, âm nhạc, sân khấu, điện ảnh","icon":"Stage","unit":460,"course":"en","order":5870,"words":[
    {"id":"y4186-landscape_painting","hanzi":"landscape painting","pinyin":"","vi":"tranh phong cảnh","ex":{"tokens":["She","bought","a","landscape","painting","of","the","coast","."],"py":["","","","","","","","","."],"vi":"Cô ấy mua một bức tranh phong cảnh vùng biển.","alts":[]}},
    {"id":"y4186-brushstroke","hanzi":"brushstroke","pinyin":"","vi":"nét cọ","ex":{"tokens":["Every","brushstroke","is","visible","."],"py":["","","","","."],"vi":"Từng nét cọ đều nhìn thấy rõ.","alts":[]}},
    {"id":"y4186-art_gallery","hanzi":"art gallery","pinyin":"","vi":"phòng trưng bày nghệ thuật","ex":{"tokens":["We","spent","the","afternoon","in","an","art","gallery","."],"py":["","","","","","","","","."],"vi":"Chúng tôi dành buổi chiều ở một phòng trưng bày nghệ thuật.","alts":[]}},
@@ -99,7 +99,7 @@
    {"id":"y4186-opera_house","hanzi":"opera house","pinyin":"","vi":"nhà hát opera","ex":{"tokens":["The","opera","house","in","Hanoi","is","beautiful","."],"py":["","","","","","","","."],"vi":"Nhà hát Lớn Hà Nội rất đẹp.","alts":[]}},
    {"id":"y4186-chord_progression","hanzi":"chord progression","pinyin":"","vi":"vòng hợp âm","ex":{"tokens":["The","song","uses","a","simple","chord","progression","."],"py":["","","","","","","","."],"vi":"Bài hát dùng một vòng hợp âm đơn giản.","alts":[]}}
   ]},
-  {"id":"y4187","title":"Nghệ thuật và sân khấu 2","desc":"Hội họa, âm nhạc, sân khấu, điện ảnh","icon":"Stage","unit":460,"course":"en","order":5830,"words":[
+  {"id":"y4187","title":"Nghệ thuật và sân khấu 2","desc":"Hội họa, âm nhạc, sân khấu, điện ảnh","icon":"Stage","unit":460,"course":"en","order":5880,"words":[
    {"id":"y4187-sheet_music","hanzi":"sheet music","pinyin":"","vi":"bản nhạc in","ex":{"tokens":["She","can","play","without","sheet","music","."],"py":["","","","","","","."],"vi":"Cô ấy có thể chơi mà không cần bản nhạc.","alts":[]}},
    {"id":"y4187-music_stand","hanzi":"music stand","pinyin":"","vi":"giá để bản nhạc","ex":{"tokens":["Put","the","notes","on","the","music","stand","."],"py":["","","","","","","","."],"vi":"Hãy đặt bản nhạc lên giá.","alts":[]}},
    {"id":"y4187-opening_night","hanzi":"opening night","pinyin":"","vi":"đêm công diễn đầu tiên","ex":{"tokens":["The","actors","were","nervous","on","opening","night","."],"py":["","","","","","","","."],"vi":"Các diễn viên hồi hộp trong đêm công diễn đầu tiên.","alts":[]}},
@@ -115,7 +115,7 @@
    {"id":"y4187-box_office_hit","hanzi":"box office hit","pinyin":"","vi":"phim ăn khách","ex":{"tokens":["The","comedy","was","a","box","office","hit","."],"py":["","","","","","","","."],"vi":"Bộ phim hài là một phim ăn khách.","alts":[]}},
    {"id":"y4187-trilogy","hanzi":"trilogy","pinyin":"","vi":"bộ ba tác phẩm","ex":{"tokens":["I","have","read","the","whole","trilogy","."],"py":["","","","","","","."],"vi":"Tôi đã đọc hết bộ ba tác phẩm.","alts":[]}}
   ]},
-  {"id":"y4188","title":"Công sở 1","desc":"Tuyển dụng, chế độ, chức danh","icon":"Office","unit":460,"course":"en","order":5840,"words":[
+  {"id":"y4188","title":"Công sở 1","desc":"Tuyển dụng, chế độ, chức danh","icon":"Office","unit":460,"course":"en","order":5890,"words":[
    {"id":"y4188-job_interview","hanzi":"job interview","pinyin":"","vi":"buổi phỏng vấn xin việc","ex":{"tokens":["I","have","a","job","interview","tomorrow","."],"py":["","","","","","","."],"vi":"Ngày mai tôi có buổi phỏng vấn xin việc.","alts":[]}},
    {"id":"y4188-job_title","hanzi":"job title","pinyin":"","vi":"chức danh","ex":{"tokens":["What","is","your","job","title","?"],"py":["","","","","","?"],"vi":"Chức danh của bạn là gì?","alts":[]}},
    {"id":"y4188-job_security","hanzi":"job security","pinyin":"","vi":"sự ổn định việc làm","ex":{"tokens":["Teachers","have","good","job","security","."],"py":["","","","","","."],"vi":"Giáo viên có việc làm ổn định.","alts":[]}},
@@ -131,7 +131,7 @@
    {"id":"y4188-remote_work","hanzi":"remote work","pinyin":"","vi":"làm việc từ xa","ex":{"tokens":["Remote","work","saves","travel","time","."],"py":["","","","","","."],"vi":"Làm việc từ xa tiết kiệm thời gian đi lại.","alts":[]}},
    {"id":"y4188-home_office","hanzi":"home office","pinyin":"","vi":"phòng làm việc tại nhà","ex":{"tokens":["I","turned","the","spare","room","into","a","home","office","."],"py":["","","","","","","","","","."],"vi":"Tôi biến phòng trống thành phòng làm việc tại nhà.","alts":[]}}
   ]},
-  {"id":"y4189","title":"Công sở 2","desc":"Tuyển dụng, chế độ, chức danh","icon":"Office","unit":460,"course":"en","order":5850,"words":[
+  {"id":"y4189","title":"Công sở 2","desc":"Tuyển dụng, chế độ, chức danh","icon":"Office","unit":460,"course":"en","order":5900,"words":[
    {"id":"y4189-open_plan_office","hanzi":"open-plan office","pinyin":"","vi":"văn phòng không gian mở","ex":{"tokens":["An","open-plan","office","can","be","noisy","."],"py":["","","","","","","."],"vi":"Văn phòng không gian mở có thể ồn ào.","alts":[]}},
    {"id":"y4189-meeting_room","hanzi":"meeting room","pinyin":"","vi":"phòng họp","ex":{"tokens":["The","meeting","room","is","booked","until","noon","."],"py":["","","","","","","","."],"vi":"Phòng họp đã được đặt đến trưa.","alts":[]}},
    {"id":"y4189-team_meeting","hanzi":"team meeting","pinyin":"","vi":"cuộc họp nhóm","ex":{"tokens":["We","have","a","team","meeting","every","Monday","."],"py":["","","","","","","","."],"vi":"Thứ Hai nào chúng tôi cũng họp nhóm.","alts":[]}},
@@ -147,7 +147,7 @@
    {"id":"y4189-business_trip","hanzi":"business trip","pinyin":"","vi":"chuyến công tác","ex":{"tokens":["He","is","on","a","business","trip","to","Singapore","."],"py":["","","","","","","","","."],"vi":"Anh ấy đang đi công tác ở Singapore.","alts":[]}},
    {"id":"y4189-expense_claim","hanzi":"expense claim","pinyin":"","vi":"đề nghị thanh toán chi phí","ex":{"tokens":["Send","your","expense","claim","to","finance","."],"py":["","","","","","","."],"vi":"Hãy gửi đề nghị thanh toán chi phí cho phòng tài chính.","alts":[]}}
   ]},
-  {"id":"y4190","title":"Tính từ ghép tả tính cách 1","desc":"Tính từ ghép miêu tả con người","icon":"Character","unit":460,"course":"en","order":5860,"words":[
+  {"id":"y4190","title":"Tính từ ghép tả tính cách 1","desc":"Tính từ ghép miêu tả con người","icon":"Character","unit":460,"course":"en","order":5910,"words":[
    {"id":"y4190-level_headed","hanzi":"level-headed","pinyin":"","vi":"điềm tĩnh, sáng suốt","ex":{"tokens":["We","need","a","level-headed","leader","."],"py":["","","","","","."],"vi":"Chúng ta cần một người lãnh đạo điềm tĩnh.","alts":[]}},
    {"id":"y4190-laid_back","hanzi":"laid-back","pinyin":"","vi":"thoải mái, ung dung","ex":{"tokens":["My","boss","is","very","laid-back","."],"py":["","","","","","."],"vi":"Sếp tôi rất thoải mái.","alts":[]}},
    {"id":"y4190-open_minded","hanzi":"open-minded","pinyin":"","vi":"cởi mở","ex":{"tokens":["Travel","makes","you","more","open-minded","."],"py":["","","","","","."],"vi":"Du lịch khiến bạn cởi mở hơn.","alts":[]}},

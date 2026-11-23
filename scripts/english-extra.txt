@@ -1973,7 +1973,7 @@ earphones|tai nghe nhét tai|I left my earphones on the bus.|Tôi để quên ta
 smart speaker|loa thông minh|The smart speaker plays music when I ask.|Loa thông minh phát nhạc khi tôi yêu cầu.
 fitness tracker|vòng theo dõi sức khỏe|My fitness tracker counts my steps.|Vòng theo dõi sức khỏe đếm số bước chân của tôi.
 
-%359|3|Phần 9: Mở rộng – Công nghệ hằng ngày|Công nghệ hằng ngày, Từ vựng tổng hợp|coral
+%359|3|Phần 9: Mở rộng – Công nghệ hằng ngày|Công nghệ hằng ngày, Sửa chữa và lái xe, Tính từ tả đồ vật, Từ vựng tổng hợp|coral
 @y3161|Công nghệ hằng ngày 2|Điện thoại, ứng dụng, mạng|Devices
 game console|máy chơi game|He got a game console for his birthday.|Cậu ấy được tặng máy chơi game vào sinh nhật.
 game controller|tay cầm chơi game|The game controller needs new batteries.|Tay cầm chơi game cần thay pin.
@@ -2016,7 +2016,87 @@ QR code|mã QR|Scan the QR code to see the menu.|Hãy quét mã QR để xem th�
 two-step verification|xác minh hai bước|Turn on two-step verification for your email.|Hãy bật xác minh hai bước cho email của bạn.
 backup copy|bản sao lưu|Keep a backup copy of your photos.|Hãy giữ một bản sao lưu ảnh của bạn.
 
-@y3164|Từ vựng tổng hợp 1|Từ thuộc nhiều chủ đề|Mix
+@y3164|Sửa chữa và lái xe 1|Dụng cụ, hỏng hóc trong nhà, xe cộ|Repairs
+washer|vòng đệm; máy giặt|The tap needs a new washer.|Vòi nước cần một vòng đệm mới.
+drill bit|mũi khoan|Use a smaller drill bit.|Hãy dùng mũi khoan nhỏ hơn.
+paint roller|con lăn sơn|A paint roller is faster than a brush.|Con lăn sơn nhanh hơn cọ.
+paint tray|khay sơn|Pour the paint into the paint tray.|Hãy đổ sơn vào khay.
+spirit level|thước thủy|Check the shelf with a spirit level.|Hãy kiểm tra cái kệ bằng thước thủy.
+glue gun|súng bắn keo|Fix it with a glue gun.|Hãy dán nó bằng súng bắn keo.
+duct tape|băng keo vải|He fixed the pipe with duct tape.|Anh ấy sửa ống nước bằng băng keo vải.
+masking tape|băng keo giấy|Put masking tape around the window before you paint.|Hãy dán băng keo giấy quanh cửa sổ trước khi sơn.
+light switch|công tắc đèn|The light switch is behind the door.|Công tắc đèn ở sau cánh cửa.
+power socket|ổ cắm điện|Is there a power socket near the desk?|Gần bàn có ổ cắm điện không?
+smoke alarm|thiết bị báo khói|Test the smoke alarm every month.|Hãy kiểm tra thiết bị báo khói mỗi tháng.
+water heater|bình nước nóng|The water heater is broken.|Bình nước nóng bị hỏng.
+thermostat|bộ điều chỉnh nhiệt|Turn the thermostat down at night.|Hãy vặn nhỏ bộ điều chỉnh nhiệt vào ban đêm.
+ceiling fan|quạt trần|Turn on the ceiling fan.|Hãy bật quạt trần.
+
+@y3165|Sửa chữa và lái xe 2|Dụng cụ, hỏng hóc trong nhà, xe cộ|Repairs
+blocked drain|cống bị tắc|We called a plumber about the blocked drain.|Chúng tôi gọi thợ ống nước vì cống bị tắc.
+dripping tap|vòi nước rỉ|The dripping tap kept me awake.|Vòi nước rỉ làm tôi mất ngủ.
+cracked tile|viên gạch nứt|There is a cracked tile in the bathroom.|Có một viên gạch nứt trong phòng tắm.
+squeaky door|cánh cửa kêu cót két|Put some oil on the squeaky door.|Hãy tra ít dầu vào cánh cửa kêu cót két.
+flat-pack furniture|đồ nội thất tự lắp ráp|Flat-pack furniture is cheap but takes time to build.|Đồ nội thất tự lắp ráp rẻ nhưng mất thời gian lắp.
+driving license|bằng lái xe|I got my driving license last year.|Năm ngoái tôi lấy bằng lái xe.
+learner driver|người đang học lái|Be patient with a learner driver.|Hãy kiên nhẫn với người đang học lái.
+driving test|kỳ thi lái xe|She passed her driving test first time.|Cô ấy đỗ kỳ thi lái xe ngay lần đầu.
+junction|giao lộ|Turn left at the next junction.|Hãy rẽ trái ở giao lộ kế tiếp.
+hard shoulder|làn dừng khẩn cấp|He stopped on the hard shoulder.|Anh ấy dừng xe ở làn dừng khẩn cấp.
+fast lane|làn xe nhanh|Do not stay in the fast lane.|Đừng chạy mãi ở làn xe nhanh.
+slow lane|làn xe chậm|Trucks drive in the slow lane.|Xe tải chạy ở làn xe chậm.
+steer|lái, điều khiển hướng|It is hard to steer on ice.|Rất khó lái trên băng.
+speed up|tăng tốc|The car began to speed up.|Chiếc xe bắt đầu tăng tốc.
+
+@y3166|Sửa chữa và lái xe 3|Dụng cụ, hỏng hóc trong nhà, xe cộ|Repairs
+fill up|đổ đầy (xăng)|I need to fill up the tank.|Tôi cần đổ đầy bình xăng.
+flat tire|lốp xe bị xẹp|We had a flat tire on the highway.|Chúng tôi bị xẹp lốp trên đường cao tốc.
+car jack|kích nâng xe|The car jack is in the boot.|Cái kích nằm trong cốp xe.
+jump leads|dây câu bình ắc quy|Do you have jump leads in your car?|Xe bạn có dây câu bình không?
+breakdown service|dịch vụ cứu hộ xe|I called the breakdown service.|Tôi gọi dịch vụ cứu hộ xe.
+wing mirror|gương chiếu hậu bên hông|A bike hit my wing mirror.|Một chiếc xe đạp va vào gương chiếu hậu của tôi.
+windscreen|kính chắn gió|A stone cracked the windscreen.|Một hòn đá làm nứt kính chắn gió.
+windscreen wiper|cần gạt nước|The windscreen wiper is not working.|Cần gạt nước không hoạt động.
+gear stick|cần số|Move the gear stick into first.|Hãy gạt cần số về số một.
+car boot|cốp xe|Put the bags in the car boot.|Hãy để túi vào cốp xe.
+child seat|ghế trẻ em|The taxi had a child seat.|Chiếc taxi có ghế trẻ em.
+parking space|chỗ đỗ xe|I cannot find a parking space.|Tôi không tìm được chỗ đỗ xe.
+car insurance|bảo hiểm ô tô|Car insurance is expensive for young drivers.|Bảo hiểm ô tô đắt đối với tài xế trẻ.
+road works|công trình sửa đường|There are road works on the bridge.|Có công trình sửa đường trên cầu.
+
+@y3167|Tính từ tả đồ vật 1|Chất lượng, tính năng sản phẩm|Products
+handy|tiện dụng|This small knife is very handy.|Con dao nhỏ này rất tiện dụng.
+practical|thiết thực, thực tế|These shoes are practical for walking.|Đôi giày này thiết thực để đi bộ.
+unreliable|không đáng tin cậy|The old car is unreliable.|Chiếc xe cũ không đáng tin cậy.
+flimsy|mỏng manh, ọp ẹp|The table is too flimsy.|Cái bàn quá ọp ẹp.
+bulky|cồng kềnh|The box is too bulky to carry.|Cái hộp quá cồng kềnh để mang.
+compact|nhỏ gọn|I want a compact camera.|Tôi muốn một chiếc máy ảnh nhỏ gọn.
+portable|xách tay, di động|We took a portable speaker to the beach.|Chúng tôi mang loa di động ra bãi biển.
+adjustable|điều chỉnh được|The chair has an adjustable seat.|Chiếc ghế có mặt ngồi điều chỉnh được.
+waterproof|chống nước|Is your watch waterproof?|Đồng hồ của bạn có chống nước không?
+fireproof|chống cháy|Keep the papers in a fireproof box.|Hãy giữ giấy tờ trong hộp chống cháy.
+rustproof|chống gỉ|The gate has rustproof paint.|Cánh cổng được sơn chống gỉ.
+washable|giặt được|The sofa has a washable cover.|Ghế sô-pha có vỏ bọc giặt được.
+rechargeable|sạc lại được|The torch uses a rechargeable battery.|Đèn pin dùng pin sạc lại được.
+second-rate|hạng hai, tầm thường|We stayed in a second-rate hotel.|Chúng tôi ở một khách sạn tầm thường.
+
+@y3168|Tính từ tả đồ vật 2|Chất lượng, tính năng sản phẩm|Products
+first-rate|hạng nhất, xuất sắc|The service was first-rate.|Dịch vụ thật xuất sắc.
+top-quality|chất lượng hàng đầu|They sell top-quality coffee.|Họ bán cà phê chất lượng hàng đầu.
+low-cost|giá rẻ|We flew with a low-cost airline.|Chúng tôi bay với một hãng hàng không giá rẻ.
+hard-wearing|bền, khó mòn|These boots are hard-wearing.|Đôi ủng này rất bền.
+long-lasting|lâu bền|The paint is long-lasting.|Loại sơn này lâu bền.
+user-friendly|dễ sử dụng|The app is user-friendly.|Ứng dụng dễ sử dụng.
+time-saving|tiết kiệm thời gian|A dishwasher is a time-saving machine.|Máy rửa bát là thiết bị tiết kiệm thời gian.
+labor-saving|tiết kiệm sức lao động|The washing machine is a labor-saving device.|Máy giặt là thiết bị tiết kiệm sức lao động.
+easy-to-use|dễ dùng|It is an easy-to-use camera.|Đó là một chiếc máy ảnh dễ dùng.
+well-made|được làm kỹ, chắc chắn|The chair is simple but well-made.|Cái ghế đơn giản nhưng chắc chắn.
+brand-name|hàng hiệu|He only wears brand-name clothes.|Anh ấy chỉ mặc quần áo hàng hiệu.
+old-fashioned|lỗi thời, kiểu cũ|My phone is old-fashioned.|Điện thoại của tôi kiểu cũ rồi.
+state-of-the-art|tối tân|The hospital has state-of-the-art equipment.|Bệnh viện có thiết bị tối tân.
+high-tech|công nghệ cao|He works for a high-tech company.|Anh ấy làm cho một công ty công nghệ cao.
+
+@y3169|Từ vựng tổng hợp 1|Từ thuộc nhiều chủ đề|Mix
 candlestick|chân nến|There is a silver candlestick on the table.|Có một chiếc chân nến bạc trên bàn.
 ornament|đồ trang trí|She hung an ornament on the tree.|Cô ấy treo một món đồ trang trí lên cây.
 picture frame|khung ảnh|The photo is in a wooden picture frame.|Bức ảnh nằm trong khung gỗ.
@@ -2030,9 +2110,9 @@ muffler|ống giảm thanh; khăn quàng|The car needs a new muffler.|Chiếc xe
 hubcap|ốp bánh xe|A hubcap rolled across the road.|Một chiếc ốp bánh xe lăn ngang đường.
 odometer|đồng hồ đo quãng đường|The odometer shows fifty thousand kilometers.|Đồng hồ đo quãng đường chỉ năm mươi nghìn cây số.
 tailgate|bám sát đuôi xe; cửa hậu|Do not tailgate the car in front.|Đừng bám sát đuôi xe phía trước.
-
-@y3165|Từ vựng tổng hợp 2|Từ thuộc nhiều chủ đề|Mix
 promenade|đường dạo ven biển|We walked along the promenade at sunset.|Chúng tôi đi dạo trên đường ven biển lúc hoàng hôn.
+
+@y3170|Từ vựng tổng hợp 2|Từ thuộc nhiều chủ đề|Mix
 boardwalk|lối đi lát ván ven biển|There are food stalls on the boardwalk.|Có các quầy đồ ăn trên lối đi lát ván.
 immigration desk|quầy xuất nhập cảnh|Show your passport at the immigration desk.|Hãy xuất trình hộ chiếu ở quầy xuất nhập cảnh.
 bellhop|nhân viên xách hành lý khách sạn|The bellhop took our bags to the room.|Nhân viên xách hành lý mang túi của chúng tôi lên phòng.
@@ -2045,10 +2125,10 @@ warm front|frông nóng|A warm front brought rain to the north.|Một frông nó
 permafrost|tầng đất đóng băng vĩnh cửu|The permafrost is starting to melt.|Tầng đất đóng băng vĩnh cửu đang bắt đầu tan.
 obstinate|bướng bỉnh, ngoan cố|He is too obstinate to change his mind.|Anh ta quá bướng bỉnh nên không đổi ý.
 labor strike|cuộc đình công|The labor strike closed the factory.|Cuộc đình công khiến nhà máy đóng cửa.
-
-@y3166|Từ vựng tổng hợp 3|Từ thuộc nhiều chủ đề|Mix
 picket line|hàng người đình công đứng chặn|No one crossed the picket line.|Không ai vượt qua hàng người đình công.
 mentee|người được cố vấn|The mentor meets her mentee every month.|Người cố vấn gặp người được cố vấn của mình mỗi tháng.
+
+@y3171|Từ vựng tổng hợp 3|Từ thuộc nhiều chủ đề|Mix
 get well|khỏi bệnh|I hope you get well soon.|Tôi mong bạn sớm khỏi bệnh.
 bleed|chảy máu|The cut began to bleed.|Vết cắt bắt đầu chảy máu.
 swell|sưng lên|My ankle began to swell.|Mắt cá chân tôi bắt đầu sưng lên.
@@ -2060,11 +2140,11 @@ make an excuse|viện cớ|Do not make an excuse; just say sorry.|Đừng viện
 make up your mind|quyết định dứt khoát|Make up your mind before Friday.|Hãy quyết định dứt khoát trước thứ Sáu.
 do your best|cố gắng hết sức|Just do your best in the exam.|Cứ cố gắng hết sức trong kỳ thi.
 do a favor|giúp một việc|Could you do a favor for me?|Bạn giúp tôi một việc được không?
-
-@y3167|Từ vựng tổng hợp 4|Từ thuộc nhiều chủ đề|Mix
 do the shopping|đi mua sắm, đi chợ|I do the shopping on Saturday.|Tôi đi chợ vào thứ Bảy.
 do damage|gây thiệt hại|The storm may do damage to the roof.|Cơn bão có thể gây thiệt hại cho mái nhà.
 do research|nghiên cứu|Students do research in the library.|Sinh viên nghiên cứu trong thư viện.
+
+@y3172|Từ vựng tổng hợp 4|Từ thuộc nhiều chủ đề|Mix
 do well|làm tốt, học tốt|I hope you do well in the interview.|Tôi mong bạn làm tốt trong buổi phỏng vấn.
 get in touch|liên lạc|Get in touch if you need help.|Hãy liên lạc nếu bạn cần giúp đỡ.
 get rid of|vứt bỏ, loại bỏ|I want to get rid of these old shoes.|Tôi muốn vứt mấy đôi giày cũ này.
@@ -2075,6 +2155,10 @@ pay cut|việc giảm lương|Staff accepted a pay cut to save jobs.|Nhân viên
 overtime pay|lương làm thêm giờ|She gets overtime pay at weekends.|Cô ấy được lương làm thêm giờ vào cuối tuần.
 tax return|tờ khai thuế|I have to send my tax return this month.|Tôi phải nộp tờ khai thuế trong tháng này.
 loan payment|khoản trả nợ vay|He missed a loan payment.|Anh ấy lỡ một kỳ trả nợ vay.
+speed camera|camera bắn tốc độ|Slow down; there is a speed camera ahead.|Chạy chậm lại; phía trước có camera bắn tốc độ.
+lay-by|chỗ tạm dừng xe ven đường|We stopped in a lay-by to rest.|Chúng tôi dừng ở chỗ tạm dừng ven đường để nghỉ.
+loose handle|tay nắm bị lỏng|Dad fixed the loose handle on the door.|Bố sửa cái tay nắm cửa bị lỏng.
+run out of petrol|hết xăng|We may run out of petrol before the next town.|Chúng ta có thể hết xăng trước khi đến thị trấn kế tiếp.
 
 %451|4|Phần 1: Mở rộng – Pháp luật và tòa án|Pháp luật và tòa án, Tài chính và ngân hàng, Chính trị và nhà nước|leaf
 @y4001|Pháp luật và tòa án 1|Tội danh, thủ tục tố tụng, người tham gia|Law

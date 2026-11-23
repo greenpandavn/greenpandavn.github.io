@@ -3,7 +3,7 @@
   {"unit":461,"level":4,"title":"Phần 55: Mở rộng – Tính từ ghép tả tính cách","desc":"Tính từ ghép tả tính cách, Cụm từ nối và diễn đạt, Thể hình và dinh dưỡng, Từ vựng tổng hợp","color":"leaf","course":"en"}
  ],
  "lessons": [
-  {"id":"y4201","title":"Tính từ ghép tả tính cách 2","desc":"Tính từ ghép miêu tả con người","icon":"Character","unit":461,"course":"en","order":5870,"words":[
+  {"id":"y4201","title":"Tính từ ghép tả tính cách 2","desc":"Tính từ ghép miêu tả con người","icon":"Character","unit":461,"course":"en","order":5920,"words":[
    {"id":"y4201-bad_tempered","hanzi":"bad-tempered","pinyin":"","vi":"nóng nảy, hay cáu","ex":{"tokens":["He","is","bad-tempered","in","the","morning","."],"py":["","","","","","","."],"vi":"Buổi sáng ông ấy hay cáu.","alts":[]}},
    {"id":"y4201-good_natured","hanzi":"good-natured","pinyin":"","vi":"tốt tính, hiền hậu","ex":{"tokens":["Our","dog","is","big","but","good-natured","."],"py":["","","","","","","."],"vi":"Con chó nhà tôi to nhưng hiền.","alts":[]}},
    {"id":"y4201-kind_hearted","hanzi":"kind-hearted","pinyin":"","vi":"tốt bụng","ex":{"tokens":["A","kind-hearted","neighbor","helped","us","."],"py":["","","","","","."],"vi":"Một người hàng xóm tốt bụng đã giúp chúng tôi.","alts":[]}},
@@ -19,7 +19,7 @@
    {"id":"y4201-sharp_tongued","hanzi":"sharp-tongued","pinyin":"","vi":"ăn nói sắc sảo, chua ngoa","ex":{"tokens":["She","is","a","sharp-tongued","critic","."],"py":["","","","","","."],"vi":"Bà ấy là một nhà phê bình chua ngoa.","alts":[]}},
    {"id":"y4201-soft_spoken","hanzi":"soft-spoken","pinyin":"","vi":"ăn nói nhỏ nhẹ","ex":{"tokens":["He","is","a","soft-spoken","man","."],"py":["","","","","","."],"vi":"Ông ấy là người ăn nói nhỏ nhẹ.","alts":[]}}
   ]},
-  {"id":"y4202","title":"Cụm từ nối và diễn đạt 1","desc":"Trạng ngữ và cụm từ dùng trong lập luận","icon":"Linking","unit":461,"course":"en","order":5880,"words":[
+  {"id":"y4202","title":"Cụm từ nối và diễn đạt 1","desc":"Trạng ngữ và cụm từ dùng trong lập luận","icon":"Linking","unit":461,"course":"en","order":5930,"words":[
    {"id":"y4202-broadly_speaking","hanzi":"broadly speaking","pinyin":"","vi":"nói chung","ex":{"tokens":["Broadly","speaking",",","the","plan","worked","."],"py":["","",",","","","","."],"vi":"Nói chung, kế hoạch đã thành công.","alts":[]}},
    {"id":"y4202-by_contrast","hanzi":"by contrast","pinyin":"","vi":"ngược lại","ex":{"tokens":["The","north","is","cold;","the","south",",","by","contrast",",","is","hot","."],"py":["","","","","","",",","","",",","","","."],"vi":"Miền bắc lạnh; ngược lại, miền nam nóng.","alts":[]}},
    {"id":"y4202-correspondingly","hanzi":"correspondingly","pinyin":"","vi":"tương ứng","ex":{"tokens":["Prices","rose","and","wages","rose","correspondingly","."],"py":["","","","","","","."],"vi":"Giá cả tăng và lương cũng tăng tương ứng.","alts":[]}},
@@ -34,7 +34,7 @@
    {"id":"y4202-on_the_whole","hanzi":"on the whole","pinyin":"","vi":"nhìn chung","ex":{"tokens":["On","the","whole",",","the","reviews","were","good","."],"py":["","","",",","","","","","."],"vi":"Nhìn chung, các bài đánh giá đều tốt.","alts":[]}},
    {"id":"y4202-reportedly","hanzi":"reportedly","pinyin":"","vi":"theo tin đã đưa","ex":{"tokens":["The","actor","is","reportedly","ill","."],"py":["","","","","","."],"vi":"Theo tin đã đưa, nam diễn viên đang ốm.","alts":[]}}
   ]},
-  {"id":"y4203","title":"Cụm từ nối và diễn đạt 2","desc":"Trạng ngữ và cụm từ dùng trong lập luận","icon":"Linking","unit":461,"course":"en","order":5890,"words":[
+  {"id":"y4203","title":"Cụm từ nối và diễn đạt 2","desc":"Trạng ngữ và cụm từ dùng trong lập luận","icon":"Linking","unit":461,"course":"en","order":5940,"words":[
    {"id":"y4203-similarly","hanzi":"similarly","pinyin":"","vi":"tương tự","ex":{"tokens":["Cats","sleep","a","lot;","similarly",",","lions","rest","most","of","the","day","."],"py":["","","","","",",","","","","","","","."],"vi":"Mèo ngủ nhiều; tương tự, sư tử nghỉ gần như cả ngày.","alts":[]}},
    {"id":"y4203-specifically","hanzi":"specifically","pinyin":"","vi":"cụ thể là","ex":{"tokens":["I","asked","specifically","for","a","window","seat","."],"py":["","","","","","","","."],"vi":"Tôi đã yêu cầu cụ thể một chỗ ngồi cạnh cửa sổ.","alts":[]}},
    {"id":"y4203-strictly_speaking","hanzi":"strictly speaking","pinyin":"","vi":"nói cho chính xác","ex":{"tokens":["Strictly","speaking",",","a","tomato","is","a","fruit","."],"py":["","",",","","","","","","."],"vi":"Nói cho chính xác, cà chua là trái cây.","alts":[]}},
@@ -48,7 +48,7 @@
    {"id":"y4203-for_the_time_being","hanzi":"for the time being","pinyin":"","vi":"tạm thời","ex":{"tokens":["You","can","stay","here","for","the","time","being","."],"py":["","","","","","","","","."],"vi":"Bạn có thể tạm thời ở đây.","alts":[]}},
    {"id":"y4203-in_any_case","hanzi":"in any case","pinyin":"","vi":"dù thế nào","ex":{"tokens":["In","any","case",",","call","me","tonight","."],"py":["","","",",","","","","."],"vi":"Dù thế nào cũng hãy gọi cho tôi tối nay.","alts":[]}}
   ]},
-  {"id":"y4204","title":"Cụm từ nối và diễn đạt 3","desc":"Trạng ngữ và cụm từ dùng trong lập luận","icon":"Linking","unit":461,"course":"en","order":5900,"words":[
+  {"id":"y4204","title":"Cụm từ nối và diễn đạt 3","desc":"Trạng ngữ và cụm từ dùng trong lập luận","icon":"Linking","unit":461,"course":"en","order":5950,"words":[
    {"id":"y4204-in_due_course","hanzi":"in due course","pinyin":"","vi":"vào lúc thích hợp","ex":{"tokens":["You","will","receive","a","reply","in","due","course","."],"py":["","","","","","","","","."],"vi":"Bạn sẽ nhận được trả lời vào lúc thích hợp.","alts":[]}},
    {"id":"y4204-in_light_of","hanzi":"in light of","pinyin":"","vi":"xét đến","ex":{"tokens":["In","light","of","the","news",",","we","changed","our","plans","."],"py":["","","","","",",","","","","","."],"vi":"Xét đến tin tức đó, chúng tôi đổi kế hoạch.","alts":[]}},
    {"id":"y4204-in_other_words","hanzi":"in other words","pinyin":"","vi":"nói cách khác","ex":{"tokens":["He","is",",","in","other","words",",","not","coming","."],"py":["","",",","","","",",","","","."],"vi":"Nói cách khác, anh ấy sẽ không đến.","alts":[]}},
@@ -62,7 +62,7 @@
    {"id":"y4204-with_hindsight","hanzi":"with hindsight","pinyin":"","vi":"nhìn lại sau khi việc đã rồi","ex":{"tokens":["With","hindsight",",","the","signs","were","clear","."],"py":["","",",","","","","","."],"vi":"Nhìn lại thì các dấu hiệu rất rõ ràng.","alts":[]}},
    {"id":"y4204-without_doubt","hanzi":"without doubt","pinyin":"","vi":"chắc chắn","ex":{"tokens":["She","is","without","doubt","the","best","player","."],"py":["","","","","","","","."],"vi":"Cô ấy chắc chắn là cầu thủ giỏi nhất.","alts":[]}}
   ]},
-  {"id":"y4205","title":"Thể hình và dinh dưỡng 1","desc":"Tập luyện, chế độ ăn, sức khỏe tinh thần","icon":"Fitness","unit":461,"course":"en","order":5910,"words":[
+  {"id":"y4205","title":"Thể hình và dinh dưỡng 1","desc":"Tập luyện, chế độ ăn, sức khỏe tinh thần","icon":"Fitness","unit":461,"course":"en","order":5960,"words":[
    {"id":"y4205-cardio","hanzi":"cardio","pinyin":"","vi":"bài tập tim mạch","ex":{"tokens":["I","do","cardio","three","times","a","week","."],"py":["","","","","","","","."],"vi":"Tôi tập tim mạch ba lần một tuần.","alts":[]}},
    {"id":"y4205-strength_training","hanzi":"strength training","pinyin":"","vi":"tập sức mạnh","ex":{"tokens":["Strength","training","builds","muscle","."],"py":["","","","","."],"vi":"Tập sức mạnh giúp tăng cơ.","alts":[]}},
    {"id":"y4205-resistance_band","hanzi":"resistance band","pinyin":"","vi":"dây kháng lực","ex":{"tokens":["You","can","train","at","home","with","a","resistance","band","."],"py":["","","","","","","","","","."],"vi":"Bạn có thể tập ở nhà với dây kháng lực.","alts":[]}},
@@ -76,7 +76,7 @@
    {"id":"y4205-stretching","hanzi":"stretching","pinyin":"","vi":"giãn cơ","ex":{"tokens":["Stretching","prevents","injuries","."],"py":["","","","."],"vi":"Giãn cơ giúp phòng chấn thương.","alts":[]}},
    {"id":"y4205-flexibility","hanzi":"flexibility","pinyin":"","vi":"sự dẻo dai; tính linh hoạt","ex":{"tokens":["Yoga","improves","flexibility","."],"py":["","","","."],"vi":"Yoga cải thiện độ dẻo dai.","alts":[]}}
   ]},
-  {"id":"y4206","title":"Thể hình và dinh dưỡng 2","desc":"Tập luyện, chế độ ăn, sức khỏe tinh thần","icon":"Fitness","unit":461,"course":"en","order":5920,"words":[
+  {"id":"y4206","title":"Thể hình và dinh dưỡng 2","desc":"Tập luyện, chế độ ăn, sức khỏe tinh thần","icon":"Fitness","unit":461,"course":"en","order":5970,"words":[
    {"id":"y4206-core_strength","hanzi":"core strength","pinyin":"","vi":"sức mạnh cơ trung tâm","ex":{"tokens":["Swimming","builds","core","strength","."],"py":["","","","","."],"vi":"Bơi lội tăng sức mạnh cơ trung tâm.","alts":[]}},
    {"id":"y4206-muscle_mass","hanzi":"muscle mass","pinyin":"","vi":"khối lượng cơ","ex":{"tokens":["We","lose","muscle","mass","as","we","age","."],"py":["","","","","","","","."],"vi":"Chúng ta mất khối lượng cơ khi già đi.","alts":[]}},
    {"id":"y4206-body_fat","hanzi":"body fat","pinyin":"","vi":"mỡ cơ thể","ex":{"tokens":["He","wants","to","reduce","his","body","fat","."],"py":["","","","","","","","."],"vi":"Anh ấy muốn giảm mỡ cơ thể.","alts":[]}},
@@ -90,7 +90,7 @@
    {"id":"y4206-heart_rate","hanzi":"heart rate","pinyin":"","vi":"nhịp tim","ex":{"tokens":["My","heart","rate","rises","when","I","run","."],"py":["","","","","","","","."],"vi":"Nhịp tim của tôi tăng khi chạy.","alts":[]}},
    {"id":"y4206-step_count","hanzi":"step count","pinyin":"","vi":"số bước chân","ex":{"tokens":["My","step","count","was","ten","thousand","today","."],"py":["","","","","","","","."],"vi":"Hôm nay tôi đi được mười nghìn bước.","alts":[]}}
   ]},
-  {"id":"y4207","title":"Thể hình và dinh dưỡng 3","desc":"Tập luyện, chế độ ăn, sức khỏe tinh thần","icon":"Fitness","unit":461,"course":"en","order":5930,"words":[
+  {"id":"y4207","title":"Thể hình và dinh dưỡng 3","desc":"Tập luyện, chế độ ăn, sức khỏe tinh thần","icon":"Fitness","unit":461,"course":"en","order":5980,"words":[
    {"id":"y4207-body_mass_index","hanzi":"body mass index","pinyin":"","vi":"chỉ số khối cơ thể (BMI)","ex":{"tokens":["The","doctor","checked","my","body","mass","index","."],"py":["","","","","","","","."],"vi":"Bác sĩ kiểm tra chỉ số khối cơ thể của tôi.","alts":[]}},
    {"id":"y4207-balanced_diet","hanzi":"balanced diet","pinyin":"","vi":"chế độ ăn cân bằng","ex":{"tokens":["A","balanced","diet","includes","fruit","and","vegetables","."],"py":["","","","","","","","."],"vi":"Chế độ ăn cân bằng gồm trái cây và rau.","alts":[]}},
    {"id":"y4207-crash_diet","hanzi":"crash diet","pinyin":"","vi":"chế độ ăn kiêng cấp tốc","ex":{"tokens":["A","crash","diet","is","bad","for","your","health","."],"py":["","","","","","","","","."],"vi":"Ăn kiêng cấp tốc có hại cho sức khỏe.","alts":[]}},
@@ -104,7 +104,7 @@
    {"id":"y4207-low_fat","hanzi":"low-fat","pinyin":"","vi":"ít béo","ex":{"tokens":["She","buys","low-fat","milk","."],"py":["","","","","."],"vi":"Cô ấy mua sữa ít béo.","alts":[]}},
    {"id":"y4207-high_fiber","hanzi":"high-fiber","pinyin":"","vi":"giàu chất xơ","ex":{"tokens":["Oats","are","a","high-fiber","food","."],"py":["","","","","","."],"vi":"Yến mạch là thực phẩm giàu chất xơ.","alts":[]}}
   ]},
-  {"id":"y4208","title":"Thể hình và dinh dưỡng 4","desc":"Tập luyện, chế độ ăn, sức khỏe tinh thần","icon":"Fitness","unit":461,"course":"en","order":5940,"words":[
+  {"id":"y4208","title":"Thể hình và dinh dưỡng 4","desc":"Tập luyện, chế độ ăn, sức khỏe tinh thần","icon":"Fitness","unit":461,"course":"en","order":5990,"words":[
    {"id":"y4208-gluten_free","hanzi":"gluten-free","pinyin":"","vi":"không chứa gluten","ex":{"tokens":["The","café","sells","gluten-free","cakes","."],"py":["","","","","","."],"vi":"Quán cà phê bán bánh không chứa gluten.","alts":[]}},
    {"id":"y4208-dairy_free","hanzi":"dairy-free","pinyin":"","vi":"không chứa sữa","ex":{"tokens":["Is","this","ice","cream","dairy-free","?"],"py":["","","","","","?"],"vi":"Kem này có không chứa sữa không?","alts":[]}},
    {"id":"y4208-plant_based","hanzi":"plant-based","pinyin":"","vi":"có nguồn gốc thực vật","ex":{"tokens":["He","follows","a","plant-based","diet","."],"py":["","","","","","."],"vi":"Anh ấy theo chế độ ăn thực vật.","alts":[]}},
@@ -118,7 +118,7 @@
    {"id":"y4208-stress_relief","hanzi":"stress relief","pinyin":"","vi":"sự giải tỏa căng thẳng","ex":{"tokens":["Music","is","my","stress","relief","."],"py":["","","","","","."],"vi":"Âm nhạc là cách tôi giải tỏa căng thẳng.","alts":[]}},
    {"id":"y4208-self_care","hanzi":"self-care","pinyin":"","vi":"tự chăm sóc bản thân","ex":{"tokens":["Sleep","is","part","of","self-care","."],"py":["","","","","","."],"vi":"Giấc ngủ là một phần của việc tự chăm sóc bản thân.","alts":[]}}
   ]},
-  {"id":"y4209","title":"Từ vựng tổng hợp 5","desc":"Từ thuộc nhiều chủ đề","icon":"Mix","unit":461,"course":"en","order":5950,"words":[
+  {"id":"y4209","title":"Từ vựng tổng hợp 5","desc":"Từ thuộc nhiều chủ đề","icon":"Mix","unit":461,"course":"en","order":6000,"words":[
    {"id":"y4209-solvency","hanzi":"solvency","pinyin":"","vi":"khả năng thanh toán","ex":{"tokens":["The","auditors","checked","the","solvency","of","the","firm","."],"py":["","","","","","","","","."],"vi":"Kiểm toán viên kiểm tra khả năng thanh toán của công ty.","alts":[]}},
    {"id":"y4209-rosary","hanzi":"rosary","pinyin":"","vi":"chuỗi tràng hạt","ex":{"tokens":["She","held","a","rosary","while","she","prayed","."],"py":["","","","","","","","."],"vi":"Bà ấy cầm chuỗi tràng hạt khi cầu nguyện.","alts":[]}},
    {"id":"y4209-alliteration","hanzi":"alliteration","pinyin":"","vi":"phép điệp âm đầu","ex":{"tokens":["The","poem","uses","alliteration","in","every","line","."],"py":["","","","","","","","."],"vi":"Bài thơ dùng phép điệp âm ở mọi dòng.","alts":[]}},
@@ -134,7 +134,7 @@
    {"id":"y4209-ancestor_worship","hanzi":"ancestor worship","pinyin":"","vi":"tục thờ cúng tổ tiên","ex":{"tokens":["Ancestor","worship","is","common","in","Vietnam","."],"py":["","","","","","","."],"vi":"Tục thờ cúng tổ tiên phổ biến ở Việt Nam.","alts":[]}},
    {"id":"y4209-charity_work","hanzi":"charity work","pinyin":"","vi":"công việc từ thiện","ex":{"tokens":["He","does","charity","work","at","weekends","."],"py":["","","","","","","."],"vi":"Anh ấy làm từ thiện vào cuối tuần.","alts":[]}}
   ]},
-  {"id":"y4210","title":"Từ vựng tổng hợp 6","desc":"Từ thuộc nhiều chủ đề","icon":"Mix","unit":461,"course":"en","order":5960,"words":[
+  {"id":"y4210","title":"Từ vựng tổng hợp 6","desc":"Từ thuộc nhiều chủ đề","icon":"Mix","unit":461,"course":"en","order":6010,"words":[
    {"id":"y4210-philanthropy","hanzi":"philanthropy","pinyin":"","vi":"hoạt động từ thiện (quy mô lớn)","ex":{"tokens":["The","hospital","was","built","through","philanthropy","."],"py":["","","","","","","."],"vi":"Bệnh viện được xây nhờ hoạt động từ thiện.","alts":[]}},
    {"id":"y4210-volunteerism","hanzi":"volunteerism","pinyin":"","vi":"tinh thần tình nguyện","ex":{"tokens":["Volunteerism","is","strong","among","students","."],"py":["","","","","","."],"vi":"Tinh thần tình nguyện rất mạnh trong sinh viên.","alts":[]}},
    {"id":"y4210-spin_off","hanzi":"spin-off","pinyin":"","vi":"phần ngoại truyện","ex":{"tokens":["The","series","got","a","spin-off","."],"py":["","","","","","."],"vi":"Loạt phim có thêm phần ngoại truyện.","alts":[]}},
