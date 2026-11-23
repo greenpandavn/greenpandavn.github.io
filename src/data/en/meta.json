@@ -68,7 +68,8 @@
   {"unit":558,"level":5,"title":"Phần 66: Mở rộng – Kinh tế học","desc":"Kinh tế học, Sinh học và di truyền, Kỹ thuật và công trình","color":"grape","course":"en"},
   {"unit":559,"level":5,"title":"Phần 67: Mở rộng – Từ văn chương","desc":"Từ văn chương, Từ văn chương nâng cao","color":"coral","course":"en"},
   {"unit":560,"level":5,"title":"Phần 68: Mở rộng – Từ văn chương nâng cao","desc":"Từ văn chương nâng cao, Y học chuyên sâu, Pháp luật và thể chế","color":"sun","course":"en"},
-  {"unit":561,"level":5,"title":"Phần 69: Mở rộng – Pháp luật và thể chế","desc":"Pháp luật và thể chế, Thiên văn học, Địa chất học, Toán học nâng cao, Từ vựng tổng hợp","color":"leaf","course":"en"}
+  {"unit":561,"level":5,"title":"Phần 69: Mở rộng – Pháp luật và thể chế","desc":"Pháp luật và thể chế, Thiên văn học, Địa chất học, Toán học nâng cao, Hóa học","color":"leaf","course":"en"},
+  {"unit":562,"level":5,"title":"Phần 70: Mở rộng – Vật lý","desc":"Vật lý, Cụm từ La-tinh, Từ vựng tổng hợp","color":"sky","course":"en"}
  ],
  "lessons": [
   ["e01","Chào hỏi","Hi",1,12],
@@ -832,6 +833,12 @@
   ["y5205","Địa chất học","Geology",561,14],
   ["y5206","Toán học nâng cao 1","Maths",561,13],
   ["y5207","Toán học nâng cao 2","Maths",561,13],
-  ["y5208","Từ vựng tổng hợp 7","Mix",561,14]
+  ["y5208","Hóa học 6","Chemistry",561,14],
+  ["y5209","Hóa học 7","Chemistry",561,14],
+  ["y5210","Vật lý 5","Physics",561,14],
+  ["y5221","Vật lý 6","Physics",562,14],
+  ["y5222","Cụm từ La-tinh 1","Latin",562,14],
+  ["y5223","Cụm từ La-tinh 2","Latin",562,14],
+  ["y5224","Từ vựng tổng hợp 7","Mix",562,14]
  ]
 }

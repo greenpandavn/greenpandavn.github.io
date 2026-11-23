@@ -1,0 +1,95 @@
+# Level 5 (Chuyên sâu): hóa học, vật lý, cụm từ La-tinh.
+@5|Hóa học|Liên kết, phản ứng, dung dịch|Chemistry
+covalent bond|liên kết cộng hóa trị|Water molecules have a covalent bond between hydrogen and oxygen.|Phân tử nước có liên kết cộng hóa trị giữa hi-đrô và ô-xy.
+ionic bond|liên kết ion|Salt is held together by an ionic bond.|Muối được giữ bằng liên kết ion.
+hydrogen bond|liên kết hi-đrô|A hydrogen bond is weaker than a covalent one.|Liên kết hi-đrô yếu hơn liên kết cộng hóa trị.
+valence electron|electron hóa trị|Sodium has one valence electron.|Natri có một electron hóa trị.
+electron shell|lớp vỏ electron|The outer electron shell is full.|Lớp vỏ electron ngoài cùng đã đầy.
+atomic number|số hiệu nguyên tử|The atomic number of carbon is six.|Số hiệu nguyên tử của các-bon là sáu.
+atomic mass|khối lượng nguyên tử|The atomic mass of oxygen is about sixteen.|Khối lượng nguyên tử của ô-xy khoảng mười sáu.
+periodic table|bảng tuần hoàn|Gold is on the periodic table.|Vàng có trong bảng tuần hoàn.
+noble gas|khí hiếm|Helium is a noble gas.|Heli là một khí hiếm.
+alkali metal|kim loại kiềm|Sodium is an alkali metal.|Natri là một kim loại kiềm.
+halogen|ha-lô-gen|Chlorine is a halogen.|Clo là một ha-lô-gen.
+transition metal|kim loại chuyển tiếp|Iron is a transition metal.|Sắt là một kim loại chuyển tiếp.
+isomer|đồng phân|Each isomer has different properties.|Mỗi đồng phân có tính chất khác nhau.
+monomer|mô-nô-me, đơn phân|A plastic is built from one small monomer repeated many times.|Nhựa được tạo từ một đơn phân nhỏ lặp lại nhiều lần.
+precipitate|chất kết tủa; kết tủa|A white precipitate formed in the tube.|Một chất kết tủa trắng hình thành trong ống nghiệm.
+titration|sự chuẩn độ|We found the concentration by titration.|Chúng tôi tìm nồng độ bằng phương pháp chuẩn độ.
+distillation|sự chưng cất|Distillation separates alcohol from water.|Chưng cất tách rượu khỏi nước.
+sublimation|sự thăng hoa|Dry ice disappears by sublimation.|Đá khô biến mất do thăng hoa.
+condensation|sự ngưng tụ|Condensation formed on the window.|Hơi nước ngưng tụ trên cửa sổ.
+electrolysis|sự điện phân|Electrolysis splits water into hydrogen and oxygen.|Điện phân tách nước thành hi-đrô và ô-xy.
+activation energy|năng lượng hoạt hóa|A catalyst lowers the activation energy.|Chất xúc tác làm giảm năng lượng hoạt hóa.
+chemical equilibrium|cân bằng hóa học|The reaction reached chemical equilibrium.|Phản ứng đạt cân bằng hóa học.
+reaction rate|tốc độ phản ứng|Heat increases the reaction rate.|Nhiệt làm tăng tốc độ phản ứng.
+molar mass|khối lượng mol|The molar mass of water is eighteen grams.|Khối lượng mol của nước là mười tám gam.
+saturated solution|dung dịch bão hòa|No more salt dissolves in a saturated solution.|Muối không tan thêm trong dung dịch bão hòa.
+acidity|độ a-xít|The acidity of the soil is high.|Độ a-xít của đất cao.
+alkaline|có tính kiềm|Soap is slightly alkaline.|Xà phòng có tính kiềm nhẹ.
+buffer solution|dung dịch đệm|A buffer solution keeps the pH stable.|Dung dịch đệm giữ độ pH ổn định.
+litmus paper|giấy quỳ|Litmus paper turns red in acid.|Giấy quỳ chuyển đỏ trong a-xít.
+Bunsen burner|đèn Bunsen|Light the Bunsen burner carefully.|Hãy châm đèn Bunsen cẩn thận.
+
+@5|Vật lý|Năng lượng, sóng, hạt, điện từ|Physics
+kinetic energy|động năng|A moving car has kinetic energy.|Chiếc xe đang chạy có động năng.
+potential energy|thế năng|Water behind a dam stores potential energy.|Nước sau con đập tích trữ thế năng.
+thermal energy|nhiệt năng|Friction produces thermal energy.|Ma sát sinh ra nhiệt năng.
+conservation of energy|sự bảo toàn năng lượng|The law of conservation of energy always holds.|Định luật bảo toàn năng lượng luôn đúng.
+centripetal force|lực hướng tâm|Centripetal force keeps the Moon in orbit.|Lực hướng tâm giữ Mặt Trăng trên quỹ đạo.
+surface tension|sức căng bề mặt|Surface tension lets insects walk on water.|Sức căng bề mặt giúp côn trùng đi trên mặt nước.
+absolute zero|độ không tuyệt đối|Nothing can be colder than absolute zero.|Không gì có thể lạnh hơn độ không tuyệt đối.
+heat transfer|sự truyền nhiệt|Metal is good for heat transfer.|Kim loại truyền nhiệt tốt.
+conduction|sự dẫn (nhiệt, điện)|Heat moves through the pan by conduction.|Nhiệt truyền qua chảo bằng sự dẫn nhiệt.
+convection|sự đối lưu|Warm air rises by convection.|Không khí ấm bốc lên do đối lưu.
+interference|sự giao thoa; sự can thiệp|The pattern is caused by wave interference.|Hoa văn này do giao thoa sóng tạo ra.
+polarization|sự phân cực|Polarization reduces glare in sunglasses.|Sự phân cực làm giảm chói ở kính râm.
+electromagnetic wave|sóng điện từ|Light is an electromagnetic wave.|Ánh sáng là một sóng điện từ.
+gamma ray|tia gam-ma|A gamma ray has very high energy.|Tia gam-ma có năng lượng rất cao.
+lepton|lép-tôn|The electron is a lepton.|Electron là một lép-tôn.
+boson|bô-zôn|The Higgs boson was found in 2012.|Hạt bô-zôn Higgs được tìm thấy năm 2012.
+nuclear fission|sự phân hạch hạt nhân|Power plants use nuclear fission.|Nhà máy điện dùng phản ứng phân hạch hạt nhân.
+nuclear fusion|sự nhiệt hạch|The Sun shines because of nuclear fusion.|Mặt Trời tỏa sáng nhờ phản ứng nhiệt hạch.
+half-life|chu kỳ bán rã|The half-life of this isotope is eight days.|Chu kỳ bán rã của đồng vị này là tám ngày.
+radioactive decay|sự phân rã phóng xạ|Radioactive decay releases energy.|Sự phân rã phóng xạ giải phóng năng lượng.
+chain reaction|phản ứng dây chuyền|One mistake set off a chain reaction.|Một sai lầm đã gây ra phản ứng dây chuyền.
+particle accelerator|máy gia tốc hạt|The particle accelerator is 27 kilometers long.|Máy gia tốc hạt dài 27 ki-lô-mét.
+electric current|dòng điện|An electric current flows through the wire.|Một dòng điện chạy qua dây dẫn.
+magnetic field|từ trường|The Earth has a magnetic field.|Trái Đất có từ trường.
+electric field|điện trường|A charge creates an electric field.|Một điện tích tạo ra điện trường.
+quantum mechanics|cơ học lượng tử|Quantum mechanics describes very small particles.|Cơ học lượng tử mô tả các hạt rất nhỏ.
+wave function|hàm sóng|The wave function describes the state of a particle.|Hàm sóng mô tả trạng thái của một hạt.
+uncertainty principle|nguyên lý bất định|Heisenberg stated the uncertainty principle.|Heisenberg phát biểu nguyên lý bất định.
+special relativity|thuyết tương đối hẹp|Einstein published special relativity in 1905.|Einstein công bố thuyết tương đối hẹp năm 1905.
+general relativity|thuyết tương đối rộng|General relativity explains gravity.|Thuyết tương đối rộng giải thích lực hấp dẫn.
+spacetime|không-thời gian|Mass bends spacetime.|Khối lượng làm cong không-thời gian.
+
+@5|Cụm từ La-tinh|Cụm từ gốc La-tinh dùng trong tiếng Anh trang trọng|Latin
+ad infinitum|đến vô tận|We could argue about this ad infinitum.|Chúng ta có thể tranh cãi chuyện này đến vô tận.
+ad nauseam|đến phát ngán|He talked about his car ad nauseam.|Anh ta nói về chiếc xe của mình đến phát ngán.
+carpe diem|hãy sống trọn hôm nay|Her motto is carpe diem.|Phương châm của cô ấy là hãy sống trọn hôm nay.
+caveat emptor|người mua tự chịu rủi ro|With used cars, caveat emptor applies.|Với xe cũ, người mua tự chịu rủi ro.
+de jure|về mặt pháp lý|He is the de jure owner of the land.|Về mặt pháp lý ông ấy là chủ mảnh đất.
+ex officio|đương nhiên theo chức vụ|The mayor is an ex officio member of the board.|Thị trưởng là thành viên đương nhiên của hội đồng.
+in absentia|vắng mặt|He was tried in absentia.|Ông ta bị xét xử vắng mặt.
+in situ|tại chỗ|The paintings were studied in situ.|Các bức tranh được nghiên cứu tại chỗ.
+in vitro|trong ống nghiệm|The drug worked in vitro.|Thuốc có tác dụng trong ống nghiệm.
+in vivo|trong cơ thể sống|The next step is to test it in vivo.|Bước tiếp theo là thử nghiệm trong cơ thể sống.
+ipso facto|tự bản thân điều đó|Being rich does not ipso facto make you happy.|Giàu có tự nó không làm bạn hạnh phúc.
+magnum opus|kiệt tác lớn nhất|The novel is her magnum opus.|Cuốn tiểu thuyết là kiệt tác lớn nhất của bà ấy.
+modus operandi|cách thức hành động|The thief has a clear modus operandi.|Tên trộm có cách thức hành động rõ ràng.
+persona non grata|người không được hoan nghênh|He is persona non grata at the club.|Ông ta là người không được hoan nghênh ở câu lạc bộ.
+prima facie|thoạt nhìn; sơ bộ|There is prima facie evidence of fraud.|Có bằng chứng sơ bộ về gian lận.
+pro rata|theo tỷ lệ|Part-time staff are paid pro rata.|Nhân viên bán thời gian được trả lương theo tỷ lệ.
+sine qua non|điều kiện tiên quyết|Trust is the sine qua non of a good team.|Lòng tin là điều kiện tiên quyết của một đội tốt.
+sub judice|đang được tòa xem xét|We cannot comment; the case is sub judice.|Chúng tôi không thể bình luận; vụ việc đang được tòa xem xét.
+terra incognita|vùng đất chưa ai biết|For him, cooking is terra incognita.|Với anh ấy, nấu ăn là vùng đất chưa ai biết.
+vox populi|tiếng nói của dân chúng|The paper claims to speak for vox populi.|Tờ báo tự nhận nói thay tiếng nói của dân chúng.
+alter ego|bản ngã thứ hai|Superman's alter ego is Clark Kent.|Bản ngã thứ hai của Siêu Nhân là Clark Kent.
+mea culpa|lời nhận lỗi|The minister issued a public mea culpa.|Bộ trưởng công khai nhận lỗi.
+tabula rasa|tờ giấy trắng (khởi đầu trống trơn)|A child's mind is not a tabula rasa.|Tâm trí đứa trẻ không phải là một tờ giấy trắng.
+non sequitur|kết luận không ăn nhập|His answer was a complete non sequitur.|Câu trả lời của anh ta hoàn toàn không ăn nhập.
+in loco parentis|thay mặt cha mẹ|Teachers act in loco parentis.|Giáo viên hành động thay mặt cha mẹ.
+inter alia|trong số những điều khác|The report covers, inter alia, pay and hours.|Bản báo cáo đề cập, trong số những điều khác, đến lương và giờ làm.
+post mortem|khám nghiệm tử thi; rút kinh nghiệm sau sự việc|The team held a post mortem after the defeat.|Đội họp rút kinh nghiệm sau trận thua.
+curriculum vitae|sơ yếu lý lịch|Send your curriculum vitae by email.|Hãy gửi sơ yếu lý lịch qua email.
