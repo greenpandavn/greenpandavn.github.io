@@ -157,36 +157,6 @@
    {"id":"y5070-loathe","hanzi":"loathe","pinyin":"","vi":"ghét cay ghét đắng","ex":{"tokens":["I","loathe","getting","up","early","."],"py":["","","","","","."],"vi":"Tôi ghét cay ghét đắng việc dậy sớm.","alts":[]}},
    {"id":"y5070-mollify","hanzi":"mollify","pinyin":"","vi":"làm nguôi giận","ex":{"tokens":["He","bought","flowers","to","mollify","his","wife","."],"py":["","","","","","","","."],"vi":"Anh ấy mua hoa để làm vợ nguôi giận.","alts":[]}},
    {"id":"y5070-nullify","hanzi":"nullify","pinyin":"","vi":"hủy bỏ hiệu lực","ex":{"tokens":["The","court","may","nullify","the","contract","."],"py":["","","","","","","."],"vi":"Tòa có thể hủy bỏ hiệu lực hợp đồng.","alts":[]}}
-  ]},
-  {"id":"y5071","title":"Động từ trang trọng 14","desc":"Động từ dùng trong văn viết, báo chí, học thuật","icon":"Formal","unit":554,"course":"en","order":5480,"words":[
-   {"id":"y5071-obfuscate","hanzi":"obfuscate","pinyin":"","vi":"làm rối, làm khó hiểu","ex":{"tokens":["Long","words","only","obfuscate","the","message","."],"py":["","","","","","","."],"vi":"Từ ngữ dài dòng chỉ làm thông điệp khó hiểu.","alts":[]}},
-   {"id":"y5071-obliterate","hanzi":"obliterate","pinyin":"","vi":"xóa sạch","ex":{"tokens":["The","flood","could","obliterate","the","village","."],"py":["","","","","","","."],"vi":"Trận lũ có thể xóa sổ ngôi làng.","alts":[]}},
-   {"id":"y5071-obstruct","hanzi":"obstruct","pinyin":"","vi":"cản trở, chắn","ex":{"tokens":["Do","not","obstruct","the","exit","."],"py":["","","","","","."],"vi":"Đừng chắn lối thoát hiểm.","alts":[]}},
-   {"id":"y5071-oust","hanzi":"oust","pinyin":"","vi":"lật đổ, hất cẳng","ex":{"tokens":["The","party","voted","to","oust","its","leader","."],"py":["","","","","","","","."],"vi":"Đảng bỏ phiếu phế truất lãnh đạo của mình.","alts":[]}},
-   {"id":"y5071-pacify","hanzi":"pacify","pinyin":"","vi":"dỗ yên, bình định","ex":{"tokens":["She","sang","to","pacify","the","baby","."],"py":["","","","","","","."],"vi":"Cô ấy hát để dỗ em bé.","alts":[]}},
-   {"id":"y5071-pervade","hanzi":"pervade","pinyin":"","vi":"lan tỏa khắp","ex":{"tokens":["Fear","began","to","pervade","the","town","."],"py":["","","","","","","."],"vi":"Nỗi sợ bắt đầu lan khắp thị trấn.","alts":[]}},
-   {"id":"y5071-placate","hanzi":"placate","pinyin":"","vi":"xoa dịu","ex":{"tokens":["The","manager","tried","to","placate","the","customer","."],"py":["","","","","","","","."],"vi":"Quản lý cố xoa dịu khách hàng.","alts":[]}},
-   {"id":"y5071-plunder","hanzi":"plunder","pinyin":"","vi":"cướp bóc","ex":{"tokens":["Pirates","used","to","plunder","ships","here","."],"py":["","","","","","","."],"vi":"Cướp biển từng cướp bóc tàu thuyền ở đây.","alts":[]}},
-   {"id":"y5071-propagate","hanzi":"propagate","pinyin":"","vi":"nhân giống; truyền bá","ex":{"tokens":["You","can","propagate","this","plant","from","a","leaf","."],"py":["","","","","","","","","."],"vi":"Bạn có thể nhân giống cây này từ một chiếc lá.","alts":[]}},
-   {"id":"y5071-recant","hanzi":"recant","pinyin":"","vi":"rút lại lời (đã tuyên bố)","ex":{"tokens":["The","witness","decided","to","recant","her","statement","."],"py":["","","","","","","","."],"vi":"Nhân chứng quyết định rút lại lời khai.","alts":[]}},
-   {"id":"y5071-reiterate","hanzi":"reiterate","pinyin":"","vi":"nhắc lại","ex":{"tokens":["Let","me","reiterate","the","main","point","."],"py":["","","","","","","."],"vi":"Cho tôi nhắc lại ý chính.","alts":[]}},
-   {"id":"y5071-renounce","hanzi":"renounce","pinyin":"","vi":"từ bỏ (chính thức)","ex":{"tokens":["He","chose","to","renounce","his","title","."],"py":["","","","","","","."],"vi":"Ông ấy chọn từ bỏ tước vị.","alts":[]}},
-   {"id":"y5071-repudiate","hanzi":"repudiate","pinyin":"","vi":"bác bỏ, khước từ","ex":{"tokens":["They","repudiate","all","the","accusations","."],"py":["","","","","","."],"vi":"Họ bác bỏ mọi lời buộc tội.","alts":[]}}
-  ]},
-  {"id":"y5072","title":"Động từ trang trọng 15","desc":"Động từ dùng trong văn viết, báo chí, học thuật","icon":"Formal","unit":554,"course":"en","order":5490,"words":[
-   {"id":"y5072-retaliate","hanzi":"retaliate","pinyin":"","vi":"trả đũa","ex":{"tokens":["The","army","may","retaliate","tonight","."],"py":["","","","","","."],"vi":"Quân đội có thể trả đũa trong đêm nay.","alts":[]}},
-   {"id":"y5072-revere","hanzi":"revere","pinyin":"","vi":"tôn kính","ex":{"tokens":["Students","revere","the","old","teacher","."],"py":["","","","","","."],"vi":"Học trò tôn kính người thầy già.","alts":[]}},
-   {"id":"y5072-subjugate","hanzi":"subjugate","pinyin":"","vi":"chinh phục, khuất phục","ex":{"tokens":["The","empire","tried","to","subjugate","the","tribes","."],"py":["","","","","","","","."],"vi":"Đế quốc tìm cách khuất phục các bộ lạc.","alts":[]}},
-   {"id":"y5072-substantiate","hanzi":"substantiate","pinyin":"","vi":"chứng minh, đưa bằng chứng","ex":{"tokens":["You","must","substantiate","your","claim","."],"py":["","","","","","."],"vi":"Bạn phải đưa ra bằng chứng cho lời khẳng định của mình.","alts":[]}},
-   {"id":"y5072-succumb","hanzi":"succumb","pinyin":"","vi":"gục ngã, chịu thua","ex":{"tokens":["Do","not","succumb","to","pressure","."],"py":["","","","","","."],"vi":"Đừng gục ngã trước áp lực.","alts":[]}},
-   {"id":"y5072-supplant","hanzi":"supplant","pinyin":"","vi":"thay thế, chiếm chỗ","ex":{"tokens":["Phones","may","supplant","cameras","."],"py":["","","","","."],"vi":"Điện thoại có thể thay thế máy ảnh.","alts":[]}},
-   {"id":"y5072-surmise","hanzi":"surmise","pinyin":"","vi":"phỏng đoán","ex":{"tokens":["I","surmise","that","he","is","not","coming","."],"py":["","","","","","","","."],"vi":"Tôi đoán là anh ấy sẽ không đến.","alts":[]}},
-   {"id":"y5072-transcend","hanzi":"transcend","pinyin":"","vi":"vượt lên trên","ex":{"tokens":["Music","can","transcend","language","."],"py":["","","","","."],"vi":"Âm nhạc có thể vượt qua rào cản ngôn ngữ.","alts":[]}},
-   {"id":"y5072-usurp","hanzi":"usurp","pinyin":"","vi":"chiếm đoạt (quyền lực)","ex":{"tokens":["The","prince","tried","to","usurp","the","throne","."],"py":["","","","","","","","."],"vi":"Hoàng tử tìm cách chiếm đoạt ngai vàng.","alts":[]}},
-   {"id":"y5072-vacillate","hanzi":"vacillate","pinyin":"","vi":"dao động, lưỡng lự","ex":{"tokens":["I","vacillate","between","the","two","choices","."],"py":["","","","","","","."],"vi":"Tôi lưỡng lự giữa hai lựa chọn.","alts":[]}},
-   {"id":"y5072-wane","hanzi":"wane","pinyin":"","vi":"suy yếu dần, khuyết dần","ex":{"tokens":["Public","interest","began","to","wane","."],"py":["","","","","","."],"vi":"Sự quan tâm của công chúng bắt đầu giảm dần.","alts":[]}},
-   {"id":"y5072-yearn","hanzi":"yearn","pinyin":"","vi":"khao khát","ex":{"tokens":["I","yearn","for","a","quiet","life","."],"py":["","","","","","","."],"vi":"Tôi khao khát một cuộc sống yên bình.","alts":[]}},
-   {"id":"y5072-adulterate","hanzi":"adulterate","pinyin":"","vi":"pha trộn làm giảm chất lượng","ex":{"tokens":["Some","sellers","adulterate","honey","with","sugar","."],"py":["","","","","","","."],"vi":"Một số người bán pha đường vào mật ong.","alts":[]}}
   ]}
  ]
 }
