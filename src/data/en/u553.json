@@ -1,6 +1,6 @@
 {
  "units": [
-  {"unit":553,"level":5,"title":"Phần 36: Mở rộng – Hóa học","desc":"Hóa học","color":"grape","course":"en"}
+  {"unit":553,"level":5,"title":"Phần 36: Mở rộng – Hóa học","desc":"Hóa học, Vật lý, Thiên văn học","color":"grape","course":"en"}
  ],
  "lessons": [
   {"id":"y5041","title":"Hóa học 2","desc":"Nguyên tử, nguyên tố, phản ứng, dụng cụ thí nghiệm","icon":"Chem","unit":553,"course":"en","order":4370,"words":[
@@ -66,6 +66,86 @@
    {"id":"y5044-sulfate","hanzi":"sulfate","pinyin":"","vi":"sunfat","ex":{"tokens":["Copper","sulfate","forms","blue","crystals","."],"py":["","","","","","."],"vi":"Đồng sunfat tạo thành tinh thể màu xanh.","alts":[]}},
    {"id":"y5044-solute","hanzi":"solute","pinyin":"","vi":"chất tan","ex":{"tokens":["Sugar","is","the","solute","in","sweet","tea","."],"py":["","","","","","","","."],"vi":"Đường là chất tan trong trà ngọt.","alts":[]}},
    {"id":"y5044-chromium","hanzi":"chromium","pinyin":"","vi":"crom","ex":{"tokens":["Chromium","makes","steel","shiny","and","hard","."],"py":["","","","","","","."],"vi":"Crom làm thép bóng và cứng.","alts":[]}}
+  ]},
+  {"id":"y5045","title":"Vật lý 2","desc":"Chuyển động, sóng, điện, hạt","icon":"Physics","unit":553,"course":"en","order":4410,"words":[
+   {"id":"y5045-acceleration","hanzi":"acceleration","pinyin":"","vi":"gia tốc","ex":{"tokens":["The","car","has","very","fast","acceleration","."],"py":["","","","","","","."],"vi":"Chiếc xe có gia tốc rất nhanh.","alts":[]}},
+   {"id":"y5045-thrust","hanzi":"thrust","pinyin":"","vi":"lực đẩy","ex":{"tokens":["The","engines","give","the","rocket","enough","thrust","."],"py":["","","","","","","","."],"vi":"Động cơ cho tên lửa đủ lực đẩy.","alts":[]}},
+   {"id":"y5045-buoyancy","hanzi":"buoyancy","pinyin":"","vi":"sức nổi","ex":{"tokens":["Salt","water","gives","your","body","more","buoyancy","."],"py":["","","","","","","","."],"vi":"Nước muối cho cơ thể bạn sức nổi lớn hơn.","alts":[]}},
+   {"id":"y5045-wavelength","hanzi":"wavelength","pinyin":"","vi":"bước sóng","ex":{"tokens":["Red","light","has","a","long","wavelength","."],"py":["","","","","","","."],"vi":"Ánh sáng đỏ có bước sóng dài.","alts":[]}},
+   {"id":"y5045-amplitude","hanzi":"amplitude","pinyin":"","vi":"biên độ","ex":{"tokens":["A","loud","sound","has","a","large","amplitude","."],"py":["","","","","","","","."],"vi":"Âm thanh to có biên độ lớn.","alts":[]}},
+   {"id":"y5045-resonance","hanzi":"resonance","pinyin":"","vi":"sự cộng hưởng","ex":{"tokens":["The","bridge","shook","because","of","resonance","."],"py":["","","","","","","."],"vi":"Cây cầu rung lên vì cộng hưởng.","alts":[]}},
+   {"id":"y5045-oscillation","hanzi":"oscillation","pinyin":"","vi":"sự dao động","ex":{"tokens":["We","measured","the","oscillation","of","the","spring","."],"py":["","","","","","","","."],"vi":"Chúng tôi đo dao động của lò xo.","alts":[]}},
+   {"id":"y5045-vibration","hanzi":"vibration","pinyin":"","vi":"sự rung","ex":{"tokens":["I","felt","the","vibration","of","the","engine","."],"py":["","","","","","","","."],"vi":"Tôi cảm thấy độ rung của động cơ.","alts":[]}},
+   {"id":"y5045-refraction","hanzi":"refraction","pinyin":"","vi":"sự khúc xạ","ex":{"tokens":["Refraction","makes","the","straw","look","bent","."],"py":["","","","","","","."],"vi":"Sự khúc xạ làm cái ống hút trông như bị gãy.","alts":[]}},
+   {"id":"y5045-reflection","hanzi":"reflection","pinyin":"","vi":"sự phản xạ; hình phản chiếu","ex":{"tokens":["She","saw","her","reflection","in","the","lake","."],"py":["","","","","","","","."],"vi":"Cô ấy thấy hình phản chiếu của mình trên mặt hồ.","alts":[]}},
+   {"id":"y5045-diffraction","hanzi":"diffraction","pinyin":"","vi":"sự nhiễu xạ","ex":{"tokens":["Diffraction","spreads","light","around","an","edge","."],"py":["","","","","","","."],"vi":"Sự nhiễu xạ làm ánh sáng lan quanh một cạnh.","alts":[]}},
+   {"id":"y5045-spectrum","hanzi":"spectrum","pinyin":"","vi":"quang phổ; phạm vi","ex":{"tokens":["A","rainbow","shows","the","spectrum","of","light","."],"py":["","","","","","","","."],"vi":"Cầu vồng cho thấy quang phổ của ánh sáng.","alts":[]}},
+   {"id":"y5045-photon","hanzi":"photon","pinyin":"","vi":"photon, hạt ánh sáng","ex":{"tokens":["A","photon","is","a","particle","of","light","."],"py":["","","","","","","","."],"vi":"Photon là một hạt ánh sáng.","alts":[]}},
+   {"id":"y5045-neutrino","hanzi":"neutrino","pinyin":"","vi":"hạt neutrino","ex":{"tokens":["A","neutrino","passes","through","the","Earth","easily","."],"py":["","","","","","","","."],"vi":"Hạt neutrino đi xuyên qua Trái Đất dễ dàng.","alts":[]}}
+  ]},
+  {"id":"y5046","title":"Vật lý 3","desc":"Chuyển động, sóng, điện, hạt","icon":"Physics","unit":553,"course":"en","order":4420,"words":[
+   {"id":"y5046-antimatter","hanzi":"antimatter","pinyin":"","vi":"phản vật chất","ex":{"tokens":["Antimatter","is","very","hard","to","store","."],"py":["","","","","","","."],"vi":"Phản vật chất rất khó lưu trữ.","alts":[]}},
+   {"id":"y5046-fission","hanzi":"fission","pinyin":"","vi":"sự phân hạch","ex":{"tokens":["Nuclear","fission","releases","a","lot","of","energy","."],"py":["","","","","","","","."],"vi":"Sự phân hạch hạt nhân giải phóng rất nhiều năng lượng.","alts":[]}},
+   {"id":"y5046-fusion","hanzi":"fusion","pinyin":"","vi":"sự hợp hạch, sự hợp nhất","ex":{"tokens":["The","sun","gets","its","energy","from","fusion","."],"py":["","","","","","","","."],"vi":"Mặt trời lấy năng lượng từ phản ứng hợp hạch.","alts":[]}},
+   {"id":"y5046-radioactive","hanzi":"radioactive","pinyin":"","vi":"có tính phóng xạ","ex":{"tokens":["The","waste","stays","radioactive","for","years","."],"py":["","","","","","","."],"vi":"Chất thải vẫn có tính phóng xạ trong nhiều năm.","alts":[]}},
+   {"id":"y5046-magnetism","hanzi":"magnetism","pinyin":"","vi":"từ tính","ex":{"tokens":["Magnetism","holds","the","note","on","the","fridge","."],"py":["","","","","","","","."],"vi":"Từ tính giữ mẩu giấy trên tủ lạnh.","alts":[]}},
+   {"id":"y5046-electrode","hanzi":"electrode","pinyin":"","vi":"điện cực","ex":{"tokens":["The","doctor","put","an","electrode","on","his","chest","."],"py":["","","","","","","","","."],"vi":"Bác sĩ gắn một điện cực lên ngực anh ấy.","alts":[]}},
+   {"id":"y5046-kinetic","hanzi":"kinetic","pinyin":"","vi":"thuộc động năng, chuyển động","ex":{"tokens":["A","moving","ball","has","kinetic","energy","."],"py":["","","","","","","."],"vi":"Quả bóng đang chuyển động có động năng.","alts":[]}},
+   {"id":"y5046-thermal","hanzi":"thermal","pinyin":"","vi":"thuộc nhiệt; giữ nhiệt","ex":{"tokens":["I","wear","thermal","socks","in","winter","."],"py":["","","","","","","."],"vi":"Tôi mang tất giữ nhiệt vào mùa đông.","alts":[]}},
+   {"id":"y5046-thermodynamics","hanzi":"thermodynamics","pinyin":"","vi":"nhiệt động lực học","ex":{"tokens":["She","studies","thermodynamics","at","university","."],"py":["","","","","","."],"vi":"Cô ấy học nhiệt động lực học ở đại học.","alts":[]}},
+   {"id":"y5046-entropy","hanzi":"entropy","pinyin":"","vi":"entropy, độ hỗn loạn","ex":{"tokens":["Entropy","always","increases","in","a","closed","system","."],"py":["","","","","","","","."],"vi":"Entropy luôn tăng trong một hệ kín.","alts":[]}},
+   {"id":"y5046-relativity","hanzi":"relativity","pinyin":"","vi":"thuyết tương đối","ex":{"tokens":["Einstein","wrote","the","theory","of","relativity","."],"py":["","","","","","","."],"vi":"Einstein đã viết thuyết tương đối.","alts":[]}},
+   {"id":"y5046-quantum","hanzi":"quantum","pinyin":"","vi":"lượng tử","ex":{"tokens":["Quantum","physics","is","hard","to","imagine","."],"py":["","","","","","","."],"vi":"Vật lý lượng tử rất khó hình dung.","alts":[]}},
+   {"id":"y5046-pendulum","hanzi":"pendulum","pinyin":"","vi":"con lắc","ex":{"tokens":["The","pendulum","of","the","old","clock","swings","slowly","."],"py":["","","","","","","","","."],"vi":"Con lắc của chiếc đồng hồ cũ đung đưa chậm rãi.","alts":[]}},
+   {"id":"y5046-lever","hanzi":"lever","pinyin":"","vi":"đòn bẩy; cần gạt","ex":{"tokens":["Pull","the","lever","to","open","the","door","."],"py":["","","","","","","","."],"vi":"Hãy kéo cần gạt để mở cửa.","alts":[]}}
+  ]},
+  {"id":"y5047","title":"Vật lý 4","desc":"Chuyển động, sóng, điện, hạt","icon":"Physics","unit":553,"course":"en","order":4430,"words":[
+   {"id":"y5047-pulley","hanzi":"pulley","pinyin":"","vi":"ròng rọc","ex":{"tokens":["They","lifted","the","box","with","a","pulley","."],"py":["","","","","","","","."],"vi":"Họ nâng chiếc hộp bằng ròng rọc.","alts":[]}},
+   {"id":"y5047-prism","hanzi":"prism","pinyin":"","vi":"lăng kính","ex":{"tokens":["A","prism","splits","white","light","into","colors","."],"py":["","","","","","","","."],"vi":"Lăng kính tách ánh sáng trắng thành các màu.","alts":[]}},
+   {"id":"y5047-laser","hanzi":"laser","pinyin":"","vi":"tia laze","ex":{"tokens":["The","doctor","used","a","laser","on","her","eye","."],"py":["","","","","","","","","."],"vi":"Bác sĩ dùng tia laze cho mắt cô ấy.","alts":[]}},
+   {"id":"y5047-hologram","hanzi":"hologram","pinyin":"","vi":"ảnh ba chiều","ex":{"tokens":["The","card","has","a","hologram","to","stop","copying","."],"py":["","","","","","","","","."],"vi":"Chiếc thẻ có ảnh ba chiều để chống làm giả.","alts":[]}},
+   {"id":"y5047-sonar","hanzi":"sonar","pinyin":"","vi":"máy dò sóng âm","ex":{"tokens":["The","ship","used","sonar","to","find","the","wreck","."],"py":["","","","","","","","","."],"vi":"Con tàu dùng máy dò sóng âm để tìm xác tàu.","alts":[]}},
+   {"id":"y5047-radar","hanzi":"radar","pinyin":"","vi":"ra đa","ex":{"tokens":["The","plane","appeared","on","the","radar","."],"py":["","","","","","","."],"vi":"Chiếc máy bay xuất hiện trên ra đa.","alts":[]}},
+   {"id":"y5047-infrared","hanzi":"infrared","pinyin":"","vi":"hồng ngoại","ex":{"tokens":["The","camera","uses","infrared","light","at","night","."],"py":["","","","","","","","."],"vi":"Máy quay dùng ánh sáng hồng ngoại vào ban đêm.","alts":[]}},
+   {"id":"y5047-ultraviolet","hanzi":"ultraviolet","pinyin":"","vi":"tia cực tím","ex":{"tokens":["Sunscreen","blocks","ultraviolet","light","."],"py":["","","","","."],"vi":"Kem chống nắng chặn tia cực tím.","alts":[]}},
+   {"id":"y5047-anode","hanzi":"anode","pinyin":"","vi":"cực dương (anot)","ex":{"tokens":["The","anode","is","the","positive","side","of","this","cell","."],"py":["","","","","","","","","","."],"vi":"Anot là cực dương của pin này.","alts":[]}},
+   {"id":"y5047-cathode","hanzi":"cathode","pinyin":"","vi":"cực âm (catot)","ex":{"tokens":["Electrons","leave","the","cathode","in","this","tube","."],"py":["","","","","","","","."],"vi":"Electron rời catot trong ống này.","alts":[]}},
+   {"id":"y5047-quark","hanzi":"quark","pinyin":"","vi":"hạt quark","ex":{"tokens":["A","proton","contains","three","quark","particles","."],"py":["","","","","","","."],"vi":"Một proton chứa ba hạt quark.","alts":[]}},
+   {"id":"y5047-fulcrum","hanzi":"fulcrum","pinyin":"","vi":"điểm tựa (của đòn bẩy)","ex":{"tokens":["The","fulcrum","of","a","seesaw","is","in","the","middle","."],"py":["","","","","","","","","","."],"vi":"Điểm tựa của bập bênh nằm ở giữa.","alts":[]}},
+   {"id":"y5047-collider","hanzi":"collider","pinyin":"","vi":"máy gia tốc va chạm hạt","ex":{"tokens":["The","collider","smashes","particles","together","."],"py":["","","","","","."],"vi":"Máy gia tốc cho các hạt va vào nhau.","alts":[]}},
+   {"id":"y5047-resistance","hanzi":"resistance","pinyin":"","vi":"điện trở; sự kháng cự","ex":{"tokens":["Copper","has","low","electrical","resistance","."],"py":["","","","","","."],"vi":"Đồng có điện trở thấp.","alts":[]}}
+  ]},
+  {"id":"y5048","title":"Thiên văn học 2","desc":"Sao, quỹ đạo, tàu vũ trụ","icon":"Space","unit":553,"course":"en","order":4440,"words":[
+   {"id":"y5048-meteorite","hanzi":"meteorite","pinyin":"","vi":"thiên thạch (rơi xuống đất)","ex":{"tokens":["A","meteorite","landed","in","the","desert","."],"py":["","","","","","","."],"vi":"Một thiên thạch rơi xuống sa mạc.","alts":[]}},
+   {"id":"y5048-supernova","hanzi":"supernova","pinyin":"","vi":"siêu tân tinh","ex":{"tokens":["A","supernova","is","an","exploding","star","."],"py":["","","","","","","."],"vi":"Siêu tân tinh là một ngôi sao phát nổ.","alts":[]}},
+   {"id":"y5048-solstice","hanzi":"solstice","pinyin":"","vi":"điểm chí (hạ chí, đông chí)","ex":{"tokens":["The","summer","solstice","is","the","longest","day","."],"py":["","","","","","","","."],"vi":"Hạ chí là ngày dài nhất.","alts":[]}},
+   {"id":"y5048-equinox","hanzi":"equinox","pinyin":"","vi":"điểm phân (xuân phân, thu phân)","ex":{"tokens":["Day","and","night","are","equal","at","the","equinox","."],"py":["","","","","","","","","."],"vi":"Ngày và đêm dài bằng nhau vào điểm phân.","alts":[]}},
+   {"id":"y5048-axis","hanzi":"axis","pinyin":"","vi":"trục","ex":{"tokens":["The","Earth","turns","on","its","axis","."],"py":["","","","","","","."],"vi":"Trái Đất quay quanh trục của nó.","alts":[]}},
+   {"id":"y5048-hemisphere","hanzi":"hemisphere","pinyin":"","vi":"bán cầu","ex":{"tokens":["Vietnam","is","in","the","northern","hemisphere","."],"py":["","","","","","","."],"vi":"Việt Nam nằm ở bắc bán cầu.","alts":[]}},
+   {"id":"y5048-equator","hanzi":"equator","pinyin":"","vi":"đường xích đạo","ex":{"tokens":["It","is","hot","near","the","equator","."],"py":["","","","","","","."],"vi":"Gần xích đạo trời nóng.","alts":[]}},
+   {"id":"y5048-meridian","hanzi":"meridian","pinyin":"","vi":"kinh tuyến","ex":{"tokens":["The","prime","meridian","passes","through","London","."],"py":["","","","","","","."],"vi":"Kinh tuyến gốc đi qua Luân Đôn.","alts":[]}},
+   {"id":"y5048-zenith","hanzi":"zenith","pinyin":"","vi":"thiên đỉnh; đỉnh cao","ex":{"tokens":["The","sun","reached","its","zenith","at","noon","."],"py":["","","","","","","","."],"vi":"Mặt trời lên tới thiên đỉnh vào giữa trưa.","alts":[]}},
+   {"id":"y5048-probe","hanzi":"probe","pinyin":"","vi":"tàu thăm dò; thăm dò","ex":{"tokens":["The","probe","sent","photos","of","Jupiter","."],"py":["","","","","","","."],"vi":"Tàu thăm dò gửi về ảnh Sao Mộc.","alts":[]}},
+   {"id":"y5048-rover","hanzi":"rover","pinyin":"","vi":"xe tự hành (thám hiểm)","ex":{"tokens":["The","rover","drove","slowly","across","Mars","."],"py":["","","","","","","."],"vi":"Xe tự hành chạy chậm trên Sao Hỏa.","alts":[]}},
+   {"id":"y5048-shuttle","hanzi":"shuttle","pinyin":"","vi":"tàu con thoi; xe đưa đón","ex":{"tokens":["The","space","shuttle","landed","safely","."],"py":["","","","","","."],"vi":"Tàu con thoi hạ cánh an toàn.","alts":[]}},
+   {"id":"y5048-booster","hanzi":"booster","pinyin":"","vi":"tên lửa đẩy; mũi tiêm nhắc lại","ex":{"tokens":["The","booster","fell","into","the","sea","after","launch","."],"py":["","","","","","","","","."],"vi":"Tên lửa đẩy rơi xuống biển sau khi phóng.","alts":[]}},
+   {"id":"y5048-payload","hanzi":"payload","pinyin":"","vi":"trọng tải mang theo","ex":{"tokens":["The","rocket","carried","a","payload","of","two","satellites","."],"py":["","","","","","","","","."],"vi":"Tên lửa mang theo trọng tải là hai vệ tinh.","alts":[]}}
+  ]},
+  {"id":"y5049","title":"Thiên văn học 3","desc":"Sao, quỹ đạo, tàu vũ trụ","icon":"Space","unit":553,"course":"en","order":4450,"words":[
+   {"id":"y5049-observatory","hanzi":"observatory","pinyin":"","vi":"đài thiên văn","ex":{"tokens":["The","observatory","is","on","top","of","the","mountain","."],"py":["","","","","","","","","."],"vi":"Đài thiên văn nằm trên đỉnh núi.","alts":[]}},
+   {"id":"y5049-cosmos","hanzi":"cosmos","pinyin":"","vi":"vũ trụ","ex":{"tokens":["He","wondered","about","our","place","in","the","cosmos","."],"py":["","","","","","","","","."],"vi":"Anh ấy tự hỏi về vị trí của chúng ta trong vũ trụ.","alts":[]}},
+   {"id":"y5049-celestial","hanzi":"celestial","pinyin":"","vi":"thuộc bầu trời, thiên thể","ex":{"tokens":["The","moon","is","a","celestial","body","."],"py":["","","","","","","."],"vi":"Mặt trăng là một thiên thể.","alts":[]}},
+   {"id":"y5049-stellar","hanzi":"stellar","pinyin":"","vi":"thuộc các vì sao; xuất sắc","ex":{"tokens":["She","gave","a","stellar","performance","."],"py":["","","","","","."],"vi":"Cô ấy đã có một màn trình diễn xuất sắc.","alts":[]}},
+   {"id":"y5049-interstellar","hanzi":"interstellar","pinyin":"","vi":"giữa các vì sao","ex":{"tokens":["Interstellar","travel","is","still","a","dream","."],"py":["","","","","","","."],"vi":"Du hành giữa các vì sao vẫn là giấc mơ.","alts":[]}},
+   {"id":"y5049-planetary","hanzi":"planetary","pinyin":"","vi":"thuộc hành tinh","ex":{"tokens":["He","studies","planetary","science","."],"py":["","","","","."],"vi":"Anh ấy nghiên cứu khoa học hành tinh.","alts":[]}},
+   {"id":"y5049-gravitational","hanzi":"gravitational","pinyin":"","vi":"thuộc lực hấp dẫn","ex":{"tokens":["The","moon","has","a","weak","gravitational","pull","."],"py":["","","","","","","","."],"vi":"Mặt trăng có lực hút hấp dẫn yếu.","alts":[]}},
+   {"id":"y5049-crescent","hanzi":"crescent","pinyin":"","vi":"hình lưỡi liềm","ex":{"tokens":["A","crescent","moon","hung","in","the","sky","."],"py":["","","","","","","","."],"vi":"Một vầng trăng lưỡi liềm treo trên bầu trời.","alts":[]}},
+   {"id":"y5049-twilight","hanzi":"twilight","pinyin":"","vi":"lúc chạng vạng","ex":{"tokens":["We","walked","home","in","the","twilight","."],"py":["","","","","","","."],"vi":"Chúng tôi đi bộ về nhà lúc chạng vạng.","alts":[]}},
+   {"id":"y5049-dawn","hanzi":"dawn","pinyin":"","vi":"bình minh, rạng đông","ex":{"tokens":["The","fishermen","leave","at","dawn","."],"py":["","","","","","."],"vi":"Ngư dân ra khơi lúc rạng đông.","alts":[]}},
+   {"id":"y5049-aurora","hanzi":"aurora","pinyin":"","vi":"cực quang","ex":{"tokens":["We","saw","the","aurora","in","northern","Norway","."],"py":["","","","","","","","."],"vi":"Chúng tôi ngắm cực quang ở miền bắc Na Uy.","alts":[]}},
+   {"id":"y5049-exoplanet","hanzi":"exoplanet","pinyin":"","vi":"ngoại hành tinh","ex":{"tokens":["Scientists","found","a","new","exoplanet","."],"py":["","","","","","."],"vi":"Các nhà khoa học tìm thấy một ngoại hành tinh mới.","alts":[]}},
+   {"id":"y5049-space_station","hanzi":"space station","pinyin":"","vi":"trạm vũ trụ","ex":{"tokens":["Six","people","live","on","the","space","station","."],"py":["","","","","","","","."],"vi":"Sáu người sống trên trạm vũ trụ.","alts":[]}},
+   {"id":"y5049-dark_matter","hanzi":"dark matter","pinyin":"","vi":"vật chất tối","ex":{"tokens":["Nobody","has","seen","dark","matter","directly","."],"py":["","","","","","","."],"vi":"Chưa ai nhìn thấy trực tiếp vật chất tối.","alts":[]}}
   ]}
  ]
 }

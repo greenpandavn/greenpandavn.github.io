@@ -322,7 +322,7 @@ cavern|hang lớn|The guide led us into a huge cavern.|Hướng dẫn viên dẫ
 foothill|đồi thấp dưới chân núi|The village lies in a foothill of the mountains.|Ngôi làng nằm ở vùng đồi dưới chân núi.
 shale|đá phiến sét|Gas is taken from shale deep underground.|Khí đốt được khai thác từ đá phiến sét sâu dưới lòng đất.
 
-%553|5|Phần 3: Mở rộng – Hóa học|Hóa học|grape
+%553|5|Phần 3: Mở rộng – Hóa học|Hóa học, Vật lý, Thiên văn học|grape
 @y5041|Hóa học 1|Nguyên tử, nguyên tố, phản ứng, dụng cụ thí nghiệm|Chem
 ion|ion|A sodium ion has a positive charge.|Ion natri mang điện tích dương.
 isotope|đồng vị|Carbon-14 is an isotope of carbon.|Cacbon-14 là một đồng vị của cacbon.
@@ -386,3 +386,83 @@ pipette|ống hút nhỏ giọt|Use a pipette to add three drops.|Hãy dùng ố
 sulfate|sunfat|Copper sulfate forms blue crystals.|Đồng sunfat tạo thành tinh thể màu xanh.
 solute|chất tan|Sugar is the solute in sweet tea.|Đường là chất tan trong trà ngọt.
 chromium|crom|Chromium makes steel shiny and hard.|Crom làm thép bóng và cứng.
+
+@y5045|Vật lý 1|Chuyển động, sóng, điện, hạt|Physics
+acceleration|gia tốc|The car has very fast acceleration.|Chiếc xe có gia tốc rất nhanh.
+thrust|lực đẩy|The engines give the rocket enough thrust.|Động cơ cho tên lửa đủ lực đẩy.
+buoyancy|sức nổi|Salt water gives your body more buoyancy.|Nước muối cho cơ thể bạn sức nổi lớn hơn.
+wavelength|bước sóng|Red light has a long wavelength.|Ánh sáng đỏ có bước sóng dài.
+amplitude|biên độ|A loud sound has a large amplitude.|Âm thanh to có biên độ lớn.
+resonance|sự cộng hưởng|The bridge shook because of resonance.|Cây cầu rung lên vì cộng hưởng.
+oscillation|sự dao động|We measured the oscillation of the spring.|Chúng tôi đo dao động của lò xo.
+vibration|sự rung|I felt the vibration of the engine.|Tôi cảm thấy độ rung của động cơ.
+refraction|sự khúc xạ|Refraction makes the straw look bent.|Sự khúc xạ làm cái ống hút trông như bị gãy.
+reflection|sự phản xạ; hình phản chiếu|She saw her reflection in the lake.|Cô ấy thấy hình phản chiếu của mình trên mặt hồ.
+diffraction|sự nhiễu xạ|Diffraction spreads light around an edge.|Sự nhiễu xạ làm ánh sáng lan quanh một cạnh.
+spectrum|quang phổ; phạm vi|A rainbow shows the spectrum of light.|Cầu vồng cho thấy quang phổ của ánh sáng.
+photon|photon, hạt ánh sáng|A photon is a particle of light.|Photon là một hạt ánh sáng.
+neutrino|hạt neutrino|A neutrino passes through the Earth easily.|Hạt neutrino đi xuyên qua Trái Đất dễ dàng.
+
+@y5046|Vật lý 2|Chuyển động, sóng, điện, hạt|Physics
+antimatter|phản vật chất|Antimatter is very hard to store.|Phản vật chất rất khó lưu trữ.
+fission|sự phân hạch|Nuclear fission releases a lot of energy.|Sự phân hạch hạt nhân giải phóng rất nhiều năng lượng.
+fusion|sự hợp hạch, sự hợp nhất|The sun gets its energy from fusion.|Mặt trời lấy năng lượng từ phản ứng hợp hạch.
+radioactive|có tính phóng xạ|The waste stays radioactive for years.|Chất thải vẫn có tính phóng xạ trong nhiều năm.
+magnetism|từ tính|Magnetism holds the note on the fridge.|Từ tính giữ mẩu giấy trên tủ lạnh.
+electrode|điện cực|The doctor put an electrode on his chest.|Bác sĩ gắn một điện cực lên ngực anh ấy.
+kinetic|thuộc động năng, chuyển động|A moving ball has kinetic energy.|Quả bóng đang chuyển động có động năng.
+thermal|thuộc nhiệt; giữ nhiệt|I wear thermal socks in winter.|Tôi mang tất giữ nhiệt vào mùa đông.
+thermodynamics|nhiệt động lực học|She studies thermodynamics at university.|Cô ấy học nhiệt động lực học ở đại học.
+entropy|entropy, độ hỗn loạn|Entropy always increases in a closed system.|Entropy luôn tăng trong một hệ kín.
+relativity|thuyết tương đối|Einstein wrote the theory of relativity.|Einstein đã viết thuyết tương đối.
+quantum|lượng tử|Quantum physics is hard to imagine.|Vật lý lượng tử rất khó hình dung.
+pendulum|con lắc|The pendulum of the old clock swings slowly.|Con lắc của chiếc đồng hồ cũ đung đưa chậm rãi.
+lever|đòn bẩy; cần gạt|Pull the lever to open the door.|Hãy kéo cần gạt để mở cửa.
+
+@y5047|Vật lý 3|Chuyển động, sóng, điện, hạt|Physics
+pulley|ròng rọc|They lifted the box with a pulley.|Họ nâng chiếc hộp bằng ròng rọc.
+prism|lăng kính|A prism splits white light into colors.|Lăng kính tách ánh sáng trắng thành các màu.
+laser|tia laze|The doctor used a laser on her eye.|Bác sĩ dùng tia laze cho mắt cô ấy.
+hologram|ảnh ba chiều|The card has a hologram to stop copying.|Chiếc thẻ có ảnh ba chiều để chống làm giả.
+sonar|máy dò sóng âm|The ship used sonar to find the wreck.|Con tàu dùng máy dò sóng âm để tìm xác tàu.
+radar|ra đa|The plane appeared on the radar.|Chiếc máy bay xuất hiện trên ra đa.
+infrared|hồng ngoại|The camera uses infrared light at night.|Máy quay dùng ánh sáng hồng ngoại vào ban đêm.
+ultraviolet|tia cực tím|Sunscreen blocks ultraviolet light.|Kem chống nắng chặn tia cực tím.
+anode|cực dương (anot)|The anode is the positive side of this cell.|Anot là cực dương của pin này.
+cathode|cực âm (catot)|Electrons leave the cathode in this tube.|Electron rời catot trong ống này.
+quark|hạt quark|A proton contains three quark particles.|Một proton chứa ba hạt quark.
+fulcrum|điểm tựa (của đòn bẩy)|The fulcrum of a seesaw is in the middle.|Điểm tựa của bập bênh nằm ở giữa.
+collider|máy gia tốc va chạm hạt|The collider smashes particles together.|Máy gia tốc cho các hạt va vào nhau.
+resistance|điện trở; sự kháng cự|Copper has low electrical resistance.|Đồng có điện trở thấp.
+
+@y5048|Thiên văn học 1|Sao, quỹ đạo, tàu vũ trụ|Space
+meteorite|thiên thạch (rơi xuống đất)|A meteorite landed in the desert.|Một thiên thạch rơi xuống sa mạc.
+supernova|siêu tân tinh|A supernova is an exploding star.|Siêu tân tinh là một ngôi sao phát nổ.
+solstice|điểm chí (hạ chí, đông chí)|The summer solstice is the longest day.|Hạ chí là ngày dài nhất.
+equinox|điểm phân (xuân phân, thu phân)|Day and night are equal at the equinox.|Ngày và đêm dài bằng nhau vào điểm phân.
+axis|trục|The Earth turns on its axis.|Trái Đất quay quanh trục của nó.
+hemisphere|bán cầu|Vietnam is in the northern hemisphere.|Việt Nam nằm ở bắc bán cầu.
+equator|đường xích đạo|It is hot near the equator.|Gần xích đạo trời nóng.
+meridian|kinh tuyến|The prime meridian passes through London.|Kinh tuyến gốc đi qua Luân Đôn.
+zenith|thiên đỉnh; đỉnh cao|The sun reached its zenith at noon.|Mặt trời lên tới thiên đỉnh vào giữa trưa.
+probe|tàu thăm dò; thăm dò|The probe sent photos of Jupiter.|Tàu thăm dò gửi về ảnh Sao Mộc.
+rover|xe tự hành (thám hiểm)|The rover drove slowly across Mars.|Xe tự hành chạy chậm trên Sao Hỏa.
+shuttle|tàu con thoi; xe đưa đón|The space shuttle landed safely.|Tàu con thoi hạ cánh an toàn.
+booster|tên lửa đẩy; mũi tiêm nhắc lại|The booster fell into the sea after launch.|Tên lửa đẩy rơi xuống biển sau khi phóng.
+payload|trọng tải mang theo|The rocket carried a payload of two satellites.|Tên lửa mang theo trọng tải là hai vệ tinh.
+
+@y5049|Thiên văn học 2|Sao, quỹ đạo, tàu vũ trụ|Space
+observatory|đài thiên văn|The observatory is on top of the mountain.|Đài thiên văn nằm trên đỉnh núi.
+cosmos|vũ trụ|He wondered about our place in the cosmos.|Anh ấy tự hỏi về vị trí của chúng ta trong vũ trụ.
+celestial|thuộc bầu trời, thiên thể|The moon is a celestial body.|Mặt trăng là một thiên thể.
+stellar|thuộc các vì sao; xuất sắc|She gave a stellar performance.|Cô ấy đã có một màn trình diễn xuất sắc.
+interstellar|giữa các vì sao|Interstellar travel is still a dream.|Du hành giữa các vì sao vẫn là giấc mơ.
+planetary|thuộc hành tinh|He studies planetary science.|Anh ấy nghiên cứu khoa học hành tinh.
+gravitational|thuộc lực hấp dẫn|The moon has a weak gravitational pull.|Mặt trăng có lực hút hấp dẫn yếu.
+crescent|hình lưỡi liềm|A crescent moon hung in the sky.|Một vầng trăng lưỡi liềm treo trên bầu trời.
+twilight|lúc chạng vạng|We walked home in the twilight.|Chúng tôi đi bộ về nhà lúc chạng vạng.
+dawn|bình minh, rạng đông|The fishermen leave at dawn.|Ngư dân ra khơi lúc rạng đông.
+aurora|cực quang|We saw the aurora in northern Norway.|Chúng tôi ngắm cực quang ở miền bắc Na Uy.
+exoplanet|ngoại hành tinh|Scientists found a new exoplanet.|Các nhà khoa học tìm thấy một ngoại hành tinh mới.
+space station|trạm vũ trụ|Six people live on the space station.|Sáu người sống trên trạm vũ trụ.
+dark matter|vật chất tối|Nobody has seen dark matter directly.|Chưa ai nhìn thấy trực tiếp vật chất tối.

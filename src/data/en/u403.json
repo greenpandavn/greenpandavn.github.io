@@ -87,7 +87,7 @@
    {"id":"p38-sink","hanzi":"sink","pinyin":"","vi":"chìm; bồn rửa","ex":{"tokens":["The","stone","will","sink","quickly","."],"py":["","","","","","."],"vi":"Hòn đá sẽ chìm nhanh.","alts":[]}},
    {"id":"p38-dolphin","hanzi":"dolphin","pinyin":"","vi":"cá heo","ex":{"tokens":["A","dolphin","swam","next","to","our","boat","."],"py":["","","","","","","","."],"vi":"Một con cá heo đã bơi cạnh thuyền của chúng tôi.","alts":[]}}
   ]},
-  {"id":"p39","title":"Thiên văn học","desc":"Hệ mặt trời, sao chổi, nhật thực, năm ánh sáng","icon":"Star","unit":403,"course":"en","order":2990,"words":[
+  {"id":"p39","title":"Thiên văn học 1","desc":"Hệ mặt trời, sao chổi, nhật thực, năm ánh sáng","icon":"Star","unit":403,"course":"en","order":2990,"words":[
    {"id":"p39-solar_system","hanzi":"solar system","pinyin":"","vi":"hệ mặt trời","ex":{"tokens":["There","are","eight","planets","in","the","solar","system","."],"py":["","","","","","","","","."],"vi":"Có tám hành tinh trong hệ mặt trời.","alts":[]}},
    {"id":"p39-comet","hanzi":"comet","pinyin":"","vi":"sao chổi","ex":{"tokens":["We","saw","a","comet","last","night","."],"py":["","","","","","","."],"vi":"Tối qua chúng tôi đã thấy một ngôi sao chổi.","alts":[]}},
    {"id":"p39-eclipse","hanzi":"eclipse","pinyin":"","vi":"nhật thực, nguyệt thực","ex":{"tokens":["The","eclipse","lasted","three","minutes","."],"py":["","","","","","."],"vi":"Nhật thực kéo dài ba phút.","alts":[]}},
@@ -101,7 +101,7 @@
    {"id":"p39-cosmic","hanzi":"cosmic","pinyin":"","vi":"thuộc vũ trụ","ex":{"tokens":["Cosmic","dust","covers","the","old","satellite","."],"py":["","","","","","","."],"vi":"Bụi vũ trụ phủ lên vệ tinh cũ.","alts":[]}},
    {"id":"p39-horizon","hanzi":"horizon","pinyin":"","vi":"đường chân trời","ex":{"tokens":["The","sun","went","down","below","the","horizon","."],"py":["","","","","","","","."],"vi":"Mặt trời đã lặn xuống dưới đường chân trời.","alts":[]}}
   ]},
-  {"id":"p40","title":"Vật lý","desc":"Lực, khối lượng, vận tốc, bức xạ","icon":"Phy","unit":403,"course":"en","order":3000,"words":[
+  {"id":"p40","title":"Vật lý 1","desc":"Lực, khối lượng, vận tốc, bức xạ","icon":"Phy","unit":403,"course":"en","order":3000,"words":[
    {"id":"p40-force","hanzi":"force","pinyin":"","vi":"lực; ép buộc","ex":{"tokens":["The","force","of","the","wind","broke","the","window","."],"py":["","","","","","","","","."],"vi":"Sức gió đã làm vỡ cửa sổ.","alts":[]}},
    {"id":"p40-mass","hanzi":"mass","pinyin":"","vi":"khối lượng","ex":{"tokens":["The","mass","of","the","earth","is","very","large","."],"py":["","","","","","","","","."],"vi":"Khối lượng của trái đất rất lớn.","alts":[]}},
    {"id":"p40-velocity","hanzi":"velocity","pinyin":"","vi":"vận tốc","ex":{"tokens":["The","car","reached","a","high","velocity","."],"py":["","","","","","","."],"vi":"Chiếc xe đã đạt vận tốc cao.","alts":[]}},
