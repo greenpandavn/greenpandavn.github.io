@@ -418,6 +418,119 @@ export const MOCK_SPECS: MockSpec[] = [
       },
     ],
   },
+  // TOPIK 3–6 follow the TOPIK 2 layout with more questions per level.
+  {
+    id: "ko3",
+    course: "ko",
+    title: "TOPIK 3",
+    level: 3,
+    minutes: 70,
+    pass: 120,
+    sections: [
+      {
+        id: "listening",
+        parts: [
+          { type: "l-word-tf", count: 5 },
+          { type: "l-word-meaning", count: 10 },
+          { type: "l-word-hanzi", count: 10 },
+          { type: "l-sent-meaning", count: 10 },
+        ],
+      },
+      {
+        id: "reading",
+        parts: [
+          { type: "r-word-tf", count: 5 },
+          { type: "r-meaning-word", count: 10 },
+          { type: "r-sent-meaning", count: 10 },
+          { type: "w-arrange", count: 10 },
+        ],
+      },
+    ],
+  },
+  {
+    id: "ko4",
+    course: "ko",
+    title: "TOPIK 4",
+    level: 4,
+    minutes: 80,
+    pass: 130,
+    sections: [
+      {
+        id: "listening",
+        parts: [
+          { type: "l-word-tf", count: 5 },
+          { type: "l-word-meaning", count: 10 },
+          { type: "l-word-hanzi", count: 10 },
+          { type: "l-sent-meaning", count: 15 },
+        ],
+      },
+      {
+        id: "reading",
+        parts: [
+          { type: "r-word-tf", count: 5 },
+          { type: "r-meaning-word", count: 10 },
+          { type: "r-sent-meaning", count: 15 },
+          { type: "w-arrange", count: 10 },
+        ],
+      },
+    ],
+  },
+  {
+    id: "ko5",
+    course: "ko",
+    title: "TOPIK 5",
+    level: 5,
+    minutes: 90,
+    pass: 140,
+    sections: [
+      {
+        id: "listening",
+        parts: [
+          { type: "l-word-tf", count: 5 },
+          { type: "l-word-meaning", count: 15 },
+          { type: "l-word-hanzi", count: 10 },
+          { type: "l-sent-meaning", count: 15 },
+        ],
+      },
+      {
+        id: "reading",
+        parts: [
+          { type: "r-word-tf", count: 5 },
+          { type: "r-meaning-word", count: 15 },
+          { type: "r-sent-meaning", count: 15 },
+          { type: "w-arrange", count: 10 },
+        ],
+      },
+    ],
+  },
+  {
+    id: "ko6",
+    course: "ko",
+    title: "TOPIK 6",
+    level: 6,
+    minutes: 100,
+    pass: 150,
+    sections: [
+      {
+        id: "listening",
+        parts: [
+          { type: "l-word-tf", count: 5 },
+          { type: "l-word-meaning", count: 15 },
+          { type: "l-word-hanzi", count: 15 },
+          { type: "l-sent-meaning", count: 15 },
+        ],
+      },
+      {
+        id: "reading",
+        parts: [
+          { type: "r-word-tf", count: 5 },
+          { type: "r-meaning-word", count: 15 },
+          { type: "r-sent-meaning", count: 15 },
+          { type: "w-arrange", count: 15 },
+        ],
+      },
+    ],
+  },
   // JLPT has three scored sections (từ vựng, đọc, nghe).
   {
     id: "ja1",
@@ -481,6 +594,106 @@ export const MOCK_SPECS: MockSpec[] = [
           { type: "l-word-meaning", count: 5 },
           { type: "l-word-hanzi", count: 5 },
           { type: "l-sent-meaning", count: 10 },
+        ],
+      },
+    ],
+  },
+  // JLPT N3–N1 follow the N4 layout with more questions per level.
+  {
+    id: "ja3",
+    course: "ja",
+    title: "JLPT N3",
+    level: 3,
+    minutes: 75,
+    pass: 150,
+    sections: [
+      {
+        id: "vocab",
+        parts: [
+          { type: "r-word-tf", count: 5 },
+          { type: "r-pinyin", count: 10 },
+          { type: "r-meaning-word", count: 10 },
+        ],
+      },
+      {
+        id: "reading",
+        parts: [
+          { type: "r-sent-meaning", count: 15 },
+          { type: "w-arrange", count: 10 },
+        ],
+      },
+      {
+        id: "listening",
+        parts: [
+          { type: "l-word-meaning", count: 10 },
+          { type: "l-word-hanzi", count: 5 },
+          { type: "l-sent-meaning", count: 10 },
+        ],
+      },
+    ],
+  },
+  {
+    id: "ja4",
+    course: "ja",
+    title: "JLPT N2",
+    level: 4,
+    minutes: 90,
+    pass: 160,
+    sections: [
+      {
+        id: "vocab",
+        parts: [
+          { type: "r-word-tf", count: 5 },
+          { type: "r-pinyin", count: 10 },
+          { type: "r-meaning-word", count: 15 },
+        ],
+      },
+      {
+        id: "reading",
+        parts: [
+          { type: "r-sent-meaning", count: 20 },
+          { type: "w-arrange", count: 10 },
+        ],
+      },
+      {
+        id: "listening",
+        parts: [
+          { type: "l-word-meaning", count: 10 },
+          { type: "l-word-hanzi", count: 10 },
+          { type: "l-sent-meaning", count: 10 },
+        ],
+      },
+    ],
+  },
+  {
+    id: "ja5",
+    course: "ja",
+    title: "JLPT N1",
+    level: 5,
+    minutes: 105,
+    pass: 170,
+    sections: [
+      {
+        id: "vocab",
+        parts: [
+          { type: "r-word-tf", count: 5 },
+          { type: "r-pinyin", count: 15 },
+          { type: "r-meaning-word", count: 15 },
+        ],
+      },
+      {
+        id: "reading",
+        parts: [
+          { type: "r-sent-meaning", count: 20 },
+          { type: "w-arrange", count: 15 },
+        ],
+      },
+      {
+        id: "listening",
+        parts: [
+          { type: "l-word-meaning", count: 10 },
+          { type: "l-word-hanzi", count: 10 },
+          { type: "l-sent-meaning", count: 15 },
         ],
       },
     ],

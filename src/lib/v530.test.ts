@@ -9,18 +9,20 @@ import { mergeProgress } from "./merge";
 
 describe("v5.3.0 Korean and Japanese courses", () => {
   for (const [c, label, levels] of [
-    ["ko", "Tiếng Hàn", ["TOPIK 1", "TOPIK 2"]],
-    ["ja", "Tiếng Nhật", ["JLPT N5", "JLPT N4"]],
+    ["ko", "Tiếng Hàn", ["TOPIK 1", "TOPIK 2", "TOPIK 3", "TOPIK 4", "TOPIK 5", "TOPIK 6"]],
+    ["ja", "Tiếng Nhật", ["JLPT N5", "JLPT N4", "JLPT N3", "JLPT N2", "JLPT N1"]],
   ] as const)
-    it(`${label}: 30 lessons, 360 words with romanization, example and meaning`, async () => {
+    it(`${label}: 15 lessons, 180 words per level with romanization, example and meaning`, async () => {
       expect(data.COURSES.find((x) => x.id === c)?.label).toBe(label);
       await data.loadCourse(c);
       data.setCourse(c);
-      expect(data.LESSONS.length).toBe(30);
-      expect(data.ALL_WORDS.length).toBe(360);
-      expect(new Set(data.ALL_WORDS.map((w) => w.hanzi)).size).toBe(360);
-      expect([1, 2].map((lv) => data.levelLabel(lv))).toEqual(levels);
-      expect([1, 2].map((lv) => data.levelWordCount(lv, c))).toEqual([180, 180]);
+      const n = levels.length;
+      expect(data.LESSONS.length).toBe(15 * n);
+      expect(data.ALL_WORDS.length).toBe(180 * n);
+      expect(new Set(data.ALL_WORDS.map((w) => w.hanzi)).size).toBe(180 * n);
+      const lvs = levels.map((_, i) => i + 1);
+      expect(lvs.map((lv) => data.levelLabel(lv))).toEqual(levels);
+      expect(lvs.map((lv) => data.levelWordCount(lv, c))).toEqual(lvs.map(() => 180));
       const script = c === "ko" ? /[\uac00-\ud7a3]/ : /[\u3040-\u30ff\u4e00-\u9fff]/;
       for (const w of data.ALL_WORDS) {
         expect(w.hanzi, w.id).toMatch(script);
@@ -35,11 +37,15 @@ describe("v5.3.0 Korean and Japanese courses", () => {
       }
       // parts 1–2 are free, part 3 and the second level need an account
       const units = data.UNITS.map((u) => u.unit);
-      expect(units).toEqual([1, 2, 3, 21, 22, 23]);
+      expect(units).toEqual([1, 2, 3, ...lvs.slice(1).flatMap((lv) => [1, 2, 3].map((k) => lv * 10 + k))]);
       expect(units.filter((u) => !needsLogin(u))).toEqual([1, 2]);
       // mock exams
       const specs = mockSpecs(c);
       expect(specs.map((s) => s.title)).toEqual(levels);
+      // more questions at every level
+      const counts = specs.map(questionCount);
+      expect(counts).toEqual([...counts].sort((a, b) => a - b));
+      expect(new Set(counts).size).toBe(counts.length);
       for (const spec of specs) {
         const qs = buildMock(spec);
         expect(qs.length).toBe(questionCount(spec));
@@ -49,8 +55,9 @@ describe("v5.3.0 Korean and Japanese courses", () => {
         expect(full.passed).toBe(true);
       }
       // game: wrong pairings are really wrong, no repeated word
-      const level = data.ALL_WORDS.slice(0, 180);
-      for (let i = 0; i < 100; i++) {
+      for (const lv of lvs) {
+        const level = data.ALL_WORDS.slice((lv - 1) * 180, lv * 180);
+        for (let i = 0; i < 30; i++) {
         const round = buildRound(c, level.slice(0, 24), level);
         expect(round.length).toBe(10);
         expect(new Set(round.map((q) => q.word.id)).size).toBe(10);
@@ -58,6 +65,7 @@ describe("v5.3.0 Korean and Japanese courses", () => {
           expect(["pinyin", "vi"]).toContain(q.kind);
           const own = q.kind === "pinyin" ? q.word.pinyin : q.word.vi;
           expect(q.shown === own, `${q.word.hanzi} ${q.shown}`).toBe(q.match);
+        }
         }
       }
       data.setCourse("zh");

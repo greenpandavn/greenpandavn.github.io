@@ -112,15 +112,15 @@ export const COURSES: {
   {
     id: "ko",
     label: "Tiếng Hàn",
-    title: "Khóa học tiếng Hàn TOPIK 1–2",
-    desc: "TOPIK 1 → TOPIK 2 · Hangul, phiên âm, luyện nghe nói",
+    title: "Khóa học tiếng Hàn TOPIK 1–6",
+    desc: "TOPIK 1 → TOPIK 6 · Hangul, phiên âm, luyện nghe nói",
     glyph: "한",
   },
   {
     id: "ja",
     label: "Tiếng Nhật",
-    title: "Khóa học tiếng Nhật JLPT N5–N4",
-    desc: "JLPT N5 → N4 · Kanji, Kana, romaji, luyện nghe nói",
+    title: "Khóa học tiếng Nhật JLPT N5–N1",
+    desc: "JLPT N5 → N1 · Kanji, Kana, romaji, luyện nghe nói",
     glyph: "あ",
   },
 ];
