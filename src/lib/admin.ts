@@ -19,6 +19,8 @@ export interface AdminUser {
   hidden: boolean;
   forcedName: string;
   revoked: string[];
+  /** VIP expiry (ms since epoch); 0 when the account never had VIP or it was switched off. */
+  vipUntil: number;
 }
 
 /** All users with their role/moderation state (admins only – enforced by firestore.rules). */
@@ -48,6 +50,7 @@ export async function listUsers(): Promise<AdminUser[]> {
       hidden: r.hidden === true,
       forcedName: String(r.forcedName || ''),
       revoked: Array.isArray(r.revoked) ? r.revoked : [],
+      vipUntil: Number(r.vipUntil) || 0,
     };
   });
 }
@@ -56,6 +59,8 @@ const role = (uid: string) => doc(db, 'roles', uid);
 const touch = () => ({ updatedAt: Date.now() });
 
 export const setLocked = (uid: string, locked: boolean) => setDoc(role(uid), { locked, ...touch() }, { merge: true });
+/** VIP until `until` (ms since epoch); 0 switches it off. The app drops VIP by itself once the time has passed. */
+export const setVip = (uid: string, until: number, by = '') => setDoc(role(uid), { vipUntil: until, vipBy: by, ...touch() }, { merge: true });
 export const setRole = (uid: string, r: 'admin' | 'user') => setDoc(role(uid), { role: r, ...touch() }, { merge: true });
 
 /** Moderation: force a display name (the user's app adopts it and cannot write another to the boards). */

@@ -2,6 +2,9 @@ import { COURSES, getCourse, setCourse, useContentVersion } from '../data';
 import { xpByCourse, useProgress } from '../lib/store';
 import Panda from './Panda';
 import Footer from './Footer';
+import { useVip, vipCourse } from '../lib/vip';
+import { firebaseConfigured } from '../lib/firebaseConfig';
+import { Lock } from './Icons';
 
 /** The two course cards ('Tiếng Trung' / 'Tiếng Anh'); used on the home screen and on first launch. */
 export function CourseCards({ compact = false, highlight = true }: { compact?: boolean; highlight?: boolean }) {
@@ -9,6 +12,7 @@ export function CourseCards({ compact = false, highlight = true }: { compact?: b
   useProgress();
   const xp = xpByCourse();
   const cur = getCourse();
+  const vip = useVip();
   return (
     <div className={compact ? 'grid grid-cols-2 gap-2' : 'flex flex-col gap-3'} data-testid="course-picker">
       {COURSES.map((c) => {
@@ -29,7 +33,14 @@ export function CourseCards({ compact = false, highlight = true }: { compact?: b
               {c.glyph}
             </span>
             <span className="min-w-0">
-              <span className={`block font-black text-ink-700 ${compact ? 'text-[15px] leading-tight' : 'text-lg'}`}>{c.label}</span>
+              <span className={`block font-black text-ink-700 ${compact ? 'text-[15px] leading-tight' : 'text-lg'}`}>
+                {c.label}
+                {firebaseConfigured && vipCourse(c.id) && (
+                  <span className="ml-1.5 inline-flex items-center gap-0.5 rounded-md bg-sun-400 px-1.5 align-middle text-[11px] font-black text-white" data-testid={`course-vip-${c.id}`}>
+                    {!vip && <Lock size={11} />} VIP
+                  </span>
+                )}
+              </span>
               <span className="block text-xs font-bold text-ink-400">{compact ? `${xp[c.id]} XP` : c.desc}</span>
             </span>
           </button>
@@ -47,7 +58,7 @@ export default function CoursePicker() {
       <h1 className="mt-3 text-center text-2xl font-black">Bạn muốn học ngôn ngữ nào?</h1>
       <p className="mb-6 mt-1 text-center font-semibold text-ink-500">Tiến độ của mỗi khóa được lưu riêng. Bạn có thể đổi khóa học bất cứ lúc nào ở góc trên bên trái.</p>
       <CourseCards highlight={false} />
-      <p className="mt-5 text-center text-xs font-bold text-ink-400">Không cần đăng nhập — bạn có thể học ngay cả hai khóa.</p>
+      <p className="mt-5 text-center text-xs font-bold text-ink-400">Không cần đăng nhập — tiếng Trung và tiếng Anh học được ngay. Tiếng Hàn và tiếng Nhật dành cho tài khoản VIP.</p>
       <Footer className="mt-auto" />
     </div>
   );

@@ -18,6 +18,9 @@ import {
 } from "../lib/mock";
 import { recordMock, useProgress } from "../lib/store";
 import { getCourse, levelUnits } from "../data";
+import { needsVip, useVip } from "../lib/vip";
+import { firebaseConfigured } from "../lib/firebaseConfig";
+import VipGate from "../components/VipGate";
 import DataGate from "../components/DataGate";
 import { speak } from "../lib/speech";
 import SpeakerButton from "../components/SpeakerButton";
@@ -64,6 +67,8 @@ export default function MockScreen({
     { meta: PaperMeta; src: string }[] | null
   >(null);
   const course = getCourse();
+  const vip = useVip();
+  const [vipGate, setVipGate] = useState(false);
   const openPaper = (m: PaperMeta, src?: string) => {
     setLoading(m.id);
     (src ? Promise.resolve(src) : loadPaper(m))
@@ -163,6 +168,7 @@ export default function MockScreen({
       className="mx-auto flex min-h-[100dvh] max-w-md flex-col px-4 pb-6 pt-4"
       data-testid="mock-screen"
     >
+      {vipGate && !vip && <VipGate onClose={() => setVipGate(false)} />}
       <button
         type="button"
         onClick={onClose}
@@ -186,6 +192,7 @@ export default function MockScreen({
       <div className="flex flex-col gap-3">
         {mockSpecs(course).map((s) => {
           const r = p.mock?.[s.id];
+          const locked = firebaseConfigured && !vip && needsVip(s.course, s.level);
           return (
             <div key={s.id} className="card" data-testid={`mock-level-${s.id}`}>
               <div className="flex items-center justify-between gap-2">
@@ -217,9 +224,10 @@ export default function MockScreen({
               <button
                 type="button"
                 className="btn-green"
-                onClick={() => setSpec(s)}
+                onClick={() => (locked ? setVipGate(true) : setSpec(s))}
                 data-testid={`mock-start-${s.id}`}
               >
+                {locked ? "🔒 VIP · " : ""}
                 {r ? "Thi lại" : "Bắt đầu thi"}
               </button>
             </div>

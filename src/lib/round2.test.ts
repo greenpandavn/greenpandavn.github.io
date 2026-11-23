@@ -96,7 +96,7 @@ describe('admin statistics', () => {
     const b = store.defaultProgress();
     b.days = { '2026-11-17': 10 };
     b.lessons = { l01: { completed: 1, bestAccuracy: 1 } } as unknown as Progress['lessons'];
-    const user = (progress: Progress | null) => ({ uid: 'x', displayName: '', email: '', createdAt: 0, lastActive: 0, progress, role: 'user' as const, locked: false, hidden: false, forcedName: '', revoked: [] });
+    const user = (progress: Progress | null) => ({ uid: 'x', displayName: '', email: '', createdAt: 0, lastActive: 0, progress, role: 'user' as const, locked: false, hidden: false, forcedName: '', revoked: [], vipUntil: 0 });
     const s = stats([user(a), user(b), user(null)], now);
     expect(s).toMatchObject({ learners: 2, dau: 1, wau: 2, lessonsCompleted: 4 });
     expect(s.hardest[0]).toMatchObject({ id: 'l02', passRate: 0.25 });

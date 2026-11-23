@@ -34,7 +34,7 @@ service cloud.firestore {
     match /roles/{uid} {
       allow read: if isOwner(uid) || isAdmin();
       allow write: if isAdmin()
-        && request.resource.data.keys().hasOnly(['role', 'email', 'locked', 'hidden', 'forcedName', 'revoked', 'updatedAt']);
+        && request.resource.data.keys().hasOnly(['role', 'email', 'locked', 'hidden', 'forcedName', 'revoked', 'updatedAt', 'vipUntil', 'vipBy']);
       allow delete: if isAdmin();
     }
 

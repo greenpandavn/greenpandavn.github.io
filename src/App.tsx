@@ -16,8 +16,10 @@ import { everSignedIn, firebaseConfigured, useAccount } from './lib/account';
 import AnnouncementPanel from './components/AnnouncementPanel';
 import LoginGate from './components/LoginGate';
 import { needsLogin } from './lib/gate';
+import { needsVip, useVip, vipCourse } from './lib/vip';
+import VipGate from './components/VipGate';
 import { COURSE_LANG, VOICE_PACK } from './lib/speech';
-import { LESSON_BY_ID, courseChosen, getCourse, langName, loadUnits, setCourse, unitsOfWords, useContentVersion } from './data';
+import { LESSON_BY_ID, courseChosen, getCourse, langName, loadUnits, setCourse, unitLevel, unitsOfWords, useContentVersion } from './data';
 import CoursePicker from './components/CoursePicker';
 import { socialBadge, useSocial } from './lib/socialState';
 import LevelPicker from './components/LevelPicker';
@@ -160,11 +162,23 @@ export default function App() {
 
   // v5.2.8: lessons and part tests from Part 3 on need an account (the game and the review stay open).
   const [gate, setGate] = useState(false);
-  const gated = (unit: number | undefined) => {
-    if (!firebaseConfigured || acc.user || !needsLogin(unit)) return false;
-    setGate(true);
+  // v5.4.0: VIP content is a second layer on top of the login gate (see lib/vip.ts).
+  const vip = useVip();
+  const [vipGate, setVipGate] = useState(false);
+  const vipBlocked = (level: number) => {
+    if (!firebaseConfigured || vip || !needsVip(getCourse(), level)) return false;
+    setVipGate(true);
     return true;
   };
+  const gated = (unit: number | undefined) => {
+    if (firebaseConfigured && !acc.user && needsLogin(unit)) {
+      setGate(true);
+      return true;
+    }
+    return unit !== undefined && vipBlocked(unitLevel(unit));
+  };
+  // Korean and Japanese are VIP-only as a whole: their games, reviews and mock tests are closed too.
+  const courseBlocked = firebaseConfigured && !vip && vipCourse(getCourse());
 
   const openAuth = () => {
     prevTab.current = tab;
@@ -205,6 +219,18 @@ export default function App() {
   const settled = acc.ready ? acc.sync !== 'saving' : !everSignedIn();
 
   // 'Thi thử HSK' is a standalone, optional section (no gate, guests included).
+  if ((mockOpen || gameOpen) && !session && courseBlocked)
+    return (
+      <div className="min-h-[100dvh] bg-surface">
+        <VipGate
+          onClose={() => changeTab('learn')}
+          onLogin={() => {
+            changeTab('learn');
+            openAuth();
+          }}
+        />
+      </div>
+    );
   if (mockOpen && !session)
     return (
       <>
@@ -295,7 +321,12 @@ export default function App() {
       <Suspense fallback={<Loading />}>
       {tab === 'review' && (
         <DataGate units={unitsOfWords(Object.keys(p.words))}>
-          <ReviewScreen onStart={() => setSession({ type: 'review' })} />
+          <ReviewScreen
+            onStart={() => {
+              if (courseBlocked) setVipGate(true);
+              else setSession({ type: 'review' });
+            }}
+          />
         </DataGate>
       )}
       {tab === 'words' && <WordsScreen />}
@@ -313,7 +344,16 @@ export default function App() {
           }}
         />
       )}
-      {!gate && !(tab === 'friends' && chatOpen) && <AnnouncementPanel />}
+      {vipGate && !vip && (
+        <VipGate
+          onClose={() => setVipGate(false)}
+          onLogin={() => {
+            setVipGate(false);
+            openAuth();
+          }}
+        />
+      )}
+      {!gate && !vipGate && !(tab === 'friends' && chatOpen) && <AnnouncementPanel />}
       {!(tab === 'friends' && chatOpen) && <Footer className="pb-24" />}
       {!(tab === 'friends' && chatOpen) && <ScrollButtons />}
       {!(tab === 'friends' && chatOpen) && <BottomNav tab={tab} onChange={changeTab} badge={Math.min(dueCount(p), 10)} friendsBadge={acc.user ? socialBadge(social) : 0} />}

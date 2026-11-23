@@ -9,6 +9,8 @@ import { todayXp } from '../lib/gamification';
 import { Trophy } from '../components/Icons';
 import Panda from '../components/Panda';
 import ProgressBar from '../components/ProgressBar';
+import { needsVip, useVip } from '../lib/vip';
+import { firebaseConfigured } from '../lib/firebaseConfig';
 import { Check, Gem, Gift, Lock, Star, Bolt } from '../components/Icons';
 
 const UNIT_COLORS: Record<string, { bg: string; shadow: string; text: string }> = {
@@ -36,6 +38,8 @@ export default function PathScreen({ onStart, onTest, onMock, onGame }: { onStar
   const [open, setOpen] = useState<string | null>(null);
   const isDone = (l: Lesson) => lessonDone(p, l);
   const isUnlocked = (l: Lesson) => lessonUnlocked(p, l);
+  const vip = useVip();
+  const vipLevel = (lv: number) => firebaseConfigured && needsVip(getCourse(), lv);
   const currentId = currentLessonId(p);
   const scrolled = useRef(false);
   useEffect(() => {
@@ -123,6 +127,7 @@ export default function PathScreen({ onStart, onTest, onMock, onGame }: { onStar
               onClick={() => document.getElementById(`level-${lv}`)?.scrollIntoView({ behavior: 'smooth', block: 'start' })}
             >
               {levelLabel(lv)}
+              {vipLevel(lv) && !vip && <Lock size={12} className="ml-1 inline text-sun-500" />}
             </button>
           ))}
         </div>
@@ -138,6 +143,11 @@ export default function PathScreen({ onStart, onTest, onMock, onGame }: { onStar
             {firstOfLevel && (
               <div id={`level-${level}`} className="mb-4 flex scroll-mt-16 items-center gap-3" data-testid={`level-${level}`}>
                 <span className="rounded-xl bg-ink-700 px-3 py-1 font-black text-white">{levelLabel(level)}</span>
+                {vipLevel(level) && (
+                  <span className="inline-flex items-center gap-1 rounded-lg bg-sun-400 px-2 py-0.5 text-xs font-black text-white" data-testid={`level-vip-${level}`}>
+                    {!vip && <Lock size={12} />} VIP
+                  </span>
+                )}
                 <span className="text-sm font-extrabold text-ink-500">
                   {levelLessons.filter((l) => isDone(l)).length}/{levelLessons.length} bài · {levelLessons.reduce((n, l) => n + l.wordCount, 0)} từ
                 </span>

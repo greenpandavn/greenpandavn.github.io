@@ -1,3 +1,4 @@
+import { fmtVipDate, useVip } from "../lib/vip";
 import { NO_AUDIO_MSG, unsupportedBrowser } from '../lib/browser';
 import { toeicTitle } from "../data/toeic";
 import { VERSION_LABEL } from "../lib/version";
@@ -78,6 +79,7 @@ export default function ProfileScreen({
   const p = useProgress();
   useContentVersion();
   const acc = useAccount();
+  const vip = useVip();
   const certs = visibleCerts(p.certificates, acc.revoked);
   const inst = useInstall();
   const [cert, setCert] = useState<Certificate | null>(null);
@@ -196,6 +198,18 @@ export default function ProfileScreen({
                 <div className="truncate text-sm font-extrabold text-ink-700">
                   {acc.user.email ?? "Tài khoản Google"}
                 </div>
+                {vip ? (
+                  <div className="mt-0.5 text-xs font-black text-sun-600" data-testid="vip-badge">
+                    <span className="mr-1 rounded-md bg-sun-400 px-1.5 py-0.5 text-white">VIP</span>
+                    {acc.vipUntil > Date.now() ? `Hết hạn ngày ${fmtVipDate(acc.vipUntil)}` : "Quản trị viên (không thời hạn)"}
+                  </div>
+                ) : (
+                  acc.vipUntil > 0 && (
+                    <div className="mt-0.5 text-xs font-bold text-ink-400" data-testid="vip-expired">
+                      VIP đã hết hạn ngày {fmtVipDate(acc.vipUntil)}
+                    </div>
+                  )
+                )}
                 <div className="text-xs font-bold text-ink-400">
                   {acc.user.provider === "google.com"
                     ? "Đăng nhập bằng Google"

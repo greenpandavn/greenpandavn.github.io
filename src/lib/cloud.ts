@@ -217,7 +217,7 @@ function applyRole(d: Record<string, unknown>) {
     hidden: d.hidden === true,
     revoked: Array.isArray(d.revoked) ? (d.revoked as string[]) : [],
   };
-  const patch: Partial<ReturnType<typeof getAccount>> = { role: d.role === 'admin' ? 'admin' : 'user', revoked: roleInfo.revoked };
+  const patch: Partial<ReturnType<typeof getAccount>> = { role: d.role === 'admin' ? 'admin' : 'user', revoked: roleInfo.revoked, vipUntil: Number(d.vipUntil) || 0 };
   const cur = getAccount().user;
   if (roleInfo.forcedName && cur && cur.displayName !== roleInfo.forcedName) {
     patch.user = { ...cur, displayName: roleInfo.forcedName };
@@ -458,7 +458,7 @@ function endSession(signedOut = true) {
   if (timer) clearTimeout(timer);
   timer = null;
   switchStorageSlot(GUEST_KEY, loadFrom(GUEST_KEY) ?? defaultProgress());
-  setAccount({ ready: true, user: null, sync: 'idle', migrated: false, role: 'user', revoked: [], ...(signedOut ? { anon: null } : {}) });
+  setAccount({ ready: true, user: null, sync: 'idle', migrated: false, role: 'user', revoked: [], vipUntil: 0, ...(signedOut ? { anon: null } : {}) });
 }
 
 export function initCloud() {

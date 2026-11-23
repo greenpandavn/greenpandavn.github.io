@@ -11,12 +11,14 @@ import CertificateView from '../components/CertificateView';
 import Footer from '../components/Footer';
 import { Chevron } from '../components/Icons';
 import LessonEditor from './LessonEditor';
+import { endOfDay, extendVip, fmtVipDate } from '../lib/vip';
 import type { Certificate } from '../types';
 
-type Tab = 'stats' | 'users' | 'content' | 'certs' | 'reports';
+type Tab = 'stats' | 'users' | 'vip' | 'content' | 'certs' | 'reports';
 const TABS: [Tab, string][] = [
   ['stats', 'Thống kê'],
   ['users', 'Người dùng'],
+  ['vip', 'VIP'],
   ['content', 'Nội dung'],
   ['certs', 'Chứng chỉ'],
   ['reports', 'Báo cáo'],
@@ -90,6 +92,8 @@ export default function AdminScreen({ onClose }: { onClose: () => void }) {
   };
 
   const stats = useMemo(() => (users ? api.computeStats(users) : null), [users]);
+  const now = Date.now();
+  const vips = (users ?? []).filter((u) => u.vipUntil > now).sort((a, b) => a.vipUntil - b.vipUntil);
   const shown = (users ?? []).filter((u) => !q || `${u.displayName} ${u.email}`.toLowerCase().includes(q.toLowerCase()));
 
   if (acc.role !== 'admin')
@@ -121,7 +125,7 @@ export default function AdminScreen({ onClose }: { onClose: () => void }) {
       </button>
       <h1 className="text-2xl font-black">Quản trị</h1>
       <p className="mb-3 text-sm font-bold text-ink-400">Đăng nhập với quyền admin: {acc.user?.email}</p>
-      <div className="mb-4 grid grid-cols-5 gap-1">
+      <div className="mb-4 grid grid-cols-3 gap-1">
         {TABS.map(([id, label]) => (
           <button key={id} type="button" className={`chip !px-0.5 !text-[11px] ${tab === id ? 'chip-active' : ''}`} onClick={() => setTab(id)} data-testid={`admin-tab-${id}`}>
             {label}
@@ -206,6 +210,7 @@ export default function AdminScreen({ onClose }: { onClose: () => void }) {
                   <div className="min-w-0">
                     <div className="truncate font-black">
                       {u.displayName} {u.role === 'admin' && <span className="rounded bg-grape-500 px-1.5 text-xs text-white">admin</span>}{' '}
+                      {u.vipUntil > Date.now() && <span className="rounded bg-sun-400 px-1.5 text-xs text-white">VIP</span>}{' '}
                       {u.locked && <span className="rounded bg-coral-500 px-1.5 text-xs text-white">đã khóa</span>}{' '}
                       {u.hidden && <span className="rounded bg-ink-400 px-1.5 text-xs text-white">ẩn BXH</span>}
                     </div>
@@ -244,6 +249,28 @@ export default function AdminScreen({ onClose }: { onClose: () => void }) {
             );
           })}
           {shown.length === 0 && <p className="font-bold text-ink-400">Không có người dùng.</p>}
+        </div>
+      )}
+
+      {tab === 'vip' && users && (
+        <div className="flex flex-col gap-2" data-testid="admin-vip">
+          <p className="text-xs font-bold text-ink-400">
+            VIP mở tiếng Hàn, tiếng Nhật, tiếng Anh từ Nâng cao và tiếng Trung từ HSK 6. Hết hạn thì tài khoản tự mất quyền VIP. Gia hạn được cộng tiếp vào ngày hết hạn hiện tại.
+          </p>
+          <h2 className="font-black">Đang là VIP ({vips.length})</h2>
+          {vips.length === 0 && <p className="text-sm font-bold text-ink-400">Chưa có tài khoản VIP nào.</p>}
+          {vips.map((u) => (
+            <VipRow key={u.uid} u={u} now={now} onSet={(until) => act('VIP', () => api.setVip(u.uid, until, acc.user?.email ?? ''))} />
+          ))}
+          <h2 className="mt-3 font-black">Bật VIP cho tài khoản</h2>
+          <input className="input" placeholder="Tìm theo tên hoặc email" value={q} onChange={(e) => setQ(e.target.value)} data-testid="vip-search" />
+          {!q && <p className="text-sm font-bold text-ink-400">Nhập tên hoặc email để tìm tài khoản.</p>}
+          {q &&
+            shown
+              .filter((u) => u.vipUntil <= now)
+              .slice(0, 20)
+              .map((u) => <VipRow key={u.uid} u={u} now={now} onSet={(until) => act('VIP', () => api.setVip(u.uid, until, acc.user?.email ?? ''))} />)}
+          {q && shown.filter((u) => u.vipUntil <= now).length === 0 && <p className="text-sm font-bold text-ink-400">Không tìm thấy tài khoản chưa có VIP.</p>}
         </div>
       )}
 
@@ -436,3 +463,46 @@ const Stat = ({ value, label }: { value: number; label: string }) => (
     <div className="text-xs font-bold text-ink-400">{label}</div>
   </div>
 );
+
+const VIP_TERMS: [number, string][] = [
+  [1, '1 tháng'],
+  [3, '3 tháng'],
+  [6, '6 tháng'],
+  [12, '1 năm'],
+];
+/** One account in the VIP tab: quick terms, an exact expiry date, and switching VIP off. */
+function VipRow({ u, now, onSet }: { u: api.AdminUser; now: number; onSet: (until: number) => void }) {
+  const [date, setDate] = useState('');
+  const active = u.vipUntil > now;
+  const until = endOfDay(date);
+  return (
+    <div className="card flex flex-col gap-2 !p-3" data-testid="vip-user">
+      <div className="min-w-0">
+        <div className="truncate font-black">{u.displayName}</div>
+        <div className="truncate text-xs font-bold text-ink-400">{u.email || '(không có email)'}</div>
+        <div className={`text-xs font-extrabold ${active ? 'text-sun-600' : 'text-ink-400'}`} data-testid="vip-until">
+          {active ? `VIP đến hết ngày ${fmtVipDate(u.vipUntil)}` : u.vipUntil ? `VIP đã hết hạn ngày ${fmtVipDate(u.vipUntil)}` : 'Chưa có VIP'}
+        </div>
+      </div>
+      <div className="flex flex-wrap gap-1.5">
+        {VIP_TERMS.map(([m, label]) => (
+          <button key={m} type="button" className="chip !py-1 !text-xs" onClick={() => onSet(extendVip(u.vipUntil, m))} data-testid={`vip-add-${m}`}>
+            {active ? '+' : ''}
+            {label}
+          </button>
+        ))}
+        {active && (
+          <button type="button" className="chip !py-1 !text-xs !text-coral-600" onClick={() => confirm(`Tắt VIP của ${u.email || u.displayName}?`) && onSet(0)} data-testid="vip-off">
+            Tắt VIP
+          </button>
+        )}
+      </div>
+      <div className="flex items-center gap-2">
+        <input type="date" className="input !py-1.5 text-sm" value={date} onChange={(e) => setDate(e.target.value)} aria-label="Ngày hết hạn" data-testid="vip-date" />
+        <button type="button" className="chip !py-1 !text-xs" disabled={until <= now} onClick={() => onSet(until)} data-testid="vip-set-date">
+          Đặt ngày hết hạn
+        </button>
+      </div>
+    </div>
+  );
+}

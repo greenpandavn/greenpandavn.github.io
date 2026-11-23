@@ -8,13 +8,15 @@ export interface AccountState {
   migrated: boolean; // local progress merged into the account on this login
   role: 'admin' | 'user';
   notice: string; // e.g. "account locked" message shown after a forced sign-out
+  /** VIP runs until this time (ms since epoch, 0 = never had it); set by an admin, see lib/vip.ts. */
+  vipUntil: number;
   revoked: string[]; // certificate keys revoked by an admin (hidden, but kept in the stored progress)
   /** Firebase anonymous identity of a learner who has not logged in (`user` stays null for them). */
   anon?: { uid: string; no: number; name: string } | null;
 }
 
 export const OWNER_EMAIL = 'virusphuoc@gmail.com';
-let state: AccountState = { ready: false, user: null, sync: 'idle', migrated: false, role: 'user', notice: '', revoked: [] };
+let state: AccountState = { ready: false, user: null, sync: 'idle', migrated: false, role: 'user', notice: '', revoked: [], vipUntil: 0 };
 const listeners = new Set<() => void>();
 
 export const getAccount = () => state;
