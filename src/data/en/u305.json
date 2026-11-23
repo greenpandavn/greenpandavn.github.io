@@ -3,7 +3,7 @@
   {"unit":305,"level":3,"title":"Phần 5: Công sở, xã hội và sức khỏe","desc":"Họp hành, doanh nghiệp, chính trị, báo chí, bệnh tật, môi trường","color":"coral","course":"en"}
  ],
  "lessons": [
-  {"id":"r01","title":"Họp hành và nhân sự","desc":"Chương trình họp, biên bản, bàn giao, bảng lương","icon":"Meeting","unit":305,"course":"en","order":2300,"words":[
+  {"id":"r01","title":"Họp hành và nhân sự","desc":"Chương trình họp, biên bản, bàn giao, bảng lương","icon":"Meeting","unit":305,"course":"en","order":2340,"words":[
    {"id":"r01-agenda","hanzi":"agenda","pinyin":"","vi":"chương trình họp","ex":{"tokens":["The","first","item","on","the","agenda","is","the","budget","."],"py":["","","","","","","","","","."],"vi":"Mục đầu tiên trong chương trình họp là ngân sách.","alts":[]}},
    {"id":"r01-minutes","hanzi":"minutes","pinyin":"","vi":"biên bản cuộc họp","ex":{"tokens":["Who","is","taking","the","minutes","today","?"],"py":["","","","","","","?"],"vi":"Hôm nay ai ghi biên bản cuộc họp?","alts":[]}},
    {"id":"r01-memo","hanzi":"memo","pinyin":"","vi":"thông báo nội bộ","ex":{"tokens":["The","manager","sent","a","memo","to","all","staff","."],"py":["","","","","","","","","."],"vi":"Người quản lý gửi một thông báo nội bộ cho toàn bộ nhân viên.","alts":[]}},
@@ -17,7 +17,7 @@
    {"id":"r01-commission","hanzi":"commission","pinyin":"","vi":"tiền hoa hồng; ủy ban","ex":{"tokens":["Sales","staff","earn","a","commission","on","each","sale","."],"py":["","","","","","","","","."],"vi":"Nhân viên bán hàng được hưởng hoa hồng trên mỗi đơn hàng.","alts":[]}},
    {"id":"r01-headcount","hanzi":"headcount","pinyin":"","vi":"tổng số nhân sự","ex":{"tokens":["The","firm","plans","to","cut","its","headcount","."],"py":["","","","","","","","."],"vi":"Công ty dự định cắt giảm số nhân sự.","alts":[]}}
   ]},
-  {"id":"r02","title":"Hình thức làm việc","desc":"Tự do, bán thời gian, thực tập, nghỉ thai sản","icon":"Job","unit":305,"course":"en","order":2310,"words":[
+  {"id":"r02","title":"Hình thức làm việc","desc":"Tự do, bán thời gian, thực tập, nghỉ thai sản","icon":"Job","unit":305,"course":"en","order":2350,"words":[
    {"id":"r02-severance","hanzi":"severance","pinyin":"","vi":"trợ cấp thôi việc","ex":{"tokens":["He","received","three","months","of","severance","pay","."],"py":["","","","","","","","."],"vi":"Anh ấy nhận trợ cấp thôi việc bằng ba tháng lương.","alts":[]}},
    {"id":"r02-resignation","hanzi":"resignation","pinyin":"","vi":"sự từ chức, đơn xin nghỉ việc","ex":{"tokens":["She","handed","in","her","resignation","yesterday","."],"py":["","","","","","","."],"vi":"Hôm qua cô ấy đã nộp đơn xin nghỉ việc.","alts":[]}},
    {"id":"r02-apprentice","hanzi":"apprentice","pinyin":"","vi":"người học việc","ex":{"tokens":["He","started","as","an","apprentice","at","sixteen","."],"py":["","","","","","","","."],"vi":"Anh ấy bắt đầu làm người học việc năm mười sáu tuổi.","alts":[]}},
@@ -31,7 +31,7 @@
    {"id":"r02-maternity","hanzi":"maternity","pinyin":"","vi":"thai sản","ex":{"tokens":["She","is","on","maternity","leave","until","March","."],"py":["","","","","","","","."],"vi":"Cô ấy nghỉ thai sản đến tháng Ba.","alts":[]}},
    {"id":"r02-perk","hanzi":"perk","pinyin":"","vi":"quyền lợi thêm, bổng lộc","ex":{"tokens":["Free","lunch","is","a","nice","perk","of","the","job","."],"py":["","","","","","","","","","."],"vi":"Bữa trưa miễn phí là một quyền lợi thú vị của công việc.","alts":[]}}
   ]},
-  {"id":"r03","title":"Doanh nghiệp và nợ","desc":"Mua lại, công ty con, hóa đơn, phá sản","icon":"Firm","unit":305,"course":"en","order":2320,"words":[
+  {"id":"r03","title":"Doanh nghiệp và nợ","desc":"Mua lại, công ty con, hóa đơn, phá sản","icon":"Firm","unit":305,"course":"en","order":2360,"words":[
    {"id":"r03-acquisition","hanzi":"acquisition","pinyin":"","vi":"sự mua lại, thâu tóm","ex":{"tokens":["The","acquisition","cost","two","billion","dollars","."],"py":["","","","","","","."],"vi":"Thương vụ mua lại tốn hai tỷ đô la.","alts":[]}},
    {"id":"r03-subsidiary","hanzi":"subsidiary","pinyin":"","vi":"công ty con","ex":{"tokens":["The","bank","has","a","subsidiary","in","Vietnam","."],"py":["","","","","","","","."],"vi":"Ngân hàng có một công ty con ở Việt Nam.","alts":[]}},
    {"id":"r03-margin","hanzi":"margin","pinyin":"","vi":"biên lợi nhuận; lề giấy","ex":{"tokens":["The","profit","margin","on","food","is","small","."],"py":["","","","","","","","."],"vi":"Biên lợi nhuận của thực phẩm thấp.","alts":[]}},
@@ -45,7 +45,7 @@
    {"id":"r03-bankruptcy","hanzi":"bankruptcy","pinyin":"","vi":"sự phá sản","ex":{"tokens":["The","airline","is","close","to","bankruptcy","."],"py":["","","","","","","."],"vi":"Hãng hàng không đang gần phá sản.","alts":[]}},
    {"id":"r03-surplus","hanzi":"surplus","pinyin":"","vi":"thặng dư, phần dư","ex":{"tokens":["The","country","has","a","trade","surplus","."],"py":["","","","","","","."],"vi":"Đất nước có thặng dư thương mại.","alts":[]}}
   ]},
-  {"id":"r04","title":"Quảng cáo và thương hiệu","desc":"Tờ rơi, biển quảng cáo, khẩu hiệu, nhà tài trợ","icon":"Brand","unit":305,"course":"en","order":2330,"words":[
+  {"id":"r04","title":"Quảng cáo và thương hiệu","desc":"Tờ rơi, biển quảng cáo, khẩu hiệu, nhà tài trợ","icon":"Brand","unit":305,"course":"en","order":2370,"words":[
    {"id":"r04-brochure","hanzi":"brochure","pinyin":"","vi":"tập quảng cáo","ex":{"tokens":["Take","a","brochure","about","the","tour","."],"py":["","","","","","","."],"vi":"Hãy lấy một tập quảng cáo về chuyến tham quan.","alts":[]}},
    {"id":"r04-flyer","hanzi":"flyer","pinyin":"","vi":"tờ rơi","ex":{"tokens":["Someone","handed","me","a","flyer","in","the","street","."],"py":["","","","","","","","","."],"vi":"Ai đó đưa cho tôi một tờ rơi trên phố.","alts":[]}},
    {"id":"r04-billboard","hanzi":"billboard","pinyin":"","vi":"biển quảng cáo lớn","ex":{"tokens":["There","is","a","huge","billboard","by","the","highway","."],"py":["","","","","","","","","."],"vi":"Có một biển quảng cáo khổng lồ bên đường cao tốc.","alts":[]}},
@@ -59,7 +59,7 @@
    {"id":"r04-prestige","hanzi":"prestige","pinyin":"","vi":"uy tín, thanh thế","ex":{"tokens":["The","prize","brings","great","prestige","."],"py":["","","","","","."],"vi":"Giải thưởng mang lại uy tín lớn.","alts":[]}},
    {"id":"r04-merit","hanzi":"merit","pinyin":"","vi":"giá trị, công trạng","ex":{"tokens":["The","plan","has","some","merit","."],"py":["","","","","","."],"vi":"Kế hoạch có một số giá trị.","alts":[]}}
   ]},
-  {"id":"r05","title":"Chính trị 2","desc":"Lá phiếu, trưng cầu, liên minh, biểu tình, đình công","icon":"Vote","unit":305,"course":"en","order":2340,"words":[
+  {"id":"r05","title":"Chính trị 2","desc":"Lá phiếu, trưng cầu, liên minh, biểu tình, đình công","icon":"Vote","unit":305,"course":"en","order":2380,"words":[
    {"id":"r05-ballot","hanzi":"ballot","pinyin":"","vi":"lá phiếu, cuộc bỏ phiếu kín","ex":{"tokens":["Each","member","has","one","ballot","."],"py":["","","","","","."],"vi":"Mỗi thành viên có một lá phiếu.","alts":[]}},
    {"id":"r05-referendum","hanzi":"referendum","pinyin":"","vi":"cuộc trưng cầu dân ý","ex":{"tokens":["The","country","held","a","referendum","on","the","new","law","."],"py":["","","","","","","","","","."],"vi":"Đất nước tổ chức trưng cầu dân ý về luật mới.","alts":[]}},
    {"id":"r05-coalition","hanzi":"coalition","pinyin":"","vi":"liên minh","ex":{"tokens":["Two","parties","formed","a","coalition","."],"py":["","","","","","."],"vi":"Hai đảng lập một liên minh.","alts":[]}},
@@ -73,7 +73,7 @@
    {"id":"r05-riot","hanzi":"riot","pinyin":"","vi":"cuộc bạo loạn","ex":{"tokens":["A","riot","broke","out","after","the","match","."],"py":["","","","","","","","."],"vi":"Một cuộc bạo loạn nổ ra sau trận đấu.","alts":[]}},
    {"id":"r05-unrest","hanzi":"unrest","pinyin":"","vi":"tình trạng bất ổn","ex":{"tokens":["There","is","growing","unrest","in","the","capital","."],"py":["","","","","","","","."],"vi":"Tình trạng bất ổn ở thủ đô đang gia tăng.","alts":[]}}
   ]},
-  {"id":"r06","title":"Tội phạm 2","desc":"Trọng tội, kiện tụng, công tố viên, trộm cắp, tống tiền","icon":"Crime","unit":305,"course":"en","order":2350,"words":[
+  {"id":"r06","title":"Tội phạm 2","desc":"Trọng tội, kiện tụng, công tố viên, trộm cắp, tống tiền","icon":"Crime","unit":305,"course":"en","order":2390,"words":[
    {"id":"r06-parole","hanzi":"parole","pinyin":"","vi":"sự tạm tha có điều kiện","ex":{"tokens":["He","was","released","on","parole","after","five","years","."],"py":["","","","","","","","","."],"vi":"Anh ta được tạm tha có điều kiện sau năm năm.","alts":[]}},
    {"id":"r06-felony","hanzi":"felony","pinyin":"","vi":"trọng tội","ex":{"tokens":["Armed","robbery","is","a","felony","."],"py":["","","","","","."],"vi":"Cướp có vũ trang là một trọng tội.","alts":[]}},
    {"id":"r06-misdemeanor","hanzi":"misdemeanor","pinyin":"","vi":"tội nhẹ","ex":{"tokens":["He","was","charged","with","a","misdemeanor","."],"py":["","","","","","","."],"vi":"Anh ta bị buộc một tội nhẹ.","alts":[]}},
@@ -87,7 +87,7 @@
    {"id":"r06-burglary","hanzi":"burglary","pinyin":"","vi":"vụ trộm đột nhập","ex":{"tokens":["There","was","a","burglary","next","door","last","night","."],"py":["","","","","","","","","."],"vi":"Đêm qua nhà bên cạnh bị trộm đột nhập.","alts":[]}},
    {"id":"r06-vandalism","hanzi":"vandalism","pinyin":"","vi":"hành vi phá hoại tài sản","ex":{"tokens":["The","school","suffers","from","vandalism","at","weekends","."],"py":["","","","","","","","."],"vi":"Ngôi trường bị phá hoại vào các dịp cuối tuần.","alts":[]}}
   ]},
-  {"id":"r07","title":"Báo chí và sách","desc":"Xã luận, báo lá cải, tiểu thuyết gia, hồi ký","icon":"Press","unit":305,"course":"en","order":2360,"words":[
+  {"id":"r07","title":"Báo chí và sách","desc":"Xã luận, báo lá cải, tiểu thuyết gia, hồi ký","icon":"Press","unit":305,"course":"en","order":2400,"words":[
    {"id":"r07-editorial","hanzi":"editorial","pinyin":"","vi":"bài xã luận","ex":{"tokens":["The","editorial","criticizes","the","new","tax","."],"py":["","","","","","","."],"vi":"Bài xã luận chỉ trích loại thuế mới.","alts":[]}},
    {"id":"r07-columnist","hanzi":"columnist","pinyin":"","vi":"người viết chuyên mục","ex":{"tokens":["She","is","a","columnist","for","a","national","paper","."],"py":["","","","","","","","","."],"vi":"Cô ấy viết chuyên mục cho một tờ báo quốc gia.","alts":[]}},
    {"id":"r07-tabloid","hanzi":"tabloid","pinyin":"","vi":"báo lá cải","ex":{"tokens":["The","story","first","appeared","in","a","tabloid","."],"py":["","","","","","","","."],"vi":"Câu chuyện lần đầu xuất hiện trên một tờ báo lá cải.","alts":[]}},
@@ -101,7 +101,7 @@
    {"id":"r07-paperback","hanzi":"paperback","pinyin":"","vi":"sách bìa mềm","ex":{"tokens":["The","paperback","comes","out","in","June","."],"py":["","","","","","","."],"vi":"Bản bìa mềm ra mắt vào tháng Sáu.","alts":[]}},
    {"id":"r07-publisher","hanzi":"publisher","pinyin":"","vi":"nhà xuất bản","ex":{"tokens":["The","publisher","wants","a","second","book","."],"py":["","","","","","","."],"vi":"Nhà xuất bản muốn có cuốn sách thứ hai.","alts":[]}}
   ]},
-  {"id":"r08","title":"Bệnh thường gặp","desc":"Đại dịch, béo phì, hen, mất ngủ, cao huyết áp","icon":"Health","unit":305,"course":"en","order":2370,"words":[
+  {"id":"r08","title":"Bệnh thường gặp","desc":"Đại dịch, béo phì, hen, mất ngủ, cao huyết áp","icon":"Health","unit":305,"course":"en","order":2410,"words":[
    {"id":"r08-pandemic","hanzi":"pandemic","pinyin":"","vi":"đại dịch","ex":{"tokens":["The","pandemic","changed","how","we","work","."],"py":["","","","","","","."],"vi":"Đại dịch đã thay đổi cách chúng ta làm việc.","alts":[]}},
    {"id":"r08-immunity","hanzi":"immunity","pinyin":"","vi":"khả năng miễn dịch; quyền miễn trừ","ex":{"tokens":["The","vaccine","gives","immunity","for","years","."],"py":["","","","","","","."],"vi":"Vắc xin tạo miễn dịch trong nhiều năm.","alts":[]}},
    {"id":"r08-rehabilitation","hanzi":"rehabilitation","pinyin":"","vi":"sự phục hồi chức năng","ex":{"tokens":["He","needs","months","of","rehabilitation","after","the","accident","."],"py":["","","","","","","","","."],"vi":"Anh ấy cần nhiều tháng phục hồi chức năng sau tai nạn.","alts":[]}},
@@ -115,7 +115,7 @@
    {"id":"r08-ulcer","hanzi":"ulcer","pinyin":"","vi":"vết loét","ex":{"tokens":["Stress","can","make","a","stomach","ulcer","worse","."],"py":["","","","","","","","."],"vi":"Căng thẳng có thể làm vết loét dạ dày nặng hơn.","alts":[]}},
    {"id":"r08-hypertension","hanzi":"hypertension","pinyin":"","vi":"bệnh cao huyết áp","ex":{"tokens":["Too","much","salt","can","lead","to","hypertension","."],"py":["","","","","","","","."],"vi":"Ăn quá nhiều muối có thể dẫn đến cao huyết áp.","alts":[]}}
   ]},
-  {"id":"r09","title":"Sức khỏe tinh thần 2","desc":"Chánh niệm, thiền, kiệt sức, tư vấn, sức bền","icon":"Mind","unit":305,"course":"en","order":2380,"words":[
+  {"id":"r09","title":"Sức khỏe tinh thần 2","desc":"Chánh niệm, thiền, kiệt sức, tư vấn, sức bền","icon":"Mind","unit":305,"course":"en","order":2420,"words":[
    {"id":"r09-wellbeing","hanzi":"wellbeing","pinyin":"","vi":"sự khỏe mạnh, hạnh phúc","ex":{"tokens":["Sleep","is","important","for","your","wellbeing","."],"py":["","","","","","","."],"vi":"Giấc ngủ rất quan trọng với sức khỏe và hạnh phúc của bạn.","alts":[]}},
    {"id":"r09-mindfulness","hanzi":"mindfulness","pinyin":"","vi":"chánh niệm","ex":{"tokens":["Mindfulness","helps","me","stay","calm","."],"py":["","","","","","."],"vi":"Chánh niệm giúp tôi giữ bình tĩnh.","alts":[]}},
    {"id":"r09-meditation","hanzi":"meditation","pinyin":"","vi":"thiền","ex":{"tokens":["She","begins","each","day","with","meditation","."],"py":["","","","","","","."],"vi":"Cô ấy bắt đầu mỗi ngày bằng việc thiền.","alts":[]}},
@@ -129,7 +129,7 @@
    {"id":"r09-warm_up","hanzi":"warm-up","pinyin":"","vi":"bài khởi động","ex":{"tokens":["Never","skip","the","warm-up","."],"py":["","","","","."],"vi":"Đừng bao giờ bỏ qua bài khởi động.","alts":[]}},
    {"id":"r09-contagion","hanzi":"contagion","pinyin":"","vi":"sự lây lan (bệnh)","ex":{"tokens":["Masks","reduce","the","risk","of","contagion","."],"py":["","","","","","","."],"vi":"Khẩu trang làm giảm nguy cơ lây lan.","alts":[]}}
   ]},
-  {"id":"r10","title":"Môi trường và địa hình","desc":"Khí thải, bãi rác, tái chế, bán đảo, đầm lầy","icon":"Earth","unit":305,"course":"en","order":2390,"words":[
+  {"id":"r10","title":"Môi trường và địa hình","desc":"Khí thải, bãi rác, tái chế, bán đảo, đầm lầy","icon":"Earth","unit":305,"course":"en","order":2430,"words":[
    {"id":"r10-emissions","hanzi":"emissions","pinyin":"","vi":"khí thải","ex":{"tokens":["The","city","wants","to","cut","emissions","by","half","."],"py":["","","","","","","","","."],"vi":"Thành phố muốn cắt giảm một nửa lượng khí thải.","alts":[]}},
    {"id":"r10-landfill","hanzi":"landfill","pinyin":"","vi":"bãi chôn lấp rác","ex":{"tokens":["Most","of","this","waste","goes","to","landfill","."],"py":["","","","","","","","."],"vi":"Phần lớn rác này được đưa đến bãi chôn lấp.","alts":[]}},
    {"id":"r10-recycling","hanzi":"recycling","pinyin":"","vi":"việc tái chế","ex":{"tokens":["Recycling","saves","energy","."],"py":["","","","."],"vi":"Tái chế giúp tiết kiệm năng lượng.","alts":[]}},
@@ -143,7 +143,7 @@
    {"id":"r10-prairie","hanzi":"prairie","pinyin":"","vi":"đồng cỏ lớn","ex":{"tokens":["Wild","horses","run","across","the","prairie","."],"py":["","","","","","","."],"vi":"Ngựa hoang chạy băng qua đồng cỏ.","alts":[]}},
    {"id":"r10-tundra","hanzi":"tundra","pinyin":"","vi":"lãnh nguyên","ex":{"tokens":["Few","trees","grow","on","the","tundra","."],"py":["","","","","","","."],"vi":"Rất ít cây mọc trên lãnh nguyên.","alts":[]}}
   ]},
-  {"id":"r11","title":"Nông trại và đô thị","desc":"Tưới tiêu, gia súc, chuồng, vỉa hè, đèn đường","icon":"Farm","unit":305,"course":"en","order":2400,"words":[
+  {"id":"r11","title":"Nông trại và đô thị","desc":"Tưới tiêu, gia súc, chuồng, vỉa hè, đèn đường","icon":"Farm","unit":305,"course":"en","order":2440,"words":[
    {"id":"r11-irrigation","hanzi":"irrigation","pinyin":"","vi":"sự tưới tiêu","ex":{"tokens":["Irrigation","turned","the","desert","into","farmland","."],"py":["","","","","","","."],"vi":"Tưới tiêu đã biến sa mạc thành đất canh tác.","alts":[]}},
    {"id":"r11-livestock","hanzi":"livestock","pinyin":"","vi":"gia súc, vật nuôi","ex":{"tokens":["The","farmer","sold","his","livestock","."],"py":["","","","","","."],"vi":"Người nông dân bán đàn gia súc của mình.","alts":[]}},
    {"id":"r11-plow","hanzi":"plow","pinyin":"","vi":"cái cày; cày","ex":{"tokens":["The","farmer","uses","a","buffalo","to","pull","the","plow","."],"py":["","","","","","","","","","."],"vi":"Người nông dân dùng trâu để kéo cày.","alts":[]}},
@@ -157,7 +157,7 @@
    {"id":"r11-monument","hanzi":"monument","pinyin":"","vi":"đài tưởng niệm, công trình kỷ niệm","ex":{"tokens":["The","monument","stands","in","the","main","square","."],"py":["","","","","","","","."],"vi":"Đài tưởng niệm nằm ở quảng trường chính.","alts":[]}},
    {"id":"r11-gadget","hanzi":"gadget","pinyin":"","vi":"đồ dùng công nghệ nhỏ","ex":{"tokens":["This","kitchen","gadget","peels","garlic","."],"py":["","","","","","."],"vi":"Món đồ nhà bếp này bóc được tỏi.","alts":[]}}
   ]},
-  {"id":"r12","title":"Di cư và từ thiện","desc":"Người di cư, quốc tịch, trục xuất, nhà hảo tâm","icon":"Move","unit":305,"course":"en","order":2410,"words":[
+  {"id":"r12","title":"Di cư và từ thiện","desc":"Người di cư, quốc tịch, trục xuất, nhà hảo tâm","icon":"Move","unit":305,"course":"en","order":2450,"words":[
    {"id":"r12-migrant","hanzi":"migrant","pinyin":"","vi":"người di cư","ex":{"tokens":["Each","migrant","has","a","different","story","."],"py":["","","","","","","."],"vi":"Mỗi người di cư có một câu chuyện khác nhau.","alts":[]}},
    {"id":"r12-citizenship","hanzi":"citizenship","pinyin":"","vi":"quốc tịch, quyền công dân","ex":{"tokens":["She","applied","for","citizenship","last","year","."],"py":["","","","","","","."],"vi":"Năm ngoái cô ấy nộp đơn xin quốc tịch.","alts":[]}},
    {"id":"r12-deport","hanzi":"deport","pinyin":"","vi":"trục xuất","ex":{"tokens":["The","government","decided","to","deport","him","."],"py":["","","","","","","."],"vi":"Chính phủ quyết định trục xuất anh ta.","alts":[]}},
@@ -171,7 +171,7 @@
    {"id":"r12-homelessness","hanzi":"homelessness","pinyin":"","vi":"tình trạng vô gia cư","ex":{"tokens":["Homelessness","is","rising","in","big","cities","."],"py":["","","","","","","."],"vi":"Tình trạng vô gia cư đang tăng ở các thành phố lớn.","alts":[]}},
    {"id":"r12-curfew","hanzi":"curfew","pinyin":"","vi":"lệnh giới nghiêm","ex":{"tokens":["The","curfew","begins","at","ten","."],"py":["","","","","","."],"vi":"Lệnh giới nghiêm bắt đầu lúc mười giờ.","alts":[]}}
   ]},
-  {"id":"r13","title":"Thể thao và dã ngoại","desc":"Khán giả, đối thủ, bán kết, đi bộ đường dài","icon":"Trip","unit":305,"course":"en","order":2420,"words":[
+  {"id":"r13","title":"Thể thao và dã ngoại","desc":"Khán giả, đối thủ, bán kết, đi bộ đường dài","icon":"Trip","unit":305,"course":"en","order":2460,"words":[
    {"id":"r13-spectator","hanzi":"spectator","pinyin":"","vi":"khán giả (xem thi đấu)","ex":{"tokens":["A","spectator","ran","onto","the","field","."],"py":["","","","","","","."],"vi":"Một khán giả chạy vào sân.","alts":[]}},
    {"id":"r13-opponent","hanzi":"opponent","pinyin":"","vi":"đối thủ","ex":{"tokens":["She","beat","her","opponent","in","two","sets","."],"py":["","","","","","","","."],"vi":"Cô ấy thắng đối thủ sau hai séc.","alts":[]}},
    {"id":"r13-underdog","hanzi":"underdog","pinyin":"","vi":"kẻ yếu thế, đội cửa dưới","ex":{"tokens":["Everyone","loves","it","when","the","underdog","wins","."],"py":["","","","","","","","."],"vi":"Ai cũng thích khi đội cửa dưới chiến thắng.","alts":[]}},

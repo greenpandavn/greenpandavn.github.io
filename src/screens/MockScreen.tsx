@@ -33,17 +33,122 @@ import {
   TOEIC_TOTAL,
   type ToeicTest,
 } from "../lib/toeic";
+import {
+  BAND_ADVICE,
+  CEFR_PAPERS,
+  LISTENING_COUNT,
+  loadListening,
+  loadPaper,
+  PART_TESTS,
+  PLACEMENT,
+} from "../data/papers";
+import { bandOf, paperSpec, type PaperMeta } from "../lib/paper";
 
 const clock = (s: number) =>
   `${String(Math.floor(s / 60)).padStart(2, "0")}:${String(s % 60).padStart(2, "0")}`;
 
 /** Standalone, optional "Thi thử HSK" / "Thi thử tiếng Anh" section (follows the course being studied): pick a level, sit the timed paper, review every answer. */
-export default function MockScreen({ onClose }: { onClose: () => void }) {
+export default function MockScreen({
+  onClose,
+  start,
+}: {
+  onClose: () => void;
+  /** Open straight on the placement test, or scroll to the listening practice. */
+  start?: string;
+}) {
   const p = useProgress();
   const [spec, setSpec] = useState<MockSpec | null>(null);
   const [toeic, setToeic] = useState<ToeicTest | null>(null);
   const [loading, setLoading] = useState("");
+  const [listening, setListening] = useState<
+    { meta: PaperMeta; src: string }[] | null
+  >(null);
   const course = getCourse();
+  const openPaper = (m: PaperMeta, src?: string) => {
+    setLoading(m.id);
+    (src ? Promise.resolve(src) : loadPaper(m))
+      .then((text) => {
+        setSpec(paperSpec(m, text));
+        window.scrollTo(0, 0);
+      })
+      .catch(() => undefined)
+      .finally(() => setLoading(""));
+  };
+  const startRef = useRef(start);
+  useEffect(() => {
+    if (course !== "en") return;
+    loadListening()
+      .then((l) => {
+        setListening(l);
+        if (startRef.current === "listening")
+          setTimeout(
+            () =>
+              document
+                .querySelector('[data-testid="listening-section"]')
+                ?.scrollIntoView(),
+            50,
+          );
+      })
+      .catch(() => undefined);
+    if (startRef.current === "placement") openPaper(PLACEMENT);
+    startRef.current = undefined;
+    // eslint-disable-next-line react-hooks/exhaustive-deps
+  }, [course]);
+  const paperCard = (m: PaperMeta, src?: string, compact = false) => {
+    const r = p.mock?.[m.id];
+    const total = m.counts.reduce((n, c) => n + c[1], 0);
+    return (
+      <div
+        key={m.id}
+        className={compact ? "card !p-3" : "card"}
+        data-testid={`paper-${m.id}`}
+      >
+        <div className="flex items-center justify-between gap-2">
+          <h3
+            className={`font-black text-ink-700 ${compact ? "text-base" : "text-xl"}`}
+          >
+            {m.title}
+          </h3>
+          {r && (
+            <span
+              className={`shrink-0 rounded-lg px-2 py-0.5 text-sm font-extrabold ${r.passed ? "bg-leaf-50 text-leaf-600" : "bg-cloud text-ink-500"}`}
+              data-testid={`paper-best-${m.id}`}
+            >
+              Cao nhất: {r.best}/{r.max}
+            </span>
+          )}
+        </div>
+        {m.desc && (
+          <p className="mt-1 text-sm font-semibold text-ink-500">{m.desc}</p>
+        )}
+        <p
+          className={`text-xs font-bold text-ink-400 ${compact ? "mb-2" : "mb-3 mt-1"}`}
+        >
+          {total} câu · {m.minutes} phút
+          {m.counts.length > 1
+            ? ` · ${m.counts.map((c) => `${SECTION_LABEL[c[0]]} ${c[1]} câu`).join(" · ")}`
+            : ""}
+        </p>
+        <button
+          type="button"
+          className={compact ? "btn-white" : "btn-green"}
+          disabled={loading === m.id}
+          onClick={() => openPaper(m, src)}
+          data-testid={`paper-start-${m.id}`}
+        >
+          {loading === m.id
+            ? "Đang tải…"
+            : m.group === "listening"
+              ? r
+                ? "Nghe lại"
+                : "Nghe và trả lời"
+              : r
+                ? "Làm lại"
+                : "Bắt đầu làm bài"}
+        </button>
+      </div>
+    );
+  };
   if (toeic)
     return (
       <ToeicRun key={toeic.id} test={toeic} onExit={() => setToeic(null)} />
@@ -129,6 +234,18 @@ export default function MockScreen({ onClose }: { onClose: () => void }) {
         trên máy và đồng bộ khi bạn đăng nhập.
       </p>
       {course === "en" && (
+        <section className="mt-6" data-testid="cefr-section">
+          <h2 className="text-2xl font-black">Thi theo cấp độ CEFR</h2>
+          <p className="mb-3 mt-1 text-sm font-semibold text-ink-500">
+            Năm bộ đề A1–C1: từ vựng, ngữ pháp và đọc hiểu. Có giải thích bằng
+            tiếng Việt sau khi nộp bài.
+          </p>
+          <div className="flex flex-col gap-3">
+            {CEFR_PAPERS.map((m) => paperCard(m))}
+          </div>
+        </section>
+      )}
+      {course === "en" && (
         <section className="mt-6" data-testid="toeic-section">
           <h2 className="text-2xl font-black">Thi thử TOEIC</h2>
           <p className="mb-3 text-sm font-semibold text-ink-500">
@@ -197,6 +314,48 @@ export default function MockScreen({ onClose }: { onClose: () => void }) {
             ảnh ở Part 1 được mô tả bằng chữ.
           </p>
         </section>
+      )}
+      {course === "en" && (
+        <>
+          <section className="mt-6" data-testid="placement-section">
+            <h2 className="mb-3 text-2xl font-black">Kiểm tra trình độ</h2>
+            {paperCard(PLACEMENT)}
+          </section>
+          <section className="mt-6" data-testid="part-test-section">
+            <h2 className="text-2xl font-black">Kiểm tra ngắn theo Phần</h2>
+            <p className="mb-3 mt-1 text-sm font-semibold text-ink-500">
+              20 câu từ vựng và ngữ pháp để ôn lại sau khi học xong mỗi Phần.
+            </p>
+            <div className="flex flex-col gap-3">
+              {PART_TESTS.map((m) => paperCard(m))}
+            </div>
+          </section>
+          <section className="mt-6" data-testid="listening-section">
+            <h2 className="text-2xl font-black">Luyện nghe</h2>
+            <p className="mb-3 mt-1 text-sm font-semibold text-ink-500">
+              {LISTENING_COUNT} bài nghe ngắn, xếp theo Phần của khóa học. Nghe
+              giọng đọc tiếng Anh của máy rồi chọn đáp án đúng.
+            </p>
+            {!listening && (
+              <p className="text-sm font-bold text-ink-400">Đang tải…</p>
+            )}
+            {listening &&
+              [...new Set(listening.map((l) => l.meta.part ?? ""))].map(
+                (part) => (
+                  <div key={part} className="mb-4">
+                    <h3 className="mb-2 text-sm font-extrabold uppercase tracking-wide text-grape-600">
+                      {part}
+                    </h3>
+                    <div className="flex flex-col gap-2">
+                      {listening
+                        .filter((l) => l.meta.part === part)
+                        .map((l) => paperCard(l.meta, l.src, true))}
+                    </div>
+                  </div>
+                ),
+              )}
+          </section>
+        </>
       )}
       <Footer className="mt-auto" />
     </div>
@@ -551,8 +710,17 @@ function MockResultView({
           className="mx-auto"
         />
         <h1 className="mt-2 text-2xl font-black text-ink-700">
-          Kết quả thi thử {spec.title}
+          {spec.paper ? `Kết quả: ${spec.title}` : `Kết quả thi thử ${spec.title}`}
         </h1>
+        {spec.bands && (
+          <p
+            className="mt-2 rounded-2xl bg-sky-500/10 px-3 py-2 font-extrabold text-sky-600"
+            data-testid="mock-band"
+          >
+            Trình độ ước tính: {bandOf(spec.bands, result.correct)}.{" "}
+            {BAND_ADVICE[bandOf(spec.bands, result.correct)]}
+          </p>
+        )}
         <div
           className={`mt-2 text-6xl font-black ${result.passed ? "text-leaf-500" : "text-coral-500"}`}
           data-testid="mock-score"

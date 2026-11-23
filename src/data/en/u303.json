@@ -3,7 +3,7 @@
   {"unit":303,"level":3,"title":"Phần 3: Khoa học và thế giới","desc":"Công nghệ, y học, môi trường, địa lý, vũ trụ","color":"grape","course":"en"}
  ],
  "lessons": [
-  {"id":"a33","title":"Khoa học","desc":"Nhà khoa học, hóa học, vật lý, phát minh","icon":"Sci","unit":303,"course":"en","order":1980,"words":[
+  {"id":"a33","title":"Khoa học","desc":"Nhà khoa học, hóa học, vật lý, phát minh","icon":"Sci","unit":303,"course":"en","order":2020,"words":[
    {"id":"a33-scientist","hanzi":"scientist","pinyin":"","vi":"nhà khoa học","ex":{"tokens":["The","scientist","works","in","a","laboratory","."],"py":["","","","","","","."],"vi":"Nhà khoa học làm việc trong phòng thí nghiệm.","alts":[]}},
    {"id":"a33-laboratory","hanzi":"laboratory","pinyin":"","vi":"phòng thí nghiệm","ex":{"tokens":["The","laboratory","is","on","the","second","floor","."],"py":["","","","","","","","."],"vi":"Phòng thí nghiệm ở tầng hai.","alts":[]}},
    {"id":"a33-chemistry","hanzi":"chemistry","pinyin":"","vi":"hóa học","ex":{"tokens":["Chemistry","is","my","favorite","subject","."],"py":["","","","","","."],"vi":"Hóa học là môn học yêu thích của tôi.","alts":[]}},
@@ -17,7 +17,7 @@
    {"id":"a33-gas","hanzi":"gas","pinyin":"","vi":"khí, xăng","ex":{"tokens":["This","gas","has","no","smell","."],"py":["","","","","","."],"vi":"Loại khí này không có mùi.","alts":[]}},
    {"id":"a33-metal","hanzi":"metal","pinyin":"","vi":"kim loại","ex":{"tokens":["Gold","is","an","expensive","metal","."],"py":["","","","","","."],"vi":"Vàng là một kim loại đắt tiền.","alts":[]}}
   ]},
-  {"id":"a34","title":"Công nghệ","desc":"Thiết bị, phần mềm, robot, trí tuệ nhân tạo","icon":"Tech","unit":303,"course":"en","order":1990,"words":[
+  {"id":"a34","title":"Công nghệ","desc":"Thiết bị, phần mềm, robot, trí tuệ nhân tạo","icon":"Tech","unit":303,"course":"en","order":2030,"words":[
    {"id":"a34-technology","hanzi":"technology","pinyin":"","vi":"công nghệ","ex":{"tokens":["Technology","changes","our","lives","."],"py":["","","","","."],"vi":"Công nghệ thay đổi cuộc sống của chúng ta.","alts":[]}},
    {"id":"a34-device","hanzi":"device","pinyin":"","vi":"thiết bị","ex":{"tokens":["This","device","can","measure","your","heart","rate","."],"py":["","","","","","","","."],"vi":"Thiết bị này có thể đo nhịp tim của bạn.","alts":[]}},
    {"id":"a34-software","hanzi":"software","pinyin":"","vi":"phần mềm","ex":{"tokens":["You","need","to","update","the","software","."],"py":["","","","","","","."],"vi":"Bạn cần cập nhật phần mềm.","alts":[]}},
@@ -31,7 +31,7 @@
    {"id":"a34-electricity","hanzi":"electricity","pinyin":"","vi":"điện","ex":{"tokens":["The","village","has","no","electricity","at","night","."],"py":["","","","","","","","."],"vi":"Ngôi làng không có điện vào ban đêm.","alts":[]}},
    {"id":"a34-equipment","hanzi":"equipment","pinyin":"","vi":"thiết bị, dụng cụ","ex":{"tokens":["The","gym","has","new","equipment","."],"py":["","","","","","."],"vi":"Phòng gym có thiết bị mới.","alts":[]}}
   ]},
-  {"id":"a35","title":"Thế giới số","desc":"Mạng xã hội, tài khoản, bảo mật, dữ liệu","icon":"Net","unit":303,"course":"en","order":2000,"words":[
+  {"id":"a35","title":"Thế giới số","desc":"Mạng xã hội, tài khoản, bảo mật, dữ liệu","icon":"Net","unit":303,"course":"en","order":2040,"words":[
    {"id":"a35-network","hanzi":"network","pinyin":"","vi":"mạng lưới, mạng","ex":{"tokens":["The","network","is","slow","today","."],"py":["","","","","","."],"vi":"Hôm nay mạng chậm.","alts":[]}},
    {"id":"a35-upload","hanzi":"upload","pinyin":"","vi":"tải lên","ex":{"tokens":["I","will","upload","the","photos","tonight","."],"py":["","","","","","","."],"vi":"Tối nay tôi sẽ tải ảnh lên.","alts":[]}},
    {"id":"a35-install","hanzi":"install","pinyin":"","vi":"cài đặt","ex":{"tokens":["You","need","to","install","this","app","first","."],"py":["","","","","","","","."],"vi":"Bạn cần cài đặt ứng dụng này trước.","alts":[]}},
@@ -45,7 +45,7 @@
    {"id":"a35-laptop","hanzi":"laptop","pinyin":"","vi":"máy tính xách tay","ex":{"tokens":["I","take","my","laptop","to","class","."],"py":["","","","","","","."],"vi":"Tôi mang máy tính xách tay đến lớp.","alts":[]}},
    {"id":"a35-user","hanzi":"user","pinyin":"","vi":"người dùng","ex":{"tokens":["Each","user","needs","a","password","."],"py":["","","","","","."],"vi":"Mỗi người dùng cần một mật khẩu.","alts":[]}}
   ]},
-  {"id":"a36","title":"Y học","desc":"Bệnh nhân, điều trị, phẫu thuật, triệu chứng","icon":"Med","unit":303,"course":"en","order":2010,"words":[
+  {"id":"a36","title":"Y học","desc":"Bệnh nhân, điều trị, phẫu thuật, triệu chứng","icon":"Med","unit":303,"course":"en","order":2050,"words":[
    {"id":"a36-pharmacy","hanzi":"pharmacy","pinyin":"","vi":"hiệu thuốc","ex":{"tokens":["There","is","a","pharmacy","next","to","the","hospital","."],"py":["","","","","","","","","."],"vi":"Có một hiệu thuốc cạnh bệnh viện.","alts":[]}},
    {"id":"a36-treatment","hanzi":"treatment","pinyin":"","vi":"sự điều trị","ex":{"tokens":["The","treatment","takes","three","months","."],"py":["","","","","","."],"vi":"Việc điều trị mất ba tháng.","alts":[]}},
    {"id":"a36-surgery","hanzi":"surgery","pinyin":"","vi":"ca phẫu thuật","ex":{"tokens":["He","needs","surgery","on","his","knee","."],"py":["","","","","","","."],"vi":"Anh ấy cần phẫu thuật đầu gối.","alts":[]}},
@@ -59,7 +59,7 @@
    {"id":"a36-ambulance","hanzi":"ambulance","pinyin":"","vi":"xe cứu thương","ex":{"tokens":["Someone","called","an","ambulance","."],"py":["","","","","."],"vi":"Ai đó đã gọi xe cứu thương.","alts":[]}},
    {"id":"a36-prescription","hanzi":"prescription","pinyin":"","vi":"đơn thuốc","ex":{"tokens":["You","need","a","prescription","for","this","medicine","."],"py":["","","","","","","","."],"vi":"Bạn cần đơn thuốc để mua loại thuốc này.","alts":[]}}
   ]},
-  {"id":"a37","title":"Sức khỏe tinh thần","desc":"Căng thẳng, áp lực, thư giãn, giấc ngủ","icon":"Mind","unit":303,"course":"en","order":2020,"words":[
+  {"id":"a37","title":"Sức khỏe tinh thần","desc":"Căng thẳng, áp lực, thư giãn, giấc ngủ","icon":"Mind","unit":303,"course":"en","order":2060,"words":[
    {"id":"a37-stress","hanzi":"stress","pinyin":"","vi":"sự căng thẳng","ex":{"tokens":["Exercise","helps","reduce","stress","."],"py":["","","","","."],"vi":"Tập thể dục giúp giảm căng thẳng.","alts":[]}},
    {"id":"a37-pressure","hanzi":"pressure","pinyin":"","vi":"áp lực","ex":{"tokens":["Students","are","under","a","lot","of","pressure","."],"py":["","","","","","","","."],"vi":"Học sinh đang chịu rất nhiều áp lực.","alts":[]}},
    {"id":"a37-mental","hanzi":"mental","pinyin":"","vi":"thuộc tinh thần","ex":{"tokens":["Mental","health","is","as","important","as","the","body","."],"py":["","","","","","","","","."],"vi":"Sức khỏe tinh thần quan trọng như cơ thể.","alts":[]}},
@@ -73,7 +73,7 @@
    {"id":"a37-cope","hanzi":"cope","pinyin":"","vi":"đối phó, xoay xở","ex":{"tokens":["She","can","cope","with","difficult","customers","."],"py":["","","","","","","."],"vi":"Cô ấy có thể đối phó với những khách hàng khó tính.","alts":[]}},
    {"id":"a37-balance","hanzi":"balance","pinyin":"","vi":"sự cân bằng","ex":{"tokens":["You","need","a","balance","between","work","and","rest","."],"py":["","","","","","","","","."],"vi":"Bạn cần sự cân bằng giữa làm việc và nghỉ ngơi.","alts":[]}}
   ]},
-  {"id":"a38","title":"Cơ thể người","desc":"Tim, phổi, não, xương, da","icon":"Body","unit":303,"course":"en","order":2030,"words":[
+  {"id":"a38","title":"Cơ thể người","desc":"Tim, phổi, não, xương, da","icon":"Body","unit":303,"course":"en","order":2070,"words":[
    {"id":"a38-heart","hanzi":"heart","pinyin":"","vi":"trái tim","ex":{"tokens":["Running","is","good","for","your","heart","."],"py":["","","","","","","."],"vi":"Chạy bộ tốt cho tim của bạn.","alts":[]}},
    {"id":"a38-lung","hanzi":"lung","pinyin":"","vi":"phổi","ex":{"tokens":["Smoking","is","bad","for","each","lung","."],"py":["","","","","","","."],"vi":"Hút thuốc có hại cho từng lá phổi.","alts":[]}},
    {"id":"a38-brain","hanzi":"brain","pinyin":"","vi":"bộ não","ex":{"tokens":["The","brain","needs","a","lot","of","energy","."],"py":["","","","","","","","."],"vi":"Bộ não cần rất nhiều năng lượng.","alts":[]}},
@@ -87,7 +87,7 @@
    {"id":"a38-throat","hanzi":"throat","pinyin":"","vi":"cổ họng","ex":{"tokens":["I","have","a","sore","throat","."],"py":["","","","","","."],"vi":"Tôi bị đau họng.","alts":[]}},
    {"id":"a38-chest","hanzi":"chest","pinyin":"","vi":"ngực","ex":{"tokens":["He","felt","a","pain","in","his","chest","."],"py":["","","","","","","","."],"vi":"Anh ấy thấy đau ở ngực.","alts":[]}}
   ]},
-  {"id":"a39","title":"Thể dục và dinh dưỡng","desc":"Vitamin, đạm, calo, lối sống","icon":"Fit","unit":303,"course":"en","order":2040,"words":[
+  {"id":"a39","title":"Thể dục và dinh dưỡng","desc":"Vitamin, đạm, calo, lối sống","icon":"Fit","unit":303,"course":"en","order":2080,"words":[
    {"id":"a39-nutrition","hanzi":"nutrition","pinyin":"","vi":"dinh dưỡng","ex":{"tokens":["Good","nutrition","is","important","for","children","."],"py":["","","","","","","."],"vi":"Dinh dưỡng tốt rất quan trọng với trẻ em.","alts":[]}},
    {"id":"a39-vitamin","hanzi":"vitamin","pinyin":"","vi":"vitamin","ex":{"tokens":["Oranges","have","a","lot","of","vitamin","C","."],"py":["","","","","","","","."],"vi":"Cam có rất nhiều vitamin C.","alts":[]}},
    {"id":"a39-protein","hanzi":"protein","pinyin":"","vi":"chất đạm","ex":{"tokens":["Eggs","are","a","good","source","of","protein","."],"py":["","","","","","","","."],"vi":"Trứng là nguồn chất đạm tốt.","alts":[]}},
@@ -101,7 +101,7 @@
    {"id":"a39-ingredient","hanzi":"ingredient","pinyin":"","vi":"nguyên liệu, thành phần","ex":{"tokens":["Salt","is","an","ingredient","in","most","dishes","."],"py":["","","","","","","","."],"vi":"Muối là nguyên liệu trong hầu hết các món ăn.","alts":[]}},
    {"id":"a39-harmful","hanzi":"harmful","pinyin":"","vi":"có hại","ex":{"tokens":["Too","much","sugar","is","harmful","."],"py":["","","","","","."],"vi":"Quá nhiều đường thì có hại.","alts":[]}}
   ]},
-  {"id":"a40","title":"Môi trường","desc":"Nóng lên toàn cầu, khí thải, tái tạo","icon":"Eco","unit":303,"course":"en","order":2050,"words":[
+  {"id":"a40","title":"Môi trường","desc":"Nóng lên toàn cầu, khí thải, tái tạo","icon":"Eco","unit":303,"course":"en","order":2090,"words":[
    {"id":"a40-global","hanzi":"global","pinyin":"","vi":"toàn cầu","ex":{"tokens":["Global","warming","is","a","serious","problem","."],"py":["","","","","","","."],"vi":"Sự nóng lên toàn cầu là một vấn đề nghiêm trọng.","alts":[]}},
    {"id":"a40-warming","hanzi":"warming","pinyin":"","vi":"sự nóng lên","ex":{"tokens":["Warming","seas","are","dangerous","for","fish","."],"py":["","","","","","","."],"vi":"Biển ấm lên gây nguy hiểm cho cá.","alts":[]}},
    {"id":"a40-carbon","hanzi":"carbon","pinyin":"","vi":"các bon","ex":{"tokens":["Trees","take","carbon","from","the","air","."],"py":["","","","","","","."],"vi":"Cây hấp thụ các bon từ không khí.","alts":[]}},
@@ -115,7 +115,7 @@
    {"id":"a40-reuse","hanzi":"reuse","pinyin":"","vi":"tái sử dụng","ex":{"tokens":["You","can","reuse","this","bottle","."],"py":["","","","","","."],"vi":"Bạn có thể dùng lại cái chai này.","alts":[]}},
    {"id":"a40-sustainable","hanzi":"sustainable","pinyin":"","vi":"bền vững","ex":{"tokens":["We","need","sustainable","farming","."],"py":["","","","","."],"vi":"Chúng ta cần nền nông nghiệp bền vững.","alts":[]}}
   ]},
-  {"id":"a41","title":"Động vật hoang dã","desc":"Loài, tuyệt chủng, môi trường sống, săn bắn","icon":"Wild","unit":303,"course":"en","order":2060,"words":[
+  {"id":"a41","title":"Động vật hoang dã","desc":"Loài, tuyệt chủng, môi trường sống, săn bắn","icon":"Wild","unit":303,"course":"en","order":2100,"words":[
    {"id":"a41-wildlife","hanzi":"wildlife","pinyin":"","vi":"động vật hoang dã","ex":{"tokens":["We","must","protect","wildlife","."],"py":["","","","","."],"vi":"Chúng ta phải bảo vệ động vật hoang dã.","alts":[]}},
    {"id":"a41-species","hanzi":"species","pinyin":"","vi":"loài","ex":{"tokens":["This","species","lives","only","in","Vietnam","."],"py":["","","","","","","."],"vi":"Loài này chỉ sống ở Việt Nam.","alts":[]}},
    {"id":"a41-extinct","hanzi":"extinct","pinyin":"","vi":"tuyệt chủng","ex":{"tokens":["Dinosaurs","are","extinct","."],"py":["","","","."],"vi":"Khủng long đã tuyệt chủng.","alts":[]}},
@@ -129,7 +129,7 @@
    {"id":"a41-bear","hanzi":"bear","pinyin":"","vi":"con gấu","ex":{"tokens":["A","bear","sleeps","all","winter","."],"py":["","","","","","."],"vi":"Gấu ngủ suốt mùa đông.","alts":[]}},
    {"id":"a41-wolf","hanzi":"wolf","pinyin":"","vi":"chó sói","ex":{"tokens":["The","wolf","lives","in","the","forest","."],"py":["","","","","","","."],"vi":"Chó sói sống trong rừng.","alts":[]}}
   ]},
-  {"id":"a42","title":"Thiên tai","desc":"Động đất, lũ lụt, hạn hán, cứu hộ","icon":"SOS","unit":303,"course":"en","order":2070,"words":[
+  {"id":"a42","title":"Thiên tai","desc":"Động đất, lũ lụt, hạn hán, cứu hộ","icon":"SOS","unit":303,"course":"en","order":2110,"words":[
    {"id":"a42-disaster","hanzi":"disaster","pinyin":"","vi":"thảm họa","ex":{"tokens":["The","flood","was","a","terrible","disaster","."],"py":["","","","","","","."],"vi":"Trận lũ là một thảm họa khủng khiếp.","alts":[]}},
    {"id":"a42-earthquake","hanzi":"earthquake","pinyin":"","vi":"động đất","ex":{"tokens":["The","earthquake","destroyed","many","houses","."],"py":["","","","","","."],"vi":"Trận động đất đã phá hủy nhiều ngôi nhà.","alts":[]}},
    {"id":"a42-flood","hanzi":"flood","pinyin":"","vi":"lũ lụt","ex":{"tokens":["The","flood","covered","the","whole","village","."],"py":["","","","","","","."],"vi":"Nước lũ đã nhấn chìm cả ngôi làng.","alts":[]}},
@@ -143,7 +143,7 @@
    {"id":"a42-temperature","hanzi":"temperature","pinyin":"","vi":"nhiệt độ","ex":{"tokens":["The","temperature","is","thirty","degrees","today","."],"py":["","","","","","","."],"vi":"Hôm nay nhiệt độ là ba mươi độ.","alts":[]}},
    {"id":"a42-forecast","hanzi":"forecast","pinyin":"","vi":"dự báo","ex":{"tokens":["The","weather","forecast","says","it","will","rain","."],"py":["","","","","","","","."],"vi":"Dự báo thời tiết nói rằng trời sẽ mưa.","alts":[]}}
   ]},
-  {"id":"a43","title":"Địa lý","desc":"Lục địa, đại dương, biên giới, thủ đô","icon":"Geo","unit":303,"course":"en","order":2080,"words":[
+  {"id":"a43","title":"Địa lý","desc":"Lục địa, đại dương, biên giới, thủ đô","icon":"Geo","unit":303,"course":"en","order":2120,"words":[
    {"id":"a43-continent","hanzi":"continent","pinyin":"","vi":"châu lục, lục địa","ex":{"tokens":["Asia","is","the","largest","continent","."],"py":["","","","","","."],"vi":"Châu Á là châu lục lớn nhất.","alts":[]}},
    {"id":"a43-ocean","hanzi":"ocean","pinyin":"","vi":"đại dương","ex":{"tokens":["The","ocean","is","very","deep","here","."],"py":["","","","","","","."],"vi":"Đại dương ở đây rất sâu.","alts":[]}},
    {"id":"a43-border","hanzi":"border","pinyin":"","vi":"biên giới","ex":{"tokens":["We","crossed","the","border","by","bus","."],"py":["","","","","","","."],"vi":"Chúng tôi đã qua biên giới bằng xe buýt.","alts":[]}},
@@ -157,7 +157,7 @@
    {"id":"a43-north","hanzi":"north","pinyin":"","vi":"phía bắc","ex":{"tokens":["It","is","colder","in","the","north","."],"py":["","","","","","","."],"vi":"Ở phía bắc lạnh hơn.","alts":[]}},
    {"id":"a43-south","hanzi":"south","pinyin":"","vi":"phía nam","ex":{"tokens":["Birds","fly","south","in","winter","."],"py":["","","","","","."],"vi":"Chim bay về phía nam vào mùa đông.","alts":[]}}
   ]},
-  {"id":"a44","title":"Vũ trụ","desc":"Hành tinh, phi hành gia, tên lửa, trọng lực","icon":"Sp","unit":303,"course":"en","order":2090,"words":[
+  {"id":"a44","title":"Vũ trụ","desc":"Hành tinh, phi hành gia, tên lửa, trọng lực","icon":"Sp","unit":303,"course":"en","order":2130,"words":[
    {"id":"a44-space","hanzi":"space","pinyin":"","vi":"vũ trụ, không gian","ex":{"tokens":["She","wants","to","travel","into","space","."],"py":["","","","","","","."],"vi":"Cô ấy muốn du hành vào vũ trụ.","alts":[]}},
    {"id":"a44-planet","hanzi":"planet","pinyin":"","vi":"hành tinh","ex":{"tokens":["Mars","is","called","the","red","planet","."],"py":["","","","","","","."],"vi":"Sao Hỏa được gọi là hành tinh đỏ.","alts":[]}},
    {"id":"a44-astronaut","hanzi":"astronaut","pinyin":"","vi":"phi hành gia","ex":{"tokens":["The","astronaut","spent","a","year","in","space","."],"py":["","","","","","","","."],"vi":"Phi hành gia đã ở một năm trong vũ trụ.","alts":[]}},
@@ -171,7 +171,7 @@
    {"id":"a44-explore","hanzi":"explore","pinyin":"","vi":"khám phá, thám hiểm","ex":{"tokens":["Scientists","want","to","explore","the","deep","sea","."],"py":["","","","","","","","."],"vi":"Các nhà khoa học muốn khám phá biển sâu.","alts":[]}},
    {"id":"a44-mission","hanzi":"mission","pinyin":"","vi":"sứ mệnh, nhiệm vụ","ex":{"tokens":["The","mission","to","the","moon","was","a","success","."],"py":["","","","","","","","","."],"vi":"Sứ mệnh lên mặt trăng đã thành công.","alts":[]}}
   ]},
-  {"id":"a45","title":"Năng lượng và tài nguyên","desc":"Dầu mỏ, than, khoáng sản, nguồn nước","icon":"Oil","unit":303,"course":"en","order":2100,"words":[
+  {"id":"a45","title":"Năng lượng và tài nguyên","desc":"Dầu mỏ, than, khoáng sản, nguồn nước","icon":"Oil","unit":303,"course":"en","order":2140,"words":[
    {"id":"a45-resource","hanzi":"resource","pinyin":"","vi":"tài nguyên","ex":{"tokens":["Water","is","a","valuable","resource","."],"py":["","","","","","."],"vi":"Nước là một tài nguyên quý giá.","alts":[]}},
    {"id":"a45-oil","hanzi":"oil","pinyin":"","vi":"dầu","ex":{"tokens":["The","price","of","oil","went","up","again","."],"py":["","","","","","","","."],"vi":"Giá dầu lại tăng.","alts":[]}},
    {"id":"a45-coal","hanzi":"coal","pinyin":"","vi":"than đá","ex":{"tokens":["This","factory","still","burns","coal","."],"py":["","","","","","."],"vi":"Nhà máy này vẫn đốt than.","alts":[]}},
@@ -185,7 +185,7 @@
    {"id":"a45-consume","hanzi":"consume","pinyin":"","vi":"tiêu thụ","ex":{"tokens":["Big","cities","consume","a","lot","of","energy","."],"py":["","","","","","","","."],"vi":"Các thành phố lớn tiêu thụ rất nhiều năng lượng.","alts":[]}},
    {"id":"a45-shortage","hanzi":"shortage","pinyin":"","vi":"sự thiếu hụt","ex":{"tokens":["There","is","a","water","shortage","this","summer","."],"py":["","","","","","","","."],"vi":"Mùa hè này bị thiếu nước.","alts":[]}}
   ]},
-  {"id":"a46","title":"Nông nghiệp","desc":"Trang trại, chăn nuôi, phân bón, hữu cơ","icon":"Agri","unit":303,"course":"en","order":2110,"words":[
+  {"id":"a46","title":"Nông nghiệp","desc":"Trang trại, chăn nuôi, phân bón, hữu cơ","icon":"Agri","unit":303,"course":"en","order":2150,"words":[
    {"id":"a46-agriculture","hanzi":"agriculture","pinyin":"","vi":"nông nghiệp","ex":{"tokens":["Agriculture","is","important","for","the","economy","."],"py":["","","","","","","."],"vi":"Nông nghiệp quan trọng đối với nền kinh tế.","alts":[]}},
    {"id":"a46-farm","hanzi":"farm","pinyin":"","vi":"trang trại","ex":{"tokens":["They","have","a","small","farm","near","the","river","."],"py":["","","","","","","","","."],"vi":"Họ có một trang trại nhỏ gần sông.","alts":[]}},
    {"id":"a46-grow","hanzi":"grow","pinyin":"","vi":"trồng, lớn lên","ex":{"tokens":["We","grow","tomatoes","in","our","garden","."],"py":["","","","","","","."],"vi":"Chúng tôi trồng cà chua trong vườn.","alts":[]}},
@@ -199,7 +199,7 @@
    {"id":"a46-produce","hanzi":"produce","pinyin":"","vi":"sản xuất","ex":{"tokens":["These","farms","produce","milk","and","cheese","."],"py":["","","","","","","."],"vi":"Những trang trại này sản xuất sữa và phô mai.","alts":[]}},
    {"id":"a46-tractor","hanzi":"tractor","pinyin":"","vi":"máy kéo","ex":{"tokens":["The","farmer","drives","a","red","tractor","."],"py":["","","","","","","."],"vi":"Người nông dân lái một chiếc máy kéo màu đỏ.","alts":[]}}
   ]},
-  {"id":"a47","title":"Giao thông vận tải","desc":"Phương tiện, đường cao tốc, hành khách, tai nạn","icon":"Go","unit":303,"course":"en","order":2120,"words":[
+  {"id":"a47","title":"Giao thông vận tải","desc":"Phương tiện, đường cao tốc, hành khách, tai nạn","icon":"Go","unit":303,"course":"en","order":2160,"words":[
    {"id":"a47-vehicle","hanzi":"vehicle","pinyin":"","vi":"phương tiện, xe cộ","ex":{"tokens":["This","vehicle","can","carry","ten","people","."],"py":["","","","","","","."],"vi":"Phương tiện này có thể chở mười người.","alts":[]}},
    {"id":"a47-highway","hanzi":"highway","pinyin":"","vi":"đường cao tốc","ex":{"tokens":["The","highway","is","busy","on","Friday","."],"py":["","","","","","","."],"vi":"Đường cao tốc đông vào thứ Sáu.","alts":[]}},
    {"id":"a47-passenger","hanzi":"passenger","pinyin":"","vi":"hành khách","ex":{"tokens":["Each","passenger","can","bring","one","bag","."],"py":["","","","","","","."],"vi":"Mỗi hành khách được mang một túi.","alts":[]}},
@@ -213,7 +213,7 @@
    {"id":"a47-helmet","hanzi":"helmet","pinyin":"","vi":"mũ bảo hiểm","ex":{"tokens":["Always","wear","a","helmet","on","a","motorbike","."],"py":["","","","","","","","."],"vi":"Luôn đội mũ bảo hiểm khi đi xe máy.","alts":[]}},
    {"id":"a47-fare","hanzi":"fare","pinyin":"","vi":"tiền vé, cước phí","ex":{"tokens":["The","bus","fare","is","seven","thousand","dong","."],"py":["","","","","","","","."],"vi":"Vé xe buýt là bảy nghìn đồng.","alts":[]}}
   ]},
-  {"id":"a48","title":"Kiến trúc và xây dựng","desc":"Tòa nhà, thiết kế, vật liệu, kiến trúc sư","icon":"Arch","unit":303,"course":"en","order":2130,"words":[
+  {"id":"a48","title":"Kiến trúc và xây dựng","desc":"Tòa nhà, thiết kế, vật liệu, kiến trúc sư","icon":"Arch","unit":303,"course":"en","order":2170,"words":[
    {"id":"a48-architecture","hanzi":"architecture","pinyin":"","vi":"kiến trúc","ex":{"tokens":["I","love","the","architecture","of","old","Hanoi","."],"py":["","","","","","","","."],"vi":"Tôi yêu kiến trúc của Hà Nội xưa.","alts":[]}},
    {"id":"a48-architect","hanzi":"architect","pinyin":"","vi":"kiến trúc sư","ex":{"tokens":["The","architect","designed","a","modern","school","."],"py":["","","","","","","."],"vi":"Kiến trúc sư đã thiết kế một ngôi trường hiện đại.","alts":[]}},
    {"id":"a48-building","hanzi":"building","pinyin":"","vi":"tòa nhà","ex":{"tokens":["That","building","is","a","hospital","."],"py":["","","","","","."],"vi":"Tòa nhà đó là một bệnh viện.","alts":[]}},

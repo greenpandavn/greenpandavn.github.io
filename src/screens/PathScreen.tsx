@@ -28,7 +28,7 @@ const NODE_GLYPH: Record<string, string> = {
   bonusfood: '饺', bonusbody: '手',
 };
 
-export default function PathScreen({ onStart, onTest, onMock, onGame }: { onStart: (lessonId: string) => void; onTest: (unit: number) => void; onMock: () => void; onGame: () => void }) {
+export default function PathScreen({ onStart, onTest, onMock, onGame }: { onStart: (lessonId: string) => void; onTest: (unit: number) => void; onMock: (target?: string) => void; onGame: () => void }) {
   const p = useProgress();
   useContentVersion();
   const en = isEnglish();
@@ -68,7 +68,7 @@ export default function PathScreen({ onStart, onTest, onMock, onGame }: { onStar
       </div>
 
       {(
-        <button type="button" className="card mb-4 flex w-full items-center gap-3 text-left" onClick={onMock} data-testid="open-mock">
+        <button type="button" className="card mb-4 flex w-full items-center gap-3 text-left" onClick={() => onMock()} data-testid="open-mock">
           <span className="flex h-11 w-11 shrink-0 items-center justify-center rounded-xl bg-sun-100 text-sun-600">
             <Trophy size={26} />
           </span>
@@ -81,6 +81,24 @@ export default function PathScreen({ onStart, onTest, onMock, onGame }: { onStar
           </span>
         </button>
       )}
+      {en &&
+        [
+          { id: 'placement', icon: '🎯', title: 'Kiểm tra trình độ đầu vào', sub: 'Khoảng 40 câu · xếp trình độ A1–C1 trước khi học' },
+          { id: 'listening', icon: '🎧', title: 'Luyện nghe tiếng Anh', sub: 'Bài nghe ngắn theo từng Phần · nghe và chọn đáp án' },
+        ].map((x) => (
+          <button key={x.id} type="button" className="card mb-4 flex w-full items-center gap-3 text-left" onClick={() => onMock(x.id)} data-testid={`open-${x.id}`}>
+            <span className="flex h-11 w-11 shrink-0 items-center justify-center rounded-xl bg-sky-500/10 text-2xl" aria-hidden>
+              {x.icon}
+            </span>
+            <span className="min-w-0 flex-1">
+              <span className="block font-black text-ink-700">{x.title}</span>
+              <span className="block text-xs font-bold text-ink-400">{x.sub}</span>
+            </span>
+            <span className="text-xl font-black text-ink-300" aria-hidden>
+              ›
+            </span>
+          </button>
+        ))}
       <button type="button" className="card mb-4 flex w-full items-center gap-3 text-left" onClick={onGame} data-testid="open-game">
         <span className="flex h-11 w-11 shrink-0 items-center justify-center rounded-xl bg-leaf-100 text-2xl" aria-hidden>
           🎮

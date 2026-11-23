@@ -11,6 +11,7 @@ import {
 } from "../data";
 import { GRAMMAR, READING } from "../data/enMock";
 import { shuffle } from "./exercises";
+import { parsePaper } from "./paper";
 
 /**
  * "Thi thử HSK": full-length, timed mock exams generated from the course vocabulary.
@@ -53,6 +54,10 @@ export interface MockSpec {
   minutes: number;
   pass: number;
   sections: { id: MockSection; parts: { type: PartType; count: number }[] }[];
+  /** Hand-written paper (see ./paper): the questions come from this text instead of the course vocabulary. */
+  paper?: string;
+  /** Placement test: lowest number of right answers for each estimated level. */
+  bands?: [number, string][];
 }
 
 type PartType =
@@ -771,6 +776,7 @@ function bankQuestions(
 }
 /** Build one paper. Every vocabulary question tests a different word of the level; distractors come from the same level. */
 export function buildMock(spec: MockSpec): MockQuestion[] {
+  if (spec.paper) return parsePaper(spec.paper);
   const pool = levelWords(spec.level, spec.course);
   const queue = shuffle(pool);
   const out: MockQuestion[] = [];

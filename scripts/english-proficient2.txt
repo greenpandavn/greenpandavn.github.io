@@ -353,3 +353,31 @@ inkling|ý niệm mơ hồ, sự ngờ ngợ|I had no inkling of the plan.|Tôi 
 limbo|tình trạng lấp lửng|The project is in limbo until May.|Dự án đang trong tình trạng lấp lửng đến tháng Năm.
 onus|trách nhiệm, nghĩa vụ|The onus is on you to prove it.|Trách nhiệm chứng minh thuộc về bạn.
 overhaul|cuộc đại tu; đại tu|The tax system needs a complete overhaul.|Hệ thống thuế cần được đại tu toàn diện.
+
+@q26|Đời sống số và giải trí|An ninh mạng, mã hóa, máy chủ, nhạc phim, xổ số|Digital
+cybersecurity|an ninh mạng|The bank invests heavily in cybersecurity.|Ngân hàng đầu tư mạnh vào an ninh mạng.
+encryption|sự mã hóa|Encryption keeps your messages private.|Mã hóa giữ cho tin nhắn của bạn được riêng tư.
+server|máy chủ|The website went down when the server crashed.|Trang web ngừng hoạt động khi máy chủ gặp sự cố.
+patch|bản vá, miếng vá|Install the latest patch to fix the problem.|Hãy cài bản vá mới nhất để sửa lỗi.
+chatbot|trợ lý trò chuyện tự động|A chatbot answers common questions at night.|Một chatbot trả lời các câu hỏi thường gặp vào ban đêm.
+hyperlink|siêu liên kết|The hyperlink in the email was broken.|Siêu liên kết trong email bị hỏng.
+meme|ảnh chế|The photo quickly became a popular meme.|Bức ảnh nhanh chóng trở thành một ảnh chế phổ biến.
+soundtrack|nhạc phim|The soundtrack won an award.|Nhạc phim đã giành một giải thưởng.
+trailer|đoạn giới thiệu phim|The trailer revealed too much of the story.|Đoạn giới thiệu phim tiết lộ quá nhiều nội dung.
+lottery|xổ số|He buys a lottery ticket every week.|Tuần nào anh ấy cũng mua một tờ vé số.
+jackpot|giải độc đắc|Nobody won the jackpot this month.|Tháng này không ai trúng giải độc đắc.
+gamble|đánh bạc, đánh liều|It is unwise to gamble with your savings.|Đánh liều với tiền tiết kiệm của mình là thiếu khôn ngoan.
+
+@q27|Cử động và thao tác|Vấp, rắc, ướp, nhào bột, vẽ nguệch ngoạc|Move
+stumble|vấp, loạng choạng|Be careful not to stumble on the stairs.|Cẩn thận kẻo vấp ở cầu thang.
+tumble|ngã nhào|Prices began to tumble after the news.|Giá cả bắt đầu lao dốc sau tin tức đó.
+sprinkle|rắc|Sprinkle some salt over the salad.|Hãy rắc một ít muối lên món rau trộn.
+marinate|ướp|Marinate the chicken for two hours.|Hãy ướp thịt gà trong hai giờ.
+knead|nhào (bột)|Knead the dough until it is smooth.|Hãy nhào bột cho đến khi mịn.
+scribble|viết nguệch ngoạc|Let me scribble down your address.|Để tôi ghi vội địa chỉ của bạn.
+doodle|vẽ vu vơ|I often doodle during long meetings.|Tôi hay vẽ vu vơ trong những cuộc họp dài.
+sketch|phác thảo|The architect made a quick sketch of the house.|Kiến trúc sư phác thảo nhanh ngôi nhà.
+smudge|vết nhòe, làm nhòe|There is a smudge on the screen.|Có một vết nhòe trên màn hình.
+fidget|cựa quậy bồn chồn|Children fidget when they are bored.|Trẻ con hay cựa quậy khi chán.
+clockwise|theo chiều kim đồng hồ|Turn the handle clockwise to open it.|Xoay tay nắm theo chiều kim đồng hồ để mở.
+sideways|sang một bên, ngang|The crab walks sideways.|Con cua bò ngang.

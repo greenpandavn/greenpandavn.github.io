@@ -353,3 +353,31 @@ front|phía trước|Sit in the front of the bus.|Hãy ngồi ở phía trước
 edge|mép, rìa|Do not stand on the edge.|Đừng đứng ở mép.
 side|bên, phía|Walk on this side of the road.|Hãy đi ở bên này đường.
 center|trung tâm, ở giữa|The shop is in the center of town.|Cửa hàng nằm ở trung tâm thị trấn.
+
+@c26|Hoa, cây và trò chơi ngoài trời|Hoa hướng dương, tre, xương rồng, cái võng|Flower
+sunflower|hoa hướng dương|The sunflower is tall and yellow.|Hoa hướng dương cao và có màu vàng.
+daisy|hoa cúc|She picks a white daisy.|Cô ấy hái một bông cúc trắng.
+tulip|hoa tulip|I gave my mother a red tulip.|Tôi tặng mẹ một bông tulip đỏ.
+lily|hoa huệ, hoa loa kèn|A lily smells very nice.|Hoa huệ có mùi rất thơm.
+orchid|hoa lan|My aunt has a purple orchid.|Dì tôi có một cây lan màu tím.
+cactus|cây xương rồng|A cactus needs little water.|Cây xương rồng cần ít nước.
+bamboo|cây tre|Pandas eat bamboo every day.|Gấu trúc ăn tre mỗi ngày.
+fern|cây dương xỉ|There is a green fern by the door.|Có một cây dương xỉ xanh cạnh cửa.
+hammock|cái võng|Grandpa sleeps in a hammock.|Ông ngủ trên một cái võng.
+trampoline|bạt nhún|The kids jump on the trampoline.|Bọn trẻ nhảy trên bạt nhún.
+marshmallow|kẹo dẻo|I want one more marshmallow.|Con muốn thêm một viên kẹo dẻo nữa.
+mittens|găng tay liền ngón|Wear your mittens when it is cold.|Hãy đeo găng tay khi trời lạnh.
+
+@c27|Đồ uống, đồ dùng học tập|Sinh tố, nước chanh, máy tính bỏ túi, bảng trắng|Drink
+smoothie|sinh tố|I drink a mango smoothie.|Tôi uống một ly sinh tố xoài.
+milkshake|sữa lắc|He orders a chocolate milkshake.|Cậu ấy gọi một ly sữa lắc sô-cô-la.
+lemonade|nước chanh|This lemonade is cold and sweet.|Ly nước chanh này lạnh và ngọt.
+omelet|trứng tráng|Dad makes an omelet for breakfast.|Bố làm món trứng tráng cho bữa sáng.
+avocado|quả bơ|This avocado is soft.|Quả bơ này mềm.
+slippers|dép đi trong nhà|My slippers are under the bed.|Đôi dép đi trong nhà của tôi ở dưới giường.
+overalls|quần yếm|The baby wears blue overalls.|Em bé mặc quần yếm màu xanh.
+calculator|máy tính bỏ túi|You can use a calculator in this test.|Em được dùng máy tính bỏ túi trong bài kiểm tra này.
+notepad|sổ ghi chép|Write the number on your notepad.|Hãy viết con số vào sổ ghi chép của em.
+whiteboard|bảng trắng|The teacher writes on the whiteboard.|Cô giáo viết lên bảng trắng.
+paperclip|cái kẹp giấy|I need a paperclip for these pages.|Tôi cần một cái kẹp giấy cho mấy trang này.
+quiz|bài kiểm tra ngắn|We have a short quiz today.|Hôm nay chúng em có một bài kiểm tra ngắn.

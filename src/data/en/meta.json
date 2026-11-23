@@ -114,6 +114,8 @@
   ["c23","Mùi vị và lời cảm thán","Yummy",104,12],
   ["c24","Nghề nghiệp 3","Sailor",104,12],
   ["c25","Vị trí và số lượng","Middle",104,12],
+  ["c26","Hoa, cây và trò chơi ngoài trời","Flower",104,12],
+  ["c27","Đồ uống, đồ dùng học tập","Drink",104,12],
   ["e31","Thì quá khứ đơn","Was",5,12],
   ["e32","Từ chỉ thời gian","Ago",5,12],
   ["e33","Tương lai và kế hoạch","Will",5,12],
@@ -200,6 +202,8 @@
   ["n23","Trạng từ tần suất và mức độ","Often",205,12],
   ["n24","Trạng từ trong hội thoại","Talk",205,12],
   ["n25","Bạn bè và tính nết","Friend",205,12],
+  ["n26","Mạng và thiết bị","Web",205,12],
+  ["n27","Trên đường và tính nết","Road",205,12],
   ["a01","Xin việc","CV",301,12],
   ["a02","Nơi làm việc","Job",301,12],
   ["a03","Công việc văn phòng","Doc",301,12],
@@ -289,6 +293,8 @@
   ["r23","Tính từ và động từ mạnh","Bold",306,12],
   ["r24","Cụm động từ 5","Phrase",306,12],
   ["r25","Cụm động từ 6","Phrase",306,12],
+  ["r26","Việc làm thời nay","Work",306,12],
+  ["r27","Môi trường và y tế","Green",306,12],
   ["p01","Viết học thuật","Essay",401,12],
   ["p02","Lập luận","Logic",401,12],
   ["p03","Tư duy phản biện","Think",401,12],
@@ -378,6 +384,8 @@
   ["q23","Cụm động từ và cụm từ nâng cao","Phrase",406,12],
   ["q24","Trạng từ trang trọng","Adverb",406,12],
   ["q25","Danh từ sắc thái","Noun",406,12],
+  ["q26","Đời sống số và giải trí","Digital",406,12],
+  ["q27","Cử động và thao tác","Move",406,12],
   ["x01","Phương pháp nghiên cứu","Method",501,12],
   ["x02","Xuất bản học thuật","Journal",501,12],
   ["x03","Ngôn ngữ học","Language",501,12],
@@ -441,6 +449,7 @@
   ["x61","Phẩm chất","Virtue",504,12],
   ["x62","Thói xấu","Vice",504,12],
   ["x63","Lượng và mức độ","Amount",504,12],
-  ["x64","Từ trang trọng trong văn bản","Formal",504,12]
+  ["x64","Từ trang trọng trong văn bản","Formal",504,12],
+  ["x65","Lối sống và dịp gặp gỡ","Life",504,12]
  ]
 }

@@ -3,7 +3,7 @@
   {"unit":404,"level":4,"title":"Phần 4: Diễn đạt tinh tế","desc":"Sắc thái, thành ngữ, cụm động từ, tu từ, nhấn mạnh","color":"coral","course":"en"}
  ],
  "lessons": [
-  {"id":"p49","title":"Tính từ chính xác","desc":"Tinh tế, mơ hồ, toàn diện, hời hợt","icon":"Adj","unit":404,"course":"en","order":3030,"words":[
+  {"id":"p49","title":"Tính từ chính xác","desc":"Tinh tế, mơ hồ, toàn diện, hời hợt","icon":"Adj","unit":404,"course":"en","order":3090,"words":[
    {"id":"p49-subtle","hanzi":"subtle","pinyin":"","vi":"tinh tế, khó nhận thấy","ex":{"tokens":["There","is","a","subtle","difference","in","taste","."],"py":["","","","","","","","."],"vi":"Có một sự khác biệt tinh tế về hương vị.","alts":[]}},
    {"id":"p49-vague","hanzi":"vague","pinyin":"","vi":"mơ hồ","ex":{"tokens":["His","answer","was","very","vague","."],"py":["","","","","","."],"vi":"Câu trả lời của anh ấy rất mơ hồ.","alts":[]}},
    {"id":"p49-comprehensive","hanzi":"comprehensive","pinyin":"","vi":"toàn diện","ex":{"tokens":["The","book","gives","a","comprehensive","view","of","the","war","."],"py":["","","","","","","","","","."],"vi":"Cuốn sách đưa ra cái nhìn toàn diện về cuộc chiến.","alts":[]}},
@@ -17,7 +17,7 @@
    {"id":"p49-remarkable","hanzi":"remarkable","pinyin":"","vi":"đáng chú ý, phi thường","ex":{"tokens":["She","made","a","remarkable","recovery","."],"py":["","","","","","."],"vi":"Cô ấy đã hồi phục một cách phi thường.","alts":[]}},
    {"id":"p49-adequate","hanzi":"adequate","pinyin":"","vi":"đủ, thỏa đáng","ex":{"tokens":["The","room","is","small","but","adequate","."],"py":["","","","","","","."],"vi":"Căn phòng nhỏ nhưng đủ dùng.","alts":[]}}
   ]},
-  {"id":"p50","title":"Động từ sắc thái","desc":"Ám chỉ, phóng đại, đánh giá thấp, lưỡng lự","icon":"Verb","unit":404,"course":"en","order":3040,"words":[
+  {"id":"p50","title":"Động từ sắc thái","desc":"Ám chỉ, phóng đại, đánh giá thấp, lưỡng lự","icon":"Verb","unit":404,"course":"en","order":3100,"words":[
    {"id":"p50-exaggerate","hanzi":"exaggerate","pinyin":"","vi":"phóng đại","ex":{"tokens":["Do","not","exaggerate","the","problem","."],"py":["","","","","","."],"vi":"Đừng phóng đại vấn đề.","alts":[]}},
    {"id":"p50-underestimate","hanzi":"underestimate","pinyin":"","vi":"đánh giá thấp","ex":{"tokens":["Never","underestimate","your","opponent","."],"py":["","","","","."],"vi":"Đừng bao giờ đánh giá thấp đối thủ.","alts":[]}},
    {"id":"p50-hesitate","hanzi":"hesitate","pinyin":"","vi":"do dự, ngần ngại","ex":{"tokens":["Do","not","hesitate","to","ask","for","help","."],"py":["","","","","","","","."],"vi":"Đừng ngần ngại nhờ giúp đỡ.","alts":[]}},
@@ -31,7 +31,7 @@
    {"id":"p50-tolerate","hanzi":"tolerate","pinyin":"","vi":"chịu đựng, dung thứ","ex":{"tokens":["I","cannot","tolerate","this","noise","."],"py":["","","","","","."],"vi":"Tôi không thể chịu được tiếng ồn này.","alts":[]}},
    {"id":"p50-anticipate","hanzi":"anticipate","pinyin":"","vi":"lường trước, mong đợi","ex":{"tokens":["We","anticipate","a","large","crowd","."],"py":["","","","","","."],"vi":"Chúng tôi dự đoán sẽ có đông người.","alts":[]}}
   ]},
-  {"id":"p51","title":"Từ nối trang trọng","desc":"Hơn nữa, do đó, ngược lại, tức là","icon":"Thus","unit":404,"course":"en","order":3050,"words":[
+  {"id":"p51","title":"Từ nối trang trọng","desc":"Hơn nữa, do đó, ngược lại, tức là","icon":"Thus","unit":404,"course":"en","order":3110,"words":[
    {"id":"p51-thus","hanzi":"thus","pinyin":"","vi":"do đó, như vậy","ex":{"tokens":["He","was","ill","and","thus","could","not","come","."],"py":["","","","","","","","","."],"vi":"Anh ấy bị ốm và do đó không thể đến.","alts":[]}},
    {"id":"p51-consequently","hanzi":"consequently","pinyin":"","vi":"vì vậy, hệ quả là","ex":{"tokens":["It","rained","all","day",".","Consequently",",","the","match","was","canceled","."],"py":["","","","",".","",",","","","","","."],"vi":"Trời mưa cả ngày. Vì vậy, trận đấu đã bị hủy.","alts":[]}},
    {"id":"p51-nonetheless","hanzi":"nonetheless","pinyin":"","vi":"tuy vậy","ex":{"tokens":["The","task","was","hard",".","Nonetheless",",","we","finished","it","."],"py":["","","","",".","",",","","","","."],"vi":"Nhiệm vụ rất khó. Tuy vậy, chúng tôi đã hoàn thành.","alts":[]}},
@@ -45,7 +45,7 @@
    {"id":"p51-in_contrast","hanzi":"in contrast","pinyin":"","vi":"trái lại","ex":{"tokens":["In","contrast",",","the","south","is","warm","all","year","."],"py":["","",",","","","","","","","."],"vi":"Trái lại, miền nam ấm áp quanh năm.","alts":[]}},
    {"id":"p51-to_sum_up","hanzi":"to sum up","pinyin":"","vi":"tóm lại","ex":{"tokens":["To","sum","up",",","we","need","more","time","."],"py":["","","",",","","","","","."],"vi":"Tóm lại, chúng ta cần thêm thời gian.","alts":[]}}
   ]},
-  {"id":"p52","title":"Thành ngữ 2","desc":"Break the ice, a piece of cake, under the weather","icon":"Idm","unit":404,"course":"en","order":3060,"words":[
+  {"id":"p52","title":"Thành ngữ 2","desc":"Break the ice, a piece of cake, under the weather","icon":"Idm","unit":404,"course":"en","order":3120,"words":[
    {"id":"p52-break_the_ice","hanzi":"break the ice","pinyin":"","vi":"phá vỡ sự ngượng ngùng ban đầu","ex":{"tokens":["A","joke","can","break","the","ice","."],"py":["","","","","","","."],"vi":"Một câu đùa có thể phá vỡ sự ngượng ngùng.","alts":[]}},
    {"id":"p52-a_piece_of_cake","hanzi":"a piece of cake","pinyin":"","vi":"dễ như ăn bánh","ex":{"tokens":["The","test","was","a","piece","of","cake","."],"py":["","","","","","","","."],"vi":"Bài kiểm tra dễ như ăn bánh.","alts":[]}},
    {"id":"p52-under_the_weather","hanzi":"under the weather","pinyin":"","vi":"hơi ốm, không khỏe","ex":{"tokens":["I","feel","under","the","weather","today","."],"py":["","","","","","","."],"vi":"Hôm nay tôi thấy không được khỏe.","alts":[]}},
@@ -59,7 +59,7 @@
    {"id":"p52-see_eye_to_eye","hanzi":"see eye to eye","pinyin":"","vi":"đồng quan điểm","ex":{"tokens":["We","do","not","see","eye","to","eye","on","politics","."],"py":["","","","","","","","","","."],"vi":"Chúng tôi không cùng quan điểm về chính trị.","alts":[]}},
    {"id":"p52-the_last_straw","hanzi":"the last straw","pinyin":"","vi":"giọt nước tràn ly","ex":{"tokens":["His","rude","email","was","the","last","straw","."],"py":["","","","","","","","."],"vi":"Email thô lỗ của anh ta là giọt nước tràn ly.","alts":[]}}
   ]},
-  {"id":"p53","title":"Cụm động từ 3","desc":"Come up with, put up with, turn down, bring up","icon":"Phr","unit":404,"course":"en","order":3070,"words":[
+  {"id":"p53","title":"Cụm động từ 3","desc":"Come up with, put up with, turn down, bring up","icon":"Phr","unit":404,"course":"en","order":3130,"words":[
    {"id":"p53-come_up_with","hanzi":"come up with","pinyin":"","vi":"nghĩ ra","ex":{"tokens":["We","need","to","come","up","with","a","new","idea","."],"py":["","","","","","","","","","."],"vi":"Chúng ta cần nghĩ ra một ý tưởng mới.","alts":[]}},
    {"id":"p53-put_up_with","hanzi":"put up with","pinyin":"","vi":"chịu đựng","ex":{"tokens":["I","cannot","put","up","with","the","noise","."],"py":["","","","","","","","."],"vi":"Tôi không thể chịu đựng tiếng ồn.","alts":[]}},
    {"id":"p53-turn_down","hanzi":"turn down","pinyin":"","vi":"từ chối; vặn nhỏ","ex":{"tokens":["She","had","to","turn","down","the","offer","."],"py":["","","","","","","","."],"vi":"Cô ấy đã phải từ chối lời đề nghị.","alts":[]}},
@@ -73,7 +73,7 @@
    {"id":"p53-point_out","hanzi":"point out","pinyin":"","vi":"chỉ ra","ex":{"tokens":["Let","me","point","out","one","mistake","."],"py":["","","","","","","."],"vi":"Để tôi chỉ ra một lỗi.","alts":[]}},
    {"id":"p53-show_up","hanzi":"show up","pinyin":"","vi":"xuất hiện, có mặt","ex":{"tokens":["He","did","not","show","up","for","the","meeting","."],"py":["","","","","","","","","."],"vi":"Anh ấy đã không có mặt trong cuộc họp.","alts":[]}}
   ]},
-  {"id":"p54","title":"Kết hợp từ","desc":"Heavy rain, strong coffee, make progress","icon":"Co","unit":404,"course":"en","order":3080,"words":[
+  {"id":"p54","title":"Kết hợp từ","desc":"Heavy rain, strong coffee, make progress","icon":"Co","unit":404,"course":"en","order":3140,"words":[
    {"id":"p54-heavy_traffic","hanzi":"heavy traffic","pinyin":"","vi":"giao thông đông đúc","ex":{"tokens":["There","is","heavy","traffic","at","five","."],"py":["","","","","","","."],"vi":"Lúc năm giờ giao thông rất đông.","alts":[]}},
    {"id":"p54-strong_coffee","hanzi":"strong coffee","pinyin":"","vi":"cà phê đậm","ex":{"tokens":["I","need","a","strong","coffee","this","morning","."],"py":["","","","","","","","."],"vi":"Sáng nay tôi cần một ly cà phê đậm.","alts":[]}},
    {"id":"p54-make_an_effort","hanzi":"make an effort","pinyin":"","vi":"nỗ lực","ex":{"tokens":["Please","make","an","effort","to","be","on","time","."],"py":["","","","","","","","","."],"vi":"Hãy nỗ lực đến đúng giờ.","alts":[]}},
@@ -87,7 +87,7 @@
    {"id":"p54-draw_a_conclusion","hanzi":"draw a conclusion","pinyin":"","vi":"rút ra kết luận","ex":{"tokens":["It","is","too","early","to","draw","a","conclusion","."],"py":["","","","","","","","","."],"vi":"Còn quá sớm để rút ra kết luận.","alts":[]}},
    {"id":"p54-gain_experience","hanzi":"gain experience","pinyin":"","vi":"tích lũy kinh nghiệm","ex":{"tokens":["Young","workers","need","to","gain","experience","."],"py":["","","","","","","."],"vi":"Người lao động trẻ cần tích lũy kinh nghiệm.","alts":[]}}
   ]},
-  {"id":"p55","title":"Cảm xúc tinh tế","desc":"Hoài niệm, choáng ngợp, bực bội, mãn nguyện","icon":"Mood","unit":404,"course":"en","order":3090,"words":[
+  {"id":"p55","title":"Cảm xúc tinh tế","desc":"Hoài niệm, choáng ngợp, bực bội, mãn nguyện","icon":"Mood","unit":404,"course":"en","order":3150,"words":[
    {"id":"p55-nostalgic","hanzi":"nostalgic","pinyin":"","vi":"hoài niệm","ex":{"tokens":["Old","songs","make","me","nostalgic","."],"py":["","","","","","."],"vi":"Những bài hát cũ làm tôi hoài niệm.","alts":[]}},
    {"id":"p55-overwhelmed","hanzi":"overwhelmed","pinyin":"","vi":"choáng ngợp, quá tải","ex":{"tokens":["I","feel","overwhelmed","by","all","this","work","."],"py":["","","","","","","","."],"vi":"Tôi thấy quá tải vì tất cả công việc này.","alts":[]}},
    {"id":"p55-frustrated","hanzi":"frustrated","pinyin":"","vi":"bực bội, nản lòng","ex":{"tokens":["He","was","frustrated","with","the","slow","internet","."],"py":["","","","","","","","."],"vi":"Anh ấy bực bội vì mạng chậm.","alts":[]}},
@@ -101,7 +101,7 @@
    {"id":"p55-astonished","hanzi":"astonished","pinyin":"","vi":"kinh ngạc","ex":{"tokens":["I","was","astonished","by","the","price","."],"py":["","","","","","","."],"vi":"Tôi kinh ngạc vì giá cả.","alts":[]}},
    {"id":"p55-miserable","hanzi":"miserable","pinyin":"","vi":"khổ sở","ex":{"tokens":["The","cold","rain","made","us","miserable","."],"py":["","","","","","","."],"vi":"Cơn mưa lạnh làm chúng tôi khổ sở.","alts":[]}}
   ]},
-  {"id":"p56","title":"Tính cách nhiều mặt","desc":"Kiêu ngạo, khiêm nhường, tận tâm, đa nghi","icon":"Self","unit":404,"course":"en","order":3100,"words":[
+  {"id":"p56","title":"Tính cách nhiều mặt","desc":"Kiêu ngạo, khiêm nhường, tận tâm, đa nghi","icon":"Self","unit":404,"course":"en","order":3160,"words":[
    {"id":"p56-arrogant","hanzi":"arrogant","pinyin":"","vi":"kiêu ngạo","ex":{"tokens":["Nobody","likes","an","arrogant","boss","."],"py":["","","","","","."],"vi":"Không ai thích một ông chủ kiêu ngạo.","alts":[]}},
    {"id":"p56-humble","hanzi":"humble","pinyin":"","vi":"khiêm nhường","ex":{"tokens":["He","is","rich","but","very","humble","."],"py":["","","","","","","."],"vi":"Ông ấy giàu nhưng rất khiêm nhường.","alts":[]}},
    {"id":"p56-conscientious","hanzi":"conscientious","pinyin":"","vi":"tận tâm, chu đáo","ex":{"tokens":["She","is","a","conscientious","student","."],"py":["","","","","","."],"vi":"Cô ấy là một học sinh tận tâm.","alts":[]}},
@@ -115,7 +115,7 @@
    {"id":"p56-outgoing","hanzi":"outgoing","pinyin":"","vi":"cởi mở, hướng ngoại","ex":{"tokens":["My","sister","is","very","outgoing","."],"py":["","","","","","."],"vi":"Chị gái tôi rất cởi mở.","alts":[]}},
    {"id":"p56-moody","hanzi":"moody","pinyin":"","vi":"tính khí thất thường","ex":{"tokens":["Teenagers","can","be","moody","."],"py":["","","","","."],"vi":"Thanh thiếu niên có thể thất thường.","alts":[]}}
   ]},
-  {"id":"p57","title":"Mô tả sự thay đổi","desc":"Dao động, tăng vọt, chững lại, suy giảm","icon":"Chg","unit":404,"course":"en","order":3110,"words":[
+  {"id":"p57","title":"Mô tả sự thay đổi","desc":"Dao động, tăng vọt, chững lại, suy giảm","icon":"Chg","unit":404,"course":"en","order":3170,"words":[
    {"id":"p57-fluctuate","hanzi":"fluctuate","pinyin":"","vi":"dao động","ex":{"tokens":["Prices","fluctuate","from","day","to","day","."],"py":["","","","","","","."],"vi":"Giá cả dao động từng ngày.","alts":[]}},
    {"id":"p57-soar","hanzi":"soar","pinyin":"","vi":"tăng vọt; bay cao","ex":{"tokens":["House","prices","soar","every","spring","."],"py":["","","","","","."],"vi":"Giá nhà tăng vọt mỗi mùa xuân.","alts":[]}},
    {"id":"p57-plunge","hanzi":"plunge","pinyin":"","vi":"lao dốc, giảm mạnh","ex":{"tokens":["Sales","may","plunge","next","year","."],"py":["","","","","","."],"vi":"Doanh số có thể lao dốc vào năm sau.","alts":[]}},
@@ -129,7 +129,7 @@
    {"id":"p57-evolve","hanzi":"evolve","pinyin":"","vi":"tiến hóa, phát triển dần","ex":{"tokens":["Languages","evolve","over","time","."],"py":["","","","","."],"vi":"Ngôn ngữ phát triển dần theo thời gian.","alts":[]}},
    {"id":"p57-temporary","hanzi":"temporary","pinyin":"","vi":"tạm thời","ex":{"tokens":["This","is","only","a","temporary","job","."],"py":["","","","","","","."],"vi":"Đây chỉ là một công việc tạm thời.","alts":[]}}
   ]},
-  {"id":"p58","title":"Mô tả chất lượng","desc":"Chính hãng, tinh xảo, tầm thường, hoàn hảo","icon":"Qual","unit":404,"course":"en","order":3120,"words":[
+  {"id":"p58","title":"Mô tả chất lượng","desc":"Chính hãng, tinh xảo, tầm thường, hoàn hảo","icon":"Qual","unit":404,"course":"en","order":3180,"words":[
    {"id":"p58-genuine","hanzi":"genuine","pinyin":"","vi":"thật, chính hãng","ex":{"tokens":["Is","this","a","genuine","leather","bag","?"],"py":["","","","","","","?"],"vi":"Đây có phải túi da thật không?","alts":[]}},
    {"id":"p58-superb","hanzi":"superb","pinyin":"","vi":"tuyệt hảo","ex":{"tokens":["The","food","at","the","wedding","was","superb","."],"py":["","","","","","","","."],"vi":"Đồ ăn ở đám cưới thật tuyệt hảo.","alts":[]}},
    {"id":"p58-mediocre","hanzi":"mediocre","pinyin":"","vi":"tầm thường","ex":{"tokens":["The","movie","was","mediocre","at","best","."],"py":["","","","","","","."],"vi":"Bộ phim cùng lắm chỉ ở mức tầm thường.","alts":[]}},
@@ -143,7 +143,7 @@
    {"id":"p58-shabby","hanzi":"shabby","pinyin":"","vi":"tồi tàn, xơ xác","ex":{"tokens":["He","lives","in","a","shabby","old","house","."],"py":["","","","","","","","."],"vi":"Anh ấy sống trong một ngôi nhà cũ tồi tàn.","alts":[]}},
    {"id":"p58-pristine","hanzi":"pristine","pinyin":"","vi":"nguyên sơ, còn mới nguyên","ex":{"tokens":["The","beach","is","still","pristine","."],"py":["","","","","","."],"vi":"Bãi biển vẫn còn nguyên sơ.","alts":[]}}
   ]},
-  {"id":"p59","title":"Biện pháp tu từ","desc":"Ẩn dụ, so sánh, biểu tượng, châm biếm","icon":"Lit","unit":404,"course":"en","order":3130,"words":[
+  {"id":"p59","title":"Biện pháp tu từ","desc":"Ẩn dụ, so sánh, biểu tượng, châm biếm","icon":"Lit","unit":404,"course":"en","order":3190,"words":[
    {"id":"p59-metaphor","hanzi":"metaphor","pinyin":"","vi":"ẩn dụ","ex":{"tokens":["Time","is","money","is","a","common","metaphor","."],"py":["","","","","","","","."],"vi":"Thời gian là tiền bạc là một ẩn dụ phổ biến.","alts":[]}},
    {"id":"p59-simile","hanzi":"simile","pinyin":"","vi":"phép so sánh","ex":{"tokens":["As","brave","as","a","lion","is","a","simile","."],"py":["","","","","","","","","."],"vi":"Dũng cảm như sư tử là một phép so sánh.","alts":[]}},
    {"id":"p59-symbol","hanzi":"symbol","pinyin":"","vi":"biểu tượng","ex":{"tokens":["The","dove","is","a","symbol","of","peace","."],"py":["","","","","","","","."],"vi":"Chim bồ câu là biểu tượng của hòa bình.","alts":[]}},
@@ -157,7 +157,7 @@
    {"id":"p59-imagery","hanzi":"imagery","pinyin":"","vi":"hình ảnh (trong văn thơ)","ex":{"tokens":["The","poem","is","full","of","sea","imagery","."],"py":["","","","","","","","."],"vi":"Bài thơ tràn ngập hình ảnh biển cả.","alts":[]}},
    {"id":"p59-climax","hanzi":"climax","pinyin":"","vi":"cao trào","ex":{"tokens":["The","climax","of","the","story","comes","at","the","end","."],"py":["","","","","","","","","","."],"vi":"Cao trào của câu chuyện nằm ở cuối.","alts":[]}}
   ]},
-  {"id":"p60","title":"Hùng biện và tranh luận","desc":"Phản bác, nhượng bộ, lập trường, thuyết phục","icon":"Deb","unit":404,"course":"en","order":3140,"words":[
+  {"id":"p60","title":"Hùng biện và tranh luận","desc":"Phản bác, nhượng bộ, lập trường, thuyết phục","icon":"Deb","unit":404,"course":"en","order":3200,"words":[
    {"id":"p60-debate","hanzi":"debate","pinyin":"","vi":"cuộc tranh luận","ex":{"tokens":["The","debate","lasted","two","hours","."],"py":["","","","","","."],"vi":"Cuộc tranh luận kéo dài hai tiếng.","alts":[]}},
    {"id":"p60-rebut","hanzi":"rebut","pinyin":"","vi":"phản bác","ex":{"tokens":["She","was","able","to","rebut","every","point","."],"py":["","","","","","","","."],"vi":"Cô ấy đã có thể phản bác mọi luận điểm.","alts":[]}},
    {"id":"p60-concede","hanzi":"concede","pinyin":"","vi":"thừa nhận, nhượng bộ","ex":{"tokens":["I","concede","that","you","are","right","."],"py":["","","","","","","."],"vi":"Tôi thừa nhận rằng bạn đúng.","alts":[]}},
@@ -171,7 +171,7 @@
    {"id":"p60-consensus","hanzi":"consensus","pinyin":"","vi":"sự đồng thuận","ex":{"tokens":["The","team","reached","a","consensus","."],"py":["","","","","","."],"vi":"Cả nhóm đã đạt được sự đồng thuận.","alts":[]}},
    {"id":"p60-rhetoric","hanzi":"rhetoric","pinyin":"","vi":"thuật hùng biện, lời lẽ hoa mỹ","ex":{"tokens":["His","speech","was","full","of","empty","rhetoric","."],"py":["","","","","","","","."],"vi":"Bài phát biểu của ông ấy đầy những lời hoa mỹ rỗng tuếch.","alts":[]}}
   ]},
-  {"id":"p61","title":"Hài hước và mỉa mai","desc":"Chơi chữ, trêu chọc, mỉa mai, buồn cười","icon":"Ha","unit":404,"course":"en","order":3150,"words":[
+  {"id":"p61","title":"Hài hước và mỉa mai","desc":"Chơi chữ, trêu chọc, mỉa mai, buồn cười","icon":"Ha","unit":404,"course":"en","order":3210,"words":[
    {"id":"p61-humor","hanzi":"humor","pinyin":"","vi":"sự hài hước","ex":{"tokens":["He","has","a","good","sense","of","humor","."],"py":["","","","","","","","."],"vi":"Anh ấy có khiếu hài hước.","alts":[]}},
    {"id":"p61-joke","hanzi":"joke","pinyin":"","vi":"câu đùa, trò đùa","ex":{"tokens":["Nobody","laughed","at","his","joke","."],"py":["","","","","","."],"vi":"Không ai cười trước câu đùa của anh ấy.","alts":[]}},
    {"id":"p61-sarcasm","hanzi":"sarcasm","pinyin":"","vi":"lời mỉa mai","ex":{"tokens":["I","could","hear","the","sarcasm","in","her","voice","."],"py":["","","","","","","","","."],"vi":"Tôi có thể nghe thấy sự mỉa mai trong giọng cô ấy.","alts":[]}},
@@ -185,7 +185,7 @@
    {"id":"p61-amuse","hanzi":"amuse","pinyin":"","vi":"làm cho vui, giải trí","ex":{"tokens":["His","stories","always","amuse","the","children","."],"py":["","","","","","","."],"vi":"Những câu chuyện của ông ấy luôn làm bọn trẻ thích thú.","alts":[]}},
    {"id":"p61-prank","hanzi":"prank","pinyin":"","vi":"trò chơi khăm","ex":{"tokens":["It","was","just","a","harmless","prank","."],"py":["","","","","","","."],"vi":"Đó chỉ là một trò chơi khăm vô hại.","alts":[]}}
   ]},
-  {"id":"p62","title":"Nói giảm và thận trọng","desc":"Có lẽ, dường như, phần nào, có xu hướng","icon":"May","unit":404,"course":"en","order":3160,"words":[
+  {"id":"p62","title":"Nói giảm và thận trọng","desc":"Có lẽ, dường như, phần nào, có xu hướng","icon":"May","unit":404,"course":"en","order":3220,"words":[
    {"id":"p62-apparently","hanzi":"apparently","pinyin":"","vi":"có vẻ như, nghe nói","ex":{"tokens":["Apparently",",","the","shop","is","closed","today","."],"py":["",",","","","","","","."],"vi":"Nghe nói hôm nay cửa hàng đóng cửa.","alts":[]}},
    {"id":"p62-presumably","hanzi":"presumably","pinyin":"","vi":"có lẽ, đoán chừng","ex":{"tokens":["Presumably",",","he","missed","the","bus","."],"py":["",",","","","","","."],"vi":"Có lẽ anh ấy đã lỡ xe buýt.","alts":[]}},
    {"id":"p62-seemingly","hanzi":"seemingly","pinyin":"","vi":"dường như","ex":{"tokens":["It","was","a","seemingly","simple","question","."],"py":["","","","","","","."],"vi":"Đó là một câu hỏi tưởng chừng đơn giản.","alts":[]}},
@@ -199,7 +199,7 @@
    {"id":"p62-supposedly","hanzi":"supposedly","pinyin":"","vi":"được cho là","ex":{"tokens":["This","is","supposedly","the","oldest","tree","in","town","."],"py":["","","","","","","","","."],"vi":"Đây được cho là cái cây già nhất thị trấn.","alts":[]}},
    {"id":"p62-virtually","hanzi":"virtually","pinyin":"","vi":"hầu như, gần như","ex":{"tokens":["The","town","was","virtually","empty","."],"py":["","","","","","."],"vi":"Thị trấn gần như vắng tanh.","alts":[]}}
   ]},
-  {"id":"p63","title":"Nhấn mạnh","desc":"Hoàn toàn, thật sự, tuyệt đối, chính là","icon":"Bold","unit":404,"course":"en","order":3170,"words":[
+  {"id":"p63","title":"Nhấn mạnh","desc":"Hoàn toàn, thật sự, tuyệt đối, chính là","icon":"Bold","unit":404,"course":"en","order":3230,"words":[
    {"id":"p63-utterly","hanzi":"utterly","pinyin":"","vi":"hoàn toàn","ex":{"tokens":["I","was","utterly","exhausted","."],"py":["","","","","."],"vi":"Tôi đã hoàn toàn kiệt sức.","alts":[]}},
    {"id":"p63-entirely","hanzi":"entirely","pinyin":"","vi":"toàn bộ, hoàn toàn","ex":{"tokens":["It","is","entirely","my","fault","."],"py":["","","","","","."],"vi":"Đó hoàn toàn là lỗi của tôi.","alts":[]}},
    {"id":"p63-indeed","hanzi":"indeed","pinyin":"","vi":"thật vậy, quả thực","ex":{"tokens":["It","was","indeed","a","great","day","."],"py":["","","","","","","."],"vi":"Đó quả thực là một ngày tuyệt vời.","alts":[]}},
@@ -213,7 +213,7 @@
    {"id":"p63-undoubtedly","hanzi":"undoubtedly","pinyin":"","vi":"chắc chắn, không nghi ngờ gì","ex":{"tokens":["She","is","undoubtedly","the","right","person","."],"py":["","","","","","","."],"vi":"Cô ấy chắc chắn là người phù hợp.","alts":[]}},
    {"id":"p63-sheer","hanzi":"sheer","pinyin":"","vi":"hoàn toàn, tuyệt đối","ex":{"tokens":["We","won","by","sheer","luck","."],"py":["","","","","","."],"vi":"Chúng tôi thắng hoàn toàn nhờ may mắn.","alts":[]}}
   ]},
-  {"id":"p64","title":"Cấu tạo từ","desc":"Tiền tố, hậu tố, từ trái nghĩa, từ ghép","icon":"Word","unit":404,"course":"en","order":3180,"words":[
+  {"id":"p64","title":"Cấu tạo từ","desc":"Tiền tố, hậu tố, từ trái nghĩa, từ ghép","icon":"Word","unit":404,"course":"en","order":3240,"words":[
    {"id":"p64-prefix","hanzi":"prefix","pinyin":"","vi":"tiền tố","ex":{"tokens":["The","prefix","un","means","not","."],"py":["","","","","","."],"vi":"Tiền tố un có nghĩa là không.","alts":[]}},
    {"id":"p64-suffix","hanzi":"suffix","pinyin":"","vi":"hậu tố","ex":{"tokens":["The","suffix","ness","makes","a","noun","."],"py":["","","","","","","."],"vi":"Hậu tố ness tạo thành danh từ.","alts":[]}},
    {"id":"p64-synonym","hanzi":"synonym","pinyin":"","vi":"từ đồng nghĩa","ex":{"tokens":["Big","is","a","synonym","of","large","."],"py":["","","","","","","."],"vi":"Big là từ đồng nghĩa của large.","alts":[]}},

@@ -63,6 +63,7 @@ export default function App() {
   const [authOpen, setAuthOpen] = useState(() => window.location.hash === '#/auth');
   const [adminOpen, setAdminOpen] = useState(() => window.location.hash === '#/admin');
   const [mockOpen, setMockOpen] = useState(() => window.location.hash === '#/mock');
+  const [mockStart, setMockStart] = useState<string | undefined>();
   const [gameOpen, setGameOpen] = useState(() => window.location.hash === '#/game');
   const acc = useAccount();
   const [session, setSession] = useState<SessionMode | null>(null);
@@ -208,7 +209,7 @@ export default function App() {
       <>
         {toast}
         <Suspense fallback={<Loading />}>
-          <MockScreen onClose={() => changeTab('learn')} />
+          <MockScreen onClose={() => changeTab('learn')} start={mockStart} />
         </Suspense>
       </>
     );
@@ -277,7 +278,8 @@ export default function App() {
           onTest={(unit) => {
             if (!gated(unit)) setSession({ type: 'test', unit });
           }}
-          onMock={() => {
+          onMock={(target) => {
+            setMockStart(target);
             window.location.hash = '/mock';
             setMockOpen(true);
             window.scrollTo(0, 0);

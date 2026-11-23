@@ -353,3 +353,31 @@ easygoing|dễ tính|Our new teacher is very easygoing.|Giáo viên mới của 
 sensible|biết điều, hợp lý|That is a sensible idea.|Đó là một ý kiến hợp lý.
 upstairs|trên gác, tầng trên|My friend lives upstairs.|Bạn tôi sống ở tầng trên.
 downstairs|dưới nhà, tầng dưới|The kids are playing downstairs.|Bọn trẻ đang chơi dưới nhà.
+
+@n26|Mạng và thiết bị|Trang chủ, đăng xuất, màn hình cảm ứng, đồng hồ thông minh|Web
+homepage|trang chủ|Click the logo to go back to the homepage.|Bấm vào logo để quay về trang chủ.
+logout|sự đăng xuất|The logout button is at the top of the page.|Nút đăng xuất ở phía trên cùng của trang.
+font|phông chữ|Please use a bigger font for the title.|Hãy dùng phông chữ to hơn cho tiêu đề.
+template|mẫu có sẵn|I used a template to write my first email.|Tôi dùng một mẫu có sẵn để viết email đầu tiên.
+reminder|lời nhắc|My phone sent me a reminder about the meeting.|Điện thoại gửi cho tôi lời nhắc về cuộc họp.
+touchscreen|màn hình cảm ứng|The touchscreen does not work with wet fingers.|Màn hình cảm ứng không hoạt động khi ngón tay ướt.
+smartwatch|đồng hồ thông minh|Her smartwatch counts her steps.|Đồng hồ thông minh của cô ấy đếm số bước chân.
+drone|máy bay không người lái|He took this photo with a drone.|Anh ấy chụp bức ảnh này bằng máy bay không người lái.
+blogger|người viết blog|The blogger writes about street food.|Người viết blog đó viết về ẩm thực đường phố.
+gamer|người chơi game|My brother is a serious gamer.|Em trai tôi là một người chơi game nghiêm túc.
+avatar|ảnh đại diện|She changed her avatar last night.|Cô ấy đã đổi ảnh đại diện tối qua.
+streaming|phát trực tuyến|Streaming uses a lot of data.|Phát trực tuyến tốn rất nhiều dữ liệu.
+
+@n27|Trên đường và tính nết|Dây an toàn, kính chắn gió, kén chọn, tọc mạch|Road
+seatbelt|dây an toàn|Please fasten your seatbelt.|Xin hãy thắt dây an toàn.
+windshield|kính chắn gió|A stone hit the windshield.|Một hòn đá đập vào kính chắn gió.
+dashboard|bảng điều khiển xe|A red light came on the dashboard.|Một đèn đỏ bật sáng trên bảng điều khiển.
+bumper|cản xe|The back bumper was broken in the accident.|Cản sau bị vỡ trong vụ tai nạn.
+speeding|việc chạy quá tốc độ|He paid a fine for speeding.|Anh ấy nộp phạt vì chạy quá tốc độ.
+alley|con hẻm|Our house is at the end of a small alley.|Nhà chúng tôi ở cuối một con hẻm nhỏ.
+plaza|quảng trường, khu mua sắm|Let us meet at the plaza at six.|Chúng ta gặp nhau ở quảng trường lúc sáu giờ nhé.
+picky|kén chọn|My son is picky about vegetables.|Con trai tôi kén ăn rau.
+chatty|hay nói, lắm lời|The taxi driver was very chatty.|Bác tài xế taxi rất hay nói.
+nosy|tọc mạch|Our nosy neighbor asks too many questions.|Người hàng xóm tọc mạch của chúng tôi hỏi quá nhiều.
+sneaky|lén lút, ranh mãnh|The sneaky cat stole a fish.|Con mèo ranh mãnh đã trộm một con cá.
+cranky|cáu kỉnh|The baby gets cranky when she is tired.|Em bé hay cáu kỉnh khi mệt.

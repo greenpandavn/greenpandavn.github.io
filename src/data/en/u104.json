@@ -170,6 +170,34 @@
    {"id":"c25-edge","hanzi":"edge","pinyin":"","vi":"mép, rìa","ex":{"tokens":["Do","not","stand","on","the","edge","."],"py":["","","","","","","."],"vi":"Đừng đứng ở mép.","alts":[]}},
    {"id":"c25-side","hanzi":"side","pinyin":"","vi":"bên, phía","ex":{"tokens":["Walk","on","this","side","of","the","road","."],"py":["","","","","","","","."],"vi":"Hãy đi ở bên này đường.","alts":[]}},
    {"id":"c25-center","hanzi":"center","pinyin":"","vi":"trung tâm, ở giữa","ex":{"tokens":["The","shop","is","in","the","center","of","town","."],"py":["","","","","","","","","."],"vi":"Cửa hàng nằm ở trung tâm thị trấn.","alts":[]}}
+  ]},
+  {"id":"c26","title":"Hoa, cây và trò chơi ngoài trời","desc":"Hoa hướng dương, tre, xương rồng, cái võng","icon":"Flower","unit":104,"course":"en","order":800,"words":[
+   {"id":"c26-sunflower","hanzi":"sunflower","pinyin":"","vi":"hoa hướng dương","ex":{"tokens":["The","sunflower","is","tall","and","yellow","."],"py":["","","","","","","."],"vi":"Hoa hướng dương cao và có màu vàng.","alts":[]}},
+   {"id":"c26-daisy","hanzi":"daisy","pinyin":"","vi":"hoa cúc","ex":{"tokens":["She","picks","a","white","daisy","."],"py":["","","","","","."],"vi":"Cô ấy hái một bông cúc trắng.","alts":[]}},
+   {"id":"c26-tulip","hanzi":"tulip","pinyin":"","vi":"hoa tulip","ex":{"tokens":["I","gave","my","mother","a","red","tulip","."],"py":["","","","","","","","."],"vi":"Tôi tặng mẹ một bông tulip đỏ.","alts":[]}},
+   {"id":"c26-lily","hanzi":"lily","pinyin":"","vi":"hoa huệ, hoa loa kèn","ex":{"tokens":["A","lily","smells","very","nice","."],"py":["","","","","","."],"vi":"Hoa huệ có mùi rất thơm.","alts":[]}},
+   {"id":"c26-orchid","hanzi":"orchid","pinyin":"","vi":"hoa lan","ex":{"tokens":["My","aunt","has","a","purple","orchid","."],"py":["","","","","","","."],"vi":"Dì tôi có một cây lan màu tím.","alts":[]}},
+   {"id":"c26-cactus","hanzi":"cactus","pinyin":"","vi":"cây xương rồng","ex":{"tokens":["A","cactus","needs","little","water","."],"py":["","","","","","."],"vi":"Cây xương rồng cần ít nước.","alts":[]}},
+   {"id":"c26-bamboo","hanzi":"bamboo","pinyin":"","vi":"cây tre","ex":{"tokens":["Pandas","eat","bamboo","every","day","."],"py":["","","","","","."],"vi":"Gấu trúc ăn tre mỗi ngày.","alts":[]}},
+   {"id":"c26-fern","hanzi":"fern","pinyin":"","vi":"cây dương xỉ","ex":{"tokens":["There","is","a","green","fern","by","the","door","."],"py":["","","","","","","","","."],"vi":"Có một cây dương xỉ xanh cạnh cửa.","alts":[]}},
+   {"id":"c26-hammock","hanzi":"hammock","pinyin":"","vi":"cái võng","ex":{"tokens":["Grandpa","sleeps","in","a","hammock","."],"py":["","","","","","."],"vi":"Ông ngủ trên một cái võng.","alts":[]}},
+   {"id":"c26-trampoline","hanzi":"trampoline","pinyin":"","vi":"bạt nhún","ex":{"tokens":["The","kids","jump","on","the","trampoline","."],"py":["","","","","","","."],"vi":"Bọn trẻ nhảy trên bạt nhún.","alts":[]}},
+   {"id":"c26-marshmallow","hanzi":"marshmallow","pinyin":"","vi":"kẹo dẻo","ex":{"tokens":["I","want","one","more","marshmallow","."],"py":["","","","","","."],"vi":"Con muốn thêm một viên kẹo dẻo nữa.","alts":[]}},
+   {"id":"c26-mittens","hanzi":"mittens","pinyin":"","vi":"găng tay liền ngón","ex":{"tokens":["Wear","your","mittens","when","it","is","cold","."],"py":["","","","","","","","."],"vi":"Hãy đeo găng tay khi trời lạnh.","alts":[]}}
+  ]},
+  {"id":"c27","title":"Đồ uống, đồ dùng học tập","desc":"Sinh tố, nước chanh, máy tính bỏ túi, bảng trắng","icon":"Drink","unit":104,"course":"en","order":810,"words":[
+   {"id":"c27-smoothie","hanzi":"smoothie","pinyin":"","vi":"sinh tố","ex":{"tokens":["I","drink","a","mango","smoothie","."],"py":["","","","","","."],"vi":"Tôi uống một ly sinh tố xoài.","alts":[]}},
+   {"id":"c27-milkshake","hanzi":"milkshake","pinyin":"","vi":"sữa lắc","ex":{"tokens":["He","orders","a","chocolate","milkshake","."],"py":["","","","","","."],"vi":"Cậu ấy gọi một ly sữa lắc sô-cô-la.","alts":[]}},
+   {"id":"c27-lemonade","hanzi":"lemonade","pinyin":"","vi":"nước chanh","ex":{"tokens":["This","lemonade","is","cold","and","sweet","."],"py":["","","","","","","."],"vi":"Ly nước chanh này lạnh và ngọt.","alts":[]}},
+   {"id":"c27-omelet","hanzi":"omelet","pinyin":"","vi":"trứng tráng","ex":{"tokens":["Dad","makes","an","omelet","for","breakfast","."],"py":["","","","","","","."],"vi":"Bố làm món trứng tráng cho bữa sáng.","alts":[]}},
+   {"id":"c27-avocado","hanzi":"avocado","pinyin":"","vi":"quả bơ","ex":{"tokens":["This","avocado","is","soft","."],"py":["","","","","."],"vi":"Quả bơ này mềm.","alts":[]}},
+   {"id":"c27-slippers","hanzi":"slippers","pinyin":"","vi":"dép đi trong nhà","ex":{"tokens":["My","slippers","are","under","the","bed","."],"py":["","","","","","","."],"vi":"Đôi dép đi trong nhà của tôi ở dưới giường.","alts":[]}},
+   {"id":"c27-overalls","hanzi":"overalls","pinyin":"","vi":"quần yếm","ex":{"tokens":["The","baby","wears","blue","overalls","."],"py":["","","","","","."],"vi":"Em bé mặc quần yếm màu xanh.","alts":[]}},
+   {"id":"c27-calculator","hanzi":"calculator","pinyin":"","vi":"máy tính bỏ túi","ex":{"tokens":["You","can","use","a","calculator","in","this","test","."],"py":["","","","","","","","","."],"vi":"Em được dùng máy tính bỏ túi trong bài kiểm tra này.","alts":[]}},
+   {"id":"c27-notepad","hanzi":"notepad","pinyin":"","vi":"sổ ghi chép","ex":{"tokens":["Write","the","number","on","your","notepad","."],"py":["","","","","","","."],"vi":"Hãy viết con số vào sổ ghi chép của em.","alts":[]}},
+   {"id":"c27-whiteboard","hanzi":"whiteboard","pinyin":"","vi":"bảng trắng","ex":{"tokens":["The","teacher","writes","on","the","whiteboard","."],"py":["","","","","","","."],"vi":"Cô giáo viết lên bảng trắng.","alts":[]}},
+   {"id":"c27-paperclip","hanzi":"paperclip","pinyin":"","vi":"cái kẹp giấy","ex":{"tokens":["I","need","a","paperclip","for","these","pages","."],"py":["","","","","","","","."],"vi":"Tôi cần một cái kẹp giấy cho mấy trang này.","alts":[]}},
+   {"id":"c27-quiz","hanzi":"quiz","pinyin":"","vi":"bài kiểm tra ngắn","ex":{"tokens":["We","have","a","short","quiz","today","."],"py":["","","","","","","."],"vi":"Hôm nay chúng em có một bài kiểm tra ngắn.","alts":[]}}
   ]}
  ]
 }

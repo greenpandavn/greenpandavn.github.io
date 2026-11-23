@@ -179,7 +179,13 @@ export function speak(text: string, opts: { slow?: boolean; onEnd?: () => void }
   window.speechSynthesis.cancel();
   whenVoices(() => {
     warnEarly(id);
-    run(id, [text], speechLang(text), opts.slow ? Math.max(0.4, rate - 0.35) : rate, opts.onEnd);
+    const lang = speechLang(text);
+    // a long English text (listening practice) goes sentence by sentence: some browsers cut a long utterance short
+    const parts =
+      lang === 'en-US' && text.length > 120
+        ? (text.match(/[^.!?]+[.!?]+["”’]?|[^.!?]+$/g) ?? [text]).map((x) => x.trim()).filter(Boolean)
+        : [text];
+    run(id, parts, lang, opts.slow ? Math.max(0.4, rate - 0.35) : rate, opts.onEnd);
   });
 }
 

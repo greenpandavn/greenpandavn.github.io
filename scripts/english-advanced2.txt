@@ -353,3 +353,31 @@ sort out|giải quyết, sắp xếp|I need to sort out my papers.|Tôi cần s�
 step down|từ chức|The director will step down in June.|Giám đốc sẽ từ chức vào tháng Sáu.
 take over|tiếp quản|She will take over the family business.|Cô ấy sẽ tiếp quản công việc kinh doanh của gia đình.
 turn out|hóa ra; có mặt|Things will turn out fine.|Mọi chuyện rồi sẽ ổn thôi.
+
+@r26|Việc làm thời nay|Người làm tự do, thực tập sinh, bảng tính, làm việc kết hợp|Work
+freelancer|người làm tự do|She left the company to work as a freelancer.|Cô ấy rời công ty để làm việc tự do.
+intern|thực tập sinh|The new intern learns very quickly.|Thực tập sinh mới học rất nhanh.
+recruiter|nhà tuyển dụng|A recruiter contacted me about the position.|Một nhà tuyển dụng đã liên hệ với tôi về vị trí đó.
+paycheck|tiền lương kỳ này|Half of my paycheck goes to rent.|Một nửa tiền lương của tôi dành cho tiền thuê nhà.
+layoff|đợt cắt giảm nhân sự|He lost his job in the last layoff.|Anh ấy mất việc trong đợt cắt giảm nhân sự vừa rồi.
+spreadsheet|bảng tính|Enter the sales figures into the spreadsheet.|Hãy nhập số liệu bán hàng vào bảng tính.
+portfolio|hồ sơ năng lực, danh mục|The designer showed us her portfolio.|Nhà thiết kế cho chúng tôi xem hồ sơ năng lực của cô ấy.
+hybrid|kết hợp, lai|Our team follows a hybrid schedule.|Nhóm chúng tôi làm việc theo lịch kết hợp.
+workaholic|người nghiện công việc|My boss is a workaholic who never takes a holiday.|Sếp tôi là người nghiện công việc, không bao giờ nghỉ phép.
+perfectionist|người cầu toàn|As a perfectionist, she checks every detail twice.|Là người cầu toàn, cô ấy kiểm tra mọi chi tiết hai lần.
+introvert|người hướng nội|An introvert often needs quiet time alone.|Người hướng nội thường cần thời gian yên tĩnh một mình.
+extrovert|người hướng ngoại|An extrovert enjoys meeting new people.|Người hướng ngoại thích gặp gỡ người mới.
+
+@r27|Môi trường và y tế|Tái sử dụng, phân hủy sinh học, cháy rừng, tiêm chủng|Green
+reusable|có thể tái sử dụng|Bring a reusable bag when you go shopping.|Hãy mang theo túi tái sử dụng khi đi mua sắm.
+disposable|dùng một lần|The café stopped using disposable cups.|Quán cà phê đã ngừng dùng cốc dùng một lần.
+biodegradable|có thể phân hủy sinh học|These plates are made of biodegradable material.|Những chiếc đĩa này làm từ vật liệu phân hủy sinh học.
+footprint|dấu chân, lượng phát thải|Cycling to work reduces your carbon footprint.|Đạp xe đi làm giúp giảm lượng phát thải các-bon của bạn.
+wildfire|cháy rừng|The wildfire destroyed hundreds of homes.|Vụ cháy rừng đã thiêu rụi hàng trăm ngôi nhà.
+blizzard|bão tuyết|All flights were cancelled because of the blizzard.|Mọi chuyến bay bị hủy vì bão tuyết.
+vaccination|việc tiêm chủng|Vaccination protects children from many diseases.|Tiêm chủng bảo vệ trẻ em khỏi nhiều bệnh.
+inhaler|ống hít|He carries an inhaler for his asthma.|Anh ấy mang theo ống hít vì bệnh hen.
+syringe|ống tiêm|The nurse filled the syringe carefully.|Y tá cẩn thận bơm thuốc vào ống tiêm.
+stethoscope|ống nghe|The doctor listened to my chest with a stethoscope.|Bác sĩ nghe ngực tôi bằng ống nghe.
+optimist|người lạc quan|An optimist sees a chance in every problem.|Người lạc quan nhìn thấy cơ hội trong mọi vấn đề.
+pessimist|người bi quan|A pessimist expects the worst.|Người bi quan luôn chờ đợi điều tồi tệ nhất.
