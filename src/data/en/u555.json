@@ -1,9 +1,9 @@
 {
  "units": [
-  {"unit":555,"level":5,"title":"Phần 60: Mở rộng – Động từ trang trọng","desc":"Động từ trang trọng, Tính từ trang trọng","color":"sun","course":"en"}
+  {"unit":555,"level":5,"title":"Phần 61: Mở rộng – Động từ trang trọng","desc":"Động từ trang trọng, Tính từ trang trọng","color":"sun","course":"en"}
  ],
  "lessons": [
-  {"id":"y5081","title":"Động từ trang trọng 14","desc":"Động từ dùng trong văn viết, báo chí, học thuật","icon":"Formal","unit":555,"course":"en","order":6640,"words":[
+  {"id":"y5081","title":"Động từ trang trọng 14","desc":"Động từ dùng trong văn viết, báo chí, học thuật","icon":"Formal","unit":555,"course":"en","order":6740,"words":[
    {"id":"y5081-obfuscate","hanzi":"obfuscate","pinyin":"","vi":"làm rối, làm khó hiểu","ex":{"tokens":["Long","words","only","obfuscate","the","message","."],"py":["","","","","","","."],"vi":"Từ ngữ dài dòng chỉ làm thông điệp khó hiểu.","alts":[]}},
    {"id":"y5081-obliterate","hanzi":"obliterate","pinyin":"","vi":"xóa sạch","ex":{"tokens":["The","flood","could","obliterate","the","village","."],"py":["","","","","","","."],"vi":"Trận lũ có thể xóa sổ ngôi làng.","alts":[]}},
    {"id":"y5081-obstruct","hanzi":"obstruct","pinyin":"","vi":"cản trở, chắn","ex":{"tokens":["Do","not","obstruct","the","exit","."],"py":["","","","","","."],"vi":"Đừng chắn lối thoát hiểm.","alts":[]}},
@@ -18,7 +18,7 @@
    {"id":"y5081-renounce","hanzi":"renounce","pinyin":"","vi":"từ bỏ (chính thức)","ex":{"tokens":["He","chose","to","renounce","his","title","."],"py":["","","","","","","."],"vi":"Ông ấy chọn từ bỏ tước vị.","alts":[]}},
    {"id":"y5081-repudiate","hanzi":"repudiate","pinyin":"","vi":"bác bỏ, khước từ","ex":{"tokens":["They","repudiate","all","the","accusations","."],"py":["","","","","","."],"vi":"Họ bác bỏ mọi lời buộc tội.","alts":[]}}
   ]},
-  {"id":"y5082","title":"Động từ trang trọng 15","desc":"Động từ dùng trong văn viết, báo chí, học thuật","icon":"Formal","unit":555,"course":"en","order":6650,"words":[
+  {"id":"y5082","title":"Động từ trang trọng 15","desc":"Động từ dùng trong văn viết, báo chí, học thuật","icon":"Formal","unit":555,"course":"en","order":6750,"words":[
    {"id":"y5082-retaliate","hanzi":"retaliate","pinyin":"","vi":"trả đũa","ex":{"tokens":["The","army","may","retaliate","tonight","."],"py":["","","","","","."],"vi":"Quân đội có thể trả đũa trong đêm nay.","alts":[]}},
    {"id":"y5082-revere","hanzi":"revere","pinyin":"","vi":"tôn kính","ex":{"tokens":["Students","revere","the","old","teacher","."],"py":["","","","","","."],"vi":"Học trò tôn kính người thầy già.","alts":[]}},
    {"id":"y5082-subjugate","hanzi":"subjugate","pinyin":"","vi":"chinh phục, khuất phục","ex":{"tokens":["The","empire","tried","to","subjugate","the","tribes","."],"py":["","","","","","","","."],"vi":"Đế quốc tìm cách khuất phục các bộ lạc.","alts":[]}},
@@ -33,7 +33,7 @@
    {"id":"y5082-yearn","hanzi":"yearn","pinyin":"","vi":"khao khát","ex":{"tokens":["I","yearn","for","a","quiet","life","."],"py":["","","","","","","."],"vi":"Tôi khao khát một cuộc sống yên bình.","alts":[]}},
    {"id":"y5082-adulterate","hanzi":"adulterate","pinyin":"","vi":"pha trộn làm giảm chất lượng","ex":{"tokens":["Some","sellers","adulterate","honey","with","sugar","."],"py":["","","","","","","."],"vi":"Một số người bán pha đường vào mật ong.","alts":[]}}
   ]},
-  {"id":"y5083","title":"Tính từ trang trọng 1","desc":"Tính từ dùng trong văn viết, báo chí, học thuật","icon":"Refined","unit":555,"course":"en","order":6660,"words":[
+  {"id":"y5083","title":"Tính từ trang trọng 1","desc":"Tính từ dùng trong văn viết, báo chí, học thuật","icon":"Refined","unit":555,"course":"en","order":6760,"words":[
    {"id":"y5083-abject","hanzi":"abject","pinyin":"","vi":"khốn cùng, thảm hại","ex":{"tokens":["They","live","in","abject","poverty","."],"py":["","","","","","."],"vi":"Họ sống trong cảnh nghèo khốn cùng.","alts":[]}},
    {"id":"y5083-abrasive","hanzi":"abrasive","pinyin":"","vi":"thô ráp; cộc cằn","ex":{"tokens":["His","abrasive","manner","upset","the","staff","."],"py":["","","","","","","."],"vi":"Thái độ cộc cằn của ông ấy làm nhân viên khó chịu.","alts":[]}},
    {"id":"y5083-abstruse","hanzi":"abstruse","pinyin":"","vi":"khó hiểu, thâm thúy","ex":{"tokens":["The","lecture","was","too","abstruse","for","beginners","."],"py":["","","","","","","","."],"vi":"Bài giảng quá khó hiểu đối với người mới học.","alts":[]}},
@@ -48,7 +48,7 @@
    {"id":"y5083-apathetic","hanzi":"apathetic","pinyin":"","vi":"thờ ơ","ex":{"tokens":["Young","voters","are","often","apathetic","."],"py":["","","","","","."],"vi":"Cử tri trẻ thường thờ ơ.","alts":[]}},
    {"id":"y5083-arcane","hanzi":"arcane","pinyin":"","vi":"bí hiểm, ít người hiểu","ex":{"tokens":["The","rules","of","the","game","are","arcane","."],"py":["","","","","","","","."],"vi":"Luật của trò chơi rất bí hiểm.","alts":[]}}
   ]},
-  {"id":"y5084","title":"Tính từ trang trọng 2","desc":"Tính từ dùng trong văn viết, báo chí, học thuật","icon":"Refined","unit":555,"course":"en","order":6670,"words":[
+  {"id":"y5084","title":"Tính từ trang trọng 2","desc":"Tính từ dùng trong văn viết, báo chí, học thuật","icon":"Refined","unit":555,"course":"en","order":6770,"words":[
    {"id":"y5084-ascetic","hanzi":"ascetic","pinyin":"","vi":"khổ hạnh","ex":{"tokens":["The","monk","leads","an","ascetic","life","."],"py":["","","","","","","."],"vi":"Nhà sư sống một cuộc đời khổ hạnh.","alts":[]}},
    {"id":"y5084-audacious","hanzi":"audacious","pinyin":"","vi":"táo bạo, cả gan","ex":{"tokens":["It","was","an","audacious","plan","."],"py":["","","","","","."],"vi":"Đó là một kế hoạch táo bạo.","alts":[]}},
    {"id":"y5084-banal","hanzi":"banal","pinyin":"","vi":"tầm thường, nhạt nhẽo","ex":{"tokens":["The","film","has","a","banal","story","."],"py":["","","","","","","."],"vi":"Bộ phim có cốt truyện nhạt nhẽo.","alts":[]}},
@@ -63,7 +63,7 @@
    {"id":"y5084-congenial","hanzi":"congenial","pinyin":"","vi":"dễ chịu, hợp ý","ex":{"tokens":["The","office","has","a","congenial","atmosphere","."],"py":["","","","","","","."],"vi":"Văn phòng có bầu không khí dễ chịu.","alts":[]}},
    {"id":"y5084-conspicuous","hanzi":"conspicuous","pinyin":"","vi":"dễ thấy, nổi bật","ex":{"tokens":["He","felt","conspicuous","in","his","red","suit","."],"py":["","","","","","","","."],"vi":"Anh ấy thấy mình quá nổi bật trong bộ vest đỏ.","alts":[]}}
   ]},
-  {"id":"y5085","title":"Tính từ trang trọng 3","desc":"Tính từ dùng trong văn viết, báo chí, học thuật","icon":"Refined","unit":555,"course":"en","order":6680,"words":[
+  {"id":"y5085","title":"Tính từ trang trọng 3","desc":"Tính từ dùng trong văn viết, báo chí, học thuật","icon":"Refined","unit":555,"course":"en","order":6780,"words":[
    {"id":"y5085-contrite","hanzi":"contrite","pinyin":"","vi":"ăn năn, hối lỗi","ex":{"tokens":["The","boy","looked","contrite","."],"py":["","","","","."],"vi":"Cậu bé trông có vẻ hối lỗi.","alts":[]}},
    {"id":"y5085-convoluted","hanzi":"convoluted","pinyin":"","vi":"rắc rối, vòng vo","ex":{"tokens":["The","plot","is","too","convoluted","."],"py":["","","","","","."],"vi":"Cốt truyện quá rắc rối.","alts":[]}},
    {"id":"y5085-cryptic","hanzi":"cryptic","pinyin":"","vi":"khó hiểu, bí ẩn","ex":{"tokens":["He","left","a","cryptic","note","."],"py":["","","","","","."],"vi":"Anh ấy để lại một mẩu giấy bí ẩn.","alts":[]}},
@@ -78,7 +78,7 @@
    {"id":"y5085-dogmatic","hanzi":"dogmatic","pinyin":"","vi":"giáo điều","ex":{"tokens":["He","is","too","dogmatic","to","listen","."],"py":["","","","","","","."],"vi":"Ông ấy quá giáo điều nên không chịu nghe.","alts":[]}},
    {"id":"y5085-dormant","hanzi":"dormant","pinyin":"","vi":"ngủ yên, không hoạt động","ex":{"tokens":["The","volcano","has","been","dormant","for","years","."],"py":["","","","","","","","."],"vi":"Núi lửa đã ngủ yên nhiều năm.","alts":[]}}
   ]},
-  {"id":"y5086","title":"Tính từ trang trọng 4","desc":"Tính từ dùng trong văn viết, báo chí, học thuật","icon":"Refined","unit":555,"course":"en","order":6690,"words":[
+  {"id":"y5086","title":"Tính từ trang trọng 4","desc":"Tính từ dùng trong văn viết, báo chí, học thuật","icon":"Refined","unit":555,"course":"en","order":6790,"words":[
    {"id":"y5086-eclectic","hanzi":"eclectic","pinyin":"","vi":"đa dạng, chiết trung","ex":{"tokens":["She","has","eclectic","taste","in","music","."],"py":["","","","","","","."],"vi":"Cô ấy có gu âm nhạc đa dạng.","alts":[]}},
    {"id":"y5086-elusive","hanzi":"elusive","pinyin":"","vi":"khó nắm bắt","ex":{"tokens":["Success","remained","elusive","."],"py":["","","","."],"vi":"Thành công vẫn khó nắm bắt.","alts":[]}},
    {"id":"y5086-enigmatic","hanzi":"enigmatic","pinyin":"","vi":"bí ẩn","ex":{"tokens":["She","gave","an","enigmatic","smile","."],"py":["","","","","","."],"vi":"Cô ấy nở một nụ cười bí ẩn.","alts":[]}},
@@ -93,7 +93,7 @@
    {"id":"y5086-flagrant","hanzi":"flagrant","pinyin":"","vi":"trắng trợn","ex":{"tokens":["It","was","a","flagrant","foul","."],"py":["","","","","","."],"vi":"Đó là một pha phạm lỗi trắng trợn.","alts":[]}},
    {"id":"y5086-formidable","hanzi":"formidable","pinyin":"","vi":"đáng gờm","ex":{"tokens":["She","is","a","formidable","opponent","."],"py":["","","","","","."],"vi":"Cô ấy là một đối thủ đáng gờm.","alts":[]}}
   ]},
-  {"id":"y5087","title":"Tính từ trang trọng 5","desc":"Tính từ dùng trong văn viết, báo chí, học thuật","icon":"Refined","unit":555,"course":"en","order":6700,"words":[
+  {"id":"y5087","title":"Tính từ trang trọng 5","desc":"Tính từ dùng trong văn viết, báo chí, học thuật","icon":"Refined","unit":555,"course":"en","order":6800,"words":[
    {"id":"y5087-fortuitous","hanzi":"fortuitous","pinyin":"","vi":"tình cờ may mắn","ex":{"tokens":["It","was","a","fortuitous","meeting","."],"py":["","","","","","."],"vi":"Đó là một cuộc gặp tình cờ may mắn.","alts":[]}},
    {"id":"y5087-frugal","hanzi":"frugal","pinyin":"","vi":"tiết kiệm, thanh đạm","ex":{"tokens":["My","parents","are","frugal","people","."],"py":["","","","","","."],"vi":"Bố mẹ tôi là người tiết kiệm.","alts":[]}},
    {"id":"y5087-garrulous","hanzi":"garrulous","pinyin":"","vi":"lắm lời","ex":{"tokens":["The","garrulous","driver","talked","all","the","way","."],"py":["","","","","","","","."],"vi":"Người tài xế lắm lời nói suốt dọc đường.","alts":[]}},
@@ -108,7 +108,7 @@
    {"id":"y5087-impetuous","hanzi":"impetuous","pinyin":"","vi":"bốc đồng, hấp tấp","ex":{"tokens":["It","was","an","impetuous","decision","."],"py":["","","","","","."],"vi":"Đó là một quyết định bốc đồng.","alts":[]}},
    {"id":"y5087-incongruous","hanzi":"incongruous","pinyin":"","vi":"lạc lõng, không hợp","ex":{"tokens":["The","new","tower","looks","incongruous","in","the","old","town","."],"py":["","","","","","","","","","."],"vi":"Tòa tháp mới trông lạc lõng giữa phố cổ.","alts":[]}}
   ]},
-  {"id":"y5088","title":"Tính từ trang trọng 6","desc":"Tính từ dùng trong văn viết, báo chí, học thuật","icon":"Refined","unit":555,"course":"en","order":6710,"words":[
+  {"id":"y5088","title":"Tính từ trang trọng 6","desc":"Tính từ dùng trong văn viết, báo chí, học thuật","icon":"Refined","unit":555,"course":"en","order":6810,"words":[
    {"id":"y5088-indolent","hanzi":"indolent","pinyin":"","vi":"lười biếng","ex":{"tokens":["He","spent","an","indolent","summer","by","the","pool","."],"py":["","","","","","","","","."],"vi":"Anh ấy trải qua một mùa hè lười biếng bên hồ bơi.","alts":[]}},
    {"id":"y5088-ineffable","hanzi":"ineffable","pinyin":"","vi":"không tả xiết","ex":{"tokens":["She","felt","an","ineffable","joy","."],"py":["","","","","","."],"vi":"Cô ấy cảm thấy niềm vui khôn tả.","alts":[]}},
    {"id":"y5088-inept","hanzi":"inept","pinyin":"","vi":"vụng về, kém cỏi","ex":{"tokens":["He","is","inept","at","cooking","."],"py":["","","","","","."],"vi":"Anh ấy vụng về trong chuyện nấu ăn.","alts":[]}},
@@ -123,7 +123,7 @@
    {"id":"y5088-irate","hanzi":"irate","pinyin":"","vi":"giận dữ","ex":{"tokens":["An","irate","customer","called","the","manager","."],"py":["","","","","","","."],"vi":"Một khách hàng giận dữ gọi cho quản lý.","alts":[]}},
    {"id":"y5088-jovial","hanzi":"jovial","pinyin":"","vi":"vui tính","ex":{"tokens":["He","is","a","jovial","old","man","."],"py":["","","","","","","."],"vi":"Ông ấy là một ông cụ vui tính.","alts":[]}}
   ]},
-  {"id":"y5089","title":"Tính từ trang trọng 7","desc":"Tính từ dùng trong văn viết, báo chí, học thuật","icon":"Refined","unit":555,"course":"en","order":6720,"words":[
+  {"id":"y5089","title":"Tính từ trang trọng 7","desc":"Tính từ dùng trong văn viết, báo chí, học thuật","icon":"Refined","unit":555,"course":"en","order":6820,"words":[
    {"id":"y5089-laconic","hanzi":"laconic","pinyin":"","vi":"vắn tắt, ít lời","ex":{"tokens":["He","gave","a","laconic","reply","."],"py":["","","","","","."],"vi":"Anh ấy trả lời vắn tắt.","alts":[]}},
    {"id":"y5089-latent","hanzi":"latent","pinyin":"","vi":"tiềm ẩn","ex":{"tokens":["She","has","a","latent","talent","for","music","."],"py":["","","","","","","","."],"vi":"Cô ấy có tài năng âm nhạc tiềm ẩn.","alts":[]}},
    {"id":"y5089-lavish","hanzi":"lavish","pinyin":"","vi":"xa hoa, hào phóng","ex":{"tokens":["They","held","a","lavish","wedding","."],"py":["","","","","","."],"vi":"Họ tổ chức một đám cưới xa hoa.","alts":[]}},
@@ -138,7 +138,7 @@
    {"id":"y5089-nefarious","hanzi":"nefarious","pinyin":"","vi":"bất chính, hiểm độc","ex":{"tokens":["The","gang","had","a","nefarious","plan","."],"py":["","","","","","","."],"vi":"Băng nhóm có một kế hoạch bất chính.","alts":[]}},
    {"id":"y5089-negligent","hanzi":"negligent","pinyin":"","vi":"cẩu thả, tắc trách","ex":{"tokens":["The","driver","was","negligent","."],"py":["","","","","."],"vi":"Người tài xế đã tắc trách.","alts":[]}}
   ]},
-  {"id":"y5090","title":"Tính từ trang trọng 8","desc":"Tính từ dùng trong văn viết, báo chí, học thuật","icon":"Refined","unit":555,"course":"en","order":6730,"words":[
+  {"id":"y5090","title":"Tính từ trang trọng 8","desc":"Tính từ dùng trong văn viết, báo chí, học thuật","icon":"Refined","unit":555,"course":"en","order":6830,"words":[
    {"id":"y5090-nonchalant","hanzi":"nonchalant","pinyin":"","vi":"thản nhiên","ex":{"tokens":["He","tried","to","look","nonchalant","."],"py":["","","","","","."],"vi":"Anh ấy cố tỏ ra thản nhiên.","alts":[]}},
    {"id":"y5090-oblivious","hanzi":"oblivious","pinyin":"","vi":"không hay biết","ex":{"tokens":["She","was","oblivious","to","the","danger","."],"py":["","","","","","","."],"vi":"Cô ấy không hay biết gì về mối nguy hiểm.","alts":[]}},
    {"id":"y5090-obscure","hanzi":"obscure","pinyin":"","vi":"ít người biết; tối nghĩa","ex":{"tokens":["He","quoted","an","obscure","poet","."],"py":["","","","","","."],"vi":"Anh ấy trích dẫn một nhà thơ ít người biết.","alts":[]}},

@@ -1559,7 +1559,7 @@ sports day|ngày hội thể thao|I won a race on sports day.|Tôi thắng một
 science fair|hội chợ khoa học|She showed her robot at the science fair.|Cô bé giới thiệu rô-bốt của mình tại hội chợ khoa học.
 spelling bee|cuộc thi đánh vần|He won the school spelling bee.|Cậu ấy thắng cuộc thi đánh vần của trường.
 
-%357|3|Phần 7: Mở rộng – Trường lớp|Trường lớp, Thiên nhiên và nông trại, Từ vựng tổng hợp|sky
+%357|3|Phần 7: Mở rộng – Trường lớp|Trường lớp, Thiên nhiên và nông trại, Cụm từ với make và do, Cụm từ với take và have|sky
 @y3121|Trường lớp 2|Hoạt động, đồ dùng, phòng học, câu lạc bộ|School
 book report|bài thu hoạch về sách|I wrote a book report on Harry Potter.|Tôi viết bài thu hoạch về Harry Potter.
 pop quiz|bài kiểm tra bất ngờ|The teacher gave us a pop quiz.|Giáo viên cho chúng tôi kiểm tra bất ngờ.
@@ -1681,7 +1681,143 @@ full moon|trăng tròn|There is a full moon tonight.|Tối nay trăng tròn.
 starry|đầy sao|It was a clear, starry night.|Đó là một đêm trời quang và đầy sao.
 midday|giữa trưa|The sun is strongest at midday.|Nắng gắt nhất vào giữa trưa.
 
-@y3129|Từ vựng tổng hợp 1|Từ thuộc nhiều chủ đề|Mix
+@y3129|Cụm từ với make và do|Kết hợp từ tự nhiên với make, do|Collocations
+make a mistake|mắc lỗi|Everyone can make a mistake.|Ai cũng có thể mắc lỗi.
+make progress|tiến bộ|You make progress every week.|Tuần nào bạn cũng tiến bộ.
+make a mess|bày bừa|Do not make a mess in the kitchen.|Đừng bày bừa trong bếp.
+make a noise|gây ồn|Try not to make a noise.|Cố đừng gây ồn nhé.
+make a promise|hứa|Never make a promise you cannot keep.|Đừng bao giờ hứa điều bạn không giữ được.
+make a wish|ước một điều|Close your eyes and make a wish.|Hãy nhắm mắt lại và ước một điều.
+make a living|kiếm sống|He hopes to make a living as a writer.|Anh ấy hy vọng kiếm sống bằng nghề viết.
+make friends|kết bạn|It is easy to make friends at camp.|Ở trại hè rất dễ kết bạn.
+make sense|có lý, dễ hiểu|Your plan does not make sense to me.|Tôi thấy kế hoạch của bạn không hợp lý.
+make room|dành chỗ|Can you make room for one more person?|Bạn dành chỗ cho một người nữa được không?
+make time|dành thời gian|Try to make time for exercise.|Hãy cố dành thời gian tập thể dục.
+make a difference|tạo ra khác biệt|One kind word can make a difference.|Một lời tử tế có thể tạo ra khác biệt.
+make an appointment|đặt lịch hẹn|I need to make an appointment with the dentist.|Tôi cần đặt lịch hẹn với nha sĩ.
+make a complaint|khiếu nại|We decided to make a complaint about the noise.|Chúng tôi quyết định khiếu nại về tiếng ồn.
+
+@y3130|Cụm từ với take và have 1|Kết hợp từ tự nhiên với take, have|Phrases
+take a break|nghỉ giải lao|Let us take a break for ten minutes.|Chúng ta nghỉ giải lao mười phút nhé.
+take a chance|thử vận may, liều một phen|I decided to take a chance and apply.|Tôi quyết định liều một phen và nộp đơn.
+take a seat|ngồi xuống|Please take a seat.|Mời bạn ngồi.
+take a look|xem qua|Take a look at this photo.|Hãy xem qua bức ảnh này.
+take place|diễn ra|The meeting will take place on Monday.|Cuộc họp sẽ diễn ra vào thứ Hai.
+take part|tham gia|All students take part in the show.|Tất cả học sinh tham gia buổi diễn.
+take turns|thay phiên nhau|We take turns to wash the dishes.|Chúng tôi thay phiên nhau rửa bát.
+take advantage|tận dụng; lợi dụng|Take advantage of the sale.|Hãy tận dụng đợt giảm giá.
+take a photo|chụp ảnh|Can you take a photo of us?|Bạn chụp giúp chúng tôi một tấm ảnh được không?
+take a deep breath|hít một hơi sâu|Take a deep breath and relax.|Hãy hít một hơi sâu và thư giãn.
+take the blame|nhận lỗi|He was ready to take the blame.|Anh ấy sẵn sàng nhận lỗi.
+take charge|đảm nhận, nắm quyền điều hành|She will take charge of the project.|Cô ấy sẽ đảm nhận dự án.
+take notice|để ý|Nobody seemed to take notice of the sign.|Dường như không ai để ý đến tấm biển.
+
+%358|3|Phần 8: Mở rộng – Cụm từ với take và have|Cụm từ với take và have, Cụm động từ cố định, Cụm từ thông dụng khác, Từ vựng tổng hợp|grape
+@y3141|Cụm từ với take và have 2|Kết hợp từ tự nhiên với take, have|Phrases
+take pride|tự hào|They take pride in their work.|Họ tự hào về công việc của mình.
+have a word|nói chuyện riêng một chút|Can I have a word with you?|Tôi nói chuyện riêng với bạn một chút được không?
+have a go|thử làm|Let me have a go at fixing it.|Để tôi thử sửa xem.
+have fun|vui chơi|Have fun at the party!|Chúc bạn vui ở bữa tiệc!
+have a rest|nghỉ ngơi|Sit down and have a rest.|Hãy ngồi xuống nghỉ ngơi.
+have a chat|trò chuyện|We should have a chat about your plans.|Chúng ta nên trò chuyện về kế hoạch của bạn.
+have a baby|sinh con|My sister is going to have a baby.|Chị tôi sắp sinh con.
+have an argument|cãi nhau|They often have an argument about money.|Họ hay cãi nhau về tiền bạc.
+have a point|nói có lý|You have a point there.|Chỗ đó bạn nói có lý.
+have second thoughts|đắn đo, đổi ý|I began to have second thoughts about the trip.|Tôi bắt đầu đắn đo về chuyến đi.
+have in common|có điểm chung|We have in common a love of music.|Chúng tôi có điểm chung là tình yêu âm nhạc.
+have no idea|không biết gì cả|I have no idea where he is.|Tôi không biết anh ấy ở đâu.
+
+@y3142|Cụm động từ cố định 1|Kết hợp từ với keep, pay, break, go, come, get|Combos
+keep a secret|giữ bí mật|Can you keep a secret?|Bạn giữ bí mật được không?
+keep quiet|giữ im lặng|Please keep quiet in the library.|Xin giữ im lặng trong thư viện.
+keep calm|giữ bình tĩnh|Keep calm and call for help.|Hãy giữ bình tĩnh và gọi trợ giúp.
+keep track|theo dõi|I keep track of my spending.|Tôi theo dõi chi tiêu của mình.
+keep in mind|ghi nhớ|Keep in mind that shops close early.|Hãy nhớ rằng cửa hàng đóng cửa sớm.
+keep fit|giữ dáng, giữ sức khỏe|She swims to keep fit.|Cô ấy bơi để giữ sức khỏe.
+pay a visit|ghé thăm|We should pay a visit to Grandma.|Chúng ta nên ghé thăm bà.
+pay a compliment|khen ngợi|He likes to pay a compliment to the cook.|Anh ấy thích khen người nấu ăn.
+pay the price|trả giá|He will pay the price for his mistake.|Anh ta sẽ trả giá cho sai lầm của mình.
+pay your respects|bày tỏ lòng kính trọng; viếng|You can pay your respects at the temple.|Bạn có thể đến viếng ở ngôi đền.
+break a promise|thất hứa|I will never break a promise to you.|Tôi sẽ không bao giờ thất hứa với bạn.
+break a record|phá kỷ lục|She hopes to break a record this year.|Cô ấy hy vọng phá kỷ lục năm nay.
+break the news|báo tin (thường là tin xấu)|I had to break the news to her.|Tôi phải báo tin cho cô ấy.
+catch fire|bắt lửa|Dry leaves catch fire easily.|Lá khô dễ bắt lửa.
+
+@y3143|Cụm động từ cố định 2|Kết hợp từ với keep, pay, break, go, come, get|Combos
+catch sight of|thoáng thấy|I managed to catch sight of the singer.|Tôi kịp thoáng thấy người ca sĩ.
+save time|tiết kiệm thời gian|We can save time by taking a taxi.|Chúng ta có thể tiết kiệm thời gian bằng cách đi taxi.
+save money|tiết kiệm tiền|I cook at home to save money.|Tôi nấu ăn ở nhà để tiết kiệm tiền.
+save energy|tiết kiệm năng lượng|Turn off the lights to save energy.|Hãy tắt đèn để tiết kiệm năng lượng.
+waste time|lãng phí thời gian|Do not waste time on your phone.|Đừng lãng phí thời gian vào điện thoại.
+spend time|dành thời gian|I like to spend time with my family.|Tôi thích dành thời gian cho gia đình.
+kill time|giết thời gian|We played cards to kill time.|Chúng tôi chơi bài để giết thời gian.
+run a business|điều hành một doanh nghiệp|It is hard to run a business alone.|Một mình điều hành doanh nghiệp rất vất vả.
+run a risk|chịu rủi ro|You run a risk if you drive so fast.|Bạn chịu rủi ro nếu lái nhanh như vậy.
+run late|bị trễ|I always run late on Mondays.|Thứ Hai nào tôi cũng bị trễ.
+go bad|bị hỏng, ôi thiu|Milk will go bad in the sun.|Sữa sẽ hỏng khi để ngoài nắng.
+go wrong|trục trặc|Something might go wrong.|Có thể sẽ có gì đó trục trặc.
+go crazy|phát điên; phấn khích tột độ|The fans go crazy when he sings.|Người hâm mộ phấn khích tột độ khi anh ấy hát.
+go missing|mất tích|Two socks go missing every week.|Tuần nào cũng mất hai chiếc tất.
+
+@y3144|Cụm động từ cố định 3|Kết hợp từ với keep, pay, break, go, come, get|Combos
+go online|lên mạng|I go online to read the news.|Tôi lên mạng để đọc tin.
+go abroad|ra nước ngoài|She wants to go abroad to study.|Cô ấy muốn ra nước ngoài học.
+go bankrupt|phá sản|The shop may go bankrupt.|Cửa hàng có thể phá sản.
+come true|thành hiện thực|I hope your dream will come true.|Tôi mong ước mơ của bạn thành hiện thực.
+come first|đứng đầu; là ưu tiên|My family will always come first.|Gia đình luôn là ưu tiên số một của tôi.
+come to an end|kết thúc|All good things come to an end.|Mọi điều tốt đẹp rồi cũng kết thúc.
+come to a decision|đi đến quyết định|We must come to a decision today.|Hôm nay chúng ta phải đi đến quyết định.
+get ready|chuẩn bị sẵn sàng|Get ready for school.|Hãy chuẩn bị đi học.
+get lost|bị lạc|It is easy to get lost in the old town.|Rất dễ bị lạc trong khu phố cổ.
+get married|kết hôn|They will get married in June.|Họ sẽ kết hôn vào tháng Sáu.
+get divorced|ly hôn|They decided to get divorced.|Họ quyết định ly hôn.
+get a job|kiếm được việc|He wants to get a job in a bank.|Anh ấy muốn kiếm việc ở ngân hàng.
+get the sack|bị sa thải|You will get the sack if you are late again.|Bạn sẽ bị sa thải nếu lại đi muộn.
+get permission|được phép|You must get permission from your parents.|Bạn phải được bố mẹ cho phép.
+
+@y3145|Cụm từ thông dụng khác 1|Fall, tell, give, lose, set và cặp tính từ - danh từ|Pairs
+fall asleep|ngủ thiếp đi|I often fall asleep on the bus.|Tôi hay ngủ thiếp đi trên xe buýt.
+fall in love|phải lòng, yêu|They fall in love in the film.|Trong phim họ phải lòng nhau.
+fall ill|bị ốm|Many people fall ill in winter.|Nhiều người bị ốm vào mùa đông.
+tell the truth|nói thật|Always tell the truth.|Hãy luôn nói thật.
+tell a lie|nói dối|He would never tell a lie.|Anh ấy sẽ không bao giờ nói dối.
+tell the time|xem giờ|My son can tell the time now.|Con trai tôi biết xem giờ rồi.
+tell the difference|phân biệt|I cannot tell the difference between them.|Tôi không phân biệt được chúng.
+give a speech|phát biểu|She will give a speech at the wedding.|Cô ấy sẽ phát biểu trong đám cưới.
+give advice|cho lời khuyên|Teachers give advice about careers.|Giáo viên cho lời khuyên về nghề nghiệp.
+give a hand|giúp một tay|Can you give a hand with these boxes?|Bạn giúp một tay với mấy cái hộp này được không?
+give a lift|cho đi nhờ xe|I can give a lift to anyone who needs one.|Tôi có thể cho bất cứ ai cần đi nhờ xe.
+give birth|sinh con|She will give birth in March.|Cô ấy sẽ sinh con vào tháng Ba.
+
+@y3146|Cụm từ thông dụng khác 2|Fall, tell, give, lose, set và cặp tính từ - danh từ|Pairs
+lose weight|giảm cân|He wants to lose weight.|Anh ấy muốn giảm cân.
+lose track|không theo dõi được|I lose track of time when I read.|Tôi quên cả thời gian khi đọc sách.
+set an example|làm gương|Parents should set an example.|Cha mẹ nên làm gương.
+set a goal|đặt mục tiêu|Set a goal for each week.|Hãy đặt mục tiêu cho mỗi tuần.
+change your mind|đổi ý|You can change your mind later.|Bạn có thể đổi ý sau.
+speak your mind|nói thẳng suy nghĩ|Do not be afraid to speak your mind.|Đừng ngại nói thẳng suy nghĩ của mình.
+bear in mind|ghi nhớ, lưu ý|Bear in mind that it may rain.|Hãy lưu ý rằng trời có thể mưa.
+miss the point|không hiểu ý chính|I think you miss the point.|Tôi nghĩ bạn không hiểu ý chính.
+miss a chance|bỏ lỡ cơ hội|Do not miss a chance to travel.|Đừng bỏ lỡ cơ hội đi du lịch.
+heavy rain|mưa to|Heavy rain is expected tonight.|Dự báo tối nay có mưa to.
+strong wind|gió mạnh|A strong wind blew my hat off.|Một cơn gió mạnh thổi bay mũ của tôi.
+deep sleep|giấc ngủ sâu|The baby is in a deep sleep.|Em bé đang ngủ say.
+
+@y3147|Cụm từ thông dụng khác 3|Fall, tell, give, lose, set và cặp tính từ - danh từ|Pairs
+fast food|đồ ăn nhanh|Too much fast food is unhealthy.|Ăn quá nhiều đồ ăn nhanh không tốt cho sức khỏe.
+quick shower|tắm nhanh|I will have a quick shower.|Tôi sẽ tắm nhanh một cái.
+bright idea|ý tưởng hay|Whose bright idea was this?|Ý tưởng hay này là của ai?
+close friend|bạn thân|Lan is a close friend of mine.|Lan là bạn thân của tôi.
+high hopes|kỳ vọng lớn|We have high hopes for the team.|Chúng tôi kỳ vọng lớn vào đội.
+bitterly cold|lạnh buốt|It was bitterly cold last night.|Đêm qua trời lạnh buốt.
+fully aware|hoàn toàn nhận thức được|I am fully aware of the problem.|Tôi hoàn toàn nhận thức được vấn đề.
+highly likely|rất có khả năng|It is highly likely to rain.|Rất có khả năng trời sẽ mưa.
+deeply sorry|vô cùng xin lỗi|I am deeply sorry for the delay.|Tôi vô cùng xin lỗi vì sự chậm trễ.
+wide awake|tỉnh như sáo|I was wide awake at three in the morning.|Ba giờ sáng tôi vẫn tỉnh như sáo.
+sound asleep|ngủ say|The children are sound asleep.|Bọn trẻ đang ngủ say.
+cross your mind|thoáng qua trong đầu|Did it ever cross your mind to call?|Bạn có bao giờ thoáng nghĩ đến việc gọi điện không?
+
+@y3148|Từ vựng tổng hợp 1|Từ thuộc nhiều chủ đề|Mix
 candlestick|chân nến|There is a silver candlestick on the table.|Có một chiếc chân nến bạc trên bàn.
 ornament|đồ trang trí|She hung an ornament on the tree.|Cô ấy treo một món đồ trang trí lên cây.
 picture frame|khung ảnh|The photo is in a wooden picture frame.|Bức ảnh nằm trong khung gỗ.
@@ -1697,7 +1833,7 @@ odometer|đồng hồ đo quãng đường|The odometer shows fifty thousand kil
 tailgate|bám sát đuôi xe; cửa hậu|Do not tailgate the car in front.|Đừng bám sát đuôi xe phía trước.
 promenade|đường dạo ven biển|We walked along the promenade at sunset.|Chúng tôi đi dạo trên đường ven biển lúc hoàng hôn.
 
-@y3130|Từ vựng tổng hợp 2|Từ thuộc nhiều chủ đề|Mix
+@y3149|Từ vựng tổng hợp 2|Từ thuộc nhiều chủ đề|Mix
 boardwalk|lối đi lát ván ven biển|There are food stalls on the boardwalk.|Có các quầy đồ ăn trên lối đi lát ván.
 immigration desk|quầy xuất nhập cảnh|Show your passport at the immigration desk.|Hãy xuất trình hộ chiếu ở quầy xuất nhập cảnh.
 bellhop|nhân viên xách hành lý khách sạn|The bellhop took our bags to the room.|Nhân viên xách hành lý mang túi của chúng tôi lên phòng.
@@ -1712,6 +1848,22 @@ obstinate|bướng bỉnh, ngoan cố|He is too obstinate to change his mind.|An
 labor strike|cuộc đình công|The labor strike closed the factory.|Cuộc đình công khiến nhà máy đóng cửa.
 picket line|hàng người đình công đứng chặn|No one crossed the picket line.|Không ai vượt qua hàng người đình công.
 mentee|người được cố vấn|The mentor meets her mentee every month.|Người cố vấn gặp người được cố vấn của mình mỗi tháng.
+
+@y3150|Từ vựng tổng hợp 3|Từ thuộc nhiều chủ đề|Mix
+get well|khỏi bệnh|I hope you get well soon.|Tôi mong bạn sớm khỏi bệnh.
+bleed|chảy máu|The cut began to bleed.|Vết cắt bắt đầu chảy máu.
+swell|sưng lên|My ankle began to swell.|Mắt cá chân tôi bắt đầu sưng lên.
+treat|điều trị; đối xử; chiêu đãi|Doctors treat the illness with rest.|Bác sĩ điều trị bệnh này bằng nghỉ ngơi.
+relieve|làm dịu, giảm bớt|This cream will relieve the pain.|Kem này sẽ làm dịu cơn đau.
+prize giving|lễ trao giải|My parents came to the prize giving.|Bố mẹ đến dự lễ trao giải của tôi.
+make a suggestion|đưa ra gợi ý|May I make a suggestion?|Tôi đưa ra một gợi ý được không?
+make an excuse|viện cớ|Do not make an excuse; just say sorry.|Đừng viện cớ; cứ xin lỗi đi.
+make up your mind|quyết định dứt khoát|Make up your mind before Friday.|Hãy quyết định dứt khoát trước thứ Sáu.
+do your best|cố gắng hết sức|Just do your best in the exam.|Cứ cố gắng hết sức trong kỳ thi.
+do a favor|giúp một việc|Could you do a favor for me?|Bạn giúp tôi một việc được không?
+do the shopping|đi mua sắm, đi chợ|I do the shopping on Saturday.|Tôi đi chợ vào thứ Bảy.
+do damage|gây thiệt hại|The storm may do damage to the roof.|Cơn bão có thể gây thiệt hại cho mái nhà.
+do research|nghiên cứu|Students do research in the library.|Sinh viên nghiên cứu trong thư viện.
 
 %451|4|Phần 1: Mở rộng – Pháp luật và tòa án|Pháp luật và tòa án, Tài chính và ngân hàng, Chính trị và nhà nước|leaf
 @y4001|Pháp luật và tòa án 1|Tội danh, thủ tục tố tụng, người tham gia|Law
