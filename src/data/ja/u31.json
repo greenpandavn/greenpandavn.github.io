@@ -1,0 +1,77 @@
+{
+ "units": [
+  {"unit":31,"level":3,"title":"Phần 1: Đời sống xã hội","desc":"Quan hệ, nhà ở, giao thông, nhà hàng, dịch vụ","color":"leaf","course":"ja"}
+ ],
+ "lessons": [
+  {"id":"ja301","title":"Tính cách và quan hệ","desc":"Bạn bè, hàng xóm, tin tưởng","icon":"仲","unit":31,"course":"ja","order":310,"words":[
+   {"id":"ja301-近所","hanzi":"近所","pinyin":"kinjo","vi":"hàng xóm, vùng lân cận","ex":{"tokens":["近所","の","人","は","親切","です","。"],"py":["kinjo","no","hito","wa","shinsetsu","desu","."],"vi":"Người hàng xóm rất tốt bụng.","alts":[]}},
+   {"id":"ja301-先輩","hanzi":"先輩","pinyin":"senpai","vi":"tiền bối, đàn anh","ex":{"tokens":["先輩","が","仕事","を","教えて","くれました","。"],"py":["senpai","ga","shigoto","o","oshiete","kuremashita","."],"vi":"Tiền bối đã chỉ việc cho tôi.","alts":[]}},
+   {"id":"ja301-後輩","hanzi":"後輩","pinyin":"kouhai","vi":"hậu bối, đàn em","ex":{"tokens":["後輩","と","昼ご飯","を","食べました","。"],"py":["kouhai","to","hirugohan","o","tabemashita","."],"vi":"Tôi đã ăn trưa với đàn em.","alts":[]}},
+   {"id":"ja301-関係","hanzi":"関係","pinyin":"kankei","vi":"mối quan hệ","ex":{"tokens":["二人","は","関係","が","いい","です","。"],"py":["futari","wa","kankei","ga","ii","desu","."],"vi":"Hai người có quan hệ tốt.","alts":[]}},
+   {"id":"ja301-正直","hanzi":"正直","pinyin":"shoujiki","vi":"thật thà, thẳng thắn","ex":{"tokens":["彼","は","正直","な","人","です","。"],"py":["kare","wa","shoujiki","na","hito","desu","."],"vi":"Anh ấy là người thật thà.","alts":[]}},
+   {"id":"ja301-信じる","hanzi":"信じる","pinyin":"shinjiru","vi":"tin tưởng","ex":{"tokens":["私","は","友達","を","信じます","。"],"py":["watashi","wa","tomodachi","o","shinjimasu","."],"vi":"Tôi tin bạn mình.","alts":[]}},
+   {"id":"ja301-喧嘩","hanzi":"喧嘩","pinyin":"kenka","vi":"cãi nhau, đánh nhau","ex":{"tokens":["兄","と","喧嘩","を","しました","。"],"py":["ani","to","kenka","o","shimashita","."],"vi":"Tôi đã cãi nhau với anh trai.","alts":[]}},
+   {"id":"ja301-仲直り","hanzi":"仲直り","pinyin":"nakanaori","vi":"làm hòa","ex":{"tokens":["昨日","友達","と","仲直り","しました","。"],"py":["kinou","tomodachi","to","nakanaori","shimashita","."],"vi":"Hôm qua tôi đã làm hòa với bạn.","alts":[]}},
+   {"id":"ja301-付き合う","hanzi":"付き合う","pinyin":"tsukiau","vi":"giao du, hẹn hò","ex":{"tokens":["彼女","と","二年","付き合って","います","。"],"py":["kanojo","to","ninen","tsukiatte","imasu","."],"vi":"Tôi đã hẹn hò với cô ấy hai năm.","alts":[]}},
+   {"id":"ja301-我慢","hanzi":"我慢","pinyin":"gaman","vi":"chịu đựng, nhẫn nhịn","ex":{"tokens":["痛くて","も","我慢","しました","。"],"py":["itakute","mo","gaman","shimashita","."],"vi":"Dù đau tôi vẫn chịu đựng.","alts":[]}},
+   {"id":"ja301-親しい","hanzi":"親しい","pinyin":"shitashii","vi":"thân thiết","ex":{"tokens":["彼","は","私","の","親しい","友人","です","。"],"py":["kare","wa","watashi","no","shitashii","yuujin","desu","."],"vi":"Anh ấy là bạn thân của tôi.","alts":[]}},
+   {"id":"ja301-礼儀","hanzi":"礼儀","pinyin":"reigi","vi":"lễ nghĩa, phép lịch sự","ex":{"tokens":["あの","子","は","礼儀","が","正しい","です","。"],"py":["ano","ko","wa","reigi","ga","tadashii","desu","."],"vi":"Đứa bé đó rất lễ phép.","alts":[]}}
+  ]},
+  {"id":"ja302","title":"Nhà ở","desc":"Thuê nhà, chuyển nhà, đồ đạc","icon":"住","unit":31,"course":"ja","order":320,"words":[
+   {"id":"ja302-引っ越す","hanzi":"引っ越す","pinyin":"hikkosu","vi":"chuyển nhà","ex":{"tokens":["来月","東京","に","引っ越します","。"],"py":["raigetsu","toukyou","ni","hikkoshimasu","."],"vi":"Tháng sau tôi chuyển nhà đến Tokyo.","alts":[]}},
+   {"id":"ja302-家賃","hanzi":"家賃","pinyin":"yachin","vi":"tiền thuê nhà","ex":{"tokens":["この","部屋","は","家賃","が","高い","です","。"],"py":["kono","heya","wa","yachin","ga","takai","desu","."],"vi":"Phòng này tiền thuê đắt.","alts":[]}},
+   {"id":"ja302-大家","hanzi":"大家","pinyin":"ooya","vi":"chủ nhà","ex":{"tokens":["大家","さん","に","電話","しました","。"],"py":["ooya","san","ni","denwa","shimashita","."],"vi":"Tôi đã gọi điện cho chủ nhà.","alts":[]}},
+   {"id":"ja302-家具","hanzi":"家具","pinyin":"kagu","vi":"đồ nội thất","ex":{"tokens":["新しい","家具","を","買いたい","です","。"],"py":["atarashii","kagu","o","kaitai","desu","."],"vi":"Tôi muốn mua đồ nội thất mới.","alts":[]}},
+   {"id":"ja302-洗濯機","hanzi":"洗濯機","pinyin":"sentakuki","vi":"máy giặt","ex":{"tokens":["洗濯機","が","壊れました","。"],"py":["sentakuki","ga","kowaremashita","."],"vi":"Máy giặt đã hỏng.","alts":[]}},
+   {"id":"ja302-冷房","hanzi":"冷房","pinyin":"reibou","vi":"máy lạnh","ex":{"tokens":["夏","は","冷房","が","必要","です","。"],"py":["natsu","wa","reibou","ga","hitsuyou","desu","."],"vi":"Mùa hè cần máy lạnh.","alts":[]}},
+   {"id":"ja302-階段","hanzi":"階段","pinyin":"kaidan","vi":"cầu thang","ex":{"tokens":["階段","で","三階","まで","上がります","。"],"py":["kaidan","de","sangai","made","agarimasu","."],"vi":"Tôi leo cầu thang lên tầng ba.","alts":[]}},
+   {"id":"ja302-ごみ","hanzi":"ごみ","pinyin":"gomi","vi":"rác","ex":{"tokens":["ごみ","を","外","に","出しました","。"],"py":["gomi","o","soto","ni","dashimashita","."],"vi":"Tôi đã đem rác ra ngoài.","alts":[]}},
+   {"id":"ja302-片付ける","hanzi":"片付ける","pinyin":"katazukeru","vi":"dọn dẹp","ex":{"tokens":["週末","に","部屋","を","片付けました","。"],"py":["shuumatsu","ni","heya","o","katazukemashita","."],"vi":"Cuối tuần tôi đã dọn phòng.","alts":[]}},
+   {"id":"ja302-壁","hanzi":"壁","pinyin":"kabe","vi":"bức tường","ex":{"tokens":["壁","に","絵","を","掛けました","。"],"py":["kabe","ni","e","o","kakemashita","."],"vi":"Tôi đã treo tranh lên tường.","alts":[]}},
+   {"id":"ja302-床","hanzi":"床","pinyin":"yuka","vi":"sàn nhà","ex":{"tokens":["床","に","本","が","落ちて","います","。"],"py":["yuka","ni","hon","ga","ochite","imasu","."],"vi":"Cuốn sách rơi trên sàn.","alts":[]}},
+   {"id":"ja302-屋根","hanzi":"屋根","pinyin":"yane","vi":"mái nhà","ex":{"tokens":["屋根","の","上","に","猫","が","います","。"],"py":["yane","no","ue","ni","neko","ga","imasu","."],"vi":"Trên mái nhà có con mèo.","alts":[]}}
+  ]},
+  {"id":"ja303","title":"Giao thông","desc":"Lái xe, đường sá, tai nạn","icon":"交","unit":31,"course":"ja","order":330,"words":[
+   {"id":"ja303-運転","hanzi":"運転","pinyin":"unten","vi":"lái xe","ex":{"tokens":["父","が","車","を","運転","します","。"],"py":["chichi","ga","kuruma","o","unten","shimasu","."],"vi":"Bố tôi lái xe.","alts":[]}},
+   {"id":"ja303-免許","hanzi":"免許","pinyin":"menkyo","vi":"giấy phép, bằng lái","ex":{"tokens":["去年","免許","を","取りました","。"],"py":["kyonen","menkyo","o","torimashita","."],"vi":"Năm ngoái tôi đã lấy bằng lái.","alts":[]}},
+   {"id":"ja303-駐車場","hanzi":"駐車場","pinyin":"chuushajou","vi":"bãi đỗ xe","ex":{"tokens":["駐車場","は","いっぱい","です","。"],"py":["chuushajou","wa","ippai","desu","."],"vi":"Bãi đỗ xe đã đầy.","alts":[]}},
+   {"id":"ja303-交通","hanzi":"交通","pinyin":"koutsuu","vi":"giao thông","ex":{"tokens":["この","町","は","交通","が","便利","です","。"],"py":["kono","machi","wa","koutsuu","ga","benri","desu","."],"vi":"Thị trấn này giao thông thuận tiện.","alts":[]}},
+   {"id":"ja303-事故","hanzi":"事故","pinyin":"jiko","vi":"tai nạn","ex":{"tokens":["道","で","事故","が","ありました","。"],"py":["michi","de","jiko","ga","arimashita","."],"vi":"Trên đường đã có tai nạn.","alts":[]}},
+   {"id":"ja303-渋滞","hanzi":"渋滞","pinyin":"juutai","vi":"tắc đường","ex":{"tokens":["朝","は","道","が","渋滞","します","。"],"py":["asa","wa","michi","ga","juutai","shimasu","."],"vi":"Buổi sáng đường bị tắc.","alts":[]}},
+   {"id":"ja303-乗り換える","hanzi":"乗り換える","pinyin":"norikaeru","vi":"đổi tàu, chuyển xe","ex":{"tokens":["次","の","駅","で","乗り換えます","。"],"py":["tsugi","no","eki","de","norikaemasu","."],"vi":"Tôi đổi tàu ở ga tiếp theo.","alts":[]}},
+   {"id":"ja303-降りる","hanzi":"降りる","pinyin":"oriru","vi":"xuống xe","ex":{"tokens":["ここ","で","バス","を","降ります","。"],"py":["koko","de","basu","o","orimasu","."],"vi":"Tôi xuống xe buýt ở đây.","alts":[]}},
+   {"id":"ja303-高速道路","hanzi":"高速道路","pinyin":"kousokudouro","vi":"đường cao tốc","ex":{"tokens":["高速道路","は","車","が","多い","です","。"],"py":["kousokudouro","wa","kuruma","ga","ooi","desu","."],"vi":"Đường cao tốc nhiều xe.","alts":[]}},
+   {"id":"ja303-料金","hanzi":"料金","pinyin":"ryoukin","vi":"cước phí","ex":{"tokens":["タクシー","の","料金","が","上がりました","。"],"py":["takushii","no","ryoukin","ga","agarimashita","."],"vi":"Cước taxi đã tăng.","alts":[]}},
+   {"id":"ja303-速度","hanzi":"速度","pinyin":"sokudo","vi":"tốc độ","ex":{"tokens":["ここ","で","速度","を","落として","ください","。"],"py":["koko","de","sokudo","o","otoshite","kudasai","."],"vi":"Hãy giảm tốc độ ở đây.","alts":[]}},
+   {"id":"ja303-通る","hanzi":"通る","pinyin":"tooru","vi":"đi qua","ex":{"tokens":["この","道","は","バス","が","通ります","。"],"py":["kono","michi","wa","basu","ga","toorimasu","."],"vi":"Xe buýt đi qua con đường này.","alts":[]}}
+  ]},
+  {"id":"ja304","title":"Nhà hàng","desc":"Gọi món, mùi vị, thanh toán","icon":"味","unit":31,"course":"ja","order":340,"words":[
+   {"id":"ja304-注文","hanzi":"注文","pinyin":"chuumon","vi":"gọi món, đặt hàng","ex":{"tokens":["ラーメン","を","二つ","注文","しました","。"],"py":["raamen","o","futatsu","chuumon","shimashita","."],"vi":"Tôi đã gọi hai bát mì ramen.","alts":[]}},
+   {"id":"ja304-辛い","hanzi":"辛い","pinyin":"karai","vi":"cay","ex":{"tokens":["この","料理","は","とても","辛い","です","。"],"py":["kono","ryouri","wa","totemo","karai","desu","."],"vi":"Món này rất cay.","alts":[]}},
+   {"id":"ja304-苦い","hanzi":"苦い","pinyin":"nigai","vi":"đắng","ex":{"tokens":["この","薬","は","苦い","です","。"],"py":["kono","kusuri","wa","nigai","desu","."],"vi":"Thuốc này đắng.","alts":[]}},
+   {"id":"ja304-酸っぱい","hanzi":"酸っぱい","pinyin":"suppai","vi":"chua","ex":{"tokens":["この","りんご","は","酸っぱい","です","。"],"py":["kono","ringo","wa","suppai","desu","."],"vi":"Quả táo này chua.","alts":[]}},
+   {"id":"ja304-薄い","hanzi":"薄い","pinyin":"usui","vi":"nhạt; mỏng","ex":{"tokens":["スープ","の","味","が","薄い","です","。"],"py":["suupu","no","aji","ga","usui","desu","."],"vi":"Vị súp nhạt.","alts":[]}},
+   {"id":"ja304-濃い","hanzi":"濃い","pinyin":"koi","vi":"đậm, đặc","ex":{"tokens":["私","は","濃い","コーヒー","が","好き","です","。"],"py":["watashi","wa","koi","koohii","ga","suki","desu","."],"vi":"Tôi thích cà phê đậm.","alts":[]}},
+   {"id":"ja304-箸","hanzi":"箸","pinyin":"hashi","vi":"đũa","ex":{"tokens":["箸","を","もう","一つ","ください","。"],"py":["hashi","o","mou","hitotsu","kudasai","."],"vi":"Cho tôi thêm một đôi đũa.","alts":[]}},
+   {"id":"ja304-皿","hanzi":"皿","pinyin":"sara","vi":"cái đĩa","ex":{"tokens":["皿","を","洗って","ください","。"],"py":["sara","o","aratte","kudasai","."],"vi":"Hãy rửa đĩa giúp tôi.","alts":[]}},
+   {"id":"ja304-配達","hanzi":"配達","pinyin":"haitatsu","vi":"giao hàng","ex":{"tokens":["ピザ","の","配達","を","頼みました","。"],"py":["piza","no","haitatsu","o","tanomimashita","."],"vi":"Tôi đã nhờ giao pizza.","alts":[]}},
+   {"id":"ja304-会計","hanzi":"会計","pinyin":"kaikei","vi":"thanh toán, kế toán","ex":{"tokens":["会計","は","別々","で","お願い","します","。"],"py":["kaikei","wa","betsubetsu","de","onegai","shimasu","."],"vi":"Xin cho thanh toán riêng.","alts":[]}},
+   {"id":"ja304-勧める","hanzi":"勧める","pinyin":"susumeru","vi":"khuyên, gợi ý","ex":{"tokens":["店員","が","この","料理","を","勧めました","。"],"py":["ten'in","ga","kono","ryouri","o","susumemashita","."],"vi":"Nhân viên quán đã gợi ý món này.","alts":[]}},
+   {"id":"ja304-満腹","hanzi":"満腹","pinyin":"manpuku","vi":"no bụng","ex":{"tokens":["たくさん","食べて","満腹","です","。"],"py":["takusan","tabete","manpuku","desu","."],"vi":"Ăn nhiều nên tôi no rồi.","alts":[]}}
+  ]},
+  {"id":"ja305","title":"Dịch vụ công","desc":"Ngân hàng, bưu điện, giấy tờ","icon":"役","unit":31,"course":"ja","order":350,"words":[
+   {"id":"ja305-通帳","hanzi":"通帳","pinyin":"tsuuchou","vi":"sổ ngân hàng","ex":{"tokens":["銀行","で","通帳","を","作りました","。"],"py":["ginkou","de","tsuuchou","o","tsukurimashita","."],"vi":"Tôi đã làm sổ ngân hàng.","alts":[]}},
+   {"id":"ja305-現金","hanzi":"現金","pinyin":"genkin","vi":"tiền mặt","ex":{"tokens":["今","現金","が","ありません","。"],"py":["ima","genkin","ga","arimasen","."],"vi":"Bây giờ tôi không có tiền mặt.","alts":[]}},
+   {"id":"ja305-両替","hanzi":"両替","pinyin":"ryougae","vi":"đổi tiền","ex":{"tokens":["空港","で","両替","しました","。"],"py":["kuukou","de","ryougae","shimashita","."],"vi":"Tôi đã đổi tiền ở sân bay.","alts":[]}},
+   {"id":"ja305-貯金","hanzi":"貯金","pinyin":"chokin","vi":"tiền tiết kiệm","ex":{"tokens":["毎月","少し","貯金","します","。"],"py":["maitsuki","sukoshi","chokin","shimasu","."],"vi":"Mỗi tháng tôi tiết kiệm một ít.","alts":[]}},
+   {"id":"ja305-小包","hanzi":"小包","pinyin":"kozutsumi","vi":"bưu kiện","ex":{"tokens":["国","に","小包","を","送りました","。"],"py":["kuni","ni","kozutsumi","o","okurimashita","."],"vi":"Tôi đã gửi bưu kiện về nước.","alts":[]}},
+   {"id":"ja305-住所","hanzi":"住所","pinyin":"juusho","vi":"địa chỉ","ex":{"tokens":["ここ","に","住所","を","書いて","ください","。"],"py":["koko","ni","juusho","o","kaite","kudasai","."],"vi":"Hãy viết địa chỉ vào đây.","alts":[]}},
+   {"id":"ja305-申し込む","hanzi":"申し込む","pinyin":"moushikomu","vi":"đăng ký","ex":{"tokens":["日本語","の","試験","に","申し込みました","。"],"py":["nihongo","no","shiken","ni","moushikomimashita","."],"vi":"Tôi đã đăng ký kỳ thi tiếng Nhật.","alts":[]}},
+   {"id":"ja305-身分証","hanzi":"身分証","pinyin":"mibunshou","vi":"giấy tờ tùy thân","ex":{"tokens":["身分証","を","見せて","ください","。"],"py":["mibunshou","o","misete","kudasai","."],"vi":"Xin cho xem giấy tờ tùy thân.","alts":[]}},
+   {"id":"ja305-外国人","hanzi":"外国人","pinyin":"gaikokujin","vi":"người nước ngoài","ex":{"tokens":["この","町","は","外国人","が","多い","です","。"],"py":["kono","machi","wa","gaikokujin","ga","ooi","desu","."],"vi":"Thị trấn này có nhiều người nước ngoài.","alts":[]}},
+   {"id":"ja305-市役所","hanzi":"市役所","pinyin":"shiyakusho","vi":"tòa thị chính","ex":{"tokens":["市役所","で","書類","を","もらいました","。"],"py":["shiyakusho","de","shorui","o","moraimashita","."],"vi":"Tôi đã nhận giấy tờ ở tòa thị chính.","alts":[]}},
+   {"id":"ja305-手続き","hanzi":"手続き","pinyin":"tetsuzuki","vi":"thủ tục","ex":{"tokens":["入学","の","手続き","を","しました","。"],"py":["nyuugaku","no","tetsuzuki","o","shimashita","."],"vi":"Tôi đã làm thủ tục nhập học.","alts":[]}},
+   {"id":"ja305-窓口","hanzi":"窓口","pinyin":"madoguchi","vi":"quầy giao dịch","ex":{"tokens":["三番","の","窓口","へ","どうぞ","。"],"py":["sanban","no","madoguchi","e","douzo","."],"vi":"Xin mời đến quầy số ba.","alts":[]}}
+  ]}
+ ]
+}

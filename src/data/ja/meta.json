@@ -5,7 +5,10 @@
   {"unit":3,"level":1,"title":"Phần 3: Thế giới quanh ta","desc":"Cơ thể, quần áo, thời tiết, nơi chốn, đi lại","color":"grape","course":"ja"},
   {"unit":21,"level":2,"title":"Phần 1: Con người và đời sống","desc":"Cảm xúc, sở thích, sức khỏe, mua sắm, công việc","color":"leaf","course":"ja"},
   {"unit":22,"level":2,"title":"Phần 2: Ra ngoài và giao tiếp","desc":"Du lịch, thành phố, liên lạc, học tập, sinh hoạt","color":"sky","course":"ja"},
-  {"unit":23,"level":2,"title":"Phần 3: Diễn đạt phong phú","desc":"Tính từ, phó từ, thiên nhiên, văn hóa, kế hoạch","color":"grape","course":"ja"}
+  {"unit":23,"level":2,"title":"Phần 3: Diễn đạt phong phú","desc":"Tính từ, phó từ, thiên nhiên, văn hóa, kế hoạch","color":"grape","course":"ja"},
+  {"unit":31,"level":3,"title":"Phần 1: Đời sống xã hội","desc":"Quan hệ, nhà ở, giao thông, nhà hàng, dịch vụ","color":"leaf","course":"ja"},
+  {"unit":32,"level":3,"title":"Phần 2: Công việc và học tập","desc":"Xin việc, văn phòng, đại học, bệnh viện, giải trí","color":"sky","course":"ja"},
+  {"unit":33,"level":3,"title":"Phần 3: Xã hội và suy nghĩ","desc":"Cảm xúc, môi trường, truyền thông, động từ, từ nối","color":"grape","course":"ja"}
  ],
  "lessons": [
   ["ja101","Chào hỏi","挨",1,12],
@@ -37,6 +40,21 @@
   ["ja212","Phó từ và từ nối","副",23,12],
   ["ja213","Thiên nhiên và động vật","花",23,12],
   ["ja214","Văn hóa và xã hội","文",23,12],
-  ["ja215","Kế hoạch và ý kiến","夢",23,12]
+  ["ja215","Kế hoạch và ý kiến","夢",23,12],
+  ["ja301","Tính cách và quan hệ","仲",31,12],
+  ["ja302","Nhà ở","住",31,12],
+  ["ja303","Giao thông","交",31,12],
+  ["ja304","Nhà hàng","味",31,12],
+  ["ja305","Dịch vụ công","役",31,12],
+  ["ja306","Xin việc","職",32,12],
+  ["ja307","Văn phòng","務",32,12],
+  ["ja308","Đại học","学",32,12],
+  ["ja309","Bệnh viện","診",32,12],
+  ["ja310","Thể thao và giải trí","遊",32,12],
+  ["ja311","Cảm xúc sâu hơn","情",33,12],
+  ["ja312","Môi trường và thời tiết","環",33,12],
+  ["ja313","Truyền thông","報",33,12],
+  ["ja314","Động từ thường dùng","動",33,12],
+  ["ja315","Phó từ và từ nối 2","副",33,12]
  ]
 }

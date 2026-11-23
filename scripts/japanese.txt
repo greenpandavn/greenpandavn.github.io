@@ -1,4 +1,4 @@
-# Khóa tiếng Nhật (JLPT N5–N4). Định dạng: xem scripts/build-data.mjs.
+# Khóa tiếng Nhật (JLPT N5–N1). Định dạng: xem scripts/build-data.mjs.
 # Từ hoặc cụm có Kanji viết kèm cách đọc: 学校:がっこう. Romaji được tạo tự động từ Kana.
 %1|1|Phần 1: Làm quen|Chào hỏi, giới thiệu, số đếm, gia đình, con người|leaf
 @ja101|Chào hỏi|Xin chào, cảm ơn, xin lỗi|挨
@@ -425,3 +425,216 @@
 問題:もんだい|vấn đề, câu hỏi|この 問題:もんだい は 一人:ひとり で は 難しい:むずかしい です 。|Vấn đề này khó nếu làm một mình.
 方法:ほうほう|phương pháp, cách|いい 勉強:べんきょう の 方法:ほうほう を 教えて:おしえて ください 。|Hãy chỉ cho tôi cách học tốt.
 意見:いけん|ý kiến|皆:みんな の 意見:いけん を 聞きたい:ききたい です 。|Tôi muốn nghe ý kiến của mọi người.
+
+%31|3|Phần 1: Đời sống xã hội|Quan hệ, nhà ở, giao thông, nhà hàng, dịch vụ|leaf
+@ja301|Tính cách và quan hệ|Bạn bè, hàng xóm, tin tưởng|仲
+近所:きんじょ|hàng xóm, vùng lân cận|近所:きんじょ の 人:ひと は 親切:しんせつ です 。|Người hàng xóm rất tốt bụng.
+先輩:せんぱい|tiền bối, đàn anh|先輩:せんぱい が 仕事:しごと を 教えて:おしえて くれました 。|Tiền bối đã chỉ việc cho tôi.
+後輩:こうはい|hậu bối, đàn em|後輩:こうはい と 昼ご飯:ひるごはん を 食べました:たべました 。|Tôi đã ăn trưa với đàn em.
+関係:かんけい|mối quan hệ|二人:ふたり は 関係:かんけい が いい です 。|Hai người có quan hệ tốt.
+正直:しょうじき|thật thà, thẳng thắn|彼:かれ は 正直:しょうじき な 人:ひと です 。|Anh ấy là người thật thà.
+信じる:しんじる|tin tưởng|私:わたし は 友達:ともだち を 信じます:しんじます 。|Tôi tin bạn mình.
+喧嘩:けんか|cãi nhau, đánh nhau|兄:あに と 喧嘩:けんか を しました 。|Tôi đã cãi nhau với anh trai.
+仲直り:なかなおり|làm hòa|昨日:きのう 友達:ともだち と 仲直り:なかなおり しました 。|Hôm qua tôi đã làm hòa với bạn.
+付き合う:つきあう|giao du, hẹn hò|彼女:かのじょ と 二年:にねん 付き合って:つきあって います 。|Tôi đã hẹn hò với cô ấy hai năm.
+我慢:がまん|chịu đựng, nhẫn nhịn|痛くて:いたくて も 我慢:がまん しました 。|Dù đau tôi vẫn chịu đựng.
+親しい:したしい|thân thiết|彼:かれ は 私:わたし の 親しい:したしい 友人:ゆうじん です 。|Anh ấy là bạn thân của tôi.
+礼儀:れいぎ|lễ nghĩa, phép lịch sự|あの 子:こ は 礼儀:れいぎ が 正しい:ただしい です 。|Đứa bé đó rất lễ phép.
+
+@ja302|Nhà ở|Thuê nhà, chuyển nhà, đồ đạc|住
+引っ越す:ひっこす|chuyển nhà|来月:らいげつ 東京:とうきょう に 引っ越します:ひっこします 。|Tháng sau tôi chuyển nhà đến Tokyo.
+家賃:やちん|tiền thuê nhà|この 部屋:へや は 家賃:やちん が 高い:たかい です 。|Phòng này tiền thuê đắt.
+大家:おおや|chủ nhà|大家:おおや さん に 電話:でんわ しました 。|Tôi đã gọi điện cho chủ nhà.
+家具:かぐ|đồ nội thất|新しい:あたらしい 家具:かぐ を 買いたい:かいたい です 。|Tôi muốn mua đồ nội thất mới.
+洗濯機:せんたくき|máy giặt|洗濯機:せんたくき が 壊れました:こわれました 。|Máy giặt đã hỏng.
+冷房:れいぼう|máy lạnh|夏:なつ は 冷房:れいぼう が 必要:ひつよう です 。|Mùa hè cần máy lạnh.
+階段:かいだん|cầu thang|階段:かいだん で 三階:さんがい まで 上がります:あがります 。|Tôi leo cầu thang lên tầng ba.
+ごみ|rác|ごみ を 外:そと に 出しました:だしました 。|Tôi đã đem rác ra ngoài.
+片付ける:かたづける|dọn dẹp|週末:しゅうまつ に 部屋:へや を 片付けました:かたづけました 。|Cuối tuần tôi đã dọn phòng.
+壁:かべ|bức tường|壁:かべ に 絵:え を 掛けました:かけました 。|Tôi đã treo tranh lên tường.
+床:ゆか|sàn nhà|床:ゆか に 本:ほん が 落ちて:おちて います 。|Cuốn sách rơi trên sàn.
+屋根:やね|mái nhà|屋根:やね の 上:うえ に 猫:ねこ が います 。|Trên mái nhà có con mèo.
+
+@ja303|Giao thông|Lái xe, đường sá, tai nạn|交
+運転:うんてん|lái xe|父:ちち が 車:くるま を 運転:うんてん します 。|Bố tôi lái xe.
+免許:めんきょ|giấy phép, bằng lái|去年:きょねん 免許:めんきょ を 取りました:とりました 。|Năm ngoái tôi đã lấy bằng lái.
+駐車場:ちゅうしゃじょう|bãi đỗ xe|駐車場:ちゅうしゃじょう は いっぱい です 。|Bãi đỗ xe đã đầy.
+交通:こうつう|giao thông|この 町:まち は 交通:こうつう が 便利:べんり です 。|Thị trấn này giao thông thuận tiện.
+事故:じこ|tai nạn|道:みち で 事故:じこ が ありました 。|Trên đường đã có tai nạn.
+渋滞:じゅうたい|tắc đường|朝:あさ は 道:みち が 渋滞:じゅうたい します 。|Buổi sáng đường bị tắc.
+乗り換える:のりかえる|đổi tàu, chuyển xe|次:つぎ の 駅:えき で 乗り換えます:のりかえます 。|Tôi đổi tàu ở ga tiếp theo.
+降りる:おりる|xuống xe|ここ で バス を 降ります:おります 。|Tôi xuống xe buýt ở đây.
+高速道路:こうそくどうろ|đường cao tốc|高速道路:こうそくどうろ は 車:くるま が 多い:おおい です 。|Đường cao tốc nhiều xe.
+料金:りょうきん|cước phí|タクシー の 料金:りょうきん が 上がりました:あがりました 。|Cước taxi đã tăng.
+速度:そくど|tốc độ|ここ で 速度:そくど を 落として:おとして ください 。|Hãy giảm tốc độ ở đây.
+通る:とおる|đi qua|この 道:みち は バス が 通ります:とおります 。|Xe buýt đi qua con đường này.
+
+@ja304|Nhà hàng|Gọi món, mùi vị, thanh toán|味
+注文:ちゅうもん|gọi món, đặt hàng|ラーメン を 二つ:ふたつ 注文:ちゅうもん しました 。|Tôi đã gọi hai bát mì ramen.
+辛い:からい|cay|この 料理:りょうり は とても 辛い:からい です 。|Món này rất cay.
+苦い:にがい|đắng|この 薬:くすり は 苦い:にがい です 。|Thuốc này đắng.
+酸っぱい:すっぱい|chua|この りんご は 酸っぱい:すっぱい です 。|Quả táo này chua.
+薄い:うすい|nhạt; mỏng|スープ の 味:あじ が 薄い:うすい です 。|Vị súp nhạt.
+濃い:こい|đậm, đặc|私:わたし は 濃い:こい コーヒー が 好き:すき です 。|Tôi thích cà phê đậm.
+箸:はし|đũa|箸:はし を もう 一つ:ひとつ ください 。|Cho tôi thêm một đôi đũa.
+皿:さら|cái đĩa|皿:さら を 洗って:あらって ください 。|Hãy rửa đĩa giúp tôi.
+配達:はいたつ|giao hàng|ピザ の 配達:はいたつ を 頼みました:たのみました 。|Tôi đã nhờ giao pizza.
+会計:かいけい|thanh toán, kế toán|会計:かいけい は 別々:べつべつ で お願い:おねがい します 。|Xin cho thanh toán riêng.
+勧める:すすめる|khuyên, gợi ý|店員:てんいん が この 料理:りょうり を 勧めました:すすめました 。|Nhân viên quán đã gợi ý món này.
+満腹:まんぷく|no bụng|たくさん 食べて:たべて 満腹:まんぷく です 。|Ăn nhiều nên tôi no rồi.
+
+@ja305|Dịch vụ công|Ngân hàng, bưu điện, giấy tờ|役
+通帳:つうちょう|sổ ngân hàng|銀行:ぎんこう で 通帳:つうちょう を 作りました:つくりました 。|Tôi đã làm sổ ngân hàng.
+現金:げんきん|tiền mặt|今:いま 現金:げんきん が ありません 。|Bây giờ tôi không có tiền mặt.
+両替:りょうがえ|đổi tiền|空港:くうこう で 両替:りょうがえ しました 。|Tôi đã đổi tiền ở sân bay.
+貯金:ちょきん|tiền tiết kiệm|毎月:まいつき 少し:すこし 貯金:ちょきん します 。|Mỗi tháng tôi tiết kiệm một ít.
+小包:こづつみ|bưu kiện|国:くに に 小包:こづつみ を 送りました:おくりました 。|Tôi đã gửi bưu kiện về nước.
+住所:じゅうしょ|địa chỉ|ここ に 住所:じゅうしょ を 書いて:かいて ください 。|Hãy viết địa chỉ vào đây.
+申し込む:もうしこむ|đăng ký|日本語:にほんご の 試験:しけん に 申し込みました:もうしこみました 。|Tôi đã đăng ký kỳ thi tiếng Nhật.
+身分証:みぶんしょう|giấy tờ tùy thân|身分証:みぶんしょう を 見せて:みせて ください 。|Xin cho xem giấy tờ tùy thân.
+外国人:がいこくじん|người nước ngoài|この 町:まち は 外国人:がいこくじん が 多い:おおい です 。|Thị trấn này có nhiều người nước ngoài.
+市役所:しやくしょ|tòa thị chính|市役所:しやくしょ で 書類:しょるい を もらいました 。|Tôi đã nhận giấy tờ ở tòa thị chính.
+手続き:てつづき|thủ tục|入学:にゅうがく の 手続き:てつづき を しました 。|Tôi đã làm thủ tục nhập học.
+窓口:まどぐち|quầy giao dịch|三番:さんばん の 窓口:まどぐち へ どうぞ 。|Xin mời đến quầy số ba.
+
+%32|3|Phần 2: Công việc và học tập|Xin việc, văn phòng, đại học, bệnh viện, giải trí|sky
+@ja306|Xin việc|Hồ sơ, phỏng vấn, năng lực|職
+就職:しゅうしょく|tìm được việc làm|兄:あに は 大きい:おおきい 会社:かいしゃ に 就職:しゅうしょく しました 。|Anh tôi đã vào làm ở một công ty lớn.
+面接:めんせつ|phỏng vấn|明日:あした 会社:かいしゃ の 面接:めんせつ が あります 。|Ngày mai tôi có buổi phỏng vấn ở công ty.
+履歴書:りれきしょ|sơ yếu lý lịch|履歴書:りれきしょ を メール で 送りました:おくりました 。|Tôi đã gửi sơ yếu lý lịch qua email.
+応募:おうぼ|ứng tuyển|その 仕事:しごと に 応募:おうぼ しました 。|Tôi đã ứng tuyển công việc đó.
+資格:しかく|chứng chỉ, tư cách|看護師:かんごし の 資格:しかく を 取りました:とりました 。|Tôi đã lấy chứng chỉ y tá.
+能力:のうりょく|năng lực|彼:かれ は 能力:のうりょく が 高い:たかい です 。|Anh ấy có năng lực cao.
+合格:ごうかく|thi đỗ|妹:いもうと が 試験:しけん に 合格:ごうかく しました 。|Em gái tôi đã thi đỗ.
+落ちる:おちる|rơi; thi trượt|今度:こんど の 試験:しけん に 落ちました:おちました 。|Tôi đã trượt kỳ thi lần này.
+採用:さいよう|tuyển dụng|会社:かいしゃ は 五人:ごにん を 採用:さいよう しました 。|Công ty đã tuyển năm người.
+給与:きゅうよ|tiền lương (trang trọng)|給与:きゅうよ は 月末:げつまつ に 出ます:でます 。|Lương được trả vào cuối tháng.
+転職:てんしょく|chuyển việc|来年:らいねん 転職:てんしょく する つもり です 。|Năm sau tôi định chuyển việc.
+将来:しょうらい|tương lai|将来:しょうらい は 医者:いしゃ に なりたい です 。|Tương lai tôi muốn trở thành bác sĩ.
+
+@ja307|Văn phòng|Công việc hằng ngày ở công ty|務
+部長:ぶちょう|trưởng phòng|部長:ぶちょう に 報告書:ほうこくしょ を 出しました:だしました 。|Tôi đã nộp báo cáo cho trưởng phòng.
+報告:ほうこく|báo cáo|結果:けっか を 上司:じょうし に 報告:ほうこく しました 。|Tôi đã báo cáo kết quả với cấp trên.
+出張:しゅっちょう|công tác|来週:らいしゅう 大阪:おおさか へ 出張:しゅっちょう します 。|Tuần sau tôi đi công tác Osaka.
+上司:じょうし|cấp trên|上司:じょうし は とても 厳しい:きびしい です 。|Cấp trên rất nghiêm khắc.
+担当:たんとう|phụ trách|私:わたし は 広告:こうこく を 担当:たんとう して います 。|Tôi phụ trách quảng cáo.
+資料:しりょう|tài liệu|会議:かいぎ の 資料:しりょう を 準備:じゅんび しました 。|Tôi đã chuẩn bị tài liệu họp.
+発表:はっぴょう|phát biểu, thuyết trình|明日:あした 会議:かいぎ で 発表:はっぴょう します 。|Ngày mai tôi thuyết trình trong cuộc họp.
+締め切り:しめきり|hạn chót|締め切り:しめきり は 明日:あした です 。|Hạn chót là ngày mai.
+出席:しゅっせき|có mặt, tham dự|全員:ぜんいん が 会議:かいぎ に 出席:しゅっせき しました 。|Mọi người đã dự họp.
+欠席:けっせき|vắng mặt|風邪:かぜ で 授業:じゅぎょう を 欠席:けっせき しました 。|Tôi đã nghỉ học vì cảm.
+遅刻:ちこく|đến muộn|電車:でんしゃ が 遅れて:おくれて 遅刻:ちこく しました 。|Tàu trễ nên tôi đã đến muộn.
+名刺:めいし|danh thiếp|初めて:はじめて 会う:あう 人:ひと に 名刺:めいし を 渡します:わたします 。|Tôi đưa danh thiếp cho người gặp lần đầu.
+
+@ja308|Đại học|Học kỳ, học bổng, bài tập|学
+学期:がっき|học kỳ|新しい:あたらしい 学期:がっき は 四月:しがつ に 始まります:はじまります 。|Học kỳ mới bắt đầu vào tháng tư.
+奨学金:しょうがくきん|học bổng|奨学金:しょうがくきん を もらいました 。|Tôi đã nhận học bổng.
+授業料:じゅぎょうりょう|học phí|授業料:じゅぎょうりょう は 毎年:まいとし 上がります:あがります 。|Học phí tăng hằng năm.
+寮:りょう|ký túc xá|私:わたし は 大学:だいがく の 寮:りょう に 住んで:すんで います 。|Tôi sống ở ký túc xá đại học.
+教授:きょうじゅ|giáo sư|教授:きょうじゅ に 質問:しつもん しました 。|Tôi đã hỏi giáo sư.
+講義:こうぎ|bài giảng|この 講義:こうぎ は 面白い:おもしろい です 。|Bài giảng này thú vị.
+成績:せいせき|thành tích, điểm số|今学期:こんがっき の 成績:せいせき は いい です 。|Điểm học kỳ này tốt.
+復習:ふくしゅう|ôn tập|家:いえ で 今日:きょう の 授業:じゅぎょう を 復習:ふくしゅう します 。|Ở nhà tôi ôn lại bài học hôm nay.
+予習:よしゅう|chuẩn bị bài trước|授業:じゅぎょう の 前:まえ に 予習:よしゅう します 。|Trước giờ học tôi chuẩn bị bài.
+留学:りゅうがく|du học|日本:にほん に 留学:りゅうがく したい です 。|Tôi muốn du học Nhật Bản.
+論文:ろんぶん|luận văn|卒業:そつぎょう の 論文:ろんぶん を 書いて:かいて います 。|Tôi đang viết luận văn tốt nghiệp.
+辞書:じしょ|từ điển|知らない:しらない 言葉:ことば を 辞書:じしょ で 調べます:しらべます 。|Tôi tra từ không biết bằng từ điển.
+
+@ja309|Bệnh viện|Triệu chứng, khám, điều trị|診
+症状:しょうじょう|triệu chứng|どんな 症状:しょうじょう が あります か 。|Bạn có triệu chứng gì?
+注射:ちゅうしゃ|tiêm|病院:びょういん で 注射:ちゅうしゃ を しました 。|Tôi đã tiêm ở bệnh viện.
+手術:しゅじゅつ|phẫu thuật|祖父:そふ は 昨日:きのう 手術:しゅじゅつ を 受けました:うけました 。|Ông tôi đã phẫu thuật hôm qua.
+退院:たいいん|xuất viện|来週:らいしゅう 退院:たいいん できます 。|Tuần sau có thể xuất viện.
+検査:けんさ|kiểm tra, xét nghiệm|明日:あした 健康:けんこう の 検査:けんさ を 受けます:うけます 。|Ngày mai tôi đi kiểm tra sức khỏe.
+歯医者:はいしゃ|nha sĩ|歯:は が 痛くて:いたくて 歯医者:はいしゃ に 行きました:いきました 。|Tôi đau răng nên đã đi nha sĩ.
+体温:たいおん|thân nhiệt|看護師:かんごし が 体温:たいおん を 測りました:はかりました 。|Y tá đã đo thân nhiệt.
+血:ち|máu|指:ゆび から 血:ち が 出ました:でました 。|Máu đã chảy ra từ ngón tay.
+骨:ほね|xương|足:あし の 骨:ほね を 折りました:おりました 。|Tôi đã gãy xương chân.
+吐き気:はきけ|buồn nôn|朝:あさ から 吐き気:はきけ が します 。|Từ sáng tôi đã thấy buồn nôn.
+診察:しんさつ|khám bệnh|医者:いしゃ の 診察:しんさつ を 受けました:うけました 。|Tôi đã được bác sĩ khám.
+保険証:ほけんしょう|thẻ bảo hiểm|受付:うけつけ で 保険証:ほけんしょう を 出します:だします 。|Tôi xuất trình thẻ bảo hiểm ở quầy tiếp nhận.
+
+@ja310|Thể thao và giải trí|Trận đấu, đội, buổi diễn|遊
+試合:しあい|trận đấu|昨日:きのう サッカー の 試合:しあい を 見ました:みました 。|Hôm qua tôi đã xem trận bóng đá.
+選手:せんしゅ|vận động viên|あの 選手:せんしゅ は とても 速い:はやい です 。|Vận động viên đó rất nhanh.
+勝つ:かつ|thắng|私たち:わたしたち の チーム が 勝ちました:かちました 。|Đội chúng tôi đã thắng.
+負ける:まける|thua|昨日:きのう の 試合:しあい に 負けました:まけました 。|Tôi đã thua trận hôm qua.
+応援:おうえん|cổ vũ|友達:ともだち と 日本:にほん を 応援:おうえん しました 。|Tôi đã cùng bạn cổ vũ đội Nhật.
+登山:とざん|leo núi|週末:しゅうまつ に 登山:とざん を します 。|Cuối tuần tôi leo núi.
+演奏:えんそう|biểu diễn nhạc cụ|姉:あね が ピアノ を 演奏:えんそう します 。|Chị tôi biểu diễn piano.
+展覧会:てんらんかい|triển lãm|美術:びじゅつ の 展覧会:てんらんかい に 行きました:いきました 。|Tôi đã đi xem triển lãm mỹ thuật.
+俳優:はいゆう|diễn viên|あの 俳優:はいゆう は 有名:ゆうめい です 。|Diễn viên đó nổi tiếng.
+監督:かんとく|đạo diễn; huấn luyện viên|この 映画:えいが の 監督:かんとく は 若い:わかい です 。|Đạo diễn của bộ phim này còn trẻ.
+小説:しょうせつ|tiểu thuyết|日本:にほん の 小説:しょうせつ を 読んで:よんで います 。|Tôi đang đọc tiểu thuyết Nhật.
+番組:ばんぐみ|chương trình (tivi)|夜:よる の 番組:ばんぐみ を よく 見ます:みます 。|Tôi hay xem chương trình buổi tối.
+
+%33|3|Phần 3: Xã hội và suy nghĩ|Cảm xúc, môi trường, truyền thông, động từ, từ nối|grape
+@ja311|Cảm xúc sâu hơn|Diễn tả tâm trạng|情
+感情:かんじょう|cảm xúc|感情:かんじょう を 正直:しょうじき に 話します:はなします 。|Tôi nói thật cảm xúc của mình.
+驚く:おどろく|ngạc nhiên|大きい:おおきい 音:おと に 驚きました:おどろきました 。|Tôi đã giật mình vì tiếng động lớn.
+満足:まんぞく|hài lòng|今:いま の 生活:せいかつ に 満足:まんぞく して います 。|Tôi hài lòng với cuộc sống hiện tại.
+緊張:きんちょう|hồi hộp, căng thẳng|面接:めんせつ で 緊張:きんちょう しました 。|Tôi đã hồi hộp trong buổi phỏng vấn.
+懐かしい:なつかしい|thân thương, gợi nhớ|この 歌:うた は 懐かしい:なつかしい です 。|Bài hát này gợi nhớ thật.
+怖い:こわい|sợ, đáng sợ|夜:よる の 道:みち は 怖い:こわい です 。|Con đường ban đêm đáng sợ.
+後悔:こうかい|hối hận|勉強:べんきょう しなかった こと を 後悔:こうかい して います 。|Tôi hối hận vì đã không học.
+悔しい:くやしい|tức tối, tiếc nuối|試合:しあい に 負けて:まけて 悔しい:くやしい です 。|Thua trận nên tôi tức lắm.
+羨ましい:うらやましい|ghen tị, ngưỡng mộ|歌:うた が 上手:じょうず な 人:ひと が 羨ましい:うらやましい です 。|Tôi ghen tị với người hát hay.
+感動:かんどう|cảm động|その 映画:えいが に 感動:かんどう しました 。|Tôi đã cảm động vì bộ phim đó.
+不安:ふあん|bất an|試験:しけん の 前:まえ は 不安:ふあん です 。|Trước kỳ thi tôi thấy bất an.
+落ち着く:おちつく|bình tĩnh lại|お茶:おちゃ を 飲む:のむ と 落ち着きます:おちつきます 。|Uống trà thì tôi bình tĩnh lại.
+
+@ja312|Môi trường và thời tiết|Khí hậu, ô nhiễm, thiên tai|環
+環境:かんきょう|môi trường|環境:かんきょう を 守りましょう:まもりましょう 。|Hãy bảo vệ môi trường.
+汚染:おせん|ô nhiễm|川:かわ の 汚染:おせん が ひどい です 。|Ô nhiễm sông rất nặng.
+空気:くうき|không khí|山:やま は 空気:くうき が きれい です 。|Trên núi không khí trong lành.
+気温:きおん|nhiệt độ không khí|今日:きょう は 気温:きおん が 低い:ひくい です 。|Hôm nay nhiệt độ thấp.
+台風:たいふう|bão|明日:あした 台風:たいふう が 来ます:きます 。|Ngày mai bão đến.
+地震:じしん|động đất|昨日:きのう の 夜:よる 地震:じしん が ありました 。|Đêm qua đã có động đất.
+洪水:こうずい|lũ lụt|大雨:おおあめ で 洪水:こうずい に なりました 。|Mưa to nên đã thành lũ lụt.
+梅雨:つゆ|mùa mưa|六月:ろくがつ に 梅雨:つゆ が 始まります:はじまります 。|Tháng sáu mùa mưa bắt đầu.
+減らす:へらす|giảm bớt|ごみ を 減らしましょう:へらしましょう 。|Hãy giảm bớt rác.
+自然:しぜん|thiên nhiên|この 島:しま は 自然:しぜん が 豊か:ゆたか です 。|Hòn đảo này thiên nhiên phong phú.
+湿度:しつど|độ ẩm|夏:なつ は 湿度:しつど が 高い:たかい です 。|Mùa hè độ ẩm cao.
+節約:せつやく|tiết kiệm|水:みず と 電気:でんき を 節約:せつやく します 。|Tôi tiết kiệm nước và điện.
+
+@ja313|Truyền thông|Tin tức, quảng cáo, mạng|報
+放送:ほうそう|phát sóng|その 試合:しあい は 夜:よる に 放送:ほうそう します 。|Trận đấu đó phát sóng vào buổi tối.
+記事:きじ|bài báo|新聞:しんぶん の 記事:きじ を 読みました:よみました 。|Tôi đã đọc bài báo.
+広告:こうこく|quảng cáo|テレビ は 広告:こうこく が 多い:おおい です 。|Ti vi nhiều quảng cáo.
+情報:じょうほう|thông tin|インターネット で 情報:じょうほう を 探します:さがします 。|Tôi tìm thông tin trên mạng.
+検索:けんさく|tìm kiếm (trên mạng)|店:みせ の 名前:なまえ を 検索:けんさく しました 。|Tôi đã tìm tên cửa hàng trên mạng.
+記者:きしゃ|phóng viên|記者:きしゃ が 市民:しみん に 質問:しつもん しました 。|Phóng viên đã hỏi người dân.
+雑誌:ざっし|tạp chí|毎月:まいつき この 雑誌:ざっし を 買います:かいます 。|Tháng nào tôi cũng mua tạp chí này.
+画面:がめん|màn hình|携帯:けいたい の 画面:がめん が 割れました:われました 。|Màn hình điện thoại đã vỡ.
+噂:うわさ|tin đồn|その 噂:うわさ は 本当:ほんとう では ありません 。|Tin đồn đó không phải thật.
+人気:にんき|sự được yêu thích|この 歌:うた は 人気:にんき が あります 。|Bài hát này được yêu thích.
+投稿:とうこう|đăng bài|旅行:りょこう の 写真:しゃしん を 投稿:とうこう しました 。|Tôi đã đăng ảnh du lịch.
+事件:じけん|vụ việc, vụ án|昨日:きのう 駅:えき で 事件:じけん が ありました 。|Hôm qua ở ga đã có một vụ việc.
+
+@ja314|Động từ thường dùng|Hành động trong đời sống|動
+選ぶ:えらぶ|chọn|好き:すき な 色:いろ を 選びました:えらびました 。|Tôi đã chọn màu mình thích.
+借りる:かりる|mượn|図書館:としょかん で 本:ほん を 借りました:かりました 。|Tôi đã mượn sách ở thư viện.
+返す:かえす|trả lại|友達:ともだち に 傘:かさ を 返しました:かえしました 。|Tôi đã trả ô cho bạn.
+無くす:なくす|làm mất|電車:でんしゃ で 財布:さいふ を 無くしました:なくしました 。|Tôi đã làm mất ví trên tàu.
+探す:さがす|tìm|鍵:かぎ を 探して:さがして います 。|Tôi đang tìm chìa khóa.
+直す:なおす|sửa chữa|父:ちち が 自転車:じてんしゃ を 直しました:なおしました 。|Bố tôi đã sửa xe đạp.
+運ぶ:はこぶ|vận chuyển, mang|荷物:にもつ を 部屋:へや に 運びました:はこびました 。|Tôi đã mang hành lý vào phòng.
+集める:あつめる|thu thập, gom|弟:おとうと は 切手:きって を 集めて:あつめて います 。|Em trai tôi sưu tầm tem.
+分ける:わける|chia|ケーキ を 四つ:よっつ に 分けました:わけました 。|Tôi đã chia bánh làm bốn.
+守る:まもる|giữ, bảo vệ|約束:やくそく を 守って:まもって ください 。|Hãy giữ lời hứa.
+忘れる:わすれる|quên|友達:ともだち の 誕生日:たんじょうび を 忘れました:わすれました 。|Tôi đã quên sinh nhật của bạn.
+覚える:おぼえる|ghi nhớ|毎日:まいにち 漢字:かんじ を 十:じゅう 覚えます:おぼえます 。|Mỗi ngày tôi nhớ mười chữ Hán.
+
+@ja315|Phó từ và từ nối 2|Nối câu, mức độ, thời điểm|副
+突然:とつぜん|đột nhiên|突然:とつぜん 雨:あめ が 降りました:ふりました 。|Đột nhiên trời đổ mưa.
+やっと|cuối cùng thì|やっと 試験:しけん が 終わりました:おわりました 。|Cuối cùng thì kỳ thi đã xong.
+やはり|quả nhiên|やはり 母:はは の 料理:りょうり は おいしい です 。|Quả nhiên món mẹ nấu ngon.
+多分:たぶん|có lẽ|多分:たぶん 明日:あした は 雪:ゆき です 。|Có lẽ ngày mai có tuyết.
+全然:ぜんぜん|hoàn toàn (không)|私:わたし は お酒:おさけ を 全然:ぜんぜん 飲みません:のみません 。|Tôi hoàn toàn không uống rượu.
+ほとんど|hầu như|宿題:しゅくだい は ほとんど 終わりました:おわりました 。|Bài tập hầu như đã xong.
+特に:とくに|đặc biệt là|果物:くだもの は 特に:とくに りんご が 好き:すき です 。|Hoa quả thì tôi đặc biệt thích táo.
+ところで|nhân tiện|ところで 、 今:いま 何時:なんじ です か 。|Nhân tiện, bây giờ là mấy giờ?
+それなら|nếu vậy thì|それなら 明日:あした また 会いましょう:あいましょう 。|Nếu vậy thì mai gặp lại nhé.
+なぜなら|bởi vì|行けません:いけません 、 なぜなら 仕事:しごと が あります 。|Tôi không đi được, bởi vì có việc.
+もし|nếu|もし 雨:あめ なら 家:いえ に います 。|Nếu mưa thì tôi ở nhà.
+かなり|khá là|今日:きょう の 試験:しけん は かなり 難しい:むずかしい です 。|Bài thi hôm nay khá khó.
