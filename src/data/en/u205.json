@@ -28,7 +28,7 @@
    {"id":"n15-scratch","hanzi":"scratch","pinyin":"","vi":"vết xước; gãi, cào","ex":{"tokens":["It","is","only","a","scratch","."],"py":["","","","","","."],"vi":"Chỉ là một vết xước thôi.","alts":[]}},
    {"id":"n15-scar","hanzi":"scar","pinyin":"","vi":"vết sẹo","ex":{"tokens":["He","has","a","scar","on","his","chin","."],"py":["","","","","","","","."],"vi":"Anh ấy có một vết sẹo ở cằm.","alts":[]}},
    {"id":"n15-swelling","hanzi":"swelling","pinyin":"","vi":"chỗ sưng","ex":{"tokens":["Ice","will","bring","the","swelling","down","."],"py":["","","","","","","."],"vi":"Đá lạnh sẽ làm giảm sưng.","alts":[]}},
-   {"id":"n15-crutches","hanzi":"crutches","pinyin":"","vi":"cặp nạng","ex":{"tokens":["He","walked","on","crutches","for","a","month","."],"py":["","","","","","","","."],"vi":"Anh ấy đi bằng nạng suốt một tháng.","alts":[]}},
+   {"id":"n15-sling","hanzi":"sling","pinyin":"","vi":"băng đeo tay","ex":{"tokens":["He","wore","a","sling","for","a","month","."],"py":["","","","","","","","."],"vi":"Anh ấy đeo băng treo tay suốt một tháng.","alts":[]}},
    {"id":"n15-cast","hanzi":"cast","pinyin":"","vi":"bột bó (xương gãy); dàn diễn viên","ex":{"tokens":["His","arm","is","in","a","cast","."],"py":["","","","","","","."],"vi":"Tay anh ấy đang bó bột.","alts":[]}}
   ]},
   {"id":"n16","title":"Đi khám bệnh","desc":"Khám tổng quát, chụp X-quang, dược sĩ, niềng răng","icon":"Clinic","unit":205,"course":"en","order":1580,"words":[
@@ -109,7 +109,7 @@
    {"id":"n21-reception","hanzi":"reception","pinyin":"","vi":"tiệc chiêu đãi; quầy lễ tân","ex":{"tokens":["The","reception","is","at","a","hotel","by","the","river","."],"py":["","","","","","","","","","."],"vi":"Tiệc cưới được tổ chức ở một khách sạn bên sông.","alts":[]}},
    {"id":"n21-veil","hanzi":"veil","pinyin":"","vi":"khăn voan","ex":{"tokens":["Her","veil","was","two","meters","long","."],"py":["","","","","","","."],"vi":"Khăn voan của cô ấy dài hai mét.","alts":[]}},
    {"id":"n21-bouquet","hanzi":"bouquet","pinyin":"","vi":"bó hoa","ex":{"tokens":["She","carried","a","bouquet","of","roses","."],"py":["","","","","","","."],"vi":"Cô ấy cầm một bó hoa hồng.","alts":[]}},
-   {"id":"n21-newlyweds","hanzi":"newlyweds","pinyin":"","vi":"vợ chồng mới cưới","ex":{"tokens":["The","newlyweds","left","for","the","beach","."],"py":["","","","","","","."],"vi":"Đôi vợ chồng mới cưới đã lên đường ra biển.","alts":[]}},
+   {"id":"n21-best_man","hanzi":"best man","pinyin":"","vi":"phù rể chính","ex":{"tokens":["The","best","man","gave","a","funny","speech","."],"py":["","","","","","","","."],"vi":"Phù rể chính đã có một bài phát biểu vui nhộn.","alts":[]}},
    {"id":"n21-bridesmaid","hanzi":"bridesmaid","pinyin":"","vi":"phù dâu","ex":{"tokens":["Her","best","friend","was","her","bridesmaid","."],"py":["","","","","","","."],"vi":"Bạn thân nhất của cô ấy làm phù dâu.","alts":[]}},
    {"id":"n21-fiancee","hanzi":"fiancee","pinyin":"","vi":"vợ chưa cưới","ex":{"tokens":["He","introduced","his","fiancee","to","his","parents","."],"py":["","","","","","","","."],"vi":"Anh ấy giới thiệu vợ chưa cưới với bố mẹ.","alts":[]}},
    {"id":"n21-newlywed","hanzi":"newlywed","pinyin":"","vi":"người mới cưới; mới cưới","ex":{"tokens":["The","newlywed","couple","moved","to","Hue","."],"py":["","","","","","","."],"vi":"Cặp vợ chồng mới cưới chuyển đến Huế.","alts":[]}},

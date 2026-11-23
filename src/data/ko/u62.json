@@ -1,0 +1,77 @@
+{
+ "units": [
+  {"unit":62,"level":6,"title":"Phần 2: Học thuật và nhân văn","desc":"Triết học, ngôn ngữ, y sinh, nghệ thuật, lịch sử tư tưởng","color":"sky","course":"ko"}
+ ],
+ "lessons": [
+  {"id":"ko606","title":"Triết học và logic","desc":"Tồn tại, bản chất, mâu thuẫn","icon":"철","unit":62,"course":"ko","order":810,"words":[
+   {"id":"ko606-본질","hanzi":"본질","pinyin":"bonjil","vi":"bản chất","ex":{"tokens":["문제의","본질을","봐야","합니다","."],"py":["munjeui","bonjireul","bwaya","hamnida","."],"vi":"Phải nhìn vào bản chất của vấn đề.","alts":[]}},
+   {"id":"ko606-존재","hanzi":"존재","pinyin":"jonjae","vi":"sự tồn tại","ex":{"tokens":["그는","팀에서","중요한","존재입니다","."],"py":["geuneun","timeseo","jungyohan","jonjaeimnida","."],"vi":"Anh ấy là một sự hiện diện quan trọng trong đội.","alts":[]}},
+   {"id":"ko606-모순","hanzi":"모순","pinyin":"mosun","vi":"mâu thuẫn","ex":{"tokens":["그의","말에는","모순이","있습니다","."],"py":["geuui","mareneun","mosuni","itseumnida","."],"vi":"Trong lời anh ấy có mâu thuẫn.","alts":[]}},
+   {"id":"ko606-논리","hanzi":"논리","pinyin":"nolli","vi":"lô gích","ex":{"tokens":["그","주장은","논리가","약합니다","."],"py":["geu","jujangeun","nolliga","yakamnida","."],"vi":"Luận điểm đó lô gích yếu.","alts":[]}},
+   {"id":"ko606-개념","hanzi":"개념","pinyin":"gaenyeom","vi":"khái niệm","ex":{"tokens":["이","개념은","이해하기","어렵습니다","."],"py":["i","gaenyeomeun","ihaehagi","eoryeopseumnida","."],"vi":"Khái niệm này khó hiểu.","alts":[]}},
+   {"id":"ko606-관점","hanzi":"관점","pinyin":"gwanjeom","vi":"quan điểm, góc nhìn","ex":{"tokens":["다른","관점에서","생각해","보세요","."],"py":["dareun","gwanjeomeseo","saenggakae","boseyo","."],"vi":"Hãy thử nghĩ từ góc nhìn khác.","alts":[]}},
+   {"id":"ko606-전제","hanzi":"전제","pinyin":"jeonje","vi":"tiền đề","ex":{"tokens":["이","계획은","성공을","전제로","합니다","."],"py":["i","gyehoegeun","seonggongeul","jeonjero","hamnida","."],"vi":"Kế hoạch này lấy thành công làm tiền đề.","alts":[]}},
+   {"id":"ko606-근거","hanzi":"근거","pinyin":"geungeo","vi":"căn cứ","ex":{"tokens":["그","주장의","근거가","무엇입니까","?"],"py":["geu","jujangui","geungeoga","mueosimnikka","?"],"vi":"Căn cứ của luận điểm đó là gì?","alts":[]}},
+   {"id":"ko606-타당하다","hanzi":"타당하다","pinyin":"tadanghada","vi":"hợp lý, xác đáng","ex":{"tokens":["그의","지적은","타당합니다","."],"py":["geuui","jijeogeun","tadanghamnida","."],"vi":"Nhận xét của anh ấy xác đáng.","alts":[]}},
+   {"id":"ko606-보편적","hanzi":"보편적","pinyin":"bopyeonjeok","vi":"phổ quát","ex":{"tokens":["사랑은","보편적인","감정입니다","."],"py":["sarangeun","bopyeonjeogin","gamjeongimnida","."],"vi":"Tình yêu là cảm xúc phổ quát.","alts":[]}},
+   {"id":"ko606-상대적","hanzi":"상대적","pinyin":"sangdaejeok","vi":"tương đối","ex":{"tokens":["행복은","상대적인","것입니다","."],"py":["haengbogeun","sangdaejeogin","geosimnida","."],"vi":"Hạnh phúc là thứ tương đối.","alts":[]}},
+   {"id":"ko606-절대적","hanzi":"절대적","pinyin":"jeoldaejeok","vi":"tuyệt đối","ex":{"tokens":["그","팀은","절대적으로","유리합니다","."],"py":["geu","timeun","jeoldaejeogeuro","yurihamnida","."],"vi":"Đội đó có lợi thế tuyệt đối.","alts":[]}}
+  ]},
+  {"id":"ko607","title":"Ngôn ngữ học","desc":"Ngữ nghĩa, phương ngữ, diễn ngôn","icon":"언","unit":62,"course":"ko","order":820,"words":[
+   {"id":"ko607-언어","hanzi":"언어","pinyin":"eoneo","vi":"ngôn ngữ","ex":{"tokens":["세계에는","많은","언어가","있습니다","."],"py":["segyeeneun","maneun","eoneoga","itseumnida","."],"vi":"Trên thế giới có nhiều ngôn ngữ.","alts":[]}},
+   {"id":"ko607-어휘","hanzi":"어휘","pinyin":"eohwi","vi":"vốn từ","ex":{"tokens":["책을","읽으면","어휘가","늘어납니다","."],"py":["chaegeul","ilgeumyeon","eohwiga","neureonamnida","."],"vi":"Đọc sách thì vốn từ tăng lên.","alts":[]}},
+   {"id":"ko607-사투리","hanzi":"사투리","pinyin":"saturi","vi":"phương ngữ","ex":{"tokens":["부산","사투리는","이해하기","어렵습니다","."],"py":["busan","saturineun","ihaehagi","eoryeopseumnida","."],"vi":"Phương ngữ Busan khó hiểu.","alts":[]}},
+   {"id":"ko607-표준어","hanzi":"표준어","pinyin":"pyojuneo","vi":"tiếng chuẩn","ex":{"tokens":["뉴스에서는","표준어를","씁니다","."],"py":["nyuseueseoneun","pyojuneoreul","sseumnida","."],"vi":"Trên bản tin người ta dùng tiếng chuẩn.","alts":[]}},
+   {"id":"ko607-속담","hanzi":"속담","pinyin":"sokdam","vi":"tục ngữ","ex":{"tokens":["한국","속담을","하나","배웠습니다","."],"py":["hanguk","sokdameul","hana","baewotseumnida","."],"vi":"Tôi đã học một câu tục ngữ Hàn Quốc.","alts":[]}},
+   {"id":"ko607-맥락","hanzi":"맥락","pinyin":"maengnak","vi":"ngữ cảnh, mạch","ex":{"tokens":["맥락을","보면","뜻을","알","수","있습니다","."],"py":["maengnageul","bomyeon","tteuseul","al","su","itseumnida","."],"vi":"Nhìn vào ngữ cảnh thì có thể biết nghĩa.","alts":[]}},
+   {"id":"ko607-의사소통","hanzi":"의사소통","pinyin":"uisasotong","vi":"giao tiếp","ex":{"tokens":["의사소통이","잘","되지","않습니다","."],"py":["uisasotongi","jal","doeji","anseumnida","."],"vi":"Việc giao tiếp không suôn sẻ.","alts":[]}},
+   {"id":"ko607-어원","hanzi":"어원","pinyin":"eowon","vi":"từ nguyên","ex":{"tokens":["이","단어의","어원은","중국어입니다","."],"py":["i","daneoui","eowoneun","junggugeoimnida","."],"vi":"Từ nguyên của từ này là tiếng Trung.","alts":[]}},
+   {"id":"ko607-함축하다","hanzi":"함축하다","pinyin":"hamchukada","vi":"hàm ý","ex":{"tokens":["이","시는","깊은","뜻을","함축하고","있습니다","."],"py":["i","sineun","gipeun","tteuseul","hamchukago","itseumnida","."],"vi":"Bài thơ này hàm chứa ý nghĩa sâu xa.","alts":[]}},
+   {"id":"ko607-통역하다","hanzi":"통역하다","pinyin":"tongyeokada","vi":"phiên dịch","ex":{"tokens":["회의에서","영어를","통역했습니다","."],"py":["hoeuieseo","yeongeoreul","tongyeokaetseumnida","."],"vi":"Tôi đã phiên dịch tiếng Anh trong cuộc họp.","alts":[]}},
+   {"id":"ko607-요약하다","hanzi":"요약하다","pinyin":"yoyakada","vi":"tóm tắt","ex":{"tokens":["이","글을","세","문장으로","요약하세요","."],"py":["i","geureul","se","munjangeuro","yoyakaseyo","."],"vi":"Hãy tóm tắt bài này trong ba câu.","alts":[]}},
+   {"id":"ko607-인용하다","hanzi":"인용하다","pinyin":"inyonghada","vi":"trích dẫn","ex":{"tokens":["그는","책의","문장을","인용했습니다","."],"py":["geuneun","chaegui","munjangeul","inyonghaetseumnida","."],"vi":"Anh ấy đã trích dẫn một câu trong sách.","alts":[]}}
+  ]},
+  {"id":"ko608","title":"Y sinh học","desc":"Miễn dịch, dịch bệnh, đạo đức y khoa","icon":"생","unit":62,"course":"ko","order":830,"words":[
+   {"id":"ko608-면역","hanzi":"면역","pinyin":"myeonyeok","vi":"miễn dịch","ex":{"tokens":["잠이","부족하면","면역이","떨어집니다","."],"py":["jami","bujokamyeon","myeonyeogi","tteoreojimnida","."],"vi":"Thiếu ngủ thì miễn dịch giảm.","alts":[]}},
+   {"id":"ko608-전염병","hanzi":"전염병","pinyin":"jeonyeombyeong","vi":"bệnh truyền nhiễm","ex":{"tokens":["전염병이","전국으로","퍼졌습니다","."],"py":["jeonyeombyeongi","jeongugeuro","peojyeotseumnida","."],"vi":"Bệnh truyền nhiễm đã lan ra cả nước.","alts":[]}},
+   {"id":"ko608-백신","hanzi":"백신","pinyin":"baeksin","vi":"vắc xin","ex":{"tokens":["아이에게","백신을","맞혔습니다","."],"py":["aiege","baeksineul","machyeotseumnida","."],"vi":"Tôi đã cho con tiêm vắc xin.","alts":[]}},
+   {"id":"ko608-바이러스","hanzi":"바이러스","pinyin":"baireoseu","vi":"vi rút","ex":{"tokens":["이","바이러스는","공기로","옮습니다","."],"py":["i","baireoseuneun","gonggiro","omseumnida","."],"vi":"Vi rút này lây qua không khí.","alts":[]}},
+   {"id":"ko608-감염되다","hanzi":"감염되다","pinyin":"gamyeomdoeda","vi":"bị nhiễm","ex":{"tokens":["많은","사람이","감기에","감염되었습니다","."],"py":["maneun","sarami","gamgie","gamyeomdoeeotseumnida","."],"vi":"Nhiều người đã bị nhiễm cảm cúm.","alts":[]}},
+   {"id":"ko608-진단하다","hanzi":"진단하다","pinyin":"jindanhada","vi":"chẩn đoán","ex":{"tokens":["의사가","병을","정확하게","진단했습니다","."],"py":["uisaga","byeongeul","jeonghwakage","jindanhaetseumnida","."],"vi":"Bác sĩ đã chẩn đoán bệnh chính xác.","alts":[]}},
+   {"id":"ko608-부작용","hanzi":"부작용","pinyin":"bujagyong","vi":"tác dụng phụ","ex":{"tokens":["이","약은","부작용이","거의","없습니다","."],"py":["i","yageun","bujagyongi","geoui","eopseumnida","."],"vi":"Thuốc này hầu như không có tác dụng phụ.","alts":[]}},
+   {"id":"ko608-장기","hanzi":"장기","pinyin":"janggi","vi":"nội tạng; dài hạn","ex":{"tokens":["그는","장기를","기증했습니다","."],"py":["geuneun","janggireul","gijeunghaetseumnida","."],"vi":"Ông ấy đã hiến tạng.","alts":[]}},
+   {"id":"ko608-이식","hanzi":"이식","pinyin":"isik","vi":"cấy ghép","ex":{"tokens":["심장","이식","수술이","성공했습니다","."],"py":["simjang","isik","susuri","seonggonghaetseumnida","."],"vi":"Ca phẫu thuật ghép tim đã thành công.","alts":[]}},
+   {"id":"ko608-만성","hanzi":"만성","pinyin":"manseong","vi":"mãn tính","ex":{"tokens":["그는","만성","두통이","있습니다","."],"py":["geuneun","manseong","dutongi","itseumnida","."],"vi":"Anh ấy bị đau đầu mãn tính.","alts":[]}},
+   {"id":"ko608-수명","hanzi":"수명","pinyin":"sumyeong","vi":"tuổi thọ","ex":{"tokens":["평균","수명이","점점","길어집니다","."],"py":["pyeonggyun","sumyeongi","jeomjeom","gireojimnida","."],"vi":"Tuổi thọ trung bình ngày càng dài.","alts":[]}},
+   {"id":"ko608-노화","hanzi":"노화","pinyin":"nohwa","vi":"lão hóa","ex":{"tokens":["운동은","노화를","늦춥니다","."],"py":["undongeun","nohwareul","neutchumnida","."],"vi":"Tập thể dục làm chậm lão hóa.","alts":[]}}
+  ]},
+  {"id":"ko609","title":"Nghệ thuật và thẩm mỹ","desc":"Sáng tạo, phong cách, cảm hứng","icon":"미","unit":62,"course":"ko","order":840,"words":[
+   {"id":"ko609-창작","hanzi":"창작","pinyin":"changjak","vi":"sáng tác","ex":{"tokens":["그는","평생","창작","활동을","했습니다","."],"py":["geuneun","pyeongsaeng","changjak","hwaldongeul","haetseumnida","."],"vi":"Ông ấy đã sáng tác suốt đời.","alts":[]}},
+   {"id":"ko609-영감","hanzi":"영감","pinyin":"yeonggam","vi":"cảm hứng","ex":{"tokens":["여행에서","영감을","얻었습니다","."],"py":["yeohaengeseo","yeonggameul","eodeotseumnida","."],"vi":"Tôi đã có cảm hứng từ chuyến đi.","alts":[]}},
+   {"id":"ko609-독창적","hanzi":"독창적","pinyin":"dokchangjeok","vi":"độc đáo, sáng tạo","ex":{"tokens":["그의","생각은","매우","독창적입니다","."],"py":["geuui","saenggageun","maeu","dokchangjeogimnida","."],"vi":"Ý tưởng của anh ấy rất độc đáo.","alts":[]}},
+   {"id":"ko609-조화","hanzi":"조화","pinyin":"johwa","vi":"sự hài hòa","ex":{"tokens":["이","건물은","자연과","조화를","이룹니다","."],"py":["i","geonmureun","jayeongwa","johwareul","irumnida","."],"vi":"Tòa nhà này hài hòa với thiên nhiên.","alts":[]}},
+   {"id":"ko609-상징하다","hanzi":"상징하다","pinyin":"sangjinghada","vi":"tượng trưng","ex":{"tokens":["비둘기는","평화를","상징합니다","."],"py":["bidulgineun","pyeonghwareul","sangjinghamnida","."],"vi":"Chim bồ câu tượng trưng cho hòa bình.","alts":[]}},
+   {"id":"ko609-걸작","hanzi":"걸작","pinyin":"geoljak","vi":"kiệt tác","ex":{"tokens":["이","그림은","그","화가의","걸작입니다","."],"py":["i","geurimeun","geu","hwagaui","geoljagimnida","."],"vi":"Bức tranh này là kiệt tác của họa sĩ đó.","alts":[]}},
+   {"id":"ko609-감상하다","hanzi":"감상하다","pinyin":"gamsanghada","vi":"thưởng thức","ex":{"tokens":["조용히","음악을","감상합니다","."],"py":["joyonghi","eumageul","gamsanghamnida","."],"vi":"Tôi lặng lẽ thưởng thức âm nhạc.","alts":[]}},
+   {"id":"ko609-양식","hanzi":"양식","pinyin":"yangsik","vi":"phong cách, kiểu thức","ex":{"tokens":["이","성당은","옛","건축","양식을","따랐습니다","."],"py":["i","seongdangeun","yet","geonchuk","yangsigeul","ttaratseumnida","."],"vi":"Nhà thờ này theo phong cách kiến trúc xưa.","alts":[]}},
+   {"id":"ko609-조각","hanzi":"조각","pinyin":"jogak","vi":"điêu khắc; mảnh","ex":{"tokens":["공원에","큰","조각","작품이","있습니다","."],"py":["gongwone","keun","jogak","jakpumi","itseumnida","."],"vi":"Trong công viên có một tác phẩm điêu khắc lớn.","alts":[]}},
+   {"id":"ko609-건축","hanzi":"건축","pinyin":"geonchuk","vi":"kiến trúc","ex":{"tokens":["그는","현대","건축을","공부합니다","."],"py":["geuneun","hyeondae","geonchugeul","gongbuhamnida","."],"vi":"Anh ấy học kiến trúc hiện đại.","alts":[]}},
+   {"id":"ko609-전통문화","hanzi":"전통문화","pinyin":"jeontongmunhwa","vi":"văn hóa truyền thống","ex":{"tokens":["전통문화를","지키는","일은","중요합니다","."],"py":["jeontongmunhwareul","jikineun","ireun","jungyohamnida","."],"vi":"Việc gìn giữ văn hóa truyền thống là quan trọng.","alts":[]}},
+   {"id":"ko609-계승하다","hanzi":"계승하다","pinyin":"gyeseunghada","vi":"kế thừa","ex":{"tokens":["젊은","세대가","전통을","계승합니다","."],"py":["jeolmeun","sedaega","jeontongeul","gyeseunghamnida","."],"vi":"Thế hệ trẻ kế thừa truyền thống.","alts":[]}}
+  ]},
+  {"id":"ko610","title":"Lịch sử tư tưởng","desc":"Cận đại, bản sắc, ký ức","icon":"사","unit":62,"course":"ko","order":850,"words":[
+   {"id":"ko610-근대","hanzi":"근대","pinyin":"geundae","vi":"cận đại","ex":{"tokens":["근대에","많은","변화가","있었습니다","."],"py":["geundaee","maneun","byeonhwaga","isseotseumnida","."],"vi":"Thời cận đại đã có nhiều biến đổi.","alts":[]}},
+   {"id":"ko610-정체성","hanzi":"정체성","pinyin":"jeongcheseong","vi":"bản sắc","ex":{"tokens":["그는","자기","정체성을","찾고","있습니다","."],"py":["geuneun","jagi","jeongcheseongeul","chatgo","itseumnida","."],"vi":"Anh ấy đang tìm bản sắc của mình.","alts":[]}},
+   {"id":"ko610-민족","hanzi":"민족","pinyin":"minjok","vi":"dân tộc","ex":{"tokens":["우리","민족은","오랜","역사가","있습니다","."],"py":["uri","minjogeun","oraen","yeoksaga","itseumnida","."],"vi":"Dân tộc chúng tôi có lịch sử lâu đời.","alts":[]}},
+   {"id":"ko610-유산","hanzi":"유산","pinyin":"yusan","vi":"di sản","ex":{"tokens":["이","마을은","세계","문화","유산입니다","."],"py":["i","maeureun","segye","munhwa","yusanimnida","."],"vi":"Ngôi làng này là di sản văn hóa thế giới.","alts":[]}},
+   {"id":"ko610-교훈","hanzi":"교훈","pinyin":"gyohun","vi":"bài học","ex":{"tokens":["역사에서","교훈을","얻어야","합니다","."],"py":["yeoksaeseo","gyohuneul","eodeoya","hamnida","."],"vi":"Phải rút ra bài học từ lịch sử.","alts":[]}},
+   {"id":"ko610-계급","hanzi":"계급","pinyin":"gyegeup","vi":"giai cấp, cấp bậc","ex":{"tokens":["옛날에는","계급이","엄격했습니다","."],"py":["yennareneun","gyegeubi","eomgyeokaetseumnida","."],"vi":"Ngày xưa giai cấp rất nghiêm ngặt.","alts":[]}},
+   {"id":"ko610-침략하다","hanzi":"침략하다","pinyin":"chimnyakada","vi":"xâm lược","ex":{"tokens":["그","나라는","이웃","나라를","침략했습니다","."],"py":["geu","naraneun","iut","narareul","chimnyakaetseumnida","."],"vi":"Nước đó đã xâm lược nước láng giềng.","alts":[]}},
+   {"id":"ko610-저항하다","hanzi":"저항하다","pinyin":"jeohanghada","vi":"kháng cự","ex":{"tokens":["사람들은","끝까지","저항했습니다","."],"py":["saramdeureun","kkeutkkaji","jeohanghaetseumnida","."],"vi":"Mọi người đã kháng cự đến cùng.","alts":[]}},
+   {"id":"ko610-해방","hanzi":"해방","pinyin":"haebang","vi":"giải phóng","ex":{"tokens":["해방","후에","많은","사람이","돌아왔습니다","."],"py":["haebang","hue","maneun","sarami","dorawatseumnida","."],"vi":"Sau giải phóng nhiều người đã trở về.","alts":[]}},
+   {"id":"ko610-분단","hanzi":"분단","pinyin":"bundan","vi":"sự chia cắt","ex":{"tokens":["분단은","많은","가족을","갈라놓았습니다","."],"py":["bundaneun","maneun","gajogeul","gallanoatseumnida","."],"vi":"Sự chia cắt đã chia lìa nhiều gia đình.","alts":[]}},
+   {"id":"ko610-회고하다","hanzi":"회고하다","pinyin":"hoegohada","vi":"hồi tưởng","ex":{"tokens":["그는","젊은","시절을","회고했습니다","."],"py":["geuneun","jeolmeun","sijeoreul","hoegohaetseumnida","."],"vi":"Ông ấy đã hồi tưởng thời trẻ.","alts":[]}},
+   {"id":"ko610-기념하다","hanzi":"기념하다","pinyin":"ginyeomhada","vi":"kỷ niệm","ex":{"tokens":["결혼","10년을","기념했습니다","."],"py":["gyeolhon","10nyeoneul","ginyeomhaetseumnida","."],"vi":"Chúng tôi đã kỷ niệm 10 năm ngày cưới.","alts":[]}}
+  ]}
+ ]
+}

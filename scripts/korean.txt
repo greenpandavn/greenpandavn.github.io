@@ -1,4 +1,4 @@
-# Khóa tiếng Hàn (TOPIK 1–2). Định dạng: xem scripts/build-data.mjs (phiên âm được tạo tự động từ Hangul).
+# Khóa tiếng Hàn (TOPIK 1–6). Định dạng: xem scripts/build-data.mjs (phiên âm được tạo tự động từ Hangul).
 %1|1|Phần 1: Làm quen|Chào hỏi, giới thiệu, số đếm, gia đình, con người|leaf
 @ko101|Chào hỏi|Xin chào, cảm ơn, xin lỗi|안
 안녕하세요|xin chào|안녕하세요, 저는 민수입니다.|Xin chào, tôi là Minsu.
@@ -97,7 +97,7 @@
 먹다|ăn|우리는 식당에서 불고기를 먹었습니다.|Chúng tôi đã ăn bulgogi ở nhà hàng.
 마시다|uống|운동 후에 물을 많이 마십니다.|Sau khi tập thể dục tôi uống nhiều nước.
 맛있다|ngon|이 식당 음식은 정말 맛있습니다.|Đồ ăn ở nhà hàng này thật sự ngon.
-배고프다|đói bụng|아침을 안 먹어서 배가 고픕니다.|Vì không ăn sáng nên tôi đói bụng.
+배고프다|đói bụng|아침을 안 먹어서 지금 배고픕니다.|Vì không ăn sáng nên tôi đói bụng.
 
 @ko108|Thời gian|Hôm nay, ngày mai, giờ, tuần|시
 오늘|hôm nay|오늘은 날씨가 아주 좋습니다.|Hôm nay thời tiết rất đẹp.
@@ -424,3 +424,855 @@
 이유|lý do|늦은 이유를 말해 주세요.|Hãy cho tôi biết lý do đến muộn.
 문제|vấn đề|이 문제는 혼자 풀기 어렵습니다.|Vấn đề này khó tự mình giải quyết.
 방법|phương pháp, cách|좋은 공부 방법을 가르쳐 주세요.|Hãy chỉ cho tôi cách học tốt.
+
+%31|3|Phần 1: Đời sống xã hội|Quan hệ, nhà ở, giao thông, nhà hàng, dịch vụ|leaf
+@ko301|Tính cách và quan hệ|Tính cách, bạn bè, hàng xóm|성
+이웃|hàng xóm|우리 이웃은 아주 친절합니다.|Hàng xóm của chúng tôi rất thân thiện.
+선배|tiền bối, đàn anh|선배가 저를 많이 도와주었습니다.|Tiền bối đã giúp tôi rất nhiều.
+후배|hậu bối, đàn em|후배와 같이 점심을 먹었습니다.|Tôi đã ăn trưa cùng đàn em.
+관계|mối quan hệ|두 사람은 관계가 좋습니다.|Hai người có mối quan hệ tốt.
+성실하다|chăm chỉ, thành thật|그 직원은 아주 성실합니다.|Nhân viên đó rất chăm chỉ.
+게으르다|lười biếng|동생은 조금 게으릅니다.|Em tôi hơi lười.
+솔직하다|thẳng thắn|친구는 항상 솔직하게 말합니다.|Bạn tôi luôn nói thẳng thắn.
+부지런하다|siêng năng|어머니는 매우 부지런하십니다.|Mẹ tôi rất siêng năng.
+믿다|tin tưởng|저는 그 친구를 믿습니다.|Tôi tin người bạn đó.
+싸우다|cãi nhau, đánh nhau|아이들이 자주 싸웁니다.|Bọn trẻ thường cãi nhau.
+화해하다|làm hòa|우리는 어제 화해했습니다.|Hôm qua chúng tôi đã làm hòa.
+사귀다|kết bạn, hẹn hò|한국에서 친구를 많이 사귀었습니다.|Tôi đã kết bạn với nhiều người ở Hàn Quốc.
+
+@ko302|Nhà ở|Thuê nhà, chuyển nhà, đồ đạc|이
+이사하다|chuyển nhà|다음 달에 서울로 이사합니다.|Tháng sau tôi chuyển nhà đến Seoul.
+월세|tiền thuê nhà hằng tháng|이 방은 월세가 비쌉니다.|Phòng này tiền thuê hằng tháng đắt.
+보증금|tiền đặt cọc|보증금을 먼저 내야 합니다.|Phải nộp tiền đặt cọc trước.
+집주인|chủ nhà|집주인에게 전화를 했습니다.|Tôi đã gọi điện cho chủ nhà.
+아파트|chung cư|우리 가족은 아파트에 삽니다.|Gia đình tôi sống ở chung cư.
+가구|đồ nội thất|새 가구를 사고 싶습니다.|Tôi muốn mua đồ nội thất mới.
+세탁기|máy giặt|세탁기가 갑자기 고장났습니다.|Máy giặt đột nhiên bị hỏng.
+에어컨|máy điều hòa|여름에는 에어컨이 꼭 필요합니다.|Mùa hè nhất định cần máy điều hòa.
+계단|cầu thang|계단으로 3층까지 올라갑니다.|Tôi đi cầu thang lên tầng 3.
+엘리베이터|thang máy|엘리베이터를 타고 내려갑니다.|Tôi đi thang máy xuống.
+쓰레기|rác|쓰레기를 밖에 버렸습니다.|Tôi đã vứt rác ra ngoài.
+정리하다|sắp xếp, dọn dẹp|주말에 방을 정리했습니다.|Cuối tuần tôi đã sắp xếp lại phòng.
+
+@ko303|Giao thông|Lái xe, đường sá, tai nạn|차
+운전하다|lái xe|아버지가 차를 운전합니다.|Bố tôi lái xe.
+면허증|bằng lái|작년에 운전 면허증을 땄습니다.|Năm ngoái tôi đã lấy bằng lái xe.
+주차장|bãi đỗ xe|주차장에 자리가 없습니다.|Bãi đỗ xe không còn chỗ.
+교통|giao thông|서울은 교통이 편리합니다.|Giao thông ở Seoul thuận tiện.
+사고|tai nạn|길에서 사고가 났습니다.|Đã xảy ra tai nạn trên đường.
+막히다|bị tắc|아침에는 길이 많이 막힙니다.|Buổi sáng đường rất tắc.
+갈아타다|đổi tuyến, chuyển xe|시청역에서 2호선으로 갈아탑니다.|Tôi đổi sang tuyến số 2 ở ga Tòa thị chính.
+내리다|xuống xe|다음 역에서 내리세요.|Hãy xuống ở ga tiếp theo.
+정류장|trạm dừng xe buýt|버스 정류장에서 친구를 기다립니다.|Tôi đợi bạn ở trạm xe buýt.
+고속도로|đường cao tốc|고속도로에 차가 많습니다.|Trên đường cao tốc có nhiều xe.
+요금|cước phí|택시 요금이 올랐습니다.|Cước taxi đã tăng.
+속도|tốc độ|여기서는 속도를 줄여야 합니다.|Ở đây phải giảm tốc độ.
+
+@ko304|Nhà hàng|Gọi món, mùi vị, thanh toán|맛
+메뉴|thực đơn|메뉴를 좀 보여 주세요.|Cho tôi xem thực đơn.
+주문하다|gọi món, đặt hàng|비빔밥을 두 개 주문했습니다.|Tôi đã gọi hai suất cơm trộn.
+맵다|cay|이 음식은 너무 맵습니다.|Món này cay quá.
+달다|ngọt|이 과자는 아주 답니다.|Bánh này rất ngọt.
+짜다|mặn|국이 조금 짭니다.|Canh hơi mặn.
+싱겁다|nhạt|찌개가 싱거워서 소금을 넣었습니다.|Canh hầm nhạt nên tôi đã cho thêm muối.
+반찬|món ăn kèm|이 식당은 반찬이 많습니다.|Quán này có nhiều món ăn kèm.
+젓가락|đũa|젓가락을 하나 더 주세요.|Cho tôi thêm một đôi đũa.
+숟가락|thìa|숟가락으로 국을 먹습니다.|Tôi ăn canh bằng thìa.
+배달|giao hàng|저녁에 치킨 배달을 시켰습니다.|Buổi tối tôi đã gọi giao gà rán.
+포장하다|gói mang về|남은 음식을 포장해 주세요.|Hãy gói giúp tôi đồ ăn còn thừa.
+추천하다|giới thiệu, gợi ý|맛있는 음식을 추천해 주세요.|Hãy gợi ý giúp tôi món ngon.
+
+@ko305|Dịch vụ công|Ngân hàng, bưu điện, giấy tờ|통
+통장|sổ tài khoản|은행에서 통장을 만들었습니다.|Tôi đã mở sổ tài khoản ở ngân hàng.
+카드|thẻ|카드로 계산해도 됩니까?|Tôi thanh toán bằng thẻ được không?
+현금|tiền mặt|지금 현금이 없습니다.|Bây giờ tôi không có tiền mặt.
+환전하다|đổi tiền|공항에서 돈을 환전했습니다.|Tôi đã đổi tiền ở sân bay.
+저축하다|tiết kiệm tiền|매달 조금씩 저축합니다.|Mỗi tháng tôi tiết kiệm một ít.
+소포|bưu kiện|고향에 소포를 보냈습니다.|Tôi đã gửi bưu kiện về quê.
+주소|địa chỉ|여기에 주소를 써 주세요.|Hãy viết địa chỉ vào đây.
+신청하다|đăng ký, nộp đơn|비자를 신청하려고 합니다.|Tôi định nộp đơn xin visa.
+신분증|chứng minh thư|신분증을 보여 주세요.|Xin cho xem chứng minh thư.
+외국인|người nước ngoài|이 도시에는 외국인이 많습니다.|Thành phố này có nhiều người nước ngoài.
+서명하다|ký tên|서류에 서명해 주세요.|Xin hãy ký tên vào giấy tờ.
+직원|nhân viên|직원이 친절하게 설명했습니다.|Nhân viên đã giải thích tận tình.
+
+%32|3|Phần 2: Công việc và học tập|Xin việc, văn phòng, đại học, bệnh viện, giải trí|sky
+@ko306|Xin việc|Hồ sơ, phỏng vấn, kinh nghiệm|면
+취직하다|tìm được việc làm|형이 큰 회사에 취직했습니다.|Anh tôi đã vào làm ở một công ty lớn.
+면접|phỏng vấn|내일 회사 면접이 있습니다.|Ngày mai tôi có buổi phỏng vấn ở công ty.
+이력서|sơ yếu lý lịch|이력서를 이메일로 보냈습니다.|Tôi đã gửi sơ yếu lý lịch qua email.
+지원하다|ứng tuyển; hỗ trợ|그 회사에 지원하고 싶습니다.|Tôi muốn ứng tuyển vào công ty đó.
+경력|kinh nghiệm làm việc|저는 경력이 5년 있습니다.|Tôi có 5 năm kinh nghiệm làm việc.
+자격증|chứng chỉ|컴퓨터 자격증을 준비합니다.|Tôi đang chuẩn bị thi chứng chỉ máy tính.
+능력|năng lực|그 사람은 능력이 뛰어납니다.|Người đó có năng lực xuất sắc.
+합격하다|thi đỗ|동생이 시험에 합격했습니다.|Em tôi đã thi đỗ.
+떨어지다|rơi; thi trượt|이번 시험에 떨어졌습니다.|Tôi đã trượt kỳ thi lần này.
+아르바이트|việc làm thêm|주말에 카페에서 아르바이트를 합니다.|Cuối tuần tôi làm thêm ở quán cà phê.
+적성|năng khiếu, sở trường|이 일은 제 적성에 맞습니다.|Việc này hợp với sở trường của tôi.
+그만두다|nghỉ việc, bỏ|작년에 회사를 그만두었습니다.|Năm ngoái tôi đã nghỉ việc ở công ty.
+
+@ko307|Văn phòng|Công việc hằng ngày ở công ty|사
+부장님|trưởng phòng|부장님께 보고서를 드렸습니다.|Tôi đã nộp báo cáo cho trưởng phòng.
+보고서|bản báo cáo|오늘까지 보고서를 써야 합니다.|Tôi phải viết báo cáo trước hết hôm nay.
+출장|chuyến công tác|다음 주에 부산으로 출장을 갑니다.|Tuần sau tôi đi công tác Busan.
+야근하다|làm thêm buổi tối|어제도 늦게까지 야근했습니다.|Hôm qua tôi cũng làm thêm đến khuya.
+회식|liên hoan công ty|금요일 저녁에 회식이 있습니다.|Tối thứ Sáu có liên hoan công ty.
+담당하다|phụ trách|저는 광고 업무를 담당합니다.|Tôi phụ trách công việc quảng cáo.
+업무|công việc, nghiệp vụ|요즘 업무가 아주 많습니다.|Dạo này công việc rất nhiều.
+복사하다|sao chép, photocopy|이 자료를 열 장 복사해 주세요.|Hãy photo giúp tôi mười bản tài liệu này.
+자료|tài liệu|회의 자료를 미리 준비했습니다.|Tôi đã chuẩn bị trước tài liệu họp.
+발표하다|phát biểu, thuyết trình|내일 회의에서 발표합니다.|Ngày mai tôi thuyết trình trong cuộc họp.
+승진하다|thăng chức|언니가 과장으로 승진했습니다.|Chị tôi đã được thăng chức lên trưởng nhóm.
+마감|hạn chót|마감이 내일이라서 바쁩니다.|Vì hạn chót là ngày mai nên tôi bận.
+
+@ko308|Đại học|Học kỳ, học bổng, bài tập|대
+학기|học kỳ|새 학기가 3월에 시작합니다.|Học kỳ mới bắt đầu vào tháng 3.
+장학금|học bổng|열심히 공부해서 장학금을 받았습니다.|Tôi học chăm nên đã nhận được học bổng.
+등록금|học phí|등록금이 매년 오릅니다.|Học phí tăng hằng năm.
+기숙사|ký túc xá|저는 학교 기숙사에 삽니다.|Tôi sống ở ký túc xá của trường.
+교수님|giáo sư|교수님께 질문을 했습니다.|Tôi đã hỏi giáo sư.
+강의|bài giảng|이 강의는 정말 재미있습니다.|Bài giảng này thật sự thú vị.
+과제|bài tập, nhiệm vụ|주말에 과제를 끝냈습니다.|Cuối tuần tôi đã làm xong bài tập.
+성적|thành tích, điểm số|이번 학기 성적이 좋습니다.|Điểm học kỳ này tốt.
+복습하다|ôn tập|집에서 오늘 배운 것을 복습합니다.|Ở nhà tôi ôn lại những gì đã học hôm nay.
+예습하다|chuẩn bị bài trước|수업 전에 꼭 예습합니다.|Trước giờ học tôi luôn chuẩn bị bài.
+유학|du học|한국으로 유학을 가고 싶습니다.|Tôi muốn đi du học Hàn Quốc.
+동아리|câu lạc bộ sinh viên|저는 사진 동아리에 들어갔습니다.|Tôi đã tham gia câu lạc bộ nhiếp ảnh.
+
+@ko309|Bệnh viện|Triệu chứng, khám bệnh, điều trị|병
+증상|triệu chứng|어떤 증상이 있습니까?|Bạn có triệu chứng gì?
+체온|thân nhiệt|간호사가 체온을 쟀습니다.|Y tá đã đo thân nhiệt.
+주사|mũi tiêm|병원에서 주사를 맞았습니다.|Tôi đã tiêm ở bệnh viện.
+수술|phẫu thuật|할아버지가 어제 수술을 받으셨습니다.|Ông tôi đã phẫu thuật hôm qua.
+입원하다|nhập viện|친구가 다리를 다쳐서 입원했습니다.|Bạn tôi bị thương ở chân nên đã nhập viện.
+퇴원하다|xuất viện|다음 주에 퇴원할 수 있습니다.|Tuần sau có thể xuất viện.
+다치다|bị thương|운동하다가 손을 다쳤습니다.|Tôi bị thương ở tay khi đang tập thể thao.
+소화|tiêu hóa|요즘 소화가 잘 안 됩니다.|Dạo này tôi tiêu hóa không tốt.
+처방전|đơn thuốc|의사가 처방전을 주었습니다.|Bác sĩ đã đưa đơn thuốc.
+치과|nha khoa|이가 아파서 치과에 갔습니다.|Tôi đau răng nên đã đến nha khoa.
+검사|kiểm tra, xét nghiệm|내일 건강 검사를 받습니다.|Ngày mai tôi đi kiểm tra sức khỏe.
+스트레스|căng thẳng|일이 많아서 스트레스를 받습니다.|Vì nhiều việc nên tôi bị căng thẳng.
+
+@ko310|Thể thao và giải trí|Trận đấu, đội, buổi diễn|공
+경기|trận đấu|어제 축구 경기를 봤습니다.|Hôm qua tôi đã xem trận bóng đá.
+선수|vận động viên|그 선수는 정말 빠릅니다.|Vận động viên đó thật sự nhanh.
+이기다|thắng|우리 팀이 2대 1로 이겼습니다.|Đội chúng tôi đã thắng 2-1.
+지다|thua|어제 경기에서 졌습니다.|Tôi đã thua trong trận đấu hôm qua.
+응원하다|cổ vũ|친구들과 같이 한국 팀을 응원했습니다.|Tôi đã cùng bạn bè cổ vũ đội Hàn Quốc.
+등산|leo núi|주말마다 등산을 합니다.|Cuối tuần nào tôi cũng leo núi.
+낚시|câu cá|아버지는 낚시를 좋아하십니다.|Bố tôi thích câu cá.
+공연|buổi biểu diễn|저녁에 음악 공연을 봅니다.|Buổi tối tôi xem biểu diễn âm nhạc.
+전시회|triển lãm|미술 전시회에 다녀왔습니다.|Tôi đã đi xem triển lãm mỹ thuật.
+배우|diễn viên|그 배우는 연기를 잘합니다.|Diễn viên đó diễn xuất giỏi.
+감독|đạo diễn; huấn luyện viên|이 영화의 감독은 유명합니다.|Đạo diễn của bộ phim này nổi tiếng.
+연주하다|biểu diễn nhạc cụ|언니가 피아노를 연주합니다.|Chị tôi chơi đàn piano.
+
+%33|3|Phần 3: Xã hội và suy nghĩ|Cảm xúc, môi trường, truyền thông, động từ, từ nối|grape
+@ko311|Cảm xúc sâu hơn|Diễn tả tâm trạng|감
+감정|cảm xúc|감정을 솔직하게 표현하세요.|Hãy thể hiện cảm xúc một cách thẳng thắn.
+외롭다|cô đơn|혼자 살면 가끔 외롭습니다.|Sống một mình thì đôi khi cô đơn.
+부끄럽다|xấu hổ, ngại|사람들 앞에서 말하기가 부끄럽습니다.|Tôi ngại nói trước mọi người.
+놀라다|ngạc nhiên, giật mình|큰 소리에 깜짝 놀랐습니다.|Tôi giật mình vì tiếng động lớn.
+실망하다|thất vọng|시험 결과에 실망했습니다.|Tôi thất vọng về kết quả thi.
+만족하다|hài lòng|저는 지금 생활에 만족합니다.|Tôi hài lòng với cuộc sống hiện tại.
+긴장하다|hồi hộp, căng thẳng|면접 때 너무 긴장했습니다.|Lúc phỏng vấn tôi đã quá hồi hộp.
+그립다|nhớ nhung|고향의 가족이 그립습니다.|Tôi nhớ gia đình ở quê.
+답답하다|ngột ngạt, bức bối|말이 통하지 않아서 답답합니다.|Vì không hiểu nhau nên tôi thấy bức bối.
+무섭다|sợ, đáng sợ|밤에 혼자 걷기가 무섭습니다.|Tôi sợ đi bộ một mình ban đêm.
+자랑스럽다|tự hào|부모님은 저를 자랑스러워하십니다.|Bố mẹ tự hào về tôi.
+후회하다|hối hận|그때 공부하지 않은 것을 후회합니다.|Tôi hối hận vì lúc đó đã không học.
+
+@ko312|Môi trường và thời tiết|Khí hậu, ô nhiễm, thiên tai|환
+환경|môi trường|우리는 환경을 보호해야 합니다.|Chúng ta phải bảo vệ môi trường.
+오염|ô nhiễm|공기 오염이 심각합니다.|Ô nhiễm không khí nghiêm trọng.
+공기|không khí|산에는 공기가 맑습니다.|Trên núi không khí trong lành.
+기온|nhiệt độ không khí|오늘은 기온이 많이 내려갔습니다.|Hôm nay nhiệt độ đã giảm nhiều.
+습도|độ ẩm|여름에는 습도가 높습니다.|Mùa hè độ ẩm cao.
+태풍|bão|내일 태풍이 온다고 합니다.|Nghe nói ngày mai bão đến.
+지진|động đất|어젯밤에 작은 지진이 있었습니다.|Đêm qua đã có một trận động đất nhỏ.
+홍수|lũ lụt|비가 많이 와서 홍수가 났습니다.|Mưa nhiều nên đã xảy ra lũ lụt.
+장마|mùa mưa dầm|6월 말에 장마가 시작됩니다.|Cuối tháng 6 mùa mưa dầm bắt đầu.
+재활용|tái chế|플라스틱은 재활용을 합니다.|Nhựa thì được tái chế.
+줄이다|giảm bớt|쓰레기를 줄이려고 노력합니다.|Tôi cố gắng giảm bớt rác.
+아끼다|tiết kiệm, quý trọng|물과 전기를 아껴야 합니다.|Phải tiết kiệm nước và điện.
+
+@ko313|Truyền thông|Tin tức, quảng cáo, mạng|방
+방송|phát sóng, chương trình|저녁 방송을 자주 봅니다.|Tôi thường xem chương trình buổi tối.
+기사|bài báo|인터넷에서 그 기사를 읽었습니다.|Tôi đã đọc bài báo đó trên mạng.
+광고|quảng cáo|텔레비전에 광고가 너무 많습니다.|Trên ti vi có quá nhiều quảng cáo.
+드라마|phim truyền hình|한국 드라마를 좋아합니다.|Tôi thích phim truyền hình Hàn Quốc.
+정보|thông tin|인터넷에서 정보를 찾습니다.|Tôi tìm thông tin trên mạng.
+검색하다|tìm kiếm|모르는 단어를 검색했습니다.|Tôi đã tra từ không biết.
+댓글|bình luận|그 글에 댓글을 달았습니다.|Tôi đã viết bình luận cho bài viết đó.
+기자|phóng viên|기자가 시민에게 질문했습니다.|Phóng viên đã hỏi người dân.
+잡지|tạp chí|미용실에서 잡지를 읽었습니다.|Tôi đã đọc tạp chí ở tiệm làm tóc.
+화면|màn hình|휴대폰 화면이 깨졌습니다.|Màn hình điện thoại bị vỡ.
+소문|tin đồn|그 소문은 사실이 아닙니다.|Tin đồn đó không phải sự thật.
+인기|sự được yêu thích|이 노래는 요즘 인기가 많습니다.|Bài hát này dạo này rất được yêu thích.
+
+@ko314|Động từ thường dùng|Hành động trong đời sống|동
+고르다|chọn|마음에 드는 옷을 골랐습니다.|Tôi đã chọn bộ đồ ưng ý.
+빌리다|mượn, thuê|도서관에서 책을 빌렸습니다.|Tôi đã mượn sách ở thư viện.
+돌려주다|trả lại|친구에게 우산을 돌려주었습니다.|Tôi đã trả lại ô cho bạn.
+잃어버리다|làm mất|지하철에서 지갑을 잃어버렸습니다.|Tôi đã làm mất ví trên tàu điện ngầm.
+찾다|tìm|열쇠를 찾고 있습니다.|Tôi đang tìm chìa khóa.
+고치다|sửa chữa|아버지가 자전거를 고쳤습니다.|Bố tôi đã sửa xe đạp.
+옮기다|di chuyển, chuyển|책상을 창문 옆으로 옮겼습니다.|Tôi đã chuyển bàn ra cạnh cửa sổ.
+모으다|gom, tích góp|여행을 가려고 돈을 모읍니다.|Tôi tích góp tiền để đi du lịch.
+나누다|chia sẻ, chia|친구와 음식을 나누어 먹었습니다.|Tôi đã chia đồ ăn với bạn.
+지키다|giữ, bảo vệ|약속을 꼭 지키세요.|Hãy nhất định giữ lời hứa.
+잊다|quên|친구의 생일을 잊었습니다.|Tôi đã quên sinh nhật của bạn.
+기억하다|nhớ, ghi nhớ|그날을 아직 기억합니다.|Tôi vẫn còn nhớ ngày hôm đó.
+
+@ko315|Phó từ và từ nối 2|Nối câu, mức độ, thời điểm|또
+갑자기|đột nhiên|갑자기 비가 내리기 시작했습니다.|Đột nhiên trời bắt đầu mưa.
+드디어|cuối cùng thì|드디어 시험이 끝났습니다.|Cuối cùng thì kỳ thi đã kết thúc.
+역시|quả nhiên, cũng vậy|역시 어머니의 음식이 맛있습니다.|Quả nhiên đồ ăn của mẹ ngon.
+아마|có lẽ|아마 내일은 눈이 올 겁니다.|Có lẽ ngày mai sẽ có tuyết.
+전혀|hoàn toàn (không)|저는 술을 전혀 마시지 않습니다.|Tôi hoàn toàn không uống rượu.
+거의|hầu như|숙제를 거의 다 했습니다.|Tôi đã làm gần xong bài tập.
+특히|đặc biệt là|저는 과일을 좋아합니다, 특히 사과를 좋아합니다.|Tôi thích hoa quả, đặc biệt là táo.
+그런데|nhưng mà, thế nhưng|그런데 지금 어디에 가십니까?|Thế nhưng bây giờ anh đi đâu vậy?
+그러면|vậy thì|그러면 내일 다시 만납시다.|Vậy thì ngày mai gặp lại nhé.
+왜냐하면|bởi vì|못 갑니다, 왜냐하면 일이 많습니다.|Tôi không đi được, bởi vì nhiều việc.
+만약|nếu, giả sử|만약 비가 오면 집에 있겠습니다.|Nếu trời mưa thì tôi sẽ ở nhà.
+오히려|trái lại, ngược lại|약을 먹었는데 오히려 더 아픕니다.|Tôi đã uống thuốc nhưng trái lại còn đau hơn.
+
+%41|4|Phần 1: Kinh tế và xã hội|Tiêu dùng, kinh doanh, pháp luật, hành chính, giáo dục|leaf
+@ko401|Kinh tế và tiêu dùng|Giá cả, thu nhập, chi tiêu|경
+경제|kinh tế|요즘 경제가 좋지 않습니다.|Dạo này kinh tế không tốt.
+물가|vật giá|서울은 물가가 매우 비쌉니다.|Vật giá ở Seoul rất đắt đỏ.
+소비|tiêu dùng|젊은 사람들의 소비가 늘었습니다.|Tiêu dùng của giới trẻ đã tăng.
+수입|thu nhập; nhập khẩu|한 달 수입이 얼마입니까?|Thu nhập một tháng là bao nhiêu?
+지출|khoản chi|이번 달은 지출이 많았습니다.|Tháng này chi tiêu nhiều.
+세금|thuế|모든 국민은 세금을 냅니다.|Mọi người dân đều nộp thuế.
+대출|khoản vay|집을 사려고 대출을 받았습니다.|Tôi đã vay tiền để mua nhà.
+이자|tiền lãi|은행 이자가 조금 올랐습니다.|Lãi suất ngân hàng đã tăng một chút.
+투자하다|đầu tư|그 회사에 돈을 투자했습니다.|Tôi đã đầu tư tiền vào công ty đó.
+절약하다|tiết kiệm|생활비를 절약하고 있습니다.|Tôi đang tiết kiệm chi phí sinh hoạt.
+할인|giảm giá|이 가게는 오늘 할인을 합니다.|Cửa hàng này hôm nay giảm giá.
+환불하다|hoàn tiền|마음에 안 들면 환불할 수 있습니다.|Nếu không ưng thì có thể hoàn tiền.
+
+@ko402|Kinh doanh|Doanh nghiệp, sản phẩm, khách hàng|업
+기업|doanh nghiệp|그 기업은 세계에서 유명합니다.|Doanh nghiệp đó nổi tiếng trên thế giới.
+제품|sản phẩm|새 제품이 다음 달에 나옵니다.|Sản phẩm mới ra mắt vào tháng sau.
+고객|khách hàng|고객의 의견을 듣습니다.|Chúng tôi lắng nghe ý kiến khách hàng.
+계약|hợp đồng|어제 계약을 맺었습니다.|Hôm qua chúng tôi đã ký hợp đồng.
+이익|lợi nhuận|올해는 이익이 많이 났습니다.|Năm nay lợi nhuận nhiều.
+손해|thiệt hại, lỗ|이번 일로 큰 손해를 봤습니다.|Vì việc lần này tôi đã chịu thiệt hại lớn.
+수출|xuất khẩu|한국은 자동차를 많이 수출합니다.|Hàn Quốc xuất khẩu nhiều ô tô.
+생산하다|sản xuất|이 공장은 휴대폰을 생산합니다.|Nhà máy này sản xuất điện thoại.
+판매하다|bán hàng|인터넷으로 옷을 판매합니다.|Chúng tôi bán quần áo qua mạng.
+경쟁|cạnh tranh|회사들 사이의 경쟁이 심합니다.|Cạnh tranh giữa các công ty rất gay gắt.
+시장조사|khảo sát thị trường|먼저 시장조사를 해야 합니다.|Trước tiên phải khảo sát thị trường.
+성장하다|tăng trưởng, trưởng thành|회사가 빠르게 성장하고 있습니다.|Công ty đang tăng trưởng nhanh.
+
+@ko403|Pháp luật và trật tự|Luật, tội phạm, quyền|법
+법|pháp luật|모든 사람은 법을 지켜야 합니다.|Mọi người phải tuân thủ pháp luật.
+규칙|quy tắc|학교 규칙을 잘 지킵니다.|Tôi chấp hành tốt quy tắc của trường.
+범죄|tội phạm|이 도시는 범죄가 적습니다.|Thành phố này ít tội phạm.
+도둑|kẻ trộm|밤에 도둑이 집에 들어왔습니다.|Ban đêm kẻ trộm đã vào nhà.
+벌금|tiền phạt|주차를 잘못해서 벌금을 냈습니다.|Tôi đỗ xe sai nên đã nộp tiền phạt.
+신고하다|khai báo, trình báo|경찰에 사고를 신고했습니다.|Tôi đã trình báo tai nạn với cảnh sát.
+권리|quyền lợi|누구나 교육을 받을 권리가 있습니다.|Ai cũng có quyền được học hành.
+의무|nghĩa vụ|세금을 내는 것은 국민의 의무입니다.|Nộp thuế là nghĩa vụ của người dân.
+재판|phiên tòa|다음 주에 재판이 열립니다.|Tuần sau phiên tòa được mở.
+변호사|luật sư|변호사와 먼저 상담했습니다.|Tôi đã tư vấn với luật sư trước.
+증거|chứng cứ|아직 증거가 부족합니다.|Chứng cứ vẫn còn thiếu.
+금지하다|cấm|여기서는 담배를 금지합니다.|Ở đây cấm hút thuốc.
+
+@ko404|Chính trị và hành chính|Chính phủ, bầu cử, chính sách|정
+정부|chính phủ|정부가 새 계획을 발표했습니다.|Chính phủ đã công bố kế hoạch mới.
+대통령|tổng thống|대통령이 국민에게 연설했습니다.|Tổng thống đã phát biểu trước người dân.
+국민|người dân, quốc dân|국민의 생각을 들어야 합니다.|Phải lắng nghe suy nghĩ của người dân.
+선거|bầu cử|내년에 선거가 있습니다.|Năm sau có bầu cử.
+투표하다|bỏ phiếu|아침 일찍 투표했습니다.|Tôi đã đi bỏ phiếu từ sáng sớm.
+정책|chính sách|새 교육 정책이 시작되었습니다.|Chính sách giáo dục mới đã bắt đầu.
+시민|công dân, người dân thành phố|시민들이 공원에 모였습니다.|Người dân đã tụ tập ở công viên.
+국가|quốc gia|모든 국가가 이 문제에 관심이 있습니다.|Mọi quốc gia đều quan tâm đến vấn đề này.
+사회|xã hội|우리 사회는 빠르게 변하고 있습니다.|Xã hội của chúng ta đang thay đổi nhanh.
+제도|chế độ, hệ thống|새 제도가 내년부터 시행됩니다.|Chế độ mới được thi hành từ năm sau.
+회담|hội đàm|두 나라가 회담을 열었습니다.|Hai nước đã mở cuộc hội đàm.
+평화|hòa bình|세계의 평화를 바랍니다.|Tôi mong thế giới hòa bình.
+
+@ko405|Giáo dục|Dạy học, thi cử, tương lai|교
+교육|giáo dục|부모는 아이의 교육에 관심이 많습니다.|Cha mẹ rất quan tâm đến việc giáo dục con.
+입학하다|nhập học|동생이 올해 대학교에 입학했습니다.|Em tôi năm nay đã vào đại học.
+학원|trung tâm học thêm|저녁마다 영어 학원에 다닙니다.|Tối nào tôi cũng đi học ở trung tâm tiếng Anh.
+수능|kỳ thi đại học|다음 달에 수능을 봅니다.|Tháng sau tôi thi đại học.
+지식|kiến thức|책에서 많은 지식을 얻습니다.|Tôi thu được nhiều kiến thức từ sách.
+토론하다|thảo luận, tranh luận|수업 시간에 환경 문제를 토론했습니다.|Trong giờ học chúng tôi đã thảo luận vấn đề môi trường.
+이해하다|hiểu|선생님의 설명을 이해했습니다.|Tôi đã hiểu lời giải thích của thầy.
+집중하다|tập trung|시끄러워서 집중할 수 없습니다.|Ồn quá nên tôi không thể tập trung.
+외우다|học thuộc|매일 단어를 스무 개 외웁니다.|Mỗi ngày tôi học thuộc hai mươi từ.
+칭찬하다|khen ngợi|선생님이 학생을 칭찬했습니다.|Thầy giáo đã khen học sinh.
+진로|con đường tương lai|진로를 아직 정하지 못했습니다.|Tôi vẫn chưa định được hướng đi tương lai.
+목표|mục tiêu|올해 목표는 한국어 시험 합격입니다.|Mục tiêu năm nay là đỗ kỳ thi tiếng Hàn.
+
+%42|4|Phần 2: Văn hóa và khoa học|Nghệ thuật, công nghệ, y tế, tâm lý, giao tiếp|sky
+@ko406|Nghệ thuật|Văn học, hội họa, sân khấu|예
+예술|nghệ thuật|저는 예술에 관심이 많습니다.|Tôi rất quan tâm đến nghệ thuật.
+작품|tác phẩm|이 작품은 백 년 전에 만들어졌습니다.|Tác phẩm này được làm từ một trăm năm trước.
+작가|nhà văn, tác giả|그 작가의 소설을 모두 읽었습니다.|Tôi đã đọc hết tiểu thuyết của nhà văn đó.
+소설|tiểu thuyết|요즘 한국 소설을 읽고 있습니다.|Dạo này tôi đang đọc tiểu thuyết Hàn Quốc.
+시|bài thơ|수업에서 짧은 시를 썼습니다.|Trong giờ học tôi đã viết một bài thơ ngắn.
+화가|họa sĩ|그 화가는 꽃을 자주 그립니다.|Họa sĩ đó thường vẽ hoa.
+박물관|bảo tàng|주말에 역사 박물관에 갔습니다.|Cuối tuần tôi đã đi bảo tàng lịch sử.
+연극|kịch|대학로에서 연극을 봤습니다.|Tôi đã xem kịch ở Daehangno.
+무대|sân khấu|가수가 무대에 올라왔습니다.|Ca sĩ đã bước lên sân khấu.
+관객|khán giả|관객들이 크게 박수를 쳤습니다.|Khán giả đã vỗ tay thật to.
+감동하다|cảm động|그 영화를 보고 감동했습니다.|Tôi đã cảm động khi xem bộ phim đó.
+표현하다|biểu hiện, diễn đạt|그림으로 마음을 표현합니다.|Tôi thể hiện tấm lòng bằng tranh.
+
+@ko407|Khoa học và công nghệ|Nghiên cứu, phát minh, máy móc|과
+과학|khoa học|과학은 우리 생활을 바꿉니다.|Khoa học thay đổi cuộc sống của chúng ta.
+기술|kỹ thuật, công nghệ|새 기술을 배우고 있습니다.|Tôi đang học công nghệ mới.
+연구하다|nghiên cứu|그 교수는 암을 연구합니다.|Vị giáo sư đó nghiên cứu về ung thư.
+실험|thí nghiệm|학생들이 과학 실험을 합니다.|Học sinh làm thí nghiệm khoa học.
+발명하다|phát minh|누가 전화를 발명했습니까?|Ai đã phát minh ra điện thoại?
+발전하다|phát triển|기술이 빠르게 발전하고 있습니다.|Công nghệ đang phát triển nhanh.
+인공지능|trí tuệ nhân tạo|인공지능이 많은 일을 합니다.|Trí tuệ nhân tạo làm rất nhiều việc.
+로봇|rô bốt|이 공장에서는 로봇이 일합니다.|Ở nhà máy này rô bốt làm việc.
+우주|vũ trụ|언젠가 우주에 가고 싶습니다.|Một ngày nào đó tôi muốn đi vào vũ trụ.
+에너지|năng lượng|태양 에너지를 사용합니다.|Chúng tôi sử dụng năng lượng mặt trời.
+전기|điện|갑자기 전기가 나갔습니다.|Đột nhiên mất điện.
+기계|máy móc|이 기계는 사용하기 쉽습니다.|Chiếc máy này dễ sử dụng.
+
+@ko408|Y tế và sức khỏe|Bệnh, phòng ngừa, lối sống|의
+질병|bệnh tật|운동은 질병을 예방합니다.|Tập thể dục phòng ngừa bệnh tật.
+예방하다|phòng ngừa|감기를 예방하려면 손을 씻으세요.|Muốn phòng cảm cúm thì hãy rửa tay.
+치료하다|điều trị|의사가 환자를 치료합니다.|Bác sĩ điều trị cho bệnh nhân.
+회복하다|hồi phục|수술 후에 빨리 회복했습니다.|Sau phẫu thuật tôi đã hồi phục nhanh.
+영양|dinh dưỡng|아이에게는 영양이 중요합니다.|Dinh dưỡng quan trọng với trẻ nhỏ.
+비만|béo phì|비만은 건강에 나쁩니다.|Béo phì có hại cho sức khỏe.
+수면|giấc ngủ|충분한 수면이 필요합니다.|Cần ngủ đủ giấc.
+피부|làn da|겨울에는 피부가 건조합니다.|Mùa đông da bị khô.
+혈압|huyết áp|아버지는 혈압이 높으십니다.|Bố tôi bị huyết áp cao.
+암|ung thư|암은 일찍 발견해야 합니다.|Ung thư cần được phát hiện sớm.
+보험|bảo hiểm|건강 보험에 가입했습니다.|Tôi đã tham gia bảo hiểm y tế.
+응급실|phòng cấp cứu|밤에 아이를 응급실에 데려갔습니다.|Ban đêm tôi đã đưa con đến phòng cấp cứu.
+
+@ko409|Tâm lý|Thái độ, thói quen, tính cách|심
+태도|thái độ|그 학생은 수업 태도가 좋습니다.|Học sinh đó có thái độ học tập tốt.
+습관|thói quen|일찍 일어나는 습관이 있습니다.|Tôi có thói quen dậy sớm.
+자신감|sự tự tin|연습을 많이 해서 자신감이 생겼습니다.|Luyện tập nhiều nên tôi đã có sự tự tin.
+용기|dũng khí|용기를 내서 질문했습니다.|Tôi đã lấy can đảm để hỏi.
+욕심|lòng tham|그 사람은 돈 욕심이 많습니다.|Người đó tham tiền.
+인내심|lòng kiên nhẫn|외국어 공부에는 인내심이 필요합니다.|Học ngoại ngữ cần lòng kiên nhẫn.
+적극적|tích cực, chủ động|그는 모든 일에 적극적입니다.|Anh ấy chủ động trong mọi việc.
+소극적|thụ động|저는 조금 소극적인 성격입니다.|Tôi có tính cách hơi thụ động.
+참다|chịu đựng, nhịn|화가 났지만 참았습니다.|Tôi tức giận nhưng đã nhịn.
+포기하다|từ bỏ|끝까지 포기하지 마세요.|Đừng từ bỏ cho đến cuối cùng.
+극복하다|vượt qua|어려움을 함께 극복했습니다.|Chúng tôi đã cùng nhau vượt qua khó khăn.
+배려하다|quan tâm, chu đáo|다른 사람을 배려해야 합니다.|Phải biết quan tâm đến người khác.
+
+@ko410|Ngôn ngữ và giao tiếp|Ý kiến, giải thích, thuyết phục|말
+의견|ý kiến|제 의견을 말씀드리겠습니다.|Tôi xin trình bày ý kiến của mình.
+설명하다|giải thích|다시 한번 설명해 주세요.|Xin hãy giải thích lại một lần nữa.
+주장하다|chủ trương, khẳng định|그는 자기가 옳다고 주장합니다.|Anh ấy khẳng định rằng mình đúng.
+설득하다|thuyết phục|부모님을 설득하기가 어렵습니다.|Thuyết phục bố mẹ thật khó.
+동의하다|đồng ý|저도 그 생각에 동의합니다.|Tôi cũng đồng ý với suy nghĩ đó.
+반대하다|phản đối|많은 사람이 그 계획에 반대합니다.|Nhiều người phản đối kế hoạch đó.
+오해하다|hiểu lầm|친구가 제 말을 오해했습니다.|Bạn tôi đã hiểu lầm lời tôi.
+농담|lời nói đùa|그것은 그냥 농담이었습니다.|Đó chỉ là lời nói đùa thôi.
+거짓말|lời nói dối|아이가 거짓말을 했습니다.|Đứa bé đã nói dối.
+존댓말|kính ngữ|어른에게는 존댓말을 씁니다.|Với người lớn thì dùng kính ngữ.
+번역하다|biên dịch|이 문장을 베트남어로 번역했습니다.|Tôi đã dịch câu này sang tiếng Việt.
+발음|phát âm|한국어 발음이 조금 어렵습니다.|Phát âm tiếng Hàn hơi khó.
+
+%43|4|Phần 3: Diễn đạt chính xác|Động từ, tính từ trừu tượng, xã hội hiện đại, địa lý|grape
+@ko411|Động từ trừu tượng|Thay đổi, ảnh hưởng, giải quyết|변
+변하다|thay đổi, biến đổi|고향이 많이 변했습니다.|Quê tôi đã thay đổi nhiều.
+해결하다|giải quyết|이 문제를 빨리 해결해야 합니다.|Phải giải quyết vấn đề này nhanh.
+영향|ảnh hưởng|날씨가 기분에 영향을 줍니다.|Thời tiết ảnh hưởng đến tâm trạng.
+선택하다|lựa chọn|둘 중에서 하나를 선택하세요.|Hãy chọn một trong hai.
+비교하다|so sánh|두 제품의 가격을 비교했습니다.|Tôi đã so sánh giá của hai sản phẩm.
+확인하다|xác nhận, kiểm tra|출발 시간을 다시 확인했습니다.|Tôi đã kiểm tra lại giờ khởi hành.
+참여하다|tham gia|많은 학생이 행사에 참여했습니다.|Nhiều học sinh đã tham gia sự kiện.
+제공하다|cung cấp|호텔에서 아침 식사를 제공합니다.|Khách sạn cung cấp bữa sáng.
+유지하다|duy trì|건강을 유지하려고 운동합니다.|Tôi tập thể dục để duy trì sức khỏe.
+증가하다|tăng lên|외국인 관광객이 증가했습니다.|Khách du lịch nước ngoài đã tăng.
+감소하다|giảm đi|이 마을의 인구가 감소했습니다.|Dân số của ngôi làng này đã giảm.
+이루다|đạt được, thực hiện|드디어 꿈을 이루었습니다.|Cuối cùng tôi đã thực hiện được ước mơ.
+
+@ko412|Tính từ trừu tượng|Đánh giá, mức độ, tính chất|중
+중요하다|quan trọng|건강이 가장 중요합니다.|Sức khỏe là quan trọng nhất.
+심각하다|nghiêm trọng|이 문제는 매우 심각합니다.|Vấn đề này rất nghiêm trọng.
+복잡하다|phức tạp, đông đúc|출근 시간에는 지하철이 복잡합니다.|Giờ đi làm tàu điện ngầm rất đông.
+단순하다|đơn giản|이 게임은 규칙이 단순합니다.|Trò chơi này có luật đơn giản.
+다양하다|đa dạng|이 식당은 메뉴가 다양합니다.|Quán này thực đơn đa dạng.
+충분하다|đầy đủ|시간이 아직 충분합니다.|Vẫn còn đủ thời gian.
+부족하다|thiếu|이번 달은 생활비가 부족합니다.|Tháng này thiếu tiền sinh hoạt.
+정확하다|chính xác|이 시계는 아주 정확합니다.|Chiếc đồng hồ này rất chính xác.
+분명하다|rõ ràng|그의 대답은 분명했습니다.|Câu trả lời của anh ấy rõ ràng.
+특별하다|đặc biệt|오늘은 특별한 날입니다.|Hôm nay là một ngày đặc biệt.
+평범하다|bình thường|저는 평범한 회사원입니다.|Tôi là một nhân viên công ty bình thường.
+위험하다|nguy hiểm|밤에 혼자 다니면 위험합니다.|Đi một mình ban đêm thì nguy hiểm.
+
+@ko413|Phó từ mức độ và thái độ|Nhấn mạnh, dần dần, nhất định|꼭
+반드시|nhất định, chắc chắn|내일까지 반드시 끝내겠습니다.|Tôi nhất định sẽ làm xong trước ngày mai.
+점점|dần dần|날씨가 점점 추워집니다.|Thời tiết dần dần lạnh hơn.
+여전히|vẫn như cũ|그는 여전히 그 집에 삽니다.|Anh ấy vẫn sống ở ngôi nhà đó.
+대부분|phần lớn|학생들은 대부분 기숙사에 삽니다.|Phần lớn sinh viên sống ở ký túc xá.
+우연히|tình cờ|길에서 우연히 선생님을 만났습니다.|Tôi tình cờ gặp thầy giáo trên đường.
+일부러|cố ý|일부러 그런 것이 아닙니다.|Không phải tôi cố ý làm thế.
+당연히|đương nhiên|친구니까 당연히 도와야 합니다.|Là bạn bè nên đương nhiên phải giúp.
+도대체|rốt cuộc|도대체 무슨 일이 있었습니까?|Rốt cuộc đã có chuyện gì vậy?
+마침내|rốt cuộc, sau cùng|마침내 산 위에 도착했습니다.|Sau cùng chúng tôi đã lên đến đỉnh núi.
+게다가|hơn nữa|이 방은 넓습니다, 게다가 값도 쌉니다.|Phòng này rộng, hơn nữa giá cũng rẻ.
+따라서|do đó|비가 옵니다, 따라서 경기를 취소합니다.|Trời mưa, do đó trận đấu bị hủy.
+그대로|y nguyên|책을 그대로 책상 위에 두세요.|Hãy cứ để nguyên cuốn sách trên bàn.
+
+@ko414|Xã hội hiện đại|Dân số, thế hệ, việc làm|현
+인구|dân số|이 도시의 인구는 백만 명입니다.|Dân số thành phố này là một triệu người.
+세대|thế hệ|젊은 세대는 생각이 다릅니다.|Thế hệ trẻ suy nghĩ khác.
+노인|người già|노인을 위한 자리가 있습니다.|Có chỗ ngồi dành cho người già.
+청소년|thanh thiếu niên|청소년은 여기에 들어갈 수 없습니다.|Thanh thiếu niên không được vào đây.
+출산|sinh con|요즘 출산이 줄고 있습니다.|Dạo này việc sinh con đang giảm.
+육아|nuôi dạy con|부부가 함께 육아를 합니다.|Hai vợ chồng cùng nuôi dạy con.
+실업|thất nghiệp|청년 실업이 큰 문제입니다.|Thất nghiệp ở thanh niên là vấn đề lớn.
+차별|phân biệt đối xử|어떤 차별도 있으면 안 됩니다.|Không được có bất kỳ sự phân biệt đối xử nào.
+봉사하다|làm tình nguyện|주말마다 병원에서 봉사합니다.|Cuối tuần nào tôi cũng làm tình nguyện ở bệnh viện.
+기부하다|quyên góp|그는 학교에 많은 돈을 기부했습니다.|Ông ấy đã quyên góp nhiều tiền cho trường.
+복지|phúc lợi|이 회사는 직원 복지가 좋습니다.|Công ty này có phúc lợi tốt cho nhân viên.
+다문화|đa văn hóa|한국에도 다문화 가정이 많습니다.|Ở Hàn Quốc cũng có nhiều gia đình đa văn hóa.
+
+@ko415|Địa lý và thiên nhiên|Địa hình, tài nguyên, nông thôn|땅
+지역|khu vực|이 지역은 사과로 유명합니다.|Khu vực này nổi tiếng về táo.
+섬|đảo|제주도는 아름다운 섬입니다.|Jeju là một hòn đảo đẹp.
+숲|rừng|숲에서 새 소리가 들립니다.|Trong rừng nghe thấy tiếng chim.
+호수|hồ|호수 옆에서 산책했습니다.|Tôi đã đi dạo bên hồ.
+사막|sa mạc|사막에는 비가 거의 오지 않습니다.|Ở sa mạc hầu như không mưa.
+자원|tài nguyên|이 나라는 자원이 풍부합니다.|Đất nước này giàu tài nguyên.
+농사|việc đồng áng|할아버지는 시골에서 농사를 짓습니다.|Ông tôi làm ruộng ở quê.
+농촌|làng quê làm nông|농촌에는 젊은 사람이 적습니다.|Ở nông thôn ít người trẻ.
+해외|nước ngoài, hải ngoại|올해 처음 해외에 나갑니다.|Năm nay lần đầu tôi ra nước ngoài.
+국내|trong nước|이번 휴가는 국내에서 보냅니다.|Kỳ nghỉ này tôi ở trong nước.
+수도|thủ đô|한국의 수도는 서울입니다.|Thủ đô của Hàn Quốc là Seoul.
+국경|biên giới|두 나라는 국경이 붙어 있습니다.|Hai nước có chung biên giới.
+
+%51|5|Phần 1: Xã hội và thời sự|Dư luận, kinh tế, lao động, tư pháp, quốc tế|leaf
+@ko501|Báo chí và dư luận|Tin tức, khảo sát, tranh luận|론
+언론|báo chí, truyền thông|언론이 그 사건을 크게 보도했습니다.|Báo chí đã đưa tin rầm rộ về vụ việc đó.
+여론|dư luận|여론은 새 정책에 반대합니다.|Dư luận phản đối chính sách mới.
+보도하다|đưa tin|기자가 현장에서 사고를 보도했습니다.|Phóng viên đã đưa tin về tai nạn từ hiện trường.
+설문조사|khảo sát bằng bảng hỏi|학생들에게 설문조사를 했습니다.|Chúng tôi đã khảo sát bằng bảng hỏi với sinh viên.
+통계|thống kê|통계를 보면 인구가 줄고 있습니다.|Nhìn vào thống kê thì dân số đang giảm.
+논란|tranh cãi|그 발언은 큰 논란이 되었습니다.|Phát ngôn đó đã gây tranh cãi lớn.
+비판하다|phê phán|시민들이 정부를 비판했습니다.|Người dân đã phê phán chính phủ.
+사실|sự thật|그 이야기는 사실이 아닙니다.|Câu chuyện đó không phải sự thật.
+객관적|khách quan|뉴스는 객관적이어야 합니다.|Tin tức phải khách quan.
+주관적|chủ quan|그것은 너무 주관적인 생각입니다.|Đó là suy nghĩ quá chủ quan.
+전문가|chuyên gia|전문가의 의견을 들었습니다.|Chúng tôi đã nghe ý kiến của chuyên gia.
+현상|hiện tượng|이것은 새로운 사회 현상입니다.|Đây là một hiện tượng xã hội mới.
+
+@ko502|Kinh tế vĩ mô|Tài chính, thương mại, khủng hoảng|금
+금융|tài chính|그는 금융 회사에서 일합니다.|Anh ấy làm việc ở công ty tài chính.
+무역|thương mại, mậu dịch|두 나라의 무역이 늘었습니다.|Thương mại giữa hai nước đã tăng.
+주식|cổ phiếu|요즘 주식에 투자하는 사람이 많습니다.|Dạo này có nhiều người đầu tư cổ phiếu.
+환율|tỷ giá|오늘 환율이 많이 올랐습니다.|Hôm nay tỷ giá tăng nhiều.
+불황|suy thoái|불황 때문에 가게들이 문을 닫았습니다.|Vì suy thoái nên các cửa hàng đã đóng cửa.
+위기|khủng hoảng|회사가 큰 위기를 맞았습니다.|Công ty đã gặp một cuộc khủng hoảng lớn.
+자본|vốn, tư bản|사업을 시작하려면 자본이 필요합니다.|Muốn bắt đầu kinh doanh thì cần vốn.
+산업|ngành công nghiệp|관광 산업이 빠르게 성장합니다.|Ngành du lịch tăng trưởng nhanh.
+예산|ngân sách|올해 예산이 부족합니다.|Ngân sách năm nay thiếu.
+수요|nhu cầu|전기 자동차의 수요가 늘고 있습니다.|Nhu cầu về ô tô điện đang tăng.
+공급|cung cấp, nguồn cung|물 공급이 잠시 중단되었습니다.|Việc cấp nước tạm thời bị gián đoạn.
+전망|triển vọng, dự báo|내년 경제 전망은 밝습니다.|Triển vọng kinh tế năm sau tươi sáng.
+
+@ko503|Lao động|Tuyển dụng, đình công, điều kiện|노
+노동|lao động|노동 시간이 너무 깁니다.|Thời gian lao động quá dài.
+고용|tuyển dụng, việc làm|정부가 고용을 늘리려고 합니다.|Chính phủ định tăng việc làm.
+해고하다|sa thải|회사가 직원 백 명을 해고했습니다.|Công ty đã sa thải một trăm nhân viên.
+임금|tiền lương|노동자들이 임금 인상을 요구합니다.|Người lao động yêu cầu tăng lương.
+파업|đình công|버스 기사들이 파업을 시작했습니다.|Các tài xế xe buýt đã bắt đầu đình công.
+정규직|nhân viên chính thức|그는 올해 정규직이 되었습니다.|Năm nay anh ấy đã trở thành nhân viên chính thức.
+은퇴하다|nghỉ hưu|아버지는 작년에 은퇴하셨습니다.|Bố tôi đã nghỉ hưu năm ngoái.
+연금|lương hưu|은퇴 후에 연금을 받습니다.|Sau khi nghỉ hưu sẽ nhận lương hưu.
+근무|ca làm, sự làm việc|오늘은 야간 근무입니다.|Hôm nay tôi làm ca đêm.
+협상하다|đàm phán|회사와 노동자가 협상하고 있습니다.|Công ty và người lao động đang đàm phán.
+요구하다|yêu cầu, đòi hỏi|고객이 환불을 요구했습니다.|Khách hàng đã yêu cầu hoàn tiền.
+책임|trách nhiệm|이 일은 제 책임입니다.|Việc này là trách nhiệm của tôi.
+
+@ko504|Tư pháp|Điều tra, xét xử, hình phạt|판
+수사하다|điều tra (hình sự)|경찰이 그 사건을 수사하고 있습니다.|Cảnh sát đang điều tra vụ án đó.
+체포하다|bắt giữ|경찰이 범인을 체포했습니다.|Cảnh sát đã bắt giữ thủ phạm.
+범인|thủ phạm|범인은 아직 잡히지 않았습니다.|Thủ phạm vẫn chưa bị bắt.
+피해자|nạn nhân|피해자가 병원에 입원했습니다.|Nạn nhân đã nhập viện.
+판사|thẩm phán|판사가 결정을 내렸습니다.|Thẩm phán đã đưa ra quyết định.
+검사하다|kiểm tra, soát xét|공항에서 가방을 검사합니다.|Ở sân bay người ta kiểm tra túi xách.
+처벌하다|xử phạt|법을 어기면 처벌합니다.|Vi phạm pháp luật thì bị xử phạt.
+감옥|nhà tù|그는 3년 동안 감옥에 있었습니다.|Anh ta đã ở tù 3 năm.
+소송|vụ kiện|회사를 상대로 소송을 냈습니다.|Tôi đã khởi kiện công ty.
+위반하다|vi phạm|교통 규칙을 위반했습니다.|Tôi đã vi phạm luật giao thông.
+인권|nhân quyền|인권은 누구에게나 소중합니다.|Nhân quyền quý giá với bất kỳ ai.
+정의|công lý; định nghĩa|사람들은 정의를 원합니다.|Mọi người mong muốn công lý.
+
+@ko505|Quan hệ quốc tế|Ngoại giao, chiến tranh, hợp tác|외
+외교|ngoại giao|두 나라는 외교 관계를 맺었습니다.|Hai nước đã thiết lập quan hệ ngoại giao.
+대사관|đại sứ quán|대사관에서 비자를 받았습니다.|Tôi đã nhận visa ở đại sứ quán.
+전쟁|chiến tranh|전쟁은 많은 사람을 죽입니다.|Chiến tranh giết chết nhiều người.
+군대|quân đội|오빠는 내년에 군대에 갑니다.|Anh tôi năm sau đi nghĩa vụ quân sự.
+난민|người tị nạn|많은 난민이 국경을 넘었습니다.|Nhiều người tị nạn đã vượt biên giới.
+협력하다|hợp tác|두 회사가 서로 협력합니다.|Hai công ty hợp tác với nhau.
+갈등|mâu thuẫn, xung đột|세대 사이의 갈등이 커졌습니다.|Mâu thuẫn giữa các thế hệ đã lớn hơn.
+통일|thống nhất|많은 사람이 통일을 바랍니다.|Nhiều người mong muốn thống nhất.
+국제|quốc tế|서울에서 국제 회의가 열립니다.|Hội nghị quốc tế được tổ chức ở Seoul.
+세계화|toàn cầu hóa|세계화로 문화가 섞이고 있습니다.|Do toàn cầu hóa, các nền văn hóa đang hòa trộn.
+지원금|tiền hỗ trợ|정부가 농민에게 지원금을 주었습니다.|Chính phủ đã cấp tiền hỗ trợ cho nông dân.
+조약|hiệp ước|두 나라가 평화 조약을 맺었습니다.|Hai nước đã ký hiệp ước hòa bình.
+
+%52|5|Phần 2: Tri thức và văn hóa|Giá trị, lịch sử, văn học, khoa học, môi trường|sky
+@ko506|Giá trị và tư tưởng|Đạo đức, niềm tin, tự do|가
+가치|giá trị|이 그림은 가치가 높습니다.|Bức tranh này có giá trị cao.
+도덕|đạo đức|학교에서 도덕을 배웁니다.|Ở trường chúng tôi học đạo đức.
+양심|lương tâm|양심에 따라 행동하세요.|Hãy hành động theo lương tâm.
+자유|tự do|모든 사람은 자유를 원합니다.|Mọi người đều muốn tự do.
+평등|bình đẳng|남녀 평등은 중요합니다.|Bình đẳng nam nữ là quan trọng.
+종교|tôn giáo|한국에는 여러 종교가 있습니다.|Ở Hàn Quốc có nhiều tôn giáo.
+철학|triết học|대학교에서 철학을 전공했습니다.|Tôi đã học chuyên ngành triết học ở đại học.
+신념|niềm tin, tín niệm|그는 자기 신념을 지켰습니다.|Ông ấy đã giữ vững niềm tin của mình.
+편견|định kiến|외국인에 대한 편견을 버려야 합니다.|Phải bỏ định kiến về người nước ngoài.
+존중하다|tôn trọng|서로의 의견을 존중합시다.|Hãy tôn trọng ý kiến của nhau.
+희생하다|hy sinh|부모님은 자식을 위해 희생하셨습니다.|Bố mẹ đã hy sinh vì con cái.
+인정하다|thừa nhận, công nhận|그는 자기 잘못을 인정했습니다.|Anh ấy đã thừa nhận lỗi của mình.
+
+@ko507|Lịch sử|Triều đại, di sản, sự kiện|옛
+왕|vua|세종은 조선의 왕이었습니다.|Sejong là vua của Joseon.
+조상|tổ tiên|명절에 조상에게 인사를 드립니다.|Vào ngày lễ chúng tôi làm lễ chào tổ tiên.
+시대|thời đại|우리는 정보 시대에 살고 있습니다.|Chúng ta đang sống trong thời đại thông tin.
+유적|di tích|경주에는 유적이 많습니다.|Ở Gyeongju có nhiều di tích.
+문화재|di sản văn hóa|이 절은 중요한 문화재입니다.|Ngôi chùa này là di sản văn hóa quan trọng.
+독립|độc lập|한국은 1945년에 독립을 했습니다.|Hàn Quốc đã độc lập vào năm 1945.
+식민지|thuộc địa|그 나라는 오랫동안 식민지였습니다.|Nước đó đã là thuộc địa trong thời gian dài.
+혁명|cách mạng|산업 혁명은 세계를 바꿨습니다.|Cách mạng công nghiệp đã thay đổi thế giới.
+기록하다|ghi chép|매일 지출을 기록합니다.|Mỗi ngày tôi ghi chép các khoản chi.
+보존하다|bảo tồn|옛 건물을 잘 보존해야 합니다.|Phải bảo tồn tốt các tòa nhà cổ.
+세기|thế kỷ|이 성은 15세기에 지어졌습니다.|Tòa thành này được xây vào thế kỷ 15.
+인류|nhân loại|인류의 역사는 매우 깁니다.|Lịch sử nhân loại rất dài.
+
+@ko508|Văn học và phê bình|Thể loại, chủ đề, đánh giá|글
+문학|văn học|저는 한국 문학을 공부합니다.|Tôi học văn học Hàn Quốc.
+주제|chủ đề|오늘 토론의 주제는 환경입니다.|Chủ đề thảo luận hôm nay là môi trường.
+주인공|nhân vật chính|이 소설의 주인공은 학생입니다.|Nhân vật chính của tiểu thuyết này là một học sinh.
+줄거리|cốt truyện|영화의 줄거리를 말해 주세요.|Hãy kể cho tôi cốt truyện của bộ phim.
+배경|bối cảnh, hậu cảnh|이 드라마의 배경은 부산입니다.|Bối cảnh của bộ phim này là Busan.
+비유|ẩn dụ, so sánh|시인은 비유를 자주 사용합니다.|Nhà thơ thường dùng phép so sánh.
+평가하다|đánh giá|선생님이 학생의 글을 평가합니다.|Thầy giáo đánh giá bài viết của học sinh.
+해석하다|diễn giải, phân tích nghĩa|이 시를 여러 가지로 해석할 수 있습니다.|Bài thơ này có thể diễn giải theo nhiều cách.
+묘사하다|miêu tả|작가가 풍경을 자세히 묘사했습니다.|Nhà văn đã miêu tả phong cảnh một cách chi tiết.
+출판하다|xuất bản|올해 첫 책을 출판했습니다.|Năm nay tôi đã xuất bản cuốn sách đầu tiên.
+독자|độc giả|이 책은 독자가 많습니다.|Cuốn sách này có nhiều độc giả.
+수필|tùy bút|그 교수는 수필을 자주 씁니다.|Vị giáo sư đó thường viết tùy bút.
+
+@ko509|Khoa học tự nhiên|Vật chất, sinh học, lý thuyết|물
+물질|vật chất, chất|이 물질은 몸에 해롭습니다.|Chất này có hại cho cơ thể.
+세포|tế bào|우리 몸은 세포로 이루어져 있습니다.|Cơ thể chúng ta được tạo thành từ tế bào.
+유전자|gen|유전자가 병의 원인일 수 있습니다.|Gen có thể là nguyên nhân của bệnh.
+진화|tiến hóa|동물은 오랫동안 진화했습니다.|Động vật đã tiến hóa trong thời gian dài.
+중력|trọng lực|달은 중력이 약합니다.|Mặt Trăng có trọng lực yếu.
+산소|ô xy|높은 산에는 산소가 적습니다.|Trên núi cao ít ô xy.
+이론|lý thuyết|그 이론은 아직 증명되지 않았습니다.|Lý thuyết đó vẫn chưa được chứng minh.
+가설|giả thuyết|과학자가 새 가설을 세웠습니다.|Nhà khoa học đã lập giả thuyết mới.
+관찰하다|quan sát|아이들이 곤충을 관찰합니다.|Bọn trẻ quan sát côn trùng.
+분석하다|phân tích|자료를 자세히 분석했습니다.|Chúng tôi đã phân tích tài liệu kỹ lưỡng.
+증명하다|chứng minh|그는 자기 주장을 증명했습니다.|Anh ấy đã chứng minh luận điểm của mình.
+원리|nguyên lý|이 기계의 원리는 간단합니다.|Nguyên lý của chiếc máy này đơn giản.
+
+@ko510|Môi trường toàn cầu|Khí hậu, tài nguyên, phát triển bền vững|기
+기후|khí hậu|이 지역은 기후가 따뜻합니다.|Khu vực này có khí hậu ấm áp.
+온난화|sự nóng lên|지구 온난화가 점점 심해집니다.|Sự nóng lên của Trái Đất ngày càng nghiêm trọng.
+지구|Trái Đất|지구는 우리 모두의 집입니다.|Trái Đất là ngôi nhà của tất cả chúng ta.
+생태계|hệ sinh thái|개발 때문에 생태계가 파괴됩니다.|Vì phát triển mà hệ sinh thái bị phá hủy.
+멸종|tuyệt chủng|많은 동물이 멸종 위기에 있습니다.|Nhiều loài động vật đang có nguy cơ tuyệt chủng.
+파괴하다|phá hủy|전쟁이 도시를 파괴했습니다.|Chiến tranh đã phá hủy thành phố.
+보호하다|bảo vệ|우리는 숲을 보호해야 합니다.|Chúng ta phải bảo vệ rừng.
+개발하다|phát triển, khai thác|회사가 새 약을 개발했습니다.|Công ty đã phát triển loại thuốc mới.
+친환경|thân thiện môi trường|친환경 제품을 사용합니다.|Tôi dùng sản phẩm thân thiện môi trường.
+일회용|dùng một lần|일회용 컵을 쓰지 않습니다.|Tôi không dùng cốc dùng một lần.
+배출하다|thải ra|공장이 가스를 많이 배출합니다.|Nhà máy thải ra nhiều khí.
+가뭄|hạn hán|올해는 가뭄이 심합니다.|Năm nay hạn hán nghiêm trọng.
+
+%53|5|Phần 3: Ngôn ngữ học thuật|Động từ, tính từ, từ nối, tâm lý xã hội, quán ngữ|grape
+@ko511|Động từ học thuật|Phân loại, dự đoán, áp dụng|학
+예상하다|dự đoán|결과는 예상했던 것과 다릅니다.|Kết quả khác với điều đã dự đoán.
+적용하다|áp dụng|새 규칙을 모든 학생에게 적용합니다.|Quy tắc mới áp dụng cho mọi học sinh.
+분류하다|phân loại|쓰레기를 종류별로 분류합니다.|Tôi phân loại rác theo từng loại.
+강조하다|nhấn mạnh|선생님은 복습을 강조하셨습니다.|Thầy giáo đã nhấn mạnh việc ôn tập.
+포함하다|bao gồm|이 가격은 세금을 포함합니다.|Giá này bao gồm thuế.
+제외하다|loại trừ|일요일을 제외하고 매일 엽니다.|Mở cửa mỗi ngày trừ Chủ nhật.
+판단하다|phán đoán|겉모습으로 사람을 판단하지 마세요.|Đừng phán xét con người qua vẻ ngoài.
+추측하다|suy đoán|그의 나이를 추측해 보세요.|Hãy thử đoán tuổi của anh ấy.
+검토하다|xem xét, rà soát|계약서를 다시 검토하겠습니다.|Tôi sẽ rà soát lại bản hợp đồng.
+실시하다|tiến hành|다음 주에 시험을 실시합니다.|Tuần sau tiến hành kỳ thi.
+확대하다|mở rộng|회사가 사업을 확대했습니다.|Công ty đã mở rộng kinh doanh.
+축소하다|thu hẹp|정부가 예산을 축소했습니다.|Chính phủ đã thu hẹp ngân sách.
+
+@ko512|Tính từ học thuật|Tính chất, mức độ, đánh giá|성
+적절하다|thích hợp|적절한 예를 들어 주세요.|Hãy nêu một ví dụ thích hợp.
+효과적|hiệu quả|이 방법이 더 효과적입니다.|Phương pháp này hiệu quả hơn.
+긍정적|tích cực, lạc quan|그는 항상 긍정적으로 생각합니다.|Anh ấy luôn suy nghĩ tích cực.
+부정적|tiêu cực|부정적인 생각을 버리세요.|Hãy bỏ suy nghĩ tiêu cực đi.
+구체적|cụ thể|계획을 구체적으로 말해 주세요.|Hãy nói kế hoạch một cách cụ thể.
+추상적|trừu tượng|그 설명은 너무 추상적입니다.|Lời giải thích đó quá trừu tượng.
+일반적|thông thường, nói chung|일반적으로 여름에 비가 많이 옵니다.|Nói chung mùa hè mưa nhiều.
+전통적|mang tính truyền thống|이것은 전통적인 한국 집입니다.|Đây là ngôi nhà Hàn Quốc truyền thống.
+필수적|thiết yếu|물은 생명에 필수적입니다.|Nước thiết yếu đối với sự sống.
+뚜렷하다|rõ rệt|한국은 사계절이 뚜렷합니다.|Hàn Quốc có bốn mùa rõ rệt.
+막연하다|mơ hồ|미래에 대한 생각이 막연합니다.|Suy nghĩ về tương lai còn mơ hồ.
+급격하다|đột ngột, nhanh chóng|기온이 급격하게 떨어졌습니다.|Nhiệt độ đã giảm đột ngột.
+
+@ko513|Từ nối học thuật|Lập luận, đối lập, kết luận|즉
+즉|tức là|서울, 즉 한국의 수도에 삽니다.|Tôi sống ở Seoul, tức là thủ đô của Hàn Quốc.
+반면에|trái lại, mặt khác|형은 조용합니다, 반면에 동생은 활발합니다.|Anh thì trầm lặng, trái lại em thì hoạt bát.
+그러므로|vì thế cho nên|시간이 없습니다, 그러므로 서둘러야 합니다.|Không có thời gian, vì vậy phải khẩn trương.
+그럼에도|dù vậy|비가 왔습니다, 그럼에도 경기를 했습니다.|Trời đã mưa, dù vậy trận đấu vẫn diễn ra.
+또한|ngoài ra, cũng|그는 가수입니다, 또한 배우입니다.|Anh ấy là ca sĩ, ngoài ra còn là diễn viên.
+결국|rốt cuộc, kết cục|결국 우리 팀이 이겼습니다.|Rốt cuộc đội chúng tôi đã thắng.
+물론|tất nhiên|물론 저도 같이 가겠습니다.|Tất nhiên tôi cũng sẽ đi cùng.
+오직|chỉ, duy nhất|오직 한 사람만 합격했습니다.|Chỉ duy nhất một người đỗ.
+비록|mặc dù|비록 힘들지만 포기하지 않겠습니다.|Mặc dù vất vả nhưng tôi sẽ không từ bỏ.
+차라리|thà rằng|이렇게 기다리면 차라리 걸어가겠습니다.|Chờ thế này thì thà tôi đi bộ còn hơn.
+어쨌든|dù sao đi nữa|어쨌든 내일은 꼭 오세요.|Dù sao đi nữa ngày mai hãy nhất định đến.
+한편|mặt khác, trong khi đó|한편 다른 팀은 연습을 계속했습니다.|Trong khi đó đội kia vẫn tiếp tục luyện tập.
+
+@ko514|Tâm lý xã hội|Áp lực, đồng cảm, cô lập|심
+압박|áp lực, sức ép|그는 부모님의 압박을 느낍니다.|Anh ấy cảm thấy áp lực từ bố mẹ.
+공감하다|đồng cảm|친구의 이야기에 공감했습니다.|Tôi đã đồng cảm với câu chuyện của bạn.
+소외감|cảm giác bị bỏ rơi|새 학교에서 소외감을 느꼈습니다.|Ở trường mới tôi đã thấy mình bị bỏ rơi.
+우울하다|u uất, buồn chán|비가 오는 날은 우울합니다.|Ngày mưa tôi thấy buồn chán.
+불안하다|bất an|시험 전에는 항상 불안합니다.|Trước kỳ thi tôi luôn bất an.
+열등감|mặc cảm tự ti|그는 형에게 열등감이 있습니다.|Anh ấy mặc cảm tự ti với anh trai.
+자존심|lòng tự trọng|그 말이 제 자존심을 건드렸습니다.|Lời nói đó đã chạm vào lòng tự trọng của tôi.
+의지|ý chí|강한 의지가 있으면 할 수 있습니다.|Có ý chí mạnh mẽ thì sẽ làm được.
+동기|động cơ, động lực|공부를 시작한 동기가 무엇입니까?|Động lực khiến bạn bắt đầu học là gì?
+중독|nghiện|게임 중독은 심각한 문제입니다.|Nghiện game là vấn đề nghiêm trọng.
+위로하다|an ủi|슬퍼하는 친구를 위로했습니다.|Tôi đã an ủi người bạn đang buồn.
+격려하다|động viên, khích lệ|선생님이 학생들을 격려했습니다.|Thầy giáo đã động viên các học sinh.
+
+@ko515|Quán ngữ và cụm từ|Cách nói thường gặp|말
+눈치|sự tinh ý|그는 눈치가 빠릅니다.|Anh ấy rất tinh ý.
+정|tình cảm gắn bó|한국 사람은 정이 많습니다.|Người Hàn Quốc giàu tình cảm.
+체면|thể diện|그는 체면을 중요하게 생각합니다.|Ông ấy coi trọng thể diện.
+덕분|nhờ ơn|선생님 덕분에 합격했습니다.|Nhờ ơn thầy mà tôi đã đỗ.
+탓|tại, lỗi do|남의 탓을 하지 마세요.|Đừng đổ lỗi cho người khác.
+핑계|cái cớ|그는 늘 핑계를 댑니다.|Anh ta lúc nào cũng viện cớ.
+보람|sự xứng đáng, ý nghĩa|아이들을 가르치는 일은 보람이 있습니다.|Việc dạy trẻ thật có ý nghĩa.
+고민|nỗi trăn trở|요즘 진로 때문에 고민이 많습니다.|Dạo này tôi trăn trở nhiều về hướng đi tương lai.
+형편|hoàn cảnh, điều kiện sống|집안 형편이 어렵습니다.|Hoàn cảnh gia đình khó khăn.
+인연|nhân duyên|우리는 인연이 깊습니다.|Chúng ta có nhân duyên sâu đậm.
+말다툼|cuộc cãi vã|부부가 작은 일로 말다툼을 했습니다.|Hai vợ chồng đã cãi nhau vì chuyện nhỏ.
+잔소리|lời cằn nhằn|어머니의 잔소리가 듣기 싫습니다.|Tôi không thích nghe mẹ cằn nhằn.
+
+%61|6|Phần 1: Chính luận và kinh tế|Thể chế, tài chính, quản trị, pháp lý, truyền thông|leaf
+@ko601|Thể chế chính trị|Dân chủ, quyền lực, cải cách|권
+민주주의|chủ nghĩa dân chủ|민주주의는 국민의 참여가 필요합니다.|Dân chủ cần sự tham gia của người dân.
+권력|quyền lực|권력은 국민에게서 나옵니다.|Quyền lực xuất phát từ nhân dân.
+헌법|hiến pháp|헌법은 국민의 자유를 보장합니다.|Hiến pháp bảo đảm tự do của người dân.
+국회|quốc hội|국회에서 새 법이 통과되었습니다.|Luật mới đã được thông qua ở quốc hội.
+개혁|cải cách|교육 개혁이 필요합니다.|Cần cải cách giáo dục.
+부패|tham nhũng; thối rữa|정치인의 부패가 드러났습니다.|Sự tham nhũng của chính trị gia đã bị phơi bày.
+보수|bảo thủ; thù lao|그 지역은 보수 정당이 강합니다.|Ở khu vực đó đảng bảo thủ mạnh.
+진보|tiến bộ, cấp tiến|진보 정당이 새 정책을 제안했습니다.|Đảng cấp tiến đã đề xuất chính sách mới.
+이념|hệ tư tưởng|두 정당은 이념이 다릅니다.|Hai đảng có hệ tư tưởng khác nhau.
+여당|đảng cầm quyền|여당이 선거에서 이겼습니다.|Đảng cầm quyền đã thắng cử.
+야당|đảng đối lập|야당이 그 법안에 반대했습니다.|Đảng đối lập đã phản đối dự luật đó.
+보장하다|bảo đảm|이 제품은 품질을 보장합니다.|Sản phẩm này bảo đảm chất lượng.
+
+@ko602|Tài chính và thị trường|Lạm phát, lãi suất, độc quyền|재
+물가상승|lạm phát giá cả|물가상승 때문에 생활이 어렵습니다.|Vì giá cả leo thang nên cuộc sống khó khăn.
+금리|lãi suất|중앙은행이 금리를 올렸습니다.|Ngân hàng trung ương đã tăng lãi suất.
+부동산|bất động sản|서울의 부동산 가격이 높습니다.|Giá bất động sản ở Seoul cao.
+독점|độc quyền|한 회사가 시장을 독점하고 있습니다.|Một công ty đang độc quyền thị trường.
+규제|quy chế, sự hạn chế|정부가 부동산 규제를 강화했습니다.|Chính phủ đã siết chặt quy định về bất động sản.
+파산하다|phá sản|그 회사는 작년에 파산했습니다.|Công ty đó đã phá sản năm ngoái.
+부채|khoản nợ|가계 부채가 계속 늘고 있습니다.|Nợ hộ gia đình tiếp tục tăng.
+자산|tài sản|그는 자산이 많은 사람입니다.|Ông ấy là người có nhiều tài sản.
+양극화|phân hóa hai cực|소득 양극화가 심해졌습니다.|Phân hóa thu nhập đã trầm trọng hơn.
+침체|đình trệ|경기 침체가 오래 계속됩니다.|Kinh tế đình trệ kéo dài.
+활성화|sự kích hoạt, làm sôi động|지역 경제 활성화가 필요합니다.|Cần làm sôi động kinh tế địa phương.
+창업하다|khởi nghiệp|대학을 졸업하고 바로 창업했습니다.|Tốt nghiệp đại học xong tôi khởi nghiệp ngay.
+
+@ko603|Quản trị và tổ chức|Chiến lược, hiệu suất, đổi mới|조
+조직|tổ chức|이 조직은 규칙이 엄격합니다.|Tổ chức này có quy tắc nghiêm ngặt.
+전략|chiến lược|새 판매 전략을 세웠습니다.|Chúng tôi đã lập chiến lược bán hàng mới.
+효율|hiệu suất|일의 효율을 높여야 합니다.|Phải nâng cao hiệu suất công việc.
+혁신|đổi mới|기업은 혁신이 없으면 살 수 없습니다.|Doanh nghiệp không đổi mới thì không sống nổi.
+성과|thành quả|이번 사업은 성과가 좋습니다.|Dự án lần này có thành quả tốt.
+경영하다|quản lý kinh doanh|그는 작은 식당을 경영합니다.|Ông ấy quản lý một nhà hàng nhỏ.
+인재|nhân tài|회사는 좋은 인재를 찾고 있습니다.|Công ty đang tìm nhân tài giỏi.
+합병|sáp nhập|두 은행이 합병을 발표했습니다.|Hai ngân hàng đã công bố sáp nhập.
+추진하다|xúc tiến, thúc đẩy|정부가 새 사업을 추진합니다.|Chính phủ xúc tiến dự án mới.
+도입하다|đưa vào áp dụng|회사가 새 시스템을 도입했습니다.|Công ty đã đưa hệ thống mới vào áp dụng.
+개선하다|cải thiện|근무 환경을 개선해야 합니다.|Phải cải thiện môi trường làm việc.
+투명하다|minh bạch; trong suốt|회사의 경영은 투명해야 합니다.|Việc quản lý công ty phải minh bạch.
+
+@ko604|Pháp lý nâng cao|Điều khoản, bồi thường, tranh chấp|법
+법안|dự luật|새 법안이 국회에 올라갔습니다.|Dự luật mới đã được trình lên quốc hội.
+조항|điều khoản|계약서의 조항을 잘 읽으세요.|Hãy đọc kỹ các điều khoản của hợp đồng.
+배상하다|bồi thường|회사가 피해를 배상했습니다.|Công ty đã bồi thường thiệt hại.
+분쟁|tranh chấp|두 나라 사이에 분쟁이 생겼습니다.|Giữa hai nước đã nảy sinh tranh chấp.
+합의하다|thỏa thuận|두 회사가 가격에 합의했습니다.|Hai công ty đã thỏa thuận về giá.
+무죄|vô tội|법원은 그에게 무죄를 선고했습니다.|Tòa đã tuyên anh ấy vô tội.
+유죄|có tội|그는 유죄 판결을 받았습니다.|Anh ta đã nhận bản án có tội.
+판결|phán quyết|내일 판결이 나옵니다.|Ngày mai sẽ có phán quyết.
+저작권|bản quyền|이 사진은 저작권이 있습니다.|Bức ảnh này có bản quyền.
+사기|lừa đảo|인터넷 사기를 조심하세요.|Hãy cẩn thận với lừa đảo trên mạng.
+폭력|bạo lực|학교 폭력은 사라져야 합니다.|Bạo lực học đường phải biến mất.
+침해하다|xâm phạm|다른 사람의 권리를 침해하면 안 됩니다.|Không được xâm phạm quyền của người khác.
+
+@ko605|Truyền thông số|Dữ liệu, bảo mật, tin giả|디
+개인정보|thông tin cá nhân|개인정보를 잘 관리해야 합니다.|Phải quản lý tốt thông tin cá nhân.
+보안|bảo mật|이 사이트는 보안이 약합니다.|Trang web này bảo mật yếu.
+해킹|tấn công mạng|회사 컴퓨터가 해킹을 당했습니다.|Máy tính công ty đã bị tấn công mạng.
+가짜뉴스|tin giả|가짜뉴스가 빠르게 퍼집니다.|Tin giả lan truyền nhanh.
+유출|rò rỉ|고객 정보 유출 사고가 났습니다.|Đã xảy ra sự cố rò rỉ thông tin khách hàng.
+익명|ẩn danh|익명으로 글을 올렸습니다.|Tôi đã đăng bài ẩn danh.
+매체|phương tiện truyền thông|새로운 매체가 계속 나옵니다.|Các phương tiện truyền thông mới liên tục ra đời.
+확산|sự lan rộng|소문의 확산을 막기 어렵습니다.|Khó ngăn tin đồn lan rộng.
+조작하다|thao túng, dàn dựng|누군가 사진을 조작했습니다.|Ai đó đã chỉnh sửa giả bức ảnh.
+감시하다|giám sát|카메라가 길을 감시합니다.|Camera giám sát con đường.
+인식|nhận thức|환경에 대한 인식이 달라졌습니다.|Nhận thức về môi trường đã thay đổi.
+왜곡하다|bóp méo|그 기사는 사실을 왜곡했습니다.|Bài báo đó đã bóp méo sự thật.
+
+%62|6|Phần 2: Học thuật và nhân văn|Triết học, ngôn ngữ, y sinh, nghệ thuật, lịch sử tư tưởng|sky
+@ko606|Triết học và logic|Tồn tại, bản chất, mâu thuẫn|철
+본질|bản chất|문제의 본질을 봐야 합니다.|Phải nhìn vào bản chất của vấn đề.
+존재|sự tồn tại|그는 팀에서 중요한 존재입니다.|Anh ấy là một sự hiện diện quan trọng trong đội.
+모순|mâu thuẫn|그의 말에는 모순이 있습니다.|Trong lời anh ấy có mâu thuẫn.
+논리|lô gích|그 주장은 논리가 약합니다.|Luận điểm đó lô gích yếu.
+개념|khái niệm|이 개념은 이해하기 어렵습니다.|Khái niệm này khó hiểu.
+관점|quan điểm, góc nhìn|다른 관점에서 생각해 보세요.|Hãy thử nghĩ từ góc nhìn khác.
+전제|tiền đề|이 계획은 성공을 전제로 합니다.|Kế hoạch này lấy thành công làm tiền đề.
+근거|căn cứ|그 주장의 근거가 무엇입니까?|Căn cứ của luận điểm đó là gì?
+타당하다|hợp lý, xác đáng|그의 지적은 타당합니다.|Nhận xét của anh ấy xác đáng.
+보편적|phổ quát|사랑은 보편적인 감정입니다.|Tình yêu là cảm xúc phổ quát.
+상대적|tương đối|행복은 상대적인 것입니다.|Hạnh phúc là thứ tương đối.
+절대적|tuyệt đối|그 팀은 절대적으로 유리합니다.|Đội đó có lợi thế tuyệt đối.
+
+@ko607|Ngôn ngữ học|Ngữ nghĩa, phương ngữ, diễn ngôn|언
+언어|ngôn ngữ|세계에는 많은 언어가 있습니다.|Trên thế giới có nhiều ngôn ngữ.
+어휘|vốn từ|책을 읽으면 어휘가 늘어납니다.|Đọc sách thì vốn từ tăng lên.
+사투리|phương ngữ|부산 사투리는 이해하기 어렵습니다.|Phương ngữ Busan khó hiểu.
+표준어|tiếng chuẩn|뉴스에서는 표준어를 씁니다.|Trên bản tin người ta dùng tiếng chuẩn.
+속담|tục ngữ|한국 속담을 하나 배웠습니다.|Tôi đã học một câu tục ngữ Hàn Quốc.
+맥락|ngữ cảnh, mạch|맥락을 보면 뜻을 알 수 있습니다.|Nhìn vào ngữ cảnh thì có thể biết nghĩa.
+의사소통|giao tiếp|의사소통이 잘 되지 않습니다.|Việc giao tiếp không suôn sẻ.
+어원|từ nguyên|이 단어의 어원은 중국어입니다.|Từ nguyên của từ này là tiếng Trung.
+함축하다|hàm ý|이 시는 깊은 뜻을 함축하고 있습니다.|Bài thơ này hàm chứa ý nghĩa sâu xa.
+통역하다|phiên dịch|회의에서 영어를 통역했습니다.|Tôi đã phiên dịch tiếng Anh trong cuộc họp.
+요약하다|tóm tắt|이 글을 세 문장으로 요약하세요.|Hãy tóm tắt bài này trong ba câu.
+인용하다|trích dẫn|그는 책의 문장을 인용했습니다.|Anh ấy đã trích dẫn một câu trong sách.
+
+@ko608|Y sinh học|Miễn dịch, dịch bệnh, đạo đức y khoa|생
+면역|miễn dịch|잠이 부족하면 면역이 떨어집니다.|Thiếu ngủ thì miễn dịch giảm.
+전염병|bệnh truyền nhiễm|전염병이 전국으로 퍼졌습니다.|Bệnh truyền nhiễm đã lan ra cả nước.
+백신|vắc xin|아이에게 백신을 맞혔습니다.|Tôi đã cho con tiêm vắc xin.
+바이러스|vi rút|이 바이러스는 공기로 옮습니다.|Vi rút này lây qua không khí.
+감염되다|bị nhiễm|많은 사람이 감기에 감염되었습니다.|Nhiều người đã bị nhiễm cảm cúm.
+진단하다|chẩn đoán|의사가 병을 정확하게 진단했습니다.|Bác sĩ đã chẩn đoán bệnh chính xác.
+부작용|tác dụng phụ|이 약은 부작용이 거의 없습니다.|Thuốc này hầu như không có tác dụng phụ.
+장기|nội tạng; dài hạn|그는 장기를 기증했습니다.|Ông ấy đã hiến tạng.
+이식|cấy ghép|심장 이식 수술이 성공했습니다.|Ca phẫu thuật ghép tim đã thành công.
+만성|mãn tính|그는 만성 두통이 있습니다.|Anh ấy bị đau đầu mãn tính.
+수명|tuổi thọ|평균 수명이 점점 길어집니다.|Tuổi thọ trung bình ngày càng dài.
+노화|lão hóa|운동은 노화를 늦춥니다.|Tập thể dục làm chậm lão hóa.
+
+@ko609|Nghệ thuật và thẩm mỹ|Sáng tạo, phong cách, cảm hứng|미
+창작|sáng tác|그는 평생 창작 활동을 했습니다.|Ông ấy đã sáng tác suốt đời.
+영감|cảm hứng|여행에서 영감을 얻었습니다.|Tôi đã có cảm hứng từ chuyến đi.
+독창적|độc đáo, sáng tạo|그의 생각은 매우 독창적입니다.|Ý tưởng của anh ấy rất độc đáo.
+조화|sự hài hòa|이 건물은 자연과 조화를 이룹니다.|Tòa nhà này hài hòa với thiên nhiên.
+상징하다|tượng trưng|비둘기는 평화를 상징합니다.|Chim bồ câu tượng trưng cho hòa bình.
+걸작|kiệt tác|이 그림은 그 화가의 걸작입니다.|Bức tranh này là kiệt tác của họa sĩ đó.
+감상하다|thưởng thức|조용히 음악을 감상합니다.|Tôi lặng lẽ thưởng thức âm nhạc.
+양식|phong cách, kiểu thức|이 성당은 옛 건축 양식을 따랐습니다.|Nhà thờ này theo phong cách kiến trúc xưa.
+조각|điêu khắc; mảnh|공원에 큰 조각 작품이 있습니다.|Trong công viên có một tác phẩm điêu khắc lớn.
+건축|kiến trúc|그는 현대 건축을 공부합니다.|Anh ấy học kiến trúc hiện đại.
+전통문화|văn hóa truyền thống|전통문화를 지키는 일은 중요합니다.|Việc gìn giữ văn hóa truyền thống là quan trọng.
+계승하다|kế thừa|젊은 세대가 전통을 계승합니다.|Thế hệ trẻ kế thừa truyền thống.
+
+@ko610|Lịch sử tư tưởng|Cận đại, bản sắc, ký ức|사
+근대|cận đại|근대에 많은 변화가 있었습니다.|Thời cận đại đã có nhiều biến đổi.
+정체성|bản sắc|그는 자기 정체성을 찾고 있습니다.|Anh ấy đang tìm bản sắc của mình.
+민족|dân tộc|우리 민족은 오랜 역사가 있습니다.|Dân tộc chúng tôi có lịch sử lâu đời.
+유산|di sản|이 마을은 세계 문화 유산입니다.|Ngôi làng này là di sản văn hóa thế giới.
+교훈|bài học|역사에서 교훈을 얻어야 합니다.|Phải rút ra bài học từ lịch sử.
+계급|giai cấp, cấp bậc|옛날에는 계급이 엄격했습니다.|Ngày xưa giai cấp rất nghiêm ngặt.
+침략하다|xâm lược|그 나라는 이웃 나라를 침략했습니다.|Nước đó đã xâm lược nước láng giềng.
+저항하다|kháng cự|사람들은 끝까지 저항했습니다.|Mọi người đã kháng cự đến cùng.
+해방|giải phóng|해방 후에 많은 사람이 돌아왔습니다.|Sau giải phóng nhiều người đã trở về.
+분단|sự chia cắt|분단은 많은 가족을 갈라놓았습니다.|Sự chia cắt đã chia lìa nhiều gia đình.
+회고하다|hồi tưởng|그는 젊은 시절을 회고했습니다.|Ông ấy đã hồi tưởng thời trẻ.
+기념하다|kỷ niệm|결혼 10년을 기념했습니다.|Chúng tôi đã kỷ niệm 10 năm ngày cưới.
+
+%63|6|Phần 3: Diễn đạt tinh tế|Động từ, tính từ, phó từ nâng cao, thành ngữ, văn viết|grape
+@ko611|Động từ nâng cao|Gây ra, vượt quá, thúc đẩy|고
+초래하다|gây ra, dẫn đến|그 결정은 큰 문제를 초래했습니다.|Quyết định đó đã gây ra vấn đề lớn.
+야기하다|gây nên|작은 실수가 사고를 야기했습니다.|Một sai sót nhỏ đã gây nên tai nạn.
+촉진하다|thúc đẩy|운동은 소화를 촉진합니다.|Vận động thúc đẩy tiêu hóa.
+억제하다|kìm hãm|이 약은 기침을 억제합니다.|Thuốc này kìm cơn ho.
+초과하다|vượt quá|가방의 무게가 20킬로그램을 초과했습니다.|Trọng lượng túi đã vượt quá 20 ki-lô-gam.
+반영하다|phản ánh|이 영화는 사회 문제를 반영합니다.|Bộ phim này phản ánh vấn đề xã hội.
+간주하다|coi như, xem là|대답이 없으면 동의로 간주합니다.|Nếu không trả lời thì coi như đồng ý.
+모색하다|tìm kiếm (giải pháp)|새로운 해결 방법을 모색하고 있습니다.|Chúng tôi đang tìm kiếm cách giải quyết mới.
+직면하다|đối mặt|회사는 어려운 상황에 직면했습니다.|Công ty đã đối mặt với tình thế khó khăn.
+대처하다|ứng phó|사고에 빠르게 대처했습니다.|Chúng tôi đã ứng phó nhanh với sự cố.
+수용하다|tiếp nhận, chấp nhận|회사는 직원들의 요구를 수용했습니다.|Công ty đã chấp nhận yêu cầu của nhân viên.
+지향하다|hướng tới|우리는 평화로운 사회를 지향합니다.|Chúng tôi hướng tới một xã hội hòa bình.
+
+@ko612|Tính từ nâng cao|Sắc thái, phẩm chất|형
+현저하다|rõ rệt, đáng kể|두 제품의 차이가 현저합니다.|Khác biệt giữa hai sản phẩm rất rõ rệt.
+미미하다|nhỏ nhoi, không đáng kể|이번 변화의 영향은 미미합니다.|Ảnh hưởng của thay đổi lần này không đáng kể.
+막대하다|to lớn, khổng lồ|태풍으로 막대한 피해가 났습니다.|Bão đã gây thiệt hại to lớn.
+불가피하다|không thể tránh khỏi|가격 인상은 불가피합니다.|Việc tăng giá là không thể tránh khỏi.
+유연하다|linh hoạt, mềm dẻo|그는 생각이 유연합니다.|Anh ấy có suy nghĩ linh hoạt.
+엄격하다|nghiêm khắc|우리 아버지는 매우 엄격하십니다.|Bố tôi rất nghiêm khắc.
+신중하다|thận trọng|중요한 결정은 신중하게 하세요.|Quyết định quan trọng thì hãy làm thận trọng.
+공정하다|công bằng|심판은 공정해야 합니다.|Trọng tài phải công bằng.
+모호하다|mơ hồ, không rõ|그의 대답은 모호했습니다.|Câu trả lời của anh ấy mơ hồ.
+탁월하다|xuất chúng|그는 탁월한 지도자입니다.|Ông ấy là nhà lãnh đạo xuất chúng.
+취약하다|yếu, dễ tổn thương|노인은 더위에 취약합니다.|Người già dễ bị tổn thương bởi nắng nóng.
+절실하다|bức thiết|지금은 도움이 절실합니다.|Bây giờ sự giúp đỡ là bức thiết.
+
+@ko613|Phó từ nâng cao|Sắc thái lập luận|부
+과연|quả thật, liệu có|과연 그 소문은 사실이었습니다.|Quả thật tin đồn đó là sự thật.
+도저히|hoàn toàn không thể|이 문제는 도저히 풀 수 없습니다.|Bài này tôi hoàn toàn không thể giải được.
+굳이|nhất thiết, cố|굳이 오늘 갈 필요가 없습니다.|Không nhất thiết phải đi hôm nay.
+하필|sao lại đúng lúc|하필 오늘 비가 옵니다.|Sao lại đúng hôm nay trời mưa.
+설마|chẳng lẽ|설마 그 사람이 범인입니까?|Chẳng lẽ người đó là thủ phạm?
+어차피|đằng nào cũng|어차피 늦었으니까 천천히 갑시다.|Đằng nào cũng muộn rồi nên ta đi thong thả thôi.
+더욱|càng thêm|올해는 날씨가 더욱 덥습니다.|Năm nay thời tiết càng nóng hơn.
+이미|đã, từ trước rồi|기차는 이미 떠났습니다.|Tàu đã rời đi rồi.
+마치|như thể|그는 마치 가수처럼 노래합니다.|Anh ấy hát như thể ca sĩ.
+끊임없이|không ngừng|그는 끊임없이 노력했습니다.|Anh ấy đã nỗ lực không ngừng.
+새삼|một lần nữa (chợt thấy)|부모님의 사랑을 새삼 느꼈습니다.|Tôi chợt cảm nhận lại tình yêu của bố mẹ.
+무조건|vô điều kiện|저는 무조건 찬성합니다.|Tôi tán thành vô điều kiện.
+
+@ko614|Thành ngữ Hán Hàn|Bốn chữ thường gặp|사
+일석이조|một công đôi việc|걸어서 다니면 일석이조입니다.|Đi bộ thì được một công đôi việc.
+작심삼일|quyết tâm chỉ được ba ngày|운동 계획이 작심삼일로 끝났습니다.|Kế hoạch tập thể dục đã kết thúc sau ba ngày quyết tâm.
+동문서답|hỏi một đằng trả lời một nẻo|그는 질문에 동문서답을 했습니다.|Anh ấy hỏi một đằng trả lời một nẻo.
+이심전심|tâm đầu ý hợp|우리는 이심전심으로 통합니다.|Chúng tôi hiểu nhau không cần nói.
+대기만성|tài lớn thành muộn|그 배우는 대기만성의 좋은 예입니다.|Diễn viên đó là ví dụ đẹp cho việc tài lớn thành muộn.
+유비무환|có chuẩn bị thì không lo|유비무환이니까 우산을 가져가세요.|Có chuẩn bị thì không lo, nên hãy mang ô theo.
+우유부단|do dự thiếu quyết đoán|그는 성격이 우유부단합니다.|Anh ấy có tính do dự thiếu quyết đoán.
+자업자득|tự làm tự chịu|공부를 안 했으니 자업자득입니다.|Không học nên là tự làm tự chịu.
+천차만별|muôn hình muôn vẻ|사람들의 생각은 천차만별입니다.|Suy nghĩ của con người muôn hình muôn vẻ.
+시행착오|thử và sai|많은 시행착오 끝에 성공했습니다.|Sau nhiều lần thử và sai, tôi đã thành công.
+전화위복|trong rủi có may|그 실패가 전화위복이 되었습니다.|Thất bại đó đã thành trong rủi có may.
+과유불급|quá mức cũng như chưa đủ|운동도 과유불급입니다.|Tập thể dục cũng vậy, quá mức thì cũng không tốt.
+
+@ko615|Văn viết trang trọng|Từ dùng trong báo cáo, luận văn|서
+고찰하다|khảo sát, xem xét kỹ|이 글에서는 그 원인을 고찰합니다.|Bài viết này xem xét kỹ nguyên nhân đó.
+제시하다|đưa ra, trình bày|교수가 새로운 방법을 제시했습니다.|Giáo sư đã đưa ra phương pháp mới.
+언급하다|đề cập|그는 그 문제를 언급하지 않았습니다.|Ông ấy đã không đề cập đến vấn đề đó.
+시사하다|gợi ý, hàm ý|이 결과는 중요한 점을 시사합니다.|Kết quả này gợi ra một điểm quan trọng.
+입증하다|chứng thực|실험이 그 이론을 입증했습니다.|Thí nghiệm đã chứng thực lý thuyết đó.
+도출하다|rút ra|자료에서 결론을 도출했습니다.|Chúng tôi đã rút ra kết luận từ dữ liệu.
+규명하다|làm sáng tỏ|사고의 원인을 규명해야 합니다.|Phải làm sáng tỏ nguyên nhân tai nạn.
+기여하다|đóng góp|그는 과학 발전에 기여했습니다.|Ông ấy đã đóng góp cho sự phát triển của khoa học.
+비롯하다|bắt nguồn|이 문제는 오해에서 비롯했습니다.|Vấn đề này bắt nguồn từ hiểu lầm.
+한계|giới hạn|이 연구에는 한계가 있습니다.|Nghiên cứu này có giới hạn.
+측면|khía cạnh|경제적 측면도 생각해야 합니다.|Cũng phải nghĩ đến khía cạnh kinh tế.
+양상|diện mạo, tình trạng|경쟁의 양상이 달라졌습니다.|Diện mạo của cuộc cạnh tranh đã thay đổi.

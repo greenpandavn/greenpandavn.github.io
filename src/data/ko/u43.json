@@ -1,0 +1,77 @@
+{
+ "units": [
+  {"unit":43,"level":4,"title":"Phần 3: Diễn đạt chính xác","desc":"Động từ, tính từ trừu tượng, xã hội hiện đại, địa lý","color":"grape","course":"ko"}
+ ],
+ "lessons": [
+  {"id":"ko411","title":"Động từ trừu tượng","desc":"Thay đổi, ảnh hưởng, giải quyết","icon":"변","unit":43,"course":"ko","order":560,"words":[
+   {"id":"ko411-변하다","hanzi":"변하다","pinyin":"byeonhada","vi":"thay đổi, biến đổi","ex":{"tokens":["고향이","많이","변했습니다","."],"py":["gohyangi","mani","byeonhaetseumnida","."],"vi":"Quê tôi đã thay đổi nhiều.","alts":[]}},
+   {"id":"ko411-해결하다","hanzi":"해결하다","pinyin":"haegyeolhada","vi":"giải quyết","ex":{"tokens":["이","문제를","빨리","해결해야","합니다","."],"py":["i","munjereul","ppalli","haegyeolhaeya","hamnida","."],"vi":"Phải giải quyết vấn đề này nhanh.","alts":[]}},
+   {"id":"ko411-영향","hanzi":"영향","pinyin":"yeonghyang","vi":"ảnh hưởng","ex":{"tokens":["날씨가","기분에","영향을","줍니다","."],"py":["nalssiga","gibune","yeonghyangeul","jumnida","."],"vi":"Thời tiết ảnh hưởng đến tâm trạng.","alts":[]}},
+   {"id":"ko411-선택하다","hanzi":"선택하다","pinyin":"seontaekada","vi":"lựa chọn","ex":{"tokens":["둘","중에서","하나를","선택하세요","."],"py":["dul","jungeseo","hanareul","seontaekaseyo","."],"vi":"Hãy chọn một trong hai.","alts":[]}},
+   {"id":"ko411-비교하다","hanzi":"비교하다","pinyin":"bigyohada","vi":"so sánh","ex":{"tokens":["두","제품의","가격을","비교했습니다","."],"py":["du","jepumui","gagyeogeul","bigyohaetseumnida","."],"vi":"Tôi đã so sánh giá của hai sản phẩm.","alts":[]}},
+   {"id":"ko411-확인하다","hanzi":"확인하다","pinyin":"hwaginhada","vi":"xác nhận, kiểm tra","ex":{"tokens":["출발","시간을","다시","확인했습니다","."],"py":["chulbal","siganeul","dasi","hwaginhaetseumnida","."],"vi":"Tôi đã kiểm tra lại giờ khởi hành.","alts":[]}},
+   {"id":"ko411-참여하다","hanzi":"참여하다","pinyin":"chamyeohada","vi":"tham gia","ex":{"tokens":["많은","학생이","행사에","참여했습니다","."],"py":["maneun","haksaengi","haengsae","chamyeohaetseumnida","."],"vi":"Nhiều học sinh đã tham gia sự kiện.","alts":[]}},
+   {"id":"ko411-제공하다","hanzi":"제공하다","pinyin":"jegonghada","vi":"cung cấp","ex":{"tokens":["호텔에서","아침","식사를","제공합니다","."],"py":["hotereseo","achim","siksareul","jegonghamnida","."],"vi":"Khách sạn cung cấp bữa sáng.","alts":[]}},
+   {"id":"ko411-유지하다","hanzi":"유지하다","pinyin":"yujihada","vi":"duy trì","ex":{"tokens":["건강을","유지하려고","운동합니다","."],"py":["geongangeul","yujiharyeogo","undonghamnida","."],"vi":"Tôi tập thể dục để duy trì sức khỏe.","alts":[]}},
+   {"id":"ko411-증가하다","hanzi":"증가하다","pinyin":"jeunggahada","vi":"tăng lên","ex":{"tokens":["외국인","관광객이","증가했습니다","."],"py":["oegugin","gwangwanggaegi","jeunggahaetseumnida","."],"vi":"Khách du lịch nước ngoài đã tăng.","alts":[]}},
+   {"id":"ko411-감소하다","hanzi":"감소하다","pinyin":"gamsohada","vi":"giảm đi","ex":{"tokens":["이","마을의","인구가","감소했습니다","."],"py":["i","maeurui","inguga","gamsohaetseumnida","."],"vi":"Dân số của ngôi làng này đã giảm.","alts":[]}},
+   {"id":"ko411-이루다","hanzi":"이루다","pinyin":"iruda","vi":"đạt được, thực hiện","ex":{"tokens":["드디어","꿈을","이루었습니다","."],"py":["deudieo","kkumeul","irueotseumnida","."],"vi":"Cuối cùng tôi đã thực hiện được ước mơ.","alts":[]}}
+  ]},
+  {"id":"ko412","title":"Tính từ trừu tượng","desc":"Đánh giá, mức độ, tính chất","icon":"중","unit":43,"course":"ko","order":570,"words":[
+   {"id":"ko412-중요하다","hanzi":"중요하다","pinyin":"jungyohada","vi":"quan trọng","ex":{"tokens":["건강이","가장","중요합니다","."],"py":["geongangi","gajang","jungyohamnida","."],"vi":"Sức khỏe là quan trọng nhất.","alts":[]}},
+   {"id":"ko412-심각하다","hanzi":"심각하다","pinyin":"simgakada","vi":"nghiêm trọng","ex":{"tokens":["이","문제는","매우","심각합니다","."],"py":["i","munjeneun","maeu","simgakamnida","."],"vi":"Vấn đề này rất nghiêm trọng.","alts":[]}},
+   {"id":"ko412-복잡하다","hanzi":"복잡하다","pinyin":"bokjapada","vi":"phức tạp, đông đúc","ex":{"tokens":["출근","시간에는","지하철이","복잡합니다","."],"py":["chulgeun","siganeneun","jihacheori","bokjapamnida","."],"vi":"Giờ đi làm tàu điện ngầm rất đông.","alts":[]}},
+   {"id":"ko412-단순하다","hanzi":"단순하다","pinyin":"dansunhada","vi":"đơn giản","ex":{"tokens":["이","게임은","규칙이","단순합니다","."],"py":["i","geimeun","gyuchigi","dansunhamnida","."],"vi":"Trò chơi này có luật đơn giản.","alts":[]}},
+   {"id":"ko412-다양하다","hanzi":"다양하다","pinyin":"dayanghada","vi":"đa dạng","ex":{"tokens":["이","식당은","메뉴가","다양합니다","."],"py":["i","sikdangeun","menyuga","dayanghamnida","."],"vi":"Quán này thực đơn đa dạng.","alts":[]}},
+   {"id":"ko412-충분하다","hanzi":"충분하다","pinyin":"chungbunhada","vi":"đầy đủ","ex":{"tokens":["시간이","아직","충분합니다","."],"py":["sigani","ajik","chungbunhamnida","."],"vi":"Vẫn còn đủ thời gian.","alts":[]}},
+   {"id":"ko412-부족하다","hanzi":"부족하다","pinyin":"bujokada","vi":"thiếu","ex":{"tokens":["이번","달은","생활비가","부족합니다","."],"py":["ibeon","dareun","saenghwalbiga","bujokamnida","."],"vi":"Tháng này thiếu tiền sinh hoạt.","alts":[]}},
+   {"id":"ko412-정확하다","hanzi":"정확하다","pinyin":"jeonghwakada","vi":"chính xác","ex":{"tokens":["이","시계는","아주","정확합니다","."],"py":["i","sigyeneun","aju","jeonghwakamnida","."],"vi":"Chiếc đồng hồ này rất chính xác.","alts":[]}},
+   {"id":"ko412-분명하다","hanzi":"분명하다","pinyin":"bunmyeonghada","vi":"rõ ràng","ex":{"tokens":["그의","대답은","분명했습니다","."],"py":["geuui","daedabeun","bunmyeonghaetseumnida","."],"vi":"Câu trả lời của anh ấy rõ ràng.","alts":[]}},
+   {"id":"ko412-특별하다","hanzi":"특별하다","pinyin":"teukbyeolhada","vi":"đặc biệt","ex":{"tokens":["오늘은","특별한","날입니다","."],"py":["oneureun","teukbyeolhan","narimnida","."],"vi":"Hôm nay là một ngày đặc biệt.","alts":[]}},
+   {"id":"ko412-평범하다","hanzi":"평범하다","pinyin":"pyeongbeomhada","vi":"bình thường","ex":{"tokens":["저는","평범한","회사원입니다","."],"py":["jeoneun","pyeongbeomhan","hoesawonimnida","."],"vi":"Tôi là một nhân viên công ty bình thường.","alts":[]}},
+   {"id":"ko412-위험하다","hanzi":"위험하다","pinyin":"wiheomhada","vi":"nguy hiểm","ex":{"tokens":["밤에","혼자","다니면","위험합니다","."],"py":["bame","honja","danimyeon","wiheomhamnida","."],"vi":"Đi một mình ban đêm thì nguy hiểm.","alts":[]}}
+  ]},
+  {"id":"ko413","title":"Phó từ mức độ và thái độ","desc":"Nhấn mạnh, dần dần, nhất định","icon":"꼭","unit":43,"course":"ko","order":580,"words":[
+   {"id":"ko413-반드시","hanzi":"반드시","pinyin":"bandeusi","vi":"nhất định, chắc chắn","ex":{"tokens":["내일까지","반드시","끝내겠습니다","."],"py":["naeilkkaji","bandeusi","kkeunnaegetseumnida","."],"vi":"Tôi nhất định sẽ làm xong trước ngày mai.","alts":[]}},
+   {"id":"ko413-점점","hanzi":"점점","pinyin":"jeomjeom","vi":"dần dần","ex":{"tokens":["날씨가","점점","추워집니다","."],"py":["nalssiga","jeomjeom","chuwojimnida","."],"vi":"Thời tiết dần dần lạnh hơn.","alts":[]}},
+   {"id":"ko413-여전히","hanzi":"여전히","pinyin":"yeojeonhi","vi":"vẫn như cũ","ex":{"tokens":["그는","여전히","그","집에","삽니다","."],"py":["geuneun","yeojeonhi","geu","jibe","samnida","."],"vi":"Anh ấy vẫn sống ở ngôi nhà đó.","alts":[]}},
+   {"id":"ko413-대부분","hanzi":"대부분","pinyin":"daebubun","vi":"phần lớn","ex":{"tokens":["학생들은","대부분","기숙사에","삽니다","."],"py":["haksaengdeureun","daebubun","gisuksae","samnida","."],"vi":"Phần lớn sinh viên sống ở ký túc xá.","alts":[]}},
+   {"id":"ko413-우연히","hanzi":"우연히","pinyin":"uyeonhi","vi":"tình cờ","ex":{"tokens":["길에서","우연히","선생님을","만났습니다","."],"py":["gireseo","uyeonhi","seonsaengnimeul","mannatseumnida","."],"vi":"Tôi tình cờ gặp thầy giáo trên đường.","alts":[]}},
+   {"id":"ko413-일부러","hanzi":"일부러","pinyin":"ilbureo","vi":"cố ý","ex":{"tokens":["일부러","그런","것이","아닙니다","."],"py":["ilbureo","geureon","geosi","animnida","."],"vi":"Không phải tôi cố ý làm thế.","alts":[]}},
+   {"id":"ko413-당연히","hanzi":"당연히","pinyin":"dangyeonhi","vi":"đương nhiên","ex":{"tokens":["친구니까","당연히","도와야","합니다","."],"py":["chingunikka","dangyeonhi","dowaya","hamnida","."],"vi":"Là bạn bè nên đương nhiên phải giúp.","alts":[]}},
+   {"id":"ko413-도대체","hanzi":"도대체","pinyin":"dodaeche","vi":"rốt cuộc","ex":{"tokens":["도대체","무슨","일이","있었습니까","?"],"py":["dodaeche","museun","iri","isseotseumnikka","?"],"vi":"Rốt cuộc đã có chuyện gì vậy?","alts":[]}},
+   {"id":"ko413-마침내","hanzi":"마침내","pinyin":"machimnae","vi":"rốt cuộc, sau cùng","ex":{"tokens":["마침내","산","위에","도착했습니다","."],"py":["machimnae","san","wie","dochakaetseumnida","."],"vi":"Sau cùng chúng tôi đã lên đến đỉnh núi.","alts":[]}},
+   {"id":"ko413-게다가","hanzi":"게다가","pinyin":"gedaga","vi":"hơn nữa","ex":{"tokens":["이","방은","넓습니다",",","게다가","값도","쌉니다","."],"py":["i","bangeun","neolseumnida",",","gedaga","gapdo","ssamnida","."],"vi":"Phòng này rộng, hơn nữa giá cũng rẻ.","alts":[]}},
+   {"id":"ko413-따라서","hanzi":"따라서","pinyin":"ttaraseo","vi":"do đó","ex":{"tokens":["비가","옵니다",",","따라서","경기를","취소합니다","."],"py":["biga","omnida",",","ttaraseo","gyeonggireul","chwisohamnida","."],"vi":"Trời mưa, do đó trận đấu bị hủy.","alts":[]}},
+   {"id":"ko413-그대로","hanzi":"그대로","pinyin":"geudaero","vi":"y nguyên","ex":{"tokens":["책을","그대로","책상","위에","두세요","."],"py":["chaegeul","geudaero","chaeksang","wie","duseyo","."],"vi":"Hãy cứ để nguyên cuốn sách trên bàn.","alts":[]}}
+  ]},
+  {"id":"ko414","title":"Xã hội hiện đại","desc":"Dân số, thế hệ, việc làm","icon":"현","unit":43,"course":"ko","order":590,"words":[
+   {"id":"ko414-인구","hanzi":"인구","pinyin":"ingu","vi":"dân số","ex":{"tokens":["이","도시의","인구는","백만","명입니다","."],"py":["i","dosiui","inguneun","baengman","myeongimnida","."],"vi":"Dân số thành phố này là một triệu người.","alts":[]}},
+   {"id":"ko414-세대","hanzi":"세대","pinyin":"sedae","vi":"thế hệ","ex":{"tokens":["젊은","세대는","생각이","다릅니다","."],"py":["jeolmeun","sedaeneun","saenggagi","dareumnida","."],"vi":"Thế hệ trẻ suy nghĩ khác.","alts":[]}},
+   {"id":"ko414-노인","hanzi":"노인","pinyin":"noin","vi":"người già","ex":{"tokens":["노인을","위한","자리가","있습니다","."],"py":["noineul","wihan","jariga","itseumnida","."],"vi":"Có chỗ ngồi dành cho người già.","alts":[]}},
+   {"id":"ko414-청소년","hanzi":"청소년","pinyin":"cheongsonyeon","vi":"thanh thiếu niên","ex":{"tokens":["청소년은","여기에","들어갈","수","없습니다","."],"py":["cheongsonyeoneun","yeogie","deureogal","su","eopseumnida","."],"vi":"Thanh thiếu niên không được vào đây.","alts":[]}},
+   {"id":"ko414-출산","hanzi":"출산","pinyin":"chulsan","vi":"sinh con","ex":{"tokens":["요즘","출산이","줄고","있습니다","."],"py":["yojeum","chulsani","julgo","itseumnida","."],"vi":"Dạo này việc sinh con đang giảm.","alts":[]}},
+   {"id":"ko414-육아","hanzi":"육아","pinyin":"yuga","vi":"nuôi dạy con","ex":{"tokens":["부부가","함께","육아를","합니다","."],"py":["bubuga","hamkke","yugareul","hamnida","."],"vi":"Hai vợ chồng cùng nuôi dạy con.","alts":[]}},
+   {"id":"ko414-실업","hanzi":"실업","pinyin":"sireop","vi":"thất nghiệp","ex":{"tokens":["청년","실업이","큰","문제입니다","."],"py":["cheongnyeon","sireobi","keun","munjeimnida","."],"vi":"Thất nghiệp ở thanh niên là vấn đề lớn.","alts":[]}},
+   {"id":"ko414-차별","hanzi":"차별","pinyin":"chabyeol","vi":"phân biệt đối xử","ex":{"tokens":["어떤","차별도","있으면","안","됩니다","."],"py":["eotteon","chabyeoldo","isseumyeon","an","doemnida","."],"vi":"Không được có bất kỳ sự phân biệt đối xử nào.","alts":[]}},
+   {"id":"ko414-봉사하다","hanzi":"봉사하다","pinyin":"bongsahada","vi":"làm tình nguyện","ex":{"tokens":["주말마다","병원에서","봉사합니다","."],"py":["jumalmada","byeongwoneseo","bongsahamnida","."],"vi":"Cuối tuần nào tôi cũng làm tình nguyện ở bệnh viện.","alts":[]}},
+   {"id":"ko414-기부하다","hanzi":"기부하다","pinyin":"gibuhada","vi":"quyên góp","ex":{"tokens":["그는","학교에","많은","돈을","기부했습니다","."],"py":["geuneun","hakgyoe","maneun","doneul","gibuhaetseumnida","."],"vi":"Ông ấy đã quyên góp nhiều tiền cho trường.","alts":[]}},
+   {"id":"ko414-복지","hanzi":"복지","pinyin":"bokji","vi":"phúc lợi","ex":{"tokens":["이","회사는","직원","복지가","좋습니다","."],"py":["i","hoesaneun","jigwon","bokjiga","joseumnida","."],"vi":"Công ty này có phúc lợi tốt cho nhân viên.","alts":[]}},
+   {"id":"ko414-다문화","hanzi":"다문화","pinyin":"damunhwa","vi":"đa văn hóa","ex":{"tokens":["한국에도","다문화","가정이","많습니다","."],"py":["hangugedo","damunhwa","gajeongi","manseumnida","."],"vi":"Ở Hàn Quốc cũng có nhiều gia đình đa văn hóa.","alts":[]}}
+  ]},
+  {"id":"ko415","title":"Địa lý và thiên nhiên","desc":"Địa hình, tài nguyên, nông thôn","icon":"땅","unit":43,"course":"ko","order":600,"words":[
+   {"id":"ko415-지역","hanzi":"지역","pinyin":"jiyeok","vi":"khu vực","ex":{"tokens":["이","지역은","사과로","유명합니다","."],"py":["i","jiyeogeun","sagwaro","yumyeonghamnida","."],"vi":"Khu vực này nổi tiếng về táo.","alts":[]}},
+   {"id":"ko415-섬","hanzi":"섬","pinyin":"seom","vi":"đảo","ex":{"tokens":["제주도는","아름다운","섬입니다","."],"py":["jejudoneun","areumdaun","seomimnida","."],"vi":"Jeju là một hòn đảo đẹp.","alts":[]}},
+   {"id":"ko415-숲","hanzi":"숲","pinyin":"sup","vi":"rừng","ex":{"tokens":["숲에서","새","소리가","들립니다","."],"py":["supeseo","sae","soriga","deullimnida","."],"vi":"Trong rừng nghe thấy tiếng chim.","alts":[]}},
+   {"id":"ko415-호수","hanzi":"호수","pinyin":"hosu","vi":"hồ","ex":{"tokens":["호수","옆에서","산책했습니다","."],"py":["hosu","yeopeseo","sanchaekaetseumnida","."],"vi":"Tôi đã đi dạo bên hồ.","alts":[]}},
+   {"id":"ko415-사막","hanzi":"사막","pinyin":"samak","vi":"sa mạc","ex":{"tokens":["사막에는","비가","거의","오지","않습니다","."],"py":["samageneun","biga","geoui","oji","anseumnida","."],"vi":"Ở sa mạc hầu như không mưa.","alts":[]}},
+   {"id":"ko415-자원","hanzi":"자원","pinyin":"jawon","vi":"tài nguyên","ex":{"tokens":["이","나라는","자원이","풍부합니다","."],"py":["i","naraneun","jawoni","pungbuhamnida","."],"vi":"Đất nước này giàu tài nguyên.","alts":[]}},
+   {"id":"ko415-농사","hanzi":"농사","pinyin":"nongsa","vi":"việc đồng áng","ex":{"tokens":["할아버지는","시골에서","농사를","짓습니다","."],"py":["harabeojineun","sigoreseo","nongsareul","jitseumnida","."],"vi":"Ông tôi làm ruộng ở quê.","alts":[]}},
+   {"id":"ko415-농촌","hanzi":"농촌","pinyin":"nongchon","vi":"làng quê làm nông","ex":{"tokens":["농촌에는","젊은","사람이","적습니다","."],"py":["nongchoneneun","jeolmeun","sarami","jeokseumnida","."],"vi":"Ở nông thôn ít người trẻ.","alts":[]}},
+   {"id":"ko415-해외","hanzi":"해외","pinyin":"haeoe","vi":"nước ngoài, hải ngoại","ex":{"tokens":["올해","처음","해외에","나갑니다","."],"py":["olhae","cheoeum","haeoee","nagamnida","."],"vi":"Năm nay lần đầu tôi ra nước ngoài.","alts":[]}},
+   {"id":"ko415-국내","hanzi":"국내","pinyin":"gungnae","vi":"trong nước","ex":{"tokens":["이번","휴가는","국내에서","보냅니다","."],"py":["ibeon","hyuganeun","gungnaeeseo","bonaemnida","."],"vi":"Kỳ nghỉ này tôi ở trong nước.","alts":[]}},
+   {"id":"ko415-수도","hanzi":"수도","pinyin":"sudo","vi":"thủ đô","ex":{"tokens":["한국의","수도는","서울입니다","."],"py":["hangugui","sudoneun","seourimnida","."],"vi":"Thủ đô của Hàn Quốc là Seoul.","alts":[]}},
+   {"id":"ko415-국경","hanzi":"국경","pinyin":"gukgyeong","vi":"biên giới","ex":{"tokens":["두","나라는","국경이","붙어","있습니다","."],"py":["du","naraneun","gukgyeongi","buteo","itseumnida","."],"vi":"Hai nước có chung biên giới.","alts":[]}}
+  ]}
+ ]
+}

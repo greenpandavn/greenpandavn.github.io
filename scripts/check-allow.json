@@ -1,0 +1,35 @@
+{
+ "homophones": {
+  "ko": [],
+  "ja": [
+   "風 = 風邪",
+   "優しい = 易しい"
+  ]
+ },
+ "synonyms": {
+  "ko": [],
+  "ja": []
+ },
+ "example": {
+  "ko": [],
+  "ja": [],
+  "en": []
+ },
+ "en": [
+  "May = may",
+  "log in = login",
+  "work out = workout",
+  "hand over = handover",
+  "back up = backup",
+  "lay off = layoff",
+  "good = goods",
+  "your = yours",
+  "minute = minutes",
+  "new = news",
+  "right = rights",
+  "short = shorts",
+  "beside = besides",
+  "tight = tights",
+  "custom = customs"
+ ]
+}

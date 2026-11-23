@@ -1,0 +1,77 @@
+{
+ "units": [
+  {"unit":61,"level":6,"title":"Phần 1: Chính luận và kinh tế","desc":"Thể chế, tài chính, quản trị, pháp lý, truyền thông","color":"leaf","course":"ko"}
+ ],
+ "lessons": [
+  {"id":"ko601","title":"Thể chế chính trị","desc":"Dân chủ, quyền lực, cải cách","icon":"권","unit":61,"course":"ko","order":760,"words":[
+   {"id":"ko601-민주주의","hanzi":"민주주의","pinyin":"minjujuui","vi":"chủ nghĩa dân chủ","ex":{"tokens":["민주주의는","국민의","참여가","필요합니다","."],"py":["minjujuuineun","gungminui","chamyeoga","piryohamnida","."],"vi":"Dân chủ cần sự tham gia của người dân.","alts":[]}},
+   {"id":"ko601-권력","hanzi":"권력","pinyin":"gwollyeok","vi":"quyền lực","ex":{"tokens":["권력은","국민에게서","나옵니다","."],"py":["gwollyeogeun","gungminegeseo","naomnida","."],"vi":"Quyền lực xuất phát từ nhân dân.","alts":[]}},
+   {"id":"ko601-헌법","hanzi":"헌법","pinyin":"heonbeop","vi":"hiến pháp","ex":{"tokens":["헌법은","국민의","자유를","보장합니다","."],"py":["heonbeobeun","gungminui","jayureul","bojanghamnida","."],"vi":"Hiến pháp bảo đảm tự do của người dân.","alts":[]}},
+   {"id":"ko601-국회","hanzi":"국회","pinyin":"gukoe","vi":"quốc hội","ex":{"tokens":["국회에서","새","법이","통과되었습니다","."],"py":["gukoeeseo","sae","beobi","tonggwadoeeotseumnida","."],"vi":"Luật mới đã được thông qua ở quốc hội.","alts":[]}},
+   {"id":"ko601-개혁","hanzi":"개혁","pinyin":"gaehyeok","vi":"cải cách","ex":{"tokens":["교육","개혁이","필요합니다","."],"py":["gyoyuk","gaehyeogi","piryohamnida","."],"vi":"Cần cải cách giáo dục.","alts":[]}},
+   {"id":"ko601-부패","hanzi":"부패","pinyin":"bupae","vi":"tham nhũng; thối rữa","ex":{"tokens":["정치인의","부패가","드러났습니다","."],"py":["jeongchiinui","bupaega","deureonatseumnida","."],"vi":"Sự tham nhũng của chính trị gia đã bị phơi bày.","alts":[]}},
+   {"id":"ko601-보수","hanzi":"보수","pinyin":"bosu","vi":"bảo thủ; thù lao","ex":{"tokens":["그","지역은","보수","정당이","강합니다","."],"py":["geu","jiyeogeun","bosu","jeongdangi","ganghamnida","."],"vi":"Ở khu vực đó đảng bảo thủ mạnh.","alts":[]}},
+   {"id":"ko601-진보","hanzi":"진보","pinyin":"jinbo","vi":"tiến bộ, cấp tiến","ex":{"tokens":["진보","정당이","새","정책을","제안했습니다","."],"py":["jinbo","jeongdangi","sae","jeongchaegeul","jeanhaetseumnida","."],"vi":"Đảng cấp tiến đã đề xuất chính sách mới.","alts":[]}},
+   {"id":"ko601-이념","hanzi":"이념","pinyin":"inyeom","vi":"hệ tư tưởng","ex":{"tokens":["두","정당은","이념이","다릅니다","."],"py":["du","jeongdangeun","inyeomi","dareumnida","."],"vi":"Hai đảng có hệ tư tưởng khác nhau.","alts":[]}},
+   {"id":"ko601-여당","hanzi":"여당","pinyin":"yeodang","vi":"đảng cầm quyền","ex":{"tokens":["여당이","선거에서","이겼습니다","."],"py":["yeodangi","seongeoeseo","igyeotseumnida","."],"vi":"Đảng cầm quyền đã thắng cử.","alts":[]}},
+   {"id":"ko601-야당","hanzi":"야당","pinyin":"yadang","vi":"đảng đối lập","ex":{"tokens":["야당이","그","법안에","반대했습니다","."],"py":["yadangi","geu","beobane","bandaehaetseumnida","."],"vi":"Đảng đối lập đã phản đối dự luật đó.","alts":[]}},
+   {"id":"ko601-보장하다","hanzi":"보장하다","pinyin":"bojanghada","vi":"bảo đảm","ex":{"tokens":["이","제품은","품질을","보장합니다","."],"py":["i","jepumeun","pumjireul","bojanghamnida","."],"vi":"Sản phẩm này bảo đảm chất lượng.","alts":[]}}
+  ]},
+  {"id":"ko602","title":"Tài chính và thị trường","desc":"Lạm phát, lãi suất, độc quyền","icon":"재","unit":61,"course":"ko","order":770,"words":[
+   {"id":"ko602-물가상승","hanzi":"물가상승","pinyin":"mulgasangseung","vi":"lạm phát giá cả","ex":{"tokens":["물가상승","때문에","생활이","어렵습니다","."],"py":["mulgasangseung","ttaemune","saenghwari","eoryeopseumnida","."],"vi":"Vì giá cả leo thang nên cuộc sống khó khăn.","alts":[]}},
+   {"id":"ko602-금리","hanzi":"금리","pinyin":"geumni","vi":"lãi suất","ex":{"tokens":["중앙은행이","금리를","올렸습니다","."],"py":["jungangeunhaengi","geumnireul","ollyeotseumnida","."],"vi":"Ngân hàng trung ương đã tăng lãi suất.","alts":[]}},
+   {"id":"ko602-부동산","hanzi":"부동산","pinyin":"budongsan","vi":"bất động sản","ex":{"tokens":["서울의","부동산","가격이","높습니다","."],"py":["seourui","budongsan","gagyeogi","nopseumnida","."],"vi":"Giá bất động sản ở Seoul cao.","alts":[]}},
+   {"id":"ko602-독점","hanzi":"독점","pinyin":"dokjeom","vi":"độc quyền","ex":{"tokens":["한","회사가","시장을","독점하고","있습니다","."],"py":["han","hoesaga","sijangeul","dokjeomhago","itseumnida","."],"vi":"Một công ty đang độc quyền thị trường.","alts":[]}},
+   {"id":"ko602-규제","hanzi":"규제","pinyin":"gyuje","vi":"quy chế, sự hạn chế","ex":{"tokens":["정부가","부동산","규제를","강화했습니다","."],"py":["jeongbuga","budongsan","gyujereul","ganghwahaetseumnida","."],"vi":"Chính phủ đã siết chặt quy định về bất động sản.","alts":[]}},
+   {"id":"ko602-파산하다","hanzi":"파산하다","pinyin":"pasanhada","vi":"phá sản","ex":{"tokens":["그","회사는","작년에","파산했습니다","."],"py":["geu","hoesaneun","jangnyeone","pasanhaetseumnida","."],"vi":"Công ty đó đã phá sản năm ngoái.","alts":[]}},
+   {"id":"ko602-부채","hanzi":"부채","pinyin":"buchae","vi":"khoản nợ","ex":{"tokens":["가계","부채가","계속","늘고","있습니다","."],"py":["gagye","buchaega","gyesok","neulgo","itseumnida","."],"vi":"Nợ hộ gia đình tiếp tục tăng.","alts":[]}},
+   {"id":"ko602-자산","hanzi":"자산","pinyin":"jasan","vi":"tài sản","ex":{"tokens":["그는","자산이","많은","사람입니다","."],"py":["geuneun","jasani","maneun","saramimnida","."],"vi":"Ông ấy là người có nhiều tài sản.","alts":[]}},
+   {"id":"ko602-양극화","hanzi":"양극화","pinyin":"yanggeukwa","vi":"phân hóa hai cực","ex":{"tokens":["소득","양극화가","심해졌습니다","."],"py":["sodeuk","yanggeukwaga","simhaejyeotseumnida","."],"vi":"Phân hóa thu nhập đã trầm trọng hơn.","alts":[]}},
+   {"id":"ko602-침체","hanzi":"침체","pinyin":"chimche","vi":"đình trệ","ex":{"tokens":["경기","침체가","오래","계속됩니다","."],"py":["gyeonggi","chimchega","orae","gyesokdoemnida","."],"vi":"Kinh tế đình trệ kéo dài.","alts":[]}},
+   {"id":"ko602-활성화","hanzi":"활성화","pinyin":"hwalseonghwa","vi":"sự kích hoạt, làm sôi động","ex":{"tokens":["지역","경제","활성화가","필요합니다","."],"py":["jiyeok","gyeongje","hwalseonghwaga","piryohamnida","."],"vi":"Cần làm sôi động kinh tế địa phương.","alts":[]}},
+   {"id":"ko602-창업하다","hanzi":"창업하다","pinyin":"changeopada","vi":"khởi nghiệp","ex":{"tokens":["대학을","졸업하고","바로","창업했습니다","."],"py":["daehageul","joreopago","baro","changeopaetseumnida","."],"vi":"Tốt nghiệp đại học xong tôi khởi nghiệp ngay.","alts":[]}}
+  ]},
+  {"id":"ko603","title":"Quản trị và tổ chức","desc":"Chiến lược, hiệu suất, đổi mới","icon":"조","unit":61,"course":"ko","order":780,"words":[
+   {"id":"ko603-조직","hanzi":"조직","pinyin":"jojik","vi":"tổ chức","ex":{"tokens":["이","조직은","규칙이","엄격합니다","."],"py":["i","jojigeun","gyuchigi","eomgyeokamnida","."],"vi":"Tổ chức này có quy tắc nghiêm ngặt.","alts":[]}},
+   {"id":"ko603-전략","hanzi":"전략","pinyin":"jeollyak","vi":"chiến lược","ex":{"tokens":["새","판매","전략을","세웠습니다","."],"py":["sae","panmae","jeollyageul","sewotseumnida","."],"vi":"Chúng tôi đã lập chiến lược bán hàng mới.","alts":[]}},
+   {"id":"ko603-효율","hanzi":"효율","pinyin":"hyoyul","vi":"hiệu suất","ex":{"tokens":["일의","효율을","높여야","합니다","."],"py":["irui","hyoyureul","nopyeoya","hamnida","."],"vi":"Phải nâng cao hiệu suất công việc.","alts":[]}},
+   {"id":"ko603-혁신","hanzi":"혁신","pinyin":"hyeoksin","vi":"đổi mới","ex":{"tokens":["기업은","혁신이","없으면","살","수","없습니다","."],"py":["gieobeun","hyeoksini","eopseumyeon","sal","su","eopseumnida","."],"vi":"Doanh nghiệp không đổi mới thì không sống nổi.","alts":[]}},
+   {"id":"ko603-성과","hanzi":"성과","pinyin":"seonggwa","vi":"thành quả","ex":{"tokens":["이번","사업은","성과가","좋습니다","."],"py":["ibeon","saeobeun","seonggwaga","joseumnida","."],"vi":"Dự án lần này có thành quả tốt.","alts":[]}},
+   {"id":"ko603-경영하다","hanzi":"경영하다","pinyin":"gyeongyeonghada","vi":"quản lý kinh doanh","ex":{"tokens":["그는","작은","식당을","경영합니다","."],"py":["geuneun","jageun","sikdangeul","gyeongyeonghamnida","."],"vi":"Ông ấy quản lý một nhà hàng nhỏ.","alts":[]}},
+   {"id":"ko603-인재","hanzi":"인재","pinyin":"injae","vi":"nhân tài","ex":{"tokens":["회사는","좋은","인재를","찾고","있습니다","."],"py":["hoesaneun","joeun","injaereul","chatgo","itseumnida","."],"vi":"Công ty đang tìm nhân tài giỏi.","alts":[]}},
+   {"id":"ko603-합병","hanzi":"합병","pinyin":"hapbyeong","vi":"sáp nhập","ex":{"tokens":["두","은행이","합병을","발표했습니다","."],"py":["du","eunhaengi","hapbyeongeul","balpyohaetseumnida","."],"vi":"Hai ngân hàng đã công bố sáp nhập.","alts":[]}},
+   {"id":"ko603-추진하다","hanzi":"추진하다","pinyin":"chujinhada","vi":"xúc tiến, thúc đẩy","ex":{"tokens":["정부가","새","사업을","추진합니다","."],"py":["jeongbuga","sae","saeobeul","chujinhamnida","."],"vi":"Chính phủ xúc tiến dự án mới.","alts":[]}},
+   {"id":"ko603-도입하다","hanzi":"도입하다","pinyin":"doipada","vi":"đưa vào áp dụng","ex":{"tokens":["회사가","새","시스템을","도입했습니다","."],"py":["hoesaga","sae","siseutemeul","doipaetseumnida","."],"vi":"Công ty đã đưa hệ thống mới vào áp dụng.","alts":[]}},
+   {"id":"ko603-개선하다","hanzi":"개선하다","pinyin":"gaeseonhada","vi":"cải thiện","ex":{"tokens":["근무","환경을","개선해야","합니다","."],"py":["geunmu","hwangyeongeul","gaeseonhaeya","hamnida","."],"vi":"Phải cải thiện môi trường làm việc.","alts":[]}},
+   {"id":"ko603-투명하다","hanzi":"투명하다","pinyin":"tumyeonghada","vi":"minh bạch; trong suốt","ex":{"tokens":["회사의","경영은","투명해야","합니다","."],"py":["hoesaui","gyeongyeongeun","tumyeonghaeya","hamnida","."],"vi":"Việc quản lý công ty phải minh bạch.","alts":[]}}
+  ]},
+  {"id":"ko604","title":"Pháp lý nâng cao","desc":"Điều khoản, bồi thường, tranh chấp","icon":"법","unit":61,"course":"ko","order":790,"words":[
+   {"id":"ko604-법안","hanzi":"법안","pinyin":"beoban","vi":"dự luật","ex":{"tokens":["새","법안이","국회에","올라갔습니다","."],"py":["sae","beobani","gukoee","ollagatseumnida","."],"vi":"Dự luật mới đã được trình lên quốc hội.","alts":[]}},
+   {"id":"ko604-조항","hanzi":"조항","pinyin":"johang","vi":"điều khoản","ex":{"tokens":["계약서의","조항을","잘","읽으세요","."],"py":["gyeyakseoui","johangeul","jal","ilgeuseyo","."],"vi":"Hãy đọc kỹ các điều khoản của hợp đồng.","alts":[]}},
+   {"id":"ko604-배상하다","hanzi":"배상하다","pinyin":"baesanghada","vi":"bồi thường","ex":{"tokens":["회사가","피해를","배상했습니다","."],"py":["hoesaga","pihaereul","baesanghaetseumnida","."],"vi":"Công ty đã bồi thường thiệt hại.","alts":[]}},
+   {"id":"ko604-분쟁","hanzi":"분쟁","pinyin":"bunjaeng","vi":"tranh chấp","ex":{"tokens":["두","나라","사이에","분쟁이","생겼습니다","."],"py":["du","nara","saie","bunjaengi","saenggyeotseumnida","."],"vi":"Giữa hai nước đã nảy sinh tranh chấp.","alts":[]}},
+   {"id":"ko604-합의하다","hanzi":"합의하다","pinyin":"habuihada","vi":"thỏa thuận","ex":{"tokens":["두","회사가","가격에","합의했습니다","."],"py":["du","hoesaga","gagyeoge","habuihaetseumnida","."],"vi":"Hai công ty đã thỏa thuận về giá.","alts":[]}},
+   {"id":"ko604-무죄","hanzi":"무죄","pinyin":"mujoe","vi":"vô tội","ex":{"tokens":["법원은","그에게","무죄를","선고했습니다","."],"py":["beobwoneun","geuege","mujoereul","seongohaetseumnida","."],"vi":"Tòa đã tuyên anh ấy vô tội.","alts":[]}},
+   {"id":"ko604-유죄","hanzi":"유죄","pinyin":"yujoe","vi":"có tội","ex":{"tokens":["그는","유죄","판결을","받았습니다","."],"py":["geuneun","yujoe","pangyeoreul","badatseumnida","."],"vi":"Anh ta đã nhận bản án có tội.","alts":[]}},
+   {"id":"ko604-판결","hanzi":"판결","pinyin":"pangyeol","vi":"phán quyết","ex":{"tokens":["내일","판결이","나옵니다","."],"py":["naeil","pangyeori","naomnida","."],"vi":"Ngày mai sẽ có phán quyết.","alts":[]}},
+   {"id":"ko604-저작권","hanzi":"저작권","pinyin":"jeojakgwon","vi":"bản quyền","ex":{"tokens":["이","사진은","저작권이","있습니다","."],"py":["i","sajineun","jeojakgwoni","itseumnida","."],"vi":"Bức ảnh này có bản quyền.","alts":[]}},
+   {"id":"ko604-사기","hanzi":"사기","pinyin":"sagi","vi":"lừa đảo","ex":{"tokens":["인터넷","사기를","조심하세요","."],"py":["inteonet","sagireul","josimhaseyo","."],"vi":"Hãy cẩn thận với lừa đảo trên mạng.","alts":[]}},
+   {"id":"ko604-폭력","hanzi":"폭력","pinyin":"pongnyeok","vi":"bạo lực","ex":{"tokens":["학교","폭력은","사라져야","합니다","."],"py":["hakgyo","pongnyeogeun","sarajyeoya","hamnida","."],"vi":"Bạo lực học đường phải biến mất.","alts":[]}},
+   {"id":"ko604-침해하다","hanzi":"침해하다","pinyin":"chimhaehada","vi":"xâm phạm","ex":{"tokens":["다른","사람의","권리를","침해하면","안","됩니다","."],"py":["dareun","saramui","gwollireul","chimhaehamyeon","an","doemnida","."],"vi":"Không được xâm phạm quyền của người khác.","alts":[]}}
+  ]},
+  {"id":"ko605","title":"Truyền thông số","desc":"Dữ liệu, bảo mật, tin giả","icon":"디","unit":61,"course":"ko","order":800,"words":[
+   {"id":"ko605-개인정보","hanzi":"개인정보","pinyin":"gaeinjeongbo","vi":"thông tin cá nhân","ex":{"tokens":["개인정보를","잘","관리해야","합니다","."],"py":["gaeinjeongboreul","jal","gwallihaeya","hamnida","."],"vi":"Phải quản lý tốt thông tin cá nhân.","alts":[]}},
+   {"id":"ko605-보안","hanzi":"보안","pinyin":"boan","vi":"bảo mật","ex":{"tokens":["이","사이트는","보안이","약합니다","."],"py":["i","saiteuneun","boani","yakamnida","."],"vi":"Trang web này bảo mật yếu.","alts":[]}},
+   {"id":"ko605-해킹","hanzi":"해킹","pinyin":"haeking","vi":"tấn công mạng","ex":{"tokens":["회사","컴퓨터가","해킹을","당했습니다","."],"py":["hoesa","keompyuteoga","haekingeul","danghaetseumnida","."],"vi":"Máy tính công ty đã bị tấn công mạng.","alts":[]}},
+   {"id":"ko605-가짜뉴스","hanzi":"가짜뉴스","pinyin":"gajjanyuseu","vi":"tin giả","ex":{"tokens":["가짜뉴스가","빠르게","퍼집니다","."],"py":["gajjanyuseuga","ppareuge","peojimnida","."],"vi":"Tin giả lan truyền nhanh.","alts":[]}},
+   {"id":"ko605-유출","hanzi":"유출","pinyin":"yuchul","vi":"rò rỉ","ex":{"tokens":["고객","정보","유출","사고가","났습니다","."],"py":["gogaek","jeongbo","yuchul","sagoga","natseumnida","."],"vi":"Đã xảy ra sự cố rò rỉ thông tin khách hàng.","alts":[]}},
+   {"id":"ko605-익명","hanzi":"익명","pinyin":"ingmyeong","vi":"ẩn danh","ex":{"tokens":["익명으로","글을","올렸습니다","."],"py":["ingmyeongeuro","geureul","ollyeotseumnida","."],"vi":"Tôi đã đăng bài ẩn danh.","alts":[]}},
+   {"id":"ko605-매체","hanzi":"매체","pinyin":"maeche","vi":"phương tiện truyền thông","ex":{"tokens":["새로운","매체가","계속","나옵니다","."],"py":["saeroun","maechega","gyesok","naomnida","."],"vi":"Các phương tiện truyền thông mới liên tục ra đời.","alts":[]}},
+   {"id":"ko605-확산","hanzi":"확산","pinyin":"hwaksan","vi":"sự lan rộng","ex":{"tokens":["소문의","확산을","막기","어렵습니다","."],"py":["somunui","hwaksaneul","makgi","eoryeopseumnida","."],"vi":"Khó ngăn tin đồn lan rộng.","alts":[]}},
+   {"id":"ko605-조작하다","hanzi":"조작하다","pinyin":"jojakada","vi":"thao túng, dàn dựng","ex":{"tokens":["누군가","사진을","조작했습니다","."],"py":["nugunga","sajineul","jojakaetseumnida","."],"vi":"Ai đó đã chỉnh sửa giả bức ảnh.","alts":[]}},
+   {"id":"ko605-감시하다","hanzi":"감시하다","pinyin":"gamsihada","vi":"giám sát","ex":{"tokens":["카메라가","길을","감시합니다","."],"py":["kameraga","gireul","gamsihamnida","."],"vi":"Camera giám sát con đường.","alts":[]}},
+   {"id":"ko605-인식","hanzi":"인식","pinyin":"insik","vi":"nhận thức","ex":{"tokens":["환경에","대한","인식이","달라졌습니다","."],"py":["hwangyeonge","daehan","insigi","dallajyeotseumnida","."],"vi":"Nhận thức về môi trường đã thay đổi.","alts":[]}},
+   {"id":"ko605-왜곡하다","hanzi":"왜곡하다","pinyin":"waegokada","vi":"bóp méo","ex":{"tokens":["그","기사는","사실을","왜곡했습니다","."],"py":["geu","gisaneun","sasireul","waegokaetseumnida","."],"vi":"Bài báo đó đã bóp méo sự thật.","alts":[]}}
+  ]}
+ ]
+}

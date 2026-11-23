@@ -1,0 +1,77 @@
+{
+ "units": [
+  {"unit":52,"level":5,"title":"Phần 2: Tri thức và văn hóa","desc":"Giá trị, lịch sử, văn học, khoa học, môi trường","color":"sky","course":"ko"}
+ ],
+ "lessons": [
+  {"id":"ko506","title":"Giá trị và tư tưởng","desc":"Đạo đức, niềm tin, tự do","icon":"가","unit":52,"course":"ko","order":660,"words":[
+   {"id":"ko506-가치","hanzi":"가치","pinyin":"gachi","vi":"giá trị","ex":{"tokens":["이","그림은","가치가","높습니다","."],"py":["i","geurimeun","gachiga","nopseumnida","."],"vi":"Bức tranh này có giá trị cao.","alts":[]}},
+   {"id":"ko506-도덕","hanzi":"도덕","pinyin":"dodeok","vi":"đạo đức","ex":{"tokens":["학교에서","도덕을","배웁니다","."],"py":["hakgyoeseo","dodeogeul","baeumnida","."],"vi":"Ở trường chúng tôi học đạo đức.","alts":[]}},
+   {"id":"ko506-양심","hanzi":"양심","pinyin":"yangsim","vi":"lương tâm","ex":{"tokens":["양심에","따라","행동하세요","."],"py":["yangsime","ttara","haengdonghaseyo","."],"vi":"Hãy hành động theo lương tâm.","alts":[]}},
+   {"id":"ko506-자유","hanzi":"자유","pinyin":"jayu","vi":"tự do","ex":{"tokens":["모든","사람은","자유를","원합니다","."],"py":["modeun","sarameun","jayureul","wonhamnida","."],"vi":"Mọi người đều muốn tự do.","alts":[]}},
+   {"id":"ko506-평등","hanzi":"평등","pinyin":"pyeongdeung","vi":"bình đẳng","ex":{"tokens":["남녀","평등은","중요합니다","."],"py":["namnyeo","pyeongdeungeun","jungyohamnida","."],"vi":"Bình đẳng nam nữ là quan trọng.","alts":[]}},
+   {"id":"ko506-종교","hanzi":"종교","pinyin":"jonggyo","vi":"tôn giáo","ex":{"tokens":["한국에는","여러","종교가","있습니다","."],"py":["hangugeneun","yeoreo","jonggyoga","itseumnida","."],"vi":"Ở Hàn Quốc có nhiều tôn giáo.","alts":[]}},
+   {"id":"ko506-철학","hanzi":"철학","pinyin":"cheolhak","vi":"triết học","ex":{"tokens":["대학교에서","철학을","전공했습니다","."],"py":["daehakgyoeseo","cheolhageul","jeongonghaetseumnida","."],"vi":"Tôi đã học chuyên ngành triết học ở đại học.","alts":[]}},
+   {"id":"ko506-신념","hanzi":"신념","pinyin":"sinnyeom","vi":"niềm tin, tín niệm","ex":{"tokens":["그는","자기","신념을","지켰습니다","."],"py":["geuneun","jagi","sinnyeomeul","jikyeotseumnida","."],"vi":"Ông ấy đã giữ vững niềm tin của mình.","alts":[]}},
+   {"id":"ko506-편견","hanzi":"편견","pinyin":"pyeongyeon","vi":"định kiến","ex":{"tokens":["외국인에","대한","편견을","버려야","합니다","."],"py":["oegugine","daehan","pyeongyeoneul","beoryeoya","hamnida","."],"vi":"Phải bỏ định kiến về người nước ngoài.","alts":[]}},
+   {"id":"ko506-존중하다","hanzi":"존중하다","pinyin":"jonjunghada","vi":"tôn trọng","ex":{"tokens":["서로의","의견을","존중합시다","."],"py":["seoroui","uigyeoneul","jonjunghapsida","."],"vi":"Hãy tôn trọng ý kiến của nhau.","alts":[]}},
+   {"id":"ko506-희생하다","hanzi":"희생하다","pinyin":"huisaenghada","vi":"hy sinh","ex":{"tokens":["부모님은","자식을","위해","희생하셨습니다","."],"py":["bumonimeun","jasigeul","wihae","huisaenghasyeotseumnida","."],"vi":"Bố mẹ đã hy sinh vì con cái.","alts":[]}},
+   {"id":"ko506-인정하다","hanzi":"인정하다","pinyin":"injeonghada","vi":"thừa nhận, công nhận","ex":{"tokens":["그는","자기","잘못을","인정했습니다","."],"py":["geuneun","jagi","jalmoseul","injeonghaetseumnida","."],"vi":"Anh ấy đã thừa nhận lỗi của mình.","alts":[]}}
+  ]},
+  {"id":"ko507","title":"Lịch sử","desc":"Triều đại, di sản, sự kiện","icon":"옛","unit":52,"course":"ko","order":670,"words":[
+   {"id":"ko507-왕","hanzi":"왕","pinyin":"wang","vi":"vua","ex":{"tokens":["세종은","조선의","왕이었습니다","."],"py":["sejongeun","joseonui","wangieotseumnida","."],"vi":"Sejong là vua của Joseon.","alts":[]}},
+   {"id":"ko507-조상","hanzi":"조상","pinyin":"josang","vi":"tổ tiên","ex":{"tokens":["명절에","조상에게","인사를","드립니다","."],"py":["myeongjeore","josangege","insareul","deurimnida","."],"vi":"Vào ngày lễ chúng tôi làm lễ chào tổ tiên.","alts":[]}},
+   {"id":"ko507-시대","hanzi":"시대","pinyin":"sidae","vi":"thời đại","ex":{"tokens":["우리는","정보","시대에","살고","있습니다","."],"py":["urineun","jeongbo","sidaee","salgo","itseumnida","."],"vi":"Chúng ta đang sống trong thời đại thông tin.","alts":[]}},
+   {"id":"ko507-유적","hanzi":"유적","pinyin":"yujeok","vi":"di tích","ex":{"tokens":["경주에는","유적이","많습니다","."],"py":["gyeongjueneun","yujeogi","manseumnida","."],"vi":"Ở Gyeongju có nhiều di tích.","alts":[]}},
+   {"id":"ko507-문화재","hanzi":"문화재","pinyin":"munhwajae","vi":"di sản văn hóa","ex":{"tokens":["이","절은","중요한","문화재입니다","."],"py":["i","jeoreun","jungyohan","munhwajaeimnida","."],"vi":"Ngôi chùa này là di sản văn hóa quan trọng.","alts":[]}},
+   {"id":"ko507-독립","hanzi":"독립","pinyin":"dongnip","vi":"độc lập","ex":{"tokens":["한국은","1945년에","독립을","했습니다","."],"py":["hangugeun","1945nyeone","dongnibeul","haetseumnida","."],"vi":"Hàn Quốc đã độc lập vào năm 1945.","alts":[]}},
+   {"id":"ko507-식민지","hanzi":"식민지","pinyin":"singminji","vi":"thuộc địa","ex":{"tokens":["그","나라는","오랫동안","식민지였습니다","."],"py":["geu","naraneun","oraetdongan","singminjiyeotseumnida","."],"vi":"Nước đó đã là thuộc địa trong thời gian dài.","alts":[]}},
+   {"id":"ko507-혁명","hanzi":"혁명","pinyin":"hyeongmyeong","vi":"cách mạng","ex":{"tokens":["산업","혁명은","세계를","바꿨습니다","."],"py":["saneop","hyeongmyeongeun","segyereul","bakkwotseumnida","."],"vi":"Cách mạng công nghiệp đã thay đổi thế giới.","alts":[]}},
+   {"id":"ko507-기록하다","hanzi":"기록하다","pinyin":"girokada","vi":"ghi chép","ex":{"tokens":["매일","지출을","기록합니다","."],"py":["maeil","jichureul","girokamnida","."],"vi":"Mỗi ngày tôi ghi chép các khoản chi.","alts":[]}},
+   {"id":"ko507-보존하다","hanzi":"보존하다","pinyin":"bojonhada","vi":"bảo tồn","ex":{"tokens":["옛","건물을","잘","보존해야","합니다","."],"py":["yet","geonmureul","jal","bojonhaeya","hamnida","."],"vi":"Phải bảo tồn tốt các tòa nhà cổ.","alts":[]}},
+   {"id":"ko507-세기","hanzi":"세기","pinyin":"segi","vi":"thế kỷ","ex":{"tokens":["이","성은","15세기에","지어졌습니다","."],"py":["i","seongeun","15segie","jieojyeotseumnida","."],"vi":"Tòa thành này được xây vào thế kỷ 15.","alts":[]}},
+   {"id":"ko507-인류","hanzi":"인류","pinyin":"illyu","vi":"nhân loại","ex":{"tokens":["인류의","역사는","매우","깁니다","."],"py":["illyuui","yeoksaneun","maeu","gimnida","."],"vi":"Lịch sử nhân loại rất dài.","alts":[]}}
+  ]},
+  {"id":"ko508","title":"Văn học và phê bình","desc":"Thể loại, chủ đề, đánh giá","icon":"글","unit":52,"course":"ko","order":680,"words":[
+   {"id":"ko508-문학","hanzi":"문학","pinyin":"munhak","vi":"văn học","ex":{"tokens":["저는","한국","문학을","공부합니다","."],"py":["jeoneun","hanguk","munhageul","gongbuhamnida","."],"vi":"Tôi học văn học Hàn Quốc.","alts":[]}},
+   {"id":"ko508-주제","hanzi":"주제","pinyin":"juje","vi":"chủ đề","ex":{"tokens":["오늘","토론의","주제는","환경입니다","."],"py":["oneul","toronui","jujeneun","hwangyeongimnida","."],"vi":"Chủ đề thảo luận hôm nay là môi trường.","alts":[]}},
+   {"id":"ko508-주인공","hanzi":"주인공","pinyin":"juingong","vi":"nhân vật chính","ex":{"tokens":["이","소설의","주인공은","학생입니다","."],"py":["i","soseorui","juingongeun","haksaengimnida","."],"vi":"Nhân vật chính của tiểu thuyết này là một học sinh.","alts":[]}},
+   {"id":"ko508-줄거리","hanzi":"줄거리","pinyin":"julgeori","vi":"cốt truyện","ex":{"tokens":["영화의","줄거리를","말해","주세요","."],"py":["yeonghwaui","julgeorireul","malhae","juseyo","."],"vi":"Hãy kể cho tôi cốt truyện của bộ phim.","alts":[]}},
+   {"id":"ko508-배경","hanzi":"배경","pinyin":"baegyeong","vi":"bối cảnh, hậu cảnh","ex":{"tokens":["이","드라마의","배경은","부산입니다","."],"py":["i","deuramaui","baegyeongeun","busanimnida","."],"vi":"Bối cảnh của bộ phim này là Busan.","alts":[]}},
+   {"id":"ko508-비유","hanzi":"비유","pinyin":"biyu","vi":"ẩn dụ, so sánh","ex":{"tokens":["시인은","비유를","자주","사용합니다","."],"py":["siineun","biyureul","jaju","sayonghamnida","."],"vi":"Nhà thơ thường dùng phép so sánh.","alts":[]}},
+   {"id":"ko508-평가하다","hanzi":"평가하다","pinyin":"pyeonggahada","vi":"đánh giá","ex":{"tokens":["선생님이","학생의","글을","평가합니다","."],"py":["seonsaengnimi","haksaengui","geureul","pyeonggahamnida","."],"vi":"Thầy giáo đánh giá bài viết của học sinh.","alts":[]}},
+   {"id":"ko508-해석하다","hanzi":"해석하다","pinyin":"haeseokada","vi":"diễn giải, phân tích nghĩa","ex":{"tokens":["이","시를","여러","가지로","해석할","수","있습니다","."],"py":["i","sireul","yeoreo","gajiro","haeseokal","su","itseumnida","."],"vi":"Bài thơ này có thể diễn giải theo nhiều cách.","alts":[]}},
+   {"id":"ko508-묘사하다","hanzi":"묘사하다","pinyin":"myosahada","vi":"miêu tả","ex":{"tokens":["작가가","풍경을","자세히","묘사했습니다","."],"py":["jakgaga","punggyeongeul","jasehi","myosahaetseumnida","."],"vi":"Nhà văn đã miêu tả phong cảnh một cách chi tiết.","alts":[]}},
+   {"id":"ko508-출판하다","hanzi":"출판하다","pinyin":"chulpanhada","vi":"xuất bản","ex":{"tokens":["올해","첫","책을","출판했습니다","."],"py":["olhae","cheot","chaegeul","chulpanhaetseumnida","."],"vi":"Năm nay tôi đã xuất bản cuốn sách đầu tiên.","alts":[]}},
+   {"id":"ko508-독자","hanzi":"독자","pinyin":"dokja","vi":"độc giả","ex":{"tokens":["이","책은","독자가","많습니다","."],"py":["i","chaegeun","dokjaga","manseumnida","."],"vi":"Cuốn sách này có nhiều độc giả.","alts":[]}},
+   {"id":"ko508-수필","hanzi":"수필","pinyin":"supil","vi":"tùy bút","ex":{"tokens":["그","교수는","수필을","자주","씁니다","."],"py":["geu","gyosuneun","supireul","jaju","sseumnida","."],"vi":"Vị giáo sư đó thường viết tùy bút.","alts":[]}}
+  ]},
+  {"id":"ko509","title":"Khoa học tự nhiên","desc":"Vật chất, sinh học, lý thuyết","icon":"물","unit":52,"course":"ko","order":690,"words":[
+   {"id":"ko509-물질","hanzi":"물질","pinyin":"muljil","vi":"vật chất, chất","ex":{"tokens":["이","물질은","몸에","해롭습니다","."],"py":["i","muljireun","mome","haeropseumnida","."],"vi":"Chất này có hại cho cơ thể.","alts":[]}},
+   {"id":"ko509-세포","hanzi":"세포","pinyin":"sepo","vi":"tế bào","ex":{"tokens":["우리","몸은","세포로","이루어져","있습니다","."],"py":["uri","momeun","seporo","irueojyeo","itseumnida","."],"vi":"Cơ thể chúng ta được tạo thành từ tế bào.","alts":[]}},
+   {"id":"ko509-유전자","hanzi":"유전자","pinyin":"yujeonja","vi":"gen","ex":{"tokens":["유전자가","병의","원인일","수","있습니다","."],"py":["yujeonjaga","byeongui","woninil","su","itseumnida","."],"vi":"Gen có thể là nguyên nhân của bệnh.","alts":[]}},
+   {"id":"ko509-진화","hanzi":"진화","pinyin":"jinhwa","vi":"tiến hóa","ex":{"tokens":["동물은","오랫동안","진화했습니다","."],"py":["dongmureun","oraetdongan","jinhwahaetseumnida","."],"vi":"Động vật đã tiến hóa trong thời gian dài.","alts":[]}},
+   {"id":"ko509-중력","hanzi":"중력","pinyin":"jungnyeok","vi":"trọng lực","ex":{"tokens":["달은","중력이","약합니다","."],"py":["dareun","jungnyeogi","yakamnida","."],"vi":"Mặt Trăng có trọng lực yếu.","alts":[]}},
+   {"id":"ko509-산소","hanzi":"산소","pinyin":"sanso","vi":"ô xy","ex":{"tokens":["높은","산에는","산소가","적습니다","."],"py":["nopeun","saneneun","sansoga","jeokseumnida","."],"vi":"Trên núi cao ít ô xy.","alts":[]}},
+   {"id":"ko509-이론","hanzi":"이론","pinyin":"iron","vi":"lý thuyết","ex":{"tokens":["그","이론은","아직","증명되지","않았습니다","."],"py":["geu","ironeun","ajik","jeungmyeongdoeji","anatseumnida","."],"vi":"Lý thuyết đó vẫn chưa được chứng minh.","alts":[]}},
+   {"id":"ko509-가설","hanzi":"가설","pinyin":"gaseol","vi":"giả thuyết","ex":{"tokens":["과학자가","새","가설을","세웠습니다","."],"py":["gwahakjaga","sae","gaseoreul","sewotseumnida","."],"vi":"Nhà khoa học đã lập giả thuyết mới.","alts":[]}},
+   {"id":"ko509-관찰하다","hanzi":"관찰하다","pinyin":"gwanchalhada","vi":"quan sát","ex":{"tokens":["아이들이","곤충을","관찰합니다","."],"py":["aideuri","gonchungeul","gwanchalhamnida","."],"vi":"Bọn trẻ quan sát côn trùng.","alts":[]}},
+   {"id":"ko509-분석하다","hanzi":"분석하다","pinyin":"bunseokada","vi":"phân tích","ex":{"tokens":["자료를","자세히","분석했습니다","."],"py":["jaryoreul","jasehi","bunseokaetseumnida","."],"vi":"Chúng tôi đã phân tích tài liệu kỹ lưỡng.","alts":[]}},
+   {"id":"ko509-증명하다","hanzi":"증명하다","pinyin":"jeungmyeonghada","vi":"chứng minh","ex":{"tokens":["그는","자기","주장을","증명했습니다","."],"py":["geuneun","jagi","jujangeul","jeungmyeonghaetseumnida","."],"vi":"Anh ấy đã chứng minh luận điểm của mình.","alts":[]}},
+   {"id":"ko509-원리","hanzi":"원리","pinyin":"wolli","vi":"nguyên lý","ex":{"tokens":["이","기계의","원리는","간단합니다","."],"py":["i","gigyeui","wollineun","gandanhamnida","."],"vi":"Nguyên lý của chiếc máy này đơn giản.","alts":[]}}
+  ]},
+  {"id":"ko510","title":"Môi trường toàn cầu","desc":"Khí hậu, tài nguyên, phát triển bền vững","icon":"기","unit":52,"course":"ko","order":700,"words":[
+   {"id":"ko510-기후","hanzi":"기후","pinyin":"gihu","vi":"khí hậu","ex":{"tokens":["이","지역은","기후가","따뜻합니다","."],"py":["i","jiyeogeun","gihuga","ttatteutamnida","."],"vi":"Khu vực này có khí hậu ấm áp.","alts":[]}},
+   {"id":"ko510-온난화","hanzi":"온난화","pinyin":"onnanhwa","vi":"sự nóng lên","ex":{"tokens":["지구","온난화가","점점","심해집니다","."],"py":["jigu","onnanhwaga","jeomjeom","simhaejimnida","."],"vi":"Sự nóng lên của Trái Đất ngày càng nghiêm trọng.","alts":[]}},
+   {"id":"ko510-지구","hanzi":"지구","pinyin":"jigu","vi":"Trái Đất","ex":{"tokens":["지구는","우리","모두의","집입니다","."],"py":["jiguneun","uri","moduui","jibimnida","."],"vi":"Trái Đất là ngôi nhà của tất cả chúng ta.","alts":[]}},
+   {"id":"ko510-생태계","hanzi":"생태계","pinyin":"saengtaegye","vi":"hệ sinh thái","ex":{"tokens":["개발","때문에","생태계가","파괴됩니다","."],"py":["gaebal","ttaemune","saengtaegyega","pagoedoemnida","."],"vi":"Vì phát triển mà hệ sinh thái bị phá hủy.","alts":[]}},
+   {"id":"ko510-멸종","hanzi":"멸종","pinyin":"myeoljong","vi":"tuyệt chủng","ex":{"tokens":["많은","동물이","멸종","위기에","있습니다","."],"py":["maneun","dongmuri","myeoljong","wigie","itseumnida","."],"vi":"Nhiều loài động vật đang có nguy cơ tuyệt chủng.","alts":[]}},
+   {"id":"ko510-파괴하다","hanzi":"파괴하다","pinyin":"pagoehada","vi":"phá hủy","ex":{"tokens":["전쟁이","도시를","파괴했습니다","."],"py":["jeonjaengi","dosireul","pagoehaetseumnida","."],"vi":"Chiến tranh đã phá hủy thành phố.","alts":[]}},
+   {"id":"ko510-보호하다","hanzi":"보호하다","pinyin":"bohohada","vi":"bảo vệ","ex":{"tokens":["우리는","숲을","보호해야","합니다","."],"py":["urineun","supeul","bohohaeya","hamnida","."],"vi":"Chúng ta phải bảo vệ rừng.","alts":[]}},
+   {"id":"ko510-개발하다","hanzi":"개발하다","pinyin":"gaebalhada","vi":"phát triển, khai thác","ex":{"tokens":["회사가","새","약을","개발했습니다","."],"py":["hoesaga","sae","yageul","gaebalhaetseumnida","."],"vi":"Công ty đã phát triển loại thuốc mới.","alts":[]}},
+   {"id":"ko510-친환경","hanzi":"친환경","pinyin":"chinhwangyeong","vi":"thân thiện môi trường","ex":{"tokens":["친환경","제품을","사용합니다","."],"py":["chinhwangyeong","jepumeul","sayonghamnida","."],"vi":"Tôi dùng sản phẩm thân thiện môi trường.","alts":[]}},
+   {"id":"ko510-일회용","hanzi":"일회용","pinyin":"ilhoeyong","vi":"dùng một lần","ex":{"tokens":["일회용","컵을","쓰지","않습니다","."],"py":["ilhoeyong","keobeul","sseuji","anseumnida","."],"vi":"Tôi không dùng cốc dùng một lần.","alts":[]}},
+   {"id":"ko510-배출하다","hanzi":"배출하다","pinyin":"baechulhada","vi":"thải ra","ex":{"tokens":["공장이","가스를","많이","배출합니다","."],"py":["gongjangi","gaseureul","mani","baechulhamnida","."],"vi":"Nhà máy thải ra nhiều khí.","alts":[]}},
+   {"id":"ko510-가뭄","hanzi":"가뭄","pinyin":"gamum","vi":"hạn hán","ex":{"tokens":["올해는","가뭄이","심합니다","."],"py":["olhaeneun","gamumi","simhamnida","."],"vi":"Năm nay hạn hán nghiêm trọng.","alts":[]}}
+  ]}
+ ]
+}

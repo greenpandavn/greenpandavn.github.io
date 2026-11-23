@@ -29,7 +29,7 @@
    {"id":"ko107-먹다","hanzi":"먹다","pinyin":"meokda","vi":"ăn","ex":{"tokens":["우리는","식당에서","불고기를","먹었습니다","."],"py":["urineun","sikdangeseo","bulgogireul","meogeotseumnida","."],"vi":"Chúng tôi đã ăn bulgogi ở nhà hàng.","alts":[]}},
    {"id":"ko107-마시다","hanzi":"마시다","pinyin":"masida","vi":"uống","ex":{"tokens":["운동","후에","물을","많이","마십니다","."],"py":["undong","hue","mureul","mani","masimnida","."],"vi":"Sau khi tập thể dục tôi uống nhiều nước.","alts":[]}},
    {"id":"ko107-맛있다","hanzi":"맛있다","pinyin":"masitda","vi":"ngon","ex":{"tokens":["이","식당","음식은","정말","맛있습니다","."],"py":["i","sikdang","eumsigeun","jeongmal","masitseumnida","."],"vi":"Đồ ăn ở nhà hàng này thật sự ngon.","alts":[]}},
-   {"id":"ko107-배고프다","hanzi":"배고프다","pinyin":"baegopeuda","vi":"đói bụng","ex":{"tokens":["아침을","안","먹어서","배가","고픕니다","."],"py":["achimeul","an","meogeoseo","baega","gopeumnida","."],"vi":"Vì không ăn sáng nên tôi đói bụng.","alts":[]}}
+   {"id":"ko107-배고프다","hanzi":"배고프다","pinyin":"baegopeuda","vi":"đói bụng","ex":{"tokens":["아침을","안","먹어서","지금","배고픕니다","."],"py":["achimeul","an","meogeoseo","jigeum","baegopeumnida","."],"vi":"Vì không ăn sáng nên tôi đói bụng.","alts":[]}}
   ]},
   {"id":"ko108","title":"Thời gian","desc":"Hôm nay, ngày mai, giờ, tuần","icon":"시","unit":2,"course":"ko","order":80,"words":[
    {"id":"ko108-오늘","hanzi":"오늘","pinyin":"oneul","vi":"hôm nay","ex":{"tokens":["오늘은","날씨가","아주","좋습니다","."],"py":["oneureun","nalssiga","aju","joseumnida","."],"vi":"Hôm nay thời tiết rất đẹp.","alts":[]}},

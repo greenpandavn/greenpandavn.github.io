@@ -1,0 +1,77 @@
+{
+ "units": [
+  {"unit":42,"level":4,"title":"Phần 2: Văn hóa và khoa học","desc":"Nghệ thuật, công nghệ, y tế, tâm lý, giao tiếp","color":"sky","course":"ko"}
+ ],
+ "lessons": [
+  {"id":"ko406","title":"Nghệ thuật","desc":"Văn học, hội họa, sân khấu","icon":"예","unit":42,"course":"ko","order":510,"words":[
+   {"id":"ko406-예술","hanzi":"예술","pinyin":"yesul","vi":"nghệ thuật","ex":{"tokens":["저는","예술에","관심이","많습니다","."],"py":["jeoneun","yesure","gwansimi","manseumnida","."],"vi":"Tôi rất quan tâm đến nghệ thuật.","alts":[]}},
+   {"id":"ko406-작품","hanzi":"작품","pinyin":"jakpum","vi":"tác phẩm","ex":{"tokens":["이","작품은","백","년","전에","만들어졌습니다","."],"py":["i","jakpumeun","baek","nyeon","jeone","mandeureojyeotseumnida","."],"vi":"Tác phẩm này được làm từ một trăm năm trước.","alts":[]}},
+   {"id":"ko406-작가","hanzi":"작가","pinyin":"jakga","vi":"nhà văn, tác giả","ex":{"tokens":["그","작가의","소설을","모두","읽었습니다","."],"py":["geu","jakgaui","soseoreul","modu","ilgeotseumnida","."],"vi":"Tôi đã đọc hết tiểu thuyết của nhà văn đó.","alts":[]}},
+   {"id":"ko406-소설","hanzi":"소설","pinyin":"soseol","vi":"tiểu thuyết","ex":{"tokens":["요즘","한국","소설을","읽고","있습니다","."],"py":["yojeum","hanguk","soseoreul","ikgo","itseumnida","."],"vi":"Dạo này tôi đang đọc tiểu thuyết Hàn Quốc.","alts":[]}},
+   {"id":"ko406-시","hanzi":"시","pinyin":"si","vi":"bài thơ","ex":{"tokens":["수업에서","짧은","시를","썼습니다","."],"py":["sueobeseo","jjalbeun","sireul","sseotseumnida","."],"vi":"Trong giờ học tôi đã viết một bài thơ ngắn.","alts":[]}},
+   {"id":"ko406-화가","hanzi":"화가","pinyin":"hwaga","vi":"họa sĩ","ex":{"tokens":["그","화가는","꽃을","자주","그립니다","."],"py":["geu","hwaganeun","kkocheul","jaju","geurimnida","."],"vi":"Họa sĩ đó thường vẽ hoa.","alts":[]}},
+   {"id":"ko406-박물관","hanzi":"박물관","pinyin":"bangmulgwan","vi":"bảo tàng","ex":{"tokens":["주말에","역사","박물관에","갔습니다","."],"py":["jumare","yeoksa","bangmulgwane","gatseumnida","."],"vi":"Cuối tuần tôi đã đi bảo tàng lịch sử.","alts":[]}},
+   {"id":"ko406-연극","hanzi":"연극","pinyin":"yeongeuk","vi":"kịch","ex":{"tokens":["대학로에서","연극을","봤습니다","."],"py":["daehangnoeseo","yeongeugeul","bwatseumnida","."],"vi":"Tôi đã xem kịch ở Daehangno.","alts":[]}},
+   {"id":"ko406-무대","hanzi":"무대","pinyin":"mudae","vi":"sân khấu","ex":{"tokens":["가수가","무대에","올라왔습니다","."],"py":["gasuga","mudaee","ollawatseumnida","."],"vi":"Ca sĩ đã bước lên sân khấu.","alts":[]}},
+   {"id":"ko406-관객","hanzi":"관객","pinyin":"gwangaek","vi":"khán giả","ex":{"tokens":["관객들이","크게","박수를","쳤습니다","."],"py":["gwangaekdeuri","keuge","baksureul","chyeotseumnida","."],"vi":"Khán giả đã vỗ tay thật to.","alts":[]}},
+   {"id":"ko406-감동하다","hanzi":"감동하다","pinyin":"gamdonghada","vi":"cảm động","ex":{"tokens":["그","영화를","보고","감동했습니다","."],"py":["geu","yeonghwareul","bogo","gamdonghaetseumnida","."],"vi":"Tôi đã cảm động khi xem bộ phim đó.","alts":[]}},
+   {"id":"ko406-표현하다","hanzi":"표현하다","pinyin":"pyohyeonhada","vi":"biểu hiện, diễn đạt","ex":{"tokens":["그림으로","마음을","표현합니다","."],"py":["geurimeuro","maeumeul","pyohyeonhamnida","."],"vi":"Tôi thể hiện tấm lòng bằng tranh.","alts":[]}}
+  ]},
+  {"id":"ko407","title":"Khoa học và công nghệ","desc":"Nghiên cứu, phát minh, máy móc","icon":"과","unit":42,"course":"ko","order":520,"words":[
+   {"id":"ko407-과학","hanzi":"과학","pinyin":"gwahak","vi":"khoa học","ex":{"tokens":["과학은","우리","생활을","바꿉니다","."],"py":["gwahageun","uri","saenghwareul","bakkumnida","."],"vi":"Khoa học thay đổi cuộc sống của chúng ta.","alts":[]}},
+   {"id":"ko407-기술","hanzi":"기술","pinyin":"gisul","vi":"kỹ thuật, công nghệ","ex":{"tokens":["새","기술을","배우고","있습니다","."],"py":["sae","gisureul","baeugo","itseumnida","."],"vi":"Tôi đang học công nghệ mới.","alts":[]}},
+   {"id":"ko407-연구하다","hanzi":"연구하다","pinyin":"yeonguhada","vi":"nghiên cứu","ex":{"tokens":["그","교수는","암을","연구합니다","."],"py":["geu","gyosuneun","ameul","yeonguhamnida","."],"vi":"Vị giáo sư đó nghiên cứu về ung thư.","alts":[]}},
+   {"id":"ko407-실험","hanzi":"실험","pinyin":"silheom","vi":"thí nghiệm","ex":{"tokens":["학생들이","과학","실험을","합니다","."],"py":["haksaengdeuri","gwahak","silheomeul","hamnida","."],"vi":"Học sinh làm thí nghiệm khoa học.","alts":[]}},
+   {"id":"ko407-발명하다","hanzi":"발명하다","pinyin":"balmyeonghada","vi":"phát minh","ex":{"tokens":["누가","전화를","발명했습니까","?"],"py":["nuga","jeonhwareul","balmyeonghaetseumnikka","?"],"vi":"Ai đã phát minh ra điện thoại?","alts":[]}},
+   {"id":"ko407-발전하다","hanzi":"발전하다","pinyin":"baljeonhada","vi":"phát triển","ex":{"tokens":["기술이","빠르게","발전하고","있습니다","."],"py":["gisuri","ppareuge","baljeonhago","itseumnida","."],"vi":"Công nghệ đang phát triển nhanh.","alts":[]}},
+   {"id":"ko407-인공지능","hanzi":"인공지능","pinyin":"ingongjineung","vi":"trí tuệ nhân tạo","ex":{"tokens":["인공지능이","많은","일을","합니다","."],"py":["ingongjineungi","maneun","ireul","hamnida","."],"vi":"Trí tuệ nhân tạo làm rất nhiều việc.","alts":[]}},
+   {"id":"ko407-로봇","hanzi":"로봇","pinyin":"robot","vi":"rô bốt","ex":{"tokens":["이","공장에서는","로봇이","일합니다","."],"py":["i","gongjangeseoneun","robosi","ilhamnida","."],"vi":"Ở nhà máy này rô bốt làm việc.","alts":[]}},
+   {"id":"ko407-우주","hanzi":"우주","pinyin":"uju","vi":"vũ trụ","ex":{"tokens":["언젠가","우주에","가고","싶습니다","."],"py":["eonjenga","ujue","gago","sipseumnida","."],"vi":"Một ngày nào đó tôi muốn đi vào vũ trụ.","alts":[]}},
+   {"id":"ko407-에너지","hanzi":"에너지","pinyin":"eneoji","vi":"năng lượng","ex":{"tokens":["태양","에너지를","사용합니다","."],"py":["taeyang","eneojireul","sayonghamnida","."],"vi":"Chúng tôi sử dụng năng lượng mặt trời.","alts":[]}},
+   {"id":"ko407-전기","hanzi":"전기","pinyin":"jeongi","vi":"điện","ex":{"tokens":["갑자기","전기가","나갔습니다","."],"py":["gapjagi","jeongiga","nagatseumnida","."],"vi":"Đột nhiên mất điện.","alts":[]}},
+   {"id":"ko407-기계","hanzi":"기계","pinyin":"gigye","vi":"máy móc","ex":{"tokens":["이","기계는","사용하기","쉽습니다","."],"py":["i","gigyeneun","sayonghagi","swipseumnida","."],"vi":"Chiếc máy này dễ sử dụng.","alts":[]}}
+  ]},
+  {"id":"ko408","title":"Y tế và sức khỏe","desc":"Bệnh, phòng ngừa, lối sống","icon":"의","unit":42,"course":"ko","order":530,"words":[
+   {"id":"ko408-질병","hanzi":"질병","pinyin":"jilbyeong","vi":"bệnh tật","ex":{"tokens":["운동은","질병을","예방합니다","."],"py":["undongeun","jilbyeongeul","yebanghamnida","."],"vi":"Tập thể dục phòng ngừa bệnh tật.","alts":[]}},
+   {"id":"ko408-예방하다","hanzi":"예방하다","pinyin":"yebanghada","vi":"phòng ngừa","ex":{"tokens":["감기를","예방하려면","손을","씻으세요","."],"py":["gamgireul","yebangharyeomyeon","soneul","ssiseuseyo","."],"vi":"Muốn phòng cảm cúm thì hãy rửa tay.","alts":[]}},
+   {"id":"ko408-치료하다","hanzi":"치료하다","pinyin":"chiryohada","vi":"điều trị","ex":{"tokens":["의사가","환자를","치료합니다","."],"py":["uisaga","hwanjareul","chiryohamnida","."],"vi":"Bác sĩ điều trị cho bệnh nhân.","alts":[]}},
+   {"id":"ko408-회복하다","hanzi":"회복하다","pinyin":"hoebokada","vi":"hồi phục","ex":{"tokens":["수술","후에","빨리","회복했습니다","."],"py":["susul","hue","ppalli","hoebokaetseumnida","."],"vi":"Sau phẫu thuật tôi đã hồi phục nhanh.","alts":[]}},
+   {"id":"ko408-영양","hanzi":"영양","pinyin":"yeongyang","vi":"dinh dưỡng","ex":{"tokens":["아이에게는","영양이","중요합니다","."],"py":["aiegeneun","yeongyangi","jungyohamnida","."],"vi":"Dinh dưỡng quan trọng với trẻ nhỏ.","alts":[]}},
+   {"id":"ko408-비만","hanzi":"비만","pinyin":"biman","vi":"béo phì","ex":{"tokens":["비만은","건강에","나쁩니다","."],"py":["bimaneun","geongange","nappeumnida","."],"vi":"Béo phì có hại cho sức khỏe.","alts":[]}},
+   {"id":"ko408-수면","hanzi":"수면","pinyin":"sumyeon","vi":"giấc ngủ","ex":{"tokens":["충분한","수면이","필요합니다","."],"py":["chungbunhan","sumyeoni","piryohamnida","."],"vi":"Cần ngủ đủ giấc.","alts":[]}},
+   {"id":"ko408-피부","hanzi":"피부","pinyin":"pibu","vi":"làn da","ex":{"tokens":["겨울에는","피부가","건조합니다","."],"py":["gyeoureneun","pibuga","geonjohamnida","."],"vi":"Mùa đông da bị khô.","alts":[]}},
+   {"id":"ko408-혈압","hanzi":"혈압","pinyin":"hyeorap","vi":"huyết áp","ex":{"tokens":["아버지는","혈압이","높으십니다","."],"py":["abeojineun","hyeorabi","nopeusimnida","."],"vi":"Bố tôi bị huyết áp cao.","alts":[]}},
+   {"id":"ko408-암","hanzi":"암","pinyin":"am","vi":"ung thư","ex":{"tokens":["암은","일찍","발견해야","합니다","."],"py":["ameun","iljjik","balgyeonhaeya","hamnida","."],"vi":"Ung thư cần được phát hiện sớm.","alts":[]}},
+   {"id":"ko408-보험","hanzi":"보험","pinyin":"boheom","vi":"bảo hiểm","ex":{"tokens":["건강","보험에","가입했습니다","."],"py":["geongang","boheome","gaipaetseumnida","."],"vi":"Tôi đã tham gia bảo hiểm y tế.","alts":[]}},
+   {"id":"ko408-응급실","hanzi":"응급실","pinyin":"eunggeupsil","vi":"phòng cấp cứu","ex":{"tokens":["밤에","아이를","응급실에","데려갔습니다","."],"py":["bame","aireul","eunggeupsire","deryeogatseumnida","."],"vi":"Ban đêm tôi đã đưa con đến phòng cấp cứu.","alts":[]}}
+  ]},
+  {"id":"ko409","title":"Tâm lý","desc":"Thái độ, thói quen, tính cách","icon":"심","unit":42,"course":"ko","order":540,"words":[
+   {"id":"ko409-태도","hanzi":"태도","pinyin":"taedo","vi":"thái độ","ex":{"tokens":["그","학생은","수업","태도가","좋습니다","."],"py":["geu","haksaengeun","sueop","taedoga","joseumnida","."],"vi":"Học sinh đó có thái độ học tập tốt.","alts":[]}},
+   {"id":"ko409-습관","hanzi":"습관","pinyin":"seupgwan","vi":"thói quen","ex":{"tokens":["일찍","일어나는","습관이","있습니다","."],"py":["iljjik","ireonaneun","seupgwani","itseumnida","."],"vi":"Tôi có thói quen dậy sớm.","alts":[]}},
+   {"id":"ko409-자신감","hanzi":"자신감","pinyin":"jasingam","vi":"sự tự tin","ex":{"tokens":["연습을","많이","해서","자신감이","생겼습니다","."],"py":["yeonseubeul","mani","haeseo","jasingami","saenggyeotseumnida","."],"vi":"Luyện tập nhiều nên tôi đã có sự tự tin.","alts":[]}},
+   {"id":"ko409-용기","hanzi":"용기","pinyin":"yonggi","vi":"dũng khí","ex":{"tokens":["용기를","내서","질문했습니다","."],"py":["yonggireul","naeseo","jilmunhaetseumnida","."],"vi":"Tôi đã lấy can đảm để hỏi.","alts":[]}},
+   {"id":"ko409-욕심","hanzi":"욕심","pinyin":"yoksim","vi":"lòng tham","ex":{"tokens":["그","사람은","돈","욕심이","많습니다","."],"py":["geu","sarameun","don","yoksimi","manseumnida","."],"vi":"Người đó tham tiền.","alts":[]}},
+   {"id":"ko409-인내심","hanzi":"인내심","pinyin":"innaesim","vi":"lòng kiên nhẫn","ex":{"tokens":["외국어","공부에는","인내심이","필요합니다","."],"py":["oegugeo","gongbueneun","innaesimi","piryohamnida","."],"vi":"Học ngoại ngữ cần lòng kiên nhẫn.","alts":[]}},
+   {"id":"ko409-적극적","hanzi":"적극적","pinyin":"jeokgeukjeok","vi":"tích cực, chủ động","ex":{"tokens":["그는","모든","일에","적극적입니다","."],"py":["geuneun","modeun","ire","jeokgeukjeogimnida","."],"vi":"Anh ấy chủ động trong mọi việc.","alts":[]}},
+   {"id":"ko409-소극적","hanzi":"소극적","pinyin":"sogeukjeok","vi":"thụ động","ex":{"tokens":["저는","조금","소극적인","성격입니다","."],"py":["jeoneun","jogeum","sogeukjeogin","seonggyeogimnida","."],"vi":"Tôi có tính cách hơi thụ động.","alts":[]}},
+   {"id":"ko409-참다","hanzi":"참다","pinyin":"chamda","vi":"chịu đựng, nhịn","ex":{"tokens":["화가","났지만","참았습니다","."],"py":["hwaga","natjiman","chamatseumnida","."],"vi":"Tôi tức giận nhưng đã nhịn.","alts":[]}},
+   {"id":"ko409-포기하다","hanzi":"포기하다","pinyin":"pogihada","vi":"từ bỏ","ex":{"tokens":["끝까지","포기하지","마세요","."],"py":["kkeutkkaji","pogihaji","maseyo","."],"vi":"Đừng từ bỏ cho đến cuối cùng.","alts":[]}},
+   {"id":"ko409-극복하다","hanzi":"극복하다","pinyin":"geukbokada","vi":"vượt qua","ex":{"tokens":["어려움을","함께","극복했습니다","."],"py":["eoryeoumeul","hamkke","geukbokaetseumnida","."],"vi":"Chúng tôi đã cùng nhau vượt qua khó khăn.","alts":[]}},
+   {"id":"ko409-배려하다","hanzi":"배려하다","pinyin":"baeryeohada","vi":"quan tâm, chu đáo","ex":{"tokens":["다른","사람을","배려해야","합니다","."],"py":["dareun","sarameul","baeryeohaeya","hamnida","."],"vi":"Phải biết quan tâm đến người khác.","alts":[]}}
+  ]},
+  {"id":"ko410","title":"Ngôn ngữ và giao tiếp","desc":"Ý kiến, giải thích, thuyết phục","icon":"말","unit":42,"course":"ko","order":550,"words":[
+   {"id":"ko410-의견","hanzi":"의견","pinyin":"uigyeon","vi":"ý kiến","ex":{"tokens":["제","의견을","말씀드리겠습니다","."],"py":["je","uigyeoneul","malsseumdeurigetseumnida","."],"vi":"Tôi xin trình bày ý kiến của mình.","alts":[]}},
+   {"id":"ko410-설명하다","hanzi":"설명하다","pinyin":"seolmyeonghada","vi":"giải thích","ex":{"tokens":["다시","한번","설명해","주세요","."],"py":["dasi","hanbeon","seolmyeonghae","juseyo","."],"vi":"Xin hãy giải thích lại một lần nữa.","alts":[]}},
+   {"id":"ko410-주장하다","hanzi":"주장하다","pinyin":"jujanghada","vi":"chủ trương, khẳng định","ex":{"tokens":["그는","자기가","옳다고","주장합니다","."],"py":["geuneun","jagiga","oltago","jujanghamnida","."],"vi":"Anh ấy khẳng định rằng mình đúng.","alts":[]}},
+   {"id":"ko410-설득하다","hanzi":"설득하다","pinyin":"seoldeukada","vi":"thuyết phục","ex":{"tokens":["부모님을","설득하기가","어렵습니다","."],"py":["bumonimeul","seoldeukagiga","eoryeopseumnida","."],"vi":"Thuyết phục bố mẹ thật khó.","alts":[]}},
+   {"id":"ko410-동의하다","hanzi":"동의하다","pinyin":"donguihada","vi":"đồng ý","ex":{"tokens":["저도","그","생각에","동의합니다","."],"py":["jeodo","geu","saenggage","donguihamnida","."],"vi":"Tôi cũng đồng ý với suy nghĩ đó.","alts":[]}},
+   {"id":"ko410-반대하다","hanzi":"반대하다","pinyin":"bandaehada","vi":"phản đối","ex":{"tokens":["많은","사람이","그","계획에","반대합니다","."],"py":["maneun","sarami","geu","gyehoege","bandaehamnida","."],"vi":"Nhiều người phản đối kế hoạch đó.","alts":[]}},
+   {"id":"ko410-오해하다","hanzi":"오해하다","pinyin":"ohaehada","vi":"hiểu lầm","ex":{"tokens":["친구가","제","말을","오해했습니다","."],"py":["chinguga","je","mareul","ohaehaetseumnida","."],"vi":"Bạn tôi đã hiểu lầm lời tôi.","alts":[]}},
+   {"id":"ko410-농담","hanzi":"농담","pinyin":"nongdam","vi":"lời nói đùa","ex":{"tokens":["그것은","그냥","농담이었습니다","."],"py":["geugeoseun","geunyang","nongdamieotseumnida","."],"vi":"Đó chỉ là lời nói đùa thôi.","alts":[]}},
+   {"id":"ko410-거짓말","hanzi":"거짓말","pinyin":"geojinmal","vi":"lời nói dối","ex":{"tokens":["아이가","거짓말을","했습니다","."],"py":["aiga","geojinmareul","haetseumnida","."],"vi":"Đứa bé đã nói dối.","alts":[]}},
+   {"id":"ko410-존댓말","hanzi":"존댓말","pinyin":"jondaenmal","vi":"kính ngữ","ex":{"tokens":["어른에게는","존댓말을","씁니다","."],"py":["eoreunegeneun","jondaenmareul","sseumnida","."],"vi":"Với người lớn thì dùng kính ngữ.","alts":[]}},
+   {"id":"ko410-번역하다","hanzi":"번역하다","pinyin":"beonyeokada","vi":"biên dịch","ex":{"tokens":["이","문장을","베트남어로","번역했습니다","."],"py":["i","munjangeul","beteunameoro","beonyeokaetseumnida","."],"vi":"Tôi đã dịch câu này sang tiếng Việt.","alts":[]}},
+   {"id":"ko410-발음","hanzi":"발음","pinyin":"bareum","vi":"phát âm","ex":{"tokens":["한국어","발음이","조금","어렵습니다","."],"py":["hangugeo","bareumi","jogeum","eoryeopseumnida","."],"vi":"Phát âm tiếng Hàn hơi khó.","alts":[]}}
+  ]}
+ ]
+}

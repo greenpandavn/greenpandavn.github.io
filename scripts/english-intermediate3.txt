@@ -211,7 +211,7 @@ diarrhea|tiêu chảy|Drink a lot of water if you have diarrhea.|Hãy uống nhi
 scratch|vết xước; gãi, cào|It is only a scratch.|Chỉ là một vết xước thôi.
 scar|vết sẹo|He has a scar on his chin.|Anh ấy có một vết sẹo ở cằm.
 swelling|chỗ sưng|Ice will bring the swelling down.|Đá lạnh sẽ làm giảm sưng.
-crutches|cặp nạng|He walked on crutches for a month.|Anh ấy đi bằng nạng suốt một tháng.
+sling|băng đeo tay|He wore a sling for a month.|Anh ấy đeo băng treo tay suốt một tháng.
 cast|bột bó (xương gãy); dàn diễn viên|His arm is in a cast.|Tay anh ấy đang bó bột.
 
 @n16|Đi khám bệnh|Khám tổng quát, chụp X-quang, dược sĩ, niềng răng|Clinic
@@ -292,7 +292,7 @@ groom|chú rể|The groom looked very nervous.|Chú rể trông rất hồi hộ
 reception|tiệc chiêu đãi; quầy lễ tân|The reception is at a hotel by the river.|Tiệc cưới được tổ chức ở một khách sạn bên sông.
 veil|khăn voan|Her veil was two meters long.|Khăn voan của cô ấy dài hai mét.
 bouquet|bó hoa|She carried a bouquet of roses.|Cô ấy cầm một bó hoa hồng.
-newlyweds|vợ chồng mới cưới|The newlyweds left for the beach.|Đôi vợ chồng mới cưới đã lên đường ra biển.
+best man|phù rể chính|The best man gave a funny speech.|Phù rể chính đã có một bài phát biểu vui nhộn.
 bridesmaid|phù dâu|Her best friend was her bridesmaid.|Bạn thân nhất của cô ấy làm phù dâu.
 fiancee|vợ chưa cưới|He introduced his fiancee to his parents.|Anh ấy giới thiệu vợ chưa cưới với bố mẹ.
 newlywed|người mới cưới; mới cưới|The newlywed couple moved to Hue.|Cặp vợ chồng mới cưới chuyển đến Huế.

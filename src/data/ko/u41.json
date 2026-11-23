@@ -1,0 +1,77 @@
+{
+ "units": [
+  {"unit":41,"level":4,"title":"Phần 1: Kinh tế và xã hội","desc":"Tiêu dùng, kinh doanh, pháp luật, hành chính, giáo dục","color":"leaf","course":"ko"}
+ ],
+ "lessons": [
+  {"id":"ko401","title":"Kinh tế và tiêu dùng","desc":"Giá cả, thu nhập, chi tiêu","icon":"경","unit":41,"course":"ko","order":460,"words":[
+   {"id":"ko401-경제","hanzi":"경제","pinyin":"gyeongje","vi":"kinh tế","ex":{"tokens":["요즘","경제가","좋지","않습니다","."],"py":["yojeum","gyeongjega","jochi","anseumnida","."],"vi":"Dạo này kinh tế không tốt.","alts":[]}},
+   {"id":"ko401-물가","hanzi":"물가","pinyin":"mulga","vi":"vật giá","ex":{"tokens":["서울은","물가가","매우","비쌉니다","."],"py":["seoureun","mulgaga","maeu","bissamnida","."],"vi":"Vật giá ở Seoul rất đắt đỏ.","alts":[]}},
+   {"id":"ko401-소비","hanzi":"소비","pinyin":"sobi","vi":"tiêu dùng","ex":{"tokens":["젊은","사람들의","소비가","늘었습니다","."],"py":["jeolmeun","saramdeurui","sobiga","neureotseumnida","."],"vi":"Tiêu dùng của giới trẻ đã tăng.","alts":[]}},
+   {"id":"ko401-수입","hanzi":"수입","pinyin":"suip","vi":"thu nhập; nhập khẩu","ex":{"tokens":["한","달","수입이","얼마입니까","?"],"py":["han","dal","suibi","eolmaimnikka","?"],"vi":"Thu nhập một tháng là bao nhiêu?","alts":[]}},
+   {"id":"ko401-지출","hanzi":"지출","pinyin":"jichul","vi":"khoản chi","ex":{"tokens":["이번","달은","지출이","많았습니다","."],"py":["ibeon","dareun","jichuri","manatseumnida","."],"vi":"Tháng này chi tiêu nhiều.","alts":[]}},
+   {"id":"ko401-세금","hanzi":"세금","pinyin":"segeum","vi":"thuế","ex":{"tokens":["모든","국민은","세금을","냅니다","."],"py":["modeun","gungmineun","segeumeul","naemnida","."],"vi":"Mọi người dân đều nộp thuế.","alts":[]}},
+   {"id":"ko401-대출","hanzi":"대출","pinyin":"daechul","vi":"khoản vay","ex":{"tokens":["집을","사려고","대출을","받았습니다","."],"py":["jibeul","saryeogo","daechureul","badatseumnida","."],"vi":"Tôi đã vay tiền để mua nhà.","alts":[]}},
+   {"id":"ko401-이자","hanzi":"이자","pinyin":"ija","vi":"tiền lãi","ex":{"tokens":["은행","이자가","조금","올랐습니다","."],"py":["eunhaeng","ijaga","jogeum","ollatseumnida","."],"vi":"Lãi suất ngân hàng đã tăng một chút.","alts":[]}},
+   {"id":"ko401-투자하다","hanzi":"투자하다","pinyin":"tujahada","vi":"đầu tư","ex":{"tokens":["그","회사에","돈을","투자했습니다","."],"py":["geu","hoesae","doneul","tujahaetseumnida","."],"vi":"Tôi đã đầu tư tiền vào công ty đó.","alts":[]}},
+   {"id":"ko401-절약하다","hanzi":"절약하다","pinyin":"jeoryakada","vi":"tiết kiệm","ex":{"tokens":["생활비를","절약하고","있습니다","."],"py":["saenghwalbireul","jeoryakago","itseumnida","."],"vi":"Tôi đang tiết kiệm chi phí sinh hoạt.","alts":[]}},
+   {"id":"ko401-할인","hanzi":"할인","pinyin":"harin","vi":"giảm giá","ex":{"tokens":["이","가게는","오늘","할인을","합니다","."],"py":["i","gageneun","oneul","harineul","hamnida","."],"vi":"Cửa hàng này hôm nay giảm giá.","alts":[]}},
+   {"id":"ko401-환불하다","hanzi":"환불하다","pinyin":"hwanbulhada","vi":"hoàn tiền","ex":{"tokens":["마음에","안","들면","환불할","수","있습니다","."],"py":["maeume","an","deulmyeon","hwanbulhal","su","itseumnida","."],"vi":"Nếu không ưng thì có thể hoàn tiền.","alts":[]}}
+  ]},
+  {"id":"ko402","title":"Kinh doanh","desc":"Doanh nghiệp, sản phẩm, khách hàng","icon":"업","unit":41,"course":"ko","order":470,"words":[
+   {"id":"ko402-기업","hanzi":"기업","pinyin":"gieop","vi":"doanh nghiệp","ex":{"tokens":["그","기업은","세계에서","유명합니다","."],"py":["geu","gieobeun","segyeeseo","yumyeonghamnida","."],"vi":"Doanh nghiệp đó nổi tiếng trên thế giới.","alts":[]}},
+   {"id":"ko402-제품","hanzi":"제품","pinyin":"jepum","vi":"sản phẩm","ex":{"tokens":["새","제품이","다음","달에","나옵니다","."],"py":["sae","jepumi","daeum","dare","naomnida","."],"vi":"Sản phẩm mới ra mắt vào tháng sau.","alts":[]}},
+   {"id":"ko402-고객","hanzi":"고객","pinyin":"gogaek","vi":"khách hàng","ex":{"tokens":["고객의","의견을","듣습니다","."],"py":["gogaegui","uigyeoneul","deutseumnida","."],"vi":"Chúng tôi lắng nghe ý kiến khách hàng.","alts":[]}},
+   {"id":"ko402-계약","hanzi":"계약","pinyin":"gyeyak","vi":"hợp đồng","ex":{"tokens":["어제","계약을","맺었습니다","."],"py":["eoje","gyeyageul","maejeotseumnida","."],"vi":"Hôm qua chúng tôi đã ký hợp đồng.","alts":[]}},
+   {"id":"ko402-이익","hanzi":"이익","pinyin":"iik","vi":"lợi nhuận","ex":{"tokens":["올해는","이익이","많이","났습니다","."],"py":["olhaeneun","iigi","mani","natseumnida","."],"vi":"Năm nay lợi nhuận nhiều.","alts":[]}},
+   {"id":"ko402-손해","hanzi":"손해","pinyin":"sonhae","vi":"thiệt hại, lỗ","ex":{"tokens":["이번","일로","큰","손해를","봤습니다","."],"py":["ibeon","illo","keun","sonhaereul","bwatseumnida","."],"vi":"Vì việc lần này tôi đã chịu thiệt hại lớn.","alts":[]}},
+   {"id":"ko402-수출","hanzi":"수출","pinyin":"suchul","vi":"xuất khẩu","ex":{"tokens":["한국은","자동차를","많이","수출합니다","."],"py":["hangugeun","jadongchareul","mani","suchulhamnida","."],"vi":"Hàn Quốc xuất khẩu nhiều ô tô.","alts":[]}},
+   {"id":"ko402-생산하다","hanzi":"생산하다","pinyin":"saengsanhada","vi":"sản xuất","ex":{"tokens":["이","공장은","휴대폰을","생산합니다","."],"py":["i","gongjangeun","hyudaeponeul","saengsanhamnida","."],"vi":"Nhà máy này sản xuất điện thoại.","alts":[]}},
+   {"id":"ko402-판매하다","hanzi":"판매하다","pinyin":"panmaehada","vi":"bán hàng","ex":{"tokens":["인터넷으로","옷을","판매합니다","."],"py":["inteoneseuro","oseul","panmaehamnida","."],"vi":"Chúng tôi bán quần áo qua mạng.","alts":[]}},
+   {"id":"ko402-경쟁","hanzi":"경쟁","pinyin":"gyeongjaeng","vi":"cạnh tranh","ex":{"tokens":["회사들","사이의","경쟁이","심합니다","."],"py":["hoesadeul","saiui","gyeongjaengi","simhamnida","."],"vi":"Cạnh tranh giữa các công ty rất gay gắt.","alts":[]}},
+   {"id":"ko402-시장조사","hanzi":"시장조사","pinyin":"sijangjosa","vi":"khảo sát thị trường","ex":{"tokens":["먼저","시장조사를","해야","합니다","."],"py":["meonjeo","sijangjosareul","haeya","hamnida","."],"vi":"Trước tiên phải khảo sát thị trường.","alts":[]}},
+   {"id":"ko402-성장하다","hanzi":"성장하다","pinyin":"seongjanghada","vi":"tăng trưởng, trưởng thành","ex":{"tokens":["회사가","빠르게","성장하고","있습니다","."],"py":["hoesaga","ppareuge","seongjanghago","itseumnida","."],"vi":"Công ty đang tăng trưởng nhanh.","alts":[]}}
+  ]},
+  {"id":"ko403","title":"Pháp luật và trật tự","desc":"Luật, tội phạm, quyền","icon":"법","unit":41,"course":"ko","order":480,"words":[
+   {"id":"ko403-법","hanzi":"법","pinyin":"beop","vi":"pháp luật","ex":{"tokens":["모든","사람은","법을","지켜야","합니다","."],"py":["modeun","sarameun","beobeul","jikyeoya","hamnida","."],"vi":"Mọi người phải tuân thủ pháp luật.","alts":[]}},
+   {"id":"ko403-규칙","hanzi":"규칙","pinyin":"gyuchik","vi":"quy tắc","ex":{"tokens":["학교","규칙을","잘","지킵니다","."],"py":["hakgyo","gyuchigeul","jal","jikimnida","."],"vi":"Tôi chấp hành tốt quy tắc của trường.","alts":[]}},
+   {"id":"ko403-범죄","hanzi":"범죄","pinyin":"beomjoe","vi":"tội phạm","ex":{"tokens":["이","도시는","범죄가","적습니다","."],"py":["i","dosineun","beomjoega","jeokseumnida","."],"vi":"Thành phố này ít tội phạm.","alts":[]}},
+   {"id":"ko403-도둑","hanzi":"도둑","pinyin":"doduk","vi":"kẻ trộm","ex":{"tokens":["밤에","도둑이","집에","들어왔습니다","."],"py":["bame","dodugi","jibe","deureowatseumnida","."],"vi":"Ban đêm kẻ trộm đã vào nhà.","alts":[]}},
+   {"id":"ko403-벌금","hanzi":"벌금","pinyin":"beolgeum","vi":"tiền phạt","ex":{"tokens":["주차를","잘못해서","벌금을","냈습니다","."],"py":["juchareul","jalmotaeseo","beolgeumeul","naetseumnida","."],"vi":"Tôi đỗ xe sai nên đã nộp tiền phạt.","alts":[]}},
+   {"id":"ko403-신고하다","hanzi":"신고하다","pinyin":"singohada","vi":"khai báo, trình báo","ex":{"tokens":["경찰에","사고를","신고했습니다","."],"py":["gyeongchare","sagoreul","singohaetseumnida","."],"vi":"Tôi đã trình báo tai nạn với cảnh sát.","alts":[]}},
+   {"id":"ko403-권리","hanzi":"권리","pinyin":"gwolli","vi":"quyền lợi","ex":{"tokens":["누구나","교육을","받을","권리가","있습니다","."],"py":["nuguna","gyoyugeul","badeul","gwolliga","itseumnida","."],"vi":"Ai cũng có quyền được học hành.","alts":[]}},
+   {"id":"ko403-의무","hanzi":"의무","pinyin":"uimu","vi":"nghĩa vụ","ex":{"tokens":["세금을","내는","것은","국민의","의무입니다","."],"py":["segeumeul","naeneun","geoseun","gungminui","uimuimnida","."],"vi":"Nộp thuế là nghĩa vụ của người dân.","alts":[]}},
+   {"id":"ko403-재판","hanzi":"재판","pinyin":"jaepan","vi":"phiên tòa","ex":{"tokens":["다음","주에","재판이","열립니다","."],"py":["daeum","jue","jaepani","yeollimnida","."],"vi":"Tuần sau phiên tòa được mở.","alts":[]}},
+   {"id":"ko403-변호사","hanzi":"변호사","pinyin":"byeonhosa","vi":"luật sư","ex":{"tokens":["변호사와","먼저","상담했습니다","."],"py":["byeonhosawa","meonjeo","sangdamhaetseumnida","."],"vi":"Tôi đã tư vấn với luật sư trước.","alts":[]}},
+   {"id":"ko403-증거","hanzi":"증거","pinyin":"jeunggeo","vi":"chứng cứ","ex":{"tokens":["아직","증거가","부족합니다","."],"py":["ajik","jeunggeoga","bujokamnida","."],"vi":"Chứng cứ vẫn còn thiếu.","alts":[]}},
+   {"id":"ko403-금지하다","hanzi":"금지하다","pinyin":"geumjihada","vi":"cấm","ex":{"tokens":["여기서는","담배를","금지합니다","."],"py":["yeogiseoneun","dambaereul","geumjihamnida","."],"vi":"Ở đây cấm hút thuốc.","alts":[]}}
+  ]},
+  {"id":"ko404","title":"Chính trị và hành chính","desc":"Chính phủ, bầu cử, chính sách","icon":"정","unit":41,"course":"ko","order":490,"words":[
+   {"id":"ko404-정부","hanzi":"정부","pinyin":"jeongbu","vi":"chính phủ","ex":{"tokens":["정부가","새","계획을","발표했습니다","."],"py":["jeongbuga","sae","gyehoegeul","balpyohaetseumnida","."],"vi":"Chính phủ đã công bố kế hoạch mới.","alts":[]}},
+   {"id":"ko404-대통령","hanzi":"대통령","pinyin":"daetongnyeong","vi":"tổng thống","ex":{"tokens":["대통령이","국민에게","연설했습니다","."],"py":["daetongnyeongi","gungminege","yeonseolhaetseumnida","."],"vi":"Tổng thống đã phát biểu trước người dân.","alts":[]}},
+   {"id":"ko404-국민","hanzi":"국민","pinyin":"gungmin","vi":"người dân, quốc dân","ex":{"tokens":["국민의","생각을","들어야","합니다","."],"py":["gungminui","saenggageul","deureoya","hamnida","."],"vi":"Phải lắng nghe suy nghĩ của người dân.","alts":[]}},
+   {"id":"ko404-선거","hanzi":"선거","pinyin":"seongeo","vi":"bầu cử","ex":{"tokens":["내년에","선거가","있습니다","."],"py":["naenyeone","seongeoga","itseumnida","."],"vi":"Năm sau có bầu cử.","alts":[]}},
+   {"id":"ko404-투표하다","hanzi":"투표하다","pinyin":"tupyohada","vi":"bỏ phiếu","ex":{"tokens":["아침","일찍","투표했습니다","."],"py":["achim","iljjik","tupyohaetseumnida","."],"vi":"Tôi đã đi bỏ phiếu từ sáng sớm.","alts":[]}},
+   {"id":"ko404-정책","hanzi":"정책","pinyin":"jeongchaek","vi":"chính sách","ex":{"tokens":["새","교육","정책이","시작되었습니다","."],"py":["sae","gyoyuk","jeongchaegi","sijakdoeeotseumnida","."],"vi":"Chính sách giáo dục mới đã bắt đầu.","alts":[]}},
+   {"id":"ko404-시민","hanzi":"시민","pinyin":"simin","vi":"công dân, người dân thành phố","ex":{"tokens":["시민들이","공원에","모였습니다","."],"py":["simindeuri","gongwone","moyeotseumnida","."],"vi":"Người dân đã tụ tập ở công viên.","alts":[]}},
+   {"id":"ko404-국가","hanzi":"국가","pinyin":"gukga","vi":"quốc gia","ex":{"tokens":["모든","국가가","이","문제에","관심이","있습니다","."],"py":["modeun","gukgaga","i","munjee","gwansimi","itseumnida","."],"vi":"Mọi quốc gia đều quan tâm đến vấn đề này.","alts":[]}},
+   {"id":"ko404-사회","hanzi":"사회","pinyin":"sahoe","vi":"xã hội","ex":{"tokens":["우리","사회는","빠르게","변하고","있습니다","."],"py":["uri","sahoeneun","ppareuge","byeonhago","itseumnida","."],"vi":"Xã hội của chúng ta đang thay đổi nhanh.","alts":[]}},
+   {"id":"ko404-제도","hanzi":"제도","pinyin":"jedo","vi":"chế độ, hệ thống","ex":{"tokens":["새","제도가","내년부터","시행됩니다","."],"py":["sae","jedoga","naenyeonbuteo","sihaengdoemnida","."],"vi":"Chế độ mới được thi hành từ năm sau.","alts":[]}},
+   {"id":"ko404-회담","hanzi":"회담","pinyin":"hoedam","vi":"hội đàm","ex":{"tokens":["두","나라가","회담을","열었습니다","."],"py":["du","naraga","hoedameul","yeoreotseumnida","."],"vi":"Hai nước đã mở cuộc hội đàm.","alts":[]}},
+   {"id":"ko404-평화","hanzi":"평화","pinyin":"pyeonghwa","vi":"hòa bình","ex":{"tokens":["세계의","평화를","바랍니다","."],"py":["segyeui","pyeonghwareul","baramnida","."],"vi":"Tôi mong thế giới hòa bình.","alts":[]}}
+  ]},
+  {"id":"ko405","title":"Giáo dục","desc":"Dạy học, thi cử, tương lai","icon":"교","unit":41,"course":"ko","order":500,"words":[
+   {"id":"ko405-교육","hanzi":"교육","pinyin":"gyoyuk","vi":"giáo dục","ex":{"tokens":["부모는","아이의","교육에","관심이","많습니다","."],"py":["bumoneun","aiui","gyoyuge","gwansimi","manseumnida","."],"vi":"Cha mẹ rất quan tâm đến việc giáo dục con.","alts":[]}},
+   {"id":"ko405-입학하다","hanzi":"입학하다","pinyin":"ipakada","vi":"nhập học","ex":{"tokens":["동생이","올해","대학교에","입학했습니다","."],"py":["dongsaengi","olhae","daehakgyoe","ipakaetseumnida","."],"vi":"Em tôi năm nay đã vào đại học.","alts":[]}},
+   {"id":"ko405-학원","hanzi":"학원","pinyin":"hagwon","vi":"trung tâm học thêm","ex":{"tokens":["저녁마다","영어","학원에","다닙니다","."],"py":["jeonyeongmada","yeongeo","hagwone","danimnida","."],"vi":"Tối nào tôi cũng đi học ở trung tâm tiếng Anh.","alts":[]}},
+   {"id":"ko405-수능","hanzi":"수능","pinyin":"suneung","vi":"kỳ thi đại học","ex":{"tokens":["다음","달에","수능을","봅니다","."],"py":["daeum","dare","suneungeul","bomnida","."],"vi":"Tháng sau tôi thi đại học.","alts":[]}},
+   {"id":"ko405-지식","hanzi":"지식","pinyin":"jisik","vi":"kiến thức","ex":{"tokens":["책에서","많은","지식을","얻습니다","."],"py":["chaegeseo","maneun","jisigeul","eotseumnida","."],"vi":"Tôi thu được nhiều kiến thức từ sách.","alts":[]}},
+   {"id":"ko405-토론하다","hanzi":"토론하다","pinyin":"toronhada","vi":"thảo luận, tranh luận","ex":{"tokens":["수업","시간에","환경","문제를","토론했습니다","."],"py":["sueop","sigane","hwangyeong","munjereul","toronhaetseumnida","."],"vi":"Trong giờ học chúng tôi đã thảo luận vấn đề môi trường.","alts":[]}},
+   {"id":"ko405-이해하다","hanzi":"이해하다","pinyin":"ihaehada","vi":"hiểu","ex":{"tokens":["선생님의","설명을","이해했습니다","."],"py":["seonsaengnimui","seolmyeongeul","ihaehaetseumnida","."],"vi":"Tôi đã hiểu lời giải thích của thầy.","alts":[]}},
+   {"id":"ko405-집중하다","hanzi":"집중하다","pinyin":"jipjunghada","vi":"tập trung","ex":{"tokens":["시끄러워서","집중할","수","없습니다","."],"py":["sikkeureowoseo","jipjunghal","su","eopseumnida","."],"vi":"Ồn quá nên tôi không thể tập trung.","alts":[]}},
+   {"id":"ko405-외우다","hanzi":"외우다","pinyin":"oeuda","vi":"học thuộc","ex":{"tokens":["매일","단어를","스무","개","외웁니다","."],"py":["maeil","daneoreul","seumu","gae","oeumnida","."],"vi":"Mỗi ngày tôi học thuộc hai mươi từ.","alts":[]}},
+   {"id":"ko405-칭찬하다","hanzi":"칭찬하다","pinyin":"chingchanhada","vi":"khen ngợi","ex":{"tokens":["선생님이","학생을","칭찬했습니다","."],"py":["seonsaengnimi","haksaengeul","chingchanhaetseumnida","."],"vi":"Thầy giáo đã khen học sinh.","alts":[]}},
+   {"id":"ko405-진로","hanzi":"진로","pinyin":"jillo","vi":"con đường tương lai","ex":{"tokens":["진로를","아직","정하지","못했습니다","."],"py":["jilloreul","ajik","jeonghaji","motaetseumnida","."],"vi":"Tôi vẫn chưa định được hướng đi tương lai.","alts":[]}},
+   {"id":"ko405-목표","hanzi":"목표","pinyin":"mokpyo","vi":"mục tiêu","ex":{"tokens":["올해","목표는","한국어","시험","합격입니다","."],"py":["olhae","mokpyoneun","hangugeo","siheom","hapgyeogimnida","."],"vi":"Mục tiêu năm nay là đỗ kỳ thi tiếng Hàn.","alts":[]}}
+  ]}
+ ]
+}
