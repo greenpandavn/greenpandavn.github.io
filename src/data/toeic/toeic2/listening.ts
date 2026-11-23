@@ -14,11 +14,11 @@ Who is in charge of the budget report?|Ms. Tanaka is.|It is on your desk.|By the
 Would you like some help with those boxes?|Yes, thanks. They are heavy.|No, I did not order them.|The boxes are made of wood.|Lời đề nghị giúp đỡ: nhận lời và cảm ơn.
 Why was the flight delayed?|Because of a storm.|For two hours.|At gate twelve.|“Why” hỏi lý do: do bão.
 How often do you back up your files?|Once a week.|On my laptop.|About ten gigabytes.|“How often” hỏi tần suất.
-Have you met the new accountant yet?|Yes, we spoke this morning.|He counts very quickly.|At the bank across the street.|Câu hỏi đã gặp chưa: đã nói chuyện sáng nay.
+Have you spoken to the new accountant yet?|Yes, we talked this morning.|He counts very quickly.|At the bank across the street.|Câu hỏi đã gặp chưa: đã nói chuyện sáng nay.
 Which room is the workshop in?|Room 205.|It starts at two.|About teamwork.|“Which room” cần tên phòng.
 Could you send me the invoice by Friday?|Sure, I will email it tomorrow.|It was sent by sea.|Yes, his voice is very clear.|Lời nhờ: đồng ý và nêu thời điểm gửi.
 Isn't the printer working again?|No, it is still jammed.|I printed twenty copies.|He works in the print shop.|Câu hỏi phủ định: máy vẫn bị kẹt giấy.
-How much does the annual membership cost?|Sixty dollars.|Once a year.|At the front desk.|“How much” hỏi giá.
+How much is the yearly gym membership?|Sixty dollars.|Once a year.|At the front desk.|“How much” hỏi giá.
 Do you want to take a taxi or walk?|Let's walk. It's close.|Yes, I do.|The taxi was yellow.|Câu hỏi lựa chọn: chọn một phương án.
 Whose laptop is this?|It's Kevin's.|It's on the table.|It's a new model.|“Whose” hỏi chủ sở hữu.
 The meeting has been moved to three, hasn't it?|Yes, I got the notice too.|No, I did not move the table.|Three people attended.|Câu hỏi đuôi xác nhận: đúng, tôi cũng nhận được thông báo.

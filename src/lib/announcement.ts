@@ -13,10 +13,10 @@ export const DEFAULT_ANNOUNCEMENT: Announcement = {
   version: APP_VERSION,
   title: `GreenPanda v${APP_VERSION} có gì mới?`,
   body: [
-    '- Bảng xếp hạng cho cả học viên chưa đăng nhập: bạn có tên “Học viên ẩn danh” và đặt được biệt danh trong Hồ sơ.',
-    '- Từ Phần 3 của mỗi khóa học cần đăng nhập để giữ điểm XP, thứ hạng và lịch sử học. Điểm đã có được gộp vào tài khoản.',
-    '- Trò chơi “Đúng hay Sai” có thêm hình vẽ cho từ HSK 1–2.',
-    '- Bảng thông báo này sẽ cho bạn biết mỗi khi có bản cập nhật mới.',
+    '- Thư viện bài thi tiếng Anh mở rộng: thêm TOEIC 2 và TOEIC 3 (mỗi đề 200 câu), bài kiểm tra ngắn 20 câu cho Phần 1–3 và bài kiểm tra trình độ đầu vào (A1–C1).',
+    '- Thêm phần Luyện nghe tiếng Anh (25 bài nghe ngắn) và 5 bộ đề theo cấp độ CEFR A1–C1.',
+    '- Từ vựng tiếng Anh đã vượt mốc 5.000 từ.',
+    '- Tất cả nằm trong mục “Thi thử tiếng Anh” ở trang Học.',
   ].join('\n'),
   updatedAt: 0,
 };

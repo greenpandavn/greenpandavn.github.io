@@ -92,7 +92,6 @@ export default function MockScreen({
       .catch(() => undefined);
     if (startRef.current === "placement") openPaper(PLACEMENT);
     startRef.current = undefined;
-    // eslint-disable-next-line react-hooks/exhaustive-deps
   }, [course]);
   const paperCard = (m: PaperMeta, src?: string, compact = false) => {
     const r = p.mock?.[m.id];

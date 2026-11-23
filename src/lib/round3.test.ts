@@ -63,15 +63,15 @@ describe("v3 content", () => {
       data.ALL_WORDS.length,
     );
   });
-  it("English course: 407 lessons, 4895 words, every lesson builds a full exercise queue", () => {
+  it("English course: 416 lessons, 5003 words, every lesson builds a full exercise queue", () => {
     data.setCourse("en");
-    expect(data.LESSONS.length).toBe(407);
-    expect(data.ALL_WORDS.length).toBe(4895);
+    expect(data.LESSONS.length).toBe(416);
+    expect(data.ALL_WORDS.length).toBe(5003);
     expect(
       data.LESSONS.filter((l) => data.unitLevel(l.unit) === 1).flatMap(
         (l) => l.words,
       ).length,
-    ).toBe(959);
+    ).toBe(983);
     for (const l of data.LESSONS) {
       const q = ex.buildLesson(l.words, {
         difficulty: "normal",
@@ -335,11 +335,11 @@ describe("v4.5: Thi thử tiếng Anh", () => {
       return [ls.length, ls.reduce((n, l) => n + l.words.length, 0)];
     };
     expect([1, 2, 3, 4, 5].map(size)).toEqual([
-      [79, 959],
-      [86, 1032],
-      [89, 1068],
-      [89, 1068],
-      [64, 768],
+      [81, 983],
+      [88, 1056],
+      [91, 1092],
+      [91, 1092],
+      [65, 780],
     ]);
     expect([1, 2, 3, 4, 5].map((lv) => data.levelLabel(lv))).toEqual([
       "Sơ cấp",
@@ -453,7 +453,7 @@ describe("TOEIC mock tests", () => {
   it("TOEIC 1 follows the official format: 200 questions, Parts 1–7, 120 minutes", async () => {
     const { TOEIC_TESTS, toeicTitle } = await import("../data/toeic");
     const T = await import("./toeic");
-    expect(TOEIC_TESTS.map((t) => t.id)).toEqual(["toeic1"]);
+    expect(TOEIC_TESTS.map((t) => t.id)).toEqual(["toeic1", "toeic2", "toeic3"]);
     expect(toeicTitle("toeic1")).toBe("TOEIC 1");
     expect(toeicTitle("en5")).toBeUndefined();
     expect(T.TOEIC_MINUTES).toBe(120);
@@ -586,6 +586,6 @@ describe("v5.2.3 course metadata", () => {
     data.setCourse("zh");
     expect(data.levelWordCount(8, "zh")).toBe(1800);
     expect(data.levelWordCount(9, "zh")).toBe(450);
-    expect(data.levelWordCount(5, "en")).toBe(768);
+    expect(data.levelWordCount(5, "en")).toBe(780);
   });
 });

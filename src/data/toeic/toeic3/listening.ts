@@ -12,7 +12,7 @@ Where should I put these files?|In the cabinet by the door.|Before the end of th
 When is the rent due?|On the first of the month.|Eight hundred dollars.|To the landlord.|“When” – ngày mùng một hằng tháng.
 Who designed the new logo?|An agency in Singapore.|It looks modern.|Last spring.|“Who” – một công ty ở Singapore.
 Why is the lobby so crowded today?|There is a job fair upstairs.|It is on the ground floor.|About fifty people.|“Why” – vì có hội chợ việc làm ở tầng trên.
-How do I reset my password?|Click the link on the login page.|It has eight letters.|I forgot it yesterday.|“How” hỏi cách làm: bấm vào liên kết ở trang đăng nhập.
+How can I change my password?|Click the link on the login page.|It has eight letters.|I forgot it yesterday.|“How” hỏi cách làm: bấm vào liên kết ở trang đăng nhập.
 Would you prefer a window seat or an aisle seat?|An aisle seat, please.|Yes, I would.|The window is open.|Câu hỏi lựa chọn: chọn ghế cạnh lối đi.
 Has the shipment from Osaka arrived?|Not yet. It is due tomorrow.|By ship, I think.|Yes, I have been to Osaka.|Trả lời: chưa, mai mới đến.
 How many people are coming to the workshop?|About thirty.|In Room B.|For two hours.|“How many” hỏi số lượng.
