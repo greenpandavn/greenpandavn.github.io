@@ -61,7 +61,7 @@
   {"unit":556,"level":5,"title":"Phần 59: Mở rộng – Tính từ trang trọng","desc":"Tính từ trang trọng, Danh từ trừu tượng, Triết học và logic","color":"leaf","course":"en"},
   {"unit":557,"level":5,"title":"Phần 60: Mở rộng – Triết học và logic","desc":"Triết học và logic, Ngôn ngữ học, Kinh tế học","color":"sky","course":"en"},
   {"unit":558,"level":5,"title":"Phần 61: Mở rộng – Kinh tế học","desc":"Kinh tế học, Sinh học và di truyền, Kỹ thuật và công trình","color":"grape","course":"en"},
-  {"unit":559,"level":5,"title":"Phần 62: Mở rộng – Từ văn chương","desc":"Từ văn chương","color":"coral","course":"en"}
+  {"unit":559,"level":5,"title":"Phần 62: Mở rộng – Từ văn chương","desc":"Từ văn chương, Từ văn chương nâng cao","color":"coral","course":"en"}
  ],
  "lessons": [
   ["e01","Chào hỏi","Hi",1,12],
@@ -750,6 +750,12 @@
   ["y5163","Từ văn chương 3","Literary",559,13],
   ["y5164","Từ văn chương 4","Literary",559,12],
   ["y5165","Từ văn chương 5","Literary",559,12],
-  ["y5166","Từ văn chương 6","Literary",559,12]
+  ["y5166","Từ văn chương 6","Literary",559,12],
+  ["y5167","Từ văn chương nâng cao 1","Erudite",559,13],
+  ["y5168","Từ văn chương nâng cao 2","Erudite",559,12],
+  ["y5169","Từ văn chương nâng cao 3","Erudite",559,12],
+  ["y5170","Từ văn chương nâng cao 4","Erudite",559,12],
+  ["y5171","Từ văn chương nâng cao 5","Erudite",559,12],
+  ["y5172","Từ văn chương nâng cao 6","Erudite",559,12]
  ]
 }

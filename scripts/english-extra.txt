@@ -4102,7 +4102,7 @@ milling|phay (kim loại); xay xát|Milling cuts a flat surface on the metal.|Ph
 emission control|kiểm soát khí thải|New cars have better emission control.|Xe mới có khả năng kiểm soát khí thải tốt hơn.
 voltage regulator|bộ ổn áp|The voltage regulator protects the fridge.|Bộ ổn áp bảo vệ tủ lạnh.
 
-%559|5|Phần 9: Mở rộng – Từ văn chương|Từ văn chương|coral
+%559|5|Phần 9: Mở rộng – Từ văn chương|Từ văn chương, Từ văn chương nâng cao|coral
 @y5161|Từ văn chương 1|Từ hiếm gặp trong văn học và báo chí chất lượng cao|Literary
 alacrity|sự sốt sắng, nhanh nhẹn|She accepted the offer with alacrity.|Cô ấy sốt sắng nhận lời đề nghị.
 anathema|điều bị ghét cay ghét đắng|Waste is anathema to him.|Lãng phí là điều ông ấy ghét cay ghét đắng.
@@ -4189,3 +4189,88 @@ panegyric|bài tán tụng|He wrote a panegyric to the king.|Ông ấy viết m�
 pellucid|trong suốt; sáng sủa|Her pellucid prose is easy to read.|Lối văn sáng sủa của bà ấy rất dễ đọc.
 pulchritude|vẻ đẹp|The poem praises the pulchritude of the queen.|Bài thơ ca ngợi vẻ đẹp của nữ hoàng.
 vituperate|chửi rủa, lăng mạ|Critics vituperate the director online.|Các nhà phê bình lăng mạ vị đạo diễn trên mạng.
+
+@y5167|Từ văn chương nâng cao 1|Từ hiếm gặp trong văn học và báo chí chất lượng cao|Erudite
+abnegation|sự từ bỏ, hy sinh bản thân|Her life was one of abnegation.|Cuộc đời bà ấy là một đời hy sinh bản thân.
+acquisitive|hám của, thích thu vén|We live in an acquisitive society.|Chúng ta sống trong một xã hội hám của.
+adroit|khéo léo|She is an adroit negotiator.|Cô ấy là một nhà đàm phán khéo léo.
+aplomb|sự điềm tĩnh, tự tin|He handled the questions with aplomb.|Anh ấy xử lý các câu hỏi một cách điềm tĩnh.
+assiduous|cần mẫn|She is an assiduous student.|Cô ấy là một học sinh cần mẫn.
+bellicose|hiếu chiến|The general made a bellicose speech.|Vị tướng có bài phát biểu hiếu chiến.
+blandishment|lời tán tỉnh, dỗ ngọt|No blandishment could change her mind.|Không lời dỗ ngọt nào làm cô ấy đổi ý.
+bombastic|khoa trương|His bombastic style annoys readers.|Lối viết khoa trương của ông ta làm độc giả khó chịu.
+boorish|thô lỗ, cục mịch|His boorish behavior ruined the dinner.|Cách cư xử thô lỗ của anh ta phá hỏng bữa tối.
+churlish|cộc cằn, khiếm nhã|It would be churlish to refuse the gift.|Từ chối món quà thì thật khiếm nhã.
+circumspect|thận trọng|Be circumspect about what you post online.|Hãy thận trọng với những gì bạn đăng lên mạng.
+craven|hèn nhát|It was a craven decision.|Đó là một quyết định hèn nhát.
+deleterious|có hại|Smoking has a deleterious effect on health.|Hút thuốc có tác hại đối với sức khỏe.
+
+@y5168|Từ văn chương nâng cao 2|Từ hiếm gặp trong văn học và báo chí chất lượng cao|Erudite
+demagogue|kẻ mị dân|The demagogue promised easy answers.|Kẻ mị dân hứa hẹn những lời giải dễ dàng.
+diatribe|bài công kích gay gắt|He launched into a diatribe against the press.|Ông ta tuôn ra một tràng công kích báo chí.
+dilettante|kẻ tài tử, làm chơi|He is a dilettante, not a serious painter.|Anh ta chỉ vẽ chơi, không phải họa sĩ nghiêm túc.
+disingenuous|không thành thật|It is disingenuous to say you did not know.|Nói rằng bạn không biết là không thành thật.
+dissemble|che giấu, giả vờ|He did not try to dissemble his anger.|Anh ấy không cố che giấu cơn giận.
+doggerel|thơ con cóc|He wrote some doggerel for her birthday.|Anh ấy viết mấy câu thơ con cóc mừng sinh nhật cô ấy.
+effrontery|sự trơ tráo|He had the effrontery to blame us.|Hắn trơ tráo đổ lỗi cho chúng tôi.
+enervate|làm suy nhược|Long hot days enervate the workers.|Những ngày dài nóng bức làm công nhân suy nhược.
+exculpate|giải tội, minh oan|The video may exculpate the driver.|Đoạn video có thể minh oan cho người tài xế.
+execrable|tồi tệ, đáng ghét|The food was execrable.|Đồ ăn tồi tệ không chịu nổi.
+extirpate|nhổ tận gốc, trừ tiệt|They vowed to extirpate corruption.|Họ thề sẽ trừ tiệt tham nhũng.
+fatuous|ngớ ngẩn|He made a fatuous remark.|Anh ta đưa ra một nhận xét ngớ ngẩn.
+
+@y5169|Từ văn chương nâng cao 3|Từ hiếm gặp trong văn học và báo chí chất lượng cao|Erudite
+forbearance|sự nhẫn nại, khoan dung|Thank you for your forbearance.|Cảm ơn sự nhẫn nại của bạn.
+fulsome|(khen) quá lời|He offered fulsome praise.|Ông ấy khen quá lời.
+grandiloquent|khoa trương, đao to búa lớn|The mayor gave a grandiloquent speech.|Thị trưởng có bài phát biểu đao to búa lớn.
+harangue|bài diễn thuyết hùng hổ; lên lớp|The coach began to harangue the players.|Huấn luyện viên bắt đầu lên lớp các cầu thủ.
+histrionic|làm quá, như đóng kịch|Her histrionic reaction surprised us.|Phản ứng làm quá của cô ấy khiến chúng tôi ngạc nhiên.
+ignominious|nhục nhã|The team suffered an ignominious defeat.|Đội bóng chịu một thất bại nhục nhã.
+imperious|hống hách|She gave an imperious wave of the hand.|Bà ta vẫy tay hống hách.
+impugn|công kích, nghi ngờ (tính trung thực)|I do not impugn his motives.|Tôi không nghi ngờ động cơ của anh ấy.
+inimical|có hại, thù địch|The policy is inimical to growth.|Chính sách này có hại cho tăng trưởng.
+inscrutable|khó dò, bí hiểm|His face was inscrutable.|Khuôn mặt anh ấy thật khó dò.
+invective|lời công kích, chửi rủa|The debate ended in a stream of invective.|Cuộc tranh luận kết thúc bằng một tràng chửi rủa.
+irascible|nóng tính|The irascible old man shouted at the children.|Ông già nóng tính quát bọn trẻ.
+
+@y5170|Từ văn chương nâng cao 4|Từ hiếm gặp trong văn học và báo chí chất lượng cao|Erudite
+jejune|ngây ngô, nhạt nhẽo|The essay is full of jejune ideas.|Bài luận đầy những ý tưởng ngây ngô.
+laudatory|có tính khen ngợi|The book received laudatory reviews.|Cuốn sách nhận được những bài bình khen ngợi.
+licentious|phóng đãng|The emperor led a licentious life.|Hoàng đế sống một cuộc đời phóng đãng.
+maudlin|ủy mị, sướt mướt|He gets maudlin after a few drinks.|Uống vài ly là anh ấy trở nên ủy mị.
+mercurial|thất thường, hay thay đổi|She has a mercurial temper.|Cô ấy có tính khí thất thường.
+misanthrope|kẻ ghét đời, ghét người|The old misanthrope lived alone.|Lão ghét đời sống một mình.
+nascent|mới hình thành|The nascent industry needs support.|Ngành công nghiệp non trẻ cần được hỗ trợ.
+noisome|hôi thối, độc hại|A noisome smell came from the drain.|Một mùi hôi thối bốc lên từ cống.
+obstreperous|ồn ào, khó bảo|The obstreperous crowd would not listen.|Đám đông ồn ào không chịu nghe.
+officious|hay xen vào, hách dịch|An officious clerk asked for more papers.|Một nhân viên hách dịch đòi thêm giấy tờ.
+opprobrium|sự chê trách, điều ô nhục|The decision drew public opprobrium.|Quyết định đó hứng chịu sự chê trách của công chúng.
+palliate|làm dịu tạm thời|These drugs only palliate the symptoms.|Những thuốc này chỉ làm dịu triệu chứng.
+
+@y5171|Từ văn chương nâng cao 5|Từ hiếm gặp trong văn học và báo chí chất lượng cao|Erudite
+pariah|kẻ bị ruồng bỏ|After the scandal he became a pariah.|Sau vụ bê bối, ông ta trở thành kẻ bị ruồng bỏ.
+peremptory|dứt khoát, hách dịch|She gave a peremptory order.|Bà ấy ra một mệnh lệnh dứt khoát.
+pithy|súc tích|He is known for his pithy remarks.|Ông ấy nổi tiếng với những nhận xét súc tích.
+portentous|báo điềm; trịnh trọng quá mức|There was a portentous silence.|Có một sự im lặng báo điềm chẳng lành.
+profligate|hoang phí|The profligate prince spent the family fortune.|Vị hoàng tử hoang phí tiêu hết gia sản.
+propitious|thuận lợi|It was a propitious moment to invest.|Đó là thời điểm thuận lợi để đầu tư.
+punctilious|kỹ tính, chi li|He is punctilious about manners.|Ông ấy rất chi li về phép tắc.
+rapacious|tham lam, tham tàn|The rapacious landlord raised the rent again.|Tên chủ nhà tham lam lại tăng tiền thuê.
+rarefied|cao siêu, xa rời số đông|He lives in the rarefied world of opera.|Ông ấy sống trong thế giới cao siêu của opera.
+repartee|lời đối đáp sắc sảo|She is famous for her quick repartee.|Cô ấy nổi tiếng đối đáp nhanh và sắc sảo.
+salubrious|lành mạnh, tốt cho sức khỏe|They moved to a more salubrious area.|Họ chuyển đến một khu trong lành hơn.
+solicitous|ân cần, quan tâm|The nurse was solicitous about his comfort.|Cô y tá ân cần lo cho ông ấy được thoải mái.
+
+@y5172|Từ văn chương nâng cao 6|Từ hiếm gặp trong văn học và báo chí chất lượng cao|Erudite
+sonorous|vang, trầm ấm|He read the poem in a sonorous voice.|Ông ấy đọc bài thơ bằng giọng trầm vang.
+strident|the thé; gay gắt|Her strident voice filled the room.|Giọng the thé của bà ấy vang khắp phòng.
+stultify|làm cùn mòn, làm mụ mẫm|Dull lessons stultify young minds.|Những bài học tẻ nhạt làm mụ mẫm đầu óc trẻ.
+tirade|tràng đả kích|He delivered a tirade against the referee.|Anh ta tuôn một tràng đả kích trọng tài.
+tractable|dễ bảo|The horse is gentle and tractable.|Con ngựa hiền và dễ bảo.
+trenchant|sắc bén|She wrote a trenchant review.|Cô ấy viết một bài phê bình sắc bén.
+umbrage|sự phật ý|He took umbrage at the joke.|Anh ấy phật ý vì câu đùa.
+urbane|lịch lãm|The urbane host greeted every guest.|Vị chủ nhà lịch lãm chào từng vị khách.
+vacuous|trống rỗng, ngớ ngẩn|He gave a vacuous smile.|Anh ta nở một nụ cười trống rỗng.
+venal|dễ mua chuộc|The venal official took the money.|Viên quan chức dễ mua chuộc đã nhận tiền.
+verisimilitude|tính chân thực|The details give the novel verisimilitude.|Các chi tiết làm cuốn tiểu thuyết thêm chân thực.
+contumacious|ương ngạnh, chống đối|The contumacious witness refused to answer.|Nhân chứng ương ngạnh từ chối trả lời.
