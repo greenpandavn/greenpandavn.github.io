@@ -60,7 +60,8 @@
   {"unit":555,"level":5,"title":"Phần 58: Mở rộng – Động từ trang trọng","desc":"Động từ trang trọng, Tính từ trang trọng","color":"sun","course":"en"},
   {"unit":556,"level":5,"title":"Phần 59: Mở rộng – Tính từ trang trọng","desc":"Tính từ trang trọng, Danh từ trừu tượng, Triết học và logic","color":"leaf","course":"en"},
   {"unit":557,"level":5,"title":"Phần 60: Mở rộng – Triết học và logic","desc":"Triết học và logic, Ngôn ngữ học, Kinh tế học","color":"sky","course":"en"},
-  {"unit":558,"level":5,"title":"Phần 61: Mở rộng – Kinh tế học","desc":"Kinh tế học, Sinh học và di truyền, Kỹ thuật và công trình","color":"grape","course":"en"}
+  {"unit":558,"level":5,"title":"Phần 61: Mở rộng – Kinh tế học","desc":"Kinh tế học, Sinh học và di truyền, Kỹ thuật và công trình","color":"grape","course":"en"},
+  {"unit":559,"level":5,"title":"Phần 62: Mở rộng – Từ văn chương","desc":"Từ văn chương","color":"coral","course":"en"}
  ],
  "lessons": [
   ["e01","Chào hỏi","Hi",1,12],
@@ -743,6 +744,12 @@
   ["y5147","Kỹ thuật và công trình 1","Engineer",558,14],
   ["y5148","Kỹ thuật và công trình 2","Engineer",558,13],
   ["y5149","Kỹ thuật và công trình 3","Engineer",558,13],
-  ["y5150","Kỹ thuật và công trình 4","Engineer",558,13]
+  ["y5150","Kỹ thuật và công trình 4","Engineer",558,13],
+  ["y5161","Từ văn chương 1","Literary",559,13],
+  ["y5162","Từ văn chương 2","Literary",559,13],
+  ["y5163","Từ văn chương 3","Literary",559,13],
+  ["y5164","Từ văn chương 4","Literary",559,12],
+  ["y5165","Từ văn chương 5","Literary",559,12],
+  ["y5166","Từ văn chương 6","Literary",559,12]
  ]
 }
