@@ -2192,7 +2192,8 @@ placid|điềm tĩnh, yên ả|The lake was placid in the morning.|Mặt hồ y�
 precocious|sớm phát triển, già dặn trước tuổi|She is a precocious child.|Con bé là một đứa trẻ già dặn trước tuổi.
 pretentious|khoe mẽ, ra vẻ|The restaurant is too pretentious.|Nhà hàng đó quá khoe mẽ.
 
-@y5091|Tính từ trang trọng 9|Tính từ dùng trong văn viết, báo chí, học thuật|Refined
+%556|5|Phần 6: Mở rộng – Tính từ trang trọng|Tính từ trang trọng, Danh từ trừu tượng|leaf
+@y5101|Tính từ trang trọng 9|Tính từ dùng trong văn viết, báo chí, học thuật|Refined
 prodigious|phi thường, to lớn|He has a prodigious memory.|Anh ấy có trí nhớ phi thường.
 pungent|hăng, nồng (mùi, vị)|Durian has a pungent smell.|Sầu riêng có mùi nồng.
 querulous|hay cằn nhằn|The querulous guest complained again.|Vị khách hay cằn nhằn lại phàn nàn.
@@ -2207,7 +2208,7 @@ salient|nổi bật, chính yếu|He listed the salient points.|Anh ấy liệt 
 sanguine|lạc quan|She is sanguine about the future.|Cô ấy lạc quan về tương lai.
 sedentary|ít vận động, ngồi nhiều|A sedentary job is bad for your back.|Công việc ngồi nhiều có hại cho lưng.
 
-@y5092|Tính từ trang trọng 10|Tính từ dùng trong văn viết, báo chí, học thuật|Refined
+@y5102|Tính từ trang trọng 10|Tính từ dùng trong văn viết, báo chí, học thuật|Refined
 shrewd|sắc sảo, khôn ngoan|She is a shrewd businesswoman.|Bà ấy là một nữ doanh nhân sắc sảo.
 spurious|giả mạo, không xác thực|The claim is spurious.|Lời khẳng định đó là không xác thực.
 squalid|bẩn thỉu, tồi tàn|They lived in a squalid room.|Họ sống trong một căn phòng tồi tàn.
@@ -2222,7 +2223,7 @@ tacit|ngầm, không nói ra|We had a tacit agreement.|Chúng tôi có một th�
 taciturn|lầm lì, ít nói|Her father is a taciturn man.|Bố cô ấy là người lầm lì ít nói.
 tenacious|bền bỉ, kiên trì|She is a tenacious player.|Cô ấy là một vận động viên bền bỉ.
 
-@y5093|Tính từ trang trọng 11|Tính từ dùng trong văn viết, báo chí, học thuật|Refined
+@y5103|Tính từ trang trọng 11|Tính từ dùng trong văn viết, báo chí, học thuật|Refined
 trite|sáo mòn, nhàm|The ending was trite.|Cái kết thật sáo mòn.
 unscrupulous|vô lương tâm|An unscrupulous dealer sold him a bad car.|Một tay buôn vô lương tâm bán cho anh ấy một chiếc xe hỏng.
 unwieldy|cồng kềnh, khó dùng|The box is heavy and unwieldy.|Chiếc hộp nặng và cồng kềnh.
@@ -2235,3 +2236,83 @@ voracious|phàm ăn; ham mê|She is a voracious reader.|Cô ấy là người ha
 wary|thận trọng, dè chừng|Be wary of strangers online.|Hãy dè chừng người lạ trên mạng.
 whimsical|ngộ nghĩnh, kỳ quặc đáng yêu|The book has whimsical drawings.|Cuốn sách có những hình vẽ ngộ nghĩnh.
 zealous|hăng hái, sốt sắng|He is a zealous supporter of the cause.|Anh ấy là người ủng hộ sốt sắng cho sự nghiệp đó.
+
+@y5104|Danh từ trừu tượng 1|Phẩm chất, trạng thái, khái niệm|Ideas
+acumen|sự nhạy bén|She has great business acumen.|Cô ấy có sự nhạy bén kinh doanh tuyệt vời.
+adversity|nghịch cảnh|He stayed cheerful in adversity.|Anh ấy vẫn vui vẻ trong nghịch cảnh.
+affinity|sự gần gũi, đồng cảm|She feels an affinity with animals.|Cô ấy thấy gần gũi với động vật.
+animosity|sự thù địch|There is animosity between the two families.|Có sự thù địch giữa hai gia đình.
+antipathy|ác cảm|He has a deep antipathy to cities.|Anh ấy có ác cảm sâu sắc với thành phố.
+audacity|sự cả gan, táo bạo|He had the audacity to ask for more money.|Anh ta cả gan đòi thêm tiền.
+aversion|sự ghét, ác cảm|I have an aversion to cold weather.|Tôi rất ghét thời tiết lạnh.
+benevolence|lòng nhân từ|The king was known for his benevolence.|Nhà vua nổi tiếng về lòng nhân từ.
+bigotry|sự cố chấp, kỳ thị mù quáng|We must fight bigotry in every form.|Chúng ta phải chống lại sự kỳ thị dưới mọi hình thức.
+brevity|sự ngắn gọn|I admire the brevity of his speech.|Tôi khâm phục sự ngắn gọn trong bài nói của anh ấy.
+clemency|sự khoan hồng|The prisoner asked for clemency.|Tù nhân xin được khoan hồng.
+coercion|sự ép buộc|He signed the paper under coercion.|Anh ấy ký giấy do bị ép buộc.
+contempt|sự khinh miệt|She spoke of him with contempt.|Cô ấy nói về anh ta với sự khinh miệt.
+credence|sự tin tưởng, độ tin cậy|I give no credence to the rumor.|Tôi không tin lời đồn đó chút nào.
+
+@y5105|Danh từ trừu tượng 2|Phẩm chất, trạng thái, khái niệm|Ideas
+culmination|đỉnh điểm, kết quả cuối cùng|The prize was the culmination of years of work.|Giải thưởng là kết quả của nhiều năm lao động.
+cynicism|sự hoài nghi, yếm thế|His cynicism makes him hard to work with.|Thói hoài nghi khiến anh ta khó làm việc cùng.
+decorum|sự đứng đắn, phép lịch sự|Please behave with decorum.|Xin hãy cư xử cho đứng đắn.
+deference|sự tôn kính, chiều theo|He spoke with deference to the old man.|Anh ấy nói năng kính cẩn với ông cụ.
+demeanor|thái độ, cử chỉ|She has a calm demeanor.|Cô ấy có thái độ điềm tĩnh.
+despondency|sự chán nản, tuyệt vọng|He fell into despondency after losing his job.|Anh ấy rơi vào chán nản sau khi mất việc.
+dichotomy|sự phân đôi, lưỡng phân|There is a dichotomy between theory and practice.|Có sự tách đôi giữa lý thuyết và thực hành.
+discord|sự bất hòa|Money caused discord in the family.|Tiền bạc gây bất hòa trong gia đình.
+eloquence|tài hùng biện|Her eloquence moved the audience.|Tài hùng biện của bà ấy làm khán giả xúc động.
+enmity|sự thù hằn|The old enmity between them never ended.|Mối thù hằn cũ giữa họ không bao giờ dứt.
+euphoria|niềm hưng phấn|The team felt euphoria after the win.|Cả đội ngập trong hưng phấn sau chiến thắng.
+fervor|sự nhiệt thành|He spoke with great fervor.|Anh ấy nói với sự nhiệt thành lớn.
+fidelity|lòng chung thủy; độ trung thực|The film shows great fidelity to the book.|Bộ phim rất trung thành với nguyên tác.
+futility|sự vô ích|She saw the futility of arguing.|Cô ấy thấy cãi nhau là vô ích.
+
+@y5106|Danh từ trừu tượng 3|Phẩm chất, trạng thái, khái niệm|Ideas
+guile|sự xảo quyệt|He won by guile, not strength.|Hắn thắng bằng mưu mẹo chứ không phải sức mạnh.
+hegemony|quyền bá chủ|The empire lost its hegemony.|Đế quốc đánh mất quyền bá chủ.
+impunity|sự không bị trừng phạt|The gangs act with impunity.|Các băng nhóm hoành hành mà không bị trừng phạt.
+indifference|sự thờ ơ|His indifference hurt her.|Sự thờ ơ của anh ấy làm cô ấy tổn thương.
+indignation|sự phẫn nộ|The decision caused public indignation.|Quyết định đó gây phẫn nộ trong công chúng.
+ingenuity|sự khéo léo, tài sáng tạo|The problem needs some ingenuity.|Vấn đề này cần chút tài sáng tạo.
+jubilation|sự hân hoan|There was jubilation in the streets.|Niềm hân hoan tràn ngập đường phố.
+lethargy|sự uể oải|The heat caused a feeling of lethargy.|Cái nóng gây cảm giác uể oải.
+longevity|tuổi thọ, sự sống lâu|Good food helps longevity.|Ăn uống tốt giúp sống lâu.
+magnitude|độ lớn, tầm quan trọng|They did not see the magnitude of the problem.|Họ không thấy được tầm lớn của vấn đề.
+misnomer|tên gọi sai|Calling it a village is a misnomer.|Gọi nó là làng là gọi sai tên.
+oblivion|sự lãng quên|The singer's name fell into oblivion.|Tên tuổi ca sĩ rơi vào quên lãng.
+panacea|thuốc chữa bách bệnh|Technology is not a panacea.|Công nghệ không phải là thuốc chữa bách bệnh.
+paradigm|mô hình, hệ hình|The discovery created a new paradigm.|Phát hiện này tạo ra một mô hình mới.
+
+@y5107|Danh từ trừu tượng 4|Phẩm chất, trạng thái, khái niệm|Ideas
+parity|sự ngang bằng|Women demand pay parity.|Phụ nữ đòi sự ngang bằng về lương.
+penchant|sự ưa thích|He has a penchant for spicy food.|Anh ấy đặc biệt thích đồ cay.
+predicament|tình thế khó khăn|We are in a difficult predicament.|Chúng tôi đang ở trong tình thế khó khăn.
+propensity|khuynh hướng|He has a propensity to exaggerate.|Anh ấy có khuynh hướng nói quá.
+rancor|sự hiềm thù, oán giận|She spoke without rancor.|Cô ấy nói mà không chút oán giận.
+rationale|lý do căn bản, cơ sở lý luận|What is the rationale for this rule?|Cơ sở của quy định này là gì?
+reciprocity|sự có đi có lại|Trade depends on reciprocity.|Thương mại dựa trên nguyên tắc có đi có lại.
+remorse|sự ăn năn|He showed no remorse.|Anh ta không tỏ ra ăn năn chút nào.
+reprieve|sự hoãn thi hành, tạm tha|The rain gave us a reprieve from the heat.|Cơn mưa cho chúng tôi tạm thoát cái nóng.
+respite|sự nghỉ ngơi tạm thời|We worked all day without respite.|Chúng tôi làm cả ngày không nghỉ.
+reverence|sự tôn kính|They bowed in reverence.|Họ cúi đầu tôn kính.
+rigor|sự nghiêm ngặt, chặt chẽ|The study lacks rigor.|Nghiên cứu này thiếu chặt chẽ.
+semblance|vẻ bề ngoài, dáng vẻ|Life returned to a semblance of order.|Cuộc sống trở lại có vẻ trật tự.
+serenity|sự thanh thản, yên bình|I love the serenity of the lake.|Tôi yêu sự yên bình của hồ.
+
+@y5108|Danh từ trừu tượng 5|Phẩm chất, trạng thái, khái niệm|Ideas
+tenet|nguyên lý, giáo lý|Honesty is a tenet of our company.|Trung thực là một nguyên tắc của công ty chúng tôi.
+trepidation|sự lo sợ, bồn chồn|She opened the letter with trepidation.|Cô ấy mở lá thư trong lo sợ.
+veracity|tính xác thực|We doubt the veracity of his story.|Chúng tôi nghi ngờ tính xác thực của câu chuyện anh ta kể.
+vestige|dấu tích còn sót lại|The wall is the last vestige of the old city.|Bức tường là dấu tích cuối cùng của thành cổ.
+vigilance|sự cảnh giác|Safety requires constant vigilance.|An toàn đòi hỏi sự cảnh giác thường xuyên.
+vitality|sức sống|She is full of vitality.|Cô ấy tràn đầy sức sống.
+volition|ý muốn, ý chí tự nguyện|He left of his own volition.|Anh ấy tự nguyện ra đi.
+caprice|tính thất thường, ý thích bất chợt|The rule changed at the caprice of the boss.|Quy định thay đổi theo ý thích bất chợt của sếp.
+compunction|sự áy náy, day dứt|He lied without compunction.|Anh ta nói dối mà không chút áy náy.
+credulity|tính cả tin|The trick relies on the credulity of the audience.|Trò này dựa vào tính cả tin của khán giả.
+expediency|sự tiện lợi trước mắt|He acted out of expediency, not principle.|Anh ta hành động vì cái lợi trước mắt chứ không vì nguyên tắc.
+idiosyncrasy|nét riêng, thói quen khác người|Talking to plants is her idiosyncrasy.|Nói chuyện với cây là thói quen khác người của cô ấy.
+temerity|sự liều lĩnh, cả gan|He had the temerity to interrupt the judge.|Anh ta cả gan ngắt lời thẩm phán.
+ubiquity|sự có mặt khắp nơi|The ubiquity of phones has changed how we live.|Việc điện thoại có mặt khắp nơi đã thay đổi cách ta sống.

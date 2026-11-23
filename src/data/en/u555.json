@@ -152,50 +152,6 @@
    {"id":"y5090-placid","hanzi":"placid","pinyin":"","vi":"điềm tĩnh, yên ả","ex":{"tokens":["The","lake","was","placid","in","the","morning","."],"py":["","","","","","","","."],"vi":"Mặt hồ yên ả vào buổi sáng.","alts":[]}},
    {"id":"y5090-precocious","hanzi":"precocious","pinyin":"","vi":"sớm phát triển, già dặn trước tuổi","ex":{"tokens":["She","is","a","precocious","child","."],"py":["","","","","","."],"vi":"Con bé là một đứa trẻ già dặn trước tuổi.","alts":[]}},
    {"id":"y5090-pretentious","hanzi":"pretentious","pinyin":"","vi":"khoe mẽ, ra vẻ","ex":{"tokens":["The","restaurant","is","too","pretentious","."],"py":["","","","","","."],"vi":"Nhà hàng đó quá khoe mẽ.","alts":[]}}
-  ]},
-  {"id":"y5091","title":"Tính từ trang trọng 9","desc":"Tính từ dùng trong văn viết, báo chí, học thuật","icon":"Refined","unit":555,"course":"en","order":5580,"words":[
-   {"id":"y5091-prodigious","hanzi":"prodigious","pinyin":"","vi":"phi thường, to lớn","ex":{"tokens":["He","has","a","prodigious","memory","."],"py":["","","","","","."],"vi":"Anh ấy có trí nhớ phi thường.","alts":[]}},
-   {"id":"y5091-pungent","hanzi":"pungent","pinyin":"","vi":"hăng, nồng (mùi, vị)","ex":{"tokens":["Durian","has","a","pungent","smell","."],"py":["","","","","","."],"vi":"Sầu riêng có mùi nồng.","alts":[]}},
-   {"id":"y5091-querulous","hanzi":"querulous","pinyin":"","vi":"hay cằn nhằn","ex":{"tokens":["The","querulous","guest","complained","again","."],"py":["","","","","","."],"vi":"Vị khách hay cằn nhằn lại phàn nàn.","alts":[]}},
-   {"id":"y5091-rampant","hanzi":"rampant","pinyin":"","vi":"lan tràn","ex":{"tokens":["Corruption","is","rampant","there","."],"py":["","","","","."],"vi":"Tham nhũng lan tràn ở đó.","alts":[]}},
-   {"id":"y5091-rancid","hanzi":"rancid","pinyin":"","vi":"ôi, khét (dầu mỡ)","ex":{"tokens":["The","butter","has","gone","rancid","."],"py":["","","","","","."],"vi":"Bơ đã bị ôi.","alts":[]}},
-   {"id":"y5091-reclusive","hanzi":"reclusive","pinyin":"","vi":"sống ẩn dật","ex":{"tokens":["The","reclusive","writer","never","gives","interviews","."],"py":["","","","","","","."],"vi":"Nhà văn sống ẩn dật không bao giờ trả lời phỏng vấn.","alts":[]}},
-   {"id":"y5091-reticent","hanzi":"reticent","pinyin":"","vi":"kín tiếng, ít nói","ex":{"tokens":["He","is","reticent","about","his","past","."],"py":["","","","","","","."],"vi":"Anh ấy kín tiếng về quá khứ của mình.","alts":[]}},
-   {"id":"y5091-robust","hanzi":"robust","pinyin":"","vi":"mạnh mẽ, vững chắc","ex":{"tokens":["The","economy","is","robust","."],"py":["","","","","."],"vi":"Nền kinh tế vững mạnh.","alts":[]}},
-   {"id":"y5091-rudimentary","hanzi":"rudimentary","pinyin":"","vi":"sơ đẳng, thô sơ","ex":{"tokens":["I","have","a","rudimentary","knowledge","of","French","."],"py":["","","","","","","","."],"vi":"Tôi có kiến thức sơ đẳng về tiếng Pháp.","alts":[]}},
-   {"id":"y5091-sagacious","hanzi":"sagacious","pinyin":"","vi":"sáng suốt, khôn ngoan","ex":{"tokens":["She","gave","sagacious","advice","."],"py":["","","","","."],"vi":"Bà ấy đưa ra lời khuyên sáng suốt.","alts":[]}},
-   {"id":"y5091-salient","hanzi":"salient","pinyin":"","vi":"nổi bật, chính yếu","ex":{"tokens":["He","listed","the","salient","points","."],"py":["","","","","","."],"vi":"Anh ấy liệt kê những điểm chính.","alts":[]}},
-   {"id":"y5091-sanguine","hanzi":"sanguine","pinyin":"","vi":"lạc quan","ex":{"tokens":["She","is","sanguine","about","the","future","."],"py":["","","","","","","."],"vi":"Cô ấy lạc quan về tương lai.","alts":[]}},
-   {"id":"y5091-sedentary","hanzi":"sedentary","pinyin":"","vi":"ít vận động, ngồi nhiều","ex":{"tokens":["A","sedentary","job","is","bad","for","your","back","."],"py":["","","","","","","","","."],"vi":"Công việc ngồi nhiều có hại cho lưng.","alts":[]}}
-  ]},
-  {"id":"y5092","title":"Tính từ trang trọng 10","desc":"Tính từ dùng trong văn viết, báo chí, học thuật","icon":"Refined","unit":555,"course":"en","order":5590,"words":[
-   {"id":"y5092-shrewd","hanzi":"shrewd","pinyin":"","vi":"sắc sảo, khôn ngoan","ex":{"tokens":["She","is","a","shrewd","businesswoman","."],"py":["","","","","","."],"vi":"Bà ấy là một nữ doanh nhân sắc sảo.","alts":[]}},
-   {"id":"y5092-spurious","hanzi":"spurious","pinyin":"","vi":"giả mạo, không xác thực","ex":{"tokens":["The","claim","is","spurious","."],"py":["","","","","."],"vi":"Lời khẳng định đó là không xác thực.","alts":[]}},
-   {"id":"y5092-squalid","hanzi":"squalid","pinyin":"","vi":"bẩn thỉu, tồi tàn","ex":{"tokens":["They","lived","in","a","squalid","room","."],"py":["","","","","","","."],"vi":"Họ sống trong một căn phòng tồi tàn.","alts":[]}},
-   {"id":"y5092-stagnant","hanzi":"stagnant","pinyin":"","vi":"tù đọng; trì trệ","ex":{"tokens":["Mosquitoes","breed","in","stagnant","water","."],"py":["","","","","","."],"vi":"Muỗi sinh sản trong nước tù đọng.","alts":[]}},
-   {"id":"y5092-staunch","hanzi":"staunch","pinyin":"","vi":"trung thành, kiên định","ex":{"tokens":["He","is","a","staunch","friend","."],"py":["","","","","","."],"vi":"Anh ấy là một người bạn kiên định.","alts":[]}},
-   {"id":"y5092-stoic","hanzi":"stoic","pinyin":"","vi":"kiên cường chịu đựng","ex":{"tokens":["She","remained","stoic","through","the","pain","."],"py":["","","","","","","."],"vi":"Cô ấy vẫn kiên cường chịu đựng cơn đau.","alts":[]}},
-   {"id":"y5092-sublime","hanzi":"sublime","pinyin":"","vi":"tuyệt vời, siêu phàm","ex":{"tokens":["The","view","from","the","top","is","sublime","."],"py":["","","","","","","","."],"vi":"Cảnh nhìn từ trên đỉnh thật tuyệt vời.","alts":[]}},
-   {"id":"y5092-succinct","hanzi":"succinct","pinyin":"","vi":"ngắn gọn, súc tích","ex":{"tokens":["Keep","your","answer","succinct","."],"py":["","","","","."],"vi":"Hãy trả lời ngắn gọn.","alts":[]}},
-   {"id":"y5092-superfluous","hanzi":"superfluous","pinyin":"","vi":"thừa thãi","ex":{"tokens":["Cut","every","superfluous","word","."],"py":["","","","","."],"vi":"Hãy cắt mọi từ thừa.","alts":[]}},
-   {"id":"y5092-surreptitious","hanzi":"surreptitious","pinyin":"","vi":"lén lút","ex":{"tokens":["He","took","a","surreptitious","look","at","his","phone","."],"py":["","","","","","","","","."],"vi":"Anh ấy lén liếc nhìn điện thoại.","alts":[]}},
-   {"id":"y5092-tacit","hanzi":"tacit","pinyin":"","vi":"ngầm, không nói ra","ex":{"tokens":["We","had","a","tacit","agreement","."],"py":["","","","","","."],"vi":"Chúng tôi có một thỏa thuận ngầm.","alts":[]}},
-   {"id":"y5092-taciturn","hanzi":"taciturn","pinyin":"","vi":"lầm lì, ít nói","ex":{"tokens":["Her","father","is","a","taciturn","man","."],"py":["","","","","","","."],"vi":"Bố cô ấy là người lầm lì ít nói.","alts":[]}},
-   {"id":"y5092-tenacious","hanzi":"tenacious","pinyin":"","vi":"bền bỉ, kiên trì","ex":{"tokens":["She","is","a","tenacious","player","."],"py":["","","","","","."],"vi":"Cô ấy là một vận động viên bền bỉ.","alts":[]}}
-  ]},
-  {"id":"y5093","title":"Tính từ trang trọng 11","desc":"Tính từ dùng trong văn viết, báo chí, học thuật","icon":"Refined","unit":555,"course":"en","order":5600,"words":[
-   {"id":"y5093-trite","hanzi":"trite","pinyin":"","vi":"sáo mòn, nhàm","ex":{"tokens":["The","ending","was","trite","."],"py":["","","","","."],"vi":"Cái kết thật sáo mòn.","alts":[]}},
-   {"id":"y5093-unscrupulous","hanzi":"unscrupulous","pinyin":"","vi":"vô lương tâm","ex":{"tokens":["An","unscrupulous","dealer","sold","him","a","bad","car","."],"py":["","","","","","","","","."],"vi":"Một tay buôn vô lương tâm bán cho anh ấy một chiếc xe hỏng.","alts":[]}},
-   {"id":"y5093-unwieldy","hanzi":"unwieldy","pinyin":"","vi":"cồng kềnh, khó dùng","ex":{"tokens":["The","box","is","heavy","and","unwieldy","."],"py":["","","","","","","."],"vi":"Chiếc hộp nặng và cồng kềnh.","alts":[]}},
-   {"id":"y5093-vehement","hanzi":"vehement","pinyin":"","vi":"kịch liệt, dữ dội","ex":{"tokens":["There","was","vehement","opposition","to","the","plan","."],"py":["","","","","","","","."],"vi":"Có sự phản đối kịch liệt đối với kế hoạch.","alts":[]}},
-   {"id":"y5093-verbose","hanzi":"verbose","pinyin":"","vi":"dài dòng","ex":{"tokens":["His","emails","are","verbose","."],"py":["","","","","."],"vi":"Email của anh ấy dài dòng.","alts":[]}},
-   {"id":"y5093-vicarious","hanzi":"vicarious","pinyin":"","vi":"(trải nghiệm) gián tiếp qua người khác","ex":{"tokens":["She","gets","vicarious","pleasure","from","her","son's","success","."],"py":["","","","","","","","","."],"vi":"Bà ấy vui lây với thành công của con trai.","alts":[]}},
-   {"id":"y5093-vigilant","hanzi":"vigilant","pinyin":"","vi":"cảnh giác","ex":{"tokens":["Stay","vigilant","in","crowded","places","."],"py":["","","","","","."],"vi":"Hãy cảnh giác ở nơi đông người.","alts":[]}},
-   {"id":"y5093-vindictive","hanzi":"vindictive","pinyin":"","vi":"thù hằn, hay trả thù","ex":{"tokens":["He","is","a","vindictive","man","."],"py":["","","","","","."],"vi":"Hắn là một kẻ hay thù hằn.","alts":[]}},
-   {"id":"y5093-voracious","hanzi":"voracious","pinyin":"","vi":"phàm ăn; ham mê","ex":{"tokens":["She","is","a","voracious","reader","."],"py":["","","","","","."],"vi":"Cô ấy là người ham đọc sách.","alts":[]}},
-   {"id":"y5093-wary","hanzi":"wary","pinyin":"","vi":"thận trọng, dè chừng","ex":{"tokens":["Be","wary","of","strangers","online","."],"py":["","","","","","."],"vi":"Hãy dè chừng người lạ trên mạng.","alts":[]}},
-   {"id":"y5093-whimsical","hanzi":"whimsical","pinyin":"","vi":"ngộ nghĩnh, kỳ quặc đáng yêu","ex":{"tokens":["The","book","has","whimsical","drawings","."],"py":["","","","","","."],"vi":"Cuốn sách có những hình vẽ ngộ nghĩnh.","alts":[]}},
-   {"id":"y5093-zealous","hanzi":"zealous","pinyin":"","vi":"hăng hái, sốt sắng","ex":{"tokens":["He","is","a","zealous","supporter","of","the","cause","."],"py":["","","","","","","","","."],"vi":"Anh ấy là người ủng hộ sốt sắng cho sự nghiệp đó.","alts":[]}}
   ]}
  ]
 }

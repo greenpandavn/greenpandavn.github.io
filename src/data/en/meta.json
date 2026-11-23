@@ -48,7 +48,8 @@
   {"unit":552,"level":5,"title":"Phần 46: Mở rộng – Động vật học","desc":"Động vật học, Chim và côn trùng, Sinh vật biển, Địa chất và địa hình","color":"sky","course":"en"},
   {"unit":553,"level":5,"title":"Phần 47: Mở rộng – Hóa học","desc":"Hóa học, Vật lý, Thiên văn học, Toán học","color":"grape","course":"en"},
   {"unit":554,"level":5,"title":"Phần 48: Mở rộng – Toán học","desc":"Toán học, Động từ trang trọng","color":"coral","course":"en"},
-  {"unit":555,"level":5,"title":"Phần 49: Mở rộng – Động từ trang trọng","desc":"Động từ trang trọng, Tính từ trang trọng","color":"sun","course":"en"}
+  {"unit":555,"level":5,"title":"Phần 49: Mở rộng – Động từ trang trọng","desc":"Động từ trang trọng, Tính từ trang trọng","color":"sun","course":"en"},
+  {"unit":556,"level":5,"title":"Phần 50: Mở rộng – Tính từ trang trọng","desc":"Tính từ trang trọng, Danh từ trừu tượng","color":"leaf","course":"en"}
  ],
  "lessons": [
   ["e01","Chào hỏi","Hi",1,12],
@@ -608,8 +609,13 @@
   ["y5088","Tính từ trang trọng 6","Refined",555,13],
   ["y5089","Tính từ trang trọng 7","Refined",555,13],
   ["y5090","Tính từ trang trọng 8","Refined",555,13],
-  ["y5091","Tính từ trang trọng 9","Refined",555,13],
-  ["y5092","Tính từ trang trọng 10","Refined",555,13],
-  ["y5093","Tính từ trang trọng 11","Refined",555,12]
+  ["y5101","Tính từ trang trọng 9","Refined",556,13],
+  ["y5102","Tính từ trang trọng 10","Refined",556,13],
+  ["y5103","Tính từ trang trọng 11","Refined",556,12],
+  ["y5104","Danh từ trừu tượng 7","Ideas",556,14],
+  ["y5105","Danh từ trừu tượng 8","Ideas",556,14],
+  ["y5106","Danh từ trừu tượng 9","Ideas",556,14],
+  ["y5107","Danh từ trừu tượng 10","Ideas",556,14],
+  ["y5108","Danh từ trừu tượng 11","Ideas",556,14]
  ]
 }
