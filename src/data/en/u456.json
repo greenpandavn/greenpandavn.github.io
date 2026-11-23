@@ -1,6 +1,6 @@
 {
  "units": [
-  {"unit":456,"level":4,"title":"Phần 43: Mở rộng – Giáo dục và học thuật","desc":"Giáo dục và học thuật, Công nghệ và máy tính","color":"leaf","course":"en"}
+  {"unit":456,"level":4,"title":"Phần 43: Mở rộng – Giáo dục và học thuật","desc":"Giáo dục và học thuật, Công nghệ và máy tính, Cụm động từ thông dụng","color":"leaf","course":"en"}
  ],
  "lessons": [
   {"id":"y4101","title":"Giáo dục và học thuật 3","desc":"Trường học, bằng cấp, thi cử, nghiên cứu","icon":"Campus","unit":456,"course":"en","order":4730,"words":[
@@ -108,6 +108,51 @@
    {"id":"y4107-outbox","hanzi":"outbox","pinyin":"","vi":"hộp thư đi","ex":{"tokens":["The","email","is","still","in","my","outbox","."],"py":["","","","","","","","."],"vi":"Email vẫn nằm trong hộp thư đi của tôi.","alts":[]}},
    {"id":"y4107-menu_bar","hanzi":"menu bar","pinyin":"","vi":"thanh trình đơn","ex":{"tokens":["The","menu","bar","is","at","the","top","of","the","screen","."],"py":["","","","","","","","","","","."],"vi":"Thanh trình đơn nằm ở đầu màn hình.","alts":[]}},
    {"id":"y4107-internet_of_things","hanzi":"Internet of Things","pinyin":"","vi":"Internet vạn vật","ex":{"tokens":["The","Internet","of","Things","connects","home","devices","."],"py":["","","","","","","","."],"vi":"Internet vạn vật kết nối các thiết bị trong nhà.","alts":[]}}
+  ]},
+  {"id":"y4108","title":"Cụm động từ thông dụng 1","desc":"Cụm động từ thường gặp trong giao tiếp và báo chí","icon":"Phrasal","unit":456,"course":"en","order":4800,"words":[
+   {"id":"y4108-act_up","hanzi":"act up","pinyin":"","vi":"trục trặc; quậy phá","ex":{"tokens":["My","phone","began","to","act","up","again","."],"py":["","","","","","","","."],"vi":"Điện thoại của tôi lại bắt đầu trục trặc.","alts":[]}},
+   {"id":"y4108-add_up","hanzi":"add up","pinyin":"","vi":"cộng lại; hợp lý","ex":{"tokens":["His","story","does","not","add","up","."],"py":["","","","","","","."],"vi":"Câu chuyện của anh ta không hợp lý.","alts":[]}},
+   {"id":"y4108-back_down","hanzi":"back down","pinyin":"","vi":"nhượng bộ, lùi bước","ex":{"tokens":["Neither","side","will","back","down","."],"py":["","","","","","."],"vi":"Không bên nào chịu lùi bước.","alts":[]}},
+   {"id":"y4108-back_out","hanzi":"back out","pinyin":"","vi":"rút lui (khỏi thỏa thuận)","ex":{"tokens":["You","cannot","back","out","now","."],"py":["","","","","","."],"vi":"Giờ bạn không thể rút lui được nữa.","alts":[]}},
+   {"id":"y4108-bank_on","hanzi":"bank on","pinyin":"","vi":"trông cậy vào","ex":{"tokens":["Do","not","bank","on","good","weather","."],"py":["","","","","","","."],"vi":"Đừng trông cậy vào thời tiết đẹp.","alts":[]}},
+   {"id":"y4108-bear_with","hanzi":"bear with","pinyin":"","vi":"kiên nhẫn chờ, chịu khó","ex":{"tokens":["Please","bear","with","me","for","a","minute","."],"py":["","","","","","","","."],"vi":"Xin chịu khó chờ tôi một phút.","alts":[]}},
+   {"id":"y4108-blow_over","hanzi":"blow over","pinyin":"","vi":"qua đi, lắng xuống","ex":{"tokens":["The","scandal","will","soon","blow","over","."],"py":["","","","","","","."],"vi":"Vụ bê bối sẽ sớm lắng xuống.","alts":[]}},
+   {"id":"y4108-bottle_up","hanzi":"bottle up","pinyin":"","vi":"kìm nén (cảm xúc)","ex":{"tokens":["Do","not","bottle","up","your","feelings","."],"py":["","","","","","","."],"vi":"Đừng kìm nén cảm xúc của mình.","alts":[]}},
+   {"id":"y4108-branch_out","hanzi":"branch out","pinyin":"","vi":"mở rộng sang lĩnh vực mới","ex":{"tokens":["The","firm","wants","to","branch","out","into","Asia","."],"py":["","","","","","","","","."],"vi":"Công ty muốn mở rộng sang châu Á.","alts":[]}},
+   {"id":"y4108-break_away","hanzi":"break away","pinyin":"","vi":"tách ra, thoát khỏi","ex":{"tokens":["Two","regions","tried","to","break","away","."],"py":["","","","","","","."],"vi":"Hai vùng đã tìm cách tách ra.","alts":[]}},
+   {"id":"y4108-break_into","hanzi":"break into","pinyin":"","vi":"đột nhập","ex":{"tokens":["Thieves","tried","to","break","into","the","shop","."],"py":["","","","","","","","."],"vi":"Kẻ trộm tìm cách đột nhập cửa hàng.","alts":[]}},
+   {"id":"y4108-break_off","hanzi":"break off","pinyin":"","vi":"cắt đứt, bẻ ra","ex":{"tokens":["They","decided","to","break","off","the","talks","."],"py":["","","","","","","","."],"vi":"Họ quyết định cắt đứt cuộc đàm phán.","alts":[]}},
+   {"id":"y4108-break_out","hanzi":"break out","pinyin":"","vi":"bùng nổ, nổ ra","ex":{"tokens":["A","fire","may","break","out","at","any","time","."],"py":["","","","","","","","","."],"vi":"Hỏa hoạn có thể bùng lên bất cứ lúc nào.","alts":[]}}
+  ]},
+  {"id":"y4109","title":"Cụm động từ thông dụng 2","desc":"Cụm động từ thường gặp trong giao tiếp và báo chí","icon":"Phrasal","unit":456,"course":"en","order":4810,"words":[
+   {"id":"y4109-bring_forward","hanzi":"bring forward","pinyin":"","vi":"dời lên sớm hơn","ex":{"tokens":["We","must","bring","forward","the","meeting","."],"py":["","","","","","","."],"vi":"Chúng ta phải dời cuộc họp lên sớm hơn.","alts":[]}},
+   {"id":"y4109-bring_round","hanzi":"bring round","pinyin":"","vi":"thuyết phục; làm tỉnh lại","ex":{"tokens":["I","will","try","to","bring","round","my","father","."],"py":["","","","","","","","","."],"vi":"Tôi sẽ cố thuyết phục bố tôi.","alts":[]}},
+   {"id":"y4109-build_up","hanzi":"build up","pinyin":"","vi":"tích tụ, gây dựng","ex":{"tokens":["You","need","to","build","up","your","strength","."],"py":["","","","","","","","."],"vi":"Bạn cần gây dựng lại sức lực.","alts":[]}},
+   {"id":"y4109-bump_into","hanzi":"bump into","pinyin":"","vi":"tình cờ gặp; va phải","ex":{"tokens":["I","often","bump","into","her","at","the","market","."],"py":["","","","","","","","","."],"vi":"Tôi hay tình cờ gặp cô ấy ở chợ.","alts":[]}},
+   {"id":"y4109-butt_in","hanzi":"butt in","pinyin":"","vi":"nói chen ngang","ex":{"tokens":["Sorry","to","butt","in",",","but","lunch","is","ready","."],"py":["","","","",",","","","","","."],"vi":"Xin lỗi vì chen ngang, nhưng bữa trưa xong rồi.","alts":[]}},
+   {"id":"y4109-call_for","hanzi":"call for","pinyin":"","vi":"kêu gọi; đòi hỏi","ex":{"tokens":["Experts","call","for","urgent","action","."],"py":["","","","","","."],"vi":"Các chuyên gia kêu gọi hành động khẩn cấp.","alts":[]}},
+   {"id":"y4109-call_on","hanzi":"call on","pinyin":"","vi":"ghé thăm; kêu gọi","ex":{"tokens":["We","call","on","the","government","to","act","."],"py":["","","","","","","","."],"vi":"Chúng tôi kêu gọi chính phủ hành động.","alts":[]}},
+   {"id":"y4109-calm_down","hanzi":"calm down","pinyin":"","vi":"bình tĩnh lại","ex":{"tokens":["Please","calm","down","and","listen","."],"py":["","","","","","."],"vi":"Hãy bình tĩnh lại và nghe này.","alts":[]}},
+   {"id":"y4109-catch_on","hanzi":"catch on","pinyin":"","vi":"trở nên phổ biến; hiểu ra","ex":{"tokens":["The","idea","did","not","catch","on","."],"py":["","","","","","","."],"vi":"Ý tưởng đó không được ưa chuộng.","alts":[]}},
+   {"id":"y4109-catch_up_with","hanzi":"catch up with","pinyin":"","vi":"bắt kịp","ex":{"tokens":["Go","ahead;","I","will","catch","up","with","you","."],"py":["","","","","","","","","."],"vi":"Cứ đi trước đi; tôi sẽ bắt kịp bạn.","alts":[]}},
+   {"id":"y4109-chip_in","hanzi":"chip in","pinyin":"","vi":"góp tiền; góp ý","ex":{"tokens":["We","all","chip","in","for","the","gift","."],"py":["","","","","","","","."],"vi":"Tất cả chúng tôi góp tiền mua quà.","alts":[]}},
+   {"id":"y4109-clamp_down_on","hanzi":"clamp down on","pinyin":"","vi":"siết chặt, trấn áp","ex":{"tokens":["Police","will","clamp","down","on","drunk","driving","."],"py":["","","","","","","","."],"vi":"Cảnh sát sẽ siết chặt việc lái xe khi say rượu.","alts":[]}},
+   {"id":"y4109-close_down","hanzi":"close down","pinyin":"","vi":"đóng cửa hẳn","ex":{"tokens":["The","factory","will","close","down","in","May","."],"py":["","","","","","","","."],"vi":"Nhà máy sẽ đóng cửa hẳn vào tháng Năm.","alts":[]}}
+  ]},
+  {"id":"y4110","title":"Cụm động từ thông dụng 3","desc":"Cụm động từ thường gặp trong giao tiếp và báo chí","icon":"Phrasal","unit":456,"course":"en","order":4820,"words":[
+   {"id":"y4110-come_about","hanzi":"come about","pinyin":"","vi":"xảy ra","ex":{"tokens":["How","did","the","change","come","about","?"],"py":["","","","","","","?"],"vi":"Sự thay đổi đó đã xảy ra như thế nào?","alts":[]}},
+   {"id":"y4110-come_along","hanzi":"come along","pinyin":"","vi":"đi cùng; tiến triển","ex":{"tokens":["You","can","come","along","if","you","like","."],"py":["","","","","","","","."],"vi":"Bạn có thể đi cùng nếu thích.","alts":[]}},
+   {"id":"y4110-come_by","hanzi":"come by","pinyin":"","vi":"kiếm được; ghé qua","ex":{"tokens":["Good","jobs","are","hard","to","come","by","."],"py":["","","","","","","","."],"vi":"Việc tốt khó kiếm lắm.","alts":[]}},
+   {"id":"y4110-come_down_with","hanzi":"come down with","pinyin":"","vi":"mắc (bệnh)","ex":{"tokens":["I","think","I","will","come","down","with","a","cold","."],"py":["","","","","","","","","","."],"vi":"Tôi nghĩ mình sắp bị cảm.","alts":[]}},
+   {"id":"y4110-come_forward","hanzi":"come forward","pinyin":"","vi":"đứng ra, ra trình diện","ex":{"tokens":["Police","asked","witnesses","to","come","forward","."],"py":["","","","","","","."],"vi":"Cảnh sát đề nghị các nhân chứng ra trình diện.","alts":[]}},
+   {"id":"y4110-come_round","hanzi":"come round","pinyin":"","vi":"ghé chơi; tỉnh lại; đổi ý","ex":{"tokens":["Come","round","for","dinner","tonight","."],"py":["","","","","","."],"vi":"Tối nay ghé nhà tôi ăn tối nhé.","alts":[]}},
+   {"id":"y4110-come_up_against","hanzi":"come up against","pinyin":"","vi":"vấp phải, đối mặt","ex":{"tokens":["You","will","come","up","against","many","problems","."],"py":["","","","","","","","."],"vi":"Bạn sẽ vấp phải nhiều vấn đề.","alts":[]}},
+   {"id":"y4110-cool_off","hanzi":"cool off","pinyin":"","vi":"nguội đi; bình tĩnh lại","ex":{"tokens":["Let","him","cool","off","before","you","talk","."],"py":["","","","","","","","."],"vi":"Hãy để anh ấy bình tĩnh lại rồi hãy nói chuyện.","alts":[]}},
+   {"id":"y4110-count_on","hanzi":"count on","pinyin":"","vi":"tin cậy vào","ex":{"tokens":["You","can","count","on","me","."],"py":["","","","","","."],"vi":"Bạn có thể tin cậy vào tôi.","alts":[]}},
+   {"id":"y4110-crop_up","hanzi":"crop up","pinyin":"","vi":"nảy sinh bất ngờ","ex":{"tokens":["Problems","always","crop","up","at","the","last","minute","."],"py":["","","","","","","","","."],"vi":"Rắc rối luôn nảy sinh vào phút chót.","alts":[]}},
+   {"id":"y4110-cross_out","hanzi":"cross out","pinyin":"","vi":"gạch bỏ","ex":{"tokens":["Cross","out","the","wrong","answer","."],"py":["","","","","","."],"vi":"Hãy gạch bỏ đáp án sai.","alts":[]}},
+   {"id":"y4110-cut_back_on","hanzi":"cut back on","pinyin":"","vi":"cắt giảm","ex":{"tokens":["We","must","cut","back","on","spending","."],"py":["","","","","","","."],"vi":"Chúng ta phải cắt giảm chi tiêu.","alts":[]}},
+   {"id":"y4110-cut_off","hanzi":"cut off","pinyin":"","vi":"cắt đứt, ngắt","ex":{"tokens":["They","may","cut","off","the","water","tomorrow","."],"py":["","","","","","","","."],"vi":"Ngày mai họ có thể cắt nước.","alts":[]}}
   ]}
  ]
 }

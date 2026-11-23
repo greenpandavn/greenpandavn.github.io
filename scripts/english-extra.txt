@@ -1858,7 +1858,7 @@ undergraduate|sinh viên đại học|He is an undergraduate at Oxford.|Anh ấy
 postgraduate|học viên sau đại học|The course is for postgraduate students.|Khóa học dành cho học viên sau đại học.
 graduate school|trường sau đại học|She plans to go to graduate school.|Cô ấy dự định học sau đại học.
 
-%456|4|Phần 6: Mở rộng – Giáo dục và học thuật|Giáo dục và học thuật, Công nghệ và máy tính|leaf
+%456|4|Phần 6: Mở rộng – Giáo dục và học thuật|Giáo dục và học thuật, Công nghệ và máy tính, Cụm động từ thông dụng|leaf
 @y4101|Giáo dục và học thuật 3|Trường học, bằng cấp, thi cử, nghiên cứu|Campus
 vocational school|trường dạy nghề|He learned cooking at a vocational school.|Anh ấy học nấu ăn ở trường dạy nghề.
 boarding school|trường nội trú|They sent their son to a boarding school.|Họ gửi con trai vào trường nội trú.
@@ -1964,6 +1964,122 @@ fingerprint scanner|máy quét vân tay|The door opens with a fingerprint scanne
 outbox|hộp thư đi|The email is still in my outbox.|Email vẫn nằm trong hộp thư đi của tôi.
 menu bar|thanh trình đơn|The menu bar is at the top of the screen.|Thanh trình đơn nằm ở đầu màn hình.
 Internet of Things|Internet vạn vật|The Internet of Things connects home devices.|Internet vạn vật kết nối các thiết bị trong nhà.
+
+@y4108|Cụm động từ thông dụng 1|Cụm động từ thường gặp trong giao tiếp và báo chí|Phrasal
+act up|trục trặc; quậy phá|My phone began to act up again.|Điện thoại của tôi lại bắt đầu trục trặc.
+add up|cộng lại; hợp lý|His story does not add up.|Câu chuyện của anh ta không hợp lý.
+back down|nhượng bộ, lùi bước|Neither side will back down.|Không bên nào chịu lùi bước.
+back out|rút lui (khỏi thỏa thuận)|You cannot back out now.|Giờ bạn không thể rút lui được nữa.
+bank on|trông cậy vào|Do not bank on good weather.|Đừng trông cậy vào thời tiết đẹp.
+bear with|kiên nhẫn chờ, chịu khó|Please bear with me for a minute.|Xin chịu khó chờ tôi một phút.
+blow over|qua đi, lắng xuống|The scandal will soon blow over.|Vụ bê bối sẽ sớm lắng xuống.
+bottle up|kìm nén (cảm xúc)|Do not bottle up your feelings.|Đừng kìm nén cảm xúc của mình.
+branch out|mở rộng sang lĩnh vực mới|The firm wants to branch out into Asia.|Công ty muốn mở rộng sang châu Á.
+break away|tách ra, thoát khỏi|Two regions tried to break away.|Hai vùng đã tìm cách tách ra.
+break into|đột nhập|Thieves tried to break into the shop.|Kẻ trộm tìm cách đột nhập cửa hàng.
+break off|cắt đứt, bẻ ra|They decided to break off the talks.|Họ quyết định cắt đứt cuộc đàm phán.
+break out|bùng nổ, nổ ra|A fire may break out at any time.|Hỏa hoạn có thể bùng lên bất cứ lúc nào.
+
+@y4109|Cụm động từ thông dụng 2|Cụm động từ thường gặp trong giao tiếp và báo chí|Phrasal
+bring forward|dời lên sớm hơn|We must bring forward the meeting.|Chúng ta phải dời cuộc họp lên sớm hơn.
+bring round|thuyết phục; làm tỉnh lại|I will try to bring round my father.|Tôi sẽ cố thuyết phục bố tôi.
+build up|tích tụ, gây dựng|You need to build up your strength.|Bạn cần gây dựng lại sức lực.
+bump into|tình cờ gặp; va phải|I often bump into her at the market.|Tôi hay tình cờ gặp cô ấy ở chợ.
+butt in|nói chen ngang|Sorry to butt in, but lunch is ready.|Xin lỗi vì chen ngang, nhưng bữa trưa xong rồi.
+call for|kêu gọi; đòi hỏi|Experts call for urgent action.|Các chuyên gia kêu gọi hành động khẩn cấp.
+call on|ghé thăm; kêu gọi|We call on the government to act.|Chúng tôi kêu gọi chính phủ hành động.
+calm down|bình tĩnh lại|Please calm down and listen.|Hãy bình tĩnh lại và nghe này.
+catch on|trở nên phổ biến; hiểu ra|The idea did not catch on.|Ý tưởng đó không được ưa chuộng.
+catch up with|bắt kịp|Go ahead; I will catch up with you.|Cứ đi trước đi; tôi sẽ bắt kịp bạn.
+chip in|góp tiền; góp ý|We all chip in for the gift.|Tất cả chúng tôi góp tiền mua quà.
+clamp down on|siết chặt, trấn áp|Police will clamp down on drunk driving.|Cảnh sát sẽ siết chặt việc lái xe khi say rượu.
+close down|đóng cửa hẳn|The factory will close down in May.|Nhà máy sẽ đóng cửa hẳn vào tháng Năm.
+
+@y4110|Cụm động từ thông dụng 3|Cụm động từ thường gặp trong giao tiếp và báo chí|Phrasal
+come about|xảy ra|How did the change come about?|Sự thay đổi đó đã xảy ra như thế nào?
+come along|đi cùng; tiến triển|You can come along if you like.|Bạn có thể đi cùng nếu thích.
+come by|kiếm được; ghé qua|Good jobs are hard to come by.|Việc tốt khó kiếm lắm.
+come down with|mắc (bệnh)|I think I will come down with a cold.|Tôi nghĩ mình sắp bị cảm.
+come forward|đứng ra, ra trình diện|Police asked witnesses to come forward.|Cảnh sát đề nghị các nhân chứng ra trình diện.
+come round|ghé chơi; tỉnh lại; đổi ý|Come round for dinner tonight.|Tối nay ghé nhà tôi ăn tối nhé.
+come up against|vấp phải, đối mặt|You will come up against many problems.|Bạn sẽ vấp phải nhiều vấn đề.
+cool off|nguội đi; bình tĩnh lại|Let him cool off before you talk.|Hãy để anh ấy bình tĩnh lại rồi hãy nói chuyện.
+count on|tin cậy vào|You can count on me.|Bạn có thể tin cậy vào tôi.
+crop up|nảy sinh bất ngờ|Problems always crop up at the last minute.|Rắc rối luôn nảy sinh vào phút chót.
+cross out|gạch bỏ|Cross out the wrong answer.|Hãy gạch bỏ đáp án sai.
+cut back on|cắt giảm|We must cut back on spending.|Chúng ta phải cắt giảm chi tiêu.
+cut off|cắt đứt, ngắt|They may cut off the water tomorrow.|Ngày mai họ có thể cắt nước.
+
+%457|4|Phần 7: Mở rộng – Cụm động từ thông dụng|Cụm động từ thông dụng|sky
+@y4121|Cụm động từ thông dụng 4|Cụm động từ thường gặp trong giao tiếp và báo chí|Phrasal
+cut out|cắt bỏ, ngừng|You should cut out sugar.|Bạn nên bỏ đường.
+die down|lắng xuống, dịu đi|Wait for the wind to die down.|Hãy chờ gió lặng bớt.
+die out|tuyệt chủng, mất hẳn|Many old customs may die out.|Nhiều phong tục cổ có thể mất hẳn.
+dish out|phân phát; đưa ra tùy tiện|He likes to dish out advice.|Anh ấy thích ban phát lời khuyên.
+do away with|bãi bỏ|The school will do away with uniforms.|Trường sẽ bỏ đồng phục.
+do without|xoay xở mà không có|I cannot do without coffee.|Tôi không thể thiếu cà phê.
+doze off|ngủ gật|I often doze off in front of the TV.|Tôi hay ngủ gật trước ti vi.
+dress up|ăn diện; hóa trang|Children love to dress up.|Trẻ con thích hóa trang.
+drift apart|dần xa cách|Old friends sometimes drift apart.|Bạn cũ đôi khi dần xa cách.
+drop by|ghé qua|Drop by whenever you are free.|Lúc nào rảnh cứ ghé qua nhé.
+drum up|vận động, khuấy động (sự ủng hộ)|They are trying to drum up support.|Họ đang cố vận động sự ủng hộ.
+dwell on|nghĩ mãi về, day dứt|Do not dwell on the past.|Đừng nghĩ mãi về quá khứ.
+
+@y4122|Cụm động từ thông dụng 5|Cụm động từ thường gặp trong giao tiếp và báo chí|Phrasal
+ease off|giảm bớt, dịu đi|The rain began to ease off.|Mưa bắt đầu ngớt.
+eat out|ăn ngoài tiệm|We eat out every Friday.|Thứ Sáu nào chúng tôi cũng đi ăn tiệm.
+egg on|xúi giục|His friends egg on the boy to jump.|Đám bạn xúi cậu bé nhảy.
+end up|rốt cuộc, kết cục là|You will end up with nothing.|Rốt cuộc bạn sẽ chẳng có gì.
+face up to|dám đối mặt với|You must face up to the truth.|Bạn phải dám đối mặt với sự thật.
+fall apart|tan vỡ, rã ra|My old shoes fall apart in the rain.|Đôi giày cũ của tôi rã ra khi gặp mưa.
+fall for|phải lòng; bị lừa bởi|Do not fall for that trick.|Đừng mắc lừa trò đó.
+fall out|cãi nhau, bất hòa|Brothers often fall out over money.|Anh em thường bất hòa vì tiền.
+fend off|đẩy lùi, chống đỡ|She had to fend off many questions.|Cô ấy phải chống đỡ rất nhiều câu hỏi.
+fill in for|làm thay cho|Can you fill in for me tomorrow?|Ngày mai bạn làm thay tôi được không?
+flare up|bùng lên|Tensions flare up every summer.|Căng thẳng bùng lên mỗi mùa hè.
+fool around|đùa nghịch, lêu lổng|Do not fool around with the tools.|Đừng nghịch dụng cụ.
+
+@y4123|Cụm động từ thông dụng 6|Cụm động từ thường gặp trong giao tiếp và báo chí|Phrasal
+freak out|hoảng lên|Do not freak out; it is only a spider.|Đừng hoảng; chỉ là con nhện thôi.
+get across|truyền đạt được|He could not get across his idea.|Anh ấy không truyền đạt được ý của mình.
+get ahead|tiến thân, vượt lên|You must work hard to get ahead.|Bạn phải chăm chỉ mới tiến thân được.
+get around to|thu xếp được thời gian để làm|I never get around to cleaning the garage.|Tôi chẳng bao giờ thu xếp được thời gian dọn ga-ra.
+get away with|thoát tội, không bị phạt|He will not get away with it.|Hắn sẽ không thoát được đâu.
+get by|xoay xở đủ sống|We get by on one salary.|Chúng tôi xoay xở sống bằng một đồng lương.
+get on with|tiếp tục làm; hòa hợp với|Stop talking and get on with your work.|Thôi nói chuyện và làm tiếp việc đi.
+get round|lách (quy định); lan truyền|They found a way to get round the rule.|Họ tìm ra cách lách quy định.
+get through to|làm cho hiểu; liên lạc được|I cannot get through to him.|Tôi không sao làm cho anh ấy hiểu được.
+give away|cho đi; tiết lộ|Do not give away the ending.|Đừng tiết lộ đoạn kết.
+give in|nhượng bộ, chịu thua|Do not give in to pressure.|Đừng nhượng bộ trước áp lực.
+give off|tỏa ra (mùi, nhiệt)|The flowers give off a sweet smell.|Những bông hoa tỏa hương ngọt ngào.
+
+@y4124|Cụm động từ thông dụng 7|Cụm động từ thường gặp trong giao tiếp và báo chí|Phrasal
+give out|phân phát; hết, cạn|Volunteers give out food every evening.|Tình nguyện viên phát đồ ăn mỗi tối.
+go about|bắt tay vào, tiến hành|How do I go about getting a visa?|Tôi phải tiến hành xin visa như thế nào?
+go ahead|cứ làm đi, tiến hành|Go ahead and start without me.|Cứ bắt đầu đi, không cần đợi tôi.
+go along with|đồng tình, làm theo|I will go along with your plan.|Tôi sẽ làm theo kế hoạch của bạn.
+go back on|nuốt lời|He would never go back on his word.|Anh ấy không bao giờ nuốt lời.
+go down with|mắc (bệnh)|Half the class may go down with flu.|Nửa lớp có thể bị cúm.
+go for|chọn; cố giành lấy|I will go for the fish.|Tôi sẽ chọn món cá.
+hand down|truyền lại|Parents hand down stories to their children.|Cha mẹ truyền lại những câu chuyện cho con cái.
+hang around|la cà, quanh quẩn|Teenagers hang around the mall.|Thanh thiếu niên la cà ở trung tâm mua sắm.
+hang on|chờ một chút; bám chặt|Hang on, I am coming.|Chờ chút, tôi đến đây.
+head for|đi về hướng|Let us head for the beach.|Chúng ta hãy đi ra biển.
+hit back|đáp trả|The minister decided to hit back at his critics.|Bộ trưởng quyết định đáp trả những người chỉ trích.
+
+@y4125|Cụm động từ thông dụng 8|Cụm động từ thường gặp trong giao tiếp và báo chí|Phrasal
+hold off|trì hoãn, tạm chưa|Let us hold off the decision until Monday.|Hãy hoãn quyết định đến thứ Hai.
+hold on to|giữ chặt, giữ lại|Hold on to your ticket.|Hãy giữ lại vé của bạn.
+hold up|làm trì hoãn; cướp có vũ trang|Roadworks hold up the traffic every morning.|Việc sửa đường làm giao thông ùn tắc mỗi sáng.
+jot down|ghi nhanh|Let me jot down your number.|Để tôi ghi nhanh số của bạn.
+keep at|kiên trì làm|Keep at it and you will succeed.|Cứ kiên trì thì bạn sẽ thành công.
+kick off|bắt đầu, khai cuộc|The games kick off at seven.|Các trận đấu bắt đầu lúc bảy giờ.
+lash out|nổi nóng, công kích|Tired people often lash out at others.|Người mệt mỏi thường nổi nóng với người khác.
+leave out|bỏ sót, bỏ ra|Do not leave out any details.|Đừng bỏ sót chi tiết nào.
+let down|làm thất vọng|I will not let down my team.|Tôi sẽ không làm đội của mình thất vọng.
+let off|tha, không phạt|The judge may let off the boy with a warning.|Thẩm phán có thể tha cho cậu bé và chỉ cảnh cáo.
+let on|để lộ ra|Do not let on that you know.|Đừng để lộ là bạn biết.
+level off|chững lại, ổn định|Prices should level off next year.|Giá cả hẳn sẽ chững lại vào năm sau.
 
 %551|5|Phần 1: Mở rộng – Giải phẫu cơ thể|Giải phẫu cơ thể, Bệnh lý, Thủ thuật và thiết bị y khoa, Thực vật học, Động vật học|leaf
 @y5001|Giải phẫu cơ thể 1|Xương, nội tạng, các phần trên cơ thể|Anatomy
