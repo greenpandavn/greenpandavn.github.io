@@ -1,0 +1,132 @@
+# Level 5 (Chuyên sâu): thực vật, động vật.
+@5|Thực vật học|Bộ phận của cây, các loài cây và hoa|Botany
+stalk|cuống, thân cây (nhỏ)|She cut the flower at the stalk.|Cô ấy cắt bông hoa ở phần cuống.
+tendril|tua cuốn|A tendril of the vine curled around the fence.|Một tua cuốn của cây leo quấn quanh hàng rào.
+resin|nhựa cây|Sticky resin ran down the pine tree.|Nhựa cây dính chảy xuống thân cây thông.
+sprout|mầm; nảy mầm|The beans began to sprout after three days.|Hạt đậu bắt đầu nảy mầm sau ba ngày.
+lichen|địa y|Grey lichen covered the old stone wall.|Địa y xám phủ kín bức tường đá cũ.
+algae|tảo|Green algae grew on the surface of the pond.|Tảo xanh mọc trên mặt ao.
+tuber|củ (thân củ)|A potato is a tuber, not a root.|Khoai tây là thân củ, không phải rễ.
+canopy|tán rừng, vòm lá|Monkeys live high in the forest canopy.|Khỉ sống trên cao trong tán rừng.
+undergrowth|bụi cây thấp dưới tán rừng|A rabbit ran into the undergrowth.|Một con thỏ chạy vào bụi cây thấp.
+chlorophyll|chất diệp lục|Chlorophyll makes leaves green.|Chất diệp lục làm lá có màu xanh.
+wilt|héo rũ|The flowers will wilt without water.|Hoa sẽ héo rũ nếu thiếu nước.
+wither|khô héo, tàn lụi|The crops began to wither in the heat.|Hoa màu bắt đầu khô héo trong cái nóng.
+bloom|nở hoa; sự nở hoa|The roses bloom in early summer.|Hoa hồng nở vào đầu mùa hè.
+evergreen|cây thường xanh|The pine is an evergreen tree.|Cây thông là loại cây thường xanh.
+deciduous|rụng lá theo mùa|A deciduous tree loses its leaves in autumn.|Cây rụng lá theo mùa thì rụng lá vào mùa thu.
+conifer|cây lá kim|The hill was planted with conifer trees.|Ngọn đồi được trồng cây lá kim.
+willow|cây liễu|A willow hung over the river.|Một cây liễu rủ xuống dòng sông.
+oak|cây sồi|The table is made of oak.|Chiếc bàn làm bằng gỗ sồi.
+maple|cây phong|The maple leaves turn red in autumn.|Lá phong chuyển đỏ vào mùa thu.
+birch|cây bạch dương|A white birch stood by the gate.|Một cây bạch dương trắng đứng cạnh cổng.
+cedar|cây tuyết tùng|The chest smells of cedar.|Chiếc rương có mùi gỗ tuyết tùng.
+mangrove|cây đước, rừng ngập mặn|The mangrove forest protects the coast.|Rừng ngập mặn bảo vệ bờ biển.
+reed|cây sậy|Birds hid among the tall reed beds.|Chim trốn giữa những bãi sậy cao.
+thistle|cây kế|A purple thistle grew by the road.|Một cây kế tím mọc bên đường.
+nettle|cây tầm ma|A nettle stung my hand.|Một cây tầm ma làm tay tôi rát.
+clover|cỏ ba lá|She found a four-leaf clover.|Cô ấy tìm thấy một cây cỏ bốn lá.
+ivy|cây thường xuân|Ivy covered the front of the house.|Cây thường xuân phủ kín mặt trước ngôi nhà.
+dandelion|hoa bồ công anh|The child blew on a dandelion.|Đứa bé thổi một bông bồ công anh.
+
+@5|Động vật học|Phân loại, bộ phận cơ thể, tập tính|Zoology
+invertebrate|động vật không xương sống|A worm is an invertebrate.|Giun là động vật không xương sống.
+rodent|loài gặm nhấm|A mouse is a small rodent.|Chuột là một loài gặm nhấm nhỏ.
+primate|động vật linh trưởng|The gorilla is the largest primate.|Khỉ đột là loài linh trưởng lớn nhất.
+omnivore|động vật ăn tạp|A bear is an omnivore.|Gấu là động vật ăn tạp.
+nocturnal|hoạt động về đêm|Owls are nocturnal birds.|Cú là loài chim hoạt động về đêm.
+hatch|nở (trứng)|The eggs will hatch in two weeks.|Trứng sẽ nở trong hai tuần.
+spawn|đẻ trứng (cá, ếch)|Salmon swim up the river to spawn.|Cá hồi bơi ngược sông để đẻ trứng.
+pupa|con nhộng|The pupa slowly becomes a butterfly.|Con nhộng dần dần trở thành bướm.
+cocoon|cái kén|The moth came out of its cocoon.|Con ngài chui ra khỏi kén.
+tadpole|con nòng nọc|A tadpole grows into a frog.|Nòng nọc lớn lên thành ếch.
+cub|thú con (gấu, sư tử, hổ)|The lion cub played with its mother.|Sư tử con chơi đùa với mẹ nó.
+foal|ngựa con|The foal stood up soon after birth.|Ngựa con đứng dậy ngay sau khi sinh.
+fawn|hươu con, nai con|A fawn hid in the long grass.|Một chú nai con nấp trong cỏ cao.
+antler|gạc (hươu, nai)|The deer lost an antler in the fight.|Con hươu mất một bên gạc trong trận đấu.
+tusk|ngà (voi)|The old elephant had a broken tusk.|Con voi già có một chiếc ngà gãy.
+hoof|móng guốc|The horse had a stone in its hoof.|Con ngựa bị một viên đá kẹt trong móng.
+paw|bàn chân có vuốt (chó, mèo)|The dog gave me its paw.|Con chó đưa chân cho tôi.
+claw|móng vuốt; càng (cua)|The cat scratched me with its claw.|Con mèo cào tôi bằng móng vuốt.
+talon|móng vuốt chim săn mồi|The eagle held a fish in its talon.|Con đại bàng quắp một con cá trong móng vuốt.
+beak|mỏ chim|The bird carried a worm in its beak.|Con chim ngậm một con sâu trong mỏ.
+fin|vây cá|We saw the fin of a shark.|Chúng tôi nhìn thấy vây của một con cá mập.
+gill|mang cá|A fish breathes through its gill slits.|Cá thở qua các khe mang.
+snout|mõm (lợn, chó)|The pig pushed its snout into the mud.|Con lợn dúi mõm vào bùn.
+mane|bờm (ngựa, sư tử)|The girl brushed the horse's mane.|Cô bé chải bờm con ngựa.
+whisker|ria (mèo, chuột)|The cat lost a whisker.|Con mèo rụng một sợi ria.
+burrow|hang (thỏ, chuột); đào hang|The rabbit ran back to its burrow.|Con thỏ chạy về hang của nó.
+lair|hang ổ (thú dữ)|The wolf returned to its lair.|Con sói quay về hang ổ.
+herd|đàn (gia súc, voi)|A herd of cows crossed the road.|Một đàn bò băng qua đường.
+flock|đàn (chim, cừu)|A flock of birds flew south.|Một đàn chim bay về phương nam.
+swarm|đàn (ong, côn trùng)|A swarm of bees left the hive.|Một đàn ong rời tổ.
+otter|con rái cá|An otter swam on its back.|Một con rái cá bơi ngửa.
+beaver|con hải ly|The beaver built a dam across the stream.|Con hải ly xây một cái đập ngang suối.
+badger|con lửng|A badger came out at night.|Một con lửng ra ngoài vào ban đêm.
+weasel|con chồn|A weasel stole the eggs.|Một con chồn trộm trứng.
+raccoon|gấu mèo|A raccoon opened our trash can.|Một con gấu mèo mở thùng rác nhà tôi.
+skunk|chồn hôi|The dog was sprayed by a skunk.|Con chó bị chồn hôi xịt.
+porcupine|con nhím (lớn)|The porcupine raised its sharp quills.|Con nhím dựng những chiếc lông nhọn lên.
+hyena|linh cẩu|We heard a hyena laugh in the dark.|Chúng tôi nghe tiếng linh cẩu cười trong bóng tối.
+jackal|chó rừng|A jackal followed the lions.|Một con chó rừng đi theo bầy sư tử.
+lynx|linh miêu|The lynx has pointed ears.|Linh miêu có đôi tai nhọn.
+jaguar|báo đốm Mỹ|The jaguar lives in the rainforest.|Báo đốm Mỹ sống trong rừng mưa.
+cheetah|báo săn|The cheetah is the fastest land animal.|Báo săn là động vật trên cạn nhanh nhất.
+walrus|hải mã|The walrus has two long teeth.|Hải mã có hai chiếc răng dài.
+porpoise|cá heo chuột|A porpoise swam beside the boat.|Một con cá heo chuột bơi cạnh thuyền.
+mongoose|cầy mangut|The mongoose can kill a snake.|Cầy mangut có thể giết rắn.
+meerkat|chồn đất châu Phi|A meerkat stood up to look around.|Một con chồn đất đứng thẳng lên nhìn quanh.
+gazelle|linh dương gazen|The gazelle ran from the lion.|Con linh dương chạy trốn sư tử.
+antelope|linh dương|An antelope drank at the river.|Một con linh dương uống nước ở sông.
+bison|bò rừng bizon|A bison stood in the snow.|Một con bò rừng đứng trong tuyết.
+moose|nai sừng tấm|A moose crossed the road in front of us.|Một con nai sừng tấm băng qua đường trước mặt chúng tôi.
+reindeer|tuần lộc|The reindeer pulled the sled.|Con tuần lộc kéo xe trượt.
+yak|bò yak, bò Tây Tạng|The yak carried our bags up the mountain.|Con bò yak chở hành lý của chúng tôi lên núi.
+llama|lạc đà không bướu|A llama spat at the tourist.|Một con lạc đà không bướu nhổ nước bọt vào du khách.
+alpaca|lạc đà alpaca|This scarf is made of alpaca wool.|Chiếc khăn này làm bằng len alpaca.
+armadillo|con tatu|The armadillo rolled into a ball.|Con tatu cuộn tròn lại như quả bóng.
+anteater|thú ăn kiến|The anteater has a very long tongue.|Thú ăn kiến có cái lưỡi rất dài.
+
+@5|Chim và côn trùng|Các loài chim, côn trùng, loài bò sát nhỏ|Wings
+robin|chim cổ đỏ|A robin sang in the garden.|Một con chim cổ đỏ hót trong vườn.
+finch|chim sẻ thông|A finch ate seeds from my hand.|Một con chim sẻ thông ăn hạt trên tay tôi.
+raven|con quạ đen lớn|A raven sat on the tower.|Một con quạ đen đậu trên tháp.
+magpie|chim ác là|The magpie stole a shiny ring.|Con chim ác là trộm một chiếc nhẫn sáng bóng.
+dove|chim bồ câu trắng|The dove is a symbol of peace.|Chim bồ câu trắng là biểu tượng hòa bình.
+seagull|chim mòng biển|A seagull took my sandwich.|Một con mòng biển cướp bánh mì kẹp của tôi.
+pelican|chim bồ nông|The pelican caught a fish in its big beak.|Con bồ nông bắt cá bằng cái mỏ to.
+heron|con diệc|A heron stood still in the water.|Một con diệc đứng im trong nước.
+stork|con cò|A stork built a nest on the roof.|Một con cò làm tổ trên mái nhà.
+flamingo|chim hồng hạc|The flamingo stood on one leg.|Con hồng hạc đứng một chân.
+falcon|chim cắt|The falcon dived at great speed.|Con chim cắt lao xuống với tốc độ rất cao.
+hawk|chim diều hâu|A hawk circled above the field.|Một con diều hâu lượn vòng trên cánh đồng.
+vulture|kền kền|A vulture waited near the dead animal.|Một con kền kền chờ gần xác con vật.
+kingfisher|chim bói cá|A blue kingfisher flew along the river.|Một con chim bói cá xanh bay dọc dòng sông.
+woodpecker|chim gõ kiến|We heard a woodpecker in the forest.|Chúng tôi nghe tiếng chim gõ kiến trong rừng.
+hummingbird|chim ruồi|A hummingbird drank from the flower.|Một con chim ruồi hút mật từ bông hoa.
+nightingale|chim sơn ca (họa mi)|The nightingale sings at night.|Chim họa mi hót vào ban đêm.
+cuckoo|chim cu cu|The cuckoo lays eggs in other nests.|Chim cu cu đẻ trứng vào tổ chim khác.
+ostrich|đà điểu|An ostrich cannot fly.|Đà điểu không biết bay.
+peacock|con công|The peacock opened its tail.|Con công xòe đuôi.
+pheasant|chim trĩ|A pheasant ran across the road.|Một con chim trĩ chạy ngang đường.
+quail|chim cút|She cooked quail eggs for breakfast.|Cô ấy nấu trứng chim cút cho bữa sáng.
+albatross|chim hải âu lớn|The albatross can fly for hours without rest.|Chim hải âu lớn có thể bay nhiều giờ không nghỉ.
+puffin|chim hải âu cổ rụt|A puffin has a bright orange beak.|Chim hải âu cổ rụt có cái mỏ màu cam tươi.
+moth|con ngài, bướm đêm|A moth flew around the lamp.|Một con ngài bay quanh ngọn đèn.
+wasp|ong bắp cày|A wasp stung me on the arm.|Một con ong bắp cày đốt vào tay tôi.
+hornet|ong bắp cày lớn|There is a hornet nest under the roof.|Có một tổ ong bắp cày lớn dưới mái nhà.
+bumblebee|ong nghệ|A bumblebee landed on the flower.|Một con ong nghệ đậu trên bông hoa.
+locust|châu chấu (di cư)|A locust swarm destroyed the crops.|Một đàn châu chấu phá hủy mùa màng.
+cicada|con ve sầu|The cicada is loud in summer.|Ve sầu kêu inh ỏi vào mùa hè.
+firefly|con đom đóm|A firefly glowed in the dark.|Một con đom đóm phát sáng trong bóng tối.
+termite|con mối|Termite damage ruined the wooden floor.|Mối phá hỏng sàn gỗ.
+flea|con bọ chét|The dog has a flea problem.|Con chó bị bọ chét.
+louse|con chấy, con rận|The nurse found a louse in the child's hair.|Y tá tìm thấy một con chấy trên tóc đứa bé.
+mite|con ve bét, mạt|A dust mite is too small to see.|Mạt bụi nhỏ đến mức không nhìn thấy được.
+cockroach|con gián|A cockroach ran under the fridge.|Một con gián chạy vào gầm tủ lạnh.
+centipede|con rết|A centipede crawled out of the shoe.|Một con rết bò ra khỏi chiếc giày.
+scorpion|bọ cạp|A scorpion hid under the rock.|Một con bọ cạp nấp dưới tảng đá.
+earthworm|giun đất|An earthworm came up after the rain.|Một con giun đất ngoi lên sau cơn mưa.
+slug|con sên trần|A slug ate the lettuce leaves.|Một con sên ăn lá xà lách.
+leech|con đỉa|A leech stuck to his leg.|Một con đỉa bám vào chân anh ấy.
+mantis|con bọ ngựa|A green mantis sat on the leaf.|Một con bọ ngựa xanh đậu trên lá.

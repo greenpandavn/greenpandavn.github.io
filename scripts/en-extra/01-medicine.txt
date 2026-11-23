@@ -1,0 +1,76 @@
+# Level 5 (Chuyên sâu): giải phẫu, bệnh lý, thủ thuật y khoa.
+@5|Giải phẫu cơ thể|Xương, nội tạng, các phần trên cơ thể|Anatomy
+skull|hộp sọ|The helmet protects your skull.|Mũ bảo hiểm bảo vệ hộp sọ của bạn.
+spine|cột sống|Sitting badly can hurt your spine.|Ngồi sai tư thế có thể làm đau cột sống.
+rib|xương sườn|He broke a rib in the accident.|Anh ấy gãy một xương sườn trong vụ tai nạn.
+pelvis|xương chậu|The X-ray showed a crack in her pelvis.|Phim X-quang cho thấy một vết nứt ở xương chậu của cô ấy.
+vein|tĩnh mạch|The nurse found a vein in his arm.|Y tá tìm thấy một tĩnh mạch ở cánh tay anh ấy.
+kidney|quả thận|She gave a kidney to her brother.|Cô ấy hiến một quả thận cho anh trai.
+liver|gan|Too much alcohol damages the liver.|Quá nhiều rượu làm hại gan.
+bladder|bàng quang|A full bladder woke him at night.|Bàng quang đầy làm anh ấy thức giấc ban đêm.
+intestine|ruột|Food moves slowly through the intestine.|Thức ăn di chuyển chậm qua ruột.
+esophagus|thực quản|Food goes down the esophagus to the stomach.|Thức ăn đi xuống thực quản tới dạ dày.
+trachea|khí quản|Air passes through the trachea to the lungs.|Không khí đi qua khí quản tới phổi.
+diaphragm|cơ hoành|Singers learn to breathe from the diaphragm.|Ca sĩ học cách lấy hơi từ cơ hoành.
+cornea|giác mạc|Dust scratched the cornea of his left eye.|Bụi làm xước giác mạc mắt trái của anh ấy.
+eardrum|màng nhĩ|The loud blast damaged his eardrum.|Tiếng nổ lớn làm tổn thương màng nhĩ của anh ấy.
+marrow|tủy xương|The patient needs a bone marrow donor.|Bệnh nhân cần người hiến tủy xương.
+gland|tuyến|This gland makes saliva.|Tuyến này tiết ra nước bọt.
+thyroid|tuyến giáp|The doctor checked her thyroid.|Bác sĩ kiểm tra tuyến giáp của cô ấy.
+collarbone|xương đòn|The cyclist fell and broke his collarbone.|Người đạp xe ngã và gãy xương đòn.
+kneecap|xương bánh chè|He hit his kneecap on the table.|Anh ấy va xương bánh chè vào bàn.
+shin|ống quyển, cẳng chân trước|The ball hit him on the shin.|Quả bóng đập vào ống quyển của anh ấy.
+thigh|đùi|The water came up to my thigh.|Nước lên tới đùi tôi.
+torso|thân mình|The vest covers the whole torso.|Chiếc áo gi lê che toàn bộ thân mình.
+scalp|da đầu|Massage the shampoo into your scalp.|Hãy xoa dầu gội vào da đầu.
+nostril|lỗ mũi|One nostril was blocked by the cold.|Một lỗ mũi bị nghẹt vì cảm lạnh.
+eyelid|mí mắt|Her eyelid was red and swollen.|Mí mắt cô ấy đỏ và sưng.
+eyelash|lông mi|An eyelash fell into my eye.|Một sợi lông mi rơi vào mắt tôi.
+knuckle|khớp ngón tay|He hurt a knuckle while boxing.|Anh ấy bị đau một khớp ngón tay khi đấm bốc.
+forearm|cẳng tay|She has a small tattoo on her forearm.|Cô ấy có một hình xăm nhỏ ở cẳng tay.
+
+@5|Bệnh lý|Bệnh truyền nhiễm, bệnh mãn tính, triệu chứng|Disease
+pneumonia|viêm phổi|The old man was in hospital with pneumonia.|Ông cụ nằm viện vì viêm phổi.
+bronchitis|viêm phế quản|Smoking made his bronchitis worse.|Hút thuốc làm bệnh viêm phế quản của anh ấy nặng hơn.
+measles|bệnh sởi|Most children are vaccinated against measles.|Hầu hết trẻ em được tiêm phòng bệnh sởi.
+mumps|bệnh quai bị|He caught mumps when he was seven.|Cậu ấy mắc quai bị năm bảy tuổi.
+tuberculosis|bệnh lao|Tuberculosis mainly attacks the lungs.|Bệnh lao chủ yếu tấn công phổi.
+malaria|bệnh sốt rét|Mosquitoes spread malaria.|Muỗi làm lây lan bệnh sốt rét.
+cholera|bệnh tả|Dirty water caused a cholera outbreak.|Nước bẩn gây ra một đợt bùng phát bệnh tả.
+hepatitis|viêm gan|There is a vaccine for hepatitis B.|Có vắc xin phòng viêm gan B.
+leukemia|bệnh bạch cầu, ung thư máu|The child is being treated for leukemia.|Đứa trẻ đang được điều trị bệnh bạch cầu.
+eczema|bệnh chàm|This cream helps with eczema.|Loại kem này giúp trị bệnh chàm.
+epilepsy|bệnh động kinh|She takes medicine to control her epilepsy.|Cô ấy uống thuốc để kiểm soát bệnh động kinh.
+cyst|u nang|The doctor removed a small cyst.|Bác sĩ đã cắt bỏ một u nang nhỏ.
+hernia|thoát vị|He needs an operation for a hernia.|Anh ấy cần mổ thoát vị.
+concussion|chấn động não|The player left the game with a concussion.|Cầu thủ rời trận vì chấn động não.
+hives|chứng nổi mề đay|Shrimp gives me hives.|Tôm làm tôi nổi mề đay.
+dizziness|sự chóng mặt|The medicine may cause dizziness.|Thuốc có thể gây chóng mặt.
+fatigue|sự mệt mỏi kéo dài|Fatigue is a common sign of stress.|Mệt mỏi là dấu hiệu thường gặp của căng thẳng.
+seizure|cơn co giật|The boy had a seizure at school.|Cậu bé bị một cơn co giật ở trường.
+malnutrition|suy dinh dưỡng|Many children there suffer from malnutrition.|Nhiều trẻ em ở đó bị suy dinh dưỡng.
+dehydration|sự mất nước|Drink water to avoid dehydration.|Hãy uống nước để tránh mất nước.
+constipation|táo bón|Eating more fruit helps with constipation.|Ăn nhiều trái cây giúp giảm táo bón.
+heartburn|chứng ợ nóng|Spicy food gives him heartburn.|Đồ cay làm anh ấy bị ợ nóng.
+indigestion|chứng khó tiêu|I get indigestion if I eat too fast.|Tôi bị khó tiêu nếu ăn quá nhanh.
+cataract|đục thủy tinh thể|My grandmother had a cataract removed.|Bà tôi đã mổ đục thủy tinh thể.
+glaucoma|bệnh tăng nhãn áp|Glaucoma can lead to blindness.|Bệnh tăng nhãn áp có thể dẫn đến mù.
+scoliosis|chứng vẹo cột sống|The school nurse checks children for scoliosis.|Y tá trường kiểm tra chứng vẹo cột sống cho trẻ.
+osteoporosis|bệnh loãng xương|Calcium helps prevent osteoporosis.|Canxi giúp ngăn ngừa loãng xương.
+gout|bệnh gút|Gout made his toe very painful.|Bệnh gút làm ngón chân anh ấy rất đau.
+
+@5|Thủ thuật và thiết bị y khoa|Điều trị, dụng cụ, chăm sóc|Clinic
+transfusion|sự truyền máu|He needed a blood transfusion after the crash.|Anh ấy cần truyền máu sau vụ va chạm.
+dialysis|sự lọc máu, chạy thận|She goes to hospital for dialysis three times a week.|Cô ấy đến bệnh viện chạy thận ba lần một tuần.
+chemotherapy|hóa trị|She lost her hair during chemotherapy.|Cô ấy rụng tóc trong thời gian hóa trị.
+radiotherapy|xạ trị|The tumor was treated with radiotherapy.|Khối u được điều trị bằng xạ trị.
+implant|vật cấy ghép|He has a dental implant.|Anh ấy có một răng cấy ghép.
+stretcher|cái cáng|They carried the injured player off on a stretcher.|Họ khiêng cầu thủ bị thương ra bằng cáng.
+ventilator|máy thở|The patient was put on a ventilator.|Bệnh nhân được cho thở máy.
+pacemaker|máy tạo nhịp tim|My grandfather has a pacemaker.|Ông tôi có máy tạo nhịp tim.
+ultrasound|siêu âm|The ultrasound showed a healthy baby.|Kết quả siêu âm cho thấy em bé khỏe mạnh.
+immunization|sự tiêm chủng|Bring your child's immunization record.|Hãy mang theo sổ tiêm chủng của con bạn.
+gauze|băng gạc|Cover the wound with clean gauze.|Hãy che vết thương bằng gạc sạch.
+swab|que tăm bông lấy mẫu|The nurse took a swab from my throat.|Y tá lấy mẫu bằng tăm bông từ họng tôi.
+physiotherapy|vật lý trị liệu|He needs physiotherapy after the knee operation.|Anh ấy cần vật lý trị liệu sau ca mổ đầu gối.
+outpatient|bệnh nhân ngoại trú|She was treated as an outpatient.|Cô ấy được điều trị ngoại trú.

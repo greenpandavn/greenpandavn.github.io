@@ -32,7 +32,9 @@
   {"unit":501,"level":5,"title":"Phần 30: Học thuật và chuyên ngành","desc":"Nghiên cứu, ngôn ngữ, lịch sử, luật, tài chính, ngoại giao","color":"leaf","course":"en"},
   {"unit":502,"level":5,"title":"Phần 31: Khoa học và kỹ thuật","desc":"Y khoa, sinh học, khí tượng, hàng không, điện tử, dữ liệu","color":"sky","course":"en"},
   {"unit":503,"level":5,"title":"Phần 32: Văn hóa và nghệ thuật","desc":"Âm nhạc, hội họa, sân khấu, kiến trúc, ẩm thực, thú vui","color":"grape","course":"en"},
-  {"unit":504,"level":5,"title":"Phần 33: Ngôn ngữ tinh luyện","desc":"Từ văn chương, từ mượn, thành ngữ, sắc thái tinh tế","color":"sun","course":"en"}
+  {"unit":504,"level":5,"title":"Phần 33: Ngôn ngữ tinh luyện","desc":"Từ văn chương, từ mượn, thành ngữ, sắc thái tinh tế","color":"sun","course":"en"},
+  {"unit":551,"level":5,"title":"Phần 34: Mở rộng – Giải phẫu cơ thể","desc":"Giải phẫu cơ thể, Bệnh lý, Thủ thuật và thiết bị y khoa, Thực vật học, Động vật học","color":"leaf","course":"en"},
+  {"unit":552,"level":5,"title":"Phần 35: Mở rộng – Động vật học","desc":"Động vật học, Chim và côn trùng","color":"sky","course":"en"}
  ],
  "lessons": [
   ["e01","Chào hỏi","Hi",1,12],
@@ -403,12 +405,12 @@
   ["x15","Tôn giáo và thần thoại","Temple",501,12],
   ["x16","Giáo dục học","Teach",501,12],
   ["x17","Giải phẫu","Body",502,12],
-  ["x18","Bệnh lý","Illness",502,12],
+  ["x18","Bệnh lý 1","Illness",502,12],
   ["x19","Dược phẩm","Drug",502,12],
   ["x20","Phẫu thuật","Surgery",502,12],
   ["x21","Vi sinh vật","Germ",502,12],
-  ["x22","Thực vật học","Plant",502,12],
-  ["x23","Động vật học","Animal",502,12],
+  ["x22","Thực vật học 1","Plant",502,12],
+  ["x23","Động vật học 1","Animal",502,12],
   ["x24","Khí tượng","Sky",502,12],
   ["x25","Hàng không","Plane",502,12],
   ["x26","Hàng hải","Ship",502,12],
@@ -450,6 +452,20 @@
   ["x62","Thói xấu","Vice",504,12],
   ["x63","Lượng và mức độ","Amount",504,12],
   ["x64","Từ trang trọng trong văn bản","Formal",504,12],
-  ["x65","Lối sống và dịp gặp gỡ","Life",504,12]
+  ["x65","Lối sống và dịp gặp gỡ","Life",504,12],
+  ["y5001","Giải phẫu cơ thể 1","Anatomy",551,14],
+  ["y5002","Giải phẫu cơ thể 2","Anatomy",551,14],
+  ["y5003","Bệnh lý 2","Disease",551,14],
+  ["y5004","Bệnh lý 3","Disease",551,14],
+  ["y5005","Thủ thuật và thiết bị y khoa","Clinic",551,14],
+  ["y5006","Thực vật học 2","Botany",551,14],
+  ["y5007","Thực vật học 3","Botany",551,14],
+  ["y5008","Động vật học 2","Zoology",551,14],
+  ["y5009","Động vật học 3","Zoology",551,14],
+  ["y5010","Động vật học 4","Zoology",551,14],
+  ["y5021","Động vật học 5","Zoology",552,14],
+  ["y5022","Chim và côn trùng 1","Wings",552,14],
+  ["y5023","Chim và côn trùng 2","Wings",552,14],
+  ["y5024","Chim và côn trùng 3","Wings",552,14]
  ]
 }

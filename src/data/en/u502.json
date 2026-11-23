@@ -17,7 +17,7 @@
    {"id":"x17-artery","hanzi":"artery","pinyin":"","vi":"động mạch","ex":{"tokens":["A","blocked","artery","can","cause","a","heart","attack","."],"py":["","","","","","","","","."],"vi":"Động mạch bị tắc có thể gây đau tim.","alts":[]}},
    {"id":"x17-capillary","hanzi":"capillary","pinyin":"","vi":"mao mạch","ex":{"tokens":["A","capillary","is","thinner","than","a","hair","."],"py":["","","","","","","","."],"vi":"Mao mạch mỏng hơn một sợi tóc.","alts":[]}}
   ]},
-  {"id":"x18","title":"Bệnh lý","desc":"U lành, u ác, viêm, tái phát, tiên lượng","icon":"Illness","unit":502,"course":"en","order":3690,"words":[
+  {"id":"x18","title":"Bệnh lý 1","desc":"U lành, u ác, viêm, tái phát, tiên lượng","icon":"Illness","unit":502,"course":"en","order":3690,"words":[
    {"id":"x18-benign","hanzi":"benign","pinyin":"","vi":"lành tính","ex":{"tokens":["The","lump","was","benign","."],"py":["","","","","."],"vi":"Khối u là lành tính.","alts":[]}},
    {"id":"x18-malignant","hanzi":"malignant","pinyin":"","vi":"ác tính","ex":{"tokens":["Tests","showed","that","the","tumor","was","malignant","."],"py":["","","","","","","","."],"vi":"Xét nghiệm cho thấy khối u là ác tính.","alts":[]}},
    {"id":"x18-lesion","hanzi":"lesion","pinyin":"","vi":"tổn thương (trên da, mô)","ex":{"tokens":["The","doctor","examined","a","lesion","on","his","arm","."],"py":["","","","","","","","","."],"vi":"Bác sĩ khám một vết tổn thương trên cánh tay anh ấy.","alts":[]}},
@@ -73,7 +73,7 @@
    {"id":"x21-microbe","hanzi":"microbe","pinyin":"","vi":"vi sinh vật","ex":{"tokens":["You","cannot","see","a","microbe","without","a","microscope","."],"py":["","","","","","","","","."],"vi":"Bạn không thể thấy vi sinh vật nếu không có kính hiển vi.","alts":[]}},
    {"id":"x21-toxin","hanzi":"toxin","pinyin":"","vi":"độc tố","ex":{"tokens":["The","bacteria","produce","a","dangerous","toxin","."],"py":["","","","","","","."],"vi":"Vi khuẩn tạo ra một độc tố nguy hiểm.","alts":[]}}
   ]},
-  {"id":"x22","title":"Thực vật học","desc":"Phấn hoa, cánh hoa, tán lá, nảy mầm","icon":"Plant","unit":502,"course":"en","order":3730,"words":[
+  {"id":"x22","title":"Thực vật học 1","desc":"Phấn hoa, cánh hoa, tán lá, nảy mầm","icon":"Plant","unit":502,"course":"en","order":3730,"words":[
    {"id":"x22-botany","hanzi":"botany","pinyin":"","vi":"thực vật học","ex":{"tokens":["She","studied","botany","at","university","."],"py":["","","","","","."],"vi":"Cô ấy học thực vật học ở đại học.","alts":[]}},
    {"id":"x22-pollen","hanzi":"pollen","pinyin":"","vi":"phấn hoa","ex":{"tokens":["Pollen","makes","me","sneeze","in","spring","."],"py":["","","","","","","."],"vi":"Phấn hoa làm tôi hắt hơi vào mùa xuân.","alts":[]}},
    {"id":"x22-stamen","hanzi":"stamen","pinyin":"","vi":"nhị hoa","ex":{"tokens":["Each","flower","has","one","long","stamen","."],"py":["","","","","","","."],"vi":"Mỗi bông hoa có một nhị dài.","alts":[]}},
@@ -87,7 +87,7 @@
    {"id":"x22-bark","hanzi":"bark","pinyin":"","vi":"vỏ cây; sủa","ex":{"tokens":["The","bark","of","this","tree","is","white","."],"py":["","","","","","","","."],"vi":"Vỏ của cây này màu trắng.","alts":[]}},
    {"id":"x22-seedling","hanzi":"seedling","pinyin":"","vi":"cây con, cây giống","ex":{"tokens":["Water","each","seedling","every","morning","."],"py":["","","","","","."],"vi":"Hãy tưới mỗi cây con vào mỗi sáng.","alts":[]}}
   ]},
-  {"id":"x23","title":"Động vật học","desc":"Bò sát, lưỡng cư, ăn thịt, ngủ đông","icon":"Animal","unit":502,"course":"en","order":3740,"words":[
+  {"id":"x23","title":"Động vật học 1","desc":"Bò sát, lưỡng cư, ăn thịt, ngủ đông","icon":"Animal","unit":502,"course":"en","order":3740,"words":[
    {"id":"x23-mammal","hanzi":"mammal","pinyin":"","vi":"động vật có vú","ex":{"tokens":["A","whale","is","a","mammal",",","not","a","fish","."],"py":["","","","","",",","","","","."],"vi":"Cá voi là động vật có vú, không phải cá.","alts":[]}},
    {"id":"x23-reptile","hanzi":"reptile","pinyin":"","vi":"loài bò sát","ex":{"tokens":["A","snake","is","a","reptile","."],"py":["","","","","","."],"vi":"Rắn là một loài bò sát.","alts":[]}},
    {"id":"x23-amphibian","hanzi":"amphibian","pinyin":"","vi":"động vật lưỡng cư","ex":{"tokens":["A","frog","is","an","amphibian","."],"py":["","","","","","."],"vi":"Ếch là một động vật lưỡng cư.","alts":[]}},

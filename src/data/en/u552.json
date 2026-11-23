@@ -1,0 +1,71 @@
+{
+ "units": [
+  {"unit":552,"level":5,"title":"Phần 35: Mở rộng – Động vật học","desc":"Động vật học, Chim và côn trùng","color":"sky","course":"en"}
+ ],
+ "lessons": [
+  {"id":"y5021","title":"Động vật học 5","desc":"Phân loại, bộ phận cơ thể, tập tính","icon":"Zoology","unit":552,"course":"en","order":4270,"words":[
+   {"id":"y5021-walrus","hanzi":"walrus","pinyin":"","vi":"hải mã","ex":{"tokens":["The","walrus","has","two","long","teeth","."],"py":["","","","","","","."],"vi":"Hải mã có hai chiếc răng dài.","alts":[]}},
+   {"id":"y5021-porpoise","hanzi":"porpoise","pinyin":"","vi":"cá heo chuột","ex":{"tokens":["A","porpoise","swam","beside","the","boat","."],"py":["","","","","","","."],"vi":"Một con cá heo chuột bơi cạnh thuyền.","alts":[]}},
+   {"id":"y5021-mongoose","hanzi":"mongoose","pinyin":"","vi":"cầy mangut","ex":{"tokens":["The","mongoose","can","kill","a","snake","."],"py":["","","","","","","."],"vi":"Cầy mangut có thể giết rắn.","alts":[]}},
+   {"id":"y5021-meerkat","hanzi":"meerkat","pinyin":"","vi":"chồn đất châu Phi","ex":{"tokens":["A","meerkat","stood","up","to","look","around","."],"py":["","","","","","","","."],"vi":"Một con chồn đất đứng thẳng lên nhìn quanh.","alts":[]}},
+   {"id":"y5021-gazelle","hanzi":"gazelle","pinyin":"","vi":"linh dương gazen","ex":{"tokens":["The","gazelle","ran","from","the","lion","."],"py":["","","","","","","."],"vi":"Con linh dương chạy trốn sư tử.","alts":[]}},
+   {"id":"y5021-antelope","hanzi":"antelope","pinyin":"","vi":"linh dương","ex":{"tokens":["An","antelope","drank","at","the","river","."],"py":["","","","","","","."],"vi":"Một con linh dương uống nước ở sông.","alts":[]}},
+   {"id":"y5021-bison","hanzi":"bison","pinyin":"","vi":"bò rừng bizon","ex":{"tokens":["A","bison","stood","in","the","snow","."],"py":["","","","","","","."],"vi":"Một con bò rừng đứng trong tuyết.","alts":[]}},
+   {"id":"y5021-moose","hanzi":"moose","pinyin":"","vi":"nai sừng tấm","ex":{"tokens":["A","moose","crossed","the","road","in","front","of","us","."],"py":["","","","","","","","","","."],"vi":"Một con nai sừng tấm băng qua đường trước mặt chúng tôi.","alts":[]}},
+   {"id":"y5021-reindeer","hanzi":"reindeer","pinyin":"","vi":"tuần lộc","ex":{"tokens":["The","reindeer","pulled","the","sled","."],"py":["","","","","","."],"vi":"Con tuần lộc kéo xe trượt.","alts":[]}},
+   {"id":"y5021-yak","hanzi":"yak","pinyin":"","vi":"bò yak, bò Tây Tạng","ex":{"tokens":["The","yak","carried","our","bags","up","the","mountain","."],"py":["","","","","","","","","."],"vi":"Con bò yak chở hành lý của chúng tôi lên núi.","alts":[]}},
+   {"id":"y5021-llama","hanzi":"llama","pinyin":"","vi":"lạc đà không bướu","ex":{"tokens":["A","llama","spat","at","the","tourist","."],"py":["","","","","","","."],"vi":"Một con lạc đà không bướu nhổ nước bọt vào du khách.","alts":[]}},
+   {"id":"y5021-alpaca","hanzi":"alpaca","pinyin":"","vi":"lạc đà alpaca","ex":{"tokens":["This","scarf","is","made","of","alpaca","wool","."],"py":["","","","","","","","."],"vi":"Chiếc khăn này làm bằng len alpaca.","alts":[]}},
+   {"id":"y5021-armadillo","hanzi":"armadillo","pinyin":"","vi":"con tatu","ex":{"tokens":["The","armadillo","rolled","into","a","ball","."],"py":["","","","","","","."],"vi":"Con tatu cuộn tròn lại như quả bóng.","alts":[]}},
+   {"id":"y5021-anteater","hanzi":"anteater","pinyin":"","vi":"thú ăn kiến","ex":{"tokens":["The","anteater","has","a","very","long","tongue","."],"py":["","","","","","","","."],"vi":"Thú ăn kiến có cái lưỡi rất dài.","alts":[]}}
+  ]},
+  {"id":"y5022","title":"Chim và côn trùng 1","desc":"Các loài chim, côn trùng, loài bò sát nhỏ","icon":"Wings","unit":552,"course":"en","order":4280,"words":[
+   {"id":"y5022-robin","hanzi":"robin","pinyin":"","vi":"chim cổ đỏ","ex":{"tokens":["A","robin","sang","in","the","garden","."],"py":["","","","","","","."],"vi":"Một con chim cổ đỏ hót trong vườn.","alts":[]}},
+   {"id":"y5022-finch","hanzi":"finch","pinyin":"","vi":"chim sẻ thông","ex":{"tokens":["A","finch","ate","seeds","from","my","hand","."],"py":["","","","","","","","."],"vi":"Một con chim sẻ thông ăn hạt trên tay tôi.","alts":[]}},
+   {"id":"y5022-raven","hanzi":"raven","pinyin":"","vi":"con quạ đen lớn","ex":{"tokens":["A","raven","sat","on","the","tower","."],"py":["","","","","","","."],"vi":"Một con quạ đen đậu trên tháp.","alts":[]}},
+   {"id":"y5022-magpie","hanzi":"magpie","pinyin":"","vi":"chim ác là","ex":{"tokens":["The","magpie","stole","a","shiny","ring","."],"py":["","","","","","","."],"vi":"Con chim ác là trộm một chiếc nhẫn sáng bóng.","alts":[]}},
+   {"id":"y5022-dove","hanzi":"dove","pinyin":"","vi":"chim bồ câu trắng","ex":{"tokens":["The","dove","is","a","symbol","of","peace","."],"py":["","","","","","","","."],"vi":"Chim bồ câu trắng là biểu tượng hòa bình.","alts":[]}},
+   {"id":"y5022-seagull","hanzi":"seagull","pinyin":"","vi":"chim mòng biển","ex":{"tokens":["A","seagull","took","my","sandwich","."],"py":["","","","","","."],"vi":"Một con mòng biển cướp bánh mì kẹp của tôi.","alts":[]}},
+   {"id":"y5022-pelican","hanzi":"pelican","pinyin":"","vi":"chim bồ nông","ex":{"tokens":["The","pelican","caught","a","fish","in","its","big","beak","."],"py":["","","","","","","","","","."],"vi":"Con bồ nông bắt cá bằng cái mỏ to.","alts":[]}},
+   {"id":"y5022-heron","hanzi":"heron","pinyin":"","vi":"con diệc","ex":{"tokens":["A","heron","stood","still","in","the","water","."],"py":["","","","","","","","."],"vi":"Một con diệc đứng im trong nước.","alts":[]}},
+   {"id":"y5022-stork","hanzi":"stork","pinyin":"","vi":"con cò","ex":{"tokens":["A","stork","built","a","nest","on","the","roof","."],"py":["","","","","","","","","."],"vi":"Một con cò làm tổ trên mái nhà.","alts":[]}},
+   {"id":"y5022-flamingo","hanzi":"flamingo","pinyin":"","vi":"chim hồng hạc","ex":{"tokens":["The","flamingo","stood","on","one","leg","."],"py":["","","","","","","."],"vi":"Con hồng hạc đứng một chân.","alts":[]}},
+   {"id":"y5022-falcon","hanzi":"falcon","pinyin":"","vi":"chim cắt","ex":{"tokens":["The","falcon","dived","at","great","speed","."],"py":["","","","","","","."],"vi":"Con chim cắt lao xuống với tốc độ rất cao.","alts":[]}},
+   {"id":"y5022-hawk","hanzi":"hawk","pinyin":"","vi":"chim diều hâu","ex":{"tokens":["A","hawk","circled","above","the","field","."],"py":["","","","","","","."],"vi":"Một con diều hâu lượn vòng trên cánh đồng.","alts":[]}},
+   {"id":"y5022-vulture","hanzi":"vulture","pinyin":"","vi":"kền kền","ex":{"tokens":["A","vulture","waited","near","the","dead","animal","."],"py":["","","","","","","","."],"vi":"Một con kền kền chờ gần xác con vật.","alts":[]}},
+   {"id":"y5022-kingfisher","hanzi":"kingfisher","pinyin":"","vi":"chim bói cá","ex":{"tokens":["A","blue","kingfisher","flew","along","the","river","."],"py":["","","","","","","","."],"vi":"Một con chim bói cá xanh bay dọc dòng sông.","alts":[]}}
+  ]},
+  {"id":"y5023","title":"Chim và côn trùng 2","desc":"Các loài chim, côn trùng, loài bò sát nhỏ","icon":"Wings","unit":552,"course":"en","order":4290,"words":[
+   {"id":"y5023-woodpecker","hanzi":"woodpecker","pinyin":"","vi":"chim gõ kiến","ex":{"tokens":["We","heard","a","woodpecker","in","the","forest","."],"py":["","","","","","","","."],"vi":"Chúng tôi nghe tiếng chim gõ kiến trong rừng.","alts":[]}},
+   {"id":"y5023-hummingbird","hanzi":"hummingbird","pinyin":"","vi":"chim ruồi","ex":{"tokens":["A","hummingbird","drank","from","the","flower","."],"py":["","","","","","","."],"vi":"Một con chim ruồi hút mật từ bông hoa.","alts":[]}},
+   {"id":"y5023-nightingale","hanzi":"nightingale","pinyin":"","vi":"chim sơn ca (họa mi)","ex":{"tokens":["The","nightingale","sings","at","night","."],"py":["","","","","","."],"vi":"Chim họa mi hót vào ban đêm.","alts":[]}},
+   {"id":"y5023-cuckoo","hanzi":"cuckoo","pinyin":"","vi":"chim cu cu","ex":{"tokens":["The","cuckoo","lays","eggs","in","other","nests","."],"py":["","","","","","","","."],"vi":"Chim cu cu đẻ trứng vào tổ chim khác.","alts":[]}},
+   {"id":"y5023-ostrich","hanzi":"ostrich","pinyin":"","vi":"đà điểu","ex":{"tokens":["An","ostrich","cannot","fly","."],"py":["","","","","."],"vi":"Đà điểu không biết bay.","alts":[]}},
+   {"id":"y5023-peacock","hanzi":"peacock","pinyin":"","vi":"con công","ex":{"tokens":["The","peacock","opened","its","tail","."],"py":["","","","","","."],"vi":"Con công xòe đuôi.","alts":[]}},
+   {"id":"y5023-pheasant","hanzi":"pheasant","pinyin":"","vi":"chim trĩ","ex":{"tokens":["A","pheasant","ran","across","the","road","."],"py":["","","","","","","."],"vi":"Một con chim trĩ chạy ngang đường.","alts":[]}},
+   {"id":"y5023-quail","hanzi":"quail","pinyin":"","vi":"chim cút","ex":{"tokens":["She","cooked","quail","eggs","for","breakfast","."],"py":["","","","","","","."],"vi":"Cô ấy nấu trứng chim cút cho bữa sáng.","alts":[]}},
+   {"id":"y5023-albatross","hanzi":"albatross","pinyin":"","vi":"chim hải âu lớn","ex":{"tokens":["The","albatross","can","fly","for","hours","without","rest","."],"py":["","","","","","","","","."],"vi":"Chim hải âu lớn có thể bay nhiều giờ không nghỉ.","alts":[]}},
+   {"id":"y5023-puffin","hanzi":"puffin","pinyin":"","vi":"chim hải âu cổ rụt","ex":{"tokens":["A","puffin","has","a","bright","orange","beak","."],"py":["","","","","","","","."],"vi":"Chim hải âu cổ rụt có cái mỏ màu cam tươi.","alts":[]}},
+   {"id":"y5023-moth","hanzi":"moth","pinyin":"","vi":"con ngài, bướm đêm","ex":{"tokens":["A","moth","flew","around","the","lamp","."],"py":["","","","","","","."],"vi":"Một con ngài bay quanh ngọn đèn.","alts":[]}},
+   {"id":"y5023-wasp","hanzi":"wasp","pinyin":"","vi":"ong bắp cày","ex":{"tokens":["A","wasp","stung","me","on","the","arm","."],"py":["","","","","","","","."],"vi":"Một con ong bắp cày đốt vào tay tôi.","alts":[]}},
+   {"id":"y5023-hornet","hanzi":"hornet","pinyin":"","vi":"ong bắp cày lớn","ex":{"tokens":["There","is","a","hornet","nest","under","the","roof","."],"py":["","","","","","","","","."],"vi":"Có một tổ ong bắp cày lớn dưới mái nhà.","alts":[]}},
+   {"id":"y5023-bumblebee","hanzi":"bumblebee","pinyin":"","vi":"ong nghệ","ex":{"tokens":["A","bumblebee","landed","on","the","flower","."],"py":["","","","","","","."],"vi":"Một con ong nghệ đậu trên bông hoa.","alts":[]}}
+  ]},
+  {"id":"y5024","title":"Chim và côn trùng 3","desc":"Các loài chim, côn trùng, loài bò sát nhỏ","icon":"Wings","unit":552,"course":"en","order":4300,"words":[
+   {"id":"y5024-locust","hanzi":"locust","pinyin":"","vi":"châu chấu (di cư)","ex":{"tokens":["A","locust","swarm","destroyed","the","crops","."],"py":["","","","","","","."],"vi":"Một đàn châu chấu phá hủy mùa màng.","alts":[]}},
+   {"id":"y5024-cicada","hanzi":"cicada","pinyin":"","vi":"con ve sầu","ex":{"tokens":["The","cicada","is","loud","in","summer","."],"py":["","","","","","","."],"vi":"Ve sầu kêu inh ỏi vào mùa hè.","alts":[]}},
+   {"id":"y5024-firefly","hanzi":"firefly","pinyin":"","vi":"con đom đóm","ex":{"tokens":["A","firefly","glowed","in","the","dark","."],"py":["","","","","","","."],"vi":"Một con đom đóm phát sáng trong bóng tối.","alts":[]}},
+   {"id":"y5024-termite","hanzi":"termite","pinyin":"","vi":"con mối","ex":{"tokens":["Termite","damage","ruined","the","wooden","floor","."],"py":["","","","","","","."],"vi":"Mối phá hỏng sàn gỗ.","alts":[]}},
+   {"id":"y5024-flea","hanzi":"flea","pinyin":"","vi":"con bọ chét","ex":{"tokens":["The","dog","has","a","flea","problem","."],"py":["","","","","","","."],"vi":"Con chó bị bọ chét.","alts":[]}},
+   {"id":"y5024-louse","hanzi":"louse","pinyin":"","vi":"con chấy, con rận","ex":{"tokens":["The","nurse","found","a","louse","in","the","child's","hair","."],"py":["","","","","","","","","","."],"vi":"Y tá tìm thấy một con chấy trên tóc đứa bé.","alts":[]}},
+   {"id":"y5024-mite","hanzi":"mite","pinyin":"","vi":"con ve bét, mạt","ex":{"tokens":["A","dust","mite","is","too","small","to","see","."],"py":["","","","","","","","","."],"vi":"Mạt bụi nhỏ đến mức không nhìn thấy được.","alts":[]}},
+   {"id":"y5024-cockroach","hanzi":"cockroach","pinyin":"","vi":"con gián","ex":{"tokens":["A","cockroach","ran","under","the","fridge","."],"py":["","","","","","","."],"vi":"Một con gián chạy vào gầm tủ lạnh.","alts":[]}},
+   {"id":"y5024-centipede","hanzi":"centipede","pinyin":"","vi":"con rết","ex":{"tokens":["A","centipede","crawled","out","of","the","shoe","."],"py":["","","","","","","","."],"vi":"Một con rết bò ra khỏi chiếc giày.","alts":[]}},
+   {"id":"y5024-scorpion","hanzi":"scorpion","pinyin":"","vi":"bọ cạp","ex":{"tokens":["A","scorpion","hid","under","the","rock","."],"py":["","","","","","","."],"vi":"Một con bọ cạp nấp dưới tảng đá.","alts":[]}},
+   {"id":"y5024-earthworm","hanzi":"earthworm","pinyin":"","vi":"giun đất","ex":{"tokens":["An","earthworm","came","up","after","the","rain","."],"py":["","","","","","","","."],"vi":"Một con giun đất ngoi lên sau cơn mưa.","alts":[]}},
+   {"id":"y5024-slug","hanzi":"slug","pinyin":"","vi":"con sên trần","ex":{"tokens":["A","slug","ate","the","lettuce","leaves","."],"py":["","","","","","","."],"vi":"Một con sên ăn lá xà lách.","alts":[]}},
+   {"id":"y5024-leech","hanzi":"leech","pinyin":"","vi":"con đỉa","ex":{"tokens":["A","leech","stuck","to","his","leg","."],"py":["","","","","","","."],"vi":"Một con đỉa bám vào chân anh ấy.","alts":[]}},
+   {"id":"y5024-mantis","hanzi":"mantis","pinyin":"","vi":"con bọ ngựa","ex":{"tokens":["A","green","mantis","sat","on","the","leaf","."],"py":["","","","","","","","."],"vi":"Một con bọ ngựa xanh đậu trên lá.","alts":[]}}
+  ]}
+ ]
+}
