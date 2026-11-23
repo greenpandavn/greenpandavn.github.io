@@ -1,0 +1,87 @@
+# Level 3 (Nâng cao): tiền bạc và công nghệ hằng ngày.
+@3|Tiền bạc hằng ngày|Ngân hàng, mua sắm, hóa đơn|Money
+cash machine|máy rút tiền|Is there a cash machine near here?|Gần đây có máy rút tiền không?
+bank account|tài khoản ngân hàng|I opened a bank account today.|Hôm nay tôi mở một tài khoản ngân hàng.
+savings account|tài khoản tiết kiệm|She puts money in a savings account every month.|Tháng nào cô ấy cũng gửi tiền vào tài khoản tiết kiệm.
+credit limit|hạn mức tín dụng|My credit limit is twenty million dong.|Hạn mức tín dụng của tôi là hai mươi triệu đồng.
+bank transfer|chuyển khoản ngân hàng|You can pay by bank transfer.|Bạn có thể thanh toán bằng chuyển khoản.
+bank statement|sao kê ngân hàng|Check your bank statement every month.|Hãy kiểm tra sao kê ngân hàng mỗi tháng.
+direct debit|ủy nhiệm chi tự động|I pay my rent by direct debit.|Tôi trả tiền thuê nhà bằng ủy nhiệm chi tự động.
+pin number|mã PIN|Never tell anyone your pin number.|Đừng bao giờ cho ai biết mã PIN của bạn.
+refund policy|chính sách hoàn tiền|Read the refund policy before you buy.|Hãy đọc chính sách hoàn tiền trước khi mua.
+discount code|mã giảm giá|Enter the discount code at checkout.|Hãy nhập mã giảm giá khi thanh toán.
+online order|đơn hàng trực tuyến|My online order arrived today.|Đơn hàng trực tuyến của tôi đã đến hôm nay.
+delivery fee|phí giao hàng|The delivery fee is fifteen thousand dong.|Phí giao hàng là mười lăm nghìn đồng.
+tracking number|mã vận đơn|Use the tracking number to follow your parcel.|Hãy dùng mã vận đơn để theo dõi bưu kiện.
+bargain hunter|người săn hàng giá rẻ|My mother is a real bargain hunter.|Mẹ tôi đúng là người săn hàng giá rẻ.
+impulse buy|món mua bốc đồng|These shoes were an impulse buy.|Đôi giày này là một món mua bốc đồng.
+price drop|đợt giảm giá|I am waiting for a price drop.|Tôi đang chờ giá giảm.
+special offer|ưu đãi đặc biệt|There is a special offer on coffee this week.|Tuần này có ưu đãi đặc biệt cho cà phê.
+clearance sale|đợt xả hàng|I got this coat in a clearance sale.|Tôi mua chiếc áo khoác này trong đợt xả hàng.
+half price|nửa giá|All shoes are half price today.|Hôm nay tất cả giày đều giảm nửa giá.
+two for one|mua một tặng một|Pizzas are two for one on Tuesday.|Thứ Ba pizza mua một tặng một.
+money back|hoàn lại tiền|You can get your money back within a week.|Bạn có thể được hoàn lại tiền trong vòng một tuần.
+overcharge|tính tiền quá cao|Some taxis overcharge tourists.|Một số taxi tính tiền quá cao với du khách.
+undercharge|tính thiếu tiền|The waiter managed to undercharge us by mistake.|Người phục vụ tính thiếu tiền của chúng tôi do nhầm lẫn.
+rip-off|giá cắt cổ|Ten dollars for water is a rip-off.|Mười đô la cho một chai nước là giá cắt cổ.
+tip jar|hũ tiền boa|I put some coins in the tip jar.|Tôi bỏ vài đồng xu vào hũ tiền boa.
+household bill|hóa đơn sinh hoạt|We share every household bill.|Chúng tôi chia nhau mọi hóa đơn sinh hoạt.
+electricity bill|hóa đơn tiền điện|The electricity bill is high in summer.|Hóa đơn tiền điện cao vào mùa hè.
+water bill|hóa đơn tiền nước|Have you paid the water bill?|Bạn đã trả hóa đơn tiền nước chưa?
+phone bill|hóa đơn điện thoại|My phone bill was huge last month.|Hóa đơn điện thoại tháng trước của tôi rất lớn.
+rent payment|tiền thuê nhà phải trả|The rent payment is due on the first.|Tiền thuê nhà phải trả vào ngày mùng một.
+pay cut|việc giảm lương|Staff accepted a pay cut to save jobs.|Nhân viên chấp nhận giảm lương để giữ việc làm.
+overtime pay|lương làm thêm giờ|She gets overtime pay at weekends.|Cô ấy được lương làm thêm giờ vào cuối tuần.
+tax return|tờ khai thuế|I have to send my tax return this month.|Tôi phải nộp tờ khai thuế trong tháng này.
+loan payment|khoản trả nợ vay|He missed a loan payment.|Anh ấy lỡ một kỳ trả nợ vay.
+
+@3|Công nghệ hằng ngày|Điện thoại, ứng dụng, mạng|Devices
+home screen|màn hình chính|Put the app on your home screen.|Hãy đặt ứng dụng lên màn hình chính.
+lock screen|màn hình khóa|The time shows on the lock screen.|Giờ hiện trên màn hình khóa.
+screen saver|màn hình chờ|My screen saver is a photo of the sea.|Màn hình chờ của tôi là ảnh biển.
+ringtone|nhạc chuông|I changed my ringtone.|Tôi đã đổi nhạc chuông.
+voicemail|hộp thư thoại|Leave a message on my voicemail.|Hãy để lại lời nhắn trong hộp thư thoại của tôi.
+group chat|nhóm chat|I will post the photos in the group chat.|Tôi sẽ đăng ảnh vào nhóm chat.
+missed call|cuộc gọi nhỡ|I have a missed call from Mom.|Tôi có một cuộc gọi nhỡ từ mẹ.
+phone charger|sạc điện thoại|Can I borrow your phone charger?|Tôi mượn sạc điện thoại của bạn được không?
+memory card|thẻ nhớ|The camera needs a new memory card.|Máy ảnh cần một thẻ nhớ mới.
+SIM card|thẻ SIM|I bought a local SIM card at the airport.|Tôi mua một thẻ SIM địa phương ở sân bay.
+earphones|tai nghe nhét tai|I left my earphones on the bus.|Tôi để quên tai nghe trên xe buýt.
+smart speaker|loa thông minh|The smart speaker plays music when I ask.|Loa thông minh phát nhạc khi tôi yêu cầu.
+fitness tracker|vòng theo dõi sức khỏe|My fitness tracker counts my steps.|Vòng theo dõi sức khỏe đếm số bước chân của tôi.
+game console|máy chơi game|He got a game console for his birthday.|Cậu ấy được tặng máy chơi game vào sinh nhật.
+game controller|tay cầm chơi game|The game controller needs new batteries.|Tay cầm chơi game cần thay pin.
+mouse pad|bàn di chuột|I need a bigger mouse pad.|Tôi cần một bàn di chuột to hơn.
+keyboard shortcut|phím tắt|Learn the keyboard shortcut for copy.|Hãy học phím tắt để sao chép.
+search bar|thanh tìm kiếm|Type the name in the search bar.|Hãy gõ tên vào thanh tìm kiếm.
+web browser|trình duyệt web|Which web browser do you use?|Bạn dùng trình duyệt web nào?
+web address|địa chỉ trang web|Write down the web address.|Hãy ghi lại địa chỉ trang web.
+tab|thẻ (trình duyệt)|Open the link in a new tab.|Hãy mở liên kết trong một thẻ mới.
+drop-down menu|trình đơn thả xuống|Choose your country from the drop-down menu.|Hãy chọn quốc gia từ trình đơn thả xuống.
+sign up|đăng ký|Sign up for a free account.|Hãy đăng ký một tài khoản miễn phí.
+sign in|đăng nhập|Sign in with your email.|Hãy đăng nhập bằng email.
+profile picture|ảnh đại diện|She changed her profile picture.|Cô ấy đổi ảnh đại diện.
+status update|cập nhật trạng thái|He posted a status update from the airport.|Anh ấy đăng một cập nhật trạng thái từ sân bay.
+news feed|bảng tin|My news feed is full of cat videos.|Bảng tin của tôi toàn video mèo.
+friend request|lời mời kết bạn|I sent her a friend request.|Tôi gửi cho cô ấy lời mời kết bạn.
+podcast episode|tập podcast|I listened to a podcast episode on the bus.|Tôi nghe một tập podcast trên xe buýt.
+download speed|tốc độ tải xuống|The download speed is slow tonight.|Tối nay tốc độ tải xuống chậm.
+junk mail|thư rác|My inbox is full of junk mail.|Hộp thư của tôi đầy thư rác.
+spam filter|bộ lọc thư rác|The spam filter caught the message.|Bộ lọc thư rác đã chặn tin nhắn đó.
+virus scan|quét vi-rút|Run a virus scan on the laptop.|Hãy quét vi-rút cho máy tính xách tay.
+software update|bản cập nhật phần mềm|Install the software update tonight.|Hãy cài bản cập nhật phần mềm tối nay.
+app store|cửa hàng ứng dụng|You can find the game in the app store.|Bạn có thể tìm trò chơi trong cửa hàng ứng dụng.
+in-app purchase|mua hàng trong ứng dụng|The game is free but has an in-app purchase for extra levels.|Trò chơi miễn phí nhưng có mua hàng trong ứng dụng để mở thêm màn.
+data plan|gói dữ liệu|My data plan has ten gigabytes.|Gói dữ liệu của tôi có mười gigabyte.
+mobile data|dữ liệu di động|Turn off mobile data when you are abroad.|Hãy tắt dữ liệu di động khi ở nước ngoài.
+signal strength|cường độ sóng|The signal strength is weak in the lift.|Sóng yếu trong thang máy.
+low battery|pin yếu|My phone shows low battery.|Điện thoại của tôi báo pin yếu.
+airplane mode|chế độ máy bay|Switch your phone to airplane mode.|Hãy chuyển điện thoại sang chế độ máy bay.
+dark mode|chế độ tối|I use dark mode at night.|Tôi dùng chế độ tối vào ban đêm.
+voice assistant|trợ lý giọng nói|Ask the voice assistant for the weather.|Hãy hỏi trợ lý giọng nói về thời tiết.
+online banking|ngân hàng trực tuyến|I pay my bills with online banking.|Tôi trả hóa đơn bằng ngân hàng trực tuyến.
+digital wallet|ví điện tử|I paid with my digital wallet.|Tôi thanh toán bằng ví điện tử.
+contactless payment|thanh toán không chạm|The café accepts contactless payment.|Quán cà phê nhận thanh toán không chạm.
+QR code|mã QR|Scan the QR code to see the menu.|Hãy quét mã QR để xem thực đơn.
+two-step verification|xác minh hai bước|Turn on two-step verification for your email.|Hãy bật xác minh hai bước cho email của bạn.
+backup copy|bản sao lưu|Keep a backup copy of your photos.|Hãy giữ một bản sao lưu ảnh của bạn.

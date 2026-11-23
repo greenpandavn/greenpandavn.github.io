@@ -1,9 +1,9 @@
 {
  "units": [
-  {"unit":558,"level":5,"title":"Phần 64: Mở rộng – Kinh tế học","desc":"Kinh tế học, Sinh học và di truyền, Kỹ thuật và công trình","color":"grape","course":"en"}
+  {"unit":558,"level":5,"title":"Phần 65: Mở rộng – Kinh tế học","desc":"Kinh tế học, Sinh học và di truyền, Kỹ thuật và công trình","color":"grape","course":"en"}
  ],
  "lessons": [
-  {"id":"y5141","title":"Kinh tế học 3","desc":"Vĩ mô, thị trường, thuế, thương mại","icon":"Economy","unit":558,"course":"en","order":7040,"words":[
+  {"id":"y5141","title":"Kinh tế học 3","desc":"Vĩ mô, thị trường, thuế, thương mại","icon":"Economy","unit":558,"course":"en","order":7150,"words":[
    {"id":"y5141-scarcity","hanzi":"scarcity","pinyin":"","vi":"sự khan hiếm","ex":{"tokens":["The","scarcity","of","water","pushed","prices","up","."],"py":["","","","","","","","."],"vi":"Sự khan hiếm nước đẩy giá lên.","alts":[]}},
    {"id":"y5141-opportunity_cost","hanzi":"opportunity cost","pinyin":"","vi":"chi phí cơ hội","ex":{"tokens":["The","opportunity","cost","of","study","is","lost","wages","."],"py":["","","","","","","","","."],"vi":"Chi phí cơ hội của việc học là tiền lương bị mất.","alts":[]}},
    {"id":"y5141-marginal_cost","hanzi":"marginal cost","pinyin":"","vi":"chi phí biên","ex":{"tokens":["The","marginal","cost","of","one","more","copy","is","tiny","."],"py":["","","","","","","","","","."],"vi":"Chi phí biên của một bản sao nữa là rất nhỏ.","alts":[]}},
@@ -18,7 +18,7 @@
    {"id":"y5141-tax_evasion","hanzi":"tax evasion","pinyin":"","vi":"trốn thuế","ex":{"tokens":["He","was","jailed","for","tax","evasion","."],"py":["","","","","","","."],"vi":"Ông ta bị bỏ tù vì trốn thuế.","alts":[]}},
    {"id":"y5141-tax_bracket","hanzi":"tax bracket","pinyin":"","vi":"khung thuế suất","ex":{"tokens":["A","pay","rise","moved","her","into","a","higher","tax","bracket","."],"py":["","","","","","","","","","","."],"vi":"Việc tăng lương đưa cô ấy lên khung thuế cao hơn.","alts":[]}}
   ]},
-  {"id":"y5142","title":"Kinh tế học 4","desc":"Vĩ mô, thị trường, thuế, thương mại","icon":"Economy","unit":558,"course":"en","order":7050,"words":[
+  {"id":"y5142","title":"Kinh tế học 4","desc":"Vĩ mô, thị trường, thuế, thương mại","icon":"Economy","unit":558,"course":"en","order":7160,"words":[
    {"id":"y5142-purchasing_power","hanzi":"purchasing power","pinyin":"","vi":"sức mua","ex":{"tokens":["Inflation","reduces","purchasing","power","."],"py":["","","","","."],"vi":"Lạm phát làm giảm sức mua.","alts":[]}},
    {"id":"y5142-cost_of_living","hanzi":"cost of living","pinyin":"","vi":"chi phí sinh hoạt","ex":{"tokens":["The","cost","of","living","is","high","in","Tokyo","."],"py":["","","","","","","","","."],"vi":"Chi phí sinh hoạt ở Tokyo cao.","alts":[]}},
    {"id":"y5142-standard_of_living","hanzi":"standard of living","pinyin":"","vi":"mức sống","ex":{"tokens":["The","standard","of","living","has","improved","."],"py":["","","","","","","."],"vi":"Mức sống đã được cải thiện.","alts":[]}},
@@ -33,7 +33,7 @@
    {"id":"y5142-asset_bubble","hanzi":"asset bubble","pinyin":"","vi":"bong bóng tài sản","ex":{"tokens":["Cheap","loans","created","an","asset","bubble","."],"py":["","","","","","","."],"vi":"Các khoản vay rẻ tạo ra bong bóng tài sản.","alts":[]}},
    {"id":"y5142-monopsony","hanzi":"monopsony","pinyin":"","vi":"độc quyền mua","ex":{"tokens":["A","single","employer","in","a","town","has","a","monopsony","."],"py":["","","","","","","","","","."],"vi":"Một chủ lao động duy nhất trong thị trấn có độc quyền mua.","alts":[]}}
   ]},
-  {"id":"y5143","title":"Sinh học và di truyền 1","desc":"Tế bào, di truyền, sinh sản, sinh thái","icon":"Biology","unit":558,"course":"en","order":7060,"words":[
+  {"id":"y5143","title":"Sinh học và di truyền 1","desc":"Tế bào, di truyền, sinh sản, sinh thái","icon":"Biology","unit":558,"course":"en","order":7170,"words":[
    {"id":"y5143-genome","hanzi":"genome","pinyin":"","vi":"bộ gen","ex":{"tokens":["Scientists","mapped","the","human","genome","."],"py":["","","","","","."],"vi":"Các nhà khoa học đã lập bản đồ bộ gen người.","alts":[]}},
    {"id":"y5143-chromosome","hanzi":"chromosome","pinyin":"","vi":"nhiễm sắc thể","ex":{"tokens":["Each","chromosome","carries","many","genes","."],"py":["","","","","","."],"vi":"Mỗi nhiễm sắc thể mang nhiều gen.","alts":[]}},
    {"id":"y5143-heredity","hanzi":"heredity","pinyin":"","vi":"tính di truyền","ex":{"tokens":["Eye","color","is","a","matter","of","heredity","."],"py":["","","","","","","","."],"vi":"Màu mắt là do di truyền.","alts":[]}},
@@ -48,7 +48,7 @@
    {"id":"y5143-metabolism","hanzi":"metabolism","pinyin":"","vi":"sự trao đổi chất","ex":{"tokens":["Exercise","speeds","up","your","metabolism","."],"py":["","","","","","."],"vi":"Tập thể dục đẩy nhanh quá trình trao đổi chất.","alts":[]}},
    {"id":"y5143-mitosis","hanzi":"mitosis","pinyin":"","vi":"nguyên phân","ex":{"tokens":["Skin","cells","divide","by","mitosis","."],"py":["","","","","","."],"vi":"Tế bào da phân chia bằng nguyên phân.","alts":[]}}
   ]},
-  {"id":"y5144","title":"Sinh học và di truyền 2","desc":"Tế bào, di truyền, sinh sản, sinh thái","icon":"Biology","unit":558,"course":"en","order":7070,"words":[
+  {"id":"y5144","title":"Sinh học và di truyền 2","desc":"Tế bào, di truyền, sinh sản, sinh thái","icon":"Biology","unit":558,"course":"en","order":7180,"words":[
    {"id":"y5144-meiosis","hanzi":"meiosis","pinyin":"","vi":"giảm phân","ex":{"tokens":["Meiosis","produces","sex","cells","."],"py":["","","","","."],"vi":"Giảm phân tạo ra tế bào sinh dục.","alts":[]}},
    {"id":"y5144-fetus","hanzi":"fetus","pinyin":"","vi":"bào thai","ex":{"tokens":["The","fetus","can","hear","sounds","."],"py":["","","","","","."],"vi":"Bào thai có thể nghe được âm thanh.","alts":[]}},
    {"id":"y5144-fertilization","hanzi":"fertilization","pinyin":"","vi":"sự thụ tinh; sự bón phân","ex":{"tokens":["Fertilization","happens","inside","the","flower","."],"py":["","","","","","."],"vi":"Sự thụ tinh diễn ra bên trong bông hoa.","alts":[]}},
@@ -63,7 +63,7 @@
    {"id":"y5144-crustacean","hanzi":"crustacean","pinyin":"","vi":"động vật giáp xác","ex":{"tokens":["A","crab","is","a","crustacean","."],"py":["","","","","","."],"vi":"Cua là động vật giáp xác.","alts":[]}},
    {"id":"y5144-mollusk","hanzi":"mollusk","pinyin":"","vi":"động vật thân mềm","ex":{"tokens":["A","snail","is","a","mollusk","."],"py":["","","","","","."],"vi":"Ốc sên là động vật thân mềm.","alts":[]}}
   ]},
-  {"id":"y5145","title":"Sinh học và di truyền 3","desc":"Tế bào, di truyền, sinh sản, sinh thái","icon":"Biology","unit":558,"course":"en","order":7080,"words":[
+  {"id":"y5145","title":"Sinh học và di truyền 3","desc":"Tế bào, di truyền, sinh sản, sinh thái","icon":"Biology","unit":558,"course":"en","order":7190,"words":[
    {"id":"y5145-arthropod","hanzi":"arthropod","pinyin":"","vi":"động vật chân đốt","ex":{"tokens":["A","spider","is","an","arthropod","."],"py":["","","","","","."],"vi":"Nhện là động vật chân đốt.","alts":[]}},
    {"id":"y5145-taxonomy","hanzi":"taxonomy","pinyin":"","vi":"phân loại học","ex":{"tokens":["Taxonomy","puts","living","things","into","groups","."],"py":["","","","","","","."],"vi":"Phân loại học xếp sinh vật thành các nhóm.","alts":[]}},
    {"id":"y5145-genus","hanzi":"genus","pinyin":"","vi":"chi (sinh học)","ex":{"tokens":["Lions","and","tigers","belong","to","the","same","genus","."],"py":["","","","","","","","","."],"vi":"Sư tử và hổ thuộc cùng một chi.","alts":[]}},
@@ -78,7 +78,7 @@
    {"id":"y5145-allele","hanzi":"allele","pinyin":"","vi":"alen","ex":{"tokens":["Each","parent","passes","on","one","allele","."],"py":["","","","","","","."],"vi":"Mỗi bố mẹ truyền lại một alen.","alts":[]}},
    {"id":"y5145-nucleotide","hanzi":"nucleotide","pinyin":"","vi":"nuclêôtit","ex":{"tokens":["A","nucleotide","is","a","building","block","of","DNA","."],"py":["","","","","","","","","."],"vi":"Nuclêôtit là đơn vị cấu tạo của DNA.","alts":[]}}
   ]},
-  {"id":"y5146","title":"Sinh học và di truyền 4","desc":"Tế bào, di truyền, sinh sản, sinh thái","icon":"Biology","unit":558,"course":"en","order":7090,"words":[
+  {"id":"y5146","title":"Sinh học và di truyền 4","desc":"Tế bào, di truyền, sinh sản, sinh thái","icon":"Biology","unit":558,"course":"en","order":7200,"words":[
    {"id":"y5146-ribosome","hanzi":"ribosome","pinyin":"","vi":"ribôxôm","ex":{"tokens":["A","ribosome","makes","proteins","."],"py":["","","","","."],"vi":"Ribôxôm tổng hợp protein.","alts":[]}},
    {"id":"y5146-organelle","hanzi":"organelle","pinyin":"","vi":"bào quan","ex":{"tokens":["The","nucleus","is","the","largest","organelle","."],"py":["","","","","","","."],"vi":"Nhân là bào quan lớn nhất.","alts":[]}},
    {"id":"y5146-zygote","hanzi":"zygote","pinyin":"","vi":"hợp tử","ex":{"tokens":["The","zygote","divides","into","two","cells","."],"py":["","","","","","","."],"vi":"Hợp tử phân chia thành hai tế bào.","alts":[]}},
@@ -92,7 +92,7 @@
    {"id":"y5146-xylem","hanzi":"xylem","pinyin":"","vi":"mạch gỗ","ex":{"tokens":["Xylem","carries","water","up","the","stem","."],"py":["","","","","","","."],"vi":"Mạch gỗ dẫn nước lên thân cây.","alts":[]}},
    {"id":"y5146-phloem","hanzi":"phloem","pinyin":"","vi":"mạch rây","ex":{"tokens":["Phloem","carries","sugar","around","the","plant","."],"py":["","","","","","","."],"vi":"Mạch rây vận chuyển đường đi khắp cây.","alts":[]}}
   ]},
-  {"id":"y5147","title":"Kỹ thuật và công trình 1","desc":"Máy móc, gia công, xây dựng, năng lượng","icon":"Engineer","unit":558,"course":"en","order":7100,"words":[
+  {"id":"y5147","title":"Kỹ thuật và công trình 1","desc":"Máy móc, gia công, xây dựng, năng lượng","icon":"Engineer","unit":558,"course":"en","order":7210,"words":[
    {"id":"y5147-composite","hanzi":"composite","pinyin":"","vi":"vật liệu tổng hợp; ghép","ex":{"tokens":["The","boat","is","made","of","a","light","composite","."],"py":["","","","","","","","","."],"vi":"Con thuyền làm bằng vật liệu tổng hợp nhẹ.","alts":[]}},
    {"id":"y5147-superconductor","hanzi":"superconductor","pinyin":"","vi":"chất siêu dẫn","ex":{"tokens":["A","superconductor","has","no","electrical","resistance","."],"py":["","","","","","","."],"vi":"Chất siêu dẫn không có điện trở.","alts":[]}},
    {"id":"y5147-circuit_board","hanzi":"circuit board","pinyin":"","vi":"bảng mạch","ex":{"tokens":["The","circuit","board","was","damaged","by","water","."],"py":["","","","","","","","."],"vi":"Bảng mạch bị hỏng do nước.","alts":[]}},
@@ -108,7 +108,7 @@
    {"id":"y5147-compression","hanzi":"compression","pinyin":"","vi":"sự nén","ex":{"tokens":["Compression","makes","the","file","smaller","."],"py":["","","","","","."],"vi":"Việc nén làm tệp nhỏ hơn.","alts":[]}},
    {"id":"y5147-stress_test","hanzi":"stress test","pinyin":"","vi":"bài kiểm tra chịu tải","ex":{"tokens":["The","bridge","passed","its","stress","test","."],"py":["","","","","","","."],"vi":"Cây cầu đã qua bài kiểm tra chịu tải.","alts":[]}}
   ]},
-  {"id":"y5148","title":"Kỹ thuật và công trình 2","desc":"Máy móc, gia công, xây dựng, năng lượng","icon":"Engineer","unit":558,"course":"en","order":7110,"words":[
+  {"id":"y5148","title":"Kỹ thuật và công trình 2","desc":"Máy móc, gia công, xây dựng, năng lượng","icon":"Engineer","unit":558,"course":"en","order":7220,"words":[
    {"id":"y5148-load_bearing","hanzi":"load-bearing","pinyin":"","vi":"chịu lực","ex":{"tokens":["Do","not","remove","a","load-bearing","wall","."],"py":["","","","","","","."],"vi":"Đừng phá tường chịu lực.","alts":[]}},
    {"id":"y5148-tensile_strength","hanzi":"tensile strength","pinyin":"","vi":"độ bền kéo","ex":{"tokens":["Steel","has","high","tensile","strength","."],"py":["","","","","","."],"vi":"Thép có độ bền kéo cao.","alts":[]}},
    {"id":"y5148-corrosion","hanzi":"corrosion","pinyin":"","vi":"sự ăn mòn","ex":{"tokens":["Paint","protects","the","metal","from","corrosion","."],"py":["","","","","","","."],"vi":"Sơn bảo vệ kim loại khỏi bị ăn mòn.","alts":[]}},
@@ -123,7 +123,7 @@
    {"id":"y5148-calibration","hanzi":"calibration","pinyin":"","vi":"sự hiệu chuẩn","ex":{"tokens":["The","scale","needs","calibration","."],"py":["","","","","."],"vi":"Chiếc cân cần được hiệu chuẩn.","alts":[]}},
    {"id":"y5148-assembly_line","hanzi":"assembly line","pinyin":"","vi":"dây chuyền lắp ráp","ex":{"tokens":["She","works","on","an","assembly","line","."],"py":["","","","","","","."],"vi":"Cô ấy làm việc trên dây chuyền lắp ráp.","alts":[]}}
   ]},
-  {"id":"y5149","title":"Kỹ thuật và công trình 3","desc":"Máy móc, gia công, xây dựng, năng lượng","icon":"Engineer","unit":558,"course":"en","order":7120,"words":[
+  {"id":"y5149","title":"Kỹ thuật và công trình 3","desc":"Máy móc, gia công, xây dựng, năng lượng","icon":"Engineer","unit":558,"course":"en","order":7230,"words":[
    {"id":"y5149-nanotechnology","hanzi":"nanotechnology","pinyin":"","vi":"công nghệ nano","ex":{"tokens":["Nanotechnology","is","used","in","new","medicines","."],"py":["","","","","","","."],"vi":"Công nghệ nano được dùng trong các loại thuốc mới.","alts":[]}},
    {"id":"y5149-fiber_optics","hanzi":"fiber optics","pinyin":"","vi":"sợi quang, cáp quang","ex":{"tokens":["Fiber","optics","carry","data","as","light","."],"py":["","","","","","","."],"vi":"Cáp quang truyền dữ liệu dưới dạng ánh sáng.","alts":[]}},
    {"id":"y5149-coolant","hanzi":"coolant","pinyin":"","vi":"chất làm mát","ex":{"tokens":["The","engine","is","losing","coolant","."],"py":["","","","","","."],"vi":"Động cơ đang rò chất làm mát.","alts":[]}},
@@ -138,7 +138,7 @@
    {"id":"y5149-viaduct","hanzi":"viaduct","pinyin":"","vi":"cầu cạn","ex":{"tokens":["The","train","crossed","a","high","viaduct","."],"py":["","","","","","","."],"vi":"Đoàn tàu chạy qua một cây cầu cạn cao.","alts":[]}},
    {"id":"y5149-dam","hanzi":"dam","pinyin":"","vi":"đập nước","ex":{"tokens":["The","dam","holds","back","the","river","."],"py":["","","","","","","."],"vi":"Con đập chặn dòng sông.","alts":[]}}
   ]},
-  {"id":"y5150","title":"Kỹ thuật và công trình 4","desc":"Máy móc, gia công, xây dựng, năng lượng","icon":"Engineer","unit":558,"course":"en","order":7130,"words":[
+  {"id":"y5150","title":"Kỹ thuật và công trình 4","desc":"Máy móc, gia công, xây dựng, năng lượng","icon":"Engineer","unit":558,"course":"en","order":7240,"words":[
    {"id":"y5150-reservoir","hanzi":"reservoir","pinyin":"","vi":"hồ chứa nước","ex":{"tokens":["The","city","gets","its","water","from","a","reservoir","."],"py":["","","","","","","","","."],"vi":"Thành phố lấy nước từ một hồ chứa.","alts":[]}},
    {"id":"y5150-pipeline","hanzi":"pipeline","pinyin":"","vi":"đường ống dẫn","ex":{"tokens":["The","pipeline","carries","gas","to","the","coast","."],"py":["","","","","","","","."],"vi":"Đường ống dẫn khí ra bờ biển.","alts":[]}},
    {"id":"y5150-power_grid","hanzi":"power grid","pinyin":"","vi":"lưới điện","ex":{"tokens":["The","storm","damaged","the","power","grid","."],"py":["","","","","","","."],"vi":"Cơn bão làm hư lưới điện.","alts":[]}},

@@ -1,9 +1,9 @@
 {
  "units": [
-  {"unit":405,"level":4,"title":"Phần 41: Động từ và tính từ tinh tế","desc":"Động từ trang trọng, tính từ học thuật, cụm giới từ","color":"coral","course":"en"}
+  {"unit":405,"level":4,"title":"Phần 42: Động từ và tính từ tinh tế","desc":"Động từ trang trọng, tính từ học thuật, cụm giới từ","color":"coral","course":"en"}
  ],
  "lessons": [
-  {"id":"q01","title":"Động từ trang trọng 1","desc":"Kiêng, hoãn, sửa đổi, hủy bỏ, củng cố","icon":"Verb","unit":405,"course":"en","order":4460,"words":[
+  {"id":"q01","title":"Động từ trang trọng 1","desc":"Kiêng, hoãn, sửa đổi, hủy bỏ, củng cố","icon":"Verb","unit":405,"course":"en","order":4570,"words":[
    {"id":"q01-abstain","hanzi":"abstain","pinyin":"","vi":"kiêng, không tham gia (bỏ phiếu)","ex":{"tokens":["Three","members","chose","to","abstain","from","the","vote","."],"py":["","","","","","","","","."],"vi":"Ba thành viên chọn không bỏ phiếu.","alts":[]}},
    {"id":"q01-adjourn","hanzi":"adjourn","pinyin":"","vi":"hoãn, tạm ngừng (cuộc họp)","ex":{"tokens":["The","judge","decided","to","adjourn","the","hearing","."],"py":["","","","","","","","."],"vi":"Thẩm phán quyết định hoãn phiên điều trần.","alts":[]}},
    {"id":"q01-amend","hanzi":"amend","pinyin":"","vi":"sửa đổi (văn bản, luật)","ex":{"tokens":["Parliament","voted","to","amend","the","law","."],"py":["","","","","","","."],"vi":"Quốc hội bỏ phiếu sửa đổi đạo luật.","alts":[]}},
@@ -17,7 +17,7 @@
    {"id":"q01-coerce","hanzi":"coerce","pinyin":"","vi":"ép buộc","ex":{"tokens":["Nobody","can","coerce","you","into","signing","."],"py":["","","","","","","."],"vi":"Không ai có thể ép bạn ký.","alts":[]}},
    {"id":"q01-condone","hanzi":"condone","pinyin":"","vi":"dung túng, bỏ qua","ex":{"tokens":["We","cannot","condone","violence","of","any","kind","."],"py":["","","","","","","","."],"vi":"Chúng ta không thể dung túng bất kỳ hình thức bạo lực nào.","alts":[]}}
   ]},
-  {"id":"q02","title":"Động từ trang trọng 2","desc":"Trao, hợp nhất, cắt giảm, trì hoãn, lên án","icon":"Verb","unit":405,"course":"en","order":4470,"words":[
+  {"id":"q02","title":"Động từ trang trọng 2","desc":"Trao, hợp nhất, cắt giảm, trì hoãn, lên án","icon":"Verb","unit":405,"course":"en","order":4580,"words":[
    {"id":"q02-confer","hanzi":"confer","pinyin":"","vi":"trao (bằng, quyền); bàn bạc","ex":{"tokens":["The","university","will","confer","the","degree","in","June","."],"py":["","","","","","","","","."],"vi":"Trường đại học sẽ trao bằng vào tháng Sáu.","alts":[]}},
    {"id":"q02-consolidate","hanzi":"consolidate","pinyin":"","vi":"hợp nhất, củng cố","ex":{"tokens":["The","company","plans","to","consolidate","its","offices","."],"py":["","","","","","","","."],"vi":"Công ty dự định hợp nhất các văn phòng.","alts":[]}},
    {"id":"q02-contend","hanzi":"contend","pinyin":"","vi":"cho rằng; tranh đấu","ex":{"tokens":["Critics","contend","that","the","tax","is","unfair","."],"py":["","","","","","","","."],"vi":"Giới phê bình cho rằng loại thuế này không công bằng.","alts":[]}},
@@ -31,7 +31,7 @@
    {"id":"q02-deter","hanzi":"deter","pinyin":"","vi":"ngăn cản, răn đe","ex":{"tokens":["High","fines","deter","people","from","speeding","."],"py":["","","","","","","."],"vi":"Mức phạt cao ngăn người ta chạy quá tốc độ.","alts":[]}},
    {"id":"q02-deviate","hanzi":"deviate","pinyin":"","vi":"đi chệch, làm khác","ex":{"tokens":["Do","not","deviate","from","the","plan","."],"py":["","","","","","","."],"vi":"Đừng làm chệch kế hoạch.","alts":[]}}
   ]},
-  {"id":"q03","title":"Động từ trang trọng 3","desc":"Nhận ra, tiết lộ, xua tan, phổ biến, bao hàm","icon":"Verb","unit":405,"course":"en","order":4480,"words":[
+  {"id":"q03","title":"Động từ trang trọng 3","desc":"Nhận ra, tiết lộ, xua tan, phổ biến, bao hàm","icon":"Verb","unit":405,"course":"en","order":4590,"words":[
    {"id":"q03-discern","hanzi":"discern","pinyin":"","vi":"nhận ra, phân biệt được","ex":{"tokens":["I","could","discern","a","figure","in","the","fog","."],"py":["","","","","","","","","."],"vi":"Tôi nhận ra một bóng người trong sương mù.","alts":[]}},
    {"id":"q03-disclose","hanzi":"disclose","pinyin":"","vi":"tiết lộ, công bố","ex":{"tokens":["The","firm","refused","to","disclose","the","price","."],"py":["","","","","","","","."],"vi":"Công ty từ chối tiết lộ mức giá.","alts":[]}},
    {"id":"q03-dispel","hanzi":"dispel","pinyin":"","vi":"xua tan","ex":{"tokens":["The","minister","tried","to","dispel","the","rumors","."],"py":["","","","","","","","."],"vi":"Bộ trưởng cố xua tan những tin đồn.","alts":[]}},
@@ -45,7 +45,7 @@
    {"id":"q03-entail","hanzi":"entail","pinyin":"","vi":"đòi hỏi, kéo theo","ex":{"tokens":["The","job","will","entail","a","lot","of","travel","."],"py":["","","","","","","","","."],"vi":"Công việc sẽ đòi hỏi đi lại nhiều.","alts":[]}},
    {"id":"q03-envisage","hanzi":"envisage","pinyin":"","vi":"hình dung, dự tính","ex":{"tokens":["I","cannot","envisage","any","problems","."],"py":["","","","","","."],"vi":"Tôi không hình dung ra vấn đề nào cả.","alts":[]}}
   ]},
-  {"id":"q04","title":"Động từ trang trọng 4","desc":"Xóa bỏ, trốn tránh, làm trầm trọng, đẩy nhanh, cản trở","icon":"Verb","unit":405,"course":"en","order":4490,"words":[
+  {"id":"q04","title":"Động từ trang trọng 4","desc":"Xóa bỏ, trốn tránh, làm trầm trọng, đẩy nhanh, cản trở","icon":"Verb","unit":405,"course":"en","order":4600,"words":[
    {"id":"q04-eradicate","hanzi":"eradicate","pinyin":"","vi":"xóa bỏ, diệt trừ","ex":{"tokens":["Doctors","hope","to","eradicate","the","disease","."],"py":["","","","","","","."],"vi":"Các bác sĩ hy vọng xóa bỏ được căn bệnh.","alts":[]}},
    {"id":"q04-evade","hanzi":"evade","pinyin":"","vi":"trốn tránh, né","ex":{"tokens":["He","tried","to","evade","the","question","."],"py":["","","","","","","."],"vi":"Anh ta cố né câu hỏi.","alts":[]}},
    {"id":"q04-exacerbate","hanzi":"exacerbate","pinyin":"","vi":"làm trầm trọng thêm","ex":{"tokens":["Stress","can","exacerbate","the","pain","."],"py":["","","","","","."],"vi":"Căng thẳng có thể làm cơn đau trầm trọng thêm.","alts":[]}},
@@ -59,7 +59,7 @@
    {"id":"q04-incur","hanzi":"incur","pinyin":"","vi":"gánh chịu (chi phí, tổn thất)","ex":{"tokens":["You","may","incur","extra","charges","."],"py":["","","","","","."],"vi":"Bạn có thể phải chịu thêm phí.","alts":[]}},
    {"id":"q04-infer","hanzi":"infer","pinyin":"","vi":"suy ra","ex":{"tokens":["What","can","we","infer","from","these","figures","?"],"py":["","","","","","","","?"],"vi":"Chúng ta có thể suy ra điều gì từ các con số này?","alts":[]}}
   ]},
-  {"id":"q05","title":"Động từ trang trọng 5","desc":"Xúi giục, can thiệp, giảm nhẹ, bù trừ, khắc phục","icon":"Verb","unit":405,"course":"en","order":4500,"words":[
+  {"id":"q05","title":"Động từ trang trọng 5","desc":"Xúi giục, can thiệp, giảm nhẹ, bù trừ, khắc phục","icon":"Verb","unit":405,"course":"en","order":4610,"words":[
    {"id":"q05-instigate","hanzi":"instigate","pinyin":"","vi":"xúi giục, khởi xướng","ex":{"tokens":["He","was","accused","of","trying","to","instigate","a","riot","."],"py":["","","","","","","","","","."],"vi":"Anh ta bị cáo buộc tìm cách xúi giục bạo loạn.","alts":[]}},
    {"id":"q05-intervene","hanzi":"intervene","pinyin":"","vi":"can thiệp","ex":{"tokens":["The","police","had","to","intervene","."],"py":["","","","","","."],"vi":"Cảnh sát đã phải can thiệp.","alts":[]}},
    {"id":"q05-invoke","hanzi":"invoke","pinyin":"","vi":"viện dẫn, cầu khẩn","ex":{"tokens":["The","lawyer","may","invoke","an","old","law","."],"py":["","","","","","","","."],"vi":"Luật sư có thể viện dẫn một đạo luật cũ.","alts":[]}},
@@ -73,7 +73,7 @@
    {"id":"q05-proliferate","hanzi":"proliferate","pinyin":"","vi":"sinh sôi, tăng nhanh","ex":{"tokens":["Fake","news","sites","proliferate","online","."],"py":["","","","","","."],"vi":"Các trang tin giả sinh sôi trên mạng.","alts":[]}},
    {"id":"q05-rectify","hanzi":"rectify","pinyin":"","vi":"sửa chữa, khắc phục","ex":{"tokens":["We","will","rectify","the","error","at","once","."],"py":["","","","","","","","."],"vi":"Chúng tôi sẽ khắc phục lỗi ngay lập tức.","alts":[]}}
   ]},
-  {"id":"q06","title":"Động từ trang trọng 6","desc":"Bác bỏ, từ bỏ, bãi bỏ, xem xét kỹ, vượt qua","icon":"Verb","unit":405,"course":"en","order":4510,"words":[
+  {"id":"q06","title":"Động từ trang trọng 6","desc":"Bác bỏ, từ bỏ, bãi bỏ, xem xét kỹ, vượt qua","icon":"Verb","unit":405,"course":"en","order":4620,"words":[
    {"id":"q06-refute","hanzi":"refute","pinyin":"","vi":"bác bỏ","ex":{"tokens":["The","study","seems","to","refute","that","claim","."],"py":["","","","","","","","."],"vi":"Nghiên cứu dường như bác bỏ nhận định đó.","alts":[]}},
    {"id":"q06-relinquish","hanzi":"relinquish","pinyin":"","vi":"từ bỏ, giao lại","ex":{"tokens":["He","refused","to","relinquish","control","."],"py":["","","","","","."],"vi":"Ông ấy từ chối từ bỏ quyền kiểm soát.","alts":[]}},
    {"id":"q06-repeal","hanzi":"repeal","pinyin":"","vi":"bãi bỏ (luật)","ex":{"tokens":["The","government","promised","to","repeal","the","tax","."],"py":["","","","","","","","."],"vi":"Chính phủ hứa bãi bỏ loại thuế đó.","alts":[]}},
@@ -87,7 +87,7 @@
    {"id":"q06-surpass","hanzi":"surpass","pinyin":"","vi":"vượt qua, vượt trội","ex":{"tokens":["Sales","may","surpass","last","year's","record","."],"py":["","","","","","","."],"vi":"Doanh số có thể vượt kỷ lục năm ngoái.","alts":[]}},
    {"id":"q06-underscore","hanzi":"underscore","pinyin":"","vi":"nhấn mạnh","ex":{"tokens":["The","figures","underscore","the","need","for","change","."],"py":["","","","","","","","."],"vi":"Các con số nhấn mạnh sự cần thiết phải thay đổi.","alts":[]}}
   ]},
-  {"id":"q07","title":"Tính từ tinh tế 1","desc":"Đột ngột, kiên quyết, bất lợi, khắc khổ, mạch lạc","icon":"Fine","unit":405,"course":"en","order":4520,"words":[
+  {"id":"q07","title":"Tính từ tinh tế 1","desc":"Đột ngột, kiên quyết, bất lợi, khắc khổ, mạch lạc","icon":"Fine","unit":405,"course":"en","order":4630,"words":[
    {"id":"q07-abrupt","hanzi":"abrupt","pinyin":"","vi":"đột ngột; cộc lốc","ex":{"tokens":["The","meeting","came","to","an","abrupt","end","."],"py":["","","","","","","","."],"vi":"Cuộc họp kết thúc đột ngột.","alts":[]}},
    {"id":"q07-adamant","hanzi":"adamant","pinyin":"","vi":"kiên quyết, cứng rắn","ex":{"tokens":["She","was","adamant","that","she","would","not","go","."],"py":["","","","","","","","","."],"vi":"Cô ấy kiên quyết không đi.","alts":[]}},
    {"id":"q07-adept","hanzi":"adept","pinyin":"","vi":"thành thạo, giỏi","ex":{"tokens":["He","is","adept","at","fixing","computers","."],"py":["","","","","","","."],"vi":"Anh ấy giỏi sửa máy tính.","alts":[]}},
@@ -101,7 +101,7 @@
    {"id":"q07-coherent","hanzi":"coherent","pinyin":"","vi":"mạch lạc","ex":{"tokens":["He","could","not","give","a","coherent","explanation","."],"py":["","","","","","","","."],"vi":"Anh ấy không thể đưa ra lời giải thích mạch lạc.","alts":[]}},
    {"id":"q07-complacent","hanzi":"complacent","pinyin":"","vi":"tự mãn","ex":{"tokens":["We","must","not","become","complacent","."],"py":["","","","","","."],"vi":"Chúng ta không được trở nên tự mãn.","alts":[]}}
   ]},
-  {"id":"q08","title":"Tính từ tinh tế 2","desc":"Súc tích, gây tranh cãi, cồng kềnh, kín đáo, hùng hồn","icon":"Fine","unit":405,"course":"en","order":4530,"words":[
+  {"id":"q08","title":"Tính từ tinh tế 2","desc":"Súc tích, gây tranh cãi, cồng kềnh, kín đáo, hùng hồn","icon":"Fine","unit":405,"course":"en","order":4640,"words":[
    {"id":"q08-concise","hanzi":"concise","pinyin":"","vi":"súc tích","ex":{"tokens":["Keep","your","answer","concise","."],"py":["","","","","."],"vi":"Hãy trả lời súc tích.","alts":[]}},
    {"id":"q08-conducive","hanzi":"conducive","pinyin":"","vi":"có lợi cho, thuận lợi cho","ex":{"tokens":["A","quiet","room","is","conducive","to","study","."],"py":["","","","","","","","."],"vi":"Một căn phòng yên tĩnh thuận lợi cho việc học.","alts":[]}},
    {"id":"q08-contentious","hanzi":"contentious","pinyin":"","vi":"gây tranh cãi","ex":{"tokens":["Tax","is","always","a","contentious","issue","."],"py":["","","","","","","."],"vi":"Thuế luôn là vấn đề gây tranh cãi.","alts":[]}},
@@ -115,7 +115,7 @@
    {"id":"q08-eloquent","hanzi":"eloquent","pinyin":"","vi":"hùng hồn, có tài hùng biện","ex":{"tokens":["She","gave","an","eloquent","speech","."],"py":["","","","","","."],"vi":"Cô ấy có một bài phát biểu hùng hồn.","alts":[]}},
    {"id":"q08-eminent","hanzi":"eminent","pinyin":"","vi":"lỗi lạc, xuất chúng","ex":{"tokens":["An","eminent","scientist","led","the","team","."],"py":["","","","","","","."],"vi":"Một nhà khoa học lỗi lạc dẫn dắt nhóm.","alts":[]}}
   ]},
-  {"id":"q09","title":"Tính từ tinh tế 3","desc":"Công bằng, thất thường, cắt cổ, vô ích, ngầm","icon":"Fine","unit":405,"course":"en","order":4540,"words":[
+  {"id":"q09","title":"Tính từ tinh tế 3","desc":"Công bằng, thất thường, cắt cổ, vô ích, ngầm","icon":"Fine","unit":405,"course":"en","order":4650,"words":[
    {"id":"q09-equitable","hanzi":"equitable","pinyin":"","vi":"công bằng, hợp tình hợp lý","ex":{"tokens":["We","want","an","equitable","share","of","the","profits","."],"py":["","","","","","","","","."],"vi":"Chúng tôi muốn một phần lợi nhuận công bằng.","alts":[]}},
    {"id":"q09-erratic","hanzi":"erratic","pinyin":"","vi":"thất thường","ex":{"tokens":["His","driving","was","fast","and","erratic","."],"py":["","","","","","","."],"vi":"Anh ta lái xe nhanh và thất thường.","alts":[]}},
    {"id":"q09-exemplary","hanzi":"exemplary","pinyin":"","vi":"gương mẫu, mẫu mực","ex":{"tokens":["Her","behavior","has","been","exemplary","."],"py":["","","","","","."],"vi":"Hành vi của cô ấy rất gương mẫu.","alts":[]}},
@@ -129,7 +129,7 @@
    {"id":"q09-imperative","hanzi":"imperative","pinyin":"","vi":"cấp bách, bắt buộc","ex":{"tokens":["It","is","imperative","that","we","act","now","."],"py":["","","","","","","","."],"vi":"Việc chúng ta hành động ngay là cấp bách.","alts":[]}},
    {"id":"q09-implicit","hanzi":"implicit","pinyin":"","vi":"ngầm, hàm ý","ex":{"tokens":["There","was","an","implicit","threat","in","his","words","."],"py":["","","","","","","","","."],"vi":"Có một lời đe dọa ngầm trong lời nói của anh ta.","alts":[]}}
   ]},
-  {"id":"q10","title":"Tính từ tinh tế 4","desc":"Vô ý, không ngớt, vốn có, bẩm sinh, béo bở","icon":"Fine","unit":405,"course":"en","order":4550,"words":[
+  {"id":"q10","title":"Tính từ tinh tế 4","desc":"Vô ý, không ngớt, vốn có, bẩm sinh, béo bở","icon":"Fine","unit":405,"course":"en","order":4660,"words":[
    {"id":"q10-inadvertent","hanzi":"inadvertent","pinyin":"","vi":"vô ý, sơ suất","ex":{"tokens":["It","was","an","inadvertent","mistake","."],"py":["","","","","","."],"vi":"Đó là một lỗi vô ý.","alts":[]}},
    {"id":"q10-incessant","hanzi":"incessant","pinyin":"","vi":"không ngớt, liên miên","ex":{"tokens":["The","incessant","noise","kept","me","awake","."],"py":["","","","","","","."],"vi":"Tiếng ồn không ngớt khiến tôi thức.","alts":[]}},
    {"id":"q10-inherent","hanzi":"inherent","pinyin":"","vi":"vốn có, cố hữu","ex":{"tokens":["There","are","risks","inherent","in","any","sport","."],"py":["","","","","","","","."],"vi":"Môn thể thao nào cũng có những rủi ro cố hữu.","alts":[]}},
@@ -143,7 +143,7 @@
    {"id":"q10-mundane","hanzi":"mundane","pinyin":"","vi":"tầm thường, nhàm chán","ex":{"tokens":["I","spent","the","day","on","mundane","tasks","."],"py":["","","","","","","","."],"vi":"Tôi dành cả ngày cho những việc nhàm chán.","alts":[]}},
    {"id":"q10-negligible","hanzi":"negligible","pinyin":"","vi":"không đáng kể","ex":{"tokens":["The","cost","is","negligible","."],"py":["","","","","."],"vi":"Chi phí là không đáng kể.","alts":[]}}
   ]},
-  {"id":"q11","title":"Tính từ tinh tế 5","desc":"Khét tiếng, đáng ngại, tối quan trọng, bấp bênh, dẻo dai","icon":"Fine","unit":405,"course":"en","order":4560,"words":[
+  {"id":"q11","title":"Tính từ tinh tế 5","desc":"Khét tiếng, đáng ngại, tối quan trọng, bấp bênh, dẻo dai","icon":"Fine","unit":405,"course":"en","order":4670,"words":[
    {"id":"q11-notorious","hanzi":"notorious","pinyin":"","vi":"khét tiếng","ex":{"tokens":["The","road","is","notorious","for","accidents","."],"py":["","","","","","","."],"vi":"Con đường này khét tiếng vì tai nạn.","alts":[]}},
    {"id":"q11-ominous","hanzi":"ominous","pinyin":"","vi":"báo điềm xấu, đáng ngại","ex":{"tokens":["Ominous","clouds","gathered","in","the","west","."],"py":["","","","","","","."],"vi":"Những đám mây đáng ngại kéo đến ở phía tây.","alts":[]}},
    {"id":"q11-opaque","hanzi":"opaque","pinyin":"","vi":"mờ đục; khó hiểu","ex":{"tokens":["The","glass","is","opaque",",","so","nobody","can","see","in","."],"py":["","","","",",","","","","","","."],"vi":"Kính mờ đục nên không ai nhìn vào được.","alts":[]}},
@@ -157,7 +157,7 @@
    {"id":"q11-scrupulous","hanzi":"scrupulous","pinyin":"","vi":"cẩn trọng, ngay thẳng","ex":{"tokens":["She","is","scrupulous","about","hygiene","."],"py":["","","","","","."],"vi":"Cô ấy rất cẩn trọng về vệ sinh.","alts":[]}},
    {"id":"q11-sporadic","hanzi":"sporadic","pinyin":"","vi":"lác đác, không thường xuyên","ex":{"tokens":["There","was","sporadic","fighting","in","the","north","."],"py":["","","","","","","","."],"vi":"Có giao tranh lác đác ở miền bắc.","alts":[]}}
   ]},
-  {"id":"q12","title":"Tính từ tinh tế 6","desc":"Nghiêm ngặt, hữu hình, mong manh, nhất trí, đa năng","icon":"Fine","unit":405,"course":"en","order":4570,"words":[
+  {"id":"q12","title":"Tính từ tinh tế 6","desc":"Nghiêm ngặt, hữu hình, mong manh, nhất trí, đa năng","icon":"Fine","unit":405,"course":"en","order":4680,"words":[
    {"id":"q12-stringent","hanzi":"stringent","pinyin":"","vi":"nghiêm ngặt","ex":{"tokens":["The","factory","follows","stringent","safety","rules","."],"py":["","","","","","","."],"vi":"Nhà máy tuân theo các quy định an toàn nghiêm ngặt.","alts":[]}},
    {"id":"q12-tangible","hanzi":"tangible","pinyin":"","vi":"hữu hình, rõ ràng","ex":{"tokens":["We","need","tangible","results","."],"py":["","","","","."],"vi":"Chúng ta cần những kết quả rõ ràng.","alts":[]}},
    {"id":"q12-tenuous","hanzi":"tenuous","pinyin":"","vi":"mong manh, yếu ớt","ex":{"tokens":["The","link","between","the","two","cases","is","tenuous","."],"py":["","","","","","","","","."],"vi":"Mối liên hệ giữa hai vụ việc rất mong manh.","alts":[]}},
@@ -171,7 +171,7 @@
    {"id":"q12-waive","hanzi":"waive","pinyin":"","vi":"miễn, từ bỏ (quyền, phí)","ex":{"tokens":["The","bank","agreed","to","waive","the","fee","."],"py":["","","","","","","","."],"vi":"Ngân hàng đồng ý miễn phí.","alts":[]}},
    {"id":"q12-trigger","hanzi":"trigger","pinyin":"","vi":"gây ra, kích hoạt; cò súng","ex":{"tokens":["Loud","noises","can","trigger","his","headaches","."],"py":["","","","","","","."],"vi":"Tiếng ồn lớn có thể gây ra cơn đau đầu của anh ấy.","alts":[]}}
   ]},
-  {"id":"q13","title":"Cụm giới từ","desc":"Trước, phụ trách, ủng hộ, thay mặt, lâm nguy","icon":"Phrase","unit":405,"course":"en","order":4580,"words":[
+  {"id":"q13","title":"Cụm giới từ","desc":"Trước, phụ trách, ủng hộ, thay mặt, lâm nguy","icon":"Phrase","unit":405,"course":"en","order":4690,"words":[
    {"id":"q13-in_advance","hanzi":"in advance","pinyin":"","vi":"trước, từ trước","ex":{"tokens":["Please","book","your","tickets","in","advance","."],"py":["","","","","","","."],"vi":"Vui lòng đặt vé trước.","alts":[]}},
    {"id":"q13-in_charge","hanzi":"in charge","pinyin":"","vi":"phụ trách","ex":{"tokens":["Who","is","in","charge","here","?"],"py":["","","","","","?"],"vi":"Ai phụ trách ở đây?","alts":[]}},
    {"id":"q13-in_favor_of","hanzi":"in favor of","pinyin":"","vi":"ủng hộ, tán thành","ex":{"tokens":["Most","members","voted","in","favor","of","the","plan","."],"py":["","","","","","","","","."],"vi":"Đa số thành viên bỏ phiếu ủng hộ kế hoạch.","alts":[]}},

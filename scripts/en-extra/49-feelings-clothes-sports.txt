@@ -1,0 +1,56 @@
+# Level 2 (Trung cấp): cảm xúc, quần áo, thể thao.
+@2|Cảm xúc và quần áo|Tâm trạng, trang phục, họa tiết|Wardrobe
+proud of|tự hào về|I am proud of my sister.|Tôi tự hào về chị tôi.
+amused|thấy buồn cười, thích thú|She was amused by the joke.|Cô ấy thấy câu đùa thật buồn cười.
+bored stiff|chán ngắt|I was bored stiff in that lesson.|Tôi chán ngắt trong giờ học đó.
+worn out|kiệt sức; mòn rách|I am worn out after the trip.|Tôi kiệt sức sau chuyến đi.
+stressed|căng thẳng|He is stressed about his exams.|Anh ấy căng thẳng về kỳ thi.
+touchy|dễ tự ái|He is touchy about his age.|Anh ấy dễ tự ái về tuổi tác.
+tearful|rưng rưng nước mắt|She gave a tearful goodbye.|Cô ấy chào tạm biệt trong nước mắt.
+speechless|không nói nên lời|The news left me speechless.|Tin đó làm tôi không nói nên lời.
+overcoat|áo choàng dài|He wore a long overcoat.|Ông ấy mặc một chiếc áo choàng dài.
+windbreaker|áo gió|Take a windbreaker; it is windy.|Mang áo gió đi; trời đang gió.
+sweatpants|quần nỉ|I wear sweatpants at home.|Ở nhà tôi mặc quần nỉ.
+polo shirt|áo thun có cổ|He wore a blue polo shirt.|Anh ấy mặc áo thun có cổ màu xanh.
+jumper|áo len chui đầu|Grandma knitted me a jumper.|Bà đan cho tôi một chiếc áo len.
+dungarees|quần yếm|The little boy wore dungarees.|Cậu bé mặc quần yếm.
+trainers|giày thể thao|I need new trainers for running.|Tôi cần giày thể thao mới để chạy bộ.
+high heels|giày cao gót|She cannot walk far in high heels.|Cô ấy không đi xa được bằng giày cao gót.
+swimming trunks|quần bơi nam|He forgot his swimming trunks.|Anh ấy quên quần bơi.
+bikini|đồ bơi hai mảnh|She bought a red bikini.|Cô ấy mua một bộ bikini màu đỏ.
+headband|băng đô|She wears a headband when she runs.|Cô ấy đeo băng đô khi chạy bộ.
+necktie|cà vạt|Dad wears a necktie to work.|Bố đeo cà vạt đi làm.
+belt buckle|khóa thắt lưng|His belt buckle is silver.|Khóa thắt lưng của anh ấy màu bạc.
+baggy|rộng thùng thình|He likes baggy jeans.|Anh ấy thích quần bò rộng thùng thình.
+striped|kẻ sọc|She wore a striped shirt.|Cô ấy mặc áo kẻ sọc.
+checked|kẻ ca rô|He has a checked jacket.|Anh ấy có một chiếc áo khoác kẻ ca rô.
+spotted|chấm bi; lốm đốm|She wore a spotted dress.|Cô ấy mặc váy chấm bi.
+flowery|có họa tiết hoa|I like your flowery skirt.|Tôi thích chiếc váy hoa của bạn.
+woolen|bằng len|Wear woolen socks in winter.|Hãy đi tất len vào mùa đông.
+suspenders|dây đeo quần|Grandpa wears suspenders.|Ông đeo dây đeo quần.
+
+@2|Thể thao|Bóng đá, điền kinh, sân bãi|Sports
+supporter|cổ động viên; người ủng hộ|He is a supporter of the local team.|Anh ấy là cổ động viên của đội địa phương.
+half-time|giờ nghỉ giữa hiệp|The score was one all at half-time.|Tỷ số là một đều vào giờ nghỉ giữa hiệp.
+extra time|hiệp phụ|They scored in extra time.|Họ ghi bàn trong hiệp phụ.
+penalty kick|quả phạt đền|He missed the penalty kick.|Anh ấy đá hỏng quả phạt đền.
+throw-in|quả ném biên|The referee gave a throw-in.|Trọng tài cho hưởng quả ném biên.
+yellow card|thẻ vàng|He got a yellow card for the foul.|Anh ta nhận thẻ vàng vì pha phạm lỗi.
+red card|thẻ đỏ|The captain was shown a red card.|Đội trưởng bị rút thẻ đỏ.
+own goal|bàn phản lưới nhà|The defender scored an own goal.|Hậu vệ đá phản lưới nhà.
+shoot|sút; bắn|Shoot when you are near the goal.|Hãy sút khi bạn ở gần khung thành.
+finish line|vạch đích|She crossed the finish line first.|Cô ấy về đích đầu tiên.
+starting line|vạch xuất phát|The runners are at the starting line.|Các vận động viên đang ở vạch xuất phát.
+relay race|cuộc chạy tiếp sức|Our class won the relay race.|Lớp chúng tôi thắng cuộc chạy tiếp sức.
+jumping jack|động tác bật nhảy dang tay chân|Start with a jumping jack to warm up.|Hãy bắt đầu bằng động tác bật nhảy dang tay chân để khởi động.
+boxing ring|võ đài quyền anh|Two fighters stood in the boxing ring.|Hai võ sĩ đứng trên võ đài.
+punching bag|bao cát|He hits the punching bag every morning.|Sáng nào anh ấy cũng đấm bao cát.
+diving|môn lặn; nhảy cầu|We went diving in Nha Trang.|Chúng tôi đi lặn ở Nha Trang.
+water polo|bóng nước|Water polo is played in a pool.|Bóng nước được chơi trong hồ bơi.
+badminton racket|vợt cầu lông|I bought a new badminton racket.|Tôi mua một cây vợt cầu lông mới.
+shuttlecock|quả cầu lông|The shuttlecock landed on the roof.|Quả cầu lông rơi trên mái nhà.
+tennis court|sân quần vợt|The hotel has a tennis court.|Khách sạn có sân quần vợt.
+golf club|gậy đánh gôn; câu lạc bộ gôn|He swung the golf club.|Ông ấy vung gậy đánh gôn.
+ice rink|sân trượt băng|We skated at the ice rink.|Chúng tôi trượt băng ở sân băng.
+roller skating|trượt patin|Roller skating is fun.|Trượt patin rất vui.
+cycling race|cuộc đua xe đạp|The cycling race passes our town.|Cuộc đua xe đạp đi qua thị trấn của chúng tôi.

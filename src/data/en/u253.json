@@ -1,6 +1,6 @@
 {
  "units": [
-  {"unit":253,"level":2,"title":"Phần 22: Mở rộng – Món ăn và nấu nướng","desc":"Món ăn và nấu nướng, Du lịch và kỳ nghỉ","color":"grape","course":"en"}
+  {"unit":253,"level":2,"title":"Phần 22: Mở rộng – Món ăn và nấu nướng","desc":"Món ăn và nấu nướng, Du lịch và kỳ nghỉ, Cảm xúc và quần áo, Thể thao","color":"grape","course":"en"}
  ],
  "lessons": [
   {"id":"y2041","title":"Món ăn và nấu nướng 5","desc":"Món ăn, nguyên liệu, đồ uống, cách chế biến","icon":"Cooking","unit":253,"course":"en","order":2040,"words":[
@@ -106,6 +106,66 @@
    {"id":"y2047-subway_map","hanzi":"subway map","pinyin":"","vi":"bản đồ tàu điện ngầm","ex":{"tokens":["I","have","a","subway","map","on","my","phone","."],"py":["","","","","","","","","."],"vi":"Tôi có bản đồ tàu điện ngầm trên điện thoại.","alts":[]}},
    {"id":"y2047-tram_stop","hanzi":"tram stop","pinyin":"","vi":"trạm xe điện","ex":{"tokens":["The","tram","stop","is","across","the","street","."],"py":["","","","","","","","."],"vi":"Trạm xe điện ở bên kia đường.","alts":[]}},
    {"id":"y2047-pickpocketing","hanzi":"pickpocketing","pinyin":"","vi":"nạn móc túi","ex":{"tokens":["Pickpocketing","is","common","in","busy","markets","."],"py":["","","","","","","."],"vi":"Nạn móc túi phổ biến ở các khu chợ đông người.","alts":[]}}
+  ]},
+  {"id":"y2048","title":"Cảm xúc và quần áo 1","desc":"Tâm trạng, trang phục, họa tiết","icon":"Wardrobe","unit":253,"course":"en","order":2110,"words":[
+   {"id":"y2048-proud_of","hanzi":"proud of","pinyin":"","vi":"tự hào về","ex":{"tokens":["I","am","proud","of","my","sister","."],"py":["","","","","","","."],"vi":"Tôi tự hào về chị tôi.","alts":[]}},
+   {"id":"y2048-amused","hanzi":"amused","pinyin":"","vi":"thấy buồn cười, thích thú","ex":{"tokens":["She","was","amused","by","the","joke","."],"py":["","","","","","","."],"vi":"Cô ấy thấy câu đùa thật buồn cười.","alts":[]}},
+   {"id":"y2048-bored_stiff","hanzi":"bored stiff","pinyin":"","vi":"chán ngắt","ex":{"tokens":["I","was","bored","stiff","in","that","lesson","."],"py":["","","","","","","","."],"vi":"Tôi chán ngắt trong giờ học đó.","alts":[]}},
+   {"id":"y2048-worn_out","hanzi":"worn out","pinyin":"","vi":"kiệt sức; mòn rách","ex":{"tokens":["I","am","worn","out","after","the","trip","."],"py":["","","","","","","","."],"vi":"Tôi kiệt sức sau chuyến đi.","alts":[]}},
+   {"id":"y2048-stressed","hanzi":"stressed","pinyin":"","vi":"căng thẳng","ex":{"tokens":["He","is","stressed","about","his","exams","."],"py":["","","","","","","."],"vi":"Anh ấy căng thẳng về kỳ thi.","alts":[]}},
+   {"id":"y2048-touchy","hanzi":"touchy","pinyin":"","vi":"dễ tự ái","ex":{"tokens":["He","is","touchy","about","his","age","."],"py":["","","","","","","."],"vi":"Anh ấy dễ tự ái về tuổi tác.","alts":[]}},
+   {"id":"y2048-tearful","hanzi":"tearful","pinyin":"","vi":"rưng rưng nước mắt","ex":{"tokens":["She","gave","a","tearful","goodbye","."],"py":["","","","","","."],"vi":"Cô ấy chào tạm biệt trong nước mắt.","alts":[]}},
+   {"id":"y2048-speechless","hanzi":"speechless","pinyin":"","vi":"không nói nên lời","ex":{"tokens":["The","news","left","me","speechless","."],"py":["","","","","","."],"vi":"Tin đó làm tôi không nói nên lời.","alts":[]}},
+   {"id":"y2048-overcoat","hanzi":"overcoat","pinyin":"","vi":"áo choàng dài","ex":{"tokens":["He","wore","a","long","overcoat","."],"py":["","","","","","."],"vi":"Ông ấy mặc một chiếc áo choàng dài.","alts":[]}},
+   {"id":"y2048-windbreaker","hanzi":"windbreaker","pinyin":"","vi":"áo gió","ex":{"tokens":["Take","a","windbreaker;","it","is","windy","."],"py":["","","","","","","."],"vi":"Mang áo gió đi; trời đang gió.","alts":[]}},
+   {"id":"y2048-sweatpants","hanzi":"sweatpants","pinyin":"","vi":"quần nỉ","ex":{"tokens":["I","wear","sweatpants","at","home","."],"py":["","","","","","."],"vi":"Ở nhà tôi mặc quần nỉ.","alts":[]}},
+   {"id":"y2048-polo_shirt","hanzi":"polo shirt","pinyin":"","vi":"áo thun có cổ","ex":{"tokens":["He","wore","a","blue","polo","shirt","."],"py":["","","","","","","."],"vi":"Anh ấy mặc áo thun có cổ màu xanh.","alts":[]}},
+   {"id":"y2048-jumper","hanzi":"jumper","pinyin":"","vi":"áo len chui đầu","ex":{"tokens":["Grandma","knitted","me","a","jumper","."],"py":["","","","","","."],"vi":"Bà đan cho tôi một chiếc áo len.","alts":[]}},
+   {"id":"y2048-dungarees","hanzi":"dungarees","pinyin":"","vi":"quần yếm","ex":{"tokens":["The","little","boy","wore","dungarees","."],"py":["","","","","","."],"vi":"Cậu bé mặc quần yếm.","alts":[]}}
+  ]},
+  {"id":"y2049","title":"Cảm xúc và quần áo 2","desc":"Tâm trạng, trang phục, họa tiết","icon":"Wardrobe","unit":253,"course":"en","order":2120,"words":[
+   {"id":"y2049-trainers","hanzi":"trainers","pinyin":"","vi":"giày thể thao","ex":{"tokens":["I","need","new","trainers","for","running","."],"py":["","","","","","","."],"vi":"Tôi cần giày thể thao mới để chạy bộ.","alts":[]}},
+   {"id":"y2049-high_heels","hanzi":"high heels","pinyin":"","vi":"giày cao gót","ex":{"tokens":["She","cannot","walk","far","in","high","heels","."],"py":["","","","","","","","."],"vi":"Cô ấy không đi xa được bằng giày cao gót.","alts":[]}},
+   {"id":"y2049-swimming_trunks","hanzi":"swimming trunks","pinyin":"","vi":"quần bơi nam","ex":{"tokens":["He","forgot","his","swimming","trunks","."],"py":["","","","","","."],"vi":"Anh ấy quên quần bơi.","alts":[]}},
+   {"id":"y2049-bikini","hanzi":"bikini","pinyin":"","vi":"đồ bơi hai mảnh","ex":{"tokens":["She","bought","a","red","bikini","."],"py":["","","","","","."],"vi":"Cô ấy mua một bộ bikini màu đỏ.","alts":[]}},
+   {"id":"y2049-headband","hanzi":"headband","pinyin":"","vi":"băng đô","ex":{"tokens":["She","wears","a","headband","when","she","runs","."],"py":["","","","","","","","."],"vi":"Cô ấy đeo băng đô khi chạy bộ.","alts":[]}},
+   {"id":"y2049-necktie","hanzi":"necktie","pinyin":"","vi":"cà vạt","ex":{"tokens":["Dad","wears","a","necktie","to","work","."],"py":["","","","","","","."],"vi":"Bố đeo cà vạt đi làm.","alts":[]}},
+   {"id":"y2049-belt_buckle","hanzi":"belt buckle","pinyin":"","vi":"khóa thắt lưng","ex":{"tokens":["His","belt","buckle","is","silver","."],"py":["","","","","","."],"vi":"Khóa thắt lưng của anh ấy màu bạc.","alts":[]}},
+   {"id":"y2049-baggy","hanzi":"baggy","pinyin":"","vi":"rộng thùng thình","ex":{"tokens":["He","likes","baggy","jeans","."],"py":["","","","","."],"vi":"Anh ấy thích quần bò rộng thùng thình.","alts":[]}},
+   {"id":"y2049-striped","hanzi":"striped","pinyin":"","vi":"kẻ sọc","ex":{"tokens":["She","wore","a","striped","shirt","."],"py":["","","","","","."],"vi":"Cô ấy mặc áo kẻ sọc.","alts":[]}},
+   {"id":"y2049-checked","hanzi":"checked","pinyin":"","vi":"kẻ ca rô","ex":{"tokens":["He","has","a","checked","jacket","."],"py":["","","","","","."],"vi":"Anh ấy có một chiếc áo khoác kẻ ca rô.","alts":[]}},
+   {"id":"y2049-spotted","hanzi":"spotted","pinyin":"","vi":"chấm bi; lốm đốm","ex":{"tokens":["She","wore","a","spotted","dress","."],"py":["","","","","","."],"vi":"Cô ấy mặc váy chấm bi.","alts":[]}},
+   {"id":"y2049-flowery","hanzi":"flowery","pinyin":"","vi":"có họa tiết hoa","ex":{"tokens":["I","like","your","flowery","skirt","."],"py":["","","","","","."],"vi":"Tôi thích chiếc váy hoa của bạn.","alts":[]}},
+   {"id":"y2049-woolen","hanzi":"woolen","pinyin":"","vi":"bằng len","ex":{"tokens":["Wear","woolen","socks","in","winter","."],"py":["","","","","","."],"vi":"Hãy đi tất len vào mùa đông.","alts":[]}},
+   {"id":"y2049-suspenders","hanzi":"suspenders","pinyin":"","vi":"dây đeo quần","ex":{"tokens":["Grandpa","wears","suspenders","."],"py":["","","","."],"vi":"Ông đeo dây đeo quần.","alts":[]}}
+  ]},
+  {"id":"y2050","title":"Thể thao 3","desc":"Bóng đá, điền kinh, sân bãi","icon":"Sports","unit":253,"course":"en","order":2130,"words":[
+   {"id":"y2050-supporter","hanzi":"supporter","pinyin":"","vi":"cổ động viên; người ủng hộ","ex":{"tokens":["He","is","a","supporter","of","the","local","team","."],"py":["","","","","","","","","."],"vi":"Anh ấy là cổ động viên của đội địa phương.","alts":[]}},
+   {"id":"y2050-half_time","hanzi":"half-time","pinyin":"","vi":"giờ nghỉ giữa hiệp","ex":{"tokens":["The","score","was","one","all","at","half-time","."],"py":["","","","","","","","."],"vi":"Tỷ số là một đều vào giờ nghỉ giữa hiệp.","alts":[]}},
+   {"id":"y2050-extra_time","hanzi":"extra time","pinyin":"","vi":"hiệp phụ","ex":{"tokens":["They","scored","in","extra","time","."],"py":["","","","","","."],"vi":"Họ ghi bàn trong hiệp phụ.","alts":[]}},
+   {"id":"y2050-penalty_kick","hanzi":"penalty kick","pinyin":"","vi":"quả phạt đền","ex":{"tokens":["He","missed","the","penalty","kick","."],"py":["","","","","","."],"vi":"Anh ấy đá hỏng quả phạt đền.","alts":[]}},
+   {"id":"y2050-throw_in","hanzi":"throw-in","pinyin":"","vi":"quả ném biên","ex":{"tokens":["The","referee","gave","a","throw-in","."],"py":["","","","","","."],"vi":"Trọng tài cho hưởng quả ném biên.","alts":[]}},
+   {"id":"y2050-yellow_card","hanzi":"yellow card","pinyin":"","vi":"thẻ vàng","ex":{"tokens":["He","got","a","yellow","card","for","the","foul","."],"py":["","","","","","","","","."],"vi":"Anh ta nhận thẻ vàng vì pha phạm lỗi.","alts":[]}},
+   {"id":"y2050-red_card","hanzi":"red card","pinyin":"","vi":"thẻ đỏ","ex":{"tokens":["The","captain","was","shown","a","red","card","."],"py":["","","","","","","","."],"vi":"Đội trưởng bị rút thẻ đỏ.","alts":[]}},
+   {"id":"y2050-own_goal","hanzi":"own goal","pinyin":"","vi":"bàn phản lưới nhà","ex":{"tokens":["The","defender","scored","an","own","goal","."],"py":["","","","","","","."],"vi":"Hậu vệ đá phản lưới nhà.","alts":[]}},
+   {"id":"y2050-shoot","hanzi":"shoot","pinyin":"","vi":"sút; bắn","ex":{"tokens":["Shoot","when","you","are","near","the","goal","."],"py":["","","","","","","","."],"vi":"Hãy sút khi bạn ở gần khung thành.","alts":[]}},
+   {"id":"y2050-finish_line","hanzi":"finish line","pinyin":"","vi":"vạch đích","ex":{"tokens":["She","crossed","the","finish","line","first","."],"py":["","","","","","","."],"vi":"Cô ấy về đích đầu tiên.","alts":[]}},
+   {"id":"y2050-starting_line","hanzi":"starting line","pinyin":"","vi":"vạch xuất phát","ex":{"tokens":["The","runners","are","at","the","starting","line","."],"py":["","","","","","","","."],"vi":"Các vận động viên đang ở vạch xuất phát.","alts":[]}},
+   {"id":"y2050-relay_race","hanzi":"relay race","pinyin":"","vi":"cuộc chạy tiếp sức","ex":{"tokens":["Our","class","won","the","relay","race","."],"py":["","","","","","","."],"vi":"Lớp chúng tôi thắng cuộc chạy tiếp sức.","alts":[]}}
+  ]},
+  {"id":"y2051","title":"Thể thao 4","desc":"Bóng đá, điền kinh, sân bãi","icon":"Sports","unit":253,"course":"en","order":2140,"words":[
+   {"id":"y2051-jumping_jack","hanzi":"jumping jack","pinyin":"","vi":"động tác bật nhảy dang tay chân","ex":{"tokens":["Start","with","a","jumping","jack","to","warm","up","."],"py":["","","","","","","","","."],"vi":"Hãy bắt đầu bằng động tác bật nhảy dang tay chân để khởi động.","alts":[]}},
+   {"id":"y2051-boxing_ring","hanzi":"boxing ring","pinyin":"","vi":"võ đài quyền anh","ex":{"tokens":["Two","fighters","stood","in","the","boxing","ring","."],"py":["","","","","","","","."],"vi":"Hai võ sĩ đứng trên võ đài.","alts":[]}},
+   {"id":"y2051-punching_bag","hanzi":"punching bag","pinyin":"","vi":"bao cát","ex":{"tokens":["He","hits","the","punching","bag","every","morning","."],"py":["","","","","","","","."],"vi":"Sáng nào anh ấy cũng đấm bao cát.","alts":[]}},
+   {"id":"y2051-diving","hanzi":"diving","pinyin":"","vi":"môn lặn; nhảy cầu","ex":{"tokens":["We","went","diving","in","Nha","Trang","."],"py":["","","","","","","."],"vi":"Chúng tôi đi lặn ở Nha Trang.","alts":[]}},
+   {"id":"y2051-water_polo","hanzi":"water polo","pinyin":"","vi":"bóng nước","ex":{"tokens":["Water","polo","is","played","in","a","pool","."],"py":["","","","","","","","."],"vi":"Bóng nước được chơi trong hồ bơi.","alts":[]}},
+   {"id":"y2051-badminton_racket","hanzi":"badminton racket","pinyin":"","vi":"vợt cầu lông","ex":{"tokens":["I","bought","a","new","badminton","racket","."],"py":["","","","","","","."],"vi":"Tôi mua một cây vợt cầu lông mới.","alts":[]}},
+   {"id":"y2051-shuttlecock","hanzi":"shuttlecock","pinyin":"","vi":"quả cầu lông","ex":{"tokens":["The","shuttlecock","landed","on","the","roof","."],"py":["","","","","","","."],"vi":"Quả cầu lông rơi trên mái nhà.","alts":[]}},
+   {"id":"y2051-tennis_court","hanzi":"tennis court","pinyin":"","vi":"sân quần vợt","ex":{"tokens":["The","hotel","has","a","tennis","court","."],"py":["","","","","","","."],"vi":"Khách sạn có sân quần vợt.","alts":[]}},
+   {"id":"y2051-golf_club","hanzi":"golf club","pinyin":"","vi":"gậy đánh gôn; câu lạc bộ gôn","ex":{"tokens":["He","swung","the","golf","club","."],"py":["","","","","","."],"vi":"Ông ấy vung gậy đánh gôn.","alts":[]}},
+   {"id":"y2051-ice_rink","hanzi":"ice rink","pinyin":"","vi":"sân trượt băng","ex":{"tokens":["We","skated","at","the","ice","rink","."],"py":["","","","","","","."],"vi":"Chúng tôi trượt băng ở sân băng.","alts":[]}},
+   {"id":"y2051-roller_skating","hanzi":"roller skating","pinyin":"","vi":"trượt patin","ex":{"tokens":["Roller","skating","is","fun","."],"py":["","","","","."],"vi":"Trượt patin rất vui.","alts":[]}},
+   {"id":"y2051-cycling_race","hanzi":"cycling race","pinyin":"","vi":"cuộc đua xe đạp","ex":{"tokens":["The","cycling","race","passes","our","town","."],"py":["","","","","","","."],"vi":"Cuộc đua xe đạp đi qua thị trấn của chúng tôi.","alts":[]}}
   ]}
  ]
 }

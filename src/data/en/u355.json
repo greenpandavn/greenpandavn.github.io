@@ -3,7 +3,7 @@
   {"unit":355,"level":3,"title":"Phần 33: Mở rộng – Công sở và việc làm","desc":"Công sở và việc làm, Sức khỏe và cơ thể, Thành phố và giao thông","color":"sun","course":"en"}
  ],
  "lessons": [
-  {"id":"y3081","title":"Công sở và việc làm 1","desc":"Tuyển dụng, chế độ, đồ dùng văn phòng","icon":"Office","unit":355,"course":"en","order":3420,"words":[
+  {"id":"y3081","title":"Công sở và việc làm 1","desc":"Tuyển dụng, chế độ, đồ dùng văn phòng","icon":"Office","unit":355,"course":"en","order":3460,"words":[
    {"id":"y3081-r_sum_","hanzi":"résumé","pinyin":"","vi":"sơ yếu lý lịch","ex":{"tokens":["Send","your","résumé","by","email","."],"py":["","","","","","."],"vi":"Hãy gửi sơ yếu lý lịch qua email.","alts":[]}},
    {"id":"y3081-cover_letter","hanzi":"cover letter","pinyin":"","vi":"thư xin việc","ex":{"tokens":["Write","a","short","cover","letter","."],"py":["","","","","","."],"vi":"Hãy viết một lá thư xin việc ngắn.","alts":[]}},
    {"id":"y3081-applicant","hanzi":"applicant","pinyin":"","vi":"người nộp đơn, ứng viên","ex":{"tokens":["Each","applicant","must","fill","in","a","form","."],"py":["","","","","","","","."],"vi":"Mỗi ứng viên phải điền một mẫu đơn.","alts":[]}},
@@ -19,7 +19,7 @@
    {"id":"y3081-sick_leave","hanzi":"sick leave","pinyin":"","vi":"nghỉ ốm","ex":{"tokens":["He","is","on","sick","leave","this","week","."],"py":["","","","","","","","."],"vi":"Tuần này anh ấy nghỉ ốm.","alts":[]}},
    {"id":"y3081-maternity_leave","hanzi":"maternity leave","pinyin":"","vi":"nghỉ thai sản","ex":{"tokens":["She","is","on","maternity","leave","until","June","."],"py":["","","","","","","","."],"vi":"Cô ấy nghỉ thai sản đến tháng Sáu.","alts":[]}}
   ]},
-  {"id":"y3082","title":"Công sở và việc làm 2","desc":"Tuyển dụng, chế độ, đồ dùng văn phòng","icon":"Office","unit":355,"course":"en","order":3430,"words":[
+  {"id":"y3082","title":"Công sở và việc làm 2","desc":"Tuyển dụng, chế độ, đồ dùng văn phòng","icon":"Office","unit":355,"course":"en","order":3470,"words":[
    {"id":"y3082-annual_leave","hanzi":"annual leave","pinyin":"","vi":"nghỉ phép năm","ex":{"tokens":["I","have","ten","days","of","annual","leave","left","."],"py":["","","","","","","","","."],"vi":"Tôi còn mười ngày nghỉ phép năm.","alts":[]}},
    {"id":"y3082-dismissal","hanzi":"dismissal","pinyin":"","vi":"sự sa thải","ex":{"tokens":["He","was","shocked","by","his","dismissal","."],"py":["","","","","","","."],"vi":"Anh ấy sốc vì bị sa thải.","alts":[]}},
    {"id":"y3082-retirement","hanzi":"retirement","pinyin":"","vi":"sự nghỉ hưu","ex":{"tokens":["He","took","up","fishing","after","retirement","."],"py":["","","","","","","."],"vi":"Ông ấy bắt đầu đi câu sau khi nghỉ hưu.","alts":[]}},
@@ -35,7 +35,7 @@
    {"id":"y3082-binder","hanzi":"binder","pinyin":"","vi":"bìa còng","ex":{"tokens":["Keep","the","reports","in","a","binder","."],"py":["","","","","","","."],"vi":"Hãy giữ các báo cáo trong một bìa còng.","alts":[]}},
    {"id":"y3082-filing_cabinet","hanzi":"filing cabinet","pinyin":"","vi":"tủ hồ sơ","ex":{"tokens":["The","contracts","are","in","the","filing","cabinet","."],"py":["","","","","","","","."],"vi":"Các hợp đồng nằm trong tủ hồ sơ.","alts":[]}}
   ]},
-  {"id":"y3083","title":"Công sở và việc làm 3","desc":"Tuyển dụng, chế độ, đồ dùng văn phòng","icon":"Office","unit":355,"course":"en","order":3440,"words":[
+  {"id":"y3083","title":"Công sở và việc làm 3","desc":"Tuyển dụng, chế độ, đồ dùng văn phòng","icon":"Office","unit":355,"course":"en","order":3480,"words":[
    {"id":"y3083-projector","hanzi":"projector","pinyin":"","vi":"máy chiếu","ex":{"tokens":["The","projector","is","not","working","."],"py":["","","","","","."],"vi":"Máy chiếu không hoạt động.","alts":[]}},
    {"id":"y3083-name_tag","hanzi":"name tag","pinyin":"","vi":"bảng tên","ex":{"tokens":["Please","wear","your","name","tag","."],"py":["","","","","","."],"vi":"Vui lòng đeo bảng tên.","alts":[]}},
    {"id":"y3083-business_card","hanzi":"business card","pinyin":"","vi":"danh thiếp","ex":{"tokens":["He","gave","me","his","business","card","."],"py":["","","","","","","."],"vi":"Anh ấy đưa tôi danh thiếp.","alts":[]}},
@@ -51,7 +51,7 @@
    {"id":"y3083-performance_review","hanzi":"performance review","pinyin":"","vi":"buổi đánh giá hiệu quả công việc","ex":{"tokens":["My","performance","review","is","next","week","."],"py":["","","","","","","."],"vi":"Buổi đánh giá công việc của tôi là tuần sau.","alts":[]}},
    {"id":"y3083-job_description","hanzi":"job description","pinyin":"","vi":"bản mô tả công việc","ex":{"tokens":["Read","the","job","description","carefully","."],"py":["","","","","","."],"vi":"Hãy đọc kỹ bản mô tả công việc.","alts":[]}}
   ]},
-  {"id":"y3084","title":"Công sở và việc làm 4","desc":"Tuyển dụng, chế độ, đồ dùng văn phòng","icon":"Office","unit":355,"course":"en","order":3450,"words":[
+  {"id":"y3084","title":"Công sở và việc làm 4","desc":"Tuyển dụng, chế độ, đồ dùng văn phòng","icon":"Office","unit":355,"course":"en","order":3490,"words":[
    {"id":"y3084-human_resources","hanzi":"human resources","pinyin":"","vi":"phòng nhân sự","ex":{"tokens":["Send","the","form","to","human","resources","."],"py":["","","","","","","."],"vi":"Hãy gửi mẫu đơn cho phòng nhân sự.","alts":[]}},
    {"id":"y3084-trade_union","hanzi":"trade union","pinyin":"","vi":"công đoàn","ex":{"tokens":["She","joined","the","trade","union","."],"py":["","","","","","."],"vi":"Cô ấy gia nhập công đoàn.","alts":[]}},
    {"id":"y3084-work_life_balance","hanzi":"work-life balance","pinyin":"","vi":"cân bằng công việc và cuộc sống","ex":{"tokens":["A","good","work-life","balance","keeps","you","healthy","."],"py":["","","","","","","","."],"vi":"Cân bằng tốt giữa công việc và cuộc sống giúp bạn khỏe mạnh.","alts":[]}},
@@ -67,7 +67,7 @@
    {"id":"y3084-lanyard","hanzi":"lanyard","pinyin":"","vi":"dây đeo thẻ","ex":{"tokens":["He","wore","his","badge","on","a","lanyard","."],"py":["","","","","","","","."],"vi":"Anh ấy đeo thẻ bằng dây đeo.","alts":[]}},
    {"id":"y3084-telecommute","hanzi":"telecommute","pinyin":"","vi":"làm việc từ xa","ex":{"tokens":["Many","staff","telecommute","two","days","a","week","."],"py":["","","","","","","","."],"vi":"Nhiều nhân viên làm việc từ xa hai ngày một tuần.","alts":[]}}
   ]},
-  {"id":"y3085","title":"Sức khỏe và cơ thể 1","desc":"Bộ phận cơ thể, triệu chứng, bệnh viện","icon":"Health","unit":355,"course":"en","order":3460,"words":[
+  {"id":"y3085","title":"Sức khỏe và cơ thể 1","desc":"Bộ phận cơ thể, triệu chứng, bệnh viện","icon":"Health","unit":355,"course":"en","order":3500,"words":[
    {"id":"y3085-hip","hanzi":"hip","pinyin":"","vi":"hông","ex":{"tokens":["She","fell","and","hurt","her","hip","."],"py":["","","","","","","."],"vi":"Cô ấy ngã và bị đau hông.","alts":[]}},
    {"id":"y3085-waist","hanzi":"waist","pinyin":"","vi":"eo, vòng eo","ex":{"tokens":["He","tied","a","rope","around","his","waist","."],"py":["","","","","","","","."],"vi":"Anh ấy buộc một sợi dây quanh eo.","alts":[]}},
    {"id":"y3085-jaw","hanzi":"jaw","pinyin":"","vi":"hàm","ex":{"tokens":["He","broke","his","jaw","in","the","accident","."],"py":["","","","","","","","."],"vi":"Anh ấy bị gãy hàm trong vụ tai nạn.","alts":[]}},
@@ -83,7 +83,7 @@
    {"id":"y3085-itch","hanzi":"itch","pinyin":"","vi":"ngứa; cơn ngứa","ex":{"tokens":["Mosquito","bites","itch","a","lot","."],"py":["","","","","","."],"vi":"Vết muỗi đốt rất ngứa.","alts":[]}},
    {"id":"y3085-chickenpox","hanzi":"chickenpox","pinyin":"","vi":"bệnh thủy đậu","ex":{"tokens":["My","son","caught","chickenpox","at","school","."],"py":["","","","","","","."],"vi":"Con trai tôi bị lây thủy đậu ở trường.","alts":[]}}
   ]},
-  {"id":"y3086","title":"Sức khỏe và cơ thể 2","desc":"Bộ phận cơ thể, triệu chứng, bệnh viện","icon":"Health","unit":355,"course":"en","order":3470,"words":[
+  {"id":"y3086","title":"Sức khỏe và cơ thể 2","desc":"Bộ phận cơ thể, triệu chứng, bệnh viện","icon":"Health","unit":355,"course":"en","order":3510,"words":[
    {"id":"y3086-cough_syrup","hanzi":"cough syrup","pinyin":"","vi":"si-rô ho","ex":{"tokens":["Take","a","spoon","of","cough","syrup","before","bed","."],"py":["","","","","","","","","."],"vi":"Hãy uống một thìa si-rô ho trước khi ngủ.","alts":[]}},
    {"id":"y3086-eye_drops","hanzi":"eye drops","pinyin":"","vi":"thuốc nhỏ mắt","ex":{"tokens":["Use","the","eye","drops","twice","a","day","."],"py":["","","","","","","","."],"vi":"Hãy nhỏ thuốc mắt hai lần một ngày.","alts":[]}},
    {"id":"y3086-first_aid_kit","hanzi":"first aid kit","pinyin":"","vi":"bộ sơ cứu","ex":{"tokens":["We","keep","a","first","aid","kit","in","the","car","."],"py":["","","","","","","","","","."],"vi":"Chúng tôi để một bộ sơ cứu trong xe.","alts":[]}},
@@ -99,7 +99,7 @@
    {"id":"y3086-hygiene","hanzi":"hygiene","pinyin":"","vi":"vệ sinh","ex":{"tokens":["Good","hygiene","prevents","illness","."],"py":["","","","","."],"vi":"Giữ vệ sinh tốt giúp phòng bệnh.","alts":[]}},
    {"id":"y3086-stay_in_shape","hanzi":"stay in shape","pinyin":"","vi":"giữ dáng, giữ sức khỏe","ex":{"tokens":["I","swim","to","stay","in","shape","."],"py":["","","","","","","."],"vi":"Tôi bơi để giữ dáng.","alts":[]}}
   ]},
-  {"id":"y3087","title":"Thành phố và giao thông 1","desc":"Đường phố, vé tàu xe, phương tiện","icon":"City","unit":355,"course":"en","order":3480,"words":[
+  {"id":"y3087","title":"Thành phố và giao thông 1","desc":"Đường phố, vé tàu xe, phương tiện","icon":"City","unit":355,"course":"en","order":3520,"words":[
    {"id":"y3087-avenue","hanzi":"avenue","pinyin":"","vi":"đại lộ","ex":{"tokens":["The","hotel","is","on","Fifth","Avenue","."],"py":["","","","","","","."],"vi":"Khách sạn nằm trên Đại lộ số Năm.","alts":[]}},
    {"id":"y3087-boulevard","hanzi":"boulevard","pinyin":"","vi":"đại lộ rộng có cây","ex":{"tokens":["We","walked","along","the","boulevard","."],"py":["","","","","","."],"vi":"Chúng tôi đi dạo dọc đại lộ.","alts":[]}},
    {"id":"y3087-zebra_crossing","hanzi":"zebra crossing","pinyin":"","vi":"vạch sang đường cho người đi bộ","ex":{"tokens":["Cross","the","road","at","the","zebra","crossing","."],"py":["","","","","","","","."],"vi":"Hãy sang đường ở vạch kẻ cho người đi bộ.","alts":[]}},
@@ -115,7 +115,7 @@
    {"id":"y3087-toll","hanzi":"toll","pinyin":"","vi":"phí đường bộ; số thương vong","ex":{"tokens":["We","paid","a","toll","to","cross","the","bridge","."],"py":["","","","","","","","","."],"vi":"Chúng tôi trả phí để qua cầu.","alts":[]}},
    {"id":"y3087-flyover","hanzi":"flyover","pinyin":"","vi":"cầu vượt","ex":{"tokens":["A","new","flyover","was","built","over","the","junction","."],"py":["","","","","","","","","."],"vi":"Một cây cầu vượt mới được xây trên nút giao.","alts":[]}}
   ]},
-  {"id":"y3088","title":"Thành phố và giao thông 2","desc":"Đường phố, vé tàu xe, phương tiện","icon":"City","unit":355,"course":"en","order":3490,"words":[
+  {"id":"y3088","title":"Thành phố và giao thông 2","desc":"Đường phố, vé tàu xe, phương tiện","icon":"City","unit":355,"course":"en","order":3530,"words":[
    {"id":"y3088-footbridge","hanzi":"footbridge","pinyin":"","vi":"cầu đi bộ","ex":{"tokens":["Use","the","footbridge","to","cross","the","river","."],"py":["","","","","","","","."],"vi":"Hãy dùng cầu đi bộ để qua sông.","alts":[]}},
    {"id":"y3088-subway_station","hanzi":"subway station","pinyin":"","vi":"ga tàu điện ngầm","ex":{"tokens":["The","subway","station","is","two","blocks","away","."],"py":["","","","","","","","."],"vi":"Ga tàu điện ngầm cách đây hai dãy nhà.","alts":[]}},
    {"id":"y3088-ticket_office","hanzi":"ticket office","pinyin":"","vi":"phòng vé","ex":{"tokens":["The","ticket","office","opens","at","six","."],"py":["","","","","","","."],"vi":"Phòng vé mở lúc sáu giờ.","alts":[]}},
@@ -130,7 +130,7 @@
    {"id":"y3088-pickup_truck","hanzi":"pickup truck","pinyin":"","vi":"xe bán tải","ex":{"tokens":["He","drives","an","old","pickup","truck","."],"py":["","","","","","","."],"vi":"Ông ấy lái một chiếc xe bán tải cũ.","alts":[]}},
    {"id":"y3088-minibus","hanzi":"minibus","pinyin":"","vi":"xe buýt nhỏ","ex":{"tokens":["A","minibus","took","us","to","the","hotel","."],"py":["","","","","","","","."],"vi":"Một chiếc xe buýt nhỏ đưa chúng tôi về khách sạn.","alts":[]}}
   ]},
-  {"id":"y3089","title":"Thành phố và giao thông 3","desc":"Đường phố, vé tàu xe, phương tiện","icon":"City","unit":355,"course":"en","order":3500,"words":[
+  {"id":"y3089","title":"Thành phố và giao thông 3","desc":"Đường phố, vé tàu xe, phương tiện","icon":"City","unit":355,"course":"en","order":3540,"words":[
    {"id":"y3089-compartment","hanzi":"compartment","pinyin":"","vi":"khoang, ngăn","ex":{"tokens":["We","found","an","empty","compartment","on","the","train","."],"py":["","","","","","","","","."],"vi":"Chúng tôi tìm được một khoang trống trên tàu.","alts":[]}},
    {"id":"y3089-luggage_rack","hanzi":"luggage rack","pinyin":"","vi":"giá để hành lý","ex":{"tokens":["Put","your","bag","on","the","luggage","rack","."],"py":["","","","","","","","."],"vi":"Hãy để túi lên giá hành lý.","alts":[]}},
    {"id":"y3089-ticket_inspector","hanzi":"ticket inspector","pinyin":"","vi":"người soát vé","ex":{"tokens":["The","ticket","inspector","checked","my","ticket","."],"py":["","","","","","","."],"vi":"Người soát vé kiểm tra vé của tôi.","alts":[]}},
@@ -145,7 +145,7 @@
    {"id":"y3089-air_pollution","hanzi":"air pollution","pinyin":"","vi":"ô nhiễm không khí","ex":{"tokens":["Air","pollution","is","bad","in","big","cities","."],"py":["","","","","","","","."],"vi":"Ô nhiễm không khí nghiêm trọng ở các thành phố lớn.","alts":[]}},
    {"id":"y3089-overcrowded","hanzi":"overcrowded","pinyin":"","vi":"quá đông đúc","ex":{"tokens":["The","train","was","overcrowded","."],"py":["","","","","."],"vi":"Tàu quá đông.","alts":[]}}
   ]},
-  {"id":"y3090","title":"Thành phố và giao thông 4","desc":"Đường phố, vé tàu xe, phương tiện","icon":"City","unit":355,"course":"en","order":3510,"words":[
+  {"id":"y3090","title":"Thành phố và giao thông 4","desc":"Đường phố, vé tàu xe, phương tiện","icon":"City","unit":355,"course":"en","order":3550,"words":[
    {"id":"y3090-bustling","hanzi":"bustling","pinyin":"","vi":"nhộn nhịp","ex":{"tokens":["We","walked","through","the","bustling","market","."],"py":["","","","","","","."],"vi":"Chúng tôi đi qua khu chợ nhộn nhịp.","alts":[]}},
    {"id":"y3090-lively","hanzi":"lively","pinyin":"","vi":"sôi động","ex":{"tokens":["It","is","a","lively","part","of","town","."],"py":["","","","","","","","."],"vi":"Đó là một khu sôi động của thị trấn.","alts":[]}},
    {"id":"y3090-run_down","hanzi":"run-down","pinyin":"","vi":"xuống cấp","ex":{"tokens":["They","live","in","a","run-down","building","."],"py":["","","","","","","."],"vi":"Họ sống trong một tòa nhà xuống cấp.","alts":[]}},

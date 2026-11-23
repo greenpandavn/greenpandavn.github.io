@@ -1,9 +1,9 @@
 {
  "units": [
-  {"unit":459,"level":4,"title":"Phần 51: Mở rộng – Môi trường và năng lượng","desc":"Môi trường và năng lượng, Tội phạm và điều tra","color":"coral","course":"en"}
+  {"unit":459,"level":4,"title":"Phần 52: Mở rộng – Môi trường và năng lượng","desc":"Môi trường và năng lượng, Tội phạm và điều tra","color":"coral","course":"en"}
  ],
  "lessons": [
-  {"id":"y4161","title":"Môi trường và năng lượng 1","desc":"Khí hậu, năng lượng sạch, ô nhiễm, bảo tồn","icon":"Planet","unit":459,"course":"en","order":5530,"words":[
+  {"id":"y4161","title":"Môi trường và năng lượng 1","desc":"Khí hậu, năng lượng sạch, ô nhiễm, bảo tồn","icon":"Planet","unit":459,"course":"en","order":5640,"words":[
    {"id":"y4161-carbon_dioxide","hanzi":"carbon dioxide","pinyin":"","vi":"khí các-bô-níc (CO2)","ex":{"tokens":["Trees","take","in","carbon","dioxide","."],"py":["","","","","","."],"vi":"Cây xanh hấp thụ khí các-bô-níc.","alts":[]}},
    {"id":"y4161-greenhouse_gas","hanzi":"greenhouse gas","pinyin":"","vi":"khí nhà kính","ex":{"tokens":["Methane","is","a","greenhouse","gas","."],"py":["","","","","","."],"vi":"Mê-tan là một loại khí nhà kính.","alts":[]}},
    {"id":"y4161-climate_crisis","hanzi":"climate crisis","pinyin":"","vi":"khủng hoảng khí hậu","ex":{"tokens":["Young","people","worry","about","the","climate","crisis","."],"py":["","","","","","","","."],"vi":"Giới trẻ lo lắng về khủng hoảng khí hậu.","alts":[]}},
@@ -19,7 +19,7 @@
    {"id":"y4161-blackout","hanzi":"blackout","pinyin":"","vi":"mất điện diện rộng","ex":{"tokens":["The","storm","caused","a","blackout","across","the","city","."],"py":["","","","","","","","","."],"vi":"Cơn bão gây mất điện khắp thành phố.","alts":[]}},
    {"id":"y4161-energy_efficient","hanzi":"energy-efficient","pinyin":"","vi":"tiết kiệm năng lượng","ex":{"tokens":["We","bought","an","energy-efficient","fridge","."],"py":["","","","","","."],"vi":"Chúng tôi mua một chiếc tủ lạnh tiết kiệm điện.","alts":[]}}
   ]},
-  {"id":"y4162","title":"Môi trường và năng lượng 2","desc":"Khí hậu, năng lượng sạch, ô nhiễm, bảo tồn","icon":"Planet","unit":459,"course":"en","order":5540,"words":[
+  {"id":"y4162","title":"Môi trường và năng lượng 2","desc":"Khí hậu, năng lượng sạch, ô nhiễm, bảo tồn","icon":"Planet","unit":459,"course":"en","order":5650,"words":[
    {"id":"y4162-eco_friendly","hanzi":"eco-friendly","pinyin":"","vi":"thân thiện với môi trường","ex":{"tokens":["She","uses","eco-friendly","soap","."],"py":["","","","","."],"vi":"Cô ấy dùng xà phòng thân thiện với môi trường.","alts":[]}},
    {"id":"y4162-incinerator","hanzi":"incinerator","pinyin":"","vi":"lò đốt rác","ex":{"tokens":["The","waste","goes","to","an","incinerator","."],"py":["","","","","","","."],"vi":"Rác được đưa đến lò đốt.","alts":[]}},
    {"id":"y4162-waste_disposal","hanzi":"waste disposal","pinyin":"","vi":"xử lý rác thải","ex":{"tokens":["Waste","disposal","is","a","big","problem","in","cities","."],"py":["","","","","","","","","."],"vi":"Xử lý rác thải là một vấn đề lớn ở các thành phố.","alts":[]}},
@@ -35,7 +35,7 @@
    {"id":"y4162-conservationist","hanzi":"conservationist","pinyin":"","vi":"nhà bảo tồn","ex":{"tokens":["The","conservationist","protects","sea","turtles","."],"py":["","","","","","."],"vi":"Nhà bảo tồn bảo vệ rùa biển.","alts":[]}},
    {"id":"y4162-environmentalist","hanzi":"environmentalist","pinyin":"","vi":"nhà hoạt động môi trường","ex":{"tokens":["The","environmentalist","spoke","against","the","dam","."],"py":["","","","","","","."],"vi":"Nhà hoạt động môi trường lên tiếng phản đối con đập.","alts":[]}}
   ]},
-  {"id":"y4163","title":"Môi trường và năng lượng 3","desc":"Khí hậu, năng lượng sạch, ô nhiễm, bảo tồn","icon":"Planet","unit":459,"course":"en","order":5550,"words":[
+  {"id":"y4163","title":"Môi trường và năng lượng 3","desc":"Khí hậu, năng lượng sạch, ô nhiễm, bảo tồn","icon":"Planet","unit":459,"course":"en","order":5660,"words":[
    {"id":"y4163-carbon_tax","hanzi":"carbon tax","pinyin":"","vi":"thuế các-bon","ex":{"tokens":["The","government","plans","a","carbon","tax","."],"py":["","","","","","","."],"vi":"Chính phủ dự định áp thuế các-bon.","alts":[]}},
    {"id":"y4163-net_zero","hanzi":"net zero","pinyin":"","vi":"phát thải ròng bằng không","ex":{"tokens":["The","company","aims","for","net","zero","by","2040","."],"py":["","","","","","","","","."],"vi":"Công ty đặt mục tiêu phát thải ròng bằng không vào năm 2040.","alts":[]}},
    {"id":"y4163-tidal_wave","hanzi":"tidal wave","pinyin":"","vi":"sóng thần, sóng triều lớn","ex":{"tokens":["A","tidal","wave","hit","the","coast","."],"py":["","","","","","","."],"vi":"Một đợt sóng lớn ập vào bờ biển.","alts":[]}},
@@ -51,7 +51,7 @@
    {"id":"y4163-zero_waste","hanzi":"zero waste","pinyin":"","vi":"không rác thải","ex":{"tokens":["The","café","has","a","zero","waste","policy","."],"py":["","","","","","","","."],"vi":"Quán cà phê có chính sách không rác thải.","alts":[]}},
    {"id":"y4163-single_use_plastic","hanzi":"single-use plastic","pinyin":"","vi":"nhựa dùng một lần","ex":{"tokens":["The","city","banned","single-use","plastic","."],"py":["","","","","","."],"vi":"Thành phố cấm nhựa dùng một lần.","alts":[]}}
   ]},
-  {"id":"y4164","title":"Môi trường và năng lượng 4","desc":"Khí hậu, năng lượng sạch, ô nhiễm, bảo tồn","icon":"Planet","unit":459,"course":"en","order":5560,"words":[
+  {"id":"y4164","title":"Môi trường và năng lượng 4","desc":"Khí hậu, năng lượng sạch, ô nhiễm, bảo tồn","icon":"Planet","unit":459,"course":"en","order":5670,"words":[
    {"id":"y4164-microplastic","hanzi":"microplastic","pinyin":"","vi":"vi nhựa","ex":{"tokens":["Scientists","found","microplastic","in","the","fish","."],"py":["","","","","","","."],"vi":"Các nhà khoa học tìm thấy vi nhựa trong cá.","alts":[]}},
    {"id":"y4164-refillable","hanzi":"refillable","pinyin":"","vi":"có thể nạp lại, dùng lại","ex":{"tokens":["I","carry","a","refillable","water","bottle","."],"py":["","","","","","","."],"vi":"Tôi mang theo một bình nước dùng lại được.","alts":[]}},
    {"id":"y4164-public_transport","hanzi":"public transport","pinyin":"","vi":"giao thông công cộng","ex":{"tokens":["I","go","to","work","by","public","transport","."],"py":["","","","","","","","."],"vi":"Tôi đi làm bằng phương tiện công cộng.","alts":[]}},
@@ -67,7 +67,7 @@
    {"id":"y4164-light_pollution","hanzi":"light pollution","pinyin":"","vi":"ô nhiễm ánh sáng","ex":{"tokens":["Light","pollution","hides","the","stars","."],"py":["","","","","","."],"vi":"Ô nhiễm ánh sáng che khuất các vì sao.","alts":[]}},
    {"id":"y4164-water_pollution","hanzi":"water pollution","pinyin":"","vi":"ô nhiễm nước","ex":{"tokens":["Factories","cause","water","pollution","."],"py":["","","","","."],"vi":"Nhà máy gây ô nhiễm nước.","alts":[]}}
   ]},
-  {"id":"y4165","title":"Môi trường và năng lượng 5","desc":"Khí hậu, năng lượng sạch, ô nhiễm, bảo tồn","icon":"Planet","unit":459,"course":"en","order":5570,"words":[
+  {"id":"y4165","title":"Môi trường và năng lượng 5","desc":"Khí hậu, năng lượng sạch, ô nhiễm, bảo tồn","icon":"Planet","unit":459,"course":"en","order":5680,"words":[
    {"id":"y4165-toxic_waste","hanzi":"toxic waste","pinyin":"","vi":"chất thải độc hại","ex":{"tokens":["The","firm","dumped","toxic","waste","in","the","river","."],"py":["","","","","","","","","."],"vi":"Công ty đổ chất thải độc hại xuống sông.","alts":[]}},
    {"id":"y4165-contamination","hanzi":"contamination","pinyin":"","vi":"sự nhiễm bẩn","ex":{"tokens":["The","well","was","closed","because","of","contamination","."],"py":["","","","","","","","."],"vi":"Giếng bị đóng vì nhiễm bẩn.","alts":[]}},
    {"id":"y4165-meltdown","hanzi":"meltdown","pinyin":"","vi":"sự tan chảy lõi lò; sự suy sụp","ex":{"tokens":["The","reactor","was","close","to","meltdown","."],"py":["","","","","","","."],"vi":"Lò phản ứng suýt tan chảy lõi.","alts":[]}},
@@ -82,7 +82,7 @@
    {"id":"y4165-smokestack","hanzi":"smokestack","pinyin":"","vi":"ống khói nhà máy","ex":{"tokens":["Black","smoke","rose","from","the","smokestack","."],"py":["","","","","","","."],"vi":"Khói đen bốc lên từ ống khói nhà máy.","alts":[]}},
    {"id":"y4165-particulate","hanzi":"particulate","pinyin":"","vi":"hạt bụi mịn; dạng hạt","ex":{"tokens":["Diesel","engines","produce","particulate","pollution","."],"py":["","","","","","."],"vi":"Động cơ diesel tạo ra ô nhiễm bụi mịn.","alts":[]}}
   ]},
-  {"id":"y4166","title":"Tội phạm và điều tra 1","desc":"Các loại tội phạm, cảnh sát, điều tra, nhà tù","icon":"Crime","unit":459,"course":"en","order":5580,"words":[
+  {"id":"y4166","title":"Tội phạm và điều tra 1","desc":"Các loại tội phạm, cảnh sát, điều tra, nhà tù","icon":"Crime","unit":459,"course":"en","order":5690,"words":[
    {"id":"y4166-burglar","hanzi":"burglar","pinyin":"","vi":"kẻ trộm đột nhập","ex":{"tokens":["A","burglar","broke","into","our","house","."],"py":["","","","","","","."],"vi":"Một tên trộm đã đột nhập vào nhà chúng tôi.","alts":[]}},
    {"id":"y4166-robbery","hanzi":"robbery","pinyin":"","vi":"vụ cướp","ex":{"tokens":["There","was","a","robbery","at","the","bank","."],"py":["","","","","","","","."],"vi":"Có một vụ cướp ở ngân hàng.","alts":[]}},
    {"id":"y4166-mugging","hanzi":"mugging","pinyin":"","vi":"vụ trấn lột","ex":{"tokens":["He","was","hurt","in","a","mugging","."],"py":["","","","","","","."],"vi":"Anh ấy bị thương trong một vụ trấn lột.","alts":[]}},
@@ -98,7 +98,7 @@
    {"id":"y4166-smuggler","hanzi":"smuggler","pinyin":"","vi":"kẻ buôn lậu","ex":{"tokens":["The","smuggler","hid","gold","in","his","shoes","."],"py":["","","","","","","","."],"vi":"Kẻ buôn lậu giấu vàng trong giày.","alts":[]}},
    {"id":"y4166-trafficking","hanzi":"trafficking","pinyin":"","vi":"nạn buôn bán trái phép","ex":{"tokens":["He","was","jailed","for","drug","trafficking","."],"py":["","","","","","","."],"vi":"Hắn bị bỏ tù vì buôn bán ma túy.","alts":[]}}
   ]},
-  {"id":"y4167","title":"Tội phạm và điều tra 2","desc":"Các loại tội phạm, cảnh sát, điều tra, nhà tù","icon":"Crime","unit":459,"course":"en","order":5590,"words":[
+  {"id":"y4167","title":"Tội phạm và điều tra 2","desc":"Các loại tội phạm, cảnh sát, điều tra, nhà tù","icon":"Crime","unit":459,"course":"en","order":5700,"words":[
    {"id":"y4167-counterfeit","hanzi":"counterfeit","pinyin":"","vi":"giả, hàng giả; làm giả","ex":{"tokens":["The","shop","sold","counterfeit","watches","."],"py":["","","","","","."],"vi":"Cửa hàng bán đồng hồ giả.","alts":[]}},
    {"id":"y4167-fraudster","hanzi":"fraudster","pinyin":"","vi":"kẻ lừa đảo","ex":{"tokens":["The","fraudster","stole","her","savings","."],"py":["","","","","","."],"vi":"Kẻ lừa đảo lấy hết tiền tiết kiệm của bà ấy.","alts":[]}},
    {"id":"y4167-money_laundering","hanzi":"money laundering","pinyin":"","vi":"rửa tiền","ex":{"tokens":["The","bank","was","fined","for","money","laundering","."],"py":["","","","","","","","."],"vi":"Ngân hàng bị phạt vì rửa tiền.","alts":[]}},
@@ -114,7 +114,7 @@
    {"id":"y4167-drug_dealer","hanzi":"drug dealer","pinyin":"","vi":"kẻ buôn ma túy","ex":{"tokens":["The","police","arrested","a","drug","dealer","."],"py":["","","","","","","."],"vi":"Cảnh sát bắt một kẻ buôn ma túy.","alts":[]}},
    {"id":"y4167-offender","hanzi":"offender","pinyin":"","vi":"người phạm tội","ex":{"tokens":["He","is","a","first-time","offender","."],"py":["","","","","","."],"vi":"Anh ta là người phạm tội lần đầu.","alts":[]}}
   ]},
-  {"id":"y4168","title":"Tội phạm và điều tra 3","desc":"Các loại tội phạm, cảnh sát, điều tra, nhà tù","icon":"Crime","unit":459,"course":"en","order":5600,"words":[
+  {"id":"y4168","title":"Tội phạm và điều tra 3","desc":"Các loại tội phạm, cảnh sát, điều tra, nhà tù","icon":"Crime","unit":459,"course":"en","order":5710,"words":[
    {"id":"y4168-inmate","hanzi":"inmate","pinyin":"","vi":"tù nhân, phạm nhân","ex":{"tokens":["An","inmate","escaped","from","the","prison","."],"py":["","","","","","","."],"vi":"Một phạm nhân trốn khỏi nhà tù.","alts":[]}},
    {"id":"y4168-fugitive","hanzi":"fugitive","pinyin":"","vi":"kẻ đào tẩu","ex":{"tokens":["The","fugitive","hid","in","the","mountains","."],"py":["","","","","","","."],"vi":"Kẻ đào tẩu trốn trên núi.","alts":[]}},
    {"id":"y4168-fingerprint","hanzi":"fingerprint","pinyin":"","vi":"dấu vân tay","ex":{"tokens":["The","police","found","a","fingerprint","on","the","glass","."],"py":["","","","","","","","","."],"vi":"Cảnh sát tìm thấy một dấu vân tay trên cái ly.","alts":[]}},
@@ -130,7 +130,7 @@
    {"id":"y4168-prison_cell","hanzi":"prison cell","pinyin":"","vi":"buồng giam","ex":{"tokens":["He","spent","the","night","in","a","prison","cell","."],"py":["","","","","","","","","."],"vi":"Anh ta qua đêm trong buồng giam.","alts":[]}},
    {"id":"y4168-solitary_confinement","hanzi":"solitary confinement","pinyin":"","vi":"biệt giam","ex":{"tokens":["He","was","kept","in","solitary","confinement","."],"py":["","","","","","","."],"vi":"Hắn bị biệt giam.","alts":[]}}
   ]},
-  {"id":"y4169","title":"Tội phạm và điều tra 4","desc":"Các loại tội phạm, cảnh sát, điều tra, nhà tù","icon":"Crime","unit":459,"course":"en","order":5610,"words":[
+  {"id":"y4169","title":"Tội phạm và điều tra 4","desc":"Các loại tội phạm, cảnh sát, điều tra, nhà tù","icon":"Crime","unit":459,"course":"en","order":5720,"words":[
    {"id":"y4169-juvenile","hanzi":"juvenile","pinyin":"","vi":"vị thành niên","ex":{"tokens":["The","juvenile","court","heard","the","case","."],"py":["","","","","","","."],"vi":"Tòa án vị thành niên xét xử vụ việc.","alts":[]}},
    {"id":"y4169-delinquent","hanzi":"delinquent","pinyin":"","vi":"thiếu niên phạm pháp; chậm trả","ex":{"tokens":["The","center","helps","delinquent","teenagers","."],"py":["","","","","","."],"vi":"Trung tâm giúp đỡ thiếu niên phạm pháp.","alts":[]}},
    {"id":"y4169-reoffend","hanzi":"reoffend","pinyin":"","vi":"tái phạm","ex":{"tokens":["Many","prisoners","reoffend","within","a","year","."],"py":["","","","","","","."],"vi":"Nhiều tù nhân tái phạm trong vòng một năm.","alts":[]}},
@@ -146,7 +146,7 @@
    {"id":"y4169-loot","hanzi":"loot","pinyin":"","vi":"của cướp được; cướp phá","ex":{"tokens":["The","thieves","hid","their","loot","in","a","garage","."],"py":["","","","","","","","","."],"vi":"Bọn trộm giấu của cướp được trong một ga-ra.","alts":[]}},
    {"id":"y4169-stolen_goods","hanzi":"stolen goods","pinyin":"","vi":"đồ ăn cắp","ex":{"tokens":["He","was","caught","selling","stolen","goods","."],"py":["","","","","","","."],"vi":"Hắn bị bắt khi đang bán đồ ăn cắp.","alts":[]}}
   ]},
-  {"id":"y4170","title":"Tội phạm và điều tra 5","desc":"Các loại tội phạm, cảnh sát, điều tra, nhà tù","icon":"Crime","unit":459,"course":"en","order":5620,"words":[
+  {"id":"y4170","title":"Tội phạm và điều tra 5","desc":"Các loại tội phạm, cảnh sát, điều tra, nhà tù","icon":"Crime","unit":459,"course":"en","order":5730,"words":[
    {"id":"y4170-speeding_ticket","hanzi":"speeding ticket","pinyin":"","vi":"vé phạt chạy quá tốc độ","ex":{"tokens":["I","got","a","speeding","ticket","last","week","."],"py":["","","","","","","","."],"vi":"Tuần trước tôi bị phạt chạy quá tốc độ.","alts":[]}},
    {"id":"y4170-drunk_driving","hanzi":"drunk driving","pinyin":"","vi":"lái xe khi say rượu","ex":{"tokens":["Drunk","driving","kills","thousands","every","year","."],"py":["","","","","","","."],"vi":"Lái xe khi say rượu giết chết hàng nghìn người mỗi năm.","alts":[]}},
    {"id":"y4170-hit_and_run","hanzi":"hit-and-run","pinyin":"","vi":"gây tai nạn rồi bỏ chạy","ex":{"tokens":["She","was","injured","in","a","hit-and-run","accident","."],"py":["","","","","","","","."],"vi":"Cô ấy bị thương trong một vụ gây tai nạn rồi bỏ chạy.","alts":[]}},

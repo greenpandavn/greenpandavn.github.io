@@ -3,7 +3,7 @@
   {"unit":357,"level":3,"title":"Phần 35: Mở rộng – Trường lớp","desc":"Trường lớp, Thiên nhiên và nông trại, Cụm từ với make và do, Cụm từ với take và have","color":"sky","course":"en"}
  ],
  "lessons": [
-  {"id":"y3121","title":"Trường lớp 2","desc":"Hoạt động, đồ dùng, phòng học, câu lạc bộ","icon":"School","unit":357,"course":"en","order":3620,"words":[
+  {"id":"y3121","title":"Trường lớp 2","desc":"Hoạt động, đồ dùng, phòng học, câu lạc bộ","icon":"School","unit":357,"course":"en","order":3660,"words":[
    {"id":"y3121-book_report","hanzi":"book report","pinyin":"","vi":"bài thu hoạch về sách","ex":{"tokens":["I","wrote","a","book","report","on","Harry","Potter","."],"py":["","","","","","","","","."],"vi":"Tôi viết bài thu hoạch về Harry Potter.","alts":[]}},
    {"id":"y3121-pop_quiz","hanzi":"pop quiz","pinyin":"","vi":"bài kiểm tra bất ngờ","ex":{"tokens":["The","teacher","gave","us","a","pop","quiz","."],"py":["","","","","","","","."],"vi":"Giáo viên cho chúng tôi kiểm tra bất ngờ.","alts":[]}},
    {"id":"y3121-test_paper","hanzi":"test paper","pinyin":"","vi":"bài kiểm tra, đề kiểm tra","ex":{"tokens":["Write","your","name","on","the","test","paper","."],"py":["","","","","","","","."],"vi":"Hãy viết tên lên bài kiểm tra.","alts":[]}},
@@ -19,7 +19,7 @@
    {"id":"y3121-recite","hanzi":"recite","pinyin":"","vi":"đọc thuộc lòng","ex":{"tokens":["Each","student","will","recite","a","poem","."],"py":["","","","","","","."],"vi":"Mỗi học sinh sẽ đọc thuộc một bài thơ.","alts":[]}},
    {"id":"y3121-take_notes","hanzi":"take notes","pinyin":"","vi":"ghi chép","ex":{"tokens":["Take","notes","during","the","lesson","."],"py":["","","","","","."],"vi":"Hãy ghi chép trong giờ học.","alts":[]}}
   ]},
-  {"id":"y3122","title":"Trường lớp 3","desc":"Hoạt động, đồ dùng, phòng học, câu lạc bộ","icon":"School","unit":357,"course":"en","order":3630,"words":[
+  {"id":"y3122","title":"Trường lớp 3","desc":"Hoạt động, đồ dùng, phòng học, câu lạc bộ","icon":"School","unit":357,"course":"en","order":3670,"words":[
    {"id":"y3122-raise_your_hand","hanzi":"raise your hand","pinyin":"","vi":"giơ tay","ex":{"tokens":["Raise","your","hand","if","you","know","the","answer","."],"py":["","","","","","","","","."],"vi":"Hãy giơ tay nếu bạn biết câu trả lời.","alts":[]}},
    {"id":"y3122-work_in_pairs","hanzi":"work in pairs","pinyin":"","vi":"làm việc theo cặp","ex":{"tokens":["Work","in","pairs","and","ask","each","other","questions","."],"py":["","","","","","","","","."],"vi":"Hãy làm việc theo cặp và hỏi nhau.","alts":[]}},
    {"id":"y3122-group_work","hanzi":"group work","pinyin":"","vi":"làm việc nhóm","ex":{"tokens":["We","do","a","lot","of","group","work","in","class","."],"py":["","","","","","","","","","."],"vi":"Chúng tôi làm việc nhóm nhiều trong lớp.","alts":[]}},
@@ -35,7 +35,7 @@
    {"id":"y3122-staff_room","hanzi":"staff room","pinyin":"","vi":"phòng giáo viên","ex":{"tokens":["The","teacher","is","in","the","staff","room","."],"py":["","","","","","","","."],"vi":"Giáo viên đang ở phòng giáo viên.","alts":[]}},
    {"id":"y3122-assembly_hall","hanzi":"assembly hall","pinyin":"","vi":"hội trường","ex":{"tokens":["The","whole","school","met","in","the","assembly","hall","."],"py":["","","","","","","","","."],"vi":"Cả trường tập trung ở hội trường.","alts":[]}}
   ]},
-  {"id":"y3123","title":"Trường lớp 4","desc":"Hoạt động, đồ dùng, phòng học, câu lạc bộ","icon":"School","unit":357,"course":"en","order":3640,"words":[
+  {"id":"y3123","title":"Trường lớp 4","desc":"Hoạt động, đồ dùng, phòng học, câu lạc bộ","icon":"School","unit":357,"course":"en","order":3680,"words":[
    {"id":"y3123-library_card","hanzi":"library card","pinyin":"","vi":"thẻ thư viện","ex":{"tokens":["You","need","a","library","card","to","borrow","books","."],"py":["","","","","","","","","."],"vi":"Bạn cần thẻ thư viện để mượn sách.","alts":[]}},
    {"id":"y3123-computer_lab","hanzi":"computer lab","pinyin":"","vi":"phòng máy tính","ex":{"tokens":["We","have","a","class","in","the","computer","lab","."],"py":["","","","","","","","","."],"vi":"Chúng tôi có tiết học ở phòng máy tính.","alts":[]}},
    {"id":"y3123-science_lab","hanzi":"science lab","pinyin":"","vi":"phòng thí nghiệm khoa học","ex":{"tokens":["The","science","lab","is","on","the","second","floor","."],"py":["","","","","","","","","."],"vi":"Phòng thí nghiệm khoa học ở tầng hai.","alts":[]}},
@@ -51,7 +51,7 @@
    {"id":"y3123-drama_club","hanzi":"drama club","pinyin":"","vi":"câu lạc bộ kịch","ex":{"tokens":["The","drama","club","meets","on","Tuesday","."],"py":["","","","","","","."],"vi":"Câu lạc bộ kịch họp vào thứ Ba.","alts":[]}},
    {"id":"y3123-chess_club","hanzi":"chess club","pinyin":"","vi":"câu lạc bộ cờ vua","ex":{"tokens":["My","brother","is","in","the","chess","club","."],"py":["","","","","","","","."],"vi":"Em trai tôi ở trong câu lạc bộ cờ vua.","alts":[]}}
   ]},
-  {"id":"y3124","title":"Trường lớp 5","desc":"Hoạt động, đồ dùng, phòng học, câu lạc bộ","icon":"School","unit":357,"course":"en","order":3650,"words":[
+  {"id":"y3124","title":"Trường lớp 5","desc":"Hoạt động, đồ dùng, phòng học, câu lạc bộ","icon":"School","unit":357,"course":"en","order":3690,"words":[
    {"id":"y3124-debate_team","hanzi":"debate team","pinyin":"","vi":"đội tranh biện","ex":{"tokens":["She","is","the","captain","of","the","debate","team","."],"py":["","","","","","","","","."],"vi":"Cô ấy là đội trưởng đội tranh biện.","alts":[]}},
    {"id":"y3124-student_council","hanzi":"student council","pinyin":"","vi":"hội học sinh","ex":{"tokens":["The","student","council","planned","the","party","."],"py":["","","","","","","."],"vi":"Hội học sinh lên kế hoạch cho bữa tiệc.","alts":[]}},
    {"id":"y3124-class_president","hanzi":"class president","pinyin":"","vi":"lớp trưởng","ex":{"tokens":["We","chose","Minh","as","class","president","."],"py":["","","","","","","."],"vi":"Chúng tôi bầu Minh làm lớp trưởng.","alts":[]}},
@@ -67,7 +67,7 @@
    {"id":"y3124-tardy","hanzi":"tardy","pinyin":"","vi":"đi trễ","ex":{"tokens":["He","was","tardy","three","times","this","week","."],"py":["","","","","","","","."],"vi":"Tuần này cậu ấy đi trễ ba lần.","alts":[]}},
    {"id":"y3124-play_truant","hanzi":"play truant","pinyin":"","vi":"trốn học","ex":{"tokens":["Two","boys","decided","to","play","truant","."],"py":["","","","","","","."],"vi":"Hai cậu bé quyết định trốn học.","alts":[]}}
   ]},
-  {"id":"y3125","title":"Thiên nhiên và nông trại 1","desc":"Cảnh quan, cây cối, động vật, thời tiết","icon":"Countryside","unit":357,"course":"en","order":3660,"words":[
+  {"id":"y3125","title":"Thiên nhiên và nông trại 1","desc":"Cảnh quan, cây cối, động vật, thời tiết","icon":"Countryside","unit":357,"course":"en","order":3700,"words":[
    {"id":"y3125-meadow","hanzi":"meadow","pinyin":"","vi":"đồng cỏ","ex":{"tokens":["Cows","eat","grass","in","the","meadow","."],"py":["","","","","","","."],"vi":"Bò gặm cỏ trên đồng cỏ.","alts":[]}},
    {"id":"y3125-vineyard","hanzi":"vineyard","pinyin":"","vi":"vườn nho","ex":{"tokens":["We","visited","a","vineyard","in","France","."],"py":["","","","","","","."],"vi":"Chúng tôi thăm một vườn nho ở Pháp.","alts":[]}},
    {"id":"y3125-plantation","hanzi":"plantation","pinyin":"","vi":"đồn điền","ex":{"tokens":["He","works","on","a","coffee","plantation","."],"py":["","","","","","","."],"vi":"Anh ấy làm việc ở một đồn điền cà phê.","alts":[]}},
@@ -82,7 +82,7 @@
    {"id":"y3125-pine_tree","hanzi":"pine tree","pinyin":"","vi":"cây thông","ex":{"tokens":["A","pine","tree","stays","green","all","year","."],"py":["","","","","","","","."],"vi":"Cây thông xanh quanh năm.","alts":[]}},
    {"id":"y3125-oak_tree","hanzi":"oak tree","pinyin":"","vi":"cây sồi","ex":{"tokens":["The","oak","tree","is","two","hundred","years","old","."],"py":["","","","","","","","","."],"vi":"Cây sồi đã hai trăm năm tuổi.","alts":[]}}
   ]},
-  {"id":"y3126","title":"Thiên nhiên và nông trại 2","desc":"Cảnh quan, cây cối, động vật, thời tiết","icon":"Countryside","unit":357,"course":"en","order":3670,"words":[
+  {"id":"y3126","title":"Thiên nhiên và nông trại 2","desc":"Cảnh quan, cây cối, động vật, thời tiết","icon":"Countryside","unit":357,"course":"en","order":3710,"words":[
    {"id":"y3126-maple_tree","hanzi":"maple tree","pinyin":"","vi":"cây phong","ex":{"tokens":["The","maple","tree","turns","red","in","autumn","."],"py":["","","","","","","","."],"vi":"Cây phong chuyển đỏ vào mùa thu.","alts":[]}},
    {"id":"y3126-nectar","hanzi":"nectar","pinyin":"","vi":"mật hoa","ex":{"tokens":["Bees","collect","nectar","from","flowers","."],"py":["","","","","","."],"vi":"Ong hút mật hoa.","alts":[]}},
    {"id":"y3126-ripen","hanzi":"ripen","pinyin":"","vi":"chín dần","ex":{"tokens":["The","mangoes","ripen","in","May","."],"py":["","","","","","."],"vi":"Xoài chín vào tháng Năm.","alts":[]}},
@@ -96,7 +96,7 @@
    {"id":"y3126-riverbed","hanzi":"riverbed","pinyin":"","vi":"lòng sông","ex":{"tokens":["The","riverbed","is","dry","in","summer","."],"py":["","","","","","","."],"vi":"Lòng sông khô cạn vào mùa hè.","alts":[]}},
    {"id":"y3126-creek","hanzi":"creek","pinyin":"","vi":"con lạch","ex":{"tokens":["The","children","played","in","the","creek","."],"py":["","","","","","","."],"vi":"Bọn trẻ chơi ở con lạch.","alts":[]}}
   ]},
-  {"id":"y3127","title":"Thiên nhiên và nông trại 3","desc":"Cảnh quan, cây cối, động vật, thời tiết","icon":"Countryside","unit":357,"course":"en","order":3680,"words":[
+  {"id":"y3127","title":"Thiên nhiên và nông trại 3","desc":"Cảnh quan, cây cối, động vật, thời tiết","icon":"Countryside","unit":357,"course":"en","order":3720,"words":[
    {"id":"y3127-brook","hanzi":"brook","pinyin":"","vi":"suối nhỏ","ex":{"tokens":["A","brook","runs","behind","the","house","."],"py":["","","","","","","."],"vi":"Một con suối nhỏ chảy sau nhà.","alts":[]}},
    {"id":"y3127-rainforest","hanzi":"rainforest","pinyin":"","vi":"rừng mưa nhiệt đới","ex":{"tokens":["Many","animals","live","in","the","rainforest","."],"py":["","","","","","","."],"vi":"Nhiều loài động vật sống trong rừng mưa nhiệt đới.","alts":[]}},
    {"id":"y3127-woodland","hanzi":"woodland","pinyin":"","vi":"vùng rừng cây","ex":{"tokens":["We","walked","through","quiet","woodland","."],"py":["","","","","","."],"vi":"Chúng tôi đi qua khu rừng yên tĩnh.","alts":[]}},
@@ -110,7 +110,7 @@
    {"id":"y3127-anthill","hanzi":"anthill","pinyin":"","vi":"tổ kiến","ex":{"tokens":["Do","not","step","on","the","anthill","."],"py":["","","","","","","."],"vi":"Đừng giẫm lên tổ kiến.","alts":[]}},
    {"id":"y3127-beehive","hanzi":"beehive","pinyin":"","vi":"tổ ong","ex":{"tokens":["There","is","a","beehive","in","the","tree","."],"py":["","","","","","","","."],"vi":"Có một tổ ong trên cây.","alts":[]}}
   ]},
-  {"id":"y3128","title":"Thiên nhiên và nông trại 4","desc":"Cảnh quan, cây cối, động vật, thời tiết","icon":"Countryside","unit":357,"course":"en","order":3690,"words":[
+  {"id":"y3128","title":"Thiên nhiên và nông trại 4","desc":"Cảnh quan, cây cối, động vật, thời tiết","icon":"Countryside","unit":357,"course":"en","order":3730,"words":[
    {"id":"y3128-cobweb","hanzi":"cobweb","pinyin":"","vi":"mạng nhện","ex":{"tokens":["There","is","a","cobweb","in","the","corner","."],"py":["","","","","","","","."],"vi":"Có một cái mạng nhện ở góc nhà.","alts":[]}},
    {"id":"y3128-paw_print","hanzi":"paw print","pinyin":"","vi":"dấu chân thú","ex":{"tokens":["We","saw","a","paw","print","in","the","snow","."],"py":["","","","","","","","","."],"vi":"Chúng tôi thấy một dấu chân thú trên tuyết.","alts":[]}},
    {"id":"y3128-fang","hanzi":"fang","pinyin":"","vi":"răng nanh","ex":{"tokens":["The","snake","showed","one","long","fang","."],"py":["","","","","","","."],"vi":"Con rắn nhe một chiếc răng nanh dài.","alts":[]}},
@@ -124,7 +124,7 @@
    {"id":"y3128-starry","hanzi":"starry","pinyin":"","vi":"đầy sao","ex":{"tokens":["It","was","a","clear",",","starry","night","."],"py":["","","","",",","","","."],"vi":"Đó là một đêm trời quang và đầy sao.","alts":[]}},
    {"id":"y3128-midday","hanzi":"midday","pinyin":"","vi":"giữa trưa","ex":{"tokens":["The","sun","is","strongest","at","midday","."],"py":["","","","","","","."],"vi":"Nắng gắt nhất vào giữa trưa.","alts":[]}}
   ]},
-  {"id":"y3129","title":"Cụm từ với make và do","desc":"Kết hợp từ tự nhiên với make, do","icon":"Collocations","unit":357,"course":"en","order":3700,"words":[
+  {"id":"y3129","title":"Cụm từ với make và do","desc":"Kết hợp từ tự nhiên với make, do","icon":"Collocations","unit":357,"course":"en","order":3740,"words":[
    {"id":"y3129-make_a_mistake","hanzi":"make a mistake","pinyin":"","vi":"mắc lỗi","ex":{"tokens":["Everyone","can","make","a","mistake","."],"py":["","","","","","."],"vi":"Ai cũng có thể mắc lỗi.","alts":[]}},
    {"id":"y3129-make_progress","hanzi":"make progress","pinyin":"","vi":"tiến bộ","ex":{"tokens":["You","make","progress","every","week","."],"py":["","","","","","."],"vi":"Tuần nào bạn cũng tiến bộ.","alts":[]}},
    {"id":"y3129-make_a_mess","hanzi":"make a mess","pinyin":"","vi":"bày bừa","ex":{"tokens":["Do","not","make","a","mess","in","the","kitchen","."],"py":["","","","","","","","","."],"vi":"Đừng bày bừa trong bếp.","alts":[]}},
@@ -140,7 +140,7 @@
    {"id":"y3129-make_an_appointment","hanzi":"make an appointment","pinyin":"","vi":"đặt lịch hẹn","ex":{"tokens":["I","need","to","make","an","appointment","with","the","dentist","."],"py":["","","","","","","","","","."],"vi":"Tôi cần đặt lịch hẹn với nha sĩ.","alts":[]}},
    {"id":"y3129-make_a_complaint","hanzi":"make a complaint","pinyin":"","vi":"khiếu nại","ex":{"tokens":["We","decided","to","make","a","complaint","about","the","noise","."],"py":["","","","","","","","","","."],"vi":"Chúng tôi quyết định khiếu nại về tiếng ồn.","alts":[]}}
   ]},
-  {"id":"y3130","title":"Cụm từ với take và have 1","desc":"Kết hợp từ tự nhiên với take, have","icon":"Phrases","unit":357,"course":"en","order":3710,"words":[
+  {"id":"y3130","title":"Cụm từ với take và have 1","desc":"Kết hợp từ tự nhiên với take, have","icon":"Phrases","unit":357,"course":"en","order":3750,"words":[
    {"id":"y3130-take_a_break","hanzi":"take a break","pinyin":"","vi":"nghỉ giải lao","ex":{"tokens":["Let","us","take","a","break","for","ten","minutes","."],"py":["","","","","","","","","."],"vi":"Chúng ta nghỉ giải lao mười phút nhé.","alts":[]}},
    {"id":"y3130-take_a_chance","hanzi":"take a chance","pinyin":"","vi":"thử vận may, liều một phen","ex":{"tokens":["I","decided","to","take","a","chance","and","apply","."],"py":["","","","","","","","","."],"vi":"Tôi quyết định liều một phen và nộp đơn.","alts":[]}},
    {"id":"y3130-take_a_seat","hanzi":"take a seat","pinyin":"","vi":"ngồi xuống","ex":{"tokens":["Please","take","a","seat","."],"py":["","","","","."],"vi":"Mời bạn ngồi.","alts":[]}},

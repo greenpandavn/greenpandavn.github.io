@@ -1,9 +1,9 @@
 {
  "units": [
-  {"unit":552,"level":5,"title":"Phần 58: Mở rộng – Động vật học","desc":"Động vật học, Chim và côn trùng, Sinh vật biển, Địa chất và địa hình","color":"sky","course":"en"}
+  {"unit":552,"level":5,"title":"Phần 59: Mở rộng – Động vật học","desc":"Động vật học, Chim và côn trùng, Sinh vật biển, Địa chất và địa hình","color":"sky","course":"en"}
  ],
  "lessons": [
-  {"id":"y5021","title":"Động vật học 5","desc":"Phân loại, bộ phận cơ thể, tập tính","icon":"Zoology","unit":552,"course":"en","order":6440,"words":[
+  {"id":"y5021","title":"Động vật học 5","desc":"Phân loại, bộ phận cơ thể, tập tính","icon":"Zoology","unit":552,"course":"en","order":6550,"words":[
    {"id":"y5021-walrus","hanzi":"walrus","pinyin":"","vi":"hải mã","ex":{"tokens":["The","walrus","has","two","long","teeth","."],"py":["","","","","","","."],"vi":"Hải mã có hai chiếc răng dài.","alts":[]}},
    {"id":"y5021-porpoise","hanzi":"porpoise","pinyin":"","vi":"cá heo chuột","ex":{"tokens":["A","porpoise","swam","beside","the","boat","."],"py":["","","","","","","."],"vi":"Một con cá heo chuột bơi cạnh thuyền.","alts":[]}},
    {"id":"y5021-mongoose","hanzi":"mongoose","pinyin":"","vi":"cầy mangut","ex":{"tokens":["The","mongoose","can","kill","a","snake","."],"py":["","","","","","","."],"vi":"Cầy mangut có thể giết rắn.","alts":[]}},
@@ -19,7 +19,7 @@
    {"id":"y5021-armadillo","hanzi":"armadillo","pinyin":"","vi":"con tatu","ex":{"tokens":["The","armadillo","rolled","into","a","ball","."],"py":["","","","","","","."],"vi":"Con tatu cuộn tròn lại như quả bóng.","alts":[]}},
    {"id":"y5021-anteater","hanzi":"anteater","pinyin":"","vi":"thú ăn kiến","ex":{"tokens":["The","anteater","has","a","very","long","tongue","."],"py":["","","","","","","","."],"vi":"Thú ăn kiến có cái lưỡi rất dài.","alts":[]}}
   ]},
-  {"id":"y5022","title":"Chim và côn trùng 1","desc":"Các loài chim, côn trùng, loài bò sát nhỏ","icon":"Wings","unit":552,"course":"en","order":6450,"words":[
+  {"id":"y5022","title":"Chim và côn trùng 1","desc":"Các loài chim, côn trùng, loài bò sát nhỏ","icon":"Wings","unit":552,"course":"en","order":6560,"words":[
    {"id":"y5022-robin","hanzi":"robin","pinyin":"","vi":"chim cổ đỏ","ex":{"tokens":["A","robin","sang","in","the","garden","."],"py":["","","","","","","."],"vi":"Một con chim cổ đỏ hót trong vườn.","alts":[]}},
    {"id":"y5022-finch","hanzi":"finch","pinyin":"","vi":"chim sẻ thông","ex":{"tokens":["A","finch","ate","seeds","from","my","hand","."],"py":["","","","","","","","."],"vi":"Một con chim sẻ thông ăn hạt trên tay tôi.","alts":[]}},
    {"id":"y5022-raven","hanzi":"raven","pinyin":"","vi":"con quạ đen lớn","ex":{"tokens":["A","raven","sat","on","the","tower","."],"py":["","","","","","","."],"vi":"Một con quạ đen đậu trên tháp.","alts":[]}},
@@ -35,7 +35,7 @@
    {"id":"y5022-vulture","hanzi":"vulture","pinyin":"","vi":"kền kền","ex":{"tokens":["A","vulture","waited","near","the","dead","animal","."],"py":["","","","","","","","."],"vi":"Một con kền kền chờ gần xác con vật.","alts":[]}},
    {"id":"y5022-kingfisher","hanzi":"kingfisher","pinyin":"","vi":"chim bói cá","ex":{"tokens":["A","blue","kingfisher","flew","along","the","river","."],"py":["","","","","","","","."],"vi":"Một con chim bói cá xanh bay dọc dòng sông.","alts":[]}}
   ]},
-  {"id":"y5023","title":"Chim và côn trùng 2","desc":"Các loài chim, côn trùng, loài bò sát nhỏ","icon":"Wings","unit":552,"course":"en","order":6460,"words":[
+  {"id":"y5023","title":"Chim và côn trùng 2","desc":"Các loài chim, côn trùng, loài bò sát nhỏ","icon":"Wings","unit":552,"course":"en","order":6570,"words":[
    {"id":"y5023-woodpecker","hanzi":"woodpecker","pinyin":"","vi":"chim gõ kiến","ex":{"tokens":["We","heard","a","woodpecker","in","the","forest","."],"py":["","","","","","","","."],"vi":"Chúng tôi nghe tiếng chim gõ kiến trong rừng.","alts":[]}},
    {"id":"y5023-hummingbird","hanzi":"hummingbird","pinyin":"","vi":"chim ruồi","ex":{"tokens":["A","hummingbird","drank","from","the","flower","."],"py":["","","","","","","."],"vi":"Một con chim ruồi hút mật từ bông hoa.","alts":[]}},
    {"id":"y5023-nightingale","hanzi":"nightingale","pinyin":"","vi":"chim sơn ca (họa mi)","ex":{"tokens":["The","nightingale","sings","at","night","."],"py":["","","","","","."],"vi":"Chim họa mi hót vào ban đêm.","alts":[]}},
@@ -51,7 +51,7 @@
    {"id":"y5023-hornet","hanzi":"hornet","pinyin":"","vi":"ong bắp cày lớn","ex":{"tokens":["There","is","a","hornet","nest","under","the","roof","."],"py":["","","","","","","","","."],"vi":"Có một tổ ong bắp cày lớn dưới mái nhà.","alts":[]}},
    {"id":"y5023-bumblebee","hanzi":"bumblebee","pinyin":"","vi":"ong nghệ","ex":{"tokens":["A","bumblebee","landed","on","the","flower","."],"py":["","","","","","","."],"vi":"Một con ong nghệ đậu trên bông hoa.","alts":[]}}
   ]},
-  {"id":"y5024","title":"Chim và côn trùng 3","desc":"Các loài chim, côn trùng, loài bò sát nhỏ","icon":"Wings","unit":552,"course":"en","order":6470,"words":[
+  {"id":"y5024","title":"Chim và côn trùng 3","desc":"Các loài chim, côn trùng, loài bò sát nhỏ","icon":"Wings","unit":552,"course":"en","order":6580,"words":[
    {"id":"y5024-locust","hanzi":"locust","pinyin":"","vi":"châu chấu (di cư)","ex":{"tokens":["A","locust","swarm","destroyed","the","crops","."],"py":["","","","","","","."],"vi":"Một đàn châu chấu phá hủy mùa màng.","alts":[]}},
    {"id":"y5024-cicada","hanzi":"cicada","pinyin":"","vi":"con ve sầu","ex":{"tokens":["The","cicada","is","loud","in","summer","."],"py":["","","","","","","."],"vi":"Ve sầu kêu inh ỏi vào mùa hè.","alts":[]}},
    {"id":"y5024-firefly","hanzi":"firefly","pinyin":"","vi":"con đom đóm","ex":{"tokens":["A","firefly","glowed","in","the","dark","."],"py":["","","","","","","."],"vi":"Một con đom đóm phát sáng trong bóng tối.","alts":[]}},
@@ -67,7 +67,7 @@
    {"id":"y5024-leech","hanzi":"leech","pinyin":"","vi":"con đỉa","ex":{"tokens":["A","leech","stuck","to","his","leg","."],"py":["","","","","","","."],"vi":"Một con đỉa bám vào chân anh ấy.","alts":[]}},
    {"id":"y5024-mantis","hanzi":"mantis","pinyin":"","vi":"con bọ ngựa","ex":{"tokens":["A","green","mantis","sat","on","the","leaf","."],"py":["","","","","","","","."],"vi":"Một con bọ ngựa xanh đậu trên lá.","alts":[]}}
   ]},
-  {"id":"y5025","title":"Sinh vật biển 1","desc":"Cá, động vật có vỏ, đời sống dưới biển","icon":"Ocean","unit":552,"course":"en","order":6480,"words":[
+  {"id":"y5025","title":"Sinh vật biển 1","desc":"Cá, động vật có vỏ, đời sống dưới biển","icon":"Ocean","unit":552,"course":"en","order":6590,"words":[
    {"id":"y5025-plankton","hanzi":"plankton","pinyin":"","vi":"sinh vật phù du","ex":{"tokens":["Small","fish","feed","on","plankton","."],"py":["","","","","","."],"vi":"Cá nhỏ ăn sinh vật phù du.","alts":[]}},
    {"id":"y5025-krill","hanzi":"krill","pinyin":"","vi":"nhuyễn thể (tôm nhỏ)","ex":{"tokens":["Whales","eat","huge","amounts","of","krill","."],"py":["","","","","","","."],"vi":"Cá voi ăn một lượng nhuyễn thể khổng lồ.","alts":[]}},
    {"id":"y5025-anemone","hanzi":"anemone","pinyin":"","vi":"hải quỳ","ex":{"tokens":["The","clownfish","hides","in","an","anemone","."],"py":["","","","","","","."],"vi":"Cá hề trốn trong hải quỳ.","alts":[]}},
@@ -83,7 +83,7 @@
    {"id":"y5025-prawn","hanzi":"prawn","pinyin":"","vi":"tôm (cỡ lớn)","ex":{"tokens":["I","ordered","a","prawn","salad","."],"py":["","","","","","."],"vi":"Tôi gọi một đĩa salad tôm.","alts":[]}},
    {"id":"y5025-crayfish","hanzi":"crayfish","pinyin":"","vi":"tôm càng nước ngọt","ex":{"tokens":["The","boys","caught","a","crayfish","in","the","stream","."],"py":["","","","","","","","","."],"vi":"Bọn trẻ bắt được một con tôm càng trong suối.","alts":[]}}
   ]},
-  {"id":"y5026","title":"Sinh vật biển 2","desc":"Cá, động vật có vỏ, đời sống dưới biển","icon":"Ocean","unit":552,"course":"en","order":6490,"words":[
+  {"id":"y5026","title":"Sinh vật biển 2","desc":"Cá, động vật có vỏ, đời sống dưới biển","icon":"Ocean","unit":552,"course":"en","order":6600,"words":[
    {"id":"y5026-eel","hanzi":"eel","pinyin":"","vi":"con lươn, cá chình","ex":{"tokens":["An","eel","slipped","out","of","his","hands","."],"py":["","","","","","","","."],"vi":"Một con lươn tuột khỏi tay anh ấy.","alts":[]}},
    {"id":"y5026-stingray","hanzi":"stingray","pinyin":"","vi":"cá đuối gai độc","ex":{"tokens":["A","stingray","lay","flat","on","the","sand","."],"py":["","","","","","","","."],"vi":"Một con cá đuối nằm bẹp trên cát.","alts":[]}},
    {"id":"y5026-swordfish","hanzi":"swordfish","pinyin":"","vi":"cá kiếm","ex":{"tokens":["The","fisherman","caught","a","huge","swordfish","."],"py":["","","","","","","."],"vi":"Người đánh cá bắt được một con cá kiếm khổng lồ.","alts":[]}},
@@ -99,7 +99,7 @@
    {"id":"y5026-carp","hanzi":"carp","pinyin":"","vi":"cá chép","ex":{"tokens":["A","big","carp","swam","in","the","pond","."],"py":["","","","","","","","."],"vi":"Một con cá chép lớn bơi trong ao.","alts":[]}},
    {"id":"y5026-catfish","hanzi":"catfish","pinyin":"","vi":"cá trê, cá da trơn","ex":{"tokens":["Vietnam","exports","a","lot","of","catfish","."],"py":["","","","","","","."],"vi":"Việt Nam xuất khẩu nhiều cá da trơn.","alts":[]}}
   ]},
-  {"id":"y5027","title":"Sinh vật biển 3","desc":"Cá, động vật có vỏ, đời sống dưới biển","icon":"Ocean","unit":552,"course":"en","order":6500,"words":[
+  {"id":"y5027","title":"Sinh vật biển 3","desc":"Cá, động vật có vỏ, đời sống dưới biển","icon":"Ocean","unit":552,"course":"en","order":6610,"words":[
    {"id":"y5027-pike","hanzi":"pike","pinyin":"","vi":"cá chó","ex":{"tokens":["A","pike","has","very","sharp","teeth","."],"py":["","","","","","","."],"vi":"Cá chó có răng rất sắc.","alts":[]}},
    {"id":"y5027-sturgeon","hanzi":"sturgeon","pinyin":"","vi":"cá tầm","ex":{"tokens":["Caviar","comes","from","the","sturgeon","."],"py":["","","","","","."],"vi":"Trứng cá muối lấy từ cá tầm.","alts":[]}},
    {"id":"y5027-piranha","hanzi":"piranha","pinyin":"","vi":"cá răng đao","ex":{"tokens":["A","piranha","has","strong","jaws","."],"py":["","","","","","."],"vi":"Cá răng đao có bộ hàm khỏe.","alts":[]}},
@@ -115,7 +115,7 @@
    {"id":"y5027-marlin","hanzi":"marlin","pinyin":"","vi":"cá cờ","ex":{"tokens":["A","blue","marlin","jumped","out","of","the","water","."],"py":["","","","","","","","","."],"vi":"Một con cá cờ xanh nhảy khỏi mặt nước.","alts":[]}},
    {"id":"y5027-haddock","hanzi":"haddock","pinyin":"","vi":"cá tuyết chấm đen","ex":{"tokens":["Smoked","haddock","is","served","with","rice","."],"py":["","","","","","","."],"vi":"Cá tuyết chấm đen hun khói được ăn với cơm.","alts":[]}}
   ]},
-  {"id":"y5028","title":"Địa chất và địa hình 1","desc":"Đá, khoáng vật, dạng địa hình","icon":"Rocks","unit":552,"course":"en","order":6510,"words":[
+  {"id":"y5028","title":"Địa chất và địa hình 1","desc":"Đá, khoáng vật, dạng địa hình","icon":"Rocks","unit":552,"course":"en","order":6620,"words":[
    {"id":"y5028-ore","hanzi":"ore","pinyin":"","vi":"quặng","ex":{"tokens":["The","mine","produces","iron","ore","."],"py":["","","","","","."],"vi":"Mỏ này sản xuất quặng sắt.","alts":[]}},
    {"id":"y5028-quartz","hanzi":"quartz","pinyin":"","vi":"thạch anh","ex":{"tokens":["The","watch","uses","a","quartz","crystal","."],"py":["","","","","","","."],"vi":"Chiếc đồng hồ dùng tinh thể thạch anh.","alts":[]}},
    {"id":"y5028-granite","hanzi":"granite","pinyin":"","vi":"đá hoa cương","ex":{"tokens":["The","kitchen","counter","is","made","of","granite","."],"py":["","","","","","","","."],"vi":"Mặt bếp làm bằng đá hoa cương.","alts":[]}},
@@ -131,7 +131,7 @@
    {"id":"y5028-bedrock","hanzi":"bedrock","pinyin":"","vi":"đá gốc, nền đá","ex":{"tokens":["They","drilled","down","to","the","bedrock","."],"py":["","","","","","","."],"vi":"Họ khoan xuống tới nền đá gốc.","alts":[]}},
    {"id":"y5028-magma","hanzi":"magma","pinyin":"","vi":"macma, dung nham trong lòng đất","ex":{"tokens":["Magma","rises","under","the","volcano","."],"py":["","","","","","."],"vi":"Macma dâng lên bên dưới núi lửa.","alts":[]}}
   ]},
-  {"id":"y5029","title":"Địa chất và địa hình 2","desc":"Đá, khoáng vật, dạng địa hình","icon":"Rocks","unit":552,"course":"en","order":6520,"words":[
+  {"id":"y5029","title":"Địa chất và địa hình 2","desc":"Đá, khoáng vật, dạng địa hình","icon":"Rocks","unit":552,"course":"en","order":6630,"words":[
    {"id":"y5029-fissure","hanzi":"fissure","pinyin":"","vi":"khe nứt","ex":{"tokens":["Steam","came","out","of","a","fissure","in","the","ground","."],"py":["","","","","","","","","","."],"vi":"Hơi nước thoát ra từ một khe nứt trên mặt đất.","alts":[]}},
    {"id":"y5029-tremor","hanzi":"tremor","pinyin":"","vi":"cơn rung chấn nhẹ","ex":{"tokens":["We","felt","a","small","tremor","last","night","."],"py":["","","","","","","","."],"vi":"Đêm qua chúng tôi cảm thấy một cơn rung chấn nhẹ.","alts":[]}},
    {"id":"y5029-aftershock","hanzi":"aftershock","pinyin":"","vi":"dư chấn","ex":{"tokens":["An","aftershock","hit","the","town","an","hour","later","."],"py":["","","","","","","","","."],"vi":"Một dư chấn xảy ra ở thị trấn một giờ sau đó.","alts":[]}},
@@ -147,7 +147,7 @@
    {"id":"y5029-cape","hanzi":"cape","pinyin":"","vi":"mũi đất","ex":{"tokens":["The","ship","sailed","around","the","cape","."],"py":["","","","","","","."],"vi":"Con tàu đi vòng qua mũi đất.","alts":[]}},
    {"id":"y5029-cove","hanzi":"cove","pinyin":"","vi":"vịnh nhỏ","ex":{"tokens":["We","swam","in","a","quiet","cove","."],"py":["","","","","","","."],"vi":"Chúng tôi bơi trong một vịnh nhỏ yên tĩnh.","alts":[]}}
   ]},
-  {"id":"y5030","title":"Địa chất và địa hình 3","desc":"Đá, khoáng vật, dạng địa hình","icon":"Rocks","unit":552,"course":"en","order":6530,"words":[
+  {"id":"y5030","title":"Địa chất và địa hình 3","desc":"Đá, khoáng vật, dạng địa hình","icon":"Rocks","unit":552,"course":"en","order":6640,"words":[
    {"id":"y5030-oasis","hanzi":"oasis","pinyin":"","vi":"ốc đảo","ex":{"tokens":["The","travelers","rested","at","an","oasis","."],"py":["","","","","","","."],"vi":"Đoàn lữ hành nghỉ chân ở một ốc đảo.","alts":[]}},
    {"id":"y5030-steppe","hanzi":"steppe","pinyin":"","vi":"thảo nguyên","ex":{"tokens":["Horses","ran","across","the","steppe","."],"py":["","","","","","."],"vi":"Ngựa chạy băng qua thảo nguyên.","alts":[]}},
    {"id":"y5030-savanna","hanzi":"savanna","pinyin":"","vi":"xavan, đồng cỏ nhiệt đới","ex":{"tokens":["Lions","hunt","on","the","savanna","."],"py":["","","","","","."],"vi":"Sư tử săn mồi trên xavan.","alts":[]}},
