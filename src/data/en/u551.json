@@ -1,9 +1,9 @@
 {
  "units": [
-  {"unit":551,"level":5,"title":"Phần 38: Mở rộng – Giải phẫu cơ thể","desc":"Giải phẫu cơ thể, Bệnh lý, Thủ thuật và thiết bị y khoa, Thực vật học, Động vật học","color":"leaf","course":"en"}
+  {"unit":551,"level":5,"title":"Phần 39: Mở rộng – Giải phẫu cơ thể","desc":"Giải phẫu cơ thể, Bệnh lý, Thủ thuật và thiết bị y khoa, Thực vật học, Động vật học","color":"leaf","course":"en"}
  ],
  "lessons": [
-  {"id":"y5001","title":"Giải phẫu cơ thể 1","desc":"Xương, nội tạng, các phần trên cơ thể","icon":"Anatomy","unit":551,"course":"en","order":4510,"words":[
+  {"id":"y5001","title":"Giải phẫu cơ thể 1","desc":"Xương, nội tạng, các phần trên cơ thể","icon":"Anatomy","unit":551,"course":"en","order":4610,"words":[
    {"id":"y5001-skull","hanzi":"skull","pinyin":"","vi":"hộp sọ","ex":{"tokens":["The","helmet","protects","your","skull","."],"py":["","","","","","."],"vi":"Mũ bảo hiểm bảo vệ hộp sọ của bạn.","alts":[]}},
    {"id":"y5001-spine","hanzi":"spine","pinyin":"","vi":"cột sống","ex":{"tokens":["Sitting","badly","can","hurt","your","spine","."],"py":["","","","","","","."],"vi":"Ngồi sai tư thế có thể làm đau cột sống.","alts":[]}},
    {"id":"y5001-rib","hanzi":"rib","pinyin":"","vi":"xương sườn","ex":{"tokens":["He","broke","a","rib","in","the","accident","."],"py":["","","","","","","","."],"vi":"Anh ấy gãy một xương sườn trong vụ tai nạn.","alts":[]}},
@@ -19,7 +19,7 @@
    {"id":"y5001-cornea","hanzi":"cornea","pinyin":"","vi":"giác mạc","ex":{"tokens":["Dust","scratched","the","cornea","of","his","left","eye","."],"py":["","","","","","","","","."],"vi":"Bụi làm xước giác mạc mắt trái của anh ấy.","alts":[]}},
    {"id":"y5001-eardrum","hanzi":"eardrum","pinyin":"","vi":"màng nhĩ","ex":{"tokens":["The","loud","blast","damaged","his","eardrum","."],"py":["","","","","","","."],"vi":"Tiếng nổ lớn làm tổn thương màng nhĩ của anh ấy.","alts":[]}}
   ]},
-  {"id":"y5002","title":"Giải phẫu cơ thể 2","desc":"Xương, nội tạng, các phần trên cơ thể","icon":"Anatomy","unit":551,"course":"en","order":4520,"words":[
+  {"id":"y5002","title":"Giải phẫu cơ thể 2","desc":"Xương, nội tạng, các phần trên cơ thể","icon":"Anatomy","unit":551,"course":"en","order":4620,"words":[
    {"id":"y5002-marrow","hanzi":"marrow","pinyin":"","vi":"tủy xương","ex":{"tokens":["The","patient","needs","a","bone","marrow","donor","."],"py":["","","","","","","","."],"vi":"Bệnh nhân cần người hiến tủy xương.","alts":[]}},
    {"id":"y5002-gland","hanzi":"gland","pinyin":"","vi":"tuyến","ex":{"tokens":["This","gland","makes","saliva","."],"py":["","","","","."],"vi":"Tuyến này tiết ra nước bọt.","alts":[]}},
    {"id":"y5002-thyroid","hanzi":"thyroid","pinyin":"","vi":"tuyến giáp","ex":{"tokens":["The","doctor","checked","her","thyroid","."],"py":["","","","","","."],"vi":"Bác sĩ kiểm tra tuyến giáp của cô ấy.","alts":[]}},
@@ -35,7 +35,7 @@
    {"id":"y5002-knuckle","hanzi":"knuckle","pinyin":"","vi":"khớp ngón tay","ex":{"tokens":["He","hurt","a","knuckle","while","boxing","."],"py":["","","","","","","."],"vi":"Anh ấy bị đau một khớp ngón tay khi đấm bốc.","alts":[]}},
    {"id":"y5002-forearm","hanzi":"forearm","pinyin":"","vi":"cẳng tay","ex":{"tokens":["She","has","a","small","tattoo","on","her","forearm","."],"py":["","","","","","","","","."],"vi":"Cô ấy có một hình xăm nhỏ ở cẳng tay.","alts":[]}}
   ]},
-  {"id":"y5003","title":"Bệnh lý 2","desc":"Bệnh truyền nhiễm, bệnh mãn tính, triệu chứng","icon":"Disease","unit":551,"course":"en","order":4530,"words":[
+  {"id":"y5003","title":"Bệnh lý 2","desc":"Bệnh truyền nhiễm, bệnh mãn tính, triệu chứng","icon":"Disease","unit":551,"course":"en","order":4630,"words":[
    {"id":"y5003-pneumonia","hanzi":"pneumonia","pinyin":"","vi":"viêm phổi","ex":{"tokens":["The","old","man","was","in","hospital","with","pneumonia","."],"py":["","","","","","","","","."],"vi":"Ông cụ nằm viện vì viêm phổi.","alts":[]}},
    {"id":"y5003-bronchitis","hanzi":"bronchitis","pinyin":"","vi":"viêm phế quản","ex":{"tokens":["Smoking","made","his","bronchitis","worse","."],"py":["","","","","","."],"vi":"Hút thuốc làm bệnh viêm phế quản của anh ấy nặng hơn.","alts":[]}},
    {"id":"y5003-measles","hanzi":"measles","pinyin":"","vi":"bệnh sởi","ex":{"tokens":["Most","children","are","vaccinated","against","measles","."],"py":["","","","","","","."],"vi":"Hầu hết trẻ em được tiêm phòng bệnh sởi.","alts":[]}},
@@ -51,7 +51,7 @@
    {"id":"y5003-hernia","hanzi":"hernia","pinyin":"","vi":"thoát vị","ex":{"tokens":["He","needs","an","operation","for","a","hernia","."],"py":["","","","","","","","."],"vi":"Anh ấy cần mổ thoát vị.","alts":[]}},
    {"id":"y5003-concussion","hanzi":"concussion","pinyin":"","vi":"chấn động não","ex":{"tokens":["The","player","left","the","game","with","a","concussion","."],"py":["","","","","","","","","."],"vi":"Cầu thủ rời trận vì chấn động não.","alts":[]}}
   ]},
-  {"id":"y5004","title":"Bệnh lý 3","desc":"Bệnh truyền nhiễm, bệnh mãn tính, triệu chứng","icon":"Disease","unit":551,"course":"en","order":4540,"words":[
+  {"id":"y5004","title":"Bệnh lý 3","desc":"Bệnh truyền nhiễm, bệnh mãn tính, triệu chứng","icon":"Disease","unit":551,"course":"en","order":4640,"words":[
    {"id":"y5004-hives","hanzi":"hives","pinyin":"","vi":"chứng nổi mề đay","ex":{"tokens":["Shrimp","gives","me","hives","."],"py":["","","","","."],"vi":"Tôm làm tôi nổi mề đay.","alts":[]}},
    {"id":"y5004-dizziness","hanzi":"dizziness","pinyin":"","vi":"sự chóng mặt","ex":{"tokens":["The","medicine","may","cause","dizziness","."],"py":["","","","","","."],"vi":"Thuốc có thể gây chóng mặt.","alts":[]}},
    {"id":"y5004-fatigue","hanzi":"fatigue","pinyin":"","vi":"sự mệt mỏi kéo dài","ex":{"tokens":["Fatigue","is","a","common","sign","of","stress","."],"py":["","","","","","","","."],"vi":"Mệt mỏi là dấu hiệu thường gặp của căng thẳng.","alts":[]}},
@@ -67,7 +67,7 @@
    {"id":"y5004-osteoporosis","hanzi":"osteoporosis","pinyin":"","vi":"bệnh loãng xương","ex":{"tokens":["Calcium","helps","prevent","osteoporosis","."],"py":["","","","","."],"vi":"Canxi giúp ngăn ngừa loãng xương.","alts":[]}},
    {"id":"y5004-gout","hanzi":"gout","pinyin":"","vi":"bệnh gút","ex":{"tokens":["Gout","made","his","toe","very","painful","."],"py":["","","","","","","."],"vi":"Bệnh gút làm ngón chân anh ấy rất đau.","alts":[]}}
   ]},
-  {"id":"y5005","title":"Thủ thuật và thiết bị y khoa","desc":"Điều trị, dụng cụ, chăm sóc","icon":"Clinic","unit":551,"course":"en","order":4550,"words":[
+  {"id":"y5005","title":"Thủ thuật và thiết bị y khoa","desc":"Điều trị, dụng cụ, chăm sóc","icon":"Clinic","unit":551,"course":"en","order":4650,"words":[
    {"id":"y5005-transfusion","hanzi":"transfusion","pinyin":"","vi":"sự truyền máu","ex":{"tokens":["He","needed","a","blood","transfusion","after","the","crash","."],"py":["","","","","","","","","."],"vi":"Anh ấy cần truyền máu sau vụ va chạm.","alts":[]}},
    {"id":"y5005-dialysis","hanzi":"dialysis","pinyin":"","vi":"sự lọc máu, chạy thận","ex":{"tokens":["She","goes","to","hospital","for","dialysis","three","times","a","week","."],"py":["","","","","","","","","","","."],"vi":"Cô ấy đến bệnh viện chạy thận ba lần một tuần.","alts":[]}},
    {"id":"y5005-chemotherapy","hanzi":"chemotherapy","pinyin":"","vi":"hóa trị","ex":{"tokens":["She","lost","her","hair","during","chemotherapy","."],"py":["","","","","","","."],"vi":"Cô ấy rụng tóc trong thời gian hóa trị.","alts":[]}},
@@ -83,7 +83,7 @@
    {"id":"y5005-physiotherapy","hanzi":"physiotherapy","pinyin":"","vi":"vật lý trị liệu","ex":{"tokens":["He","needs","physiotherapy","after","the","knee","operation","."],"py":["","","","","","","","."],"vi":"Anh ấy cần vật lý trị liệu sau ca mổ đầu gối.","alts":[]}},
    {"id":"y5005-outpatient","hanzi":"outpatient","pinyin":"","vi":"bệnh nhân ngoại trú","ex":{"tokens":["She","was","treated","as","an","outpatient","."],"py":["","","","","","","."],"vi":"Cô ấy được điều trị ngoại trú.","alts":[]}}
   ]},
-  {"id":"y5006","title":"Thực vật học 2","desc":"Bộ phận của cây, các loài cây và hoa","icon":"Botany","unit":551,"course":"en","order":4560,"words":[
+  {"id":"y5006","title":"Thực vật học 2","desc":"Bộ phận của cây, các loài cây và hoa","icon":"Botany","unit":551,"course":"en","order":4660,"words":[
    {"id":"y5006-stalk","hanzi":"stalk","pinyin":"","vi":"cuống, thân cây (nhỏ)","ex":{"tokens":["She","cut","the","flower","at","the","stalk","."],"py":["","","","","","","","."],"vi":"Cô ấy cắt bông hoa ở phần cuống.","alts":[]}},
    {"id":"y5006-tendril","hanzi":"tendril","pinyin":"","vi":"tua cuốn","ex":{"tokens":["A","tendril","of","the","vine","curled","around","the","fence","."],"py":["","","","","","","","","","."],"vi":"Một tua cuốn của cây leo quấn quanh hàng rào.","alts":[]}},
    {"id":"y5006-resin","hanzi":"resin","pinyin":"","vi":"nhựa cây","ex":{"tokens":["Sticky","resin","ran","down","the","pine","tree","."],"py":["","","","","","","","."],"vi":"Nhựa cây dính chảy xuống thân cây thông.","alts":[]}},
@@ -99,7 +99,7 @@
    {"id":"y5006-bloom","hanzi":"bloom","pinyin":"","vi":"nở hoa; sự nở hoa","ex":{"tokens":["The","roses","bloom","in","early","summer","."],"py":["","","","","","","."],"vi":"Hoa hồng nở vào đầu mùa hè.","alts":[]}},
    {"id":"y5006-evergreen","hanzi":"evergreen","pinyin":"","vi":"cây thường xanh","ex":{"tokens":["The","pine","is","an","evergreen","tree","."],"py":["","","","","","","."],"vi":"Cây thông là loại cây thường xanh.","alts":[]}}
   ]},
-  {"id":"y5007","title":"Thực vật học 3","desc":"Bộ phận của cây, các loài cây và hoa","icon":"Botany","unit":551,"course":"en","order":4570,"words":[
+  {"id":"y5007","title":"Thực vật học 3","desc":"Bộ phận của cây, các loài cây và hoa","icon":"Botany","unit":551,"course":"en","order":4670,"words":[
    {"id":"y5007-deciduous","hanzi":"deciduous","pinyin":"","vi":"rụng lá theo mùa","ex":{"tokens":["A","deciduous","tree","loses","its","leaves","in","autumn","."],"py":["","","","","","","","","."],"vi":"Cây rụng lá theo mùa thì rụng lá vào mùa thu.","alts":[]}},
    {"id":"y5007-conifer","hanzi":"conifer","pinyin":"","vi":"cây lá kim","ex":{"tokens":["The","hill","was","planted","with","conifer","trees","."],"py":["","","","","","","","."],"vi":"Ngọn đồi được trồng cây lá kim.","alts":[]}},
    {"id":"y5007-willow","hanzi":"willow","pinyin":"","vi":"cây liễu","ex":{"tokens":["A","willow","hung","over","the","river","."],"py":["","","","","","","."],"vi":"Một cây liễu rủ xuống dòng sông.","alts":[]}},
@@ -115,7 +115,7 @@
    {"id":"y5007-ivy","hanzi":"ivy","pinyin":"","vi":"cây thường xuân","ex":{"tokens":["Ivy","covered","the","front","of","the","house","."],"py":["","","","","","","","."],"vi":"Cây thường xuân phủ kín mặt trước ngôi nhà.","alts":[]}},
    {"id":"y5007-dandelion","hanzi":"dandelion","pinyin":"","vi":"hoa bồ công anh","ex":{"tokens":["The","child","blew","on","a","dandelion","."],"py":["","","","","","","."],"vi":"Đứa bé thổi một bông bồ công anh.","alts":[]}}
   ]},
-  {"id":"y5008","title":"Động vật học 2","desc":"Phân loại, bộ phận cơ thể, tập tính","icon":"Zoology","unit":551,"course":"en","order":4580,"words":[
+  {"id":"y5008","title":"Động vật học 2","desc":"Phân loại, bộ phận cơ thể, tập tính","icon":"Zoology","unit":551,"course":"en","order":4680,"words":[
    {"id":"y5008-invertebrate","hanzi":"invertebrate","pinyin":"","vi":"động vật không xương sống","ex":{"tokens":["A","worm","is","an","invertebrate","."],"py":["","","","","","."],"vi":"Giun là động vật không xương sống.","alts":[]}},
    {"id":"y5008-rodent","hanzi":"rodent","pinyin":"","vi":"loài gặm nhấm","ex":{"tokens":["A","mouse","is","a","small","rodent","."],"py":["","","","","","","."],"vi":"Chuột là một loài gặm nhấm nhỏ.","alts":[]}},
    {"id":"y5008-primate","hanzi":"primate","pinyin":"","vi":"động vật linh trưởng","ex":{"tokens":["The","gorilla","is","the","largest","primate","."],"py":["","","","","","","."],"vi":"Khỉ đột là loài linh trưởng lớn nhất.","alts":[]}},
@@ -131,7 +131,7 @@
    {"id":"y5008-fawn","hanzi":"fawn","pinyin":"","vi":"hươu con, nai con","ex":{"tokens":["A","fawn","hid","in","the","long","grass","."],"py":["","","","","","","","."],"vi":"Một chú nai con nấp trong cỏ cao.","alts":[]}},
    {"id":"y5008-antler","hanzi":"antler","pinyin":"","vi":"gạc (hươu, nai)","ex":{"tokens":["The","deer","lost","an","antler","in","the","fight","."],"py":["","","","","","","","","."],"vi":"Con hươu mất một bên gạc trong trận đấu.","alts":[]}}
   ]},
-  {"id":"y5009","title":"Động vật học 3","desc":"Phân loại, bộ phận cơ thể, tập tính","icon":"Zoology","unit":551,"course":"en","order":4590,"words":[
+  {"id":"y5009","title":"Động vật học 3","desc":"Phân loại, bộ phận cơ thể, tập tính","icon":"Zoology","unit":551,"course":"en","order":4690,"words":[
    {"id":"y5009-tusk","hanzi":"tusk","pinyin":"","vi":"ngà (voi)","ex":{"tokens":["The","old","elephant","had","a","broken","tusk","."],"py":["","","","","","","","."],"vi":"Con voi già có một chiếc ngà gãy.","alts":[]}},
    {"id":"y5009-hoof","hanzi":"hoof","pinyin":"","vi":"móng guốc","ex":{"tokens":["The","horse","had","a","stone","in","its","hoof","."],"py":["","","","","","","","","."],"vi":"Con ngựa bị một viên đá kẹt trong móng.","alts":[]}},
    {"id":"y5009-paw","hanzi":"paw","pinyin":"","vi":"bàn chân có vuốt (chó, mèo)","ex":{"tokens":["The","dog","gave","me","its","paw","."],"py":["","","","","","","."],"vi":"Con chó đưa chân cho tôi.","alts":[]}},
@@ -147,7 +147,7 @@
    {"id":"y5009-lair","hanzi":"lair","pinyin":"","vi":"hang ổ (thú dữ)","ex":{"tokens":["The","wolf","returned","to","its","lair","."],"py":["","","","","","","."],"vi":"Con sói quay về hang ổ.","alts":[]}},
    {"id":"y5009-herd","hanzi":"herd","pinyin":"","vi":"đàn (gia súc, voi)","ex":{"tokens":["A","herd","of","cows","crossed","the","road","."],"py":["","","","","","","","."],"vi":"Một đàn bò băng qua đường.","alts":[]}}
   ]},
-  {"id":"y5010","title":"Động vật học 4","desc":"Phân loại, bộ phận cơ thể, tập tính","icon":"Zoology","unit":551,"course":"en","order":4600,"words":[
+  {"id":"y5010","title":"Động vật học 4","desc":"Phân loại, bộ phận cơ thể, tập tính","icon":"Zoology","unit":551,"course":"en","order":4700,"words":[
    {"id":"y5010-flock","hanzi":"flock","pinyin":"","vi":"đàn (chim, cừu)","ex":{"tokens":["A","flock","of","birds","flew","south","."],"py":["","","","","","","."],"vi":"Một đàn chim bay về phương nam.","alts":[]}},
    {"id":"y5010-swarm","hanzi":"swarm","pinyin":"","vi":"đàn (ong, côn trùng)","ex":{"tokens":["A","swarm","of","bees","left","the","hive","."],"py":["","","","","","","","."],"vi":"Một đàn ong rời tổ.","alts":[]}},
    {"id":"y5010-otter","hanzi":"otter","pinyin":"","vi":"con rái cá","ex":{"tokens":["An","otter","swam","on","its","back","."],"py":["","","","","","","."],"vi":"Một con rái cá bơi ngửa.","alts":[]}},

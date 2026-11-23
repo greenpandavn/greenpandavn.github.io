@@ -1,9 +1,9 @@
 {
  "units": [
-  {"unit":502,"level":5,"title":"Phần 35: Khoa học và kỹ thuật","desc":"Y khoa, sinh học, khí tượng, hàng không, điện tử, dữ liệu","color":"sky","course":"en"}
+  {"unit":502,"level":5,"title":"Phần 36: Khoa học và kỹ thuật","desc":"Y khoa, sinh học, khí tượng, hàng không, điện tử, dữ liệu","color":"sky","course":"en"}
  ],
  "lessons": [
-  {"id":"x17","title":"Giải phẫu","desc":"Xương, gân, cơ quan, mạch máu","icon":"Body","unit":502,"course":"en","order":4020,"words":[
+  {"id":"x17","title":"Giải phẫu","desc":"Xương, gân, cơ quan, mạch máu","icon":"Body","unit":502,"course":"en","order":4120,"words":[
    {"id":"x17-cranium","hanzi":"cranium","pinyin":"","vi":"hộp sọ","ex":{"tokens":["The","cranium","protects","the","brain","."],"py":["","","","","","."],"vi":"Hộp sọ bảo vệ não.","alts":[]}},
    {"id":"x17-femur","hanzi":"femur","pinyin":"","vi":"xương đùi","ex":{"tokens":["The","femur","is","the","longest","bone","in","the","body","."],"py":["","","","","","","","","","."],"vi":"Xương đùi là xương dài nhất trong cơ thể.","alts":[]}},
    {"id":"x17-tendon","hanzi":"tendon","pinyin":"","vi":"gân","ex":{"tokens":["He","tore","a","tendon","in","his","ankle","."],"py":["","","","","","","","."],"vi":"Anh ấy bị rách gân ở mắt cá chân.","alts":[]}},
@@ -17,7 +17,7 @@
    {"id":"x17-artery","hanzi":"artery","pinyin":"","vi":"động mạch","ex":{"tokens":["A","blocked","artery","can","cause","a","heart","attack","."],"py":["","","","","","","","","."],"vi":"Động mạch bị tắc có thể gây đau tim.","alts":[]}},
    {"id":"x17-capillary","hanzi":"capillary","pinyin":"","vi":"mao mạch","ex":{"tokens":["A","capillary","is","thinner","than","a","hair","."],"py":["","","","","","","","."],"vi":"Mao mạch mỏng hơn một sợi tóc.","alts":[]}}
   ]},
-  {"id":"x18","title":"Bệnh lý 1","desc":"U lành, u ác, viêm, tái phát, tiên lượng","icon":"Illness","unit":502,"course":"en","order":4030,"words":[
+  {"id":"x18","title":"Bệnh lý 1","desc":"U lành, u ác, viêm, tái phát, tiên lượng","icon":"Illness","unit":502,"course":"en","order":4130,"words":[
    {"id":"x18-benign","hanzi":"benign","pinyin":"","vi":"lành tính","ex":{"tokens":["The","lump","was","benign","."],"py":["","","","","."],"vi":"Khối u là lành tính.","alts":[]}},
    {"id":"x18-malignant","hanzi":"malignant","pinyin":"","vi":"ác tính","ex":{"tokens":["Tests","showed","that","the","tumor","was","malignant","."],"py":["","","","","","","","."],"vi":"Xét nghiệm cho thấy khối u là ác tính.","alts":[]}},
    {"id":"x18-lesion","hanzi":"lesion","pinyin":"","vi":"tổn thương (trên da, mô)","ex":{"tokens":["The","doctor","examined","a","lesion","on","his","arm","."],"py":["","","","","","","","","."],"vi":"Bác sĩ khám một vết tổn thương trên cánh tay anh ấy.","alts":[]}},
@@ -31,7 +31,7 @@
    {"id":"x18-remission","hanzi":"remission","pinyin":"","vi":"sự thuyên giảm (bệnh)","ex":{"tokens":["The","cancer","is","now","in","remission","."],"py":["","","","","","","."],"vi":"Bệnh ung thư hiện đang thuyên giảm.","alts":[]}},
    {"id":"x18-prognosis","hanzi":"prognosis","pinyin":"","vi":"tiên lượng bệnh","ex":{"tokens":["The","prognosis","is","good","if","we","act","early","."],"py":["","","","","","","","","."],"vi":"Tiên lượng tốt nếu chúng ta hành động sớm.","alts":[]}}
   ]},
-  {"id":"x19","title":"Dược phẩm","desc":"Liều lượng, thuốc an thần, giả dược, thuốc mỡ","icon":"Drug","unit":502,"course":"en","order":4040,"words":[
+  {"id":"x19","title":"Dược phẩm","desc":"Liều lượng, thuốc an thần, giả dược, thuốc mỡ","icon":"Drug","unit":502,"course":"en","order":4140,"words":[
    {"id":"x19-dosage","hanzi":"dosage","pinyin":"","vi":"liều lượng","ex":{"tokens":["Do","not","exceed","the","stated","dosage","."],"py":["","","","","","","."],"vi":"Không dùng quá liều lượng đã ghi.","alts":[]}},
    {"id":"x19-sedative","hanzi":"sedative","pinyin":"","vi":"thuốc an thần","ex":{"tokens":["The","nurse","gave","him","a","mild","sedative","."],"py":["","","","","","","","."],"vi":"Y tá cho ông ấy một liều thuốc an thần nhẹ.","alts":[]}},
    {"id":"x19-antidote","hanzi":"antidote","pinyin":"","vi":"thuốc giải độc","ex":{"tokens":["There","is","no","antidote","for","this","poison","."],"py":["","","","","","","","."],"vi":"Không có thuốc giải cho loại độc này.","alts":[]}},
@@ -45,7 +45,7 @@
    {"id":"x19-syrup","hanzi":"syrup","pinyin":"","vi":"xi rô","ex":{"tokens":["The","child","takes","cough","syrup","at","night","."],"py":["","","","","","","","."],"vi":"Đứa trẻ uống xi rô ho vào buổi tối.","alts":[]}},
    {"id":"x19-prescribe","hanzi":"prescribe","pinyin":"","vi":"kê đơn","ex":{"tokens":["The","doctor","will","prescribe","something","stronger","."],"py":["","","","","","","."],"vi":"Bác sĩ sẽ kê loại thuốc mạnh hơn.","alts":[]}}
   ]},
-  {"id":"x20","title":"Phẫu thuật","desc":"Dao mổ, khâu, gây mê, ghép, sinh thiết","icon":"Surgery","unit":502,"course":"en","order":4050,"words":[
+  {"id":"x20","title":"Phẫu thuật","desc":"Dao mổ, khâu, gây mê, ghép, sinh thiết","icon":"Surgery","unit":502,"course":"en","order":4150,"words":[
    {"id":"x20-incision","hanzi":"incision","pinyin":"","vi":"vết rạch, đường mổ","ex":{"tokens":["The","surgeon","made","a","small","incision","."],"py":["","","","","","","."],"vi":"Bác sĩ phẫu thuật rạch một đường nhỏ.","alts":[]}},
    {"id":"x20-suture","hanzi":"suture","pinyin":"","vi":"mũi khâu; khâu vết thương","ex":{"tokens":["The","nurse","removed","each","suture","carefully","."],"py":["","","","","","","."],"vi":"Y tá cẩn thận tháo từng mũi khâu.","alts":[]}},
    {"id":"x20-scalpel","hanzi":"scalpel","pinyin":"","vi":"dao mổ","ex":{"tokens":["The","scalpel","must","be","perfectly","clean","."],"py":["","","","","","","."],"vi":"Dao mổ phải hoàn toàn sạch.","alts":[]}},
@@ -59,7 +59,7 @@
    {"id":"x20-sterile","hanzi":"sterile","pinyin":"","vi":"vô trùng","ex":{"tokens":["Use","a","sterile","needle","every","time","."],"py":["","","","","","","."],"vi":"Hãy dùng kim vô trùng mỗi lần.","alts":[]}},
    {"id":"x20-forceps","hanzi":"forceps","pinyin":"","vi":"cái kẹp phẫu thuật","ex":{"tokens":["She","held","the","thread","with","forceps","."],"py":["","","","","","","."],"vi":"Cô ấy giữ sợi chỉ bằng kẹp.","alts":[]}}
   ]},
-  {"id":"x21","title":"Vi sinh vật","desc":"Mầm bệnh, vi khuẩn, nấm, kháng thể","icon":"Germ","unit":502,"course":"en","order":4060,"words":[
+  {"id":"x21","title":"Vi sinh vật","desc":"Mầm bệnh, vi khuẩn, nấm, kháng thể","icon":"Germ","unit":502,"course":"en","order":4160,"words":[
    {"id":"x21-pathogen","hanzi":"pathogen","pinyin":"","vi":"mầm bệnh","ex":{"tokens":["The","pathogen","spreads","through","dirty","water","."],"py":["","","","","","","."],"vi":"Mầm bệnh lây qua nước bẩn.","alts":[]}},
    {"id":"x21-bacterium","hanzi":"bacterium","pinyin":"","vi":"vi khuẩn (số ít)","ex":{"tokens":["A","single","bacterium","can","divide","every","twenty","minutes","."],"py":["","","","","","","","","."],"vi":"Một vi khuẩn có thể phân chia mỗi hai mươi phút.","alts":[]}},
    {"id":"x21-fungus","hanzi":"fungus","pinyin":"","vi":"nấm","ex":{"tokens":["A","fungus","is","growing","on","the","bread","."],"py":["","","","","","","","."],"vi":"Một loại nấm đang mọc trên bánh mì.","alts":[]}},
@@ -73,7 +73,7 @@
    {"id":"x21-microbe","hanzi":"microbe","pinyin":"","vi":"vi sinh vật","ex":{"tokens":["You","cannot","see","a","microbe","without","a","microscope","."],"py":["","","","","","","","","."],"vi":"Bạn không thể thấy vi sinh vật nếu không có kính hiển vi.","alts":[]}},
    {"id":"x21-toxin","hanzi":"toxin","pinyin":"","vi":"độc tố","ex":{"tokens":["The","bacteria","produce","a","dangerous","toxin","."],"py":["","","","","","","."],"vi":"Vi khuẩn tạo ra một độc tố nguy hiểm.","alts":[]}}
   ]},
-  {"id":"x22","title":"Thực vật học 1","desc":"Phấn hoa, cánh hoa, tán lá, nảy mầm","icon":"Plant","unit":502,"course":"en","order":4070,"words":[
+  {"id":"x22","title":"Thực vật học 1","desc":"Phấn hoa, cánh hoa, tán lá, nảy mầm","icon":"Plant","unit":502,"course":"en","order":4170,"words":[
    {"id":"x22-botany","hanzi":"botany","pinyin":"","vi":"thực vật học","ex":{"tokens":["She","studied","botany","at","university","."],"py":["","","","","","."],"vi":"Cô ấy học thực vật học ở đại học.","alts":[]}},
    {"id":"x22-pollen","hanzi":"pollen","pinyin":"","vi":"phấn hoa","ex":{"tokens":["Pollen","makes","me","sneeze","in","spring","."],"py":["","","","","","","."],"vi":"Phấn hoa làm tôi hắt hơi vào mùa xuân.","alts":[]}},
    {"id":"x22-stamen","hanzi":"stamen","pinyin":"","vi":"nhị hoa","ex":{"tokens":["Each","flower","has","one","long","stamen","."],"py":["","","","","","","."],"vi":"Mỗi bông hoa có một nhị dài.","alts":[]}},
@@ -87,7 +87,7 @@
    {"id":"x22-bark","hanzi":"bark","pinyin":"","vi":"vỏ cây; sủa","ex":{"tokens":["The","bark","of","this","tree","is","white","."],"py":["","","","","","","","."],"vi":"Vỏ của cây này màu trắng.","alts":[]}},
    {"id":"x22-seedling","hanzi":"seedling","pinyin":"","vi":"cây con, cây giống","ex":{"tokens":["Water","each","seedling","every","morning","."],"py":["","","","","","."],"vi":"Hãy tưới mỗi cây con vào mỗi sáng.","alts":[]}}
   ]},
-  {"id":"x23","title":"Động vật học 1","desc":"Bò sát, lưỡng cư, ăn thịt, ngủ đông","icon":"Animal","unit":502,"course":"en","order":4080,"words":[
+  {"id":"x23","title":"Động vật học 1","desc":"Bò sát, lưỡng cư, ăn thịt, ngủ đông","icon":"Animal","unit":502,"course":"en","order":4180,"words":[
    {"id":"x23-mammal","hanzi":"mammal","pinyin":"","vi":"động vật có vú","ex":{"tokens":["A","whale","is","a","mammal",",","not","a","fish","."],"py":["","","","","",",","","","","."],"vi":"Cá voi là động vật có vú, không phải cá.","alts":[]}},
    {"id":"x23-reptile","hanzi":"reptile","pinyin":"","vi":"loài bò sát","ex":{"tokens":["A","snake","is","a","reptile","."],"py":["","","","","","."],"vi":"Rắn là một loài bò sát.","alts":[]}},
    {"id":"x23-amphibian","hanzi":"amphibian","pinyin":"","vi":"động vật lưỡng cư","ex":{"tokens":["A","frog","is","an","amphibian","."],"py":["","","","","","."],"vi":"Ếch là một động vật lưỡng cư.","alts":[]}},
@@ -101,7 +101,7 @@
    {"id":"x23-molt","hanzi":"molt","pinyin":"","vi":"thay lông, lột xác","ex":{"tokens":["Snakes","molt","several","times","a","year","."],"py":["","","","","","","."],"vi":"Rắn lột xác vài lần mỗi năm.","alts":[]}},
    {"id":"x23-larva","hanzi":"larva","pinyin":"","vi":"ấu trùng","ex":{"tokens":["The","larva","becomes","a","butterfly","."],"py":["","","","","","."],"vi":"Ấu trùng trở thành bướm.","alts":[]}}
   ]},
-  {"id":"x24","title":"Khí tượng","desc":"Áp kế, mưa đá, gió giật, sương giá","icon":"Sky","unit":502,"course":"en","order":4090,"words":[
+  {"id":"x24","title":"Khí tượng","desc":"Áp kế, mưa đá, gió giật, sương giá","icon":"Sky","unit":502,"course":"en","order":4190,"words":[
    {"id":"x24-barometer","hanzi":"barometer","pinyin":"","vi":"áp kế","ex":{"tokens":["The","barometer","shows","that","rain","is","coming","."],"py":["","","","","","","","."],"vi":"Áp kế cho thấy trời sắp mưa.","alts":[]}},
    {"id":"x24-dew","hanzi":"dew","pinyin":"","vi":"sương","ex":{"tokens":["The","grass","was","wet","with","dew","."],"py":["","","","","","","."],"vi":"Cỏ ướt đẫm sương.","alts":[]}},
    {"id":"x24-precipitation","hanzi":"precipitation","pinyin":"","vi":"lượng mưa, giáng thủy","ex":{"tokens":["Precipitation","is","highest","in","August","."],"py":["","","","","","."],"vi":"Lượng mưa cao nhất vào tháng Tám.","alts":[]}},
@@ -115,7 +115,7 @@
    {"id":"x24-meteorologist","hanzi":"meteorologist","pinyin":"","vi":"nhà khí tượng học","ex":{"tokens":["The","meteorologist","warned","of","heavy","snow","."],"py":["","","","","","","."],"vi":"Nhà khí tượng học cảnh báo có tuyết rơi dày.","alts":[]}},
    {"id":"x24-sleet","hanzi":"sleet","pinyin":"","vi":"mưa tuyết","ex":{"tokens":["Sleet","made","the","roads","dangerous","."],"py":["","","","","","."],"vi":"Mưa tuyết khiến đường sá nguy hiểm.","alts":[]}}
   ]},
-  {"id":"x25","title":"Hàng không","desc":"Thân máy bay, buồng lái, đường băng, nhiễu động","icon":"Plane","unit":502,"course":"en","order":4100,"words":[
+  {"id":"x25","title":"Hàng không","desc":"Thân máy bay, buồng lái, đường băng, nhiễu động","icon":"Plane","unit":502,"course":"en","order":4200,"words":[
    {"id":"x25-fuselage","hanzi":"fuselage","pinyin":"","vi":"thân máy bay","ex":{"tokens":["The","fuselage","is","made","of","light","metal","."],"py":["","","","","","","","."],"vi":"Thân máy bay được làm bằng kim loại nhẹ.","alts":[]}},
    {"id":"x25-cockpit","hanzi":"cockpit","pinyin":"","vi":"buồng lái","ex":{"tokens":["Only","the","crew","may","enter","the","cockpit","."],"py":["","","","","","","","."],"vi":"Chỉ phi hành đoàn mới được vào buồng lái.","alts":[]}},
    {"id":"x25-altitude","hanzi":"altitude","pinyin":"","vi":"độ cao","ex":{"tokens":["The","plane","is","flying","at","a","high","altitude","."],"py":["","","","","","","","","."],"vi":"Máy bay đang bay ở độ cao lớn.","alts":[]}},
@@ -129,7 +129,7 @@
    {"id":"x25-layover","hanzi":"layover","pinyin":"","vi":"thời gian quá cảnh","ex":{"tokens":["We","have","a","three-hour","layover","in","Singapore","."],"py":["","","","","","","","."],"vi":"Chúng tôi có ba tiếng quá cảnh ở Singapore.","alts":[]}},
    {"id":"x25-tarmac","hanzi":"tarmac","pinyin":"","vi":"mặt sân đỗ máy bay, mặt đường nhựa","ex":{"tokens":["Passengers","waited","on","the","tarmac","for","an","hour","."],"py":["","","","","","","","","."],"vi":"Hành khách chờ trên sân đỗ suốt một tiếng.","alts":[]}}
   ]},
-  {"id":"x26","title":"Hàng hải","desc":"Thân tàu, mũi tàu, bánh lái, neo, phao","icon":"Ship","unit":502,"course":"en","order":4110,"words":[
+  {"id":"x26","title":"Hàng hải","desc":"Thân tàu, mũi tàu, bánh lái, neo, phao","icon":"Ship","unit":502,"course":"en","order":4210,"words":[
    {"id":"x26-hull","hanzi":"hull","pinyin":"","vi":"thân tàu","ex":{"tokens":["The","hull","was","damaged","by","a","rock","."],"py":["","","","","","","","."],"vi":"Thân tàu bị đá làm hỏng.","alts":[]}},
    {"id":"x26-keel","hanzi":"keel","pinyin":"","vi":"sống tàu","ex":{"tokens":["The","keel","keeps","the","boat","steady","."],"py":["","","","","","","."],"vi":"Sống tàu giữ cho con thuyền ổn định.","alts":[]}},
    {"id":"x26-stern","hanzi":"stern","pinyin":"","vi":"đuôi tàu; nghiêm khắc","ex":{"tokens":["He","stood","at","the","stern","and","waved","."],"py":["","","","","","","","."],"vi":"Anh ấy đứng ở đuôi tàu và vẫy tay.","alts":[]}},
@@ -143,7 +143,7 @@
    {"id":"x26-mooring","hanzi":"mooring","pinyin":"","vi":"chỗ neo đậu","ex":{"tokens":["The","boat","broke","free","from","its","mooring","."],"py":["","","","","","","","."],"vi":"Con thuyền tuột khỏi chỗ neo đậu.","alts":[]}},
    {"id":"x26-vessel","hanzi":"vessel","pinyin":"","vi":"tàu thuyền; mạch (máu)","ex":{"tokens":["The","vessel","carries","oil","to","Asia","."],"py":["","","","","","","."],"vi":"Con tàu chở dầu sang châu Á.","alts":[]}}
   ]},
-  {"id":"x27","title":"Điện tử","desc":"Điện trở, tụ điện, bóng bán dẫn, hàn","icon":"Chip","unit":502,"course":"en","order":4120,"words":[
+  {"id":"x27","title":"Điện tử","desc":"Điện trở, tụ điện, bóng bán dẫn, hàn","icon":"Chip","unit":502,"course":"en","order":4220,"words":[
    {"id":"x27-inductor","hanzi":"inductor","pinyin":"","vi":"cuộn cảm","ex":{"tokens":["An","inductor","stores","energy","in","a","magnetic","field","."],"py":["","","","","","","","","."],"vi":"Cuộn cảm lưu trữ năng lượng trong từ trường.","alts":[]}},
    {"id":"x27-resistor","hanzi":"resistor","pinyin":"","vi":"điện trở","ex":{"tokens":["Replace","the","burnt","resistor","."],"py":["","","","","."],"vi":"Hãy thay điện trở bị cháy.","alts":[]}},
    {"id":"x27-capacitor","hanzi":"capacitor","pinyin":"","vi":"tụ điện","ex":{"tokens":["A","capacitor","stores","a","small","charge","."],"py":["","","","","","","."],"vi":"Tụ điện lưu trữ một lượng điện tích nhỏ.","alts":[]}},
@@ -157,7 +157,7 @@
    {"id":"x27-conductor","hanzi":"conductor","pinyin":"","vi":"chất dẫn điện; nhạc trưởng","ex":{"tokens":["Copper","is","an","excellent","conductor","."],"py":["","","","","","."],"vi":"Đồng là chất dẫn điện tuyệt vời.","alts":[]}},
    {"id":"x27-insulator","hanzi":"insulator","pinyin":"","vi":"chất cách điện","ex":{"tokens":["Rubber","is","a","good","insulator","."],"py":["","","","","","."],"vi":"Cao su là chất cách điện tốt.","alts":[]}}
   ]},
-  {"id":"x28","title":"Lập trình","desc":"Biên dịch, gỡ lỗi, đệ quy, kho mã","icon":"Code","unit":502,"course":"en","order":4130,"words":[
+  {"id":"x28","title":"Lập trình","desc":"Biên dịch, gỡ lỗi, đệ quy, kho mã","icon":"Code","unit":502,"course":"en","order":4230,"words":[
    {"id":"x28-compile","hanzi":"compile","pinyin":"","vi":"biên dịch; biên soạn","ex":{"tokens":["The","program","takes","a","minute","to","compile","."],"py":["","","","","","","","."],"vi":"Chương trình mất một phút để biên dịch.","alts":[]}},
    {"id":"x28-debug","hanzi":"debug","pinyin":"","vi":"gỡ lỗi","ex":{"tokens":["I","spent","all","night","trying","to","debug","the","app","."],"py":["","","","","","","","","","."],"vi":"Tôi mất cả đêm để gỡ lỗi ứng dụng.","alts":[]}},
    {"id":"x28-parser","hanzi":"parser","pinyin":"","vi":"bộ phân tích cú pháp","ex":{"tokens":["The","parser","reads","the","file","line","by","line","."],"py":["","","","","","","","","."],"vi":"Bộ phân tích cú pháp đọc tệp từng dòng một.","alts":[]}},
@@ -171,7 +171,7 @@
    {"id":"x28-array","hanzi":"array","pinyin":"","vi":"mảng","ex":{"tokens":["Store","the","numbers","in","an","array","."],"py":["","","","","","","."],"vi":"Hãy lưu các con số vào một mảng.","alts":[]}},
    {"id":"x28-boolean","hanzi":"boolean","pinyin":"","vi":"kiểu đúng/sai (logic)","ex":{"tokens":["A","boolean","is","either","true","or","false","."],"py":["","","","","","","","."],"vi":"Giá trị boolean chỉ là đúng hoặc sai.","alts":[]}}
   ]},
-  {"id":"x29","title":"Dữ liệu","desc":"Tập dữ liệu, ngoại lệ, độ trễ, bộ nhớ đệm","icon":"Data","unit":502,"course":"en","order":4140,"words":[
+  {"id":"x29","title":"Dữ liệu","desc":"Tập dữ liệu, ngoại lệ, độ trễ, bộ nhớ đệm","icon":"Data","unit":502,"course":"en","order":4240,"words":[
    {"id":"x29-dataset","hanzi":"dataset","pinyin":"","vi":"tập dữ liệu","ex":{"tokens":["The","dataset","contains","a","million","rows","."],"py":["","","","","","","."],"vi":"Tập dữ liệu chứa một triệu dòng.","alts":[]}},
    {"id":"x29-outlier","hanzi":"outlier","pinyin":"","vi":"giá trị ngoại lệ","ex":{"tokens":["One","outlier","changed","the","average","."],"py":["","","","","","."],"vi":"Một giá trị ngoại lệ đã làm thay đổi mức trung bình.","alts":[]}},
    {"id":"x29-regression","hanzi":"regression","pinyin":"","vi":"hồi quy; sự thụt lùi","ex":{"tokens":["We","used","regression","to","predict","sales","."],"py":["","","","","","","."],"vi":"Chúng tôi dùng hồi quy để dự đoán doanh số.","alts":[]}},
@@ -185,7 +185,7 @@
    {"id":"x29-bandwidth","hanzi":"bandwidth","pinyin":"","vi":"băng thông","ex":{"tokens":["Video","uses","a","lot","of","bandwidth","."],"py":["","","","","","","."],"vi":"Video dùng rất nhiều băng thông.","alts":[]}},
    {"id":"x29-redundancy","hanzi":"redundancy","pinyin":"","vi":"sự dự phòng; sự dư thừa","ex":{"tokens":["Redundancy","keeps","the","system","running","after","a","failure","."],"py":["","","","","","","","","."],"vi":"Sự dự phòng giữ cho hệ thống chạy tiếp sau sự cố.","alts":[]}}
   ]},
-  {"id":"x30","title":"Kỹ thuật năng lượng","desc":"Tua-bin, lò phản ứng, lưới điện, địa nhiệt","icon":"Power","unit":502,"course":"en","order":4150,"words":[
+  {"id":"x30","title":"Kỹ thuật năng lượng","desc":"Tua-bin, lò phản ứng, lưới điện, địa nhiệt","icon":"Power","unit":502,"course":"en","order":4250,"words":[
    {"id":"x30-turbine","hanzi":"turbine","pinyin":"","vi":"tua-bin","ex":{"tokens":["The","wind","turns","the","turbine","."],"py":["","","","","","."],"vi":"Gió làm quay tua-bin.","alts":[]}},
    {"id":"x30-reactor","hanzi":"reactor","pinyin":"","vi":"lò phản ứng","ex":{"tokens":["The","reactor","was","shut","down","for","repairs","."],"py":["","","","","","","","."],"vi":"Lò phản ứng đã ngừng hoạt động để sửa chữa.","alts":[]}},
    {"id":"x30-grid","hanzi":"grid","pinyin":"","vi":"lưới điện; mạng lưới","ex":{"tokens":["The","village","is","not","connected","to","the","grid","."],"py":["","","","","","","","","."],"vi":"Ngôi làng chưa được nối vào lưới điện.","alts":[]}},
@@ -199,7 +199,7 @@
    {"id":"x30-transmission","hanzi":"transmission","pinyin":"","vi":"sự truyền tải; hộp số","ex":{"tokens":["Power","is","lost","during","transmission","."],"py":["","","","","","."],"vi":"Điện năng bị hao hụt trong quá trình truyền tải.","alts":[]}},
    {"id":"x30-dynamo","hanzi":"dynamo","pinyin":"","vi":"máy phát điện nhỏ, đi-na-mô","ex":{"tokens":["A","dynamo","powers","the","bicycle","light","."],"py":["","","","","","","."],"vi":"Một đi-na-mô cấp điện cho đèn xe đạp.","alts":[]}}
   ]},
-  {"id":"x31","title":"Thi công xây dựng","desc":"Giàn giáo, dầm, vữa, móng, cách nhiệt","icon":"Build","unit":502,"course":"en","order":4160,"words":[
+  {"id":"x31","title":"Thi công xây dựng","desc":"Giàn giáo, dầm, vữa, móng, cách nhiệt","icon":"Build","unit":502,"course":"en","order":4260,"words":[
    {"id":"x31-scaffold","hanzi":"scaffold","pinyin":"","vi":"giàn giáo","ex":{"tokens":["Workers","climbed","the","scaffold","."],"py":["","","","","."],"vi":"Công nhân leo lên giàn giáo.","alts":[]}},
    {"id":"x31-girder","hanzi":"girder","pinyin":"","vi":"dầm thép lớn","ex":{"tokens":["A","steel","girder","supports","the","bridge","."],"py":["","","","","","","."],"vi":"Một dầm thép đỡ cây cầu.","alts":[]}},
    {"id":"x31-mortar","hanzi":"mortar","pinyin":"","vi":"vữa","ex":{"tokens":["Mortar","holds","the","bricks","together","."],"py":["","","","","","."],"vi":"Vữa giữ các viên gạch dính vào nhau.","alts":[]}},
@@ -213,7 +213,7 @@
    {"id":"x31-plumbing","hanzi":"plumbing","pinyin":"","vi":"hệ thống ống nước","ex":{"tokens":["The","plumbing","in","this","house","is","very","old","."],"py":["","","","","","","","","."],"vi":"Hệ thống ống nước trong ngôi nhà này rất cũ.","alts":[]}},
    {"id":"x31-insulation","hanzi":"insulation","pinyin":"","vi":"lớp cách nhiệt, cách âm","ex":{"tokens":["Good","insulation","keeps","the","house","warm","."],"py":["","","","","","","."],"vi":"Lớp cách nhiệt tốt giữ cho ngôi nhà ấm.","alts":[]}}
   ]},
-  {"id":"x32","title":"Cơ khí ô tô","desc":"Khung gầm, hộp số, pít-tông, ly hợp","icon":"Engine","unit":502,"course":"en","order":4170,"words":[
+  {"id":"x32","title":"Cơ khí ô tô","desc":"Khung gầm, hộp số, pít-tông, ly hợp","icon":"Engine","unit":502,"course":"en","order":4270,"words":[
    {"id":"x32-chassis","hanzi":"chassis","pinyin":"","vi":"khung gầm","ex":{"tokens":["The","chassis","was","bent","in","the","crash","."],"py":["","","","","","","","."],"vi":"Khung gầm bị cong trong vụ va chạm.","alts":[]}},
    {"id":"x32-gearbox","hanzi":"gearbox","pinyin":"","vi":"hộp số","ex":{"tokens":["The","gearbox","makes","a","strange","noise","."],"py":["","","","","","","."],"vi":"Hộp số phát ra tiếng lạ.","alts":[]}},
    {"id":"x32-piston","hanzi":"piston","pinyin":"","vi":"pít-tông","ex":{"tokens":["The","piston","moves","up","and","down","."],"py":["","","","","","","."],"vi":"Pít-tông chuyển động lên xuống.","alts":[]}},

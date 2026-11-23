@@ -1,6 +1,6 @@
 {
  "units": [
-  {"unit":451,"level":4,"title":"Phần 33: Mở rộng – Pháp luật và tòa án","desc":"Pháp luật và tòa án, Tài chính và ngân hàng","color":"leaf","course":"en"}
+  {"unit":451,"level":4,"title":"Phần 33: Mở rộng – Pháp luật và tòa án","desc":"Pháp luật và tòa án, Tài chính và ngân hàng, Chính trị và nhà nước","color":"leaf","course":"en"}
  ],
  "lessons": [
   {"id":"y4001","title":"Pháp luật và tòa án 1","desc":"Tội danh, thủ tục tố tụng, người tham gia","icon":"Law","unit":451,"course":"en","order":3790,"words":[
@@ -108,6 +108,50 @@
    {"id":"y4007-excise","hanzi":"excise","pinyin":"","vi":"thuế tiêu thụ đặc biệt","ex":{"tokens":["There","is","a","high","excise","on","tobacco","."],"py":["","","","","","","","."],"vi":"Thuốc lá chịu thuế tiêu thụ đặc biệt cao.","alts":[]}},
    {"id":"y4007-amortization","hanzi":"amortization","pinyin":"","vi":"sự khấu hao, trả dần","ex":{"tokens":["The","table","shows","the","amortization","of","the","loan","."],"py":["","","","","","","","","."],"vi":"Bảng này cho thấy lịch trả dần khoản vay.","alts":[]}},
    {"id":"y4007-lien","hanzi":"lien","pinyin":"","vi":"quyền giữ tài sản thế chấp","ex":{"tokens":["The","bank","holds","a","lien","on","the","house","."],"py":["","","","","","","","","."],"vi":"Ngân hàng giữ quyền thế chấp đối với ngôi nhà.","alts":[]}}
+  ]},
+  {"id":"y4008","title":"Chính trị và nhà nước 1","desc":"Thể chế, chức vụ, hệ tư tưởng","icon":"Politics","unit":451,"course":"en","order":3860,"words":[
+   {"id":"y4008-congress","hanzi":"congress","pinyin":"","vi":"quốc hội (Mỹ); đại hội","ex":{"tokens":["Congress","passed","the","new","law","."],"py":["","","","","","."],"vi":"Quốc hội đã thông qua luật mới.","alts":[]}},
+   {"id":"y4008-ministry","hanzi":"ministry","pinyin":"","vi":"bộ (cơ quan chính phủ)","ex":{"tokens":["She","works","at","the","Ministry","of","Health","."],"py":["","","","","","","","."],"vi":"Cô ấy làm việc tại Bộ Y tế.","alts":[]}},
+   {"id":"y4008-diplomat","hanzi":"diplomat","pinyin":"","vi":"nhà ngoại giao","ex":{"tokens":["The","diplomat","spoke","four","languages","."],"py":["","","","","","."],"vi":"Nhà ngoại giao nói được bốn thứ tiếng.","alts":[]}},
+   {"id":"y4008-legislator","hanzi":"legislator","pinyin":"","vi":"nhà lập pháp","ex":{"tokens":["Every","legislator","voted","for","the","bill","."],"py":["","","","","","","."],"vi":"Mọi nhà lập pháp đều bỏ phiếu thuận cho dự luật.","alts":[]}},
+   {"id":"y4008-mayor","hanzi":"mayor","pinyin":"","vi":"thị trưởng","ex":{"tokens":["The","mayor","opened","the","new","bridge","."],"py":["","","","","","","."],"vi":"Thị trưởng khánh thành cây cầu mới.","alts":[]}},
+   {"id":"y4008-councilor","hanzi":"councilor","pinyin":"","vi":"ủy viên hội đồng","ex":{"tokens":["A","local","councilor","visited","our","school","."],"py":["","","","","","","."],"vi":"Một ủy viên hội đồng địa phương đến thăm trường chúng tôi.","alts":[]}},
+   {"id":"y4008-chancellor","hanzi":"chancellor","pinyin":"","vi":"thủ tướng (Đức, Áo); hiệu trưởng danh dự","ex":{"tokens":["The","German","chancellor","met","the","president","."],"py":["","","","","","","."],"vi":"Thủ tướng Đức gặp tổng thống.","alts":[]}},
+   {"id":"y4008-dictator","hanzi":"dictator","pinyin":"","vi":"nhà độc tài","ex":{"tokens":["The","dictator","ruled","for","thirty","years","."],"py":["","","","","","","."],"vi":"Nhà độc tài cầm quyền ba mươi năm.","alts":[]}},
+   {"id":"y4008-tyrant","hanzi":"tyrant","pinyin":"","vi":"bạo chúa","ex":{"tokens":["The","people","rose","against","the","tyrant","."],"py":["","","","","","","."],"vi":"Nhân dân nổi dậy chống lại bạo chúa.","alts":[]}},
+   {"id":"y4008-coup","hanzi":"coup","pinyin":"","vi":"cuộc đảo chính","ex":{"tokens":["The","army","took","power","in","a","coup","."],"py":["","","","","","","","."],"vi":"Quân đội giành quyền trong một cuộc đảo chính.","alts":[]}},
+   {"id":"y4008-rebellion","hanzi":"rebellion","pinyin":"","vi":"cuộc nổi loạn","ex":{"tokens":["The","king","crushed","the","rebellion","."],"py":["","","","","","."],"vi":"Nhà vua dập tắt cuộc nổi loạn.","alts":[]}},
+   {"id":"y4008-insurgency","hanzi":"insurgency","pinyin":"","vi":"cuộc nổi dậy vũ trang","ex":{"tokens":["The","insurgency","lasted","ten","years","."],"py":["","","","","","."],"vi":"Cuộc nổi dậy vũ trang kéo dài mười năm.","alts":[]}},
+   {"id":"y4008-revolt","hanzi":"revolt","pinyin":"","vi":"cuộc khởi nghĩa; nổi dậy","ex":{"tokens":["The","farmers","began","a","revolt","against","the","tax","."],"py":["","","","","","","","","."],"vi":"Nông dân bắt đầu một cuộc khởi nghĩa chống thuế.","alts":[]}}
+  ]},
+  {"id":"y4009","title":"Chính trị và nhà nước 2","desc":"Thể chế, chức vụ, hệ tư tưởng","icon":"Politics","unit":451,"course":"en","order":3870,"words":[
+   {"id":"y4009-poll","hanzi":"poll","pinyin":"","vi":"cuộc thăm dò ý kiến","ex":{"tokens":["A","new","poll","shows","the","mayor","is","popular","."],"py":["","","","","","","","","."],"vi":"Một cuộc thăm dò mới cho thấy thị trưởng được lòng dân.","alts":[]}},
+   {"id":"y4009-electorate","hanzi":"electorate","pinyin":"","vi":"toàn bộ cử tri","ex":{"tokens":["The","electorate","wants","change","."],"py":["","","","","."],"vi":"Cử tri muốn thay đổi.","alts":[]}},
+   {"id":"y4009-nominee","hanzi":"nominee","pinyin":"","vi":"người được đề cử","ex":{"tokens":["She","is","the","party's","nominee","for","president","."],"py":["","","","","","","","."],"vi":"Bà ấy là người được đảng đề cử làm tổng thống.","alts":[]}},
+   {"id":"y4009-red_tape","hanzi":"red tape","pinyin":"","vi":"thủ tục hành chính rườm rà","ex":{"tokens":["Too","much","red","tape","slows","down","business","."],"py":["","","","","","","","."],"vi":"Quá nhiều thủ tục rườm rà làm chậm việc kinh doanh.","alts":[]}},
+   {"id":"y4009-federation","hanzi":"federation","pinyin":"","vi":"liên bang, liên đoàn","ex":{"tokens":["The","football","federation","changed","the","rules","."],"py":["","","","","","","."],"vi":"Liên đoàn bóng đá đã thay đổi luật.","alts":[]}},
+   {"id":"y4009-monarchy","hanzi":"monarchy","pinyin":"","vi":"chế độ quân chủ","ex":{"tokens":["Britain","is","a","monarchy","."],"py":["","","","","."],"vi":"Nước Anh là một nước quân chủ.","alts":[]}},
+   {"id":"y4009-autocracy","hanzi":"autocracy","pinyin":"","vi":"chế độ chuyên quyền","ex":{"tokens":["The","country","slowly","became","an","autocracy","."],"py":["","","","","","","."],"vi":"Đất nước dần trở thành một chế độ chuyên quyền.","alts":[]}},
+   {"id":"y4009-oligarchy","hanzi":"oligarchy","pinyin":"","vi":"chế độ tài phiệt, đầu sỏ","ex":{"tokens":["A","small","oligarchy","controls","the","economy","."],"py":["","","","","","","."],"vi":"Một nhóm đầu sỏ nhỏ kiểm soát nền kinh tế.","alts":[]}},
+   {"id":"y4009-anarchy","hanzi":"anarchy","pinyin":"","vi":"tình trạng vô chính phủ","ex":{"tokens":["After","the","war","there","was","anarchy","in","the","city","."],"py":["","","","","","","","","","."],"vi":"Sau chiến tranh, thành phố rơi vào tình trạng vô chính phủ.","alts":[]}},
+   {"id":"y4009-socialism","hanzi":"socialism","pinyin":"","vi":"chủ nghĩa xã hội","ex":{"tokens":["He","wrote","a","book","about","socialism","."],"py":["","","","","","","."],"vi":"Ông ấy viết một cuốn sách về chủ nghĩa xã hội.","alts":[]}},
+   {"id":"y4009-communism","hanzi":"communism","pinyin":"","vi":"chủ nghĩa cộng sản","ex":{"tokens":["The","class","studied","the","history","of","communism","."],"py":["","","","","","","","."],"vi":"Lớp học nghiên cứu lịch sử chủ nghĩa cộng sản.","alts":[]}},
+   {"id":"y4009-capitalism","hanzi":"capitalism","pinyin":"","vi":"chủ nghĩa tư bản","ex":{"tokens":["Capitalism","depends","on","free","markets","."],"py":["","","","","","."],"vi":"Chủ nghĩa tư bản dựa vào thị trường tự do.","alts":[]}},
+   {"id":"y4009-fascism","hanzi":"fascism","pinyin":"","vi":"chủ nghĩa phát xít","ex":{"tokens":["Europe","fought","against","fascism","."],"py":["","","","","."],"vi":"Châu Âu đã chiến đấu chống chủ nghĩa phát xít.","alts":[]}}
+  ]},
+  {"id":"y4010","title":"Chính trị và nhà nước 3","desc":"Thể chế, chức vụ, hệ tư tưởng","icon":"Politics","unit":451,"course":"en","order":3880,"words":[
+   {"id":"y4010-liberalism","hanzi":"liberalism","pinyin":"","vi":"chủ nghĩa tự do","ex":{"tokens":["Liberalism","values","personal","freedom","."],"py":["","","","","."],"vi":"Chủ nghĩa tự do đề cao tự do cá nhân.","alts":[]}},
+   {"id":"y4010-conservatism","hanzi":"conservatism","pinyin":"","vi":"chủ nghĩa bảo thủ","ex":{"tokens":["Conservatism","prefers","slow","change","."],"py":["","","","","."],"vi":"Chủ nghĩa bảo thủ ưa thay đổi chậm.","alts":[]}},
+   {"id":"y4010-nationalism","hanzi":"nationalism","pinyin":"","vi":"chủ nghĩa dân tộc","ex":{"tokens":["Nationalism","grew","after","the","war","."],"py":["","","","","","."],"vi":"Chủ nghĩa dân tộc phát triển sau chiến tranh.","alts":[]}},
+   {"id":"y4010-populism","hanzi":"populism","pinyin":"","vi":"chủ nghĩa dân túy","ex":{"tokens":["Populism","is","rising","in","many","countries","."],"py":["","","","","","","."],"vi":"Chủ nghĩa dân túy đang lên ở nhiều nước.","alts":[]}},
+   {"id":"y4010-embargo","hanzi":"embargo","pinyin":"","vi":"lệnh cấm vận","ex":{"tokens":["The","embargo","stopped","all","oil","exports","."],"py":["","","","","","","."],"vi":"Lệnh cấm vận chặn mọi hoạt động xuất khẩu dầu.","alts":[]}},
+   {"id":"y4010-annex","hanzi":"annex","pinyin":"","vi":"sáp nhập (lãnh thổ)","ex":{"tokens":["The","empire","tried","to","annex","the","island","."],"py":["","","","","","","","."],"vi":"Đế quốc tìm cách sáp nhập hòn đảo.","alts":[]}},
+   {"id":"y4010-secede","hanzi":"secede","pinyin":"","vi":"ly khai","ex":{"tokens":["The","region","voted","to","secede","."],"py":["","","","","","."],"vi":"Vùng này bỏ phiếu ly khai.","alts":[]}},
+   {"id":"y4010-impeach","hanzi":"impeach","pinyin":"","vi":"luận tội (quan chức)","ex":{"tokens":["Congress","voted","to","impeach","the","president","."],"py":["","","","","","","."],"vi":"Quốc hội bỏ phiếu luận tội tổng thống.","alts":[]}},
+   {"id":"y4010-abdicate","hanzi":"abdicate","pinyin":"","vi":"thoái vị","ex":{"tokens":["The","king","chose","to","abdicate","."],"py":["","","","","","."],"vi":"Nhà vua quyết định thoái vị.","alts":[]}},
+   {"id":"y4010-inaugurate","hanzi":"inaugurate","pinyin":"","vi":"làm lễ nhậm chức; khánh thành","ex":{"tokens":["They","will","inaugurate","the","new","president","in","January","."],"py":["","","","","","","","","."],"vi":"Họ sẽ làm lễ nhậm chức cho tổng thống mới vào tháng Một.","alts":[]}},
+   {"id":"y4010-legislate","hanzi":"legislate","pinyin":"","vi":"lập pháp, làm luật","ex":{"tokens":["Parliament","must","legislate","to","protect","workers","."],"py":["","","","","","","."],"vi":"Quốc hội phải làm luật để bảo vệ người lao động.","alts":[]}},
+   {"id":"y4010-lobbyist","hanzi":"lobbyist","pinyin":"","vi":"người vận động hành lang","ex":{"tokens":["A","lobbyist","for","the","oil","industry","met","the","senator","."],"py":["","","","","","","","","","."],"vi":"Một người vận động hành lang cho ngành dầu khí gặp thượng nghị sĩ.","alts":[]}}
   ]}
  ]
 }
