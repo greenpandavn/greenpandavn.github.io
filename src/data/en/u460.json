@@ -3,7 +3,7 @@
   {"unit":460,"level":4,"title":"Phần 49: Mở rộng – Lịch sử","desc":"Lịch sử, Xã hội, Từ vựng tổng hợp","color":"sun","course":"en"}
  ],
  "lessons": [
-  {"id":"y4181","title":"Lịch sử 1","desc":"Thời kỳ, chế độ, chiến tranh, di tích","icon":"History","unit":460,"course":"en","order":5310,"words":[
+  {"id":"y4181","title":"Lịch sử 1","desc":"Thời kỳ, chế độ, chiến tranh, di tích","icon":"History","unit":460,"course":"en","order":5370,"words":[
    {"id":"y4181-stone_age","hanzi":"Stone Age","pinyin":"","vi":"thời kỳ đồ đá","ex":{"tokens":["People","in","the","Stone","Age","used","stone","tools","."],"py":["","","","","","","","","."],"vi":"Con người thời kỳ đồ đá dùng công cụ bằng đá.","alts":[]}},
    {"id":"y4181-bronze_age","hanzi":"Bronze Age","pinyin":"","vi":"thời kỳ đồ đồng","ex":{"tokens":["The","sword","dates","from","the","Bronze","Age","."],"py":["","","","","","","","."],"vi":"Thanh kiếm có từ thời kỳ đồ đồng.","alts":[]}},
    {"id":"y4181-iron_age","hanzi":"Iron Age","pinyin":"","vi":"thời kỳ đồ sắt","ex":{"tokens":["The","village","was","built","in","the","Iron","Age","."],"py":["","","","","","","","","."],"vi":"Ngôi làng được dựng từ thời kỳ đồ sắt.","alts":[]}},
@@ -19,7 +19,7 @@
    {"id":"y4181-emperor","hanzi":"emperor","pinyin":"","vi":"hoàng đế","ex":{"tokens":["The","emperor","ruled","for","forty","years","."],"py":["","","","","","","."],"vi":"Hoàng đế trị vì bốn mươi năm.","alts":[]}},
    {"id":"y4181-empress","hanzi":"empress","pinyin":"","vi":"nữ hoàng, hoàng hậu","ex":{"tokens":["The","empress","built","a","new","palace","."],"py":["","","","","","","."],"vi":"Nữ hoàng cho xây một cung điện mới.","alts":[]}}
   ]},
-  {"id":"y4182","title":"Lịch sử 2","desc":"Thời kỳ, chế độ, chiến tranh, di tích","icon":"History","unit":460,"course":"en","order":5320,"words":[
+  {"id":"y4182","title":"Lịch sử 2","desc":"Thời kỳ, chế độ, chiến tranh, di tích","icon":"History","unit":460,"course":"en","order":5380,"words":[
    {"id":"y4182-kingdom","hanzi":"kingdom","pinyin":"","vi":"vương quốc","ex":{"tokens":["The","kingdom","was","rich","and","peaceful","."],"py":["","","","","","","."],"vi":"Vương quốc giàu có và thanh bình.","alts":[]}},
    {"id":"y4182-city_state","hanzi":"city-state","pinyin":"","vi":"thành bang","ex":{"tokens":["Athens","was","a","powerful","city-state","."],"py":["","","","","","."],"vi":"Athens là một thành bang hùng mạnh.","alts":[]}},
    {"id":"y4182-chieftain","hanzi":"chieftain","pinyin":"","vi":"tù trưởng","ex":{"tokens":["The","chieftain","led","his","people","to","war","."],"py":["","","","","","","","."],"vi":"Tù trưởng dẫn dắt dân mình ra trận.","alts":[]}},
@@ -35,7 +35,7 @@
    {"id":"y4182-slave_trade","hanzi":"slave trade","pinyin":"","vi":"buôn bán nô lệ","ex":{"tokens":["Britain","ended","the","slave","trade","in","1807","."],"py":["","","","","","","","."],"vi":"Anh chấm dứt buôn bán nô lệ năm 1807.","alts":[]}},
    {"id":"y4182-abolition","hanzi":"abolition","pinyin":"","vi":"sự bãi bỏ","ex":{"tokens":["He","fought","for","the","abolition","of","slavery","."],"py":["","","","","","","","."],"vi":"Ông ấy đấu tranh cho việc bãi bỏ chế độ nô lệ.","alts":[]}}
   ]},
-  {"id":"y4183","title":"Lịch sử 3","desc":"Thời kỳ, chế độ, chiến tranh, di tích","icon":"History","unit":460,"course":"en","order":5330,"words":[
+  {"id":"y4183","title":"Lịch sử 3","desc":"Thời kỳ, chế độ, chiến tranh, di tích","icon":"History","unit":460,"course":"en","order":5390,"words":[
    {"id":"y4183-mutiny","hanzi":"mutiny","pinyin":"","vi":"cuộc binh biến, nổi loạn trên tàu","ex":{"tokens":["The","sailors","planned","a","mutiny","."],"py":["","","","","","."],"vi":"Các thủy thủ âm mưu nổi loạn.","alts":[]}},
    {"id":"y4183-civil_war","hanzi":"civil war","pinyin":"","vi":"nội chiến","ex":{"tokens":["The","civil","war","lasted","four","years","."],"py":["","","","","","","."],"vi":"Cuộc nội chiến kéo dài bốn năm.","alts":[]}},
    {"id":"y4183-world_war","hanzi":"world war","pinyin":"","vi":"chiến tranh thế giới","ex":{"tokens":["My","grandfather","fought","in","a","world","war","."],"py":["","","","","","","","."],"vi":"Ông tôi từng chiến đấu trong một cuộc chiến tranh thế giới.","alts":[]}},
@@ -51,7 +51,7 @@
    {"id":"y4183-catacomb","hanzi":"catacomb","pinyin":"","vi":"hầm mộ","ex":{"tokens":["Tourists","walked","through","the","catacomb","."],"py":["","","","","","."],"vi":"Du khách đi qua khu hầm mộ.","alts":[]}},
    {"id":"y4183-archaeologist","hanzi":"archaeologist","pinyin":"","vi":"nhà khảo cổ","ex":{"tokens":["The","archaeologist","found","an","old","coin","."],"py":["","","","","","","."],"vi":"Nhà khảo cổ tìm thấy một đồng xu cổ.","alts":[]}}
   ]},
-  {"id":"y4184","title":"Xã hội 2","desc":"Tầng lớp, dân số, quyền con người, cộng đồng","icon":"Society","unit":460,"course":"en","order":5340,"words":[
+  {"id":"y4184","title":"Xã hội 2","desc":"Tầng lớp, dân số, quyền con người, cộng đồng","icon":"Society","unit":460,"course":"en","order":5400,"words":[
    {"id":"y4184-caste","hanzi":"caste","pinyin":"","vi":"đẳng cấp","ex":{"tokens":["He","was","born","into","a","low","caste","."],"py":["","","","","","","","."],"vi":"Ông ấy sinh ra trong một đẳng cấp thấp.","alts":[]}},
    {"id":"y4184-social_class","hanzi":"social class","pinyin":"","vi":"tầng lớp xã hội","ex":{"tokens":["Social","class","still","affects","education","."],"py":["","","","","","."],"vi":"Tầng lớp xã hội vẫn ảnh hưởng đến giáo dục.","alts":[]}},
    {"id":"y4184-working_class","hanzi":"working class","pinyin":"","vi":"tầng lớp lao động","ex":{"tokens":["He","grew","up","in","a","working","class","family","."],"py":["","","","","","","","","."],"vi":"Anh ấy lớn lên trong một gia đình lao động.","alts":[]}},
@@ -67,7 +67,7 @@
    {"id":"y4184-aging_population","hanzi":"aging population","pinyin":"","vi":"dân số già hóa","ex":{"tokens":["Japan","has","an","aging","population","."],"py":["","","","","","."],"vi":"Nhật Bản có dân số già hóa.","alts":[]}},
    {"id":"y4184-baby_boom","hanzi":"baby boom","pinyin":"","vi":"thời kỳ bùng nổ trẻ sơ sinh","ex":{"tokens":["There","was","a","baby","boom","after","the","war","."],"py":["","","","","","","","","."],"vi":"Có một thời kỳ bùng nổ trẻ sơ sinh sau chiến tranh.","alts":[]}}
   ]},
-  {"id":"y4185","title":"Xã hội 3","desc":"Tầng lớp, dân số, quyền con người, cộng đồng","icon":"Society","unit":460,"course":"en","order":5350,"words":[
+  {"id":"y4185","title":"Xã hội 3","desc":"Tầng lớp, dân số, quyền con người, cộng đồng","icon":"Society","unit":460,"course":"en","order":5410,"words":[
    {"id":"y4185-generation_gap","hanzi":"generation gap","pinyin":"","vi":"khoảng cách thế hệ","ex":{"tokens":["Music","shows","the","generation","gap","in","our","family","."],"py":["","","","","","","","","."],"vi":"Âm nhạc cho thấy khoảng cách thế hệ trong nhà tôi.","alts":[]}},
    {"id":"y4185-gender_equality","hanzi":"gender equality","pinyin":"","vi":"bình đẳng giới","ex":{"tokens":["The","company","supports","gender","equality","."],"py":["","","","","","."],"vi":"Công ty ủng hộ bình đẳng giới.","alts":[]}},
    {"id":"y4185-human_rights","hanzi":"human rights","pinyin":"","vi":"nhân quyền","ex":{"tokens":["Education","is","one","of","our","human","rights","."],"py":["","","","","","","","."],"vi":"Giáo dục là một trong các quyền con người.","alts":[]}},
@@ -83,7 +83,7 @@
    {"id":"y4185-grassroots","hanzi":"grassroots","pinyin":"","vi":"cơ sở, từ quần chúng","ex":{"tokens":["It","began","as","a","grassroots","campaign","."],"py":["","","","","","","."],"vi":"Nó bắt đầu như một chiến dịch từ quần chúng.","alts":[]}},
    {"id":"y4185-nonprofit","hanzi":"nonprofit","pinyin":"","vi":"phi lợi nhuận; tổ chức phi lợi nhuận","ex":{"tokens":["She","works","for","a","nonprofit","."],"py":["","","","","","."],"vi":"Cô ấy làm cho một tổ chức phi lợi nhuận.","alts":[]}}
   ]},
-  {"id":"y4186","title":"Từ vựng tổng hợp 3","desc":"Từ thuộc nhiều chủ đề","icon":"Mix","unit":460,"course":"en","order":5360,"words":[
+  {"id":"y4186","title":"Từ vựng tổng hợp 3","desc":"Từ thuộc nhiều chủ đề","icon":"Mix","unit":460,"course":"en","order":5420,"words":[
    {"id":"y4186-solvency","hanzi":"solvency","pinyin":"","vi":"khả năng thanh toán","ex":{"tokens":["The","auditors","checked","the","solvency","of","the","firm","."],"py":["","","","","","","","","."],"vi":"Kiểm toán viên kiểm tra khả năng thanh toán của công ty.","alts":[]}},
    {"id":"y4186-rosary","hanzi":"rosary","pinyin":"","vi":"chuỗi tràng hạt","ex":{"tokens":["She","held","a","rosary","while","she","prayed","."],"py":["","","","","","","","."],"vi":"Bà ấy cầm chuỗi tràng hạt khi cầu nguyện.","alts":[]}},
    {"id":"y4186-alliteration","hanzi":"alliteration","pinyin":"","vi":"phép điệp âm đầu","ex":{"tokens":["The","poem","uses","alliteration","in","every","line","."],"py":["","","","","","","","."],"vi":"Bài thơ dùng phép điệp âm ở mọi dòng.","alts":[]}},

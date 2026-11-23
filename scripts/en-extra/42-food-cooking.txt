@@ -1,0 +1,78 @@
+# Level 2 (Trung cấp): đồ ăn, thức uống và nấu nướng.
+@2|Món ăn và nấu nướng|Món ăn, nguyên liệu, đồ uống, cách chế biến|Cooking
+main course|món chính|I had fish for my main course.|Tôi ăn cá cho món chính.
+side dish|món ăn kèm|Rice is a common side dish.|Cơm là món ăn kèm phổ biến.
+set meal|suất ăn theo thực đơn cố định|The set meal includes a drink.|Suất ăn cố định có kèm đồ uống.
+snack bar|quầy bán đồ ăn nhẹ|We bought chips at the snack bar.|Chúng tôi mua khoai tây chiên ở quầy đồ ăn nhẹ.
+picnic basket|giỏ dã ngoại|She packed a picnic basket.|Cô ấy chuẩn bị một giỏ dã ngoại.
+frying pan|chảo rán|Heat some oil in a frying pan.|Hãy đun nóng ít dầu trong chảo rán.
+baking tray|khay nướng|Put the cookies on a baking tray.|Hãy xếp bánh quy lên khay nướng.
+mixing bowl|tô trộn|Break two eggs into a mixing bowl.|Hãy đập hai quả trứng vào tô trộn.
+oven glove|găng tay lò nướng|Use an oven glove; the dish is hot.|Hãy dùng găng tay lò nướng; đĩa nóng lắm.
+tin opener|đồ khui hộp|I cannot find the tin opener.|Tôi không tìm thấy đồ khui hộp.
+ground beef|thịt bò xay|I need ground beef for the burgers.|Tôi cần thịt bò xay để làm bánh mì kẹp.
+chicken breast|ức gà|Grill the chicken breast for ten minutes.|Hãy nướng ức gà trong mười phút.
+chicken wing|cánh gà|He ate one chicken wing after another.|Anh ấy ăn hết cánh gà này đến cánh gà khác.
+pork chop|sườn cốt lết|I ordered a pork chop with rice.|Tôi gọi một miếng sườn cốt lết ăn với cơm.
+fish fillet|phi lê cá|Fry the fish fillet in butter.|Hãy chiên phi lê cá với bơ.
+fried egg|trứng ốp la|I like a fried egg on toast.|Tôi thích trứng ốp la ăn với bánh mì nướng.
+boiled egg|trứng luộc|She eats a boiled egg every morning.|Sáng nào cô ấy cũng ăn một quả trứng luộc.
+scrambled eggs|trứng bác|Dad makes great scrambled eggs.|Bố làm món trứng bác rất ngon.
+mashed potatoes|khoai tây nghiền|The steak comes with mashed potatoes.|Bít tết được dọn kèm khoai tây nghiền.
+baked potato|khoai tây nướng|I had a baked potato with cheese.|Tôi ăn khoai tây nướng với phô mai.
+french fries|khoai tây chiên|The children want french fries.|Bọn trẻ muốn ăn khoai tây chiên.
+fried rice|cơm chiên|We ordered fried rice with shrimp.|Chúng tôi gọi cơm chiên tôm.
+steamed rice|cơm trắng|The fish is served with steamed rice.|Món cá được dọn kèm cơm trắng.
+sticky rice|xôi, cơm nếp|We eat sticky rice for breakfast.|Chúng tôi ăn xôi vào bữa sáng.
+rice noodles|bún, phở, mì gạo|Pho is made with rice noodles.|Phở được làm từ bánh phở gạo.
+spring roll|chả giò, nem cuốn|I ate a spring roll with fish sauce.|Tôi ăn một cuốn chả giò chấm nước mắm.
+hot pot|lẩu|We had hot pot on a cold night.|Chúng tôi ăn lẩu vào một đêm lạnh.
+chili sauce|tương ớt|Do you want chili sauce on it?|Bạn có muốn thêm tương ớt không?
+olive oil|dầu ô liu|Add a little olive oil to the salad.|Hãy thêm chút dầu ô liu vào món rau trộn.
+cooking oil|dầu ăn|We are out of cooking oil.|Nhà mình hết dầu ăn rồi.
+whipped cream|kem tươi đánh bông|I love strawberries with whipped cream.|Tôi thích dâu tây ăn với kem tươi đánh bông.
+sour cream|kem chua|Put some sour cream on the potato.|Hãy cho ít kem chua lên khoai tây.
+cream cheese|phô mai kem|Spread cream cheese on the bread.|Hãy phết phô mai kem lên bánh mì.
+peanut butter|bơ đậu phộng|He eats peanut butter every day.|Ngày nào anh ấy cũng ăn bơ đậu phộng.
+maple syrup|xi-rô cây phong|Pour maple syrup over the pancakes.|Hãy rưới xi-rô cây phong lên bánh kếp.
+brown sugar|đường nâu|The recipe needs brown sugar.|Công thức cần đường nâu.
+sea salt|muối biển|Add a little sea salt.|Hãy thêm chút muối biển.
+black pepper|tiêu đen|I like black pepper on my eggs.|Tôi thích rắc tiêu đen lên trứng.
+lemongrass|sả|The soup smells of lemongrass.|Món canh thơm mùi sả.
+green onion|hành lá|Chop a green onion for the soup.|Hãy thái một cây hành lá cho món canh.
+beetroot|củ dền|Beetroot makes the soup red.|Củ dền làm món canh có màu đỏ.
+pomelo|quả bưởi|We ate pomelo after dinner.|Chúng tôi ăn bưởi sau bữa tối.
+sesame seed|hạt mè|There is a sesame seed in my teeth.|Có một hạt mè dính trong răng tôi.
+sunflower seed|hạt hướng dương|The bird ate a sunflower seed.|Con chim ăn một hạt hướng dương.
+soft drink|nước ngọt|Would you like a soft drink?|Bạn có muốn uống nước ngọt không?
+fizzy drink|nước ngọt có ga|Too much fizzy drink is bad for your teeth.|Uống quá nhiều nước ngọt có ga hại răng.
+iced tea|trà đá|I will have an iced tea, please.|Cho tôi một ly trà đá.
+green tea|trà xanh|My father drinks green tea every morning.|Bố tôi uống trà xanh mỗi sáng.
+herbal tea|trà thảo mộc|Herbal tea helps me sleep.|Trà thảo mộc giúp tôi ngủ ngon.
+hot chocolate|sô cô la nóng|We drank hot chocolate by the fire.|Chúng tôi uống sô cô la nóng bên lò sưởi.
+bottled water|nước đóng chai|Buy some bottled water for the trip.|Hãy mua ít nước đóng chai cho chuyến đi.
+sparkling water|nước khoáng có ga|Still or sparkling water?|Nước thường hay nước khoáng có ga?
+fruit juice|nước ép trái cây|The children drink fruit juice at breakfast.|Bọn trẻ uống nước ép trái cây vào bữa sáng.
+coconut water|nước dừa|Coconut water is great on a hot day.|Nước dừa rất tuyệt trong ngày nóng.
+sugarcane juice|nước mía|We stopped for a glass of sugarcane juice.|Chúng tôi dừng lại uống một ly nước mía.
+energy drink|nước tăng lực|He had an energy drink before the game.|Anh ấy uống nước tăng lực trước trận đấu.
+tap water|nước máy|Is the tap water safe to drink?|Nước máy có uống được không?
+ripe|chín|These bananas are not ripe yet.|Những quả chuối này chưa chín.
+stale|ôi, cũ, hết giòn|The bread is stale.|Bánh mì đã bị cũ.
+frozen|đông lạnh|We bought frozen peas.|Chúng tôi mua đậu Hà Lan đông lạnh.
+canned|đóng hộp|I made soup from canned tomatoes.|Tôi nấu canh từ cà chua đóng hộp.
+dried|sấy khô, phơi khô|She put dried fruit in the cake.|Cô ấy cho trái cây sấy khô vào bánh.
+pickled|muối chua, ngâm giấm|Pickled vegetables go well with rice.|Rau củ muối chua rất hợp ăn với cơm.
+smoked|hun khói|I love smoked fish.|Tôi thích cá hun khói.
+grilled|nướng (vỉ)|We had grilled pork for lunch.|Chúng tôi ăn thịt heo nướng vào bữa trưa.
+roasted|quay, rang|He bought a bag of roasted peanuts.|Anh ấy mua một túi đậu phộng rang.
+steamed|hấp|Steamed fish is healthy.|Cá hấp tốt cho sức khỏe.
+baked|nướng (lò)|The baked apples smell wonderful.|Táo nướng thơm tuyệt.
+fried|chiên, rán|Fried chicken is his favorite.|Gà rán là món khoái khẩu của anh ấy.
+boiled|luộc|We ate boiled corn.|Chúng tôi ăn bắp luộc.
+tough|dai; khó khăn|This meat is too tough to chew.|Thịt này dai quá, không nhai nổi.
+greasy|nhiều dầu mỡ|The pizza was too greasy.|Bánh pizza quá nhiều dầu mỡ.
+creamy|béo ngậy, mịn như kem|The soup is thick and creamy.|Món súp đặc và béo ngậy.
+crispy|giòn rụm|I like crispy bacon.|Tôi thích thịt xông khói giòn rụm.
+bland|nhạt nhẽo|The rice was bland without sauce.|Cơm nhạt nhẽo khi không có nước chấm.
+mouthwatering|ngon chảy nước miếng|The smell from the kitchen is mouthwatering.|Mùi thơm từ bếp làm chảy nước miếng.

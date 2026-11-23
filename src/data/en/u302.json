@@ -3,7 +3,7 @@
   {"unit":302,"level":3,"title":"Phần 22: Con người và xã hội","desc":"Tính cách, quan hệ, nhà ở, pháp luật, truyền thông","color":"sky","course":"en"}
  ],
  "lessons": [
-  {"id":"a17","title":"Tính cách 2","desc":"Đáng tin, ích kỷ, bướng bỉnh, hào hứng","icon":"Me","unit":302,"course":"en","order":2090,"words":[
+  {"id":"a17","title":"Tính cách 2","desc":"Đáng tin, ích kỷ, bướng bỉnh, hào hứng","icon":"Me","unit":302,"course":"en","order":2150,"words":[
    {"id":"a17-reliable","hanzi":"reliable","pinyin":"","vi":"đáng tin cậy","ex":{"tokens":["He","is","a","reliable","friend","."],"py":["","","","","","."],"vi":"Anh ấy là một người bạn đáng tin cậy.","alts":[]}},
    {"id":"a17-selfish","hanzi":"selfish","pinyin":"","vi":"ích kỷ","ex":{"tokens":["Do","not","be","so","selfish","."],"py":["","","","","","."],"vi":"Đừng ích kỷ như vậy.","alts":[]}},
    {"id":"a17-stubborn","hanzi":"stubborn","pinyin":"","vi":"bướng bỉnh, cứng đầu","ex":{"tokens":["My","little","brother","is","very","stubborn","."],"py":["","","","","","","."],"vi":"Em trai tôi rất bướng bỉnh.","alts":[]}},
@@ -17,7 +17,7 @@
    {"id":"a17-ambitious","hanzi":"ambitious","pinyin":"","vi":"có tham vọng","ex":{"tokens":["He","is","young","and","ambitious","."],"py":["","","","","","."],"vi":"Anh ấy trẻ và có tham vọng.","alts":[]}},
    {"id":"a17-independent","hanzi":"independent","pinyin":"","vi":"độc lập","ex":{"tokens":["She","is","an","independent","woman","."],"py":["","","","","","."],"vi":"Cô ấy là một người phụ nữ độc lập.","alts":[]}}
   ]},
-  {"id":"a18","title":"Các mối quan hệ","desc":"Hôn nhân, tin tưởng, tôn trọng, cãi nhau","icon":"Love","unit":302,"course":"en","order":2100,"words":[
+  {"id":"a18","title":"Các mối quan hệ","desc":"Hôn nhân, tin tưởng, tôn trọng, cãi nhau","icon":"Love","unit":302,"course":"en","order":2160,"words":[
    {"id":"a18-relationship","hanzi":"relationship","pinyin":"","vi":"mối quan hệ","ex":{"tokens":["They","have","a","good","relationship","."],"py":["","","","","","."],"vi":"Họ có một mối quan hệ tốt.","alts":[]}},
    {"id":"a18-marriage","hanzi":"marriage","pinyin":"","vi":"hôn nhân","ex":{"tokens":["Their","marriage","is","very","happy","."],"py":["","","","","","."],"vi":"Hôn nhân của họ rất hạnh phúc.","alts":[]}},
    {"id":"a18-wedding","hanzi":"wedding","pinyin":"","vi":"đám cưới","ex":{"tokens":["The","wedding","is","next","Saturday","."],"py":["","","","","","."],"vi":"Đám cưới diễn ra vào thứ Bảy tới.","alts":[]}},
@@ -31,7 +31,7 @@
    {"id":"a18-relative","hanzi":"relative","pinyin":"","vi":"họ hàng","ex":{"tokens":["A","relative","of","mine","lives","in","Hue","."],"py":["","","","","","","","."],"vi":"Một người họ hàng của tôi sống ở Huế.","alts":[]}},
    {"id":"a18-generation","hanzi":"generation","pinyin":"","vi":"thế hệ","ex":{"tokens":["Each","generation","has","its","own","music","."],"py":["","","","","","","."],"vi":"Mỗi thế hệ có âm nhạc của riêng mình.","alts":[]}}
   ]},
-  {"id":"a19","title":"Cảm xúc sâu hơn","desc":"Thất vọng, biết ơn, ghen tị, xấu hổ","icon":"Feel","unit":302,"course":"en","order":2110,"words":[
+  {"id":"a19","title":"Cảm xúc sâu hơn","desc":"Thất vọng, biết ơn, ghen tị, xấu hổ","icon":"Feel","unit":302,"course":"en","order":2170,"words":[
    {"id":"a19-disappointed","hanzi":"disappointed","pinyin":"","vi":"thất vọng","ex":{"tokens":["I","was","disappointed","with","the","movie","."],"py":["","","","","","","."],"vi":"Tôi đã thất vọng về bộ phim.","alts":[]}},
    {"id":"a19-grateful","hanzi":"grateful","pinyin":"","vi":"biết ơn","ex":{"tokens":["I","am","grateful","for","your","help","."],"py":["","","","","","","."],"vi":"Tôi biết ơn sự giúp đỡ của bạn.","alts":[]}},
    {"id":"a19-jealous","hanzi":"jealous","pinyin":"","vi":"ghen tị","ex":{"tokens":["He","is","jealous","of","his","brother","."],"py":["","","","","","","."],"vi":"Anh ấy ghen tị với anh trai mình.","alts":[]}},
@@ -45,7 +45,7 @@
    {"id":"a19-depressed","hanzi":"depressed","pinyin":"","vi":"chán nản, trầm cảm","ex":{"tokens":["She","felt","depressed","after","losing","her","job","."],"py":["","","","","","","","."],"vi":"Cô ấy thấy chán nản sau khi mất việc.","alts":[]}},
    {"id":"a19-relieved","hanzi":"relieved","pinyin":"","vi":"nhẹ nhõm","ex":{"tokens":["I","was","relieved","to","hear","the","news","."],"py":["","","","","","","","."],"vi":"Tôi thấy nhẹ nhõm khi nghe tin.","alts":[]}}
   ]},
-  {"id":"a20","title":"Ngoại hình","desc":"Dáng người, tóc, gầy, đẹp trai","icon":"Look","unit":302,"course":"en","order":2120,"words":[
+  {"id":"a20","title":"Ngoại hình","desc":"Dáng người, tóc, gầy, đẹp trai","icon":"Look","unit":302,"course":"en","order":2180,"words":[
    {"id":"a20-appearance","hanzi":"appearance","pinyin":"","vi":"ngoại hình, vẻ bề ngoài","ex":{"tokens":["Do","not","judge","people","by","their","appearance","."],"py":["","","","","","","","."],"vi":"Đừng đánh giá người khác qua vẻ bề ngoài.","alts":[]}},
    {"id":"a20-handsome","hanzi":"handsome","pinyin":"","vi":"đẹp trai","ex":{"tokens":["Her","husband","is","tall","and","handsome","."],"py":["","","","","","","."],"vi":"Chồng cô ấy cao và đẹp trai.","alts":[]}},
    {"id":"a20-pretty","hanzi":"pretty","pinyin":"","vi":"xinh xắn","ex":{"tokens":["What","a","pretty","dress","!"],"py":["","","","","!"],"vi":"Chiếc váy xinh quá!","alts":[]}},
@@ -59,7 +59,7 @@
    {"id":"a20-elegant","hanzi":"elegant","pinyin":"","vi":"thanh lịch","ex":{"tokens":["She","looks","elegant","in","that","dress","."],"py":["","","","","","","."],"vi":"Cô ấy trông thanh lịch trong chiếc váy đó.","alts":[]}},
    {"id":"a20-height","hanzi":"height","pinyin":"","vi":"chiều cao","ex":{"tokens":["What","is","your","height","?"],"py":["","","","","?"],"vi":"Chiều cao của bạn là bao nhiêu?","alts":[]}}
   ]},
-  {"id":"a21","title":"Các giai đoạn cuộc đời","desc":"Thời thơ ấu, thanh niên, người lớn, tuổi già","icon":"Life","unit":302,"course":"en","order":2130,"words":[
+  {"id":"a21","title":"Các giai đoạn cuộc đời","desc":"Thời thơ ấu, thanh niên, người lớn, tuổi già","icon":"Life","unit":302,"course":"en","order":2190,"words":[
    {"id":"a21-childhood","hanzi":"childhood","pinyin":"","vi":"thời thơ ấu","ex":{"tokens":["I","had","a","happy","childhood","."],"py":["","","","","","."],"vi":"Tôi đã có một thời thơ ấu hạnh phúc.","alts":[]}},
    {"id":"a21-teenager","hanzi":"teenager","pinyin":"","vi":"thiếu niên","ex":{"tokens":["My","son","is","a","teenager","now","."],"py":["","","","","","","."],"vi":"Con trai tôi bây giờ là thiếu niên.","alts":[]}},
    {"id":"a21-adult","hanzi":"adult","pinyin":"","vi":"người lớn","ex":{"tokens":["This","movie","is","for","adult","viewers","."],"py":["","","","","","","."],"vi":"Bộ phim này dành cho khán giả người lớn.","alts":[]}},
@@ -73,7 +73,7 @@
    {"id":"a21-funeral","hanzi":"funeral","pinyin":"","vi":"đám tang","ex":{"tokens":["Many","people","came","to","the","funeral","."],"py":["","","","","","","."],"vi":"Nhiều người đã đến dự đám tang.","alts":[]}},
    {"id":"a21-memory","hanzi":"memory","pinyin":"","vi":"ký ức, trí nhớ","ex":{"tokens":["I","have","a","good","memory","for","names","."],"py":["","","","","","","","."],"vi":"Tôi có trí nhớ tốt về tên người.","alts":[]}}
   ]},
-  {"id":"a22","title":"Nhà ở","desc":"Căn hộ, chủ nhà, người thuê, nội thất","icon":"Home","unit":302,"course":"en","order":2140,"words":[
+  {"id":"a22","title":"Nhà ở","desc":"Căn hộ, chủ nhà, người thuê, nội thất","icon":"Home","unit":302,"course":"en","order":2200,"words":[
    {"id":"a22-apartment","hanzi":"apartment","pinyin":"","vi":"căn hộ","ex":{"tokens":["We","live","in","a","small","apartment","."],"py":["","","","","","","."],"vi":"Chúng tôi sống trong một căn hộ nhỏ.","alts":[]}},
    {"id":"a22-landlord","hanzi":"landlord","pinyin":"","vi":"chủ nhà cho thuê","ex":{"tokens":["The","landlord","wants","the","rent","today","."],"py":["","","","","","","."],"vi":"Chủ nhà muốn lấy tiền thuê hôm nay.","alts":[]}},
    {"id":"a22-tenant","hanzi":"tenant","pinyin":"","vi":"người thuê nhà","ex":{"tokens":["The","new","tenant","is","very","quiet","."],"py":["","","","","","","."],"vi":"Người thuê nhà mới rất yên lặng.","alts":[]}},
@@ -87,7 +87,7 @@
    {"id":"a22-shelf","hanzi":"shelf","pinyin":"","vi":"kệ, giá","ex":{"tokens":["Put","the","books","on","the","shelf","."],"py":["","","","","","","."],"vi":"Hãy để sách lên kệ.","alts":[]}},
    {"id":"a22-decorate","hanzi":"decorate","pinyin":"","vi":"trang trí","ex":{"tokens":["We","decorate","the","house","before","Tet","."],"py":["","","","","","","."],"vi":"Chúng tôi trang trí nhà cửa trước Tết.","alts":[]}}
   ]},
-  {"id":"a23","title":"Đời sống thành thị","desc":"Trung tâm, ngoại ô, đông đúc, giao thông","icon":"City","unit":302,"course":"en","order":2150,"words":[
+  {"id":"a23","title":"Đời sống thành thị","desc":"Trung tâm, ngoại ô, đông đúc, giao thông","icon":"City","unit":302,"course":"en","order":2210,"words":[
    {"id":"a23-downtown","hanzi":"downtown","pinyin":"","vi":"trung tâm thành phố","ex":{"tokens":["My","office","is","downtown","."],"py":["","","","","."],"vi":"Văn phòng của tôi ở trung tâm thành phố.","alts":[]}},
    {"id":"a23-suburb","hanzi":"suburb","pinyin":"","vi":"vùng ngoại ô","ex":{"tokens":["They","moved","to","a","quiet","suburb","."],"py":["","","","","","","."],"vi":"Họ đã chuyển đến một vùng ngoại ô yên tĩnh.","alts":[]}},
    {"id":"a23-crowded","hanzi":"crowded","pinyin":"","vi":"đông đúc","ex":{"tokens":["The","bus","is","crowded","in","the","morning","."],"py":["","","","","","","","."],"vi":"Xe buýt đông đúc vào buổi sáng.","alts":[]}},
@@ -101,7 +101,7 @@
    {"id":"a23-square","hanzi":"square","pinyin":"","vi":"quảng trường, hình vuông","ex":{"tokens":["We","met","in","the","main","square","."],"py":["","","","","","","."],"vi":"Chúng tôi đã gặp nhau ở quảng trường chính.","alts":[]}},
    {"id":"a23-facility","hanzi":"facility","pinyin":"","vi":"cơ sở vật chất, tiện nghi","ex":{"tokens":["The","hotel","has","a","sports","facility","."],"py":["","","","","","","."],"vi":"Khách sạn có một khu thể thao.","alts":[]}}
   ]},
-  {"id":"a24","title":"Nông thôn","desc":"Làng quê, cánh đồng, thu hoạch, yên bình","icon":"Farm","unit":302,"course":"en","order":2160,"words":[
+  {"id":"a24","title":"Nông thôn","desc":"Làng quê, cánh đồng, thu hoạch, yên bình","icon":"Farm","unit":302,"course":"en","order":2220,"words":[
    {"id":"a24-countryside","hanzi":"countryside","pinyin":"","vi":"vùng nông thôn","ex":{"tokens":["My","grandparents","live","in","the","countryside","."],"py":["","","","","","","."],"vi":"Ông bà tôi sống ở nông thôn.","alts":[]}},
    {"id":"a24-village","hanzi":"village","pinyin":"","vi":"ngôi làng","ex":{"tokens":["The","village","has","only","fifty","houses","."],"py":["","","","","","","."],"vi":"Ngôi làng chỉ có năm mươi ngôi nhà.","alts":[]}},
    {"id":"a24-harvest","hanzi":"harvest","pinyin":"","vi":"vụ thu hoạch, thu hoạch","ex":{"tokens":["Farmers","harvest","rice","twice","a","year","."],"py":["","","","","","","."],"vi":"Nông dân thu hoạch lúa hai lần một năm.","alts":[]}},
@@ -115,7 +115,7 @@
    {"id":"a24-pond","hanzi":"pond","pinyin":"","vi":"cái ao","ex":{"tokens":["There","are","fish","in","the","pond","."],"py":["","","","","","","."],"vi":"Có cá ở trong ao.","alts":[]}},
    {"id":"a24-path","hanzi":"path","pinyin":"","vi":"lối đi, đường mòn","ex":{"tokens":["Follow","this","path","to","the","river","."],"py":["","","","","","","."],"vi":"Hãy đi theo lối này ra sông.","alts":[]}}
   ]},
-  {"id":"a25","title":"Tội phạm 1","desc":"Trộm, cướp, cảnh sát, nạn nhân","icon":"Crim","unit":302,"course":"en","order":2170,"words":[
+  {"id":"a25","title":"Tội phạm 1","desc":"Trộm, cướp, cảnh sát, nạn nhân","icon":"Crim","unit":302,"course":"en","order":2230,"words":[
    {"id":"a25-crime","hanzi":"crime","pinyin":"","vi":"tội phạm, tội ác","ex":{"tokens":["Crime","is","low","in","this","town","."],"py":["","","","","","","."],"vi":"Tội phạm ở thị trấn này thấp.","alts":[]}},
    {"id":"a25-thief","hanzi":"thief","pinyin":"","vi":"kẻ trộm","ex":{"tokens":["The","thief","took","my","wallet","."],"py":["","","","","","."],"vi":"Tên trộm đã lấy ví của tôi.","alts":[]}},
    {"id":"a25-steal","hanzi":"steal","pinyin":"","vi":"ăn trộm","ex":{"tokens":["Someone","tried","to","steal","my","bike","."],"py":["","","","","","","."],"vi":"Ai đó đã cố lấy trộm xe đạp của tôi.","alts":[]}},
@@ -129,7 +129,7 @@
    {"id":"a25-violence","hanzi":"violence","pinyin":"","vi":"bạo lực","ex":{"tokens":["We","must","stop","violence","at","school","."],"py":["","","","","","","."],"vi":"Chúng ta phải ngăn chặn bạo lực học đường.","alts":[]}},
    {"id":"a25-suspect","hanzi":"suspect","pinyin":"","vi":"nghi phạm, nghi ngờ","ex":{"tokens":["The","suspect","ran","away","."],"py":["","","","","."],"vi":"Nghi phạm đã bỏ chạy.","alts":[]}}
   ]},
-  {"id":"a26","title":"Pháp luật","desc":"Tòa án, luật sư, thẩm phán, quyền","icon":"Law","unit":302,"course":"en","order":2180,"words":[
+  {"id":"a26","title":"Pháp luật","desc":"Tòa án, luật sư, thẩm phán, quyền","icon":"Law","unit":302,"course":"en","order":2240,"words":[
    {"id":"a26-court","hanzi":"court","pinyin":"","vi":"tòa án, sân (thể thao)","ex":{"tokens":["He","must","go","to","court","next","week","."],"py":["","","","","","","","."],"vi":"Anh ấy phải ra tòa vào tuần sau.","alts":[]}},
    {"id":"a26-lawyer","hanzi":"lawyer","pinyin":"","vi":"luật sư","ex":{"tokens":["You","should","talk","to","a","lawyer","."],"py":["","","","","","","."],"vi":"Bạn nên nói chuyện với luật sư.","alts":[]}},
    {"id":"a26-judge","hanzi":"judge","pinyin":"","vi":"thẩm phán, đánh giá","ex":{"tokens":["The","judge","listened","to","both","sides","."],"py":["","","","","","","."],"vi":"Thẩm phán đã lắng nghe cả hai bên.","alts":[]}},
@@ -143,7 +143,7 @@
    {"id":"a26-rights","hanzi":"rights","pinyin":"","vi":"quyền, quyền lợi","ex":{"tokens":["Children","have","rights","too","."],"py":["","","","","."],"vi":"Trẻ em cũng có quyền.","alts":[]}},
    {"id":"a26-license","hanzi":"license","pinyin":"","vi":"giấy phép, bằng lái","ex":{"tokens":["I","got","my","driving","license","last","year","."],"py":["","","","","","","","."],"vi":"Tôi lấy bằng lái xe năm ngoái.","alts":[]}}
   ]},
-  {"id":"a27","title":"Chính trị 1","desc":"Bầu cử, tổng thống, chính sách, công dân","icon":"Vote","unit":302,"course":"en","order":2190,"words":[
+  {"id":"a27","title":"Chính trị 1","desc":"Bầu cử, tổng thống, chính sách, công dân","icon":"Vote","unit":302,"course":"en","order":2250,"words":[
    {"id":"a27-politics","hanzi":"politics","pinyin":"","vi":"chính trị","ex":{"tokens":["He","is","not","interested","in","politics","."],"py":["","","","","","","."],"vi":"Anh ấy không quan tâm đến chính trị.","alts":[]}},
    {"id":"a27-election","hanzi":"election","pinyin":"","vi":"cuộc bầu cử","ex":{"tokens":["The","election","is","in","November","."],"py":["","","","","","."],"vi":"Cuộc bầu cử diễn ra vào tháng Mười Một.","alts":[]}},
    {"id":"a27-vote","hanzi":"vote","pinyin":"","vi":"bỏ phiếu, lá phiếu","ex":{"tokens":["Citizens","can","vote","at","eighteen","."],"py":["","","","","","."],"vi":"Công dân có thể bỏ phiếu khi mười tám tuổi.","alts":[]}},
@@ -157,7 +157,7 @@
    {"id":"a27-nation","hanzi":"nation","pinyin":"","vi":"quốc gia, dân tộc","ex":{"tokens":["The","whole","nation","watched","the","match","."],"py":["","","","","","","."],"vi":"Cả nước đã xem trận đấu.","alts":[]}},
    {"id":"a27-freedom","hanzi":"freedom","pinyin":"","vi":"sự tự do","ex":{"tokens":["Freedom","is","important","to","everyone","."],"py":["","","","","","."],"vi":"Tự do quan trọng với tất cả mọi người.","alts":[]}}
   ]},
-  {"id":"a28","title":"Truyền thông","desc":"Báo chí, phóng viên, tiêu đề, phát sóng","icon":"TV","unit":302,"course":"en","order":2200,"words":[
+  {"id":"a28","title":"Truyền thông","desc":"Báo chí, phóng viên, tiêu đề, phát sóng","icon":"TV","unit":302,"course":"en","order":2260,"words":[
    {"id":"a28-media","hanzi":"media","pinyin":"","vi":"truyền thông","ex":{"tokens":["The","media","reported","the","story","quickly","."],"py":["","","","","","","."],"vi":"Truyền thông đã đưa tin về câu chuyện rất nhanh.","alts":[]}},
    {"id":"a28-journalist","hanzi":"journalist","pinyin":"","vi":"nhà báo","ex":{"tokens":["The","journalist","asked","many","questions","."],"py":["","","","","","."],"vi":"Nhà báo đã hỏi nhiều câu hỏi.","alts":[]}},
    {"id":"a28-headline","hanzi":"headline","pinyin":"","vi":"tiêu đề báo","ex":{"tokens":["Did","you","read","the","headline","today","?"],"py":["","","","","","","?"],"vi":"Hôm nay bạn đã đọc tiêu đề báo chưa?","alts":[]}},
@@ -171,7 +171,7 @@
    {"id":"a28-celebrity","hanzi":"celebrity","pinyin":"","vi":"người nổi tiếng","ex":{"tokens":["A","celebrity","visited","our","town","."],"py":["","","","","","."],"vi":"Một người nổi tiếng đã đến thăm thị trấn của chúng tôi.","alts":[]}},
    {"id":"a28-rumor","hanzi":"rumor","pinyin":"","vi":"tin đồn","ex":{"tokens":["Do","not","believe","every","rumor","."],"py":["","","","","","."],"vi":"Đừng tin mọi tin đồn.","alts":[]}}
   ]},
-  {"id":"a29","title":"Vấn đề xã hội","desc":"Nghèo đói, bình đẳng, vô gia cư, phân biệt","icon":"Soc","unit":302,"course":"en","order":2210,"words":[
+  {"id":"a29","title":"Vấn đề xã hội","desc":"Nghèo đói, bình đẳng, vô gia cư, phân biệt","icon":"Soc","unit":302,"course":"en","order":2270,"words":[
    {"id":"a29-poverty","hanzi":"poverty","pinyin":"","vi":"sự nghèo đói","ex":{"tokens":["Many","families","still","live","in","poverty","."],"py":["","","","","","","."],"vi":"Nhiều gia đình vẫn sống trong cảnh nghèo đói.","alts":[]}},
    {"id":"a29-equality","hanzi":"equality","pinyin":"","vi":"sự bình đẳng","ex":{"tokens":["We","believe","in","equality","for","all","people","."],"py":["","","","","","","","."],"vi":"Chúng tôi tin vào sự bình đẳng cho mọi người.","alts":[]}},
    {"id":"a29-homeless","hanzi":"homeless","pinyin":"","vi":"vô gia cư","ex":{"tokens":["The","city","helps","homeless","people","in","winter","."],"py":["","","","","","","","."],"vi":"Thành phố giúp đỡ người vô gia cư vào mùa đông.","alts":[]}},
@@ -185,7 +185,7 @@
    {"id":"a29-minority","hanzi":"minority","pinyin":"","vi":"thiểu số","ex":{"tokens":["Only","a","small","minority","disagreed","."],"py":["","","","","","."],"vi":"Chỉ có một thiểu số nhỏ không đồng ý.","alts":[]}},
    {"id":"a29-majority","hanzi":"majority","pinyin":"","vi":"đa số","ex":{"tokens":["The","majority","of","students","passed","the","exam","."],"py":["","","","","","","","."],"vi":"Đa số học sinh đã thi đỗ.","alts":[]}}
   ]},
-  {"id":"a30","title":"Từ thiện và tình nguyện","desc":"Quyên góp, tình nguyện viên, tổ chức","icon":"Give","unit":302,"course":"en","order":2220,"words":[
+  {"id":"a30","title":"Từ thiện và tình nguyện","desc":"Quyên góp, tình nguyện viên, tổ chức","icon":"Give","unit":302,"course":"en","order":2280,"words":[
    {"id":"a30-charity","hanzi":"charity","pinyin":"","vi":"tổ chức từ thiện, lòng từ thiện","ex":{"tokens":["She","gives","money","to","charity","every","year","."],"py":["","","","","","","","."],"vi":"Năm nào cô ấy cũng quyên tiền cho từ thiện.","alts":[]}},
    {"id":"a30-volunteer","hanzi":"volunteer","pinyin":"","vi":"tình nguyện viên, tình nguyện","ex":{"tokens":["I","volunteer","at","a","hospital","on","weekends","."],"py":["","","","","","","","."],"vi":"Tôi làm tình nguyện ở bệnh viện vào cuối tuần.","alts":[]}},
    {"id":"a30-donate","hanzi":"donate","pinyin":"","vi":"quyên góp, hiến tặng","ex":{"tokens":["They","donate","old","clothes","to","poor","children","."],"py":["","","","","","","","."],"vi":"Họ quyên góp quần áo cũ cho trẻ em nghèo.","alts":[]}},
@@ -199,7 +199,7 @@
    {"id":"a30-campaigner","hanzi":"campaigner","pinyin":"","vi":"nhà vận động","ex":{"tokens":["She","is","a","campaigner","for","clean","water","."],"py":["","","","","","","","."],"vi":"Cô ấy là nhà vận động vì nước sạch.","alts":[]}},
    {"id":"a30-shelter","hanzi":"shelter","pinyin":"","vi":"nơi trú ẩn, mái ấm","ex":{"tokens":["The","dogs","live","in","an","animal","shelter","."],"py":["","","","","","","","."],"vi":"Những chú chó sống trong một trạm cứu hộ động vật.","alts":[]}}
   ]},
-  {"id":"a31","title":"Phong tục và phép lịch sự","desc":"Lễ nghi, cúi chào, quà tặng, khách","icon":"Bow","unit":302,"course":"en","order":2230,"words":[
+  {"id":"a31","title":"Phong tục và phép lịch sự","desc":"Lễ nghi, cúi chào, quà tặng, khách","icon":"Bow","unit":302,"course":"en","order":2290,"words":[
    {"id":"a31-custom","hanzi":"custom","pinyin":"","vi":"phong tục","ex":{"tokens":["It","is","a","custom","to","give","lucky","money","."],"py":["","","","","","","","","."],"vi":"Lì xì là một phong tục.","alts":[]}},
    {"id":"a31-manners","hanzi":"manners","pinyin":"","vi":"phép lịch sự, cách cư xử","ex":{"tokens":["That","child","has","very","good","manners","."],"py":["","","","","","","."],"vi":"Đứa trẻ đó cư xử rất lễ phép.","alts":[]}},
    {"id":"a31-greet","hanzi":"greet","pinyin":"","vi":"chào hỏi","ex":{"tokens":["They","greet","each","guest","at","the","door","."],"py":["","","","","","","","."],"vi":"Họ chào từng vị khách ở cửa.","alts":[]}},
@@ -213,7 +213,7 @@
    {"id":"a31-formal","hanzi":"formal","pinyin":"","vi":"trang trọng","ex":{"tokens":["You","should","wear","formal","clothes","to","the","interview","."],"py":["","","","","","","","","."],"vi":"Bạn nên mặc trang phục trang trọng khi đi phỏng vấn.","alts":[]}},
    {"id":"a31-informal","hanzi":"informal","pinyin":"","vi":"thân mật, không trang trọng","ex":{"tokens":["It","is","an","informal","dinner","with","friends","."],"py":["","","","","","","","."],"vi":"Đó là một bữa tối thân mật với bạn bè.","alts":[]}}
   ]},
-  {"id":"a32","title":"Tín ngưỡng","desc":"Tôn giáo, chùa, nhà thờ, cầu nguyện","icon":"Pray","unit":302,"course":"en","order":2240,"words":[
+  {"id":"a32","title":"Tín ngưỡng","desc":"Tôn giáo, chùa, nhà thờ, cầu nguyện","icon":"Pray","unit":302,"course":"en","order":2300,"words":[
    {"id":"a32-religion","hanzi":"religion","pinyin":"","vi":"tôn giáo","ex":{"tokens":["Religion","is","important","in","her","life","."],"py":["","","","","","","."],"vi":"Tôn giáo rất quan trọng trong cuộc sống của cô ấy.","alts":[]}},
    {"id":"a32-temple","hanzi":"temple","pinyin":"","vi":"đền, chùa","ex":{"tokens":["We","visit","the","temple","at","New","Year","."],"py":["","","","","","","","."],"vi":"Chúng tôi đi chùa vào dịp năm mới.","alts":[]}},
    {"id":"a32-church","hanzi":"church","pinyin":"","vi":"nhà thờ","ex":{"tokens":["They","go","to","church","every","Sunday","."],"py":["","","","","","","."],"vi":"Họ đi nhà thờ mỗi Chủ nhật.","alts":[]}},

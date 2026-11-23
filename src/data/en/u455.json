@@ -3,7 +3,7 @@
   {"unit":455,"level":4,"title":"Phần 44: Mở rộng – Báo chí và truyền hình","desc":"Báo chí và truyền hình, Tâm lý và tâm trí, Giáo dục và học thuật","color":"sun","course":"en"}
  ],
  "lessons": [
-  {"id":"y4081","title":"Báo chí và truyền hình 1","desc":"Tin tức, chương trình, điện ảnh, mạng xã hội","icon":"Media","unit":455,"course":"en","order":4810,"words":[
+  {"id":"y4081","title":"Báo chí và truyền hình 1","desc":"Tin tức, chương trình, điện ảnh, mạng xã hội","icon":"Media","unit":455,"course":"en","order":4870,"words":[
    {"id":"y4081-caption","hanzi":"caption","pinyin":"","vi":"chú thích ảnh","ex":{"tokens":["Read","the","caption","under","the","photo","."],"py":["","","","","","","."],"vi":"Hãy đọc chú thích dưới bức ảnh.","alts":[]}},
    {"id":"y4081-obituary","hanzi":"obituary","pinyin":"","vi":"cáo phó","ex":{"tokens":["I","read","his","obituary","in","the","paper","."],"py":["","","","","","","","."],"vi":"Tôi đọc cáo phó của ông ấy trên báo.","alts":[]}},
    {"id":"y4081-readership","hanzi":"readership","pinyin":"","vi":"lượng độc giả","ex":{"tokens":["The","magazine","has","a","young","readership","."],"py":["","","","","","","."],"vi":"Tạp chí có lượng độc giả trẻ.","alts":[]}},
@@ -18,7 +18,7 @@
    {"id":"y4081-paparazzi","hanzi":"paparazzi","pinyin":"","vi":"thợ săn ảnh","ex":{"tokens":["The","paparazzi","followed","the","actress","."],"py":["","","","","","."],"vi":"Thợ săn ảnh bám theo nữ diễn viên.","alts":[]}},
    {"id":"y4081-newsroom","hanzi":"newsroom","pinyin":"","vi":"phòng tin tức","ex":{"tokens":["The","newsroom","was","busy","all","night","."],"py":["","","","","","","."],"vi":"Phòng tin tức bận rộn suốt đêm.","alts":[]}}
   ]},
-  {"id":"y4082","title":"Báo chí và truyền hình 2","desc":"Tin tức, chương trình, điện ảnh, mạng xã hội","icon":"Media","unit":455,"course":"en","order":4820,"words":[
+  {"id":"y4082","title":"Báo chí và truyền hình 2","desc":"Tin tức, chương trình, điện ảnh, mạng xã hội","icon":"Media","unit":455,"course":"en","order":4880,"words":[
    {"id":"y4082-press_freedom","hanzi":"press freedom","pinyin":"","vi":"tự do báo chí","ex":{"tokens":["Press","freedom","is","protected","by","law","."],"py":["","","","","","","."],"vi":"Tự do báo chí được luật pháp bảo vệ.","alts":[]}},
    {"id":"y4082-fact_check","hanzi":"fact-check","pinyin":"","vi":"kiểm chứng thông tin","ex":{"tokens":["Always","fact-check","a","story","before","you","share","it","."],"py":["","","","","","","","","."],"vi":"Hãy luôn kiểm chứng một tin trước khi chia sẻ.","alts":[]}},
    {"id":"y4082-misinformation","hanzi":"misinformation","pinyin":"","vi":"thông tin sai lệch","ex":{"tokens":["Misinformation","spreads","fast","online","."],"py":["","","","","."],"vi":"Thông tin sai lệch lan nhanh trên mạng.","alts":[]}},
@@ -33,7 +33,7 @@
    {"id":"y4082-miniseries","hanzi":"miniseries","pinyin":"","vi":"phim truyền hình ngắn tập","ex":{"tokens":["The","book","was","made","into","a","miniseries","."],"py":["","","","","","","","."],"vi":"Cuốn sách được chuyển thể thành phim ngắn tập.","alts":[]}},
    {"id":"y4082-prequel","hanzi":"prequel","pinyin":"","vi":"phần tiền truyện","ex":{"tokens":["The","prequel","tells","the","hero's","childhood","."],"py":["","","","","","","."],"vi":"Phần tiền truyện kể về tuổi thơ của người hùng.","alts":[]}}
   ]},
-  {"id":"y4083","title":"Báo chí và truyền hình 3","desc":"Tin tức, chương trình, điện ảnh, mạng xã hội","icon":"Media","unit":455,"course":"en","order":4830,"words":[
+  {"id":"y4083","title":"Báo chí và truyền hình 3","desc":"Tin tức, chương trình, điện ảnh, mạng xã hội","icon":"Media","unit":455,"course":"en","order":4890,"words":[
    {"id":"y4083-teaser","hanzi":"teaser","pinyin":"","vi":"đoạn giới thiệu ngắn","ex":{"tokens":["The","studio","released","a","short","teaser","."],"py":["","","","","","","."],"vi":"Hãng phim tung ra một đoạn giới thiệu ngắn.","alts":[]}},
    {"id":"y4083-box_office","hanzi":"box office","pinyin":"","vi":"phòng vé; doanh thu phòng vé","ex":{"tokens":["The","film","was","a","hit","at","the","box","office","."],"py":["","","","","","","","","","."],"vi":"Bộ phim thắng lớn ở phòng vé.","alts":[]}},
    {"id":"y4083-flop","hanzi":"flop","pinyin":"","vi":"thất bại (phim, sản phẩm)","ex":{"tokens":["His","second","film","was","a","flop","."],"py":["","","","","","","."],"vi":"Bộ phim thứ hai của anh ấy là một thất bại.","alts":[]}},
@@ -48,7 +48,7 @@
    {"id":"y4083-moderator","hanzi":"moderator","pinyin":"","vi":"người kiểm duyệt, điều phối","ex":{"tokens":["The","moderator","deleted","the","rude","comment","."],"py":["","","","","","","."],"vi":"Người kiểm duyệt xóa bình luận thô lỗ.","alts":[]}},
    {"id":"y4083-vlogger","hanzi":"vlogger","pinyin":"","vi":"người làm video blog","ex":{"tokens":["The","vlogger","films","her","daily","life","."],"py":["","","","","","","."],"vi":"Cô vlogger quay lại cuộc sống hằng ngày của mình.","alts":[]}}
   ]},
-  {"id":"y4084","title":"Báo chí và truyền hình 4","desc":"Tin tức, chương trình, điện ảnh, mạng xã hội","icon":"Media","unit":455,"course":"en","order":4840,"words":[
+  {"id":"y4084","title":"Báo chí và truyền hình 4","desc":"Tin tức, chương trình, điện ảnh, mạng xã hội","icon":"Media","unit":455,"course":"en","order":4900,"words":[
    {"id":"y4084-sensationalism","hanzi":"sensationalism","pinyin":"","vi":"lối đưa tin giật gân","ex":{"tokens":["The","paper","is","known","for","sensationalism","."],"py":["","","","","","","."],"vi":"Tờ báo nổi tiếng với lối đưa tin giật gân.","alts":[]}},
    {"id":"y4084-censor","hanzi":"censor","pinyin":"","vi":"kiểm duyệt; người kiểm duyệt","ex":{"tokens":["The","government","tried","to","censor","the","film","."],"py":["","","","","","","","."],"vi":"Chính phủ tìm cách kiểm duyệt bộ phim.","alts":[]}},
    {"id":"y4084-off_the_record","hanzi":"off the record","pinyin":"","vi":"không chính thức, không để đăng báo","ex":{"tokens":["He","told","me","off","the","record","that","he","would","resign","."],"py":["","","","","","","","","","","."],"vi":"Ông ấy nói riêng với tôi rằng ông sẽ từ chức.","alts":[]}},
@@ -62,7 +62,7 @@
    {"id":"y4084-green_screen","hanzi":"green screen","pinyin":"","vi":"phông xanh (kỹ xảo)","ex":{"tokens":["The","scene","was","filmed","in","front","of","a","green","screen","."],"py":["","","","","","","","","","","."],"vi":"Cảnh đó được quay trước phông xanh.","alts":[]}},
    {"id":"y4084-press_pass","hanzi":"press pass","pinyin":"","vi":"thẻ nhà báo","ex":{"tokens":["You","need","a","press","pass","to","enter","."],"py":["","","","","","","","."],"vi":"Bạn cần thẻ nhà báo để vào.","alts":[]}}
   ]},
-  {"id":"y4085","title":"Tâm lý và tâm trí 1","desc":"Nhận thức, rối loạn, trị liệu, giao tiếp","icon":"Mind","unit":455,"course":"en","order":4850,"words":[
+  {"id":"y4085","title":"Tâm lý và tâm trí 1","desc":"Nhận thức, rối loạn, trị liệu, giao tiếp","icon":"Mind","unit":455,"course":"en","order":4910,"words":[
    {"id":"y4085-cognition","hanzi":"cognition","pinyin":"","vi":"nhận thức","ex":{"tokens":["Sleep","is","important","for","cognition","."],"py":["","","","","","."],"vi":"Giấc ngủ quan trọng đối với nhận thức.","alts":[]}},
    {"id":"y4085-impulse","hanzi":"impulse","pinyin":"","vi":"sự thôi thúc, bốc đồng","ex":{"tokens":["I","bought","the","shoes","on","impulse","."],"py":["","","","","","","."],"vi":"Tôi mua đôi giày trong lúc bốc đồng.","alts":[]}},
    {"id":"y4085-compulsion","hanzi":"compulsion","pinyin":"","vi":"sự thôi thúc không cưỡng được","ex":{"tokens":["He","feels","a","compulsion","to","wash","his","hands","."],"py":["","","","","","","","","."],"vi":"Anh ấy luôn bị thôi thúc phải rửa tay.","alts":[]}},
@@ -78,7 +78,7 @@
    {"id":"y4085-self_confidence","hanzi":"self-confidence","pinyin":"","vi":"sự tự tin","ex":{"tokens":["Sport","gave","her","self-confidence","."],"py":["","","","","."],"vi":"Thể thao đem lại cho cô ấy sự tự tin.","alts":[]}},
    {"id":"y4085-self_control","hanzi":"self-control","pinyin":"","vi":"sự tự chủ","ex":{"tokens":["It","takes","self-control","to","stop","eating","sweets","."],"py":["","","","","","","","."],"vi":"Cần tự chủ mới ngừng ăn đồ ngọt được.","alts":[]}}
   ]},
-  {"id":"y4086","title":"Tâm lý và tâm trí 2","desc":"Nhận thức, rối loạn, trị liệu, giao tiếp","icon":"Mind","unit":455,"course":"en","order":4860,"words":[
+  {"id":"y4086","title":"Tâm lý và tâm trí 2","desc":"Nhận thức, rối loạn, trị liệu, giao tiếp","icon":"Mind","unit":455,"course":"en","order":4920,"words":[
    {"id":"y4086-self_awareness","hanzi":"self-awareness","pinyin":"","vi":"sự tự nhận thức","ex":{"tokens":["Self-awareness","helps","you","learn","from","mistakes","."],"py":["","","","","","","."],"vi":"Tự nhận thức giúp bạn học từ sai lầm.","alts":[]}},
    {"id":"y4086-self_pity","hanzi":"self-pity","pinyin":"","vi":"sự tự thương hại","ex":{"tokens":["Stop","sitting","there","in","self-pity","."],"py":["","","","","","."],"vi":"Đừng ngồi đó tự thương hại nữa.","alts":[]}},
    {"id":"y4086-ego","hanzi":"ego","pinyin":"","vi":"cái tôi","ex":{"tokens":["He","has","a","huge","ego","."],"py":["","","","","","."],"vi":"Anh ta có cái tôi rất lớn.","alts":[]}},
@@ -94,7 +94,7 @@
    {"id":"y4086-grief","hanzi":"grief","pinyin":"","vi":"nỗi đau buồn (mất mát)","ex":{"tokens":["She","could","not","hide","her","grief","."],"py":["","","","","","","."],"vi":"Cô ấy không giấu nổi nỗi đau buồn.","alts":[]}},
    {"id":"y4086-bereavement","hanzi":"bereavement","pinyin":"","vi":"sự mất người thân","ex":{"tokens":["He","took","a","week","off","after","his","bereavement","."],"py":["","","","","","","","","."],"vi":"Anh ấy nghỉ một tuần sau khi mất người thân.","alts":[]}}
   ]},
-  {"id":"y4087","title":"Tâm lý và tâm trí 3","desc":"Nhận thức, rối loạn, trị liệu, giao tiếp","icon":"Mind","unit":455,"course":"en","order":4870,"words":[
+  {"id":"y4087","title":"Tâm lý và tâm trí 3","desc":"Nhận thức, rối loạn, trị liệu, giao tiếp","icon":"Mind","unit":455,"course":"en","order":4930,"words":[
    {"id":"y4087-mourning","hanzi":"mourning","pinyin":"","vi":"sự để tang","ex":{"tokens":["The","family","is","still","in","mourning","."],"py":["","","","","","","."],"vi":"Gia đình vẫn đang để tang.","alts":[]}},
    {"id":"y4087-loneliness","hanzi":"loneliness","pinyin":"","vi":"sự cô đơn","ex":{"tokens":["Loneliness","is","common","among","old","people","."],"py":["","","","","","","."],"vi":"Sự cô đơn phổ biến ở người già.","alts":[]}},
    {"id":"y4087-panic_attack","hanzi":"panic attack","pinyin":"","vi":"cơn hoảng loạn","ex":{"tokens":["She","had","a","panic","attack","on","the","plane","."],"py":["","","","","","","","","."],"vi":"Cô ấy lên cơn hoảng loạn trên máy bay.","alts":[]}},
@@ -110,7 +110,7 @@
    {"id":"y4087-eye_contact","hanzi":"eye contact","pinyin":"","vi":"giao tiếp bằng mắt","ex":{"tokens":["Make","eye","contact","when","you","speak","."],"py":["","","","","","","."],"vi":"Hãy nhìn vào mắt người nghe khi nói.","alts":[]}},
    {"id":"y4087-facial_expression","hanzi":"facial expression","pinyin":"","vi":"nét mặt","ex":{"tokens":["His","facial","expression","did","not","change","."],"py":["","","","","","","."],"vi":"Nét mặt anh ấy không thay đổi.","alts":[]}}
   ]},
-  {"id":"y4088","title":"Tâm lý và tâm trí 4","desc":"Nhận thức, rối loạn, trị liệu, giao tiếp","icon":"Mind","unit":455,"course":"en","order":4880,"words":[
+  {"id":"y4088","title":"Tâm lý và tâm trí 4","desc":"Nhận thức, rối loạn, trị liệu, giao tiếp","icon":"Mind","unit":455,"course":"en","order":4940,"words":[
    {"id":"y4088-tone_of_voice","hanzi":"tone of voice","pinyin":"","vi":"giọng điệu","ex":{"tokens":["I","did","not","like","her","tone","of","voice","."],"py":["","","","","","","","","."],"vi":"Tôi không thích giọng điệu của cô ấy.","alts":[]}},
    {"id":"y4088-assertive","hanzi":"assertive","pinyin":"","vi":"quyết đoán","ex":{"tokens":["You","need","to","be","more","assertive","at","work","."],"py":["","","","","","","","","."],"vi":"Bạn cần quyết đoán hơn trong công việc.","alts":[]}},
    {"id":"y4088-passive","hanzi":"passive","pinyin":"","vi":"thụ động","ex":{"tokens":["He","is","too","passive","in","meetings","."],"py":["","","","","","","."],"vi":"Anh ấy quá thụ động trong các cuộc họp.","alts":[]}},
@@ -126,7 +126,7 @@
    {"id":"y4088-psychoanalysis","hanzi":"psychoanalysis","pinyin":"","vi":"phân tâm học","ex":{"tokens":["Freud","is","the","father","of","psychoanalysis","."],"py":["","","","","","","."],"vi":"Freud là cha đẻ của phân tâm học.","alts":[]}},
    {"id":"y4088-groupthink","hanzi":"groupthink","pinyin":"","vi":"tư duy bầy đàn","ex":{"tokens":["Groupthink","led","the","team","to","a","bad","decision","."],"py":["","","","","","","","","."],"vi":"Tư duy bầy đàn khiến cả nhóm quyết định sai.","alts":[]}}
   ]},
-  {"id":"y4089","title":"Giáo dục và học thuật 1","desc":"Trường học, bằng cấp, thi cử, nghiên cứu","icon":"Campus","unit":455,"course":"en","order":4890,"words":[
+  {"id":"y4089","title":"Giáo dục và học thuật 1","desc":"Trường học, bằng cấp, thi cử, nghiên cứu","icon":"Campus","unit":455,"course":"en","order":4950,"words":[
    {"id":"y4089-grant","hanzi":"grant","pinyin":"","vi":"khoản trợ cấp, tài trợ; ban cho","ex":{"tokens":["She","won","a","research","grant","."],"py":["","","","","","."],"vi":"Cô ấy giành được một khoản tài trợ nghiên cứu.","alts":[]}},
    {"id":"y4089-fellowship","hanzi":"fellowship","pinyin":"","vi":"học bổng nghiên cứu","ex":{"tokens":["He","received","a","two-year","fellowship","."],"py":["","","","","","."],"vi":"Anh ấy nhận học bổng nghiên cứu hai năm.","alts":[]}},
    {"id":"y4089-bursary","hanzi":"bursary","pinyin":"","vi":"trợ cấp học tập","ex":{"tokens":["The","college","offers","a","bursary","to","poor","students","."],"py":["","","","","","","","","."],"vi":"Trường cấp trợ cấp học tập cho sinh viên nghèo.","alts":[]}},
@@ -141,7 +141,7 @@
    {"id":"y4089-doctorate","hanzi":"doctorate","pinyin":"","vi":"bằng tiến sĩ","ex":{"tokens":["He","earned","his","doctorate","in","London","."],"py":["","","","","","","."],"vi":"Anh ấy lấy bằng tiến sĩ ở Luân Đôn.","alts":[]}},
    {"id":"y4089-seminar","hanzi":"seminar","pinyin":"","vi":"buổi hội thảo chuyên đề","ex":{"tokens":["We","have","a","seminar","on","Tuesday","."],"py":["","","","","","","."],"vi":"Chúng tôi có buổi hội thảo vào thứ Ba.","alts":[]}}
   ]},
-  {"id":"y4090","title":"Giáo dục và học thuật 2","desc":"Trường học, bằng cấp, thi cử, nghiên cứu","icon":"Campus","unit":455,"course":"en","order":4900,"words":[
+  {"id":"y4090","title":"Giáo dục và học thuật 2","desc":"Trường học, bằng cấp, thi cử, nghiên cứu","icon":"Campus","unit":455,"course":"en","order":4960,"words":[
    {"id":"y4090-tutorial","hanzi":"tutorial","pinyin":"","vi":"buổi hướng dẫn nhóm nhỏ; bài hướng dẫn","ex":{"tokens":["I","watched","a","tutorial","on","video","editing","."],"py":["","","","","","","","."],"vi":"Tôi xem một bài hướng dẫn dựng video.","alts":[]}},
    {"id":"y4090-lecture_hall","hanzi":"lecture hall","pinyin":"","vi":"giảng đường","ex":{"tokens":["The","lecture","hall","holds","three","hundred","students","."],"py":["","","","","","","","."],"vi":"Giảng đường chứa được ba trăm sinh viên.","alts":[]}},
    {"id":"y4090-lecturer","hanzi":"lecturer","pinyin":"","vi":"giảng viên","ex":{"tokens":["The","lecturer","speaks","very","clearly","."],"py":["","","","","","."],"vi":"Giảng viên nói rất rõ ràng.","alts":[]}},

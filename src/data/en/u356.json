@@ -3,7 +3,7 @@
   {"unit":356,"level":3,"title":"Phần 32: Mở rộng – Nghề nghiệp","desc":"Nghề nghiệp, Sở thích và giải trí, Trường lớp","color":"leaf","course":"en"}
  ],
  "lessons": [
-  {"id":"y3101","title":"Nghề nghiệp 3","desc":"Các nghề và từ về công việc","icon":"Jobs","unit":356,"course":"en","order":3340,"words":[
+  {"id":"y3101","title":"Nghề nghiệp 3","desc":"Các nghề và từ về công việc","icon":"Jobs","unit":356,"course":"en","order":3400,"words":[
    {"id":"y3101-bricklayer","hanzi":"bricklayer","pinyin":"","vi":"thợ xây (xây gạch)","ex":{"tokens":["The","bricklayer","built","a","wall","."],"py":["","","","","","."],"vi":"Người thợ xây đã xây một bức tường.","alts":[]}},
    {"id":"y3101-builder","hanzi":"builder","pinyin":"","vi":"thợ xây, nhà thầu","ex":{"tokens":["A","builder","is","fixing","our","roof","."],"py":["","","","","","","."],"vi":"Một người thợ đang sửa mái nhà chúng tôi.","alts":[]}},
    {"id":"y3101-janitor","hanzi":"janitor","pinyin":"","vi":"người lao công","ex":{"tokens":["The","janitor","cleans","the","school","every","evening","."],"py":["","","","","","","","."],"vi":"Người lao công dọn trường mỗi tối.","alts":[]}},
@@ -18,7 +18,7 @@
    {"id":"y3101-mail_carrier","hanzi":"mail carrier","pinyin":"","vi":"người đưa thư","ex":{"tokens":["The","mail","carrier","comes","at","ten","."],"py":["","","","","","","."],"vi":"Người đưa thư đến lúc mười giờ.","alts":[]}},
    {"id":"y3101-delivery_driver","hanzi":"delivery driver","pinyin":"","vi":"tài xế giao hàng","ex":{"tokens":["The","delivery","driver","left","the","box","at","the","door","."],"py":["","","","","","","","","","."],"vi":"Tài xế giao hàng để hộp ở cửa.","alts":[]}}
   ]},
-  {"id":"y3102","title":"Nghề nghiệp 4","desc":"Các nghề và từ về công việc","icon":"Jobs","unit":356,"course":"en","order":3350,"words":[
+  {"id":"y3102","title":"Nghề nghiệp 4","desc":"Các nghề và từ về công việc","icon":"Jobs","unit":356,"course":"en","order":3410,"words":[
    {"id":"y3102-shop_assistant","hanzi":"shop assistant","pinyin":"","vi":"nhân viên bán hàng","ex":{"tokens":["The","shop","assistant","helped","me","find","my","size","."],"py":["","","","","","","","","."],"vi":"Nhân viên bán hàng giúp tôi tìm cỡ của mình.","alts":[]}},
    {"id":"y3102-salesperson","hanzi":"salesperson","pinyin":"","vi":"người bán hàng","ex":{"tokens":["The","salesperson","showed","us","a","new","car","."],"py":["","","","","","","","."],"vi":"Người bán hàng cho chúng tôi xem một chiếc xe mới.","alts":[]}},
    {"id":"y3102-clerk","hanzi":"clerk","pinyin":"","vi":"nhân viên văn phòng, thư ký","ex":{"tokens":["The","clerk","gave","me","a","form","."],"py":["","","","","","","."],"vi":"Nhân viên đưa cho tôi một tờ đơn.","alts":[]}},
@@ -33,7 +33,7 @@
    {"id":"y3102-designer","hanzi":"designer","pinyin":"","vi":"nhà thiết kế","ex":{"tokens":["She","is","a","fashion","designer","."],"py":["","","","","","."],"vi":"Cô ấy là nhà thiết kế thời trang.","alts":[]}},
    {"id":"y3102-technician","hanzi":"technician","pinyin":"","vi":"kỹ thuật viên","ex":{"tokens":["A","technician","fixed","the","printer","."],"py":["","","","","","."],"vi":"Một kỹ thuật viên sửa máy in.","alts":[]}}
   ]},
-  {"id":"y3103","title":"Nghề nghiệp 5","desc":"Các nghề và từ về công việc","icon":"Jobs","unit":356,"course":"en","order":3360,"words":[
+  {"id":"y3103","title":"Nghề nghiệp 5","desc":"Các nghề và từ về công việc","icon":"Jobs","unit":356,"course":"en","order":3420,"words":[
    {"id":"y3103-researcher","hanzi":"researcher","pinyin":"","vi":"nhà nghiên cứu","ex":{"tokens":["The","researcher","studies","sleep","."],"py":["","","","","."],"vi":"Nhà nghiên cứu này nghiên cứu về giấc ngủ.","alts":[]}},
    {"id":"y3103-vet","hanzi":"vet","pinyin":"","vi":"bác sĩ thú y","ex":{"tokens":["We","took","the","dog","to","the","vet","."],"py":["","","","","","","","."],"vi":"Chúng tôi đưa chó đến bác sĩ thú y.","alts":[]}},
    {"id":"y3103-optician","hanzi":"optician","pinyin":"","vi":"chuyên viên đo mắt, bán kính","ex":{"tokens":["The","optician","tested","my","eyes","."],"py":["","","","","","."],"vi":"Chuyên viên đo mắt kiểm tra mắt cho tôi.","alts":[]}},
@@ -47,7 +47,7 @@
    {"id":"y3103-lumberjack","hanzi":"lumberjack","pinyin":"","vi":"thợ đốn gỗ","ex":{"tokens":["The","lumberjack","cut","down","the","tree","."],"py":["","","","","","","."],"vi":"Người thợ đốn gỗ chặt cái cây.","alts":[]}},
    {"id":"y3103-shepherd","hanzi":"shepherd","pinyin":"","vi":"người chăn cừu","ex":{"tokens":["The","shepherd","watched","his","sheep","."],"py":["","","","","","."],"vi":"Người chăn cừu trông đàn cừu.","alts":[]}}
   ]},
-  {"id":"y3104","title":"Nghề nghiệp 6","desc":"Các nghề và từ về công việc","icon":"Jobs","unit":356,"course":"en","order":3370,"words":[
+  {"id":"y3104","title":"Nghề nghiệp 6","desc":"Các nghề và từ về công việc","icon":"Jobs","unit":356,"course":"en","order":3430,"words":[
    {"id":"y3104-beekeeper","hanzi":"beekeeper","pinyin":"","vi":"người nuôi ong","ex":{"tokens":["The","beekeeper","sells","honey","."],"py":["","","","","."],"vi":"Người nuôi ong bán mật ong.","alts":[]}},
    {"id":"y3104-housekeeper","hanzi":"housekeeper","pinyin":"","vi":"quản gia, người giúp việc","ex":{"tokens":["The","housekeeper","cleans","the","rooms","."],"py":["","","","","","."],"vi":"Người giúp việc dọn các phòng.","alts":[]}},
    {"id":"y3104-maid","hanzi":"maid","pinyin":"","vi":"người hầu gái, nhân viên dọn phòng","ex":{"tokens":["The","maid","changed","the","sheets","."],"py":["","","","","","."],"vi":"Nhân viên dọn phòng thay ga giường.","alts":[]}},
@@ -61,7 +61,7 @@
    {"id":"y3104-apply_for","hanzi":"apply for","pinyin":"","vi":"nộp đơn xin","ex":{"tokens":["I","want","to","apply","for","this","job","."],"py":["","","","","","","","."],"vi":"Tôi muốn nộp đơn xin công việc này.","alts":[]}},
    {"id":"y3104-quit","hanzi":"quit","pinyin":"","vi":"nghỉ việc; bỏ","ex":{"tokens":["He","decided","to","quit","his","job","."],"py":["","","","","","","."],"vi":"Anh ấy quyết định nghỉ việc.","alts":[]}}
   ]},
-  {"id":"y3105","title":"Sở thích và giải trí 1","desc":"Thủ công, thể thao, trò chơi, công viên","icon":"Hobbies","unit":356,"course":"en","order":3380,"words":[
+  {"id":"y3105","title":"Sở thích và giải trí 1","desc":"Thủ công, thể thao, trò chơi, công viên","icon":"Hobbies","unit":356,"course":"en","order":3440,"words":[
    {"id":"y3105-knitting","hanzi":"knitting","pinyin":"","vi":"đan len","ex":{"tokens":["My","grandmother","enjoys","knitting","."],"py":["","","","","."],"vi":"Bà tôi thích đan len.","alts":[]}},
    {"id":"y3105-sewing","hanzi":"sewing","pinyin":"","vi":"may vá","ex":{"tokens":["Sewing","is","a","useful","skill","."],"py":["","","","","","."],"vi":"May vá là một kỹ năng hữu ích.","alts":[]}},
    {"id":"y3105-woodwork","hanzi":"woodwork","pinyin":"","vi":"nghề mộc, đồ gỗ","ex":{"tokens":["He","learned","woodwork","at","school","."],"py":["","","","","","."],"vi":"Cậu ấy học làm mộc ở trường.","alts":[]}},
@@ -76,7 +76,7 @@
    {"id":"y3105-trekking","hanzi":"trekking","pinyin":"","vi":"đi bộ đường dài","ex":{"tokens":["We","went","trekking","in","Sapa","."],"py":["","","","","","."],"vi":"Chúng tôi đi bộ đường dài ở Sa Pa.","alts":[]}},
    {"id":"y3105-rock_climbing","hanzi":"rock climbing","pinyin":"","vi":"leo núi đá","ex":{"tokens":["Rock","climbing","needs","strong","arms","."],"py":["","","","","","."],"vi":"Leo núi đá cần cánh tay khỏe.","alts":[]}}
   ]},
-  {"id":"y3106","title":"Sở thích và giải trí 2","desc":"Thủ công, thể thao, trò chơi, công viên","icon":"Hobbies","unit":356,"course":"en","order":3390,"words":[
+  {"id":"y3106","title":"Sở thích và giải trí 2","desc":"Thủ công, thể thao, trò chơi, công viên","icon":"Hobbies","unit":356,"course":"en","order":3450,"words":[
    {"id":"y3106-mountaineering","hanzi":"mountaineering","pinyin":"","vi":"leo núi (chuyên nghiệp)","ex":{"tokens":["Mountaineering","can","be","dangerous","."],"py":["","","","","."],"vi":"Leo núi có thể nguy hiểm.","alts":[]}},
    {"id":"y3106-rafting","hanzi":"rafting","pinyin":"","vi":"chèo bè vượt thác","ex":{"tokens":["We","tried","rafting","on","the","river","."],"py":["","","","","","","."],"vi":"Chúng tôi thử chèo bè vượt thác trên sông.","alts":[]}},
    {"id":"y3106-windsurfing","hanzi":"windsurfing","pinyin":"","vi":"lướt ván buồm","ex":{"tokens":["Windsurfing","is","popular","in","Mui","Ne","."],"py":["","","","","","","."],"vi":"Lướt ván buồm phổ biến ở Mũi Né.","alts":[]}},
@@ -91,7 +91,7 @@
    {"id":"y3106-sudoku","hanzi":"sudoku","pinyin":"","vi":"trò chơi sudoku","ex":{"tokens":["He","does","a","sudoku","on","the","train","."],"py":["","","","","","","","."],"vi":"Anh ấy chơi sudoku trên tàu.","alts":[]}},
    {"id":"y3106-video_game","hanzi":"video game","pinyin":"","vi":"trò chơi điện tử","ex":{"tokens":["He","plays","a","video","game","after","school","."],"py":["","","","","","","","."],"vi":"Cậu ấy chơi trò chơi điện tử sau giờ học.","alts":[]}}
   ]},
-  {"id":"y3107","title":"Sở thích và giải trí 3","desc":"Thủ công, thể thao, trò chơi, công viên","icon":"Hobbies","unit":356,"course":"en","order":3400,"words":[
+  {"id":"y3107","title":"Sở thích và giải trí 3","desc":"Thủ công, thể thao, trò chơi, công viên","icon":"Hobbies","unit":356,"course":"en","order":3460,"words":[
    {"id":"y3107-ballroom_dancing","hanzi":"ballroom dancing","pinyin":"","vi":"khiêu vũ cổ điển","ex":{"tokens":["My","parents","do","ballroom","dancing","."],"py":["","","","","","."],"vi":"Bố mẹ tôi tập khiêu vũ cổ điển.","alts":[]}},
    {"id":"y3107-salsa","hanzi":"salsa","pinyin":"","vi":"điệu nhảy salsa; nước xốt salsa","ex":{"tokens":["We","took","a","salsa","class","."],"py":["","","","","","."],"vi":"Chúng tôi học một lớp nhảy salsa.","alts":[]}},
    {"id":"y3107-tai_chi","hanzi":"tai chi","pinyin":"","vi":"thái cực quyền","ex":{"tokens":["Old","people","do","tai","chi","in","the","park","."],"py":["","","","","","","","","."],"vi":"Người già tập thái cực quyền trong công viên.","alts":[]}},
@@ -106,7 +106,7 @@
    {"id":"y3107-treasure_hunt","hanzi":"treasure hunt","pinyin":"","vi":"trò chơi truy tìm kho báu","ex":{"tokens":["The","children","went","on","a","treasure","hunt","."],"py":["","","","","","","","."],"vi":"Bọn trẻ chơi truy tìm kho báu.","alts":[]}},
    {"id":"y3107-kite_flying","hanzi":"kite flying","pinyin":"","vi":"thả diều","ex":{"tokens":["Kite","flying","is","fun","on","a","windy","day","."],"py":["","","","","","","","","."],"vi":"Thả diều rất vui vào ngày nhiều gió.","alts":[]}}
   ]},
-  {"id":"y3108","title":"Sở thích và giải trí 4","desc":"Thủ công, thể thao, trò chơi, công viên","icon":"Hobbies","unit":356,"course":"en","order":3410,"words":[
+  {"id":"y3108","title":"Sở thích và giải trí 4","desc":"Thủ công, thể thao, trò chơi, công viên","icon":"Hobbies","unit":356,"course":"en","order":3470,"words":[
    {"id":"y3108-magic_trick","hanzi":"magic trick","pinyin":"","vi":"trò ảo thuật","ex":{"tokens":["He","showed","us","a","magic","trick","."],"py":["","","","","","","."],"vi":"Anh ấy cho chúng tôi xem một trò ảo thuật.","alts":[]}},
    {"id":"y3108-juggling","hanzi":"juggling","pinyin":"","vi":"tung hứng","ex":{"tokens":["The","clown","is","juggling","three","balls","."],"py":["","","","","","","."],"vi":"Chú hề đang tung hứng ba quả bóng.","alts":[]}},
    {"id":"y3108-puppet_show","hanzi":"puppet show","pinyin":"","vi":"buổi múa rối","ex":{"tokens":["We","watched","a","water","puppet","show","."],"py":["","","","","","","."],"vi":"Chúng tôi xem một buổi múa rối nước.","alts":[]}},
@@ -120,7 +120,7 @@
    {"id":"y3108-take_up","hanzi":"take up","pinyin":"","vi":"bắt đầu (một sở thích)","ex":{"tokens":["I","want","to","take","up","painting","."],"py":["","","","","","","."],"vi":"Tôi muốn bắt đầu học vẽ.","alts":[]}},
    {"id":"y3108-join_in","hanzi":"join in","pinyin":"","vi":"tham gia cùng","ex":{"tokens":["Come","and","join","in","the","game","."],"py":["","","","","","","."],"vi":"Hãy đến tham gia trò chơi cùng nào.","alts":[]}}
   ]},
-  {"id":"y3109","title":"Sở thích và giải trí 5","desc":"Thủ công, thể thao, trò chơi, công viên","icon":"Hobbies","unit":356,"course":"en","order":3420,"words":[
+  {"id":"y3109","title":"Sở thích và giải trí 5","desc":"Thủ công, thể thao, trò chơi, công viên","icon":"Hobbies","unit":356,"course":"en","order":3480,"words":[
    {"id":"y3109-be_keen_on","hanzi":"be keen on","pinyin":"","vi":"rất thích","ex":{"tokens":["You","must","be","keen","on","football","."],"py":["","","","","","","."],"vi":"Chắc hẳn bạn rất thích bóng đá.","alts":[]}},
    {"id":"y3109-be_fond_of","hanzi":"be fond of","pinyin":"","vi":"yêu thích","ex":{"tokens":["You","will","be","fond","of","this","town","."],"py":["","","","","","","","."],"vi":"Bạn sẽ yêu thích thị trấn này.","alts":[]}},
    {"id":"y3109-be_into","hanzi":"be into","pinyin":"","vi":"mê, thích","ex":{"tokens":["My","kids","will","be","into","this","game","."],"py":["","","","","","","","."],"vi":"Bọn trẻ nhà tôi sẽ mê trò chơi này.","alts":[]}},
@@ -134,7 +134,7 @@
    {"id":"y3109-model_making","hanzi":"model making","pinyin":"","vi":"làm mô hình","ex":{"tokens":["Model","making","needs","patience","."],"py":["","","","","."],"vi":"Làm mô hình cần sự kiên nhẫn.","alts":[]}},
    {"id":"y3109-bumper_car","hanzi":"bumper car","pinyin":"","vi":"xe điện đụng","ex":{"tokens":["The","boy","drove","a","bumper","car","at","the","fair","."],"py":["","","","","","","","","","."],"vi":"Cậu bé lái xe điện đụng ở hội chợ.","alts":[]}}
   ]},
-  {"id":"y3110","title":"Trường lớp 1","desc":"Hoạt động, đồ dùng, phòng học, câu lạc bộ","icon":"School","unit":356,"course":"en","order":3430,"words":[
+  {"id":"y3110","title":"Trường lớp 1","desc":"Hoạt động, đồ dùng, phòng học, câu lạc bộ","icon":"School","unit":356,"course":"en","order":3490,"words":[
    {"id":"y3110-schoolmate","hanzi":"schoolmate","pinyin":"","vi":"bạn cùng trường","ex":{"tokens":["I","met","an","old","schoolmate","today","."],"py":["","","","","","","."],"vi":"Hôm nay tôi gặp một người bạn cùng trường cũ.","alts":[]}},
    {"id":"y3110-form_teacher","hanzi":"form teacher","pinyin":"","vi":"giáo viên chủ nhiệm","ex":{"tokens":["Our","form","teacher","is","very","kind","."],"py":["","","","","","","."],"vi":"Giáo viên chủ nhiệm của chúng tôi rất hiền.","alts":[]}},
    {"id":"y3110-homeroom","hanzi":"homeroom","pinyin":"","vi":"lớp chủ nhiệm, giờ sinh hoạt lớp","ex":{"tokens":["We","have","homeroom","at","eight","."],"py":["","","","","","."],"vi":"Chúng tôi có giờ sinh hoạt lớp lúc tám giờ.","alts":[]}},
