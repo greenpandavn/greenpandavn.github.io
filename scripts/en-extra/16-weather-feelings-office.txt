@@ -1,0 +1,142 @@
+# Level 3 (Nâng cao): thời tiết, tính cách, công sở.
+@3|Thời tiết và khí hậu|Hiện tượng thời tiết, khí hậu, môi trường|Weather
+downpour|trận mưa như trút|We got caught in a downpour.|Chúng tôi gặp một trận mưa như trút.
+mist|sương mù nhẹ|Mist covered the valley in the morning.|Sương phủ thung lũng vào buổi sáng.
+haze|màn sương mờ, bụi mù|A haze of smoke hung over the city.|Một màn khói mờ bao phủ thành phố.
+muggy|oi bức, ẩm nóng|It is hot and muggy today.|Hôm nay trời nóng và oi bức.
+sweltering|nóng như thiêu|We sat in the sweltering heat.|Chúng tôi ngồi trong cái nóng như thiêu.
+frosty|giá lạnh, phủ sương giá|It was a clear, frosty morning.|Đó là một buổi sáng trong trẻo và giá lạnh.
+gusty|có gió giật|A gusty wind blew my hat off.|Một cơn gió giật thổi bay mũ của tôi.
+gale|gió rất mạnh|The gale blew down several trees.|Trận gió mạnh quật đổ nhiều cây.
+cold snap|đợt rét đột ngột|A cold snap killed the young plants.|Một đợt rét đột ngột làm chết cây non.
+flash flood|lũ quét|A flash flood washed away the bridge.|Một trận lũ quét cuốn trôi cây cầu.
+mudslide|lở bùn, sạt lở đất|The mudslide buried three houses.|Trận sạt lở vùi lấp ba ngôi nhà.
+rainfall|lượng mưa|Rainfall is heavy in July.|Lượng mưa lớn vào tháng Bảy.
+snowfall|lượng tuyết rơi; trận tuyết|The first snowfall came in November.|Trận tuyết đầu tiên rơi vào tháng Mười Một.
+Celsius|độ C|Water boils at one hundred degrees Celsius.|Nước sôi ở một trăm độ C.
+Fahrenheit|độ F|Americans measure temperature in Fahrenheit.|Người Mỹ đo nhiệt độ bằng độ F.
+wind chill|độ lạnh do gió|The wind chill makes it feel much colder.|Gió làm cho cảm giác lạnh hơn nhiều.
+high pressure|áp cao|High pressure brings dry weather.|Áp cao mang lại thời tiết khô ráo.
+low pressure|áp thấp|An area of low pressure is moving toward the coast.|Một vùng áp thấp đang di chuyển về phía bờ biển.
+cold front|đợt không khí lạnh, frông lạnh|A cold front will arrive tonight.|Một đợt không khí lạnh sẽ tràn về tối nay.
+greenhouse effect|hiệu ứng nhà kính|The greenhouse effect warms the planet.|Hiệu ứng nhà kính làm hành tinh nóng lên.
+global warming|sự nóng lên toàn cầu|Global warming is melting the ice.|Sự nóng lên toàn cầu đang làm băng tan.
+climate change|biến đổi khí hậu|Climate change affects farmers everywhere.|Biến đổi khí hậu ảnh hưởng đến nông dân khắp nơi.
+ozone layer|tầng ôzôn|The ozone layer protects us from the sun.|Tầng ôzôn bảo vệ chúng ta khỏi mặt trời.
+carbon footprint|lượng khí thải cacbon|Flying less reduces your carbon footprint.|Bay ít đi sẽ giảm lượng khí thải cacbon của bạn.
+ice cap|chỏm băng|The polar ice cap is shrinking.|Chỏm băng ở cực đang thu hẹp.
+temperate|ôn đới, ôn hòa|Japan has a temperate climate.|Nhật Bản có khí hậu ôn đới.
+arid|khô cằn|Few plants grow in this arid land.|Ít loài cây mọc được ở vùng đất khô cằn này.
+clear up|trời quang lại; làm sáng tỏ|I hope the weather will clear up soon.|Tôi mong trời sẽ sớm quang lại.
+soak|làm ướt sũng; ngâm|The rain will soak you in seconds.|Cơn mưa sẽ làm bạn ướt sũng trong vài giây.
+drench|làm ướt đẫm|A sudden shower can drench the whole crowd.|Một trận mưa rào bất chợt có thể làm ướt đẫm cả đám đông.
+sultry|oi ả, nồng nực|It was a sultry summer night.|Đó là một đêm hè oi ả.
+thunderbolt|tia sét kèm sấm|A thunderbolt hit the old tree.|Một tia sét đánh trúng cây cổ thụ.
+warm front|frông nóng|A warm front brought rain to the north.|Một frông nóng mang mưa đến miền bắc.
+permafrost|tầng đất đóng băng vĩnh cửu|The permafrost is starting to melt.|Tầng đất đóng băng vĩnh cửu đang bắt đầu tan.
+
+@3|Cảm xúc và tính cách|Trạng thái cảm xúc, phẩm chất con người|Feelings
+joyful|vui sướng|It was a joyful day for the whole family.|Đó là một ngày vui sướng của cả gia đình.
+ecstatic|vui sướng tột độ|She was ecstatic when she got the job.|Cô ấy vui sướng tột độ khi nhận được việc.
+heartbroken|đau khổ, tan nát cõi lòng|He was heartbroken when his dog died.|Anh ấy đau khổ khi chú chó của mình chết.
+irritated|bực mình|She was irritated by the noise.|Cô ấy bực mình vì tiếng ồn.
+envious|ghen tị|I am envious of your long holiday.|Tôi ghen tị với kỳ nghỉ dài của bạn.
+tense|căng thẳng|Everyone felt tense before the exam.|Mọi người đều căng thẳng trước kỳ thi.
+horrified|kinh hoàng|We were horrified by the news.|Chúng tôi kinh hoàng trước tin đó.
+bewildered|hoang mang, bối rối|The tourist looked bewildered.|Người du khách trông hoang mang.
+baffled|bối rối không hiểu|The doctors were baffled by her illness.|Các bác sĩ bối rối trước căn bệnh của cô ấy.
+humiliated|bị bẽ mặt|He felt humiliated in front of the class.|Cậu ấy cảm thấy bẽ mặt trước cả lớp.
+hesitant|ngập ngừng, do dự|She was hesitant to speak.|Cô ấy ngập ngừng không dám nói.
+affectionate|trìu mến, giàu tình cảm|He is an affectionate father.|Anh ấy là một người cha giàu tình cảm.
+considerate|chu đáo, biết nghĩ cho người khác|It was considerate of you to call.|Bạn thật chu đáo khi gọi điện.
+thoughtful|ân cần; trầm tư|Thank you for the thoughtful gift.|Cảm ơn bạn về món quà ân cần.
+conceited|tự phụ|He is too conceited to listen.|Anh ta quá tự phụ nên không chịu nghe.
+vain|hão huyền; phù phiếm, tự mãn về ngoại hình|He is vain about his hair.|Anh ta tự mãn về mái tóc của mình.
+timid|rụt rè, nhút nhát|The timid child hid behind her mother.|Đứa bé nhút nhát nấp sau lưng mẹ.
+bold|táo bạo; đậm (chữ)|It was a bold decision.|Đó là một quyết định táo bạo.
+courageous|dũng cảm|The courageous girl saved her brother.|Cô bé dũng cảm đã cứu em trai.
+cowardly|hèn nhát|Running away was a cowardly thing to do.|Bỏ chạy là một việc làm hèn nhát.
+reckless|liều lĩnh, bất cẩn|He is a reckless driver.|Anh ta là một tài xế liều lĩnh.
+sly|ranh mãnh|The fox gave a sly smile.|Con cáo nở một nụ cười ranh mãnh.
+faithful|chung thủy, trung thành|The dog is a faithful friend.|Con chó là một người bạn trung thành.
+trustworthy|đáng tin cậy|We need a trustworthy babysitter.|Chúng tôi cần một người trông trẻ đáng tin cậy.
+deceitful|dối trá|He is a deceitful man.|Anh ta là một người dối trá.
+hypocritical|đạo đức giả|It is hypocritical to say one thing and do another.|Nói một đằng làm một nẻo là đạo đức giả.
+tactful|khéo léo, tế nhị|She gave a tactful answer.|Cô ấy đưa ra một câu trả lời tế nhị.
+blunt|thẳng thừng; cùn|To be blunt, your plan will not work.|Nói thẳng ra, kế hoạch của bạn sẽ không thành.
+outspoken|thẳng thắn, bộc trực|She is an outspoken critic of the plan.|Cô ấy là người thẳng thắn chỉ trích kế hoạch.
+reserved|kín đáo, dè dặt; đã đặt trước|He is quiet and reserved.|Anh ấy trầm lặng và kín đáo.
+withdrawn|thu mình, khép kín|The boy became withdrawn after the move.|Cậu bé trở nên khép kín sau khi chuyển nhà.
+sociable|hòa đồng|She is a sociable person who loves parties.|Cô ấy là người hòa đồng, thích tiệc tùng.
+diligent|chăm chỉ, cần mẫn|He is a diligent student.|Cậu ấy là một học sinh chăm chỉ.
+idle|nhàn rỗi, lười nhác|The machines stood idle all week.|Máy móc nằm không cả tuần.
+absent-minded|đãng trí|The absent-minded professor lost his keys again.|Vị giáo sư đãng trí lại làm mất chìa khóa.
+forgetful|hay quên|My grandfather is getting forgetful.|Ông tôi ngày càng hay quên.
+graceful|duyên dáng, uyển chuyển|The dancer is very graceful.|Vũ công rất uyển chuyển.
+childish|trẻ con, ấu trĩ|Stop being so childish.|Đừng trẻ con như vậy nữa.
+spoiled|hư hỏng do nuông chiều; bị hỏng|He is a spoiled child.|Nó là một đứa trẻ được nuông chiều hư.
+fussy|cầu kỳ, khó tính|She is fussy about her food.|Cô ấy khó tính trong chuyện ăn uống.
+petrified|sợ cứng người|I was petrified when the lights went out.|Tôi sợ cứng người khi đèn tắt.
+remorseful|ăn năn, hối hận|He seemed remorseful about what he had done.|Anh ta có vẻ hối hận về việc mình đã làm.
+obstinate|bướng bỉnh, ngoan cố|He is too obstinate to change his mind.|Anh ta quá bướng bỉnh nên không đổi ý.
+
+@3|Công sở và việc làm|Tuyển dụng, chế độ, đồ dùng văn phòng|Office
+résumé|sơ yếu lý lịch|Send your résumé by email.|Hãy gửi sơ yếu lý lịch qua email.
+cover letter|thư xin việc|Write a short cover letter.|Hãy viết một lá thư xin việc ngắn.
+applicant|người nộp đơn, ứng viên|Each applicant must fill in a form.|Mỗi ứng viên phải điền một mẫu đơn.
+interviewer|người phỏng vấn|The interviewer asked about my last job.|Người phỏng vấn hỏi về công việc trước của tôi.
+probation period|thời gian thử việc|The probation period lasts two months.|Thời gian thử việc kéo dài hai tháng.
+subordinate|cấp dưới|He is polite to every subordinate.|Anh ấy lịch sự với mọi cấp dưới.
+coworker|đồng nghiệp|I had lunch with a coworker.|Tôi ăn trưa với một đồng nghiệp.
+contractor|nhà thầu|We hired a contractor to fix the roof.|Chúng tôi thuê một nhà thầu sửa mái nhà.
+consultant|chuyên gia tư vấn|The company brought in a consultant.|Công ty mời một chuyên gia tư vấn.
+chairman|chủ tịch|The chairman opened the meeting.|Chủ tịch khai mạc cuộc họp.
+night shift|ca đêm|She works the night shift at the hospital.|Cô ấy làm ca đêm ở bệnh viện.
+day off|ngày nghỉ|I have a day off tomorrow.|Ngày mai tôi được nghỉ.
+sick leave|nghỉ ốm|He is on sick leave this week.|Tuần này anh ấy nghỉ ốm.
+maternity leave|nghỉ thai sản|She is on maternity leave until June.|Cô ấy nghỉ thai sản đến tháng Sáu.
+annual leave|nghỉ phép năm|I have ten days of annual leave left.|Tôi còn mười ngày nghỉ phép năm.
+dismissal|sự sa thải|He was shocked by his dismissal.|Anh ấy sốc vì bị sa thải.
+retirement|sự nghỉ hưu|He took up fishing after retirement.|Ông ấy bắt đầu đi câu sau khi nghỉ hưu.
+pay raise|sự tăng lương|She asked her boss for a pay raise.|Cô ấy xin sếp tăng lương.
+minimum wage|lương tối thiểu|The minimum wage will rise next year.|Lương tối thiểu sẽ tăng vào năm tới.
+newsletter|bản tin|The company sends a newsletter every month.|Công ty gửi bản tin mỗi tháng.
+bulletin board|bảng thông báo|The schedule is on the bulletin board.|Lịch làm việc ở trên bảng thông báo.
+cubicle|ô làm việc có vách ngăn|He sits in a small cubicle.|Anh ấy ngồi trong một ô làm việc nhỏ.
+workstation|chỗ làm việc, máy trạm|Keep your workstation clean.|Hãy giữ chỗ làm việc sạch sẽ.
+water cooler|bình nước uống văn phòng|People chat at the water cooler.|Mọi người tán gẫu bên bình nước.
+photocopier|máy photocopy|The photocopier is out of paper.|Máy photocopy hết giấy.
+shredder|máy hủy tài liệu|Put the old bills in the shredder.|Hãy cho hóa đơn cũ vào máy hủy tài liệu.
+binder|bìa còng|Keep the reports in a binder.|Hãy giữ các báo cáo trong một bìa còng.
+filing cabinet|tủ hồ sơ|The contracts are in the filing cabinet.|Các hợp đồng nằm trong tủ hồ sơ.
+projector|máy chiếu|The projector is not working.|Máy chiếu không hoạt động.
+name tag|bảng tên|Please wear your name tag.|Vui lòng đeo bảng tên.
+business card|danh thiếp|He gave me his business card.|Anh ấy đưa tôi danh thiếp.
+briefcase|cặp tài liệu|He carried a black briefcase.|Anh ấy xách một chiếc cặp tài liệu màu đen.
+conference call|cuộc họp qua điện thoại|We have a conference call at nine.|Chúng tôi có cuộc họp qua điện thoại lúc chín giờ.
+video call|cuộc gọi video|I had a video call with my parents.|Tôi gọi video với bố mẹ.
+brainstorm|động não, cùng nghĩ ý tưởng|We need to brainstorm some new ideas.|Chúng ta cần cùng nghĩ ra vài ý tưởng mới.
+multitask|làm nhiều việc cùng lúc|I cannot multitask when I am tired.|Tôi không thể làm nhiều việc cùng lúc khi mệt.
+procrastinate|trì hoãn, chần chừ|Do not procrastinate before an exam.|Đừng trì hoãn trước kỳ thi.
+clock in|chấm công vào|We clock in at eight every morning.|Chúng tôi chấm công vào lúc tám giờ mỗi sáng.
+clock out|chấm công ra|You can clock out at five.|Bạn có thể chấm công ra lúc năm giờ.
+team building|hoạt động gắn kết đội nhóm|We went to the beach for team building.|Chúng tôi ra biển để gắn kết đội nhóm.
+performance review|buổi đánh giá hiệu quả công việc|My performance review is next week.|Buổi đánh giá công việc của tôi là tuần sau.
+job description|bản mô tả công việc|Read the job description carefully.|Hãy đọc kỹ bản mô tả công việc.
+human resources|phòng nhân sự|Send the form to human resources.|Hãy gửi mẫu đơn cho phòng nhân sự.
+trade union|công đoàn|She joined the trade union.|Cô ấy gia nhập công đoàn.
+work-life balance|cân bằng công việc và cuộc sống|A good work-life balance keeps you healthy.|Cân bằng tốt giữa công việc và cuộc sống giúp bạn khỏe mạnh.
+headhunter|người săn đầu người (tuyển dụng)|A headhunter called me about a new job.|Một người săn đầu người gọi cho tôi về một công việc mới.
+networking|việc xây dựng quan hệ nghề nghiệp|Networking helped her find a job.|Việc xây dựng quan hệ đã giúp cô ấy tìm được việc.
+paternity leave|nghỉ chăm vợ sinh|He took two weeks of paternity leave.|Anh ấy nghỉ hai tuần chăm vợ sinh.
+demotion|sự giáng chức|He was angry about his demotion.|Anh ấy tức giận vì bị giáng chức.
+timesheet|bảng chấm công|Fill in your timesheet on Friday.|Hãy điền bảng chấm công vào thứ Sáu.
+open-plan|không gian mở (văn phòng)|We work in an open-plan office.|Chúng tôi làm việc trong văn phòng không gian mở.
+breakroom|phòng nghỉ giải lao|There is coffee in the breakroom.|Có cà phê trong phòng nghỉ.
+flip chart|bảng giấy lật|She wrote the ideas on a flip chart.|Cô ấy viết các ý tưởng lên bảng giấy lật.
+letterhead|tiêu đề thư công ty|Print the letter on paper with our letterhead.|Hãy in thư trên giấy có tiêu đề công ty.
+lanyard|dây đeo thẻ|He wore his badge on a lanyard.|Anh ấy đeo thẻ bằng dây đeo.
+telecommute|làm việc từ xa|Many staff telecommute two days a week.|Nhiều nhân viên làm việc từ xa hai ngày một tuần.
+labor strike|cuộc đình công|The labor strike closed the factory.|Cuộc đình công khiến nhà máy đóng cửa.
+picket line|hàng người đình công đứng chặn|No one crossed the picket line.|Không ai vượt qua hàng người đình công.
+mentee|người được cố vấn|The mentor meets her mentee every month.|Người cố vấn gặp người được cố vấn của mình mỗi tháng.

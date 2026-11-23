@@ -1,9 +1,9 @@
 {
  "units": [
-  {"unit":454,"level":4,"title":"Phần 37: Mở rộng – Âm nhạc và biểu diễn","desc":"Âm nhạc và biểu diễn, Văn học và sách","color":"coral","course":"en"}
+  {"unit":454,"level":4,"title":"Phần 38: Mở rộng – Âm nhạc và biểu diễn","desc":"Âm nhạc và biểu diễn, Văn học và sách","color":"coral","course":"en"}
  ],
  "lessons": [
-  {"id":"y4061","title":"Âm nhạc và biểu diễn 5","desc":"Nhạc lý, nhạc cụ, thể loại, sân khấu","icon":"Music","unit":454,"course":"en","order":4180,"words":[
+  {"id":"y4061","title":"Âm nhạc và biểu diễn 5","desc":"Nhạc lý, nhạc cụ, thể loại, sân khấu","icon":"Music","unit":454,"course":"en","order":4280,"words":[
    {"id":"y4061-hip_hop","hanzi":"hip-hop","pinyin":"","vi":"nhạc hip-hop","ex":{"tokens":["Hip-hop","started","in","New","York","."],"py":["","","","","","."],"vi":"Nhạc hip-hop bắt nguồn từ New York.","alts":[]}},
    {"id":"y4061-rap","hanzi":"rap","pinyin":"","vi":"nhạc rap; đọc rap","ex":{"tokens":["My","brother","likes","rap","music","."],"py":["","","","","","."],"vi":"Anh trai tôi thích nhạc rap.","alts":[]}},
    {"id":"y4061-ballet","hanzi":"ballet","pinyin":"","vi":"múa ba lê","ex":{"tokens":["She","has","studied","ballet","for","ten","years","."],"py":["","","","","","","","."],"vi":"Cô ấy học múa ba lê mười năm.","alts":[]}},
@@ -17,7 +17,7 @@
    {"id":"y4061-alto","hanzi":"alto","pinyin":"","vi":"giọng nữ trầm","ex":{"tokens":["She","sings","alto","in","the","choir","."],"py":["","","","","","","."],"vi":"Cô ấy hát giọng nữ trầm trong dàn hợp xướng.","alts":[]}},
    {"id":"y4061-viola","hanzi":"viola","pinyin":"","vi":"đàn viola","ex":{"tokens":["The","viola","is","a","little","larger","than","the","violin","."],"py":["","","","","","","","","","."],"vi":"Đàn viola lớn hơn đàn violin một chút.","alts":[]}}
   ]},
-  {"id":"y4062","title":"Âm nhạc và biểu diễn 6","desc":"Nhạc lý, nhạc cụ, thể loại, sân khấu","icon":"Music","unit":454,"course":"en","order":4190,"words":[
+  {"id":"y4062","title":"Âm nhạc và biểu diễn 6","desc":"Nhạc lý, nhạc cụ, thể loại, sân khấu","icon":"Music","unit":454,"course":"en","order":4290,"words":[
    {"id":"y4062-double_bass","hanzi":"double bass","pinyin":"","vi":"đàn công bát","ex":{"tokens":["He","carries","his","double","bass","on","the","train","."],"py":["","","","","","","","","."],"vi":"Anh ấy mang đàn công bát lên tàu.","alts":[]}},
    {"id":"y4062-oboe","hanzi":"oboe","pinyin":"","vi":"kèn ô boa","ex":{"tokens":["The","oboe","gives","the","note","for","the","orchestra","."],"py":["","","","","","","","","."],"vi":"Kèn ô boa lấy nốt chuẩn cho dàn nhạc.","alts":[]}},
    {"id":"y4062-bassoon","hanzi":"bassoon","pinyin":"","vi":"kèn pha gốt","ex":{"tokens":["She","plays","the","bassoon","in","the","school","band","."],"py":["","","","","","","","","."],"vi":"Cô ấy chơi kèn pha gốt trong ban nhạc của trường.","alts":[]}},
@@ -31,7 +31,7 @@
    {"id":"y4062-ventriloquist","hanzi":"ventriloquist","pinyin":"","vi":"nghệ sĩ nói tiếng bụng","ex":{"tokens":["The","ventriloquist","made","the","doll","talk","."],"py":["","","","","","","."],"vi":"Nghệ sĩ nói tiếng bụng làm con búp bê nói chuyện.","alts":[]}},
    {"id":"y4062-curtain_call","hanzi":"curtain call","pinyin":"","vi":"màn chào khán giả cuối buổi diễn","ex":{"tokens":["The","actors","came","out","for","a","curtain","call","."],"py":["","","","","","","","","."],"vi":"Các diễn viên bước ra chào khán giả.","alts":[]}}
   ]},
-  {"id":"y4063","title":"Văn học và sách 1","desc":"Thể loại, biện pháp tu từ, xuất bản","icon":"Books","unit":454,"course":"en","order":4200,"words":[
+  {"id":"y4063","title":"Văn học và sách 1","desc":"Thể loại, biện pháp tu từ, xuất bản","icon":"Books","unit":454,"course":"en","order":4300,"words":[
    {"id":"y4063-novella","hanzi":"novella","pinyin":"","vi":"truyện vừa","ex":{"tokens":["She","wrote","a","novella","about","her","childhood","."],"py":["","","","","","","","."],"vi":"Cô ấy viết một truyện vừa về tuổi thơ của mình.","alts":[]}},
    {"id":"y4063-short_story","hanzi":"short story","pinyin":"","vi":"truyện ngắn","ex":{"tokens":["I","read","a","short","story","before","bed","."],"py":["","","","","","","","."],"vi":"Tôi đọc một truyện ngắn trước khi ngủ.","alts":[]}},
    {"id":"y4063-fable","hanzi":"fable","pinyin":"","vi":"truyện ngụ ngôn","ex":{"tokens":["The","fable","teaches","children","to","be","honest","."],"py":["","","","","","","","."],"vi":"Truyện ngụ ngôn dạy trẻ em trung thực.","alts":[]}},
@@ -47,7 +47,7 @@
    {"id":"y4063-parody","hanzi":"parody","pinyin":"","vi":"tác phẩm nhại","ex":{"tokens":["The","show","is","a","parody","of","the","news","."],"py":["","","","","","","","","."],"vi":"Chương trình là một bản nhại bản tin thời sự.","alts":[]}},
    {"id":"y4063-hyperbole","hanzi":"hyperbole","pinyin":"","vi":"phép nói quá","ex":{"tokens":["Saying","he","is","a","thousand","years","old","is","hyperbole","."],"py":["","","","","","","","","","."],"vi":"Nói rằng ông ấy nghìn tuổi là nói quá.","alts":[]}}
   ]},
-  {"id":"y4064","title":"Văn học và sách 2","desc":"Thể loại, biện pháp tu từ, xuất bản","icon":"Books","unit":454,"course":"en","order":4210,"words":[
+  {"id":"y4064","title":"Văn học và sách 2","desc":"Thể loại, biện pháp tu từ, xuất bản","icon":"Books","unit":454,"course":"en","order":4310,"words":[
    {"id":"y4064-understatement","hanzi":"understatement","pinyin":"","vi":"cách nói giảm","ex":{"tokens":["To","say","it","was","cold","is","an","understatement","."],"py":["","","","","","","","","."],"vi":"Nói rằng trời lạnh là còn nói giảm.","alts":[]}},
    {"id":"y4064-clich_","hanzi":"cliché","pinyin":"","vi":"câu sáo rỗng","ex":{"tokens":["The","speech","was","full","of","one","cliché","after","another","."],"py":["","","","","","","","","","."],"vi":"Bài phát biểu toàn những câu sáo rỗng nối tiếp nhau.","alts":[]}},
    {"id":"y4064-flashback","hanzi":"flashback","pinyin":"","vi":"cảnh hồi tưởng","ex":{"tokens":["The","film","begins","with","a","flashback","."],"py":["","","","","","","."],"vi":"Bộ phim mở đầu bằng một cảnh hồi tưởng.","alts":[]}},
@@ -63,7 +63,7 @@
    {"id":"y4064-foreword","hanzi":"foreword","pinyin":"","vi":"lời tựa","ex":{"tokens":["A","famous","writer","wrote","the","foreword","."],"py":["","","","","","","."],"vi":"Một nhà văn nổi tiếng viết lời tựa.","alts":[]}},
    {"id":"y4064-index","hanzi":"index","pinyin":"","vi":"bảng chỉ mục; chỉ số","ex":{"tokens":["Look","up","the","name","in","the","index","."],"py":["","","","","","","","."],"vi":"Hãy tra cái tên trong bảng chỉ mục.","alts":[]}}
   ]},
-  {"id":"y4065","title":"Văn học và sách 3","desc":"Thể loại, biện pháp tu từ, xuất bản","icon":"Books","unit":454,"course":"en","order":4220,"words":[
+  {"id":"y4065","title":"Văn học và sách 3","desc":"Thể loại, biện pháp tu từ, xuất bản","icon":"Books","unit":454,"course":"en","order":4320,"words":[
    {"id":"y4065-synopsis","hanzi":"synopsis","pinyin":"","vi":"bản tóm tắt nội dung","ex":{"tokens":["Read","the","synopsis","on","the","back","of","the","book","."],"py":["","","","","","","","","","."],"vi":"Hãy đọc phần tóm tắt ở bìa sau cuốn sách.","alts":[]}},
    {"id":"y4065-proofreader","hanzi":"proofreader","pinyin":"","vi":"người soát lỗi bản in","ex":{"tokens":["A","proofreader","checks","every","page","."],"py":["","","","","","."],"vi":"Người soát lỗi kiểm tra từng trang.","alts":[]}},
    {"id":"y4065-ghostwriter","hanzi":"ghostwriter","pinyin":"","vi":"người chấp bút thay","ex":{"tokens":["The","star's","book","was","written","by","a","ghostwriter","."],"py":["","","","","","","","","."],"vi":"Cuốn sách của ngôi sao do một người chấp bút thay viết.","alts":[]}},
