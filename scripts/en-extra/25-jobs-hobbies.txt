@@ -1,0 +1,117 @@
+# Level 3 (Nâng cao): nghề nghiệp, sở thích.
+@3|Nghề nghiệp|Các nghề và từ về công việc|Jobs
+bricklayer|thợ xây (xây gạch)|The bricklayer built a wall.|Người thợ xây đã xây một bức tường.
+builder|thợ xây, nhà thầu|A builder is fixing our roof.|Một người thợ đang sửa mái nhà chúng tôi.
+janitor|người lao công|The janitor cleans the school every evening.|Người lao công dọn trường mỗi tối.
+caretaker|người trông nom (tòa nhà)|The caretaker has the keys.|Người trông nom tòa nhà giữ chìa khóa.
+security guard|nhân viên bảo vệ|A security guard stood at the door.|Một nhân viên bảo vệ đứng ở cửa.
+bodyguard|vệ sĩ|The singer arrived with a bodyguard.|Ca sĩ đến cùng một vệ sĩ.
+air traffic controller|kiểm soát viên không lưu|An air traffic controller guides planes.|Kiểm soát viên không lưu dẫn đường cho máy bay.
+train driver|người lái tàu|The train driver stopped the train.|Người lái tàu cho tàu dừng lại.
+bus driver|tài xế xe buýt|The bus driver was friendly.|Tài xế xe buýt rất thân thiện.
+taxi driver|tài xế taxi|The taxi driver knew the way.|Tài xế taxi biết đường.
+truck driver|tài xế xe tải|My uncle is a truck driver.|Chú tôi là tài xế xe tải.
+mail carrier|người đưa thư|The mail carrier comes at ten.|Người đưa thư đến lúc mười giờ.
+delivery driver|tài xế giao hàng|The delivery driver left the box at the door.|Tài xế giao hàng để hộp ở cửa.
+shop assistant|nhân viên bán hàng|The shop assistant helped me find my size.|Nhân viên bán hàng giúp tôi tìm cỡ của mình.
+salesperson|người bán hàng|The salesperson showed us a new car.|Người bán hàng cho chúng tôi xem một chiếc xe mới.
+clerk|nhân viên văn phòng, thư ký|The clerk gave me a form.|Nhân viên đưa cho tôi một tờ đơn.
+typist|nhân viên đánh máy|She worked as a typist.|Bà ấy từng làm nhân viên đánh máy.
+bank teller|giao dịch viên ngân hàng|The bank teller counted the money.|Giao dịch viên ngân hàng đếm tiền.
+estate agent|nhân viên môi giới nhà đất|The estate agent showed us three houses.|Nhân viên môi giới cho chúng tôi xem ba căn nhà.
+interpreter|phiên dịch viên|We spoke through an interpreter.|Chúng tôi nói chuyện qua phiên dịch viên.
+translator|biên dịch viên|She works as a translator of novels.|Cô ấy làm biên dịch tiểu thuyết.
+reporter|phóng viên|A reporter asked him a question.|Một phóng viên hỏi anh ấy một câu.
+photographer|nhiếp ảnh gia|The photographer took our picture.|Nhiếp ảnh gia chụp ảnh cho chúng tôi.
+cameraman|người quay phim|The cameraman followed the players.|Người quay phim bám theo các cầu thủ.
+designer|nhà thiết kế|She is a fashion designer.|Cô ấy là nhà thiết kế thời trang.
+technician|kỹ thuật viên|A technician fixed the printer.|Một kỹ thuật viên sửa máy in.
+researcher|nhà nghiên cứu|The researcher studies sleep.|Nhà nghiên cứu này nghiên cứu về giấc ngủ.
+vet|bác sĩ thú y|We took the dog to the vet.|Chúng tôi đưa chó đến bác sĩ thú y.
+optician|chuyên viên đo mắt, bán kính|The optician tested my eyes.|Chuyên viên đo mắt kiểm tra mắt cho tôi.
+beautician|chuyên viên thẩm mỹ|The beautician did her nails.|Chuyên viên thẩm mỹ làm móng cho cô ấy.
+dressmaker|thợ may váy áo|A dressmaker made her wedding dress.|Một thợ may đã may váy cưới cho cô ấy.
+shoemaker|thợ đóng giày|The shoemaker repaired my boots.|Người thợ giày sửa đôi bốt của tôi.
+jeweler|thợ kim hoàn|The jeweler fixed my ring.|Người thợ kim hoàn sửa nhẫn cho tôi.
+bartender|người pha chế ở quầy bar|The bartender made me a drink.|Người pha chế làm cho tôi một ly.
+miner|thợ mỏ|His grandfather was a coal miner.|Ông của anh ấy là thợ mỏ than.
+factory worker|công nhân nhà máy|My mother is a factory worker.|Mẹ tôi là công nhân nhà máy.
+lumberjack|thợ đốn gỗ|The lumberjack cut down the tree.|Người thợ đốn gỗ chặt cái cây.
+shepherd|người chăn cừu|The shepherd watched his sheep.|Người chăn cừu trông đàn cừu.
+beekeeper|người nuôi ong|The beekeeper sells honey.|Người nuôi ong bán mật ong.
+housekeeper|quản gia, người giúp việc|The housekeeper cleans the rooms.|Người giúp việc dọn các phòng.
+maid|người hầu gái, nhân viên dọn phòng|The maid changed the sheets.|Nhân viên dọn phòng thay ga giường.
+butler|quản gia (nam)|The butler opened the door.|Người quản gia mở cửa.
+chauffeur|tài xế riêng|His chauffeur waited outside.|Tài xế riêng của ông ấy đợi bên ngoài.
+detective|thám tử|The detective found a clue.|Thám tử tìm được một manh mối.
+politician|chính trị gia|The politician promised new jobs.|Chính trị gia hứa tạo việc làm mới.
+day shift|ca ngày|I work the day shift this week.|Tuần này tôi làm ca ngày.
+pay rise|đợt tăng lương|She asked for a pay rise.|Cô ấy xin tăng lương.
+payslip|phiếu lương|Check your payslip every month.|Hãy kiểm tra phiếu lương mỗi tháng.
+apply for|nộp đơn xin|I want to apply for this job.|Tôi muốn nộp đơn xin công việc này.
+quit|nghỉ việc; bỏ|He decided to quit his job.|Anh ấy quyết định nghỉ việc.
+
+@3|Sở thích và giải trí|Thủ công, thể thao, trò chơi, công viên|Hobbies
+knitting|đan len|My grandmother enjoys knitting.|Bà tôi thích đan len.
+sewing|may vá|Sewing is a useful skill.|May vá là một kỹ năng hữu ích.
+woodwork|nghề mộc, đồ gỗ|He learned woodwork at school.|Cậu ấy học làm mộc ở trường.
+sketching|vẽ phác thảo|She likes sketching in the park.|Cô ấy thích vẽ phác thảo trong công viên.
+stamp collecting|sưu tầm tem|Stamp collecting was my father's hobby.|Sưu tầm tem từng là sở thích của bố tôi.
+coin collecting|sưu tầm tiền xu|He started coin collecting as a boy.|Anh ấy bắt đầu sưu tầm tiền xu từ nhỏ.
+birdwatching|ngắm chim|We went birdwatching by the lake.|Chúng tôi đi ngắm chim bên hồ.
+stargazing|ngắm sao|The desert is perfect for stargazing.|Sa mạc rất lý tưởng để ngắm sao.
+gardening|làm vườn|Gardening keeps her busy.|Làm vườn khiến bà ấy bận rộn.
+baking|làm bánh|Baking is fun on a rainy day.|Làm bánh rất vui vào ngày mưa.
+hunting|săn bắn|Hunting is not allowed in the park.|Không được phép săn bắn trong công viên.
+trekking|đi bộ đường dài|We went trekking in Sapa.|Chúng tôi đi bộ đường dài ở Sa Pa.
+rock climbing|leo núi đá|Rock climbing needs strong arms.|Leo núi đá cần cánh tay khỏe.
+mountaineering|leo núi (chuyên nghiệp)|Mountaineering can be dangerous.|Leo núi có thể nguy hiểm.
+rafting|chèo bè vượt thác|We tried rafting on the river.|Chúng tôi thử chèo bè vượt thác trên sông.
+windsurfing|lướt ván buồm|Windsurfing is popular in Mui Ne.|Lướt ván buồm phổ biến ở Mũi Né.
+rollerblading|trượt patin|The kids went rollerblading.|Bọn trẻ đi trượt patin.
+skiing|trượt tuyết|We go skiing every winter.|Mùa đông nào chúng tôi cũng đi trượt tuyết.
+horse riding|cưỡi ngựa|She takes horse riding lessons.|Cô ấy học cưỡi ngựa.
+dominoes|cờ đô-mi-nô|The old men play dominoes in the square.|Các cụ ông chơi đô-mi-nô ở quảng trường.
+card game|trò chơi bài|We played a card game after dinner.|Chúng tôi chơi bài sau bữa tối.
+board game|trò chơi cờ bàn|Monopoly is a famous board game.|Cờ tỷ phú là một trò chơi cờ bàn nổi tiếng.
+jigsaw puzzle|trò chơi ghép hình|The jigsaw puzzle has a thousand pieces.|Bộ ghép hình có một nghìn mảnh.
+crossword|ô chữ|I do the crossword every morning.|Sáng nào tôi cũng giải ô chữ.
+sudoku|trò chơi sudoku|He does a sudoku on the train.|Anh ấy chơi sudoku trên tàu.
+video game|trò chơi điện tử|He plays a video game after school.|Cậu ấy chơi trò chơi điện tử sau giờ học.
+ballroom dancing|khiêu vũ cổ điển|My parents do ballroom dancing.|Bố mẹ tôi tập khiêu vũ cổ điển.
+salsa|điệu nhảy salsa; nước xốt salsa|We took a salsa class.|Chúng tôi học một lớp nhảy salsa.
+tai chi|thái cực quyền|Old people do tai chi in the park.|Người già tập thái cực quyền trong công viên.
+martial arts|võ thuật|He has studied martial arts for years.|Anh ấy học võ nhiều năm.
+judo|môn judo|She has a black belt in judo.|Cô ấy có đai đen judo.
+karate|môn karate|My son goes to karate on Saturday.|Con trai tôi đi học karate vào thứ Bảy.
+taekwondo|môn taekwondo|Taekwondo comes from Korea.|Taekwondo có nguồn gốc từ Hàn Quốc.
+kung fu|kung fu, võ Trung Hoa|He loves kung fu films.|Anh ấy mê phim kung fu.
+bodybuilding|thể hình|Bodybuilding takes a lot of discipline.|Tập thể hình cần rất nhiều kỷ luật.
+aerobics|thể dục nhịp điệu|She does aerobics three times a week.|Cô ấy tập thể dục nhịp điệu ba lần một tuần.
+bonfire|lửa trại|We sang songs around the bonfire.|Chúng tôi hát quanh đống lửa trại.
+treasure hunt|trò chơi truy tìm kho báu|The children went on a treasure hunt.|Bọn trẻ chơi truy tìm kho báu.
+kite flying|thả diều|Kite flying is fun on a windy day.|Thả diều rất vui vào ngày nhiều gió.
+magic trick|trò ảo thuật|He showed us a magic trick.|Anh ấy cho chúng tôi xem một trò ảo thuật.
+juggling|tung hứng|The clown is juggling three balls.|Chú hề đang tung hứng ba quả bóng.
+puppet show|buổi múa rối|We watched a water puppet show.|Chúng tôi xem một buổi múa rối nước.
+amusement park|công viên giải trí|We spent the day at an amusement park.|Chúng tôi chơi cả ngày ở công viên giải trí.
+roller coaster|tàu lượn siêu tốc|I was scared on the roller coaster.|Tôi sợ khi đi tàu lượn siêu tốc.
+Ferris wheel|vòng đu quay|You can see the city from the Ferris wheel.|Bạn có thể ngắm thành phố từ vòng đu quay.
+merry-go-round|vòng quay ngựa gỗ|The little girl rode the merry-go-round.|Cô bé cưỡi vòng quay ngựa gỗ.
+haunted house|ngôi nhà ma|We screamed in the haunted house.|Chúng tôi hét lên trong ngôi nhà ma.
+water park|công viên nước|The water park opens in summer.|Công viên nước mở cửa vào mùa hè.
+chill out|thư giãn|I just want to chill out tonight.|Tối nay tôi chỉ muốn thư giãn.
+take up|bắt đầu (một sở thích)|I want to take up painting.|Tôi muốn bắt đầu học vẽ.
+join in|tham gia cùng|Come and join in the game.|Hãy đến tham gia trò chơi cùng nào.
+be keen on|rất thích|You must be keen on football.|Chắc hẳn bạn rất thích bóng đá.
+be fond of|yêu thích|You will be fond of this town.|Bạn sẽ yêu thích thị trấn này.
+be into|mê, thích|My kids will be into this game.|Bọn trẻ nhà tôi sẽ mê trò chơi này.
+sculpting|điêu khắc|Sculpting in clay is relaxing.|Điêu khắc đất sét rất thư giãn.
+scrapbooking|làm sổ lưu niệm|She keeps her photos through scrapbooking.|Cô ấy lưu ảnh bằng cách làm sổ lưu niệm.
+caving|thám hiểm hang động|Caving is popular in Quang Binh.|Thám hiểm hang động phổ biến ở Quảng Bình.
+sledding|trượt xe tuyết|The children went sledding on the hill.|Bọn trẻ đi trượt xe tuyết trên đồi.
+backgammon|cờ thỏ cáo (backgammon)|They play backgammon in the café.|Họ chơi cờ backgammon trong quán cà phê.
+role-playing game|trò chơi nhập vai|He plays a role-playing game online.|Anh ấy chơi một trò chơi nhập vai trên mạng.
+pilates|môn pilates|Pilates is good for your back.|Pilates tốt cho lưng của bạn.
+model making|làm mô hình|Model making needs patience.|Làm mô hình cần sự kiên nhẫn.
+bumper car|xe điện đụng|The boy drove a bumper car at the fair.|Cậu bé lái xe điện đụng ở hội chợ.

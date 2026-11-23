@@ -777,7 +777,7 @@ fussy|cầu kỳ, khó tính|She is fussy about her food.|Cô ấy khó tính tr
 petrified|sợ cứng người|I was petrified when the lights went out.|Tôi sợ cứng người khi đèn tắt.
 remorseful|ăn năn, hối hận|He seemed remorseful about what he had done.|Anh ta có vẻ hối hận về việc mình đã làm.
 
-%355|3|Phần 5: Mở rộng – Công sở và việc làm|Công sở và việc làm, Từ vựng tổng hợp|sun
+%355|3|Phần 5: Mở rộng – Công sở và việc làm|Công sở và việc làm, Sức khỏe và cơ thể, Thành phố và giao thông|sun
 @y3081|Công sở và việc làm 1|Tuyển dụng, chế độ, đồ dùng văn phòng|Office
 résumé|sơ yếu lý lịch|Send your résumé by email.|Hãy gửi sơ yếu lý lịch qua email.
 cover letter|thư xin việc|Write a short cover letter.|Hãy viết một lá thư xin việc ngắn.
@@ -842,7 +842,232 @@ letterhead|tiêu đề thư công ty|Print the letter on paper with our letterhe
 lanyard|dây đeo thẻ|He wore his badge on a lanyard.|Anh ấy đeo thẻ bằng dây đeo.
 telecommute|làm việc từ xa|Many staff telecommute two days a week.|Nhiều nhân viên làm việc từ xa hai ngày một tuần.
 
-@y3085|Từ vựng tổng hợp 1|Từ thuộc nhiều chủ đề|Mix
+@y3085|Sức khỏe và cơ thể 1|Bộ phận cơ thể, triệu chứng, bệnh viện|Health
+hip|hông|She fell and hurt her hip.|Cô ấy ngã và bị đau hông.
+waist|eo, vòng eo|He tied a rope around his waist.|Anh ấy buộc một sợi dây quanh eo.
+jaw|hàm|He broke his jaw in the accident.|Anh ấy bị gãy hàm trong vụ tai nạn.
+eyebrow|lông mày|She raised one eyebrow.|Cô ấy nhướn một bên lông mày.
+gum|lợi (nướu); kẹo cao su|My gum hurts when I brush my teeth.|Lợi tôi đau khi đánh răng.
+backache|đau lưng|Sitting all day gives me a backache.|Ngồi cả ngày làm tôi đau lưng.
+earache|đau tai|The baby is crying because of an earache.|Em bé khóc vì đau tai.
+runny nose|sổ mũi|I have a cough and a runny nose.|Tôi bị ho và sổ mũi.
+stuffy nose|nghẹt mũi|I cannot sleep with a stuffy nose.|Tôi không ngủ được khi nghẹt mũi.
+burp|ợ hơi|The baby needs to burp after milk.|Em bé cần ợ hơi sau khi bú.
+sweat|mồ hôi; đổ mồ hôi|I sweat a lot when I run.|Tôi đổ nhiều mồ hôi khi chạy.
+shiver|run rẩy|The cold wind made me shiver.|Gió lạnh làm tôi run rẩy.
+itch|ngứa; cơn ngứa|Mosquito bites itch a lot.|Vết muỗi đốt rất ngứa.
+chickenpox|bệnh thủy đậu|My son caught chickenpox at school.|Con trai tôi bị lây thủy đậu ở trường.
+
+@y3086|Sức khỏe và cơ thể 2|Bộ phận cơ thể, triệu chứng, bệnh viện|Health
+cough syrup|si-rô ho|Take a spoon of cough syrup before bed.|Hãy uống một thìa si-rô ho trước khi ngủ.
+eye drops|thuốc nhỏ mắt|Use the eye drops twice a day.|Hãy nhỏ thuốc mắt hai lần một ngày.
+first aid kit|bộ sơ cứu|We keep a first aid kit in the car.|Chúng tôi để một bộ sơ cứu trong xe.
+midwife|bà đỡ, nữ hộ sinh|The midwife helped deliver the baby.|Nữ hộ sinh giúp đỡ đẻ em bé.
+paramedic|nhân viên cấp cứu|A paramedic treated him at the scene.|Một nhân viên cấp cứu xử trí cho anh ấy tại hiện trường.
+waiting room|phòng chờ|The waiting room was full.|Phòng chờ đã kín người.
+emergency room|phòng cấp cứu|They took him to the emergency room.|Họ đưa anh ấy vào phòng cấp cứu.
+operating room|phòng mổ|The patient is in the operating room.|Bệnh nhân đang ở trong phòng mổ.
+blood test|xét nghiệm máu|The doctor ordered a blood test.|Bác sĩ chỉ định xét nghiệm máu.
+blood pressure|huyết áp|My father has high blood pressure.|Bố tôi bị huyết áp cao.
+heartbeat|nhịp tim|The doctor listened to my heartbeat.|Bác sĩ nghe nhịp tim của tôi.
+pulse|mạch|The nurse checked his pulse.|Y tá kiểm tra mạch của anh ấy.
+hygiene|vệ sinh|Good hygiene prevents illness.|Giữ vệ sinh tốt giúp phòng bệnh.
+stay in shape|giữ dáng, giữ sức khỏe|I swim to stay in shape.|Tôi bơi để giữ dáng.
+
+@y3087|Thành phố và giao thông 1|Đường phố, vé tàu xe, phương tiện|City
+avenue|đại lộ|The hotel is on Fifth Avenue.|Khách sạn nằm trên Đại lộ số Năm.
+boulevard|đại lộ rộng có cây|We walked along the boulevard.|Chúng tôi đi dạo dọc đại lộ.
+zebra crossing|vạch sang đường cho người đi bộ|Cross the road at the zebra crossing.|Hãy sang đường ở vạch kẻ cho người đi bộ.
+rush hour|giờ cao điểm|The buses are full at rush hour.|Xe buýt chật kín vào giờ cao điểm.
+speed limit|giới hạn tốc độ|The speed limit here is fifty.|Giới hạn tốc độ ở đây là năm mươi.
+road sign|biển báo giao thông|I did not see the road sign.|Tôi không nhìn thấy biển báo.
+street lamp|đèn đường|The street lamp outside my window is broken.|Đèn đường ngoài cửa sổ nhà tôi bị hỏng.
+lamppost|cột đèn|He tied his bike to a lamppost.|Anh ấy khóa xe đạp vào cột đèn.
+bus lane|làn xe buýt|Cars cannot drive in the bus lane.|Ô tô không được chạy trong làn xe buýt.
+bike lane|làn xe đạp|The new road has a bike lane.|Con đường mới có làn xe đạp.
+parking meter|đồng hồ tính tiền đỗ xe|Put a coin in the parking meter.|Hãy bỏ một đồng xu vào đồng hồ đỗ xe.
+parking ticket|vé phạt đỗ xe|I got a parking ticket yesterday.|Hôm qua tôi bị vé phạt đỗ xe.
+toll|phí đường bộ; số thương vong|We paid a toll to cross the bridge.|Chúng tôi trả phí để qua cầu.
+flyover|cầu vượt|A new flyover was built over the junction.|Một cây cầu vượt mới được xây trên nút giao.
+
+@y3088|Thành phố và giao thông 2|Đường phố, vé tàu xe, phương tiện|City
+footbridge|cầu đi bộ|Use the footbridge to cross the river.|Hãy dùng cầu đi bộ để qua sông.
+subway station|ga tàu điện ngầm|The subway station is two blocks away.|Ga tàu điện ngầm cách đây hai dãy nhà.
+ticket office|phòng vé|The ticket office opens at six.|Phòng vé mở lúc sáu giờ.
+ticket machine|máy bán vé|The ticket machine does not take cards.|Máy bán vé không nhận thẻ.
+single ticket|vé một chiều|A single ticket to Hue, please.|Cho tôi một vé một chiều đi Huế.
+return ticket|vé khứ hồi|A return ticket is cheaper.|Vé khứ hồi rẻ hơn.
+season ticket|vé tháng, vé mùa|I buy a season ticket for the train.|Tôi mua vé tháng đi tàu.
+driver's license|bằng lái xe|May I see your driver's license?|Cho tôi xem bằng lái xe của anh.
+number plate|biển số xe|I wrote down the number plate.|Tôi ghi lại biển số xe.
+moped|xe máy nhỏ|He rides a moped to school.|Cậu ấy đi xe máy nhỏ đến trường.
+lorry|xe tải (Anh)|A lorry blocked the road.|Một chiếc xe tải chắn ngang đường.
+pickup truck|xe bán tải|He drives an old pickup truck.|Ông ấy lái một chiếc xe bán tải cũ.
+minibus|xe buýt nhỏ|A minibus took us to the hotel.|Một chiếc xe buýt nhỏ đưa chúng tôi về khách sạn.
+
+@y3089|Thành phố và giao thông 3|Đường phố, vé tàu xe, phương tiện|City
+compartment|khoang, ngăn|We found an empty compartment on the train.|Chúng tôi tìm được một khoang trống trên tàu.
+luggage rack|giá để hành lý|Put your bag on the luggage rack.|Hãy để túi lên giá hành lý.
+ticket inspector|người soát vé|The ticket inspector checked my ticket.|Người soát vé kiểm tra vé của tôi.
+apartment block|khu chung cư|They live in a tall apartment block.|Họ sống trong một khu chung cư cao tầng.
+town hall|tòa thị chính|The wedding was at the town hall.|Đám cưới diễn ra ở tòa thị chính.
+litter bin|thùng rác công cộng|Put your rubbish in the litter bin.|Hãy bỏ rác vào thùng rác.
+mailbox|hộp thư|I found a letter in the mailbox.|Tôi thấy một lá thư trong hộp thư.
+phone booth|buồng điện thoại|There is an old phone booth on the corner.|Có một buồng điện thoại cũ ở góc phố.
+fire hydrant|trụ nước cứu hỏa|Do not park next to a fire hydrant.|Đừng đỗ xe cạnh trụ nước cứu hỏa.
+manhole|hố ga|A worker climbed out of the manhole.|Một công nhân trèo ra khỏi hố ga.
+noise pollution|ô nhiễm tiếng ồn|Noise pollution is a problem near the airport.|Ô nhiễm tiếng ồn là vấn đề ở gần sân bay.
+air pollution|ô nhiễm không khí|Air pollution is bad in big cities.|Ô nhiễm không khí nghiêm trọng ở các thành phố lớn.
+overcrowded|quá đông đúc|The train was overcrowded.|Tàu quá đông.
+
+@y3090|Thành phố và giao thông 4|Đường phố, vé tàu xe, phương tiện|City
+bustling|nhộn nhịp|We walked through the bustling market.|Chúng tôi đi qua khu chợ nhộn nhịp.
+lively|sôi động|It is a lively part of town.|Đó là một khu sôi động của thị trấn.
+run-down|xuống cấp|They live in a run-down building.|Họ sống trong một tòa nhà xuống cấp.
+drop off|thả xuống, đưa đến|Can you drop off the kids at school?|Bạn có thể đưa bọn trẻ đến trường không?
+pull over|tấp xe vào lề|The police told him to pull over.|Cảnh sát bảo anh ta tấp xe vào lề.
+run over|cán qua|Be careful not to run over the cat.|Cẩn thận kẻo cán qua con mèo.
+give way|nhường đường|You must give way to buses.|Bạn phải nhường đường cho xe buýt.
+honk|bấm còi|Do not honk near the hospital.|Đừng bấm còi gần bệnh viện.
+dead end|đường cụt|This road is a dead end.|Đường này là đường cụt.
+one-way street|đường một chiều|You cannot turn here; it is a one-way street.|Bạn không thể rẽ ở đây; đây là đường một chiều.
+taxi rank|bến đỗ taxi|There is a taxi rank outside the station.|Có một bến taxi bên ngoài nhà ga.
+monorail|tàu một ray|The monorail goes to the airport.|Tàu một ray chạy đến sân bay.
+city hall|tòa thị chính thành phố|Protesters gathered outside city hall.|Người biểu tình tụ tập bên ngoài tòa thị chính.
+
+%356|3|Phần 6: Mở rộng – Nghề nghiệp|Nghề nghiệp, Sở thích và giải trí, Từ vựng tổng hợp|leaf
+@y3101|Nghề nghiệp 1|Các nghề và từ về công việc|Jobs
+bricklayer|thợ xây (xây gạch)|The bricklayer built a wall.|Người thợ xây đã xây một bức tường.
+builder|thợ xây, nhà thầu|A builder is fixing our roof.|Một người thợ đang sửa mái nhà chúng tôi.
+janitor|người lao công|The janitor cleans the school every evening.|Người lao công dọn trường mỗi tối.
+caretaker|người trông nom (tòa nhà)|The caretaker has the keys.|Người trông nom tòa nhà giữ chìa khóa.
+security guard|nhân viên bảo vệ|A security guard stood at the door.|Một nhân viên bảo vệ đứng ở cửa.
+bodyguard|vệ sĩ|The singer arrived with a bodyguard.|Ca sĩ đến cùng một vệ sĩ.
+air traffic controller|kiểm soát viên không lưu|An air traffic controller guides planes.|Kiểm soát viên không lưu dẫn đường cho máy bay.
+train driver|người lái tàu|The train driver stopped the train.|Người lái tàu cho tàu dừng lại.
+bus driver|tài xế xe buýt|The bus driver was friendly.|Tài xế xe buýt rất thân thiện.
+taxi driver|tài xế taxi|The taxi driver knew the way.|Tài xế taxi biết đường.
+truck driver|tài xế xe tải|My uncle is a truck driver.|Chú tôi là tài xế xe tải.
+mail carrier|người đưa thư|The mail carrier comes at ten.|Người đưa thư đến lúc mười giờ.
+delivery driver|tài xế giao hàng|The delivery driver left the box at the door.|Tài xế giao hàng để hộp ở cửa.
+
+@y3102|Nghề nghiệp 2|Các nghề và từ về công việc|Jobs
+shop assistant|nhân viên bán hàng|The shop assistant helped me find my size.|Nhân viên bán hàng giúp tôi tìm cỡ của mình.
+salesperson|người bán hàng|The salesperson showed us a new car.|Người bán hàng cho chúng tôi xem một chiếc xe mới.
+clerk|nhân viên văn phòng, thư ký|The clerk gave me a form.|Nhân viên đưa cho tôi một tờ đơn.
+typist|nhân viên đánh máy|She worked as a typist.|Bà ấy từng làm nhân viên đánh máy.
+bank teller|giao dịch viên ngân hàng|The bank teller counted the money.|Giao dịch viên ngân hàng đếm tiền.
+estate agent|nhân viên môi giới nhà đất|The estate agent showed us three houses.|Nhân viên môi giới cho chúng tôi xem ba căn nhà.
+interpreter|phiên dịch viên|We spoke through an interpreter.|Chúng tôi nói chuyện qua phiên dịch viên.
+translator|biên dịch viên|She works as a translator of novels.|Cô ấy làm biên dịch tiểu thuyết.
+reporter|phóng viên|A reporter asked him a question.|Một phóng viên hỏi anh ấy một câu.
+photographer|nhiếp ảnh gia|The photographer took our picture.|Nhiếp ảnh gia chụp ảnh cho chúng tôi.
+cameraman|người quay phim|The cameraman followed the players.|Người quay phim bám theo các cầu thủ.
+designer|nhà thiết kế|She is a fashion designer.|Cô ấy là nhà thiết kế thời trang.
+technician|kỹ thuật viên|A technician fixed the printer.|Một kỹ thuật viên sửa máy in.
+
+@y3103|Nghề nghiệp 3|Các nghề và từ về công việc|Jobs
+researcher|nhà nghiên cứu|The researcher studies sleep.|Nhà nghiên cứu này nghiên cứu về giấc ngủ.
+vet|bác sĩ thú y|We took the dog to the vet.|Chúng tôi đưa chó đến bác sĩ thú y.
+optician|chuyên viên đo mắt, bán kính|The optician tested my eyes.|Chuyên viên đo mắt kiểm tra mắt cho tôi.
+beautician|chuyên viên thẩm mỹ|The beautician did her nails.|Chuyên viên thẩm mỹ làm móng cho cô ấy.
+dressmaker|thợ may váy áo|A dressmaker made her wedding dress.|Một thợ may đã may váy cưới cho cô ấy.
+shoemaker|thợ đóng giày|The shoemaker repaired my boots.|Người thợ giày sửa đôi bốt của tôi.
+jeweler|thợ kim hoàn|The jeweler fixed my ring.|Người thợ kim hoàn sửa nhẫn cho tôi.
+bartender|người pha chế ở quầy bar|The bartender made me a drink.|Người pha chế làm cho tôi một ly.
+miner|thợ mỏ|His grandfather was a coal miner.|Ông của anh ấy là thợ mỏ than.
+factory worker|công nhân nhà máy|My mother is a factory worker.|Mẹ tôi là công nhân nhà máy.
+lumberjack|thợ đốn gỗ|The lumberjack cut down the tree.|Người thợ đốn gỗ chặt cái cây.
+shepherd|người chăn cừu|The shepherd watched his sheep.|Người chăn cừu trông đàn cừu.
+
+@y3104|Nghề nghiệp 4|Các nghề và từ về công việc|Jobs
+beekeeper|người nuôi ong|The beekeeper sells honey.|Người nuôi ong bán mật ong.
+housekeeper|quản gia, người giúp việc|The housekeeper cleans the rooms.|Người giúp việc dọn các phòng.
+maid|người hầu gái, nhân viên dọn phòng|The maid changed the sheets.|Nhân viên dọn phòng thay ga giường.
+butler|quản gia (nam)|The butler opened the door.|Người quản gia mở cửa.
+chauffeur|tài xế riêng|His chauffeur waited outside.|Tài xế riêng của ông ấy đợi bên ngoài.
+detective|thám tử|The detective found a clue.|Thám tử tìm được một manh mối.
+politician|chính trị gia|The politician promised new jobs.|Chính trị gia hứa tạo việc làm mới.
+day shift|ca ngày|I work the day shift this week.|Tuần này tôi làm ca ngày.
+pay rise|đợt tăng lương|She asked for a pay rise.|Cô ấy xin tăng lương.
+payslip|phiếu lương|Check your payslip every month.|Hãy kiểm tra phiếu lương mỗi tháng.
+apply for|nộp đơn xin|I want to apply for this job.|Tôi muốn nộp đơn xin công việc này.
+quit|nghỉ việc; bỏ|He decided to quit his job.|Anh ấy quyết định nghỉ việc.
+
+@y3105|Sở thích và giải trí 1|Thủ công, thể thao, trò chơi, công viên|Hobbies
+knitting|đan len|My grandmother enjoys knitting.|Bà tôi thích đan len.
+sewing|may vá|Sewing is a useful skill.|May vá là một kỹ năng hữu ích.
+woodwork|nghề mộc, đồ gỗ|He learned woodwork at school.|Cậu ấy học làm mộc ở trường.
+sketching|vẽ phác thảo|She likes sketching in the park.|Cô ấy thích vẽ phác thảo trong công viên.
+stamp collecting|sưu tầm tem|Stamp collecting was my father's hobby.|Sưu tầm tem từng là sở thích của bố tôi.
+coin collecting|sưu tầm tiền xu|He started coin collecting as a boy.|Anh ấy bắt đầu sưu tầm tiền xu từ nhỏ.
+birdwatching|ngắm chim|We went birdwatching by the lake.|Chúng tôi đi ngắm chim bên hồ.
+stargazing|ngắm sao|The desert is perfect for stargazing.|Sa mạc rất lý tưởng để ngắm sao.
+gardening|làm vườn|Gardening keeps her busy.|Làm vườn khiến bà ấy bận rộn.
+baking|làm bánh|Baking is fun on a rainy day.|Làm bánh rất vui vào ngày mưa.
+hunting|săn bắn|Hunting is not allowed in the park.|Không được phép săn bắn trong công viên.
+trekking|đi bộ đường dài|We went trekking in Sapa.|Chúng tôi đi bộ đường dài ở Sa Pa.
+rock climbing|leo núi đá|Rock climbing needs strong arms.|Leo núi đá cần cánh tay khỏe.
+
+@y3106|Sở thích và giải trí 2|Thủ công, thể thao, trò chơi, công viên|Hobbies
+mountaineering|leo núi (chuyên nghiệp)|Mountaineering can be dangerous.|Leo núi có thể nguy hiểm.
+rafting|chèo bè vượt thác|We tried rafting on the river.|Chúng tôi thử chèo bè vượt thác trên sông.
+windsurfing|lướt ván buồm|Windsurfing is popular in Mui Ne.|Lướt ván buồm phổ biến ở Mũi Né.
+rollerblading|trượt patin|The kids went rollerblading.|Bọn trẻ đi trượt patin.
+skiing|trượt tuyết|We go skiing every winter.|Mùa đông nào chúng tôi cũng đi trượt tuyết.
+horse riding|cưỡi ngựa|She takes horse riding lessons.|Cô ấy học cưỡi ngựa.
+dominoes|cờ đô-mi-nô|The old men play dominoes in the square.|Các cụ ông chơi đô-mi-nô ở quảng trường.
+card game|trò chơi bài|We played a card game after dinner.|Chúng tôi chơi bài sau bữa tối.
+board game|trò chơi cờ bàn|Monopoly is a famous board game.|Cờ tỷ phú là một trò chơi cờ bàn nổi tiếng.
+jigsaw puzzle|trò chơi ghép hình|The jigsaw puzzle has a thousand pieces.|Bộ ghép hình có một nghìn mảnh.
+crossword|ô chữ|I do the crossword every morning.|Sáng nào tôi cũng giải ô chữ.
+sudoku|trò chơi sudoku|He does a sudoku on the train.|Anh ấy chơi sudoku trên tàu.
+video game|trò chơi điện tử|He plays a video game after school.|Cậu ấy chơi trò chơi điện tử sau giờ học.
+
+@y3107|Sở thích và giải trí 3|Thủ công, thể thao, trò chơi, công viên|Hobbies
+ballroom dancing|khiêu vũ cổ điển|My parents do ballroom dancing.|Bố mẹ tôi tập khiêu vũ cổ điển.
+salsa|điệu nhảy salsa; nước xốt salsa|We took a salsa class.|Chúng tôi học một lớp nhảy salsa.
+tai chi|thái cực quyền|Old people do tai chi in the park.|Người già tập thái cực quyền trong công viên.
+martial arts|võ thuật|He has studied martial arts for years.|Anh ấy học võ nhiều năm.
+judo|môn judo|She has a black belt in judo.|Cô ấy có đai đen judo.
+karate|môn karate|My son goes to karate on Saturday.|Con trai tôi đi học karate vào thứ Bảy.
+taekwondo|môn taekwondo|Taekwondo comes from Korea.|Taekwondo có nguồn gốc từ Hàn Quốc.
+kung fu|kung fu, võ Trung Hoa|He loves kung fu films.|Anh ấy mê phim kung fu.
+bodybuilding|thể hình|Bodybuilding takes a lot of discipline.|Tập thể hình cần rất nhiều kỷ luật.
+aerobics|thể dục nhịp điệu|She does aerobics three times a week.|Cô ấy tập thể dục nhịp điệu ba lần một tuần.
+bonfire|lửa trại|We sang songs around the bonfire.|Chúng tôi hát quanh đống lửa trại.
+treasure hunt|trò chơi truy tìm kho báu|The children went on a treasure hunt.|Bọn trẻ chơi truy tìm kho báu.
+kite flying|thả diều|Kite flying is fun on a windy day.|Thả diều rất vui vào ngày nhiều gió.
+
+@y3108|Sở thích và giải trí 4|Thủ công, thể thao, trò chơi, công viên|Hobbies
+magic trick|trò ảo thuật|He showed us a magic trick.|Anh ấy cho chúng tôi xem một trò ảo thuật.
+juggling|tung hứng|The clown is juggling three balls.|Chú hề đang tung hứng ba quả bóng.
+puppet show|buổi múa rối|We watched a water puppet show.|Chúng tôi xem một buổi múa rối nước.
+amusement park|công viên giải trí|We spent the day at an amusement park.|Chúng tôi chơi cả ngày ở công viên giải trí.
+roller coaster|tàu lượn siêu tốc|I was scared on the roller coaster.|Tôi sợ khi đi tàu lượn siêu tốc.
+Ferris wheel|vòng đu quay|You can see the city from the Ferris wheel.|Bạn có thể ngắm thành phố từ vòng đu quay.
+merry-go-round|vòng quay ngựa gỗ|The little girl rode the merry-go-round.|Cô bé cưỡi vòng quay ngựa gỗ.
+haunted house|ngôi nhà ma|We screamed in the haunted house.|Chúng tôi hét lên trong ngôi nhà ma.
+water park|công viên nước|The water park opens in summer.|Công viên nước mở cửa vào mùa hè.
+chill out|thư giãn|I just want to chill out tonight.|Tối nay tôi chỉ muốn thư giãn.
+take up|bắt đầu (một sở thích)|I want to take up painting.|Tôi muốn bắt đầu học vẽ.
+join in|tham gia cùng|Come and join in the game.|Hãy đến tham gia trò chơi cùng nào.
+
+@y3109|Sở thích và giải trí 5|Thủ công, thể thao, trò chơi, công viên|Hobbies
+be keen on|rất thích|You must be keen on football.|Chắc hẳn bạn rất thích bóng đá.
+be fond of|yêu thích|You will be fond of this town.|Bạn sẽ yêu thích thị trấn này.
+be into|mê, thích|My kids will be into this game.|Bọn trẻ nhà tôi sẽ mê trò chơi này.
+sculpting|điêu khắc|Sculpting in clay is relaxing.|Điêu khắc đất sét rất thư giãn.
+scrapbooking|làm sổ lưu niệm|She keeps her photos through scrapbooking.|Cô ấy lưu ảnh bằng cách làm sổ lưu niệm.
+caving|thám hiểm hang động|Caving is popular in Quang Binh.|Thám hiểm hang động phổ biến ở Quảng Bình.
+sledding|trượt xe tuyết|The children went sledding on the hill.|Bọn trẻ đi trượt xe tuyết trên đồi.
+backgammon|cờ thỏ cáo (backgammon)|They play backgammon in the café.|Họ chơi cờ backgammon trong quán cà phê.
+role-playing game|trò chơi nhập vai|He plays a role-playing game online.|Anh ấy chơi một trò chơi nhập vai trên mạng.
+pilates|môn pilates|Pilates is good for your back.|Pilates tốt cho lưng của bạn.
+model making|làm mô hình|Model making needs patience.|Làm mô hình cần sự kiên nhẫn.
+bumper car|xe điện đụng|The boy drove a bumper car at the fair.|Cậu bé lái xe điện đụng ở hội chợ.
+
+@y3110|Từ vựng tổng hợp 1|Từ thuộc nhiều chủ đề|Mix
 candlestick|chân nến|There is a silver candlestick on the table.|Có một chiếc chân nến bạc trên bàn.
 ornament|đồ trang trí|She hung an ornament on the tree.|Cô ấy treo một món đồ trang trí lên cây.
 picture frame|khung ảnh|The photo is in a wooden picture frame.|Bức ảnh nằm trong khung gỗ.
@@ -858,7 +1083,7 @@ odometer|đồng hồ đo quãng đường|The odometer shows fifty thousand kil
 tailgate|bám sát đuôi xe; cửa hậu|Do not tailgate the car in front.|Đừng bám sát đuôi xe phía trước.
 promenade|đường dạo ven biển|We walked along the promenade at sunset.|Chúng tôi đi dạo trên đường ven biển lúc hoàng hôn.
 
-@y3086|Từ vựng tổng hợp 2|Từ thuộc nhiều chủ đề|Mix
+@y3111|Từ vựng tổng hợp 2|Từ thuộc nhiều chủ đề|Mix
 boardwalk|lối đi lát ván ven biển|There are food stalls on the boardwalk.|Có các quầy đồ ăn trên lối đi lát ván.
 immigration desk|quầy xuất nhập cảnh|Show your passport at the immigration desk.|Hãy xuất trình hộ chiếu ở quầy xuất nhập cảnh.
 bellhop|nhân viên xách hành lý khách sạn|The bellhop took our bags to the room.|Nhân viên xách hành lý mang túi của chúng tôi lên phòng.
