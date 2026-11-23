@@ -159,7 +159,8 @@ dragon fruit|thanh long|Dragon fruit grows well in Binh Thuan.|Thanh long mọc 
 starfruit|quả khế|There is a starfruit tree in our garden.|Vườn nhà tôi có một cây khế.
 tamarind|quả me|This candy is made from tamarind.|Kẹo này làm từ me.
 
-@y3011|Rau củ và trái cây 3|Rau, củ, trái cây nhiệt đới, quả mọng|Fruit
+%352|3|Phần 2: Mở rộng – Rau củ và trái cây|Rau củ và trái cây, Trang phục và phụ kiện, Vải và may vá, Các phần của ngôi nhà|sky
+@y3021|Rau củ và trái cây 3|Rau, củ, trái cây nhiệt đới, quả mọng|Fruit
 tangerine|quả quýt|She peeled a tangerine for the child.|Cô ấy bóc một quả quýt cho đứa bé.
 grapefruit|quả bưởi chùm|He eats half a grapefruit every morning.|Sáng nào anh ấy cũng ăn nửa quả bưởi chùm.
 blackberry|quả mâm xôi đen|We picked a blackberry from the bush.|Chúng tôi hái một quả mâm xôi đen từ bụi cây.
@@ -173,6 +174,124 @@ parsnip|củ cải vàng|Roast the parsnip with honey.|Hãy nướng củ cải 
 nectarine|quả xuân đào|A nectarine has smooth skin.|Quả xuân đào có vỏ nhẵn.
 gooseberry|quả lý gai|She made a pie with gooseberry jam.|Cô ấy làm bánh với mứt lý gai.
 honeydew|dưa lê, dưa bở xanh|We ate honeydew melon after dinner.|Chúng tôi ăn dưa lê sau bữa tối.
+
+@y3022|Trang phục và phụ kiện 1|Kiểu áo quần, giày dép, trang sức|Clothes
+lining|lớp vải lót|The coat has a warm lining.|Chiếc áo khoác có lớp lót ấm.
+ribbon|dải ruy băng|She tied a ribbon in her hair.|Cô ấy buộc một dải ruy băng lên tóc.
+fringe|tua rua; tóc mái|The scarf has a long fringe.|Chiếc khăn có tua rua dài.
+sequin|hạt kim sa|A sequin fell off her dress.|Một hạt kim sa rơi khỏi váy cô ấy.
+waistband|cạp quần, cạp váy|The waistband is too tight for me.|Cạp quần quá chật với tôi.
+sweatshirt|áo nỉ|He wore a grey sweatshirt.|Anh ấy mặc một chiếc áo nỉ xám.
+turtleneck|áo cổ lọ|She wore a black turtleneck.|Cô ấy mặc áo cổ lọ màu đen.
+tank top|áo ba lỗ|He wears a tank top at the gym.|Anh ấy mặc áo ba lỗ ở phòng tập.
+blouse|áo sơ mi nữ|She ironed her white blouse.|Cô ấy là chiếc áo sơ mi trắng.
+tunic|áo dáng dài rộng|She wore a long tunic over her trousers.|Cô ấy mặc áo dáng dài bên ngoài quần.
+waistcoat|áo gi lê (kiểu Anh)|The groom wore a silver waistcoat.|Chú rể mặc áo gi lê màu bạc.
+jumpsuit|bộ áo liền quần|The pilot wore an orange jumpsuit.|Phi công mặc bộ áo liền quần màu cam.
+stockings|tất dài (nữ)|She bought a pair of black stockings.|Cô ấy mua một đôi tất dài màu đen.
+
+@y3023|Trang phục và phụ kiện 2|Kiểu áo quần, giày dép, trang sức|Clothes
+nightgown|váy ngủ|The girl wore a pink nightgown.|Cô bé mặc váy ngủ màu hồng.
+bathrobe|áo choàng tắm|The hotel gave us a soft bathrobe.|Khách sạn cho chúng tôi áo choàng tắm mềm.
+flip-flops|dép xỏ ngón, dép tông|I wear flip-flops on the beach.|Tôi đi dép tông trên bãi biển.
+loafers|giày lười|He wears brown loafers to work.|Anh ấy đi giày lười màu nâu đi làm.
+clogs|guốc, giày đế gỗ|The nurse wears white clogs.|Cô y tá đi guốc trắng.
+trench coat|áo khoác dài kiểu măng tô|The detective wore a trench coat.|Viên thám tử mặc áo khoác măng tô.
+parka|áo khoác dày có mũ|You need a parka in that cold weather.|Bạn cần áo khoác dày có mũ trong thời tiết lạnh như vậy.
+poncho|áo choàng không tay; áo mưa cánh dơi|He put on a rain poncho.|Anh ấy mặc áo mưa cánh dơi.
+shawl|khăn choàng vai|Grandma put a shawl around her shoulders.|Bà choàng một chiếc khăn lên vai.
+earmuffs|bịt tai giữ ấm|The child wore earmuffs in the snow.|Đứa trẻ đeo bịt tai trong tuyết.
+beret|mũ nồi|The painter wore a red beret.|Người họa sĩ đội mũ nồi đỏ.
+beanie|mũ len ôm đầu|He pulled his beanie over his ears.|Anh ấy kéo mũ len che tai.
+visor|lưỡi trai, tấm che mắt|She wore a visor to play tennis.|Cô ấy đội mũ lưỡi trai để chơi quần vợt.
+
+@y3024|Trang phục và phụ kiện 3|Kiểu áo quần, giày dép, trang sức|Clothes
+bandana|khăn rằn, khăn buộc đầu|He tied a bandana around his head.|Anh ấy buộc một chiếc khăn rằn quanh đầu.
+brooch|cái ghim cài áo|She pinned a brooch on her jacket.|Cô ấy cài một chiếc ghim lên áo khoác.
+bracelet|vòng tay|He gave her a silver bracelet.|Anh ấy tặng cô ấy một chiếc vòng tay bạc.
+anklet|vòng chân, lắc chân|She wears a gold anklet.|Cô ấy đeo một chiếc lắc chân vàng.
+pendant|mặt dây chuyền|The pendant is shaped like a heart.|Mặt dây chuyền có hình trái tim.
+locket|mặt dây chuyền lồng ảnh|She keeps his photo in a locket.|Cô ấy giữ ảnh anh ấy trong mặt dây chuyền lồng ảnh.
+tiara|vương miện nhỏ|The bride wore a tiara.|Cô dâu đội một chiếc vương miện nhỏ.
+bonnet|mũ trùm đầu trẻ em; nắp ca pô|The baby wore a white bonnet.|Em bé đội một chiếc mũ trùm trắng.
+moccasins|giày da mềm|He wears soft moccasins at home.|Anh ấy đi giày da mềm ở nhà.
+petticoat|váy lót|Her petticoat showed under the dress.|Váy lót của cô ấy lộ ra dưới váy.
+garter|nịt bít tất|The bride wore a blue garter.|Cô dâu đeo nịt bít tất màu xanh.
+pocket flap|nắp túi áo|The pocket flap has a small button.|Nắp túi áo có một chiếc cúc nhỏ.
+
+@y3025|Vải và may vá 1|Chất liệu vải, dụng cụ may, sửa quần áo|Sewing
+linen|vải lanh|Linen shirts are cool in summer.|Áo sơ mi vải lanh mát vào mùa hè.
+satin|vải sa tanh|She wore a satin dress.|Cô ấy mặc váy sa tanh.
+cashmere|len cashmere|This cashmere sweater is very soft.|Chiếc áo len cashmere này rất mềm.
+fleece|vải nỉ lông cừu|I wear a fleece jacket when hiking.|Tôi mặc áo khoác nỉ khi đi bộ đường dài.
+corduroy|vải nhung tăm|He wore brown corduroy trousers.|Anh ấy mặc quần nhung tăm màu nâu.
+tweed|vải tuýt|The professor wore a tweed jacket.|Vị giáo sư mặc áo khoác vải tuýt.
+flannel|vải flanen|He likes flannel shirts.|Anh ấy thích áo sơ mi flanen.
+chiffon|vải voan|Her scarf is made of chiffon.|Khăn của cô ấy làm bằng vải voan.
+polyester|vải polyester|Polyester dries very fast.|Vải polyester khô rất nhanh.
+spandex|vải thun co giãn|Cyclists wear spandex shorts.|Người đạp xe mặc quần đùi thun co giãn.
+suede|da lộn|Do not wear suede shoes in the rain.|Đừng đi giày da lộn dưới mưa.
+yarn|sợi len|She bought blue yarn to knit a scarf.|Cô ấy mua sợi len xanh để đan khăn.
+thread|sợi chỉ|I need a needle and thread.|Tôi cần kim và chỉ.
+needle|cái kim|The needle is very sharp.|Cái kim rất nhọn.
+
+@y3026|Vải và may vá 2|Chất liệu vải, dụng cụ may, sửa quần áo|Sewing
+thimble|cái đê (khâu)|Wear a thimble to protect your finger.|Hãy đeo đê để bảo vệ ngón tay.
+spool|cuộn (chỉ, dây)|She bought a spool of white thread.|Cô ấy mua một cuộn chỉ trắng.
+darn|mạng (quần áo)|My grandmother can darn socks.|Bà tôi biết mạng tất.
+mend|vá, sửa|Can you mend this shirt?|Bạn vá giúp cái áo này được không?
+seamstress|thợ may nữ|The seamstress made my wedding dress.|Cô thợ may đã may váy cưới cho tôi.
+pattern|hoa văn; mẫu|The dress has a flower pattern.|Chiếc váy có hoa văn hình hoa.
+measuring tape|thước dây|The tailor used a measuring tape.|Thợ may dùng thước dây.
+sewing machine|máy may, máy khâu|My mother has an old sewing machine.|Mẹ tôi có một chiếc máy khâu cũ.
+dye|thuốc nhuộm; nhuộm|She wants to dye her hair red.|Cô ấy muốn nhuộm tóc màu đỏ.
+starch|tinh bột; hồ (vải)|Rice contains a lot of starch.|Gạo chứa nhiều tinh bột.
+shrink|co lại|This sweater will shrink in hot water.|Áo len này sẽ co lại trong nước nóng.
+fade|phai màu, mờ dần|The colors fade in the sun.|Màu sắc phai đi dưới nắng.
+crease|nếp nhăn, nếp gấp|Iron the crease out of the shirt.|Hãy là phẳng nếp nhăn trên áo.
+fray|sờn, tưa (vải)|The sleeves began to fray.|Hai ống tay áo bắt đầu sờn.
+
+@y3027|Các phần của ngôi nhà 1|Phòng, cửa, mái, chi tiết xây dựng|House
+cellar|hầm chứa|They keep wine in the cellar.|Họ cất rượu trong hầm.
+loft|gác xép|We store old boxes in the loft.|Chúng tôi cất hộp cũ trên gác xép.
+veranda|hiên nhà|We drank tea on the veranda.|Chúng tôi uống trà ngoài hiên.
+patio|sân lát gạch sau nhà|We had a barbecue on the patio.|Chúng tôi nướng thịt ở sân sau.
+terrace|sân thượng, hiên lộ thiên|The café has a terrace by the river.|Quán cà phê có sân hiên bên sông.
+corridor|hành lang|My room is at the end of the corridor.|Phòng tôi ở cuối hành lang.
+foyer|tiền sảnh|We waited in the foyer of the theater.|Chúng tôi đợi ở tiền sảnh nhà hát.
+lobby|sảnh|I will meet you in the hotel lobby.|Tôi sẽ gặp bạn ở sảnh khách sạn.
+staircase|cầu thang|A wooden staircase leads upstairs.|Một cầu thang gỗ dẫn lên tầng trên.
+banister|tay vịn cầu thang|Hold the banister when you go down.|Hãy vịn tay vịn khi đi xuống.
+railing|lan can|He leaned on the balcony railing.|Anh ấy tựa vào lan can ban công.
+doorstep|bậc cửa|The package was left on the doorstep.|Gói hàng được để lại ở bậc cửa.
+
+@y3028|Các phần của ngôi nhà 2|Phòng, cửa, mái, chi tiết xây dựng|House
+doorknob|tay nắm cửa|The doorknob came off in my hand.|Tay nắm cửa rời ra trong tay tôi.
+hinge|bản lề|The door hinge needs some oil.|Bản lề cửa cần ít dầu.
+latch|then cài, chốt cửa|Lift the latch to open the gate.|Hãy nhấc then cài để mở cổng.
+bolt|chốt cửa; bu lông|Slide the bolt to lock the door.|Hãy đẩy chốt để khóa cửa.
+keyhole|lỗ khóa|He looked through the keyhole.|Anh ấy nhìn qua lỗ khóa.
+peephole|lỗ nhìn trên cửa|Look through the peephole before you open the door.|Hãy nhìn qua lỗ nhìn trước khi mở cửa.
+windowsill|bệ cửa sổ|The cat sleeps on the windowsill.|Con mèo ngủ trên bệ cửa sổ.
+blind|rèm sáo; mù|Pull down the blind, please.|Làm ơn kéo rèm xuống.
+skylight|cửa sổ mái, giếng trời|The skylight makes the kitchen bright.|Cửa sổ mái làm nhà bếp sáng sủa.
+hearth|nền lò sưởi|The dog lay by the hearth.|Con chó nằm cạnh lò sưởi.
+mantelpiece|bệ trên lò sưởi|The clock stands on the mantelpiece.|Chiếc đồng hồ đặt trên bệ lò sưởi.
+gutter|máng xối; rãnh nước|Leaves blocked the gutter.|Lá cây làm tắc máng xối.
+
+@y3029|Các phần của ngôi nhà 3|Phòng, cửa, mái, chi tiết xây dựng|House
+drainpipe|ống thoát nước|The thief climbed up the drainpipe.|Tên trộm trèo lên theo ống thoát nước.
+eaves|mái hiên chìa ra|Birds nest under the eaves.|Chim làm tổ dưới mái hiên.
+rafter|xà mái nhà|A lamp hung from a rafter.|Một ngọn đèn treo trên xà nhà.
+pillar|cột trụ|A stone pillar holds up the roof.|Một cột đá chống đỡ mái nhà.
+floorboard|ván sàn|A floorboard creaked under his foot.|Một tấm ván sàn kêu cót két dưới chân anh ấy.
+tile|viên gạch lát, ngói|One tile in the bathroom is broken.|Một viên gạch trong phòng tắm bị vỡ.
+wallpaper|giấy dán tường; hình nền|The wallpaper is peeling off.|Giấy dán tường đang bong ra.
+radiator|lò sưởi (tản nhiệt); két nước|Put your wet socks on the radiator.|Hãy để tất ướt lên lò sưởi.
+vent|lỗ thông hơi|Smoke came out of the vent.|Khói thoát ra từ lỗ thông hơi.
+fuse box|hộp cầu chì|The fuse box is in the garage.|Hộp cầu chì ở trong ga ra.
+curtain rod|thanh treo rèm|He fixed the curtain rod above the window.|Anh ấy lắp thanh treo rèm phía trên cửa sổ.
+skirting board|nẹp chân tường|Paint the skirting board white.|Hãy sơn nẹp chân tường màu trắng.
 
 %551|5|Phần 1: Mở rộng – Giải phẫu cơ thể|Giải phẫu cơ thể, Bệnh lý, Thủ thuật và thiết bị y khoa, Thực vật học, Động vật học|leaf
 @y5001|Giải phẫu cơ thể 1|Xương, nội tạng, các phần trên cơ thể|Anatomy

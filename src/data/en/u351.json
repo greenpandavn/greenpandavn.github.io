@@ -160,21 +160,6 @@
    {"id":"y3010-dragon_fruit","hanzi":"dragon fruit","pinyin":"","vi":"thanh long","ex":{"tokens":["Dragon","fruit","grows","well","in","Binh","Thuan","."],"py":["","","","","","","","."],"vi":"Thanh long mọc tốt ở Bình Thuận.","alts":[]}},
    {"id":"y3010-starfruit","hanzi":"starfruit","pinyin":"","vi":"quả khế","ex":{"tokens":["There","is","a","starfruit","tree","in","our","garden","."],"py":["","","","","","","","","."],"vi":"Vườn nhà tôi có một cây khế.","alts":[]}},
    {"id":"y3010-tamarind","hanzi":"tamarind","pinyin":"","vi":"quả me","ex":{"tokens":["This","candy","is","made","from","tamarind","."],"py":["","","","","","","."],"vi":"Kẹo này làm từ me.","alts":[]}}
-  ]},
-  {"id":"y3011","title":"Rau củ và trái cây 3","desc":"Rau, củ, trái cây nhiệt đới, quả mọng","icon":"Fruit","unit":351,"course":"en","order":2710,"words":[
-   {"id":"y3011-tangerine","hanzi":"tangerine","pinyin":"","vi":"quả quýt","ex":{"tokens":["She","peeled","a","tangerine","for","the","child","."],"py":["","","","","","","","."],"vi":"Cô ấy bóc một quả quýt cho đứa bé.","alts":[]}},
-   {"id":"y3011-grapefruit","hanzi":"grapefruit","pinyin":"","vi":"quả bưởi chùm","ex":{"tokens":["He","eats","half","a","grapefruit","every","morning","."],"py":["","","","","","","","."],"vi":"Sáng nào anh ấy cũng ăn nửa quả bưởi chùm.","alts":[]}},
-   {"id":"y3011-blackberry","hanzi":"blackberry","pinyin":"","vi":"quả mâm xôi đen","ex":{"tokens":["We","picked","a","blackberry","from","the","bush","."],"py":["","","","","","","","."],"vi":"Chúng tôi hái một quả mâm xôi đen từ bụi cây.","alts":[]}},
-   {"id":"y3011-raspberry","hanzi":"raspberry","pinyin":"","vi":"quả mâm xôi đỏ","ex":{"tokens":["She","made","raspberry","jam","."],"py":["","","","","."],"vi":"Cô ấy làm mứt mâm xôi đỏ.","alts":[]}},
-   {"id":"y3011-blueberry","hanzi":"blueberry","pinyin":"","vi":"quả việt quất","ex":{"tokens":["I","had","a","blueberry","muffin","."],"py":["","","","","","."],"vi":"Tôi ăn một chiếc bánh nướng việt quất.","alts":[]}},
-   {"id":"y3011-mulberry","hanzi":"mulberry","pinyin":"","vi":"quả dâu tằm","ex":{"tokens":["Silkworms","eat","mulberry","leaves","."],"py":["","","","","."],"vi":"Tằm ăn lá dâu tằm.","alts":[]}},
-   {"id":"y3011-cantaloupe","hanzi":"cantaloupe","pinyin":"","vi":"dưa lưới","ex":{"tokens":["She","cut","the","cantaloupe","into","slices","."],"py":["","","","","","","."],"vi":"Cô ấy cắt dưa lưới thành lát.","alts":[]}},
-   {"id":"y3011-olive","hanzi":"olive","pinyin":"","vi":"quả ô liu","ex":{"tokens":["I","do","not","like","the","taste","of","olive","oil","."],"py":["","","","","","","","","","."],"vi":"Tôi không thích vị dầu ô liu.","alts":[]}},
-   {"id":"y3011-kidney_bean","hanzi":"kidney bean","pinyin":"","vi":"đậu tây, đậu đỏ tây","ex":{"tokens":["Add","a","can","of","kidney","bean","to","the","chili","."],"py":["","","","","","","","","","."],"vi":"Hãy thêm một hộp đậu tây vào món ớt hầm.","alts":[]}},
-   {"id":"y3011-parsnip","hanzi":"parsnip","pinyin":"","vi":"củ cải vàng","ex":{"tokens":["Roast","the","parsnip","with","honey","."],"py":["","","","","","."],"vi":"Hãy nướng củ cải vàng với mật ong.","alts":[]}},
-   {"id":"y3011-nectarine","hanzi":"nectarine","pinyin":"","vi":"quả xuân đào","ex":{"tokens":["A","nectarine","has","smooth","skin","."],"py":["","","","","","."],"vi":"Quả xuân đào có vỏ nhẵn.","alts":[]}},
-   {"id":"y3011-gooseberry","hanzi":"gooseberry","pinyin":"","vi":"quả lý gai","ex":{"tokens":["She","made","a","pie","with","gooseberry","jam","."],"py":["","","","","","","","."],"vi":"Cô ấy làm bánh với mứt lý gai.","alts":[]}},
-   {"id":"y3011-honeydew","hanzi":"honeydew","pinyin":"","vi":"dưa lê, dưa bở xanh","ex":{"tokens":["We","ate","honeydew","melon","after","dinner","."],"py":["","","","","","","."],"vi":"Chúng tôi ăn dưa lê sau bữa tối.","alts":[]}}
   ]}
  ]
 }
