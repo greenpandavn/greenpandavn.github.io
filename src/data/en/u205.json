@@ -1,6 +1,6 @@
 {
  "units": [
-  {"unit":205,"level":2,"title":"Phần 13: Sức khỏe, công nghệ và giao tiếp","desc":"Chăm con, ốm đau, mạng xã hội, máy tính, ăn uống, trạng từ","color":"leaf","course":"en"}
+  {"unit":205,"level":2,"title":"Phần 17: Sức khỏe, công nghệ và giao tiếp","desc":"Chăm con, ốm đau, mạng xã hội, máy tính, ăn uống, trạng từ","color":"leaf","course":"en"}
  ],
  "lessons": [
   {"id":"n14","title":"Chăm sóc em bé","desc":"Trẻ mới biết đi, xe đẩy, tã, cũi, bài hát ru","icon":"Baby","unit":205,"course":"en","order":1560,"words":[
@@ -28,7 +28,7 @@
    {"id":"n15-scratch","hanzi":"scratch","pinyin":"","vi":"vết xước; gãi, cào","ex":{"tokens":["It","is","only","a","scratch","."],"py":["","","","","","."],"vi":"Chỉ là một vết xước thôi.","alts":[]}},
    {"id":"n15-scar","hanzi":"scar","pinyin":"","vi":"vết sẹo","ex":{"tokens":["He","has","a","scar","on","his","chin","."],"py":["","","","","","","","."],"vi":"Anh ấy có một vết sẹo ở cằm.","alts":[]}},
    {"id":"n15-swelling","hanzi":"swelling","pinyin":"","vi":"chỗ sưng","ex":{"tokens":["Ice","will","bring","the","swelling","down","."],"py":["","","","","","","."],"vi":"Đá lạnh sẽ làm giảm sưng.","alts":[]}},
-   {"id":"n15-stitches","hanzi":"stitches","pinyin":"","vi":"các mũi khâu","ex":{"tokens":["She","needed","five","stitches","in","her","hand","."],"py":["","","","","","","","."],"vi":"Cô ấy phải khâu năm mũi ở tay.","alts":[]}},
+   {"id":"n15-crutches","hanzi":"crutches","pinyin":"","vi":"cặp nạng","ex":{"tokens":["He","walked","on","crutches","for","a","month","."],"py":["","","","","","","","."],"vi":"Anh ấy đi bằng nạng suốt một tháng.","alts":[]}},
    {"id":"n15-cast","hanzi":"cast","pinyin":"","vi":"bột bó (xương gãy); dàn diễn viên","ex":{"tokens":["His","arm","is","in","a","cast","."],"py":["","","","","","","."],"vi":"Tay anh ấy đang bó bột.","alts":[]}}
   ]},
   {"id":"n16","title":"Đi khám bệnh","desc":"Khám tổng quát, chụp X-quang, dược sĩ, niềng răng","icon":"Clinic","unit":205,"course":"en","order":1580,"words":[
@@ -73,7 +73,7 @@
    {"id":"n18-attachment","hanzi":"attachment","pinyin":"","vi":"tệp đính kèm","ex":{"tokens":["I","cannot","open","the","attachment","."],"py":["","","","","","."],"vi":"Tôi không mở được tệp đính kèm.","alts":[]}},
    {"id":"n18-inbox","hanzi":"inbox","pinyin":"","vi":"hộp thư đến","ex":{"tokens":["My","inbox","is","full","of","ads","."],"py":["","","","","","","."],"vi":"Hộp thư đến của tôi đầy quảng cáo.","alts":[]}}
   ]},
-  {"id":"n19","title":"Thời tiết 3","desc":"Giông, bão, lốc xoáy, oi ẩm, se lạnh","icon":"Storm","unit":205,"course":"en","order":1610,"words":[
+  {"id":"n19","title":"Thời tiết 2","desc":"Giông, bão, lốc xoáy, oi ẩm, se lạnh","icon":"Storm","unit":205,"course":"en","order":1610,"words":[
    {"id":"n19-thunderstorm","hanzi":"thunderstorm","pinyin":"","vi":"cơn giông","ex":{"tokens":["A","thunderstorm","woke","me","up","last","night","."],"py":["","","","","","","","."],"vi":"Đêm qua một cơn giông làm tôi thức giấc.","alts":[]}},
    {"id":"n19-typhoon","hanzi":"typhoon","pinyin":"","vi":"bão nhiệt đới","ex":{"tokens":["The","typhoon","will","reach","the","coast","tomorrow","."],"py":["","","","","","","","."],"vi":"Cơn bão sẽ đến bờ biển vào ngày mai.","alts":[]}},
    {"id":"n19-tornado","hanzi":"tornado","pinyin":"","vi":"lốc xoáy","ex":{"tokens":["The","tornado","destroyed","several","houses","."],"py":["","","","","","."],"vi":"Cơn lốc xoáy phá hủy vài ngôi nhà.","alts":[]}},
@@ -109,11 +109,11 @@
    {"id":"n21-reception","hanzi":"reception","pinyin":"","vi":"tiệc chiêu đãi; quầy lễ tân","ex":{"tokens":["The","reception","is","at","a","hotel","by","the","river","."],"py":["","","","","","","","","","."],"vi":"Tiệc cưới được tổ chức ở một khách sạn bên sông.","alts":[]}},
    {"id":"n21-veil","hanzi":"veil","pinyin":"","vi":"khăn voan","ex":{"tokens":["Her","veil","was","two","meters","long","."],"py":["","","","","","","."],"vi":"Khăn voan của cô ấy dài hai mét.","alts":[]}},
    {"id":"n21-bouquet","hanzi":"bouquet","pinyin":"","vi":"bó hoa","ex":{"tokens":["She","carried","a","bouquet","of","roses","."],"py":["","","","","","","."],"vi":"Cô ấy cầm một bó hoa hồng.","alts":[]}},
-   {"id":"n21-vows","hanzi":"vows","pinyin":"","vi":"lời thề (hôn nhân)","ex":{"tokens":["They","wrote","their","own","vows","."],"py":["","","","","","."],"vi":"Họ tự viết lời thề của mình.","alts":[]}},
+   {"id":"n21-newlyweds","hanzi":"newlyweds","pinyin":"","vi":"vợ chồng mới cưới","ex":{"tokens":["The","newlyweds","left","for","the","beach","."],"py":["","","","","","","."],"vi":"Đôi vợ chồng mới cưới đã lên đường ra biển.","alts":[]}},
    {"id":"n21-bridesmaid","hanzi":"bridesmaid","pinyin":"","vi":"phù dâu","ex":{"tokens":["Her","best","friend","was","her","bridesmaid","."],"py":["","","","","","","."],"vi":"Bạn thân nhất của cô ấy làm phù dâu.","alts":[]}},
    {"id":"n21-fiancee","hanzi":"fiancee","pinyin":"","vi":"vợ chưa cưới","ex":{"tokens":["He","introduced","his","fiancee","to","his","parents","."],"py":["","","","","","","","."],"vi":"Anh ấy giới thiệu vợ chưa cưới với bố mẹ.","alts":[]}},
    {"id":"n21-newlywed","hanzi":"newlywed","pinyin":"","vi":"người mới cưới; mới cưới","ex":{"tokens":["The","newlywed","couple","moved","to","Hue","."],"py":["","","","","","","."],"vi":"Cặp vợ chồng mới cưới chuyển đến Huế.","alts":[]}},
-   {"id":"n21-in_laws","hanzi":"in-laws","pinyin":"","vi":"gia đình bên vợ, bên chồng","ex":{"tokens":["We","visit","my","in-laws","at","Tet","."],"py":["","","","","","","."],"vi":"Chúng tôi về thăm gia đình bên chồng vào dịp Tết.","alts":[]}}
+   {"id":"n21-wedding_ring","hanzi":"wedding ring","pinyin":"","vi":"nhẫn cưới","ex":{"tokens":["She","lost","her","wedding","ring","."],"py":["","","","","","."],"vi":"Cô ấy làm mất nhẫn cưới.","alts":[]}}
   ]},
   {"id":"n22","title":"Ăn ở ngoài","desc":"Đồ ăn thừa, mang về, tiệc tự chọn, bữa xế","icon":"Eat","unit":205,"course":"en","order":1640,"words":[
    {"id":"n22-leftover","hanzi":"leftover","pinyin":"","vi":"đồ ăn thừa; còn thừa","ex":{"tokens":["We","ate","leftover","rice","for","lunch","."],"py":["","","","","","","."],"vi":"Chúng tôi ăn cơm thừa vào bữa trưa.","alts":[]}},
@@ -186,7 +186,7 @@
    {"id":"n26-streaming","hanzi":"streaming","pinyin":"","vi":"phát trực tuyến","ex":{"tokens":["Streaming","uses","a","lot","of","data","."],"py":["","","","","","","."],"vi":"Phát trực tuyến tốn rất nhiều dữ liệu.","alts":[]}}
   ]},
   {"id":"n27","title":"Trên đường và tính nết","desc":"Dây an toàn, kính chắn gió, kén chọn, tọc mạch","icon":"Road","unit":205,"course":"en","order":1690,"words":[
-   {"id":"n27-seatbelt","hanzi":"seatbelt","pinyin":"","vi":"dây an toàn","ex":{"tokens":["Please","fasten","your","seatbelt","."],"py":["","","","","."],"vi":"Xin hãy thắt dây an toàn.","alts":[]}},
+   {"id":"n27-airbag","hanzi":"airbag","pinyin":"","vi":"túi khí","ex":{"tokens":["The","airbag","protected","the","driver","."],"py":["","","","","","."],"vi":"Túi khí đã bảo vệ người lái.","alts":[]}},
    {"id":"n27-windshield","hanzi":"windshield","pinyin":"","vi":"kính chắn gió","ex":{"tokens":["A","stone","hit","the","windshield","."],"py":["","","","","","."],"vi":"Một hòn đá đập vào kính chắn gió.","alts":[]}},
    {"id":"n27-dashboard","hanzi":"dashboard","pinyin":"","vi":"bảng điều khiển xe","ex":{"tokens":["A","red","light","came","on","the","dashboard","."],"py":["","","","","","","","."],"vi":"Một đèn đỏ bật sáng trên bảng điều khiển.","alts":[]}},
    {"id":"n27-bumper","hanzi":"bumper","pinyin":"","vi":"cản xe","ex":{"tokens":["The","back","bumper","was","broken","in","the","accident","."],"py":["","","","","","","","","."],"vi":"Cản sau bị vỡ trong vụ tai nạn.","alts":[]}},

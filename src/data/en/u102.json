@@ -17,7 +17,7 @@
    {"id":"b13-get_off","hanzi":"get off","pinyin":"","vi":"xuống (xe)","ex":{"tokens":["I","get","off","at","the","next","station","."],"py":["","","","","","","","."],"vi":"Tôi xuống ở ga tiếp theo.","alts":[]}},
    {"id":"b13-seat","hanzi":"seat","pinyin":"","vi":"chỗ ngồi","ex":{"tokens":["This","seat","is","free","."],"py":["","","","","."],"vi":"Chỗ ngồi này còn trống.","alts":[]}}
   ]},
-  {"id":"b14","title":"Thiên nhiên 2","desc":"Lá, đá, cát, cầu vồng, băng, lửa","icon":"Leaf","unit":102,"course":"en","order":440,"words":[
+  {"id":"b14","title":"Thiên nhiên 1","desc":"Lá, đá, cát, cầu vồng, băng, lửa","icon":"Leaf","unit":102,"course":"en","order":440,"words":[
    {"id":"b14-leaf","hanzi":"leaf","pinyin":"","vi":"chiếc lá","ex":{"tokens":["The","leaf","is","green","."],"py":["","","","","."],"vi":"Chiếc lá màu xanh.","alts":[]}},
    {"id":"b14-stone","hanzi":"stone","pinyin":"","vi":"hòn đá","ex":{"tokens":["The","stone","is","small","."],"py":["","","","","."],"vi":"Hòn đá nhỏ.","alts":[]}},
    {"id":"b14-sand","hanzi":"sand","pinyin":"","vi":"cát","ex":{"tokens":["The","sand","is","hot","."],"py":["","","","","."],"vi":"Cát nóng.","alts":[]}},
@@ -59,7 +59,7 @@
    {"id":"b16-favorite","hanzi":"favorite","pinyin":"","vi":"yêu thích nhất","ex":{"tokens":["Blue","is","my","favorite","color","."],"py":["","","","","","."],"vi":"Màu xanh là màu yêu thích của tôi.","alts":[]}},
    {"id":"b16-boring","hanzi":"boring","pinyin":"","vi":"nhàm chán","ex":{"tokens":["This","movie","is","boring","."],"py":["","","","","."],"vi":"Bộ phim này nhàm chán.","alts":[]}}
   ]},
-  {"id":"b17","title":"Động từ hằng ngày 2","desc":"Ngồi, đứng, cười, khóc, mang, gửi, tìm","icon":"Do","unit":102,"course":"en","order":470,"words":[
+  {"id":"b17","title":"Động từ hằng ngày 1","desc":"Ngồi, đứng, cười, khóc, mang, gửi, tìm","icon":"Do","unit":102,"course":"en","order":470,"words":[
    {"id":"b17-sit","hanzi":"sit","pinyin":"","vi":"ngồi","ex":{"tokens":["I","sit","next","to","my","friend","."],"py":["","","","","","","."],"vi":"Tôi ngồi cạnh bạn tôi.","alts":[]}},
    {"id":"b17-stand","hanzi":"stand","pinyin":"","vi":"đứng","ex":{"tokens":["We","stand","in","front","of","the","school","."],"py":["","","","","","","","."],"vi":"Chúng tôi đứng trước trường.","alts":[]}},
    {"id":"b17-laugh","hanzi":"laugh","pinyin":"","vi":"cười","ex":{"tokens":["The","children","laugh","a","lot","."],"py":["","","","","","."],"vi":"Bọn trẻ cười rất nhiều.","alts":[]}},
@@ -73,7 +73,7 @@
    {"id":"b17-use","hanzi":"use","pinyin":"","vi":"dùng, sử dụng","ex":{"tokens":["I","use","a","computer","at","school","."],"py":["","","","","","","."],"vi":"Tôi dùng máy tính ở trường.","alts":[]}},
    {"id":"b17-forget","hanzi":"forget","pinyin":"","vi":"quên","ex":{"tokens":["Do","not","forget","your","bag","."],"py":["","","","","","."],"vi":"Đừng quên túi của bạn.","alts":[]}}
   ]},
-  {"id":"b18","title":"Động từ hằng ngày 3","desc":"Đóng, kết thúc, chỉ, gõ, đếm, đánh vần","icon":"Act","unit":102,"course":"en","order":480,"words":[
+  {"id":"b18","title":"Động từ hằng ngày 2","desc":"Đóng, kết thúc, chỉ, gõ, đếm, đánh vần","icon":"Act","unit":102,"course":"en","order":480,"words":[
    {"id":"b18-shut","hanzi":"shut","pinyin":"","vi":"đóng lại","ex":{"tokens":["Please","shut","the","window","."],"py":["","","","","."],"vi":"Làm ơn đóng cửa sổ.","alts":[]}},
    {"id":"b18-end","hanzi":"end","pinyin":"","vi":"kết thúc","ex":{"tokens":["The","lessons","end","at","four","."],"py":["","","","","","."],"vi":"Các tiết học kết thúc lúc bốn giờ.","alts":[]}},
    {"id":"b18-pick","hanzi":"pick","pinyin":"","vi":"hái, nhặt, chọn","ex":{"tokens":["We","pick","apples","in","the","garden","."],"py":["","","","","","","."],"vi":"Chúng tôi hái táo trong vườn.","alts":[]}},

@@ -1,6 +1,6 @@
 {
  "units": [
-  {"unit":403,"level":4,"title":"Phần 3: Khoa học chuyên sâu","desc":"Di truyền, sinh thái, vật lý, kỹ thuật, trí tuệ nhân tạo, toán học","color":"grape","course":"en"}
+  {"unit":403,"level":4,"title":"Phần 26: Khoa học chuyên sâu","desc":"Di truyền, sinh thái, vật lý, kỹ thuật, trí tuệ nhân tạo, toán học","color":"grape","course":"en"}
  ],
  "lessons": [
   {"id":"p33","title":"Di truyền học","desc":"Gen, tế bào, đột biến, tiến hóa","icon":"DNA","unit":403,"course":"en","order":2930,"words":[

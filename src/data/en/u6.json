@@ -1,9 +1,9 @@
 {
  "units": [
-  {"unit":6,"level":2,"title":"Phần 6: Con người và đời sống","desc":"So sánh, cảm xúc, sức khỏe, ăn uống, mua sắm","color":"sky","course":"en"}
+  {"unit":6,"level":2,"title":"Phần 10: Con người và đời sống","desc":"So sánh, cảm xúc, sức khỏe, ăn uống, mua sắm","color":"sky","course":"en"}
  ],
  "lessons": [
-  {"id":"e38","title":"So sánh","desc":"Better, worse, more, less, than","icon":">","unit":6,"course":"en","order":890,"words":[
+  {"id":"e38","title":"So sánh 1","desc":"Better, worse, more, less, than","icon":">","unit":6,"course":"en","order":890,"words":[
    {"id":"e38-better","hanzi":"better","pinyin":"","vi":"tốt hơn","ex":{"tokens":["This","book","is","better","than","that","one","."],"py":["","","","","","","","."],"vi":"Quyển sách này hay hơn quyển kia.","alts":[]}},
    {"id":"e38-worse","hanzi":"worse","pinyin":"","vi":"tệ hơn","ex":{"tokens":["The","weather","is","worse","today","."],"py":["","","","","","."],"vi":"Hôm nay thời tiết tệ hơn.","alts":[]}},
    {"id":"e38-best","hanzi":"best","pinyin":"","vi":"tốt nhất","ex":{"tokens":["She","is","my","best","friend","."],"py":["","","","","","."],"vi":"Cô ấy là bạn thân nhất của tôi.","alts":[]}},
@@ -31,7 +31,7 @@
    {"id":"e39-shy","hanzi":"shy","pinyin":"","vi":"nhút nhát, ngại ngùng","ex":{"tokens":["The","little","boy","is","very","shy","."],"py":["","","","","","","."],"vi":"Cậu bé rất nhút nhát.","alts":[]}},
    {"id":"e39-relaxed","hanzi":"relaxed","pinyin":"","vi":"thư giãn, thoải mái","ex":{"tokens":["I","feel","relaxed","on","the","weekend","."],"py":["","","","","","","."],"vi":"Tôi thấy thư giãn vào cuối tuần.","alts":[]}}
   ]},
-  {"id":"e40","title":"Tính cách","desc":"Thân thiện, lịch sự, trung thực, lười","icon":"Ch","unit":6,"course":"en","order":910,"words":[
+  {"id":"e40","title":"Tính cách 1","desc":"Thân thiện, lịch sự, trung thực, lười","icon":"Ch","unit":6,"course":"en","order":910,"words":[
    {"id":"e40-friendly","hanzi":"friendly","pinyin":"","vi":"thân thiện","ex":{"tokens":["Our","new","teacher","is","very","friendly","."],"py":["","","","","","","."],"vi":"Giáo viên mới của chúng tôi rất thân thiện.","alts":[]}},
    {"id":"e40-polite","hanzi":"polite","pinyin":"","vi":"lịch sự","ex":{"tokens":["He","is","always","polite","to","everyone","."],"py":["","","","","","","."],"vi":"Anh ấy luôn lịch sự với mọi người.","alts":[]}},
    {"id":"e40-honest","hanzi":"honest","pinyin":"","vi":"trung thực","ex":{"tokens":["Thank","you","for","being","honest","."],"py":["","","","","","."],"vi":"Cảm ơn bạn đã trung thực.","alts":[]}},

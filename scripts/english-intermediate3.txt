@@ -211,7 +211,7 @@ diarrhea|tiêu chảy|Drink a lot of water if you have diarrhea.|Hãy uống nhi
 scratch|vết xước; gãi, cào|It is only a scratch.|Chỉ là một vết xước thôi.
 scar|vết sẹo|He has a scar on his chin.|Anh ấy có một vết sẹo ở cằm.
 swelling|chỗ sưng|Ice will bring the swelling down.|Đá lạnh sẽ làm giảm sưng.
-stitches|các mũi khâu|She needed five stitches in her hand.|Cô ấy phải khâu năm mũi ở tay.
+crutches|cặp nạng|He walked on crutches for a month.|Anh ấy đi bằng nạng suốt một tháng.
 cast|bột bó (xương gãy); dàn diễn viên|His arm is in a cast.|Tay anh ấy đang bó bột.
 
 @n16|Đi khám bệnh|Khám tổng quát, chụp X-quang, dược sĩ, niềng răng|Clinic
@@ -292,11 +292,11 @@ groom|chú rể|The groom looked very nervous.|Chú rể trông rất hồi hộ
 reception|tiệc chiêu đãi; quầy lễ tân|The reception is at a hotel by the river.|Tiệc cưới được tổ chức ở một khách sạn bên sông.
 veil|khăn voan|Her veil was two meters long.|Khăn voan của cô ấy dài hai mét.
 bouquet|bó hoa|She carried a bouquet of roses.|Cô ấy cầm một bó hoa hồng.
-vows|lời thề (hôn nhân)|They wrote their own vows.|Họ tự viết lời thề của mình.
+newlyweds|vợ chồng mới cưới|The newlyweds left for the beach.|Đôi vợ chồng mới cưới đã lên đường ra biển.
 bridesmaid|phù dâu|Her best friend was her bridesmaid.|Bạn thân nhất của cô ấy làm phù dâu.
 fiancee|vợ chưa cưới|He introduced his fiancee to his parents.|Anh ấy giới thiệu vợ chưa cưới với bố mẹ.
 newlywed|người mới cưới; mới cưới|The newlywed couple moved to Hue.|Cặp vợ chồng mới cưới chuyển đến Huế.
-in-laws|gia đình bên vợ, bên chồng|We visit my in-laws at Tet.|Chúng tôi về thăm gia đình bên chồng vào dịp Tết.
+wedding ring|nhẫn cưới|She lost her wedding ring.|Cô ấy làm mất nhẫn cưới.
 
 @n22|Ăn ở ngoài|Đồ ăn thừa, mang về, tiệc tự chọn, bữa xế|Eat
 leftover|đồ ăn thừa; còn thừa|We ate leftover rice for lunch.|Chúng tôi ăn cơm thừa vào bữa trưa.
@@ -369,7 +369,7 @@ avatar|ảnh đại diện|She changed her avatar last night.|Cô ấy đã đ�
 streaming|phát trực tuyến|Streaming uses a lot of data.|Phát trực tuyến tốn rất nhiều dữ liệu.
 
 @n27|Trên đường và tính nết|Dây an toàn, kính chắn gió, kén chọn, tọc mạch|Road
-seatbelt|dây an toàn|Please fasten your seatbelt.|Xin hãy thắt dây an toàn.
+airbag|túi khí|The airbag protected the driver.|Túi khí đã bảo vệ người lái.
 windshield|kính chắn gió|A stone hit the windshield.|Một hòn đá đập vào kính chắn gió.
 dashboard|bảng điều khiển xe|A red light came on the dashboard.|Một đèn đỏ bật sáng trên bảng điều khiển.
 bumper|cản xe|The back bumper was broken in the accident.|Cản sau bị vỡ trong vụ tai nạn.

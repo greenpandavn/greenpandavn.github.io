@@ -270,7 +270,17 @@ function Round({
         >
           {q!.word.hanzi}
         </p>
-        <Clue kind={q!.kind} value={q!.shown} />
+        <Clue
+          kind={q!.kind}
+          value={q!.shown}
+          label={
+            course === "ko" || course === "ja"
+              ? q!.kind === "pinyin"
+                ? "Phiên âm của từ này là"
+                : "Nghĩa của từ này là"
+              : undefined
+          }
+        />
         <p
           className="min-h-[3.5rem] text-base font-extrabold"
           data-testid="game-feedback"
@@ -340,7 +350,15 @@ function Picture({
 }
 
 /** What is shown next to the word: a picture card (drawing or emoji) or a line of text. */
-function Clue({ kind, value }: { kind: GameQuestion["kind"]; value: string }) {
+function Clue({
+  kind,
+  value,
+  label,
+}: {
+  kind: GameQuestion["kind"];
+  value: string;
+  label?: string;
+}) {
   if (kind === "art" || kind === "emoji")
     return (
       <div
@@ -356,11 +374,21 @@ function Clue({ kind, value }: { kind: GameQuestion["kind"]; value: string }) {
       </div>
     );
   return (
-    <p
-      className="break-words text-2xl font-bold text-ink-600"
-      data-testid="game-clue"
-    >
-      {value}
-    </p>
+    <div>
+      {label && (
+        <p
+          className="mb-1 text-sm font-extrabold text-ink-400"
+          data-testid="game-clue-label"
+        >
+          {label}
+        </p>
+      )}
+      <p
+        className="break-words text-2xl font-bold text-ink-600"
+        data-testid="game-clue"
+      >
+        {label ? `“${value}” ?` : value}
+      </p>
+    </div>
   );
 }

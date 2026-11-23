@@ -45,7 +45,7 @@
    {"id":"e23-with","hanzi":"with","pinyin":"","vi":"với, cùng","ex":{"tokens":["I","live","with","my","parents","."],"py":["","","","","","."],"vi":"Tôi sống cùng bố mẹ.","alts":[]}},
    {"id":"e23-also","hanzi":"also","pinyin":"","vi":"cũng","ex":{"tokens":["She","also","likes","music","."],"py":["","","","","."],"vi":"Cô ấy cũng thích âm nhạc.","alts":[]}}
   ]},
-  {"id":"e24","title":"Tính từ","desc":"To, nhỏ, đẹp, vui, buồn","icon":"Bi","unit":4,"course":"en","order":240,"words":[
+  {"id":"e24","title":"Tính từ 1","desc":"To, nhỏ, đẹp, vui, buồn","icon":"Bi","unit":4,"course":"en","order":240,"words":[
    {"id":"e24-big","hanzi":"big","pinyin":"","vi":"to, lớn","ex":{"tokens":["Their","house","is","big","."],"py":["","","","","."],"vi":"Nhà của họ to.","alts":[]}},
    {"id":"e24-small","hanzi":"small","pinyin":"","vi":"nhỏ, bé","ex":{"tokens":["My","room","is","small","."],"py":["","","","","."],"vi":"Phòng của tôi nhỏ.","alts":[]}},
    {"id":"e24-tall","hanzi":"tall","pinyin":"","vi":"cao","ex":{"tokens":["My","brother","is","very","tall","."],"py":["","","","","","."],"vi":"Anh trai tôi rất cao.","alts":[]}},

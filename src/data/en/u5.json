@@ -1,6 +1,6 @@
 {
  "units": [
-  {"unit":5,"level":2,"title":"Phần 5: Quá khứ và tương lai","desc":"Thì quá khứ, tương lai, du lịch, công việc","color":"leaf","course":"en"}
+  {"unit":5,"level":2,"title":"Phần 9: Quá khứ và tương lai","desc":"Thì quá khứ, tương lai, du lịch, công việc","color":"leaf","course":"en"}
  ],
  "lessons": [
   {"id":"e31","title":"Thì quá khứ đơn","desc":"Was, were, did, went, saw","icon":"Was","unit":5,"course":"en","order":820,"words":[
@@ -45,7 +45,7 @@
    {"id":"e33-prepare","hanzi":"prepare","pinyin":"","vi":"chuẩn bị","ex":{"tokens":["I","need","to","prepare","for","the","exam","."],"py":["","","","","","","","."],"vi":"Tôi cần chuẩn bị cho kỳ thi.","alts":[]}},
    {"id":"e33-expect","hanzi":"expect","pinyin":"","vi":"mong đợi, cho rằng sẽ","ex":{"tokens":["We","expect","good","weather","tomorrow","."],"py":["","","","","","."],"vi":"Chúng tôi cho rằng ngày mai thời tiết đẹp.","alts":[]}}
   ]},
-  {"id":"e34","title":"Du lịch","desc":"Sân bay, hộ chiếu, hành lý, chuyến bay","icon":"Tr","unit":5,"course":"en","order":850,"words":[
+  {"id":"e34","title":"Du lịch 1","desc":"Sân bay, hộ chiếu, hành lý, chuyến bay","icon":"Tr","unit":5,"course":"en","order":850,"words":[
    {"id":"e34-travel","hanzi":"travel","pinyin":"","vi":"du lịch, đi lại","ex":{"tokens":["I","love","to","travel","by","train","."],"py":["","","","","","","."],"vi":"Tôi thích du lịch bằng tàu hỏa.","alts":[]}},
    {"id":"e34-trip","hanzi":"trip","pinyin":"","vi":"chuyến đi","ex":{"tokens":["Our","trip","to","Hue","was","wonderful","."],"py":["","","","","","","."],"vi":"Chuyến đi Huế của chúng tôi rất tuyệt.","alts":[]}},
    {"id":"e34-airport","hanzi":"airport","pinyin":"","vi":"sân bay","ex":{"tokens":["The","airport","is","far","from","the","city","."],"py":["","","","","","","","."],"vi":"Sân bay ở xa thành phố.","alts":[]}},
@@ -87,7 +87,7 @@
    {"id":"e36-meeting","hanzi":"meeting","pinyin":"","vi":"cuộc họp","ex":{"tokens":["We","have","a","meeting","at","ten","."],"py":["","","","","","","."],"vi":"Chúng tôi có một cuộc họp lúc mười giờ.","alts":[]}},
    {"id":"e36-business","hanzi":"business","pinyin":"","vi":"kinh doanh, việc làm ăn","ex":{"tokens":["She","has","her","own","business","."],"py":["","","","","","."],"vi":"Cô ấy có công việc kinh doanh riêng.","alts":[]}}
   ]},
-  {"id":"e37","title":"Việc nhà","desc":"Dọn dẹp, giặt giũ, sửa chữa","icon":"Cl","unit":5,"course":"en","order":880,"words":[
+  {"id":"e37","title":"Việc nhà 1","desc":"Dọn dẹp, giặt giũ, sửa chữa","icon":"Cl","unit":5,"course":"en","order":880,"words":[
    {"id":"e37-clean","hanzi":"clean","pinyin":"","vi":"sạch; lau dọn","ex":{"tokens":["I","clean","my","room","every","Saturday","."],"py":["","","","","","","."],"vi":"Thứ Bảy nào tôi cũng dọn phòng.","alts":[]}},
    {"id":"e37-dirty","hanzi":"dirty","pinyin":"","vi":"bẩn","ex":{"tokens":["Your","shoes","are","very","dirty","."],"py":["","","","","","."],"vi":"Giày của bạn rất bẩn.","alts":[]}},
    {"id":"e37-sweep","hanzi":"sweep","pinyin":"","vi":"quét","ex":{"tokens":["Please","sweep","the","floor","."],"py":["","","","","."],"vi":"Làm ơn quét nhà.","alts":[]}},

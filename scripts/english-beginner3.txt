@@ -79,7 +79,7 @@ yogurt|sữa chua|This yogurt is very cold.|Sữa chua này rất lạnh.
 ketchup|tương cà|Put ketchup on my fries, please.|Làm ơn cho tương cà lên khoai tây chiên của tôi.
 mustard|mù tạt|He does not like mustard.|Anh ấy không thích mù tạt.
 vinegar|giấm|Add a little vinegar.|Hãy thêm một chút giấm.
-noodle|sợi mì|A noodle fell on my shirt.|Một sợi mì rơi lên áo tôi.
+dumpling|bánh bao nhỏ, há cảo|I ate a hot dumpling.|Tôi đã ăn một cái há cảo nóng.
 cookie|bánh quy|Take one cookie from the plate.|Hãy lấy một cái bánh quy trên đĩa.
 chocolate|sô cô la|Children love chocolate.|Trẻ con rất thích sô cô la.
 honey|mật ong|Bees make honey.|Ong làm ra mật.
@@ -191,7 +191,7 @@ coat|áo khoác dài|Put on your coat.|Hãy mặc áo khoác vào.
 sweater|áo len|This sweater is warm.|Chiếc áo len này ấm.
 boots|đôi ủng, giày cao cổ|I wear boots in the rain.|Tôi đi ủng khi trời mưa.
 cap|mũ lưỡi trai|He has a red cap.|Cậu ấy có một chiếc mũ lưỡi trai đỏ.
-gloves|găng tay|My gloves are in my bag.|Găng tay của tôi ở trong túi.
+bow tie|nơ cổ|He wears a red bow tie.|Cậu ấy đeo một cái nơ cổ màu đỏ.
 sandals|dép xăng đan|I wear sandals in summer.|Tôi đi dép xăng đan vào mùa hè.
 shorts|quần đùi|He plays football in shorts.|Cậu ấy đá bóng trong chiếc quần đùi.
 pajamas|đồ ngủ|The baby is in pajamas.|Em bé đang mặc đồ ngủ.

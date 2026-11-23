@@ -3,7 +3,7 @@
   {"unit":2,"level":1,"title":"Phần 2: Cuộc sống hằng ngày","desc":"Đồ ăn, thời gian, nhà cửa, trường học","color":"sky","course":"en"}
  ],
  "lessons": [
-  {"id":"e08","title":"Đồ ăn","desc":"Cơm, bánh mì, thịt, trứng, rau","icon":"Fo","unit":2,"course":"en","order":80,"words":[
+  {"id":"e08","title":"Đồ ăn 1","desc":"Cơm, bánh mì, thịt, trứng, rau","icon":"Fo","unit":2,"course":"en","order":80,"words":[
    {"id":"e08-food","hanzi":"food","pinyin":"","vi":"đồ ăn, thức ăn","ex":{"tokens":["Vietnamese","food","is","delicious","."],"py":["","","","","."],"vi":"Đồ ăn Việt Nam rất ngon.","alts":[]}},
    {"id":"e08-rice","hanzi":"rice","pinyin":"","vi":"cơm, gạo","ex":{"tokens":["We","eat","rice","every","day","."],"py":["","","","","","."],"vi":"Chúng tôi ăn cơm mỗi ngày.","alts":[]}},
    {"id":"e08-bread","hanzi":"bread","pinyin":"","vi":"bánh mì","ex":{"tokens":["I","eat","bread","for","breakfast","."],"py":["","","","","","."],"vi":"Tôi ăn bánh mì vào bữa sáng.","alts":[]}},
@@ -61,7 +61,7 @@
    {"id":"e11-late","hanzi":"late","pinyin":"","vi":"muộn, trễ","ex":{"tokens":["Do","not","be","late","."],"py":["","","","","."],"vi":"Đừng đến muộn.","alts":[]}},
    {"id":"e11-when","hanzi":"when","pinyin":"","vi":"khi nào","ex":{"tokens":["When","do","you","get","up","?"],"py":["","","","","","?"],"vi":"Bạn thức dậy khi nào?","alts":[]}}
   ]},
-  {"id":"e12","title":"Nhà cửa","desc":"Phòng, bàn, ghế, giường, cửa","icon":"Ho","unit":2,"course":"en","order":120,"words":[
+  {"id":"e12","title":"Nhà cửa 1","desc":"Phòng, bàn, ghế, giường, cửa","icon":"Ho","unit":2,"course":"en","order":120,"words":[
    {"id":"e12-house","hanzi":"house","pinyin":"","vi":"ngôi nhà","ex":{"tokens":["My","house","is","small","."],"py":["","","","","."],"vi":"Nhà tôi nhỏ.","alts":[]}},
    {"id":"e12-room","hanzi":"room","pinyin":"","vi":"căn phòng","ex":{"tokens":["This","is","my","room","."],"py":["","","","","."],"vi":"Đây là phòng của tôi.","alts":[]}},
    {"id":"e12-kitchen","hanzi":"kitchen","pinyin":"","vi":"nhà bếp","ex":{"tokens":["My","mother","is","in","the","kitchen","."],"py":["","","","","","","."],"vi":"Mẹ tôi đang ở trong bếp.","alts":[]}},

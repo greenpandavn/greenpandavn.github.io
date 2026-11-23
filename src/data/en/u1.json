@@ -73,7 +73,7 @@
    {"id":"e05-purple","hanzi":"purple","pinyin":"","vi":"màu tím","ex":{"tokens":["The","flower","is","purple","."],"py":["","","","","."],"vi":"Bông hoa màu tím.","alts":[]}},
    {"id":"e05-gray","hanzi":"gray","pinyin":"","vi":"màu xám","ex":{"tokens":["His","hair","is","gray","."],"py":["","","","","."],"vi":"Tóc ông ấy màu xám.","alts":[]}}
   ]},
-  {"id":"e06","title":"Gia đình","desc":"Bố mẹ, anh chị em, ông bà","icon":"Fa","unit":1,"course":"en","order":60,"words":[
+  {"id":"e06","title":"Gia đình 1","desc":"Bố mẹ, anh chị em, ông bà","icon":"Fa","unit":1,"course":"en","order":60,"words":[
    {"id":"e06-family","hanzi":"family","pinyin":"","vi":"gia đình","ex":{"tokens":["I","love","my","family","."],"py":["","","","","."],"vi":"Tôi yêu gia đình tôi.","alts":[]}},
    {"id":"e06-father","hanzi":"father","pinyin":"","vi":"bố, cha","ex":{"tokens":["My","father","is","a","doctor","."],"py":["","","","","","."],"vi":"Bố tôi là bác sĩ.","alts":[]}},
    {"id":"e06-mother","hanzi":"mother","pinyin":"","vi":"mẹ","ex":{"tokens":["My","mother","cooks","very","well","."],"py":["","","","","","."],"vi":"Mẹ tôi nấu ăn rất ngon.","alts":[]}},

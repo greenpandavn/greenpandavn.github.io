@@ -250,6 +250,18 @@ for (const file of EN_FILES.filter((f) => fs.existsSync(path.join(root, 'scripts
   enUnits.sort((a, b) => a.level - b.level || a.unit - b.unit);
   const pos = new Map(enUnits.map((u, i) => [u.unit, i]));
   enLessons.sort((a, b) => pos.get(a.unit) - pos.get(b.unit));
+  // parts are numbered through the whole course (the source files number them per file, which repeated "Phần 5–8")
+  enUnits.forEach((u, i) => (u.title = `Phần ${i + 1}: ${u.title.replace(/^Phần \d+:\s*/, '')}`));
+  // lessons that share a name are numbered in course order, so no two lessons have the same title
+  const base = (t) => t.replace(/\s+\d+$/, '');
+  const groups = new Map();
+  for (const l of enLessons) groups.set(base(l.title), [...(groups.get(base(l.title)) ?? []), l]);
+  for (const [name, ls] of groups) if (ls.length > 1) ls.forEach((l, i) => (l.title = `${name} ${i + 1}`));
+  const titles = new Set();
+  for (const l of enLessons) {
+    if (titles.has(l.title)) errors.push(`english: duplicate lesson title ${l.title}`);
+    titles.add(l.title);
+  }
   for (const level of new Set(lv.values())) {
     const ls = enLessons.filter((l) => lv.get(l.unit) === level);
     console.log(`English level ${level}: ${ls.length} lessons, ${ls.reduce((n, l) => n + l.words.length, 0)} words`);

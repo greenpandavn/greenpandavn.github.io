@@ -1,6 +1,6 @@
 {
  "units": [
-  {"unit":202,"level":2,"title":"Phần 10: Con người và sinh hoạt","desc":"Nghề nghiệp, trường học, tính cách, bạn bè, ốm đau, thể thao, nấu ăn","color":"sky","course":"en"}
+  {"unit":202,"level":2,"title":"Phần 14: Con người và sinh hoạt","desc":"Nghề nghiệp, trường học, tính cách, bạn bè, ốm đau, thể thao, nấu ăn","color":"sky","course":"en"}
  ],
  "lessons": [
   {"id":"m12","title":"Nghề nghiệp 2","desc":"Đầu bếp, phi công, thợ may, lễ tân","icon":"Job","unit":202,"course":"en","order":1210,"words":[
@@ -101,7 +101,7 @@
    {"id":"m18-burn","hanzi":"burn","pinyin":"","vi":"làm cháy, bỏng","ex":{"tokens":["Be","careful","not","to","burn","the","rice","."],"py":["","","","","","","","."],"vi":"Cẩn thận đừng làm cháy cơm.","alts":[]}},
    {"id":"m18-serve","hanzi":"serve","pinyin":"","vi":"phục vụ, dọn ra","ex":{"tokens":["They","serve","breakfast","at","seven","."],"py":["","","","","","."],"vi":"Họ phục vụ bữa sáng lúc bảy giờ.","alts":[]}}
   ]},
-  {"id":"m19","title":"Quần áo 2","desc":"Cà vạt, thắt lưng, túi, vừa, chật, rộng","icon":"Wear","unit":202,"course":"en","order":1280,"words":[
+  {"id":"m19","title":"Quần áo 3","desc":"Cà vạt, thắt lưng, túi, vừa, chật, rộng","icon":"Wear","unit":202,"course":"en","order":1280,"words":[
    {"id":"m19-tie","hanzi":"tie","pinyin":"","vi":"cà vạt; buộc","ex":{"tokens":["He","wears","a","tie","to","work","."],"py":["","","","","","","."],"vi":"Anh ấy đeo cà vạt đi làm.","alts":[]}},
    {"id":"m19-belt","hanzi":"belt","pinyin":"","vi":"thắt lưng","ex":{"tokens":["This","belt","is","too","long","."],"py":["","","","","","."],"vi":"Cái thắt lưng này dài quá.","alts":[]}},
    {"id":"m19-scarf","hanzi":"scarf","pinyin":"","vi":"khăn quàng cổ","ex":{"tokens":["She","wears","a","red","scarf","."],"py":["","","","","","."],"vi":"Cô ấy quàng một chiếc khăn đỏ.","alts":[]}},
@@ -115,7 +115,7 @@
    {"id":"m19-collar","hanzi":"collar","pinyin":"","vi":"cổ áo","ex":{"tokens":["The","collar","of","his","shirt","is","dirty","."],"py":["","","","","","","","."],"vi":"Cổ áo sơ mi của anh ấy bị bẩn.","alts":[]}},
    {"id":"m19-zipper","hanzi":"zipper","pinyin":"","vi":"khóa kéo","ex":{"tokens":["The","zipper","on","my","bag","is","broken","."],"py":["","","","","","","","."],"vi":"Khóa kéo trên túi của tôi bị hỏng.","alts":[]}}
   ]},
-  {"id":"m20","title":"Giải trí","desc":"Ban nhạc, đàn piano, cắm trại, câu cá, cờ vua","icon":"Fun","unit":202,"course":"en","order":1290,"words":[
+  {"id":"m20","title":"Giải trí 2","desc":"Ban nhạc, đàn piano, cắm trại, câu cá, cờ vua","icon":"Fun","unit":202,"course":"en","order":1290,"words":[
    {"id":"m20-band","hanzi":"band","pinyin":"","vi":"ban nhạc","ex":{"tokens":["My","brother","plays","in","a","band","."],"py":["","","","","","","."],"vi":"Anh trai tôi chơi trong một ban nhạc.","alts":[]}},
    {"id":"m20-piano","hanzi":"piano","pinyin":"","vi":"đàn piano","ex":{"tokens":["I","am","learning","the","piano","."],"py":["","","","","","."],"vi":"Tôi đang học đàn piano.","alts":[]}},
    {"id":"m20-drum","hanzi":"drum","pinyin":"","vi":"cái trống","ex":{"tokens":["He","plays","the","drum","at","school","."],"py":["","","","","","","."],"vi":"Cậu ấy chơi trống ở trường.","alts":[]}},
@@ -143,7 +143,7 @@
    {"id":"m21-uneasy","hanzi":"uneasy","pinyin":"","vi":"bất an","ex":{"tokens":["I","feel","uneasy","about","the","exam","."],"py":["","","","","","","."],"vi":"Tôi thấy bất an về kỳ thi.","alts":[]}},
    {"id":"m21-fed_up","hanzi":"fed up","pinyin":"","vi":"chán ngấy","ex":{"tokens":["I","am","fed","up","with","this","rain","."],"py":["","","","","","","","."],"vi":"Tôi chán ngấy cơn mưa này rồi.","alts":[]}}
   ]},
-  {"id":"m22","title":"Việc nhà","desc":"Lau, gấp, phơi, chổi, xô, rửa bát","icon":"Home","unit":202,"course":"en","order":1310,"words":[
+  {"id":"m22","title":"Việc nhà 2","desc":"Lau, gấp, phơi, chổi, xô, rửa bát","icon":"Home","unit":202,"course":"en","order":1310,"words":[
    {"id":"m22-chore","hanzi":"chore","pinyin":"","vi":"việc vặt trong nhà","ex":{"tokens":["Washing","up","is","my","least","favorite","chore","."],"py":["","","","","","","","."],"vi":"Rửa bát là việc nhà tôi ít thích nhất.","alts":[]}},
    {"id":"m22-housework","hanzi":"housework","pinyin":"","vi":"việc nhà","ex":{"tokens":["We","share","the","housework","."],"py":["","","","","."],"vi":"Chúng tôi chia sẻ việc nhà.","alts":[]}},
    {"id":"m22-dust","hanzi":"dust","pinyin":"","vi":"bụi; lau bụi","ex":{"tokens":["There","is","dust","on","the","shelf","."],"py":["","","","","","","."],"vi":"Có bụi trên giá.","alts":[]}},

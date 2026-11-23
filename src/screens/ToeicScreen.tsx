@@ -106,6 +106,7 @@ export default function ToeicRun({
     return () => clearInterval(t);
   }, [result]);
 
+  const [showText, setShowText] = useState(false);
   const q = qs[cur];
   const group = q.group;
   // the audio is played once when a new photo / question / conversation / talk is reached
@@ -253,9 +254,29 @@ export default function ToeicRun({
             {q.prompt}
           </div>
         )}
+        {q.heardOnly && (
+          <p
+            className="mb-3 text-center text-sm font-bold text-ink-500"
+            data-testid="toeic-heard-hint"
+          >
+            {showText
+              ? "Đang hiện chữ của đáp án (trong bài thi thật chỉ được nghe)."
+              : "Như bài thi thật, các đáp án phần này chỉ được đọc lên, không in ra. Bấm loa để nghe lại."}{" "}
+            <button
+              type="button"
+              className="font-extrabold text-sky-600 underline"
+              onClick={() => setShowText((v) => !v)}
+              data-testid="toeic-show-text"
+            >
+              {showText ? "Ẩn chữ đáp án" : "Không nghe được? Hiện chữ đáp án"}
+            </button>
+          </p>
+        )}
         <div
           className={
-            q.heardOnly ? "grid grid-cols-2 gap-3" : "flex flex-col gap-3"
+            q.heardOnly && !showText
+              ? "grid grid-cols-2 gap-3"
+              : "flex flex-col gap-3"
           }
         >
           {q.options.map((o, i) => (
@@ -271,7 +292,7 @@ export default function ToeicRun({
               <span className="flex h-7 w-7 shrink-0 items-center justify-center rounded-lg border-2 border-current text-xs opacity-60">
                 {LETTER[i]}
               </span>
-              <span>{q.heardOnly ? `Đáp án ${LETTER[i]}` : o}</span>
+              <span>{q.heardOnly && !showText ? `Đáp án ${LETTER[i]}` : o}</span>
             </button>
           ))}
         </div>

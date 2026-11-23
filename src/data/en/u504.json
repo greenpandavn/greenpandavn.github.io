@@ -1,6 +1,6 @@
 {
  "units": [
-  {"unit":504,"level":5,"title":"Phần 4: Ngôn ngữ tinh luyện","desc":"Từ văn chương, từ mượn, thành ngữ, sắc thái tinh tế","color":"sun","course":"en"}
+  {"unit":504,"level":5,"title":"Phần 33: Ngôn ngữ tinh luyện","desc":"Từ văn chương, từ mượn, thành ngữ, sắc thái tinh tế","color":"sun","course":"en"}
  ],
  "lessons": [
   {"id":"x49","title":"Tính từ văn chương","desc":"Phù du, rực rỡ, thanh bình, u sầu","icon":"Book","unit":504,"course":"en","order":4000,"words":[
@@ -31,7 +31,7 @@
    {"id":"x50-relish","hanzi":"relish","pinyin":"","vi":"thích thú, thưởng thức","ex":{"tokens":["I","relish","the","chance","to","work","abroad","."],"py":["","","","","","","","."],"vi":"Tôi thích thú với cơ hội làm việc ở nước ngoài.","alts":[]}},
    {"id":"x50-thwart","hanzi":"thwart","pinyin":"","vi":"ngăn cản, phá ngang","ex":{"tokens":["Police","managed","to","thwart","the","robbery","."],"py":["","","","","","","."],"vi":"Cảnh sát đã ngăn chặn được vụ cướp.","alts":[]}}
   ]},
-  {"id":"x51","title":"Danh từ trừu tượng","desc":"Sự thẳng thắn, nghị lực, niềm an ủi, nghịch lý","icon":"Idea","unit":504,"course":"en","order":4020,"words":[
+  {"id":"x51","title":"Danh từ trừu tượng 6","desc":"Sự thẳng thắn, nghị lực, niềm an ủi, nghịch lý","icon":"Idea","unit":504,"course":"en","order":4020,"words":[
    {"id":"x51-candor","hanzi":"candor","pinyin":"","vi":"sự thẳng thắn","ex":{"tokens":["I","appreciate","your","candor","."],"py":["","","","","."],"vi":"Tôi trân trọng sự thẳng thắn của bạn.","alts":[]}},
    {"id":"x51-fortitude","hanzi":"fortitude","pinyin":"","vi":"sự kiên cường, nghị lực","ex":{"tokens":["She","faced","her","illness","with","fortitude","."],"py":["","","","","","","."],"vi":"Cô ấy đối mặt với bệnh tật bằng nghị lực.","alts":[]}},
    {"id":"x51-solace","hanzi":"solace","pinyin":"","vi":"niềm an ủi","ex":{"tokens":["He","found","solace","in","music","."],"py":["","","","","","."],"vi":"Anh ấy tìm thấy niềm an ủi trong âm nhạc.","alts":[]}},
@@ -87,7 +87,7 @@
    {"id":"x54-protege","hanzi":"protege","pinyin":"","vi":"người được dìu dắt, học trò cưng","ex":{"tokens":["The","young","pianist","is","his","protege","."],"py":["","","","","","","."],"vi":"Nghệ sĩ dương cầm trẻ là học trò cưng của ông ấy.","alts":[]}},
    {"id":"x54-repertoire","hanzi":"repertoire","pinyin":"","vi":"vốn tiết mục, vốn kỹ năng","ex":{"tokens":["The","band","has","a","large","repertoire","."],"py":["","","","","","","."],"vi":"Ban nhạc có vốn tiết mục phong phú.","alts":[]}}
   ]},
-  {"id":"x55","title":"Thành ngữ 3","desc":"Trong cái rủi có cái may, cắn răng chịu, vạch áo","icon":"Saying","unit":504,"course":"en","order":4060,"words":[
+  {"id":"x55","title":"Thành ngữ 2","desc":"Trong cái rủi có cái may, cắn răng chịu, vạch áo","icon":"Saying","unit":504,"course":"en","order":4060,"words":[
    {"id":"x55-a_blessing_in_disguise","hanzi":"a blessing in disguise","pinyin":"","vi":"trong cái rủi có cái may","ex":{"tokens":["Losing","that","job","was","a","blessing","in","disguise","."],"py":["","","","","","","","","."],"vi":"Mất công việc đó hóa ra lại là trong cái rủi có cái may.","alts":[]}},
    {"id":"x55-bite_the_bullet","hanzi":"bite the bullet","pinyin":"","vi":"cắn răng chịu đựng, đành làm việc khó","ex":{"tokens":["I","decided","to","bite","the","bullet","and","call","her","."],"py":["","","","","","","","","","."],"vi":"Tôi quyết định cắn răng gọi cho cô ấy.","alts":[]}},
    {"id":"x55-burn_the_midnight_oil","hanzi":"burn the midnight oil","pinyin":"","vi":"thức khuya làm việc","ex":{"tokens":["Students","burn","the","midnight","oil","before","exams","."],"py":["","","","","","","","."],"vi":"Sinh viên thức khuya học bài trước kỳ thi.","alts":[]}},
@@ -101,7 +101,7 @@
    {"id":"x55-back_to_square_one","hanzi":"back to square one","pinyin":"","vi":"trở lại vạch xuất phát","ex":{"tokens":["The","deal","failed",",","so","we","are","back","to","square","one","."],"py":["","","",",","","","","","","","","."],"vi":"Thỏa thuận thất bại nên chúng tôi trở lại vạch xuất phát.","alts":[]}},
    {"id":"x55-a_drop_in_the_ocean","hanzi":"a drop in the ocean","pinyin":"","vi":"muối bỏ bể","ex":{"tokens":["Our","gift","is","only","a","drop","in","the","ocean","."],"py":["","","","","","","","","","."],"vi":"Món quà của chúng tôi chỉ như muối bỏ bể.","alts":[]}}
   ]},
-  {"id":"x56","title":"Cụm động từ 4","desc":"Ôn lại, trấn áp, loại trừ, bắt nguồn từ","icon":"Phrase","unit":504,"course":"en","order":4070,"words":[
+  {"id":"x56","title":"Cụm động từ 7","desc":"Ôn lại, trấn áp, loại trừ, bắt nguồn từ","icon":"Phrase","unit":504,"course":"en","order":4070,"words":[
    {"id":"x56-brush_up_on","hanzi":"brush up on","pinyin":"","vi":"ôn lại, trau dồi lại","ex":{"tokens":["I","need","to","brush","up","on","my","French","."],"py":["","","","","","","","","."],"vi":"Tôi cần ôn lại tiếng Pháp.","alts":[]}},
    {"id":"x56-crack_down_on","hanzi":"crack down on","pinyin":"","vi":"trấn áp, xử lý mạnh tay","ex":{"tokens":["Police","will","crack","down","on","speeding","."],"py":["","","","","","","."],"vi":"Cảnh sát sẽ xử lý mạnh tay việc chạy quá tốc độ.","alts":[]}},
    {"id":"x56-fall_through","hanzi":"fall through","pinyin":"","vi":"thất bại, không thành","ex":{"tokens":["Our","holiday","plans","may","fall","through","."],"py":["","","","","","","."],"vi":"Kế hoạch nghỉ lễ của chúng tôi có thể không thành.","alts":[]}},

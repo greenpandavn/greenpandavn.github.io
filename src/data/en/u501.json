@@ -1,6 +1,6 @@
 {
  "units": [
-  {"unit":501,"level":5,"title":"Phần 1: Học thuật và chuyên ngành","desc":"Nghiên cứu, ngôn ngữ, lịch sử, luật, tài chính, ngoại giao","color":"leaf","course":"en"}
+  {"unit":501,"level":5,"title":"Phần 30: Học thuật và chuyên ngành","desc":"Nghiên cứu, ngôn ngữ, lịch sử, luật, tài chính, ngoại giao","color":"leaf","course":"en"}
  ],
  "lessons": [
   {"id":"x01","title":"Phương pháp nghiên cứu","desc":"Mẫu, biến số, định tính, định lượng","icon":"Method","unit":501,"course":"en","order":3520,"words":[

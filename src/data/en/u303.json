@@ -1,6 +1,6 @@
 {
  "units": [
-  {"unit":303,"level":3,"title":"Phần 3: Khoa học và thế giới","desc":"Công nghệ, y học, môi trường, địa lý, vũ trụ","color":"grape","course":"en"}
+  {"unit":303,"level":3,"title":"Phần 20: Khoa học và thế giới","desc":"Công nghệ, y học, môi trường, địa lý, vũ trụ","color":"grape","course":"en"}
  ],
  "lessons": [
   {"id":"a33","title":"Khoa học","desc":"Nhà khoa học, hóa học, vật lý, phát minh","icon":"Sci","unit":303,"course":"en","order":2020,"words":[
@@ -17,7 +17,7 @@
    {"id":"a33-gas","hanzi":"gas","pinyin":"","vi":"khí, xăng","ex":{"tokens":["This","gas","has","no","smell","."],"py":["","","","","","."],"vi":"Loại khí này không có mùi.","alts":[]}},
    {"id":"a33-metal","hanzi":"metal","pinyin":"","vi":"kim loại","ex":{"tokens":["Gold","is","an","expensive","metal","."],"py":["","","","","","."],"vi":"Vàng là một kim loại đắt tiền.","alts":[]}}
   ]},
-  {"id":"a34","title":"Công nghệ","desc":"Thiết bị, phần mềm, robot, trí tuệ nhân tạo","icon":"Tech","unit":303,"course":"en","order":2030,"words":[
+  {"id":"a34","title":"Công nghệ 2","desc":"Thiết bị, phần mềm, robot, trí tuệ nhân tạo","icon":"Tech","unit":303,"course":"en","order":2030,"words":[
    {"id":"a34-technology","hanzi":"technology","pinyin":"","vi":"công nghệ","ex":{"tokens":["Technology","changes","our","lives","."],"py":["","","","","."],"vi":"Công nghệ thay đổi cuộc sống của chúng ta.","alts":[]}},
    {"id":"a34-device","hanzi":"device","pinyin":"","vi":"thiết bị","ex":{"tokens":["This","device","can","measure","your","heart","rate","."],"py":["","","","","","","","."],"vi":"Thiết bị này có thể đo nhịp tim của bạn.","alts":[]}},
    {"id":"a34-software","hanzi":"software","pinyin":"","vi":"phần mềm","ex":{"tokens":["You","need","to","update","the","software","."],"py":["","","","","","","."],"vi":"Bạn cần cập nhật phần mềm.","alts":[]}},
@@ -59,7 +59,7 @@
    {"id":"a36-ambulance","hanzi":"ambulance","pinyin":"","vi":"xe cứu thương","ex":{"tokens":["Someone","called","an","ambulance","."],"py":["","","","","."],"vi":"Ai đó đã gọi xe cứu thương.","alts":[]}},
    {"id":"a36-prescription","hanzi":"prescription","pinyin":"","vi":"đơn thuốc","ex":{"tokens":["You","need","a","prescription","for","this","medicine","."],"py":["","","","","","","","."],"vi":"Bạn cần đơn thuốc để mua loại thuốc này.","alts":[]}}
   ]},
-  {"id":"a37","title":"Sức khỏe tinh thần","desc":"Căng thẳng, áp lực, thư giãn, giấc ngủ","icon":"Mind","unit":303,"course":"en","order":2060,"words":[
+  {"id":"a37","title":"Sức khỏe tinh thần 1","desc":"Căng thẳng, áp lực, thư giãn, giấc ngủ","icon":"Mind","unit":303,"course":"en","order":2060,"words":[
    {"id":"a37-stress","hanzi":"stress","pinyin":"","vi":"sự căng thẳng","ex":{"tokens":["Exercise","helps","reduce","stress","."],"py":["","","","","."],"vi":"Tập thể dục giúp giảm căng thẳng.","alts":[]}},
    {"id":"a37-pressure","hanzi":"pressure","pinyin":"","vi":"áp lực","ex":{"tokens":["Students","are","under","a","lot","of","pressure","."],"py":["","","","","","","","."],"vi":"Học sinh đang chịu rất nhiều áp lực.","alts":[]}},
    {"id":"a37-mental","hanzi":"mental","pinyin":"","vi":"thuộc tinh thần","ex":{"tokens":["Mental","health","is","as","important","as","the","body","."],"py":["","","","","","","","","."],"vi":"Sức khỏe tinh thần quan trọng như cơ thể.","alts":[]}},
@@ -101,7 +101,7 @@
    {"id":"a39-ingredient","hanzi":"ingredient","pinyin":"","vi":"nguyên liệu, thành phần","ex":{"tokens":["Salt","is","an","ingredient","in","most","dishes","."],"py":["","","","","","","","."],"vi":"Muối là nguyên liệu trong hầu hết các món ăn.","alts":[]}},
    {"id":"a39-harmful","hanzi":"harmful","pinyin":"","vi":"có hại","ex":{"tokens":["Too","much","sugar","is","harmful","."],"py":["","","","","","."],"vi":"Quá nhiều đường thì có hại.","alts":[]}}
   ]},
-  {"id":"a40","title":"Môi trường","desc":"Nóng lên toàn cầu, khí thải, tái tạo","icon":"Eco","unit":303,"course":"en","order":2090,"words":[
+  {"id":"a40","title":"Môi trường 2","desc":"Nóng lên toàn cầu, khí thải, tái tạo","icon":"Eco","unit":303,"course":"en","order":2090,"words":[
    {"id":"a40-global","hanzi":"global","pinyin":"","vi":"toàn cầu","ex":{"tokens":["Global","warming","is","a","serious","problem","."],"py":["","","","","","","."],"vi":"Sự nóng lên toàn cầu là một vấn đề nghiêm trọng.","alts":[]}},
    {"id":"a40-warming","hanzi":"warming","pinyin":"","vi":"sự nóng lên","ex":{"tokens":["Warming","seas","are","dangerous","for","fish","."],"py":["","","","","","","."],"vi":"Biển ấm lên gây nguy hiểm cho cá.","alts":[]}},
    {"id":"a40-carbon","hanzi":"carbon","pinyin":"","vi":"các bon","ex":{"tokens":["Trees","take","carbon","from","the","air","."],"py":["","","","","","","."],"vi":"Cây hấp thụ các bon từ không khí.","alts":[]}},

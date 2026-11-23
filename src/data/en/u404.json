@@ -1,6 +1,6 @@
 {
  "units": [
-  {"unit":404,"level":4,"title":"Phần 4: Diễn đạt tinh tế","desc":"Sắc thái, thành ngữ, cụm động từ, tu từ, nhấn mạnh","color":"coral","course":"en"}
+  {"unit":404,"level":4,"title":"Phần 27: Diễn đạt tinh tế","desc":"Sắc thái, thành ngữ, cụm động từ, tu từ, nhấn mạnh","color":"coral","course":"en"}
  ],
  "lessons": [
   {"id":"p49","title":"Tính từ chính xác","desc":"Tinh tế, mơ hồ, toàn diện, hời hợt","icon":"Adj","unit":404,"course":"en","order":3090,"words":[
@@ -45,7 +45,7 @@
    {"id":"p51-in_contrast","hanzi":"in contrast","pinyin":"","vi":"trái lại","ex":{"tokens":["In","contrast",",","the","south","is","warm","all","year","."],"py":["","",",","","","","","","","."],"vi":"Trái lại, miền nam ấm áp quanh năm.","alts":[]}},
    {"id":"p51-to_sum_up","hanzi":"to sum up","pinyin":"","vi":"tóm lại","ex":{"tokens":["To","sum","up",",","we","need","more","time","."],"py":["","","",",","","","","","."],"vi":"Tóm lại, chúng ta cần thêm thời gian.","alts":[]}}
   ]},
-  {"id":"p52","title":"Thành ngữ 2","desc":"Break the ice, a piece of cake, under the weather","icon":"Idm","unit":404,"course":"en","order":3120,"words":[
+  {"id":"p52","title":"Thành ngữ 1","desc":"Break the ice, a piece of cake, under the weather","icon":"Idm","unit":404,"course":"en","order":3120,"words":[
    {"id":"p52-break_the_ice","hanzi":"break the ice","pinyin":"","vi":"phá vỡ sự ngượng ngùng ban đầu","ex":{"tokens":["A","joke","can","break","the","ice","."],"py":["","","","","","","."],"vi":"Một câu đùa có thể phá vỡ sự ngượng ngùng.","alts":[]}},
    {"id":"p52-a_piece_of_cake","hanzi":"a piece of cake","pinyin":"","vi":"dễ như ăn bánh","ex":{"tokens":["The","test","was","a","piece","of","cake","."],"py":["","","","","","","","."],"vi":"Bài kiểm tra dễ như ăn bánh.","alts":[]}},
    {"id":"p52-under_the_weather","hanzi":"under the weather","pinyin":"","vi":"hơi ốm, không khỏe","ex":{"tokens":["I","feel","under","the","weather","today","."],"py":["","","","","","","."],"vi":"Hôm nay tôi thấy không được khỏe.","alts":[]}},
@@ -59,7 +59,7 @@
    {"id":"p52-see_eye_to_eye","hanzi":"see eye to eye","pinyin":"","vi":"đồng quan điểm","ex":{"tokens":["We","do","not","see","eye","to","eye","on","politics","."],"py":["","","","","","","","","","."],"vi":"Chúng tôi không cùng quan điểm về chính trị.","alts":[]}},
    {"id":"p52-the_last_straw","hanzi":"the last straw","pinyin":"","vi":"giọt nước tràn ly","ex":{"tokens":["His","rude","email","was","the","last","straw","."],"py":["","","","","","","","."],"vi":"Email thô lỗ của anh ta là giọt nước tràn ly.","alts":[]}}
   ]},
-  {"id":"p53","title":"Cụm động từ 3","desc":"Come up with, put up with, turn down, bring up","icon":"Phr","unit":404,"course":"en","order":3130,"words":[
+  {"id":"p53","title":"Cụm động từ 6","desc":"Come up with, put up with, turn down, bring up","icon":"Phr","unit":404,"course":"en","order":3130,"words":[
    {"id":"p53-come_up_with","hanzi":"come up with","pinyin":"","vi":"nghĩ ra","ex":{"tokens":["We","need","to","come","up","with","a","new","idea","."],"py":["","","","","","","","","","."],"vi":"Chúng ta cần nghĩ ra một ý tưởng mới.","alts":[]}},
    {"id":"p53-put_up_with","hanzi":"put up with","pinyin":"","vi":"chịu đựng","ex":{"tokens":["I","cannot","put","up","with","the","noise","."],"py":["","","","","","","","."],"vi":"Tôi không thể chịu đựng tiếng ồn.","alts":[]}},
    {"id":"p53-turn_down","hanzi":"turn down","pinyin":"","vi":"từ chối; vặn nhỏ","ex":{"tokens":["She","had","to","turn","down","the","offer","."],"py":["","","","","","","","."],"vi":"Cô ấy đã phải từ chối lời đề nghị.","alts":[]}},

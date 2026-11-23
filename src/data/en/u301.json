@@ -1,6 +1,6 @@
 {
  "units": [
-  {"unit":301,"level":3,"title":"Phần 1: Công việc và sự nghiệp","desc":"Xin việc, văn phòng, kinh doanh, tài chính, học thuật","color":"leaf","course":"en"}
+  {"unit":301,"level":3,"title":"Phần 18: Công việc và sự nghiệp","desc":"Xin việc, văn phòng, kinh doanh, tài chính, học thuật","color":"leaf","course":"en"}
  ],
  "lessons": [
   {"id":"a01","title":"Xin việc","desc":"Hồ sơ, phỏng vấn, ứng viên, tuyển dụng","icon":"CV","unit":301,"course":"en","order":1700,"words":[
@@ -171,7 +171,7 @@
    {"id":"a12-discover","hanzi":"discover","pinyin":"","vi":"khám phá, phát hiện","ex":{"tokens":["Scientists","hope","to","discover","a","new","medicine","."],"py":["","","","","","","","."],"vi":"Các nhà khoa học hy vọng tìm ra một loại thuốc mới.","alts":[]}},
    {"id":"a12-source","hanzi":"source","pinyin":"","vi":"nguồn","ex":{"tokens":["What","is","the","source","of","this","news","?"],"py":["","","","","","","","?"],"vi":"Nguồn của tin này là gì?","alts":[]}}
   ]},
-  {"id":"a13","title":"Cụm động từ 1","desc":"Give up, find out, look for, turn on","icon":"Up","unit":301,"course":"en","order":1820,"words":[
+  {"id":"a13","title":"Cụm động từ 2","desc":"Give up, find out, look for, turn on","icon":"Up","unit":301,"course":"en","order":1820,"words":[
    {"id":"a13-give_up","hanzi":"give up","pinyin":"","vi":"từ bỏ","ex":{"tokens":["Do","not","give","up","your","dream","."],"py":["","","","","","","."],"vi":"Đừng từ bỏ ước mơ của bạn.","alts":[]}},
    {"id":"a13-find_out","hanzi":"find out","pinyin":"","vi":"tìm ra, biết được","ex":{"tokens":["I","want","to","find","out","the","truth","."],"py":["","","","","","","","."],"vi":"Tôi muốn tìm ra sự thật.","alts":[]}},
    {"id":"a13-look_for","hanzi":"look for","pinyin":"","vi":"tìm kiếm","ex":{"tokens":["I","need","to","look","for","my","keys","."],"py":["","","","","","","","."],"vi":"Tôi cần tìm chìa khóa của mình.","alts":[]}},
@@ -185,7 +185,7 @@
    {"id":"a13-wake_up","hanzi":"wake up","pinyin":"","vi":"thức dậy","ex":{"tokens":["I","wake","up","at","six","every","day","."],"py":["","","","","","","","."],"vi":"Tôi thức dậy lúc sáu giờ mỗi ngày.","alts":[]}},
    {"id":"a13-fill_in","hanzi":"fill in","pinyin":"","vi":"điền vào","ex":{"tokens":["Please","fill","in","this","form","."],"py":["","","","","","."],"vi":"Vui lòng điền vào mẫu đơn này.","alts":[]}}
   ]},
-  {"id":"a14","title":"Cụm động từ 2","desc":"Carry on, run out of, deal with, set up","icon":"Off","unit":301,"course":"en","order":1830,"words":[
+  {"id":"a14","title":"Cụm động từ 3","desc":"Carry on, run out of, deal with, set up","icon":"Off","unit":301,"course":"en","order":1830,"words":[
    {"id":"a14-carry_on","hanzi":"carry on","pinyin":"","vi":"tiếp tục","ex":{"tokens":["Please","carry","on","with","your","work","."],"py":["","","","","","","."],"vi":"Xin hãy tiếp tục công việc của bạn.","alts":[]}},
    {"id":"a14-run_out_of","hanzi":"run out of","pinyin":"","vi":"hết, cạn","ex":{"tokens":["We","might","run","out","of","milk","."],"py":["","","","","","","."],"vi":"Chúng ta có thể hết sữa.","alts":[]}},
    {"id":"a14-deal_with","hanzi":"deal with","pinyin":"","vi":"xử lý, giải quyết","ex":{"tokens":["I","can","deal","with","this","problem","."],"py":["","","","","","","."],"vi":"Tôi có thể xử lý vấn đề này.","alts":[]}},

@@ -10,17 +10,18 @@ const MEDAL = ['bg-sun-500', 'bg-[#c0c7cf]', 'bg-[#e0915a]'];
 export default function LeaderboardScreen({ onLogin }: { onLogin: () => void }) {
   const acc = useAccount();
   const [kind, setKind] = useState<'week' | 'all'>('week');
-  const [board, setBoard] = useState<Board | null>(null);
+  const [board, setBoard] = useState<(Board & { kind: 'week' | 'all' }) | null>(null);
   const [error, setError] = useState(false);
 
   const synced = acc.sync === 'saved';
   useEffect(() => {
     let alive = true;
-    setBoard(null);
+    // keep the rows already on screen while they are refreshed; only a tab switch starts from empty
+    setBoard((b) => (b && b.kind === kind ? b : null));
     setError(false);
     loadCloud()
       .then((m) => m.fetchBoard(kind))
-      .then((b) => alive && setBoard(b))
+      .then((b) => alive && setBoard({ ...b, kind }))
       .catch(() => alive && setError(true));
     return () => {
       alive = false;
@@ -64,10 +65,11 @@ export default function LeaderboardScreen({ onLogin }: { onLogin: () => void }) 
 
       {!firebaseConfigured ? (
         <Empty text={NOT_CONFIGURED_MSG} />
-      ) : error ? (
+      ) : error && !board ? (
         <Empty text="Không tải được bảng xếp hạng. Hãy kiểm tra kết nối mạng rồi thử lại." />
       ) : !board ? (
-        <div className="flex flex-col gap-2" aria-busy>
+        <div className="flex flex-col gap-2" aria-busy data-testid="board-loading">
+          <p className="text-center text-sm font-bold text-ink-500">Đang tải bảng xếp hạng…</p>
           {[0, 1, 2, 3].map((i) => (
             <div key={i} className="h-14 animate-pulse rounded-2xl bg-cloud/60" />
           ))}

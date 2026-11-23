@@ -13,10 +13,11 @@ export const DEFAULT_ANNOUNCEMENT: Announcement = {
   version: APP_VERSION,
   title: `GreenPanda v${APP_VERSION} có gì mới?`,
   body: [
-    '- Hai khóa học mới: tiếng Hàn (TOPIK 1–2) và tiếng Nhật (JLPT N5–N4), mỗi khóa 30 bài học, 360 từ có phiên âm, nghĩa tiếng Việt, câu ví dụ và giọng đọc.',
-    '- Cả hai khóa đều có ôn tập, trò chơi “Đúng hay Sai” và thi thử TOPIK / JLPT. Chọn khóa ở biểu tượng khóa học phía trên.',
-    '- Điểm XP của cả bốn khóa được cộng chung trên bảng xếp hạng.',
-    '- Tiếng Anh: thêm TOEIC 2–3, đề CEFR A1–C1, kiểm tra trình độ, luyện nghe và hơn 5.000 từ.',
+    '- Trò chơi tiếng Hàn / tiếng Nhật: ghi rõ dòng bên dưới là phiên âm hay nghĩa cần bạn xét đúng–sai.',
+    '- Bảng xếp hạng: hiện chữ “Đang tải” thay cho khung trống, giữ danh sách khi làm mới.',
+    '- Tiếng Anh: đánh số Phần liên tục 1–33, đặt lại tên các bài trùng tên, thay 7 từ gần trùng (tổng vẫn 5.003 từ).',
+    '- TOEIC Part 1–2: thêm hướng dẫn và nút “Hiện chữ đáp án” khi không nghe được.',
+    '- Mới ở bản 5.3.0: khóa tiếng Hàn (TOPIK 1–2) và tiếng Nhật (JLPT N5–N4).',
   ].join('\n'),
   updatedAt: 0,
 };

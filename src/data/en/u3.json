@@ -3,7 +3,7 @@
   {"unit":3,"level":1,"title":"Phần 3: Thế giới quanh ta","desc":"Cơ thể, quần áo, động vật, thời tiết, nơi chốn","color":"grape","course":"en"}
  ],
  "lessons": [
-  {"id":"e15","title":"Cơ thể","desc":"Đầu, mắt, tay, chân","icon":"Bo","unit":3,"course":"en","order":150,"words":[
+  {"id":"e15","title":"Cơ thể 1","desc":"Đầu, mắt, tay, chân","icon":"Bo","unit":3,"course":"en","order":150,"words":[
    {"id":"e15-body","hanzi":"body","pinyin":"","vi":"cơ thể","ex":{"tokens":["Exercise","is","good","for","your","body","."],"py":["","","","","","","."],"vi":"Tập thể dục tốt cho cơ thể bạn.","alts":[]}},
    {"id":"e15-head","hanzi":"head","pinyin":"","vi":"cái đầu","ex":{"tokens":["My","head","hurts","."],"py":["","","","."],"vi":"Đầu tôi đau.","alts":[]}},
    {"id":"e15-face","hanzi":"face","pinyin":"","vi":"khuôn mặt","ex":{"tokens":["Wash","your","face","."],"py":["","","","."],"vi":"Hãy rửa mặt đi.","alts":[]}},
@@ -17,7 +17,7 @@
    {"id":"e15-hair","hanzi":"hair","pinyin":"","vi":"tóc","ex":{"tokens":["She","has","long","hair","."],"py":["","","","","."],"vi":"Cô ấy có mái tóc dài.","alts":[]}},
    {"id":"e15-tooth","hanzi":"tooth","pinyin":"","vi":"răng","ex":{"tokens":["I","have","a","bad","tooth","."],"py":["","","","","","."],"vi":"Tôi có một cái răng sâu.","alts":[]}}
   ]},
-  {"id":"e16","title":"Quần áo","desc":"Áo, quần, giày, mũ","icon":"Sh","unit":3,"course":"en","order":160,"words":[
+  {"id":"e16","title":"Quần áo 1","desc":"Áo, quần, giày, mũ","icon":"Sh","unit":3,"course":"en","order":160,"words":[
    {"id":"e16-clothes","hanzi":"clothes","pinyin":"","vi":"quần áo","ex":{"tokens":["I","wash","my","clothes","on","Sunday","."],"py":["","","","","","","."],"vi":"Tôi giặt quần áo vào chủ nhật.","alts":[]}},
    {"id":"e16-shirt","hanzi":"shirt","pinyin":"","vi":"áo sơ mi","ex":{"tokens":["He","wears","a","white","shirt","."],"py":["","","","","","."],"vi":"Anh ấy mặc áo sơ mi trắng.","alts":[]}},
    {"id":"e16-dress","hanzi":"dress","pinyin":"","vi":"váy liền","ex":{"tokens":["She","has","a","red","dress","."],"py":["","","","","","."],"vi":"Cô ấy có một chiếc váy đỏ.","alts":[]}},

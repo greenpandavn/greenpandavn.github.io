@@ -43,7 +43,9 @@ const stubs = (meta: Meta, c: CourseId): RawLesson[] =>
     order: (i + 1) * 10,
     words: [],
   }));
-const byUnit = (a: Unit, b: Unit) => a.unit - b.unit;
+// parts are listed level by level (the later English parts of a level have higher unit numbers than the next level's first ones)
+const byUnit = (a: Unit, b: Unit) =>
+  (a.level ?? 1) - (b.level ?? 1) || a.unit - b.unit;
 export const COURSE_IDS: CourseId[] = ["zh", "en", "ko", "ja"];
 const META: Record<CourseId, Meta> = {
   zh: zhMeta as unknown as Meta,
@@ -330,7 +332,7 @@ function build(o: ContentOverrides | null) {
       });
   UNITS = [...unitMap.values()]
     .filter((u) => LESSONS.some((l) => l.unit === u.unit))
-    .sort((a, b) => a.unit - b.unit);
+    .sort(byUnit);
   CORE_LESSONS = LESSONS.filter((l) => !l.bonus);
   BONUS_LESSONS = LESSONS.filter((l) => l.bonus);
   ALL_WORDS = LESSONS.flatMap((l) => l.words);

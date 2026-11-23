@@ -1,6 +1,6 @@
 {
  "units": [
-  {"unit":402,"level":4,"title":"Phần 2: Xã hội và thế giới","desc":"Nhà nước, quan hệ quốc tế, nhân quyền, y tế, tâm lý, triết học","color":"sky","course":"en"}
+  {"unit":402,"level":4,"title":"Phần 25: Xã hội và thế giới","desc":"Nhà nước, quan hệ quốc tế, nhân quyền, y tế, tâm lý, triết học","color":"sky","course":"en"}
  ],
  "lessons": [
   {"id":"p17","title":"Nhà nước","desc":"Quốc hội, hiến pháp, lập pháp, nhiệm kỳ","icon":"Gov","unit":402,"course":"en","order":2770,"words":[

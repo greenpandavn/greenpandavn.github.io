@@ -3,13 +3,13 @@
   {"unit":104,"level":1,"title":"Phần 8: Đời sống quanh em","desc":"Quần áo, đồ dùng, động tác, tính từ, nghề nghiệp","color":"grape","course":"en"}
  ],
  "lessons": [
-  {"id":"c14","title":"Quần áo 3","desc":"Váy, áo khoác, găng tay, đồ ngủ","icon":"Coat","unit":104,"course":"en","order":680,"words":[
+  {"id":"c14","title":"Quần áo 2","desc":"Váy, áo khoác, găng tay, đồ ngủ","icon":"Coat","unit":104,"course":"en","order":680,"words":[
    {"id":"c14-skirt","hanzi":"skirt","pinyin":"","vi":"chân váy","ex":{"tokens":["She","wears","a","blue","skirt","."],"py":["","","","","","."],"vi":"Cô ấy mặc chân váy màu xanh.","alts":[]}},
    {"id":"c14-coat","hanzi":"coat","pinyin":"","vi":"áo khoác dài","ex":{"tokens":["Put","on","your","coat","."],"py":["","","","","."],"vi":"Hãy mặc áo khoác vào.","alts":[]}},
    {"id":"c14-sweater","hanzi":"sweater","pinyin":"","vi":"áo len","ex":{"tokens":["This","sweater","is","warm","."],"py":["","","","","."],"vi":"Chiếc áo len này ấm.","alts":[]}},
    {"id":"c14-boots","hanzi":"boots","pinyin":"","vi":"đôi ủng, giày cao cổ","ex":{"tokens":["I","wear","boots","in","the","rain","."],"py":["","","","","","","."],"vi":"Tôi đi ủng khi trời mưa.","alts":[]}},
    {"id":"c14-cap","hanzi":"cap","pinyin":"","vi":"mũ lưỡi trai","ex":{"tokens":["He","has","a","red","cap","."],"py":["","","","","","."],"vi":"Cậu ấy có một chiếc mũ lưỡi trai đỏ.","alts":[]}},
-   {"id":"c14-gloves","hanzi":"gloves","pinyin":"","vi":"găng tay","ex":{"tokens":["My","gloves","are","in","my","bag","."],"py":["","","","","","","."],"vi":"Găng tay của tôi ở trong túi.","alts":[]}},
+   {"id":"c14-bow_tie","hanzi":"bow tie","pinyin":"","vi":"nơ cổ","ex":{"tokens":["He","wears","a","red","bow","tie","."],"py":["","","","","","","."],"vi":"Cậu ấy đeo một cái nơ cổ màu đỏ.","alts":[]}},
    {"id":"c14-sandals","hanzi":"sandals","pinyin":"","vi":"dép xăng đan","ex":{"tokens":["I","wear","sandals","in","summer","."],"py":["","","","","","."],"vi":"Tôi đi dép xăng đan vào mùa hè.","alts":[]}},
    {"id":"c14-shorts","hanzi":"shorts","pinyin":"","vi":"quần đùi","ex":{"tokens":["He","plays","football","in","shorts","."],"py":["","","","","","."],"vi":"Cậu ấy đá bóng trong chiếc quần đùi.","alts":[]}},
    {"id":"c14-pajamas","hanzi":"pajamas","pinyin":"","vi":"đồ ngủ","ex":{"tokens":["The","baby","is","in","pajamas","."],"py":["","","","","","."],"vi":"Em bé đang mặc đồ ngủ.","alts":[]}},
@@ -87,7 +87,7 @@
    {"id":"c19-sunset","hanzi":"sunset","pinyin":"","vi":"hoàng hôn","ex":{"tokens":["We","watch","the","sunset","on","the","beach","."],"py":["","","","","","","","."],"vi":"Chúng tôi ngắm hoàng hôn trên bãi biển.","alts":[]}},
    {"id":"c19-sunrise","hanzi":"sunrise","pinyin":"","vi":"bình minh","ex":{"tokens":["He","gets","up","before","sunrise","."],"py":["","","","","","."],"vi":"Anh ấy dậy trước bình minh.","alts":[]}}
   ]},
-  {"id":"c20","title":"Động tác 4","desc":"Cọ rửa, nhai, cắn, vỗ tay, gật đầu","icon":"Clap","unit":104,"course":"en","order":740,"words":[
+  {"id":"c20","title":"Động tác 1","desc":"Cọ rửa, nhai, cắn, vỗ tay, gật đầu","icon":"Clap","unit":104,"course":"en","order":740,"words":[
    {"id":"c20-scrub","hanzi":"scrub","pinyin":"","vi":"cọ, chà","ex":{"tokens":["Scrub","your","hands","with","soap","."],"py":["","","","","","."],"vi":"Hãy chà tay bằng xà phòng.","alts":[]}},
    {"id":"c20-rinse","hanzi":"rinse","pinyin":"","vi":"rửa lại, xả nước","ex":{"tokens":["Rinse","the","cup","with","water","."],"py":["","","","","","."],"vi":"Hãy tráng cái cốc bằng nước.","alts":[]}},
    {"id":"c20-chew","hanzi":"chew","pinyin":"","vi":"nhai","ex":{"tokens":["Chew","your","food","slowly","."],"py":["","","","","."],"vi":"Hãy nhai thức ăn chậm thôi.","alts":[]}},
@@ -101,7 +101,7 @@
    {"id":"c20-grab","hanzi":"grab","pinyin":"","vi":"chộp lấy, nắm lấy","ex":{"tokens":["Grab","your","bag","and","come","."],"py":["","","","","","."],"vi":"Hãy cầm lấy túi rồi đi nào.","alts":[]}},
    {"id":"c20-squeeze","hanzi":"squeeze","pinyin":"","vi":"vắt, bóp","ex":{"tokens":["Squeeze","the","lemon","into","the","tea","."],"py":["","","","","","","."],"vi":"Hãy vắt chanh vào trà.","alts":[]}}
   ]},
-  {"id":"c21","title":"Động tác 5","desc":"Xé, gói, lăn, trượt, cúi, ngáp","icon":"Roll","unit":104,"course":"en","order":750,"words":[
+  {"id":"c21","title":"Động tác 2","desc":"Xé, gói, lăn, trượt, cúi, ngáp","icon":"Roll","unit":104,"course":"en","order":750,"words":[
    {"id":"c21-tear","hanzi":"tear","pinyin":"","vi":"xé; nước mắt","ex":{"tokens":["Do","not","tear","the","paper","."],"py":["","","","","","."],"vi":"Đừng xé tờ giấy.","alts":[]}},
    {"id":"c21-untie","hanzi":"untie","pinyin":"","vi":"cởi (dây), tháo nút","ex":{"tokens":["Can","you","untie","my","shoes","?"],"py":["","","","","","?"],"vi":"Bạn cởi dây giày giúp mình được không?","alts":[]}},
    {"id":"c21-wrap","hanzi":"wrap","pinyin":"","vi":"gói, bọc","ex":{"tokens":["Wrap","the","gift","in","red","paper","."],"py":["","","","","","","."],"vi":"Hãy gói quà bằng giấy đỏ.","alts":[]}},
@@ -115,7 +115,7 @@
    {"id":"c21-yawn","hanzi":"yawn","pinyin":"","vi":"ngáp","ex":{"tokens":["I","yawn","when","I","am","tired","."],"py":["","","","","","","."],"vi":"Tôi ngáp khi mệt.","alts":[]}},
    {"id":"c21-snore","hanzi":"snore","pinyin":"","vi":"ngáy","ex":{"tokens":["My","father","and","my","uncle","snore","."],"py":["","","","","","","."],"vi":"Bố tôi và chú tôi ngáy.","alts":[]}}
   ]},
-  {"id":"c22","title":"Tính từ 3","desc":"Bừa bộn, gọn gàng, tí hon, khổng lồ","icon":"Tiny","unit":104,"course":"en","order":760,"words":[
+  {"id":"c22","title":"Tính từ 2","desc":"Bừa bộn, gọn gàng, tí hon, khổng lồ","icon":"Tiny","unit":104,"course":"en","order":760,"words":[
    {"id":"c22-sigh","hanzi":"sigh","pinyin":"","vi":"thở dài","ex":{"tokens":["I","sigh","when","I","see","my","homework","."],"py":["","","","","","","","."],"vi":"Tôi thở dài khi nhìn thấy bài tập về nhà.","alts":[]}},
    {"id":"c22-blink","hanzi":"blink","pinyin":"","vi":"chớp mắt","ex":{"tokens":["Do","not","blink","for","the","photo","."],"py":["","","","","","","."],"vi":"Đừng chớp mắt khi chụp ảnh.","alts":[]}},
    {"id":"c22-wink","hanzi":"wink","pinyin":"","vi":"nháy mắt","ex":{"tokens":["Friends","wink","at","each","other","."],"py":["","","","","","."],"vi":"Bạn bè nháy mắt với nhau.","alts":[]}},
@@ -143,7 +143,7 @@
    {"id":"c23-oops","hanzi":"oops","pinyin":"","vi":"ối (khi lỡ tay)","ex":{"tokens":["Oops",",","I","dropped","my","pen","."],"py":["",",","","","","","."],"vi":"Ối, mình làm rơi bút rồi.","alts":[]}},
    {"id":"c23-yuck","hanzi":"yuck","pinyin":"","vi":"eo ôi, kinh quá","ex":{"tokens":["Yuck",",","this","milk","is","old","!"],"py":["",",","","","","","!"],"vi":"Eo ôi, sữa này để lâu rồi!","alts":[]}}
   ]},
-  {"id":"c24","title":"Nghề nghiệp 3","desc":"Người đưa thư, thợ cắt tóc, thủy thủ, thợ mộc","icon":"Sailor","unit":104,"course":"en","order":780,"words":[
+  {"id":"c24","title":"Nghề nghiệp 1","desc":"Người đưa thư, thợ cắt tóc, thủy thủ, thợ mộc","icon":"Sailor","unit":104,"course":"en","order":780,"words":[
    {"id":"c24-postman","hanzi":"postman","pinyin":"","vi":"người đưa thư","ex":{"tokens":["The","postman","comes","at","ten","."],"py":["","","","","","."],"vi":"Người đưa thư đến lúc mười giờ.","alts":[]}},
    {"id":"c24-barber","hanzi":"barber","pinyin":"","vi":"thợ cắt tóc nam","ex":{"tokens":["The","barber","cuts","my","hair","."],"py":["","","","","","."],"vi":"Thợ cắt tóc cắt tóc cho tôi.","alts":[]}},
    {"id":"c24-sailor","hanzi":"sailor","pinyin":"","vi":"thủy thủ","ex":{"tokens":["My","uncle","is","a","sailor","."],"py":["","","","","","."],"vi":"Chú tôi là thủy thủ.","alts":[]}},

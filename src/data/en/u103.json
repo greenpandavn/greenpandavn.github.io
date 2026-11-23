@@ -80,7 +80,7 @@
    {"id":"c06-ketchup","hanzi":"ketchup","pinyin":"","vi":"tương cà","ex":{"tokens":["Put","ketchup","on","my","fries",",","please","."],"py":["","","","","",",","","."],"vi":"Làm ơn cho tương cà lên khoai tây chiên của tôi.","alts":[]}},
    {"id":"c06-mustard","hanzi":"mustard","pinyin":"","vi":"mù tạt","ex":{"tokens":["He","does","not","like","mustard","."],"py":["","","","","","."],"vi":"Anh ấy không thích mù tạt.","alts":[]}},
    {"id":"c06-vinegar","hanzi":"vinegar","pinyin":"","vi":"giấm","ex":{"tokens":["Add","a","little","vinegar","."],"py":["","","","","."],"vi":"Hãy thêm một chút giấm.","alts":[]}},
-   {"id":"c06-noodle","hanzi":"noodle","pinyin":"","vi":"sợi mì","ex":{"tokens":["A","noodle","fell","on","my","shirt","."],"py":["","","","","","","."],"vi":"Một sợi mì rơi lên áo tôi.","alts":[]}},
+   {"id":"c06-dumpling","hanzi":"dumpling","pinyin":"","vi":"bánh bao nhỏ, há cảo","ex":{"tokens":["I","ate","a","hot","dumpling","."],"py":["","","","","","."],"vi":"Tôi đã ăn một cái há cảo nóng.","alts":[]}},
    {"id":"c06-cookie","hanzi":"cookie","pinyin":"","vi":"bánh quy","ex":{"tokens":["Take","one","cookie","from","the","plate","."],"py":["","","","","","","."],"vi":"Hãy lấy một cái bánh quy trên đĩa.","alts":[]}},
    {"id":"c06-chocolate","hanzi":"chocolate","pinyin":"","vi":"sô cô la","ex":{"tokens":["Children","love","chocolate","."],"py":["","","","."],"vi":"Trẻ con rất thích sô cô la.","alts":[]}},
    {"id":"c06-honey","hanzi":"honey","pinyin":"","vi":"mật ong","ex":{"tokens":["Bees","make","honey","."],"py":["","","","."],"vi":"Ong làm ra mật.","alts":[]}},
@@ -157,7 +157,7 @@
    {"id":"c11-arrow","hanzi":"arrow","pinyin":"","vi":"mũi tên","ex":{"tokens":["Follow","the","red","arrow","."],"py":["","","","","."],"vi":"Hãy đi theo mũi tên đỏ.","alts":[]}},
    {"id":"c11-sandbox","hanzi":"sandbox","pinyin":"","vi":"hố cát (cho trẻ chơi)","ex":{"tokens":["The","kids","play","in","the","sandbox","."],"py":["","","","","","","."],"vi":"Bọn trẻ chơi trong hố cát.","alts":[]}}
   ]},
-  {"id":"c12","title":"Thời tiết 2","desc":"Mưa, tuyết, sương mù, gió nhẹ, bóng râm","icon":"Snow","unit":103,"course":"en","order":660,"words":[
+  {"id":"c12","title":"Thời tiết 1","desc":"Mưa, tuyết, sương mù, gió nhẹ, bóng râm","icon":"Snow","unit":103,"course":"en","order":660,"words":[
    {"id":"c12-rainy","hanzi":"rainy","pinyin":"","vi":"có mưa","ex":{"tokens":["It","is","rainy","today","."],"py":["","","","","."],"vi":"Hôm nay trời mưa.","alts":[]}},
    {"id":"c12-snowy","hanzi":"snowy","pinyin":"","vi":"có tuyết","ex":{"tokens":["We","stay","home","on","a","snowy","day","."],"py":["","","","","","","","."],"vi":"Chúng tôi ở nhà vào ngày có tuyết.","alts":[]}},
    {"id":"c12-foggy","hanzi":"foggy","pinyin":"","vi":"có sương mù","ex":{"tokens":["The","morning","is","foggy","."],"py":["","","","","."],"vi":"Buổi sáng có sương mù.","alts":[]}},

@@ -129,7 +129,7 @@ warm-up|bài khởi động|Never skip the warm-up.|Đừng bao giờ bỏ qua b
 contagion|sự lây lan (bệnh)|Masks reduce the risk of contagion.|Khẩu trang làm giảm nguy cơ lây lan.
 
 @r10|Môi trường và địa hình|Khí thải, bãi rác, tái chế, bán đảo, đầm lầy|Earth
-emissions|khí thải|The city wants to cut emissions by half.|Thành phố muốn cắt giảm một nửa lượng khí thải.
+smog|khói bụi ô nhiễm|Smog covered the city all week.|Khói bụi bao phủ thành phố suốt cả tuần.
 landfill|bãi chôn lấp rác|Most of this waste goes to landfill.|Phần lớn rác này được đưa đến bãi chôn lấp.
 recycling|việc tái chế|Recycling saves energy.|Tái chế giúp tiết kiệm năng lượng.
 poaching|nạn săn trộm|Poaching threatens the last rhinos.|Nạn săn trộm đe dọa những con tê giác cuối cùng.
