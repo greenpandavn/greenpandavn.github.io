@@ -31,7 +31,7 @@
    {"id":"x02-excerpt","hanzi":"excerpt","pinyin":"","vi":"đoạn trích","ex":{"tokens":["We","read","an","excerpt","from","the","novel","in","class","."],"py":["","","","","","","","","","."],"vi":"Chúng tôi đọc một đoạn trích của cuốn tiểu thuyết trên lớp.","alts":[]}},
    {"id":"x02-annotate","hanzi":"annotate","pinyin":"","vi":"chú giải, ghi chú thêm","ex":{"tokens":["Students","annotate","the","text","as","they","read","."],"py":["","","","","","","","."],"vi":"Sinh viên ghi chú vào văn bản khi đọc.","alts":[]}}
   ]},
-  {"id":"x03","title":"Ngôn ngữ học","desc":"Ngữ pháp, ngữ âm, phương ngữ, cú pháp","icon":"Language","unit":501,"course":"en","order":4820,"words":[
+  {"id":"x03","title":"Ngôn ngữ học 1","desc":"Ngữ pháp, ngữ âm, phương ngữ, cú pháp","icon":"Language","unit":501,"course":"en","order":4820,"words":[
    {"id":"x03-syntax","hanzi":"syntax","pinyin":"","vi":"cú pháp","ex":{"tokens":["English","syntax","is","different","from","Vietnamese","syntax","."],"py":["","","","","","","","."],"vi":"Cú pháp tiếng Anh khác cú pháp tiếng Việt.","alts":[]}},
    {"id":"x03-phonetics","hanzi":"phonetics","pinyin":"","vi":"ngữ âm học","ex":{"tokens":["Phonetics","helps","you","pronounce","new","sounds","."],"py":["","","","","","","."],"vi":"Ngữ âm học giúp bạn phát âm những âm mới.","alts":[]}},
    {"id":"x03-dialect","hanzi":"dialect","pinyin":"","vi":"phương ngữ, tiếng địa phương","ex":{"tokens":["My","grandmother","speaks","a","northern","dialect","."],"py":["","","","","","","."],"vi":"Bà tôi nói một phương ngữ miền Bắc.","alts":[]}},

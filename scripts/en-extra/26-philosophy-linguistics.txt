@@ -1,0 +1,135 @@
+# Level 5 (Chuyên sâu): triết học, logic, ngôn ngữ học.
+@5|Triết học và logic|Trường phái, lập luận, đạo đức|Thought
+metaphysics|siêu hình học|Metaphysics asks what reality is.|Siêu hình học đặt câu hỏi thực tại là gì.
+epistemology|nhận thức luận|Epistemology studies how we know things.|Nhận thức luận nghiên cứu cách ta biết về sự vật.
+ontology|bản thể luận|Ontology deals with the nature of being.|Bản thể luận bàn về bản chất của tồn tại.
+aesthetics|mỹ học|Aesthetics is the study of beauty.|Mỹ học là môn nghiên cứu về cái đẹp.
+logic|logic, lô-gích|There is no logic in his argument.|Lập luận của anh ấy không có logic.
+syllogism|tam đoạn luận|A syllogism has two premises and a conclusion.|Tam đoạn luận có hai tiền đề và một kết luận.
+postulate|định đề; giả định|The theory rests on one postulate.|Lý thuyết dựa trên một định đề.
+tautology|phép lặp thừa; hằng đúng|"Free gift" is a tautology.|"Quà tặng miễn phí" là một cách nói lặp thừa.
+dialectic|phép biện chứng|Hegel is famous for his dialectic.|Hegel nổi tiếng với phép biện chứng.
+empiricism|chủ nghĩa kinh nghiệm|Empiricism says knowledge comes from experience.|Chủ nghĩa kinh nghiệm cho rằng tri thức đến từ trải nghiệm.
+rationalism|chủ nghĩa duy lý|Rationalism trusts reason above the senses.|Chủ nghĩa duy lý tin lý trí hơn giác quan.
+skepticism|chủ nghĩa hoài nghi; sự hoài nghi|The plan was met with skepticism.|Kế hoạch vấp phải sự hoài nghi.
+stoicism|chủ nghĩa khắc kỷ|She faced the illness with stoicism.|Cô ấy đối mặt với bệnh tật bằng tinh thần khắc kỷ.
+nihilism|chủ nghĩa hư vô|The novel is full of nihilism.|Cuốn tiểu thuyết nhuốm đầy chủ nghĩa hư vô.
+existentialism|chủ nghĩa hiện sinh|Sartre is linked with existentialism.|Sartre gắn liền với chủ nghĩa hiện sinh.
+determinism|thuyết tất định|Determinism leaves no room for chance.|Thuyết tất định không chừa chỗ cho ngẫu nhiên.
+free will|ý chí tự do|Do humans really have free will?|Con người có thật sự có ý chí tự do không?
+fatalism|thuyết định mệnh|His fatalism stopped him from trying.|Thói tin vào định mệnh khiến anh ấy không buồn cố gắng.
+utilitarianism|chủ nghĩa vị lợi|Utilitarianism seeks the greatest good for the most people.|Chủ nghĩa vị lợi tìm lợi ích lớn nhất cho nhiều người nhất.
+pragmatism|chủ nghĩa thực dụng|Her pragmatism saved the project.|Tính thực dụng của cô ấy đã cứu dự án.
+idealism|chủ nghĩa duy tâm; lý tưởng chủ nghĩa|He lost his youthful idealism.|Anh ấy đánh mất lý tưởng thời trẻ.
+materialism|chủ nghĩa duy vật; lối sống vật chất|She dislikes the materialism of city life.|Cô ấy không thích lối sống vật chất ở thành phố.
+dualism|thuyết nhị nguyên|Dualism separates mind and body.|Thuyết nhị nguyên tách tâm trí khỏi cơ thể.
+relativism|thuyết tương đối (đạo đức, văn hóa)|Relativism denies absolute truth.|Thuyết tương đối phủ nhận chân lý tuyệt đối.
+humanism|chủ nghĩa nhân văn|Humanism shaped the Renaissance.|Chủ nghĩa nhân văn định hình thời Phục hưng.
+hedonism|chủ nghĩa khoái lạc|A life of hedonism left him empty.|Cuộc đời chạy theo khoái lạc khiến anh ta trống rỗng.
+deduction|phép suy diễn; sự khấu trừ|The detective solved the case by deduction.|Thám tử phá án bằng suy diễn.
+induction|phép quy nạp; sự nhậm chức|Science relies on induction from data.|Khoa học dựa vào quy nạp từ dữ liệu.
+inference|sự suy luận|That is a fair inference from the facts.|Đó là một suy luận hợp lý từ các dữ kiện.
+proposition|mệnh đề; đề xuất|The proposition is either true or false.|Mệnh đề đó hoặc đúng hoặc sai.
+antithesis|phản đề; điều trái ngược hẳn|He is the antithesis of his father.|Anh ấy trái ngược hẳn với cha mình.
+synthesis|sự tổng hợp|The book is a synthesis of two theories.|Cuốn sách là sự tổng hợp của hai lý thuyết.
+straw man|lập luận bù nhìn rơm|That reply is a straw man, not my real view.|Câu đáp đó là ngụy biện bù nhìn rơm, không phải quan điểm thật của tôi.
+ad hominem|công kích cá nhân|An ad hominem attack proves nothing.|Một đòn công kích cá nhân chẳng chứng minh được gì.
+circular reasoning|lập luận luẩn quẩn|The proof is just circular reasoning.|Cách chứng minh đó chỉ là lập luận luẩn quẩn.
+slippery slope|con dốc trơn trượt (ngụy biện)|Lying once puts you on a slippery slope.|Nói dối một lần là đặt chân lên con dốc trơn trượt.
+thought experiment|thí nghiệm tưởng tượng|Einstein used a thought experiment about a train.|Einstein dùng một thí nghiệm tưởng tượng về đoàn tàu.
+moral dilemma|tình huống khó xử về đạo đức|The doctor faced a moral dilemma.|Bác sĩ đối mặt với một tình huống khó xử về đạo đức.
+social contract|khế ước xã hội|Rousseau wrote about the social contract.|Rousseau viết về khế ước xã hội.
+natural law|luật tự nhiên|He argued from natural law.|Ông ấy lập luận dựa trên luật tự nhiên.
+vice|thói xấu, tật xấu|Smoking is his only vice.|Hút thuốc là tật xấu duy nhất của ông ấy.
+morality|đạo đức|They argued about the morality of war.|Họ tranh luận về đạo đức của chiến tranh.
+causality|quan hệ nhân quả|It is hard to prove causality.|Rất khó chứng minh quan hệ nhân quả.
+transcendence|sự siêu việt|The music gave a sense of transcendence.|Bản nhạc đem lại cảm giác siêu thoát.
+phenomenon|hiện tượng|Lightning is a natural phenomenon.|Sét là một hiện tượng tự nhiên.
+a priori|tiên nghiệm|We cannot know that a priori.|Chúng ta không thể biết điều đó một cách tiên nghiệm.
+sophistry|lối ngụy biện|His clever sophistry fooled no one.|Lối ngụy biện khôn khéo của hắn chẳng lừa được ai.
+absurdity|sự phi lý|She laughed at the absurdity of the rule.|Cô ấy bật cười trước sự phi lý của quy định.
+mysticism|chủ nghĩa thần bí|The poem is full of mysticism.|Bài thơ thấm đẫm màu thần bí.
+asceticism|chủ nghĩa khổ hạnh|The monks practice asceticism.|Các nhà sư thực hành lối sống khổ hạnh.
+altruist|người vị tha|A true altruist expects nothing in return.|Người vị tha thật sự không mong được đáp lại.
+egoism|chủ nghĩa vị kỷ|His egoism ruined the friendship.|Tính vị kỷ của anh ta phá hỏng tình bạn.
+cynic|người hay hoài nghi, yếm thế|Do not be such a cynic.|Đừng yếm thế như vậy.
+sage|nhà hiền triết; cây xô thơm|People came to ask the sage for advice.|Người ta đến xin nhà hiền triết lời khuyên.
+treatise|chuyên luận|He wrote a treatise on government.|Ông ấy viết một chuyên luận về chính quyền.
+discourse|diễn ngôn; bài luận|Political discourse has become angrier.|Diễn ngôn chính trị ngày càng gay gắt.
+polemic|bài bút chiến|The article is a polemic against the reform.|Bài báo là một bài bút chiến chống lại cải cách.
+aphorism|cách ngôn|"Less is more" is a well-known aphorism.|"Ít mà chất" là một cách ngôn nổi tiếng.
+maxim|châm ngôn|My maxim is to waste nothing.|Châm ngôn của tôi là không lãng phí gì.
+dictum|câu nói nổi tiếng, danh ngôn|He followed the dictum "know yourself".|Ông ấy làm theo danh ngôn "hãy tự biết mình".
+credo|tín điều, phương châm sống|Hard work is her credo.|Chăm chỉ là phương châm sống của cô ấy.
+solipsism|thuyết duy ngã|Solipsism holds that only one's own mind is certain.|Thuyết duy ngã cho rằng chỉ tâm trí của chính mình là chắc chắn.
+false dilemma|song đề giả|"With us or against us" is a false dilemma.|"Theo ta hoặc chống ta" là một song đề giả.
+teleology|mục đích luận|Teleology explains things by their purpose.|Mục đích luận giải thích sự vật bằng mục đích của chúng.
+a posteriori|hậu nghiệm|This is known a posteriori, from experience.|Điều này được biết một cách hậu nghiệm, từ kinh nghiệm.
+theist|người hữu thần|A theist believes in a god.|Người hữu thần tin vào một vị thần.
+
+@5|Ngôn ngữ học|Âm vị, từ loại, dấu câu, loại hình ngôn ngữ|Language
+phoneme|âm vị|English has about forty-four phoneme sounds.|Tiếng Anh có khoảng bốn mươi bốn âm vị.
+morpheme|hình vị|The word "cats" has more than one morpheme.|Từ "cats" có hơn một hình vị.
+semantics|ngữ nghĩa học|Semantics is the study of meaning.|Ngữ nghĩa học là môn nghiên cứu về nghĩa.
+phonology|âm vị học|She teaches English phonology.|Cô ấy dạy âm vị học tiếng Anh.
+vernacular|tiếng bản xứ, lời ăn tiếng nói thường ngày|The poem is written in the vernacular.|Bài thơ được viết bằng lời ăn tiếng nói thường ngày.
+jargon|biệt ngữ chuyên ngành|The report is full of legal jargon.|Bản báo cáo đầy biệt ngữ pháp lý.
+slang|tiếng lóng|Teenagers use a lot of slang.|Thanh thiếu niên dùng nhiều tiếng lóng.
+colloquialism|từ ngữ khẩu ngữ|"Gonna" is a colloquialism.|"Gonna" là một từ khẩu ngữ.
+onomatopoeia|từ tượng thanh|"Buzz" is an example of onomatopoeia.|"Buzz" là một ví dụ về từ tượng thanh.
+palindrome|từ đọc xuôi ngược như nhau|"Level" is a palindrome.|"Level" là một từ đọc xuôi ngược như nhau.
+anagram|phép đảo chữ|"Listen" is an anagram of "silent".|"Listen" là phép đảo chữ của "silent".
+acronym|từ viết tắt bằng chữ cái đầu|NASA is an acronym.|NASA là một từ viết tắt bằng chữ cái đầu.
+abbreviation|chữ viết tắt|"Dr." is an abbreviation of "doctor".|"Dr." là chữ viết tắt của "doctor".
+homonym|từ đồng âm đồng tự|"Bank" is a homonym with two meanings.|"Bank" là từ đồng âm có hai nghĩa.
+homophone|từ đồng âm khác chữ|"Sea" is a homophone of "see".|"Sea" đồng âm với "see".
+cognate|từ cùng gốc|The German word is a cognate of the English one.|Từ tiếng Đức đó cùng gốc với từ tiếng Anh.
+loanword|từ vay mượn|"Pho" is a loanword in English.|"Pho" là một từ vay mượn trong tiếng Anh.
+neologism|từ mới đặt|"Selfie" was a neologism ten years ago.|"Selfie" là một từ mới cách đây mười năm.
+diphthong|nguyên âm đôi|The word "boy" contains a diphthong.|Từ "boy" có chứa một nguyên âm đôi.
+inflection|biến tố; sự lên xuống giọng|English has little inflection.|Tiếng Anh có ít biến tố.
+conjugation|sự chia động từ|French verb conjugation is hard.|Chia động từ tiếng Pháp rất khó.
+aspect|thể (của động từ); khía cạnh|The progressive aspect shows an action in progress.|Thể tiếp diễn chỉ hành động đang xảy ra.
+phrase|cụm từ|Learn this useful phrase.|Hãy học cụm từ hữu ích này.
+predicate|vị ngữ|Every sentence needs a predicate.|Câu nào cũng cần vị ngữ.
+modifier|từ bổ nghĩa|An adjective is a modifier of a noun.|Tính từ là từ bổ nghĩa cho danh từ.
+determiner|từ hạn định|"The" is a determiner.|"The" là một từ hạn định.
+preposition|giới từ|"On" is a preposition.|"On" là một giới từ.
+conjunction|liên từ|"And" is a conjunction.|"And" là một liên từ.
+interjection|thán từ|"Wow" is an interjection.|"Wow" là một thán từ.
+participle|phân từ|"Broken" is a past participle.|"Broken" là một quá khứ phân từ.
+gerund|danh động từ|"Swimming" is a gerund in this sentence.|"Swimming" là danh động từ trong câu này.
+infinitive|động từ nguyên mẫu|Use the infinitive after "want".|Hãy dùng động từ nguyên mẫu sau "want".
+auxiliary|trợ động từ; phụ trợ|"Do" is an auxiliary verb.|"Do" là một trợ động từ.
+transitive|(động từ) ngoại động|"Buy" is a transitive verb.|"Buy" là ngoại động từ.
+intransitive|(động từ) nội động|"Sleep" is an intransitive verb.|"Sleep" là nội động từ.
+subjunctive|thức giả định|"If I were you" uses the subjunctive.|"If I were you" dùng thức giả định.
+interrogative|nghi vấn|"Who" is an interrogative word.|"Who" là một từ nghi vấn.
+multilingual|đa ngữ|Singapore is a multilingual country.|Singapore là một đất nước đa ngữ.
+monolingual|đơn ngữ|I use a monolingual dictionary.|Tôi dùng từ điển đơn ngữ.
+mother tongue|tiếng mẹ đẻ|Vietnamese is my mother tongue.|Tiếng Việt là tiếng mẹ đẻ của tôi.
+lingua franca|ngôn ngữ chung|English is the lingua franca of business.|Tiếng Anh là ngôn ngữ chung của giới kinh doanh.
+sign language|ngôn ngữ ký hiệu|She is learning sign language.|Cô ấy đang học ngôn ngữ ký hiệu.
+braille|chữ nổi|The sign is also written in braille.|Tấm biển cũng được viết bằng chữ nổi.
+transcription|bản chép lời; phiên âm|I read the transcription of the interview.|Tôi đọc bản chép lời cuộc phỏng vấn.
+punctuation|dấu câu|Check your spelling and punctuation.|Hãy kiểm tra chính tả và dấu câu.
+apostrophe|dấu nháy đơn|"Don't" needs an apostrophe.|"Don't" cần một dấu nháy đơn.
+hyphen|dấu gạch nối|"Well-known" has a hyphen.|"Well-known" có một dấu gạch nối.
+semicolon|dấu chấm phẩy|Use a semicolon between the two clauses.|Hãy dùng dấu chấm phẩy giữa hai mệnh đề.
+colon|dấu hai chấm; ruột kết|Put a colon before the list.|Hãy đặt dấu hai chấm trước danh sách.
+ellipsis|dấu ba chấm; phép tỉnh lược|An ellipsis shows that words are missing.|Dấu ba chấm cho thấy có từ bị lược bỏ.
+parenthesis|dấu ngoặc đơn|Put the date in parenthesis.|Hãy đặt ngày tháng trong ngoặc đơn.
+quotation mark|dấu ngoặc kép|You forgot the closing quotation mark.|Bạn quên dấu ngoặc kép đóng.
+italics|chữ in nghiêng|Book titles are written in italics.|Tên sách được viết bằng chữ in nghiêng.
+typo|lỗi đánh máy|There is a typo in the first line.|Có một lỗi đánh máy ở dòng đầu.
+proofreading|việc đọc soát lỗi|The essay needs careful proofreading.|Bài luận cần được đọc soát lỗi kỹ.
+fluency|sự trôi chảy|She speaks French with fluency.|Cô ấy nói tiếng Pháp trôi chảy.
+literacy rate|tỷ lệ biết chữ|The country has a high literacy rate.|Đất nước này có tỷ lệ biết chữ cao.
+pidgin|ngôn ngữ pha tạp đơn giản|Traders spoke a pidgin on the coast.|Các lái buôn nói một thứ ngôn ngữ pha tạp ở vùng bờ biển.
+creole|ngôn ngữ creole|Haitian Creole grew out of French.|Tiếng Creole Haiti phát triển từ tiếng Pháp.
+transliteration|sự chuyển tự|Pinyin is a transliteration of Chinese sounds.|Bính âm là cách chuyển tự âm tiếng Trung.
+orthography|chính tả, hệ thống chữ viết|English orthography is not regular.|Chính tả tiếng Anh không theo quy tắc đều.
+diacritic|dấu phụ|Vietnamese uses more than one diacritic on a letter.|Tiếng Việt dùng hơn một dấu phụ trên một chữ cái.
+declarative|(câu) trần thuật|A declarative sentence ends with a full stop.|Câu trần thuật kết thúc bằng dấu chấm.
+metonymy|phép hoán dụ|"The crown" for the king is metonymy.|Dùng "vương miện" để chỉ nhà vua là phép hoán dụ.
+archaism|từ cổ|"Thou" is an archaism.|"Thou" là một từ cổ.

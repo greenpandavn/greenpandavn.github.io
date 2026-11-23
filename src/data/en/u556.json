@@ -1,6 +1,6 @@
 {
  "units": [
-  {"unit":556,"level":5,"title":"Phần 53: Mở rộng – Tính từ trang trọng","desc":"Tính từ trang trọng, Danh từ trừu tượng","color":"leaf","course":"en"}
+  {"unit":556,"level":5,"title":"Phần 53: Mở rộng – Tính từ trang trọng","desc":"Tính từ trang trọng, Danh từ trừu tượng, Triết học và logic","color":"leaf","course":"en"}
  ],
  "lessons": [
   {"id":"y5101","title":"Tính từ trang trọng 9","desc":"Tính từ dùng trong văn viết, báo chí, học thuật","icon":"Refined","unit":556,"course":"en","order":5950,"words":[
@@ -126,6 +126,37 @@
    {"id":"y5108-idiosyncrasy","hanzi":"idiosyncrasy","pinyin":"","vi":"nét riêng, thói quen khác người","ex":{"tokens":["Talking","to","plants","is","her","idiosyncrasy","."],"py":["","","","","","","."],"vi":"Nói chuyện với cây là thói quen khác người của cô ấy.","alts":[]}},
    {"id":"y5108-temerity","hanzi":"temerity","pinyin":"","vi":"sự liều lĩnh, cả gan","ex":{"tokens":["He","had","the","temerity","to","interrupt","the","judge","."],"py":["","","","","","","","","."],"vi":"Anh ta cả gan ngắt lời thẩm phán.","alts":[]}},
    {"id":"y5108-ubiquity","hanzi":"ubiquity","pinyin":"","vi":"sự có mặt khắp nơi","ex":{"tokens":["The","ubiquity","of","phones","has","changed","how","we","live","."],"py":["","","","","","","","","","."],"vi":"Việc điện thoại có mặt khắp nơi đã thay đổi cách ta sống.","alts":[]}}
+  ]},
+  {"id":"y5109","title":"Triết học và logic 1","desc":"Trường phái, lập luận, đạo đức","icon":"Thought","unit":556,"course":"en","order":6030,"words":[
+   {"id":"y5109-metaphysics","hanzi":"metaphysics","pinyin":"","vi":"siêu hình học","ex":{"tokens":["Metaphysics","asks","what","reality","is","."],"py":["","","","","","."],"vi":"Siêu hình học đặt câu hỏi thực tại là gì.","alts":[]}},
+   {"id":"y5109-epistemology","hanzi":"epistemology","pinyin":"","vi":"nhận thức luận","ex":{"tokens":["Epistemology","studies","how","we","know","things","."],"py":["","","","","","","."],"vi":"Nhận thức luận nghiên cứu cách ta biết về sự vật.","alts":[]}},
+   {"id":"y5109-ontology","hanzi":"ontology","pinyin":"","vi":"bản thể luận","ex":{"tokens":["Ontology","deals","with","the","nature","of","being","."],"py":["","","","","","","","."],"vi":"Bản thể luận bàn về bản chất của tồn tại.","alts":[]}},
+   {"id":"y5109-aesthetics","hanzi":"aesthetics","pinyin":"","vi":"mỹ học","ex":{"tokens":["Aesthetics","is","the","study","of","beauty","."],"py":["","","","","","","."],"vi":"Mỹ học là môn nghiên cứu về cái đẹp.","alts":[]}},
+   {"id":"y5109-logic","hanzi":"logic","pinyin":"","vi":"logic, lô-gích","ex":{"tokens":["There","is","no","logic","in","his","argument","."],"py":["","","","","","","","."],"vi":"Lập luận của anh ấy không có logic.","alts":[]}},
+   {"id":"y5109-syllogism","hanzi":"syllogism","pinyin":"","vi":"tam đoạn luận","ex":{"tokens":["A","syllogism","has","two","premises","and","a","conclusion","."],"py":["","","","","","","","","."],"vi":"Tam đoạn luận có hai tiền đề và một kết luận.","alts":[]}},
+   {"id":"y5109-postulate","hanzi":"postulate","pinyin":"","vi":"định đề; giả định","ex":{"tokens":["The","theory","rests","on","one","postulate","."],"py":["","","","","","","."],"vi":"Lý thuyết dựa trên một định đề.","alts":[]}},
+   {"id":"y5109-tautology","hanzi":"tautology","pinyin":"","vi":"phép lặp thừa; hằng đúng","ex":{"tokens":["\"Free","gift\"","is","a","tautology","."],"py":["","","","","","."],"vi":"\"Quà tặng miễn phí\" là một cách nói lặp thừa.","alts":[]}},
+   {"id":"y5109-dialectic","hanzi":"dialectic","pinyin":"","vi":"phép biện chứng","ex":{"tokens":["Hegel","is","famous","for","his","dialectic","."],"py":["","","","","","","."],"vi":"Hegel nổi tiếng với phép biện chứng.","alts":[]}},
+   {"id":"y5109-empiricism","hanzi":"empiricism","pinyin":"","vi":"chủ nghĩa kinh nghiệm","ex":{"tokens":["Empiricism","says","knowledge","comes","from","experience","."],"py":["","","","","","","."],"vi":"Chủ nghĩa kinh nghiệm cho rằng tri thức đến từ trải nghiệm.","alts":[]}},
+   {"id":"y5109-rationalism","hanzi":"rationalism","pinyin":"","vi":"chủ nghĩa duy lý","ex":{"tokens":["Rationalism","trusts","reason","above","the","senses","."],"py":["","","","","","","."],"vi":"Chủ nghĩa duy lý tin lý trí hơn giác quan.","alts":[]}},
+   {"id":"y5109-skepticism","hanzi":"skepticism","pinyin":"","vi":"chủ nghĩa hoài nghi; sự hoài nghi","ex":{"tokens":["The","plan","was","met","with","skepticism","."],"py":["","","","","","","."],"vi":"Kế hoạch vấp phải sự hoài nghi.","alts":[]}},
+   {"id":"y5109-stoicism","hanzi":"stoicism","pinyin":"","vi":"chủ nghĩa khắc kỷ","ex":{"tokens":["She","faced","the","illness","with","stoicism","."],"py":["","","","","","","."],"vi":"Cô ấy đối mặt với bệnh tật bằng tinh thần khắc kỷ.","alts":[]}},
+   {"id":"y5109-nihilism","hanzi":"nihilism","pinyin":"","vi":"chủ nghĩa hư vô","ex":{"tokens":["The","novel","is","full","of","nihilism","."],"py":["","","","","","","."],"vi":"Cuốn tiểu thuyết nhuốm đầy chủ nghĩa hư vô.","alts":[]}}
+  ]},
+  {"id":"y5110","title":"Triết học và logic 2","desc":"Trường phái, lập luận, đạo đức","icon":"Thought","unit":556,"course":"en","order":6040,"words":[
+   {"id":"y5110-existentialism","hanzi":"existentialism","pinyin":"","vi":"chủ nghĩa hiện sinh","ex":{"tokens":["Sartre","is","linked","with","existentialism","."],"py":["","","","","","."],"vi":"Sartre gắn liền với chủ nghĩa hiện sinh.","alts":[]}},
+   {"id":"y5110-determinism","hanzi":"determinism","pinyin":"","vi":"thuyết tất định","ex":{"tokens":["Determinism","leaves","no","room","for","chance","."],"py":["","","","","","","."],"vi":"Thuyết tất định không chừa chỗ cho ngẫu nhiên.","alts":[]}},
+   {"id":"y5110-free_will","hanzi":"free will","pinyin":"","vi":"ý chí tự do","ex":{"tokens":["Do","humans","really","have","free","will","?"],"py":["","","","","","","?"],"vi":"Con người có thật sự có ý chí tự do không?","alts":[]}},
+   {"id":"y5110-fatalism","hanzi":"fatalism","pinyin":"","vi":"thuyết định mệnh","ex":{"tokens":["His","fatalism","stopped","him","from","trying","."],"py":["","","","","","","."],"vi":"Thói tin vào định mệnh khiến anh ấy không buồn cố gắng.","alts":[]}},
+   {"id":"y5110-utilitarianism","hanzi":"utilitarianism","pinyin":"","vi":"chủ nghĩa vị lợi","ex":{"tokens":["Utilitarianism","seeks","the","greatest","good","for","the","most","people","."],"py":["","","","","","","","","","."],"vi":"Chủ nghĩa vị lợi tìm lợi ích lớn nhất cho nhiều người nhất.","alts":[]}},
+   {"id":"y5110-pragmatism","hanzi":"pragmatism","pinyin":"","vi":"chủ nghĩa thực dụng","ex":{"tokens":["Her","pragmatism","saved","the","project","."],"py":["","","","","","."],"vi":"Tính thực dụng của cô ấy đã cứu dự án.","alts":[]}},
+   {"id":"y5110-idealism","hanzi":"idealism","pinyin":"","vi":"chủ nghĩa duy tâm; lý tưởng chủ nghĩa","ex":{"tokens":["He","lost","his","youthful","idealism","."],"py":["","","","","","."],"vi":"Anh ấy đánh mất lý tưởng thời trẻ.","alts":[]}},
+   {"id":"y5110-materialism","hanzi":"materialism","pinyin":"","vi":"chủ nghĩa duy vật; lối sống vật chất","ex":{"tokens":["She","dislikes","the","materialism","of","city","life","."],"py":["","","","","","","","."],"vi":"Cô ấy không thích lối sống vật chất ở thành phố.","alts":[]}},
+   {"id":"y5110-dualism","hanzi":"dualism","pinyin":"","vi":"thuyết nhị nguyên","ex":{"tokens":["Dualism","separates","mind","and","body","."],"py":["","","","","","."],"vi":"Thuyết nhị nguyên tách tâm trí khỏi cơ thể.","alts":[]}},
+   {"id":"y5110-relativism","hanzi":"relativism","pinyin":"","vi":"thuyết tương đối (đạo đức, văn hóa)","ex":{"tokens":["Relativism","denies","absolute","truth","."],"py":["","","","","."],"vi":"Thuyết tương đối phủ nhận chân lý tuyệt đối.","alts":[]}},
+   {"id":"y5110-humanism","hanzi":"humanism","pinyin":"","vi":"chủ nghĩa nhân văn","ex":{"tokens":["Humanism","shaped","the","Renaissance","."],"py":["","","","","."],"vi":"Chủ nghĩa nhân văn định hình thời Phục hưng.","alts":[]}},
+   {"id":"y5110-hedonism","hanzi":"hedonism","pinyin":"","vi":"chủ nghĩa khoái lạc","ex":{"tokens":["A","life","of","hedonism","left","him","empty","."],"py":["","","","","","","","."],"vi":"Cuộc đời chạy theo khoái lạc khiến anh ta trống rỗng.","alts":[]}},
+   {"id":"y5110-deduction","hanzi":"deduction","pinyin":"","vi":"phép suy diễn; sự khấu trừ","ex":{"tokens":["The","detective","solved","the","case","by","deduction","."],"py":["","","","","","","","."],"vi":"Thám tử phá án bằng suy diễn.","alts":[]}}
   ]}
  ]
 }
