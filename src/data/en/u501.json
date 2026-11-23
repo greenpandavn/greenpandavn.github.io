@@ -1,9 +1,9 @@
 {
  "units": [
-  {"unit":501,"level":5,"title":"Phần 45: Học thuật và chuyên ngành","desc":"Nghiên cứu, ngôn ngữ, lịch sử, luật, tài chính, ngoại giao","color":"leaf","course":"en"}
+  {"unit":501,"level":5,"title":"Phần 46: Học thuật và chuyên ngành","desc":"Nghiên cứu, ngôn ngữ, lịch sử, luật, tài chính, ngoại giao","color":"leaf","course":"en"}
  ],
  "lessons": [
-  {"id":"x01","title":"Phương pháp nghiên cứu","desc":"Mẫu, biến số, định tính, định lượng","icon":"Method","unit":501,"course":"en","order":4880,"words":[
+  {"id":"x01","title":"Phương pháp nghiên cứu","desc":"Mẫu, biến số, định tính, định lượng","icon":"Method","unit":501,"course":"en","order":5030,"words":[
    {"id":"x01-methodology","hanzi":"methodology","pinyin":"","vi":"phương pháp luận","ex":{"tokens":["The","methodology","is","explained","in","chapter","two","."],"py":["","","","","","","","."],"vi":"Phương pháp luận được giải thích ở chương hai.","alts":[]}},
    {"id":"x01-qualitative","hanzi":"qualitative","pinyin":"","vi":"định tính","ex":{"tokens":["We","used","qualitative","interviews","with","ten","teachers","."],"py":["","","","","","","","."],"vi":"Chúng tôi dùng phỏng vấn định tính với mười giáo viên.","alts":[]}},
    {"id":"x01-quantitative","hanzi":"quantitative","pinyin":"","vi":"định lượng","ex":{"tokens":["The","quantitative","data","came","from","a","large","survey","."],"py":["","","","","","","","","."],"vi":"Dữ liệu định lượng đến từ một cuộc khảo sát lớn.","alts":[]}},
@@ -17,7 +17,7 @@
    {"id":"x01-rigorous","hanzi":"rigorous","pinyin":"","vi":"chặt chẽ, nghiêm ngặt","ex":{"tokens":["The","drug","passed","rigorous","tests","."],"py":["","","","","","."],"vi":"Loại thuốc đã vượt qua các thử nghiệm nghiêm ngặt.","alts":[]}},
    {"id":"x01-tentative","hanzi":"tentative","pinyin":"","vi":"tạm thời, chưa chắc chắn","ex":{"tokens":["These","are","only","tentative","findings","."],"py":["","","","","","."],"vi":"Đây mới chỉ là những phát hiện tạm thời.","alts":[]}}
   ]},
-  {"id":"x02","title":"Xuất bản học thuật","desc":"Tạp chí, bình duyệt, bản thảo, chú thích","icon":"Journal","unit":501,"course":"en","order":4890,"words":[
+  {"id":"x02","title":"Xuất bản học thuật","desc":"Tạp chí, bình duyệt, bản thảo, chú thích","icon":"Journal","unit":501,"course":"en","order":5040,"words":[
    {"id":"x02-manuscript","hanzi":"manuscript","pinyin":"","vi":"bản thảo","ex":{"tokens":["She","sent","the","manuscript","to","three","publishers","."],"py":["","","","","","","","."],"vi":"Cô ấy gửi bản thảo cho ba nhà xuất bản.","alts":[]}},
    {"id":"x02-footnote","hanzi":"footnote","pinyin":"","vi":"chú thích cuối trang","ex":{"tokens":["The","source","is","given","in","a","footnote","."],"py":["","","","","","","","."],"vi":"Nguồn được ghi trong chú thích cuối trang.","alts":[]}},
    {"id":"x02-appendix","hanzi":"appendix","pinyin":"","vi":"phụ lục","ex":{"tokens":["The","full","tables","are","in","the","appendix","."],"py":["","","","","","","","."],"vi":"Các bảng đầy đủ nằm ở phần phụ lục.","alts":[]}},
@@ -31,7 +31,7 @@
    {"id":"x02-excerpt","hanzi":"excerpt","pinyin":"","vi":"đoạn trích","ex":{"tokens":["We","read","an","excerpt","from","the","novel","in","class","."],"py":["","","","","","","","","","."],"vi":"Chúng tôi đọc một đoạn trích của cuốn tiểu thuyết trên lớp.","alts":[]}},
    {"id":"x02-annotate","hanzi":"annotate","pinyin":"","vi":"chú giải, ghi chú thêm","ex":{"tokens":["Students","annotate","the","text","as","they","read","."],"py":["","","","","","","","."],"vi":"Sinh viên ghi chú vào văn bản khi đọc.","alts":[]}}
   ]},
-  {"id":"x03","title":"Ngôn ngữ học 1","desc":"Ngữ pháp, ngữ âm, phương ngữ, cú pháp","icon":"Language","unit":501,"course":"en","order":4900,"words":[
+  {"id":"x03","title":"Ngôn ngữ học 1","desc":"Ngữ pháp, ngữ âm, phương ngữ, cú pháp","icon":"Language","unit":501,"course":"en","order":5050,"words":[
    {"id":"x03-syntax","hanzi":"syntax","pinyin":"","vi":"cú pháp","ex":{"tokens":["English","syntax","is","different","from","Vietnamese","syntax","."],"py":["","","","","","","","."],"vi":"Cú pháp tiếng Anh khác cú pháp tiếng Việt.","alts":[]}},
    {"id":"x03-phonetics","hanzi":"phonetics","pinyin":"","vi":"ngữ âm học","ex":{"tokens":["Phonetics","helps","you","pronounce","new","sounds","."],"py":["","","","","","","."],"vi":"Ngữ âm học giúp bạn phát âm những âm mới.","alts":[]}},
    {"id":"x03-dialect","hanzi":"dialect","pinyin":"","vi":"phương ngữ, tiếng địa phương","ex":{"tokens":["My","grandmother","speaks","a","northern","dialect","."],"py":["","","","","","","."],"vi":"Bà tôi nói một phương ngữ miền Bắc.","alts":[]}},
@@ -45,7 +45,7 @@
    {"id":"x03-morphology","hanzi":"morphology","pinyin":"","vi":"hình thái học","ex":{"tokens":["Morphology","studies","how","words","are","built","."],"py":["","","","","","","."],"vi":"Hình thái học nghiên cứu cách các từ được cấu tạo.","alts":[]}},
    {"id":"x03-lexicon","hanzi":"lexicon","pinyin":"","vi":"vốn từ vựng, từ điển","ex":{"tokens":["New","technical","terms","enter","the","lexicon","every","year","."],"py":["","","","","","","","","."],"vi":"Mỗi năm có những thuật ngữ kỹ thuật mới đi vào vốn từ vựng.","alts":[]}}
   ]},
-  {"id":"x04","title":"Lịch sử","desc":"Triều đại, đế chế, cách mạng, biên niên","icon":"History","unit":501,"course":"en","order":4910,"words":[
+  {"id":"x04","title":"Lịch sử","desc":"Triều đại, đế chế, cách mạng, biên niên","icon":"History","unit":501,"course":"en","order":5060,"words":[
    {"id":"x04-dynasty","hanzi":"dynasty","pinyin":"","vi":"triều đại","ex":{"tokens":["The","dynasty","ruled","for","three","hundred","years","."],"py":["","","","","","","","."],"vi":"Triều đại đó trị vì ba trăm năm.","alts":[]}},
    {"id":"x04-empire","hanzi":"empire","pinyin":"","vi":"đế chế","ex":{"tokens":["The","empire","stretched","across","two","continents","."],"py":["","","","","","","."],"vi":"Đế chế trải dài trên hai châu lục.","alts":[]}},
    {"id":"x04-monarch","hanzi":"monarch","pinyin":"","vi":"quốc vương, vua","ex":{"tokens":["The","monarch","has","little","real","power","today","."],"py":["","","","","","","","."],"vi":"Ngày nay quốc vương có rất ít thực quyền.","alts":[]}},
@@ -59,7 +59,7 @@
    {"id":"x04-reign","hanzi":"reign","pinyin":"","vi":"triều đại, thời gian trị vì; trị vì","ex":{"tokens":["Her","reign","lasted","sixty","years","."],"py":["","","","","","."],"vi":"Thời gian trị vì của bà kéo dài sáu mươi năm.","alts":[]}},
    {"id":"x04-colonial","hanzi":"colonial","pinyin":"","vi":"thuộc địa, thời thuộc địa","ex":{"tokens":["The","city","has","many","colonial","buildings","."],"py":["","","","","","","."],"vi":"Thành phố có nhiều tòa nhà thời thuộc địa.","alts":[]}}
   ]},
-  {"id":"x05","title":"Khảo cổ học","desc":"Khai quật, di vật, hóa thạch, tàn tích","icon":"Dig","unit":501,"course":"en","order":4920,"words":[
+  {"id":"x05","title":"Khảo cổ học","desc":"Khai quật, di vật, hóa thạch, tàn tích","icon":"Dig","unit":501,"course":"en","order":5070,"words":[
    {"id":"x05-excavate","hanzi":"excavate","pinyin":"","vi":"khai quật","ex":{"tokens":["They","plan","to","excavate","the","site","next","spring","."],"py":["","","","","","","","","."],"vi":"Họ dự định khai quật địa điểm này vào mùa xuân tới.","alts":[]}},
    {"id":"x05-artifact","hanzi":"artifact","pinyin":"","vi":"hiện vật, đồ tạo tác","ex":{"tokens":["Each","artifact","is","cleaned","and","photographed","."],"py":["","","","","","","."],"vi":"Mỗi hiện vật đều được làm sạch và chụp ảnh.","alts":[]}},
    {"id":"x05-relic","hanzi":"relic","pinyin":"","vi":"di vật, thánh tích","ex":{"tokens":["The","museum","keeps","a","relic","from","the","old","temple","."],"py":["","","","","","","","","","."],"vi":"Bảo tàng lưu giữ một di vật từ ngôi đền cổ.","alts":[]}},
@@ -73,7 +73,7 @@
    {"id":"x05-antiquity","hanzi":"antiquity","pinyin":"","vi":"thời cổ đại; đồ cổ","ex":{"tokens":["The","city","was","famous","in","antiquity","."],"py":["","","","","","","."],"vi":"Thành phố này nổi tiếng từ thời cổ đại.","alts":[]}},
    {"id":"x05-unearth","hanzi":"unearth","pinyin":"","vi":"đào lên, phát hiện ra","ex":{"tokens":["Workers","happened","to","unearth","a","gold","coin","."],"py":["","","","","","","","."],"vi":"Công nhân tình cờ đào được một đồng tiền vàng.","alts":[]}}
   ]},
-  {"id":"x06","title":"Nhân học","desc":"Bộ tộc, nghi lễ, họ hàng, tục lệ","icon":"Tribe","unit":501,"course":"en","order":4930,"words":[
+  {"id":"x06","title":"Nhân học","desc":"Bộ tộc, nghi lễ, họ hàng, tục lệ","icon":"Tribe","unit":501,"course":"en","order":5080,"words":[
    {"id":"x06-tribe","hanzi":"tribe","pinyin":"","vi":"bộ tộc, bộ lạc","ex":{"tokens":["The","tribe","lives","deep","in","the","forest","."],"py":["","","","","","","","."],"vi":"Bộ tộc đó sống sâu trong rừng.","alts":[]}},
    {"id":"x06-ritual","hanzi":"ritual","pinyin":"","vi":"nghi lễ, nghi thức","ex":{"tokens":["The","ritual","is","held","every","full","moon","."],"py":["","","","","","","","."],"vi":"Nghi lễ được tổ chức vào mỗi kỳ trăng tròn.","alts":[]}},
    {"id":"x06-kinship","hanzi":"kinship","pinyin":"","vi":"quan hệ họ hàng","ex":{"tokens":["Kinship","is","very","important","in","village","life","."],"py":["","","","","","","","."],"vi":"Quan hệ họ hàng rất quan trọng trong đời sống làng quê.","alts":[]}},
@@ -87,7 +87,7 @@
    {"id":"x06-dowry","hanzi":"dowry","pinyin":"","vi":"của hồi môn","ex":{"tokens":["Her","dowry","included","land","and","cattle","."],"py":["","","","","","","."],"vi":"Của hồi môn của cô ấy gồm đất và gia súc.","alts":[]}},
    {"id":"x06-rite","hanzi":"rite","pinyin":"","vi":"lễ nghi","ex":{"tokens":["This","rite","marks","the","start","of","adult","life","."],"py":["","","","","","","","","."],"vi":"Lễ nghi này đánh dấu sự bắt đầu của tuổi trưởng thành.","alts":[]}}
   ]},
-  {"id":"x07","title":"Luật chuyên sâu","desc":"Án lệ, bị đơn, kháng cáo, bồi thường","icon":"Court","unit":501,"course":"en","order":4940,"words":[
+  {"id":"x07","title":"Luật chuyên sâu","desc":"Án lệ, bị đơn, kháng cáo, bồi thường","icon":"Court","unit":501,"course":"en","order":5090,"words":[
    {"id":"x07-plaintiff","hanzi":"plaintiff","pinyin":"","vi":"nguyên đơn","ex":{"tokens":["The","plaintiff","asked","for","one","million","dollars","."],"py":["","","","","","","","."],"vi":"Nguyên đơn đòi một triệu đô la.","alts":[]}},
    {"id":"x07-tort","hanzi":"tort","pinyin":"","vi":"hành vi gây thiệt hại ngoài hợp đồng","ex":{"tokens":["Negligence","is","the","most","common","tort","."],"py":["","","","","","","."],"vi":"Sơ suất là hành vi gây thiệt hại ngoài hợp đồng phổ biến nhất.","alts":[]}},
    {"id":"x07-precedent","hanzi":"precedent","pinyin":"","vi":"án lệ, tiền lệ","ex":{"tokens":["This","case","sets","an","important","precedent","."],"py":["","","","","","","."],"vi":"Vụ án này tạo ra một tiền lệ quan trọng.","alts":[]}},
@@ -101,7 +101,7 @@
    {"id":"x07-bailiff","hanzi":"bailiff","pinyin":"","vi":"thừa phát lại, nhân viên tòa án","ex":{"tokens":["The","bailiff","led","the","witness","into","the","room","."],"py":["","","","","","","","","."],"vi":"Nhân viên tòa án dẫn nhân chứng vào phòng.","alts":[]}},
    {"id":"x07-perjury","hanzi":"perjury","pinyin":"","vi":"tội khai man","ex":{"tokens":["Lying","in","court","is","called","perjury","."],"py":["","","","","","","."],"vi":"Nói dối trước tòa được gọi là tội khai man.","alts":[]}}
   ]},
-  {"id":"x08","title":"Kế toán và kiểm toán","desc":"Sổ sách, khấu hao, bảng cân đối","icon":"Ledger","unit":501,"course":"en","order":4950,"words":[
+  {"id":"x08","title":"Kế toán và kiểm toán","desc":"Sổ sách, khấu hao, bảng cân đối","icon":"Ledger","unit":501,"course":"en","order":5100,"words":[
    {"id":"x08-ledger","hanzi":"ledger","pinyin":"","vi":"sổ cái","ex":{"tokens":["Every","payment","is","written","in","the","ledger","."],"py":["","","","","","","","."],"vi":"Mọi khoản thanh toán đều được ghi vào sổ cái.","alts":[]}},
    {"id":"x08-auditor","hanzi":"auditor","pinyin":"","vi":"kiểm toán viên","ex":{"tokens":["The","auditor","found","two","small","errors","."],"py":["","","","","","","."],"vi":"Kiểm toán viên tìm thấy hai lỗi nhỏ.","alts":[]}},
    {"id":"x08-depreciation","hanzi":"depreciation","pinyin":"","vi":"khấu hao","ex":{"tokens":["Depreciation","reduces","the","value","of","the","machines","each","year","."],"py":["","","","","","","","","","."],"vi":"Khấu hao làm giảm giá trị máy móc mỗi năm.","alts":[]}},
@@ -115,7 +115,7 @@
    {"id":"x08-amortize","hanzi":"amortize","pinyin":"","vi":"trả dần, khấu hao dần","ex":{"tokens":["We","amortize","the","loan","over","ten","years","."],"py":["","","","","","","","."],"vi":"Chúng tôi trả dần khoản vay trong mười năm.","alts":[]}},
    {"id":"x08-bookkeeping","hanzi":"bookkeeping","pinyin":"","vi":"công việc ghi sổ kế toán","ex":{"tokens":["Good","bookkeeping","saves","time","at","tax","season","."],"py":["","","","","","","","."],"vi":"Ghi sổ kế toán tốt giúp tiết kiệm thời gian vào mùa thuế.","alts":[]}}
   ]},
-  {"id":"x09","title":"Ngân hàng đầu tư","desc":"Chứng khoán, phái sinh, bảo lãnh phát hành","icon":"Bank","unit":501,"course":"en","order":4960,"words":[
+  {"id":"x09","title":"Ngân hàng đầu tư","desc":"Chứng khoán, phái sinh, bảo lãnh phát hành","icon":"Bank","unit":501,"course":"en","order":5110,"words":[
    {"id":"x09-underwrite","hanzi":"underwrite","pinyin":"","vi":"bảo lãnh phát hành","ex":{"tokens":["Two","banks","agreed","to","underwrite","the","share","sale","."],"py":["","","","","","","","","."],"vi":"Hai ngân hàng đồng ý bảo lãnh đợt bán cổ phần.","alts":[]}},
    {"id":"x09-derivative","hanzi":"derivative","pinyin":"","vi":"công cụ phái sinh","ex":{"tokens":["A","derivative","gets","its","value","from","another","asset","."],"py":["","","","","","","","","."],"vi":"Công cụ phái sinh có giá trị dựa trên một tài sản khác.","alts":[]}},
    {"id":"x09-arbitrage","hanzi":"arbitrage","pinyin":"","vi":"kinh doanh chênh lệch giá","ex":{"tokens":["The","fund","makes","money","through","arbitrage","."],"py":["","","","","","","."],"vi":"Quỹ kiếm tiền nhờ kinh doanh chênh lệch giá.","alts":[]}},
@@ -129,7 +129,7 @@
    {"id":"x09-escrow","hanzi":"escrow","pinyin":"","vi":"ký quỹ qua bên thứ ba","ex":{"tokens":["The","money","stays","in","escrow","until","the","sale","is","complete","."],"py":["","","","","","","","","","","."],"vi":"Tiền được giữ ở tài khoản ký quỹ cho đến khi giao dịch hoàn tất.","alts":[]}},
    {"id":"x09-covenant","hanzi":"covenant","pinyin":"","vi":"điều khoản cam kết","ex":{"tokens":["The","loan","includes","a","strict","covenant","."],"py":["","","","","","","."],"vi":"Khoản vay có kèm một điều khoản cam kết chặt chẽ.","alts":[]}}
   ]},
-  {"id":"x10","title":"Bảo hiểm","desc":"Phí, bồi thường, rủi ro, người thụ hưởng","icon":"Insure","unit":501,"course":"en","order":4970,"words":[
+  {"id":"x10","title":"Bảo hiểm","desc":"Phí, bồi thường, rủi ro, người thụ hưởng","icon":"Insure","unit":501,"course":"en","order":5120,"words":[
    {"id":"x10-premium","hanzi":"premium","pinyin":"","vi":"phí bảo hiểm","ex":{"tokens":["My","car","insurance","premium","went","up","this","year","."],"py":["","","","","","","","","."],"vi":"Phí bảo hiểm xe của tôi tăng trong năm nay.","alts":[]}},
    {"id":"x10-deductible","hanzi":"deductible","pinyin":"","vi":"mức khấu trừ","ex":{"tokens":["The","deductible","is","five","hundred","dollars","."],"py":["","","","","","","."],"vi":"Mức khấu trừ là năm trăm đô la.","alts":[]}},
    {"id":"x10-beneficiary","hanzi":"beneficiary","pinyin":"","vi":"người thụ hưởng","ex":{"tokens":["His","wife","is","the","only","beneficiary","."],"py":["","","","","","","."],"vi":"Vợ ông ấy là người thụ hưởng duy nhất.","alts":[]}},
@@ -143,7 +143,7 @@
    {"id":"x10-reimburse","hanzi":"reimburse","pinyin":"","vi":"hoàn trả","ex":{"tokens":["The","company","will","reimburse","your","travel","costs","."],"py":["","","","","","","","."],"vi":"Công ty sẽ hoàn trả chi phí đi lại của bạn.","alts":[]}},
    {"id":"x10-lapse","hanzi":"lapse","pinyin":"","vi":"hết hiệu lực; sự sai sót nhỏ","ex":{"tokens":["Do","not","let","your","policy","lapse","."],"py":["","","","","","","."],"vi":"Đừng để hợp đồng bảo hiểm của bạn hết hiệu lực.","alts":[]}}
   ]},
-  {"id":"x11","title":"Bất động sản","desc":"Thế chấp, chủ đất, người thuê, định giá","icon":"Property","unit":501,"course":"en","order":4980,"words":[
+  {"id":"x11","title":"Bất động sản","desc":"Thế chấp, chủ đất, người thuê, định giá","icon":"Property","unit":501,"course":"en","order":5130,"words":[
    {"id":"x11-conveyancing","hanzi":"conveyancing","pinyin":"","vi":"thủ tục chuyển nhượng nhà đất","ex":{"tokens":["Conveyancing","usually","takes","about","eight","weeks","."],"py":["","","","","","","."],"vi":"Thủ tục chuyển nhượng nhà đất thường mất khoảng tám tuần.","alts":[]}},
    {"id":"x11-tenancy","hanzi":"tenancy","pinyin":"","vi":"thời hạn thuê nhà","ex":{"tokens":["The","tenancy","ends","in","December","."],"py":["","","","","","."],"vi":"Thời hạn thuê kết thúc vào tháng Mười hai.","alts":[]}},
    {"id":"x11-freehold","hanzi":"freehold","pinyin":"","vi":"quyền sở hữu vĩnh viễn","ex":{"tokens":["They","bought","the","freehold","of","the","shop","."],"py":["","","","","","","","."],"vi":"Họ mua quyền sở hữu vĩnh viễn của cửa hàng.","alts":[]}},
@@ -157,7 +157,7 @@
    {"id":"x11-surveyor","hanzi":"surveyor","pinyin":"","vi":"người khảo sát, đo đạc","ex":{"tokens":["A","surveyor","measured","the","garden","."],"py":["","","","","","."],"vi":"Một người đo đạc đã đo khu vườn.","alts":[]}},
    {"id":"x11-deed","hanzi":"deed","pinyin":"","vi":"chứng thư, giấy tờ nhà đất","ex":{"tokens":["Keep","the","deed","in","a","safe","place","."],"py":["","","","","","","","."],"vi":"Hãy cất giấy tờ nhà đất ở nơi an toàn.","alts":[]}}
   ]},
-  {"id":"x12","title":"Ngoại giao","desc":"Đại sứ, hiệp ước, lãnh sự, nghị định thư","icon":"Embassy","unit":501,"course":"en","order":4990,"words":[
+  {"id":"x12","title":"Ngoại giao","desc":"Đại sứ, hiệp ước, lãnh sự, nghị định thư","icon":"Embassy","unit":501,"course":"en","order":5140,"words":[
    {"id":"x12-envoy","hanzi":"envoy","pinyin":"","vi":"đặc phái viên","ex":{"tokens":["The","president","sent","an","envoy","to","the","talks","."],"py":["","","","","","","","","."],"vi":"Tổng thống cử một đặc phái viên đến cuộc đàm phán.","alts":[]}},
    {"id":"x12-consulate","hanzi":"consulate","pinyin":"","vi":"lãnh sự quán","ex":{"tokens":["You","can","renew","your","passport","at","the","consulate","."],"py":["","","","","","","","","."],"vi":"Bạn có thể gia hạn hộ chiếu tại lãnh sự quán.","alts":[]}},
    {"id":"x12-attache","hanzi":"attache","pinyin":"","vi":"tùy viên","ex":{"tokens":["The","cultural","attache","opened","the","exhibition","."],"py":["","","","","","","."],"vi":"Tùy viên văn hóa khai mạc triển lãm.","alts":[]}},
@@ -171,7 +171,7 @@
    {"id":"x12-rapprochement","hanzi":"rapprochement","pinyin":"","vi":"sự nối lại quan hệ hữu hảo","ex":{"tokens":["The","visit","was","a","sign","of","rapprochement","."],"py":["","","","","","","","."],"vi":"Chuyến thăm là dấu hiệu của sự nối lại quan hệ hữu hảo.","alts":[]}},
    {"id":"x12-extradite","hanzi":"extradite","pinyin":"","vi":"dẫn độ","ex":{"tokens":["The","government","refused","to","extradite","him","."],"py":["","","","","","","."],"vi":"Chính phủ từ chối dẫn độ ông ta.","alts":[]}}
   ]},
-  {"id":"x13","title":"Quân sự","desc":"Quân đội, chiến dịch, tình báo, hậu cần","icon":"Army","unit":501,"course":"en","order":5000,"words":[
+  {"id":"x13","title":"Quân sự","desc":"Quân đội, chiến dịch, tình báo, hậu cần","icon":"Army","unit":501,"course":"en","order":5150,"words":[
    {"id":"x13-infantry","hanzi":"infantry","pinyin":"","vi":"bộ binh","ex":{"tokens":["The","infantry","crossed","the","river","at","night","."],"py":["","","","","","","","."],"vi":"Bộ binh vượt sông vào ban đêm.","alts":[]}},
    {"id":"x13-artillery","hanzi":"artillery","pinyin":"","vi":"pháo binh","ex":{"tokens":["Artillery","fire","could","be","heard","all","day","."],"py":["","","","","","","","."],"vi":"Tiếng pháo có thể nghe thấy suốt cả ngày.","alts":[]}},
    {"id":"x13-battalion","hanzi":"battalion","pinyin":"","vi":"tiểu đoàn","ex":{"tokens":["The","battalion","returned","home","in","March","."],"py":["","","","","","","."],"vi":"Tiểu đoàn trở về nhà vào tháng Ba.","alts":[]}},
@@ -185,7 +185,7 @@
    {"id":"x13-deploy","hanzi":"deploy","pinyin":"","vi":"triển khai","ex":{"tokens":["The","army","will","deploy","more","troops","to","the","border","."],"py":["","","","","","","","","","."],"vi":"Quân đội sẽ triển khai thêm lính đến biên giới.","alts":[]}},
    {"id":"x13-barracks","hanzi":"barracks","pinyin":"","vi":"doanh trại","ex":{"tokens":["The","soldiers","returned","to","the","barracks","at","six","."],"py":["","","","","","","","","."],"vi":"Những người lính trở về doanh trại lúc sáu giờ.","alts":[]}}
   ]},
-  {"id":"x14","title":"Hành chính công","desc":"Quan liêu, công chức, sắc lệnh, ngân sách","icon":"Office","unit":501,"course":"en","order":5010,"words":[
+  {"id":"x14","title":"Hành chính công","desc":"Quan liêu, công chức, sắc lệnh, ngân sách","icon":"Office","unit":501,"course":"en","order":5160,"words":[
    {"id":"x14-bureaucracy","hanzi":"bureaucracy","pinyin":"","vi":"bộ máy quan liêu","ex":{"tokens":["The","bureaucracy","slows","every","decision","."],"py":["","","","","","."],"vi":"Bộ máy quan liêu làm chậm mọi quyết định.","alts":[]}},
    {"id":"x14-ordinance","hanzi":"ordinance","pinyin":"","vi":"pháp lệnh, quy định địa phương","ex":{"tokens":["A","city","ordinance","bans","loud","music","after","ten","."],"py":["","","","","","","","","."],"vi":"Một quy định của thành phố cấm nhạc ồn sau mười giờ.","alts":[]}},
    {"id":"x14-decree","hanzi":"decree","pinyin":"","vi":"sắc lệnh","ex":{"tokens":["The","decree","takes","effect","tomorrow","."],"py":["","","","","","."],"vi":"Sắc lệnh có hiệu lực từ ngày mai.","alts":[]}},
@@ -199,7 +199,7 @@
    {"id":"x14-oversight","hanzi":"oversight","pinyin":"","vi":"sự giám sát; sơ suất","ex":{"tokens":["The","project","needs","stronger","oversight","."],"py":["","","","","","."],"vi":"Dự án cần được giám sát chặt chẽ hơn.","alts":[]}},
    {"id":"x14-incumbent","hanzi":"incumbent","pinyin":"","vi":"người đương nhiệm","ex":{"tokens":["The","incumbent","lost","by","two","hundred","votes","."],"py":["","","","","","","","."],"vi":"Người đương nhiệm thua với cách biệt hai trăm phiếu.","alts":[]}}
   ]},
-  {"id":"x15","title":"Tôn giáo và thần thoại","desc":"Thần linh, kinh sách, hành hương, truyền thuyết","icon":"Temple","unit":501,"course":"en","order":5020,"words":[
+  {"id":"x15","title":"Tôn giáo và thần thoại","desc":"Thần linh, kinh sách, hành hương, truyền thuyết","icon":"Temple","unit":501,"course":"en","order":5170,"words":[
    {"id":"x15-deity","hanzi":"deity","pinyin":"","vi":"vị thần","ex":{"tokens":["Each","river","had","its","own","deity","."],"py":["","","","","","","."],"vi":"Mỗi con sông có một vị thần riêng.","alts":[]}},
    {"id":"x15-scripture","hanzi":"scripture","pinyin":"","vi":"kinh sách","ex":{"tokens":["He","reads","scripture","every","morning","."],"py":["","","","","","."],"vi":"Ông ấy đọc kinh sách mỗi sáng.","alts":[]}},
    {"id":"x15-pilgrimage","hanzi":"pilgrimage","pinyin":"","vi":"cuộc hành hương","ex":{"tokens":["They","made","a","pilgrimage","to","the","holy","mountain","."],"py":["","","","","","","","","."],"vi":"Họ thực hiện một cuộc hành hương lên núi thiêng.","alts":[]}},
@@ -213,7 +213,7 @@
    {"id":"x15-prophecy","hanzi":"prophecy","pinyin":"","vi":"lời tiên tri","ex":{"tokens":["The","prophecy","said","the","city","would","fall","."],"py":["","","","","","","","."],"vi":"Lời tiên tri nói rằng thành phố sẽ sụp đổ.","alts":[]}},
    {"id":"x15-reincarnation","hanzi":"reincarnation","pinyin":"","vi":"sự luân hồi, đầu thai","ex":{"tokens":["Many","people","believe","in","reincarnation","."],"py":["","","","","","."],"vi":"Nhiều người tin vào sự luân hồi.","alts":[]}}
   ]},
-  {"id":"x16","title":"Giáo dục học","desc":"Sư phạm, chương trình, đánh giá, năng lực","icon":"Teach","unit":501,"course":"en","order":5030,"words":[
+  {"id":"x16","title":"Giáo dục học","desc":"Sư phạm, chương trình, đánh giá, năng lực","icon":"Teach","unit":501,"course":"en","order":5180,"words":[
    {"id":"x16-pedagogy","hanzi":"pedagogy","pinyin":"","vi":"khoa sư phạm, phương pháp giảng dạy","ex":{"tokens":["Good","pedagogy","starts","with","clear","goals","."],"py":["","","","","","","."],"vi":"Phương pháp giảng dạy tốt bắt đầu từ mục tiêu rõ ràng.","alts":[]}},
    {"id":"x16-syllabus","hanzi":"syllabus","pinyin":"","vi":"đề cương môn học","ex":{"tokens":["The","syllabus","lists","all","the","reading","for","the","term","."],"py":["","","","","","","","","","."],"vi":"Đề cương liệt kê toàn bộ tài liệu đọc của học kỳ.","alts":[]}},
    {"id":"x16-rubric","hanzi":"rubric","pinyin":"","vi":"bảng tiêu chí chấm điểm","ex":{"tokens":["The","teacher","shared","the","rubric","before","the","test","."],"py":["","","","","","","","","."],"vi":"Giáo viên chia sẻ bảng tiêu chí chấm điểm trước bài kiểm tra.","alts":[]}},

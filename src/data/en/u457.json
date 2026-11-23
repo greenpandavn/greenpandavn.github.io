@@ -1,6 +1,6 @@
 {
  "units": [
-  {"unit":457,"level":4,"title":"Phần 44: Mở rộng – Cụm động từ thông dụng","desc":"Cụm động từ thông dụng","color":"sky","course":"en"}
+  {"unit":457,"level":4,"title":"Phần 44: Mở rộng – Cụm động từ thông dụng","desc":"Cụm động từ thông dụng, Cụm động từ nâng cao","color":"sky","course":"en"}
  ],
  "lessons": [
   {"id":"y4121","title":"Cụm động từ thông dụng 4","desc":"Cụm động từ thường gặp trong giao tiếp và báo chí","icon":"Phrasal","unit":457,"course":"en","order":4830,"words":[
@@ -72,6 +72,85 @@
    {"id":"y4125-let_off","hanzi":"let off","pinyin":"","vi":"tha, không phạt","ex":{"tokens":["The","judge","may","let","off","the","boy","with","a","warning","."],"py":["","","","","","","","","","","."],"vi":"Thẩm phán có thể tha cho cậu bé và chỉ cảnh cáo.","alts":[]}},
    {"id":"y4125-let_on","hanzi":"let on","pinyin":"","vi":"để lộ ra","ex":{"tokens":["Do","not","let","on","that","you","know","."],"py":["","","","","","","","."],"vi":"Đừng để lộ là bạn biết.","alts":[]}},
    {"id":"y4125-level_off","hanzi":"level off","pinyin":"","vi":"chững lại, ổn định","ex":{"tokens":["Prices","should","level","off","next","year","."],"py":["","","","","","","."],"vi":"Giá cả hẳn sẽ chững lại vào năm sau.","alts":[]}}
+  ]},
+  {"id":"y4126","title":"Cụm động từ nâng cao 1","desc":"Cụm động từ thường gặp trong giao tiếp và báo chí","icon":"Phrasal","unit":457,"course":"en","order":4880,"words":[
+   {"id":"y4126-go_off","hanzi":"go off","pinyin":"","vi":"nổ; reo (chuông); ôi thiu","ex":{"tokens":["The","alarm","will","go","off","at","six","."],"py":["","","","","","","","."],"vi":"Chuông báo thức sẽ reo lúc sáu giờ.","alts":[]}},
+   {"id":"y4126-go_over","hanzi":"go over","pinyin":"","vi":"xem lại, rà soát","ex":{"tokens":["Let","us","go","over","the","plan","again","."],"py":["","","","","","","","."],"vi":"Chúng ta hãy rà lại kế hoạch lần nữa.","alts":[]}},
+   {"id":"y4126-go_through_with","hanzi":"go through with","pinyin":"","vi":"làm đến cùng","ex":{"tokens":["She","decided","to","go","through","with","the","wedding","."],"py":["","","","","","","","","."],"vi":"Cô ấy quyết định vẫn tiến hành đám cưới.","alts":[]}},
+   {"id":"y4126-go_without","hanzi":"go without","pinyin":"","vi":"chịu thiếu, nhịn","ex":{"tokens":["Camels","can","go","without","water","for","days","."],"py":["","","","","","","","."],"vi":"Lạc đà có thể nhịn nước nhiều ngày.","alts":[]}},
+   {"id":"y4126-grow_apart","hanzi":"grow apart","pinyin":"","vi":"dần xa nhau","ex":{"tokens":["Couples","sometimes","grow","apart","."],"py":["","","","","."],"vi":"Các cặp đôi đôi khi dần xa nhau.","alts":[]}},
+   {"id":"y4126-grow_on","hanzi":"grow on","pinyin":"","vi":"ngày càng được thích","ex":{"tokens":["This","song","will","grow","on","you","."],"py":["","","","","","","."],"vi":"Bạn sẽ ngày càng thích bài hát này.","alts":[]}},
+   {"id":"y4126-live_up_to","hanzi":"live up to","pinyin":"","vi":"đáp ứng được (kỳ vọng)","ex":{"tokens":["The","film","did","not","live","up","to","the","book","."],"py":["","","","","","","","","","."],"vi":"Bộ phim không được như cuốn sách.","alts":[]}},
+   {"id":"y4126-look_down_on","hanzi":"look down on","pinyin":"","vi":"coi thường","ex":{"tokens":["Do","not","look","down","on","poor","people","."],"py":["","","","","","","","."],"vi":"Đừng coi thường người nghèo.","alts":[]}},
+   {"id":"y4126-look_up_to","hanzi":"look up to","pinyin":"","vi":"kính trọng, ngưỡng mộ","ex":{"tokens":["Children","look","up","to","their","teachers","."],"py":["","","","","","","."],"vi":"Trẻ em kính trọng thầy cô.","alts":[]}},
+   {"id":"y4126-make_do_with","hanzi":"make do with","pinyin":"","vi":"tạm dùng, xoay xở với","ex":{"tokens":["We","will","make","do","with","what","we","have","."],"py":["","","","","","","","","."],"vi":"Chúng ta sẽ xoay xở với những gì đang có.","alts":[]}},
+   {"id":"y4126-make_off_with","hanzi":"make off with","pinyin":"","vi":"cuỗm đi","ex":{"tokens":["Thieves","tried","to","make","off","with","the","painting","."],"py":["","","","","","","","","."],"vi":"Bọn trộm tìm cách cuỗm bức tranh.","alts":[]}},
+   {"id":"y4126-make_out","hanzi":"make out","pinyin":"","vi":"nhìn ra, hiểu ra","ex":{"tokens":["I","cannot","make","out","the","sign","."],"py":["","","","","","","."],"vi":"Tôi không nhìn ra tấm biển.","alts":[]}},
+   {"id":"y4126-mess_up","hanzi":"mess up","pinyin":"","vi":"làm hỏng, làm rối","ex":{"tokens":["Do","not","mess","up","the","kitchen","."],"py":["","","","","","","."],"vi":"Đừng làm bừa nhà bếp.","alts":[]}},
+   {"id":"y4126-miss_out_on","hanzi":"miss out on","pinyin":"","vi":"bỏ lỡ","ex":{"tokens":["Do","not","miss","out","on","this","chance","."],"py":["","","","","","","","."],"vi":"Đừng bỏ lỡ cơ hội này.","alts":[]}}
+  ]},
+  {"id":"y4127","title":"Cụm động từ nâng cao 2","desc":"Cụm động từ thường gặp trong giao tiếp và báo chí","icon":"Phrasal","unit":457,"course":"en","order":4890,"words":[
+   {"id":"y4127-mix_up","hanzi":"mix up","pinyin":"","vi":"nhầm lẫn","ex":{"tokens":["I","always","mix","up","the","twins","."],"py":["","","","","","","."],"vi":"Tôi luôn nhầm hai đứa sinh đôi.","alts":[]}},
+   {"id":"y4127-narrow_down","hanzi":"narrow down","pinyin":"","vi":"thu hẹp lại","ex":{"tokens":["We","must","narrow","down","the","list","."],"py":["","","","","","","."],"vi":"Chúng ta phải thu hẹp danh sách.","alts":[]}},
+   {"id":"y4127-nod_off","hanzi":"nod off","pinyin":"","vi":"ngủ gật","ex":{"tokens":["I","nod","off","in","long","meetings","."],"py":["","","","","","","."],"vi":"Tôi ngủ gật trong các cuộc họp dài.","alts":[]}},
+   {"id":"y4127-opt_out","hanzi":"opt out","pinyin":"","vi":"chọn không tham gia","ex":{"tokens":["You","can","opt","out","at","any","time","."],"py":["","","","","","","","."],"vi":"Bạn có thể chọn không tham gia bất cứ lúc nào.","alts":[]}},
+   {"id":"y4127-own_up","hanzi":"own up","pinyin":"","vi":"thú nhận","ex":{"tokens":["Nobody","would","own","up","to","breaking","the","window","."],"py":["","","","","","","","","."],"vi":"Không ai chịu nhận đã làm vỡ cửa sổ.","alts":[]}},
+   {"id":"y4127-pass_away","hanzi":"pass away","pinyin":"","vi":"qua đời","ex":{"tokens":["Many","old","soldiers","pass","away","each","year","."],"py":["","","","","","","","."],"vi":"Mỗi năm có nhiều cựu binh qua đời.","alts":[]}},
+   {"id":"y4127-pass_out","hanzi":"pass out","pinyin":"","vi":"ngất xỉu","ex":{"tokens":["Some","people","pass","out","when","they","see","blood","."],"py":["","","","","","","","","."],"vi":"Một số người ngất khi thấy máu.","alts":[]}},
+   {"id":"y4127-pass_up","hanzi":"pass up","pinyin":"","vi":"bỏ qua (cơ hội)","ex":{"tokens":["Do","not","pass","up","a","free","meal","."],"py":["","","","","","","","."],"vi":"Đừng bỏ qua một bữa ăn miễn phí.","alts":[]}},
+   {"id":"y4127-pay_back","hanzi":"pay back","pinyin":"","vi":"trả lại tiền; trả đũa","ex":{"tokens":["I","will","pay","back","the","loan","next","month","."],"py":["","","","","","","","","."],"vi":"Tôi sẽ trả khoản vay vào tháng sau.","alts":[]}},
+   {"id":"y4127-pick_on","hanzi":"pick on","pinyin":"","vi":"bắt nạt, trêu chọc","ex":{"tokens":["Do","not","pick","on","your","little","brother","."],"py":["","","","","","","","."],"vi":"Đừng bắt nạt em trai.","alts":[]}},
+   {"id":"y4127-pile_up","hanzi":"pile up","pinyin":"","vi":"chất đống","ex":{"tokens":["Dirty","dishes","pile","up","in","the","sink","."],"py":["","","","","","","","."],"vi":"Bát đĩa bẩn chất đống trong bồn rửa.","alts":[]}},
+   {"id":"y4127-pin_down","hanzi":"pin down","pinyin":"","vi":"xác định rõ; ghìm chặt","ex":{"tokens":["It","is","hard","to","pin","down","the","cause","."],"py":["","","","","","","","","."],"vi":"Khó xác định rõ nguyên nhân.","alts":[]}},
+   {"id":"y4127-play_down","hanzi":"play down","pinyin":"","vi":"làm giảm nhẹ tầm quan trọng","ex":{"tokens":["Officials","play","down","the","risk","."],"py":["","","","","","."],"vi":"Các quan chức làm nhẹ mức độ rủi ro.","alts":[]}},
+   {"id":"y4127-play_up","hanzi":"play up","pinyin":"","vi":"thổi phồng; quậy phá","ex":{"tokens":["Adverts","play","up","the","good","points","."],"py":["","","","","","","."],"vi":"Quảng cáo thổi phồng các điểm tốt.","alts":[]}}
+  ]},
+  {"id":"y4128","title":"Cụm động từ nâng cao 3","desc":"Cụm động từ thường gặp trong giao tiếp và báo chí","icon":"Phrasal","unit":457,"course":"en","order":4900,"words":[
+   {"id":"y4128-pull_through","hanzi":"pull through","pinyin":"","vi":"vượt qua (bệnh, khó khăn)","ex":{"tokens":["The","doctors","think","he","will","pull","through","."],"py":["","","","","","","","."],"vi":"Các bác sĩ nghĩ anh ấy sẽ qua khỏi.","alts":[]}},
+   {"id":"y4128-push_ahead","hanzi":"push ahead","pinyin":"","vi":"tiếp tục xúc tiến","ex":{"tokens":["The","city","will","push","ahead","with","the","plan","."],"py":["","","","","","","","","."],"vi":"Thành phố sẽ tiếp tục xúc tiến kế hoạch.","alts":[]}},
+   {"id":"y4128-put_across","hanzi":"put across","pinyin":"","vi":"diễn đạt, truyền đạt","ex":{"tokens":["She","knows","how","to","put","across","her","ideas","."],"py":["","","","","","","","","."],"vi":"Cô ấy biết cách truyền đạt ý tưởng của mình.","alts":[]}},
+   {"id":"y4128-put_aside","hanzi":"put aside","pinyin":"","vi":"để dành; gác lại","ex":{"tokens":["Put","aside","some","money","every","month","."],"py":["","","","","","","."],"vi":"Mỗi tháng hãy để dành ít tiền.","alts":[]}},
+   {"id":"y4128-put_down_to","hanzi":"put down to","pinyin":"","vi":"cho là do","ex":{"tokens":["I","put","down","to","luck","the","fact","that","we","won","."],"py":["","","","","","","","","","","."],"vi":"Tôi cho rằng việc chúng tôi thắng là do may mắn.","alts":[]}},
+   {"id":"y4128-put_forward","hanzi":"put forward","pinyin":"","vi":"đề xuất","ex":{"tokens":["She","will","put","forward","a","new","plan","."],"py":["","","","","","","","."],"vi":"Cô ấy sẽ đề xuất một kế hoạch mới.","alts":[]}},
+   {"id":"y4128-see_off","hanzi":"see off","pinyin":"","vi":"tiễn","ex":{"tokens":["We","went","to","the","airport","to","see","off","our","friends","."],"py":["","","","","","","","","","","."],"vi":"Chúng tôi ra sân bay tiễn bạn.","alts":[]}},
+   {"id":"y4128-see_through","hanzi":"see through","pinyin":"","vi":"nhìn thấu; làm đến cùng","ex":{"tokens":["I","can","see","through","his","lies","."],"py":["","","","","","","."],"vi":"Tôi nhìn thấu những lời nói dối của anh ta.","alts":[]}},
+   {"id":"y4128-sell_out","hanzi":"sell out","pinyin":"","vi":"bán hết vé, bán hết hàng","ex":{"tokens":["The","tickets","will","sell","out","fast","."],"py":["","","","","","","."],"vi":"Vé sẽ bán hết rất nhanh.","alts":[]}},
+   {"id":"y4128-set_about","hanzi":"set about","pinyin":"","vi":"bắt tay vào","ex":{"tokens":["We","set","about","cleaning","the","house","."],"py":["","","","","","","."],"vi":"Chúng tôi bắt tay vào dọn nhà.","alts":[]}},
+   {"id":"y4128-set_off","hanzi":"set off","pinyin":"","vi":"khởi hành; kích hoạt","ex":{"tokens":["We","set","off","at","dawn","."],"py":["","","","","","."],"vi":"Chúng tôi khởi hành lúc rạng đông.","alts":[]}},
+   {"id":"y4128-set_out","hanzi":"set out","pinyin":"","vi":"lên đường; trình bày","ex":{"tokens":["They","set","out","to","climb","the","mountain","."],"py":["","","","","","","","."],"vi":"Họ lên đường leo núi.","alts":[]}},
+   {"id":"y4128-settle_down","hanzi":"settle down","pinyin":"","vi":"ổn định cuộc sống; ngồi yên","ex":{"tokens":["He","wants","to","settle","down","and","have","children","."],"py":["","","","","","","","","."],"vi":"Anh ấy muốn ổn định cuộc sống và sinh con.","alts":[]}},
+   {"id":"y4128-settle_for","hanzi":"settle for","pinyin":"","vi":"đành chấp nhận","ex":{"tokens":["Do","not","settle","for","second","best","."],"py":["","","","","","","."],"vi":"Đừng đành chấp nhận hạng nhì.","alts":[]}}
+  ]},
+  {"id":"y4129","title":"Cụm động từ nâng cao 4","desc":"Cụm động từ thường gặp trong giao tiếp và báo chí","icon":"Phrasal","unit":457,"course":"en","order":4910,"words":[
+   {"id":"y4129-shake_off","hanzi":"shake off","pinyin":"","vi":"rũ bỏ, thoát khỏi","ex":{"tokens":["I","cannot","shake","off","this","cold","."],"py":["","","","","","","."],"vi":"Tôi không sao dứt được cơn cảm này.","alts":[]}},
+   {"id":"y4129-shop_around","hanzi":"shop around","pinyin":"","vi":"khảo giá nhiều nơi","ex":{"tokens":["Shop","around","before","you","buy","a","car","."],"py":["","","","","","","","."],"vi":"Hãy khảo giá nhiều nơi trước khi mua xe.","alts":[]}},
+   {"id":"y4129-show_off","hanzi":"show off","pinyin":"","vi":"khoe khoang","ex":{"tokens":["He","likes","to","show","off","his","new","watch","."],"py":["","","","","","","","","."],"vi":"Anh ấy thích khoe chiếc đồng hồ mới.","alts":[]}},
+   {"id":"y4129-size_up","hanzi":"size up","pinyin":"","vi":"đánh giá, ước lượng","ex":{"tokens":["The","boxers","size","up","each","other","."],"py":["","","","","","","."],"vi":"Hai võ sĩ dò xét nhau.","alts":[]}},
+   {"id":"y4129-slip_up","hanzi":"slip up","pinyin":"","vi":"sơ suất, mắc lỗi","ex":{"tokens":["Be","careful","not","to","slip","up","."],"py":["","","","","","","."],"vi":"Hãy cẩn thận kẻo sơ suất.","alts":[]}},
+   {"id":"y4129-smooth_over","hanzi":"smooth over","pinyin":"","vi":"xoa dịu, dàn xếp","ex":{"tokens":["She","tried","to","smooth","over","the","argument","."],"py":["","","","","","","","."],"vi":"Cô ấy cố dàn xếp cuộc cãi vã.","alts":[]}},
+   {"id":"y4129-snap_up","hanzi":"snap up","pinyin":"","vi":"mua ngay, chộp lấy","ex":{"tokens":["Shoppers","snap","up","cheap","phones","."],"py":["","","","","","."],"vi":"Người mua chộp ngay điện thoại giá rẻ.","alts":[]}},
+   {"id":"y4129-sound_out","hanzi":"sound out","pinyin":"","vi":"thăm dò ý kiến","ex":{"tokens":["I","will","sound","out","my","boss","about","the","idea","."],"py":["","","","","","","","","","."],"vi":"Tôi sẽ thăm dò ý sếp về ý tưởng đó.","alts":[]}},
+   {"id":"y4129-speak_up","hanzi":"speak up","pinyin":"","vi":"nói to lên; lên tiếng","ex":{"tokens":["Please","speak","up;","I","cannot","hear","you","."],"py":["","","","","","","","."],"vi":"Xin nói to lên; tôi không nghe được.","alts":[]}},
+   {"id":"y4129-spell_out","hanzi":"spell out","pinyin":"","vi":"giải thích cặn kẽ","ex":{"tokens":["Let","me","spell","out","the","rules","."],"py":["","","","","","","."],"vi":"Để tôi giải thích cặn kẽ các quy định.","alts":[]}},
+   {"id":"y4129-splash_out","hanzi":"splash out","pinyin":"","vi":"vung tiền","ex":{"tokens":["We","decided","to","splash","out","on","a","good","hotel","."],"py":["","","","","","","","","","."],"vi":"Chúng tôi quyết định vung tiền ở khách sạn tốt.","alts":[]}},
+   {"id":"y4129-stamp_out","hanzi":"stamp out","pinyin":"","vi":"dập tắt, xóa bỏ","ex":{"tokens":["The","city","wants","to","stamp","out","crime","."],"py":["","","","","","","","."],"vi":"Thành phố muốn xóa bỏ tội phạm.","alts":[]}},
+   {"id":"y4129-stand_by","hanzi":"stand by","pinyin":"","vi":"ủng hộ, ở bên; sẵn sàng","ex":{"tokens":["I","will","stand","by","you","."],"py":["","","","","","."],"vi":"Tôi sẽ luôn ở bên bạn.","alts":[]}},
+   {"id":"y4129-stand_for","hanzi":"stand for","pinyin":"","vi":"là viết tắt của; đại diện cho","ex":{"tokens":["What","does","UN","stand","for","?"],"py":["","","","","","?"],"vi":"UN là viết tắt của gì?","alts":[]}}
+  ]},
+  {"id":"y4130","title":"Cụm động từ nâng cao 5","desc":"Cụm động từ thường gặp trong giao tiếp và báo chí","icon":"Phrasal","unit":457,"course":"en","order":4920,"words":[
+   {"id":"y4130-stand_in_for","hanzi":"stand in for","pinyin":"","vi":"thay thế tạm thời","ex":{"tokens":["I","will","stand","in","for","the","manager","today","."],"py":["","","","","","","","","."],"vi":"Hôm nay tôi sẽ thay quản lý.","alts":[]}},
+   {"id":"y4130-stand_out","hanzi":"stand out","pinyin":"","vi":"nổi bật","ex":{"tokens":["Bright","colors","stand","out","."],"py":["","","","","."],"vi":"Màu sáng thì nổi bật.","alts":[]}},
+   {"id":"y4130-stand_up_for","hanzi":"stand up for","pinyin":"","vi":"bênh vực","ex":{"tokens":["You","should","stand","up","for","your","rights","."],"py":["","","","","","","","."],"vi":"Bạn nên bảo vệ quyền lợi của mình.","alts":[]}},
+   {"id":"y4130-stand_up_to","hanzi":"stand up to","pinyin":"","vi":"đương đầu với","ex":{"tokens":["She","was","brave","enough","to","stand","up","to","her","boss","."],"py":["","","","","","","","","","","."],"vi":"Cô ấy đủ can đảm đương đầu với sếp.","alts":[]}},
+   {"id":"y4130-step_in","hanzi":"step in","pinyin":"","vi":"can thiệp","ex":{"tokens":["The","teacher","had","to","step","in","."],"py":["","","","","","","."],"vi":"Giáo viên phải can thiệp.","alts":[]}},
+   {"id":"y4130-step_up","hanzi":"step up","pinyin":"","vi":"tăng cường","ex":{"tokens":["Police","will","step","up","patrols","."],"py":["","","","","","."],"vi":"Cảnh sát sẽ tăng cường tuần tra.","alts":[]}},
+   {"id":"y4130-stick_to","hanzi":"stick to","pinyin":"","vi":"bám theo, giữ đúng","ex":{"tokens":["Stick","to","the","plan","."],"py":["","","","","."],"vi":"Hãy bám theo kế hoạch.","alts":[]}},
+   {"id":"y4130-stick_up_for","hanzi":"stick up for","pinyin":"","vi":"bênh vực","ex":{"tokens":["Friends","stick","up","for","each","other","."],"py":["","","","","","","."],"vi":"Bạn bè bênh vực nhau.","alts":[]}},
+   {"id":"y4130-stir_up","hanzi":"stir up","pinyin":"","vi":"khuấy động, gây ra","ex":{"tokens":["He","likes","to","stir","up","trouble","."],"py":["","","","","","","."],"vi":"Hắn thích gây rắc rối.","alts":[]}},
+   {"id":"y4130-stumble_upon","hanzi":"stumble upon","pinyin":"","vi":"tình cờ tìm thấy","ex":{"tokens":["You","may","stumble","upon","a","nice","café","."],"py":["","","","","","","","."],"vi":"Bạn có thể tình cờ tìm thấy một quán cà phê dễ thương.","alts":[]}},
+   {"id":"y4130-sum_up","hanzi":"sum up","pinyin":"","vi":"tóm tắt","ex":{"tokens":["Let","me","sum","up","the","main","points","."],"py":["","","","","","","","."],"vi":"Để tôi tóm tắt các ý chính.","alts":[]}},
+   {"id":"y4130-tail_off","hanzi":"tail off","pinyin":"","vi":"giảm dần, nhỏ dần","ex":{"tokens":["Sales","tail","off","after","the","holidays","."],"py":["","","","","","","."],"vi":"Doanh số giảm dần sau kỳ nghỉ.","alts":[]}},
+   {"id":"y4130-take_after","hanzi":"take after","pinyin":"","vi":"giống (người thân)","ex":{"tokens":["You","take","after","your","mother","."],"py":["","","","","","."],"vi":"Bạn giống mẹ bạn.","alts":[]}}
   ]}
  ]
 }

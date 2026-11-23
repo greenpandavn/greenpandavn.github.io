@@ -2010,7 +2010,7 @@ cross out|gạch bỏ|Cross out the wrong answer.|Hãy gạch bỏ đáp án sai
 cut back on|cắt giảm|We must cut back on spending.|Chúng ta phải cắt giảm chi tiêu.
 cut off|cắt đứt, ngắt|They may cut off the water tomorrow.|Ngày mai họ có thể cắt nước.
 
-%457|4|Phần 7: Mở rộng – Cụm động từ thông dụng|Cụm động từ thông dụng|sky
+%457|4|Phần 7: Mở rộng – Cụm động từ thông dụng|Cụm động từ thông dụng, Cụm động từ nâng cao|sky
 @y4121|Cụm động từ thông dụng 4|Cụm động từ thường gặp trong giao tiếp và báo chí|Phrasal
 cut out|cắt bỏ, ngừng|You should cut out sugar.|Bạn nên bỏ đường.
 die down|lắng xuống, dịu đi|Wait for the wind to die down.|Hãy chờ gió lặng bớt.
@@ -2080,6 +2080,231 @@ let down|làm thất vọng|I will not let down my team.|Tôi sẽ không làm �
 let off|tha, không phạt|The judge may let off the boy with a warning.|Thẩm phán có thể tha cho cậu bé và chỉ cảnh cáo.
 let on|để lộ ra|Do not let on that you know.|Đừng để lộ là bạn biết.
 level off|chững lại, ổn định|Prices should level off next year.|Giá cả hẳn sẽ chững lại vào năm sau.
+
+@y4126|Cụm động từ nâng cao 1|Cụm động từ thường gặp trong giao tiếp và báo chí|Phrasal
+go off|nổ; reo (chuông); ôi thiu|The alarm will go off at six.|Chuông báo thức sẽ reo lúc sáu giờ.
+go over|xem lại, rà soát|Let us go over the plan again.|Chúng ta hãy rà lại kế hoạch lần nữa.
+go through with|làm đến cùng|She decided to go through with the wedding.|Cô ấy quyết định vẫn tiến hành đám cưới.
+go without|chịu thiếu, nhịn|Camels can go without water for days.|Lạc đà có thể nhịn nước nhiều ngày.
+grow apart|dần xa nhau|Couples sometimes grow apart.|Các cặp đôi đôi khi dần xa nhau.
+grow on|ngày càng được thích|This song will grow on you.|Bạn sẽ ngày càng thích bài hát này.
+live up to|đáp ứng được (kỳ vọng)|The film did not live up to the book.|Bộ phim không được như cuốn sách.
+look down on|coi thường|Do not look down on poor people.|Đừng coi thường người nghèo.
+look up to|kính trọng, ngưỡng mộ|Children look up to their teachers.|Trẻ em kính trọng thầy cô.
+make do with|tạm dùng, xoay xở với|We will make do with what we have.|Chúng ta sẽ xoay xở với những gì đang có.
+make off with|cuỗm đi|Thieves tried to make off with the painting.|Bọn trộm tìm cách cuỗm bức tranh.
+make out|nhìn ra, hiểu ra|I cannot make out the sign.|Tôi không nhìn ra tấm biển.
+mess up|làm hỏng, làm rối|Do not mess up the kitchen.|Đừng làm bừa nhà bếp.
+miss out on|bỏ lỡ|Do not miss out on this chance.|Đừng bỏ lỡ cơ hội này.
+
+@y4127|Cụm động từ nâng cao 2|Cụm động từ thường gặp trong giao tiếp và báo chí|Phrasal
+mix up|nhầm lẫn|I always mix up the twins.|Tôi luôn nhầm hai đứa sinh đôi.
+narrow down|thu hẹp lại|We must narrow down the list.|Chúng ta phải thu hẹp danh sách.
+nod off|ngủ gật|I nod off in long meetings.|Tôi ngủ gật trong các cuộc họp dài.
+opt out|chọn không tham gia|You can opt out at any time.|Bạn có thể chọn không tham gia bất cứ lúc nào.
+own up|thú nhận|Nobody would own up to breaking the window.|Không ai chịu nhận đã làm vỡ cửa sổ.
+pass away|qua đời|Many old soldiers pass away each year.|Mỗi năm có nhiều cựu binh qua đời.
+pass out|ngất xỉu|Some people pass out when they see blood.|Một số người ngất khi thấy máu.
+pass up|bỏ qua (cơ hội)|Do not pass up a free meal.|Đừng bỏ qua một bữa ăn miễn phí.
+pay back|trả lại tiền; trả đũa|I will pay back the loan next month.|Tôi sẽ trả khoản vay vào tháng sau.
+pick on|bắt nạt, trêu chọc|Do not pick on your little brother.|Đừng bắt nạt em trai.
+pile up|chất đống|Dirty dishes pile up in the sink.|Bát đĩa bẩn chất đống trong bồn rửa.
+pin down|xác định rõ; ghìm chặt|It is hard to pin down the cause.|Khó xác định rõ nguyên nhân.
+play down|làm giảm nhẹ tầm quan trọng|Officials play down the risk.|Các quan chức làm nhẹ mức độ rủi ro.
+play up|thổi phồng; quậy phá|Adverts play up the good points.|Quảng cáo thổi phồng các điểm tốt.
+
+@y4128|Cụm động từ nâng cao 3|Cụm động từ thường gặp trong giao tiếp và báo chí|Phrasal
+pull through|vượt qua (bệnh, khó khăn)|The doctors think he will pull through.|Các bác sĩ nghĩ anh ấy sẽ qua khỏi.
+push ahead|tiếp tục xúc tiến|The city will push ahead with the plan.|Thành phố sẽ tiếp tục xúc tiến kế hoạch.
+put across|diễn đạt, truyền đạt|She knows how to put across her ideas.|Cô ấy biết cách truyền đạt ý tưởng của mình.
+put aside|để dành; gác lại|Put aside some money every month.|Mỗi tháng hãy để dành ít tiền.
+put down to|cho là do|I put down to luck the fact that we won.|Tôi cho rằng việc chúng tôi thắng là do may mắn.
+put forward|đề xuất|She will put forward a new plan.|Cô ấy sẽ đề xuất một kế hoạch mới.
+see off|tiễn|We went to the airport to see off our friends.|Chúng tôi ra sân bay tiễn bạn.
+see through|nhìn thấu; làm đến cùng|I can see through his lies.|Tôi nhìn thấu những lời nói dối của anh ta.
+sell out|bán hết vé, bán hết hàng|The tickets will sell out fast.|Vé sẽ bán hết rất nhanh.
+set about|bắt tay vào|We set about cleaning the house.|Chúng tôi bắt tay vào dọn nhà.
+set off|khởi hành; kích hoạt|We set off at dawn.|Chúng tôi khởi hành lúc rạng đông.
+set out|lên đường; trình bày|They set out to climb the mountain.|Họ lên đường leo núi.
+settle down|ổn định cuộc sống; ngồi yên|He wants to settle down and have children.|Anh ấy muốn ổn định cuộc sống và sinh con.
+settle for|đành chấp nhận|Do not settle for second best.|Đừng đành chấp nhận hạng nhì.
+
+@y4129|Cụm động từ nâng cao 4|Cụm động từ thường gặp trong giao tiếp và báo chí|Phrasal
+shake off|rũ bỏ, thoát khỏi|I cannot shake off this cold.|Tôi không sao dứt được cơn cảm này.
+shop around|khảo giá nhiều nơi|Shop around before you buy a car.|Hãy khảo giá nhiều nơi trước khi mua xe.
+show off|khoe khoang|He likes to show off his new watch.|Anh ấy thích khoe chiếc đồng hồ mới.
+size up|đánh giá, ước lượng|The boxers size up each other.|Hai võ sĩ dò xét nhau.
+slip up|sơ suất, mắc lỗi|Be careful not to slip up.|Hãy cẩn thận kẻo sơ suất.
+smooth over|xoa dịu, dàn xếp|She tried to smooth over the argument.|Cô ấy cố dàn xếp cuộc cãi vã.
+snap up|mua ngay, chộp lấy|Shoppers snap up cheap phones.|Người mua chộp ngay điện thoại giá rẻ.
+sound out|thăm dò ý kiến|I will sound out my boss about the idea.|Tôi sẽ thăm dò ý sếp về ý tưởng đó.
+speak up|nói to lên; lên tiếng|Please speak up; I cannot hear you.|Xin nói to lên; tôi không nghe được.
+spell out|giải thích cặn kẽ|Let me spell out the rules.|Để tôi giải thích cặn kẽ các quy định.
+splash out|vung tiền|We decided to splash out on a good hotel.|Chúng tôi quyết định vung tiền ở khách sạn tốt.
+stamp out|dập tắt, xóa bỏ|The city wants to stamp out crime.|Thành phố muốn xóa bỏ tội phạm.
+stand by|ủng hộ, ở bên; sẵn sàng|I will stand by you.|Tôi sẽ luôn ở bên bạn.
+stand for|là viết tắt của; đại diện cho|What does UN stand for?|UN là viết tắt của gì?
+
+@y4130|Cụm động từ nâng cao 5|Cụm động từ thường gặp trong giao tiếp và báo chí|Phrasal
+stand in for|thay thế tạm thời|I will stand in for the manager today.|Hôm nay tôi sẽ thay quản lý.
+stand out|nổi bật|Bright colors stand out.|Màu sáng thì nổi bật.
+stand up for|bênh vực|You should stand up for your rights.|Bạn nên bảo vệ quyền lợi của mình.
+stand up to|đương đầu với|She was brave enough to stand up to her boss.|Cô ấy đủ can đảm đương đầu với sếp.
+step in|can thiệp|The teacher had to step in.|Giáo viên phải can thiệp.
+step up|tăng cường|Police will step up patrols.|Cảnh sát sẽ tăng cường tuần tra.
+stick to|bám theo, giữ đúng|Stick to the plan.|Hãy bám theo kế hoạch.
+stick up for|bênh vực|Friends stick up for each other.|Bạn bè bênh vực nhau.
+stir up|khuấy động, gây ra|He likes to stir up trouble.|Hắn thích gây rắc rối.
+stumble upon|tình cờ tìm thấy|You may stumble upon a nice café.|Bạn có thể tình cờ tìm thấy một quán cà phê dễ thương.
+sum up|tóm tắt|Let me sum up the main points.|Để tôi tóm tắt các ý chính.
+tail off|giảm dần, nhỏ dần|Sales tail off after the holidays.|Doanh số giảm dần sau kỳ nghỉ.
+take after|giống (người thân)|You take after your mother.|Bạn giống mẹ bạn.
+
+%458|4|Phần 8: Mở rộng – Cụm động từ nâng cao|Cụm động từ nâng cao, Thành ngữ tiếng Anh|grape
+@y4141|Cụm động từ nâng cao 6|Cụm động từ thường gặp trong giao tiếp và báo chí|Phrasal
+take apart|tháo rời|He likes to take apart old radios.|Cậu ấy thích tháo rời radio cũ.
+take back|rút lại (lời); trả lại|I take back what I said.|Tôi rút lại những gì đã nói.
+take in|tiếp thu; cho ở nhờ; lừa|It was too much to take in.|Nhiều thông tin quá, không tiếp thu nổi.
+take on|đảm nhận; tuyển thêm|Do not take on too much work.|Đừng nhận quá nhiều việc.
+take to|bắt đầu thích|The children take to the new teacher quickly.|Bọn trẻ nhanh chóng quý cô giáo mới.
+tear down|phá dỡ|They will tear down the old cinema.|Họ sẽ phá dỡ rạp chiếu phim cũ.
+tell off|mắng, quở trách|Teachers tell off students who are late.|Giáo viên mắng học sinh đi muộn.
+think over|suy nghĩ kỹ|I need time to think over your offer.|Tôi cần thời gian suy nghĩ kỹ về đề nghị của bạn.
+think up|nghĩ ra|We must think up a better name.|Chúng ta phải nghĩ ra một cái tên hay hơn.
+tip off|mách nước, báo tin|Someone must tip off the police.|Phải có ai đó báo tin cho cảnh sát.
+tone down|làm dịu bớt|Please tone down your language.|Xin hãy dịu bớt lời lẽ.
+top up|nạp thêm, rót thêm|I need to top up my phone.|Tôi cần nạp thêm tiền điện thoại.
+toy with|đùa giỡn với; cân nhắc chơi|I toy with the idea of moving abroad.|Tôi thỉnh thoảng nghĩ chơi đến việc ra nước ngoài sống.
+
+@y4142|Cụm động từ nâng cao 7|Cụm động từ thường gặp trong giao tiếp và báo chí|Phrasal
+track down|lần ra, truy tìm|Police hope to track down the driver.|Cảnh sát hy vọng lần ra người tài xế.
+trail off|nhỏ dần rồi tắt (giọng)|Her words trail off into silence.|Lời cô ấy nhỏ dần rồi im bặt.
+turn to|tìm đến (nhờ giúp)|You can always turn to me for help.|Bạn luôn có thể tìm đến tôi nhờ giúp.
+walk out|bỏ đi; đình công|Workers may walk out tomorrow.|Công nhân có thể đình công vào ngày mai.
+ward off|xua đuổi, ngăn ngừa|Garlic is said to ward off colds.|Người ta nói tỏi ngừa được cảm lạnh.
+water down|pha loãng; làm nhẹ đi|They had to water down the law.|Họ phải làm nhẹ bớt đạo luật.
+wear off|hết tác dụng dần|The medicine will wear off in an hour.|Thuốc sẽ hết tác dụng sau một giờ.
+wear out|làm mòn; làm kiệt sức|Children wear out their shoes fast.|Trẻ con làm mòn giày rất nhanh.
+weigh up|cân nhắc|Weigh up the costs before you decide.|Hãy cân nhắc chi phí trước khi quyết định.
+whip up|khuấy động; làm nhanh (món ăn)|I can whip up a meal in ten minutes.|Tôi có thể làm nhanh một bữa ăn trong mười phút.
+win over|thuyết phục được, thu phục|She tried to win over the voters.|Bà ấy cố thu phục cử tri.
+wind up|kết thúc; rốt cuộc|Let us wind up the meeting.|Chúng ta hãy kết thúc cuộc họp.
+wipe out|xóa sổ, tiêu diệt|The disease could wipe out the fish.|Căn bệnh có thể xóa sổ đàn cá.
+
+@y4143|Thành ngữ tiếng Anh 1|Thành ngữ thông dụng trong giao tiếp|Idioms
+spill the beans|tiết lộ bí mật|Do not spill the beans about the party.|Đừng tiết lộ chuyện bữa tiệc.
+get out of hand|vượt khỏi tầm kiểm soát|The party began to get out of hand.|Bữa tiệc bắt đầu vượt khỏi tầm kiểm soát.
+hang in there|cố gắng lên, đừng bỏ cuộc|Hang in there; the exams are almost over.|Cố lên; kỳ thi sắp xong rồi.
+hit the sack|đi ngủ|I am tired, so I will hit the sack.|Tôi mệt rồi nên sẽ đi ngủ.
+on the ball|nhanh nhạy, tỉnh táo|Our new assistant is really on the ball.|Trợ lý mới của chúng tôi rất nhanh nhạy.
+speak of the devil|vừa nhắc đã thấy đến|Speak of the devil, here she comes.|Vừa nhắc đã thấy, cô ấy đến kìa.
+a dime a dozen|nhiều vô kể, chẳng có gì đặc biệt|Cafés like this are a dime a dozen.|Quán cà phê kiểu này thì nhiều vô kể.
+add insult to injury|đã tệ còn làm tệ hơn|To add insult to injury, it started to rain.|Đã xui lại càng thêm xui, trời bắt đầu mưa.
+barking up the wrong tree|nhầm đối tượng, nhầm hướng|If you blame me, you are barking up the wrong tree.|Nếu bạn trách tôi thì bạn nhầm người rồi.
+bite off more than you can chew|ôm đồm quá sức|Do not bite off more than you can chew.|Đừng ôm đồm quá sức mình.
+by the skin of your teeth|sát nút, suýt soát|You caught the train by the skin of your teeth.|Bạn bắt kịp chuyến tàu trong gang tấc.
+cry over spilled milk|tiếc nuối chuyện đã rồi|It is no use to cry over spilled milk.|Tiếc nuối chuyện đã rồi cũng vô ích.
+face the music|chịu trách nhiệm, nhận hậu quả|He lied, and now he must face the music.|Anh ta nói dối và giờ phải nhận hậu quả.
+
+@y4144|Thành ngữ tiếng Anh 2|Thành ngữ thông dụng trong giao tiếp|Idioms
+give the benefit of the doubt|tạm tin, không vội nghi ngờ|I will give the benefit of the doubt to him.|Tôi sẽ tạm tin anh ấy.
+in hot water|gặp rắc rối|He is in hot water with his boss.|Anh ấy đang gặp rắc rối với sếp.
+in the same boat|cùng cảnh ngộ|We are all in the same boat.|Tất cả chúng ta cùng chung cảnh ngộ.
+keep an eye on|để mắt trông chừng|Please keep an eye on my bag.|Làm ơn để mắt đến túi của tôi.
+kill two birds with one stone|một công đôi việc|Cycling to work lets me kill two birds with one stone.|Đạp xe đi làm giúp tôi một công đôi việc.
+lose your temper|nổi nóng|Try not to lose your temper.|Cố đừng nổi nóng.
+off the hook|thoát khỏi rắc rối|The teacher let him off the hook.|Giáo viên đã bỏ qua cho cậu ấy.
+on cloud nine|vui sướng tột độ|She has been on cloud nine since the wedding.|Cô ấy vui như ở trên mây từ sau đám cưới.
+on thin ice|ở thế nguy hiểm, dễ gặp rắc rối|You are on thin ice with that excuse.|Với cái cớ đó thì bạn dễ gặp rắc rối lắm.
+pay through the nose|trả giá cắt cổ|We had to pay through the nose for the tickets.|Chúng tôi phải trả giá cắt cổ cho mấy tấm vé.
+rain cats and dogs|mưa như trút nước|It began to rain cats and dogs.|Trời bắt đầu mưa như trút nước.
+ring a bell|nghe quen quen|Does that name ring a bell?|Cái tên đó nghe có quen không?
+sit on the fence|đứng giữa, không ngả về bên nào|You cannot sit on the fence forever.|Bạn không thể mãi không chọn bên nào.
+
+@y4145|Thành ngữ tiếng Anh 3|Thành ngữ thông dụng trong giao tiếp|Idioms
+sleep on it|để mai tính, suy nghĩ qua đêm|Let me sleep on it and tell you tomorrow.|Để tôi suy nghĩ qua đêm rồi mai trả lời.
+steal the show|chiếm trọn sự chú ý|The youngest dancer managed to steal the show.|Vũ công nhỏ tuổi nhất đã chiếm trọn sự chú ý.
+take it with a grain of salt|đừng tin hoàn toàn|He exaggerates, so take it with a grain of salt.|Anh ấy hay nói quá, nên đừng tin hoàn toàn.
+the ball is in your court|đến lượt bạn quyết định|I made my offer; the ball is in your court.|Tôi đã đưa ra đề nghị; giờ đến lượt bạn quyết định.
+through thick and thin|dù sướng hay khổ|They stayed friends through thick and thin.|Họ vẫn là bạn dù sướng hay khổ.
+turn a blind eye|nhắm mắt làm ngơ|The guard chose to turn a blind eye.|Người bảo vệ chọn nhắm mắt làm ngơ.
+wrap your head around|hiểu nổi (điều khó)|It is hard to wrap your head around this idea.|Thật khó hiểu nổi ý tưởng này.
+a hot potato|vấn đề nóng, khó xử|The tax rise is a hot potato.|Việc tăng thuế là một vấn đề nóng.
+a storm in a teacup|chuyện bé xé ra to|The whole argument was a storm in a teacup.|Cả cuộc cãi vã chỉ là chuyện bé xé ra to.
+behind closed doors|kín, không công khai|The deal was made behind closed doors.|Thỏa thuận được chốt sau cánh cửa đóng kín.
+burn bridges|tự cắt đường lui, cắt đứt quan hệ|Do not burn bridges when you leave a job.|Đừng cắt đứt quan hệ khi bạn nghỉ việc.
+bury the hatchet|giảng hòa|The brothers decided to bury the hatchet.|Hai anh em quyết định giảng hòa.
+come rain or shine|dù mưa hay nắng|He runs every morning, come rain or shine.|Sáng nào anh ấy cũng chạy, dù mưa hay nắng.
+
+@y4146|Thành ngữ tiếng Anh 4|Thành ngữ thông dụng trong giao tiếp|Idioms
+cross that bridge|đến đâu tính đến đó|We will cross that bridge when we come to it.|Đến đâu chúng ta tính đến đó.
+down to earth|thực tế, giản dị|The star is very down to earth.|Ngôi sao ấy rất giản dị.
+draw the line|đặt ra giới hạn|I draw the line at working on Sunday.|Tôi nhất định không làm việc vào Chủ nhật.
+every cloud has a silver lining|trong cái rủi có cái may|I lost my job but found a better one; every cloud has a silver lining.|Tôi mất việc nhưng tìm được việc tốt hơn; trong cái rủi có cái may.
+fit as a fiddle|khỏe như vâm|My grandfather is fit as a fiddle.|Ông tôi khỏe như vâm.
+get the ball rolling|bắt đầu, khởi động|Let us get the ball rolling with a short game.|Chúng ta hãy khởi động bằng một trò chơi ngắn.
+have a change of heart|đổi ý|She may have a change of heart.|Cô ấy có thể đổi ý.
+hit the road|lên đường|We should hit the road before dark.|Chúng ta nên lên đường trước khi trời tối.
+in a nutshell|nói tóm lại|In a nutshell, we need more time.|Nói tóm lại, chúng ta cần thêm thời gian.
+keep your chin up|ngẩng cao đầu, vững tinh thần|Keep your chin up; things will get better.|Vững tinh thần lên; mọi thứ sẽ tốt hơn.
+know the ropes|thạo việc|Ask Lan; she will know the ropes.|Hãy hỏi Lan; cô ấy thạo việc lắm.
+let sleeping dogs lie|đừng khơi lại chuyện cũ|Do not ask about the fight; let sleeping dogs lie.|Đừng hỏi về vụ cãi nhau; đừng khơi lại chuyện cũ.
+
+@y4147|Thành ngữ tiếng Anh 5|Thành ngữ thông dụng trong giao tiếp|Idioms
+long story short|nói ngắn gọn thì|Long story short, we missed the flight.|Nói ngắn gọn thì chúng tôi lỡ chuyến bay.
+make a mountain out of a molehill|chuyện bé xé ra to|Do not make a mountain out of a molehill.|Đừng chuyện bé xé ra to.
+no strings attached|không kèm điều kiện|The money is a gift, no strings attached.|Số tiền là quà tặng, không kèm điều kiện gì.
+over the moon|sung sướng vô cùng|She was over the moon about the news.|Cô ấy sung sướng vô cùng khi nghe tin.
+pull yourself together|trấn tĩnh lại|Pull yourself together and try again.|Hãy trấn tĩnh lại và thử lần nữa.
+put all your eggs in one basket|dồn hết vào một chỗ|Do not put all your eggs in one basket.|Đừng bỏ hết trứng vào một giỏ.
+run out of steam|hết hơi, đuối sức|The team seemed to run out of steam.|Đội bóng có vẻ đã đuối sức.
+second to none|không ai sánh bằng|Her cooking is second to none.|Tài nấu ăn của cô ấy không ai sánh bằng.
+take the plunge|liều quyết định làm|They decided to take the plunge and buy a house.|Họ quyết định liều mua nhà.
+tie the knot|kết hôn|They will tie the knot in June.|Họ sẽ kết hôn vào tháng Sáu.
+time flies|thời gian trôi nhanh|Time flies when you are having fun.|Thời gian trôi nhanh khi bạn vui.
+up to scratch|đạt yêu cầu|His work is not up to scratch.|Công việc của anh ấy chưa đạt yêu cầu.
+
+@y4148|Thành ngữ tiếng Anh 6|Thành ngữ thông dụng trong giao tiếp|Idioms
+when pigs fly|còn lâu, chẳng bao giờ|He will clean his room when pigs fly.|Còn lâu cậu ấy mới dọn phòng.
+a red herring|chi tiết đánh lạc hướng|The clue was a red herring.|Manh mối đó là chi tiết đánh lạc hướng.
+a silver lining|điều may trong cái rủi|Look for a silver lining in every problem.|Hãy tìm điều may trong mọi rắc rối.
+an uphill battle|cuộc chiến gian nan|Finding a job was an uphill battle.|Tìm việc là một cuộc chiến gian nan.
+at the drop of a hat|ngay lập tức, không cần lý do|She cries at the drop of a hat.|Cô ấy động một tí là khóc.
+cut it out|thôi đi|Cut it out, you two!|Hai đứa thôi đi!
+give it a shot|thử xem sao|I have never skied, but I will give it a shot.|Tôi chưa trượt tuyết bao giờ nhưng sẽ thử xem sao.
+go down in flames|thất bại thảm hại|The plan will go down in flames.|Kế hoạch sẽ thất bại thảm hại.
+have the upper hand|chiếm thế thượng phong|Our team seems to have the upper hand.|Đội chúng ta có vẻ đang chiếm thế thượng phong.
+jump the gun|hấp tấp làm trước|Do not jump the gun; wait for the results.|Đừng hấp tấp; hãy chờ kết quả.
+lose touch|mất liên lạc|Do not lose touch with old friends.|Đừng để mất liên lạc với bạn cũ.
+out of order|bị hỏng, không hoạt động|The lift is out of order.|Thang máy bị hỏng.
+
+@y4149|Thành ngữ tiếng Anh 7|Thành ngữ thông dụng trong giao tiếp|Idioms
+a tall order|yêu cầu khó đáp ứng|Finishing by Friday is a tall order.|Xong trước thứ Sáu là một yêu cầu khó.
+from scratch|từ con số không|She built the business from scratch.|Cô ấy gây dựng việc kinh doanh từ con số không.
+hit rock bottom|chạm đáy|Prices may hit rock bottom this year.|Giá có thể chạm đáy trong năm nay.
+in the nick of time|vừa kịp lúc|The ambulance arrived in the nick of time.|Xe cấp cứu đến vừa kịp lúc.
+keep a low profile|giữ kín tiếng, tránh gây chú ý|He tried to keep a low profile.|Anh ấy cố tránh gây chú ý.
+on the verge of|sắp, trên bờ vực|She was on the verge of tears.|Cô ấy sắp bật khóc.
+a close call|tình huống suýt gặp nạn|That was a close call.|Suýt nữa thì gặp nạn.
+safe and sound|bình an vô sự|The children came home safe and sound.|Bọn trẻ về nhà bình an vô sự.
+sick and tired|chán ngấy|I am sick and tired of this noise.|Tôi chán ngấy tiếng ồn này.
+odds and ends|đồ lặt vặt|The drawer is full of odds and ends.|Ngăn kéo đầy đồ lặt vặt.
+pros and cons|ưu và nhược điểm|Think about the pros and cons.|Hãy nghĩ về ưu và nhược điểm.
+ups and downs|thăng trầm|Every marriage has its ups and downs.|Cuộc hôn nhân nào cũng có thăng trầm.
+
+@y4150|Thành ngữ tiếng Anh 8|Thành ngữ thông dụng trong giao tiếp|Idioms
+give and take|có qua có lại, nhường nhịn nhau|A good marriage needs give and take.|Hôn nhân hạnh phúc cần sự nhường nhịn lẫn nhau.
+wear and tear|hao mòn do sử dụng|The sofa shows wear and tear.|Chiếc ghế sô-pha đã có dấu hiệu hao mòn.
+trial and error|thử và sai|I learned to cook by trial and error.|Tôi học nấu ăn bằng cách thử và sai.
+sooner or later|sớm hay muộn|Sooner or later you must tell her.|Sớm hay muộn bạn cũng phải nói với cô ấy.
+more or less|ít nhiều, gần như|The work is more or less finished.|Công việc gần như đã xong.
+now and then|thỉnh thoảng|We meet for coffee now and then.|Thỉnh thoảng chúng tôi gặp nhau uống cà phê.
+by and large|nhìn chung|By and large, the trip went well.|Nhìn chung chuyến đi diễn ra tốt đẹp.
+first and foremost|trước hết và quan trọng nhất|First and foremost, stay safe.|Trước hết và quan trọng nhất, hãy giữ an toàn.
+short and sweet|ngắn gọn mà hay|Keep your speech short and sweet.|Hãy giữ bài phát biểu ngắn gọn mà hay.
+back and forth|qua lại|They sent emails back and forth all day.|Họ gửi email qua lại cả ngày.
+bits and pieces|những thứ lặt vặt|I packed a few bits and pieces.|Tôi đóng gói vài thứ lặt vặt.
+peace and quiet|sự yên tĩnh|I just want some peace and quiet.|Tôi chỉ muốn chút yên tĩnh.
 
 %551|5|Phần 1: Mở rộng – Giải phẫu cơ thể|Giải phẫu cơ thể, Bệnh lý, Thủ thuật và thiết bị y khoa, Thực vật học, Động vật học|leaf
 @y5001|Giải phẫu cơ thể 1|Xương, nội tạng, các phần trên cơ thể|Anatomy
