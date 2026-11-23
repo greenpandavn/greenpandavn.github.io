@@ -195,7 +195,7 @@ const enLessons = [];
 const enUnits = [];
 const enSeen = new Set();
 // english.txt holds the original beginner + intermediate lessons; the other files add levels and extra parts
-const EN_FILES = ['english.txt', 'english-beginner2.txt', 'english-intermediate2.txt', 'english-advanced.txt', 'english-proficient.txt', 'english-beginner3.txt', 'english-intermediate3.txt', 'english-advanced2.txt', 'english-proficient2.txt', 'english-mastery.txt'];
+const EN_FILES = ['english.txt', 'english-beginner2.txt', 'english-intermediate2.txt', 'english-advanced.txt', 'english-proficient.txt', 'english-beginner3.txt', 'english-intermediate3.txt', 'english-advanced2.txt', 'english-proficient2.txt', 'english-mastery.txt', 'english-extra.txt'];
 for (const file of EN_FILES.filter((f) => fs.existsSync(path.join(root, 'scripts', f)))) {
   let unit = null;
   for (const [i, raw] of read(`scripts/${file}`).split('\n').entries()) {
