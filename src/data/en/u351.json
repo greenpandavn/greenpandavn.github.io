@@ -1,6 +1,6 @@
 {
  "units": [
-  {"unit":351,"level":3,"title":"Phần 24: Mở rộng – Kỹ thuật nấu nướng","desc":"Kỹ thuật nấu nướng, Dụng cụ nhà bếp","color":"leaf","course":"en"}
+  {"unit":351,"level":3,"title":"Phần 24: Mở rộng – Kỹ thuật nấu nướng","desc":"Kỹ thuật nấu nướng, Dụng cụ nhà bếp, Gia vị và nguyên liệu, Rau củ và trái cây","color":"leaf","course":"en"}
  ],
  "lessons": [
   {"id":"y3001","title":"Kỹ thuật nấu nướng 1","desc":"Các cách chế biến món ăn","icon":"Cook","unit":351,"course":"en","order":2610,"words":[
@@ -66,6 +66,115 @@
    {"id":"y3004-bottle_opener","hanzi":"bottle opener","pinyin":"","vi":"cái mở nắp chai","ex":{"tokens":["Do","you","have","a","bottle","opener","?"],"py":["","","","","","","?"],"vi":"Bạn có cái mở nắp chai không?","alts":[]}},
    {"id":"y3004-can_opener","hanzi":"can opener","pinyin":"","vi":"cái mở đồ hộp","ex":{"tokens":["I","cannot","find","the","can","opener","."],"py":["","","","","","","."],"vi":"Tôi không tìm thấy cái mở đồ hộp.","alts":[]}},
    {"id":"y3004-tablecloth","hanzi":"tablecloth","pinyin":"","vi":"khăn trải bàn","ex":{"tokens":["She","spread","a","white","tablecloth","on","the","table","."],"py":["","","","","","","","","."],"vi":"Cô ấy trải một chiếc khăn trắng lên bàn.","alts":[]}}
+  ]},
+  {"id":"y3005","title":"Gia vị và nguyên liệu 1","desc":"Gia vị, rau thơm, bột, các loại hạt","icon":"Spice","unit":351,"course":"en","order":2650,"words":[
+   {"id":"y3005-yeast","hanzi":"yeast","pinyin":"","vi":"men nở","ex":{"tokens":["Bread","needs","yeast","to","rise","."],"py":["","","","","","."],"vi":"Bánh mì cần men để nở.","alts":[]}},
+   {"id":"y3005-baking_powder","hanzi":"baking powder","pinyin":"","vi":"bột nở","ex":{"tokens":["Add","a","teaspoon","of","baking","powder","to","the","flour","."],"py":["","","","","","","","","","."],"vi":"Hãy thêm một thìa cà phê bột nở vào bột mì.","alts":[]}},
+   {"id":"y3005-cornstarch","hanzi":"cornstarch","pinyin":"","vi":"bột bắp","ex":{"tokens":["Thicken","the","sauce","with","cornstarch","."],"py":["","","","","","."],"vi":"Hãy làm sánh nước sốt bằng bột bắp.","alts":[]}},
+   {"id":"y3005-soy_sauce","hanzi":"soy sauce","pinyin":"","vi":"nước tương, xì dầu","ex":{"tokens":["Dip","the","sushi","in","soy","sauce","."],"py":["","","","","","","."],"vi":"Hãy chấm sushi vào nước tương.","alts":[]}},
+   {"id":"y3005-fish_sauce","hanzi":"fish sauce","pinyin":"","vi":"nước mắm","ex":{"tokens":["Vietnamese","food","often","uses","fish","sauce","."],"py":["","","","","","","."],"vi":"Món Việt thường dùng nước mắm.","alts":[]}},
+   {"id":"y3005-mayonnaise","hanzi":"mayonnaise","pinyin":"","vi":"sốt mayonnaise","ex":{"tokens":["I","put","mayonnaise","in","the","salad","."],"py":["","","","","","","."],"vi":"Tôi cho sốt mayonnaise vào salad.","alts":[]}},
+   {"id":"y3005-vanilla","hanzi":"vanilla","pinyin":"","vi":"vani","ex":{"tokens":["I","ordered","vanilla","ice","cream","."],"py":["","","","","","."],"vi":"Tôi gọi kem vani.","alts":[]}},
+   {"id":"y3005-cinnamon","hanzi":"cinnamon","pinyin":"","vi":"quế","ex":{"tokens":["She","put","cinnamon","in","her","coffee","."],"py":["","","","","","","."],"vi":"Cô ấy cho quế vào cà phê.","alts":[]}},
+   {"id":"y3005-nutmeg","hanzi":"nutmeg","pinyin":"","vi":"hạt nhục đậu khấu","ex":{"tokens":["Add","a","little","nutmeg","to","the","sauce","."],"py":["","","","","","","","."],"vi":"Hãy thêm chút nhục đậu khấu vào nước sốt.","alts":[]}},
+   {"id":"y3005-clove","hanzi":"clove","pinyin":"","vi":"đinh hương; tép (tỏi)","ex":{"tokens":["Crush","one","clove","of","garlic","."],"py":["","","","","","."],"vi":"Hãy đập dập một tép tỏi.","alts":[]}},
+   {"id":"y3005-cumin","hanzi":"cumin","pinyin":"","vi":"thì là Ai Cập","ex":{"tokens":["The","curry","smells","of","cumin","."],"py":["","","","","","."],"vi":"Món cà ri thơm mùi thì là Ai Cập.","alts":[]}},
+   {"id":"y3005-turmeric","hanzi":"turmeric","pinyin":"","vi":"nghệ","ex":{"tokens":["Turmeric","makes","the","rice","yellow","."],"py":["","","","","","."],"vi":"Nghệ làm cơm có màu vàng.","alts":[]}},
+   {"id":"y3005-paprika","hanzi":"paprika","pinyin":"","vi":"bột ớt ngọt","ex":{"tokens":["Sprinkle","paprika","on","the","eggs","."],"py":["","","","","","."],"vi":"Hãy rắc bột ớt ngọt lên trứng.","alts":[]}},
+   {"id":"y3005-saffron","hanzi":"saffron","pinyin":"","vi":"nghệ tây","ex":{"tokens":["Saffron","is","the","most","expensive","spice","."],"py":["","","","","","","."],"vi":"Nghệ tây là loại gia vị đắt nhất.","alts":[]}}
+  ]},
+  {"id":"y3006","title":"Gia vị và nguyên liệu 2","desc":"Gia vị, rau thơm, bột, các loại hạt","icon":"Spice","unit":351,"course":"en","order":2660,"words":[
+   {"id":"y3006-oregano","hanzi":"oregano","pinyin":"","vi":"lá kinh giới cay (oregano)","ex":{"tokens":["Pizza","often","has","oregano","on","top","."],"py":["","","","","","","."],"vi":"Bánh pizza thường có lá oregano ở trên.","alts":[]}},
+   {"id":"y3006-basil","hanzi":"basil","pinyin":"","vi":"húng quế","ex":{"tokens":["Add","fresh","basil","to","the","pho","."],"py":["","","","","","","."],"vi":"Hãy thêm húng quế tươi vào phở.","alts":[]}},
+   {"id":"y3006-thyme","hanzi":"thyme","pinyin":"","vi":"cỏ xạ hương","ex":{"tokens":["Roast","the","chicken","with","thyme","."],"py":["","","","","","."],"vi":"Hãy nướng gà với cỏ xạ hương.","alts":[]}},
+   {"id":"y3006-rosemary","hanzi":"rosemary","pinyin":"","vi":"lá hương thảo","ex":{"tokens":["The","lamb","is","cooked","with","rosemary","."],"py":["","","","","","","."],"vi":"Thịt cừu được nấu với lá hương thảo.","alts":[]}},
+   {"id":"y3006-parsley","hanzi":"parsley","pinyin":"","vi":"rau mùi tây","ex":{"tokens":["Chop","some","parsley","for","the","soup","."],"py":["","","","","","","."],"vi":"Hãy thái ít rau mùi tây cho món súp.","alts":[]}},
+   {"id":"y3006-coriander","hanzi":"coriander","pinyin":"","vi":"rau mùi, ngò","ex":{"tokens":["Many","people","dislike","the","taste","of","coriander","."],"py":["","","","","","","","."],"vi":"Nhiều người không thích vị rau mùi.","alts":[]}},
+   {"id":"y3006-dill","hanzi":"dill","pinyin":"","vi":"thì là","ex":{"tokens":["Fish","soup","tastes","better","with","dill","."],"py":["","","","","","","."],"vi":"Canh cá ngon hơn khi có thì là.","alts":[]}},
+   {"id":"y3006-mint","hanzi":"mint","pinyin":"","vi":"bạc hà","ex":{"tokens":["I","like","mint","tea","after","dinner","."],"py":["","","","","","","."],"vi":"Tôi thích trà bạc hà sau bữa tối.","alts":[]}},
+   {"id":"y3006-bay_leaf","hanzi":"bay leaf","pinyin":"","vi":"lá nguyệt quế","ex":{"tokens":["Put","a","bay","leaf","in","the","stew","."],"py":["","","","","","","","."],"vi":"Hãy cho một lá nguyệt quế vào món hầm.","alts":[]}},
+   {"id":"y3006-shallot","hanzi":"shallot","pinyin":"","vi":"hành tím, hành khô","ex":{"tokens":["Fry","the","shallot","until","it","is","golden","."],"py":["","","","","","","","."],"vi":"Hãy phi hành tím cho tới khi vàng.","alts":[]}},
+   {"id":"y3006-leek","hanzi":"leek","pinyin":"","vi":"tỏi tây","ex":{"tokens":["She","made","potato","and","leek","soup","."],"py":["","","","","","","."],"vi":"Cô ấy nấu súp khoai tây và tỏi tây.","alts":[]}},
+   {"id":"y3006-scallion","hanzi":"scallion","pinyin":"","vi":"hành lá","ex":{"tokens":["Chop","a","scallion","for","the","noodles","."],"py":["","","","","","","."],"vi":"Hãy thái một cây hành lá cho món mì.","alts":[]}},
+   {"id":"y3006-lard","hanzi":"lard","pinyin":"","vi":"mỡ lợn","ex":{"tokens":["My","grandmother","fries","with","lard","."],"py":["","","","","","."],"vi":"Bà tôi chiên bằng mỡ lợn.","alts":[]}},
+   {"id":"y3006-margarine","hanzi":"margarine","pinyin":"","vi":"bơ thực vật","ex":{"tokens":["He","spread","margarine","on","the","toast","."],"py":["","","","","","","."],"vi":"Anh ấy phết bơ thực vật lên bánh mì nướng.","alts":[]}}
+  ]},
+  {"id":"y3007","title":"Gia vị và nguyên liệu 3","desc":"Gia vị, rau thơm, bột, các loại hạt","icon":"Spice","unit":351,"course":"en","order":2670,"words":[
+   {"id":"y3007-gelatin","hanzi":"gelatin","pinyin":"","vi":"gelatin, chất làm đông","ex":{"tokens":["Use","gelatin","to","make","the","jelly","."],"py":["","","","","","","."],"vi":"Hãy dùng gelatin để làm thạch.","alts":[]}},
+   {"id":"y3007-broth","hanzi":"broth","pinyin":"","vi":"nước dùng","ex":{"tokens":["Pho","needs","a","clear","beef","broth","."],"py":["","","","","","","."],"vi":"Phở cần nước dùng bò trong.","alts":[]}},
+   {"id":"y3007-gravy","hanzi":"gravy","pinyin":"","vi":"nước sốt thịt","ex":{"tokens":["Pour","the","gravy","over","the","meat","."],"py":["","","","","","","."],"vi":"Hãy rưới nước sốt lên thịt.","alts":[]}},
+   {"id":"y3007-batter","hanzi":"batter","pinyin":"","vi":"bột nhão (để chiên, làm bánh)","ex":{"tokens":["Dip","the","fish","in","batter","and","fry","it","."],"py":["","","","","","","","","."],"vi":"Hãy nhúng cá vào bột nhão rồi chiên.","alts":[]}},
+   {"id":"y3007-dough","hanzi":"dough","pinyin":"","vi":"bột nhào","ex":{"tokens":["Leave","the","dough","to","rise","for","an","hour","."],"py":["","","","","","","","","."],"vi":"Hãy để bột nhào nở trong một giờ.","alts":[]}},
+   {"id":"y3007-crust","hanzi":"crust","pinyin":"","vi":"vỏ bánh","ex":{"tokens":["I","like","pizza","with","a","thin","crust","."],"py":["","","","","","","","."],"vi":"Tôi thích pizza vỏ mỏng.","alts":[]}},
+   {"id":"y3007-icing","hanzi":"icing","pinyin":"","vi":"lớp kem đường phủ bánh","ex":{"tokens":["The","cake","has","pink","icing","."],"py":["","","","","","."],"vi":"Chiếc bánh có lớp kem đường màu hồng.","alts":[]}},
+   {"id":"y3007-topping","hanzi":"topping","pinyin":"","vi":"lớp phủ trên món ăn","ex":{"tokens":["Which","topping","do","you","want","on","your","pizza","?"],"py":["","","","","","","","","?"],"vi":"Bạn muốn lớp phủ nào trên pizza?","alts":[]}},
+   {"id":"y3007-sesame","hanzi":"sesame","pinyin":"","vi":"vừng, mè","ex":{"tokens":["Sprinkle","sesame","seeds","on","the","bread","."],"py":["","","","","","","."],"vi":"Hãy rắc hạt vừng lên bánh mì.","alts":[]}},
+   {"id":"y3007-almond","hanzi":"almond","pinyin":"","vi":"hạnh nhân","ex":{"tokens":["I","drink","almond","milk","."],"py":["","","","","."],"vi":"Tôi uống sữa hạnh nhân.","alts":[]}},
+   {"id":"y3007-walnut","hanzi":"walnut","pinyin":"","vi":"quả óc chó","ex":{"tokens":["She","baked","a","walnut","cake","."],"py":["","","","","","."],"vi":"Cô ấy nướng một chiếc bánh óc chó.","alts":[]}},
+   {"id":"y3007-cashew","hanzi":"cashew","pinyin":"","vi":"hạt điều","ex":{"tokens":["Vietnam","exports","cashew","nuts","."],"py":["","","","","."],"vi":"Việt Nam xuất khẩu hạt điều.","alts":[]}},
+   {"id":"y3007-pistachio","hanzi":"pistachio","pinyin":"","vi":"hạt dẻ cười","ex":{"tokens":["He","chose","pistachio","ice","cream","."],"py":["","","","","","."],"vi":"Anh ấy chọn kem hạt dẻ cười.","alts":[]}},
+   {"id":"y3007-hazelnut","hanzi":"hazelnut","pinyin":"","vi":"hạt phỉ","ex":{"tokens":["This","chocolate","has","hazelnut","inside","."],"py":["","","","","","."],"vi":"Sô cô la này có hạt phỉ bên trong.","alts":[]}}
+  ]},
+  {"id":"y3008","title":"Gia vị và nguyên liệu 4","desc":"Gia vị, rau thơm, bột, các loại hạt","icon":"Spice","unit":351,"course":"en","order":2680,"words":[
+   {"id":"y3008-chestnut","hanzi":"chestnut","pinyin":"","vi":"hạt dẻ","ex":{"tokens":["We","bought","a","bag","of","hot","chestnut","snacks","."],"py":["","","","","","","","","."],"vi":"Chúng tôi mua một túi hạt dẻ nóng.","alts":[]}},
+   {"id":"y3008-raisin","hanzi":"raisin","pinyin":"","vi":"nho khô","ex":{"tokens":["There","is","a","raisin","in","every","bite","."],"py":["","","","","","","","."],"vi":"Miếng nào cũng có nho khô.","alts":[]}},
+   {"id":"y3008-cranberry","hanzi":"cranberry","pinyin":"","vi":"quả nam việt quất","ex":{"tokens":["She","drank","a","glass","of","cranberry","juice","."],"py":["","","","","","","","."],"vi":"Cô ấy uống một cốc nước ép nam việt quất.","alts":[]}},
+   {"id":"y3008-lentil","hanzi":"lentil","pinyin":"","vi":"đậu lăng","ex":{"tokens":["Lentil","soup","is","cheap","and","healthy","."],"py":["","","","","","","."],"vi":"Súp đậu lăng rẻ và tốt cho sức khỏe.","alts":[]}},
+   {"id":"y3008-chickpea","hanzi":"chickpea","pinyin":"","vi":"đậu gà","ex":{"tokens":["I","made","a","chickpea","curry","."],"py":["","","","","","."],"vi":"Tôi nấu món cà ri đậu gà.","alts":[]}},
+   {"id":"y3008-barley","hanzi":"barley","pinyin":"","vi":"lúa mạch","ex":{"tokens":["Beer","is","made","from","barley","."],"py":["","","","","","."],"vi":"Bia được làm từ lúa mạch.","alts":[]}},
+   {"id":"y3008-oat","hanzi":"oat","pinyin":"","vi":"yến mạch","ex":{"tokens":["I","have","oat","milk","in","my","coffee","."],"py":["","","","","","","","."],"vi":"Tôi dùng sữa yến mạch trong cà phê.","alts":[]}},
+   {"id":"y3008-rye","hanzi":"rye","pinyin":"","vi":"lúa mạch đen","ex":{"tokens":["He","bought","a","loaf","of","rye","bread","."],"py":["","","","","","","","."],"vi":"Anh ấy mua một ổ bánh mì lúa mạch đen.","alts":[]}},
+   {"id":"y3008-quinoa","hanzi":"quinoa","pinyin":"","vi":"hạt diêm mạch","ex":{"tokens":["She","made","a","salad","with","quinoa","."],"py":["","","","","","","."],"vi":"Cô ấy làm salad với hạt diêm mạch.","alts":[]}},
+   {"id":"y3008-tofu","hanzi":"tofu","pinyin":"","vi":"đậu phụ","ex":{"tokens":["I","fried","the","tofu","with","tomato","sauce","."],"py":["","","","","","","","."],"vi":"Tôi rán đậu phụ sốt cà chua.","alts":[]}},
+   {"id":"y3008-molasses","hanzi":"molasses","pinyin":"","vi":"mật mía, rỉ đường","ex":{"tokens":["The","cookies","are","sweetened","with","molasses","."],"py":["","","","","","","."],"vi":"Bánh quy được làm ngọt bằng mật mía.","alts":[]}},
+   {"id":"y3008-chive","hanzi":"chive","pinyin":"","vi":"lá hẹ","ex":{"tokens":["Add","some","chive","to","the","eggs","."],"py":["","","","","","","."],"vi":"Hãy thêm chút lá hẹ vào trứng.","alts":[]}},
+   {"id":"y3008-frosting","hanzi":"frosting","pinyin":"","vi":"lớp kem phủ bánh","ex":{"tokens":["The","children","licked","the","frosting","off","the","cake","."],"py":["","","","","","","","","."],"vi":"Bọn trẻ liếm lớp kem phủ trên bánh.","alts":[]}},
+   {"id":"y3008-pecan","hanzi":"pecan","pinyin":"","vi":"hạt hồ đào","ex":{"tokens":["She","baked","a","pecan","pie","."],"py":["","","","","","."],"vi":"Cô ấy nướng một chiếc bánh hồ đào.","alts":[]}}
+  ]},
+  {"id":"y3009","title":"Rau củ và trái cây 1","desc":"Rau, củ, trái cây nhiệt đới, quả mọng","icon":"Fruit","unit":351,"course":"en","order":2690,"words":[
+   {"id":"y3009-zucchini","hanzi":"zucchini","pinyin":"","vi":"bí ngòi","ex":{"tokens":["I","grilled","some","zucchini","."],"py":["","","","","."],"vi":"Tôi nướng ít bí ngòi.","alts":[]}},
+   {"id":"y3009-cauliflower","hanzi":"cauliflower","pinyin":"","vi":"súp lơ trắng","ex":{"tokens":["She","boiled","the","cauliflower","."],"py":["","","","","."],"vi":"Cô ấy luộc súp lơ trắng.","alts":[]}},
+   {"id":"y3009-broccoli","hanzi":"broccoli","pinyin":"","vi":"bông cải xanh","ex":{"tokens":["Children","should","eat","more","broccoli","."],"py":["","","","","","."],"vi":"Trẻ em nên ăn nhiều bông cải xanh hơn.","alts":[]}},
+   {"id":"y3009-asparagus","hanzi":"asparagus","pinyin":"","vi":"măng tây","ex":{"tokens":["We","had","asparagus","with","butter","."],"py":["","","","","","."],"vi":"Chúng tôi ăn măng tây với bơ.","alts":[]}},
+   {"id":"y3009-artichoke","hanzi":"artichoke","pinyin":"","vi":"atisô","ex":{"tokens":["Da","Lat","is","famous","for","artichoke","tea","."],"py":["","","","","","","","."],"vi":"Đà Lạt nổi tiếng với trà atisô.","alts":[]}},
+   {"id":"y3009-radish","hanzi":"radish","pinyin":"","vi":"củ cải (nhỏ)","ex":{"tokens":["She","put","sliced","radish","in","the","salad","."],"py":["","","","","","","","."],"vi":"Cô ấy cho củ cải thái lát vào salad.","alts":[]}},
+   {"id":"y3009-turnip","hanzi":"turnip","pinyin":"","vi":"củ cải tròn","ex":{"tokens":["The","farmer","pulled","up","a","huge","turnip","."],"py":["","","","","","","","."],"vi":"Người nông dân nhổ lên một củ cải khổng lồ.","alts":[]}},
+   {"id":"y3009-beet","hanzi":"beet","pinyin":"","vi":"củ dền","ex":{"tokens":["Beet","juice","is","dark","red","."],"py":["","","","","","."],"vi":"Nước ép củ dền có màu đỏ sẫm.","alts":[]}},
+   {"id":"y3009-kale","hanzi":"kale","pinyin":"","vi":"cải xoăn","ex":{"tokens":["She","makes","smoothies","with","kale","."],"py":["","","","","","."],"vi":"Cô ấy làm sinh tố với cải xoăn.","alts":[]}},
+   {"id":"y3009-squash","hanzi":"squash","pinyin":"","vi":"quả bí","ex":{"tokens":["We","made","soup","from","squash","."],"py":["","","","","","."],"vi":"Chúng tôi nấu súp từ bí.","alts":[]}},
+   {"id":"y3009-okra","hanzi":"okra","pinyin":"","vi":"đậu bắp","ex":{"tokens":["I","like","okra","in","sour","soup","."],"py":["","","","","","","."],"vi":"Tôi thích đậu bắp trong canh chua.","alts":[]}},
+   {"id":"y3009-yam","hanzi":"yam","pinyin":"","vi":"củ từ, khoai mỡ","ex":{"tokens":["She","cooked","yam","soup","with","shrimp","."],"py":["","","","","","","."],"vi":"Cô ấy nấu canh khoai mỡ với tôm.","alts":[]}},
+   {"id":"y3009-sweet_potato","hanzi":"sweet potato","pinyin":"","vi":"khoai lang","ex":{"tokens":["I","ate","a","baked","sweet","potato","."],"py":["","","","","","","."],"vi":"Tôi ăn một củ khoai lang nướng.","alts":[]}}
+  ]},
+  {"id":"y3010","title":"Rau củ và trái cây 2","desc":"Rau, củ, trái cây nhiệt đới, quả mọng","icon":"Fruit","unit":351,"course":"en","order":2700,"words":[
+   {"id":"y3010-bean_sprout","hanzi":"bean sprout","pinyin":"","vi":"giá đỗ","ex":{"tokens":["A","bean","sprout","fell","out","of","my","spring","roll","."],"py":["","","","","","","","","","."],"vi":"Một cọng giá rơi ra khỏi cuốn nem của tôi.","alts":[]}},
+   {"id":"y3010-bell_pepper","hanzi":"bell pepper","pinyin":"","vi":"ớt chuông","ex":{"tokens":["Cut","the","bell","pepper","into","strips","."],"py":["","","","","","","."],"vi":"Hãy cắt ớt chuông thành sợi.","alts":[]}},
+   {"id":"y3010-pomegranate","hanzi":"pomegranate","pinyin":"","vi":"quả lựu","ex":{"tokens":["She","opened","a","pomegranate","."],"py":["","","","","."],"vi":"Cô ấy bổ một quả lựu.","alts":[]}},
+   {"id":"y3010-persimmon","hanzi":"persimmon","pinyin":"","vi":"quả hồng","ex":{"tokens":["A","ripe","persimmon","is","very","sweet","."],"py":["","","","","","","."],"vi":"Quả hồng chín rất ngọt.","alts":[]}},
+   {"id":"y3010-lychee","hanzi":"lychee","pinyin":"","vi":"quả vải","ex":{"tokens":["Lychee","season","is","in","June","."],"py":["","","","","","."],"vi":"Mùa vải vào tháng Sáu.","alts":[]}},
+   {"id":"y3010-longan","hanzi":"longan","pinyin":"","vi":"quả nhãn","ex":{"tokens":["Hung","Yen","is","famous","for","longan","."],"py":["","","","","","","."],"vi":"Hưng Yên nổi tiếng về nhãn.","alts":[]}},
+   {"id":"y3010-rambutan","hanzi":"rambutan","pinyin":"","vi":"quả chôm chôm","ex":{"tokens":["The","rambutan","has","a","red","hairy","skin","."],"py":["","","","","","","","."],"vi":"Quả chôm chôm có vỏ đỏ nhiều lông.","alts":[]}},
+   {"id":"y3010-durian","hanzi":"durian","pinyin":"","vi":"sầu riêng","ex":{"tokens":["Many","hotels","do","not","allow","durian","."],"py":["","","","","","","."],"vi":"Nhiều khách sạn không cho mang sầu riêng vào.","alts":[]}},
+   {"id":"y3010-jackfruit","hanzi":"jackfruit","pinyin":"","vi":"quả mít","ex":{"tokens":["Jackfruit","is","sweet","and","sticky","."],"py":["","","","","","."],"vi":"Mít ngọt và dính.","alts":[]}},
+   {"id":"y3010-passion_fruit","hanzi":"passion fruit","pinyin":"","vi":"chanh dây","ex":{"tokens":["I","ordered","passion","fruit","juice","."],"py":["","","","","","."],"vi":"Tôi gọi nước chanh dây.","alts":[]}},
+   {"id":"y3010-dragon_fruit","hanzi":"dragon fruit","pinyin":"","vi":"thanh long","ex":{"tokens":["Dragon","fruit","grows","well","in","Binh","Thuan","."],"py":["","","","","","","","."],"vi":"Thanh long mọc tốt ở Bình Thuận.","alts":[]}},
+   {"id":"y3010-starfruit","hanzi":"starfruit","pinyin":"","vi":"quả khế","ex":{"tokens":["There","is","a","starfruit","tree","in","our","garden","."],"py":["","","","","","","","","."],"vi":"Vườn nhà tôi có một cây khế.","alts":[]}},
+   {"id":"y3010-tamarind","hanzi":"tamarind","pinyin":"","vi":"quả me","ex":{"tokens":["This","candy","is","made","from","tamarind","."],"py":["","","","","","","."],"vi":"Kẹo này làm từ me.","alts":[]}}
+  ]},
+  {"id":"y3011","title":"Rau củ và trái cây 3","desc":"Rau, củ, trái cây nhiệt đới, quả mọng","icon":"Fruit","unit":351,"course":"en","order":2710,"words":[
+   {"id":"y3011-tangerine","hanzi":"tangerine","pinyin":"","vi":"quả quýt","ex":{"tokens":["She","peeled","a","tangerine","for","the","child","."],"py":["","","","","","","","."],"vi":"Cô ấy bóc một quả quýt cho đứa bé.","alts":[]}},
+   {"id":"y3011-grapefruit","hanzi":"grapefruit","pinyin":"","vi":"quả bưởi chùm","ex":{"tokens":["He","eats","half","a","grapefruit","every","morning","."],"py":["","","","","","","","."],"vi":"Sáng nào anh ấy cũng ăn nửa quả bưởi chùm.","alts":[]}},
+   {"id":"y3011-blackberry","hanzi":"blackberry","pinyin":"","vi":"quả mâm xôi đen","ex":{"tokens":["We","picked","a","blackberry","from","the","bush","."],"py":["","","","","","","","."],"vi":"Chúng tôi hái một quả mâm xôi đen từ bụi cây.","alts":[]}},
+   {"id":"y3011-raspberry","hanzi":"raspberry","pinyin":"","vi":"quả mâm xôi đỏ","ex":{"tokens":["She","made","raspberry","jam","."],"py":["","","","","."],"vi":"Cô ấy làm mứt mâm xôi đỏ.","alts":[]}},
+   {"id":"y3011-blueberry","hanzi":"blueberry","pinyin":"","vi":"quả việt quất","ex":{"tokens":["I","had","a","blueberry","muffin","."],"py":["","","","","","."],"vi":"Tôi ăn một chiếc bánh nướng việt quất.","alts":[]}},
+   {"id":"y3011-mulberry","hanzi":"mulberry","pinyin":"","vi":"quả dâu tằm","ex":{"tokens":["Silkworms","eat","mulberry","leaves","."],"py":["","","","","."],"vi":"Tằm ăn lá dâu tằm.","alts":[]}},
+   {"id":"y3011-cantaloupe","hanzi":"cantaloupe","pinyin":"","vi":"dưa lưới","ex":{"tokens":["She","cut","the","cantaloupe","into","slices","."],"py":["","","","","","","."],"vi":"Cô ấy cắt dưa lưới thành lát.","alts":[]}},
+   {"id":"y3011-olive","hanzi":"olive","pinyin":"","vi":"quả ô liu","ex":{"tokens":["I","do","not","like","the","taste","of","olive","oil","."],"py":["","","","","","","","","","."],"vi":"Tôi không thích vị dầu ô liu.","alts":[]}},
+   {"id":"y3011-kidney_bean","hanzi":"kidney bean","pinyin":"","vi":"đậu tây, đậu đỏ tây","ex":{"tokens":["Add","a","can","of","kidney","bean","to","the","chili","."],"py":["","","","","","","","","","."],"vi":"Hãy thêm một hộp đậu tây vào món ớt hầm.","alts":[]}},
+   {"id":"y3011-parsnip","hanzi":"parsnip","pinyin":"","vi":"củ cải vàng","ex":{"tokens":["Roast","the","parsnip","with","honey","."],"py":["","","","","","."],"vi":"Hãy nướng củ cải vàng với mật ong.","alts":[]}},
+   {"id":"y3011-nectarine","hanzi":"nectarine","pinyin":"","vi":"quả xuân đào","ex":{"tokens":["A","nectarine","has","smooth","skin","."],"py":["","","","","","."],"vi":"Quả xuân đào có vỏ nhẵn.","alts":[]}},
+   {"id":"y3011-gooseberry","hanzi":"gooseberry","pinyin":"","vi":"quả lý gai","ex":{"tokens":["She","made","a","pie","with","gooseberry","jam","."],"py":["","","","","","","","."],"vi":"Cô ấy làm bánh với mứt lý gai.","alts":[]}},
+   {"id":"y3011-honeydew","hanzi":"honeydew","pinyin":"","vi":"dưa lê, dưa bở xanh","ex":{"tokens":["We","ate","honeydew","melon","after","dinner","."],"py":["","","","","","","."],"vi":"Chúng tôi ăn dưa lê sau bữa tối.","alts":[]}}
   ]}
  ]
 }

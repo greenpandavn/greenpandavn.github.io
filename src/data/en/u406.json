@@ -3,7 +3,7 @@
   {"unit":406,"level":4,"title":"Phần 30: Danh từ, thành ngữ và cụm từ nâng cao","desc":"Danh từ trừu tượng, thành ngữ, cụm động từ, trạng từ trang trọng","color":"sky","course":"en"}
  ],
  "lessons": [
-  {"id":"q14","title":"Danh từ trừu tượng 1","desc":"Sự mơ hồ, điều bất thường, quyền tự chủ, chất xúc tác","icon":"Idea","unit":406,"course":"en","order":3420,"words":[
+  {"id":"q14","title":"Danh từ trừu tượng 1","desc":"Sự mơ hồ, điều bất thường, quyền tự chủ, chất xúc tác","icon":"Idea","unit":406,"course":"en","order":3490,"words":[
    {"id":"q14-ambiguity","hanzi":"ambiguity","pinyin":"","vi":"sự mơ hồ, tính đa nghĩa","ex":{"tokens":["There","is","some","ambiguity","in","the","contract","."],"py":["","","","","","","","."],"vi":"Có chỗ mơ hồ trong hợp đồng.","alts":[]}},
    {"id":"q14-anomaly","hanzi":"anomaly","pinyin":"","vi":"điều bất thường","ex":{"tokens":["The","test","showed","an","anomaly","in","the","data","."],"py":["","","","","","","","","."],"vi":"Phép thử cho thấy một điểm bất thường trong dữ liệu.","alts":[]}},
    {"id":"q14-apathy","hanzi":"apathy","pinyin":"","vi":"sự thờ ơ","ex":{"tokens":["Voter","apathy","is","a","growing","problem","."],"py":["","","","","","","."],"vi":"Sự thờ ơ của cử tri là một vấn đề ngày càng lớn.","alts":[]}},
@@ -17,7 +17,7 @@
    {"id":"q14-credibility","hanzi":"credibility","pinyin":"","vi":"sự đáng tin cậy, uy tín","ex":{"tokens":["The","scandal","damaged","his","credibility","."],"py":["","","","","","."],"vi":"Vụ bê bối làm tổn hại uy tín của ông ấy.","alts":[]}},
    {"id":"q14-criterion","hanzi":"criterion","pinyin":"","vi":"tiêu chí","ex":{"tokens":["Price","is","the","main","criterion","for","many","buyers","."],"py":["","","","","","","","","."],"vi":"Giá cả là tiêu chí chính với nhiều người mua.","alts":[]}}
   ]},
-  {"id":"q15","title":"Danh từ trừu tượng 2","desc":"Bế tắc, sự chênh lệch, học thuyết, điều bí ẩn, ngụy biện","icon":"Idea","unit":406,"course":"en","order":3430,"words":[
+  {"id":"q15","title":"Danh từ trừu tượng 2","desc":"Bế tắc, sự chênh lệch, học thuyết, điều bí ẩn, ngụy biện","icon":"Idea","unit":406,"course":"en","order":3500,"words":[
    {"id":"q15-deadlock","hanzi":"deadlock","pinyin":"","vi":"sự bế tắc","ex":{"tokens":["The","talks","ended","in","deadlock","."],"py":["","","","","","."],"vi":"Các cuộc đàm phán kết thúc trong bế tắc.","alts":[]}},
    {"id":"q15-demise","hanzi":"demise","pinyin":"","vi":"sự sụp đổ, sự qua đời","ex":{"tokens":["The","internet","led","to","the","demise","of","many","newspapers","."],"py":["","","","","","","","","","."],"vi":"Internet dẫn đến sự sụp đổ của nhiều tờ báo.","alts":[]}},
    {"id":"q15-deterrent","hanzi":"deterrent","pinyin":"","vi":"biện pháp răn đe","ex":{"tokens":["Cameras","act","as","a","deterrent","to","thieves","."],"py":["","","","","","","","."],"vi":"Máy quay có tác dụng răn đe kẻ trộm.","alts":[]}},
@@ -31,7 +31,7 @@
    {"id":"q15-euphemism","hanzi":"euphemism","pinyin":"","vi":"uyển ngữ, cách nói giảm nói tránh","ex":{"tokens":["\"Pass","away\"","is","a","euphemism","for","\"die\"","."],"py":["","","","","","","","."],"vi":"\"Pass away\" là cách nói giảm nói tránh của \"die\".","alts":[]}},
    {"id":"q15-fallacy","hanzi":"fallacy","pinyin":"","vi":"ngụy biện, quan niệm sai","ex":{"tokens":["It","is","a","fallacy","that","money","brings","happiness","."],"py":["","","","","","","","","."],"vi":"Cho rằng tiền mang lại hạnh phúc là một quan niệm sai.","alts":[]}}
   ]},
-  {"id":"q16","title":"Danh từ trừu tượng 3","desc":"Tính khả thi, thất bại ê chề, tầm nhìn xa, quán tính, di sản","icon":"Idea","unit":406,"course":"en","order":3440,"words":[
+  {"id":"q16","title":"Danh từ trừu tượng 3","desc":"Tính khả thi, thất bại ê chề, tầm nhìn xa, quán tính, di sản","icon":"Idea","unit":406,"course":"en","order":3510,"words":[
    {"id":"q16-feasibility","hanzi":"feasibility","pinyin":"","vi":"tính khả thi","ex":{"tokens":["We","are","studying","the","feasibility","of","the","project","."],"py":["","","","","","","","","."],"vi":"Chúng tôi đang nghiên cứu tính khả thi của dự án.","alts":[]}},
    {"id":"q16-fiasco","hanzi":"fiasco","pinyin":"","vi":"thất bại ê chề","ex":{"tokens":["The","party","was","a","complete","fiasco","."],"py":["","","","","","","."],"vi":"Bữa tiệc là một thất bại hoàn toàn.","alts":[]}},
    {"id":"q16-foresight","hanzi":"foresight","pinyin":"","vi":"tầm nhìn xa","ex":{"tokens":["She","had","the","foresight","to","save","money","."],"py":["","","","","","","","."],"vi":"Cô ấy có tầm nhìn xa khi tiết kiệm tiền.","alts":[]}},
@@ -45,7 +45,7 @@
    {"id":"q16-leeway","hanzi":"leeway","pinyin":"","vi":"sự tự do xoay xở, khoảng linh động","ex":{"tokens":["Teachers","have","some","leeway","in","what","they","teach","."],"py":["","","","","","","","","."],"vi":"Giáo viên có một khoảng linh động trong nội dung giảng dạy.","alts":[]}},
    {"id":"q16-legacy","hanzi":"legacy","pinyin":"","vi":"di sản","ex":{"tokens":["The","war","left","a","painful","legacy","."],"py":["","","","","","","."],"vi":"Chiến tranh để lại một di sản đau thương.","alts":[]}}
   ]},
-  {"id":"q17","title":"Danh từ trừu tượng 4","desc":"Đà, sắc thái, cạm bẫy, tiền đề, hệ quả","icon":"Idea","unit":406,"course":"en","order":3450,"words":[
+  {"id":"q17","title":"Danh từ trừu tượng 4","desc":"Đà, sắc thái, cạm bẫy, tiền đề, hệ quả","icon":"Idea","unit":406,"course":"en","order":3520,"words":[
    {"id":"q17-leniency","hanzi":"leniency","pinyin":"","vi":"sự khoan hồng","ex":{"tokens":["The","lawyer","asked","the","court","for","leniency","."],"py":["","","","","","","","."],"vi":"Luật sư xin tòa khoan hồng.","alts":[]}},
    {"id":"q17-momentum","hanzi":"momentum","pinyin":"","vi":"đà, động lượng","ex":{"tokens":["The","campaign","is","gaining","momentum","."],"py":["","","","","","."],"vi":"Chiến dịch đang có thêm đà.","alts":[]}},
    {"id":"q17-notion","hanzi":"notion","pinyin":"","vi":"khái niệm, ý niệm","ex":{"tokens":["I","reject","the","notion","that","age","matters","."],"py":["","","","","","","","."],"vi":"Tôi bác bỏ ý niệm cho rằng tuổi tác là quan trọng.","alts":[]}},
@@ -59,7 +59,7 @@
    {"id":"q17-ramification","hanzi":"ramification","pinyin":"","vi":"hệ quả (phức tạp)","ex":{"tokens":["Nobody","saw","every","ramification","of","the","decision","."],"py":["","","","","","","","."],"vi":"Không ai thấy hết mọi hệ quả của quyết định.","alts":[]}},
    {"id":"q17-rapport","hanzi":"rapport","pinyin":"","vi":"quan hệ hòa hợp, thân thiện","ex":{"tokens":["She","has","a","good","rapport","with","her","students","."],"py":["","","","","","","","","."],"vi":"Cô ấy có quan hệ thân thiện với học sinh.","alts":[]}}
   ]},
-  {"id":"q18","title":"Danh từ trừu tượng 5","desc":"Tàn dư, hậu quả, sự kỳ thị, ngưỡng, biến động","icon":"Idea","unit":406,"course":"en","order":3460,"words":[
+  {"id":"q18","title":"Danh từ trừu tượng 5","desc":"Tàn dư, hậu quả, sự kỳ thị, ngưỡng, biến động","icon":"Idea","unit":406,"course":"en","order":3530,"words":[
    {"id":"q18-remnant","hanzi":"remnant","pinyin":"","vi":"tàn dư, phần còn lại","ex":{"tokens":["The","wall","is","a","remnant","of","the","old","city","."],"py":["","","","","","","","","","."],"vi":"Bức tường là phần còn lại của thành phố cũ.","alts":[]}},
    {"id":"q18-repercussion","hanzi":"repercussion","pinyin":"","vi":"hậu quả, ảnh hưởng dội lại","ex":{"tokens":["The","strike","had","a","serious","repercussion","on","tourism","."],"py":["","","","","","","","","."],"vi":"Cuộc đình công gây hậu quả nghiêm trọng cho du lịch.","alts":[]}},
    {"id":"q18-resurgence","hanzi":"resurgence","pinyin":"","vi":"sự hồi sinh, trỗi dậy","ex":{"tokens":["There","is","a","resurgence","of","interest","in","vinyl","records","."],"py":["","","","","","","","","","."],"vi":"Mối quan tâm đến đĩa than đang trỗi dậy trở lại.","alts":[]}},
@@ -73,7 +73,7 @@
    {"id":"q18-vantage","hanzi":"vantage","pinyin":"","vi":"vị trí thuận lợi (để quan sát)","ex":{"tokens":["From","this","vantage","point","you","can","see","the","whole","bay","."],"py":["","","","","","","","","","","."],"vi":"Từ vị trí thuận lợi này bạn có thể nhìn thấy toàn bộ vịnh.","alts":[]}},
    {"id":"q18-windfall","hanzi":"windfall","pinyin":"","vi":"khoản tiền bất ngờ","ex":{"tokens":["The","tax","cut","was","a","windfall","for","the","firm","."],"py":["","","","","","","","","","."],"vi":"Việc giảm thuế là một khoản lợi bất ngờ cho công ty.","alts":[]}}
   ]},
-  {"id":"q19","title":"Thành ngữ công sở 1","desc":"Phút chót, đúng quy định, vào thẳng vấn đề, kiếm đủ sống","icon":"Idiom","unit":406,"course":"en","order":3470,"words":[
+  {"id":"q19","title":"Thành ngữ công sở 1","desc":"Phút chót, đúng quy định, vào thẳng vấn đề, kiếm đủ sống","icon":"Idiom","unit":406,"course":"en","order":3540,"words":[
    {"id":"q19-a_far_cry_from","hanzi":"a far cry from","pinyin":"","vi":"khác xa so với","ex":{"tokens":["The","hotel","was","a","far","cry","from","the","photos","."],"py":["","","","","","","","","","."],"vi":"Khách sạn khác xa so với trong ảnh.","alts":[]}},
    {"id":"q19-at_the_eleventh_hour","hanzi":"at the eleventh hour","pinyin":"","vi":"vào phút chót","ex":{"tokens":["They","reached","a","deal","at","the","eleventh","hour","."],"py":["","","","","","","","","."],"vi":"Họ đạt được thỏa thuận vào phút chót.","alts":[]}},
    {"id":"q19-bend_over_backwards","hanzi":"bend over backwards","pinyin":"","vi":"cố gắng hết sức (để giúp)","ex":{"tokens":["The","staff","bend","over","backwards","to","help","guests","."],"py":["","","","","","","","","."],"vi":"Nhân viên cố gắng hết sức để giúp khách.","alts":[]}},
@@ -87,7 +87,7 @@
    {"id":"q19-make_ends_meet","hanzi":"make ends meet","pinyin":"","vi":"kiếm đủ sống","ex":{"tokens":["Many","families","struggle","to","make","ends","meet","."],"py":["","","","","","","","."],"vi":"Nhiều gia đình chật vật kiếm đủ sống.","alts":[]}},
    {"id":"q19-miss_the_boat","hanzi":"miss the boat","pinyin":"","vi":"bỏ lỡ cơ hội","ex":{"tokens":["Apply","now","or","you","will","miss","the","boat","."],"py":["","","","","","","","","."],"vi":"Nộp đơn ngay kẻo bạn bỏ lỡ cơ hội.","alts":[]}}
   ]},
-  {"id":"q20","title":"Thành ngữ công sở 2","desc":"Cùng quan điểm, tùy cơ ứng biến, bỏ cuộc, sân chơi bình đẳng","icon":"Idiom","unit":406,"course":"en","order":3480,"words":[
+  {"id":"q20","title":"Thành ngữ công sở 2","desc":"Cùng quan điểm, tùy cơ ứng biến, bỏ cuộc, sân chơi bình đẳng","icon":"Idiom","unit":406,"course":"en","order":3550,"words":[
    {"id":"q20-on_the_same_page","hanzi":"on the same page","pinyin":"","vi":"cùng quan điểm, hiểu giống nhau","ex":{"tokens":["Let","us","make","sure","we","are","on","the","same","page","."],"py":["","","","","","","","","","","."],"vi":"Hãy bảo đảm rằng chúng ta hiểu giống nhau.","alts":[]}},
    {"id":"q20-play_it_by_ear","hanzi":"play it by ear","pinyin":"","vi":"tùy cơ ứng biến","ex":{"tokens":["We","have","no","plan",",","so","we","will","play","it","by","ear","."],"py":["","","","",",","","","","","","","","."],"vi":"Chúng tôi không có kế hoạch nên sẽ tùy cơ ứng biến.","alts":[]}},
    {"id":"q20-raise_the_bar","hanzi":"raise the bar","pinyin":"","vi":"nâng cao tiêu chuẩn","ex":{"tokens":["The","new","phone","will","raise","the","bar","for","design","."],"py":["","","","","","","","","","."],"vi":"Chiếc điện thoại mới sẽ nâng cao tiêu chuẩn thiết kế.","alts":[]}},
@@ -101,7 +101,7 @@
    {"id":"q20-up_in_the_air","hanzi":"up in the air","pinyin":"","vi":"chưa ngã ngũ","ex":{"tokens":["Our","holiday","plans","are","still","up","in","the","air","."],"py":["","","","","","","","","","."],"vi":"Kế hoạch nghỉ lễ của chúng tôi vẫn chưa ngã ngũ.","alts":[]}},
    {"id":"q20-a_level_playing_field","hanzi":"a level playing field","pinyin":"","vi":"sân chơi bình đẳng","ex":{"tokens":["Small","firms","want","a","level","playing","field","."],"py":["","","","","","","","."],"vi":"Các công ty nhỏ muốn có một sân chơi bình đẳng.","alts":[]}}
   ]},
-  {"id":"q21","title":"Động từ đi với giới từ 1","desc":"Tuân theo, ám chỉ, quy cho, phục vụ, dấn thân vào","icon":"Phrase","unit":406,"course":"en","order":3490,"words":[
+  {"id":"q21","title":"Động từ đi với giới từ 1","desc":"Tuân theo, ám chỉ, quy cho, phục vụ, dấn thân vào","icon":"Phrase","unit":406,"course":"en","order":3560,"words":[
    {"id":"q21-abide_by","hanzi":"abide by","pinyin":"","vi":"tuân theo","ex":{"tokens":["All","players","must","abide","by","the","rules","."],"py":["","","","","","","","."],"vi":"Mọi cầu thủ phải tuân theo luật.","alts":[]}},
    {"id":"q21-adhere_to","hanzi":"adhere to","pinyin":"","vi":"tuân thủ, bám sát","ex":{"tokens":["Please","adhere","to","the","safety","guidelines","."],"py":["","","","","","","."],"vi":"Vui lòng tuân thủ hướng dẫn an toàn.","alts":[]}},
    {"id":"q21-allude_to","hanzi":"allude to","pinyin":"","vi":"ám chỉ, nói bóng gió đến","ex":{"tokens":["She","did","not","allude","to","the","problem","."],"py":["","","","","","","","."],"vi":"Cô ấy không hề ám chỉ đến vấn đề.","alts":[]}},
@@ -115,7 +115,7 @@
    {"id":"q21-hinge_on","hanzi":"hinge on","pinyin":"","vi":"phụ thuộc hoàn toàn vào","ex":{"tokens":["The","results","hinge","on","one","vote","."],"py":["","","","","","","."],"vi":"Kết quả phụ thuộc hoàn toàn vào một lá phiếu.","alts":[]}},
    {"id":"q21-impose_on","hanzi":"impose on","pinyin":"","vi":"áp đặt lên; làm phiền","ex":{"tokens":["Do","not","impose","on","others","your","own","beliefs","."],"py":["","","","","","","","","."],"vi":"Đừng áp đặt niềm tin của mình lên người khác.","alts":[]}}
   ]},
-  {"id":"q22","title":"Động từ đi với giới từ 2","desc":"Chọn, kiềm chế, viện đến, bảo đảm cho, phục hồi","icon":"Phrase","unit":406,"course":"en","order":3500,"words":[
+  {"id":"q22","title":"Động từ đi với giới từ 2","desc":"Chọn, kiềm chế, viện đến, bảo đảm cho, phục hồi","icon":"Phrase","unit":406,"course":"en","order":3570,"words":[
    {"id":"q22-opt_for","hanzi":"opt for","pinyin":"","vi":"chọn","ex":{"tokens":["Many","students","opt","for","online","courses","."],"py":["","","","","","","."],"vi":"Nhiều sinh viên chọn các khóa học trực tuyến.","alts":[]}},
    {"id":"q22-pertain_to","hanzi":"pertain to","pinyin":"","vi":"liên quan đến","ex":{"tokens":["These","rules","pertain","to","all","employees","."],"py":["","","","","","","."],"vi":"Các quy định này liên quan đến mọi nhân viên.","alts":[]}},
    {"id":"q22-refrain_from","hanzi":"refrain from","pinyin":"","vi":"kiềm chế, không làm","ex":{"tokens":["Please","refrain","from","smoking","here","."],"py":["","","","","","."],"vi":"Xin vui lòng không hút thuốc ở đây.","alts":[]}},
@@ -129,7 +129,7 @@
    {"id":"q22-fizzle_out","hanzi":"fizzle out","pinyin":"","vi":"tàn dần, xẹp dần","ex":{"tokens":["The","protest","began","to","fizzle","out","after","a","week","."],"py":["","","","","","","","","","."],"vi":"Cuộc biểu tình bắt đầu tàn dần sau một tuần.","alts":[]}},
    {"id":"q22-mull_over","hanzi":"mull over","pinyin":"","vi":"suy nghĩ kỹ, cân nhắc","ex":{"tokens":["I","need","time","to","mull","over","the","offer","."],"py":["","","","","","","","","."],"vi":"Tôi cần thời gian cân nhắc lời đề nghị.","alts":[]}}
   ]},
-  {"id":"q23","title":"Cụm động từ và cụm từ nâng cao","desc":"Thành công, áp dụng dần, gạt bỏ, sàng lọc, mãi mãi","icon":"Phrase","unit":406,"course":"en","order":3510,"words":[
+  {"id":"q23","title":"Cụm động từ và cụm từ nâng cao","desc":"Thành công, áp dụng dần, gạt bỏ, sàng lọc, mãi mãi","icon":"Phrase","unit":406,"course":"en","order":3580,"words":[
    {"id":"q23-pan_out","hanzi":"pan out","pinyin":"","vi":"diễn ra tốt đẹp, thành công","ex":{"tokens":["Let","us","see","how","things","pan","out","."],"py":["","","","","","","","."],"vi":"Hãy xem mọi chuyện diễn ra thế nào.","alts":[]}},
    {"id":"q23-phase_in","hanzi":"phase in","pinyin":"","vi":"áp dụng dần từng bước","ex":{"tokens":["The","city","will","phase","in","the","new","fares","."],"py":["","","","","","","","","."],"vi":"Thành phố sẽ áp dụng dần giá vé mới.","alts":[]}},
    {"id":"q23-rack_up","hanzi":"rack up","pinyin":"","vi":"tích lũy được nhiều","ex":{"tokens":["You","can","rack","up","points","with","every","purchase","."],"py":["","","","","","","","","."],"vi":"Bạn có thể tích lũy điểm mỗi lần mua hàng.","alts":[]}},
@@ -143,7 +143,7 @@
    {"id":"q23-ultimately","hanzi":"ultimately","pinyin":"","vi":"cuối cùng thì, rốt cuộc","ex":{"tokens":["The","choice","is","ultimately","yours","."],"py":["","","","","","."],"vi":"Rốt cuộc lựa chọn là của bạn.","alts":[]}},
    {"id":"q23-substantially","hanzi":"substantially","pinyin":"","vi":"đáng kể, về căn bản","ex":{"tokens":["Prices","have","risen","substantially","."],"py":["","","","","."],"vi":"Giá cả đã tăng đáng kể.","alts":[]}}
   ]},
-  {"id":"q24","title":"Trạng từ trang trọng","desc":"Có thể hình dung, rõ ràng, vốn dĩ, chủ yếu, lần lượt","icon":"Adverb","unit":406,"course":"en","order":3520,"words":[
+  {"id":"q24","title":"Trạng từ trang trọng","desc":"Có thể hình dung, rõ ràng, vốn dĩ, chủ yếu, lần lượt","icon":"Adverb","unit":406,"course":"en","order":3590,"words":[
    {"id":"q24-conceivably","hanzi":"conceivably","pinyin":"","vi":"có thể hình dung được, có lẽ","ex":{"tokens":["The","work","could","conceivably","take","a","year","."],"py":["","","","","","","","."],"vi":"Công việc có lẽ sẽ mất một năm.","alts":[]}},
    {"id":"q24-deliberately","hanzi":"deliberately","pinyin":"","vi":"một cách cố ý","ex":{"tokens":["He","deliberately","ignored","my","question","."],"py":["","","","","","."],"vi":"Anh ta cố ý phớt lờ câu hỏi của tôi.","alts":[]}},
    {"id":"q24-explicitly","hanzi":"explicitly","pinyin":"","vi":"một cách rõ ràng, dứt khoát","ex":{"tokens":["The","contract","explicitly","forbids","it","."],"py":["","","","","","."],"vi":"Hợp đồng cấm rõ điều đó.","alts":[]}},
@@ -157,7 +157,7 @@
    {"id":"q24-purportedly","hanzi":"purportedly","pinyin":"","vi":"được cho là, nghe nói là","ex":{"tokens":["The","letter","was","purportedly","written","by","the","king","."],"py":["","","","","","","","","."],"vi":"Bức thư được cho là do nhà vua viết.","alts":[]}},
    {"id":"q24-respectively","hanzi":"respectively","pinyin":"","vi":"lần lượt, theo thứ tự","ex":{"tokens":["Lan","and","Nam","are","ten","and","twelve","respectively","."],"py":["","","","","","","","","."],"vi":"Lan và Nam lần lượt mười và mười hai tuổi.","alts":[]}}
   ]},
-  {"id":"q25","title":"Danh từ sắc thái","desc":"Sự giàu có, lòng trung thành, chuẩn mực, điểm cốt lõi, trách nhiệm","icon":"Noun","unit":406,"course":"en","order":3530,"words":[
+  {"id":"q25","title":"Danh từ sắc thái","desc":"Sự giàu có, lòng trung thành, chuẩn mực, điểm cốt lõi, trách nhiệm","icon":"Noun","unit":406,"course":"en","order":3600,"words":[
    {"id":"q25-affluence","hanzi":"affluence","pinyin":"","vi":"sự giàu có, sung túc","ex":{"tokens":["The","town","shows","signs","of","growing","affluence","."],"py":["","","","","","","","."],"vi":"Thị trấn có dấu hiệu ngày càng sung túc.","alts":[]}},
    {"id":"q25-allegiance","hanzi":"allegiance","pinyin":"","vi":"lòng trung thành","ex":{"tokens":["The","soldiers","swore","allegiance","to","the","country","."],"py":["","","","","","","","."],"vi":"Những người lính thề trung thành với đất nước.","alts":[]}},
    {"id":"q25-ambivalence","hanzi":"ambivalence","pinyin":"","vi":"tâm trạng nước đôi, mâu thuẫn","ex":{"tokens":["She","feels","some","ambivalence","about","moving","abroad","."],"py":["","","","","","","","."],"vi":"Cô ấy có tâm trạng mâu thuẫn về việc ra nước ngoài.","alts":[]}},
@@ -171,7 +171,7 @@
    {"id":"q25-onus","hanzi":"onus","pinyin":"","vi":"trách nhiệm, nghĩa vụ","ex":{"tokens":["The","onus","is","on","you","to","prove","it","."],"py":["","","","","","","","","."],"vi":"Trách nhiệm chứng minh thuộc về bạn.","alts":[]}},
    {"id":"q25-overhaul","hanzi":"overhaul","pinyin":"","vi":"cuộc đại tu; đại tu","ex":{"tokens":["The","tax","system","needs","a","complete","overhaul","."],"py":["","","","","","","","."],"vi":"Hệ thống thuế cần được đại tu toàn diện.","alts":[]}}
   ]},
-  {"id":"q26","title":"Đời sống số và giải trí","desc":"An ninh mạng, mã hóa, máy chủ, nhạc phim, xổ số","icon":"Digital","unit":406,"course":"en","order":3540,"words":[
+  {"id":"q26","title":"Đời sống số và giải trí","desc":"An ninh mạng, mã hóa, máy chủ, nhạc phim, xổ số","icon":"Digital","unit":406,"course":"en","order":3610,"words":[
    {"id":"q26-cybersecurity","hanzi":"cybersecurity","pinyin":"","vi":"an ninh mạng","ex":{"tokens":["The","bank","invests","heavily","in","cybersecurity","."],"py":["","","","","","","."],"vi":"Ngân hàng đầu tư mạnh vào an ninh mạng.","alts":[]}},
    {"id":"q26-encryption","hanzi":"encryption","pinyin":"","vi":"sự mã hóa","ex":{"tokens":["Encryption","keeps","your","messages","private","."],"py":["","","","","","."],"vi":"Mã hóa giữ cho tin nhắn của bạn được riêng tư.","alts":[]}},
    {"id":"q26-server","hanzi":"server","pinyin":"","vi":"máy chủ","ex":{"tokens":["The","website","went","down","when","the","server","crashed","."],"py":["","","","","","","","","."],"vi":"Trang web ngừng hoạt động khi máy chủ gặp sự cố.","alts":[]}},
@@ -185,7 +185,7 @@
    {"id":"q26-jackpot","hanzi":"jackpot","pinyin":"","vi":"giải độc đắc","ex":{"tokens":["Nobody","won","the","jackpot","this","month","."],"py":["","","","","","","."],"vi":"Tháng này không ai trúng giải độc đắc.","alts":[]}},
    {"id":"q26-gamble","hanzi":"gamble","pinyin":"","vi":"đánh bạc, đánh liều","ex":{"tokens":["It","is","unwise","to","gamble","with","your","savings","."],"py":["","","","","","","","","."],"vi":"Đánh liều với tiền tiết kiệm của mình là thiếu khôn ngoan.","alts":[]}}
   ]},
-  {"id":"q27","title":"Cử động và thao tác","desc":"Vấp, rắc, ướp, nhào bột, vẽ nguệch ngoạc","icon":"Move","unit":406,"course":"en","order":3550,"words":[
+  {"id":"q27","title":"Cử động và thao tác","desc":"Vấp, rắc, ướp, nhào bột, vẽ nguệch ngoạc","icon":"Move","unit":406,"course":"en","order":3620,"words":[
    {"id":"q27-stumble","hanzi":"stumble","pinyin":"","vi":"vấp, loạng choạng","ex":{"tokens":["Be","careful","not","to","stumble","on","the","stairs","."],"py":["","","","","","","","","."],"vi":"Cẩn thận kẻo vấp ở cầu thang.","alts":[]}},
    {"id":"q27-tumble","hanzi":"tumble","pinyin":"","vi":"ngã nhào","ex":{"tokens":["Prices","began","to","tumble","after","the","news","."],"py":["","","","","","","","."],"vi":"Giá cả bắt đầu lao dốc sau tin tức đó.","alts":[]}},
    {"id":"q27-sprinkle","hanzi":"sprinkle","pinyin":"","vi":"rắc","ex":{"tokens":["Sprinkle","some","salt","over","the","salad","."],"py":["","","","","","","."],"vi":"Hãy rắc một ít muối lên món rau trộn.","alts":[]}},
