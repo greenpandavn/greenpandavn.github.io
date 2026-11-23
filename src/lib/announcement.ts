@@ -13,10 +13,10 @@ export const DEFAULT_ANNOUNCEMENT: Announcement = {
   version: APP_VERSION,
   title: `GreenPanda v${APP_VERSION} có gì mới?`,
   body: [
-    '- Thư viện bài thi tiếng Anh mở rộng: thêm TOEIC 2 và TOEIC 3 (mỗi đề 200 câu), bài kiểm tra ngắn 20 câu cho Phần 1–3 và bài kiểm tra trình độ đầu vào (A1–C1).',
-    '- Thêm phần Luyện nghe tiếng Anh (25 bài nghe ngắn) và 5 bộ đề theo cấp độ CEFR A1–C1.',
-    '- Từ vựng tiếng Anh đã vượt mốc 5.000 từ.',
-    '- Tất cả nằm trong mục “Thi thử tiếng Anh” ở trang Học.',
+    '- Hai khóa học mới: tiếng Hàn (TOPIK 1–2) và tiếng Nhật (JLPT N5–N4), mỗi khóa 30 bài học, 360 từ có phiên âm, nghĩa tiếng Việt, câu ví dụ và giọng đọc.',
+    '- Cả hai khóa đều có ôn tập, trò chơi “Đúng hay Sai” và thi thử TOPIK / JLPT. Chọn khóa ở biểu tượng khóa học phía trên.',
+    '- Điểm XP của cả bốn khóa được cộng chung trên bảng xếp hạng.',
+    '- Tiếng Anh: thêm TOEIC 2–3, đề CEFR A1–C1, kiểm tra trình độ, luyện nghe và hơn 5.000 từ.',
   ].join('\n'),
   updatedAt: 0,
 };

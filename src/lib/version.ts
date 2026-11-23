@@ -1,2 +1,2 @@
-export const APP_VERSION = "5.2.9";
+export const APP_VERSION = "5.3.0";
 export const VERSION_LABEL = `GreenPanda v${APP_VERSION}`;

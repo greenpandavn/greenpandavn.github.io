@@ -124,7 +124,7 @@ export const COURSES: {
 ];
 /** Name of the language of a course, e.g. "tiếng Hàn". */
 export const langName = (c: CourseId = course) =>
-  COURSES.find((x) => x.id === c)!.label.toLowerCase();
+  COURSES.find((x) => x.id === c)!.label.replace(/^T/, "t");
 const COURSE_KEY = "gp-course";
 function storedCourse(): CourseId | null {
   try {

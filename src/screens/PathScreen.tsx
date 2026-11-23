@@ -1,7 +1,6 @@
 import { useAccount, visibleCerts } from '../lib/account';
 import { useEffect, useRef, useState } from 'react';
 import { CORE_LESSONS, LESSONS, UNITS, getCourse, isEnglish, isRoman, levelLabel, loadUnits, useContentVersion } from '../data';
-import { mockName } from '../lib/mock';
 import { CourseCards } from '../components/CoursePicker';
 import { currentLessonId, isDone as lessonDone, isTestUnlocked, isUnlocked as lessonUnlocked } from '../lib/unlock';
 import type { Lesson } from '../types';
@@ -74,7 +73,7 @@ export default function PathScreen({ onStart, onTest, onMock, onGame }: { onStar
             <Trophy size={26} />
           </span>
           <span className="min-w-0 flex-1">
-            <span className="block font-black text-ink-700">{mockName(getCourse())}</span>
+            <span className="block font-black text-ink-700">{{ zh: 'Thi thử HSK', en: 'Thi thử tiếng Anh', ko: 'Thi thử TOPIK', ja: 'Thi thử JLPT' }[getCourse()]}</span>
             <span className="block text-xs font-bold text-ink-400">Đề dài, tính giờ như thi thật · không bắt buộc</span>
           </span>
           <span className="text-xl font-black text-ink-300" aria-hidden>

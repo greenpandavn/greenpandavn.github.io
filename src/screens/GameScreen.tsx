@@ -1,6 +1,7 @@
 import { useEffect, useMemo, useRef, useState } from "react";
 import {
   COURSES,
+  langName,
   LESSONS,
   getCourse,
   levelLabel,
@@ -78,7 +79,7 @@ export default function GameScreen({ onClose }: { onClose: () => void }) {
           onClick={() => setCourse(other.id)}
           data-testid="game-switch"
         >
-          Chơi {other.label.toLowerCase()}
+          Chơi {langName(other.id)}
         </button>
       </div>
       <DataGate units={scope.units}>

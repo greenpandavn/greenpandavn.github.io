@@ -161,7 +161,7 @@ describe("per-course progress", () => {
     expect(store.getProgress().xp).toBe(30);
     expect(Object.keys(store.getProgress().lessons)).toEqual(["l01"]);
     expect(store.getProgress().gems).toBe(gems + 3);
-    expect(store.xpByCourse()).toEqual({ zh: 30, en: 12, total: 42 });
+    expect(store.xpByCourse()).toEqual({ zh: 30, en: 12, ko: 0, ja: 0, total: 42 });
 
     // stored form: Chinese at the top level (readable by v2), English under `en`
     const saved = JSON.parse(mem.get(store.GUEST_KEY)!);
