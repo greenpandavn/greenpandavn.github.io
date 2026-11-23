@@ -88,6 +88,10 @@ export function levelWordCount(level: number, c: CourseId = course) {
   return META[c].lessons.reduce((n, l) => n + (units.has(l[3]) ? l[4] : 0), 0);
 }
 
+/** Number of bundled words of a whole course (known without downloading it). */
+export const courseWordCount = (c: CourseId) =>
+  META[c].lessons.reduce((n, l) => n + l[4], 0);
+
 export const COURSES: {
   id: CourseId;
   label: string;

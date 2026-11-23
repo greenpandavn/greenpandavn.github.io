@@ -1,4 +1,4 @@
-import { COURSES, getCourse, setCourse, useContentVersion } from '../data';
+import { COURSES, courseWordCount, getCourse, setCourse, useContentVersion } from '../data';
 import { xpByCourse, useProgress } from '../lib/store';
 import Panda from './Panda';
 import Footer from './Footer';
@@ -17,6 +17,7 @@ export function CourseCards({ compact = false, highlight = true }: { compact?: b
     <div className={compact ? 'grid grid-cols-2 gap-2' : 'flex flex-col gap-3'} data-testid="course-picker">
       {COURSES.map((c) => {
         const active = highlight && c.id === cur;
+        const words = courseWordCount(c.id).toLocaleString('vi-VN');
         return (
           <button
             key={c.id}
@@ -32,7 +33,7 @@ export function CourseCards({ compact = false, highlight = true }: { compact?: b
             >
               {c.glyph}
             </span>
-            <span className="min-w-0">
+            <span className="min-w-0" data-testid={`course-words-${c.id}`} data-words={courseWordCount(c.id)}>
               <span className={`block font-black text-ink-700 ${compact ? 'text-[15px] leading-tight' : 'text-lg'}`}>
                 {c.label}
                 {firebaseConfigured && vipCourse(c.id) && (
@@ -41,7 +42,8 @@ export function CourseCards({ compact = false, highlight = true }: { compact?: b
                   </span>
                 )}
               </span>
-              <span className="block text-xs font-bold text-ink-400">{compact ? `${xp[c.id]} XP` : c.desc}</span>
+              <span className="block text-xs font-bold text-ink-400">{compact ? `${words} từ · ${xp[c.id]} XP` : c.desc}</span>
+              {!compact && <span className="block text-xs font-extrabold text-ink-500">{words} từ</span>}
             </span>
           </button>
         );

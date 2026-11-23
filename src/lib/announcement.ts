@@ -13,11 +13,11 @@ export const DEFAULT_ANNOUNCEMENT: Announcement = {
   version: APP_VERSION,
   title: `GreenPanda v${APP_VERSION} có gì mới?`,
   body: [
-    '- Trò chơi tiếng Hàn / tiếng Nhật: ghi rõ dòng bên dưới là phiên âm hay nghĩa cần bạn xét đúng–sai.',
-    '- Bảng xếp hạng: hiện chữ “Đang tải” thay cho khung trống, giữ danh sách khi làm mới.',
-    '- Tiếng Anh: đánh số Phần liên tục 1–33, đặt lại tên các bài trùng tên, thay 7 từ gần trùng (tổng vẫn 5.003 từ).',
-    '- TOEIC Part 1–2: thêm hướng dẫn và nút “Hiện chữ đáp án” khi không nghe được.',
-    '- Mới ở bản 5.3.0: khóa tiếng Hàn (TOPIK 1–2) và tiếng Nhật (JLPT N5–N4).',
+    '- Tiếng Hàn mở rộng lên TOPIK 1–6: 90 bài / 1.080 từ, thêm thi thử TOPIK 3–6.',
+    '- Tiếng Nhật mở rộng lên JLPT N5–N1: 75 bài / 900 từ, thêm thi thử JLPT N3–N1.',
+    '- Tiếng Anh: thêm 4.835 từ mới trong 364 bài, tổng 9.838 từ / 780 bài.',
+    '- Tài khoản VIP: tiếng Hàn, tiếng Nhật, tiếng Anh từ Nâng cao và tiếng Trung từ HSK 6 dành cho tài khoản VIP. Liên hệ admin để kích hoạt.',
+    '- Thẻ khóa học hiện tổng số từ thật của từng khóa.',
   ].join('\n'),
   updatedAt: 0,
 };
