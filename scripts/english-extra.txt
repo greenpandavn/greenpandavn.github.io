@@ -309,7 +309,7 @@ dresser|tủ ngăn kéo có gương|Her jewelry is on the dresser.|Trang sức c
 chest of drawers|tủ ngăn kéo|My socks are in the chest of drawers.|Tất của tôi ở trong tủ ngăn kéo.
 nightstand|tủ đầu giường|My phone is on the nightstand.|Điện thoại của tôi ở trên tủ đầu giường.
 
-%353|3|Phần 3: Mở rộng – Đồ đạc trong nhà|Đồ đạc trong nhà, Dụng cụ và vật liệu, Xe hơi và lái xe|grape
+%353|3|Phần 3: Mở rộng – Đồ đạc trong nhà|Đồ đạc trong nhà, Dụng cụ và vật liệu, Xe hơi và lái xe, Từ vựng tổng hợp|grape
 @y3041|Đồ đạc trong nhà 2|Bàn ghế, giường tủ, đồ dọn dẹp|Furniture
 bookcase|tủ sách|The bookcase is full of novels.|Tủ sách đầy tiểu thuyết.
 sideboard|tủ búp phê|The plates are kept in the sideboard.|Đĩa được cất trong tủ búp phê.
@@ -405,6 +405,21 @@ underpass|đường hầm chui|Walk through the underpass to cross the road.|Hã
 toll booth|trạm thu phí|There is a toll booth before the bridge.|Có một trạm thu phí trước cây cầu.
 speed bump|gờ giảm tốc|Slow down for the speed bump.|Hãy giảm tốc ở gờ giảm tốc.
 pothole|ổ gà|The car hit a pothole.|Chiếc xe đâm vào ổ gà.
+
+@y3047|Từ vựng tổng hợp|Từ thuộc nhiều chủ đề|Mix
+candlestick|chân nến|There is a silver candlestick on the table.|Có một chiếc chân nến bạc trên bàn.
+ornament|đồ trang trí|She hung an ornament on the tree.|Cô ấy treo một món đồ trang trí lên cây.
+picture frame|khung ảnh|The photo is in a wooden picture frame.|Bức ảnh nằm trong khung gỗ.
+ottoman|ghế đôn bọc nệm|She keeps blankets inside the ottoman.|Cô ấy cất chăn bên trong ghế đôn.
+scrubber|miếng cọ rửa|Clean the pan with a scrubber.|Hãy cọ chảo bằng miếng cọ rửa.
+feather duster|chổi lông gà|She cleaned the shelves with a feather duster.|Cô ấy lau kệ bằng chổi lông gà.
+curb|lề đường, mép vỉa hè|He parked next to the curb.|Anh ấy đỗ xe sát lề đường.
+pedestrian crossing|vạch sang đường cho người đi bộ|Stop at the pedestrian crossing.|Hãy dừng lại ở vạch sang đường.
+fender|tấm chắn bùn|The fender was bent in the accident.|Tấm chắn bùn bị móp trong vụ tai nạn.
+muffler|ống giảm thanh; khăn quàng|The car needs a new muffler.|Chiếc xe cần ống giảm thanh mới.
+hubcap|ốp bánh xe|A hubcap rolled across the road.|Một chiếc ốp bánh xe lăn ngang đường.
+odometer|đồng hồ đo quãng đường|The odometer shows fifty thousand kilometers.|Đồng hồ đo quãng đường chỉ năm mươi nghìn cây số.
+tailgate|bám sát đuôi xe; cửa hậu|Do not tailgate the car in front.|Đừng bám sát đuôi xe phía trước.
 
 %551|5|Phần 1: Mở rộng – Giải phẫu cơ thể|Giải phẫu cơ thể, Bệnh lý, Thủ thuật và thiết bị y khoa, Thực vật học, Động vật học|leaf
 @y5001|Giải phẫu cơ thể 1|Xương, nội tạng, các phần trên cơ thể|Anatomy

@@ -11,7 +11,18 @@ const dir = path.dirname(fileURLToPath(import.meta.url));
 const seen = existing();
 const norm = (s) => s.toLowerCase().replace(/[^a-z0-9' ]/g, ' ').replace(/\s+/g, ' ').trim();
 const levels = new Map();
+const spare = new Map();
 let dropped = 0;
+const cut = (t, words) => {
+  const k = Math.floor(words.length / 12);
+  const lessons = levels.get(t.level) ?? [];
+  levels.set(t.level, lessons);
+  for (let i = 0, at = 0; i < k; i++) {
+    const size = Math.floor(words.length / k) + (i < words.length % k ? 1 : 0);
+    lessons.push({ ...t, title: k > 1 ? `${t.title} ${i + 1}` : t.title, words: words.slice(at, at + size) });
+    at += size;
+  }
+};
 const problems = [];
 for (const t of pool()) {
   const words = [];
@@ -34,18 +45,18 @@ for (const t of pool()) {
     problems.push(`${t.where}: theme "${t.title}" has only ${words.length} new words`);
     continue;
   }
-  if (words.length > 14 * k) {
-    console.warn(`${t.where}: "${t.title}" keeps ${14 * k} of ${words.length} words`);
+  // Words beyond 14 per lesson move to the mixed lessons at the end of the level.
+  if (words.length > 14 * k) spare.set(t.level, [...(spare.get(t.level) ?? []), ...words.splice(14 * k)]);
+  cut(t, words);
+}
+for (const [level, words] of spare) {
+  const k = Math.floor(words.length / 12);
+  if (!k || words.length > 14 * k) {
+    console.warn(`level ${level}: ${words.length} spare words do not fill whole lessons, ${words.length - 14 * k} dropped`);
     dropped += words.length - 14 * k;
     words.length = 14 * k;
   }
-  const lessons = levels.get(t.level) ?? [];
-  levels.set(t.level, lessons);
-  for (let i = 0, at = 0; i < k; i++) {
-    const size = Math.floor(words.length / k) + (i < words.length % k ? 1 : 0);
-    lessons.push({ ...t, title: k > 1 ? `${t.title} ${i + 1}` : t.title, words: words.slice(at, at + size) });
-    at += size;
-  }
+  if (k) cut({ level, title: 'Từ vựng tổng hợp', desc: 'Từ thuộc nhiều chủ đề', icon: 'Mix' }, words);
 }
 if (problems.length) {
   console.error(problems.join('\n'));

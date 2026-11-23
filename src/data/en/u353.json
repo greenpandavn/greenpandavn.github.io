@@ -1,6 +1,6 @@
 {
  "units": [
-  {"unit":353,"level":3,"title":"Phần 26: Mở rộng – Đồ đạc trong nhà","desc":"Đồ đạc trong nhà, Dụng cụ và vật liệu, Xe hơi và lái xe","color":"grape","course":"en"}
+  {"unit":353,"level":3,"title":"Phần 26: Mở rộng – Đồ đạc trong nhà","desc":"Đồ đạc trong nhà, Dụng cụ và vật liệu, Xe hơi và lái xe, Từ vựng tổng hợp","color":"grape","course":"en"}
  ],
  "lessons": [
   {"id":"y3041","title":"Đồ đạc trong nhà 3","desc":"Bàn ghế, giường tủ, đồ dọn dẹp","icon":"Furniture","unit":353,"course":"en","order":2810,"words":[
@@ -98,6 +98,21 @@
    {"id":"y3046-toll_booth","hanzi":"toll booth","pinyin":"","vi":"trạm thu phí","ex":{"tokens":["There","is","a","toll","booth","before","the","bridge","."],"py":["","","","","","","","","."],"vi":"Có một trạm thu phí trước cây cầu.","alts":[]}},
    {"id":"y3046-speed_bump","hanzi":"speed bump","pinyin":"","vi":"gờ giảm tốc","ex":{"tokens":["Slow","down","for","the","speed","bump","."],"py":["","","","","","","."],"vi":"Hãy giảm tốc ở gờ giảm tốc.","alts":[]}},
    {"id":"y3046-pothole","hanzi":"pothole","pinyin":"","vi":"ổ gà","ex":{"tokens":["The","car","hit","a","pothole","."],"py":["","","","","","."],"vi":"Chiếc xe đâm vào ổ gà.","alts":[]}}
+  ]},
+  {"id":"y3047","title":"Từ vựng tổng hợp","desc":"Từ thuộc nhiều chủ đề","icon":"Mix","unit":353,"course":"en","order":2870,"words":[
+   {"id":"y3047-candlestick","hanzi":"candlestick","pinyin":"","vi":"chân nến","ex":{"tokens":["There","is","a","silver","candlestick","on","the","table","."],"py":["","","","","","","","","."],"vi":"Có một chiếc chân nến bạc trên bàn.","alts":[]}},
+   {"id":"y3047-ornament","hanzi":"ornament","pinyin":"","vi":"đồ trang trí","ex":{"tokens":["She","hung","an","ornament","on","the","tree","."],"py":["","","","","","","","."],"vi":"Cô ấy treo một món đồ trang trí lên cây.","alts":[]}},
+   {"id":"y3047-picture_frame","hanzi":"picture frame","pinyin":"","vi":"khung ảnh","ex":{"tokens":["The","photo","is","in","a","wooden","picture","frame","."],"py":["","","","","","","","","."],"vi":"Bức ảnh nằm trong khung gỗ.","alts":[]}},
+   {"id":"y3047-ottoman","hanzi":"ottoman","pinyin":"","vi":"ghế đôn bọc nệm","ex":{"tokens":["She","keeps","blankets","inside","the","ottoman","."],"py":["","","","","","","."],"vi":"Cô ấy cất chăn bên trong ghế đôn.","alts":[]}},
+   {"id":"y3047-scrubber","hanzi":"scrubber","pinyin":"","vi":"miếng cọ rửa","ex":{"tokens":["Clean","the","pan","with","a","scrubber","."],"py":["","","","","","","."],"vi":"Hãy cọ chảo bằng miếng cọ rửa.","alts":[]}},
+   {"id":"y3047-feather_duster","hanzi":"feather duster","pinyin":"","vi":"chổi lông gà","ex":{"tokens":["She","cleaned","the","shelves","with","a","feather","duster","."],"py":["","","","","","","","","."],"vi":"Cô ấy lau kệ bằng chổi lông gà.","alts":[]}},
+   {"id":"y3047-curb","hanzi":"curb","pinyin":"","vi":"lề đường, mép vỉa hè","ex":{"tokens":["He","parked","next","to","the","curb","."],"py":["","","","","","","."],"vi":"Anh ấy đỗ xe sát lề đường.","alts":[]}},
+   {"id":"y3047-pedestrian_crossing","hanzi":"pedestrian crossing","pinyin":"","vi":"vạch sang đường cho người đi bộ","ex":{"tokens":["Stop","at","the","pedestrian","crossing","."],"py":["","","","","","."],"vi":"Hãy dừng lại ở vạch sang đường.","alts":[]}},
+   {"id":"y3047-fender","hanzi":"fender","pinyin":"","vi":"tấm chắn bùn","ex":{"tokens":["The","fender","was","bent","in","the","accident","."],"py":["","","","","","","","."],"vi":"Tấm chắn bùn bị móp trong vụ tai nạn.","alts":[]}},
+   {"id":"y3047-muffler","hanzi":"muffler","pinyin":"","vi":"ống giảm thanh; khăn quàng","ex":{"tokens":["The","car","needs","a","new","muffler","."],"py":["","","","","","","."],"vi":"Chiếc xe cần ống giảm thanh mới.","alts":[]}},
+   {"id":"y3047-hubcap","hanzi":"hubcap","pinyin":"","vi":"ốp bánh xe","ex":{"tokens":["A","hubcap","rolled","across","the","road","."],"py":["","","","","","","."],"vi":"Một chiếc ốp bánh xe lăn ngang đường.","alts":[]}},
+   {"id":"y3047-odometer","hanzi":"odometer","pinyin":"","vi":"đồng hồ đo quãng đường","ex":{"tokens":["The","odometer","shows","fifty","thousand","kilometers","."],"py":["","","","","","","."],"vi":"Đồng hồ đo quãng đường chỉ năm mươi nghìn cây số.","alts":[]}},
+   {"id":"y3047-tailgate","hanzi":"tailgate","pinyin":"","vi":"bám sát đuôi xe; cửa hậu","ex":{"tokens":["Do","not","tailgate","the","car","in","front","."],"py":["","","","","","","","."],"vi":"Đừng bám sát đuôi xe phía trước.","alts":[]}}
   ]}
  ]
 }
