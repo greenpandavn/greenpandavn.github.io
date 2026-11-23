@@ -1,9 +1,9 @@
 {
  "units": [
-  {"unit":352,"level":3,"title":"Phần 25: Mở rộng – Rau củ và trái cây","desc":"Rau củ và trái cây, Trang phục và phụ kiện, Vải và may vá, Các phần của ngôi nhà, Đồ đạc trong nhà","color":"sky","course":"en"}
+  {"unit":352,"level":3,"title":"Phần 27: Mở rộng – Rau củ và trái cây","desc":"Rau củ và trái cây, Trang phục và phụ kiện, Vải và may vá, Các phần của ngôi nhà, Đồ đạc trong nhà","color":"sky","course":"en"}
  ],
  "lessons": [
-  {"id":"y3021","title":"Rau củ và trái cây 3","desc":"Rau, củ, trái cây nhiệt đới, quả mọng","icon":"Fruit","unit":352,"course":"en","order":2710,"words":[
+  {"id":"y3021","title":"Rau củ và trái cây 3","desc":"Rau, củ, trái cây nhiệt đới, quả mọng","icon":"Fruit","unit":352,"course":"en","order":2810,"words":[
    {"id":"y3021-tangerine","hanzi":"tangerine","pinyin":"","vi":"quả quýt","ex":{"tokens":["She","peeled","a","tangerine","for","the","child","."],"py":["","","","","","","","."],"vi":"Cô ấy bóc một quả quýt cho đứa bé.","alts":[]}},
    {"id":"y3021-grapefruit","hanzi":"grapefruit","pinyin":"","vi":"quả bưởi chùm","ex":{"tokens":["He","eats","half","a","grapefruit","every","morning","."],"py":["","","","","","","","."],"vi":"Sáng nào anh ấy cũng ăn nửa quả bưởi chùm.","alts":[]}},
    {"id":"y3021-blackberry","hanzi":"blackberry","pinyin":"","vi":"quả mâm xôi đen","ex":{"tokens":["We","picked","a","blackberry","from","the","bush","."],"py":["","","","","","","","."],"vi":"Chúng tôi hái một quả mâm xôi đen từ bụi cây.","alts":[]}},
@@ -18,7 +18,7 @@
    {"id":"y3021-gooseberry","hanzi":"gooseberry","pinyin":"","vi":"quả lý gai","ex":{"tokens":["She","made","a","pie","with","gooseberry","jam","."],"py":["","","","","","","","."],"vi":"Cô ấy làm bánh với mứt lý gai.","alts":[]}},
    {"id":"y3021-honeydew","hanzi":"honeydew","pinyin":"","vi":"dưa lê, dưa bở xanh","ex":{"tokens":["We","ate","honeydew","melon","after","dinner","."],"py":["","","","","","","."],"vi":"Chúng tôi ăn dưa lê sau bữa tối.","alts":[]}}
   ]},
-  {"id":"y3022","title":"Trang phục và phụ kiện 1","desc":"Kiểu áo quần, giày dép, trang sức","icon":"Clothes","unit":352,"course":"en","order":2720,"words":[
+  {"id":"y3022","title":"Trang phục và phụ kiện 1","desc":"Kiểu áo quần, giày dép, trang sức","icon":"Clothes","unit":352,"course":"en","order":2820,"words":[
    {"id":"y3022-lining","hanzi":"lining","pinyin":"","vi":"lớp vải lót","ex":{"tokens":["The","coat","has","a","warm","lining","."],"py":["","","","","","","."],"vi":"Chiếc áo khoác có lớp lót ấm.","alts":[]}},
    {"id":"y3022-ribbon","hanzi":"ribbon","pinyin":"","vi":"dải ruy băng","ex":{"tokens":["She","tied","a","ribbon","in","her","hair","."],"py":["","","","","","","","."],"vi":"Cô ấy buộc một dải ruy băng lên tóc.","alts":[]}},
    {"id":"y3022-fringe","hanzi":"fringe","pinyin":"","vi":"tua rua; tóc mái","ex":{"tokens":["The","scarf","has","a","long","fringe","."],"py":["","","","","","","."],"vi":"Chiếc khăn có tua rua dài.","alts":[]}},
@@ -33,7 +33,7 @@
    {"id":"y3022-jumpsuit","hanzi":"jumpsuit","pinyin":"","vi":"bộ áo liền quần","ex":{"tokens":["The","pilot","wore","an","orange","jumpsuit","."],"py":["","","","","","","."],"vi":"Phi công mặc bộ áo liền quần màu cam.","alts":[]}},
    {"id":"y3022-stockings","hanzi":"stockings","pinyin":"","vi":"tất dài (nữ)","ex":{"tokens":["She","bought","a","pair","of","black","stockings","."],"py":["","","","","","","","."],"vi":"Cô ấy mua một đôi tất dài màu đen.","alts":[]}}
   ]},
-  {"id":"y3023","title":"Trang phục và phụ kiện 2","desc":"Kiểu áo quần, giày dép, trang sức","icon":"Clothes","unit":352,"course":"en","order":2730,"words":[
+  {"id":"y3023","title":"Trang phục và phụ kiện 2","desc":"Kiểu áo quần, giày dép, trang sức","icon":"Clothes","unit":352,"course":"en","order":2830,"words":[
    {"id":"y3023-nightgown","hanzi":"nightgown","pinyin":"","vi":"váy ngủ","ex":{"tokens":["The","girl","wore","a","pink","nightgown","."],"py":["","","","","","","."],"vi":"Cô bé mặc váy ngủ màu hồng.","alts":[]}},
    {"id":"y3023-bathrobe","hanzi":"bathrobe","pinyin":"","vi":"áo choàng tắm","ex":{"tokens":["The","hotel","gave","us","a","soft","bathrobe","."],"py":["","","","","","","","."],"vi":"Khách sạn cho chúng tôi áo choàng tắm mềm.","alts":[]}},
    {"id":"y3023-flip_flops","hanzi":"flip-flops","pinyin":"","vi":"dép xỏ ngón, dép tông","ex":{"tokens":["I","wear","flip-flops","on","the","beach","."],"py":["","","","","","","."],"vi":"Tôi đi dép tông trên bãi biển.","alts":[]}},
@@ -48,7 +48,7 @@
    {"id":"y3023-beanie","hanzi":"beanie","pinyin":"","vi":"mũ len ôm đầu","ex":{"tokens":["He","pulled","his","beanie","over","his","ears","."],"py":["","","","","","","","."],"vi":"Anh ấy kéo mũ len che tai.","alts":[]}},
    {"id":"y3023-visor","hanzi":"visor","pinyin":"","vi":"lưỡi trai, tấm che mắt","ex":{"tokens":["She","wore","a","visor","to","play","tennis","."],"py":["","","","","","","","."],"vi":"Cô ấy đội mũ lưỡi trai để chơi quần vợt.","alts":[]}}
   ]},
-  {"id":"y3024","title":"Trang phục và phụ kiện 3","desc":"Kiểu áo quần, giày dép, trang sức","icon":"Clothes","unit":352,"course":"en","order":2740,"words":[
+  {"id":"y3024","title":"Trang phục và phụ kiện 3","desc":"Kiểu áo quần, giày dép, trang sức","icon":"Clothes","unit":352,"course":"en","order":2840,"words":[
    {"id":"y3024-bandana","hanzi":"bandana","pinyin":"","vi":"khăn rằn, khăn buộc đầu","ex":{"tokens":["He","tied","a","bandana","around","his","head","."],"py":["","","","","","","","."],"vi":"Anh ấy buộc một chiếc khăn rằn quanh đầu.","alts":[]}},
    {"id":"y3024-brooch","hanzi":"brooch","pinyin":"","vi":"cái ghim cài áo","ex":{"tokens":["She","pinned","a","brooch","on","her","jacket","."],"py":["","","","","","","","."],"vi":"Cô ấy cài một chiếc ghim lên áo khoác.","alts":[]}},
    {"id":"y3024-bracelet","hanzi":"bracelet","pinyin":"","vi":"vòng tay","ex":{"tokens":["He","gave","her","a","silver","bracelet","."],"py":["","","","","","","."],"vi":"Anh ấy tặng cô ấy một chiếc vòng tay bạc.","alts":[]}},
@@ -62,7 +62,7 @@
    {"id":"y3024-garter","hanzi":"garter","pinyin":"","vi":"nịt bít tất","ex":{"tokens":["The","bride","wore","a","blue","garter","."],"py":["","","","","","","."],"vi":"Cô dâu đeo nịt bít tất màu xanh.","alts":[]}},
    {"id":"y3024-pocket_flap","hanzi":"pocket flap","pinyin":"","vi":"nắp túi áo","ex":{"tokens":["The","pocket","flap","has","a","small","button","."],"py":["","","","","","","","."],"vi":"Nắp túi áo có một chiếc cúc nhỏ.","alts":[]}}
   ]},
-  {"id":"y3025","title":"Vải và may vá 1","desc":"Chất liệu vải, dụng cụ may, sửa quần áo","icon":"Sewing","unit":352,"course":"en","order":2750,"words":[
+  {"id":"y3025","title":"Vải và may vá 1","desc":"Chất liệu vải, dụng cụ may, sửa quần áo","icon":"Sewing","unit":352,"course":"en","order":2850,"words":[
    {"id":"y3025-linen","hanzi":"linen","pinyin":"","vi":"vải lanh","ex":{"tokens":["Linen","shirts","are","cool","in","summer","."],"py":["","","","","","","."],"vi":"Áo sơ mi vải lanh mát vào mùa hè.","alts":[]}},
    {"id":"y3025-satin","hanzi":"satin","pinyin":"","vi":"vải sa tanh","ex":{"tokens":["She","wore","a","satin","dress","."],"py":["","","","","","."],"vi":"Cô ấy mặc váy sa tanh.","alts":[]}},
    {"id":"y3025-cashmere","hanzi":"cashmere","pinyin":"","vi":"len cashmere","ex":{"tokens":["This","cashmere","sweater","is","very","soft","."],"py":["","","","","","","."],"vi":"Chiếc áo len cashmere này rất mềm.","alts":[]}},
@@ -78,7 +78,7 @@
    {"id":"y3025-thread","hanzi":"thread","pinyin":"","vi":"sợi chỉ","ex":{"tokens":["I","need","a","needle","and","thread","."],"py":["","","","","","","."],"vi":"Tôi cần kim và chỉ.","alts":[]}},
    {"id":"y3025-needle","hanzi":"needle","pinyin":"","vi":"cái kim","ex":{"tokens":["The","needle","is","very","sharp","."],"py":["","","","","","."],"vi":"Cái kim rất nhọn.","alts":[]}}
   ]},
-  {"id":"y3026","title":"Vải và may vá 2","desc":"Chất liệu vải, dụng cụ may, sửa quần áo","icon":"Sewing","unit":352,"course":"en","order":2760,"words":[
+  {"id":"y3026","title":"Vải và may vá 2","desc":"Chất liệu vải, dụng cụ may, sửa quần áo","icon":"Sewing","unit":352,"course":"en","order":2860,"words":[
    {"id":"y3026-thimble","hanzi":"thimble","pinyin":"","vi":"cái đê (khâu)","ex":{"tokens":["Wear","a","thimble","to","protect","your","finger","."],"py":["","","","","","","","."],"vi":"Hãy đeo đê để bảo vệ ngón tay.","alts":[]}},
    {"id":"y3026-spool","hanzi":"spool","pinyin":"","vi":"cuộn (chỉ, dây)","ex":{"tokens":["She","bought","a","spool","of","white","thread","."],"py":["","","","","","","","."],"vi":"Cô ấy mua một cuộn chỉ trắng.","alts":[]}},
    {"id":"y3026-darn","hanzi":"darn","pinyin":"","vi":"mạng (quần áo)","ex":{"tokens":["My","grandmother","can","darn","socks","."],"py":["","","","","","."],"vi":"Bà tôi biết mạng tất.","alts":[]}},
@@ -94,7 +94,7 @@
    {"id":"y3026-crease","hanzi":"crease","pinyin":"","vi":"nếp nhăn, nếp gấp","ex":{"tokens":["Iron","the","crease","out","of","the","shirt","."],"py":["","","","","","","","."],"vi":"Hãy là phẳng nếp nhăn trên áo.","alts":[]}},
    {"id":"y3026-fray","hanzi":"fray","pinyin":"","vi":"sờn, tưa (vải)","ex":{"tokens":["The","sleeves","began","to","fray","."],"py":["","","","","","."],"vi":"Hai ống tay áo bắt đầu sờn.","alts":[]}}
   ]},
-  {"id":"y3027","title":"Các phần của ngôi nhà 1","desc":"Phòng, cửa, mái, chi tiết xây dựng","icon":"House","unit":352,"course":"en","order":2770,"words":[
+  {"id":"y3027","title":"Các phần của ngôi nhà 1","desc":"Phòng, cửa, mái, chi tiết xây dựng","icon":"House","unit":352,"course":"en","order":2870,"words":[
    {"id":"y3027-cellar","hanzi":"cellar","pinyin":"","vi":"hầm chứa","ex":{"tokens":["They","keep","wine","in","the","cellar","."],"py":["","","","","","","."],"vi":"Họ cất rượu trong hầm.","alts":[]}},
    {"id":"y3027-loft","hanzi":"loft","pinyin":"","vi":"gác xép","ex":{"tokens":["We","store","old","boxes","in","the","loft","."],"py":["","","","","","","","."],"vi":"Chúng tôi cất hộp cũ trên gác xép.","alts":[]}},
    {"id":"y3027-veranda","hanzi":"veranda","pinyin":"","vi":"hiên nhà","ex":{"tokens":["We","drank","tea","on","the","veranda","."],"py":["","","","","","","."],"vi":"Chúng tôi uống trà ngoài hiên.","alts":[]}},
@@ -108,7 +108,7 @@
    {"id":"y3027-railing","hanzi":"railing","pinyin":"","vi":"lan can","ex":{"tokens":["He","leaned","on","the","balcony","railing","."],"py":["","","","","","","."],"vi":"Anh ấy tựa vào lan can ban công.","alts":[]}},
    {"id":"y3027-doorstep","hanzi":"doorstep","pinyin":"","vi":"bậc cửa","ex":{"tokens":["The","package","was","left","on","the","doorstep","."],"py":["","","","","","","","."],"vi":"Gói hàng được để lại ở bậc cửa.","alts":[]}}
   ]},
-  {"id":"y3028","title":"Các phần của ngôi nhà 2","desc":"Phòng, cửa, mái, chi tiết xây dựng","icon":"House","unit":352,"course":"en","order":2780,"words":[
+  {"id":"y3028","title":"Các phần của ngôi nhà 2","desc":"Phòng, cửa, mái, chi tiết xây dựng","icon":"House","unit":352,"course":"en","order":2880,"words":[
    {"id":"y3028-doorknob","hanzi":"doorknob","pinyin":"","vi":"tay nắm cửa","ex":{"tokens":["The","doorknob","came","off","in","my","hand","."],"py":["","","","","","","","."],"vi":"Tay nắm cửa rời ra trong tay tôi.","alts":[]}},
    {"id":"y3028-hinge","hanzi":"hinge","pinyin":"","vi":"bản lề","ex":{"tokens":["The","door","hinge","needs","some","oil","."],"py":["","","","","","","."],"vi":"Bản lề cửa cần ít dầu.","alts":[]}},
    {"id":"y3028-latch","hanzi":"latch","pinyin":"","vi":"then cài, chốt cửa","ex":{"tokens":["Lift","the","latch","to","open","the","gate","."],"py":["","","","","","","","."],"vi":"Hãy nhấc then cài để mở cổng.","alts":[]}},
@@ -122,7 +122,7 @@
    {"id":"y3028-mantelpiece","hanzi":"mantelpiece","pinyin":"","vi":"bệ trên lò sưởi","ex":{"tokens":["The","clock","stands","on","the","mantelpiece","."],"py":["","","","","","","."],"vi":"Chiếc đồng hồ đặt trên bệ lò sưởi.","alts":[]}},
    {"id":"y3028-gutter","hanzi":"gutter","pinyin":"","vi":"máng xối; rãnh nước","ex":{"tokens":["Leaves","blocked","the","gutter","."],"py":["","","","","."],"vi":"Lá cây làm tắc máng xối.","alts":[]}}
   ]},
-  {"id":"y3029","title":"Các phần của ngôi nhà 3","desc":"Phòng, cửa, mái, chi tiết xây dựng","icon":"House","unit":352,"course":"en","order":2790,"words":[
+  {"id":"y3029","title":"Các phần của ngôi nhà 3","desc":"Phòng, cửa, mái, chi tiết xây dựng","icon":"House","unit":352,"course":"en","order":2890,"words":[
    {"id":"y3029-drainpipe","hanzi":"drainpipe","pinyin":"","vi":"ống thoát nước","ex":{"tokens":["The","thief","climbed","up","the","drainpipe","."],"py":["","","","","","","."],"vi":"Tên trộm trèo lên theo ống thoát nước.","alts":[]}},
    {"id":"y3029-eaves","hanzi":"eaves","pinyin":"","vi":"mái hiên chìa ra","ex":{"tokens":["Birds","nest","under","the","eaves","."],"py":["","","","","","."],"vi":"Chim làm tổ dưới mái hiên.","alts":[]}},
    {"id":"y3029-rafter","hanzi":"rafter","pinyin":"","vi":"xà mái nhà","ex":{"tokens":["A","lamp","hung","from","a","rafter","."],"py":["","","","","","","."],"vi":"Một ngọn đèn treo trên xà nhà.","alts":[]}},
@@ -136,7 +136,7 @@
    {"id":"y3029-curtain_rod","hanzi":"curtain rod","pinyin":"","vi":"thanh treo rèm","ex":{"tokens":["He","fixed","the","curtain","rod","above","the","window","."],"py":["","","","","","","","","."],"vi":"Anh ấy lắp thanh treo rèm phía trên cửa sổ.","alts":[]}},
    {"id":"y3029-skirting_board","hanzi":"skirting board","pinyin":"","vi":"nẹp chân tường","ex":{"tokens":["Paint","the","skirting","board","white","."],"py":["","","","","","."],"vi":"Hãy sơn nẹp chân tường màu trắng.","alts":[]}}
   ]},
-  {"id":"y3030","title":"Đồ đạc trong nhà 2","desc":"Bàn ghế, giường tủ, đồ dọn dẹp","icon":"Furniture","unit":352,"course":"en","order":2800,"words":[
+  {"id":"y3030","title":"Đồ đạc trong nhà 2","desc":"Bàn ghế, giường tủ, đồ dọn dẹp","icon":"Furniture","unit":352,"course":"en","order":2900,"words":[
    {"id":"y3030-recliner","hanzi":"recliner","pinyin":"","vi":"ghế tựa ngả lưng","ex":{"tokens":["Dad","fell","asleep","in","his","recliner","."],"py":["","","","","","","."],"vi":"Bố ngủ quên trên ghế tựa ngả lưng.","alts":[]}},
    {"id":"y3030-couch","hanzi":"couch","pinyin":"","vi":"ghế sofa dài","ex":{"tokens":["We","watched","a","film","on","the","couch","."],"py":["","","","","","","","."],"vi":"Chúng tôi xem phim trên ghế sofa.","alts":[]}},
    {"id":"y3030-futon","hanzi":"futon","pinyin":"","vi":"đệm trải sàn kiểu Nhật","ex":{"tokens":["Our","guest","slept","on","a","futon","."],"py":["","","","","","","."],"vi":"Khách của chúng tôi ngủ trên đệm trải sàn.","alts":[]}},

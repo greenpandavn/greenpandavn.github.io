@@ -1,0 +1,55 @@
+{
+ "units": [
+  {"unit":151,"level":1,"title":"Phần 9: Mở rộng – Đồ vật và hành động quen thuộc","desc":"Đồ vật và hành động quen thuộc","color":"leaf","course":"en"}
+ ],
+ "lessons": [
+  {"id":"y1001","title":"Đồ vật và hành động quen thuộc 1","desc":"Đồ chơi, đồ ăn vặt, con vật nhỏ, hành động","icon":"Kids","unit":151,"course":"en","order":820,"words":[
+   {"id":"y1001-glue_stick","hanzi":"glue stick","pinyin":"","vi":"keo dán khô","ex":{"tokens":["I","need","a","glue","stick","."],"py":["","","","","","."],"vi":"Tôi cần một thỏi keo dán.","alts":[]}},
+   {"id":"y1001-lunchbox","hanzi":"lunchbox","pinyin":"","vi":"hộp cơm trưa","ex":{"tokens":["My","lunchbox","is","blue","."],"py":["","","","","."],"vi":"Hộp cơm trưa của tôi màu xanh.","alts":[]}},
+   {"id":"y1001-water_bottle","hanzi":"water bottle","pinyin":"","vi":"bình nước","ex":{"tokens":["Bring","your","water","bottle","."],"py":["","","","","."],"vi":"Hãy mang bình nước của bạn.","alts":[]}},
+   {"id":"y1001-toy_car","hanzi":"toy car","pinyin":"","vi":"xe ô tô đồ chơi","ex":{"tokens":["He","has","a","red","toy","car","."],"py":["","","","","","","."],"vi":"Cậu ấy có một chiếc ô tô đồ chơi màu đỏ.","alts":[]}},
+   {"id":"y1001-block","hanzi":"block","pinyin":"","vi":"khối gỗ xếp hình; dãy nhà","ex":{"tokens":["The","baby","holds","a","block","."],"py":["","","","","","."],"vi":"Em bé cầm một khối gỗ.","alts":[]}},
+   {"id":"y1001-tag","hanzi":"tag","pinyin":"","vi":"trò đuổi bắt; cái nhãn","ex":{"tokens":["We","play","tag","at","school","."],"py":["","","","","","."],"vi":"Chúng tôi chơi đuổi bắt ở trường.","alts":[]}},
+   {"id":"y1001-dinosaur","hanzi":"dinosaur","pinyin":"","vi":"khủng long","ex":{"tokens":["The","dinosaur","is","very","big","."],"py":["","","","","","."],"vi":"Con khủng long rất to.","alts":[]}},
+   {"id":"y1001-unicorn","hanzi":"unicorn","pinyin":"","vi":"kỳ lân","ex":{"tokens":["She","has","a","pink","unicorn","."],"py":["","","","","","."],"vi":"Cô bé có một con kỳ lân màu hồng.","alts":[]}},
+   {"id":"y1001-superhero","hanzi":"superhero","pinyin":"","vi":"siêu anh hùng","ex":{"tokens":["My","brother","loves","his","superhero","toy","."],"py":["","","","","","","."],"vi":"Em trai tôi rất thích đồ chơi siêu anh hùng của mình.","alts":[]}},
+   {"id":"y1001-feather","hanzi":"feather","pinyin":"","vi":"lông vũ","ex":{"tokens":["I","found","a","white","feather","."],"py":["","","","","","."],"vi":"Tôi nhặt được một chiếc lông vũ trắng.","alts":[]}},
+   {"id":"y1001-bubble","hanzi":"bubble","pinyin":"","vi":"bong bóng","ex":{"tokens":["The","bubble","is","big","."],"py":["","","","","."],"vi":"Cái bong bóng to.","alts":[]}},
+   {"id":"y1001-tickle","hanzi":"tickle","pinyin":"","vi":"cù, làm nhột","ex":{"tokens":["Do","not","tickle","me","!"],"py":["","","","","!"],"vi":"Đừng cù tôi!","alts":[]}},
+   {"id":"y1001-peek","hanzi":"peek","pinyin":"","vi":"nhìn trộm, hé nhìn","ex":{"tokens":["Do","not","peek","at","the","gift","."],"py":["","","","","","","."],"vi":"Đừng nhìn trộm món quà.","alts":[]}},
+   {"id":"y1001-pat","hanzi":"pat","pinyin":"","vi":"vỗ nhẹ","ex":{"tokens":["You","can","pat","the","dog","."],"py":["","","","","","."],"vi":"Bạn có thể vỗ nhẹ con chó.","alts":[]}}
+  ]},
+  {"id":"y1002","title":"Đồ vật và hành động quen thuộc 2","desc":"Đồ chơi, đồ ăn vặt, con vật nhỏ, hành động","icon":"Kids","unit":151,"course":"en","order":830,"words":[
+   {"id":"y1002-poke","hanzi":"poke","pinyin":"","vi":"chọc","ex":{"tokens":["Do","not","poke","the","cat","."],"py":["","","","","","."],"vi":"Đừng chọc con mèo.","alts":[]}},
+   {"id":"y1002-pinch","hanzi":"pinch","pinyin":"","vi":"véo","ex":{"tokens":["Do","not","pinch","your","sister","."],"py":["","","","","","."],"vi":"Đừng véo em gái.","alts":[]}},
+   {"id":"y1002-toss","hanzi":"toss","pinyin":"","vi":"tung, ném nhẹ","ex":{"tokens":["Toss","the","ball","to","me","."],"py":["","","","","","."],"vi":"Hãy tung quả bóng cho tôi.","alts":[]}},
+   {"id":"y1002-splash","hanzi":"splash","pinyin":"","vi":"té nước","ex":{"tokens":["The","children","splash","in","the","water","."],"py":["","","","","","","."],"vi":"Bọn trẻ té nước.","alts":[]}},
+   {"id":"y1002-drip","hanzi":"drip","pinyin":"","vi":"nhỏ giọt","ex":{"tokens":["Water","can","drip","from","the","roof","."],"py":["","","","","","","."],"vi":"Nước có thể nhỏ giọt từ mái nhà.","alts":[]}},
+   {"id":"y1002-spill","hanzi":"spill","pinyin":"","vi":"làm đổ","ex":{"tokens":["Do","not","spill","the","milk","."],"py":["","","","","","."],"vi":"Đừng làm đổ sữa.","alts":[]}},
+   {"id":"y1002-stack","hanzi":"stack","pinyin":"","vi":"xếp chồng; chồng","ex":{"tokens":["Stack","the","books","on","the","table","."],"py":["","","","","","","."],"vi":"Hãy xếp chồng sách lên bàn.","alts":[]}},
+   {"id":"y1002-sort","hanzi":"sort","pinyin":"","vi":"phân loại","ex":{"tokens":["Sort","the","toys","by","color","."],"py":["","","","","","."],"vi":"Hãy phân loại đồ chơi theo màu.","alts":[]}},
+   {"id":"y1002-tidy_up","hanzi":"tidy up","pinyin":"","vi":"dọn dẹp gọn gàng","ex":{"tokens":["Please","tidy","up","your","room","."],"py":["","","","","","."],"vi":"Hãy dọn phòng của con cho gọn.","alts":[]}},
+   {"id":"y1002-line_up","hanzi":"line up","pinyin":"","vi":"xếp hàng","ex":{"tokens":["Line","up","at","the","door",",","please","."],"py":["","","","","",",","","."],"vi":"Các em xếp hàng ở cửa nhé.","alts":[]}},
+   {"id":"y1002-look_out","hanzi":"look out","pinyin":"","vi":"coi chừng","ex":{"tokens":["Look","out","!","A","car","is","coming","."],"py":["","","!","","","","","."],"vi":"Coi chừng! Có xe đang tới.","alts":[]}},
+   {"id":"y1002-cupcake","hanzi":"cupcake","pinyin":"","vi":"bánh nướng nhỏ","ex":{"tokens":["I","want","a","cupcake","."],"py":["","","","","."],"vi":"Tôi muốn một chiếc bánh nướng nhỏ.","alts":[]}},
+   {"id":"y1002-lollipop","hanzi":"lollipop","pinyin":"","vi":"kẹo mút","ex":{"tokens":["The","boy","has","a","lollipop","."],"py":["","","","","","."],"vi":"Cậu bé có một cây kẹo mút.","alts":[]}},
+   {"id":"y1002-jelly","hanzi":"jelly","pinyin":"","vi":"thạch","ex":{"tokens":["I","like","orange","jelly","."],"py":["","","","","."],"vi":"Tôi thích thạch cam.","alts":[]}}
+  ]},
+  {"id":"y1003","title":"Đồ vật và hành động quen thuộc 3","desc":"Đồ chơi, đồ ăn vặt, con vật nhỏ, hành động","icon":"Kids","unit":151,"course":"en","order":840,"words":[
+   {"id":"y1003-meatball","hanzi":"meatball","pinyin":"","vi":"thịt viên","ex":{"tokens":["I","ate","one","meatball","."],"py":["","","","","."],"vi":"Tôi ăn một viên thịt.","alts":[]}},
+   {"id":"y1003-hot_dog","hanzi":"hot dog","pinyin":"","vi":"bánh mì kẹp xúc xích","ex":{"tokens":["He","eats","a","hot","dog","."],"py":["","","","","","."],"vi":"Cậu ấy ăn bánh mì kẹp xúc xích.","alts":[]}},
+   {"id":"y1003-bunny","hanzi":"bunny","pinyin":"","vi":"con thỏ con","ex":{"tokens":["The","bunny","is","white","."],"py":["","","","","."],"vi":"Chú thỏ con màu trắng.","alts":[]}},
+   {"id":"y1003-duckling","hanzi":"duckling","pinyin":"","vi":"vịt con","ex":{"tokens":["The","duckling","can","swim","."],"py":["","","","","."],"vi":"Vịt con biết bơi.","alts":[]}},
+   {"id":"y1003-goldfish","hanzi":"goldfish","pinyin":"","vi":"cá vàng","ex":{"tokens":["I","have","a","goldfish","."],"py":["","","","","."],"vi":"Tôi có một con cá vàng.","alts":[]}},
+   {"id":"y1003-hamster","hanzi":"hamster","pinyin":"","vi":"chuột hamster","ex":{"tokens":["My","hamster","is","small","."],"py":["","","","","."],"vi":"Con chuột hamster của tôi nhỏ.","alts":[]}},
+   {"id":"y1003-caterpillar","hanzi":"caterpillar","pinyin":"","vi":"con sâu bướm","ex":{"tokens":["The","caterpillar","eats","a","leaf","."],"py":["","","","","","."],"vi":"Con sâu bướm ăn một chiếc lá.","alts":[]}},
+   {"id":"y1003-yo_yo","hanzi":"yo-yo","pinyin":"","vi":"con quay yo-yo","ex":{"tokens":["He","plays","with","a","yo-yo","."],"py":["","","","","","."],"vi":"Cậu ấy chơi yo-yo.","alts":[]}},
+   {"id":"y1003-scarecrow","hanzi":"scarecrow","pinyin":"","vi":"con bù nhìn","ex":{"tokens":["There","is","a","scarecrow","in","the","field","."],"py":["","","","","","","","."],"vi":"Có một con bù nhìn ngoài đồng.","alts":[]}},
+   {"id":"y1003-spark","hanzi":"spark","pinyin":"","vi":"tia lửa","ex":{"tokens":["I","saw","a","spark","in","the","fire","."],"py":["","","","","","","","."],"vi":"Tôi thấy một tia lửa trong đống lửa.","alts":[]}},
+   {"id":"y1003-trace","hanzi":"trace","pinyin":"","vi":"tô theo nét; dấu vết","ex":{"tokens":["Trace","the","letter","with","your","pencil","."],"py":["","","","","","","."],"vi":"Hãy tô theo nét chữ bằng bút chì.","alts":[]}},
+   {"id":"y1003-popsicle","hanzi":"popsicle","pinyin":"","vi":"kem que","ex":{"tokens":["I","want","a","popsicle","."],"py":["","","","","."],"vi":"Tôi muốn một cây kem que.","alts":[]}},
+   {"id":"y1003-pretzel","hanzi":"pretzel","pinyin":"","vi":"bánh quy xoắn","ex":{"tokens":["She","eats","a","pretzel","."],"py":["","","","","."],"vi":"Cô bé ăn một chiếc bánh quy xoắn.","alts":[]}},
+   {"id":"y1003-nugget","hanzi":"nugget","pinyin":"","vi":"miếng gà viên chiên","ex":{"tokens":["I","ate","a","chicken","nugget","."],"py":["","","","","","."],"vi":"Tôi ăn một miếng gà viên chiên.","alts":[]}}
+  ]}
+ ]
+}

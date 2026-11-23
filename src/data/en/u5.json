@@ -1,9 +1,9 @@
 {
  "units": [
-  {"unit":5,"level":2,"title":"Phần 9: Quá khứ và tương lai","desc":"Thì quá khứ, tương lai, du lịch, công việc","color":"leaf","course":"en"}
+  {"unit":5,"level":2,"title":"Phần 10: Quá khứ và tương lai","desc":"Thì quá khứ, tương lai, du lịch, công việc","color":"leaf","course":"en"}
  ],
  "lessons": [
-  {"id":"e31","title":"Thì quá khứ đơn","desc":"Was, were, did, went, saw","icon":"Was","unit":5,"course":"en","order":820,"words":[
+  {"id":"e31","title":"Thì quá khứ đơn","desc":"Was, were, did, went, saw","icon":"Was","unit":5,"course":"en","order":850,"words":[
    {"id":"e31-was","hanzi":"was","pinyin":"","vi":"đã là, đã ở (quá khứ của am/is)","ex":{"tokens":["I","was","at","home","yesterday","."],"py":["","","","","","."],"vi":"Hôm qua tôi ở nhà.","alts":[]}},
    {"id":"e31-were","hanzi":"were","pinyin":"","vi":"đã là, đã ở (quá khứ của are)","ex":{"tokens":["They","were","very","happy","."],"py":["","","","","."],"vi":"Họ đã rất vui.","alts":[]}},
    {"id":"e31-did","hanzi":"did","pinyin":"","vi":"đã làm (quá khứ của do)","ex":{"tokens":["What","did","you","do","yesterday","?"],"py":["","","","","","?"],"vi":"Hôm qua bạn đã làm gì?","alts":[]}},
@@ -17,7 +17,7 @@
    {"id":"e31-ate","hanzi":"ate","pinyin":"","vi":"đã ăn (quá khứ của eat)","ex":{"tokens":["We","ate","dinner","together","."],"py":["","","","","."],"vi":"Chúng tôi đã ăn tối cùng nhau.","alts":[]}},
    {"id":"e31-took","hanzi":"took","pinyin":"","vi":"đã lấy, đã đi (quá khứ của take)","ex":{"tokens":["He","took","a","taxi","to","work","."],"py":["","","","","","","."],"vi":"Anh ấy đã đi taxi đến chỗ làm.","alts":[]}}
   ]},
-  {"id":"e32","title":"Từ chỉ thời gian","desc":"Ago, already, yet, just, still","icon":"Ago","unit":5,"course":"en","order":830,"words":[
+  {"id":"e32","title":"Từ chỉ thời gian","desc":"Ago, already, yet, just, still","icon":"Ago","unit":5,"course":"en","order":860,"words":[
    {"id":"e32-ago","hanzi":"ago","pinyin":"","vi":"cách đây, trước đây","ex":{"tokens":["I","met","her","two","years","ago","."],"py":["","","","","","","."],"vi":"Tôi đã gặp cô ấy cách đây hai năm.","alts":[]}},
    {"id":"e32-last","hanzi":"last","pinyin":"","vi":"trước, vừa qua; cuối cùng","ex":{"tokens":["We","went","there","last","week","."],"py":["","","","","","."],"vi":"Tuần trước chúng tôi đã đến đó.","alts":[]}},
    {"id":"e32-already","hanzi":"already","pinyin":"","vi":"đã ... rồi","ex":{"tokens":["I","have","already","eaten","lunch","."],"py":["","","","","","."],"vi":"Tôi đã ăn trưa rồi.","alts":[]}},
@@ -31,7 +31,7 @@
    {"id":"e32-later","hanzi":"later","pinyin":"","vi":"sau, lát nữa","ex":{"tokens":["I","will","call","you","later","."],"py":["","","","","","."],"vi":"Tôi sẽ gọi cho bạn sau.","alts":[]}},
    {"id":"e32-soon","hanzi":"soon","pinyin":"","vi":"sớm, chẳng bao lâu nữa","ex":{"tokens":["See","you","soon","!"],"py":["","","","!"],"vi":"Hẹn sớm gặp lại bạn!","alts":[]}}
   ]},
-  {"id":"e33","title":"Tương lai và kế hoạch","desc":"Will, going to, plan, hope","icon":"Will","unit":5,"course":"en","order":840,"words":[
+  {"id":"e33","title":"Tương lai và kế hoạch","desc":"Will, going to, plan, hope","icon":"Will","unit":5,"course":"en","order":870,"words":[
    {"id":"e33-will","hanzi":"will","pinyin":"","vi":"sẽ","ex":{"tokens":["I","will","help","you","tomorrow","."],"py":["","","","","","."],"vi":"Ngày mai tôi sẽ giúp bạn.","alts":[]}},
    {"id":"e33-going_to","hanzi":"going to","pinyin":"","vi":"sắp, định (làm gì)","ex":{"tokens":["I","am","going","to","visit","my","aunt","."],"py":["","","","","","","","."],"vi":"Tôi định đi thăm dì tôi.","alts":[]}},
    {"id":"e33-plan","hanzi":"plan","pinyin":"","vi":"kế hoạch; lên kế hoạch","ex":{"tokens":["What","is","your","plan","for","Sunday","?"],"py":["","","","","","","?"],"vi":"Kế hoạch Chủ nhật của bạn là gì?","alts":[]}},
@@ -45,7 +45,7 @@
    {"id":"e33-prepare","hanzi":"prepare","pinyin":"","vi":"chuẩn bị","ex":{"tokens":["I","need","to","prepare","for","the","exam","."],"py":["","","","","","","","."],"vi":"Tôi cần chuẩn bị cho kỳ thi.","alts":[]}},
    {"id":"e33-expect","hanzi":"expect","pinyin":"","vi":"mong đợi, cho rằng sẽ","ex":{"tokens":["We","expect","good","weather","tomorrow","."],"py":["","","","","","."],"vi":"Chúng tôi cho rằng ngày mai thời tiết đẹp.","alts":[]}}
   ]},
-  {"id":"e34","title":"Du lịch 1","desc":"Sân bay, hộ chiếu, hành lý, chuyến bay","icon":"Tr","unit":5,"course":"en","order":850,"words":[
+  {"id":"e34","title":"Du lịch 1","desc":"Sân bay, hộ chiếu, hành lý, chuyến bay","icon":"Tr","unit":5,"course":"en","order":880,"words":[
    {"id":"e34-travel","hanzi":"travel","pinyin":"","vi":"du lịch, đi lại","ex":{"tokens":["I","love","to","travel","by","train","."],"py":["","","","","","","."],"vi":"Tôi thích du lịch bằng tàu hỏa.","alts":[]}},
    {"id":"e34-trip","hanzi":"trip","pinyin":"","vi":"chuyến đi","ex":{"tokens":["Our","trip","to","Hue","was","wonderful","."],"py":["","","","","","","."],"vi":"Chuyến đi Huế của chúng tôi rất tuyệt.","alts":[]}},
    {"id":"e34-airport","hanzi":"airport","pinyin":"","vi":"sân bay","ex":{"tokens":["The","airport","is","far","from","the","city","."],"py":["","","","","","","","."],"vi":"Sân bay ở xa thành phố.","alts":[]}},
@@ -59,7 +59,7 @@
    {"id":"e34-leave","hanzi":"leave","pinyin":"","vi":"rời đi, để lại","ex":{"tokens":["I","leave","home","at","seven","every","day","."],"py":["","","","","","","","."],"vi":"Ngày nào tôi cũng rời nhà lúc bảy giờ.","alts":[]}},
    {"id":"e34-stay","hanzi":"stay","pinyin":"","vi":"ở lại","ex":{"tokens":["We","will","stay","at","a","small","hotel","."],"py":["","","","","","","","."],"vi":"Chúng tôi sẽ ở một khách sạn nhỏ.","alts":[]}}
   ]},
-  {"id":"e35","title":"Hỏi đường","desc":"Rẽ, đi thẳng, góc phố, cây cầu","icon":"Go","unit":5,"course":"en","order":860,"words":[
+  {"id":"e35","title":"Hỏi đường","desc":"Rẽ, đi thẳng, góc phố, cây cầu","icon":"Go","unit":5,"course":"en","order":890,"words":[
    {"id":"e35-turn","hanzi":"turn","pinyin":"","vi":"rẽ, quay","ex":{"tokens":["Turn","left","at","the","bank","."],"py":["","","","","","."],"vi":"Rẽ trái ở chỗ ngân hàng.","alts":[]}},
    {"id":"e35-straight","hanzi":"straight","pinyin":"","vi":"thẳng","ex":{"tokens":["Go","straight","for","two","minutes","."],"py":["","","","","","."],"vi":"Đi thẳng trong hai phút.","alts":[]}},
    {"id":"e35-corner","hanzi":"corner","pinyin":"","vi":"góc (phố)","ex":{"tokens":["The","shop","is","on","the","corner","."],"py":["","","","","","","."],"vi":"Cửa hàng ở góc phố.","alts":[]}},
@@ -73,7 +73,7 @@
    {"id":"e35-lost","hanzi":"lost","pinyin":"","vi":"bị lạc; bị mất","ex":{"tokens":["I","think","we","are","lost","."],"py":["","","","","","."],"vi":"Tôi nghĩ chúng ta bị lạc rồi.","alts":[]}},
    {"id":"e35-direction","hanzi":"direction","pinyin":"","vi":"hướng, phương hướng","ex":{"tokens":["Which","direction","is","the","market","?"],"py":["","","","","","?"],"vi":"Chợ ở hướng nào?","alts":[]}}
   ]},
-  {"id":"e36","title":"Nghề nghiệp và công sở","desc":"Kỹ sư, quản lý, công ty, cuộc họp","icon":"Job","unit":5,"course":"en","order":870,"words":[
+  {"id":"e36","title":"Nghề nghiệp và công sở","desc":"Kỹ sư, quản lý, công ty, cuộc họp","icon":"Job","unit":5,"course":"en","order":900,"words":[
    {"id":"e36-engineer","hanzi":"engineer","pinyin":"","vi":"kỹ sư","ex":{"tokens":["My","brother","is","an","engineer","."],"py":["","","","","","."],"vi":"Anh trai tôi là kỹ sư.","alts":[]}},
    {"id":"e36-farmer","hanzi":"farmer","pinyin":"","vi":"nông dân","ex":{"tokens":["The","farmer","gets","up","very","early","."],"py":["","","","","","","."],"vi":"Người nông dân dậy rất sớm.","alts":[]}},
    {"id":"e36-driver","hanzi":"driver","pinyin":"","vi":"tài xế, người lái xe","ex":{"tokens":["The","bus","driver","is","very","kind","."],"py":["","","","","","","."],"vi":"Bác tài xế xe buýt rất tốt bụng.","alts":[]}},
@@ -87,7 +87,7 @@
    {"id":"e36-meeting","hanzi":"meeting","pinyin":"","vi":"cuộc họp","ex":{"tokens":["We","have","a","meeting","at","ten","."],"py":["","","","","","","."],"vi":"Chúng tôi có một cuộc họp lúc mười giờ.","alts":[]}},
    {"id":"e36-business","hanzi":"business","pinyin":"","vi":"kinh doanh, việc làm ăn","ex":{"tokens":["She","has","her","own","business","."],"py":["","","","","","."],"vi":"Cô ấy có công việc kinh doanh riêng.","alts":[]}}
   ]},
-  {"id":"e37","title":"Việc nhà 1","desc":"Dọn dẹp, giặt giũ, sửa chữa","icon":"Cl","unit":5,"course":"en","order":880,"words":[
+  {"id":"e37","title":"Việc nhà 1","desc":"Dọn dẹp, giặt giũ, sửa chữa","icon":"Cl","unit":5,"course":"en","order":910,"words":[
    {"id":"e37-clean","hanzi":"clean","pinyin":"","vi":"sạch; lau dọn","ex":{"tokens":["I","clean","my","room","every","Saturday","."],"py":["","","","","","","."],"vi":"Thứ Bảy nào tôi cũng dọn phòng.","alts":[]}},
    {"id":"e37-dirty","hanzi":"dirty","pinyin":"","vi":"bẩn","ex":{"tokens":["Your","shoes","are","very","dirty","."],"py":["","","","","","."],"vi":"Giày của bạn rất bẩn.","alts":[]}},
    {"id":"e37-sweep","hanzi":"sweep","pinyin":"","vi":"quét","ex":{"tokens":["Please","sweep","the","floor","."],"py":["","","","","."],"vi":"Làm ơn quét nhà.","alts":[]}},

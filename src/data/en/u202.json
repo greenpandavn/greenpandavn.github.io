@@ -1,9 +1,9 @@
 {
  "units": [
-  {"unit":202,"level":2,"title":"Phần 14: Con người và sinh hoạt","desc":"Nghề nghiệp, trường học, tính cách, bạn bè, ốm đau, thể thao, nấu ăn","color":"sky","course":"en"}
+  {"unit":202,"level":2,"title":"Phần 15: Con người và sinh hoạt","desc":"Nghề nghiệp, trường học, tính cách, bạn bè, ốm đau, thể thao, nấu ăn","color":"sky","course":"en"}
  ],
  "lessons": [
-  {"id":"m12","title":"Nghề nghiệp 2","desc":"Đầu bếp, phi công, thợ may, lễ tân","icon":"Job","unit":202,"course":"en","order":1210,"words":[
+  {"id":"m12","title":"Nghề nghiệp 2","desc":"Đầu bếp, phi công, thợ may, lễ tân","icon":"Job","unit":202,"course":"en","order":1240,"words":[
    {"id":"m12-chef","hanzi":"chef","pinyin":"","vi":"đầu bếp","ex":{"tokens":["The","chef","cooks","very","well","."],"py":["","","","","","."],"vi":"Đầu bếp nấu ăn rất ngon.","alts":[]}},
    {"id":"m12-pilot","hanzi":"pilot","pinyin":"","vi":"phi công","ex":{"tokens":["My","uncle","is","a","pilot","."],"py":["","","","","","."],"vi":"Chú tôi là phi công.","alts":[]}},
    {"id":"m12-baker","hanzi":"baker","pinyin":"","vi":"thợ làm bánh","ex":{"tokens":["The","baker","gets","up","at","four","."],"py":["","","","","","","."],"vi":"Người thợ làm bánh dậy lúc bốn giờ.","alts":[]}},
@@ -17,7 +17,7 @@
    {"id":"m12-firefighter","hanzi":"firefighter","pinyin":"","vi":"lính cứu hỏa","ex":{"tokens":["The","firefighter","saved","the","child","."],"py":["","","","","","."],"vi":"Người lính cứu hỏa đã cứu đứa trẻ.","alts":[]}},
    {"id":"m12-secretary","hanzi":"secretary","pinyin":"","vi":"thư ký","ex":{"tokens":["The","secretary","answered","the","phone","."],"py":["","","","","","."],"vi":"Thư ký đã trả lời điện thoại.","alts":[]}}
   ]},
-  {"id":"m13","title":"Đời sống học đường","desc":"Thời khóa biểu, đồng phục, căng tin, vắng mặt","icon":"Sch","unit":202,"course":"en","order":1220,"words":[
+  {"id":"m13","title":"Đời sống học đường","desc":"Thời khóa biểu, đồng phục, căng tin, vắng mặt","icon":"Sch","unit":202,"course":"en","order":1250,"words":[
    {"id":"m13-timetable","hanzi":"timetable","pinyin":"","vi":"thời khóa biểu","ex":{"tokens":["Check","the","timetable","for","today","."],"py":["","","","","","."],"vi":"Hãy xem thời khóa biểu hôm nay.","alts":[]}},
    {"id":"m13-absent","hanzi":"absent","pinyin":"","vi":"vắng mặt","ex":{"tokens":["Two","students","are","absent","today","."],"py":["","","","","","."],"vi":"Hôm nay có hai học sinh vắng mặt.","alts":[]}},
    {"id":"m13-textbook","hanzi":"textbook","pinyin":"","vi":"sách giáo khoa","ex":{"tokens":["Open","your","textbook","to","page","five","."],"py":["","","","","","","."],"vi":"Hãy mở sách giáo khoa trang năm.","alts":[]}},
@@ -31,7 +31,7 @@
    {"id":"m13-locker","hanzi":"locker","pinyin":"","vi":"tủ đựng đồ cá nhân","ex":{"tokens":["I","keep","my","shoes","in","my","locker","."],"py":["","","","","","","","."],"vi":"Tôi để giày trong tủ đồ cá nhân.","alts":[]}},
    {"id":"m13-attendance","hanzi":"attendance","pinyin":"","vi":"sự có mặt, điểm danh","ex":{"tokens":["The","teacher","checks","attendance","every","morning","."],"py":["","","","","","","."],"vi":"Giáo viên điểm danh mỗi sáng.","alts":[]}}
   ]},
-  {"id":"m14","title":"Tính cách thường gặp","desc":"Chăm chỉ, nói nhiều, cẩu thả, nghiêm khắc","icon":"Char","unit":202,"course":"en","order":1230,"words":[
+  {"id":"m14","title":"Tính cách thường gặp","desc":"Chăm chỉ, nói nhiều, cẩu thả, nghiêm khắc","icon":"Char","unit":202,"course":"en","order":1260,"words":[
    {"id":"m14-hardworking","hanzi":"hardworking","pinyin":"","vi":"chăm chỉ","ex":{"tokens":["She","is","a","hardworking","student","."],"py":["","","","","","."],"vi":"Cô ấy là một học sinh chăm chỉ.","alts":[]}},
    {"id":"m14-talkative","hanzi":"talkative","pinyin":"","vi":"nói nhiều","ex":{"tokens":["My","little","sister","is","very","talkative","."],"py":["","","","","","","."],"vi":"Em gái tôi nói rất nhiều.","alts":[]}},
    {"id":"m14-careless","hanzi":"careless","pinyin":"","vi":"cẩu thả, bất cẩn","ex":{"tokens":["He","made","a","careless","mistake","."],"py":["","","","","","."],"vi":"Cậu ấy đã mắc một lỗi bất cẩn.","alts":[]}},
@@ -45,7 +45,7 @@
    {"id":"m14-silly","hanzi":"silly","pinyin":"","vi":"ngớ ngẩn","ex":{"tokens":["That","was","a","silly","question","."],"py":["","","","","","."],"vi":"Đó là một câu hỏi ngớ ngẩn.","alts":[]}},
    {"id":"m14-clumsy","hanzi":"clumsy","pinyin":"","vi":"vụng về","ex":{"tokens":["I","am","clumsy","in","the","kitchen","."],"py":["","","","","","","."],"vi":"Tôi vụng về trong bếp.","alts":[]}}
   ]},
-  {"id":"m15","title":"Tình bạn","desc":"Bạn thân, bí mật, cãi nhau, trò chuyện","icon":"Pal","unit":202,"course":"en","order":1240,"words":[
+  {"id":"m15","title":"Tình bạn","desc":"Bạn thân, bí mật, cãi nhau, trò chuyện","icon":"Pal","unit":202,"course":"en","order":1270,"words":[
    {"id":"m15-best_friend","hanzi":"best friend","pinyin":"","vi":"bạn thân nhất","ex":{"tokens":["Lan","is","my","best","friend","."],"py":["","","","","","."],"vi":"Lan là bạn thân nhất của tôi.","alts":[]}},
    {"id":"m15-secret","hanzi":"secret","pinyin":"","vi":"bí mật","ex":{"tokens":["Can","you","keep","a","secret","?"],"py":["","","","","","?"],"vi":"Bạn có giữ được bí mật không?","alts":[]}},
    {"id":"m15-lie","hanzi":"lie","pinyin":"","vi":"nói dối; nằm","ex":{"tokens":["Do","not","lie","to","your","parents","."],"py":["","","","","","","."],"vi":"Đừng nói dối bố mẹ.","alts":[]}},
@@ -59,7 +59,7 @@
    {"id":"m15-invitation","hanzi":"invitation","pinyin":"","vi":"lời mời, thiệp mời","ex":{"tokens":["Thank","you","for","the","invitation","."],"py":["","","","","","."],"vi":"Cảm ơn vì lời mời.","alts":[]}},
    {"id":"m15-hang_out","hanzi":"hang out","pinyin":"","vi":"đi chơi, tụ tập","ex":{"tokens":["We","hang","out","at","the","mall","on","Sunday","."],"py":["","","","","","","","","."],"vi":"Chủ nhật chúng tôi đi chơi ở trung tâm thương mại.","alts":[]}}
   ]},
-  {"id":"m16","title":"Ốm đau thông thường","desc":"Đau bụng, cúm, hắt hơi, chóng mặt, vết thương","icon":"Sick","unit":202,"course":"en","order":1250,"words":[
+  {"id":"m16","title":"Ốm đau thông thường","desc":"Đau bụng, cúm, hắt hơi, chóng mặt, vết thương","icon":"Sick","unit":202,"course":"en","order":1280,"words":[
    {"id":"m16-stomachache","hanzi":"stomachache","pinyin":"","vi":"đau bụng","ex":{"tokens":["He","has","a","stomachache","after","lunch","."],"py":["","","","","","","."],"vi":"Anh ấy bị đau bụng sau bữa trưa.","alts":[]}},
    {"id":"m16-toothache","hanzi":"toothache","pinyin":"","vi":"đau răng","ex":{"tokens":["A","toothache","kept","me","awake","."],"py":["","","","","","."],"vi":"Cơn đau răng làm tôi mất ngủ.","alts":[]}},
    {"id":"m16-sore_throat","hanzi":"sore throat","pinyin":"","vi":"đau họng","ex":{"tokens":["Drink","warm","water","for","a","sore","throat","."],"py":["","","","","","","","."],"vi":"Hãy uống nước ấm khi đau họng.","alts":[]}},
@@ -73,7 +73,7 @@
    {"id":"m16-wound","hanzi":"wound","pinyin":"","vi":"vết thương","ex":{"tokens":["Clean","the","wound","with","water","."],"py":["","","","","","."],"vi":"Hãy rửa vết thương bằng nước.","alts":[]}},
    {"id":"m16-bruise","hanzi":"bruise","pinyin":"","vi":"vết bầm tím","ex":{"tokens":["I","have","a","bruise","on","my","leg","."],"py":["","","","","","","","."],"vi":"Tôi có một vết bầm ở chân.","alts":[]}}
   ]},
-  {"id":"m17","title":"Thể thao 2","desc":"Cầu lông, bóng chuyền, trọng tài, huy chương","icon":"Cup","unit":202,"course":"en","order":1260,"words":[
+  {"id":"m17","title":"Thể thao 2","desc":"Cầu lông, bóng chuyền, trọng tài, huy chương","icon":"Cup","unit":202,"course":"en","order":1290,"words":[
    {"id":"m17-badminton","hanzi":"badminton","pinyin":"","vi":"cầu lông","ex":{"tokens":["We","play","badminton","in","the","park","."],"py":["","","","","","","."],"vi":"Chúng tôi chơi cầu lông trong công viên.","alts":[]}},
    {"id":"m17-volleyball","hanzi":"volleyball","pinyin":"","vi":"bóng chuyền","ex":{"tokens":["The","girls","play","volleyball","on","the","beach","."],"py":["","","","","","","","."],"vi":"Các cô gái chơi bóng chuyền trên bãi biển.","alts":[]}},
    {"id":"m17-referee","hanzi":"referee","pinyin":"","vi":"trọng tài","ex":{"tokens":["The","referee","stopped","the","game","."],"py":["","","","","","."],"vi":"Trọng tài đã dừng trận đấu.","alts":[]}},
@@ -87,7 +87,7 @@
    {"id":"m17-tournament","hanzi":"tournament","pinyin":"","vi":"giải đấu","ex":{"tokens":["The","tournament","starts","next","week","."],"py":["","","","","","."],"vi":"Giải đấu bắt đầu vào tuần sau.","alts":[]}},
    {"id":"m17-cheer","hanzi":"cheer","pinyin":"","vi":"cổ vũ, reo hò","ex":{"tokens":["We","cheer","for","our","school","team","."],"py":["","","","","","","."],"vi":"Chúng tôi cổ vũ cho đội của trường.","alts":[]}}
   ]},
-  {"id":"m18","title":"Vào bếp","desc":"Thái, khuấy, gọt, rót, bếp, ấm đun nước","icon":"Cook","unit":202,"course":"en","order":1270,"words":[
+  {"id":"m18","title":"Vào bếp","desc":"Thái, khuấy, gọt, rót, bếp, ấm đun nước","icon":"Cook","unit":202,"course":"en","order":1300,"words":[
    {"id":"m18-chop","hanzi":"chop","pinyin":"","vi":"thái, chặt","ex":{"tokens":["Chop","the","vegetables","first","."],"py":["","","","","."],"vi":"Hãy thái rau trước.","alts":[]}},
    {"id":"m18-stir","hanzi":"stir","pinyin":"","vi":"khuấy","ex":{"tokens":["Stir","the","soup","slowly","."],"py":["","","","","."],"vi":"Hãy khuấy súp từ từ.","alts":[]}},
    {"id":"m18-peel","hanzi":"peel","pinyin":"","vi":"gọt vỏ, bóc vỏ","ex":{"tokens":["Peel","the","orange","for","your","sister","."],"py":["","","","","","","."],"vi":"Hãy bóc cam cho em gái.","alts":[]}},
@@ -101,7 +101,7 @@
    {"id":"m18-burn","hanzi":"burn","pinyin":"","vi":"làm cháy, bỏng","ex":{"tokens":["Be","careful","not","to","burn","the","rice","."],"py":["","","","","","","","."],"vi":"Cẩn thận đừng làm cháy cơm.","alts":[]}},
    {"id":"m18-serve","hanzi":"serve","pinyin":"","vi":"phục vụ, dọn ra","ex":{"tokens":["They","serve","breakfast","at","seven","."],"py":["","","","","","."],"vi":"Họ phục vụ bữa sáng lúc bảy giờ.","alts":[]}}
   ]},
-  {"id":"m19","title":"Quần áo 3","desc":"Cà vạt, thắt lưng, túi, vừa, chật, rộng","icon":"Wear","unit":202,"course":"en","order":1280,"words":[
+  {"id":"m19","title":"Quần áo 3","desc":"Cà vạt, thắt lưng, túi, vừa, chật, rộng","icon":"Wear","unit":202,"course":"en","order":1310,"words":[
    {"id":"m19-tie","hanzi":"tie","pinyin":"","vi":"cà vạt; buộc","ex":{"tokens":["He","wears","a","tie","to","work","."],"py":["","","","","","","."],"vi":"Anh ấy đeo cà vạt đi làm.","alts":[]}},
    {"id":"m19-belt","hanzi":"belt","pinyin":"","vi":"thắt lưng","ex":{"tokens":["This","belt","is","too","long","."],"py":["","","","","","."],"vi":"Cái thắt lưng này dài quá.","alts":[]}},
    {"id":"m19-scarf","hanzi":"scarf","pinyin":"","vi":"khăn quàng cổ","ex":{"tokens":["She","wears","a","red","scarf","."],"py":["","","","","","."],"vi":"Cô ấy quàng một chiếc khăn đỏ.","alts":[]}},
@@ -115,7 +115,7 @@
    {"id":"m19-collar","hanzi":"collar","pinyin":"","vi":"cổ áo","ex":{"tokens":["The","collar","of","his","shirt","is","dirty","."],"py":["","","","","","","","."],"vi":"Cổ áo sơ mi của anh ấy bị bẩn.","alts":[]}},
    {"id":"m19-zipper","hanzi":"zipper","pinyin":"","vi":"khóa kéo","ex":{"tokens":["The","zipper","on","my","bag","is","broken","."],"py":["","","","","","","","."],"vi":"Khóa kéo trên túi của tôi bị hỏng.","alts":[]}}
   ]},
-  {"id":"m20","title":"Giải trí 2","desc":"Ban nhạc, đàn piano, cắm trại, câu cá, cờ vua","icon":"Fun","unit":202,"course":"en","order":1290,"words":[
+  {"id":"m20","title":"Giải trí 2","desc":"Ban nhạc, đàn piano, cắm trại, câu cá, cờ vua","icon":"Fun","unit":202,"course":"en","order":1320,"words":[
    {"id":"m20-band","hanzi":"band","pinyin":"","vi":"ban nhạc","ex":{"tokens":["My","brother","plays","in","a","band","."],"py":["","","","","","","."],"vi":"Anh trai tôi chơi trong một ban nhạc.","alts":[]}},
    {"id":"m20-piano","hanzi":"piano","pinyin":"","vi":"đàn piano","ex":{"tokens":["I","am","learning","the","piano","."],"py":["","","","","","."],"vi":"Tôi đang học đàn piano.","alts":[]}},
    {"id":"m20-drum","hanzi":"drum","pinyin":"","vi":"cái trống","ex":{"tokens":["He","plays","the","drum","at","school","."],"py":["","","","","","","."],"vi":"Cậu ấy chơi trống ở trường.","alts":[]}},
@@ -129,7 +129,7 @@
    {"id":"m20-karaoke","hanzi":"karaoke","pinyin":"","vi":"hát karaoke","ex":{"tokens":["We","sing","karaoke","at","Tet","."],"py":["","","","","","."],"vi":"Chúng tôi hát karaoke vào dịp Tết.","alts":[]}},
    {"id":"m20-comic","hanzi":"comic","pinyin":"","vi":"truyện tranh","ex":{"tokens":["He","reads","a","comic","before","bed","."],"py":["","","","","","","."],"vi":"Cậu ấy đọc truyện tranh trước khi ngủ.","alts":[]}}
   ]},
-  {"id":"m21","title":"Tâm trạng 2","desc":"Bực mình, kinh ngạc, hài lòng, nhớ nhà","icon":"Mood","unit":202,"course":"en","order":1300,"words":[
+  {"id":"m21","title":"Tâm trạng 2","desc":"Bực mình, kinh ngạc, hài lòng, nhớ nhà","icon":"Mood","unit":202,"course":"en","order":1330,"words":[
    {"id":"m21-annoyed","hanzi":"annoyed","pinyin":"","vi":"bực mình","ex":{"tokens":["I","was","annoyed","by","the","noise","."],"py":["","","","","","","."],"vi":"Tôi bực mình vì tiếng ồn.","alts":[]}},
    {"id":"m21-amazed","hanzi":"amazed","pinyin":"","vi":"kinh ngạc","ex":{"tokens":["We","were","amazed","by","the","view","."],"py":["","","","","","","."],"vi":"Chúng tôi kinh ngạc trước cảnh đẹp.","alts":[]}},
    {"id":"m21-pleased","hanzi":"pleased","pinyin":"","vi":"hài lòng","ex":{"tokens":["The","teacher","is","pleased","with","your","work","."],"py":["","","","","","","","."],"vi":"Cô giáo hài lòng với bài làm của bạn.","alts":[]}},
@@ -143,7 +143,7 @@
    {"id":"m21-uneasy","hanzi":"uneasy","pinyin":"","vi":"bất an","ex":{"tokens":["I","feel","uneasy","about","the","exam","."],"py":["","","","","","","."],"vi":"Tôi thấy bất an về kỳ thi.","alts":[]}},
    {"id":"m21-fed_up","hanzi":"fed up","pinyin":"","vi":"chán ngấy","ex":{"tokens":["I","am","fed","up","with","this","rain","."],"py":["","","","","","","","."],"vi":"Tôi chán ngấy cơn mưa này rồi.","alts":[]}}
   ]},
-  {"id":"m22","title":"Việc nhà 2","desc":"Lau, gấp, phơi, chổi, xô, rửa bát","icon":"Home","unit":202,"course":"en","order":1310,"words":[
+  {"id":"m22","title":"Việc nhà 2","desc":"Lau, gấp, phơi, chổi, xô, rửa bát","icon":"Home","unit":202,"course":"en","order":1340,"words":[
    {"id":"m22-chore","hanzi":"chore","pinyin":"","vi":"việc vặt trong nhà","ex":{"tokens":["Washing","up","is","my","least","favorite","chore","."],"py":["","","","","","","","."],"vi":"Rửa bát là việc nhà tôi ít thích nhất.","alts":[]}},
    {"id":"m22-housework","hanzi":"housework","pinyin":"","vi":"việc nhà","ex":{"tokens":["We","share","the","housework","."],"py":["","","","","."],"vi":"Chúng tôi chia sẻ việc nhà.","alts":[]}},
    {"id":"m22-dust","hanzi":"dust","pinyin":"","vi":"bụi; lau bụi","ex":{"tokens":["There","is","dust","on","the","shelf","."],"py":["","","","","","","."],"vi":"Có bụi trên giá.","alts":[]}},

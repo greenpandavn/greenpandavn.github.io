@@ -1,9 +1,9 @@
 {
  "units": [
-  {"unit":355,"level":3,"title":"Phần 28: Mở rộng – Công sở và việc làm","desc":"Công sở và việc làm, Từ vựng tổng hợp","color":"sun","course":"en"}
+  {"unit":355,"level":3,"title":"Phần 30: Mở rộng – Công sở và việc làm","desc":"Công sở và việc làm, Từ vựng tổng hợp","color":"sun","course":"en"}
  ],
  "lessons": [
-  {"id":"y3081","title":"Công sở và việc làm 1","desc":"Tuyển dụng, chế độ, đồ dùng văn phòng","icon":"Office","unit":355,"course":"en","order":3010,"words":[
+  {"id":"y3081","title":"Công sở và việc làm 1","desc":"Tuyển dụng, chế độ, đồ dùng văn phòng","icon":"Office","unit":355,"course":"en","order":3110,"words":[
    {"id":"y3081-r_sum_","hanzi":"résumé","pinyin":"","vi":"sơ yếu lý lịch","ex":{"tokens":["Send","your","résumé","by","email","."],"py":["","","","","","."],"vi":"Hãy gửi sơ yếu lý lịch qua email.","alts":[]}},
    {"id":"y3081-cover_letter","hanzi":"cover letter","pinyin":"","vi":"thư xin việc","ex":{"tokens":["Write","a","short","cover","letter","."],"py":["","","","","","."],"vi":"Hãy viết một lá thư xin việc ngắn.","alts":[]}},
    {"id":"y3081-applicant","hanzi":"applicant","pinyin":"","vi":"người nộp đơn, ứng viên","ex":{"tokens":["Each","applicant","must","fill","in","a","form","."],"py":["","","","","","","","."],"vi":"Mỗi ứng viên phải điền một mẫu đơn.","alts":[]}},
@@ -19,7 +19,7 @@
    {"id":"y3081-sick_leave","hanzi":"sick leave","pinyin":"","vi":"nghỉ ốm","ex":{"tokens":["He","is","on","sick","leave","this","week","."],"py":["","","","","","","","."],"vi":"Tuần này anh ấy nghỉ ốm.","alts":[]}},
    {"id":"y3081-maternity_leave","hanzi":"maternity leave","pinyin":"","vi":"nghỉ thai sản","ex":{"tokens":["She","is","on","maternity","leave","until","June","."],"py":["","","","","","","","."],"vi":"Cô ấy nghỉ thai sản đến tháng Sáu.","alts":[]}}
   ]},
-  {"id":"y3082","title":"Công sở và việc làm 2","desc":"Tuyển dụng, chế độ, đồ dùng văn phòng","icon":"Office","unit":355,"course":"en","order":3020,"words":[
+  {"id":"y3082","title":"Công sở và việc làm 2","desc":"Tuyển dụng, chế độ, đồ dùng văn phòng","icon":"Office","unit":355,"course":"en","order":3120,"words":[
    {"id":"y3082-annual_leave","hanzi":"annual leave","pinyin":"","vi":"nghỉ phép năm","ex":{"tokens":["I","have","ten","days","of","annual","leave","left","."],"py":["","","","","","","","","."],"vi":"Tôi còn mười ngày nghỉ phép năm.","alts":[]}},
    {"id":"y3082-dismissal","hanzi":"dismissal","pinyin":"","vi":"sự sa thải","ex":{"tokens":["He","was","shocked","by","his","dismissal","."],"py":["","","","","","","."],"vi":"Anh ấy sốc vì bị sa thải.","alts":[]}},
    {"id":"y3082-retirement","hanzi":"retirement","pinyin":"","vi":"sự nghỉ hưu","ex":{"tokens":["He","took","up","fishing","after","retirement","."],"py":["","","","","","","."],"vi":"Ông ấy bắt đầu đi câu sau khi nghỉ hưu.","alts":[]}},
@@ -35,7 +35,7 @@
    {"id":"y3082-binder","hanzi":"binder","pinyin":"","vi":"bìa còng","ex":{"tokens":["Keep","the","reports","in","a","binder","."],"py":["","","","","","","."],"vi":"Hãy giữ các báo cáo trong một bìa còng.","alts":[]}},
    {"id":"y3082-filing_cabinet","hanzi":"filing cabinet","pinyin":"","vi":"tủ hồ sơ","ex":{"tokens":["The","contracts","are","in","the","filing","cabinet","."],"py":["","","","","","","","."],"vi":"Các hợp đồng nằm trong tủ hồ sơ.","alts":[]}}
   ]},
-  {"id":"y3083","title":"Công sở và việc làm 3","desc":"Tuyển dụng, chế độ, đồ dùng văn phòng","icon":"Office","unit":355,"course":"en","order":3030,"words":[
+  {"id":"y3083","title":"Công sở và việc làm 3","desc":"Tuyển dụng, chế độ, đồ dùng văn phòng","icon":"Office","unit":355,"course":"en","order":3130,"words":[
    {"id":"y3083-projector","hanzi":"projector","pinyin":"","vi":"máy chiếu","ex":{"tokens":["The","projector","is","not","working","."],"py":["","","","","","."],"vi":"Máy chiếu không hoạt động.","alts":[]}},
    {"id":"y3083-name_tag","hanzi":"name tag","pinyin":"","vi":"bảng tên","ex":{"tokens":["Please","wear","your","name","tag","."],"py":["","","","","","."],"vi":"Vui lòng đeo bảng tên.","alts":[]}},
    {"id":"y3083-business_card","hanzi":"business card","pinyin":"","vi":"danh thiếp","ex":{"tokens":["He","gave","me","his","business","card","."],"py":["","","","","","","."],"vi":"Anh ấy đưa tôi danh thiếp.","alts":[]}},
@@ -51,7 +51,7 @@
    {"id":"y3083-performance_review","hanzi":"performance review","pinyin":"","vi":"buổi đánh giá hiệu quả công việc","ex":{"tokens":["My","performance","review","is","next","week","."],"py":["","","","","","","."],"vi":"Buổi đánh giá công việc của tôi là tuần sau.","alts":[]}},
    {"id":"y3083-job_description","hanzi":"job description","pinyin":"","vi":"bản mô tả công việc","ex":{"tokens":["Read","the","job","description","carefully","."],"py":["","","","","","."],"vi":"Hãy đọc kỹ bản mô tả công việc.","alts":[]}}
   ]},
-  {"id":"y3084","title":"Công sở và việc làm 4","desc":"Tuyển dụng, chế độ, đồ dùng văn phòng","icon":"Office","unit":355,"course":"en","order":3040,"words":[
+  {"id":"y3084","title":"Công sở và việc làm 4","desc":"Tuyển dụng, chế độ, đồ dùng văn phòng","icon":"Office","unit":355,"course":"en","order":3140,"words":[
    {"id":"y3084-human_resources","hanzi":"human resources","pinyin":"","vi":"phòng nhân sự","ex":{"tokens":["Send","the","form","to","human","resources","."],"py":["","","","","","","."],"vi":"Hãy gửi mẫu đơn cho phòng nhân sự.","alts":[]}},
    {"id":"y3084-trade_union","hanzi":"trade union","pinyin":"","vi":"công đoàn","ex":{"tokens":["She","joined","the","trade","union","."],"py":["","","","","","."],"vi":"Cô ấy gia nhập công đoàn.","alts":[]}},
    {"id":"y3084-work_life_balance","hanzi":"work-life balance","pinyin":"","vi":"cân bằng công việc và cuộc sống","ex":{"tokens":["A","good","work-life","balance","keeps","you","healthy","."],"py":["","","","","","","","."],"vi":"Cân bằng tốt giữa công việc và cuộc sống giúp bạn khỏe mạnh.","alts":[]}},
@@ -67,7 +67,7 @@
    {"id":"y3084-lanyard","hanzi":"lanyard","pinyin":"","vi":"dây đeo thẻ","ex":{"tokens":["He","wore","his","badge","on","a","lanyard","."],"py":["","","","","","","","."],"vi":"Anh ấy đeo thẻ bằng dây đeo.","alts":[]}},
    {"id":"y3084-telecommute","hanzi":"telecommute","pinyin":"","vi":"làm việc từ xa","ex":{"tokens":["Many","staff","telecommute","two","days","a","week","."],"py":["","","","","","","","."],"vi":"Nhiều nhân viên làm việc từ xa hai ngày một tuần.","alts":[]}}
   ]},
-  {"id":"y3085","title":"Từ vựng tổng hợp 1","desc":"Từ thuộc nhiều chủ đề","icon":"Mix","unit":355,"course":"en","order":3050,"words":[
+  {"id":"y3085","title":"Từ vựng tổng hợp 1","desc":"Từ thuộc nhiều chủ đề","icon":"Mix","unit":355,"course":"en","order":3150,"words":[
    {"id":"y3085-candlestick","hanzi":"candlestick","pinyin":"","vi":"chân nến","ex":{"tokens":["There","is","a","silver","candlestick","on","the","table","."],"py":["","","","","","","","","."],"vi":"Có một chiếc chân nến bạc trên bàn.","alts":[]}},
    {"id":"y3085-ornament","hanzi":"ornament","pinyin":"","vi":"đồ trang trí","ex":{"tokens":["She","hung","an","ornament","on","the","tree","."],"py":["","","","","","","","."],"vi":"Cô ấy treo một món đồ trang trí lên cây.","alts":[]}},
    {"id":"y3085-picture_frame","hanzi":"picture frame","pinyin":"","vi":"khung ảnh","ex":{"tokens":["The","photo","is","in","a","wooden","picture","frame","."],"py":["","","","","","","","","."],"vi":"Bức ảnh nằm trong khung gỗ.","alts":[]}},
@@ -83,7 +83,7 @@
    {"id":"y3085-tailgate","hanzi":"tailgate","pinyin":"","vi":"bám sát đuôi xe; cửa hậu","ex":{"tokens":["Do","not","tailgate","the","car","in","front","."],"py":["","","","","","","","."],"vi":"Đừng bám sát đuôi xe phía trước.","alts":[]}},
    {"id":"y3085-promenade","hanzi":"promenade","pinyin":"","vi":"đường dạo ven biển","ex":{"tokens":["We","walked","along","the","promenade","at","sunset","."],"py":["","","","","","","","."],"vi":"Chúng tôi đi dạo trên đường ven biển lúc hoàng hôn.","alts":[]}}
   ]},
-  {"id":"y3086","title":"Từ vựng tổng hợp 2","desc":"Từ thuộc nhiều chủ đề","icon":"Mix","unit":355,"course":"en","order":3060,"words":[
+  {"id":"y3086","title":"Từ vựng tổng hợp 2","desc":"Từ thuộc nhiều chủ đề","icon":"Mix","unit":355,"course":"en","order":3160,"words":[
    {"id":"y3086-boardwalk","hanzi":"boardwalk","pinyin":"","vi":"lối đi lát ván ven biển","ex":{"tokens":["There","are","food","stalls","on","the","boardwalk","."],"py":["","","","","","","","."],"vi":"Có các quầy đồ ăn trên lối đi lát ván.","alts":[]}},
    {"id":"y3086-immigration_desk","hanzi":"immigration desk","pinyin":"","vi":"quầy xuất nhập cảnh","ex":{"tokens":["Show","your","passport","at","the","immigration","desk","."],"py":["","","","","","","","."],"vi":"Hãy xuất trình hộ chiếu ở quầy xuất nhập cảnh.","alts":[]}},
    {"id":"y3086-bellhop","hanzi":"bellhop","pinyin":"","vi":"nhân viên xách hành lý khách sạn","ex":{"tokens":["The","bellhop","took","our","bags","to","the","room","."],"py":["","","","","","","","","."],"vi":"Nhân viên xách hành lý mang túi của chúng tôi lên phòng.","alts":[]}},

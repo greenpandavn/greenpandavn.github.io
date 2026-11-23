@@ -1,9 +1,9 @@
 {
  "units": [
-  {"unit":304,"level":3,"title":"Phần 21: Tư duy và diễn đạt","desc":"Khái niệm trừu tượng, xu hướng, từ nối, nghệ thuật, du lịch","color":"coral","course":"en"}
+  {"unit":304,"level":3,"title":"Phần 23: Tư duy và diễn đạt","desc":"Khái niệm trừu tượng, xu hướng, từ nối, nghệ thuật, du lịch","color":"coral","course":"en"}
  ],
  "lessons": [
-  {"id":"a49","title":"Khái niệm trừu tượng","desc":"Sự thật, ý nghĩa, mục đích, chất lượng","icon":"Idea","unit":304,"course":"en","order":2180,"words":[
+  {"id":"a49","title":"Khái niệm trừu tượng","desc":"Sự thật, ý nghĩa, mục đích, chất lượng","icon":"Idea","unit":304,"course":"en","order":2280,"words":[
    {"id":"a49-truth","hanzi":"truth","pinyin":"","vi":"sự thật","ex":{"tokens":["Please","tell","me","the","truth","."],"py":["","","","","","."],"vi":"Xin hãy nói cho tôi sự thật.","alts":[]}},
    {"id":"a49-purpose","hanzi":"purpose","pinyin":"","vi":"mục đích","ex":{"tokens":["What","is","the","purpose","of","your","visit","?"],"py":["","","","","","","","?"],"vi":"Mục đích chuyến thăm của bạn là gì?","alts":[]}},
    {"id":"a49-meaning","hanzi":"meaning","pinyin":"","vi":"ý nghĩa","ex":{"tokens":["What","is","the","meaning","of","this","word","?"],"py":["","","","","","","","?"],"vi":"Ý nghĩa của từ này là gì?","alts":[]}},
@@ -17,7 +17,7 @@
    {"id":"a49-difference","hanzi":"difference","pinyin":"","vi":"sự khác biệt","ex":{"tokens":["What","is","the","difference","between","them","?"],"py":["","","","","","","?"],"vi":"Sự khác biệt giữa chúng là gì?","alts":[]}},
    {"id":"a49-influence","hanzi":"influence","pinyin":"","vi":"ảnh hưởng","ex":{"tokens":["Parents","have","a","strong","influence","on","children","."],"py":["","","","","","","","."],"vi":"Bố mẹ có ảnh hưởng mạnh mẽ đến con cái.","alts":[]}}
   ]},
-  {"id":"a50","title":"Động từ tư duy","desc":"Nhận ra, cân nhắc, tưởng tượng, giả sử","icon":"Hmm","unit":304,"course":"en","order":2190,"words":[
+  {"id":"a50","title":"Động từ tư duy","desc":"Nhận ra, cân nhắc, tưởng tượng, giả sử","icon":"Hmm","unit":304,"course":"en","order":2290,"words":[
    {"id":"a50-realize","hanzi":"realize","pinyin":"","vi":"nhận ra","ex":{"tokens":["I","did","not","realize","it","was","so","late","."],"py":["","","","","","","","","."],"vi":"Tôi đã không nhận ra là muộn đến thế.","alts":[]}},
    {"id":"a50-consider","hanzi":"consider","pinyin":"","vi":"cân nhắc, xem xét","ex":{"tokens":["Please","consider","my","offer","."],"py":["","","","","."],"vi":"Xin hãy cân nhắc lời đề nghị của tôi.","alts":[]}},
    {"id":"a50-imagine","hanzi":"imagine","pinyin":"","vi":"tưởng tượng","ex":{"tokens":["Can","you","imagine","life","without","phones","?"],"py":["","","","","","","?"],"vi":"Bạn có thể tưởng tượng cuộc sống không có điện thoại không?","alts":[]}},
@@ -31,7 +31,7 @@
    {"id":"a50-wonder","hanzi":"wonder","pinyin":"","vi":"tự hỏi, thắc mắc","ex":{"tokens":["I","wonder","why","she","is","late","."],"py":["","","","","","","."],"vi":"Tôi tự hỏi tại sao cô ấy đến muộn.","alts":[]}},
    {"id":"a50-predict","hanzi":"predict","pinyin":"","vi":"dự đoán","ex":{"tokens":["Nobody","can","predict","the","future","."],"py":["","","","","","."],"vi":"Không ai có thể dự đoán tương lai.","alts":[]}}
   ]},
-  {"id":"a51","title":"Mô tả xu hướng","desc":"Tăng, giảm, ổn định, trung bình","icon":"Up","unit":304,"course":"en","order":2200,"words":[
+  {"id":"a51","title":"Mô tả xu hướng","desc":"Tăng, giảm, ổn định, trung bình","icon":"Up","unit":304,"course":"en","order":2300,"words":[
    {"id":"a51-rise","hanzi":"rise","pinyin":"","vi":"tăng lên, mọc","ex":{"tokens":["Prices","rise","every","summer","."],"py":["","","","","."],"vi":"Giá cả tăng lên mỗi mùa hè.","alts":[]}},
    {"id":"a51-fall","hanzi":"fall","pinyin":"","vi":"giảm, rơi, ngã","ex":{"tokens":["Leaves","fall","in","autumn","."],"py":["","","","","."],"vi":"Lá rụng vào mùa thu.","alts":[]}},
    {"id":"a51-remain","hanzi":"remain","pinyin":"","vi":"vẫn, còn lại","ex":{"tokens":["Prices","remain","the","same","this","year","."],"py":["","","","","","","."],"vi":"Năm nay giá cả vẫn giữ nguyên.","alts":[]}},
@@ -45,7 +45,7 @@
    {"id":"a51-gradually","hanzi":"gradually","pinyin":"","vi":"dần dần","ex":{"tokens":["The","weather","is","gradually","getting","warmer","."],"py":["","","","","","","."],"vi":"Thời tiết đang dần ấm lên.","alts":[]}},
    {"id":"a51-sharply","hanzi":"sharply","pinyin":"","vi":"mạnh, đột ngột","ex":{"tokens":["Sales","fell","sharply","in","March","."],"py":["","","","","","."],"vi":"Doanh số giảm mạnh vào tháng Ba.","alts":[]}}
   ]},
-  {"id":"a52","title":"Nguyên nhân và kết quả","desc":"Gây ra, dẫn đến, hậu quả, tác động","icon":"So","unit":304,"course":"en","order":2210,"words":[
+  {"id":"a52","title":"Nguyên nhân và kết quả","desc":"Gây ra, dẫn đến, hậu quả, tác động","icon":"So","unit":304,"course":"en","order":2310,"words":[
    {"id":"a52-cause","hanzi":"cause","pinyin":"","vi":"gây ra, nguyên nhân","ex":{"tokens":["Smoking","can","cause","serious","illness","."],"py":["","","","","","."],"vi":"Hút thuốc có thể gây ra bệnh nặng.","alts":[]}},
    {"id":"a52-effect","hanzi":"effect","pinyin":"","vi":"tác động, hiệu ứng","ex":{"tokens":["The","medicine","had","no","effect","."],"py":["","","","","","."],"vi":"Thuốc không có tác dụng.","alts":[]}},
    {"id":"a52-affect","hanzi":"affect","pinyin":"","vi":"ảnh hưởng đến","ex":{"tokens":["The","weather","can","affect","your","mood","."],"py":["","","","","","","."],"vi":"Thời tiết có thể ảnh hưởng đến tâm trạng của bạn.","alts":[]}},
@@ -59,7 +59,7 @@
    {"id":"a52-factor","hanzi":"factor","pinyin":"","vi":"yếu tố","ex":{"tokens":["Price","is","an","important","factor","."],"py":["","","","","","."],"vi":"Giá cả là một yếu tố quan trọng.","alts":[]}},
    {"id":"a52-outcome","hanzi":"outcome","pinyin":"","vi":"kết quả, kết cục","ex":{"tokens":["We","are","happy","with","the","outcome","."],"py":["","","","","","","."],"vi":"Chúng tôi hài lòng với kết quả.","alts":[]}}
   ]},
-  {"id":"a53","title":"Từ nối nâng cao","desc":"Moreover, despite, whereas, otherwise","icon":"And","unit":304,"course":"en","order":2220,"words":[
+  {"id":"a53","title":"Từ nối nâng cao","desc":"Moreover, despite, whereas, otherwise","icon":"And","unit":304,"course":"en","order":2320,"words":[
    {"id":"a53-moreover","hanzi":"moreover","pinyin":"","vi":"hơn nữa","ex":{"tokens":["The","room","is","small",".","Moreover",",","it","is","expensive","."],"py":["","","","",".","",",","","","","."],"vi":"Căn phòng nhỏ. Hơn nữa, nó còn đắt.","alts":[]}},
    {"id":"a53-furthermore","hanzi":"furthermore","pinyin":"","vi":"thêm vào đó","ex":{"tokens":["He","is","smart",".","Furthermore",",","he","works","hard","."],"py":["","","",".","",",","","","","."],"vi":"Anh ấy thông minh. Thêm vào đó, anh ấy làm việc chăm chỉ.","alts":[]}},
    {"id":"a53-despite","hanzi":"despite","pinyin":"","vi":"mặc dù, bất chấp","ex":{"tokens":["We","went","out","despite","the","rain","."],"py":["","","","","","","."],"vi":"Chúng tôi vẫn ra ngoài bất chấp trời mưa.","alts":[]}},
@@ -73,7 +73,7 @@
    {"id":"a53-even_though","hanzi":"even though","pinyin":"","vi":"mặc dù","ex":{"tokens":["She","came","even","though","she","was","sick","."],"py":["","","","","","","","."],"vi":"Cô ấy vẫn đến mặc dù bị ốm.","alts":[]}},
    {"id":"a53-in_order_to","hanzi":"in order to","pinyin":"","vi":"để, nhằm","ex":{"tokens":["I","get","up","early","in","order","to","exercise","."],"py":["","","","","","","","","."],"vi":"Tôi dậy sớm để tập thể dục.","alts":[]}}
   ]},
-  {"id":"a54","title":"Trạng từ chỉ mức độ","desc":"Extremely, slightly, hardly, completely","icon":"Very","unit":304,"course":"en","order":2230,"words":[
+  {"id":"a54","title":"Trạng từ chỉ mức độ","desc":"Extremely, slightly, hardly, completely","icon":"Very","unit":304,"course":"en","order":2330,"words":[
    {"id":"a54-extremely","hanzi":"extremely","pinyin":"","vi":"cực kỳ","ex":{"tokens":["The","exam","was","extremely","difficult","."],"py":["","","","","","."],"vi":"Kỳ thi cực kỳ khó.","alts":[]}},
    {"id":"a54-slightly","hanzi":"slightly","pinyin":"","vi":"hơi, một chút","ex":{"tokens":["This","shirt","is","slightly","too","big","."],"py":["","","","","","","."],"vi":"Chiếc áo này hơi rộng một chút.","alts":[]}},
    {"id":"a54-hardly","hanzi":"hardly","pinyin":"","vi":"hầu như không","ex":{"tokens":["I","can","hardly","hear","you","."],"py":["","","","","","."],"vi":"Tôi hầu như không nghe thấy bạn.","alts":[]}},
@@ -87,7 +87,7 @@
    {"id":"a54-exactly","hanzi":"exactly","pinyin":"","vi":"chính xác","ex":{"tokens":["That","is","exactly","what","I","mean","."],"py":["","","","","","","."],"vi":"Đó chính xác là điều tôi muốn nói.","alts":[]}},
    {"id":"a54-definitely","hanzi":"definitely","pinyin":"","vi":"chắc chắn","ex":{"tokens":["I","will","definitely","come","to","your","party","."],"py":["","","","","","","","."],"vi":"Tôi chắc chắn sẽ đến bữa tiệc của bạn.","alts":[]}}
   ]},
-  {"id":"a55","title":"Động từ tường thuật","desc":"Khẳng định, phủ nhận, thừa nhận, nhắc nhở","icon":"Say","unit":304,"course":"en","order":2240,"words":[
+  {"id":"a55","title":"Động từ tường thuật","desc":"Khẳng định, phủ nhận, thừa nhận, nhắc nhở","icon":"Say","unit":304,"course":"en","order":2340,"words":[
    {"id":"a55-claim","hanzi":"claim","pinyin":"","vi":"khẳng định, tuyên bố","ex":{"tokens":["They","claim","that","the","product","is","safe","."],"py":["","","","","","","","."],"vi":"Họ khẳng định rằng sản phẩm an toàn.","alts":[]}},
    {"id":"a55-deny","hanzi":"deny","pinyin":"","vi":"phủ nhận","ex":{"tokens":["He","will","deny","that","he","took","the","money","."],"py":["","","","","","","","","."],"vi":"Anh ta sẽ phủ nhận việc đã lấy tiền.","alts":[]}},
    {"id":"a55-admit","hanzi":"admit","pinyin":"","vi":"thừa nhận","ex":{"tokens":["I","admit","that","I","was","wrong","."],"py":["","","","","","","."],"vi":"Tôi thừa nhận rằng mình đã sai.","alts":[]}},
@@ -101,7 +101,7 @@
    {"id":"a55-request","hanzi":"request","pinyin":"","vi":"yêu cầu, đề nghị","ex":{"tokens":["I","would","like","to","request","a","window","seat","."],"py":["","","","","","","","","."],"vi":"Tôi muốn yêu cầu một chỗ ngồi cạnh cửa sổ.","alts":[]}},
    {"id":"a55-state","hanzi":"state","pinyin":"","vi":"phát biểu, nêu rõ; bang","ex":{"tokens":["Please","state","your","name","and","address","."],"py":["","","","","","","."],"vi":"Vui lòng nêu rõ tên và địa chỉ của bạn.","alts":[]}}
   ]},
-  {"id":"a56","title":"Tính từ đánh giá","desc":"Tuyệt vời, khủng khiếp, hữu ích, phù hợp","icon":"Wow","unit":304,"course":"en","order":2250,"words":[
+  {"id":"a56","title":"Tính từ đánh giá","desc":"Tuyệt vời, khủng khiếp, hữu ích, phù hợp","icon":"Wow","unit":304,"course":"en","order":2350,"words":[
    {"id":"a56-excellent","hanzi":"excellent","pinyin":"","vi":"xuất sắc","ex":{"tokens":["Your","English","is","excellent","."],"py":["","","","","."],"vi":"Tiếng Anh của bạn rất xuất sắc.","alts":[]}},
    {"id":"a56-terrible","hanzi":"terrible","pinyin":"","vi":"tồi tệ, khủng khiếp","ex":{"tokens":["The","weather","was","terrible","yesterday","."],"py":["","","","","","."],"vi":"Thời tiết hôm qua rất tồi tệ.","alts":[]}},
    {"id":"a56-awful","hanzi":"awful","pinyin":"","vi":"kinh khủng","ex":{"tokens":["This","soup","tastes","awful","."],"py":["","","","","."],"vi":"Món súp này có vị kinh khủng.","alts":[]}},
@@ -115,7 +115,7 @@
    {"id":"a56-valuable","hanzi":"valuable","pinyin":"","vi":"có giá trị, quý giá","ex":{"tokens":["Time","is","more","valuable","than","money","."],"py":["","","","","","","."],"vi":"Thời gian quý giá hơn tiền bạc.","alts":[]}},
    {"id":"a56-reasonable","hanzi":"reasonable","pinyin":"","vi":"hợp lý","ex":{"tokens":["The","price","is","very","reasonable","."],"py":["","","","","","."],"vi":"Giá cả rất hợp lý.","alts":[]}}
   ]},
-  {"id":"a57","title":"Nghệ thuật","desc":"Triển lãm, điêu khắc, họa sĩ, kiệt tác","icon":"Art","unit":304,"course":"en","order":2260,"words":[
+  {"id":"a57","title":"Nghệ thuật","desc":"Triển lãm, điêu khắc, họa sĩ, kiệt tác","icon":"Art","unit":304,"course":"en","order":2360,"words":[
    {"id":"a57-art","hanzi":"art","pinyin":"","vi":"nghệ thuật","ex":{"tokens":["She","studies","art","at","university","."],"py":["","","","","","."],"vi":"Cô ấy học nghệ thuật ở đại học.","alts":[]}},
    {"id":"a57-artist","hanzi":"artist","pinyin":"","vi":"nghệ sĩ, họa sĩ","ex":{"tokens":["The","artist","painted","the","sea","."],"py":["","","","","","."],"vi":"Người họa sĩ đã vẽ biển.","alts":[]}},
    {"id":"a57-exhibition","hanzi":"exhibition","pinyin":"","vi":"triển lãm","ex":{"tokens":["We","went","to","a","photo","exhibition","."],"py":["","","","","","","."],"vi":"Chúng tôi đã đi xem một triển lãm ảnh.","alts":[]}},
@@ -129,7 +129,7 @@
    {"id":"a57-instrument","hanzi":"instrument","pinyin":"","vi":"nhạc cụ, dụng cụ","ex":{"tokens":["Which","instrument","do","you","play","?"],"py":["","","","","","?"],"vi":"Bạn chơi nhạc cụ nào?","alts":[]}},
    {"id":"a57-orchestra","hanzi":"orchestra","pinyin":"","vi":"dàn nhạc","ex":{"tokens":["She","plays","in","the","city","orchestra","."],"py":["","","","","","","."],"vi":"Cô ấy chơi trong dàn nhạc thành phố.","alts":[]}}
   ]},
-  {"id":"a58","title":"Văn học","desc":"Tác giả, thơ, cốt truyện, chương","icon":"Book","unit":304,"course":"en","order":2270,"words":[
+  {"id":"a58","title":"Văn học","desc":"Tác giả, thơ, cốt truyện, chương","icon":"Book","unit":304,"course":"en","order":2370,"words":[
    {"id":"a58-literature","hanzi":"literature","pinyin":"","vi":"văn học","ex":{"tokens":["He","teaches","Vietnamese","literature","."],"py":["","","","","."],"vi":"Anh ấy dạy văn học Việt Nam.","alts":[]}},
    {"id":"a58-author","hanzi":"author","pinyin":"","vi":"tác giả","ex":{"tokens":["Who","is","the","author","of","this","book","?"],"py":["","","","","","","","?"],"vi":"Ai là tác giả của cuốn sách này?","alts":[]}},
    {"id":"a58-poem","hanzi":"poem","pinyin":"","vi":"bài thơ","ex":{"tokens":["She","wrote","a","poem","for","her","mother","."],"py":["","","","","","","","."],"vi":"Cô ấy đã viết một bài thơ tặng mẹ.","alts":[]}},
@@ -143,7 +143,7 @@
    {"id":"a58-library","hanzi":"library","pinyin":"","vi":"thư viện","ex":{"tokens":["I","borrow","books","from","the","library","."],"py":["","","","","","","."],"vi":"Tôi mượn sách từ thư viện.","alts":[]}},
    {"id":"a58-dictionary","hanzi":"dictionary","pinyin":"","vi":"từ điển","ex":{"tokens":["Look","up","the","word","in","a","dictionary","."],"py":["","","","","","","","."],"vi":"Hãy tra từ đó trong từ điển.","alts":[]}}
   ]},
-  {"id":"a59","title":"Phim ảnh và truyền hình","desc":"Diễn viên, đạo diễn, cảnh, phụ đề","icon":"Film","unit":304,"course":"en","order":2280,"words":[
+  {"id":"a59","title":"Phim ảnh và truyền hình","desc":"Diễn viên, đạo diễn, cảnh, phụ đề","icon":"Film","unit":304,"course":"en","order":2380,"words":[
    {"id":"a59-actor","hanzi":"actor","pinyin":"","vi":"diễn viên nam","ex":{"tokens":["The","actor","is","famous","in","Asia","."],"py":["","","","","","","."],"vi":"Nam diễn viên này nổi tiếng ở châu Á.","alts":[]}},
    {"id":"a59-actress","hanzi":"actress","pinyin":"","vi":"diễn viên nữ","ex":{"tokens":["The","actress","won","an","award","."],"py":["","","","","","."],"vi":"Nữ diễn viên đã giành được một giải thưởng.","alts":[]}},
    {"id":"a59-director","hanzi":"director","pinyin":"","vi":"đạo diễn, giám đốc","ex":{"tokens":["The","director","made","three","films","last","year","."],"py":["","","","","","","","."],"vi":"Đạo diễn đã làm ba bộ phim vào năm ngoái.","alts":[]}},
@@ -157,7 +157,7 @@
    {"id":"a59-award","hanzi":"award","pinyin":"","vi":"giải thưởng","ex":{"tokens":["The","film","won","a","big","award","."],"py":["","","","","","","."],"vi":"Bộ phim đã giành một giải thưởng lớn.","alts":[]}},
    {"id":"a59-review","hanzi":"review","pinyin":"","vi":"bài đánh giá, ôn tập","ex":{"tokens":["I","read","a","good","review","of","the","film","."],"py":["","","","","","","","","."],"vi":"Tôi đã đọc một bài đánh giá tốt về bộ phim.","alts":[]}}
   ]},
-  {"id":"a60","title":"Du lịch nâng cao","desc":"Đặt phòng, điểm đến, hải quan, khởi hành","icon":"Trip","unit":304,"course":"en","order":2290,"words":[
+  {"id":"a60","title":"Du lịch nâng cao","desc":"Đặt phòng, điểm đến, hải quan, khởi hành","icon":"Trip","unit":304,"course":"en","order":2390,"words":[
    {"id":"a60-reservation","hanzi":"reservation","pinyin":"","vi":"việc đặt chỗ","ex":{"tokens":["I","have","a","reservation","for","two","nights","."],"py":["","","","","","","","."],"vi":"Tôi đã đặt phòng hai đêm.","alts":[]}},
    {"id":"a60-destination","hanzi":"destination","pinyin":"","vi":"điểm đến","ex":{"tokens":["Da","Lat","is","a","popular","destination","."],"py":["","","","","","","."],"vi":"Đà Lạt là một điểm đến được ưa chuộng.","alts":[]}},
    {"id":"a60-customs","hanzi":"customs","pinyin":"","vi":"hải quan","ex":{"tokens":["We","waited","an","hour","at","customs","."],"py":["","","","","","","."],"vi":"Chúng tôi đã đợi một tiếng ở hải quan.","alts":[]}},
@@ -171,7 +171,7 @@
    {"id":"a60-visa","hanzi":"visa","pinyin":"","vi":"thị thực","ex":{"tokens":["You","need","a","visa","to","enter","the","country","."],"py":["","","","","","","","","."],"vi":"Bạn cần thị thực để nhập cảnh nước này.","alts":[]}},
    {"id":"a60-itinerary","hanzi":"itinerary","pinyin":"","vi":"lịch trình chuyến đi","ex":{"tokens":["Our","itinerary","includes","three","cities","."],"py":["","","","","","."],"vi":"Lịch trình của chúng tôi gồm ba thành phố.","alts":[]}}
   ]},
-  {"id":"a61","title":"Ẩm thực","desc":"Nướng, hấp, gia vị, món khai vị","icon":"Chef","unit":304,"course":"en","order":2300,"words":[
+  {"id":"a61","title":"Ẩm thực","desc":"Nướng, hấp, gia vị, món khai vị","icon":"Chef","unit":304,"course":"en","order":2400,"words":[
    {"id":"a61-cuisine","hanzi":"cuisine","pinyin":"","vi":"ẩm thực","ex":{"tokens":["I","love","Vietnamese","cuisine","."],"py":["","","","","."],"vi":"Tôi yêu ẩm thực Việt Nam.","alts":[]}},
    {"id":"a61-bake","hanzi":"bake","pinyin":"","vi":"nướng (bánh)","ex":{"tokens":["I","bake","bread","every","Sunday","."],"py":["","","","","","."],"vi":"Chủ nhật nào tôi cũng nướng bánh mì.","alts":[]}},
    {"id":"a61-grill","hanzi":"grill","pinyin":"","vi":"nướng (vỉ)","ex":{"tokens":["We","grill","fish","on","the","beach","."],"py":["","","","","","","."],"vi":"Chúng tôi nướng cá trên bãi biển.","alts":[]}},
@@ -185,7 +185,7 @@
    {"id":"a61-bitter","hanzi":"bitter","pinyin":"","vi":"đắng","ex":{"tokens":["This","coffee","is","too","bitter","for","me","."],"py":["","","","","","","","."],"vi":"Cà phê này quá đắng đối với tôi.","alts":[]}},
    {"id":"a61-vegetarian","hanzi":"vegetarian","pinyin":"","vi":"người ăn chay, món chay","ex":{"tokens":["My","sister","is","a","vegetarian","."],"py":["","","","","","."],"vi":"Chị gái tôi là người ăn chay.","alts":[]}}
   ]},
-  {"id":"a62","title":"Người tiêu dùng","desc":"Bảo hành, hoàn tiền, hàng lỗi, khuyến mãi","icon":"Shop","unit":304,"course":"en","order":2310,"words":[
+  {"id":"a62","title":"Người tiêu dùng","desc":"Bảo hành, hoàn tiền, hàng lỗi, khuyến mãi","icon":"Shop","unit":304,"course":"en","order":2410,"words":[
    {"id":"a62-warranty","hanzi":"warranty","pinyin":"","vi":"bảo hành","ex":{"tokens":["The","phone","has","a","one","year","warranty","."],"py":["","","","","","","","."],"vi":"Điện thoại được bảo hành một năm.","alts":[]}},
    {"id":"a62-refund","hanzi":"refund","pinyin":"","vi":"hoàn tiền","ex":{"tokens":["I","would","like","a","refund",",","please","."],"py":["","","","","",",","","."],"vi":"Tôi muốn được hoàn tiền.","alts":[]}},
    {"id":"a62-exchange","hanzi":"exchange","pinyin":"","vi":"đổi, trao đổi","ex":{"tokens":["Can","I","exchange","this","shirt","for","a","bigger","one","?"],"py":["","","","","","","","","","?"],"vi":"Tôi có thể đổi chiếc áo này lấy cái to hơn không?","alts":[]}},
@@ -199,7 +199,7 @@
    {"id":"a62-item","hanzi":"item","pinyin":"","vi":"món đồ, mục","ex":{"tokens":["This","item","is","not","for","sale","."],"py":["","","","","","","."],"vi":"Món đồ này không bán.","alts":[]}},
    {"id":"a62-checkout","hanzi":"checkout","pinyin":"","vi":"quầy thanh toán","ex":{"tokens":["Please","pay","at","the","checkout","."],"py":["","","","","","."],"vi":"Vui lòng thanh toán ở quầy.","alts":[]}}
   ]},
-  {"id":"a63","title":"Thành ngữ thông dụng","desc":"Make sure, take care, by the way, on time","icon":"Idm","unit":304,"course":"en","order":2320,"words":[
+  {"id":"a63","title":"Thành ngữ thông dụng","desc":"Make sure, take care, by the way, on time","icon":"Idm","unit":304,"course":"en","order":2420,"words":[
    {"id":"a63-make_sure","hanzi":"make sure","pinyin":"","vi":"đảm bảo, chắc chắn rằng","ex":{"tokens":["Make","sure","you","lock","the","door","."],"py":["","","","","","","."],"vi":"Hãy chắc chắn rằng bạn đã khóa cửa.","alts":[]}},
    {"id":"a63-take_care","hanzi":"take care","pinyin":"","vi":"chăm sóc, bảo trọng","ex":{"tokens":["Take","care","of","yourself","."],"py":["","","","","."],"vi":"Hãy tự chăm sóc bản thân nhé.","alts":[]}},
    {"id":"a63-by_the_way","hanzi":"by the way","pinyin":"","vi":"nhân tiện","ex":{"tokens":["By","the","way",",","where","is","your","sister","?"],"py":["","","",",","","","","","?"],"vi":"Nhân tiện, chị gái bạn đâu rồi?","alts":[]}},
@@ -213,7 +213,7 @@
    {"id":"a63-at_least","hanzi":"at least","pinyin":"","vi":"ít nhất","ex":{"tokens":["You","should","sleep","at","least","seven","hours","."],"py":["","","","","","","","."],"vi":"Bạn nên ngủ ít nhất bảy tiếng.","alts":[]}},
    {"id":"a63-no_longer","hanzi":"no longer","pinyin":"","vi":"không còn nữa","ex":{"tokens":["He","no","longer","lives","here","."],"py":["","","","","","."],"vi":"Anh ấy không còn sống ở đây nữa.","alts":[]}}
   ]},
-  {"id":"a64","title":"Điều kiện và giả định","desc":"Wish, whether, in case, provided","icon":"If","unit":304,"course":"en","order":2330,"words":[
+  {"id":"a64","title":"Điều kiện và giả định","desc":"Wish, whether, in case, provided","icon":"If","unit":304,"course":"en","order":2430,"words":[
    {"id":"a64-wish","hanzi":"wish","pinyin":"","vi":"ước, mong muốn","ex":{"tokens":["I","wish","I","had","more","time","."],"py":["","","","","","","."],"vi":"Tôi ước mình có nhiều thời gian hơn.","alts":[]}},
    {"id":"a64-whether","hanzi":"whether","pinyin":"","vi":"liệu, có ... hay không","ex":{"tokens":["I","do","not","know","whether","he","will","come","."],"py":["","","","","","","","","."],"vi":"Tôi không biết liệu anh ấy có đến không.","alts":[]}},
    {"id":"a64-in_case","hanzi":"in case","pinyin":"","vi":"phòng khi","ex":{"tokens":["Take","an","umbrella","in","case","it","rains","."],"py":["","","","","","","","."],"vi":"Hãy mang ô phòng khi trời mưa.","alts":[]}},

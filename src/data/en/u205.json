@@ -1,9 +1,9 @@
 {
  "units": [
-  {"unit":205,"level":2,"title":"Phần 17: Sức khỏe, công nghệ và giao tiếp","desc":"Chăm con, ốm đau, mạng xã hội, máy tính, ăn uống, trạng từ","color":"leaf","course":"en"}
+  {"unit":205,"level":2,"title":"Phần 18: Sức khỏe, công nghệ và giao tiếp","desc":"Chăm con, ốm đau, mạng xã hội, máy tính, ăn uống, trạng từ","color":"leaf","course":"en"}
  ],
  "lessons": [
-  {"id":"n14","title":"Chăm sóc em bé","desc":"Trẻ mới biết đi, xe đẩy, tã, cũi, bài hát ru","icon":"Baby","unit":205,"course":"en","order":1560,"words":[
+  {"id":"n14","title":"Chăm sóc em bé","desc":"Trẻ mới biết đi, xe đẩy, tã, cũi, bài hát ru","icon":"Baby","unit":205,"course":"en","order":1590,"words":[
    {"id":"n14-toddler","hanzi":"toddler","pinyin":"","vi":"trẻ mới biết đi","ex":{"tokens":["The","toddler","is","learning","to","talk","."],"py":["","","","","","","."],"vi":"Đứa trẻ mới biết đi đang tập nói.","alts":[]}},
    {"id":"n14-infant","hanzi":"infant","pinyin":"","vi":"trẻ sơ sinh","ex":{"tokens":["An","infant","needs","a","lot","of","sleep","."],"py":["","","","","","","","."],"vi":"Trẻ sơ sinh cần ngủ rất nhiều.","alts":[]}},
    {"id":"n14-nanny","hanzi":"nanny","pinyin":"","vi":"bảo mẫu","ex":{"tokens":["The","nanny","picks","the","kids","up","from","school","."],"py":["","","","","","","","","."],"vi":"Bảo mẫu đón bọn trẻ ở trường.","alts":[]}},
@@ -17,7 +17,7 @@
    {"id":"n14-bedtime","hanzi":"bedtime","pinyin":"","vi":"giờ đi ngủ","ex":{"tokens":["Bedtime","is","at","eight","on","school","nights","."],"py":["","","","","","","","."],"vi":"Giờ đi ngủ là tám giờ vào những tối trước ngày đi học.","alts":[]}},
    {"id":"n14-sleepover","hanzi":"sleepover","pinyin":"","vi":"buổi ngủ lại nhà bạn","ex":{"tokens":["My","daughter","is","at","a","sleepover","tonight","."],"py":["","","","","","","","."],"vi":"Tối nay con gái tôi ngủ lại nhà bạn.","alts":[]}}
   ]},
-  {"id":"n15","title":"Chấn thương và triệu chứng","desc":"Phát ban, phồng rộp, bong gân, buồn nôn, sẹo","icon":"Hurt","unit":205,"course":"en","order":1570,"words":[
+  {"id":"n15","title":"Chấn thương và triệu chứng","desc":"Phát ban, phồng rộp, bong gân, buồn nôn, sẹo","icon":"Hurt","unit":205,"course":"en","order":1600,"words":[
    {"id":"n15-rash","hanzi":"rash","pinyin":"","vi":"chứng phát ban","ex":{"tokens":["The","baby","has","a","rash","on","her","face","."],"py":["","","","","","","","","."],"vi":"Em bé bị phát ban trên mặt.","alts":[]}},
    {"id":"n15-blister","hanzi":"blister","pinyin":"","vi":"vết phồng rộp","ex":{"tokens":["New","shoes","gave","me","a","blister","."],"py":["","","","","","","."],"vi":"Đôi giày mới làm chân tôi phồng rộp.","alts":[]}},
    {"id":"n15-sprain","hanzi":"sprain","pinyin":"","vi":"bong gân","ex":{"tokens":["A","sprain","needs","rest","and","ice","."],"py":["","","","","","","."],"vi":"Bong gân cần nghỉ ngơi và chườm đá.","alts":[]}},
@@ -31,7 +31,7 @@
    {"id":"n15-sling","hanzi":"sling","pinyin":"","vi":"băng đeo tay","ex":{"tokens":["He","wore","a","sling","for","a","month","."],"py":["","","","","","","","."],"vi":"Anh ấy đeo băng treo tay suốt một tháng.","alts":[]}},
    {"id":"n15-cast","hanzi":"cast","pinyin":"","vi":"bột bó (xương gãy); dàn diễn viên","ex":{"tokens":["His","arm","is","in","a","cast","."],"py":["","","","","","","."],"vi":"Tay anh ấy đang bó bột.","alts":[]}}
   ]},
-  {"id":"n16","title":"Đi khám bệnh","desc":"Khám tổng quát, chụp X-quang, dược sĩ, niềng răng","icon":"Clinic","unit":205,"course":"en","order":1580,"words":[
+  {"id":"n16","title":"Đi khám bệnh","desc":"Khám tổng quát, chụp X-quang, dược sĩ, niềng răng","icon":"Clinic","unit":205,"course":"en","order":1610,"words":[
    {"id":"n16-checkup","hanzi":"checkup","pinyin":"","vi":"buổi khám sức khỏe tổng quát","ex":{"tokens":["I","have","a","checkup","once","a","year","."],"py":["","","","","","","","."],"vi":"Tôi khám sức khỏe mỗi năm một lần.","alts":[]}},
    {"id":"n16-x_ray","hanzi":"x-ray","pinyin":"","vi":"ảnh chụp X-quang; chụp X-quang","ex":{"tokens":["The","x-ray","shows","a","broken","bone","."],"py":["","","","","","","."],"vi":"Ảnh chụp X-quang cho thấy một chiếc xương gãy.","alts":[]}},
    {"id":"n16-scan","hanzi":"scan","pinyin":"","vi":"chụp cắt lớp; quét","ex":{"tokens":["The","doctor","ordered","a","scan","of","his","chest","."],"py":["","","","","","","","","."],"vi":"Bác sĩ yêu cầu chụp cắt lớp ngực của ông ấy.","alts":[]}},
@@ -45,7 +45,7 @@
    {"id":"n16-filling","hanzi":"filling","pinyin":"","vi":"miếng trám răng; nhân bánh","ex":{"tokens":["The","dentist","gave","me","a","filling","."],"py":["","","","","","","."],"vi":"Nha sĩ trám cho tôi một chiếc răng.","alts":[]}},
    {"id":"n16-braces","hanzi":"braces","pinyin":"","vi":"niềng răng","ex":{"tokens":["My","son","has","to","wear","braces","for","two","years","."],"py":["","","","","","","","","","."],"vi":"Con trai tôi phải đeo niềng răng hai năm.","alts":[]}}
   ]},
-  {"id":"n17","title":"Mạng xã hội","desc":"Đăng nhập, thông báo, người theo dõi, đăng ký kênh","icon":"Online","unit":205,"course":"en","order":1590,"words":[
+  {"id":"n17","title":"Mạng xã hội","desc":"Đăng nhập, thông báo, người theo dõi, đăng ký kênh","icon":"Online","unit":205,"course":"en","order":1620,"words":[
    {"id":"n17-login","hanzi":"login","pinyin":"","vi":"việc đăng nhập, thông tin đăng nhập","ex":{"tokens":["Enter","your","login","and","password","."],"py":["","","","","","."],"vi":"Hãy nhập tên đăng nhập và mật khẩu.","alts":[]}},
    {"id":"n17-browser","hanzi":"browser","pinyin":"","vi":"trình duyệt","ex":{"tokens":["Open","the","link","in","your","browser","."],"py":["","","","","","","."],"vi":"Hãy mở đường liên kết trong trình duyệt.","alts":[]}},
    {"id":"n17-notification","hanzi":"notification","pinyin":"","vi":"thông báo","ex":{"tokens":["I","got","a","notification","about","your","message","."],"py":["","","","","","","","."],"vi":"Tôi nhận được thông báo về tin nhắn của bạn.","alts":[]}},
@@ -59,7 +59,7 @@
    {"id":"n17-playlist","hanzi":"playlist","pinyin":"","vi":"danh sách phát","ex":{"tokens":["I","made","a","playlist","for","the","party","."],"py":["","","","","","","","."],"vi":"Tôi tạo một danh sách phát cho bữa tiệc.","alts":[]}},
    {"id":"n17-subscribe","hanzi":"subscribe","pinyin":"","vi":"đăng ký (kênh, dịch vụ)","ex":{"tokens":["Subscribe","to","the","channel","for","new","videos","."],"py":["","","","","","","","."],"vi":"Hãy đăng ký kênh để xem video mới.","alts":[]}}
   ]},
-  {"id":"n18","title":"Thiết bị và thao tác","desc":"Tai nghe, bộ phát wifi, vuốt, kéo, dán","icon":"Device","unit":205,"course":"en","order":1600,"words":[
+  {"id":"n18","title":"Thiết bị và thao tác","desc":"Tai nghe, bộ phát wifi, vuốt, kéo, dán","icon":"Device","unit":205,"course":"en","order":1630,"words":[
    {"id":"n18-headset","hanzi":"headset","pinyin":"","vi":"tai nghe có micro","ex":{"tokens":["I","use","a","headset","for","online","meetings","."],"py":["","","","","","","","."],"vi":"Tôi dùng tai nghe có micro cho các cuộc họp trực tuyến.","alts":[]}},
    {"id":"n18-earbuds","hanzi":"earbuds","pinyin":"","vi":"tai nghe nhét tai","ex":{"tokens":["I","left","my","earbuds","on","the","train","."],"py":["","","","","","","","."],"vi":"Tôi để quên tai nghe trên tàu.","alts":[]}},
    {"id":"n18-webcam","hanzi":"webcam","pinyin":"","vi":"webcam","ex":{"tokens":["Please","turn","on","your","webcam","."],"py":["","","","","","."],"vi":"Vui lòng bật webcam của bạn.","alts":[]}},
@@ -73,7 +73,7 @@
    {"id":"n18-attachment","hanzi":"attachment","pinyin":"","vi":"tệp đính kèm","ex":{"tokens":["I","cannot","open","the","attachment","."],"py":["","","","","","."],"vi":"Tôi không mở được tệp đính kèm.","alts":[]}},
    {"id":"n18-inbox","hanzi":"inbox","pinyin":"","vi":"hộp thư đến","ex":{"tokens":["My","inbox","is","full","of","ads","."],"py":["","","","","","","."],"vi":"Hộp thư đến của tôi đầy quảng cáo.","alts":[]}}
   ]},
-  {"id":"n19","title":"Thời tiết 2","desc":"Giông, bão, lốc xoáy, oi ẩm, se lạnh","icon":"Storm","unit":205,"course":"en","order":1610,"words":[
+  {"id":"n19","title":"Thời tiết 2","desc":"Giông, bão, lốc xoáy, oi ẩm, se lạnh","icon":"Storm","unit":205,"course":"en","order":1640,"words":[
    {"id":"n19-thunderstorm","hanzi":"thunderstorm","pinyin":"","vi":"cơn giông","ex":{"tokens":["A","thunderstorm","woke","me","up","last","night","."],"py":["","","","","","","","."],"vi":"Đêm qua một cơn giông làm tôi thức giấc.","alts":[]}},
    {"id":"n19-typhoon","hanzi":"typhoon","pinyin":"","vi":"bão nhiệt đới","ex":{"tokens":["The","typhoon","will","reach","the","coast","tomorrow","."],"py":["","","","","","","","."],"vi":"Cơn bão sẽ đến bờ biển vào ngày mai.","alts":[]}},
    {"id":"n19-tornado","hanzi":"tornado","pinyin":"","vi":"lốc xoáy","ex":{"tokens":["The","tornado","destroyed","several","houses","."],"py":["","","","","","."],"vi":"Cơn lốc xoáy phá hủy vài ngôi nhà.","alts":[]}},
@@ -87,7 +87,7 @@
    {"id":"n19-scorching","hanzi":"scorching","pinyin":"","vi":"nóng cháy da","ex":{"tokens":["We","stayed","inside","on","that","scorching","afternoon","."],"py":["","","","","","","","."],"vi":"Chúng tôi ở trong nhà vào buổi chiều nóng cháy da đó.","alts":[]}},
    {"id":"n19-drizzly","hanzi":"drizzly","pinyin":"","vi":"có mưa phùn","ex":{"tokens":["It","was","a","gray",",","drizzly","morning","."],"py":["","","","",",","","","."],"vi":"Đó là một buổi sáng xám xịt có mưa phùn.","alts":[]}}
   ]},
-  {"id":"n20","title":"Máy tính trục trặc","desc":"Khởi động lại, treo máy, lỗi, biểu tượng, phím tắt","icon":"Bug","unit":205,"course":"en","order":1620,"words":[
+  {"id":"n20","title":"Máy tính trục trặc","desc":"Khởi động lại, treo máy, lỗi, biểu tượng, phím tắt","icon":"Bug","unit":205,"course":"en","order":1650,"words":[
    {"id":"n20-storage","hanzi":"storage","pinyin":"","vi":"dung lượng lưu trữ; kho chứa","ex":{"tokens":["My","phone","has","no","storage","left","."],"py":["","","","","","","."],"vi":"Điện thoại của tôi hết dung lượng lưu trữ rồi.","alts":[]}},
    {"id":"n20-reboot","hanzi":"reboot","pinyin":"","vi":"khởi động lại (máy)","ex":{"tokens":["Reboot","the","computer","and","try","again","."],"py":["","","","","","","."],"vi":"Hãy khởi động lại máy tính rồi thử lại.","alts":[]}},
    {"id":"n20-restart","hanzi":"restart","pinyin":"","vi":"khởi động lại, bắt đầu lại","ex":{"tokens":["You","have","to","restart","the","app","."],"py":["","","","","","","."],"vi":"Bạn phải khởi động lại ứng dụng.","alts":[]}},
@@ -101,7 +101,7 @@
    {"id":"n20-shortcut","hanzi":"shortcut","pinyin":"","vi":"lối tắt, phím tắt","ex":{"tokens":["There","is","a","shortcut","on","the","desktop","screen","."],"py":["","","","","","","","","."],"vi":"Có một lối tắt trên màn hình chính.","alts":[]}},
    {"id":"n20-mute","hanzi":"mute","pinyin":"","vi":"tắt tiếng","ex":{"tokens":["Please","mute","your","microphone","."],"py":["","","","","."],"vi":"Vui lòng tắt tiếng micro của bạn.","alts":[]}}
   ]},
-  {"id":"n21","title":"Đám cưới","desc":"Đính hôn, tuần trăng mật, cô dâu, chú rể, phù dâu","icon":"Wedding","unit":205,"course":"en","order":1630,"words":[
+  {"id":"n21","title":"Đám cưới","desc":"Đính hôn, tuần trăng mật, cô dâu, chú rể, phù dâu","icon":"Wedding","unit":205,"course":"en","order":1660,"words":[
    {"id":"n21-engagement","hanzi":"engagement","pinyin":"","vi":"sự đính hôn","ex":{"tokens":["They","announced","their","engagement","last","week","."],"py":["","","","","","","."],"vi":"Họ thông báo đính hôn vào tuần trước.","alts":[]}},
    {"id":"n21-honeymoon","hanzi":"honeymoon","pinyin":"","vi":"tuần trăng mật","ex":{"tokens":["They","went","to","Da","Lat","for","their","honeymoon","."],"py":["","","","","","","","","."],"vi":"Họ đi Đà Lạt hưởng tuần trăng mật.","alts":[]}},
    {"id":"n21-bride","hanzi":"bride","pinyin":"","vi":"cô dâu","ex":{"tokens":["The","bride","wore","a","white","dress","."],"py":["","","","","","","."],"vi":"Cô dâu mặc váy trắng.","alts":[]}},
@@ -115,7 +115,7 @@
    {"id":"n21-newlywed","hanzi":"newlywed","pinyin":"","vi":"người mới cưới; mới cưới","ex":{"tokens":["The","newlywed","couple","moved","to","Hue","."],"py":["","","","","","","."],"vi":"Cặp vợ chồng mới cưới chuyển đến Huế.","alts":[]}},
    {"id":"n21-wedding_ring","hanzi":"wedding ring","pinyin":"","vi":"nhẫn cưới","ex":{"tokens":["She","lost","her","wedding","ring","."],"py":["","","","","","."],"vi":"Cô ấy làm mất nhẫn cưới.","alts":[]}}
   ]},
-  {"id":"n22","title":"Ăn ở ngoài","desc":"Đồ ăn thừa, mang về, tiệc tự chọn, bữa xế","icon":"Eat","unit":205,"course":"en","order":1640,"words":[
+  {"id":"n22","title":"Ăn ở ngoài","desc":"Đồ ăn thừa, mang về, tiệc tự chọn, bữa xế","icon":"Eat","unit":205,"course":"en","order":1670,"words":[
    {"id":"n22-leftover","hanzi":"leftover","pinyin":"","vi":"đồ ăn thừa; còn thừa","ex":{"tokens":["We","ate","leftover","rice","for","lunch","."],"py":["","","","","","","."],"vi":"Chúng tôi ăn cơm thừa vào bữa trưa.","alts":[]}},
    {"id":"n22-takeaway","hanzi":"takeaway","pinyin":"","vi":"đồ ăn mang về","ex":{"tokens":["Let's","get","a","takeaway","tonight","."],"py":["","","","","","."],"vi":"Tối nay mình mua đồ ăn mang về đi.","alts":[]}},
    {"id":"n22-starter","hanzi":"starter","pinyin":"","vi":"món khai vị","ex":{"tokens":["I","had","soup","as","a","starter","."],"py":["","","","","","","."],"vi":"Tôi ăn súp làm món khai vị.","alts":[]}},
@@ -129,7 +129,7 @@
    {"id":"n22-waitress","hanzi":"waitress","pinyin":"","vi":"nữ phục vụ bàn","ex":{"tokens":["The","waitress","brought","the","menu","."],"py":["","","","","","."],"vi":"Cô phục vụ mang thực đơn ra.","alts":[]}},
    {"id":"n22-serving","hanzi":"serving","pinyin":"","vi":"khẩu phần, suất ăn","ex":{"tokens":["One","serving","is","enough","for","me","."],"py":["","","","","","","."],"vi":"Một suất là đủ cho tôi.","alts":[]}}
   ]},
-  {"id":"n23","title":"Trạng từ tần suất và mức độ","desc":"Hiếm khi, thỉnh thoảng, liên tục, gần đây","icon":"Often","unit":205,"course":"en","order":1650,"words":[
+  {"id":"n23","title":"Trạng từ tần suất và mức độ","desc":"Hiếm khi, thỉnh thoảng, liên tục, gần đây","icon":"Often","unit":205,"course":"en","order":1680,"words":[
    {"id":"n23-rarely","hanzi":"rarely","pinyin":"","vi":"hiếm khi","ex":{"tokens":["I","rarely","eat","meat","."],"py":["","","","","."],"vi":"Tôi hiếm khi ăn thịt.","alts":[]}},
    {"id":"n23-seldom","hanzi":"seldom","pinyin":"","vi":"ít khi","ex":{"tokens":["He","seldom","calls","his","parents","."],"py":["","","","","","."],"vi":"Anh ấy ít khi gọi cho bố mẹ.","alts":[]}},
    {"id":"n23-occasionally","hanzi":"occasionally","pinyin":"","vi":"thỉnh thoảng","ex":{"tokens":["We","occasionally","go","to","the","theater","."],"py":["","","","","","","."],"vi":"Thỉnh thoảng chúng tôi đi xem kịch.","alts":[]}},
@@ -143,7 +143,7 @@
    {"id":"n23-totally","hanzi":"totally","pinyin":"","vi":"hoàn toàn","ex":{"tokens":["I","totally","forgot","about","the","meeting","."],"py":["","","","","","","."],"vi":"Tôi hoàn toàn quên mất cuộc họp.","alts":[]}},
    {"id":"n23-regularly","hanzi":"regularly","pinyin":"","vi":"đều đặn","ex":{"tokens":["She","exercises","regularly","."],"py":["","","","."],"vi":"Cô ấy tập thể dục đều đặn.","alts":[]}}
   ]},
-  {"id":"n24","title":"Trạng từ trong hội thoại","desc":"Thật ra, nhìn chung, dù sao, ngày nay","icon":"Talk","unit":205,"course":"en","order":1660,"words":[
+  {"id":"n24","title":"Trạng từ trong hội thoại","desc":"Thật ra, nhìn chung, dù sao, ngày nay","icon":"Talk","unit":205,"course":"en","order":1690,"words":[
    {"id":"n24-basically","hanzi":"basically","pinyin":"","vi":"về cơ bản","ex":{"tokens":["The","two","phones","are","basically","the","same","."],"py":["","","","","","","","."],"vi":"Hai chiếc điện thoại về cơ bản là giống nhau.","alts":[]}},
    {"id":"n24-actually","hanzi":"actually","pinyin":"","vi":"thật ra","ex":{"tokens":["I","actually","like","the","old","design","more","."],"py":["","","","","","","","."],"vi":"Thật ra tôi thích thiết kế cũ hơn.","alts":[]}},
    {"id":"n24-generally","hanzi":"generally","pinyin":"","vi":"nhìn chung","ex":{"tokens":["People","here","are","generally","friendly","."],"py":["","","","","","."],"vi":"Người ở đây nhìn chung thân thiện.","alts":[]}},
@@ -157,7 +157,7 @@
    {"id":"n24-anymore","hanzi":"anymore","pinyin":"","vi":"nữa (không còn nữa)","ex":{"tokens":["She","does","not","live","here","anymore","."],"py":["","","","","","","."],"vi":"Cô ấy không còn sống ở đây nữa.","alts":[]}},
    {"id":"n24-somehow","hanzi":"somehow","pinyin":"","vi":"bằng cách nào đó","ex":{"tokens":["We","will","finish","it","somehow","."],"py":["","","","","","."],"vi":"Bằng cách nào đó chúng tôi sẽ làm xong.","alts":[]}}
   ]},
-  {"id":"n25","title":"Bạn bè và tính nết","desc":"Bạn thân, người quen, đồng đội, lời khen","icon":"Friend","unit":205,"course":"en","order":1670,"words":[
+  {"id":"n25","title":"Bạn bè và tính nết","desc":"Bạn thân, người quen, đồng đội, lời khen","icon":"Friend","unit":205,"course":"en","order":1700,"words":[
    {"id":"n25-buddy","hanzi":"buddy","pinyin":"","vi":"bạn thân, anh bạn","ex":{"tokens":["He","is","my","buddy","from","school","."],"py":["","","","","","","."],"vi":"Cậu ấy là bạn thân của tôi từ hồi đi học.","alts":[]}},
    {"id":"n25-mate","hanzi":"mate","pinyin":"","vi":"bạn (thân mật)","ex":{"tokens":["I","went","fishing","with","a","mate","from","work","."],"py":["","","","","","","","","."],"vi":"Tôi đi câu cá với một người bạn ở chỗ làm.","alts":[]}},
    {"id":"n25-pal","hanzi":"pal","pinyin":"","vi":"bạn (thân mật)","ex":{"tokens":["She","is","an","old","pal","of","mine","."],"py":["","","","","","","","."],"vi":"Cô ấy là bạn cũ của tôi.","alts":[]}},
@@ -171,7 +171,7 @@
    {"id":"n25-upstairs","hanzi":"upstairs","pinyin":"","vi":"trên gác, tầng trên","ex":{"tokens":["My","friend","lives","upstairs","."],"py":["","","","","."],"vi":"Bạn tôi sống ở tầng trên.","alts":[]}},
    {"id":"n25-downstairs","hanzi":"downstairs","pinyin":"","vi":"dưới nhà, tầng dưới","ex":{"tokens":["The","kids","are","playing","downstairs","."],"py":["","","","","","."],"vi":"Bọn trẻ đang chơi dưới nhà.","alts":[]}}
   ]},
-  {"id":"n26","title":"Mạng và thiết bị","desc":"Trang chủ, đăng xuất, màn hình cảm ứng, đồng hồ thông minh","icon":"Web","unit":205,"course":"en","order":1680,"words":[
+  {"id":"n26","title":"Mạng và thiết bị","desc":"Trang chủ, đăng xuất, màn hình cảm ứng, đồng hồ thông minh","icon":"Web","unit":205,"course":"en","order":1710,"words":[
    {"id":"n26-homepage","hanzi":"homepage","pinyin":"","vi":"trang chủ","ex":{"tokens":["Click","the","logo","to","go","back","to","the","homepage","."],"py":["","","","","","","","","","."],"vi":"Bấm vào logo để quay về trang chủ.","alts":[]}},
    {"id":"n26-logout","hanzi":"logout","pinyin":"","vi":"sự đăng xuất","ex":{"tokens":["The","logout","button","is","at","the","top","of","the","page","."],"py":["","","","","","","","","","","."],"vi":"Nút đăng xuất ở phía trên cùng của trang.","alts":[]}},
    {"id":"n26-font","hanzi":"font","pinyin":"","vi":"phông chữ","ex":{"tokens":["Please","use","a","bigger","font","for","the","title","."],"py":["","","","","","","","","."],"vi":"Hãy dùng phông chữ to hơn cho tiêu đề.","alts":[]}},
@@ -185,7 +185,7 @@
    {"id":"n26-avatar","hanzi":"avatar","pinyin":"","vi":"ảnh đại diện","ex":{"tokens":["She","changed","her","avatar","last","night","."],"py":["","","","","","","."],"vi":"Cô ấy đã đổi ảnh đại diện tối qua.","alts":[]}},
    {"id":"n26-streaming","hanzi":"streaming","pinyin":"","vi":"phát trực tuyến","ex":{"tokens":["Streaming","uses","a","lot","of","data","."],"py":["","","","","","","."],"vi":"Phát trực tuyến tốn rất nhiều dữ liệu.","alts":[]}}
   ]},
-  {"id":"n27","title":"Trên đường và tính nết","desc":"Dây an toàn, kính chắn gió, kén chọn, tọc mạch","icon":"Road","unit":205,"course":"en","order":1690,"words":[
+  {"id":"n27","title":"Trên đường và tính nết","desc":"Dây an toàn, kính chắn gió, kén chọn, tọc mạch","icon":"Road","unit":205,"course":"en","order":1720,"words":[
    {"id":"n27-airbag","hanzi":"airbag","pinyin":"","vi":"túi khí","ex":{"tokens":["The","airbag","protected","the","driver","."],"py":["","","","","","."],"vi":"Túi khí đã bảo vệ người lái.","alts":[]}},
    {"id":"n27-windshield","hanzi":"windshield","pinyin":"","vi":"kính chắn gió","ex":{"tokens":["A","stone","hit","the","windshield","."],"py":["","","","","","."],"vi":"Một hòn đá đập vào kính chắn gió.","alts":[]}},
    {"id":"n27-dashboard","hanzi":"dashboard","pinyin":"","vi":"bảng điều khiển xe","ex":{"tokens":["A","red","light","came","on","the","dashboard","."],"py":["","","","","","","","."],"vi":"Một đèn đỏ bật sáng trên bảng điều khiển.","alts":[]}},

@@ -1,9 +1,9 @@
 {
  "units": [
-  {"unit":453,"level":4,"title":"Phần 37: Mở rộng – Tôn giáo và tín ngưỡng","desc":"Tôn giáo và tín ngưỡng, Mỹ thuật và kiến trúc, Âm nhạc và biểu diễn","color":"grape","course":"en"}
+  {"unit":453,"level":4,"title":"Phần 39: Mở rộng – Tôn giáo và tín ngưỡng","desc":"Tôn giáo và tín ngưỡng, Mỹ thuật và kiến trúc, Âm nhạc và biểu diễn","color":"grape","course":"en"}
  ],
  "lessons": [
-  {"id":"y4041","title":"Tôn giáo và tín ngưỡng 4","desc":"Nơi thờ, chức sắc, nghi lễ, khái niệm","icon":"Belief","unit":453,"course":"en","order":4180,"words":[
+  {"id":"y4041","title":"Tôn giáo và tín ngưỡng 4","desc":"Nơi thờ, chức sắc, nghi lễ, khái niệm","icon":"Belief","unit":453,"course":"en","order":4280,"words":[
    {"id":"y4041-karma","hanzi":"karma","pinyin":"","vi":"nghiệp, nhân quả","ex":{"tokens":["She","believes","in","karma","."],"py":["","","","","."],"vi":"Cô ấy tin vào nhân quả.","alts":[]}},
    {"id":"y4041-nirvana","hanzi":"nirvana","pinyin":"","vi":"niết bàn","ex":{"tokens":["Buddhists","hope","to","reach","nirvana","."],"py":["","","","","","."],"vi":"Phật tử mong đạt tới niết bàn.","alts":[]}},
    {"id":"y4041-enlightenment","hanzi":"enlightenment","pinyin":"","vi":"sự giác ngộ, khai sáng","ex":{"tokens":["The","Buddha","reached","enlightenment","under","a","tree","."],"py":["","","","","","","","."],"vi":"Đức Phật đạt giác ngộ dưới một gốc cây.","alts":[]}},
@@ -19,7 +19,7 @@
    {"id":"y4041-pious","hanzi":"pious","pinyin":"","vi":"ngoan đạo, mộ đạo","ex":{"tokens":["His","grandmother","was","a","pious","woman","."],"py":["","","","","","","."],"vi":"Bà của anh ấy là một phụ nữ mộ đạo.","alts":[]}},
    {"id":"y4041-devout","hanzi":"devout","pinyin":"","vi":"sùng đạo","ex":{"tokens":["She","is","a","devout","Buddhist","."],"py":["","","","","","."],"vi":"Cô ấy là một Phật tử sùng đạo.","alts":[]}}
   ]},
-  {"id":"y4042","title":"Tôn giáo và tín ngưỡng 5","desc":"Nơi thờ, chức sắc, nghi lễ, khái niệm","icon":"Belief","unit":453,"course":"en","order":4190,"words":[
+  {"id":"y4042","title":"Tôn giáo và tín ngưỡng 5","desc":"Nơi thờ, chức sắc, nghi lễ, khái niệm","icon":"Belief","unit":453,"course":"en","order":4290,"words":[
    {"id":"y4042-creed","hanzi":"creed","pinyin":"","vi":"tín điều, tín ngưỡng","ex":{"tokens":["People","of","every","creed","live","in","this","city","."],"py":["","","","","","","","","."],"vi":"Người thuộc mọi tín ngưỡng sống trong thành phố này.","alts":[]}},
    {"id":"y4042-sect","hanzi":"sect","pinyin":"","vi":"giáo phái","ex":{"tokens":["He","joined","a","small","religious","sect","."],"py":["","","","","","","."],"vi":"Anh ta gia nhập một giáo phái nhỏ.","alts":[]}},
    {"id":"y4042-cult","hanzi":"cult","pinyin":"","vi":"giáo phái cuồng tín; sự sùng bái","ex":{"tokens":["She","escaped","from","a","dangerous","cult","."],"py":["","","","","","","."],"vi":"Cô ấy trốn thoát khỏi một giáo phái nguy hiểm.","alts":[]}},
@@ -35,7 +35,7 @@
    {"id":"y4042-agnostic","hanzi":"agnostic","pinyin":"","vi":"người theo thuyết bất khả tri","ex":{"tokens":["She","calls","herself","an","agnostic","."],"py":["","","","","","."],"vi":"Cô ấy tự nhận là người theo thuyết bất khả tri.","alts":[]}},
    {"id":"y4042-crucifix","hanzi":"crucifix","pinyin":"","vi":"cây thánh giá có tượng Chúa","ex":{"tokens":["A","crucifix","hangs","on","the","wall","."],"py":["","","","","","","."],"vi":"Một cây thánh giá treo trên tường.","alts":[]}}
   ]},
-  {"id":"y4043","title":"Mỹ thuật và kiến trúc 1","desc":"Tranh, tượng, trường phái, công trình","icon":"Art","unit":453,"course":"en","order":4200,"words":[
+  {"id":"y4043","title":"Mỹ thuật và kiến trúc 1","desc":"Tranh, tượng, trường phái, công trình","icon":"Art","unit":453,"course":"en","order":4300,"words":[
    {"id":"y4043-engraving","hanzi":"engraving","pinyin":"","vi":"tranh khắc","ex":{"tokens":["An","old","engraving","of","the","city","hangs","in","the","hall","."],"py":["","","","","","","","","","","."],"vi":"Một bức tranh khắc cổ về thành phố treo trong sảnh.","alts":[]}},
    {"id":"y4043-mosaic","hanzi":"mosaic","pinyin":"","vi":"tranh khảm","ex":{"tokens":["The","floor","is","a","Roman","mosaic","."],"py":["","","","","","","."],"vi":"Sàn nhà là một bức tranh khảm La Mã.","alts":[]}},
    {"id":"y4043-tapestry","hanzi":"tapestry","pinyin":"","vi":"thảm thêu treo tường","ex":{"tokens":["A","huge","tapestry","covers","the","wall","."],"py":["","","","","","","."],"vi":"Một tấm thảm thêu khổng lồ phủ kín bức tường.","alts":[]}},
@@ -51,7 +51,7 @@
    {"id":"y4043-bust","hanzi":"bust","pinyin":"","vi":"tượng bán thân","ex":{"tokens":["There","is","a","bust","of","the","poet","in","the","library","."],"py":["","","","","","","","","","","."],"vi":"Có một bức tượng bán thân của nhà thơ trong thư viện.","alts":[]}},
    {"id":"y4043-carving","hanzi":"carving","pinyin":"","vi":"đồ chạm khắc","ex":{"tokens":["The","door","has","a","beautiful","wood","carving","."],"py":["","","","","","","","."],"vi":"Cánh cửa có hình chạm khắc gỗ rất đẹp.","alts":[]}}
   ]},
-  {"id":"y4044","title":"Mỹ thuật và kiến trúc 2","desc":"Tranh, tượng, trường phái, công trình","icon":"Art","unit":453,"course":"en","order":4210,"words":[
+  {"id":"y4044","title":"Mỹ thuật và kiến trúc 2","desc":"Tranh, tượng, trường phái, công trình","icon":"Art","unit":453,"course":"en","order":4310,"words":[
    {"id":"y4044-ceramics","hanzi":"ceramics","pinyin":"","vi":"đồ gốm","ex":{"tokens":["Bat","Trang","is","famous","for","ceramics","."],"py":["","","","","","","."],"vi":"Bát Tràng nổi tiếng về đồ gốm.","alts":[]}},
    {"id":"y4044-porcelain","hanzi":"porcelain","pinyin":"","vi":"đồ sứ","ex":{"tokens":["The","tea","set","is","made","of","porcelain","."],"py":["","","","","","","","."],"vi":"Bộ ấm trà làm bằng sứ.","alts":[]}},
    {"id":"y4044-calligraphy","hanzi":"calligraphy","pinyin":"","vi":"thư pháp","ex":{"tokens":["He","practices","calligraphy","every","morning","."],"py":["","","","","","."],"vi":"Sáng nào ông ấy cũng luyện thư pháp.","alts":[]}},
@@ -66,7 +66,7 @@
    {"id":"y4044-baroque","hanzi":"baroque","pinyin":"","vi":"phong cách ba rốc","ex":{"tokens":["The","church","is","built","in","the","baroque","style","."],"py":["","","","","","","","","."],"vi":"Nhà thờ được xây theo phong cách ba rốc.","alts":[]}},
    {"id":"y4044-gothic","hanzi":"gothic","pinyin":"","vi":"phong cách gô tích","ex":{"tokens":["The","city","has","a","famous","gothic","cathedral","."],"py":["","","","","","","","."],"vi":"Thành phố có một nhà thờ gô tích nổi tiếng.","alts":[]}}
   ]},
-  {"id":"y4045","title":"Mỹ thuật và kiến trúc 3","desc":"Tranh, tượng, trường phái, công trình","icon":"Art","unit":453,"course":"en","order":4220,"words":[
+  {"id":"y4045","title":"Mỹ thuật và kiến trúc 3","desc":"Tranh, tượng, trường phái, công trình","icon":"Art","unit":453,"course":"en","order":4320,"words":[
    {"id":"y4045-renaissance","hanzi":"renaissance","pinyin":"","vi":"thời Phục Hưng; sự hồi sinh","ex":{"tokens":["Leonardo","was","an","artist","of","the","Renaissance","."],"py":["","","","","","","","."],"vi":"Leonardo là một nghệ sĩ thời Phục Hưng.","alts":[]}},
    {"id":"y4045-contemporary","hanzi":"contemporary","pinyin":"","vi":"đương đại","ex":{"tokens":["She","collects","contemporary","art","."],"py":["","","","","."],"vi":"Cô ấy sưu tầm nghệ thuật đương đại.","alts":[]}},
    {"id":"y4045-minimalist","hanzi":"minimalist","pinyin":"","vi":"tối giản","ex":{"tokens":["Their","apartment","has","a","minimalist","design","."],"py":["","","","","","","."],"vi":"Căn hộ của họ có thiết kế tối giản.","alts":[]}},
@@ -81,7 +81,7 @@
    {"id":"y4045-bronze","hanzi":"bronze","pinyin":"","vi":"đồng thiếc","ex":{"tokens":["The","statue","is","made","of","bronze","."],"py":["","","","","","","."],"vi":"Bức tượng làm bằng đồng.","alts":[]}},
    {"id":"y4045-mausoleum","hanzi":"mausoleum","pinyin":"","vi":"lăng mộ","ex":{"tokens":["We","visited","the","Ho","Chi","Minh","Mausoleum","."],"py":["","","","","","","","."],"vi":"Chúng tôi viếng Lăng Chủ tịch Hồ Chí Minh.","alts":[]}}
   ]},
-  {"id":"y4046","title":"Mỹ thuật và kiến trúc 4","desc":"Tranh, tượng, trường phái, công trình","icon":"Art","unit":453,"course":"en","order":4230,"words":[
+  {"id":"y4046","title":"Mỹ thuật và kiến trúc 4","desc":"Tranh, tượng, trường phái, công trình","icon":"Art","unit":453,"course":"en","order":4330,"words":[
    {"id":"y4046-obelisk","hanzi":"obelisk","pinyin":"","vi":"cột tháp nhọn","ex":{"tokens":["An","obelisk","stands","in","the","middle","of","the","square","."],"py":["","","","","","","","","","."],"vi":"Một cột tháp nhọn đứng giữa quảng trường.","alts":[]}},
    {"id":"y4046-amphitheater","hanzi":"amphitheater","pinyin":"","vi":"nhà hát vòng tròn ngoài trời","ex":{"tokens":["The","concert","was","held","in","a","Roman","amphitheater","."],"py":["","","","","","","","","."],"vi":"Buổi hòa nhạc diễn ra ở một nhà hát vòng tròn La Mã.","alts":[]}},
    {"id":"y4046-aqueduct","hanzi":"aqueduct","pinyin":"","vi":"cầu dẫn nước","ex":{"tokens":["The","Romans","built","an","aqueduct","to","bring","water","."],"py":["","","","","","","","","."],"vi":"Người La Mã xây cầu dẫn nước để đưa nước về.","alts":[]}},
@@ -96,7 +96,7 @@
    {"id":"y4046-parapet","hanzi":"parapet","pinyin":"","vi":"tường chắn thấp (mái, cầu)","ex":{"tokens":["He","looked","over","the","parapet","of","the","bridge","."],"py":["","","","","","","","","."],"vi":"Anh ấy nhìn qua tường chắn của cây cầu.","alts":[]}},
    {"id":"y4046-stonework","hanzi":"stonework","pinyin":"","vi":"phần xây, chạm bằng đá","ex":{"tokens":["The","stonework","of","the","temple","is","very","fine","."],"py":["","","","","","","","","."],"vi":"Phần chạm đá của ngôi đền rất tinh xảo.","alts":[]}}
   ]},
-  {"id":"y4047","title":"Âm nhạc và biểu diễn 1","desc":"Nhạc lý, nhạc cụ, thể loại, sân khấu","icon":"Music","unit":453,"course":"en","order":4240,"words":[
+  {"id":"y4047","title":"Âm nhạc và biểu diễn 1","desc":"Nhạc lý, nhạc cụ, thể loại, sân khấu","icon":"Music","unit":453,"course":"en","order":4340,"words":[
    {"id":"y4047-melody","hanzi":"melody","pinyin":"","vi":"giai điệu","ex":{"tokens":["I","cannot","forget","that","melody","."],"py":["","","","","","."],"vi":"Tôi không thể quên giai điệu đó.","alts":[]}},
    {"id":"y4047-harmony","hanzi":"harmony","pinyin":"","vi":"hòa âm; sự hòa hợp","ex":{"tokens":["The","two","sisters","sang","in","harmony","."],"py":["","","","","","","."],"vi":"Hai chị em hát bè hòa âm với nhau.","alts":[]}},
    {"id":"y4047-rhythm","hanzi":"rhythm","pinyin":"","vi":"nhịp điệu","ex":{"tokens":["She","danced","to","the","rhythm","of","the","drums","."],"py":["","","","","","","","","."],"vi":"Cô ấy nhảy theo nhịp trống.","alts":[]}},
@@ -110,7 +110,7 @@
    {"id":"y4047-tune","hanzi":"tune","pinyin":"","vi":"giai điệu; lên dây đàn","ex":{"tokens":["He","whistled","a","happy","tune","."],"py":["","","","","","."],"vi":"Anh ấy huýt sáo một giai điệu vui.","alts":[]}},
    {"id":"y4047-opera","hanzi":"opera","pinyin":"","vi":"nhạc kịch opera","ex":{"tokens":["We","saw","an","opera","in","Vienna","."],"py":["","","","","","","."],"vi":"Chúng tôi xem một vở opera ở Viên.","alts":[]}}
   ]},
-  {"id":"y4048","title":"Âm nhạc và biểu diễn 2","desc":"Nhạc lý, nhạc cụ, thể loại, sân khấu","icon":"Music","unit":453,"course":"en","order":4250,"words":[
+  {"id":"y4048","title":"Âm nhạc và biểu diễn 2","desc":"Nhạc lý, nhạc cụ, thể loại, sân khấu","icon":"Music","unit":453,"course":"en","order":4350,"words":[
    {"id":"y4048-duet","hanzi":"duet","pinyin":"","vi":"bài song ca, song tấu","ex":{"tokens":["They","sang","a","duet","at","the","wedding","."],"py":["","","","","","","","."],"vi":"Họ song ca trong đám cưới.","alts":[]}},
    {"id":"y4048-trio","hanzi":"trio","pinyin":"","vi":"bộ ba, tam tấu","ex":{"tokens":["A","jazz","trio","played","in","the","bar","."],"py":["","","","","","","","."],"vi":"Một ban tam tấu nhạc jazz chơi trong quán.","alts":[]}},
    {"id":"y4048-ensemble","hanzi":"ensemble","pinyin":"","vi":"nhóm nhạc, ban nhạc hòa tấu","ex":{"tokens":["She","plays","in","a","small","ensemble","."],"py":["","","","","","","."],"vi":"Cô ấy chơi trong một nhóm hòa tấu nhỏ.","alts":[]}},
@@ -124,7 +124,7 @@
    {"id":"y4048-clarinet","hanzi":"clarinet","pinyin":"","vi":"kèn clarinet","ex":{"tokens":["He","plays","the","clarinet","in","a","band","."],"py":["","","","","","","","."],"vi":"Anh ấy chơi kèn clarinet trong một ban nhạc.","alts":[]}},
    {"id":"y4048-saxophone","hanzi":"saxophone","pinyin":"","vi":"kèn saxophone","ex":{"tokens":["The","saxophone","is","common","in","jazz","."],"py":["","","","","","","."],"vi":"Kèn saxophone phổ biến trong nhạc jazz.","alts":[]}}
   ]},
-  {"id":"y4049","title":"Âm nhạc và biểu diễn 3","desc":"Nhạc lý, nhạc cụ, thể loại, sân khấu","icon":"Music","unit":453,"course":"en","order":4260,"words":[
+  {"id":"y4049","title":"Âm nhạc và biểu diễn 3","desc":"Nhạc lý, nhạc cụ, thể loại, sân khấu","icon":"Music","unit":453,"course":"en","order":4360,"words":[
    {"id":"y4049-trombone","hanzi":"trombone","pinyin":"","vi":"kèn trombone","ex":{"tokens":["My","brother","is","learning","the","trombone","."],"py":["","","","","","","."],"vi":"Em trai tôi đang học kèn trombone.","alts":[]}},
    {"id":"y4049-percussion","hanzi":"percussion","pinyin":"","vi":"bộ gõ","ex":{"tokens":["He","plays","percussion","in","the","orchestra","."],"py":["","","","","","","."],"vi":"Anh ấy chơi bộ gõ trong dàn nhạc.","alts":[]}},
    {"id":"y4049-cymbal","hanzi":"cymbal","pinyin":"","vi":"chũm chọe","ex":{"tokens":["The","drummer","hit","the","cymbal","."],"py":["","","","","","."],"vi":"Tay trống đánh vào chũm chọe.","alts":[]}},
@@ -138,7 +138,7 @@
    {"id":"y4049-organ","hanzi":"organ","pinyin":"","vi":"đàn organ; cơ quan (cơ thể)","ex":{"tokens":["He","plays","the","organ","in","church","."],"py":["","","","","","","."],"vi":"Ông ấy chơi đàn organ ở nhà thờ.","alts":[]}},
    {"id":"y4049-metronome","hanzi":"metronome","pinyin":"","vi":"máy đếm nhịp","ex":{"tokens":["Practice","slowly","with","a","metronome","."],"py":["","","","","","."],"vi":"Hãy tập chậm với máy đếm nhịp.","alts":[]}}
   ]},
-  {"id":"y4050","title":"Âm nhạc và biểu diễn 4","desc":"Nhạc lý, nhạc cụ, thể loại, sân khấu","icon":"Music","unit":453,"course":"en","order":4270,"words":[
+  {"id":"y4050","title":"Âm nhạc và biểu diễn 4","desc":"Nhạc lý, nhạc cụ, thể loại, sân khấu","icon":"Music","unit":453,"course":"en","order":4370,"words":[
    {"id":"y4050-microphone","hanzi":"microphone","pinyin":"","vi":"micrô","ex":{"tokens":["The","singer","dropped","the","microphone","."],"py":["","","","","","."],"vi":"Ca sĩ đánh rơi micrô.","alts":[]}},
    {"id":"y4050-audition","hanzi":"audition","pinyin":"","vi":"buổi thử giọng, thử vai","ex":{"tokens":["She","has","an","audition","for","the","school","play","."],"py":["","","","","","","","","."],"vi":"Cô ấy có buổi thử vai cho vở kịch của trường.","alts":[]}},
    {"id":"y4050-recital","hanzi":"recital","pinyin":"","vi":"buổi độc tấu","ex":{"tokens":["My","daughter","has","a","piano","recital","tonight","."],"py":["","","","","","","","."],"vi":"Con gái tôi có buổi độc tấu piano tối nay.","alts":[]}},

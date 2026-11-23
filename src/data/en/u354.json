@@ -1,9 +1,9 @@
 {
  "units": [
-  {"unit":354,"level":3,"title":"Phần 27: Mở rộng – Thể thao và tập luyện","desc":"Thể thao và tập luyện, Du lịch và khách sạn, Thời tiết và khí hậu, Cảm xúc và tính cách","color":"coral","course":"en"}
+  {"unit":354,"level":3,"title":"Phần 29: Mở rộng – Thể thao và tập luyện","desc":"Thể thao và tập luyện, Du lịch và khách sạn, Thời tiết và khí hậu, Cảm xúc và tính cách","color":"coral","course":"en"}
  ],
  "lessons": [
-  {"id":"y3061","title":"Thể thao và tập luyện 5","desc":"Môn thể thao, vị trí thi đấu, bài tập","icon":"Sport","unit":354,"course":"en","order":2910,"words":[
+  {"id":"y3061","title":"Thể thao và tập luyện 5","desc":"Môn thể thao, vị trí thi đấu, bài tập","icon":"Sport","unit":354,"course":"en","order":3010,"words":[
    {"id":"y3061-header","hanzi":"header","pinyin":"","vi":"cú đánh đầu; tiêu đề đầu trang","ex":{"tokens":["He","scored","with","a","header","."],"py":["","","","","","."],"vi":"Anh ấy ghi bàn bằng một cú đánh đầu.","alts":[]}},
    {"id":"y3061-lap","hanzi":"lap","pinyin":"","vi":"vòng chạy, vòng bơi; lòng (đùi)","ex":{"tokens":["She","swam","one","more","lap","."],"py":["","","","","","."],"vi":"Cô ấy bơi thêm một vòng nữa.","alts":[]}},
    {"id":"y3061-push_up","hanzi":"push-up","pinyin":"","vi":"động tác chống đẩy","ex":{"tokens":["He","cannot","do","a","single","push-up","."],"py":["","","","","","","."],"vi":"Anh ấy không chống đẩy nổi một cái.","alts":[]}},
@@ -17,7 +17,7 @@
    {"id":"y3061-catcher","hanzi":"catcher","pinyin":"","vi":"người bắt bóng (bóng chày)","ex":{"tokens":["The","catcher","dropped","the","ball","."],"py":["","","","","","."],"vi":"Người bắt bóng làm rơi bóng.","alts":[]}},
    {"id":"y3061-quarterback","hanzi":"quarterback","pinyin":"","vi":"tiền vệ dẫn bóng (bóng bầu dục Mỹ)","ex":{"tokens":["The","quarterback","threw","a","long","pass","."],"py":["","","","","","","."],"vi":"Tiền vệ dẫn bóng ném một đường chuyền dài.","alts":[]}}
   ]},
-  {"id":"y3062","title":"Thể thao và tập luyện 6","desc":"Môn thể thao, vị trí thi đấu, bài tập","icon":"Sport","unit":354,"course":"en","order":2920,"words":[
+  {"id":"y3062","title":"Thể thao và tập luyện 6","desc":"Môn thể thao, vị trí thi đấu, bài tập","icon":"Sport","unit":354,"course":"en","order":3020,"words":[
    {"id":"y3062-fencer","hanzi":"fencer","pinyin":"","vi":"vận động viên đấu kiếm","ex":{"tokens":["The","fencer","wore","a","white","mask","."],"py":["","","","","","","."],"vi":"Vận động viên đấu kiếm đeo mặt nạ trắng.","alts":[]}},
    {"id":"y3062-hurdler","hanzi":"hurdler","pinyin":"","vi":"vận động viên chạy vượt rào","ex":{"tokens":["The","hurdler","fell","at","the","last","jump","."],"py":["","","","","","","","."],"vi":"Vận động viên chạy vượt rào ngã ở rào cuối.","alts":[]}},
    {"id":"y3062-discus","hanzi":"discus","pinyin":"","vi":"môn ném đĩa; cái đĩa ném","ex":{"tokens":["He","threw","the","discus","sixty","meters","."],"py":["","","","","","","."],"vi":"Anh ấy ném đĩa xa sáu mươi mét.","alts":[]}},
@@ -31,7 +31,7 @@
    {"id":"y3062-cool_down","hanzi":"cool-down","pinyin":"","vi":"bài thả lỏng sau khi tập","ex":{"tokens":["Do","a","short","cool-down","after","running","."],"py":["","","","","","","."],"vi":"Hãy thả lỏng một chút sau khi chạy.","alts":[]}},
    {"id":"y3062-kettlebell","hanzi":"kettlebell","pinyin":"","vi":"tạ ấm","ex":{"tokens":["She","swings","a","kettlebell","every","morning","."],"py":["","","","","","","."],"vi":"Sáng nào cô ấy cũng tập vung tạ ấm.","alts":[]}}
   ]},
-  {"id":"y3063","title":"Du lịch và khách sạn 1","desc":"Sân bay, chuyến bay, lưu trú, tham quan","icon":"Travel","unit":354,"course":"en","order":2930,"words":[
+  {"id":"y3063","title":"Du lịch và khách sạn 1","desc":"Sân bay, chuyến bay, lưu trú, tham quan","icon":"Travel","unit":354,"course":"en","order":3030,"words":[
    {"id":"y3063-safari","hanzi":"safari","pinyin":"","vi":"chuyến đi xem thú hoang dã","ex":{"tokens":["We","saw","lions","on","safari","."],"py":["","","","","","."],"vi":"Chúng tôi thấy sư tử trong chuyến đi xem thú hoang.","alts":[]}},
    {"id":"y3063-guidebook","hanzi":"guidebook","pinyin":"","vi":"sách hướng dẫn du lịch","ex":{"tokens":["The","guidebook","lists","cheap","hotels","."],"py":["","","","","","."],"vi":"Sách hướng dẫn liệt kê các khách sạn giá rẻ.","alts":[]}},
    {"id":"y3063-travel_agent","hanzi":"travel agent","pinyin":"","vi":"nhân viên đại lý du lịch","ex":{"tokens":["The","travel","agent","booked","our","flights","."],"py":["","","","","","","."],"vi":"Nhân viên đại lý du lịch đặt vé máy bay cho chúng tôi.","alts":[]}},
@@ -47,7 +47,7 @@
    {"id":"y3063-window_seat","hanzi":"window seat","pinyin":"","vi":"ghế cạnh cửa sổ","ex":{"tokens":["The","child","asked","for","a","window","seat","."],"py":["","","","","","","","."],"vi":"Đứa bé xin ngồi ghế cạnh cửa sổ.","alts":[]}},
    {"id":"y3063-legroom","hanzi":"legroom","pinyin":"","vi":"chỗ để chân","ex":{"tokens":["There","is","not","much","legroom","on","this","plane","."],"py":["","","","","","","","","."],"vi":"Máy bay này không có nhiều chỗ để chân.","alts":[]}}
   ]},
-  {"id":"y3064","title":"Du lịch và khách sạn 2","desc":"Sân bay, chuyến bay, lưu trú, tham quan","icon":"Travel","unit":354,"course":"en","order":2940,"words":[
+  {"id":"y3064","title":"Du lịch và khách sạn 2","desc":"Sân bay, chuyến bay, lưu trú, tham quan","icon":"Travel","unit":354,"course":"en","order":3040,"words":[
    {"id":"y3064-overhead_bin","hanzi":"overhead bin","pinyin":"","vi":"ngăn hành lý phía trên","ex":{"tokens":["Put","your","bag","in","the","overhead","bin","."],"py":["","","","","","","","."],"vi":"Hãy để túi vào ngăn hành lý phía trên.","alts":[]}},
    {"id":"y3064-life_jacket","hanzi":"life jacket","pinyin":"","vi":"áo phao","ex":{"tokens":["Your","life","jacket","is","under","the","seat","."],"py":["","","","","","","","."],"vi":"Áo phao của bạn ở dưới ghế.","alts":[]}},
    {"id":"y3064-flight_attendant","hanzi":"flight attendant","pinyin":"","vi":"tiếp viên hàng không","ex":{"tokens":["The","flight","attendant","brought","me","some","water","."],"py":["","","","","","","","."],"vi":"Tiếp viên mang cho tôi ít nước.","alts":[]}},
@@ -63,7 +63,7 @@
    {"id":"y3064-valet","hanzi":"valet","pinyin":"","vi":"nhân viên đỗ xe hộ","ex":{"tokens":["The","valet","parked","our","car","."],"py":["","","","","","."],"vi":"Nhân viên đỗ xe hộ chúng tôi.","alts":[]}},
    {"id":"y3064-minibar","hanzi":"minibar","pinyin":"","vi":"tủ lạnh nhỏ trong phòng","ex":{"tokens":["Drinks","from","the","minibar","are","expensive","."],"py":["","","","","","","."],"vi":"Đồ uống trong tủ lạnh nhỏ rất đắt.","alts":[]}}
   ]},
-  {"id":"y3065","title":"Du lịch và khách sạn 3","desc":"Sân bay, chuyến bay, lưu trú, tham quan","icon":"Travel","unit":354,"course":"en","order":2950,"words":[
+  {"id":"y3065","title":"Du lịch và khách sạn 3","desc":"Sân bay, chuyến bay, lưu trú, tham quan","icon":"Travel","unit":354,"course":"en","order":3050,"words":[
    {"id":"y3065-key_card","hanzi":"key card","pinyin":"","vi":"thẻ từ mở cửa","ex":{"tokens":["I","left","my","key","card","in","the","room","."],"py":["","","","","","","","","."],"vi":"Tôi để quên thẻ mở cửa trong phòng.","alts":[]}},
    {"id":"y3065-wake_up_call","hanzi":"wake-up call","pinyin":"","vi":"cuộc gọi báo thức","ex":{"tokens":["I","asked","for","a","wake-up","call","at","six","."],"py":["","","","","","","","","."],"vi":"Tôi yêu cầu gọi báo thức lúc sáu giờ.","alts":[]}},
    {"id":"y3065-complimentary","hanzi":"complimentary","pinyin":"","vi":"miễn phí (tặng kèm); khen ngợi","ex":{"tokens":["The","hotel","offers","a","complimentary","breakfast","."],"py":["","","","","","","."],"vi":"Khách sạn tặng bữa sáng miễn phí.","alts":[]}},
@@ -79,7 +79,7 @@
    {"id":"y3065-cable_car","hanzi":"cable car","pinyin":"","vi":"cáp treo","ex":{"tokens":["We","took","the","cable","car","up","Ba","Na","Hills","."],"py":["","","","","","","","","","."],"vi":"Chúng tôi đi cáp treo lên Bà Nà.","alts":[]}},
    {"id":"y3065-marina","hanzi":"marina","pinyin":"","vi":"bến du thuyền","ex":{"tokens":["Their","boat","is","in","the","marina","."],"py":["","","","","","","."],"vi":"Thuyền của họ ở bến du thuyền.","alts":[]}}
   ]},
-  {"id":"y3066","title":"Thời tiết và khí hậu 1","desc":"Hiện tượng thời tiết, khí hậu, môi trường","icon":"Weather","unit":354,"course":"en","order":2960,"words":[
+  {"id":"y3066","title":"Thời tiết và khí hậu 1","desc":"Hiện tượng thời tiết, khí hậu, môi trường","icon":"Weather","unit":354,"course":"en","order":3060,"words":[
    {"id":"y3066-downpour","hanzi":"downpour","pinyin":"","vi":"trận mưa như trút","ex":{"tokens":["We","got","caught","in","a","downpour","."],"py":["","","","","","","."],"vi":"Chúng tôi gặp một trận mưa như trút.","alts":[]}},
    {"id":"y3066-mist","hanzi":"mist","pinyin":"","vi":"sương mù nhẹ","ex":{"tokens":["Mist","covered","the","valley","in","the","morning","."],"py":["","","","","","","","."],"vi":"Sương phủ thung lũng vào buổi sáng.","alts":[]}},
    {"id":"y3066-haze","hanzi":"haze","pinyin":"","vi":"màn sương mờ, bụi mù","ex":{"tokens":["A","haze","of","smoke","hung","over","the","city","."],"py":["","","","","","","","","."],"vi":"Một màn khói mờ bao phủ thành phố.","alts":[]}},
@@ -95,7 +95,7 @@
    {"id":"y3066-snowfall","hanzi":"snowfall","pinyin":"","vi":"lượng tuyết rơi; trận tuyết","ex":{"tokens":["The","first","snowfall","came","in","November","."],"py":["","","","","","","."],"vi":"Trận tuyết đầu tiên rơi vào tháng Mười Một.","alts":[]}},
    {"id":"y3066-celsius","hanzi":"Celsius","pinyin":"","vi":"độ C","ex":{"tokens":["Water","boils","at","one","hundred","degrees","Celsius","."],"py":["","","","","","","","."],"vi":"Nước sôi ở một trăm độ C.","alts":[]}}
   ]},
-  {"id":"y3067","title":"Thời tiết và khí hậu 2","desc":"Hiện tượng thời tiết, khí hậu, môi trường","icon":"Weather","unit":354,"course":"en","order":2970,"words":[
+  {"id":"y3067","title":"Thời tiết và khí hậu 2","desc":"Hiện tượng thời tiết, khí hậu, môi trường","icon":"Weather","unit":354,"course":"en","order":3070,"words":[
    {"id":"y3067-fahrenheit","hanzi":"Fahrenheit","pinyin":"","vi":"độ F","ex":{"tokens":["Americans","measure","temperature","in","Fahrenheit","."],"py":["","","","","","."],"vi":"Người Mỹ đo nhiệt độ bằng độ F.","alts":[]}},
    {"id":"y3067-wind_chill","hanzi":"wind chill","pinyin":"","vi":"độ lạnh do gió","ex":{"tokens":["The","wind","chill","makes","it","feel","much","colder","."],"py":["","","","","","","","","."],"vi":"Gió làm cho cảm giác lạnh hơn nhiều.","alts":[]}},
    {"id":"y3067-high_pressure","hanzi":"high pressure","pinyin":"","vi":"áp cao","ex":{"tokens":["High","pressure","brings","dry","weather","."],"py":["","","","","","."],"vi":"Áp cao mang lại thời tiết khô ráo.","alts":[]}},
@@ -111,7 +111,7 @@
    {"id":"y3067-arid","hanzi":"arid","pinyin":"","vi":"khô cằn","ex":{"tokens":["Few","plants","grow","in","this","arid","land","."],"py":["","","","","","","","."],"vi":"Ít loài cây mọc được ở vùng đất khô cằn này.","alts":[]}},
    {"id":"y3067-clear_up","hanzi":"clear up","pinyin":"","vi":"trời quang lại; làm sáng tỏ","ex":{"tokens":["I","hope","the","weather","will","clear","up","soon","."],"py":["","","","","","","","","."],"vi":"Tôi mong trời sẽ sớm quang lại.","alts":[]}}
   ]},
-  {"id":"y3068","title":"Cảm xúc và tính cách 1","desc":"Trạng thái cảm xúc, phẩm chất con người","icon":"Feelings","unit":354,"course":"en","order":2980,"words":[
+  {"id":"y3068","title":"Cảm xúc và tính cách 1","desc":"Trạng thái cảm xúc, phẩm chất con người","icon":"Feelings","unit":354,"course":"en","order":3080,"words":[
    {"id":"y3068-joyful","hanzi":"joyful","pinyin":"","vi":"vui sướng","ex":{"tokens":["It","was","a","joyful","day","for","the","whole","family","."],"py":["","","","","","","","","","."],"vi":"Đó là một ngày vui sướng của cả gia đình.","alts":[]}},
    {"id":"y3068-ecstatic","hanzi":"ecstatic","pinyin":"","vi":"vui sướng tột độ","ex":{"tokens":["She","was","ecstatic","when","she","got","the","job","."],"py":["","","","","","","","","."],"vi":"Cô ấy vui sướng tột độ khi nhận được việc.","alts":[]}},
    {"id":"y3068-heartbroken","hanzi":"heartbroken","pinyin":"","vi":"đau khổ, tan nát cõi lòng","ex":{"tokens":["He","was","heartbroken","when","his","dog","died","."],"py":["","","","","","","","."],"vi":"Anh ấy đau khổ khi chú chó của mình chết.","alts":[]}},
@@ -127,7 +127,7 @@
    {"id":"y3068-considerate","hanzi":"considerate","pinyin":"","vi":"chu đáo, biết nghĩ cho người khác","ex":{"tokens":["It","was","considerate","of","you","to","call","."],"py":["","","","","","","","."],"vi":"Bạn thật chu đáo khi gọi điện.","alts":[]}},
    {"id":"y3068-thoughtful","hanzi":"thoughtful","pinyin":"","vi":"ân cần; trầm tư","ex":{"tokens":["Thank","you","for","the","thoughtful","gift","."],"py":["","","","","","","."],"vi":"Cảm ơn bạn về món quà ân cần.","alts":[]}}
   ]},
-  {"id":"y3069","title":"Cảm xúc và tính cách 2","desc":"Trạng thái cảm xúc, phẩm chất con người","icon":"Feelings","unit":354,"course":"en","order":2990,"words":[
+  {"id":"y3069","title":"Cảm xúc và tính cách 2","desc":"Trạng thái cảm xúc, phẩm chất con người","icon":"Feelings","unit":354,"course":"en","order":3090,"words":[
    {"id":"y3069-conceited","hanzi":"conceited","pinyin":"","vi":"tự phụ","ex":{"tokens":["He","is","too","conceited","to","listen","."],"py":["","","","","","","."],"vi":"Anh ta quá tự phụ nên không chịu nghe.","alts":[]}},
    {"id":"y3069-vain","hanzi":"vain","pinyin":"","vi":"hão huyền; phù phiếm, tự mãn về ngoại hình","ex":{"tokens":["He","is","vain","about","his","hair","."],"py":["","","","","","","."],"vi":"Anh ta tự mãn về mái tóc của mình.","alts":[]}},
    {"id":"y3069-timid","hanzi":"timid","pinyin":"","vi":"rụt rè, nhút nhát","ex":{"tokens":["The","timid","child","hid","behind","her","mother","."],"py":["","","","","","","","."],"vi":"Đứa bé nhút nhát nấp sau lưng mẹ.","alts":[]}},
@@ -143,7 +143,7 @@
    {"id":"y3069-tactful","hanzi":"tactful","pinyin":"","vi":"khéo léo, tế nhị","ex":{"tokens":["She","gave","a","tactful","answer","."],"py":["","","","","","."],"vi":"Cô ấy đưa ra một câu trả lời tế nhị.","alts":[]}},
    {"id":"y3069-blunt","hanzi":"blunt","pinyin":"","vi":"thẳng thừng; cùn","ex":{"tokens":["To","be","blunt",",","your","plan","will","not","work","."],"py":["","","",",","","","","","","."],"vi":"Nói thẳng ra, kế hoạch của bạn sẽ không thành.","alts":[]}}
   ]},
-  {"id":"y3070","title":"Cảm xúc và tính cách 3","desc":"Trạng thái cảm xúc, phẩm chất con người","icon":"Feelings","unit":354,"course":"en","order":3000,"words":[
+  {"id":"y3070","title":"Cảm xúc và tính cách 3","desc":"Trạng thái cảm xúc, phẩm chất con người","icon":"Feelings","unit":354,"course":"en","order":3100,"words":[
    {"id":"y3070-outspoken","hanzi":"outspoken","pinyin":"","vi":"thẳng thắn, bộc trực","ex":{"tokens":["She","is","an","outspoken","critic","of","the","plan","."],"py":["","","","","","","","","."],"vi":"Cô ấy là người thẳng thắn chỉ trích kế hoạch.","alts":[]}},
    {"id":"y3070-reserved","hanzi":"reserved","pinyin":"","vi":"kín đáo, dè dặt; đã đặt trước","ex":{"tokens":["He","is","quiet","and","reserved","."],"py":["","","","","","."],"vi":"Anh ấy trầm lặng và kín đáo.","alts":[]}},
    {"id":"y3070-withdrawn","hanzi":"withdrawn","pinyin":"","vi":"thu mình, khép kín","ex":{"tokens":["The","boy","became","withdrawn","after","the","move","."],"py":["","","","","","","","."],"vi":"Cậu bé trở nên khép kín sau khi chuyển nhà.","alts":[]}},
