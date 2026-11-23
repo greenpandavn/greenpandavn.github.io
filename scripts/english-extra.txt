@@ -1325,7 +1325,7 @@ anthem|quốc ca; bài ca chính thức|Everyone stood for the national anthem.|
 folk song|bài dân ca|My grandmother taught me a folk song.|Bà dạy tôi một bài dân ca.
 jazz|nhạc jazz|He listens to jazz while he works.|Anh ấy nghe nhạc jazz khi làm việc.
 
-%454|4|Phần 4: Mở rộng – Âm nhạc và biểu diễn|Âm nhạc và biểu diễn, Văn học và sách|coral
+%454|4|Phần 4: Mở rộng – Âm nhạc và biểu diễn|Âm nhạc và biểu diễn, Văn học và sách, Kinh doanh và tiếp thị|coral
 @y4061|Âm nhạc và biểu diễn 5|Nhạc lý, nhạc cụ, thể loại, sân khấu|Music
 hip-hop|nhạc hip-hop|Hip-hop started in New York.|Nhạc hip-hop bắt nguồn từ New York.
 rap|nhạc rap; đọc rap|My brother likes rap music.|Anh trai tôi thích nhạc rap.
@@ -1401,6 +1401,144 @@ romance|truyện tình cảm; chuyện tình|She writes romance novels.|Cô ấy
 tragedy|bi kịch|The play is a famous tragedy.|Vở kịch là một bi kịch nổi tiếng.
 drama|kịch; phim chính kịch|She studies drama at university.|Cô ấy học kịch ở đại học.
 parable|truyện dụ ngôn|The teacher told a parable about two sons.|Người thầy kể một dụ ngôn về hai người con trai.
+
+@y4066|Kinh doanh và tiếp thị 1|Doanh nghiệp, bán hàng, quảng cáo|Business
+branding|việc xây dựng thương hiệu|Good branding helps people remember you.|Xây dựng thương hiệu tốt giúp mọi người nhớ đến bạn.
+trademark|nhãn hiệu đã đăng ký|The name is a registered trademark.|Cái tên đó là nhãn hiệu đã đăng ký.
+conglomerate|tập đoàn đa ngành|The conglomerate owns hotels and banks.|Tập đoàn đa ngành sở hữu khách sạn và ngân hàng.
+cartel|các-ten, liên minh độc quyền|The oil cartel cut production.|Liên minh dầu mỏ cắt giảm sản lượng.
+wholesaler|nhà bán buôn|We buy rice from a wholesaler.|Chúng tôi mua gạo từ một nhà bán buôn.
+retailer|nhà bán lẻ|The retailer has two hundred stores.|Nhà bán lẻ đó có hai trăm cửa hàng.
+vendor|người bán, nhà cung cấp|We chose a new software vendor.|Chúng tôi chọn một nhà cung cấp phần mềm mới.
+procurement|việc mua sắm, thu mua|She works in procurement.|Cô ấy làm ở bộ phận thu mua.
+supply chain|chuỗi cung ứng|The strike broke the supply chain.|Cuộc đình công làm đứt chuỗi cung ứng.
+outsourcing|việc thuê ngoài|Outsourcing saves the firm money.|Thuê ngoài giúp công ty tiết kiệm tiền.
+downsizing|việc cắt giảm nhân sự|Downsizing cost two hundred jobs.|Đợt cắt giảm nhân sự làm mất hai trăm việc làm.
+restructuring|việc tái cơ cấu|The bank is going through restructuring.|Ngân hàng đang tái cơ cấu.
+projection|dự báo; sự chiếu|The sales projection looks good.|Dự báo doanh số trông khả quan.
+quota|hạn ngạch, chỉ tiêu|She met her sales quota.|Cô ấy đạt chỉ tiêu doanh số.
+
+@y4067|Kinh doanh và tiếp thị 2|Doanh nghiệp, bán hàng, quảng cáo|Business
+target market|thị trường mục tiêu|Our target market is young parents.|Thị trường mục tiêu của chúng tôi là các bậc cha mẹ trẻ.
+demographic|nhóm nhân khẩu học|The show is popular with a young demographic.|Chương trình được nhóm khán giả trẻ ưa thích.
+focus group|nhóm khảo sát ý kiến|A focus group tested the new drink.|Một nhóm khảo sát dùng thử loại đồ uống mới.
+market share|thị phần|The brand lost market share.|Thương hiệu mất thị phần.
+market research|nghiên cứu thị trường|Market research shows people want smaller cars.|Nghiên cứu thị trường cho thấy mọi người muốn xe nhỏ hơn.
+word of mouth|truyền miệng|The café grew through word of mouth.|Quán cà phê phát triển nhờ truyền miệng.
+sponsorship|sự tài trợ|The team is looking for sponsorship.|Đội đang tìm nguồn tài trợ.
+press release|thông cáo báo chí|The company sent out a press release.|Công ty phát đi một thông cáo báo chí.
+product launch|buổi ra mắt sản phẩm|The product launch is next month.|Buổi ra mắt sản phẩm diễn ra vào tháng sau.
+bid|giá thầu, sự trả giá; đấu thầu|Their bid was the lowest.|Giá thầu của họ thấp nhất.
+bargaining|sự mặc cả, thương lượng|After hours of bargaining, they agreed.|Sau nhiều giờ thương lượng, họ đồng ý.
+concession|sự nhượng bộ|Neither side made a concession.|Không bên nào nhượng bộ.
+partnership|quan hệ đối tác|The two firms formed a partnership.|Hai công ty thiết lập quan hệ đối tác.
+joint venture|liên doanh|The factory is a joint venture with a Japanese firm.|Nhà máy là liên doanh với một công ty Nhật.
+
+@y4068|Kinh doanh và tiếp thị 3|Doanh nghiệp, bán hàng, quảng cáo|Business
+board of directors|hội đồng quản trị|The board of directors meets every month.|Hội đồng quản trị họp mỗi tháng.
+chief executive|giám đốc điều hành|The chief executive resigned.|Giám đốc điều hành đã từ chức.
+tycoon|ông trùm kinh doanh|A property tycoon bought the hotel.|Một ông trùm bất động sản mua khách sạn.
+magnate|trùm tư bản|The oil magnate gave money to the school.|Ông trùm dầu mỏ tặng tiền cho trường.
+proprietor|chủ sở hữu (cửa hàng, doanh nghiệp)|The proprietor of the café greeted us.|Chủ quán cà phê chào đón chúng tôi.
+sole trader|hộ kinh doanh cá thể|He works as a sole trader.|Anh ấy kinh doanh cá thể.
+corporation|tập đoàn, công ty lớn|She works for a large corporation.|Cô ấy làm cho một tập đoàn lớn.
+enterprise|doanh nghiệp; sự nghiệp kinh doanh|It is a small family enterprise.|Đó là một doanh nghiệp gia đình nhỏ.
+profit margin|biên lợi nhuận|The profit margin on rice is small.|Biên lợi nhuận của gạo thấp.
+break even|hòa vốn|We hope to break even this year.|Chúng tôi hy vọng hòa vốn trong năm nay.
+bottom line|lợi nhuận ròng; điểm mấu chốt|The bottom line is that we need more staff.|Điểm mấu chốt là chúng ta cần thêm nhân viên.
+return on investment|lợi tức đầu tư|The return on investment was ten percent.|Lợi tức đầu tư là mười phần trăm.
+economies of scale|lợi thế kinh tế theo quy mô|Big factories enjoy economies of scale.|Nhà máy lớn hưởng lợi thế theo quy mô.
+competitive edge|lợi thế cạnh tranh|Low prices give them a competitive edge.|Giá thấp cho họ lợi thế cạnh tranh.
+
+@y4069|Kinh doanh và tiếp thị 4|Doanh nghiệp, bán hàng, quảng cáo|Business
+added value|giá trị gia tăng|Free delivery is added value for customers.|Giao hàng miễn phí là giá trị gia tăng cho khách.
+unique selling point|điểm bán hàng độc nhất|The long battery life is its unique selling point.|Pin dùng lâu là điểm bán hàng độc nhất của nó.
+customer base|tập khách hàng|The shop has a loyal customer base.|Cửa hàng có tập khách hàng trung thành.
+after-sales service|dịch vụ sau bán hàng|The brand is known for good after-sales service.|Thương hiệu nổi tiếng về dịch vụ sau bán hàng tốt.
+loyalty program|chương trình khách hàng thân thiết|Join our loyalty program to earn points.|Hãy tham gia chương trình khách hàng thân thiết để tích điểm.
+upsell|bán thêm hàng giá trị cao hơn|Waiters often upsell drinks.|Bồi bàn thường mời khách mua thêm đồ uống.
+cold call|cuộc gọi chào hàng không hẹn trước|I got a cold call from an insurance company.|Tôi nhận một cuộc gọi chào hàng từ công ty bảo hiểm.
+prospect|khách hàng tiềm năng; triển vọng|She called every prospect on the list.|Cô ấy gọi cho mọi khách hàng tiềm năng trong danh sách.
+conversion rate|tỷ lệ chuyển đổi|The new page doubled our conversion rate.|Trang mới làm tỷ lệ chuyển đổi của chúng tôi tăng gấp đôi.
+e-commerce|thương mại điện tử|E-commerce is growing fast in Vietnam.|Thương mại điện tử đang phát triển nhanh ở Việt Nam.
+storefront|mặt tiền cửa hàng|The storefront has a big glass window.|Mặt tiền cửa hàng có một cửa kính lớn.
+flagship store|cửa hàng chủ lực|The brand opened a flagship store in Hanoi.|Thương hiệu mở cửa hàng chủ lực ở Hà Nội.
+showroom|phòng trưng bày|We saw the new car in the showroom.|Chúng tôi xem chiếc xe mới ở phòng trưng bày.
+
+@y4070|Kinh doanh và tiếp thị 5|Doanh nghiệp, bán hàng, quảng cáo|Business
+trade fair|hội chợ thương mại|They showed their products at a trade fair.|Họ giới thiệu sản phẩm tại một hội chợ thương mại.
+expo|triển lãm lớn|We visited a food expo.|Chúng tôi tham quan một triển lãm ẩm thực.
+leaflet|tờ rơi|He handed me a leaflet about the gym.|Anh ấy đưa tôi một tờ rơi về phòng tập.
+jingle|đoạn nhạc quảng cáo|I cannot forget that jingle.|Tôi không quên được đoạn nhạc quảng cáo đó.
+commercial break|giờ quảng cáo|I made tea during the commercial break.|Tôi pha trà trong giờ quảng cáo.
+prime time|giờ vàng|The show is on in prime time.|Chương trình phát vào giờ vàng.
+viral|lan truyền nhanh trên mạng|The video went viral in one day.|Đoạn video lan truyền khắp mạng chỉ trong một ngày.
+clickbait|tiêu đề câu khách|That headline is just clickbait.|Tiêu đề đó chỉ để câu khách.
+offshoring|việc chuyển hoạt động ra nước ngoài|Offshoring moved the factory to Asia.|Việc chuyển hoạt động ra nước ngoài đưa nhà máy sang châu Á.
+mogul|ông trùm (truyền thông, điện ảnh)|The media mogul owns three TV channels.|Ông trùm truyền thông sở hữu ba kênh truyền hình.
+dropshipping|bán hàng không lưu kho|He started a dropshipping business from home.|Anh ấy bắt đầu bán hàng không lưu kho tại nhà.
+pop-up shop|cửa hàng tạm thời|The brand opened a pop-up shop for one week.|Thương hiệu mở một cửa hàng tạm thời trong một tuần.
+cross-sell|bán chéo|Banks cross-sell insurance to their customers.|Ngân hàng bán chéo bảo hiểm cho khách hàng.
+
+%455|4|Phần 5: Mở rộng – Báo chí và truyền hình|Báo chí và truyền hình|sun
+@y4081|Báo chí và truyền hình 1|Tin tức, chương trình, điện ảnh, mạng xã hội|Media
+caption|chú thích ảnh|Read the caption under the photo.|Hãy đọc chú thích dưới bức ảnh.
+obituary|cáo phó|I read his obituary in the paper.|Tôi đọc cáo phó của ông ấy trên báo.
+readership|lượng độc giả|The magazine has a young readership.|Tạp chí có lượng độc giả trẻ.
+front page|trang nhất|The story was on the front page.|Câu chuyện được đăng trên trang nhất.
+breaking news|tin nóng|We interrupt the show for breaking news.|Chúng tôi tạm ngắt chương trình để đưa tin nóng.
+press conference|cuộc họp báo|The minister held a press conference.|Bộ trưởng tổ chức họp báo.
+spokesperson|người phát ngôn|A spokesperson denied the report.|Một người phát ngôn bác bỏ bản tin.
+newsreader|người đọc bản tin|The newsreader smiled at the camera.|Người đọc bản tin mỉm cười trước ống kính.
+broadcaster|đài phát sóng; phát thanh viên|The national broadcaster showed the match.|Đài quốc gia phát sóng trận đấu.
+commentator|bình luận viên|The commentator shouted when the goal went in.|Bình luận viên hét lên khi bàn thắng được ghi.
+pundit|chuyên gia bình luận|A football pundit predicted the score.|Một chuyên gia bình luận bóng đá dự đoán tỉ số.
+paparazzi|thợ săn ảnh|The paparazzi followed the actress.|Thợ săn ảnh bám theo nữ diễn viên.
+newsroom|phòng tin tức|The newsroom was busy all night.|Phòng tin tức bận rộn suốt đêm.
+
+@y4082|Báo chí và truyền hình 2|Tin tức, chương trình, điện ảnh, mạng xã hội|Media
+press freedom|tự do báo chí|Press freedom is protected by law.|Tự do báo chí được luật pháp bảo vệ.
+fact-check|kiểm chứng thông tin|Always fact-check a story before you share it.|Hãy luôn kiểm chứng một tin trước khi chia sẻ.
+misinformation|thông tin sai lệch|Misinformation spreads fast online.|Thông tin sai lệch lan nhanh trên mạng.
+fake news|tin giả|Do not believe fake news.|Đừng tin tin giả.
+live broadcast|buổi phát sóng trực tiếp|Millions watched the live broadcast.|Hàng triệu người xem buổi phát sóng trực tiếp.
+rerun|chương trình phát lại|It is only a rerun of an old show.|Đó chỉ là bản phát lại của một chương trình cũ.
+sitcom|phim hài tình huống|Friends is a famous sitcom.|Friends là một phim hài tình huống nổi tiếng.
+soap opera|phim truyền hình dài tập|My grandmother watches a soap opera every evening.|Tối nào bà tôi cũng xem phim truyền hình dài tập.
+talk show|chương trình trò chuyện|The actor appeared on a talk show.|Nam diễn viên xuất hiện trên một chương trình trò chuyện.
+game show|trò chơi truyền hình|She won a car on a game show.|Cô ấy thắng một chiếc ô tô trong trò chơi truyền hình.
+reality show|chương trình truyền hình thực tế|He became famous on a reality show.|Anh ấy nổi tiếng nhờ một chương trình thực tế.
+miniseries|phim truyền hình ngắn tập|The book was made into a miniseries.|Cuốn sách được chuyển thể thành phim ngắn tập.
+prequel|phần tiền truyện|The prequel tells the hero's childhood.|Phần tiền truyện kể về tuổi thơ của người hùng.
+
+@y4083|Báo chí và truyền hình 3|Tin tức, chương trình, điện ảnh, mạng xã hội|Media
+teaser|đoạn giới thiệu ngắn|The studio released a short teaser.|Hãng phim tung ra một đoạn giới thiệu ngắn.
+box office|phòng vé; doanh thu phòng vé|The film was a hit at the box office.|Bộ phim thắng lớn ở phòng vé.
+flop|thất bại (phim, sản phẩm)|His second film was a flop.|Bộ phim thứ hai của anh ấy là một thất bại.
+screenwriter|nhà biên kịch|The screenwriter won an award.|Nhà biên kịch giành một giải thưởng.
+producer|nhà sản xuất|The producer found money for the film.|Nhà sản xuất tìm được tiền cho bộ phim.
+extra|diễn viên quần chúng; thêm|He worked as an extra in a war film.|Anh ấy làm diễn viên quần chúng trong một phim chiến tranh.
+close-up|cảnh quay cận|The film opens with a close-up of her face.|Bộ phim mở đầu bằng cảnh quay cận khuôn mặt cô ấy.
+special effects|kỹ xảo điện ảnh|The special effects look real.|Kỹ xảo trông như thật.
+subscriber|người đăng ký theo dõi|The channel has one million subscriber accounts.|Kênh có một triệu tài khoản đăng ký.
+thumbnail|ảnh thu nhỏ|Click the thumbnail to see the full photo.|Hãy bấm vào ảnh thu nhỏ để xem ảnh đầy đủ.
+troll|kẻ chuyên khiêu khích trên mạng|Do not answer a troll.|Đừng trả lời kẻ khiêu khích trên mạng.
+moderator|người kiểm duyệt, điều phối|The moderator deleted the rude comment.|Người kiểm duyệt xóa bình luận thô lỗ.
+vlogger|người làm video blog|The vlogger films her daily life.|Cô vlogger quay lại cuộc sống hằng ngày của mình.
+
+@y4084|Báo chí và truyền hình 4|Tin tức, chương trình, điện ảnh, mạng xã hội|Media
+sensationalism|lối đưa tin giật gân|The paper is known for sensationalism.|Tờ báo nổi tiếng với lối đưa tin giật gân.
+censor|kiểm duyệt; người kiểm duyệt|The government tried to censor the film.|Chính phủ tìm cách kiểm duyệt bộ phim.
+off the record|không chính thức, không để đăng báo|He told me off the record that he would resign.|Ông ấy nói riêng với tôi rằng ông sẽ từ chức.
+anonymous source|nguồn tin giấu tên|The story came from an anonymous source.|Câu chuyện đến từ một nguồn tin giấu tên.
+byline|dòng ghi tên tác giả bài báo|Her byline appears on the front page.|Tên cô ấy xuất hiện dưới bài trên trang nhất.
+op-ed|bài bình luận của tác giả ngoài tòa soạn|She wrote an op-ed about schools.|Cô ấy viết một bài bình luận về trường học.
+broadsheet|báo khổ lớn (chính luận)|He reads a broadsheet every morning.|Sáng nào ông ấy cũng đọc một tờ báo khổ lớn.
+disinformation|thông tin cố ý sai lệch|The site spreads disinformation about vaccines.|Trang đó lan truyền thông tin cố ý sai lệch về vắc xin.
+quiz show|chương trình đố vui|He won a prize on a quiz show.|Anh ấy thắng giải trong một chương trình đố vui.
+cinematographer|nhà quay phim|The cinematographer chose soft light.|Nhà quay phim chọn ánh sáng dịu.
+green screen|phông xanh (kỹ xảo)|The scene was filmed in front of a green screen.|Cảnh đó được quay trước phông xanh.
+press pass|thẻ nhà báo|You need a press pass to enter.|Bạn cần thẻ nhà báo để vào.
 
 %551|5|Phần 1: Mở rộng – Giải phẫu cơ thể|Giải phẫu cơ thể, Bệnh lý, Thủ thuật và thiết bị y khoa, Thực vật học, Động vật học|leaf
 @y5001|Giải phẫu cơ thể 1|Xương, nội tạng, các phần trên cơ thể|Anatomy
