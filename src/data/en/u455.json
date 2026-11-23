@@ -1,6 +1,6 @@
 {
  "units": [
-  {"unit":455,"level":4,"title":"Phần 41: Mở rộng – Báo chí và truyền hình","desc":"Báo chí và truyền hình, Tâm lý và tâm trí","color":"sun","course":"en"}
+  {"unit":455,"level":4,"title":"Phần 41: Mở rộng – Báo chí và truyền hình","desc":"Báo chí và truyền hình, Tâm lý và tâm trí, Giáo dục và học thuật","color":"sun","course":"en"}
  ],
  "lessons": [
   {"id":"y4081","title":"Báo chí và truyền hình 1","desc":"Tin tức, chương trình, điện ảnh, mạng xã hội","icon":"Media","unit":455,"course":"en","order":4480,"words":[
@@ -125,6 +125,35 @@
    {"id":"y4088-anxiety_disorder","hanzi":"anxiety disorder","pinyin":"","vi":"rối loạn lo âu","ex":{"tokens":["She","is","being","treated","for","an","anxiety","disorder","."],"py":["","","","","","","","","."],"vi":"Cô ấy đang điều trị rối loạn lo âu.","alts":[]}},
    {"id":"y4088-psychoanalysis","hanzi":"psychoanalysis","pinyin":"","vi":"phân tâm học","ex":{"tokens":["Freud","is","the","father","of","psychoanalysis","."],"py":["","","","","","","."],"vi":"Freud là cha đẻ của phân tâm học.","alts":[]}},
    {"id":"y4088-groupthink","hanzi":"groupthink","pinyin":"","vi":"tư duy bầy đàn","ex":{"tokens":["Groupthink","led","the","team","to","a","bad","decision","."],"py":["","","","","","","","","."],"vi":"Tư duy bầy đàn khiến cả nhóm quyết định sai.","alts":[]}}
+  ]},
+  {"id":"y4089","title":"Giáo dục và học thuật 1","desc":"Trường học, bằng cấp, thi cử, nghiên cứu","icon":"Campus","unit":455,"course":"en","order":4560,"words":[
+   {"id":"y4089-grant","hanzi":"grant","pinyin":"","vi":"khoản trợ cấp, tài trợ; ban cho","ex":{"tokens":["She","won","a","research","grant","."],"py":["","","","","","."],"vi":"Cô ấy giành được một khoản tài trợ nghiên cứu.","alts":[]}},
+   {"id":"y4089-fellowship","hanzi":"fellowship","pinyin":"","vi":"học bổng nghiên cứu","ex":{"tokens":["He","received","a","two-year","fellowship","."],"py":["","","","","","."],"vi":"Anh ấy nhận học bổng nghiên cứu hai năm.","alts":[]}},
+   {"id":"y4089-bursary","hanzi":"bursary","pinyin":"","vi":"trợ cấp học tập","ex":{"tokens":["The","college","offers","a","bursary","to","poor","students","."],"py":["","","","","","","","","."],"vi":"Trường cấp trợ cấp học tập cho sinh viên nghèo.","alts":[]}},
+   {"id":"y4089-enrollment","hanzi":"enrollment","pinyin":"","vi":"việc ghi danh; số người ghi danh","ex":{"tokens":["Enrollment","closes","on","Friday","."],"py":["","","","","."],"vi":"Việc ghi danh kết thúc vào thứ Sáu.","alts":[]}},
+   {"id":"y4089-admission","hanzi":"admission","pinyin":"","vi":"sự nhận vào học; vé vào cửa","ex":{"tokens":["She","applied","for","admission","to","the","university","."],"py":["","","","","","","","."],"vi":"Cô ấy nộp đơn xin vào đại học.","alts":[]}},
+   {"id":"y4089-prerequisite","hanzi":"prerequisite","pinyin":"","vi":"điều kiện tiên quyết","ex":{"tokens":["Maths","is","a","prerequisite","for","this","course","."],"py":["","","","","","","","."],"vi":"Toán là điều kiện tiên quyết cho khóa học này.","alts":[]}},
+   {"id":"y4089-elective","hanzi":"elective","pinyin":"","vi":"môn tự chọn","ex":{"tokens":["I","chose","art","as","an","elective","."],"py":["","","","","","","."],"vi":"Tôi chọn mỹ thuật làm môn tự chọn.","alts":[]}},
+   {"id":"y4089-minor","hanzi":"minor","pinyin":"","vi":"ngành phụ; nhỏ, không quan trọng","ex":{"tokens":["She","has","a","minor","in","French","."],"py":["","","","","","","."],"vi":"Cô ấy học ngành phụ là tiếng Pháp.","alts":[]}},
+   {"id":"y4089-transcript","hanzi":"transcript","pinyin":"","vi":"bảng điểm; bản ghi lời","ex":{"tokens":["Send","us","your","school","transcript","."],"py":["","","","","","."],"vi":"Hãy gửi cho chúng tôi bảng điểm của bạn.","alts":[]}},
+   {"id":"y4089-bachelor","hanzi":"bachelor","pinyin":"","vi":"cử nhân; người đàn ông độc thân","ex":{"tokens":["He","has","a","bachelor","degree","in","physics","."],"py":["","","","","","","","."],"vi":"Anh ấy có bằng cử nhân vật lý.","alts":[]}},
+   {"id":"y4089-master","hanzi":"master","pinyin":"","vi":"thạc sĩ; bậc thầy; nắm vững","ex":{"tokens":["She","is","studying","for","a","master","degree","."],"py":["","","","","","","","."],"vi":"Cô ấy đang học bằng thạc sĩ.","alts":[]}},
+   {"id":"y4089-doctorate","hanzi":"doctorate","pinyin":"","vi":"bằng tiến sĩ","ex":{"tokens":["He","earned","his","doctorate","in","London","."],"py":["","","","","","","."],"vi":"Anh ấy lấy bằng tiến sĩ ở Luân Đôn.","alts":[]}},
+   {"id":"y4089-seminar","hanzi":"seminar","pinyin":"","vi":"buổi hội thảo chuyên đề","ex":{"tokens":["We","have","a","seminar","on","Tuesday","."],"py":["","","","","","","."],"vi":"Chúng tôi có buổi hội thảo vào thứ Ba.","alts":[]}}
+  ]},
+  {"id":"y4090","title":"Giáo dục và học thuật 2","desc":"Trường học, bằng cấp, thi cử, nghiên cứu","icon":"Campus","unit":455,"course":"en","order":4570,"words":[
+   {"id":"y4090-tutorial","hanzi":"tutorial","pinyin":"","vi":"buổi hướng dẫn nhóm nhỏ; bài hướng dẫn","ex":{"tokens":["I","watched","a","tutorial","on","video","editing","."],"py":["","","","","","","","."],"vi":"Tôi xem một bài hướng dẫn dựng video.","alts":[]}},
+   {"id":"y4090-lecture_hall","hanzi":"lecture hall","pinyin":"","vi":"giảng đường","ex":{"tokens":["The","lecture","hall","holds","three","hundred","students","."],"py":["","","","","","","","."],"vi":"Giảng đường chứa được ba trăm sinh viên.","alts":[]}},
+   {"id":"y4090-lecturer","hanzi":"lecturer","pinyin":"","vi":"giảng viên","ex":{"tokens":["The","lecturer","speaks","very","clearly","."],"py":["","","","","","."],"vi":"Giảng viên nói rất rõ ràng.","alts":[]}},
+   {"id":"y4090-dean","hanzi":"dean","pinyin":"","vi":"trưởng khoa","ex":{"tokens":["The","dean","welcomed","the","new","students","."],"py":["","","","","","","."],"vi":"Trưởng khoa chào mừng sinh viên mới.","alts":[]}},
+   {"id":"y4090-headmaster","hanzi":"headmaster","pinyin":"","vi":"thầy hiệu trưởng","ex":{"tokens":["The","headmaster","called","his","parents","."],"py":["","","","","","."],"vi":"Thầy hiệu trưởng gọi cho bố mẹ cậu ấy.","alts":[]}},
+   {"id":"y4090-faculty","hanzi":"faculty","pinyin":"","vi":"khoa; đội ngũ giảng viên","ex":{"tokens":["She","teaches","in","the","faculty","of","law","."],"py":["","","","","","","","."],"vi":"Cô ấy dạy ở khoa luật.","alts":[]}},
+   {"id":"y4090-alumni","hanzi":"alumni","pinyin":"","vi":"cựu sinh viên","ex":{"tokens":["The","alumni","gave","money","for","a","new","library","."],"py":["","","","","","","","","."],"vi":"Các cựu sinh viên quyên tiền xây thư viện mới.","alts":[]}},
+   {"id":"y4090-freshman","hanzi":"freshman","pinyin":"","vi":"sinh viên năm nhất","ex":{"tokens":["My","brother","is","a","freshman","at","college","."],"py":["","","","","","","","."],"vi":"Em trai tôi là sinh viên năm nhất.","alts":[]}},
+   {"id":"y4090-sophomore","hanzi":"sophomore","pinyin":"","vi":"sinh viên năm hai","ex":{"tokens":["She","is","a","sophomore","this","year","."],"py":["","","","","","","."],"vi":"Năm nay cô ấy là sinh viên năm hai.","alts":[]}},
+   {"id":"y4090-undergraduate","hanzi":"undergraduate","pinyin":"","vi":"sinh viên đại học","ex":{"tokens":["He","is","an","undergraduate","at","Oxford","."],"py":["","","","","","","."],"vi":"Anh ấy là sinh viên đại học ở Oxford.","alts":[]}},
+   {"id":"y4090-postgraduate","hanzi":"postgraduate","pinyin":"","vi":"học viên sau đại học","ex":{"tokens":["The","course","is","for","postgraduate","students","."],"py":["","","","","","","."],"vi":"Khóa học dành cho học viên sau đại học.","alts":[]}},
+   {"id":"y4090-graduate_school","hanzi":"graduate school","pinyin":"","vi":"trường sau đại học","ex":{"tokens":["She","plans","to","go","to","graduate","school","."],"py":["","","","","","","","."],"vi":"Cô ấy dự định học sau đại học.","alts":[]}}
   ]}
  ]
 }

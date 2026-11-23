@@ -1,0 +1,121 @@
+# Level 4 (Thành thạo): giáo dục đại học, công nghệ máy tính.
+@4|Giáo dục và học thuật|Trường học, bằng cấp, thi cử, nghiên cứu|Campus
+grant|khoản trợ cấp, tài trợ; ban cho|She won a research grant.|Cô ấy giành được một khoản tài trợ nghiên cứu.
+fellowship|học bổng nghiên cứu|He received a two-year fellowship.|Anh ấy nhận học bổng nghiên cứu hai năm.
+bursary|trợ cấp học tập|The college offers a bursary to poor students.|Trường cấp trợ cấp học tập cho sinh viên nghèo.
+enrollment|việc ghi danh; số người ghi danh|Enrollment closes on Friday.|Việc ghi danh kết thúc vào thứ Sáu.
+admission|sự nhận vào học; vé vào cửa|She applied for admission to the university.|Cô ấy nộp đơn xin vào đại học.
+prerequisite|điều kiện tiên quyết|Maths is a prerequisite for this course.|Toán là điều kiện tiên quyết cho khóa học này.
+elective|môn tự chọn|I chose art as an elective.|Tôi chọn mỹ thuật làm môn tự chọn.
+minor|ngành phụ; nhỏ, không quan trọng|She has a minor in French.|Cô ấy học ngành phụ là tiếng Pháp.
+transcript|bảng điểm; bản ghi lời|Send us your school transcript.|Hãy gửi cho chúng tôi bảng điểm của bạn.
+bachelor|cử nhân; người đàn ông độc thân|He has a bachelor degree in physics.|Anh ấy có bằng cử nhân vật lý.
+master|thạc sĩ; bậc thầy; nắm vững|She is studying for a master degree.|Cô ấy đang học bằng thạc sĩ.
+doctorate|bằng tiến sĩ|He earned his doctorate in London.|Anh ấy lấy bằng tiến sĩ ở Luân Đôn.
+seminar|buổi hội thảo chuyên đề|We have a seminar on Tuesday.|Chúng tôi có buổi hội thảo vào thứ Ba.
+tutorial|buổi hướng dẫn nhóm nhỏ; bài hướng dẫn|I watched a tutorial on video editing.|Tôi xem một bài hướng dẫn dựng video.
+lecture hall|giảng đường|The lecture hall holds three hundred students.|Giảng đường chứa được ba trăm sinh viên.
+lecturer|giảng viên|The lecturer speaks very clearly.|Giảng viên nói rất rõ ràng.
+dean|trưởng khoa|The dean welcomed the new students.|Trưởng khoa chào mừng sinh viên mới.
+headmaster|thầy hiệu trưởng|The headmaster called his parents.|Thầy hiệu trưởng gọi cho bố mẹ cậu ấy.
+faculty|khoa; đội ngũ giảng viên|She teaches in the faculty of law.|Cô ấy dạy ở khoa luật.
+alumni|cựu sinh viên|The alumni gave money for a new library.|Các cựu sinh viên quyên tiền xây thư viện mới.
+freshman|sinh viên năm nhất|My brother is a freshman at college.|Em trai tôi là sinh viên năm nhất.
+sophomore|sinh viên năm hai|She is a sophomore this year.|Năm nay cô ấy là sinh viên năm hai.
+undergraduate|sinh viên đại học|He is an undergraduate at Oxford.|Anh ấy là sinh viên đại học ở Oxford.
+postgraduate|học viên sau đại học|The course is for postgraduate students.|Khóa học dành cho học viên sau đại học.
+graduate school|trường sau đại học|She plans to go to graduate school.|Cô ấy dự định học sau đại học.
+vocational school|trường dạy nghề|He learned cooking at a vocational school.|Anh ấy học nấu ăn ở trường dạy nghề.
+boarding school|trường nội trú|They sent their son to a boarding school.|Họ gửi con trai vào trường nội trú.
+nursery|nhà trẻ; vườn ươm|Her daughter goes to nursery.|Con gái cô ấy đi nhà trẻ.
+homeschooling|việc học tại nhà|Homeschooling is common in some countries.|Học tại nhà phổ biến ở một số nước.
+distance learning|học từ xa|She got her degree through distance learning.|Cô ấy lấy bằng nhờ học từ xa.
+e-learning|học trực tuyến|The company uses e-learning to train staff.|Công ty dùng học trực tuyến để đào tạo nhân viên.
+multiple choice|trắc nghiệm nhiều lựa chọn|The test is multiple choice.|Bài kiểm tra là dạng trắc nghiệm.
+oral exam|kỳ thi vấn đáp|I have an oral exam in French.|Tôi có kỳ thi vấn đáp tiếng Pháp.
+mock exam|kỳ thi thử|We took a mock exam last week.|Tuần trước chúng tôi thi thử.
+retake|thi lại; làm lại|I have to retake the driving test.|Tôi phải thi lại bằng lái.
+cram|học nhồi nhét|Do not cram the night before the test.|Đừng học nhồi vào đêm trước bài kiểm tra.
+plagiarize|đạo văn|Students must not plagiarize.|Sinh viên không được đạo văn.
+cheat sheet|phao thi; bảng tóm tắt nhanh|He hid a cheat sheet in his sleeve.|Cậu ấy giấu phao thi trong tay áo.
+grade point average|điểm trung bình tích lũy|Her grade point average is very high.|Điểm trung bình tích lũy của cô ấy rất cao.
+valedictorian|thủ khoa tốt nghiệp|The valedictorian gave a speech.|Thủ khoa tốt nghiệp có bài phát biểu.
+graduation ceremony|lễ tốt nghiệp|My parents came to my graduation ceremony.|Bố mẹ đến dự lễ tốt nghiệp của tôi.
+detention|phạt ở lại sau giờ học; sự giam giữ|He got detention for being late.|Cậu ấy bị phạt ở lại vì đi muộn.
+expulsion|sự đuổi học, trục xuất|Cheating can lead to expulsion.|Gian lận có thể dẫn đến bị đuổi học.
+bullying|nạn bắt nạt|The school has a rule against bullying.|Trường có quy định chống bắt nạt.
+peer review|bình duyệt|The paper passed peer review.|Bài báo đã qua bình duyệt.
+literature review|tổng quan tài liệu|The thesis begins with a literature review.|Luận văn mở đầu bằng phần tổng quan tài liệu.
+case study|nghiên cứu tình huống|We read a case study about a small firm.|Chúng tôi đọc một nghiên cứu tình huống về một công ty nhỏ.
+field trip|chuyến đi thực tế|The class went on a field trip to a farm.|Cả lớp đi thực tế ở một trang trại.
+lab report|báo cáo thí nghiệm|The lab report is due on Monday.|Báo cáo thí nghiệm phải nộp vào thứ Hai.
+sample size|cỡ mẫu|The sample size is too small.|Cỡ mẫu quá nhỏ.
+control group|nhóm đối chứng|The control group took no medicine.|Nhóm đối chứng không uống thuốc.
+findings|kết quả nghiên cứu|The findings surprised the researchers.|Kết quả nghiên cứu làm các nhà nghiên cứu ngạc nhiên.
+keynote|bài phát biểu chính|She gave the keynote at the conference.|Cô ấy đọc bài phát biểu chính tại hội nghị.
+symposium|hội nghị chuyên đề|He spoke at a symposium on climate.|Anh ấy phát biểu tại một hội nghị chuyên đề về khí hậu.
+academic year|năm học|The academic year starts in September.|Năm học bắt đầu vào tháng Chín.
+gap year|năm nghỉ giữa chừng (trước đại học)|She took a gap year to travel.|Cô ấy nghỉ một năm để đi du lịch.
+tenure|biên chế giảng viên; nhiệm kỳ|The professor finally got tenure.|Vị giáo sư cuối cùng cũng được vào biên chế.
+resit|thi lại|He must resit the exam in August.|Cậu ấy phải thi lại vào tháng Tám.
+honor roll|bảng danh dự|She made the honor roll again.|Cô bé lại có tên trên bảng danh dự.
+journal article|bài báo khoa học|He published a journal article last year.|Năm ngoái anh ấy đăng một bài báo khoa học.
+continuous assessment|đánh giá thường xuyên|The course uses continuous assessment instead of exams.|Khóa học dùng đánh giá thường xuyên thay cho thi.
+
+@4|Công nghệ và máy tính|Phần cứng, bảo mật, phần mềm, xu hướng mới|Tech
+operating system|hệ điều hành|Which operating system do you use?|Bạn dùng hệ điều hành nào?
+processor|bộ vi xử lý|This laptop has a fast processor.|Máy tính xách tay này có bộ vi xử lý nhanh.
+motherboard|bo mạch chủ|The motherboard needs to be replaced.|Bo mạch chủ cần được thay.
+graphics card|card đồ họa|Games need a good graphics card.|Chơi game cần card đồ họa tốt.
+hard drive|ổ cứng|The hard drive is almost full.|Ổ cứng gần đầy.
+flash drive|ổ USB|I saved the file on a flash drive.|Tôi lưu tệp vào ổ USB.
+memory stick|thẻ nhớ USB|He lost his memory stick.|Anh ấy làm mất thẻ nhớ USB.
+modem|bộ điều giải, modem|Restart the modem and try again.|Hãy khởi động lại modem rồi thử lại.
+peripheral|thiết bị ngoại vi|A printer is a common peripheral.|Máy in là một thiết bị ngoại vi phổ biến.
+trackpad|bàn di chuột|The trackpad on my laptop is broken.|Bàn di chuột trên máy tôi bị hỏng.
+stylus|bút cảm ứng|She draws on the tablet with a stylus.|Cô ấy vẽ trên máy tính bảng bằng bút cảm ứng.
+loudspeaker|loa|A voice came from the loudspeaker.|Một giọng nói phát ra từ loa.
+power bank|sạc dự phòng|Bring a power bank on the trip.|Hãy mang sạc dự phòng trong chuyến đi.
+broadband|băng thông rộng|The village now has broadband.|Ngôi làng giờ đã có mạng băng thông rộng.
+hotspot|điểm phát sóng; điểm nóng|I used my phone as a hotspot.|Tôi dùng điện thoại làm điểm phát sóng.
+antivirus|phần mềm diệt vi-rút|Update your antivirus regularly.|Hãy cập nhật phần mềm diệt vi-rút thường xuyên.
+spyware|phần mềm gián điệp|Spyware recorded everything he typed.|Phần mềm gián điệp ghi lại mọi thứ anh ấy gõ.
+ransomware|mã độc tống tiền|Ransomware locked the hospital's files.|Mã độc tống tiền khóa các tệp của bệnh viện.
+cyberattack|cuộc tấn công mạng|The bank suffered a cyberattack.|Ngân hàng bị tấn công mạng.
+data breach|vụ rò rỉ dữ liệu|The data breach exposed a million passwords.|Vụ rò rỉ dữ liệu làm lộ một triệu mật khẩu.
+authentication|sự xác thực|The app asks for authentication every time.|Ứng dụng yêu cầu xác thực mỗi lần.
+biometric|sinh trắc học|The airport uses biometric checks.|Sân bay dùng kiểm tra sinh trắc học.
+facial recognition|nhận diện khuôn mặt|The phone unlocks with facial recognition.|Điện thoại mở khóa bằng nhận diện khuôn mặt.
+cloud storage|lưu trữ đám mây|I keep my photos in cloud storage.|Tôi giữ ảnh trên lưu trữ đám mây.
+word processor|trình soạn thảo văn bản|I wrote the letter in a word processor.|Tôi viết lá thư bằng trình soạn thảo văn bản.
+search engine|công cụ tìm kiếm|Type the name into a search engine.|Hãy gõ cái tên vào công cụ tìm kiếm.
+bookmark|dấu trang; đánh dấu trang|Bookmark this page for later.|Hãy đánh dấu trang này để xem sau.
+extension|tiện ích mở rộng; sự gia hạn|This browser extension blocks ads.|Tiện ích mở rộng này chặn quảng cáo.
+toolbar|thanh công cụ|Click the print icon on the toolbar.|Hãy bấm biểu tượng in trên thanh công cụ.
+scroll bar|thanh cuộn|Drag the scroll bar down.|Hãy kéo thanh cuộn xuống.
+drag and drop|kéo và thả|You can drag and drop files into the folder.|Bạn có thể kéo và thả tệp vào thư mục.
+copy and paste|sao chép và dán|Just copy and paste the address.|Chỉ cần sao chép và dán địa chỉ.
+uninstall|gỡ cài đặt|Uninstall the apps you never use.|Hãy gỡ những ứng dụng bạn không bao giờ dùng.
+source code|mã nguồn|The source code is free to read.|Mã nguồn được đọc miễn phí.
+programming language|ngôn ngữ lập trình|Python is a popular programming language.|Python là một ngôn ngữ lập trình phổ biến.
+open source|mã nguồn mở|The program is open source.|Chương trình này là mã nguồn mở.
+artificial intelligence|trí tuệ nhân tạo|Artificial intelligence can translate text.|Trí tuệ nhân tạo có thể dịch văn bản.
+neural network|mạng nơ-ron|A neural network learns from examples.|Mạng nơ-ron học từ các ví dụ.
+virtual reality|thực tế ảo|He plays games in virtual reality.|Anh ấy chơi game trong thực tế ảo.
+augmented reality|thực tế tăng cường|The app uses augmented reality to show furniture in your room.|Ứng dụng dùng thực tế tăng cường để hiện đồ nội thất trong phòng bạn.
+wearable|thiết bị đeo; có thể đeo|This wearable counts your steps.|Thiết bị đeo này đếm số bước chân của bạn.
+3D printer|máy in 3D|The school bought a 3D printer.|Trường mua một chiếc máy in 3D.
+self-driving car|xe tự lái|A self-driving car needs many sensors.|Xe tự lái cần nhiều cảm biến.
+big data|dữ liệu lớn|Shops use big data to study customers.|Các cửa hàng dùng dữ liệu lớn để nghiên cứu khách hàng.
+pixel|điểm ảnh|Each pixel has its own color.|Mỗi điểm ảnh có màu riêng.
+resolution|độ phân giải; nghị quyết|The screen has a high resolution.|Màn hình có độ phân giải cao.
+megabyte|megabyte (đơn vị dữ liệu)|The photo is one megabyte in size.|Bức ảnh nặng một megabyte.
+gigabyte|gigabyte (đơn vị dữ liệu)|The film takes up one gigabyte.|Bộ phim chiếm một gigabyte.
+firmware|phần mềm hệ thống của thiết bị|Update the firmware of your router.|Hãy cập nhật firmware cho bộ định tuyến của bạn.
+solid-state drive|ổ cứng thể rắn (SSD)|A solid-state drive makes the laptop faster.|Ổ cứng thể rắn giúp máy chạy nhanh hơn.
+mainframe|máy tính lớn|The bank still runs a mainframe.|Ngân hàng vẫn chạy một máy tính lớn.
+decryption|sự giải mã|Decryption needs the right key.|Giải mã cần đúng khóa.
+fingerprint scanner|máy quét vân tay|The door opens with a fingerprint scanner.|Cửa mở bằng máy quét vân tay.
+outbox|hộp thư đi|The email is still in my outbox.|Email vẫn nằm trong hộp thư đi của tôi.
+menu bar|thanh trình đơn|The menu bar is at the top of the screen.|Thanh trình đơn nằm ở đầu màn hình.
+Internet of Things|Internet vạn vật|The Internet of Things connects home devices.|Internet vạn vật kết nối các thiết bị trong nhà.
