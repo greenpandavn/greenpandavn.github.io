@@ -152,20 +152,6 @@
    {"id":"y2050-finish_line","hanzi":"finish line","pinyin":"","vi":"vạch đích","ex":{"tokens":["She","crossed","the","finish","line","first","."],"py":["","","","","","","."],"vi":"Cô ấy về đích đầu tiên.","alts":[]}},
    {"id":"y2050-starting_line","hanzi":"starting line","pinyin":"","vi":"vạch xuất phát","ex":{"tokens":["The","runners","are","at","the","starting","line","."],"py":["","","","","","","","."],"vi":"Các vận động viên đang ở vạch xuất phát.","alts":[]}},
    {"id":"y2050-relay_race","hanzi":"relay race","pinyin":"","vi":"cuộc chạy tiếp sức","ex":{"tokens":["Our","class","won","the","relay","race","."],"py":["","","","","","","."],"vi":"Lớp chúng tôi thắng cuộc chạy tiếp sức.","alts":[]}}
-  ]},
-  {"id":"y2051","title":"Thể thao 4","desc":"Bóng đá, điền kinh, sân bãi","icon":"Sports","unit":253,"course":"en","order":2140,"words":[
-   {"id":"y2051-jumping_jack","hanzi":"jumping jack","pinyin":"","vi":"động tác bật nhảy dang tay chân","ex":{"tokens":["Start","with","a","jumping","jack","to","warm","up","."],"py":["","","","","","","","","."],"vi":"Hãy bắt đầu bằng động tác bật nhảy dang tay chân để khởi động.","alts":[]}},
-   {"id":"y2051-boxing_ring","hanzi":"boxing ring","pinyin":"","vi":"võ đài quyền anh","ex":{"tokens":["Two","fighters","stood","in","the","boxing","ring","."],"py":["","","","","","","","."],"vi":"Hai võ sĩ đứng trên võ đài.","alts":[]}},
-   {"id":"y2051-punching_bag","hanzi":"punching bag","pinyin":"","vi":"bao cát","ex":{"tokens":["He","hits","the","punching","bag","every","morning","."],"py":["","","","","","","","."],"vi":"Sáng nào anh ấy cũng đấm bao cát.","alts":[]}},
-   {"id":"y2051-diving","hanzi":"diving","pinyin":"","vi":"môn lặn; nhảy cầu","ex":{"tokens":["We","went","diving","in","Nha","Trang","."],"py":["","","","","","","."],"vi":"Chúng tôi đi lặn ở Nha Trang.","alts":[]}},
-   {"id":"y2051-water_polo","hanzi":"water polo","pinyin":"","vi":"bóng nước","ex":{"tokens":["Water","polo","is","played","in","a","pool","."],"py":["","","","","","","","."],"vi":"Bóng nước được chơi trong hồ bơi.","alts":[]}},
-   {"id":"y2051-badminton_racket","hanzi":"badminton racket","pinyin":"","vi":"vợt cầu lông","ex":{"tokens":["I","bought","a","new","badminton","racket","."],"py":["","","","","","","."],"vi":"Tôi mua một cây vợt cầu lông mới.","alts":[]}},
-   {"id":"y2051-shuttlecock","hanzi":"shuttlecock","pinyin":"","vi":"quả cầu lông","ex":{"tokens":["The","shuttlecock","landed","on","the","roof","."],"py":["","","","","","","."],"vi":"Quả cầu lông rơi trên mái nhà.","alts":[]}},
-   {"id":"y2051-tennis_court","hanzi":"tennis court","pinyin":"","vi":"sân quần vợt","ex":{"tokens":["The","hotel","has","a","tennis","court","."],"py":["","","","","","","."],"vi":"Khách sạn có sân quần vợt.","alts":[]}},
-   {"id":"y2051-golf_club","hanzi":"golf club","pinyin":"","vi":"gậy đánh gôn; câu lạc bộ gôn","ex":{"tokens":["He","swung","the","golf","club","."],"py":["","","","","","."],"vi":"Ông ấy vung gậy đánh gôn.","alts":[]}},
-   {"id":"y2051-ice_rink","hanzi":"ice rink","pinyin":"","vi":"sân trượt băng","ex":{"tokens":["We","skated","at","the","ice","rink","."],"py":["","","","","","","."],"vi":"Chúng tôi trượt băng ở sân băng.","alts":[]}},
-   {"id":"y2051-roller_skating","hanzi":"roller skating","pinyin":"","vi":"trượt patin","ex":{"tokens":["Roller","skating","is","fun","."],"py":["","","","","."],"vi":"Trượt patin rất vui.","alts":[]}},
-   {"id":"y2051-cycling_race","hanzi":"cycling race","pinyin":"","vi":"cuộc đua xe đạp","ex":{"tokens":["The","cycling","race","passes","our","town","."],"py":["","","","","","","."],"vi":"Cuộc đua xe đạp đi qua thị trấn của chúng tôi.","alts":[]}}
   ]}
  ]
 }

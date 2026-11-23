@@ -1,0 +1,69 @@
+{
+ "units": [
+  {"unit":254,"level":2,"title":"Phần 23: Mở rộng – Thể thao","desc":"Thể thao, Thời tiết và sức khỏe, Việc nhà","color":"coral","course":"en"}
+ ],
+ "lessons": [
+  {"id":"y2061","title":"Thể thao 4","desc":"Bóng đá, điền kinh, sân bãi","icon":"Sports","unit":254,"course":"en","order":2140,"words":[
+   {"id":"y2061-jumping_jack","hanzi":"jumping jack","pinyin":"","vi":"động tác bật nhảy dang tay chân","ex":{"tokens":["Start","with","a","jumping","jack","to","warm","up","."],"py":["","","","","","","","","."],"vi":"Hãy bắt đầu bằng động tác bật nhảy dang tay chân để khởi động.","alts":[]}},
+   {"id":"y2061-boxing_ring","hanzi":"boxing ring","pinyin":"","vi":"võ đài quyền anh","ex":{"tokens":["Two","fighters","stood","in","the","boxing","ring","."],"py":["","","","","","","","."],"vi":"Hai võ sĩ đứng trên võ đài.","alts":[]}},
+   {"id":"y2061-punching_bag","hanzi":"punching bag","pinyin":"","vi":"bao cát","ex":{"tokens":["He","hits","the","punching","bag","every","morning","."],"py":["","","","","","","","."],"vi":"Sáng nào anh ấy cũng đấm bao cát.","alts":[]}},
+   {"id":"y2061-diving","hanzi":"diving","pinyin":"","vi":"môn lặn; nhảy cầu","ex":{"tokens":["We","went","diving","in","Nha","Trang","."],"py":["","","","","","","."],"vi":"Chúng tôi đi lặn ở Nha Trang.","alts":[]}},
+   {"id":"y2061-water_polo","hanzi":"water polo","pinyin":"","vi":"bóng nước","ex":{"tokens":["Water","polo","is","played","in","a","pool","."],"py":["","","","","","","","."],"vi":"Bóng nước được chơi trong hồ bơi.","alts":[]}},
+   {"id":"y2061-badminton_racket","hanzi":"badminton racket","pinyin":"","vi":"vợt cầu lông","ex":{"tokens":["I","bought","a","new","badminton","racket","."],"py":["","","","","","","."],"vi":"Tôi mua một cây vợt cầu lông mới.","alts":[]}},
+   {"id":"y2061-shuttlecock","hanzi":"shuttlecock","pinyin":"","vi":"quả cầu lông","ex":{"tokens":["The","shuttlecock","landed","on","the","roof","."],"py":["","","","","","","."],"vi":"Quả cầu lông rơi trên mái nhà.","alts":[]}},
+   {"id":"y2061-tennis_court","hanzi":"tennis court","pinyin":"","vi":"sân quần vợt","ex":{"tokens":["The","hotel","has","a","tennis","court","."],"py":["","","","","","","."],"vi":"Khách sạn có sân quần vợt.","alts":[]}},
+   {"id":"y2061-golf_club","hanzi":"golf club","pinyin":"","vi":"gậy đánh gôn; câu lạc bộ gôn","ex":{"tokens":["He","swung","the","golf","club","."],"py":["","","","","","."],"vi":"Ông ấy vung gậy đánh gôn.","alts":[]}},
+   {"id":"y2061-ice_rink","hanzi":"ice rink","pinyin":"","vi":"sân trượt băng","ex":{"tokens":["We","skated","at","the","ice","rink","."],"py":["","","","","","","."],"vi":"Chúng tôi trượt băng ở sân băng.","alts":[]}},
+   {"id":"y2061-roller_skating","hanzi":"roller skating","pinyin":"","vi":"trượt patin","ex":{"tokens":["Roller","skating","is","fun","."],"py":["","","","","."],"vi":"Trượt patin rất vui.","alts":[]}},
+   {"id":"y2061-cycling_race","hanzi":"cycling race","pinyin":"","vi":"cuộc đua xe đạp","ex":{"tokens":["The","cycling","race","passes","our","town","."],"py":["","","","","","","."],"vi":"Cuộc đua xe đạp đi qua thị trấn của chúng tôi.","alts":[]}}
+  ]},
+  {"id":"y2062","title":"Thời tiết và sức khỏe 1","desc":"Thời tiết hằng ngày, ốm đau lặt vặt","icon":"Weather","unit":254,"course":"en","order":2150,"words":[
+   {"id":"y2062-window_cleaner","hanzi":"window cleaner","pinyin":"","vi":"người lau cửa kính","ex":{"tokens":["The","window","cleaner","comes","once","a","month","."],"py":["","","","","","","","."],"vi":"Người lau cửa kính đến mỗi tháng một lần.","alts":[]}},
+   {"id":"y2062-shopkeeper","hanzi":"shopkeeper","pinyin":"","vi":"chủ cửa hàng","ex":{"tokens":["The","shopkeeper","gave","me","a","discount","."],"py":["","","","","","","."],"vi":"Chủ cửa hàng giảm giá cho tôi.","alts":[]}},
+   {"id":"y2062-roofer","hanzi":"roofer","pinyin":"","vi":"thợ lợp mái","ex":{"tokens":["A","roofer","fixed","the","leak","."],"py":["","","","","","."],"vi":"Một người thợ lợp mái sửa chỗ dột.","alts":[]}},
+   {"id":"y2062-traffic_warden","hanzi":"traffic warden","pinyin":"","vi":"nhân viên kiểm soát đỗ xe","ex":{"tokens":["A","traffic","warden","gave","me","a","ticket","."],"py":["","","","","","","","."],"vi":"Một nhân viên kiểm soát đỗ xe phạt tôi.","alts":[]}},
+   {"id":"y2062-sunny_spell","hanzi":"sunny spell","pinyin":"","vi":"khoảng trời nắng","ex":{"tokens":["There","will","be","a","sunny","spell","in","the","afternoon","."],"py":["","","","","","","","","","."],"vi":"Buổi chiều sẽ có lúc trời nắng.","alts":[]}},
+   {"id":"y2062-rain_shower","hanzi":"rain shower","pinyin":"","vi":"cơn mưa rào","ex":{"tokens":["We","got","caught","in","a","rain","shower","."],"py":["","","","","","","","."],"vi":"Chúng tôi gặp một cơn mưa rào.","alts":[]}},
+   {"id":"y2062-snowstorm","hanzi":"snowstorm","pinyin":"","vi":"bão tuyết","ex":{"tokens":["The","snowstorm","closed","the","airport","."],"py":["","","","","","."],"vi":"Bão tuyết khiến sân bay đóng cửa.","alts":[]}},
+   {"id":"y2062-light_rain","hanzi":"light rain","pinyin":"","vi":"mưa nhỏ","ex":{"tokens":["There","is","light","rain","this","morning","."],"py":["","","","","","","."],"vi":"Sáng nay có mưa nhỏ.","alts":[]}},
+   {"id":"y2062-thick_fog","hanzi":"thick fog","pinyin":"","vi":"sương mù dày đặc","ex":{"tokens":["Thick","fog","covered","the","road","."],"py":["","","","","","."],"vi":"Sương mù dày đặc phủ kín con đường.","alts":[]}},
+   {"id":"y2062-weather_forecast","hanzi":"weather forecast","pinyin":"","vi":"dự báo thời tiết","ex":{"tokens":["The","weather","forecast","says","it","will","rain","."],"py":["","","","","","","","."],"vi":"Dự báo thời tiết nói trời sẽ mưa.","alts":[]}},
+   {"id":"y2062-below_zero","hanzi":"below zero","pinyin":"","vi":"dưới không độ","ex":{"tokens":["It","was","ten","degrees","below","zero","."],"py":["","","","","","","."],"vi":"Trời lạnh âm mười độ.","alts":[]}},
+   {"id":"y2062-wind_speed","hanzi":"wind speed","pinyin":"","vi":"tốc độ gió","ex":{"tokens":["The","wind","speed","is","rising","."],"py":["","","","","","."],"vi":"Tốc độ gió đang tăng.","alts":[]}},
+   {"id":"y2062-storm_cloud","hanzi":"storm cloud","pinyin":"","vi":"mây giông","ex":{"tokens":["A","dark","storm","cloud","is","coming","."],"py":["","","","","","","."],"vi":"Một đám mây giông đen đang kéo đến.","alts":[]}},
+   {"id":"y2062-umbrella_stand","hanzi":"umbrella stand","pinyin":"","vi":"giá để ô","ex":{"tokens":["Leave","your","umbrella","in","the","umbrella","stand","."],"py":["","","","","","","","."],"vi":"Hãy để ô vào giá để ô.","alts":[]}}
+  ]},
+  {"id":"y2063","title":"Thời tiết và sức khỏe 2","desc":"Thời tiết hằng ngày, ốm đau lặt vặt","icon":"Weather","unit":254,"course":"en","order":2160,"words":[
+   {"id":"y2063-high_temperature","hanzi":"high temperature","pinyin":"","vi":"sốt cao; nhiệt độ cao","ex":{"tokens":["The","baby","has","a","high","temperature","."],"py":["","","","","","","."],"vi":"Em bé bị sốt cao.","alts":[]}},
+   {"id":"y2063-nose_bleed","hanzi":"nose bleed","pinyin":"","vi":"chảy máu cam","ex":{"tokens":["He","had","a","nose","bleed","at","school","."],"py":["","","","","","","","."],"vi":"Cậu ấy bị chảy máu cam ở trường.","alts":[]}},
+   {"id":"y2063-bump","hanzi":"bump","pinyin":"","vi":"cục u; va vào","ex":{"tokens":["I","have","a","bump","on","my","head","."],"py":["","","","","","","","."],"vi":"Tôi có một cục u trên đầu.","alts":[]}},
+   {"id":"y2063-splinter","hanzi":"splinter","pinyin":"","vi":"cái dằm","ex":{"tokens":["I","have","a","splinter","in","my","finger","."],"py":["","","","","","","","."],"vi":"Tôi bị dằm đâm vào ngón tay.","alts":[]}},
+   {"id":"y2063-insect_bite","hanzi":"insect bite","pinyin":"","vi":"vết côn trùng cắn","ex":{"tokens":["Put","some","cream","on","the","insect","bite","."],"py":["","","","","","","","."],"vi":"Hãy bôi ít kem lên vết côn trùng cắn.","alts":[]}},
+   {"id":"y2063-sick_note","hanzi":"sick note","pinyin":"","vi":"giấy xin nghỉ ốm","ex":{"tokens":["The","doctor","wrote","me","a","sick","note","."],"py":["","","","","","","","."],"vi":"Bác sĩ viết cho tôi giấy xin nghỉ ốm.","alts":[]}},
+   {"id":"y2063-get_well_soon","hanzi":"get well soon","pinyin":"","vi":"chúc chóng khỏe","ex":{"tokens":["Get","well","soon",",","Grandma","!"],"py":["","","",",","","!"],"vi":"Bà chóng khỏe nhé!","alts":[]}},
+   {"id":"y2063-go_to_the_doctor","hanzi":"go to the doctor","pinyin":"","vi":"đi khám bác sĩ","ex":{"tokens":["You","should","go","to","the","doctor","."],"py":["","","","","","","."],"vi":"Bạn nên đi khám bác sĩ.","alts":[]}},
+   {"id":"y2063-take_medicine","hanzi":"take medicine","pinyin":"","vi":"uống thuốc","ex":{"tokens":["Take","medicine","after","meals","."],"py":["","","","","."],"vi":"Hãy uống thuốc sau bữa ăn.","alts":[]}},
+   {"id":"y2063-stay_in_bed","hanzi":"stay in bed","pinyin":"","vi":"nằm nghỉ trên giường","ex":{"tokens":["The","doctor","told","me","to","stay","in","bed","."],"py":["","","","","","","","","."],"vi":"Bác sĩ bảo tôi nằm nghỉ trên giường.","alts":[]}},
+   {"id":"y2063-feel_better","hanzi":"feel better","pinyin":"","vi":"thấy khỏe hơn","ex":{"tokens":["I","hope","you","feel","better","soon","."],"py":["","","","","","","."],"vi":"Mong bạn sớm thấy khỏe hơn.","alts":[]}},
+   {"id":"y2063-feel_sick","hanzi":"feel sick","pinyin":"","vi":"thấy buồn nôn, thấy ốm","ex":{"tokens":["I","feel","sick","on","boats","."],"py":["","","","","","."],"vi":"Tôi thấy buồn nôn khi đi tàu thuyền.","alts":[]}},
+   {"id":"y2063-feel_dizzy","hanzi":"feel dizzy","pinyin":"","vi":"thấy chóng mặt","ex":{"tokens":["I","feel","dizzy","when","I","stand","up","fast","."],"py":["","","","","","","","","."],"vi":"Tôi thấy chóng mặt khi đứng dậy nhanh.","alts":[]}},
+   {"id":"y2063-lie_down","hanzi":"lie down","pinyin":"","vi":"nằm xuống","ex":{"tokens":["Lie","down","and","close","your","eyes","."],"py":["","","","","","","."],"vi":"Hãy nằm xuống và nhắm mắt lại.","alts":[]}}
+  ]},
+  {"id":"y2064","title":"Việc nhà 3","desc":"Dọn dẹp, giặt giũ, sửa chữa","icon":"Chores","unit":254,"course":"en","order":2170,"words":[
+   {"id":"y2064-do_the_ironing","hanzi":"do the ironing","pinyin":"","vi":"là quần áo","ex":{"tokens":["I","do","the","ironing","on","Sunday","."],"py":["","","","","","","."],"vi":"Tôi là quần áo vào Chủ nhật.","alts":[]}},
+   {"id":"y2064-do_the_washing_up","hanzi":"do the washing-up","pinyin":"","vi":"rửa bát","ex":{"tokens":["It","is","your","turn","to","do","the","washing-up","."],"py":["","","","","","","","","."],"vi":"Đến lượt bạn rửa bát.","alts":[]}},
+   {"id":"y2064-do_the_vacuuming","hanzi":"do the vacuuming","pinyin":"","vi":"hút bụi","ex":{"tokens":["Can","you","do","the","vacuuming","today","?"],"py":["","","","","","","?"],"vi":"Hôm nay bạn hút bụi được không?","alts":[]}},
+   {"id":"y2064-do_the_dusting","hanzi":"do the dusting","pinyin":"","vi":"lau bụi","ex":{"tokens":["I","do","the","dusting","once","a","week","."],"py":["","","","","","","","."],"vi":"Tôi lau bụi mỗi tuần một lần.","alts":[]}},
+   {"id":"y2064-load_the_dishwasher","hanzi":"load the dishwasher","pinyin":"","vi":"xếp bát đĩa vào máy rửa bát","ex":{"tokens":["Please","load","the","dishwasher","after","dinner","."],"py":["","","","","","","."],"vi":"Hãy xếp bát đĩa vào máy rửa bát sau bữa tối.","alts":[]}},
+   {"id":"y2064-hang_out_the_washing","hanzi":"hang out the washing","pinyin":"","vi":"phơi quần áo","ex":{"tokens":["I","hang","out","the","washing","on","the","balcony","."],"py":["","","","","","","","","."],"vi":"Tôi phơi quần áo ngoài ban công.","alts":[]}},
+   {"id":"y2064-fold_the_clothes","hanzi":"fold the clothes","pinyin":"","vi":"gấp quần áo","ex":{"tokens":["Help","me","fold","the","clothes","."],"py":["","","","","","."],"vi":"Hãy giúp tôi gấp quần áo.","alts":[]}},
+   {"id":"y2064-feed_the_cat","hanzi":"feed the cat","pinyin":"","vi":"cho mèo ăn","ex":{"tokens":["Do","not","forget","to","feed","the","cat","."],"py":["","","","","","","","."],"vi":"Đừng quên cho mèo ăn.","alts":[]}},
+   {"id":"y2064-sweep_the_floor","hanzi":"sweep the floor","pinyin":"","vi":"quét nhà","ex":{"tokens":["I","sweep","the","floor","every","morning","."],"py":["","","","","","","."],"vi":"Sáng nào tôi cũng quét nhà.","alts":[]}},
+   {"id":"y2064-mop_the_floor","hanzi":"mop the floor","pinyin":"","vi":"lau nhà","ex":{"tokens":["Mop","the","floor","after","you","sweep","."],"py":["","","","","","","."],"vi":"Hãy lau nhà sau khi quét.","alts":[]}},
+   {"id":"y2064-clean_the_windows","hanzi":"clean the windows","pinyin":"","vi":"lau cửa sổ","ex":{"tokens":["We","clean","the","windows","in","spring","."],"py":["","","","","","","."],"vi":"Chúng tôi lau cửa sổ vào mùa xuân.","alts":[]}},
+   {"id":"y2064-tidy_your_room","hanzi":"tidy your room","pinyin":"","vi":"dọn phòng","ex":{"tokens":["Tidy","your","room","before","you","go","out","."],"py":["","","","","","","","."],"vi":"Hãy dọn phòng trước khi ra ngoài.","alts":[]}},
+   {"id":"y2064-wipe_the_table","hanzi":"wipe the table","pinyin":"","vi":"lau bàn","ex":{"tokens":["Wipe","the","table","after","you","eat","."],"py":["","","","","","","."],"vi":"Hãy lau bàn sau khi ăn.","alts":[]}},
+   {"id":"y2064-go_grocery_shopping","hanzi":"go grocery shopping","pinyin":"","vi":"đi mua thực phẩm","ex":{"tokens":["We","go","grocery","shopping","on","Saturday","."],"py":["","","","","","","."],"vi":"Chúng tôi đi mua thực phẩm vào thứ Bảy.","alts":[]}}
+  ]}
+ ]
+}

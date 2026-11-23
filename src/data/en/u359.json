@@ -1,9 +1,9 @@
 {
  "units": [
-  {"unit":359,"level":3,"title":"Phần 37: Mở rộng – Công nghệ hằng ngày","desc":"Công nghệ hằng ngày, Từ vựng tổng hợp","color":"coral","course":"en"}
+  {"unit":359,"level":3,"title":"Phần 38: Mở rộng – Công nghệ hằng ngày","desc":"Công nghệ hằng ngày, Từ vựng tổng hợp","color":"coral","course":"en"}
  ],
  "lessons": [
-  {"id":"y3161","title":"Công nghệ hằng ngày 2","desc":"Điện thoại, ứng dụng, mạng","icon":"Devices","unit":359,"course":"en","order":3860,"words":[
+  {"id":"y3161","title":"Công nghệ hằng ngày 2","desc":"Điện thoại, ứng dụng, mạng","icon":"Devices","unit":359,"course":"en","order":3890,"words":[
    {"id":"y3161-game_console","hanzi":"game console","pinyin":"","vi":"máy chơi game","ex":{"tokens":["He","got","a","game","console","for","his","birthday","."],"py":["","","","","","","","","."],"vi":"Cậu ấy được tặng máy chơi game vào sinh nhật.","alts":[]}},
    {"id":"y3161-game_controller","hanzi":"game controller","pinyin":"","vi":"tay cầm chơi game","ex":{"tokens":["The","game","controller","needs","new","batteries","."],"py":["","","","","","","."],"vi":"Tay cầm chơi game cần thay pin.","alts":[]}},
    {"id":"y3161-mouse_pad","hanzi":"mouse pad","pinyin":"","vi":"bàn di chuột","ex":{"tokens":["I","need","a","bigger","mouse","pad","."],"py":["","","","","","","."],"vi":"Tôi cần một bàn di chuột to hơn.","alts":[]}},
@@ -17,7 +17,7 @@
    {"id":"y3161-sign_in","hanzi":"sign in","pinyin":"","vi":"đăng nhập","ex":{"tokens":["Sign","in","with","your","email","."],"py":["","","","","","."],"vi":"Hãy đăng nhập bằng email.","alts":[]}},
    {"id":"y3161-profile_picture","hanzi":"profile picture","pinyin":"","vi":"ảnh đại diện","ex":{"tokens":["She","changed","her","profile","picture","."],"py":["","","","","","."],"vi":"Cô ấy đổi ảnh đại diện.","alts":[]}}
   ]},
-  {"id":"y3162","title":"Công nghệ hằng ngày 3","desc":"Điện thoại, ứng dụng, mạng","icon":"Devices","unit":359,"course":"en","order":3870,"words":[
+  {"id":"y3162","title":"Công nghệ hằng ngày 3","desc":"Điện thoại, ứng dụng, mạng","icon":"Devices","unit":359,"course":"en","order":3900,"words":[
    {"id":"y3162-status_update","hanzi":"status update","pinyin":"","vi":"cập nhật trạng thái","ex":{"tokens":["He","posted","a","status","update","from","the","airport","."],"py":["","","","","","","","","."],"vi":"Anh ấy đăng một cập nhật trạng thái từ sân bay.","alts":[]}},
    {"id":"y3162-news_feed","hanzi":"news feed","pinyin":"","vi":"bảng tin","ex":{"tokens":["My","news","feed","is","full","of","cat","videos","."],"py":["","","","","","","","","."],"vi":"Bảng tin của tôi toàn video mèo.","alts":[]}},
    {"id":"y3162-friend_request","hanzi":"friend request","pinyin":"","vi":"lời mời kết bạn","ex":{"tokens":["I","sent","her","a","friend","request","."],"py":["","","","","","","."],"vi":"Tôi gửi cho cô ấy lời mời kết bạn.","alts":[]}},
@@ -31,7 +31,7 @@
    {"id":"y3162-in_app_purchase","hanzi":"in-app purchase","pinyin":"","vi":"mua hàng trong ứng dụng","ex":{"tokens":["The","game","is","free","but","has","an","in-app","purchase","for","extra","levels","."],"py":["","","","","","","","","","","","","."],"vi":"Trò chơi miễn phí nhưng có mua hàng trong ứng dụng để mở thêm màn.","alts":[]}},
    {"id":"y3162-data_plan","hanzi":"data plan","pinyin":"","vi":"gói dữ liệu","ex":{"tokens":["My","data","plan","has","ten","gigabytes","."],"py":["","","","","","","."],"vi":"Gói dữ liệu của tôi có mười gigabyte.","alts":[]}}
   ]},
-  {"id":"y3163","title":"Công nghệ hằng ngày 4","desc":"Điện thoại, ứng dụng, mạng","icon":"Devices","unit":359,"course":"en","order":3880,"words":[
+  {"id":"y3163","title":"Công nghệ hằng ngày 4","desc":"Điện thoại, ứng dụng, mạng","icon":"Devices","unit":359,"course":"en","order":3910,"words":[
    {"id":"y3163-mobile_data","hanzi":"mobile data","pinyin":"","vi":"dữ liệu di động","ex":{"tokens":["Turn","off","mobile","data","when","you","are","abroad","."],"py":["","","","","","","","","."],"vi":"Hãy tắt dữ liệu di động khi ở nước ngoài.","alts":[]}},
    {"id":"y3163-signal_strength","hanzi":"signal strength","pinyin":"","vi":"cường độ sóng","ex":{"tokens":["The","signal","strength","is","weak","in","the","lift","."],"py":["","","","","","","","","."],"vi":"Sóng yếu trong thang máy.","alts":[]}},
    {"id":"y3163-low_battery","hanzi":"low battery","pinyin":"","vi":"pin yếu","ex":{"tokens":["My","phone","shows","low","battery","."],"py":["","","","","","."],"vi":"Điện thoại của tôi báo pin yếu.","alts":[]}},
@@ -45,7 +45,7 @@
    {"id":"y3163-two_step_verification","hanzi":"two-step verification","pinyin":"","vi":"xác minh hai bước","ex":{"tokens":["Turn","on","two-step","verification","for","your","email","."],"py":["","","","","","","","."],"vi":"Hãy bật xác minh hai bước cho email của bạn.","alts":[]}},
    {"id":"y3163-backup_copy","hanzi":"backup copy","pinyin":"","vi":"bản sao lưu","ex":{"tokens":["Keep","a","backup","copy","of","your","photos","."],"py":["","","","","","","","."],"vi":"Hãy giữ một bản sao lưu ảnh của bạn.","alts":[]}}
   ]},
-  {"id":"y3164","title":"Từ vựng tổng hợp 1","desc":"Từ thuộc nhiều chủ đề","icon":"Mix","unit":359,"course":"en","order":3890,"words":[
+  {"id":"y3164","title":"Từ vựng tổng hợp 1","desc":"Từ thuộc nhiều chủ đề","icon":"Mix","unit":359,"course":"en","order":3920,"words":[
    {"id":"y3164-candlestick","hanzi":"candlestick","pinyin":"","vi":"chân nến","ex":{"tokens":["There","is","a","silver","candlestick","on","the","table","."],"py":["","","","","","","","","."],"vi":"Có một chiếc chân nến bạc trên bàn.","alts":[]}},
    {"id":"y3164-ornament","hanzi":"ornament","pinyin":"","vi":"đồ trang trí","ex":{"tokens":["She","hung","an","ornament","on","the","tree","."],"py":["","","","","","","","."],"vi":"Cô ấy treo một món đồ trang trí lên cây.","alts":[]}},
    {"id":"y3164-picture_frame","hanzi":"picture frame","pinyin":"","vi":"khung ảnh","ex":{"tokens":["The","photo","is","in","a","wooden","picture","frame","."],"py":["","","","","","","","","."],"vi":"Bức ảnh nằm trong khung gỗ.","alts":[]}},
@@ -60,7 +60,7 @@
    {"id":"y3164-odometer","hanzi":"odometer","pinyin":"","vi":"đồng hồ đo quãng đường","ex":{"tokens":["The","odometer","shows","fifty","thousand","kilometers","."],"py":["","","","","","","."],"vi":"Đồng hồ đo quãng đường chỉ năm mươi nghìn cây số.","alts":[]}},
    {"id":"y3164-tailgate","hanzi":"tailgate","pinyin":"","vi":"bám sát đuôi xe; cửa hậu","ex":{"tokens":["Do","not","tailgate","the","car","in","front","."],"py":["","","","","","","","."],"vi":"Đừng bám sát đuôi xe phía trước.","alts":[]}}
   ]},
-  {"id":"y3165","title":"Từ vựng tổng hợp 2","desc":"Từ thuộc nhiều chủ đề","icon":"Mix","unit":359,"course":"en","order":3900,"words":[
+  {"id":"y3165","title":"Từ vựng tổng hợp 2","desc":"Từ thuộc nhiều chủ đề","icon":"Mix","unit":359,"course":"en","order":3930,"words":[
    {"id":"y3165-promenade","hanzi":"promenade","pinyin":"","vi":"đường dạo ven biển","ex":{"tokens":["We","walked","along","the","promenade","at","sunset","."],"py":["","","","","","","","."],"vi":"Chúng tôi đi dạo trên đường ven biển lúc hoàng hôn.","alts":[]}},
    {"id":"y3165-boardwalk","hanzi":"boardwalk","pinyin":"","vi":"lối đi lát ván ven biển","ex":{"tokens":["There","are","food","stalls","on","the","boardwalk","."],"py":["","","","","","","","."],"vi":"Có các quầy đồ ăn trên lối đi lát ván.","alts":[]}},
    {"id":"y3165-immigration_desk","hanzi":"immigration desk","pinyin":"","vi":"quầy xuất nhập cảnh","ex":{"tokens":["Show","your","passport","at","the","immigration","desk","."],"py":["","","","","","","","."],"vi":"Hãy xuất trình hộ chiếu ở quầy xuất nhập cảnh.","alts":[]}},
@@ -75,7 +75,7 @@
    {"id":"y3165-obstinate","hanzi":"obstinate","pinyin":"","vi":"bướng bỉnh, ngoan cố","ex":{"tokens":["He","is","too","obstinate","to","change","his","mind","."],"py":["","","","","","","","","."],"vi":"Anh ta quá bướng bỉnh nên không đổi ý.","alts":[]}},
    {"id":"y3165-labor_strike","hanzi":"labor strike","pinyin":"","vi":"cuộc đình công","ex":{"tokens":["The","labor","strike","closed","the","factory","."],"py":["","","","","","","."],"vi":"Cuộc đình công khiến nhà máy đóng cửa.","alts":[]}}
   ]},
-  {"id":"y3166","title":"Từ vựng tổng hợp 3","desc":"Từ thuộc nhiều chủ đề","icon":"Mix","unit":359,"course":"en","order":3910,"words":[
+  {"id":"y3166","title":"Từ vựng tổng hợp 3","desc":"Từ thuộc nhiều chủ đề","icon":"Mix","unit":359,"course":"en","order":3940,"words":[
    {"id":"y3166-picket_line","hanzi":"picket line","pinyin":"","vi":"hàng người đình công đứng chặn","ex":{"tokens":["No","one","crossed","the","picket","line","."],"py":["","","","","","","."],"vi":"Không ai vượt qua hàng người đình công.","alts":[]}},
    {"id":"y3166-mentee","hanzi":"mentee","pinyin":"","vi":"người được cố vấn","ex":{"tokens":["The","mentor","meets","her","mentee","every","month","."],"py":["","","","","","","","."],"vi":"Người cố vấn gặp người được cố vấn của mình mỗi tháng.","alts":[]}},
    {"id":"y3166-get_well","hanzi":"get well","pinyin":"","vi":"khỏi bệnh","ex":{"tokens":["I","hope","you","get","well","soon","."],"py":["","","","","","","."],"vi":"Tôi mong bạn sớm khỏi bệnh.","alts":[]}},
@@ -90,7 +90,7 @@
    {"id":"y3166-do_your_best","hanzi":"do your best","pinyin":"","vi":"cố gắng hết sức","ex":{"tokens":["Just","do","your","best","in","the","exam","."],"py":["","","","","","","","."],"vi":"Cứ cố gắng hết sức trong kỳ thi.","alts":[]}},
    {"id":"y3166-do_a_favor","hanzi":"do a favor","pinyin":"","vi":"giúp một việc","ex":{"tokens":["Could","you","do","a","favor","for","me","?"],"py":["","","","","","","","?"],"vi":"Bạn giúp tôi một việc được không?","alts":[]}}
   ]},
-  {"id":"y3167","title":"Từ vựng tổng hợp 4","desc":"Từ thuộc nhiều chủ đề","icon":"Mix","unit":359,"course":"en","order":3920,"words":[
+  {"id":"y3167","title":"Từ vựng tổng hợp 4","desc":"Từ thuộc nhiều chủ đề","icon":"Mix","unit":359,"course":"en","order":3950,"words":[
    {"id":"y3167-do_the_shopping","hanzi":"do the shopping","pinyin":"","vi":"đi mua sắm, đi chợ","ex":{"tokens":["I","do","the","shopping","on","Saturday","."],"py":["","","","","","","."],"vi":"Tôi đi chợ vào thứ Bảy.","alts":[]}},
    {"id":"y3167-do_damage","hanzi":"do damage","pinyin":"","vi":"gây thiệt hại","ex":{"tokens":["The","storm","may","do","damage","to","the","roof","."],"py":["","","","","","","","","."],"vi":"Cơn bão có thể gây thiệt hại cho mái nhà.","alts":[]}},
    {"id":"y3167-do_research","hanzi":"do research","pinyin":"","vi":"nghiên cứu","ex":{"tokens":["Students","do","research","in","the","library","."],"py":["","","","","","","."],"vi":"Sinh viên nghiên cứu trong thư viện.","alts":[]}},

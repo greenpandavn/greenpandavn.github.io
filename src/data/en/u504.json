@@ -1,9 +1,9 @@
 {
  "units": [
-  {"unit":504,"level":5,"title":"Phần 57: Ngôn ngữ tinh luyện","desc":"Từ văn chương, từ mượn, thành ngữ, sắc thái tinh tế","color":"sun","course":"en"}
+  {"unit":504,"level":5,"title":"Phần 58: Ngôn ngữ tinh luyện","desc":"Từ văn chương, từ mượn, thành ngữ, sắc thái tinh tế","color":"sun","course":"en"}
  ],
  "lessons": [
-  {"id":"x49","title":"Tính từ văn chương","desc":"Phù du, rực rỡ, thanh bình, u sầu","icon":"Book","unit":504,"course":"en","order":6280,"words":[
+  {"id":"x49","title":"Tính từ văn chương","desc":"Phù du, rực rỡ, thanh bình, u sầu","icon":"Book","unit":504,"course":"en","order":6380,"words":[
    {"id":"x49-ephemeral","hanzi":"ephemeral","pinyin":"","vi":"phù du, chóng tàn","ex":{"tokens":["Fame","is","often","ephemeral","."],"py":["","","","","."],"vi":"Danh tiếng thường phù du.","alts":[]}},
    {"id":"x49-luminous","hanzi":"luminous","pinyin":"","vi":"sáng ngời, phát sáng","ex":{"tokens":["The","moon","was","luminous","over","the","lake","."],"py":["","","","","","","","."],"vi":"Vầng trăng sáng ngời trên mặt hồ.","alts":[]}},
    {"id":"x49-serene","hanzi":"serene","pinyin":"","vi":"thanh bình, thanh thản","ex":{"tokens":["The","garden","felt","serene","at","dawn","."],"py":["","","","","","","."],"vi":"Khu vườn thật thanh bình lúc bình minh.","alts":[]}},
@@ -17,7 +17,7 @@
    {"id":"x49-languid","hanzi":"languid","pinyin":"","vi":"uể oải, lờ đờ","ex":{"tokens":["He","waved","a","languid","hand","."],"py":["","","","","","."],"vi":"Anh ấy uể oải vẫy tay.","alts":[]}},
    {"id":"x49-somber","hanzi":"somber","pinyin":"","vi":"ảm đạm, u buồn","ex":{"tokens":["The","mood","at","the","meeting","was","somber","."],"py":["","","","","","","","."],"vi":"Không khí cuộc họp thật ảm đạm.","alts":[]}}
   ]},
-  {"id":"x50","title":"Động từ hiếm","desc":"Van nài, tán dương, giả vờ, cản trở","icon":"Verb","unit":504,"course":"en","order":6290,"words":[
+  {"id":"x50","title":"Động từ hiếm","desc":"Van nài, tán dương, giả vờ, cản trở","icon":"Verb","unit":504,"course":"en","order":6390,"words":[
    {"id":"x50-beseech","hanzi":"beseech","pinyin":"","vi":"van nài, khẩn cầu","ex":{"tokens":["I","beseech","you","to","stay","."],"py":["","","","","","."],"vi":"Tôi khẩn cầu bạn ở lại.","alts":[]}},
    {"id":"x50-cajole","hanzi":"cajole","pinyin":"","vi":"dỗ ngọt, tán tỉnh để thuyết phục","ex":{"tokens":["She","tried","to","cajole","him","into","coming","."],"py":["","","","","","","","."],"vi":"Cô ấy cố dỗ ngọt để anh ấy đến.","alts":[]}},
    {"id":"x50-decry","hanzi":"decry","pinyin":"","vi":"lên án công khai","ex":{"tokens":["Critics","decry","the","new","policy","."],"py":["","","","","","."],"vi":"Giới phê bình lên án chính sách mới.","alts":[]}},
@@ -31,7 +31,7 @@
    {"id":"x50-relish","hanzi":"relish","pinyin":"","vi":"thích thú, thưởng thức","ex":{"tokens":["I","relish","the","chance","to","work","abroad","."],"py":["","","","","","","","."],"vi":"Tôi thích thú với cơ hội làm việc ở nước ngoài.","alts":[]}},
    {"id":"x50-thwart","hanzi":"thwart","pinyin":"","vi":"ngăn cản, phá ngang","ex":{"tokens":["Police","managed","to","thwart","the","robbery","."],"py":["","","","","","","."],"vi":"Cảnh sát đã ngăn chặn được vụ cướp.","alts":[]}}
   ]},
-  {"id":"x51","title":"Danh từ trừu tượng 6","desc":"Sự thẳng thắn, nghị lực, niềm an ủi, nghịch lý","icon":"Idea","unit":504,"course":"en","order":6300,"words":[
+  {"id":"x51","title":"Danh từ trừu tượng 6","desc":"Sự thẳng thắn, nghị lực, niềm an ủi, nghịch lý","icon":"Idea","unit":504,"course":"en","order":6400,"words":[
    {"id":"x51-candor","hanzi":"candor","pinyin":"","vi":"sự thẳng thắn","ex":{"tokens":["I","appreciate","your","candor","."],"py":["","","","","."],"vi":"Tôi trân trọng sự thẳng thắn của bạn.","alts":[]}},
    {"id":"x51-fortitude","hanzi":"fortitude","pinyin":"","vi":"sự kiên cường, nghị lực","ex":{"tokens":["She","faced","her","illness","with","fortitude","."],"py":["","","","","","","."],"vi":"Cô ấy đối mặt với bệnh tật bằng nghị lực.","alts":[]}},
    {"id":"x51-solace","hanzi":"solace","pinyin":"","vi":"niềm an ủi","ex":{"tokens":["He","found","solace","in","music","."],"py":["","","","","","."],"vi":"Anh ấy tìm thấy niềm an ủi trong âm nhạc.","alts":[]}},
@@ -45,7 +45,7 @@
    {"id":"x51-serendipity","hanzi":"serendipity","pinyin":"","vi":"sự tình cờ may mắn","ex":{"tokens":["We","met","by","pure","serendipity","."],"py":["","","","","","."],"vi":"Chúng tôi gặp nhau hoàn toàn nhờ tình cờ may mắn.","alts":[]}},
    {"id":"x51-quandary","hanzi":"quandary","pinyin":"","vi":"tình thế khó xử","ex":{"tokens":["I","am","in","a","quandary","about","the","job","offer","."],"py":["","","","","","","","","","."],"vi":"Tôi đang khó xử về lời mời làm việc.","alts":[]}}
   ]},
-  {"id":"x52","title":"Trạng từ tinh tế","desc":"Bề ngoài là, dứt khoát, tỉ mỉ, ngầm","icon":"Adverb","unit":504,"course":"en","order":6310,"words":[
+  {"id":"x52","title":"Trạng từ tinh tế","desc":"Bề ngoài là, dứt khoát, tỉ mỉ, ngầm","icon":"Adverb","unit":504,"course":"en","order":6410,"words":[
    {"id":"x52-ostensibly","hanzi":"ostensibly","pinyin":"","vi":"bề ngoài là, có vẻ như","ex":{"tokens":["He","came","ostensibly","to","help","."],"py":["","","","","","."],"vi":"Bề ngoài thì anh ta đến để giúp.","alts":[]}},
    {"id":"x52-inexorably","hanzi":"inexorably","pinyin":"","vi":"không thể ngăn cản được","ex":{"tokens":["Prices","rose","inexorably","."],"py":["","","","."],"vi":"Giá cả tăng lên không gì ngăn được.","alts":[]}},
    {"id":"x52-unequivocally","hanzi":"unequivocally","pinyin":"","vi":"một cách dứt khoát, rõ ràng","ex":{"tokens":["She","unequivocally","denied","the","story","."],"py":["","","","","","."],"vi":"Cô ấy dứt khoát phủ nhận câu chuyện.","alts":[]}},
@@ -59,7 +59,7 @@
    {"id":"x52-profusely","hanzi":"profusely","pinyin":"","vi":"rất nhiều, dồi dào","ex":{"tokens":["He","apologized","profusely","."],"py":["","","","."],"vi":"Anh ấy xin lỗi rối rít.","alts":[]}},
    {"id":"x52-succinctly","hanzi":"succinctly","pinyin":"","vi":"một cách ngắn gọn, súc tích","ex":{"tokens":["Please","explain","it","succinctly","."],"py":["","","","","."],"vi":"Vui lòng giải thích ngắn gọn.","alts":[]}}
   ]},
-  {"id":"x53","title":"Từ gốc Latinh","desc":"Nguyên văn, trên thực tế, ngược lại, hiện trạng","icon":"Latin","unit":504,"course":"en","order":6320,"words":[
+  {"id":"x53","title":"Từ gốc Latinh","desc":"Nguyên văn, trên thực tế, ngược lại, hiện trạng","icon":"Latin","unit":504,"course":"en","order":6420,"words":[
    {"id":"x53-verbatim","hanzi":"verbatim","pinyin":"","vi":"nguyên văn, đúng từng chữ","ex":{"tokens":["She","repeated","his","words","verbatim","."],"py":["","","","","","."],"vi":"Cô ấy lặp lại nguyên văn lời anh ta.","alts":[]}},
    {"id":"x53-ad_hoc","hanzi":"ad hoc","pinyin":"","vi":"tạm thời cho một việc cụ thể","ex":{"tokens":["We","formed","an","ad","hoc","committee","."],"py":["","","","","","","."],"vi":"Chúng tôi lập một ủy ban tạm thời.","alts":[]}},
    {"id":"x53-bona_fide","hanzi":"bona fide","pinyin":"","vi":"thật, chân chính","ex":{"tokens":["He","is","a","bona","fide","expert","."],"py":["","","","","","","."],"vi":"Ông ấy là một chuyên gia thực thụ.","alts":[]}},
@@ -73,7 +73,7 @@
    {"id":"x53-per_capita","hanzi":"per capita","pinyin":"","vi":"tính theo đầu người","ex":{"tokens":["Income","per","capita","has","doubled","."],"py":["","","","","","."],"vi":"Thu nhập bình quân đầu người đã tăng gấp đôi.","alts":[]}},
    {"id":"x53-et_cetera","hanzi":"et cetera","pinyin":"","vi":"vân vân","ex":{"tokens":["Bring","pens",",","paper",",","et","cetera","."],"py":["","",",","",",","","","."],"vi":"Hãy mang bút, giấy, vân vân.","alts":[]}}
   ]},
-  {"id":"x54","title":"Từ mượn tiếng Pháp","desc":"Cuộc hẹn, sáo ngữ, thị trường ngách","icon":"French","unit":504,"course":"en","order":6330,"words":[
+  {"id":"x54","title":"Từ mượn tiếng Pháp","desc":"Cuộc hẹn, sáo ngữ, thị trường ngách","icon":"French","unit":504,"course":"en","order":6430,"words":[
    {"id":"x54-rendezvous","hanzi":"rendezvous","pinyin":"","vi":"cuộc hẹn gặp","ex":{"tokens":["We","arranged","a","rendezvous","at","the","station","."],"py":["","","","","","","","."],"vi":"Chúng tôi sắp xếp một cuộc hẹn ở nhà ga.","alts":[]}},
    {"id":"x54-cliche","hanzi":"cliche","pinyin":"","vi":"câu sáo rỗng","ex":{"tokens":["That","phrase","has","become","a","cliche","."],"py":["","","","","","","."],"vi":"Cụm từ đó đã trở thành câu sáo rỗng.","alts":[]}},
    {"id":"x54-faux_pas","hanzi":"faux pas","pinyin":"","vi":"hành vi lỡ lời, thất lễ","ex":{"tokens":["Wearing","shoes","inside","was","a","faux","pas","."],"py":["","","","","","","","."],"vi":"Đi giày vào trong nhà là một hành vi thất lễ.","alts":[]}},
@@ -87,7 +87,7 @@
    {"id":"x54-protege","hanzi":"protege","pinyin":"","vi":"người được dìu dắt, học trò cưng","ex":{"tokens":["The","young","pianist","is","his","protege","."],"py":["","","","","","","."],"vi":"Nghệ sĩ dương cầm trẻ là học trò cưng của ông ấy.","alts":[]}},
    {"id":"x54-repertoire","hanzi":"repertoire","pinyin":"","vi":"vốn tiết mục, vốn kỹ năng","ex":{"tokens":["The","band","has","a","large","repertoire","."],"py":["","","","","","","."],"vi":"Ban nhạc có vốn tiết mục phong phú.","alts":[]}}
   ]},
-  {"id":"x55","title":"Thành ngữ 2","desc":"Trong cái rủi có cái may, cắn răng chịu, vạch áo","icon":"Saying","unit":504,"course":"en","order":6340,"words":[
+  {"id":"x55","title":"Thành ngữ 2","desc":"Trong cái rủi có cái may, cắn răng chịu, vạch áo","icon":"Saying","unit":504,"course":"en","order":6440,"words":[
    {"id":"x55-a_blessing_in_disguise","hanzi":"a blessing in disguise","pinyin":"","vi":"trong cái rủi có cái may","ex":{"tokens":["Losing","that","job","was","a","blessing","in","disguise","."],"py":["","","","","","","","","."],"vi":"Mất công việc đó hóa ra lại là trong cái rủi có cái may.","alts":[]}},
    {"id":"x55-bite_the_bullet","hanzi":"bite the bullet","pinyin":"","vi":"cắn răng chịu đựng, đành làm việc khó","ex":{"tokens":["I","decided","to","bite","the","bullet","and","call","her","."],"py":["","","","","","","","","","."],"vi":"Tôi quyết định cắn răng gọi cho cô ấy.","alts":[]}},
    {"id":"x55-burn_the_midnight_oil","hanzi":"burn the midnight oil","pinyin":"","vi":"thức khuya làm việc","ex":{"tokens":["Students","burn","the","midnight","oil","before","exams","."],"py":["","","","","","","","."],"vi":"Sinh viên thức khuya học bài trước kỳ thi.","alts":[]}},
@@ -101,7 +101,7 @@
    {"id":"x55-back_to_square_one","hanzi":"back to square one","pinyin":"","vi":"trở lại vạch xuất phát","ex":{"tokens":["The","deal","failed",",","so","we","are","back","to","square","one","."],"py":["","","",",","","","","","","","","."],"vi":"Thỏa thuận thất bại nên chúng tôi trở lại vạch xuất phát.","alts":[]}},
    {"id":"x55-a_drop_in_the_ocean","hanzi":"a drop in the ocean","pinyin":"","vi":"muối bỏ bể","ex":{"tokens":["Our","gift","is","only","a","drop","in","the","ocean","."],"py":["","","","","","","","","","."],"vi":"Món quà của chúng tôi chỉ như muối bỏ bể.","alts":[]}}
   ]},
-  {"id":"x56","title":"Cụm động từ 7","desc":"Ôn lại, trấn áp, loại trừ, bắt nguồn từ","icon":"Phrase","unit":504,"course":"en","order":6350,"words":[
+  {"id":"x56","title":"Cụm động từ 7","desc":"Ôn lại, trấn áp, loại trừ, bắt nguồn từ","icon":"Phrase","unit":504,"course":"en","order":6450,"words":[
    {"id":"x56-brush_up_on","hanzi":"brush up on","pinyin":"","vi":"ôn lại, trau dồi lại","ex":{"tokens":["I","need","to","brush","up","on","my","French","."],"py":["","","","","","","","","."],"vi":"Tôi cần ôn lại tiếng Pháp.","alts":[]}},
    {"id":"x56-crack_down_on","hanzi":"crack down on","pinyin":"","vi":"trấn áp, xử lý mạnh tay","ex":{"tokens":["Police","will","crack","down","on","speeding","."],"py":["","","","","","","."],"vi":"Cảnh sát sẽ xử lý mạnh tay việc chạy quá tốc độ.","alts":[]}},
    {"id":"x56-fall_through","hanzi":"fall through","pinyin":"","vi":"thất bại, không thành","ex":{"tokens":["Our","holiday","plans","may","fall","through","."],"py":["","","","","","","."],"vi":"Kế hoạch nghỉ lễ của chúng tôi có thể không thành.","alts":[]}},
@@ -115,7 +115,7 @@
    {"id":"x56-zero_in_on","hanzi":"zero in on","pinyin":"","vi":"tập trung vào, nhắm trúng","ex":{"tokens":["Let","us","zero","in","on","the","main","problem","."],"py":["","","","","","","","","."],"vi":"Chúng ta hãy tập trung vào vấn đề chính.","alts":[]}},
    {"id":"x56-boil_down_to","hanzi":"boil down to","pinyin":"","vi":"rốt cuộc là, quy về","ex":{"tokens":["The","choices","boil","down","to","time","and","money","."],"py":["","","","","","","","","."],"vi":"Các lựa chọn rốt cuộc quy về thời gian và tiền bạc.","alts":[]}}
   ]},
-  {"id":"x57","title":"Âm thanh","desc":"Xào xạc, rì rầm, kẽo kẹt, rít","icon":"Sound","unit":504,"course":"en","order":6360,"words":[
+  {"id":"x57","title":"Âm thanh","desc":"Xào xạc, rì rầm, kẽo kẹt, rít","icon":"Sound","unit":504,"course":"en","order":6460,"words":[
    {"id":"x57-rustle","hanzi":"rustle","pinyin":"","vi":"tiếng xào xạc; kêu xào xạc","ex":{"tokens":["I","heard","leaves","rustle","behind","me","."],"py":["","","","","","","."],"vi":"Tôi nghe tiếng lá xào xạc phía sau.","alts":[]}},
    {"id":"x57-murmur","hanzi":"murmur","pinyin":"","vi":"tiếng rì rầm; thì thầm","ex":{"tokens":["A","murmur","ran","through","the","crowd","."],"py":["","","","","","","."],"vi":"Một tiếng rì rầm lan qua đám đông.","alts":[]}},
    {"id":"x57-clatter","hanzi":"clatter","pinyin":"","vi":"tiếng loảng xoảng, lách cách","ex":{"tokens":["Plates","fell","with","a","loud","clatter","."],"py":["","","","","","","."],"vi":"Đĩa rơi loảng xoảng.","alts":[]}},
@@ -129,7 +129,7 @@
    {"id":"x57-whir","hanzi":"whir","pinyin":"","vi":"tiếng vù vù; kêu vù vù","ex":{"tokens":["I","could","hear","the","whir","of","the","fan","."],"py":["","","","","","","","","."],"vi":"Tôi nghe được tiếng quạt vù vù.","alts":[]}},
    {"id":"x57-clang","hanzi":"clang","pinyin":"","vi":"tiếng kim loại va nhau, tiếng keng","ex":{"tokens":["The","gate","shut","with","a","clang","."],"py":["","","","","","","."],"vi":"Cánh cổng đóng lại đánh keng.","alts":[]}}
   ]},
-  {"id":"x58","title":"Ánh sáng","desc":"Lấp lánh, le lói, chói lóa, hoàng hôn","icon":"Light","unit":504,"course":"en","order":6370,"words":[
+  {"id":"x58","title":"Ánh sáng","desc":"Lấp lánh, le lói, chói lóa, hoàng hôn","icon":"Light","unit":504,"course":"en","order":6470,"words":[
    {"id":"x58-glimmer","hanzi":"glimmer","pinyin":"","vi":"ánh sáng le lói; tia (hy vọng)","ex":{"tokens":["There","was","a","glimmer","of","light","under","the","door","."],"py":["","","","","","","","","","."],"vi":"Có một ánh sáng le lói dưới khe cửa.","alts":[]}},
    {"id":"x58-shimmer","hanzi":"shimmer","pinyin":"","vi":"lung linh, lấp loáng","ex":{"tokens":["The","lake","seemed","to","shimmer","in","the","heat","."],"py":["","","","","","","","","."],"vi":"Mặt hồ dường như lung linh trong nắng nóng.","alts":[]}},
    {"id":"x58-flicker","hanzi":"flicker","pinyin":"","vi":"chập chờn, bập bùng","ex":{"tokens":["The","candle","began","to","flicker","."],"py":["","","","","","."],"vi":"Ngọn nến bắt đầu chập chờn.","alts":[]}},
@@ -143,7 +143,7 @@
    {"id":"x58-radiant","hanzi":"radiant","pinyin":"","vi":"rạng rỡ, tỏa sáng","ex":{"tokens":["She","looked","radiant","on","her","wedding","day","."],"py":["","","","","","","","."],"vi":"Cô ấy trông rạng rỡ trong ngày cưới.","alts":[]}},
    {"id":"x58-dusk","hanzi":"dusk","pinyin":"","vi":"lúc chạng vạng","ex":{"tokens":["The","bats","come","out","at","dusk","."],"py":["","","","","","","."],"vi":"Dơi bay ra lúc chạng vạng.","alts":[]}}
   ]},
-  {"id":"x59","title":"Dáng đi","desc":"Thong thả, loạng choạng, lê bước, rón rén","icon":"Walk","unit":504,"course":"en","order":6380,"words":[
+  {"id":"x59","title":"Dáng đi","desc":"Thong thả, loạng choạng, lê bước, rón rén","icon":"Walk","unit":504,"course":"en","order":6480,"words":[
    {"id":"x59-saunter","hanzi":"saunter","pinyin":"","vi":"đi thong thả","ex":{"tokens":["They","saunter","along","the","beach","every","evening","."],"py":["","","","","","","","."],"vi":"Họ thong thả dạo dọc bãi biển mỗi tối.","alts":[]}},
    {"id":"x59-stagger","hanzi":"stagger","pinyin":"","vi":"đi loạng choạng","ex":{"tokens":["He","began","to","stagger","after","the","long","race","."],"py":["","","","","","","","","."],"vi":"Anh ấy bắt đầu loạng choạng sau cuộc đua dài.","alts":[]}},
    {"id":"x59-lurch","hanzi":"lurch","pinyin":"","vi":"chao đảo, lảo đảo đột ngột","ex":{"tokens":["The","bus","gave","a","sudden","lurch","."],"py":["","","","","","","."],"vi":"Chiếc xe buýt đột ngột chao đi.","alts":[]}},
@@ -157,7 +157,7 @@
    {"id":"x59-prowl","hanzi":"prowl","pinyin":"","vi":"rình mò, đi lảng vảng","ex":{"tokens":["Wolves","prowl","around","the","farm","at","night","."],"py":["","","","","","","","."],"vi":"Sói lảng vảng quanh trang trại vào ban đêm.","alts":[]}},
    {"id":"x59-meander","hanzi":"meander","pinyin":"","vi":"uốn khúc; đi lang thang","ex":{"tokens":["The","river","seems","to","meander","through","the","valley","."],"py":["","","","","","","","","."],"vi":"Con sông uốn khúc qua thung lũng.","alts":[]}}
   ]},
-  {"id":"x60","title":"Cách nói và cách nhìn","desc":"Lẩm bẩm, nói lắp, liếc, nheo mắt","icon":"Speak","unit":504,"course":"en","order":6390,"words":[
+  {"id":"x60","title":"Cách nói và cách nhìn","desc":"Lẩm bẩm, nói lắp, liếc, nheo mắt","icon":"Speak","unit":504,"course":"en","order":6490,"words":[
    {"id":"x60-mutter","hanzi":"mutter","pinyin":"","vi":"lẩm bẩm","ex":{"tokens":["I","heard","him","mutter","something","rude","."],"py":["","","","","","","."],"vi":"Tôi nghe anh ta lẩm bẩm điều gì đó thô lỗ.","alts":[]}},
    {"id":"x60-croak","hanzi":"croak","pinyin":"","vi":"nói giọng khàn; tiếng ếch kêu","ex":{"tokens":["She","could","only","croak","a","few","words","."],"py":["","","","","","","","."],"vi":"Cô ấy chỉ có thể khàn giọng nói vài từ.","alts":[]}},
    {"id":"x60-stammer","hanzi":"stammer","pinyin":"","vi":"nói lắp","ex":{"tokens":["He","began","to","stammer","with","fear","."],"py":["","","","","","","."],"vi":"Anh ấy bắt đầu nói lắp vì sợ.","alts":[]}},
@@ -171,7 +171,7 @@
    {"id":"x60-glimpse","hanzi":"glimpse","pinyin":"","vi":"cái nhìn thoáng qua; thoáng thấy","ex":{"tokens":["I","caught","a","glimpse","of","the","singer","."],"py":["","","","","","","","."],"vi":"Tôi thoáng thấy ca sĩ đó.","alts":[]}},
    {"id":"x60-scowl","hanzi":"scowl","pinyin":"","vi":"cau có, quắc mắt","ex":{"tokens":["The","boy","gave","me","an","angry","scowl","."],"py":["","","","","","","","."],"vi":"Cậu bé quắc mắt giận dữ nhìn tôi.","alts":[]}}
   ]},
-  {"id":"x61","title":"Phẩm chất","desc":"Chính trực, khiêm nhường, thận trọng, vị tha","icon":"Virtue","unit":504,"course":"en","order":6400,"words":[
+  {"id":"x61","title":"Phẩm chất","desc":"Chính trực, khiêm nhường, thận trọng, vị tha","icon":"Virtue","unit":504,"course":"en","order":6500,"words":[
    {"id":"x61-rectitude","hanzi":"rectitude","pinyin":"","vi":"sự ngay thẳng, chính trực","ex":{"tokens":["She","is","known","for","her","moral","rectitude","."],"py":["","","","","","","","."],"vi":"Bà ấy nổi tiếng về sự ngay thẳng đạo đức.","alts":[]}},
    {"id":"x61-humility","hanzi":"humility","pinyin":"","vi":"sự khiêm nhường","ex":{"tokens":["He","accepted","the","prize","with","humility","."],"py":["","","","","","","."],"vi":"Anh ấy nhận giải với sự khiêm nhường.","alts":[]}},
    {"id":"x61-prudence","hanzi":"prudence","pinyin":"","vi":"sự thận trọng","ex":{"tokens":["Prudence","told","her","to","save","some","money","."],"py":["","","","","","","","."],"vi":"Sự thận trọng mách bảo cô ấy nên tiết kiệm ít tiền.","alts":[]}},
@@ -185,7 +185,7 @@
    {"id":"x61-poise","hanzi":"poise","pinyin":"","vi":"sự điềm đạm, tự tin; tư thế","ex":{"tokens":["She","answered","every","question","with","poise","."],"py":["","","","","","","."],"vi":"Cô ấy trả lời mọi câu hỏi một cách điềm đạm.","alts":[]}},
    {"id":"x61-tact","hanzi":"tact","pinyin":"","vi":"sự khéo léo, tế nhị","ex":{"tokens":["He","handled","the","complaint","with","tact","."],"py":["","","","","","","."],"vi":"Anh ấy xử lý lời phàn nàn một cách tế nhị.","alts":[]}}
   ]},
-  {"id":"x62","title":"Thói xấu","desc":"Tham lam, lười biếng, ác ý, đạo đức giả","icon":"Vice","unit":504,"course":"en","order":6410,"words":[
+  {"id":"x62","title":"Thói xấu","desc":"Tham lam, lười biếng, ác ý, đạo đức giả","icon":"Vice","unit":504,"course":"en","order":6510,"words":[
    {"id":"x62-avarice","hanzi":"avarice","pinyin":"","vi":"lòng tham của cải","ex":{"tokens":["Avarice","destroyed","the","family","business","."],"py":["","","","","","."],"vi":"Lòng tham đã phá hủy công việc kinh doanh của gia đình.","alts":[]}},
    {"id":"x62-sloth","hanzi":"sloth","pinyin":"","vi":"sự lười biếng; con lười","ex":{"tokens":["Sloth","kept","him","from","finishing","anything","."],"py":["","","","","","","."],"vi":"Sự lười biếng khiến anh ta chẳng làm xong việc gì.","alts":[]}},
    {"id":"x62-vanity","hanzi":"vanity","pinyin":"","vi":"tính phù phiếm, tự cao","ex":{"tokens":["His","vanity","makes","him","easy","to","fool","."],"py":["","","","","","","","."],"vi":"Tính tự cao khiến anh ta dễ bị lừa.","alts":[]}},
@@ -199,7 +199,7 @@
    {"id":"x62-negligence","hanzi":"negligence","pinyin":"","vi":"sự cẩu thả, tắc trách","ex":{"tokens":["The","accident","was","caused","by","negligence","."],"py":["","","","","","","."],"vi":"Vụ tai nạn là do sự tắc trách gây ra.","alts":[]}},
    {"id":"x62-petulance","hanzi":"petulance","pinyin":"","vi":"tính hay hờn dỗi","ex":{"tokens":["He","slammed","the","door","in","a","moment","of","petulance","."],"py":["","","","","","","","","","."],"vi":"Cậu ấy đóng sầm cửa trong một phút hờn dỗi.","alts":[]}}
   ]},
-  {"id":"x63","title":"Lượng và mức độ","desc":"Vô số, dư thừa, khan hiếm, chút ít","icon":"Amount","unit":504,"course":"en","order":6420,"words":[
+  {"id":"x63","title":"Lượng và mức độ","desc":"Vô số, dư thừa, khan hiếm, chút ít","icon":"Amount","unit":504,"course":"en","order":6520,"words":[
    {"id":"x63-myriad","hanzi":"myriad","pinyin":"","vi":"vô số","ex":{"tokens":["The","city","offers","a","myriad","of","choices","."],"py":["","","","","","","","."],"vi":"Thành phố mang đến vô số lựa chọn.","alts":[]}},
    {"id":"x63-plethora","hanzi":"plethora","pinyin":"","vi":"sự dư thừa, quá nhiều","ex":{"tokens":["There","is","a","plethora","of","apps","for","learning","English","."],"py":["","","","","","","","","","."],"vi":"Có quá nhiều ứng dụng để học tiếng Anh.","alts":[]}},
    {"id":"x63-dearth","hanzi":"dearth","pinyin":"","vi":"sự khan hiếm","ex":{"tokens":["There","is","a","dearth","of","good","teachers","."],"py":["","","","","","","","."],"vi":"Đang thiếu giáo viên giỏi.","alts":[]}},
@@ -213,7 +213,7 @@
    {"id":"x63-paucity","hanzi":"paucity","pinyin":"","vi":"sự ít ỏi, thiếu thốn","ex":{"tokens":["The","paucity","of","data","makes","the","study","weak","."],"py":["","","","","","","","","."],"vi":"Sự thiếu thốn dữ liệu khiến nghiên cứu yếu.","alts":[]}},
    {"id":"x63-abundant","hanzi":"abundant","pinyin":"","vi":"dồi dào, phong phú","ex":{"tokens":["Fish","are","abundant","in","this","river","."],"py":["","","","","","","."],"vi":"Cá rất dồi dào ở con sông này.","alts":[]}}
   ]},
-  {"id":"x64","title":"Từ trang trọng trong văn bản","desc":"Cho đến nay, từ nay, theo đó, nói trên","icon":"Formal","unit":504,"course":"en","order":6430,"words":[
+  {"id":"x64","title":"Từ trang trọng trong văn bản","desc":"Cho đến nay, từ nay, theo đó, nói trên","icon":"Formal","unit":504,"course":"en","order":6530,"words":[
    {"id":"x64-hitherto","hanzi":"hitherto","pinyin":"","vi":"cho đến nay","ex":{"tokens":["The","cave","was","hitherto","unknown","."],"py":["","","","","","."],"vi":"Hang động này cho đến nay chưa ai biết đến.","alts":[]}},
    {"id":"x64-henceforth","hanzi":"henceforth","pinyin":"","vi":"từ nay về sau","ex":{"tokens":["Henceforth",",","all","visitors","must","sign","in","."],"py":["",",","","","","","","."],"vi":"Từ nay về sau, mọi khách đều phải đăng ký.","alts":[]}},
    {"id":"x64-thereby","hanzi":"thereby","pinyin":"","vi":"bằng cách đó, do đó","ex":{"tokens":["He","sold","the","car",",","thereby","clearing","his","debts","."],"py":["","","","",",","","","","","."],"vi":"Anh ấy bán xe, nhờ đó trả hết nợ.","alts":[]}},
@@ -227,7 +227,7 @@
    {"id":"x64-insofar","hanzi":"insofar","pinyin":"","vi":"trong chừng mực","ex":{"tokens":["I","will","help","insofar","as","I","can","."],"py":["","","","","","","","."],"vi":"Tôi sẽ giúp trong chừng mực có thể.","alts":[]}},
    {"id":"x64-thereof","hanzi":"thereof","pinyin":"","vi":"của cái đó, của việc đó","ex":{"tokens":["Read","the","contract","and","every","part","thereof","."],"py":["","","","","","","","."],"vi":"Hãy đọc hợp đồng và từng phần của nó.","alts":[]}}
   ]},
-  {"id":"x65","title":"Lối sống và dịp gặp gỡ","desc":"Tối giản, dọn bớt đồ, tái chế sáng tạo, tiệc tân gia","icon":"Life","unit":504,"course":"en","order":6440,"words":[
+  {"id":"x65","title":"Lối sống và dịp gặp gỡ","desc":"Tối giản, dọn bớt đồ, tái chế sáng tạo, tiệc tân gia","icon":"Life","unit":504,"course":"en","order":6540,"words":[
    {"id":"x65-minimalism","hanzi":"minimalism","pinyin":"","vi":"lối sống tối giản","ex":{"tokens":["Minimalism","taught","her","to","value","space","over","possessions","."],"py":["","","","","","","","","."],"vi":"Lối sống tối giản dạy cô ấy quý không gian hơn đồ đạc.","alts":[]}},
    {"id":"x65-declutter","hanzi":"declutter","pinyin":"","vi":"dọn bớt đồ đạc","ex":{"tokens":["We","decided","to","declutter","the","attic","before","moving","."],"py":["","","","","","","","","."],"vi":"Chúng tôi quyết định dọn bớt đồ trên gác mái trước khi chuyển nhà.","alts":[]}},
    {"id":"x65-upcycle","hanzi":"upcycle","pinyin":"","vi":"tái chế sáng tạo","ex":{"tokens":["They","upcycle","old","tires","into","garden","chairs","."],"py":["","","","","","","","."],"vi":"Họ tái chế lốp xe cũ thành ghế ngoài vườn.","alts":[]}},

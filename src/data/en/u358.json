@@ -1,9 +1,9 @@
 {
  "units": [
-  {"unit":358,"level":3,"title":"Phần 36: Mở rộng – Cụm từ với take và have","desc":"Cụm từ với take và have, Cụm động từ cố định, Cụm từ thông dụng khác, Tiền bạc hằng ngày, Công nghệ hằng ngày","color":"grape","course":"en"}
+  {"unit":358,"level":3,"title":"Phần 37: Mở rộng – Cụm từ với take và have","desc":"Cụm từ với take và have, Cụm động từ cố định, Cụm từ thông dụng khác, Tiền bạc hằng ngày, Công nghệ hằng ngày","color":"grape","course":"en"}
  ],
  "lessons": [
-  {"id":"y3141","title":"Cụm từ với take và have 2","desc":"Kết hợp từ tự nhiên với take, have","icon":"Phrases","unit":358,"course":"en","order":3760,"words":[
+  {"id":"y3141","title":"Cụm từ với take và have 2","desc":"Kết hợp từ tự nhiên với take, have","icon":"Phrases","unit":358,"course":"en","order":3790,"words":[
    {"id":"y3141-take_pride","hanzi":"take pride","pinyin":"","vi":"tự hào","ex":{"tokens":["They","take","pride","in","their","work","."],"py":["","","","","","","."],"vi":"Họ tự hào về công việc của mình.","alts":[]}},
    {"id":"y3141-have_a_word","hanzi":"have a word","pinyin":"","vi":"nói chuyện riêng một chút","ex":{"tokens":["Can","I","have","a","word","with","you","?"],"py":["","","","","","","","?"],"vi":"Tôi nói chuyện riêng với bạn một chút được không?","alts":[]}},
    {"id":"y3141-have_a_go","hanzi":"have a go","pinyin":"","vi":"thử làm","ex":{"tokens":["Let","me","have","a","go","at","fixing","it","."],"py":["","","","","","","","","."],"vi":"Để tôi thử sửa xem.","alts":[]}},
@@ -17,7 +17,7 @@
    {"id":"y3141-have_in_common","hanzi":"have in common","pinyin":"","vi":"có điểm chung","ex":{"tokens":["We","have","in","common","a","love","of","music","."],"py":["","","","","","","","","."],"vi":"Chúng tôi có điểm chung là tình yêu âm nhạc.","alts":[]}},
    {"id":"y3141-have_no_idea","hanzi":"have no idea","pinyin":"","vi":"không biết gì cả","ex":{"tokens":["I","have","no","idea","where","he","is","."],"py":["","","","","","","","."],"vi":"Tôi không biết anh ấy ở đâu.","alts":[]}}
   ]},
-  {"id":"y3142","title":"Cụm động từ cố định 1","desc":"Kết hợp từ với keep, pay, break, go, come, get","icon":"Combos","unit":358,"course":"en","order":3770,"words":[
+  {"id":"y3142","title":"Cụm động từ cố định 1","desc":"Kết hợp từ với keep, pay, break, go, come, get","icon":"Combos","unit":358,"course":"en","order":3800,"words":[
    {"id":"y3142-keep_a_secret","hanzi":"keep a secret","pinyin":"","vi":"giữ bí mật","ex":{"tokens":["Can","you","keep","a","secret","?"],"py":["","","","","","?"],"vi":"Bạn giữ bí mật được không?","alts":[]}},
    {"id":"y3142-keep_quiet","hanzi":"keep quiet","pinyin":"","vi":"giữ im lặng","ex":{"tokens":["Please","keep","quiet","in","the","library","."],"py":["","","","","","","."],"vi":"Xin giữ im lặng trong thư viện.","alts":[]}},
    {"id":"y3142-keep_calm","hanzi":"keep calm","pinyin":"","vi":"giữ bình tĩnh","ex":{"tokens":["Keep","calm","and","call","for","help","."],"py":["","","","","","","."],"vi":"Hãy giữ bình tĩnh và gọi trợ giúp.","alts":[]}},
@@ -33,7 +33,7 @@
    {"id":"y3142-break_the_news","hanzi":"break the news","pinyin":"","vi":"báo tin (thường là tin xấu)","ex":{"tokens":["I","had","to","break","the","news","to","her","."],"py":["","","","","","","","","."],"vi":"Tôi phải báo tin cho cô ấy.","alts":[]}},
    {"id":"y3142-catch_fire","hanzi":"catch fire","pinyin":"","vi":"bắt lửa","ex":{"tokens":["Dry","leaves","catch","fire","easily","."],"py":["","","","","","."],"vi":"Lá khô dễ bắt lửa.","alts":[]}}
   ]},
-  {"id":"y3143","title":"Cụm động từ cố định 2","desc":"Kết hợp từ với keep, pay, break, go, come, get","icon":"Combos","unit":358,"course":"en","order":3780,"words":[
+  {"id":"y3143","title":"Cụm động từ cố định 2","desc":"Kết hợp từ với keep, pay, break, go, come, get","icon":"Combos","unit":358,"course":"en","order":3810,"words":[
    {"id":"y3143-catch_sight_of","hanzi":"catch sight of","pinyin":"","vi":"thoáng thấy","ex":{"tokens":["I","managed","to","catch","sight","of","the","singer","."],"py":["","","","","","","","","."],"vi":"Tôi kịp thoáng thấy người ca sĩ.","alts":[]}},
    {"id":"y3143-save_time","hanzi":"save time","pinyin":"","vi":"tiết kiệm thời gian","ex":{"tokens":["We","can","save","time","by","taking","a","taxi","."],"py":["","","","","","","","","."],"vi":"Chúng ta có thể tiết kiệm thời gian bằng cách đi taxi.","alts":[]}},
    {"id":"y3143-save_money","hanzi":"save money","pinyin":"","vi":"tiết kiệm tiền","ex":{"tokens":["I","cook","at","home","to","save","money","."],"py":["","","","","","","","."],"vi":"Tôi nấu ăn ở nhà để tiết kiệm tiền.","alts":[]}},
@@ -49,7 +49,7 @@
    {"id":"y3143-go_crazy","hanzi":"go crazy","pinyin":"","vi":"phát điên; phấn khích tột độ","ex":{"tokens":["The","fans","go","crazy","when","he","sings","."],"py":["","","","","","","","."],"vi":"Người hâm mộ phấn khích tột độ khi anh ấy hát.","alts":[]}},
    {"id":"y3143-go_missing","hanzi":"go missing","pinyin":"","vi":"mất tích","ex":{"tokens":["Two","socks","go","missing","every","week","."],"py":["","","","","","","."],"vi":"Tuần nào cũng mất hai chiếc tất.","alts":[]}}
   ]},
-  {"id":"y3144","title":"Cụm động từ cố định 3","desc":"Kết hợp từ với keep, pay, break, go, come, get","icon":"Combos","unit":358,"course":"en","order":3790,"words":[
+  {"id":"y3144","title":"Cụm động từ cố định 3","desc":"Kết hợp từ với keep, pay, break, go, come, get","icon":"Combos","unit":358,"course":"en","order":3820,"words":[
    {"id":"y3144-go_online","hanzi":"go online","pinyin":"","vi":"lên mạng","ex":{"tokens":["I","go","online","to","read","the","news","."],"py":["","","","","","","","."],"vi":"Tôi lên mạng để đọc tin.","alts":[]}},
    {"id":"y3144-go_abroad","hanzi":"go abroad","pinyin":"","vi":"ra nước ngoài","ex":{"tokens":["She","wants","to","go","abroad","to","study","."],"py":["","","","","","","","."],"vi":"Cô ấy muốn ra nước ngoài học.","alts":[]}},
    {"id":"y3144-go_bankrupt","hanzi":"go bankrupt","pinyin":"","vi":"phá sản","ex":{"tokens":["The","shop","may","go","bankrupt","."],"py":["","","","","","."],"vi":"Cửa hàng có thể phá sản.","alts":[]}},
@@ -65,7 +65,7 @@
    {"id":"y3144-get_the_sack","hanzi":"get the sack","pinyin":"","vi":"bị sa thải","ex":{"tokens":["You","will","get","the","sack","if","you","are","late","again","."],"py":["","","","","","","","","","","."],"vi":"Bạn sẽ bị sa thải nếu lại đi muộn.","alts":[]}},
    {"id":"y3144-get_permission","hanzi":"get permission","pinyin":"","vi":"được phép","ex":{"tokens":["You","must","get","permission","from","your","parents","."],"py":["","","","","","","","."],"vi":"Bạn phải được bố mẹ cho phép.","alts":[]}}
   ]},
-  {"id":"y3145","title":"Cụm từ thông dụng khác 1","desc":"Fall, tell, give, lose, set và cặp tính từ - danh từ","icon":"Pairs","unit":358,"course":"en","order":3800,"words":[
+  {"id":"y3145","title":"Cụm từ thông dụng khác 1","desc":"Fall, tell, give, lose, set và cặp tính từ - danh từ","icon":"Pairs","unit":358,"course":"en","order":3830,"words":[
    {"id":"y3145-fall_asleep","hanzi":"fall asleep","pinyin":"","vi":"ngủ thiếp đi","ex":{"tokens":["I","often","fall","asleep","on","the","bus","."],"py":["","","","","","","","."],"vi":"Tôi hay ngủ thiếp đi trên xe buýt.","alts":[]}},
    {"id":"y3145-fall_in_love","hanzi":"fall in love","pinyin":"","vi":"phải lòng, yêu","ex":{"tokens":["They","fall","in","love","in","the","film","."],"py":["","","","","","","","."],"vi":"Trong phim họ phải lòng nhau.","alts":[]}},
    {"id":"y3145-fall_ill","hanzi":"fall ill","pinyin":"","vi":"bị ốm","ex":{"tokens":["Many","people","fall","ill","in","winter","."],"py":["","","","","","","."],"vi":"Nhiều người bị ốm vào mùa đông.","alts":[]}},
@@ -79,7 +79,7 @@
    {"id":"y3145-give_a_lift","hanzi":"give a lift","pinyin":"","vi":"cho đi nhờ xe","ex":{"tokens":["I","can","give","a","lift","to","anyone","who","needs","one","."],"py":["","","","","","","","","","","."],"vi":"Tôi có thể cho bất cứ ai cần đi nhờ xe.","alts":[]}},
    {"id":"y3145-give_birth","hanzi":"give birth","pinyin":"","vi":"sinh con","ex":{"tokens":["She","will","give","birth","in","March","."],"py":["","","","","","","."],"vi":"Cô ấy sẽ sinh con vào tháng Ba.","alts":[]}}
   ]},
-  {"id":"y3146","title":"Cụm từ thông dụng khác 2","desc":"Fall, tell, give, lose, set và cặp tính từ - danh từ","icon":"Pairs","unit":358,"course":"en","order":3810,"words":[
+  {"id":"y3146","title":"Cụm từ thông dụng khác 2","desc":"Fall, tell, give, lose, set và cặp tính từ - danh từ","icon":"Pairs","unit":358,"course":"en","order":3840,"words":[
    {"id":"y3146-lose_weight","hanzi":"lose weight","pinyin":"","vi":"giảm cân","ex":{"tokens":["He","wants","to","lose","weight","."],"py":["","","","","","."],"vi":"Anh ấy muốn giảm cân.","alts":[]}},
    {"id":"y3146-lose_track","hanzi":"lose track","pinyin":"","vi":"không theo dõi được","ex":{"tokens":["I","lose","track","of","time","when","I","read","."],"py":["","","","","","","","","."],"vi":"Tôi quên cả thời gian khi đọc sách.","alts":[]}},
    {"id":"y3146-set_an_example","hanzi":"set an example","pinyin":"","vi":"làm gương","ex":{"tokens":["Parents","should","set","an","example","."],"py":["","","","","","."],"vi":"Cha mẹ nên làm gương.","alts":[]}},
@@ -93,7 +93,7 @@
    {"id":"y3146-strong_wind","hanzi":"strong wind","pinyin":"","vi":"gió mạnh","ex":{"tokens":["A","strong","wind","blew","my","hat","off","."],"py":["","","","","","","","."],"vi":"Một cơn gió mạnh thổi bay mũ của tôi.","alts":[]}},
    {"id":"y3146-deep_sleep","hanzi":"deep sleep","pinyin":"","vi":"giấc ngủ sâu","ex":{"tokens":["The","baby","is","in","a","deep","sleep","."],"py":["","","","","","","","."],"vi":"Em bé đang ngủ say.","alts":[]}}
   ]},
-  {"id":"y3147","title":"Cụm từ thông dụng khác 3","desc":"Fall, tell, give, lose, set và cặp tính từ - danh từ","icon":"Pairs","unit":358,"course":"en","order":3820,"words":[
+  {"id":"y3147","title":"Cụm từ thông dụng khác 3","desc":"Fall, tell, give, lose, set và cặp tính từ - danh từ","icon":"Pairs","unit":358,"course":"en","order":3850,"words":[
    {"id":"y3147-fast_food","hanzi":"fast food","pinyin":"","vi":"đồ ăn nhanh","ex":{"tokens":["Too","much","fast","food","is","unhealthy","."],"py":["","","","","","","."],"vi":"Ăn quá nhiều đồ ăn nhanh không tốt cho sức khỏe.","alts":[]}},
    {"id":"y3147-quick_shower","hanzi":"quick shower","pinyin":"","vi":"tắm nhanh","ex":{"tokens":["I","will","have","a","quick","shower","."],"py":["","","","","","","."],"vi":"Tôi sẽ tắm nhanh một cái.","alts":[]}},
    {"id":"y3147-bright_idea","hanzi":"bright idea","pinyin":"","vi":"ý tưởng hay","ex":{"tokens":["Whose","bright","idea","was","this","?"],"py":["","","","","","?"],"vi":"Ý tưởng hay này là của ai?","alts":[]}},
@@ -107,7 +107,7 @@
    {"id":"y3147-sound_asleep","hanzi":"sound asleep","pinyin":"","vi":"ngủ say","ex":{"tokens":["The","children","are","sound","asleep","."],"py":["","","","","","."],"vi":"Bọn trẻ đang ngủ say.","alts":[]}},
    {"id":"y3147-cross_your_mind","hanzi":"cross your mind","pinyin":"","vi":"thoáng qua trong đầu","ex":{"tokens":["Did","it","ever","cross","your","mind","to","call","?"],"py":["","","","","","","","","?"],"vi":"Bạn có bao giờ thoáng nghĩ đến việc gọi điện không?","alts":[]}}
   ]},
-  {"id":"y3148","title":"Tiền bạc hằng ngày 1","desc":"Ngân hàng, mua sắm, hóa đơn","icon":"Money","unit":358,"course":"en","order":3830,"words":[
+  {"id":"y3148","title":"Tiền bạc hằng ngày 1","desc":"Ngân hàng, mua sắm, hóa đơn","icon":"Money","unit":358,"course":"en","order":3860,"words":[
    {"id":"y3148-cash_machine","hanzi":"cash machine","pinyin":"","vi":"máy rút tiền","ex":{"tokens":["Is","there","a","cash","machine","near","here","?"],"py":["","","","","","","","?"],"vi":"Gần đây có máy rút tiền không?","alts":[]}},
    {"id":"y3148-bank_account","hanzi":"bank account","pinyin":"","vi":"tài khoản ngân hàng","ex":{"tokens":["I","opened","a","bank","account","today","."],"py":["","","","","","","."],"vi":"Hôm nay tôi mở một tài khoản ngân hàng.","alts":[]}},
    {"id":"y3148-savings_account","hanzi":"savings account","pinyin":"","vi":"tài khoản tiết kiệm","ex":{"tokens":["She","puts","money","in","a","savings","account","every","month","."],"py":["","","","","","","","","","."],"vi":"Tháng nào cô ấy cũng gửi tiền vào tài khoản tiết kiệm.","alts":[]}},
@@ -123,7 +123,7 @@
    {"id":"y3148-tracking_number","hanzi":"tracking number","pinyin":"","vi":"mã vận đơn","ex":{"tokens":["Use","the","tracking","number","to","follow","your","parcel","."],"py":["","","","","","","","","."],"vi":"Hãy dùng mã vận đơn để theo dõi bưu kiện.","alts":[]}},
    {"id":"y3148-bargain_hunter","hanzi":"bargain hunter","pinyin":"","vi":"người săn hàng giá rẻ","ex":{"tokens":["My","mother","is","a","real","bargain","hunter","."],"py":["","","","","","","","."],"vi":"Mẹ tôi đúng là người săn hàng giá rẻ.","alts":[]}}
   ]},
-  {"id":"y3149","title":"Tiền bạc hằng ngày 2","desc":"Ngân hàng, mua sắm, hóa đơn","icon":"Money","unit":358,"course":"en","order":3840,"words":[
+  {"id":"y3149","title":"Tiền bạc hằng ngày 2","desc":"Ngân hàng, mua sắm, hóa đơn","icon":"Money","unit":358,"course":"en","order":3870,"words":[
    {"id":"y3149-impulse_buy","hanzi":"impulse buy","pinyin":"","vi":"món mua bốc đồng","ex":{"tokens":["These","shoes","were","an","impulse","buy","."],"py":["","","","","","","."],"vi":"Đôi giày này là một món mua bốc đồng.","alts":[]}},
    {"id":"y3149-price_drop","hanzi":"price drop","pinyin":"","vi":"đợt giảm giá","ex":{"tokens":["I","am","waiting","for","a","price","drop","."],"py":["","","","","","","","."],"vi":"Tôi đang chờ giá giảm.","alts":[]}},
    {"id":"y3149-special_offer","hanzi":"special offer","pinyin":"","vi":"ưu đãi đặc biệt","ex":{"tokens":["There","is","a","special","offer","on","coffee","this","week","."],"py":["","","","","","","","","","."],"vi":"Tuần này có ưu đãi đặc biệt cho cà phê.","alts":[]}},
@@ -139,7 +139,7 @@
    {"id":"y3149-electricity_bill","hanzi":"electricity bill","pinyin":"","vi":"hóa đơn tiền điện","ex":{"tokens":["The","electricity","bill","is","high","in","summer","."],"py":["","","","","","","","."],"vi":"Hóa đơn tiền điện cao vào mùa hè.","alts":[]}},
    {"id":"y3149-water_bill","hanzi":"water bill","pinyin":"","vi":"hóa đơn tiền nước","ex":{"tokens":["Have","you","paid","the","water","bill","?"],"py":["","","","","","","?"],"vi":"Bạn đã trả hóa đơn tiền nước chưa?","alts":[]}}
   ]},
-  {"id":"y3150","title":"Công nghệ hằng ngày 1","desc":"Điện thoại, ứng dụng, mạng","icon":"Devices","unit":358,"course":"en","order":3850,"words":[
+  {"id":"y3150","title":"Công nghệ hằng ngày 1","desc":"Điện thoại, ứng dụng, mạng","icon":"Devices","unit":358,"course":"en","order":3880,"words":[
    {"id":"y3150-home_screen","hanzi":"home screen","pinyin":"","vi":"màn hình chính","ex":{"tokens":["Put","the","app","on","your","home","screen","."],"py":["","","","","","","","."],"vi":"Hãy đặt ứng dụng lên màn hình chính.","alts":[]}},
    {"id":"y3150-lock_screen","hanzi":"lock screen","pinyin":"","vi":"màn hình khóa","ex":{"tokens":["The","time","shows","on","the","lock","screen","."],"py":["","","","","","","","."],"vi":"Giờ hiện trên màn hình khóa.","alts":[]}},
    {"id":"y3150-screen_saver","hanzi":"screen saver","pinyin":"","vi":"màn hình chờ","ex":{"tokens":["My","screen","saver","is","a","photo","of","the","sea","."],"py":["","","","","","","","","","."],"vi":"Màn hình chờ của tôi là ảnh biển.","alts":[]}},

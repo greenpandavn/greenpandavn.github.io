@@ -679,7 +679,8 @@ finish line|vạch đích|She crossed the finish line first.|Cô ấy về đíc
 starting line|vạch xuất phát|The runners are at the starting line.|Các vận động viên đang ở vạch xuất phát.
 relay race|cuộc chạy tiếp sức|Our class won the relay race.|Lớp chúng tôi thắng cuộc chạy tiếp sức.
 
-@y2051|Thể thao 2|Bóng đá, điền kinh, sân bãi|Sports
+%254|2|Phần 4: Mở rộng – Thể thao|Thể thao, Thời tiết và sức khỏe, Việc nhà|coral
+@y2061|Thể thao 2|Bóng đá, điền kinh, sân bãi|Sports
 jumping jack|động tác bật nhảy dang tay chân|Start with a jumping jack to warm up.|Hãy bắt đầu bằng động tác bật nhảy dang tay chân để khởi động.
 boxing ring|võ đài quyền anh|Two fighters stood in the boxing ring.|Hai võ sĩ đứng trên võ đài.
 punching bag|bao cát|He hits the punching bag every morning.|Sáng nào anh ấy cũng đấm bao cát.
@@ -692,6 +693,54 @@ golf club|gậy đánh gôn; câu lạc bộ gôn|He swung the golf club.|Ông �
 ice rink|sân trượt băng|We skated at the ice rink.|Chúng tôi trượt băng ở sân băng.
 roller skating|trượt patin|Roller skating is fun.|Trượt patin rất vui.
 cycling race|cuộc đua xe đạp|The cycling race passes our town.|Cuộc đua xe đạp đi qua thị trấn của chúng tôi.
+
+@y2062|Thời tiết và sức khỏe 1|Thời tiết hằng ngày, ốm đau lặt vặt|Weather
+window cleaner|người lau cửa kính|The window cleaner comes once a month.|Người lau cửa kính đến mỗi tháng một lần.
+shopkeeper|chủ cửa hàng|The shopkeeper gave me a discount.|Chủ cửa hàng giảm giá cho tôi.
+roofer|thợ lợp mái|A roofer fixed the leak.|Một người thợ lợp mái sửa chỗ dột.
+traffic warden|nhân viên kiểm soát đỗ xe|A traffic warden gave me a ticket.|Một nhân viên kiểm soát đỗ xe phạt tôi.
+sunny spell|khoảng trời nắng|There will be a sunny spell in the afternoon.|Buổi chiều sẽ có lúc trời nắng.
+rain shower|cơn mưa rào|We got caught in a rain shower.|Chúng tôi gặp một cơn mưa rào.
+snowstorm|bão tuyết|The snowstorm closed the airport.|Bão tuyết khiến sân bay đóng cửa.
+light rain|mưa nhỏ|There is light rain this morning.|Sáng nay có mưa nhỏ.
+thick fog|sương mù dày đặc|Thick fog covered the road.|Sương mù dày đặc phủ kín con đường.
+weather forecast|dự báo thời tiết|The weather forecast says it will rain.|Dự báo thời tiết nói trời sẽ mưa.
+below zero|dưới không độ|It was ten degrees below zero.|Trời lạnh âm mười độ.
+wind speed|tốc độ gió|The wind speed is rising.|Tốc độ gió đang tăng.
+storm cloud|mây giông|A dark storm cloud is coming.|Một đám mây giông đen đang kéo đến.
+umbrella stand|giá để ô|Leave your umbrella in the umbrella stand.|Hãy để ô vào giá để ô.
+
+@y2063|Thời tiết và sức khỏe 2|Thời tiết hằng ngày, ốm đau lặt vặt|Weather
+high temperature|sốt cao; nhiệt độ cao|The baby has a high temperature.|Em bé bị sốt cao.
+nose bleed|chảy máu cam|He had a nose bleed at school.|Cậu ấy bị chảy máu cam ở trường.
+bump|cục u; va vào|I have a bump on my head.|Tôi có một cục u trên đầu.
+splinter|cái dằm|I have a splinter in my finger.|Tôi bị dằm đâm vào ngón tay.
+insect bite|vết côn trùng cắn|Put some cream on the insect bite.|Hãy bôi ít kem lên vết côn trùng cắn.
+sick note|giấy xin nghỉ ốm|The doctor wrote me a sick note.|Bác sĩ viết cho tôi giấy xin nghỉ ốm.
+get well soon|chúc chóng khỏe|Get well soon, Grandma!|Bà chóng khỏe nhé!
+go to the doctor|đi khám bác sĩ|You should go to the doctor.|Bạn nên đi khám bác sĩ.
+take medicine|uống thuốc|Take medicine after meals.|Hãy uống thuốc sau bữa ăn.
+stay in bed|nằm nghỉ trên giường|The doctor told me to stay in bed.|Bác sĩ bảo tôi nằm nghỉ trên giường.
+feel better|thấy khỏe hơn|I hope you feel better soon.|Mong bạn sớm thấy khỏe hơn.
+feel sick|thấy buồn nôn, thấy ốm|I feel sick on boats.|Tôi thấy buồn nôn khi đi tàu thuyền.
+feel dizzy|thấy chóng mặt|I feel dizzy when I stand up fast.|Tôi thấy chóng mặt khi đứng dậy nhanh.
+lie down|nằm xuống|Lie down and close your eyes.|Hãy nằm xuống và nhắm mắt lại.
+
+@y2064|Việc nhà|Dọn dẹp, giặt giũ, sửa chữa|Chores
+do the ironing|là quần áo|I do the ironing on Sunday.|Tôi là quần áo vào Chủ nhật.
+do the washing-up|rửa bát|It is your turn to do the washing-up.|Đến lượt bạn rửa bát.
+do the vacuuming|hút bụi|Can you do the vacuuming today?|Hôm nay bạn hút bụi được không?
+do the dusting|lau bụi|I do the dusting once a week.|Tôi lau bụi mỗi tuần một lần.
+load the dishwasher|xếp bát đĩa vào máy rửa bát|Please load the dishwasher after dinner.|Hãy xếp bát đĩa vào máy rửa bát sau bữa tối.
+hang out the washing|phơi quần áo|I hang out the washing on the balcony.|Tôi phơi quần áo ngoài ban công.
+fold the clothes|gấp quần áo|Help me fold the clothes.|Hãy giúp tôi gấp quần áo.
+feed the cat|cho mèo ăn|Do not forget to feed the cat.|Đừng quên cho mèo ăn.
+sweep the floor|quét nhà|I sweep the floor every morning.|Sáng nào tôi cũng quét nhà.
+mop the floor|lau nhà|Mop the floor after you sweep.|Hãy lau nhà sau khi quét.
+clean the windows|lau cửa sổ|We clean the windows in spring.|Chúng tôi lau cửa sổ vào mùa xuân.
+tidy your room|dọn phòng|Tidy your room before you go out.|Hãy dọn phòng trước khi ra ngoài.
+wipe the table|lau bàn|Wipe the table after you eat.|Hãy lau bàn sau khi ăn.
+go grocery shopping|đi mua thực phẩm|We go grocery shopping on Saturday.|Chúng tôi đi mua thực phẩm vào thứ Bảy.
 
 %351|3|Phần 1: Mở rộng – Kỹ thuật nấu nướng|Kỹ thuật nấu nướng, Dụng cụ nhà bếp, Gia vị và nguyên liệu, Rau củ và trái cây|leaf
 @y3001|Kỹ thuật nấu nướng 1|Các cách chế biến món ăn|Cook
@@ -3394,7 +3443,7 @@ police raid|cuộc đột kích của cảnh sát|Ten people were arrested in a 
 getaway car|xe tẩu thoát|The robbers left in a getaway car.|Bọn cướp tẩu thoát trên một chiếc xe.
 loitering|la cà, lảng vảng|A sign says "No loitering".|Tấm biển ghi "Cấm la cà".
 
-%460|4|Phần 10: Mở rộng – Lịch sử|Lịch sử, Xã hội, Từ vựng tổng hợp|sun
+%460|4|Phần 10: Mở rộng – Lịch sử|Lịch sử, Xã hội, Nghệ thuật và sân khấu, Công sở, Tính từ ghép tả tính cách|sun
 @y4181|Lịch sử 1|Thời kỳ, chế độ, chiến tranh, di tích|History
 Stone Age|thời kỳ đồ đá|People in the Stone Age used stone tools.|Con người thời kỳ đồ đá dùng công cụ bằng đá.
 Bronze Age|thời kỳ đồ đồng|The sword dates from the Bronze Age.|Thanh kiếm có từ thời kỳ đồ đồng.
@@ -3475,7 +3524,103 @@ indigenous people|người bản địa|The land belongs to indigenous people.|V
 grassroots|cơ sở, từ quần chúng|It began as a grassroots campaign.|Nó bắt đầu như một chiến dịch từ quần chúng.
 nonprofit|phi lợi nhuận; tổ chức phi lợi nhuận|She works for a nonprofit.|Cô ấy làm cho một tổ chức phi lợi nhuận.
 
-@y4186|Từ vựng tổng hợp|Từ thuộc nhiều chủ đề|Mix
+@y4186|Nghệ thuật và sân khấu 1|Hội họa, âm nhạc, sân khấu, điện ảnh|Stage
+landscape painting|tranh phong cảnh|She bought a landscape painting of the coast.|Cô ấy mua một bức tranh phong cảnh vùng biển.
+brushstroke|nét cọ|Every brushstroke is visible.|Từng nét cọ đều nhìn thấy rõ.
+art gallery|phòng trưng bày nghệ thuật|We spent the afternoon in an art gallery.|Chúng tôi dành buổi chiều ở một phòng trưng bày nghệ thuật.
+art dealer|người buôn tranh|The art dealer sold the painting for a million dollars.|Người buôn tranh bán bức tranh với giá một triệu đô la.
+auction house|nhà đấu giá|The vase was sold at an auction house.|Chiếc bình được bán tại một nhà đấu giá.
+abstract art|nghệ thuật trừu tượng|I do not understand abstract art.|Tôi không hiểu nghệ thuật trừu tượng.
+surrealism|chủ nghĩa siêu thực|Dali is a master of surrealism.|Dali là bậc thầy của chủ nghĩa siêu thực.
+pop art|nghệ thuật đại chúng|Warhol made pop art famous.|Warhol làm cho nghệ thuật đại chúng nổi tiếng.
+street art|nghệ thuật đường phố|The area is known for its street art.|Khu này nổi tiếng với nghệ thuật đường phố.
+installation|tác phẩm sắp đặt; sự lắp đặt|The artist built a light installation in the park.|Nghệ sĩ dựng một tác phẩm sắp đặt ánh sáng trong công viên.
+orchestra pit|khoang nhạc (dưới sân khấu)|The musicians sat in the orchestra pit.|Các nhạc công ngồi trong khoang nhạc.
+string quartet|tứ tấu đàn dây|A string quartet played at the wedding.|Một nhóm tứ tấu đàn dây chơi trong đám cưới.
+opera house|nhà hát opera|The opera house in Hanoi is beautiful.|Nhà hát Lớn Hà Nội rất đẹp.
+chord progression|vòng hợp âm|The song uses a simple chord progression.|Bài hát dùng một vòng hợp âm đơn giản.
+
+@y4187|Nghệ thuật và sân khấu 2|Hội họa, âm nhạc, sân khấu, điện ảnh|Stage
+sheet music|bản nhạc in|She can play without sheet music.|Cô ấy có thể chơi mà không cần bản nhạc.
+music stand|giá để bản nhạc|Put the notes on the music stand.|Hãy đặt bản nhạc lên giá.
+opening night|đêm công diễn đầu tiên|The actors were nervous on opening night.|Các diễn viên hồi hộp trong đêm công diễn đầu tiên.
+dress rehearsal|buổi tổng duyệt|The dress rehearsal went badly.|Buổi tổng duyệt diễn ra không suôn sẻ.
+stage fright|chứng sợ sân khấu|Even famous singers get stage fright.|Ngay cả ca sĩ nổi tiếng cũng sợ sân khấu.
+set design|thiết kế sân khấu, bối cảnh|The set design won an award.|Thiết kế bối cảnh đoạt giải thưởng.
+costume designer|nhà thiết kế phục trang|The costume designer made forty dresses.|Nhà thiết kế phục trang may bốn mươi chiếc váy.
+makeup artist|chuyên viên trang điểm|The makeup artist made him look old.|Chuyên viên trang điểm khiến anh ấy trông già đi.
+stunt double|diễn viên đóng thế|A stunt double did the jump.|Một diễn viên đóng thế thực hiện cú nhảy.
+leading role|vai chính|She plays the leading role.|Cô ấy đóng vai chính.
+supporting role|vai phụ|He won an award for a supporting role.|Anh ấy đoạt giải cho một vai phụ.
+film crew|đoàn làm phim|A film crew is working in our street.|Một đoàn làm phim đang quay trên phố chúng tôi.
+box office hit|phim ăn khách|The comedy was a box office hit.|Bộ phim hài là một phim ăn khách.
+trilogy|bộ ba tác phẩm|I have read the whole trilogy.|Tôi đã đọc hết bộ ba tác phẩm.
+
+@y4188|Công sở 1|Tuyển dụng, chế độ, chức danh|Office
+job interview|buổi phỏng vấn xin việc|I have a job interview tomorrow.|Ngày mai tôi có buổi phỏng vấn xin việc.
+job title|chức danh|What is your job title?|Chức danh của bạn là gì?
+job security|sự ổn định việc làm|Teachers have good job security.|Giáo viên có việc làm ổn định.
+job satisfaction|sự hài lòng trong công việc|Job satisfaction matters more than pay.|Sự hài lòng trong công việc quan trọng hơn lương.
+career path|con đường sự nghiệp|She chose a career path in law.|Cô ấy chọn con đường sự nghiệp ngành luật.
+career break|quãng nghỉ giữa sự nghiệp|He took a career break to travel.|Anh ấy tạm nghỉ việc một thời gian để đi du lịch.
+work experience|kinh nghiệm làm việc|The job requires two years of work experience.|Công việc yêu cầu hai năm kinh nghiệm.
+work permit|giấy phép lao động|Foreigners need a work permit.|Người nước ngoài cần giấy phép lao động.
+work ethic|đạo đức nghề nghiệp, tinh thần làm việc|She has a strong work ethic.|Cô ấy có tinh thần làm việc cao.
+working hours|giờ làm việc|My working hours are nine to five.|Giờ làm việc của tôi là từ chín giờ đến năm giờ.
+shift work|làm việc theo ca|Shift work is hard on the body.|Làm việc theo ca rất hại sức.
+flexitime|giờ làm việc linh hoạt|The company offers flexitime.|Công ty áp dụng giờ làm việc linh hoạt.
+remote work|làm việc từ xa|Remote work saves travel time.|Làm việc từ xa tiết kiệm thời gian đi lại.
+home office|phòng làm việc tại nhà|I turned the spare room into a home office.|Tôi biến phòng trống thành phòng làm việc tại nhà.
+
+@y4189|Công sở 2|Tuyển dụng, chế độ, chức danh|Office
+open-plan office|văn phòng không gian mở|An open-plan office can be noisy.|Văn phòng không gian mở có thể ồn ào.
+meeting room|phòng họp|The meeting room is booked until noon.|Phòng họp đã được đặt đến trưa.
+team meeting|cuộc họp nhóm|We have a team meeting every Monday.|Thứ Hai nào chúng tôi cũng họp nhóm.
+pay scale|thang lương|She is at the top of the pay scale.|Cô ấy ở mức cao nhất của thang lương.
+bonus scheme|chế độ thưởng|The firm has a generous bonus scheme.|Công ty có chế độ thưởng hậu hĩnh.
+unpaid leave|nghỉ không lương|He took a month of unpaid leave.|Anh ấy nghỉ không lương một tháng.
+notice period|thời gian báo trước khi nghỉ việc|My notice period is thirty days.|Thời gian báo trước của tôi là ba mươi ngày.
+resignation letter|đơn xin nghỉ việc|She handed in her resignation letter.|Cô ấy nộp đơn xin nghỉ việc.
+line manager|quản lý trực tiếp|Speak to your line manager first.|Hãy nói với quản lý trực tiếp của bạn trước.
+team leader|trưởng nhóm|The team leader set the deadline.|Trưởng nhóm đặt ra hạn chót.
+department head|trưởng phòng|The department head approved the budget.|Trưởng phòng duyệt ngân sách.
+board member|thành viên hội đồng quản trị|She became a board member last year.|Năm ngoái bà ấy trở thành thành viên hội đồng quản trị.
+business trip|chuyến công tác|He is on a business trip to Singapore.|Anh ấy đang đi công tác ở Singapore.
+expense claim|đề nghị thanh toán chi phí|Send your expense claim to finance.|Hãy gửi đề nghị thanh toán chi phí cho phòng tài chính.
+
+@y4190|Tính từ ghép tả tính cách 1|Tính từ ghép miêu tả con người|Character
+level-headed|điềm tĩnh, sáng suốt|We need a level-headed leader.|Chúng ta cần một người lãnh đạo điềm tĩnh.
+laid-back|thoải mái, ung dung|My boss is very laid-back.|Sếp tôi rất thoải mái.
+open-minded|cởi mở|Travel makes you more open-minded.|Du lịch khiến bạn cởi mở hơn.
+narrow-minded|hẹp hòi, thiển cận|Do not be so narrow-minded.|Đừng hẹp hòi như vậy.
+broad-minded|có tư tưởng rộng rãi|Her parents are quite broad-minded.|Bố mẹ cô ấy có tư tưởng khá rộng rãi.
+strong-willed|ý chí mạnh mẽ|She is a strong-willed child.|Cô bé là một đứa trẻ có ý chí mạnh mẽ.
+weak-willed|thiếu ý chí|He is too weak-willed to quit smoking.|Anh ta quá thiếu ý chí để bỏ thuốc.
+self-confident|tự tin|She is a self-confident speaker.|Cô ấy là một diễn giả tự tin.
+self-conscious|ngượng ngùng, e dè|He feels self-conscious about his accent.|Anh ấy e dè về giọng nói của mình.
+self-centered|ích kỷ, chỉ nghĩ đến mình|He is too self-centered to notice.|Anh ta quá ích kỷ nên chẳng để ý.
+self-reliant|tự lực|Living alone made her self-reliant.|Sống một mình khiến cô ấy tự lực.
+self-disciplined|có kỷ luật tự giác|You must be self-disciplined to study online.|Bạn phải có kỷ luật tự giác để học trực tuyến.
+well-behaved|ngoan ngoãn|The children were well-behaved all day.|Bọn trẻ ngoan ngoãn cả ngày.
+well-mannered|lịch sự, có phép tắc|He is a well-mannered young man.|Anh ấy là một chàng trai lịch sự.
+
+@y4191|Tính từ ghép tả tính cách 2|Tính từ ghép miêu tả con người|Character
+bad-tempered|nóng nảy, hay cáu|He is bad-tempered in the morning.|Buổi sáng ông ấy hay cáu.
+good-natured|tốt tính, hiền hậu|Our dog is big but good-natured.|Con chó nhà tôi to nhưng hiền.
+kind-hearted|tốt bụng|A kind-hearted neighbor helped us.|Một người hàng xóm tốt bụng đã giúp chúng tôi.
+warm-hearted|ấm áp, giàu tình cảm|She is a warm-hearted teacher.|Cô ấy là một giáo viên giàu tình cảm.
+cold-hearted|lạnh lùng, vô cảm|It was a cold-hearted decision.|Đó là một quyết định lạnh lùng.
+hot-headed|nóng nảy, bốc đồng|He was hot-headed when he was young.|Hồi trẻ ông ấy rất bốc đồng.
+big-headed|tự cao|Winning has made him big-headed.|Chiến thắng làm anh ta tự cao.
+thick-skinned|mặt dày, không dễ tự ái|Politicians need to be thick-skinned.|Chính trị gia cần phải không dễ tự ái.
+thin-skinned|dễ tự ái|He is too thin-skinned to take a joke.|Anh ấy quá dễ tự ái nên không chịu được đùa.
+tight-fisted|keo kiệt|My uncle is tight-fisted with money.|Chú tôi keo kiệt chuyện tiền nong.
+two-faced|hai mặt|I do not trust her; she is two-faced.|Tôi không tin cô ta; cô ta hai mặt.
+quick-witted|nhanh trí|The quick-witted host saved the show.|Người dẫn chương trình nhanh trí đã cứu buổi diễn.
+sharp-tongued|ăn nói sắc sảo, chua ngoa|She is a sharp-tongued critic.|Bà ấy là một nhà phê bình chua ngoa.
+soft-spoken|ăn nói nhỏ nhẹ|He is a soft-spoken man.|Ông ấy là người ăn nói nhỏ nhẹ.
+
+@y4192|Từ vựng tổng hợp 1|Từ thuộc nhiều chủ đề|Mix
 solvency|khả năng thanh toán|The auditors checked the solvency of the firm.|Kiểm toán viên kiểm tra khả năng thanh toán của công ty.
 rosary|chuỗi tràng hạt|She held a rosary while she prayed.|Bà ấy cầm chuỗi tràng hạt khi cầu nguyện.
 alliteration|phép điệp âm đầu|The poem uses alliteration in every line.|Bài thơ dùng phép điệp âm ở mọi dòng.
@@ -3490,6 +3635,22 @@ hieroglyph|chữ tượng hình (Ai Cập)|Each hieroglyph stands for a word or 
 oral tradition|truyền thống truyền miệng|The story survived through oral tradition.|Câu chuyện còn lại nhờ truyền miệng.
 ancestor worship|tục thờ cúng tổ tiên|Ancestor worship is common in Vietnam.|Tục thờ cúng tổ tiên phổ biến ở Việt Nam.
 charity work|công việc từ thiện|He does charity work at weekends.|Anh ấy làm từ thiện vào cuối tuần.
+
+@y4193|Từ vựng tổng hợp 2|Từ thuộc nhiều chủ đề|Mix
+philanthropy|hoạt động từ thiện (quy mô lớn)|The hospital was built through philanthropy.|Bệnh viện được xây nhờ hoạt động từ thiện.
+volunteerism|tinh thần tình nguyện|Volunteerism is strong among students.|Tinh thần tình nguyện rất mạnh trong sinh viên.
+spin-off|phần ngoại truyện|The series got a spin-off.|Loạt phim có thêm phần ngoại truyện.
+remake|bản làm lại|The remake is worse than the original.|Bản làm lại dở hơn bản gốc.
+film festival|liên hoan phim|The film won a prize at a film festival.|Bộ phim đoạt giải tại một liên hoan phim.
+red carpet|thảm đỏ|The stars walked the red carpet.|Các ngôi sao bước trên thảm đỏ.
+company car|xe công ty|The job comes with a company car.|Công việc này được cấp xe công ty.
+staff discount|giảm giá cho nhân viên|I get a staff discount on clothes.|Tôi được giảm giá nhân viên khi mua quần áo.
+office politics|chuyện đấu đá nơi công sở|I try to stay out of office politics.|Tôi cố tránh xa chuyện đấu đá nơi công sở.
+glass ceiling|rào cản vô hình (ngăn thăng tiến)|She broke the glass ceiling in banking.|Bà ấy phá vỡ rào cản vô hình trong ngành ngân hàng.
+deadline pressure|áp lực hạn chót|He works well under deadline pressure.|Anh ấy làm việc tốt dưới áp lực hạn chót.
+shareholder meeting|cuộc họp cổ đông|The plan was approved at the shareholder meeting.|Kế hoạch được thông qua tại cuộc họp cổ đông.
+big-hearted|rộng lượng|He is a big-hearted man.|Ông ấy là người rộng lượng.
+light-hearted|vui vẻ, nhẹ nhàng|It is a light-hearted comedy.|Đó là một bộ phim hài nhẹ nhàng.
 
 %551|5|Phần 1: Mở rộng – Giải phẫu cơ thể|Giải phẫu cơ thể, Bệnh lý, Thủ thuật và thiết bị y khoa, Thực vật học, Động vật học|leaf
 @y5001|Giải phẫu cơ thể 1|Xương, nội tạng, các phần trên cơ thể|Anatomy

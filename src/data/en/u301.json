@@ -1,9 +1,9 @@
 {
  "units": [
-  {"unit":301,"level":3,"title":"Phần 23: Công việc và sự nghiệp","desc":"Xin việc, văn phòng, kinh doanh, tài chính, học thuật","color":"leaf","course":"en"}
+  {"unit":301,"level":3,"title":"Phần 24: Công việc và sự nghiệp","desc":"Xin việc, văn phòng, kinh doanh, tài chính, học thuật","color":"leaf","course":"en"}
  ],
  "lessons": [
-  {"id":"a01","title":"Xin việc","desc":"Hồ sơ, phỏng vấn, ứng viên, tuyển dụng","icon":"CV","unit":301,"course":"en","order":2150,"words":[
+  {"id":"a01","title":"Xin việc","desc":"Hồ sơ, phỏng vấn, ứng viên, tuyển dụng","icon":"CV","unit":301,"course":"en","order":2180,"words":[
    {"id":"a01-apply","hanzi":"apply","pinyin":"","vi":"nộp đơn, ứng tuyển","ex":{"tokens":["I","want","to","apply","for","this","job","."],"py":["","","","","","","","."],"vi":"Tôi muốn ứng tuyển công việc này.","alts":[]}},
    {"id":"a01-resume","hanzi":"resume","pinyin":"","vi":"sơ yếu lý lịch","ex":{"tokens":["Please","send","your","resume","by","email","."],"py":["","","","","","","."],"vi":"Vui lòng gửi sơ yếu lý lịch của bạn qua email.","alts":[]}},
    {"id":"a01-interview","hanzi":"interview","pinyin":"","vi":"buổi phỏng vấn","ex":{"tokens":["My","interview","is","on","Monday","morning","."],"py":["","","","","","","."],"vi":"Buổi phỏng vấn của tôi vào sáng thứ Hai.","alts":[]}},
@@ -17,7 +17,7 @@
    {"id":"a01-application","hanzi":"application","pinyin":"","vi":"đơn xin, đơn ứng tuyển","ex":{"tokens":["I","sent","my","application","last","week","."],"py":["","","","","","","."],"vi":"Tôi đã gửi đơn ứng tuyển tuần trước.","alts":[]}},
    {"id":"a01-contract","hanzi":"contract","pinyin":"","vi":"hợp đồng","ex":{"tokens":["Please","read","the","contract","carefully","."],"py":["","","","","","."],"vi":"Vui lòng đọc hợp đồng cẩn thận.","alts":[]}}
   ]},
-  {"id":"a02","title":"Nơi làm việc","desc":"Đồng nghiệp, phòng ban, ca làm, thăng chức","icon":"Job","unit":301,"course":"en","order":2160,"words":[
+  {"id":"a02","title":"Nơi làm việc","desc":"Đồng nghiệp, phòng ban, ca làm, thăng chức","icon":"Job","unit":301,"course":"en","order":2190,"words":[
    {"id":"a02-colleague","hanzi":"colleague","pinyin":"","vi":"đồng nghiệp","ex":{"tokens":["My","colleague","helped","me","with","the","report","."],"py":["","","","","","","","."],"vi":"Đồng nghiệp của tôi đã giúp tôi làm báo cáo.","alts":[]}},
    {"id":"a02-department","hanzi":"department","pinyin":"","vi":"phòng ban, bộ phận","ex":{"tokens":["She","works","in","the","sales","department","."],"py":["","","","","","","."],"vi":"Cô ấy làm việc ở bộ phận bán hàng.","alts":[]}},
    {"id":"a02-staff","hanzi":"staff","pinyin":"","vi":"nhân viên, đội ngũ","ex":{"tokens":["The","hotel","staff","are","very","friendly","."],"py":["","","","","","","."],"vi":"Nhân viên khách sạn rất thân thiện.","alts":[]}},
@@ -31,7 +31,7 @@
    {"id":"a02-workplace","hanzi":"workplace","pinyin":"","vi":"nơi làm việc","ex":{"tokens":["Our","workplace","is","clean","and","safe","."],"py":["","","","","","","."],"vi":"Nơi làm việc của chúng tôi sạch sẽ và an toàn.","alts":[]}},
    {"id":"a02-supervisor","hanzi":"supervisor","pinyin":"","vi":"người giám sát, quản lý trực tiếp","ex":{"tokens":["Ask","your","supervisor","before","you","leave","."],"py":["","","","","","","."],"vi":"Hãy hỏi người giám sát của bạn trước khi về.","alts":[]}}
   ]},
-  {"id":"a03","title":"Công việc văn phòng","desc":"Hạn chót, báo cáo, tài liệu, lịch làm việc","icon":"Doc","unit":301,"course":"en","order":2170,"words":[
+  {"id":"a03","title":"Công việc văn phòng","desc":"Hạn chót, báo cáo, tài liệu, lịch làm việc","icon":"Doc","unit":301,"course":"en","order":2200,"words":[
    {"id":"a03-deadline","hanzi":"deadline","pinyin":"","vi":"hạn chót","ex":{"tokens":["The","deadline","is","this","Friday","."],"py":["","","","","","."],"vi":"Hạn chót là thứ Sáu này.","alts":[]}},
    {"id":"a03-schedule","hanzi":"schedule","pinyin":"","vi":"lịch trình, lịch làm việc","ex":{"tokens":["My","schedule","is","full","today","."],"py":["","","","","","."],"vi":"Lịch làm việc của tôi hôm nay kín rồi.","alts":[]}},
    {"id":"a03-report","hanzi":"report","pinyin":"","vi":"báo cáo","ex":{"tokens":["I","must","finish","this","report","tonight","."],"py":["","","","","","","."],"vi":"Tôi phải hoàn thành báo cáo này tối nay.","alts":[]}},
@@ -45,7 +45,7 @@
    {"id":"a03-postpone","hanzi":"postpone","pinyin":"","vi":"hoãn lại","ex":{"tokens":["They","will","postpone","the","trip","until","May","."],"py":["","","","","","","","."],"vi":"Họ sẽ hoãn chuyến đi đến tháng Năm.","alts":[]}},
    {"id":"a03-task","hanzi":"task","pinyin":"","vi":"nhiệm vụ, công việc","ex":{"tokens":["This","task","takes","about","two","hours","."],"py":["","","","","","","."],"vi":"Nhiệm vụ này mất khoảng hai tiếng.","alts":[]}}
   ]},
-  {"id":"a04","title":"Kinh doanh","desc":"Lợi nhuận, khách hàng, sản phẩm, cạnh tranh","icon":"Biz","unit":301,"course":"en","order":2180,"words":[
+  {"id":"a04","title":"Kinh doanh","desc":"Lợi nhuận, khách hàng, sản phẩm, cạnh tranh","icon":"Biz","unit":301,"course":"en","order":2210,"words":[
    {"id":"a04-profit","hanzi":"profit","pinyin":"","vi":"lợi nhuận","ex":{"tokens":["The","shop","made","a","good","profit","this","year","."],"py":["","","","","","","","","."],"vi":"Cửa hàng đã có lợi nhuận tốt trong năm nay.","alts":[]}},
    {"id":"a04-loss","hanzi":"loss","pinyin":"","vi":"sự thua lỗ, mất mát","ex":{"tokens":["The","company","had","a","big","loss","last","year","."],"py":["","","","","","","","","."],"vi":"Công ty đã thua lỗ lớn vào năm ngoái.","alts":[]}},
    {"id":"a04-product","hanzi":"product","pinyin":"","vi":"sản phẩm","ex":{"tokens":["This","product","is","made","in","Vietnam","."],"py":["","","","","","","."],"vi":"Sản phẩm này được sản xuất tại Việt Nam.","alts":[]}},
@@ -59,7 +59,7 @@
    {"id":"a04-demand","hanzi":"demand","pinyin":"","vi":"nhu cầu","ex":{"tokens":["There","is","a","high","demand","for","electric","cars","."],"py":["","","","","","","","","."],"vi":"Có nhu cầu cao về xe điện.","alts":[]}},
    {"id":"a04-partner","hanzi":"partner","pinyin":"","vi":"đối tác, bạn đời","ex":{"tokens":["He","is","my","business","partner","."],"py":["","","","","","."],"vi":"Anh ấy là đối tác kinh doanh của tôi.","alts":[]}}
   ]},
-  {"id":"a05","title":"Tài chính cá nhân","desc":"Thu nhập, chi phí, tiết kiệm, nợ, thuế","icon":"$$","unit":301,"course":"en","order":2190,"words":[
+  {"id":"a05","title":"Tài chính cá nhân","desc":"Thu nhập, chi phí, tiết kiệm, nợ, thuế","icon":"$$","unit":301,"course":"en","order":2220,"words":[
    {"id":"a05-income","hanzi":"income","pinyin":"","vi":"thu nhập","ex":{"tokens":["Her","income","is","higher","than","mine","."],"py":["","","","","","","."],"vi":"Thu nhập của cô ấy cao hơn của tôi.","alts":[]}},
    {"id":"a05-expense","hanzi":"expense","pinyin":"","vi":"chi phí, khoản chi","ex":{"tokens":["Rent","is","my","biggest","expense","."],"py":["","","","","","."],"vi":"Tiền thuê nhà là khoản chi lớn nhất của tôi.","alts":[]}},
    {"id":"a05-savings","hanzi":"savings","pinyin":"","vi":"tiền tiết kiệm","ex":{"tokens":["He","used","his","savings","to","buy","a","car","."],"py":["","","","","","","","","."],"vi":"Anh ấy đã dùng tiền tiết kiệm để mua ô tô.","alts":[]}},
@@ -73,7 +73,7 @@
    {"id":"a05-wealth","hanzi":"wealth","pinyin":"","vi":"sự giàu có, của cải","ex":{"tokens":["Health","is","more","important","than","wealth","."],"py":["","","","","","","."],"vi":"Sức khỏe quan trọng hơn của cải.","alts":[]}},
    {"id":"a05-owe","hanzi":"owe","pinyin":"","vi":"nợ","ex":{"tokens":["I","owe","my","brother","fifty","dollars","."],"py":["","","","","","","."],"vi":"Tôi nợ anh trai năm mươi đô la.","alts":[]}}
   ]},
-  {"id":"a06","title":"Kinh tế","desc":"Thị trường, thương mại, xuất nhập khẩu, giá trị","icon":"Eco","unit":301,"course":"en","order":2200,"words":[
+  {"id":"a06","title":"Kinh tế","desc":"Thị trường, thương mại, xuất nhập khẩu, giá trị","icon":"Eco","unit":301,"course":"en","order":2230,"words":[
    {"id":"a06-economy","hanzi":"economy","pinyin":"","vi":"nền kinh tế","ex":{"tokens":["The","economy","is","growing","fast","."],"py":["","","","","","."],"vi":"Nền kinh tế đang phát triển nhanh.","alts":[]}},
    {"id":"a06-trade","hanzi":"trade","pinyin":"","vi":"thương mại, buôn bán","ex":{"tokens":["Trade","between","the","two","countries","is","strong","."],"py":["","","","","","","","."],"vi":"Thương mại giữa hai nước rất mạnh.","alts":[]}},
    {"id":"a06-export","hanzi":"export","pinyin":"","vi":"xuất khẩu","ex":{"tokens":["Vietnam","is","able","to","export","a","lot","of","rice","."],"py":["","","","","","","","","","."],"vi":"Việt Nam có thể xuất khẩu rất nhiều gạo.","alts":[]}},
@@ -87,7 +87,7 @@
    {"id":"a06-unemployment","hanzi":"unemployment","pinyin":"","vi":"tình trạng thất nghiệp","ex":{"tokens":["Unemployment","is","low","in","this","city","."],"py":["","","","","","","."],"vi":"Tỷ lệ thất nghiệp ở thành phố này thấp.","alts":[]}},
    {"id":"a06-goods","hanzi":"goods","pinyin":"","vi":"hàng hóa","ex":{"tokens":["The","goods","will","arrive","by","ship","."],"py":["","","","","","","."],"vi":"Hàng hóa sẽ đến bằng tàu.","alts":[]}}
   ]},
-  {"id":"a07","title":"Tiếp thị và bán hàng","desc":"Quảng cáo, thương hiệu, người tiêu dùng","icon":"Ad","unit":301,"course":"en","order":2210,"words":[
+  {"id":"a07","title":"Tiếp thị và bán hàng","desc":"Quảng cáo, thương hiệu, người tiêu dùng","icon":"Ad","unit":301,"course":"en","order":2240,"words":[
    {"id":"a07-advertise","hanzi":"advertise","pinyin":"","vi":"quảng cáo","ex":{"tokens":["They","advertise","their","products","on","television","."],"py":["","","","","","","."],"vi":"Họ quảng cáo sản phẩm của mình trên tivi.","alts":[]}},
    {"id":"a07-advertisement","hanzi":"advertisement","pinyin":"","vi":"mẩu quảng cáo","ex":{"tokens":["I","saw","an","advertisement","for","a","new","phone","."],"py":["","","","","","","","","."],"vi":"Tôi đã thấy một quảng cáo về chiếc điện thoại mới.","alts":[]}},
    {"id":"a07-brand","hanzi":"brand","pinyin":"","vi":"thương hiệu","ex":{"tokens":["This","is","a","famous","brand","of","shoes","."],"py":["","","","","","","","."],"vi":"Đây là một thương hiệu giày nổi tiếng.","alts":[]}},
@@ -101,7 +101,7 @@
    {"id":"a07-target","hanzi":"target","pinyin":"","vi":"mục tiêu","ex":{"tokens":["Our","target","is","one","thousand","customers","."],"py":["","","","","","","."],"vi":"Mục tiêu của chúng tôi là một nghìn khách hàng.","alts":[]}},
    {"id":"a07-strategy","hanzi":"strategy","pinyin":"","vi":"chiến lược","ex":{"tokens":["We","need","a","better","strategy","."],"py":["","","","","","."],"vi":"Chúng ta cần một chiến lược tốt hơn.","alts":[]}}
   ]},
-  {"id":"a08","title":"Đàm phán","desc":"Đề nghị, thỏa thuận, điều kiện, từ chối","icon":"Deal","unit":301,"course":"en","order":2220,"words":[
+  {"id":"a08","title":"Đàm phán","desc":"Đề nghị, thỏa thuận, điều kiện, từ chối","icon":"Deal","unit":301,"course":"en","order":2250,"words":[
    {"id":"a08-negotiate","hanzi":"negotiate","pinyin":"","vi":"đàm phán, thương lượng","ex":{"tokens":["We","need","to","negotiate","a","better","price","."],"py":["","","","","","","","."],"vi":"Chúng ta cần thương lượng một mức giá tốt hơn.","alts":[]}},
    {"id":"a08-offer","hanzi":"offer","pinyin":"","vi":"đề nghị, lời mời","ex":{"tokens":["They","made","me","a","good","offer","."],"py":["","","","","","","."],"vi":"Họ đã đưa cho tôi một lời đề nghị tốt.","alts":[]}},
    {"id":"a08-accept","hanzi":"accept","pinyin":"","vi":"chấp nhận","ex":{"tokens":["I","accept","your","invitation","."],"py":["","","","","."],"vi":"Tôi nhận lời mời của bạn.","alts":[]}},
@@ -115,7 +115,7 @@
    {"id":"a08-benefit","hanzi":"benefit","pinyin":"","vi":"lợi ích","ex":{"tokens":["Free","lunch","is","a","benefit","of","this","job","."],"py":["","","","","","","","","."],"vi":"Bữa trưa miễn phí là một lợi ích của công việc này.","alts":[]}},
    {"id":"a08-convince","hanzi":"convince","pinyin":"","vi":"thuyết phục","ex":{"tokens":["I","tried","to","convince","him","to","stay","."],"py":["","","","","","","","."],"vi":"Tôi đã cố thuyết phục anh ấy ở lại.","alts":[]}}
   ]},
-  {"id":"a09","title":"Lãnh đạo","desc":"Trách nhiệm, quyết định, quyền hạn, động viên","icon":"Lead","unit":301,"course":"en","order":2230,"words":[
+  {"id":"a09","title":"Lãnh đạo","desc":"Trách nhiệm, quyết định, quyền hạn, động viên","icon":"Lead","unit":301,"course":"en","order":2260,"words":[
    {"id":"a09-leader","hanzi":"leader","pinyin":"","vi":"người lãnh đạo","ex":{"tokens":["A","good","leader","listens","to","people","."],"py":["","","","","","","."],"vi":"Một người lãnh đạo giỏi biết lắng nghe mọi người.","alts":[]}},
    {"id":"a09-lead","hanzi":"lead","pinyin":"","vi":"dẫn dắt, lãnh đạo","ex":{"tokens":["She","will","lead","the","new","team","."],"py":["","","","","","","."],"vi":"Cô ấy sẽ dẫn dắt nhóm mới.","alts":[]}},
    {"id":"a09-responsibility","hanzi":"responsibility","pinyin":"","vi":"trách nhiệm","ex":{"tokens":["It","is","my","responsibility","to","lock","the","door","."],"py":["","","","","","","","","."],"vi":"Khóa cửa là trách nhiệm của tôi.","alts":[]}},
@@ -129,7 +129,7 @@
    {"id":"a09-support","hanzi":"support","pinyin":"","vi":"ủng hộ, hỗ trợ","ex":{"tokens":["Thank","you","for","your","support","."],"py":["","","","","","."],"vi":"Cảm ơn sự ủng hộ của bạn.","alts":[]}},
    {"id":"a09-guide","hanzi":"guide","pinyin":"","vi":"hướng dẫn, người hướng dẫn","ex":{"tokens":["Our","guide","spoke","three","languages","."],"py":["","","","","","."],"vi":"Hướng dẫn viên của chúng tôi nói được ba thứ tiếng.","alts":[]}}
   ]},
-  {"id":"a10","title":"Làm việc nhóm","desc":"Hợp tác, đóng góp, thành viên, dự án","icon":"Team","unit":301,"course":"en","order":2240,"words":[
+  {"id":"a10","title":"Làm việc nhóm","desc":"Hợp tác, đóng góp, thành viên, dự án","icon":"Team","unit":301,"course":"en","order":2270,"words":[
    {"id":"a10-cooperate","hanzi":"cooperate","pinyin":"","vi":"hợp tác","ex":{"tokens":["The","two","schools","cooperate","on","many","projects","."],"py":["","","","","","","","."],"vi":"Hai trường hợp tác trong nhiều dự án.","alts":[]}},
    {"id":"a10-contribute","hanzi":"contribute","pinyin":"","vi":"đóng góp","ex":{"tokens":["Everyone","can","contribute","an","idea","."],"py":["","","","","","."],"vi":"Mọi người đều có thể đóng góp một ý tưởng.","alts":[]}},
    {"id":"a10-member","hanzi":"member","pinyin":"","vi":"thành viên","ex":{"tokens":["She","is","a","member","of","the","tennis","club","."],"py":["","","","","","","","","."],"vi":"Cô ấy là thành viên của câu lạc bộ quần vợt.","alts":[]}},
@@ -143,7 +143,7 @@
    {"id":"a10-solve","hanzi":"solve","pinyin":"","vi":"giải quyết","ex":{"tokens":["We","must","solve","this","problem","together","."],"py":["","","","","","","."],"vi":"Chúng ta phải cùng nhau giải quyết vấn đề này.","alts":[]}},
    {"id":"a10-solution","hanzi":"solution","pinyin":"","vi":"giải pháp","ex":{"tokens":["I","think","I","found","a","solution","."],"py":["","","","","","","."],"vi":"Tôi nghĩ tôi đã tìm ra giải pháp.","alts":[]}}
   ]},
-  {"id":"a11","title":"Đại học","desc":"Bằng cấp, học bổng, bài giảng, học kỳ","icon":"Uni","unit":301,"course":"en","order":2250,"words":[
+  {"id":"a11","title":"Đại học","desc":"Bằng cấp, học bổng, bài giảng, học kỳ","icon":"Uni","unit":301,"course":"en","order":2280,"words":[
    {"id":"a11-degree","hanzi":"degree","pinyin":"","vi":"bằng đại học, độ","ex":{"tokens":["She","has","a","degree","in","history","."],"py":["","","","","","","."],"vi":"Cô ấy có bằng đại học ngành lịch sử.","alts":[]}},
    {"id":"a11-scholarship","hanzi":"scholarship","pinyin":"","vi":"học bổng","ex":{"tokens":["He","won","a","scholarship","to","study","abroad","."],"py":["","","","","","","","."],"vi":"Anh ấy đã giành được học bổng du học.","alts":[]}},
    {"id":"a11-lecture","hanzi":"lecture","pinyin":"","vi":"bài giảng","ex":{"tokens":["The","lecture","starts","at","eight","."],"py":["","","","","","."],"vi":"Bài giảng bắt đầu lúc tám giờ.","alts":[]}},
@@ -157,7 +157,7 @@
    {"id":"a11-campus","hanzi":"campus","pinyin":"","vi":"khuôn viên trường","ex":{"tokens":["The","campus","has","a","big","library","."],"py":["","","","","","","."],"vi":"Khuôn viên trường có một thư viện lớn.","alts":[]}},
    {"id":"a11-abroad","hanzi":"abroad","pinyin":"","vi":"ở nước ngoài","ex":{"tokens":["He","wants","to","study","abroad","."],"py":["","","","","","."],"vi":"Anh ấy muốn du học.","alts":[]}}
   ]},
-  {"id":"a12","title":"Nghiên cứu","desc":"Dữ liệu, thí nghiệm, kết quả, bằng chứng","icon":"Lab","unit":301,"course":"en","order":2260,"words":[
+  {"id":"a12","title":"Nghiên cứu","desc":"Dữ liệu, thí nghiệm, kết quả, bằng chứng","icon":"Lab","unit":301,"course":"en","order":2290,"words":[
    {"id":"a12-research","hanzi":"research","pinyin":"","vi":"nghiên cứu","ex":{"tokens":["She","does","research","on","water","pollution","."],"py":["","","","","","","."],"vi":"Cô ấy nghiên cứu về ô nhiễm nước.","alts":[]}},
    {"id":"a12-data","hanzi":"data","pinyin":"","vi":"dữ liệu","ex":{"tokens":["We","need","more","data","to","decide","."],"py":["","","","","","","."],"vi":"Chúng ta cần thêm dữ liệu để quyết định.","alts":[]}},
    {"id":"a12-experiment","hanzi":"experiment","pinyin":"","vi":"thí nghiệm","ex":{"tokens":["The","experiment","took","two","weeks","."],"py":["","","","","","."],"vi":"Thí nghiệm kéo dài hai tuần.","alts":[]}},
@@ -171,7 +171,7 @@
    {"id":"a12-discover","hanzi":"discover","pinyin":"","vi":"khám phá, phát hiện","ex":{"tokens":["Scientists","hope","to","discover","a","new","medicine","."],"py":["","","","","","","","."],"vi":"Các nhà khoa học hy vọng tìm ra một loại thuốc mới.","alts":[]}},
    {"id":"a12-source","hanzi":"source","pinyin":"","vi":"nguồn","ex":{"tokens":["What","is","the","source","of","this","news","?"],"py":["","","","","","","","?"],"vi":"Nguồn của tin này là gì?","alts":[]}}
   ]},
-  {"id":"a13","title":"Cụm động từ 2","desc":"Give up, find out, look for, turn on","icon":"Up","unit":301,"course":"en","order":2270,"words":[
+  {"id":"a13","title":"Cụm động từ 2","desc":"Give up, find out, look for, turn on","icon":"Up","unit":301,"course":"en","order":2300,"words":[
    {"id":"a13-give_up","hanzi":"give up","pinyin":"","vi":"từ bỏ","ex":{"tokens":["Do","not","give","up","your","dream","."],"py":["","","","","","","."],"vi":"Đừng từ bỏ ước mơ của bạn.","alts":[]}},
    {"id":"a13-find_out","hanzi":"find out","pinyin":"","vi":"tìm ra, biết được","ex":{"tokens":["I","want","to","find","out","the","truth","."],"py":["","","","","","","","."],"vi":"Tôi muốn tìm ra sự thật.","alts":[]}},
    {"id":"a13-look_for","hanzi":"look for","pinyin":"","vi":"tìm kiếm","ex":{"tokens":["I","need","to","look","for","my","keys","."],"py":["","","","","","","","."],"vi":"Tôi cần tìm chìa khóa của mình.","alts":[]}},
@@ -185,7 +185,7 @@
    {"id":"a13-wake_up","hanzi":"wake up","pinyin":"","vi":"thức dậy","ex":{"tokens":["I","wake","up","at","six","every","day","."],"py":["","","","","","","","."],"vi":"Tôi thức dậy lúc sáu giờ mỗi ngày.","alts":[]}},
    {"id":"a13-fill_in","hanzi":"fill in","pinyin":"","vi":"điền vào","ex":{"tokens":["Please","fill","in","this","form","."],"py":["","","","","","."],"vi":"Vui lòng điền vào mẫu đơn này.","alts":[]}}
   ]},
-  {"id":"a14","title":"Cụm động từ 3","desc":"Carry on, run out of, deal with, set up","icon":"Off","unit":301,"course":"en","order":2280,"words":[
+  {"id":"a14","title":"Cụm động từ 3","desc":"Carry on, run out of, deal with, set up","icon":"Off","unit":301,"course":"en","order":2310,"words":[
    {"id":"a14-carry_on","hanzi":"carry on","pinyin":"","vi":"tiếp tục","ex":{"tokens":["Please","carry","on","with","your","work","."],"py":["","","","","","","."],"vi":"Xin hãy tiếp tục công việc của bạn.","alts":[]}},
    {"id":"a14-run_out_of","hanzi":"run out of","pinyin":"","vi":"hết, cạn","ex":{"tokens":["We","might","run","out","of","milk","."],"py":["","","","","","","."],"vi":"Chúng ta có thể hết sữa.","alts":[]}},
    {"id":"a14-deal_with","hanzi":"deal with","pinyin":"","vi":"xử lý, giải quyết","ex":{"tokens":["I","can","deal","with","this","problem","."],"py":["","","","","","","."],"vi":"Tôi có thể xử lý vấn đề này.","alts":[]}},
@@ -199,7 +199,7 @@
    {"id":"a14-hand_in","hanzi":"hand in","pinyin":"","vi":"nộp","ex":{"tokens":["Please","hand","in","your","homework","now","."],"py":["","","","","","","."],"vi":"Hãy nộp bài tập về nhà ngay bây giờ.","alts":[]}},
    {"id":"a14-work_out","hanzi":"work out","pinyin":"","vi":"tập thể dục, tìm ra cách","ex":{"tokens":["I","work","out","at","the","gym","twice","a","week","."],"py":["","","","","","","","","","."],"vi":"Tôi tập ở phòng gym hai lần một tuần.","alts":[]}}
   ]},
-  {"id":"a15","title":"Quản lý thời gian","desc":"Ưu tiên, hiệu quả, thói quen, trì hoãn","icon":"Time","unit":301,"course":"en","order":2290,"words":[
+  {"id":"a15","title":"Quản lý thời gian","desc":"Ưu tiên, hiệu quả, thói quen, trì hoãn","icon":"Time","unit":301,"course":"en","order":2320,"words":[
    {"id":"a15-priority","hanzi":"priority","pinyin":"","vi":"sự ưu tiên","ex":{"tokens":["Safety","is","our","first","priority","."],"py":["","","","","","."],"vi":"An toàn là ưu tiên hàng đầu của chúng tôi.","alts":[]}},
    {"id":"a15-efficient","hanzi":"efficient","pinyin":"","vi":"hiệu quả, năng suất","ex":{"tokens":["This","machine","is","very","efficient","."],"py":["","","","","","."],"vi":"Cái máy này rất hiệu quả.","alts":[]}},
    {"id":"a15-routine","hanzi":"routine","pinyin":"","vi":"thói quen hằng ngày","ex":{"tokens":["Exercise","is","part","of","my","daily","routine","."],"py":["","","","","","","","."],"vi":"Tập thể dục là một phần thói quen hằng ngày của tôi.","alts":[]}},
@@ -213,7 +213,7 @@
    {"id":"a15-complete","hanzi":"complete","pinyin":"","vi":"hoàn thành, đầy đủ","ex":{"tokens":["I","must","complete","this","form","today","."],"py":["","","","","","","."],"vi":"Tôi phải hoàn thành mẫu đơn này hôm nay.","alts":[]}},
    {"id":"a15-progress","hanzi":"progress","pinyin":"","vi":"sự tiến bộ, tiến độ","ex":{"tokens":["You","are","making","good","progress","."],"py":["","","","","","."],"vi":"Bạn đang tiến bộ tốt.","alts":[]}}
   ]},
-  {"id":"a16","title":"Phát triển bản thân","desc":"Kinh nghiệm, cơ hội, thử thách, năng lực","icon":"Grow","unit":301,"course":"en","order":2300,"words":[
+  {"id":"a16","title":"Phát triển bản thân","desc":"Kinh nghiệm, cơ hội, thử thách, năng lực","icon":"Grow","unit":301,"course":"en","order":2330,"words":[
    {"id":"a16-opportunity","hanzi":"opportunity","pinyin":"","vi":"cơ hội","ex":{"tokens":["This","is","a","great","opportunity","for","you","."],"py":["","","","","","","","."],"vi":"Đây là một cơ hội tuyệt vời cho bạn.","alts":[]}},
    {"id":"a16-challenge","hanzi":"challenge","pinyin":"","vi":"thử thách","ex":{"tokens":["Learning","Chinese","is","a","big","challenge","."],"py":["","","","","","","."],"vi":"Học tiếng Trung là một thử thách lớn.","alts":[]}},
    {"id":"a16-ability","hanzi":"ability","pinyin":"","vi":"khả năng, năng lực","ex":{"tokens":["She","has","the","ability","to","learn","fast","."],"py":["","","","","","","","."],"vi":"Cô ấy có khả năng học nhanh.","alts":[]}},

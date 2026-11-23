@@ -1,9 +1,9 @@
 {
  "units": [
-  {"unit":554,"level":5,"title":"Phần 61: Mở rộng – Toán học","desc":"Toán học, Động từ trang trọng","color":"coral","course":"en"}
+  {"unit":554,"level":5,"title":"Phần 62: Mở rộng – Toán học","desc":"Toán học, Động từ trang trọng","color":"coral","course":"en"}
  ],
  "lessons": [
-  {"id":"y5061","title":"Toán học 3","desc":"Số học, đại số, hình học, thống kê","icon":"Maths","unit":554,"course":"en","order":6750,"words":[
+  {"id":"y5061","title":"Toán học 3","desc":"Số học, đại số, hình học, thống kê","icon":"Maths","unit":554,"course":"en","order":6850,"words":[
    {"id":"y5061-calculus","hanzi":"calculus","pinyin":"","vi":"giải tích","ex":{"tokens":["She","is","taking","calculus","this","year","."],"py":["","","","","","","."],"vi":"Năm nay cô ấy học giải tích.","alts":[]}},
    {"id":"y5061-algebra","hanzi":"algebra","pinyin":"","vi":"đại số","ex":{"tokens":["Algebra","uses","letters","for","numbers","."],"py":["","","","","","."],"vi":"Đại số dùng chữ cái thay cho số.","alts":[]}},
    {"id":"y5061-trigonometry","hanzi":"trigonometry","pinyin":"","vi":"lượng giác","ex":{"tokens":["Trigonometry","deals","with","angles","and","triangles","."],"py":["","","","","","","."],"vi":"Lượng giác nghiên cứu góc và tam giác.","alts":[]}},
@@ -19,7 +19,7 @@
    {"id":"y5061-tangent","hanzi":"tangent","pinyin":"","vi":"tiếp tuyến","ex":{"tokens":["Draw","a","tangent","to","the","circle","."],"py":["","","","","","","."],"vi":"Hãy vẽ một tiếp tuyến với đường tròn.","alts":[]}},
    {"id":"y5061-arc","hanzi":"arc","pinyin":"","vi":"cung (tròn)","ex":{"tokens":["The","ball","flew","in","a","high","arc","."],"py":["","","","","","","","."],"vi":"Quả bóng bay theo một đường vòng cung cao.","alts":[]}}
   ]},
-  {"id":"y5062","title":"Toán học 4","desc":"Số học, đại số, hình học, thống kê","icon":"Maths","unit":554,"course":"en","order":6760,"words":[
+  {"id":"y5062","title":"Toán học 4","desc":"Số học, đại số, hình học, thống kê","icon":"Maths","unit":554,"course":"en","order":6860,"words":[
    {"id":"y5062-polygon","hanzi":"polygon","pinyin":"","vi":"đa giác","ex":{"tokens":["A","square","is","a","polygon","with","four","sides","."],"py":["","","","","","","","","."],"vi":"Hình vuông là đa giác có bốn cạnh.","alts":[]}},
    {"id":"y5062-pentagon","hanzi":"pentagon","pinyin":"","vi":"hình ngũ giác","ex":{"tokens":["A","pentagon","has","five","sides","."],"py":["","","","","","."],"vi":"Hình ngũ giác có năm cạnh.","alts":[]}},
    {"id":"y5062-hexagon","hanzi":"hexagon","pinyin":"","vi":"hình lục giác","ex":{"tokens":["Each","cell","of","the","hive","is","a","hexagon","."],"py":["","","","","","","","","."],"vi":"Mỗi ô của tổ ong là một hình lục giác.","alts":[]}},
@@ -35,7 +35,7 @@
    {"id":"y5062-perpendicular","hanzi":"perpendicular","pinyin":"","vi":"vuông góc","ex":{"tokens":["The","two","lines","are","perpendicular","."],"py":["","","","","","."],"vi":"Hai đường thẳng vuông góc với nhau.","alts":[]}},
    {"id":"y5062-parallel","hanzi":"parallel","pinyin":"","vi":"song song","ex":{"tokens":["The","road","runs","parallel","to","the","river","."],"py":["","","","","","","","."],"vi":"Con đường chạy song song với dòng sông.","alts":[]}}
   ]},
-  {"id":"y5063","title":"Toán học 5","desc":"Số học, đại số, hình học, thống kê","icon":"Maths","unit":554,"course":"en","order":6770,"words":[
+  {"id":"y5063","title":"Toán học 5","desc":"Số học, đại số, hình học, thống kê","icon":"Maths","unit":554,"course":"en","order":6870,"words":[
    {"id":"y5063-diagonal","hanzi":"diagonal","pinyin":"","vi":"đường chéo","ex":{"tokens":["Draw","a","diagonal","across","the","square","."],"py":["","","","","","","."],"vi":"Hãy vẽ một đường chéo qua hình vuông.","alts":[]}},
    {"id":"y5063-symmetry","hanzi":"symmetry","pinyin":"","vi":"sự đối xứng","ex":{"tokens":["A","butterfly","has","perfect","symmetry","."],"py":["","","","","","."],"vi":"Con bướm có sự đối xứng hoàn hảo.","alts":[]}},
    {"id":"y5063-congruent","hanzi":"congruent","pinyin":"","vi":"bằng nhau, đồng dạng khít","ex":{"tokens":["The","two","triangles","are","congruent","."],"py":["","","","","","."],"vi":"Hai tam giác này bằng nhau.","alts":[]}},
@@ -51,7 +51,7 @@
    {"id":"y5063-scalar","hanzi":"scalar","pinyin":"","vi":"đại lượng vô hướng","ex":{"tokens":["Temperature","is","a","scalar",",","not","a","vector","."],"py":["","","","",",","","","","."],"vi":"Nhiệt độ là đại lượng vô hướng, không phải vectơ.","alts":[]}},
    {"id":"y5063-chord","hanzi":"chord","pinyin":"","vi":"dây cung; hợp âm","ex":{"tokens":["He","played","a","chord","on","the","guitar","."],"py":["","","","","","","","."],"vi":"Anh ấy chơi một hợp âm trên đàn ghi ta.","alts":[]}}
   ]},
-  {"id":"y5064","title":"Động từ trang trọng 7","desc":"Động từ dùng trong văn viết, báo chí, học thuật","icon":"Formal","unit":554,"course":"en","order":6780,"words":[
+  {"id":"y5064","title":"Động từ trang trọng 7","desc":"Động từ dùng trong văn viết, báo chí, học thuật","icon":"Formal","unit":554,"course":"en","order":6880,"words":[
    {"id":"y5064-abate","hanzi":"abate","pinyin":"","vi":"dịu đi, giảm bớt","ex":{"tokens":["The","storm","began","to","abate","at","dawn","."],"py":["","","","","","","","."],"vi":"Cơn bão bắt đầu dịu đi lúc rạng đông.","alts":[]}},
    {"id":"y5064-abhor","hanzi":"abhor","pinyin":"","vi":"ghê tởm, căm ghét","ex":{"tokens":["I","abhor","cruelty","to","animals","."],"py":["","","","","","."],"vi":"Tôi ghê tởm sự tàn ác với động vật.","alts":[]}},
    {"id":"y5064-abscond","hanzi":"abscond","pinyin":"","vi":"bỏ trốn","ex":{"tokens":["The","cashier","tried","to","abscond","with","the","money","."],"py":["","","","","","","","","."],"vi":"Thủ quỹ tìm cách ôm tiền bỏ trốn.","alts":[]}},
@@ -67,7 +67,7 @@
    {"id":"y5064-allay","hanzi":"allay","pinyin":"","vi":"làm dịu (nỗi lo)","ex":{"tokens":["The","doctor","tried","to","allay","her","fears","."],"py":["","","","","","","","."],"vi":"Bác sĩ cố làm dịu nỗi sợ của cô ấy.","alts":[]}},
    {"id":"y5064-allege","hanzi":"allege","pinyin":"","vi":"cáo buộc (chưa chứng minh)","ex":{"tokens":["They","allege","that","he","stole","the","money","."],"py":["","","","","","","","."],"vi":"Họ cáo buộc rằng anh ta đã lấy trộm tiền.","alts":[]}}
   ]},
-  {"id":"y5065","title":"Động từ trang trọng 8","desc":"Động từ dùng trong văn viết, báo chí, học thuật","icon":"Formal","unit":554,"course":"en","order":6790,"words":[
+  {"id":"y5065","title":"Động từ trang trọng 8","desc":"Động từ dùng trong văn viết, báo chí, học thuật","icon":"Formal","unit":554,"course":"en","order":6890,"words":[
    {"id":"y5065-alleviate","hanzi":"alleviate","pinyin":"","vi":"làm giảm nhẹ","ex":{"tokens":["This","medicine","will","alleviate","the","pain","."],"py":["","","","","","","."],"vi":"Thuốc này sẽ làm giảm đau.","alts":[]}},
    {"id":"y5065-allude","hanzi":"allude","pinyin":"","vi":"ám chỉ, nói bóng gió","ex":{"tokens":["He","did","not","allude","to","the","problem","at","all","."],"py":["","","","","","","","","","."],"vi":"Anh ấy không hề ám chỉ đến vấn đề đó.","alts":[]}},
    {"id":"y5065-ameliorate","hanzi":"ameliorate","pinyin":"","vi":"cải thiện","ex":{"tokens":["New","roads","will","ameliorate","the","traffic","problem","."],"py":["","","","","","","","."],"vi":"Những con đường mới sẽ cải thiện vấn đề giao thông.","alts":[]}},
@@ -83,7 +83,7 @@
    {"id":"y5065-attest","hanzi":"attest","pinyin":"","vi":"chứng thực, làm chứng","ex":{"tokens":["I","can","attest","to","her","honesty","."],"py":["","","","","","","."],"vi":"Tôi có thể làm chứng cho sự trung thực của cô ấy.","alts":[]}},
    {"id":"y5065-bequeath","hanzi":"bequeath","pinyin":"","vi":"để lại (di sản)","ex":{"tokens":["She","will","bequeath","the","house","to","her","son","."],"py":["","","","","","","","","."],"vi":"Bà ấy sẽ để lại ngôi nhà cho con trai.","alts":[]}}
   ]},
-  {"id":"y5066","title":"Động từ trang trọng 9","desc":"Động từ dùng trong văn viết, báo chí, học thuật","icon":"Formal","unit":554,"course":"en","order":6800,"words":[
+  {"id":"y5066","title":"Động từ trang trọng 9","desc":"Động từ dùng trong văn viết, báo chí, học thuật","icon":"Formal","unit":554,"course":"en","order":6900,"words":[
    {"id":"y5066-berate","hanzi":"berate","pinyin":"","vi":"mắng nhiếc","ex":{"tokens":["Do","not","berate","the","child","for","a","small","mistake","."],"py":["","","","","","","","","","."],"vi":"Đừng mắng nhiếc đứa trẻ vì một lỗi nhỏ.","alts":[]}},
    {"id":"y5066-bestow","hanzi":"bestow","pinyin":"","vi":"ban tặng","ex":{"tokens":["The","king","will","bestow","a","medal","on","the","hero","."],"py":["","","","","","","","","","."],"vi":"Nhà vua sẽ ban tặng huy chương cho người anh hùng.","alts":[]}},
    {"id":"y5066-brandish","hanzi":"brandish","pinyin":"","vi":"vung (vũ khí) đe dọa","ex":{"tokens":["The","robber","began","to","brandish","a","knife","."],"py":["","","","","","","","."],"vi":"Tên cướp bắt đầu vung dao.","alts":[]}},
@@ -98,7 +98,7 @@
    {"id":"y5066-conciliate","hanzi":"conciliate","pinyin":"","vi":"hòa giải, xoa dịu","ex":{"tokens":["She","tried","to","conciliate","the","angry","customers","."],"py":["","","","","","","","."],"vi":"Cô ấy cố xoa dịu những khách hàng đang giận.","alts":[]}},
    {"id":"y5066-concur","hanzi":"concur","pinyin":"","vi":"đồng tình","ex":{"tokens":["I","concur","with","your","opinion","."],"py":["","","","","","."],"vi":"Tôi đồng tình với ý kiến của bạn.","alts":[]}}
   ]},
-  {"id":"y5067","title":"Động từ trang trọng 10","desc":"Động từ dùng trong văn viết, báo chí, học thuật","icon":"Formal","unit":554,"course":"en","order":6810,"words":[
+  {"id":"y5067","title":"Động từ trang trọng 10","desc":"Động từ dùng trong văn viết, báo chí, học thuật","icon":"Formal","unit":554,"course":"en","order":6910,"words":[
    {"id":"y5067-confound","hanzi":"confound","pinyin":"","vi":"làm bối rối, sửng sốt","ex":{"tokens":["The","results","confound","the","experts","."],"py":["","","","","","."],"vi":"Kết quả làm các chuyên gia bối rối.","alts":[]}},
    {"id":"y5067-consecrate","hanzi":"consecrate","pinyin":"","vi":"làm lễ thánh hóa, cung hiến","ex":{"tokens":["The","bishop","will","consecrate","the","new","church","."],"py":["","","","","","","","."],"vi":"Giám mục sẽ làm lễ cung hiến nhà thờ mới.","alts":[]}},
    {"id":"y5067-construe","hanzi":"construe","pinyin":"","vi":"hiểu, giải thích (theo một cách)","ex":{"tokens":["You","could","construe","his","silence","as","agreement","."],"py":["","","","","","","","."],"vi":"Bạn có thể hiểu sự im lặng của anh ấy là đồng ý.","alts":[]}},
@@ -113,7 +113,7 @@
    {"id":"y5067-deride","hanzi":"deride","pinyin":"","vi":"chế giễu","ex":{"tokens":["Do","not","deride","people","for","their","accent","."],"py":["","","","","","","","."],"vi":"Đừng chế giễu người khác vì giọng nói của họ.","alts":[]}},
    {"id":"y5067-desecrate","hanzi":"desecrate","pinyin":"","vi":"xúc phạm, báng bổ (nơi linh thiêng)","ex":{"tokens":["Vandals","tried","to","desecrate","the","graves","."],"py":["","","","","","","."],"vi":"Những kẻ phá hoại tìm cách xúc phạm các ngôi mộ.","alts":[]}}
   ]},
-  {"id":"y5068","title":"Động từ trang trọng 11","desc":"Động từ dùng trong văn viết, báo chí, học thuật","icon":"Formal","unit":554,"course":"en","order":6820,"words":[
+  {"id":"y5068","title":"Động từ trang trọng 11","desc":"Động từ dùng trong văn viết, báo chí, học thuật","icon":"Formal","unit":554,"course":"en","order":6920,"words":[
    {"id":"y5068-devise","hanzi":"devise","pinyin":"","vi":"nghĩ ra, đặt ra","ex":{"tokens":["We","must","devise","a","better","plan","."],"py":["","","","","","","."],"vi":"Chúng ta phải nghĩ ra một kế hoạch tốt hơn.","alts":[]}},
    {"id":"y5068-digress","hanzi":"digress","pinyin":"","vi":"nói lạc đề","ex":{"tokens":["Let","me","digress","for","a","moment","."],"py":["","","","","","","."],"vi":"Cho tôi nói lạc đề một chút.","alts":[]}},
    {"id":"y5068-disdain","hanzi":"disdain","pinyin":"","vi":"khinh thường; sự khinh thường","ex":{"tokens":["She","looked","at","him","with","disdain","."],"py":["","","","","","","."],"vi":"Cô ấy nhìn anh ta với vẻ khinh thường.","alts":[]}},
@@ -128,7 +128,7 @@
    {"id":"y5068-encroach","hanzi":"encroach","pinyin":"","vi":"lấn chiếm, xâm lấn","ex":{"tokens":["New","houses","encroach","on","the","forest","."],"py":["","","","","","","."],"vi":"Những ngôi nhà mới lấn vào rừng.","alts":[]}},
    {"id":"y5068-engender","hanzi":"engender","pinyin":"","vi":"gây ra, sinh ra","ex":{"tokens":["Such","lies","engender","distrust","."],"py":["","","","","."],"vi":"Những lời nói dối như vậy sinh ra sự ngờ vực.","alts":[]}}
   ]},
-  {"id":"y5069","title":"Động từ trang trọng 12","desc":"Động từ dùng trong văn viết, báo chí, học thuật","icon":"Formal","unit":554,"course":"en","order":6830,"words":[
+  {"id":"y5069","title":"Động từ trang trọng 12","desc":"Động từ dùng trong văn viết, báo chí, học thuật","icon":"Formal","unit":554,"course":"en","order":6930,"words":[
    {"id":"y5069-enshrine","hanzi":"enshrine","pinyin":"","vi":"ghi nhận trang trọng (trong luật)","ex":{"tokens":["The","laws","enshrine","the","right","to","free","speech","."],"py":["","","","","","","","","."],"vi":"Luật pháp ghi nhận quyền tự do ngôn luận.","alts":[]}},
    {"id":"y5069-enumerate","hanzi":"enumerate","pinyin":"","vi":"liệt kê","ex":{"tokens":["Let","me","enumerate","the","reasons","."],"py":["","","","","","."],"vi":"Để tôi liệt kê các lý do.","alts":[]}},
    {"id":"y5069-eschew","hanzi":"eschew","pinyin":"","vi":"tránh xa, kiêng","ex":{"tokens":["Monks","eschew","luxury","."],"py":["","","","."],"vi":"Các nhà sư tránh xa sự xa hoa.","alts":[]}},
@@ -143,7 +143,7 @@
    {"id":"y5069-forgo","hanzi":"forgo","pinyin":"","vi":"từ bỏ, nhịn","ex":{"tokens":["I","will","forgo","dessert","tonight","."],"py":["","","","","","."],"vi":"Tối nay tôi sẽ nhịn món tráng miệng.","alts":[]}},
    {"id":"y5069-fortify","hanzi":"fortify","pinyin":"","vi":"củng cố, gia cố","ex":{"tokens":["They","fortify","the","walls","every","year","."],"py":["","","","","","","."],"vi":"Năm nào họ cũng gia cố tường thành.","alts":[]}}
   ]},
-  {"id":"y5070","title":"Động từ trang trọng 13","desc":"Động từ dùng trong văn viết, báo chí, học thuật","icon":"Formal","unit":554,"course":"en","order":6840,"words":[
+  {"id":"y5070","title":"Động từ trang trọng 13","desc":"Động từ dùng trong văn viết, báo chí, học thuật","icon":"Formal","unit":554,"course":"en","order":6940,"words":[
    {"id":"y5070-garner","hanzi":"garner","pinyin":"","vi":"thu được, giành được","ex":{"tokens":["The","film","may","garner","several","awards","."],"py":["","","","","","","."],"vi":"Bộ phim có thể giành được vài giải thưởng.","alts":[]}},
    {"id":"y5070-harness","hanzi":"harness","pinyin":"","vi":"khai thác, tận dụng; bộ dây cương","ex":{"tokens":["We","can","harness","the","power","of","the","wind","."],"py":["","","","","","","","","."],"vi":"Chúng ta có thể khai thác sức gió.","alts":[]}},
    {"id":"y5070-hasten","hanzi":"hasten","pinyin":"","vi":"thúc đẩy, vội vàng","ex":{"tokens":["Stress","can","hasten","the","illness","."],"py":["","","","","","."],"vi":"Căng thẳng có thể làm bệnh tiến triển nhanh hơn.","alts":[]}},

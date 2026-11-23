@@ -1,9 +1,9 @@
 {
  "units": [
-  {"unit":458,"level":4,"title":"Phần 51: Mở rộng – Cụm động từ nâng cao","desc":"Cụm động từ nâng cao, Thành ngữ tiếng Anh","color":"grape","course":"en"}
+  {"unit":458,"level":4,"title":"Phần 52: Mở rộng – Cụm động từ nâng cao","desc":"Cụm động từ nâng cao, Thành ngữ tiếng Anh","color":"grape","course":"en"}
  ],
  "lessons": [
-  {"id":"y4141","title":"Cụm động từ nâng cao 6","desc":"Cụm động từ thường gặp trong giao tiếp và báo chí","icon":"Phrasal","unit":458,"course":"en","order":5540,"words":[
+  {"id":"y4141","title":"Cụm động từ nâng cao 6","desc":"Cụm động từ thường gặp trong giao tiếp và báo chí","icon":"Phrasal","unit":458,"course":"en","order":5570,"words":[
    {"id":"y4141-take_apart","hanzi":"take apart","pinyin":"","vi":"tháo rời","ex":{"tokens":["He","likes","to","take","apart","old","radios","."],"py":["","","","","","","","."],"vi":"Cậu ấy thích tháo rời radio cũ.","alts":[]}},
    {"id":"y4141-take_back","hanzi":"take back","pinyin":"","vi":"rút lại (lời); trả lại","ex":{"tokens":["I","take","back","what","I","said","."],"py":["","","","","","","."],"vi":"Tôi rút lại những gì đã nói.","alts":[]}},
    {"id":"y4141-take_in","hanzi":"take in","pinyin":"","vi":"tiếp thu; cho ở nhờ; lừa","ex":{"tokens":["It","was","too","much","to","take","in","."],"py":["","","","","","","","."],"vi":"Nhiều thông tin quá, không tiếp thu nổi.","alts":[]}},
@@ -18,7 +18,7 @@
    {"id":"y4141-top_up","hanzi":"top up","pinyin":"","vi":"nạp thêm, rót thêm","ex":{"tokens":["I","need","to","top","up","my","phone","."],"py":["","","","","","","","."],"vi":"Tôi cần nạp thêm tiền điện thoại.","alts":[]}},
    {"id":"y4141-toy_with","hanzi":"toy with","pinyin":"","vi":"đùa giỡn với; cân nhắc chơi","ex":{"tokens":["I","toy","with","the","idea","of","moving","abroad","."],"py":["","","","","","","","","."],"vi":"Tôi thỉnh thoảng nghĩ chơi đến việc ra nước ngoài sống.","alts":[]}}
   ]},
-  {"id":"y4142","title":"Cụm động từ nâng cao 7","desc":"Cụm động từ thường gặp trong giao tiếp và báo chí","icon":"Phrasal","unit":458,"course":"en","order":5550,"words":[
+  {"id":"y4142","title":"Cụm động từ nâng cao 7","desc":"Cụm động từ thường gặp trong giao tiếp và báo chí","icon":"Phrasal","unit":458,"course":"en","order":5580,"words":[
    {"id":"y4142-track_down","hanzi":"track down","pinyin":"","vi":"lần ra, truy tìm","ex":{"tokens":["Police","hope","to","track","down","the","driver","."],"py":["","","","","","","","."],"vi":"Cảnh sát hy vọng lần ra người tài xế.","alts":[]}},
    {"id":"y4142-trail_off","hanzi":"trail off","pinyin":"","vi":"nhỏ dần rồi tắt (giọng)","ex":{"tokens":["Her","words","trail","off","into","silence","."],"py":["","","","","","","."],"vi":"Lời cô ấy nhỏ dần rồi im bặt.","alts":[]}},
    {"id":"y4142-turn_to","hanzi":"turn to","pinyin":"","vi":"tìm đến (nhờ giúp)","ex":{"tokens":["You","can","always","turn","to","me","for","help","."],"py":["","","","","","","","","."],"vi":"Bạn luôn có thể tìm đến tôi nhờ giúp.","alts":[]}},
@@ -33,7 +33,7 @@
    {"id":"y4142-wind_up","hanzi":"wind up","pinyin":"","vi":"kết thúc; rốt cuộc","ex":{"tokens":["Let","us","wind","up","the","meeting","."],"py":["","","","","","","."],"vi":"Chúng ta hãy kết thúc cuộc họp.","alts":[]}},
    {"id":"y4142-wipe_out","hanzi":"wipe out","pinyin":"","vi":"xóa sổ, tiêu diệt","ex":{"tokens":["The","disease","could","wipe","out","the","fish","."],"py":["","","","","","","","."],"vi":"Căn bệnh có thể xóa sổ đàn cá.","alts":[]}}
   ]},
-  {"id":"y4143","title":"Thành ngữ tiếng Anh 1","desc":"Thành ngữ thông dụng trong giao tiếp","icon":"Idioms","unit":458,"course":"en","order":5560,"words":[
+  {"id":"y4143","title":"Thành ngữ tiếng Anh 1","desc":"Thành ngữ thông dụng trong giao tiếp","icon":"Idioms","unit":458,"course":"en","order":5590,"words":[
    {"id":"y4143-spill_the_beans","hanzi":"spill the beans","pinyin":"","vi":"tiết lộ bí mật","ex":{"tokens":["Do","not","spill","the","beans","about","the","party","."],"py":["","","","","","","","","."],"vi":"Đừng tiết lộ chuyện bữa tiệc.","alts":[]}},
    {"id":"y4143-get_out_of_hand","hanzi":"get out of hand","pinyin":"","vi":"vượt khỏi tầm kiểm soát","ex":{"tokens":["The","party","began","to","get","out","of","hand","."],"py":["","","","","","","","","."],"vi":"Bữa tiệc bắt đầu vượt khỏi tầm kiểm soát.","alts":[]}},
    {"id":"y4143-hang_in_there","hanzi":"hang in there","pinyin":"","vi":"cố gắng lên, đừng bỏ cuộc","ex":{"tokens":["Hang","in","there;","the","exams","are","almost","over","."],"py":["","","","","","","","","."],"vi":"Cố lên; kỳ thi sắp xong rồi.","alts":[]}},
@@ -48,7 +48,7 @@
    {"id":"y4143-cry_over_spilled_milk","hanzi":"cry over spilled milk","pinyin":"","vi":"tiếc nuối chuyện đã rồi","ex":{"tokens":["It","is","no","use","to","cry","over","spilled","milk","."],"py":["","","","","","","","","","."],"vi":"Tiếc nuối chuyện đã rồi cũng vô ích.","alts":[]}},
    {"id":"y4143-face_the_music","hanzi":"face the music","pinyin":"","vi":"chịu trách nhiệm, nhận hậu quả","ex":{"tokens":["He","lied",",","and","now","he","must","face","the","music","."],"py":["","",",","","","","","","","","."],"vi":"Anh ta nói dối và giờ phải nhận hậu quả.","alts":[]}}
   ]},
-  {"id":"y4144","title":"Thành ngữ tiếng Anh 2","desc":"Thành ngữ thông dụng trong giao tiếp","icon":"Idioms","unit":458,"course":"en","order":5570,"words":[
+  {"id":"y4144","title":"Thành ngữ tiếng Anh 2","desc":"Thành ngữ thông dụng trong giao tiếp","icon":"Idioms","unit":458,"course":"en","order":5600,"words":[
    {"id":"y4144-give_the_benefit_of_the_doubt","hanzi":"give the benefit of the doubt","pinyin":"","vi":"tạm tin, không vội nghi ngờ","ex":{"tokens":["I","will","give","the","benefit","of","the","doubt","to","him","."],"py":["","","","","","","","","","","."],"vi":"Tôi sẽ tạm tin anh ấy.","alts":[]}},
    {"id":"y4144-in_hot_water","hanzi":"in hot water","pinyin":"","vi":"gặp rắc rối","ex":{"tokens":["He","is","in","hot","water","with","his","boss","."],"py":["","","","","","","","","."],"vi":"Anh ấy đang gặp rắc rối với sếp.","alts":[]}},
    {"id":"y4144-in_the_same_boat","hanzi":"in the same boat","pinyin":"","vi":"cùng cảnh ngộ","ex":{"tokens":["We","are","all","in","the","same","boat","."],"py":["","","","","","","","."],"vi":"Tất cả chúng ta cùng chung cảnh ngộ.","alts":[]}},
@@ -63,7 +63,7 @@
    {"id":"y4144-ring_a_bell","hanzi":"ring a bell","pinyin":"","vi":"nghe quen quen","ex":{"tokens":["Does","that","name","ring","a","bell","?"],"py":["","","","","","","?"],"vi":"Cái tên đó nghe có quen không?","alts":[]}},
    {"id":"y4144-sit_on_the_fence","hanzi":"sit on the fence","pinyin":"","vi":"đứng giữa, không ngả về bên nào","ex":{"tokens":["You","cannot","sit","on","the","fence","forever","."],"py":["","","","","","","","."],"vi":"Bạn không thể mãi không chọn bên nào.","alts":[]}}
   ]},
-  {"id":"y4145","title":"Thành ngữ tiếng Anh 3","desc":"Thành ngữ thông dụng trong giao tiếp","icon":"Idioms","unit":458,"course":"en","order":5580,"words":[
+  {"id":"y4145","title":"Thành ngữ tiếng Anh 3","desc":"Thành ngữ thông dụng trong giao tiếp","icon":"Idioms","unit":458,"course":"en","order":5610,"words":[
    {"id":"y4145-sleep_on_it","hanzi":"sleep on it","pinyin":"","vi":"để mai tính, suy nghĩ qua đêm","ex":{"tokens":["Let","me","sleep","on","it","and","tell","you","tomorrow","."],"py":["","","","","","","","","","."],"vi":"Để tôi suy nghĩ qua đêm rồi mai trả lời.","alts":[]}},
    {"id":"y4145-steal_the_show","hanzi":"steal the show","pinyin":"","vi":"chiếm trọn sự chú ý","ex":{"tokens":["The","youngest","dancer","managed","to","steal","the","show","."],"py":["","","","","","","","","."],"vi":"Vũ công nhỏ tuổi nhất đã chiếm trọn sự chú ý.","alts":[]}},
    {"id":"y4145-take_it_with_a_grain_of_salt","hanzi":"take it with a grain of salt","pinyin":"","vi":"đừng tin hoàn toàn","ex":{"tokens":["He","exaggerates",",","so","take","it","with","a","grain","of","salt","."],"py":["","",",","","","","","","","","","."],"vi":"Anh ấy hay nói quá, nên đừng tin hoàn toàn.","alts":[]}},
@@ -78,7 +78,7 @@
    {"id":"y4145-bury_the_hatchet","hanzi":"bury the hatchet","pinyin":"","vi":"giảng hòa","ex":{"tokens":["The","brothers","decided","to","bury","the","hatchet","."],"py":["","","","","","","","."],"vi":"Hai anh em quyết định giảng hòa.","alts":[]}},
    {"id":"y4145-come_rain_or_shine","hanzi":"come rain or shine","pinyin":"","vi":"dù mưa hay nắng","ex":{"tokens":["He","runs","every","morning",",","come","rain","or","shine","."],"py":["","","","",",","","","","","."],"vi":"Sáng nào anh ấy cũng chạy, dù mưa hay nắng.","alts":[]}}
   ]},
-  {"id":"y4146","title":"Thành ngữ tiếng Anh 4","desc":"Thành ngữ thông dụng trong giao tiếp","icon":"Idioms","unit":458,"course":"en","order":5590,"words":[
+  {"id":"y4146","title":"Thành ngữ tiếng Anh 4","desc":"Thành ngữ thông dụng trong giao tiếp","icon":"Idioms","unit":458,"course":"en","order":5620,"words":[
    {"id":"y4146-cross_that_bridge","hanzi":"cross that bridge","pinyin":"","vi":"đến đâu tính đến đó","ex":{"tokens":["We","will","cross","that","bridge","when","we","come","to","it","."],"py":["","","","","","","","","","","."],"vi":"Đến đâu chúng ta tính đến đó.","alts":[]}},
    {"id":"y4146-down_to_earth","hanzi":"down to earth","pinyin":"","vi":"thực tế, giản dị","ex":{"tokens":["The","star","is","very","down","to","earth","."],"py":["","","","","","","","."],"vi":"Ngôi sao ấy rất giản dị.","alts":[]}},
    {"id":"y4146-draw_the_line","hanzi":"draw the line","pinyin":"","vi":"đặt ra giới hạn","ex":{"tokens":["I","draw","the","line","at","working","on","Sunday","."],"py":["","","","","","","","","."],"vi":"Tôi nhất định không làm việc vào Chủ nhật.","alts":[]}},
@@ -92,7 +92,7 @@
    {"id":"y4146-know_the_ropes","hanzi":"know the ropes","pinyin":"","vi":"thạo việc","ex":{"tokens":["Ask","Lan;","she","will","know","the","ropes","."],"py":["","","","","","","","."],"vi":"Hãy hỏi Lan; cô ấy thạo việc lắm.","alts":[]}},
    {"id":"y4146-let_sleeping_dogs_lie","hanzi":"let sleeping dogs lie","pinyin":"","vi":"đừng khơi lại chuyện cũ","ex":{"tokens":["Do","not","ask","about","the","fight;","let","sleeping","dogs","lie","."],"py":["","","","","","","","","","","."],"vi":"Đừng hỏi về vụ cãi nhau; đừng khơi lại chuyện cũ.","alts":[]}}
   ]},
-  {"id":"y4147","title":"Thành ngữ tiếng Anh 5","desc":"Thành ngữ thông dụng trong giao tiếp","icon":"Idioms","unit":458,"course":"en","order":5600,"words":[
+  {"id":"y4147","title":"Thành ngữ tiếng Anh 5","desc":"Thành ngữ thông dụng trong giao tiếp","icon":"Idioms","unit":458,"course":"en","order":5630,"words":[
    {"id":"y4147-long_story_short","hanzi":"long story short","pinyin":"","vi":"nói ngắn gọn thì","ex":{"tokens":["Long","story","short",",","we","missed","the","flight","."],"py":["","","",",","","","","","."],"vi":"Nói ngắn gọn thì chúng tôi lỡ chuyến bay.","alts":[]}},
    {"id":"y4147-make_a_mountain_out_of_a_molehill","hanzi":"make a mountain out of a molehill","pinyin":"","vi":"chuyện bé xé ra to","ex":{"tokens":["Do","not","make","a","mountain","out","of","a","molehill","."],"py":["","","","","","","","","","."],"vi":"Đừng chuyện bé xé ra to.","alts":[]}},
    {"id":"y4147-no_strings_attached","hanzi":"no strings attached","pinyin":"","vi":"không kèm điều kiện","ex":{"tokens":["The","money","is","a","gift",",","no","strings","attached","."],"py":["","","","","",",","","","","."],"vi":"Số tiền là quà tặng, không kèm điều kiện gì.","alts":[]}},
@@ -106,7 +106,7 @@
    {"id":"y4147-time_flies","hanzi":"time flies","pinyin":"","vi":"thời gian trôi nhanh","ex":{"tokens":["Time","flies","when","you","are","having","fun","."],"py":["","","","","","","","."],"vi":"Thời gian trôi nhanh khi bạn vui.","alts":[]}},
    {"id":"y4147-up_to_scratch","hanzi":"up to scratch","pinyin":"","vi":"đạt yêu cầu","ex":{"tokens":["His","work","is","not","up","to","scratch","."],"py":["","","","","","","","."],"vi":"Công việc của anh ấy chưa đạt yêu cầu.","alts":[]}}
   ]},
-  {"id":"y4148","title":"Thành ngữ tiếng Anh 6","desc":"Thành ngữ thông dụng trong giao tiếp","icon":"Idioms","unit":458,"course":"en","order":5610,"words":[
+  {"id":"y4148","title":"Thành ngữ tiếng Anh 6","desc":"Thành ngữ thông dụng trong giao tiếp","icon":"Idioms","unit":458,"course":"en","order":5640,"words":[
    {"id":"y4148-when_pigs_fly","hanzi":"when pigs fly","pinyin":"","vi":"còn lâu, chẳng bao giờ","ex":{"tokens":["He","will","clean","his","room","when","pigs","fly","."],"py":["","","","","","","","","."],"vi":"Còn lâu cậu ấy mới dọn phòng.","alts":[]}},
    {"id":"y4148-a_red_herring","hanzi":"a red herring","pinyin":"","vi":"chi tiết đánh lạc hướng","ex":{"tokens":["The","clue","was","a","red","herring","."],"py":["","","","","","","."],"vi":"Manh mối đó là chi tiết đánh lạc hướng.","alts":[]}},
    {"id":"y4148-a_silver_lining","hanzi":"a silver lining","pinyin":"","vi":"điều may trong cái rủi","ex":{"tokens":["Look","for","a","silver","lining","in","every","problem","."],"py":["","","","","","","","","."],"vi":"Hãy tìm điều may trong mọi rắc rối.","alts":[]}},
@@ -120,7 +120,7 @@
    {"id":"y4148-lose_touch","hanzi":"lose touch","pinyin":"","vi":"mất liên lạc","ex":{"tokens":["Do","not","lose","touch","with","old","friends","."],"py":["","","","","","","","."],"vi":"Đừng để mất liên lạc với bạn cũ.","alts":[]}},
    {"id":"y4148-out_of_order","hanzi":"out of order","pinyin":"","vi":"bị hỏng, không hoạt động","ex":{"tokens":["The","lift","is","out","of","order","."],"py":["","","","","","","."],"vi":"Thang máy bị hỏng.","alts":[]}}
   ]},
-  {"id":"y4149","title":"Thành ngữ tiếng Anh 7","desc":"Thành ngữ thông dụng trong giao tiếp","icon":"Idioms","unit":458,"course":"en","order":5620,"words":[
+  {"id":"y4149","title":"Thành ngữ tiếng Anh 7","desc":"Thành ngữ thông dụng trong giao tiếp","icon":"Idioms","unit":458,"course":"en","order":5650,"words":[
    {"id":"y4149-a_tall_order","hanzi":"a tall order","pinyin":"","vi":"yêu cầu khó đáp ứng","ex":{"tokens":["Finishing","by","Friday","is","a","tall","order","."],"py":["","","","","","","","."],"vi":"Xong trước thứ Sáu là một yêu cầu khó.","alts":[]}},
    {"id":"y4149-from_scratch","hanzi":"from scratch","pinyin":"","vi":"từ con số không","ex":{"tokens":["She","built","the","business","from","scratch","."],"py":["","","","","","","."],"vi":"Cô ấy gây dựng việc kinh doanh từ con số không.","alts":[]}},
    {"id":"y4149-hit_rock_bottom","hanzi":"hit rock bottom","pinyin":"","vi":"chạm đáy","ex":{"tokens":["Prices","may","hit","rock","bottom","this","year","."],"py":["","","","","","","","."],"vi":"Giá có thể chạm đáy trong năm nay.","alts":[]}},
@@ -134,7 +134,7 @@
    {"id":"y4149-pros_and_cons","hanzi":"pros and cons","pinyin":"","vi":"ưu và nhược điểm","ex":{"tokens":["Think","about","the","pros","and","cons","."],"py":["","","","","","","."],"vi":"Hãy nghĩ về ưu và nhược điểm.","alts":[]}},
    {"id":"y4149-ups_and_downs","hanzi":"ups and downs","pinyin":"","vi":"thăng trầm","ex":{"tokens":["Every","marriage","has","its","ups","and","downs","."],"py":["","","","","","","","."],"vi":"Cuộc hôn nhân nào cũng có thăng trầm.","alts":[]}}
   ]},
-  {"id":"y4150","title":"Thành ngữ tiếng Anh 8","desc":"Thành ngữ thông dụng trong giao tiếp","icon":"Idioms","unit":458,"course":"en","order":5630,"words":[
+  {"id":"y4150","title":"Thành ngữ tiếng Anh 8","desc":"Thành ngữ thông dụng trong giao tiếp","icon":"Idioms","unit":458,"course":"en","order":5660,"words":[
    {"id":"y4150-give_and_take","hanzi":"give and take","pinyin":"","vi":"có qua có lại, nhường nhịn nhau","ex":{"tokens":["A","good","marriage","needs","give","and","take","."],"py":["","","","","","","","."],"vi":"Hôn nhân hạnh phúc cần sự nhường nhịn lẫn nhau.","alts":[]}},
    {"id":"y4150-wear_and_tear","hanzi":"wear and tear","pinyin":"","vi":"hao mòn do sử dụng","ex":{"tokens":["The","sofa","shows","wear","and","tear","."],"py":["","","","","","","."],"vi":"Chiếc ghế sô-pha đã có dấu hiệu hao mòn.","alts":[]}},
    {"id":"y4150-trial_and_error","hanzi":"trial and error","pinyin":"","vi":"thử và sai","ex":{"tokens":["I","learned","to","cook","by","trial","and","error","."],"py":["","","","","","","","","."],"vi":"Tôi học nấu ăn bằng cách thử và sai.","alts":[]}},

@@ -1,0 +1,51 @@
+# Level 2 (Trung cấp): thời tiết, sức khỏe, việc nhà.
+@2|Thời tiết và sức khỏe|Thời tiết hằng ngày, ốm đau lặt vặt|Weather
+window cleaner|người lau cửa kính|The window cleaner comes once a month.|Người lau cửa kính đến mỗi tháng một lần.
+shopkeeper|chủ cửa hàng|The shopkeeper gave me a discount.|Chủ cửa hàng giảm giá cho tôi.
+roofer|thợ lợp mái|A roofer fixed the leak.|Một người thợ lợp mái sửa chỗ dột.
+traffic warden|nhân viên kiểm soát đỗ xe|A traffic warden gave me a ticket.|Một nhân viên kiểm soát đỗ xe phạt tôi.
+sunny spell|khoảng trời nắng|There will be a sunny spell in the afternoon.|Buổi chiều sẽ có lúc trời nắng.
+rain shower|cơn mưa rào|We got caught in a rain shower.|Chúng tôi gặp một cơn mưa rào.
+snowstorm|bão tuyết|The snowstorm closed the airport.|Bão tuyết khiến sân bay đóng cửa.
+light rain|mưa nhỏ|There is light rain this morning.|Sáng nay có mưa nhỏ.
+thick fog|sương mù dày đặc|Thick fog covered the road.|Sương mù dày đặc phủ kín con đường.
+weather forecast|dự báo thời tiết|The weather forecast says it will rain.|Dự báo thời tiết nói trời sẽ mưa.
+below zero|dưới không độ|It was ten degrees below zero.|Trời lạnh âm mười độ.
+wind speed|tốc độ gió|The wind speed is rising.|Tốc độ gió đang tăng.
+storm cloud|mây giông|A dark storm cloud is coming.|Một đám mây giông đen đang kéo đến.
+umbrella stand|giá để ô|Leave your umbrella in the umbrella stand.|Hãy để ô vào giá để ô.
+high temperature|sốt cao; nhiệt độ cao|The baby has a high temperature.|Em bé bị sốt cao.
+nose bleed|chảy máu cam|He had a nose bleed at school.|Cậu ấy bị chảy máu cam ở trường.
+bump|cục u; va vào|I have a bump on my head.|Tôi có một cục u trên đầu.
+splinter|cái dằm|I have a splinter in my finger.|Tôi bị dằm đâm vào ngón tay.
+insect bite|vết côn trùng cắn|Put some cream on the insect bite.|Hãy bôi ít kem lên vết côn trùng cắn.
+sick note|giấy xin nghỉ ốm|The doctor wrote me a sick note.|Bác sĩ viết cho tôi giấy xin nghỉ ốm.
+get well soon|chúc chóng khỏe|Get well soon, Grandma!|Bà chóng khỏe nhé!
+go to the doctor|đi khám bác sĩ|You should go to the doctor.|Bạn nên đi khám bác sĩ.
+take medicine|uống thuốc|Take medicine after meals.|Hãy uống thuốc sau bữa ăn.
+stay in bed|nằm nghỉ trên giường|The doctor told me to stay in bed.|Bác sĩ bảo tôi nằm nghỉ trên giường.
+feel better|thấy khỏe hơn|I hope you feel better soon.|Mong bạn sớm thấy khỏe hơn.
+feel sick|thấy buồn nôn, thấy ốm|I feel sick on boats.|Tôi thấy buồn nôn khi đi tàu thuyền.
+feel dizzy|thấy chóng mặt|I feel dizzy when I stand up fast.|Tôi thấy chóng mặt khi đứng dậy nhanh.
+lie down|nằm xuống|Lie down and close your eyes.|Hãy nằm xuống và nhắm mắt lại.
+sunshine hours|số giờ nắng|Da Nang has many sunshine hours in summer.|Đà Nẵng có nhiều giờ nắng vào mùa hè.
+
+@2|Việc nhà|Dọn dẹp, giặt giũ, sửa chữa|Chores
+do the ironing|là quần áo|I do the ironing on Sunday.|Tôi là quần áo vào Chủ nhật.
+do the washing-up|rửa bát|It is your turn to do the washing-up.|Đến lượt bạn rửa bát.
+do the vacuuming|hút bụi|Can you do the vacuuming today?|Hôm nay bạn hút bụi được không?
+do the dusting|lau bụi|I do the dusting once a week.|Tôi lau bụi mỗi tuần một lần.
+load the dishwasher|xếp bát đĩa vào máy rửa bát|Please load the dishwasher after dinner.|Hãy xếp bát đĩa vào máy rửa bát sau bữa tối.
+hang out the washing|phơi quần áo|I hang out the washing on the balcony.|Tôi phơi quần áo ngoài ban công.
+fold the clothes|gấp quần áo|Help me fold the clothes.|Hãy giúp tôi gấp quần áo.
+feed the cat|cho mèo ăn|Do not forget to feed the cat.|Đừng quên cho mèo ăn.
+sweep the floor|quét nhà|I sweep the floor every morning.|Sáng nào tôi cũng quét nhà.
+mop the floor|lau nhà|Mop the floor after you sweep.|Hãy lau nhà sau khi quét.
+clean the windows|lau cửa sổ|We clean the windows in spring.|Chúng tôi lau cửa sổ vào mùa xuân.
+tidy your room|dọn phòng|Tidy your room before you go out.|Hãy dọn phòng trước khi ra ngoài.
+wipe the table|lau bàn|Wipe the table after you eat.|Hãy lau bàn sau khi ăn.
+go grocery shopping|đi mua thực phẩm|We go grocery shopping on Saturday.|Chúng tôi đi mua thực phẩm vào thứ Bảy.
+pay the bills|trả hóa đơn|I pay the bills online.|Tôi trả hóa đơn trên mạng.
+fix the tap|sửa vòi nước|Dad will fix the tap tonight.|Tối nay bố sẽ sửa vòi nước.
+change a light bulb|thay bóng đèn|Can you change a light bulb for me?|Bạn thay giúp tôi cái bóng đèn được không?
+empty the bin|đổ rác|Please empty the bin in the kitchen.|Hãy đổ thùng rác trong bếp.

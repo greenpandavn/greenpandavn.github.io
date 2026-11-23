@@ -1,9 +1,9 @@
 {
  "units": [
-  {"unit":559,"level":5,"title":"Phần 66: Mở rộng – Từ văn chương","desc":"Từ văn chương, Từ văn chương nâng cao","color":"coral","course":"en"}
+  {"unit":559,"level":5,"title":"Phần 67: Mở rộng – Từ văn chương","desc":"Từ văn chương, Từ văn chương nâng cao","color":"coral","course":"en"}
  ],
  "lessons": [
-  {"id":"y5161","title":"Từ văn chương 1","desc":"Từ hiếm gặp trong văn học và báo chí chất lượng cao","icon":"Literary","unit":559,"course":"en","order":7250,"words":[
+  {"id":"y5161","title":"Từ văn chương 1","desc":"Từ hiếm gặp trong văn học và báo chí chất lượng cao","icon":"Literary","unit":559,"course":"en","order":7350,"words":[
    {"id":"y5161-alacrity","hanzi":"alacrity","pinyin":"","vi":"sự sốt sắng, nhanh nhẹn","ex":{"tokens":["She","accepted","the","offer","with","alacrity","."],"py":["","","","","","","."],"vi":"Cô ấy sốt sắng nhận lời đề nghị.","alts":[]}},
    {"id":"y5161-anathema","hanzi":"anathema","pinyin":"","vi":"điều bị ghét cay ghét đắng","ex":{"tokens":["Waste","is","anathema","to","him","."],"py":["","","","","","."],"vi":"Lãng phí là điều ông ấy ghét cay ghét đắng.","alts":[]}},
    {"id":"y5161-bucolic","hanzi":"bucolic","pinyin":"","vi":"thôn dã, đồng quê","ex":{"tokens":["The","painting","shows","a","bucolic","scene","."],"py":["","","","","","","."],"vi":"Bức tranh vẽ một cảnh đồng quê.","alts":[]}},
@@ -18,7 +18,7 @@
    {"id":"y5161-effervescent","hanzi":"effervescent","pinyin":"","vi":"sủi bọt; sôi nổi","ex":{"tokens":["She","has","an","effervescent","personality","."],"py":["","","","","","."],"vi":"Cô ấy có tính cách sôi nổi.","alts":[]}},
    {"id":"y5161-efficacious","hanzi":"efficacious","pinyin":"","vi":"có hiệu nghiệm","ex":{"tokens":["The","vaccine","proved","efficacious","."],"py":["","","","","."],"vi":"Vắc xin tỏ ra có hiệu nghiệm.","alts":[]}}
   ]},
-  {"id":"y5162","title":"Từ văn chương 2","desc":"Từ hiếm gặp trong văn học và báo chí chất lượng cao","icon":"Literary","unit":559,"course":"en","order":7260,"words":[
+  {"id":"y5162","title":"Từ văn chương 2","desc":"Từ hiếm gặp trong văn học và báo chí chất lượng cao","icon":"Literary","unit":559,"course":"en","order":7360,"words":[
    {"id":"y5162-egregious","hanzi":"egregious","pinyin":"","vi":"quá tệ, trắng trợn","ex":{"tokens":["It","was","an","egregious","error","."],"py":["","","","","","."],"vi":"Đó là một sai lầm quá tệ.","alts":[]}},
    {"id":"y5162-ennui","hanzi":"ennui","pinyin":"","vi":"nỗi chán chường","ex":{"tokens":["A","feeling","of","ennui","came","over","him","."],"py":["","","","","","","","."],"vi":"Một nỗi chán chường xâm chiếm anh ấy.","alts":[]}},
    {"id":"y5162-equivocate","hanzi":"equivocate","pinyin":"","vi":"nói nước đôi","ex":{"tokens":["Do","not","equivocate;","answer","yes","or","no","."],"py":["","","","","","","","."],"vi":"Đừng nói nước đôi; hãy trả lời có hoặc không.","alts":[]}},
@@ -33,7 +33,7 @@
    {"id":"y5162-insouciant","hanzi":"insouciant","pinyin":"","vi":"vô tư lự","ex":{"tokens":["He","gave","an","insouciant","shrug","."],"py":["","","","","","."],"vi":"Anh ấy nhún vai vô tư lự.","alts":[]}},
    {"id":"y5162-intransigent","hanzi":"intransigent","pinyin":"","vi":"không khoan nhượng","ex":{"tokens":["Both","sides","remain","intransigent","."],"py":["","","","","."],"vi":"Cả hai bên vẫn không khoan nhượng.","alts":[]}}
   ]},
-  {"id":"y5163","title":"Từ văn chương 3","desc":"Từ hiếm gặp trong văn học và báo chí chất lượng cao","icon":"Literary","unit":559,"course":"en","order":7270,"words":[
+  {"id":"y5163","title":"Từ văn chương 3","desc":"Từ hiếm gặp trong văn học và báo chí chất lượng cao","icon":"Literary","unit":559,"course":"en","order":7370,"words":[
    {"id":"y5163-inveterate","hanzi":"inveterate","pinyin":"","vi":"thâm căn cố đế","ex":{"tokens":["He","is","an","inveterate","liar","."],"py":["","","","","","."],"vi":"Hắn là kẻ nói dối thành tật.","alts":[]}},
    {"id":"y5163-juxtaposition","hanzi":"juxtaposition","pinyin":"","vi":"sự đặt cạnh nhau","ex":{"tokens":["The","juxtaposition","of","old","and","new","is","striking","."],"py":["","","","","","","","","."],"vi":"Sự đặt cạnh nhau giữa cũ và mới thật ấn tượng.","alts":[]}},
    {"id":"y5163-lachrymose","hanzi":"lachrymose","pinyin":"","vi":"sướt mướt, hay khóc","ex":{"tokens":["It","is","a","lachrymose","love","story","."],"py":["","","","","","","."],"vi":"Đó là một chuyện tình sướt mướt.","alts":[]}},
@@ -48,7 +48,7 @@
    {"id":"y5163-obdurate","hanzi":"obdurate","pinyin":"","vi":"ngoan cố","ex":{"tokens":["The","obdurate","minister","refused","to","resign","."],"py":["","","","","","","."],"vi":"Vị bộ trưởng ngoan cố không chịu từ chức.","alts":[]}},
    {"id":"y5163-obsequious","hanzi":"obsequious","pinyin":"","vi":"khúm núm","ex":{"tokens":["The","obsequious","waiter","bowed","again","."],"py":["","","","","","."],"vi":"Người bồi bàn khúm núm lại cúi chào.","alts":[]}}
   ]},
-  {"id":"y5164","title":"Từ văn chương 4","desc":"Từ hiếm gặp trong văn học và báo chí chất lượng cao","icon":"Literary","unit":559,"course":"en","order":7280,"words":[
+  {"id":"y5164","title":"Từ văn chương 4","desc":"Từ hiếm gặp trong văn học và báo chí chất lượng cao","icon":"Literary","unit":559,"course":"en","order":7380,"words":[
    {"id":"y5164-parsimonious","hanzi":"parsimonious","pinyin":"","vi":"keo kiệt","ex":{"tokens":["He","is","parsimonious","with","praise","."],"py":["","","","","","."],"vi":"Ông ấy keo kiệt lời khen.","alts":[]}},
    {"id":"y5164-perfidious","hanzi":"perfidious","pinyin":"","vi":"phản bội, xảo trá","ex":{"tokens":["The","king","was","betrayed","by","a","perfidious","ally","."],"py":["","","","","","","","","."],"vi":"Nhà vua bị một đồng minh xảo trá phản bội.","alts":[]}},
    {"id":"y5164-perspicacious","hanzi":"perspicacious","pinyin":"","vi":"sáng suốt, tinh tường","ex":{"tokens":["She","is","a","perspicacious","judge","of","character","."],"py":["","","","","","","","."],"vi":"Cô ấy là người nhìn người rất tinh tường.","alts":[]}},
@@ -62,7 +62,7 @@
    {"id":"y5164-recalcitrant","hanzi":"recalcitrant","pinyin":"","vi":"cứng đầu, khó bảo","ex":{"tokens":["The","recalcitrant","pupil","refused","to","sit","down","."],"py":["","","","","","","","."],"vi":"Cậu học trò cứng đầu không chịu ngồi xuống.","alts":[]}},
    {"id":"y5164-recondite","hanzi":"recondite","pinyin":"","vi":"uyên áo, khó hiểu","ex":{"tokens":["He","studies","a","recondite","branch","of","law","."],"py":["","","","","","","","."],"vi":"Ông ấy nghiên cứu một ngành luật uyên áo.","alts":[]}}
   ]},
-  {"id":"y5165","title":"Từ văn chương 5","desc":"Từ hiếm gặp trong văn học và báo chí chất lượng cao","icon":"Literary","unit":559,"course":"en","order":7290,"words":[
+  {"id":"y5165","title":"Từ văn chương 5","desc":"Từ hiếm gặp trong văn học và báo chí chất lượng cao","icon":"Literary","unit":559,"course":"en","order":7390,"words":[
    {"id":"y5165-redolent","hanzi":"redolent","pinyin":"","vi":"gợi nhớ; thơm nức","ex":{"tokens":["The","kitchen","was","redolent","of","garlic","."],"py":["","","","","","","."],"vi":"Nhà bếp thơm nức mùi tỏi.","alts":[]}},
    {"id":"y5165-sanctimonious","hanzi":"sanctimonious","pinyin":"","vi":"ra vẻ đạo đức","ex":{"tokens":["I","am","tired","of","his","sanctimonious","lectures","."],"py":["","","","","","","","."],"vi":"Tôi chán những bài giảng ra vẻ đạo đức của anh ta.","alts":[]}},
    {"id":"y5165-sardonic","hanzi":"sardonic","pinyin":"","vi":"mỉa mai, chế nhạo","ex":{"tokens":["He","gave","a","sardonic","smile","."],"py":["","","","","","."],"vi":"Anh ấy cười mỉa mai.","alts":[]}},
@@ -76,7 +76,7 @@
    {"id":"y5165-unctuous","hanzi":"unctuous","pinyin":"","vi":"ngọt xớt, giả dối","ex":{"tokens":["I","do","not","trust","his","unctuous","manner","."],"py":["","","","","","","","."],"vi":"Tôi không tin thái độ ngọt xớt của hắn.","alts":[]}},
    {"id":"y5165-vapid","hanzi":"vapid","pinyin":"","vi":"nhạt nhẽo","ex":{"tokens":["It","was","a","vapid","television","show","."],"py":["","","","","","","."],"vi":"Đó là một chương trình truyền hình nhạt nhẽo.","alts":[]}}
   ]},
-  {"id":"y5166","title":"Từ văn chương 6","desc":"Từ hiếm gặp trong văn học và báo chí chất lượng cao","icon":"Literary","unit":559,"course":"en","order":7300,"words":[
+  {"id":"y5166","title":"Từ văn chương 6","desc":"Từ hiếm gặp trong văn học và báo chí chất lượng cao","icon":"Literary","unit":559,"course":"en","order":7400,"words":[
    {"id":"y5166-venerable","hanzi":"venerable","pinyin":"","vi":"đáng kính","ex":{"tokens":["The","venerable","professor","retired","at","eighty","."],"py":["","","","","","","."],"vi":"Vị giáo sư đáng kính nghỉ hưu ở tuổi tám mươi.","alts":[]}},
    {"id":"y5166-verdant","hanzi":"verdant","pinyin":"","vi":"xanh tươi","ex":{"tokens":["We","drove","through","verdant","hills","."],"py":["","","","","","."],"vi":"Chúng tôi lái xe qua những ngọn đồi xanh tươi.","alts":[]}},
    {"id":"y5166-vicissitude","hanzi":"vicissitude","pinyin":"","vi":"sự thăng trầm","ex":{"tokens":["Every","vicissitude","of","life","taught","her","something","."],"py":["","","","","","","","."],"vi":"Mỗi thăng trầm của cuộc đời đều dạy cô ấy một điều.","alts":[]}},
@@ -90,7 +90,7 @@
    {"id":"y5166-pulchritude","hanzi":"pulchritude","pinyin":"","vi":"vẻ đẹp","ex":{"tokens":["The","poem","praises","the","pulchritude","of","the","queen","."],"py":["","","","","","","","","."],"vi":"Bài thơ ca ngợi vẻ đẹp của nữ hoàng.","alts":[]}},
    {"id":"y5166-vituperate","hanzi":"vituperate","pinyin":"","vi":"chửi rủa, lăng mạ","ex":{"tokens":["Critics","vituperate","the","director","online","."],"py":["","","","","","."],"vi":"Các nhà phê bình lăng mạ vị đạo diễn trên mạng.","alts":[]}}
   ]},
-  {"id":"y5167","title":"Từ văn chương nâng cao 1","desc":"Từ hiếm gặp trong văn học và báo chí chất lượng cao","icon":"Erudite","unit":559,"course":"en","order":7310,"words":[
+  {"id":"y5167","title":"Từ văn chương nâng cao 1","desc":"Từ hiếm gặp trong văn học và báo chí chất lượng cao","icon":"Erudite","unit":559,"course":"en","order":7410,"words":[
    {"id":"y5167-abnegation","hanzi":"abnegation","pinyin":"","vi":"sự từ bỏ, hy sinh bản thân","ex":{"tokens":["Her","life","was","one","of","abnegation","."],"py":["","","","","","","."],"vi":"Cuộc đời bà ấy là một đời hy sinh bản thân.","alts":[]}},
    {"id":"y5167-acquisitive","hanzi":"acquisitive","pinyin":"","vi":"hám của, thích thu vén","ex":{"tokens":["We","live","in","an","acquisitive","society","."],"py":["","","","","","","."],"vi":"Chúng ta sống trong một xã hội hám của.","alts":[]}},
    {"id":"y5167-adroit","hanzi":"adroit","pinyin":"","vi":"khéo léo","ex":{"tokens":["She","is","an","adroit","negotiator","."],"py":["","","","","","."],"vi":"Cô ấy là một nhà đàm phán khéo léo.","alts":[]}},
@@ -105,7 +105,7 @@
    {"id":"y5167-craven","hanzi":"craven","pinyin":"","vi":"hèn nhát","ex":{"tokens":["It","was","a","craven","decision","."],"py":["","","","","","."],"vi":"Đó là một quyết định hèn nhát.","alts":[]}},
    {"id":"y5167-deleterious","hanzi":"deleterious","pinyin":"","vi":"có hại","ex":{"tokens":["Smoking","has","a","deleterious","effect","on","health","."],"py":["","","","","","","","."],"vi":"Hút thuốc có tác hại đối với sức khỏe.","alts":[]}}
   ]},
-  {"id":"y5168","title":"Từ văn chương nâng cao 2","desc":"Từ hiếm gặp trong văn học và báo chí chất lượng cao","icon":"Erudite","unit":559,"course":"en","order":7320,"words":[
+  {"id":"y5168","title":"Từ văn chương nâng cao 2","desc":"Từ hiếm gặp trong văn học và báo chí chất lượng cao","icon":"Erudite","unit":559,"course":"en","order":7420,"words":[
    {"id":"y5168-demagogue","hanzi":"demagogue","pinyin":"","vi":"kẻ mị dân","ex":{"tokens":["The","demagogue","promised","easy","answers","."],"py":["","","","","","."],"vi":"Kẻ mị dân hứa hẹn những lời giải dễ dàng.","alts":[]}},
    {"id":"y5168-diatribe","hanzi":"diatribe","pinyin":"","vi":"bài công kích gay gắt","ex":{"tokens":["He","launched","into","a","diatribe","against","the","press","."],"py":["","","","","","","","","."],"vi":"Ông ta tuôn ra một tràng công kích báo chí.","alts":[]}},
    {"id":"y5168-dilettante","hanzi":"dilettante","pinyin":"","vi":"kẻ tài tử, làm chơi","ex":{"tokens":["He","is","a","dilettante",",","not","a","serious","painter","."],"py":["","","","",",","","","","","."],"vi":"Anh ta chỉ vẽ chơi, không phải họa sĩ nghiêm túc.","alts":[]}},
@@ -119,7 +119,7 @@
    {"id":"y5168-extirpate","hanzi":"extirpate","pinyin":"","vi":"nhổ tận gốc, trừ tiệt","ex":{"tokens":["They","vowed","to","extirpate","corruption","."],"py":["","","","","","."],"vi":"Họ thề sẽ trừ tiệt tham nhũng.","alts":[]}},
    {"id":"y5168-fatuous","hanzi":"fatuous","pinyin":"","vi":"ngớ ngẩn","ex":{"tokens":["He","made","a","fatuous","remark","."],"py":["","","","","","."],"vi":"Anh ta đưa ra một nhận xét ngớ ngẩn.","alts":[]}}
   ]},
-  {"id":"y5169","title":"Từ văn chương nâng cao 3","desc":"Từ hiếm gặp trong văn học và báo chí chất lượng cao","icon":"Erudite","unit":559,"course":"en","order":7330,"words":[
+  {"id":"y5169","title":"Từ văn chương nâng cao 3","desc":"Từ hiếm gặp trong văn học và báo chí chất lượng cao","icon":"Erudite","unit":559,"course":"en","order":7430,"words":[
    {"id":"y5169-forbearance","hanzi":"forbearance","pinyin":"","vi":"sự nhẫn nại, khoan dung","ex":{"tokens":["Thank","you","for","your","forbearance","."],"py":["","","","","","."],"vi":"Cảm ơn sự nhẫn nại của bạn.","alts":[]}},
    {"id":"y5169-fulsome","hanzi":"fulsome","pinyin":"","vi":"(khen) quá lời","ex":{"tokens":["He","offered","fulsome","praise","."],"py":["","","","","."],"vi":"Ông ấy khen quá lời.","alts":[]}},
    {"id":"y5169-grandiloquent","hanzi":"grandiloquent","pinyin":"","vi":"khoa trương, đao to búa lớn","ex":{"tokens":["The","mayor","gave","a","grandiloquent","speech","."],"py":["","","","","","","."],"vi":"Thị trưởng có bài phát biểu đao to búa lớn.","alts":[]}},
@@ -133,7 +133,7 @@
    {"id":"y5169-invective","hanzi":"invective","pinyin":"","vi":"lời công kích, chửi rủa","ex":{"tokens":["The","debate","ended","in","a","stream","of","invective","."],"py":["","","","","","","","","."],"vi":"Cuộc tranh luận kết thúc bằng một tràng chửi rủa.","alts":[]}},
    {"id":"y5169-irascible","hanzi":"irascible","pinyin":"","vi":"nóng tính","ex":{"tokens":["The","irascible","old","man","shouted","at","the","children","."],"py":["","","","","","","","","."],"vi":"Ông già nóng tính quát bọn trẻ.","alts":[]}}
   ]},
-  {"id":"y5170","title":"Từ văn chương nâng cao 4","desc":"Từ hiếm gặp trong văn học và báo chí chất lượng cao","icon":"Erudite","unit":559,"course":"en","order":7340,"words":[
+  {"id":"y5170","title":"Từ văn chương nâng cao 4","desc":"Từ hiếm gặp trong văn học và báo chí chất lượng cao","icon":"Erudite","unit":559,"course":"en","order":7440,"words":[
    {"id":"y5170-jejune","hanzi":"jejune","pinyin":"","vi":"ngây ngô, nhạt nhẽo","ex":{"tokens":["The","essay","is","full","of","jejune","ideas","."],"py":["","","","","","","","."],"vi":"Bài luận đầy những ý tưởng ngây ngô.","alts":[]}},
    {"id":"y5170-laudatory","hanzi":"laudatory","pinyin":"","vi":"có tính khen ngợi","ex":{"tokens":["The","book","received","laudatory","reviews","."],"py":["","","","","","."],"vi":"Cuốn sách nhận được những bài bình khen ngợi.","alts":[]}},
    {"id":"y5170-licentious","hanzi":"licentious","pinyin":"","vi":"phóng đãng","ex":{"tokens":["The","emperor","led","a","licentious","life","."],"py":["","","","","","","."],"vi":"Hoàng đế sống một cuộc đời phóng đãng.","alts":[]}},

@@ -1,9 +1,9 @@
 {
  "units": [
-  {"unit":561,"level":5,"title":"Phần 68: Mở rộng – Pháp luật và thể chế","desc":"Pháp luật và thể chế, Thiên văn học, Địa chất học, Toán học nâng cao, Từ vựng tổng hợp","color":"leaf","course":"en"}
+  {"unit":561,"level":5,"title":"Phần 69: Mở rộng – Pháp luật và thể chế","desc":"Pháp luật và thể chế, Thiên văn học, Địa chất học, Toán học nâng cao, Từ vựng tổng hợp","color":"leaf","course":"en"}
  ],
  "lessons": [
-  {"id":"y5201","title":"Pháp luật và thể chế 3","desc":"Tố tụng, hợp đồng, nghị viện, thể chế chính trị","icon":"Governance","unit":561,"course":"en","order":7450,"words":[
+  {"id":"y5201","title":"Pháp luật và thể chế 3","desc":"Tố tụng, hợp đồng, nghị viện, thể chế chính trị","icon":"Governance","unit":561,"course":"en","order":7550,"words":[
    {"id":"y5201-ratification","hanzi":"ratification","pinyin":"","vi":"sự phê chuẩn","ex":{"tokens":["The","treaty","awaits","ratification","."],"py":["","","","","."],"vi":"Hiệp ước đang chờ phê chuẩn.","alts":[]}},
    {"id":"y5201-plebiscite","hanzi":"plebiscite","pinyin":"","vi":"cuộc trưng cầu dân ý","ex":{"tokens":["The","region","held","a","plebiscite","on","independence","."],"py":["","","","","","","","."],"vi":"Vùng này tổ chức trưng cầu dân ý về độc lập.","alts":[]}},
    {"id":"y5201-legislature","hanzi":"legislature","pinyin":"","vi":"cơ quan lập pháp","ex":{"tokens":["The","legislature","passed","the","budget","."],"py":["","","","","","."],"vi":"Cơ quan lập pháp thông qua ngân sách.","alts":[]}},
@@ -19,7 +19,7 @@
    {"id":"y5201-separation_of_powers","hanzi":"separation of powers","pinyin":"","vi":"tam quyền phân lập","ex":{"tokens":["The","constitution","protects","the","separation","of","powers","."],"py":["","","","","","","","."],"vi":"Hiến pháp bảo vệ nguyên tắc phân quyền.","alts":[]}},
    {"id":"y5201-rule_of_law","hanzi":"rule of law","pinyin":"","vi":"pháp quyền","ex":{"tokens":["Investors","want","the","rule","of","law","."],"py":["","","","","","","."],"vi":"Nhà đầu tư cần pháp quyền.","alts":[]}}
   ]},
-  {"id":"y5202","title":"Pháp luật và thể chế 4","desc":"Tố tụng, hợp đồng, nghị viện, thể chế chính trị","icon":"Governance","unit":561,"course":"en","order":7460,"words":[
+  {"id":"y5202","title":"Pháp luật và thể chế 4","desc":"Tố tụng, hợp đồng, nghị viện, thể chế chính trị","icon":"Governance","unit":561,"course":"en","order":7560,"words":[
    {"id":"y5202-federalism","hanzi":"federalism","pinyin":"","vi":"chế độ liên bang","ex":{"tokens":["Federalism","gives","power","to","the","states","."],"py":["","","","","","","."],"vi":"Chế độ liên bang trao quyền cho các bang.","alts":[]}},
    {"id":"y5202-technocrat","hanzi":"technocrat","pinyin":"","vi":"nhà kỹ trị","ex":{"tokens":["A","technocrat","was","named","finance","minister","."],"py":["","","","","","","."],"vi":"Một nhà kỹ trị được bổ nhiệm làm bộ trưởng tài chính.","alts":[]}},
    {"id":"y5202-theocracy","hanzi":"theocracy","pinyin":"","vi":"chế độ thần quyền","ex":{"tokens":["The","country","is","ruled","as","a","theocracy","."],"py":["","","","","","","","."],"vi":"Đất nước được cai trị theo chế độ thần quyền.","alts":[]}},
@@ -35,7 +35,7 @@
    {"id":"y5202-attach_","hanzi":"attaché","pinyin":"","vi":"tùy viên","ex":{"tokens":["He","is","the","cultural","attaché","at","the","embassy","."],"py":["","","","","","","","","."],"vi":"Ông ấy là tùy viên văn hóa của đại sứ quán.","alts":[]}},
    {"id":"y5202-communiqu_","hanzi":"communiqué","pinyin":"","vi":"thông cáo chính thức","ex":{"tokens":["The","leaders","issued","a","joint","communiqué","."],"py":["","","","","","","."],"vi":"Các nhà lãnh đạo ra thông cáo chung.","alts":[]}}
   ]},
-  {"id":"y5203","title":"Thiên văn học 4","desc":"Sao, thiên hà, tàu vũ trụ","icon":"Cosmos","unit":561,"course":"en","order":7470,"words":[
+  {"id":"y5203","title":"Thiên văn học 4","desc":"Sao, thiên hà, tàu vũ trụ","icon":"Cosmos","unit":561,"course":"en","order":7570,"words":[
    {"id":"y5203-asteroid_belt","hanzi":"asteroid belt","pinyin":"","vi":"vành đai tiểu hành tinh","ex":{"tokens":["The","asteroid","belt","lies","between","Mars","and","Jupiter","."],"py":["","","","","","","","","."],"vi":"Vành đai tiểu hành tinh nằm giữa sao Hỏa và sao Mộc.","alts":[]}},
    {"id":"y5203-meteor_shower","hanzi":"meteor shower","pinyin":"","vi":"mưa sao băng","ex":{"tokens":["We","watched","a","meteor","shower","last","night","."],"py":["","","","","","","","."],"vi":"Đêm qua chúng tôi ngắm mưa sao băng.","alts":[]}},
    {"id":"y5203-quasar","hanzi":"quasar","pinyin":"","vi":"chuẩn tinh","ex":{"tokens":["A","quasar","is","brighter","than","a","whole","galaxy","."],"py":["","","","","","","","","."],"vi":"Một chuẩn tinh sáng hơn cả một thiên hà.","alts":[]}},
@@ -51,7 +51,7 @@
    {"id":"y5203-solar_flare","hanzi":"solar flare","pinyin":"","vi":"bão lửa mặt trời","ex":{"tokens":["A","solar","flare","can","disturb","radio","signals","."],"py":["","","","","","","","."],"vi":"Bão lửa mặt trời có thể gây nhiễu tín hiệu vô tuyến.","alts":[]}},
    {"id":"y5203-sunspot","hanzi":"sunspot","pinyin":"","vi":"vết đen mặt trời","ex":{"tokens":["A","sunspot","is","cooler","than","the","area","around","it","."],"py":["","","","","","","","","","."],"vi":"Vết đen mặt trời nguội hơn vùng xung quanh.","alts":[]}}
   ]},
-  {"id":"y5204","title":"Thiên văn học 5","desc":"Sao, thiên hà, tàu vũ trụ","icon":"Cosmos","unit":561,"course":"en","order":7480,"words":[
+  {"id":"y5204","title":"Thiên văn học 5","desc":"Sao, thiên hà, tàu vũ trụ","icon":"Cosmos","unit":561,"course":"en","order":7580,"words":[
    {"id":"y5204-solar_wind","hanzi":"solar wind","pinyin":"","vi":"gió mặt trời","ex":{"tokens":["The","solar","wind","causes","the","northern","lights","."],"py":["","","","","","","","."],"vi":"Gió mặt trời tạo ra cực quang.","alts":[]}},
    {"id":"y5204-corona","hanzi":"corona","pinyin":"","vi":"vành nhật hoa","ex":{"tokens":["The","corona","is","visible","during","an","eclipse","."],"py":["","","","","","","","."],"vi":"Vành nhật hoa nhìn thấy được khi có nhật thực.","alts":[]}},
    {"id":"y5204-lunar_eclipse","hanzi":"lunar eclipse","pinyin":"","vi":"nguyệt thực","ex":{"tokens":["There","will","be","a","lunar","eclipse","tonight","."],"py":["","","","","","","","."],"vi":"Tối nay sẽ có nguyệt thực.","alts":[]}},
@@ -67,7 +67,7 @@
    {"id":"y5204-astrophysics","hanzi":"astrophysics","pinyin":"","vi":"vật lý thiên văn","ex":{"tokens":["She","has","a","degree","in","astrophysics","."],"py":["","","","","","","."],"vi":"Cô ấy có bằng vật lý thiên văn.","alts":[]}},
    {"id":"y5204-radio_telescope","hanzi":"radio telescope","pinyin":"","vi":"kính thiên văn vô tuyến","ex":{"tokens":["The","radio","telescope","is","in","the","desert","."],"py":["","","","","","","","."],"vi":"Kính thiên văn vô tuyến đặt giữa sa mạc.","alts":[]}}
   ]},
-  {"id":"y5205","title":"Địa chất học","desc":"Kiến tạo, đá, động đất","icon":"Geology","unit":561,"course":"en","order":7490,"words":[
+  {"id":"y5205","title":"Địa chất học","desc":"Kiến tạo, đá, động đất","icon":"Geology","unit":561,"course":"en","order":7590,"words":[
    {"id":"y5205-tectonic_plate","hanzi":"tectonic plate","pinyin":"","vi":"mảng kiến tạo","ex":{"tokens":["Japan","sits","on","the","edge","of","a","tectonic","plate","."],"py":["","","","","","","","","","."],"vi":"Nhật Bản nằm trên rìa một mảng kiến tạo.","alts":[]}},
    {"id":"y5205-fault_line","hanzi":"fault line","pinyin":"","vi":"đường đứt gãy","ex":{"tokens":["The","city","was","built","on","a","fault","line","."],"py":["","","","","","","","","."],"vi":"Thành phố được xây trên một đường đứt gãy.","alts":[]}},
    {"id":"y5205-seismic","hanzi":"seismic","pinyin":"","vi":"thuộc địa chấn","ex":{"tokens":["Seismic","activity","increased","last","week","."],"py":["","","","","","."],"vi":"Hoạt động địa chấn gia tăng vào tuần trước.","alts":[]}},
@@ -83,7 +83,7 @@
    {"id":"y5205-strata","hanzi":"strata","pinyin":"","vi":"các tầng địa chất","ex":{"tokens":["The","cliff","shows","clear","strata","."],"py":["","","","","","."],"vi":"Vách đá lộ rõ các tầng địa chất.","alts":[]}},
    {"id":"y5205-weathering","hanzi":"weathering","pinyin":"","vi":"sự phong hóa","ex":{"tokens":["Weathering","slowly","breaks","down","rock","."],"py":["","","","","","."],"vi":"Sự phong hóa dần phá vỡ đá.","alts":[]}}
   ]},
-  {"id":"y5206","title":"Toán học nâng cao 1","desc":"Số, phương trình, hình học, thống kê","icon":"Maths","unit":561,"course":"en","order":7500,"words":[
+  {"id":"y5206","title":"Toán học nâng cao 1","desc":"Số, phương trình, hình học, thống kê","icon":"Maths","unit":561,"course":"en","order":7600,"words":[
    {"id":"y5206-prime_number","hanzi":"prime number","pinyin":"","vi":"số nguyên tố","ex":{"tokens":["Seven","is","a","prime","number","."],"py":["","","","","","."],"vi":"Bảy là một số nguyên tố.","alts":[]}},
    {"id":"y5206-rational_number","hanzi":"rational number","pinyin":"","vi":"số hữu tỉ","ex":{"tokens":["One","half","is","a","rational","number","."],"py":["","","","","","","."],"vi":"Một phần hai là một số hữu tỉ.","alts":[]}},
    {"id":"y5206-irrational_number","hanzi":"irrational number","pinyin":"","vi":"số vô tỉ","ex":{"tokens":["Pi","is","an","irrational","number","."],"py":["","","","","","."],"vi":"Pi là một số vô tỉ.","alts":[]}},
@@ -98,7 +98,7 @@
    {"id":"y5206-limit","hanzi":"limit","pinyin":"","vi":"giới hạn","ex":{"tokens":["Find","the","limit","as","x","approaches","zero","."],"py":["","","","","","","","."],"vi":"Hãy tìm giới hạn khi x tiến tới không.","alts":[]}},
    {"id":"y5206-asymptote","hanzi":"asymptote","pinyin":"","vi":"đường tiệm cận","ex":{"tokens":["The","curve","approaches","the","asymptote","but","never","touches","it","."],"py":["","","","","","","","","","."],"vi":"Đường cong tiến gần đường tiệm cận nhưng không bao giờ chạm vào.","alts":[]}}
   ]},
-  {"id":"y5207","title":"Toán học nâng cao 2","desc":"Số, phương trình, hình học, thống kê","icon":"Maths","unit":561,"course":"en","order":7510,"words":[
+  {"id":"y5207","title":"Toán học nâng cao 2","desc":"Số, phương trình, hình học, thống kê","icon":"Maths","unit":561,"course":"en","order":7610,"words":[
    {"id":"y5207-sine","hanzi":"sine","pinyin":"","vi":"sin","ex":{"tokens":["The","sine","of","thirty","degrees","is","one","half","."],"py":["","","","","","","","","."],"vi":"Sin của ba mươi độ bằng một phần hai.","alts":[]}},
    {"id":"y5207-cosine","hanzi":"cosine","pinyin":"","vi":"cô-sin","ex":{"tokens":["The","cosine","of","zero","is","one","."],"py":["","","","","","","."],"vi":"Cô-sin của không bằng một.","alts":[]}},
    {"id":"y5207-parallel_lines","hanzi":"parallel lines","pinyin":"","vi":"các đường thẳng song song","ex":{"tokens":["Parallel","lines","never","meet","."],"py":["","","","","."],"vi":"Các đường thẳng song song không bao giờ cắt nhau.","alts":[]}},
@@ -113,7 +113,7 @@
    {"id":"y5207-confidence_interval","hanzi":"confidence interval","pinyin":"","vi":"khoảng tin cậy","ex":{"tokens":["The","confidence","interval","is","quite","wide","."],"py":["","","","","","","."],"vi":"Khoảng tin cậy khá rộng.","alts":[]}},
    {"id":"y5207-margin_of_error","hanzi":"margin of error","pinyin":"","vi":"biên độ sai số","ex":{"tokens":["The","poll","has","a","margin","of","error","of","three","percent","."],"py":["","","","","","","","","","","."],"vi":"Cuộc thăm dò có biên độ sai số ba phần trăm.","alts":[]}}
   ]},
-  {"id":"y5208","title":"Từ vựng tổng hợp 6","desc":"Từ thuộc nhiều chủ đề","icon":"Mix","unit":561,"course":"en","order":7520,"words":[
+  {"id":"y5208","title":"Từ vựng tổng hợp 7","desc":"Từ thuộc nhiều chủ đề","icon":"Mix","unit":561,"course":"en","order":7620,"words":[
    {"id":"y5208-multilateral","hanzi":"multilateral","pinyin":"","vi":"đa phương","ex":{"tokens":["They","signed","a","multilateral","trade","deal","."],"py":["","","","","","","."],"vi":"Họ ký một thỏa thuận thương mại đa phương.","alts":[]}},
    {"id":"y5208-promulgate","hanzi":"promulgate","pinyin":"","vi":"ban hành, công bố","ex":{"tokens":["The","government","will","promulgate","the","new","law","in","May","."],"py":["","","","","","","","","","."],"vi":"Chính phủ sẽ ban hành luật mới vào tháng Năm.","alts":[]}},
    {"id":"y5208-abrogate","hanzi":"abrogate","pinyin":"","vi":"bãi bỏ, hủy bỏ","ex":{"tokens":["The","state","cannot","abrogate","that","right","."],"py":["","","","","","","."],"vi":"Nhà nước không thể bãi bỏ quyền đó.","alts":[]}},
