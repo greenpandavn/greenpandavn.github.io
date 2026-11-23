@@ -1,6 +1,6 @@
 {
  "units": [
-  {"unit":353,"level":3,"title":"Phần 26: Mở rộng – Đồ đạc trong nhà","desc":"Đồ đạc trong nhà, Dụng cụ và vật liệu, Xe hơi và lái xe, Từ vựng tổng hợp","color":"grape","course":"en"}
+  {"unit":353,"level":3,"title":"Phần 26: Mở rộng – Đồ đạc trong nhà","desc":"Đồ đạc trong nhà, Dụng cụ và vật liệu, Xe hơi và lái xe, Thể thao và tập luyện","color":"grape","course":"en"}
  ],
  "lessons": [
   {"id":"y3041","title":"Đồ đạc trong nhà 3","desc":"Bàn ghế, giường tủ, đồ dọn dẹp","icon":"Furniture","unit":353,"course":"en","order":2810,"words":[
@@ -99,20 +99,62 @@
    {"id":"y3046-speed_bump","hanzi":"speed bump","pinyin":"","vi":"gờ giảm tốc","ex":{"tokens":["Slow","down","for","the","speed","bump","."],"py":["","","","","","","."],"vi":"Hãy giảm tốc ở gờ giảm tốc.","alts":[]}},
    {"id":"y3046-pothole","hanzi":"pothole","pinyin":"","vi":"ổ gà","ex":{"tokens":["The","car","hit","a","pothole","."],"py":["","","","","","."],"vi":"Chiếc xe đâm vào ổ gà.","alts":[]}}
   ]},
-  {"id":"y3047","title":"Từ vựng tổng hợp","desc":"Từ thuộc nhiều chủ đề","icon":"Mix","unit":353,"course":"en","order":2870,"words":[
-   {"id":"y3047-candlestick","hanzi":"candlestick","pinyin":"","vi":"chân nến","ex":{"tokens":["There","is","a","silver","candlestick","on","the","table","."],"py":["","","","","","","","","."],"vi":"Có một chiếc chân nến bạc trên bàn.","alts":[]}},
-   {"id":"y3047-ornament","hanzi":"ornament","pinyin":"","vi":"đồ trang trí","ex":{"tokens":["She","hung","an","ornament","on","the","tree","."],"py":["","","","","","","","."],"vi":"Cô ấy treo một món đồ trang trí lên cây.","alts":[]}},
-   {"id":"y3047-picture_frame","hanzi":"picture frame","pinyin":"","vi":"khung ảnh","ex":{"tokens":["The","photo","is","in","a","wooden","picture","frame","."],"py":["","","","","","","","","."],"vi":"Bức ảnh nằm trong khung gỗ.","alts":[]}},
-   {"id":"y3047-ottoman","hanzi":"ottoman","pinyin":"","vi":"ghế đôn bọc nệm","ex":{"tokens":["She","keeps","blankets","inside","the","ottoman","."],"py":["","","","","","","."],"vi":"Cô ấy cất chăn bên trong ghế đôn.","alts":[]}},
-   {"id":"y3047-scrubber","hanzi":"scrubber","pinyin":"","vi":"miếng cọ rửa","ex":{"tokens":["Clean","the","pan","with","a","scrubber","."],"py":["","","","","","","."],"vi":"Hãy cọ chảo bằng miếng cọ rửa.","alts":[]}},
-   {"id":"y3047-feather_duster","hanzi":"feather duster","pinyin":"","vi":"chổi lông gà","ex":{"tokens":["She","cleaned","the","shelves","with","a","feather","duster","."],"py":["","","","","","","","","."],"vi":"Cô ấy lau kệ bằng chổi lông gà.","alts":[]}},
-   {"id":"y3047-curb","hanzi":"curb","pinyin":"","vi":"lề đường, mép vỉa hè","ex":{"tokens":["He","parked","next","to","the","curb","."],"py":["","","","","","","."],"vi":"Anh ấy đỗ xe sát lề đường.","alts":[]}},
-   {"id":"y3047-pedestrian_crossing","hanzi":"pedestrian crossing","pinyin":"","vi":"vạch sang đường cho người đi bộ","ex":{"tokens":["Stop","at","the","pedestrian","crossing","."],"py":["","","","","","."],"vi":"Hãy dừng lại ở vạch sang đường.","alts":[]}},
-   {"id":"y3047-fender","hanzi":"fender","pinyin":"","vi":"tấm chắn bùn","ex":{"tokens":["The","fender","was","bent","in","the","accident","."],"py":["","","","","","","","."],"vi":"Tấm chắn bùn bị móp trong vụ tai nạn.","alts":[]}},
-   {"id":"y3047-muffler","hanzi":"muffler","pinyin":"","vi":"ống giảm thanh; khăn quàng","ex":{"tokens":["The","car","needs","a","new","muffler","."],"py":["","","","","","","."],"vi":"Chiếc xe cần ống giảm thanh mới.","alts":[]}},
-   {"id":"y3047-hubcap","hanzi":"hubcap","pinyin":"","vi":"ốp bánh xe","ex":{"tokens":["A","hubcap","rolled","across","the","road","."],"py":["","","","","","","."],"vi":"Một chiếc ốp bánh xe lăn ngang đường.","alts":[]}},
-   {"id":"y3047-odometer","hanzi":"odometer","pinyin":"","vi":"đồng hồ đo quãng đường","ex":{"tokens":["The","odometer","shows","fifty","thousand","kilometers","."],"py":["","","","","","","."],"vi":"Đồng hồ đo quãng đường chỉ năm mươi nghìn cây số.","alts":[]}},
-   {"id":"y3047-tailgate","hanzi":"tailgate","pinyin":"","vi":"bám sát đuôi xe; cửa hậu","ex":{"tokens":["Do","not","tailgate","the","car","in","front","."],"py":["","","","","","","","."],"vi":"Đừng bám sát đuôi xe phía trước.","alts":[]}}
+  {"id":"y3047","title":"Thể thao và tập luyện 1","desc":"Môn thể thao, vị trí thi đấu, bài tập","icon":"Sport","unit":353,"course":"en","order":2870,"words":[
+   {"id":"y3047-substitute","hanzi":"substitute","pinyin":"","vi":"cầu thủ dự bị; thay thế","ex":{"tokens":["The","coach","sent","on","a","substitute","."],"py":["","","","","","","."],"vi":"Huấn luyện viên tung một cầu thủ dự bị vào sân.","alts":[]}},
+   {"id":"y3047-goalkeeper","hanzi":"goalkeeper","pinyin":"","vi":"thủ môn","ex":{"tokens":["The","goalkeeper","saved","the","penalty","."],"py":["","","","","","."],"vi":"Thủ môn cản được quả phạt đền.","alts":[]}},
+   {"id":"y3047-striker","hanzi":"striker","pinyin":"","vi":"tiền đạo","ex":{"tokens":["The","striker","scored","two","goals","."],"py":["","","","","","."],"vi":"Tiền đạo ghi hai bàn.","alts":[]}},
+   {"id":"y3047-defender","hanzi":"defender","pinyin":"","vi":"hậu vệ","ex":{"tokens":["The","defender","blocked","the","shot","."],"py":["","","","","","."],"vi":"Hậu vệ chặn cú sút.","alts":[]}},
+   {"id":"y3047-midfielder","hanzi":"midfielder","pinyin":"","vi":"tiền vệ","ex":{"tokens":["The","midfielder","passed","the","ball","forward","."],"py":["","","","","","","."],"vi":"Tiền vệ chuyền bóng lên phía trước.","alts":[]}},
+   {"id":"y3047-jockey","hanzi":"jockey","pinyin":"","vi":"nài ngựa","ex":{"tokens":["The","jockey","fell","off","his","horse","."],"py":["","","","","","","."],"vi":"Nài ngựa ngã khỏi ngựa.","alts":[]}},
+   {"id":"y3047-wrestler","hanzi":"wrestler","pinyin":"","vi":"đô vật","ex":{"tokens":["The","wrestler","lifted","his","opponent","."],"py":["","","","","","."],"vi":"Đô vật nhấc bổng đối thủ.","alts":[]}},
+   {"id":"y3047-boxer","hanzi":"boxer","pinyin":"","vi":"võ sĩ quyền anh","ex":{"tokens":["The","boxer","won","in","the","third","round","."],"py":["","","","","","","","."],"vi":"Võ sĩ thắng ở hiệp ba.","alts":[]}},
+   {"id":"y3047-archer","hanzi":"archer","pinyin":"","vi":"cung thủ","ex":{"tokens":["The","archer","hit","the","center","of","the","target","."],"py":["","","","","","","","","."],"vi":"Cung thủ bắn trúng hồng tâm.","alts":[]}},
+   {"id":"y3047-gymnast","hanzi":"gymnast","pinyin":"","vi":"vận động viên thể dục dụng cụ","ex":{"tokens":["The","gymnast","landed","perfectly","."],"py":["","","","","."],"vi":"Vận động viên thể dục tiếp đất hoàn hảo.","alts":[]}},
+   {"id":"y3047-sprinter","hanzi":"sprinter","pinyin":"","vi":"vận động viên chạy nước rút","ex":{"tokens":["The","sprinter","ran","one","hundred","meters","in","ten","seconds","."],"py":["","","","","","","","","","."],"vi":"Vận động viên chạy một trăm mét trong mười giây.","alts":[]}},
+   {"id":"y3047-marathon","hanzi":"marathon","pinyin":"","vi":"cuộc chạy ma ra tông","ex":{"tokens":["She","ran","her","first","marathon","last","year","."],"py":["","","","","","","","."],"vi":"Năm ngoái cô ấy chạy ma ra tông lần đầu.","alts":[]}},
+   {"id":"y3047-pole_vault","hanzi":"pole vault","pinyin":"","vi":"nhảy sào","ex":{"tokens":["He","broke","the","record","in","the","pole","vault","."],"py":["","","","","","","","","."],"vi":"Anh ấy phá kỷ lục nhảy sào.","alts":[]}}
+  ]},
+  {"id":"y3048","title":"Thể thao và tập luyện 2","desc":"Môn thể thao, vị trí thi đấu, bài tập","icon":"Sport","unit":353,"course":"en","order":2880,"words":[
+   {"id":"y3048-long_jump","hanzi":"long jump","pinyin":"","vi":"nhảy xa","ex":{"tokens":["She","won","a","medal","in","the","long","jump","."],"py":["","","","","","","","","."],"vi":"Cô ấy giành huy chương môn nhảy xa.","alts":[]}},
+   {"id":"y3048-high_jump","hanzi":"high jump","pinyin":"","vi":"nhảy cao","ex":{"tokens":["He","practices","the","high","jump","after","school","."],"py":["","","","","","","","."],"vi":"Cậu ấy tập nhảy cao sau giờ học.","alts":[]}},
+   {"id":"y3048-triathlon","hanzi":"triathlon","pinyin":"","vi":"ba môn phối hợp","ex":{"tokens":["A","triathlon","includes","swimming",",","cycling","and","running","."],"py":["","","","",",","","","","."],"vi":"Ba môn phối hợp gồm bơi, đạp xe và chạy.","alts":[]}},
+   {"id":"y3048-weightlifting","hanzi":"weightlifting","pinyin":"","vi":"cử tạ","ex":{"tokens":["Vietnam","has","won","medals","in","weightlifting","."],"py":["","","","","","","."],"vi":"Việt Nam từng giành huy chương môn cử tạ.","alts":[]}},
+   {"id":"y3048-wrestling","hanzi":"wrestling","pinyin":"","vi":"môn vật","ex":{"tokens":["Wrestling","is","an","ancient","sport","."],"py":["","","","","","."],"vi":"Vật là một môn thể thao cổ xưa.","alts":[]}},
+   {"id":"y3048-fencing","hanzi":"fencing","pinyin":"","vi":"môn đấu kiếm","ex":{"tokens":["She","took","up","fencing","at","university","."],"py":["","","","","","","."],"vi":"Cô ấy bắt đầu chơi đấu kiếm ở đại học.","alts":[]}},
+   {"id":"y3048-archery","hanzi":"archery","pinyin":"","vi":"môn bắn cung","ex":{"tokens":["Archery","needs","a","steady","hand","."],"py":["","","","","","."],"vi":"Bắn cung cần bàn tay vững.","alts":[]}},
+   {"id":"y3048-rowing","hanzi":"rowing","pinyin":"","vi":"môn chèo thuyền","ex":{"tokens":["Rowing","is","hard","on","the","arms","."],"py":["","","","","","","."],"vi":"Chèo thuyền rất mỏi tay.","alts":[]}},
+   {"id":"y3048-kayaking","hanzi":"kayaking","pinyin":"","vi":"chèo thuyền kayak","ex":{"tokens":["We","went","kayaking","in","Ha","Long","Bay","."],"py":["","","","","","","","."],"vi":"Chúng tôi đi chèo kayak ở vịnh Hạ Long.","alts":[]}},
+   {"id":"y3048-sailing","hanzi":"sailing","pinyin":"","vi":"môn đua thuyền buồm, đi thuyền buồm","ex":{"tokens":["They","go","sailing","every","weekend","."],"py":["","","","","","."],"vi":"Cuối tuần nào họ cũng đi thuyền buồm.","alts":[]}},
+   {"id":"y3048-surfing","hanzi":"surfing","pinyin":"","vi":"lướt sóng","ex":{"tokens":["Surfing","is","popular","in","Australia","."],"py":["","","","","","."],"vi":"Lướt sóng rất phổ biến ở Úc.","alts":[]}},
+   {"id":"y3048-snorkeling","hanzi":"snorkeling","pinyin":"","vi":"lặn ống thở","ex":{"tokens":["We","went","snorkeling","near","the","reef","."],"py":["","","","","","","."],"vi":"Chúng tôi đi lặn ống thở gần rạn san hô.","alts":[]}}
+  ]},
+  {"id":"y3049","title":"Thể thao và tập luyện 3","desc":"Môn thể thao, vị trí thi đấu, bài tập","icon":"Sport","unit":353,"course":"en","order":2890,"words":[
+   {"id":"y3049-scuba_diving","hanzi":"scuba diving","pinyin":"","vi":"lặn bình khí","ex":{"tokens":["He","learned","scuba","diving","in","Nha","Trang","."],"py":["","","","","","","","."],"vi":"Anh ấy học lặn bình khí ở Nha Trang.","alts":[]}},
+   {"id":"y3049-skateboarding","hanzi":"skateboarding","pinyin":"","vi":"trượt ván","ex":{"tokens":["Skateboarding","is","now","an","Olympic","sport","."],"py":["","","","","","","."],"vi":"Trượt ván nay là môn thi đấu Olympic.","alts":[]}},
+   {"id":"y3049-snowboarding","hanzi":"snowboarding","pinyin":"","vi":"trượt ván tuyết","ex":{"tokens":["She","broke","her","wrist","while","snowboarding","."],"py":["","","","","","","."],"vi":"Cô ấy gãy cổ tay khi trượt ván tuyết.","alts":[]}},
+   {"id":"y3049-ice_skating","hanzi":"ice skating","pinyin":"","vi":"trượt băng","ex":{"tokens":["The","children","love","ice","skating","."],"py":["","","","","","."],"vi":"Bọn trẻ rất thích trượt băng.","alts":[]}},
+   {"id":"y3049-figure_skating","hanzi":"figure skating","pinyin":"","vi":"trượt băng nghệ thuật","ex":{"tokens":["Figure","skating","is","beautiful","to","watch","."],"py":["","","","","","","."],"vi":"Trượt băng nghệ thuật xem rất đẹp.","alts":[]}},
+   {"id":"y3049-hockey","hanzi":"hockey","pinyin":"","vi":"khúc côn cầu","ex":{"tokens":["Hockey","is","the","national","sport","of","Canada","."],"py":["","","","","","","","."],"vi":"Khúc côn cầu là môn thể thao quốc gia của Canada.","alts":[]}},
+   {"id":"y3049-cricket","hanzi":"cricket","pinyin":"","vi":"môn cricket; con dế","ex":{"tokens":["Cricket","is","very","popular","in","India","."],"py":["","","","","","","."],"vi":"Cricket rất phổ biến ở Ấn Độ.","alts":[]}},
+   {"id":"y3049-rugby","hanzi":"rugby","pinyin":"","vi":"bóng bầu dục (Anh)","ex":{"tokens":["He","broke","his","nose","playing","rugby","."],"py":["","","","","","","."],"vi":"Anh ấy gãy mũi khi chơi bóng bầu dục.","alts":[]}},
+   {"id":"y3049-table_tennis","hanzi":"table tennis","pinyin":"","vi":"bóng bàn","ex":{"tokens":["We","play","table","tennis","at","lunchtime","."],"py":["","","","","","","."],"vi":"Chúng tôi chơi bóng bàn vào giờ nghỉ trưa.","alts":[]}},
+   {"id":"y3049-handball","hanzi":"handball","pinyin":"","vi":"bóng ném","ex":{"tokens":["Our","school","has","a","handball","team","."],"py":["","","","","","","."],"vi":"Trường tôi có một đội bóng ném.","alts":[]}},
+   {"id":"y3049-bowling","hanzi":"bowling","pinyin":"","vi":"môn bowling","ex":{"tokens":["We","went","bowling","on","Friday","night","."],"py":["","","","","","","."],"vi":"Chúng tôi đi chơi bowling tối thứ Sáu.","alts":[]}},
+   {"id":"y3049-billiards","hanzi":"billiards","pinyin":"","vi":"bi-a","ex":{"tokens":["The","men","played","billiards","in","the","café","."],"py":["","","","","","","","."],"vi":"Mấy người đàn ông chơi bi-a trong quán cà phê.","alts":[]}}
+  ]},
+  {"id":"y3050","title":"Thể thao và tập luyện 4","desc":"Môn thể thao, vị trí thi đấu, bài tập","icon":"Sport","unit":353,"course":"en","order":2900,"words":[
+   {"id":"y3050-golf_course","hanzi":"golf course","pinyin":"","vi":"sân gôn","ex":{"tokens":["The","hotel","has","its","own","golf","course","."],"py":["","","","","","","","."],"vi":"Khách sạn có sân gôn riêng.","alts":[]}},
+   {"id":"y3050-hoop","hanzi":"hoop","pinyin":"","vi":"vòng rổ; cái vòng","ex":{"tokens":["The","ball","went","through","the","hoop","."],"py":["","","","","","","."],"vi":"Quả bóng đi qua vòng rổ.","alts":[]}},
+   {"id":"y3050-goalpost","hanzi":"goalpost","pinyin":"","vi":"cột khung thành","ex":{"tokens":["The","ball","hit","the","goalpost","."],"py":["","","","","","."],"vi":"Quả bóng đập vào cột khung thành.","alts":[]}},
+   {"id":"y3050-scoreboard","hanzi":"scoreboard","pinyin":"","vi":"bảng tỉ số","ex":{"tokens":["The","scoreboard","shows","two","to","one","."],"py":["","","","","","","."],"vi":"Bảng tỉ số hiện hai một.","alts":[]}},
+   {"id":"y3050-stopwatch","hanzi":"stopwatch","pinyin":"","vi":"đồng hồ bấm giờ","ex":{"tokens":["The","coach","started","his","stopwatch","."],"py":["","","","","","."],"vi":"Huấn luyện viên bấm đồng hồ bấm giờ.","alts":[]}},
+   {"id":"y3050-championship","hanzi":"championship","pinyin":"","vi":"giải vô địch","ex":{"tokens":["Our","team","won","the","championship","."],"py":["","","","","","."],"vi":"Đội chúng tôi giành chức vô địch.","alts":[]}},
+   {"id":"y3050-playoff","hanzi":"playoff","pinyin":"","vi":"trận đấu loại trực tiếp cuối mùa","ex":{"tokens":["They","lost","in","the","first","playoff","game","."],"py":["","","","","","","","."],"vi":"Họ thua ngay trận loại trực tiếp đầu tiên.","alts":[]}},
+   {"id":"y3050-quarterfinal","hanzi":"quarterfinal","pinyin":"","vi":"trận tứ kết","ex":{"tokens":["Vietnam","reached","the","quarterfinal","."],"py":["","","","","."],"vi":"Việt Nam vào đến tứ kết.","alts":[]}},
+   {"id":"y3050-knockout","hanzi":"knockout","pinyin":"","vi":"cú hạ đo ván; đấu loại trực tiếp","ex":{"tokens":["He","won","by","a","knockout","."],"py":["","","","","","."],"vi":"Anh ấy thắng bằng một cú hạ đo ván.","alts":[]}},
+   {"id":"y3050-foul","hanzi":"foul","pinyin":"","vi":"lỗi (thể thao); hôi thối","ex":{"tokens":["The","referee","called","a","foul","."],"py":["","","","","","."],"vi":"Trọng tài thổi phạt lỗi.","alts":[]}},
+   {"id":"y3050-free_kick","hanzi":"free kick","pinyin":"","vi":"quả đá phạt","ex":{"tokens":["He","scored","from","a","free","kick","."],"py":["","","","","","","."],"vi":"Anh ấy ghi bàn từ một quả đá phạt.","alts":[]}},
+   {"id":"y3050-corner_kick","hanzi":"corner kick","pinyin":"","vi":"quả phạt góc","ex":{"tokens":["The","goal","came","from","a","corner","kick","."],"py":["","","","","","","","."],"vi":"Bàn thắng đến từ một quả phạt góc.","alts":[]}}
   ]}
  ]
 }

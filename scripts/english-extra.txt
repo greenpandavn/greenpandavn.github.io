@@ -309,7 +309,7 @@ dresser|tủ ngăn kéo có gương|Her jewelry is on the dresser.|Trang sức c
 chest of drawers|tủ ngăn kéo|My socks are in the chest of drawers.|Tất của tôi ở trong tủ ngăn kéo.
 nightstand|tủ đầu giường|My phone is on the nightstand.|Điện thoại của tôi ở trên tủ đầu giường.
 
-%353|3|Phần 3: Mở rộng – Đồ đạc trong nhà|Đồ đạc trong nhà, Dụng cụ và vật liệu, Xe hơi và lái xe, Từ vựng tổng hợp|grape
+%353|3|Phần 3: Mở rộng – Đồ đạc trong nhà|Đồ đạc trong nhà, Dụng cụ và vật liệu, Xe hơi và lái xe, Thể thao và tập luyện|grape
 @y3041|Đồ đạc trong nhà 2|Bàn ghế, giường tủ, đồ dọn dẹp|Furniture
 bookcase|tủ sách|The bookcase is full of novels.|Tủ sách đầy tiểu thuyết.
 sideboard|tủ búp phê|The plates are kept in the sideboard.|Đĩa được cất trong tủ búp phê.
@@ -406,7 +406,141 @@ toll booth|trạm thu phí|There is a toll booth before the bridge.|Có một tr
 speed bump|gờ giảm tốc|Slow down for the speed bump.|Hãy giảm tốc ở gờ giảm tốc.
 pothole|ổ gà|The car hit a pothole.|Chiếc xe đâm vào ổ gà.
 
-@y3047|Từ vựng tổng hợp|Từ thuộc nhiều chủ đề|Mix
+@y3047|Thể thao và tập luyện 1|Môn thể thao, vị trí thi đấu, bài tập|Sport
+substitute|cầu thủ dự bị; thay thế|The coach sent on a substitute.|Huấn luyện viên tung một cầu thủ dự bị vào sân.
+goalkeeper|thủ môn|The goalkeeper saved the penalty.|Thủ môn cản được quả phạt đền.
+striker|tiền đạo|The striker scored two goals.|Tiền đạo ghi hai bàn.
+defender|hậu vệ|The defender blocked the shot.|Hậu vệ chặn cú sút.
+midfielder|tiền vệ|The midfielder passed the ball forward.|Tiền vệ chuyền bóng lên phía trước.
+jockey|nài ngựa|The jockey fell off his horse.|Nài ngựa ngã khỏi ngựa.
+wrestler|đô vật|The wrestler lifted his opponent.|Đô vật nhấc bổng đối thủ.
+boxer|võ sĩ quyền anh|The boxer won in the third round.|Võ sĩ thắng ở hiệp ba.
+archer|cung thủ|The archer hit the center of the target.|Cung thủ bắn trúng hồng tâm.
+gymnast|vận động viên thể dục dụng cụ|The gymnast landed perfectly.|Vận động viên thể dục tiếp đất hoàn hảo.
+sprinter|vận động viên chạy nước rút|The sprinter ran one hundred meters in ten seconds.|Vận động viên chạy một trăm mét trong mười giây.
+marathon|cuộc chạy ma ra tông|She ran her first marathon last year.|Năm ngoái cô ấy chạy ma ra tông lần đầu.
+pole vault|nhảy sào|He broke the record in the pole vault.|Anh ấy phá kỷ lục nhảy sào.
+
+@y3048|Thể thao và tập luyện 2|Môn thể thao, vị trí thi đấu, bài tập|Sport
+long jump|nhảy xa|She won a medal in the long jump.|Cô ấy giành huy chương môn nhảy xa.
+high jump|nhảy cao|He practices the high jump after school.|Cậu ấy tập nhảy cao sau giờ học.
+triathlon|ba môn phối hợp|A triathlon includes swimming, cycling and running.|Ba môn phối hợp gồm bơi, đạp xe và chạy.
+weightlifting|cử tạ|Vietnam has won medals in weightlifting.|Việt Nam từng giành huy chương môn cử tạ.
+wrestling|môn vật|Wrestling is an ancient sport.|Vật là một môn thể thao cổ xưa.
+fencing|môn đấu kiếm|She took up fencing at university.|Cô ấy bắt đầu chơi đấu kiếm ở đại học.
+archery|môn bắn cung|Archery needs a steady hand.|Bắn cung cần bàn tay vững.
+rowing|môn chèo thuyền|Rowing is hard on the arms.|Chèo thuyền rất mỏi tay.
+kayaking|chèo thuyền kayak|We went kayaking in Ha Long Bay.|Chúng tôi đi chèo kayak ở vịnh Hạ Long.
+sailing|môn đua thuyền buồm, đi thuyền buồm|They go sailing every weekend.|Cuối tuần nào họ cũng đi thuyền buồm.
+surfing|lướt sóng|Surfing is popular in Australia.|Lướt sóng rất phổ biến ở Úc.
+snorkeling|lặn ống thở|We went snorkeling near the reef.|Chúng tôi đi lặn ống thở gần rạn san hô.
+
+@y3049|Thể thao và tập luyện 3|Môn thể thao, vị trí thi đấu, bài tập|Sport
+scuba diving|lặn bình khí|He learned scuba diving in Nha Trang.|Anh ấy học lặn bình khí ở Nha Trang.
+skateboarding|trượt ván|Skateboarding is now an Olympic sport.|Trượt ván nay là môn thi đấu Olympic.
+snowboarding|trượt ván tuyết|She broke her wrist while snowboarding.|Cô ấy gãy cổ tay khi trượt ván tuyết.
+ice skating|trượt băng|The children love ice skating.|Bọn trẻ rất thích trượt băng.
+figure skating|trượt băng nghệ thuật|Figure skating is beautiful to watch.|Trượt băng nghệ thuật xem rất đẹp.
+hockey|khúc côn cầu|Hockey is the national sport of Canada.|Khúc côn cầu là môn thể thao quốc gia của Canada.
+cricket|môn cricket; con dế|Cricket is very popular in India.|Cricket rất phổ biến ở Ấn Độ.
+rugby|bóng bầu dục (Anh)|He broke his nose playing rugby.|Anh ấy gãy mũi khi chơi bóng bầu dục.
+table tennis|bóng bàn|We play table tennis at lunchtime.|Chúng tôi chơi bóng bàn vào giờ nghỉ trưa.
+handball|bóng ném|Our school has a handball team.|Trường tôi có một đội bóng ném.
+bowling|môn bowling|We went bowling on Friday night.|Chúng tôi đi chơi bowling tối thứ Sáu.
+billiards|bi-a|The men played billiards in the café.|Mấy người đàn ông chơi bi-a trong quán cà phê.
+
+@y3050|Thể thao và tập luyện 4|Môn thể thao, vị trí thi đấu, bài tập|Sport
+golf course|sân gôn|The hotel has its own golf course.|Khách sạn có sân gôn riêng.
+hoop|vòng rổ; cái vòng|The ball went through the hoop.|Quả bóng đi qua vòng rổ.
+goalpost|cột khung thành|The ball hit the goalpost.|Quả bóng đập vào cột khung thành.
+scoreboard|bảng tỉ số|The scoreboard shows two to one.|Bảng tỉ số hiện hai một.
+stopwatch|đồng hồ bấm giờ|The coach started his stopwatch.|Huấn luyện viên bấm đồng hồ bấm giờ.
+championship|giải vô địch|Our team won the championship.|Đội chúng tôi giành chức vô địch.
+playoff|trận đấu loại trực tiếp cuối mùa|They lost in the first playoff game.|Họ thua ngay trận loại trực tiếp đầu tiên.
+quarterfinal|trận tứ kết|Vietnam reached the quarterfinal.|Việt Nam vào đến tứ kết.
+knockout|cú hạ đo ván; đấu loại trực tiếp|He won by a knockout.|Anh ấy thắng bằng một cú hạ đo ván.
+foul|lỗi (thể thao); hôi thối|The referee called a foul.|Trọng tài thổi phạt lỗi.
+free kick|quả đá phạt|He scored from a free kick.|Anh ấy ghi bàn từ một quả đá phạt.
+corner kick|quả phạt góc|The goal came from a corner kick.|Bàn thắng đến từ một quả phạt góc.
+
+%354|3|Phần 4: Mở rộng – Thể thao và tập luyện|Thể thao và tập luyện, Du lịch và khách sạn, Từ vựng tổng hợp|coral
+@y3061|Thể thao và tập luyện 5|Môn thể thao, vị trí thi đấu, bài tập|Sport
+header|cú đánh đầu; tiêu đề đầu trang|He scored with a header.|Anh ấy ghi bàn bằng một cú đánh đầu.
+lap|vòng chạy, vòng bơi; lòng (đùi)|She swam one more lap.|Cô ấy bơi thêm một vòng nữa.
+push-up|động tác chống đẩy|He cannot do a single push-up.|Anh ấy không chống đẩy nổi một cái.
+sit-up|động tác gập bụng|Each sit-up makes your stomach stronger.|Mỗi lần gập bụng làm cơ bụng khỏe hơn.
+pull-up|động tác kéo xà|I did my first pull-up today.|Hôm nay tôi kéo xà được cái đầu tiên.
+squat|động tác ngồi xổm đứng lên|Keep your back straight when you squat.|Hãy giữ thẳng lưng khi tập ngồi xổm.
+lunge|động tác chùng chân|Do a lunge with each leg.|Hãy tập chùng chân với mỗi bên chân.
+dumbbell|quả tạ tay|Lift the dumbbell slowly.|Hãy nâng quả tạ tay từ từ.
+barbell|thanh tạ đòn|He lifted a heavy barbell.|Anh ấy nâng một thanh tạ đòn nặng.
+agility|sự nhanh nhẹn|Football players need speed and agility.|Cầu thủ bóng đá cần tốc độ và sự nhanh nhẹn.
+catcher|người bắt bóng (bóng chày)|The catcher dropped the ball.|Người bắt bóng làm rơi bóng.
+quarterback|tiền vệ dẫn bóng (bóng bầu dục Mỹ)|The quarterback threw a long pass.|Tiền vệ dẫn bóng ném một đường chuyền dài.
+
+@y3062|Thể thao và tập luyện 6|Môn thể thao, vị trí thi đấu, bài tập|Sport
+fencer|vận động viên đấu kiếm|The fencer wore a white mask.|Vận động viên đấu kiếm đeo mặt nạ trắng.
+hurdler|vận động viên chạy vượt rào|The hurdler fell at the last jump.|Vận động viên chạy vượt rào ngã ở rào cuối.
+discus|môn ném đĩa; cái đĩa ném|He threw the discus sixty meters.|Anh ấy ném đĩa xa sáu mươi mét.
+shot put|môn đẩy tạ|She competes in the shot put.|Cô ấy thi đấu môn đẩy tạ.
+decathlon|mười môn phối hợp|The decathlon takes two days.|Mười môn phối hợp diễn ra trong hai ngày.
+canoeing|chèo xuồng canô|We went canoeing on the lake.|Chúng tôi đi chèo xuồng trên hồ.
+lacrosse|môn bóng vợt|Lacrosse is played with a long stick.|Bóng vợt được chơi bằng một cây gậy dài.
+softball|bóng mềm|The girls play softball in spring.|Các bạn nữ chơi bóng mềm vào mùa xuân.
+polo|môn mã cầu|Polo is played on horses.|Mã cầu được chơi trên lưng ngựa.
+puck|bóng khúc côn cầu trên băng|The puck slid into the net.|Quả bóng khúc côn cầu trượt vào lưới.
+cool-down|bài thả lỏng sau khi tập|Do a short cool-down after running.|Hãy thả lỏng một chút sau khi chạy.
+kettlebell|tạ ấm|She swings a kettlebell every morning.|Sáng nào cô ấy cũng tập vung tạ ấm.
+
+@y3063|Du lịch và khách sạn 1|Sân bay, chuyến bay, lưu trú, tham quan|Travel
+safari|chuyến đi xem thú hoang dã|We saw lions on safari.|Chúng tôi thấy sư tử trong chuyến đi xem thú hoang.
+guidebook|sách hướng dẫn du lịch|The guidebook lists cheap hotels.|Sách hướng dẫn liệt kê các khách sạn giá rẻ.
+travel agent|nhân viên đại lý du lịch|The travel agent booked our flights.|Nhân viên đại lý du lịch đặt vé máy bay cho chúng tôi.
+tour guide|hướng dẫn viên du lịch|Our tour guide spoke good English.|Hướng dẫn viên của chúng tôi nói tiếng Anh tốt.
+round trip|chuyến khứ hồi|A round trip costs two hundred dollars.|Vé khứ hồi giá hai trăm đô la.
+one-way|một chiều|I bought a one-way ticket to Da Nang.|Tôi mua vé một chiều đi Đà Nẵng.
+connection|chuyến nối; sự kết nối|We missed our connection in Bangkok.|Chúng tôi lỡ chuyến nối ở Bangkok.
+baggage claim|khu nhận hành lý|Meet me at the baggage claim.|Hãy gặp tôi ở khu nhận hành lý.
+departure lounge|phòng chờ khởi hành|We waited in the departure lounge.|Chúng tôi đợi ở phòng chờ khởi hành.
+duty-free|miễn thuế|She bought perfume at the duty-free shop.|Cô ấy mua nước hoa ở cửa hàng miễn thuế.
+jet lag|mệt do lệch múi giờ|I still have jet lag from the flight.|Tôi vẫn còn mệt vì lệch múi giờ sau chuyến bay.
+aisle seat|ghế cạnh lối đi|I prefer an aisle seat.|Tôi thích ghế cạnh lối đi hơn.
+window seat|ghế cạnh cửa sổ|The child asked for a window seat.|Đứa bé xin ngồi ghế cạnh cửa sổ.
+legroom|chỗ để chân|There is not much legroom on this plane.|Máy bay này không có nhiều chỗ để chân.
+
+@y3064|Du lịch và khách sạn 2|Sân bay, chuyến bay, lưu trú, tham quan|Travel
+overhead bin|ngăn hành lý phía trên|Put your bag in the overhead bin.|Hãy để túi vào ngăn hành lý phía trên.
+life jacket|áo phao|Your life jacket is under the seat.|Áo phao của bạn ở dưới ghế.
+flight attendant|tiếp viên hàng không|The flight attendant brought me some water.|Tiếp viên mang cho tôi ít nước.
+cabin crew|phi hành đoàn (tiếp viên)|The cabin crew were very kind.|Phi hành đoàn rất tử tế.
+double room|phòng đôi|We booked a double room for two nights.|Chúng tôi đặt phòng đôi hai đêm.
+single room|phòng đơn|A single room is cheaper.|Phòng đơn thì rẻ hơn.
+bed and breakfast|nhà nghỉ có bữa sáng|We stayed at a bed and breakfast near the sea.|Chúng tôi ở một nhà nghỉ có bữa sáng gần biển.
+sleeping bag|túi ngủ|Bring a warm sleeping bag.|Hãy mang theo túi ngủ ấm.
+room service|dịch vụ phục vụ tại phòng|We ordered breakfast from room service.|Chúng tôi gọi bữa sáng qua dịch vụ phòng.
+housekeeping|bộ phận buồng phòng; việc nhà|Housekeeping cleans the room every morning.|Bộ phận buồng phòng dọn phòng mỗi sáng.
+concierge|nhân viên hỗ trợ khách (khách sạn)|The concierge booked a taxi for us.|Nhân viên hỗ trợ khách đặt taxi cho chúng tôi.
+porter|người khuân hành lý|A porter carried our bags.|Một người khuân vác xách hành lý cho chúng tôi.
+valet|nhân viên đỗ xe hộ|The valet parked our car.|Nhân viên đỗ xe hộ chúng tôi.
+minibar|tủ lạnh nhỏ trong phòng|Drinks from the minibar are expensive.|Đồ uống trong tủ lạnh nhỏ rất đắt.
+
+@y3065|Du lịch và khách sạn 3|Sân bay, chuyến bay, lưu trú, tham quan|Travel
+key card|thẻ từ mở cửa|I left my key card in the room.|Tôi để quên thẻ mở cửa trong phòng.
+wake-up call|cuộc gọi báo thức|I asked for a wake-up call at six.|Tôi yêu cầu gọi báo thức lúc sáu giờ.
+complimentary|miễn phí (tặng kèm); khen ngợi|The hotel offers a complimentary breakfast.|Khách sạn tặng bữa sáng miễn phí.
+all-inclusive|trọn gói|We chose an all-inclusive resort.|Chúng tôi chọn một khu nghỉ dưỡng trọn gói.
+peak season|mùa cao điểm|Prices double in peak season.|Giá tăng gấp đôi vào mùa cao điểm.
+off-season|mùa thấp điểm|Hotels are cheap in the off-season.|Khách sạn rẻ vào mùa thấp điểm.
+travel insurance|bảo hiểm du lịch|Buy travel insurance before you go.|Hãy mua bảo hiểm du lịch trước khi đi.
+currency exchange|đổi ngoại tệ|There is a currency exchange at the airport.|Có quầy đổi ngoại tệ ở sân bay.
+traveler|du khách, người đi đường|The traveler asked for directions.|Người du khách hỏi đường.
+tourist trap|điểm chặt chém du khách|That market is a tourist trap.|Khu chợ đó là điểm chặt chém du khách.
+hiking trail|đường mòn đi bộ|The hiking trail leads to a waterfall.|Đường mòn dẫn tới một thác nước.
+viewpoint|điểm ngắm cảnh; quan điểm|We stopped at a viewpoint to take photos.|Chúng tôi dừng ở một điểm ngắm cảnh để chụp ảnh.
+cable car|cáp treo|We took the cable car up Ba Na Hills.|Chúng tôi đi cáp treo lên Bà Nà.
+marina|bến du thuyền|Their boat is in the marina.|Thuyền của họ ở bến du thuyền.
+
+@y3066|Từ vựng tổng hợp|Từ thuộc nhiều chủ đề|Mix
 candlestick|chân nến|There is a silver candlestick on the table.|Có một chiếc chân nến bạc trên bàn.
 ornament|đồ trang trí|She hung an ornament on the tree.|Cô ấy treo một món đồ trang trí lên cây.
 picture frame|khung ảnh|The photo is in a wooden picture frame.|Bức ảnh nằm trong khung gỗ.
@@ -420,6 +554,7 @@ muffler|ống giảm thanh; khăn quàng|The car needs a new muffler.|Chiếc xe
 hubcap|ốp bánh xe|A hubcap rolled across the road.|Một chiếc ốp bánh xe lăn ngang đường.
 odometer|đồng hồ đo quãng đường|The odometer shows fifty thousand kilometers.|Đồng hồ đo quãng đường chỉ năm mươi nghìn cây số.
 tailgate|bám sát đuôi xe; cửa hậu|Do not tailgate the car in front.|Đừng bám sát đuôi xe phía trước.
+promenade|đường dạo ven biển|We walked along the promenade at sunset.|Chúng tôi đi dạo trên đường ven biển lúc hoàng hôn.
 
 %451|4|Phần 1: Mở rộng – Pháp luật và tòa án|Pháp luật và tòa án, Tài chính và ngân hàng, Chính trị và nhà nước|leaf
 @y4001|Pháp luật và tòa án 1|Tội danh, thủ tục tố tụng, người tham gia|Law
