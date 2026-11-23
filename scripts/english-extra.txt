@@ -3604,7 +3604,8 @@ self-disciplined|có kỷ luật tự giác|You must be self-disciplined to stud
 well-behaved|ngoan ngoãn|The children were well-behaved all day.|Bọn trẻ ngoan ngoãn cả ngày.
 well-mannered|lịch sự, có phép tắc|He is a well-mannered young man.|Anh ấy là một chàng trai lịch sự.
 
-@y4191|Tính từ ghép tả tính cách 2|Tính từ ghép miêu tả con người|Character
+%461|4|Phần 11: Mở rộng – Tính từ ghép tả tính cách|Tính từ ghép tả tính cách, Cụm từ nối và diễn đạt, Thể hình và dinh dưỡng, Từ vựng tổng hợp|leaf
+@y4201|Tính từ ghép tả tính cách 2|Tính từ ghép miêu tả con người|Character
 bad-tempered|nóng nảy, hay cáu|He is bad-tempered in the morning.|Buổi sáng ông ấy hay cáu.
 good-natured|tốt tính, hiền hậu|Our dog is big but good-natured.|Con chó nhà tôi to nhưng hiền.
 kind-hearted|tốt bụng|A kind-hearted neighbor helped us.|Một người hàng xóm tốt bụng đã giúp chúng tôi.
@@ -3620,7 +3621,106 @@ quick-witted|nhanh trí|The quick-witted host saved the show.|Người dẫn ch�
 sharp-tongued|ăn nói sắc sảo, chua ngoa|She is a sharp-tongued critic.|Bà ấy là một nhà phê bình chua ngoa.
 soft-spoken|ăn nói nhỏ nhẹ|He is a soft-spoken man.|Ông ấy là người ăn nói nhỏ nhẹ.
 
-@y4192|Từ vựng tổng hợp 1|Từ thuộc nhiều chủ đề|Mix
+@y4202|Cụm từ nối và diễn đạt 1|Trạng ngữ và cụm từ dùng trong lập luận|Linking
+broadly speaking|nói chung|Broadly speaking, the plan worked.|Nói chung, kế hoạch đã thành công.
+by contrast|ngược lại|The north is cold; the south, by contrast, is hot.|Miền bắc lạnh; ngược lại, miền nam nóng.
+correspondingly|tương ứng|Prices rose and wages rose correspondingly.|Giá cả tăng và lương cũng tăng tương ứng.
+for the most part|phần lớn|The trip was, for the most part, enjoyable.|Chuyến đi phần lớn là vui vẻ.
+in essence|về bản chất|In essence, the two ideas are the same.|Về bản chất, hai ý tưởng là một.
+in hindsight|nhìn lại thì|In hindsight, I should have waited.|Nhìn lại thì lẽ ra tôi nên chờ.
+in retrospect|ngẫm lại|In retrospect, it was a mistake.|Ngẫm lại, đó là một sai lầm.
+in the meantime|trong lúc chờ đợi|Dinner is at eight; in the meantime, have some fruit.|Bữa tối lúc tám giờ; trong lúc chờ, hãy ăn ít trái cây.
+in turn|lần lượt; đến lượt mình|Each student spoke in turn.|Từng học sinh lần lượt phát biểu.
+incidentally|nhân tiện|Incidentally, have you seen my keys?|Nhân tiện, bạn có thấy chìa khóa của tôi không?
+on balance|cân nhắc mọi mặt|On balance, I think we made the right choice.|Cân nhắc mọi mặt, tôi nghĩ chúng ta đã chọn đúng.
+on the whole|nhìn chung|On the whole, the reviews were good.|Nhìn chung, các bài đánh giá đều tốt.
+reportedly|theo tin đã đưa|The actor is reportedly ill.|Theo tin đã đưa, nam diễn viên đang ốm.
+
+@y4203|Cụm từ nối và diễn đạt 2|Trạng ngữ và cụm từ dùng trong lập luận|Linking
+similarly|tương tự|Cats sleep a lot; similarly, lions rest most of the day.|Mèo ngủ nhiều; tương tự, sư tử nghỉ gần như cả ngày.
+specifically|cụ thể là|I asked specifically for a window seat.|Tôi đã yêu cầu cụ thể một chỗ ngồi cạnh cửa sổ.
+strictly speaking|nói cho chính xác|Strictly speaking, a tomato is a fruit.|Nói cho chính xác, cà chua là trái cây.
+understandably|cũng dễ hiểu là|She was understandably upset.|Cũng dễ hiểu là cô ấy buồn.
+as a rule|thường thì|As a rule, I get up at six.|Thường thì tôi dậy lúc sáu giờ.
+as it were|có thể nói như vậy|He is, as it were, the father of the team.|Có thể nói ông ấy là người cha của cả đội.
+at any rate|dù sao đi nữa|At any rate, we are safe now.|Dù sao đi nữa, giờ chúng ta đã an toàn.
+at first glance|thoạt nhìn|At first glance, the task looks easy.|Thoạt nhìn, nhiệm vụ có vẻ dễ.
+by all means|cứ tự nhiên; bằng mọi giá|By all means, bring your friend.|Cứ tự nhiên dẫn bạn của bạn theo.
+by no means|hoàn toàn không|It is by no means certain.|Điều đó hoàn toàn không chắc chắn.
+for the time being|tạm thời|You can stay here for the time being.|Bạn có thể tạm thời ở đây.
+in any case|dù thế nào|In any case, call me tonight.|Dù thế nào cũng hãy gọi cho tôi tối nay.
+
+@y4204|Cụm từ nối và diễn đạt 3|Trạng ngữ và cụm từ dùng trong lập luận|Linking
+in due course|vào lúc thích hợp|You will receive a reply in due course.|Bạn sẽ nhận được trả lời vào lúc thích hợp.
+in light of|xét đến|In light of the news, we changed our plans.|Xét đến tin tức đó, chúng tôi đổi kế hoạch.
+in other words|nói cách khác|He is, in other words, not coming.|Nói cách khác, anh ấy sẽ không đến.
+in practice|trên thực tế|In practice, the rule is rarely used.|Trên thực tế, quy định này hiếm khi được áp dụng.
+in principle|về nguyên tắc|In principle, I agree with you.|Về nguyên tắc, tôi đồng ý với bạn.
+in theory|về lý thuyết|In theory, the trip takes two hours.|Về lý thuyết, chuyến đi mất hai tiếng.
+needless to say|khỏi phải nói|Needless to say, we were late.|Khỏi phải nói, chúng tôi đã đến trễ.
+on the contrary|trái lại|I am not tired; on the contrary, I feel great.|Tôi không mệt; trái lại, tôi thấy rất khỏe.
+so to speak|có thể nói vậy|She is, so to speak, the heart of the office.|Có thể nói cô ấy là trái tim của văn phòng.
+to put it mildly|nói nhẹ đi thì|The food was, to put it mildly, unusual.|Nói nhẹ đi thì món ăn khá lạ.
+with hindsight|nhìn lại sau khi việc đã rồi|With hindsight, the signs were clear.|Nhìn lại thì các dấu hiệu rất rõ ràng.
+without doubt|chắc chắn|She is without doubt the best player.|Cô ấy chắc chắn là cầu thủ giỏi nhất.
+
+@y4205|Thể hình và dinh dưỡng 1|Tập luyện, chế độ ăn, sức khỏe tinh thần|Fitness
+cardio|bài tập tim mạch|I do cardio three times a week.|Tôi tập tim mạch ba lần một tuần.
+strength training|tập sức mạnh|Strength training builds muscle.|Tập sức mạnh giúp tăng cơ.
+resistance band|dây kháng lực|You can train at home with a resistance band.|Bạn có thể tập ở nhà với dây kháng lực.
+bench press|bài đẩy tạ nằm|He can bench press eighty kilos.|Anh ấy đẩy tạ nằm được tám mươi ký.
+burpee|động tác burpee (chống đẩy bật nhảy)|One burpee uses the whole body.|Một động tác burpee vận động toàn thân.
+deadlift|bài nâng tạ đất|The deadlift strengthens your back.|Bài nâng tạ đất làm khỏe lưng.
+rep|lần lặp (động tác)|Do one more rep.|Hãy làm thêm một lần nữa.
+personal trainer|huấn luyện viên cá nhân|She hired a personal trainer.|Cô ấy thuê một huấn luyện viên cá nhân.
+gym membership|thẻ thành viên phòng tập|My gym membership ends in May.|Thẻ phòng tập của tôi hết hạn vào tháng Năm.
+spin class|lớp đạp xe trong nhà|I go to a spin class on Fridays.|Tôi đi lớp đạp xe trong nhà vào thứ Sáu.
+stretching|giãn cơ|Stretching prevents injuries.|Giãn cơ giúp phòng chấn thương.
+flexibility|sự dẻo dai; tính linh hoạt|Yoga improves flexibility.|Yoga cải thiện độ dẻo dai.
+
+@y4206|Thể hình và dinh dưỡng 2|Tập luyện, chế độ ăn, sức khỏe tinh thần|Fitness
+core strength|sức mạnh cơ trung tâm|Swimming builds core strength.|Bơi lội tăng sức mạnh cơ trung tâm.
+muscle mass|khối lượng cơ|We lose muscle mass as we age.|Chúng ta mất khối lượng cơ khi già đi.
+body fat|mỡ cơ thể|He wants to reduce his body fat.|Anh ấy muốn giảm mỡ cơ thể.
+calorie intake|lượng calo nạp vào|Watch your calorie intake.|Hãy để ý lượng calo nạp vào.
+calorie deficit|sự thâm hụt calo|You lose weight in a calorie deficit.|Bạn giảm cân khi thâm hụt calo.
+protein shake|sữa lắc protein|He drinks a protein shake after training.|Anh ấy uống sữa lắc protein sau khi tập.
+meal plan|thực đơn ăn uống|The coach gave me a meal plan.|Huấn luyện viên đưa cho tôi một thực đơn.
+hydration|việc bù nước|Hydration is important in hot weather.|Bù nước rất quan trọng khi trời nóng.
+rest day|ngày nghỉ tập|Sunday is my rest day.|Chủ nhật là ngày nghỉ tập của tôi.
+recovery time|thời gian hồi phục|Muscles need recovery time.|Cơ bắp cần thời gian hồi phục.
+heart rate|nhịp tim|My heart rate rises when I run.|Nhịp tim của tôi tăng khi chạy.
+step count|số bước chân|My step count was ten thousand today.|Hôm nay tôi đi được mười nghìn bước.
+
+@y4207|Thể hình và dinh dưỡng 3|Tập luyện, chế độ ăn, sức khỏe tinh thần|Fitness
+body mass index|chỉ số khối cơ thể (BMI)|The doctor checked my body mass index.|Bác sĩ kiểm tra chỉ số khối cơ thể của tôi.
+balanced diet|chế độ ăn cân bằng|A balanced diet includes fruit and vegetables.|Chế độ ăn cân bằng gồm trái cây và rau.
+crash diet|chế độ ăn kiêng cấp tốc|A crash diet is bad for your health.|Ăn kiêng cấp tốc có hại cho sức khỏe.
+intermittent fasting|nhịn ăn gián đoạn|He lost weight through intermittent fasting.|Anh ấy giảm cân nhờ nhịn ăn gián đoạn.
+portion size|khẩu phần|Reduce your portion size at dinner.|Hãy giảm khẩu phần bữa tối.
+processed food|thực phẩm chế biến sẵn|Avoid too much processed food.|Hãy tránh ăn quá nhiều thực phẩm chế biến sẵn.
+whole grain|ngũ cốc nguyên hạt|Choose whole grain bread.|Hãy chọn bánh mì ngũ cốc nguyên hạt.
+trans fat|chất béo chuyển hóa|Trans fat is bad for the heart.|Chất béo chuyển hóa có hại cho tim.
+saturated fat|chất béo bão hòa|Butter is high in saturated fat.|Bơ chứa nhiều chất béo bão hòa.
+sugar-free|không đường|I drink sugar-free tea.|Tôi uống trà không đường.
+low-fat|ít béo|She buys low-fat milk.|Cô ấy mua sữa ít béo.
+high-fiber|giàu chất xơ|Oats are a high-fiber food.|Yến mạch là thực phẩm giàu chất xơ.
+
+@y4208|Thể hình và dinh dưỡng 4|Tập luyện, chế độ ăn, sức khỏe tinh thần|Fitness
+gluten-free|không chứa gluten|The café sells gluten-free cakes.|Quán cà phê bán bánh không chứa gluten.
+dairy-free|không chứa sữa|Is this ice cream dairy-free?|Kem này có không chứa sữa không?
+plant-based|có nguồn gốc thực vật|He follows a plant-based diet.|Anh ấy theo chế độ ăn thực vật.
+vitamin supplement|thực phẩm bổ sung vitamin|I take a vitamin supplement in winter.|Tôi uống bổ sung vitamin vào mùa đông.
+food allergy|dị ứng thực phẩm|Tell the waiter if you have a food allergy.|Hãy báo với người phục vụ nếu bạn bị dị ứng thực phẩm.
+lactose intolerant|không dung nạp lactose|I am lactose intolerant, so no milk for me.|Tôi không dung nạp lactose nên không uống sữa.
+sleep pattern|thói quen giấc ngủ|Travel upset my sleep pattern.|Việc đi lại làm xáo trộn giấc ngủ của tôi.
+sleep deprivation|tình trạng thiếu ngủ|Sleep deprivation affects memory.|Thiếu ngủ ảnh hưởng đến trí nhớ.
+screen time|thời gian dùng màn hình|Limit screen time before bed.|Hãy hạn chế dùng màn hình trước khi ngủ.
+mental health|sức khỏe tinh thần|Exercise is good for mental health.|Tập thể dục tốt cho sức khỏe tinh thần.
+stress relief|sự giải tỏa căng thẳng|Music is my stress relief.|Âm nhạc là cách tôi giải tỏa căng thẳng.
+self-care|tự chăm sóc bản thân|Sleep is part of self-care.|Giấc ngủ là một phần của việc tự chăm sóc bản thân.
+
+@y4209|Từ vựng tổng hợp 1|Từ thuộc nhiều chủ đề|Mix
 solvency|khả năng thanh toán|The auditors checked the solvency of the firm.|Kiểm toán viên kiểm tra khả năng thanh toán của công ty.
 rosary|chuỗi tràng hạt|She held a rosary while she prayed.|Bà ấy cầm chuỗi tràng hạt khi cầu nguyện.
 alliteration|phép điệp âm đầu|The poem uses alliteration in every line.|Bài thơ dùng phép điệp âm ở mọi dòng.
@@ -3636,7 +3736,7 @@ oral tradition|truyền thống truyền miệng|The story survived through oral
 ancestor worship|tục thờ cúng tổ tiên|Ancestor worship is common in Vietnam.|Tục thờ cúng tổ tiên phổ biến ở Việt Nam.
 charity work|công việc từ thiện|He does charity work at weekends.|Anh ấy làm từ thiện vào cuối tuần.
 
-@y4193|Từ vựng tổng hợp 2|Từ thuộc nhiều chủ đề|Mix
+@y4210|Từ vựng tổng hợp 2|Từ thuộc nhiều chủ đề|Mix
 philanthropy|hoạt động từ thiện (quy mô lớn)|The hospital was built through philanthropy.|Bệnh viện được xây nhờ hoạt động từ thiện.
 volunteerism|tinh thần tình nguyện|Volunteerism is strong among students.|Tinh thần tình nguyện rất mạnh trong sinh viên.
 spin-off|phần ngoại truyện|The series got a spin-off.|Loạt phim có thêm phần ngoại truyện.

@@ -1,9 +1,9 @@
 {
  "units": [
-  {"unit":556,"level":5,"title":"Phần 64: Mở rộng – Tính từ trang trọng","desc":"Tính từ trang trọng, Danh từ trừu tượng, Triết học và logic","color":"leaf","course":"en"}
+  {"unit":556,"level":5,"title":"Phần 65: Mở rộng – Tính từ trang trọng","desc":"Tính từ trang trọng, Danh từ trừu tượng, Triết học và logic","color":"leaf","course":"en"}
  ],
  "lessons": [
-  {"id":"y5101","title":"Tính từ trang trọng 9","desc":"Tính từ dùng trong văn viết, báo chí, học thuật","icon":"Refined","unit":556,"course":"en","order":7050,"words":[
+  {"id":"y5101","title":"Tính từ trang trọng 9","desc":"Tính từ dùng trong văn viết, báo chí, học thuật","icon":"Refined","unit":556,"course":"en","order":7120,"words":[
    {"id":"y5101-prodigious","hanzi":"prodigious","pinyin":"","vi":"phi thường, to lớn","ex":{"tokens":["He","has","a","prodigious","memory","."],"py":["","","","","","."],"vi":"Anh ấy có trí nhớ phi thường.","alts":[]}},
    {"id":"y5101-pungent","hanzi":"pungent","pinyin":"","vi":"hăng, nồng (mùi, vị)","ex":{"tokens":["Durian","has","a","pungent","smell","."],"py":["","","","","","."],"vi":"Sầu riêng có mùi nồng.","alts":[]}},
    {"id":"y5101-querulous","hanzi":"querulous","pinyin":"","vi":"hay cằn nhằn","ex":{"tokens":["The","querulous","guest","complained","again","."],"py":["","","","","","."],"vi":"Vị khách hay cằn nhằn lại phàn nàn.","alts":[]}},
@@ -18,7 +18,7 @@
    {"id":"y5101-sanguine","hanzi":"sanguine","pinyin":"","vi":"lạc quan","ex":{"tokens":["She","is","sanguine","about","the","future","."],"py":["","","","","","","."],"vi":"Cô ấy lạc quan về tương lai.","alts":[]}},
    {"id":"y5101-sedentary","hanzi":"sedentary","pinyin":"","vi":"ít vận động, ngồi nhiều","ex":{"tokens":["A","sedentary","job","is","bad","for","your","back","."],"py":["","","","","","","","","."],"vi":"Công việc ngồi nhiều có hại cho lưng.","alts":[]}}
   ]},
-  {"id":"y5102","title":"Tính từ trang trọng 10","desc":"Tính từ dùng trong văn viết, báo chí, học thuật","icon":"Refined","unit":556,"course":"en","order":7060,"words":[
+  {"id":"y5102","title":"Tính từ trang trọng 10","desc":"Tính từ dùng trong văn viết, báo chí, học thuật","icon":"Refined","unit":556,"course":"en","order":7130,"words":[
    {"id":"y5102-shrewd","hanzi":"shrewd","pinyin":"","vi":"sắc sảo, khôn ngoan","ex":{"tokens":["She","is","a","shrewd","businesswoman","."],"py":["","","","","","."],"vi":"Bà ấy là một nữ doanh nhân sắc sảo.","alts":[]}},
    {"id":"y5102-spurious","hanzi":"spurious","pinyin":"","vi":"giả mạo, không xác thực","ex":{"tokens":["The","claim","is","spurious","."],"py":["","","","","."],"vi":"Lời khẳng định đó là không xác thực.","alts":[]}},
    {"id":"y5102-squalid","hanzi":"squalid","pinyin":"","vi":"bẩn thỉu, tồi tàn","ex":{"tokens":["They","lived","in","a","squalid","room","."],"py":["","","","","","","."],"vi":"Họ sống trong một căn phòng tồi tàn.","alts":[]}},
@@ -33,7 +33,7 @@
    {"id":"y5102-taciturn","hanzi":"taciturn","pinyin":"","vi":"lầm lì, ít nói","ex":{"tokens":["Her","father","is","a","taciturn","man","."],"py":["","","","","","","."],"vi":"Bố cô ấy là người lầm lì ít nói.","alts":[]}},
    {"id":"y5102-tenacious","hanzi":"tenacious","pinyin":"","vi":"bền bỉ, kiên trì","ex":{"tokens":["She","is","a","tenacious","player","."],"py":["","","","","","."],"vi":"Cô ấy là một vận động viên bền bỉ.","alts":[]}}
   ]},
-  {"id":"y5103","title":"Tính từ trang trọng 11","desc":"Tính từ dùng trong văn viết, báo chí, học thuật","icon":"Refined","unit":556,"course":"en","order":7070,"words":[
+  {"id":"y5103","title":"Tính từ trang trọng 11","desc":"Tính từ dùng trong văn viết, báo chí, học thuật","icon":"Refined","unit":556,"course":"en","order":7140,"words":[
    {"id":"y5103-trite","hanzi":"trite","pinyin":"","vi":"sáo mòn, nhàm","ex":{"tokens":["The","ending","was","trite","."],"py":["","","","","."],"vi":"Cái kết thật sáo mòn.","alts":[]}},
    {"id":"y5103-unscrupulous","hanzi":"unscrupulous","pinyin":"","vi":"vô lương tâm","ex":{"tokens":["An","unscrupulous","dealer","sold","him","a","bad","car","."],"py":["","","","","","","","","."],"vi":"Một tay buôn vô lương tâm bán cho anh ấy một chiếc xe hỏng.","alts":[]}},
    {"id":"y5103-unwieldy","hanzi":"unwieldy","pinyin":"","vi":"cồng kềnh, khó dùng","ex":{"tokens":["The","box","is","heavy","and","unwieldy","."],"py":["","","","","","","."],"vi":"Chiếc hộp nặng và cồng kềnh.","alts":[]}},
@@ -47,7 +47,7 @@
    {"id":"y5103-whimsical","hanzi":"whimsical","pinyin":"","vi":"ngộ nghĩnh, kỳ quặc đáng yêu","ex":{"tokens":["The","book","has","whimsical","drawings","."],"py":["","","","","","."],"vi":"Cuốn sách có những hình vẽ ngộ nghĩnh.","alts":[]}},
    {"id":"y5103-zealous","hanzi":"zealous","pinyin":"","vi":"hăng hái, sốt sắng","ex":{"tokens":["He","is","a","zealous","supporter","of","the","cause","."],"py":["","","","","","","","","."],"vi":"Anh ấy là người ủng hộ sốt sắng cho sự nghiệp đó.","alts":[]}}
   ]},
-  {"id":"y5104","title":"Danh từ trừu tượng 7","desc":"Phẩm chất, trạng thái, khái niệm","icon":"Ideas","unit":556,"course":"en","order":7080,"words":[
+  {"id":"y5104","title":"Danh từ trừu tượng 7","desc":"Phẩm chất, trạng thái, khái niệm","icon":"Ideas","unit":556,"course":"en","order":7150,"words":[
    {"id":"y5104-acumen","hanzi":"acumen","pinyin":"","vi":"sự nhạy bén","ex":{"tokens":["She","has","great","business","acumen","."],"py":["","","","","","."],"vi":"Cô ấy có sự nhạy bén kinh doanh tuyệt vời.","alts":[]}},
    {"id":"y5104-adversity","hanzi":"adversity","pinyin":"","vi":"nghịch cảnh","ex":{"tokens":["He","stayed","cheerful","in","adversity","."],"py":["","","","","","."],"vi":"Anh ấy vẫn vui vẻ trong nghịch cảnh.","alts":[]}},
    {"id":"y5104-affinity","hanzi":"affinity","pinyin":"","vi":"sự gần gũi, đồng cảm","ex":{"tokens":["She","feels","an","affinity","with","animals","."],"py":["","","","","","","."],"vi":"Cô ấy thấy gần gũi với động vật.","alts":[]}},
@@ -63,7 +63,7 @@
    {"id":"y5104-contempt","hanzi":"contempt","pinyin":"","vi":"sự khinh miệt","ex":{"tokens":["She","spoke","of","him","with","contempt","."],"py":["","","","","","","."],"vi":"Cô ấy nói về anh ta với sự khinh miệt.","alts":[]}},
    {"id":"y5104-credence","hanzi":"credence","pinyin":"","vi":"sự tin tưởng, độ tin cậy","ex":{"tokens":["I","give","no","credence","to","the","rumor","."],"py":["","","","","","","","."],"vi":"Tôi không tin lời đồn đó chút nào.","alts":[]}}
   ]},
-  {"id":"y5105","title":"Danh từ trừu tượng 8","desc":"Phẩm chất, trạng thái, khái niệm","icon":"Ideas","unit":556,"course":"en","order":7090,"words":[
+  {"id":"y5105","title":"Danh từ trừu tượng 8","desc":"Phẩm chất, trạng thái, khái niệm","icon":"Ideas","unit":556,"course":"en","order":7160,"words":[
    {"id":"y5105-culmination","hanzi":"culmination","pinyin":"","vi":"đỉnh điểm, kết quả cuối cùng","ex":{"tokens":["The","prize","was","the","culmination","of","years","of","work","."],"py":["","","","","","","","","","."],"vi":"Giải thưởng là kết quả của nhiều năm lao động.","alts":[]}},
    {"id":"y5105-cynicism","hanzi":"cynicism","pinyin":"","vi":"sự hoài nghi, yếm thế","ex":{"tokens":["His","cynicism","makes","him","hard","to","work","with","."],"py":["","","","","","","","","."],"vi":"Thói hoài nghi khiến anh ta khó làm việc cùng.","alts":[]}},
    {"id":"y5105-decorum","hanzi":"decorum","pinyin":"","vi":"sự đứng đắn, phép lịch sự","ex":{"tokens":["Please","behave","with","decorum","."],"py":["","","","","."],"vi":"Xin hãy cư xử cho đứng đắn.","alts":[]}},
@@ -79,7 +79,7 @@
    {"id":"y5105-fidelity","hanzi":"fidelity","pinyin":"","vi":"lòng chung thủy; độ trung thực","ex":{"tokens":["The","film","shows","great","fidelity","to","the","book","."],"py":["","","","","","","","","."],"vi":"Bộ phim rất trung thành với nguyên tác.","alts":[]}},
    {"id":"y5105-futility","hanzi":"futility","pinyin":"","vi":"sự vô ích","ex":{"tokens":["She","saw","the","futility","of","arguing","."],"py":["","","","","","","."],"vi":"Cô ấy thấy cãi nhau là vô ích.","alts":[]}}
   ]},
-  {"id":"y5106","title":"Danh từ trừu tượng 9","desc":"Phẩm chất, trạng thái, khái niệm","icon":"Ideas","unit":556,"course":"en","order":7100,"words":[
+  {"id":"y5106","title":"Danh từ trừu tượng 9","desc":"Phẩm chất, trạng thái, khái niệm","icon":"Ideas","unit":556,"course":"en","order":7170,"words":[
    {"id":"y5106-guile","hanzi":"guile","pinyin":"","vi":"sự xảo quyệt","ex":{"tokens":["He","won","by","guile",",","not","strength","."],"py":["","","","",",","","","."],"vi":"Hắn thắng bằng mưu mẹo chứ không phải sức mạnh.","alts":[]}},
    {"id":"y5106-hegemony","hanzi":"hegemony","pinyin":"","vi":"quyền bá chủ","ex":{"tokens":["The","empire","lost","its","hegemony","."],"py":["","","","","","."],"vi":"Đế quốc đánh mất quyền bá chủ.","alts":[]}},
    {"id":"y5106-impunity","hanzi":"impunity","pinyin":"","vi":"sự không bị trừng phạt","ex":{"tokens":["The","gangs","act","with","impunity","."],"py":["","","","","","."],"vi":"Các băng nhóm hoành hành mà không bị trừng phạt.","alts":[]}},
@@ -95,7 +95,7 @@
    {"id":"y5106-panacea","hanzi":"panacea","pinyin":"","vi":"thuốc chữa bách bệnh","ex":{"tokens":["Technology","is","not","a","panacea","."],"py":["","","","","","."],"vi":"Công nghệ không phải là thuốc chữa bách bệnh.","alts":[]}},
    {"id":"y5106-paradigm","hanzi":"paradigm","pinyin":"","vi":"mô hình, hệ hình","ex":{"tokens":["The","discovery","created","a","new","paradigm","."],"py":["","","","","","","."],"vi":"Phát hiện này tạo ra một mô hình mới.","alts":[]}}
   ]},
-  {"id":"y5107","title":"Danh từ trừu tượng 10","desc":"Phẩm chất, trạng thái, khái niệm","icon":"Ideas","unit":556,"course":"en","order":7110,"words":[
+  {"id":"y5107","title":"Danh từ trừu tượng 10","desc":"Phẩm chất, trạng thái, khái niệm","icon":"Ideas","unit":556,"course":"en","order":7180,"words":[
    {"id":"y5107-parity","hanzi":"parity","pinyin":"","vi":"sự ngang bằng","ex":{"tokens":["Women","demand","pay","parity","."],"py":["","","","","."],"vi":"Phụ nữ đòi sự ngang bằng về lương.","alts":[]}},
    {"id":"y5107-penchant","hanzi":"penchant","pinyin":"","vi":"sự ưa thích","ex":{"tokens":["He","has","a","penchant","for","spicy","food","."],"py":["","","","","","","","."],"vi":"Anh ấy đặc biệt thích đồ cay.","alts":[]}},
    {"id":"y5107-predicament","hanzi":"predicament","pinyin":"","vi":"tình thế khó khăn","ex":{"tokens":["We","are","in","a","difficult","predicament","."],"py":["","","","","","","."],"vi":"Chúng tôi đang ở trong tình thế khó khăn.","alts":[]}},
@@ -111,7 +111,7 @@
    {"id":"y5107-semblance","hanzi":"semblance","pinyin":"","vi":"vẻ bề ngoài, dáng vẻ","ex":{"tokens":["Life","returned","to","a","semblance","of","order","."],"py":["","","","","","","","."],"vi":"Cuộc sống trở lại có vẻ trật tự.","alts":[]}},
    {"id":"y5107-serenity","hanzi":"serenity","pinyin":"","vi":"sự thanh thản, yên bình","ex":{"tokens":["I","love","the","serenity","of","the","lake","."],"py":["","","","","","","","."],"vi":"Tôi yêu sự yên bình của hồ.","alts":[]}}
   ]},
-  {"id":"y5108","title":"Danh từ trừu tượng 11","desc":"Phẩm chất, trạng thái, khái niệm","icon":"Ideas","unit":556,"course":"en","order":7120,"words":[
+  {"id":"y5108","title":"Danh từ trừu tượng 11","desc":"Phẩm chất, trạng thái, khái niệm","icon":"Ideas","unit":556,"course":"en","order":7190,"words":[
    {"id":"y5108-tenet","hanzi":"tenet","pinyin":"","vi":"nguyên lý, giáo lý","ex":{"tokens":["Honesty","is","a","tenet","of","our","company","."],"py":["","","","","","","","."],"vi":"Trung thực là một nguyên tắc của công ty chúng tôi.","alts":[]}},
    {"id":"y5108-trepidation","hanzi":"trepidation","pinyin":"","vi":"sự lo sợ, bồn chồn","ex":{"tokens":["She","opened","the","letter","with","trepidation","."],"py":["","","","","","","."],"vi":"Cô ấy mở lá thư trong lo sợ.","alts":[]}},
    {"id":"y5108-veracity","hanzi":"veracity","pinyin":"","vi":"tính xác thực","ex":{"tokens":["We","doubt","the","veracity","of","his","story","."],"py":["","","","","","","","."],"vi":"Chúng tôi nghi ngờ tính xác thực của câu chuyện anh ta kể.","alts":[]}},
@@ -127,7 +127,7 @@
    {"id":"y5108-temerity","hanzi":"temerity","pinyin":"","vi":"sự liều lĩnh, cả gan","ex":{"tokens":["He","had","the","temerity","to","interrupt","the","judge","."],"py":["","","","","","","","","."],"vi":"Anh ta cả gan ngắt lời thẩm phán.","alts":[]}},
    {"id":"y5108-ubiquity","hanzi":"ubiquity","pinyin":"","vi":"sự có mặt khắp nơi","ex":{"tokens":["The","ubiquity","of","phones","has","changed","how","we","live","."],"py":["","","","","","","","","","."],"vi":"Việc điện thoại có mặt khắp nơi đã thay đổi cách ta sống.","alts":[]}}
   ]},
-  {"id":"y5109","title":"Triết học và logic 1","desc":"Trường phái, lập luận, đạo đức","icon":"Thought","unit":556,"course":"en","order":7130,"words":[
+  {"id":"y5109","title":"Triết học và logic 1","desc":"Trường phái, lập luận, đạo đức","icon":"Thought","unit":556,"course":"en","order":7200,"words":[
    {"id":"y5109-metaphysics","hanzi":"metaphysics","pinyin":"","vi":"siêu hình học","ex":{"tokens":["Metaphysics","asks","what","reality","is","."],"py":["","","","","","."],"vi":"Siêu hình học đặt câu hỏi thực tại là gì.","alts":[]}},
    {"id":"y5109-epistemology","hanzi":"epistemology","pinyin":"","vi":"nhận thức luận","ex":{"tokens":["Epistemology","studies","how","we","know","things","."],"py":["","","","","","","."],"vi":"Nhận thức luận nghiên cứu cách ta biết về sự vật.","alts":[]}},
    {"id":"y5109-ontology","hanzi":"ontology","pinyin":"","vi":"bản thể luận","ex":{"tokens":["Ontology","deals","with","the","nature","of","being","."],"py":["","","","","","","","."],"vi":"Bản thể luận bàn về bản chất của tồn tại.","alts":[]}},
@@ -143,7 +143,7 @@
    {"id":"y5109-stoicism","hanzi":"stoicism","pinyin":"","vi":"chủ nghĩa khắc kỷ","ex":{"tokens":["She","faced","the","illness","with","stoicism","."],"py":["","","","","","","."],"vi":"Cô ấy đối mặt với bệnh tật bằng tinh thần khắc kỷ.","alts":[]}},
    {"id":"y5109-nihilism","hanzi":"nihilism","pinyin":"","vi":"chủ nghĩa hư vô","ex":{"tokens":["The","novel","is","full","of","nihilism","."],"py":["","","","","","","."],"vi":"Cuốn tiểu thuyết nhuốm đầy chủ nghĩa hư vô.","alts":[]}}
   ]},
-  {"id":"y5110","title":"Triết học và logic 2","desc":"Trường phái, lập luận, đạo đức","icon":"Thought","unit":556,"course":"en","order":7140,"words":[
+  {"id":"y5110","title":"Triết học và logic 2","desc":"Trường phái, lập luận, đạo đức","icon":"Thought","unit":556,"course":"en","order":7210,"words":[
    {"id":"y5110-existentialism","hanzi":"existentialism","pinyin":"","vi":"chủ nghĩa hiện sinh","ex":{"tokens":["Sartre","is","linked","with","existentialism","."],"py":["","","","","","."],"vi":"Sartre gắn liền với chủ nghĩa hiện sinh.","alts":[]}},
    {"id":"y5110-determinism","hanzi":"determinism","pinyin":"","vi":"thuyết tất định","ex":{"tokens":["Determinism","leaves","no","room","for","chance","."],"py":["","","","","","","."],"vi":"Thuyết tất định không chừa chỗ cho ngẫu nhiên.","alts":[]}},
    {"id":"y5110-free_will","hanzi":"free will","pinyin":"","vi":"ý chí tự do","ex":{"tokens":["Do","humans","really","have","free","will","?"],"py":["","","","","","","?"],"vi":"Con người có thật sự có ý chí tự do không?","alts":[]}},

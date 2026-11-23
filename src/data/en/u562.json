@@ -1,9 +1,9 @@
 {
  "units": [
-  {"unit":562,"level":5,"title":"Phần 70: Mở rộng – Vật lý","desc":"Vật lý, Cụm từ La-tinh, Từ vựng tổng hợp","color":"sky","course":"en"}
+  {"unit":562,"level":5,"title":"Phần 71: Mở rộng – Vật lý","desc":"Vật lý, Cụm từ La-tinh, Từ vựng tổng hợp","color":"sky","course":"en"}
  ],
  "lessons": [
-  {"id":"y5221","title":"Vật lý 6","desc":"Năng lượng, sóng, hạt, điện từ","icon":"Physics","unit":562,"course":"en","order":7650,"words":[
+  {"id":"y5221","title":"Vật lý 6","desc":"Năng lượng, sóng, hạt, điện từ","icon":"Physics","unit":562,"course":"en","order":7720,"words":[
    {"id":"y5221-lepton","hanzi":"lepton","pinyin":"","vi":"lép-tôn","ex":{"tokens":["The","electron","is","a","lepton","."],"py":["","","","","","."],"vi":"Electron là một lép-tôn.","alts":[]}},
    {"id":"y5221-boson","hanzi":"boson","pinyin":"","vi":"bô-zôn","ex":{"tokens":["The","Higgs","boson","was","found","in","2012","."],"py":["","","","","","","","."],"vi":"Hạt bô-zôn Higgs được tìm thấy năm 2012.","alts":[]}},
    {"id":"y5221-nuclear_fission","hanzi":"nuclear fission","pinyin":"","vi":"sự phân hạch hạt nhân","ex":{"tokens":["Power","plants","use","nuclear","fission","."],"py":["","","","","","."],"vi":"Nhà máy điện dùng phản ứng phân hạch hạt nhân.","alts":[]}},
@@ -19,7 +19,7 @@
    {"id":"y5221-wave_function","hanzi":"wave function","pinyin":"","vi":"hàm sóng","ex":{"tokens":["The","wave","function","describes","the","state","of","a","particle","."],"py":["","","","","","","","","","."],"vi":"Hàm sóng mô tả trạng thái của một hạt.","alts":[]}},
    {"id":"y5221-uncertainty_principle","hanzi":"uncertainty principle","pinyin":"","vi":"nguyên lý bất định","ex":{"tokens":["Heisenberg","stated","the","uncertainty","principle","."],"py":["","","","","","."],"vi":"Heisenberg phát biểu nguyên lý bất định.","alts":[]}}
   ]},
-  {"id":"y5222","title":"Cụm từ La-tinh 1","desc":"Cụm từ gốc La-tinh dùng trong tiếng Anh trang trọng","icon":"Latin","unit":562,"course":"en","order":7660,"words":[
+  {"id":"y5222","title":"Cụm từ La-tinh 1","desc":"Cụm từ gốc La-tinh dùng trong tiếng Anh trang trọng","icon":"Latin","unit":562,"course":"en","order":7730,"words":[
    {"id":"y5222-ad_infinitum","hanzi":"ad infinitum","pinyin":"","vi":"đến vô tận","ex":{"tokens":["We","could","argue","about","this","ad","infinitum","."],"py":["","","","","","","","."],"vi":"Chúng ta có thể tranh cãi chuyện này đến vô tận.","alts":[]}},
    {"id":"y5222-ad_nauseam","hanzi":"ad nauseam","pinyin":"","vi":"đến phát ngán","ex":{"tokens":["He","talked","about","his","car","ad","nauseam","."],"py":["","","","","","","","."],"vi":"Anh ta nói về chiếc xe của mình đến phát ngán.","alts":[]}},
    {"id":"y5222-carpe_diem","hanzi":"carpe diem","pinyin":"","vi":"hãy sống trọn hôm nay","ex":{"tokens":["Her","motto","is","carpe","diem","."],"py":["","","","","","."],"vi":"Phương châm của cô ấy là hãy sống trọn hôm nay.","alts":[]}},
@@ -35,7 +35,7 @@
    {"id":"y5222-modus_operandi","hanzi":"modus operandi","pinyin":"","vi":"cách thức hành động","ex":{"tokens":["The","thief","has","a","clear","modus","operandi","."],"py":["","","","","","","","."],"vi":"Tên trộm có cách thức hành động rõ ràng.","alts":[]}},
    {"id":"y5222-persona_non_grata","hanzi":"persona non grata","pinyin":"","vi":"người không được hoan nghênh","ex":{"tokens":["He","is","persona","non","grata","at","the","club","."],"py":["","","","","","","","","."],"vi":"Ông ta là người không được hoan nghênh ở câu lạc bộ.","alts":[]}}
   ]},
-  {"id":"y5223","title":"Cụm từ La-tinh 2","desc":"Cụm từ gốc La-tinh dùng trong tiếng Anh trang trọng","icon":"Latin","unit":562,"course":"en","order":7670,"words":[
+  {"id":"y5223","title":"Cụm từ La-tinh 2","desc":"Cụm từ gốc La-tinh dùng trong tiếng Anh trang trọng","icon":"Latin","unit":562,"course":"en","order":7740,"words":[
    {"id":"y5223-prima_facie","hanzi":"prima facie","pinyin":"","vi":"thoạt nhìn; sơ bộ","ex":{"tokens":["There","is","prima","facie","evidence","of","fraud","."],"py":["","","","","","","","."],"vi":"Có bằng chứng sơ bộ về gian lận.","alts":[]}},
    {"id":"y5223-pro_rata","hanzi":"pro rata","pinyin":"","vi":"theo tỷ lệ","ex":{"tokens":["Part-time","staff","are","paid","pro","rata","."],"py":["","","","","","","."],"vi":"Nhân viên bán thời gian được trả lương theo tỷ lệ.","alts":[]}},
    {"id":"y5223-sine_qua_non","hanzi":"sine qua non","pinyin":"","vi":"điều kiện tiên quyết","ex":{"tokens":["Trust","is","the","sine","qua","non","of","a","good","team","."],"py":["","","","","","","","","","","."],"vi":"Lòng tin là điều kiện tiên quyết của một đội tốt.","alts":[]}},
@@ -51,7 +51,7 @@
    {"id":"y5223-post_mortem","hanzi":"post mortem","pinyin":"","vi":"khám nghiệm tử thi; rút kinh nghiệm sau sự việc","ex":{"tokens":["The","team","held","a","post","mortem","after","the","defeat","."],"py":["","","","","","","","","","."],"vi":"Đội họp rút kinh nghiệm sau trận thua.","alts":[]}},
    {"id":"y5223-curriculum_vitae","hanzi":"curriculum vitae","pinyin":"","vi":"sơ yếu lý lịch","ex":{"tokens":["Send","your","curriculum","vitae","by","email","."],"py":["","","","","","","."],"vi":"Hãy gửi sơ yếu lý lịch qua email.","alts":[]}}
   ]},
-  {"id":"y5224","title":"Từ vựng tổng hợp 7","desc":"Từ thuộc nhiều chủ đề","icon":"Mix","unit":562,"course":"en","order":7680,"words":[
+  {"id":"y5224","title":"Từ vựng tổng hợp 7","desc":"Từ thuộc nhiều chủ đề","icon":"Mix","unit":562,"course":"en","order":7750,"words":[
    {"id":"y5224-multilateral","hanzi":"multilateral","pinyin":"","vi":"đa phương","ex":{"tokens":["They","signed","a","multilateral","trade","deal","."],"py":["","","","","","","."],"vi":"Họ ký một thỏa thuận thương mại đa phương.","alts":[]}},
    {"id":"y5224-promulgate","hanzi":"promulgate","pinyin":"","vi":"ban hành, công bố","ex":{"tokens":["The","government","will","promulgate","the","new","law","in","May","."],"py":["","","","","","","","","","."],"vi":"Chính phủ sẽ ban hành luật mới vào tháng Năm.","alts":[]}},
    {"id":"y5224-abrogate","hanzi":"abrogate","pinyin":"","vi":"bãi bỏ, hủy bỏ","ex":{"tokens":["The","state","cannot","abrogate","that","right","."],"py":["","","","","","","."],"vi":"Nhà nước không thể bãi bỏ quyền đó.","alts":[]}},
