@@ -59,7 +59,7 @@
    {"id":"e55-translate","hanzi":"translate","pinyin":"","vi":"dịch","ex":{"tokens":["Can","you","translate","this","sentence","?"],"py":["","","","","","?"],"vi":"Bạn dịch câu này được không?","alts":[]}},
    {"id":"e55-language","hanzi":"language","pinyin":"","vi":"ngôn ngữ","ex":{"tokens":["English","is","a","useful","language","."],"py":["","","","","","."],"vi":"Tiếng Anh là một ngôn ngữ hữu ích.","alts":[]}}
   ]},
-  {"id":"e56","title":"Xã hội","desc":"Chính phủ, luật, tin tức, văn hóa","icon":"News","unit":8,"course":"en","order":1140,"words":[
+  {"id":"e56","title":"Xã hội 1","desc":"Chính phủ, luật, tin tức, văn hóa","icon":"News","unit":8,"course":"en","order":1140,"words":[
    {"id":"e56-government","hanzi":"government","pinyin":"","vi":"chính phủ","ex":{"tokens":["The","government","built","a","new","road","."],"py":["","","","","","","."],"vi":"Chính phủ đã xây một con đường mới.","alts":[]}},
    {"id":"e56-law","hanzi":"law","pinyin":"","vi":"luật, pháp luật","ex":{"tokens":["Everyone","must","follow","the","law","."],"py":["","","","","","."],"vi":"Mọi người phải tuân theo pháp luật.","alts":[]}},
    {"id":"e56-news","hanzi":"news","pinyin":"","vi":"tin tức","ex":{"tokens":["I","watch","the","news","every","evening","."],"py":["","","","","","","."],"vi":"Tối nào tôi cũng xem tin tức.","alts":[]}},

@@ -1,6 +1,6 @@
 {
  "units": [
-  {"unit":356,"level":3,"title":"Phần 32: Mở rộng – Nghề nghiệp","desc":"Nghề nghiệp, Sở thích và giải trí, Từ vựng tổng hợp","color":"leaf","course":"en"}
+  {"unit":356,"level":3,"title":"Phần 32: Mở rộng – Nghề nghiệp","desc":"Nghề nghiệp, Sở thích và giải trí, Trường lớp","color":"leaf","course":"en"}
  ],
  "lessons": [
   {"id":"y3101","title":"Nghề nghiệp 3","desc":"Các nghề và từ về công việc","icon":"Jobs","unit":356,"course":"en","order":3340,"words":[
@@ -134,37 +134,21 @@
    {"id":"y3109-model_making","hanzi":"model making","pinyin":"","vi":"làm mô hình","ex":{"tokens":["Model","making","needs","patience","."],"py":["","","","","."],"vi":"Làm mô hình cần sự kiên nhẫn.","alts":[]}},
    {"id":"y3109-bumper_car","hanzi":"bumper car","pinyin":"","vi":"xe điện đụng","ex":{"tokens":["The","boy","drove","a","bumper","car","at","the","fair","."],"py":["","","","","","","","","","."],"vi":"Cậu bé lái xe điện đụng ở hội chợ.","alts":[]}}
   ]},
-  {"id":"y3110","title":"Từ vựng tổng hợp 1","desc":"Từ thuộc nhiều chủ đề","icon":"Mix","unit":356,"course":"en","order":3430,"words":[
-   {"id":"y3110-candlestick","hanzi":"candlestick","pinyin":"","vi":"chân nến","ex":{"tokens":["There","is","a","silver","candlestick","on","the","table","."],"py":["","","","","","","","","."],"vi":"Có một chiếc chân nến bạc trên bàn.","alts":[]}},
-   {"id":"y3110-ornament","hanzi":"ornament","pinyin":"","vi":"đồ trang trí","ex":{"tokens":["She","hung","an","ornament","on","the","tree","."],"py":["","","","","","","","."],"vi":"Cô ấy treo một món đồ trang trí lên cây.","alts":[]}},
-   {"id":"y3110-picture_frame","hanzi":"picture frame","pinyin":"","vi":"khung ảnh","ex":{"tokens":["The","photo","is","in","a","wooden","picture","frame","."],"py":["","","","","","","","","."],"vi":"Bức ảnh nằm trong khung gỗ.","alts":[]}},
-   {"id":"y3110-ottoman","hanzi":"ottoman","pinyin":"","vi":"ghế đôn bọc nệm","ex":{"tokens":["She","keeps","blankets","inside","the","ottoman","."],"py":["","","","","","","."],"vi":"Cô ấy cất chăn bên trong ghế đôn.","alts":[]}},
-   {"id":"y3110-scrubber","hanzi":"scrubber","pinyin":"","vi":"miếng cọ rửa","ex":{"tokens":["Clean","the","pan","with","a","scrubber","."],"py":["","","","","","","."],"vi":"Hãy cọ chảo bằng miếng cọ rửa.","alts":[]}},
-   {"id":"y3110-feather_duster","hanzi":"feather duster","pinyin":"","vi":"chổi lông gà","ex":{"tokens":["She","cleaned","the","shelves","with","a","feather","duster","."],"py":["","","","","","","","","."],"vi":"Cô ấy lau kệ bằng chổi lông gà.","alts":[]}},
-   {"id":"y3110-curb","hanzi":"curb","pinyin":"","vi":"lề đường, mép vỉa hè","ex":{"tokens":["He","parked","next","to","the","curb","."],"py":["","","","","","","."],"vi":"Anh ấy đỗ xe sát lề đường.","alts":[]}},
-   {"id":"y3110-pedestrian_crossing","hanzi":"pedestrian crossing","pinyin":"","vi":"vạch sang đường cho người đi bộ","ex":{"tokens":["Stop","at","the","pedestrian","crossing","."],"py":["","","","","","."],"vi":"Hãy dừng lại ở vạch sang đường.","alts":[]}},
-   {"id":"y3110-fender","hanzi":"fender","pinyin":"","vi":"tấm chắn bùn","ex":{"tokens":["The","fender","was","bent","in","the","accident","."],"py":["","","","","","","","."],"vi":"Tấm chắn bùn bị móp trong vụ tai nạn.","alts":[]}},
-   {"id":"y3110-muffler","hanzi":"muffler","pinyin":"","vi":"ống giảm thanh; khăn quàng","ex":{"tokens":["The","car","needs","a","new","muffler","."],"py":["","","","","","","."],"vi":"Chiếc xe cần ống giảm thanh mới.","alts":[]}},
-   {"id":"y3110-hubcap","hanzi":"hubcap","pinyin":"","vi":"ốp bánh xe","ex":{"tokens":["A","hubcap","rolled","across","the","road","."],"py":["","","","","","","."],"vi":"Một chiếc ốp bánh xe lăn ngang đường.","alts":[]}},
-   {"id":"y3110-odometer","hanzi":"odometer","pinyin":"","vi":"đồng hồ đo quãng đường","ex":{"tokens":["The","odometer","shows","fifty","thousand","kilometers","."],"py":["","","","","","","."],"vi":"Đồng hồ đo quãng đường chỉ năm mươi nghìn cây số.","alts":[]}},
-   {"id":"y3110-tailgate","hanzi":"tailgate","pinyin":"","vi":"bám sát đuôi xe; cửa hậu","ex":{"tokens":["Do","not","tailgate","the","car","in","front","."],"py":["","","","","","","","."],"vi":"Đừng bám sát đuôi xe phía trước.","alts":[]}},
-   {"id":"y3110-promenade","hanzi":"promenade","pinyin":"","vi":"đường dạo ven biển","ex":{"tokens":["We","walked","along","the","promenade","at","sunset","."],"py":["","","","","","","","."],"vi":"Chúng tôi đi dạo trên đường ven biển lúc hoàng hôn.","alts":[]}}
-  ]},
-  {"id":"y3111","title":"Từ vựng tổng hợp 2","desc":"Từ thuộc nhiều chủ đề","icon":"Mix","unit":356,"course":"en","order":3440,"words":[
-   {"id":"y3111-boardwalk","hanzi":"boardwalk","pinyin":"","vi":"lối đi lát ván ven biển","ex":{"tokens":["There","are","food","stalls","on","the","boardwalk","."],"py":["","","","","","","","."],"vi":"Có các quầy đồ ăn trên lối đi lát ván.","alts":[]}},
-   {"id":"y3111-immigration_desk","hanzi":"immigration desk","pinyin":"","vi":"quầy xuất nhập cảnh","ex":{"tokens":["Show","your","passport","at","the","immigration","desk","."],"py":["","","","","","","","."],"vi":"Hãy xuất trình hộ chiếu ở quầy xuất nhập cảnh.","alts":[]}},
-   {"id":"y3111-bellhop","hanzi":"bellhop","pinyin":"","vi":"nhân viên xách hành lý khách sạn","ex":{"tokens":["The","bellhop","took","our","bags","to","the","room","."],"py":["","","","","","","","","."],"vi":"Nhân viên xách hành lý mang túi của chúng tôi lên phòng.","alts":[]}},
-   {"id":"y3111-half_board","hanzi":"half board","pinyin":"","vi":"gói phòng kèm bữa sáng và một bữa chính","ex":{"tokens":["We","booked","half","board","at","the","hotel","."],"py":["","","","","","","","."],"vi":"Chúng tôi đặt gói phòng kèm hai bữa ở khách sạn.","alts":[]}},
-   {"id":"y3111-soak","hanzi":"soak","pinyin":"","vi":"làm ướt sũng; ngâm","ex":{"tokens":["The","rain","will","soak","you","in","seconds","."],"py":["","","","","","","","."],"vi":"Cơn mưa sẽ làm bạn ướt sũng trong vài giây.","alts":[]}},
-   {"id":"y3111-drench","hanzi":"drench","pinyin":"","vi":"làm ướt đẫm","ex":{"tokens":["A","sudden","shower","can","drench","the","whole","crowd","."],"py":["","","","","","","","","."],"vi":"Một trận mưa rào bất chợt có thể làm ướt đẫm cả đám đông.","alts":[]}},
-   {"id":"y3111-sultry","hanzi":"sultry","pinyin":"","vi":"oi ả, nồng nực","ex":{"tokens":["It","was","a","sultry","summer","night","."],"py":["","","","","","","."],"vi":"Đó là một đêm hè oi ả.","alts":[]}},
-   {"id":"y3111-thunderbolt","hanzi":"thunderbolt","pinyin":"","vi":"tia sét kèm sấm","ex":{"tokens":["A","thunderbolt","hit","the","old","tree","."],"py":["","","","","","","."],"vi":"Một tia sét đánh trúng cây cổ thụ.","alts":[]}},
-   {"id":"y3111-warm_front","hanzi":"warm front","pinyin":"","vi":"frông nóng","ex":{"tokens":["A","warm","front","brought","rain","to","the","north","."],"py":["","","","","","","","","."],"vi":"Một frông nóng mang mưa đến miền bắc.","alts":[]}},
-   {"id":"y3111-permafrost","hanzi":"permafrost","pinyin":"","vi":"tầng đất đóng băng vĩnh cửu","ex":{"tokens":["The","permafrost","is","starting","to","melt","."],"py":["","","","","","","."],"vi":"Tầng đất đóng băng vĩnh cửu đang bắt đầu tan.","alts":[]}},
-   {"id":"y3111-obstinate","hanzi":"obstinate","pinyin":"","vi":"bướng bỉnh, ngoan cố","ex":{"tokens":["He","is","too","obstinate","to","change","his","mind","."],"py":["","","","","","","","","."],"vi":"Anh ta quá bướng bỉnh nên không đổi ý.","alts":[]}},
-   {"id":"y3111-labor_strike","hanzi":"labor strike","pinyin":"","vi":"cuộc đình công","ex":{"tokens":["The","labor","strike","closed","the","factory","."],"py":["","","","","","","."],"vi":"Cuộc đình công khiến nhà máy đóng cửa.","alts":[]}},
-   {"id":"y3111-picket_line","hanzi":"picket line","pinyin":"","vi":"hàng người đình công đứng chặn","ex":{"tokens":["No","one","crossed","the","picket","line","."],"py":["","","","","","","."],"vi":"Không ai vượt qua hàng người đình công.","alts":[]}},
-   {"id":"y3111-mentee","hanzi":"mentee","pinyin":"","vi":"người được cố vấn","ex":{"tokens":["The","mentor","meets","her","mentee","every","month","."],"py":["","","","","","","","."],"vi":"Người cố vấn gặp người được cố vấn của mình mỗi tháng.","alts":[]}}
+  {"id":"y3110","title":"Trường lớp 1","desc":"Hoạt động, đồ dùng, phòng học, câu lạc bộ","icon":"School","unit":356,"course":"en","order":3430,"words":[
+   {"id":"y3110-schoolmate","hanzi":"schoolmate","pinyin":"","vi":"bạn cùng trường","ex":{"tokens":["I","met","an","old","schoolmate","today","."],"py":["","","","","","","."],"vi":"Hôm nay tôi gặp một người bạn cùng trường cũ.","alts":[]}},
+   {"id":"y3110-form_teacher","hanzi":"form teacher","pinyin":"","vi":"giáo viên chủ nhiệm","ex":{"tokens":["Our","form","teacher","is","very","kind","."],"py":["","","","","","","."],"vi":"Giáo viên chủ nhiệm của chúng tôi rất hiền.","alts":[]}},
+   {"id":"y3110-homeroom","hanzi":"homeroom","pinyin":"","vi":"lớp chủ nhiệm, giờ sinh hoạt lớp","ex":{"tokens":["We","have","homeroom","at","eight","."],"py":["","","","","","."],"vi":"Chúng tôi có giờ sinh hoạt lớp lúc tám giờ.","alts":[]}},
+   {"id":"y3110-lesson_plan","hanzi":"lesson plan","pinyin":"","vi":"giáo án","ex":{"tokens":["The","teacher","wrote","a","lesson","plan","."],"py":["","","","","","","."],"vi":"Giáo viên soạn giáo án.","alts":[]}},
+   {"id":"y3110-worksheet","hanzi":"worksheet","pinyin":"","vi":"phiếu bài tập","ex":{"tokens":["Finish","the","worksheet","at","home","."],"py":["","","","","","."],"vi":"Hãy làm xong phiếu bài tập ở nhà.","alts":[]}},
+   {"id":"y3110-workbook","hanzi":"workbook","pinyin":"","vi":"sách bài tập","ex":{"tokens":["Open","your","workbook","to","page","ten","."],"py":["","","","","","","."],"vi":"Hãy mở sách bài tập trang mười.","alts":[]}},
+   {"id":"y3110-exercise_book","hanzi":"exercise book","pinyin":"","vi":"vở bài tập","ex":{"tokens":["Write","the","answers","in","your","exercise","book","."],"py":["","","","","","","","."],"vi":"Hãy viết đáp án vào vở bài tập.","alts":[]}},
+   {"id":"y3110-report_card","hanzi":"report card","pinyin":"","vi":"phiếu điểm, sổ liên lạc","ex":{"tokens":["My","report","card","was","good","this","term","."],"py":["","","","","","","","."],"vi":"Phiếu điểm học kỳ này của tôi tốt.","alts":[]}},
+   {"id":"y3110-parent_teacher_meeting","hanzi":"parent-teacher meeting","pinyin":"","vi":"buổi họp phụ huynh","ex":{"tokens":["The","parent-teacher","meeting","is","on","Friday","."],"py":["","","","","","","."],"vi":"Buổi họp phụ huynh diễn ra vào thứ Sáu.","alts":[]}},
+   {"id":"y3110-school_uniform","hanzi":"school uniform","pinyin":"","vi":"đồng phục học sinh","ex":{"tokens":["We","wear","a","school","uniform","every","day","."],"py":["","","","","","","","."],"vi":"Ngày nào chúng tôi cũng mặc đồng phục.","alts":[]}},
+   {"id":"y3110-school_trip","hanzi":"school trip","pinyin":"","vi":"chuyến đi của trường","ex":{"tokens":["We","went","to","the","zoo","on","a","school","trip","."],"py":["","","","","","","","","","."],"vi":"Chúng tôi đi sở thú trong một chuyến đi của trường.","alts":[]}},
+   {"id":"y3110-sports_day","hanzi":"sports day","pinyin":"","vi":"ngày hội thể thao","ex":{"tokens":["I","won","a","race","on","sports","day","."],"py":["","","","","","","","."],"vi":"Tôi thắng một cuộc đua trong ngày hội thể thao.","alts":[]}},
+   {"id":"y3110-science_fair","hanzi":"science fair","pinyin":"","vi":"hội chợ khoa học","ex":{"tokens":["She","showed","her","robot","at","the","science","fair","."],"py":["","","","","","","","","."],"vi":"Cô bé giới thiệu rô-bốt của mình tại hội chợ khoa học.","alts":[]}},
+   {"id":"y3110-spelling_bee","hanzi":"spelling bee","pinyin":"","vi":"cuộc thi đánh vần","ex":{"tokens":["He","won","the","school","spelling","bee","."],"py":["","","","","","","."],"vi":"Cậu ấy thắng cuộc thi đánh vần của trường.","alts":[]}}
   ]}
  ]
 }

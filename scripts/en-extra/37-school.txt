@@ -1,0 +1,73 @@
+# Level 3 (Nâng cao): trường học và việc học.
+@3|Trường lớp|Hoạt động, đồ dùng, phòng học, câu lạc bộ|School
+schoolmate|bạn cùng trường|I met an old schoolmate today.|Hôm nay tôi gặp một người bạn cùng trường cũ.
+form teacher|giáo viên chủ nhiệm|Our form teacher is very kind.|Giáo viên chủ nhiệm của chúng tôi rất hiền.
+homeroom|lớp chủ nhiệm, giờ sinh hoạt lớp|We have homeroom at eight.|Chúng tôi có giờ sinh hoạt lớp lúc tám giờ.
+lesson plan|giáo án|The teacher wrote a lesson plan.|Giáo viên soạn giáo án.
+worksheet|phiếu bài tập|Finish the worksheet at home.|Hãy làm xong phiếu bài tập ở nhà.
+workbook|sách bài tập|Open your workbook to page ten.|Hãy mở sách bài tập trang mười.
+exercise book|vở bài tập|Write the answers in your exercise book.|Hãy viết đáp án vào vở bài tập.
+report card|phiếu điểm, sổ liên lạc|My report card was good this term.|Phiếu điểm học kỳ này của tôi tốt.
+parent-teacher meeting|buổi họp phụ huynh|The parent-teacher meeting is on Friday.|Buổi họp phụ huynh diễn ra vào thứ Sáu.
+school uniform|đồng phục học sinh|We wear a school uniform every day.|Ngày nào chúng tôi cũng mặc đồng phục.
+school trip|chuyến đi của trường|We went to the zoo on a school trip.|Chúng tôi đi sở thú trong một chuyến đi của trường.
+sports day|ngày hội thể thao|I won a race on sports day.|Tôi thắng một cuộc đua trong ngày hội thể thao.
+science fair|hội chợ khoa học|She showed her robot at the science fair.|Cô bé giới thiệu rô-bốt của mình tại hội chợ khoa học.
+spelling bee|cuộc thi đánh vần|He won the school spelling bee.|Cậu ấy thắng cuộc thi đánh vần của trường.
+book report|bài thu hoạch về sách|I wrote a book report on Harry Potter.|Tôi viết bài thu hoạch về Harry Potter.
+pop quiz|bài kiểm tra bất ngờ|The teacher gave us a pop quiz.|Giáo viên cho chúng tôi kiểm tra bất ngờ.
+test paper|bài kiểm tra, đề kiểm tra|Write your name on the test paper.|Hãy viết tên lên bài kiểm tra.
+answer sheet|phiếu trả lời|Mark your choice on the answer sheet.|Hãy đánh dấu lựa chọn vào phiếu trả lời.
+answer key|đáp án|Check your work with the answer key.|Hãy đối chiếu bài làm với đáp án.
+pass mark|điểm đạt|The pass mark is fifty percent.|Điểm đạt là năm mươi phần trăm.
+top marks|điểm cao nhất|She got top marks in maths.|Cô ấy đạt điểm cao nhất môn toán.
+mark|điểm; chấm điểm; dấu vết|I got a good mark in English.|Tôi được điểm tốt môn tiếng Anh.
+cross off|gạch tên, gạch khỏi danh sách|Cross off each task when you finish it.|Hãy gạch từng việc khi bạn làm xong.
+tick|đánh dấu tích; dấu tích|Tick the correct box.|Hãy đánh dấu tích vào ô đúng.
+underline|gạch chân|Underline the new words.|Hãy gạch chân các từ mới.
+memorize|học thuộc lòng|I must memorize this poem.|Tôi phải học thuộc bài thơ này.
+recite|đọc thuộc lòng|Each student will recite a poem.|Mỗi học sinh sẽ đọc thuộc một bài thơ.
+take notes|ghi chép|Take notes during the lesson.|Hãy ghi chép trong giờ học.
+raise your hand|giơ tay|Raise your hand if you know the answer.|Hãy giơ tay nếu bạn biết câu trả lời.
+work in pairs|làm việc theo cặp|Work in pairs and ask each other questions.|Hãy làm việc theo cặp và hỏi nhau.
+group work|làm việc nhóm|We do a lot of group work in class.|Chúng tôi làm việc nhóm nhiều trong lớp.
+role play|đóng vai|We did a role play about shopping.|Chúng tôi đóng vai về chủ đề mua sắm.
+poster|áp phích|We made a poster about recycling.|Chúng tôi làm một tấm áp phích về tái chế.
+microscope|kính hiển vi|We looked at a leaf under the microscope.|Chúng tôi soi một chiếc lá dưới kính hiển vi.
+test tube|ống nghiệm|Pour the liquid into a test tube.|Hãy rót chất lỏng vào ống nghiệm.
+lab coat|áo khoác phòng thí nghiệm|Wear a lab coat in the science room.|Hãy mặc áo khoác thí nghiệm trong phòng khoa học.
+hole punch|cái đục lỗ giấy|Use a hole punch on the pages.|Hãy dùng cái đục lỗ cho các trang giấy.
+sticky note|giấy ghi chú dán|I left a sticky note on your desk.|Tôi để một tờ giấy ghi chú trên bàn bạn.
+index card|thẻ ghi chú|Write each word on an index card.|Hãy viết mỗi từ lên một thẻ ghi chú.
+cafeteria|nhà ăn tự phục vụ|We eat lunch in the cafeteria.|Chúng tôi ăn trưa ở nhà ăn.
+staff room|phòng giáo viên|The teacher is in the staff room.|Giáo viên đang ở phòng giáo viên.
+assembly hall|hội trường|The whole school met in the assembly hall.|Cả trường tập trung ở hội trường.
+library card|thẻ thư viện|You need a library card to borrow books.|Bạn cần thẻ thư viện để mượn sách.
+computer lab|phòng máy tính|We have a class in the computer lab.|Chúng tôi có tiết học ở phòng máy tính.
+science lab|phòng thí nghiệm khoa học|The science lab is on the second floor.|Phòng thí nghiệm khoa học ở tầng hai.
+art room|phòng mỹ thuật|The art room smells of paint.|Phòng mỹ thuật có mùi sơn.
+music room|phòng âm nhạc|There is a piano in the music room.|Có một cây đàn piano trong phòng âm nhạc.
+school nurse|y tá trường học|The school nurse gave me a plaster.|Y tá của trường đưa cho tôi một miếng băng dán.
+break time|giờ giải lao|We play football at break time.|Chúng tôi đá bóng vào giờ giải lao.
+lunch break|giờ nghỉ trưa|I read during my lunch break.|Tôi đọc sách trong giờ nghỉ trưa.
+home time|giờ tan học|The bell rings at home time.|Chuông reo vào giờ tan học.
+after-school club|câu lạc bộ sau giờ học|She goes to an after-school club.|Cô bé tham gia một câu lạc bộ sau giờ học.
+school choir|đội hợp xướng của trường|He sings in the school choir.|Cậu ấy hát trong đội hợp xướng của trường.
+school play|vở kịch của trường|I have a small part in the school play.|Tôi có một vai nhỏ trong vở kịch của trường.
+drama club|câu lạc bộ kịch|The drama club meets on Tuesday.|Câu lạc bộ kịch họp vào thứ Ba.
+chess club|câu lạc bộ cờ vua|My brother is in the chess club.|Em trai tôi ở trong câu lạc bộ cờ vua.
+debate team|đội tranh biện|She is the captain of the debate team.|Cô ấy là đội trưởng đội tranh biện.
+student council|hội học sinh|The student council planned the party.|Hội học sinh lên kế hoạch cho bữa tiệc.
+class president|lớp trưởng|We chose Minh as class president.|Chúng tôi bầu Minh làm lớp trưởng.
+exchange student|học sinh trao đổi|An exchange student from Japan joined our class.|Một học sinh trao đổi từ Nhật vào lớp chúng tôi.
+pen pal|bạn qua thư|I have a pen pal in Canada.|Tôi có một người bạn qua thư ở Canada.
+skip class|trốn học, bỏ tiết|Do not skip class.|Đừng trốn học.
+get into trouble|gặp rắc rối, bị phạt|You will get into trouble if you are late.|Bạn sẽ bị phạt nếu đi muộn.
+gold star|ngôi sao vàng (khen thưởng)|The teacher gave me a gold star.|Cô giáo thưởng cho tôi một ngôi sao vàng.
+hall pass|giấy phép ra khỏi lớp|You need a hall pass to leave the room.|Bạn cần giấy phép mới được ra khỏi lớp.
+set square|ê-ke|Draw the angle with a set square.|Hãy vẽ góc bằng ê-ke.
+correction fluid|bút xóa nước|I covered the mistake with correction fluid.|Tôi che chỗ sai bằng bút xóa.
+prefect|học sinh cán sự (giữ kỷ luật)|The prefect checked our uniforms.|Bạn cán sự kiểm tra đồng phục của chúng tôi.
+tardy|đi trễ|He was tardy three times this week.|Tuần này cậu ấy đi trễ ba lần.
+play truant|trốn học|Two boys decided to play truant.|Hai cậu bé quyết định trốn học.
+prize giving|lễ trao giải|My parents came to the prize giving.|Bố mẹ đến dự lễ trao giải của tôi.

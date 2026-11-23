@@ -1,9 +1,9 @@
 {
  "units": [
-  {"unit":454,"level":4,"title":"Phần 42: Mở rộng – Âm nhạc và biểu diễn","desc":"Âm nhạc và biểu diễn, Văn học và sách, Kinh doanh và tiếp thị","color":"coral","course":"en"}
+  {"unit":454,"level":4,"title":"Phần 43: Mở rộng – Âm nhạc và biểu diễn","desc":"Âm nhạc và biểu diễn, Văn học và sách, Kinh doanh và tiếp thị","color":"coral","course":"en"}
  ],
  "lessons": [
-  {"id":"y4061","title":"Âm nhạc và biểu diễn 5","desc":"Nhạc lý, nhạc cụ, thể loại, sân khấu","icon":"Music","unit":454,"course":"en","order":4660,"words":[
+  {"id":"y4061","title":"Âm nhạc và biểu diễn 5","desc":"Nhạc lý, nhạc cụ, thể loại, sân khấu","icon":"Music","unit":454,"course":"en","order":4710,"words":[
    {"id":"y4061-hip_hop","hanzi":"hip-hop","pinyin":"","vi":"nhạc hip-hop","ex":{"tokens":["Hip-hop","started","in","New","York","."],"py":["","","","","","."],"vi":"Nhạc hip-hop bắt nguồn từ New York.","alts":[]}},
    {"id":"y4061-rap","hanzi":"rap","pinyin":"","vi":"nhạc rap; đọc rap","ex":{"tokens":["My","brother","likes","rap","music","."],"py":["","","","","","."],"vi":"Anh trai tôi thích nhạc rap.","alts":[]}},
    {"id":"y4061-ballet","hanzi":"ballet","pinyin":"","vi":"múa ba lê","ex":{"tokens":["She","has","studied","ballet","for","ten","years","."],"py":["","","","","","","","."],"vi":"Cô ấy học múa ba lê mười năm.","alts":[]}},
@@ -17,7 +17,7 @@
    {"id":"y4061-alto","hanzi":"alto","pinyin":"","vi":"giọng nữ trầm","ex":{"tokens":["She","sings","alto","in","the","choir","."],"py":["","","","","","","."],"vi":"Cô ấy hát giọng nữ trầm trong dàn hợp xướng.","alts":[]}},
    {"id":"y4061-viola","hanzi":"viola","pinyin":"","vi":"đàn viola","ex":{"tokens":["The","viola","is","a","little","larger","than","the","violin","."],"py":["","","","","","","","","","."],"vi":"Đàn viola lớn hơn đàn violin một chút.","alts":[]}}
   ]},
-  {"id":"y4062","title":"Âm nhạc và biểu diễn 6","desc":"Nhạc lý, nhạc cụ, thể loại, sân khấu","icon":"Music","unit":454,"course":"en","order":4670,"words":[
+  {"id":"y4062","title":"Âm nhạc và biểu diễn 6","desc":"Nhạc lý, nhạc cụ, thể loại, sân khấu","icon":"Music","unit":454,"course":"en","order":4720,"words":[
    {"id":"y4062-double_bass","hanzi":"double bass","pinyin":"","vi":"đàn công bát","ex":{"tokens":["He","carries","his","double","bass","on","the","train","."],"py":["","","","","","","","","."],"vi":"Anh ấy mang đàn công bát lên tàu.","alts":[]}},
    {"id":"y4062-oboe","hanzi":"oboe","pinyin":"","vi":"kèn ô boa","ex":{"tokens":["The","oboe","gives","the","note","for","the","orchestra","."],"py":["","","","","","","","","."],"vi":"Kèn ô boa lấy nốt chuẩn cho dàn nhạc.","alts":[]}},
    {"id":"y4062-bassoon","hanzi":"bassoon","pinyin":"","vi":"kèn pha gốt","ex":{"tokens":["She","plays","the","bassoon","in","the","school","band","."],"py":["","","","","","","","","."],"vi":"Cô ấy chơi kèn pha gốt trong ban nhạc của trường.","alts":[]}},
@@ -31,7 +31,7 @@
    {"id":"y4062-ventriloquist","hanzi":"ventriloquist","pinyin":"","vi":"nghệ sĩ nói tiếng bụng","ex":{"tokens":["The","ventriloquist","made","the","doll","talk","."],"py":["","","","","","","."],"vi":"Nghệ sĩ nói tiếng bụng làm con búp bê nói chuyện.","alts":[]}},
    {"id":"y4062-curtain_call","hanzi":"curtain call","pinyin":"","vi":"màn chào khán giả cuối buổi diễn","ex":{"tokens":["The","actors","came","out","for","a","curtain","call","."],"py":["","","","","","","","","."],"vi":"Các diễn viên bước ra chào khán giả.","alts":[]}}
   ]},
-  {"id":"y4063","title":"Văn học và sách 1","desc":"Thể loại, biện pháp tu từ, xuất bản","icon":"Books","unit":454,"course":"en","order":4680,"words":[
+  {"id":"y4063","title":"Văn học và sách 1","desc":"Thể loại, biện pháp tu từ, xuất bản","icon":"Books","unit":454,"course":"en","order":4730,"words":[
    {"id":"y4063-novella","hanzi":"novella","pinyin":"","vi":"truyện vừa","ex":{"tokens":["She","wrote","a","novella","about","her","childhood","."],"py":["","","","","","","","."],"vi":"Cô ấy viết một truyện vừa về tuổi thơ của mình.","alts":[]}},
    {"id":"y4063-short_story","hanzi":"short story","pinyin":"","vi":"truyện ngắn","ex":{"tokens":["I","read","a","short","story","before","bed","."],"py":["","","","","","","","."],"vi":"Tôi đọc một truyện ngắn trước khi ngủ.","alts":[]}},
    {"id":"y4063-fable","hanzi":"fable","pinyin":"","vi":"truyện ngụ ngôn","ex":{"tokens":["The","fable","teaches","children","to","be","honest","."],"py":["","","","","","","","."],"vi":"Truyện ngụ ngôn dạy trẻ em trung thực.","alts":[]}},
@@ -47,7 +47,7 @@
    {"id":"y4063-parody","hanzi":"parody","pinyin":"","vi":"tác phẩm nhại","ex":{"tokens":["The","show","is","a","parody","of","the","news","."],"py":["","","","","","","","","."],"vi":"Chương trình là một bản nhại bản tin thời sự.","alts":[]}},
    {"id":"y4063-hyperbole","hanzi":"hyperbole","pinyin":"","vi":"phép nói quá","ex":{"tokens":["Saying","he","is","a","thousand","years","old","is","hyperbole","."],"py":["","","","","","","","","","."],"vi":"Nói rằng ông ấy nghìn tuổi là nói quá.","alts":[]}}
   ]},
-  {"id":"y4064","title":"Văn học và sách 2","desc":"Thể loại, biện pháp tu từ, xuất bản","icon":"Books","unit":454,"course":"en","order":4690,"words":[
+  {"id":"y4064","title":"Văn học và sách 2","desc":"Thể loại, biện pháp tu từ, xuất bản","icon":"Books","unit":454,"course":"en","order":4740,"words":[
    {"id":"y4064-understatement","hanzi":"understatement","pinyin":"","vi":"cách nói giảm","ex":{"tokens":["To","say","it","was","cold","is","an","understatement","."],"py":["","","","","","","","","."],"vi":"Nói rằng trời lạnh là còn nói giảm.","alts":[]}},
    {"id":"y4064-clich_","hanzi":"cliché","pinyin":"","vi":"câu sáo rỗng","ex":{"tokens":["The","speech","was","full","of","one","cliché","after","another","."],"py":["","","","","","","","","","."],"vi":"Bài phát biểu toàn những câu sáo rỗng nối tiếp nhau.","alts":[]}},
    {"id":"y4064-flashback","hanzi":"flashback","pinyin":"","vi":"cảnh hồi tưởng","ex":{"tokens":["The","film","begins","with","a","flashback","."],"py":["","","","","","","."],"vi":"Bộ phim mở đầu bằng một cảnh hồi tưởng.","alts":[]}},
@@ -63,7 +63,7 @@
    {"id":"y4064-foreword","hanzi":"foreword","pinyin":"","vi":"lời tựa","ex":{"tokens":["A","famous","writer","wrote","the","foreword","."],"py":["","","","","","","."],"vi":"Một nhà văn nổi tiếng viết lời tựa.","alts":[]}},
    {"id":"y4064-index","hanzi":"index","pinyin":"","vi":"bảng chỉ mục; chỉ số","ex":{"tokens":["Look","up","the","name","in","the","index","."],"py":["","","","","","","","."],"vi":"Hãy tra cái tên trong bảng chỉ mục.","alts":[]}}
   ]},
-  {"id":"y4065","title":"Văn học và sách 3","desc":"Thể loại, biện pháp tu từ, xuất bản","icon":"Books","unit":454,"course":"en","order":4700,"words":[
+  {"id":"y4065","title":"Văn học và sách 3","desc":"Thể loại, biện pháp tu từ, xuất bản","icon":"Books","unit":454,"course":"en","order":4750,"words":[
    {"id":"y4065-synopsis","hanzi":"synopsis","pinyin":"","vi":"bản tóm tắt nội dung","ex":{"tokens":["Read","the","synopsis","on","the","back","of","the","book","."],"py":["","","","","","","","","","."],"vi":"Hãy đọc phần tóm tắt ở bìa sau cuốn sách.","alts":[]}},
    {"id":"y4065-proofreader","hanzi":"proofreader","pinyin":"","vi":"người soát lỗi bản in","ex":{"tokens":["A","proofreader","checks","every","page","."],"py":["","","","","","."],"vi":"Người soát lỗi kiểm tra từng trang.","alts":[]}},
    {"id":"y4065-ghostwriter","hanzi":"ghostwriter","pinyin":"","vi":"người chấp bút thay","ex":{"tokens":["The","star's","book","was","written","by","a","ghostwriter","."],"py":["","","","","","","","","."],"vi":"Cuốn sách của ngôi sao do một người chấp bút thay viết.","alts":[]}},
@@ -79,7 +79,7 @@
    {"id":"y4065-drama","hanzi":"drama","pinyin":"","vi":"kịch; phim chính kịch","ex":{"tokens":["She","studies","drama","at","university","."],"py":["","","","","","."],"vi":"Cô ấy học kịch ở đại học.","alts":[]}},
    {"id":"y4065-parable","hanzi":"parable","pinyin":"","vi":"truyện dụ ngôn","ex":{"tokens":["The","teacher","told","a","parable","about","two","sons","."],"py":["","","","","","","","","."],"vi":"Người thầy kể một dụ ngôn về hai người con trai.","alts":[]}}
   ]},
-  {"id":"y4066","title":"Kinh doanh và tiếp thị 1","desc":"Doanh nghiệp, bán hàng, quảng cáo","icon":"Business","unit":454,"course":"en","order":4710,"words":[
+  {"id":"y4066","title":"Kinh doanh và tiếp thị 1","desc":"Doanh nghiệp, bán hàng, quảng cáo","icon":"Business","unit":454,"course":"en","order":4760,"words":[
    {"id":"y4066-branding","hanzi":"branding","pinyin":"","vi":"việc xây dựng thương hiệu","ex":{"tokens":["Good","branding","helps","people","remember","you","."],"py":["","","","","","","."],"vi":"Xây dựng thương hiệu tốt giúp mọi người nhớ đến bạn.","alts":[]}},
    {"id":"y4066-trademark","hanzi":"trademark","pinyin":"","vi":"nhãn hiệu đã đăng ký","ex":{"tokens":["The","name","is","a","registered","trademark","."],"py":["","","","","","","."],"vi":"Cái tên đó là nhãn hiệu đã đăng ký.","alts":[]}},
    {"id":"y4066-conglomerate","hanzi":"conglomerate","pinyin":"","vi":"tập đoàn đa ngành","ex":{"tokens":["The","conglomerate","owns","hotels","and","banks","."],"py":["","","","","","","."],"vi":"Tập đoàn đa ngành sở hữu khách sạn và ngân hàng.","alts":[]}},
@@ -95,7 +95,7 @@
    {"id":"y4066-projection","hanzi":"projection","pinyin":"","vi":"dự báo; sự chiếu","ex":{"tokens":["The","sales","projection","looks","good","."],"py":["","","","","","."],"vi":"Dự báo doanh số trông khả quan.","alts":[]}},
    {"id":"y4066-quota","hanzi":"quota","pinyin":"","vi":"hạn ngạch, chỉ tiêu","ex":{"tokens":["She","met","her","sales","quota","."],"py":["","","","","","."],"vi":"Cô ấy đạt chỉ tiêu doanh số.","alts":[]}}
   ]},
-  {"id":"y4067","title":"Kinh doanh và tiếp thị 2","desc":"Doanh nghiệp, bán hàng, quảng cáo","icon":"Business","unit":454,"course":"en","order":4720,"words":[
+  {"id":"y4067","title":"Kinh doanh và tiếp thị 2","desc":"Doanh nghiệp, bán hàng, quảng cáo","icon":"Business","unit":454,"course":"en","order":4770,"words":[
    {"id":"y4067-target_market","hanzi":"target market","pinyin":"","vi":"thị trường mục tiêu","ex":{"tokens":["Our","target","market","is","young","parents","."],"py":["","","","","","","."],"vi":"Thị trường mục tiêu của chúng tôi là các bậc cha mẹ trẻ.","alts":[]}},
    {"id":"y4067-demographic","hanzi":"demographic","pinyin":"","vi":"nhóm nhân khẩu học","ex":{"tokens":["The","show","is","popular","with","a","young","demographic","."],"py":["","","","","","","","","."],"vi":"Chương trình được nhóm khán giả trẻ ưa thích.","alts":[]}},
    {"id":"y4067-focus_group","hanzi":"focus group","pinyin":"","vi":"nhóm khảo sát ý kiến","ex":{"tokens":["A","focus","group","tested","the","new","drink","."],"py":["","","","","","","","."],"vi":"Một nhóm khảo sát dùng thử loại đồ uống mới.","alts":[]}},
@@ -111,7 +111,7 @@
    {"id":"y4067-partnership","hanzi":"partnership","pinyin":"","vi":"quan hệ đối tác","ex":{"tokens":["The","two","firms","formed","a","partnership","."],"py":["","","","","","","."],"vi":"Hai công ty thiết lập quan hệ đối tác.","alts":[]}},
    {"id":"y4067-joint_venture","hanzi":"joint venture","pinyin":"","vi":"liên doanh","ex":{"tokens":["The","factory","is","a","joint","venture","with","a","Japanese","firm","."],"py":["","","","","","","","","","","."],"vi":"Nhà máy là liên doanh với một công ty Nhật.","alts":[]}}
   ]},
-  {"id":"y4068","title":"Kinh doanh và tiếp thị 3","desc":"Doanh nghiệp, bán hàng, quảng cáo","icon":"Business","unit":454,"course":"en","order":4730,"words":[
+  {"id":"y4068","title":"Kinh doanh và tiếp thị 3","desc":"Doanh nghiệp, bán hàng, quảng cáo","icon":"Business","unit":454,"course":"en","order":4780,"words":[
    {"id":"y4068-board_of_directors","hanzi":"board of directors","pinyin":"","vi":"hội đồng quản trị","ex":{"tokens":["The","board","of","directors","meets","every","month","."],"py":["","","","","","","","."],"vi":"Hội đồng quản trị họp mỗi tháng.","alts":[]}},
    {"id":"y4068-chief_executive","hanzi":"chief executive","pinyin":"","vi":"giám đốc điều hành","ex":{"tokens":["The","chief","executive","resigned","."],"py":["","","","","."],"vi":"Giám đốc điều hành đã từ chức.","alts":[]}},
    {"id":"y4068-tycoon","hanzi":"tycoon","pinyin":"","vi":"ông trùm kinh doanh","ex":{"tokens":["A","property","tycoon","bought","the","hotel","."],"py":["","","","","","","."],"vi":"Một ông trùm bất động sản mua khách sạn.","alts":[]}},
@@ -127,7 +127,7 @@
    {"id":"y4068-economies_of_scale","hanzi":"economies of scale","pinyin":"","vi":"lợi thế kinh tế theo quy mô","ex":{"tokens":["Big","factories","enjoy","economies","of","scale","."],"py":["","","","","","","."],"vi":"Nhà máy lớn hưởng lợi thế theo quy mô.","alts":[]}},
    {"id":"y4068-competitive_edge","hanzi":"competitive edge","pinyin":"","vi":"lợi thế cạnh tranh","ex":{"tokens":["Low","prices","give","them","a","competitive","edge","."],"py":["","","","","","","","."],"vi":"Giá thấp cho họ lợi thế cạnh tranh.","alts":[]}}
   ]},
-  {"id":"y4069","title":"Kinh doanh và tiếp thị 4","desc":"Doanh nghiệp, bán hàng, quảng cáo","icon":"Business","unit":454,"course":"en","order":4740,"words":[
+  {"id":"y4069","title":"Kinh doanh và tiếp thị 4","desc":"Doanh nghiệp, bán hàng, quảng cáo","icon":"Business","unit":454,"course":"en","order":4790,"words":[
    {"id":"y4069-added_value","hanzi":"added value","pinyin":"","vi":"giá trị gia tăng","ex":{"tokens":["Free","delivery","is","added","value","for","customers","."],"py":["","","","","","","","."],"vi":"Giao hàng miễn phí là giá trị gia tăng cho khách.","alts":[]}},
    {"id":"y4069-unique_selling_point","hanzi":"unique selling point","pinyin":"","vi":"điểm bán hàng độc nhất","ex":{"tokens":["The","long","battery","life","is","its","unique","selling","point","."],"py":["","","","","","","","","","."],"vi":"Pin dùng lâu là điểm bán hàng độc nhất của nó.","alts":[]}},
    {"id":"y4069-customer_base","hanzi":"customer base","pinyin":"","vi":"tập khách hàng","ex":{"tokens":["The","shop","has","a","loyal","customer","base","."],"py":["","","","","","","","."],"vi":"Cửa hàng có tập khách hàng trung thành.","alts":[]}},
@@ -142,7 +142,7 @@
    {"id":"y4069-flagship_store","hanzi":"flagship store","pinyin":"","vi":"cửa hàng chủ lực","ex":{"tokens":["The","brand","opened","a","flagship","store","in","Hanoi","."],"py":["","","","","","","","","."],"vi":"Thương hiệu mở cửa hàng chủ lực ở Hà Nội.","alts":[]}},
    {"id":"y4069-showroom","hanzi":"showroom","pinyin":"","vi":"phòng trưng bày","ex":{"tokens":["We","saw","the","new","car","in","the","showroom","."],"py":["","","","","","","","","."],"vi":"Chúng tôi xem chiếc xe mới ở phòng trưng bày.","alts":[]}}
   ]},
-  {"id":"y4070","title":"Kinh doanh và tiếp thị 5","desc":"Doanh nghiệp, bán hàng, quảng cáo","icon":"Business","unit":454,"course":"en","order":4750,"words":[
+  {"id":"y4070","title":"Kinh doanh và tiếp thị 5","desc":"Doanh nghiệp, bán hàng, quảng cáo","icon":"Business","unit":454,"course":"en","order":4800,"words":[
    {"id":"y4070-trade_fair","hanzi":"trade fair","pinyin":"","vi":"hội chợ thương mại","ex":{"tokens":["They","showed","their","products","at","a","trade","fair","."],"py":["","","","","","","","","."],"vi":"Họ giới thiệu sản phẩm tại một hội chợ thương mại.","alts":[]}},
    {"id":"y4070-expo","hanzi":"expo","pinyin":"","vi":"triển lãm lớn","ex":{"tokens":["We","visited","a","food","expo","."],"py":["","","","","","."],"vi":"Chúng tôi tham quan một triển lãm ẩm thực.","alts":[]}},
    {"id":"y4070-leaflet","hanzi":"leaflet","pinyin":"","vi":"tờ rơi","ex":{"tokens":["He","handed","me","a","leaflet","about","the","gym","."],"py":["","","","","","","","","."],"vi":"Anh ấy đưa tôi một tờ rơi về phòng tập.","alts":[]}},

@@ -1143,7 +1143,7 @@ taxi rank|bến đỗ taxi|There is a taxi rank outside the station.|Có một b
 monorail|tàu một ray|The monorail goes to the airport.|Tàu một ray chạy đến sân bay.
 city hall|tòa thị chính thành phố|Protesters gathered outside city hall.|Người biểu tình tụ tập bên ngoài tòa thị chính.
 
-%356|3|Phần 6: Mở rộng – Nghề nghiệp|Nghề nghiệp, Sở thích và giải trí, Từ vựng tổng hợp|leaf
+%356|3|Phần 6: Mở rộng – Nghề nghiệp|Nghề nghiệp, Sở thích và giải trí, Trường lớp|leaf
 @y3101|Nghề nghiệp 1|Các nghề và từ về công việc|Jobs
 bricklayer|thợ xây (xây gạch)|The bricklayer built a wall.|Người thợ xây đã xây một bức tường.
 builder|thợ xây, nhà thầu|A builder is fixing our roof.|Một người thợ đang sửa mái nhà chúng tôi.
@@ -1275,7 +1275,88 @@ pilates|môn pilates|Pilates is good for your back.|Pilates tốt cho lưng củ
 model making|làm mô hình|Model making needs patience.|Làm mô hình cần sự kiên nhẫn.
 bumper car|xe điện đụng|The boy drove a bumper car at the fair.|Cậu bé lái xe điện đụng ở hội chợ.
 
-@y3110|Từ vựng tổng hợp 1|Từ thuộc nhiều chủ đề|Mix
+@y3110|Trường lớp 1|Hoạt động, đồ dùng, phòng học, câu lạc bộ|School
+schoolmate|bạn cùng trường|I met an old schoolmate today.|Hôm nay tôi gặp một người bạn cùng trường cũ.
+form teacher|giáo viên chủ nhiệm|Our form teacher is very kind.|Giáo viên chủ nhiệm của chúng tôi rất hiền.
+homeroom|lớp chủ nhiệm, giờ sinh hoạt lớp|We have homeroom at eight.|Chúng tôi có giờ sinh hoạt lớp lúc tám giờ.
+lesson plan|giáo án|The teacher wrote a lesson plan.|Giáo viên soạn giáo án.
+worksheet|phiếu bài tập|Finish the worksheet at home.|Hãy làm xong phiếu bài tập ở nhà.
+workbook|sách bài tập|Open your workbook to page ten.|Hãy mở sách bài tập trang mười.
+exercise book|vở bài tập|Write the answers in your exercise book.|Hãy viết đáp án vào vở bài tập.
+report card|phiếu điểm, sổ liên lạc|My report card was good this term.|Phiếu điểm học kỳ này của tôi tốt.
+parent-teacher meeting|buổi họp phụ huynh|The parent-teacher meeting is on Friday.|Buổi họp phụ huynh diễn ra vào thứ Sáu.
+school uniform|đồng phục học sinh|We wear a school uniform every day.|Ngày nào chúng tôi cũng mặc đồng phục.
+school trip|chuyến đi của trường|We went to the zoo on a school trip.|Chúng tôi đi sở thú trong một chuyến đi của trường.
+sports day|ngày hội thể thao|I won a race on sports day.|Tôi thắng một cuộc đua trong ngày hội thể thao.
+science fair|hội chợ khoa học|She showed her robot at the science fair.|Cô bé giới thiệu rô-bốt của mình tại hội chợ khoa học.
+spelling bee|cuộc thi đánh vần|He won the school spelling bee.|Cậu ấy thắng cuộc thi đánh vần của trường.
+
+%357|3|Phần 7: Mở rộng – Trường lớp|Trường lớp, Từ vựng tổng hợp|sky
+@y3121|Trường lớp 2|Hoạt động, đồ dùng, phòng học, câu lạc bộ|School
+book report|bài thu hoạch về sách|I wrote a book report on Harry Potter.|Tôi viết bài thu hoạch về Harry Potter.
+pop quiz|bài kiểm tra bất ngờ|The teacher gave us a pop quiz.|Giáo viên cho chúng tôi kiểm tra bất ngờ.
+test paper|bài kiểm tra, đề kiểm tra|Write your name on the test paper.|Hãy viết tên lên bài kiểm tra.
+answer sheet|phiếu trả lời|Mark your choice on the answer sheet.|Hãy đánh dấu lựa chọn vào phiếu trả lời.
+answer key|đáp án|Check your work with the answer key.|Hãy đối chiếu bài làm với đáp án.
+pass mark|điểm đạt|The pass mark is fifty percent.|Điểm đạt là năm mươi phần trăm.
+top marks|điểm cao nhất|She got top marks in maths.|Cô ấy đạt điểm cao nhất môn toán.
+mark|điểm; chấm điểm; dấu vết|I got a good mark in English.|Tôi được điểm tốt môn tiếng Anh.
+cross off|gạch tên, gạch khỏi danh sách|Cross off each task when you finish it.|Hãy gạch từng việc khi bạn làm xong.
+tick|đánh dấu tích; dấu tích|Tick the correct box.|Hãy đánh dấu tích vào ô đúng.
+underline|gạch chân|Underline the new words.|Hãy gạch chân các từ mới.
+memorize|học thuộc lòng|I must memorize this poem.|Tôi phải học thuộc bài thơ này.
+recite|đọc thuộc lòng|Each student will recite a poem.|Mỗi học sinh sẽ đọc thuộc một bài thơ.
+take notes|ghi chép|Take notes during the lesson.|Hãy ghi chép trong giờ học.
+
+@y3122|Trường lớp 3|Hoạt động, đồ dùng, phòng học, câu lạc bộ|School
+raise your hand|giơ tay|Raise your hand if you know the answer.|Hãy giơ tay nếu bạn biết câu trả lời.
+work in pairs|làm việc theo cặp|Work in pairs and ask each other questions.|Hãy làm việc theo cặp và hỏi nhau.
+group work|làm việc nhóm|We do a lot of group work in class.|Chúng tôi làm việc nhóm nhiều trong lớp.
+role play|đóng vai|We did a role play about shopping.|Chúng tôi đóng vai về chủ đề mua sắm.
+poster|áp phích|We made a poster about recycling.|Chúng tôi làm một tấm áp phích về tái chế.
+microscope|kính hiển vi|We looked at a leaf under the microscope.|Chúng tôi soi một chiếc lá dưới kính hiển vi.
+test tube|ống nghiệm|Pour the liquid into a test tube.|Hãy rót chất lỏng vào ống nghiệm.
+lab coat|áo khoác phòng thí nghiệm|Wear a lab coat in the science room.|Hãy mặc áo khoác thí nghiệm trong phòng khoa học.
+hole punch|cái đục lỗ giấy|Use a hole punch on the pages.|Hãy dùng cái đục lỗ cho các trang giấy.
+sticky note|giấy ghi chú dán|I left a sticky note on your desk.|Tôi để một tờ giấy ghi chú trên bàn bạn.
+index card|thẻ ghi chú|Write each word on an index card.|Hãy viết mỗi từ lên một thẻ ghi chú.
+cafeteria|nhà ăn tự phục vụ|We eat lunch in the cafeteria.|Chúng tôi ăn trưa ở nhà ăn.
+staff room|phòng giáo viên|The teacher is in the staff room.|Giáo viên đang ở phòng giáo viên.
+assembly hall|hội trường|The whole school met in the assembly hall.|Cả trường tập trung ở hội trường.
+
+@y3123|Trường lớp 4|Hoạt động, đồ dùng, phòng học, câu lạc bộ|School
+library card|thẻ thư viện|You need a library card to borrow books.|Bạn cần thẻ thư viện để mượn sách.
+computer lab|phòng máy tính|We have a class in the computer lab.|Chúng tôi có tiết học ở phòng máy tính.
+science lab|phòng thí nghiệm khoa học|The science lab is on the second floor.|Phòng thí nghiệm khoa học ở tầng hai.
+art room|phòng mỹ thuật|The art room smells of paint.|Phòng mỹ thuật có mùi sơn.
+music room|phòng âm nhạc|There is a piano in the music room.|Có một cây đàn piano trong phòng âm nhạc.
+school nurse|y tá trường học|The school nurse gave me a plaster.|Y tá của trường đưa cho tôi một miếng băng dán.
+break time|giờ giải lao|We play football at break time.|Chúng tôi đá bóng vào giờ giải lao.
+lunch break|giờ nghỉ trưa|I read during my lunch break.|Tôi đọc sách trong giờ nghỉ trưa.
+home time|giờ tan học|The bell rings at home time.|Chuông reo vào giờ tan học.
+after-school club|câu lạc bộ sau giờ học|She goes to an after-school club.|Cô bé tham gia một câu lạc bộ sau giờ học.
+school choir|đội hợp xướng của trường|He sings in the school choir.|Cậu ấy hát trong đội hợp xướng của trường.
+school play|vở kịch của trường|I have a small part in the school play.|Tôi có một vai nhỏ trong vở kịch của trường.
+drama club|câu lạc bộ kịch|The drama club meets on Tuesday.|Câu lạc bộ kịch họp vào thứ Ba.
+chess club|câu lạc bộ cờ vua|My brother is in the chess club.|Em trai tôi ở trong câu lạc bộ cờ vua.
+
+@y3124|Trường lớp 5|Hoạt động, đồ dùng, phòng học, câu lạc bộ|School
+debate team|đội tranh biện|She is the captain of the debate team.|Cô ấy là đội trưởng đội tranh biện.
+student council|hội học sinh|The student council planned the party.|Hội học sinh lên kế hoạch cho bữa tiệc.
+class president|lớp trưởng|We chose Minh as class president.|Chúng tôi bầu Minh làm lớp trưởng.
+exchange student|học sinh trao đổi|An exchange student from Japan joined our class.|Một học sinh trao đổi từ Nhật vào lớp chúng tôi.
+pen pal|bạn qua thư|I have a pen pal in Canada.|Tôi có một người bạn qua thư ở Canada.
+skip class|trốn học, bỏ tiết|Do not skip class.|Đừng trốn học.
+get into trouble|gặp rắc rối, bị phạt|You will get into trouble if you are late.|Bạn sẽ bị phạt nếu đi muộn.
+gold star|ngôi sao vàng (khen thưởng)|The teacher gave me a gold star.|Cô giáo thưởng cho tôi một ngôi sao vàng.
+hall pass|giấy phép ra khỏi lớp|You need a hall pass to leave the room.|Bạn cần giấy phép mới được ra khỏi lớp.
+set square|ê-ke|Draw the angle with a set square.|Hãy vẽ góc bằng ê-ke.
+correction fluid|bút xóa nước|I covered the mistake with correction fluid.|Tôi che chỗ sai bằng bút xóa.
+prefect|học sinh cán sự (giữ kỷ luật)|The prefect checked our uniforms.|Bạn cán sự kiểm tra đồng phục của chúng tôi.
+tardy|đi trễ|He was tardy three times this week.|Tuần này cậu ấy đi trễ ba lần.
+play truant|trốn học|Two boys decided to play truant.|Hai cậu bé quyết định trốn học.
+
+@y3125|Từ vựng tổng hợp 1|Từ thuộc nhiều chủ đề|Mix
 candlestick|chân nến|There is a silver candlestick on the table.|Có một chiếc chân nến bạc trên bàn.
 ornament|đồ trang trí|She hung an ornament on the tree.|Cô ấy treo một món đồ trang trí lên cây.
 picture frame|khung ảnh|The photo is in a wooden picture frame.|Bức ảnh nằm trong khung gỗ.
@@ -1291,7 +1372,7 @@ odometer|đồng hồ đo quãng đường|The odometer shows fifty thousand kil
 tailgate|bám sát đuôi xe; cửa hậu|Do not tailgate the car in front.|Đừng bám sát đuôi xe phía trước.
 promenade|đường dạo ven biển|We walked along the promenade at sunset.|Chúng tôi đi dạo trên đường ven biển lúc hoàng hôn.
 
-@y3111|Từ vựng tổng hợp 2|Từ thuộc nhiều chủ đề|Mix
+@y3126|Từ vựng tổng hợp 2|Từ thuộc nhiều chủ đề|Mix
 boardwalk|lối đi lát ván ven biển|There are food stalls on the boardwalk.|Có các quầy đồ ăn trên lối đi lát ván.
 immigration desk|quầy xuất nhập cảnh|Show your passport at the immigration desk.|Hãy xuất trình hộ chiếu ở quầy xuất nhập cảnh.
 bellhop|nhân viên xách hành lý khách sạn|The bellhop took our bags to the room.|Nhân viên xách hành lý mang túi của chúng tôi lên phòng.
@@ -2673,6 +2754,103 @@ bail hearing|phiên xét bảo lãnh|His bail hearing is tomorrow.|Phiên xét b
 police raid|cuộc đột kích của cảnh sát|Ten people were arrested in a police raid.|Mười người bị bắt trong một cuộc đột kích của cảnh sát.
 getaway car|xe tẩu thoát|The robbers left in a getaway car.|Bọn cướp tẩu thoát trên một chiếc xe.
 loitering|la cà, lảng vảng|A sign says "No loitering".|Tấm biển ghi "Cấm la cà".
+
+%460|4|Phần 10: Mở rộng – Lịch sử|Lịch sử, Xã hội, Từ vựng tổng hợp|sun
+@y4181|Lịch sử 1|Thời kỳ, chế độ, chiến tranh, di tích|History
+Stone Age|thời kỳ đồ đá|People in the Stone Age used stone tools.|Con người thời kỳ đồ đá dùng công cụ bằng đá.
+Bronze Age|thời kỳ đồ đồng|The sword dates from the Bronze Age.|Thanh kiếm có từ thời kỳ đồ đồng.
+Iron Age|thời kỳ đồ sắt|The village was built in the Iron Age.|Ngôi làng được dựng từ thời kỳ đồ sắt.
+Middle Ages|thời Trung cổ|The castle was built in the Middle Ages.|Lâu đài được xây vào thời Trung cổ.
+Industrial Revolution|Cách mạng Công nghiệp|The Industrial Revolution began in Britain.|Cách mạng Công nghiệp bắt đầu ở Anh.
+colonialism|chủ nghĩa thực dân|The book is about the end of colonialism.|Cuốn sách nói về sự cáo chung của chủ nghĩa thực dân.
+imperialism|chủ nghĩa đế quốc|They fought against imperialism.|Họ chiến đấu chống chủ nghĩa đế quốc.
+feudalism|chế độ phong kiến|Feudalism lasted for centuries in Europe.|Chế độ phong kiến kéo dài nhiều thế kỷ ở châu Âu.
+serf|nông nô|A serf could not leave the land.|Nông nô không được rời khỏi ruộng đất.
+peasant|nông dân (thời xưa)|The peasant worked from dawn to dusk.|Người nông dân làm việc từ sáng sớm đến tối mịt.
+nobleman|quý tộc|The nobleman owned three villages.|Vị quý tộc sở hữu ba ngôi làng.
+aristocrat|người thuộc tầng lớp quý tộc|She married a French aristocrat.|Cô ấy kết hôn với một quý tộc Pháp.
+emperor|hoàng đế|The emperor ruled for forty years.|Hoàng đế trị vì bốn mươi năm.
+empress|nữ hoàng, hoàng hậu|The empress built a new palace.|Nữ hoàng cho xây một cung điện mới.
+
+@y4182|Lịch sử 2|Thời kỳ, chế độ, chiến tranh, di tích|History
+kingdom|vương quốc|The kingdom was rich and peaceful.|Vương quốc giàu có và thanh bình.
+city-state|thành bang|Athens was a powerful city-state.|Athens là một thành bang hùng mạnh.
+chieftain|tù trưởng|The chieftain led his people to war.|Tù trưởng dẫn dắt dân mình ra trận.
+pharaoh|pha-ra-ông|The pharaoh was buried in a pyramid.|Pha-ra-ông được chôn trong kim tự tháp.
+gladiator|đấu sĩ|The gladiator fought a lion.|Đấu sĩ chiến đấu với một con sư tử.
+crusade|cuộc thập tự chinh; chiến dịch|She led a crusade against smoking.|Bà ấy dẫn đầu một chiến dịch chống hút thuốc.
+conqueror|kẻ chinh phục|The conqueror entered the city on a horse.|Kẻ chinh phục cưỡi ngựa tiến vào thành.
+invasion|cuộc xâm lược|The invasion began at dawn.|Cuộc xâm lược bắt đầu lúc rạng đông.
+invader|kẻ xâm lược|The people drove out the invader.|Nhân dân đánh đuổi kẻ xâm lược.
+explorer|nhà thám hiểm|The explorer sailed around the world.|Nhà thám hiểm đi thuyền vòng quanh thế giới.
+trade route|tuyến đường buôn bán|The town lay on an old trade route.|Thị trấn nằm trên một tuyến đường buôn bán cổ.
+Silk Road|Con đường Tơ lụa|Spices traveled along the Silk Road.|Gia vị được vận chuyển dọc Con đường Tơ lụa.
+slave trade|buôn bán nô lệ|Britain ended the slave trade in 1807.|Anh chấm dứt buôn bán nô lệ năm 1807.
+abolition|sự bãi bỏ|He fought for the abolition of slavery.|Ông ấy đấu tranh cho việc bãi bỏ chế độ nô lệ.
+
+@y4183|Lịch sử 3|Thời kỳ, chế độ, chiến tranh, di tích|History
+mutiny|cuộc binh biến, nổi loạn trên tàu|The sailors planned a mutiny.|Các thủy thủ âm mưu nổi loạn.
+civil war|nội chiến|The civil war lasted four years.|Cuộc nội chiến kéo dài bốn năm.
+world war|chiến tranh thế giới|My grandfather fought in a world war.|Ông tôi từng chiến đấu trong một cuộc chiến tranh thế giới.
+independence|nền độc lập|Vietnam declared independence in 1945.|Việt Nam tuyên bố độc lập năm 1945.
+liberation|sự giải phóng|People celebrated the liberation of the city.|Người dân ăn mừng ngày giải phóng thành phố.
+reunification|sự thống nhất đất nước|Reunification came in 1975.|Sự thống nhất đất nước đến vào năm 1975.
+partition|sự chia cắt; vách ngăn|The partition of the country caused great suffering.|Sự chia cắt đất nước gây ra nhiều đau thương.
+annexation|sự sáp nhập (lãnh thổ)|The annexation was condemned by many countries.|Việc sáp nhập bị nhiều nước lên án.
+occupation|sự chiếm đóng; nghề nghiệp|The occupation lasted five years.|Sự chiếm đóng kéo dài năm năm.
+resistance movement|phong trào kháng chiến|She joined the resistance movement.|Bà ấy tham gia phong trào kháng chiến.
+memorial|đài tưởng niệm|We visited the war memorial.|Chúng tôi thăm đài tưởng niệm chiến tranh.
+heritage site|di sản|Hoi An is a world heritage site.|Hội An là một di sản thế giới.
+catacomb|hầm mộ|Tourists walked through the catacomb.|Du khách đi qua khu hầm mộ.
+archaeologist|nhà khảo cổ|The archaeologist found an old coin.|Nhà khảo cổ tìm thấy một đồng xu cổ.
+
+@y4184|Xã hội 1|Tầng lớp, dân số, quyền con người, cộng đồng|Society
+caste|đẳng cấp|He was born into a low caste.|Ông ấy sinh ra trong một đẳng cấp thấp.
+social class|tầng lớp xã hội|Social class still affects education.|Tầng lớp xã hội vẫn ảnh hưởng đến giáo dục.
+working class|tầng lớp lao động|He grew up in a working class family.|Anh ấy lớn lên trong một gia đình lao động.
+middle class|tầng lớp trung lưu|The middle class is growing in Asia.|Tầng lớp trung lưu đang lớn mạnh ở châu Á.
+upper class|tầng lớp thượng lưu|The school was for the upper class.|Ngôi trường dành cho tầng lớp thượng lưu.
+poverty line|ngưỡng nghèo|Many families live below the poverty line.|Nhiều gia đình sống dưới ngưỡng nghèo.
+social mobility|sự dịch chuyển xã hội|Education improves social mobility.|Giáo dục cải thiện sự dịch chuyển xã hội.
+urbanization|đô thị hóa|Urbanization is fast in Vietnam.|Đô thị hóa diễn ra nhanh ở Việt Nam.
+refugee camp|trại tị nạn|She grew up in a refugee camp.|Cô ấy lớn lên trong một trại tị nạn.
+asylum seeker|người xin tị nạn|The asylum seeker waited two years for an answer.|Người xin tị nạn chờ hai năm mới có câu trả lời.
+birth rate|tỷ lệ sinh|The birth rate is falling in Japan.|Tỷ lệ sinh đang giảm ở Nhật Bản.
+death rate|tỷ lệ tử vong|Clean water lowered the death rate.|Nước sạch làm giảm tỷ lệ tử vong.
+aging population|dân số già hóa|Japan has an aging population.|Nhật Bản có dân số già hóa.
+baby boom|thời kỳ bùng nổ trẻ sơ sinh|There was a baby boom after the war.|Có một thời kỳ bùng nổ trẻ sơ sinh sau chiến tranh.
+
+@y4185|Xã hội 2|Tầng lớp, dân số, quyền con người, cộng đồng|Society
+generation gap|khoảng cách thế hệ|Music shows the generation gap in our family.|Âm nhạc cho thấy khoảng cách thế hệ trong nhà tôi.
+gender equality|bình đẳng giới|The company supports gender equality.|Công ty ủng hộ bình đẳng giới.
+human rights|nhân quyền|Education is one of our human rights.|Giáo dục là một trong các quyền con người.
+civil rights|quyền công dân|He was a leader of the civil rights movement.|Ông ấy là một lãnh đạo của phong trào dân quyền.
+suffrage|quyền bầu cử|Women won suffrage in 1920.|Phụ nữ giành quyền bầu cử năm 1920.
+feminism|chủ nghĩa nữ quyền|She writes about feminism.|Cô ấy viết về chủ nghĩa nữ quyền.
+racism|nạn phân biệt chủng tộc|The players spoke out against racism.|Các cầu thủ lên tiếng chống phân biệt chủng tộc.
+segregation|sự phân biệt, tách biệt (chủng tộc)|Segregation in schools ended in the 1950s.|Sự tách biệt chủng tộc trong trường học chấm dứt vào thập niên 1950.
+integration|sự hội nhập|Language classes help integration.|Lớp ngôn ngữ giúp hội nhập.
+multiculturalism|chủ nghĩa đa văn hóa|Canada is proud of its multiculturalism.|Canada tự hào về chủ nghĩa đa văn hóa của mình.
+minority group|nhóm thiểu số|The law protects every minority group.|Luật bảo vệ mọi nhóm thiểu số.
+indigenous people|người bản địa|The land belongs to indigenous people.|Vùng đất thuộc về người bản địa.
+grassroots|cơ sở, từ quần chúng|It began as a grassroots campaign.|Nó bắt đầu như một chiến dịch từ quần chúng.
+nonprofit|phi lợi nhuận; tổ chức phi lợi nhuận|She works for a nonprofit.|Cô ấy làm cho một tổ chức phi lợi nhuận.
+
+@y4186|Từ vựng tổng hợp|Từ thuộc nhiều chủ đề|Mix
+solvency|khả năng thanh toán|The auditors checked the solvency of the firm.|Kiểm toán viên kiểm tra khả năng thanh toán của công ty.
+rosary|chuỗi tràng hạt|She held a rosary while she prayed.|Bà ấy cầm chuỗi tràng hạt khi cầu nguyện.
+alliteration|phép điệp âm đầu|The poem uses alliteration in every line.|Bài thơ dùng phép điệp âm ở mọi dòng.
+oxymoron|phép nghịch hợp|The phrase living dead is an oxymoron.|Cụm từ xác sống là một phép nghịch hợp.
+foreshadowing|sự báo trước (trong truyện)|The storm is foreshadowing of the tragedy.|Cơn bão là sự báo trước cho bi kịch.
+subplot|tuyến truyện phụ|The love story is only a subplot.|Chuyện tình chỉ là một tuyến truyện phụ.
+blurb|lời giới thiệu ngắn trên bìa|The blurb made me want to read the book.|Lời giới thiệu trên bìa khiến tôi muốn đọc cuốn sách.
+nonverbal|phi ngôn ngữ|A smile is a nonverbal signal.|Nụ cười là một tín hiệu phi ngôn ngữ.
+historian|nhà sử học|The historian wrote about the war.|Nhà sử học viết về cuộc chiến.
+archive|kho lưu trữ|The letters are kept in the national archive.|Những lá thư được giữ trong kho lưu trữ quốc gia.
+hieroglyph|chữ tượng hình (Ai Cập)|Each hieroglyph stands for a word or sound.|Mỗi chữ tượng hình biểu thị một từ hoặc một âm.
+oral tradition|truyền thống truyền miệng|The story survived through oral tradition.|Câu chuyện còn lại nhờ truyền miệng.
+ancestor worship|tục thờ cúng tổ tiên|Ancestor worship is common in Vietnam.|Tục thờ cúng tổ tiên phổ biến ở Việt Nam.
+charity work|công việc từ thiện|He does charity work at weekends.|Anh ấy làm từ thiện vào cuối tuần.
 
 %551|5|Phần 1: Mở rộng – Giải phẫu cơ thể|Giải phẫu cơ thể, Bệnh lý, Thủ thuật và thiết bị y khoa, Thực vật học, Động vật học|leaf
 @y5001|Giải phẫu cơ thể 1|Xương, nội tạng, các phần trên cơ thể|Anatomy
