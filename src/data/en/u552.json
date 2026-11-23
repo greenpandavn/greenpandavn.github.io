@@ -1,6 +1,6 @@
 {
  "units": [
-  {"unit":552,"level":5,"title":"Phần 35: Mở rộng – Động vật học","desc":"Động vật học, Chim và côn trùng","color":"sky","course":"en"}
+  {"unit":552,"level":5,"title":"Phần 35: Mở rộng – Động vật học","desc":"Động vật học, Chim và côn trùng, Sinh vật biển, Địa chất và địa hình","color":"sky","course":"en"}
  ],
  "lessons": [
   {"id":"y5021","title":"Động vật học 5","desc":"Phân loại, bộ phận cơ thể, tập tính","icon":"Zoology","unit":552,"course":"en","order":4270,"words":[
@@ -66,6 +66,102 @@
    {"id":"y5024-slug","hanzi":"slug","pinyin":"","vi":"con sên trần","ex":{"tokens":["A","slug","ate","the","lettuce","leaves","."],"py":["","","","","","","."],"vi":"Một con sên ăn lá xà lách.","alts":[]}},
    {"id":"y5024-leech","hanzi":"leech","pinyin":"","vi":"con đỉa","ex":{"tokens":["A","leech","stuck","to","his","leg","."],"py":["","","","","","","."],"vi":"Một con đỉa bám vào chân anh ấy.","alts":[]}},
    {"id":"y5024-mantis","hanzi":"mantis","pinyin":"","vi":"con bọ ngựa","ex":{"tokens":["A","green","mantis","sat","on","the","leaf","."],"py":["","","","","","","","."],"vi":"Một con bọ ngựa xanh đậu trên lá.","alts":[]}}
+  ]},
+  {"id":"y5025","title":"Sinh vật biển 1","desc":"Cá, động vật có vỏ, đời sống dưới biển","icon":"Ocean","unit":552,"course":"en","order":4310,"words":[
+   {"id":"y5025-plankton","hanzi":"plankton","pinyin":"","vi":"sinh vật phù du","ex":{"tokens":["Small","fish","feed","on","plankton","."],"py":["","","","","","."],"vi":"Cá nhỏ ăn sinh vật phù du.","alts":[]}},
+   {"id":"y5025-krill","hanzi":"krill","pinyin":"","vi":"nhuyễn thể (tôm nhỏ)","ex":{"tokens":["Whales","eat","huge","amounts","of","krill","."],"py":["","","","","","","."],"vi":"Cá voi ăn một lượng nhuyễn thể khổng lồ.","alts":[]}},
+   {"id":"y5025-anemone","hanzi":"anemone","pinyin":"","vi":"hải quỳ","ex":{"tokens":["The","clownfish","hides","in","an","anemone","."],"py":["","","","","","","."],"vi":"Cá hề trốn trong hải quỳ.","alts":[]}},
+   {"id":"y5025-urchin","hanzi":"urchin","pinyin":"","vi":"nhím biển","ex":{"tokens":["He","stepped","on","a","sea","urchin","."],"py":["","","","","","","."],"vi":"Anh ấy giẫm phải một con nhím biển.","alts":[]}},
+   {"id":"y5025-seahorse","hanzi":"seahorse","pinyin":"","vi":"cá ngựa","ex":{"tokens":["The","seahorse","swims","upright","."],"py":["","","","","."],"vi":"Cá ngựa bơi thẳng đứng.","alts":[]}},
+   {"id":"y5025-squid","hanzi":"squid","pinyin":"","vi":"mực ống","ex":{"tokens":["We","had","fried","squid","for","lunch","."],"py":["","","","","","","."],"vi":"Chúng tôi ăn mực chiên vào bữa trưa.","alts":[]}},
+   {"id":"y5025-cuttlefish","hanzi":"cuttlefish","pinyin":"","vi":"mực nang","ex":{"tokens":["A","cuttlefish","can","change","its","color","."],"py":["","","","","","","."],"vi":"Mực nang có thể đổi màu.","alts":[]}},
+   {"id":"y5025-clam","hanzi":"clam","pinyin":"","vi":"con nghêu, con ngao","ex":{"tokens":["She","made","soup","with","clam","meat","."],"py":["","","","","","","."],"vi":"Cô ấy nấu canh với thịt nghêu.","alts":[]}},
+   {"id":"y5025-mussel","hanzi":"mussel","pinyin":"","vi":"con vẹm","ex":{"tokens":["I","found","a","mussel","on","the","rock","."],"py":["","","","","","","","."],"vi":"Tôi tìm thấy một con vẹm trên đá.","alts":[]}},
+   {"id":"y5025-oyster","hanzi":"oyster","pinyin":"","vi":"con hàu","ex":{"tokens":["He","opened","the","oyster","with","a","knife","."],"py":["","","","","","","","."],"vi":"Anh ấy mở con hàu bằng dao.","alts":[]}},
+   {"id":"y5025-scallop","hanzi":"scallop","pinyin":"","vi":"con sò điệp","ex":{"tokens":["The","scallop","was","grilled","with","butter","."],"py":["","","","","","","."],"vi":"Con sò điệp được nướng với bơ.","alts":[]}},
+   {"id":"y5025-barnacle","hanzi":"barnacle","pinyin":"","vi":"con hà","ex":{"tokens":["The","barnacle","sticks","to","rocks","and","ships","."],"py":["","","","","","","","."],"vi":"Con hà bám vào đá và tàu thuyền.","alts":[]}},
+   {"id":"y5025-prawn","hanzi":"prawn","pinyin":"","vi":"tôm (cỡ lớn)","ex":{"tokens":["I","ordered","a","prawn","salad","."],"py":["","","","","","."],"vi":"Tôi gọi một đĩa salad tôm.","alts":[]}},
+   {"id":"y5025-crayfish","hanzi":"crayfish","pinyin":"","vi":"tôm càng nước ngọt","ex":{"tokens":["The","boys","caught","a","crayfish","in","the","stream","."],"py":["","","","","","","","","."],"vi":"Bọn trẻ bắt được một con tôm càng trong suối.","alts":[]}}
+  ]},
+  {"id":"y5026","title":"Sinh vật biển 2","desc":"Cá, động vật có vỏ, đời sống dưới biển","icon":"Ocean","unit":552,"course":"en","order":4320,"words":[
+   {"id":"y5026-eel","hanzi":"eel","pinyin":"","vi":"con lươn, cá chình","ex":{"tokens":["An","eel","slipped","out","of","his","hands","."],"py":["","","","","","","","."],"vi":"Một con lươn tuột khỏi tay anh ấy.","alts":[]}},
+   {"id":"y5026-stingray","hanzi":"stingray","pinyin":"","vi":"cá đuối gai độc","ex":{"tokens":["A","stingray","lay","flat","on","the","sand","."],"py":["","","","","","","","."],"vi":"Một con cá đuối nằm bẹp trên cát.","alts":[]}},
+   {"id":"y5026-swordfish","hanzi":"swordfish","pinyin":"","vi":"cá kiếm","ex":{"tokens":["The","fisherman","caught","a","huge","swordfish","."],"py":["","","","","","","."],"vi":"Người đánh cá bắt được một con cá kiếm khổng lồ.","alts":[]}},
+   {"id":"y5026-tuna","hanzi":"tuna","pinyin":"","vi":"cá ngừ","ex":{"tokens":["I","made","a","tuna","sandwich","."],"py":["","","","","","."],"vi":"Tôi làm một chiếc bánh mì kẹp cá ngừ.","alts":[]}},
+   {"id":"y5026-mackerel","hanzi":"mackerel","pinyin":"","vi":"cá thu","ex":{"tokens":["We","grilled","mackerel","on","the","beach","."],"py":["","","","","","","."],"vi":"Chúng tôi nướng cá thu trên bãi biển.","alts":[]}},
+   {"id":"y5026-sardine","hanzi":"sardine","pinyin":"","vi":"cá mòi","ex":{"tokens":["He","ate","a","sardine","on","toast","."],"py":["","","","","","","."],"vi":"Anh ấy ăn cá mòi với bánh mì nướng.","alts":[]}},
+   {"id":"y5026-anchovy","hanzi":"anchovy","pinyin":"","vi":"cá cơm","ex":{"tokens":["This","sauce","is","made","from","anchovy","."],"py":["","","","","","","."],"vi":"Loại nước sốt này làm từ cá cơm.","alts":[]}},
+   {"id":"y5026-herring","hanzi":"herring","pinyin":"","vi":"cá trích","ex":{"tokens":["Smoked","herring","is","popular","in","the","north","."],"py":["","","","","","","","."],"vi":"Cá trích hun khói được ưa chuộng ở miền bắc.","alts":[]}},
+   {"id":"y5026-cod","hanzi":"cod","pinyin":"","vi":"cá tuyết","ex":{"tokens":["Fish","and","chips","is","often","made","with","cod","."],"py":["","","","","","","","","."],"vi":"Món cá và khoai tây chiên thường làm bằng cá tuyết.","alts":[]}},
+   {"id":"y5026-halibut","hanzi":"halibut","pinyin":"","vi":"cá bơn lưỡi ngựa","ex":{"tokens":["The","chef","cooked","halibut","with","lemon","."],"py":["","","","","","","."],"vi":"Đầu bếp nấu cá bơn với chanh.","alts":[]}},
+   {"id":"y5026-trout","hanzi":"trout","pinyin":"","vi":"cá hồi suối","ex":{"tokens":["He","caught","a","trout","in","the","lake","."],"py":["","","","","","","","."],"vi":"Anh ấy câu được một con cá hồi suối ở hồ.","alts":[]}},
+   {"id":"y5026-salmon","hanzi":"salmon","pinyin":"","vi":"cá hồi","ex":{"tokens":["Salmon","is","rich","in","healthy","fat","."],"py":["","","","","","","."],"vi":"Cá hồi giàu chất béo tốt.","alts":[]}},
+   {"id":"y5026-carp","hanzi":"carp","pinyin":"","vi":"cá chép","ex":{"tokens":["A","big","carp","swam","in","the","pond","."],"py":["","","","","","","","."],"vi":"Một con cá chép lớn bơi trong ao.","alts":[]}},
+   {"id":"y5026-catfish","hanzi":"catfish","pinyin":"","vi":"cá trê, cá da trơn","ex":{"tokens":["Vietnam","exports","a","lot","of","catfish","."],"py":["","","","","","","."],"vi":"Việt Nam xuất khẩu nhiều cá da trơn.","alts":[]}}
+  ]},
+  {"id":"y5027","title":"Sinh vật biển 3","desc":"Cá, động vật có vỏ, đời sống dưới biển","icon":"Ocean","unit":552,"course":"en","order":4330,"words":[
+   {"id":"y5027-pike","hanzi":"pike","pinyin":"","vi":"cá chó","ex":{"tokens":["A","pike","has","very","sharp","teeth","."],"py":["","","","","","","."],"vi":"Cá chó có răng rất sắc.","alts":[]}},
+   {"id":"y5027-sturgeon","hanzi":"sturgeon","pinyin":"","vi":"cá tầm","ex":{"tokens":["Caviar","comes","from","the","sturgeon","."],"py":["","","","","","."],"vi":"Trứng cá muối lấy từ cá tầm.","alts":[]}},
+   {"id":"y5027-piranha","hanzi":"piranha","pinyin":"","vi":"cá răng đao","ex":{"tokens":["A","piranha","has","strong","jaws","."],"py":["","","","","","."],"vi":"Cá răng đao có bộ hàm khỏe.","alts":[]}},
+   {"id":"y5027-barracuda","hanzi":"barracuda","pinyin":"","vi":"cá nhồng","ex":{"tokens":["The","diver","saw","a","barracuda","near","the","reef","."],"py":["","","","","","","","","."],"vi":"Thợ lặn thấy một con cá nhồng gần rạn san hô.","alts":[]}},
+   {"id":"y5027-grouper","hanzi":"grouper","pinyin":"","vi":"cá mú","ex":{"tokens":["Steamed","grouper","is","my","favorite","dish","."],"py":["","","","","","","."],"vi":"Cá mú hấp là món tôi thích nhất.","alts":[]}},
+   {"id":"y5027-snapper","hanzi":"snapper","pinyin":"","vi":"cá hồng","ex":{"tokens":["We","bought","a","red","snapper","at","the","market","."],"py":["","","","","","","","","."],"vi":"Chúng tôi mua một con cá hồng ở chợ.","alts":[]}},
+   {"id":"y5027-tilapia","hanzi":"tilapia","pinyin":"","vi":"cá rô phi","ex":{"tokens":["Tilapia","is","cheap","and","easy","to","farm","."],"py":["","","","","","","","."],"vi":"Cá rô phi rẻ và dễ nuôi.","alts":[]}},
+   {"id":"y5027-minnow","hanzi":"minnow","pinyin":"","vi":"cá tuế (cá nhỏ)","ex":{"tokens":["The","boy","caught","a","minnow","in","a","jar","."],"py":["","","","","","","","","."],"vi":"Cậu bé bắt một con cá nhỏ vào lọ.","alts":[]}},
+   {"id":"y5027-kelp","hanzi":"kelp","pinyin":"","vi":"tảo bẹ","ex":{"tokens":["Sea","otters","live","among","the","kelp","."],"py":["","","","","","","."],"vi":"Rái cá biển sống giữa đám tảo bẹ.","alts":[]}},
+   {"id":"y5027-estuary","hanzi":"estuary","pinyin":"","vi":"cửa sông","ex":{"tokens":["Many","birds","feed","in","the","estuary","."],"py":["","","","","","","."],"vi":"Nhiều loài chim kiếm ăn ở cửa sông.","alts":[]}},
+   {"id":"y5027-seabed","hanzi":"seabed","pinyin":"","vi":"đáy biển","ex":{"tokens":["The","ship","lies","on","the","seabed","."],"py":["","","","","","","."],"vi":"Con tàu nằm dưới đáy biển.","alts":[]}},
+   {"id":"y5027-trench","hanzi":"trench","pinyin":"","vi":"rãnh sâu, hào","ex":{"tokens":["The","deepest","ocean","trench","is","in","the","Pacific","."],"py":["","","","","","","","","."],"vi":"Rãnh đại dương sâu nhất nằm ở Thái Bình Dương.","alts":[]}},
+   {"id":"y5027-marlin","hanzi":"marlin","pinyin":"","vi":"cá cờ","ex":{"tokens":["A","blue","marlin","jumped","out","of","the","water","."],"py":["","","","","","","","","."],"vi":"Một con cá cờ xanh nhảy khỏi mặt nước.","alts":[]}},
+   {"id":"y5027-haddock","hanzi":"haddock","pinyin":"","vi":"cá tuyết chấm đen","ex":{"tokens":["Smoked","haddock","is","served","with","rice","."],"py":["","","","","","","."],"vi":"Cá tuyết chấm đen hun khói được ăn với cơm.","alts":[]}}
+  ]},
+  {"id":"y5028","title":"Địa chất và địa hình 1","desc":"Đá, khoáng vật, dạng địa hình","icon":"Rocks","unit":552,"course":"en","order":4340,"words":[
+   {"id":"y5028-ore","hanzi":"ore","pinyin":"","vi":"quặng","ex":{"tokens":["The","mine","produces","iron","ore","."],"py":["","","","","","."],"vi":"Mỏ này sản xuất quặng sắt.","alts":[]}},
+   {"id":"y5028-quartz","hanzi":"quartz","pinyin":"","vi":"thạch anh","ex":{"tokens":["The","watch","uses","a","quartz","crystal","."],"py":["","","","","","","."],"vi":"Chiếc đồng hồ dùng tinh thể thạch anh.","alts":[]}},
+   {"id":"y5028-granite","hanzi":"granite","pinyin":"","vi":"đá hoa cương","ex":{"tokens":["The","kitchen","counter","is","made","of","granite","."],"py":["","","","","","","","."],"vi":"Mặt bếp làm bằng đá hoa cương.","alts":[]}},
+   {"id":"y5028-limestone","hanzi":"limestone","pinyin":"","vi":"đá vôi","ex":{"tokens":["The","caves","formed","in","limestone","."],"py":["","","","","","."],"vi":"Các hang động hình thành trong đá vôi.","alts":[]}},
+   {"id":"y5028-sandstone","hanzi":"sandstone","pinyin":"","vi":"sa thạch","ex":{"tokens":["The","temple","was","built","of","red","sandstone","."],"py":["","","","","","","","."],"vi":"Ngôi đền được xây bằng sa thạch đỏ.","alts":[]}},
+   {"id":"y5028-slate","hanzi":"slate","pinyin":"","vi":"đá phiến","ex":{"tokens":["The","roof","is","covered","with","slate","."],"py":["","","","","","","."],"vi":"Mái nhà được lợp bằng đá phiến.","alts":[]}},
+   {"id":"y5028-basalt","hanzi":"basalt","pinyin":"","vi":"đá bazan","ex":{"tokens":["The","island","is","made","of","black","basalt","."],"py":["","","","","","","","."],"vi":"Hòn đảo được tạo thành từ đá bazan đen.","alts":[]}},
+   {"id":"y5028-clay","hanzi":"clay","pinyin":"","vi":"đất sét","ex":{"tokens":["She","made","a","pot","out","of","clay","."],"py":["","","","","","","","."],"vi":"Cô ấy nặn một cái bình bằng đất sét.","alts":[]}},
+   {"id":"y5028-silt","hanzi":"silt","pinyin":"","vi":"phù sa, bùn mịn","ex":{"tokens":["The","flood","left","silt","on","the","fields","."],"py":["","","","","","","","."],"vi":"Trận lũ để lại phù sa trên đồng ruộng.","alts":[]}},
+   {"id":"y5028-gravel","hanzi":"gravel","pinyin":"","vi":"sỏi","ex":{"tokens":["The","path","is","covered","with","gravel","."],"py":["","","","","","","."],"vi":"Lối đi được rải sỏi.","alts":[]}},
+   {"id":"y5028-pebble","hanzi":"pebble","pinyin":"","vi":"viên sỏi","ex":{"tokens":["He","threw","a","pebble","into","the","lake","."],"py":["","","","","","","","."],"vi":"Anh ấy ném một viên sỏi xuống hồ.","alts":[]}},
+   {"id":"y5028-boulder","hanzi":"boulder","pinyin":"","vi":"tảng đá lớn","ex":{"tokens":["A","boulder","blocked","the","road","."],"py":["","","","","","."],"vi":"Một tảng đá lớn chắn đường.","alts":[]}},
+   {"id":"y5028-bedrock","hanzi":"bedrock","pinyin":"","vi":"đá gốc, nền đá","ex":{"tokens":["They","drilled","down","to","the","bedrock","."],"py":["","","","","","","."],"vi":"Họ khoan xuống tới nền đá gốc.","alts":[]}},
+   {"id":"y5028-magma","hanzi":"magma","pinyin":"","vi":"macma, dung nham trong lòng đất","ex":{"tokens":["Magma","rises","under","the","volcano","."],"py":["","","","","","."],"vi":"Macma dâng lên bên dưới núi lửa.","alts":[]}}
+  ]},
+  {"id":"y5029","title":"Địa chất và địa hình 2","desc":"Đá, khoáng vật, dạng địa hình","icon":"Rocks","unit":552,"course":"en","order":4350,"words":[
+   {"id":"y5029-fissure","hanzi":"fissure","pinyin":"","vi":"khe nứt","ex":{"tokens":["Steam","came","out","of","a","fissure","in","the","ground","."],"py":["","","","","","","","","","."],"vi":"Hơi nước thoát ra từ một khe nứt trên mặt đất.","alts":[]}},
+   {"id":"y5029-tremor","hanzi":"tremor","pinyin":"","vi":"cơn rung chấn nhẹ","ex":{"tokens":["We","felt","a","small","tremor","last","night","."],"py":["","","","","","","","."],"vi":"Đêm qua chúng tôi cảm thấy một cơn rung chấn nhẹ.","alts":[]}},
+   {"id":"y5029-aftershock","hanzi":"aftershock","pinyin":"","vi":"dư chấn","ex":{"tokens":["An","aftershock","hit","the","town","an","hour","later","."],"py":["","","","","","","","","."],"vi":"Một dư chấn xảy ra ở thị trấn một giờ sau đó.","alts":[]}},
+   {"id":"y5029-epicenter","hanzi":"epicenter","pinyin":"","vi":"tâm chấn","ex":{"tokens":["The","epicenter","was","ten","kilometers","from","the","city","."],"py":["","","","","","","","","."],"vi":"Tâm chấn cách thành phố mười cây số.","alts":[]}},
+   {"id":"y5029-sinkhole","hanzi":"sinkhole","pinyin":"","vi":"hố sụt","ex":{"tokens":["A","sinkhole","opened","in","the","middle","of","the","street","."],"py":["","","","","","","","","","."],"vi":"Một hố sụt mở ra giữa đường.","alts":[]}},
+   {"id":"y5029-geyser","hanzi":"geyser","pinyin":"","vi":"mạch nước phun","ex":{"tokens":["The","geyser","shoots","hot","water","into","the","air","."],"py":["","","","","","","","","."],"vi":"Mạch nước phun bắn nước nóng lên không trung.","alts":[]}},
+   {"id":"y5029-gorge","hanzi":"gorge","pinyin":"","vi":"hẻm núi","ex":{"tokens":["A","river","runs","through","the","gorge","."],"py":["","","","","","","."],"vi":"Một dòng sông chảy qua hẻm núi.","alts":[]}},
+   {"id":"y5029-ravine","hanzi":"ravine","pinyin":"","vi":"khe núi","ex":{"tokens":["The","car","fell","into","a","ravine","."],"py":["","","","","","","."],"vi":"Chiếc xe rơi xuống khe núi.","alts":[]}},
+   {"id":"y5029-basin","hanzi":"basin","pinyin":"","vi":"lưu vực; cái chậu","ex":{"tokens":["The","Amazon","basin","is","covered","with","forest","."],"py":["","","","","","","","."],"vi":"Lưu vực sông Amazon được rừng bao phủ.","alts":[]}},
+   {"id":"y5029-isthmus","hanzi":"isthmus","pinyin":"","vi":"eo đất","ex":{"tokens":["The","canal","cuts","through","the","isthmus","."],"py":["","","","","","","."],"vi":"Kênh đào cắt ngang eo đất.","alts":[]}},
+   {"id":"y5029-archipelago","hanzi":"archipelago","pinyin":"","vi":"quần đảo","ex":{"tokens":["Indonesia","is","a","large","archipelago","."],"py":["","","","","","."],"vi":"Indonesia là một quần đảo lớn.","alts":[]}},
+   {"id":"y5029-atoll","hanzi":"atoll","pinyin":"","vi":"đảo san hô vòng","ex":{"tokens":["The","plane","landed","on","a","small","atoll","."],"py":["","","","","","","","."],"vi":"Máy bay hạ cánh xuống một đảo san hô nhỏ.","alts":[]}},
+   {"id":"y5029-cape","hanzi":"cape","pinyin":"","vi":"mũi đất","ex":{"tokens":["The","ship","sailed","around","the","cape","."],"py":["","","","","","","."],"vi":"Con tàu đi vòng qua mũi đất.","alts":[]}},
+   {"id":"y5029-cove","hanzi":"cove","pinyin":"","vi":"vịnh nhỏ","ex":{"tokens":["We","swam","in","a","quiet","cove","."],"py":["","","","","","","."],"vi":"Chúng tôi bơi trong một vịnh nhỏ yên tĩnh.","alts":[]}}
+  ]},
+  {"id":"y5030","title":"Địa chất và địa hình 3","desc":"Đá, khoáng vật, dạng địa hình","icon":"Rocks","unit":552,"course":"en","order":4360,"words":[
+   {"id":"y5030-oasis","hanzi":"oasis","pinyin":"","vi":"ốc đảo","ex":{"tokens":["The","travelers","rested","at","an","oasis","."],"py":["","","","","","","."],"vi":"Đoàn lữ hành nghỉ chân ở một ốc đảo.","alts":[]}},
+   {"id":"y5030-steppe","hanzi":"steppe","pinyin":"","vi":"thảo nguyên","ex":{"tokens":["Horses","ran","across","the","steppe","."],"py":["","","","","","."],"vi":"Ngựa chạy băng qua thảo nguyên.","alts":[]}},
+   {"id":"y5030-savanna","hanzi":"savanna","pinyin":"","vi":"xavan, đồng cỏ nhiệt đới","ex":{"tokens":["Lions","hunt","on","the","savanna","."],"py":["","","","","","."],"vi":"Sư tử săn mồi trên xavan.","alts":[]}},
+   {"id":"y5030-bog","hanzi":"bog","pinyin":"","vi":"đầm lầy than bùn","ex":{"tokens":["His","boots","sank","into","the","bog","."],"py":["","","","","","","."],"vi":"Đôi ủng của anh ấy lún xuống đầm lầy.","alts":[]}},
+   {"id":"y5030-fjord","hanzi":"fjord","pinyin":"","vi":"vịnh hẹp băng hà","ex":{"tokens":["The","boat","sailed","up","the","fjord","."],"py":["","","","","","","."],"vi":"Chiếc thuyền đi ngược vào vịnh hẹp.","alts":[]}},
+   {"id":"y5030-strait","hanzi":"strait","pinyin":"","vi":"eo biển","ex":{"tokens":["Ships","pass","through","the","strait","every","day","."],"py":["","","","","","","","."],"vi":"Tàu thuyền đi qua eo biển mỗi ngày.","alts":[]}},
+   {"id":"y5030-tributary","hanzi":"tributary","pinyin":"","vi":"sông nhánh, phụ lưu","ex":{"tokens":["This","river","is","a","tributary","of","the","Mekong","."],"py":["","","","","","","","","."],"vi":"Con sông này là một phụ lưu của sông Mê Kông.","alts":[]}},
+   {"id":"y5030-watershed","hanzi":"watershed","pinyin":"","vi":"đường phân thủy; bước ngoặt","ex":{"tokens":["The","mountains","form","a","watershed","between","two","rivers","."],"py":["","","","","","","","","."],"vi":"Dãy núi tạo thành đường phân thủy giữa hai con sông.","alts":[]}},
+   {"id":"y5030-aquifer","hanzi":"aquifer","pinyin":"","vi":"tầng chứa nước ngầm","ex":{"tokens":["The","town","gets","its","water","from","an","aquifer","."],"py":["","","","","","","","","."],"vi":"Thị trấn lấy nước từ một tầng nước ngầm.","alts":[]}},
+   {"id":"y5030-stalactite","hanzi":"stalactite","pinyin":"","vi":"nhũ đá","ex":{"tokens":["A","stalactite","hangs","from","the","roof","of","the","cave","."],"py":["","","","","","","","","","."],"vi":"Một nhũ đá rủ xuống từ trần hang.","alts":[]}},
+   {"id":"y5030-stalagmite","hanzi":"stalagmite","pinyin":"","vi":"măng đá","ex":{"tokens":["A","stalagmite","grows","up","from","the","cave","floor","."],"py":["","","","","","","","","."],"vi":"Một măng đá mọc lên từ nền hang.","alts":[]}},
+   {"id":"y5030-cavern","hanzi":"cavern","pinyin":"","vi":"hang lớn","ex":{"tokens":["The","guide","led","us","into","a","huge","cavern","."],"py":["","","","","","","","","."],"vi":"Hướng dẫn viên dẫn chúng tôi vào một cái hang khổng lồ.","alts":[]}},
+   {"id":"y5030-foothill","hanzi":"foothill","pinyin":"","vi":"đồi thấp dưới chân núi","ex":{"tokens":["The","village","lies","in","a","foothill","of","the","mountains","."],"py":["","","","","","","","","","."],"vi":"Ngôi làng nằm ở vùng đồi dưới chân núi.","alts":[]}},
+   {"id":"y5030-shale","hanzi":"shale","pinyin":"","vi":"đá phiến sét","ex":{"tokens":["Gas","is","taken","from","shale","deep","underground","."],"py":["","","","","","","","."],"vi":"Khí đốt được khai thác từ đá phiến sét sâu dưới lòng đất.","alts":[]}}
   ]}
  ]
 }

@@ -34,7 +34,7 @@
   {"unit":503,"level":5,"title":"Phần 32: Văn hóa và nghệ thuật","desc":"Âm nhạc, hội họa, sân khấu, kiến trúc, ẩm thực, thú vui","color":"grape","course":"en"},
   {"unit":504,"level":5,"title":"Phần 33: Ngôn ngữ tinh luyện","desc":"Từ văn chương, từ mượn, thành ngữ, sắc thái tinh tế","color":"sun","course":"en"},
   {"unit":551,"level":5,"title":"Phần 34: Mở rộng – Giải phẫu cơ thể","desc":"Giải phẫu cơ thể, Bệnh lý, Thủ thuật và thiết bị y khoa, Thực vật học, Động vật học","color":"leaf","course":"en"},
-  {"unit":552,"level":5,"title":"Phần 35: Mở rộng – Động vật học","desc":"Động vật học, Chim và côn trùng","color":"sky","course":"en"}
+  {"unit":552,"level":5,"title":"Phần 35: Mở rộng – Động vật học","desc":"Động vật học, Chim và côn trùng, Sinh vật biển, Địa chất và địa hình","color":"sky","course":"en"}
  ],
  "lessons": [
   ["e01","Chào hỏi","Hi",1,12],
@@ -466,6 +466,12 @@
   ["y5021","Động vật học 5","Zoology",552,14],
   ["y5022","Chim và côn trùng 1","Wings",552,14],
   ["y5023","Chim và côn trùng 2","Wings",552,14],
-  ["y5024","Chim và côn trùng 3","Wings",552,14]
+  ["y5024","Chim và côn trùng 3","Wings",552,14],
+  ["y5025","Sinh vật biển 1","Ocean",552,14],
+  ["y5026","Sinh vật biển 2","Ocean",552,14],
+  ["y5027","Sinh vật biển 3","Ocean",552,14],
+  ["y5028","Địa chất và địa hình 1","Rocks",552,14],
+  ["y5029","Địa chất và địa hình 2","Rocks",552,14],
+  ["y5030","Địa chất và địa hình 3","Rocks",552,14]
  ]
 }

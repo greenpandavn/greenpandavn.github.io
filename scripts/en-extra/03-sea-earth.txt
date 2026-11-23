@@ -1,0 +1,88 @@
+# Level 5 (Chuyên sâu): sinh vật biển, địa chất.
+@5|Sinh vật biển|Cá, động vật có vỏ, đời sống dưới biển|Ocean
+plankton|sinh vật phù du|Small fish feed on plankton.|Cá nhỏ ăn sinh vật phù du.
+krill|nhuyễn thể (tôm nhỏ)|Whales eat huge amounts of krill.|Cá voi ăn một lượng nhuyễn thể khổng lồ.
+anemone|hải quỳ|The clownfish hides in an anemone.|Cá hề trốn trong hải quỳ.
+urchin|nhím biển|He stepped on a sea urchin.|Anh ấy giẫm phải một con nhím biển.
+seahorse|cá ngựa|The seahorse swims upright.|Cá ngựa bơi thẳng đứng.
+squid|mực ống|We had fried squid for lunch.|Chúng tôi ăn mực chiên vào bữa trưa.
+cuttlefish|mực nang|A cuttlefish can change its color.|Mực nang có thể đổi màu.
+clam|con nghêu, con ngao|She made soup with clam meat.|Cô ấy nấu canh với thịt nghêu.
+mussel|con vẹm|I found a mussel on the rock.|Tôi tìm thấy một con vẹm trên đá.
+oyster|con hàu|He opened the oyster with a knife.|Anh ấy mở con hàu bằng dao.
+scallop|con sò điệp|The scallop was grilled with butter.|Con sò điệp được nướng với bơ.
+barnacle|con hà|The barnacle sticks to rocks and ships.|Con hà bám vào đá và tàu thuyền.
+prawn|tôm (cỡ lớn)|I ordered a prawn salad.|Tôi gọi một đĩa salad tôm.
+crayfish|tôm càng nước ngọt|The boys caught a crayfish in the stream.|Bọn trẻ bắt được một con tôm càng trong suối.
+eel|con lươn, cá chình|An eel slipped out of his hands.|Một con lươn tuột khỏi tay anh ấy.
+stingray|cá đuối gai độc|A stingray lay flat on the sand.|Một con cá đuối nằm bẹp trên cát.
+swordfish|cá kiếm|The fisherman caught a huge swordfish.|Người đánh cá bắt được một con cá kiếm khổng lồ.
+tuna|cá ngừ|I made a tuna sandwich.|Tôi làm một chiếc bánh mì kẹp cá ngừ.
+mackerel|cá thu|We grilled mackerel on the beach.|Chúng tôi nướng cá thu trên bãi biển.
+sardine|cá mòi|He ate a sardine on toast.|Anh ấy ăn cá mòi với bánh mì nướng.
+anchovy|cá cơm|This sauce is made from anchovy.|Loại nước sốt này làm từ cá cơm.
+herring|cá trích|Smoked herring is popular in the north.|Cá trích hun khói được ưa chuộng ở miền bắc.
+cod|cá tuyết|Fish and chips is often made with cod.|Món cá và khoai tây chiên thường làm bằng cá tuyết.
+halibut|cá bơn lưỡi ngựa|The chef cooked halibut with lemon.|Đầu bếp nấu cá bơn với chanh.
+trout|cá hồi suối|He caught a trout in the lake.|Anh ấy câu được một con cá hồi suối ở hồ.
+salmon|cá hồi|Salmon is rich in healthy fat.|Cá hồi giàu chất béo tốt.
+carp|cá chép|A big carp swam in the pond.|Một con cá chép lớn bơi trong ao.
+catfish|cá trê, cá da trơn|Vietnam exports a lot of catfish.|Việt Nam xuất khẩu nhiều cá da trơn.
+pike|cá chó|A pike has very sharp teeth.|Cá chó có răng rất sắc.
+sturgeon|cá tầm|Caviar comes from the sturgeon.|Trứng cá muối lấy từ cá tầm.
+piranha|cá răng đao|A piranha has strong jaws.|Cá răng đao có bộ hàm khỏe.
+barracuda|cá nhồng|The diver saw a barracuda near the reef.|Thợ lặn thấy một con cá nhồng gần rạn san hô.
+grouper|cá mú|Steamed grouper is my favorite dish.|Cá mú hấp là món tôi thích nhất.
+snapper|cá hồng|We bought a red snapper at the market.|Chúng tôi mua một con cá hồng ở chợ.
+tilapia|cá rô phi|Tilapia is cheap and easy to farm.|Cá rô phi rẻ và dễ nuôi.
+minnow|cá tuế (cá nhỏ)|The boy caught a minnow in a jar.|Cậu bé bắt một con cá nhỏ vào lọ.
+kelp|tảo bẹ|Sea otters live among the kelp.|Rái cá biển sống giữa đám tảo bẹ.
+estuary|cửa sông|Many birds feed in the estuary.|Nhiều loài chim kiếm ăn ở cửa sông.
+seabed|đáy biển|The ship lies on the seabed.|Con tàu nằm dưới đáy biển.
+trench|rãnh sâu, hào|The deepest ocean trench is in the Pacific.|Rãnh đại dương sâu nhất nằm ở Thái Bình Dương.
+marlin|cá cờ|A blue marlin jumped out of the water.|Một con cá cờ xanh nhảy khỏi mặt nước.
+haddock|cá tuyết chấm đen|Smoked haddock is served with rice.|Cá tuyết chấm đen hun khói được ăn với cơm.
+
+@5|Địa chất và địa hình|Đá, khoáng vật, dạng địa hình|Rocks
+ore|quặng|The mine produces iron ore.|Mỏ này sản xuất quặng sắt.
+quartz|thạch anh|The watch uses a quartz crystal.|Chiếc đồng hồ dùng tinh thể thạch anh.
+granite|đá hoa cương|The kitchen counter is made of granite.|Mặt bếp làm bằng đá hoa cương.
+limestone|đá vôi|The caves formed in limestone.|Các hang động hình thành trong đá vôi.
+sandstone|sa thạch|The temple was built of red sandstone.|Ngôi đền được xây bằng sa thạch đỏ.
+slate|đá phiến|The roof is covered with slate.|Mái nhà được lợp bằng đá phiến.
+basalt|đá bazan|The island is made of black basalt.|Hòn đảo được tạo thành từ đá bazan đen.
+clay|đất sét|She made a pot out of clay.|Cô ấy nặn một cái bình bằng đất sét.
+silt|phù sa, bùn mịn|The flood left silt on the fields.|Trận lũ để lại phù sa trên đồng ruộng.
+gravel|sỏi|The path is covered with gravel.|Lối đi được rải sỏi.
+pebble|viên sỏi|He threw a pebble into the lake.|Anh ấy ném một viên sỏi xuống hồ.
+boulder|tảng đá lớn|A boulder blocked the road.|Một tảng đá lớn chắn đường.
+bedrock|đá gốc, nền đá|They drilled down to the bedrock.|Họ khoan xuống tới nền đá gốc.
+magma|macma, dung nham trong lòng đất|Magma rises under the volcano.|Macma dâng lên bên dưới núi lửa.
+fissure|khe nứt|Steam came out of a fissure in the ground.|Hơi nước thoát ra từ một khe nứt trên mặt đất.
+tremor|cơn rung chấn nhẹ|We felt a small tremor last night.|Đêm qua chúng tôi cảm thấy một cơn rung chấn nhẹ.
+aftershock|dư chấn|An aftershock hit the town an hour later.|Một dư chấn xảy ra ở thị trấn một giờ sau đó.
+epicenter|tâm chấn|The epicenter was ten kilometers from the city.|Tâm chấn cách thành phố mười cây số.
+sinkhole|hố sụt|A sinkhole opened in the middle of the street.|Một hố sụt mở ra giữa đường.
+geyser|mạch nước phun|The geyser shoots hot water into the air.|Mạch nước phun bắn nước nóng lên không trung.
+gorge|hẻm núi|A river runs through the gorge.|Một dòng sông chảy qua hẻm núi.
+ravine|khe núi|The car fell into a ravine.|Chiếc xe rơi xuống khe núi.
+basin|lưu vực; cái chậu|The Amazon basin is covered with forest.|Lưu vực sông Amazon được rừng bao phủ.
+isthmus|eo đất|The canal cuts through the isthmus.|Kênh đào cắt ngang eo đất.
+archipelago|quần đảo|Indonesia is a large archipelago.|Indonesia là một quần đảo lớn.
+atoll|đảo san hô vòng|The plane landed on a small atoll.|Máy bay hạ cánh xuống một đảo san hô nhỏ.
+cape|mũi đất|The ship sailed around the cape.|Con tàu đi vòng qua mũi đất.
+cove|vịnh nhỏ|We swam in a quiet cove.|Chúng tôi bơi trong một vịnh nhỏ yên tĩnh.
+oasis|ốc đảo|The travelers rested at an oasis.|Đoàn lữ hành nghỉ chân ở một ốc đảo.
+steppe|thảo nguyên|Horses ran across the steppe.|Ngựa chạy băng qua thảo nguyên.
+savanna|xavan, đồng cỏ nhiệt đới|Lions hunt on the savanna.|Sư tử săn mồi trên xavan.
+bog|đầm lầy than bùn|His boots sank into the bog.|Đôi ủng của anh ấy lún xuống đầm lầy.
+fjord|vịnh hẹp băng hà|The boat sailed up the fjord.|Chiếc thuyền đi ngược vào vịnh hẹp.
+strait|eo biển|Ships pass through the strait every day.|Tàu thuyền đi qua eo biển mỗi ngày.
+tributary|sông nhánh, phụ lưu|This river is a tributary of the Mekong.|Con sông này là một phụ lưu của sông Mê Kông.
+watershed|đường phân thủy; bước ngoặt|The mountains form a watershed between two rivers.|Dãy núi tạo thành đường phân thủy giữa hai con sông.
+aquifer|tầng chứa nước ngầm|The town gets its water from an aquifer.|Thị trấn lấy nước từ một tầng nước ngầm.
+stalactite|nhũ đá|A stalactite hangs from the roof of the cave.|Một nhũ đá rủ xuống từ trần hang.
+stalagmite|măng đá|A stalagmite grows up from the cave floor.|Một măng đá mọc lên từ nền hang.
+cavern|hang lớn|The guide led us into a huge cavern.|Hướng dẫn viên dẫn chúng tôi vào một cái hang khổng lồ.
+foothill|đồi thấp dưới chân núi|The village lies in a foothill of the mountains.|Ngôi làng nằm ở vùng đồi dưới chân núi.
+shale|đá phiến sét|Gas is taken from shale deep underground.|Khí đốt được khai thác từ đá phiến sét sâu dưới lòng đất.
