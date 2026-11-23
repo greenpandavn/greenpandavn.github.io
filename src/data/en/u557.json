@@ -1,6 +1,6 @@
 {
  "units": [
-  {"unit":557,"level":5,"title":"Phần 54: Mở rộng – Triết học và logic","desc":"Triết học và logic, Ngôn ngữ học","color":"sky","course":"en"}
+  {"unit":557,"level":5,"title":"Phần 54: Mở rộng – Triết học và logic","desc":"Triết học và logic, Ngôn ngữ học, Kinh tế học","color":"sky","course":"en"}
  ],
  "lessons": [
   {"id":"y5121","title":"Triết học và logic 3","desc":"Trường phái, lập luận, đạo đức","icon":"Thought","unit":557,"course":"en","order":6050,"words":[
@@ -122,6 +122,38 @@
    {"id":"y5128-declarative","hanzi":"declarative","pinyin":"","vi":"(câu) trần thuật","ex":{"tokens":["A","declarative","sentence","ends","with","a","full","stop","."],"py":["","","","","","","","","."],"vi":"Câu trần thuật kết thúc bằng dấu chấm.","alts":[]}},
    {"id":"y5128-metonymy","hanzi":"metonymy","pinyin":"","vi":"phép hoán dụ","ex":{"tokens":["\"The","crown\"","for","the","king","is","metonymy","."],"py":["","","","","","","","."],"vi":"Dùng \"vương miện\" để chỉ nhà vua là phép hoán dụ.","alts":[]}},
    {"id":"y5128-archaism","hanzi":"archaism","pinyin":"","vi":"từ cổ","ex":{"tokens":["\"Thou\"","is","an","archaism","."],"py":["","","","","."],"vi":"\"Thou\" là một từ cổ.","alts":[]}}
+  ]},
+  {"id":"y5129","title":"Kinh tế học 1","desc":"Vĩ mô, thị trường, thuế, thương mại","icon":"Economy","unit":557,"course":"en","order":6130,"words":[
+   {"id":"y5129-macroeconomics","hanzi":"macroeconomics","pinyin":"","vi":"kinh tế vĩ mô","ex":{"tokens":["Macroeconomics","looks","at","the","whole","economy","."],"py":["","","","","","","."],"vi":"Kinh tế vĩ mô xem xét toàn bộ nền kinh tế.","alts":[]}},
+   {"id":"y5129-microeconomics","hanzi":"microeconomics","pinyin":"","vi":"kinh tế vi mô","ex":{"tokens":["Microeconomics","studies","firms","and","households","."],"py":["","","","","","."],"vi":"Kinh tế vi mô nghiên cứu doanh nghiệp và hộ gia đình.","alts":[]}},
+   {"id":"y5129-gross_domestic_product","hanzi":"gross domestic product","pinyin":"","vi":"tổng sản phẩm quốc nội (GDP)","ex":{"tokens":["Gross","domestic","product","grew","by","six","percent","."],"py":["","","","","","","","."],"vi":"Tổng sản phẩm quốc nội tăng sáu phần trăm.","alts":[]}},
+   {"id":"y5129-inflation_rate","hanzi":"inflation rate","pinyin":"","vi":"tỷ lệ lạm phát","ex":{"tokens":["The","inflation","rate","fell","last","month","."],"py":["","","","","","","."],"vi":"Tỷ lệ lạm phát giảm trong tháng trước.","alts":[]}},
+   {"id":"y5129-stagflation","hanzi":"stagflation","pinyin":"","vi":"lạm phát đình trệ","ex":{"tokens":["The","seventies","were","a","time","of","stagflation","."],"py":["","","","","","","","."],"vi":"Thập niên bảy mươi là thời kỳ lạm phát đình trệ.","alts":[]}},
+   {"id":"y5129-austerity_measures","hanzi":"austerity measures","pinyin":"","vi":"các biện pháp thắt lưng buộc bụng","ex":{"tokens":["The","government","announced","austerity","measures","."],"py":["","","","","","."],"vi":"Chính phủ công bố các biện pháp thắt lưng buộc bụng.","alts":[]}},
+   {"id":"y5129-trade_deficit","hanzi":"trade deficit","pinyin":"","vi":"thâm hụt thương mại","ex":{"tokens":["The","trade","deficit","grew","last","year","."],"py":["","","","","","","."],"vi":"Thâm hụt thương mại tăng trong năm ngoái.","alts":[]}},
+   {"id":"y5129-trade_surplus","hanzi":"trade surplus","pinyin":"","vi":"thặng dư thương mại","ex":{"tokens":["Vietnam","had","a","trade","surplus","in","May","."],"py":["","","","","","","","."],"vi":"Việt Nam có thặng dư thương mại trong tháng Năm.","alts":[]}},
+   {"id":"y5129-balance_of_payments","hanzi":"balance of payments","pinyin":"","vi":"cán cân thanh toán","ex":{"tokens":["Tourism","improves","the","balance","of","payments","."],"py":["","","","","","","."],"vi":"Du lịch cải thiện cán cân thanh toán.","alts":[]}},
+   {"id":"y5129-devaluation","hanzi":"devaluation","pinyin":"","vi":"sự phá giá tiền tệ","ex":{"tokens":["The","devaluation","made","exports","cheaper","."],"py":["","","","","","."],"vi":"Việc phá giá khiến hàng xuất khẩu rẻ hơn.","alts":[]}},
+   {"id":"y5129-central_bank","hanzi":"central bank","pinyin":"","vi":"ngân hàng trung ương","ex":{"tokens":["The","central","bank","raised","interest","rates","."],"py":["","","","","","","."],"vi":"Ngân hàng trung ương tăng lãi suất.","alts":[]}},
+   {"id":"y5129-monetary_policy","hanzi":"monetary policy","pinyin":"","vi":"chính sách tiền tệ","ex":{"tokens":["Monetary","policy","controls","the","money","supply","."],"py":["","","","","","","."],"vi":"Chính sách tiền tệ kiểm soát lượng cung tiền.","alts":[]}},
+   {"id":"y5129-fiscal_policy","hanzi":"fiscal policy","pinyin":"","vi":"chính sách tài khóa","ex":{"tokens":["Fiscal","policy","covers","taxes","and","spending","."],"py":["","","","","","","."],"vi":"Chính sách tài khóa bao gồm thuế và chi tiêu.","alts":[]}},
+   {"id":"y5129-budget_deficit","hanzi":"budget deficit","pinyin":"","vi":"thâm hụt ngân sách","ex":{"tokens":["The","budget","deficit","is","too","large","."],"py":["","","","","","","."],"vi":"Thâm hụt ngân sách quá lớn.","alts":[]}}
+  ]},
+  {"id":"y5130","title":"Kinh tế học 2","desc":"Vĩ mô, thị trường, thuế, thương mại","icon":"Economy","unit":557,"course":"en","order":6140,"words":[
+   {"id":"y5130-national_debt","hanzi":"national debt","pinyin":"","vi":"nợ công quốc gia","ex":{"tokens":["The","national","debt","keeps","rising","."],"py":["","","","","","."],"vi":"Nợ công quốc gia tiếp tục tăng.","alts":[]}},
+   {"id":"y5130-treasury","hanzi":"treasury","pinyin":"","vi":"kho bạc, bộ tài chính","ex":{"tokens":["The","treasury","will","sell","new","bonds","."],"py":["","","","","","","."],"vi":"Kho bạc sẽ bán trái phiếu mới.","alts":[]}},
+   {"id":"y5130-bailout","hanzi":"bailout","pinyin":"","vi":"gói cứu trợ tài chính","ex":{"tokens":["The","bank","received","a","government","bailout","."],"py":["","","","","","","."],"vi":"Ngân hàng nhận gói cứu trợ của chính phủ.","alts":[]}},
+   {"id":"y5130-pension_fund","hanzi":"pension fund","pinyin":"","vi":"quỹ hưu trí","ex":{"tokens":["The","pension","fund","invests","in","property","."],"py":["","","","","","","."],"vi":"Quỹ hưu trí đầu tư vào bất động sản.","alts":[]}},
+   {"id":"y5130-bull_market","hanzi":"bull market","pinyin":"","vi":"thị trường giá lên","ex":{"tokens":["Investors","made","money","in","the","bull","market","."],"py":["","","","","","","","."],"vi":"Nhà đầu tư kiếm được tiền khi thị trường giá lên.","alts":[]}},
+   {"id":"y5130-bear_market","hanzi":"bear market","pinyin":"","vi":"thị trường giá xuống","ex":{"tokens":["Many","people","sold","shares","in","the","bear","market","."],"py":["","","","","","","","","."],"vi":"Nhiều người bán cổ phiếu khi thị trường giá xuống.","alts":[]}},
+   {"id":"y5130-stock_exchange","hanzi":"stock exchange","pinyin":"","vi":"sở giao dịch chứng khoán","ex":{"tokens":["The","company","is","listed","on","the","stock","exchange","."],"py":["","","","","","","","","."],"vi":"Công ty được niêm yết trên sở giao dịch chứng khoán.","alts":[]}},
+   {"id":"y5130-initial_public_offering","hanzi":"initial public offering","pinyin":"","vi":"phát hành cổ phiếu lần đầu (IPO)","ex":{"tokens":["The","firm","raised","millions","in","its","initial","public","offering","."],"py":["","","","","","","","","","."],"vi":"Công ty huy động hàng triệu đô trong đợt phát hành cổ phiếu lần đầu.","alts":[]}},
+   {"id":"y5130-privatization","hanzi":"privatization","pinyin":"","vi":"sự tư nhân hóa","ex":{"tokens":["The","privatization","of","the","airline","took","two","years","."],"py":["","","","","","","","","."],"vi":"Việc tư nhân hóa hãng hàng không mất hai năm.","alts":[]}},
+   {"id":"y5130-nationalization","hanzi":"nationalization","pinyin":"","vi":"sự quốc hữu hóa","ex":{"tokens":["Workers","supported","the","nationalization","of","the","mines","."],"py":["","","","","","","","."],"vi":"Công nhân ủng hộ việc quốc hữu hóa các mỏ.","alts":[]}},
+   {"id":"y5130-deregulation","hanzi":"deregulation","pinyin":"","vi":"sự bãi bỏ quy định","ex":{"tokens":["Deregulation","opened","the","market","to","new","firms","."],"py":["","","","","","","","."],"vi":"Việc bãi bỏ quy định mở cửa thị trường cho các công ty mới.","alts":[]}},
+   {"id":"y5130-protectionism","hanzi":"protectionism","pinyin":"","vi":"chủ nghĩa bảo hộ","ex":{"tokens":["Protectionism","makes","imports","more","expensive","."],"py":["","","","","","."],"vi":"Chủ nghĩa bảo hộ làm hàng nhập khẩu đắt hơn.","alts":[]}},
+   {"id":"y5130-free_trade","hanzi":"free trade","pinyin":"","vi":"thương mại tự do","ex":{"tokens":["The","two","countries","signed","a","free","trade","deal","."],"py":["","","","","","","","","."],"vi":"Hai nước ký thỏa thuận thương mại tự do.","alts":[]}},
+   {"id":"y5130-supply_and_demand","hanzi":"supply and demand","pinyin":"","vi":"cung và cầu","ex":{"tokens":["Prices","depend","on","supply","and","demand","."],"py":["","","","","","","."],"vi":"Giá cả phụ thuộc vào cung và cầu.","alts":[]}}
   ]}
  ]
 }

@@ -53,7 +53,8 @@
   {"unit":554,"level":5,"title":"Phần 51: Mở rộng – Toán học","desc":"Toán học, Động từ trang trọng","color":"coral","course":"en"},
   {"unit":555,"level":5,"title":"Phần 52: Mở rộng – Động từ trang trọng","desc":"Động từ trang trọng, Tính từ trang trọng","color":"sun","course":"en"},
   {"unit":556,"level":5,"title":"Phần 53: Mở rộng – Tính từ trang trọng","desc":"Tính từ trang trọng, Danh từ trừu tượng, Triết học và logic","color":"leaf","course":"en"},
-  {"unit":557,"level":5,"title":"Phần 54: Mở rộng – Triết học và logic","desc":"Triết học và logic, Ngôn ngữ học","color":"sky","course":"en"}
+  {"unit":557,"level":5,"title":"Phần 54: Mở rộng – Triết học và logic","desc":"Triết học và logic, Ngôn ngữ học, Kinh tế học","color":"sky","course":"en"},
+  {"unit":558,"level":5,"title":"Phần 55: Mở rộng – Kinh tế học","desc":"Kinh tế học, Sinh học và di truyền, Kỹ thuật và công trình","color":"grape","course":"en"}
  ],
  "lessons": [
   ["e01","Chào hỏi","Hi",1,12],
@@ -667,6 +668,18 @@
   ["y5125","Ngôn ngữ học 3","Language",557,13],
   ["y5126","Ngôn ngữ học 4","Language",557,13],
   ["y5127","Ngôn ngữ học 5","Language",557,13],
-  ["y5128","Ngôn ngữ học 6","Language",557,13]
+  ["y5128","Ngôn ngữ học 6","Language",557,13],
+  ["y5129","Kinh tế học 1","Economy",557,14],
+  ["y5130","Kinh tế học 2","Economy",557,14],
+  ["y5141","Kinh tế học 3","Economy",558,13],
+  ["y5142","Kinh tế học 4","Economy",558,13],
+  ["y5143","Sinh học và di truyền 1","Biology",558,13],
+  ["y5144","Sinh học và di truyền 2","Biology",558,13],
+  ["y5145","Sinh học và di truyền 3","Biology",558,13],
+  ["y5146","Sinh học và di truyền 4","Biology",558,12],
+  ["y5147","Kỹ thuật và công trình 1","Engineer",558,14],
+  ["y5148","Kỹ thuật và công trình 2","Engineer",558,13],
+  ["y5149","Kỹ thuật và công trình 3","Engineer",558,13],
+  ["y5150","Kỹ thuật và công trình 4","Engineer",558,13]
  ]
 }

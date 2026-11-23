@@ -1,0 +1,55 @@
+# Level 5 (Chuyên sâu): kỹ thuật và vật liệu.
+@5|Kỹ thuật và công trình|Máy móc, gia công, xây dựng, năng lượng|Engineer
+composite|vật liệu tổng hợp; ghép|The boat is made of a light composite.|Con thuyền làm bằng vật liệu tổng hợp nhẹ.
+superconductor|chất siêu dẫn|A superconductor has no electrical resistance.|Chất siêu dẫn không có điện trở.
+circuit board|bảng mạch|The circuit board was damaged by water.|Bảng mạch bị hỏng do nước.
+transformer|máy biến áp|The transformer lowers the voltage.|Máy biến áp hạ điện áp.
+crankshaft|trục khuỷu|The crankshaft turns the wheels.|Trục khuỷu làm quay bánh xe.
+flywheel|bánh đà|The flywheel keeps the engine running smoothly.|Bánh đà giúp động cơ chạy êm.
+bearing|ổ trục, vòng bi; phương hướng|The wheel needs a new bearing.|Bánh xe cần một vòng bi mới.
+propeller|chân vịt, cánh quạt|The boat's propeller hit a rock.|Chân vịt của thuyền va vào đá.
+rotor|rô-to, cánh quay|The helicopter's rotor began to spin.|Cánh quay của trực thăng bắt đầu quay.
+actuator|bộ truyền động|An actuator opens the valve.|Một bộ truyền động mở van.
+hydraulics|thủy lực học, hệ thống thủy lực|The crane uses hydraulics to lift loads.|Cần cẩu dùng hệ thống thủy lực để nâng hàng.
+aerodynamics|khí động lực học|Good aerodynamics makes the car faster.|Khí động lực học tốt giúp xe chạy nhanh hơn.
+compression|sự nén|Compression makes the file smaller.|Việc nén làm tệp nhỏ hơn.
+stress test|bài kiểm tra chịu tải|The bridge passed its stress test.|Cây cầu đã qua bài kiểm tra chịu tải.
+load-bearing|chịu lực|Do not remove a load-bearing wall.|Đừng phá tường chịu lực.
+tensile strength|độ bền kéo|Steel has high tensile strength.|Thép có độ bền kéo cao.
+corrosion|sự ăn mòn|Paint protects the metal from corrosion.|Sơn bảo vệ kim loại khỏi bị ăn mòn.
+oxidation|sự ô-xi hóa|Rust is caused by oxidation.|Gỉ sét là do ô-xi hóa.
+welding|hàn (kim loại)|Welding joins the two pipes.|Hàn nối hai ống lại với nhau.
+soldering|hàn thiếc|Soldering needs a steady hand.|Hàn thiếc cần bàn tay vững.
+casting|đúc (kim loại); việc tuyển vai|The bell was made by casting.|Chiếc chuông được làm bằng phương pháp đúc.
+forging|rèn (kim loại)|Forging makes the steel stronger.|Rèn làm cho thép cứng hơn.
+machining|gia công cơ khí|The part needs precise machining.|Chi tiết này cần gia công chính xác.
+lathe|máy tiện|He shaped the leg of the chair on a lathe.|Ông ấy tiện chân ghế trên máy tiện.
+schematic|sơ đồ mạch, sơ đồ nguyên lý|Follow the schematic to wire the board.|Hãy theo sơ đồ để đấu dây bảng mạch.
+calibration|sự hiệu chuẩn|The scale needs calibration.|Chiếc cân cần được hiệu chuẩn.
+assembly line|dây chuyền lắp ráp|She works on an assembly line.|Cô ấy làm việc trên dây chuyền lắp ráp.
+nanotechnology|công nghệ nano|Nanotechnology is used in new medicines.|Công nghệ nano được dùng trong các loại thuốc mới.
+fiber optics|sợi quang, cáp quang|Fiber optics carry data as light.|Cáp quang truyền dữ liệu dưới dạng ánh sáng.
+coolant|chất làm mát|The engine is losing coolant.|Động cơ đang rò chất làm mát.
+catalytic converter|bộ chuyển đổi xúc tác|The catalytic converter cleans the exhaust.|Bộ chuyển đổi xúc tác làm sạch khí thải.
+scaffolding|giàn giáo|Workers put up scaffolding around the tower.|Công nhân dựng giàn giáo quanh tòa tháp.
+truss|giàn (mái, cầu)|A steel truss supports the roof.|Một giàn thép đỡ mái nhà.
+reinforced concrete|bê tông cốt thép|The bridge is built of reinforced concrete.|Cây cầu được xây bằng bê tông cốt thép.
+dredging|nạo vét|Dredging keeps the river deep enough for ships.|Nạo vét giữ cho sông đủ sâu cho tàu thuyền.
+surveying|đo đạc, trắc địa|Surveying began before the road was built.|Việc đo đạc bắt đầu trước khi làm đường.
+drainage|hệ thống thoát nước|The field has poor drainage.|Cánh đồng thoát nước kém.
+sewer|cống thoát nước thải|The sewer under the street is blocked.|Cống dưới đường bị tắc.
+viaduct|cầu cạn|The train crossed a high viaduct.|Đoàn tàu chạy qua một cây cầu cạn cao.
+dam|đập nước|The dam holds back the river.|Con đập chặn dòng sông.
+reservoir|hồ chứa nước|The city gets its water from a reservoir.|Thành phố lấy nước từ một hồ chứa.
+pipeline|đường ống dẫn|The pipeline carries gas to the coast.|Đường ống dẫn khí ra bờ biển.
+power grid|lưới điện|The storm damaged the power grid.|Cơn bão làm hư lưới điện.
+substation|trạm biến áp|A fire broke out at the substation.|Một đám cháy bùng lên ở trạm biến áp.
+circuit breaker|cầu dao tự động|The circuit breaker cut the power.|Cầu dao tự động ngắt điện.
+wind farm|trang trại điện gió|A wind farm stands off the coast.|Một trang trại điện gió nằm ngoài khơi.
+solar panel|tấm pin mặt trời|We put a solar panel on the roof.|Chúng tôi lắp một tấm pin mặt trời trên mái.
+desalination|khử mặn nước biển|Desalination turns sea water into drinking water.|Khử mặn biến nước biển thành nước uống.
+servo|động cơ servo|A small servo moves the robot's arm.|Một động cơ servo nhỏ điều khiển cánh tay rô-bốt.
+pneumatics|khí nén học, hệ thống khí nén|The factory doors work by pneumatics.|Cửa nhà máy hoạt động bằng hệ thống khí nén.
+milling|phay (kim loại); xay xát|Milling cuts a flat surface on the metal.|Phay tạo một mặt phẳng trên kim loại.
+emission control|kiểm soát khí thải|New cars have better emission control.|Xe mới có khả năng kiểm soát khí thải tốt hơn.
+voltage regulator|bộ ổn áp|The voltage regulator protects the fridge.|Bộ ổn áp bảo vệ tủ lạnh.

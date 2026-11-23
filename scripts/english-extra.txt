@@ -2911,7 +2911,7 @@ humanism|chủ nghĩa nhân văn|Humanism shaped the Renaissance.|Chủ nghĩa n
 hedonism|chủ nghĩa khoái lạc|A life of hedonism left him empty.|Cuộc đời chạy theo khoái lạc khiến anh ta trống rỗng.
 deduction|phép suy diễn; sự khấu trừ|The detective solved the case by deduction.|Thám tử phá án bằng suy diễn.
 
-%557|5|Phần 7: Mở rộng – Triết học và logic|Triết học và logic, Ngôn ngữ học|sky
+%557|5|Phần 7: Mở rộng – Triết học và logic|Triết học và logic, Ngôn ngữ học, Kinh tế học|sky
 @y5121|Triết học và logic 3|Trường phái, lập luận, đạo đức|Thought
 induction|phép quy nạp; sự nhậm chức|Science relies on induction from data.|Khoa học dựa vào quy nạp từ dữ liệu.
 inference|sự suy luận|That is a fair inference from the facts.|Đó là một suy luận hợp lý từ các dữ kiện.
@@ -3031,3 +3031,186 @@ diacritic|dấu phụ|Vietnamese uses more than one diacritic on a letter.|Tiế
 declarative|(câu) trần thuật|A declarative sentence ends with a full stop.|Câu trần thuật kết thúc bằng dấu chấm.
 metonymy|phép hoán dụ|"The crown" for the king is metonymy.|Dùng "vương miện" để chỉ nhà vua là phép hoán dụ.
 archaism|từ cổ|"Thou" is an archaism.|"Thou" là một từ cổ.
+
+@y5129|Kinh tế học 1|Vĩ mô, thị trường, thuế, thương mại|Economy
+macroeconomics|kinh tế vĩ mô|Macroeconomics looks at the whole economy.|Kinh tế vĩ mô xem xét toàn bộ nền kinh tế.
+microeconomics|kinh tế vi mô|Microeconomics studies firms and households.|Kinh tế vi mô nghiên cứu doanh nghiệp và hộ gia đình.
+gross domestic product|tổng sản phẩm quốc nội (GDP)|Gross domestic product grew by six percent.|Tổng sản phẩm quốc nội tăng sáu phần trăm.
+inflation rate|tỷ lệ lạm phát|The inflation rate fell last month.|Tỷ lệ lạm phát giảm trong tháng trước.
+stagflation|lạm phát đình trệ|The seventies were a time of stagflation.|Thập niên bảy mươi là thời kỳ lạm phát đình trệ.
+austerity measures|các biện pháp thắt lưng buộc bụng|The government announced austerity measures.|Chính phủ công bố các biện pháp thắt lưng buộc bụng.
+trade deficit|thâm hụt thương mại|The trade deficit grew last year.|Thâm hụt thương mại tăng trong năm ngoái.
+trade surplus|thặng dư thương mại|Vietnam had a trade surplus in May.|Việt Nam có thặng dư thương mại trong tháng Năm.
+balance of payments|cán cân thanh toán|Tourism improves the balance of payments.|Du lịch cải thiện cán cân thanh toán.
+devaluation|sự phá giá tiền tệ|The devaluation made exports cheaper.|Việc phá giá khiến hàng xuất khẩu rẻ hơn.
+central bank|ngân hàng trung ương|The central bank raised interest rates.|Ngân hàng trung ương tăng lãi suất.
+monetary policy|chính sách tiền tệ|Monetary policy controls the money supply.|Chính sách tiền tệ kiểm soát lượng cung tiền.
+fiscal policy|chính sách tài khóa|Fiscal policy covers taxes and spending.|Chính sách tài khóa bao gồm thuế và chi tiêu.
+budget deficit|thâm hụt ngân sách|The budget deficit is too large.|Thâm hụt ngân sách quá lớn.
+
+@y5130|Kinh tế học 2|Vĩ mô, thị trường, thuế, thương mại|Economy
+national debt|nợ công quốc gia|The national debt keeps rising.|Nợ công quốc gia tiếp tục tăng.
+treasury|kho bạc, bộ tài chính|The treasury will sell new bonds.|Kho bạc sẽ bán trái phiếu mới.
+bailout|gói cứu trợ tài chính|The bank received a government bailout.|Ngân hàng nhận gói cứu trợ của chính phủ.
+pension fund|quỹ hưu trí|The pension fund invests in property.|Quỹ hưu trí đầu tư vào bất động sản.
+bull market|thị trường giá lên|Investors made money in the bull market.|Nhà đầu tư kiếm được tiền khi thị trường giá lên.
+bear market|thị trường giá xuống|Many people sold shares in the bear market.|Nhiều người bán cổ phiếu khi thị trường giá xuống.
+stock exchange|sở giao dịch chứng khoán|The company is listed on the stock exchange.|Công ty được niêm yết trên sở giao dịch chứng khoán.
+initial public offering|phát hành cổ phiếu lần đầu (IPO)|The firm raised millions in its initial public offering.|Công ty huy động hàng triệu đô trong đợt phát hành cổ phiếu lần đầu.
+privatization|sự tư nhân hóa|The privatization of the airline took two years.|Việc tư nhân hóa hãng hàng không mất hai năm.
+nationalization|sự quốc hữu hóa|Workers supported the nationalization of the mines.|Công nhân ủng hộ việc quốc hữu hóa các mỏ.
+deregulation|sự bãi bỏ quy định|Deregulation opened the market to new firms.|Việc bãi bỏ quy định mở cửa thị trường cho các công ty mới.
+protectionism|chủ nghĩa bảo hộ|Protectionism makes imports more expensive.|Chủ nghĩa bảo hộ làm hàng nhập khẩu đắt hơn.
+free trade|thương mại tự do|The two countries signed a free trade deal.|Hai nước ký thỏa thuận thương mại tự do.
+supply and demand|cung và cầu|Prices depend on supply and demand.|Giá cả phụ thuộc vào cung và cầu.
+
+%558|5|Phần 8: Mở rộng – Kinh tế học|Kinh tế học, Sinh học và di truyền, Kỹ thuật và công trình|grape
+@y5141|Kinh tế học 3|Vĩ mô, thị trường, thuế, thương mại|Economy
+scarcity|sự khan hiếm|The scarcity of water pushed prices up.|Sự khan hiếm nước đẩy giá lên.
+opportunity cost|chi phí cơ hội|The opportunity cost of study is lost wages.|Chi phí cơ hội của việc học là tiền lương bị mất.
+marginal cost|chi phí biên|The marginal cost of one more copy is tiny.|Chi phí biên của một bản sao nữa là rất nhỏ.
+elasticity|độ co giãn|The elasticity of demand for salt is low.|Độ co giãn của cầu đối với muối là thấp.
+equilibrium|trạng thái cân bằng|The market reached equilibrium.|Thị trường đạt trạng thái cân bằng.
+oligopoly|độc quyền nhóm|Mobile networks often form an oligopoly.|Các mạng di động thường tạo thành độc quyền nhóm.
+externality|ngoại ứng|Pollution is a negative externality.|Ô nhiễm là một ngoại ứng tiêu cực.
+public good|hàng hóa công cộng|Clean air is a public good.|Không khí sạch là một hàng hóa công cộng.
+income tax|thuế thu nhập|Income tax is taken from my salary.|Thuế thu nhập được trừ vào lương của tôi.
+value-added tax|thuế giá trị gia tăng|The price includes value-added tax.|Giá đã bao gồm thuế giá trị gia tăng.
+tax haven|thiên đường thuế|He hid his money in a tax haven.|Ông ta giấu tiền ở một thiên đường thuế.
+tax evasion|trốn thuế|He was jailed for tax evasion.|Ông ta bị bỏ tù vì trốn thuế.
+tax bracket|khung thuế suất|A pay rise moved her into a higher tax bracket.|Việc tăng lương đưa cô ấy lên khung thuế cao hơn.
+
+@y5142|Kinh tế học 4|Vĩ mô, thị trường, thuế, thương mại|Economy
+purchasing power|sức mua|Inflation reduces purchasing power.|Lạm phát làm giảm sức mua.
+cost of living|chi phí sinh hoạt|The cost of living is high in Tokyo.|Chi phí sinh hoạt ở Tokyo cao.
+standard of living|mức sống|The standard of living has improved.|Mức sống đã được cải thiện.
+unemployment rate|tỷ lệ thất nghiệp|The unemployment rate is five percent.|Tỷ lệ thất nghiệp là năm phần trăm.
+labor market|thị trường lao động|Young people find the labor market tough.|Giới trẻ thấy thị trường lao động khắc nghiệt.
+human capital|vốn con người|Education builds human capital.|Giáo dục xây dựng vốn con người.
+emerging market|thị trường mới nổi|Vietnam is an emerging market.|Việt Nam là một thị trường mới nổi.
+developing country|nước đang phát triển|Aid went to a developing country in Africa.|Viện trợ được chuyển đến một nước đang phát triển ở châu Phi.
+sovereign debt|nợ công (của quốc gia)|Greece had a sovereign debt crisis.|Hy Lạp từng khủng hoảng nợ công.
+laissez-faire|(chính sách) tự do kinh tế, không can thiệp|He supports a laissez-faire economy.|Ông ấy ủng hộ nền kinh tế tự do không can thiệp.
+bond yield|lợi suất trái phiếu|The bond yield rose to four percent.|Lợi suất trái phiếu tăng lên bốn phần trăm.
+asset bubble|bong bóng tài sản|Cheap loans created an asset bubble.|Các khoản vay rẻ tạo ra bong bóng tài sản.
+monopsony|độc quyền mua|A single employer in a town has a monopsony.|Một chủ lao động duy nhất trong thị trấn có độc quyền mua.
+
+@y5143|Sinh học và di truyền 1|Tế bào, di truyền, sinh sản, sinh thái|Biology
+genome|bộ gen|Scientists mapped the human genome.|Các nhà khoa học đã lập bản đồ bộ gen người.
+chromosome|nhiễm sắc thể|Each chromosome carries many genes.|Mỗi nhiễm sắc thể mang nhiều gen.
+heredity|tính di truyền|Eye color is a matter of heredity.|Màu mắt là do di truyền.
+genotype|kiểu gen|The test shows the plant's genotype.|Xét nghiệm cho thấy kiểu gen của cây.
+phenotype|kiểu hình|Height is part of your phenotype.|Chiều cao là một phần kiểu hình của bạn.
+mitochondria|ti thể|Mitochondria produce energy for the cell.|Ti thể tạo ra năng lượng cho tế bào.
+cytoplasm|tế bào chất|The cytoplasm fills the cell.|Tế bào chất lấp đầy tế bào.
+membrane|màng|A thin membrane surrounds the cell.|Một lớp màng mỏng bao quanh tế bào.
+antigen|kháng nguyên|The body reacts to the antigen.|Cơ thể phản ứng với kháng nguyên.
+symbiosis|sự cộng sinh|The two species live in symbiosis.|Hai loài sống cộng sinh.
+respiration|sự hô hấp|Respiration releases energy from food.|Hô hấp giải phóng năng lượng từ thức ăn.
+metabolism|sự trao đổi chất|Exercise speeds up your metabolism.|Tập thể dục đẩy nhanh quá trình trao đổi chất.
+mitosis|nguyên phân|Skin cells divide by mitosis.|Tế bào da phân chia bằng nguyên phân.
+
+@y5144|Sinh học và di truyền 2|Tế bào, di truyền, sinh sản, sinh thái|Biology
+meiosis|giảm phân|Meiosis produces sex cells.|Giảm phân tạo ra tế bào sinh dục.
+fetus|bào thai|The fetus can hear sounds.|Bào thai có thể nghe được âm thanh.
+fertilization|sự thụ tinh; sự bón phân|Fertilization happens inside the flower.|Sự thụ tinh diễn ra bên trong bông hoa.
+gestation|thời kỳ mang thai|Gestation in elephants lasts two years.|Thời kỳ mang thai ở voi kéo dài hai năm.
+puberty|tuổi dậy thì|Voices change during puberty.|Giọng nói thay đổi trong tuổi dậy thì.
+metamorphosis|sự biến thái (sinh học)|A butterfly goes through metamorphosis.|Bướm trải qua quá trình biến thái.
+hibernation|sự ngủ đông|Bears wake from hibernation in spring.|Gấu tỉnh giấc ngủ đông vào mùa xuân.
+adaptation|sự thích nghi; bản chuyển thể|Thick fur is an adaptation to the cold.|Bộ lông dày là sự thích nghi với cái lạnh.
+natural selection|chọn lọc tự nhiên|Darwin described natural selection.|Darwin mô tả chọn lọc tự nhiên.
+food chain|chuỗi thức ăn|Sharks are at the top of the food chain.|Cá mập đứng đầu chuỗi thức ăn.
+food web|lưới thức ăn|Every animal is part of a food web.|Mọi loài động vật đều thuộc một lưới thức ăn.
+crustacean|động vật giáp xác|A crab is a crustacean.|Cua là động vật giáp xác.
+mollusk|động vật thân mềm|A snail is a mollusk.|Ốc sên là động vật thân mềm.
+
+@y5145|Sinh học và di truyền 3|Tế bào, di truyền, sinh sản, sinh thái|Biology
+arthropod|động vật chân đốt|A spider is an arthropod.|Nhện là động vật chân đốt.
+taxonomy|phân loại học|Taxonomy puts living things into groups.|Phân loại học xếp sinh vật thành các nhóm.
+genus|chi (sinh học)|Lions and tigers belong to the same genus.|Sư tử và hổ thuộc cùng một chi.
+wetland|vùng đất ngập nước|Many birds nest in the wetland.|Nhiều loài chim làm tổ ở vùng đất ngập nước.
+pollination|sự thụ phấn|Bees are vital for pollination.|Ong rất quan trọng đối với sự thụ phấn.
+germination|sự nảy mầm|Seeds need water for germination.|Hạt cần nước để nảy mầm.
+dormancy|trạng thái ngủ nghỉ|The seeds stay in dormancy through winter.|Hạt ở trạng thái ngủ nghỉ suốt mùa đông.
+cloning|nhân bản vô tính|Cloning produced Dolly the sheep.|Nhân bản vô tính đã tạo ra cừu Dolly.
+genetic engineering|kỹ thuật di truyền|Genetic engineering can make crops stronger.|Kỹ thuật di truyền có thể làm cây trồng khỏe hơn.
+gene therapy|liệu pháp gen|Gene therapy may cure some diseases.|Liệu pháp gen có thể chữa một số bệnh.
+inbreeding|giao phối cận huyết|Inbreeding weakens small populations.|Giao phối cận huyết làm suy yếu các quần thể nhỏ.
+allele|alen|Each parent passes on one allele.|Mỗi bố mẹ truyền lại một alen.
+nucleotide|nuclêôtit|A nucleotide is a building block of DNA.|Nuclêôtit là đơn vị cấu tạo của DNA.
+
+@y5146|Sinh học và di truyền 4|Tế bào, di truyền, sinh sản, sinh thái|Biology
+ribosome|ribôxôm|A ribosome makes proteins.|Ribôxôm tổng hợp protein.
+organelle|bào quan|The nucleus is the largest organelle.|Nhân là bào quan lớn nhất.
+zygote|hợp tử|The zygote divides into two cells.|Hợp tử phân chia thành hai tế bào.
+gamete|giao tử|A sperm is a male gamete.|Tinh trùng là giao tử đực.
+lactation|sự tiết sữa|Lactation begins after birth.|Sự tiết sữa bắt đầu sau khi sinh.
+speciation|sự hình thành loài|Islands are natural laboratories of speciation.|Các hòn đảo là phòng thí nghiệm tự nhiên của sự hình thành loài.
+decomposer|sinh vật phân giải|A fungus is a decomposer.|Nấm là sinh vật phân giải.
+biome|quần xã sinh vật lớn|The desert is a dry biome.|Sa mạc là một quần xã sinh vật khô hạn.
+transgenic|chuyển gen|Transgenic corn resists insects.|Ngô chuyển gen kháng được sâu bọ.
+pistil|nhụy hoa|The pistil is in the center of the flower.|Nhụy nằm ở giữa bông hoa.
+xylem|mạch gỗ|Xylem carries water up the stem.|Mạch gỗ dẫn nước lên thân cây.
+phloem|mạch rây|Phloem carries sugar around the plant.|Mạch rây vận chuyển đường đi khắp cây.
+
+@y5147|Kỹ thuật và công trình 1|Máy móc, gia công, xây dựng, năng lượng|Engineer
+composite|vật liệu tổng hợp; ghép|The boat is made of a light composite.|Con thuyền làm bằng vật liệu tổng hợp nhẹ.
+superconductor|chất siêu dẫn|A superconductor has no electrical resistance.|Chất siêu dẫn không có điện trở.
+circuit board|bảng mạch|The circuit board was damaged by water.|Bảng mạch bị hỏng do nước.
+transformer|máy biến áp|The transformer lowers the voltage.|Máy biến áp hạ điện áp.
+crankshaft|trục khuỷu|The crankshaft turns the wheels.|Trục khuỷu làm quay bánh xe.
+flywheel|bánh đà|The flywheel keeps the engine running smoothly.|Bánh đà giúp động cơ chạy êm.
+bearing|ổ trục, vòng bi; phương hướng|The wheel needs a new bearing.|Bánh xe cần một vòng bi mới.
+propeller|chân vịt, cánh quạt|The boat's propeller hit a rock.|Chân vịt của thuyền va vào đá.
+rotor|rô-to, cánh quay|The helicopter's rotor began to spin.|Cánh quay của trực thăng bắt đầu quay.
+actuator|bộ truyền động|An actuator opens the valve.|Một bộ truyền động mở van.
+hydraulics|thủy lực học, hệ thống thủy lực|The crane uses hydraulics to lift loads.|Cần cẩu dùng hệ thống thủy lực để nâng hàng.
+aerodynamics|khí động lực học|Good aerodynamics makes the car faster.|Khí động lực học tốt giúp xe chạy nhanh hơn.
+compression|sự nén|Compression makes the file smaller.|Việc nén làm tệp nhỏ hơn.
+stress test|bài kiểm tra chịu tải|The bridge passed its stress test.|Cây cầu đã qua bài kiểm tra chịu tải.
+
+@y5148|Kỹ thuật và công trình 2|Máy móc, gia công, xây dựng, năng lượng|Engineer
+load-bearing|chịu lực|Do not remove a load-bearing wall.|Đừng phá tường chịu lực.
+tensile strength|độ bền kéo|Steel has high tensile strength.|Thép có độ bền kéo cao.
+corrosion|sự ăn mòn|Paint protects the metal from corrosion.|Sơn bảo vệ kim loại khỏi bị ăn mòn.
+oxidation|sự ô-xi hóa|Rust is caused by oxidation.|Gỉ sét là do ô-xi hóa.
+welding|hàn (kim loại)|Welding joins the two pipes.|Hàn nối hai ống lại với nhau.
+soldering|hàn thiếc|Soldering needs a steady hand.|Hàn thiếc cần bàn tay vững.
+casting|đúc (kim loại); việc tuyển vai|The bell was made by casting.|Chiếc chuông được làm bằng phương pháp đúc.
+forging|rèn (kim loại)|Forging makes the steel stronger.|Rèn làm cho thép cứng hơn.
+machining|gia công cơ khí|The part needs precise machining.|Chi tiết này cần gia công chính xác.
+lathe|máy tiện|He shaped the leg of the chair on a lathe.|Ông ấy tiện chân ghế trên máy tiện.
+schematic|sơ đồ mạch, sơ đồ nguyên lý|Follow the schematic to wire the board.|Hãy theo sơ đồ để đấu dây bảng mạch.
+calibration|sự hiệu chuẩn|The scale needs calibration.|Chiếc cân cần được hiệu chuẩn.
+assembly line|dây chuyền lắp ráp|She works on an assembly line.|Cô ấy làm việc trên dây chuyền lắp ráp.
+
+@y5149|Kỹ thuật và công trình 3|Máy móc, gia công, xây dựng, năng lượng|Engineer
+nanotechnology|công nghệ nano|Nanotechnology is used in new medicines.|Công nghệ nano được dùng trong các loại thuốc mới.
+fiber optics|sợi quang, cáp quang|Fiber optics carry data as light.|Cáp quang truyền dữ liệu dưới dạng ánh sáng.
+coolant|chất làm mát|The engine is losing coolant.|Động cơ đang rò chất làm mát.
+catalytic converter|bộ chuyển đổi xúc tác|The catalytic converter cleans the exhaust.|Bộ chuyển đổi xúc tác làm sạch khí thải.
+scaffolding|giàn giáo|Workers put up scaffolding around the tower.|Công nhân dựng giàn giáo quanh tòa tháp.
+truss|giàn (mái, cầu)|A steel truss supports the roof.|Một giàn thép đỡ mái nhà.
+reinforced concrete|bê tông cốt thép|The bridge is built of reinforced concrete.|Cây cầu được xây bằng bê tông cốt thép.
+dredging|nạo vét|Dredging keeps the river deep enough for ships.|Nạo vét giữ cho sông đủ sâu cho tàu thuyền.
+surveying|đo đạc, trắc địa|Surveying began before the road was built.|Việc đo đạc bắt đầu trước khi làm đường.
+drainage|hệ thống thoát nước|The field has poor drainage.|Cánh đồng thoát nước kém.
+sewer|cống thoát nước thải|The sewer under the street is blocked.|Cống dưới đường bị tắc.
+viaduct|cầu cạn|The train crossed a high viaduct.|Đoàn tàu chạy qua một cây cầu cạn cao.
+dam|đập nước|The dam holds back the river.|Con đập chặn dòng sông.
+
+@y5150|Kỹ thuật và công trình 4|Máy móc, gia công, xây dựng, năng lượng|Engineer
+reservoir|hồ chứa nước|The city gets its water from a reservoir.|Thành phố lấy nước từ một hồ chứa.
+pipeline|đường ống dẫn|The pipeline carries gas to the coast.|Đường ống dẫn khí ra bờ biển.
+power grid|lưới điện|The storm damaged the power grid.|Cơn bão làm hư lưới điện.
+substation|trạm biến áp|A fire broke out at the substation.|Một đám cháy bùng lên ở trạm biến áp.
+circuit breaker|cầu dao tự động|The circuit breaker cut the power.|Cầu dao tự động ngắt điện.
+wind farm|trang trại điện gió|A wind farm stands off the coast.|Một trang trại điện gió nằm ngoài khơi.
+solar panel|tấm pin mặt trời|We put a solar panel on the roof.|Chúng tôi lắp một tấm pin mặt trời trên mái.
+desalination|khử mặn nước biển|Desalination turns sea water into drinking water.|Khử mặn biến nước biển thành nước uống.
+servo|động cơ servo|A small servo moves the robot's arm.|Một động cơ servo nhỏ điều khiển cánh tay rô-bốt.
+pneumatics|khí nén học, hệ thống khí nén|The factory doors work by pneumatics.|Cửa nhà máy hoạt động bằng hệ thống khí nén.
+milling|phay (kim loại); xay xát|Milling cuts a flat surface on the metal.|Phay tạo một mặt phẳng trên kim loại.
+emission control|kiểm soát khí thải|New cars have better emission control.|Xe mới có khả năng kiểm soát khí thải tốt hơn.
+voltage regulator|bộ ổn áp|The voltage regulator protects the fridge.|Bộ ổn áp bảo vệ tủ lạnh.
