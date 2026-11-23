@@ -1,6 +1,6 @@
 {
  "units": [
-  {"unit":452,"level":4,"title":"Phần 34: Mở rộng – Chính trị và nhà nước","desc":"Chính trị và nhà nước, Quân sự và chiến tranh","color":"sky","course":"en"}
+  {"unit":452,"level":4,"title":"Phần 34: Mở rộng – Chính trị và nhà nước","desc":"Chính trị và nhà nước, Quân sự và chiến tranh, Tôn giáo và tín ngưỡng","color":"sky","course":"en"}
  ],
  "lessons": [
   {"id":"y4021","title":"Chính trị và nhà nước 4","desc":"Thể chế, chức vụ, hệ tư tưởng","icon":"Politics","unit":452,"course":"en","order":3890,"words":[
@@ -103,6 +103,54 @@
    {"id":"y4027-marshal","hanzi":"marshal","pinyin":"","vi":"nguyên soái","ex":{"tokens":["The","marshal","led","the","army","to","victory","."],"py":["","","","","","","","."],"vi":"Vị nguyên soái dẫn dắt quân đội tới chiến thắng.","alts":[]}},
    {"id":"y4027-destroyer","hanzi":"destroyer","pinyin":"","vi":"tàu khu trục","ex":{"tokens":["The","destroyer","followed","the","submarine","."],"py":["","","","","","."],"vi":"Tàu khu trục bám theo tàu ngầm.","alts":[]}},
    {"id":"y4027-demilitarize","hanzi":"demilitarize","pinyin":"","vi":"phi quân sự hóa","ex":{"tokens":["Both","sides","agreed","to","demilitarize","the","border","."],"py":["","","","","","","","."],"vi":"Hai bên đồng ý phi quân sự hóa biên giới.","alts":[]}}
+  ]},
+  {"id":"y4028","title":"Tôn giáo và tín ngưỡng 1","desc":"Nơi thờ, chức sắc, nghi lễ, khái niệm","icon":"Belief","unit":452,"course":"en","order":3960,"words":[
+   {"id":"y4028-divine","hanzi":"divine","pinyin":"","vi":"thiêng liêng, thuộc thần thánh","ex":{"tokens":["They","prayed","for","divine","help","."],"py":["","","","","","."],"vi":"Họ cầu xin sự giúp đỡ của thần linh.","alts":[]}},
+   {"id":"y4028-worship","hanzi":"worship","pinyin":"","vi":"thờ cúng, thờ phụng","ex":{"tokens":["Many","families","worship","their","ancestors","."],"py":["","","","","","."],"vi":"Nhiều gia đình thờ cúng tổ tiên.","alts":[]}},
+   {"id":"y4028-prayer","hanzi":"prayer","pinyin":"","vi":"lời cầu nguyện","ex":{"tokens":["She","said","a","short","prayer","before","the","meal","."],"py":["","","","","","","","","."],"vi":"Cô ấy đọc một lời cầu nguyện ngắn trước bữa ăn.","alts":[]}},
+   {"id":"y4028-hymn","hanzi":"hymn","pinyin":"","vi":"bài thánh ca","ex":{"tokens":["The","choir","sang","a","hymn","."],"py":["","","","","","."],"vi":"Dàn hợp xướng hát một bài thánh ca.","alts":[]}},
+   {"id":"y4028-gospel","hanzi":"gospel","pinyin":"","vi":"sách Phúc Âm; nhạc phúc âm","ex":{"tokens":["The","priest","read","from","the","gospel","."],"py":["","","","","","","."],"vi":"Linh mục đọc sách Phúc Âm.","alts":[]}},
+   {"id":"y4028-prophet","hanzi":"prophet","pinyin":"","vi":"nhà tiên tri","ex":{"tokens":["The","prophet","warned","the","people","."],"py":["","","","","","."],"vi":"Nhà tiên tri cảnh báo dân chúng.","alts":[]}},
+   {"id":"y4028-disciple","hanzi":"disciple","pinyin":"","vi":"môn đồ","ex":{"tokens":["The","teacher","sat","with","his","disciple","."],"py":["","","","","","","."],"vi":"Người thầy ngồi cùng môn đồ của mình.","alts":[]}},
+   {"id":"y4028-saint","hanzi":"saint","pinyin":"","vi":"vị thánh","ex":{"tokens":["The","church","is","named","after","a","saint","."],"py":["","","","","","","","."],"vi":"Nhà thờ được đặt theo tên một vị thánh.","alts":[]}},
+   {"id":"y4028-martyr","hanzi":"martyr","pinyin":"","vi":"người tử vì đạo, liệt sĩ","ex":{"tokens":["He","died","as","a","martyr","for","his","beliefs","."],"py":["","","","","","","","","."],"vi":"Ông ấy chết như một người tử vì đạo cho niềm tin của mình.","alts":[]}},
+   {"id":"y4028-pilgrim","hanzi":"pilgrim","pinyin":"","vi":"người hành hương","ex":{"tokens":["Each","pilgrim","carried","a","candle","."],"py":["","","","","","."],"vi":"Mỗi người hành hương cầm một ngọn nến.","alts":[]}},
+   {"id":"y4028-shrine","hanzi":"shrine","pinyin":"","vi":"đền thờ, miếu","ex":{"tokens":["We","visited","a","small","shrine","on","the","hill","."],"py":["","","","","","","","","."],"vi":"Chúng tôi thăm một ngôi miếu nhỏ trên đồi.","alts":[]}},
+   {"id":"y4028-altar","hanzi":"altar","pinyin":"","vi":"bàn thờ","ex":{"tokens":["She","put","fruit","on","the","family","altar","."],"py":["","","","","","","","."],"vi":"Cô ấy đặt hoa quả lên bàn thờ gia tiên.","alts":[]}},
+   {"id":"y4028-chapel","hanzi":"chapel","pinyin":"","vi":"nhà nguyện","ex":{"tokens":["They","were","married","in","a","small","chapel","."],"py":["","","","","","","","."],"vi":"Họ làm lễ cưới trong một nhà nguyện nhỏ.","alts":[]}},
+   {"id":"y4028-cathedral","hanzi":"cathedral","pinyin":"","vi":"nhà thờ lớn","ex":{"tokens":["The","cathedral","is","eight","hundred","years","old","."],"py":["","","","","","","","."],"vi":"Nhà thờ lớn đã tám trăm năm tuổi.","alts":[]}}
+  ]},
+  {"id":"y4029","title":"Tôn giáo và tín ngưỡng 2","desc":"Nơi thờ, chức sắc, nghi lễ, khái niệm","icon":"Belief","unit":452,"course":"en","order":3970,"words":[
+   {"id":"y4029-convent","hanzi":"convent","pinyin":"","vi":"nữ tu viện","ex":{"tokens":["She","went","to","a","school","run","by","a","convent","."],"py":["","","","","","","","","","."],"vi":"Cô ấy học ở một trường do nữ tu viện điều hành.","alts":[]}},
+   {"id":"y4029-abbey","hanzi":"abbey","pinyin":"","vi":"tu viện lớn","ex":{"tokens":["The","old","abbey","is","now","a","museum","."],"py":["","","","","","","","."],"vi":"Tu viện cổ nay là một bảo tàng.","alts":[]}},
+   {"id":"y4029-mosque","hanzi":"mosque","pinyin":"","vi":"nhà thờ Hồi giáo","ex":{"tokens":["The","men","pray","at","the","mosque","on","Friday","."],"py":["","","","","","","","","."],"vi":"Những người đàn ông cầu nguyện ở nhà thờ Hồi giáo vào thứ Sáu.","alts":[]}},
+   {"id":"y4029-synagogue","hanzi":"synagogue","pinyin":"","vi":"giáo đường Do Thái","ex":{"tokens":["The","family","goes","to","the","synagogue","every","week","."],"py":["","","","","","","","","."],"vi":"Gia đình đó đến giáo đường Do Thái mỗi tuần.","alts":[]}},
+   {"id":"y4029-priest","hanzi":"priest","pinyin":"","vi":"linh mục, thầy tu","ex":{"tokens":["The","priest","blessed","the","child","."],"py":["","","","","","."],"vi":"Linh mục ban phước cho đứa trẻ.","alts":[]}},
+   {"id":"y4029-cardinal","hanzi":"cardinal","pinyin":"","vi":"hồng y; chính yếu","ex":{"tokens":["The","cardinal","met","the","pope","in","Rome","."],"py":["","","","","","","","."],"vi":"Vị hồng y gặp giáo hoàng ở Rome.","alts":[]}},
+   {"id":"y4029-pope","hanzi":"pope","pinyin":"","vi":"giáo hoàng","ex":{"tokens":["The","pope","spoke","to","a","huge","crowd","."],"py":["","","","","","","","."],"vi":"Giáo hoàng nói chuyện trước một đám đông khổng lồ.","alts":[]}},
+   {"id":"y4029-monk","hanzi":"monk","pinyin":"","vi":"nhà sư, thầy tu","ex":{"tokens":["The","monk","walked","barefoot","."],"py":["","","","","."],"vi":"Nhà sư đi chân trần.","alts":[]}},
+   {"id":"y4029-nun","hanzi":"nun","pinyin":"","vi":"ni cô, nữ tu","ex":{"tokens":["The","nun","cares","for","sick","children","."],"py":["","","","","","","."],"vi":"Nữ tu chăm sóc trẻ em bị bệnh.","alts":[]}},
+   {"id":"y4029-pastor","hanzi":"pastor","pinyin":"","vi":"mục sư","ex":{"tokens":["The","pastor","visits","old","people","at","home","."],"py":["","","","","","","","."],"vi":"Mục sư đến thăm người già tại nhà.","alts":[]}},
+   {"id":"y4029-preacher","hanzi":"preacher","pinyin":"","vi":"người thuyết giáo","ex":{"tokens":["The","preacher","spoke","with","great","passion","."],"py":["","","","","","","."],"vi":"Người thuyết giáo nói đầy nhiệt huyết.","alts":[]}},
+   {"id":"y4029-missionary","hanzi":"missionary","pinyin":"","vi":"nhà truyền giáo","ex":{"tokens":["A","missionary","built","the","first","school","here","."],"py":["","","","","","","","."],"vi":"Một nhà truyền giáo đã xây ngôi trường đầu tiên ở đây.","alts":[]}},
+   {"id":"y4029-congregation","hanzi":"congregation","pinyin":"","vi":"giáo đoàn (người dự lễ)","ex":{"tokens":["The","congregation","stood","up","to","sing","."],"py":["","","","","","","."],"vi":"Giáo đoàn đứng dậy hát.","alts":[]}},
+   {"id":"y4029-parish","hanzi":"parish","pinyin":"","vi":"giáo xứ","ex":{"tokens":["He","has","lived","in","this","parish","all","his","life","."],"py":["","","","","","","","","","."],"vi":"Ông ấy sống ở giáo xứ này cả đời.","alts":[]}}
+  ]},
+  {"id":"y4030","title":"Tôn giáo và tín ngưỡng 3","desc":"Nơi thờ, chức sắc, nghi lễ, khái niệm","icon":"Belief","unit":452,"course":"en","order":3980,"words":[
+   {"id":"y4030-baptism","hanzi":"baptism","pinyin":"","vi":"lễ rửa tội","ex":{"tokens":["The","whole","family","came","to","the","baptism","."],"py":["","","","","","","","."],"vi":"Cả gia đình đến dự lễ rửa tội.","alts":[]}},
+   {"id":"y4030-confession","hanzi":"confession","pinyin":"","vi":"sự xưng tội; lời thú nhận","ex":{"tokens":["He","made","a","full","confession","to","the","police","."],"py":["","","","","","","","","."],"vi":"Anh ta thú nhận toàn bộ với cảnh sát.","alts":[]}},
+   {"id":"y4030-sin","hanzi":"sin","pinyin":"","vi":"tội lỗi","ex":{"tokens":["Stealing","is","a","sin","."],"py":["","","","","."],"vi":"Trộm cắp là một tội lỗi.","alts":[]}},
+   {"id":"y4030-repent","hanzi":"repent","pinyin":"","vi":"ăn năn, hối cải","ex":{"tokens":["He","began","to","repent","of","his","crimes","."],"py":["","","","","","","","."],"vi":"Anh ta bắt đầu ăn năn về tội ác của mình.","alts":[]}},
+   {"id":"y4030-salvation","hanzi":"salvation","pinyin":"","vi":"sự cứu rỗi","ex":{"tokens":["They","prayed","for","salvation","."],"py":["","","","","."],"vi":"Họ cầu nguyện để được cứu rỗi.","alts":[]}},
+   {"id":"y4030-redemption","hanzi":"redemption","pinyin":"","vi":"sự chuộc tội","ex":{"tokens":["The","film","is","a","story","of","redemption","."],"py":["","","","","","","","."],"vi":"Bộ phim là một câu chuyện về sự chuộc tội.","alts":[]}},
+   {"id":"y4030-resurrection","hanzi":"resurrection","pinyin":"","vi":"sự phục sinh","ex":{"tokens":["Easter","celebrates","the","resurrection","."],"py":["","","","","."],"vi":"Lễ Phục Sinh kỷ niệm sự phục sinh.","alts":[]}},
+   {"id":"y4030-heaven","hanzi":"heaven","pinyin":"","vi":"thiên đường","ex":{"tokens":["She","believes","her","dog","is","in","heaven","."],"py":["","","","","","","","."],"vi":"Cô bé tin rằng chú chó của mình đang ở thiên đường.","alts":[]}},
+   {"id":"y4030-hell","hanzi":"hell","pinyin":"","vi":"địa ngục","ex":{"tokens":["The","war","was","hell","for","the","soldiers","."],"py":["","","","","","","","."],"vi":"Chiến tranh là địa ngục đối với người lính.","alts":[]}},
+   {"id":"y4030-paradise","hanzi":"paradise","pinyin":"","vi":"thiên đường, chốn bồng lai","ex":{"tokens":["This","island","is","a","paradise","for","divers","."],"py":["","","","","","","","."],"vi":"Hòn đảo này là thiên đường cho thợ lặn.","alts":[]}},
+   {"id":"y4030-angel","hanzi":"angel","pinyin":"","vi":"thiên thần","ex":{"tokens":["The","child","drew","an","angel","with","wings","."],"py":["","","","","","","","."],"vi":"Đứa trẻ vẽ một thiên thần có cánh.","alts":[]}},
+   {"id":"y4030-demon","hanzi":"demon","pinyin":"","vi":"con quỷ","ex":{"tokens":["The","mask","shows","the","face","of","a","demon","."],"py":["","","","","","","","","."],"vi":"Chiếc mặt nạ có hình khuôn mặt một con quỷ.","alts":[]}},
+   {"id":"y4030-devil","hanzi":"devil","pinyin":"","vi":"ma quỷ, quỷ dữ","ex":{"tokens":["In","the","story",",","he","sells","his","soul","to","the","devil","."],"py":["","","",",","","","","","","","","."],"vi":"Trong truyện, anh ta bán linh hồn cho quỷ dữ.","alts":[]}},
+   {"id":"y4030-afterlife","hanzi":"afterlife","pinyin":"","vi":"kiếp sau, thế giới bên kia","ex":{"tokens":["The","Egyptians","believed","in","an","afterlife","."],"py":["","","","","","","."],"vi":"Người Ai Cập tin vào thế giới bên kia.","alts":[]}}
   ]}
  ]
 }

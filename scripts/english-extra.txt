@@ -572,7 +572,7 @@ inaugurate|làm lễ nhậm chức; khánh thành|They will inaugurate the new p
 legislate|lập pháp, làm luật|Parliament must legislate to protect workers.|Quốc hội phải làm luật để bảo vệ người lao động.
 lobbyist|người vận động hành lang|A lobbyist for the oil industry met the senator.|Một người vận động hành lang cho ngành dầu khí gặp thượng nghị sĩ.
 
-%452|4|Phần 2: Mở rộng – Chính trị và nhà nước|Chính trị và nhà nước, Quân sự và chiến tranh|sky
+%452|4|Phần 2: Mở rộng – Chính trị và nhà nước|Chính trị và nhà nước, Quân sự và chiến tranh, Tôn giáo và tín ngưỡng|sky
 @y4021|Chính trị và nhà nước 4|Thể chế, chức vụ, hệ tư tưởng|Politics
 whistleblower|người tố giác|A whistleblower told the press about the fraud.|Một người tố giác đã nói với báo chí về vụ gian lận.
 naturalization|sự nhập quốc tịch|He became a citizen through naturalization.|Anh ấy trở thành công dân qua việc nhập quốc tịch.
@@ -673,6 +673,148 @@ lance|cây thương (của kỵ sĩ)|The knight carried a long lance.|Hiệp sĩ
 marshal|nguyên soái|The marshal led the army to victory.|Vị nguyên soái dẫn dắt quân đội tới chiến thắng.
 destroyer|tàu khu trục|The destroyer followed the submarine.|Tàu khu trục bám theo tàu ngầm.
 demilitarize|phi quân sự hóa|Both sides agreed to demilitarize the border.|Hai bên đồng ý phi quân sự hóa biên giới.
+
+@y4028|Tôn giáo và tín ngưỡng 1|Nơi thờ, chức sắc, nghi lễ, khái niệm|Belief
+divine|thiêng liêng, thuộc thần thánh|They prayed for divine help.|Họ cầu xin sự giúp đỡ của thần linh.
+worship|thờ cúng, thờ phụng|Many families worship their ancestors.|Nhiều gia đình thờ cúng tổ tiên.
+prayer|lời cầu nguyện|She said a short prayer before the meal.|Cô ấy đọc một lời cầu nguyện ngắn trước bữa ăn.
+hymn|bài thánh ca|The choir sang a hymn.|Dàn hợp xướng hát một bài thánh ca.
+gospel|sách Phúc Âm; nhạc phúc âm|The priest read from the gospel.|Linh mục đọc sách Phúc Âm.
+prophet|nhà tiên tri|The prophet warned the people.|Nhà tiên tri cảnh báo dân chúng.
+disciple|môn đồ|The teacher sat with his disciple.|Người thầy ngồi cùng môn đồ của mình.
+saint|vị thánh|The church is named after a saint.|Nhà thờ được đặt theo tên một vị thánh.
+martyr|người tử vì đạo, liệt sĩ|He died as a martyr for his beliefs.|Ông ấy chết như một người tử vì đạo cho niềm tin của mình.
+pilgrim|người hành hương|Each pilgrim carried a candle.|Mỗi người hành hương cầm một ngọn nến.
+shrine|đền thờ, miếu|We visited a small shrine on the hill.|Chúng tôi thăm một ngôi miếu nhỏ trên đồi.
+altar|bàn thờ|She put fruit on the family altar.|Cô ấy đặt hoa quả lên bàn thờ gia tiên.
+chapel|nhà nguyện|They were married in a small chapel.|Họ làm lễ cưới trong một nhà nguyện nhỏ.
+cathedral|nhà thờ lớn|The cathedral is eight hundred years old.|Nhà thờ lớn đã tám trăm năm tuổi.
+
+@y4029|Tôn giáo và tín ngưỡng 2|Nơi thờ, chức sắc, nghi lễ, khái niệm|Belief
+convent|nữ tu viện|She went to a school run by a convent.|Cô ấy học ở một trường do nữ tu viện điều hành.
+abbey|tu viện lớn|The old abbey is now a museum.|Tu viện cổ nay là một bảo tàng.
+mosque|nhà thờ Hồi giáo|The men pray at the mosque on Friday.|Những người đàn ông cầu nguyện ở nhà thờ Hồi giáo vào thứ Sáu.
+synagogue|giáo đường Do Thái|The family goes to the synagogue every week.|Gia đình đó đến giáo đường Do Thái mỗi tuần.
+priest|linh mục, thầy tu|The priest blessed the child.|Linh mục ban phước cho đứa trẻ.
+cardinal|hồng y; chính yếu|The cardinal met the pope in Rome.|Vị hồng y gặp giáo hoàng ở Rome.
+pope|giáo hoàng|The pope spoke to a huge crowd.|Giáo hoàng nói chuyện trước một đám đông khổng lồ.
+monk|nhà sư, thầy tu|The monk walked barefoot.|Nhà sư đi chân trần.
+nun|ni cô, nữ tu|The nun cares for sick children.|Nữ tu chăm sóc trẻ em bị bệnh.
+pastor|mục sư|The pastor visits old people at home.|Mục sư đến thăm người già tại nhà.
+preacher|người thuyết giáo|The preacher spoke with great passion.|Người thuyết giáo nói đầy nhiệt huyết.
+missionary|nhà truyền giáo|A missionary built the first school here.|Một nhà truyền giáo đã xây ngôi trường đầu tiên ở đây.
+congregation|giáo đoàn (người dự lễ)|The congregation stood up to sing.|Giáo đoàn đứng dậy hát.
+parish|giáo xứ|He has lived in this parish all his life.|Ông ấy sống ở giáo xứ này cả đời.
+
+@y4030|Tôn giáo và tín ngưỡng 3|Nơi thờ, chức sắc, nghi lễ, khái niệm|Belief
+baptism|lễ rửa tội|The whole family came to the baptism.|Cả gia đình đến dự lễ rửa tội.
+confession|sự xưng tội; lời thú nhận|He made a full confession to the police.|Anh ta thú nhận toàn bộ với cảnh sát.
+sin|tội lỗi|Stealing is a sin.|Trộm cắp là một tội lỗi.
+repent|ăn năn, hối cải|He began to repent of his crimes.|Anh ta bắt đầu ăn năn về tội ác của mình.
+salvation|sự cứu rỗi|They prayed for salvation.|Họ cầu nguyện để được cứu rỗi.
+redemption|sự chuộc tội|The film is a story of redemption.|Bộ phim là một câu chuyện về sự chuộc tội.
+resurrection|sự phục sinh|Easter celebrates the resurrection.|Lễ Phục Sinh kỷ niệm sự phục sinh.
+heaven|thiên đường|She believes her dog is in heaven.|Cô bé tin rằng chú chó của mình đang ở thiên đường.
+hell|địa ngục|The war was hell for the soldiers.|Chiến tranh là địa ngục đối với người lính.
+paradise|thiên đường, chốn bồng lai|This island is a paradise for divers.|Hòn đảo này là thiên đường cho thợ lặn.
+angel|thiên thần|The child drew an angel with wings.|Đứa trẻ vẽ một thiên thần có cánh.
+demon|con quỷ|The mask shows the face of a demon.|Chiếc mặt nạ có hình khuôn mặt một con quỷ.
+devil|ma quỷ, quỷ dữ|In the story, he sells his soul to the devil.|Trong truyện, anh ta bán linh hồn cho quỷ dữ.
+afterlife|kiếp sau, thế giới bên kia|The Egyptians believed in an afterlife.|Người Ai Cập tin vào thế giới bên kia.
+
+%453|4|Phần 3: Mở rộng – Tôn giáo và tín ngưỡng|Tôn giáo và tín ngưỡng, Mỹ thuật và kiến trúc|grape
+@y4041|Tôn giáo và tín ngưỡng 4|Nơi thờ, chức sắc, nghi lễ, khái niệm|Belief
+karma|nghiệp, nhân quả|She believes in karma.|Cô ấy tin vào nhân quả.
+nirvana|niết bàn|Buddhists hope to reach nirvana.|Phật tử mong đạt tới niết bàn.
+enlightenment|sự giác ngộ, khai sáng|The Buddha reached enlightenment under a tree.|Đức Phật đạt giác ngộ dưới một gốc cây.
+incense|hương, nhang|She lit incense at the temple.|Cô ấy thắp hương ở chùa.
+offering|lễ vật|They left an offering of flowers.|Họ để lại lễ vật là hoa.
+sacrifice|sự hy sinh; vật hiến tế|Parents make every sacrifice for their children.|Cha mẹ hy sinh mọi thứ vì con cái.
+blessing|phước lành, lời chúc phúc|The couple asked for their parents' blessing.|Cặp đôi xin lời chúc phúc của cha mẹ.
+curse|lời nguyền; nguyền rủa|The witch put a curse on the prince.|Mụ phù thủy giáng lời nguyền lên hoàng tử.
+miracle|phép màu|It is a miracle that nobody was hurt.|Thật là phép màu khi không ai bị thương.
+superstition|sự mê tín|It is an old superstition that black cats bring bad luck.|Có một sự mê tín lâu đời rằng mèo đen mang lại xui xẻo.
+atheist|người vô thần|He has been an atheist since college.|Anh ấy là người vô thần từ thời đại học.
+secular|thế tục, không tôn giáo|France is a secular state.|Pháp là một nhà nước thế tục.
+pious|ngoan đạo, mộ đạo|His grandmother was a pious woman.|Bà của anh ấy là một phụ nữ mộ đạo.
+devout|sùng đạo|She is a devout Buddhist.|Cô ấy là một Phật tử sùng đạo.
+
+@y4042|Tôn giáo và tín ngưỡng 5|Nơi thờ, chức sắc, nghi lễ, khái niệm|Belief
+creed|tín điều, tín ngưỡng|People of every creed live in this city.|Người thuộc mọi tín ngưỡng sống trong thành phố này.
+sect|giáo phái|He joined a small religious sect.|Anh ta gia nhập một giáo phái nhỏ.
+cult|giáo phái cuồng tín; sự sùng bái|She escaped from a dangerous cult.|Cô ấy trốn thoát khỏi một giáo phái nguy hiểm.
+fasting|sự nhịn ăn, ăn chay|Fasting lasts from sunrise to sunset.|Việc nhịn ăn kéo dài từ lúc mặt trời mọc đến lúc lặn.
+halo|vầng hào quang|The saint is painted with a halo.|Vị thánh được vẽ với một vầng hào quang.
+psalm|bài thánh vịnh|The priest read a psalm.|Linh mục đọc một bài thánh vịnh.
+apostle|tông đồ|Peter was an apostle of Jesus.|Phêrô là một tông đồ của Chúa Giêsu.
+rabbi|giáo sĩ Do Thái|The rabbi led the prayer.|Giáo sĩ Do Thái chủ trì buổi cầu nguyện.
+imam|giáo sĩ Hồi giáo|The imam spoke at the mosque.|Giáo sĩ Hồi giáo thuyết giảng tại nhà thờ.
+communion|lễ ban thánh thể|The children took their first communion.|Bọn trẻ dự lễ ban thánh thể lần đầu.
+purgatory|luyện ngục|Waiting for the results was like purgatory.|Chờ kết quả chẳng khác gì ở luyện ngục.
+blasphemy|sự báng bổ|He was accused of blasphemy.|Ông ta bị buộc tội báng bổ.
+agnostic|người theo thuyết bất khả tri|She calls herself an agnostic.|Cô ấy tự nhận là người theo thuyết bất khả tri.
+crucifix|cây thánh giá có tượng Chúa|A crucifix hangs on the wall.|Một cây thánh giá treo trên tường.
+
+@y4043|Mỹ thuật và kiến trúc 1|Tranh, tượng, trường phái, công trình|Art
+engraving|tranh khắc|An old engraving of the city hangs in the hall.|Một bức tranh khắc cổ về thành phố treo trong sảnh.
+mosaic|tranh khảm|The floor is a Roman mosaic.|Sàn nhà là một bức tranh khảm La Mã.
+tapestry|thảm thêu treo tường|A huge tapestry covers the wall.|Một tấm thảm thêu khổng lồ phủ kín bức tường.
+collage|tranh cắt dán|The children made a collage from old magazines.|Bọn trẻ làm tranh cắt dán từ tạp chí cũ.
+landscape|phong cảnh; tranh phong cảnh|He painted a landscape of rice fields.|Anh ấy vẽ một bức tranh phong cảnh ruộng lúa.
+still life|tranh tĩnh vật|She painted a still life of fruit.|Cô ấy vẽ một bức tĩnh vật hoa quả.
+self-portrait|tranh tự họa|The artist painted a self-portrait every year.|Người họa sĩ vẽ một bức tự họa mỗi năm.
+oil painting|tranh sơn dầu|An oil painting takes days to dry.|Tranh sơn dầu mất nhiều ngày mới khô.
+charcoal|than (vẽ, đốt)|He drew the face in charcoal.|Anh ấy vẽ khuôn mặt bằng than.
+pastel|phấn màu; màu nhạt dịu|She likes pastel colors.|Cô ấy thích các màu nhạt dịu.
+sculptor|nhà điêu khắc|The sculptor works with marble.|Nhà điêu khắc làm việc với đá cẩm thạch.
+statue|bức tượng|A statue of the king stands in the square.|Một bức tượng nhà vua đứng ở quảng trường.
+bust|tượng bán thân|There is a bust of the poet in the library.|Có một bức tượng bán thân của nhà thơ trong thư viện.
+carving|đồ chạm khắc|The door has a beautiful wood carving.|Cánh cửa có hình chạm khắc gỗ rất đẹp.
+
+@y4044|Mỹ thuật và kiến trúc 2|Tranh, tượng, trường phái, công trình|Art
+ceramics|đồ gốm|Bat Trang is famous for ceramics.|Bát Tràng nổi tiếng về đồ gốm.
+porcelain|đồ sứ|The tea set is made of porcelain.|Bộ ấm trà làm bằng sứ.
+calligraphy|thư pháp|He practices calligraphy every morning.|Sáng nào ông ấy cũng luyện thư pháp.
+illustration|hình minh họa|The book has a color illustration on each page.|Cuốn sách có một hình minh họa màu trên mỗi trang.
+caricature|tranh biếm họa|The artist drew a caricature of the president.|Họa sĩ vẽ một bức biếm họa tổng thống.
+graffiti|hình vẽ bậy trên tường|The wall is covered with graffiti.|Bức tường đầy hình vẽ bậy.
+exhibit|vật trưng bày; trưng bày|The oldest exhibit is a stone tool.|Vật trưng bày cổ nhất là một công cụ bằng đá.
+patron|người bảo trợ; khách quen|She is a patron of young artists.|Bà ấy là người bảo trợ cho các nghệ sĩ trẻ.
+surreal|siêu thực, kỳ ảo|The empty city felt surreal.|Thành phố vắng tanh mang cảm giác siêu thực.
+realism|chủ nghĩa hiện thực|The novel is known for its realism.|Cuốn tiểu thuyết nổi tiếng về tính hiện thực.
+impressionism|trường phái ấn tượng|Monet is a master of impressionism.|Monet là bậc thầy của trường phái ấn tượng.
+baroque|phong cách ba rốc|The church is built in the baroque style.|Nhà thờ được xây theo phong cách ba rốc.
+gothic|phong cách gô tích|The city has a famous gothic cathedral.|Thành phố có một nhà thờ gô tích nổi tiếng.
+
+@y4045|Mỹ thuật và kiến trúc 3|Tranh, tượng, trường phái, công trình|Art
+renaissance|thời Phục Hưng; sự hồi sinh|Leonardo was an artist of the Renaissance.|Leonardo là một nghệ sĩ thời Phục Hưng.
+contemporary|đương đại|She collects contemporary art.|Cô ấy sưu tầm nghệ thuật đương đại.
+minimalist|tối giản|Their apartment has a minimalist design.|Căn hộ của họ có thiết kế tối giản.
+avant-garde|tiên phong (nghệ thuật)|The theater shows avant-garde plays.|Nhà hát diễn các vở kịch tiên phong.
+steeple|tháp chuông nhà thờ|You can see the church steeple from here.|Từ đây bạn có thể thấy tháp chuông nhà thờ.
+turret|tháp nhỏ (lâu đài)|The castle has a turret at each corner.|Lâu đài có một tháp nhỏ ở mỗi góc.
+pedestal|bệ tượng|The statue stands on a marble pedestal.|Bức tượng đứng trên bệ đá cẩm thạch.
+cloister|hành lang tu viện|The monks walked in the cloister.|Các thầy tu đi dạo trong hành lang tu viện.
+masonry|công trình xây bằng đá, gạch|The old masonry is still strong.|Phần tường xây cổ vẫn còn chắc.
+brickwork|phần xây bằng gạch|The brickwork needs repair.|Phần tường gạch cần sửa chữa.
+stucco|vữa trát tường|The house has white stucco walls.|Ngôi nhà có tường trát vữa trắng.
+bronze|đồng thiếc|The statue is made of bronze.|Bức tượng làm bằng đồng.
+mausoleum|lăng mộ|We visited the Ho Chi Minh Mausoleum.|Chúng tôi viếng Lăng Chủ tịch Hồ Chí Minh.
+
+@y4046|Mỹ thuật và kiến trúc 4|Tranh, tượng, trường phái, công trình|Art
+obelisk|cột tháp nhọn|An obelisk stands in the middle of the square.|Một cột tháp nhọn đứng giữa quảng trường.
+amphitheater|nhà hát vòng tròn ngoài trời|The concert was held in a Roman amphitheater.|Buổi hòa nhạc diễn ra ở một nhà hát vòng tròn La Mã.
+aqueduct|cầu dẫn nước|The Romans built an aqueduct to bring water.|Người La Mã xây cầu dẫn nước để đưa nước về.
+mansion|biệt thự lớn, dinh thự|The singer lives in a mansion.|Ca sĩ sống trong một dinh thự.
+chalet|nhà gỗ trên núi|We rented a chalet in the mountains.|Chúng tôi thuê một căn nhà gỗ trên núi.
+penthouse|căn hộ áp mái sang trọng|They live in a penthouse with a view of the river.|Họ sống trong một căn hộ áp mái nhìn ra sông.
+townhouse|nhà phố liền kề|They bought a townhouse near the park.|Họ mua một căn nhà phố gần công viên.
+cubism|trường phái lập thể|Picasso helped create cubism.|Picasso góp phần tạo ra trường phái lập thể.
+portico|cổng vòm có cột|The museum has a grand portico.|Bảo tàng có một cổng vòm có cột bề thế.
+balustrade|lan can có con tiện|She leaned on the stone balustrade.|Cô ấy tựa vào lan can đá.
+cornice|gờ trang trí (mái, trần)|A white cornice runs around the ceiling.|Một đường gờ trắng chạy quanh trần nhà.
+parapet|tường chắn thấp (mái, cầu)|He looked over the parapet of the bridge.|Anh ấy nhìn qua tường chắn của cây cầu.
+stonework|phần xây, chạm bằng đá|The stonework of the temple is very fine.|Phần chạm đá của ngôi đền rất tinh xảo.
 
 %551|5|Phần 1: Mở rộng – Giải phẫu cơ thể|Giải phẫu cơ thể, Bệnh lý, Thủ thuật và thiết bị y khoa, Thực vật học, Động vật học|leaf
 @y5001|Giải phẫu cơ thể 1|Xương, nội tạng, các phần trên cơ thể|Anatomy
