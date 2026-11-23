@@ -1,0 +1,97 @@
+# Level 4 (Thành thạo): pháp luật, tài chính.
+@4|Pháp luật và tòa án|Tội danh, thủ tục tố tụng, người tham gia|Law
+barrister|luật sư tranh tụng (Anh)|The barrister spoke for an hour in court.|Luật sư tranh tụng nói suốt một giờ tại tòa.
+solicitor|luật sư tư vấn (Anh)|Ask a solicitor before you sign the contract.|Hãy hỏi luật sư tư vấn trước khi ký hợp đồng.
+magistrate|thẩm phán sơ thẩm|The magistrate fined him two hundred dollars.|Thẩm phán phạt anh ta hai trăm đô la.
+juror|bồi thẩm viên|Each juror listened carefully to the witness.|Mỗi bồi thẩm viên chăm chú nghe nhân chứng.
+indictment|bản cáo trạng|The indictment lists five charges.|Bản cáo trạng nêu năm tội danh.
+acquittal|sự tuyên trắng án|The trial ended in his acquittal.|Phiên tòa kết thúc bằng việc anh ta được tuyên trắng án.
+conviction|sự kết án; niềm tin chắc|He has a previous conviction for theft.|Anh ta từng có một án về tội trộm cắp.
+libel|tội phỉ báng (bằng văn bản)|The actor sued the newspaper for libel.|Nam diễn viên kiện tờ báo vì tội phỉ báng.
+slander|tội vu khống (bằng lời)|She accused him of slander.|Cô ấy tố cáo anh ta tội vu khống.
+embezzlement|tội biển thủ|The manager was arrested for embezzlement.|Viên quản lý bị bắt vì tội biển thủ.
+bribery|tội hối lộ|Two officials were charged with bribery.|Hai quan chức bị buộc tội hối lộ.
+extortion|tội tống tiền|The gang made money through extortion.|Băng nhóm kiếm tiền bằng cách tống tiền.
+arson|tội phóng hỏa|Police think the fire was arson.|Cảnh sát cho rằng vụ cháy là do phóng hỏa.
+manslaughter|tội ngộ sát|The driver was found guilty of manslaughter.|Người lái xe bị kết tội ngộ sát.
+homicide|tội giết người|The city has a low homicide rate.|Thành phố có tỷ lệ giết người thấp.
+assault|tội hành hung; tấn công|He was arrested for assault.|Anh ta bị bắt vì tội hành hung.
+trespass|xâm nhập trái phép|You must not trespass on private land.|Bạn không được xâm nhập trái phép vào đất tư.
+smuggling|tội buôn lậu|He was jailed for smuggling gold.|Anh ta bị bỏ tù vì buôn lậu vàng.
+kidnapping|tội bắt cóc|The kidnapping shocked the whole town.|Vụ bắt cóc làm cả thị trấn bàng hoàng.
+jurisdiction|thẩm quyền xét xử|This case is outside the court's jurisdiction.|Vụ án này nằm ngoài thẩm quyền của tòa.
+amendment|bản sửa đổi, tu chính án|Parliament passed an amendment to the law.|Quốc hội thông qua một bản sửa đổi luật.
+enact|ban hành (luật)|The government will enact a new tax law.|Chính phủ sẽ ban hành một luật thuế mới.
+veto|phủ quyết; quyền phủ quyết|The president may veto the bill.|Tổng thống có thể phủ quyết dự luật.
+plea|lời bào chữa, lời nhận tội; lời khẩn cầu|He entered a plea of not guilty.|Anh ta đưa ra lời khai không nhận tội.
+alibi|chứng cứ ngoại phạm|She has an alibi for that night.|Cô ấy có chứng cứ ngoại phạm cho đêm đó.
+culprit|thủ phạm|The police soon found the culprit.|Cảnh sát nhanh chóng tìm ra thủ phạm.
+accomplice|kẻ đồng phạm|The thief had an accomplice inside the bank.|Tên trộm có một đồng phạm bên trong ngân hàng.
+hostage|con tin|The robbers took a hostage.|Bọn cướp bắt một con tin.
+warrant|lệnh (bắt, khám xét)|The police had a warrant to search the house.|Cảnh sát có lệnh khám xét ngôi nhà.
+summons|giấy triệu tập|He received a summons to appear in court.|Anh ấy nhận được giấy triệu tập ra tòa.
+mediation|sự hòa giải|The dispute was settled through mediation.|Tranh chấp được giải quyết qua hòa giải.
+arbitration|sự phân xử trọng tài|Both companies agreed to arbitration.|Cả hai công ty đồng ý đưa ra trọng tài phân xử.
+notary|công chứng viên|A notary must sign this document.|Công chứng viên phải ký tài liệu này.
+executor|người thi hành di chúc|Her son is the executor of her will.|Con trai bà là người thi hành di chúc của bà.
+heir|người thừa kế|He is the only heir to the family business.|Anh ấy là người thừa kế duy nhất của doanh nghiệp gia đình.
+inheritance|tài sản thừa kế|She spent her inheritance on a house.|Cô ấy dùng tài sản thừa kế để mua nhà.
+restraining order|lệnh cấm tiếp cận|The court issued a restraining order against him.|Tòa ra lệnh cấm anh ta tiếp cận.
+death penalty|án tử hình|Many countries have ended the death penalty.|Nhiều nước đã bỏ án tử hình.
+life sentence|án chung thân|The killer received a life sentence.|Kẻ giết người nhận án chung thân.
+community service|lao động công ích|He was given fifty hours of community service.|Anh ta bị phạt năm mươi giờ lao động công ích.
+cross-examine|thẩm vấn chéo|The lawyer will cross-examine the witness tomorrow.|Luật sư sẽ thẩm vấn chéo nhân chứng vào ngày mai.
+plead guilty|nhận tội|He decided to plead guilty.|Anh ta quyết định nhận tội.
+overrule|bác bỏ (quyết định)|The judge can overrule the objection.|Thẩm phán có thể bác bỏ lời phản đối.
+detain|tạm giữ|The police can detain a suspect for two days.|Cảnh sát có thể tạm giữ nghi phạm hai ngày.
+confiscate|tịch thu|The teacher will confiscate your phone.|Giáo viên sẽ tịch thu điện thoại của bạn.
+impound|tạm giữ (xe, tài sản)|The police may impound your car.|Cảnh sát có thể tạm giữ xe của bạn.
+arraignment|phiên luận tội đầu tiên|The arraignment is set for Monday.|Phiên luận tội được ấn định vào thứ Hai.
+larceny|tội trộm cắp tài sản|She was charged with larceny.|Cô ta bị buộc tội trộm cắp tài sản.
+probate|thủ tục chứng thực di chúc|The will is still in probate.|Di chúc vẫn đang trong thủ tục chứng thực.
+custody battle|cuộc tranh chấp quyền nuôi con|The couple fought a long custody battle.|Cặp vợ chồng trải qua một cuộc tranh chấp quyền nuôi con kéo dài.
+
+@4|Tài chính và ngân hàng|Đầu tư, vay nợ, kế toán|Finance
+equity|vốn chủ sở hữu; sự công bằng|He owns twenty percent of the equity in the company.|Anh ấy sở hữu hai mươi phần trăm vốn của công ty.
+bond|trái phiếu; mối gắn kết|The government sold a ten-year bond.|Chính phủ bán trái phiếu kỳ hạn mười năm.
+broker|người môi giới|My broker told me to sell the shares.|Người môi giới khuyên tôi bán cổ phiếu.
+hedge fund|quỹ phòng hộ|She manages a large hedge fund.|Cô ấy quản lý một quỹ phòng hộ lớn.
+mutual fund|quỹ tương hỗ|He put his savings in a mutual fund.|Anh ấy gửi tiền tiết kiệm vào một quỹ tương hỗ.
+remittance|tiền gửi về, kiều hối|He sends a remittance to his family every month.|Tháng nào anh ấy cũng gửi tiền về cho gia đình.
+overdraft|khoản thấu chi|The bank charges a fee for an overdraft.|Ngân hàng tính phí cho khoản thấu chi.
+default|vỡ nợ, không trả được nợ; mặc định|The company may default on its loan.|Công ty có thể không trả được khoản vay.
+insolvency|tình trạng mất khả năng thanh toán|The firm is close to insolvency.|Công ty sắp mất khả năng thanh toán.
+liquidation|sự thanh lý (tài sản, công ty)|The store went into liquidation.|Cửa hàng bị đưa vào thanh lý.
+deflation|giảm phát|Deflation makes prices fall.|Giảm phát làm giá cả đi xuống.
+depression|suy thoái nặng; trầm cảm|Many people lost their jobs in the depression.|Nhiều người mất việc trong cuộc đại suy thoái.
+stagnation|sự trì trệ|The country faces years of economic stagnation.|Đất nước đối mặt với nhiều năm kinh tế trì trệ.
+markup|mức cộng lãi vào giá|The shop adds a fifty percent markup.|Cửa hàng cộng thêm năm mươi phần trăm lãi vào giá.
+capital gain|lãi vốn|You must pay tax on any capital gain.|Bạn phải nộp thuế cho mọi khoản lãi vốn.
+cash flow|dòng tiền|The small firm has a cash flow problem.|Công ty nhỏ gặp vấn đề về dòng tiền.
+balance sheet|bảng cân đối kế toán|The balance sheet shows a large debt.|Bảng cân đối kế toán cho thấy một khoản nợ lớn.
+interest rate|lãi suất|The bank raised its interest rate.|Ngân hàng tăng lãi suất.
+credit rating|xếp hạng tín dụng|A good credit rating helps you borrow money.|Xếp hạng tín dụng tốt giúp bạn vay tiền.
+down payment|tiền đặt cọc, trả trước|We made a down payment on the apartment.|Chúng tôi đã trả trước một khoản cho căn hộ.
+lender|bên cho vay|The lender asked for proof of income.|Bên cho vay yêu cầu chứng minh thu nhập.
+borrower|người đi vay|The borrower must repay within five years.|Người vay phải trả trong vòng năm năm.
+guarantor|người bảo lãnh|My father was the guarantor for my loan.|Bố tôi là người bảo lãnh cho khoản vay của tôi.
+underwriter|bên bảo lãnh phát hành, bảo hiểm|The underwriter checked the risk carefully.|Bên bảo lãnh xem xét rủi ro cẩn thận.
+bookkeeper|nhân viên ghi sổ kế toán|The bookkeeper records every payment.|Nhân viên sổ sách ghi lại mọi khoản thanh toán.
+treasurer|thủ quỹ|She is the treasurer of the club.|Cô ấy là thủ quỹ của câu lạc bộ.
+royalty|tiền bản quyền; hoàng gia|The singer earns a royalty on every song.|Ca sĩ nhận tiền bản quyền cho mỗi bài hát.
+stipend|khoản trợ cấp, sinh hoạt phí|The student receives a monthly stipend.|Sinh viên nhận sinh hoạt phí hàng tháng.
+reimbursement|sự hoàn trả chi phí|Keep your receipts for reimbursement.|Hãy giữ hóa đơn để được hoàn trả chi phí.
+rebate|khoản giảm giá hoàn lại|You get a tax rebate at the end of the year.|Bạn được hoàn một phần thuế vào cuối năm.
+voucher|phiếu quà tặng, phiếu giảm giá|I paid with a gift voucher.|Tôi trả bằng phiếu quà tặng.
+volatility|sự biến động mạnh|Investors fear the volatility of the market.|Nhà đầu tư lo ngại sự biến động của thị trường.
+liquidity|tính thanh khoản|The bank has enough liquidity.|Ngân hàng có đủ thanh khoản.
+speculation|sự đầu cơ; sự suy đoán|Land speculation pushed prices up.|Đầu cơ đất đẩy giá lên cao.
+venture capital|vốn đầu tư mạo hiểm|The startup raised venture capital.|Công ty khởi nghiệp đã gọi được vốn đầu tư mạo hiểm.
+crowdfunding|gọi vốn cộng đồng|They paid for the film through crowdfunding.|Họ làm bộ phim bằng tiền gọi vốn cộng đồng.
+cryptocurrency|tiền mã hóa|Bitcoin is the best-known cryptocurrency.|Bitcoin là loại tiền mã hóa nổi tiếng nhất.
+blockchain|chuỗi khối|The system records payments on a blockchain.|Hệ thống ghi lại các khoản thanh toán trên chuỗi khối.
+fintech|công nghệ tài chính|She works for a fintech company.|Cô ấy làm cho một công ty công nghệ tài chính.
+excise|thuế tiêu thụ đặc biệt|There is a high excise on tobacco.|Thuốc lá chịu thuế tiêu thụ đặc biệt cao.
+amortization|sự khấu hao, trả dần|The table shows the amortization of the loan.|Bảng này cho thấy lịch trả dần khoản vay.
+lien|quyền giữ tài sản thế chấp|The bank holds a lien on the house.|Ngân hàng giữ quyền thế chấp đối với ngôi nhà.
+solvency|khả năng thanh toán|The auditors checked the solvency of the firm.|Kiểm toán viên kiểm tra khả năng thanh toán của công ty.
