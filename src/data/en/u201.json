@@ -3,7 +3,7 @@
   {"unit":201,"level":2,"title":"Phần 14: Đời sống thường ngày","desc":"Thói quen, nhà cửa, giao thông, dịch vụ, bưu điện, ngân hàng","color":"leaf","course":"en"}
  ],
  "lessons": [
-  {"id":"m01","title":"Thói quen buổi sáng","desc":"Tắm, đánh răng, mặc đồ, vội vàng","icon":"AM","unit":201,"course":"en","order":1130,"words":[
+  {"id":"m01","title":"Thói quen buổi sáng","desc":"Tắm, đánh răng, mặc đồ, vội vàng","icon":"AM","unit":201,"course":"en","order":1170,"words":[
    {"id":"m01-shower","hanzi":"shower","pinyin":"","vi":"tắm vòi sen","ex":{"tokens":["I","take","a","shower","every","morning","."],"py":["","","","","","","."],"vi":"Tôi tắm vòi sen mỗi sáng.","alts":[]}},
    {"id":"m01-brush","hanzi":"brush","pinyin":"","vi":"chải, đánh (răng)","ex":{"tokens":["Brush","your","teeth","before","bed","."],"py":["","","","","","."],"vi":"Hãy đánh răng trước khi đi ngủ.","alts":[]}},
    {"id":"m01-comb","hanzi":"comb","pinyin":"","vi":"cái lược; chải tóc","ex":{"tokens":["I","cannot","find","my","comb","."],"py":["","","","","","."],"vi":"Tôi không tìm thấy cái lược của mình.","alts":[]}},
@@ -17,7 +17,7 @@
    {"id":"m01-toothbrush","hanzi":"toothbrush","pinyin":"","vi":"bàn chải đánh răng","ex":{"tokens":["I","need","a","new","toothbrush","."],"py":["","","","","","."],"vi":"Tôi cần một cái bàn chải đánh răng mới.","alts":[]}},
    {"id":"m01-asleep","hanzi":"asleep","pinyin":"","vi":"đang ngủ","ex":{"tokens":["The","baby","is","asleep","now","."],"py":["","","","","","."],"vi":"Em bé đang ngủ rồi.","alts":[]}}
   ]},
-  {"id":"m02","title":"Đồ dùng trong nhà","desc":"Tủ lạnh, lò vi sóng, quạt, máy giặt","icon":"Fan","unit":201,"course":"en","order":1140,"words":[
+  {"id":"m02","title":"Đồ dùng trong nhà","desc":"Tủ lạnh, lò vi sóng, quạt, máy giặt","icon":"Fan","unit":201,"course":"en","order":1180,"words":[
    {"id":"m02-fridge","hanzi":"fridge","pinyin":"","vi":"tủ lạnh","ex":{"tokens":["Put","the","milk","in","the","fridge","."],"py":["","","","","","","."],"vi":"Hãy cho sữa vào tủ lạnh.","alts":[]}},
    {"id":"m02-oven","hanzi":"oven","pinyin":"","vi":"lò nướng","ex":{"tokens":["The","cake","is","in","the","oven","."],"py":["","","","","","","."],"vi":"Bánh đang ở trong lò nướng.","alts":[]}},
    {"id":"m02-microwave","hanzi":"microwave","pinyin":"","vi":"lò vi sóng","ex":{"tokens":["Heat","the","soup","in","the","microwave","."],"py":["","","","","","","."],"vi":"Hãy hâm súp trong lò vi sóng.","alts":[]}},
@@ -31,7 +31,7 @@
    {"id":"m02-cupboard","hanzi":"cupboard","pinyin":"","vi":"tủ đựng đồ","ex":{"tokens":["The","cups","are","in","the","cupboard","."],"py":["","","","","","","."],"vi":"Cốc ở trong tủ.","alts":[]}},
    {"id":"m02-air_conditioner","hanzi":"air conditioner","pinyin":"","vi":"máy điều hòa","ex":{"tokens":["The","air","conditioner","is","too","cold","."],"py":["","","","","","","."],"vi":"Máy điều hòa lạnh quá.","alts":[]}}
   ]},
-  {"id":"m03","title":"Trên đường phố","desc":"Đèn giao thông, ngã tư, đỗ xe, tắc đường","icon":"Road","unit":201,"course":"en","order":1150,"words":[
+  {"id":"m03","title":"Trên đường phố","desc":"Đèn giao thông, ngã tư, đỗ xe, tắc đường","icon":"Road","unit":201,"course":"en","order":1190,"words":[
    {"id":"m03-traffic_light","hanzi":"traffic light","pinyin":"","vi":"đèn giao thông","ex":{"tokens":["Stop","at","the","traffic","light","."],"py":["","","","","","."],"vi":"Hãy dừng lại ở đèn giao thông.","alts":[]}},
    {"id":"m03-crossroads","hanzi":"crossroads","pinyin":"","vi":"ngã tư","ex":{"tokens":["Turn","left","at","the","crossroads","."],"py":["","","","","","."],"vi":"Hãy rẽ trái ở ngã tư.","alts":[]}},
    {"id":"m03-parking_lot","hanzi":"parking lot","pinyin":"","vi":"bãi đỗ xe","ex":{"tokens":["The","parking","lot","is","behind","the","hotel","."],"py":["","","","","","","","."],"vi":"Bãi đỗ xe ở phía sau khách sạn.","alts":[]}},
@@ -45,7 +45,7 @@
    {"id":"m03-tunnel","hanzi":"tunnel","pinyin":"","vi":"đường hầm","ex":{"tokens":["The","train","went","through","a","long","tunnel","."],"py":["","","","","","","","."],"vi":"Tàu đã đi qua một đường hầm dài.","alts":[]}},
    {"id":"m03-platform","hanzi":"platform","pinyin":"","vi":"sân ga","ex":{"tokens":["The","train","leaves","from","platform","two","."],"py":["","","","","","","."],"vi":"Tàu khởi hành từ sân ga số hai.","alts":[]}}
   ]},
-  {"id":"m04","title":"Bưu điện và ngân hàng","desc":"Thư, tem, bưu kiện, rút tiền","icon":"Post","unit":201,"course":"en","order":1160,"words":[
+  {"id":"m04","title":"Bưu điện và ngân hàng","desc":"Thư, tem, bưu kiện, rút tiền","icon":"Post","unit":201,"course":"en","order":1200,"words":[
    {"id":"m04-letter","hanzi":"letter","pinyin":"","vi":"lá thư; chữ cái","ex":{"tokens":["I","wrote","a","letter","to","my","grandmother","."],"py":["","","","","","","","."],"vi":"Tôi đã viết một lá thư cho bà.","alts":[]}},
    {"id":"m04-stamp","hanzi":"stamp","pinyin":"","vi":"con tem","ex":{"tokens":["I","need","a","stamp","for","this","letter","."],"py":["","","","","","","","."],"vi":"Tôi cần một con tem cho lá thư này.","alts":[]}},
    {"id":"m04-envelope","hanzi":"envelope","pinyin":"","vi":"phong bì","ex":{"tokens":["Put","the","letter","in","the","envelope","."],"py":["","","","","","","."],"vi":"Hãy cho lá thư vào phong bì.","alts":[]}},
@@ -59,7 +59,7 @@
    {"id":"m04-form","hanzi":"form","pinyin":"","vi":"mẫu đơn; hình thức","ex":{"tokens":["Please","sign","the","form","here","."],"py":["","","","","","."],"vi":"Vui lòng ký vào mẫu đơn ở đây.","alts":[]}},
    {"id":"m04-signature","hanzi":"signature","pinyin":"","vi":"chữ ký","ex":{"tokens":["We","need","your","signature","on","this","page","."],"py":["","","","","","","","."],"vi":"Chúng tôi cần chữ ký của bạn trên trang này.","alts":[]}}
   ]},
-  {"id":"m05","title":"Dịch vụ sửa chữa","desc":"Thợ điện, thợ sửa ống nước, hỏng, rò rỉ","icon":"Fix","unit":201,"course":"en","order":1170,"words":[
+  {"id":"m05","title":"Dịch vụ sửa chữa","desc":"Thợ điện, thợ sửa ống nước, hỏng, rò rỉ","icon":"Fix","unit":201,"course":"en","order":1210,"words":[
    {"id":"m05-repair","hanzi":"repair","pinyin":"","vi":"sửa chữa","ex":{"tokens":["Can","you","repair","my","watch","?"],"py":["","","","","","?"],"vi":"Bạn có thể sửa đồng hồ của tôi không?","alts":[]}},
    {"id":"m05-broken","hanzi":"broken","pinyin":"","vi":"bị hỏng, bị vỡ","ex":{"tokens":["The","window","is","broken","."],"py":["","","","","."],"vi":"Cửa sổ bị vỡ.","alts":[]}},
    {"id":"m05-plumber","hanzi":"plumber","pinyin":"","vi":"thợ sửa ống nước","ex":{"tokens":["We","called","a","plumber","this","morning","."],"py":["","","","","","","."],"vi":"Sáng nay chúng tôi đã gọi thợ sửa ống nước.","alts":[]}},
@@ -73,7 +73,7 @@
    {"id":"m05-replace","hanzi":"replace","pinyin":"","vi":"thay thế","ex":{"tokens":["We","need","to","replace","the","old","battery","."],"py":["","","","","","","","."],"vi":"Chúng ta cần thay cục pin cũ.","alts":[]}},
    {"id":"m05-damaged","hanzi":"damaged","pinyin":"","vi":"bị hư hại","ex":{"tokens":["The","box","was","damaged","in","the","rain","."],"py":["","","","","","","","."],"vi":"Cái hộp đã bị hư hại trong mưa.","alts":[]}}
   ]},
-  {"id":"m06","title":"Cuộc hẹn và lịch","desc":"Hẹn, rảnh, bận, dời lại, đúng giờ","icon":"Date","unit":201,"course":"en","order":1180,"words":[
+  {"id":"m06","title":"Cuộc hẹn và lịch","desc":"Hẹn, rảnh, bận, dời lại, đúng giờ","icon":"Date","unit":201,"course":"en","order":1220,"words":[
    {"id":"m06-date","hanzi":"date","pinyin":"","vi":"ngày tháng; buổi hẹn","ex":{"tokens":["What","is","the","date","today","?"],"py":["","","","","","?"],"vi":"Hôm nay là ngày bao nhiêu?","alts":[]}},
    {"id":"m06-calendar","hanzi":"calendar","pinyin":"","vi":"lịch","ex":{"tokens":["I","wrote","the","date","on","my","calendar","."],"py":["","","","","","","","."],"vi":"Tôi đã ghi ngày đó lên lịch.","alts":[]}},
    {"id":"m06-spare_time","hanzi":"spare time","pinyin":"","vi":"thời gian rảnh","ex":{"tokens":["I","read","books","in","my","spare","time","."],"py":["","","","","","","","."],"vi":"Tôi đọc sách vào thời gian rảnh.","alts":[]}},
@@ -87,7 +87,7 @@
    {"id":"m06-century","hanzi":"century","pinyin":"","vi":"thế kỷ","ex":{"tokens":["This","house","was","built","last","century","."],"py":["","","","","","","."],"vi":"Ngôi nhà này được xây vào thế kỷ trước.","alts":[]}},
    {"id":"m06-season","hanzi":"season","pinyin":"","vi":"mùa","ex":{"tokens":["Which","season","do","you","like","best","?"],"py":["","","","","","","?"],"vi":"Bạn thích mùa nào nhất?","alts":[]}}
   ]},
-  {"id":"m07","title":"Bốn mùa và thời tiết","desc":"Xuân, thu, đông, sương mù, sấm chớp","icon":"Fog","unit":201,"course":"en","order":1190,"words":[
+  {"id":"m07","title":"Bốn mùa và thời tiết","desc":"Xuân, thu, đông, sương mù, sấm chớp","icon":"Fog","unit":201,"course":"en","order":1230,"words":[
    {"id":"m07-spring","hanzi":"spring","pinyin":"","vi":"mùa xuân","ex":{"tokens":["Flowers","bloom","in","spring","."],"py":["","","","","."],"vi":"Hoa nở vào mùa xuân.","alts":[]}},
    {"id":"m07-autumn","hanzi":"autumn","pinyin":"","vi":"mùa thu","ex":{"tokens":["Hanoi","is","beautiful","in","autumn","."],"py":["","","","","","."],"vi":"Hà Nội đẹp vào mùa thu.","alts":[]}},
    {"id":"m07-winter","hanzi":"winter","pinyin":"","vi":"mùa đông","ex":{"tokens":["It","is","very","cold","in","winter","."],"py":["","","","","","","."],"vi":"Mùa đông rất lạnh.","alts":[]}},
@@ -101,7 +101,7 @@
    {"id":"m07-freezing","hanzi":"freezing","pinyin":"","vi":"lạnh cóng","ex":{"tokens":["It","is","freezing","outside","."],"py":["","","","","."],"vi":"Bên ngoài lạnh cóng.","alts":[]}},
    {"id":"m07-dry","hanzi":"dry","pinyin":"","vi":"khô","ex":{"tokens":["The","clothes","are","dry","now","."],"py":["","","","","","."],"vi":"Quần áo đã khô rồi.","alts":[]}}
   ]},
-  {"id":"m08","title":"Mô tả đồ vật","desc":"Hình dạng, nặng, nhẹ, mềm, cứng","icon":"Obj","unit":201,"course":"en","order":1200,"words":[
+  {"id":"m08","title":"Mô tả đồ vật","desc":"Hình dạng, nặng, nhẹ, mềm, cứng","icon":"Obj","unit":201,"course":"en","order":1240,"words":[
    {"id":"m08-shape","hanzi":"shape","pinyin":"","vi":"hình dạng","ex":{"tokens":["What","shape","is","the","table","?"],"py":["","","","","","?"],"vi":"Cái bàn có hình gì?","alts":[]}},
    {"id":"m08-round","hanzi":"round","pinyin":"","vi":"tròn","ex":{"tokens":["We","sat","at","a","round","table","."],"py":["","","","","","","."],"vi":"Chúng tôi ngồi quanh một cái bàn tròn.","alts":[]}},
    {"id":"m08-flat","hanzi":"flat","pinyin":"","vi":"phẳng, bằng","ex":{"tokens":["The","land","here","is","very","flat","."],"py":["","","","","","","."],"vi":"Đất ở đây rất bằng phẳng.","alts":[]}},
@@ -115,7 +115,7 @@
    {"id":"m08-thick","hanzi":"thick","pinyin":"","vi":"dày","ex":{"tokens":["This","is","a","very","thick","book","."],"py":["","","","","","","."],"vi":"Đây là một cuốn sách rất dày.","alts":[]}},
    {"id":"m08-empty","hanzi":"empty","pinyin":"","vi":"trống rỗng","ex":{"tokens":["The","bottle","is","empty","."],"py":["","","","","."],"vi":"Cái chai trống rỗng.","alts":[]}}
   ]},
-  {"id":"m09","title":"Số lượng và đo lường","desc":"Mét, cân, lít, một nửa, một phần tư","icon":"Kg","unit":201,"course":"en","order":1210,"words":[
+  {"id":"m09","title":"Số lượng và đo lường","desc":"Mét, cân, lít, một nửa, một phần tư","icon":"Kg","unit":201,"course":"en","order":1250,"words":[
    {"id":"m09-meter","hanzi":"meter","pinyin":"","vi":"mét","ex":{"tokens":["The","wall","is","one","meter","high","."],"py":["","","","","","","."],"vi":"Bức tường cao một mét.","alts":[]}},
    {"id":"m09-kilogram","hanzi":"kilogram","pinyin":"","vi":"ki lô gam","ex":{"tokens":["I","bought","a","kilogram","of","apples","."],"py":["","","","","","","."],"vi":"Tôi đã mua một cân táo.","alts":[]}},
    {"id":"m09-liter","hanzi":"liter","pinyin":"","vi":"lít","ex":{"tokens":["We","need","a","liter","of","milk","."],"py":["","","","","","","."],"vi":"Chúng ta cần một lít sữa.","alts":[]}},
@@ -129,7 +129,7 @@
    {"id":"m09-plenty","hanzi":"plenty","pinyin":"","vi":"nhiều, dồi dào","ex":{"tokens":["We","have","plenty","of","time","."],"py":["","","","","","."],"vi":"Chúng ta có nhiều thời gian.","alts":[]}},
    {"id":"m09-whole","hanzi":"whole","pinyin":"","vi":"toàn bộ","ex":{"tokens":["He","ate","the","whole","pizza","."],"py":["","","","","","."],"vi":"Anh ấy đã ăn hết cả cái pizza.","alts":[]}}
   ]},
-  {"id":"m10","title":"Chuyển động","desc":"Leo, nhảy, ném, bắt, kéo, đẩy","icon":"Move","unit":201,"course":"en","order":1220,"words":[
+  {"id":"m10","title":"Chuyển động","desc":"Leo, nhảy, ném, bắt, kéo, đẩy","icon":"Move","unit":201,"course":"en","order":1260,"words":[
    {"id":"m10-climb","hanzi":"climb","pinyin":"","vi":"leo, trèo","ex":{"tokens":["We","will","climb","the","mountain","tomorrow","."],"py":["","","","","","","."],"vi":"Ngày mai chúng tôi sẽ leo núi.","alts":[]}},
    {"id":"m10-jump","hanzi":"jump","pinyin":"","vi":"nhảy","ex":{"tokens":["The","children","jump","into","the","pool","."],"py":["","","","","","","."],"vi":"Bọn trẻ nhảy xuống hồ bơi.","alts":[]}},
    {"id":"m10-throw","hanzi":"throw","pinyin":"","vi":"ném","ex":{"tokens":["Throw","the","ball","to","me","."],"py":["","","","","","."],"vi":"Ném quả bóng cho tôi.","alts":[]}},
@@ -143,7 +143,7 @@
    {"id":"m10-hold","hanzi":"hold","pinyin":"","vi":"cầm, giữ","ex":{"tokens":["Please","hold","my","hand","."],"py":["","","","","."],"vi":"Hãy nắm tay tôi.","alts":[]}},
    {"id":"m10-move","hanzi":"move","pinyin":"","vi":"di chuyển; chuyển nhà","ex":{"tokens":["Can","you","move","your","car","?"],"py":["","","","","","?"],"vi":"Bạn có thể di chuyển xe của mình không?","alts":[]}}
   ]},
-  {"id":"m11","title":"Giác quan","desc":"Ngửi, chạm, nghe thấy, ồn, mùi vị","icon":"Sense","unit":201,"course":"en","order":1230,"words":[
+  {"id":"m11","title":"Giác quan","desc":"Ngửi, chạm, nghe thấy, ồn, mùi vị","icon":"Sense","unit":201,"course":"en","order":1270,"words":[
    {"id":"m11-smell","hanzi":"smell","pinyin":"","vi":"ngửi; mùi","ex":{"tokens":["I","can","smell","fresh","bread","."],"py":["","","","","","."],"vi":"Tôi ngửi thấy mùi bánh mì mới nướng.","alts":[]}},
    {"id":"m11-touch","hanzi":"touch","pinyin":"","vi":"chạm, sờ","ex":{"tokens":["Do","not","touch","the","hot","pan","."],"py":["","","","","","","."],"vi":"Đừng chạm vào cái chảo nóng.","alts":[]}},
    {"id":"m11-hear","hanzi":"hear","pinyin":"","vi":"nghe thấy","ex":{"tokens":["Can","you","hear","the","birds","?"],"py":["","","","","","?"],"vi":"Bạn có nghe thấy tiếng chim không?","alts":[]}},

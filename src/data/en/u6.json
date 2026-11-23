@@ -3,7 +3,7 @@
   {"unit":6,"level":2,"title":"Phần 11: Con người và đời sống","desc":"So sánh, cảm xúc, sức khỏe, ăn uống, mua sắm","color":"sky","course":"en"}
  ],
  "lessons": [
-  {"id":"e38","title":"So sánh 1","desc":"Better, worse, more, less, than","icon":">","unit":6,"course":"en","order":920,"words":[
+  {"id":"e38","title":"So sánh 1","desc":"Better, worse, more, less, than","icon":">","unit":6,"course":"en","order":960,"words":[
    {"id":"e38-better","hanzi":"better","pinyin":"","vi":"tốt hơn","ex":{"tokens":["This","book","is","better","than","that","one","."],"py":["","","","","","","","."],"vi":"Quyển sách này hay hơn quyển kia.","alts":[]}},
    {"id":"e38-worse","hanzi":"worse","pinyin":"","vi":"tệ hơn","ex":{"tokens":["The","weather","is","worse","today","."],"py":["","","","","","."],"vi":"Hôm nay thời tiết tệ hơn.","alts":[]}},
    {"id":"e38-best","hanzi":"best","pinyin":"","vi":"tốt nhất","ex":{"tokens":["She","is","my","best","friend","."],"py":["","","","","","."],"vi":"Cô ấy là bạn thân nhất của tôi.","alts":[]}},
@@ -17,7 +17,7 @@
    {"id":"e38-quite","hanzi":"quite","pinyin":"","vi":"khá","ex":{"tokens":["The","test","was","quite","easy","."],"py":["","","","","","."],"vi":"Bài kiểm tra khá dễ.","alts":[]}},
    {"id":"e38-almost","hanzi":"almost","pinyin":"","vi":"gần như, suýt","ex":{"tokens":["It","is","almost","midnight","."],"py":["","","","","."],"vi":"Gần nửa đêm rồi.","alts":[]}}
   ]},
-  {"id":"e39","title":"Cảm xúc","desc":"Hào hứng, chán, ngạc nhiên, lo lắng","icon":"Oh","unit":6,"course":"en","order":930,"words":[
+  {"id":"e39","title":"Cảm xúc","desc":"Hào hứng, chán, ngạc nhiên, lo lắng","icon":"Oh","unit":6,"course":"en","order":970,"words":[
    {"id":"e39-excited","hanzi":"excited","pinyin":"","vi":"hào hứng, phấn khích","ex":{"tokens":["The","children","are","excited","about","the","trip","."],"py":["","","","","","","","."],"vi":"Bọn trẻ rất hào hứng về chuyến đi.","alts":[]}},
    {"id":"e39-bored","hanzi":"bored","pinyin":"","vi":"chán, buồn chán","ex":{"tokens":["I","am","bored","at","home","."],"py":["","","","","","."],"vi":"Tôi thấy chán khi ở nhà.","alts":[]}},
    {"id":"e39-surprised","hanzi":"surprised","pinyin":"","vi":"ngạc nhiên","ex":{"tokens":["She","was","surprised","to","see","me","."],"py":["","","","","","","."],"vi":"Cô ấy ngạc nhiên khi thấy tôi.","alts":[]}},
@@ -31,7 +31,7 @@
    {"id":"e39-shy","hanzi":"shy","pinyin":"","vi":"nhút nhát, ngại ngùng","ex":{"tokens":["The","little","boy","is","very","shy","."],"py":["","","","","","","."],"vi":"Cậu bé rất nhút nhát.","alts":[]}},
    {"id":"e39-relaxed","hanzi":"relaxed","pinyin":"","vi":"thư giãn, thoải mái","ex":{"tokens":["I","feel","relaxed","on","the","weekend","."],"py":["","","","","","","."],"vi":"Tôi thấy thư giãn vào cuối tuần.","alts":[]}}
   ]},
-  {"id":"e40","title":"Tính cách 1","desc":"Thân thiện, lịch sự, trung thực, lười","icon":"Ch","unit":6,"course":"en","order":940,"words":[
+  {"id":"e40","title":"Tính cách 1","desc":"Thân thiện, lịch sự, trung thực, lười","icon":"Ch","unit":6,"course":"en","order":980,"words":[
    {"id":"e40-friendly","hanzi":"friendly","pinyin":"","vi":"thân thiện","ex":{"tokens":["Our","new","teacher","is","very","friendly","."],"py":["","","","","","","."],"vi":"Giáo viên mới của chúng tôi rất thân thiện.","alts":[]}},
    {"id":"e40-polite","hanzi":"polite","pinyin":"","vi":"lịch sự","ex":{"tokens":["He","is","always","polite","to","everyone","."],"py":["","","","","","","."],"vi":"Anh ấy luôn lịch sự với mọi người.","alts":[]}},
    {"id":"e40-honest","hanzi":"honest","pinyin":"","vi":"trung thực","ex":{"tokens":["Thank","you","for","being","honest","."],"py":["","","","","","."],"vi":"Cảm ơn bạn đã trung thực.","alts":[]}},
@@ -45,7 +45,7 @@
    {"id":"e40-generous","hanzi":"generous","pinyin":"","vi":"hào phóng, rộng rãi","ex":{"tokens":["My","grandmother","is","very","generous","."],"py":["","","","","","."],"vi":"Bà tôi rất hào phóng.","alts":[]}},
    {"id":"e40-serious","hanzi":"serious","pinyin":"","vi":"nghiêm túc; nghiêm trọng","ex":{"tokens":["He","is","serious","about","his","work","."],"py":["","","","","","","."],"vi":"Anh ấy nghiêm túc với công việc.","alts":[]}}
   ]},
-  {"id":"e41","title":"Sức khỏe","desc":"Đau đầu, sốt, ho, tập thể dục","icon":"Dr","unit":6,"course":"en","order":950,"words":[
+  {"id":"e41","title":"Sức khỏe","desc":"Đau đầu, sốt, ho, tập thể dục","icon":"Dr","unit":6,"course":"en","order":990,"words":[
    {"id":"e41-headache","hanzi":"headache","pinyin":"","vi":"đau đầu","ex":{"tokens":["I","have","a","bad","headache","."],"py":["","","","","","."],"vi":"Tôi bị đau đầu nặng.","alts":[]}},
    {"id":"e41-fever","hanzi":"fever","pinyin":"","vi":"sốt","ex":{"tokens":["The","baby","has","a","fever","."],"py":["","","","","","."],"vi":"Em bé bị sốt.","alts":[]}},
    {"id":"e41-cough","hanzi":"cough","pinyin":"","vi":"ho; cơn ho","ex":{"tokens":["This","medicine","is","good","for","a","cough","."],"py":["","","","","","","","."],"vi":"Thuốc này tốt cho bệnh ho.","alts":[]}},
@@ -59,7 +59,7 @@
    {"id":"e41-illness","hanzi":"illness","pinyin":"","vi":"bệnh, sự ốm đau","ex":{"tokens":["He","missed","school","because","of","illness","."],"py":["","","","","","","."],"vi":"Cậu ấy nghỉ học vì bị ốm.","alts":[]}},
    {"id":"e41-recover","hanzi":"recover","pinyin":"","vi":"hồi phục","ex":{"tokens":["She","will","recover","soon","."],"py":["","","","","."],"vi":"Cô ấy sẽ sớm hồi phục.","alts":[]}}
   ]},
-  {"id":"e42","title":"Nấu ăn và mùi vị","desc":"Luộc, chiên, ngọt, chua, cay","icon":"Yum","unit":6,"course":"en","order":960,"words":[
+  {"id":"e42","title":"Nấu ăn và mùi vị","desc":"Luộc, chiên, ngọt, chua, cay","icon":"Yum","unit":6,"course":"en","order":1000,"words":[
    {"id":"e42-boil","hanzi":"boil","pinyin":"","vi":"luộc, đun sôi","ex":{"tokens":["Boil","the","eggs","for","ten","minutes","."],"py":["","","","","","","."],"vi":"Luộc trứng trong mười phút.","alts":[]}},
    {"id":"e42-fry","hanzi":"fry","pinyin":"","vi":"chiên, rán","ex":{"tokens":["I","will","fry","the","fish","."],"py":["","","","","","."],"vi":"Tôi sẽ rán cá.","alts":[]}},
    {"id":"e42-cut","hanzi":"cut","pinyin":"","vi":"cắt","ex":{"tokens":["Please","cut","the","bread","."],"py":["","","","","."],"vi":"Làm ơn cắt bánh mì.","alts":[]}},
@@ -73,7 +73,7 @@
    {"id":"e42-recipe","hanzi":"recipe","pinyin":"","vi":"công thức nấu ăn","ex":{"tokens":["Can","you","give","me","the","recipe","?"],"py":["","","","","","","?"],"vi":"Bạn cho tôi công thức được không?","alts":[]}},
    {"id":"e42-meal","hanzi":"meal","pinyin":"","vi":"bữa ăn","ex":{"tokens":["Dinner","is","my","favorite","meal","."],"py":["","","","","","."],"vi":"Bữa tối là bữa ăn tôi thích nhất.","alts":[]}}
   ]},
-  {"id":"e43","title":"Ở nhà hàng","desc":"Thực đơn, gọi món, hóa đơn","icon":"Menu","unit":6,"course":"en","order":970,"words":[
+  {"id":"e43","title":"Ở nhà hàng","desc":"Thực đơn, gọi món, hóa đơn","icon":"Menu","unit":6,"course":"en","order":1010,"words":[
    {"id":"e43-menu","hanzi":"menu","pinyin":"","vi":"thực đơn","ex":{"tokens":["Can","I","see","the","menu",",","please","?"],"py":["","","","","",",","","?"],"vi":"Cho tôi xem thực đơn được không?","alts":[]}},
    {"id":"e43-order","hanzi":"order","pinyin":"","vi":"gọi món, đặt hàng","ex":{"tokens":["Are","you","ready","to","order","?"],"py":["","","","","","?"],"vi":"Quý khách đã sẵn sàng gọi món chưa?","alts":[]}},
    {"id":"e43-waiter","hanzi":"waiter","pinyin":"","vi":"người phục vụ (nam)","ex":{"tokens":["The","waiter","brought","our","drinks","."],"py":["","","","","","."],"vi":"Người phục vụ đã mang đồ uống cho chúng tôi.","alts":[]}},
@@ -87,7 +87,7 @@
    {"id":"e43-glass","hanzi":"glass","pinyin":"","vi":"cái ly, cốc thủy tinh","ex":{"tokens":["A","glass","of","water",",","please","."],"py":["","","","",",","","."],"vi":"Cho tôi một ly nước.","alts":[]}},
    {"id":"e43-bottle","hanzi":"bottle","pinyin":"","vi":"cái chai","ex":{"tokens":["He","bought","a","bottle","of","milk","."],"py":["","","","","","","."],"vi":"Anh ấy đã mua một chai sữa.","alts":[]}}
   ]},
-  {"id":"e44","title":"Mua sắm nâng cao","desc":"Cỡ, giảm giá, hóa đơn, giao hàng","icon":"Sale","unit":6,"course":"en","order":980,"words":[
+  {"id":"e44","title":"Mua sắm nâng cao","desc":"Cỡ, giảm giá, hóa đơn, giao hàng","icon":"Sale","unit":6,"course":"en","order":1020,"words":[
    {"id":"e44-size","hanzi":"size","pinyin":"","vi":"cỡ, kích cỡ","ex":{"tokens":["What","size","do","you","wear","?"],"py":["","","","","","?"],"vi":"Bạn mặc cỡ nào?","alts":[]}},
    {"id":"e44-try_on","hanzi":"try on","pinyin":"","vi":"mặc thử","ex":{"tokens":["Can","I","try","on","this","shirt","?"],"py":["","","","","","","?"],"vi":"Tôi mặc thử chiếc áo này được không?","alts":[]}},
    {"id":"e44-discount","hanzi":"discount","pinyin":"","vi":"giảm giá","ex":{"tokens":["Students","get","a","discount","here","."],"py":["","","","","","."],"vi":"Học sinh được giảm giá ở đây.","alts":[]}},

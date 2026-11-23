@@ -1,6 +1,6 @@
 {
  "units": [
-  {"unit":151,"level":1,"title":"Phần 9: Mở rộng – Đồ vật và hành động quen thuộc","desc":"Đồ vật và hành động quen thuộc","color":"leaf","course":"en"}
+  {"unit":151,"level":1,"title":"Phần 9: Mở rộng – Đồ vật và hành động quen thuộc","desc":"Đồ vật và hành động quen thuộc, Con vật và thiên nhiên, Đồ ăn, đồ chơi và lớp học","color":"leaf","course":"en"}
  ],
  "lessons": [
   {"id":"y1001","title":"Đồ vật và hành động quen thuộc 1","desc":"Đồ chơi, đồ ăn vặt, con vật nhỏ, hành động","icon":"Kids","unit":151,"course":"en","order":820,"words":[
@@ -50,6 +50,69 @@
    {"id":"y1003-popsicle","hanzi":"popsicle","pinyin":"","vi":"kem que","ex":{"tokens":["I","want","a","popsicle","."],"py":["","","","","."],"vi":"Tôi muốn một cây kem que.","alts":[]}},
    {"id":"y1003-pretzel","hanzi":"pretzel","pinyin":"","vi":"bánh quy xoắn","ex":{"tokens":["She","eats","a","pretzel","."],"py":["","","","","."],"vi":"Cô bé ăn một chiếc bánh quy xoắn.","alts":[]}},
    {"id":"y1003-nugget","hanzi":"nugget","pinyin":"","vi":"miếng gà viên chiên","ex":{"tokens":["I","ate","a","chicken","nugget","."],"py":["","","","","","."],"vi":"Tôi ăn một miếng gà viên chiên.","alts":[]}}
+  ]},
+  {"id":"y1004","title":"Con vật và thiên nhiên 1","desc":"Con vật, bộ phận của con vật, cây cỏ","icon":"Animals","unit":151,"course":"en","order":850,"words":[
+   {"id":"y1004-chipmunk","hanzi":"chipmunk","pinyin":"","vi":"sóc chuột","ex":{"tokens":["The","chipmunk","eats","a","nut","."],"py":["","","","","","."],"vi":"Con sóc chuột ăn một hạt dẻ.","alts":[]}},
+   {"id":"y1004-mole","hanzi":"mole","pinyin":"","vi":"chuột chũi; nốt ruồi","ex":{"tokens":["A","mole","lives","under","the","ground","."],"py":["","","","","","","."],"vi":"Chuột chũi sống dưới đất.","alts":[]}},
+   {"id":"y1004-turkey","hanzi":"turkey","pinyin":"","vi":"gà tây","ex":{"tokens":["The","turkey","is","big","."],"py":["","","","","."],"vi":"Con gà tây to.","alts":[]}},
+   {"id":"y1004-eagle","hanzi":"eagle","pinyin":"","vi":"đại bàng","ex":{"tokens":["An","eagle","can","fly","high","."],"py":["","","","","","."],"vi":"Đại bàng có thể bay cao.","alts":[]}},
+   {"id":"y1004-toad","hanzi":"toad","pinyin":"","vi":"con cóc","ex":{"tokens":["The","toad","sits","on","a","rock","."],"py":["","","","","","","."],"vi":"Con cóc ngồi trên tảng đá.","alts":[]}},
+   {"id":"y1004-lizard","hanzi":"lizard","pinyin":"","vi":"thằn lằn","ex":{"tokens":["A","lizard","is","on","the","wall","."],"py":["","","","","","","."],"vi":"Một con thằn lằn ở trên tường.","alts":[]}},
+   {"id":"y1004-gecko","hanzi":"gecko","pinyin":"","vi":"tắc kè, thạch sùng","ex":{"tokens":["The","gecko","eats","bugs","."],"py":["","","","","."],"vi":"Con thạch sùng ăn côn trùng.","alts":[]}},
+   {"id":"y1004-chameleon","hanzi":"chameleon","pinyin":"","vi":"tắc kè hoa","ex":{"tokens":["A","chameleon","can","change","color","."],"py":["","","","","","."],"vi":"Tắc kè hoa có thể đổi màu.","alts":[]}},
+   {"id":"y1004-crocodile","hanzi":"crocodile","pinyin":"","vi":"cá sấu","ex":{"tokens":["The","crocodile","has","big","teeth","."],"py":["","","","","","."],"vi":"Con cá sấu có hàm răng to.","alts":[]}},
+   {"id":"y1004-alligator","hanzi":"alligator","pinyin":"","vi":"cá sấu Mỹ","ex":{"tokens":["An","alligator","swims","in","the","river","."],"py":["","","","","","","."],"vi":"Một con cá sấu Mỹ bơi trên sông.","alts":[]}},
+   {"id":"y1004-rhino","hanzi":"rhino","pinyin":"","vi":"tê giác","ex":{"tokens":["The","rhino","has","a","horn","."],"py":["","","","","","."],"vi":"Con tê giác có một cái sừng.","alts":[]}},
+   {"id":"y1004-koala","hanzi":"koala","pinyin":"","vi":"gấu túi koala","ex":{"tokens":["The","koala","sleeps","in","a","tree","."],"py":["","","","","","","."],"vi":"Gấu koala ngủ trên cây.","alts":[]}},
+   {"id":"y1004-gorilla","hanzi":"gorilla","pinyin":"","vi":"khỉ đột","ex":{"tokens":["The","gorilla","is","strong","."],"py":["","","","","."],"vi":"Con khỉ đột rất khỏe.","alts":[]}},
+   {"id":"y1004-chimpanzee","hanzi":"chimpanzee","pinyin":"","vi":"tinh tinh","ex":{"tokens":["The","chimpanzee","eats","a","banana","."],"py":["","","","","","."],"vi":"Con tinh tinh ăn một quả chuối.","alts":[]}}
+  ]},
+  {"id":"y1005","title":"Con vật và thiên nhiên 2","desc":"Con vật, bộ phận của con vật, cây cỏ","icon":"Animals","unit":151,"course":"en","order":860,"words":[
+   {"id":"y1005-leopard","hanzi":"leopard","pinyin":"","vi":"báo hoa mai","ex":{"tokens":["A","leopard","runs","fast","."],"py":["","","","","."],"vi":"Báo hoa mai chạy nhanh.","alts":[]}},
+   {"id":"y1005-panther","hanzi":"panther","pinyin":"","vi":"báo đen","ex":{"tokens":["The","panther","is","black","."],"py":["","","","","."],"vi":"Con báo đen màu đen.","alts":[]}},
+   {"id":"y1005-donkey","hanzi":"donkey","pinyin":"","vi":"con lừa","ex":{"tokens":["The","donkey","carries","a","bag","."],"py":["","","","","","."],"vi":"Con lừa chở một cái bao.","alts":[]}},
+   {"id":"y1005-rooster","hanzi":"rooster","pinyin":"","vi":"gà trống","ex":{"tokens":["The","rooster","wakes","me","up","."],"py":["","","","","","."],"vi":"Con gà trống đánh thức tôi.","alts":[]}},
+   {"id":"y1005-hen","hanzi":"hen","pinyin":"","vi":"gà mái","ex":{"tokens":["The","hen","has","six","eggs","."],"py":["","","","","","."],"vi":"Con gà mái có sáu quả trứng.","alts":[]}},
+   {"id":"y1005-tail","hanzi":"tail","pinyin":"","vi":"cái đuôi","ex":{"tokens":["The","dog","has","a","long","tail","."],"py":["","","","","","","."],"vi":"Con chó có cái đuôi dài.","alts":[]}},
+   {"id":"y1005-wing","hanzi":"wing","pinyin":"","vi":"cái cánh","ex":{"tokens":["The","bird","hurt","its","wing","."],"py":["","","","","","."],"vi":"Con chim bị đau cánh.","alts":[]}},
+   {"id":"y1005-fur","hanzi":"fur","pinyin":"","vi":"bộ lông (thú)","ex":{"tokens":["The","cat","has","soft","fur","."],"py":["","","","","","."],"vi":"Con mèo có bộ lông mềm.","alts":[]}},
+   {"id":"y1005-web","hanzi":"web","pinyin":"","vi":"mạng nhện; mạng","ex":{"tokens":["The","spider","makes","a","web","."],"py":["","","","","","."],"vi":"Con nhện giăng mạng.","alts":[]}},
+   {"id":"y1005-twig","hanzi":"twig","pinyin":"","vi":"cành con","ex":{"tokens":["The","bird","holds","a","twig","."],"py":["","","","","","."],"vi":"Con chim ngậm một cành con.","alts":[]}},
+   {"id":"y1005-log","hanzi":"log","pinyin":"","vi":"khúc gỗ","ex":{"tokens":["We","sit","on","a","log","."],"py":["","","","","","."],"vi":"Chúng tôi ngồi trên một khúc gỗ.","alts":[]}},
+   {"id":"y1005-acorn","hanzi":"acorn","pinyin":"","vi":"quả sồi","ex":{"tokens":["The","squirrel","finds","an","acorn","."],"py":["","","","","","."],"vi":"Con sóc tìm thấy một quả sồi.","alts":[]}},
+   {"id":"y1005-pinecone","hanzi":"pinecone","pinyin":"","vi":"quả thông","ex":{"tokens":["I","found","a","pinecone","in","the","park","."],"py":["","","","","","","","."],"vi":"Tôi nhặt được một quả thông trong công viên.","alts":[]}}
+  ]},
+  {"id":"y1006","title":"Đồ ăn, đồ chơi và lớp học 1","desc":"Đồ ăn vặt, đồ của bé, giờ học","icon":"Play","unit":151,"course":"en","order":870,"words":[
+   {"id":"y1006-cracker","hanzi":"cracker","pinyin":"","vi":"bánh quy giòn","ex":{"tokens":["I","eat","a","cracker","."],"py":["","","","","."],"vi":"Tôi ăn một chiếc bánh quy giòn.","alts":[]}},
+   {"id":"y1006-oatmeal","hanzi":"oatmeal","pinyin":"","vi":"cháo yến mạch","ex":{"tokens":["I","have","oatmeal","for","breakfast","."],"py":["","","","","","."],"vi":"Tôi ăn cháo yến mạch vào bữa sáng.","alts":[]}},
+   {"id":"y1006-pudding","hanzi":"pudding","pinyin":"","vi":"bánh pudding","ex":{"tokens":["The","pudding","is","sweet","."],"py":["","","","","."],"vi":"Bánh pudding ngọt.","alts":[]}},
+   {"id":"y1006-brownie","hanzi":"brownie","pinyin":"","vi":"bánh sô cô la nướng","ex":{"tokens":["She","made","a","brownie","."],"py":["","","","","."],"vi":"Cô ấy làm một chiếc bánh sô cô la nướng.","alts":[]}},
+   {"id":"y1006-chocolate_bar","hanzi":"chocolate bar","pinyin":"","vi":"thanh sô cô la","ex":{"tokens":["He","has","a","chocolate","bar","."],"py":["","","","","","."],"vi":"Cậu ấy có một thanh sô cô la.","alts":[]}},
+   {"id":"y1006-ice_cream_cone","hanzi":"ice cream cone","pinyin":"","vi":"kem ốc quế","ex":{"tokens":["I","want","an","ice","cream","cone","."],"py":["","","","","","","."],"vi":"Tôi muốn một cây kem ốc quế.","alts":[]}},
+   {"id":"y1006-chips","hanzi":"chips","pinyin":"","vi":"khoai tây chiên","ex":{"tokens":["We","eat","chips","and","fish","."],"py":["","","","","","."],"vi":"Chúng tôi ăn khoai tây chiên và cá.","alts":[]}},
+   {"id":"y1006-taco","hanzi":"taco","pinyin":"","vi":"bánh taco","ex":{"tokens":["I","had","a","taco","for","lunch","."],"py":["","","","","","","."],"vi":"Tôi ăn bánh taco vào bữa trưa.","alts":[]}},
+   {"id":"y1006-tricycle","hanzi":"tricycle","pinyin":"","vi":"xe đạp ba bánh","ex":{"tokens":["The","boy","rides","a","tricycle","."],"py":["","","","","","."],"vi":"Cậu bé đi xe đạp ba bánh.","alts":[]}},
+   {"id":"y1006-building_blocks","hanzi":"building blocks","pinyin":"","vi":"bộ xếp hình khối","ex":{"tokens":["The","baby","plays","with","building","blocks","."],"py":["","","","","","","."],"vi":"Em bé chơi xếp hình khối.","alts":[]}},
+   {"id":"y1006-blackboard","hanzi":"blackboard","pinyin":"","vi":"bảng đen","ex":{"tokens":["The","teacher","writes","on","the","blackboard","."],"py":["","","","","","","."],"vi":"Cô giáo viết lên bảng đen.","alts":[]}},
+   {"id":"y1006-flashcard","hanzi":"flashcard","pinyin":"","vi":"thẻ học từ","ex":{"tokens":["Look","at","the","flashcard","."],"py":["","","","","."],"vi":"Hãy nhìn vào thẻ học từ.","alts":[]}},
+   {"id":"y1006-bead","hanzi":"bead","pinyin":"","vi":"hạt cườm","ex":{"tokens":["She","has","a","red","bead","."],"py":["","","","","","."],"vi":"Cô bé có một hạt cườm đỏ.","alts":[]}},
+   {"id":"y1006-glitter","hanzi":"glitter","pinyin":"","vi":"kim tuyến","ex":{"tokens":["I","put","glitter","on","the","card","."],"py":["","","","","","","."],"vi":"Tôi rắc kim tuyến lên tấm thiệp.","alts":[]}}
+  ]},
+  {"id":"y1007","title":"Đồ ăn, đồ chơi và lớp học 2","desc":"Đồ ăn vặt, đồ của bé, giờ học","icon":"Play","unit":151,"course":"en","order":880,"words":[
+   {"id":"y1007-wand","hanzi":"wand","pinyin":"","vi":"đũa thần","ex":{"tokens":["The","fairy","has","a","wand","."],"py":["","","","","","."],"vi":"Nàng tiên có một cây đũa thần.","alts":[]}},
+   {"id":"y1007-night_light","hanzi":"night light","pinyin":"","vi":"đèn ngủ","ex":{"tokens":["My","night","light","is","blue","."],"py":["","","","","","."],"vi":"Đèn ngủ của tôi màu xanh.","alts":[]}},
+   {"id":"y1007-bib","hanzi":"bib","pinyin":"","vi":"cái yếm","ex":{"tokens":["The","baby","wears","a","bib","."],"py":["","","","","","."],"vi":"Em bé đeo yếm.","alts":[]}},
+   {"id":"y1007-potty","hanzi":"potty","pinyin":"","vi":"cái bô","ex":{"tokens":["The","potty","is","in","the","bathroom","."],"py":["","","","","","","."],"vi":"Cái bô ở trong phòng tắm.","alts":[]}},
+   {"id":"y1007-rattle","hanzi":"rattle","pinyin":"","vi":"cái lúc lắc","ex":{"tokens":["The","baby","shakes","the","rattle","."],"py":["","","","","","."],"vi":"Em bé lắc cái lúc lắc.","alts":[]}},
+   {"id":"y1007-rubber_duck","hanzi":"rubber duck","pinyin":"","vi":"vịt cao su","ex":{"tokens":["I","have","a","rubber","duck","in","the","bath","."],"py":["","","","","","","","","."],"vi":"Tôi có một con vịt cao su trong bồn tắm.","alts":[]}},
+   {"id":"y1007-storybook","hanzi":"storybook","pinyin":"","vi":"sách truyện","ex":{"tokens":["Mom","reads","a","storybook","."],"py":["","","","","."],"vi":"Mẹ đọc một cuốn sách truyện.","alts":[]}},
+   {"id":"y1007-picture_book","hanzi":"picture book","pinyin":"","vi":"sách tranh","ex":{"tokens":["This","picture","book","is","fun","."],"py":["","","","","","."],"vi":"Cuốn sách tranh này rất vui.","alts":[]}},
+   {"id":"y1007-coloring_book","hanzi":"coloring book","pinyin":"","vi":"sách tô màu","ex":{"tokens":["I","have","a","new","coloring","book","."],"py":["","","","","","","."],"vi":"Tôi có một cuốn sách tô màu mới.","alts":[]}},
+   {"id":"y1007-nap_time","hanzi":"nap time","pinyin":"","vi":"giờ ngủ trưa","ex":{"tokens":["It","is","nap","time","now","."],"py":["","","","","","."],"vi":"Bây giờ là giờ ngủ trưa.","alts":[]}},
+   {"id":"y1007-snack_time","hanzi":"snack time","pinyin":"","vi":"giờ ăn nhẹ","ex":{"tokens":["We","eat","fruit","at","snack","time","."],"py":["","","","","","","."],"vi":"Chúng tôi ăn trái cây vào giờ ăn nhẹ.","alts":[]}},
+   {"id":"y1007-playtime","hanzi":"playtime","pinyin":"","vi":"giờ chơi","ex":{"tokens":["Playtime","is","after","lunch","."],"py":["","","","","."],"vi":"Giờ chơi là sau bữa trưa.","alts":[]}},
+   {"id":"y1007-recess","hanzi":"recess","pinyin":"","vi":"giờ ra chơi","ex":{"tokens":["We","run","at","recess","."],"py":["","","","","."],"vi":"Chúng tôi chạy nhảy vào giờ ra chơi.","alts":[]}},
+   {"id":"y1007-show_and_tell","hanzi":"show-and-tell","pinyin":"","vi":"giờ mang đồ đến lớp và kể chuyện","ex":{"tokens":["I","took","my","shell","to","show-and-tell","."],"py":["","","","","","","."],"vi":"Tôi mang vỏ sò đến giờ kể chuyện ở lớp.","alts":[]}}
   ]}
  ]
 }

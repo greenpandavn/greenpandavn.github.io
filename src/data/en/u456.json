@@ -1,9 +1,9 @@
 {
  "units": [
-  {"unit":456,"level":4,"title":"Phần 43: Mở rộng – Giáo dục và học thuật","desc":"Giáo dục và học thuật, Công nghệ và máy tính, Cụm động từ thông dụng","color":"leaf","course":"en"}
+  {"unit":456,"level":4,"title":"Phần 44: Mở rộng – Giáo dục và học thuật","desc":"Giáo dục và học thuật, Công nghệ và máy tính, Cụm động từ thông dụng","color":"leaf","course":"en"}
  ],
  "lessons": [
-  {"id":"y4101","title":"Giáo dục và học thuật 3","desc":"Trường học, bằng cấp, thi cử, nghiên cứu","icon":"Campus","unit":456,"course":"en","order":4730,"words":[
+  {"id":"y4101","title":"Giáo dục và học thuật 3","desc":"Trường học, bằng cấp, thi cử, nghiên cứu","icon":"Campus","unit":456,"course":"en","order":4860,"words":[
    {"id":"y4101-vocational_school","hanzi":"vocational school","pinyin":"","vi":"trường dạy nghề","ex":{"tokens":["He","learned","cooking","at","a","vocational","school","."],"py":["","","","","","","","."],"vi":"Anh ấy học nấu ăn ở trường dạy nghề.","alts":[]}},
    {"id":"y4101-boarding_school","hanzi":"boarding school","pinyin":"","vi":"trường nội trú","ex":{"tokens":["They","sent","their","son","to","a","boarding","school","."],"py":["","","","","","","","","."],"vi":"Họ gửi con trai vào trường nội trú.","alts":[]}},
    {"id":"y4101-nursery","hanzi":"nursery","pinyin":"","vi":"nhà trẻ; vườn ươm","ex":{"tokens":["Her","daughter","goes","to","nursery","."],"py":["","","","","","."],"vi":"Con gái cô ấy đi nhà trẻ.","alts":[]}},
@@ -17,7 +17,7 @@
    {"id":"y4101-cram","hanzi":"cram","pinyin":"","vi":"học nhồi nhét","ex":{"tokens":["Do","not","cram","the","night","before","the","test","."],"py":["","","","","","","","","."],"vi":"Đừng học nhồi vào đêm trước bài kiểm tra.","alts":[]}},
    {"id":"y4101-plagiarize","hanzi":"plagiarize","pinyin":"","vi":"đạo văn","ex":{"tokens":["Students","must","not","plagiarize","."],"py":["","","","","."],"vi":"Sinh viên không được đạo văn.","alts":[]}}
   ]},
-  {"id":"y4102","title":"Giáo dục và học thuật 4","desc":"Trường học, bằng cấp, thi cử, nghiên cứu","icon":"Campus","unit":456,"course":"en","order":4740,"words":[
+  {"id":"y4102","title":"Giáo dục và học thuật 4","desc":"Trường học, bằng cấp, thi cử, nghiên cứu","icon":"Campus","unit":456,"course":"en","order":4870,"words":[
    {"id":"y4102-cheat_sheet","hanzi":"cheat sheet","pinyin":"","vi":"phao thi; bảng tóm tắt nhanh","ex":{"tokens":["He","hid","a","cheat","sheet","in","his","sleeve","."],"py":["","","","","","","","","."],"vi":"Cậu ấy giấu phao thi trong tay áo.","alts":[]}},
    {"id":"y4102-grade_point_average","hanzi":"grade point average","pinyin":"","vi":"điểm trung bình tích lũy","ex":{"tokens":["Her","grade","point","average","is","very","high","."],"py":["","","","","","","","."],"vi":"Điểm trung bình tích lũy của cô ấy rất cao.","alts":[]}},
    {"id":"y4102-valedictorian","hanzi":"valedictorian","pinyin":"","vi":"thủ khoa tốt nghiệp","ex":{"tokens":["The","valedictorian","gave","a","speech","."],"py":["","","","","","."],"vi":"Thủ khoa tốt nghiệp có bài phát biểu.","alts":[]}},
@@ -31,7 +31,7 @@
    {"id":"y4102-field_trip","hanzi":"field trip","pinyin":"","vi":"chuyến đi thực tế","ex":{"tokens":["The","class","went","on","a","field","trip","to","a","farm","."],"py":["","","","","","","","","","","."],"vi":"Cả lớp đi thực tế ở một trang trại.","alts":[]}},
    {"id":"y4102-lab_report","hanzi":"lab report","pinyin":"","vi":"báo cáo thí nghiệm","ex":{"tokens":["The","lab","report","is","due","on","Monday","."],"py":["","","","","","","","."],"vi":"Báo cáo thí nghiệm phải nộp vào thứ Hai.","alts":[]}}
   ]},
-  {"id":"y4103","title":"Giáo dục và học thuật 5","desc":"Trường học, bằng cấp, thi cử, nghiên cứu","icon":"Campus","unit":456,"course":"en","order":4750,"words":[
+  {"id":"y4103","title":"Giáo dục và học thuật 5","desc":"Trường học, bằng cấp, thi cử, nghiên cứu","icon":"Campus","unit":456,"course":"en","order":4880,"words":[
    {"id":"y4103-sample_size","hanzi":"sample size","pinyin":"","vi":"cỡ mẫu","ex":{"tokens":["The","sample","size","is","too","small","."],"py":["","","","","","","."],"vi":"Cỡ mẫu quá nhỏ.","alts":[]}},
    {"id":"y4103-control_group","hanzi":"control group","pinyin":"","vi":"nhóm đối chứng","ex":{"tokens":["The","control","group","took","no","medicine","."],"py":["","","","","","","."],"vi":"Nhóm đối chứng không uống thuốc.","alts":[]}},
    {"id":"y4103-findings","hanzi":"findings","pinyin":"","vi":"kết quả nghiên cứu","ex":{"tokens":["The","findings","surprised","the","researchers","."],"py":["","","","","","."],"vi":"Kết quả nghiên cứu làm các nhà nghiên cứu ngạc nhiên.","alts":[]}},
@@ -45,7 +45,7 @@
    {"id":"y4103-journal_article","hanzi":"journal article","pinyin":"","vi":"bài báo khoa học","ex":{"tokens":["He","published","a","journal","article","last","year","."],"py":["","","","","","","","."],"vi":"Năm ngoái anh ấy đăng một bài báo khoa học.","alts":[]}},
    {"id":"y4103-continuous_assessment","hanzi":"continuous assessment","pinyin":"","vi":"đánh giá thường xuyên","ex":{"tokens":["The","course","uses","continuous","assessment","instead","of","exams","."],"py":["","","","","","","","","."],"vi":"Khóa học dùng đánh giá thường xuyên thay cho thi.","alts":[]}}
   ]},
-  {"id":"y4104","title":"Công nghệ và máy tính 1","desc":"Phần cứng, bảo mật, phần mềm, xu hướng mới","icon":"Tech","unit":456,"course":"en","order":4760,"words":[
+  {"id":"y4104","title":"Công nghệ và máy tính 1","desc":"Phần cứng, bảo mật, phần mềm, xu hướng mới","icon":"Tech","unit":456,"course":"en","order":4890,"words":[
    {"id":"y4104-operating_system","hanzi":"operating system","pinyin":"","vi":"hệ điều hành","ex":{"tokens":["Which","operating","system","do","you","use","?"],"py":["","","","","","","?"],"vi":"Bạn dùng hệ điều hành nào?","alts":[]}},
    {"id":"y4104-processor","hanzi":"processor","pinyin":"","vi":"bộ vi xử lý","ex":{"tokens":["This","laptop","has","a","fast","processor","."],"py":["","","","","","","."],"vi":"Máy tính xách tay này có bộ vi xử lý nhanh.","alts":[]}},
    {"id":"y4104-motherboard","hanzi":"motherboard","pinyin":"","vi":"bo mạch chủ","ex":{"tokens":["The","motherboard","needs","to","be","replaced","."],"py":["","","","","","","."],"vi":"Bo mạch chủ cần được thay.","alts":[]}},
@@ -61,7 +61,7 @@
    {"id":"y4104-power_bank","hanzi":"power bank","pinyin":"","vi":"sạc dự phòng","ex":{"tokens":["Bring","a","power","bank","on","the","trip","."],"py":["","","","","","","","."],"vi":"Hãy mang sạc dự phòng trong chuyến đi.","alts":[]}},
    {"id":"y4104-broadband","hanzi":"broadband","pinyin":"","vi":"băng thông rộng","ex":{"tokens":["The","village","now","has","broadband","."],"py":["","","","","","."],"vi":"Ngôi làng giờ đã có mạng băng thông rộng.","alts":[]}}
   ]},
-  {"id":"y4105","title":"Công nghệ và máy tính 2","desc":"Phần cứng, bảo mật, phần mềm, xu hướng mới","icon":"Tech","unit":456,"course":"en","order":4770,"words":[
+  {"id":"y4105","title":"Công nghệ và máy tính 2","desc":"Phần cứng, bảo mật, phần mềm, xu hướng mới","icon":"Tech","unit":456,"course":"en","order":4900,"words":[
    {"id":"y4105-hotspot","hanzi":"hotspot","pinyin":"","vi":"điểm phát sóng; điểm nóng","ex":{"tokens":["I","used","my","phone","as","a","hotspot","."],"py":["","","","","","","","."],"vi":"Tôi dùng điện thoại làm điểm phát sóng.","alts":[]}},
    {"id":"y4105-antivirus","hanzi":"antivirus","pinyin":"","vi":"phần mềm diệt vi-rút","ex":{"tokens":["Update","your","antivirus","regularly","."],"py":["","","","","."],"vi":"Hãy cập nhật phần mềm diệt vi-rút thường xuyên.","alts":[]}},
    {"id":"y4105-spyware","hanzi":"spyware","pinyin":"","vi":"phần mềm gián điệp","ex":{"tokens":["Spyware","recorded","everything","he","typed","."],"py":["","","","","","."],"vi":"Phần mềm gián điệp ghi lại mọi thứ anh ấy gõ.","alts":[]}},
@@ -77,7 +77,7 @@
    {"id":"y4105-bookmark","hanzi":"bookmark","pinyin":"","vi":"dấu trang; đánh dấu trang","ex":{"tokens":["Bookmark","this","page","for","later","."],"py":["","","","","","."],"vi":"Hãy đánh dấu trang này để xem sau.","alts":[]}},
    {"id":"y4105-extension","hanzi":"extension","pinyin":"","vi":"tiện ích mở rộng; sự gia hạn","ex":{"tokens":["This","browser","extension","blocks","ads","."],"py":["","","","","","."],"vi":"Tiện ích mở rộng này chặn quảng cáo.","alts":[]}}
   ]},
-  {"id":"y4106","title":"Công nghệ và máy tính 3","desc":"Phần cứng, bảo mật, phần mềm, xu hướng mới","icon":"Tech","unit":456,"course":"en","order":4780,"words":[
+  {"id":"y4106","title":"Công nghệ và máy tính 3","desc":"Phần cứng, bảo mật, phần mềm, xu hướng mới","icon":"Tech","unit":456,"course":"en","order":4910,"words":[
    {"id":"y4106-toolbar","hanzi":"toolbar","pinyin":"","vi":"thanh công cụ","ex":{"tokens":["Click","the","print","icon","on","the","toolbar","."],"py":["","","","","","","","."],"vi":"Hãy bấm biểu tượng in trên thanh công cụ.","alts":[]}},
    {"id":"y4106-scroll_bar","hanzi":"scroll bar","pinyin":"","vi":"thanh cuộn","ex":{"tokens":["Drag","the","scroll","bar","down","."],"py":["","","","","","."],"vi":"Hãy kéo thanh cuộn xuống.","alts":[]}},
    {"id":"y4106-drag_and_drop","hanzi":"drag and drop","pinyin":"","vi":"kéo và thả","ex":{"tokens":["You","can","drag","and","drop","files","into","the","folder","."],"py":["","","","","","","","","","."],"vi":"Bạn có thể kéo và thả tệp vào thư mục.","alts":[]}},
@@ -93,7 +93,7 @@
    {"id":"y4106-wearable","hanzi":"wearable","pinyin":"","vi":"thiết bị đeo; có thể đeo","ex":{"tokens":["This","wearable","counts","your","steps","."],"py":["","","","","","."],"vi":"Thiết bị đeo này đếm số bước chân của bạn.","alts":[]}},
    {"id":"y4106-3d_printer","hanzi":"3D printer","pinyin":"","vi":"máy in 3D","ex":{"tokens":["The","school","bought","a","3D","printer","."],"py":["","","","","","","."],"vi":"Trường mua một chiếc máy in 3D.","alts":[]}}
   ]},
-  {"id":"y4107","title":"Công nghệ và máy tính 4","desc":"Phần cứng, bảo mật, phần mềm, xu hướng mới","icon":"Tech","unit":456,"course":"en","order":4790,"words":[
+  {"id":"y4107","title":"Công nghệ và máy tính 4","desc":"Phần cứng, bảo mật, phần mềm, xu hướng mới","icon":"Tech","unit":456,"course":"en","order":4920,"words":[
    {"id":"y4107-self_driving_car","hanzi":"self-driving car","pinyin":"","vi":"xe tự lái","ex":{"tokens":["A","self-driving","car","needs","many","sensors","."],"py":["","","","","","","."],"vi":"Xe tự lái cần nhiều cảm biến.","alts":[]}},
    {"id":"y4107-big_data","hanzi":"big data","pinyin":"","vi":"dữ liệu lớn","ex":{"tokens":["Shops","use","big","data","to","study","customers","."],"py":["","","","","","","","."],"vi":"Các cửa hàng dùng dữ liệu lớn để nghiên cứu khách hàng.","alts":[]}},
    {"id":"y4107-pixel","hanzi":"pixel","pinyin":"","vi":"điểm ảnh","ex":{"tokens":["Each","pixel","has","its","own","color","."],"py":["","","","","","","."],"vi":"Mỗi điểm ảnh có màu riêng.","alts":[]}},
@@ -109,7 +109,7 @@
    {"id":"y4107-menu_bar","hanzi":"menu bar","pinyin":"","vi":"thanh trình đơn","ex":{"tokens":["The","menu","bar","is","at","the","top","of","the","screen","."],"py":["","","","","","","","","","","."],"vi":"Thanh trình đơn nằm ở đầu màn hình.","alts":[]}},
    {"id":"y4107-internet_of_things","hanzi":"Internet of Things","pinyin":"","vi":"Internet vạn vật","ex":{"tokens":["The","Internet","of","Things","connects","home","devices","."],"py":["","","","","","","","."],"vi":"Internet vạn vật kết nối các thiết bị trong nhà.","alts":[]}}
   ]},
-  {"id":"y4108","title":"Cụm động từ thông dụng 1","desc":"Cụm động từ thường gặp trong giao tiếp và báo chí","icon":"Phrasal","unit":456,"course":"en","order":4800,"words":[
+  {"id":"y4108","title":"Cụm động từ thông dụng 1","desc":"Cụm động từ thường gặp trong giao tiếp và báo chí","icon":"Phrasal","unit":456,"course":"en","order":4930,"words":[
    {"id":"y4108-act_up","hanzi":"act up","pinyin":"","vi":"trục trặc; quậy phá","ex":{"tokens":["My","phone","began","to","act","up","again","."],"py":["","","","","","","","."],"vi":"Điện thoại của tôi lại bắt đầu trục trặc.","alts":[]}},
    {"id":"y4108-add_up","hanzi":"add up","pinyin":"","vi":"cộng lại; hợp lý","ex":{"tokens":["His","story","does","not","add","up","."],"py":["","","","","","","."],"vi":"Câu chuyện của anh ta không hợp lý.","alts":[]}},
    {"id":"y4108-back_down","hanzi":"back down","pinyin":"","vi":"nhượng bộ, lùi bước","ex":{"tokens":["Neither","side","will","back","down","."],"py":["","","","","","."],"vi":"Không bên nào chịu lùi bước.","alts":[]}},
@@ -124,7 +124,7 @@
    {"id":"y4108-break_off","hanzi":"break off","pinyin":"","vi":"cắt đứt, bẻ ra","ex":{"tokens":["They","decided","to","break","off","the","talks","."],"py":["","","","","","","","."],"vi":"Họ quyết định cắt đứt cuộc đàm phán.","alts":[]}},
    {"id":"y4108-break_out","hanzi":"break out","pinyin":"","vi":"bùng nổ, nổ ra","ex":{"tokens":["A","fire","may","break","out","at","any","time","."],"py":["","","","","","","","","."],"vi":"Hỏa hoạn có thể bùng lên bất cứ lúc nào.","alts":[]}}
   ]},
-  {"id":"y4109","title":"Cụm động từ thông dụng 2","desc":"Cụm động từ thường gặp trong giao tiếp và báo chí","icon":"Phrasal","unit":456,"course":"en","order":4810,"words":[
+  {"id":"y4109","title":"Cụm động từ thông dụng 2","desc":"Cụm động từ thường gặp trong giao tiếp và báo chí","icon":"Phrasal","unit":456,"course":"en","order":4940,"words":[
    {"id":"y4109-bring_forward","hanzi":"bring forward","pinyin":"","vi":"dời lên sớm hơn","ex":{"tokens":["We","must","bring","forward","the","meeting","."],"py":["","","","","","","."],"vi":"Chúng ta phải dời cuộc họp lên sớm hơn.","alts":[]}},
    {"id":"y4109-bring_round","hanzi":"bring round","pinyin":"","vi":"thuyết phục; làm tỉnh lại","ex":{"tokens":["I","will","try","to","bring","round","my","father","."],"py":["","","","","","","","","."],"vi":"Tôi sẽ cố thuyết phục bố tôi.","alts":[]}},
    {"id":"y4109-build_up","hanzi":"build up","pinyin":"","vi":"tích tụ, gây dựng","ex":{"tokens":["You","need","to","build","up","your","strength","."],"py":["","","","","","","","."],"vi":"Bạn cần gây dựng lại sức lực.","alts":[]}},
@@ -139,7 +139,7 @@
    {"id":"y4109-clamp_down_on","hanzi":"clamp down on","pinyin":"","vi":"siết chặt, trấn áp","ex":{"tokens":["Police","will","clamp","down","on","drunk","driving","."],"py":["","","","","","","","."],"vi":"Cảnh sát sẽ siết chặt việc lái xe khi say rượu.","alts":[]}},
    {"id":"y4109-close_down","hanzi":"close down","pinyin":"","vi":"đóng cửa hẳn","ex":{"tokens":["The","factory","will","close","down","in","May","."],"py":["","","","","","","","."],"vi":"Nhà máy sẽ đóng cửa hẳn vào tháng Năm.","alts":[]}}
   ]},
-  {"id":"y4110","title":"Cụm động từ thông dụng 3","desc":"Cụm động từ thường gặp trong giao tiếp và báo chí","icon":"Phrasal","unit":456,"course":"en","order":4820,"words":[
+  {"id":"y4110","title":"Cụm động từ thông dụng 3","desc":"Cụm động từ thường gặp trong giao tiếp và báo chí","icon":"Phrasal","unit":456,"course":"en","order":4950,"words":[
    {"id":"y4110-come_about","hanzi":"come about","pinyin":"","vi":"xảy ra","ex":{"tokens":["How","did","the","change","come","about","?"],"py":["","","","","","","?"],"vi":"Sự thay đổi đó đã xảy ra như thế nào?","alts":[]}},
    {"id":"y4110-come_along","hanzi":"come along","pinyin":"","vi":"đi cùng; tiến triển","ex":{"tokens":["You","can","come","along","if","you","like","."],"py":["","","","","","","","."],"vi":"Bạn có thể đi cùng nếu thích.","alts":[]}},
    {"id":"y4110-come_by","hanzi":"come by","pinyin":"","vi":"kiếm được; ghé qua","ex":{"tokens":["Good","jobs","are","hard","to","come","by","."],"py":["","","","","","","","."],"vi":"Việc tốt khó kiếm lắm.","alts":[]}},

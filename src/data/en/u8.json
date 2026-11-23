@@ -3,7 +3,7 @@
   {"unit":8,"level":2,"title":"Phần 13: Diễn đạt ý kiến","desc":"Ý kiến, từ nối, trải nghiệm, giao tiếp, xã hội, mục tiêu","color":"coral","course":"en"}
  ],
  "lessons": [
-  {"id":"e52","title":"Ý kiến","desc":"Đồng ý, tin, lý do, quan trọng","icon":"Idea","unit":8,"course":"en","order":1060,"words":[
+  {"id":"e52","title":"Ý kiến","desc":"Đồng ý, tin, lý do, quan trọng","icon":"Idea","unit":8,"course":"en","order":1100,"words":[
    {"id":"e52-agree","hanzi":"agree","pinyin":"","vi":"đồng ý","ex":{"tokens":["I","agree","with","you","."],"py":["","","","","."],"vi":"Tôi đồng ý với bạn.","alts":[]}},
    {"id":"e52-disagree","hanzi":"disagree","pinyin":"","vi":"không đồng ý","ex":{"tokens":["We","sometimes","disagree","about","music","."],"py":["","","","","","."],"vi":"Đôi khi chúng tôi bất đồng về âm nhạc.","alts":[]}},
    {"id":"e52-opinion","hanzi":"opinion","pinyin":"","vi":"ý kiến","ex":{"tokens":["What","is","your","opinion","?"],"py":["","","","","?"],"vi":"Ý kiến của bạn là gì?","alts":[]}},
@@ -17,7 +17,7 @@
    {"id":"e52-interesting","hanzi":"interesting","pinyin":"","vi":"thú vị","ex":{"tokens":["This","is","an","interesting","book","."],"py":["","","","","","."],"vi":"Đây là một cuốn sách thú vị.","alts":[]}},
    {"id":"e52-prefer","hanzi":"prefer","pinyin":"","vi":"thích hơn","ex":{"tokens":["I","prefer","tea","to","coffee","."],"py":["","","","","","."],"vi":"Tôi thích trà hơn cà phê.","alts":[]}}
   ]},
-  {"id":"e53","title":"Từ nối","desc":"Although, however, so, if, while","icon":"If","unit":8,"course":"en","order":1070,"words":[
+  {"id":"e53","title":"Từ nối","desc":"Although, however, so, if, while","icon":"If","unit":8,"course":"en","order":1110,"words":[
    {"id":"e53-although","hanzi":"although","pinyin":"","vi":"mặc dù","ex":{"tokens":["Although","it","rained",",","we","went","out","."],"py":["","","",",","","","","."],"vi":"Mặc dù trời mưa, chúng tôi vẫn ra ngoài.","alts":[]}},
    {"id":"e53-however","hanzi":"however","pinyin":"","vi":"tuy nhiên","ex":{"tokens":["He","is","rich",".","However",",","he","is","not","happy","."],"py":["","","",".","",",","","","","","."],"vi":"Anh ấy giàu. Tuy nhiên, anh ấy không hạnh phúc.","alts":[]}},
    {"id":"e53-so","hanzi":"so","pinyin":"","vi":"vì vậy; rất","ex":{"tokens":["I","was","tired",",","so","I","went","to","bed","."],"py":["","","",",","","","","","","."],"vi":"Tôi mệt nên đã đi ngủ.","alts":[]}},
@@ -31,7 +31,7 @@
    {"id":"e53-either","hanzi":"either","pinyin":"","vi":"một trong hai; cũng (không)","ex":{"tokens":["You","can","take","either","bus","."],"py":["","","","","","."],"vi":"Bạn có thể đi một trong hai xe buýt.","alts":[]}},
    {"id":"e53-neither","hanzi":"neither","pinyin":"","vi":"không ... nào (trong hai)","ex":{"tokens":["Neither","answer","is","right","."],"py":["","","","","."],"vi":"Không câu trả lời nào đúng.","alts":[]}}
   ]},
-  {"id":"e54","title":"Trải nghiệm","desc":"Ever, been, done, bắt đầu, thay đổi","icon":"Ever","unit":8,"course":"en","order":1080,"words":[
+  {"id":"e54","title":"Trải nghiệm","desc":"Ever, been, done, bắt đầu, thay đổi","icon":"Ever","unit":8,"course":"en","order":1120,"words":[
    {"id":"e54-ever","hanzi":"ever","pinyin":"","vi":"đã từng, bao giờ","ex":{"tokens":["Have","you","ever","seen","snow","?"],"py":["","","","","","?"],"vi":"Bạn đã bao giờ thấy tuyết chưa?","alts":[]}},
    {"id":"e54-been","hanzi":"been","pinyin":"","vi":"đã ở, đã đến (phân từ của be)","ex":{"tokens":["I","have","been","to","Hanoi","twice","."],"py":["","","","","","","."],"vi":"Tôi đã đến Hà Nội hai lần.","alts":[]}},
    {"id":"e54-done","hanzi":"done","pinyin":"","vi":"đã làm xong (phân từ của do)","ex":{"tokens":["Have","you","done","your","homework","?"],"py":["","","","","","?"],"vi":"Bạn đã làm xong bài tập chưa?","alts":[]}},
@@ -45,7 +45,7 @@
    {"id":"e54-become","hanzi":"become","pinyin":"","vi":"trở thành","ex":{"tokens":["He","wants","to","become","a","pilot","."],"py":["","","","","","","."],"vi":"Anh ấy muốn trở thành phi công.","alts":[]}},
    {"id":"e54-happen","hanzi":"happen","pinyin":"","vi":"xảy ra","ex":{"tokens":["What","will","happen","next","?"],"py":["","","","","?"],"vi":"Điều gì sẽ xảy ra tiếp theo?","alts":[]}}
   ]},
-  {"id":"e55","title":"Giao tiếp","desc":"Trò chuyện, thảo luận, mời, xin lỗi","icon":"Talk","unit":8,"course":"en","order":1090,"words":[
+  {"id":"e55","title":"Giao tiếp","desc":"Trò chuyện, thảo luận, mời, xin lỗi","icon":"Talk","unit":8,"course":"en","order":1130,"words":[
    {"id":"e55-conversation","hanzi":"conversation","pinyin":"","vi":"cuộc trò chuyện","ex":{"tokens":["We","had","a","long","conversation","."],"py":["","","","","","."],"vi":"Chúng tôi đã có một cuộc trò chuyện dài.","alts":[]}},
    {"id":"e55-discuss","hanzi":"discuss","pinyin":"","vi":"thảo luận","ex":{"tokens":["Let","us","discuss","the","plan","."],"py":["","","","","","."],"vi":"Chúng ta hãy thảo luận kế hoạch.","alts":[]}},
    {"id":"e55-describe","hanzi":"describe","pinyin":"","vi":"miêu tả","ex":{"tokens":["Can","you","describe","your","house","?"],"py":["","","","","","?"],"vi":"Bạn miêu tả ngôi nhà của bạn được không?","alts":[]}},
@@ -59,7 +59,7 @@
    {"id":"e55-translate","hanzi":"translate","pinyin":"","vi":"dịch","ex":{"tokens":["Can","you","translate","this","sentence","?"],"py":["","","","","","?"],"vi":"Bạn dịch câu này được không?","alts":[]}},
    {"id":"e55-language","hanzi":"language","pinyin":"","vi":"ngôn ngữ","ex":{"tokens":["English","is","a","useful","language","."],"py":["","","","","","."],"vi":"Tiếng Anh là một ngôn ngữ hữu ích.","alts":[]}}
   ]},
-  {"id":"e56","title":"Xã hội","desc":"Chính phủ, luật, tin tức, văn hóa","icon":"News","unit":8,"course":"en","order":1100,"words":[
+  {"id":"e56","title":"Xã hội","desc":"Chính phủ, luật, tin tức, văn hóa","icon":"News","unit":8,"course":"en","order":1140,"words":[
    {"id":"e56-government","hanzi":"government","pinyin":"","vi":"chính phủ","ex":{"tokens":["The","government","built","a","new","road","."],"py":["","","","","","","."],"vi":"Chính phủ đã xây một con đường mới.","alts":[]}},
    {"id":"e56-law","hanzi":"law","pinyin":"","vi":"luật, pháp luật","ex":{"tokens":["Everyone","must","follow","the","law","."],"py":["","","","","","."],"vi":"Mọi người phải tuân theo pháp luật.","alts":[]}},
    {"id":"e56-news","hanzi":"news","pinyin":"","vi":"tin tức","ex":{"tokens":["I","watch","the","news","every","evening","."],"py":["","","","","","","."],"vi":"Tối nào tôi cũng xem tin tức.","alts":[]}},
@@ -73,7 +73,7 @@
    {"id":"e56-problem","hanzi":"problem","pinyin":"","vi":"vấn đề","ex":{"tokens":["We","can","solve","this","problem","."],"py":["","","","","","."],"vi":"Chúng ta có thể giải quyết vấn đề này.","alts":[]}},
    {"id":"e56-world","hanzi":"world","pinyin":"","vi":"thế giới","ex":{"tokens":["English","is","spoken","all","over","the","world","."],"py":["","","","","","","","."],"vi":"Tiếng Anh được nói trên khắp thế giới.","alts":[]}}
   ]},
-  {"id":"e57","title":"Tiền bạc","desc":"Kiếm, tiêu, vay, thuê","icon":"Pay","unit":8,"course":"en","order":1110,"words":[
+  {"id":"e57","title":"Tiền bạc","desc":"Kiếm, tiêu, vay, thuê","icon":"Pay","unit":8,"course":"en","order":1150,"words":[
    {"id":"e57-earn","hanzi":"earn","pinyin":"","vi":"kiếm (tiền)","ex":{"tokens":["I","want","to","earn","more","money","."],"py":["","","","","","","."],"vi":"Tôi muốn kiếm nhiều tiền hơn.","alts":[]}},
    {"id":"e57-spend","hanzi":"spend","pinyin":"","vi":"tiêu (tiền), dành (thời gian)","ex":{"tokens":["I","spend","too","much","on","clothes","."],"py":["","","","","","","."],"vi":"Tôi tiêu quá nhiều tiền vào quần áo.","alts":[]}},
    {"id":"e57-borrow","hanzi":"borrow","pinyin":"","vi":"vay, mượn","ex":{"tokens":["Can","I","borrow","your","pen","?"],"py":["","","","","","?"],"vi":"Tôi mượn bút của bạn được không?","alts":[]}},
@@ -87,7 +87,7 @@
    {"id":"e57-free","hanzi":"free","pinyin":"","vi":"miễn phí; rảnh, tự do","ex":{"tokens":["The","museum","is","free","on","Sunday","."],"py":["","","","","","","."],"vi":"Bảo tàng miễn phí vào Chủ nhật.","alts":[]}},
    {"id":"e57-own","hanzi":"own","pinyin":"","vi":"của riêng; sở hữu","ex":{"tokens":["I","have","my","own","room","."],"py":["","","","","","."],"vi":"Tôi có phòng riêng.","alts":[]}}
   ]},
-  {"id":"e58","title":"Mục tiêu","desc":"Ước mơ, thành công, cố gắng, cải thiện","icon":"Goal","unit":8,"course":"en","order":1120,"words":[
+  {"id":"e58","title":"Mục tiêu","desc":"Ước mơ, thành công, cố gắng, cải thiện","icon":"Goal","unit":8,"course":"en","order":1160,"words":[
    {"id":"e58-dream","hanzi":"dream","pinyin":"","vi":"giấc mơ, ước mơ","ex":{"tokens":["My","dream","is","to","travel","the","world","."],"py":["","","","","","","","."],"vi":"Ước mơ của tôi là du lịch khắp thế giới.","alts":[]}},
    {"id":"e58-goal","hanzi":"goal","pinyin":"","vi":"mục tiêu","ex":{"tokens":["My","goal","is","to","speak","English","well","."],"py":["","","","","","","","."],"vi":"Mục tiêu của tôi là nói tiếng Anh giỏi.","alts":[]}},
    {"id":"e58-success","hanzi":"success","pinyin":"","vi":"sự thành công","ex":{"tokens":["Hard","work","brings","success","."],"py":["","","","","."],"vi":"Làm việc chăm chỉ mang lại thành công.","alts":[]}},

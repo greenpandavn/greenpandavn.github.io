@@ -3,7 +3,7 @@
   {"unit":7,"level":2,"title":"Phần 12: Thế giới hiện đại","desc":"Công nghệ, học tập, thiên nhiên, giải trí, thể thao","color":"grape","course":"en"}
  ],
  "lessons": [
-  {"id":"e45","title":"Công nghệ 1","desc":"Máy tính, internet, mật khẩu, tải xuống","icon":"Web","unit":7,"course":"en","order":990,"words":[
+  {"id":"e45","title":"Công nghệ 1","desc":"Máy tính, internet, mật khẩu, tải xuống","icon":"Web","unit":7,"course":"en","order":1030,"words":[
    {"id":"e45-computer","hanzi":"computer","pinyin":"","vi":"máy tính","ex":{"tokens":["I","use","a","computer","at","work","."],"py":["","","","","","","."],"vi":"Tôi dùng máy tính ở chỗ làm.","alts":[]}},
    {"id":"e45-internet","hanzi":"internet","pinyin":"","vi":"mạng internet","ex":{"tokens":["The","internet","is","slow","today","."],"py":["","","","","","."],"vi":"Hôm nay mạng internet chậm.","alts":[]}},
    {"id":"e45-email","hanzi":"email","pinyin":"","vi":"thư điện tử","ex":{"tokens":["I","will","send","you","an","email","."],"py":["","","","","","","."],"vi":"Tôi sẽ gửi thư điện tử cho bạn.","alts":[]}},
@@ -17,7 +17,7 @@
    {"id":"e45-app","hanzi":"app","pinyin":"","vi":"ứng dụng","ex":{"tokens":["This","app","helps","me","learn","English","."],"py":["","","","","","","."],"vi":"Ứng dụng này giúp tôi học tiếng Anh.","alts":[]}},
    {"id":"e45-charge","hanzi":"charge","pinyin":"","vi":"sạc (pin); tính tiền","ex":{"tokens":["I","need","to","charge","my","phone","."],"py":["","","","","","","."],"vi":"Tôi cần sạc điện thoại.","alts":[]}}
   ]},
-  {"id":"e46","title":"Học tập","desc":"Đại học, kỳ thi, điểm, môn học","icon":"A+","unit":7,"course":"en","order":1000,"words":[
+  {"id":"e46","title":"Học tập","desc":"Đại học, kỳ thi, điểm, môn học","icon":"A+","unit":7,"course":"en","order":1040,"words":[
    {"id":"e46-university","hanzi":"university","pinyin":"","vi":"trường đại học","ex":{"tokens":["My","sister","studies","at","a","university","."],"py":["","","","","","","."],"vi":"Chị tôi học ở một trường đại học.","alts":[]}},
    {"id":"e46-exam","hanzi":"exam","pinyin":"","vi":"kỳ thi","ex":{"tokens":["The","exam","starts","at","eight","."],"py":["","","","","","."],"vi":"Kỳ thi bắt đầu lúc tám giờ.","alts":[]}},
    {"id":"e46-grade","hanzi":"grade","pinyin":"","vi":"điểm; lớp (khối)","ex":{"tokens":["He","got","a","good","grade","in","English","."],"py":["","","","","","","","."],"vi":"Cậu ấy được điểm cao môn tiếng Anh.","alts":[]}},
@@ -31,7 +31,7 @@
    {"id":"e46-explain","hanzi":"explain","pinyin":"","vi":"giải thích","ex":{"tokens":["Can","you","explain","this","word","?"],"py":["","","","","","?"],"vi":"Bạn giải thích từ này được không?","alts":[]}},
    {"id":"e46-remember","hanzi":"remember","pinyin":"","vi":"nhớ","ex":{"tokens":["I","cannot","remember","his","name","."],"py":["","","","","","."],"vi":"Tôi không nhớ được tên anh ấy.","alts":[]}}
   ]},
-  {"id":"e47","title":"Thiên nhiên 2","desc":"Rừng, hồ, bãi biển, sao, mây","icon":"Sky","unit":7,"course":"en","order":1010,"words":[
+  {"id":"e47","title":"Thiên nhiên 2","desc":"Rừng, hồ, bãi biển, sao, mây","icon":"Sky","unit":7,"course":"en","order":1050,"words":[
    {"id":"e47-forest","hanzi":"forest","pinyin":"","vi":"khu rừng","ex":{"tokens":["Many","animals","live","in","the","forest","."],"py":["","","","","","","."],"vi":"Nhiều loài động vật sống trong rừng.","alts":[]}},
    {"id":"e47-lake","hanzi":"lake","pinyin":"","vi":"hồ","ex":{"tokens":["We","swam","in","the","lake","."],"py":["","","","","","."],"vi":"Chúng tôi đã bơi ở hồ.","alts":[]}},
    {"id":"e47-beach","hanzi":"beach","pinyin":"","vi":"bãi biển","ex":{"tokens":["The","beach","is","clean","and","quiet","."],"py":["","","","","","","."],"vi":"Bãi biển sạch và yên tĩnh.","alts":[]}},
@@ -45,7 +45,7 @@
    {"id":"e47-desert","hanzi":"desert","pinyin":"","vi":"sa mạc","ex":{"tokens":["It","is","very","dry","in","the","desert","."],"py":["","","","","","","","."],"vi":"Ở sa mạc rất khô.","alts":[]}},
    {"id":"e47-field","hanzi":"field","pinyin":"","vi":"cánh đồng; sân","ex":{"tokens":["The","cows","are","in","the","field","."],"py":["","","","","","","."],"vi":"Những con bò đang ở trên cánh đồng.","alts":[]}}
   ]},
-  {"id":"e48","title":"Môi trường 1","desc":"Ô nhiễm, tái chế, bảo vệ, năng lượng","icon":"Eco","unit":7,"course":"en","order":1020,"words":[
+  {"id":"e48","title":"Môi trường 1","desc":"Ô nhiễm, tái chế, bảo vệ, năng lượng","icon":"Eco","unit":7,"course":"en","order":1060,"words":[
    {"id":"e48-environment","hanzi":"environment","pinyin":"","vi":"môi trường","ex":{"tokens":["We","must","protect","the","environment","."],"py":["","","","","","."],"vi":"Chúng ta phải bảo vệ môi trường.","alts":[]}},
    {"id":"e48-pollution","hanzi":"pollution","pinyin":"","vi":"sự ô nhiễm","ex":{"tokens":["Air","pollution","is","a","big","problem","."],"py":["","","","","","","."],"vi":"Ô nhiễm không khí là một vấn đề lớn.","alts":[]}},
    {"id":"e48-plastic","hanzi":"plastic","pinyin":"","vi":"nhựa","ex":{"tokens":["Do","not","use","too","much","plastic","."],"py":["","","","","","","."],"vi":"Đừng dùng quá nhiều nhựa.","alts":[]}},
@@ -59,7 +59,7 @@
    {"id":"e48-plant","hanzi":"plant","pinyin":"","vi":"cây, thực vật; trồng","ex":{"tokens":["We","plant","trees","every","spring","."],"py":["","","","","","."],"vi":"Mùa xuân nào chúng tôi cũng trồng cây.","alts":[]}},
    {"id":"e48-earth","hanzi":"earth","pinyin":"","vi":"trái đất; đất","ex":{"tokens":["The","earth","is","our","home","."],"py":["","","","","","."],"vi":"Trái đất là nhà của chúng ta.","alts":[]}}
   ]},
-  {"id":"e49","title":"Giải trí 1","desc":"Hòa nhạc, bảo tàng, ảnh, vẽ","icon":"Art","unit":7,"course":"en","order":1030,"words":[
+  {"id":"e49","title":"Giải trí 1","desc":"Hòa nhạc, bảo tàng, ảnh, vẽ","icon":"Art","unit":7,"course":"en","order":1070,"words":[
    {"id":"e49-concert","hanzi":"concert","pinyin":"","vi":"buổi hòa nhạc","ex":{"tokens":["We","went","to","a","concert","last","night","."],"py":["","","","","","","","."],"vi":"Tối qua chúng tôi đã đi xem hòa nhạc.","alts":[]}},
    {"id":"e49-museum","hanzi":"museum","pinyin":"","vi":"bảo tàng","ex":{"tokens":["The","museum","is","closed","on","Monday","."],"py":["","","","","","","."],"vi":"Bảo tàng đóng cửa vào thứ Hai.","alts":[]}},
    {"id":"e49-theater","hanzi":"theater","pinyin":"","vi":"nhà hát, rạp","ex":{"tokens":["There","is","a","new","theater","in","town","."],"py":["","","","","","","","."],"vi":"Có một nhà hát mới trong thị trấn.","alts":[]}},
@@ -73,7 +73,7 @@
    {"id":"e49-collect","hanzi":"collect","pinyin":"","vi":"sưu tầm, thu thập","ex":{"tokens":["I","collect","old","coins","."],"py":["","","","","."],"vi":"Tôi sưu tầm tiền xu cổ.","alts":[]}},
    {"id":"e49-festival","hanzi":"festival","pinyin":"","vi":"lễ hội","ex":{"tokens":["The","festival","is","in","the","spring","."],"py":["","","","","","","."],"vi":"Lễ hội diễn ra vào mùa xuân.","alts":[]}}
   ]},
-  {"id":"e50","title":"Thể thao 1","desc":"Đội, trận đấu, thắng, thua","icon":"Win","unit":7,"course":"en","order":1040,"words":[
+  {"id":"e50","title":"Thể thao 1","desc":"Đội, trận đấu, thắng, thua","icon":"Win","unit":7,"course":"en","order":1080,"words":[
    {"id":"e50-team","hanzi":"team","pinyin":"","vi":"đội","ex":{"tokens":["Our","team","is","very","strong","."],"py":["","","","","","."],"vi":"Đội của chúng tôi rất mạnh.","alts":[]}},
    {"id":"e50-match","hanzi":"match","pinyin":"","vi":"trận đấu","ex":{"tokens":["The","match","starts","at","seven","."],"py":["","","","","","."],"vi":"Trận đấu bắt đầu lúc bảy giờ.","alts":[]}},
    {"id":"e50-win","hanzi":"win","pinyin":"","vi":"thắng","ex":{"tokens":["I","hope","we","win","the","game","."],"py":["","","","","","","."],"vi":"Tôi hy vọng chúng ta thắng trận.","alts":[]}},
@@ -87,7 +87,7 @@
    {"id":"e50-basketball","hanzi":"basketball","pinyin":"","vi":"bóng rổ","ex":{"tokens":["He","is","tall","and","good","at","basketball","."],"py":["","","","","","","","."],"vi":"Anh ấy cao và chơi bóng rổ giỏi.","alts":[]}},
    {"id":"e50-gym","hanzi":"gym","pinyin":"","vi":"phòng tập thể dục","ex":{"tokens":["I","go","to","the","gym","after","work","."],"py":["","","","","","","","."],"vi":"Tôi đến phòng tập sau giờ làm.","alts":[]}}
   ]},
-  {"id":"e51","title":"Động từ khuyết thiếu","desc":"Should, must, may, might, could","icon":"Can","unit":7,"course":"en","order":1050,"words":[
+  {"id":"e51","title":"Động từ khuyết thiếu","desc":"Should, must, may, might, could","icon":"Can","unit":7,"course":"en","order":1090,"words":[
    {"id":"e51-should","hanzi":"should","pinyin":"","vi":"nên","ex":{"tokens":["You","should","drink","more","water","."],"py":["","","","","","."],"vi":"Bạn nên uống nhiều nước hơn.","alts":[]}},
    {"id":"e51-must","hanzi":"must","pinyin":"","vi":"phải","ex":{"tokens":["You","must","wear","a","helmet","."],"py":["","","","","","."],"vi":"Bạn phải đội mũ bảo hiểm.","alts":[]}},
    {"id":"e51-may","hanzi":"may","pinyin":"","vi":"có thể, được phép","ex":{"tokens":["May","I","come","in","?"],"py":["","","","","?"],"vi":"Tôi vào được không?","alts":[]}},

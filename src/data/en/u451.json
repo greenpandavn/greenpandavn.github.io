@@ -1,9 +1,9 @@
 {
  "units": [
-  {"unit":451,"level":4,"title":"Phần 38: Mở rộng – Pháp luật và tòa án","desc":"Pháp luật và tòa án, Tài chính và ngân hàng, Chính trị và nhà nước","color":"leaf","course":"en"}
+  {"unit":451,"level":4,"title":"Phần 39: Mở rộng – Pháp luật và tòa án","desc":"Pháp luật và tòa án, Tài chính và ngân hàng, Chính trị và nhà nước","color":"leaf","course":"en"}
  ],
  "lessons": [
-  {"id":"y4001","title":"Pháp luật và tòa án 1","desc":"Tội danh, thủ tục tố tụng, người tham gia","icon":"Law","unit":451,"course":"en","order":4230,"words":[
+  {"id":"y4001","title":"Pháp luật và tòa án 1","desc":"Tội danh, thủ tục tố tụng, người tham gia","icon":"Law","unit":451,"course":"en","order":4360,"words":[
    {"id":"y4001-barrister","hanzi":"barrister","pinyin":"","vi":"luật sư tranh tụng (Anh)","ex":{"tokens":["The","barrister","spoke","for","an","hour","in","court","."],"py":["","","","","","","","","."],"vi":"Luật sư tranh tụng nói suốt một giờ tại tòa.","alts":[]}},
    {"id":"y4001-solicitor","hanzi":"solicitor","pinyin":"","vi":"luật sư tư vấn (Anh)","ex":{"tokens":["Ask","a","solicitor","before","you","sign","the","contract","."],"py":["","","","","","","","","."],"vi":"Hãy hỏi luật sư tư vấn trước khi ký hợp đồng.","alts":[]}},
    {"id":"y4001-magistrate","hanzi":"magistrate","pinyin":"","vi":"thẩm phán sơ thẩm","ex":{"tokens":["The","magistrate","fined","him","two","hundred","dollars","."],"py":["","","","","","","","."],"vi":"Thẩm phán phạt anh ta hai trăm đô la.","alts":[]}},
@@ -18,7 +18,7 @@
    {"id":"y4001-extortion","hanzi":"extortion","pinyin":"","vi":"tội tống tiền","ex":{"tokens":["The","gang","made","money","through","extortion","."],"py":["","","","","","","."],"vi":"Băng nhóm kiếm tiền bằng cách tống tiền.","alts":[]}},
    {"id":"y4001-arson","hanzi":"arson","pinyin":"","vi":"tội phóng hỏa","ex":{"tokens":["Police","think","the","fire","was","arson","."],"py":["","","","","","","."],"vi":"Cảnh sát cho rằng vụ cháy là do phóng hỏa.","alts":[]}}
   ]},
-  {"id":"y4002","title":"Pháp luật và tòa án 2","desc":"Tội danh, thủ tục tố tụng, người tham gia","icon":"Law","unit":451,"course":"en","order":4240,"words":[
+  {"id":"y4002","title":"Pháp luật và tòa án 2","desc":"Tội danh, thủ tục tố tụng, người tham gia","icon":"Law","unit":451,"course":"en","order":4370,"words":[
    {"id":"y4002-manslaughter","hanzi":"manslaughter","pinyin":"","vi":"tội ngộ sát","ex":{"tokens":["The","driver","was","found","guilty","of","manslaughter","."],"py":["","","","","","","","."],"vi":"Người lái xe bị kết tội ngộ sát.","alts":[]}},
    {"id":"y4002-homicide","hanzi":"homicide","pinyin":"","vi":"tội giết người","ex":{"tokens":["The","city","has","a","low","homicide","rate","."],"py":["","","","","","","","."],"vi":"Thành phố có tỷ lệ giết người thấp.","alts":[]}},
    {"id":"y4002-assault","hanzi":"assault","pinyin":"","vi":"tội hành hung; tấn công","ex":{"tokens":["He","was","arrested","for","assault","."],"py":["","","","","","."],"vi":"Anh ta bị bắt vì tội hành hung.","alts":[]}},
@@ -33,7 +33,7 @@
    {"id":"y4002-alibi","hanzi":"alibi","pinyin":"","vi":"chứng cứ ngoại phạm","ex":{"tokens":["She","has","an","alibi","for","that","night","."],"py":["","","","","","","","."],"vi":"Cô ấy có chứng cứ ngoại phạm cho đêm đó.","alts":[]}},
    {"id":"y4002-culprit","hanzi":"culprit","pinyin":"","vi":"thủ phạm","ex":{"tokens":["The","police","soon","found","the","culprit","."],"py":["","","","","","","."],"vi":"Cảnh sát nhanh chóng tìm ra thủ phạm.","alts":[]}}
   ]},
-  {"id":"y4003","title":"Pháp luật và tòa án 3","desc":"Tội danh, thủ tục tố tụng, người tham gia","icon":"Law","unit":451,"course":"en","order":4250,"words":[
+  {"id":"y4003","title":"Pháp luật và tòa án 3","desc":"Tội danh, thủ tục tố tụng, người tham gia","icon":"Law","unit":451,"course":"en","order":4380,"words":[
    {"id":"y4003-accomplice","hanzi":"accomplice","pinyin":"","vi":"kẻ đồng phạm","ex":{"tokens":["The","thief","had","an","accomplice","inside","the","bank","."],"py":["","","","","","","","","."],"vi":"Tên trộm có một đồng phạm bên trong ngân hàng.","alts":[]}},
    {"id":"y4003-hostage","hanzi":"hostage","pinyin":"","vi":"con tin","ex":{"tokens":["The","robbers","took","a","hostage","."],"py":["","","","","","."],"vi":"Bọn cướp bắt một con tin.","alts":[]}},
    {"id":"y4003-warrant","hanzi":"warrant","pinyin":"","vi":"lệnh (bắt, khám xét)","ex":{"tokens":["The","police","had","a","warrant","to","search","the","house","."],"py":["","","","","","","","","","."],"vi":"Cảnh sát có lệnh khám xét ngôi nhà.","alts":[]}},
@@ -47,7 +47,7 @@
    {"id":"y4003-restraining_order","hanzi":"restraining order","pinyin":"","vi":"lệnh cấm tiếp cận","ex":{"tokens":["The","court","issued","a","restraining","order","against","him","."],"py":["","","","","","","","","."],"vi":"Tòa ra lệnh cấm anh ta tiếp cận.","alts":[]}},
    {"id":"y4003-death_penalty","hanzi":"death penalty","pinyin":"","vi":"án tử hình","ex":{"tokens":["Many","countries","have","ended","the","death","penalty","."],"py":["","","","","","","","."],"vi":"Nhiều nước đã bỏ án tử hình.","alts":[]}}
   ]},
-  {"id":"y4004","title":"Pháp luật và tòa án 4","desc":"Tội danh, thủ tục tố tụng, người tham gia","icon":"Law","unit":451,"course":"en","order":4260,"words":[
+  {"id":"y4004","title":"Pháp luật và tòa án 4","desc":"Tội danh, thủ tục tố tụng, người tham gia","icon":"Law","unit":451,"course":"en","order":4390,"words":[
    {"id":"y4004-life_sentence","hanzi":"life sentence","pinyin":"","vi":"án chung thân","ex":{"tokens":["The","killer","received","a","life","sentence","."],"py":["","","","","","","."],"vi":"Kẻ giết người nhận án chung thân.","alts":[]}},
    {"id":"y4004-community_service","hanzi":"community service","pinyin":"","vi":"lao động công ích","ex":{"tokens":["He","was","given","fifty","hours","of","community","service","."],"py":["","","","","","","","","."],"vi":"Anh ta bị phạt năm mươi giờ lao động công ích.","alts":[]}},
    {"id":"y4004-cross_examine","hanzi":"cross-examine","pinyin":"","vi":"thẩm vấn chéo","ex":{"tokens":["The","lawyer","will","cross-examine","the","witness","tomorrow","."],"py":["","","","","","","","."],"vi":"Luật sư sẽ thẩm vấn chéo nhân chứng vào ngày mai.","alts":[]}},
@@ -61,7 +61,7 @@
    {"id":"y4004-probate","hanzi":"probate","pinyin":"","vi":"thủ tục chứng thực di chúc","ex":{"tokens":["The","will","is","still","in","probate","."],"py":["","","","","","","."],"vi":"Di chúc vẫn đang trong thủ tục chứng thực.","alts":[]}},
    {"id":"y4004-custody_battle","hanzi":"custody battle","pinyin":"","vi":"cuộc tranh chấp quyền nuôi con","ex":{"tokens":["The","couple","fought","a","long","custody","battle","."],"py":["","","","","","","","."],"vi":"Cặp vợ chồng trải qua một cuộc tranh chấp quyền nuôi con kéo dài.","alts":[]}}
   ]},
-  {"id":"y4005","title":"Tài chính và ngân hàng 1","desc":"Đầu tư, vay nợ, kế toán","icon":"Finance","unit":451,"course":"en","order":4270,"words":[
+  {"id":"y4005","title":"Tài chính và ngân hàng 1","desc":"Đầu tư, vay nợ, kế toán","icon":"Finance","unit":451,"course":"en","order":4400,"words":[
    {"id":"y4005-equity","hanzi":"equity","pinyin":"","vi":"vốn chủ sở hữu; sự công bằng","ex":{"tokens":["He","owns","twenty","percent","of","the","equity","in","the","company","."],"py":["","","","","","","","","","","."],"vi":"Anh ấy sở hữu hai mươi phần trăm vốn của công ty.","alts":[]}},
    {"id":"y4005-bond","hanzi":"bond","pinyin":"","vi":"trái phiếu; mối gắn kết","ex":{"tokens":["The","government","sold","a","ten-year","bond","."],"py":["","","","","","","."],"vi":"Chính phủ bán trái phiếu kỳ hạn mười năm.","alts":[]}},
    {"id":"y4005-broker","hanzi":"broker","pinyin":"","vi":"người môi giới","ex":{"tokens":["My","broker","told","me","to","sell","the","shares","."],"py":["","","","","","","","","."],"vi":"Người môi giới khuyên tôi bán cổ phiếu.","alts":[]}},
@@ -77,7 +77,7 @@
    {"id":"y4005-stagnation","hanzi":"stagnation","pinyin":"","vi":"sự trì trệ","ex":{"tokens":["The","country","faces","years","of","economic","stagnation","."],"py":["","","","","","","","."],"vi":"Đất nước đối mặt với nhiều năm kinh tế trì trệ.","alts":[]}},
    {"id":"y4005-markup","hanzi":"markup","pinyin":"","vi":"mức cộng lãi vào giá","ex":{"tokens":["The","shop","adds","a","fifty","percent","markup","."],"py":["","","","","","","","."],"vi":"Cửa hàng cộng thêm năm mươi phần trăm lãi vào giá.","alts":[]}}
   ]},
-  {"id":"y4006","title":"Tài chính và ngân hàng 2","desc":"Đầu tư, vay nợ, kế toán","icon":"Finance","unit":451,"course":"en","order":4280,"words":[
+  {"id":"y4006","title":"Tài chính và ngân hàng 2","desc":"Đầu tư, vay nợ, kế toán","icon":"Finance","unit":451,"course":"en","order":4410,"words":[
    {"id":"y4006-capital_gain","hanzi":"capital gain","pinyin":"","vi":"lãi vốn","ex":{"tokens":["You","must","pay","tax","on","any","capital","gain","."],"py":["","","","","","","","","."],"vi":"Bạn phải nộp thuế cho mọi khoản lãi vốn.","alts":[]}},
    {"id":"y4006-cash_flow","hanzi":"cash flow","pinyin":"","vi":"dòng tiền","ex":{"tokens":["The","small","firm","has","a","cash","flow","problem","."],"py":["","","","","","","","","."],"vi":"Công ty nhỏ gặp vấn đề về dòng tiền.","alts":[]}},
    {"id":"y4006-balance_sheet","hanzi":"balance sheet","pinyin":"","vi":"bảng cân đối kế toán","ex":{"tokens":["The","balance","sheet","shows","a","large","debt","."],"py":["","","","","","","","."],"vi":"Bảng cân đối kế toán cho thấy một khoản nợ lớn.","alts":[]}},
@@ -93,7 +93,7 @@
    {"id":"y4006-royalty","hanzi":"royalty","pinyin":"","vi":"tiền bản quyền; hoàng gia","ex":{"tokens":["The","singer","earns","a","royalty","on","every","song","."],"py":["","","","","","","","","."],"vi":"Ca sĩ nhận tiền bản quyền cho mỗi bài hát.","alts":[]}},
    {"id":"y4006-stipend","hanzi":"stipend","pinyin":"","vi":"khoản trợ cấp, sinh hoạt phí","ex":{"tokens":["The","student","receives","a","monthly","stipend","."],"py":["","","","","","","."],"vi":"Sinh viên nhận sinh hoạt phí hàng tháng.","alts":[]}}
   ]},
-  {"id":"y4007","title":"Tài chính và ngân hàng 3","desc":"Đầu tư, vay nợ, kế toán","icon":"Finance","unit":451,"course":"en","order":4290,"words":[
+  {"id":"y4007","title":"Tài chính và ngân hàng 3","desc":"Đầu tư, vay nợ, kế toán","icon":"Finance","unit":451,"course":"en","order":4420,"words":[
    {"id":"y4007-reimbursement","hanzi":"reimbursement","pinyin":"","vi":"sự hoàn trả chi phí","ex":{"tokens":["Keep","your","receipts","for","reimbursement","."],"py":["","","","","","."],"vi":"Hãy giữ hóa đơn để được hoàn trả chi phí.","alts":[]}},
    {"id":"y4007-rebate","hanzi":"rebate","pinyin":"","vi":"khoản giảm giá hoàn lại","ex":{"tokens":["You","get","a","tax","rebate","at","the","end","of","the","year","."],"py":["","","","","","","","","","","","."],"vi":"Bạn được hoàn một phần thuế vào cuối năm.","alts":[]}},
    {"id":"y4007-voucher","hanzi":"voucher","pinyin":"","vi":"phiếu quà tặng, phiếu giảm giá","ex":{"tokens":["I","paid","with","a","gift","voucher","."],"py":["","","","","","","."],"vi":"Tôi trả bằng phiếu quà tặng.","alts":[]}},
@@ -109,7 +109,7 @@
    {"id":"y4007-amortization","hanzi":"amortization","pinyin":"","vi":"sự khấu hao, trả dần","ex":{"tokens":["The","table","shows","the","amortization","of","the","loan","."],"py":["","","","","","","","","."],"vi":"Bảng này cho thấy lịch trả dần khoản vay.","alts":[]}},
    {"id":"y4007-lien","hanzi":"lien","pinyin":"","vi":"quyền giữ tài sản thế chấp","ex":{"tokens":["The","bank","holds","a","lien","on","the","house","."],"py":["","","","","","","","","."],"vi":"Ngân hàng giữ quyền thế chấp đối với ngôi nhà.","alts":[]}}
   ]},
-  {"id":"y4008","title":"Chính trị và nhà nước 1","desc":"Thể chế, chức vụ, hệ tư tưởng","icon":"Politics","unit":451,"course":"en","order":4300,"words":[
+  {"id":"y4008","title":"Chính trị và nhà nước 1","desc":"Thể chế, chức vụ, hệ tư tưởng","icon":"Politics","unit":451,"course":"en","order":4430,"words":[
    {"id":"y4008-congress","hanzi":"congress","pinyin":"","vi":"quốc hội (Mỹ); đại hội","ex":{"tokens":["Congress","passed","the","new","law","."],"py":["","","","","","."],"vi":"Quốc hội đã thông qua luật mới.","alts":[]}},
    {"id":"y4008-ministry","hanzi":"ministry","pinyin":"","vi":"bộ (cơ quan chính phủ)","ex":{"tokens":["She","works","at","the","Ministry","of","Health","."],"py":["","","","","","","","."],"vi":"Cô ấy làm việc tại Bộ Y tế.","alts":[]}},
    {"id":"y4008-diplomat","hanzi":"diplomat","pinyin":"","vi":"nhà ngoại giao","ex":{"tokens":["The","diplomat","spoke","four","languages","."],"py":["","","","","","."],"vi":"Nhà ngoại giao nói được bốn thứ tiếng.","alts":[]}},
@@ -124,7 +124,7 @@
    {"id":"y4008-insurgency","hanzi":"insurgency","pinyin":"","vi":"cuộc nổi dậy vũ trang","ex":{"tokens":["The","insurgency","lasted","ten","years","."],"py":["","","","","","."],"vi":"Cuộc nổi dậy vũ trang kéo dài mười năm.","alts":[]}},
    {"id":"y4008-revolt","hanzi":"revolt","pinyin":"","vi":"cuộc khởi nghĩa; nổi dậy","ex":{"tokens":["The","farmers","began","a","revolt","against","the","tax","."],"py":["","","","","","","","","."],"vi":"Nông dân bắt đầu một cuộc khởi nghĩa chống thuế.","alts":[]}}
   ]},
-  {"id":"y4009","title":"Chính trị và nhà nước 2","desc":"Thể chế, chức vụ, hệ tư tưởng","icon":"Politics","unit":451,"course":"en","order":4310,"words":[
+  {"id":"y4009","title":"Chính trị và nhà nước 2","desc":"Thể chế, chức vụ, hệ tư tưởng","icon":"Politics","unit":451,"course":"en","order":4440,"words":[
    {"id":"y4009-poll","hanzi":"poll","pinyin":"","vi":"cuộc thăm dò ý kiến","ex":{"tokens":["A","new","poll","shows","the","mayor","is","popular","."],"py":["","","","","","","","","."],"vi":"Một cuộc thăm dò mới cho thấy thị trưởng được lòng dân.","alts":[]}},
    {"id":"y4009-electorate","hanzi":"electorate","pinyin":"","vi":"toàn bộ cử tri","ex":{"tokens":["The","electorate","wants","change","."],"py":["","","","","."],"vi":"Cử tri muốn thay đổi.","alts":[]}},
    {"id":"y4009-nominee","hanzi":"nominee","pinyin":"","vi":"người được đề cử","ex":{"tokens":["She","is","the","party's","nominee","for","president","."],"py":["","","","","","","","."],"vi":"Bà ấy là người được đảng đề cử làm tổng thống.","alts":[]}},
@@ -139,7 +139,7 @@
    {"id":"y4009-capitalism","hanzi":"capitalism","pinyin":"","vi":"chủ nghĩa tư bản","ex":{"tokens":["Capitalism","depends","on","free","markets","."],"py":["","","","","","."],"vi":"Chủ nghĩa tư bản dựa vào thị trường tự do.","alts":[]}},
    {"id":"y4009-fascism","hanzi":"fascism","pinyin":"","vi":"chủ nghĩa phát xít","ex":{"tokens":["Europe","fought","against","fascism","."],"py":["","","","","."],"vi":"Châu Âu đã chiến đấu chống chủ nghĩa phát xít.","alts":[]}}
   ]},
-  {"id":"y4010","title":"Chính trị và nhà nước 3","desc":"Thể chế, chức vụ, hệ tư tưởng","icon":"Politics","unit":451,"course":"en","order":4320,"words":[
+  {"id":"y4010","title":"Chính trị và nhà nước 3","desc":"Thể chế, chức vụ, hệ tư tưởng","icon":"Politics","unit":451,"course":"en","order":4450,"words":[
    {"id":"y4010-liberalism","hanzi":"liberalism","pinyin":"","vi":"chủ nghĩa tự do","ex":{"tokens":["Liberalism","values","personal","freedom","."],"py":["","","","","."],"vi":"Chủ nghĩa tự do đề cao tự do cá nhân.","alts":[]}},
    {"id":"y4010-conservatism","hanzi":"conservatism","pinyin":"","vi":"chủ nghĩa bảo thủ","ex":{"tokens":["Conservatism","prefers","slow","change","."],"py":["","","","","."],"vi":"Chủ nghĩa bảo thủ ưa thay đổi chậm.","alts":[]}},
    {"id":"y4010-nationalism","hanzi":"nationalism","pinyin":"","vi":"chủ nghĩa dân tộc","ex":{"tokens":["Nationalism","grew","after","the","war","."],"py":["","","","","","."],"vi":"Chủ nghĩa dân tộc phát triển sau chiến tranh.","alts":[]}},

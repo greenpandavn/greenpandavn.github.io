@@ -1,9 +1,9 @@
 {
  "units": [
-  {"unit":251,"level":2,"title":"Phần 19: Mở rộng – Sinh hoạt hằng ngày","desc":"Sinh hoạt hằng ngày, Mua sắm","color":"leaf","course":"en"}
+  {"unit":251,"level":2,"title":"Phần 19: Mở rộng – Sinh hoạt hằng ngày","desc":"Sinh hoạt hằng ngày, Mua sắm, Động từ và tính từ thường ngày","color":"leaf","course":"en"}
  ],
  "lessons": [
-  {"id":"y2001","title":"Sinh hoạt hằng ngày 1","desc":"Việc nhà, vệ sinh cá nhân, đồ dùng trong nhà","icon":"Daily","unit":251,"course":"en","order":1730,"words":[
+  {"id":"y2001","title":"Sinh hoạt hằng ngày 1","desc":"Việc nhà, vệ sinh cá nhân, đồ dùng trong nhà","icon":"Daily","unit":251,"course":"en","order":1770,"words":[
    {"id":"y2001-get_dressed","hanzi":"get dressed","pinyin":"","vi":"mặc quần áo","ex":{"tokens":["I","get","dressed","after","breakfast","."],"py":["","","","","","."],"vi":"Tôi mặc quần áo sau bữa sáng.","alts":[]}},
    {"id":"y2001-bathe","hanzi":"bathe","pinyin":"","vi":"tắm","ex":{"tokens":["We","bathe","the","baby","every","evening","."],"py":["","","","","","","."],"vi":"Chúng tôi tắm cho em bé mỗi tối.","alts":[]}},
    {"id":"y2001-zip","hanzi":"zip","pinyin":"","vi":"kéo khóa","ex":{"tokens":["Please","zip","your","jacket","."],"py":["","","","","."],"vi":"Hãy kéo khóa áo khoác lên.","alts":[]}},
@@ -18,7 +18,7 @@
    {"id":"y2001-make_the_bed","hanzi":"make the bed","pinyin":"","vi":"dọn giường","ex":{"tokens":["I","make","the","bed","every","morning","."],"py":["","","","","","","."],"vi":"Sáng nào tôi cũng dọn giường.","alts":[]}},
    {"id":"y2001-cook_dinner","hanzi":"cook dinner","pinyin":"","vi":"nấu bữa tối","ex":{"tokens":["My","father","will","cook","dinner","tonight","."],"py":["","","","","","","."],"vi":"Tối nay bố tôi sẽ nấu bữa tối.","alts":[]}}
   ]},
-  {"id":"y2002","title":"Sinh hoạt hằng ngày 2","desc":"Việc nhà, vệ sinh cá nhân, đồ dùng trong nhà","icon":"Daily","unit":251,"course":"en","order":1740,"words":[
+  {"id":"y2002","title":"Sinh hoạt hằng ngày 2","desc":"Việc nhà, vệ sinh cá nhân, đồ dùng trong nhà","icon":"Daily","unit":251,"course":"en","order":1780,"words":[
    {"id":"y2002-heat_up","hanzi":"heat up","pinyin":"","vi":"hâm nóng","ex":{"tokens":["I","will","heat","up","the","soup","."],"py":["","","","","","","."],"vi":"Tôi sẽ hâm nóng súp.","alts":[]}},
    {"id":"y2002-pack_lunch","hanzi":"pack lunch","pinyin":"","vi":"chuẩn bị cơm trưa mang đi","ex":{"tokens":["I","pack","lunch","for","my","children","."],"py":["","","","","","","."],"vi":"Tôi chuẩn bị cơm trưa cho các con mang đi.","alts":[]}},
    {"id":"y2002-lock_up","hanzi":"lock up","pinyin":"","vi":"khóa cửa cẩn thận","ex":{"tokens":["Remember","to","lock","up","when","you","leave","."],"py":["","","","","","","","."],"vi":"Nhớ khóa cửa khi bạn đi.","alts":[]}},
@@ -33,7 +33,7 @@
    {"id":"y2002-mouthwash","hanzi":"mouthwash","pinyin":"","vi":"nước súc miệng","ex":{"tokens":["Use","mouthwash","after","you","brush","your","teeth","."],"py":["","","","","","","","."],"vi":"Hãy dùng nước súc miệng sau khi đánh răng.","alts":[]}},
    {"id":"y2002-conditioner","hanzi":"conditioner","pinyin":"","vi":"dầu xả","ex":{"tokens":["I","use","conditioner","after","shampoo","."],"py":["","","","","","."],"vi":"Tôi dùng dầu xả sau dầu gội.","alts":[]}}
   ]},
-  {"id":"y2003","title":"Sinh hoạt hằng ngày 3","desc":"Việc nhà, vệ sinh cá nhân, đồ dùng trong nhà","icon":"Daily","unit":251,"course":"en","order":1750,"words":[
+  {"id":"y2003","title":"Sinh hoạt hằng ngày 3","desc":"Việc nhà, vệ sinh cá nhân, đồ dùng trong nhà","icon":"Daily","unit":251,"course":"en","order":1790,"words":[
    {"id":"y2003-body_wash","hanzi":"body wash","pinyin":"","vi":"sữa tắm","ex":{"tokens":["This","body","wash","smells","like","flowers","."],"py":["","","","","","","."],"vi":"Sữa tắm này có mùi hoa.","alts":[]}},
    {"id":"y2003-shaving_cream","hanzi":"shaving cream","pinyin":"","vi":"kem cạo râu","ex":{"tokens":["He","put","shaving","cream","on","his","face","."],"py":["","","","","","","","."],"vi":"Anh ấy bôi kem cạo râu lên mặt.","alts":[]}},
    {"id":"y2003-deodorant","hanzi":"deodorant","pinyin":"","vi":"lăn khử mùi","ex":{"tokens":["I","put","on","deodorant","after","a","shower","."],"py":["","","","","","","","."],"vi":"Tôi dùng lăn khử mùi sau khi tắm.","alts":[]}},
@@ -48,7 +48,7 @@
    {"id":"y2003-bath_mat","hanzi":"bath mat","pinyin":"","vi":"thảm phòng tắm","ex":{"tokens":["The","bath","mat","is","wet","."],"py":["","","","","","."],"vi":"Thảm phòng tắm bị ướt.","alts":[]}},
    {"id":"y2003-shower_curtain","hanzi":"shower curtain","pinyin":"","vi":"rèm tắm","ex":{"tokens":["Close","the","shower","curtain","."],"py":["","","","","."],"vi":"Hãy kéo rèm tắm lại.","alts":[]}}
   ]},
-  {"id":"y2004","title":"Sinh hoạt hằng ngày 4","desc":"Việc nhà, vệ sinh cá nhân, đồ dùng trong nhà","icon":"Daily","unit":251,"course":"en","order":1760,"words":[
+  {"id":"y2004","title":"Sinh hoạt hằng ngày 4","desc":"Việc nhà, vệ sinh cá nhân, đồ dùng trong nhà","icon":"Daily","unit":251,"course":"en","order":1800,"words":[
    {"id":"y2004-laundry_detergent","hanzi":"laundry detergent","pinyin":"","vi":"bột giặt, nước giặt","ex":{"tokens":["We","ran","out","of","laundry","detergent","."],"py":["","","","","","","."],"vi":"Chúng tôi hết nước giặt.","alts":[]}},
    {"id":"y2004-fabric_softener","hanzi":"fabric softener","pinyin":"","vi":"nước xả vải","ex":{"tokens":["Fabric","softener","makes","clothes","smell","nice","."],"py":["","","","","","","."],"vi":"Nước xả vải làm quần áo thơm.","alts":[]}},
    {"id":"y2004-dish_soap","hanzi":"dish soap","pinyin":"","vi":"nước rửa bát","ex":{"tokens":["Add","a","little","dish","soap","to","the","water","."],"py":["","","","","","","","","."],"vi":"Hãy thêm chút nước rửa bát vào nước.","alts":[]}},
@@ -62,7 +62,7 @@
    {"id":"y2004-feed_the_pet","hanzi":"feed the pet","pinyin":"","vi":"cho thú cưng ăn","ex":{"tokens":["The","children","feed","the","pet","every","morning","."],"py":["","","","","","","","."],"vi":"Bọn trẻ cho thú cưng ăn mỗi sáng.","alts":[]}},
    {"id":"y2004-moisturize","hanzi":"moisturize","pinyin":"","vi":"dưỡng ẩm","ex":{"tokens":["You","should","moisturize","your","skin","in","winter","."],"py":["","","","","","","","."],"vi":"Bạn nên dưỡng ẩm cho da vào mùa đông.","alts":[]}}
   ]},
-  {"id":"y2005","title":"Mua sắm 1","desc":"Cửa hàng, thanh toán, tình trạng hàng","icon":"Shop","unit":251,"course":"en","order":1770,"words":[
+  {"id":"y2005","title":"Mua sắm 1","desc":"Cửa hàng, thanh toán, tình trạng hàng","icon":"Shop","unit":251,"course":"en","order":1810,"words":[
    {"id":"y2005-shopping_cart","hanzi":"shopping cart","pinyin":"","vi":"xe đẩy mua hàng","ex":{"tokens":["He","pushed","the","shopping","cart","."],"py":["","","","","","."],"vi":"Anh ấy đẩy xe mua hàng.","alts":[]}},
    {"id":"y2005-shopping_basket","hanzi":"shopping basket","pinyin":"","vi":"giỏ mua hàng","ex":{"tokens":["She","put","the","milk","in","her","shopping","basket","."],"py":["","","","","","","","","."],"vi":"Cô ấy bỏ sữa vào giỏ mua hàng.","alts":[]}},
    {"id":"y2005-barcode","hanzi":"barcode","pinyin":"","vi":"mã vạch","ex":{"tokens":["The","cashier","scanned","the","barcode","."],"py":["","","","","","."],"vi":"Thu ngân quét mã vạch.","alts":[]}},
@@ -78,7 +78,7 @@
    {"id":"y2005-haggle","hanzi":"haggle","pinyin":"","vi":"mặc cả","ex":{"tokens":["You","can","haggle","at","the","market","."],"py":["","","","","","","."],"vi":"Bạn có thể mặc cả ở chợ.","alts":[]}},
    {"id":"y2005-window_shopping","hanzi":"window shopping","pinyin":"","vi":"đi ngắm hàng không mua","ex":{"tokens":["We","went","window","shopping","downtown","."],"py":["","","","","","."],"vi":"Chúng tôi đi ngắm hàng ở trung tâm.","alts":[]}}
   ]},
-  {"id":"y2006","title":"Mua sắm 2","desc":"Cửa hàng, thanh toán, tình trạng hàng","icon":"Shop","unit":251,"course":"en","order":1780,"words":[
+  {"id":"y2006","title":"Mua sắm 2","desc":"Cửa hàng, thanh toán, tình trạng hàng","icon":"Shop","unit":251,"course":"en","order":1820,"words":[
    {"id":"y2006-shopping_mall","hanzi":"shopping mall","pinyin":"","vi":"trung tâm mua sắm","ex":{"tokens":["There","is","a","cinema","in","the","shopping","mall","."],"py":["","","","","","","","","."],"vi":"Có rạp chiếu phim trong trung tâm mua sắm.","alts":[]}},
    {"id":"y2006-department_store","hanzi":"department store","pinyin":"","vi":"cửa hàng bách hóa","ex":{"tokens":["The","department","store","sells","clothes","and","toys","."],"py":["","","","","","","","."],"vi":"Cửa hàng bách hóa bán quần áo và đồ chơi.","alts":[]}},
    {"id":"y2006-convenience_store","hanzi":"convenience store","pinyin":"","vi":"cửa hàng tiện lợi","ex":{"tokens":["The","convenience","store","is","open","all","night","."],"py":["","","","","","","","."],"vi":"Cửa hàng tiện lợi mở cả đêm.","alts":[]}},
@@ -94,7 +94,7 @@
    {"id":"y2006-street_vendor","hanzi":"street vendor","pinyin":"","vi":"người bán hàng rong","ex":{"tokens":["I","bought","bread","from","a","street","vendor","."],"py":["","","","","","","","."],"vi":"Tôi mua bánh mì của một người bán hàng rong.","alts":[]}},
    {"id":"y2006-kiosk","hanzi":"kiosk","pinyin":"","vi":"quầy hàng nhỏ, ki ốt","ex":{"tokens":["He","bought","a","newspaper","at","the","kiosk","."],"py":["","","","","","","","."],"vi":"Anh ấy mua báo ở ki ốt.","alts":[]}}
   ]},
-  {"id":"y2007","title":"Mua sắm 3","desc":"Cửa hàng, thanh toán, tình trạng hàng","icon":"Shop","unit":251,"course":"en","order":1790,"words":[
+  {"id":"y2007","title":"Mua sắm 3","desc":"Cửa hàng, thanh toán, tình trạng hàng","icon":"Shop","unit":251,"course":"en","order":1830,"words":[
    {"id":"y2007-vending_machine","hanzi":"vending machine","pinyin":"","vi":"máy bán hàng tự động","ex":{"tokens":["I","got","a","drink","from","the","vending","machine","."],"py":["","","","","","","","","."],"vi":"Tôi mua nước từ máy bán hàng tự động.","alts":[]}},
    {"id":"y2007-packaging","hanzi":"packaging","pinyin":"","vi":"bao bì","ex":{"tokens":["The","packaging","is","made","of","paper","."],"py":["","","","","","","."],"vi":"Bao bì làm bằng giấy.","alts":[]}},
    {"id":"y2007-wrapping_paper","hanzi":"wrapping paper","pinyin":"","vi":"giấy gói quà","ex":{"tokens":["I","need","wrapping","paper","for","the","present","."],"py":["","","","","","","","."],"vi":"Tôi cần giấy gói cho món quà.","alts":[]}},
@@ -109,6 +109,54 @@
    {"id":"y2007-fishmonger","hanzi":"fishmonger","pinyin":"","vi":"người bán cá","ex":{"tokens":["The","fishmonger","cleaned","the","fish","for","me","."],"py":["","","","","","","","."],"vi":"Người bán cá làm sạch cá giúp tôi.","alts":[]}},
    {"id":"y2007-greengrocer","hanzi":"greengrocer","pinyin":"","vi":"người bán rau quả","ex":{"tokens":["The","greengrocer","sells","fresh","vegetables","."],"py":["","","","","","."],"vi":"Người bán rau quả bán rau tươi.","alts":[]}},
    {"id":"y2007-stationery_shop","hanzi":"stationery shop","pinyin":"","vi":"cửa hàng văn phòng phẩm","ex":{"tokens":["I","bought","pens","at","the","stationery","shop","."],"py":["","","","","","","","."],"vi":"Tôi mua bút ở cửa hàng văn phòng phẩm.","alts":[]}}
+  ]},
+  {"id":"y2008","title":"Động từ và tính từ thường ngày 1","desc":"Hành động, cảm giác, trạng thái đồ vật","icon":"Everyday","unit":251,"course":"en","order":1840,"words":[
+   {"id":"y2008-sip","hanzi":"sip","pinyin":"","vi":"nhấp, uống từng ngụm","ex":{"tokens":["She","took","a","sip","of","tea","."],"py":["","","","","","","."],"vi":"Cô ấy nhấp một ngụm trà.","alts":[]}},
+   {"id":"y2008-sniff","hanzi":"sniff","pinyin":"","vi":"ngửi, hít","ex":{"tokens":["The","dog","began","to","sniff","my","bag","."],"py":["","","","","","","","."],"vi":"Con chó bắt đầu ngửi túi của tôi.","alts":[]}},
+   {"id":"y2008-rush","hanzi":"rush","pinyin":"","vi":"vội vàng; sự vội vã","ex":{"tokens":["Do","not","rush;","we","have","time","."],"py":["","","","","","","."],"vi":"Đừng vội; chúng ta còn thời gian.","alts":[]}},
+   {"id":"y2008-reach","hanzi":"reach","pinyin":"","vi":"với tới; đến nơi","ex":{"tokens":["I","cannot","reach","the","top","shelf","."],"py":["","","","","","","."],"vi":"Tôi không với tới kệ trên cùng.","alts":[]}},
+   {"id":"y2008-rip","hanzi":"rip","pinyin":"","vi":"xé rách","ex":{"tokens":["Be","careful","not","to","rip","the","paper","."],"py":["","","","","","","","."],"vi":"Cẩn thận kẻo xé rách tờ giấy.","alts":[]}},
+   {"id":"y2008-crush","hanzi":"crush","pinyin":"","vi":"nghiền nát, đè bẹp","ex":{"tokens":["Crush","the","garlic","with","a","knife","."],"py":["","","","","","","."],"vi":"Hãy đập dập tỏi bằng dao.","alts":[]}},
+   {"id":"y2008-smash","hanzi":"smash","pinyin":"","vi":"đập vỡ","ex":{"tokens":["He","dropped","the","plate","and","it","began","to","smash","into","pieces","."],"py":["","","","","","","","","","","","."],"vi":"Anh ấy làm rơi cái đĩa và nó vỡ tan thành nhiều mảnh.","alts":[]}},
+   {"id":"y2008-crack","hanzi":"crack","pinyin":"","vi":"vết nứt; làm nứt","ex":{"tokens":["There","is","a","crack","in","the","cup","."],"py":["","","","","","","","."],"vi":"Có một vết nứt trên cái cốc.","alts":[]}},
+   {"id":"y2008-rub","hanzi":"rub","pinyin":"","vi":"xoa, chà","ex":{"tokens":["Rub","your","hands","to","keep","warm","."],"py":["","","","","","","."],"vi":"Hãy xoa tay cho ấm.","alts":[]}},
+   {"id":"y2008-spray","hanzi":"spray","pinyin":"","vi":"xịt; bình xịt","ex":{"tokens":["Spray","some","water","on","the","plants","."],"py":["","","","","","","."],"vi":"Hãy xịt ít nước lên cây.","alts":[]}},
+   {"id":"y2008-sew","hanzi":"sew","pinyin":"","vi":"may, khâu","ex":{"tokens":["Can","you","sew","a","button","on","my","shirt","?"],"py":["","","","","","","","","?"],"vi":"Bạn khâu giúp tôi cái cúc áo được không?","alts":[]}},
+   {"id":"y2008-dig","hanzi":"dig","pinyin":"","vi":"đào","ex":{"tokens":["The","dog","likes","to","dig","holes","."],"py":["","","","","","","."],"vi":"Con chó thích đào hố.","alts":[]}},
+   {"id":"y2008-mow","hanzi":"mow","pinyin":"","vi":"cắt cỏ","ex":{"tokens":["I","mow","the","lawn","every","week","."],"py":["","","","","","","."],"vi":"Tuần nào tôi cũng cắt cỏ.","alts":[]}},
+   {"id":"y2008-trim","hanzi":"trim","pinyin":"","vi":"tỉa, cắt tỉa","ex":{"tokens":["I","need","to","trim","my","hair","."],"py":["","","","","","","."],"vi":"Tôi cần tỉa tóc.","alts":[]}}
+  ]},
+  {"id":"y2009","title":"Động từ và tính từ thường ngày 2","desc":"Hành động, cảm giác, trạng thái đồ vật","icon":"Everyday","unit":251,"course":"en","order":1850,"words":[
+   {"id":"y2009-pet","hanzi":"pet","pinyin":"","vi":"vuốt ve; thú cưng","ex":{"tokens":["Can","I","pet","your","dog","?"],"py":["","","","","","?"],"vi":"Tôi vuốt ve con chó của bạn được không?","alts":[]}},
+   {"id":"y2009-swap","hanzi":"swap","pinyin":"","vi":"đổi cho nhau","ex":{"tokens":["Let","us","swap","seats","."],"py":["","","","","."],"vi":"Chúng ta đổi chỗ nhé.","alts":[]}},
+   {"id":"y2009-hide","hanzi":"hide","pinyin":"","vi":"trốn, giấu","ex":{"tokens":["The","cat","likes","to","hide","under","the","bed","."],"py":["","","","","","","","","."],"vi":"Con mèo thích trốn dưới gầm giường.","alts":[]}},
+   {"id":"y2009-seek","hanzi":"seek","pinyin":"","vi":"tìm kiếm","ex":{"tokens":["You","should","seek","help","from","a","teacher","."],"py":["","","","","","","","."],"vi":"Bạn nên tìm sự giúp đỡ từ giáo viên.","alts":[]}},
+   {"id":"y2009-yell","hanzi":"yell","pinyin":"","vi":"la hét","ex":{"tokens":["Please","do","not","yell","at","me","."],"py":["","","","","","","."],"vi":"Xin đừng la hét với tôi.","alts":[]}},
+   {"id":"y2009-chuckle","hanzi":"chuckle","pinyin":"","vi":"cười khúc khích","ex":{"tokens":["The","joke","made","him","chuckle","."],"py":["","","","","","."],"vi":"Câu đùa làm anh ấy cười khúc khích.","alts":[]}},
+   {"id":"y2009-grin","hanzi":"grin","pinyin":"","vi":"cười toe toét","ex":{"tokens":["He","gave","me","a","big","grin","."],"py":["","","","","","","."],"vi":"Anh ấy cười toe toét với tôi.","alts":[]}},
+   {"id":"y2009-frown","hanzi":"frown","pinyin":"","vi":"cau mày","ex":{"tokens":["Why","do","you","frown","so","much","?"],"py":["","","","","","","?"],"vi":"Sao bạn cau mày nhiều vậy?","alts":[]}},
+   {"id":"y2009-groan","hanzi":"groan","pinyin":"","vi":"rên rỉ","ex":{"tokens":["The","students","groan","when","they","get","homework","."],"py":["","","","","","","","."],"vi":"Học sinh rên rỉ khi bị giao bài tập.","alts":[]}},
+   {"id":"y2009-comfy","hanzi":"comfy","pinyin":"","vi":"thoải mái, êm ái","ex":{"tokens":["This","sofa","is","really","comfy","."],"py":["","","","","","."],"vi":"Chiếc ghế sô-pha này rất êm.","alts":[]}},
+   {"id":"y2009-shiny","hanzi":"shiny","pinyin":"","vi":"sáng bóng","ex":{"tokens":["She","has","a","shiny","new","bike","."],"py":["","","","","","","."],"vi":"Cô ấy có một chiếc xe đạp mới sáng bóng.","alts":[]}},
+   {"id":"y2009-slippery","hanzi":"slippery","pinyin":"","vi":"trơn trượt","ex":{"tokens":["The","floor","is","slippery","when","wet","."],"py":["","","","","","","."],"vi":"Sàn nhà trơn khi ướt.","alts":[]}},
+   {"id":"y2009-bumpy","hanzi":"bumpy","pinyin":"","vi":"gập ghềnh","ex":{"tokens":["The","road","to","the","village","is","bumpy","."],"py":["","","","","","","","."],"vi":"Đường vào làng gập ghềnh.","alts":[]}},
+   {"id":"y2009-fluffy","hanzi":"fluffy","pinyin":"","vi":"bông xù, mềm mịn","ex":{"tokens":["The","kitten","is","small","and","fluffy","."],"py":["","","","","","","."],"vi":"Chú mèo con nhỏ và bông xù.","alts":[]}}
+  ]},
+  {"id":"y2010","title":"Động từ và tính từ thường ngày 3","desc":"Hành động, cảm giác, trạng thái đồ vật","icon":"Everyday","unit":251,"course":"en","order":1860,"words":[
+   {"id":"y2010-fuzzy","hanzi":"fuzzy","pinyin":"","vi":"có lông tơ; mờ","ex":{"tokens":["The","peach","has","fuzzy","skin","."],"py":["","","","","","."],"vi":"Quả đào có lớp vỏ lông tơ.","alts":[]}},
+   {"id":"y2010-chewy","hanzi":"chewy","pinyin":"","vi":"dai","ex":{"tokens":["This","bread","is","too","chewy","."],"py":["","","","","","."],"vi":"Bánh mì này dai quá.","alts":[]}},
+   {"id":"y2010-yucky","hanzi":"yucky","pinyin":"","vi":"kinh, ghê","ex":{"tokens":["This","medicine","tastes","yucky","."],"py":["","","","","."],"vi":"Thuốc này có vị ghê quá.","alts":[]}},
+   {"id":"y2010-stinky","hanzi":"stinky","pinyin":"","vi":"hôi thối","ex":{"tokens":["Take","off","your","stinky","socks","."],"py":["","","","","","."],"vi":"Hãy cởi đôi tất hôi của bạn ra.","alts":[]}},
+   {"id":"y2010-smelly","hanzi":"smelly","pinyin":"","vi":"nặng mùi","ex":{"tokens":["The","bin","is","smelly","."],"py":["","","","","."],"vi":"Thùng rác nặng mùi.","alts":[]}},
+   {"id":"y2010-goofy","hanzi":"goofy","pinyin":"","vi":"ngớ ngẩn đáng yêu","ex":{"tokens":["He","made","a","goofy","face","."],"py":["","","","","","."],"vi":"Anh ấy làm mặt ngớ ngẩn.","alts":[]}},
+   {"id":"y2010-jumpy","hanzi":"jumpy","pinyin":"","vi":"bồn chồn, dễ giật mình","ex":{"tokens":["Coffee","makes","me","jumpy","."],"py":["","","","","."],"vi":"Cà phê làm tôi bồn chồn.","alts":[]}},
+   {"id":"y2010-starving","hanzi":"starving","pinyin":"","vi":"đói lả","ex":{"tokens":["I","am","starving;","let","us","eat","."],"py":["","","","","","","."],"vi":"Tôi đói lả rồi; mình ăn thôi.","alts":[]}},
+   {"id":"y2010-stuffed","hanzi":"stuffed","pinyin":"","vi":"no căng bụng; nhồi","ex":{"tokens":["I","am","stuffed","after","that","meal","."],"py":["","","","","","","."],"vi":"Tôi no căng sau bữa ăn đó.","alts":[]}},
+   {"id":"y2010-soaked","hanzi":"soaked","pinyin":"","vi":"ướt sũng","ex":{"tokens":["My","shoes","are","soaked","."],"py":["","","","","."],"vi":"Giày của tôi ướt sũng.","alts":[]}},
+   {"id":"y2010-soggy","hanzi":"soggy","pinyin":"","vi":"ướt nhão","ex":{"tokens":["The","bread","went","soggy","in","the","rain","."],"py":["","","","","","","","."],"vi":"Bánh mì bị ướt nhão trong mưa.","alts":[]}},
+   {"id":"y2010-stuffy","hanzi":"stuffy","pinyin":"","vi":"ngột ngạt","ex":{"tokens":["Open","a","window;","the","room","is","stuffy","."],"py":["","","","","","","","."],"vi":"Mở cửa sổ đi; phòng ngột ngạt quá.","alts":[]}},
+   {"id":"y2010-misty","hanzi":"misty","pinyin":"","vi":"mù sương","ex":{"tokens":["It","was","a","cold",",","misty","morning","."],"py":["","","","",",","","","."],"vi":"Đó là một buổi sáng lạnh và mù sương.","alts":[]}},
+   {"id":"y2010-spotless","hanzi":"spotless","pinyin":"","vi":"sạch bong","ex":{"tokens":["Her","kitchen","is","spotless","."],"py":["","","","","."],"vi":"Bếp nhà cô ấy sạch bong.","alts":[]}}
   ]}
  ]
 }

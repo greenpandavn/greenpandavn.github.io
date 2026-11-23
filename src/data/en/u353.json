@@ -1,9 +1,9 @@
 {
  "units": [
-  {"unit":353,"level":3,"title":"Phần 28: Mở rộng – Đồ đạc trong nhà","desc":"Đồ đạc trong nhà, Dụng cụ và vật liệu, Xe hơi và lái xe, Thể thao và tập luyện","color":"grape","course":"en"}
+  {"unit":353,"level":3,"title":"Phần 29: Mở rộng – Đồ đạc trong nhà","desc":"Đồ đạc trong nhà, Dụng cụ và vật liệu, Xe hơi và lái xe, Thể thao và tập luyện","color":"grape","course":"en"}
  ],
  "lessons": [
-  {"id":"y3041","title":"Đồ đạc trong nhà 3","desc":"Bàn ghế, giường tủ, đồ dọn dẹp","icon":"Furniture","unit":353,"course":"en","order":2910,"words":[
+  {"id":"y3041","title":"Đồ đạc trong nhà 3","desc":"Bàn ghế, giường tủ, đồ dọn dẹp","icon":"Furniture","unit":353,"course":"en","order":3040,"words":[
    {"id":"y3041-bookcase","hanzi":"bookcase","pinyin":"","vi":"tủ sách","ex":{"tokens":["The","bookcase","is","full","of","novels","."],"py":["","","","","","","."],"vi":"Tủ sách đầy tiểu thuyết.","alts":[]}},
    {"id":"y3041-sideboard","hanzi":"sideboard","pinyin":"","vi":"tủ búp phê","ex":{"tokens":["The","plates","are","kept","in","the","sideboard","."],"py":["","","","","","","","."],"vi":"Đĩa được cất trong tủ búp phê.","alts":[]}},
    {"id":"y3041-pantry","hanzi":"pantry","pinyin":"","vi":"phòng/tủ đựng thức ăn","ex":{"tokens":["There","is","rice","in","the","pantry","."],"py":["","","","","","","."],"vi":"Có gạo trong tủ đựng thức ăn.","alts":[]}},
@@ -19,7 +19,7 @@
    {"id":"y3041-chandelier","hanzi":"chandelier","pinyin":"","vi":"đèn chùm","ex":{"tokens":["A","chandelier","hangs","in","the","dining","room","."],"py":["","","","","","","","."],"vi":"Một chiếc đèn chùm treo trong phòng ăn.","alts":[]}},
    {"id":"y3041-lampshade","hanzi":"lampshade","pinyin":"","vi":"chụp đèn","ex":{"tokens":["The","lampshade","is","covered","with","dust","."],"py":["","","","","","","."],"vi":"Chụp đèn phủ đầy bụi.","alts":[]}}
   ]},
-  {"id":"y3042","title":"Dụng cụ và vật liệu 1","desc":"Dụng cụ sửa chữa, làm vườn, vật liệu xây dựng","icon":"Tools","unit":353,"course":"en","order":2920,"words":[
+  {"id":"y3042","title":"Dụng cụ và vật liệu 1","desc":"Dụng cụ sửa chữa, làm vườn, vật liệu xây dựng","icon":"Tools","unit":353,"course":"en","order":3050,"words":[
    {"id":"y3042-mallet","hanzi":"mallet","pinyin":"","vi":"cái vồ, búa gỗ","ex":{"tokens":["He","hit","the","peg","with","a","mallet","."],"py":["","","","","","","","."],"vi":"Anh ấy đóng cái cọc bằng búa gỗ.","alts":[]}},
    {"id":"y3042-screwdriver","hanzi":"screwdriver","pinyin":"","vi":"tua vít","ex":{"tokens":["I","need","a","screwdriver","to","open","this","."],"py":["","","","","","","","."],"vi":"Tôi cần tua vít để mở cái này.","alts":[]}},
    {"id":"y3042-wrench","hanzi":"wrench","pinyin":"","vi":"cờ lê","ex":{"tokens":["He","tightened","the","nut","with","a","wrench","."],"py":["","","","","","","","."],"vi":"Anh ấy siết đai ốc bằng cờ lê.","alts":[]}},
@@ -35,7 +35,7 @@
    {"id":"y3042-crowbar","hanzi":"crowbar","pinyin":"","vi":"xà beng","ex":{"tokens":["He","opened","the","box","with","a","crowbar","."],"py":["","","","","","","","."],"vi":"Anh ấy mở chiếc hộp bằng xà beng.","alts":[]}},
    {"id":"y3042-spade","hanzi":"spade","pinyin":"","vi":"cái xẻng (lưỡi vuông)","ex":{"tokens":["He","dug","the","hole","with","a","spade","."],"py":["","","","","","","","."],"vi":"Anh ấy đào hố bằng xẻng.","alts":[]}}
   ]},
-  {"id":"y3043","title":"Dụng cụ và vật liệu 2","desc":"Dụng cụ sửa chữa, làm vườn, vật liệu xây dựng","icon":"Tools","unit":353,"course":"en","order":2930,"words":[
+  {"id":"y3043","title":"Dụng cụ và vật liệu 2","desc":"Dụng cụ sửa chữa, làm vườn, vật liệu xây dựng","icon":"Tools","unit":353,"course":"en","order":3060,"words":[
    {"id":"y3043-hoe","hanzi":"hoe","pinyin":"","vi":"cái cuốc","ex":{"tokens":["The","farmer","worked","the","soil","with","a","hoe","."],"py":["","","","","","","","","."],"vi":"Người nông dân xới đất bằng cuốc.","alts":[]}},
    {"id":"y3043-pitchfork","hanzi":"pitchfork","pinyin":"","vi":"cái chĩa (xúc rơm)","ex":{"tokens":["He","moved","the","hay","with","a","pitchfork","."],"py":["","","","","","","","."],"vi":"Anh ấy xúc cỏ khô bằng chĩa.","alts":[]}},
    {"id":"y3043-trowel","hanzi":"trowel","pinyin":"","vi":"cái bay","ex":{"tokens":["She","planted","the","flowers","with","a","trowel","."],"py":["","","","","","","","."],"vi":"Cô ấy trồng hoa bằng cái bay.","alts":[]}},
@@ -51,7 +51,7 @@
    {"id":"y3043-cord","hanzi":"cord","pinyin":"","vi":"dây (điện, thừng nhỏ)","ex":{"tokens":["The","phone","cord","is","too","short","."],"py":["","","","","","","."],"vi":"Dây điện thoại quá ngắn.","alts":[]}},
    {"id":"y3043-twine","hanzi":"twine","pinyin":"","vi":"dây bện","ex":{"tokens":["Tie","the","box","with","twine","."],"py":["","","","","","."],"vi":"Hãy buộc chiếc hộp bằng dây bện.","alts":[]}}
   ]},
-  {"id":"y3044","title":"Dụng cụ và vật liệu 3","desc":"Dụng cụ sửa chữa, làm vườn, vật liệu xây dựng","icon":"Tools","unit":353,"course":"en","order":2940,"words":[
+  {"id":"y3044","title":"Dụng cụ và vật liệu 3","desc":"Dụng cụ sửa chữa, làm vườn, vật liệu xây dựng","icon":"Tools","unit":353,"course":"en","order":3070,"words":[
    {"id":"y3044-padlock","hanzi":"padlock","pinyin":"","vi":"ổ khóa móc","ex":{"tokens":["He","locked","the","gate","with","a","padlock","."],"py":["","","","","","","","."],"vi":"Anh ấy khóa cổng bằng ổ khóa móc.","alts":[]}},
    {"id":"y3044-putty","hanzi":"putty","pinyin":"","vi":"mát tít, bột trét","ex":{"tokens":["Fill","the","hole","with","putty","."],"py":["","","","","","."],"vi":"Hãy trét lỗ bằng mát tít.","alts":[]}},
    {"id":"y3044-welder","hanzi":"welder","pinyin":"","vi":"thợ hàn","ex":{"tokens":["My","uncle","works","as","a","welder","."],"py":["","","","","","","."],"vi":"Chú tôi làm thợ hàn.","alts":[]}},
@@ -67,7 +67,7 @@
    {"id":"y3044-spanner","hanzi":"spanner","pinyin":"","vi":"cờ lê (Anh)","ex":{"tokens":["Pass","me","the","spanner",",","please","."],"py":["","","","",",","","."],"vi":"Làm ơn đưa tôi cái cờ lê.","alts":[]}},
    {"id":"y3044-vise","hanzi":"vise","pinyin":"","vi":"cái ê tô","ex":{"tokens":["Hold","the","pipe","in","a","vise","."],"py":["","","","","","","."],"vi":"Hãy kẹp ống vào ê tô.","alts":[]}}
   ]},
-  {"id":"y3045","title":"Xe hơi và lái xe 1","desc":"Bộ phận xe, tình huống trên đường","icon":"Car","unit":353,"course":"en","order":2950,"words":[
+  {"id":"y3045","title":"Xe hơi và lái xe 1","desc":"Bộ phận xe, tình huống trên đường","icon":"Car","unit":353,"course":"en","order":3080,"words":[
    {"id":"y3045-steering_wheel","hanzi":"steering wheel","pinyin":"","vi":"vô lăng","ex":{"tokens":["Keep","both","hands","on","the","steering","wheel","."],"py":["","","","","","","","."],"vi":"Hãy giữ cả hai tay trên vô lăng.","alts":[]}},
    {"id":"y3045-wiper","hanzi":"wiper","pinyin":"","vi":"cần gạt nước","ex":{"tokens":["The","left","wiper","is","broken","."],"py":["","","","","","."],"vi":"Cần gạt nước bên trái bị hỏng.","alts":[]}},
    {"id":"y3045-headlight","hanzi":"headlight","pinyin":"","vi":"đèn pha","ex":{"tokens":["One","headlight","is","not","working","."],"py":["","","","","","."],"vi":"Một đèn pha không hoạt động.","alts":[]}},
@@ -83,7 +83,7 @@
    {"id":"y3045-fuel_gauge","hanzi":"fuel gauge","pinyin":"","vi":"đồng hồ báo nhiên liệu","ex":{"tokens":["The","fuel","gauge","shows","the","tank","is","almost","empty","."],"py":["","","","","","","","","","."],"vi":"Đồng hồ nhiên liệu cho thấy bình gần hết.","alts":[]}},
    {"id":"y3045-glove_compartment","hanzi":"glove compartment","pinyin":"","vi":"hộc đựng đồ trước ghế phụ","ex":{"tokens":["The","map","is","in","the","glove","compartment","."],"py":["","","","","","","","."],"vi":"Bản đồ ở trong hộc đựng đồ.","alts":[]}}
   ]},
-  {"id":"y3046","title":"Xe hơi và lái xe 2","desc":"Bộ phận xe, tình huống trên đường","icon":"Car","unit":353,"course":"en","order":2960,"words":[
+  {"id":"y3046","title":"Xe hơi và lái xe 2","desc":"Bộ phận xe, tình huống trên đường","icon":"Car","unit":353,"course":"en","order":3090,"words":[
    {"id":"y3046-sunroof","hanzi":"sunroof","pinyin":"","vi":"cửa sổ trời","ex":{"tokens":["She","opened","the","sunroof","."],"py":["","","","","."],"vi":"Cô ấy mở cửa sổ trời.","alts":[]}},
    {"id":"y3046-tow_truck","hanzi":"tow truck","pinyin":"","vi":"xe cứu hộ, xe kéo","ex":{"tokens":["A","tow","truck","took","the","car","away","."],"py":["","","","","","","","."],"vi":"Một chiếc xe kéo đã kéo chiếc xe đi.","alts":[]}},
    {"id":"y3046-jack","hanzi":"jack","pinyin":"","vi":"cái kích (nâng xe)","ex":{"tokens":["Lift","the","car","with","a","jack","."],"py":["","","","","","","."],"vi":"Hãy nâng xe bằng cái kích.","alts":[]}},
@@ -99,7 +99,7 @@
    {"id":"y3046-speed_bump","hanzi":"speed bump","pinyin":"","vi":"gờ giảm tốc","ex":{"tokens":["Slow","down","for","the","speed","bump","."],"py":["","","","","","","."],"vi":"Hãy giảm tốc ở gờ giảm tốc.","alts":[]}},
    {"id":"y3046-pothole","hanzi":"pothole","pinyin":"","vi":"ổ gà","ex":{"tokens":["The","car","hit","a","pothole","."],"py":["","","","","","."],"vi":"Chiếc xe đâm vào ổ gà.","alts":[]}}
   ]},
-  {"id":"y3047","title":"Thể thao và tập luyện 1","desc":"Môn thể thao, vị trí thi đấu, bài tập","icon":"Sport","unit":353,"course":"en","order":2970,"words":[
+  {"id":"y3047","title":"Thể thao và tập luyện 1","desc":"Môn thể thao, vị trí thi đấu, bài tập","icon":"Sport","unit":353,"course":"en","order":3100,"words":[
    {"id":"y3047-substitute","hanzi":"substitute","pinyin":"","vi":"cầu thủ dự bị; thay thế","ex":{"tokens":["The","coach","sent","on","a","substitute","."],"py":["","","","","","","."],"vi":"Huấn luyện viên tung một cầu thủ dự bị vào sân.","alts":[]}},
    {"id":"y3047-goalkeeper","hanzi":"goalkeeper","pinyin":"","vi":"thủ môn","ex":{"tokens":["The","goalkeeper","saved","the","penalty","."],"py":["","","","","","."],"vi":"Thủ môn cản được quả phạt đền.","alts":[]}},
    {"id":"y3047-striker","hanzi":"striker","pinyin":"","vi":"tiền đạo","ex":{"tokens":["The","striker","scored","two","goals","."],"py":["","","","","","."],"vi":"Tiền đạo ghi hai bàn.","alts":[]}},
@@ -114,7 +114,7 @@
    {"id":"y3047-marathon","hanzi":"marathon","pinyin":"","vi":"cuộc chạy ma ra tông","ex":{"tokens":["She","ran","her","first","marathon","last","year","."],"py":["","","","","","","","."],"vi":"Năm ngoái cô ấy chạy ma ra tông lần đầu.","alts":[]}},
    {"id":"y3047-pole_vault","hanzi":"pole vault","pinyin":"","vi":"nhảy sào","ex":{"tokens":["He","broke","the","record","in","the","pole","vault","."],"py":["","","","","","","","","."],"vi":"Anh ấy phá kỷ lục nhảy sào.","alts":[]}}
   ]},
-  {"id":"y3048","title":"Thể thao và tập luyện 2","desc":"Môn thể thao, vị trí thi đấu, bài tập","icon":"Sport","unit":353,"course":"en","order":2980,"words":[
+  {"id":"y3048","title":"Thể thao và tập luyện 2","desc":"Môn thể thao, vị trí thi đấu, bài tập","icon":"Sport","unit":353,"course":"en","order":3110,"words":[
    {"id":"y3048-long_jump","hanzi":"long jump","pinyin":"","vi":"nhảy xa","ex":{"tokens":["She","won","a","medal","in","the","long","jump","."],"py":["","","","","","","","","."],"vi":"Cô ấy giành huy chương môn nhảy xa.","alts":[]}},
    {"id":"y3048-high_jump","hanzi":"high jump","pinyin":"","vi":"nhảy cao","ex":{"tokens":["He","practices","the","high","jump","after","school","."],"py":["","","","","","","","."],"vi":"Cậu ấy tập nhảy cao sau giờ học.","alts":[]}},
    {"id":"y3048-triathlon","hanzi":"triathlon","pinyin":"","vi":"ba môn phối hợp","ex":{"tokens":["A","triathlon","includes","swimming",",","cycling","and","running","."],"py":["","","","",",","","","","."],"vi":"Ba môn phối hợp gồm bơi, đạp xe và chạy.","alts":[]}},
@@ -128,7 +128,7 @@
    {"id":"y3048-surfing","hanzi":"surfing","pinyin":"","vi":"lướt sóng","ex":{"tokens":["Surfing","is","popular","in","Australia","."],"py":["","","","","","."],"vi":"Lướt sóng rất phổ biến ở Úc.","alts":[]}},
    {"id":"y3048-snorkeling","hanzi":"snorkeling","pinyin":"","vi":"lặn ống thở","ex":{"tokens":["We","went","snorkeling","near","the","reef","."],"py":["","","","","","","."],"vi":"Chúng tôi đi lặn ống thở gần rạn san hô.","alts":[]}}
   ]},
-  {"id":"y3049","title":"Thể thao và tập luyện 3","desc":"Môn thể thao, vị trí thi đấu, bài tập","icon":"Sport","unit":353,"course":"en","order":2990,"words":[
+  {"id":"y3049","title":"Thể thao và tập luyện 3","desc":"Môn thể thao, vị trí thi đấu, bài tập","icon":"Sport","unit":353,"course":"en","order":3120,"words":[
    {"id":"y3049-scuba_diving","hanzi":"scuba diving","pinyin":"","vi":"lặn bình khí","ex":{"tokens":["He","learned","scuba","diving","in","Nha","Trang","."],"py":["","","","","","","","."],"vi":"Anh ấy học lặn bình khí ở Nha Trang.","alts":[]}},
    {"id":"y3049-skateboarding","hanzi":"skateboarding","pinyin":"","vi":"trượt ván","ex":{"tokens":["Skateboarding","is","now","an","Olympic","sport","."],"py":["","","","","","","."],"vi":"Trượt ván nay là môn thi đấu Olympic.","alts":[]}},
    {"id":"y3049-snowboarding","hanzi":"snowboarding","pinyin":"","vi":"trượt ván tuyết","ex":{"tokens":["She","broke","her","wrist","while","snowboarding","."],"py":["","","","","","","."],"vi":"Cô ấy gãy cổ tay khi trượt ván tuyết.","alts":[]}},
@@ -142,7 +142,7 @@
    {"id":"y3049-bowling","hanzi":"bowling","pinyin":"","vi":"môn bowling","ex":{"tokens":["We","went","bowling","on","Friday","night","."],"py":["","","","","","","."],"vi":"Chúng tôi đi chơi bowling tối thứ Sáu.","alts":[]}},
    {"id":"y3049-billiards","hanzi":"billiards","pinyin":"","vi":"bi-a","ex":{"tokens":["The","men","played","billiards","in","the","café","."],"py":["","","","","","","","."],"vi":"Mấy người đàn ông chơi bi-a trong quán cà phê.","alts":[]}}
   ]},
-  {"id":"y3050","title":"Thể thao và tập luyện 4","desc":"Môn thể thao, vị trí thi đấu, bài tập","icon":"Sport","unit":353,"course":"en","order":3000,"words":[
+  {"id":"y3050","title":"Thể thao và tập luyện 4","desc":"Môn thể thao, vị trí thi đấu, bài tập","icon":"Sport","unit":353,"course":"en","order":3130,"words":[
    {"id":"y3050-golf_course","hanzi":"golf course","pinyin":"","vi":"sân gôn","ex":{"tokens":["The","hotel","has","its","own","golf","course","."],"py":["","","","","","","","."],"vi":"Khách sạn có sân gôn riêng.","alts":[]}},
    {"id":"y3050-hoop","hanzi":"hoop","pinyin":"","vi":"vòng rổ; cái vòng","ex":{"tokens":["The","ball","went","through","the","hoop","."],"py":["","","","","","","."],"vi":"Quả bóng đi qua vòng rổ.","alts":[]}},
    {"id":"y3050-goalpost","hanzi":"goalpost","pinyin":"","vi":"cột khung thành","ex":{"tokens":["The","ball","hit","the","goalpost","."],"py":["","","","","","."],"vi":"Quả bóng đập vào cột khung thành.","alts":[]}},

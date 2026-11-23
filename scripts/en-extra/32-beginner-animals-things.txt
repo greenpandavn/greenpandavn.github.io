@@ -1,0 +1,60 @@
+# Level 1 (Sơ cấp): con vật, thiên nhiên, đồ ăn, đồ chơi, lớp học.
+@1|Con vật và thiên nhiên|Con vật, bộ phận của con vật, cây cỏ|Animals
+chipmunk|sóc chuột|The chipmunk eats a nut.|Con sóc chuột ăn một hạt dẻ.
+mole|chuột chũi; nốt ruồi|A mole lives under the ground.|Chuột chũi sống dưới đất.
+turkey|gà tây|The turkey is big.|Con gà tây to.
+eagle|đại bàng|An eagle can fly high.|Đại bàng có thể bay cao.
+toad|con cóc|The toad sits on a rock.|Con cóc ngồi trên tảng đá.
+lizard|thằn lằn|A lizard is on the wall.|Một con thằn lằn ở trên tường.
+gecko|tắc kè, thạch sùng|The gecko eats bugs.|Con thạch sùng ăn côn trùng.
+chameleon|tắc kè hoa|A chameleon can change color.|Tắc kè hoa có thể đổi màu.
+crocodile|cá sấu|The crocodile has big teeth.|Con cá sấu có hàm răng to.
+alligator|cá sấu Mỹ|An alligator swims in the river.|Một con cá sấu Mỹ bơi trên sông.
+rhino|tê giác|The rhino has a horn.|Con tê giác có một cái sừng.
+koala|gấu túi koala|The koala sleeps in a tree.|Gấu koala ngủ trên cây.
+gorilla|khỉ đột|The gorilla is strong.|Con khỉ đột rất khỏe.
+chimpanzee|tinh tinh|The chimpanzee eats a banana.|Con tinh tinh ăn một quả chuối.
+leopard|báo hoa mai|A leopard runs fast.|Báo hoa mai chạy nhanh.
+panther|báo đen|The panther is black.|Con báo đen màu đen.
+donkey|con lừa|The donkey carries a bag.|Con lừa chở một cái bao.
+rooster|gà trống|The rooster wakes me up.|Con gà trống đánh thức tôi.
+hen|gà mái|The hen has six eggs.|Con gà mái có sáu quả trứng.
+tail|cái đuôi|The dog has a long tail.|Con chó có cái đuôi dài.
+wing|cái cánh|The bird hurt its wing.|Con chim bị đau cánh.
+fur|bộ lông (thú)|The cat has soft fur.|Con mèo có bộ lông mềm.
+web|mạng nhện; mạng|The spider makes a web.|Con nhện giăng mạng.
+twig|cành con|The bird holds a twig.|Con chim ngậm một cành con.
+log|khúc gỗ|We sit on a log.|Chúng tôi ngồi trên một khúc gỗ.
+acorn|quả sồi|The squirrel finds an acorn.|Con sóc tìm thấy một quả sồi.
+pinecone|quả thông|I found a pinecone in the park.|Tôi nhặt được một quả thông trong công viên.
+
+@1|Đồ ăn, đồ chơi và lớp học|Đồ ăn vặt, đồ của bé, giờ học|Play
+cracker|bánh quy giòn|I eat a cracker.|Tôi ăn một chiếc bánh quy giòn.
+oatmeal|cháo yến mạch|I have oatmeal for breakfast.|Tôi ăn cháo yến mạch vào bữa sáng.
+pudding|bánh pudding|The pudding is sweet.|Bánh pudding ngọt.
+brownie|bánh sô cô la nướng|She made a brownie.|Cô ấy làm một chiếc bánh sô cô la nướng.
+chocolate bar|thanh sô cô la|He has a chocolate bar.|Cậu ấy có một thanh sô cô la.
+ice cream cone|kem ốc quế|I want an ice cream cone.|Tôi muốn một cây kem ốc quế.
+chips|khoai tây chiên|We eat chips and fish.|Chúng tôi ăn khoai tây chiên và cá.
+taco|bánh taco|I had a taco for lunch.|Tôi ăn bánh taco vào bữa trưa.
+tricycle|xe đạp ba bánh|The boy rides a tricycle.|Cậu bé đi xe đạp ba bánh.
+building blocks|bộ xếp hình khối|The baby plays with building blocks.|Em bé chơi xếp hình khối.
+blackboard|bảng đen|The teacher writes on the blackboard.|Cô giáo viết lên bảng đen.
+flashcard|thẻ học từ|Look at the flashcard.|Hãy nhìn vào thẻ học từ.
+bead|hạt cườm|She has a red bead.|Cô bé có một hạt cườm đỏ.
+glitter|kim tuyến|I put glitter on the card.|Tôi rắc kim tuyến lên tấm thiệp.
+wand|đũa thần|The fairy has a wand.|Nàng tiên có một cây đũa thần.
+night light|đèn ngủ|My night light is blue.|Đèn ngủ của tôi màu xanh.
+bib|cái yếm|The baby wears a bib.|Em bé đeo yếm.
+potty|cái bô|The potty is in the bathroom.|Cái bô ở trong phòng tắm.
+rattle|cái lúc lắc|The baby shakes the rattle.|Em bé lắc cái lúc lắc.
+rubber duck|vịt cao su|I have a rubber duck in the bath.|Tôi có một con vịt cao su trong bồn tắm.
+storybook|sách truyện|Mom reads a storybook.|Mẹ đọc một cuốn sách truyện.
+picture book|sách tranh|This picture book is fun.|Cuốn sách tranh này rất vui.
+coloring book|sách tô màu|I have a new coloring book.|Tôi có một cuốn sách tô màu mới.
+nap time|giờ ngủ trưa|It is nap time now.|Bây giờ là giờ ngủ trưa.
+snack time|giờ ăn nhẹ|We eat fruit at snack time.|Chúng tôi ăn trái cây vào giờ ăn nhẹ.
+playtime|giờ chơi|Playtime is after lunch.|Giờ chơi là sau bữa trưa.
+recess|giờ ra chơi|We run at recess.|Chúng tôi chạy nhảy vào giờ ra chơi.
+show-and-tell|giờ mang đồ đến lớp và kể chuyện|I took my shell to show-and-tell.|Tôi mang vỏ sò đến giờ kể chuyện ở lớp.
+bath toy|đồ chơi nhà tắm|The duck is a bath toy.|Con vịt là đồ chơi nhà tắm.
