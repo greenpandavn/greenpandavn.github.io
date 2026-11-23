@@ -171,11 +171,11 @@ export default function App() {
     return true;
   };
   const gated = (unit: number | undefined) => {
-    if (firebaseConfigured && !acc.user && needsLogin(unit)) {
-      setGate(true);
-      return true;
-    }
-    return unit !== undefined && vipBlocked(unitLevel(unit));
+    // VIP content says so first (its gate also offers the login); everything else from Part 3 on asks for a login.
+    if (unit !== undefined && vipBlocked(unitLevel(unit))) return true;
+    if (!firebaseConfigured || acc.user || !needsLogin(unit)) return false;
+    setGate(true);
+    return true;
   };
   // Korean and Japanese are VIP-only as a whole: their games, reviews and mock tests are closed too.
   const courseBlocked = firebaseConfigured && !vip && vipCourse(getCourse());
@@ -329,7 +329,18 @@ export default function App() {
           />
         </DataGate>
       )}
-      {tab === 'words' && <WordsScreen />}
+      {tab === 'words' &&
+        (courseBlocked ? (
+          <div className="mx-auto max-w-md px-4 pt-10 text-center" data-testid="words-vip">
+            <p className="text-lg font-black text-ink-700">Khoá học này dành cho tài khoản VIP</p>
+            <p className="mt-1 text-sm font-bold text-ink-500">Từ vựng {langName()} chỉ mở cho tài khoản VIP.</p>
+            <button type="button" className="btn-green mt-4" onClick={() => setVipGate(true)} data-testid="words-vip-more">
+              Cách kích hoạt VIP
+            </button>
+          </div>
+        ) : (
+          <WordsScreen />
+        ))}
       {(tab === 'rank' || (tab === 'friends' && !chatOpen)) && <SocialTabs tab={tab} onChange={changeTab} friendsBadge={acc.user ? socialBadge(social) : 0} />}
       {tab === 'friends' && <FriendsScreen onLogin={openAuth} onChat={setChatOpen} />}
       {tab === 'rank' && <LeaderboardScreen onLogin={openAuth} />}
