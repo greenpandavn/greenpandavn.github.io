@@ -1,0 +1,77 @@
+{
+ "units": [
+  {"unit":52,"level":5,"title":"Phần 2: Tri thức chuyên sâu","desc":"Triết học, môi trường, y học, ngôn ngữ, học thuật","color":"sky","course":"ja"}
+ ],
+ "lessons": [
+  {"id":"ja506","title":"Triết học và tư tưởng","desc":"Khái niệm, đạo đức, lý trí","icon":"哲","unit":52,"course":"ja","order":660,"words":[
+   {"id":"ja506-哲学","hanzi":"哲学","pinyin":"tetsugaku","vi":"triết học","ex":{"tokens":["兄","は","大学","で","哲学","を","学んで","います","。"],"py":["ani","wa","daigaku","de","tetsugaku","o","manande","imasu","."],"vi":"Anh tôi đang học triết ở đại học.","alts":[]}},
+   {"id":"ja506-倫理","hanzi":"倫理","pinyin":"rinri","vi":"đạo lý, luân lý","ex":{"tokens":["医者","に","は","高い","倫理","が","必要","です","。"],"py":["isha","ni","wa","takai","rinri","ga","hitsuyou","desu","."],"vi":"Bác sĩ cần có đạo lý cao.","alts":[]}},
+   {"id":"ja506-概念","hanzi":"概念","pinyin":"gainen","vi":"khái niệm","ex":{"tokens":["この","概念","は","説明","が","難しい","です","。"],"py":["kono","gainen","wa","setsumei","ga","muzukashii","desu","."],"vi":"Khái niệm này khó giải thích.","alts":[]}},
+   {"id":"ja506-本質","hanzi":"本質","pinyin":"honshitsu","vi":"bản chất","ex":{"tokens":["問題","の","本質","を","考えましょう","。"],"py":["mondai","no","honshitsu","o","kangaemashou","."],"vi":"Hãy nghĩ về bản chất của vấn đề.","alts":[]}},
+   {"id":"ja506-矛盾","hanzi":"矛盾","pinyin":"mujun","vi":"mâu thuẫn","ex":{"tokens":["彼","の","話","に","は","矛盾","が","あります","。"],"py":["kare","no","hanashi","ni","wa","mujun","ga","arimasu","."],"vi":"Câu chuyện của anh ấy có mâu thuẫn.","alts":[]}},
+   {"id":"ja506-価値観","hanzi":"価値観","pinyin":"kachikan","vi":"quan niệm giá trị","ex":{"tokens":["人","に","よって","価値観","が","違います","。"],"py":["hito","ni","yotte","kachikan","ga","chigaimasu","."],"vi":"Mỗi người có quan niệm giá trị khác nhau.","alts":[]}},
+   {"id":"ja506-思想","hanzi":"思想","pinyin":"shisou","vi":"tư tưởng","ex":{"tokens":["この","本","は","昔","の","思想","を","紹介","します","。"],"py":["kono","hon","wa","mukashi","no","shisou","o","shoukai","shimasu","."],"vi":"Cuốn sách này giới thiệu tư tưởng ngày xưa.","alts":[]}},
+   {"id":"ja506-道徳","hanzi":"道徳","pinyin":"doutoku","vi":"đạo đức","ex":{"tokens":["小学校","で","道徳","を","教えます","。"],"py":["shougakkou","de","doutoku","o","oshiemasu","."],"vi":"Ở tiểu học có dạy đạo đức.","alts":[]}},
+   {"id":"ja506-理性","hanzi":"理性","pinyin":"risei","vi":"lý trí","ex":{"tokens":["怒って","も","理性","を","失わないで","ください","。"],"py":["okotte","mo","risei","o","ushinawanaide","kudasai","."],"vi":"Dù giận cũng đừng đánh mất lý trí.","alts":[]}},
+   {"id":"ja506-信念","hanzi":"信念","pinyin":"shinnen","vi":"niềm tin vững chắc","ex":{"tokens":["彼女","は","強い","信念","を","持って","います","。"],"py":["kanojo","wa","tsuyoi","shinnen","o","motte","imasu","."],"vi":"Cô ấy có niềm tin mạnh mẽ.","alts":[]}},
+   {"id":"ja506-論理","hanzi":"論理","pinyin":"ronri","vi":"logic, lý luận","ex":{"tokens":["彼","の","説明","は","論理","が","正しい","です","。"],"py":["kare","no","setsumei","wa","ronri","ga","tadashii","desu","."],"vi":"Lời giải thích của anh ấy đúng logic.","alts":[]}},
+   {"id":"ja506-主観","hanzi":"主観","pinyin":"shukan","vi":"chủ quan","ex":{"tokens":["これ","は","私","の","主観","の","意見","です","。"],"py":["kore","wa","watashi","no","shukan","no","iken","desu","."],"vi":"Đây là ý kiến chủ quan của tôi.","alts":[]}}
+  ]},
+  {"id":"ja507","title":"Môi trường và thiên tai","desc":"Hệ sinh thái, phát thải, thảm họa","icon":"球","unit":52,"course":"ja","order":670,"words":[
+   {"id":"ja507-生態系","hanzi":"生態系","pinyin":"seitaikei","vi":"hệ sinh thái","ex":{"tokens":["汚染","が","海","の","生態系","を","壊します","。"],"py":["osen","ga","umi","no","seitaikei","o","kowashimasu","."],"vi":"Ô nhiễm phá hủy hệ sinh thái biển.","alts":[]}},
+   {"id":"ja507-温暖化","hanzi":"温暖化","pinyin":"ondanka","vi":"sự nóng lên toàn cầu","ex":{"tokens":["地球","の","温暖化","が","進んで","います","。"],"py":["chikyuu","no","ondanka","ga","susunde","imasu","."],"vi":"Trái đất đang nóng dần lên.","alts":[]}},
+   {"id":"ja507-排出","hanzi":"排出","pinyin":"haishutsu","vi":"thải ra, phát thải","ex":{"tokens":["工場","は","ガス","を","排出","して","います","。"],"py":["koujou","wa","gasu","o","haishutsu","shite","imasu","."],"vi":"Nhà máy đang thải khí.","alts":[]}},
+   {"id":"ja507-資源","hanzi":"資源","pinyin":"shigen","vi":"tài nguyên","ex":{"tokens":["水","は","大切","な","資源","です","。"],"py":["mizu","wa","taisetsu","na","shigen","desu","."],"vi":"Nước là tài nguyên quý.","alts":[]}},
+   {"id":"ja507-再生","hanzi":"再生","pinyin":"saisei","vi":"tái chế, tái sinh","ex":{"tokens":["古い","紙","を","再生","して","使います","。"],"py":["furui","kami","o","saisei","shite","tsukaimasu","."],"vi":"Giấy cũ được tái chế để dùng.","alts":[]}},
+   {"id":"ja507-絶滅","hanzi":"絶滅","pinyin":"zetsumetsu","vi":"tuyệt chủng","ex":{"tokens":["その","鳥","は","百年前","に","絶滅","しました","。"],"py":["sono","tori","wa","hyakunenmae","ni","zetsumetsu","shimashita","."],"vi":"Loài chim đó đã tuyệt chủng một trăm năm trước.","alts":[]}},
+   {"id":"ja507-森林","hanzi":"森林","pinyin":"shinrin","vi":"rừng","ex":{"tokens":["この","国","は","森林","が","多い","です","。"],"py":["kono","kuni","wa","shinrin","ga","ooi","desu","."],"vi":"Nước này có nhiều rừng.","alts":[]}},
+   {"id":"ja507-干ばつ","hanzi":"干ばつ","pinyin":"kanbatsu","vi":"hạn hán","ex":{"tokens":["干ばつ","で","米","が","取れません","でした","。"],"py":["kanbatsu","de","kome","ga","toremasen","deshita","."],"vi":"Vì hạn hán nên không thu được lúa.","alts":[]}},
+   {"id":"ja507-噴火","hanzi":"噴火","pinyin":"funka","vi":"núi lửa phun trào","ex":{"tokens":["昨日","火山","が","噴火","しました","。"],"py":["kinou","kazan","ga","funka","shimashita","."],"vi":"Hôm qua núi lửa đã phun trào.","alts":[]}},
+   {"id":"ja507-津波","hanzi":"津波","pinyin":"tsunami","vi":"sóng thần","ex":{"tokens":["地震","の","後","に","津波","が","来ました","。"],"py":["jishin","no","ato","ni","tsunami","ga","kimashita","."],"vi":"Sau động đất, sóng thần đã đến.","alts":[]}},
+   {"id":"ja507-放射能","hanzi":"放射能","pinyin":"houshanou","vi":"phóng xạ","ex":{"tokens":["専門家","が","放射能","を","測りました","。"],"py":["senmonka","ga","houshanou","o","hakarimashita","."],"vi":"Chuyên gia đã đo phóng xạ.","alts":[]}},
+   {"id":"ja507-廃棄物","hanzi":"廃棄物","pinyin":"haikibutsu","vi":"chất thải","ex":{"tokens":["工場","の","廃棄物","を","川","に","捨てて","は","いけません","。"],"py":["koujou","no","haikibutsu","o","kawa","ni","sutete","wa","ikemasen","."],"vi":"Không được đổ chất thải nhà máy ra sông.","alts":[]}}
+  ]},
+  {"id":"ja508","title":"Y học chuyên sâu","desc":"Chẩn đoán, miễn dịch, chăm sóc","icon":"療","unit":52,"course":"ja","order":680,"words":[
+   {"id":"ja508-診断","hanzi":"診断","pinyin":"shindan","vi":"chẩn đoán","ex":{"tokens":["医者","は","風邪","と","診断","しました","。"],"py":["isha","wa","kaze","to","shindan","shimashita","."],"vi":"Bác sĩ đã chẩn đoán là cảm.","alts":[]}},
+   {"id":"ja508-免疫","hanzi":"免疫","pinyin":"men'eki","vi":"miễn dịch","ex":{"tokens":["よく","寝る","と","免疫","が","強く","なります","。"],"py":["yoku","neru","to","men'eki","ga","tsuyoku","narimasu","."],"vi":"Ngủ đủ thì miễn dịch mạnh lên.","alts":[]}},
+   {"id":"ja508-遺伝","hanzi":"遺伝","pinyin":"iden","vi":"di truyền","ex":{"tokens":["目","の","色","は","親","から","遺伝","します","。"],"py":["me","no","iro","wa","oya","kara","iden","shimasu","."],"vi":"Màu mắt di truyền từ cha mẹ.","alts":[]}},
+   {"id":"ja508-腫瘍","hanzi":"腫瘍","pinyin":"shuyou","vi":"khối u","ex":{"tokens":["検査","で","小さい","腫瘍","が","見つかりました","。"],"py":["kensa","de","chiisai","shuyou","ga","mitsukarimashita","."],"vi":"Xét nghiệm đã phát hiện một khối u nhỏ.","alts":[]}},
+   {"id":"ja508-慢性","hanzi":"慢性","pinyin":"mansei","vi":"mãn tính","ex":{"tokens":["母","は","慢性","の","病気","が","あります","。"],"py":["haha","wa","mansei","no","byouki","ga","arimasu","."],"vi":"Mẹ tôi có bệnh mãn tính.","alts":[]}},
+   {"id":"ja508-臓器","hanzi":"臓器","pinyin":"zouki","vi":"nội tạng","ex":{"tokens":["心臓","は","大切","な","臓器","です","。"],"py":["shinzou","wa","taisetsu","na","zouki","desu","."],"vi":"Tim là nội tạng quan trọng.","alts":[]}},
+   {"id":"ja508-移植","hanzi":"移植","pinyin":"ishoku","vi":"cấy ghép","ex":{"tokens":["彼","は","去年","心臓","の","移植","を","受けました","。"],"py":["kare","wa","kyonen","shinzou","no","ishoku","o","ukemashita","."],"vi":"Năm ngoái anh ấy đã được ghép tim.","alts":[]}},
+   {"id":"ja508-麻酔","hanzi":"麻酔","pinyin":"masui","vi":"gây mê, gây tê","ex":{"tokens":["手術","の","前","に","麻酔","を","します","。"],"py":["shujutsu","no","mae","ni","masui","o","shimasu","."],"vi":"Trước phẫu thuật sẽ gây mê.","alts":[]}},
+   {"id":"ja508-処方","hanzi":"処方","pinyin":"shohou","vi":"kê đơn","ex":{"tokens":["医者","が","薬","を","処方","しました","。"],"py":["isha","ga","kusuri","o","shohou","shimashita","."],"vi":"Bác sĩ đã kê đơn thuốc.","alts":[]}},
+   {"id":"ja508-介護","hanzi":"介護","pinyin":"kaigo","vi":"chăm sóc (người già, người bệnh)","ex":{"tokens":["母","は","祖母","を","介護","して","います","。"],"py":["haha","wa","sobo","o","kaigo","shite","imasu","."],"vi":"Mẹ tôi đang chăm sóc bà.","alts":[]}},
+   {"id":"ja508-認知症","hanzi":"認知症","pinyin":"ninchishou","vi":"chứng sa sút trí tuệ","ex":{"tokens":["祖父","は","認知症","に","なりました","。"],"py":["sofu","wa","ninchishou","ni","narimashita","."],"vi":"Ông tôi đã mắc chứng sa sút trí tuệ.","alts":[]}},
+   {"id":"ja508-脳","hanzi":"脳","pinyin":"nou","vi":"não","ex":{"tokens":["睡眠","は","脳","を","休ませます","。"],"py":["suimin","wa","nou","o","yasumasemasu","."],"vi":"Giấc ngủ cho não nghỉ ngơi.","alts":[]}}
+  ]},
+  {"id":"ja509","title":"Ngôn ngữ và văn chương","desc":"Từ vựng, ẩn dụ, diễn giải","icon":"語","unit":52,"course":"ja","order":690,"words":[
+   {"id":"ja509-語彙","hanzi":"語彙","pinyin":"goi","vi":"vốn từ vựng","ex":{"tokens":["本","を","読む","と","語彙","が","増えます","。"],"py":["hon","o","yomu","to","goi","ga","fuemasu","."],"vi":"Đọc sách thì vốn từ tăng lên.","alts":[]}},
+   {"id":"ja509-比喩","hanzi":"比喩","pinyin":"hiyu","vi":"phép ẩn dụ, so sánh","ex":{"tokens":["この","詩","は","比喩","が","多い","です","。"],"py":["kono","shi","wa","hiyu","ga","ooi","desu","."],"vi":"Bài thơ này có nhiều ẩn dụ.","alts":[]}},
+   {"id":"ja509-敬語","hanzi":"敬語","pinyin":"keigo","vi":"kính ngữ","ex":{"tokens":["社長","に","は","敬語","で","話します","。"],"py":["shachou","ni","wa","keigo","de","hanashimasu","."],"vi":"Tôi nói kính ngữ với giám đốc.","alts":[]}},
+   {"id":"ja509-方言","hanzi":"方言","pinyin":"hougen","vi":"phương ngữ","ex":{"tokens":["祖母","は","大阪","の","方言","で","話します","。"],"py":["sobo","wa","oosaka","no","hougen","de","hanashimasu","."],"vi":"Bà tôi nói phương ngữ Osaka.","alts":[]}},
+   {"id":"ja509-文脈","hanzi":"文脈","pinyin":"bunmyaku","vi":"ngữ cảnh","ex":{"tokens":["言葉","の","意味","は","文脈","で","変わります","。"],"py":["kotoba","no","imi","wa","bunmyaku","de","kawarimasu","."],"vi":"Nghĩa của từ thay đổi theo ngữ cảnh.","alts":[]}},
+   {"id":"ja509-発音","hanzi":"発音","pinyin":"hatsuon","vi":"phát âm","ex":{"tokens":["彼女","は","日本語","の","発音","が","きれい","です","。"],"py":["kanojo","wa","nihongo","no","hatsuon","ga","kirei","desu","."],"vi":"Cô ấy phát âm tiếng Nhật hay.","alts":[]}},
+   {"id":"ja509-表現","hanzi":"表現","pinyin":"hyougen","vi":"cách diễn đạt","ex":{"tokens":["気持ち","を","言葉","で","表現","します","。"],"py":["kimochi","o","kotoba","de","hyougen","shimasu","."],"vi":"Tôi diễn đạt cảm xúc bằng lời.","alts":[]}},
+   {"id":"ja509-随筆","hanzi":"随筆","pinyin":"zuihitsu","vi":"tùy bút","ex":{"tokens":["先生","は","旅","の","随筆","を","書きました","。"],"py":["sensei","wa","tabi","no","zuihitsu","o","kakimashita","."],"vi":"Thầy đã viết tùy bút về chuyến đi.","alts":[]}},
+   {"id":"ja509-詩","hanzi":"詩","pinyin":"shi","vi":"thơ","ex":{"tokens":["彼","は","春","の","詩","を","作りました","。"],"py":["kare","wa","haru","no","shi","o","tsukurimashita","."],"vi":"Anh ấy đã làm thơ về mùa xuân.","alts":[]}},
+   {"id":"ja509-俳句","hanzi":"俳句","pinyin":"haiku","vi":"thơ haiku","ex":{"tokens":["授業","で","俳句","を","習いました","。"],"py":["jugyou","de","haiku","o","naraimashita","."],"vi":"Trong giờ học tôi đã học thơ haiku.","alts":[]}},
+   {"id":"ja509-批評","hanzi":"批評","pinyin":"hihyou","vi":"phê bình (tác phẩm)","ex":{"tokens":["新聞","に","映画","の","批評","が","出ました","。"],"py":["shinbun","ni","eiga","no","hihyou","ga","demashita","."],"vi":"Bài phê bình phim đã đăng trên báo.","alts":[]}},
+   {"id":"ja509-解釈","hanzi":"解釈","pinyin":"kaishaku","vi":"diễn giải, cách hiểu","ex":{"tokens":["この","文","は","二つ","の","解釈","が","あります","。"],"py":["kono","bun","wa","futatsu","no","kaishaku","ga","arimasu","."],"vi":"Câu này có hai cách hiểu.","alts":[]}}
+  ]},
+  {"id":"ja510","title":"Học thuật","desc":"Lý thuyết, căn cứ, kiểm chứng","icon":"術","unit":52,"course":"ja","order":700,"words":[
+   {"id":"ja510-学問","hanzi":"学問","pinyin":"gakumon","vi":"học vấn","ex":{"tokens":["彼","は","一生","学問","を","続けました","。"],"py":["kare","wa","isshou","gakumon","o","tsuzukemashita","."],"vi":"Ông ấy theo đuổi học vấn suốt đời.","alts":[]}},
+   {"id":"ja510-理論","hanzi":"理論","pinyin":"riron","vi":"lý thuyết","ex":{"tokens":["この","理論","は","まだ","新しい","です","。"],"py":["kono","riron","wa","mada","atarashii","desu","."],"vi":"Lý thuyết này vẫn còn mới.","alts":[]}},
+   {"id":"ja510-統計","hanzi":"統計","pinyin":"toukei","vi":"thống kê","ex":{"tokens":["政府","は","人口","の","統計","を","出しました","。"],"py":["seifu","wa","jinkou","no","toukei","o","dashimashita","."],"vi":"Chính phủ đã công bố thống kê dân số.","alts":[]}},
+   {"id":"ja510-現象","hanzi":"現象","pinyin":"genshou","vi":"hiện tượng","ex":{"tokens":["これ","は","珍しい","自然","の","現象","です","。"],"py":["kore","wa","mezurashii","shizen","no","genshou","desu","."],"vi":"Đây là hiện tượng tự nhiên hiếm gặp.","alts":[]}},
+   {"id":"ja510-要因","hanzi":"要因","pinyin":"youin","vi":"nguyên nhân chính, yếu tố","ex":{"tokens":["事故","の","要因","を","調べて","います","。"],"py":["jiko","no","youin","o","shirabete","imasu","."],"vi":"Đang điều tra yếu tố gây tai nạn.","alts":[]}},
+   {"id":"ja510-傾向","hanzi":"傾向","pinyin":"keikou","vi":"khuynh hướng","ex":{"tokens":["若い","人","は","新聞","を","読まない","傾向","が","あります","。"],"py":["wakai","hito","wa","shinbun","o","yomanai","keikou","ga","arimasu","."],"vi":"Người trẻ có khuynh hướng không đọc báo.","alts":[]}},
+   {"id":"ja510-根拠","hanzi":"根拠","pinyin":"konkyo","vi":"căn cứ","ex":{"tokens":["その","話","に","は","根拠","が","ありません","。"],"py":["sono","hanashi","ni","wa","konkyo","ga","arimasen","."],"vi":"Câu chuyện đó không có căn cứ.","alts":[]}},
+   {"id":"ja510-観点","hanzi":"観点","pinyin":"kanten","vi":"góc nhìn, quan điểm","ex":{"tokens":["別","の","観点","から","考えて","みましょう","。"],"py":["betsu","no","kanten","kara","kangaete","mimashou","."],"vi":"Hãy thử nghĩ từ góc nhìn khác.","alts":[]}},
+   {"id":"ja510-前提","hanzi":"前提","pinyin":"zentei","vi":"tiền đề","ex":{"tokens":["結婚","を","前提","に","付き合って","います","。"],"py":["kekkon","o","zentei","ni","tsukiatte","imasu","."],"vi":"Chúng tôi hẹn hò với tiền đề là kết hôn.","alts":[]}},
+   {"id":"ja510-考察","hanzi":"考察","pinyin":"kousatsu","vi":"khảo sát, suy xét","ex":{"tokens":["論文","で","結果","を","考察","しました","。"],"py":["ronbun","de","kekka","o","kousatsu","shimashita","."],"vi":"Tôi đã suy xét kết quả trong luận văn.","alts":[]}},
+   {"id":"ja510-検証","hanzi":"検証","pinyin":"kenshou","vi":"kiểm chứng","ex":{"tokens":["学者","は","その","仮説","を","検証","しました","。"],"py":["gakusha","wa","sono","kasetsu","o","kenshou","shimashita","."],"vi":"Nhà khoa học đã kiểm chứng giả thuyết đó.","alts":[]}},
+   {"id":"ja510-体系","hanzi":"体系","pinyin":"taikei","vi":"hệ thống","ex":{"tokens":["この","本","は","文法","の","体系","を","説明","します","。"],"py":["kono","hon","wa","bunpou","no","taikei","o","setsumei","shimasu","."],"vi":"Cuốn sách này giải thích hệ thống ngữ pháp.","alts":[]}}
+  ]}
+ ]
+}

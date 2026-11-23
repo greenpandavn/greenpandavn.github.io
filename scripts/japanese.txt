@@ -638,3 +638,429 @@
 なぜなら|bởi vì|行けません:いけません 、 なぜなら 仕事:しごと が あります 。|Tôi không đi được, bởi vì có việc.
 もし|nếu|もし 雨:あめ なら 家:いえ に います 。|Nếu mưa thì tôi ở nhà.
 かなり|khá là|今日:きょう の 試験:しけん は かなり 難しい:むずかしい です 。|Bài thi hôm nay khá khó.
+
+%41|4|Phần 1: Kinh tế và xã hội|Kinh tế, kinh doanh, chính trị, pháp luật, vấn đề xã hội|leaf
+@ja401|Kinh tế|Vật giá, thu chi, xuất nhập khẩu|経
+経済:けいざい|kinh tế|日本:にほん の 経済:けいざい は 少し:すこし 良く:よく なりました 。|Kinh tế Nhật Bản đã khá lên một chút.
+景気:けいき|tình hình kinh tế|今年:ことし は 景気:けいき が 悪い:わるい です 。|Năm nay tình hình kinh tế xấu.
+物価:ぶっか|vật giá|東京:とうきょう は 物価:ぶっか が 高い:たかい です 。|Tokyo có vật giá cao.
+収入:しゅうにゅう|thu nhập|収入:しゅうにゅう が 去年:きょねん より 増えました:ふえました 。|Thu nhập đã tăng so với năm ngoái.
+支出:ししゅつ|chi tiêu|今月:こんげつ は 支出:ししゅつ が 多い:おおい です 。|Tháng này chi tiêu nhiều.
+税金:ぜいきん|tiền thuế|国民:こくみん は 税金:ぜいきん を 払います:はらいます 。|Người dân nộp thuế.
+輸出:ゆしゅつ|xuất khẩu|日本:にほん は 車:くるま を 輸出:ゆしゅつ して います 。|Nhật Bản xuất khẩu ô tô.
+輸入:ゆにゅう|nhập khẩu|この 国:くに は 石油:せきゆ を 輸入:ゆにゅう して います 。|Nước này nhập khẩu dầu mỏ.
+貿易:ぼうえき|thương mại, mậu dịch|父:ちち は 貿易:ぼうえき の 会社:かいしゃ で 働いて:はたらいて います 。|Bố tôi làm ở công ty thương mại.
+投資:とうし|đầu tư|彼:かれ は 新しい:あたらしい 会社:かいしゃ に 投資:とうし しました 。|Anh ấy đã đầu tư vào công ty mới.
+需要:じゅよう|nhu cầu (thị trường)|夏:なつ は 電気:でんき の 需要:じゅよう が 増えます:ふえます 。|Mùa hè nhu cầu điện tăng.
+供給:きょうきゅう|nguồn cung, cung cấp|水:みず の 供給:きょうきゅう が 止まりました:とまりました 。|Việc cấp nước đã ngừng.
+
+@ja402|Kinh doanh|Doanh nghiệp, hợp đồng, sản phẩm|商
+企業:きぎょう|doanh nghiệp|多く:おおく の 企業:きぎょう が 海外:かいがい に 工場:こうじょう を 作りました:つくりました 。|Nhiều doanh nghiệp đã xây nhà máy ở nước ngoài.
+経営:けいえい|kinh doanh, quản trị|叔父:おじ は 小さい:ちいさい 店:みせ を 経営:けいえい して います 。|Chú tôi kinh doanh một cửa hàng nhỏ.
+利益:りえき|lợi nhuận|今年:ことし は 会社:かいしゃ の 利益:りえき が 増えました:ふえました 。|Năm nay lợi nhuận công ty đã tăng.
+損害:そんがい|thiệt hại|台風:たいふう で 大きい:おおきい 損害:そんがい が 出ました:でました 。|Bão đã gây thiệt hại lớn.
+契約:けいやく|hợp đồng|昨日:きのう 新しい:あたらしい 契約:けいやく を 結びました:むすびました 。|Hôm qua tôi đã ký hợp đồng mới.
+取引:とりひき|giao dịch|あの 会社:かいしゃ と 長い:ながい 間:あいだ 取引:とりひき して います 。|Chúng tôi giao dịch với công ty đó đã lâu.
+販売:はんばい|bán hàng|この 本:ほん は 来月:らいげつ から 販売:はんばい します 。|Cuốn sách này bán từ tháng sau.
+商品:しょうひん|sản phẩm, hàng hóa|新しい:あたらしい 商品:しょうひん が 店:みせ に 並びました:ならびました 。|Sản phẩm mới đã được bày trong cửa hàng.
+製造:せいぞう|sản xuất, chế tạo|この 工場:こうじょう は 部品:ぶひん を 製造:せいぞう して います 。|Nhà máy này sản xuất linh kiện.
+品質:ひんしつ|chất lượng|この 店:みせ の 服:ふく は 品質:ひんしつ が いい です 。|Quần áo của cửa hàng này chất lượng tốt.
+競争:きょうそう|cạnh tranh|会社:かいしゃ の 間:あいだ の 競争:きょうそう が 激しい:はげしい です 。|Cạnh tranh giữa các công ty rất gay gắt.
+消費者:しょうひしゃ|người tiêu dùng|会社:かいしゃ は 消費者:しょうひしゃ の 意見:いけん を 聞きます:ききます 。|Công ty lắng nghe ý kiến người tiêu dùng.
+
+@ja403|Chính trị|Chính phủ, bầu cử, quyền và nghĩa vụ|政
+政治:せいじ|chính trị|若い:わかい 人:ひと も 政治:せいじ に 関心:かんしん が あります 。|Người trẻ cũng quan tâm đến chính trị.
+政府:せいふ|chính phủ|政府:せいふ は 新しい:あたらしい 計画:けいかく を 発表:はっぴょう しました 。|Chính phủ đã công bố kế hoạch mới.
+選挙:せんきょ|bầu cử|来月:らいげつ 市長:しちょう の 選挙:せんきょ が あります 。|Tháng sau có bầu cử thị trưởng.
+投票:とうひょう|bỏ phiếu|日曜日:にちようび に 投票:とうひょう に 行きます:いきます 。|Chủ nhật tôi đi bỏ phiếu.
+国会:こっかい|quốc hội|国会:こっかい で 新しい:あたらしい 法律:ほうりつ を 決めます:きめます 。|Quốc hội quyết định luật mới.
+首相:しゅしょう|thủ tướng|首相:しゅしょう が 外国:がいこく を 訪問:ほうもん しました 。|Thủ tướng đã thăm nước ngoài.
+大臣:だいじん|bộ trưởng|大臣:だいじん が 記者:きしゃ の 質問:しつもん に 答えました:こたえました 。|Bộ trưởng đã trả lời câu hỏi của phóng viên.
+政策:せいさく|chính sách|新しい:あたらしい 教育:きょういく の 政策:せいさく が 始まりました:はじまりました 。|Chính sách giáo dục mới đã bắt đầu.
+国民:こくみん|quốc dân, người dân|政府:せいふ は 国民:こくみん の 声:こえ を 聞きます:ききます 。|Chính phủ lắng nghe tiếng nói của người dân.
+議論:ぎろん|tranh luận, thảo luận|その 問題:もんだい に ついて 長く:ながく 議論:ぎろん しました 。|Chúng tôi đã thảo luận lâu về vấn đề đó.
+権利:けんり|quyền lợi|誰:だれ でも 学ぶ:まなぶ 権利:けんり が あります 。|Ai cũng có quyền được học.
+義務:ぎむ|nghĩa vụ|税金:ぜいきん を 払う:はらう こと は 国民:こくみん の 義務:ぎむ です 。|Nộp thuế là nghĩa vụ của người dân.
+
+@ja404|Pháp luật|Quy định, xét xử, vi phạm|法
+法律:ほうりつ|pháp luật|皆:みな が 法律:ほうりつ を 守ります:まもります 。|Mọi người tuân thủ pháp luật.
+規則:きそく|quy tắc|学校:がっこう の 規則:きそく は 厳しい:きびしい です 。|Quy tắc của trường nghiêm khắc.
+裁判:さいばん|phiên tòa, xét xử|来週:らいしゅう その 事件:じけん の 裁判:さいばん が 始まります:はじまります 。|Tuần sau phiên tòa xử vụ đó bắt đầu.
+弁護士:べんごし|luật sư|困って:こまって 弁護士:べんごし に 相談:そうだん しました 。|Gặp khó nên tôi đã hỏi ý kiến luật sư.
+犯罪:はんざい|tội phạm|この 町:まち は 犯罪:はんざい が 少ない:すくない です 。|Thị trấn này ít tội phạm.
+逮捕:たいほ|bắt giữ|警察:けいさつ は 男:おとこ を 逮捕:たいほ しました 。|Cảnh sát đã bắt giữ người đàn ông.
+証拠:しょうこ|chứng cứ|警察:けいさつ は 新しい:あたらしい 証拠:しょうこ を 見つけました:みつけました 。|Cảnh sát đã tìm thấy chứng cứ mới.
+違反:いはん|vi phạm|彼:かれ は 交通:こうつう の 規則:きそく に 違反:いはん しました 。|Anh ấy đã vi phạm luật giao thông.
+罰金:ばっきん|tiền phạt|駐車:ちゅうしゃ 違反:いはん で 罰金:ばっきん を 払いました:はらいました 。|Tôi đã nộp phạt vì đỗ xe sai quy định.
+禁止:きんし|cấm|ここ は 駐車:ちゅうしゃ が 禁止:きんし です 。|Ở đây cấm đỗ xe.
+許可:きょか|sự cho phép|先生:せんせい の 許可:きょか を もらいました 。|Tôi đã được thầy cho phép.
+責任:せきにん|trách nhiệm|社長:しゃちょう は 事故:じこ の 責任:せきにん を 取りました:とりました 。|Giám đốc đã nhận trách nhiệm về vụ tai nạn.
+
+@ja405|Vấn đề xã hội|Dân số, phúc lợi, bình đẳng|社
+社会:しゃかい|xã hội|私:わたし は 社会:しゃかい の 役:やく に 立ちたい:たちたい です 。|Tôi muốn có ích cho xã hội.
+人口:じんこう|dân số|この 町:まち の 人口:じんこう は 減って:へって います 。|Dân số thị trấn này đang giảm.
+高齢者:こうれいしゃ|người cao tuổi|この 村:むら は 高齢者:こうれいしゃ が 多い:おおい です 。|Làng này có nhiều người cao tuổi.
+少子化:しょうしか|tình trạng ít trẻ em|日本:にほん で は 少子化:しょうしか が 進んで:すすんで います 。|Ở Nhật, tình trạng ít trẻ em đang tăng.
+福祉:ふくし|phúc lợi|姉:あね は 福祉:ふくし の 仕事:しごと を して います 。|Chị tôi làm công việc phúc lợi.
+年金:ねんきん|lương hưu|祖父:そふ は 年金:ねんきん で 生活:せいかつ して います 。|Ông tôi sống bằng lương hưu.
+失業:しつぎょう|thất nghiệp|去年:きょねん 失業:しつぎょう する 人:ひと が 増えました:ふえました 。|Năm ngoái số người thất nghiệp đã tăng.
+貧困:ひんこん|nghèo đói|世界:せかい に は 貧困:ひんこん の 問題:もんだい が あります 。|Trên thế giới có vấn đề nghèo đói.
+差別:さべつ|phân biệt đối xử|差別:さべつ の ない 社会:しゃかい を 作りましょう:つくりましょう 。|Hãy xây dựng xã hội không phân biệt đối xử.
+平等:びょうどう|bình đẳng|法律:ほうりつ の 前:まえ で 人:ひと は 平等:びょうどう です 。|Trước pháp luật mọi người bình đẳng.
+格差:かくさ|khoảng cách chênh lệch|都市:とし と 田舎:いなか の 格差:かくさ が 広がりました:ひろがりました 。|Chênh lệch giữa thành thị và nông thôn đã rộng ra.
+支援:しえん|hỗ trợ|市:し は 学生:がくせい の 生活:せいかつ を 支援:しえん して います 。|Thành phố hỗ trợ đời sống sinh viên.
+
+%42|4|Phần 2: Khoa học và tri thức|Khoa học, công nghệ, y học, giáo dục, nghệ thuật|sky
+@ja406|Khoa học|Thí nghiệm, vũ trụ, vật chất|科
+科学:かがく|khoa học|科学:かがく の 本:ほん を 読む:よむ の が 好き:すき です 。|Tôi thích đọc sách khoa học.
+実験:じっけん|thí nghiệm|学生:がくせい が 教室:きょうしつ で 実験:じっけん を して います 。|Sinh viên đang làm thí nghiệm trong lớp.
+研究:けんきゅう|nghiên cứu|姉:あね は 大学:だいがく で 薬:くすり を 研究:けんきゅう して います 。|Chị tôi nghiên cứu thuốc ở đại học.
+発見:はっけん|phát hiện|学者:がくしゃ が 新しい:あたらしい 星:ほし を 発見:はっけん しました 。|Nhà khoa học đã phát hiện ngôi sao mới.
+発明:はつめい|phát minh|電話:でんわ は 誰:だれ が 発明:はつめい しました か 。|Ai đã phát minh ra điện thoại?
+物質:ぶっしつ|vật chất, chất|この 物質:ぶっしつ は 水:みず に 溶けます:とけます 。|Chất này tan trong nước.
+宇宙:うちゅう|vũ trụ|いつか 宇宙:うちゅう へ 行きたい:いきたい です 。|Một ngày nào đó tôi muốn lên vũ trụ.
+地球:ちきゅう|trái đất|地球:ちきゅう は 太陽:たいよう の 周り:まわり を 回ります:まわります 。|Trái đất quay quanh mặt trời.
+重力:じゅうりょく|trọng lực|月:つき は 重力:じゅうりょく が 弱い:よわい です 。|Mặt trăng có trọng lực yếu.
+細胞:さいぼう|tế bào|体:からだ は 多く:おおく の 細胞:さいぼう で できて います 。|Cơ thể được tạo từ nhiều tế bào.
+酸素:さんそ|khí oxy|山:やま の 上:うえ は 酸素:さんそ が 少ない:すくない です 。|Trên núi cao ít oxy.
+温度:おんど|nhiệt độ|部屋:へや の 温度:おんど を 下げて:さげて ください 。|Hãy hạ nhiệt độ phòng xuống.
+
+@ja407|Công nghệ|Máy móc, phát triển, sửa chữa|技
+技術:ぎじゅつ|kỹ thuật, công nghệ|日本:にほん の 技術:ぎじゅつ は 有名:ゆうめい です 。|Công nghệ Nhật Bản nổi tiếng.
+機械:きかい|máy móc|この 機械:きかい は 使い方:つかいかた が 簡単:かんたん です 。|Cái máy này dễ dùng.
+装置:そうち|thiết bị|新しい:あたらしい 装置:そうち を 工場:こうじょう に 入れました:いれました 。|Chúng tôi đã đưa thiết bị mới vào nhà máy.
+開発:かいはつ|phát triển, khai phá|会社:かいしゃ は 新しい:あたらしい 薬:くすり を 開発:かいはつ しました 。|Công ty đã phát triển loại thuốc mới.
+性能:せいのう|tính năng, hiệu năng|この 車:くるま は 性能:せいのう が いい です 。|Chiếc xe này có hiệu năng tốt.
+故障:こしょう|hỏng hóc|エレベーター が 故障:こしょう して います 。|Thang máy đang bị hỏng.
+修理:しゅうり|sửa chữa (máy móc)|時計:とけい を 修理:しゅうり に 出しました:だしました 。|Tôi đã đem đồng hồ đi sửa.
+操作:そうさ|thao tác, điều khiển|この 機械:きかい の 操作:そうさ は 難しい:むずかしい です 。|Thao tác máy này khó.
+通信:つうしん|truyền thông, liên lạc|山:やま の 中:なか は 通信:つうしん が 悪い:わるい です 。|Trong núi liên lạc kém.
+電波:でんぱ|sóng điện từ|ここ は 電波:でんぱ が 届きません:とどきません 。|Ở đây không có sóng.
+人工知能:じんこうちのう|trí tuệ nhân tạo|人工知能:じんこうちのう が 文:ぶん を 翻訳:ほんやく します 。|Trí tuệ nhân tạo dịch câu văn.
+充電:じゅうでん|sạc pin|寝る:ねる 前:まえ に 携帯:けいたい を 充電:じゅうでん します 。|Trước khi ngủ tôi sạc điện thoại.
+
+@ja408|Y học|Điều trị, phòng bệnh, cơ thể|医
+治療:ちりょう|điều trị|祖母:そぼ は 病院:びょういん で 治療:ちりょう を 受けて:うけて います 。|Bà tôi đang điều trị ở bệnh viện.
+患者:かんじゃ|bệnh nhân|医者:いしゃ が 患者:かんじゃ に 説明:せつめい しました 。|Bác sĩ đã giải thích cho bệnh nhân.
+感染:かんせん|lây nhiễm|風邪:かぜ が 家族:かぞく に 感染:かんせん しました 。|Bệnh cảm đã lây sang gia đình.
+予防:よぼう|phòng ngừa|病気:びょうき の 予防:よぼう に は 運動:うんどう が 大切:たいせつ です 。|Vận động quan trọng để phòng bệnh.
+栄養:えいよう|dinh dưỡng|野菜:やさい は 栄養:えいよう が 多い:おおい です 。|Rau có nhiều dinh dưỡng.
+睡眠:すいみん|giấc ngủ|健康:けんこう に は 睡眠:すいみん が 必要:ひつよう です 。|Giấc ngủ cần cho sức khỏe.
+血圧:けつあつ|huyết áp|父:ちち は 血圧:けつあつ が 高い:たかい です 。|Bố tôi huyết áp cao.
+心臓:しんぞう|tim|走る:はしる と 心臓:しんぞう が 速く:はやく 動きます:うごきます 。|Khi chạy thì tim đập nhanh.
+副作用:ふくさよう|tác dụng phụ|この 薬:くすり は 副作用:ふくさよう が あります 。|Thuốc này có tác dụng phụ.
+回復:かいふく|hồi phục|祖父:そふ は 早く:はやく 回復:かいふく しました 。|Ông tôi đã hồi phục nhanh.
+寿命:じゅみょう|tuổi thọ|日本人:にほんじん は 寿命:じゅみょう が 長い:ながい です 。|Người Nhật có tuổi thọ cao.
+救急車:きゅうきゅうしゃ|xe cấp cứu|すぐ に 救急車:きゅうきゅうしゃ を 呼んで:よんで ください 。|Hãy gọi xe cấp cứu ngay.
+
+@ja409|Giáo dục và nghiên cứu|Kiến thức, phân tích, đánh giá|育
+教育:きょういく|giáo dục|親:おや は 子供:こども の 教育:きょういく に 熱心:ねっしん です 。|Cha mẹ rất tâm huyết với việc giáo dục con.
+知識:ちしき|kiến thức|彼:かれ は 歴史:れきし の 知識:ちしき が 多い:おおい です 。|Anh ấy có nhiều kiến thức lịch sử.
+理解:りかい|hiểu, lĩnh hội|先生:せんせい の 説明:せつめい を 理解:りかい しました 。|Tôi đã hiểu lời giải thích của thầy.
+調査:ちょうさ|điều tra, khảo sát|市:し は 住民:じゅうみん の 生活:せいかつ を 調査:ちょうさ しました 。|Thành phố đã khảo sát đời sống cư dân.
+分析:ぶんせき|phân tích|試験:しけん の 結果:けっか を 分析:ぶんせき しました 。|Tôi đã phân tích kết quả thi.
+結論:けつろん|kết luận|会議:かいぎ で まだ 結論:けつろん が 出ません:でません 。|Cuộc họp vẫn chưa ra kết luận.
+仮説:かせつ|giả thuyết|学者:がくしゃ は 新しい:あたらしい 仮説:かせつ を 立てました:たてました 。|Nhà khoa học đã đặt ra giả thuyết mới.
+証明:しょうめい|chứng minh|彼:かれ は 自分:じぶん の 考え:かんがえ を 証明:しょうめい しました 。|Anh ấy đã chứng minh suy nghĩ của mình.
+引用:いんよう|trích dẫn|論文:ろんぶん に 有名:ゆうめい な 本:ほん を 引用:いんよう しました 。|Tôi đã trích dẫn một cuốn sách nổi tiếng trong luận văn.
+要約:ようやく|tóm tắt|この 記事:きじ を 短く:みじかく 要約:ようやく して ください 。|Hãy tóm tắt ngắn bài báo này.
+指導:しどう|hướng dẫn, chỉ đạo|先生:せんせい が 学生:がくせい を 丁寧:ていねい に 指導:しどう します 。|Thầy hướng dẫn sinh viên tận tình.
+評価:ひょうか|đánh giá|先生:せんせい は 私:わたし の 作文:さくぶん を 高く:たかく 評価:ひょうか しました 。|Thầy đã đánh giá cao bài văn của tôi.
+
+@ja410|Văn hóa nghệ thuật|Tác phẩm, truyền thống, xuất bản|芸
+芸術:げいじゅつ|nghệ thuật|彼女:かのじょ は 芸術:げいじゅつ に 興味:きょうみ が あります 。|Cô ấy quan tâm đến nghệ thuật.
+作品:さくひん|tác phẩm|この 作品:さくひん は とても 有名:ゆうめい です 。|Tác phẩm này rất nổi tiếng.
+伝統:でんとう|truyền thống|この 祭り:まつり は 長い:ながい 伝統:でんとう が あります 。|Lễ hội này có truyền thống lâu đời.
+文学:ぶんがく|văn học|大学:だいがく で 日本:にほん の 文学:ぶんがく を 勉強:べんきょう しました 。|Tôi đã học văn học Nhật ở đại học.
+彫刻:ちょうこく|điêu khắc|公園:こうえん に 大きい:おおきい 彫刻:ちょうこく が あります 。|Trong công viên có bức điêu khắc lớn.
+舞台:ぶたい|sân khấu|俳優:はいゆう が 舞台:ぶたい に 立ちました:たちました 。|Diễn viên đã đứng trên sân khấu.
+演劇:えんげき|kịch|週末:しゅうまつ に 演劇:えんげき を 見ました:みました 。|Cuối tuần tôi đã xem kịch.
+著者:ちょしゃ|tác giả|この 本:ほん の 著者:ちょしゃ は 若い:わかい 女性:じょせい です 。|Tác giả cuốn sách này là một phụ nữ trẻ.
+翻訳:ほんやく|dịch (văn bản)|この 小説:しょうせつ を 日本語:にほんご に 翻訳:ほんやく しました 。|Tôi đã dịch tiểu thuyết này sang tiếng Nhật.
+出版:しゅっぱん|xuất bản|先生:せんせい は 新しい:あたらしい 本:ほん を 出版:しゅっぱん しました 。|Thầy đã xuất bản sách mới.
+建築:けんちく|kiến trúc|兄:あに は 大学:だいがく で 建築:けんちく を 学びました:まなびました 。|Anh tôi đã học kiến trúc ở đại học.
+遺産:いさん|di sản|この 寺:てら は 世界:せかい の 遺産:いさん です 。|Ngôi chùa này là di sản thế giới.
+
+%43|4|Phần 3: Tư duy và diễn đạt|Tâm lý, tính từ, động từ, phó từ, kính ngữ|grape
+@ja411|Tâm lý|Ý thức, nỗ lực, kỳ vọng|心
+心理:しんり|tâm lý|子供:こども の 心理:しんり は 難しい:むずかしい です 。|Tâm lý trẻ con thật khó hiểu.
+意識:いしき|ý thức|健康:けんこう を 意識:いしき して 毎日:まいにち 歩きます:あるきます 。|Tôi ý thức về sức khỏe nên đi bộ mỗi ngày.
+記憶:きおく|ký ức, trí nhớ|子供:こども の 時:とき の 記憶:きおく が あります 。|Tôi có ký ức thời thơ ấu.
+想像:そうぞう|tưởng tượng|十年後:じゅうねんご の 生活:せいかつ を 想像:そうぞう します 。|Tôi tưởng tượng cuộc sống mười năm sau.
+集中:しゅうちゅう|tập trung|うるさくて 勉強:べんきょう に 集中:しゅうちゅう できません 。|Ồn quá nên tôi không tập trung học được.
+努力:どりょく|nỗ lực|毎日:まいにち 努力:どりょく すれば 上手:じょうず に なります 。|Nếu nỗ lực mỗi ngày thì sẽ giỏi lên.
+期待:きたい|kỳ vọng|両親:りょうしん は 私:わたし に 期待:きたい して います 。|Bố mẹ kỳ vọng vào tôi.
+覚悟:かくご|sự sẵn sàng tinh thần|失敗:しっぱい する 覚悟:かくご は あります 。|Tôi đã sẵn sàng tinh thần cho thất bại.
+誇り:ほこり|niềm tự hào|私:わたし は 自分:じぶん の 仕事:しごと に 誇り:ほこり が あります 。|Tôi tự hào về công việc của mình.
+憧れる:あこがれる|ngưỡng mộ, ao ước|妹:いもうと は 歌手:かしゅ に 憧れて:あこがれて います 。|Em gái tôi ao ước thành ca sĩ.
+迷う:まよう|phân vân; lạc đường|どちら を 買う:かう か 迷って:まよって います 。|Tôi đang phân vân mua cái nào.
+諦める:あきらめる|từ bỏ|夢:ゆめ を 諦めないで:あきらめないで ください 。|Đừng từ bỏ ước mơ.
+
+@ja412|Tính từ trừu tượng|Phức tạp, rõ ràng, nghiêm trọng|形
+複雑:ふくざつ|phức tạp|この 問題:もんだい は とても 複雑:ふくざつ です 。|Vấn đề này rất phức tạp.
+単純:たんじゅん|đơn giản|この 仕事:しごと は 単純:たんじゅん です 。|Công việc này đơn giản.
+貴重:きちょう|quý giá|これ は 貴重:きちょう な 経験:けいけん です 。|Đây là kinh nghiệm quý giá.
+明らか:あきらか|rõ ràng|彼:かれ の 間違い:まちがい は 明らか:あきらか です 。|Lỗi sai của anh ấy rất rõ ràng.
+適切:てきせつ|thích hợp|手紙:てがみ に 適切:てきせつ な 言葉:ことば を 使います:つかいます 。|Tôi dùng từ ngữ thích hợp trong thư.
+確実:かくじつ|chắc chắn|彼:かれ の 合格:ごうかく は 確実:かくじつ です 。|Việc anh ấy đỗ là chắc chắn.
+深刻:しんこく|nghiêm trọng|水:みず の 問題:もんだい は 深刻:しんこく です 。|Vấn đề nước rất nghiêm trọng.
+豊富:ほうふ|phong phú, dồi dào|この 国:くに は 資源:しげん が 豊富:ほうふ です 。|Nước này giàu tài nguyên.
+曖昧:あいまい|mơ hồ|彼:かれ の 返事:へんじ は 曖昧:あいまい です 。|Câu trả lời của anh ấy mơ hồ.
+激しい:はげしい|dữ dội, gay gắt|外:そと は 激しい:はげしい 雨:あめ です 。|Bên ngoài mưa dữ dội.
+鋭い:するどい|sắc bén|この ナイフ は 鋭い:するどい です 。|Con dao này sắc.
+穏やか:おだやか|êm đềm, ôn hòa|今日:きょう の 海:うみ は 穏やか:おだやか です 。|Biển hôm nay êm đềm.
+
+@ja413|Động từ nâng cao|Bao gồm, thừa nhận, ngăn chặn|為
+含む:ふくむ|bao gồm|この 料金:りょうきん は 税金:ぜいきん を 含みます:ふくみます 。|Giá này đã gồm thuế.
+示す:しめす|chỉ ra, biểu thị|この 数字:すうじ は 人口:じんこう を 示します:しめします 。|Con số này biểu thị dân số.
+求める:もとめる|yêu cầu, tìm kiếm|市民:しみん は 説明:せつめい を 求めました:もとめました 。|Người dân đã yêu cầu giải thích.
+認める:みとめる|thừa nhận, công nhận|彼:かれ は 自分:じぶん の 間違い:まちがい を 認めました:みとめました 。|Anh ấy đã thừa nhận lỗi của mình.
+防ぐ:ふせぐ|ngăn ngừa|手:て を 洗って:あらって 病気:びょうき を 防ぎます:ふせぎます 。|Rửa tay để ngăn ngừa bệnh.
+支える:ささえる|nâng đỡ, chống đỡ|家族:かぞく が 私:わたし を 支えて:ささえて います 。|Gia đình đang nâng đỡ tôi.
+比べる:くらべる|so sánh|二つ:ふたつ の 値段:ねだん を 比べました:くらべました 。|Tôi đã so sánh giá của hai thứ.
+従う:したがう|tuân theo|先生:せんせい の 指示:しじ に 従います:したがいます 。|Tôi làm theo chỉ dẫn của thầy.
+避ける:さける|tránh|混んで:こんで いる 時間:じかん を 避けます:さけます 。|Tôi tránh giờ đông người.
+失う:うしなう|đánh mất|彼:かれ は 事故:じこ で 家:いえ を 失いました:うしないました 。|Anh ấy mất nhà vì tai nạn.
+得る:える|đạt được, thu được|旅行:りょこう で 多く:おおく の 知識:ちしき を 得ました:えました 。|Qua chuyến đi tôi thu được nhiều kiến thức.
+果たす:はたす|hoàn thành (vai trò)|彼:かれ は 自分:じぶん の 役割:やくわり を 果たしました:はたしました 。|Anh ấy đã hoàn thành vai trò của mình.
+
+@ja414|Phó từ nâng cao|Dần dần, rốt cuộc, ngày càng|程
+実際:じっさい|thực tế|実際:じっさい に 行って:いって 見ました:みました 。|Tôi đã đến xem tận nơi thực tế.
+次第に:しだいに|dần dần|空:そら が 次第に:しだいに 暗く:くらく なりました 。|Trời dần dần tối lại.
+常に:つねに|luôn luôn|彼:かれ は 常に:つねに 笑って:わらって います 。|Anh ấy luôn luôn cười.
+既に:すでに|đã ... từ trước|電車:でんしゃ は 既に:すでに 出ました:でました 。|Tàu đã chạy mất rồi.
+一応:いちおう|tạm, để cho chắc|一応:いちおう 傘:かさ を 持って:もって 行きます:いきます 。|Để cho chắc tôi mang ô đi.
+結局:けっきょく|rốt cuộc|結局:けっきょく 何も:なにも 買いません:かいません でした 。|Rốt cuộc tôi đã không mua gì.
+むしろ|đúng hơn là, thà|夏:なつ より むしろ 冬:ふゆ が 好き:すき です 。|So với mùa hè, tôi lại thích mùa đông hơn.
+まさか|không lẽ nào|まさか 彼:かれ が 負ける:まける と は 思いません:おもいません でした 。|Tôi không ngờ anh ấy lại thua.
+せっかく|đã cất công|せっかく 来た:きた のに 店:みせ は 休み:やすみ でした 。|Đã cất công đến mà cửa hàng lại nghỉ.
+いきなり|bất thình lình|犬:いぬ が いきなり 走りました:はしりました 。|Con chó bất thình lình chạy đi.
+しばらく|một lúc, một thời gian|ここ で しばらく 待って:まって ください 。|Hãy đợi ở đây một lúc.
+ますます|ngày càng|物価:ぶっか が ますます 上がります:あがります 。|Vật giá ngày càng tăng.
+
+@ja415|Kính ngữ|Cách nói khiêm nhường và tôn kính|敬
+拝見:はいけん|xem (khiêm nhường)|お 手紙:てがみ を 拝見:はいけん しました 。|Tôi đã xem thư của ngài.
+伺う:うかがう|đến thăm, hỏi (khiêm nhường)|明日:あした お 宅:たく に 伺います:うかがいます 。|Ngày mai tôi xin đến thăm nhà.
+申し上げる:もうしあげる|thưa, nói (khiêm nhường)|心:こころ から お 礼:れい を 申し上げます:もうしあげます 。|Tôi xin chân thành cảm ơn.
+いらっしゃる|ở, đi, đến (tôn kính)|先生:せんせい は 明日:あした 学校:がっこう に いらっしゃる でしょう 。|Có lẽ ngày mai thầy sẽ đến trường.
+召し上がる:めしあがる|ăn, uống (tôn kính)|どうぞ たくさん 召し上がって:めしあがって ください 。|Xin mời ngài dùng nhiều vào.
+ご覧:ごらん|xem (tôn kính)|こちら の 資料:しりょう を ご覧:ごらん ください 。|Xin mời xem tài liệu này.
+恐縮:きょうしゅく|áy náy, ngại quá|お 忙しい:いそがしい ところ 恐縮:きょうしゅく です 。|Thật ngại vì làm phiền lúc ngài bận.
+承知:しょうち|đã rõ, chấp thuận|その 件:けん は 承知:しょうち しました 。|Việc đó tôi đã rõ.
+失礼:しつれい|thất lễ|お 先:さき に 失礼:しつれい します 。|Tôi xin phép về trước.
+遠慮:えんりょ|ngại ngần, giữ ý|遠慮:えんりょ しないで 食べて:たべて ください 。|Đừng ngại, hãy ăn đi.
+感謝:かんしゃ|biết ơn|皆:みな さん に 心:こころ から 感謝:かんしゃ します 。|Tôi chân thành biết ơn mọi người.
+迷惑:めいわく|sự phiền hà|ご 迷惑:めいわく を かけて すみません 。|Xin lỗi vì đã làm phiền.
+
+%51|5|Phần 1: Nhà nước và kinh tế|Ngoại giao, tài chính, tư pháp, lao động, dư luận|leaf
+@ja501|Ngoại giao|Hiệp ước, đàm phán, xung đột|外
+外交:がいこう|ngoại giao|両国:りょうこく は 外交:がいこう の 関係:かんけい を 結びました:むすびました 。|Hai nước đã thiết lập quan hệ ngoại giao.
+条約:じょうやく|hiệp ước|二つ:ふたつ の 国:くに が 条約:じょうやく を 結びました:むすびました 。|Hai nước đã ký hiệp ước.
+交渉:こうしょう|đàm phán|会社:かいしゃ と 給料:きゅうりょう の 交渉:こうしょう を しました 。|Tôi đã đàm phán lương với công ty.
+紛争:ふんそう|xung đột, tranh chấp|その 地域:ちいき で は 紛争:ふんそう が 続いて:つづいて います 。|Ở khu vực đó xung đột vẫn tiếp diễn.
+制裁:せいさい|trừng phạt, chế tài|政府:せいふ は 経済:けいざい の 制裁:せいさい を 決めました:きめました 。|Chính phủ đã quyết định trừng phạt kinh tế.
+同盟:どうめい|đồng minh, liên minh|二つ:ふたつ の 国:くに は 同盟:どうめい を 結んで:むすんで います 。|Hai nước đang liên minh với nhau.
+領土:りょうど|lãnh thổ|この 島:しま は 日本:にほん の 領土:りょうど です 。|Hòn đảo này là lãnh thổ Nhật Bản.
+主権:しゅけん|chủ quyền|国:くに の 主権:しゅけん は 国民:こくみん に あります 。|Chủ quyền quốc gia thuộc về nhân dân.
+難民:なんみん|người tị nạn|多く:おおく の 難民:なんみん が 国境:こっきょう を 越えました:こえました 。|Nhiều người tị nạn đã vượt biên giới.
+首脳:しゅのう|nguyên thủ, lãnh đạo cấp cao|各国:かっこく の 首脳:しゅのう が 東京:とうきょう に 集まりました:あつまりました 。|Lãnh đạo các nước đã tập trung ở Tokyo.
+妥協:だきょう|thỏa hiệp|二人:ふたり は 最後:さいご まで 妥協:だきょう しません でした 。|Hai người đến cuối vẫn không thỏa hiệp.
+合意:ごうい|đồng thuận, thỏa thuận|両方:りょうほう が 値段:ねだん に ついて 合意:ごうい しました 。|Hai bên đã thỏa thuận về giá.
+
+@ja502|Tài chính|Cổ phiếu, nợ, ngân sách|金
+金融:きんゆう|tài chính, tiền tệ|兄:あに は 金融:きんゆう の 会社:かいしゃ に 勤めて:つとめて います 。|Anh tôi làm ở công ty tài chính.
+株式:かぶしき|cổ phiếu, cổ phần|彼:かれ は 会社:かいしゃ の 株式:かぶしき を 買いました:かいました 。|Anh ấy đã mua cổ phiếu của công ty.
+為替:かわせ|tỷ giá hối đoái|毎朝:まいあさ 為替:かわせ の ニュース を 見ます:みます 。|Sáng nào tôi cũng xem tin tỷ giá.
+債務:さいむ|khoản nợ|その 会社:かいしゃ は 多く:おおく の 債務:さいむ が あります 。|Công ty đó có nhiều khoản nợ.
+赤字:あかじ|thâm hụt, lỗ|今月:こんげつ の 店:みせ は 赤字:あかじ です 。|Tháng này cửa hàng bị lỗ.
+黒字:くろじ|thặng dư, lãi|去年:きょねん 会社:かいしゃ は 黒字:くろじ に なりました 。|Năm ngoái công ty đã có lãi.
+融資:ゆうし|cho vay vốn|銀行:ぎんこう が 工場:こうじょう に 融資:ゆうし しました 。|Ngân hàng đã cho nhà máy vay vốn.
+倒産:とうさん|phá sản|不況:ふきょう で その 会社:かいしゃ は 倒産:とうさん しました 。|Công ty đó đã phá sản vì suy thoái.
+資産:しさん|tài sản|彼:かれ は 多く:おおく の 資産:しさん を 持って:もって います 。|Anh ấy có nhiều tài sản.
+予算:よさん|ngân sách|来年:らいねん の 予算:よさん を 国会:こっかい で 決めます:きめます 。|Ngân sách năm sau được quyết định ở quốc hội.
+不況:ふきょう|suy thoái kinh tế|長い:ながい 不況:ふきょう で 店:みせ が 減りました:へりました 。|Suy thoái kéo dài khiến cửa hàng giảm đi.
+補助金:ほじょきん|tiền trợ cấp|農家:のうか は 国:くに から 補助金:ほじょきん を もらいます 。|Nhà nông nhận trợ cấp từ nhà nước.
+
+@ja503|Tư pháp và hành chính|Hiến pháp, phán quyết, quy định|司
+憲法:けんぽう|hiến pháp|学校:がっこう で 日本:にほん の 憲法:けんぽう を 学びました:まなびました 。|Tôi đã học hiến pháp Nhật Bản ở trường.
+訴訟:そしょう|kiện tụng|住民:じゅうみん は 会社:かいしゃ に 訴訟:そしょう を 起こしました:おこしました 。|Cư dân đã khởi kiện công ty.
+判決:はんけつ|phán quyết, bản án|裁判:さいばん の 判決:はんけつ は 明日:あした 出ます:でます 。|Phán quyết của phiên tòa sẽ có vào ngày mai.
+被告:ひこく|bị cáo|被告:ひこく は 何も:なにも 話しません:はなしません でした 。|Bị cáo đã không nói gì.
+検察:けんさつ|viện kiểm sát|検察:けんさつ は その 事件:じけん を 調べて:しらべて います 。|Viện kiểm sát đang điều tra vụ án đó.
+条例:じょうれい|quy định địa phương|市:し は 新しい:あたらしい 条例:じょうれい を 作りました:つくりました 。|Thành phố đã ban hành quy định mới.
+自治体:じちたい|chính quyền địa phương|自治体:じちたい が 住民:じゅうみん に 水:みず を 配りました:くばりました 。|Chính quyền địa phương đã phát nước cho cư dân.
+行政:ぎょうせい|hành chính|市民:しみん は 行政:ぎょうせい の サービス を 使います:つかいます 。|Người dân sử dụng dịch vụ hành chính.
+改正:かいせい|sửa đổi (luật)|国会:こっかい は 法律:ほうりつ を 改正:かいせい しました 。|Quốc hội đã sửa đổi luật.
+施行:しこう|thi hành (luật)|新しい:あたらしい 法律:ほうりつ は 四月:しがつ に 施行:しこう します 。|Luật mới thi hành vào tháng tư.
+規制:きせい|quy chế, hạn chế|政府:せいふ は 輸入:ゆにゅう を 規制:きせい して います 。|Chính phủ đang hạn chế nhập khẩu.
+賠償:ばいしょう|bồi thường|会社:かいしゃ は 住民:じゅうみん に 賠償:ばいしょう しました 。|Công ty đã bồi thường cho cư dân.
+
+@ja504|Lao động và quản trị|Tuyển dụng, chiến lược, hiệu suất|労
+雇用:こよう|việc làm, thuê lao động|工場:こうじょう は 百人:ひゃくにん を 雇用:こよう して います 。|Nhà máy đang thuê một trăm người.
+労働:ろうどう|lao động|長い:ながい 時間:じかん の 労働:ろうどう は 体:からだ に 悪い:わるい です 。|Lao động nhiều giờ có hại cho cơ thể.
+人材:じんざい|nhân tài, nguồn nhân lực|会社:かいしゃ は 若い:わかい 人材:じんざい を 探して:さがして います 。|Công ty đang tìm nhân lực trẻ.
+解雇:かいこ|sa thải|会社:かいしゃ は 十人:じゅうにん を 解雇:かいこ しました 。|Công ty đã sa thải mười người.
+昇進:しょうしん|thăng chức|姉:あね は 部長:ぶちょう に 昇進:しょうしん しました 。|Chị tôi đã thăng chức lên trưởng phòng.
+業績:ぎょうせき|thành tích kinh doanh|今年:ことし は 会社:かいしゃ の 業績:ぎょうせき が いい です 。|Năm nay thành tích kinh doanh của công ty tốt.
+戦略:せんりゃく|chiến lược|社長:しゃちょう が 新しい:あたらしい 戦略:せんりゃく を 説明:せつめい しました 。|Giám đốc đã giải thích chiến lược mới.
+効率:こうりつ|hiệu suất|機械:きかい を 使う:つかう と 効率:こうりつ が 上がります:あがります 。|Dùng máy thì hiệu suất tăng.
+合併:がっぺい|sáp nhập|二つ:ふたつ の 銀行:ぎんこう が 合併:がっぺい しました 。|Hai ngân hàng đã sáp nhập.
+方針:ほうしん|phương châm, đường lối|会社:かいしゃ の 方針:ほうしん が 変わりました:かわりました 。|Đường lối của công ty đã thay đổi.
+交代:こうたい|thay ca, thay thế|夜:よる 八時:はちじ に 交代:こうたい します 。|Tám giờ tối chúng tôi thay ca.
+赴任:ふにん|đi nhận nhiệm sở|父:ちち は 来月:らいげつ 大阪:おおさか に 赴任:ふにん します 。|Tháng sau bố tôi đi nhận công tác ở Osaka.
+
+@ja505|Truyền thông và dư luận|Đưa tin, phê phán, định kiến|論
+世論:よろん|dư luận|政府:せいふ は 世論:よろん を 調べました:しらべました 。|Chính phủ đã thăm dò dư luận.
+報道:ほうどう|đưa tin, báo chí|その 事件:じけん は 世界:せかい に 報道:ほうどう されました 。|Vụ việc đó đã được đưa tin khắp thế giới.
+取材:しゅざい|lấy tin, thu thập tư liệu|記者:きしゃ が 農家:のうか を 取材:しゅざい しました 。|Phóng viên đã lấy tin về nhà nông.
+批判:ひはん|phê phán|新聞:しんぶん は 政府:せいふ を 批判:ひはん しました 。|Báo chí đã phê phán chính phủ.
+偏見:へんけん|định kiến|外国人:がいこくじん に 偏見:へんけん を 持たないで:もたないで ください 。|Đừng có định kiến với người nước ngoài.
+匿名:とくめい|ẩn danh, nặc danh|彼:かれ は 匿名:とくめい で 意見:いけん を 書きました:かきました 。|Anh ấy đã viết ý kiến ẩn danh.
+著作権:ちょさくけん|bản quyền tác giả|この 写真:しゃしん は 著作権:ちょさくけん が あります 。|Bức ảnh này có bản quyền.
+拡散:かくさん|lan truyền, phát tán|その 噂:うわさ は すぐ に 拡散:かくさん しました 。|Tin đồn đó đã lan truyền ngay.
+誤解:ごかい|hiểu lầm|彼女:かのじょ は 私:わたし の 言葉:ことば を 誤解:ごかい しました 。|Cô ấy đã hiểu lầm lời tôi.
+反論:はんろん|phản bác|彼:かれ は 部長:ぶちょう の 意見:いけん に 反論:はんろん しました 。|Anh ấy đã phản bác ý kiến trưởng phòng.
+見解:けんかい|quan điểm, cách nhìn nhận|大臣:だいじん が 政府:せいふ の 見解:けんかい を 話しました:はなしました 。|Bộ trưởng đã nêu quan điểm của chính phủ.
+風潮:ふうちょう|trào lưu, xu thế xã hội|お金:おかね だけ を 大切:たいせつ に する 風潮:ふうちょう が あります 。|Có xu thế chỉ coi trọng tiền bạc.
+
+%52|5|Phần 2: Tri thức chuyên sâu|Triết học, môi trường, y học, ngôn ngữ, học thuật|sky
+@ja506|Triết học và tư tưởng|Khái niệm, đạo đức, lý trí|哲
+哲学:てつがく|triết học|兄:あに は 大学:だいがく で 哲学:てつがく を 学んで:まなんで います 。|Anh tôi đang học triết ở đại học.
+倫理:りんり|đạo lý, luân lý|医者:いしゃ に は 高い:たかい 倫理:りんり が 必要:ひつよう です 。|Bác sĩ cần có đạo lý cao.
+概念:がいねん|khái niệm|この 概念:がいねん は 説明:せつめい が 難しい:むずかしい です 。|Khái niệm này khó giải thích.
+本質:ほんしつ|bản chất|問題:もんだい の 本質:ほんしつ を 考えましょう:かんがえましょう 。|Hãy nghĩ về bản chất của vấn đề.
+矛盾:むじゅん|mâu thuẫn|彼:かれ の 話:はなし に は 矛盾:むじゅん が あります 。|Câu chuyện của anh ấy có mâu thuẫn.
+価値観:かちかん|quan niệm giá trị|人:ひと に よって 価値観:かちかん が 違います:ちがいます 。|Mỗi người có quan niệm giá trị khác nhau.
+思想:しそう|tư tưởng|この 本:ほん は 昔:むかし の 思想:しそう を 紹介:しょうかい します 。|Cuốn sách này giới thiệu tư tưởng ngày xưa.
+道徳:どうとく|đạo đức|小学校:しょうがっこう で 道徳:どうとく を 教えます:おしえます 。|Ở tiểu học có dạy đạo đức.
+理性:りせい|lý trí|怒って:おこって も 理性:りせい を 失わないで:うしなわないで ください 。|Dù giận cũng đừng đánh mất lý trí.
+信念:しんねん|niềm tin vững chắc|彼女:かのじょ は 強い:つよい 信念:しんねん を 持って:もって います 。|Cô ấy có niềm tin mạnh mẽ.
+論理:ろんり|logic, lý luận|彼:かれ の 説明:せつめい は 論理:ろんり が 正しい:ただしい です 。|Lời giải thích của anh ấy đúng logic.
+主観:しゅかん|chủ quan|これ は 私:わたし の 主観:しゅかん の 意見:いけん です 。|Đây là ý kiến chủ quan của tôi.
+
+@ja507|Môi trường và thiên tai|Hệ sinh thái, phát thải, thảm họa|球
+生態系:せいたいけい|hệ sinh thái|汚染:おせん が 海:うみ の 生態系:せいたいけい を 壊します:こわします 。|Ô nhiễm phá hủy hệ sinh thái biển.
+温暖化:おんだんか|sự nóng lên toàn cầu|地球:ちきゅう の 温暖化:おんだんか が 進んで:すすんで います 。|Trái đất đang nóng dần lên.
+排出:はいしゅつ|thải ra, phát thải|工場:こうじょう は ガス を 排出:はいしゅつ して います 。|Nhà máy đang thải khí.
+資源:しげん|tài nguyên|水:みず は 大切:たいせつ な 資源:しげん です 。|Nước là tài nguyên quý.
+再生:さいせい|tái chế, tái sinh|古い:ふるい 紙:かみ を 再生:さいせい して 使います:つかいます 。|Giấy cũ được tái chế để dùng.
+絶滅:ぜつめつ|tuyệt chủng|その 鳥:とり は 百年前:ひゃくねんまえ に 絶滅:ぜつめつ しました 。|Loài chim đó đã tuyệt chủng một trăm năm trước.
+森林:しんりん|rừng|この 国:くに は 森林:しんりん が 多い:おおい です 。|Nước này có nhiều rừng.
+干ばつ:かんばつ|hạn hán|干ばつ:かんばつ で 米:こめ が 取れません:とれません でした 。|Vì hạn hán nên không thu được lúa.
+噴火:ふんか|núi lửa phun trào|昨日:きのう 火山:かざん が 噴火:ふんか しました 。|Hôm qua núi lửa đã phun trào.
+津波:つなみ|sóng thần|地震:じしん の 後:あと に 津波:つなみ が 来ました:きました 。|Sau động đất, sóng thần đã đến.
+放射能:ほうしゃのう|phóng xạ|専門家:せんもんか が 放射能:ほうしゃのう を 測りました:はかりました 。|Chuyên gia đã đo phóng xạ.
+廃棄物:はいきぶつ|chất thải|工場:こうじょう の 廃棄物:はいきぶつ を 川:かわ に 捨てて:すてて は いけません 。|Không được đổ chất thải nhà máy ra sông.
+
+@ja508|Y học chuyên sâu|Chẩn đoán, miễn dịch, chăm sóc|療
+診断:しんだん|chẩn đoán|医者:いしゃ は 風邪:かぜ と 診断:しんだん しました 。|Bác sĩ đã chẩn đoán là cảm.
+免疫:めんえき|miễn dịch|よく 寝る:ねる と 免疫:めんえき が 強く:つよく なります 。|Ngủ đủ thì miễn dịch mạnh lên.
+遺伝:いでん|di truyền|目:め の 色:いろ は 親:おや から 遺伝:いでん します 。|Màu mắt di truyền từ cha mẹ.
+腫瘍:しゅよう|khối u|検査:けんさ で 小さい:ちいさい 腫瘍:しゅよう が 見つかりました:みつかりました 。|Xét nghiệm đã phát hiện một khối u nhỏ.
+慢性:まんせい|mãn tính|母:はは は 慢性:まんせい の 病気:びょうき が あります 。|Mẹ tôi có bệnh mãn tính.
+臓器:ぞうき|nội tạng|心臓:しんぞう は 大切:たいせつ な 臓器:ぞうき です 。|Tim là nội tạng quan trọng.
+移植:いしょく|cấy ghép|彼:かれ は 去年:きょねん 心臓:しんぞう の 移植:いしょく を 受けました:うけました 。|Năm ngoái anh ấy đã được ghép tim.
+麻酔:ますい|gây mê, gây tê|手術:しゅじゅつ の 前:まえ に 麻酔:ますい を します 。|Trước phẫu thuật sẽ gây mê.
+処方:しょほう|kê đơn|医者:いしゃ が 薬:くすり を 処方:しょほう しました 。|Bác sĩ đã kê đơn thuốc.
+介護:かいご|chăm sóc (người già, người bệnh)|母:はは は 祖母:そぼ を 介護:かいご して います 。|Mẹ tôi đang chăm sóc bà.
+認知症:にんちしょう|chứng sa sút trí tuệ|祖父:そふ は 認知症:にんちしょう に なりました 。|Ông tôi đã mắc chứng sa sút trí tuệ.
+脳:のう|não|睡眠:すいみん は 脳:のう を 休ませます:やすませます 。|Giấc ngủ cho não nghỉ ngơi.
+
+@ja509|Ngôn ngữ và văn chương|Từ vựng, ẩn dụ, diễn giải|語
+語彙:ごい|vốn từ vựng|本:ほん を 読む:よむ と 語彙:ごい が 増えます:ふえます 。|Đọc sách thì vốn từ tăng lên.
+比喩:ひゆ|phép ẩn dụ, so sánh|この 詩:し は 比喩:ひゆ が 多い:おおい です 。|Bài thơ này có nhiều ẩn dụ.
+敬語:けいご|kính ngữ|社長:しゃちょう に は 敬語:けいご で 話します:はなします 。|Tôi nói kính ngữ với giám đốc.
+方言:ほうげん|phương ngữ|祖母:そぼ は 大阪:おおさか の 方言:ほうげん で 話します:はなします 。|Bà tôi nói phương ngữ Osaka.
+文脈:ぶんみゃく|ngữ cảnh|言葉:ことば の 意味:いみ は 文脈:ぶんみゃく で 変わります:かわります 。|Nghĩa của từ thay đổi theo ngữ cảnh.
+発音:はつおん|phát âm|彼女:かのじょ は 日本語:にほんご の 発音:はつおん が きれい です 。|Cô ấy phát âm tiếng Nhật hay.
+表現:ひょうげん|cách diễn đạt|気持ち:きもち を 言葉:ことば で 表現:ひょうげん します 。|Tôi diễn đạt cảm xúc bằng lời.
+随筆:ずいひつ|tùy bút|先生:せんせい は 旅:たび の 随筆:ずいひつ を 書きました:かきました 。|Thầy đã viết tùy bút về chuyến đi.
+詩:し|thơ|彼:かれ は 春:はる の 詩:し を 作りました:つくりました 。|Anh ấy đã làm thơ về mùa xuân.
+俳句:はいく|thơ haiku|授業:じゅぎょう で 俳句:はいく を 習いました:ならいました 。|Trong giờ học tôi đã học thơ haiku.
+批評:ひひょう|phê bình (tác phẩm)|新聞:しんぶん に 映画:えいが の 批評:ひひょう が 出ました:でました 。|Bài phê bình phim đã đăng trên báo.
+解釈:かいしゃく|diễn giải, cách hiểu|この 文:ぶん は 二つ:ふたつ の 解釈:かいしゃく が あります 。|Câu này có hai cách hiểu.
+
+@ja510|Học thuật|Lý thuyết, căn cứ, kiểm chứng|術
+学問:がくもん|học vấn|彼:かれ は 一生:いっしょう 学問:がくもん を 続けました:つづけました 。|Ông ấy theo đuổi học vấn suốt đời.
+理論:りろん|lý thuyết|この 理論:りろん は まだ 新しい:あたらしい です 。|Lý thuyết này vẫn còn mới.
+統計:とうけい|thống kê|政府:せいふ は 人口:じんこう の 統計:とうけい を 出しました:だしました 。|Chính phủ đã công bố thống kê dân số.
+現象:げんしょう|hiện tượng|これ は 珍しい:めずらしい 自然:しぜん の 現象:げんしょう です 。|Đây là hiện tượng tự nhiên hiếm gặp.
+要因:よういん|nguyên nhân chính, yếu tố|事故:じこ の 要因:よういん を 調べて:しらべて います 。|Đang điều tra yếu tố gây tai nạn.
+傾向:けいこう|khuynh hướng|若い:わかい 人:ひと は 新聞:しんぶん を 読まない:よまない 傾向:けいこう が あります 。|Người trẻ có khuynh hướng không đọc báo.
+根拠:こんきょ|căn cứ|その 話:はなし に は 根拠:こんきょ が ありません 。|Câu chuyện đó không có căn cứ.
+観点:かんてん|góc nhìn, quan điểm|別:べつ の 観点:かんてん から 考えて:かんがえて みましょう 。|Hãy thử nghĩ từ góc nhìn khác.
+前提:ぜんてい|tiền đề|結婚:けっこん を 前提:ぜんてい に 付き合って:つきあって います 。|Chúng tôi hẹn hò với tiền đề là kết hôn.
+考察:こうさつ|khảo sát, suy xét|論文:ろんぶん で 結果:けっか を 考察:こうさつ しました 。|Tôi đã suy xét kết quả trong luận văn.
+検証:けんしょう|kiểm chứng|学者:がくしゃ は その 仮説:かせつ を 検証:けんしょう しました 。|Nhà khoa học đã kiểm chứng giả thuyết đó.
+体系:たいけい|hệ thống|この 本:ほん は 文法:ぶんぽう の 体系:たいけい を 説明:せつめい します 。|Cuốn sách này giải thích hệ thống ngữ pháp.
+
+%53|5|Phần 3: Diễn đạt tinh tế|Tâm trạng, tính từ, động từ, phó từ, thành ngữ|grape
+@ja511|Tâm trạng tinh tế|U sầu, bối rối, day dứt|微
+憂鬱:ゆううつ|u sầu, chán nản|雨:あめ の 日:ひ は 憂鬱:ゆううつ です 。|Ngày mưa thật u sầu.
+孤独:こどく|cô độc|一人:ひとり の 生活:せいかつ は 孤独:こどく です 。|Cuộc sống một mình thật cô độc.
+焦る:あせる|sốt ruột, cuống|時間:じかん が なくて 焦って:あせって います 。|Không còn thời gian nên tôi đang cuống.
+戸惑う:とまどう|bối rối|新しい:あたらしい 仕事:しごと に 戸惑って:とまどって います 。|Tôi đang bối rối với công việc mới.
+呆れる:あきれる|ngán ngẩm, sửng sốt|彼:かれ の 嘘:うそ に 呆れました:あきれました 。|Tôi ngán ngẩm vì lời nói dối của anh ấy.
+嘆く:なげく|than thở|母:はは は 物価:ぶっか が 高い:たかい と 嘆いて:なげいて います 。|Mẹ tôi than vật giá cao.
+妬む:ねたむ|đố kỵ|人:ひと の 成功:せいこう を 妬まないで:ねたまないで ください 。|Đừng đố kỵ với thành công của người khác.
+慕う:したう|quý mến, kính yêu|学生:がくせい たち は 先生:せんせい を 慕って:したって います 。|Các học trò kính yêu thầy.
+悟る:さとる|ngộ ra, nhận ra|彼:かれ は 自分:じぶん の 間違い:まちがい を 悟りました:さとりました 。|Anh ấy đã nhận ra lỗi của mình.
+躊躇う:ためらう|do dự|彼女:かのじょ は 返事:へんじ を 躊躇って:ためらって います 。|Cô ấy đang do dự trả lời.
+切ない:せつない|day dứt, xót xa|別れ:わかれ の 歌:うた は 切ない:せつない です 。|Bài hát chia ly thật xót xa.
+虚しい:むなしい|trống rỗng, vô nghĩa|一人:ひとり の 食事:しょくじ は 虚しい:むなしい です 。|Bữa ăn một mình thật trống trải.
+
+@ja512|Tính từ nâng cao|Trang nghiêm, khéo léo, khiêm tốn|質
+厳か:おごそか|trang nghiêm|式:しき は 厳か:おごそか に 始まりました:はじまりました 。|Buổi lễ đã bắt đầu trang nghiêm.
+巧み:たくみ|khéo léo|彼:かれ は 巧み:たくみ に 車:くるま を 運転:うんてん します 。|Anh ấy lái xe khéo léo.
+顕著:けんちょ|rõ rệt, nổi bật|薬:くすり の 効果:こうか は 顕著:けんちょ です 。|Hiệu quả của thuốc rất rõ rệt.
+膨大:ぼうだい|khổng lồ, đồ sộ|図書館:としょかん に は 膨大:ぼうだい な 本:ほん が あります 。|Thư viện có lượng sách khổng lồ.
+迅速:じんそく|nhanh chóng|店員:てんいん の 仕事:しごと は 迅速:じんそく です 。|Nhân viên làm việc nhanh chóng.
+柔軟:じゅうなん|mềm dẻo, linh hoạt|彼女:かのじょ は 考え方:かんがえかた が 柔軟:じゅうなん です 。|Cô ấy có cách nghĩ linh hoạt.
+頑固:がんこ|cứng đầu, bướng bỉnh|祖父:そふ は とても 頑固:がんこ です 。|Ông tôi rất cứng đầu.
+謙虚:けんきょ|khiêm tốn|あの 選手:せんしゅ は いつも 謙虚:けんきょ です 。|Vận động viên đó luôn khiêm tốn.
+素朴:そぼく|mộc mạc|この 村:むら の 人:ひと は 素朴:そぼく です 。|Người làng này mộc mạc.
+華やか:はなやか|lộng lẫy, rực rỡ|結婚式:けっこんしき は とても 華やか:はなやか でした 。|Lễ cưới thật lộng lẫy.
+著しい:いちじるしい|đáng kể, rõ rệt|この 国:くに の 発展:はってん は 著しい:いちじるしい です 。|Sự phát triển của nước này rất đáng kể.
+乏しい:とぼしい|nghèo nàn, thiếu thốn|この 島:しま は 水:みず が 乏しい:とぼしい です 。|Hòn đảo này thiếu nước.
+
+@ja513|Động từ trang trọng|Thúc đẩy, đảo ngược, vun đắp|遂
+促す:うながす|thúc giục, thúc đẩy|先生:せんせい は 学生:がくせい に 注意:ちゅうい を 促しました:うながしました 。|Thầy đã nhắc học sinh chú ý.
+覆す:くつがえす|lật ngược, đảo lộn|新しい:あたらしい 証拠:しょうこ が 判決:はんけつ を 覆しました:くつがえしました 。|Chứng cứ mới đã lật ngược phán quyết.
+携わる:たずさわる|tham gia, làm (ngành nghề)|姉:あね は 教育:きょういく に 携わって:たずさわって います 。|Chị tôi làm trong ngành giáo dục.
+怠る:おこたる|lơ là, chểnh mảng|彼:かれ は 毎日:まいにち の 練習:れんしゅう を 怠りました:おこたりました 。|Anh ấy đã lơ là việc luyện tập hằng ngày.
+遂げる:とげる|đạt được, hoàn thành|この 町:まち は 大きい:おおきい 発展:はってん を 遂げました:とげました 。|Thị trấn này đã đạt bước phát triển lớn.
+免れる:まぬがれる|thoát khỏi, tránh được|彼:かれ は 事故:じこ の 責任:せきにん を 免れました:まぬがれました 。|Anh ấy đã thoát trách nhiệm về vụ tai nạn.
+営む:いとなむ|kinh doanh, điều hành|両親:りょうしん は 小さい:ちいさい 旅館:りょかん を 営んで:いとなんで います 。|Bố mẹ tôi kinh doanh một nhà trọ nhỏ.
+培う:つちかう|vun đắp, bồi dưỡng|留学:りゅうがく で 語学:ごがく の 力:ちから を 培いました:つちかいました 。|Tôi đã bồi dưỡng năng lực ngoại ngữ nhờ du học.
+損なう:そこなう|làm tổn hại|たばこ は 健康:けんこう を 損ないます:そこないます 。|Thuốc lá làm tổn hại sức khỏe.
+賄う:まかなう|trang trải, chu cấp|アルバイト で 生活費:せいかつひ を 賄って:まかなって います 。|Tôi trang trải sinh hoạt phí bằng việc làm thêm.
+臨む:のぞむ|đối mặt, bước vào|選手:せんしゅ たち は 試合:しあい に 臨みました:のぞみました 。|Các vận động viên đã bước vào trận đấu.
+試みる:こころみる|thử, thử nghiệm|彼:かれ は 新しい:あたらしい 方法:ほうほう を 試みました:こころみました 。|Anh ấy đã thử phương pháp mới.
+
+@ja514|Phó từ và từ nối trang trọng|Đến cùng, đặc biệt, tức là|詞
+あくまで|đến cùng, rốt cuộc chỉ là|これ は あくまで 私:わたし の 意見:いけん です 。|Đây rốt cuộc chỉ là ý kiến của tôi.
+いかにも|quả thật, đúng là|彼:かれ は いかにも 先生:せんせい らしい です 。|Anh ấy trông đúng là một thầy giáo.
+ひたすら|một mực, miệt mài|彼女:かのじょ は ひたすら 勉強:べんきょう しました 。|Cô ấy đã miệt mài học.
+もっぱら|chủ yếu, chuyên|休み:やすみ の 日:ひ は もっぱら 本:ほん を 読みます:よみます 。|Ngày nghỉ tôi chủ yếu đọc sách.
+とりわけ|đặc biệt, nhất là|今年:ことし の 冬:ふゆ は とりわけ 寒い:さむい です 。|Mùa đông năm nay đặc biệt lạnh.
+あえて|dám, cố ý|私:わたし は あえて 反対:はんたい の 意見:いけん を 言いました:いいました 。|Tôi đã cố ý nói ý kiến phản đối.
+ことごとく|tất thảy, toàn bộ|彼:かれ の 計画:けいかく は ことごとく 失敗:しっぱい しました 。|Kế hoạch của anh ấy đã thất bại toàn bộ.
+いずれ|sớm muộn gì, một lúc nào đó|いずれ 本当:ほんとう の こと が 分かります:わかります 。|Sớm muộn gì sự thật cũng rõ.
+かろうじて|vừa đủ, suýt soát|かろうじて 最後:さいご の 電車:でんしゃ に 乗りました:のりました 。|Tôi vừa kịp lên chuyến tàu cuối.
+すなわち|tức là|父:ちち の 兄:あに 、 すなわち 私:わたし の 伯父:おじ です 。|Anh của bố, tức là bác tôi.
+もはや|đã ... không còn|もはや 逃げる:にげる 道:みち は ありません 。|Đã không còn đường chạy trốn.
+およそ|khoảng, đại khái|駅:えき まで およそ 十分:じゅっぷん です 。|Đến ga mất khoảng mười phút.
+
+@ja515|Thành ngữ bốn chữ|Thành ngữ thường gặp trong văn viết|四
+一石二鳥:いっせきにちょう|một mũi tên trúng hai đích|歩く:あるく と 健康:けんこう に も 節約:せつやく に も なって 一石二鳥:いっせきにちょう です 。|Đi bộ vừa khỏe vừa tiết kiệm, đúng là một mũi tên trúng hai đích.
+十人十色:じゅうにんといろ|mỗi người một vẻ|好き:すき な 食べ物:たべもの は 十人十色:じゅうにんといろ です 。|Món ăn yêu thích thì mỗi người một vẻ.
+一期一会:いちごいちえ|cuộc gặp chỉ có một lần trong đời|旅:たび の 出会い:であい は 一期一会:いちごいちえ です 。|Cuộc gặp gỡ trên đường đi chỉ có một lần trong đời.
+自業自得:じごうじとく|tự làm tự chịu|勉強:べんきょう しないで 落ちた:おちた の は 自業自得:じごうじとく です 。|Không học mà trượt là tự làm tự chịu.
+試行錯誤:しこうさくご|thử và sai, mày mò|試行錯誤:しこうさくご して 新しい:あたらしい 料理:りょうり を 作りました:つくりました 。|Tôi đã mày mò thử đi thử lại để làm món mới.
+臨機応変:りんきおうへん|tùy cơ ứng biến|問題:もんだい に は 臨機応変:りんきおうへん に 答えます:こたえます 。|Tôi tùy cơ ứng biến trả lời câu hỏi.
+半信半疑:はんしんはんぎ|nửa tin nửa ngờ|その 話:はなし を 半信半疑:はんしんはんぎ で 聞きました:ききました 。|Tôi đã nghe câu chuyện đó nửa tin nửa ngờ.
+以心伝心:いしんでんしん|tâm đầu ý hợp, hiểu nhau không cần nói|長い:ながい 友達:ともだち と は 以心伝心:いしんでんしん です 。|Với bạn lâu năm thì hiểu nhau không cần nói.
+弱肉強食:じゃくにくきょうしょく|cá lớn nuốt cá bé|自然:しぜん の 世界:せかい は 弱肉強食:じゃくにくきょうしょく です 。|Thế giới tự nhiên là cá lớn nuốt cá bé.
+一生懸命:いっしょうけんめい|hết sức mình|弟:おとうと は 一生懸命:いっしょうけんめい 働いて:はたらいて います 。|Em trai tôi đang làm việc hết sức mình.
+油断:ゆだん|lơ là, chủ quan|最後:さいご まで 油断:ゆだん しないで ください 。|Đừng chủ quan cho đến phút cuối.
+縁:えん|duyên, mối duyên|二人:ふたり は 不思議:ふしぎ な 縁:えん で 会いました:あいました 。|Hai người đã gặp nhau nhờ mối duyên kỳ lạ.

@@ -1,0 +1,77 @@
+{
+ "units": [
+  {"unit":43,"level":4,"title":"Phần 3: Tư duy và diễn đạt","desc":"Tâm lý, tính từ, động từ, phó từ, kính ngữ","color":"grape","course":"ja"}
+ ],
+ "lessons": [
+  {"id":"ja411","title":"Tâm lý","desc":"Ý thức, nỗ lực, kỳ vọng","icon":"心","unit":43,"course":"ja","order":560,"words":[
+   {"id":"ja411-心理","hanzi":"心理","pinyin":"shinri","vi":"tâm lý","ex":{"tokens":["子供","の","心理","は","難しい","です","。"],"py":["kodomo","no","shinri","wa","muzukashii","desu","."],"vi":"Tâm lý trẻ con thật khó hiểu.","alts":[]}},
+   {"id":"ja411-意識","hanzi":"意識","pinyin":"ishiki","vi":"ý thức","ex":{"tokens":["健康","を","意識","して","毎日","歩きます","。"],"py":["kenkou","o","ishiki","shite","mainichi","arukimasu","."],"vi":"Tôi ý thức về sức khỏe nên đi bộ mỗi ngày.","alts":[]}},
+   {"id":"ja411-記憶","hanzi":"記憶","pinyin":"kioku","vi":"ký ức, trí nhớ","ex":{"tokens":["子供","の","時","の","記憶","が","あります","。"],"py":["kodomo","no","toki","no","kioku","ga","arimasu","."],"vi":"Tôi có ký ức thời thơ ấu.","alts":[]}},
+   {"id":"ja411-想像","hanzi":"想像","pinyin":"souzou","vi":"tưởng tượng","ex":{"tokens":["十年後","の","生活","を","想像","します","。"],"py":["juunengo","no","seikatsu","o","souzou","shimasu","."],"vi":"Tôi tưởng tượng cuộc sống mười năm sau.","alts":[]}},
+   {"id":"ja411-集中","hanzi":"集中","pinyin":"shuuchuu","vi":"tập trung","ex":{"tokens":["うるさくて","勉強","に","集中","できません","。"],"py":["urusakute","benkyou","ni","shuuchuu","dekimasen","."],"vi":"Ồn quá nên tôi không tập trung học được.","alts":[]}},
+   {"id":"ja411-努力","hanzi":"努力","pinyin":"doryoku","vi":"nỗ lực","ex":{"tokens":["毎日","努力","すれば","上手","に","なります","。"],"py":["mainichi","doryoku","sureba","jouzu","ni","narimasu","."],"vi":"Nếu nỗ lực mỗi ngày thì sẽ giỏi lên.","alts":[]}},
+   {"id":"ja411-期待","hanzi":"期待","pinyin":"kitai","vi":"kỳ vọng","ex":{"tokens":["両親","は","私","に","期待","して","います","。"],"py":["ryoushin","wa","watashi","ni","kitai","shite","imasu","."],"vi":"Bố mẹ kỳ vọng vào tôi.","alts":[]}},
+   {"id":"ja411-覚悟","hanzi":"覚悟","pinyin":"kakugo","vi":"sự sẵn sàng tinh thần","ex":{"tokens":["失敗","する","覚悟","は","あります","。"],"py":["shippai","suru","kakugo","wa","arimasu","."],"vi":"Tôi đã sẵn sàng tinh thần cho thất bại.","alts":[]}},
+   {"id":"ja411-誇り","hanzi":"誇り","pinyin":"hokori","vi":"niềm tự hào","ex":{"tokens":["私","は","自分","の","仕事","に","誇り","が","あります","。"],"py":["watashi","wa","jibun","no","shigoto","ni","hokori","ga","arimasu","."],"vi":"Tôi tự hào về công việc của mình.","alts":[]}},
+   {"id":"ja411-憧れる","hanzi":"憧れる","pinyin":"akogareru","vi":"ngưỡng mộ, ao ước","ex":{"tokens":["妹","は","歌手","に","憧れて","います","。"],"py":["imouto","wa","kashu","ni","akogarete","imasu","."],"vi":"Em gái tôi ao ước thành ca sĩ.","alts":[]}},
+   {"id":"ja411-迷う","hanzi":"迷う","pinyin":"mayou","vi":"phân vân; lạc đường","ex":{"tokens":["どちら","を","買う","か","迷って","います","。"],"py":["dochira","o","kau","ka","mayotte","imasu","."],"vi":"Tôi đang phân vân mua cái nào.","alts":[]}},
+   {"id":"ja411-諦める","hanzi":"諦める","pinyin":"akirameru","vi":"từ bỏ","ex":{"tokens":["夢","を","諦めないで","ください","。"],"py":["yume","o","akiramenaide","kudasai","."],"vi":"Đừng từ bỏ ước mơ.","alts":[]}}
+  ]},
+  {"id":"ja412","title":"Tính từ trừu tượng","desc":"Phức tạp, rõ ràng, nghiêm trọng","icon":"形","unit":43,"course":"ja","order":570,"words":[
+   {"id":"ja412-複雑","hanzi":"複雑","pinyin":"fukuzatsu","vi":"phức tạp","ex":{"tokens":["この","問題","は","とても","複雑","です","。"],"py":["kono","mondai","wa","totemo","fukuzatsu","desu","."],"vi":"Vấn đề này rất phức tạp.","alts":[]}},
+   {"id":"ja412-単純","hanzi":"単純","pinyin":"tanjun","vi":"đơn giản","ex":{"tokens":["この","仕事","は","単純","です","。"],"py":["kono","shigoto","wa","tanjun","desu","."],"vi":"Công việc này đơn giản.","alts":[]}},
+   {"id":"ja412-貴重","hanzi":"貴重","pinyin":"kichou","vi":"quý giá","ex":{"tokens":["これ","は","貴重","な","経験","です","。"],"py":["kore","wa","kichou","na","keiken","desu","."],"vi":"Đây là kinh nghiệm quý giá.","alts":[]}},
+   {"id":"ja412-明らか","hanzi":"明らか","pinyin":"akiraka","vi":"rõ ràng","ex":{"tokens":["彼","の","間違い","は","明らか","です","。"],"py":["kare","no","machigai","wa","akiraka","desu","."],"vi":"Lỗi sai của anh ấy rất rõ ràng.","alts":[]}},
+   {"id":"ja412-適切","hanzi":"適切","pinyin":"tekisetsu","vi":"thích hợp","ex":{"tokens":["手紙","に","適切","な","言葉","を","使います","。"],"py":["tegami","ni","tekisetsu","na","kotoba","o","tsukaimasu","."],"vi":"Tôi dùng từ ngữ thích hợp trong thư.","alts":[]}},
+   {"id":"ja412-確実","hanzi":"確実","pinyin":"kakujitsu","vi":"chắc chắn","ex":{"tokens":["彼","の","合格","は","確実","です","。"],"py":["kare","no","goukaku","wa","kakujitsu","desu","."],"vi":"Việc anh ấy đỗ là chắc chắn.","alts":[]}},
+   {"id":"ja412-深刻","hanzi":"深刻","pinyin":"shinkoku","vi":"nghiêm trọng","ex":{"tokens":["水","の","問題","は","深刻","です","。"],"py":["mizu","no","mondai","wa","shinkoku","desu","."],"vi":"Vấn đề nước rất nghiêm trọng.","alts":[]}},
+   {"id":"ja412-豊富","hanzi":"豊富","pinyin":"houfu","vi":"phong phú, dồi dào","ex":{"tokens":["この","国","は","資源","が","豊富","です","。"],"py":["kono","kuni","wa","shigen","ga","houfu","desu","."],"vi":"Nước này giàu tài nguyên.","alts":[]}},
+   {"id":"ja412-曖昧","hanzi":"曖昧","pinyin":"aimai","vi":"mơ hồ","ex":{"tokens":["彼","の","返事","は","曖昧","です","。"],"py":["kare","no","henji","wa","aimai","desu","."],"vi":"Câu trả lời của anh ấy mơ hồ.","alts":[]}},
+   {"id":"ja412-激しい","hanzi":"激しい","pinyin":"hageshii","vi":"dữ dội, gay gắt","ex":{"tokens":["外","は","激しい","雨","です","。"],"py":["soto","wa","hageshii","ame","desu","."],"vi":"Bên ngoài mưa dữ dội.","alts":[]}},
+   {"id":"ja412-鋭い","hanzi":"鋭い","pinyin":"surudoi","vi":"sắc bén","ex":{"tokens":["この","ナイフ","は","鋭い","です","。"],"py":["kono","naifu","wa","surudoi","desu","."],"vi":"Con dao này sắc.","alts":[]}},
+   {"id":"ja412-穏やか","hanzi":"穏やか","pinyin":"odayaka","vi":"êm đềm, ôn hòa","ex":{"tokens":["今日","の","海","は","穏やか","です","。"],"py":["kyou","no","umi","wa","odayaka","desu","."],"vi":"Biển hôm nay êm đềm.","alts":[]}}
+  ]},
+  {"id":"ja413","title":"Động từ nâng cao","desc":"Bao gồm, thừa nhận, ngăn chặn","icon":"為","unit":43,"course":"ja","order":580,"words":[
+   {"id":"ja413-含む","hanzi":"含む","pinyin":"fukumu","vi":"bao gồm","ex":{"tokens":["この","料金","は","税金","を","含みます","。"],"py":["kono","ryoukin","wa","zeikin","o","fukumimasu","."],"vi":"Giá này đã gồm thuế.","alts":[]}},
+   {"id":"ja413-示す","hanzi":"示す","pinyin":"shimesu","vi":"chỉ ra, biểu thị","ex":{"tokens":["この","数字","は","人口","を","示します","。"],"py":["kono","suuji","wa","jinkou","o","shimeshimasu","."],"vi":"Con số này biểu thị dân số.","alts":[]}},
+   {"id":"ja413-求める","hanzi":"求める","pinyin":"motomeru","vi":"yêu cầu, tìm kiếm","ex":{"tokens":["市民","は","説明","を","求めました","。"],"py":["shimin","wa","setsumei","o","motomemashita","."],"vi":"Người dân đã yêu cầu giải thích.","alts":[]}},
+   {"id":"ja413-認める","hanzi":"認める","pinyin":"mitomeru","vi":"thừa nhận, công nhận","ex":{"tokens":["彼","は","自分","の","間違い","を","認めました","。"],"py":["kare","wa","jibun","no","machigai","o","mitomemashita","."],"vi":"Anh ấy đã thừa nhận lỗi của mình.","alts":[]}},
+   {"id":"ja413-防ぐ","hanzi":"防ぐ","pinyin":"fusegu","vi":"ngăn ngừa","ex":{"tokens":["手","を","洗って","病気","を","防ぎます","。"],"py":["te","o","aratte","byouki","o","fusegimasu","."],"vi":"Rửa tay để ngăn ngừa bệnh.","alts":[]}},
+   {"id":"ja413-支える","hanzi":"支える","pinyin":"sasaeru","vi":"nâng đỡ, chống đỡ","ex":{"tokens":["家族","が","私","を","支えて","います","。"],"py":["kazoku","ga","watashi","o","sasaete","imasu","."],"vi":"Gia đình đang nâng đỡ tôi.","alts":[]}},
+   {"id":"ja413-比べる","hanzi":"比べる","pinyin":"kuraberu","vi":"so sánh","ex":{"tokens":["二つ","の","値段","を","比べました","。"],"py":["futatsu","no","nedan","o","kurabemashita","."],"vi":"Tôi đã so sánh giá của hai thứ.","alts":[]}},
+   {"id":"ja413-従う","hanzi":"従う","pinyin":"shitagau","vi":"tuân theo","ex":{"tokens":["先生","の","指示","に","従います","。"],"py":["sensei","no","shiji","ni","shitagaimasu","."],"vi":"Tôi làm theo chỉ dẫn của thầy.","alts":[]}},
+   {"id":"ja413-避ける","hanzi":"避ける","pinyin":"sakeru","vi":"tránh","ex":{"tokens":["混んで","いる","時間","を","避けます","。"],"py":["konde","iru","jikan","o","sakemasu","."],"vi":"Tôi tránh giờ đông người.","alts":[]}},
+   {"id":"ja413-失う","hanzi":"失う","pinyin":"ushinau","vi":"đánh mất","ex":{"tokens":["彼","は","事故","で","家","を","失いました","。"],"py":["kare","wa","jiko","de","ie","o","ushinaimashita","."],"vi":"Anh ấy mất nhà vì tai nạn.","alts":[]}},
+   {"id":"ja413-得る","hanzi":"得る","pinyin":"eru","vi":"đạt được, thu được","ex":{"tokens":["旅行","で","多く","の","知識","を","得ました","。"],"py":["ryokou","de","ooku","no","chishiki","o","emashita","."],"vi":"Qua chuyến đi tôi thu được nhiều kiến thức.","alts":[]}},
+   {"id":"ja413-果たす","hanzi":"果たす","pinyin":"hatasu","vi":"hoàn thành (vai trò)","ex":{"tokens":["彼","は","自分","の","役割","を","果たしました","。"],"py":["kare","wa","jibun","no","yakuwari","o","hatashimashita","."],"vi":"Anh ấy đã hoàn thành vai trò của mình.","alts":[]}}
+  ]},
+  {"id":"ja414","title":"Phó từ nâng cao","desc":"Dần dần, rốt cuộc, ngày càng","icon":"程","unit":43,"course":"ja","order":590,"words":[
+   {"id":"ja414-実際","hanzi":"実際","pinyin":"jissai","vi":"thực tế","ex":{"tokens":["実際","に","行って","見ました","。"],"py":["jissai","ni","itte","mimashita","."],"vi":"Tôi đã đến xem tận nơi thực tế.","alts":[]}},
+   {"id":"ja414-次第に","hanzi":"次第に","pinyin":"shidaini","vi":"dần dần","ex":{"tokens":["空","が","次第に","暗く","なりました","。"],"py":["sora","ga","shidaini","kuraku","narimashita","."],"vi":"Trời dần dần tối lại.","alts":[]}},
+   {"id":"ja414-常に","hanzi":"常に","pinyin":"tsuneni","vi":"luôn luôn","ex":{"tokens":["彼","は","常に","笑って","います","。"],"py":["kare","wa","tsuneni","waratte","imasu","."],"vi":"Anh ấy luôn luôn cười.","alts":[]}},
+   {"id":"ja414-既に","hanzi":"既に","pinyin":"sudeni","vi":"đã ... từ trước","ex":{"tokens":["電車","は","既に","出ました","。"],"py":["densha","wa","sudeni","demashita","."],"vi":"Tàu đã chạy mất rồi.","alts":[]}},
+   {"id":"ja414-一応","hanzi":"一応","pinyin":"ichiou","vi":"tạm, để cho chắc","ex":{"tokens":["一応","傘","を","持って","行きます","。"],"py":["ichiou","kasa","o","motte","ikimasu","."],"vi":"Để cho chắc tôi mang ô đi.","alts":[]}},
+   {"id":"ja414-結局","hanzi":"結局","pinyin":"kekkyoku","vi":"rốt cuộc","ex":{"tokens":["結局","何も","買いません","でした","。"],"py":["kekkyoku","nanimo","kaimasen","deshita","."],"vi":"Rốt cuộc tôi đã không mua gì.","alts":[]}},
+   {"id":"ja414-むしろ","hanzi":"むしろ","pinyin":"mushiro","vi":"đúng hơn là, thà","ex":{"tokens":["夏","より","むしろ","冬","が","好き","です","。"],"py":["natsu","yori","mushiro","fuyu","ga","suki","desu","."],"vi":"So với mùa hè, tôi lại thích mùa đông hơn.","alts":[]}},
+   {"id":"ja414-まさか","hanzi":"まさか","pinyin":"masaka","vi":"không lẽ nào","ex":{"tokens":["まさか","彼","が","負ける","と","は","思いません","でした","。"],"py":["masaka","kare","ga","makeru","to","wa","omoimasen","deshita","."],"vi":"Tôi không ngờ anh ấy lại thua.","alts":[]}},
+   {"id":"ja414-せっかく","hanzi":"せっかく","pinyin":"sekkaku","vi":"đã cất công","ex":{"tokens":["せっかく","来た","のに","店","は","休み","でした","。"],"py":["sekkaku","kita","noni","mise","wa","yasumi","deshita","."],"vi":"Đã cất công đến mà cửa hàng lại nghỉ.","alts":[]}},
+   {"id":"ja414-いきなり","hanzi":"いきなり","pinyin":"ikinari","vi":"bất thình lình","ex":{"tokens":["犬","が","いきなり","走りました","。"],"py":["inu","ga","ikinari","hashirimashita","."],"vi":"Con chó bất thình lình chạy đi.","alts":[]}},
+   {"id":"ja414-しばらく","hanzi":"しばらく","pinyin":"shibaraku","vi":"một lúc, một thời gian","ex":{"tokens":["ここ","で","しばらく","待って","ください","。"],"py":["koko","de","shibaraku","matte","kudasai","."],"vi":"Hãy đợi ở đây một lúc.","alts":[]}},
+   {"id":"ja414-ますます","hanzi":"ますます","pinyin":"masumasu","vi":"ngày càng","ex":{"tokens":["物価","が","ますます","上がります","。"],"py":["bukka","ga","masumasu","agarimasu","."],"vi":"Vật giá ngày càng tăng.","alts":[]}}
+  ]},
+  {"id":"ja415","title":"Kính ngữ","desc":"Cách nói khiêm nhường và tôn kính","icon":"敬","unit":43,"course":"ja","order":600,"words":[
+   {"id":"ja415-拝見","hanzi":"拝見","pinyin":"haiken","vi":"xem (khiêm nhường)","ex":{"tokens":["お","手紙","を","拝見","しました","。"],"py":["o","tegami","o","haiken","shimashita","."],"vi":"Tôi đã xem thư của ngài.","alts":[]}},
+   {"id":"ja415-伺う","hanzi":"伺う","pinyin":"ukagau","vi":"đến thăm, hỏi (khiêm nhường)","ex":{"tokens":["明日","お","宅","に","伺います","。"],"py":["ashita","o","taku","ni","ukagaimasu","."],"vi":"Ngày mai tôi xin đến thăm nhà.","alts":[]}},
+   {"id":"ja415-申し上げる","hanzi":"申し上げる","pinyin":"moushiageru","vi":"thưa, nói (khiêm nhường)","ex":{"tokens":["心","から","お","礼","を","申し上げます","。"],"py":["kokoro","kara","o","rei","o","moushiagemasu","."],"vi":"Tôi xin chân thành cảm ơn.","alts":[]}},
+   {"id":"ja415-いらっしゃる","hanzi":"いらっしゃる","pinyin":"irassharu","vi":"ở, đi, đến (tôn kính)","ex":{"tokens":["先生","は","明日","学校","に","いらっしゃる","でしょう","。"],"py":["sensei","wa","ashita","gakkou","ni","irassharu","deshou","."],"vi":"Có lẽ ngày mai thầy sẽ đến trường.","alts":[]}},
+   {"id":"ja415-召し上がる","hanzi":"召し上がる","pinyin":"meshiagaru","vi":"ăn, uống (tôn kính)","ex":{"tokens":["どうぞ","たくさん","召し上がって","ください","。"],"py":["douzo","takusan","meshiagatte","kudasai","."],"vi":"Xin mời ngài dùng nhiều vào.","alts":[]}},
+   {"id":"ja415-ご覧","hanzi":"ご覧","pinyin":"goran","vi":"xem (tôn kính)","ex":{"tokens":["こちら","の","資料","を","ご覧","ください","。"],"py":["kochira","no","shiryou","o","goran","kudasai","."],"vi":"Xin mời xem tài liệu này.","alts":[]}},
+   {"id":"ja415-恐縮","hanzi":"恐縮","pinyin":"kyoushuku","vi":"áy náy, ngại quá","ex":{"tokens":["お","忙しい","ところ","恐縮","です","。"],"py":["o","isogashii","tokoro","kyoushuku","desu","."],"vi":"Thật ngại vì làm phiền lúc ngài bận.","alts":[]}},
+   {"id":"ja415-承知","hanzi":"承知","pinyin":"shouchi","vi":"đã rõ, chấp thuận","ex":{"tokens":["その","件","は","承知","しました","。"],"py":["sono","ken","wa","shouchi","shimashita","."],"vi":"Việc đó tôi đã rõ.","alts":[]}},
+   {"id":"ja415-失礼","hanzi":"失礼","pinyin":"shitsurei","vi":"thất lễ","ex":{"tokens":["お","先","に","失礼","します","。"],"py":["o","saki","ni","shitsurei","shimasu","."],"vi":"Tôi xin phép về trước.","alts":[]}},
+   {"id":"ja415-遠慮","hanzi":"遠慮","pinyin":"enryo","vi":"ngại ngần, giữ ý","ex":{"tokens":["遠慮","しないで","食べて","ください","。"],"py":["enryo","shinaide","tabete","kudasai","."],"vi":"Đừng ngại, hãy ăn đi.","alts":[]}},
+   {"id":"ja415-感謝","hanzi":"感謝","pinyin":"kansha","vi":"biết ơn","ex":{"tokens":["皆","さん","に","心","から","感謝","します","。"],"py":["mina","san","ni","kokoro","kara","kansha","shimasu","."],"vi":"Tôi chân thành biết ơn mọi người.","alts":[]}},
+   {"id":"ja415-迷惑","hanzi":"迷惑","pinyin":"meiwaku","vi":"sự phiền hà","ex":{"tokens":["ご","迷惑","を","かけて","すみません","。"],"py":["go","meiwaku","o","kakete","sumimasen","."],"vi":"Xin lỗi vì đã làm phiền.","alts":[]}}
+  ]}
+ ]
+}
