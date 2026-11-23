@@ -66,7 +66,8 @@
   {"unit":557,"level":5,"title":"Phần 64: Mở rộng – Triết học và logic","desc":"Triết học và logic, Ngôn ngữ học, Kinh tế học","color":"sky","course":"en"},
   {"unit":558,"level":5,"title":"Phần 65: Mở rộng – Kinh tế học","desc":"Kinh tế học, Sinh học và di truyền, Kỹ thuật và công trình","color":"grape","course":"en"},
   {"unit":559,"level":5,"title":"Phần 66: Mở rộng – Từ văn chương","desc":"Từ văn chương, Từ văn chương nâng cao","color":"coral","course":"en"},
-  {"unit":560,"level":5,"title":"Phần 67: Mở rộng – Từ văn chương nâng cao","desc":"Từ văn chương nâng cao, Y học chuyên sâu, Pháp luật và thể chế","color":"sun","course":"en"}
+  {"unit":560,"level":5,"title":"Phần 67: Mở rộng – Từ văn chương nâng cao","desc":"Từ văn chương nâng cao, Y học chuyên sâu, Pháp luật và thể chế","color":"sun","course":"en"},
+  {"unit":561,"level":5,"title":"Phần 68: Mở rộng – Pháp luật và thể chế","desc":"Pháp luật và thể chế, Thiên văn học, Địa chất học, Toán học nâng cao, Từ vựng tổng hợp","color":"leaf","course":"en"}
  ],
  "lessons": [
   ["e01","Chào hỏi","Hi",1,12],
@@ -813,7 +814,13 @@
   ["y5188","Y học chuyên sâu 7","Medical",560,12],
   ["y5189","Pháp luật và thể chế 1","Governance",560,14],
   ["y5190","Pháp luật và thể chế 2","Governance",560,14],
-  ["y5191","Pháp luật và thể chế 3","Governance",560,14],
-  ["y5192","Pháp luật và thể chế 4","Governance",560,14]
+  ["y5201","Pháp luật và thể chế 3","Governance",561,14],
+  ["y5202","Pháp luật và thể chế 4","Governance",561,14],
+  ["y5203","Thiên văn học 4","Cosmos",561,14],
+  ["y5204","Thiên văn học 5","Cosmos",561,14],
+  ["y5205","Địa chất học","Geology",561,14],
+  ["y5206","Toán học nâng cao 1","Maths",561,13],
+  ["y5207","Toán học nâng cao 2","Maths",561,13],
+  ["y5208","Từ vựng tổng hợp 6","Mix",561,14]
  ]
 }

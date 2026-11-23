@@ -5032,7 +5032,8 @@ eviction|sự trục xuất khỏi nhà thuê|The family faces eviction.|Gia đ�
 bylaw|quy định địa phương; điều lệ|A local bylaw bans dogs on the beach.|Một quy định địa phương cấm chó trên bãi biển.
 charter|hiến chương, điều lệ|The UN charter was signed in 1945.|Hiến chương Liên Hợp Quốc được ký năm 1945.
 
-@y5191|Pháp luật và thể chế 3|Tố tụng, hợp đồng, nghị viện, thể chế chính trị|Governance
+%561|5|Phần 11: Mở rộng – Pháp luật và thể chế|Pháp luật và thể chế, Thiên văn học, Địa chất học, Toán học nâng cao, Từ vựng tổng hợp|leaf
+@y5201|Pháp luật và thể chế 3|Tố tụng, hợp đồng, nghị viện, thể chế chính trị|Governance
 ratification|sự phê chuẩn|The treaty awaits ratification.|Hiệp ước đang chờ phê chuẩn.
 plebiscite|cuộc trưng cầu dân ý|The region held a plebiscite on independence.|Vùng này tổ chức trưng cầu dân ý về độc lập.
 legislature|cơ quan lập pháp|The legislature passed the budget.|Cơ quan lập pháp thông qua ngân sách.
@@ -5048,7 +5049,7 @@ checks and balances|cơ chế kiểm soát và đối trọng|Checks and balance
 separation of powers|tam quyền phân lập|The constitution protects the separation of powers.|Hiến pháp bảo vệ nguyên tắc phân quyền.
 rule of law|pháp quyền|Investors want the rule of law.|Nhà đầu tư cần pháp quyền.
 
-@y5192|Pháp luật và thể chế 4|Tố tụng, hợp đồng, nghị viện, thể chế chính trị|Governance
+@y5202|Pháp luật và thể chế 4|Tố tụng, hợp đồng, nghị viện, thể chế chính trị|Governance
 federalism|chế độ liên bang|Federalism gives power to the states.|Chế độ liên bang trao quyền cho các bang.
 technocrat|nhà kỹ trị|A technocrat was named finance minister.|Một nhà kỹ trị được bổ nhiệm làm bộ trưởng tài chính.
 theocracy|chế độ thần quyền|The country is ruled as a theocracy.|Đất nước được cai trị theo chế độ thần quyền.
@@ -5063,3 +5064,97 @@ patronage|sự bảo trợ, đỡ đầu|The arts depend on private patronage.|N
 diplomatic immunity|quyền miễn trừ ngoại giao|The driver claimed diplomatic immunity.|Người lái xe viện quyền miễn trừ ngoại giao.
 attaché|tùy viên|He is the cultural attaché at the embassy.|Ông ấy là tùy viên văn hóa của đại sứ quán.
 communiqué|thông cáo chính thức|The leaders issued a joint communiqué.|Các nhà lãnh đạo ra thông cáo chung.
+
+@y5203|Thiên văn học 1|Sao, thiên hà, tàu vũ trụ|Cosmos
+asteroid belt|vành đai tiểu hành tinh|The asteroid belt lies between Mars and Jupiter.|Vành đai tiểu hành tinh nằm giữa sao Hỏa và sao Mộc.
+meteor shower|mưa sao băng|We watched a meteor shower last night.|Đêm qua chúng tôi ngắm mưa sao băng.
+quasar|chuẩn tinh|A quasar is brighter than a whole galaxy.|Một chuẩn tinh sáng hơn cả một thiên hà.
+pulsar|sao xung|A pulsar sends out regular radio signals.|Sao xung phát ra tín hiệu vô tuyến đều đặn.
+event horizon|chân trời sự kiện|Nothing escapes beyond the event horizon.|Không gì thoát ra được sau chân trời sự kiện.
+white dwarf|sao lùn trắng|The Sun will end as a white dwarf.|Mặt Trời sẽ kết thúc thành một sao lùn trắng.
+red giant|sao khổng lồ đỏ|A red giant is a dying star.|Sao khổng lồ đỏ là một ngôi sao đang chết dần.
+neutron star|sao neutron|A neutron star is extremely dense.|Sao neutron cực kỳ đặc.
+binary star|sao đôi|Sirius is a binary star.|Sirius là một sao đôi.
+galaxy cluster|cụm thiên hà|The telescope found a distant galaxy cluster.|Kính viễn vọng phát hiện một cụm thiên hà xa xôi.
+Milky Way|dải Ngân Hà|You can see the Milky Way on a dark night.|Bạn có thể thấy dải Ngân Hà vào đêm tối trời.
+parsec|parsec (đơn vị khoảng cách thiên văn)|One parsec is about 3.26 light-years.|Một parsec bằng khoảng 3,26 năm ánh sáng.
+solar flare|bão lửa mặt trời|A solar flare can disturb radio signals.|Bão lửa mặt trời có thể gây nhiễu tín hiệu vô tuyến.
+sunspot|vết đen mặt trời|A sunspot is cooler than the area around it.|Vết đen mặt trời nguội hơn vùng xung quanh.
+
+@y5204|Thiên văn học 2|Sao, thiên hà, tàu vũ trụ|Cosmos
+solar wind|gió mặt trời|The solar wind causes the northern lights.|Gió mặt trời tạo ra cực quang.
+corona|vành nhật hoa|The corona is visible during an eclipse.|Vành nhật hoa nhìn thấy được khi có nhật thực.
+lunar eclipse|nguyệt thực|There will be a lunar eclipse tonight.|Tối nay sẽ có nguyệt thực.
+solar eclipse|nhật thực|Never look at a solar eclipse without protection.|Đừng bao giờ nhìn nhật thực mà không có đồ bảo vệ.
+intergalactic|liên thiên hà|Intergalactic space is almost empty.|Không gian liên thiên hà gần như trống rỗng.
+habitable zone|vùng có thể sống được|The planet lies in the habitable zone of its star.|Hành tinh nằm trong vùng có thể sống được của ngôi sao chủ.
+gravitational wave|sóng hấp dẫn|The detector recorded a gravitational wave.|Máy dò ghi nhận một sóng hấp dẫn.
+dark energy|năng lượng tối|Dark energy drives the expansion of the universe.|Năng lượng tối thúc đẩy sự giãn nở của vũ trụ.
+cosmic ray|tia vũ trụ|A cosmic ray can damage a satellite.|Tia vũ trụ có thể làm hỏng vệ tinh.
+redshift|dịch chuyển đỏ|Redshift shows that galaxies are moving away.|Dịch chuyển đỏ cho thấy các thiên hà đang rời xa.
+Big Bang|Vụ Nổ Lớn|The universe began with the Big Bang.|Vũ trụ bắt đầu từ Vụ Nổ Lớn.
+cosmology|vũ trụ học|Cosmology studies the origin of the universe.|Vũ trụ học nghiên cứu nguồn gốc của vũ trụ.
+astrophysics|vật lý thiên văn|She has a degree in astrophysics.|Cô ấy có bằng vật lý thiên văn.
+radio telescope|kính thiên văn vô tuyến|The radio telescope is in the desert.|Kính thiên văn vô tuyến đặt giữa sa mạc.
+
+@y5205|Địa chất học|Kiến tạo, đá, động đất|Geology
+tectonic plate|mảng kiến tạo|Japan sits on the edge of a tectonic plate.|Nhật Bản nằm trên rìa một mảng kiến tạo.
+fault line|đường đứt gãy|The city was built on a fault line.|Thành phố được xây trên một đường đứt gãy.
+seismic|thuộc địa chấn|Seismic activity increased last week.|Hoạt động địa chấn gia tăng vào tuần trước.
+seismograph|máy đo địa chấn|The seismograph recorded a small quake.|Máy đo địa chấn ghi nhận một trận động đất nhỏ.
+lava flow|dòng dung nham|The lava flow reached the village.|Dòng dung nham tràn đến ngôi làng.
+caldera|hõm chảo núi lửa|A lake formed in the caldera.|Một cái hồ hình thành trong hõm chảo núi lửa.
+hot spring|suối nước nóng|We bathed in a hot spring.|Chúng tôi tắm suối nước nóng.
+sedimentary rock|đá trầm tích|Limestone is a sedimentary rock.|Đá vôi là một loại đá trầm tích.
+igneous rock|đá mác-ma|Granite is an igneous rock.|Đá hoa cương là một loại đá mác-ma.
+metamorphic rock|đá biến chất|Marble is a metamorphic rock.|Đá cẩm thạch là một loại đá biến chất.
+mineral deposit|mỏ khoáng sản|A large mineral deposit was found in the north.|Một mỏ khoáng sản lớn được tìm thấy ở miền bắc.
+fossil record|hồ sơ hóa thạch|The fossil record shows how life changed.|Hồ sơ hóa thạch cho thấy sự sống đã thay đổi thế nào.
+strata|các tầng địa chất|The cliff shows clear strata.|Vách đá lộ rõ các tầng địa chất.
+weathering|sự phong hóa|Weathering slowly breaks down rock.|Sự phong hóa dần phá vỡ đá.
+
+@y5206|Toán học nâng cao 1|Số, phương trình, hình học, thống kê|Maths
+prime number|số nguyên tố|Seven is a prime number.|Bảy là một số nguyên tố.
+rational number|số hữu tỉ|One half is a rational number.|Một phần hai là một số hữu tỉ.
+irrational number|số vô tỉ|Pi is an irrational number.|Pi là một số vô tỉ.
+real number|số thực|Every integer is a real number.|Mọi số nguyên đều là số thực.
+imaginary number|số ảo|The square root of minus one is an imaginary number.|Căn bậc hai của âm một là một số ảo.
+complex number|số phức|A complex number has a real and an imaginary part.|Số phức có phần thực và phần ảo.
+quadratic equation|phương trình bậc hai|Solve the quadratic equation for x.|Hãy giải phương trình bậc hai tìm x.
+linear equation|phương trình bậc nhất|The graph of a linear equation is a straight line.|Đồ thị của phương trình bậc nhất là một đường thẳng.
+determinant|định thức|Calculate the determinant of the matrix.|Hãy tính định thức của ma trận.
+integral|tích phân|The integral gives the area under the curve.|Tích phân cho biết diện tích dưới đường cong.
+differential equation|phương trình vi phân|The model is a differential equation.|Mô hình là một phương trình vi phân.
+limit|giới hạn|Find the limit as x approaches zero.|Hãy tìm giới hạn khi x tiến tới không.
+asymptote|đường tiệm cận|The curve approaches the asymptote but never touches it.|Đường cong tiến gần đường tiệm cận nhưng không bao giờ chạm vào.
+
+@y5207|Toán học nâng cao 2|Số, phương trình, hình học, thống kê|Maths
+sine|sin|The sine of thirty degrees is one half.|Sin của ba mươi độ bằng một phần hai.
+cosine|cô-sin|The cosine of zero is one.|Cô-sin của không bằng một.
+parallel lines|các đường thẳng song song|Parallel lines never meet.|Các đường thẳng song song không bao giờ cắt nhau.
+ellipse|hình e-líp|The Earth's orbit is an ellipse.|Quỹ đạo Trái Đất là một hình e-líp.
+parabola|đường pa-ra-bôn|A thrown ball follows a parabola.|Quả bóng được ném đi theo đường pa-ra-bôn.
+hyperbola|đường hy-pe-bôn|The graph is a hyperbola.|Đồ thị là một đường hy-pe-bôn.
+combination|tổ hợp; sự kết hợp|Each combination of three cards is counted once.|Mỗi tổ hợp ba lá bài được đếm một lần.
+probability distribution|phân phối xác suất|The data follow a normal probability distribution.|Dữ liệu tuân theo phân phối xác suất chuẩn.
+standard deviation|độ lệch chuẩn|The standard deviation is small.|Độ lệch chuẩn nhỏ.
+mode|mốt (giá trị xuất hiện nhiều nhất); chế độ|The mode of the data set is five.|Mốt của tập dữ liệu là năm.
+null hypothesis|giả thuyết không|We reject the null hypothesis.|Chúng tôi bác bỏ giả thuyết không.
+confidence interval|khoảng tin cậy|The confidence interval is quite wide.|Khoảng tin cậy khá rộng.
+margin of error|biên độ sai số|The poll has a margin of error of three percent.|Cuộc thăm dò có biên độ sai số ba phần trăm.
+
+@y5208|Từ vựng tổng hợp|Từ thuộc nhiều chủ đề|Mix
+multilateral|đa phương|They signed a multilateral trade deal.|Họ ký một thỏa thuận thương mại đa phương.
+promulgate|ban hành, công bố|The government will promulgate the new law in May.|Chính phủ sẽ ban hành luật mới vào tháng Năm.
+abrogate|bãi bỏ, hủy bỏ|The state cannot abrogate that right.|Nhà nước không thể bãi bỏ quyền đó.
+space probe|tàu thăm dò vũ trụ|The space probe reached Saturn.|Tàu thăm dò vũ trụ đã đến sao Thổ.
+orbiter|tàu quỹ đạo|The orbiter sent photos of Mars.|Tàu quỹ đạo gửi về ảnh sao Hỏa.
+lander|tàu đổ bộ|The lander touched down on the Moon.|Tàu đổ bộ hạ cánh xuống Mặt Trăng.
+spacewalk|chuyến đi bộ ngoài không gian|The astronaut made a six-hour spacewalk.|Phi hành gia đi bộ ngoài không gian sáu tiếng.
+launch pad|bệ phóng|The rocket stood on the launch pad.|Tên lửa đứng trên bệ phóng.
+booster rocket|tên lửa đẩy|The booster rocket fell into the sea.|Tên lửa đẩy rơi xuống biển.
+escape velocity|vận tốc thoát ly|The rocket must reach escape velocity.|Tên lửa phải đạt vận tốc thoát ly.
+moraine|băng tích|The glacier left a moraine behind.|Sông băng để lại một dải băng tích.
+continental shelf|thềm lục địa|Oil was found on the continental shelf.|Dầu mỏ được tìm thấy trên thềm lục địa.
+ocean trench|rãnh đại dương|The deepest ocean trench is in the Pacific.|Rãnh đại dương sâu nhất nằm ở Thái Bình Dương.
+mantle|lớp phủ (của Trái Đất)|The mantle lies under the crust.|Lớp phủ nằm bên dưới vỏ Trái Đất.
