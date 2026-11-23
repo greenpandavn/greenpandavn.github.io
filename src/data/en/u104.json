@@ -31,7 +31,7 @@
    {"id":"c15-highlighter","hanzi":"highlighter","pinyin":"","vi":"bút dạ quang","ex":{"tokens":["Mark","the","new","words","with","a","highlighter","."],"py":["","","","","","","","."],"vi":"Hãy đánh dấu từ mới bằng bút dạ quang.","alts":[]}},
    {"id":"c15-clip","hanzi":"clip","pinyin":"","vi":"cái kẹp giấy","ex":{"tokens":["Use","a","clip","to","hold","the","pages","."],"py":["","","","","","","","."],"vi":"Hãy dùng kẹp để giữ các trang giấy.","alts":[]}}
   ]},
-  {"id":"c16","title":"Đồ đạc trong nhà 3","desc":"Ghế bành, thảm, bình hoa, bồn tắm","icon":"Vase","unit":104,"course":"en","order":700,"words":[
+  {"id":"c16","title":"Đồ đạc trong nhà 1","desc":"Ghế bành, thảm, bình hoa, bồn tắm","icon":"Vase","unit":104,"course":"en","order":700,"words":[
    {"id":"c16-armchair","hanzi":"armchair","pinyin":"","vi":"ghế bành","ex":{"tokens":["Grandpa","sits","in","his","armchair","."],"py":["","","","","","."],"vi":"Ông ngồi trên ghế bành của mình.","alts":[]}},
    {"id":"c16-stool","hanzi":"stool","pinyin":"","vi":"ghế đẩu","ex":{"tokens":["Sit","on","the","stool","."],"py":["","","","","."],"vi":"Hãy ngồi lên ghế đẩu.","alts":[]}},
    {"id":"c16-rug","hanzi":"rug","pinyin":"","vi":"tấm thảm nhỏ","ex":{"tokens":["The","dog","sleeps","on","the","rug","."],"py":["","","","","","","."],"vi":"Con chó ngủ trên tấm thảm.","alts":[]}},

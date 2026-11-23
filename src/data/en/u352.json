@@ -1,6 +1,6 @@
 {
  "units": [
-  {"unit":352,"level":3,"title":"Phần 25: Mở rộng – Rau củ và trái cây","desc":"Rau củ và trái cây, Trang phục và phụ kiện, Vải và may vá, Các phần của ngôi nhà","color":"sky","course":"en"}
+  {"unit":352,"level":3,"title":"Phần 25: Mở rộng – Rau củ và trái cây","desc":"Rau củ và trái cây, Trang phục và phụ kiện, Vải và may vá, Các phần của ngôi nhà, Đồ đạc trong nhà","color":"sky","course":"en"}
  ],
  "lessons": [
   {"id":"y3021","title":"Rau củ và trái cây 3","desc":"Rau, củ, trái cây nhiệt đới, quả mọng","icon":"Fruit","unit":352,"course":"en","order":2710,"words":[
@@ -135,6 +135,22 @@
    {"id":"y3029-fuse_box","hanzi":"fuse box","pinyin":"","vi":"hộp cầu chì","ex":{"tokens":["The","fuse","box","is","in","the","garage","."],"py":["","","","","","","","."],"vi":"Hộp cầu chì ở trong ga ra.","alts":[]}},
    {"id":"y3029-curtain_rod","hanzi":"curtain rod","pinyin":"","vi":"thanh treo rèm","ex":{"tokens":["He","fixed","the","curtain","rod","above","the","window","."],"py":["","","","","","","","","."],"vi":"Anh ấy lắp thanh treo rèm phía trên cửa sổ.","alts":[]}},
    {"id":"y3029-skirting_board","hanzi":"skirting board","pinyin":"","vi":"nẹp chân tường","ex":{"tokens":["Paint","the","skirting","board","white","."],"py":["","","","","","."],"vi":"Hãy sơn nẹp chân tường màu trắng.","alts":[]}}
+  ]},
+  {"id":"y3030","title":"Đồ đạc trong nhà 2","desc":"Bàn ghế, giường tủ, đồ dọn dẹp","icon":"Furniture","unit":352,"course":"en","order":2800,"words":[
+   {"id":"y3030-recliner","hanzi":"recliner","pinyin":"","vi":"ghế tựa ngả lưng","ex":{"tokens":["Dad","fell","asleep","in","his","recliner","."],"py":["","","","","","","."],"vi":"Bố ngủ quên trên ghế tựa ngả lưng.","alts":[]}},
+   {"id":"y3030-couch","hanzi":"couch","pinyin":"","vi":"ghế sofa dài","ex":{"tokens":["We","watched","a","film","on","the","couch","."],"py":["","","","","","","","."],"vi":"Chúng tôi xem phim trên ghế sofa.","alts":[]}},
+   {"id":"y3030-futon","hanzi":"futon","pinyin":"","vi":"đệm trải sàn kiểu Nhật","ex":{"tokens":["Our","guest","slept","on","a","futon","."],"py":["","","","","","","."],"vi":"Khách của chúng tôi ngủ trên đệm trải sàn.","alts":[]}},
+   {"id":"y3030-footstool","hanzi":"footstool","pinyin":"","vi":"ghế gác chân","ex":{"tokens":["She","rested","her","feet","on","a","footstool","."],"py":["","","","","","","","."],"vi":"Cô ấy gác chân lên ghế gác chân.","alts":[]}},
+   {"id":"y3030-rocking_chair","hanzi":"rocking chair","pinyin":"","vi":"ghế bập bênh","ex":{"tokens":["Grandpa","sat","in","his","rocking","chair","."],"py":["","","","","","","."],"vi":"Ông ngồi trên ghế bập bênh.","alts":[]}},
+   {"id":"y3030-high_chair","hanzi":"high chair","pinyin":"","vi":"ghế ăn cho bé","ex":{"tokens":["The","baby","sat","in","a","high","chair","."],"py":["","","","","","","","."],"vi":"Em bé ngồi trên ghế ăn.","alts":[]}},
+   {"id":"y3030-cot","hanzi":"cot","pinyin":"","vi":"giường cũi; giường xếp","ex":{"tokens":["The","baby","is","asleep","in","her","cot","."],"py":["","","","","","","","."],"vi":"Em bé đang ngủ trong cũi.","alts":[]}},
+   {"id":"y3030-bunk_bed","hanzi":"bunk bed","pinyin":"","vi":"giường tầng","ex":{"tokens":["The","brothers","share","a","bunk","bed","."],"py":["","","","","","","."],"vi":"Hai anh em dùng chung một chiếc giường tầng.","alts":[]}},
+   {"id":"y3030-headboard","hanzi":"headboard","pinyin":"","vi":"đầu giường","ex":{"tokens":["He","hit","his","head","on","the","headboard","."],"py":["","","","","","","","."],"vi":"Anh ấy đập đầu vào đầu giường.","alts":[]}},
+   {"id":"y3030-bedspread","hanzi":"bedspread","pinyin":"","vi":"khăn phủ giường","ex":{"tokens":["She","chose","a","blue","bedspread","."],"py":["","","","","","."],"vi":"Cô ấy chọn một tấm khăn phủ giường màu xanh.","alts":[]}},
+   {"id":"y3030-comforter","hanzi":"comforter","pinyin":"","vi":"chăn bông","ex":{"tokens":["I","need","a","thick","comforter","in","winter","."],"py":["","","","","","","","."],"vi":"Tôi cần một chiếc chăn bông dày vào mùa đông.","alts":[]}},
+   {"id":"y3030-dresser","hanzi":"dresser","pinyin":"","vi":"tủ ngăn kéo có gương","ex":{"tokens":["Her","jewelry","is","on","the","dresser","."],"py":["","","","","","","."],"vi":"Trang sức của cô ấy ở trên tủ ngăn kéo.","alts":[]}},
+   {"id":"y3030-chest_of_drawers","hanzi":"chest of drawers","pinyin":"","vi":"tủ ngăn kéo","ex":{"tokens":["My","socks","are","in","the","chest","of","drawers","."],"py":["","","","","","","","","."],"vi":"Tất của tôi ở trong tủ ngăn kéo.","alts":[]}},
+   {"id":"y3030-nightstand","hanzi":"nightstand","pinyin":"","vi":"tủ đầu giường","ex":{"tokens":["My","phone","is","on","the","nightstand","."],"py":["","","","","","","."],"vi":"Điện thoại của tôi ở trên tủ đầu giường.","alts":[]}}
   ]}
  ]
 }

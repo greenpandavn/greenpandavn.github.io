@@ -1,0 +1,117 @@
+# Level 3 (Nâng cao): đồ đạc, dụng cụ, xe hơi.
+@3|Đồ đạc trong nhà|Bàn ghế, giường tủ, đồ dọn dẹp|Furniture
+recliner|ghế tựa ngả lưng|Dad fell asleep in his recliner.|Bố ngủ quên trên ghế tựa ngả lưng.
+couch|ghế sofa dài|We watched a film on the couch.|Chúng tôi xem phim trên ghế sofa.
+futon|đệm trải sàn kiểu Nhật|Our guest slept on a futon.|Khách của chúng tôi ngủ trên đệm trải sàn.
+footstool|ghế gác chân|She rested her feet on a footstool.|Cô ấy gác chân lên ghế gác chân.
+rocking chair|ghế bập bênh|Grandpa sat in his rocking chair.|Ông ngồi trên ghế bập bênh.
+high chair|ghế ăn cho bé|The baby sat in a high chair.|Em bé ngồi trên ghế ăn.
+cot|giường cũi; giường xếp|The baby is asleep in her cot.|Em bé đang ngủ trong cũi.
+bunk bed|giường tầng|The brothers share a bunk bed.|Hai anh em dùng chung một chiếc giường tầng.
+headboard|đầu giường|He hit his head on the headboard.|Anh ấy đập đầu vào đầu giường.
+bedspread|khăn phủ giường|She chose a blue bedspread.|Cô ấy chọn một tấm khăn phủ giường màu xanh.
+comforter|chăn bông|I need a thick comforter in winter.|Tôi cần một chiếc chăn bông dày vào mùa đông.
+dresser|tủ ngăn kéo có gương|Her jewelry is on the dresser.|Trang sức của cô ấy ở trên tủ ngăn kéo.
+chest of drawers|tủ ngăn kéo|My socks are in the chest of drawers.|Tất của tôi ở trong tủ ngăn kéo.
+nightstand|tủ đầu giường|My phone is on the nightstand.|Điện thoại của tôi ở trên tủ đầu giường.
+bookcase|tủ sách|The bookcase is full of novels.|Tủ sách đầy tiểu thuyết.
+sideboard|tủ búp phê|The plates are kept in the sideboard.|Đĩa được cất trong tủ búp phê.
+pantry|phòng/tủ đựng thức ăn|There is rice in the pantry.|Có gạo trong tủ đựng thức ăn.
+coat rack|giá treo áo khoác|Hang your jacket on the coat rack.|Hãy treo áo khoác lên giá treo.
+laundry basket|giỏ đựng đồ giặt|Put your dirty clothes in the laundry basket.|Hãy bỏ quần áo bẩn vào giỏ đồ giặt.
+ironing board|bàn để là quần áo|The ironing board is behind the door.|Bàn để là ở sau cánh cửa.
+clothesline|dây phơi quần áo|She hung the shirts on the clothesline.|Cô ấy phơi áo lên dây phơi.
+clothespin|cái kẹp quần áo|A clothespin held the towel in place.|Một cái kẹp giữ chiếc khăn tắm.
+dustpan|cái hót rác|Bring the broom and the dustpan.|Hãy mang chổi và cái hót rác lại đây.
+vacuum cleaner|máy hút bụi|The vacuum cleaner is very noisy.|Máy hút bụi rất ồn.
+trash bag|túi đựng rác|Take the trash bag outside.|Hãy mang túi rác ra ngoài.
+recycling bin|thùng rác tái chế|Put the bottles in the recycling bin.|Hãy bỏ chai vào thùng rác tái chế.
+chandelier|đèn chùm|A chandelier hangs in the dining room.|Một chiếc đèn chùm treo trong phòng ăn.
+lampshade|chụp đèn|The lampshade is covered with dust.|Chụp đèn phủ đầy bụi.
+candlestick|chân nến|There is a silver candlestick on the table.|Có một chiếc chân nến bạc trên bàn.
+ornament|đồ trang trí|She hung an ornament on the tree.|Cô ấy treo một món đồ trang trí lên cây.
+picture frame|khung ảnh|The photo is in a wooden picture frame.|Bức ảnh nằm trong khung gỗ.
+ottoman|ghế đôn bọc nệm|She keeps blankets inside the ottoman.|Cô ấy cất chăn bên trong ghế đôn.
+scrubber|miếng cọ rửa|Clean the pan with a scrubber.|Hãy cọ chảo bằng miếng cọ rửa.
+feather duster|chổi lông gà|She cleaned the shelves with a feather duster.|Cô ấy lau kệ bằng chổi lông gà.
+
+@3|Dụng cụ và vật liệu|Dụng cụ sửa chữa, làm vườn, vật liệu xây dựng|Tools
+mallet|cái vồ, búa gỗ|He hit the peg with a mallet.|Anh ấy đóng cái cọc bằng búa gỗ.
+screwdriver|tua vít|I need a screwdriver to open this.|Tôi cần tua vít để mở cái này.
+wrench|cờ lê|He tightened the nut with a wrench.|Anh ấy siết đai ốc bằng cờ lê.
+pliers|cái kìm|Pull the nail out with pliers.|Hãy nhổ đinh ra bằng kìm.
+chisel|cái đục|He cut the wood with a chisel.|Anh ấy đục gỗ bằng cái đục.
+hacksaw|cưa sắt|Cut the pipe with a hacksaw.|Hãy cắt ống bằng cưa sắt.
+drill|máy khoan; khoan|He used a drill to make a hole.|Anh ấy dùng máy khoan để khoan một lỗ.
+sandpaper|giấy nhám|Smooth the wood with sandpaper.|Hãy làm nhẵn gỗ bằng giấy nhám.
+level|thước thủy; mức độ|Use a level to check that the shelf is straight.|Hãy dùng thước thủy để kiểm tra kệ có thẳng không.
+tape measure|thước cuộn|Measure the door with a tape measure.|Hãy đo cánh cửa bằng thước cuộn.
+clamp|cái kẹp (giữ chặt)|Hold the wood with a clamp.|Hãy giữ gỗ bằng cái kẹp.
+anvil|cái đe|The blacksmith hit the iron on an anvil.|Người thợ rèn đập sắt trên cái đe.
+crowbar|xà beng|He opened the box with a crowbar.|Anh ấy mở chiếc hộp bằng xà beng.
+spade|cái xẻng (lưỡi vuông)|He dug the hole with a spade.|Anh ấy đào hố bằng xẻng.
+hoe|cái cuốc|The farmer worked the soil with a hoe.|Người nông dân xới đất bằng cuốc.
+pitchfork|cái chĩa (xúc rơm)|He moved the hay with a pitchfork.|Anh ấy xúc cỏ khô bằng chĩa.
+trowel|cái bay|She planted the flowers with a trowel.|Cô ấy trồng hoa bằng cái bay.
+shears|kéo lớn (cắt cây)|He cut the hedge with shears.|Anh ấy tỉa hàng rào bằng kéo lớn.
+wheelbarrow|xe cút kít|He filled the wheelbarrow with soil.|Anh ấy xúc đầy đất vào xe cút kít.
+stepladder|thang gấp|Use a stepladder to change the light bulb.|Hãy dùng thang gấp để thay bóng đèn.
+toolbox|hộp dụng cụ|The hammer is in the toolbox.|Cái búa ở trong hộp dụng cụ.
+workbench|bàn làm việc của thợ|His tools lay on the workbench.|Dụng cụ của anh ấy nằm trên bàn thợ.
+screw|đinh vít|One screw is missing from the chair.|Chiếc ghế thiếu một con vít.
+nut|đai ốc; quả hạch|Tighten the nut on the wheel.|Hãy siết đai ốc trên bánh xe.
+rivet|đinh tán|Each rivet holds two metal plates together.|Mỗi chiếc đinh tán giữ hai tấm kim loại lại với nhau.
+bracket|giá đỡ; dấu ngoặc|The shelf sits on a metal bracket.|Chiếc kệ nằm trên một giá đỡ kim loại.
+cord|dây (điện, thừng nhỏ)|The phone cord is too short.|Dây điện thoại quá ngắn.
+twine|dây bện|Tie the box with twine.|Hãy buộc chiếc hộp bằng dây bện.
+padlock|ổ khóa móc|He locked the gate with a padlock.|Anh ấy khóa cổng bằng ổ khóa móc.
+putty|mát tít, bột trét|Fill the hole with putty.|Hãy trét lỗ bằng mát tít.
+welder|thợ hàn|My uncle works as a welder.|Chú tôi làm thợ hàn.
+primer|sơn lót|Put on a coat of primer first.|Hãy sơn một lớp sơn lót trước.
+sealant|chất bịt kín, keo trám|Use sealant around the bath.|Hãy dùng keo trám quanh bồn tắm.
+grout|vữa chít mạch|The grout between the tiles is dirty.|Vữa giữa các viên gạch bị bẩn.
+cement|xi măng|They mixed cement and sand.|Họ trộn xi măng với cát.
+plank|tấm ván|He walked across a wooden plank.|Anh ấy bước qua một tấm ván gỗ.
+plywood|gỗ dán|The box is made of plywood.|Chiếc hộp làm bằng gỗ dán.
+faucet|vòi nước|Turn off the faucet, please.|Làm ơn tắt vòi nước.
+nozzle|đầu vòi phun|The nozzle of the hose is blocked.|Đầu vòi của ống nước bị tắc.
+hose|ống nước mềm|He watered the garden with a hose.|Anh ấy tưới vườn bằng ống nước.
+spanner|cờ lê (Anh)|Pass me the spanner, please.|Làm ơn đưa tôi cái cờ lê.
+vise|cái ê tô|Hold the pipe in a vise.|Hãy kẹp ống vào ê tô.
+
+@3|Xe hơi và lái xe|Bộ phận xe, tình huống trên đường|Car
+steering wheel|vô lăng|Keep both hands on the steering wheel.|Hãy giữ cả hai tay trên vô lăng.
+wiper|cần gạt nước|The left wiper is broken.|Cần gạt nước bên trái bị hỏng.
+headlight|đèn pha|One headlight is not working.|Một đèn pha không hoạt động.
+taillight|đèn hậu|The taillight was broken in the crash.|Đèn hậu bị vỡ trong vụ va chạm.
+indicator|đèn xi nhan; chỉ số|Use your indicator before you turn.|Hãy bật xi nhan trước khi rẽ.
+rearview mirror|gương chiếu hậu|Check your rearview mirror.|Hãy kiểm tra gương chiếu hậu.
+license plate|biển số xe|I wrote down the license plate.|Tôi đã ghi lại biển số xe.
+spark plug|bugi|The mechanic changed a spark plug.|Thợ máy thay một chiếc bugi.
+accelerator|chân ga|He pressed the accelerator.|Anh ấy nhấn chân ga.
+brake pedal|bàn đạp phanh|Press the brake pedal gently.|Hãy đạp phanh nhẹ nhàng.
+handbrake|phanh tay|Do not forget to pull the handbrake.|Đừng quên kéo phanh tay.
+speedometer|đồng hồ tốc độ|The speedometer showed eighty kilometers an hour.|Đồng hồ tốc độ chỉ tám mươi cây số một giờ.
+fuel gauge|đồng hồ báo nhiên liệu|The fuel gauge shows the tank is almost empty.|Đồng hồ nhiên liệu cho thấy bình gần hết.
+glove compartment|hộc đựng đồ trước ghế phụ|The map is in the glove compartment.|Bản đồ ở trong hộc đựng đồ.
+sunroof|cửa sổ trời|She opened the sunroof.|Cô ấy mở cửa sổ trời.
+tow truck|xe cứu hộ, xe kéo|A tow truck took the car away.|Một chiếc xe kéo đã kéo chiếc xe đi.
+jack|cái kích (nâng xe)|Lift the car with a jack.|Hãy nâng xe bằng cái kích.
+spare tire|lốp dự phòng|The spare tire is in the trunk.|Lốp dự phòng ở trong cốp xe.
+overtake|vượt (xe)|Do not overtake on a bend.|Đừng vượt xe ở khúc cua.
+swerve|đánh lái đột ngột, lạng|The driver had to swerve to avoid a dog.|Tài xế phải đánh lái gấp để tránh một con chó.
+skid|trượt bánh|The car began to skid on the ice.|Chiếc xe bắt đầu trượt bánh trên băng.
+stall|chết máy; quầy hàng|The engine may stall on the hill.|Động cơ có thể chết máy trên dốc.
+hitchhike|đi nhờ xe|They decided to hitchhike to the coast.|Họ quyết định đi nhờ xe ra bờ biển.
+carpool|đi chung xe|We carpool to work every day.|Chúng tôi đi chung xe đi làm mỗi ngày.
+underpass|đường hầm chui|Walk through the underpass to cross the road.|Hãy đi qua hầm chui để sang đường.
+toll booth|trạm thu phí|There is a toll booth before the bridge.|Có một trạm thu phí trước cây cầu.
+speed bump|gờ giảm tốc|Slow down for the speed bump.|Hãy giảm tốc ở gờ giảm tốc.
+pothole|ổ gà|The car hit a pothole.|Chiếc xe đâm vào ổ gà.
+curb|lề đường, mép vỉa hè|He parked next to the curb.|Anh ấy đỗ xe sát lề đường.
+pedestrian crossing|vạch sang đường cho người đi bộ|Stop at the pedestrian crossing.|Hãy dừng lại ở vạch sang đường.
+fender|tấm chắn bùn|The fender was bent in the accident.|Tấm chắn bùn bị móp trong vụ tai nạn.
+muffler|ống giảm thanh; khăn quàng|The car needs a new muffler.|Chiếc xe cần ống giảm thanh mới.
+hubcap|ốp bánh xe|A hubcap rolled across the road.|Một chiếc ốp bánh xe lăn ngang đường.
+odometer|đồng hồ đo quãng đường|The odometer shows fifty thousand kilometers.|Đồng hồ đo quãng đường chỉ năm mươi nghìn cây số.
+tailgate|bám sát đuôi xe; cửa hậu|Do not tailgate the car in front.|Đừng bám sát đuôi xe phía trước.

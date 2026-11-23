@@ -1,0 +1,103 @@
+{
+ "units": [
+  {"unit":353,"level":3,"title":"Phần 26: Mở rộng – Đồ đạc trong nhà","desc":"Đồ đạc trong nhà, Dụng cụ và vật liệu, Xe hơi và lái xe","color":"grape","course":"en"}
+ ],
+ "lessons": [
+  {"id":"y3041","title":"Đồ đạc trong nhà 3","desc":"Bàn ghế, giường tủ, đồ dọn dẹp","icon":"Furniture","unit":353,"course":"en","order":2810,"words":[
+   {"id":"y3041-bookcase","hanzi":"bookcase","pinyin":"","vi":"tủ sách","ex":{"tokens":["The","bookcase","is","full","of","novels","."],"py":["","","","","","","."],"vi":"Tủ sách đầy tiểu thuyết.","alts":[]}},
+   {"id":"y3041-sideboard","hanzi":"sideboard","pinyin":"","vi":"tủ búp phê","ex":{"tokens":["The","plates","are","kept","in","the","sideboard","."],"py":["","","","","","","","."],"vi":"Đĩa được cất trong tủ búp phê.","alts":[]}},
+   {"id":"y3041-pantry","hanzi":"pantry","pinyin":"","vi":"phòng/tủ đựng thức ăn","ex":{"tokens":["There","is","rice","in","the","pantry","."],"py":["","","","","","","."],"vi":"Có gạo trong tủ đựng thức ăn.","alts":[]}},
+   {"id":"y3041-coat_rack","hanzi":"coat rack","pinyin":"","vi":"giá treo áo khoác","ex":{"tokens":["Hang","your","jacket","on","the","coat","rack","."],"py":["","","","","","","","."],"vi":"Hãy treo áo khoác lên giá treo.","alts":[]}},
+   {"id":"y3041-laundry_basket","hanzi":"laundry basket","pinyin":"","vi":"giỏ đựng đồ giặt","ex":{"tokens":["Put","your","dirty","clothes","in","the","laundry","basket","."],"py":["","","","","","","","","."],"vi":"Hãy bỏ quần áo bẩn vào giỏ đồ giặt.","alts":[]}},
+   {"id":"y3041-ironing_board","hanzi":"ironing board","pinyin":"","vi":"bàn để là quần áo","ex":{"tokens":["The","ironing","board","is","behind","the","door","."],"py":["","","","","","","","."],"vi":"Bàn để là ở sau cánh cửa.","alts":[]}},
+   {"id":"y3041-clothesline","hanzi":"clothesline","pinyin":"","vi":"dây phơi quần áo","ex":{"tokens":["She","hung","the","shirts","on","the","clothesline","."],"py":["","","","","","","","."],"vi":"Cô ấy phơi áo lên dây phơi.","alts":[]}},
+   {"id":"y3041-clothespin","hanzi":"clothespin","pinyin":"","vi":"cái kẹp quần áo","ex":{"tokens":["A","clothespin","held","the","towel","in","place","."],"py":["","","","","","","","."],"vi":"Một cái kẹp giữ chiếc khăn tắm.","alts":[]}},
+   {"id":"y3041-dustpan","hanzi":"dustpan","pinyin":"","vi":"cái hót rác","ex":{"tokens":["Bring","the","broom","and","the","dustpan","."],"py":["","","","","","","."],"vi":"Hãy mang chổi và cái hót rác lại đây.","alts":[]}},
+   {"id":"y3041-vacuum_cleaner","hanzi":"vacuum cleaner","pinyin":"","vi":"máy hút bụi","ex":{"tokens":["The","vacuum","cleaner","is","very","noisy","."],"py":["","","","","","","."],"vi":"Máy hút bụi rất ồn.","alts":[]}},
+   {"id":"y3041-trash_bag","hanzi":"trash bag","pinyin":"","vi":"túi đựng rác","ex":{"tokens":["Take","the","trash","bag","outside","."],"py":["","","","","","."],"vi":"Hãy mang túi rác ra ngoài.","alts":[]}},
+   {"id":"y3041-recycling_bin","hanzi":"recycling bin","pinyin":"","vi":"thùng rác tái chế","ex":{"tokens":["Put","the","bottles","in","the","recycling","bin","."],"py":["","","","","","","","."],"vi":"Hãy bỏ chai vào thùng rác tái chế.","alts":[]}},
+   {"id":"y3041-chandelier","hanzi":"chandelier","pinyin":"","vi":"đèn chùm","ex":{"tokens":["A","chandelier","hangs","in","the","dining","room","."],"py":["","","","","","","","."],"vi":"Một chiếc đèn chùm treo trong phòng ăn.","alts":[]}},
+   {"id":"y3041-lampshade","hanzi":"lampshade","pinyin":"","vi":"chụp đèn","ex":{"tokens":["The","lampshade","is","covered","with","dust","."],"py":["","","","","","","."],"vi":"Chụp đèn phủ đầy bụi.","alts":[]}}
+  ]},
+  {"id":"y3042","title":"Dụng cụ và vật liệu 1","desc":"Dụng cụ sửa chữa, làm vườn, vật liệu xây dựng","icon":"Tools","unit":353,"course":"en","order":2820,"words":[
+   {"id":"y3042-mallet","hanzi":"mallet","pinyin":"","vi":"cái vồ, búa gỗ","ex":{"tokens":["He","hit","the","peg","with","a","mallet","."],"py":["","","","","","","","."],"vi":"Anh ấy đóng cái cọc bằng búa gỗ.","alts":[]}},
+   {"id":"y3042-screwdriver","hanzi":"screwdriver","pinyin":"","vi":"tua vít","ex":{"tokens":["I","need","a","screwdriver","to","open","this","."],"py":["","","","","","","","."],"vi":"Tôi cần tua vít để mở cái này.","alts":[]}},
+   {"id":"y3042-wrench","hanzi":"wrench","pinyin":"","vi":"cờ lê","ex":{"tokens":["He","tightened","the","nut","with","a","wrench","."],"py":["","","","","","","","."],"vi":"Anh ấy siết đai ốc bằng cờ lê.","alts":[]}},
+   {"id":"y3042-pliers","hanzi":"pliers","pinyin":"","vi":"cái kìm","ex":{"tokens":["Pull","the","nail","out","with","pliers","."],"py":["","","","","","","."],"vi":"Hãy nhổ đinh ra bằng kìm.","alts":[]}},
+   {"id":"y3042-chisel","hanzi":"chisel","pinyin":"","vi":"cái đục","ex":{"tokens":["He","cut","the","wood","with","a","chisel","."],"py":["","","","","","","","."],"vi":"Anh ấy đục gỗ bằng cái đục.","alts":[]}},
+   {"id":"y3042-hacksaw","hanzi":"hacksaw","pinyin":"","vi":"cưa sắt","ex":{"tokens":["Cut","the","pipe","with","a","hacksaw","."],"py":["","","","","","","."],"vi":"Hãy cắt ống bằng cưa sắt.","alts":[]}},
+   {"id":"y3042-drill","hanzi":"drill","pinyin":"","vi":"máy khoan; khoan","ex":{"tokens":["He","used","a","drill","to","make","a","hole","."],"py":["","","","","","","","","."],"vi":"Anh ấy dùng máy khoan để khoan một lỗ.","alts":[]}},
+   {"id":"y3042-sandpaper","hanzi":"sandpaper","pinyin":"","vi":"giấy nhám","ex":{"tokens":["Smooth","the","wood","with","sandpaper","."],"py":["","","","","","."],"vi":"Hãy làm nhẵn gỗ bằng giấy nhám.","alts":[]}},
+   {"id":"y3042-level","hanzi":"level","pinyin":"","vi":"thước thủy; mức độ","ex":{"tokens":["Use","a","level","to","check","that","the","shelf","is","straight","."],"py":["","","","","","","","","","","."],"vi":"Hãy dùng thước thủy để kiểm tra kệ có thẳng không.","alts":[]}},
+   {"id":"y3042-tape_measure","hanzi":"tape measure","pinyin":"","vi":"thước cuộn","ex":{"tokens":["Measure","the","door","with","a","tape","measure","."],"py":["","","","","","","","."],"vi":"Hãy đo cánh cửa bằng thước cuộn.","alts":[]}},
+   {"id":"y3042-clamp","hanzi":"clamp","pinyin":"","vi":"cái kẹp (giữ chặt)","ex":{"tokens":["Hold","the","wood","with","a","clamp","."],"py":["","","","","","","."],"vi":"Hãy giữ gỗ bằng cái kẹp.","alts":[]}},
+   {"id":"y3042-anvil","hanzi":"anvil","pinyin":"","vi":"cái đe","ex":{"tokens":["The","blacksmith","hit","the","iron","on","an","anvil","."],"py":["","","","","","","","","."],"vi":"Người thợ rèn đập sắt trên cái đe.","alts":[]}},
+   {"id":"y3042-crowbar","hanzi":"crowbar","pinyin":"","vi":"xà beng","ex":{"tokens":["He","opened","the","box","with","a","crowbar","."],"py":["","","","","","","","."],"vi":"Anh ấy mở chiếc hộp bằng xà beng.","alts":[]}},
+   {"id":"y3042-spade","hanzi":"spade","pinyin":"","vi":"cái xẻng (lưỡi vuông)","ex":{"tokens":["He","dug","the","hole","with","a","spade","."],"py":["","","","","","","","."],"vi":"Anh ấy đào hố bằng xẻng.","alts":[]}}
+  ]},
+  {"id":"y3043","title":"Dụng cụ và vật liệu 2","desc":"Dụng cụ sửa chữa, làm vườn, vật liệu xây dựng","icon":"Tools","unit":353,"course":"en","order":2830,"words":[
+   {"id":"y3043-hoe","hanzi":"hoe","pinyin":"","vi":"cái cuốc","ex":{"tokens":["The","farmer","worked","the","soil","with","a","hoe","."],"py":["","","","","","","","","."],"vi":"Người nông dân xới đất bằng cuốc.","alts":[]}},
+   {"id":"y3043-pitchfork","hanzi":"pitchfork","pinyin":"","vi":"cái chĩa (xúc rơm)","ex":{"tokens":["He","moved","the","hay","with","a","pitchfork","."],"py":["","","","","","","","."],"vi":"Anh ấy xúc cỏ khô bằng chĩa.","alts":[]}},
+   {"id":"y3043-trowel","hanzi":"trowel","pinyin":"","vi":"cái bay","ex":{"tokens":["She","planted","the","flowers","with","a","trowel","."],"py":["","","","","","","","."],"vi":"Cô ấy trồng hoa bằng cái bay.","alts":[]}},
+   {"id":"y3043-shears","hanzi":"shears","pinyin":"","vi":"kéo lớn (cắt cây)","ex":{"tokens":["He","cut","the","hedge","with","shears","."],"py":["","","","","","","."],"vi":"Anh ấy tỉa hàng rào bằng kéo lớn.","alts":[]}},
+   {"id":"y3043-wheelbarrow","hanzi":"wheelbarrow","pinyin":"","vi":"xe cút kít","ex":{"tokens":["He","filled","the","wheelbarrow","with","soil","."],"py":["","","","","","","."],"vi":"Anh ấy xúc đầy đất vào xe cút kít.","alts":[]}},
+   {"id":"y3043-stepladder","hanzi":"stepladder","pinyin":"","vi":"thang gấp","ex":{"tokens":["Use","a","stepladder","to","change","the","light","bulb","."],"py":["","","","","","","","","."],"vi":"Hãy dùng thang gấp để thay bóng đèn.","alts":[]}},
+   {"id":"y3043-toolbox","hanzi":"toolbox","pinyin":"","vi":"hộp dụng cụ","ex":{"tokens":["The","hammer","is","in","the","toolbox","."],"py":["","","","","","","."],"vi":"Cái búa ở trong hộp dụng cụ.","alts":[]}},
+   {"id":"y3043-workbench","hanzi":"workbench","pinyin":"","vi":"bàn làm việc của thợ","ex":{"tokens":["His","tools","lay","on","the","workbench","."],"py":["","","","","","","."],"vi":"Dụng cụ của anh ấy nằm trên bàn thợ.","alts":[]}},
+   {"id":"y3043-screw","hanzi":"screw","pinyin":"","vi":"đinh vít","ex":{"tokens":["One","screw","is","missing","from","the","chair","."],"py":["","","","","","","","."],"vi":"Chiếc ghế thiếu một con vít.","alts":[]}},
+   {"id":"y3043-nut","hanzi":"nut","pinyin":"","vi":"đai ốc; quả hạch","ex":{"tokens":["Tighten","the","nut","on","the","wheel","."],"py":["","","","","","","."],"vi":"Hãy siết đai ốc trên bánh xe.","alts":[]}},
+   {"id":"y3043-rivet","hanzi":"rivet","pinyin":"","vi":"đinh tán","ex":{"tokens":["Each","rivet","holds","two","metal","plates","together","."],"py":["","","","","","","","."],"vi":"Mỗi chiếc đinh tán giữ hai tấm kim loại lại với nhau.","alts":[]}},
+   {"id":"y3043-bracket","hanzi":"bracket","pinyin":"","vi":"giá đỡ; dấu ngoặc","ex":{"tokens":["The","shelf","sits","on","a","metal","bracket","."],"py":["","","","","","","","."],"vi":"Chiếc kệ nằm trên một giá đỡ kim loại.","alts":[]}},
+   {"id":"y3043-cord","hanzi":"cord","pinyin":"","vi":"dây (điện, thừng nhỏ)","ex":{"tokens":["The","phone","cord","is","too","short","."],"py":["","","","","","","."],"vi":"Dây điện thoại quá ngắn.","alts":[]}},
+   {"id":"y3043-twine","hanzi":"twine","pinyin":"","vi":"dây bện","ex":{"tokens":["Tie","the","box","with","twine","."],"py":["","","","","","."],"vi":"Hãy buộc chiếc hộp bằng dây bện.","alts":[]}}
+  ]},
+  {"id":"y3044","title":"Dụng cụ và vật liệu 3","desc":"Dụng cụ sửa chữa, làm vườn, vật liệu xây dựng","icon":"Tools","unit":353,"course":"en","order":2840,"words":[
+   {"id":"y3044-padlock","hanzi":"padlock","pinyin":"","vi":"ổ khóa móc","ex":{"tokens":["He","locked","the","gate","with","a","padlock","."],"py":["","","","","","","","."],"vi":"Anh ấy khóa cổng bằng ổ khóa móc.","alts":[]}},
+   {"id":"y3044-putty","hanzi":"putty","pinyin":"","vi":"mát tít, bột trét","ex":{"tokens":["Fill","the","hole","with","putty","."],"py":["","","","","","."],"vi":"Hãy trét lỗ bằng mát tít.","alts":[]}},
+   {"id":"y3044-welder","hanzi":"welder","pinyin":"","vi":"thợ hàn","ex":{"tokens":["My","uncle","works","as","a","welder","."],"py":["","","","","","","."],"vi":"Chú tôi làm thợ hàn.","alts":[]}},
+   {"id":"y3044-primer","hanzi":"primer","pinyin":"","vi":"sơn lót","ex":{"tokens":["Put","on","a","coat","of","primer","first","."],"py":["","","","","","","","."],"vi":"Hãy sơn một lớp sơn lót trước.","alts":[]}},
+   {"id":"y3044-sealant","hanzi":"sealant","pinyin":"","vi":"chất bịt kín, keo trám","ex":{"tokens":["Use","sealant","around","the","bath","."],"py":["","","","","","."],"vi":"Hãy dùng keo trám quanh bồn tắm.","alts":[]}},
+   {"id":"y3044-grout","hanzi":"grout","pinyin":"","vi":"vữa chít mạch","ex":{"tokens":["The","grout","between","the","tiles","is","dirty","."],"py":["","","","","","","","."],"vi":"Vữa giữa các viên gạch bị bẩn.","alts":[]}},
+   {"id":"y3044-cement","hanzi":"cement","pinyin":"","vi":"xi măng","ex":{"tokens":["They","mixed","cement","and","sand","."],"py":["","","","","","."],"vi":"Họ trộn xi măng với cát.","alts":[]}},
+   {"id":"y3044-plank","hanzi":"plank","pinyin":"","vi":"tấm ván","ex":{"tokens":["He","walked","across","a","wooden","plank","."],"py":["","","","","","","."],"vi":"Anh ấy bước qua một tấm ván gỗ.","alts":[]}},
+   {"id":"y3044-plywood","hanzi":"plywood","pinyin":"","vi":"gỗ dán","ex":{"tokens":["The","box","is","made","of","plywood","."],"py":["","","","","","","."],"vi":"Chiếc hộp làm bằng gỗ dán.","alts":[]}},
+   {"id":"y3044-faucet","hanzi":"faucet","pinyin":"","vi":"vòi nước","ex":{"tokens":["Turn","off","the","faucet",",","please","."],"py":["","","","",",","","."],"vi":"Làm ơn tắt vòi nước.","alts":[]}},
+   {"id":"y3044-nozzle","hanzi":"nozzle","pinyin":"","vi":"đầu vòi phun","ex":{"tokens":["The","nozzle","of","the","hose","is","blocked","."],"py":["","","","","","","","."],"vi":"Đầu vòi của ống nước bị tắc.","alts":[]}},
+   {"id":"y3044-hose","hanzi":"hose","pinyin":"","vi":"ống nước mềm","ex":{"tokens":["He","watered","the","garden","with","a","hose","."],"py":["","","","","","","","."],"vi":"Anh ấy tưới vườn bằng ống nước.","alts":[]}},
+   {"id":"y3044-spanner","hanzi":"spanner","pinyin":"","vi":"cờ lê (Anh)","ex":{"tokens":["Pass","me","the","spanner",",","please","."],"py":["","","","",",","","."],"vi":"Làm ơn đưa tôi cái cờ lê.","alts":[]}},
+   {"id":"y3044-vise","hanzi":"vise","pinyin":"","vi":"cái ê tô","ex":{"tokens":["Hold","the","pipe","in","a","vise","."],"py":["","","","","","","."],"vi":"Hãy kẹp ống vào ê tô.","alts":[]}}
+  ]},
+  {"id":"y3045","title":"Xe hơi và lái xe 1","desc":"Bộ phận xe, tình huống trên đường","icon":"Car","unit":353,"course":"en","order":2850,"words":[
+   {"id":"y3045-steering_wheel","hanzi":"steering wheel","pinyin":"","vi":"vô lăng","ex":{"tokens":["Keep","both","hands","on","the","steering","wheel","."],"py":["","","","","","","","."],"vi":"Hãy giữ cả hai tay trên vô lăng.","alts":[]}},
+   {"id":"y3045-wiper","hanzi":"wiper","pinyin":"","vi":"cần gạt nước","ex":{"tokens":["The","left","wiper","is","broken","."],"py":["","","","","","."],"vi":"Cần gạt nước bên trái bị hỏng.","alts":[]}},
+   {"id":"y3045-headlight","hanzi":"headlight","pinyin":"","vi":"đèn pha","ex":{"tokens":["One","headlight","is","not","working","."],"py":["","","","","","."],"vi":"Một đèn pha không hoạt động.","alts":[]}},
+   {"id":"y3045-taillight","hanzi":"taillight","pinyin":"","vi":"đèn hậu","ex":{"tokens":["The","taillight","was","broken","in","the","crash","."],"py":["","","","","","","","."],"vi":"Đèn hậu bị vỡ trong vụ va chạm.","alts":[]}},
+   {"id":"y3045-indicator","hanzi":"indicator","pinyin":"","vi":"đèn xi nhan; chỉ số","ex":{"tokens":["Use","your","indicator","before","you","turn","."],"py":["","","","","","","."],"vi":"Hãy bật xi nhan trước khi rẽ.","alts":[]}},
+   {"id":"y3045-rearview_mirror","hanzi":"rearview mirror","pinyin":"","vi":"gương chiếu hậu","ex":{"tokens":["Check","your","rearview","mirror","."],"py":["","","","","."],"vi":"Hãy kiểm tra gương chiếu hậu.","alts":[]}},
+   {"id":"y3045-license_plate","hanzi":"license plate","pinyin":"","vi":"biển số xe","ex":{"tokens":["I","wrote","down","the","license","plate","."],"py":["","","","","","","."],"vi":"Tôi đã ghi lại biển số xe.","alts":[]}},
+   {"id":"y3045-spark_plug","hanzi":"spark plug","pinyin":"","vi":"bugi","ex":{"tokens":["The","mechanic","changed","a","spark","plug","."],"py":["","","","","","","."],"vi":"Thợ máy thay một chiếc bugi.","alts":[]}},
+   {"id":"y3045-accelerator","hanzi":"accelerator","pinyin":"","vi":"chân ga","ex":{"tokens":["He","pressed","the","accelerator","."],"py":["","","","","."],"vi":"Anh ấy nhấn chân ga.","alts":[]}},
+   {"id":"y3045-brake_pedal","hanzi":"brake pedal","pinyin":"","vi":"bàn đạp phanh","ex":{"tokens":["Press","the","brake","pedal","gently","."],"py":["","","","","","."],"vi":"Hãy đạp phanh nhẹ nhàng.","alts":[]}},
+   {"id":"y3045-handbrake","hanzi":"handbrake","pinyin":"","vi":"phanh tay","ex":{"tokens":["Do","not","forget","to","pull","the","handbrake","."],"py":["","","","","","","","."],"vi":"Đừng quên kéo phanh tay.","alts":[]}},
+   {"id":"y3045-speedometer","hanzi":"speedometer","pinyin":"","vi":"đồng hồ tốc độ","ex":{"tokens":["The","speedometer","showed","eighty","kilometers","an","hour","."],"py":["","","","","","","","."],"vi":"Đồng hồ tốc độ chỉ tám mươi cây số một giờ.","alts":[]}},
+   {"id":"y3045-fuel_gauge","hanzi":"fuel gauge","pinyin":"","vi":"đồng hồ báo nhiên liệu","ex":{"tokens":["The","fuel","gauge","shows","the","tank","is","almost","empty","."],"py":["","","","","","","","","","."],"vi":"Đồng hồ nhiên liệu cho thấy bình gần hết.","alts":[]}},
+   {"id":"y3045-glove_compartment","hanzi":"glove compartment","pinyin":"","vi":"hộc đựng đồ trước ghế phụ","ex":{"tokens":["The","map","is","in","the","glove","compartment","."],"py":["","","","","","","","."],"vi":"Bản đồ ở trong hộc đựng đồ.","alts":[]}}
+  ]},
+  {"id":"y3046","title":"Xe hơi và lái xe 2","desc":"Bộ phận xe, tình huống trên đường","icon":"Car","unit":353,"course":"en","order":2860,"words":[
+   {"id":"y3046-sunroof","hanzi":"sunroof","pinyin":"","vi":"cửa sổ trời","ex":{"tokens":["She","opened","the","sunroof","."],"py":["","","","","."],"vi":"Cô ấy mở cửa sổ trời.","alts":[]}},
+   {"id":"y3046-tow_truck","hanzi":"tow truck","pinyin":"","vi":"xe cứu hộ, xe kéo","ex":{"tokens":["A","tow","truck","took","the","car","away","."],"py":["","","","","","","","."],"vi":"Một chiếc xe kéo đã kéo chiếc xe đi.","alts":[]}},
+   {"id":"y3046-jack","hanzi":"jack","pinyin":"","vi":"cái kích (nâng xe)","ex":{"tokens":["Lift","the","car","with","a","jack","."],"py":["","","","","","","."],"vi":"Hãy nâng xe bằng cái kích.","alts":[]}},
+   {"id":"y3046-spare_tire","hanzi":"spare tire","pinyin":"","vi":"lốp dự phòng","ex":{"tokens":["The","spare","tire","is","in","the","trunk","."],"py":["","","","","","","","."],"vi":"Lốp dự phòng ở trong cốp xe.","alts":[]}},
+   {"id":"y3046-overtake","hanzi":"overtake","pinyin":"","vi":"vượt (xe)","ex":{"tokens":["Do","not","overtake","on","a","bend","."],"py":["","","","","","","."],"vi":"Đừng vượt xe ở khúc cua.","alts":[]}},
+   {"id":"y3046-swerve","hanzi":"swerve","pinyin":"","vi":"đánh lái đột ngột, lạng","ex":{"tokens":["The","driver","had","to","swerve","to","avoid","a","dog","."],"py":["","","","","","","","","","."],"vi":"Tài xế phải đánh lái gấp để tránh một con chó.","alts":[]}},
+   {"id":"y3046-skid","hanzi":"skid","pinyin":"","vi":"trượt bánh","ex":{"tokens":["The","car","began","to","skid","on","the","ice","."],"py":["","","","","","","","","."],"vi":"Chiếc xe bắt đầu trượt bánh trên băng.","alts":[]}},
+   {"id":"y3046-stall","hanzi":"stall","pinyin":"","vi":"chết máy; quầy hàng","ex":{"tokens":["The","engine","may","stall","on","the","hill","."],"py":["","","","","","","","."],"vi":"Động cơ có thể chết máy trên dốc.","alts":[]}},
+   {"id":"y3046-hitchhike","hanzi":"hitchhike","pinyin":"","vi":"đi nhờ xe","ex":{"tokens":["They","decided","to","hitchhike","to","the","coast","."],"py":["","","","","","","","."],"vi":"Họ quyết định đi nhờ xe ra bờ biển.","alts":[]}},
+   {"id":"y3046-carpool","hanzi":"carpool","pinyin":"","vi":"đi chung xe","ex":{"tokens":["We","carpool","to","work","every","day","."],"py":["","","","","","","."],"vi":"Chúng tôi đi chung xe đi làm mỗi ngày.","alts":[]}},
+   {"id":"y3046-underpass","hanzi":"underpass","pinyin":"","vi":"đường hầm chui","ex":{"tokens":["Walk","through","the","underpass","to","cross","the","road","."],"py":["","","","","","","","","."],"vi":"Hãy đi qua hầm chui để sang đường.","alts":[]}},
+   {"id":"y3046-toll_booth","hanzi":"toll booth","pinyin":"","vi":"trạm thu phí","ex":{"tokens":["There","is","a","toll","booth","before","the","bridge","."],"py":["","","","","","","","","."],"vi":"Có một trạm thu phí trước cây cầu.","alts":[]}},
+   {"id":"y3046-speed_bump","hanzi":"speed bump","pinyin":"","vi":"gờ giảm tốc","ex":{"tokens":["Slow","down","for","the","speed","bump","."],"py":["","","","","","","."],"vi":"Hãy giảm tốc ở gờ giảm tốc.","alts":[]}},
+   {"id":"y3046-pothole","hanzi":"pothole","pinyin":"","vi":"ổ gà","ex":{"tokens":["The","car","hit","a","pothole","."],"py":["","","","","","."],"vi":"Chiếc xe đâm vào ổ gà.","alts":[]}}
+  ]}
+ ]
+}
