@@ -199,7 +199,7 @@
    {"id":"p46-layer","hanzi":"layer","pinyin":"","vi":"lớp","ex":{"tokens":["There","is","a","thin","layer","of","dust","on","the","table","."],"py":["","","","","","","","","","","."],"vi":"Có một lớp bụi mỏng trên bàn.","alts":[]}},
    {"id":"p46-surface","hanzi":"surface","pinyin":"","vi":"bề mặt","ex":{"tokens":["The","surface","of","the","lake","is","calm","."],"py":["","","","","","","","."],"vi":"Mặt hồ phẳng lặng.","alts":[]}}
   ]},
-  {"id":"p47","title":"Toán học","desc":"Phương trình, phân số, hình học, góc","icon":"Math","unit":403,"course":"en","order":3070,"words":[
+  {"id":"p47","title":"Toán học 1","desc":"Phương trình, phân số, hình học, góc","icon":"Math","unit":403,"course":"en","order":3070,"words":[
    {"id":"p47-equation","hanzi":"equation","pinyin":"","vi":"phương trình","ex":{"tokens":["Can","you","solve","this","equation","?"],"py":["","","","","","?"],"vi":"Bạn có giải được phương trình này không?","alts":[]}},
    {"id":"p47-fraction","hanzi":"fraction","pinyin":"","vi":"phân số; phần nhỏ","ex":{"tokens":["One","half","is","a","simple","fraction","."],"py":["","","","","","","."],"vi":"Một phần hai là một phân số đơn giản.","alts":[]}},
    {"id":"p47-geometry","hanzi":"geometry","pinyin":"","vi":"hình học","ex":{"tokens":["We","learn","about","circles","in","geometry","."],"py":["","","","","","","."],"vi":"Chúng tôi học về hình tròn trong môn hình học.","alts":[]}},

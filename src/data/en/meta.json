@@ -35,7 +35,7 @@
   {"unit":504,"level":5,"title":"Phần 33: Ngôn ngữ tinh luyện","desc":"Từ văn chương, từ mượn, thành ngữ, sắc thái tinh tế","color":"sun","course":"en"},
   {"unit":551,"level":5,"title":"Phần 34: Mở rộng – Giải phẫu cơ thể","desc":"Giải phẫu cơ thể, Bệnh lý, Thủ thuật và thiết bị y khoa, Thực vật học, Động vật học","color":"leaf","course":"en"},
   {"unit":552,"level":5,"title":"Phần 35: Mở rộng – Động vật học","desc":"Động vật học, Chim và côn trùng, Sinh vật biển, Địa chất và địa hình","color":"sky","course":"en"},
-  {"unit":553,"level":5,"title":"Phần 36: Mở rộng – Hóa học","desc":"Hóa học, Vật lý, Thiên văn học","color":"grape","course":"en"}
+  {"unit":553,"level":5,"title":"Phần 36: Mở rộng – Hóa học","desc":"Hóa học, Vật lý, Thiên văn học, Toán học","color":"grape","course":"en"}
  ],
  "lessons": [
   ["e01","Chào hỏi","Hi",1,12],
@@ -344,7 +344,7 @@
   ["p44","An ninh mạng","Lock",403,12],
   ["p45","Công nghệ sinh học","Gen",403,12],
   ["p46","Vật liệu","Mat",403,12],
-  ["p47","Toán học","Math",403,12],
+  ["p47","Toán học 1","Math",403,12],
   ["p48","Địa chất","Rock",403,12],
   ["p49","Tính từ chính xác","Adj",404,12],
   ["p50","Động từ sắc thái","Verb",404,12],
@@ -482,6 +482,10 @@
   ["y5046","Vật lý 3","Physics",553,14],
   ["y5047","Vật lý 4","Physics",553,14],
   ["y5048","Thiên văn học 2","Space",553,14],
-  ["y5049","Thiên văn học 3","Space",553,14]
+  ["y5049","Thiên văn học 3","Space",553,14],
+  ["y5050","Toán học 2","Maths",553,14],
+  ["y5051","Toán học 3","Maths",553,14],
+  ["y5052","Toán học 4","Maths",553,14],
+  ["y5053","Toán học 5","Maths",553,14]
  ]
 }

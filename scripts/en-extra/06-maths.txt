@@ -1,0 +1,58 @@
+# Level 5 (Chuyên sâu): toán học.
+@5|Toán học|Số học, đại số, hình học, thống kê|Maths
+integer|số nguyên|Seven is an integer.|Bảy là một số nguyên.
+numerator|tử số|In three quarters, the numerator is three.|Trong ba phần tư, tử số là ba.
+denominator|mẫu số|The denominator cannot be zero.|Mẫu số không thể bằng không.
+quotient|thương (phép chia)|The quotient of ten and two is five.|Thương của mười và hai là năm.
+remainder|số dư; phần còn lại|Seven divided by two leaves a remainder of one.|Bảy chia hai dư một.
+exponent|số mũ|In ten squared, the exponent is two.|Trong mười bình phương, số mũ là hai.
+logarithm|lôgarit|The teacher explained what a logarithm is.|Giáo viên giải thích lôgarit là gì.
+coefficient|hệ số|In 3x, the coefficient is three.|Trong 3x, hệ số là ba.
+constant|hằng số; liên tục|Pi is a constant.|Pi là một hằng số.
+polynomial|đa thức|We learned to add one polynomial to another.|Chúng tôi học cách cộng một đa thức với đa thức khác.
+quadratic|bậc hai|Solve this quadratic equation.|Hãy giải phương trình bậc hai này.
+linear|tuyến tính, thẳng|The graph shows a linear increase.|Đồ thị cho thấy mức tăng tuyến tính.
+matrix|ma trận|Write the numbers in a matrix.|Hãy viết các số vào một ma trận.
+vector|vectơ|A vector has both size and direction.|Vectơ có cả độ lớn và hướng.
+calculus|giải tích|She is taking calculus this year.|Năm nay cô ấy học giải tích.
+algebra|đại số|Algebra uses letters for numbers.|Đại số dùng chữ cái thay cho số.
+trigonometry|lượng giác|Trigonometry deals with angles and triangles.|Lượng giác nghiên cứu góc và tam giác.
+arithmetic|số học|Children learn arithmetic in primary school.|Trẻ em học số học ở tiểu học.
+theorem|định lý|Every student knows this theorem.|Học sinh nào cũng biết định lý này.
+axiom|tiên đề|An axiom is accepted without proof.|Tiên đề được chấp nhận mà không cần chứng minh.
+proof|phép chứng minh; bằng chứng|The proof takes two pages.|Phép chứng minh dài hai trang.
+corollary|hệ quả|This result is a corollary of the theorem.|Kết quả này là một hệ quả của định lý.
+hypotenuse|cạnh huyền|The hypotenuse is the longest side.|Cạnh huyền là cạnh dài nhất.
+perimeter|chu vi|Measure the perimeter of the garden.|Hãy đo chu vi khu vườn.
+circumference|chu vi hình tròn|The circumference of the wheel is two meters.|Chu vi của bánh xe là hai mét.
+radius|bán kính|The circle has a radius of five centimeters.|Hình tròn có bán kính năm xăng-ti-mét.
+tangent|tiếp tuyến|Draw a tangent to the circle.|Hãy vẽ một tiếp tuyến với đường tròn.
+arc|cung (tròn)|The ball flew in a high arc.|Quả bóng bay theo một đường vòng cung cao.
+polygon|đa giác|A square is a polygon with four sides.|Hình vuông là đa giác có bốn cạnh.
+pentagon|hình ngũ giác|A pentagon has five sides.|Hình ngũ giác có năm cạnh.
+hexagon|hình lục giác|Each cell of the hive is a hexagon.|Mỗi ô của tổ ong là một hình lục giác.
+octagon|hình bát giác|The stop sign is an octagon.|Biển báo dừng là hình bát giác.
+trapezoid|hình thang|A trapezoid has two parallel sides.|Hình thang có hai cạnh song song.
+rhombus|hình thoi|All sides of a rhombus are equal.|Mọi cạnh của hình thoi đều bằng nhau.
+parallelogram|hình bình hành|A rectangle is a kind of parallelogram.|Hình chữ nhật là một dạng hình bình hành.
+cylinder|hình trụ|The can is a cylinder.|Cái lon là một hình trụ.
+cone|hình nón|The ice cream comes in a cone.|Kem được đựng trong một cái ốc quế hình nón.
+sphere|hình cầu|The Earth is almost a sphere.|Trái Đất gần như là một hình cầu.
+pyramid|hình chóp; kim tự tháp|We visited a pyramid in Egypt.|Chúng tôi đã thăm một kim tự tháp ở Ai Cập.
+vertex|đỉnh (của góc, hình)|A triangle has a vertex at each corner.|Tam giác có một đỉnh ở mỗi góc.
+perpendicular|vuông góc|The two lines are perpendicular.|Hai đường thẳng vuông góc với nhau.
+parallel|song song|The road runs parallel to the river.|Con đường chạy song song với dòng sông.
+diagonal|đường chéo|Draw a diagonal across the square.|Hãy vẽ một đường chéo qua hình vuông.
+symmetry|sự đối xứng|A butterfly has perfect symmetry.|Con bướm có sự đối xứng hoàn hảo.
+congruent|bằng nhau, đồng dạng khít|The two triangles are congruent.|Hai tam giác này bằng nhau.
+median|trung vị|The median age in the class is twelve.|Tuổi trung vị trong lớp là mười hai.
+variance|phương sai|The variance of the results was small.|Phương sai của các kết quả nhỏ.
+deviation|độ lệch|Any deviation from the plan must be reported.|Mọi sai lệch so với kế hoạch đều phải báo cáo.
+permutation|hoán vị|Each permutation of the letters makes a new code.|Mỗi hoán vị của các chữ cái tạo ra một mã mới.
+factorial|giai thừa|The factorial of four is twenty-four.|Giai thừa của bốn là hai mươi bốn.
+infinity|vô cực|The numbers go on to infinity.|Các con số kéo dài đến vô cực.
+percentile|bách phân vị|Her score is in the top percentile.|Điểm của cô ấy nằm ở bách phân vị cao nhất.
+abacus|bàn tính|My grandfather still uses an abacus.|Ông tôi vẫn dùng bàn tính.
+protractor|thước đo góc|Use a protractor to measure the angle.|Hãy dùng thước đo góc để đo góc này.
+scalar|đại lượng vô hướng|Temperature is a scalar, not a vector.|Nhiệt độ là đại lượng vô hướng, không phải vectơ.
+chord|dây cung; hợp âm|He played a chord on the guitar.|Anh ấy chơi một hợp âm trên đàn ghi ta.

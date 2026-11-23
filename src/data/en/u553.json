@@ -1,6 +1,6 @@
 {
  "units": [
-  {"unit":553,"level":5,"title":"Phần 36: Mở rộng – Hóa học","desc":"Hóa học, Vật lý, Thiên văn học","color":"grape","course":"en"}
+  {"unit":553,"level":5,"title":"Phần 36: Mở rộng – Hóa học","desc":"Hóa học, Vật lý, Thiên văn học, Toán học","color":"grape","course":"en"}
  ],
  "lessons": [
   {"id":"y5041","title":"Hóa học 2","desc":"Nguyên tử, nguyên tố, phản ứng, dụng cụ thí nghiệm","icon":"Chem","unit":553,"course":"en","order":4370,"words":[
@@ -146,6 +146,70 @@
    {"id":"y5049-exoplanet","hanzi":"exoplanet","pinyin":"","vi":"ngoại hành tinh","ex":{"tokens":["Scientists","found","a","new","exoplanet","."],"py":["","","","","","."],"vi":"Các nhà khoa học tìm thấy một ngoại hành tinh mới.","alts":[]}},
    {"id":"y5049-space_station","hanzi":"space station","pinyin":"","vi":"trạm vũ trụ","ex":{"tokens":["Six","people","live","on","the","space","station","."],"py":["","","","","","","","."],"vi":"Sáu người sống trên trạm vũ trụ.","alts":[]}},
    {"id":"y5049-dark_matter","hanzi":"dark matter","pinyin":"","vi":"vật chất tối","ex":{"tokens":["Nobody","has","seen","dark","matter","directly","."],"py":["","","","","","","."],"vi":"Chưa ai nhìn thấy trực tiếp vật chất tối.","alts":[]}}
+  ]},
+  {"id":"y5050","title":"Toán học 2","desc":"Số học, đại số, hình học, thống kê","icon":"Maths","unit":553,"course":"en","order":4460,"words":[
+   {"id":"y5050-integer","hanzi":"integer","pinyin":"","vi":"số nguyên","ex":{"tokens":["Seven","is","an","integer","."],"py":["","","","","."],"vi":"Bảy là một số nguyên.","alts":[]}},
+   {"id":"y5050-numerator","hanzi":"numerator","pinyin":"","vi":"tử số","ex":{"tokens":["In","three","quarters",",","the","numerator","is","three","."],"py":["","","",",","","","","","."],"vi":"Trong ba phần tư, tử số là ba.","alts":[]}},
+   {"id":"y5050-denominator","hanzi":"denominator","pinyin":"","vi":"mẫu số","ex":{"tokens":["The","denominator","cannot","be","zero","."],"py":["","","","","","."],"vi":"Mẫu số không thể bằng không.","alts":[]}},
+   {"id":"y5050-quotient","hanzi":"quotient","pinyin":"","vi":"thương (phép chia)","ex":{"tokens":["The","quotient","of","ten","and","two","is","five","."],"py":["","","","","","","","","."],"vi":"Thương của mười và hai là năm.","alts":[]}},
+   {"id":"y5050-remainder","hanzi":"remainder","pinyin":"","vi":"số dư; phần còn lại","ex":{"tokens":["Seven","divided","by","two","leaves","a","remainder","of","one","."],"py":["","","","","","","","","","."],"vi":"Bảy chia hai dư một.","alts":[]}},
+   {"id":"y5050-exponent","hanzi":"exponent","pinyin":"","vi":"số mũ","ex":{"tokens":["In","ten","squared",",","the","exponent","is","two","."],"py":["","","",",","","","","","."],"vi":"Trong mười bình phương, số mũ là hai.","alts":[]}},
+   {"id":"y5050-logarithm","hanzi":"logarithm","pinyin":"","vi":"lôgarit","ex":{"tokens":["The","teacher","explained","what","a","logarithm","is","."],"py":["","","","","","","","."],"vi":"Giáo viên giải thích lôgarit là gì.","alts":[]}},
+   {"id":"y5050-coefficient","hanzi":"coefficient","pinyin":"","vi":"hệ số","ex":{"tokens":["In","3x",",","the","coefficient","is","three","."],"py":["","",",","","","","","."],"vi":"Trong 3x, hệ số là ba.","alts":[]}},
+   {"id":"y5050-constant","hanzi":"constant","pinyin":"","vi":"hằng số; liên tục","ex":{"tokens":["Pi","is","a","constant","."],"py":["","","","","."],"vi":"Pi là một hằng số.","alts":[]}},
+   {"id":"y5050-polynomial","hanzi":"polynomial","pinyin":"","vi":"đa thức","ex":{"tokens":["We","learned","to","add","one","polynomial","to","another","."],"py":["","","","","","","","","."],"vi":"Chúng tôi học cách cộng một đa thức với đa thức khác.","alts":[]}},
+   {"id":"y5050-quadratic","hanzi":"quadratic","pinyin":"","vi":"bậc hai","ex":{"tokens":["Solve","this","quadratic","equation","."],"py":["","","","","."],"vi":"Hãy giải phương trình bậc hai này.","alts":[]}},
+   {"id":"y5050-linear","hanzi":"linear","pinyin":"","vi":"tuyến tính, thẳng","ex":{"tokens":["The","graph","shows","a","linear","increase","."],"py":["","","","","","","."],"vi":"Đồ thị cho thấy mức tăng tuyến tính.","alts":[]}},
+   {"id":"y5050-matrix","hanzi":"matrix","pinyin":"","vi":"ma trận","ex":{"tokens":["Write","the","numbers","in","a","matrix","."],"py":["","","","","","","."],"vi":"Hãy viết các số vào một ma trận.","alts":[]}},
+   {"id":"y5050-vector","hanzi":"vector","pinyin":"","vi":"vectơ","ex":{"tokens":["A","vector","has","both","size","and","direction","."],"py":["","","","","","","","."],"vi":"Vectơ có cả độ lớn và hướng.","alts":[]}}
+  ]},
+  {"id":"y5051","title":"Toán học 3","desc":"Số học, đại số, hình học, thống kê","icon":"Maths","unit":553,"course":"en","order":4470,"words":[
+   {"id":"y5051-calculus","hanzi":"calculus","pinyin":"","vi":"giải tích","ex":{"tokens":["She","is","taking","calculus","this","year","."],"py":["","","","","","","."],"vi":"Năm nay cô ấy học giải tích.","alts":[]}},
+   {"id":"y5051-algebra","hanzi":"algebra","pinyin":"","vi":"đại số","ex":{"tokens":["Algebra","uses","letters","for","numbers","."],"py":["","","","","","."],"vi":"Đại số dùng chữ cái thay cho số.","alts":[]}},
+   {"id":"y5051-trigonometry","hanzi":"trigonometry","pinyin":"","vi":"lượng giác","ex":{"tokens":["Trigonometry","deals","with","angles","and","triangles","."],"py":["","","","","","","."],"vi":"Lượng giác nghiên cứu góc và tam giác.","alts":[]}},
+   {"id":"y5051-arithmetic","hanzi":"arithmetic","pinyin":"","vi":"số học","ex":{"tokens":["Children","learn","arithmetic","in","primary","school","."],"py":["","","","","","","."],"vi":"Trẻ em học số học ở tiểu học.","alts":[]}},
+   {"id":"y5051-theorem","hanzi":"theorem","pinyin":"","vi":"định lý","ex":{"tokens":["Every","student","knows","this","theorem","."],"py":["","","","","","."],"vi":"Học sinh nào cũng biết định lý này.","alts":[]}},
+   {"id":"y5051-axiom","hanzi":"axiom","pinyin":"","vi":"tiên đề","ex":{"tokens":["An","axiom","is","accepted","without","proof","."],"py":["","","","","","","."],"vi":"Tiên đề được chấp nhận mà không cần chứng minh.","alts":[]}},
+   {"id":"y5051-proof","hanzi":"proof","pinyin":"","vi":"phép chứng minh; bằng chứng","ex":{"tokens":["The","proof","takes","two","pages","."],"py":["","","","","","."],"vi":"Phép chứng minh dài hai trang.","alts":[]}},
+   {"id":"y5051-corollary","hanzi":"corollary","pinyin":"","vi":"hệ quả","ex":{"tokens":["This","result","is","a","corollary","of","the","theorem","."],"py":["","","","","","","","","."],"vi":"Kết quả này là một hệ quả của định lý.","alts":[]}},
+   {"id":"y5051-hypotenuse","hanzi":"hypotenuse","pinyin":"","vi":"cạnh huyền","ex":{"tokens":["The","hypotenuse","is","the","longest","side","."],"py":["","","","","","","."],"vi":"Cạnh huyền là cạnh dài nhất.","alts":[]}},
+   {"id":"y5051-perimeter","hanzi":"perimeter","pinyin":"","vi":"chu vi","ex":{"tokens":["Measure","the","perimeter","of","the","garden","."],"py":["","","","","","","."],"vi":"Hãy đo chu vi khu vườn.","alts":[]}},
+   {"id":"y5051-circumference","hanzi":"circumference","pinyin":"","vi":"chu vi hình tròn","ex":{"tokens":["The","circumference","of","the","wheel","is","two","meters","."],"py":["","","","","","","","","."],"vi":"Chu vi của bánh xe là hai mét.","alts":[]}},
+   {"id":"y5051-radius","hanzi":"radius","pinyin":"","vi":"bán kính","ex":{"tokens":["The","circle","has","a","radius","of","five","centimeters","."],"py":["","","","","","","","","."],"vi":"Hình tròn có bán kính năm xăng-ti-mét.","alts":[]}},
+   {"id":"y5051-tangent","hanzi":"tangent","pinyin":"","vi":"tiếp tuyến","ex":{"tokens":["Draw","a","tangent","to","the","circle","."],"py":["","","","","","","."],"vi":"Hãy vẽ một tiếp tuyến với đường tròn.","alts":[]}},
+   {"id":"y5051-arc","hanzi":"arc","pinyin":"","vi":"cung (tròn)","ex":{"tokens":["The","ball","flew","in","a","high","arc","."],"py":["","","","","","","","."],"vi":"Quả bóng bay theo một đường vòng cung cao.","alts":[]}}
+  ]},
+  {"id":"y5052","title":"Toán học 4","desc":"Số học, đại số, hình học, thống kê","icon":"Maths","unit":553,"course":"en","order":4480,"words":[
+   {"id":"y5052-polygon","hanzi":"polygon","pinyin":"","vi":"đa giác","ex":{"tokens":["A","square","is","a","polygon","with","four","sides","."],"py":["","","","","","","","","."],"vi":"Hình vuông là đa giác có bốn cạnh.","alts":[]}},
+   {"id":"y5052-pentagon","hanzi":"pentagon","pinyin":"","vi":"hình ngũ giác","ex":{"tokens":["A","pentagon","has","five","sides","."],"py":["","","","","","."],"vi":"Hình ngũ giác có năm cạnh.","alts":[]}},
+   {"id":"y5052-hexagon","hanzi":"hexagon","pinyin":"","vi":"hình lục giác","ex":{"tokens":["Each","cell","of","the","hive","is","a","hexagon","."],"py":["","","","","","","","","."],"vi":"Mỗi ô của tổ ong là một hình lục giác.","alts":[]}},
+   {"id":"y5052-octagon","hanzi":"octagon","pinyin":"","vi":"hình bát giác","ex":{"tokens":["The","stop","sign","is","an","octagon","."],"py":["","","","","","","."],"vi":"Biển báo dừng là hình bát giác.","alts":[]}},
+   {"id":"y5052-trapezoid","hanzi":"trapezoid","pinyin":"","vi":"hình thang","ex":{"tokens":["A","trapezoid","has","two","parallel","sides","."],"py":["","","","","","","."],"vi":"Hình thang có hai cạnh song song.","alts":[]}},
+   {"id":"y5052-rhombus","hanzi":"rhombus","pinyin":"","vi":"hình thoi","ex":{"tokens":["All","sides","of","a","rhombus","are","equal","."],"py":["","","","","","","","."],"vi":"Mọi cạnh của hình thoi đều bằng nhau.","alts":[]}},
+   {"id":"y5052-parallelogram","hanzi":"parallelogram","pinyin":"","vi":"hình bình hành","ex":{"tokens":["A","rectangle","is","a","kind","of","parallelogram","."],"py":["","","","","","","","."],"vi":"Hình chữ nhật là một dạng hình bình hành.","alts":[]}},
+   {"id":"y5052-cylinder","hanzi":"cylinder","pinyin":"","vi":"hình trụ","ex":{"tokens":["The","can","is","a","cylinder","."],"py":["","","","","","."],"vi":"Cái lon là một hình trụ.","alts":[]}},
+   {"id":"y5052-cone","hanzi":"cone","pinyin":"","vi":"hình nón","ex":{"tokens":["The","ice","cream","comes","in","a","cone","."],"py":["","","","","","","","."],"vi":"Kem được đựng trong một cái ốc quế hình nón.","alts":[]}},
+   {"id":"y5052-sphere","hanzi":"sphere","pinyin":"","vi":"hình cầu","ex":{"tokens":["The","Earth","is","almost","a","sphere","."],"py":["","","","","","","."],"vi":"Trái Đất gần như là một hình cầu.","alts":[]}},
+   {"id":"y5052-pyramid","hanzi":"pyramid","pinyin":"","vi":"hình chóp; kim tự tháp","ex":{"tokens":["We","visited","a","pyramid","in","Egypt","."],"py":["","","","","","","."],"vi":"Chúng tôi đã thăm một kim tự tháp ở Ai Cập.","alts":[]}},
+   {"id":"y5052-vertex","hanzi":"vertex","pinyin":"","vi":"đỉnh (của góc, hình)","ex":{"tokens":["A","triangle","has","a","vertex","at","each","corner","."],"py":["","","","","","","","","."],"vi":"Tam giác có một đỉnh ở mỗi góc.","alts":[]}},
+   {"id":"y5052-perpendicular","hanzi":"perpendicular","pinyin":"","vi":"vuông góc","ex":{"tokens":["The","two","lines","are","perpendicular","."],"py":["","","","","","."],"vi":"Hai đường thẳng vuông góc với nhau.","alts":[]}},
+   {"id":"y5052-parallel","hanzi":"parallel","pinyin":"","vi":"song song","ex":{"tokens":["The","road","runs","parallel","to","the","river","."],"py":["","","","","","","","."],"vi":"Con đường chạy song song với dòng sông.","alts":[]}}
+  ]},
+  {"id":"y5053","title":"Toán học 5","desc":"Số học, đại số, hình học, thống kê","icon":"Maths","unit":553,"course":"en","order":4490,"words":[
+   {"id":"y5053-diagonal","hanzi":"diagonal","pinyin":"","vi":"đường chéo","ex":{"tokens":["Draw","a","diagonal","across","the","square","."],"py":["","","","","","","."],"vi":"Hãy vẽ một đường chéo qua hình vuông.","alts":[]}},
+   {"id":"y5053-symmetry","hanzi":"symmetry","pinyin":"","vi":"sự đối xứng","ex":{"tokens":["A","butterfly","has","perfect","symmetry","."],"py":["","","","","","."],"vi":"Con bướm có sự đối xứng hoàn hảo.","alts":[]}},
+   {"id":"y5053-congruent","hanzi":"congruent","pinyin":"","vi":"bằng nhau, đồng dạng khít","ex":{"tokens":["The","two","triangles","are","congruent","."],"py":["","","","","","."],"vi":"Hai tam giác này bằng nhau.","alts":[]}},
+   {"id":"y5053-median","hanzi":"median","pinyin":"","vi":"trung vị","ex":{"tokens":["The","median","age","in","the","class","is","twelve","."],"py":["","","","","","","","","."],"vi":"Tuổi trung vị trong lớp là mười hai.","alts":[]}},
+   {"id":"y5053-variance","hanzi":"variance","pinyin":"","vi":"phương sai","ex":{"tokens":["The","variance","of","the","results","was","small","."],"py":["","","","","","","","."],"vi":"Phương sai của các kết quả nhỏ.","alts":[]}},
+   {"id":"y5053-deviation","hanzi":"deviation","pinyin":"","vi":"độ lệch","ex":{"tokens":["Any","deviation","from","the","plan","must","be","reported","."],"py":["","","","","","","","","."],"vi":"Mọi sai lệch so với kế hoạch đều phải báo cáo.","alts":[]}},
+   {"id":"y5053-permutation","hanzi":"permutation","pinyin":"","vi":"hoán vị","ex":{"tokens":["Each","permutation","of","the","letters","makes","a","new","code","."],"py":["","","","","","","","","","."],"vi":"Mỗi hoán vị của các chữ cái tạo ra một mã mới.","alts":[]}},
+   {"id":"y5053-factorial","hanzi":"factorial","pinyin":"","vi":"giai thừa","ex":{"tokens":["The","factorial","of","four","is","twenty-four","."],"py":["","","","","","","."],"vi":"Giai thừa của bốn là hai mươi bốn.","alts":[]}},
+   {"id":"y5053-infinity","hanzi":"infinity","pinyin":"","vi":"vô cực","ex":{"tokens":["The","numbers","go","on","to","infinity","."],"py":["","","","","","","."],"vi":"Các con số kéo dài đến vô cực.","alts":[]}},
+   {"id":"y5053-percentile","hanzi":"percentile","pinyin":"","vi":"bách phân vị","ex":{"tokens":["Her","score","is","in","the","top","percentile","."],"py":["","","","","","","","."],"vi":"Điểm của cô ấy nằm ở bách phân vị cao nhất.","alts":[]}},
+   {"id":"y5053-abacus","hanzi":"abacus","pinyin":"","vi":"bàn tính","ex":{"tokens":["My","grandfather","still","uses","an","abacus","."],"py":["","","","","","","."],"vi":"Ông tôi vẫn dùng bàn tính.","alts":[]}},
+   {"id":"y5053-protractor","hanzi":"protractor","pinyin":"","vi":"thước đo góc","ex":{"tokens":["Use","a","protractor","to","measure","the","angle","."],"py":["","","","","","","","."],"vi":"Hãy dùng thước đo góc để đo góc này.","alts":[]}},
+   {"id":"y5053-scalar","hanzi":"scalar","pinyin":"","vi":"đại lượng vô hướng","ex":{"tokens":["Temperature","is","a","scalar",",","not","a","vector","."],"py":["","","","",",","","","","."],"vi":"Nhiệt độ là đại lượng vô hướng, không phải vectơ.","alts":[]}},
+   {"id":"y5053-chord","hanzi":"chord","pinyin":"","vi":"dây cung; hợp âm","ex":{"tokens":["He","played","a","chord","on","the","guitar","."],"py":["","","","","","","","."],"vi":"Anh ấy chơi một hợp âm trên đàn ghi ta.","alts":[]}}
   ]}
  ]
 }
