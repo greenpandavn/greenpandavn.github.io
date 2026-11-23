@@ -1,9 +1,9 @@
 {
  "units": [
-  {"unit":553,"level":5,"title":"Phần 53: Mở rộng – Hóa học","desc":"Hóa học, Vật lý, Thiên văn học, Toán học","color":"grape","course":"en"}
+  {"unit":553,"level":5,"title":"Phần 54: Mở rộng – Hóa học","desc":"Hóa học, Vật lý, Thiên văn học, Toán học","color":"grape","course":"en"}
  ],
  "lessons": [
-  {"id":"y5041","title":"Hóa học 2","desc":"Nguyên tử, nguyên tố, phản ứng, dụng cụ thí nghiệm","icon":"Chem","unit":553,"course":"en","order":6010,"words":[
+  {"id":"y5041","title":"Hóa học 2","desc":"Nguyên tử, nguyên tố, phản ứng, dụng cụ thí nghiệm","icon":"Chem","unit":553,"course":"en","order":6060,"words":[
    {"id":"y5041-ion","hanzi":"ion","pinyin":"","vi":"ion","ex":{"tokens":["A","sodium","ion","has","a","positive","charge","."],"py":["","","","","","","","."],"vi":"Ion natri mang điện tích dương.","alts":[]}},
    {"id":"y5041-isotope","hanzi":"isotope","pinyin":"","vi":"đồng vị","ex":{"tokens":["Carbon-14","is","an","isotope","of","carbon","."],"py":["","","","","","","."],"vi":"Cacbon-14 là một đồng vị của cacbon.","alts":[]}},
    {"id":"y5041-proton","hanzi":"proton","pinyin":"","vi":"proton","ex":{"tokens":["A","hydrogen","atom","has","one","proton","."],"py":["","","","","","","."],"vi":"Nguyên tử hydro có một proton.","alts":[]}},
@@ -19,7 +19,7 @@
    {"id":"y5041-carbonate","hanzi":"carbonate","pinyin":"","vi":"cacbonat","ex":{"tokens":["Chalk","is","calcium","carbonate","."],"py":["","","","","."],"vi":"Phấn là canxi cacbonat.","alts":[]}},
    {"id":"y5041-chloride","hanzi":"chloride","pinyin":"","vi":"clorua","ex":{"tokens":["Table","salt","is","sodium","chloride","."],"py":["","","","","","."],"vi":"Muối ăn là natri clorua.","alts":[]}}
   ]},
-  {"id":"y5042","title":"Hóa học 3","desc":"Nguyên tử, nguyên tố, phản ứng, dụng cụ thí nghiệm","icon":"Chem","unit":553,"course":"en","order":6020,"words":[
+  {"id":"y5042","title":"Hóa học 3","desc":"Nguyên tử, nguyên tố, phản ứng, dụng cụ thí nghiệm","icon":"Chem","unit":553,"course":"en","order":6070,"words":[
    {"id":"y5042-helium","hanzi":"helium","pinyin":"","vi":"khí heli","ex":{"tokens":["The","balloon","is","filled","with","helium","."],"py":["","","","","","","."],"vi":"Quả bóng bay được bơm khí heli.","alts":[]}},
    {"id":"y5042-lithium","hanzi":"lithium","pinyin":"","vi":"liti","ex":{"tokens":["Phone","batteries","contain","lithium","."],"py":["","","","","."],"vi":"Pin điện thoại có chứa liti.","alts":[]}},
    {"id":"y5042-nitrogen","hanzi":"nitrogen","pinyin":"","vi":"nitơ","ex":{"tokens":["Most","of","the","air","is","nitrogen","."],"py":["","","","","","","."],"vi":"Phần lớn không khí là nitơ.","alts":[]}},
@@ -35,7 +35,7 @@
    {"id":"y5042-copper","hanzi":"copper","pinyin":"","vi":"đồng (kim loại)","ex":{"tokens":["The","wire","is","made","of","copper","."],"py":["","","","","","","."],"vi":"Sợi dây làm bằng đồng.","alts":[]}},
    {"id":"y5042-zinc","hanzi":"zinc","pinyin":"","vi":"kẽm","ex":{"tokens":["The","roof","is","covered","with","zinc","."],"py":["","","","","","","."],"vi":"Mái nhà được lợp kẽm.","alts":[]}}
   ]},
-  {"id":"y5043","title":"Hóa học 4","desc":"Nguyên tử, nguyên tố, phản ứng, dụng cụ thí nghiệm","icon":"Chem","unit":553,"course":"en","order":6030,"words":[
+  {"id":"y5043","title":"Hóa học 4","desc":"Nguyên tử, nguyên tố, phản ứng, dụng cụ thí nghiệm","icon":"Chem","unit":553,"course":"en","order":6080,"words":[
    {"id":"y5043-iodine","hanzi":"iodine","pinyin":"","vi":"iốt","ex":{"tokens":["Iodine","is","added","to","table","salt","."],"py":["","","","","","","."],"vi":"Iốt được thêm vào muối ăn.","alts":[]}},
    {"id":"y5043-platinum","hanzi":"platinum","pinyin":"","vi":"bạch kim","ex":{"tokens":["Her","ring","is","made","of","platinum","."],"py":["","","","","","","."],"vi":"Chiếc nhẫn của cô ấy làm bằng bạch kim.","alts":[]}},
    {"id":"y5043-mercury","hanzi":"mercury","pinyin":"","vi":"thủy ngân","ex":{"tokens":["Old","thermometers","contain","mercury","."],"py":["","","","","."],"vi":"Nhiệt kế cũ có chứa thủy ngân.","alts":[]}},
@@ -51,7 +51,7 @@
    {"id":"y5043-glucose","hanzi":"glucose","pinyin":"","vi":"đường glucozơ","ex":{"tokens":["The","brain","needs","glucose","for","energy","."],"py":["","","","","","","."],"vi":"Não cần glucozơ để có năng lượng.","alts":[]}},
    {"id":"y5043-condense","hanzi":"condense","pinyin":"","vi":"ngưng tụ","ex":{"tokens":["Steam","will","condense","on","a","cold","window","."],"py":["","","","","","","","."],"vi":"Hơi nước sẽ ngưng tụ trên cửa sổ lạnh.","alts":[]}}
   ]},
-  {"id":"y5044","title":"Hóa học 5","desc":"Nguyên tử, nguyên tố, phản ứng, dụng cụ thí nghiệm","icon":"Chem","unit":553,"course":"en","order":6040,"words":[
+  {"id":"y5044","title":"Hóa học 5","desc":"Nguyên tử, nguyên tố, phản ứng, dụng cụ thí nghiệm","icon":"Chem","unit":553,"course":"en","order":6090,"words":[
    {"id":"y5044-oxidize","hanzi":"oxidize","pinyin":"","vi":"oxy hóa","ex":{"tokens":["Iron","will","oxidize","in","wet","air","."],"py":["","","","","","","."],"vi":"Sắt sẽ bị oxy hóa trong không khí ẩm.","alts":[]}},
    {"id":"y5044-corrode","hanzi":"corrode","pinyin":"","vi":"ăn mòn","ex":{"tokens":["Salt","water","can","corrode","metal","."],"py":["","","","","","."],"vi":"Nước muối có thể ăn mòn kim loại.","alts":[]}},
    {"id":"y5044-neutralize","hanzi":"neutralize","pinyin":"","vi":"trung hòa","ex":{"tokens":["You","can","neutralize","the","acid","with","baking","soda","."],"py":["","","","","","","","","."],"vi":"Bạn có thể trung hòa axit bằng bột nở.","alts":[]}},
@@ -67,7 +67,7 @@
    {"id":"y5044-solute","hanzi":"solute","pinyin":"","vi":"chất tan","ex":{"tokens":["Sugar","is","the","solute","in","sweet","tea","."],"py":["","","","","","","","."],"vi":"Đường là chất tan trong trà ngọt.","alts":[]}},
    {"id":"y5044-chromium","hanzi":"chromium","pinyin":"","vi":"crom","ex":{"tokens":["Chromium","makes","steel","shiny","and","hard","."],"py":["","","","","","","."],"vi":"Crom làm thép bóng và cứng.","alts":[]}}
   ]},
-  {"id":"y5045","title":"Vật lý 2","desc":"Chuyển động, sóng, điện, hạt","icon":"Physics","unit":553,"course":"en","order":6050,"words":[
+  {"id":"y5045","title":"Vật lý 2","desc":"Chuyển động, sóng, điện, hạt","icon":"Physics","unit":553,"course":"en","order":6100,"words":[
    {"id":"y5045-acceleration","hanzi":"acceleration","pinyin":"","vi":"gia tốc","ex":{"tokens":["The","car","has","very","fast","acceleration","."],"py":["","","","","","","."],"vi":"Chiếc xe có gia tốc rất nhanh.","alts":[]}},
    {"id":"y5045-thrust","hanzi":"thrust","pinyin":"","vi":"lực đẩy","ex":{"tokens":["The","engines","give","the","rocket","enough","thrust","."],"py":["","","","","","","","."],"vi":"Động cơ cho tên lửa đủ lực đẩy.","alts":[]}},
    {"id":"y5045-buoyancy","hanzi":"buoyancy","pinyin":"","vi":"sức nổi","ex":{"tokens":["Salt","water","gives","your","body","more","buoyancy","."],"py":["","","","","","","","."],"vi":"Nước muối cho cơ thể bạn sức nổi lớn hơn.","alts":[]}},
@@ -83,7 +83,7 @@
    {"id":"y5045-photon","hanzi":"photon","pinyin":"","vi":"photon, hạt ánh sáng","ex":{"tokens":["A","photon","is","a","particle","of","light","."],"py":["","","","","","","","."],"vi":"Photon là một hạt ánh sáng.","alts":[]}},
    {"id":"y5045-neutrino","hanzi":"neutrino","pinyin":"","vi":"hạt neutrino","ex":{"tokens":["A","neutrino","passes","through","the","Earth","easily","."],"py":["","","","","","","","."],"vi":"Hạt neutrino đi xuyên qua Trái Đất dễ dàng.","alts":[]}}
   ]},
-  {"id":"y5046","title":"Vật lý 3","desc":"Chuyển động, sóng, điện, hạt","icon":"Physics","unit":553,"course":"en","order":6060,"words":[
+  {"id":"y5046","title":"Vật lý 3","desc":"Chuyển động, sóng, điện, hạt","icon":"Physics","unit":553,"course":"en","order":6110,"words":[
    {"id":"y5046-antimatter","hanzi":"antimatter","pinyin":"","vi":"phản vật chất","ex":{"tokens":["Antimatter","is","very","hard","to","store","."],"py":["","","","","","","."],"vi":"Phản vật chất rất khó lưu trữ.","alts":[]}},
    {"id":"y5046-fission","hanzi":"fission","pinyin":"","vi":"sự phân hạch","ex":{"tokens":["Nuclear","fission","releases","a","lot","of","energy","."],"py":["","","","","","","","."],"vi":"Sự phân hạch hạt nhân giải phóng rất nhiều năng lượng.","alts":[]}},
    {"id":"y5046-fusion","hanzi":"fusion","pinyin":"","vi":"sự hợp hạch, sự hợp nhất","ex":{"tokens":["The","sun","gets","its","energy","from","fusion","."],"py":["","","","","","","","."],"vi":"Mặt trời lấy năng lượng từ phản ứng hợp hạch.","alts":[]}},
@@ -99,7 +99,7 @@
    {"id":"y5046-pendulum","hanzi":"pendulum","pinyin":"","vi":"con lắc","ex":{"tokens":["The","pendulum","of","the","old","clock","swings","slowly","."],"py":["","","","","","","","","."],"vi":"Con lắc của chiếc đồng hồ cũ đung đưa chậm rãi.","alts":[]}},
    {"id":"y5046-lever","hanzi":"lever","pinyin":"","vi":"đòn bẩy; cần gạt","ex":{"tokens":["Pull","the","lever","to","open","the","door","."],"py":["","","","","","","","."],"vi":"Hãy kéo cần gạt để mở cửa.","alts":[]}}
   ]},
-  {"id":"y5047","title":"Vật lý 4","desc":"Chuyển động, sóng, điện, hạt","icon":"Physics","unit":553,"course":"en","order":6070,"words":[
+  {"id":"y5047","title":"Vật lý 4","desc":"Chuyển động, sóng, điện, hạt","icon":"Physics","unit":553,"course":"en","order":6120,"words":[
    {"id":"y5047-pulley","hanzi":"pulley","pinyin":"","vi":"ròng rọc","ex":{"tokens":["They","lifted","the","box","with","a","pulley","."],"py":["","","","","","","","."],"vi":"Họ nâng chiếc hộp bằng ròng rọc.","alts":[]}},
    {"id":"y5047-prism","hanzi":"prism","pinyin":"","vi":"lăng kính","ex":{"tokens":["A","prism","splits","white","light","into","colors","."],"py":["","","","","","","","."],"vi":"Lăng kính tách ánh sáng trắng thành các màu.","alts":[]}},
    {"id":"y5047-laser","hanzi":"laser","pinyin":"","vi":"tia laze","ex":{"tokens":["The","doctor","used","a","laser","on","her","eye","."],"py":["","","","","","","","","."],"vi":"Bác sĩ dùng tia laze cho mắt cô ấy.","alts":[]}},
@@ -115,7 +115,7 @@
    {"id":"y5047-collider","hanzi":"collider","pinyin":"","vi":"máy gia tốc va chạm hạt","ex":{"tokens":["The","collider","smashes","particles","together","."],"py":["","","","","","."],"vi":"Máy gia tốc cho các hạt va vào nhau.","alts":[]}},
    {"id":"y5047-resistance","hanzi":"resistance","pinyin":"","vi":"điện trở; sự kháng cự","ex":{"tokens":["Copper","has","low","electrical","resistance","."],"py":["","","","","","."],"vi":"Đồng có điện trở thấp.","alts":[]}}
   ]},
-  {"id":"y5048","title":"Thiên văn học 2","desc":"Sao, quỹ đạo, tàu vũ trụ","icon":"Space","unit":553,"course":"en","order":6080,"words":[
+  {"id":"y5048","title":"Thiên văn học 2","desc":"Sao, quỹ đạo, tàu vũ trụ","icon":"Space","unit":553,"course":"en","order":6130,"words":[
    {"id":"y5048-meteorite","hanzi":"meteorite","pinyin":"","vi":"thiên thạch (rơi xuống đất)","ex":{"tokens":["A","meteorite","landed","in","the","desert","."],"py":["","","","","","","."],"vi":"Một thiên thạch rơi xuống sa mạc.","alts":[]}},
    {"id":"y5048-supernova","hanzi":"supernova","pinyin":"","vi":"siêu tân tinh","ex":{"tokens":["A","supernova","is","an","exploding","star","."],"py":["","","","","","","."],"vi":"Siêu tân tinh là một ngôi sao phát nổ.","alts":[]}},
    {"id":"y5048-solstice","hanzi":"solstice","pinyin":"","vi":"điểm chí (hạ chí, đông chí)","ex":{"tokens":["The","summer","solstice","is","the","longest","day","."],"py":["","","","","","","","."],"vi":"Hạ chí là ngày dài nhất.","alts":[]}},
@@ -131,7 +131,7 @@
    {"id":"y5048-booster","hanzi":"booster","pinyin":"","vi":"tên lửa đẩy; mũi tiêm nhắc lại","ex":{"tokens":["The","booster","fell","into","the","sea","after","launch","."],"py":["","","","","","","","","."],"vi":"Tên lửa đẩy rơi xuống biển sau khi phóng.","alts":[]}},
    {"id":"y5048-payload","hanzi":"payload","pinyin":"","vi":"trọng tải mang theo","ex":{"tokens":["The","rocket","carried","a","payload","of","two","satellites","."],"py":["","","","","","","","","."],"vi":"Tên lửa mang theo trọng tải là hai vệ tinh.","alts":[]}}
   ]},
-  {"id":"y5049","title":"Thiên văn học 3","desc":"Sao, quỹ đạo, tàu vũ trụ","icon":"Space","unit":553,"course":"en","order":6090,"words":[
+  {"id":"y5049","title":"Thiên văn học 3","desc":"Sao, quỹ đạo, tàu vũ trụ","icon":"Space","unit":553,"course":"en","order":6140,"words":[
    {"id":"y5049-observatory","hanzi":"observatory","pinyin":"","vi":"đài thiên văn","ex":{"tokens":["The","observatory","is","on","top","of","the","mountain","."],"py":["","","","","","","","","."],"vi":"Đài thiên văn nằm trên đỉnh núi.","alts":[]}},
    {"id":"y5049-cosmos","hanzi":"cosmos","pinyin":"","vi":"vũ trụ","ex":{"tokens":["He","wondered","about","our","place","in","the","cosmos","."],"py":["","","","","","","","","."],"vi":"Anh ấy tự hỏi về vị trí của chúng ta trong vũ trụ.","alts":[]}},
    {"id":"y5049-celestial","hanzi":"celestial","pinyin":"","vi":"thuộc bầu trời, thiên thể","ex":{"tokens":["The","moon","is","a","celestial","body","."],"py":["","","","","","","."],"vi":"Mặt trăng là một thiên thể.","alts":[]}},
@@ -147,7 +147,7 @@
    {"id":"y5049-space_station","hanzi":"space station","pinyin":"","vi":"trạm vũ trụ","ex":{"tokens":["Six","people","live","on","the","space","station","."],"py":["","","","","","","","."],"vi":"Sáu người sống trên trạm vũ trụ.","alts":[]}},
    {"id":"y5049-dark_matter","hanzi":"dark matter","pinyin":"","vi":"vật chất tối","ex":{"tokens":["Nobody","has","seen","dark","matter","directly","."],"py":["","","","","","","."],"vi":"Chưa ai nhìn thấy trực tiếp vật chất tối.","alts":[]}}
   ]},
-  {"id":"y5050","title":"Toán học 2","desc":"Số học, đại số, hình học, thống kê","icon":"Maths","unit":553,"course":"en","order":6100,"words":[
+  {"id":"y5050","title":"Toán học 2","desc":"Số học, đại số, hình học, thống kê","icon":"Maths","unit":553,"course":"en","order":6150,"words":[
    {"id":"y5050-integer","hanzi":"integer","pinyin":"","vi":"số nguyên","ex":{"tokens":["Seven","is","an","integer","."],"py":["","","","","."],"vi":"Bảy là một số nguyên.","alts":[]}},
    {"id":"y5050-numerator","hanzi":"numerator","pinyin":"","vi":"tử số","ex":{"tokens":["In","three","quarters",",","the","numerator","is","three","."],"py":["","","",",","","","","","."],"vi":"Trong ba phần tư, tử số là ba.","alts":[]}},
    {"id":"y5050-denominator","hanzi":"denominator","pinyin":"","vi":"mẫu số","ex":{"tokens":["The","denominator","cannot","be","zero","."],"py":["","","","","","."],"vi":"Mẫu số không thể bằng không.","alts":[]}},

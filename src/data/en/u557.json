@@ -1,9 +1,9 @@
 {
  "units": [
-  {"unit":557,"level":5,"title":"Phần 57: Mở rộng – Triết học và logic","desc":"Triết học và logic, Ngôn ngữ học, Kinh tế học","color":"sky","course":"en"}
+  {"unit":557,"level":5,"title":"Phần 58: Mở rộng – Triết học và logic","desc":"Triết học và logic, Ngôn ngữ học, Kinh tế học","color":"sky","course":"en"}
  ],
  "lessons": [
-  {"id":"y5121","title":"Triết học và logic 3","desc":"Trường phái, lập luận, đạo đức","icon":"Thought","unit":557,"course":"en","order":6410,"words":[
+  {"id":"y5121","title":"Triết học và logic 3","desc":"Trường phái, lập luận, đạo đức","icon":"Thought","unit":557,"course":"en","order":6460,"words":[
    {"id":"y5121-induction","hanzi":"induction","pinyin":"","vi":"phép quy nạp; sự nhậm chức","ex":{"tokens":["Science","relies","on","induction","from","data","."],"py":["","","","","","","."],"vi":"Khoa học dựa vào quy nạp từ dữ liệu.","alts":[]}},
    {"id":"y5121-inference","hanzi":"inference","pinyin":"","vi":"sự suy luận","ex":{"tokens":["That","is","a","fair","inference","from","the","facts","."],"py":["","","","","","","","","."],"vi":"Đó là một suy luận hợp lý từ các dữ kiện.","alts":[]}},
    {"id":"y5121-proposition","hanzi":"proposition","pinyin":"","vi":"mệnh đề; đề xuất","ex":{"tokens":["The","proposition","is","either","true","or","false","."],"py":["","","","","","","","."],"vi":"Mệnh đề đó hoặc đúng hoặc sai.","alts":[]}},
@@ -18,7 +18,7 @@
    {"id":"y5121-social_contract","hanzi":"social contract","pinyin":"","vi":"khế ước xã hội","ex":{"tokens":["Rousseau","wrote","about","the","social","contract","."],"py":["","","","","","","."],"vi":"Rousseau viết về khế ước xã hội.","alts":[]}},
    {"id":"y5121-natural_law","hanzi":"natural law","pinyin":"","vi":"luật tự nhiên","ex":{"tokens":["He","argued","from","natural","law","."],"py":["","","","","","."],"vi":"Ông ấy lập luận dựa trên luật tự nhiên.","alts":[]}}
   ]},
-  {"id":"y5122","title":"Triết học và logic 4","desc":"Trường phái, lập luận, đạo đức","icon":"Thought","unit":557,"course":"en","order":6420,"words":[
+  {"id":"y5122","title":"Triết học và logic 4","desc":"Trường phái, lập luận, đạo đức","icon":"Thought","unit":557,"course":"en","order":6470,"words":[
    {"id":"y5122-vice","hanzi":"vice","pinyin":"","vi":"thói xấu, tật xấu","ex":{"tokens":["Smoking","is","his","only","vice","."],"py":["","","","","","."],"vi":"Hút thuốc là tật xấu duy nhất của ông ấy.","alts":[]}},
    {"id":"y5122-morality","hanzi":"morality","pinyin":"","vi":"đạo đức","ex":{"tokens":["They","argued","about","the","morality","of","war","."],"py":["","","","","","","","."],"vi":"Họ tranh luận về đạo đức của chiến tranh.","alts":[]}},
    {"id":"y5122-causality","hanzi":"causality","pinyin":"","vi":"quan hệ nhân quả","ex":{"tokens":["It","is","hard","to","prove","causality","."],"py":["","","","","","","."],"vi":"Rất khó chứng minh quan hệ nhân quả.","alts":[]}},
@@ -33,7 +33,7 @@
    {"id":"y5122-egoism","hanzi":"egoism","pinyin":"","vi":"chủ nghĩa vị kỷ","ex":{"tokens":["His","egoism","ruined","the","friendship","."],"py":["","","","","","."],"vi":"Tính vị kỷ của anh ta phá hỏng tình bạn.","alts":[]}},
    {"id":"y5122-cynic","hanzi":"cynic","pinyin":"","vi":"người hay hoài nghi, yếm thế","ex":{"tokens":["Do","not","be","such","a","cynic","."],"py":["","","","","","","."],"vi":"Đừng yếm thế như vậy.","alts":[]}}
   ]},
-  {"id":"y5123","title":"Triết học và logic 5","desc":"Trường phái, lập luận, đạo đức","icon":"Thought","unit":557,"course":"en","order":6430,"words":[
+  {"id":"y5123","title":"Triết học và logic 5","desc":"Trường phái, lập luận, đạo đức","icon":"Thought","unit":557,"course":"en","order":6480,"words":[
    {"id":"y5123-sage","hanzi":"sage","pinyin":"","vi":"nhà hiền triết; cây xô thơm","ex":{"tokens":["People","came","to","ask","the","sage","for","advice","."],"py":["","","","","","","","","."],"vi":"Người ta đến xin nhà hiền triết lời khuyên.","alts":[]}},
    {"id":"y5123-treatise","hanzi":"treatise","pinyin":"","vi":"chuyên luận","ex":{"tokens":["He","wrote","a","treatise","on","government","."],"py":["","","","","","","."],"vi":"Ông ấy viết một chuyên luận về chính quyền.","alts":[]}},
    {"id":"y5123-discourse","hanzi":"discourse","pinyin":"","vi":"diễn ngôn; bài luận","ex":{"tokens":["Political","discourse","has","become","angrier","."],"py":["","","","","","."],"vi":"Diễn ngôn chính trị ngày càng gay gắt.","alts":[]}},
@@ -48,7 +48,7 @@
    {"id":"y5123-a_posteriori","hanzi":"a posteriori","pinyin":"","vi":"hậu nghiệm","ex":{"tokens":["This","is","known","a","posteriori",",","from","experience","."],"py":["","","","","",",","","","."],"vi":"Điều này được biết một cách hậu nghiệm, từ kinh nghiệm.","alts":[]}},
    {"id":"y5123-theist","hanzi":"theist","pinyin":"","vi":"người hữu thần","ex":{"tokens":["A","theist","believes","in","a","god","."],"py":["","","","","","","."],"vi":"Người hữu thần tin vào một vị thần.","alts":[]}}
   ]},
-  {"id":"y5124","title":"Ngôn ngữ học 2","desc":"Âm vị, từ loại, dấu câu, loại hình ngôn ngữ","icon":"Language","unit":557,"course":"en","order":6440,"words":[
+  {"id":"y5124","title":"Ngôn ngữ học 2","desc":"Âm vị, từ loại, dấu câu, loại hình ngôn ngữ","icon":"Language","unit":557,"course":"en","order":6490,"words":[
    {"id":"y5124-phoneme","hanzi":"phoneme","pinyin":"","vi":"âm vị","ex":{"tokens":["English","has","about","forty-four","phoneme","sounds","."],"py":["","","","","","","."],"vi":"Tiếng Anh có khoảng bốn mươi bốn âm vị.","alts":[]}},
    {"id":"y5124-morpheme","hanzi":"morpheme","pinyin":"","vi":"hình vị","ex":{"tokens":["The","word","\"cats\"","has","more","than","one","morpheme","."],"py":["","","","","","","","","."],"vi":"Từ \"cats\" có hơn một hình vị.","alts":[]}},
    {"id":"y5124-semantics","hanzi":"semantics","pinyin":"","vi":"ngữ nghĩa học","ex":{"tokens":["Semantics","is","the","study","of","meaning","."],"py":["","","","","","","."],"vi":"Ngữ nghĩa học là môn nghiên cứu về nghĩa.","alts":[]}},
@@ -63,7 +63,7 @@
    {"id":"y5124-acronym","hanzi":"acronym","pinyin":"","vi":"từ viết tắt bằng chữ cái đầu","ex":{"tokens":["NASA","is","an","acronym","."],"py":["","","","","."],"vi":"NASA là một từ viết tắt bằng chữ cái đầu.","alts":[]}},
    {"id":"y5124-abbreviation","hanzi":"abbreviation","pinyin":"","vi":"chữ viết tắt","ex":{"tokens":["\"Dr.\"","is","an","abbreviation","of","\"doctor\"","."],"py":["","","","","","","."],"vi":"\"Dr.\" là chữ viết tắt của \"doctor\".","alts":[]}}
   ]},
-  {"id":"y5125","title":"Ngôn ngữ học 3","desc":"Âm vị, từ loại, dấu câu, loại hình ngôn ngữ","icon":"Language","unit":557,"course":"en","order":6450,"words":[
+  {"id":"y5125","title":"Ngôn ngữ học 3","desc":"Âm vị, từ loại, dấu câu, loại hình ngôn ngữ","icon":"Language","unit":557,"course":"en","order":6500,"words":[
    {"id":"y5125-homonym","hanzi":"homonym","pinyin":"","vi":"từ đồng âm đồng tự","ex":{"tokens":["\"Bank\"","is","a","homonym","with","two","meanings","."],"py":["","","","","","","","."],"vi":"\"Bank\" là từ đồng âm có hai nghĩa.","alts":[]}},
    {"id":"y5125-homophone","hanzi":"homophone","pinyin":"","vi":"từ đồng âm khác chữ","ex":{"tokens":["\"Sea\"","is","a","homophone","of","\"see\"","."],"py":["","","","","","","."],"vi":"\"Sea\" đồng âm với \"see\".","alts":[]}},
    {"id":"y5125-cognate","hanzi":"cognate","pinyin":"","vi":"từ cùng gốc","ex":{"tokens":["The","German","word","is","a","cognate","of","the","English","one","."],"py":["","","","","","","","","","","."],"vi":"Từ tiếng Đức đó cùng gốc với từ tiếng Anh.","alts":[]}},
@@ -78,7 +78,7 @@
    {"id":"y5125-modifier","hanzi":"modifier","pinyin":"","vi":"từ bổ nghĩa","ex":{"tokens":["An","adjective","is","a","modifier","of","a","noun","."],"py":["","","","","","","","","."],"vi":"Tính từ là từ bổ nghĩa cho danh từ.","alts":[]}},
    {"id":"y5125-determiner","hanzi":"determiner","pinyin":"","vi":"từ hạn định","ex":{"tokens":["\"The\"","is","a","determiner","."],"py":["","","","","."],"vi":"\"The\" là một từ hạn định.","alts":[]}}
   ]},
-  {"id":"y5126","title":"Ngôn ngữ học 4","desc":"Âm vị, từ loại, dấu câu, loại hình ngôn ngữ","icon":"Language","unit":557,"course":"en","order":6460,"words":[
+  {"id":"y5126","title":"Ngôn ngữ học 4","desc":"Âm vị, từ loại, dấu câu, loại hình ngôn ngữ","icon":"Language","unit":557,"course":"en","order":6510,"words":[
    {"id":"y5126-preposition","hanzi":"preposition","pinyin":"","vi":"giới từ","ex":{"tokens":["\"On\"","is","a","preposition","."],"py":["","","","","."],"vi":"\"On\" là một giới từ.","alts":[]}},
    {"id":"y5126-conjunction","hanzi":"conjunction","pinyin":"","vi":"liên từ","ex":{"tokens":["\"And\"","is","a","conjunction","."],"py":["","","","","."],"vi":"\"And\" là một liên từ.","alts":[]}},
    {"id":"y5126-interjection","hanzi":"interjection","pinyin":"","vi":"thán từ","ex":{"tokens":["\"Wow\"","is","an","interjection","."],"py":["","","","","."],"vi":"\"Wow\" là một thán từ.","alts":[]}},
@@ -93,7 +93,7 @@
    {"id":"y5126-multilingual","hanzi":"multilingual","pinyin":"","vi":"đa ngữ","ex":{"tokens":["Singapore","is","a","multilingual","country","."],"py":["","","","","","."],"vi":"Singapore là một đất nước đa ngữ.","alts":[]}},
    {"id":"y5126-monolingual","hanzi":"monolingual","pinyin":"","vi":"đơn ngữ","ex":{"tokens":["I","use","a","monolingual","dictionary","."],"py":["","","","","","."],"vi":"Tôi dùng từ điển đơn ngữ.","alts":[]}}
   ]},
-  {"id":"y5127","title":"Ngôn ngữ học 5","desc":"Âm vị, từ loại, dấu câu, loại hình ngôn ngữ","icon":"Language","unit":557,"course":"en","order":6470,"words":[
+  {"id":"y5127","title":"Ngôn ngữ học 5","desc":"Âm vị, từ loại, dấu câu, loại hình ngôn ngữ","icon":"Language","unit":557,"course":"en","order":6520,"words":[
    {"id":"y5127-mother_tongue","hanzi":"mother tongue","pinyin":"","vi":"tiếng mẹ đẻ","ex":{"tokens":["Vietnamese","is","my","mother","tongue","."],"py":["","","","","","."],"vi":"Tiếng Việt là tiếng mẹ đẻ của tôi.","alts":[]}},
    {"id":"y5127-lingua_franca","hanzi":"lingua franca","pinyin":"","vi":"ngôn ngữ chung","ex":{"tokens":["English","is","the","lingua","franca","of","business","."],"py":["","","","","","","","."],"vi":"Tiếng Anh là ngôn ngữ chung của giới kinh doanh.","alts":[]}},
    {"id":"y5127-sign_language","hanzi":"sign language","pinyin":"","vi":"ngôn ngữ ký hiệu","ex":{"tokens":["She","is","learning","sign","language","."],"py":["","","","","","."],"vi":"Cô ấy đang học ngôn ngữ ký hiệu.","alts":[]}},
@@ -108,7 +108,7 @@
    {"id":"y5127-parenthesis","hanzi":"parenthesis","pinyin":"","vi":"dấu ngoặc đơn","ex":{"tokens":["Put","the","date","in","parenthesis","."],"py":["","","","","","."],"vi":"Hãy đặt ngày tháng trong ngoặc đơn.","alts":[]}},
    {"id":"y5127-quotation_mark","hanzi":"quotation mark","pinyin":"","vi":"dấu ngoặc kép","ex":{"tokens":["You","forgot","the","closing","quotation","mark","."],"py":["","","","","","","."],"vi":"Bạn quên dấu ngoặc kép đóng.","alts":[]}}
   ]},
-  {"id":"y5128","title":"Ngôn ngữ học 6","desc":"Âm vị, từ loại, dấu câu, loại hình ngôn ngữ","icon":"Language","unit":557,"course":"en","order":6480,"words":[
+  {"id":"y5128","title":"Ngôn ngữ học 6","desc":"Âm vị, từ loại, dấu câu, loại hình ngôn ngữ","icon":"Language","unit":557,"course":"en","order":6530,"words":[
    {"id":"y5128-italics","hanzi":"italics","pinyin":"","vi":"chữ in nghiêng","ex":{"tokens":["Book","titles","are","written","in","italics","."],"py":["","","","","","","."],"vi":"Tên sách được viết bằng chữ in nghiêng.","alts":[]}},
    {"id":"y5128-typo","hanzi":"typo","pinyin":"","vi":"lỗi đánh máy","ex":{"tokens":["There","is","a","typo","in","the","first","line","."],"py":["","","","","","","","","."],"vi":"Có một lỗi đánh máy ở dòng đầu.","alts":[]}},
    {"id":"y5128-proofreading","hanzi":"proofreading","pinyin":"","vi":"việc đọc soát lỗi","ex":{"tokens":["The","essay","needs","careful","proofreading","."],"py":["","","","","","."],"vi":"Bài luận cần được đọc soát lỗi kỹ.","alts":[]}},
@@ -123,7 +123,7 @@
    {"id":"y5128-metonymy","hanzi":"metonymy","pinyin":"","vi":"phép hoán dụ","ex":{"tokens":["\"The","crown\"","for","the","king","is","metonymy","."],"py":["","","","","","","","."],"vi":"Dùng \"vương miện\" để chỉ nhà vua là phép hoán dụ.","alts":[]}},
    {"id":"y5128-archaism","hanzi":"archaism","pinyin":"","vi":"từ cổ","ex":{"tokens":["\"Thou\"","is","an","archaism","."],"py":["","","","","."],"vi":"\"Thou\" là một từ cổ.","alts":[]}}
   ]},
-  {"id":"y5129","title":"Kinh tế học 1","desc":"Vĩ mô, thị trường, thuế, thương mại","icon":"Economy","unit":557,"course":"en","order":6490,"words":[
+  {"id":"y5129","title":"Kinh tế học 1","desc":"Vĩ mô, thị trường, thuế, thương mại","icon":"Economy","unit":557,"course":"en","order":6540,"words":[
    {"id":"y5129-macroeconomics","hanzi":"macroeconomics","pinyin":"","vi":"kinh tế vĩ mô","ex":{"tokens":["Macroeconomics","looks","at","the","whole","economy","."],"py":["","","","","","","."],"vi":"Kinh tế vĩ mô xem xét toàn bộ nền kinh tế.","alts":[]}},
    {"id":"y5129-microeconomics","hanzi":"microeconomics","pinyin":"","vi":"kinh tế vi mô","ex":{"tokens":["Microeconomics","studies","firms","and","households","."],"py":["","","","","","."],"vi":"Kinh tế vi mô nghiên cứu doanh nghiệp và hộ gia đình.","alts":[]}},
    {"id":"y5129-gross_domestic_product","hanzi":"gross domestic product","pinyin":"","vi":"tổng sản phẩm quốc nội (GDP)","ex":{"tokens":["Gross","domestic","product","grew","by","six","percent","."],"py":["","","","","","","","."],"vi":"Tổng sản phẩm quốc nội tăng sáu phần trăm.","alts":[]}},
@@ -139,7 +139,7 @@
    {"id":"y5129-fiscal_policy","hanzi":"fiscal policy","pinyin":"","vi":"chính sách tài khóa","ex":{"tokens":["Fiscal","policy","covers","taxes","and","spending","."],"py":["","","","","","","."],"vi":"Chính sách tài khóa bao gồm thuế và chi tiêu.","alts":[]}},
    {"id":"y5129-budget_deficit","hanzi":"budget deficit","pinyin":"","vi":"thâm hụt ngân sách","ex":{"tokens":["The","budget","deficit","is","too","large","."],"py":["","","","","","","."],"vi":"Thâm hụt ngân sách quá lớn.","alts":[]}}
   ]},
-  {"id":"y5130","title":"Kinh tế học 2","desc":"Vĩ mô, thị trường, thuế, thương mại","icon":"Economy","unit":557,"course":"en","order":6500,"words":[
+  {"id":"y5130","title":"Kinh tế học 2","desc":"Vĩ mô, thị trường, thuế, thương mại","icon":"Economy","unit":557,"course":"en","order":6550,"words":[
    {"id":"y5130-national_debt","hanzi":"national debt","pinyin":"","vi":"nợ công quốc gia","ex":{"tokens":["The","national","debt","keeps","rising","."],"py":["","","","","","."],"vi":"Nợ công quốc gia tiếp tục tăng.","alts":[]}},
    {"id":"y5130-treasury","hanzi":"treasury","pinyin":"","vi":"kho bạc, bộ tài chính","ex":{"tokens":["The","treasury","will","sell","new","bonds","."],"py":["","","","","","","."],"vi":"Kho bạc sẽ bán trái phiếu mới.","alts":[]}},
    {"id":"y5130-bailout","hanzi":"bailout","pinyin":"","vi":"gói cứu trợ tài chính","ex":{"tokens":["The","bank","received","a","government","bailout","."],"py":["","","","","","","."],"vi":"Ngân hàng nhận gói cứu trợ của chính phủ.","alts":[]}},

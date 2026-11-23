@@ -2514,6 +2514,86 @@ back and forth|qua lại|They sent emails back and forth all day.|Họ gửi ema
 bits and pieces|những thứ lặt vặt|I packed a few bits and pieces.|Tôi đóng gói vài thứ lặt vặt.
 peace and quiet|sự yên tĩnh|I just want some peace and quiet.|Tôi chỉ muốn chút yên tĩnh.
 
+%459|4|Phần 9: Mở rộng – Môi trường và năng lượng|Môi trường và năng lượng|coral
+@y4161|Môi trường và năng lượng 1|Khí hậu, năng lượng sạch, ô nhiễm, bảo tồn|Planet
+carbon dioxide|khí các-bô-níc (CO2)|Trees take in carbon dioxide.|Cây xanh hấp thụ khí các-bô-níc.
+greenhouse gas|khí nhà kính|Methane is a greenhouse gas.|Mê-tan là một loại khí nhà kính.
+climate crisis|khủng hoảng khí hậu|Young people worry about the climate crisis.|Giới trẻ lo lắng về khủng hoảng khí hậu.
+fossil fuel|nhiên liệu hóa thạch|Coal is a fossil fuel.|Than đá là nhiên liệu hóa thạch.
+renewable energy|năng lượng tái tạo|The country invests in renewable energy.|Đất nước đầu tư vào năng lượng tái tạo.
+solar power|điện mặt trời|The school runs on solar power.|Ngôi trường chạy bằng điện mặt trời.
+wind power|điện gió|Denmark gets much of its electricity from wind power.|Đan Mạch lấy phần lớn điện từ điện gió.
+nuclear power|điện hạt nhân|France relies on nuclear power.|Pháp dựa vào điện hạt nhân.
+hydropower|thủy điện|Hydropower comes from moving water.|Thủy điện đến từ dòng nước chảy.
+biofuel|nhiên liệu sinh học|The bus runs on biofuel.|Chiếc xe buýt chạy bằng nhiên liệu sinh học.
+power plant|nhà máy điện|A new power plant opened last year.|Một nhà máy điện mới đi vào hoạt động năm ngoái.
+power cut|sự cắt điện, mất điện|We had a power cut last night.|Tối qua chúng tôi bị mất điện.
+blackout|mất điện diện rộng|The storm caused a blackout across the city.|Cơn bão gây mất điện khắp thành phố.
+energy-efficient|tiết kiệm năng lượng|We bought an energy-efficient fridge.|Chúng tôi mua một chiếc tủ lạnh tiết kiệm điện.
+
+@y4162|Môi trường và năng lượng 2|Khí hậu, năng lượng sạch, ô nhiễm, bảo tồn|Planet
+eco-friendly|thân thiện với môi trường|She uses eco-friendly soap.|Cô ấy dùng xà phòng thân thiện với môi trường.
+incinerator|lò đốt rác|The waste goes to an incinerator.|Rác được đưa đến lò đốt.
+waste disposal|xử lý rác thải|Waste disposal is a big problem in cities.|Xử lý rác thải là một vấn đề lớn ở các thành phố.
+oil spill|sự cố tràn dầu|The oil spill killed thousands of birds.|Vụ tràn dầu giết chết hàng nghìn con chim.
+acid rain|mưa a-xít|Acid rain damages forests.|Mưa a-xít tàn phá rừng.
+reforestation|việc trồng lại rừng|Reforestation helps stop floods.|Trồng lại rừng giúp ngăn lũ lụt.
+desertification|sa mạc hóa|Desertification threatens the farms.|Sa mạc hóa đe dọa các trang trại.
+soil erosion|xói mòn đất|Trees prevent soil erosion.|Cây cối ngăn xói mòn đất.
+overfishing|đánh bắt cá quá mức|Overfishing has emptied the bay.|Đánh bắt quá mức đã làm cạn kiệt cá trong vịnh.
+endangered species|loài có nguy cơ tuyệt chủng|The tiger is an endangered species.|Hổ là loài có nguy cơ tuyệt chủng.
+wildlife reserve|khu bảo tồn động vật hoang dã|We saw elephants in the wildlife reserve.|Chúng tôi thấy voi trong khu bảo tồn động vật hoang dã.
+national park|vườn quốc gia|Cuc Phuong is a national park.|Cúc Phương là một vườn quốc gia.
+conservationist|nhà bảo tồn|The conservationist protects sea turtles.|Nhà bảo tồn bảo vệ rùa biển.
+environmentalist|nhà hoạt động môi trường|The environmentalist spoke against the dam.|Nhà hoạt động môi trường lên tiếng phản đối con đập.
+
+@y4163|Môi trường và năng lượng 3|Khí hậu, năng lượng sạch, ô nhiễm, bảo tồn|Planet
+carbon tax|thuế các-bon|The government plans a carbon tax.|Chính phủ dự định áp thuế các-bon.
+net zero|phát thải ròng bằng không|The company aims for net zero by 2040.|Công ty đặt mục tiêu phát thải ròng bằng không vào năm 2040.
+tidal wave|sóng thần, sóng triều lớn|A tidal wave hit the coast.|Một đợt sóng lớn ập vào bờ biển.
+coral bleaching|hiện tượng san hô bị tẩy trắng|Warm seas cause coral bleaching.|Nước biển ấm gây ra hiện tượng san hô bị tẩy trắng.
+water shortage|tình trạng thiếu nước|The city faces a water shortage.|Thành phố đối mặt với tình trạng thiếu nước.
+food security|an ninh lương thực|Drought threatens food security.|Hạn hán đe dọa an ninh lương thực.
+organic farming|canh tác hữu cơ|Organic farming uses no chemicals.|Canh tác hữu cơ không dùng hóa chất.
+herbicide|thuốc diệt cỏ|The farmer sprayed herbicide on the field.|Người nông dân phun thuốc diệt cỏ lên ruộng.
+monoculture|độc canh|Monoculture makes the soil poor.|Độc canh làm đất bạc màu.
+crop rotation|luân canh|Crop rotation keeps the soil healthy.|Luân canh giữ cho đất khỏe.
+genetically modified|biến đổi gen|Some people avoid genetically modified food.|Một số người tránh thực phẩm biến đổi gen.
+free-range|(gà, trứng) nuôi thả|We buy free-range eggs.|Chúng tôi mua trứng gà nuôi thả.
+zero waste|không rác thải|The café has a zero waste policy.|Quán cà phê có chính sách không rác thải.
+single-use plastic|nhựa dùng một lần|The city banned single-use plastic.|Thành phố cấm nhựa dùng một lần.
+
+@y4164|Môi trường và năng lượng 4|Khí hậu, năng lượng sạch, ô nhiễm, bảo tồn|Planet
+microplastic|vi nhựa|Scientists found microplastic in the fish.|Các nhà khoa học tìm thấy vi nhựa trong cá.
+refillable|có thể nạp lại, dùng lại|I carry a refillable water bottle.|Tôi mang theo một bình nước dùng lại được.
+public transport|giao thông công cộng|I go to work by public transport.|Tôi đi làm bằng phương tiện công cộng.
+electric vehicle|xe điện|She drives an electric vehicle.|Cô ấy lái xe điện.
+hybrid car|xe lai (xăng điện)|A hybrid car uses less petrol.|Xe lai dùng ít xăng hơn.
+charging station|trạm sạc|There is a charging station at the mall.|Có một trạm sạc ở trung tâm mua sắm.
+double glazing|kính hai lớp|Double glazing keeps the house warm.|Kính hai lớp giữ ấm cho ngôi nhà.
+smart meter|công tơ thông minh|A smart meter shows how much power you use.|Công tơ thông minh cho biết bạn dùng bao nhiêu điện.
+heat pump|máy bơm nhiệt|They replaced the boiler with a heat pump.|Họ thay nồi hơi bằng máy bơm nhiệt.
+clean energy|năng lượng sạch|The plan creates jobs in clean energy.|Kế hoạch tạo việc làm trong ngành năng lượng sạch.
+green belt|vành đai xanh|No houses can be built on the green belt.|Không được xây nhà trên vành đai xanh.
+urban sprawl|sự đô thị hóa tràn lan|Urban sprawl is eating up farmland.|Đô thị hóa tràn lan đang nuốt dần đất nông nghiệp.
+light pollution|ô nhiễm ánh sáng|Light pollution hides the stars.|Ô nhiễm ánh sáng che khuất các vì sao.
+water pollution|ô nhiễm nước|Factories cause water pollution.|Nhà máy gây ô nhiễm nước.
+
+@y4165|Môi trường và năng lượng 5|Khí hậu, năng lượng sạch, ô nhiễm, bảo tồn|Planet
+toxic waste|chất thải độc hại|The firm dumped toxic waste in the river.|Công ty đổ chất thải độc hại xuống sông.
+contamination|sự nhiễm bẩn|The well was closed because of contamination.|Giếng bị đóng vì nhiễm bẩn.
+meltdown|sự tan chảy lõi lò; sự suy sụp|The reactor was close to meltdown.|Lò phản ứng suýt tan chảy lõi.
+exhaust fumes|khí thải xe|Exhaust fumes make the air dirty.|Khí thải xe làm bẩn không khí.
+habitat loss|mất môi trường sống|Habitat loss threatens many birds.|Mất môi trường sống đe dọa nhiều loài chim.
+invasive species|loài xâm lấn|The snail is an invasive species here.|Loài ốc này là loài xâm lấn ở đây.
+rewilding|tái hoang dã hóa|Rewilding brought wolves back to the park.|Tái hoang dã hóa đã đưa sói trở lại công viên.
+tree planting|trồng cây|The school held a tree planting day.|Trường tổ chức ngày trồng cây.
+rainwater harvesting|thu gom nước mưa|Rainwater harvesting saves water in dry months.|Thu gom nước mưa giúp tiết kiệm nước trong những tháng khô.
+emissions trading|mua bán quyền phát thải|Emissions trading puts a price on pollution.|Mua bán quyền phát thải đặt giá cho sự ô nhiễm.
+packaging waste|rác thải bao bì|Shops must cut packaging waste.|Các cửa hàng phải giảm rác thải bao bì.
+smokestack|ống khói nhà máy|Black smoke rose from the smokestack.|Khói đen bốc lên từ ống khói nhà máy.
+particulate|hạt bụi mịn; dạng hạt|Diesel engines produce particulate pollution.|Động cơ diesel tạo ra ô nhiễm bụi mịn.
+
 %551|5|Phần 1: Mở rộng – Giải phẫu cơ thể|Giải phẫu cơ thể, Bệnh lý, Thủ thuật và thiết bị y khoa, Thực vật học, Động vật học|leaf
 @y5001|Giải phẫu cơ thể 1|Xương, nội tạng, các phần trên cơ thể|Anatomy
 skull|hộp sọ|The helmet protects your skull.|Mũ bảo hiểm bảo vệ hộp sọ của bạn.
