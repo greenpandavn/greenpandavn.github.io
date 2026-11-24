@@ -1,0 +1,133 @@
+{
+ "units": [
+  {"unit":27,"level":2,"title":"Phần 7: Công việc văn phòng và hơn thế","desc":"Công việc văn phòng, Thiên nhiên và động vật, Ngày lễ và sự kiện, Quan hệ và giao tiếp, Thời gian và trình tự","color":"grape","course":"ko"}
+ ],
+ "lessons": [
+  {"id":"ko2x28","title":"Công việc văn phòng","desc":"Ở chỗ làm","icon":"출","unit":27,"course":"ko","order":1120,"words":[
+   {"id":"ko2x28-출근","hanzi":"출근","pinyin":"chulgeun","vi":"việc đi làm","ex":{"tokens":["아홉","시까지","출근을","합니다","."],"py":["ahop","sikkaji","chulgeuneul","hamnida","."],"vi":"Tôi đi làm trước chín giờ.","alts":[]}},
+   {"id":"ko2x28-퇴근","hanzi":"퇴근","pinyin":"toegeun","vi":"việc tan làm","ex":{"tokens":["여섯","시에","퇴근을","합니다","."],"py":["yeoseot","sie","toegeuneul","hamnida","."],"vi":"Tôi tan làm lúc sáu giờ.","alts":[]}},
+   {"id":"ko2x28-점심시간","hanzi":"점심시간","pinyin":"jeomsimsigan","vi":"giờ nghỉ trưa","ex":{"tokens":["점심시간은","열두","시입니다","."],"py":["jeomsimsiganeun","yeoldu","siimnida","."],"vi":"Giờ nghỉ trưa là mười hai giờ.","alts":[]}},
+   {"id":"ko2x28-회의실","hanzi":"회의실","pinyin":"hoeuisil","vi":"phòng họp","ex":{"tokens":["회의실에서","회의를","합니다","."],"py":["hoeuisireseo","hoeuireul","hamnida","."],"vi":"Chúng tôi họp ở phòng họp.","alts":[]}},
+   {"id":"ko2x28-명함","hanzi":"명함","pinyin":"myeongham","vi":"danh thiếp","ex":{"tokens":["명함을","주고받습니다","."],"py":["myeonghameul","jugobatseumnida","."],"vi":"Chúng tôi trao đổi danh thiếp.","alts":[]}},
+   {"id":"ko2x28-복사기","hanzi":"복사기","pinyin":"boksagi","vi":"máy photocopy","ex":{"tokens":["복사기가","고장","났습니다","."],"py":["boksagiga","gojang","natseumnida","."],"vi":"Máy photocopy bị hỏng.","alts":[]}},
+   {"id":"ko2x28-팩스","hanzi":"팩스","pinyin":"paekseu","vi":"máy fax","ex":{"tokens":["팩스로","서류를","보냅니다","."],"py":["paekseuro","seoryureul","bonaemnida","."],"vi":"Tôi gửi tài liệu bằng fax.","alts":[]}},
+   {"id":"ko2x28-책임자","hanzi":"책임자","pinyin":"chaegimja","vi":"người phụ trách","ex":{"tokens":["책임자를","만나고","싶습니다","."],"py":["chaegimjareul","mannago","sipseumnida","."],"vi":"Tôi muốn gặp người phụ trách.","alts":[]}},
+   {"id":"ko2x28-신입사원","hanzi":"신입사원","pinyin":"sinipsawon","vi":"nhân viên mới","ex":{"tokens":["신입사원이","들어왔습니다","."],"py":["sinipsawoni","deureowatseumnida","."],"vi":"Có nhân viên mới vào.","alts":[]}},
+   {"id":"ko2x28-대리","hanzi":"대리","pinyin":"daeri","vi":"phó phòng, trợ lý","ex":{"tokens":["김","대리가","전화를","받습니다","."],"py":["gim","daeriga","jeonhwareul","batseumnida","."],"vi":"Trợ lý Kim nghe điện thoại.","alts":[]}},
+   {"id":"ko2x28-부서","hanzi":"부서","pinyin":"buseo","vi":"bộ phận, phòng ban","ex":{"tokens":["어느","부서에서","일합니까","?"],"py":["eoneu","buseoeseo","ilhamnikka","?"],"vi":"Bạn làm ở bộ phận nào?","alts":[]}},
+   {"id":"ko2x28-거래처","hanzi":"거래처","pinyin":"georaecheo","vi":"đối tác làm ăn","ex":{"tokens":["거래처에","전화를","합니다","."],"py":["georaecheoe","jeonhwareul","hamnida","."],"vi":"Tôi gọi điện cho đối tác.","alts":[]}}
+  ]},
+  {"id":"ko2x29","title":"Thiên nhiên và động vật 1","desc":"Thế giới tự nhiên","icon":"자","unit":27,"course":"ko","order":1130,"words":[
+   {"id":"ko2x29-자연","hanzi":"자연","pinyin":"jayeon","vi":"thiên nhiên","ex":{"tokens":["자연을","사랑합니다","."],"py":["jayeoneul","saranghamnida","."],"vi":"Tôi yêu thiên nhiên.","alts":[]}},
+   {"id":"ko2x29-계곡","hanzi":"계곡","pinyin":"gyegok","vi":"khe suối","ex":{"tokens":["여름에","계곡에서","놉니다","."],"py":["yeoreume","gyegogeseo","nomnida","."],"vi":"Mùa hè tôi chơi ở khe suối.","alts":[]}},
+   {"id":"ko2x29-연못","hanzi":"연못","pinyin":"yeonmot","vi":"cái ao","ex":{"tokens":["연못에","물고기가","있습니다","."],"py":["yeonmose","mulgogiga","itseumnida","."],"vi":"Trong ao có cá.","alts":[]}},
+   {"id":"ko2x29-파도","hanzi":"파도","pinyin":"pado","vi":"sóng biển","ex":{"tokens":["파도가","높습니다","."],"py":["padoga","nopseumnida","."],"vi":"Sóng cao.","alts":[]}},
+   {"id":"ko2x29-해변","hanzi":"해변","pinyin":"haebyeon","vi":"bãi biển","ex":{"tokens":["해변에서","사진을","찍습니다","."],"py":["haebyeoneseo","sajineul","jjikseumnida","."],"vi":"Tôi chụp ảnh ở bãi biển.","alts":[]}},
+   {"id":"ko2x29-절벽","hanzi":"절벽","pinyin":"jeolbyeok","vi":"vách đá","ex":{"tokens":["절벽","위에서","바다를","봅니다","."],"py":["jeolbyeok","wieseo","badareul","bomnida","."],"vi":"Tôi ngắm biển từ trên vách đá.","alts":[]}},
+   {"id":"ko2x29-들판","hanzi":"들판","pinyin":"deulpan","vi":"đồng ruộng","ex":{"tokens":["들판에","벼가","자랍니다","."],"py":["deulpane","byeoga","jaramnida","."],"vi":"Lúa mọc trên đồng ruộng.","alts":[]}},
+   {"id":"ko2x29-밭","hanzi":"밭","pinyin":"bat","vi":"ruộng cạn, nương","ex":{"tokens":["밭에","채소를","심습니다","."],"py":["bate","chaesoreul","simseumnida","."],"vi":"Tôi trồng rau trên nương.","alts":[]}},
+   {"id":"ko2x29-논","hanzi":"논","pinyin":"non","vi":"ruộng lúa nước","ex":{"tokens":["논에서","쌀이","납니다","."],"py":["noneseo","ssari","namnida","."],"vi":"Gạo được trồng ở ruộng lúa.","alts":[]}},
+   {"id":"ko2x29-벼","hanzi":"벼","pinyin":"byeo","vi":"cây lúa","ex":{"tokens":["가을에","벼가","익습니다","."],"py":["gaeure","byeoga","ikseumnida","."],"vi":"Mùa thu lúa chín.","alts":[]}},
+   {"id":"ko2x29-가지","hanzi":"가지","pinyin":"gaji","vi":"cành cây; quả cà tím","ex":{"tokens":["나무","가지에","새가","앉았습니다","."],"py":["namu","gajie","saega","anjatseumnida","."],"vi":"Con chim đậu trên cành cây.","alts":[]}},
+   {"id":"ko2x29-열매","hanzi":"열매","pinyin":"yeolmae","vi":"quả, trái","ex":{"tokens":["나무에","열매가","열렸습니다","."],"py":["namue","yeolmaega","yeollyeotseumnida","."],"vi":"Trên cây đã kết trái.","alts":[]}}
+  ]},
+  {"id":"ko2x30","title":"Thiên nhiên và động vật 2","desc":"Thế giới tự nhiên","icon":"단","unit":27,"course":"ko","order":1140,"words":[
+   {"id":"ko2x30-단풍","hanzi":"단풍","pinyin":"danpung","vi":"lá phong đỏ","ex":{"tokens":["가을에","단풍이","아름답습니다","."],"py":["gaeure","danpungi","areumdapseumnida","."],"vi":"Mùa thu lá phong đỏ rất đẹp.","alts":[]}},
+   {"id":"ko2x30-벚꽃","hanzi":"벚꽃","pinyin":"beotkkot","vi":"hoa anh đào","ex":{"tokens":["봄에","벚꽃이","핍니다","."],"py":["bome","beotkkochi","pimnida","."],"vi":"Mùa xuân hoa anh đào nở.","alts":[]}},
+   {"id":"ko2x30-해바라기","hanzi":"해바라기","pinyin":"haebaragi","vi":"hoa hướng dương","ex":{"tokens":["해바라기가","해를","봅니다","."],"py":["haebaragiga","haereul","bomnida","."],"vi":"Hoa hướng dương hướng về mặt trời.","alts":[]}},
+   {"id":"ko2x30-소나무","hanzi":"소나무","pinyin":"sonamu","vi":"cây thông","ex":{"tokens":["산에","소나무가","많습니다","."],"py":["sane","sonamuga","manseumnida","."],"vi":"Trên núi có nhiều cây thông.","alts":[]}},
+   {"id":"ko2x30-대나무","hanzi":"대나무","pinyin":"daenamu","vi":"cây tre","ex":{"tokens":["대나무는","빨리","자랍니다","."],"py":["daenamuneun","ppalli","jaramnida","."],"vi":"Cây tre lớn nhanh.","alts":[]}},
+   {"id":"ko2x30-여우","hanzi":"여우","pinyin":"yeou","vi":"con cáo","ex":{"tokens":["여우는","꼬리가","깁니다","."],"py":["yeouneun","kkoriga","gimnida","."],"vi":"Con cáo có đuôi dài.","alts":[]}},
+   {"id":"ko2x30-늑대","hanzi":"늑대","pinyin":"neukdae","vi":"con sói","ex":{"tokens":["늑대가","밤에","웁니다","."],"py":["neukdaega","bame","umnida","."],"vi":"Con sói hú vào ban đêm.","alts":[]}},
+   {"id":"ko2x30-사슴","hanzi":"사슴","pinyin":"saseum","vi":"con hươu","ex":{"tokens":["숲에서","사슴을","봤습니다","."],"py":["supeseo","saseumeul","bwatseumnida","."],"vi":"Tôi đã thấy hươu trong rừng.","alts":[]}},
+   {"id":"ko2x30-기린","hanzi":"기린","pinyin":"girin","vi":"hươu cao cổ","ex":{"tokens":["기린은","목이","깁니다","."],"py":["girineun","mogi","gimnida","."],"vi":"Hươu cao cổ có cổ dài.","alts":[]}},
+   {"id":"ko2x30-고래","hanzi":"고래","pinyin":"gorae","vi":"cá voi","ex":{"tokens":["고래는","바다에","삽니다","."],"py":["goraeneun","badae","samnida","."],"vi":"Cá voi sống ở biển.","alts":[]}},
+   {"id":"ko2x30-상어","hanzi":"상어","pinyin":"sangeo","vi":"cá mập","ex":{"tokens":["상어는","이가","날카롭습니다","."],"py":["sangeoneun","iga","nalkaropseumnida","."],"vi":"Cá mập có răng sắc.","alts":[]}},
+   {"id":"ko2x30-개구리","hanzi":"개구리","pinyin":"gaeguri","vi":"con ếch","ex":{"tokens":["비가","오면","개구리가","웁니다","."],"py":["biga","omyeon","gaeguriga","umnida","."],"vi":"Trời mưa thì ếch kêu.","alts":[]}}
+  ]},
+  {"id":"ko2x31","title":"Thiên nhiên và động vật 3","desc":"Thế giới tự nhiên","icon":"뱀","unit":27,"course":"ko","order":1150,"words":[
+   {"id":"ko2x31-뱀","hanzi":"뱀","pinyin":"baem","vi":"con rắn","ex":{"tokens":["저는","뱀이","무섭습니다","."],"py":["jeoneun","baemi","museopseumnida","."],"vi":"Tôi sợ rắn.","alts":[]}},
+   {"id":"ko2x31-벌레","hanzi":"벌레","pinyin":"beolle","vi":"sâu bọ","ex":{"tokens":["방에","벌레가","있습니다","."],"py":["bange","beollega","itseumnida","."],"vi":"Trong phòng có sâu bọ.","alts":[]}},
+   {"id":"ko2x31-파리","hanzi":"파리","pinyin":"pari","vi":"con ruồi","ex":{"tokens":["음식에","파리가","앉았습니다","."],"py":["eumsige","pariga","anjatseumnida","."],"vi":"Ruồi đậu vào thức ăn.","alts":[]}},
+   {"id":"ko2x31-꿀벌","hanzi":"꿀벌","pinyin":"kkulbeol","vi":"ong mật","ex":{"tokens":["꿀벌이","꽃에서","꿀을","모읍니다","."],"py":["kkulbeori","kkocheseo","kkureul","moeumnida","."],"vi":"Ong mật lấy mật từ hoa.","alts":[]}},
+   {"id":"ko2x31-거미","hanzi":"거미","pinyin":"geomi","vi":"con nhện","ex":{"tokens":["거미가","줄을","칩니다","."],"py":["geomiga","jureul","chimnida","."],"vi":"Con nhện giăng tơ.","alts":[]}},
+   {"id":"ko2x31-꼬리","hanzi":"꼬리","pinyin":"kkori","vi":"cái đuôi","ex":{"tokens":["강아지가","꼬리를","흔듭니다","."],"py":["gangajiga","kkorireul","heundeumnida","."],"vi":"Chú cún vẫy đuôi.","alts":[]}},
+   {"id":"ko2x31-날개","hanzi":"날개","pinyin":"nalgae","vi":"đôi cánh","ex":{"tokens":["새가","날개를","폅니다","."],"py":["saega","nalgaereul","pyeomnida","."],"vi":"Con chim dang cánh.","alts":[]}},
+   {"id":"ko2x31-털","hanzi":"털","pinyin":"teol","vi":"lông","ex":{"tokens":["고양이","털이","부드럽습니다","."],"py":["goyangi","teori","budeureopseumnida","."],"vi":"Lông mèo mềm.","alts":[]}},
+   {"id":"ko2x31-먹이","hanzi":"먹이","pinyin":"meogi","vi":"thức ăn cho động vật","ex":{"tokens":["새에게","먹이를","줍니다","."],"py":["saeege","meogireul","jumnida","."],"vi":"Tôi cho chim ăn.","alts":[]}},
+   {"id":"ko2x31-날다","hanzi":"날다","pinyin":"nalda","vi":"bay","ex":{"tokens":["새가","하늘을","납니다","."],"py":["saega","haneureul","namnida","."],"vi":"Chim bay trên trời.","alts":[]}},
+   {"id":"ko2x31-짖다","hanzi":"짖다","pinyin":"jitda","vi":"sủa","ex":{"tokens":["개가","크게","짖습니다","."],"py":["gaega","keuge","jitseumnida","."],"vi":"Con chó sủa to.","alts":[]}},
+   {"id":"ko2x31-물다","hanzi":"물다","pinyin":"mulda","vi":"cắn","ex":{"tokens":["개가","신발을","뭅니다","."],"py":["gaega","sinbareul","mumnida","."],"vi":"Con chó cắn chiếc giày.","alts":[]}}
+  ]},
+  {"id":"ko2x32","title":"Ngày lễ và sự kiện 1","desc":"Dịp đặc biệt trong năm","icon":"추","unit":27,"course":"ko","order":1160,"words":[
+   {"id":"ko2x32-추석","hanzi":"추석","pinyin":"chuseok","vi":"Tết Trung thu","ex":{"tokens":["추석에","고향에","갑니다","."],"py":["chuseoge","gohyange","gamnida","."],"vi":"Tết Trung thu tôi về quê.","alts":[]}},
+   {"id":"ko2x32-크리스마스","hanzi":"크리스마스","pinyin":"keuriseumaseu","vi":"Giáng sinh","ex":{"tokens":["크리스마스에","선물을","줍니다","."],"py":["keuriseumaseue","seonmureul","jumnida","."],"vi":"Giáng sinh tôi tặng quà.","alts":[]}},
+   {"id":"ko2x32-어린이날","hanzi":"어린이날","pinyin":"eorininal","vi":"ngày Thiếu nhi","ex":{"tokens":["어린이날에","놀이공원에","갑니다","."],"py":["eorininare","norigongwone","gamnida","."],"vi":"Ngày Thiếu nhi tôi đi công viên giải trí.","alts":[]}},
+   {"id":"ko2x32-어버이날","hanzi":"어버이날","pinyin":"eobeoinal","vi":"ngày Cha mẹ","ex":{"tokens":["어버이날에","꽃을","드립니다","."],"py":["eobeoinare","kkocheul","deurimnida","."],"vi":"Ngày Cha mẹ tôi tặng hoa.","alts":[]}},
+   {"id":"ko2x32-새해","hanzi":"새해","pinyin":"saehae","vi":"năm mới","ex":{"tokens":["새해","복","많이","받으세요","."],"py":["saehae","bok","mani","badeuseyo","."],"vi":"Chúc mừng năm mới.","alts":[]}},
+   {"id":"ko2x32-연휴","hanzi":"연휴","pinyin":"yeonhyu","vi":"kỳ nghỉ dài","ex":{"tokens":["연휴에","여행을","갑니다","."],"py":["yeonhyue","yeohaengeul","gamnida","."],"vi":"Kỳ nghỉ dài tôi đi du lịch.","alts":[]}},
+   {"id":"ko2x32-기념일","hanzi":"기념일","pinyin":"ginyeomil","vi":"ngày kỷ niệm","ex":{"tokens":["오늘은","결혼","기념일입니다","."],"py":["oneureun","gyeolhon","ginyeomirimnida","."],"vi":"Hôm nay là ngày kỷ niệm cưới.","alts":[]}},
+   {"id":"ko2x32-축제","hanzi":"축제","pinyin":"chukje","vi":"lễ hội","ex":{"tokens":["봄에","꽃","축제가","열립니다","."],"py":["bome","kkot","chukjega","yeollimnida","."],"vi":"Mùa xuân có lễ hội hoa.","alts":[]}},
+   {"id":"ko2x32-행사","hanzi":"행사","pinyin":"haengsa","vi":"sự kiện","ex":{"tokens":["학교에서","행사가","있습니다","."],"py":["hakgyoeseo","haengsaga","itseumnida","."],"vi":"Ở trường có sự kiện.","alts":[]}},
+   {"id":"ko2x32-잔치","hanzi":"잔치","pinyin":"janchi","vi":"bữa tiệc mừng","ex":{"tokens":["할머니","생신","잔치를","합니다","."],"py":["halmeoni","saengsin","janchireul","hamnida","."],"vi":"Chúng tôi làm tiệc mừng sinh nhật bà.","alts":[]}},
+   {"id":"ko2x32-생신","hanzi":"생신","pinyin":"saengsin","vi":"sinh nhật (kính ngữ)","ex":{"tokens":["할아버지","생신을","축하드립니다","."],"py":["harabeoji","saengsineul","chukadeurimnida","."],"vi":"Chúc mừng sinh nhật ông.","alts":[]}},
+   {"id":"ko2x32-결혼","hanzi":"결혼","pinyin":"gyeolhon","vi":"việc kết hôn","ex":{"tokens":["다음","달에","결혼을","합니다","."],"py":["daeum","dare","gyeolhoneul","hamnida","."],"vi":"Tháng sau tôi kết hôn.","alts":[]}}
+  ]},
+  {"id":"ko2x33","title":"Ngày lễ và sự kiện 2","desc":"Dịp đặc biệt trong năm","icon":"신","unit":27,"course":"ko","order":1170,"words":[
+   {"id":"ko2x33-신랑","hanzi":"신랑","pinyin":"sillang","vi":"chú rể","ex":{"tokens":["신랑이","멋있습니다","."],"py":["sillangi","meositseumnida","."],"vi":"Chú rể bảnh bao.","alts":[]}},
+   {"id":"ko2x33-신부","hanzi":"신부","pinyin":"sinbu","vi":"cô dâu","ex":{"tokens":["신부가","아름답습니다","."],"py":["sinbuga","areumdapseumnida","."],"vi":"Cô dâu xinh đẹp.","alts":[]}},
+   {"id":"ko2x33-돌잔치","hanzi":"돌잔치","pinyin":"doljanchi","vi":"tiệc thôi nôi","ex":{"tokens":["조카의","돌잔치에","갑니다","."],"py":["jokaui","doljanchie","gamnida","."],"vi":"Tôi đi tiệc thôi nôi của cháu.","alts":[]}},
+   {"id":"ko2x33-집들이","hanzi":"집들이","pinyin":"jipdeuri","vi":"tiệc tân gia","ex":{"tokens":["친구의","집들이에","초대를","받았습니다","."],"py":["chinguui","jipdeurie","chodaereul","badatseumnida","."],"vi":"Tôi được mời đến tiệc tân gia của bạn.","alts":[]}},
+   {"id":"ko2x33-송별회","hanzi":"송별회","pinyin":"songbyeolhoe","vi":"tiệc chia tay","ex":{"tokens":["동료의","송별회를","합니다","."],"py":["dongnyoui","songbyeolhoereul","hamnida","."],"vi":"Chúng tôi tổ chức tiệc chia tay đồng nghiệp.","alts":[]}},
+   {"id":"ko2x33-환영회","hanzi":"환영회","pinyin":"hwanyeonghoe","vi":"tiệc chào mừng","ex":{"tokens":["신입생","환영회가","있습니다","."],"py":["sinipsaeng","hwanyeonghoega","itseumnida","."],"vi":"Có tiệc chào mừng sinh viên mới.","alts":[]}},
+   {"id":"ko2x33-졸업식","hanzi":"졸업식","pinyin":"joreopsik","vi":"lễ tốt nghiệp","ex":{"tokens":["졸업식에","부모님이","오십니다","."],"py":["joreopsige","bumonimi","osimnida","."],"vi":"Bố mẹ tôi đến lễ tốt nghiệp.","alts":[]}},
+   {"id":"ko2x33-입학식","hanzi":"입학식","pinyin":"ipaksik","vi":"lễ khai giảng nhập học","ex":{"tokens":["입학식이","삼","월에","있습니다","."],"py":["ipaksigi","sam","wore","itseumnida","."],"vi":"Lễ nhập học diễn ra vào tháng ba.","alts":[]}},
+   {"id":"ko2x33-불꽃놀이","hanzi":"불꽃놀이","pinyin":"bulkkonnori","vi":"bắn pháo hoa","ex":{"tokens":["한강에서","불꽃놀이를","봅니다","."],"py":["hangangeseo","bulkkonnorireul","bomnida","."],"vi":"Tôi xem pháo hoa ở sông Hàn.","alts":[]}},
+   {"id":"ko2x33-세배","hanzi":"세배","pinyin":"sebae","vi":"lạy chào năm mới","ex":{"tokens":["설날에","어른들에게","세배를","합니다","."],"py":["seollare","eoreundeurege","sebaereul","hamnida","."],"vi":"Ngày Tết tôi lạy chào người lớn.","alts":[]}},
+   {"id":"ko2x33-떡국","hanzi":"떡국","pinyin":"tteokguk","vi":"canh bánh gạo","ex":{"tokens":["설날","아침에","떡국을","먹습니다","."],"py":["seollal","achime","tteokgugeul","meokseumnida","."],"vi":"Sáng mùng một Tết ăn canh bánh gạo.","alts":[]}},
+   {"id":"ko2x33-송편","hanzi":"송편","pinyin":"songpyeon","vi":"bánh gạo Trung thu","ex":{"tokens":["추석에","송편을","만듭니다","."],"py":["chuseoge","songpyeoneul","mandeumnida","."],"vi":"Trung thu người ta làm bánh songpyeon.","alts":[]}}
+  ]},
+  {"id":"ko2x34","title":"Quan hệ và giao tiếp","desc":"Bạn bè, hẹn hò, trò chuyện","icon":"우","unit":27,"course":"ko","order":1180,"words":[
+   {"id":"ko2x34-우정","hanzi":"우정","pinyin":"ujeong","vi":"tình bạn","ex":{"tokens":["우리의","우정은","깊습니다","."],"py":["uriui","ujeongeun","gipseumnida","."],"vi":"Tình bạn của chúng tôi sâu sắc.","alts":[]}},
+   {"id":"ko2x34-애인","hanzi":"애인","pinyin":"aein","vi":"người yêu","ex":{"tokens":["애인과","영화를","봅니다","."],"py":["aeingwa","yeonghwareul","bomnida","."],"vi":"Tôi xem phim với người yêu.","alts":[]}},
+   {"id":"ko2x34-데이트","hanzi":"데이트","pinyin":"deiteu","vi":"buổi hẹn hò","ex":{"tokens":["주말에","데이트를","합니다","."],"py":["jumare","deiteureul","hamnida","."],"vi":"Cuối tuần tôi hẹn hò.","alts":[]}},
+   {"id":"ko2x34-고백","hanzi":"고백","pinyin":"gobaek","vi":"lời tỏ tình","ex":{"tokens":["친구에게","고백을","했습니다","."],"py":["chinguege","gobaegeul","haetseumnida","."],"vi":"Tôi đã tỏ tình với bạn.","alts":[]}},
+   {"id":"ko2x34-첫사랑","hanzi":"첫사랑","pinyin":"cheotsarang","vi":"mối tình đầu","ex":{"tokens":["첫사랑을","기억합니다","."],"py":["cheotsarangeul","gieokamnida","."],"vi":"Tôi nhớ mối tình đầu.","alts":[]}},
+   {"id":"ko2x34-이별","hanzi":"이별","pinyin":"ibyeol","vi":"sự chia ly","ex":{"tokens":["이별은","슬픕니다","."],"py":["ibyeoreun","seulpeumnida","."],"vi":"Chia ly thật buồn.","alts":[]}},
+   {"id":"ko2x34-단짝","hanzi":"단짝","pinyin":"danjjak","vi":"bạn thân nhất","ex":{"tokens":["그","친구는","제","단짝입니다","."],"py":["geu","chinguneun","je","danjjagimnida","."],"vi":"Bạn ấy là bạn thân nhất của tôi.","alts":[]}},
+   {"id":"ko2x34-모임장소","hanzi":"모임장소","pinyin":"moimjangso","vi":"địa điểm họp mặt","ex":{"tokens":["모임장소를","정합니다","."],"py":["moimjangsoreul","jeonghamnida","."],"vi":"Chúng tôi quyết định địa điểm họp mặt.","alts":[]}},
+   {"id":"ko2x34-별명","hanzi":"별명","pinyin":"byeolmyeong","vi":"biệt danh","ex":{"tokens":["제","별명은","곰입니다","."],"py":["je","byeolmyeongeun","gomimnida","."],"vi":"Biệt danh của tôi là Gấu.","alts":[]}},
+   {"id":"ko2x34-비밀","hanzi":"비밀","pinyin":"bimil","vi":"bí mật","ex":{"tokens":["이것은","비밀입니다","."],"py":["igeoseun","bimirimnida","."],"vi":"Đây là bí mật.","alts":[]}},
+   {"id":"ko2x34-사과하다","hanzi":"사과하다","pinyin":"sagwahada","vi":"xin lỗi (hành động)","ex":{"tokens":["친구에게","사과합니다","."],"py":["chinguege","sagwahamnida","."],"vi":"Tôi xin lỗi bạn.","alts":[]}},
+   {"id":"ko2x34-용서하다","hanzi":"용서하다","pinyin":"yongseohada","vi":"tha thứ","ex":{"tokens":["저를","용서해","주세요","."],"py":["jeoreul","yongseohae","juseyo","."],"vi":"Xin hãy tha thứ cho tôi.","alts":[]}}
+  ]},
+  {"id":"ko2x35","title":"Thời gian và trình tự 1","desc":"Diễn đạt khi nào, bao lâu","icon":"하","unit":27,"course":"ko","order":1190,"words":[
+   {"id":"ko2x35-하루","hanzi":"하루","pinyin":"haru","vi":"một ngày","ex":{"tokens":["하루에","여덟","시간","일합니다","."],"py":["harue","yeodeol","sigan","ilhamnida","."],"vi":"Một ngày tôi làm việc tám tiếng.","alts":[]}},
+   {"id":"ko2x35-이틀","hanzi":"이틀","pinyin":"iteul","vi":"hai ngày","ex":{"tokens":["이틀","동안","쉬었습니다","."],"py":["iteul","dongan","swieotseumnida","."],"vi":"Tôi đã nghỉ hai ngày.","alts":[]}},
+   {"id":"ko2x35-사흘","hanzi":"사흘","pinyin":"saheul","vi":"ba ngày","ex":{"tokens":["사흘","후에","돌아옵니다","."],"py":["saheul","hue","doraomnida","."],"vi":"Ba ngày sau tôi quay lại.","alts":[]}},
+   {"id":"ko2x35-며칠","hanzi":"며칠","pinyin":"myeochil","vi":"mấy ngày","ex":{"tokens":["며칠","동안","여행합니까","?"],"py":["myeochil","dongan","yeohaenghamnikka","?"],"vi":"Bạn du lịch mấy ngày?","alts":[]}},
+   {"id":"ko2x35-일주일","hanzi":"일주일","pinyin":"iljuil","vi":"một tuần","ex":{"tokens":["일주일에","한","번","운동합니다","."],"py":["iljuire","han","beon","undonghamnida","."],"vi":"Một tuần tôi tập thể dục một lần.","alts":[]}},
+   {"id":"ko2x35-한달","hanzi":"한달","pinyin":"handal","vi":"một tháng","ex":{"tokens":["한달","전에","이사했습니다","."],"py":["handal","jeone","isahaetseumnida","."],"vi":"Một tháng trước tôi đã chuyển nhà.","alts":[]}},
+   {"id":"ko2x35-매주","hanzi":"매주","pinyin":"maeju","vi":"hằng tuần","ex":{"tokens":["매주","토요일에","등산합니다","."],"py":["maeju","toyoire","deungsanhamnida","."],"vi":"Thứ bảy hằng tuần tôi leo núi.","alts":[]}},
+   {"id":"ko2x35-매달","hanzi":"매달","pinyin":"maedal","vi":"hằng tháng","ex":{"tokens":["매달","집세를","냅니다","."],"py":["maedal","jipsereul","naemnida","."],"vi":"Hằng tháng tôi trả tiền nhà.","alts":[]}},
+   {"id":"ko2x35-매년","hanzi":"매년","pinyin":"maenyeon","vi":"hằng năm","ex":{"tokens":["매년","고향에","갑니다","."],"py":["maenyeon","gohyange","gamnida","."],"vi":"Hằng năm tôi về quê.","alts":[]}},
+   {"id":"ko2x35-동안","hanzi":"동안","pinyin":"dongan","vi":"trong khoảng (thời gian)","ex":{"tokens":["방학","동안","한국에","있었습니다","."],"py":["banghak","dongan","hanguge","isseotseumnida","."],"vi":"Trong kỳ nghỉ tôi đã ở Hàn Quốc.","alts":[]}},
+   {"id":"ko2x35-이전","hanzi":"이전","pinyin":"ijeon","vi":"trước đây","ex":{"tokens":["이전에는","부산에","살았습니다","."],"py":["ijeoneneun","busane","saratseumnida","."],"vi":"Trước đây tôi sống ở Busan.","alts":[]}},
+   {"id":"ko2x35-이후","hanzi":"이후","pinyin":"ihu","vi":"sau đó, từ đó về sau","ex":{"tokens":["졸업","이후에","취직했습니다","."],"py":["joreop","ihue","chwijikaetseumnida","."],"vi":"Sau khi tốt nghiệp tôi đã đi làm.","alts":[]}}
+  ]},
+  {"id":"ko2x36","title":"Thời gian và trình tự 2","desc":"Diễn đạt khi nào, bao lâu","icon":"최","unit":27,"course":"ko","order":1200,"words":[
+   {"id":"ko2x36-최근","hanzi":"최근","pinyin":"choegeun","vi":"gần đây","ex":{"tokens":["최근에","영화를","봤습니다","."],"py":["choegeune","yeonghwareul","bwatseumnida","."],"vi":"Gần đây tôi đã xem phim.","alts":[]}},
+   {"id":"ko2x36-옛날","hanzi":"옛날","pinyin":"yennal","vi":"ngày xưa","ex":{"tokens":["옛날에","왕이","살았습니다","."],"py":["yennare","wangi","saratseumnida","."],"vi":"Ngày xưa có một vị vua.","alts":[]}},
+   {"id":"ko2x36-미래","hanzi":"미래","pinyin":"mirae","vi":"tương lai","ex":{"tokens":["미래를","준비합니다","."],"py":["miraereul","junbihamnida","."],"vi":"Tôi chuẩn bị cho tương lai.","alts":[]}},
+   {"id":"ko2x36-과거","hanzi":"과거","pinyin":"gwageo","vi":"quá khứ","ex":{"tokens":["과거를","잊으세요","."],"py":["gwageoreul","ijeuseyo","."],"vi":"Hãy quên quá khứ đi.","alts":[]}},
+   {"id":"ko2x36-현재","hanzi":"현재","pinyin":"hyeonjae","vi":"hiện tại","ex":{"tokens":["현재","서울에","삽니다","."],"py":["hyeonjae","seoure","samnida","."],"vi":"Hiện tại tôi sống ở Seoul.","alts":[]}},
+   {"id":"ko2x36-순서","hanzi":"순서","pinyin":"sunseo","vi":"thứ tự","ex":{"tokens":["순서대로","들어오세요","."],"py":["sunseodaero","deureooseyo","."],"vi":"Hãy vào theo thứ tự.","alts":[]}},
+   {"id":"ko2x36-차례","hanzi":"차례","pinyin":"charye","vi":"lượt","ex":{"tokens":["제","차례가","왔습니다","."],"py":["je","charyega","watseumnida","."],"vi":"Đã đến lượt tôi.","alts":[]}},
+   {"id":"ko2x36-기간","hanzi":"기간","pinyin":"gigan","vi":"thời hạn, khoảng thời gian","ex":{"tokens":["시험","기간에는","바쁩니다","."],"py":["siheom","giganeneun","bappeumnida","."],"vi":"Trong thời gian thi tôi bận.","alts":[]}},
+   {"id":"ko2x36-잠시","hanzi":"잠시","pinyin":"jamsi","vi":"một lát","ex":{"tokens":["잠시","기다려","주세요","."],"py":["jamsi","gidaryeo","juseyo","."],"vi":"Xin đợi một lát.","alts":[]}},
+   {"id":"ko2x36-오랫동안","hanzi":"오랫동안","pinyin":"oraetdongan","vi":"trong thời gian dài","ex":{"tokens":["오랫동안","기다렸습니다","."],"py":["oraetdongan","gidaryeotseumnida","."],"vi":"Tôi đã đợi rất lâu.","alts":[]}},
+   {"id":"ko2x36-아직도","hanzi":"아직도","pinyin":"ajikdo","vi":"vẫn còn","ex":{"tokens":["아직도","비가","옵니다","."],"py":["ajikdo","biga","omnida","."],"vi":"Trời vẫn còn mưa.","alts":[]}},
+   {"id":"ko2x36-이제","hanzi":"이제","pinyin":"ije","vi":"bây giờ thì, từ nay","ex":{"tokens":["이제","집에","갑시다","."],"py":["ije","jibe","gapsida","."],"vi":"Bây giờ thì chúng ta về nhà thôi.","alts":[]}}
+  ]}
+ ]
+}

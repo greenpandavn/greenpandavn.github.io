@@ -1,0 +1,85 @@
+=2
+@Cặp tự động từ và tha động từ|Mở, đóng, bật, tắt
+壊す:こわす|làm hỏng|弟:おとうと が おもちゃ を 壊しました:こわしました 。|Em trai đã làm hỏng đồ chơi.
+割る:わる|làm vỡ|皿:さら を 割って:わって しまいました 。|Tôi lỡ làm vỡ đĩa.
+倒す:たおす|làm đổ|風:かぜ が 木:き を 倒しました:たおしました 。|Gió đã làm đổ cây.
+汚す:よごす|làm bẩn|子供:こども が 服:ふく を 汚しました:よごしました 。|Đứa trẻ đã làm bẩn quần áo.
+濡らす:ぬらす|làm ướt|タオル を 水:みず で 濡らします:ぬらします 。|Tôi làm ướt khăn bằng nước.
+乾かす:かわかす|làm khô, hong|髪:かみ を 乾かします:かわかします 。|Tôi sấy khô tóc.
+動かす:うごかす|di chuyển (vật)|机:つくえ を 動かします:うごかします 。|Tôi di chuyển cái bàn.
+回す:まわす|xoay, vặn|この ボタン を 右:みぎ に 回します:まわします 。|Vặn nút này sang phải.
+止める:とめる|dừng (xe), làm ngừng|車:くるま を 駐車場:ちゅうしゃじょう に 止めます:とめます 。|Tôi dừng xe ở bãi đỗ.
+変える:かえる|thay đổi (cái gì)|予定:よてい を 変えます:かえます 。|Tôi thay đổi kế hoạch.
+続ける:つづける|tiếp tục (việc gì)|勉強:べんきょう を 続けます:つづけます 。|Tôi tiếp tục học.
+続く:つづく|kéo dài, tiếp diễn|雨:あめ が 三日:みっか 続いて:つづいて います 。|Mưa kéo dài ba ngày rồi.
+起こす:おこす|đánh thức; gây ra|毎朝:まいあさ 、 母:はは が 私:わたし を 起こします:おこします 。|Mỗi sáng mẹ đánh thức tôi.
+起こる:おこる|xảy ra|昨日:きのう 、 事故:じこ が 起こりました:おこりました 。|Hôm qua đã xảy ra tai nạn.
+並べ替える:ならべかえる|sắp xếp lại|本:ほん を 並べ替えます:ならべかえます 。|Tôi sắp xếp lại sách.
+集まる:あつまる|tụ tập|学生:がくせい が 教室:きょうしつ に 集まります:あつまります 。|Học sinh tụ tập ở lớp.
+決まる:きまる|được quyết định|旅行:りょこう の 日:ひ が 決まりました:きまりました 。|Ngày đi du lịch đã được quyết định.
+見つかる:みつかる|được tìm thấy|財布:さいふ が 見つかりました:みつかりました 。|Cái ví đã được tìm thấy.
+伝わる:つたわる|được truyền đạt|気持ち:きもち が 伝わりました:つたわりました 。|Tình cảm đã được truyền đạt.
+残る:のこる|còn lại|ご飯:ごはん が 少し:すこし 残って:のこって います 。|Cơm còn lại một ít.
+残す:のこす|để lại, chừa lại|野菜:やさい を 残さないで:のこさないで ください 。|Đừng để thừa rau.
+増える:ふえる|tăng lên|外国人:がいこくじん の 数:かず が 増えました:ふえました 。|Số người nước ngoài đã tăng lên.
+増やす:ふやす|làm tăng|勉強:べんきょう の 時間:じかん を 増やします:ふやします 。|Tôi tăng thời gian học.
+減る:へる|giảm đi|子供:こども の 数:かず が 減って:へって います 。|Số trẻ em đang giảm đi.
+冷える:ひえる|lạnh đi|ビール が よく 冷えて:ひえて います 。|Bia đã được ướp lạnh kỹ.
+沸く:わく|sôi|お湯:おゆ が 沸きました:わきました 。|Nước đã sôi.
+沸かす:わかす|đun sôi|お湯:おゆ を 沸かします:わかします 。|Tôi đun sôi nước.
+焼ける:やける|chín (nướng); cháy|パン が 焼けました:やけました 。|Bánh mì đã nướng chín.
+切れる:きれる|đứt; hết|電話:でんわ が 切れました:きれました 。|Điện thoại bị ngắt.
+折れる:おれる|bị gãy|木:き の 枝:えだ が 折れました:おれました 。|Cành cây bị gãy.
+破る:やぶる|xé; phá (lời hứa)|約束:やくそく を 破らないで:やぶらないで ください 。|Đừng phá lời hứa.
+破れる:やぶれる|bị rách|ズボン が 破れました:やぶれました 。|Quần bị rách rồi.
+外す:はずす|tháo ra|眼鏡:めがね を 外します:はずします 。|Tôi tháo kính ra.
+外れる:はずれる|tuột ra; trượt|ボタン が 外れました:はずれました 。|Cái cúc bị tuột ra.
+付く:つく|dính; bật (đèn)|電気:でんき が 付いて:ついて います 。|Đèn đang bật.
+通す:とおす|cho qua, luồn qua|針:はり に 糸:いと を 通します:とおします 。|Tôi luồn chỉ qua kim.
+上がる:あがる|lên, tăng|来月:らいげつ から 値段:ねだん が 上がります:あがります 。|Từ tháng sau giá sẽ tăng.
+下がる:さがる|hạ xuống, giảm|熱:ねつ が 下がりました:さがりました 。|Sốt đã hạ.
+下げる:さげる|hạ thấp|テレビ の 音:おと を 下げます:さげます 。|Tôi vặn nhỏ tiếng ti vi.
+@Cho và nhận, kính ngữ cơ bản|Cách nói lịch sự
+差し上げる:さしあげる|biếu, tặng (khiêm nhường)|先生:せんせい に 花:はな を 差し上げます:さしあげます 。|Em xin biếu thầy hoa.
+いただく|nhận (khiêm nhường)|先生:せんせい に 本:ほん を いただく 。|Tôi nhận sách từ thầy.
+くださる|cho tôi (kính ngữ)|先生:せんせい が 辞書:じしょ を くださる 。|Thầy cho tôi từ điển.
+おっしゃる|nói (kính ngữ)|社長:しゃちょう が そう おっしゃる 。|Giám đốc nói như vậy.
+なさる|làm (kính ngữ)|先生:せんせい は 何:なに を なさる 。|Thầy sẽ làm gì ạ?
+参る:まいる|đi, đến (khiêm nhường)|明日:あした 、 東京:とうきょう へ 参ります:まいります 。|Ngày mai tôi sẽ đi Tokyo.
+申す:もうす|nói, tên là (khiêm nhường)|私:わたし は 山田:やまだ と 申します:もうします 。|Tôi tên là Yamada.
+致す:いたす|làm (khiêm nhường)|私:わたし が 案内:あんない 致します:いたします 。|Tôi xin được hướng dẫn.
+存じる:ぞんじる|biết (khiêm nhường)|その 方:かた は 存じて:ぞんじて います 。|Tôi có biết vị đó.
+ご覧になる:ごらんになる|xem (kính ngữ)|この 写真:しゃしん を ご覧になります:ごらんになります か 。|Ngài có xem bức ảnh này không ạ?
+お待たせしました:おまたせしました|xin lỗi đã để chờ|お待たせしました:おまたせしました 、 どうぞ 。|Xin lỗi đã để quý khách chờ, xin mời.
+かしこまりました|tôi hiểu rồi ạ (rất lịch sự)|はい 、 かしこまりました 。|Vâng, tôi hiểu rồi ạ.
+お邪魔します:おじゃまします|xin phép vào nhà|こんにちは 、 お邪魔します:おじゃまします 。|Xin chào, tôi xin phép vào ạ.
+お世話:おせわ|sự chăm sóc, giúp đỡ|いつも お世話:おせわ に なって います 。|Lúc nào tôi cũng được anh chị giúp đỡ.
+お陰:おかげ|nhờ ơn|先生:せんせい の お陰:おかげ で 合格:ごうかく しました 。|Nhờ ơn thầy mà tôi đã đỗ.
+お宅:おたく|nhà (của người khác)|先生:せんせい の お宅:おたく へ 伺います:うかがいます 。|Tôi đến thăm nhà thầy.
+お子さん:おこさん|con (của người khác)|お子さん:おこさん は 何歳:なんさい です か 。|Con anh chị mấy tuổi rồi?
+ご主人:ごしゅじん|chồng (của người khác)|ご主人:ごしゅじん は お元気:おげんき です か 。|Chồng chị có khỏe không?
+ご両親:ごりょうしん|bố mẹ (của người khác)|ご両親:ごりょうしん は どちら に います か 。|Bố mẹ anh ở đâu ạ?
+様:さま|ngài, quý (hậu tố)|お客:おきゃく 様:さま 、 こちら へ どうぞ 。|Thưa quý khách, xin mời đi lối này.
+@Cảm xúc và suy nghĩ|Trạng thái tinh thần
+気:き|tinh thần, tâm trí|気:き を つけて 帰って:かえって ください 。|Hãy về cẩn thận nhé.
+心:こころ|trái tim, tấm lòng|心:こころ から 感謝:かんしゃ します 。|Tôi cảm ơn từ đáy lòng.
+笑顔:えがお|nụ cười|彼女:かのじょ の 笑顔:えがお は 明るい:あかるい です 。|Nụ cười của cô ấy rạng rỡ.
+楽しむ:たのしむ|tận hưởng|旅行:りょこう を 楽しみます:たのしみます 。|Tôi tận hưởng chuyến du lịch.
+悲しむ:かなしむ|đau buồn|家族:かぞく は 犬:いぬ の 死:し を 悲しみました:かなしみました 。|Gia đình đau buồn vì con chó chết.
+苦しい:くるしい|khổ sở, khó thở|走った:はしった 後:あと は 苦しい:くるしい です 。|Sau khi chạy tôi thấy khó thở.
+恐ろしい:おそろしい|đáng sợ, khủng khiếp|昨夜:さくや 、 恐ろしい:おそろしい 夢:ゆめ を 見ました:みました 。|Đêm qua tôi mơ một giấc mơ khủng khiếp.
+つらい|cay đắng, khổ tâm|友達:ともだち と 別れる:わかれる の は つらい 。|Chia tay bạn bè thật khổ tâm.
+困った:こまった|khó xử|困った:こまった こと が あります 。|Tôi có chuyện khó xử.
+不思議:ふしぎ|kỳ lạ, huyền bí|昨日:きのう 、 不思議:ふしぎ な 夢:ゆめ を 見ました:みました 。|Hôm qua tôi mơ một giấc mơ kỳ lạ.
+楽:らく|nhàn, thoải mái|この 仕事:しごと は 楽:らく です 。|Công việc này nhàn.
+夢中:むちゅう|say mê|弟:おとうと は ゲーム に 夢中:むちゅう です 。|Em trai tôi say mê trò chơi.
+興味:きょうみ|sự hứng thú|日本:にほん の 文化:ぶんか に 興味:きょうみ が あります 。|Tôi có hứng thú với văn hóa Nhật.
+気になる:きになる|bận tâm, để ý|試験:しけん の 結果:けっか が 気になります:きになります 。|Tôi bận tâm về kết quả thi.
+気に入る:きにいる|ưng ý|この かばん が 気に入りました:きにいりました 。|Tôi ưng cái cặp này.
+気がつく:きがつく|nhận ra|間違い:まちがい に 気がつきました:きがつきました 。|Tôi đã nhận ra lỗi sai.
+思い出:おもいで|kỷ niệm|旅行:りょこう は いい 思い出:おもいで です 。|Chuyến du lịch là kỷ niệm đẹp.
+考え:かんがえ|ý nghĩ, suy nghĩ|それ は いい 考え:かんがえ です 。|Đó là ý nghĩ hay.
+希望:きぼう|hy vọng, nguyện vọng|留学:りゅうがく が 私:わたし の 希望:きぼう です 。|Du học là nguyện vọng của tôi.
+願う:ねがう|cầu mong|家族:かぞく の 健康:けんこう を 願います:ねがいます 。|Tôi cầu mong sức khỏe cho gia đình.
+祈る:いのる|cầu nguyện|神社:じんじゃ で 合格:ごうかく を 祈ります:いのります 。|Tôi cầu nguyện thi đỗ ở đền.
+疑う:うたがう|nghi ngờ|彼:かれ の 話:はなし を 疑って:うたがって います 。|Tôi nghi ngờ câu chuyện của anh ấy.

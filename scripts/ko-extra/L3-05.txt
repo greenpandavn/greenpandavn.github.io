@@ -1,0 +1,81 @@
+=3
+@Mua sắm và tiêu dùng|Người tiêu dùng, hàng hóa
+소비자|người tiêu dùng|소비자의 권리를 지킵니다.|Bảo vệ quyền lợi người tiêu dùng.
+상품권|phiếu mua hàng|선물로 상품권을 받았습니다.|Tôi nhận được phiếu mua hàng làm quà.
+할부|trả góp|노트북을 할부로 샀습니다.|Tôi đã mua máy tính xách tay trả góp.
+일시불|trả một lần|일시불로 계산하겠습니다.|Tôi sẽ thanh toán một lần.
+중고|đồ cũ đã dùng|중고 자전거를 샀습니다.|Tôi đã mua xe đạp cũ.
+명품|hàng hiệu|명품 가방은 너무 비쌉니다.|Túi hàng hiệu quá đắt.
+유행|mốt, trào lưu|요즘 이 옷이 유행입니다.|Dạo này kiểu áo này là mốt.
+충동구매|mua sắm bốc đồng|충동구매를 하지 않으려고 합니다.|Tôi cố không mua sắm bốc đồng.
+과소비|tiêu dùng quá mức|과소비는 좋지 않습니다.|Tiêu dùng quá mức là không tốt.
+낭비하다|lãng phí|시간을 낭비하지 마세요.|Đừng lãng phí thời gian.
+흥정하다|mặc cả|시장에서 값을 흥정합니다.|Tôi mặc cả giá ở chợ.
+품질|chất lượng sản phẩm|이 제품은 품질이 좋습니다.|Sản phẩm này chất lượng tốt.
+보증서|giấy bảo hành|보증서를 잘 보관하세요.|Hãy cất giữ giấy bảo hành cẩn thận.
+유통기한|hạn sử dụng|우유의 유통기한을 확인합니다.|Tôi kiểm tra hạn sử dụng của sữa.
+재고|hàng tồn kho|재고가 없습니다.|Không còn hàng tồn.
+진열하다|trưng bày|상품을 진열합니다.|Họ trưng bày hàng hóa.
+무료배송|miễn phí giao hàng|삼만 원 이상은 무료배송입니다.|Đơn từ ba mươi nghìn won được miễn phí giao hàng.
+후기|bài đánh giá sau khi dùng|구매 후기를 읽어 봅니다.|Tôi đọc thử các bài đánh giá của người mua.
+@Nấu nướng và ẩm thực|Cách chế biến, hương vị
+조미료|bột nêm|조미료를 조금 넣습니다.|Tôi cho một chút bột nêm.
+반죽|bột nhào|반죽을 얇게 폅니다.|Tôi cán mỏng bột nhào.
+껍질|vỏ|과일 껍질을 벗깁니다.|Tôi gọt vỏ hoa quả.
+데치다|chần|시금치를 살짝 데칩니다.|Tôi chần sơ rau chân vịt.
+무치다|trộn gỏi|나물을 무칩니다.|Tôi trộn rau.
+절이다|muối, ngâm muối|배추를 소금에 절입니다.|Tôi muối cải thảo.
+갈다|xay, mài; thay|과일을 갈아서 주스를 만듭니다.|Tôi xay hoa quả làm nước ép.
+담그다|ngâm; muối (kim chi)|겨울에 김치를 담급니다.|Mùa đông người ta muối kim chi.
+익히다|làm chín; làm quen|고기를 잘 익힙니다.|Tôi nấu thịt thật chín.
+태우다|làm cháy; chở|생선을 태웠습니다.|Tôi đã làm cháy cá.
+느끼하다|ngấy|이 음식은 좀 느끼합니다.|Món này hơi ngấy.
+담백하다|thanh đạm|국물이 담백합니다.|Nước dùng thanh đạm.
+매콤하다|cay cay|떡볶이가 매콤합니다.|Bánh gạo cay có vị cay cay.
+새콤하다|chua chua|귤이 새콤합니다.|Quýt chua chua.
+쫄깃하다|dai dai|떡이 쫄깃합니다.|Bánh gạo dai dai.
+바삭하다|giòn tan|튀김이 바삭합니다.|Đồ chiên giòn tan.
+싱싱하다|tươi roi rói|생선이 싱싱합니다.|Cá tươi roi rói.
+@Ngoại hình và thời trang|Dáng vẻ, ăn mặc
+외모|ngoại hình|외모보다 성격이 중요합니다.|Tính cách quan trọng hơn ngoại hình.
+몸매|vóc dáng|그 모델은 몸매가 좋습니다.|Người mẫu đó có vóc dáng đẹp.
+주름|nếp nhăn|이마에 주름이 생겼습니다.|Trên trán xuất hiện nếp nhăn.
+여드름|mụn trứng cá|얼굴에 여드름이 났습니다.|Trên mặt nổi mụn.
+쌍꺼풀|mí mắt hai mí|그녀는 쌍꺼풀이 있습니다.|Cô ấy có mắt hai mí.
+보조개|má lúm đồng tiền|웃으면 보조개가 생깁니다.|Khi cười thì có má lúm đồng tiền.
+대머리|đầu hói|할아버지는 대머리입니다.|Ông tôi hói đầu.
+곱슬머리|tóc xoăn|저는 곱슬머리입니다.|Tôi có tóc xoăn.
+단발머리|tóc ngắn ngang vai|단발머리로 잘랐습니다.|Tôi đã cắt tóc ngắn ngang vai.
+염색|việc nhuộm|머리 염색을 했습니다.|Tôi đã nhuộm tóc.
+파마|uốn tóc|미용실에서 파마를 합니다.|Tôi uốn tóc ở tiệm làm đầu.
+화장|việc trang điểm|아침마다 화장을 합니다.|Sáng nào tôi cũng trang điểm.
+향수|nước hoa|향수를 뿌립니다.|Tôi xịt nước hoa.
+립스틱|son môi|빨간 립스틱을 바릅니다.|Tôi tô son đỏ.
+정장|com lê, đồ công sở|면접에 정장을 입고 갑니다.|Tôi mặc đồ công sở đi phỏng vấn.
+캐주얼|trang phục thường ngày|주말에는 캐주얼 옷을 입습니다.|Cuối tuần tôi mặc đồ thường ngày.
+무늬|hoa văn|꽃 무늬 원피스를 샀습니다.|Tôi đã mua váy liền hoa văn hoa.
+줄무늬|kẻ sọc|줄무늬 셔츠가 잘 어울립니다.|Áo sơ mi kẻ sọc rất hợp.
+헐렁하다|rộng thùng thình|이 바지는 헐렁합니다.|Cái quần này rộng thùng thình.
+꽉끼다|chật ních|신발이 꽉낍니다.|Giày chật ních.
+통통하다|mũm mĩm|아기 볼이 통통합니다.|Má em bé mũm mĩm.
+@Sự kiện gia đình|Cưới hỏi, sinh nở, tang lễ
+약혼|việc đính hôn|두 사람이 약혼을 했습니다.|Hai người đã đính hôn.
+청첩장|thiệp cưới|친구에게 청첩장을 받았습니다.|Tôi đã nhận thiệp cưới từ bạn.
+예식장|nơi tổ chức lễ cưới|예식장에 손님이 많습니다.|Ở nơi tổ chức lễ cưới có nhiều khách.
+축의금|tiền mừng cưới|결혼식에서 축의금을 냅니다.|Ở đám cưới người ta mừng tiền.
+신혼여행|tuần trăng mật|제주도로 신혼여행을 갑니다.|Chúng tôi đi tuần trăng mật ở đảo Jeju.
+신혼부부|vợ chồng mới cưới|옆집에 신혼부부가 삽니다.|Nhà bên có vợ chồng mới cưới.
+임신|việc mang thai|아내가 임신을 했습니다.|Vợ tôi đã mang thai.
+맞벌이|vợ chồng cùng đi làm|우리 부부는 맞벌이를 합니다.|Vợ chồng tôi cùng đi làm.
+이혼|việc ly hôn|두 사람은 이혼을 했습니다.|Hai người đã ly hôn.
+장례식|tang lễ|할아버지의 장례식에 갔습니다.|Tôi đã đi tang lễ của ông.
+제사|lễ cúng giỗ|명절에 제사를 지냅니다.|Ngày lễ tết người ta làm lễ cúng.
+성묘|việc tảo mộ|추석에 성묘를 갑니다.|Trung thu tôi đi tảo mộ.
+효도|sự hiếu thảo|부모님에게 효도를 합니다.|Tôi hiếu thảo với bố mẹ.
+환갑|sinh nhật sáu mươi tuổi|아버지의 환갑 잔치를 했습니다.|Chúng tôi đã làm tiệc mừng bố sáu mươi tuổi.
+친정|nhà mẹ đẻ|주말에 친정에 갑니다.|Cuối tuần tôi về nhà mẹ đẻ.
+시댁|nhà chồng|명절에는 시댁에 갑니다.|Ngày lễ tết tôi về nhà chồng.
+장인|bố vợ|장인에게 인사를 드립니다.|Tôi chào bố vợ.
+시어머니|mẹ chồng|시어머니가 음식을 보내셨습니다.|Mẹ chồng đã gửi đồ ăn.
+사위|con rể|사위가 집에 왔습니다.|Con rể đã đến nhà.
+며느리|con dâu|며느리와 함께 요리합니다.|Tôi nấu ăn cùng con dâu.

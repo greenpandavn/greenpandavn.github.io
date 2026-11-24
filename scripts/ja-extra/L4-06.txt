@@ -1,0 +1,100 @@
+=4
+@Doanh nghiệp và tài chính|Công ty, vốn, nhân sự
+提供:ていきょう|cung cấp|客:きゃく に 情報:じょうほう を 提供:ていきょう します 。|Chúng tôi cung cấp thông tin cho khách.
+報告書:ほうこくしょ|bản báo cáo|出張:しゅっちょう の 報告書:ほうこくしょ を 書きます:かきます 。|Tôi viết bản báo cáo công tác.
+議事録:ぎじろく|biên bản cuộc họp|会議:かいぎ の 議事録:ぎじろく を 作ります:つくります 。|Tôi lập biên bản cuộc họp.
+契約書:けいやくしょ|bản hợp đồng|契約書:けいやくしょ に 判子:はんこ を 押します:おします 。|Tôi đóng dấu vào bản hợp đồng.
+顧客:こきゃく|khách hàng (của doanh nghiệp)|顧客:こきゃく の 声:こえ を 聞きます:ききます 。|Chúng tôi lắng nghe tiếng nói khách hàng.
+得意先:とくいさき|khách quen, mối làm ăn|午後:ごご 、 得意先:とくいさき を 回ります:まわります 。|Buổi chiều tôi đi một vòng các mối làm ăn.
+仕入れ:しいれ|nhập hàng (để bán)|毎朝:まいあさ 、 市場:いちば で 仕入れ:しいれ を します 。|Sáng nào tôi cũng nhập hàng ở chợ.
+損失:そんしつ|tổn thất|会社:かいしゃ は 大きな:おおきな 損失:そんしつ を 出しました:だしました 。|Công ty đã chịu tổn thất lớn.
+決算:けっさん|quyết toán|三月:さんがつ は 決算:けっさん で 忙しい:いそがしい です 。|Tháng ba bận vì quyết toán.
+資金:しきん|tiền vốn|店:みせ を 開く:ひらく 資金:しきん を 集めます:あつめます 。|Tôi gom tiền vốn mở cửa hàng.
+資本:しほん|tư bản, vốn (góp)|外国:がいこく の 資本:しほん が 入りました:はいりました 。|Vốn nước ngoài đã đổ vào.
+返済:へんさい|hoàn trả (nợ)|毎月:まいつき 、 借金:しゃっきん を 返済:へんさい します 。|Hằng tháng tôi hoàn trả nợ.
+株主:かぶぬし|cổ đông|株主:かぶぬし に 経営:けいえい の 状況:じょうきょう を 説明:せつめい します 。|Giải thích tình hình kinh doanh cho cổ đông.
+配当:はいとう|cổ tức|今年:ことし は 配当:はいとう が 増えました:ふえました 。|Năm nay cổ tức tăng.
+円高:えんだか|đồng yên tăng giá|円高:えんだか で 輸出:ゆしゅつ が 減りました:へりました 。|Xuất khẩu giảm do đồng yên tăng giá.
+円安:えんやす|đồng yên mất giá|円安:えんやす で 外国:がいこく 旅行:りょこう が 高く:たかく なりました 。|Đồng yên mất giá nên du lịch nước ngoài đắt lên.
+好況:こうきょう|kinh tế thịnh vượng|好況:こうきょう で 給料:きゅうりょう が 上がりました:あがりました 。|Lương tăng nhờ kinh tế thịnh vượng.
+相場:そうば|giá thị trường|この 町:まち の 家賃:やちん の 相場:そうば を 調べます:しらべます 。|Tôi tìm hiểu giá thị trường tiền thuê nhà ở thị trấn này.
+独占:どくせん|độc chiếm, độc quyền|一つ:ひとつ の 会社:かいしゃ が 市場:しじょう を 独占:どくせん して います 。|Một công ty đang độc chiếm thị trường.
+破産:はさん|phá sản (cá nhân)|彼:かれ は 借金:しゃっきん で 破産:はさん しました 。|Anh ta phá sản vì nợ.
+退職金:たいしょくきん|tiền thôi việc|父:ちち は 退職金:たいしょくきん で 家:いえ を 直しました:なおしました 。|Bố tôi sửa nhà bằng tiền thôi việc.
+昇給:しょうきゅう|tăng lương|四月:しがつ に 昇給:しょうきゅう が あります 。|Tháng tư có đợt tăng lương.
+転勤:てんきん|chuyển nơi công tác|来月:らいげつ 、 大阪:おおさか に 転勤:てんきん します 。|Tháng sau tôi chuyển công tác đến Osaka.
+人事:じんじ|nhân sự|人事:じんじ の 仕事:しごと を して います 。|Tôi đang làm việc nhân sự.
+総務:そうむ|hành chính tổng hợp|総務:そうむ の 部屋:へや は 二階:にかい です 。|Phòng hành chính tổng hợp ở tầng hai.
+経理:けいり|kế toán (bộ phận)|経理:けいり に 領収書:りょうしゅうしょ を 出します:だします 。|Tôi nộp hóa đơn cho bộ phận kế toán.
+営業部:えいぎょうぶ|phòng kinh doanh|兄:あに は 営業部:えいぎょうぶ で 働いて:はたらいて います 。|Anh tôi làm ở phòng kinh doanh.
+本社:ほんしゃ|trụ sở chính|本社:ほんしゃ は 東京:とうきょう に あります 。|Trụ sở chính ở Tokyo.
+子会社:こがいしゃ|công ty con|中国:ちゅうごく に 子会社:こがいしゃ を 作りました:つくりました 。|Công ty đã lập công ty con ở Trung Quốc.
+下請け:したうけ|thầu phụ|この 工場:こうじょう は 大きな:おおきな 会社:かいしゃ の 下請け:したうけ です 。|Nhà máy này là thầu phụ của một công ty lớn.
+業者:ぎょうしゃ|nhà thầu, người làm nghề|引っ越し:ひっこし の 業者:ぎょうしゃ を 頼みます:たのみます 。|Tôi thuê đơn vị chuyển nhà.
+業界:ぎょうかい|giới (ngành nghề)|彼:かれ は 出版:しゅっぱん の 業界:ぎょうかい で 有名:ゆうめい です 。|Ông ấy nổi tiếng trong giới xuất bản.
+実績:じっせき|thành tích thực tế|彼:かれ に は 十分:じゅうぶん な 実績:じっせき が あります 。|Anh ấy có đủ thành tích thực tế.
+人手:ひとで|nhân lực, tay người|店:みせ は 人手:ひとで が 足りません:たりません 。|Cửa hàng thiếu tay người.
+労働者:ろうどうしゃ|người lao động|外国人:がいこくじん の 労働者:ろうどうしゃ が 増えました:ふえました 。|Người lao động nước ngoài đã tăng.
+履歴:りれき|lý lịch, lịch sử (thao tác)|電話:でんわ の 履歴:りれき を 見ます:みます 。|Tôi xem lịch sử cuộc gọi.
+面接官:めんせつかん|người phỏng vấn|面接官:めんせつかん の 質問:しつもん に 答えます:こたえます 。|Tôi trả lời câu hỏi của người phỏng vấn.
+免許証:めんきょしょう|giấy phép lái xe|警官:けいかん に 免許証:めんきょしょう を 見せます:みせます 。|Tôi đưa giấy phép lái xe cho cảnh sát xem.
+@Giao thông vận hành|Đường sá, tàu xe, chuyến bay
+車線:しゃせん|làn xe|右:みぎ の 車線:しゃせん に 入ります:はいります 。|Tôi vào làn xe bên phải.
+徐行:じょこう|chạy chậm|学校:がっこう の 前:まえ で は 徐行:じょこう して ください 。|Trước trường học hãy chạy chậm.
+迂回:うかい|đi đường vòng|工事:こうじ の ため 、 迂回:うかい します 。|Vì thi công nên tôi đi đường vòng.
+路線:ろせん|tuyến (tàu, xe)|新しい:あたらしい バス の 路線:ろせん が できました 。|Tuyến xe buýt mới đã có.
+終電:しゅうでん|chuyến tàu cuối|終電:しゅうでん に 間に合いました:まにあいました 。|Tôi kịp chuyến tàu cuối.
+始発:しはつ|chuyến đầu tiên trong ngày|始発:しはつ の 電車:でんしゃ に 乗ります:のります 。|Tôi đi chuyến tàu đầu tiên trong ngày.
+乗り継ぎ:のりつぎ|nối chuyến|東京:とうきょう で 乗り継ぎ:のりつぎ を します 。|Tôi nối chuyến ở Tokyo.
+回数券:かいすうけん|vé tập|バス の 回数券:かいすうけん を 買います:かいます 。|Tôi mua vé tập xe buýt.
+車掌:しゃしょう|nhân viên soát vé trên tàu|車掌:しゃしょう に 切符:きっぷ を 見せます:みせます 。|Tôi đưa vé cho nhân viên soát vé.
+運転士:うんてんし|lái tàu|弟:おとうと は 電車:でんしゃ の 運転士:うんてんし に なりました 。|Em trai tôi đã trở thành lái tàu.
+操縦:そうじゅう|điều khiển (máy bay, tàu)|彼:かれ は 飛行機:ひこうき を 操縦:そうじゅう します 。|Anh ấy điều khiển máy bay.
+欠航:けっこう|hủy chuyến (bay, tàu thủy)|台風:たいふう で 飛行機:ひこうき が 欠航:けっこう しました 。|Máy bay hủy chuyến vì bão.
+遅延:ちえん|chậm trễ (chuyến)|事故:じこ で 電車:でんしゃ が 遅延:ちえん して います 。|Tàu đang chậm trễ do tai nạn.
+運休:うんきゅう|ngừng chạy (tàu xe)|大雪:おおゆき で バス が 運休:うんきゅう しました 。|Xe buýt ngừng chạy vì tuyết lớn.
+混雑:こんざつ|đông đúc, chen chúc|朝:あさ の 駅:えき は 混雑:こんざつ して います 。|Nhà ga buổi sáng đông đúc.
+@Vật chất và vật lý|Khoa học tự nhiên
+原子:げんし|nguyên tử|物:もの は 原子:げんし から できて います 。|Vật được tạo thành từ nguyên tử.
+分子:ぶんし|phân tử|水:みず の 分子:ぶんし を 勉強:べんきょう します 。|Tôi học về phân tử nước.
+元素:げんそ|nguyên tố|鉄:てつ は 元素:げんそ の 一つ:ひとつ です 。|Sắt là một nguyên tố.
+液体:えきたい|chất lỏng|飛行機:ひこうき に 液体:えきたい は 持ち込めません:もちこめません 。|Không thể mang chất lỏng lên máy bay.
+固体:こたい|chất rắn|氷:こおり は 水:みず の 固体:こたい です 。|Nước đá là thể rắn của nước.
+気体:きたい|chất khí|水:みず は 熱:ねつ で 気体:きたい に なります 。|Nước gặp nhiệt thì thành chất khí.
+蒸発:じょうはつ|bay hơi|水:みず が 蒸発:じょうはつ しました 。|Nước đã bay hơi.
+凝固:ぎょうこ|đông đặc|血:ち が 凝固:ぎょうこ します 。|Máu đông đặc lại.
+溶解:ようかい|hòa tan|塩:しお が 水:みず に 溶解:ようかい します 。|Muối hòa tan trong nước.
+水素:すいそ|hydro|水素:すいそ で 走る:はしる 車:くるま が あります 。|Có loại xe chạy bằng hydro.
+二酸化炭素:にさんかたんそ|khí cacbonic|木:き は 二酸化炭素:にさんかたんそ を 吸います:すいます 。|Cây hút khí cacbonic.
+窒素:ちっそ|nitơ|空気:くうき の 大部分:だいぶぶん は 窒素:ちっそ です 。|Phần lớn không khí là nitơ.
+金属:きんぞく|kim loại|この 箱:はこ は 金属:きんぞく で できて います 。|Cái hộp này làm bằng kim loại.
+鉱物:こうぶつ|khoáng vật|山:やま で 珍しい:めずらしい 鉱物:こうぶつ を 見つけました:みつけました 。|Tôi tìm thấy khoáng vật hiếm trên núi.
+結晶:けっしょう|tinh thể|雪:ゆき の 結晶:けっしょう は 美しい:うつくしい です 。|Tinh thể tuyết thật đẹp.
+電子:でんし|điện tử|電子:でんし の 辞書:じしょ を 使います:つかいます 。|Tôi dùng từ điển điện tử.
+電流:でんりゅう|dòng điện|この 線:せん に 電流:でんりゅう が 流れて:ながれて います 。|Dòng điện đang chạy trong dây này.
+電圧:でんあつ|điện áp|国:くに に よって 電圧:でんあつ が 違います:ちがいます 。|Điện áp khác nhau tùy nước.
+磁石:じしゃく|nam châm|磁石:じしゃく で 紙:かみ を 止めます:とめます 。|Tôi ghim tờ giấy bằng nam châm.
+磁気:じき|từ tính|カード は 磁気:じき に 弱い:よわい です 。|Thẻ kỵ từ tính.
+引力:いんりょく|lực hấp dẫn|月:つき の 引力:いんりょく で 海:うみ の 水:みず が 動きます:うごきます 。|Nước biển chuyển động do lực hấp dẫn của mặt trăng.
+圧力:あつりょく|áp lực|上:うえ から 圧力:あつりょく を かけます 。|Tôi tạo áp lực từ phía trên.
+摩擦:まさつ|ma sát|摩擦:まさつ で 熱:ねつ が 出ます:でます 。|Ma sát sinh ra nhiệt.
+振動:しんどう|rung động, chấn động|電車:でんしゃ の 振動:しんどう で 窓:まど が 揺れます:ゆれます 。|Cửa sổ rung vì chấn động của tàu.
+波長:はちょう|bước sóng|光:ひかり の 波長:はちょう を 測ります:はかります 。|Người ta đo bước sóng ánh sáng.
+周波数:しゅうはすう|tần số|ラジオ の 周波数:しゅうはすう を 合わせます:あわせます 。|Tôi chỉnh tần số radio.
+光線:こうせん|tia sáng|窓:まど から 太陽:たいよう の 光線:こうせん が 入ります:はいります 。|Tia sáng mặt trời rọi vào qua cửa sổ.
+赤外線:せきがいせん|tia hồng ngoại|赤外線:せきがいせん で 体温:たいおん を 測ります:はかります 。|Đo thân nhiệt bằng tia hồng ngoại.
+放射線:ほうしゃせん|tia phóng xạ|放射線:ほうしゃせん で 病気:びょうき を 治療:ちりょう します 。|Điều trị bệnh bằng tia phóng xạ.
+反射:はんしゃ|phản xạ, phản chiếu|光:ひかり が 鏡:かがみ に 反射:はんしゃ します 。|Ánh sáng phản chiếu trên gương.
+屈折:くっせつ|khúc xạ|水:みず の 中:なか で 光:ひかり が 屈折:くっせつ します 。|Ánh sáng khúc xạ trong nước.
+実験室:じっけんしつ|phòng thí nghiệm|実験室:じっけんしつ で 薬:くすり を 作ります:つくります 。|Người ta chế thuốc trong phòng thí nghiệm.
+顕微鏡:けんびきょう|kính hiển vi|顕微鏡:けんびきょう で 細胞:さいぼう を 見ます:みます 。|Tôi xem tế bào bằng kính hiển vi.
+望遠鏡:ぼうえんきょう|kính viễn vọng|望遠鏡:ぼうえんきょう で 星:ほし を 見ます:みます 。|Tôi ngắm sao bằng kính viễn vọng.
+試験管:しけんかん|ống nghiệm|試験管:しけんかん に 水:みず を 入れます:いれます 。|Tôi cho nước vào ống nghiệm.
+法則:ほうそく|định luật|自然:しぜん の 法則:ほうそく を 学びます:まなびます 。|Tôi học các định luật tự nhiên.
+原理:げんり|nguyên lý|機械:きかい の 原理:げんり を 説明:せつめい します 。|Tôi giải thích nguyên lý của máy.
+公式:こうしき|công thức; chính thức|数学:すうがく の 公式:こうしき を 覚えます:おぼえます 。|Tôi học thuộc công thức toán.
+定義:ていぎ|định nghĩa|言葉:ことば の 定義:ていぎ を 調べます:しらべます 。|Tôi tra định nghĩa của từ.
+測定:そくてい|đo đạc|体重:たいじゅう を 測定:そくてい します 。|Người ta đo cân nặng.
+観測:かんそく|quan trắc|星:ほし の 動き:うごき を 観測:かんそく します 。|Quan trắc chuyển động của sao.
+観察:かんさつ|quan sát|花:はな の 成長:せいちょう を 観察:かんさつ します 。|Tôi quan sát sự lớn lên của hoa.
+標本:ひょうほん|tiêu bản, mẫu vật|虫:むし の 標本:ひょうほん を 作ります:つくります 。|Tôi làm tiêu bản côn trùng.

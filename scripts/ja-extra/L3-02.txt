@@ -1,0 +1,77 @@
+=3
+@Cảm xúc và tâm trạng|Diễn tả lòng mình
+機嫌:きげん|tâm tính, sắc mặt|部長:ぶちょう は 今日:きょう 機嫌:きげん が 悪い:わるい です 。|Hôm nay trưởng phòng khó ở.
+感激:かんげき|xúc động mạnh|友達:ともだち の 手紙:てがみ に 感激:かんげき しました 。|Tôi xúc động mạnh trước lá thư của bạn.
+感心:かんしん|thán phục|子供:こども の 絵:え に 感心:かんしん しました 。|Tôi thán phục bức tranh của đứa trẻ.
+不満:ふまん|bất mãn|給料:きゅうりょう に 不満:ふまん が あります 。|Tôi bất mãn về tiền lương.
+反省:はんせい|kiểm điểm, tự xét|自分:じぶん の 失敗:しっぱい を 反省:はんせい します 。|Tôi tự kiểm điểm thất bại của mình.
+同情:どうじょう|đồng cảm, thương cảm|彼:かれ の 話:はなし に 同情:どうじょう しました 。|Tôi thương cảm với câu chuyện của anh ấy.
+嫉妬:しっと|ghen tị|友達:ともだち の 成功:せいこう に 嫉妬:しっと しました 。|Tôi ghen tị với thành công của bạn.
+興奮:こうふん|phấn khích|試合:しあい を 見て:みて 興奮:こうふん しました 。|Xem trận đấu tôi phấn khích.
+感動的:かんどうてき|cảm động (tính từ)|感動的:かんどうてき な 映画:えいが を 見ました:みました 。|Tôi đã xem một bộ phim cảm động.
+恐怖:きょうふ|nỗi kinh hoàng|地震:じしん の 恐怖:きょうふ を 忘れません:わすれません 。|Tôi không quên nỗi kinh hoàng của động đất.
+怒り:いかり|cơn giận|怒り:いかり で 顔:かお が 赤く:あかく なりました 。|Mặt đỏ lên vì giận.
+悲しみ:かなしみ|nỗi buồn|悲しみ:かなしみ は 時間:じかん が 治します:なおします 。|Thời gian chữa lành nỗi buồn.
+喜び:よろこび|niềm vui|合格:ごうかく の 喜び:よろこび を 家族:かぞく に 伝えます:つたえます 。|Tôi báo niềm vui thi đỗ cho gia đình.
+苦しみ:くるしみ|nỗi khổ|病気:びょうき の 苦しみ:くるしみ を 知って:しって います 。|Tôi biết nỗi khổ của bệnh tật.
+悩み:なやみ|nỗi phiền muộn|友達:ともだち に 悩み:なやみ を 話します:はなします 。|Tôi kể nỗi phiền muộn với bạn.
+悩む:なやむ|trăn trở|進路:しんろ の こと で 悩んで:なやんで います 。|Tôi đang trăn trở chuyện hướng đi tương lai.
+落ち込む:おちこむ|suy sụp, buồn chán|試験:しけん に 落ちて:おちて 落ち込んで:おちこんで います 。|Tôi suy sụp vì thi trượt.
+照れる:てれる|ngượng ngùng|褒められて:ほめられて 照れました:てれました 。|Được khen tôi ngượng ngùng.
+憎む:にくむ|căm ghét|戦争:せんそう を 憎みます:にくみます 。|Tôi căm ghét chiến tranh.
+恨む:うらむ|oán hận|人:ひと を 恨んで:うらんで は いけません 。|Không nên oán hận người khác.
+傷つく:きずつく|bị tổn thương|彼:かれ の 言葉:ことば に 傷つきました:きずつきました 。|Tôi bị tổn thương bởi lời anh ấy.
+情けない:なさけない|thảm hại, đáng xấu hổ|こんな 失敗:しっぱい を して 情けない:なさけない です 。|Thất bại thế này thật thảm hại.
+心細い:こころぼそい|bơ vơ, lo lắng|外国:がいこく で 一人:ひとり は 心細い:こころぼそい です 。|Một mình ở nước ngoài thấy bơ vơ.
+懐かしむ:なつかしむ|hoài niệm, nhớ về|学生:がくせい の ころ を 懐かしみます:なつかしみます 。|Tôi nhớ về thời sinh viên.
+@Giao tiếp và ý kiến|Trao đổi, tranh luận
+発言:はつげん|phát ngôn|会議:かいぎ で 発言:はつげん します 。|Tôi phát ngôn trong cuộc họp.
+主張:しゅちょう|chủ trương, khẳng định|彼:かれ は 自分:じぶん の 意見:いけん を 主張:しゅちょう します 。|Anh ấy khẳng định ý kiến của mình.
+討論:とうろん|thảo luận, tranh biện|授業:じゅぎょう で 討論:とうろん を します 。|Chúng tôi tranh biện trong giờ học.
+説得:せっとく|thuyết phục|両親:りょうしん を 説得:せっとく しました 。|Tôi đã thuyết phục bố mẹ.
+納得:なっとく|chấp nhận, thông suốt|説明:せつめい を 聞いて:きいて 納得:なっとく しました 。|Nghe giải thích xong tôi thông suốt.
+同意:どうい|đồng ý|彼:かれ の 考え:かんがえ に 同意:どうい します 。|Tôi đồng ý với suy nghĩ của anh ấy.
+文句:もんく|lời phàn nàn|彼:かれ は いつも 文句:もんく を 言います:いいます 。|Anh ta lúc nào cũng phàn nàn.
+苦情:くじょう|khiếu nại|客:きゃく から 苦情:くじょう が 来ました:きました 。|Có khiếu nại từ khách hàng.
+言い訳:いいわけ|lời bao biện|言い訳:いいわけ は 聞きたくない:ききたくない です 。|Tôi không muốn nghe bao biện.
+お世辞:おせじ|lời nịnh, khen xã giao|お世辞:おせじ が 上手:じょうず です ね 。|Anh khéo nịnh quá.
+悪口:わるくち|lời nói xấu|人:ひと の 悪口:わるくち を 言わないで:いわないで ください 。|Đừng nói xấu người khác.
+独り言:ひとりごと|nói một mình|祖父:そふ は よく 独り言:ひとりごと を 言います:いいます 。|Ông tôi hay nói một mình.
+雑談:ざつだん|chuyện phiếm|休み時間:やすみじかん に 雑談:ざつだん を します 。|Giờ nghỉ chúng tôi nói chuyện phiếm.
+問い合わせ:といあわせ|hỏi thông tin|電話:でんわ で 問い合わせ:といあわせ を します 。|Tôi gọi điện hỏi thông tin.
+申し込み:もうしこみ|đăng ký (đơn)|申し込み:もうしこみ は 明日:あした まで です 。|Hạn đăng ký là đến ngày mai.
+通知:つうち|thông tri, giấy báo|合格:ごうかく の 通知:つうち が 届きました:とどきました 。|Giấy báo đỗ đã đến.
+述べる:のべる|trình bày, phát biểu|自分:じぶん の 意見:いけん を 述べます:のべます 。|Tôi trình bày ý kiến của mình.
+語る:かたる|kể, thuật lại|祖父:そふ は 昔:むかし の こと を 語ります:かたります 。|Ông tôi kể chuyện ngày xưa.
+ささやく|thì thầm|耳:みみ の そば で ささやく 。|Thì thầm bên tai.
+怒鳴る:どなる|quát tháo|父:ちち が 大きい:おおきい 声:こえ で 怒鳴りました:どなりました 。|Bố đã quát to.
+うなずく|gật đầu|彼:かれ は 話:はなし を 聞いて:きいて うなずく 。|Anh ấy nghe chuyện rồi gật đầu.
+呼びかける:よびかける|kêu gọi|市民:しみん に 協力:きょうりょく を 呼びかけます:よびかけます 。|Kêu gọi thị dân hợp tác.
+言い出す:いいだす|mở lời, nói ra|彼:かれ は 急:きゅう に 帰る:かえる と 言い出しました:いいだしました 。|Anh ấy đột nhiên nói là sẽ về.
+聞き返す:ききかえす|hỏi lại|分からなくて:わからなくて 聞き返しました:ききかえしました 。|Vì không hiểu nên tôi hỏi lại.
+話しかける:はなしかける|bắt chuyện|知らない:しらない 人:ひと に 話しかけます:はなしかけます 。|Tôi bắt chuyện với người lạ.
+打ち明ける:うちあける|thổ lộ|友達:ともだち に 秘密:ひみつ を 打ち明けます:うちあけます 。|Tôi thổ lộ bí mật với bạn.
+@Suy nghĩ và nhận thức|Hoạt động trí óc
+思考:しこう|tư duy|論理:ろんり の 思考:しこう を 練習:れんしゅう します 。|Tôi luyện tư duy lô gích.
+予想:よそう|dự đoán|試合:しあい の 結果:けっか を 予想:よそう します 。|Tôi dự đoán kết quả trận đấu.
+判断:はんだん|phán đoán|自分:じぶん で 判断:はんだん して ください 。|Hãy tự mình phán đoán.
+決心:けっしん|quyết tâm|留学:りゅうがく を 決心:けっしん しました 。|Tôi đã quyết tâm đi du học.
+勘違い:かんちがい|nhầm tưởng|日にち:ひにち を 勘違い:かんちがい して いました 。|Tôi đã nhầm tưởng ngày.
+注目:ちゅうもく|chú mục, quan tâm|新しい:あたらしい 技術:ぎじゅつ に 注目:ちゅうもく して います 。|Tôi quan tâm đến kỹ thuật mới.
+発想:はっそう|ý tưởng, cách nghĩ|子供:こども の 発想:はっそう は 面白い:おもしろい です 。|Cách nghĩ của trẻ con thú vị.
+工夫:くふう|tìm tòi, mày mò|料理:りょうり に 工夫:くふう を します 。|Tôi mày mò cải tiến món ăn.
+推測:すいそく|suy đoán|原因:げんいん を 推測:すいそく します 。|Tôi suy đoán nguyên nhân.
+区別:くべつ|phân biệt|二つ:ふたつ の 字:じ の 区別:くべつ が できません 。|Tôi không phân biệt được hai chữ.
+分類:ぶんるい|phân loại|ごみ を 分類:ぶんるい します 。|Tôi phân loại rác.
+検討:けんとう|xem xét, cân nhắc|その 案:あん を 検討:けんとう します 。|Tôi sẽ xem xét phương án đó.
+見直す:みなおす|xem lại, đánh giá lại|計画:けいかく を 見直します:みなおします 。|Tôi xem lại kế hoạch.
+思い込む:おもいこむ|đinh ninh|今日:きょう は 休み:やすみ だ と 思い込んで:おもいこんで いました 。|Tôi đã đinh ninh hôm nay là ngày nghỉ.
+思い切る:おもいきる|dứt khoát|思い切って:おもいきって 会社:かいしゃ を 辞めました:やめました 。|Tôi dứt khoát nghỉ việc.
+ひらめく|lóe lên (ý)|いい 考え:かんがえ が ひらめく 。|Một ý hay lóe lên.
+@Trường học và học thuật|Việc học
+学習:がくしゅう|học tập|外国語:がいこくご の 学習:がくしゅう は 時間:じかん が かかります 。|Học ngoại ngữ tốn thời gian.
+学年:がくねん|niên khóa, khối lớp|弟:おとうと は 私:わたし の 二つ:ふたつ 下:した の 学年:がくねん です 。|Em trai tôi học dưới tôi hai khối.
+単位:たんい|tín chỉ; đơn vị|卒業:そつぎょう に 必要:ひつよう な 単位:たんい を 取ります:とります 。|Tôi lấy các tín chỉ cần để tốt nghiệp.
+ゼミ|lớp chuyên đề|ゼミ で 発表:はっぴょう します 。|Tôi thuyết trình ở lớp chuyên đề.
+参考書:さんこうしょ|sách tham khảo|本屋:ほんや で 参考書:さんこうしょ を 買います:かいます 。|Tôi mua sách tham khảo ở hiệu sách.
+進学:しんがく|học lên|大学院:だいがくいん に 進学:しんがく します 。|Tôi học lên cao học.

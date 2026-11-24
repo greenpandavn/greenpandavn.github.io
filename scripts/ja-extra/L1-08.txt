@@ -1,0 +1,80 @@
+=1
+@Sức khỏe và cảm giác|Cơ thể khỏe yếu
+元気な:げんきな|khỏe mạnh, hoạt bát|元気な:げんきな 子供:こども が 走って:はしって います 。|Đứa trẻ hoạt bát đang chạy.
+医院:いいん|phòng khám|近く:ちかく の 医院:いいん へ 行きます:いきます 。|Tôi đi phòng khám gần nhà.
+薬屋:くすりや|hiệu thuốc|薬屋:くすりや で 薬:くすり を 買います:かいます 。|Tôi mua thuốc ở hiệu thuốc.
+頭痛:ずつう|đau đầu|今朝:けさ から 頭痛:ずつう が します 。|Từ sáng nay tôi bị đau đầu.
+気分:きぶん|tâm trạng, cảm giác trong người|今日:きょう は 気分:きぶん が 良い:よい です 。|Hôm nay tôi thấy dễ chịu trong người.
+具合:ぐあい|tình trạng (sức khỏe)|体:からだ の 具合:ぐあい が 悪い:わるい です 。|Tình trạng cơ thể tôi không tốt.
+お大事に:おだいじに|chúc mau khỏe|風邪:かぜ です か 。 お大事に:おだいじに 。|Bị cảm à? Chúc mau khỏe nhé.
+喉が渇く:のどがかわく|khát nước|暑い:あつい から 喉が渇きます:のどがかわきます 。|Vì nóng nên tôi khát nước.
+お腹がすく:おなかがすく|đói bụng|昼:ひる に なる と お腹がすきます:おなかがすきます 。|Đến trưa là tôi đói bụng.
+力:ちから|sức lực|兄:あに は 力:ちから が 強い:つよい です 。|Anh tôi khỏe.
+汗:あせ|mồ hôi|暑くて:あつくて 汗:あせ が 出ます:でます 。|Nóng nên ra mồ hôi.
+涙:なみだ|nước mắt|映画:えいが を 見て:みて 涙:なみだ が 出ました:でました 。|Xem phim tôi đã rơi nước mắt.
+眠る:ねむる|ngủ say|赤ちゃん:あかちゃん が 眠って:ねむって います 。|Em bé đang ngủ say.
+太る:ふとる|béo lên|最近:さいきん 、 少し:すこし 太りました:ふとりました 。|Gần đây tôi hơi béo lên.
+痩せる:やせる|gầy đi|姉:あね は 少し:すこし 痩せました:やせました 。|Chị tôi gầy đi một chút.
+@Nghề nghiệp và công việc|Người làm việc
+銀行員:ぎんこういん|nhân viên ngân hàng|姉:あね は 銀行員:ぎんこういん です 。|Chị tôi là nhân viên ngân hàng.
+教師:きょうし|giáo viên (nghề)|母:はは は 高校:こうこう の 教師:きょうし です 。|Mẹ tôi là giáo viên cấp ba.
+主婦:しゅふ|nội trợ|母:はは は 主婦:しゅふ です 。|Mẹ tôi là nội trợ.
+エンジニア|kỹ sư|兄:あに は エンジニア です 。|Anh tôi là kỹ sư.
+コック|đầu bếp|おじ は ホテル の コック です 。|Chú tôi là đầu bếp khách sạn.
+画家:がか|họa sĩ|祖父:そふ は 画家:がか でした 。|Ông tôi từng là họa sĩ.
+作家:さっか|nhà văn|この 作家:さっか の 本:ほん が 好き:すき です 。|Tôi thích sách của nhà văn này.
+農家:のうか|nhà nông|祖母:そぼ の 家:いえ は 農家:のうか です 。|Nhà bà tôi làm nông.
+駅員:えきいん|nhân viên nhà ga|駅員:えきいん に 切符:きっぷ を 見せます:みせます 。|Tôi đưa vé cho nhân viên nhà ga xem.
+忙しさ:いそがしさ|sự bận rộn|年末:ねんまつ の 忙しさ:いそがしさ は 大変:たいへん です 。|Sự bận rộn cuối năm thật vất vả.
+@Trong bếp|Nấu nướng
+台所用品:だいどころようひん|đồ dùng nhà bếp|デパート で 台所用品:だいどころようひん を 買います:かいます 。|Tôi mua đồ dùng nhà bếp ở cửa hàng bách hóa.
+鍋:なべ|cái nồi|鍋:なべ で スープ を 作ります:つくります 。|Tôi nấu súp bằng nồi.
+包丁:ほうちょう|dao làm bếp|包丁:ほうちょう で 野菜:やさい を 切ります:きります 。|Tôi cắt rau bằng dao làm bếp.
+お湯:おゆ|nước nóng|お湯:おゆ で お茶:おちゃ を 入れます:いれます 。|Tôi pha trà bằng nước nóng.
+氷:こおり|đá lạnh|ジュース に 氷:こおり を 入れます:いれます 。|Tôi cho đá vào nước hoa quả.
+油:あぶら|dầu ăn|油:あぶら で 魚:さかな を 焼きます:やきます 。|Tôi rán cá bằng dầu.
+焼く:やく|nướng, rán|母:はは が パン を 焼いて:やいて います 。|Mẹ đang nướng bánh mì.
+冷やす:ひやす|làm lạnh|冷蔵庫:れいぞうこ で ビール を 冷やします:ひやします 。|Tôi làm lạnh bia trong tủ lạnh.
+温める:あたためる|hâm nóng|弁当:べんとう を 温めます:あたためます 。|Tôi hâm nóng cơm hộp.
+混ぜる:まぜる|trộn|卵:たまご と 砂糖:さとう を 混ぜます:まぜます 。|Tôi trộn trứng với đường.
+味噌汁:みそしる|canh miso|毎朝:まいあさ 、 味噌汁:みそしる を 飲みます:のみます 。|Mỗi sáng tôi uống canh miso.
+おにぎり|cơm nắm|昼ご飯:ひるごはん は おにぎり です 。|Bữa trưa là cơm nắm.
+豆腐:とうふ|đậu phụ|豆腐:とうふ は 体:からだ に 良い:よい です 。|Đậu phụ tốt cho cơ thể.
+のり|rong biển khô|ご飯:ごはん に のり を のせます 。|Tôi đặt rong biển lên cơm.
+ぶどう|nho|この ぶどう は 甘い:あまい です 。|Nho này ngọt.
+いちご|dâu tây|ケーキ の 上:うえ に いちご が あります 。|Trên bánh có dâu tây.
+すいか|dưa hấu|夏:なつ は すいか を 食べます:たべます 。|Mùa hè tôi ăn dưa hấu.
+トマト|cà chua|サラダ に トマト を 入れます:いれます 。|Tôi cho cà chua vào sa lát.
+じゃがいも|khoai tây|カレー に じゃがいも を 入れます:いれます 。|Tôi cho khoai tây vào cà ri.
+にんじん|cà rốt|弟:おとうと は にんじん が 嫌い:きらい です 。|Em trai tôi ghét cà rốt.
+@Tự nhiên và thời tiết 2|Trời đất
+台風の日:たいふうのひ|ngày có bão|台風の日:たいふうのひ は 学校:がっこう が 休み:やすみ です 。|Ngày có bão trường nghỉ học.
+大雨:おおあめ|mưa to|昨日:きのう は 大雨:おおあめ でした 。|Hôm qua mưa to.
+雷:かみなり|sấm sét|夜:よる 、 雷:かみなり が 鳴りました:なりました 。|Ban đêm đã có sấm.
+霧:きり|sương mù|朝:あさ は 霧:きり が 出ます:でます 。|Buổi sáng có sương mù.
+天気予報:てんきよほう|dự báo thời tiết|毎朝:まいあさ 、 天気予報:てんきよほう を 見ます:みます 。|Mỗi sáng tôi xem dự báo thời tiết.
+季節:きせつ|mùa|日本:にほん に は 四つ:よっつ の 季節:きせつ が あります 。|Nhật Bản có bốn mùa.
+火:ひ|lửa|火:ひ を 使う:つかう とき は 気:き を つけて ください 。|Hãy cẩn thận khi dùng lửa.
+土:つち|đất|庭:にわ の 土:つち に 花:はな を 植えます:うえます 。|Tôi trồng hoa xuống đất trong vườn.
+砂:すな|cát|子供:こども が 砂:すな で 遊んで:あそんで います 。|Trẻ con đang chơi cát.
+湖:みずうみ|hồ|湖:みずうみ の 水:みず は きれい です 。|Nước hồ trong.
+林:はやし|rừng thưa|家:いえ の 後ろ:うしろ に 林:はやし が あります 。|Sau nhà có rừng thưa.
+畑:はたけ|ruộng rau, nương|祖父:そふ は 畑:はたけ で 野菜:やさい を 作ります:つくります 。|Ông tôi trồng rau ngoài ruộng.
+波:なみ|sóng|今日:きょう は 波:なみ が 高い:たかい です 。|Hôm nay sóng cao.
+光:ひかり|ánh sáng|窓:まど から 光:ひかり が 入ります:はいります 。|Ánh sáng chiếu vào từ cửa sổ.
+音:おと|âm thanh|外:そと で 大きい:おおきい 音:おと が しました 。|Bên ngoài có tiếng động lớn.
+匂い:におい|mùi|パン の いい 匂い:におい が します 。|Có mùi bánh mì thơm.
+@Trợ từ và từ ngữ pháp|Từ chức năng
+から|từ; vì|九時:くじ から 授業:じゅぎょう が あります 。|Từ chín giờ có giờ học.
+まで|đến (giới hạn)|五時:ごじ まで 働きます:はたらきます 。|Tôi làm việc đến năm giờ.
+より|hơn (so sánh)|犬:いぬ より 猫:ねこ が 好き:すき です 。|Tôi thích mèo hơn chó.
+など|vân vân|りんご や みかん など を 買います:かいます 。|Tôi mua táo, quýt, vân vân.
+しか|chỉ (đi với phủ định)|百円:ひゃくえん しか ありません 。|Tôi chỉ có một trăm yên.
+けれど|nhưng mà|高い:たかい けれど 、 買います:かいます 。|Đắt nhưng mà tôi vẫn mua.
+それで|vì thế|雨:あめ でした 。 それで 、 家:いえ に いました 。|Trời mưa. Vì thế tôi ở nhà.
+または|hoặc là|ペン または 鉛筆:えんぴつ で 書きます:かきます 。|Viết bằng bút mực hoặc là bút chì.
+たとえば|ví dụ như|果物:くだもの 、 たとえば りんご が 好き:すき です 。|Tôi thích trái cây, ví dụ như táo.
+じゃ|thế thì (thân mật)|じゃ 、 また 明日:あした 。|Thế thì mai gặp lại.
+ええ|ừ, vâng (thân mật)|ええ 、 そう です 。|Ừ, đúng vậy.
+あのう|à này (ngập ngừng)|あのう 、 すみません 。|À này, xin lỗi.
+さあ|nào; để xem|さあ 、 行きましょう:いきましょう 。|Nào, chúng ta đi thôi.

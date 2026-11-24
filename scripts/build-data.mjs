@@ -347,6 +347,9 @@ function romanizeJa(kana, particle = true) {
   }
   return out;
 }
+// words per level after the extra themes (v5.5.0: 5,000 words per course)
+const EXTRA_QUOTA = { ko: [834, 834, 833, 833, 833, 833], ja: [1000, 1000, 1000, 1000, 1000] };
+const srcOf = {};
 const SCRIPT_PUNCT = /^[。、？！,.?!]$/;
 function scriptCourse(file, course, romanize) {
   const cUnits = [];
@@ -365,6 +368,24 @@ function scriptCourse(file, course, romanize) {
     } else if (!/^[\uac00-\ud7a30-9A-Za-z]+$/.test(surface)) errors.push(`${where}: unexpected characters in ${surface}`);
     return [surface, romanize(reading ?? surface, !reading)]; // は, へ, を written alone are particles
   };
+  const addWord = (line, where, lesson) => {
+    const [w, vi, sentence, exVi] = line.split('|');
+    if (!exVi) return void errors.push(`${where}: missing fields`);
+    const [word, py] = token(w, where);
+    if (cSeen.has(word)) errors.push(`${where}: duplicate word ${word}`);
+    cSeen.add(word);
+    const parts = sentence
+      .split(/\s+/)
+      .flatMap((t) => {
+        const m = t.match(/^(.*?)([。、？！,.?!]*)$/);
+        return [m[1], ...m[2]].filter(Boolean);
+      })
+      .map((t) => token(t, where));
+    if (!SCRIPT_PUNCT.test(parts[parts.length - 1][0])) errors.push(`${where}: example has no final punctuation`);
+    if (parts.filter((t) => !SCRIPT_PUNCT.test(t[0])).length < 2) errors.push(`${where}: example is too short`);
+    lesson.words.push({ id: `${lesson.id}-${word}`, hanzi: word, pinyin: py, vi, ex: { tokens: parts.map((t) => t[0]), py: parts.map((t) => t[1]), vi: exVi, alts: [] } });
+    srcOf[`${course} ${lesson.id} ${word}`] = where;
+  };
   for (const [i, raw] of read(`scripts/${file}`).split('\n').entries()) {
     const line = raw.trim();
     const where = `${file}:${i + 1}`;
@@ -381,30 +402,77 @@ function scriptCourse(file, course, romanize) {
       cLessons.push(lesson);
       continue;
     }
-    const [w, vi, sentence, exVi] = line.split('|');
-    if (!exVi) {
-      errors.push(`${where}: missing fields`);
-      continue;
-    }
-    const [word, py] = token(w, where);
-    if (cSeen.has(word)) errors.push(`${where}: duplicate word ${word}`);
-    cSeen.add(word);
-    const parts = sentence
-      .split(/\s+/)
-      .flatMap((t) => {
-        const m = t.match(/^(.*?)([。、？！,.?!]*)$/);
-        return [m[1], ...m[2]].filter(Boolean);
-      })
-      .map((t) => token(t, where));
-    if (!SCRIPT_PUNCT.test(parts[parts.length - 1][0])) errors.push(`${where}: example has no final punctuation`);
-    if (parts.filter((t) => !SCRIPT_PUNCT.test(t[0])).length < 2) errors.push(`${where}: example is too short`);
-    lesson.words.push({ id: `${lesson.id}-${word}`, hanzi: word, pinyin: py, vi, ex: { tokens: parts.map((t) => t[0]), py: parts.map((t) => t[1]), vi: exVi, alts: [] } });
+    addWord(line, where, lesson);
   }
+  // v5.5.0 – scripts/<course>-extra/*.txt bring every level up to its quota of words. Format:
+  //   =<level>            the level of the themes that follow
+  //   @Tên chủ đề|mô tả   a theme; its words are cut into lessons of 12
+  //   word lines as in the main file
+  // Words of a theme that do not fill a lesson go to "Tổng hợp" lessons of the level. The new lessons of a level
+  // form parts 4–9 of that level. With KJ_ALL=1 the quota is ignored (used with check-data --prune).
+  const extraDir = path.join(root, 'scripts', `${course}-extra`);
+  const byLevel = new Map();
+  if (fs.existsSync(extraDir)) {
+    let level = 0;
+    let theme = null;
+    for (const f of fs.readdirSync(extraDir).filter((x) => x.endsWith('.txt')).sort()) {
+      for (const [i, raw] of read(`scripts/${course}-extra/${f}`).split('\n').entries()) {
+        const line = raw.trim();
+        if (!line || line.startsWith('#')) continue;
+        if (line.startsWith('=')) {
+          level = Number(line.slice(1));
+          theme = null;
+        } else if (line.startsWith('@')) {
+          const [title, desc] = line.slice(1).split('|');
+          theme = { title, desc: desc ?? title, words: [] };
+          if (!byLevel.has(level)) byLevel.set(level, []);
+          byLevel.get(level).push(theme);
+        } else if (theme) theme.words.push([line, `${course}-extra/${f}:${i + 1}`]);
+        else errors.push(`${course}-extra/${f}:${i + 1}: word before a theme`);
+      }
+    }
+  }
+  const COLORS = ['sun', 'leaf', 'sky', 'grape', 'rose', 'sun'];
+  for (const [level, themes] of [...byLevel].sort((a, b) => a[0] - b[0])) {
+    const base = cUnits.filter((u) => u.level === level).map((u) => u.unit);
+    const have = cLessons.filter((l) => base.includes(l.unit)).reduce((n, l) => n + l.words.length, 0);
+    let room = process.env.KJ_ALL ? Infinity : (EXTRA_QUOTA[course]?.[level - 1] ?? 0) - have;
+    const made = [];
+    const spare = [];
+    for (const t of themes) {
+      const ws = t.words.slice(0, Math.max(0, room));
+      room -= ws.length;
+      const k = Math.floor(ws.length / 12);
+      for (let j = 0; j < k; j++) made.push({ title: k > 1 ? `${t.title} ${j + 1}` : t.title, desc: t.desc, words: ws.slice(j * 12, j * 12 + 12) });
+      spare.push(...ws.slice(k * 12));
+    }
+    const m = Math.floor(spare.length / 12);
+    for (let j = 0; j < m; j++) made.push({ title: `Tổng hợp ${j + 1}`, desc: 'Từ vựng tổng hợp của cấp này', words: spare.slice(j * 12, j * 12 + 12) });
+    const rest = spare.slice(m * 12); // fewer than 12 words: one more word for each of the last lessons
+    if (process.env.KJ_ALL && rest.length) made.push({ title: 'Còn lại', desc: '', words: rest });
+    else rest.forEach((w, j) => made[made.length - 1 - j]?.words.push(w));
+    if (rest.length > made.length && !process.env.KJ_ALL) errors.push(`${course} level ${level}: ${rest.length - made.length} extra words do not fit`);
+    const per = Math.ceil(made.length / 6);
+    const first = Math.max(...base) + 1;
+    made.forEach((l, j) => {
+      const part = Math.floor(j / per);
+      if (j % per === 0) {
+        const titles = [...new Set(made.slice(j, j + per).map((x) => x.title.replace(/ \d+$/, '')))];
+        cUnits.push({ unit: first + part, level, title: `Phần ${4 + part}: ${titles[0]} và hơn thế`, desc: titles.slice(0, 5).join(', '), color: COLORS[part], course });
+      }
+      const lesson = { id: `${course}${level}x${String(j + 1).padStart(2, '0')}`, title: l.title, desc: l.desc, icon: [...l.words[0][0].split('|')[0].split(':')[0]][0], unit: first + part, course, words: [] };
+      cLessons.push(lesson);
+      for (const [line, where] of l.words) addWord(line, where, lesson);
+    });
+  }
+  cUnits.sort((a, b) => a.unit - b.unit);
+  const pos = new Map(cLessons.map((l, i) => [l, i]));
+  cLessons.sort((a, b) => a.unit - b.unit || pos.get(a) - pos.get(b));
   const ids = new Set();
   for (const l of cLessons) {
     if (ids.has(l.id)) errors.push(`${file}: duplicate lesson id ${l.id}`);
     ids.add(l.id);
-    if (l.words.length < 10 || l.words.length > 14) errors.push(`${file}: lesson ${l.id} has ${l.words.length} words (expected 10–14)`);
+    if ((l.words.length < 10 || l.words.length > 14) && !process.env.KJ_ALL) errors.push(`${file}: lesson ${l.id} has ${l.words.length} words (expected 10–14)`);
   }
   for (const level of new Set(cUnits.map((u) => u.level))) {
     const us = new Set(cUnits.filter((u) => u.level === level).map((u) => u.unit));
@@ -417,6 +485,25 @@ const ko = scriptCourse('korean.txt', 'ko', romanizeKo);
 const ja = scriptCourse('japanese.txt', 'ja', romanizeJa);
 if (process.argv.includes('--roman')) for (const c of [ko, ja]) for (const l of c.lessons) for (const w of l.words) console.log(`${w.hanzi}\t${w.pinyin}\t${w.ex.py.join(' ')}`);
 
+fs.writeFileSync(path.join(root, 'scripts/.kj-src.json'), JSON.stringify(srcOf));
+if (process.env.KJ_ALL) {
+  // candidate lines the builder rejects (duplicates, bad readings…) are removed from the extra files
+  const mine = errors.filter((e) => /^(ko|ja)-extra\/[^:]+:\d+:/.test(e));
+  const byFile = new Map();
+  for (const e of mine) {
+    const [f, n] = e.split(':');
+    byFile.set(f, [...(byFile.get(f) ?? []), Number(n)]);
+  }
+  for (const [f, ns] of byFile) {
+    const file = path.join(root, 'scripts', f);
+    fs.writeFileSync(file, fs.readFileSync(file, 'utf8').split('\n').filter((_, i) => !ns.includes(i + 1)).join('\n'));
+  }
+  if (mine.length) {
+    console.error(mine.join('\n'));
+    console.error(`removed ${new Set(mine.map((e) => e.split(':').slice(0, 2).join(':'))).size} rejected candidate line(s); run again`);
+    process.exit(2);
+  }
+}
 if (errors.length) {
   console.error(errors.join('\n'));
   process.exit(1);

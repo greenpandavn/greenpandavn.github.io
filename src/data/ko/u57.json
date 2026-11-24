@@ -1,0 +1,133 @@
+{
+ "units": [
+  {"unit":57,"level":5,"title":"Phần 7: Lao động và phúc lợi và hơn thế","desc":"Lao động và phúc lợi, Toán học và thiên văn, Kiến trúc và quy hoạch, Truyền thông học, Danh từ trừu tượng học thuật","color":"grape","course":"ko"}
+ ],
+ "lessons": [
+  {"id":"ko5x28","title":"Lao động và phúc lợi","desc":"Chính sách xã hội","icon":"단","unit":57,"course":"ko","order":3190,"words":[
+   {"id":"ko5x28-단체교섭","hanzi":"단체교섭","pinyin":"danchegyoseop","vi":"thương lượng tập thể","ex":{"tokens":["회사와","단체교섭을","진행합니다","."],"py":["hoesawa","danchegyoseobeul","jinhaenghamnida","."],"vi":"Tiến hành thương lượng tập thể với công ty.","alts":[]}},
+   {"id":"ko5x28-최저임금","hanzi":"최저임금","pinyin":"choejeoimgeum","vi":"lương tối thiểu","ex":{"tokens":["최저임금이","인상되었습니다","."],"py":["choejeoimgeumi","insangdoeeotseumnida","."],"vi":"Lương tối thiểu đã được tăng.","alts":[]}},
+   {"id":"ko5x28-비정규직","hanzi":"비정규직","pinyin":"bijeonggyujik","vi":"lao động không chính thức","ex":{"tokens":["비정규직","문제가","심각합니다","."],"py":["bijeonggyujik","munjega","simgakamnida","."],"vi":"Vấn đề lao động không chính thức nghiêm trọng.","alts":[]}},
+   {"id":"ko5x28-해고","hanzi":"해고","pinyin":"haego","vi":"sự sa thải","ex":{"tokens":["부당한","해고를","당했습니다","."],"py":["budanghan","haegoreul","danghaetseumnida","."],"vi":"Đã bị sa thải bất công.","alts":[]}},
+   {"id":"ko5x28-실업급여","hanzi":"실업급여","pinyin":"sireopgeubyeo","vi":"trợ cấp thất nghiệp","ex":{"tokens":["실업급여를","신청했습니다","."],"py":["sireopgeubyeoreul","sincheonghaetseumnida","."],"vi":"Tôi đã xin trợ cấp thất nghiệp.","alts":[]}},
+   {"id":"ko5x28-산업재해","hanzi":"산업재해","pinyin":"saneopjaehae","vi":"tai nạn lao động","ex":{"tokens":["산업재해를","예방해야","합니다","."],"py":["saneopjaehaereul","yebanghaeya","hamnida","."],"vi":"Phải phòng tránh tai nạn lao động.","alts":[]}},
+   {"id":"ko5x28-근로기준법","hanzi":"근로기준법","pinyin":"geullogijunbeop","vi":"luật tiêu chuẩn lao động","ex":{"tokens":["근로기준법을","지켜야","합니다","."],"py":["geullogijunbeobeul","jikyeoya","hamnida","."],"vi":"Phải tuân thủ luật tiêu chuẩn lao động.","alts":[]}},
+   {"id":"ko5x28-육아휴직","hanzi":"육아휴직","pinyin":"yugahyujik","vi":"nghỉ phép nuôi con","ex":{"tokens":["육아휴직을","사용했습니다","."],"py":["yugahyujigeul","sayonghaetseumnida","."],"vi":"Tôi đã dùng kỳ nghỉ phép nuôi con.","alts":[]}},
+   {"id":"ko5x28-정년","hanzi":"정년","pinyin":"jeongnyeon","vi":"tuổi nghỉ hưu quy định","ex":{"tokens":["정년이","연장되었습니다","."],"py":["jeongnyeoni","yeonjangdoeeotseumnida","."],"vi":"Tuổi nghỉ hưu đã được kéo dài.","alts":[]}},
+   {"id":"ko5x28-국민연금","hanzi":"국민연금","pinyin":"gungminyeongeum","vi":"lương hưu quốc dân","ex":{"tokens":["국민연금을","매달","냅니다","."],"py":["gungminyeongeumeul","maedal","naemnida","."],"vi":"Hằng tháng đóng lương hưu quốc dân.","alts":[]}},
+   {"id":"ko5x28-건강보험","hanzi":"건강보험","pinyin":"geongangboheom","vi":"bảo hiểm y tế","ex":{"tokens":["건강보험에","가입되어","있습니다","."],"py":["geongangboheome","gaipdoeeo","itseumnida","."],"vi":"Tôi đã tham gia bảo hiểm y tế.","alts":[]}},
+   {"id":"ko5x28-기초생활","hanzi":"기초생활","pinyin":"gichosaenghwal","vi":"mức sống cơ bản","ex":{"tokens":["기초생활","수급자를","지원합니다","."],"py":["gichosaenghwal","sugeupjareul","jiwonhamnida","."],"vi":"Hỗ trợ người nhận trợ cấp mức sống cơ bản.","alts":[]}}
+  ]},
+  {"id":"ko5x29","title":"Toán học và thiên văn","desc":"Thuật ngữ khoa học cơ bản","icon":"방","unit":57,"course":"ko","order":3200,"words":[
+   {"id":"ko5x29-방정식","hanzi":"방정식","pinyin":"bangjeongsik","vi":"phương trình","ex":{"tokens":["방정식을","풉니다","."],"py":["bangjeongsigeul","pumnida","."],"vi":"Giải phương trình.","alts":[]}},
+   {"id":"ko5x29-함수","hanzi":"함수","pinyin":"hamsu","vi":"hàm số","ex":{"tokens":["함수의","그래프를","그립니다","."],"py":["hamsuui","geuraepeureul","geurimnida","."],"vi":"Vẽ đồ thị hàm số.","alts":[]}},
+   {"id":"ko5x29-확률","hanzi":"확률","pinyin":"hwangnyul","vi":"xác suất","ex":{"tokens":["성공할","확률이","높습니다","."],"py":["seonggonghal","hwangnyuri","nopseumnida","."],"vi":"Xác suất thành công cao.","alts":[]}},
+   {"id":"ko5x29-기하학","hanzi":"기하학","pinyin":"gihahak","vi":"hình học","ex":{"tokens":["기하학","문제를","풉니다","."],"py":["gihahak","munjereul","pumnida","."],"vi":"Giải bài hình học.","alts":[]}},
+   {"id":"ko5x29-미적분","hanzi":"미적분","pinyin":"mijeokbun","vi":"vi tích phân","ex":{"tokens":["대학에서","미적분을","배웁니다","."],"py":["daehageseo","mijeokbuneul","baeumnida","."],"vi":"Học vi tích phân ở đại học.","alts":[]}},
+   {"id":"ko5x29-소수","hanzi":"소수","pinyin":"sosu","vi":"số thập phân; thiểu số","ex":{"tokens":["소수","둘째","자리까지","계산합니다","."],"py":["sosu","duljjae","jarikkaji","gyesanhamnida","."],"vi":"Tính đến chữ số thập phân thứ hai.","alts":[]}},
+   {"id":"ko5x29-정수","hanzi":"정수","pinyin":"jeongsu","vi":"số nguyên; máy lọc nước","ex":{"tokens":["정수만","입력하세요","."],"py":["jeongsuman","imnyeokaseyo","."],"vi":"Hãy chỉ nhập số nguyên.","alts":[]}},
+   {"id":"ko5x29-반지름","hanzi":"반지름","pinyin":"banjireum","vi":"bán kính","ex":{"tokens":["원의","반지름을","구합니다","."],"py":["wonui","banjireumeul","guhamnida","."],"vi":"Tìm bán kính hình tròn.","alts":[]}},
+   {"id":"ko5x29-둘레","hanzi":"둘레","pinyin":"dulle","vi":"chu vi","ex":{"tokens":["호수의","둘레를","걷습니다","."],"py":["hosuui","dullereul","geotseumnida","."],"vi":"Đi bộ quanh chu vi hồ.","alts":[]}},
+   {"id":"ko5x29-각도","hanzi":"각도","pinyin":"gakdo","vi":"góc độ","ex":{"tokens":["각도를","잽니다","."],"py":["gakdoreul","jaemnida","."],"vi":"Đo góc độ.","alts":[]}},
+   {"id":"ko5x29-대각선","hanzi":"대각선","pinyin":"daegakseon","vi":"đường chéo","ex":{"tokens":["대각선을","긋습니다","."],"py":["daegakseoneul","geutseumnida","."],"vi":"Kẻ đường chéo.","alts":[]}},
+   {"id":"ko5x29-평행","hanzi":"평행","pinyin":"pyeonghaeng","vi":"song song","ex":{"tokens":["두","선이","평행입니다","."],"py":["du","seoni","pyeonghaengimnida","."],"vi":"Hai đường thẳng song song.","alts":[]}}
+  ]},
+  {"id":"ko5x30","title":"Kiến trúc và quy hoạch","desc":"Đô thị học","icon":"도","unit":57,"course":"ko","order":3210,"words":[
+   {"id":"ko5x30-도시계획","hanzi":"도시계획","pinyin":"dosigyehoek","vi":"quy hoạch đô thị","ex":{"tokens":["도시계획을","새로","세웁니다","."],"py":["dosigyehoegeul","saero","seumnida","."],"vi":"Lập mới quy hoạch đô thị.","alts":[]}},
+   {"id":"ko5x30-재건축","hanzi":"재건축","pinyin":"jaegeonchuk","vi":"việc xây lại","ex":{"tokens":["아파트","재건축이","결정되었습니다","."],"py":["apateu","jaegeonchugi","gyeoljeongdoeeotseumnida","."],"vi":"Việc xây lại chung cư đã được quyết định.","alts":[]}},
+   {"id":"ko5x30-용적률","hanzi":"용적률","pinyin":"yongjeongnyul","vi":"hệ số sử dụng đất","ex":{"tokens":["용적률을","높였습니다","."],"py":["yongjeongnyureul","nopyeotseumnida","."],"vi":"Đã nâng hệ số sử dụng đất.","alts":[]}},
+   {"id":"ko5x30-그린벨트","hanzi":"그린벨트","pinyin":"geurinbelteu","vi":"vành đai xanh","ex":{"tokens":["그린벨트를","해제했습니다","."],"py":["geurinbelteureul","haejehaetseumnida","."],"vi":"Đã gỡ bỏ vành đai xanh.","alts":[]}},
+   {"id":"ko5x30-상하수도","hanzi":"상하수도","pinyin":"sanghasudo","vi":"hệ thống cấp thoát nước","ex":{"tokens":["상하수도","공사를","합니다","."],"py":["sanghasudo","gongsareul","hamnida","."],"vi":"Thi công hệ thống cấp thoát nước.","alts":[]}},
+   {"id":"ko5x30-설계도","hanzi":"설계도","pinyin":"seolgyedo","vi":"bản vẽ thiết kế","ex":{"tokens":["건물","설계도를","검토합니다","."],"py":["geonmul","seolgyedoreul","geomtohamnida","."],"vi":"Xem xét bản vẽ thiết kế tòa nhà.","alts":[]}},
+   {"id":"ko5x30-조감도","hanzi":"조감도","pinyin":"jogamdo","vi":"bản vẽ phối cảnh nhìn từ trên","ex":{"tokens":["새","단지의","조감도를","공개했습니다","."],"py":["sae","danjiui","jogamdoreul","gonggaehaetseumnida","."],"vi":"Đã công bố phối cảnh khu mới.","alts":[]}},
+   {"id":"ko5x30-시공","hanzi":"시공","pinyin":"sigong","vi":"việc thi công","ex":{"tokens":["시공","회사를","선정했습니다","."],"py":["sigong","hoesareul","seonjeonghaetseumnida","."],"vi":"Đã chọn công ty thi công.","alts":[]}},
+   {"id":"ko5x30-준공","hanzi":"준공","pinyin":"jungong","vi":"sự hoàn công","ex":{"tokens":["건물이","준공되었습니다","."],"py":["geonmuri","jungongdoeeotseumnida","."],"vi":"Tòa nhà đã hoàn công.","alts":[]}},
+   {"id":"ko5x30-내진설계","hanzi":"내진설계","pinyin":"naejinseolgye","vi":"thiết kế chống động đất","ex":{"tokens":["내진설계가","의무화되었습니다","."],"py":["naejinseolgyega","uimuhwadoeeotseumnida","."],"vi":"Thiết kế chống động đất đã thành bắt buộc.","alts":[]}},
+   {"id":"ko5x30-단열","hanzi":"단열","pinyin":"danyeol","vi":"sự cách nhiệt","ex":{"tokens":["단열이","잘","되는","집입니다","."],"py":["danyeori","jal","doeneun","jibimnida","."],"vi":"Đó là ngôi nhà cách nhiệt tốt.","alts":[]}},
+   {"id":"ko5x30-방음","hanzi":"방음","pinyin":"bangeum","vi":"sự cách âm","ex":{"tokens":["방음","시설을","설치했습니다","."],"py":["bangeum","siseoreul","seolchihaetseumnida","."],"vi":"Đã lắp thiết bị cách âm.","alts":[]}}
+  ]},
+  {"id":"ko5x31","title":"Truyền thông học","desc":"Lý luận truyền thông","icon":"대","unit":57,"course":"ko","order":3220,"words":[
+   {"id":"ko5x31-대중매체","hanzi":"대중매체","pinyin":"daejungmaeche","vi":"phương tiện truyền thông đại chúng","ex":{"tokens":["대중매체의","영향력이","큽니다","."],"py":["daejungmaecheui","yeonghyangnyeogi","keumnida","."],"vi":"Sức ảnh hưởng của truyền thông đại chúng rất lớn.","alts":[]}},
+   {"id":"ko5x31-공영방송","hanzi":"공영방송","pinyin":"gongyeongbangsong","vi":"đài truyền hình công","ex":{"tokens":["공영방송의","역할을","논의합니다","."],"py":["gongyeongbangsongui","yeokareul","nonuihamnida","."],"vi":"Bàn về vai trò của đài truyền hình công.","alts":[]}},
+   {"id":"ko5x31-구독자","hanzi":"구독자","pinyin":"gudokja","vi":"người đăng ký theo dõi","ex":{"tokens":["구독자가","백만","명을","넘었습니다","."],"py":["gudokjaga","baengman","myeongeul","neomeotseumnida","."],"vi":"Người đăng ký đã vượt một triệu.","alts":[]}},
+   {"id":"ko5x31-편파보도","hanzi":"편파보도","pinyin":"pyeonpabodo","vi":"đưa tin thiên lệch","ex":{"tokens":["편파보도를","비판합니다","."],"py":["pyeonpabodoreul","bipanhamnida","."],"vi":"Phê phán việc đưa tin thiên lệch.","alts":[]}},
+   {"id":"ko5x31-선정성","hanzi":"선정성","pinyin":"seonjeongseong","vi":"tính giật gân, khêu gợi","ex":{"tokens":["방송의","선정성이","문제입니다","."],"py":["bangsongui","seonjeongseongi","munjeimnida","."],"vi":"Tính giật gân của truyền hình là vấn đề.","alts":[]}},
+   {"id":"ko5x31-검열","hanzi":"검열","pinyin":"geomyeol","vi":"sự kiểm duyệt","ex":{"tokens":["언론","검열에","반대합니다","."],"py":["eollon","geomyeore","bandaehamnida","."],"vi":"Phản đối kiểm duyệt báo chí.","alts":[]}},
+   {"id":"ko5x31-표현의자유","hanzi":"표현의자유","pinyin":"pyohyeonuijayu","vi":"tự do biểu đạt","ex":{"tokens":["표현의자유를","보장해야","합니다","."],"py":["pyohyeonuijayureul","bojanghaeya","hamnida","."],"vi":"Phải bảo đảm tự do biểu đạt.","alts":[]}},
+   {"id":"ko5x31-알권리","hanzi":"알권리","pinyin":"algwolli","vi":"quyền được biết","ex":{"tokens":["국민의","알권리를","존중합니다","."],"py":["gungminui","algwollireul","jonjunghamnida","."],"vi":"Tôn trọng quyền được biết của người dân.","alts":[]}},
+   {"id":"ko5x31-사생활침해","hanzi":"사생활침해","pinyin":"sasaenghwalchimhae","vi":"xâm phạm đời tư","ex":{"tokens":["사생활침해","논란이","있습니다","."],"py":["sasaenghwalchimhae","nollani","itseumnida","."],"vi":"Có tranh cãi về xâm phạm đời tư.","alts":[]}},
+   {"id":"ko5x31-익명성","hanzi":"익명성","pinyin":"ingmyeongseong","vi":"tính ẩn danh","ex":{"tokens":["인터넷의","익명성을","악용합니다","."],"py":["inteonesui","ingmyeongseongeul","agyonghamnida","."],"vi":"Lợi dụng tính ẩn danh của internet.","alts":[]}},
+   {"id":"ko5x31-여론몰이","hanzi":"여론몰이","pinyin":"yeoronmori","vi":"sự dắt mũi dư luận","ex":{"tokens":["언론의","여론몰이를","경계합니다","."],"py":["eollonui","yeoronmorireul","gyeonggyehamnida","."],"vi":"Cảnh giác việc báo chí dắt mũi dư luận.","alts":[]}},
+   {"id":"ko5x31-유행어","hanzi":"유행어","pinyin":"yuhaengeo","vi":"từ ngữ thịnh hành","ex":{"tokens":["올해의","유행어를","뽑았습니다","."],"py":["olhaeui","yuhaengeoreul","ppobatseumnida","."],"vi":"Đã chọn từ ngữ thịnh hành của năm.","alts":[]}}
+  ]},
+  {"id":"ko5x32","title":"Danh từ trừu tượng học thuật","desc":"Hậu tố -성, -화, -력","icon":"다","unit":57,"course":"ko","order":3230,"words":[
+   {"id":"ko5x32-다양성","hanzi":"다양성","pinyin":"dayangseong","vi":"tính đa dạng","ex":{"tokens":["문화의","다양성을","존중합니다","."],"py":["munhwaui","dayangseongeul","jonjunghamnida","."],"vi":"Tôn trọng tính đa dạng văn hóa.","alts":[]}},
+   {"id":"ko5x32-전문성","hanzi":"전문성","pinyin":"jeonmunseong","vi":"tính chuyên môn","ex":{"tokens":["전문성을","키워야","합니다","."],"py":["jeonmunseongeul","kiwoya","hamnida","."],"vi":"Phải bồi dưỡng tính chuyên môn.","alts":[]}},
+   {"id":"ko5x32-공공성","hanzi":"공공성","pinyin":"gonggongseong","vi":"tính công cộng","ex":{"tokens":["의료의","공공성을","강화합니다","."],"py":["uiryoui","gonggongseongeul","ganghwahamnida","."],"vi":"Tăng cường tính công cộng của y tế.","alts":[]}},
+   {"id":"ko5x32-투명성","hanzi":"투명성","pinyin":"tumyeongseong","vi":"tính minh bạch","ex":{"tokens":["행정의","투명성을","높입니다","."],"py":["haengjeongui","tumyeongseongeul","nopimnida","."],"vi":"Nâng cao tính minh bạch của hành chính.","alts":[]}},
+   {"id":"ko5x32-효율성","hanzi":"효율성","pinyin":"hyoyulseong","vi":"tính hiệu suất","ex":{"tokens":["업무","효율성이","떨어졌습니다","."],"py":["eommu","hyoyulseongi","tteoreojyeotseumnida","."],"vi":"Tính hiệu suất công việc đã giảm.","alts":[]}},
+   {"id":"ko5x32-일관성","hanzi":"일관성","pinyin":"ilgwanseong","vi":"tính nhất quán","ex":{"tokens":["정책에","일관성이","없습니다","."],"py":["jeongchaege","ilgwanseongi","eopseumnida","."],"vi":"Chính sách không có tính nhất quán.","alts":[]}},
+   {"id":"ko5x32-지속가능성","hanzi":"지속가능성","pinyin":"jisokganeungseong","vi":"tính bền vững","ex":{"tokens":["지속가능성을","고려한","개발입니다","."],"py":["jisokganeungseongeul","goryeohan","gaebarimnida","."],"vi":"Đó là sự phát triển có tính đến tính bền vững.","alts":[]}},
+   {"id":"ko5x32-보편성","hanzi":"보편성","pinyin":"bopyeonseong","vi":"tính phổ quát","ex":{"tokens":["인권의","보편성을","강조합니다","."],"py":["ingwonui","bopyeonseongeul","gangjohamnida","."],"vi":"Nhấn mạnh tính phổ quát của nhân quyền.","alts":[]}},
+   {"id":"ko5x32-특수성","hanzi":"특수성","pinyin":"teuksuseong","vi":"tính đặc thù","ex":{"tokens":["지역의","특수성을","반영합니다","."],"py":["jiyeogui","teuksuseongeul","banyeonghamnida","."],"vi":"Phản ánh tính đặc thù của địa phương.","alts":[]}},
+   {"id":"ko5x32-정보화","hanzi":"정보화","pinyin":"jeongbohwa","vi":"thông tin hóa","ex":{"tokens":["정보화","사회로","변했습니다","."],"py":["jeongbohwa","sahoero","byeonhaetseumnida","."],"vi":"Đã chuyển thành xã hội thông tin hóa.","alts":[]}},
+   {"id":"ko5x32-산업화","hanzi":"산업화","pinyin":"saneopwa","vi":"công nghiệp hóa","ex":{"tokens":["산업화로","도시","인구가","늘었습니다","."],"py":["saneopwaro","dosi","inguga","neureotseumnida","."],"vi":"Dân số đô thị tăng do công nghiệp hóa.","alts":[]}},
+   {"id":"ko5x32-민주화","hanzi":"민주화","pinyin":"minjuhwa","vi":"dân chủ hóa","ex":{"tokens":["민주화","운동이","일어났습니다","."],"py":["minjuhwa","undongi","ireonatseumnida","."],"vi":"Phong trào dân chủ hóa đã nổ ra.","alts":[]}}
+  ]},
+  {"id":"ko5x33","title":"Quân sự và an ninh","desc":"Quốc phòng","icon":"국","unit":57,"course":"ko","order":3240,"words":[
+   {"id":"ko5x33-국방","hanzi":"국방","pinyin":"gukbang","vi":"quốc phòng","ex":{"tokens":["국방","예산을","늘렸습니다","."],"py":["gukbang","yesaneul","neullyeotseumnida","."],"vi":"Đã tăng ngân sách quốc phòng.","alts":[]}},
+   {"id":"ko5x33-입대","hanzi":"입대","pinyin":"ipdae","vi":"việc nhập ngũ","ex":{"tokens":["다음","달에","입대를","합니다","."],"py":["daeum","dare","ipdaereul","hamnida","."],"vi":"Tháng sau tôi nhập ngũ.","alts":[]}},
+   {"id":"ko5x33-제대","hanzi":"제대","pinyin":"jedae","vi":"việc xuất ngũ","ex":{"tokens":["작년에","제대를","했습니다","."],"py":["jangnyeone","jedaereul","haetseumnida","."],"vi":"Năm ngoái tôi đã xuất ngũ.","alts":[]}},
+   {"id":"ko5x33-육군","hanzi":"육군","pinyin":"yukgun","vi":"lục quân","ex":{"tokens":["형은","육군에서","복무했습니다","."],"py":["hyeongeun","yukguneseo","bongmuhaetseumnida","."],"vi":"Anh tôi đã phục vụ trong lục quân.","alts":[]}},
+   {"id":"ko5x33-해군","hanzi":"해군","pinyin":"haegun","vi":"hải quân","ex":{"tokens":["해군","함정이","출항했습니다","."],"py":["haegun","hamjeongi","chulhanghaetseumnida","."],"vi":"Tàu hải quân đã xuất cảng.","alts":[]}},
+   {"id":"ko5x33-공군","hanzi":"공군","pinyin":"gonggun","vi":"không quân","ex":{"tokens":["공군","조종사가","되고","싶습니다","."],"py":["gonggun","jojongsaga","doego","sipseumnida","."],"vi":"Tôi muốn thành phi công không quân.","alts":[]}},
+   {"id":"ko5x33-장교","hanzi":"장교","pinyin":"janggyo","vi":"sĩ quan","ex":{"tokens":["그는","육군","장교입니다","."],"py":["geuneun","yukgun","janggyoimnida","."],"vi":"Anh ấy là sĩ quan lục quân.","alts":[]}},
+   {"id":"ko5x33-병사","hanzi":"병사","pinyin":"byeongsa","vi":"binh sĩ","ex":{"tokens":["병사들이","훈련을","받습니다","."],"py":["byeongsadeuri","hullyeoneul","batseumnida","."],"vi":"Binh sĩ được huấn luyện.","alts":[]}},
+   {"id":"ko5x33-부대","hanzi":"부대","pinyin":"budae","vi":"đơn vị quân đội","ex":{"tokens":["부대로","복귀했습니다","."],"py":["budaero","bokgwihaetseumnida","."],"vi":"Đã trở về đơn vị.","alts":[]}},
+   {"id":"ko5x33-훈련소","hanzi":"훈련소","pinyin":"hullyeonso","vi":"trại huấn luyện","ex":{"tokens":["훈련소에서","오","주를","보냈습니다","."],"py":["hullyeonsoeseo","o","jureul","bonaetseumnida","."],"vi":"Đã trải qua năm tuần ở trại huấn luyện.","alts":[]}},
+   {"id":"ko5x33-미사일","hanzi":"미사일","pinyin":"misail","vi":"tên lửa","ex":{"tokens":["미사일을","발사했습니다","."],"py":["misaireul","balsahaetseumnida","."],"vi":"Đã phóng tên lửa.","alts":[]}},
+   {"id":"ko5x33-전투기","hanzi":"전투기","pinyin":"jeontugi","vi":"máy bay chiến đấu","ex":{"tokens":["전투기가","하늘을","납니다","."],"py":["jeontugiga","haneureul","namnida","."],"vi":"Máy bay chiến đấu bay trên trời.","alts":[]}}
+  ]},
+  {"id":"ko5x34","title":"Tội phạm và điều tra","desc":"Pháp y, hình sự","icon":"수","unit":57,"course":"ko","order":3250,"words":[
+   {"id":"ko5x34-수사","hanzi":"수사","pinyin":"susa","vi":"việc điều tra (hình sự)","ex":{"tokens":["경찰이","수사를","시작했습니다","."],"py":["gyeongchari","susareul","sijakaetseumnida","."],"vi":"Cảnh sát đã bắt đầu điều tra.","alts":[]}},
+   {"id":"ko5x34-진술","hanzi":"진술","pinyin":"jinsul","vi":"lời khai","ex":{"tokens":["진술이","서로","다릅니다","."],"py":["jinsuri","seoro","dareumnida","."],"vi":"Lời khai khác nhau.","alts":[]}},
+   {"id":"ko5x34-자백","hanzi":"자백","pinyin":"jabaek","vi":"sự thú tội","ex":{"tokens":["범인이","자백을","했습니다","."],"py":["beomini","jabaegeul","haetseumnida","."],"vi":"Thủ phạm đã thú tội.","alts":[]}},
+   {"id":"ko5x34-알리바이","hanzi":"알리바이","pinyin":"allibai","vi":"chứng cứ ngoại phạm","ex":{"tokens":["그에게는","알리바이가","있습니다","."],"py":["geuegeneun","allibaiga","itseumnida","."],"vi":"Anh ta có chứng cứ ngoại phạm.","alts":[]}},
+   {"id":"ko5x34-유전자감식","hanzi":"유전자감식","pinyin":"yujeonjagamsik","vi":"giám định gen","ex":{"tokens":["유전자감식으로","범인을","찾았습니다","."],"py":["yujeonjagamsigeuro","beomineul","chajatseumnida","."],"vi":"Đã tìm ra thủ phạm bằng giám định gen.","alts":[]}},
+   {"id":"ko5x34-부검","hanzi":"부검","pinyin":"bugeom","vi":"khám nghiệm tử thi","ex":{"tokens":["부검","결과가","나왔습니다","."],"py":["bugeom","gyeolgwaga","nawatseumnida","."],"vi":"Đã có kết quả khám nghiệm tử thi.","alts":[]}},
+   {"id":"ko5x34-압수","hanzi":"압수","pinyin":"apsu","vi":"sự tịch thu","ex":{"tokens":["증거물을","압수했습니다","."],"py":["jeunggeomureul","apsuhaetseumnida","."],"vi":"Đã tịch thu vật chứng.","alts":[]}},
+   {"id":"ko5x34-수색","hanzi":"수색","pinyin":"susaek","vi":"sự lục soát","ex":{"tokens":["집을","수색했습니다","."],"py":["jibeul","susaekaetseumnida","."],"vi":"Đã lục soát ngôi nhà.","alts":[]}},
+   {"id":"ko5x34-영장","hanzi":"영장","pinyin":"yeongjang","vi":"lệnh (bắt, khám)","ex":{"tokens":["법원이","영장을","발부했습니다","."],"py":["beobwoni","yeongjangeul","balbuhaetseumnida","."],"vi":"Tòa án đã ban hành lệnh.","alts":[]}},
+   {"id":"ko5x34-횡령","hanzi":"횡령","pinyin":"hoengnyeong","vi":"biển thủ","ex":{"tokens":["회사","돈을","횡령했습니다","."],"py":["hoesa","doneul","hoengnyeonghaetseumnida","."],"vi":"Đã biển thủ tiền công ty.","alts":[]}},
+   {"id":"ko5x34-탈세","hanzi":"탈세","pinyin":"talse","vi":"trốn thuế","ex":{"tokens":["탈세","혐의로","조사받습니다","."],"py":["talse","hyeomuiro","josabatseumnida","."],"vi":"Bị điều tra vì tình nghi trốn thuế.","alts":[]}},
+   {"id":"ko5x34-밀수","hanzi":"밀수","pinyin":"milsu","vi":"buôn lậu","ex":{"tokens":["밀수를","적발했습니다","."],"py":["milsureul","jeokbalhaetseumnida","."],"vi":"Đã phát hiện buôn lậu.","alts":[]}}
+  ]},
+  {"id":"ko5x35","title":"Thuế và bảo hiểm","desc":"Tài chính cá nhân nâng cao","icon":"소","unit":57,"course":"ko","order":3260,"words":[
+   {"id":"ko5x35-소득세","hanzi":"소득세","pinyin":"sodeukse","vi":"thuế thu nhập","ex":{"tokens":["소득세를","신고합니다","."],"py":["sodeuksereul","singohamnida","."],"vi":"Khai thuế thu nhập.","alts":[]}},
+   {"id":"ko5x35-부가가치세","hanzi":"부가가치세","pinyin":"bugagachise","vi":"thuế giá trị gia tăng","ex":{"tokens":["가격에","부가가치세가","포함됩니다","."],"py":["gagyeoge","bugagachisega","pohamdoemnida","."],"vi":"Giá đã gồm thuế giá trị gia tăng.","alts":[]}},
+   {"id":"ko5x35-재산세","hanzi":"재산세","pinyin":"jaesanse","vi":"thuế tài sản","ex":{"tokens":["재산세를","납부했습니다","."],"py":["jaesansereul","napbuhaetseumnida","."],"vi":"Đã nộp thuế tài sản.","alts":[]}},
+   {"id":"ko5x35-상속세","hanzi":"상속세","pinyin":"sangsokse","vi":"thuế thừa kế","ex":{"tokens":["상속세가","많이","나왔습니다","."],"py":["sangsoksega","mani","nawatseumnida","."],"vi":"Thuế thừa kế phải nộp rất nhiều.","alts":[]}},
+   {"id":"ko5x35-연말정산","hanzi":"연말정산","pinyin":"yeonmaljeongsan","vi":"quyết toán thuế cuối năm","ex":{"tokens":["연말정산","서류를","냅니다","."],"py":["yeonmaljeongsan","seoryureul","naemnida","."],"vi":"Nộp hồ sơ quyết toán thuế cuối năm.","alts":[]}},
+   {"id":"ko5x35-공제","hanzi":"공제","pinyin":"gongje","vi":"sự khấu trừ","ex":{"tokens":["세금","공제를","받았습니다","."],"py":["segeum","gongjereul","badatseumnida","."],"vi":"Đã được khấu trừ thuế.","alts":[]}},
+   {"id":"ko5x35-환급","hanzi":"환급","pinyin":"hwangeup","vi":"sự hoàn tiền","ex":{"tokens":["세금을","환급받았습니다","."],"py":["segeumeul","hwangeupbadatseumnida","."],"vi":"Đã được hoàn thuế.","alts":[]}},
+   {"id":"ko5x35-체납","hanzi":"체납","pinyin":"chenap","vi":"sự chậm nộp","ex":{"tokens":["세금","체납으로","벌금을","냅니다","."],"py":["segeum","chenabeuro","beolgeumeul","naemnida","."],"vi":"Nộp phạt vì chậm nộp thuế.","alts":[]}},
+   {"id":"ko5x35-보험료","hanzi":"보험료","pinyin":"boheomnyo","vi":"phí bảo hiểm","ex":{"tokens":["매달","보험료를","냅니다","."],"py":["maedal","boheomnyoreul","naemnida","."],"vi":"Hằng tháng đóng phí bảo hiểm.","alts":[]}},
+   {"id":"ko5x35-보험금","hanzi":"보험금","pinyin":"boheomgeum","vi":"tiền bảo hiểm chi trả","ex":{"tokens":["사고","후","보험금을","받았습니다","."],"py":["sago","hu","boheomgeumeul","badatseumnida","."],"vi":"Sau tai nạn đã nhận tiền bảo hiểm.","alts":[]}},
+   {"id":"ko5x35-가입자","hanzi":"가입자","pinyin":"gaipja","vi":"người tham gia","ex":{"tokens":["보험","가입자가","늘었습니다","."],"py":["boheom","gaipjaga","neureotseumnida","."],"vi":"Người tham gia bảo hiểm đã tăng.","alts":[]}},
+   {"id":"ko5x35-만기","hanzi":"만기","pinyin":"mangi","vi":"sự đáo hạn","ex":{"tokens":["적금이","만기가","되었습니다","."],"py":["jeokgeumi","mangiga","doeeotseumnida","."],"vi":"Khoản tiết kiệm đã đáo hạn.","alts":[]}}
+  ]},
+  {"id":"ko5x36","title":"Hàng không và hàng hải","desc":"Vận tải chuyên ngành","icon":"항","unit":57,"course":"ko","order":3270,"words":[
+   {"id":"ko5x36-항공사","hanzi":"항공사","pinyin":"hanggongsa","vi":"hãng hàng không","ex":{"tokens":["항공사에","예약을","문의합니다","."],"py":["hanggongsae","yeyageul","munuihamnida","."],"vi":"Hỏi hãng hàng không về đặt chỗ.","alts":[]}},
+   {"id":"ko5x36-관제탑","hanzi":"관제탑","pinyin":"gwanjetap","vi":"đài kiểm soát không lưu","ex":{"tokens":["관제탑의","지시를","따릅니다","."],"py":["gwanjetabui","jisireul","ttareumnida","."],"vi":"Làm theo chỉ thị của đài kiểm soát không lưu.","alts":[]}},
+   {"id":"ko5x36-활주로","hanzi":"활주로","pinyin":"hwaljuro","vi":"đường băng","ex":{"tokens":["비행기가","활주로에","착륙했습니다","."],"py":["bihaenggiga","hwaljuroe","changnyukaetseumnida","."],"vi":"Máy bay đã hạ cánh xuống đường băng.","alts":[]}},
+   {"id":"ko5x36-경유","hanzi":"경유","pinyin":"gyeongyu","vi":"sự quá cảnh","ex":{"tokens":["홍콩을","경유해서","갑니다","."],"py":["hongkongeul","gyeongyuhaeseo","gamnida","."],"vi":"Đi quá cảnh qua Hồng Kông.","alts":[]}},
+   {"id":"ko5x36-직항","hanzi":"직항","pinyin":"jikang","vi":"chuyến bay thẳng","ex":{"tokens":["하노이까지","직항이","있습니다","."],"py":["hanoikkaji","jikangi","itseumnida","."],"vi":"Có chuyến bay thẳng đến Hà Nội.","alts":[]}},
+   {"id":"ko5x36-난기류","hanzi":"난기류","pinyin":"nangiryu","vi":"nhiễu động không khí","ex":{"tokens":["난기류","때문에","비행기가","흔들립니다","."],"py":["nangiryu","ttaemune","bihaenggiga","heundeullimnida","."],"vi":"Máy bay rung lắc vì nhiễu động không khí.","alts":[]}},
+   {"id":"ko5x36-화물선","hanzi":"화물선","pinyin":"hwamulseon","vi":"tàu chở hàng","ex":{"tokens":["화물선이","항구에","들어옵니다","."],"py":["hwamulseoni","hanggue","deureoomnida","."],"vi":"Tàu chở hàng vào cảng.","alts":[]}},
+   {"id":"ko5x36-선장","hanzi":"선장","pinyin":"seonjang","vi":"thuyền trưởng","ex":{"tokens":["선장이","배를","지휘합니다","."],"py":["seonjangi","baereul","jihwihamnida","."],"vi":"Thuyền trưởng chỉ huy con tàu.","alts":[]}},
+   {"id":"ko5x36-선원","hanzi":"선원","pinyin":"seonwon","vi":"thủy thủ","ex":{"tokens":["선원들이","갑판에서","일합니다","."],"py":["seonwondeuri","gappaneseo","ilhamnida","."],"vi":"Thủy thủ làm việc trên boong.","alts":[]}},
+   {"id":"ko5x36-갑판","hanzi":"갑판","pinyin":"gappan","vi":"boong tàu","ex":{"tokens":["갑판에","나가","바다를","봅니다","."],"py":["gappane","naga","badareul","bomnida","."],"vi":"Ra boong tàu ngắm biển.","alts":[]}},
+   {"id":"ko5x36-부두","hanzi":"부두","pinyin":"budu","vi":"bến tàu","ex":{"tokens":["부두에","배가","정박해","있습니다","."],"py":["budue","baega","jeongbakae","itseumnida","."],"vi":"Tàu đang neo ở bến.","alts":[]}},
+   {"id":"ko5x36-항로","hanzi":"항로","pinyin":"hangno","vi":"tuyến đường (biển, bay)","ex":{"tokens":["새로운","항로를","개척했습니다","."],"py":["saeroun","hangnoreul","gaecheokaetseumnida","."],"vi":"Đã mở tuyến đường mới.","alts":[]}}
+  ]}
+ ]
+}

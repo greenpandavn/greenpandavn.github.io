@@ -1,0 +1,133 @@
+{
+ "units": [
+  {"unit":46,"level":4,"title":"Phần 6: Môi trường và năng lượng và hơn thế","desc":"Môi trường và năng lượng, Quan hệ quốc tế, Động từ trừu tượng, Tính từ nâng cao, Lịch sử và truyền thống","color":"sky","course":"ko"}
+ ],
+ "lessons": [
+  {"id":"ko4x19","title":"Môi trường và năng lượng 1","desc":"Bảo vệ thiên nhiên","icon":"환","unit":46,"course":"ko","order":2410,"words":[
+   {"id":"ko4x19-환경오염","hanzi":"환경오염","pinyin":"hwangyeongoyeom","vi":"ô nhiễm môi trường","ex":{"tokens":["환경오염이","심해지고","있습니다","."],"py":["hwangyeongoyeomi","simhaejigo","itseumnida","."],"vi":"Ô nhiễm môi trường đang nặng lên.","alts":[]}},
+   {"id":"ko4x19-대기오염","hanzi":"대기오염","pinyin":"daegioyeom","vi":"ô nhiễm không khí","ex":{"tokens":["대기오염으로","하늘이","뿌옇습니다","."],"py":["daegioyeomeuro","haneuri","ppuyeoseumnida","."],"vi":"Bầu trời mờ đục vì ô nhiễm không khí.","alts":[]}},
+   {"id":"ko4x19-수질오염","hanzi":"수질오염","pinyin":"sujiroyeom","vi":"ô nhiễm nguồn nước","ex":{"tokens":["수질오염을","막아야","합니다","."],"py":["sujiroyeomeul","magaya","hamnida","."],"vi":"Phải ngăn ô nhiễm nguồn nước.","alts":[]}},
+   {"id":"ko4x19-쓰레기장","hanzi":"쓰레기장","pinyin":"sseuregijang","vi":"bãi rác","ex":{"tokens":["쓰레기장이","가득","찼습니다","."],"py":["sseuregijangi","gadeuk","chatseumnida","."],"vi":"Bãi rác đã đầy.","alts":[]}},
+   {"id":"ko4x19-음식물쓰레기","hanzi":"음식물쓰레기","pinyin":"eumsingmulsseuregi","vi":"rác thực phẩm","ex":{"tokens":["음식물쓰레기를","줄입니다","."],"py":["eumsingmulsseuregireul","jurimnida","."],"vi":"Giảm rác thực phẩm.","alts":[]}},
+   {"id":"ko4x19-이산화탄소","hanzi":"이산화탄소","pinyin":"isanhwatanso","vi":"khí cacbonic","ex":{"tokens":["이산화탄소","배출을","줄입니다","."],"py":["isanhwatanso","baechureul","jurimnida","."],"vi":"Giảm phát thải khí cacbonic.","alts":[]}},
+   {"id":"ko4x19-온실가스","hanzi":"온실가스","pinyin":"onsilgaseu","vi":"khí nhà kính","ex":{"tokens":["온실가스가","지구를","덥게","합니다","."],"py":["onsilgaseuga","jigureul","deopge","hamnida","."],"vi":"Khí nhà kính làm trái đất nóng lên.","alts":[]}},
+   {"id":"ko4x19-오존층","hanzi":"오존층","pinyin":"ojoncheung","vi":"tầng ô-zôn","ex":{"tokens":["오존층이","파괴되고","있습니다","."],"py":["ojoncheungi","pagoedoego","itseumnida","."],"vi":"Tầng ô-zôn đang bị phá hủy.","alts":[]}},
+   {"id":"ko4x19-빙하","hanzi":"빙하","pinyin":"bingha","vi":"sông băng","ex":{"tokens":["빙하가","녹고","있습니다","."],"py":["binghaga","nokgo","itseumnida","."],"vi":"Sông băng đang tan.","alts":[]}},
+   {"id":"ko4x19-해수면","hanzi":"해수면","pinyin":"haesumyeon","vi":"mực nước biển","ex":{"tokens":["해수면이","올라갑니다","."],"py":["haesumyeoni","ollagamnida","."],"vi":"Mực nước biển dâng lên.","alts":[]}},
+   {"id":"ko4x19-태양열","hanzi":"태양열","pinyin":"taeyangyeol","vi":"nhiệt mặt trời","ex":{"tokens":["태양열로","물을","데웁니다","."],"py":["taeyangyeollo","mureul","deumnida","."],"vi":"Người ta đun nước bằng nhiệt mặt trời.","alts":[]}},
+   {"id":"ko4x19-풍력","hanzi":"풍력","pinyin":"pungnyeok","vi":"sức gió","ex":{"tokens":["풍력","발전소를","세웁니다","."],"py":["pungnyeok","baljeonsoreul","seumnida","."],"vi":"Họ xây nhà máy điện gió.","alts":[]}}
+  ]},
+  {"id":"ko4x20","title":"Môi trường và năng lượng 2","desc":"Bảo vệ thiên nhiên","icon":"원","unit":46,"course":"ko","order":2420,"words":[
+   {"id":"ko4x20-원자력","hanzi":"원자력","pinyin":"wonjaryeok","vi":"năng lượng nguyên tử","ex":{"tokens":["원자력","발전은","논란이","많습니다","."],"py":["wonjaryeok","baljeoneun","nollani","manseumnida","."],"vi":"Điện nguyên tử gây nhiều tranh cãi.","alts":[]}},
+   {"id":"ko4x20-발전소","hanzi":"발전소","pinyin":"baljeonso","vi":"nhà máy điện","ex":{"tokens":["발전소에서","전기를","만듭니다","."],"py":["baljeonsoeseo","jeongireul","mandeumnida","."],"vi":"Nhà máy điện sản xuất điện.","alts":[]}},
+   {"id":"ko4x20-석유","hanzi":"석유","pinyin":"seogyu","vi":"dầu mỏ","ex":{"tokens":["석유","가격이","올랐습니다","."],"py":["seogyu","gagyeogi","ollatseumnida","."],"vi":"Giá dầu mỏ đã tăng.","alts":[]}},
+   {"id":"ko4x20-석탄","hanzi":"석탄","pinyin":"seoktan","vi":"than đá","ex":{"tokens":["석탄","사용을","줄입니다","."],"py":["seoktan","sayongeul","jurimnida","."],"vi":"Giảm sử dụng than đá.","alts":[]}},
+   {"id":"ko4x20-천연가스","hanzi":"천연가스","pinyin":"cheonyeongaseu","vi":"khí thiên nhiên","ex":{"tokens":["천연가스를","수입합니다","."],"py":["cheonyeongaseureul","suipamnida","."],"vi":"Nhập khẩu khí thiên nhiên.","alts":[]}},
+   {"id":"ko4x20-연료","hanzi":"연료","pinyin":"yeollyo","vi":"nhiên liệu","ex":{"tokens":["자동차","연료가","떨어졌습니다","."],"py":["jadongcha","yeollyoga","tteoreojyeotseumnida","."],"vi":"Xe ô tô đã hết nhiên liệu.","alts":[]}},
+   {"id":"ko4x20-전기차","hanzi":"전기차","pinyin":"jeongicha","vi":"xe điện","ex":{"tokens":["전기차를","타는","사람이","늘었습니다","."],"py":["jeongichareul","taneun","sarami","neureotseumnida","."],"vi":"Người đi xe điện đã tăng.","alts":[]}},
+   {"id":"ko4x20-대중교통","hanzi":"대중교통","pinyin":"daejunggyotong","vi":"giao thông công cộng","ex":{"tokens":["대중교통을","이용합시다","."],"py":["daejunggyotongeul","iyonghapsida","."],"vi":"Chúng ta hãy dùng giao thông công cộng.","alts":[]}},
+   {"id":"ko4x20-야생동물","hanzi":"야생동물","pinyin":"yasaengdongmul","vi":"động vật hoang dã","ex":{"tokens":["야생동물을","보호합니다","."],"py":["yasaengdongmureul","bohohamnida","."],"vi":"Bảo vệ động vật hoang dã.","alts":[]}},
+   {"id":"ko4x20-서식지","hanzi":"서식지","pinyin":"seosikji","vi":"nơi sinh sống (động vật)","ex":{"tokens":["동물의","서식지가","사라집니다","."],"py":["dongmurui","seosikjiga","sarajimnida","."],"vi":"Nơi sinh sống của động vật đang biến mất.","alts":[]}},
+   {"id":"ko4x20-산림","hanzi":"산림","pinyin":"sallim","vi":"rừng núi","ex":{"tokens":["산림을","보호해야","합니다","."],"py":["sallimeul","bohohaeya","hamnida","."],"vi":"Phải bảo vệ rừng núi.","alts":[]}},
+   {"id":"ko4x20-습지","hanzi":"습지","pinyin":"seupji","vi":"vùng đất ngập nước","ex":{"tokens":["습지에","새가","많이","삽니다","."],"py":["seupjie","saega","mani","samnida","."],"vi":"Nhiều chim sống ở vùng đất ngập nước.","alts":[]}}
+  ]},
+  {"id":"ko4x21","title":"Quan hệ quốc tế","desc":"Thế giới và ngoại giao","icon":"선","unit":46,"course":"ko","order":2430,"words":[
+   {"id":"ko4x21-선진국","hanzi":"선진국","pinyin":"seonjinguk","vi":"nước phát triển","ex":{"tokens":["선진국의","경험을","배웁니다","."],"py":["seonjingugui","gyeongheomeul","baeumnida","."],"vi":"Học kinh nghiệm của nước phát triển.","alts":[]}},
+   {"id":"ko4x21-개발도상국","hanzi":"개발도상국","pinyin":"gaebaldosangguk","vi":"nước đang phát triển","ex":{"tokens":["개발도상국을","돕습니다","."],"py":["gaebaldosanggugeul","dopseumnida","."],"vi":"Giúp đỡ nước đang phát triển.","alts":[]}},
+   {"id":"ko4x21-강대국","hanzi":"강대국","pinyin":"gangdaeguk","vi":"cường quốc","ex":{"tokens":["강대국들이","회의를","합니다","."],"py":["gangdaegukdeuri","hoeuireul","hamnida","."],"vi":"Các cường quốc họp bàn.","alts":[]}},
+   {"id":"ko4x21-동맹","hanzi":"동맹","pinyin":"dongmaeng","vi":"đồng minh","ex":{"tokens":["두","나라는","동맹","관계입니다","."],"py":["du","naraneun","dongmaeng","gwangyeimnida","."],"vi":"Hai nước có quan hệ đồng minh.","alts":[]}},
+   {"id":"ko4x21-교류","hanzi":"교류","pinyin":"gyoryu","vi":"sự giao lưu","ex":{"tokens":["문화","교류가","활발합니다","."],"py":["munhwa","gyoryuga","hwalbalhamnida","."],"vi":"Giao lưu văn hóa sôi nổi.","alts":[]}},
+   {"id":"ko4x21-정상회담","hanzi":"정상회담","pinyin":"jeongsanghoedam","vi":"hội nghị thượng đỉnh","ex":{"tokens":["내일","정상회담이","열립니다","."],"py":["naeil","jeongsanghoedami","yeollimnida","."],"vi":"Ngày mai hội nghị thượng đỉnh diễn ra.","alts":[]}},
+   {"id":"ko4x21-대사","hanzi":"대사","pinyin":"daesa","vi":"đại sứ; lời thoại","ex":{"tokens":["한국","대사가","연설했습니다","."],"py":["hanguk","daesaga","yeonseolhaetseumnida","."],"vi":"Đại sứ Hàn Quốc đã phát biểu.","alts":[]}},
+   {"id":"ko4x21-영사관","hanzi":"영사관","pinyin":"yeongsagwan","vi":"lãnh sự quán","ex":{"tokens":["영사관에서","서류를","받습니다","."],"py":["yeongsagwaneseo","seoryureul","batseumnida","."],"vi":"Tôi nhận giấy tờ ở lãnh sự quán.","alts":[]}},
+   {"id":"ko4x21-국적","hanzi":"국적","pinyin":"gukjeok","vi":"quốc tịch","ex":{"tokens":["국적이","어디입니까","?"],"py":["gukjeogi","eodiimnikka","?"],"vi":"Quốc tịch của bạn là gì?","alts":[]}},
+   {"id":"ko4x21-영토","hanzi":"영토","pinyin":"yeongto","vi":"lãnh thổ","ex":{"tokens":["영토","문제로","갈등이","있습니다","."],"py":["yeongto","munjero","galdeungi","itseumnida","."],"vi":"Có mâu thuẫn vì vấn đề lãnh thổ.","alts":[]}},
+   {"id":"ko4x21-국제기구","hanzi":"국제기구","pinyin":"gukjegigu","vi":"tổ chức quốc tế","ex":{"tokens":["국제기구에서","일하고","싶습니다","."],"py":["gukjegigueseo","ilhago","sipseumnida","."],"vi":"Tôi muốn làm ở tổ chức quốc tế.","alts":[]}},
+   {"id":"ko4x21-원조","hanzi":"원조","pinyin":"wonjo","vi":"viện trợ","ex":{"tokens":["가난한","나라에","원조를","보냅니다","."],"py":["gananhan","narae","wonjoreul","bonaemnida","."],"vi":"Gửi viện trợ cho nước nghèo.","alts":[]}}
+  ]},
+  {"id":"ko4x22","title":"Động từ trừu tượng","desc":"Hành động khái quát","icon":"갖","unit":46,"course":"ko","order":2440,"words":[
+   {"id":"ko4x22-갖추다","hanzi":"갖추다","pinyin":"gatchuda","vi":"trang bị, có đủ","ex":{"tokens":["필요한","조건을","갖췄습니다","."],"py":["piryohan","jogeoneul","gatchwotseumnida","."],"vi":"Đã có đủ điều kiện cần thiết.","alts":[]}},
+   {"id":"ko4x22-드러나다","hanzi":"드러나다","pinyin":"deureonada","vi":"lộ ra","ex":{"tokens":["사실이","드러났습니다","."],"py":["sasiri","deureonatseumnida","."],"vi":"Sự thật đã lộ ra.","alts":[]}},
+   {"id":"ko4x22-드러내다","hanzi":"드러내다","pinyin":"deureonaeda","vi":"để lộ, bộc lộ","ex":{"tokens":["감정을","드러냅니다","."],"py":["gamjeongeul","deureonaemnida","."],"vi":"Bộc lộ cảm xúc.","alts":[]}},
+   {"id":"ko4x22-나타내다","hanzi":"나타내다","pinyin":"natanaeda","vi":"biểu thị","ex":{"tokens":["이","그림은","평화를","나타냅니다","."],"py":["i","geurimeun","pyeonghwareul","natanaemnida","."],"vi":"Bức tranh này biểu thị hòa bình.","alts":[]}},
+   {"id":"ko4x22-이끌다","hanzi":"이끌다","pinyin":"ikkeulda","vi":"dẫn dắt","ex":{"tokens":["그가","팀을","이끕니다","."],"py":["geuga","timeul","ikkeumnida","."],"vi":"Anh ấy dẫn dắt nhóm.","alts":[]}},
+   {"id":"ko4x22-맞서다","hanzi":"맞서다","pinyin":"matseoda","vi":"đối đầu","ex":{"tokens":["어려움에","맞섭니다","."],"py":["eoryeoume","matseomnida","."],"vi":"Đối đầu với khó khăn.","alts":[]}},
+   {"id":"ko4x22-벗어나다","hanzi":"벗어나다","pinyin":"beoseonada","vi":"thoát khỏi","ex":{"tokens":["위험에서","벗어났습니다","."],"py":["wiheomeseo","beoseonatseumnida","."],"vi":"Đã thoát khỏi nguy hiểm.","alts":[]}},
+   {"id":"ko4x22-이어지다","hanzi":"이어지다","pinyin":"ieojida","vi":"được nối tiếp","ex":{"tokens":["회의가","밤까지","이어졌습니다","."],"py":["hoeuiga","bamkkaji","ieojyeotseumnida","."],"vi":"Cuộc họp kéo dài nối tiếp đến đêm.","alts":[]}},
+   {"id":"ko4x22-거치다","hanzi":"거치다","pinyin":"geochida","vi":"đi qua, trải qua","ex":{"tokens":["여러","단계를","거칩니다","."],"py":["yeoreo","dangyereul","geochimnida","."],"vi":"Trải qua nhiều bước.","alts":[]}},
+   {"id":"ko4x22-미치다","hanzi":"미치다","pinyin":"michida","vi":"gây (ảnh hưởng); điên","ex":{"tokens":["날씨가","농사에","영향을","미칩니다","."],"py":["nalssiga","nongsae","yeonghyangeul","michimnida","."],"vi":"Thời tiết gây ảnh hưởng đến việc nhà nông.","alts":[]}},
+   {"id":"ko4x22-끼치다","hanzi":"끼치다","pinyin":"kkichida","vi":"gây ra (phiền, hại)","ex":{"tokens":["주변","사람에게","피해를","끼쳤습니다","."],"py":["jubyeon","saramege","pihaereul","kkichyeotseumnida","."],"vi":"Đã gây hại cho người xung quanh.","alts":[]}},
+   {"id":"ko4x22-달하다","hanzi":"달하다","pinyin":"dalhada","vi":"đạt đến (con số)","ex":{"tokens":["관객이","백만","명에","달했습니다","."],"py":["gwangaegi","baengman","myeonge","dalhaetseumnida","."],"vi":"Khán giả đã đạt đến một triệu người.","alts":[]}}
+  ]},
+  {"id":"ko4x23","title":"Tính từ nâng cao","desc":"Đánh giá và miêu tả","icon":"뛰","unit":46,"course":"ko","order":2450,"words":[
+   {"id":"ko4x23-뛰어나다","hanzi":"뛰어나다","pinyin":"ttwieonada","vi":"vượt trội","ex":{"tokens":["그는","실력이","뛰어납니다","."],"py":["geuneun","sillyeogi","ttwieonamnida","."],"vi":"Anh ấy có thực lực vượt trội.","alts":[]}},
+   {"id":"ko4x23-우수하다","hanzi":"우수하다","pinyin":"usuhada","vi":"ưu tú","ex":{"tokens":["성적이","우수합니다","."],"py":["seongjeogi","usuhamnida","."],"vi":"Thành tích ưu tú.","alts":[]}},
+   {"id":"ko4x23-풍부하다","hanzi":"풍부하다","pinyin":"pungbuhada","vi":"phong phú","ex":{"tokens":["경험이","풍부합니다","."],"py":["gyeongheomi","pungbuhamnida","."],"vi":"Kinh nghiệm phong phú.","alts":[]}},
+   {"id":"ko4x23-독특하다","hanzi":"독특하다","pinyin":"dokteukada","vi":"độc đáo","ex":{"tokens":["디자인이","독특합니다","."],"py":["dijaini","dokteukamnida","."],"vi":"Thiết kế độc đáo.","alts":[]}},
+   {"id":"ko4x23-섬세하다","hanzi":"섬세하다","pinyin":"seomsehada","vi":"tinh xảo, tinh tế","ex":{"tokens":["그림이","섬세합니다","."],"py":["geurimi","seomsehamnida","."],"vi":"Bức tranh tinh xảo.","alts":[]}},
+   {"id":"ko4x23-정교하다","hanzi":"정교하다","pinyin":"jeonggyohada","vi":"tinh vi","ex":{"tokens":["이","시계는","정교합니다","."],"py":["i","sigyeneun","jeonggyohamnida","."],"vi":"Chiếc đồng hồ này tinh vi.","alts":[]}},
+   {"id":"ko4x23-원활하다","hanzi":"원활하다","pinyin":"wonhwalhada","vi":"trôi chảy, suôn sẻ","ex":{"tokens":["교통이","원활합니다","."],"py":["gyotongi","wonhwalhamnida","."],"vi":"Giao thông thông suốt.","alts":[]}},
+   {"id":"ko4x23-안정되다","hanzi":"안정되다","pinyin":"anjeongdoeda","vi":"ổn định","ex":{"tokens":["생활이","안정됐습니다","."],"py":["saenghwari","anjeongdwaetseumnida","."],"vi":"Cuộc sống đã ổn định.","alts":[]}},
+   {"id":"ko4x23-불안정하다","hanzi":"불안정하다","pinyin":"buranjeonghada","vi":"bất ổn","ex":{"tokens":["직업이","불안정합니다","."],"py":["jigeobi","buranjeonghamnida","."],"vi":"Nghề nghiệp bất ổn.","alts":[]}},
+   {"id":"ko4x23-치열하다","hanzi":"치열하다","pinyin":"chiyeolhada","vi":"khốc liệt","ex":{"tokens":["경쟁이","치열합니다","."],"py":["gyeongjaengi","chiyeolhamnida","."],"vi":"Cạnh tranh khốc liệt.","alts":[]}},
+   {"id":"ko4x23-심하다","hanzi":"심하다","pinyin":"simhada","vi":"nặng, quá mức","ex":{"tokens":["교통","체증이","심합니다","."],"py":["gyotong","chejeungi","simhamnida","."],"vi":"Tắc đường rất nặng.","alts":[]}},
+   {"id":"ko4x23-가혹하다","hanzi":"가혹하다","pinyin":"gahokada","vi":"hà khắc","ex":{"tokens":["처벌이","가혹합니다","."],"py":["cheobeori","gahokamnida","."],"vi":"Hình phạt hà khắc.","alts":[]}}
+  ]},
+  {"id":"ko4x24","title":"Lịch sử và truyền thống 1","desc":"Quá khứ, phong tục","icon":"역","unit":46,"course":"ko","order":2460,"words":[
+   {"id":"ko4x24-역사가","hanzi":"역사가","pinyin":"yeoksaga","vi":"nhà sử học","ex":{"tokens":["역사가가","책을","썼습니다","."],"py":["yeoksagaga","chaegeul","sseotseumnida","."],"vi":"Nhà sử học đã viết sách.","alts":[]}},
+   {"id":"ko4x24-고대","hanzi":"고대","pinyin":"godae","vi":"thời cổ đại","ex":{"tokens":["고대","문명을","연구합니다","."],"py":["godae","munmyeongeul","yeonguhamnida","."],"vi":"Nghiên cứu văn minh cổ đại.","alts":[]}},
+   {"id":"ko4x24-중세","hanzi":"중세","pinyin":"jungse","vi":"thời trung cổ","ex":{"tokens":["중세","유럽의","성을","봅니다","."],"py":["jungse","yureobui","seongeul","bomnida","."],"vi":"Tôi xem lâu đài châu Âu thời trung cổ.","alts":[]}},
+   {"id":"ko4x24-현대","hanzi":"현대","pinyin":"hyeondae","vi":"thời hiện đại","ex":{"tokens":["현대","사회는","빠르게","변합니다","."],"py":["hyeondae","sahoeneun","ppareuge","byeonhamnida","."],"vi":"Xã hội hiện đại thay đổi nhanh.","alts":[]}},
+   {"id":"ko4x24-왕조","hanzi":"왕조","pinyin":"wangjo","vi":"vương triều","ex":{"tokens":["조선","왕조는","오백","년","동안","이어졌습니다","."],"py":["joseon","wangjoneun","obaek","nyeon","dongan","ieojyeotseumnida","."],"vi":"Vương triều Joseon kéo dài năm trăm năm.","alts":[]}},
+   {"id":"ko4x24-왕비","hanzi":"왕비","pinyin":"wangbi","vi":"hoàng hậu","ex":{"tokens":["왕비가","궁에","살았습니다","."],"py":["wangbiga","gunge","saratseumnida","."],"vi":"Hoàng hậu đã sống trong cung.","alts":[]}},
+   {"id":"ko4x24-신하","hanzi":"신하","pinyin":"sinha","vi":"bề tôi","ex":{"tokens":["신하들이","왕에게","절을","했습니다","."],"py":["sinhadeuri","wangege","jeoreul","haetseumnida","."],"vi":"Các bề tôi đã lạy vua.","alts":[]}},
+   {"id":"ko4x24-백성","hanzi":"백성","pinyin":"baekseong","vi":"thần dân, bách tính","ex":{"tokens":["왕이","백성을","사랑했습니다","."],"py":["wangi","baekseongeul","saranghaetseumnida","."],"vi":"Nhà vua yêu thương bách tính.","alts":[]}},
+   {"id":"ko4x24-양반","hanzi":"양반","pinyin":"yangban","vi":"quý tộc thời xưa","ex":{"tokens":["옛날에","양반은","글을","배웠습니다","."],"py":["yennare","yangbaneun","geureul","baewotseumnida","."],"vi":"Ngày xưa quý tộc được học chữ.","alts":[]}},
+   {"id":"ko4x24-장군","hanzi":"장군","pinyin":"janggun","vi":"tướng quân","ex":{"tokens":["이순신","장군은","유명합니다","."],"py":["isunsin","jangguneun","yumyeonghamnida","."],"vi":"Tướng quân Yi Sun-sin rất nổi tiếng.","alts":[]}},
+   {"id":"ko4x24-전투","hanzi":"전투","pinyin":"jeontu","vi":"trận chiến","ex":{"tokens":["큰","전투가","있었습니다","."],"py":["keun","jeontuga","isseotseumnida","."],"vi":"Đã có một trận chiến lớn.","alts":[]}},
+   {"id":"ko4x24-무기","hanzi":"무기","pinyin":"mugi","vi":"vũ khí","ex":{"tokens":["박물관에서","옛날","무기를","봅니다","."],"py":["bangmulgwaneseo","yennal","mugireul","bomnida","."],"vi":"Tôi xem vũ khí thời xưa ở bảo tàng.","alts":[]}}
+  ]},
+  {"id":"ko4x25","title":"Lịch sử và truyền thống 2","desc":"Quá khứ, phong tục","icon":"유","unit":46,"course":"ko","order":2470,"words":[
+   {"id":"ko4x25-유물","hanzi":"유물","pinyin":"yumul","vi":"di vật","ex":{"tokens":["유물을","발굴했습니다","."],"py":["yumureul","balgulhaetseumnida","."],"vi":"Họ đã khai quật di vật.","alts":[]}},
+   {"id":"ko4x25-고분","hanzi":"고분","pinyin":"gobun","vi":"mộ cổ","ex":{"tokens":["경주에는","고분이","많습니다","."],"py":["gyeongjueneun","gobuni","manseumnida","."],"vi":"Ở Gyeongju có nhiều mộ cổ.","alts":[]}},
+   {"id":"ko4x25-궁궐","hanzi":"궁궐","pinyin":"gunggwol","vi":"cung điện vua","ex":{"tokens":["궁궐을","관람합니다","."],"py":["gunggworeul","gwallamhamnida","."],"vi":"Tôi tham quan cung điện vua.","alts":[]}},
+   {"id":"ko4x25-성곽","hanzi":"성곽","pinyin":"seonggwak","vi":"thành quách","ex":{"tokens":["성곽을","따라","걷습니다","."],"py":["seonggwageul","ttara","geotseumnida","."],"vi":"Tôi đi bộ dọc theo thành quách.","alts":[]}},
+   {"id":"ko4x25-풍습","hanzi":"풍습","pinyin":"pungseup","vi":"phong tục","ex":{"tokens":["나라마다","풍습이","다릅니다","."],"py":["naramada","pungseubi","dareumnida","."],"vi":"Mỗi nước phong tục một khác.","alts":[]}},
+   {"id":"ko4x25-관습","hanzi":"관습","pinyin":"gwanseup","vi":"tập quán","ex":{"tokens":["오래된","관습을","따릅니다","."],"py":["oraedoen","gwanseubeul","ttareumnida","."],"vi":"Làm theo tập quán lâu đời.","alts":[]}},
+   {"id":"ko4x25-예절교육","hanzi":"예절교육","pinyin":"yejeolgyoyuk","vi":"giáo dục lễ nghĩa","ex":{"tokens":["아이들에게","예절교육을","합니다","."],"py":["aideurege","yejeolgyoyugeul","hamnida","."],"vi":"Dạy lễ nghĩa cho trẻ.","alts":[]}},
+   {"id":"ko4x25-미신","hanzi":"미신","pinyin":"misin","vi":"mê tín","ex":{"tokens":["그것은","미신입니다","."],"py":["geugeoseun","misinimnida","."],"vi":"Đó là mê tín.","alts":[]}},
+   {"id":"ko4x25-전설","hanzi":"전설","pinyin":"jeonseol","vi":"truyền thuyết","ex":{"tokens":["이","산에는","전설이","있습니다","."],"py":["i","saneneun","jeonseori","itseumnida","."],"vi":"Ngọn núi này có truyền thuyết.","alts":[]}},
+   {"id":"ko4x25-신화","hanzi":"신화","pinyin":"sinhwa","vi":"thần thoại","ex":{"tokens":["그리스","신화를","읽습니다","."],"py":["geuriseu","sinhwareul","ikseumnida","."],"vi":"Tôi đọc thần thoại Hy Lạp.","alts":[]}},
+   {"id":"ko4x25-민속","hanzi":"민속","pinyin":"minsok","vi":"dân gian","ex":{"tokens":["민속","놀이를","체험합니다","."],"py":["minsok","norireul","cheheomhamnida","."],"vi":"Tôi trải nghiệm trò chơi dân gian.","alts":[]}},
+   {"id":"ko4x25-명절음식","hanzi":"명절음식","pinyin":"myeongjeoreumsik","vi":"món ăn ngày lễ tết","ex":{"tokens":["명절음식을","준비합니다","."],"py":["myeongjeoreumsigeul","junbihamnida","."],"vi":"Chuẩn bị món ăn ngày lễ tết.","alts":[]}}
+  ]},
+  {"id":"ko4x26","title":"Địa lý và đô thị","desc":"Vùng miền, quy hoạch","icon":"대","unit":46,"course":"ko","order":2480,"words":[
+   {"id":"ko4x26-대륙","hanzi":"대륙","pinyin":"daeryuk","vi":"đại lục","ex":{"tokens":["아시아는","가장","큰","대륙입니다","."],"py":["asianeun","gajang","keun","daeryugimnida","."],"vi":"Châu Á là đại lục lớn nhất.","alts":[]}},
+   {"id":"ko4x26-반도","hanzi":"반도","pinyin":"bando","vi":"bán đảo","ex":{"tokens":["한국은","반도","국가입니다","."],"py":["hangugeun","bando","gukgaimnida","."],"vi":"Hàn Quốc là quốc gia bán đảo.","alts":[]}},
+   {"id":"ko4x26-해안","hanzi":"해안","pinyin":"haean","vi":"bờ biển, duyên hải","ex":{"tokens":["해안","도로를","달립니다","."],"py":["haean","dororeul","dallimnida","."],"vi":"Tôi chạy xe trên đường ven biển.","alts":[]}},
+   {"id":"ko4x26-평야","hanzi":"평야","pinyin":"pyeongya","vi":"đồng bằng","ex":{"tokens":["넓은","평야에서","쌀을","기릅니다","."],"py":["neolbeun","pyeongyaeseo","ssareul","gireumnida","."],"vi":"Người ta trồng lúa trên đồng bằng rộng.","alts":[]}},
+   {"id":"ko4x26-산맥","hanzi":"산맥","pinyin":"sanmaek","vi":"dãy núi","ex":{"tokens":["이","산맥은","매우","깁니다","."],"py":["i","sanmaegeun","maeu","gimnida","."],"vi":"Dãy núi này rất dài.","alts":[]}},
+   {"id":"ko4x26-분지","hanzi":"분지","pinyin":"bunji","vi":"vùng lòng chảo","ex":{"tokens":["대구는","분지에","있습니다","."],"py":["daeguneun","bunjie","itseumnida","."],"vi":"Daegu nằm trong vùng lòng chảo.","alts":[]}},
+   {"id":"ko4x26-화산","hanzi":"화산","pinyin":"hwasan","vi":"núi lửa","ex":{"tokens":["화산이","폭발했습니다","."],"py":["hwasani","pokbalhaetseumnida","."],"vi":"Núi lửa đã phun trào.","alts":[]}},
+   {"id":"ko4x26-온대","hanzi":"온대","pinyin":"ondae","vi":"ôn đới","ex":{"tokens":["한국은","온대","기후입니다","."],"py":["hangugeun","ondae","gihuimnida","."],"vi":"Hàn Quốc có khí hậu ôn đới.","alts":[]}},
+   {"id":"ko4x26-열대","hanzi":"열대","pinyin":"yeoldae","vi":"nhiệt đới","ex":{"tokens":["열대","과일은","답니다","."],"py":["yeoldae","gwaireun","damnida","."],"vi":"Hoa quả nhiệt đới ngọt.","alts":[]}},
+   {"id":"ko4x26-적도","hanzi":"적도","pinyin":"jeokdo","vi":"xích đạo","ex":{"tokens":["적도","근처는","덥습니다","."],"py":["jeokdo","geuncheoneun","deopseumnida","."],"vi":"Gần xích đạo thì nóng.","alts":[]}},
+   {"id":"ko4x26-남극","hanzi":"남극","pinyin":"namgeuk","vi":"Nam Cực","ex":{"tokens":["남극에는","펭귄이","삽니다","."],"py":["namgeugeneun","penggwini","samnida","."],"vi":"Chim cánh cụt sống ở Nam Cực.","alts":[]}},
+   {"id":"ko4x26-북극","hanzi":"북극","pinyin":"bukgeuk","vi":"Bắc Cực","ex":{"tokens":["북극의","얼음이","녹습니다","."],"py":["bukgeugui","eoreumi","nokseumnida","."],"vi":"Băng Bắc Cực tan.","alts":[]}}
+  ]},
+  {"id":"ko4x27","title":"Vận tải và hậu cần","desc":"Hàng hóa, phương tiện","icon":"화","unit":46,"course":"ko","order":2490,"words":[
+   {"id":"ko4x27-화물","hanzi":"화물","pinyin":"hwamul","vi":"hàng hóa vận chuyển","ex":{"tokens":["화물을","배에","싣습니다","."],"py":["hwamureul","baee","sitseumnida","."],"vi":"Chất hàng lên tàu.","alts":[]}},
+   {"id":"ko4x27-화물차","hanzi":"화물차","pinyin":"hwamulcha","vi":"xe tải chở hàng","ex":{"tokens":["화물차가","고속도로를","달립니다","."],"py":["hwamulchaga","gosokdororeul","dallimnida","."],"vi":"Xe tải chạy trên đường cao tốc.","alts":[]}},
+   {"id":"ko4x27-운송","hanzi":"운송","pinyin":"unsong","vi":"việc vận tải","ex":{"tokens":["운송","비용이","올랐습니다","."],"py":["unsong","biyongi","ollatseumnida","."],"vi":"Chi phí vận tải đã tăng.","alts":[]}},
+   {"id":"ko4x27-물류","hanzi":"물류","pinyin":"mullyu","vi":"hậu cần, kho vận","ex":{"tokens":["물류","센터에서","일합니다","."],"py":["mullyu","senteoeseo","ilhamnida","."],"vi":"Tôi làm ở trung tâm kho vận.","alts":[]}},
+   {"id":"ko4x27-창고","hanzi":"창고","pinyin":"changgo","vi":"nhà kho","ex":{"tokens":["창고에","상자를","쌓습니다","."],"py":["changgoe","sangjareul","ssaseumnida","."],"vi":"Chất thùng trong nhà kho.","alts":[]}},
+   {"id":"ko4x27-항공편","hanzi":"항공편","pinyin":"hanggongpyeon","vi":"chuyến bay","ex":{"tokens":["항공편을","예약했습니다","."],"py":["hanggongpyeoneul","yeyakaetseumnida","."],"vi":"Tôi đã đặt chuyến bay.","alts":[]}},
+   {"id":"ko4x27-여객선","hanzi":"여객선","pinyin":"yeogaekseon","vi":"tàu chở khách","ex":{"tokens":["여객선을","타고","섬에","갑니다","."],"py":["yeogaekseoneul","tago","seome","gamnida","."],"vi":"Tôi đi tàu khách ra đảo.","alts":[]}},
+   {"id":"ko4x27-고속철도","hanzi":"고속철도","pinyin":"gosokcheoldo","vi":"đường sắt cao tốc","ex":{"tokens":["고속철도로","부산까지","갑니다","."],"py":["gosokcheoldoro","busankkaji","gamnida","."],"vi":"Tôi đi Busan bằng đường sắt cao tốc.","alts":[]}},
+   {"id":"ko4x27-환승역","hanzi":"환승역","pinyin":"hwanseungyeok","vi":"ga chuyển tuyến","ex":{"tokens":["다음","역은","환승역입니다","."],"py":["daeum","yeogeun","hwanseungyeogimnida","."],"vi":"Ga tiếp theo là ga chuyển tuyến.","alts":[]}},
+   {"id":"ko4x27-운행","hanzi":"운행","pinyin":"unhaeng","vi":"việc chạy tuyến","ex":{"tokens":["버스","운행이","중단됐습니다","."],"py":["beoseu","unhaengi","jungdandwaetseumnida","."],"vi":"Xe buýt đã ngừng chạy.","alts":[]}},
+   {"id":"ko4x27-승무원","hanzi":"승무원","pinyin":"seungmuwon","vi":"tiếp viên","ex":{"tokens":["승무원이","음료를","줍니다","."],"py":["seungmuwoni","eumnyoreul","jumnida","."],"vi":"Tiếp viên đưa đồ uống.","alts":[]}},
+   {"id":"ko4x27-기장","hanzi":"기장","pinyin":"gijang","vi":"cơ trưởng","ex":{"tokens":["기장이","방송을","합니다","."],"py":["gijangi","bangsongeul","hamnida","."],"vi":"Cơ trưởng thông báo.","alts":[]}}
+  ]}
+ ]
+}

@@ -1,0 +1,81 @@
+=6
+@Thuật ngữ kinh tế chính trị cao cấp|Báo chí chuyên sâu
+양적완화|nới lỏng định lượng|중앙은행이 양적완화를 단행했습니다.|Ngân hàng trung ương đã tiến hành nới lỏng định lượng.
+긴축재정|tài khóa thắt chặt|정부가 긴축재정을 실시합니다.|Chính phủ thực hiện tài khóa thắt chặt.
+경기부양|kích thích kinh tế|경기부양 대책을 내놓았습니다.|Đã đưa ra đối sách kích thích kinh tế.
+스태그플레이션|đình lạm|스태그플레이션 우려가 제기됩니다.|Mối lo đình lạm được nêu ra.
+기준금리|lãi suất cơ bản|기준금리를 동결했습니다.|Đã giữ nguyên lãi suất cơ bản.
+환율변동|biến động tỷ giá|환율변동이 수출에 영향을 줍니다.|Biến động tỷ giá ảnh hưởng đến xuất khẩu.
+유동성|tính thanh khoản|시장에 유동성을 공급합니다.|Cung cấp thanh khoản cho thị trường.
+부실채권|nợ xấu|은행의 부실채권이 늘었습니다.|Nợ xấu của ngân hàng đã tăng.
+구제금융|cứu trợ tài chính|구제금융을 신청했습니다.|Đã xin cứu trợ tài chính.
+지주회사|công ty mẹ nắm vốn|지주회사 체제로 전환했습니다.|Đã chuyển sang mô hình công ty mẹ nắm vốn.
+독과점|độc quyền nhóm|독과점을 규제합니다.|Quản chế độc quyền nhóm.
+담합|sự thông đồng (giá)|기업들의 가격 담합이 적발되었습니다.|Việc các doanh nghiệp thông đồng giá đã bị phát hiện.
+불공정거래|giao dịch không công bằng|불공정거래를 조사합니다.|Điều tra giao dịch không công bằng.
+규제완화|nới lỏng quy chế|기업들이 규제완화를 요구합니다.|Các doanh nghiệp yêu cầu nới lỏng quy chế.
+낙수효과|hiệu ứng nhỏ giọt|낙수효과가 나타나지 않았습니다.|Hiệu ứng nhỏ giọt đã không xuất hiện.
+기회비용|chi phí cơ hội|선택에는 기회비용이 따릅니다.|Lựa chọn kéo theo chi phí cơ hội.
+외부효과|ngoại tác|환경 오염은 부정적 외부효과입니다.|Ô nhiễm môi trường là ngoại tác tiêu cực.
+도덕적해이|rủi ro đạo đức|도덕적해이를 막아야 합니다.|Phải ngăn rủi ro đạo đức.
+정경유착|cấu kết chính trị và tài phiệt|정경유착을 끊어야 합니다.|Phải cắt đứt cấu kết chính trị và tài phiệt.
+관치금융|tài chính do nhà nước chi phối|관치금융의 폐해가 큽니다.|Tác hại của tài chính do nhà nước chi phối rất lớn.
+레임덕|vịt què (cuối nhiệm kỳ)|대통령이 레임덕에 빠졌습니다.|Tổng thống rơi vào thế vịt què.
+국정감사|thanh tra quốc chính|국회가 국정감사를 실시합니다.|Quốc hội tiến hành thanh tra quốc chính.
+당리당략|lợi ích phe đảng|당리당략을 떠나 협력합니다.|Hợp tác vượt lên lợi ích phe đảng.
+여야|đảng cầm quyền và đối lập|여야가 합의에 이르렀습니다.|Đảng cầm quyền và đối lập đã đạt thỏa thuận.
+대선|bầu cử tổng thống|대선 후보가 토론합니다.|Ứng viên bầu cử tổng thống tranh luận.
+총선|tổng tuyển cử quốc hội|총선 결과가 발표되었습니다.|Kết quả tổng tuyển cử đã được công bố.
+지지율|tỷ lệ ủng hộ|대통령의 지지율이 떨어졌습니다.|Tỷ lệ ủng hộ tổng thống đã giảm.
+부동층|cử tri chưa quyết|부동층의 표가 중요합니다.|Phiếu của cử tri chưa quyết rất quan trọng.
+개헌|sửa đổi hiến pháp|개헌 논의가 시작되었습니다.|Cuộc bàn luận sửa đổi hiến pháp đã bắt đầu.
+지방자치|tự trị địa phương|지방자치 제도가 정착되었습니다.|Chế độ tự trị địa phương đã ổn định.
+균형발전|phát triển cân bằng|지역 균형발전을 추진합니다.|Xúc tiến phát triển cân bằng vùng miền.
+@Ngôn ngữ công văn|Trang trọng, hành chính
+귀하|quý ngài (trong thư)|귀하의 건강을 기원합니다.|Kính chúc quý ngài sức khỏe.
+폐사|tệ xã, công ty chúng tôi (khiêm)|폐사 제품을 이용해 주셔서 감사합니다.|Cảm ơn quý khách đã dùng sản phẩm của công ty chúng tôi.
+귀사|quý công ty|귀사의 발전을 기원합니다.|Kính chúc quý công ty phát triển.
+양해|sự lượng thứ|불편을 드려 양해를 구합니다.|Xin lượng thứ vì đã gây bất tiện.
+송구하다|áy náy kính cẩn|답변이 늦어 송구합니다.|Tôi áy náy vì trả lời muộn.
+유념하다|lưu tâm|이 점을 유념해 주십시오.|Xin hãy lưu tâm điểm này.
+숙지하다|nắm rõ|안내 사항을 숙지하시기 바랍니다.|Mong quý vị nắm rõ các điều hướng dẫn.
+회신하다|hồi âm|금요일까지 회신해 주십시오.|Xin hồi âm trước thứ Sáu.
+참조하다|tham chiếu|첨부 문서를 참조하십시오.|Xin tham chiếu tài liệu đính kèm.
+기재하다|ghi vào (mẫu đơn)|이름과 주소를 기재합니다.|Ghi tên và địa chỉ.
+제출기한|hạn nộp|제출기한을 지켜 주십시오.|Xin giữ đúng hạn nộp.
+소정|đã quy định|소정의 양식을 작성합니다.|Điền mẫu đã quy định.
+별첨|đính kèm riêng|자세한 내용은 별첨 자료에 있습니다.|Nội dung chi tiết có ở tài liệu đính kèm riêng.
+상기|nêu trên|상기 내용을 확인합니다.|Xác nhận nội dung nêu trên.
+하기|dưới đây|하기 일정으로 진행합니다.|Tiến hành theo lịch trình dưới đây.
+해당|tương ứng, liên quan|해당 부서에 문의하십시오.|Xin hỏi bộ phận liên quan.
+일체|toàn bộ, mọi thứ|비용 일체를 부담합니다.|Chịu toàn bộ chi phí.
+추후|về sau|추후에 다시 연락드리겠습니다.|Về sau tôi sẽ liên lạc lại.
+금일|hôm nay (trang trọng)|금일 휴업합니다.|Hôm nay nghỉ kinh doanh.
+익일|ngày hôm sau (trang trọng)|익일 배송됩니다.|Giao hàng vào ngày hôm sau.
+작일|hôm qua (trang trọng)|작일 회의 내용을 보고합니다.|Báo cáo nội dung cuộc họp hôm qua.
+차주|tuần sau (trang trọng)|차주 월요일에 뵙겠습니다.|Hẹn gặp thứ Hai tuần sau.
+품의서|tờ trình xin ý kiến|품의서를 올렸습니다.|Đã trình tờ trình xin ý kiến.
+공문|công văn|공문을 발송했습니다.|Đã gửi công văn.
+직인|con dấu chức danh|서류에 직인을 찍습니다.|Đóng dấu chức danh lên giấy tờ.
+@Hiện tượng xã hội đương đại|Từ mới trên báo
+비혼|không kết hôn (chủ động)|비혼을 선택하는 사람이 늘었습니다.|Người chọn không kết hôn đã tăng.
+황혼이혼|ly hôn tuổi xế chiều|황혼이혼이 증가하는 추세입니다.|Ly hôn tuổi xế chiều có xu thế tăng.
+독박육아|một mình gánh việc nuôi con|독박육아로 지쳤습니다.|Kiệt sức vì một mình gánh việc nuôi con.
+경력단절|đứt quãng sự nghiệp|출산 후 경력단절을 겪었습니다.|Sau sinh đã bị đứt quãng sự nghiệp.
+세대갈등|xung đột thế hệ|세대갈등이 깊어지고 있습니다.|Xung đột thế hệ đang sâu thêm.
+젠더|giới (xã hội)|젠더 문제를 토론합니다.|Thảo luận vấn đề giới.
+혐오표현|phát ngôn thù ghét|혐오표현을 규제해야 합니다.|Phải quản chế phát ngôn thù ghét.
+갑질|hành vi cậy quyền chèn ép|직장 내 갑질을 신고했습니다.|Đã tố cáo hành vi cậy quyền chèn ép nơi làm việc.
+워라밸|cân bằng công việc và cuộc sống|워라밸을 중시하는 사람이 많습니다.|Nhiều người coi trọng cân bằng công việc và cuộc sống.
+번아웃|kiệt sức vì làm việc|번아웃 증상을 겪고 있습니다.|Đang gặp triệu chứng kiệt sức vì làm việc.
+고독사|chết trong cô độc|노인 고독사가 사회 문제입니다.|Người già chết trong cô độc là vấn đề xã hội.
+은둔형외톨이|người sống ẩn dật tách biệt|은둔형외톨이를 지원합니다.|Hỗ trợ người sống ẩn dật tách biệt.
+디지털격차|khoảng cách số|세대 간 디지털격차가 큽니다.|Khoảng cách số giữa các thế hệ lớn.
+가성비|hiệu quả so với giá|이 제품은 가성비가 좋습니다.|Sản phẩm này có hiệu quả so với giá tốt.
+소확행|hạnh phúc nhỏ mà chắc|커피 한 잔이 저의 소확행입니다.|Một tách cà phê là hạnh phúc nhỏ mà chắc của tôi.
+플랫폼노동|lao động nền tảng|플랫폼노동이 확산되고 있습니다.|Lao động nền tảng đang lan rộng.
+공유경제|kinh tế chia sẻ|공유경제 서비스를 이용합니다.|Dùng dịch vụ kinh tế chia sẻ.
+구독경제|kinh tế thuê bao|구독경제 시장이 커졌습니다.|Thị trường kinh tế thuê bao đã lớn lên.
+젠트리피케이션|chỉnh trang đô thị đẩy dân cũ đi|젠트리피케이션으로 임대료가 올랐습니다.|Tiền thuê tăng do chỉnh trang đô thị đẩy dân cũ đi.
+다문화가정|gia đình đa văn hóa|다문화가정이 늘고 있습니다.|Gia đình đa văn hóa đang tăng.
+이주노동자|lao động di trú|이주노동자의 권리를 보호합니다.|Bảo vệ quyền của lao động di trú.

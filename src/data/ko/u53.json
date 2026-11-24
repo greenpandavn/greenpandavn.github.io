@@ -3,7 +3,7 @@
   {"unit":53,"level":5,"title":"Phần 3: Ngôn ngữ học thuật","desc":"Động từ, tính từ, từ nối, tâm lý xã hội, quán ngữ","color":"grape","course":"ko"}
  ],
  "lessons": [
-  {"id":"ko511","title":"Động từ học thuật","desc":"Phân loại, dự đoán, áp dụng","icon":"학","unit":53,"course":"ko","order":710,"words":[
+  {"id":"ko511","title":"Động từ học thuật","desc":"Phân loại, dự đoán, áp dụng","icon":"학","unit":53,"course":"ko","order":2870,"words":[
    {"id":"ko511-예상하다","hanzi":"예상하다","pinyin":"yesanghada","vi":"dự đoán","ex":{"tokens":["결과는","예상했던","것과","다릅니다","."],"py":["gyeolgwaneun","yesanghaetdeon","geotgwa","dareumnida","."],"vi":"Kết quả khác với điều đã dự đoán.","alts":[]}},
    {"id":"ko511-적용하다","hanzi":"적용하다","pinyin":"jeogyonghada","vi":"áp dụng","ex":{"tokens":["새","규칙을","모든","학생에게","적용합니다","."],"py":["sae","gyuchigeul","modeun","haksaengege","jeogyonghamnida","."],"vi":"Quy tắc mới áp dụng cho mọi học sinh.","alts":[]}},
    {"id":"ko511-분류하다","hanzi":"분류하다","pinyin":"bullyuhada","vi":"phân loại","ex":{"tokens":["쓰레기를","종류별로","분류합니다","."],"py":["sseuregireul","jongnyubyeollo","bullyuhamnida","."],"vi":"Tôi phân loại rác theo từng loại.","alts":[]}},
@@ -17,7 +17,7 @@
    {"id":"ko511-확대하다","hanzi":"확대하다","pinyin":"hwakdaehada","vi":"mở rộng","ex":{"tokens":["회사가","사업을","확대했습니다","."],"py":["hoesaga","saeobeul","hwakdaehaetseumnida","."],"vi":"Công ty đã mở rộng kinh doanh.","alts":[]}},
    {"id":"ko511-축소하다","hanzi":"축소하다","pinyin":"chuksohada","vi":"thu hẹp","ex":{"tokens":["정부가","예산을","축소했습니다","."],"py":["jeongbuga","yesaneul","chuksohaetseumnida","."],"vi":"Chính phủ đã thu hẹp ngân sách.","alts":[]}}
   ]},
-  {"id":"ko512","title":"Tính từ học thuật","desc":"Tính chất, mức độ, đánh giá","icon":"성","unit":53,"course":"ko","order":720,"words":[
+  {"id":"ko512","title":"Tính từ học thuật","desc":"Tính chất, mức độ, đánh giá","icon":"성","unit":53,"course":"ko","order":2880,"words":[
    {"id":"ko512-적절하다","hanzi":"적절하다","pinyin":"jeokjeolhada","vi":"thích hợp","ex":{"tokens":["적절한","예를","들어","주세요","."],"py":["jeokjeolhan","yereul","deureo","juseyo","."],"vi":"Hãy nêu một ví dụ thích hợp.","alts":[]}},
    {"id":"ko512-효과적","hanzi":"효과적","pinyin":"hyogwajeok","vi":"hiệu quả","ex":{"tokens":["이","방법이","더","효과적입니다","."],"py":["i","bangbeobi","deo","hyogwajeogimnida","."],"vi":"Phương pháp này hiệu quả hơn.","alts":[]}},
    {"id":"ko512-긍정적","hanzi":"긍정적","pinyin":"geungjeongjeok","vi":"tích cực, lạc quan","ex":{"tokens":["그는","항상","긍정적으로","생각합니다","."],"py":["geuneun","hangsang","geungjeongjeogeuro","saenggakamnida","."],"vi":"Anh ấy luôn suy nghĩ tích cực.","alts":[]}},
@@ -31,7 +31,7 @@
    {"id":"ko512-막연하다","hanzi":"막연하다","pinyin":"magyeonhada","vi":"mơ hồ","ex":{"tokens":["미래에","대한","생각이","막연합니다","."],"py":["miraee","daehan","saenggagi","magyeonhamnida","."],"vi":"Suy nghĩ về tương lai còn mơ hồ.","alts":[]}},
    {"id":"ko512-급격하다","hanzi":"급격하다","pinyin":"geupgyeokada","vi":"đột ngột, nhanh chóng","ex":{"tokens":["기온이","급격하게","떨어졌습니다","."],"py":["gioni","geupgyeokage","tteoreojyeotseumnida","."],"vi":"Nhiệt độ đã giảm đột ngột.","alts":[]}}
   ]},
-  {"id":"ko513","title":"Từ nối học thuật","desc":"Lập luận, đối lập, kết luận","icon":"즉","unit":53,"course":"ko","order":730,"words":[
+  {"id":"ko513","title":"Từ nối học thuật","desc":"Lập luận, đối lập, kết luận","icon":"즉","unit":53,"course":"ko","order":2890,"words":[
    {"id":"ko513-즉","hanzi":"즉","pinyin":"jeuk","vi":"tức là","ex":{"tokens":["서울",",","즉","한국의","수도에","삽니다","."],"py":["seoul",",","jeuk","hangugui","sudoe","samnida","."],"vi":"Tôi sống ở Seoul, tức là thủ đô của Hàn Quốc.","alts":[]}},
    {"id":"ko513-반면에","hanzi":"반면에","pinyin":"banmyeone","vi":"trái lại, mặt khác","ex":{"tokens":["형은","조용합니다",",","반면에","동생은","활발합니다","."],"py":["hyeongeun","joyonghamnida",",","banmyeone","dongsaengeun","hwalbalhamnida","."],"vi":"Anh thì trầm lặng, trái lại em thì hoạt bát.","alts":[]}},
    {"id":"ko513-그러므로","hanzi":"그러므로","pinyin":"geureomeuro","vi":"vì thế cho nên","ex":{"tokens":["시간이","없습니다",",","그러므로","서둘러야","합니다","."],"py":["sigani","eopseumnida",",","geureomeuro","seodulleoya","hamnida","."],"vi":"Không có thời gian, vì vậy phải khẩn trương.","alts":[]}},
@@ -45,7 +45,7 @@
    {"id":"ko513-어쨌든","hanzi":"어쨌든","pinyin":"eojjaetdeun","vi":"dù sao đi nữa","ex":{"tokens":["어쨌든","내일은","꼭","오세요","."],"py":["eojjaetdeun","naeireun","kkok","oseyo","."],"vi":"Dù sao đi nữa ngày mai hãy nhất định đến.","alts":[]}},
    {"id":"ko513-한편","hanzi":"한편","pinyin":"hanpyeon","vi":"mặt khác, trong khi đó","ex":{"tokens":["한편","다른","팀은","연습을","계속했습니다","."],"py":["hanpyeon","dareun","timeun","yeonseubeul","gyesokaetseumnida","."],"vi":"Trong khi đó đội kia vẫn tiếp tục luyện tập.","alts":[]}}
   ]},
-  {"id":"ko514","title":"Tâm lý xã hội","desc":"Áp lực, đồng cảm, cô lập","icon":"심","unit":53,"course":"ko","order":740,"words":[
+  {"id":"ko514","title":"Tâm lý xã hội","desc":"Áp lực, đồng cảm, cô lập","icon":"심","unit":53,"course":"ko","order":2900,"words":[
    {"id":"ko514-압박","hanzi":"압박","pinyin":"apbak","vi":"áp lực, sức ép","ex":{"tokens":["그는","부모님의","압박을","느낍니다","."],"py":["geuneun","bumonimui","apbageul","neukkimnida","."],"vi":"Anh ấy cảm thấy áp lực từ bố mẹ.","alts":[]}},
    {"id":"ko514-공감하다","hanzi":"공감하다","pinyin":"gonggamhada","vi":"đồng cảm","ex":{"tokens":["친구의","이야기에","공감했습니다","."],"py":["chinguui","iyagie","gonggamhaetseumnida","."],"vi":"Tôi đã đồng cảm với câu chuyện của bạn.","alts":[]}},
    {"id":"ko514-소외감","hanzi":"소외감","pinyin":"sooegam","vi":"cảm giác bị bỏ rơi","ex":{"tokens":["새","학교에서","소외감을","느꼈습니다","."],"py":["sae","hakgyoeseo","sooegameul","neukkyeotseumnida","."],"vi":"Ở trường mới tôi đã thấy mình bị bỏ rơi.","alts":[]}},
@@ -59,7 +59,7 @@
    {"id":"ko514-위로하다","hanzi":"위로하다","pinyin":"wirohada","vi":"an ủi","ex":{"tokens":["슬퍼하는","친구를","위로했습니다","."],"py":["seulpeohaneun","chingureul","wirohaetseumnida","."],"vi":"Tôi đã an ủi người bạn đang buồn.","alts":[]}},
    {"id":"ko514-격려하다","hanzi":"격려하다","pinyin":"gyeongnyeohada","vi":"động viên, khích lệ","ex":{"tokens":["선생님이","학생들을","격려했습니다","."],"py":["seonsaengnimi","haksaengdeureul","gyeongnyeohaetseumnida","."],"vi":"Thầy giáo đã động viên các học sinh.","alts":[]}}
   ]},
-  {"id":"ko515","title":"Quán ngữ và cụm từ","desc":"Cách nói thường gặp","icon":"말","unit":53,"course":"ko","order":750,"words":[
+  {"id":"ko515","title":"Quán ngữ và cụm từ","desc":"Cách nói thường gặp","icon":"말","unit":53,"course":"ko","order":2910,"words":[
    {"id":"ko515-눈치","hanzi":"눈치","pinyin":"nunchi","vi":"sự tinh ý","ex":{"tokens":["그는","눈치가","빠릅니다","."],"py":["geuneun","nunchiga","ppareumnida","."],"vi":"Anh ấy rất tinh ý.","alts":[]}},
    {"id":"ko515-정","hanzi":"정","pinyin":"jeong","vi":"tình cảm gắn bó","ex":{"tokens":["한국","사람은","정이","많습니다","."],"py":["hanguk","sarameun","jeongi","manseumnida","."],"vi":"Người Hàn Quốc giàu tình cảm.","alts":[]}},
    {"id":"ko515-체면","hanzi":"체면","pinyin":"chemyeon","vi":"thể diện","ex":{"tokens":["그는","체면을","중요하게","생각합니다","."],"py":["geuneun","chemyeoneul","jungyohage","saenggakamnida","."],"vi":"Ông ấy coi trọng thể diện.","alts":[]}},

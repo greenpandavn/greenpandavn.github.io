@@ -1,0 +1,65 @@
+=5
+@Kiến trúc và quy hoạch|Đô thị học
+도시계획|quy hoạch đô thị|도시계획을 새로 세웁니다.|Lập mới quy hoạch đô thị.
+재건축|việc xây lại|아파트 재건축이 결정되었습니다.|Việc xây lại chung cư đã được quyết định.
+용적률|hệ số sử dụng đất|용적률을 높였습니다.|Đã nâng hệ số sử dụng đất.
+그린벨트|vành đai xanh|그린벨트를 해제했습니다.|Đã gỡ bỏ vành đai xanh.
+상하수도|hệ thống cấp thoát nước|상하수도 공사를 합니다.|Thi công hệ thống cấp thoát nước.
+설계도|bản vẽ thiết kế|건물 설계도를 검토합니다.|Xem xét bản vẽ thiết kế tòa nhà.
+조감도|bản vẽ phối cảnh nhìn từ trên|새 단지의 조감도를 공개했습니다.|Đã công bố phối cảnh khu mới.
+시공|việc thi công|시공 회사를 선정했습니다.|Đã chọn công ty thi công.
+준공|sự hoàn công|건물이 준공되었습니다.|Tòa nhà đã hoàn công.
+내진설계|thiết kế chống động đất|내진설계가 의무화되었습니다.|Thiết kế chống động đất đã thành bắt buộc.
+단열|sự cách nhiệt|단열이 잘 되는 집입니다.|Đó là ngôi nhà cách nhiệt tốt.
+방음|sự cách âm|방음 시설을 설치했습니다.|Đã lắp thiết bị cách âm.
+채광|sự lấy sáng|이 방은 채광이 좋습니다.|Phòng này lấy sáng tốt.
+통풍|sự thông gió|통풍이 잘 되어 시원합니다.|Thông gió tốt nên mát.
+한옥마을|làng nhà truyền thống Hàn|한옥마을을 관광합니다.|Tham quan làng nhà truyền thống Hàn.
+@Truyền thông học|Lý luận truyền thông
+대중매체|phương tiện truyền thông đại chúng|대중매체의 영향력이 큽니다.|Sức ảnh hưởng của truyền thông đại chúng rất lớn.
+공영방송|đài truyền hình công|공영방송의 역할을 논의합니다.|Bàn về vai trò của đài truyền hình công.
+구독자|người đăng ký theo dõi|구독자가 백만 명을 넘었습니다.|Người đăng ký đã vượt một triệu.
+편파보도|đưa tin thiên lệch|편파보도를 비판합니다.|Phê phán việc đưa tin thiên lệch.
+선정성|tính giật gân, khêu gợi|방송의 선정성이 문제입니다.|Tính giật gân của truyền hình là vấn đề.
+검열|sự kiểm duyệt|언론 검열에 반대합니다.|Phản đối kiểm duyệt báo chí.
+표현의자유|tự do biểu đạt|표현의자유를 보장해야 합니다.|Phải bảo đảm tự do biểu đạt.
+알권리|quyền được biết|국민의 알권리를 존중합니다.|Tôn trọng quyền được biết của người dân.
+사생활침해|xâm phạm đời tư|사생활침해 논란이 있습니다.|Có tranh cãi về xâm phạm đời tư.
+익명성|tính ẩn danh|인터넷의 익명성을 악용합니다.|Lợi dụng tính ẩn danh của internet.
+여론몰이|sự dắt mũi dư luận|언론의 여론몰이를 경계합니다.|Cảnh giác việc báo chí dắt mũi dư luận.
+유행어|từ ngữ thịnh hành|올해의 유행어를 뽑았습니다.|Đã chọn từ ngữ thịnh hành của năm.
+간접광고|quảng cáo gián tiếp|드라마에 간접광고가 많습니다.|Phim truyền hình có nhiều quảng cáo gián tiếp.
+홍보대사|đại sứ quảng bá|가수가 홍보대사로 임명되었습니다.|Ca sĩ được bổ nhiệm làm đại sứ quảng bá.
+@Danh từ trừu tượng học thuật|Hậu tố -성, -화, -력
+다양성|tính đa dạng|문화의 다양성을 존중합니다.|Tôn trọng tính đa dạng văn hóa.
+전문성|tính chuyên môn|전문성을 키워야 합니다.|Phải bồi dưỡng tính chuyên môn.
+공공성|tính công cộng|의료의 공공성을 강화합니다.|Tăng cường tính công cộng của y tế.
+투명성|tính minh bạch|행정의 투명성을 높입니다.|Nâng cao tính minh bạch của hành chính.
+효율성|tính hiệu suất|업무 효율성이 떨어졌습니다.|Tính hiệu suất công việc đã giảm.
+일관성|tính nhất quán|정책에 일관성이 없습니다.|Chính sách không có tính nhất quán.
+지속가능성|tính bền vững|지속가능성을 고려한 개발입니다.|Đó là sự phát triển có tính đến tính bền vững.
+보편성|tính phổ quát|인권의 보편성을 강조합니다.|Nhấn mạnh tính phổ quát của nhân quyền.
+특수성|tính đặc thù|지역의 특수성을 반영합니다.|Phản ánh tính đặc thù của địa phương.
+정보화|thông tin hóa|정보화 사회로 변했습니다.|Đã chuyển thành xã hội thông tin hóa.
+산업화|công nghiệp hóa|산업화로 도시 인구가 늘었습니다.|Dân số đô thị tăng do công nghiệp hóa.
+민주화|dân chủ hóa|민주화 운동이 일어났습니다.|Phong trào dân chủ hóa đã nổ ra.
+합리화|hợp lý hóa|경영 합리화를 추진합니다.|Xúc tiến hợp lý hóa kinh doanh.
+다변화|đa phương hóa|수출 시장의 다변화가 필요합니다.|Cần đa phương hóa thị trường xuất khẩu.
+영향력|sức ảnh hưởng|그는 영향력이 큰 인물입니다.|Ông ấy là nhân vật có sức ảnh hưởng lớn.
+설득력|sức thuyết phục|그의 주장은 설득력이 있습니다.|Chủ trương của ông ấy có sức thuyết phục.
+통찰력|khả năng thấu suốt|통찰력이 뛰어난 학자입니다.|Đó là học giả có khả năng thấu suốt vượt trội.
+추진력|sức đẩy tiến hành|그는 추진력이 강합니다.|Anh ấy có sức đẩy tiến hành mạnh mẽ.
+순발력|sức bật ứng biến|순발력이 필요한 운동입니다.|Đó là môn thể thao cần sức bật ứng biến.
+적응력|khả năng thích nghi|새 환경에 대한 적응력이 좋습니다.|Khả năng thích nghi môi trường mới tốt.
+친화력|khả năng hòa đồng|친화력이 좋아서 친구가 많습니다.|Hòa đồng tốt nên nhiều bạn.
+@Y học 2|Chẩn đoán và điều trị
+진단서|giấy chẩn đoán|병원에서 진단서를 받았습니다.|Tôi đã nhận giấy chẩn đoán ở bệnh viện.
+합병증|biến chứng|당뇨 합병증을 조심해야 합니다.|Phải cẩn thận biến chứng tiểu đường.
+급성|cấp tính|급성 위염에 걸렸습니다.|Đã bị viêm dạ dày cấp tính.
+잠복기|thời kỳ ủ bệnh|이 병은 잠복기가 깁니다.|Bệnh này có thời kỳ ủ bệnh dài.
+투석|lọc máu|일주일에 세 번 투석을 받습니다.|Lọc máu ba lần một tuần.
+내시경|nội soi|위 내시경 검사를 했습니다.|Đã nội soi dạ dày.
+초음파|siêu âm|초음파 검사를 받습니다.|Được siêu âm.
+항암치료|hóa trị ung thư|항암치료를 시작했습니다.|Đã bắt đầu hóa trị ung thư.
+호스피스|chăm sóc cuối đời|호스피스 병동에서 지냅니다.|Sống ở khoa chăm sóc cuối đời.
+안락사|an tử|안락사에 대한 논쟁이 있습니다.|Có tranh luận về an tử.

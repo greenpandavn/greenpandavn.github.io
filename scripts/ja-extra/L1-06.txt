@@ -1,0 +1,84 @@
+=1
+@Tổng hợp N5|Từ bổ sung
+葉:は|lá|秋:あき は 葉:は が 赤く:あかく なります 。|Mùa thu lá chuyển đỏ.
+鼻:はな|mũi|象:ぞう は 鼻:はな が 長い:ながい です 。|Voi có vòi dài.
+森:もり|khu rừng nhỏ|森:もり の 中:なか を 歩きます:あるきます 。|Tôi đi bộ trong rừng.
+@Từ gốc nước ngoài|Từ viết bằng katakana
+テーブルクロス|khăn trải bàn|新しい:あたらしい テーブルクロス を 買いました:かいました 。|Tôi đã mua khăn trải bàn mới.
+ニュース番組:ニュースばんぐみ|chương trình thời sự|毎晩:まいばん 、 ニュース番組:ニュースばんぐみ を 見ます:みます 。|Mỗi tối tôi xem chương trình thời sự.
+スポーツ|thể thao|どんな スポーツ が 好き:すき です か 。|Bạn thích môn thể thao nào?
+サッカー|bóng đá|弟:おとうと は サッカー が 上手:じょうず です 。|Em trai tôi đá bóng giỏi.
+テニス|quần vợt|週末:しゅうまつ に テニス を します 。|Cuối tuần tôi chơi quần vợt.
+野球:やきゅう|bóng chày|父:ちち は 野球:やきゅう が 好き:すき です 。|Bố tôi thích bóng chày.
+ピアノ|đàn piano|姉:あね は ピアノ を 弾きます:ひきます 。|Chị tôi chơi piano.
+ギター|đàn ghi ta|兄:あに は ギター が 上手:じょうず です 。|Anh tôi chơi ghi ta giỏi.
+パーティー|bữa tiệc|土曜日:どようび に パーティー が あります 。|Thứ bảy có bữa tiệc.
+プレゼント|quà|母:はは に プレゼント を 買いました:かいました 。|Tôi đã mua quà cho mẹ.
+レコード|đĩa nhạc|祖父:そふ は 古い:ふるい レコード を 聞きます:ききます 。|Ông tôi nghe đĩa nhạc cũ.
+フィルム|phim (cuộn)|カメラ の フィルム が ありません 。|Máy ảnh hết phim.
+コピー|bản sao; sao chụp|この 書類:しょるい の コピー を ください 。|Cho tôi bản sao của giấy tờ này.
+ゼロ|số không (zê rô)|私:わたし の 部屋:へや は 三:さん ゼロ 一:いち です 。|Phòng tôi là ba không một.
+キロ|ki lô (kg, km)|駅:えき まで 二:に キロ です 。|Đến ga là hai ki lô mét.
+メートル|mét|この プール は 五十:ごじゅう メートル です 。|Bể bơi này dài năm mươi mét.
+グラム|gam|肉:にく を 三百:さんびゃく グラム ください 。|Cho tôi ba trăm gam thịt.
+ポスト|hòm thư|ポスト に 手紙:てがみ を 入れます:いれます 。|Tôi bỏ thư vào hòm thư.
+テープ|băng (ghi âm, dính)|テープ で 紙:かみ を はります 。|Tôi dán giấy bằng băng dính.
+マッチ|diêm|マッチ で 火:ひ を つけます 。|Tôi châm lửa bằng diêm.
+たばこ|thuốc lá|父:ちち は たばこ を 吸いません:すいません 。|Bố tôi không hút thuốc lá.
+ワイシャツ|áo sơ mi trắng|白い:しろい ワイシャツ を 着ます:きます 。|Tôi mặc áo sơ mi trắng.
+ホテル代:ホテルだい|tiền khách sạn|ホテル代:ホテルだい は 一万:いちまん 円:えん です 。|Tiền khách sạn là một vạn yên.
+インターネット|internet|インターネット で ニュース を 読みます:よみます 。|Tôi đọc tin tức trên internet.
+ゲーム|trò chơi|弟:おとうと は 毎日:まいにち ゲーム を します 。|Em trai tôi ngày nào cũng chơi game.
+アルバイト|việc làm thêm|週末:しゅうまつ は アルバイト を します 。|Cuối tuần tôi đi làm thêm.
+@Giao thông và đi lại|Đi, đến, phương tiện
+新幹線:しんかんせん|tàu siêu tốc Shinkansen|新幹線:しんかんせん で 大阪:おおさか へ 行きます:いきます 。|Tôi đi Osaka bằng tàu Shinkansen.
+船:ふね|tàu thủy|船:ふね で 島:しま へ 行きます:いきます 。|Tôi đi ra đảo bằng tàu thủy.
+バイク|xe máy|兄:あに は バイク で 会社:かいしゃ へ 行きます:いきます 。|Anh tôi đi xe máy đến công ty.
+自動車:じどうしゃ|xe ô tô (từ chung)|日本:にほん の 自動車:じどうしゃ は 有名:ゆうめい です 。|Ô tô Nhật nổi tiếng.
+乗り場:のりば|điểm lên xe|タクシー の 乗り場:のりば は どこ です か 。|Điểm lên taxi ở đâu?
+バス停:バスてい|trạm xe buýt|バス停:バスてい で 友達:ともだち を 待ちます:まちます 。|Tôi đợi bạn ở trạm xe buýt.
+歩いて:あるいて|đi bộ (bằng cách)|学校:がっこう まで 歩いて:あるいて 行きます:いきます 。|Tôi đi bộ đến trường.
+散歩:さんぽ|đi dạo|毎朝:まいあさ 、 犬:いぬ と 散歩:さんぽ します 。|Mỗi sáng tôi đi dạo với chó.
+旅館:りょかん|nhà trọ kiểu Nhật|京都:きょうと で 旅館:りょかん に 泊まりました:とまりました 。|Ở Kyoto tôi đã trọ tại nhà trọ kiểu Nhật.
+片道:かたみち|một chiều (vé)|片道:かたみち の 切符:きっぷ を 買います:かいます 。|Tôi mua vé một chiều.
+@Động từ nhóm 2 và する|Hành động thường dùng
+生まれる:うまれる|được sinh ra|私:わたし は ハノイ で 生まれました:うまれました 。|Tôi sinh ra ở Hà Nội.
+勤める:つとめる|làm việc (tại)|兄:あに は 銀行:ぎんこう に 勤めて:つとめて います 。|Anh tôi làm ở ngân hàng.
+晴れる:はれる|trời quang|明日:あした は 晴れる:はれる でしょう 。|Ngày mai chắc trời quang.
+曇る:くもる|trời âm u|午後:ごご から 曇ります:くもります 。|Từ chiều trời sẽ âm u.
+並べる:ならべる|xếp, bày ra|机:つくえ の 上:うえ に 皿:さら を 並べます:ならべます 。|Tôi bày đĩa lên bàn.
+渡す:わたす|trao, đưa|先生:せんせい に 手紙:てがみ を 渡します:わたします 。|Tôi đưa thư cho thầy.
+頼む:たのむ|nhờ; gọi món|友達:ともだち に 買い物:かいもの を 頼みます:たのみます 。|Tôi nhờ bạn mua đồ.
+磨く:みがく|đánh, chải|毎晩:まいばん 、 歯:は を 磨きます:みがきます 。|Mỗi tối tôi đánh răng.
+洗濯する:せんたくする|giặt giũ|日曜日:にちようび に 洗濯します:せんたくします 。|Chủ nhật tôi giặt giũ.
+結婚:けっこん|kết hôn|姉:あね は 来年:らいねん 結婚:けっこん します 。|Chị tôi sang năm kết hôn.
+電話する:でんわする|gọi điện thoại|今晩:こんばん 、 母:はは に 電話します:でんわします 。|Tối nay tôi gọi điện cho mẹ.
+質問する:しつもんする|đặt câu hỏi|先生:せんせい に 質問します:しつもんします 。|Tôi hỏi thầy.
+練習する:れんしゅうする|luyện tập|毎日:まいにち 、 ピアノ を 練習します:れんしゅうします 。|Ngày nào tôi cũng tập piano.
+買い物する:かいものする|đi mua sắm|スーパー で 買い物します:かいものします 。|Tôi mua sắm ở siêu thị.
+食事:しょくじ|bữa ăn|家族:かぞく と 食事:しょくじ を します 。|Tôi dùng bữa với gia đình.
+説明:せつめい|giải thích|先生:せんせい の 説明:せつめい は 分かりやすい:わかりやすい です 。|Lời giải thích của thầy dễ hiểu.
+紹介:しょうかい|giới thiệu|友達:ともだち を 紹介:しょうかい します 。|Tôi giới thiệu bạn tôi.
+見物:けんぶつ|tham quan, ngắm cảnh|京都:きょうと を 見物:けんぶつ します 。|Tôi tham quan Kyoto.
+用事:ようじ|việc bận|今日:きょう は 用事:ようじ が あります 。|Hôm nay tôi có việc bận.
+話:はなし|câu chuyện|先生:せんせい の 話:はなし は 面白い:おもしろい です 。|Câu chuyện của thầy thú vị.
+@Câu hỏi và cách diễn đạt|Mẫu câu thông dụng
+どなた|vị nào (lịch sự)|あの 方:かた は どなた です か 。|Vị kia là ai ạ?
+方:かた|vị, ngài (lịch sự)|あの 方:かた は 田中:たなか 先生:せんせい です 。|Vị kia là thầy Tanaka.
+なぜ|vì sao|なぜ 学校:がっこう を 休みました:やすみました か 。|Vì sao bạn nghỉ học?
+どうやって|bằng cách nào|駅:えき まで どうやって 行きます:いきます か 。|Đến ga đi bằng cách nào?
+何か:なにか|cái gì đó|何か:なにか 飲みます:のみます か 。|Bạn uống gì đó không?
+誰か:だれか|ai đó|誰か:だれか 来ました:きました か 。|Có ai đó đã đến à?
+どこか|đâu đó|週末:しゅうまつ 、 どこか へ 行きます:いきます か 。|Cuối tuần bạn có đi đâu đó không?
+ほか|khác, ngoài ra|ほか の 色:いろ は あります か 。|Có màu khác không?
+次:つぎ|tiếp theo|次:つぎ の 駅:えき で 降ります:おります 。|Tôi xuống ở ga tiếp theo.
+最初:さいしょ|đầu tiên|最初:さいしょ に 名前:なまえ を 書きます:かきます 。|Đầu tiên viết tên.
+最後:さいご|cuối cùng|最後:さいご に 電気:でんき を 消します:けします 。|Cuối cùng thì tắt điện.
+一緒に:いっしょに|cùng với nhau|一緒に:いっしょに 昼ご飯:ひるごはん を 食べましょう:たべましょう 。|Chúng ta cùng ăn trưa nào.
+ください|xin hãy cho tôi|水:みず を ください 。|Xin hãy cho tôi nước.
+どういたしまして|không có gì|ありがとう 。 いいえ 、 どういたしまして 。|Cảm ơn. Không có gì đâu.
+そうです|đúng vậy|はい 、 そうです 。|Vâng, đúng vậy.
+違う:ちがう|sai, khác|それ は 違います:ちがいます 。|Cái đó không đúng.
+ほんとうに|thật sự|ほんとうに ありがとう ございます 。|Thật sự cảm ơn anh chị.
+お元気で:おげんきで|giữ sức khỏe nhé|では 、 お元気で:おげんきで 。|Vậy thì giữ sức khỏe nhé.
+失礼します:しつれいします|xin phép (vào, về)|お先:おさき に 失礼します:しつれいします 。|Tôi xin phép về trước.

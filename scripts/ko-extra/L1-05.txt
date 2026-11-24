@@ -1,0 +1,147 @@
+=1
+@Đồ uống và đồ ăn vặt|Bánh kẹo, nước uống
+콜라|nước cô-ca|콜라 한 병 주세요.|Cho tôi một chai cô-ca.
+맥주|bia|아버지는 맥주를 마십니다.|Bố tôi uống bia.
+소주|rượu soju|한국 사람들은 소주를 자주 마십니다.|Người Hàn hay uống soju.
+술|rượu|저는 술을 못 마십니다.|Tôi không uống được rượu.
+녹차|trà xanh|따뜻한 녹차를 마십니다.|Tôi uống trà xanh ấm.
+홍차|trà đen|홍차에 우유를 넣습니다.|Tôi cho sữa vào trà đen.
+두유|sữa đậu nành|아침에 두유를 마십니다.|Buổi sáng tôi uống sữa đậu nành.
+생수|nước suối đóng chai|편의점에서 생수를 샀습니다.|Tôi đã mua nước suối ở cửa hàng tiện lợi.
+과자|bánh kẹo, bim bim|아이가 과자를 먹습니다.|Đứa bé ăn bánh kẹo.
+사탕|kẹo|사탕이 아주 답니다.|Kẹo rất ngọt.
+초콜릿|sô-cô-la|초콜릿을 선물로 받았습니다.|Tôi đã được tặng sô-cô-la.
+아이스크림|kem|여름에 아이스크림을 먹습니다.|Mùa hè tôi ăn kem.
+케이크|bánh kem|생일에 케이크를 먹습니다.|Sinh nhật thì ăn bánh kem.
+쿠키|bánh quy|쿠키를 구웠습니다.|Tôi đã nướng bánh quy.
+샌드위치|bánh mì kẹp|점심에 샌드위치를 먹습니다.|Buổi trưa tôi ăn bánh mì kẹp.
+햄버거|bánh hamburger|동생은 햄버거를 좋아합니다.|Em tôi thích hamburger.
+피자|bánh pizza|친구들과 피자를 먹습니다.|Tôi ăn pizza với bạn bè.
+국수|mì sợi|점심에 국수를 먹었습니다.|Buổi trưa tôi đã ăn mì.
+쌀|gạo|한국 사람은 쌀을 먹습니다.|Người Hàn ăn gạo.
+밀가루|bột mì|밀가루로 빵을 만듭니다.|Người ta làm bánh mì bằng bột mì.
+치즈|pho mát|피자에 치즈가 많습니다.|Pizza có nhiều pho mát.
+버터|bơ|빵에 버터를 바릅니다.|Tôi phết bơ lên bánh mì.
+소고기|thịt bò|소고기는 비쌉니다.|Thịt bò đắt.
+돼지고기|thịt lợn|돼지고기를 구워 먹습니다.|Tôi nướng thịt lợn ăn.
+닭고기|thịt gà|닭고기로 요리를 합니다.|Tôi nấu ăn bằng thịt gà.
+새우|con tôm|새우를 튀겼습니다.|Tôi đã rán tôm.
+오징어|con mực|오징어를 구워 먹습니다.|Tôi nướng mực ăn.
+식사|bữa ăn|식사를 하셨습니까?|Bạn đã dùng bữa chưa?
+간식|bữa ăn nhẹ|오후에 간식을 먹습니다.|Buổi chiều tôi ăn nhẹ.
+맛|vị|이 김치는 맛이 좋습니다.|Kim chi này có vị ngon.
+@Trường lớp|Ở trường học
+초등학교|trường tiểu học|동생은 초등학교에 다닙니다.|Em tôi học trường tiểu học.
+중학교|trường cấp hai|중학교에서 영어를 배웁니다.|Tôi học tiếng Anh ở trường cấp hai.
+고등학교|trường cấp ba|고등학교를 졸업했습니다.|Tôi đã tốt nghiệp cấp ba.
+유치원|trường mẫu giáo|아이가 유치원에 갑니다.|Đứa bé đi mẫu giáo.
+학년|năm học, lớp|저는 삼 학년입니다.|Tôi học năm ba.
+친구들|những người bạn|친구들과 축구를 합니다.|Tôi đá bóng với các bạn.
+영어|tiếng Anh|영어를 조금 합니다.|Tôi nói được một chút tiếng Anh.
+일본어|tiếng Nhật|일본어를 배우고 싶습니다.|Tôi muốn học tiếng Nhật.
+중국어|tiếng Trung|중국어는 어렵습니다.|Tiếng Trung khó.
+베트남어|tiếng Việt|저는 베트남어를 가르칩니다.|Tôi dạy tiếng Việt.
+수학|toán học|수학 시험이 어려웠습니다.|Bài thi toán khó.
+한글|chữ Hàn|한글을 읽을 수 있습니다.|Tôi đọc được chữ Hàn.
+글자|chữ cái|글자를 크게 쓰세요.|Hãy viết chữ to lên.
+문장|câu văn|문장을 따라 읽으세요.|Hãy đọc theo câu.
+이야기|câu chuyện|재미있는 이야기를 들었습니다.|Tôi đã nghe một câu chuyện thú vị.
+소리|âm thanh, tiếng|밖에서 소리가 납니다.|Bên ngoài có tiếng động.
+뜻|ý nghĩa|이 단어의 뜻을 모릅니다.|Tôi không biết nghĩa của từ này.
+점수|điểm số|시험 점수가 좋습니다.|Điểm thi tốt.
+쉬는시간|giờ giải lao|쉬는시간에 물을 마십니다.|Giờ giải lao tôi uống nước.
+입학|sự nhập học|삼 월에 입학을 합니다.|Tháng ba thì nhập học.
+졸업|sự tốt nghiệp|이 월에 졸업을 합니다.|Tháng hai thì tốt nghiệp.
+공부|việc học|공부가 재미있습니다.|Việc học thú vị.
+연습|sự luyện tập|매일 발음 연습을 합니다.|Ngày nào tôi cũng luyện phát âm.
+외국어|ngoại ngữ|외국어를 배우는 것은 재미있습니다.|Học ngoại ngữ rất thú vị.
+@Sở thích và giải trí|Thể thao, âm nhạc, trò chơi
+야구|bóng chày|한국 사람들은 야구를 좋아합니다.|Người Hàn thích bóng chày.
+농구|bóng rổ|친구들과 농구를 합니다.|Tôi chơi bóng rổ với bạn bè.
+배구|bóng chuyền|학교에서 배구를 배웁니다.|Tôi học bóng chuyền ở trường.
+테니스|quần vợt|주말에 테니스를 칩니다.|Cuối tuần tôi chơi quần vợt.
+탁구|bóng bàn|아버지와 탁구를 칩니다.|Tôi chơi bóng bàn với bố.
+골프|gôn|사장님은 골프를 칩니다.|Giám đốc chơi gôn.
+태권도|taekwondo|아이들이 태권도를 배웁니다.|Bọn trẻ học taekwondo.
+스키|trượt tuyết|겨울에 스키를 탑니다.|Mùa đông tôi trượt tuyết.
+요가|yoga|아침에 요가를 합니다.|Buổi sáng tôi tập yoga.
+피아노|đàn piano|동생이 피아노를 칩니다.|Em tôi chơi piano.
+기타|đàn ghi-ta|형이 기타를 칩니다.|Anh tôi chơi ghi-ta.
+독서|việc đọc sách|제 취미는 독서입니다.|Sở thích của tôi là đọc sách.
+만화|truyện tranh|동생은 만화를 봅니다.|Em tôi xem truyện tranh.
+소풍|dã ngoại|학교에서 소풍을 갑니다.|Trường tổ chức đi dã ngoại.
+캠핑|cắm trại|가족과 캠핑을 갑니다.|Tôi đi cắm trại với gia đình.
+파티|bữa tiệc|생일 파티를 합니다.|Chúng tôi tổ chức tiệc sinh nhật.
+공|quả bóng|아이가 공을 찹니다.|Đứa bé đá quả bóng.
+인형|búp bê|딸이 인형을 가지고 놉니다.|Con gái tôi chơi búp bê.
+장난감|đồ chơi|아이에게 장난감을 사 줍니다.|Tôi mua đồ chơi cho con.
+콘서트|buổi hòa nhạc|주말에 콘서트에 갑니다.|Cuối tuần tôi đi xem hòa nhạc.
+박수|vỗ tay|모두 박수를 칩니다.|Mọi người vỗ tay.
+그리다|vẽ|아이가 그림을 그립니다.|Đứa bé vẽ tranh.
+부르다|gọi; hát|친구가 내 이름을 부릅니다.|Bạn tôi gọi tên tôi.
+치다|đánh, chơi (nhạc cụ, bóng)|저는 피아노를 칩니다.|Tôi chơi piano.
+즐겁다|vui vẻ|오늘 파티가 즐겁습니다.|Bữa tiệc hôm nay vui.
+@Mua sắm đơn giản|Ở cửa hàng
+거스름돈|tiền thừa|거스름돈을 받았습니다.|Tôi đã nhận tiền thừa.
+동전|tiền xu|주머니에 동전이 있습니다.|Trong túi có tiền xu.
+지폐|tiền giấy|만 원짜리 지폐를 냅니다.|Tôi trả tờ tiền mười nghìn won.
+봉지|túi ni lông|봉지에 과일을 넣어 주세요.|Hãy cho hoa quả vào túi giúp tôi.
+세일|đợt giảm giá|백화점이 세일을 합니다.|Trung tâm thương mại đang giảm giá.
+주인|chủ (cửa hàng, nhà)|가게 주인이 친절합니다.|Chủ cửa hàng thân thiện.
+계산대|quầy tính tiền|계산대는 저쪽에 있습니다.|Quầy tính tiền ở phía kia.
+무료|miễn phí|이 물은 무료입니다.|Nước này miễn phí.
+켤레|đôi (giày, tất)|양말 세 켤레를 샀습니다.|Tôi đã mua ba đôi tất.
+벌|bộ (quần áo)|옷 한 벌을 샀습니다.|Tôi đã mua một bộ quần áo.
+송이|bông, chùm|장미 열 송이를 샀습니다.|Tôi đã mua mười bông hồng.
+내다|trả (tiền), nộp|제가 돈을 냅니다.|Tôi trả tiền.
+들다|cầm, xách|무거운 가방을 듭니다.|Tôi xách cái túi nặng.
+어울리다|hợp|이 모자가 잘 어울립니다.|Cái mũ này rất hợp.
+맞다|đúng, vừa|이 신발이 발에 맞습니다.|Đôi giày này vừa chân.
+드리다|biếu, kính tặng|할머니에게 꽃을 드립니다.|Tôi biếu bà hoa.
+@Giao tiếp hằng ngày|Câu nói và hành động lịch sự
+인사|lời chào|아침 인사를 합니다.|Tôi chào buổi sáng.
+부탁|sự nhờ vả|부탁이 하나 있습니다.|Tôi có một việc muốn nhờ.
+소개|sự giới thiệu|제 소개를 하겠습니다.|Tôi xin tự giới thiệu.
+초대|lời mời|초대를 받았습니다.|Tôi đã nhận được lời mời.
+환영|sự chào đón|한국에 오신 것을 환영합니다.|Chào mừng bạn đến Hàn Quốc.
+도움|sự giúp đỡ|도움이 필요합니다.|Tôi cần sự giúp đỡ.
+대화|cuộc hội thoại|친구와 대화를 합니다.|Tôi trò chuyện với bạn.
+성함|quý danh|성함이 어떻게 되십니까?|Quý danh của ông là gì ạ?
+연세|tuổi (kính ngữ)|할아버지는 연세가 많으십니다.|Ông tôi đã nhiều tuổi.
+댁|nhà (kính ngữ)|선생님 댁에 갑니다.|Tôi đến nhà thầy giáo.
+계시다|ở, có mặt (kính ngữ)|할머니는 방에 계십니다.|Bà đang ở trong phòng.
+드시다|dùng bữa (kính ngữ)|할아버지가 아침을 드십니다.|Ông đang dùng bữa sáng.
+주무시다|ngủ (kính ngữ)|할머니가 주무십니다.|Bà đang ngủ.
+말씀하다|nói (kính ngữ)|선생님이 말씀하십니다.|Thầy giáo đang nói.
+여쭙다|hỏi (khiêm nhường)|길을 좀 여쭙겠습니다.|Cho tôi hỏi đường một chút ạ.
+뵙다|gặp (khiêm nhường)|처음 뵙겠습니다.|Rất hân hạnh được gặp lần đầu.
+미안하다|xin lỗi (thân mật)|늦어서 미안합니다.|Xin lỗi vì đến muộn.
+고맙다|cảm ơn (thân mật)|도와줘서 고맙습니다.|Cảm ơn vì đã giúp.
+반갑다|vui mừng khi gặp|만나서 반갑습니다.|Rất vui được gặp bạn.
+그렇다|như vậy|네, 그렇습니다.|Vâng, đúng như vậy.
+어서|mau, nhanh (mời)|어서 오세요.|Xin mời vào.
+여보세요|a lô|여보세요, 김 선생님 계십니까?|A lô, thầy Kim có ở đó không ạ?
+@Hoạt động ở nhà|Việc thường ngày
+샤워하다|tắm vòi sen|아침에 샤워합니다.|Buổi sáng tôi tắm.
+세수하다|rửa mặt|일어나서 세수합니다.|Tôi dậy rồi rửa mặt.
+목욕하다|tắm bồn|주말에 목욕합니다.|Cuối tuần tôi tắm bồn.
+화장하다|trang điểm|언니가 화장합니다.|Chị tôi trang điểm.
+빗다|chải (tóc)|머리를 빗습니다.|Tôi chải đầu.
+갈아입다|thay quần áo|집에 와서 옷을 갈아입습니다.|Về nhà tôi thay quần áo.
+눕다|nằm|침대에 눕습니다.|Tôi nằm lên giường.
+깨다|thức dậy, tỉnh|아침 여섯 시에 깹니다.|Tôi tỉnh dậy lúc sáu giờ sáng.
+끓이다|đun, nấu sôi|물을 끓입니다.|Tôi đun nước.
+굽다|nướng|고기를 굽습니다.|Tôi nướng thịt.
+썰다|thái|양파를 썹니다.|Tôi thái hành tây.
+섞다|trộn|밥과 채소를 섞습니다.|Tôi trộn cơm với rau.
+버리다|vứt bỏ|쓰레기를 버립니다.|Tôi vứt rác.
+쓸다|quét|마당을 씁니다.|Tôi quét sân.
+걸다|treo; gọi (điện)|옷을 옷걸이에 겁니다.|Tôi treo áo lên móc.
+잠그다|khóa|문을 잠급니다.|Tôi khóa cửa.
+키우다|nuôi|우리는 강아지를 키웁니다.|Chúng tôi nuôi cún con.
+심다|trồng|마당에 나무를 심습니다.|Tôi trồng cây trong sân.
+고장|sự hỏng hóc|텔레비전이 고장 났습니다.|Tivi bị hỏng.
+강아지|cún con|강아지와 산책합니다.|Tôi đi dạo với cún con.
+옷걸이|móc áo|옷걸이에 코트를 겁니다.|Tôi treo áo khoác lên móc.
+쓰레기통|thùng rác|쓰레기통이 어디에 있습니까?|Thùng rác ở đâu?
+집안일|việc nhà|주말에 집안일을 합니다.|Cuối tuần tôi làm việc nhà.

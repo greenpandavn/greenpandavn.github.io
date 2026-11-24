@@ -1,0 +1,38 @@
+=3
+@Trường học và lớp học|Hoạt động học đường
+담임|giáo viên chủ nhiệm|담임 선생님이 바뀌었습니다.|Giáo viên chủ nhiệm đã đổi.
+반장|lớp trưởng|반장이 출석을 확인합니다.|Lớp trưởng kiểm tra điểm danh.
+짝|bạn cùng bàn; cặp|제 짝은 아주 재미있습니다.|Bạn cùng bàn của tôi rất vui tính.
+급식|bữa ăn bán trú|학교 급식이 맛있습니다.|Bữa ăn ở trường ngon.
+수학여행|chuyến đi học tập|경주로 수학여행을 갑니다.|Chúng tôi đi tham quan học tập ở Gyeongju.
+운동회|hội thao|가을에 운동회를 합니다.|Mùa thu trường tổ chức hội thao.
+학부모|phụ huynh học sinh|학부모 모임이 있습니다.|Có buổi họp phụ huynh.
+성적표|bảng điểm|성적표를 부모님께 보여 드립니다.|Tôi đưa bảng điểm cho bố mẹ xem.
+통지서|giấy thông báo|합격 통지서를 받았습니다.|Tôi đã nhận giấy báo đỗ.
+체육복|quần áo thể dục|체육복으로 갈아입습니다.|Tôi thay sang quần áo thể dục.
+칠판지우개|giẻ lau bảng|칠판지우개로 칠판을 닦습니다.|Tôi lau bảng bằng giẻ lau bảng.
+교무실|phòng giáo viên|교무실에 선생님이 계십니다.|Thầy cô ở trong phòng giáo viên.
+강당|hội trường|강당에서 졸업식을 합니다.|Lễ tốt nghiệp diễn ra ở hội trường.
+보건실|phòng y tế trường|아파서 보건실에 갑니다.|Bị ốm nên tôi xuống phòng y tế.
+방과후|sau giờ học|방과후에 축구를 합니다.|Sau giờ học tôi đá bóng.
+왕따|sự bị tẩy chay|학교에서 왕따는 큰 문제입니다.|Nạn tẩy chay ở trường là vấn đề lớn.
+상|giải thưởng; mâm|대회에서 상을 받았습니다.|Tôi đã nhận giải thưởng ở cuộc thi.
+채점|việc chấm điểm|선생님이 시험지를 채점합니다.|Giáo viên chấm bài thi.
+베끼다|chép lại, sao chép|친구의 숙제를 베끼면 안 됩니다.|Không được chép bài tập của bạn.
+밑줄|gạch chân|중요한 문장에 밑줄을 칩니다.|Tôi gạch chân câu quan trọng.
+@Nơi chốn trong đời sống|Địa điểm quen thuộc
+문구점|cửa hàng văn phòng phẩm|문구점에서 공책을 삽니다.|Tôi mua vở ở cửa hàng văn phòng phẩm.
+철물점|cửa hàng kim khí|철물점에서 못을 삽니다.|Tôi mua đinh ở cửa hàng kim khí.
+정육점|cửa hàng thịt|정육점에서 소고기를 삽니다.|Tôi mua thịt bò ở cửa hàng thịt.
+꽃가게|cửa hàng hoa|꽃가게에서 장미를 삽니다.|Tôi mua hoa hồng ở cửa hàng hoa.
+안경점|cửa hàng kính mắt|안경점에서 안경을 맞춥니다.|Tôi cắt kính ở cửa hàng kính mắt.
+찜질방|phòng xông hơi kiểu Hàn|주말에 찜질방에 갑니다.|Cuối tuần tôi đi phòng xông hơi.
+목욕탕|nhà tắm công cộng|목욕탕에서 목욕을 합니다.|Tôi tắm ở nhà tắm công cộng.
+피시방|quán net|피시방에서 게임을 합니다.|Tôi chơi game ở quán net.
+당구장|quán bi-a|당구장에서 당구를 칩니다.|Tôi chơi bi-a ở quán bi-a.
+고시원|phòng trọ nhỏ cho người ôn thi|고시원에서 혼자 삽니다.|Tôi sống một mình ở phòng trọ ôn thi.
+독서실|phòng tự học|독서실에서 시험 공부를 합니다.|Tôi ôn thi ở phòng tự học.
+휴게소|trạm dừng nghỉ|고속도로 휴게소에서 쉽니다.|Tôi nghỉ ở trạm dừng nghỉ trên cao tốc.
+파출소|đồn cảnh sát nhỏ|지갑을 주워서 파출소에 갑니다.|Nhặt được ví nên tôi mang đến đồn cảnh sát.
+보건소|trạm y tế|보건소에서 주사를 맞습니다.|Tôi tiêm ở trạm y tế.
+양로원|viện dưỡng lão|양로원에서 봉사 활동을 합니다.|Tôi làm tình nguyện ở viện dưỡng lão.

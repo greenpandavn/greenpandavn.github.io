@@ -1,0 +1,37 @@
+=5
+@Mỹ học và phê bình nghệ thuật|Thuật ngữ nghệ thuật
+미학|mỹ học|미학을 공부하고 있습니다.|Tôi đang học mỹ học.
+사실주의|chủ nghĩa hiện thực|사실주의 소설을 읽습니다.|Tôi đọc tiểu thuyết hiện thực chủ nghĩa.
+낭만주의|chủ nghĩa lãng mạn|낭만주의 음악을 좋아합니다.|Tôi thích âm nhạc lãng mạn chủ nghĩa.
+인상주의|trường phái ấn tượng|인상주의 화가의 전시를 봅니다.|Tôi xem triển lãm của họa sĩ trường phái ấn tượng.
+추상화|tranh trừu tượng|추상화는 해석이 다양합니다.|Tranh trừu tượng có nhiều cách diễn giải.
+구도|bố cục|이 그림은 구도가 안정적입니다.|Bức tranh này có bố cục ổn định.
+색채|sắc màu|색채가 화려합니다.|Sắc màu rực rỡ.
+질감|chất cảm bề mặt|작품의 질감이 독특합니다.|Chất cảm bề mặt của tác phẩm độc đáo.
+기법|kỹ pháp|새로운 기법을 시도했습니다.|Đã thử kỹ pháp mới.
+모방|sự mô phỏng|예술은 모방에서 시작됩니다.|Nghệ thuật bắt đầu từ mô phỏng.
+독창성|tính độc sáng|독창성이 돋보이는 작품입니다.|Đó là tác phẩm nổi bật về tính độc sáng.
+예술성|tính nghệ thuật|이 영화는 예술성이 높습니다.|Bộ phim này có tính nghệ thuật cao.
+대중성|tính đại chúng|대중성과 예술성을 모두 갖췄습니다.|Có đủ cả tính đại chúng lẫn tính nghệ thuật.
+안목|con mắt thẩm định|그는 예술을 보는 안목이 있습니다.|Ông ấy có con mắt thẩm định nghệ thuật.
+거장|bậc thầy|영화계의 거장이 세상을 떠났습니다.|Bậc thầy của giới điện ảnh đã qua đời.
+유작|di tác|화가의 유작이 공개되었습니다.|Di tác của họa sĩ đã được công bố.
+@Tôn giáo và tín ngưỡng|Niềm tin tâm linh
+불교|Phật giáo|불교는 인도에서 시작되었습니다.|Phật giáo bắt nguồn từ Ấn Độ.
+기독교|Cơ Đốc giáo|기독교 신자가 많습니다.|Có nhiều tín đồ Cơ Đốc giáo.
+천주교|Thiên Chúa giáo|천주교 성당에 다닙니다.|Tôi đi nhà thờ Thiên Chúa giáo.
+이슬람교|Hồi giáo|이슬람교의 문화를 이해합니다.|Hiểu văn hóa Hồi giáo.
+유교|Nho giáo|유교는 한국 문화에 큰 영향을 주었습니다.|Nho giáo đã ảnh hưởng lớn đến văn hóa Hàn Quốc.
+무속|tín ngưỡng shaman|무속 신앙이 남아 있습니다.|Tín ngưỡng shaman vẫn còn tồn tại.
+신앙|tín ngưỡng|신앙의 자유를 보장합니다.|Bảo đảm tự do tín ngưỡng.
+신자|tín đồ|신자들이 기도를 합니다.|Các tín đồ cầu nguyện.
+성직자|giáo sĩ|성직자가 예배를 이끕니다.|Giáo sĩ chủ trì buổi lễ.
+승려|tăng lữ|승려가 절에서 수행합니다.|Tăng lữ tu hành trong chùa.
+목사|mục sư|목사가 설교를 합니다.|Mục sư thuyết giáo.
+성당|nhà thờ Công giáo|성당에서 결혼식을 올렸습니다.|Đã làm lễ cưới ở nhà thờ Công giáo.
+사찰|chùa chiền (trang trọng)|산속의 사찰을 방문했습니다.|Đã thăm ngôi chùa trong núi.
+경전|kinh điển tôn giáo|경전을 읽고 공부합니다.|Đọc và học kinh điển.
+기도|lời cầu nguyện|가족을 위해 기도를 합니다.|Cầu nguyện cho gia đình.
+수행|sự tu hành|스님이 수행에 전념합니다.|Nhà sư chuyên tâm tu hành.
+구원|sự cứu rỗi|구원을 바랍니다.|Mong được cứu rỗi.
+윤회|luân hồi|불교에서는 윤회를 믿습니다.|Phật giáo tin vào luân hồi.

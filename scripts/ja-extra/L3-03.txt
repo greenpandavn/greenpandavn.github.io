@@ -1,0 +1,63 @@
+=3
+@Sức khỏe và cơ thể|Y tế thường thức
+体調:たいちょう|thể trạng|今日:きょう は 体調:たいちょう が 悪い:わるい です 。|Hôm nay thể trạng tôi không tốt.
+体力:たいりょく|thể lực|体力:たいりょく を つける ため に 走ります:はしります 。|Tôi chạy để tăng thể lực.
+疲労:ひろう|sự mệt mỏi|疲労:ひろう が たまって います 。|Sự mệt mỏi đang tích tụ.
+腹痛:ふくつう|đau bụng|腹痛:ふくつう で 学校:がっこう を 休みました:やすみました 。|Tôi nghỉ học vì đau bụng.
+腰痛:ようつう|đau lưng|父:ちち は 腰痛:ようつう で 病院:びょういん に 通って:かよって います 。|Bố tôi đi viện vì đau lưng.
+肩こり:かたこり|mỏi vai|パソコン の 仕事:しごと で 肩こり:かたこり が ひどい です 。|Làm việc máy tính nên tôi mỏi vai nặng.
+下痢:げり|tiêu chảy|昨日:きのう から 下痢:げり が 続いて:つづいて います 。|Tôi bị tiêu chảy từ hôm qua.
+便秘:べんぴ|táo bón|野菜:やさい を 食べない:たべない と 便秘:べんぴ に なります 。|Không ăn rau thì bị táo bón.
+くしゃみ|hắt hơi|花粉:かふん で くしゃみ が 出ます:でます 。|Tôi hắt hơi vì phấn hoa.
+鼻水:はなみず|nước mũi|風邪:かぜ で 鼻水:はなみず が 止まりません:とまりません 。|Bị cảm nên nước mũi chảy không ngừng.
+花粉症:かふんしょう|dị ứng phấn hoa|春:はる は 花粉症:かふんしょう で つらい です 。|Mùa xuân tôi khổ vì dị ứng phấn hoa.
+骨折:こっせつ|gãy xương|スキー で 足:あし を 骨折:こっせつ しました 。|Tôi bị gãy chân khi trượt tuyết.
+出血:しゅっけつ|chảy máu|傷:きず から 出血:しゅっけつ して います 。|Vết thương đang chảy máu.
+消毒:しょうどく|khử trùng|傷:きず を 消毒:しょうどく します 。|Tôi khử trùng vết thương.
+目薬:めぐすり|thuốc nhỏ mắt|目:め が 痛くて:いたくて 目薬:めぐすり を さします 。|Mắt đau nên tôi nhỏ thuốc nhỏ mắt.
+錠剤:じょうざい|thuốc viên|この 錠剤:じょうざい を 一日:いちにち 三回:さんかい 飲みます:のみます 。|Tôi uống thuốc viên này ngày ba lần.
+眼科:がんか|khoa mắt|目:め が 赤くて:あかくて 眼科:がんか に 行きます:いきます 。|Mắt đỏ nên tôi đi khoa mắt.
+小児科:しょうにか|khoa nhi|子供:こども を 小児科:しょうにか に 連れて行きます:つれていきます 。|Tôi đưa con đến khoa nhi.
+看護:かんご|chăm sóc bệnh nhân|姉:あね は 看護:かんご の 仕事:しごと を して います 。|Chị tôi làm công việc chăm sóc bệnh nhân.
+見舞い:みまい|thăm bệnh|友達:ともだち の 見舞い:みまい に 行きます:いきます 。|Tôi đi thăm bạn ốm.
+健康診断:けんこうしんだん|khám sức khỏe định kỳ|毎年:まいとし 、 健康診断:けんこうしんだん を 受けます:うけます 。|Năm nào tôi cũng khám sức khỏe định kỳ.
+予防接種:よぼうせっしゅ|tiêm phòng|冬:ふゆ の 前:まえ に 予防接種:よぼうせっしゅ を 受けます:うけます 。|Trước mùa đông tôi đi tiêm phòng.
+視力:しりょく|thị lực|最近:さいきん 、 視力:しりょく が 落ちました:おちました 。|Gần đây thị lực của tôi giảm.
+呼吸:こきゅう|hô hấp, thở|深く:ふかく 呼吸:こきゅう して ください 。|Hãy thở sâu.
+筋肉:きんにく|cơ bắp|運動:うんどう で 筋肉:きんにく を つけます 。|Tôi tập thể dục để có cơ bắp.
+皮膚:ひふ|da (y học)|冬:ふゆ は 皮膚:ひふ が 乾燥:かんそう します 。|Mùa đông da bị khô.
+胃:い|dạ dày|食べすぎて:たべすぎて 胃:い が 痛い:いたい です 。|Ăn nhiều quá nên đau dạ dày.
+あくび|ngáp|眠くて:ねむくて あくび が 出ます:でます 。|Buồn ngủ nên tôi ngáp.
+いびき|tiếng ngáy|父:ちち の いびき は うるさい です 。|Tiếng ngáy của bố tôi ồn.
+禁煙:きんえん|cấm hút thuốc; bỏ thuốc|ここ は 禁煙:きんえん です 。|Ở đây cấm hút thuốc.
+飲酒:いんしゅ|uống rượu|飲酒:いんしゅ 運転:うんてん は だめ です 。|Không được uống rượu rồi lái xe.
+@Thành phố và công trình|Đô thị
+住宅:じゅうたく|nhà ở|この 辺:へん は 住宅:じゅうたく が 多い:おおい です 。|Vùng này nhiều nhà ở.
+団地:だんち|khu tập thể|子供:こども の ころ 、 団地:だんち に 住んで:すんで いました 。|Hồi nhỏ tôi sống ở khu tập thể.
+駅前:えきまえ|trước nhà ga|駅前:えきまえ に 新しい:あたらしい 店:みせ が できました 。|Trước ga có cửa hàng mới mở.
+繁華街:はんかがい|khu phố sầm uất|夜:よる の 繁華街:はんかがい は にぎやか です 。|Khu phố sầm uất ban đêm náo nhiệt.
+車道:しゃどう|lòng đường xe chạy|車道:しゃどう に 出る:でる と 危ない:あぶない です 。|Ra lòng đường thì nguy hiểm.
+歩道橋:ほどうきょう|cầu vượt đi bộ|歩道橋:ほどうきょう を 渡ります:わたります 。|Tôi đi qua cầu vượt đi bộ.
+駐輪場:ちゅうりんじょう|bãi để xe đạp|駅:えき の 駐輪場:ちゅうりんじょう に 自転車:じてんしゃ を 止めます:とめます 。|Tôi để xe đạp ở bãi xe của ga.
+停留所:ていりゅうじょ|trạm dừng xe buýt|停留所:ていりゅうじょ で バス を 待ちます:まちます 。|Tôi đợi xe buýt ở trạm dừng.
+乗り換え:のりかえ|đổi tuyến|次:つぎ の 駅:えき で 乗り換え:のりかえ です 。|Đổi tuyến ở ga tiếp theo.
+定期券:ていきけん|vé tháng|定期券:ていきけん で 会社:かいしゃ に 通います:かよいます 。|Tôi đi làm bằng vé tháng.
+車内:しゃない|trong xe, trong tàu|車内:しゃない で 電話:でんわ を しないで ください 。|Xin đừng gọi điện trong tàu.
+優先席:ゆうせんせき|ghế ưu tiên|お年寄り:おとしより に 優先席:ゆうせんせき を 譲ります:ゆずります 。|Tôi nhường ghế ưu tiên cho người lớn tuổi.
+役所:やくしょ|cơ quan hành chính|役所:やくしょ で 書類:しょるい を もらいます 。|Tôi lấy giấy tờ ở cơ quan hành chính.
+公民館:こうみんかん|nhà văn hóa phường|公民館:こうみんかん で 料理:りょうり の 教室:きょうしつ が あります 。|Ở nhà văn hóa có lớp nấu ăn.
+高層ビル:こうそうびる|nhà cao tầng|駅:えき の 周り:まわり に 高層ビル:こうそうびる が 多い:おおい です 。|Quanh ga có nhiều nhà cao tầng.
+地下街:ちかがい|phố ngầm|雨:あめ の 日:ひ は 地下街:ちかがい を 歩きます:あるきます 。|Ngày mưa tôi đi bộ trong phố ngầm.
+@Thiên nhiên và hiện tượng|Thế giới tự nhiên
+大陸:たいりく|đại lục|アジア は 大きい:おおきい 大陸:たいりく です 。|Châu Á là một đại lục lớn.
+半島:はんとう|bán đảo|この 半島:はんとう は 魚:さかな が おいしい です 。|Bán đảo này cá ngon.
+海底:かいてい|đáy biển|海底:かいてい に 古い:ふるい 船:ふね が あります 。|Dưới đáy biển có con tàu cổ.
+火山:かざん|núi lửa|日本:にほん は 火山:かざん が 多い:おおい です 。|Nhật Bản có nhiều núi lửa.
+頂上:ちょうじょう|đỉnh núi|昼:ひる に 頂上:ちょうじょう に 着きました:つきました 。|Buổi trưa chúng tôi đến đỉnh núi.
+草原:そうげん|thảo nguyên|草原:そうげん で 馬:うま が 走って:はしって います 。|Ngựa đang chạy trên thảo nguyên.
+流れ:ながれ|dòng chảy|この 川:かわ は 流れ:ながれ が 速い:はやい です 。|Con sông này dòng chảy xiết.
+嵐:あらし|cơn bão, giông tố|嵐:あらし で 木:き が 倒れました:たおれました 。|Cây đổ vì giông tố.
+日差し:ひざし|ánh nắng|夏:なつ は 日差し:ひざし が 強い:つよい です 。|Mùa hè ánh nắng gắt.
+紫外線:しがいせん|tia cực tím|夏:なつ は 紫外線:しがいせん が 強い:つよい です 。|Mùa hè tia cực tím mạnh.
+落ち葉:おちば|lá rụng|庭:にわ の 落ち葉:おちば を 掃きます:はきます 。|Tôi quét lá rụng trong vườn.
+野生:やせい|hoang dã|この 山:やま に は 野生:やせい の 動物:どうぶつ が います 。|Trên núi này có động vật hoang dã.

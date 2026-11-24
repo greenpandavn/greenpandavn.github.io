@@ -1,0 +1,89 @@
+=3
+@Du lịch và lưu trú|Đi chơi xa
+観光客:かんこうきゃく|khách du lịch|京都:きょうと は 観光客:かんこうきゃく が 多い:おおい です 。|Kyoto có nhiều khách du lịch.
+名物:めいぶつ|đặc sản|この 町:まち の 名物:めいぶつ は そば です 。|Đặc sản của thị trấn này là mì soba.
+土産:みやげ|quà mang về|旅行:りょこう の 土産:みやげ を 買います:かいます 。|Tôi mua quà mang về từ chuyến đi.
+絶景:ぜっけい|cảnh tuyệt đẹp|山:やま の 上:うえ から 絶景:ぜっけい が 見えます:みえます 。|Từ trên núi thấy cảnh tuyệt đẹp.
+民宿:みんしゅく|nhà trọ dân|海:うみ の 近く:ちかく の 民宿:みんしゅく に 泊まります:とまります 。|Tôi trọ ở nhà dân gần biển.
+宿泊:しゅくはく|lưu trú|ホテル に 二泊:にはく 宿泊:しゅくはく します 。|Tôi lưu trú ở khách sạn hai đêm.
+日帰り:ひがえり|đi về trong ngày|日帰り:ひがえり で 温泉:おんせん に 行きます:いきます 。|Tôi đi suối nước nóng rồi về trong ngày.
+一泊:いっぱく|một đêm trọ|旅館:りょかん に 一泊:いっぱく します 。|Tôi trọ ở lữ quán một đêm.
+経由:けいゆ|quá cảnh, đi qua|東京:とうきょう 経由:けいゆ で 北海道:ほっかいどう へ 行きます:いきます 。|Tôi đi Hokkaido qua Tokyo.
+直行:ちょっこう|đi thẳng|空港:くうこう へ 直行:ちょっこう します 。|Tôi đi thẳng đến sân bay.
+展示:てんじ|trưng bày|古い:ふるい 車:くるま を 展示:てんじ して います 。|Người ta đang trưng bày xe cổ.
+見学:けんがく|tham quan học hỏi|工場:こうじょう を 見学:けんがく します 。|Tôi tham quan nhà máy.
+体験:たいけん|trải nghiệm|茶道:さどう を 体験:たいけん しました 。|Tôi đã trải nghiệm trà đạo.
+案内所:あんないじょ|quầy hướng dẫn|駅:えき の 案内所:あんないじょ で 地図:ちず を もらいます 。|Tôi lấy bản đồ ở quầy hướng dẫn của ga.
+現地:げんち|tại chỗ, nơi sở tại|現地:げんち で ガイド を 頼みます:たのみます 。|Tôi thuê hướng dẫn viên tại chỗ.
+国際線:こくさいせん|tuyến bay quốc tế|国際線:こくさいせん の 入り口:いりぐち は あちら です 。|Lối vào tuyến bay quốc tế ở đằng kia.
+国内線:こくないせん|tuyến bay nội địa|国内線:こくないせん に 乗り換えます:のりかえます 。|Tôi đổi sang tuyến bay nội địa.
+搭乗:とうじょう|lên máy bay|十時:じゅうじ に 搭乗:とうじょう が 始まります:はじまります 。|Mười giờ bắt đầu lên máy bay.
+離陸:りりく|cất cánh|飛行機:ひこうき が 離陸:りりく しました 。|Máy bay đã cất cánh.
+着陸:ちゃくりく|hạ cánh|飛行機:ひこうき は 無事:ぶじ に 着陸:ちゃくりく しました 。|Máy bay đã hạ cánh an toàn.
+手荷物:てにもつ|hành lý xách tay|手荷物:てにもつ は 一つ:ひとつ だけ です 。|Hành lý xách tay chỉ một kiện.
+税関:ぜいかん|hải quan|税関:ぜいかん で かばん を 開けます:あけます 。|Tôi mở cặp ở hải quan.
+入国:にゅうこく|nhập cảnh|入国:にゅうこく の 手続き:てつづき を します 。|Tôi làm thủ tục nhập cảnh.
+出国:しゅっこく|xuất cảnh|明日:あした 、 日本:にほん を 出国:しゅっこく します 。|Ngày mai tôi xuất cảnh khỏi Nhật.
+免税:めんぜい|miễn thuế|空港:くうこう の 免税:めんぜい の 店:みせ で 買い物:かいもの します 。|Tôi mua sắm ở cửa hàng miễn thuế tại sân bay.
+通貨:つうか|tiền tệ|この 国:くに の 通貨:つうか は 何:なん です か 。|Tiền tệ nước này là gì?
+滞在:たいざい|lưu lại|日本:にほん に 一週間:いっしゅうかん 滞在:たいざい します 。|Tôi lưu lại Nhật một tuần.
+満室:まんしつ|hết phòng|今日:きょう は ホテル が 満室:まんしつ です 。|Hôm nay khách sạn hết phòng.
+空室:くうしつ|phòng trống|空室:くうしつ が ある か 聞きます:ききます 。|Tôi hỏi xem có phòng trống không.
+朝食:ちょうしょく|bữa điểm tâm|ホテル の 朝食:ちょうしょく は 七時:しちじ から です 。|Bữa điểm tâm ở khách sạn từ bảy giờ.
+夕食:ゆうしょく|bữa tối (trang trọng)|旅館:りょかん で 夕食:ゆうしょく を 食べます:たべます 。|Tôi ăn bữa tối ở lữ quán.
+露天風呂:ろてんぶろ|bồn tắm lộ thiên|雪:ゆき を 見ながら:みながら 露天風呂:ろてんぶろ に 入ります:はいります 。|Tôi vừa ngắm tuyết vừa tắm bồn lộ thiên.
+浴場:よくじょう|nhà tắm lớn|この ホテル に は 大きい:おおきい 浴場:よくじょう が あります 。|Khách sạn này có nhà tắm lớn.
+山小屋:やまごや|lán trên núi|山小屋:やまごや に 泊まります:とまります 。|Tôi nghỉ đêm ở lán trên núi.
+修学旅行:しゅうがくりょこう|chuyến du lịch học đường|修学旅行:しゅうがくりょこう で 京都:きょうと へ 行きました:いきました 。|Tôi đã đến Kyoto trong chuyến du lịch học đường.
+合宿:がっしゅく|trại tập huấn|夏休み:なつやすみ に テニス の 合宿:がっしゅく が あります 。|Kỳ nghỉ hè có trại tập huấn quần vợt.
+@Giải trí và nghệ thuật biểu diễn|Thú vui
+余暇:よか|thời gian rảnh rỗi|余暇:よか は 読書:どくしょ を します 。|Thời gian rảnh rỗi tôi đọc sách.
+娯楽:ごらく|giải trí|この 町:まち は 娯楽:ごらく が 少ない:すくない です 。|Thị trấn này ít thứ giải trí.
+鑑賞:かんしょう|thưởng thức (nghệ thuật)|趣味:しゅみ は 映画:えいが の 鑑賞:かんしょう です 。|Sở thích của tôi là thưởng thức phim.
+手芸:しゅげい|thủ công may thêu|祖母:そぼ は 手芸:しゅげい が 上手:じょうず です 。|Bà tôi giỏi thủ công may thêu.
+陶芸:とうげい|nghề gốm|週末:しゅうまつ 、 陶芸:とうげい の 教室:きょうしつ に 通います:かよいます 。|Cuối tuần tôi đi lớp làm gốm.
+囲碁:いご|cờ vây|祖父:そふ は 囲碁:いご が 強い:つよい です 。|Ông tôi chơi cờ vây giỏi.
+落語:らくご|tấu hài rakugo|落語:らくご を 聞き:きき に 行きます:いきます 。|Tôi đi nghe rakugo.
+漫才:まんざい|hài đối đáp|テレビ で 漫才:まんざい を 見ます:みます 。|Tôi xem hài đối đáp trên ti vi.
+芝居:しばい|vở diễn, kịch|週末:しゅうまつ に 芝居:しばい を 見ます:みます 。|Cuối tuần tôi xem kịch.
+映像:えいぞう|hình ảnh video|この 映画:えいが は 映像:えいぞう が きれい です 。|Bộ phim này có hình ảnh đẹp.
+作曲:さっきょく|sáng tác nhạc|彼:かれ は 自分:じぶん で 作曲:さっきょく します 。|Anh ấy tự sáng tác nhạc.
+歌詞:かし|lời bài hát|この 歌:うた の 歌詞:かし を 覚えました:おぼえました 。|Tôi đã thuộc lời bài hát này.
+曲:きょく|bản nhạc|好き:すき な 曲:きょく を 聞きます:ききます 。|Tôi nghe bản nhạc yêu thích.
+拍手:はくしゅ|vỗ tay|みんな が 大きい:おおきい 拍手:はくしゅ を しました 。|Mọi người đã vỗ tay lớn.
+観客:かんきゃく|khán giả|観客:かんきゃく は 三万人:さんまんにん でした 。|Khán giả là ba vạn người.
+客席:きゃくせき|ghế khán giả|客席:きゃくせき は いっぱい です 。|Ghế khán giả kín chỗ.
+主役:しゅやく|vai chính|彼女:かのじょ は この 映画:えいが の 主役:しゅやく です 。|Cô ấy là vai chính của bộ phim này.
+脇役:わきやく|vai phụ|彼:かれ は 脇役:わきやく で 有名:ゆうめい です 。|Anh ấy nổi tiếng với các vai phụ.
+出演:しゅつえん|tham gia diễn|好き:すき な 俳優:はいゆう が ドラマ に 出演:しゅつえん します 。|Diễn viên tôi thích tham gia diễn phim truyền hình.
+上映:じょうえい|chiếu phim|その 映画:えいが は 今:いま 上映:じょうえい して います 。|Bộ phim đó hiện đang chiếu.
+開演:かいえん|mở màn|開演:かいえん は 六時:ろくじ です 。|Mở màn lúc sáu giờ.
+公演:こうえん|buổi công diễn|東京:とうきょう で 公演:こうえん が あります 。|Có buổi công diễn ở Tokyo.
+入場券:にゅうじょうけん|vé vào cửa|入場券:にゅうじょうけん を 二枚:にまい 買います:かいます 。|Tôi mua hai vé vào cửa.
+前売り:まえうり|bán trước|前売り:まえうり の 券:けん は 安い:やすい です 。|Vé bán trước rẻ hơn.
+自由席:じゆうせき|ghế tự do|自由席:じゆうせき の 切符:きっぷ を 買います:かいます 。|Tôi mua vé ghế tự do.
+満席:まんせき|hết ghế|この 新幹線:しんかんせん は 満席:まんせき です 。|Chuyến tàu cao tốc này hết ghế.
+@Thi đấu thể thao|Giải đấu
+選手権:せんしゅけん|giải vô địch|世界:せかい 選手権:せんしゅけん を テレビ で 見ます:みます 。|Tôi xem giải vô địch thế giới trên ti vi.
+大会:たいかい|đại hội, giải đấu|来週:らいしゅう 、 水泳:すいえい の 大会:たいかい が あります 。|Tuần sau có giải bơi.
+決勝:けっしょう|trận chung kết|私:わたし たち の チーム は 決勝:けっしょう に 進みました:すすみました 。|Đội chúng tôi đã vào chung kết.
+予選:よせん|vòng loại|予選:よせん で 負けました:まけました 。|Chúng tôi thua ở vòng loại.
+引き分け:ひきわけ|hòa|試合:しあい は 引き分け:ひきわけ でした 。|Trận đấu hòa.
+得点:とくてん|điểm ghi được|後半:こうはん に 得点:とくてん を 入れました:いれました 。|Hiệp hai chúng tôi ghi điểm.
+反則:はんそく|phạm luật|それ は 反則:はんそく です 。|Thế là phạm luật.
+審判:しんぱん|trọng tài|審判:しんぱん が 笛:ふえ を 吹きました:ふきました 。|Trọng tài đã thổi còi.
+記録:きろく|kỷ lục; ghi chép|彼:かれ は 新しい:あたらしい 記録:きろく を 作りました:つくりました 。|Anh ấy đã lập kỷ lục mới.
+世界一:せかいいち|nhất thế giới|この 塔:とう は 世界一:せかいいち 高い:たかい です 。|Tòa tháp này cao nhất thế giới.
+日本一:にほんいち|nhất Nhật Bản|富士山:ふじさん は 日本一:にほんいち 高い:たかい 山:やま です 。|Phú Sĩ là ngọn núi cao nhất Nhật Bản.
+金メダル:きんめだる|huy chương vàng|彼女:かのじょ は 金メダル:きんめだる を 取りました:とりました 。|Cô ấy đã đoạt huy chương vàng.
+表彰:ひょうしょう|biểu dương, khen thưởng|学校:がっこう で 表彰:ひょうしょう されました 。|Tôi được biểu dương ở trường.
+賞:しょう|giải thưởng|絵:え の コンクール で 賞:しょう を 取りました:とりました 。|Tôi đoạt giải trong cuộc thi vẽ.
+賞品:しょうひん|phần thưởng (hiện vật)|賞品:しょうひん は 自転車:じてんしゃ です 。|Phần thưởng là xe đạp.
+賞金:しょうきん|tiền thưởng giải|賞金:しょうきん は 百万:ひゃくまん 円:えん です 。|Tiền thưởng giải là một triệu yên.
+入賞:にゅうしょう|đoạt giải|書道:しょどう の 大会:たいかい で 入賞:にゅうしょう しました 。|Tôi đã đoạt giải ở cuộc thi thư pháp.
+参加者:さんかしゃ|người tham gia|参加者:さんかしゃ は 百人:ひゃくにん です 。|Người tham gia là một trăm người.
+競技:きょうぎ|môn thi đấu|好き:すき な 競技:きょうぎ は 水泳:すいえい です 。|Môn thi đấu tôi thích là bơi.
+種目:しゅもく|hạng mục thi đấu|三つ:みっつ の 種目:しゅもく に 出ます:でます 。|Tôi thi ba hạng mục.
+陸上:りくじょう|điền kinh|兄:あに は 陸上:りくじょう の 選手:せんしゅ です 。|Anh tôi là vận động viên điền kinh.
+競技場:きょうぎじょう|sân vận động|競技場:きょうぎじょう に 五万人:ごまんにん 入ります:はいります 。|Sân vận động chứa được năm vạn người.
+準備運動:じゅんびうんどう|khởi động|泳ぐ:およぐ 前:まえ に 準備運動:じゅんびうんどう を します 。|Trước khi bơi tôi khởi động.

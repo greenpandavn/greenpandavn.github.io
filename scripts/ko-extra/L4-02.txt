@@ -1,0 +1,86 @@
+=4
+@Khoa học và công nghệ|Nghiên cứu, thiết bị
+과학자|nhà khoa học|과학자가 새 별을 발견했습니다.|Nhà khoa học đã phát hiện ngôi sao mới.
+연구소|viện nghiên cứu|연구소에서 실험을 합니다.|Họ làm thí nghiệm ở viện nghiên cứu.
+연구원|nghiên cứu viên|그는 연구원으로 일합니다.|Anh ấy làm nghiên cứu viên.
+발견|sự phát hiện|새로운 발견을 했습니다.|Họ đã có một phát hiện mới.
+발명품|vật phát minh|유용한 발명품을 만들었습니다.|Ông ấy đã làm ra vật phát minh hữu ích.
+현미경|kính hiển vi|현미경으로 세포를 봅니다.|Tôi xem tế bào bằng kính hiển vi.
+망원경|kính viễn vọng|망원경으로 달을 봅니다.|Tôi ngắm mặt trăng bằng kính viễn vọng.
+인공위성|vệ tinh nhân tạo|인공위성을 발사했습니다.|Họ đã phóng vệ tinh nhân tạo.
+우주선|tàu vũ trụ|우주선이 달에 도착했습니다.|Tàu vũ trụ đã đến mặt trăng.
+행성|hành tinh|지구는 태양계의 행성입니다.|Trái đất là hành tinh của hệ mặt trời.
+태양계|hệ mặt trời|태양계에는 여덟 개의 행성이 있습니다.|Hệ mặt trời có tám hành tinh.
+화학|hóa học|화학 실험이 재미있습니다.|Thí nghiệm hóa học thú vị.
+물리학|vật lý học|대학에서 물리학을 공부합니다.|Tôi học vật lý học ở đại học.
+생물학|sinh vật học|생물학 수업을 듣습니다.|Tôi học môn sinh vật học.
+액체|chất lỏng|물은 액체입니다.|Nước là chất lỏng.
+고체|chất rắn|얼음은 고체입니다.|Băng là chất rắn.
+기체|chất khí|공기는 기체입니다.|Không khí là chất khí.
+온도|nhiệt độ|물의 온도를 잽니다.|Tôi đo nhiệt độ của nước.
+압력|áp suất|압력이 높아졌습니다.|Áp suất đã tăng.
+전자|điện tử|전자 제품을 삽니다.|Tôi mua đồ điện tử.
+반도체|chất bán dẫn|한국은 반도체를 수출합니다.|Hàn Quốc xuất khẩu chất bán dẫn.
+소프트웨어|phần mềm|새 소프트웨어를 설치합니다.|Tôi cài phần mềm mới.
+데이터|dữ liệu|데이터를 분석합니다.|Tôi phân tích dữ liệu.
+자동화|sự tự động hóa|공장의 자동화가 진행됩니다.|Việc tự động hóa nhà máy đang tiến hành.
+첨단|tiên tiến, mũi nhọn|첨단 기술을 이용합니다.|Sử dụng công nghệ tiên tiến.
+장치|thiết bị, bộ máy|안전 장치를 확인합니다.|Kiểm tra thiết bị an toàn.
+작동하다|hoạt động (máy móc)|기계가 잘 작동합니다.|Máy hoạt động tốt.
+설치하다|lắp đặt|에어컨을 설치했습니다.|Tôi đã lắp đặt điều hòa.
+측정하다|đo đạc|거리를 측정합니다.|Họ đo khoảng cách.
+개량하다|cải tiến|제품을 개량했습니다.|Họ đã cải tiến sản phẩm.
+@Y tế và sức khỏe|Bệnh tật, phòng bệnh
+건강검진|khám sức khỏe tổng quát|일 년에 한 번 건강검진을 받습니다.|Mỗi năm tôi khám sức khỏe tổng quát một lần.
+예방접종|tiêm phòng|아이가 예방접종을 맞았습니다.|Đứa bé đã được tiêm phòng.
+당뇨병|bệnh tiểu đường|할머니는 당뇨병이 있으십니다.|Bà tôi bị tiểu đường.
+고혈압|cao huyết áp|고혈압 환자는 짠 음식을 피합니다.|Người cao huyết áp tránh đồ mặn.
+심장병|bệnh tim|심장병으로 수술을 받았습니다.|Ông ấy đã phẫu thuật vì bệnh tim.
+우울증|bệnh trầm cảm|우울증은 치료가 필요합니다.|Trầm cảm cần được điều trị.
+불면증|chứng mất ngủ|불면증 때문에 잠을 못 잡니다.|Tôi không ngủ được vì chứng mất ngủ.
+치매|bệnh mất trí nhớ|치매 노인을 돌봅니다.|Tôi chăm sóc người già mất trí nhớ.
+식중독|ngộ độc thực phẩm|여름에는 식중독을 조심하세요.|Mùa hè hãy cẩn thận ngộ độc thực phẩm.
+빈혈|thiếu máu|빈혈이 있어서 어지럽습니다.|Bị thiếu máu nên tôi chóng mặt.
+통증|cơn đau|허리 통증이 심합니다.|Cơn đau lưng rất nặng.
+후유증|di chứng|사고 후유증이 남았습니다.|Di chứng tai nạn vẫn còn.
+체질|thể trạng|저는 추위를 타는 체질입니다.|Tôi có thể trạng kém chịu lạnh.
+영양제|thuốc bổ|매일 영양제를 먹습니다.|Hằng ngày tôi uống thuốc bổ.
+한약|thuốc bắc|한약을 지어 먹습니다.|Tôi bốc thuốc bắc uống.
+침|kim châm cứu; nước bọt|한의원에서 침을 맞습니다.|Tôi châm cứu ở phòng khám đông y.
+한의원|phòng khám đông y|허리가 아파서 한의원에 갑니다.|Đau lưng nên tôi đi phòng khám đông y.
+재활|phục hồi chức năng|수술 후에 재활 치료를 받습니다.|Sau phẫu thuật tôi điều trị phục hồi chức năng.
+간병인|người chăm bệnh thuê|간병인이 환자를 돌봅니다.|Người chăm bệnh chăm sóc bệnh nhân.
+보호자|người giám hộ|환자의 보호자를 찾습니다.|Họ tìm người giám hộ của bệnh nhân.
+흡연|việc hút thuốc|흡연은 건강에 나쁩니다.|Hút thuốc có hại cho sức khỏe.
+금연|việc cấm hút, cai thuốc|이곳은 금연 구역입니다.|Nơi này là khu vực cấm hút thuốc.
+과로|làm việc quá sức|과로로 쓰러졌습니다.|Anh ấy ngã quỵ vì làm việc quá sức.
+과식|ăn quá no|과식을 하면 배가 아픕니다.|Ăn quá no thì đau bụng.
+편식|kén ăn|아이가 편식을 합니다.|Đứa bé kén ăn.
+섭취하다|hấp thụ, ăn vào|비타민을 충분히 섭취합니다.|Tôi nạp đủ vitamin.
+앓다|ốm, mắc bệnh|감기를 일주일 동안 앓았습니다.|Tôi đã ốm cảm suốt một tuần.
+쓰러지다|ngã quỵ|더위에 쓰러졌습니다.|Anh ấy ngã quỵ vì nóng.
+@Xã hội hiện đại|Vấn đề và xu hướng
+고령화|sự già hóa dân số|고령화 사회가 되었습니다.|Xã hội đã trở thành xã hội già hóa.
+저출산|tỷ lệ sinh thấp|저출산 문제가 심각합니다.|Vấn đề tỷ lệ sinh thấp rất nghiêm trọng.
+핵가족|gia đình hạt nhân|요즘은 핵가족이 많습니다.|Dạo này có nhiều gia đình hạt nhân.
+대가족|đại gia đình|옛날에는 대가족이 함께 살았습니다.|Ngày xưa đại gia đình sống cùng nhau.
+독신|sự độc thân|독신으로 사는 사람이 늘었습니다.|Người sống độc thân đã tăng.
+일인가구|hộ một người|일인가구가 증가하고 있습니다.|Hộ một người đang tăng lên.
+빈부격차|khoảng cách giàu nghèo|빈부격차가 커졌습니다.|Khoảng cách giàu nghèo đã lớn hơn.
+계층|tầng lớp|모든 계층이 참여했습니다.|Mọi tầng lớp đã tham gia.
+중산층|tầng lớp trung lưu|중산층이 줄어들고 있습니다.|Tầng lớp trung lưu đang giảm.
+빈곤|sự nghèo đói|빈곤 문제를 해결해야 합니다.|Phải giải quyết vấn đề nghèo đói.
+노숙자|người vô gia cư|노숙자에게 음식을 줍니다.|Họ phát đồ ăn cho người vô gia cư.
+장애인|người khuyết tật|장애인을 위한 시설이 필요합니다.|Cần cơ sở dành cho người khuyết tật.
+이민|việc di cư|캐나다로 이민을 갔습니다.|Họ đã di cư sang Canada.
+이주민|người nhập cư|이주민이 늘어나고 있습니다.|Người nhập cư đang tăng.
+자원봉사|hoạt động tình nguyện|주말에 자원봉사를 합니다.|Cuối tuần tôi làm tình nguyện.
+기부금|tiền quyên góp|기부금을 모읍니다.|Họ quyên góp tiền.
+공동체|cộng đồng|마을 공동체가 중요합니다.|Cộng đồng làng xóm rất quan trọng.
+개인주의|chủ nghĩa cá nhân|개인주의가 강해졌습니다.|Chủ nghĩa cá nhân đã mạnh lên.
+사생활|đời tư|사생활을 존중해야 합니다.|Phải tôn trọng đời tư.
+세대차이|khác biệt thế hệ|부모님과 세대차이를 느낍니다.|Tôi cảm thấy khác biệt thế hệ với bố mẹ.
+도시화|sự đô thị hóa|도시화가 빠르게 진행됩니다.|Đô thị hóa diễn ra nhanh.
+사교육|giáo dục tư (học thêm)|사교육 비용이 많이 듭니다.|Chi phí học thêm tốn kém.
+입시|kỳ thi tuyển sinh|입시 경쟁이 치열합니다.|Cạnh tranh thi tuyển sinh rất khốc liệt.
+취업난|nạn khó xin việc|취업난이 심각합니다.|Nạn khó xin việc rất nghiêm trọng.

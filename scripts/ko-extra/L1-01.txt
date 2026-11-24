@@ -1,0 +1,96 @@
+=1
+@Trái cây|Các loại quả quen thuộc
+바나나|quả chuối|저는 아침에 바나나를 먹습니다.|Buổi sáng tôi ăn chuối.
+수박|dưa hấu|여름에는 수박이 맛있습니다.|Mùa hè dưa hấu rất ngon.
+딸기|dâu tây|딸기가 아주 답니다.|Dâu tây rất ngọt.
+포도|quả nho|포도를 한 송이 샀습니다.|Tôi đã mua một chùm nho.
+귤|quả quýt|겨울에 귤을 많이 먹습니다.|Mùa đông tôi ăn nhiều quýt.
+복숭아|quả đào|복숭아가 부드럽습니다.|Quả đào mềm.
+오렌지|quả cam|오렌지 주스를 마십니다.|Tôi uống nước cam.
+레몬|quả chanh vàng|레몬은 아주 십니다.|Chanh vàng rất chua.
+감|quả hồng|가을에 감이 익습니다.|Mùa thu quả hồng chín.
+참외|dưa lê Hàn Quốc|참외를 깎아서 먹습니다.|Tôi gọt dưa lê rồi ăn.
+파인애플|quả dứa|파인애플은 베트남에서 쌉니다.|Dứa ở Việt Nam thì rẻ.
+망고|quả xoài|망고를 좋아합니까?|Bạn có thích xoài không?
+토마토|cà chua|토마토를 씻어서 먹습니다.|Tôi rửa cà chua rồi ăn.
+@Rau củ|Rau và củ dùng hằng ngày
+배추|cải thảo|배추로 김치를 만듭니다.|Người ta làm kim chi bằng cải thảo.
+무|củ cải trắng|무가 아주 큽니다.|Củ cải trắng rất to.
+오이|dưa chuột|오이를 얇게 썹니다.|Tôi thái mỏng dưa chuột.
+당근|cà rốt|토끼는 당근을 좋아합니다.|Thỏ thích cà rốt.
+감자|khoai tây|감자를 삶아서 먹습니다.|Tôi luộc khoai tây rồi ăn.
+고구마|khoai lang|겨울에 고구마를 구워 먹습니다.|Mùa đông tôi nướng khoai lang ăn.
+양파|hành tây|양파를 썰면 눈물이 납니다.|Thái hành tây thì chảy nước mắt.
+마늘|tỏi|한국 음식에는 마늘이 많이 들어갑니다.|Món Hàn có nhiều tỏi.
+파|hành lá|국에 파를 넣습니다.|Tôi cho hành lá vào canh.
+고추|quả ớt|이 고추는 아주 맵습니다.|Quả ớt này rất cay.
+버섯|nấm|버섯을 넣고 찌개를 끓입니다.|Tôi cho nấm vào rồi nấu canh hầm.
+콩|hạt đậu|콩으로 두부를 만듭니다.|Người ta làm đậu phụ từ hạt đậu.
+옥수수|ngô|옥수수를 삶았습니다.|Tôi đã luộc ngô.
+호박|bí ngô|호박으로 죽을 만듭니다.|Tôi nấu cháo bằng bí ngô.
+시금치|rau chân vịt|시금치는 몸에 좋습니다.|Rau chân vịt tốt cho cơ thể.
+상추|rau xà lách|고기를 상추에 싸서 먹습니다.|Tôi cuốn thịt vào xà lách rồi ăn.
+@Động vật|Thú nuôi và động vật quen thuộc
+소|con bò|소가 풀을 먹습니다.|Con bò ăn cỏ.
+돼지|con lợn|돼지는 많이 먹습니다.|Con lợn ăn nhiều.
+닭|con gà|닭이 아침에 웁니다.|Con gà gáy vào buổi sáng.
+말|con ngựa|말이 빨리 달립니다.|Con ngựa chạy nhanh.
+토끼|con thỏ|토끼는 귀가 깁니다.|Con thỏ có tai dài.
+호랑이|con hổ|호랑이는 무섭습니다.|Con hổ đáng sợ.
+코끼리|con voi|코끼리는 코가 깁니다.|Con voi có vòi dài.
+원숭이|con khỉ|원숭이가 바나나를 먹습니다.|Con khỉ ăn chuối.
+곰|con gấu|곰은 겨울에 잠을 잡니다.|Con gấu ngủ vào mùa đông.
+사자|sư tử|동물원에서 사자를 봤습니다.|Tôi đã thấy sư tử ở sở thú.
+쥐|con chuột|고양이가 쥐를 잡습니다.|Con mèo bắt chuột.
+양|con cừu|양이 언덕에 있습니다.|Con cừu ở trên đồi.
+오리|con vịt|오리가 물에서 놉니다.|Con vịt chơi dưới nước.
+나비|con bướm|나비가 꽃에 앉았습니다.|Con bướm đậu trên bông hoa.
+개미|con kiến|개미는 아주 작습니다.|Con kiến rất nhỏ.
+모기|con muỗi|여름에는 모기가 많습니다.|Mùa hè có nhiều muỗi.
+거북이|con rùa|거북이는 천천히 걷습니다.|Con rùa đi chậm.
+@Đồ dùng học tập|Vật dụng trong lớp học
+연필|bút chì|연필로 이름을 씁니다.|Tôi viết tên bằng bút chì.
+볼펜|bút bi|볼펜을 좀 빌려 주세요.|Cho tôi mượn bút bi một chút.
+지우개|cục tẩy|지우개로 지웁니다.|Tôi xóa bằng cục tẩy.
+공책|quyển vở|공책에 단어를 씁니다.|Tôi viết từ vựng vào vở.
+필통|hộp bút|필통에 연필이 세 개 있습니다.|Trong hộp bút có ba cái bút chì.
+자|cái thước kẻ|자로 선을 긋습니다.|Tôi kẻ đường thẳng bằng thước.
+가위|cái kéo|가위로 종이를 자릅니다.|Tôi cắt giấy bằng kéo.
+풀|keo dán; cỏ|풀로 사진을 붙입니다.|Tôi dán ảnh bằng keo.
+종이|giấy|종이에 그림을 그립니다.|Tôi vẽ tranh lên giấy.
+칠판|bảng đen|선생님이 칠판에 씁니다.|Giáo viên viết lên bảng.
+사전|từ điển|사전에서 단어를 찾습니다.|Tôi tra từ trong từ điển.
+교과서|sách giáo khoa|교과서 십 쪽을 펴세요.|Hãy mở sách giáo khoa trang mười.
+시험지|giấy thi|시험지에 이름을 쓰세요.|Hãy viết tên vào giấy thi.
+쪽|trang (sách)|책 이십 쪽을 읽으세요.|Hãy đọc trang hai mươi của sách.
+반|lớp (nhóm học); một nửa|우리 반에는 학생이 스무 명 있습니다.|Lớp chúng tôi có hai mươi học sinh.
+@Đồ dùng trong bếp|Bát đũa và đồ nấu ăn
+포크|cái nĩa|포크로 케이크를 먹습니다.|Tôi ăn bánh kem bằng nĩa.
+칼|con dao|칼로 사과를 깎습니다.|Tôi gọt táo bằng dao.
+접시|cái đĩa|접시에 과일을 놓습니다.|Tôi đặt hoa quả lên đĩa.
+그릇|cái bát|그릇에 밥을 담습니다.|Tôi xới cơm vào bát.
+컵|cái cốc|컵에 물을 따릅니다.|Tôi rót nước vào cốc.
+병|cái chai|물 한 병 주세요.|Cho tôi một chai nước.
+냄비|cái nồi|냄비에 라면을 끓입니다.|Tôi nấu mì trong nồi.
+소금|muối|소금을 조금 넣으세요.|Hãy cho một chút muối.
+설탕|đường (gia vị)|커피에 설탕을 넣습니다.|Tôi cho đường vào cà phê.
+기름|dầu ăn|기름에 생선을 튀깁니다.|Tôi rán cá trong dầu.
+간장|nước tương|간장에 찍어서 드세요.|Hãy chấm nước tương rồi ăn.
+된장|tương đậu Hàn Quốc|된장으로 찌개를 끓입니다.|Tôi nấu canh hầm bằng tương đậu.
+고추장|tương ớt Hàn Quốc|비빔밥에 고추장을 넣습니다.|Tôi cho tương ớt vào cơm trộn.
+@Món ăn Hàn Quốc|Các món thường gặp
+비빔밥|cơm trộn|점심에 비빔밥을 먹었습니다.|Buổi trưa tôi đã ăn cơm trộn.
+불고기|thịt bò xào kiểu Hàn|불고기는 달고 맛있습니다.|Thịt bò xào ngọt và ngon.
+김밥|cơm cuộn rong biển|소풍에 김밥을 가지고 갑니다.|Tôi mang cơm cuộn đi dã ngoại.
+떡볶이|bánh gạo cay|떡볶이는 조금 맵습니다.|Bánh gạo cay hơi cay.
+냉면|mì lạnh|여름에는 냉면을 먹습니다.|Mùa hè tôi ăn mì lạnh.
+삼계탕|gà hầm sâm|더운 날에 삼계탕을 먹습니다.|Ngày nóng người ta ăn gà hầm sâm.
+찌개|canh hầm|김치로 찌개를 만듭니다.|Tôi nấu canh hầm bằng kim chi.
+두부|đậu phụ|두부는 부드럽습니다.|Đậu phụ mềm.
+만두|bánh xếp|만두를 열 개 먹었습니다.|Tôi đã ăn mười cái bánh xếp.
+떡|bánh gạo|설날에 떡을 먹습니다.|Ngày Tết người ta ăn bánh gạo.
+죽|cháo|아플 때 죽을 먹습니다.|Khi ốm tôi ăn cháo.
+김|rong biển khô|밥을 김에 싸서 먹습니다.|Tôi cuốn cơm vào rong biển rồi ăn.
+갈비|sườn nướng|가족과 갈비를 먹으러 갑니다.|Tôi đi ăn sườn nướng với gia đình.
+삼겹살|thịt ba chỉ nướng|친구들과 삼겹살을 구워 먹습니다.|Tôi nướng thịt ba chỉ ăn với bạn bè.
+치킨|gà rán|치킨을 한 마리 시켰습니다.|Tôi đã gọi một con gà rán.

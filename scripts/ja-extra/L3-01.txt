@@ -1,0 +1,92 @@
+=3
+@Đời sống và sinh hoạt|Sinh hoạt thường ngày nâng cao
+日常:にちじょう|thường nhật|日常:にちじょう の 生活:せいかつ で 日本語:にほんご を 使います:つかいます 。|Tôi dùng tiếng Nhật trong sinh hoạt thường nhật.
+暮らし:くらし|cuộc sống, sinh kế|田舎:いなか の 暮らし:くらし は のんびり して います 。|Cuộc sống ở quê thong dong.
+一人暮らし:ひとりぐらし|sống một mình|大学:だいがく から 一人暮らし:ひとりぐらし を 始めました:はじめました 。|Từ khi vào đại học tôi bắt đầu sống một mình.
+家計:かけい|kinh tế gia đình|物価:ぶっか が 上がって:あがって 家計:かけい が 苦しい:くるしい です 。|Vật giá tăng nên kinh tế gia đình khó khăn.
+節電:せつでん|tiết kiệm điện|夏:なつ は 節電:せつでん に 協力:きょうりょく します 。|Mùa hè tôi hợp tác tiết kiệm điện.
+収納:しゅうのう|cất chứa, lưu trữ đồ|この 部屋:へや は 収納:しゅうのう が 少ない:すくない です 。|Phòng này ít chỗ cất đồ.
+整理:せいり|sắp xếp, chỉnh lý|机:つくえ の 上:うえ を 整理:せいり します 。|Tôi sắp xếp lại mặt bàn.
+日課:にっか|việc làm hằng ngày|朝:あさ の 散歩:さんぽ が 日課:にっか です 。|Đi dạo buổi sáng là việc hằng ngày của tôi.
+外出:がいしゅつ|ra ngoài|雨:あめ の 日:ひ は 外出:がいしゅつ しません 。|Ngày mưa tôi không ra ngoài.
+帰宅:きたく|về nhà|毎日:まいにち 、 八時:はちじ ごろ 帰宅:きたく します 。|Ngày nào tôi cũng về nhà khoảng tám giờ.
+睡眠不足:すいみんぶそく|thiếu ngủ|最近:さいきん 、 睡眠不足:すいみんぶそく で 疲れて:つかれて います 。|Gần đây tôi mệt vì thiếu ngủ.
+目覚まし:めざまし|đồng hồ báo thức|目覚まし:めざまし を 六時:ろくじ に かけます 。|Tôi đặt báo thức lúc sáu giờ.
+寝坊:ねぼう|ngủ quên|寝坊:ねぼう して 会社:かいしゃ に 遅れました:おくれました 。|Tôi ngủ quên nên đến công ty muộn.
+徹夜:てつや|thức trắng đêm|試験:しけん の 前:まえ に 徹夜:てつや しました 。|Tôi đã thức trắng đêm trước kỳ thi.
+夜更かし:よふかし|thức khuya|夜更かし:よふかし は 体:からだ に 悪い:わるい です 。|Thức khuya có hại cho cơ thể.
+食卓:しょくたく|bàn ăn gia đình|家族:かぞく が 食卓:しょくたく に 集まります:あつまります 。|Gia đình quây quần bên bàn ăn.
+献立:こんだて|thực đơn bữa ăn|今晩:こんばん の 献立:こんだて を 考えます:かんがえます 。|Tôi nghĩ thực đơn cho tối nay.
+残り物:のこりもの|đồ ăn thừa|昼:ひる は 昨日:きのう の 残り物:のこりもの を 食べます:たべます 。|Buổi trưa tôi ăn đồ thừa hôm qua.
+手作り:てづくり|tự tay làm|母:はは の 手作り:てづくり の ケーキ は おいしい です 。|Bánh mẹ tự tay làm rất ngon.
+買い置き:かいおき|mua dự trữ|水:みず を 買い置き:かいおき して います 。|Tôi mua nước dự trữ.
+日用品:にちようひん|đồ dùng hằng ngày|スーパー で 日用品:にちようひん を 買います:かいます 。|Tôi mua đồ dùng hằng ngày ở siêu thị.
+家電:かでん|đồ điện gia dụng|新しい:あたらしい 家電:かでん を 買いました:かいました 。|Tôi đã mua đồ điện gia dụng mới.
+模様替え:もようがえ|bài trí lại phòng|春:はる に 部屋:へや の 模様替え:もようがえ を します 。|Mùa xuân tôi bài trí lại phòng.
+戸締まり:とじまり|khóa cửa nẻo|出かける:でかける 前:まえ に 戸締まり:とじまり を 確かめます:たしかめます 。|Trước khi ra ngoài tôi kiểm tra khóa cửa nẻo.
+回覧板:かいらんばん|bảng thông báo chuyền tay|隣:となり の 家:いえ に 回覧板:かいらんばん を 渡します:わたします 。|Tôi chuyển bảng thông báo sang nhà bên cạnh.
+町内会:ちょうないかい|hội khu phố|町内会:ちょうないかい の 掃除:そうじ に 参加:さんか します 。|Tôi tham gia buổi dọn dẹp của hội khu phố.
+賃貸:ちんたい|cho thuê (nhà)|賃貸:ちんたい の マンション に 住んで:すんで います 。|Tôi sống ở chung cư thuê.
+敷金:しききん|tiền đặt cọc thuê nhà|引っ越し:ひっこし の 時:とき 、 敷金:しききん を 払います:はらいます 。|Khi chuyển nhà tôi trả tiền đặt cọc.
+不動産:ふどうさん|bất động sản|不動産:ふどうさん の 店:みせ で 部屋:へや を 探します:さがします 。|Tôi tìm phòng ở cửa hàng bất động sản.
+間取り:まどり|bố cục phòng|この 家:いえ は 間取り:まどり が いい です 。|Ngôi nhà này có bố cục phòng đẹp.
+@Tính cách và con người|Miêu tả con người
+人柄:ひとがら|nhân cách, tính người|彼:かれ は 人柄:ひとがら が いい です 。|Anh ấy có nhân cách tốt.
+個性:こせい|cá tính|この 学校:がっこう は 個性:こせい を 大切:たいせつ に します 。|Trường này coi trọng cá tính.
+長所:ちょうしょ|sở trường, điểm mạnh|自分:じぶん の 長所:ちょうしょ を 書いて:かいて ください 。|Hãy viết điểm mạnh của bản thân.
+短所:たんしょ|sở đoản, điểm yếu|私:わたし の 短所:たんしょ は 気:き が 短い:みじかい こと です 。|Điểm yếu của tôi là nóng tính.
+素直:すなお|ngoan, thật thà|彼女:かのじょ は 素直:すなお な 人:ひと です 。|Cô ấy là người thật thà.
+わがまま|ích kỷ, đòi hỏi|弟:おとうと は わがまま です 。|Em trai tôi hay đòi hỏi.
+陽気:ようき|vui tươi, hớn hở|彼:かれ は 陽気:ようき な 性格:せいかく です 。|Anh ấy có tính cách vui tươi.
+内気:うちき|nhút nhát|妹:いもうと は 内気:うちき で 友達:ともだち が 少ない:すくない です 。|Em gái tôi nhút nhát nên ít bạn.
+短気:たんき|nóng nảy|父:ちち は 短気:たんき です 。|Bố tôi nóng nảy.
+冷静:れいせい|điềm tĩnh|彼女:かのじょ は いつも 冷静:れいせい です 。|Cô ấy lúc nào cũng điềm tĩnh.
+積極的:せっきょくてき|tích cực, chủ động|彼:かれ は 積極的:せっきょくてき に 質問:しつもん します 。|Anh ấy chủ động đặt câu hỏi.
+消極的:しょうきょくてき|tiêu cực, thụ động|消極的:しょうきょくてき な 態度:たいど は よくない です 。|Thái độ thụ động là không tốt.
+几帳面:きちょうめん|ngăn nắp, kỹ tính|姉:あね は 几帳面:きちょうめん な 人:ひと です 。|Chị tôi là người kỹ tính.
+のんき|vô lo, thảnh thơi|兄:あに は のんき です 。|Anh tôi là người vô lo.
+けち|keo kiệt|あの 人:ひと は けち です 。|Người kia keo kiệt.
+生意気:なまいき|xấc xược, hỗn|弟:おとうと は 最近:さいきん 生意気:なまいき です 。|Dạo này em trai tôi xấc xược.
+誠実:せいじつ|chân thành, thành thật|誠実:せいじつ な 人:ひと と 結婚:けっこん したい です 。|Tôi muốn kết hôn với người chân thành.
+勤勉:きんべん|cần cù|日本人:にほんじん は 勤勉:きんべん だ と 言われます:いわれます 。|Người Nhật được cho là cần cù.
+器用:きよう|khéo tay|母:はは は 手:て が 器用:きよう です 。|Mẹ tôi khéo tay.
+不器用:ぶきよう|vụng về|私:わたし は 不器用:ぶきよう で 料理:りょうり が 下手:へた です 。|Tôi vụng về nên nấu ăn kém.
+社交的:しゃこうてき|quảng giao|姉:あね は 社交的:しゃこうてき で 友達:ともだち が 多い:おおい です 。|Chị tôi quảng giao nên nhiều bạn.
+無口:むくち|ít nói|父:ちち は 無口:むくち な 人:ひと です 。|Bố tôi là người ít nói.
+おしゃべり|hay nói, tán gẫu|妹:いもうと は おしゃべり です 。|Em gái tôi hay nói.
+思いやり:おもいやり|sự quan tâm, cảm thông|彼女:かのじょ は 思いやり:おもいやり が あります 。|Cô ấy biết quan tâm đến người khác.
+意地悪:いじわる|xấu tính, hay chọc ghẹo|意地悪:いじわる な こと を 言わないで:いわないで ください 。|Đừng nói lời xấu tính.
+ずるい|gian, láu cá|一人:ひとり だけ 休む:やすむ の は ずるい 。|Chỉ một mình nghỉ thì thật láu cá.
+怠け者:なまけもの|kẻ lười biếng|彼:かれ は 怠け者:なまけもの です 。|Anh ta là kẻ lười biếng.
+頼もしい:たのもしい|đáng tin cậy|兄:あに は 頼もしい:たのもしい 人:ひと です 。|Anh tôi là người đáng tin cậy.
+@Công việc và sự nghiệp|Nơi làm việc
+職場:しょくば|nơi làm việc|職場:しょくば の 人:ひと と 仲:なか が いい です 。|Tôi thân với mọi người ở nơi làm việc.
+業務:ぎょうむ|nghiệp vụ|今日:きょう の 業務:ぎょうむ は 終わりました:おわりました 。|Nghiệp vụ hôm nay đã xong.
+勤務:きんむ|làm việc (ca, giờ)|勤務:きんむ 時間:じかん は 九時:くじ から 五時:ごじ まで です 。|Giờ làm việc từ chín giờ đến năm giờ.
+出勤:しゅっきん|đi làm, đến công ty|毎朝:まいあさ 、 八時:はちじ に 出勤:しゅっきん します 。|Mỗi sáng tôi đến công ty lúc tám giờ.
+早退:そうたい|về sớm|熱:ねつ が あって 早退:そうたい しました 。|Tôi bị sốt nên đã về sớm.
+正社員:せいしゃいん|nhân viên chính thức|来月:らいげつ から 正社員:せいしゃいん に なります 。|Từ tháng sau tôi thành nhân viên chính thức.
+派遣:はけん|phái cử|彼:かれ は 派遣:はけん の 社員:しゃいん です 。|Anh ấy là nhân viên phái cử.
+パート|làm bán thời gian|母:はは は スーパー で パート を して います 。|Mẹ tôi làm bán thời gian ở siêu thị.
+時給:じきゅう|lương theo giờ|この アルバイト は 時給:じきゅう が 高い:たかい です 。|Việc làm thêm này lương theo giờ cao.
+手当:てあて|phụ cấp|残業:ざんぎょう の 手当:てあて が 出ます:でます 。|Có phụ cấp làm thêm giờ.
+有給:ゆうきゅう|nghỉ phép có lương|明日:あした 、 有給:ゆうきゅう を 取ります:とります 。|Ngày mai tôi nghỉ phép có lương.
+退職:たいしょく|nghỉ việc, thôi việc|父:ちち は 来年:らいねん 退職:たいしょく します 。|Bố tôi sang năm nghỉ việc.
+定年:ていねん|tuổi nghỉ hưu|この 会社:かいしゃ の 定年:ていねん は 六十五:ろくじゅうご 歳:さい です 。|Tuổi nghỉ hưu ở công ty này là sáu mươi lăm.
+求人:きゅうじん|tuyển người|新聞:しんぶん で 求人:きゅうじん を 探します:さがします 。|Tôi tìm tin tuyển người trên báo.
+志望:しぼう|nguyện vọng (xin vào)|この 会社:かいしゃ を 志望:しぼう して います 。|Tôi có nguyện vọng vào công ty này.
+内定:ないてい|quyết định tuyển dụng (nội bộ)|銀行:ぎんこう から 内定:ないてい を もらいました 。|Tôi đã nhận được quyết định tuyển dụng của ngân hàng.
+研修:けんしゅう|đào tạo, tập huấn|新入:しんにゅう 社員:しゃいん は 研修:けんしゅう を 受けます:うけます 。|Nhân viên mới tham gia đào tạo.
+取引先:とりひきさき|đối tác làm ăn|取引先:とりひきさき に 電話:でんわ します 。|Tôi gọi điện cho đối tác làm ăn.
+営業:えいぎょう|kinh doanh, bán hàng|兄:あに は 営業:えいぎょう の 仕事:しごと を して います 。|Anh tôi làm công việc kinh doanh.
+企画:きかく|lập kế hoạch, dự án|新しい:あたらしい 企画:きかく を 考えます:かんがえます 。|Tôi nghĩ dự án mới.
+提案:ていあん|đề xuất|会議:かいぎ で 新しい:あたらしい 方法:ほうほう を 提案:ていあん します 。|Tôi đề xuất phương pháp mới trong cuộc họp.
+指示:しじ|chỉ thị|上司:じょうし の 指示:しじ に 従います:したがいます 。|Tôi làm theo chỉ thị của cấp trên.
+確認:かくにん|xác nhận|予定:よてい を 確認:かくにん します 。|Tôi xác nhận lịch.
+連絡先:れんらくさき|địa chỉ liên lạc|連絡先:れんらくさき を 教えて:おしえて ください 。|Hãy cho tôi địa chỉ liên lạc.
+日程:にってい|lịch trình ngày giờ|会議:かいぎ の 日程:にってい を 決めます:きめます 。|Chúng tôi quyết định lịch họp.
+納期:のうき|hạn giao hàng|納期:のうき に 間に合いました:まにあいました 。|Chúng tôi đã kịp hạn giao hàng.
+見積もり:みつもり|bảng báo giá|工事:こうじ の 見積もり:みつもり を 頼みます:たのみます 。|Tôi yêu cầu bảng báo giá thi công.
+請求書:せいきゅうしょ|hóa đơn yêu cầu thanh toán|請求書:せいきゅうしょ を 送ります:おくります 。|Tôi gửi hóa đơn yêu cầu thanh toán.
+領収書:りょうしゅうしょ|biên lai|領収書:りょうしゅうしょ を ください 。|Cho tôi xin biên lai.
+経費:けいひ|kinh phí|出張:しゅっちょう の 経費:けいひ を 計算:けいさん します 。|Tôi tính kinh phí công tác.

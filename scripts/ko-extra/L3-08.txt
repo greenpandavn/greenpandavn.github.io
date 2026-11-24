@@ -1,0 +1,94 @@
+=3
+@Nông thôn và nghề truyền thống|Làm ruộng, đánh cá
+농장|nông trại|농장에서 소를 기릅니다.|Người ta nuôi bò ở nông trại.
+목장|trang trại chăn nuôi|목장에 양이 많습니다.|Trang trại có nhiều cừu.
+과수원|vườn cây ăn quả|과수원에서 사과를 땁니다.|Tôi hái táo ở vườn cây ăn quả.
+비닐하우스|nhà kính ni lông|비닐하우스에서 딸기를 기릅니다.|Người ta trồng dâu tây trong nhà kính.
+모종|cây giống|고추 모종을 심습니다.|Tôi trồng cây ớt giống.
+비료|phân bón|밭에 비료를 줍니다.|Tôi bón phân cho nương.
+농약|thuốc trừ sâu|농약을 쓰지 않고 채소를 기릅니다.|Người ta trồng rau không dùng thuốc trừ sâu.
+수확|việc thu hoạch|가을에 쌀 수확을 합니다.|Mùa thu người ta thu hoạch lúa.
+풍년|năm được mùa|올해는 풍년입니다.|Năm nay được mùa.
+흉년|năm mất mùa|비가 안 와서 흉년이 들었습니다.|Không mưa nên mất mùa.
+가축|gia súc|가축을 돌봅니다.|Tôi chăm sóc gia súc.
+그물|cái lưới|그물로 물고기를 잡습니다.|Người ta bắt cá bằng lưới.
+항구|bến cảng|항구에 배가 들어옵니다.|Tàu vào bến cảng.
+등대|ngọn hải đăng|등대가 바다를 비춥니다.|Ngọn hải đăng chiếu sáng biển.
+시골길|đường quê|시골길을 천천히 걷습니다.|Tôi thong thả đi trên đường quê.
+이장|trưởng thôn|이장이 마을 방송을 합니다.|Trưởng thôn phát loa trong làng.
+귀농|việc về quê làm nông|요즘 귀농을 하는 사람이 많습니다.|Dạo này nhiều người về quê làm nông.
+캐다|đào (củ, khoáng)|밭에서 고구마를 캡니다.|Tôi đào khoai lang trên nương.
+거두다|gặt hái, thu về|가을에 곡식을 거둡니다.|Mùa thu người ta gặt hái ngũ cốc.
+@Đơn vị và số lượng|Đo lường, đếm
+무게|trọng lượng|가방의 무게를 잽니다.|Tôi cân trọng lượng cái túi.
+길이|chiều dài|바지 길이가 깁니다.|Chiều dài quần dài.
+높이|chiều cao (vật)|이 산의 높이는 천 미터입니다.|Chiều cao ngọn núi này là một nghìn mét.
+넓이|diện tích|방의 넓이를 잽니다.|Tôi đo diện tích căn phòng.
+깊이|chiều sâu|강의 깊이가 깊습니다.|Chiều sâu của sông rất sâu.
+두께|độ dày|책의 두께가 두껍습니다.|Độ dày quyển sách lớn.
+센티미터|xăng-ti-mét|키가 백칠십 센티미터입니다.|Tôi cao một trăm bảy mươi xăng-ti-mét.
+킬로미터|ki-lô-mét|학교까지 이 킬로미터입니다.|Đến trường là hai ki-lô-mét.
+그램|gam|고기 삼백 그램을 샀습니다.|Tôi đã mua ba trăm gam thịt.
+리터|lít|물 이 리터를 마십니다.|Tôi uống hai lít nước.
+퍼센트|phần trăm|이십 퍼센트 할인합니다.|Giảm giá hai mươi phần trăm.
+두배|gấp đôi|가격이 두배로 올랐습니다.|Giá đã tăng gấp đôi.
+몇몇|một vài|몇몇 학생이 결석했습니다.|Một vài học sinh đã vắng mặt.
+여러|nhiều (loại, cái)|여러 나라를 여행했습니다.|Tôi đã du lịch nhiều nước.
+각각|từng cái một|학생들에게 각각 책을 줍니다.|Tôi phát sách cho từng học sinh một.
+전부|toàn bộ|숙제를 전부 했습니다.|Tôi đã làm toàn bộ bài tập.
+일부|một phần|일부 가게는 문을 닫았습니다.|Một phần các cửa hàng đã đóng cửa.
+나머지|phần còn lại|나머지는 내일 하겠습니다.|Phần còn lại tôi sẽ làm ngày mai.
+최대|tối đa|최대 열 명까지 들어갑니다.|Tối đa mười người vào được.
+최소|tối thiểu|최소 삼 일이 걸립니다.|Mất tối thiểu ba ngày.
+평균|trung bình|평균 점수가 높습니다.|Điểm trung bình cao.
+합계|tổng cộng|합계가 얼마입니까?|Tổng cộng là bao nhiêu?
+@Tình huống và sự việc|Danh từ trừu tượng thường gặp
+상황|tình huống|지금 상황이 어렵습니다.|Tình huống bây giờ khó khăn.
+경우|trường hợp|이런 경우에는 어떻게 합니까?|Trường hợp như thế này thì làm thế nào?
+사정|hoàn cảnh riêng|집에 사정이 있어서 못 갑니다.|Nhà có việc riêng nên tôi không đi được.
+기회|cơ hội|좋은 기회를 놓쳤습니다.|Tôi đã lỡ cơ hội tốt.
+계기|bước ngoặt, động cơ|그 일이 계기가 되었습니다.|Việc đó đã trở thành bước ngoặt.
+과정|quá trình|과정이 결과보다 중요합니다.|Quá trình quan trọng hơn kết quả.
+절차|thủ tục|입학 절차가 복잡합니다.|Thủ tục nhập học phức tạp.
+방식|phương thức|생활 방식이 다릅니다.|Phương thức sinh hoạt khác nhau.
+수단|phương tiện, cách thức|교통 수단을 이용합니다.|Tôi sử dụng phương tiện giao thông.
+조건|điều kiện|근무 조건이 좋습니다.|Điều kiện làm việc tốt.
+기준|tiêu chuẩn|선택 기준이 무엇입니까?|Tiêu chuẩn lựa chọn là gì?
+수준|trình độ, mức|생활 수준이 높아졌습니다.|Mức sống đã cao lên.
+단계|giai đoạn, bước|다음 단계로 넘어갑니다.|Chuyển sang bước tiếp theo.
+종류|chủng loại|꽃의 종류가 많습니다.|Có nhiều loại hoa.
+특징|đặc trưng|이 제품의 특징을 설명합니다.|Tôi giải thích đặc trưng của sản phẩm này.
+장면|cảnh (phim)|이 장면이 가장 슬픕니다.|Cảnh này buồn nhất.
+분위기|bầu không khí|교실 분위기가 좋습니다.|Bầu không khí lớp học tốt.
+사건|vụ việc|이상한 사건이 일어났습니다.|Một vụ việc kỳ lạ đã xảy ra.
+행운|vận may|행운을 빕니다.|Chúc bạn may mắn.
+불행|sự bất hạnh|불행은 혼자 오지 않습니다.|Bất hạnh không đến một mình.
+위로|sự an ủi|친구의 위로를 받았습니다.|Tôi đã nhận được sự an ủi của bạn.
+보답|sự đền đáp|은혜에 보답을 합니다.|Tôi đền đáp ơn nghĩa.
+@Chăm sóc quần áo và đồ dùng|Giặt giũ, sửa chữa
+세탁|việc giặt|이 옷은 손으로 세탁을 합니다.|Áo này giặt bằng tay.
+드라이클리닝|giặt khô|코트를 드라이클리닝 맡깁니다.|Tôi gửi áo khoác đi giặt khô.
+얼룩|vết bẩn|옷에 얼룩이 생겼습니다.|Áo bị dính vết bẩn.
+구멍|cái lỗ|양말에 구멍이 났습니다.|Tất bị thủng lỗ.
+지퍼|khóa kéo|지퍼가 고장 났습니다.|Khóa kéo bị hỏng.
+소매|tay áo|소매가 너무 깁니다.|Tay áo dài quá.
+옷감|vải may quần áo|옷감이 부드럽습니다.|Vải may áo mềm.
+수선|việc sửa (quần áo, giày)|바지 수선을 맡겼습니다.|Tôi đã gửi sửa quần.
+꿰매다|khâu|찢어진 옷을 꿰맵니다.|Tôi khâu áo rách.
+줄어들다|co lại, giảm đi|빨래한 후에 옷이 줄어들었습니다.|Sau khi giặt áo đã co lại.
+늘어나다|giãn ra, tăng lên|티셔츠가 늘어났습니다.|Áo phông đã giãn ra.
+구겨지다|bị nhàu|셔츠가 구겨졌습니다.|Áo sơ mi bị nhàu.
+헹구다|xả, tráng nước|빨래를 물에 헹굽니다.|Tôi xả đồ giặt bằng nước.
+털다|giũ, phủi|이불을 텁니다.|Tôi giũ chăn.
+@Thời tiết và thiên nhiên 2|Hiện tượng tự nhiên
+서리|sương giá|아침에 서리가 내렸습니다.|Buổi sáng sương giá đã rơi.
+이슬|sương đêm|풀잎에 이슬이 맺혔습니다.|Sương đọng trên lá cỏ.
+우박|mưa đá|갑자기 우박이 떨어졌습니다.|Mưa đá bất chợt rơi xuống.
+노을|ráng chiều|저녁 노을이 붉습니다.|Ráng chiều đỏ rực.
+햇살|tia nắng|아침 햇살이 따뜻합니다.|Tia nắng sớm ấm áp.
+달빛|ánh trăng|달빛이 밝습니다.|Ánh trăng sáng.
+그림자|cái bóng|벽에 그림자가 생깁니다.|Cái bóng hiện trên tường.
+고드름|cột băng|지붕에 고드름이 달렸습니다.|Cột băng treo trên mái nhà.
+눈사람|người tuyết|아이들이 눈사람을 만듭니다.|Bọn trẻ đắp người tuyết.
+꽃샘추위|rét nàng Bân|삼 월에 꽃샘추위가 옵니다.|Tháng ba có đợt rét nàng Bân.
+열대야|đêm nóng nhiệt đới|열대야 때문에 잠을 못 잡니다.|Vì đêm quá nóng nên tôi không ngủ được.

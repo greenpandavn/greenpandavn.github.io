@@ -1,0 +1,133 @@
+{
+ "units": [
+  {"unit":38,"level":3,"title":"Phần 8: Tổng hợp và hơn thế","desc":"Tổng hợp","color":"rose","course":"ko"}
+ ],
+ "lessons": [
+  {"id":"ko3x37","title":"Tổng hợp 2","desc":"Từ vựng tổng hợp của cấp này","icon":"철","unit":38,"course":"ko","order":1900,"words":[
+   {"id":"ko3x37-철없다","hanzi":"철없다","pinyin":"cheoreopda","vi":"chưa hiểu chuyện","ex":{"tokens":["동생은","아직","철없습니다","."],"py":["dongsaengeun","ajik","cheoreopseumnida","."],"vi":"Em tôi vẫn chưa hiểu chuyện.","alts":[]}},
+   {"id":"ko3x37-어른스럽다","hanzi":"어른스럽다","pinyin":"eoreunseureopda","vi":"chững chạc","ex":{"tokens":["그","학생은","어른스럽습니다","."],"py":["geu","haksaengeun","eoreunseureopseumnida","."],"vi":"Học sinh đó chững chạc.","alts":[]}},
+   {"id":"ko3x37-끈기","hanzi":"끈기","pinyin":"kkeungi","vi":"sự bền bỉ","ex":{"tokens":["끈기가","있어야","성공합니다","."],"py":["kkeungiga","isseoya","seonggonghamnida","."],"vi":"Phải bền bỉ mới thành công.","alts":[]}},
+   {"id":"ko3x37-열정","hanzi":"열정","pinyin":"yeoljeong","vi":"nhiệt huyết","ex":{"tokens":["일에","대한","열정이","큽니다","."],"py":["ire","daehan","yeoljeongi","keumnida","."],"vi":"Nhiệt huyết với công việc rất lớn.","alts":[]}},
+   {"id":"ko3x37-변기","hanzi":"변기","pinyin":"byeongi","vi":"bồn cầu","ex":{"tokens":["변기가","막혔습니다","."],"py":["byeongiga","makyeotseumnida","."],"vi":"Bồn cầu bị tắc.","alts":[]}},
+   {"id":"ko3x37-세면대","hanzi":"세면대","pinyin":"semyeondae","vi":"bồn rửa mặt","ex":{"tokens":["세면대에서","손을","씻습니다","."],"py":["semyeondaeeseo","soneul","ssitseumnida","."],"vi":"Tôi rửa tay ở bồn rửa mặt.","alts":[]}},
+   {"id":"ko3x37-전기요금","hanzi":"전기요금","pinyin":"jeongiyogeum","vi":"tiền điện","ex":{"tokens":["이번","달","전기요금이","많이","나왔습니다","."],"py":["ibeon","dal","jeongiyogeumi","mani","nawatseumnida","."],"vi":"Tiền điện tháng này cao.","alts":[]}},
+   {"id":"ko3x37-분리수거","hanzi":"분리수거","pinyin":"bullisugeo","vi":"phân loại rác","ex":{"tokens":["쓰레기를","분리수거","합니다","."],"py":["sseuregireul","bullisugeo","hamnida","."],"vi":"Tôi phân loại rác.","alts":[]}},
+   {"id":"ko3x37-층간소음","hanzi":"층간소음","pinyin":"cheunggansoeum","vi":"tiếng ồn giữa các tầng","ex":{"tokens":["층간소음","때문에","잠을","못","잡니다","."],"py":["cheunggansoeum","ttaemune","jameul","mot","jamnida","."],"vi":"Vì tiếng ồn từ tầng trên nên tôi không ngủ được.","alts":[]}},
+   {"id":"ko3x37-경비실","hanzi":"경비실","pinyin":"gyeongbisil","vi":"phòng bảo vệ","ex":{"tokens":["택배는","경비실에","있습니다","."],"py":["taekbaeneun","gyeongbisire","itseumnida","."],"vi":"Bưu kiện ở phòng bảo vệ.","alts":[]}},
+   {"id":"ko3x37-새집","hanzi":"새집","pinyin":"saejip","vi":"nhà mới","ex":{"tokens":["새집으로","이사했습니다","."],"py":["saejibeuro","isahaetseumnida","."],"vi":"Tôi đã chuyển đến nhà mới.","alts":[]}},
+   {"id":"ko3x37-꾸미다","hanzi":"꾸미다","pinyin":"kkumida","vi":"trang trí","ex":{"tokens":["방을","예쁘게","꾸밉니다","."],"py":["bangeul","yeppeuge","kkumimnida","."],"vi":"Tôi trang trí phòng thật đẹp.","alts":[]}}
+  ]},
+  {"id":"ko3x38","title":"Tổng hợp 3","desc":"Từ vựng tổng hợp của cấp này","icon":"타","unit":38,"course":"ko","order":1910,"words":[
+   {"id":"ko3x38-타이어","hanzi":"타이어","pinyin":"taieo","vi":"lốp xe","ex":{"tokens":["타이어를","바꿉니다","."],"py":["taieoreul","bakkumnida","."],"vi":"Tôi thay lốp xe.","alts":[]}},
+   {"id":"ko3x38-브레이크","hanzi":"브레이크","pinyin":"beureikeu","vi":"phanh","ex":{"tokens":["브레이크를","밟습니다","."],"py":["beureikeureul","balseumnida","."],"vi":"Tôi đạp phanh.","alts":[]}},
+   {"id":"ko3x38-견인","hanzi":"견인","pinyin":"gyeonin","vi":"việc kéo xe","ex":{"tokens":["불법","주차","차량은","견인됩니다","."],"py":["bulbeop","jucha","charyangeun","gyeonindoemnida","."],"vi":"Xe đỗ trái phép sẽ bị kéo đi.","alts":[]}},
+   {"id":"ko3x38-연착","hanzi":"연착","pinyin":"yeonchak","vi":"sự trễ chuyến","ex":{"tokens":["기차가","삼십","분","연착되었습니다","."],"py":["gichaga","samsip","bun","yeonchakdoeeotseumnida","."],"vi":"Tàu bị trễ ba mươi phút.","alts":[]}},
+   {"id":"ko3x38-결항","hanzi":"결항","pinyin":"gyeolhang","vi":"hủy chuyến bay","ex":{"tokens":["태풍으로","비행기가","결항되었습니다","."],"py":["taepungeuro","bihaenggiga","gyeolhangdoeeotseumnida","."],"vi":"Chuyến bay bị hủy vì bão.","alts":[]}},
+   {"id":"ko3x38-직행","hanzi":"직행","pinyin":"jikaeng","vi":"đi thẳng (không dừng)","ex":{"tokens":["부산까지","직행","버스를","탑니다","."],"py":["busankkaji","jikaeng","beoseureul","tamnida","."],"vi":"Tôi đi xe buýt chạy thẳng đến Busan.","alts":[]}},
+   {"id":"ko3x38-혼잡하다","hanzi":"혼잡하다","pinyin":"honjapada","vi":"hỗn tạp, đông đúc","ex":{"tokens":["퇴근","시간에는","도로가","혼잡합니다","."],"py":["toegeun","siganeneun","doroga","honjapamnida","."],"vi":"Giờ tan làm đường sá đông đúc.","alts":[]}},
+   {"id":"ko3x38-부딪히다","hanzi":"부딪히다","pinyin":"budichida","vi":"va chạm","ex":{"tokens":["차가","벽에","부딪혔습니다","."],"py":["chaga","byeoge","budichyeotseumnida","."],"vi":"Xe đã va vào tường.","alts":[]}},
+   {"id":"ko3x38-밟다","hanzi":"밟다","pinyin":"balda","vi":"giẫm, đạp","ex":{"tokens":["발을","밟아서","죄송합니다","."],"py":["bareul","balbaseo","joesonghamnida","."],"vi":"Xin lỗi vì đã giẫm vào chân bạn.","alts":[]}},
+   {"id":"ko3x38-추월하다","hanzi":"추월하다","pinyin":"chuwolhada","vi":"vượt xe","ex":{"tokens":["앞","차를","추월합니다","."],"py":["ap","chareul","chuwolhamnida","."],"vi":"Tôi vượt xe phía trước.","alts":[]}},
+   {"id":"ko3x38-대기하다","hanzi":"대기하다","pinyin":"daegihada","vi":"chờ sẵn","ex":{"tokens":["밖에서","대기해","주세요","."],"py":["bakkeseo","daegihae","juseyo","."],"vi":"Xin hãy chờ ở bên ngoài.","alts":[]}},
+   {"id":"ko3x38-이용하다","hanzi":"이용하다","pinyin":"iyonghada","vi":"sử dụng (dịch vụ)","ex":{"tokens":["지하철을","이용합니다","."],"py":["jihacheoreul","iyonghamnida","."],"vi":"Tôi sử dụng tàu điện ngầm.","alts":[]}}
+  ]},
+  {"id":"ko3x39","title":"Tổng hợp 4","desc":"Từ vựng tổng hợp của cấp này","icon":"영","unit":38,"course":"ko","order":1920,"words":[
+   {"id":"ko3x39-영업시간","hanzi":"영업시간","pinyin":"yeongeopsigan","vi":"giờ mở cửa kinh doanh","ex":{"tokens":["영업시간이","몇","시까지입니까","?"],"py":["yeongeopsigani","myeot","sikkajiimnikka","?"],"vi":"Giờ mở cửa đến mấy giờ?","alts":[]}},
+   {"id":"ko3x39-휴무","hanzi":"휴무","pinyin":"hyumu","vi":"ngày nghỉ bán hàng","ex":{"tokens":["월요일은","휴무입니다","."],"py":["woryoireun","hyumuimnida","."],"vi":"Thứ hai là ngày nghỉ bán hàng.","alts":[]}},
+   {"id":"ko3x39-단체","hanzi":"단체","pinyin":"danche","vi":"đoàn thể, nhóm","ex":{"tokens":["단체","손님이","왔습니다","."],"py":["danche","sonnimi","watseumnida","."],"vi":"Khách đoàn đã đến.","alts":[]}},
+   {"id":"ko3x39-셀프","hanzi":"셀프","pinyin":"selpeu","vi":"tự phục vụ","ex":{"tokens":["물은","셀프입니다","."],"py":["mureun","selpeuimnida","."],"vi":"Nước thì tự phục vụ.","alts":[]}},
+   {"id":"ko3x39-입사","hanzi":"입사","pinyin":"ipsa","vi":"việc vào công ty","ex":{"tokens":["작년에","입사를","했습니다","."],"py":["jangnyeone","ipsareul","haetseumnida","."],"vi":"Năm ngoái tôi đã vào công ty.","alts":[]}},
+   {"id":"ko3x39-퇴사","hanzi":"퇴사","pinyin":"toesa","vi":"việc thôi việc","ex":{"tokens":["다음","달에","퇴사를","합니다","."],"py":["daeum","dare","toesareul","hamnida","."],"vi":"Tháng sau tôi thôi việc.","alts":[]}},
+   {"id":"ko3x39-이직","hanzi":"이직","pinyin":"ijik","vi":"việc chuyển chỗ làm","ex":{"tokens":["이직을","준비합니다","."],"py":["ijigeul","junbihamnida","."],"vi":"Tôi chuẩn bị chuyển chỗ làm.","alts":[]}},
+   {"id":"ko3x39-사표","hanzi":"사표","pinyin":"sapyo","vi":"đơn xin thôi việc","ex":{"tokens":["사표를","냈습니다","."],"py":["sapyoreul","naetseumnida","."],"vi":"Tôi đã nộp đơn xin thôi việc.","alts":[]}},
+   {"id":"ko3x39-회식자리","hanzi":"회식자리","pinyin":"hoesikjari","vi":"buổi liên hoan công ty","ex":{"tokens":["회식자리에서","노래를","불렀습니다","."],"py":["hoesikjarieseo","noraereul","bulleotseumnida","."],"vi":"Tôi đã hát ở buổi liên hoan công ty.","alts":[]}},
+   {"id":"ko3x39-결재","hanzi":"결재","pinyin":"gyeoljae","vi":"sự phê duyệt","ex":{"tokens":["부장님의","결재를","받습니다","."],"py":["bujangnimui","gyeoljaereul","batseumnida","."],"vi":"Tôi xin phê duyệt của trưởng bộ phận.","alts":[]}},
+   {"id":"ko3x39-일정표","hanzi":"일정표","pinyin":"iljeongpyo","vi":"bảng lịch trình","ex":{"tokens":["일정표를","확인하세요","."],"py":["iljeongpyoreul","hwaginhaseyo","."],"vi":"Hãy kiểm tra bảng lịch trình.","alts":[]}},
+   {"id":"ko3x39-도서관카드","hanzi":"도서관카드","pinyin":"doseogwankadeu","vi":"thẻ mượn sách","ex":{"tokens":["도서관카드로","책을","빌립니다","."],"py":["doseogwankadeuro","chaegeul","billimnida","."],"vi":"Tôi mượn sách bằng thẻ mượn sách.","alts":[]}}
+  ]},
+  {"id":"ko3x40","title":"Tổng hợp 5","desc":"Từ vựng tổng hợp của cấp này","icon":"학","unit":38,"course":"ko","order":1930,"words":[
+   {"id":"ko3x40-학생증","hanzi":"학생증","pinyin":"haksaengjeung","vi":"thẻ sinh viên","ex":{"tokens":["학생증을","보여","주세요","."],"py":["haksaengjeungeul","boyeo","juseyo","."],"vi":"Hãy cho xem thẻ sinh viên.","alts":[]}},
+   {"id":"ko3x40-교환학생","hanzi":"교환학생","pinyin":"gyohwanhaksaeng","vi":"sinh viên trao đổi","ex":{"tokens":["한국에","교환학생으로","왔습니다","."],"py":["hanguge","gyohwanhaksaengeuro","watseumnida","."],"vi":"Tôi đến Hàn Quốc theo diện sinh viên trao đổi.","alts":[]}},
+   {"id":"ko3x40-어학당","hanzi":"어학당","pinyin":"eohakdang","vi":"trung tâm ngôn ngữ","ex":{"tokens":["어학당에서","한국어를","배웁니다","."],"py":["eohakdangeseo","hangugeoreul","baeumnida","."],"vi":"Tôi học tiếng Hàn ở trung tâm ngôn ngữ.","alts":[]}},
+   {"id":"ko3x40-학과","hanzi":"학과","pinyin":"hakgwa","vi":"khoa, ngành học","ex":{"tokens":["저는","경영","학과","학생입니다","."],"py":["jeoneun","gyeongyeong","hakgwa","haksaengimnida","."],"vi":"Tôi là sinh viên khoa quản trị.","alts":[]}},
+   {"id":"ko3x40-조교","hanzi":"조교","pinyin":"jogyo","vi":"trợ giảng","ex":{"tokens":["조교에게","질문합니다","."],"py":["jogyoege","jilmunhamnida","."],"vi":"Tôi hỏi trợ giảng.","alts":[]}},
+   {"id":"ko3x40-축제기간","hanzi":"축제기간","pinyin":"chukjegigan","vi":"thời gian lễ hội","ex":{"tokens":["축제기간에는","수업이","없습니다","."],"py":["chukjegiganeneun","sueobi","eopseumnida","."],"vi":"Trong thời gian lễ hội không có giờ học.","alts":[]}},
+   {"id":"ko3x40-자취","hanzi":"자취","pinyin":"jachwi","vi":"việc ở trọ tự nấu ăn","ex":{"tokens":["학교","근처에서","자취를","합니다","."],"py":["hakgyo","geuncheoeseo","jachwireul","hamnida","."],"vi":"Tôi ở trọ tự nấu ăn gần trường.","alts":[]}},
+   {"id":"ko3x40-진통제","hanzi":"진통제","pinyin":"jintongje","vi":"thuốc giảm đau","ex":{"tokens":["진통제를","먹고","쉬었습니다","."],"py":["jintongjereul","meokgo","swieotseumnida","."],"vi":"Tôi uống thuốc giảm đau rồi nghỉ.","alts":[]}},
+   {"id":"ko3x40-알레르기","hanzi":"알레르기","pinyin":"allereugi","vi":"dị ứng","ex":{"tokens":["저는","꽃가루","알레르기가","있습니다","."],"py":["jeoneun","kkotgaru","allereugiga","itseumnida","."],"vi":"Tôi bị dị ứng phấn hoa.","alts":[]}},
+   {"id":"ko3x40-화상","hanzi":"화상","pinyin":"hwasang","vi":"vết bỏng","ex":{"tokens":["손에","화상을","입었습니다","."],"py":["sone","hwasangeul","ibeotseumnida","."],"vi":"Tôi bị bỏng ở tay.","alts":[]}},
+   {"id":"ko3x40-골절","hanzi":"골절","pinyin":"goljeol","vi":"gãy xương","ex":{"tokens":["팔에","골절이","생겼습니다","."],"py":["pare","goljeori","saenggyeotseumnida","."],"vi":"Tôi bị gãy xương tay.","alts":[]}},
+   {"id":"ko3x40-염증","hanzi":"염증","pinyin":"yeomjeung","vi":"chứng viêm","ex":{"tokens":["목에","염증이","생겼습니다","."],"py":["moge","yeomjeungi","saenggyeotseumnida","."],"vi":"Họng bị viêm.","alts":[]}}
+  ]},
+  {"id":"ko3x41","title":"Tổng hợp 6","desc":"Từ vựng tổng hợp của cấp này","icon":"변","unit":38,"course":"ko","order":1940,"words":[
+   {"id":"ko3x41-변비","hanzi":"변비","pinyin":"byeonbi","vi":"táo bón","ex":{"tokens":["변비","때문에","약을","먹습니다","."],"py":["byeonbi","ttaemune","yageul","meokseumnida","."],"vi":"Vì táo bón nên tôi uống thuốc.","alts":[]}},
+   {"id":"ko3x41-설사","hanzi":"설사","pinyin":"seolsa","vi":"tiêu chảy","ex":{"tokens":["설사를","해서","힘이","없습니다","."],"py":["seolsareul","haeseo","himi","eopseumnida","."],"vi":"Bị tiêu chảy nên tôi mất sức.","alts":[]}},
+   {"id":"ko3x41-구급차","hanzi":"구급차","pinyin":"gugeupcha","vi":"xe cấp cứu","ex":{"tokens":["구급차를","불렀습니다","."],"py":["gugeupchareul","bulleotseumnida","."],"vi":"Tôi đã gọi xe cấp cứu.","alts":[]}},
+   {"id":"ko3x41-병문안","hanzi":"병문안","pinyin":"byeongmunan","vi":"việc thăm bệnh","ex":{"tokens":["친구의","병문안을","갑니다","."],"py":["chinguui","byeongmunaneul","gamnida","."],"vi":"Tôi đi thăm bạn ốm.","alts":[]}},
+   {"id":"ko3x41-간호하다","hanzi":"간호하다","pinyin":"ganhohada","vi":"chăm sóc người bệnh","ex":{"tokens":["어머니를","간호합니다","."],"py":["eomeonireul","ganhohamnida","."],"vi":"Tôi chăm sóc mẹ ốm.","alts":[]}},
+   {"id":"ko3x41-체력","hanzi":"체력","pinyin":"cheryeok","vi":"thể lực","ex":{"tokens":["체력이","좋아졌습니다","."],"py":["cheryeogi","joajyeotseumnida","."],"vi":"Thể lực đã tốt lên.","alts":[]}},
+   {"id":"ko3x41-마라톤","hanzi":"마라톤","pinyin":"maraton","vi":"chạy marathon","ex":{"tokens":["마라톤","대회에","나갑니다","."],"py":["maraton","daehoee","nagamnida","."],"vi":"Tôi tham gia giải marathon.","alts":[]}},
+   {"id":"ko3x41-대회","hanzi":"대회","pinyin":"daehoe","vi":"giải đấu, cuộc thi","ex":{"tokens":["노래","대회에","참가합니다","."],"py":["norae","daehoee","chamgahamnida","."],"vi":"Tôi tham gia cuộc thi hát.","alts":[]}},
+   {"id":"ko3x41-연주회","hanzi":"연주회","pinyin":"yeonjuhoe","vi":"buổi hòa tấu","ex":{"tokens":["피아노","연주회에","갑니다","."],"py":["piano","yeonjuhoee","gamnida","."],"vi":"Tôi đi buổi hòa tấu piano.","alts":[]}},
+   {"id":"ko3x41-뮤지컬","hanzi":"뮤지컬","pinyin":"myujikeol","vi":"nhạc kịch","ex":{"tokens":["주말에","뮤지컬을","봅니다","."],"py":["jumare","myujikeoreul","bomnida","."],"vi":"Cuối tuần tôi xem nhạc kịch.","alts":[]}},
+   {"id":"ko3x41-입장료","hanzi":"입장료","pinyin":"ipjangnyo","vi":"phí vào cửa","ex":{"tokens":["입장료가","만","원입니다","."],"py":["ipjangnyoga","man","wonimnida","."],"vi":"Phí vào cửa là mười nghìn won.","alts":[]}},
+   {"id":"ko3x41-앙코르","hanzi":"앙코르","pinyin":"angkoreu","vi":"yêu cầu diễn lại","ex":{"tokens":["관객들이","앙코르를","외칩니다","."],"py":["gwangaekdeuri","angkoreureul","oechimnida","."],"vi":"Khán giả hô yêu cầu diễn lại.","alts":[]}}
+  ]},
+  {"id":"ko3x42","title":"Tổng hợp 7","desc":"Từ vựng tổng hợp của cấp này","icon":"주","unit":38,"course":"ko","order":1950,"words":[
+   {"id":"ko3x42-주연","hanzi":"주연","pinyin":"juyeon","vi":"vai chính","ex":{"tokens":["그","배우가","주연을","맡았습니다","."],"py":["geu","baeuga","juyeoneul","matatseumnida","."],"vi":"Diễn viên đó đảm nhận vai chính.","alts":[]}},
+   {"id":"ko3x42-뿌듯하다","hanzi":"뿌듯하다","pinyin":"ppudeutada","vi":"mãn nguyện, tự hào","ex":{"tokens":["일을","끝내서","뿌듯합니다","."],"py":["ireul","kkeunnaeseo","ppudeutamnida","."],"vi":"Xong việc nên tôi thấy mãn nguyện.","alts":[]}},
+   {"id":"ko3x42-홀가분하다","hanzi":"홀가분하다","pinyin":"holgabunhada","vi":"nhẹ nhõm","ex":{"tokens":["시험이","끝나서","홀가분합니다","."],"py":["siheomi","kkeunnaseo","holgabunhamnida","."],"vi":"Thi xong nên tôi thấy nhẹ nhõm.","alts":[]}},
+   {"id":"ko3x42-민망하다","hanzi":"민망하다","pinyin":"minmanghada","vi":"ngượng, khó xử","ex":{"tokens":["실수를","해서","민망합니다","."],"py":["silsureul","haeseo","minmanghamnida","."],"vi":"Mắc lỗi nên tôi thấy ngượng.","alts":[]}},
+   {"id":"ko3x42-얄밉다","hanzi":"얄밉다","pinyin":"yalmipda","vi":"đáng ghét","ex":{"tokens":["동생이","가끔","얄밉습니다","."],"py":["dongsaengi","gakkeum","yalmipseumnida","."],"vi":"Em tôi thỉnh thoảng thật đáng ghét.","alts":[]}},
+   {"id":"ko3x42-폐수","hanzi":"폐수","pinyin":"pyesu","vi":"nước thải","ex":{"tokens":["공장","폐수가","강을","더럽힙니다","."],"py":["gongjang","pyesuga","gangeul","deoreopimnida","."],"vi":"Nước thải nhà máy làm bẩn sông.","alts":[]}},
+   {"id":"ko3x42-분리배출","hanzi":"분리배출","pinyin":"bullibaechul","vi":"việc vứt rác theo loại","ex":{"tokens":["플라스틱은","분리배출","합니다","."],"py":["peullaseutigeun","bullibaechul","hamnida","."],"vi":"Nhựa thì vứt riêng theo loại.","alts":[]}},
+   {"id":"ko3x42-구독","hanzi":"구독","pinyin":"gudok","vi":"việc đăng ký theo dõi","ex":{"tokens":["채널","구독을","눌러","주세요","."],"py":["chaeneol","gudogeul","nulleo","juseyo","."],"vi":"Hãy bấm đăng ký theo dõi kênh.","alts":[]}},
+   {"id":"ko3x42-공유하다","hanzi":"공유하다","pinyin":"gongyuhada","vi":"chia sẻ","ex":{"tokens":["사진을","친구들과","공유합니다","."],"py":["sajineul","chingudeulgwa","gongyuhamnida","."],"vi":"Tôi chia sẻ ảnh với bạn bè.","alts":[]}},
+   {"id":"ko3x42-퍼지다","hanzi":"퍼지다","pinyin":"peojida","vi":"lan rộng","ex":{"tokens":["소문이","빨리","퍼집니다","."],"py":["somuni","ppalli","peojimnida","."],"vi":"Tin đồn lan nhanh.","alts":[]}},
+   {"id":"ko3x42-악성댓글","hanzi":"악성댓글","pinyin":"akseongdaetgeul","vi":"bình luận ác ý","ex":{"tokens":["악성댓글은","사람을","아프게","합니다","."],"py":["akseongdaetgeureun","sarameul","apeuge","hamnida","."],"vi":"Bình luận ác ý làm người ta tổn thương.","alts":[]}},
+   {"id":"ko3x42-화제","hanzi":"화제","pinyin":"hwaje","vi":"đề tài bàn tán","ex":{"tokens":["그","영화가","화제입니다","."],"py":["geu","yeonghwaga","hwajeimnida","."],"vi":"Bộ phim đó đang là đề tài bàn tán.","alts":[]}}
+  ]},
+  {"id":"ko3x43","title":"Tổng hợp 8","desc":"Từ vựng tổng hợp của cấp này","icon":"엎","unit":38,"course":"ko","order":1960,"words":[
+   {"id":"ko3x43-엎지르다","hanzi":"엎지르다","pinyin":"eopjireuda","vi":"làm đổ (chất lỏng)","ex":{"tokens":["물을","엎질렀습니다","."],"py":["mureul","eopjilleotseumnida","."],"vi":"Tôi đã làm đổ nước.","alts":[]}},
+   {"id":"ko3x43-망가뜨리다","hanzi":"망가뜨리다","pinyin":"manggatteurida","vi":"làm hỏng","ex":{"tokens":["동생이","장난감을","망가뜨렸습니다","."],"py":["dongsaengi","jangnangameul","manggatteuryeotseumnida","."],"vi":"Em đã làm hỏng đồ chơi.","alts":[]}},
+   {"id":"ko3x43-도리어","hanzi":"도리어","pinyin":"dorieo","vi":"ngược lại còn","ex":{"tokens":["도와주려다가","도리어","방해가","됐습니다","."],"py":["dowajuryeodaga","dorieo","banghaega","dwaetseumnida","."],"vi":"Định giúp mà ngược lại còn gây cản trở.","alts":[]}},
+   {"id":"ko3x43-확실히","hanzi":"확실히","pinyin":"hwaksilhi","vi":"chắc chắn","ex":{"tokens":["확실히","어제보다","따뜻합니다","."],"py":["hwaksilhi","eojeboda","ttatteutamnida","."],"vi":"Chắc chắn là ấm hơn hôm qua.","alts":[]}},
+   {"id":"ko3x43-솔직히","hanzi":"솔직히","pinyin":"soljiki","vi":"thành thật mà nói","ex":{"tokens":["솔직히","잘","모르겠습니다","."],"py":["soljiki","jal","moreugetseumnida","."],"vi":"Thành thật mà nói tôi không rõ lắm.","alts":[]}},
+   {"id":"ko3x43-꾸준히","hanzi":"꾸준히","pinyin":"kkujunhi","vi":"đều đặn","ex":{"tokens":["매일","꾸준히","운동합니다","."],"py":["maeil","kkujunhi","undonghamnida","."],"vi":"Hằng ngày tôi tập thể dục đều đặn.","alts":[]}},
+   {"id":"ko3x43-차차","hanzi":"차차","pinyin":"chacha","vi":"từ từ rồi","ex":{"tokens":["차차","익숙해질","겁니다","."],"py":["chacha","iksukaejil","geomnida","."],"vi":"Từ từ rồi sẽ quen thôi.","alts":[]}},
+   {"id":"ko3x43-대충","hanzi":"대충","pinyin":"daechung","vi":"qua loa","ex":{"tokens":["숙제를","대충","했습니다","."],"py":["sukjereul","daechung","haetseumnida","."],"vi":"Tôi đã làm bài tập qua loa.","alts":[]}},
+   {"id":"ko3x43-제대로","hanzi":"제대로","pinyin":"jedaero","vi":"đúng cách, tử tế","ex":{"tokens":["밥을","제대로","먹어야","합니다","."],"py":["babeul","jedaero","meogeoya","hamnida","."],"vi":"Phải ăn uống cho tử tế.","alts":[]}},
+   {"id":"ko3x43-억지로","hanzi":"억지로","pinyin":"eokjiro","vi":"gượng ép","ex":{"tokens":["억지로","웃습니다","."],"py":["eokjiro","utseumnida","."],"vi":"Tôi gượng cười.","alts":[]}},
+   {"id":"ko3x43-마음껏","hanzi":"마음껏","pinyin":"maeumkkeot","vi":"thỏa thích","ex":{"tokens":["마음껏","드세요","."],"py":["maeumkkeot","deuseyo","."],"vi":"Mời bạn ăn thỏa thích.","alts":[]}},
+   {"id":"ko3x43-실컷","hanzi":"실컷","pinyin":"silkeot","vi":"thỏa thuê, đã đời","ex":{"tokens":["주말에","실컷","잤습니다","."],"py":["jumare","silkeot","jatseumnida","."],"vi":"Cuối tuần tôi đã ngủ đã đời.","alts":[]}}
+  ]},
+  {"id":"ko3x44","title":"Tổng hợp 9","desc":"Từ vựng tổng hợp của cấp này","icon":"우","unit":38,"course":"ko","order":1970,"words":[
+   {"id":"ko3x44-우편번호","hanzi":"우편번호","pinyin":"upyeonbeonho","vi":"mã bưu chính","ex":{"tokens":["우편번호를","써","주세요","."],"py":["upyeonbeonhoreul","sseo","juseyo","."],"vi":"Hãy ghi mã bưu chính.","alts":[]}},
+   {"id":"ko3x44-발급하다","hanzi":"발급하다","pinyin":"balgeupada","vi":"cấp (giấy tờ)","ex":{"tokens":["여권을","발급합니다","."],"py":["yeogwoneul","balgeupamnida","."],"vi":"Họ cấp hộ chiếu.","alts":[]}},
+   {"id":"ko3x44-연장하다","hanzi":"연장하다","pinyin":"yeonjanghada","vi":"gia hạn","ex":{"tokens":["비자를","연장했습니다","."],"py":["bijareul","yeonjanghaetseumnida","."],"vi":"Tôi đã gia hạn thị thực.","alts":[]}},
+   {"id":"ko3x44-작성하다","hanzi":"작성하다","pinyin":"jakseonghada","vi":"soạn, điền","ex":{"tokens":["신청서를","작성합니다","."],"py":["sincheongseoreul","jakseonghamnida","."],"vi":"Tôi điền đơn đăng ký.","alts":[]}},
+   {"id":"ko3x44-보증서","hanzi":"보증서","pinyin":"bojeungseo","vi":"giấy bảo hành","ex":{"tokens":["보증서를","잘","보관하세요","."],"py":["bojeungseoreul","jal","bogwanhaseyo","."],"vi":"Hãy cất giữ giấy bảo hành cẩn thận.","alts":[]}},
+   {"id":"ko3x44-유통기한","hanzi":"유통기한","pinyin":"yutonggihan","vi":"hạn sử dụng","ex":{"tokens":["우유의","유통기한을","확인합니다","."],"py":["uyuui","yutonggihaneul","hwaginhamnida","."],"vi":"Tôi kiểm tra hạn sử dụng của sữa.","alts":[]}},
+   {"id":"ko3x44-재고","hanzi":"재고","pinyin":"jaego","vi":"hàng tồn kho","ex":{"tokens":["재고가","없습니다","."],"py":["jaegoga","eopseumnida","."],"vi":"Không còn hàng tồn.","alts":[]}},
+   {"id":"ko3x44-진열하다","hanzi":"진열하다","pinyin":"jinyeolhada","vi":"trưng bày","ex":{"tokens":["상품을","진열합니다","."],"py":["sangpumeul","jinyeolhamnida","."],"vi":"Họ trưng bày hàng hóa.","alts":[]}},
+   {"id":"ko3x44-무료배송","hanzi":"무료배송","pinyin":"muryobaesong","vi":"miễn phí giao hàng","ex":{"tokens":["삼만","원","이상은","무료배송입니다","."],"py":["samman","won","isangeun","muryobaesongimnida","."],"vi":"Đơn từ ba mươi nghìn won được miễn phí giao hàng.","alts":[]}},
+   {"id":"ko3x44-후기","hanzi":"후기","pinyin":"hugi","vi":"bài đánh giá sau khi dùng","ex":{"tokens":["구매","후기를","읽어","봅니다","."],"py":["gumae","hugireul","ilgeo","bomnida","."],"vi":"Tôi đọc thử các bài đánh giá của người mua.","alts":[]}},
+   {"id":"ko3x44-매콤하다","hanzi":"매콤하다","pinyin":"maekomhada","vi":"cay cay","ex":{"tokens":["떡볶이가","매콤합니다","."],"py":["tteokbokkiga","maekomhamnida","."],"vi":"Bánh gạo cay có vị cay cay.","alts":[]}},
+   {"id":"ko3x44-새콤하다","hanzi":"새콤하다","pinyin":"saekomhada","vi":"chua chua","ex":{"tokens":["귤이","새콤합니다","."],"py":["gyuri","saekomhamnida","."],"vi":"Quýt chua chua.","alts":[]}}
+  ]},
+  {"id":"ko3x45","title":"Tổng hợp 10","desc":"Từ vựng tổng hợp của cấp này","icon":"쫄","unit":38,"course":"ko","order":1980,"words":[
+   {"id":"ko3x45-쫄깃하다","hanzi":"쫄깃하다","pinyin":"jjolgitada","vi":"dai dai","ex":{"tokens":["떡이","쫄깃합니다","."],"py":["tteogi","jjolgitamnida","."],"vi":"Bánh gạo dai dai.","alts":[]}},
+   {"id":"ko3x45-바삭하다","hanzi":"바삭하다","pinyin":"basakada","vi":"giòn tan","ex":{"tokens":["튀김이","바삭합니다","."],"py":["twigimi","basakamnida","."],"vi":"Đồ chiên giòn tan.","alts":[]}},
+   {"id":"ko3x45-싱싱하다","hanzi":"싱싱하다","pinyin":"singsinghada","vi":"tươi roi rói","ex":{"tokens":["생선이","싱싱합니다","."],"py":["saengseoni","singsinghamnida","."],"vi":"Cá tươi roi rói.","alts":[]}},
+   {"id":"ko3x45-향수","hanzi":"향수","pinyin":"hyangsu","vi":"nước hoa","ex":{"tokens":["향수를","뿌립니다","."],"py":["hyangsureul","ppurimnida","."],"vi":"Tôi xịt nước hoa.","alts":[]}},
+   {"id":"ko3x45-립스틱","hanzi":"립스틱","pinyin":"ripseutik","vi":"son môi","ex":{"tokens":["빨간","립스틱을","바릅니다","."],"py":["ppalgan","ripseutigeul","bareumnida","."],"vi":"Tôi tô son đỏ.","alts":[]}},
+   {"id":"ko3x45-정장","hanzi":"정장","pinyin":"jeongjang","vi":"com lê, đồ công sở","ex":{"tokens":["면접에","정장을","입고","갑니다","."],"py":["myeonjeobe","jeongjangeul","ipgo","gamnida","."],"vi":"Tôi mặc đồ công sở đi phỏng vấn.","alts":[]}},
+   {"id":"ko3x45-캐주얼","hanzi":"캐주얼","pinyin":"kaejueol","vi":"trang phục thường ngày","ex":{"tokens":["주말에는","캐주얼","옷을","입습니다","."],"py":["jumareneun","kaejueol","oseul","ipseumnida","."],"vi":"Cuối tuần tôi mặc đồ thường ngày.","alts":[]}},
+   {"id":"ko3x45-무늬","hanzi":"무늬","pinyin":"munui","vi":"hoa văn","ex":{"tokens":["꽃","무늬","원피스를","샀습니다","."],"py":["kkot","munui","wonpiseureul","satseumnida","."],"vi":"Tôi đã mua váy liền hoa văn hoa.","alts":[]}},
+   {"id":"ko3x45-줄무늬","hanzi":"줄무늬","pinyin":"julmunui","vi":"kẻ sọc","ex":{"tokens":["줄무늬","셔츠가","잘","어울립니다","."],"py":["julmunui","syeocheuga","jal","eoullimnida","."],"vi":"Áo sơ mi kẻ sọc rất hợp.","alts":[]}},
+   {"id":"ko3x45-헐렁하다","hanzi":"헐렁하다","pinyin":"heolleonghada","vi":"rộng thùng thình","ex":{"tokens":["이","바지는","헐렁합니다","."],"py":["i","bajineun","heolleonghamnida","."],"vi":"Cái quần này rộng thùng thình.","alts":[]}},
+   {"id":"ko3x45-꽉끼다","hanzi":"꽉끼다","pinyin":"kkwakkkida","vi":"chật ních","ex":{"tokens":["신발이","꽉낍니다","."],"py":["sinbari","kkwakkkimnida","."],"vi":"Giày chật ních.","alts":[]}},
+   {"id":"ko3x45-통통하다","hanzi":"통통하다","pinyin":"tongtonghada","vi":"mũm mĩm","ex":{"tokens":["아기","볼이","통통합니다","."],"py":["agi","bori","tongtonghamnida","."],"vi":"Má em bé mũm mĩm.","alts":[]}}
+  ]}
+ ]
+}

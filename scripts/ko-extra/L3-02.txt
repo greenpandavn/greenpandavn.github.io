@@ -1,0 +1,86 @@
+=3
+@Tìm việc và công sở|Tuyển dụng, đồng nghiệp
+구직|việc tìm việc làm|요즘 구직 활동을 합니다.|Dạo này tôi đang tìm việc.
+채용|việc tuyển dụng|회사가 신입 사원 채용을 합니다.|Công ty tuyển dụng nhân viên mới.
+모집|việc chiêu mộ|아르바이트 모집 광고를 봤습니다.|Tôi đã thấy quảng cáo tuyển làm thêm.
+자기소개서|bản tự giới thiệu|자기소개서를 씁니다.|Tôi viết bản tự giới thiệu.
+추천서|thư giới thiệu|교수님에게 추천서를 부탁했습니다.|Tôi đã nhờ giáo sư viết thư giới thiệu.
+연봉|lương năm|연봉이 올랐습니다.|Lương năm đã tăng.
+보너스|tiền thưởng|연말에 보너스를 받습니다.|Cuối năm tôi nhận tiền thưởng.
+수당|phụ cấp|야근 수당이 나옵니다.|Có phụ cấp làm đêm.
+인턴|thực tập sinh|회사에서 인턴으로 일합니다.|Tôi làm thực tập sinh ở công ty.
+계약직|nhân viên hợp đồng|그는 계약직 사원입니다.|Anh ấy là nhân viên hợp đồng.
+상사|cấp trên|상사에게 보고합니다.|Tôi báo cáo với cấp trên.
+부하|cấp dưới|부하 직원을 잘 챙깁니다.|Anh ấy chăm lo tốt cho nhân viên cấp dưới.
+입사|việc vào công ty|작년에 입사를 했습니다.|Năm ngoái tôi đã vào công ty.
+퇴사|việc thôi việc|다음 달에 퇴사를 합니다.|Tháng sau tôi thôi việc.
+이직|việc chuyển chỗ làm|이직을 준비합니다.|Tôi chuẩn bị chuyển chỗ làm.
+사표|đơn xin thôi việc|사표를 냈습니다.|Tôi đã nộp đơn xin thôi việc.
+회식자리|buổi liên hoan công ty|회식자리에서 노래를 불렀습니다.|Tôi đã hát ở buổi liên hoan công ty.
+결재|sự phê duyệt|부장님의 결재를 받습니다.|Tôi xin phê duyệt của trưởng bộ phận.
+일정표|bảng lịch trình|일정표를 확인하세요.|Hãy kiểm tra bảng lịch trình.
+@Đời sống đại học|Học tập và sinh viên
+신입생|sinh viên mới|신입생 환영 행사가 있습니다.|Có sự kiện chào đón sinh viên mới.
+재학생|sinh viên đang học|재학생은 할인을 받습니다.|Sinh viên đang học được giảm giá.
+졸업생|sinh viên đã tốt nghiệp|졸업생들이 학교를 방문했습니다.|Các cựu sinh viên đã thăm trường.
+휴학|việc bảo lưu|일 년 동안 휴학을 합니다.|Tôi bảo lưu một năm.
+복학|việc đi học lại|다음 학기에 복학을 합니다.|Học kỳ sau tôi đi học lại.
+수강신청|đăng ký môn học|내일 수강신청을 합니다.|Ngày mai tôi đăng ký môn học.
+학점|tín chỉ, điểm|이번 학기 학점이 좋습니다.|Điểm học kỳ này tốt.
+중간고사|thi giữa kỳ|다음 주에 중간고사가 있습니다.|Tuần sau có thi giữa kỳ.
+기말고사|thi cuối kỳ|기말고사를 준비합니다.|Tôi chuẩn bị thi cuối kỳ.
+논문|luận văn|졸업 논문을 씁니다.|Tôi viết luận văn tốt nghiệp.
+발표|bài phát biểu, thuyết trình|내일 발표가 있습니다.|Ngày mai có bài thuyết trình.
+조별과제|bài tập nhóm|조별과제를 같이 합니다.|Chúng tôi cùng làm bài tập nhóm.
+도서관카드|thẻ mượn sách|도서관카드로 책을 빌립니다.|Tôi mượn sách bằng thẻ mượn sách.
+학생증|thẻ sinh viên|학생증을 보여 주세요.|Hãy cho xem thẻ sinh viên.
+교환학생|sinh viên trao đổi|한국에 교환학생으로 왔습니다.|Tôi đến Hàn Quốc theo diện sinh viên trao đổi.
+어학당|trung tâm ngôn ngữ|어학당에서 한국어를 배웁니다.|Tôi học tiếng Hàn ở trung tâm ngôn ngữ.
+학과|khoa, ngành học|저는 경영 학과 학생입니다.|Tôi là sinh viên khoa quản trị.
+조교|trợ giảng|조교에게 질문합니다.|Tôi hỏi trợ giảng.
+축제기간|thời gian lễ hội|축제기간에는 수업이 없습니다.|Trong thời gian lễ hội không có giờ học.
+자취|việc ở trọ tự nấu ăn|학교 근처에서 자취를 합니다.|Tôi ở trọ tự nấu ăn gần trường.
+@Bệnh viện|Khám và điều trị
+진찰|việc khám bệnh|의사의 진찰을 받습니다.|Tôi được bác sĩ khám.
+접수|việc đăng ký khám|먼저 접수를 하세요.|Trước tiên hãy đăng ký.
+외과|khoa ngoại|다리를 다쳐서 외과에 갑니다.|Bị thương ở chân nên tôi đến khoa ngoại.
+소아과|khoa nhi|아이를 소아과에 데려갑니다.|Tôi đưa con đến khoa nhi.
+이비인후과|khoa tai mũi họng|목이 아파서 이비인후과에 갑니다.|Đau họng nên tôi đi khoa tai mũi họng.
+정형외과|khoa chỉnh hình|허리가 아파서 정형외과에 갑니다.|Đau lưng nên tôi đi khoa chỉnh hình.
+엑스레이|chụp X-quang|가슴 엑스레이를 찍습니다.|Tôi chụp X-quang ngực.
+혈액검사|xét nghiệm máu|혈액검사 결과를 기다립니다.|Tôi chờ kết quả xét nghiệm máu.
+깁스|bó bột|다리에 깁스를 했습니다.|Tôi đã bó bột ở chân.
+붕대|băng gạc|손에 붕대를 감습니다.|Tôi quấn băng vào tay.
+알약|thuốc viên|알약을 두 개 먹습니다.|Tôi uống hai viên thuốc.
+해열제|thuốc hạ sốt|열이 나서 해열제를 먹습니다.|Bị sốt nên tôi uống thuốc hạ sốt.
+진통제|thuốc giảm đau|진통제를 먹고 쉬었습니다.|Tôi uống thuốc giảm đau rồi nghỉ.
+알레르기|dị ứng|저는 꽃가루 알레르기가 있습니다.|Tôi bị dị ứng phấn hoa.
+화상|vết bỏng|손에 화상을 입었습니다.|Tôi bị bỏng ở tay.
+골절|gãy xương|팔에 골절이 생겼습니다.|Tôi bị gãy xương tay.
+염증|chứng viêm|목에 염증이 생겼습니다.|Họng bị viêm.
+변비|táo bón|변비 때문에 약을 먹습니다.|Vì táo bón nên tôi uống thuốc.
+설사|tiêu chảy|설사를 해서 힘이 없습니다.|Bị tiêu chảy nên tôi mất sức.
+구급차|xe cấp cứu|구급차를 불렀습니다.|Tôi đã gọi xe cấp cứu.
+병문안|việc thăm bệnh|친구의 병문안을 갑니다.|Tôi đi thăm bạn ốm.
+간호하다|chăm sóc người bệnh|어머니를 간호합니다.|Tôi chăm sóc mẹ ốm.
+@Thể thao và biểu diễn|Thi đấu, sân khấu
+시합|trận thi đấu|내일 축구 시합이 있습니다.|Ngày mai có trận bóng đá.
+결승|trận chung kết|우리 팀이 결승에 갔습니다.|Đội chúng tôi vào chung kết.
+우승|chức vô địch|한국 팀이 우승을 했습니다.|Đội Hàn Quốc đã vô địch.
+무승부|trận hòa|경기는 무승부로 끝났습니다.|Trận đấu kết thúc với tỷ số hòa.
+득점|việc ghi điểm|그 선수가 득점을 했습니다.|Cầu thủ đó đã ghi điểm.
+심판|trọng tài|심판이 휘슬을 붑니다.|Trọng tài thổi còi.
+관중|khán giả (thể thao)|경기장에 관중이 많습니다.|Trên sân có nhiều khán giả.
+경기장|sân thi đấu|경기장에 일찍 도착했습니다.|Tôi đã đến sân thi đấu sớm.
+올림픽|Thế vận hội|올림픽은 사 년마다 열립니다.|Thế vận hội được tổ chức bốn năm một lần.
+금메달|huy chương vàng|그 선수가 금메달을 땄습니다.|Vận động viên đó đã giành huy chương vàng.
+기록|kỷ lục; bản ghi|세계 기록을 세웠습니다.|Anh ấy đã lập kỷ lục thế giới.
+훈련|sự huấn luyện|선수들이 훈련을 합니다.|Các vận động viên tập huấn.
+체력|thể lực|체력이 좋아졌습니다.|Thể lực đã tốt lên.
+마라톤|chạy marathon|마라톤 대회에 나갑니다.|Tôi tham gia giải marathon.
+대회|giải đấu, cuộc thi|노래 대회에 참가합니다.|Tôi tham gia cuộc thi hát.
+연주회|buổi hòa tấu|피아노 연주회에 갑니다.|Tôi đi buổi hòa tấu piano.
+뮤지컬|nhạc kịch|주말에 뮤지컬을 봅니다.|Cuối tuần tôi xem nhạc kịch.
+입장료|phí vào cửa|입장료가 만 원입니다.|Phí vào cửa là mười nghìn won.
+앙코르|yêu cầu diễn lại|관객들이 앙코르를 외칩니다.|Khán giả hô yêu cầu diễn lại.
+주연|vai chính|그 배우가 주연을 맡았습니다.|Diễn viên đó đảm nhận vai chính.

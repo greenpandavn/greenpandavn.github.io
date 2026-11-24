@@ -3,7 +3,7 @@
   {"unit":22,"level":2,"title":"Phần 2: Ra ngoài và giao tiếp","desc":"Du lịch, thành phố, liên lạc, học tập, sinh hoạt","color":"sky","course":"ko"}
  ],
  "lessons": [
-  {"id":"ko206","title":"Du lịch","desc":"Khách sạn, hộ chiếu, đặt chỗ","icon":"여","unit":22,"course":"ko","order":210,"words":[
+  {"id":"ko206","title":"Du lịch","desc":"Khách sạn, hộ chiếu, đặt chỗ","icon":"여","unit":22,"course":"ko","order":750,"words":[
    {"id":"ko206-호텔","hanzi":"호텔","pinyin":"hotel","vi":"khách sạn","ex":{"tokens":["바다가","보이는","호텔을","예약했습니다","."],"py":["badaga","boineun","hotereul","yeyakaetseumnida","."],"vi":"Tôi đã đặt khách sạn nhìn ra biển.","alts":[]}},
    {"id":"ko206-여권","hanzi":"여권","pinyin":"yeogwon","vi":"hộ chiếu","ex":{"tokens":["공항에서","여권을","보여","주세요","."],"py":["gonghangeseo","yeogwoneul","boyeo","juseyo","."],"vi":"Xin hãy xuất trình hộ chiếu ở sân bay.","alts":[]}},
    {"id":"ko206-예약하다","hanzi":"예약하다","pinyin":"yeyakada","vi":"đặt trước","ex":{"tokens":["식당을","미리","예약하는","것이","좋습니다","."],"py":["sikdangeul","miri","yeyakaneun","geosi","joseumnida","."],"vi":"Nên đặt nhà hàng trước.","alts":[]}},
@@ -17,7 +17,7 @@
    {"id":"ko206-경치","hanzi":"경치","pinyin":"gyeongchi","vi":"phong cảnh","ex":{"tokens":["산","위에서","본","경치가","아름답습니다","."],"py":["san","wieseo","bon","gyeongchiga","areumdapseumnida","."],"vi":"Phong cảnh nhìn từ trên núi rất đẹp.","alts":[]}},
    {"id":"ko206-묵다","hanzi":"묵다","pinyin":"mukda","vi":"trọ lại, nghỉ lại","ex":{"tokens":["친구","집에서","이틀","동안","묵었습니다","."],"py":["chingu","jibeseo","iteul","dongan","mugeotseumnida","."],"vi":"Tôi đã nghỉ lại nhà bạn hai ngày.","alts":[]}}
   ]},
-  {"id":"ko207","title":"Thành phố và chỉ đường","desc":"Ngã tư, đèn giao thông, rẽ","icon":"도","unit":22,"course":"ko","order":220,"words":[
+  {"id":"ko207","title":"Thành phố và chỉ đường","desc":"Ngã tư, đèn giao thông, rẽ","icon":"도","unit":22,"course":"ko","order":760,"words":[
    {"id":"ko207-도시","hanzi":"도시","pinyin":"dosi","vi":"thành phố","ex":{"tokens":["서울은","크고","복잡한","도시입니다","."],"py":["seoureun","keugo","bokjapan","dosiimnida","."],"vi":"Seoul là một thành phố lớn và đông đúc.","alts":[]}},
    {"id":"ko207-시골","hanzi":"시골","pinyin":"sigol","vi":"nông thôn","ex":{"tokens":["할머니는","조용한","시골에","사십니다","."],"py":["halmeonineun","joyonghan","sigore","sasimnida","."],"vi":"Bà sống ở vùng quê yên tĩnh.","alts":[]}},
    {"id":"ko207-건물","hanzi":"건물","pinyin":"geonmul","vi":"tòa nhà","ex":{"tokens":["저","높은","건물이","우리","회사입니다","."],"py":["jeo","nopeun","geonmuri","uri","hoesaimnida","."],"vi":"Tòa nhà cao kia là công ty tôi.","alts":[]}},
@@ -31,7 +31,7 @@
    {"id":"ko207-우체국","hanzi":"우체국","pinyin":"ucheguk","vi":"bưu điện","ex":{"tokens":["우체국에서","소포를","보냈습니다","."],"py":["uchegugeseo","soporeul","bonaetseumnida","."],"vi":"Tôi đã gửi bưu kiện ở bưu điện.","alts":[]}},
    {"id":"ko207-편의점","hanzi":"편의점","pinyin":"pyeonuijeom","vi":"cửa hàng tiện lợi","ex":{"tokens":["집","앞","편의점은","밤에도","엽니다","."],"py":["jip","ap","pyeonuijeomeun","bamedo","yeomnida","."],"vi":"Cửa hàng tiện lợi trước nhà mở cả ban đêm.","alts":[]}}
   ]},
-  {"id":"ko208","title":"Liên lạc","desc":"Điện thoại, tin nhắn, internet","icon":"전","unit":22,"course":"ko","order":230,"words":[
+  {"id":"ko208","title":"Liên lạc","desc":"Điện thoại, tin nhắn, internet","icon":"전","unit":22,"course":"ko","order":770,"words":[
    {"id":"ko208-전화","hanzi":"전화","pinyin":"jeonhwa","vi":"điện thoại, cuộc gọi","ex":{"tokens":["어머니에게","매일","전화를","합니다","."],"py":["eomeoniege","maeil","jeonhwareul","hamnida","."],"vi":"Tôi gọi điện cho mẹ mỗi ngày.","alts":[]}},
    {"id":"ko208-휴대폰","hanzi":"휴대폰","pinyin":"hyudaepon","vi":"điện thoại di động","ex":{"tokens":["휴대폰을","집에","두고","왔습니다","."],"py":["hyudaeponeul","jibe","dugo","watseumnida","."],"vi":"Tôi để quên điện thoại ở nhà.","alts":[]}},
    {"id":"ko208-문자","hanzi":"문자","pinyin":"munja","vi":"tin nhắn","ex":{"tokens":["도착하면","문자를","보내","주세요","."],"py":["dochakamyeon","munjareul","bonae","juseyo","."],"vi":"Đến nơi thì hãy nhắn tin cho tôi.","alts":[]}},
@@ -45,7 +45,7 @@
    {"id":"ko208-받다","hanzi":"받다","pinyin":"batda","vi":"nhận","ex":{"tokens":["어제","친구의","전화를","받았습니다","."],"py":["eoje","chinguui","jeonhwareul","badatseumnida","."],"vi":"Hôm qua tôi đã nhận điện thoại của bạn.","alts":[]}},
    {"id":"ko208-말하다","hanzi":"말하다","pinyin":"malhada","vi":"nói","ex":{"tokens":["천천히","말해","주시겠습니까","?"],"py":["cheoncheonhi","malhae","jusigetseumnikka","?"],"vi":"Bạn nói chậm lại được không?","alts":[]}}
   ]},
-  {"id":"ko209","title":"Học tập","desc":"Đại học, chuyên ngành, luyện tập","icon":"배","unit":22,"course":"ko","order":240,"words":[
+  {"id":"ko209","title":"Học tập","desc":"Đại học, chuyên ngành, luyện tập","icon":"배","unit":22,"course":"ko","order":780,"words":[
    {"id":"ko209-대학교","hanzi":"대학교","pinyin":"daehakgyo","vi":"trường đại học","ex":{"tokens":["저는","내년에","대학교에","들어갑니다","."],"py":["jeoneun","naenyeone","daehakgyoe","deureogamnida","."],"vi":"Năm sau tôi vào đại học.","alts":[]}},
    {"id":"ko209-전공","hanzi":"전공","pinyin":"jeongong","vi":"chuyên ngành","ex":{"tokens":["제","전공은","한국어","교육입니다","."],"py":["je","jeongongeun","hangugeo","gyoyugimnida","."],"vi":"Chuyên ngành của tôi là giáo dục tiếng Hàn.","alts":[]}},
    {"id":"ko209-수업","hanzi":"수업","pinyin":"sueop","vi":"tiết học, lớp học","ex":{"tokens":["오전","수업은","아홉","시에","시작합니다","."],"py":["ojeon","sueobeun","ahop","sie","sijakamnida","."],"vi":"Lớp buổi sáng bắt đầu lúc chín giờ.","alts":[]}},
@@ -59,7 +59,7 @@
    {"id":"ko209-문법","hanzi":"문법","pinyin":"munbeop","vi":"ngữ pháp","ex":{"tokens":["한국어","문법은","조금","어렵습니다","."],"py":["hangugeo","munbeobeun","jogeum","eoryeopseumnida","."],"vi":"Ngữ pháp tiếng Hàn hơi khó.","alts":[]}},
    {"id":"ko209-졸업하다","hanzi":"졸업하다","pinyin":"joreopada","vi":"tốt nghiệp","ex":{"tokens":["형은","작년에","대학교를","졸업했습니다","."],"py":["hyeongeun","jangnyeone","daehakgyoreul","joreopaetseumnida","."],"vi":"Anh tôi tốt nghiệp đại học năm ngoái.","alts":[]}}
   ]},
-  {"id":"ko210","title":"Sinh hoạt hằng ngày","desc":"Dậy, tắm rửa, dọn dẹp, nấu ăn","icon":"생","unit":22,"course":"ko","order":250,"words":[
+  {"id":"ko210","title":"Sinh hoạt hằng ngày","desc":"Dậy, tắm rửa, dọn dẹp, nấu ăn","icon":"생","unit":22,"course":"ko","order":790,"words":[
    {"id":"ko210-생활","hanzi":"생활","pinyin":"saenghwal","vi":"cuộc sống, sinh hoạt","ex":{"tokens":["한국","생활에","많이","익숙해졌습니다","."],"py":["hanguk","saenghware","mani","iksukaejyeotseumnida","."],"vi":"Tôi đã quen nhiều với cuộc sống ở Hàn Quốc.","alts":[]}},
    {"id":"ko210-일어나다","hanzi":"일어나다","pinyin":"ireonada","vi":"thức dậy","ex":{"tokens":["저는","보통","여섯","시에","일어납니다","."],"py":["jeoneun","botong","yeoseot","sie","ireonamnida","."],"vi":"Tôi thường dậy lúc sáu giờ.","alts":[]}},
    {"id":"ko210-씻다","hanzi":"씻다","pinyin":"ssitda","vi":"rửa, tắm rửa","ex":{"tokens":["집에","오면","먼저","손을","씻습니다","."],"py":["jibe","omyeon","meonjeo","soneul","ssitseumnida","."],"vi":"Về nhà là tôi rửa tay trước.","alts":[]}},

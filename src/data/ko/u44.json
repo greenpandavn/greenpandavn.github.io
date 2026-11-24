@@ -1,0 +1,133 @@
+{
+ "units": [
+  {"unit":44,"level":4,"title":"Phần 4: Kinh tế đời sống và hơn thế","desc":"Kinh tế đời sống, Doanh nghiệp và sản xuất, Luật pháp và trật tự, Chính trị và hành chính, Khoa học và công nghệ","color":"sun","course":"ko"}
+ ],
+ "lessons": [
+  {"id":"ko4x01","title":"Kinh tế đời sống 1","desc":"Thu nhập, chi tiêu, thị trường","icon":"가","unit":44,"course":"ko","order":2230,"words":[
+   {"id":"ko4x01-가계","hanzi":"가계","pinyin":"gagye","vi":"kinh tế hộ gia đình","ex":{"tokens":["가계","지출이","늘었습니다","."],"py":["gagye","jichuri","neureotseumnida","."],"vi":"Chi tiêu của hộ gia đình đã tăng.","alts":[]}},
+   {"id":"ko4x01-소득","hanzi":"소득","pinyin":"sodeuk","vi":"thu nhập","ex":{"tokens":["소득이","낮은","가정을","지원합니다","."],"py":["sodeugi","najeun","gajeongeul","jiwonhamnida","."],"vi":"Hỗ trợ các gia đình thu nhập thấp.","alts":[]}},
+   {"id":"ko4x01-월급날","hanzi":"월급날","pinyin":"wolgeumnal","vi":"ngày lĩnh lương","ex":{"tokens":["월급날에","외식을","합니다","."],"py":["wolgeumnare","oesigeul","hamnida","."],"vi":"Ngày lĩnh lương tôi đi ăn ngoài.","alts":[]}},
+   {"id":"ko4x01-재산","hanzi":"재산","pinyin":"jaesan","vi":"tài sản riêng","ex":{"tokens":["그는","재산이","많습니다","."],"py":["geuneun","jaesani","manseumnida","."],"vi":"Ông ấy có nhiều tài sản.","alts":[]}},
+   {"id":"ko4x01-빚","hanzi":"빚","pinyin":"bit","vi":"món nợ","ex":{"tokens":["빚을","모두","갚았습니다","."],"py":["bijeul","modu","gapatseumnida","."],"vi":"Tôi đã trả hết nợ.","alts":[]}},
+   {"id":"ko4x01-저금","hanzi":"저금","pinyin":"jeogeum","vi":"tiền để dành","ex":{"tokens":["저금을","꾸준히","합니다","."],"py":["jeogeumeul","kkujunhi","hamnida","."],"vi":"Tôi để dành tiền đều đặn.","alts":[]}},
+   {"id":"ko4x01-예금","hanzi":"예금","pinyin":"yegeum","vi":"tiền gửi ngân hàng","ex":{"tokens":["은행에","예금을","합니다","."],"py":["eunhaenge","yegeumeul","hamnida","."],"vi":"Tôi gửi tiền ở ngân hàng.","alts":[]}},
+   {"id":"ko4x01-신용","hanzi":"신용","pinyin":"sinyong","vi":"tín dụng, uy tín","ex":{"tokens":["신용이","좋아야","대출을","받습니다","."],"py":["sinyongi","joaya","daechureul","batseumnida","."],"vi":"Phải có tín dụng tốt mới vay được.","alts":[]}},
+   {"id":"ko4x01-신용카드","hanzi":"신용카드","pinyin":"sinyongkadeu","vi":"thẻ tín dụng","ex":{"tokens":["신용카드로","결제합니다","."],"py":["sinyongkadeuro","gyeoljehamnida","."],"vi":"Tôi thanh toán bằng thẻ tín dụng.","alts":[]}},
+   {"id":"ko4x01-결제","hanzi":"결제","pinyin":"gyeolje","vi":"việc thanh toán","ex":{"tokens":["결제","방법을","선택하세요","."],"py":["gyeolje","bangbeobeul","seontaekaseyo","."],"vi":"Hãy chọn phương thức thanh toán.","alts":[]}},
+   {"id":"ko4x01-가격표","hanzi":"가격표","pinyin":"gagyeokpyo","vi":"bảng giá, nhãn giá","ex":{"tokens":["가격표를","확인합니다","."],"py":["gagyeokpyoreul","hwaginhamnida","."],"vi":"Tôi kiểm tra nhãn giá.","alts":[]}},
+   {"id":"ko4x01-원가","hanzi":"원가","pinyin":"wonga","vi":"giá gốc","ex":{"tokens":["원가보다","싸게","팝니다","."],"py":["wongaboda","ssage","pamnida","."],"vi":"Họ bán rẻ hơn giá gốc.","alts":[]}}
+  ]},
+  {"id":"ko4x02","title":"Kinh tế đời sống 2","desc":"Thu nhập, chi tiêu, thị trường","icon":"도","unit":44,"course":"ko","order":2240,"words":[
+   {"id":"ko4x02-도매","hanzi":"도매","pinyin":"domae","vi":"bán buôn","ex":{"tokens":["도매","시장에서","물건을","삽니다","."],"py":["domae","sijangeseo","mulgeoneul","samnida","."],"vi":"Tôi mua hàng ở chợ bán buôn.","alts":[]}},
+   {"id":"ko4x02-매출","hanzi":"매출","pinyin":"maechul","vi":"doanh thu","ex":{"tokens":["이번","달","매출이","올랐습니다","."],"py":["ibeon","dal","maechuri","ollatseumnida","."],"vi":"Doanh thu tháng này đã tăng.","alts":[]}},
+   {"id":"ko4x02-적자","hanzi":"적자","pinyin":"jeokja","vi":"thâm hụt, lỗ","ex":{"tokens":["회사가","적자를","냈습니다","."],"py":["hoesaga","jeokjareul","naetseumnida","."],"vi":"Công ty đã bị lỗ.","alts":[]}},
+   {"id":"ko4x02-흑자","hanzi":"흑자","pinyin":"heukja","vi":"thặng dư, lãi","ex":{"tokens":["올해는","흑자가","났습니다","."],"py":["olhaeneun","heukjaga","natseumnida","."],"vi":"Năm nay có lãi.","alts":[]}},
+   {"id":"ko4x02-경기침체","hanzi":"경기침체","pinyin":"gyeonggichimche","vi":"suy thoái kinh tế","ex":{"tokens":["경기침체로","가게가","문을","닫았습니다","."],"py":["gyeonggichimchero","gagega","muneul","dadatseumnida","."],"vi":"Cửa hàng đóng cửa vì suy thoái kinh tế.","alts":[]}},
+   {"id":"ko4x02-호황","hanzi":"호황","pinyin":"hohwang","vi":"thời kỳ thịnh vượng","ex":{"tokens":["반도체","산업이","호황입니다","."],"py":["bandoche","saneobi","hohwangimnida","."],"vi":"Ngành bán dẫn đang thịnh vượng.","alts":[]}},
+   {"id":"ko4x02-상승","hanzi":"상승","pinyin":"sangseung","vi":"sự tăng lên","ex":{"tokens":["물가","상승이","계속됩니다","."],"py":["mulga","sangseungi","gyesokdoemnida","."],"vi":"Giá cả tiếp tục tăng lên.","alts":[]}},
+   {"id":"ko4x02-하락","hanzi":"하락","pinyin":"harak","vi":"sự sụt giảm","ex":{"tokens":["주가","하락이","심합니다","."],"py":["juga","haragi","simhamnida","."],"vi":"Giá cổ phiếu sụt giảm mạnh.","alts":[]}},
+   {"id":"ko4x02-폭등","hanzi":"폭등","pinyin":"pokdeung","vi":"sự tăng vọt","ex":{"tokens":["집값이","폭등했습니다","."],"py":["jipgapsi","pokdeunghaetseumnida","."],"vi":"Giá nhà đã tăng vọt.","alts":[]}},
+   {"id":"ko4x02-폭락","hanzi":"폭락","pinyin":"pongnak","vi":"sự rớt giá mạnh","ex":{"tokens":["가격이","폭락했습니다","."],"py":["gagyeogi","pongnakaetseumnida","."],"vi":"Giá đã rớt mạnh.","alts":[]}},
+   {"id":"ko4x02-거래","hanzi":"거래","pinyin":"georae","vi":"sự giao dịch","ex":{"tokens":["중고","거래가","늘었습니다","."],"py":["junggo","georaega","neureotseumnida","."],"vi":"Giao dịch đồ cũ đã tăng.","alts":[]}},
+   {"id":"ko4x02-납부하다","hanzi":"납부하다","pinyin":"napbuhada","vi":"nộp (thuế, phí)","ex":{"tokens":["세금을","납부합니다","."],"py":["segeumeul","napbuhamnida","."],"vi":"Tôi nộp thuế.","alts":[]}}
+  ]},
+  {"id":"ko4x03","title":"Doanh nghiệp và sản xuất 1","desc":"Hoạt động công ty","icon":"본","unit":44,"course":"ko","order":2250,"words":[
+   {"id":"ko4x03-본사","hanzi":"본사","pinyin":"bonsa","vi":"trụ sở chính","ex":{"tokens":["본사는","서울에","있습니다","."],"py":["bonsaneun","seoure","itseumnida","."],"vi":"Trụ sở chính ở Seoul.","alts":[]}},
+   {"id":"ko4x03-지사","hanzi":"지사","pinyin":"jisa","vi":"chi nhánh","ex":{"tokens":["부산","지사에서","일합니다","."],"py":["busan","jisaeseo","ilhamnida","."],"vi":"Tôi làm ở chi nhánh Busan.","alts":[]}},
+   {"id":"ko4x03-공장장","hanzi":"공장장","pinyin":"gongjangjang","vi":"giám đốc nhà máy","ex":{"tokens":["공장장이","직원들을","모았습니다","."],"py":["gongjangjangi","jigwondeureul","moatseumnida","."],"vi":"Giám đốc nhà máy đã tập hợp nhân viên.","alts":[]}},
+   {"id":"ko4x03-대표","hanzi":"대표","pinyin":"daepyo","vi":"người đại diện","ex":{"tokens":["회사","대표가","발표했습니다","."],"py":["hoesa","daepyoga","balpyohaetseumnida","."],"vi":"Người đại diện công ty đã phát biểu.","alts":[]}},
+   {"id":"ko4x03-임원","hanzi":"임원","pinyin":"imwon","vi":"ủy viên ban lãnh đạo","ex":{"tokens":["임원","회의가","열렸습니다","."],"py":["imwon","hoeuiga","yeollyeotseumnida","."],"vi":"Cuộc họp ban lãnh đạo đã diễn ra.","alts":[]}},
+   {"id":"ko4x03-주주","hanzi":"주주","pinyin":"juju","vi":"cổ đông","ex":{"tokens":["주주들이","회의에","참석했습니다","."],"py":["jujudeuri","hoeuie","chamseokaetseumnida","."],"vi":"Các cổ đông đã dự họp.","alts":[]}},
+   {"id":"ko4x03-협력업체","hanzi":"협력업체","pinyin":"hyeomnyeogeopche","vi":"công ty đối tác","ex":{"tokens":["협력업체와","계약했습니다","."],"py":["hyeomnyeogeopchewa","gyeyakaetseumnida","."],"vi":"Chúng tôi đã ký hợp đồng với công ty đối tác.","alts":[]}},
+   {"id":"ko4x03-중소기업","hanzi":"중소기업","pinyin":"jungsogieop","vi":"doanh nghiệp vừa và nhỏ","ex":{"tokens":["중소기업을","지원합니다","."],"py":["jungsogieobeul","jiwonhamnida","."],"vi":"Hỗ trợ doanh nghiệp vừa và nhỏ.","alts":[]}},
+   {"id":"ko4x03-대기업","hanzi":"대기업","pinyin":"daegieop","vi":"tập đoàn lớn","ex":{"tokens":["대기업에","취직했습니다","."],"py":["daegieobe","chwijikaetseumnida","."],"vi":"Tôi đã vào làm ở tập đoàn lớn.","alts":[]}},
+   {"id":"ko4x03-자영업","hanzi":"자영업","pinyin":"jayeongeop","vi":"việc tự kinh doanh","ex":{"tokens":["아버지는","자영업을","하십니다","."],"py":["abeojineun","jayeongeobeul","hasimnida","."],"vi":"Bố tôi tự kinh doanh.","alts":[]}},
+   {"id":"ko4x03-체인점","hanzi":"체인점","pinyin":"cheinjeom","vi":"cửa hàng trong chuỗi","ex":{"tokens":["이","카페는","체인점입니다","."],"py":["i","kapeneun","cheinjeomimnida","."],"vi":"Quán cà phê này thuộc một chuỗi.","alts":[]}},
+   {"id":"ko4x03-원료","hanzi":"원료","pinyin":"wollyo","vi":"nguyên liệu thô","ex":{"tokens":["원료","가격이","올랐습니다","."],"py":["wollyo","gagyeogi","ollatseumnida","."],"vi":"Giá nguyên liệu thô đã tăng.","alts":[]}}
+  ]},
+  {"id":"ko4x04","title":"Doanh nghiệp và sản xuất 2","desc":"Hoạt động công ty","icon":"부","unit":44,"course":"ko","order":2260,"words":[
+   {"id":"ko4x04-부품","hanzi":"부품","pinyin":"bupum","vi":"linh kiện","ex":{"tokens":["자동차","부품을","만듭니다","."],"py":["jadongcha","bupumeul","mandeumnida","."],"vi":"Họ sản xuất linh kiện ô tô.","alts":[]}},
+   {"id":"ko4x04-설비","hanzi":"설비","pinyin":"seolbi","vi":"thiết bị, cơ sở máy móc","ex":{"tokens":["공장","설비를","바꿨습니다","."],"py":["gongjang","seolbireul","bakkwotseumnida","."],"vi":"Họ đã thay thiết bị nhà máy.","alts":[]}},
+   {"id":"ko4x04-불량품","hanzi":"불량품","pinyin":"bullyangpum","vi":"hàng lỗi","ex":{"tokens":["불량품을","교환해","줍니다","."],"py":["bullyangpumeul","gyohwanhae","jumnida","."],"vi":"Họ đổi hàng lỗi cho khách.","alts":[]}},
+   {"id":"ko4x04-대량생산","hanzi":"대량생산","pinyin":"daeryangsaengsan","vi":"sản xuất hàng loạt","ex":{"tokens":["이","제품은","대량생산이","됩니다","."],"py":["i","jepumeun","daeryangsaengsani","doemnida","."],"vi":"Sản phẩm này được sản xuất hàng loạt.","alts":[]}},
+   {"id":"ko4x04-납품","hanzi":"납품","pinyin":"nappum","vi":"việc giao hàng cho đối tác","ex":{"tokens":["내일까지","납품을","합니다","."],"py":["naeilkkaji","nappumeul","hamnida","."],"vi":"Chúng tôi giao hàng trước ngày mai.","alts":[]}},
+   {"id":"ko4x04-유통","hanzi":"유통","pinyin":"yutong","vi":"sự lưu thông hàng hóa","ex":{"tokens":["농산물","유통을","개선합니다","."],"py":["nongsanmul","yutongeul","gaeseonhamnida","."],"vi":"Cải thiện lưu thông nông sản.","alts":[]}},
+   {"id":"ko4x04-홍보","hanzi":"홍보","pinyin":"hongbo","vi":"việc quảng bá","ex":{"tokens":["신제품","홍보를","합니다","."],"py":["sinjepum","hongboreul","hamnida","."],"vi":"Chúng tôi quảng bá sản phẩm mới.","alts":[]}},
+   {"id":"ko4x04-마케팅","hanzi":"마케팅","pinyin":"maketing","vi":"tiếp thị","ex":{"tokens":["마케팅","부서에서","일합니다","."],"py":["maketing","buseoeseo","ilhamnida","."],"vi":"Tôi làm ở bộ phận tiếp thị.","alts":[]}},
+   {"id":"ko4x04-상표","hanzi":"상표","pinyin":"sangpyo","vi":"nhãn hiệu","ex":{"tokens":["이","상표는","유명합니다","."],"py":["i","sangpyoneun","yumyeonghamnida","."],"vi":"Nhãn hiệu này nổi tiếng.","alts":[]}},
+   {"id":"ko4x04-특허","hanzi":"특허","pinyin":"teukeo","vi":"bằng sáng chế","ex":{"tokens":["새","기술의","특허를","받았습니다","."],"py":["sae","gisurui","teukeoreul","badatseumnida","."],"vi":"Họ đã nhận bằng sáng chế cho công nghệ mới.","alts":[]}},
+   {"id":"ko4x04-출시하다","hanzi":"출시하다","pinyin":"chulsihada","vi":"tung ra thị trường","ex":{"tokens":["새","휴대폰을","출시했습니다","."],"py":["sae","hyudaeponeul","chulsihaetseumnida","."],"vi":"Họ đã tung ra điện thoại mới.","alts":[]}},
+   {"id":"ko4x04-운영하다","hanzi":"운영하다","pinyin":"unyeonghada","vi":"vận hành, điều hành","ex":{"tokens":["작은","가게를","운영합니다","."],"py":["jageun","gagereul","unyeonghamnida","."],"vi":"Tôi điều hành một cửa hàng nhỏ.","alts":[]}}
+  ]},
+  {"id":"ko4x05","title":"Luật pháp và trật tự","desc":"Tội phạm, tòa án","icon":"법","unit":44,"course":"ko","order":2270,"words":[
+   {"id":"ko4x05-법원","hanzi":"법원","pinyin":"beobwon","vi":"tòa án","ex":{"tokens":["법원에","서류를","냅니다","."],"py":["beobwone","seoryureul","naemnida","."],"vi":"Tôi nộp hồ sơ lên tòa án.","alts":[]}},
+   {"id":"ko4x05-형사","hanzi":"형사","pinyin":"hyeongsa","vi":"cảnh sát hình sự","ex":{"tokens":["형사가","범인을","쫓습니다","."],"py":["hyeongsaga","beomineul","jjotseumnida","."],"vi":"Cảnh sát hình sự truy đuổi thủ phạm.","alts":[]}},
+   {"id":"ko4x05-용의자","hanzi":"용의자","pinyin":"yonguija","vi":"nghi phạm","ex":{"tokens":["용의자가","잡혔습니다","."],"py":["yonguijaga","japyeotseumnida","."],"vi":"Nghi phạm đã bị bắt.","alts":[]}},
+   {"id":"ko4x05-목격자","hanzi":"목격자","pinyin":"mokgyeokja","vi":"nhân chứng chứng kiến","ex":{"tokens":["목격자가","경찰에","연락했습니다","."],"py":["mokgyeokjaga","gyeongchare","yeollakaetseumnida","."],"vi":"Nhân chứng đã liên lạc với cảnh sát.","alts":[]}},
+   {"id":"ko4x05-가해자","hanzi":"가해자","pinyin":"gahaeja","vi":"người gây hại","ex":{"tokens":["가해자가","사과했습니다","."],"py":["gahaejaga","sagwahaetseumnida","."],"vi":"Người gây hại đã xin lỗi.","alts":[]}},
+   {"id":"ko4x05-절도","hanzi":"절도","pinyin":"jeoldo","vi":"trộm cắp","ex":{"tokens":["절도","사건이","일어났습니다","."],"py":["jeoldo","sageoni","ireonatseumnida","."],"vi":"Đã xảy ra vụ trộm cắp.","alts":[]}},
+   {"id":"ko4x05-강도","hanzi":"강도","pinyin":"gangdo","vi":"cướp","ex":{"tokens":["은행에","강도가","들었습니다","."],"py":["eunhaenge","gangdoga","deureotseumnida","."],"vi":"Cướp đã vào ngân hàng.","alts":[]}},
+   {"id":"ko4x05-살인","hanzi":"살인","pinyin":"sarin","vi":"giết người","ex":{"tokens":["살인","사건을","조사합니다","."],"py":["sarin","sageoneul","josahamnida","."],"vi":"Họ điều tra vụ giết người.","alts":[]}},
+   {"id":"ko4x05-폭행","hanzi":"폭행","pinyin":"pokaeng","vi":"hành hung","ex":{"tokens":["폭행으로","신고를","당했습니다","."],"py":["pokaengeuro","singoreul","danghaetseumnida","."],"vi":"Anh ta bị tố cáo vì hành hung.","alts":[]}},
+   {"id":"ko4x05-뇌물","hanzi":"뇌물","pinyin":"noemul","vi":"của hối lộ","ex":{"tokens":["뇌물을","받으면","안","됩니다","."],"py":["noemureul","badeumyeon","an","doemnida","."],"vi":"Không được nhận hối lộ.","alts":[]}},
+   {"id":"ko4x05-불법","hanzi":"불법","pinyin":"bulbeop","vi":"sự phi pháp","ex":{"tokens":["불법","주차는","안","됩니다","."],"py":["bulbeop","juchaneun","an","doemnida","."],"vi":"Không được đỗ xe trái phép.","alts":[]}},
+   {"id":"ko4x05-합법","hanzi":"합법","pinyin":"hapbeop","vi":"sự hợp pháp","ex":{"tokens":["합법적인","방법으로","해결합니다","."],"py":["hapbeopjeogin","bangbeobeuro","haegyeolhamnida","."],"vi":"Giải quyết bằng cách hợp pháp.","alts":[]}}
+  ]},
+  {"id":"ko4x06","title":"Chính trị và hành chính","desc":"Nhà nước, bầu cử","icon":"정","unit":44,"course":"ko","order":2280,"words":[
+   {"id":"ko4x06-정치","hanzi":"정치","pinyin":"jeongchi","vi":"chính trị","ex":{"tokens":["정치에","관심이","많습니다","."],"py":["jeongchie","gwansimi","manseumnida","."],"vi":"Tôi rất quan tâm đến chính trị.","alts":[]}},
+   {"id":"ko4x06-정치인","hanzi":"정치인","pinyin":"jeongchiin","vi":"chính trị gia","ex":{"tokens":["정치인이","연설을","합니다","."],"py":["jeongchiini","yeonseoreul","hamnida","."],"vi":"Chính trị gia đọc diễn văn.","alts":[]}},
+   {"id":"ko4x06-국회의원","hanzi":"국회의원","pinyin":"gukoeuiwon","vi":"nghị sĩ quốc hội","ex":{"tokens":["국회의원을","뽑습니다","."],"py":["gukoeuiwoneul","ppopseumnida","."],"vi":"Người ta bầu nghị sĩ quốc hội.","alts":[]}},
+   {"id":"ko4x06-장관","hanzi":"장관","pinyin":"janggwan","vi":"bộ trưởng","ex":{"tokens":["교육부","장관이","발표했습니다","."],"py":["gyoyukbu","janggwani","balpyohaetseumnida","."],"vi":"Bộ trưởng Bộ Giáo dục đã phát biểu.","alts":[]}},
+   {"id":"ko4x06-후보","hanzi":"후보","pinyin":"hubo","vi":"ứng cử viên","ex":{"tokens":["세","명의","후보가","나왔습니다","."],"py":["se","myeongui","huboga","nawatseumnida","."],"vi":"Có ba ứng cử viên.","alts":[]}},
+   {"id":"ko4x06-공약","hanzi":"공약","pinyin":"gongyak","vi":"cam kết tranh cử","ex":{"tokens":["후보가","공약을","발표했습니다","."],"py":["huboga","gongyageul","balpyohaetseumnida","."],"vi":"Ứng cử viên đã công bố cam kết tranh cử.","alts":[]}},
+   {"id":"ko4x06-당선","hanzi":"당선","pinyin":"dangseon","vi":"sự đắc cử","ex":{"tokens":["그가","대통령에","당선됐습니다","."],"py":["geuga","daetongnyeonge","dangseondwaetseumnida","."],"vi":"Ông ấy đã đắc cử tổng thống.","alts":[]}},
+   {"id":"ko4x06-지지","hanzi":"지지","pinyin":"jiji","vi":"sự ủng hộ","ex":{"tokens":["국민의","지지를","받습니다","."],"py":["gungminui","jijireul","batseumnida","."],"vi":"Nhận được sự ủng hộ của nhân dân.","alts":[]}},
+   {"id":"ko4x06-임기","hanzi":"임기","pinyin":"imgi","vi":"nhiệm kỳ","ex":{"tokens":["대통령의","임기는","오","년입니다","."],"py":["daetongnyeongui","imgineun","o","nyeonimnida","."],"vi":"Nhiệm kỳ tổng thống là năm năm.","alts":[]}},
+   {"id":"ko4x06-정당","hanzi":"정당","pinyin":"jeongdang","vi":"chính đảng","ex":{"tokens":["새","정당이","생겼습니다","."],"py":["sae","jeongdangi","saenggyeotseumnida","."],"vi":"Một chính đảng mới đã ra đời.","alts":[]}},
+   {"id":"ko4x06-연설","hanzi":"연설","pinyin":"yeonseol","vi":"bài diễn văn","ex":{"tokens":["대통령이","연설을","했습니다","."],"py":["daetongnyeongi","yeonseoreul","haetseumnida","."],"vi":"Tổng thống đã đọc diễn văn.","alts":[]}},
+   {"id":"ko4x06-시위","hanzi":"시위","pinyin":"siwi","vi":"cuộc biểu tình","ex":{"tokens":["광장에서","시위가","있었습니다","."],"py":["gwangjangeseo","siwiga","isseotseumnida","."],"vi":"Đã có biểu tình ở quảng trường.","alts":[]}}
+  ]},
+  {"id":"ko4x07","title":"Khoa học và công nghệ 1","desc":"Nghiên cứu, thiết bị","icon":"과","unit":44,"course":"ko","order":2290,"words":[
+   {"id":"ko4x07-과학자","hanzi":"과학자","pinyin":"gwahakja","vi":"nhà khoa học","ex":{"tokens":["과학자가","새","별을","발견했습니다","."],"py":["gwahakjaga","sae","byeoreul","balgyeonhaetseumnida","."],"vi":"Nhà khoa học đã phát hiện ngôi sao mới.","alts":[]}},
+   {"id":"ko4x07-연구소","hanzi":"연구소","pinyin":"yeonguso","vi":"viện nghiên cứu","ex":{"tokens":["연구소에서","실험을","합니다","."],"py":["yeongusoeseo","silheomeul","hamnida","."],"vi":"Họ làm thí nghiệm ở viện nghiên cứu.","alts":[]}},
+   {"id":"ko4x07-연구원","hanzi":"연구원","pinyin":"yeonguwon","vi":"nghiên cứu viên","ex":{"tokens":["그는","연구원으로","일합니다","."],"py":["geuneun","yeonguwoneuro","ilhamnida","."],"vi":"Anh ấy làm nghiên cứu viên.","alts":[]}},
+   {"id":"ko4x07-발견","hanzi":"발견","pinyin":"balgyeon","vi":"sự phát hiện","ex":{"tokens":["새로운","발견을","했습니다","."],"py":["saeroun","balgyeoneul","haetseumnida","."],"vi":"Họ đã có một phát hiện mới.","alts":[]}},
+   {"id":"ko4x07-발명품","hanzi":"발명품","pinyin":"balmyeongpum","vi":"vật phát minh","ex":{"tokens":["유용한","발명품을","만들었습니다","."],"py":["yuyonghan","balmyeongpumeul","mandeureotseumnida","."],"vi":"Ông ấy đã làm ra vật phát minh hữu ích.","alts":[]}},
+   {"id":"ko4x07-현미경","hanzi":"현미경","pinyin":"hyeonmigyeong","vi":"kính hiển vi","ex":{"tokens":["현미경으로","세포를","봅니다","."],"py":["hyeonmigyeongeuro","seporeul","bomnida","."],"vi":"Tôi xem tế bào bằng kính hiển vi.","alts":[]}},
+   {"id":"ko4x07-망원경","hanzi":"망원경","pinyin":"mangwongyeong","vi":"kính viễn vọng","ex":{"tokens":["망원경으로","달을","봅니다","."],"py":["mangwongyeongeuro","dareul","bomnida","."],"vi":"Tôi ngắm mặt trăng bằng kính viễn vọng.","alts":[]}},
+   {"id":"ko4x07-인공위성","hanzi":"인공위성","pinyin":"ingongwiseong","vi":"vệ tinh nhân tạo","ex":{"tokens":["인공위성을","발사했습니다","."],"py":["ingongwiseongeul","balsahaetseumnida","."],"vi":"Họ đã phóng vệ tinh nhân tạo.","alts":[]}},
+   {"id":"ko4x07-우주선","hanzi":"우주선","pinyin":"ujuseon","vi":"tàu vũ trụ","ex":{"tokens":["우주선이","달에","도착했습니다","."],"py":["ujuseoni","dare","dochakaetseumnida","."],"vi":"Tàu vũ trụ đã đến mặt trăng.","alts":[]}},
+   {"id":"ko4x07-행성","hanzi":"행성","pinyin":"haengseong","vi":"hành tinh","ex":{"tokens":["지구는","태양계의","행성입니다","."],"py":["jiguneun","taeyanggyeui","haengseongimnida","."],"vi":"Trái đất là hành tinh của hệ mặt trời.","alts":[]}},
+   {"id":"ko4x07-태양계","hanzi":"태양계","pinyin":"taeyanggye","vi":"hệ mặt trời","ex":{"tokens":["태양계에는","여덟","개의","행성이","있습니다","."],"py":["taeyanggyeeneun","yeodeol","gaeui","haengseongi","itseumnida","."],"vi":"Hệ mặt trời có tám hành tinh.","alts":[]}},
+   {"id":"ko4x07-화학","hanzi":"화학","pinyin":"hwahak","vi":"hóa học","ex":{"tokens":["화학","실험이","재미있습니다","."],"py":["hwahak","silheomi","jaemiitseumnida","."],"vi":"Thí nghiệm hóa học thú vị.","alts":[]}}
+  ]},
+  {"id":"ko4x08","title":"Khoa học và công nghệ 2","desc":"Nghiên cứu, thiết bị","icon":"물","unit":44,"course":"ko","order":2300,"words":[
+   {"id":"ko4x08-물리학","hanzi":"물리학","pinyin":"mullihak","vi":"vật lý học","ex":{"tokens":["대학에서","물리학을","공부합니다","."],"py":["daehageseo","mullihageul","gongbuhamnida","."],"vi":"Tôi học vật lý học ở đại học.","alts":[]}},
+   {"id":"ko4x08-생물학","hanzi":"생물학","pinyin":"saengmulhak","vi":"sinh vật học","ex":{"tokens":["생물학","수업을","듣습니다","."],"py":["saengmulhak","sueobeul","deutseumnida","."],"vi":"Tôi học môn sinh vật học.","alts":[]}},
+   {"id":"ko4x08-액체","hanzi":"액체","pinyin":"aekche","vi":"chất lỏng","ex":{"tokens":["물은","액체입니다","."],"py":["mureun","aekcheimnida","."],"vi":"Nước là chất lỏng.","alts":[]}},
+   {"id":"ko4x08-고체","hanzi":"고체","pinyin":"goche","vi":"chất rắn","ex":{"tokens":["얼음은","고체입니다","."],"py":["eoreumeun","gocheimnida","."],"vi":"Băng là chất rắn.","alts":[]}},
+   {"id":"ko4x08-기체","hanzi":"기체","pinyin":"giche","vi":"chất khí","ex":{"tokens":["공기는","기체입니다","."],"py":["gonggineun","gicheimnida","."],"vi":"Không khí là chất khí.","alts":[]}},
+   {"id":"ko4x08-온도","hanzi":"온도","pinyin":"ondo","vi":"nhiệt độ","ex":{"tokens":["물의","온도를","잽니다","."],"py":["murui","ondoreul","jaemnida","."],"vi":"Tôi đo nhiệt độ của nước.","alts":[]}},
+   {"id":"ko4x08-압력","hanzi":"압력","pinyin":"amnyeok","vi":"áp suất","ex":{"tokens":["압력이","높아졌습니다","."],"py":["amnyeogi","nopajyeotseumnida","."],"vi":"Áp suất đã tăng.","alts":[]}},
+   {"id":"ko4x08-전자","hanzi":"전자","pinyin":"jeonja","vi":"điện tử","ex":{"tokens":["전자","제품을","삽니다","."],"py":["jeonja","jepumeul","samnida","."],"vi":"Tôi mua đồ điện tử.","alts":[]}},
+   {"id":"ko4x08-반도체","hanzi":"반도체","pinyin":"bandoche","vi":"chất bán dẫn","ex":{"tokens":["한국은","반도체를","수출합니다","."],"py":["hangugeun","bandochereul","suchulhamnida","."],"vi":"Hàn Quốc xuất khẩu chất bán dẫn.","alts":[]}},
+   {"id":"ko4x08-소프트웨어","hanzi":"소프트웨어","pinyin":"sopeuteuweeo","vi":"phần mềm","ex":{"tokens":["새","소프트웨어를","설치합니다","."],"py":["sae","sopeuteuweeoreul","seolchihamnida","."],"vi":"Tôi cài phần mềm mới.","alts":[]}},
+   {"id":"ko4x08-데이터","hanzi":"데이터","pinyin":"deiteo","vi":"dữ liệu","ex":{"tokens":["데이터를","분석합니다","."],"py":["deiteoreul","bunseokamnida","."],"vi":"Tôi phân tích dữ liệu.","alts":[]}},
+   {"id":"ko4x08-자동화","hanzi":"자동화","pinyin":"jadonghwa","vi":"sự tự động hóa","ex":{"tokens":["공장의","자동화가","진행됩니다","."],"py":["gongjangui","jadonghwaga","jinhaengdoemnida","."],"vi":"Việc tự động hóa nhà máy đang tiến hành.","alts":[]}}
+  ]},
+  {"id":"ko4x09","title":"Y tế và sức khỏe 1","desc":"Bệnh tật, phòng bệnh","icon":"건","unit":44,"course":"ko","order":2310,"words":[
+   {"id":"ko4x09-건강검진","hanzi":"건강검진","pinyin":"geonganggeomjin","vi":"khám sức khỏe tổng quát","ex":{"tokens":["일","년에","한","번","건강검진을","받습니다","."],"py":["il","nyeone","han","beon","geonganggeomjineul","batseumnida","."],"vi":"Mỗi năm tôi khám sức khỏe tổng quát một lần.","alts":[]}},
+   {"id":"ko4x09-예방접종","hanzi":"예방접종","pinyin":"yebangjeopjong","vi":"tiêm phòng","ex":{"tokens":["아이가","예방접종을","맞았습니다","."],"py":["aiga","yebangjeopjongeul","majatseumnida","."],"vi":"Đứa bé đã được tiêm phòng.","alts":[]}},
+   {"id":"ko4x09-당뇨병","hanzi":"당뇨병","pinyin":"dangnyobyeong","vi":"bệnh tiểu đường","ex":{"tokens":["할머니는","당뇨병이","있으십니다","."],"py":["halmeonineun","dangnyobyeongi","isseusimnida","."],"vi":"Bà tôi bị tiểu đường.","alts":[]}},
+   {"id":"ko4x09-고혈압","hanzi":"고혈압","pinyin":"gohyeorap","vi":"cao huyết áp","ex":{"tokens":["고혈압","환자는","짠","음식을","피합니다","."],"py":["gohyeorap","hwanjaneun","jjan","eumsigeul","pihamnida","."],"vi":"Người cao huyết áp tránh đồ mặn.","alts":[]}},
+   {"id":"ko4x09-심장병","hanzi":"심장병","pinyin":"simjangbyeong","vi":"bệnh tim","ex":{"tokens":["심장병으로","수술을","받았습니다","."],"py":["simjangbyeongeuro","susureul","badatseumnida","."],"vi":"Ông ấy đã phẫu thuật vì bệnh tim.","alts":[]}},
+   {"id":"ko4x09-우울증","hanzi":"우울증","pinyin":"uuljeung","vi":"bệnh trầm cảm","ex":{"tokens":["우울증은","치료가","필요합니다","."],"py":["uuljeungeun","chiryoga","piryohamnida","."],"vi":"Trầm cảm cần được điều trị.","alts":[]}},
+   {"id":"ko4x09-불면증","hanzi":"불면증","pinyin":"bulmyeonjeung","vi":"chứng mất ngủ","ex":{"tokens":["불면증","때문에","잠을","못","잡니다","."],"py":["bulmyeonjeung","ttaemune","jameul","mot","jamnida","."],"vi":"Tôi không ngủ được vì chứng mất ngủ.","alts":[]}},
+   {"id":"ko4x09-치매","hanzi":"치매","pinyin":"chimae","vi":"bệnh mất trí nhớ","ex":{"tokens":["치매","노인을","돌봅니다","."],"py":["chimae","noineul","dolbomnida","."],"vi":"Tôi chăm sóc người già mất trí nhớ.","alts":[]}},
+   {"id":"ko4x09-식중독","hanzi":"식중독","pinyin":"sikjungdok","vi":"ngộ độc thực phẩm","ex":{"tokens":["여름에는","식중독을","조심하세요","."],"py":["yeoreumeneun","sikjungdogeul","josimhaseyo","."],"vi":"Mùa hè hãy cẩn thận ngộ độc thực phẩm.","alts":[]}},
+   {"id":"ko4x09-빈혈","hanzi":"빈혈","pinyin":"binhyeol","vi":"thiếu máu","ex":{"tokens":["빈혈이","있어서","어지럽습니다","."],"py":["binhyeori","isseoseo","eojireopseumnida","."],"vi":"Bị thiếu máu nên tôi chóng mặt.","alts":[]}},
+   {"id":"ko4x09-통증","hanzi":"통증","pinyin":"tongjeung","vi":"cơn đau","ex":{"tokens":["허리","통증이","심합니다","."],"py":["heori","tongjeungi","simhamnida","."],"vi":"Cơn đau lưng rất nặng.","alts":[]}},
+   {"id":"ko4x09-후유증","hanzi":"후유증","pinyin":"huyujeung","vi":"di chứng","ex":{"tokens":["사고","후유증이","남았습니다","."],"py":["sago","huyujeungi","namatseumnida","."],"vi":"Di chứng tai nạn vẫn còn.","alts":[]}}
+  ]}
+ ]
+}

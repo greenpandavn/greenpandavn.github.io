@@ -1,0 +1,90 @@
+=4
+@Báo chí và dư luận|Tin tức, bình luận
+신문사|tòa soạn báo|신문사에서 기자로 일합니다.|Tôi làm phóng viên ở tòa soạn báo.
+방송국|đài truyền hình|방송국에 견학을 갑니다.|Tôi đi tham quan đài truyền hình.
+취재|việc lấy tin|기자가 현장을 취재합니다.|Phóng viên lấy tin tại hiện trường.
+인터뷰|cuộc phỏng vấn (báo chí)|배우와 인터뷰를 했습니다.|Tôi đã phỏng vấn diễn viên.
+특종|tin độc quyền|그 기자가 특종을 잡았습니다.|Phóng viên đó đã có tin độc quyền.
+속보|tin nhanh|뉴스 속보가 나왔습니다.|Tin nhanh đã được phát.
+사설|bài xã luận|신문 사설을 읽습니다.|Tôi đọc bài xã luận trên báo.
+칼럼|bài bình luận chuyên mục|교수가 신문에 칼럼을 씁니다.|Giáo sư viết bài chuyên mục trên báo.
+머리기사|bài đầu trang|오늘의 머리기사를 봅니다.|Tôi xem bài đầu trang hôm nay.
+보도자료|thông cáo báo chí|회사가 보도자료를 냈습니다.|Công ty đã ra thông cáo báo chí.
+앵커|người dẫn bản tin|앵커가 뉴스를 전합니다.|Người dẫn bản tin truyền đạt tin tức.
+아나운서|phát thanh viên|아나운서의 발음이 정확합니다.|Phát thanh viên phát âm chuẩn.
+진행자|người dẫn chương trình|진행자가 손님을 소개합니다.|Người dẫn chương trình giới thiệu khách mời.
+다큐멘터리|phim tài liệu|자연 다큐멘터리를 봅니다.|Tôi xem phim tài liệu về thiên nhiên.
+시사|thời sự|시사 프로그램을 자주 봅니다.|Tôi hay xem chương trình thời sự.
+비평|sự phê bình|영화 비평을 씁니다.|Tôi viết phê bình phim.
+찬성|sự tán thành|그 의견에 찬성을 합니다.|Tôi tán thành ý kiến đó.
+반발|sự phản kháng|주민들의 반발이 큽니다.|Sự phản kháng của người dân rất lớn.
+지적|sự chỉ ra (vấn đề)|전문가의 지적을 받았습니다.|Đã bị chuyên gia chỉ ra vấn đề.
+해명|lời giải trình|회사가 해명을 했습니다.|Công ty đã giải trình.
+폭로하다|phanh phui|기자가 비리를 폭로했습니다.|Phóng viên đã phanh phui sai phạm.
+은폐하다|che giấu|사고를 은폐하려고 했습니다.|Họ đã định che giấu vụ tai nạn.
+과장하다|phóng đại|사실을 과장하지 마세요.|Đừng phóng đại sự thật.
+전달하다|truyền đạt|소식을 전달합니다.|Truyền đạt tin tức.
+@Thái độ và phẩm chất|Danh từ về cách ứng xử
+성실성|tính chăm chỉ thật thà|그의 성실성을 인정합니다.|Tôi công nhận tính chăm chỉ của anh ấy.
+정직성|tính trung thực|정직성이 가장 중요합니다.|Tính trung thực là quan trọng nhất.
+도덕성|đạo đức, phẩm hạnh|정치인의 도덕성을 봅니다.|Người ta xét phẩm hạnh của chính trị gia.
+사회성|tính hòa nhập xã hội|아이의 사회성을 기릅니다.|Nuôi dưỡng tính hòa nhập xã hội của trẻ.
+독립심|tinh thần tự lập|독립심이 강한 아이입니다.|Đó là đứa trẻ có tinh thần tự lập cao.
+협동심|tinh thần hợp tác|운동으로 협동심을 배웁니다.|Học tinh thần hợp tác qua thể thao.
+경쟁심|tính hiếu thắng|그는 경쟁심이 강합니다.|Anh ấy rất hiếu thắng.
+이해심|lòng thấu hiểu|그녀는 이해심이 많습니다.|Cô ấy giàu lòng thấu hiểu.
+동정심|lòng thương cảm|가난한 사람에게 동정심을 느낍니다.|Tôi thấy thương cảm người nghèo.
+애국심|lòng yêu nước|애국심을 가집니다.|Mang lòng yêu nước.
+자부심|niềm tự hào về mình|자기 일에 자부심이 있습니다.|Anh ấy tự hào về công việc của mình.
+허영심|tính phù phiếm|허영심 때문에 돈을 많이 씁니다.|Vì tính phù phiếm nên tiêu nhiều tiền.
+의욕|lòng hăng hái|일할 의욕이 없습니다.|Tôi không có lòng hăng hái làm việc.
+성의|thành ý|성의를 다해 준비했습니다.|Tôi đã chuẩn bị với tất cả thành ý.
+정성|sự tận tâm|정성으로 음식을 만듭니다.|Nấu ăn với sự tận tâm.
+진심|tấm lòng thật|진심으로 감사합니다.|Tôi cảm ơn bằng tấm lòng thật.
+겸손|sự khiêm nhường|겸손은 좋은 덕목입니다.|Khiêm nhường là đức tính tốt.
+교만|sự kiêu ngạo|교만은 실패를 부릅니다.|Kiêu ngạo dẫn đến thất bại.
+게으름|sự lười nhác|게으름을 피우지 마세요.|Đừng lười nhác.
+무관심|sự thờ ơ|이웃에 대한 무관심이 문제입니다.|Sự thờ ơ với hàng xóm là vấn đề.
+배신|sự phản bội|친구의 배신에 놀랐습니다.|Tôi sửng sốt vì sự phản bội của bạn.
+아부|sự nịnh bợ|상사에게 아부를 합니다.|Anh ta nịnh bợ cấp trên.
+@Phó từ trung cao cấp|Cách thức và mức độ
+대체로|nhìn chung|올해 날씨는 대체로 따뜻합니다.|Thời tiết năm nay nhìn chung ấm áp.
+대개|thường thì, đa phần|저는 대개 일곱 시에 일어납니다.|Tôi thường dậy lúc bảy giờ.
+주로|chủ yếu|주말에는 주로 집에 있습니다.|Cuối tuần tôi chủ yếu ở nhà.
+흔히|thường thấy|이런 실수는 흔히 있습니다.|Lỗi thế này thường thấy.
+간혹|đôi khi|간혹 그런 일이 생깁니다.|Đôi khi có chuyện như vậy.
+종종|thỉnh thoảng, khá hay|그와 종종 연락합니다.|Tôi khá hay liên lạc với anh ấy.
+수시로|bất cứ lúc nào, luôn|수시로 이메일을 확인합니다.|Tôi kiểm tra email luôn.
+번번이|lần nào cũng|번번이 시험에 떨어졌습니다.|Lần nào tôi cũng thi trượt.
+잇따라|liên tiếp|사고가 잇따라 일어났습니다.|Tai nạn liên tiếp xảy ra.
+한꺼번에|cùng một lúc|일이 한꺼번에 몰렸습니다.|Công việc dồn lại cùng một lúc.
+일일이|từng cái một, tỉ mỉ|일일이 설명할 수 없습니다.|Không thể giải thích từng cái một.
+낱낱이|rành rọt từng chi tiết|사실을 낱낱이 말했습니다.|Tôi đã nói rành rọt từng chi tiết sự thật.
+골고루|đồng đều|음식을 골고루 먹습니다.|Ăn đồng đều các món.
+고스란히|nguyên vẹn|옛 모습이 고스란히 남아 있습니다.|Dáng vẻ xưa còn nguyên vẹn.
+곧바로|ngay lập tức, thẳng|퇴근 후 곧바로 집에 갑니다.|Tan làm tôi về thẳng nhà.
+즉시|tức thì|문제가 생기면 즉시 연락하세요.|Có vấn đề thì hãy liên lạc tức thì.
+당분간|trong thời gian tới|당분간 쉬려고 합니다.|Trong thời gian tới tôi định nghỉ.
+한동안|một dạo|한동안 연락이 없었습니다.|Một dạo không có liên lạc gì.
+여태|cho đến giờ|여태 밥을 못 먹었습니다.|Cho đến giờ tôi vẫn chưa ăn cơm.
+진작|sớm hơn, từ trước|진작 말했어야 합니다.|Lẽ ra phải nói sớm hơn.
+좀처럼|hiếm khi, khó mà|비가 좀처럼 그치지 않습니다.|Mưa khó mà tạnh.
+워낙|vốn dĩ rất|그는 워낙 바쁩니다.|Anh ấy vốn dĩ rất bận.
+몹시|hết sức|바람이 몹시 붑니다.|Gió thổi hết sức mạnh.
+무척|vô cùng|무척 반갑습니다.|Tôi vô cùng vui mừng.
+상당히|khá nhiều, đáng kể|가격이 상당히 올랐습니다.|Giá đã tăng đáng kể.
+@Quán dụng ngữ thường gặp|Cụm từ cố định
+발이넓다|quen biết rộng|그는 발이넓습니다.|Anh ấy quen biết rộng.
+입이무겁다|kín miệng|제 친구는 입이무겁습니다.|Bạn tôi kín miệng.
+입이가볍다|hay hớt lẻo|입이가벼운 사람에게 비밀을 말하지 마세요.|Đừng nói bí mật cho người hay hớt lẻo.
+귀가얇다|nhẹ dạ cả tin|그는 귀가얇아서 물건을 쉽게 삽니다.|Anh ấy cả tin nên dễ mua đồ.
+눈이높다|kén chọn, mắt cao|언니는 눈이높습니다.|Chị tôi kén chọn lắm.
+손이크다|hào phóng, rộng tay|어머니는 손이커서 음식을 많이 하십니다.|Mẹ tôi rộng tay nên nấu rất nhiều.
+마음을먹다|quyết tâm|운동을 하기로 마음을먹었습니다.|Tôi đã quyết tâm tập thể dục.
+마음에들다|vừa ý|이 가방이 마음에듭니다.|Tôi vừa ý cái túi này.
+신경을쓰다|bận tâm, để ý|건강에 신경을씁니다.|Tôi để ý đến sức khỏe.
+바가지를쓰다|bị chặt chém|시장에서 바가지를썼습니다.|Tôi đã bị chặt chém ở chợ.
+한눈을팔다|lơ đễnh nhìn chỗ khác|운전할 때 한눈을팔지 마세요.|Khi lái xe đừng lơ đễnh nhìn chỗ khác.
+눈치가빠르다|nhanh ý, tinh ý|그 직원은 눈치가빠릅니다.|Nhân viên đó tinh ý.
+애를쓰다|gắng sức|합격하려고 애를씁니다.|Tôi gắng sức để thi đỗ.
+골치가아프다|đau đầu (vì rắc rối)|그 문제 때문에 골치가아픕니다.|Tôi đau đầu vì vấn đề đó.

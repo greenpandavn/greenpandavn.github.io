@@ -1,0 +1,65 @@
+=5
+@Tôn giáo và tín ngưỡng|Đền chùa, nghi lễ
+神道:しんとう|Thần đạo|神道:しんとう は 日本:にほん の 古い:ふるい 宗教:しゅうきょう です 。|Thần đạo là tôn giáo cổ của Nhật Bản.
+仏教:ぶっきょう|Phật giáo|仏教:ぶっきょう は インド で 生まれました:うまれました 。|Phật giáo ra đời ở Ấn Độ.
+僧:そう|nhà sư|山:やま の 寺:てら に 僧:そう が 住んで:すんで います 。|Nhà sư sống ở ngôi chùa trên núi.
+僧侶:そうりょ|tăng lữ|僧侶:そうりょ が お経:おきょう を 読みます:よみます 。|Tăng lữ tụng kinh.
+神主:かんぬし|thầy tế đền Thần đạo|神主:かんぬし が 式:しき を 行います:おこないます 。|Thầy tế cử hành buổi lễ.
+巫女:みこ|vu nữ (cô gái phục vụ đền)|神社:じんじゃ で 巫女:みこ が 踊ります:おどります 。|Vu nữ múa ở đền thần.
+祭壇:さいだん|bàn thờ, tế đàn|祭壇:さいだん に 花:はな を 飾ります:かざります 。|Tôi bày hoa lên bàn thờ.
+儀式:ぎしき|nghi thức, nghi lễ|古い:ふるい 儀式:ぎしき が 行われます:おこなわれます 。|Nghi lễ cổ được cử hành.
+祈願:きがん|cầu nguyện (xin điều ước)|神社:じんじゃ で 合格:ごうかく を 祈願:きがん します 。|Tôi cầu xin thi đỗ ở đền thần.
+参拝:さんぱい|viếng đền chùa|正月:しょうがつ に 神社:じんじゃ を 参拝:さんぱい します 。|Dịp Tết tôi viếng đền thần.
+供養:くよう|cúng dường, cúng giỗ|先祖:せんぞ を 供養:くよう します 。|Tôi cúng giỗ tổ tiên.
+法事:ほうじ|lễ giỗ (theo Phật giáo)|来週:らいしゅう 、 祖父:そふ の 法事:ほうじ が あります 。|Tuần sau có lễ giỗ ông tôi.
+葬儀:そうぎ|tang lễ|葬儀:そうぎ は 明日:あした 行われます:おこなわれます 。|Tang lễ sẽ được cử hành ngày mai.
+墓地:ぼち|nghĩa trang|寺:てら の 裏:うら に 墓地:ぼち が あります 。|Sau chùa có nghĩa trang.
+墓参り:はかまいり|đi tảo mộ|お盆:おぼん に 墓参り:はかまいり を します 。|Dịp Obon tôi đi tảo mộ.
+極楽:ごくらく|cõi cực lạc|温泉:おんせん は 極楽:ごくらく です 。|Suối nước nóng đúng là cõi cực lạc.
+地獄:じごく|địa ngục|毎朝:まいあさ の 満員:まんいん 電車:でんしゃ は 地獄:じごく です 。|Tàu chật cứng mỗi sáng là địa ngục.
+天国:てんごく|thiên đường|祖母:そぼ は 天国:てんごく に います 。|Bà tôi đang ở thiên đường.
+霊:れい|linh hồn người chết|亡くなった:なくなった 人:ひと の 霊:れい を 慰めます:なぐさめます 。|An ủi linh hồn người đã khuất.
+魂:たましい|hồn, tâm hồn|彼:かれ は 仕事:しごと に 魂:たましい を 込めます:こめます 。|Anh ấy dồn cả tâm hồn vào công việc.
+幽霊:ゆうれい|ma|この 家:いえ に は 幽霊:ゆうれい が 出ます:でます 。|Ngôi nhà này có ma.
+妖怪:ようかい|yêu quái|日本:にほん の 昔話:むかしばなし に 妖怪:ようかい が 出ます:でます 。|Yêu quái xuất hiện trong truyện cổ Nhật Bản.
+迷信:めいしん|mê tín|それ は ただ の 迷信:めいしん です 。|Đó chỉ là mê tín.
+厄年:やくどし|năm hạn|今年:ことし は 父:ちち の 厄年:やくどし です 。|Năm nay là năm hạn của bố.
+鳥居:とりい|cổng đền Thần đạo|赤い:あかい 鳥居:とりい を くぐります 。|Tôi đi qua cổng đền màu đỏ.
+本堂:ほんどう|chính điện (chùa)|本堂:ほんどう で 手:て を 合わせます:あわせます 。|Tôi chắp tay ở chính điện.
+境内:けいだい|khuôn viên đền chùa|境内:けいだい に 大きな:おおきな 木:き が あります 。|Trong khuôn viên đền có cây lớn.
+賽銭:さいせん|tiền cúng (bỏ hòm)|箱:はこ に 賽銭:さいせん を 入れます:いれます 。|Tôi bỏ tiền cúng vào hòm.
+聖書:せいしょ|Kinh Thánh|毎晩:まいばん 、 聖書:せいしょ を 読みます:よみます 。|Tối nào tôi cũng đọc Kinh Thánh.
+牧師:ぼくし|mục sư|牧師:ぼくし が 教会:きょうかい で 話します:はなします 。|Mục sư giảng ở nhà thờ.
+信者:しんじゃ|tín đồ|この 宗教:しゅうきょう は 信者:しんじゃ が 多い:おおい です 。|Tôn giáo này có nhiều tín đồ.
+信仰:しんこう|tín ngưỡng, đức tin|彼女:かのじょ は 深い:ふかい 信仰:しんこう を 持って:もって います 。|Cô ấy có đức tin sâu sắc.
+宗派:しゅうは|tông phái|仏教:ぶっきょう に は 多く:おおく の 宗派:しゅうは が あります 。|Phật giáo có nhiều tông phái.
+布教:ふきょう|truyền giáo|彼:かれ は 外国:がいこく で 布教:ふきょう を しました 。|Ông ấy đã truyền giáo ở nước ngoài.
+巡礼:じゅんれい|hành hương|四国:しこく の 寺:てら を 巡礼:じゅんれい します 。|Tôi hành hương các chùa ở Shikoku.
+修行:しゅぎょう|tu hành, khổ luyện|僧:そう は 山:やま で 修行:しゅぎょう します 。|Nhà sư tu hành trên núi.
+悟り:さとり|sự giác ngộ|彼:かれ は 長い:ながい 修行:しゅぎょう の 後:あと 、 悟り:さとり を 得ました:えました 。|Sau thời gian dài tu hành ông ấy đã giác ngộ.
+@Nghệ thuật truyền thống|Di sản văn hóa
+伝統芸能:でんとうげいのう|nghệ thuật biểu diễn truyền thống|日本:にほん の 伝統芸能:でんとうげいのう を 見ます:みます 。|Tôi xem nghệ thuật biểu diễn truyền thống Nhật Bản.
+歌舞伎:かぶき|kịch Kabuki|東京:とうきょう で 歌舞伎:かぶき を 見ました:みました 。|Tôi đã xem kịch Kabuki ở Tokyo.
+能:のう|kịch Nô|能:のう は 六百年:ろっぴゃくねん の 歴史:れきし が あります 。|Kịch Nô có lịch sử sáu trăm năm.
+狂言:きょうげん|kịch hài Kyogen|狂言:きょうげん は 面白い:おもしろい 劇:げき です 。|Kyogen là loại kịch hài thú vị.
+華道:かどう|hoa đạo (nghệ thuật cắm hoa)|母:はは は 華道:かどう を 教えて:おしえて います 。|Mẹ tôi dạy hoa đạo.
+短歌:たんか|thơ tanka|祖母:そぼ は 短歌:たんか を 作ります:つくります 。|Bà tôi làm thơ tanka.
+和歌:わか|thơ waka|昔:むかし の 人:ひと は 和歌:わか で 気持ち:きもち を 伝えました:つたえました 。|Người xưa truyền đạt tình cảm bằng thơ waka.
+民謡:みんよう|dân ca|祭り:まつり で 民謡:みんよう を 歌います:うたいます 。|Hát dân ca ở lễ hội.
+浮世絵:うきよえ|tranh khắc gỗ ukiyo-e|美術館:びじゅつかん で 浮世絵:うきよえ を 見ました:みました 。|Tôi đã xem tranh ukiyo-e ở bảo tàng mỹ thuật.
+漆器:しっき|đồ sơn mài|この 町:まち は 漆器:しっき で 有名:ゆうめい です 。|Thị trấn này nổi tiếng về đồ sơn mài.
+織物:おりもの|hàng dệt|京都:きょうと の 織物:おりもの は 美しい:うつくしい です 。|Hàng dệt Kyoto rất đẹp.
+工芸:こうげい|thủ công mỹ nghệ|伝統:でんとう の 工芸:こうげい を 守ります:まもります 。|Gìn giữ thủ công mỹ nghệ truyền thống.
+骨董:こっとう|đồ cổ|父:ちち の 趣味:しゅみ は 骨董:こっとう です 。|Sở thích của bố tôi là đồ cổ.
+家元:いえもと|trưởng môn phái (nghệ thuật)|彼女:かのじょ は 茶道:さどう の 家元:いえもと です 。|Bà ấy là trưởng môn phái trà đạo.
+師匠:ししょう|sư phụ|師匠:ししょう から 技:わざ を 学びます:まなびます 。|Tôi học kỹ nghệ từ sư phụ.
+弟子:でし|đệ tử|彼:かれ は 多く:おおく の 弟子:でし を 育てました:そだてました 。|Ông ấy đã đào tạo nhiều đệ tử.
+継承:けいしょう|kế tục (truyền thống)|若者:わかもの が 伝統:でんとう を 継承:けいしょう します 。|Giới trẻ kế tục truyền thống.
+伝承:でんしょう|truyền lại (qua các đời)|この 話:はなし は 村:むら に 伝承:でんしょう されて います 。|Câu chuyện này được truyền lại trong làng.
+風習:ふうしゅう|phong tục tập quán|この 地方:ちほう に は 珍しい:めずらしい 風習:ふうしゅう が あります 。|Vùng này có phong tục tập quán lạ.
+慣習:かんしゅう|lệ thường, thông lệ|古い:ふるい 慣習:かんしゅう に 従います:したがいます 。|Tôi theo thông lệ cũ.
+風俗:ふうぞく|phong tục, nếp sinh hoạt|江戸:えど 時代:じだい の 風俗:ふうぞく を 調べます:しらべます 。|Tôi tìm hiểu nếp sinh hoạt thời Edo.
+民俗:みんぞく|dân tục, văn hóa dân gian|大学:だいがく で 民俗:みんぞく を 研究:けんきゅう して います 。|Tôi nghiên cứu văn hóa dân gian ở đại học.
+遺跡:いせき|di tích|古い:ふるい 遺跡:いせき が 見つかりました:みつかりました 。|Một di tích cổ đã được phát hiện.
+文化財:ぶんかざい|tài sản văn hóa|この 寺:てら は 重要:じゅうよう な 文化財:ぶんかざい です 。|Ngôi chùa này là tài sản văn hóa quan trọng.
+国宝:こくほう|quốc bảo|この 城:しろ は 国宝:こくほう です 。|Tòa thành này là quốc bảo.

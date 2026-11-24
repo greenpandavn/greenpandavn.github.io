@@ -1,0 +1,93 @@
+=5
+@Lịch sử và khảo cổ|Thuật ngữ sử học
+선사시대|thời tiền sử|선사시대의 유물을 전시합니다.|Trưng bày di vật thời tiền sử.
+구석기|đồ đá cũ|구석기 시대의 도구를 발견했습니다.|Đã phát hiện công cụ thời đồ đá cũ.
+청동기|đồ đồng|청동기 문화가 발달했습니다.|Văn hóa đồ đồng đã phát triển.
+철기|đồ sắt|철기 사용으로 농업이 발전했습니다.|Nông nghiệp phát triển nhờ dùng đồ sắt.
+문명|văn minh|고대 문명이 강 주변에서 시작되었습니다.|Văn minh cổ đại bắt đầu quanh các con sông.
+제국|đế quốc|로마 제국은 넓은 영토를 가졌습니다.|Đế quốc La Mã có lãnh thổ rộng lớn.
+봉건|phong kiến|봉건 제도가 무너졌습니다.|Chế độ phong kiến đã sụp đổ.
+근대화|sự cận đại hóa|근대화 과정에서 많은 변화가 있었습니다.|Trong quá trình cận đại hóa đã có nhiều thay đổi.
+산업혁명|cách mạng công nghiệp|산업혁명은 영국에서 시작되었습니다.|Cách mạng công nghiệp bắt đầu ở Anh.
+개항|việc mở cảng thông thương|개항 이후 외국 문물이 들어왔습니다.|Sau khi mở cảng, văn vật nước ngoài đã du nhập.
+식민통치|ách cai trị thực dân|식민통치 시기의 자료를 연구합니다.|Nghiên cứu tư liệu thời cai trị thực dân.
+독립운동|phong trào độc lập|독립운동에 참여했습니다.|Đã tham gia phong trào độc lập.
+광복|sự giải phóng giành lại chủ quyền|광복을 맞이했습니다.|Đã đón ngày giải phóng.
+휴전선|đường giới tuyến đình chiến|휴전선 근처에 마을이 있습니다.|Gần đường giới tuyến đình chiến có ngôi làng.
+사료|sử liệu|사료를 근거로 설명합니다.|Giải thích dựa trên sử liệu.
+연대|niên đại; sự liên đới|유물의 연대를 측정합니다.|Đo niên đại của di vật.
+발굴|việc khai quật|유적지 발굴이 진행 중입니다.|Việc khai quật di tích đang tiến hành.
+복원|việc phục dựng|성곽 복원 공사를 합니다.|Thi công phục dựng thành quách.
+고증|sự khảo chứng|철저한 고증을 거쳤습니다.|Đã qua khảo chứng kỹ lưỡng.
+연표|niên biểu|역사 연표를 만듭니다.|Lập niên biểu lịch sử.
+실록|thực lục|조선왕조 실록을 번역합니다.|Dịch thực lục vương triều Joseon.
+사관|sử quan; quan điểm lịch sử|사관이 왕의 말을 기록했습니다.|Sử quan đã ghi chép lời vua.
+개혁파|phái cải cách|개혁파가 권력을 잡았습니다.|Phái cải cách đã nắm quyền.
+쇄국|bế quan tỏa cảng|쇄국 정책을 폈습니다.|Đã thi hành chính sách bế quan tỏa cảng.
+@Giáo dục học và tâm lý học|Lý luận dạy học
+교육학|giáo dục học|교육학을 전공했습니다.|Tôi đã học chuyên ngành giáo dục học.
+교수법|phương pháp giảng dạy|새로운 교수법을 적용합니다.|Áp dụng phương pháp giảng dạy mới.
+학습자|người học|학습자 중심의 수업을 합니다.|Dạy học lấy người học làm trung tâm.
+교육열|nhiệt tình đầu tư giáo dục|한국은 교육열이 높습니다.|Hàn Quốc có nhiệt tình đầu tư giáo dục cao.
+조기교육|giáo dục sớm|조기교육의 효과를 연구합니다.|Nghiên cứu hiệu quả của giáo dục sớm.
+영재|trẻ năng khiếu|영재 교육 프로그램이 있습니다.|Có chương trình giáo dục trẻ năng khiếu.
+인성교육|giáo dục nhân cách|인성교육을 강화합니다.|Tăng cường giáo dục nhân cách.
+자기주도|sự tự định hướng|자기주도 학습이 중요합니다.|Việc học tự định hướng rất quan trọng.
+동기부여|sự tạo động lực|학생들에게 동기부여를 합니다.|Tạo động lực cho học sinh.
+성취도|mức độ đạt được|학업 성취도를 평가합니다.|Đánh giá mức độ đạt được trong học tập.
+인지|sự nhận thức (tâm lý)|인지 능력이 발달합니다.|Năng lực nhận thức phát triển.
+정서|tình cảm, cảm xúc (tâm lý)|아이의 정서 발달을 돕습니다.|Giúp trẻ phát triển cảm xúc.
+자아|cái tôi|자아를 찾는 과정입니다.|Đó là quá trình tìm cái tôi.
+잠재력|tiềm lực|학생의 잠재력을 끌어냅니다.|Khơi dậy tiềm lực của học sinh.
+트라우마|sang chấn tâm lý|사고의 트라우마가 남았습니다.|Sang chấn tâm lý sau tai nạn vẫn còn.
+강박|sự ám ảnh cưỡng bức|완벽에 대한 강박이 있습니다.|Có sự ám ảnh cưỡng bức về sự hoàn hảo.
+공황|sự hoảng loạn|공황 장애를 겪고 있습니다.|Đang mắc chứng rối loạn hoảng loạn.
+방어기제|cơ chế phòng vệ|방어기제가 작동합니다.|Cơ chế phòng vệ hoạt động.
+무기력|sự bất lực uể oải|무기력에 빠졌습니다.|Đã rơi vào trạng thái bất lực uể oải.
+자존감|lòng tự tôn|아이의 자존감을 높입니다.|Nâng cao lòng tự tôn của trẻ.
+상담사|chuyên viên tư vấn tâm lý|상담사와 이야기를 나눕니다.|Trò chuyện với chuyên viên tư vấn.
+심리치료|trị liệu tâm lý|심리치료를 받고 있습니다.|Đang được trị liệu tâm lý.
+@Công nghệ và kỹ thuật|Thuật ngữ kỹ thuật
+공정|công đoạn sản xuất|생산 공정을 개선합니다.|Cải thiện công đoạn sản xuất.
+규격|quy cách|제품 규격을 맞춥니다.|Làm đúng quy cách sản phẩm.
+성능|tính năng, hiệu năng|이 기계는 성능이 뛰어납니다.|Máy này có hiệu năng vượt trội.
+내구성|độ bền|내구성이 강한 재료를 씁니다.|Dùng vật liệu có độ bền cao.
+정밀|sự chính xác tinh vi|정밀 검사를 받았습니다.|Đã được kiểm tra tinh vi.
+결함|khuyết điểm kỹ thuật|제품에 결함이 발견되었습니다.|Đã phát hiện khuyết điểm ở sản phẩm.
+회로|mạch điện|전자 회로를 설계합니다.|Thiết kế mạch điện tử.
+센서|cảm biến|센서가 움직임을 감지합니다.|Cảm biến nhận biết chuyển động.
+알고리즘|thuật toán|새로운 알고리즘을 개발했습니다.|Đã phát triển thuật toán mới.
+암호화|sự mã hóa|자료를 암호화합니다.|Mã hóa tài liệu.
+서버|máy chủ|서버가 다운되었습니다.|Máy chủ đã sập.
+통신망|mạng thông tin liên lạc|통신망을 구축합니다.|Xây dựng mạng thông tin liên lạc.
+나노기술|công nghệ nano|나노기술이 의학에 활용됩니다.|Công nghệ nano được ứng dụng trong y học.
+생명공학|công nghệ sinh học|생명공학 분야가 성장합니다.|Lĩnh vực công nghệ sinh học tăng trưởng.
+신소재|vật liệu mới|신소재를 개발했습니다.|Đã phát triển vật liệu mới.
+시제품|sản phẩm mẫu thử|시제품을 만들어 시험합니다.|Làm sản phẩm mẫu rồi thử nghiệm.
+상용화|sự thương mại hóa|기술의 상용화에 성공했습니다.|Đã thương mại hóa thành công công nghệ.
+호환|sự tương thích|두 기기는 호환이 됩니다.|Hai thiết bị tương thích với nhau.
+원격|từ xa|원격 진료를 시작했습니다.|Đã bắt đầu khám chữa bệnh từ xa.
+제어|sự điều khiển|자동 제어 장치를 답니다.|Gắn thiết bị điều khiển tự động.
+@Sinh thái và nông nghiệp|Thuật ngữ môi trường
+생물다양성|đa dạng sinh học|생물다양성을 보전합니다.|Bảo tồn đa dạng sinh học.
+먹이사슬|chuỗi thức ăn|먹이사슬이 파괴되었습니다.|Chuỗi thức ăn đã bị phá vỡ.
+외래종|loài ngoại lai|외래종이 생태계를 위협합니다.|Loài ngoại lai đe dọa hệ sinh thái.
+토종|giống bản địa|토종 식물을 보호합니다.|Bảo vệ thực vật bản địa.
+사막화|sa mạc hóa|사막화가 빠르게 진행됩니다.|Sa mạc hóa diễn ra nhanh.
+토양|thổ nhưỡng|토양이 오염되었습니다.|Thổ nhưỡng đã bị ô nhiễm.
+지하수|nước ngầm|지하수를 개발합니다.|Khai thác nước ngầm.
+수자원|tài nguyên nước|수자원을 관리합니다.|Quản lý tài nguyên nước.
+벌목|việc đốn gỗ|불법 벌목을 단속합니다.|Xử lý đốn gỗ trái phép.
+조림|việc trồng rừng|조림 사업을 실시합니다.|Thực hiện dự án trồng rừng.
+탄소중립|trung hòa cacbon|탄소중립을 목표로 합니다.|Lấy trung hòa cacbon làm mục tiêu.
+신재생에너지|năng lượng tái tạo|신재생에너지 비중을 늘립니다.|Tăng tỷ trọng năng lượng tái tạo.
+폐기물|chất thải|산업 폐기물을 처리합니다.|Xử lý chất thải công nghiệp.
+매립|việc chôn lấp|쓰레기 매립 문제가 심각합니다.|Vấn đề chôn lấp rác nghiêm trọng.
+소각|việc đốt bỏ|폐기물을 소각합니다.|Đốt bỏ chất thải.
+농작물|cây nông sản|가뭄으로 농작물이 피해를 입었습니다.|Cây nông sản bị thiệt hại vì hạn hán.
+품종|giống cây con|새 품종을 개발했습니다.|Đã phát triển giống mới.
+식량|lương thực|식량 부족 문제가 있습니다.|Có vấn đề thiếu lương thực.
+자급|sự tự cung|식량 자급을 이루었습니다.|Đã đạt tự cung lương thực.
+축산|chăn nuôi|축산 농가를 지원합니다.|Hỗ trợ hộ chăn nuôi.
+양식업|nghề nuôi trồng thủy sản|양식업이 발달한 지역입니다.|Đó là vùng nghề nuôi trồng thủy sản phát triển.
+관개|thủy lợi tưới tiêu|관개 시설을 정비합니다.|Chỉnh trang công trình thủy lợi.

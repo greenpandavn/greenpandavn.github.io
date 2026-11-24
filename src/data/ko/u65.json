@@ -1,0 +1,133 @@
+{
+ "units": [
+  {"unit":65,"level":6,"title":"Phần 5: Phó từ cao cấp và hơn thế","desc":"Phó từ cao cấp, Từ tượng thanh tượng hình, Văn hóa truyền thống, Động từ Hán Hàn cao cấp","color":"leaf","course":"ko"}
+ ],
+ "lessons": [
+  {"id":"ko6x10","title":"Phó từ cao cấp","desc":"Văn viết và văn nói trang trọng","icon":"비","unit":65,"course":"ko","order":3700,"words":[
+   {"id":"ko6x10-비로소","hanzi":"비로소","pinyin":"biroso","vi":"rốt cuộc mới","ex":{"tokens":["그때","비로소","깨달았습니다","."],"py":["geuttae","biroso","kkaedaratseumnida","."],"vi":"Khi ấy tôi mới nhận ra.","alts":[]}},
+   {"id":"ko6x10-이윽고","hanzi":"이윽고","pinyin":"ieukgo","vi":"chẳng mấy chốc rồi","ex":{"tokens":["이윽고","해가","졌습니다","."],"py":["ieukgo","haega","jyeotseumnida","."],"vi":"Chẳng mấy chốc mặt trời lặn.","alts":[]}},
+   {"id":"ko6x10-사뭇","hanzi":"사뭇","pinyin":"samut","vi":"hẳn, rất khác","ex":{"tokens":["분위기가","사뭇","다릅니다","."],"py":["bunwigiga","samut","dareumnida","."],"vi":"Bầu không khí khác hẳn.","alts":[]}},
+   {"id":"ko6x10-무릇","hanzi":"무릇","pinyin":"mureut","vi":"phàm là","ex":{"tokens":["무릇","사람은","정직해야","합니다","."],"py":["mureut","sarameun","jeongjikaeya","hamnida","."],"vi":"Phàm là người thì phải trung thực.","alts":[]}},
+   {"id":"ko6x10-모름지기","hanzi":"모름지기","pinyin":"moreumjigi","vi":"lẽ đương nhiên phải","ex":{"tokens":["학생은","모름지기","공부해야","합니다","."],"py":["haksaengeun","moreumjigi","gongbuhaeya","hamnida","."],"vi":"Học sinh lẽ đương nhiên phải học.","alts":[]}},
+   {"id":"ko6x10-자칫","hanzi":"자칫","pinyin":"jachit","vi":"suýt nữa, sơ sảy là","ex":{"tokens":["자칫","큰","사고가","날","뻔했습니다","."],"py":["jachit","keun","sagoga","nal","ppeonhaetseumnida","."],"vi":"Sơ sảy là suýt xảy ra tai nạn lớn.","alts":[]}},
+   {"id":"ko6x10-하마터면","hanzi":"하마터면","pinyin":"hamateomyeon","vi":"suýt chút nữa","ex":{"tokens":["하마터면","넘어질","뻔했습니다","."],"py":["hamateomyeon","neomeojil","ppeonhaetseumnida","."],"vi":"Suýt chút nữa tôi ngã.","alts":[]}},
+   {"id":"ko6x10-행여","hanzi":"행여","pinyin":"haengyeo","vi":"ngộ nhỡ","ex":{"tokens":["행여","늦을까","봐","서둘렀습니다","."],"py":["haengyeo","neujeulkka","bwa","seodulleotseumnida","."],"vi":"Sợ ngộ nhỡ muộn nên tôi vội.","alts":[]}},
+   {"id":"ko6x10-부디","hanzi":"부디","pinyin":"budi","vi":"xin hãy, mong sao","ex":{"tokens":["부디","건강하세요","."],"py":["budi","geonganghaseyo","."],"vi":"Mong sao bạn khỏe mạnh.","alts":[]}},
+   {"id":"ko6x10-아무쪼록","hanzi":"아무쪼록","pinyin":"amujjorok","vi":"dù thế nào cũng mong","ex":{"tokens":["아무쪼록","잘","부탁드립니다","."],"py":["amujjorok","jal","butakdeurimnida","."],"vi":"Dù thế nào cũng mong được giúp đỡ.","alts":[]}},
+   {"id":"ko6x10-기어이","hanzi":"기어이","pinyin":"gieoi","vi":"rốt cuộc cũng, bằng được","ex":{"tokens":["기어이","해내고","말았습니다","."],"py":["gieoi","haenaego","maratseumnida","."],"vi":"Rốt cuộc cũng làm bằng được.","alts":[]}},
+   {"id":"ko6x10-끝내","hanzi":"끝내","pinyin":"kkeunnae","vi":"đến cuối cùng vẫn","ex":{"tokens":["그는","끝내","오지","않았습니다","."],"py":["geuneun","kkeunnae","oji","anatseumnida","."],"vi":"Đến cuối cùng anh ấy vẫn không đến.","alts":[]}}
+  ]},
+  {"id":"ko6x11","title":"Từ tượng thanh tượng hình 1","desc":"의성어와 의태어","icon":"엉","unit":65,"course":"ko","order":3710,"words":[
+   {"id":"ko6x11-엉금엉금","hanzi":"엉금엉금","pinyin":"eonggeumeonggeum","vi":"bò lổm ngổm","ex":{"tokens":["거북이가","엉금엉금","기어갑니다","."],"py":["geobugiga","eonggeumeonggeum","gieogamnida","."],"vi":"Con rùa bò lổm ngổm.","alts":[]}},
+   {"id":"ko6x11-아장아장","hanzi":"아장아장","pinyin":"ajangajang","vi":"chập chững","ex":{"tokens":["아기가","아장아장","걷습니다","."],"py":["agiga","ajangajang","geotseumnida","."],"vi":"Em bé đi chập chững.","alts":[]}},
+   {"id":"ko6x11-성큼성큼","hanzi":"성큼성큼","pinyin":"seongkeumseongkeum","vi":"sải bước dài","ex":{"tokens":["그가","성큼성큼","다가왔습니다","."],"py":["geuga","seongkeumseongkeum","dagawatseumnida","."],"vi":"Anh ấy sải bước dài tiến lại.","alts":[]}},
+   {"id":"ko6x11-허겁지겁","hanzi":"허겁지겁","pinyin":"heogeopjigeop","vi":"hớt ha hớt hải","ex":{"tokens":["허겁지겁","밥을","먹었습니다","."],"py":["heogeopjigeop","babeul","meogeotseumnida","."],"vi":"Tôi ăn cơm hớt ha hớt hải.","alts":[]}},
+   {"id":"ko6x11-허둥지둥","hanzi":"허둥지둥","pinyin":"heodungjidung","vi":"cuống cuồng","ex":{"tokens":["늦어서","허둥지둥","나갔습니다","."],"py":["neujeoseo","heodungjidung","nagatseumnida","."],"vi":"Muộn nên tôi cuống cuồng đi ra.","alts":[]}},
+   {"id":"ko6x11-우물쭈물","hanzi":"우물쭈물","pinyin":"umuljjumul","vi":"ấp a ấp úng, chần chừ","ex":{"tokens":["우물쭈물하다가","기회를","놓쳤습니다","."],"py":["umuljjumulhadaga","gihoereul","nochyeotseumnida","."],"vi":"Chần chừ nên lỡ cơ hội.","alts":[]}},
+   {"id":"ko6x11-머뭇머뭇","hanzi":"머뭇머뭇","pinyin":"meomunmeomut","vi":"ngập ngừng","ex":{"tokens":["머뭇머뭇","말을","꺼냈습니다","."],"py":["meomunmeomut","mareul","kkeonaetseumnida","."],"vi":"Ngập ngừng mở lời.","alts":[]}},
+   {"id":"ko6x11-싱글벙글","hanzi":"싱글벙글","pinyin":"singgeulbeonggeul","vi":"cười tươi hớn hở","ex":{"tokens":["아이가","싱글벙글","웃습니다","."],"py":["aiga","singgeulbeonggeul","utseumnida","."],"vi":"Đứa bé cười tươi hớn hở.","alts":[]}},
+   {"id":"ko6x11-방긋방긋","hanzi":"방긋방긋","pinyin":"banggeutbanggeut","vi":"cười chúm chím","ex":{"tokens":["아기가","방긋방긋","웃습니다","."],"py":["agiga","banggeutbanggeut","utseumnida","."],"vi":"Em bé cười chúm chím.","alts":[]}},
+   {"id":"ko6x11-투덜투덜","hanzi":"투덜투덜","pinyin":"tudeoltudeol","vi":"lầu bầu càu nhàu","ex":{"tokens":["그는","투덜투덜","불평합니다","."],"py":["geuneun","tudeoltudeol","bulpyeonghamnida","."],"vi":"Anh ta lầu bầu phàn nàn.","alts":[]}},
+   {"id":"ko6x11-와글와글","hanzi":"와글와글","pinyin":"wageurwageul","vi":"ồn ào nhốn nháo","ex":{"tokens":["시장이","와글와글","시끄럽습니다","."],"py":["sijangi","wageurwageul","sikkeureopseumnida","."],"vi":"Chợ ồn ào nhốn nháo.","alts":[]}},
+   {"id":"ko6x11-웅성웅성","hanzi":"웅성웅성","pinyin":"ungseongungseong","vi":"xì xào bàn tán","ex":{"tokens":["사람들이","웅성웅성","모여","있습니다","."],"py":["saramdeuri","ungseongungseong","moyeo","itseumnida","."],"vi":"Mọi người tụ tập xì xào.","alts":[]}}
+  ]},
+  {"id":"ko6x12","title":"Từ tượng thanh tượng hình 2","desc":"의성어와 의태어","icon":"새","unit":65,"course":"ko","order":3720,"words":[
+   {"id":"ko6x12-새근새근","hanzi":"새근새근","pinyin":"saegeunsaegeun","vi":"thở đều đều (ngủ say)","ex":{"tokens":["아기가","새근새근","잡니다","."],"py":["agiga","saegeunsaegeun","jamnida","."],"vi":"Em bé ngủ thở đều đều.","alts":[]}},
+   {"id":"ko6x12-털썩","hanzi":"털썩","pinyin":"teolsseok","vi":"phịch (ngồi xuống)","ex":{"tokens":["의자에","털썩","앉았습니다","."],"py":["uijae","teolsseok","anjatseumnida","."],"vi":"Ngồi phịch xuống ghế.","alts":[]}},
+   {"id":"ko6x12-덜컹덜컹","hanzi":"덜컹덜컹","pinyin":"deolkeongdeolkeong","vi":"lọc cọc xóc nảy","ex":{"tokens":["버스가","덜컹덜컹","흔들립니다","."],"py":["beoseuga","deolkeongdeolkeong","heundeullimnida","."],"vi":"Xe buýt xóc nảy lọc cọc.","alts":[]}},
+   {"id":"ko6x12-보슬보슬","hanzi":"보슬보슬","pinyin":"boseulboseul","vi":"lất phất (mưa)","ex":{"tokens":["보슬보슬","비가","옵니다","."],"py":["boseulboseul","biga","omnida","."],"vi":"Mưa lất phất.","alts":[]}},
+   {"id":"ko6x12-살랑살랑","hanzi":"살랑살랑","pinyin":"sallangsallang","vi":"hiu hiu nhè nhẹ","ex":{"tokens":["봄바람이","살랑살랑","붑니다","."],"py":["bombarami","sallangsallang","bumnida","."],"vi":"Gió xuân thổi hiu hiu.","alts":[]}},
+   {"id":"ko6x12-쨍쨍","hanzi":"쨍쨍","pinyin":"jjaengjjaeng","vi":"chói chang","ex":{"tokens":["햇볕이","쨍쨍","내리쬡니다","."],"py":["haetbyeochi","jjaengjjaeng","naerijjoemnida","."],"vi":"Nắng chiếu chói chang.","alts":[]}},
+   {"id":"ko6x12-번쩍번쩍","hanzi":"번쩍번쩍","pinyin":"beonjjeokbeonjjeok","vi":"loang loáng, chớp sáng","ex":{"tokens":["번개가","번쩍번쩍","칩니다","."],"py":["beongaega","beonjjeokbeonjjeok","chimnida","."],"vi":"Chớp loang loáng.","alts":[]}},
+   {"id":"ko6x12-울퉁불퉁","hanzi":"울퉁불퉁","pinyin":"ultungbultung","vi":"gồ ghề","ex":{"tokens":["길이","울퉁불퉁합니다","."],"py":["giri","ultungbultunghamnida","."],"vi":"Đường gồ ghề.","alts":[]}},
+   {"id":"ko6x12-꼬불꼬불","hanzi":"꼬불꼬불","pinyin":"kkobulkkobul","vi":"ngoằn ngoèo","ex":{"tokens":["산길이","꼬불꼬불합니다","."],"py":["sangiri","kkobulkkobulhamnida","."],"vi":"Đường núi ngoằn ngoèo.","alts":[]}},
+   {"id":"ko6x12-말랑말랑","hanzi":"말랑말랑","pinyin":"mallangmallang","vi":"mềm mềm dẻo dẻo","ex":{"tokens":["떡이","말랑말랑합니다","."],"py":["tteogi","mallangmallanghamnida","."],"vi":"Bánh gạo mềm dẻo.","alts":[]}},
+   {"id":"ko6x12-쫄깃쫄깃","hanzi":"쫄깃쫄깃","pinyin":"jjolgitjjolgit","vi":"dai dai sần sật","ex":{"tokens":["면이","쫄깃쫄깃합니다","."],"py":["myeoni","jjolgitjjolgitamnida","."],"vi":"Sợi mì dai dai.","alts":[]}},
+   {"id":"ko6x12-바삭바삭","hanzi":"바삭바삭","pinyin":"basakbasak","vi":"giòn rụm","ex":{"tokens":["튀김이","바삭바삭합니다","."],"py":["twigimi","basakbasakamnida","."],"vi":"Đồ chiên giòn rụm.","alts":[]}}
+  ]},
+  {"id":"ko6x13","title":"Từ tượng thanh tượng hình 3","desc":"의성어와 의태어","icon":"보","unit":65,"course":"ko","order":3730,"words":[
+   {"id":"ko6x13-보글보글","hanzi":"보글보글","pinyin":"bogeulbogeul","vi":"sôi lục bục","ex":{"tokens":["찌개가","보글보글","끓습니다","."],"py":["jjigaega","bogeulbogeul","kkeulseumnida","."],"vi":"Nồi canh sôi lục bục.","alts":[]}},
+   {"id":"ko6x13-모락모락","hanzi":"모락모락","pinyin":"morangmorak","vi":"nghi ngút","ex":{"tokens":["김이","모락모락","납니다","."],"py":["gimi","morangmorak","namnida","."],"vi":"Hơi bốc nghi ngút.","alts":[]}},
+   {"id":"ko6x13-부들부들","hanzi":"부들부들","pinyin":"budeulbudeul","vi":"run lẩy bẩy","ex":{"tokens":["추워서","부들부들","떱니다","."],"py":["chuwoseo","budeulbudeul","tteomnida","."],"vi":"Lạnh nên run lẩy bẩy.","alts":[]}},
+   {"id":"ko6x13-오싹오싹","hanzi":"오싹오싹","pinyin":"ossagossak","vi":"rờn rợn","ex":{"tokens":["무서워서","오싹오싹합니다","."],"py":["museowoseo","ossagossakamnida","."],"vi":"Sợ nên thấy rờn rợn.","alts":[]}},
+   {"id":"ko6x13-지끈지끈","hanzi":"지끈지끈","pinyin":"jikkeunjikkeun","vi":"nhức bưng bưng","ex":{"tokens":["머리가","지끈지끈","아픕니다","."],"py":["meoriga","jikkeunjikkeun","apeumnida","."],"vi":"Đầu nhức bưng bưng.","alts":[]}},
+   {"id":"ko6x13-따끔따끔","hanzi":"따끔따끔","pinyin":"ttakkeumttakkeum","vi":"rát rát châm chích","ex":{"tokens":["목이","따끔따끔합니다","."],"py":["mogi","ttakkeumttakkeumhamnida","."],"vi":"Họng rát rát.","alts":[]}},
+   {"id":"ko6x13-헐레벌떡","hanzi":"헐레벌떡","pinyin":"heollebeoltteok","vi":"hộc tốc thở dốc","ex":{"tokens":["헐레벌떡","뛰어왔습니다","."],"py":["heollebeoltteok","ttwieowatseumnida","."],"vi":"Chạy hộc tốc đến.","alts":[]}},
+   {"id":"ko6x13-티격태격","hanzi":"티격태격","pinyin":"tigyeoktaegyeok","vi":"cãi cọ lặt vặt","ex":{"tokens":["두","사람은","늘","티격태격합니다","."],"py":["du","sarameun","neul","tigyeoktaegyeokamnida","."],"vi":"Hai người lúc nào cũng cãi cọ lặt vặt.","alts":[]}},
+   {"id":"ko6x13-옥신각신","hanzi":"옥신각신","pinyin":"oksingaksin","vi":"giằng co cãi vã","ex":{"tokens":["값을","두고","옥신각신했습니다","."],"py":["gapseul","dugo","oksingaksinhaetseumnida","."],"vi":"Giằng co cãi vã về giá.","alts":[]}},
+   {"id":"ko6x13-흥청망청","hanzi":"흥청망청","pinyin":"heungcheongmangcheong","vi":"tiêu xài hoang phí","ex":{"tokens":["돈을","흥청망청","씁니다","."],"py":["doneul","heungcheongmangcheong","sseumnida","."],"vi":"Tiêu tiền hoang phí.","alts":[]}},
+   {"id":"ko6x13-갈팡질팡","hanzi":"갈팡질팡","pinyin":"galpangjilpang","vi":"loay hoay không biết đường nào","ex":{"tokens":["어찌할","바를","몰라","갈팡질팡합니다","."],"py":["eojjihal","bareul","molla","galpangjilpanghamnida","."],"vi":"Không biết làm sao nên loay hoay.","alts":[]}},
+   {"id":"ko6x13-뒤죽박죽","hanzi":"뒤죽박죽","pinyin":"dwijukbakjuk","vi":"lộn tùng phèo","ex":{"tokens":["방이","뒤죽박죽입니다","."],"py":["bangi","dwijukbakjugimnida","."],"vi":"Căn phòng lộn tùng phèo.","alts":[]}}
+  ]},
+  {"id":"ko6x14","title":"Văn hóa truyền thống","desc":"Di sản Hàn Quốc","icon":"가","unit":65,"course":"ko","order":3740,"words":[
+   {"id":"ko6x14-가야금","hanzi":"가야금","pinyin":"gayageum","vi":"đàn gayageum","ex":{"tokens":["가야금을","연주합니다","."],"py":["gayageumeul","yeonjuhamnida","."],"vi":"Chơi đàn gayageum.","alts":[]}},
+   {"id":"ko6x14-거문고","hanzi":"거문고","pinyin":"geomungo","vi":"đàn geomungo","ex":{"tokens":["거문고","소리가","깊습니다","."],"py":["geomungo","soriga","gipseumnida","."],"vi":"Tiếng đàn geomungo trầm sâu.","alts":[]}},
+   {"id":"ko6x14-청자","hanzi":"청자","pinyin":"cheongja","vi":"gốm men ngọc","ex":{"tokens":["고려","청자는","유명합니다","."],"py":["goryeo","cheongjaneun","yumyeonghamnida","."],"vi":"Gốm men ngọc Goryeo nổi tiếng.","alts":[]}},
+   {"id":"ko6x14-백자","hanzi":"백자","pinyin":"baekja","vi":"gốm sứ trắng","ex":{"tokens":["조선","백자를","전시합니다","."],"py":["joseon","baekjareul","jeonsihamnida","."],"vi":"Trưng bày gốm sứ trắng Joseon.","alts":[]}},
+   {"id":"ko6x14-폐백","hanzi":"폐백","pinyin":"pyebaek","vi":"lễ ra mắt nhà chồng","ex":{"tokens":["결혼식","후","폐백을","드렸습니다","."],"py":["gyeolhonsik","hu","pyebaegeul","deuryeotseumnida","."],"vi":"Sau lễ cưới đã làm lễ ra mắt nhà chồng.","alts":[]}},
+   {"id":"ko6x14-족보","hanzi":"족보","pinyin":"jokbo","vi":"gia phả","ex":{"tokens":["집안의","족보를","봅니다","."],"py":["jibanui","jokboreul","bomnida","."],"vi":"Xem gia phả của dòng họ.","alts":[]}},
+   {"id":"ko6x14-풍수지리","hanzi":"풍수지리","pinyin":"pungsujiri","vi":"phong thủy","ex":{"tokens":["풍수지리를","보고","집터를","정합니다","."],"py":["pungsujirireul","bogo","jipteoreul","jeonghamnida","."],"vi":"Xem phong thủy rồi chọn đất làm nhà.","alts":[]}},
+   {"id":"ko6x14-장독대","hanzi":"장독대","pinyin":"jangdokdae","vi":"sân để chum tương","ex":{"tokens":["장독대에","항아리가","많습니다","."],"py":["jangdokdaee","hangariga","manseumnida","."],"vi":"Trên sân để chum có nhiều vại.","alts":[]}},
+   {"id":"ko6x14-한지","hanzi":"한지","pinyin":"hanji","vi":"giấy truyền thống Hàn","ex":{"tokens":["한지로","등을","만듭니다","."],"py":["hanjiro","deungeul","mandeumnida","."],"vi":"Làm đèn bằng giấy truyền thống Hàn.","alts":[]}},
+   {"id":"ko6x14-씨름","hanzi":"씨름","pinyin":"ssireum","vi":"vật truyền thống Hàn","ex":{"tokens":["단오에","씨름","대회가","열립니다","."],"py":["danoe","ssireum","daehoega","yeollimnida","."],"vi":"Tết Đoan Ngọ có hội thi vật.","alts":[]}},
+   {"id":"ko6x14-윷놀이","hanzi":"윷놀이","pinyin":"yunnori","vi":"trò chơi yut","ex":{"tokens":["설날에","윷놀이를","합니다","."],"py":["seollare","yunnorireul","hamnida","."],"vi":"Chơi yut vào ngày Tết.","alts":[]}},
+   {"id":"ko6x14-강강술래","hanzi":"강강술래","pinyin":"ganggangsullae","vi":"điệu múa vòng ganggangsullae","ex":{"tokens":["보름달","아래에서","강강술래를","합니다","."],"py":["boreumdal","araeeseo","ganggangsullaereul","hamnida","."],"vi":"Múa vòng ganggangsullae dưới trăng rằm.","alts":[]}}
+  ]},
+  {"id":"ko6x15","title":"Động từ Hán Hàn cao cấp 1","desc":"Văn phong học thuật, báo chí","icon":"숙","unit":65,"course":"ko","order":3750,"words":[
+   {"id":"ko6x15-숙고하다","hanzi":"숙고하다","pinyin":"sukgohada","vi":"suy nghĩ chín chắn","ex":{"tokens":["오랫동안","숙고한","끝에","결정했습니다","."],"py":["oraetdongan","sukgohan","kkeute","gyeoljeonghaetseumnida","."],"vi":"Sau khi suy nghĩ chín chắn rất lâu đã quyết định.","alts":[]}},
+   {"id":"ko6x15-폄하하다","hanzi":"폄하하다","pinyin":"pyeomhahada","vi":"hạ thấp giá trị","ex":{"tokens":["남의","업적을","폄하하지","마세요","."],"py":["namui","eopjeogeul","pyeomhahaji","maseyo","."],"vi":"Đừng hạ thấp thành tựu của người khác.","alts":[]}},
+   {"id":"ko6x15-개입하다","hanzi":"개입하다","pinyin":"gaeipada","vi":"can dự vào","ex":{"tokens":["정부가","시장에","개입했습니다","."],"py":["jeongbuga","sijange","gaeipaetseumnida","."],"vi":"Chính phủ đã can dự vào thị trường.","alts":[]}},
+   {"id":"ko6x15-견지하다","hanzi":"견지하다","pinyin":"gyeonjihada","vi":"giữ vững (lập trường)","ex":{"tokens":["원칙을","견지합니다","."],"py":["wonchigeul","gyeonjihamnida","."],"vi":"Giữ vững nguyên tắc.","alts":[]}},
+   {"id":"ko6x15-결부하다","hanzi":"결부하다","pinyin":"gyeolbuhada","vi":"gắn liền với","ex":{"tokens":["두","문제를","결부하여","생각합니다","."],"py":["du","munjereul","gyeolbuhayeo","saenggakamnida","."],"vi":"Nghĩ gắn liền hai vấn đề.","alts":[]}},
+   {"id":"ko6x15-고수하다","hanzi":"고수하다","pinyin":"gosuhada","vi":"cố giữ","ex":{"tokens":["기존","입장을","고수했습니다","."],"py":["gijon","ipjangeul","gosuhaetseumnida","."],"vi":"Đã cố giữ lập trường cũ.","alts":[]}},
+   {"id":"ko6x15-관철하다","hanzi":"관철하다","pinyin":"gwancheolhada","vi":"thực hiện đến cùng (ý chí)","ex":{"tokens":["자신의","주장을","관철했습니다","."],"py":["jasinui","jujangeul","gwancheolhaetseumnida","."],"vi":"Đã thực hiện đến cùng chủ trương của mình.","alts":[]}},
+   {"id":"ko6x15-급증하다","hanzi":"급증하다","pinyin":"geupjeunghada","vi":"tăng vọt","ex":{"tokens":["수요가","급증했습니다","."],"py":["suyoga","geupjeunghaetseumnida","."],"vi":"Nhu cầu đã tăng vọt.","alts":[]}},
+   {"id":"ko6x15-급감하다","hanzi":"급감하다","pinyin":"geupgamhada","vi":"giảm mạnh đột ngột","ex":{"tokens":["관광객이","급감했습니다","."],"py":["gwangwanggaegi","geupgamhaetseumnida","."],"vi":"Khách du lịch đã giảm mạnh đột ngột.","alts":[]}},
+   {"id":"ko6x15-기인하다","hanzi":"기인하다","pinyin":"giinhada","vi":"bắt nguồn do","ex":{"tokens":["이","문제는","오해에서","기인합니다","."],"py":["i","munjeneun","ohaeeseo","giinhamnida","."],"vi":"Vấn đề này bắt nguồn do hiểu lầm.","alts":[]}},
+   {"id":"ko6x15-남용하다","hanzi":"남용하다","pinyin":"namyonghada","vi":"lạm dụng","ex":{"tokens":["권력을","남용했습니다","."],"py":["gwollyeogeul","namyonghaetseumnida","."],"vi":"Đã lạm dụng quyền lực.","alts":[]}},
+   {"id":"ko6x15-누적되다","hanzi":"누적되다","pinyin":"nujeokdoeda","vi":"bị tích lũy dồn lại","ex":{"tokens":["피로가","누적되었습니다","."],"py":["piroga","nujeokdoeeotseumnida","."],"vi":"Mệt mỏi đã tích lũy dồn lại.","alts":[]}}
+  ]},
+  {"id":"ko6x16","title":"Động từ Hán Hàn cao cấp 2","desc":"Văn phong học thuật, báo chí","icon":"답","unit":65,"course":"ko","order":3760,"words":[
+   {"id":"ko6x16-답습하다","hanzi":"답습하다","pinyin":"dapseupada","vi":"rập khuôn theo lối cũ","ex":{"tokens":["과거의","방식을","답습합니다","."],"py":["gwageoui","bangsigeul","dapseupamnida","."],"vi":"Rập khuôn theo phương thức cũ.","alts":[]}},
+   {"id":"ko6x16-둔화되다","hanzi":"둔화되다","pinyin":"dunhwadoeda","vi":"bị chậm lại","ex":{"tokens":["성장세가","둔화되었습니다","."],"py":["seongjangsega","dunhwadoeeotseumnida","."],"vi":"Đà tăng trưởng đã chậm lại.","alts":[]}},
+   {"id":"ko6x16-만연하다","hanzi":"만연하다","pinyin":"manyeonhada","vi":"lan tràn","ex":{"tokens":["부정부패가","만연합니다","."],"py":["bujeongbupaega","manyeonhamnida","."],"vi":"Tham nhũng tiêu cực lan tràn.","alts":[]}},
+   {"id":"ko6x16-묵인하다","hanzi":"묵인하다","pinyin":"muginhada","vi":"ngầm cho qua","ex":{"tokens":["불법","행위를","묵인했습니다","."],"py":["bulbeop","haengwireul","muginhaetseumnida","."],"vi":"Đã ngầm cho qua hành vi phi pháp.","alts":[]}},
+   {"id":"ko6x16-박탈하다","hanzi":"박탈하다","pinyin":"baktalhada","vi":"tước đoạt","ex":{"tokens":["자격을","박탈했습니다","."],"py":["jagyeogeul","baktalhaetseumnida","."],"vi":"Đã tước đoạt tư cách.","alts":[]}},
+   {"id":"ko6x16-방치하다","hanzi":"방치하다","pinyin":"bangchihada","vi":"bỏ mặc","ex":{"tokens":["문제를","방치하면","안","됩니다","."],"py":["munjereul","bangchihamyeon","an","doemnida","."],"vi":"Không được bỏ mặc vấn đề.","alts":[]}},
+   {"id":"ko6x16-봉착하다","hanzi":"봉착하다","pinyin":"bongchakada","vi":"vấp phải","ex":{"tokens":["큰","난관에","봉착했습니다","."],"py":["keun","nangwane","bongchakaetseumnida","."],"vi":"Đã vấp phải cửa ải lớn.","alts":[]}},
+   {"id":"ko6x16-부합하다","hanzi":"부합하다","pinyin":"buhapada","vi":"phù hợp khớp với","ex":{"tokens":["기준에","부합합니다","."],"py":["gijune","buhapamnida","."],"vi":"Khớp với tiêu chuẩn.","alts":[]}},
+   {"id":"ko6x16-불식하다","hanzi":"불식하다","pinyin":"bulsikada","vi":"xóa tan (nghi ngờ)","ex":{"tokens":["의혹을","불식해야","합니다","."],"py":["uihogeul","bulsikaeya","hamnida","."],"vi":"Phải xóa tan nghi vấn.","alts":[]}},
+   {"id":"ko6x16-상충하다","hanzi":"상충하다","pinyin":"sangchunghada","vi":"xung khắc nhau","ex":{"tokens":["두","의견이","상충합니다","."],"py":["du","uigyeoni","sangchunghamnida","."],"vi":"Hai ý kiến xung khắc nhau.","alts":[]}},
+   {"id":"ko6x16-선회하다","hanzi":"선회하다","pinyin":"seonhoehada","vi":"đổi hướng, lượn vòng","ex":{"tokens":["정책","방향을","선회했습니다","."],"py":["jeongchaek","banghyangeul","seonhoehaetseumnida","."],"vi":"Đã đổi hướng chính sách.","alts":[]}},
+   {"id":"ko6x16-수반하다","hanzi":"수반하다","pinyin":"subanhada","vi":"kéo theo","ex":{"tokens":["개혁은","고통을","수반합니다","."],"py":["gaehyeogeun","gotongeul","subanhamnida","."],"vi":"Cải cách kéo theo đau đớn.","alts":[]}}
+  ]},
+  {"id":"ko6x17","title":"Động từ Hán Hàn cao cấp 3","desc":"Văn phong học thuật, báo chí","icon":"심","unit":65,"course":"ko","order":3770,"words":[
+   {"id":"ko6x17-심화되다","hanzi":"심화되다","pinyin":"simhwadoeda","vi":"trở nên trầm trọng sâu thêm","ex":{"tokens":["갈등이","심화되었습니다","."],"py":["galdeungi","simhwadoeeotseumnida","."],"vi":"Mâu thuẫn đã sâu thêm.","alts":[]}},
+   {"id":"ko6x17-악용하다","hanzi":"악용하다","pinyin":"agyonghada","vi":"lợi dụng vào việc xấu","ex":{"tokens":["제도를","악용합니다","."],"py":["jedoreul","agyonghamnida","."],"vi":"Lợi dụng chế độ vào việc xấu.","alts":[]}},
+   {"id":"ko6x17-완화하다","hanzi":"완화하다","pinyin":"wanhwahada","vi":"nới lỏng, làm dịu","ex":{"tokens":["규제를","완화했습니다","."],"py":["gyujereul","wanhwahaetseumnida","."],"vi":"Đã nới lỏng quy chế.","alts":[]}},
+   {"id":"ko6x17-용인하다","hanzi":"용인하다","pinyin":"yonginhada","vi":"dung thứ chấp nhận","ex":{"tokens":["폭력은","용인할","수","없습니다","."],"py":["pongnyeogeun","yonginhal","su","eopseumnida","."],"vi":"Không thể dung thứ bạo lực.","alts":[]}},
+   {"id":"ko6x17-위축되다","hanzi":"위축되다","pinyin":"wichukdoeda","vi":"bị co cụm, chùn lại","ex":{"tokens":["소비","심리가","위축되었습니다","."],"py":["sobi","simniga","wichukdoeeotseumnida","."],"vi":"Tâm lý tiêu dùng đã co cụm.","alts":[]}},
+   {"id":"ko6x17-유보하다","hanzi":"유보하다","pinyin":"yubohada","vi":"bảo lưu, hoãn lại","ex":{"tokens":["결정을","유보했습니다","."],"py":["gyeoljeongeul","yubohaetseumnida","."],"vi":"Đã hoãn lại quyết định.","alts":[]}},
+   {"id":"ko6x17-일축하다","hanzi":"일축하다","pinyin":"ilchukada","vi":"bác bỏ thẳng thừng","ex":{"tokens":["소문을","일축했습니다","."],"py":["somuneul","ilchukaetseumnida","."],"vi":"Đã bác bỏ thẳng thừng tin đồn.","alts":[]}},
+   {"id":"ko6x17-자초하다","hanzi":"자초하다","pinyin":"jachohada","vi":"tự chuốc lấy","ex":{"tokens":["화를","자초했습니다","."],"py":["hwareul","jachohaetseumnida","."],"vi":"Đã tự chuốc lấy tai họa.","alts":[]}},
+   {"id":"ko6x17-잠재우다","hanzi":"잠재우다","pinyin":"jamjaeuda","vi":"làm lắng xuống","ex":{"tokens":["논란을","잠재웠습니다","."],"py":["nollaneul","jamjaewotseumnida","."],"vi":"Đã làm lắng tranh cãi.","alts":[]}},
+   {"id":"ko6x17-저해하다","hanzi":"저해하다","pinyin":"jeohaehada","vi":"gây trở ngại","ex":{"tokens":["발전을","저해하는","요인입니다","."],"py":["baljeoneul","jeohaehaneun","yoinimnida","."],"vi":"Đó là yếu tố gây trở ngại cho phát triển.","alts":[]}},
+   {"id":"ko6x17-전락하다","hanzi":"전락하다","pinyin":"jeollakada","vi":"sa sút rơi xuống","ex":{"tokens":["빈곤층으로","전락했습니다","."],"py":["bingoncheungeuro","jeollakaetseumnida","."],"vi":"Đã sa sút thành tầng lớp nghèo.","alts":[]}},
+   {"id":"ko6x17-절감하다","hanzi":"절감하다","pinyin":"jeolgamhada","vi":"thấm thía; cắt giảm","ex":{"tokens":["준비의","중요성을","절감했습니다","."],"py":["junbiui","jungyoseongeul","jeolgamhaetseumnida","."],"vi":"Đã thấm thía tầm quan trọng của chuẩn bị.","alts":[]}}
+  ]},
+  {"id":"ko6x18","title":"Động từ Hán Hàn cao cấp 4","desc":"Văn phong học thuật, báo chí","icon":"조","unit":65,"course":"ko","order":3780,"words":[
+   {"id":"ko6x18-조장하다","hanzi":"조장하다","pinyin":"jojanghada","vi":"tiếp tay, cổ xúy (điều xấu)","ex":{"tokens":["과소비를","조장합니다","."],"py":["gwasobireul","jojanghamnida","."],"vi":"Cổ xúy tiêu dùng quá mức.","alts":[]}},
+   {"id":"ko6x18-좌우하다","hanzi":"좌우하다","pinyin":"jwauhada","vi":"chi phối quyết định","ex":{"tokens":["첫인상이","결과를","좌우합니다","."],"py":["cheosinsangi","gyeolgwareul","jwauhamnida","."],"vi":"Ấn tượng đầu chi phối kết quả.","alts":[]}},
+   {"id":"ko6x18-착수하다","hanzi":"착수하다","pinyin":"chaksuhada","vi":"bắt tay vào","ex":{"tokens":["조사에","착수했습니다","."],"py":["josae","chaksuhaetseumnida","."],"vi":"Đã bắt tay vào điều tra.","alts":[]}},
+   {"id":"ko6x18-철회하다","hanzi":"철회하다","pinyin":"cheolhoehada","vi":"rút lại","ex":{"tokens":["사표를","철회했습니다","."],"py":["sapyoreul","cheolhoehaetseumnida","."],"vi":"Đã rút lại đơn từ chức.","alts":[]}},
+   {"id":"ko6x18-촉구하다","hanzi":"촉구하다","pinyin":"chokguhada","vi":"hối thúc","ex":{"tokens":["대책","마련을","촉구합니다","."],"py":["daechaek","maryeoneul","chokguhamnida","."],"vi":"Hối thúc lo đối sách.","alts":[]}},
+   {"id":"ko6x18-치중하다","hanzi":"치중하다","pinyin":"chijunghada","vi":"chú trọng thiên về","ex":{"tokens":["성적에만","치중합니다","."],"py":["seongjeogeman","chijunghamnida","."],"vi":"Chỉ chú trọng thiên về thành tích.","alts":[]}},
+   {"id":"ko6x18-타개하다","hanzi":"타개하다","pinyin":"tagaehada","vi":"tháo gỡ (bế tắc)","ex":{"tokens":["어려움을","타개합니다","."],"py":["eoryeoumeul","tagaehamnida","."],"vi":"Tháo gỡ khó khăn.","alts":[]}},
+   {"id":"ko6x18-탈피하다","hanzi":"탈피하다","pinyin":"talpihada","vi":"thoát khỏi (lối cũ)","ex":{"tokens":["낡은","관습에서","탈피합니다","."],"py":["nalgeun","gwanseubeseo","talpihamnida","."],"vi":"Thoát khỏi tập quán cũ kỹ.","alts":[]}},
+   {"id":"ko6x18-팽배하다","hanzi":"팽배하다","pinyin":"paengbaehada","vi":"dâng tràn (tâm lý)","ex":{"tokens":["불신이","팽배합니다","."],"py":["bulsini","paengbaehamnida","."],"vi":"Sự bất tín dâng tràn.","alts":[]}},
+   {"id":"ko6x18-표출하다","hanzi":"표출하다","pinyin":"pyochulhada","vi":"bộc lộ ra","ex":{"tokens":["불만을","표출했습니다","."],"py":["bulmaneul","pyochulhaetseumnida","."],"vi":"Đã bộc lộ bất mãn.","alts":[]}},
+   {"id":"ko6x18-피력하다","hanzi":"피력하다","pinyin":"piryeokada","vi":"bày tỏ (ý kiến)","ex":{"tokens":["자신의","견해를","피력했습니다","."],"py":["jasinui","gyeonhaereul","piryeokaetseumnida","."],"vi":"Đã bày tỏ kiến giải của mình.","alts":[]}},
+   {"id":"ko6x18-해이하다","hanzi":"해이하다","pinyin":"haeihada","vi":"lỏng lẻo (kỷ cương)","ex":{"tokens":["기강이","해이해졌습니다","."],"py":["gigangi","haeihaejyeotseumnida","."],"vi":"Kỷ cương đã trở nên lỏng lẻo.","alts":[]}}
+  ]}
+ ]
+}

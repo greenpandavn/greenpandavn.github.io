@@ -1,0 +1,81 @@
+=2
+@Tính từ và trạng thái|Miêu tả sự vật, con người
+うまい|ngon; giỏi (thân mật)|この ラーメン は うまい 。|Mì ramen này ngon.
+おかしい|buồn cười; lạ lùng|この 機械:きかい は 音:おと が おかしい です 。|Cái máy này kêu lạ lùng.
+すばらしい|tuyệt vời|すばらしい 景色:けしき です ね 。|Phong cảnh tuyệt vời nhỉ.
+細長い:ほそながい|thon dài|細長い:ほそながい 箱:はこ に ペン を 入れます:いれます 。|Tôi cho bút vào cái hộp thon dài.
+四角い:しかくい|vuông|四角い:しかくい テーブル を 買いました:かいました 。|Tôi đã mua cái bàn vuông.
+眩しい:まぶしい|chói mắt|太陽:たいよう が 眩しい:まぶしい です 。|Mặt trời chói mắt.
+蒸し暑い:むしあつい|oi bức|日本:にほん の 夏:なつ は 蒸し暑い:むしあつい です 。|Mùa hè Nhật oi bức.
+塩辛い:しおからい|mặn|この スープ は 塩辛い:しおからい です 。|Súp này mặn.
+臭い:くさい|hôi|この 魚:さかな は 臭い:くさい です 。|Con cá này hôi.
+痒い:かゆい|ngứa|虫:むし に 刺されて:さされて 痒い:かゆい です 。|Tôi bị côn trùng đốt nên ngứa.
+だるい|uể oải|熱:ねつ が あって 体:からだ が だるい 。|Tôi sốt nên người uể oải.
+緩い:ゆるい|lỏng|この ズボン は 緩い:ゆるい です 。|Cái quần này lỏng.
+きつい|chật; khắc nghiệt|この 靴:くつ は きつい 。|Đôi giày này chật.
+貧しい:まずしい|nghèo|昔:むかし 、 この 村:むら は 貧しかった:まずしかった です 。|Ngày xưa làng này nghèo.
+詳しい:くわしい|chi tiết; am hiểu|兄:あに は 車:くるま に 詳しい:くわしい です 。|Anh tôi am hiểu về xe.
+親切な:しんせつな|tử tế|親切な:しんせつな 人:ひと が 道:みち を 教えて:おしえて くれました 。|Một người tử tế đã chỉ đường cho tôi.
+幼い:おさない|thơ ấu, non nớt|幼い:おさない 子供:こども が 泣いて:ないて います 。|Đứa trẻ thơ đang khóc.
+賢い:かしこい|thông minh|この 犬:いぬ は 賢い:かしこい です 。|Con chó này thông minh.
+偉い:えらい|giỏi giang, vĩ đại|毎日:まいにち 勉強:べんきょう して 偉い:えらい です ね 。|Ngày nào cũng học, giỏi quá nhỉ.
+おとなしい|hiền lành, ngoan|この 猫:ねこ は おとなしい 。|Con mèo này hiền lành.
+素敵:すてき|tuyệt đẹp, dễ thương|素敵:すてき な 服:ふく です ね 。|Bộ quần áo tuyệt đẹp nhỉ.
+盛ん:さかん|thịnh hành, phát triển|この 町:まち は サッカー が 盛ん:さかん です 。|Thị trấn này bóng đá rất thịnh hành.
+丁寧:ていねい|lịch sự, cẩn thận|丁寧:ていねい に 字:じ を 書きます:かきます 。|Tôi viết chữ cẩn thận.
+乱暴:らんぼう|thô bạo|乱暴:らんぼう な 運転:うんてん は 危ない:あぶない です 。|Lái xe thô bạo thì nguy hiểm.
+適当:てきとう|phù hợp; qua loa|適当:てきとう な 言葉:ことば を 選びます:えらびます 。|Tôi chọn từ phù hợp.
+急:きゅう|gấp, đột ngột|急:きゅう な 用事:ようじ が できました 。|Tôi có việc gấp.
+確か:たしか|chính xác, chắc|確か:たしか な 情報:じょうほう が 欲しい:ほしい です 。|Tôi muốn có thông tin chính xác.
+複雑な:ふくざつな|rắc rối|複雑な:ふくざつな 道:みち で 迷いました:まよいました 。|Tôi lạc trên con đường rắc rối.
+苦手:にがて|kém, không ưa|私:わたし は 数学:すうがく が 苦手:にがて です 。|Tôi kém môn toán.
+得意:とくい|giỏi, sở trường|姉:あね は 料理:りょうり が 得意:とくい です 。|Chị tôi có sở trường nấu ăn.
+派手:はで|sặc sỡ|この シャツ は 派手:はで です 。|Áo sơ mi này sặc sỡ.
+地味:じみ|giản dị, trầm|母:はは は 地味:じみ な 服:ふく が 好き:すき です 。|Mẹ tôi thích quần áo giản dị.
+清潔:せいけつ|sạch sẽ (vệ sinh)|台所:だいどころ は いつも 清潔:せいけつ です 。|Bếp lúc nào cũng sạch sẽ.
+平ら:たいら|bằng phẳng|この 道:みち は 平ら:たいら です 。|Con đường này bằng phẳng.
+空っぽ:からっぽ|trống rỗng|冷蔵庫:れいぞうこ が 空っぽ:からっぽ です 。|Tủ lạnh trống rỗng.
+@Phó từ|Mức độ, cách thức, thời gian
+しっかり|vững vàng, chắc chắn|朝ご飯:あさごはん を しっかり 食べる:たべる 。|Tôi ăn sáng thật chắc bụng.
+のんびり|thong dong|週末:しゅうまつ は 家:いえ で のんびり する 。|Cuối tuần tôi thong dong ở nhà.
+うっかり|lơ đễnh, lỡ|うっかり 傘:かさ を 忘れました:わすれました 。|Tôi lơ đễnh quên mất ô.
+ぐっすり|(ngủ) say|昨日:きのう は ぐっすり 寝ました:ねました 。|Hôm qua tôi ngủ say.
+そっと|nhẹ nhàng, khẽ|ドア を そっと 閉めます:しめます 。|Tôi khẽ đóng cửa.
+じっと|chăm chú, bất động|猫:ねこ が じっと 魚:さかな を 見て:みて います 。|Con mèo đang nhìn chăm chú con cá.
+ぴったり|vừa khít|この 靴:くつ は 足:あし に ぴったり です 。|Đôi giày này vừa khít chân.
+ばらばら|rời rạc, tản mát|家族:かぞく は ばらばら に 住んで:すんで います 。|Gia đình tôi sống mỗi người một nơi.
+どんどん|ào ào, liên tục|日本語:にほんご が どんどん 上手:じょうず に なります 。|Tiếng Nhật giỏi lên liên tục.
+そのまま|để nguyên như vậy|窓:まど は そのまま に して ください 。|Hãy để nguyên cửa sổ như vậy.
+わざわざ|cất công|わざわざ 来て:きて くれて ありがとう 。|Cảm ơn bạn đã cất công đến.
+たまに|thỉnh thoảng, đôi khi|たまに 映画:えいが を 見ます:みます 。|Đôi khi tôi xem phim.
+めったに|hiếm khi|父:ちち は めったに 怒りません:おこりません 。|Bố tôi hiếm khi giận.
+決して:けっして|tuyệt đối không|この こと は 決して:けっして 忘れません:わすれません 。|Tôi tuyệt đối không quên chuyện này.
+なるべく|càng… càng tốt, cố gắng|なるべく 早く:はやく 来て:きて ください 。|Hãy cố gắng đến sớm.
+できるだけ|hết mức có thể|できるだけ 野菜:やさい を 食べます:たべます 。|Tôi ăn rau hết mức có thể.
+ずいぶん|khá là, rất nhiều|ずいぶん 寒く:さむく なりました 。|Trời đã lạnh đi khá nhiều.
+非常に:ひじょうに|vô cùng|この 問題:もんだい は 非常に:ひじょうに 難しい:むずかしい です 。|Vấn đề này vô cùng khó.
+十分に:じゅうぶんに|một cách đầy đủ|十分に:じゅうぶんに 休んで:やすんで ください 。|Hãy nghỉ ngơi đầy đủ.
+先ほど:さきほど|vừa nãy (lịch sự)|先ほど:さきほど 、 電話:でんわ が ありました 。|Vừa nãy có điện thoại.
+この間:このあいだ|hôm trước, dạo nọ|この間:このあいだ 、 先生:せんせい に 会いました:あいました 。|Hôm trước tôi đã gặp thầy.
+この頃:このごろ|dạo này|この頃:このごろ 、 よく 雨:あめ が 降ります:ふります 。|Dạo này trời hay mưa.
+今にも:いまにも|sắp sửa (xảy ra ngay)|今にも:いまにも 雨:あめ が 降りそう:ふりそう です 。|Trời sắp sửa mưa đến nơi.
+やっぱり|quả nhiên (thân mật)|やっぱり 日本:にほん の 夏:なつ は 暑い:あつい 。|Quả nhiên mùa hè Nhật nóng.
+ちっとも|chẳng… chút nào|この 本:ほん は ちっとも 面白くない:おもしろくない です 。|Quyển sách này chẳng thú vị chút nào.
+さっそく|ngay lập tức, liền|さっそく 始めましょう:はじめましょう 。|Chúng ta bắt đầu liền nào.
+とうとう|rốt cuộc, sau cùng|とうとう 夏休み:なつやすみ が 終わりました:おわりました 。|Rốt cuộc kỳ nghỉ hè đã hết.
+@Từ nối và cách diễn đạt|Liên kết câu
+それでも|dù vậy|雨:あめ です 。 それでも 、 行きます:いきます 。|Trời mưa. Dù vậy tôi vẫn đi.
+けれども|tuy nhiên|高い:たかい です 。 けれども 、 便利:べんり です 。|Đắt. Tuy nhiên tiện lợi.
+ところが|thế nhưng (bất ngờ)|駅:えき へ 行きました:いきました 。 ところが 、 電車:でんしゃ は ありません でした 。|Tôi ra ga. Thế nhưng không có tàu.
+すると|ngay sau đó thì|窓:まど を 開けました:あけました 。 すると 、 鳥:とり が 入りました:はいりました 。|Tôi mở cửa sổ. Ngay sau đó thì chim bay vào.
+ただし|tuy nhiên (điều kiện)|入場:にゅうじょう は 無料:むりょう です 。 ただし 、 子供:こども だけ です 。|Vào cửa miễn phí. Tuy nhiên chỉ dành cho trẻ em.
+それとも|hay (trong câu hỏi)|コーヒー です か 、 それとも お茶:おちゃ です か 。|Cà phê hay trà ạ?
+なるほど|ra là vậy|なるほど 、 よく 分かりました:わかりました 。|Ra là vậy, tôi hiểu rõ rồi.
+そういえば|nhắc mới nhớ|そういえば 、 明日:あした は 休み:やすみ です ね 。|Nhắc mới nhớ, mai là ngày nghỉ nhỉ.
+とにかく|dù sao đi nữa|とにかく 、 行って:いって みましょう 。|Dù sao đi nữa cứ đi thử xem.
+ばかり|toàn là, chỉ toàn|弟:おとうと は ゲーム ばかり して います 。|Em trai tôi chỉ toàn chơi game.
+ように|để, sao cho|忘れない:わすれない ように メモ を します 。|Tôi ghi chú để khỏi quên.
+ために|vì, để (mục đích)|家族:かぞく の ために 働きます:はたらきます 。|Tôi làm việc vì gia đình.
+かもしれない|có thể là|明日:あした は 雪:ゆき かもしれない 。|Ngày mai có thể là có tuyết.
+はず|chắc hẳn (suy đoán)|彼:かれ は 来る:くる はず です 。|Chắc hẳn anh ấy sẽ đến.
+つもり|định, dự định|来年:らいねん 、 日本:にほん へ 行く:いく つもり です 。|Năm sau tôi định đi Nhật.

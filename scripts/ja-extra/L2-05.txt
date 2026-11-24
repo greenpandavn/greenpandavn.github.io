@@ -1,0 +1,104 @@
+=2
+@Thiên nhiên và động vật|Môi trường quanh ta
+植物:しょくぶつ|thực vật|この 公園:こうえん に は 珍しい:めずらしい 植物:しょくぶつ が あります 。|Công viên này có thực vật hiếm.
+枝:えだ|cành cây|鳥:とり が 枝:えだ に 止まって:とまって います 。|Chim đang đậu trên cành cây.
+根:ね|rễ|この 木:き は 根:ね が 深い:ふかい です 。|Cây này rễ sâu.
+種:たね|hạt giống|庭:にわ に 花:はな の 種:たね を まきます 。|Tôi gieo hạt hoa trong vườn.
+実:み|quả, trái|秋:あき に 木:き の 実:み が なります 。|Mùa thu cây ra quả.
+芽:め|mầm|春:はる に 芽:め が 出ます:でます 。|Mùa xuân mầm nhú lên.
+竹:たけ|cây tre|庭:にわ に 竹:たけ が あります 。|Trong vườn có tre.
+松:まつ|cây thông|お寺:おてら に 古い:ふるい 松:まつ が あります 。|Ở chùa có cây thông cổ.
+梅:うめ|cây mơ, hoa mơ|二月:にがつ に 梅:うめ が 咲きます:さきます 。|Tháng hai hoa mơ nở.
+猿:さる|con khỉ|山:やま で 猿:さる を 見ました:みました 。|Tôi đã thấy khỉ trên núi.
+熊:くま|con gấu|この 森:もり に は 熊:くま が います 。|Trong rừng này có gấu.
+狐:きつね|con cáo|北海道:ほっかいどう で 狐:きつね を 見ました:みました 。|Tôi đã thấy cáo ở Hokkaido.
+兎:うさぎ|con thỏ|妹:いもうと は 兎:うさぎ を 飼って:かって います 。|Em gái tôi nuôi thỏ.
+鼠:ねずみ|con chuột|猫:ねこ が 鼠:ねずみ を 追いかけます:おいかけます 。|Mèo đuổi theo chuột.
+羊:ひつじ|con cừu|牧場:ぼくじょう に 羊:ひつじ が たくさん います 。|Ở nông trại có nhiều cừu.
+虎:とら|con hổ|動物園:どうぶつえん で 虎:とら を 見ました:みました 。|Tôi đã xem hổ ở vườn thú.
+蛇:へび|con rắn|草:くさ の 中:なか に 蛇:へび が います 。|Trong cỏ có rắn.
+蛙:かえる|con ếch|雨:あめ の 日:ひ に 蛙:かえる が 鳴きます:なきます 。|Ngày mưa ếch kêu.
+蝶:ちょう|con bướm|花:はな の 上:うえ に 蝶:ちょう が います 。|Trên bông hoa có con bướm.
+蚊:か|con muỗi|夏:なつ は 蚊:か が 多い:おおい です 。|Mùa hè nhiều muỗi.
+蜂:はち|con ong|蜂:はち に 刺されました:さされました 。|Tôi bị ong đốt.
+貝:かい|con sò, vỏ sò|海岸:かいがん で 貝:かい を 拾います:ひろいます 。|Tôi nhặt vỏ sò ở bờ biển.
+羽:はね|lông vũ, cánh|鳥:とり の 羽:はね が 落ちて:おちて います 。|Lông chim rơi dưới đất.
+巣:す|cái tổ|木:き の 上:うえ に 鳥:とり の 巣:す が あります 。|Trên cây có tổ chim.
+餌:えさ|thức ăn cho vật nuôi|毎朝:まいあさ 、 犬:いぬ に 餌:えさ を やります 。|Mỗi sáng tôi cho chó ăn.
+谷:たに|thung lũng|谷:たに に 小さい:ちいさい 村:むら が あります 。|Trong thung lũng có ngôi làng nhỏ.
+丘:おか|ngọn đồi|丘:おか の 上:うえ に 教会:きょうかい が あります 。|Trên đồi có nhà thờ.
+滝:たき|thác nước|山:やま の 中:なか に 大きい:おおきい 滝:たき が あります 。|Trong núi có thác nước lớn.
+泉:いずみ|con suối, mạch nước|森:もり の 中:なか に 泉:いずみ が あります 。|Trong rừng có mạch nước.
+岩:いわ|tảng đá|海:うみ に 大きい:おおきい 岩:いわ が あります 。|Ngoài biển có tảng đá lớn.
+砂漠:さばく|sa mạc|砂漠:さばく は 雨:あめ が 少ない:すくない です 。|Sa mạc ít mưa.
+田んぼ:たんぼ|ruộng lúa|村:むら に は 田んぼ:たんぼ が 多い:おおい です 。|Trong làng có nhiều ruộng lúa.
+夕焼け:ゆうやけ|ráng chiều|今日:きょう の 夕焼け:ゆうやけ は きれい です 。|Ráng chiều hôm nay đẹp.
+@Xã hội và tin tức|Chuyện xã hội
+世の中:よのなか|thế gian, xã hội|世の中:よのなか に は 色々:いろいろ な 人:ひと が います 。|Trên thế gian có đủ loại người.
+市民:しみん|thị dân, công dân|市民:しみん は この 公園:こうえん を よく 使います:つかいます 。|Thị dân hay dùng công viên này.
+国際:こくさい|quốc tế|国際:こくさい 電話:でんわ は 高い:たかい です 。|Điện thoại quốc tế đắt.
+戦争:せんそう|chiến tranh|戦争:せんそう は 怖い:こわい です 。|Chiến tranh thật đáng sợ.
+平和:へいわ|hòa bình|平和:へいわ な 世界:せかい が いい です 。|Một thế giới hòa bình thì tốt.
+泥棒:どろぼう|kẻ trộm|昨日:きのう 、 隣:となり の 家:いえ に 泥棒:どろぼう が 入りました:はいりました 。|Hôm qua kẻ trộm đã vào nhà bên cạnh.
+盗む:ぬすむ|ăn trộm|誰か:だれか が 自転車:じてんしゃ を 盗みました:ぬすみました 。|Ai đó đã ăn trộm xe đạp.
+火事:かじ|hỏa hoạn|昨日:きのう 、 近所:きんじょ で 火事:かじ が ありました 。|Hôm qua gần nhà có hỏa hoạn.
+燃える:もえる|cháy|紙:かみ は よく 燃えます:もえます 。|Giấy dễ cháy.
+逃げる:にげる|chạy trốn|地震:じしん の 時:とき は 外:そと へ 逃げます:にげます 。|Khi động đất thì chạy ra ngoài.
+注意:ちゅうい|chú ý, nhắc nhở|車:くるま に 注意:ちゅうい して ください 。|Hãy chú ý xe cộ.
+避難:ひなん|sơ tán, lánh nạn|学校:がっこう に 避難:ひなん します 。|Chúng tôi sơ tán đến trường học.
+騒ぐ:さわぐ|làm ồn|電車:でんしゃ の 中:なか で 騒がないで:さわがないで ください 。|Xin đừng làm ồn trong tàu.
+規則正しい:きそくただしい|điều độ, nề nếp|規則正しい:きそくただしい 生活:せいかつ を します 。|Tôi sống điều độ.
+決まり:きまり|quy định|学校:がっこう の 決まり:きまり を 守ります:まもります 。|Tôi tuân theo quy định của trường.
+募集:ぼしゅう|tuyển, chiêu mộ|店:みせ は アルバイト を 募集:ぼしゅう して います 。|Cửa hàng đang tuyển người làm thêm.
+参加:さんか|tham gia|祭り:まつり に 参加:さんか します 。|Tôi tham gia lễ hội.
+協力:きょうりょく|hợp tác|みんな で 協力:きょうりょく して 掃除:そうじ します 。|Mọi người hợp tác dọn dẹp.
+相談:そうだん|bàn bạc, hỏi ý kiến|先生:せんせい に 相談:そうだん します 。|Tôi hỏi ý kiến thầy.
+賛成:さんせい|tán thành|私:わたし は その 意見:いけん に 賛成:さんせい です 。|Tôi tán thành ý kiến đó.
+世話:せわ|chăm nom|毎日:まいにち 、 犬:いぬ の 世話:せわ を します 。|Ngày nào tôi cũng chăm nom con chó.
+寄付:きふ|quyên góp|学校:がっこう に 本:ほん を 寄付:きふ します 。|Tôi quyên góp sách cho trường.
+@Liên lạc và công nghệ|Điện thoại, máy tính
+スマホ|điện thoại thông minh|スマホ で 写真:しゃしん を 撮ります:とります 。|Tôi chụp ảnh bằng điện thoại thông minh.
+アプリ|ứng dụng|この アプリ は 便利:べんり です 。|Ứng dụng này tiện lợi.
+ファイル|tập tin; cặp tài liệu|ファイル を 保存:ほぞん します 。|Tôi lưu tập tin.
+保存:ほぞん|lưu trữ|写真:しゃしん を パソコン に 保存:ほぞん します 。|Tôi lưu ảnh vào máy tính.
+入力:にゅうりょく|nhập (dữ liệu)|名前:なまえ を 入力:にゅうりょく して ください 。|Hãy nhập tên.
+印刷:いんさつ|in ấn|書類:しょるい を 印刷:いんさつ します 。|Tôi in giấy tờ.
+キーボード|bàn phím|新しい:あたらしい キーボード を 買いました:かいました 。|Tôi đã mua bàn phím mới.
+マウス|chuột máy tính|マウス が 動きません:うごきません 。|Chuột máy tính không chạy.
+パスワード|mật khẩu|パスワード を 忘れました:わすれました 。|Tôi quên mật khẩu rồi.
+ホームページ|trang chủ, trang web|会社:かいしゃ の ホームページ を 見ます:みます 。|Tôi xem trang web của công ty.
+留守番電話:るすばんでんわ|hộp thư thoại|留守番電話:るすばんでんわ に 伝言:でんごん を 残します:のこします 。|Tôi để lại lời nhắn trong hộp thư thoại.
+伝言:でんごん|lời nhắn|先生:せんせい に 伝言:でんごん を お願い:おねがい します 。|Xin nhờ chuyển lời nhắn đến thầy.
+返信:へんしん|trả lời (thư, tin nhắn)|メール に 返信:へんしん します 。|Tôi trả lời thư điện tử.
+知らせる:しらせる|thông báo|結果:けっか を メール で 知らせます:しらせます 。|Tôi thông báo kết quả bằng thư điện tử.
+お知らせ:おしらせ|thông báo (tờ, tin)|学校:がっこう から お知らせ:おしらせ が 来ました:きました 。|Có thông báo từ trường gửi đến.
+速達:そくたつ|chuyển phát nhanh|この 手紙:てがみ を 速達:そくたつ で 送ります:おくります 。|Tôi gửi lá thư này bằng chuyển phát nhanh.
+航空便:こうくうびん|gửi đường hàng không|荷物:にもつ を 航空便:こうくうびん で 送ります:おくります 。|Tôi gửi hành lý bằng đường hàng không.
+宛先:あてさき|địa chỉ người nhận|封筒:ふうとう に 宛先:あてさき を 書きます:かきます 。|Tôi viết địa chỉ người nhận lên phong bì.
+郵便番号:ゆうびんばんごう|mã bưu chính|郵便番号:ゆうびんばんごう を 書いて:かいて ください 。|Hãy viết mã bưu chính.
+受け取る:うけとる|nhận lấy|荷物:にもつ を 受け取りました:うけとりました 。|Tôi đã nhận hành lý.
+録音:ろくおん|ghi âm|授業:じゅぎょう を 録音:ろくおん します 。|Tôi ghi âm bài giảng.
+録画:ろくが|ghi hình|テレビ の 番組:ばんぐみ を 録画:ろくが します 。|Tôi ghi hình chương trình ti vi.
+@Sở thích, thể thao, nghệ thuật|Hoạt động yêu thích
+楽器:がっき|nhạc cụ|何か:なにか 楽器:がっき が できます か 。|Bạn chơi được nhạc cụ nào không?
+バイオリン|đàn vi ô lông|娘:むすめ は バイオリン を 習って:ならって います 。|Con gái tôi đang học vi ô lông.
+太鼓:たいこ|trống Nhật|祭り:まつり で 太鼓:たいこ を たたきます 。|Tôi đánh trống ở lễ hội.
+合唱:がっしょう|hợp xướng|クラス で 合唱:がっしょう の 練習:れんしゅう を します 。|Lớp tôi tập hợp xướng.
+生け花:いけばな|nghệ thuật cắm hoa|母:はは は 生け花:いけばな を 教えて:おしえて います 。|Mẹ tôi dạy cắm hoa.
+茶道:さどう|trà đạo|日本:にほん で 茶道:さどう を 習いました:ならいました 。|Tôi đã học trà đạo ở Nhật.
+書道:しょどう|thư pháp|書道:しょどう の 授業:じゅぎょう が 好き:すき です 。|Tôi thích giờ thư pháp.
+柔道:じゅうどう|võ judo|兄:あに は 柔道:じゅうどう が 強い:つよい です 。|Anh tôi giỏi võ judo.
+相撲:すもう|vật sumo|祖父:そふ は 相撲:すもう が 大好き:だいすき です 。|Ông tôi rất thích sumo.
+バスケットボール|bóng rổ|放課後:ほうかご 、 バスケットボール を します 。|Sau giờ học tôi chơi bóng rổ.
+バレーボール|bóng chuyền|姉:あね は バレーボール の 選手:せんしゅ です 。|Chị tôi là vận động viên bóng chuyền.
+マラソン|chạy ma ra tông|父:ちち は マラソン に 出ます:でます 。|Bố tôi tham gia chạy ma ra tông.
+体操:たいそう|thể dục|毎朝:まいあさ 、 体操:たいそう を します 。|Mỗi sáng tôi tập thể dục.
+放課後:ほうかご|sau giờ học|放課後:ほうかご 、 図書館:としょかん で 勉強:べんきょう します 。|Sau giờ học tôi học ở thư viện.
+優勝:ゆうしょう|vô địch|私:わたし たち の チーム が 優勝:ゆうしょう しました 。|Đội chúng tôi đã vô địch.
+チーム|đội|弟:おとうと は サッカー の チーム に 入りました:はいりました 。|Em trai tôi đã vào đội bóng đá.
+ルール|luật chơi|この ゲーム の ルール は 簡単:かんたん です 。|Luật của trò chơi này đơn giản.
+キャンプ|cắm trại|夏:なつ に 山:やま で キャンプ を します 。|Mùa hè tôi cắm trại trên núi.
+ハイキング|đi bộ đường dài|週末:しゅうまつ 、 ハイキング に 行きます:いきます 。|Cuối tuần tôi đi bộ đường dài.
+園芸:えんげい|làm vườn|祖母:そぼ の 趣味:しゅみ は 園芸:えんげい です 。|Sở thích của bà tôi là làm vườn.
+編み物:あみもの|đan len|母:はは は 冬:ふゆ に 編み物:あみもの を します 。|Mùa đông mẹ tôi đan len.
+将棋:しょうぎ|cờ tướng Nhật|祖父:そふ と 将棋:しょうぎ を します 。|Tôi chơi cờ tướng Nhật với ông.

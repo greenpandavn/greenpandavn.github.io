@@ -1,0 +1,80 @@
+=2
+@Danh từ trừu tượng|Khái niệm thường dùng
+原因:げんいん|nguyên nhân|事故:じこ の 原因:げんいん を 調べます:しらべます 。|Người ta điều tra nguyên nhân tai nạn.
+結果:けっか|kết quả|試験:しけん の 結果:けっか が 出ました:でました 。|Đã có kết quả thi.
+目的:もくてき|mục đích|旅行:りょこう の 目的:もくてき は 何:なん です か 。|Mục đích chuyến đi là gì?
+場合:ばあい|trường hợp|雨:あめ の 場合:ばあい は 中止:ちゅうし です 。|Trường hợp mưa thì hủy.
+様子:ようす|tình hình, dáng vẻ|子供:こども の 様子:ようす を 見ます:みます 。|Tôi xem tình hình của con.
+機会:きかい|cơ hội|日本語:にほんご を 話す:はなす 機会:きかい が 少ない:すくない です 。|Ít có cơ hội nói tiếng Nhật.
+普段:ふだん|thường ngày|普段:ふだん は 電車:でんしゃ で 通います:かよいます 。|Thường ngày tôi đi lại bằng tàu.
+特徴:とくちょう|đặc trưng|この 町:まち の 特徴:とくちょう は 古い:ふるい 建物:たてもの です 。|Đặc trưng của thị trấn này là các tòa nhà cổ.
+種類:しゅるい|chủng loại|この 店:みせ は パン の 種類:しゅるい が 多い:おおい です 。|Tiệm này có nhiều loại bánh mì.
+部分:ぶぶん|phần, bộ phận|この 部分:ぶぶん が 分かりません:わかりません 。|Tôi không hiểu phần này.
+全体:ぜんたい|toàn thể|クラス 全体:ぜんたい で 歌います:うたいます 。|Toàn thể lớp cùng hát.
+内容:ないよう|nội dung|手紙:てがみ の 内容:ないよう を 読みます:よみます 。|Tôi đọc nội dung lá thư.
+中身:なかみ|bên trong, ruột|箱:はこ の 中身:なかみ は 何:なん です か 。|Bên trong hộp là gì?
+表面:ひょうめん|bề mặt|月:つき の 表面:ひょうめん を 見ます:みます 。|Tôi nhìn bề mặt mặt trăng.
+順番:じゅんばん|thứ tự, lượt|順番:じゅんばん を 待って:まって ください 。|Hãy đợi đến lượt.
+力強い:ちからづよい|mạnh mẽ|彼:かれ の 声:こえ は 力強い:ちからづよい です 。|Giọng anh ấy mạnh mẽ.
+うそ|lời nói dối|うそ を 言って:いって は いけません 。|Không được nói dối.
+秘密:ひみつ|bí mật|これ は 二人:ふたり の 秘密:ひみつ です 。|Đây là bí mật của hai người.
+事情:じじょう|sự tình, lý do riêng|家:いえ の 事情:じじょう で 会社:かいしゃ を 休みます:やすみます 。|Tôi nghỉ làm vì lý do gia đình.
+迷子:まいご|trẻ lạc|デパート で 迷子:まいご に なりました 。|Tôi đã bị lạc trong cửa hàng bách hóa.
+行き先:いきさき|điểm đến|バス の 行き先:いきさき を 確かめます:たしかめます 。|Tôi kiểm tra điểm đến của xe buýt.
+確かめる:たしかめる|kiểm tra lại, xác nhận|時間:じかん を 確かめます:たしかめます 。|Tôi xác nhận lại thời gian.
+@Từ ngoại lai|Katakana thường gặp
+アイデア|ý tưởng|いい アイデア が あります 。|Tôi có một ý tưởng hay.
+アドバイス|lời khuyên|先輩:せんぱい に アドバイス を もらいます 。|Tôi nhận lời khuyên từ đàn anh.
+イメージ|hình ảnh, ấn tượng|この 町:まち は イメージ が いい です 。|Thị trấn này có ấn tượng tốt.
+インタビュー|phỏng vấn (báo chí)|選手:せんしゅ に インタビュー を します 。|Tôi phỏng vấn vận động viên.
+エネルギー|năng lượng|朝ご飯:あさごはん は 一日:いちにち の エネルギー です 。|Bữa sáng là năng lượng cho cả ngày.
+オフィス|văn phòng (công sở)|オフィス は 駅:えき の 近く:ちかく です 。|Văn phòng ở gần ga.
+ガイド|hướng dẫn viên|ガイド が 町:まち を 案内:あんない します 。|Hướng dẫn viên dẫn đi tham quan thị trấn.
+カタログ|ca ta lô|カタログ で 商品:しょうひん を 選びます:えらびます 。|Tôi chọn hàng qua ca ta lô.
+キャンセル|hủy (đặt chỗ)|ホテル の 予約:よやく を キャンセル します 。|Tôi hủy đặt phòng khách sạn.
+グループ|nhóm|三人:さんにん の グループ で 勉強:べんきょう します 。|Chúng tôi học theo nhóm ba người.
+コース|khóa; lộ trình|日本語:にほんご の コース に 入ります:はいります 。|Tôi vào khóa tiếng Nhật.
+サービス|dịch vụ|この 店:みせ は サービス が いい です 。|Cửa hàng này dịch vụ tốt.
+サイン|chữ ký|ここ に サイン を お願い:おねがい します 。|Xin vui lòng ký vào đây.
+スケジュール|lịch trình|来週:らいしゅう の スケジュール を 確かめます:たしかめます 。|Tôi xác nhận lịch trình tuần sau.
+スピード|tốc độ (xe)|スピード を 出さないで:ださないで ください 。|Xin đừng chạy quá tốc độ.
+ストレス|căng thẳng|仕事:しごと の ストレス が あります 。|Tôi bị căng thẳng công việc.
+チャンス|dịp may|これ は いい チャンス です 。|Đây là dịp may tốt.
+チェック|kiểm tra, soát|メール を チェック します 。|Tôi kiểm tra thư điện tử.
+デザイン|thiết kế|この かばん は デザイン が いい です 。|Cái cặp này thiết kế đẹp.
+トラブル|rắc rối, sự cố|旅行:りょこう 中:ちゅう に トラブル が ありました 。|Trong chuyến đi đã có sự cố.
+ニュアンス|sắc thái|言葉:ことば の ニュアンス が 違います:ちがいます 。|Sắc thái của từ khác nhau.
+パンフレット|tờ rơi giới thiệu|旅行:りょこう の パンフレット を もらいます 。|Tôi lấy tờ rơi giới thiệu du lịch.
+プラン|phương án, gói|旅行:りょこう の プラン を 選びます:えらびます 。|Tôi chọn gói du lịch.
+プロ|chuyên nghiệp|彼:かれ は プロ の 選手:せんしゅ です 。|Anh ấy là vận động viên chuyên nghiệp.
+ボランティア|tình nguyện|週末:しゅうまつ 、 ボランティア を します 。|Cuối tuần tôi làm tình nguyện.
+マナー|phép lịch sự|電車:でんしゃ の マナー を 守ります:まもります 。|Tôi giữ phép lịch sự trên tàu.
+メモ|ghi chú|電話:でんわ 番号:ばんごう を メモ します 。|Tôi ghi chú số điện thoại.
+ユーモア|sự hài hước|先生:せんせい は ユーモア が あります 。|Thầy giáo có khiếu hài hước.
+リサイクル|tái chế|瓶:びん と 缶:かん を リサイクル します 。|Tôi tái chế chai và lon.
+レベル|trình độ, mức|この クラス は レベル が 高い:たかい です 。|Lớp này trình độ cao.
+レポート|bài báo cáo|明日:あした まで に レポート を 出します:だします 。|Tôi nộp bài báo cáo trước ngày mai.
+ロボット|rô bốt|工場:こうじょう で ロボット が 働いて:はたらいて います 。|Rô bốt đang làm việc trong nhà máy.
+@Quan hệ và sự kiện đời người|Con người với nhau
+知り合い:しりあい|người quen|彼:かれ は 父:ちち の 知り合い:しりあい です 。|Anh ấy là người quen của bố tôi.
+親友:しんゆう|bạn thân|彼女:かのじょ は 私:わたし の 親友:しんゆう です 。|Cô ấy là bạn thân của tôi.
+恋人:こいびと|người yêu|恋人:こいびと と 映画:えいが を 見ます:みます 。|Tôi xem phim với người yêu.
+仲間:なかま|bạn bè, đồng đội|仕事:しごと の 仲間:なかま と 食事:しょくじ します 。|Tôi đi ăn với đồng đội ở chỗ làm.
+相手:あいて|đối phương|試合:しあい の 相手:あいて は 強い:つよい です 。|Đối phương trong trận đấu mạnh.
+親戚:しんせき|họ hàng|正月:しょうがつ に 親戚:しんせき が 集まります:あつまります 。|Dịp Tết họ hàng tụ họp.
+孫:まご|cháu (nội, ngoại)|祖母:そぼ は 孫:まご が 五人:ごにん います 。|Bà tôi có năm đứa cháu.
+いとこ|anh chị em họ|いとこ と 海:うみ へ 行きます:いきます 。|Tôi đi biển với anh chị em họ.
+双子:ふたご|sinh đôi|あの 二人:ふたり は 双子:ふたご です 。|Hai người kia là sinh đôi.
+独身:どくしん|độc thân|兄:あに は まだ 独身:どくしん です 。|Anh tôi vẫn còn độc thân.
+婚約:こんやく|đính hôn|姉:あね は 先月:せんげつ 婚約:こんやく しました 。|Chị tôi đã đính hôn tháng trước.
+離婚:りこん|ly hôn|二人:ふたり は 去年:きょねん 離婚:りこん しました 。|Hai người đã ly hôn năm ngoái.
+葬式:そうしき|đám tang|昨日:きのう 、 祖父:そふ の 葬式:そうしき が ありました 。|Hôm qua có đám tang của ông tôi.
+成人:せいじん|người trưởng thành|二十歳:はたち で 成人:せいじん に なります 。|Hai mươi tuổi thì thành người trưởng thành.
+青年:せいねん|thanh niên|親切:しんせつ な 青年:せいねん が 手伝って:てつだって くれました 。|Một thanh niên tốt bụng đã giúp tôi.
+老人:ろうじん|người già|老人:ろうじん に 席:せき を 譲ります:ゆずります 。|Tôi nhường chỗ cho người già.
+譲る:ゆずる|nhường|お年寄り:おとしより に 席:せき を 譲ります:ゆずります 。|Tôi nhường chỗ cho người cao tuổi.
+隣人:りんじん|người hàng xóm|隣人:りんじん に 挨拶:あいさつ します 。|Tôi chào người hàng xóm.
+他人:たにん|người dưng, người khác|他人:たにん の 物:もの を 使って:つかって は いけません 。|Không được dùng đồ của người khác.
+本人:ほんにん|chính người đó|本人:ほんにん が 来て:きて ください 。|Xin chính người đó hãy đến.
+出会う:であう|gặp gỡ tình cờ|大学:だいがく で 妻:つま に 出会いました:であいました 。|Tôi đã gặp vợ tôi ở đại học.
+付き合い:つきあい|sự giao thiệp|彼:かれ と は 長い:ながい 付き合い:つきあい です 。|Tôi giao thiệp với anh ấy đã lâu.

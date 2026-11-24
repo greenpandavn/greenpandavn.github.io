@@ -1,0 +1,60 @@
+=6
+@Triết học và đạo đức nâng cao|Khái niệm tư tưởng
+공리주의|chủ nghĩa vị lợi|공리주의의 관점에서 판단합니다.|Phán đoán từ quan điểm vị lợi.
+실용주의|chủ nghĩa thực dụng|실용주의 노선을 택했습니다.|Đã chọn đường lối thực dụng.
+상대주의|chủ nghĩa tương đối|문화 상대주의를 이해합니다.|Hiểu chủ nghĩa tương đối văn hóa.
+결정론|thuyết tất định|결정론과 자유 의지를 논합니다.|Bàn về thuyết tất định và ý chí tự do.
+자유의지|ý chí tự do|인간에게는 자유의지가 있습니다.|Con người có ý chí tự do.
+정언명령|mệnh lệnh tuyệt đối|칸트의 정언명령을 배웁니다.|Học mệnh lệnh tuyệt đối của Kant.
+변증법|phép biện chứng|변증법으로 역사를 설명합니다.|Giải thích lịch sử bằng phép biện chứng.
+해석학|thông diễn học|해석학의 방법을 적용합니다.|Áp dụng phương pháp thông diễn học.
+존재론|bản thể luận|존재론의 문제를 다룹니다.|Bàn vấn đề bản thể luận.
+목적론|mục đích luận|목적론적 세계관을 비판합니다.|Phê phán thế giới quan mục đích luận.
+이원론|nhị nguyên luận|몸과 마음의 이원론을 주장합니다.|Chủ trương nhị nguyên luận thân và tâm.
+환원주의|chủ nghĩa quy giản|환원주의의 한계를 지적합니다.|Chỉ ra giới hạn của chủ nghĩa quy giản.
+인본주의|chủ nghĩa nhân bản|인본주의 교육을 강조합니다.|Nhấn mạnh giáo dục nhân bản.
+금욕|sự khổ hạnh kiêng dục|금욕적인 생활을 합니다.|Sống đời khổ hạnh.
+쾌락|khoái lạc|쾌락만 추구하면 안 됩니다.|Không được chỉ theo đuổi khoái lạc.
+덕목|đức mục, phẩm đức|정직은 중요한 덕목입니다.|Trung thực là phẩm đức quan trọng.
+위선|sự đạo đức giả|그의 위선이 드러났습니다.|Sự đạo đức giả của ông ta đã lộ.
+성찰|sự tự soi xét|자기 성찰의 시간이 필요합니다.|Cần thời gian tự soi xét.
+초월|sự siêu việt|시간을 초월한 작품입니다.|Đó là tác phẩm siêu việt thời gian.
+@Tục ngữ dạng cụm|Cách nói dân gian
+가는날이장날|đúng lúc lại gặp chuyện|가는날이장날이라고 가게가 쉬었습니다.|Đi đúng hôm gặp chuyện, cửa hàng nghỉ.
+금강산도식후경|có thực mới vực được đạo|금강산도식후경이니 밥부터 먹읍시다.|Có thực mới vực được đạo, ăn cơm trước đã.
+등잔밑이어둡다|dưới chân đèn thì tối|등잔밑이어둡다고 열쇠가 주머니에 있었습니다.|Dưới chân đèn thì tối, chìa khóa nằm ngay trong túi.
+소귀에경읽기|đàn gảy tai trâu|아무리 말해도 소귀에경읽기입니다.|Nói mấy cũng như đàn gảy tai trâu.
+티끌모아태산|tích tiểu thành đại|티끌모아태산이라고 저축을 합니다.|Tích tiểu thành đại, tôi tiết kiệm.
+백지장도맞들면낫다|chung tay thì việc nhẹ|백지장도맞들면낫다고 같이 합시다.|Chung tay thì việc nhẹ, cùng làm nào.
+발없는말이천리간다|tiếng lành đồn xa, lời nói bay nhanh|발없는말이천리간다니 말조심하세요.|Lời nói bay nhanh lắm, hãy cẩn thận lời nói.
+세살버릇여든간다|thói quen từ bé theo đến già|세살버릇여든간다고 습관이 중요합니다.|Thói quen từ bé theo đến già, tập quán rất quan trọng.
+원숭이도나무에서떨어진다|nhân vô thập toàn|원숭이도나무에서떨어진다고 전문가도 실수합니다.|Nhân vô thập toàn, chuyên gia cũng mắc lỗi.
+낮말은새가듣는다|tai vách mạch rừng|낮말은새가듣는다니 조심하세요.|Tai vách mạch rừng, hãy cẩn thận.
+고래싸움에새우등터진다|trâu bò húc nhau ruồi muỗi chết|고래싸움에새우등터진다고 중소기업이 피해를 봅니다.|Trâu bò húc nhau ruồi muỗi chết, doanh nghiệp nhỏ chịu thiệt.
+호랑이도제말하면온다|vừa nhắc Tào Tháo, Tào Tháo đến|호랑이도제말하면온다더니 그가 왔습니다.|Vừa nhắc Tào Tháo thì Tào Tháo đến, anh ấy tới rồi.
+@Báo chí thời sự|Cụm từ tin tức
+도마에오르다|bị đưa ra mổ xẻ|그 정책이 도마에올랐습니다.|Chính sách đó bị đưa ra mổ xẻ.
+물의를빚다|gây tai tiếng|부적절한 발언으로 물의를빚었습니다.|Đã gây tai tiếng vì phát ngôn không thích đáng.
+급물살을타다|tiến triển nhanh như nước xiết|협상이 급물살을탔습니다.|Đàm phán tiến triển nhanh như nước xiết.
+난항을겪다|gặp trắc trở|공사가 난항을겪고 있습니다.|Công trình đang gặp trắc trở.
+제동을걸다|hãm phanh, ngăn lại|법원이 계획에 제동을걸었습니다.|Tòa án đã hãm phanh kế hoạch.
+박차를가하다|thúc đẩy mạnh|개발에 박차를가합니다.|Thúc đẩy mạnh việc phát triển.
+물꼬를트다|khơi thông|대화의 물꼬를텄습니다.|Đã khơi thông đối thoại.
+촉각을곤두세우다|dỏng tai căng mắt theo dõi|시장이 발표에 촉각을곤두세웁니다.|Thị trường căng mắt theo dõi thông báo.
+빈축을사다|bị chê trách|무례한 행동으로 빈축을샀습니다.|Bị chê trách vì hành động vô lễ.
+각광을받다|được chú ý ca ngợi|친환경 제품이 각광을받습니다.|Sản phẩm thân thiện môi trường được chú ý.
+직격탄을맞다|lãnh trọn đòn|관광업이 직격탄을맞았습니다.|Ngành du lịch đã lãnh trọn đòn.
+수면위로떠오르다|nổi lên mặt nước (lộ ra)|문제가 수면위로떠올랐습니다.|Vấn đề đã lộ ra.
+우려를낳다|sinh ra mối lo|그 결정이 우려를낳고 있습니다.|Quyết định đó đang sinh ra mối lo.
+초읽기에들어가다|bước vào đếm ngược|발사가 초읽기에들어갔습니다.|Vụ phóng đã bước vào đếm ngược.
+쐐기를박다|đóng đinh chốt hạ|마지막 골로 승리에 쐐기를박았습니다.|Bàn cuối đã chốt hạ chiến thắng.
+찬물을끼얹다|dội gáo nước lạnh|분위기에 찬물을끼얹었습니다.|Đã dội gáo nước lạnh vào bầu không khí.
+불씨를남기다|để lại mầm lửa|이번 합의는 갈등의 불씨를남겼습니다.|Thỏa thuận lần này để lại mầm lửa mâu thuẫn.
+골머리를앓다|đau đầu nhức óc|쓰레기 문제로 골머리를앓습니다.|Đau đầu nhức óc vì vấn đề rác.
+몸살을앓다|khốn đốn vì|도시가 교통 체증으로 몸살을앓습니다.|Thành phố khốn đốn vì tắc đường.
+도마뱀꼬리자르기|chặt đuôi thằn lằn (thí tốt)|이번 징계는 도마뱀꼬리자르기입니다.|Lần kỷ luật này là thí tốt.
+어깃장을놓다|cố tình gây khó|회의에서 어깃장을놓습니다.|Cố tình gây khó trong cuộc họp.
+엄포를놓다|dọa suông|소송하겠다고 엄포를놓았습니다.|Đã dọa suông là sẽ kiện.
+으름장을놓다|hăm dọa|가만두지 않겠다고 으름장을놓았습니다.|Đã hăm dọa là sẽ không để yên.
+딴죽을걸다|ngáng chân bắt bẻ|남의 말에 딴죽을겁니다.|Bắt bẻ lời người khác.
+맥을못추다|đuối sức không gượng nổi|더위에 맥을못춥니다.|Đuối sức vì nóng.

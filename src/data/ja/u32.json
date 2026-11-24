@@ -3,7 +3,7 @@
   {"unit":32,"level":3,"title":"Phần 2: Công việc và học tập","desc":"Xin việc, văn phòng, đại học, bệnh viện, giải trí","color":"sky","course":"ja"}
  ],
  "lessons": [
-  {"id":"ja306","title":"Xin việc","desc":"Hồ sơ, phỏng vấn, năng lực","icon":"職","unit":32,"course":"ja","order":360,"words":[
+  {"id":"ja306","title":"Xin việc","desc":"Hồ sơ, phỏng vấn, năng lực","icon":"職","unit":32,"course":"ja","order":1720,"words":[
    {"id":"ja306-就職","hanzi":"就職","pinyin":"shuushoku","vi":"tìm được việc làm","ex":{"tokens":["兄","は","大きい","会社","に","就職","しました","。"],"py":["ani","wa","ookii","kaisha","ni","shuushoku","shimashita","."],"vi":"Anh tôi đã vào làm ở một công ty lớn.","alts":[]}},
    {"id":"ja306-面接","hanzi":"面接","pinyin":"mensetsu","vi":"phỏng vấn","ex":{"tokens":["明日","会社","の","面接","が","あります","。"],"py":["ashita","kaisha","no","mensetsu","ga","arimasu","."],"vi":"Ngày mai tôi có buổi phỏng vấn ở công ty.","alts":[]}},
    {"id":"ja306-履歴書","hanzi":"履歴書","pinyin":"rirekisho","vi":"sơ yếu lý lịch","ex":{"tokens":["履歴書","を","メール","で","送りました","。"],"py":["rirekisho","o","meeru","de","okurimashita","."],"vi":"Tôi đã gửi sơ yếu lý lịch qua email.","alts":[]}},
@@ -17,7 +17,7 @@
    {"id":"ja306-転職","hanzi":"転職","pinyin":"tenshoku","vi":"chuyển việc","ex":{"tokens":["来年","転職","する","つもり","です","。"],"py":["rainen","tenshoku","suru","tsumori","desu","."],"vi":"Năm sau tôi định chuyển việc.","alts":[]}},
    {"id":"ja306-将来","hanzi":"将来","pinyin":"shourai","vi":"tương lai","ex":{"tokens":["将来","は","医者","に","なりたい","です","。"],"py":["shourai","wa","isha","ni","naritai","desu","."],"vi":"Tương lai tôi muốn trở thành bác sĩ.","alts":[]}}
   ]},
-  {"id":"ja307","title":"Văn phòng","desc":"Công việc hằng ngày ở công ty","icon":"務","unit":32,"course":"ja","order":370,"words":[
+  {"id":"ja307","title":"Văn phòng","desc":"Công việc hằng ngày ở công ty","icon":"務","unit":32,"course":"ja","order":1730,"words":[
    {"id":"ja307-部長","hanzi":"部長","pinyin":"buchou","vi":"trưởng phòng","ex":{"tokens":["部長","に","報告書","を","出しました","。"],"py":["buchou","ni","houkokusho","o","dashimashita","."],"vi":"Tôi đã nộp báo cáo cho trưởng phòng.","alts":[]}},
    {"id":"ja307-報告","hanzi":"報告","pinyin":"houkoku","vi":"báo cáo","ex":{"tokens":["結果","を","上司","に","報告","しました","。"],"py":["kekka","o","joushi","ni","houkoku","shimashita","."],"vi":"Tôi đã báo cáo kết quả với cấp trên.","alts":[]}},
    {"id":"ja307-出張","hanzi":"出張","pinyin":"shutchou","vi":"công tác","ex":{"tokens":["来週","大阪","へ","出張","します","。"],"py":["raishuu","oosaka","e","shutchou","shimasu","."],"vi":"Tuần sau tôi đi công tác Osaka.","alts":[]}},
@@ -31,7 +31,7 @@
    {"id":"ja307-遅刻","hanzi":"遅刻","pinyin":"chikoku","vi":"đến muộn","ex":{"tokens":["電車","が","遅れて","遅刻","しました","。"],"py":["densha","ga","okurete","chikoku","shimashita","."],"vi":"Tàu trễ nên tôi đã đến muộn.","alts":[]}},
    {"id":"ja307-名刺","hanzi":"名刺","pinyin":"meishi","vi":"danh thiếp","ex":{"tokens":["初めて","会う","人","に","名刺","を","渡します","。"],"py":["hajimete","au","hito","ni","meishi","o","watashimasu","."],"vi":"Tôi đưa danh thiếp cho người gặp lần đầu.","alts":[]}}
   ]},
-  {"id":"ja308","title":"Đại học","desc":"Học kỳ, học bổng, bài tập","icon":"学","unit":32,"course":"ja","order":380,"words":[
+  {"id":"ja308","title":"Đại học","desc":"Học kỳ, học bổng, bài tập","icon":"学","unit":32,"course":"ja","order":1740,"words":[
    {"id":"ja308-学期","hanzi":"学期","pinyin":"gakki","vi":"học kỳ","ex":{"tokens":["新しい","学期","は","四月","に","始まります","。"],"py":["atarashii","gakki","wa","shigatsu","ni","hajimarimasu","."],"vi":"Học kỳ mới bắt đầu vào tháng tư.","alts":[]}},
    {"id":"ja308-奨学金","hanzi":"奨学金","pinyin":"shougakukin","vi":"học bổng","ex":{"tokens":["奨学金","を","もらいました","。"],"py":["shougakukin","o","moraimashita","."],"vi":"Tôi đã nhận học bổng.","alts":[]}},
    {"id":"ja308-授業料","hanzi":"授業料","pinyin":"jugyouryou","vi":"học phí","ex":{"tokens":["授業料","は","毎年","上がります","。"],"py":["jugyouryou","wa","maitoshi","agarimasu","."],"vi":"Học phí tăng hằng năm.","alts":[]}},
@@ -45,7 +45,7 @@
    {"id":"ja308-論文","hanzi":"論文","pinyin":"ronbun","vi":"luận văn","ex":{"tokens":["卒業","の","論文","を","書いて","います","。"],"py":["sotsugyou","no","ronbun","o","kaite","imasu","."],"vi":"Tôi đang viết luận văn tốt nghiệp.","alts":[]}},
    {"id":"ja308-辞書","hanzi":"辞書","pinyin":"jisho","vi":"từ điển","ex":{"tokens":["知らない","言葉","を","辞書","で","調べます","。"],"py":["shiranai","kotoba","o","jisho","de","shirabemasu","."],"vi":"Tôi tra từ không biết bằng từ điển.","alts":[]}}
   ]},
-  {"id":"ja309","title":"Bệnh viện","desc":"Triệu chứng, khám, điều trị","icon":"診","unit":32,"course":"ja","order":390,"words":[
+  {"id":"ja309","title":"Bệnh viện","desc":"Triệu chứng, khám, điều trị","icon":"診","unit":32,"course":"ja","order":1750,"words":[
    {"id":"ja309-症状","hanzi":"症状","pinyin":"shoujou","vi":"triệu chứng","ex":{"tokens":["どんな","症状","が","あります","か","。"],"py":["donna","shoujou","ga","arimasu","ka","."],"vi":"Bạn có triệu chứng gì?","alts":[]}},
    {"id":"ja309-注射","hanzi":"注射","pinyin":"chuusha","vi":"tiêm","ex":{"tokens":["病院","で","注射","を","しました","。"],"py":["byouin","de","chuusha","o","shimashita","."],"vi":"Tôi đã tiêm ở bệnh viện.","alts":[]}},
    {"id":"ja309-手術","hanzi":"手術","pinyin":"shujutsu","vi":"phẫu thuật","ex":{"tokens":["祖父","は","昨日","手術","を","受けました","。"],"py":["sofu","wa","kinou","shujutsu","o","ukemashita","."],"vi":"Ông tôi đã phẫu thuật hôm qua.","alts":[]}},
@@ -59,7 +59,7 @@
    {"id":"ja309-診察","hanzi":"診察","pinyin":"shinsatsu","vi":"khám bệnh","ex":{"tokens":["医者","の","診察","を","受けました","。"],"py":["isha","no","shinsatsu","o","ukemashita","."],"vi":"Tôi đã được bác sĩ khám.","alts":[]}},
    {"id":"ja309-保険証","hanzi":"保険証","pinyin":"hokenshou","vi":"thẻ bảo hiểm","ex":{"tokens":["受付","で","保険証","を","出します","。"],"py":["uketsuke","de","hokenshou","o","dashimasu","."],"vi":"Tôi xuất trình thẻ bảo hiểm ở quầy tiếp nhận.","alts":[]}}
   ]},
-  {"id":"ja310","title":"Thể thao và giải trí","desc":"Trận đấu, đội, buổi diễn","icon":"遊","unit":32,"course":"ja","order":400,"words":[
+  {"id":"ja310","title":"Thể thao và giải trí","desc":"Trận đấu, đội, buổi diễn","icon":"遊","unit":32,"course":"ja","order":1760,"words":[
    {"id":"ja310-試合","hanzi":"試合","pinyin":"shiai","vi":"trận đấu","ex":{"tokens":["昨日","サッカー","の","試合","を","見ました","。"],"py":["kinou","sakkaa","no","shiai","o","mimashita","."],"vi":"Hôm qua tôi đã xem trận bóng đá.","alts":[]}},
    {"id":"ja310-選手","hanzi":"選手","pinyin":"senshu","vi":"vận động viên","ex":{"tokens":["あの","選手","は","とても","速い","です","。"],"py":["ano","senshu","wa","totemo","hayai","desu","."],"vi":"Vận động viên đó rất nhanh.","alts":[]}},
    {"id":"ja310-勝つ","hanzi":"勝つ","pinyin":"katsu","vi":"thắng","ex":{"tokens":["私たち","の","チーム","が","勝ちました","。"],"py":["watashitachi","no","chiimu","ga","kachimashita","."],"vi":"Đội chúng tôi đã thắng.","alts":[]}},

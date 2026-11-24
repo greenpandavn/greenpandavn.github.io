@@ -1,0 +1,44 @@
+=1
+@Đất nước và ngôn ngữ|Tên nước, thành phố
+미국|nước Mỹ|친구가 미국에 삽니다.|Bạn tôi sống ở Mỹ.
+중국|Trung Quốc|중국은 아주 큽니다.|Trung Quốc rất rộng lớn.
+일본|Nhật Bản|일본에 여행을 갑니다.|Tôi đi du lịch Nhật Bản.
+영국|nước Anh|영국에서 영어를 공부합니다.|Tôi học tiếng Anh ở nước Anh.
+프랑스|nước Pháp|프랑스 빵이 맛있습니다.|Bánh mì Pháp ngon.
+독일|nước Đức|독일 자동차는 유명합니다.|Ô tô Đức nổi tiếng.
+태국|Thái Lan|태국 음식은 맵습니다.|Món Thái cay.
+인도|Ấn Độ|인도에는 사람이 많습니다.|Ấn Độ có nhiều người.
+러시아|nước Nga|러시아는 겨울이 깁니다.|Nước Nga có mùa đông dài.
+호주|nước Úc|호주에는 코알라가 있습니다.|Ở Úc có gấu koala.
+서울|Seoul|서울은 한국의 수도입니다.|Seoul là thủ đô của Hàn Quốc.
+부산|Busan|부산에는 바다가 있습니다.|Ở Busan có biển.
+제주도|đảo Jeju|제주도는 아름다운 섬입니다.|Jeju là hòn đảo đẹp.
+한강|sông Hàn|한강에서 자전거를 탑니다.|Tôi đạp xe ở sông Hàn.
+세계|thế giới|세계 여행을 하고 싶습니다.|Tôi muốn du lịch vòng quanh thế giới.
+아시아|châu Á|한국은 아시아에 있습니다.|Hàn Quốc ở châu Á.
+유럽|châu Âu|유럽에 가고 싶습니다.|Tôi muốn đi châu Âu.
+한국인|người Hàn Quốc|제 친구는 한국인입니다.|Bạn tôi là người Hàn Quốc.
+한식|món ăn Hàn Quốc|저는 한식을 좋아합니다.|Tôi thích món Hàn.
+@Cảm giác đơn giản|Trạng thái hằng ngày
+힘들다|vất vả, mệt|일이 많아서 힘듭니다.|Nhiều việc nên vất vả.
+신나다|phấn khởi|여행을 가서 신납니다.|Đi du lịch nên tôi phấn khởi.
+재미|sự thú vị|한국어 공부에 재미가 있습니다.|Việc học tiếng Hàn có sự thú vị.
+웃음|tiếng cười|아이의 웃음이 예쁩니다.|Tiếng cười của đứa bé thật đáng yêu.
+사랑|tình yêu|어머니의 사랑은 큽니다.|Tình yêu của mẹ thật lớn.
+걱정|nỗi lo|걱정이 많습니다.|Tôi có nhiều nỗi lo.
+화|cơn giận|동생이 화를 냅니다.|Em tôi nổi giận.
+배고픔|cơn đói|배고픔을 참습니다.|Tôi chịu đựng cơn đói.
+싫다|ghét, không ưa|저는 추운 날씨가 싫습니다.|Tôi ghét thời tiết lạnh.
+괜찮다|ổn, không sao|이 옷은 괜찮습니다.|Cái áo này ổn.
+시끄럽다|ồn ào|교실이 시끄럽습니다.|Lớp học ồn ào.
+한가하다|rảnh rỗi|오늘은 한가합니다.|Hôm nay tôi rảnh.
+급하다|gấp, vội|지금 아주 급합니다.|Bây giờ tôi rất vội.
+이상하다|kỳ lạ|컴퓨터가 이상합니다.|Máy tính có gì đó lạ.
+충분히|một cách đầy đủ|어제 충분히 잤습니다.|Hôm qua tôi đã ngủ đủ.
+약하다|yếu|동생은 몸이 약합니다.|Em tôi thể trạng yếu.
+강하다|mạnh|오늘은 바람이 강합니다.|Hôm nay gió mạnh.
+두껍다|dày|이 책은 두껍습니다.|Quyển sách này dày.
+얇다|mỏng|이 옷은 얇습니다.|Cái áo này mỏng.
+깊다|sâu|이 강은 깊습니다.|Con sông này sâu.
+뚱뚱하다|béo|우리 고양이는 뚱뚱합니다.|Con mèo nhà tôi béo.
+날씬하다|thon thả|언니는 날씬합니다.|Chị tôi thon thả.

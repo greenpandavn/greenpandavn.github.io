@@ -1,0 +1,50 @@
+=5
+@Bệnh và điều trị N1|Y khoa nâng cao
+癌:がん|ung thư|父:ちち は 癌:がん の 手術:しゅじゅつ を 受けました:うけました 。|Bố tôi đã phẫu thuật ung thư.
+潰瘍:かいよう|loét|胃:い に 潰瘍:かいよう が 見つかりました:みつかりました 。|Phát hiện vết loét ở dạ dày.
+炎症:えんしょう|viêm|喉:のど に 炎症:えんしょう が あります 。|Cổ họng bị viêm.
+発作:ほっさ|cơn (bệnh) phát tác|夜中:よなか に 発作:ほっさ が 起きました:おきました 。|Cơn bệnh phát tác lúc nửa đêm.
+麻痺:まひ|tê liệt|事故:じこ で 右手:みぎて が 麻痺:まひ しました 。|Tay phải bị tê liệt do tai nạn.
+貧血:ひんけつ|thiếu máu|貧血:ひんけつ で 倒れました:たおれました 。|Tôi ngã quỵ vì thiếu máu.
+脱水:だっすい|mất nước|暑い:あつい 日:ひ は 脱水:だっすい に 注意:ちゅうい します 。|Ngày nóng cần chú ý mất nước.
+肥満:ひまん|béo phì|肥満:ひまん は 病気:びょうき の 原因:げんいん に なります 。|Béo phì là nguyên nhân gây bệnh.
+糖尿病:とうにょうびょう|bệnh tiểu đường|祖父:そふ は 糖尿病:とうにょうびょう です 。|Ông tôi bị bệnh tiểu đường.
+高血圧:こうけつあつ|cao huyết áp|母:はは は 高血圧:こうけつあつ の 薬:くすり を 飲んで:のんで います 。|Mẹ tôi đang uống thuốc cao huyết áp.
+脳卒中:のうそっちゅう|đột quỵ|彼:かれ は 脳卒中:のうそっちゅう で 倒れました:たおれました 。|Ông ấy ngã quỵ vì đột quỵ.
+心筋梗塞:しんきんこうそく|nhồi máu cơ tim|父:ちち は 心筋梗塞:しんきんこうそく で 入院:にゅういん しました 。|Bố tôi nhập viện vì nhồi máu cơ tim.
+肺炎:はいえん|viêm phổi|風邪:かぜ から 肺炎:はいえん に なりました 。|Từ cảm chuyển thành viêm phổi.
+結核:けっかく|bệnh lao|昔:むかし 、 結核:けっかく は 怖い:こわい 病気:びょうき でした 。|Ngày xưa bệnh lao là bệnh đáng sợ.
+喘息:ぜんそく|hen suyễn|弟:おとうと は 喘息:ぜんそく が あります 。|Em trai tôi bị hen suyễn.
+鬱病:うつびょう|bệnh trầm cảm|彼:かれ は 鬱病:うつびょう で 会社:かいしゃ を 休んで:やすんで います 。|Anh ấy đang nghỉ làm vì bệnh trầm cảm.
+不眠症:ふみんしょう|chứng mất ngủ|不眠症:ふみんしょう で 病院:びょういん に 行きました:いきました 。|Tôi đi bệnh viện vì chứng mất ngủ.
+依存症:いぞんしょう|chứng nghiện|彼:かれ は 酒:さけ の 依存症:いぞんしょう です 。|Anh ta mắc chứng nghiện rượu.
+後遺症:こういしょう|di chứng|事故:じこ の 後遺症:こういしょう が 残りました:のこりました 。|Di chứng tai nạn vẫn còn.
+合併症:がっぺいしょう|biến chứng|手術:しゅじゅつ の 後:あと で 合併症:がっぺいしょう が 出ました:でました 。|Sau phẫu thuật xuất hiện biến chứng.
+急性:きゅうせい|cấp tính|急性:きゅうせい の 病気:びょうき で 入院:にゅういん しました 。|Tôi nhập viện vì bệnh cấp tính.
+悪性:あくせい|ác tính|検査:けんさ の 結果:けっか 、 悪性:あくせい で は ありません でした 。|Kết quả xét nghiệm không phải ác tính.
+良性:りょうせい|lành tính|良性:りょうせい です から 、 心配:しんぱい ありません 。|Là lành tính nên không cần lo.
+陽性:ようせい|dương tính|検査:けんさ で 陽性:ようせい に なりました 。|Xét nghiệm ra dương tính.
+陰性:いんせい|âm tính|結果:けっか は 陰性:いんせい でした 。|Kết quả là âm tính.
+抗生物質:こうせいぶっしつ|thuốc kháng sinh|医者:いしゃ が 抗生物質:こうせいぶっしつ を 出しました:だしました 。|Bác sĩ đã kê thuốc kháng sinh.
+鎮痛剤:ちんつうざい|thuốc giảm đau|頭:あたま が 痛くて:いたくて 鎮痛剤:ちんつうざい を 飲みました:のみました 。|Đau đầu nên tôi uống thuốc giảm đau.
+解熱剤:げねつざい|thuốc hạ sốt|子供:こども に 解熱剤:げねつざい を 飲ませます:のませます 。|Tôi cho con uống thuốc hạ sốt.
+点滴:てんてき|truyền dịch|病院:びょういん で 点滴:てんてき を 受けました:うけました 。|Tôi được truyền dịch ở bệnh viện.
+輸血:ゆけつ|truyền máu|手術:しゅじゅつ で 輸血:ゆけつ が 必要:ひつよう です 。|Phẫu thuật cần truyền máu.
+臨床:りんしょう|lâm sàng|新しい:あたらしい 薬:くすり の 臨床:りんしょう 試験:しけん を 行います:おこないます 。|Tiến hành thử nghiệm lâm sàng thuốc mới.
+病棟:びょうとう|khu điều trị nội trú|子供:こども の 病棟:びょうとう は 三階:さんがい です 。|Khu điều trị nội trú của trẻ em ở tầng ba.
+外来:がいらい|khám ngoại trú|外来:がいらい の 受付:うけつけ は 九時:くじ から です 。|Tiếp nhận khám ngoại trú từ chín giờ.
+救急:きゅうきゅう|cấp cứu|救急:きゅうきゅう の 患者:かんじゃ が 運ばれました:はこばれました 。|Bệnh nhân cấp cứu đã được chở đến.
+往診:おうしん|khám tại nhà|医者:いしゃ が 往診:おうしん に 来ました:きました 。|Bác sĩ đã đến khám tại nhà.
+診療:しんりょう|khám chữa bệnh|日曜日:にちようび は 診療:しんりょう を 休みます:やすみます 。|Chủ nhật nghỉ khám chữa bệnh.
+療養:りょうよう|an dưỡng|彼:かれ は 田舎:いなか で 療養:りょうよう して います 。|Anh ấy đang an dưỡng ở quê.
+安静:あんせい|tĩnh dưỡng, nằm yên|三日間:みっかかん 、 安静:あんせい に して ください 。|Hãy nằm yên tĩnh dưỡng ba ngày.
+予後:よご|tiên lượng bệnh|手術:しゅじゅつ の 予後:よご は いい です 。|Tiên lượng sau phẫu thuật tốt.
+再発:さいはつ|tái phát|病気:びょうき が 再発:さいはつ しました 。|Bệnh đã tái phát.
+転移:てんい|di căn|癌:がん の 転移:てんい は ありません 。|Ung thư không di căn.
+完治:かんち|khỏi hẳn|怪我:けが は 完治:かんち しました 。|Vết thương đã khỏi hẳn.
+治癒:ちゆ|lành bệnh|傷:きず は 自然:しぜん に 治癒:ちゆ します 。|Vết thương tự lành.
+損益:そんえき|lãi lỗ|今月:こんげつ の 損益:そんえき を 計算:けいさん します 。|Tính lãi lỗ tháng này.
+純利益:じゅんりえき|lợi nhuận ròng|会社:かいしゃ の 純利益:じゅんりえき が 増えました:ふえました 。|Lợi nhuận ròng của công ty đã tăng.
+輸出入:ゆしゅつにゅう|xuất nhập khẩu|輸出入:ゆしゅつにゅう の 手続き:てつづき を します 。|Làm thủ tục xuất nhập khẩu.
+賃上げ:ちんあげ|nâng lương (đồng loạt)|組合:くみあい が 賃上げ:ちんあげ を 求めて:もとめて います 。|Công đoàn đang đòi nâng lương.
+物価高:ぶっかだか|vật giá đắt đỏ|物価高:ぶっかだか で 生活:せいかつ が 苦しい:くるしい です 。|Đời sống chật vật vì vật giá đắt đỏ.

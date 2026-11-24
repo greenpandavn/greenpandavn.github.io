@@ -1,0 +1,95 @@
+=4
+@Hành chính và đoàn thể|Chính quyền, bầu cử, tổ chức
+官庁:かんちょう|cơ quan nhà nước|官庁:かんちょう に 書類:しょるい を 出します:だします 。|Tôi nộp giấy tờ cho cơ quan nhà nước.
+省庁:しょうちょう|các bộ ngành|省庁:しょうちょう の 建物:たてもの が 並んで:ならんで います 。|Tòa nhà các bộ ngành nằm san sát.
+役人:やくにん|quan chức, công chức|役人:やくにん が 村:むら を 訪ねました:たずねました 。|Quan chức đã đến thăm làng.
+公務:こうむ|công vụ|市長:しちょう は 公務:こうむ で 忙しい:いそがしい です 。|Thị trưởng bận công vụ.
+議会:ぎかい|hội đồng, nghị viện|市:し の 議会:ぎかい で 予算:よさん を 決めます:きめます 。|Hội đồng thành phố quyết định ngân sách.
+内閣:ないかく|nội các|新しい:あたらしい 内閣:ないかく が できました 。|Nội các mới đã được lập.
+知事:ちじ|tỉnh trưởng|知事:ちじ が 記者:きしゃ の 質問:しつもん に 答えます:こたえます 。|Tỉnh trưởng trả lời câu hỏi của phóng viên.
+市長:しちょう|thị trưởng|新しい:あたらしい 市長:しちょう が 選ばれました:えらばれました 。|Thị trưởng mới đã được bầu.
+議員:ぎいん|nghị sĩ|彼:かれ は 国会:こっかい の 議員:ぎいん です 。|Ông ấy là nghị sĩ quốc hội.
+選挙権:せんきょけん|quyền bầu cử|十八歳:じゅうはっさい から 選挙権:せんきょけん が あります 。|Từ mười tám tuổi có quyền bầu cử.
+当選:とうせん|trúng cử|彼:かれ は 市長:しちょう に 当選:とうせん しました 。|Ông ấy đã trúng cử thị trưởng.
+落選:らくせん|thất cử|前:まえ の 知事:ちじ は 落選:らくせん しました 。|Tỉnh trưởng cũ đã thất cử.
+候補者:こうほしゃ|ứng cử viên|候補者:こうほしゃ の 話:はなし を 聞きます:ききます 。|Tôi nghe ứng cử viên nói.
+政党:せいとう|chính đảng|どの 政党:せいとう を 支持:しじ します か 。|Bạn ủng hộ chính đảng nào?
+与党:よとう|đảng cầm quyền|与党:よとう が 法案:ほうあん を 出しました:だしました 。|Đảng cầm quyền đã đưa ra dự luật.
+野党:やとう|đảng đối lập|野党:やとう は その 計画:けいかく に 反対:はんたい しました 。|Đảng đối lập đã phản đối kế hoạch đó.
+政権:せいけん|chính quyền (nắm quyền)|政権:せいけん が 交代:こうたい しました 。|Chính quyền đã đổi chủ.
+制度:せいど|chế độ, thể chế|新しい:あたらしい 制度:せいど が 始まります:はじまります 。|Chế độ mới sẽ bắt đầu.
+法案:ほうあん|dự luật|国会:こっかい で 法案:ほうあん を 話し合います:はなしあいます 。|Quốc hội thảo luận dự luật.
+認可:にんか|cấp phép (chính thức)|新しい:あたらしい 薬:くすり が 認可:にんか されました 。|Thuốc mới đã được cấp phép.
+申請書:しんせいしょ|đơn xin|申請書:しんせいしょ に 名前:なまえ を 書きます:かきます 。|Tôi viết tên vào đơn xin.
+届け出:とどけで|khai báo (với cơ quan)|引っ越し:ひっこし の 届け出:とどけで を します 。|Tôi khai báo việc chuyển nhà.
+戸籍:こせき|hộ tịch|結婚:けっこん して 戸籍:こせき を 移します:うつします 。|Kết hôn rồi tôi chuyển hộ tịch.
+住民票:じゅうみんひょう|giấy đăng ký cư trú|役所:やくしょ で 住民票:じゅうみんひょう を もらいます 。|Tôi lấy giấy đăng ký cư trú ở ủy ban.
+国籍:こくせき|quốc tịch|彼女:かのじょ の 国籍:こくせき は ベトナム です 。|Quốc tịch của cô ấy là Việt Nam.
+税務署:ぜいむしょ|chi cục thuế|税務署:ぜいむしょ に 書類:しょるい を 出します:だします 。|Tôi nộp giấy tờ cho chi cục thuế.
+納税:のうぜい|nộp thuế|納税:のうぜい は 国民:こくみん の 義務:ぎむ です 。|Nộp thuế là nghĩa vụ của công dân.
+保険料:ほけんりょう|phí bảo hiểm|毎月:まいつき 、 保険料:ほけんりょう を 払います:はらいます 。|Hằng tháng tôi đóng phí bảo hiểm.
+保育:ほいく|trông giữ trẻ|働く:はたらく 親:おや の ため に 保育:ほいく を 行います:おこないます 。|Người ta trông giữ trẻ cho bố mẹ đi làm.
+高齢化:こうれいか|già hóa dân số|日本:にほん は 高齢化:こうれいか が 進んで:すすんで います 。|Nhật Bản đang già hóa dân số.
+過疎:かそ|thưa dân|この 村:むら は 過疎:かそ に 悩んで:なやんで います 。|Ngôi làng này khổ vì thưa dân.
+世帯:せたい|hộ gia đình|この 町:まち に は 千:せん の 世帯:せたい が あります 。|Thị trấn này có một nghìn hộ gia đình.
+住民:じゅうみん|cư dân|住民:じゅうみん が 集まって:あつまって 話し合います:はなしあいます 。|Cư dân tụ họp bàn bạc.
+公共:こうきょう|công cộng|公共:こうきょう の 場所:ばしょ で は 静か:しずか に します 。|Ở nơi công cộng cần giữ yên lặng.
+公衆:こうしゅう|công chúng|公衆:こうしゅう の 前:まえ で 話します:はなします 。|Tôi nói trước công chúng.
+民間:みんかん|tư nhân, dân gian|民間:みんかん の 会社:かいしゃ で 働きます:はたらきます 。|Tôi làm ở công ty tư nhân.
+団体:だんたい|đoàn thể, đoàn|団体:だんたい で 旅行:りょこう します 。|Chúng tôi du lịch theo đoàn.
+協会:きょうかい|hiệp hội|サッカー の 協会:きょうかい に 入ります:はいります 。|Tôi gia nhập hiệp hội bóng đá.
+連盟:れんめい|liên đoàn|連盟:れんめい が 新しい:あたらしい 規則:きそく を 作りました:つくりました 。|Liên đoàn đã đặt quy định mới.
+委員会:いいんかい|ủy ban|委員会:いいんかい で 計画:けいかく を 決めます:きめます 。|Ủy ban quyết định kế hoạch.
+委員:いいん|ủy viên|私:わたし は クラス の 委員:いいん に なりました 。|Tôi đã trở thành ủy viên của lớp.
+会長:かいちょう|hội trưởng, chủ tịch hội|会長:かいちょう が 挨拶:あいさつ を します 。|Hội trưởng phát biểu chào mừng.
+理事:りじ|ủy viên ban quản trị|理事:りじ が 集まって:あつまって 会議:かいぎ を します 。|Các ủy viên ban quản trị họp lại.
+代表者:だいひょうしゃ|người đại diện|代表者:だいひょうしゃ の 名前:なまえ を 書いて:かいて ください 。|Hãy viết tên người đại diện.
+責任者:せきにんしゃ|người chịu trách nhiệm|工事:こうじ の 責任者:せきにんしゃ と 話します:はなします 。|Tôi nói chuyện với người chịu trách nhiệm thi công.
+@Báo chí và xuất bản|Truyền thông
+記者会見:きしゃかいけん|họp báo|社長:しゃちょう が 記者会見:きしゃかいけん を 開きました:ひらきました 。|Giám đốc đã mở họp báo.
+放送局:ほうそうきょく|đài phát thanh truyền hình|姉:あね は 放送局:ほうそうきょく で 働いて:はたらいて います 。|Chị tôi làm ở đài truyền hình.
+番組表:ばんぐみひょう|lịch phát sóng|新聞:しんぶん の 番組表:ばんぐみひょう を 見ます:みます 。|Tôi xem lịch phát sóng trên báo.
+視聴者:しちょうしゃ|khán giả truyền hình|視聴者:しちょうしゃ から 手紙:てがみ が 届きました:とどきました 。|Thư của khán giả truyền hình đã đến.
+読者:どくしゃ|độc giả|この 雑誌:ざっし は 若い:わかい 読者:どくしゃ が 多い:おおい です 。|Tạp chí này có nhiều độc giả trẻ.
+編集:へんしゅう|biên tập|雑誌:ざっし を 編集:へんしゅう して います 。|Tôi đang biên tập tạp chí.
+出版社:しゅっぱんしゃ|nhà xuất bản|出版社:しゅっぱんしゃ に 原稿:げんこう を 送ります:おくります 。|Tôi gửi bản thảo cho nhà xuất bản.
+発行:はっこう|phát hành|この 新聞:しんぶん は 毎日:まいにち 発行:はっこう されます 。|Tờ báo này được phát hành hằng ngày.
+掲載:けいさい|đăng tải|新聞:しんぶん に 写真:しゃしん が 掲載:けいさい されました 。|Bức ảnh đã được đăng tải trên báo.
+連載:れんさい|đăng nhiều kỳ|この 漫画:まんが は 雑誌:ざっし に 連載:れんさい して います 。|Bộ truyện tranh này đăng nhiều kỳ trên tạp chí.
+見出し:みだし|tít báo, tiêu đề|新聞:しんぶん の 見出し:みだし だけ 読みます:よみます 。|Tôi chỉ đọc tít báo.
+社説:しゃせつ|bài xã luận|毎朝:まいあさ 、 社説:しゃせつ を 読みます:よみます 。|Sáng nào tôi cũng đọc bài xã luận.
+投書:とうしょ|thư bạn đọc|新聞:しんぶん に 投書:とうしょ を 送ります:おくります 。|Tôi gửi thư bạn đọc cho báo.
+評論:ひょうろん|bình luận (bài viết)|映画:えいが の 評論:ひょうろん を 書きます:かきます 。|Tôi viết bình luận phim.
+特集:とくしゅう|chuyên đề|今月:こんげつ の 特集:とくしゅう は 京都:きょうと です 。|Chuyên đề tháng này là Kyoto.
+号外:ごうがい|số báo đặc biệt (phát gấp)|駅:えき の 前:まえ で 号外:ごうがい を 配って:くばって います 。|Người ta đang phát số báo đặc biệt trước ga.
+朝刊:ちょうかん|báo buổi sáng|朝刊:ちょうかん を 読んで:よんで から 出かけます:でかけます 。|Tôi đọc báo buổi sáng rồi mới ra ngoài.
+夕刊:ゆうかん|báo buổi chiều|夕刊:ゆうかん に その 記事:きじ が 出ました:でました 。|Bài đó đã lên báo buổi chiều.
+週刊誌:しゅうかんし|tuần san|電車:でんしゃ で 週刊誌:しゅうかんし を 読みます:よみます 。|Tôi đọc tuần san trên tàu.
+月刊:げっかん|nguyệt san, ra hằng tháng|この 雑誌:ざっし は 月刊:げっかん です 。|Tạp chí này ra hằng tháng.
+原稿:げんこう|bản thảo|原稿:げんこう を 明日:あした まで に 書きます:かきます 。|Tôi viết bản thảo trước ngày mai.
+筆者:ひっしゃ|người viết (bài này)|筆者:ひっしゃ の 考え:かんがえ を 選びます:えらびます 。|Chọn ý của người viết.
+作者:さくしゃ|tác giả (tác phẩm)|この 絵:え の 作者:さくしゃ は 誰:だれ です か 。|Tác giả bức tranh này là ai?
+字幕:じまく|phụ đề|映画:えいが を 字幕:じまく で 見ます:みます 。|Tôi xem phim có phụ đề.
+中継:ちゅうけい|tiếp sóng, truyền hình trực tiếp|試合:しあい を テレビ で 中継:ちゅうけい します 。|Trận đấu được tiếp sóng trên ti vi.
+生放送:なまほうそう|phát sóng trực tiếp|この 番組:ばんぐみ は 生放送:なまほうそう です 。|Chương trình này phát sóng trực tiếp.
+再放送:さいほうそう|phát lại|ドラマ の 再放送:さいほうそう を 見ます:みます 。|Tôi xem phát lại bộ phim truyền hình.
+広報:こうほう|quan hệ công chúng, thông tin tuyên truyền|市:し の 広報:こうほう で お知らせ:おしらせ を 読みました:よみました 。|Tôi đọc thông báo trên bản tin của thành phố.
+@Cơ thể và điều trị|Y tế N2
+肝臓:かんぞう|gan|お酒:おさけ は 肝臓:かんぞう に 悪い:わるい です 。|Rượu có hại cho gan.
+腎臓:じんぞう|thận|父:ちち は 腎臓:じんぞう の 病気:びょうき です 。|Bố tôi bị bệnh thận.
+胃腸:いちょう|dạ dày và ruột|胃腸:いちょう が 弱い:よわい の で 、 冷たい:つめたい 物:もの は 飲みません:のみません 。|Dạ dày và ruột yếu nên tôi không uống đồ lạnh.
+血管:けっかん|mạch máu|血管:けっかん が 細い:ほそい です ね 。|Mạch máu của anh nhỏ nhỉ.
+血液型:けつえきがた|nhóm máu|私:わたし の 血液型:けつえきがた は A です 。|Nhóm máu của tôi là A.
+神経:しんけい|thần kinh|歯:は の 神経:しんけい を 抜きます:ぬきます 。|Nha sĩ lấy tủy răng.
+関節:かんせつ|khớp|寒い:さむい と 関節:かんせつ が 痛い:いたい です 。|Trời lạnh là khớp đau.
+消化:しょうか|tiêu hóa|この 食べ物:たべもの は 消化:しょうか に いい です 。|Món này tốt cho tiêu hóa.
+吸収:きゅうしゅう|hấp thụ|体:からだ が 栄養:えいよう を 吸収:きゅうしゅう します 。|Cơ thể hấp thụ dinh dưỡng.
+伝染:でんせん|truyền nhiễm|この 病気:びょうき は 人:ひと に 伝染:でんせん します 。|Bệnh này truyền nhiễm sang người.
+接種:せっしゅ|tiêm chủng|子供:こども が 予防:よぼう 接種:せっしゅ を 受けます:うけます 。|Trẻ em được tiêm chủng phòng bệnh.
+通院:つういん|đi viện điều trị ngoại trú|週:しゅう に 一回:いっかい 、 通院:つういん して います 。|Mỗi tuần tôi đi viện điều trị một lần.
+介抱:かいほう|chăm sóc (người ốm, say)|倒れた:たおれた 人:ひと を 介抱:かいほう します 。|Tôi chăm sóc người bị ngã quỵ.
+粉薬:こなぐすり|thuốc bột|子供:こども は 粉薬:こなぐすり が 嫌い:きらい です 。|Trẻ con ghét thuốc bột.
+塗り薬:ぬりぐすり|thuốc bôi|傷:きず に 塗り薬:ぬりぐすり を 塗ります:ぬります 。|Tôi bôi thuốc bôi lên vết thương.
+松葉杖:まつばづえ|nạng|足:あし を 折って:おって 松葉杖:まつばづえ で 歩きます:あるきます 。|Gãy chân nên tôi đi bằng nạng.
+車椅子:くるまいす|xe lăn|祖母:そぼ は 車椅子:くるまいす を 使って:つかって います 。|Bà tôi dùng xe lăn.
+人間ドック:にんげんドック|khám sức khỏe tổng quát (nội trú)|年:とし に 一度:いちど 、 人間ドック:にんげんドック を 受けます:うけます 。|Mỗi năm tôi đi khám sức khỏe tổng quát một lần.

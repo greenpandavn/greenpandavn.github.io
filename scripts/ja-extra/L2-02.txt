@@ -1,0 +1,87 @@
+=2
+@Sức khỏe và bệnh viện|Khám chữa bệnh
+やけど|vết bỏng|お湯:おゆ で 手:て に やけど を しました 。|Tôi bị bỏng tay vì nước nóng.
+傷:きず|vết thương|足:あし の 傷:きず が 痛い:いたい です 。|Vết thương ở chân đau.
+インフルエンザ|bệnh cúm|冬:ふゆ は インフルエンザ に 気:き を つけます 。|Mùa đông tôi đề phòng bệnh cúm.
+アレルギー|dị ứng|私:わたし は 卵:たまご の アレルギー が あります 。|Tôi bị dị ứng trứng.
+めまい|chóng mặt|急:きゅう に めまい が しました 。|Tôi đột nhiên chóng mặt.
+助ける:たすける|cứu giúp|困って:こまって いる 人:ひと を 助けます:たすけます 。|Tôi cứu giúp người gặp khó khăn.
+医学:いがく|y học|兄:あに は 大学:だいがく で 医学:いがく を 勉強:べんきょう して います 。|Anh tôi học y học ở đại học.
+内科:ないか|khoa nội|風邪:かぜ の 時:とき は 内科:ないか へ 行きます:いきます 。|Khi bị cảm tôi đi khoa nội.
+外科:げか|khoa ngoại|怪我:けが で 外科:げか に 行きました:いきました 。|Tôi đã đến khoa ngoại vì bị thương.
+受診:じゅしん|đi khám|早く:はやく 病院:びょういん を 受診:じゅしん して ください 。|Hãy đi khám ở bệnh viện sớm.
+包帯:ほうたい|băng gạc|看護師:かんごし が 包帯:ほうたい を 巻きます:まきます 。|Y tá quấn băng gạc.
+マスク|khẩu trang|風邪:かぜ の 時:とき は マスク を します 。|Khi bị cảm tôi đeo khẩu trang.
+体重:たいじゅう|cân nặng|最近:さいきん 、 体重:たいじゅう が 増えました:ふえました 。|Gần đây cân nặng tôi tăng.
+身長:しんちょう|chiều cao|弟:おとうと の 身長:しんちょう は 高い:たかい です 。|Chiều cao của em trai tôi cao.
+息:いき|hơi thở|大きく:おおきく 息:いき を 吸って:すって ください 。|Hãy hít thở thật sâu.
+ダイエット|ăn kiêng giảm cân|姉:あね は ダイエット を して います 。|Chị tôi đang ăn kiêng giảm cân.
+@Du lịch và đi lại|Chuyến đi
+海外:かいがい|nước ngoài (hải ngoại)|来年:らいねん 、 海外:かいがい へ 行きます:いきます 。|Năm sau tôi ra nước ngoài.
+国内:こくない|trong nước|国内:こくない の 旅行:りょこう は 安い:やすい です 。|Du lịch trong nước rẻ.
+旅:たび|chuyến đi|一人:ひとり で 旅:たび を します 。|Tôi đi một chuyến một mình.
+計画:けいかく|kế hoạch|夏休み:なつやすみ の 計画:けいかく を 立てます:たてます 。|Tôi lập kế hoạch nghỉ hè.
+パスポート|hộ chiếu|パスポート を 忘れないで:わすれないで ください 。|Đừng quên hộ chiếu.
+ビザ|thị thực|日本:にほん の ビザ を 取ります:とります 。|Tôi xin thị thực Nhật.
+スーツケース|va li|大きい:おおきい スーツケース を 買いました:かいました 。|Tôi đã mua va li to.
+往復:おうふく|khứ hồi|往復:おうふく の 切符:きっぷ を 買います:かいます 。|Tôi mua vé khứ hồi.
+指定席:していせき|ghế đặt trước|新幹線:しんかんせん の 指定席:していせき を 取りました:とりました 。|Tôi đã đặt ghế trên tàu Shinkansen.
+席:せき|chỗ ngồi|窓:まど の そば の 席:せき が いい です 。|Tôi thích chỗ ngồi cạnh cửa sổ.
+満員:まんいん|chật kín người|朝:あさ の 電車:でんしゃ は 満員:まんいん です 。|Tàu buổi sáng chật kín người.
+特急:とっきゅう|tàu tốc hành đặc biệt|特急:とっきゅう に 乗ります:のります 。|Tôi đi tàu tốc hành đặc biệt.
+急行:きゅうこう|tàu nhanh|急行:きゅうこう は この 駅:えき に 止まりません:とまりません 。|Tàu nhanh không dừng ở ga này.
+普通:ふつう|bình thường; tàu thường|普通:ふつう の 電車:でんしゃ で 行きます:いきます 。|Tôi đi bằng tàu thường.
+終点:しゅうてん|ga cuối|この バス の 終点:しゅうてん は 空港:くうこう です 。|Điểm cuối của xe buýt này là sân bay.
+改札:かいさつ|cửa soát vé|改札:かいさつ の 前:まえ で 会いましょう:あいましょう 。|Gặp nhau trước cửa soát vé nhé.
+ホーム|sân ga|三番:さんばん の ホーム で 待ちます:まちます 。|Tôi đợi ở sân ga số ba.
+乗客:じょうきゃく|hành khách|バス の 乗客:じょうきゃく は 少ない:すくない です 。|Hành khách trên xe buýt ít.
+時差:じさ|chênh lệch múi giờ|日本:にほん と ベトナム の 時差:じさ は 二時間:にじかん です 。|Chênh lệch múi giờ giữa Nhật và Việt Nam là hai tiếng.
+温泉:おんせん|suối nước nóng|冬:ふゆ は 温泉:おんせん に 行きます:いきます 。|Mùa đông tôi đi suối nước nóng.
+お城:おしろ|lâu đài|大阪:おおさか で お城:おしろ を 見ました:みました 。|Tôi đã xem lâu đài ở Osaka.
+名所:めいしょ|danh thắng|京都:きょうと に は 名所:めいしょ が 多い:おおい です 。|Kyoto có nhiều danh thắng.
+記念:きねん|kỷ niệm (sự kiện)|記念:きねん に 写真:しゃしん を 撮ります:とります 。|Tôi chụp ảnh làm kỷ niệm.
+絵はがき:えはがき|bưu thiếp có hình|旅行:りょこう の 絵はがき:えはがき を 送ります:おくります 。|Tôi gửi bưu thiếp có hình từ chuyến du lịch.
+@Thành phố và đường sá|Chỉ đường
+歩道:ほどう|vỉa hè|歩道:ほどう を 歩いて:あるいて ください 。|Hãy đi trên vỉa hè.
+横断歩道:おうだんほどう|vạch qua đường|横断歩道:おうだんほどう を 渡ります:わたります 。|Tôi qua đường ở vạch dành cho người đi bộ.
+踏切:ふみきり|chỗ chắn tàu|踏切:ふみきり の 前:まえ で 止まります:とまります 。|Tôi dừng trước chỗ chắn tàu.
+突き当たり:つきあたり|cuối đường (ngõ cụt)|突き当たり:つきあたり を 左:ひだり に 曲がります:まがります 。|Đến cuối đường thì rẽ trái.
+向かい:むかい|đối diện|駅:えき の 向かい:むかい に 銀行:ぎんこう が あります 。|Đối diện ga có ngân hàng.
+手前:てまえ|phía trước (gần mình)|信号:しんごう の 手前:てまえ で 止めて:とめて ください 。|Hãy dừng ở phía trước đèn giao thông.
+方向:ほうこう|phương hướng|駅:えき は どの 方向:ほうこう です か 。|Ga ở hướng nào?
+反対:はんたい|ngược lại, phản đối|駅:えき は 反対:はんたい の 方向:ほうこう です 。|Ga ở hướng ngược lại.
+中心:ちゅうしん|trung tâm|町:まち の 中心:ちゅうしん に 公園:こうえん が あります 。|Ở trung tâm thị trấn có công viên.
+郊外:こうがい|ngoại ô|私:わたし は 郊外:こうがい に 住んで:すんで います 。|Tôi sống ở ngoại ô.
+都会:とかい|đô thị|都会:とかい の 生活:せいかつ は 忙しい:いそがしい です 。|Cuộc sống đô thị bận rộn.
+市:し|thành phố (đơn vị)|この 市:し の 人口:じんこう は 十万:じゅうまん 人:にん です 。|Dân số thành phố này là mười vạn người.
+県:けん|tỉnh|私:わたし は 千葉:ちば 県:けん に 住んで:すんで います 。|Tôi sống ở tỉnh Chiba.
+地方:ちほう|địa phương, vùng|この 地方:ちほう は 雪:ゆき が 多い:おおい です 。|Vùng này nhiều tuyết.
+首都:しゅと|thủ đô|日本:にほん の 首都:しゅと は 東京:とうきょう です 。|Thủ đô của Nhật là Tokyo.
+商店街:しょうてんがい|khu phố mua sắm|商店街:しょうてんがい で 買い物:かいもの を します 。|Tôi mua sắm ở khu phố mua sắm.
+広場:ひろば|quảng trường|駅:えき の 前:まえ に 広場:ひろば が あります 。|Trước ga có quảng trường.
+噴水:ふんすい|đài phun nước|公園:こうえん の 噴水:ふんすい の 前:まえ で 待ちます:まちます 。|Tôi đợi trước đài phun nước trong công viên.
+ベンチ|ghế băng|公園:こうえん の ベンチ に 座ります:すわります 。|Tôi ngồi trên ghế băng công viên.
+看板:かんばん|biển hiệu|店:みせ の 看板:かんばん が 見えます:みえます 。|Tôi nhìn thấy biển hiệu cửa hàng.
+ガソリンスタンド|trạm xăng|ガソリンスタンド で 車:くるま を 止めます:とめます 。|Tôi dừng xe ở trạm xăng.
+消防署:しょうぼうしょ|trạm cứu hỏa|消防署:しょうぼうしょ は 学校:がっこう の 隣:となり です 。|Trạm cứu hỏa ở cạnh trường.
+幼稚園:ようちえん|trường mẫu giáo|娘:むすめ は 幼稚園:ようちえん に 通って:かよって います 。|Con gái tôi đang đi mẫu giáo.
+体育館:たいいくかん|nhà thể chất|体育館:たいいくかん で バスケットボール を します 。|Tôi chơi bóng rổ ở nhà thể chất.
+博物館:はくぶつかん|viện bảo tàng|博物館:はくぶつかん で 古い:ふるい 物:もの を 見ます:みます 。|Tôi xem đồ cổ ở viện bảo tàng.
+水族館:すいぞくかん|thủy cung|子供:こども と 水族館:すいぞくかん へ 行きます:いきます 。|Tôi đi thủy cung với con.
+遊園地:ゆうえんち|công viên giải trí|日曜日:にちようび に 遊園地:ゆうえんち で 遊びます:あそびます 。|Chủ nhật tôi chơi ở công viên giải trí.
+美容院:びよういん|tiệm làm tóc|美容院:びよういん で 髪:かみ を 切ります:きります 。|Tôi cắt tóc ở tiệm làm tóc.
+床屋:とこや|tiệm cắt tóc nam|父:ちち は 月:つき に 一回:いっかい 床屋:とこや へ 行きます:いきます 。|Bố tôi đi tiệm cắt tóc mỗi tháng một lần.
+クリーニング|giặt là|背広:せびろ を クリーニング に 出します:だします 。|Tôi mang com lê đi giặt là.
+@Công sở|Nơi làm việc
+事務:じむ|công việc văn phòng|姉:あね は 事務:じむ の 仕事:しごと を して います 。|Chị tôi làm công việc văn phòng.
+課長:かちょう|trưởng phòng (cấp khóa)|課長:かちょう に 書類:しょるい を 渡します:わたします 。|Tôi đưa giấy tờ cho trưởng phòng.
+部下:ぶか|cấp dưới|部下:ぶか に 仕事:しごと を 頼みます:たのみます 。|Tôi giao việc cho cấp dưới.
+新入社員:しんにゅうしゃいん|nhân viên mới|四月:しがつ に 新入社員:しんにゅうしゃいん が 入ります:はいります 。|Tháng tư nhân viên mới vào.
+受付係:うけつけがかり|nhân viên lễ tân|受付係:うけつけがかり に 名前:なまえ を 言います:いいます 。|Tôi nói tên với nhân viên lễ tân.
+会議室:かいぎしつ|phòng họp|会議室:かいぎしつ は 三階:さんがい です 。|Phòng họp ở tầng ba.
+打ち合わせ:うちあわせ|buổi bàn bạc|午後:ごご 、 打ち合わせ:うちあわせ が あります 。|Buổi chiều có buổi bàn bạc.
+予定表:よていひょう|bảng lịch trình|予定表:よていひょう を 見て:みて ください 。|Hãy xem bảng lịch trình.
+通勤:つうきん|đi làm (đi lại)|通勤:つうきん に 一時間:いちじかん かかります 。|Đi làm mất một tiếng.
+退社:たいしゃ|rời công ty, tan sở|今日:きょう は 六時:ろくじ に 退社:たいしゃ します 。|Hôm nay tôi tan sở lúc sáu giờ.
+休暇:きゅうか|kỳ nghỉ phép|来週:らいしゅう 、 休暇:きゅうか を 取ります:とります 。|Tuần sau tôi nghỉ phép.
+ボーナス|tiền thưởng|夏:なつ に ボーナス が 出ます:でます 。|Mùa hè có tiền thưởng.

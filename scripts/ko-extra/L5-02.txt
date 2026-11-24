@@ -1,0 +1,97 @@
+=5
+@Triết học và logic|Tư duy trừu tượng
+인식론|nhận thức luận|인식론은 철학의 한 분야입니다.|Nhận thức luận là một ngành của triết học.
+윤리학|đạo đức học|윤리학 강의를 수강합니다.|Tôi học môn đạo đức học.
+형이상학|siêu hình học|형이상학은 이해하기 어렵습니다.|Siêu hình học khó hiểu.
+유물론|chủ nghĩa duy vật|유물론의 관점에서 설명합니다.|Giải thích từ quan điểm duy vật.
+관념론|chủ nghĩa duy tâm|관념론과 유물론을 비교합니다.|So sánh chủ nghĩa duy tâm và duy vật.
+실존|sự hiện sinh|인간의 실존을 탐구합니다.|Khám phá sự hiện sinh của con người.
+이성|lý tính; khác giới|인간은 이성을 가진 존재입니다.|Con người là thực thể có lý tính.
+감성|cảm tính|이성과 감성의 균형이 필요합니다.|Cần cân bằng lý tính và cảm tính.
+직관|trực giác|직관에 의존해서 결정했습니다.|Đã quyết định dựa vào trực giác.
+명제|mệnh đề|이 명제는 참입니다.|Mệnh đề này đúng.
+추론|sự suy luận|논리적인 추론이 필요합니다.|Cần suy luận logic.
+귀납|quy nạp|귀납적 방법으로 결론을 얻습니다.|Rút ra kết luận bằng phương pháp quy nạp.
+연역|diễn dịch|연역적으로 증명합니다.|Chứng minh theo lối diễn dịch.
+역설|nghịch lý|이것은 흥미로운 역설입니다.|Đây là một nghịch lý thú vị.
+오류추리|ngụy biện suy luận|그 주장에는 오류추리가 있습니다.|Chủ trương đó có ngụy biện suy luận.
+궤변|lời ngụy biện|그의 말은 궤변에 불과합니다.|Lời anh ta chẳng qua là ngụy biện.
+당위|lẽ tất yếu phải làm|도덕적 당위를 강조합니다.|Nhấn mạnh lẽ tất yếu về đạo đức.
+필연|tất nhiên, tất yếu|그 결과는 필연이었습니다.|Kết quả đó là tất yếu.
+우연|sự ngẫu nhiên|모든 것은 우연이 아닙니다.|Mọi thứ không phải ngẫu nhiên.
+인과|nhân quả|두 사건의 인과 관계를 밝힙니다.|Làm rõ quan hệ nhân quả của hai sự kiện.
+범주|phạm trù|같은 범주에 속합니다.|Thuộc cùng một phạm trù.
+실체|thực thể|사건의 실체가 드러났습니다.|Thực thể của vụ việc đã lộ ra.
+현상학|hiện tượng học|현상학을 전공했습니다.|Tôi đã học chuyên ngành hiện tượng học.
+가치관|quan niệm giá trị|세대마다 가치관이 다릅니다.|Mỗi thế hệ có quan niệm giá trị khác nhau.
+세계관|thế giới quan|작가의 세계관이 드러납니다.|Thế giới quan của tác giả được bộc lộ.
+인생관|nhân sinh quan|그의 인생관에 공감합니다.|Tôi đồng cảm với nhân sinh quan của ông ấy.
+회의주의|chủ nghĩa hoài nghi|회의주의적 태도를 보입니다.|Tỏ thái độ hoài nghi.
+허무|sự hư vô|삶의 허무를 느꼈습니다.|Đã cảm thấy sự hư vô của cuộc đời.
+@Văn học và ngôn ngữ học|Thuật ngữ ngữ văn
+서사|tự sự|이 작품은 서사 구조가 탄탄합니다.|Tác phẩm này có cấu trúc tự sự vững chắc.
+서정|trữ tình|서정적인 시를 좋아합니다.|Tôi thích thơ trữ tình.
+운율|vần luật|시의 운율을 느낍니다.|Cảm nhận vần luật của bài thơ.
+은유|ẩn dụ|은유를 사용하여 표현합니다.|Diễn đạt bằng ẩn dụ.
+풍자|sự châm biếm|사회를 풍자한 소설입니다.|Đó là tiểu thuyết châm biếm xã hội.
+반어|phản ngữ, nói ngược|반어적 표현이 돋보입니다.|Lối nói ngược nổi bật.
+복선|chi tiết cài trước|작가가 복선을 깔았습니다.|Tác giả đã cài chi tiết báo trước.
+갈등구조|cấu trúc mâu thuẫn|소설의 갈등구조를 분석합니다.|Phân tích cấu trúc mâu thuẫn của tiểu thuyết.
+시점|điểm nhìn; thời điểm|일인칭 시점으로 서술합니다.|Trần thuật từ điểm nhìn ngôi thứ nhất.
+문체|văn phong|그 작가는 문체가 간결합니다.|Nhà văn đó có văn phong súc tích.
+장르|thể loại|다양한 장르의 영화를 봅니다.|Tôi xem phim thuộc nhiều thể loại.
+평론|bài bình luận phê bình|문학 평론을 발표했습니다.|Đã công bố bài phê bình văn học.
+고전|tác phẩm kinh điển|고전을 읽는 것이 중요합니다.|Đọc tác phẩm kinh điển là điều quan trọng.
+번안|sự phóng tác|외국 소설을 번안했습니다.|Đã phóng tác tiểu thuyết nước ngoài.
+구비문학|văn học truyền miệng|구비문학을 수집합니다.|Sưu tầm văn học truyền miệng.
+음운|âm vị|한국어의 음운 체계를 배웁니다.|Học hệ thống âm vị tiếng Hàn.
+형태소|hình vị|단어를 형태소로 나눕니다.|Chia từ thành hình vị.
+통사론|cú pháp học|통사론 수업을 듣습니다.|Tôi học môn cú pháp học.
+의미론|ngữ nghĩa học|의미론을 연구합니다.|Nghiên cứu ngữ nghĩa học.
+외래어|từ ngoại lai|외래어 사용이 늘었습니다.|Việc dùng từ ngoại lai đã tăng.
+한자어|từ Hán Hàn|한국어에는 한자어가 많습니다.|Tiếng Hàn có nhiều từ Hán Hàn.
+고유어|từ thuần Hàn|고유어를 살려 씁니다.|Dùng và giữ gìn từ thuần Hàn.
+신조어|từ mới đặt|젊은 세대가 신조어를 만듭니다.|Thế hệ trẻ tạo ra từ mới.
+띄어쓰기|cách viết cách chữ|띄어쓰기가 어렵습니다.|Cách viết cách chữ rất khó.
+높임법|phép kính ngữ|한국어의 높임법은 복잡합니다.|Phép kính ngữ tiếng Hàn phức tạp.
+어순|trật tự từ|한국어와 영어는 어순이 다릅니다.|Tiếng Hàn và tiếng Anh khác trật tự từ.
+@Xã hội học và chính trị học|Lý luận xã hội
+사회학|xã hội học|사회학을 전공합니다.|Tôi học chuyên ngành xã hội học.
+인류학|nhân học|문화 인류학 강의를 듣습니다.|Tôi nghe giảng nhân học văn hóa.
+자본주의|chủ nghĩa tư bản|자본주의 사회의 문제를 다룹니다.|Bàn về vấn đề của xã hội tư bản.
+사회주의|chủ nghĩa xã hội|사회주의 이론을 공부합니다.|Học lý luận chủ nghĩa xã hội.
+민족주의|chủ nghĩa dân tộc|민족주의가 강해졌습니다.|Chủ nghĩa dân tộc đã mạnh lên.
+전체주의|chủ nghĩa toàn trị|전체주의를 비판합니다.|Phê phán chủ nghĩa toàn trị.
+독재|chế độ độc tài|독재 정권이 무너졌습니다.|Chính quyền độc tài đã sụp đổ.
+정권|chính quyền|정권이 교체되었습니다.|Chính quyền đã được thay thế.
+주권|chủ quyền|국민에게 주권이 있습니다.|Chủ quyền thuộc về nhân dân.
+삼권분립|tam quyền phân lập|삼권분립은 민주 국가의 원칙입니다.|Tam quyền phân lập là nguyên tắc của nước dân chủ.
+시민사회|xã hội dân sự|시민사회의 역할이 커졌습니다.|Vai trò của xã hội dân sự đã lớn hơn.
+여론조사|thăm dò dư luận|여론조사 결과를 발표했습니다.|Đã công bố kết quả thăm dò dư luận.
+기득권|quyền lợi đã có sẵn|기득권을 내려놓아야 합니다.|Phải buông bỏ quyền lợi đã có sẵn.
+소수자|người thiểu số (yếu thế)|소수자의 권리를 보호합니다.|Bảo vệ quyền của người thiểu số.
+불평등|sự bất bình đẳng|사회적 불평등이 심화됩니다.|Bất bình đẳng xã hội trầm trọng thêm.
+계층이동|sự dịch chuyển tầng lớp|계층이동이 어려워졌습니다.|Việc dịch chuyển tầng lớp đã khó hơn.
+사회보장|an sinh xã hội|사회보장 제도를 확대합니다.|Mở rộng chế độ an sinh xã hội.
+공론|công luận|공론의 장을 마련합니다.|Tạo diễn đàn cho công luận.
+담론|diễn ngôn|새로운 담론이 형성되었습니다.|Một diễn ngôn mới đã hình thành.
+패러다임|hệ hình, mô thức|패러다임이 바뀌고 있습니다.|Mô thức đang thay đổi.
+헤게모니|quyền bá chủ|헤게모니를 장악했습니다.|Đã nắm quyền bá chủ.
+포퓰리즘|chủ nghĩa dân túy|포퓰리즘 정책을 경계합니다.|Cảnh giác với chính sách dân túy.
+관료|quan chức|관료 조직은 변화가 느립니다.|Bộ máy quan chức thay đổi chậm.
+@Động từ trang trọng|Dùng trong văn viết
+간과하다|bỏ qua, xem nhẹ|중요한 사실을 간과했습니다.|Đã bỏ qua một sự thật quan trọng.
+감안하다|cân nhắc đến|상황을 감안하여 결정합니다.|Quyết định có cân nhắc tình hình.
+고려하다|xem xét|여러 조건을 고려합니다.|Xem xét nhiều điều kiện.
+간추리다|tóm lược|내용을 간추려 말합니다.|Nói tóm lược nội dung.
+구축하다|xây dựng (hệ thống)|새 시스템을 구축했습니다.|Đã xây dựng hệ thống mới.
+구현하다|hiện thực hóa|이상을 구현합니다.|Hiện thực hóa lý tưởng.
+도모하다|mưu cầu|회원 간의 친목을 도모합니다.|Mưu cầu sự thân thiết giữa các thành viên.
+동원하다|huy động|모든 수단을 동원했습니다.|Đã huy động mọi phương tiện.
+마련하다|chuẩn bị, lo liệu|대책을 마련합니다.|Lo liệu đối sách.
+명시하다|ghi rõ|계약서에 조건을 명시했습니다.|Đã ghi rõ điều kiện trong hợp đồng.
+부각하다|làm nổi bật|장점을 부각합니다.|Làm nổi bật ưu điểm.
+부여하다|trao cho, gán cho|의미를 부여합니다.|Gán cho ý nghĩa.
+산출하다|tính ra, tạo ra|비용을 산출합니다.|Tính ra chi phí.
+상정하다|giả định; trình (dự luật)|최악의 상황을 상정합니다.|Giả định tình huống xấu nhất.
+수립하다|thiết lập|계획을 수립했습니다.|Đã thiết lập kế hoạch.

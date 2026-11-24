@@ -3,7 +3,7 @@
   {"unit":22,"level":2,"title":"Phần 2: Ra ngoài và giao tiếp","desc":"Du lịch, thành phố, liên lạc, học tập, sinh hoạt","color":"sky","course":"ja"}
  ],
  "lessons": [
-  {"id":"ja206","title":"Du lịch","desc":"Khách sạn, hộ chiếu, đặt chỗ","icon":"旅","unit":22,"course":"ja","order":210,"words":[
+  {"id":"ja206","title":"Du lịch","desc":"Khách sạn, hộ chiếu, đặt chỗ","icon":"旅","unit":22,"course":"ja","order":890,"words":[
    {"id":"ja206-ホテル","hanzi":"ホテル","pinyin":"hoteru","vi":"khách sạn","ex":{"tokens":["海","が","見える","ホテル","を","予約","しました","。"],"py":["umi","ga","mieru","hoteru","o","yoyaku","shimashita","."],"vi":"Tôi đã đặt khách sạn nhìn ra biển.","alts":[]}},
    {"id":"ja206-予約","hanzi":"予約","pinyin":"yoyaku","vi":"việc đặt trước","ex":{"tokens":["レストラン","の","予約","を","お願い","します","。"],"py":["resutoran","no","yoyaku","o","onegai","shimasu","."],"vi":"Làm ơn cho tôi đặt bàn nhà hàng.","alts":[]}},
    {"id":"ja206-出発","hanzi":"出発","pinyin":"shuppatsu","vi":"sự khởi hành","ex":{"tokens":["電車","は","九時","に","出発","します","。"],"py":["densha","wa","kuji","ni","shuppatsu","shimasu","."],"vi":"Tàu khởi hành lúc chín giờ.","alts":[]}},
@@ -17,7 +17,7 @@
    {"id":"ja206-お土産","hanzi":"お土産","pinyin":"omiyage","vi":"quà lưu niệm","ex":{"tokens":["家族","に","お土産","を","買いました","。"],"py":["kazoku","ni","omiyage","o","kaimashita","."],"vi":"Tôi đã mua quà lưu niệm cho gia đình.","alts":[]}},
    {"id":"ja206-案内","hanzi":"案内","pinyin":"annai","vi":"sự hướng dẫn","ex":{"tokens":["友達","が","町","を","案内","して","くれました","。"],"py":["tomodachi","ga","machi","o","annai","shite","kuremashita","."],"vi":"Bạn tôi đã dẫn tôi đi tham quan thị trấn.","alts":[]}}
   ]},
-  {"id":"ja207","title":"Thành phố và chỉ đường","desc":"Ngã tư, đèn giao thông, rẽ","icon":"町","unit":22,"course":"ja","order":220,"words":[
+  {"id":"ja207","title":"Thành phố và chỉ đường","desc":"Ngã tư, đèn giao thông, rẽ","icon":"町","unit":22,"course":"ja","order":900,"words":[
    {"id":"ja207-町","hanzi":"町","pinyin":"machi","vi":"thị trấn, khu phố","ex":{"tokens":["この","町","は","静か","で","住みやすい","です","。"],"py":["kono","machi","wa","shizuka","de","sumiyasui","desu","."],"vi":"Thị trấn này yên tĩnh và dễ sống.","alts":[]}},
    {"id":"ja207-田舎","hanzi":"田舎","pinyin":"inaka","vi":"nông thôn, quê","ex":{"tokens":["祖母","は","静か","な","田舎","に","住んで","います","。"],"py":["sobo","wa","shizuka","na","inaka","ni","sunde","imasu","."],"vi":"Bà tôi sống ở vùng quê yên tĩnh.","alts":[]}},
    {"id":"ja207-建物","hanzi":"建物","pinyin":"tatemono","vi":"tòa nhà","ex":{"tokens":["あの","高い","建物","は","私","の","会社","です","。"],"py":["ano","takai","tatemono","wa","watashi","no","kaisha","desu","."],"vi":"Tòa nhà cao kia là công ty tôi.","alts":[]}},
@@ -31,7 +31,7 @@
    {"id":"ja207-橋","hanzi":"橋","pinyin":"hashi","vi":"cây cầu","ex":{"tokens":["この","橋","を","渡って","まっすぐ","行きます","。"],"py":["kono","hashi","o","watatte","massugu","ikimasu","."],"vi":"Qua cây cầu này rồi đi thẳng.","alts":[]}},
    {"id":"ja207-角","hanzi":"角","pinyin":"kado","vi":"góc (đường)","ex":{"tokens":["あの","角","に","コンビニ","が","あります","。"],"py":["ano","kado","ni","konbini","ga","arimasu","."],"vi":"Ở góc đường kia có cửa hàng tiện lợi.","alts":[]}}
   ]},
-  {"id":"ja208","title":"Liên lạc","desc":"Điện thoại, tin nhắn, internet","icon":"電","unit":22,"course":"ja","order":230,"words":[
+  {"id":"ja208","title":"Liên lạc","desc":"Điện thoại, tin nhắn, internet","icon":"電","unit":22,"course":"ja","order":910,"words":[
    {"id":"ja208-電話","hanzi":"電話","pinyin":"denwa","vi":"điện thoại, cuộc gọi","ex":{"tokens":["母","に","毎日","電話","を","かけます","。"],"py":["haha","ni","mainichi","denwa","o","kakemasu","."],"vi":"Tôi gọi điện cho mẹ mỗi ngày.","alts":[]}},
    {"id":"ja208-携帯","hanzi":"携帯","pinyin":"keitai","vi":"điện thoại di động","ex":{"tokens":["携帯","を","家","に","忘れました","。"],"py":["keitai","o","ie","ni","wasuremashita","."],"vi":"Tôi để quên điện thoại ở nhà.","alts":[]}},
    {"id":"ja208-番号","hanzi":"番号","pinyin":"bangou","vi":"số","ex":{"tokens":["電話","の","番号","を","教えて","ください","。"],"py":["denwa","no","bangou","o","oshiete","kudasai","."],"vi":"Xin hãy cho tôi biết số điện thoại.","alts":[]}},
@@ -45,7 +45,7 @@
    {"id":"ja208-返事","hanzi":"返事","pinyin":"henji","vi":"câu trả lời, hồi âm","ex":{"tokens":["メール","の","返事","を","まだ","もらって","いません","。"],"py":["meeru","no","henji","o","mada","moratte","imasen","."],"vi":"Tôi chưa nhận được hồi âm thư.","alts":[]}},
    {"id":"ja208-伝える","hanzi":"伝える","pinyin":"tsutaeru","vi":"truyền đạt, nhắn lại","ex":{"tokens":["田中","さん","に","よろしく","と","伝える","。"],"py":["tanaka","san","ni","yoroshiku","to","tsutaeru","."],"vi":"Nhắn lời hỏi thăm đến anh Tanaka.","alts":[]}}
   ]},
-  {"id":"ja209","title":"Học tập","desc":"Đại học, chuyên ngành, luyện tập","icon":"習","unit":22,"course":"ja","order":240,"words":[
+  {"id":"ja209","title":"Học tập","desc":"Đại học, chuyên ngành, luyện tập","icon":"習","unit":22,"course":"ja","order":920,"words":[
    {"id":"ja209-大学","hanzi":"大学","pinyin":"daigaku","vi":"trường đại học","ex":{"tokens":["来年","大学","に","入ります","。"],"py":["rainen","daigaku","ni","hairimasu","."],"vi":"Năm sau tôi vào đại học.","alts":[]}},
    {"id":"ja209-専門","hanzi":"専門","pinyin":"senmon","vi":"chuyên ngành","ex":{"tokens":["私","の","専門","は","日本語","の","教育","です","。"],"py":["watashi","no","senmon","wa","nihongo","no","kyouiku","desu","."],"vi":"Chuyên ngành của tôi là giáo dục tiếng Nhật.","alts":[]}},
    {"id":"ja209-授業","hanzi":"授業","pinyin":"jugyou","vi":"tiết học","ex":{"tokens":["午前","の","授業","は","九時","に","始まります","。"],"py":["gozen","no","jugyou","wa","kuji","ni","hajimarimasu","."],"vi":"Tiết học buổi sáng bắt đầu lúc chín giờ.","alts":[]}},
@@ -59,7 +59,7 @@
    {"id":"ja209-文法","hanzi":"文法","pinyin":"bunpou","vi":"ngữ pháp","ex":{"tokens":["日本語","の","文法","は","少し","難しい","です","。"],"py":["nihongo","no","bunpou","wa","sukoshi","muzukashii","desu","."],"vi":"Ngữ pháp tiếng Nhật hơi khó.","alts":[]}},
    {"id":"ja209-卒業","hanzi":"卒業","pinyin":"sotsugyou","vi":"sự tốt nghiệp","ex":{"tokens":["兄","は","去年","大学","を","卒業","しました","。"],"py":["ani","wa","kyonen","daigaku","o","sotsugyou","shimashita","."],"vi":"Anh tôi đã tốt nghiệp đại học năm ngoái.","alts":[]}}
   ]},
-  {"id":"ja210","title":"Sinh hoạt hằng ngày","desc":"Tắm rửa, dọn dẹp, nấu ăn, gặp gỡ","icon":"生","unit":22,"course":"ja","order":250,"words":[
+  {"id":"ja210","title":"Sinh hoạt hằng ngày","desc":"Tắm rửa, dọn dẹp, nấu ăn, gặp gỡ","icon":"生","unit":22,"course":"ja","order":930,"words":[
    {"id":"ja210-生活","hanzi":"生活","pinyin":"seikatsu","vi":"cuộc sống, sinh hoạt","ex":{"tokens":["日本","の","生活","に","慣れました","。"],"py":["nihon","no","seikatsu","ni","naremashita","."],"vi":"Tôi đã quen với cuộc sống ở Nhật.","alts":[]}},
    {"id":"ja210-洗う","hanzi":"洗う","pinyin":"arau","vi":"rửa, giặt","ex":{"tokens":["家","に","帰ったら","手","を","洗う","。"],"py":["ie","ni","kaettara","te","o","arau","."],"vi":"Về nhà thì rửa tay.","alts":[]}},
    {"id":"ja210-掃除","hanzi":"掃除","pinyin":"souji","vi":"việc dọn dẹp","ex":{"tokens":["週末","に","部屋","を","掃除","します","。"],"py":["shuumatsu","ni","heya","o","souji","shimasu","."],"vi":"Cuối tuần tôi dọn phòng.","alts":[]}},

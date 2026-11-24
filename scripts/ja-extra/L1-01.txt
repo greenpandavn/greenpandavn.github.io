@@ -1,0 +1,69 @@
+=1
+@Chào hỏi và lịch sự|Câu nói hằng ngày
+おやすみなさい|chúc ngủ ngon|お母さん:おかあさん 、 おやすみなさい 。|Mẹ ơi, chúc mẹ ngủ ngon.
+ごちそうさま|cảm ơn vì bữa ăn|ごちそうさま 、 おいしかった です 。|Cảm ơn vì bữa ăn, ngon lắm ạ.
+ただいま|con đã về|ただいま 、 お母さん:おかあさん 。|Con đã về rồi mẹ ơi.
+おかえりなさい|mừng bạn đã về|おかえりなさい 、 疲れた:つかれた でしょう 。|Mừng anh đã về, chắc anh mệt rồi.
+いってきます|con đi đây|いってきます 、 八時:はちじ に 帰ります:かえります 。|Con đi đây, tám giờ con về.
+いってらっしゃい|đi cẩn thận nhé|いってらっしゃい 、 気:き を つけて 。|Đi cẩn thận nhé.
+はじめまして|rất vui được gặp lần đầu|はじめまして 、 山田:やまだ です 。|Rất vui được gặp, tôi là Yamada.
+よろしく|mong được giúp đỡ|どうぞ よろしく お願い:おねがい します 。|Rất mong được anh chị giúp đỡ.
+ごめんなさい|xin lỗi (thân mật)|遅れて:おくれて ごめんなさい 。|Xin lỗi vì đã đến muộn.
+おめでとう|chúc mừng|誕生日:たんじょうび おめでとう 。|Chúc mừng sinh nhật.
+もしもし|a lô|もしもし 、 田中:たなか さん です か 。|A lô, anh Tanaka phải không ạ?
+じゃあね|thế nhé, tạm biệt|じゃあね 、 また 来週:らいしゅう 。|Thế nhé, tuần sau gặp lại.
+ようこそ|chào mừng|日本:にほん へ ようこそ 。|Chào mừng đến Nhật Bản.
+@Đại từ và từ chỉ định|Này, kia, đó
+これ|cái này|これ は 私:わたし の 本:ほん です 。|Cái này là sách của tôi.
+それ|cái đó|それ は 何:なん です か 。|Cái đó là gì vậy?
+あれ|cái kia|あれ は 富士山:ふじさん です 。|Kia là núi Phú Sĩ.
+どれ|cái nào|あなた の 傘:かさ は どれ です か 。|Ô của bạn là cái nào?
+この|này (đứng trước danh từ)|この 店:みせ は 安い:やすい です 。|Cửa hàng này rẻ.
+その|đó (đứng trước danh từ)|その かばん は 誰:だれ の です か 。|Cái cặp đó của ai vậy?
+あの|kia (đứng trước danh từ)|あの 人:ひと は 先生:せんせい です 。|Người kia là giáo viên.
+どの|nào (đứng trước danh từ)|どの バス に 乗ります:のります か 。|Bạn đi xe buýt nào?
+そこ|chỗ đó|そこ に 座って:すわって ください 。|Hãy ngồi ở chỗ đó.
+あそこ|chỗ kia|あそこ に 銀行:ぎんこう が あります 。|Ở chỗ kia có ngân hàng.
+こちら|phía này; vị này|こちら は 山田:やまだ さん です 。|Vị này là anh Yamada.
+そちら|phía đó|そちら は 寒い:さむい です か 。|Bên đó có lạnh không?
+あちら|phía kia|お手洗い:おてあらい は あちら です 。|Nhà vệ sinh ở phía kia.
+どちら|phía nào; cái nào (lịch sự)|お国:おくに は どちら です か 。|Anh là người nước nào ạ?
+あなた|bạn, anh, chị|あなた は 学生:がくせい です か 。|Bạn là học sinh à?
+彼:かれ|anh ấy|彼:かれ は 親切:しんせつ です 。|Anh ấy tốt bụng.
+彼女:かのじょ|cô ấy; bạn gái|彼女:かのじょ は 歌:うた が 上手:じょうず です 。|Cô ấy hát hay.
+私たち:わたしたち|chúng tôi|私たち:わたしたち は 友達:ともだち です 。|Chúng tôi là bạn bè.
+みなさん|mọi người (lịch sự)|みなさん 、 おはよう ございます 。|Chào buổi sáng mọi người.
+いくつ|mấy cái; mấy tuổi|りんご は いくつ あります か 。|Có mấy quả táo?
+いくら|bao nhiêu tiền|この 靴:くつ は いくら です か 。|Đôi giày này bao nhiêu tiền?
+いつ|khi nào|いつ 日本:にほん へ 行きます:いきます か 。|Khi nào bạn đi Nhật?
+どう|thế nào|日本:にほん の 生活:せいかつ は どう です か 。|Cuộc sống ở Nhật thế nào?
+どうして|tại sao|どうして 遅れました:おくれました か 。|Tại sao bạn đến muộn?
+どんな|như thế nào (loại gì)|どんな 音楽:おんがく が 好き:すき です か 。|Bạn thích nhạc như thế nào?
+@Số và đơn vị đếm|Đếm đồ vật, người
+零:れい|số không|気温:きおん は 零:れい 度:ど です 。|Nhiệt độ là không độ.
+半分:はんぶん|một nửa|パン を 半分:はんぶん 食べました:たべました 。|Tôi đã ăn một nửa cái bánh mì.
+一つ:ひとつ|một cái|りんご を 一つ:ひとつ ください 。|Cho tôi một quả táo.
+二つ:ふたつ|hai cái|卵:たまご を 二つ:ふたつ 使います:つかいます 。|Tôi dùng hai quả trứng.
+三つ:みっつ|ba cái|椅子:いす が 三つ:みっつ あります 。|Có ba cái ghế.
+四つ:よっつ|bốn cái|みかん を 四つ:よっつ 買いました:かいました 。|Tôi đã mua bốn quả quýt.
+五つ:いつつ|năm cái|箱:はこ が 五つ:いつつ あります 。|Có năm cái hộp.
+一人:ひとり|một người|一人:ひとり で 住んで:すんで います 。|Tôi sống một mình.
+二人:ふたり|hai người|子供:こども が 二人:ふたり います 。|Tôi có hai đứa con.
+一回:いっかい|một lần|週:しゅう に 一回:いっかい 泳ぎます:およぎます 。|Tôi bơi một tuần một lần.
+一番:いちばん|số một, nhất|果物:くだもの で りんご が 一番:いちばん 好き:すき です 。|Trong các loại quả tôi thích táo nhất.
+@Thời gian trong ngày|Giờ, phút, buổi
+午前:ごぜん|buổi sáng (AM)|午前:ごぜん 九時:くじ に 始まります:はじまります 。|Bắt đầu lúc chín giờ sáng.
+午後:ごご|buổi chiều (PM)|午後:ごご は 暇:ひま です 。|Buổi chiều tôi rảnh.
+昼:ひる|buổi trưa|昼:ひる は 食堂:しょくどう で 食べます:たべます 。|Buổi trưa tôi ăn ở nhà ăn.
+晩:ばん|buổi tối|晩:ばん は 家:いえ に います 。|Buổi tối tôi ở nhà.
+夕方:ゆうがた|chiều tối|夕方:ゆうがた 、 公園:こうえん を 歩きます:あるきます 。|Chiều tối tôi đi bộ ở công viên.
+今朝:けさ|sáng nay|今朝:けさ 、 六時:ろくじ に 起きました:おきました 。|Sáng nay tôi dậy lúc sáu giờ.
+今晩:こんばん|tối nay|今晩:こんばん 、 映画:えいが を 見ます:みます 。|Tối nay tôi xem phim.
+毎朝:まいあさ|mỗi sáng|毎朝:まいあさ 、 コーヒー を 飲みます:のみます 。|Mỗi sáng tôi uống cà phê.
+毎晩:まいばん|mỗi tối|毎晩:まいばん 、 本:ほん を 読みます:よみます 。|Mỗi tối tôi đọc sách.
+半:はん|rưỡi|七時:しちじ 半:はん に 出ます:でます 。|Tôi ra khỏi nhà lúc bảy rưỡi.
+何時:なんじ|mấy giờ|今:いま 、 何時:なんじ です か 。|Bây giờ là mấy giờ?
+時計:とけい|đồng hồ|新しい:あたらしい 時計:とけい を 買いました:かいました 。|Tôi đã mua đồng hồ mới.
+さっき|lúc nãy|さっき 、 友達:ともだち に 会いました:あいました 。|Lúc nãy tôi đã gặp bạn.
+あとで|lát nữa|あとで 電話:でんわ します 。|Lát nữa tôi sẽ gọi điện.
+すぐ|ngay|すぐ 行きます:いきます 。|Tôi đi ngay.

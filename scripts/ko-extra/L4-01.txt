@@ -1,0 +1,95 @@
+=4
+@Kinh tế đời sống|Thu nhập, chi tiêu, thị trường
+가계|kinh tế hộ gia đình|가계 지출이 늘었습니다.|Chi tiêu của hộ gia đình đã tăng.
+소득|thu nhập|소득이 낮은 가정을 지원합니다.|Hỗ trợ các gia đình thu nhập thấp.
+월급날|ngày lĩnh lương|월급날에 외식을 합니다.|Ngày lĩnh lương tôi đi ăn ngoài.
+재산|tài sản riêng|그는 재산이 많습니다.|Ông ấy có nhiều tài sản.
+빚|món nợ|빚을 모두 갚았습니다.|Tôi đã trả hết nợ.
+저금|tiền để dành|저금을 꾸준히 합니다.|Tôi để dành tiền đều đặn.
+예금|tiền gửi ngân hàng|은행에 예금을 합니다.|Tôi gửi tiền ở ngân hàng.
+신용|tín dụng, uy tín|신용이 좋아야 대출을 받습니다.|Phải có tín dụng tốt mới vay được.
+신용카드|thẻ tín dụng|신용카드로 결제합니다.|Tôi thanh toán bằng thẻ tín dụng.
+결제|việc thanh toán|결제 방법을 선택하세요.|Hãy chọn phương thức thanh toán.
+가격표|bảng giá, nhãn giá|가격표를 확인합니다.|Tôi kiểm tra nhãn giá.
+원가|giá gốc|원가보다 싸게 팝니다.|Họ bán rẻ hơn giá gốc.
+도매|bán buôn|도매 시장에서 물건을 삽니다.|Tôi mua hàng ở chợ bán buôn.
+매출|doanh thu|이번 달 매출이 올랐습니다.|Doanh thu tháng này đã tăng.
+적자|thâm hụt, lỗ|회사가 적자를 냈습니다.|Công ty đã bị lỗ.
+흑자|thặng dư, lãi|올해는 흑자가 났습니다.|Năm nay có lãi.
+경기침체|suy thoái kinh tế|경기침체로 가게가 문을 닫았습니다.|Cửa hàng đóng cửa vì suy thoái kinh tế.
+호황|thời kỳ thịnh vượng|반도체 산업이 호황입니다.|Ngành bán dẫn đang thịnh vượng.
+상승|sự tăng lên|물가 상승이 계속됩니다.|Giá cả tiếp tục tăng lên.
+하락|sự sụt giảm|주가 하락이 심합니다.|Giá cổ phiếu sụt giảm mạnh.
+폭등|sự tăng vọt|집값이 폭등했습니다.|Giá nhà đã tăng vọt.
+폭락|sự rớt giá mạnh|가격이 폭락했습니다.|Giá đã rớt mạnh.
+거래|sự giao dịch|중고 거래가 늘었습니다.|Giao dịch đồ cũ đã tăng.
+납부하다|nộp (thuế, phí)|세금을 납부합니다.|Tôi nộp thuế.
+지불하다|chi trả|요금을 지불합니다.|Tôi chi trả cước phí.
+청구하다|yêu cầu thanh toán|병원비를 보험 회사에 청구합니다.|Tôi yêu cầu công ty bảo hiểm thanh toán viện phí.
+@Doanh nghiệp và sản xuất|Hoạt động công ty
+본사|trụ sở chính|본사는 서울에 있습니다.|Trụ sở chính ở Seoul.
+지사|chi nhánh|부산 지사에서 일합니다.|Tôi làm ở chi nhánh Busan.
+공장장|giám đốc nhà máy|공장장이 직원들을 모았습니다.|Giám đốc nhà máy đã tập hợp nhân viên.
+대표|người đại diện|회사 대표가 발표했습니다.|Người đại diện công ty đã phát biểu.
+임원|ủy viên ban lãnh đạo|임원 회의가 열렸습니다.|Cuộc họp ban lãnh đạo đã diễn ra.
+주주|cổ đông|주주들이 회의에 참석했습니다.|Các cổ đông đã dự họp.
+협력업체|công ty đối tác|협력업체와 계약했습니다.|Chúng tôi đã ký hợp đồng với công ty đối tác.
+중소기업|doanh nghiệp vừa và nhỏ|중소기업을 지원합니다.|Hỗ trợ doanh nghiệp vừa và nhỏ.
+대기업|tập đoàn lớn|대기업에 취직했습니다.|Tôi đã vào làm ở tập đoàn lớn.
+자영업|việc tự kinh doanh|아버지는 자영업을 하십니다.|Bố tôi tự kinh doanh.
+체인점|cửa hàng trong chuỗi|이 카페는 체인점입니다.|Quán cà phê này thuộc một chuỗi.
+원료|nguyên liệu thô|원료 가격이 올랐습니다.|Giá nguyên liệu thô đã tăng.
+부품|linh kiện|자동차 부품을 만듭니다.|Họ sản xuất linh kiện ô tô.
+설비|thiết bị, cơ sở máy móc|공장 설비를 바꿨습니다.|Họ đã thay thiết bị nhà máy.
+불량품|hàng lỗi|불량품을 교환해 줍니다.|Họ đổi hàng lỗi cho khách.
+대량생산|sản xuất hàng loạt|이 제품은 대량생산이 됩니다.|Sản phẩm này được sản xuất hàng loạt.
+납품|việc giao hàng cho đối tác|내일까지 납품을 합니다.|Chúng tôi giao hàng trước ngày mai.
+유통|sự lưu thông hàng hóa|농산물 유통을 개선합니다.|Cải thiện lưu thông nông sản.
+홍보|việc quảng bá|신제품 홍보를 합니다.|Chúng tôi quảng bá sản phẩm mới.
+마케팅|tiếp thị|마케팅 부서에서 일합니다.|Tôi làm ở bộ phận tiếp thị.
+상표|nhãn hiệu|이 상표는 유명합니다.|Nhãn hiệu này nổi tiếng.
+특허|bằng sáng chế|새 기술의 특허를 받았습니다.|Họ đã nhận bằng sáng chế cho công nghệ mới.
+출시하다|tung ra thị trường|새 휴대폰을 출시했습니다.|Họ đã tung ra điện thoại mới.
+운영하다|vận hành, điều hành|작은 가게를 운영합니다.|Tôi điều hành một cửa hàng nhỏ.
+설립하다|thành lập|회사를 설립했습니다.|Ông ấy đã thành lập công ty.
+확장하다|mở rộng (quy mô)|사업을 해외로 확장합니다.|Họ mở rộng kinh doanh ra nước ngoài.
+@Luật pháp và trật tự|Tội phạm, tòa án
+법원|tòa án|법원에 서류를 냅니다.|Tôi nộp hồ sơ lên tòa án.
+형사|cảnh sát hình sự|형사가 범인을 쫓습니다.|Cảnh sát hình sự truy đuổi thủ phạm.
+용의자|nghi phạm|용의자가 잡혔습니다.|Nghi phạm đã bị bắt.
+목격자|nhân chứng chứng kiến|목격자가 경찰에 연락했습니다.|Nhân chứng đã liên lạc với cảnh sát.
+가해자|người gây hại|가해자가 사과했습니다.|Người gây hại đã xin lỗi.
+절도|trộm cắp|절도 사건이 일어났습니다.|Đã xảy ra vụ trộm cắp.
+강도|cướp|은행에 강도가 들었습니다.|Cướp đã vào ngân hàng.
+살인|giết người|살인 사건을 조사합니다.|Họ điều tra vụ giết người.
+폭행|hành hung|폭행으로 신고를 당했습니다.|Anh ta bị tố cáo vì hành hung.
+뇌물|của hối lộ|뇌물을 받으면 안 됩니다.|Không được nhận hối lộ.
+불법|sự phi pháp|불법 주차는 안 됩니다.|Không được đỗ xe trái phép.
+합법|sự hợp pháp|합법적인 방법으로 해결합니다.|Giải quyết bằng cách hợp pháp.
+단속|việc kiểm tra xử lý|경찰이 음주 단속을 합니다.|Cảnh sát kiểm tra nồng độ cồn.
+수갑|còng tay|범인에게 수갑을 채웁니다.|Họ còng tay thủ phạm.
+지문|dấu vân tay|현장에서 지문을 찾았습니다.|Họ đã tìm thấy dấu vân tay ở hiện trường.
+현장|hiện trường|사고 현장에 갔습니다.|Tôi đã đến hiện trường tai nạn.
+조사하다|điều tra|사고 원인을 조사합니다.|Họ điều tra nguyên nhân tai nạn.
+자백하다|thú tội|범인이 자백했습니다.|Thủ phạm đã thú tội.
+석방하다|phóng thích|경찰이 그를 석방했습니다.|Cảnh sát đã phóng thích anh ta.
+훔치다|ăn trộm|도둑이 지갑을 훔쳤습니다.|Tên trộm đã ăn trộm ví.
+도망치다|bỏ trốn|범인이 도망쳤습니다.|Thủ phạm đã bỏ trốn.
+@Chính trị và hành chính|Nhà nước, bầu cử
+정치|chính trị|정치에 관심이 많습니다.|Tôi rất quan tâm đến chính trị.
+정치인|chính trị gia|정치인이 연설을 합니다.|Chính trị gia đọc diễn văn.
+국회의원|nghị sĩ quốc hội|국회의원을 뽑습니다.|Người ta bầu nghị sĩ quốc hội.
+장관|bộ trưởng|교육부 장관이 발표했습니다.|Bộ trưởng Bộ Giáo dục đã phát biểu.
+후보|ứng cử viên|세 명의 후보가 나왔습니다.|Có ba ứng cử viên.
+공약|cam kết tranh cử|후보가 공약을 발표했습니다.|Ứng cử viên đã công bố cam kết tranh cử.
+당선|sự đắc cử|그가 대통령에 당선됐습니다.|Ông ấy đã đắc cử tổng thống.
+지지|sự ủng hộ|국민의 지지를 받습니다.|Nhận được sự ủng hộ của nhân dân.
+임기|nhiệm kỳ|대통령의 임기는 오 년입니다.|Nhiệm kỳ tổng thống là năm năm.
+정당|chính đảng|새 정당이 생겼습니다.|Một chính đảng mới đã ra đời.
+연설|bài diễn văn|대통령이 연설을 했습니다.|Tổng thống đã đọc diễn văn.
+시위|cuộc biểu tình|광장에서 시위가 있었습니다.|Đã có biểu tình ở quảng trường.
+여권발급|việc cấp hộ chiếu|구청에서 여권발급을 신청합니다.|Tôi xin cấp hộ chiếu ở ủy ban quận.
+행정|hành chính|행정 절차가 간단해졌습니다.|Thủ tục hành chính đã đơn giản hơn.
+자치|tự trị|지방 자치 제도가 있습니다.|Có chế độ tự trị địa phương.
+공공|công cộng|공공 시설을 깨끗이 씁니다.|Tôi dùng cơ sở công cộng sạch sẽ.
+시설|cơ sở vật chất|학교 시설이 좋습니다.|Cơ sở vật chất của trường tốt.

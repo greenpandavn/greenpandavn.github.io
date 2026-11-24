@@ -1,0 +1,82 @@
+=1
+@Trường học và đồ dùng học tập|Lớp học, sách vở
+鉛筆:えんぴつ|bút chì|鉛筆:えんぴつ で 名前:なまえ を 書きます:かきます 。|Tôi viết tên bằng bút chì.
+ペン|bút mực|ペン を 貸して:かして ください 。|Cho tôi mượn cây bút.
+ボールペン|bút bi|ボールペン で 書いて:かいて ください 。|Hãy viết bằng bút bi.
+消しゴム:けしゴム|cục tẩy|消しゴム:けしゴム を 忘れました:わすれました 。|Tôi quên cục tẩy rồi.
+ノート|quyển vở|ノート に 漢字:かんじ を 書きます:かきます 。|Tôi viết chữ Hán vào vở.
+教科書:きょうかしょ|sách giáo khoa|教科書:きょうかしょ を 開けて:あけて ください 。|Hãy mở sách giáo khoa.
+黒板:こくばん|bảng đen|先生:せんせい が 黒板:こくばん に 字:じ を 書きます:かきます 。|Thầy viết chữ lên bảng đen.
+字:じ|chữ|妹:いもうと は 字:じ が きれい です 。|Em gái tôi viết chữ đẹp.
+言葉:ことば|từ, lời nói|新しい:あたらしい 言葉:ことば を 覚えます:おぼえます 。|Tôi học thuộc từ mới.
+意味:いみ|ý nghĩa|この 言葉:ことば の 意味:いみ は 何:なん です か 。|Ý nghĩa của từ này là gì?
+文:ぶん|câu văn|短い:みじかい 文:ぶん を 作ります:つくります 。|Tôi đặt câu ngắn.
+作文:さくぶん|bài văn|日本語:にほんご で 作文:さくぶん を 書きます:かきます 。|Tôi viết bài văn bằng tiếng Nhật.
+ひらがな|chữ hiragana|名前:なまえ を ひらがな で 書きます:かきます 。|Tôi viết tên bằng hiragana.
+カタカナ|chữ katakana|カタカナ は 難しい:むずかしい です 。|Chữ katakana khó.
+英語:えいご|tiếng Anh|姉:あね は 英語:えいご を 教えて:おしえて います 。|Chị tôi dạy tiếng Anh.
+クラス|lớp|この クラス は 楽しい:たのしい です 。|Lớp này vui.
+テスト|bài kiểm tra|明日:あした 、 漢字:かんじ の テスト が あります 。|Ngày mai có bài kiểm tra chữ Hán.
+ページ|trang|十:じゅう ページ を 読んで:よんで ください 。|Hãy đọc trang mười.
+小学校:しょうがっこう|trường tiểu học|弟:おとうと は 小学校:しょうがっこう に 行って:いって います 。|Em trai tôi đang học tiểu học.
+中学校:ちゅうがっこう|trường cấp hai|中学校:ちゅうがっこう は 家:いえ から 近い:ちかい です 。|Trường cấp hai gần nhà tôi.
+高校:こうこう|trường cấp ba|高校:こうこう で 英語:えいご を 勉強:べんきょう しました 。|Tôi đã học tiếng Anh ở trường cấp ba.
+休み時間:やすみじかん|giờ ra chơi|休み時間:やすみじかん に 友達:ともだち と 話します:はなします 。|Giờ ra chơi tôi nói chuyện với bạn.
+@Địa điểm trong thành phố|Nơi chốn quen thuộc
+本屋:ほんや|hiệu sách|本屋:ほんや で 雑誌:ざっし を 買います:かいます 。|Tôi mua tạp chí ở hiệu sách.
+花屋:はなや|cửa hàng hoa|花屋:はなや で 花:はな を 買いました:かいました 。|Tôi đã mua hoa ở cửa hàng hoa.
+八百屋:やおや|cửa hàng rau quả|八百屋:やおや で 野菜:やさい を 買います:かいます 。|Tôi mua rau ở cửa hàng rau quả.
+パン屋:パンや|tiệm bánh mì|駅:えき の 前:まえ に パン屋:パンや が あります 。|Trước ga có tiệm bánh mì.
+スーパー|siêu thị|スーパー で 卵:たまご を 買います:かいます 。|Tôi mua trứng ở siêu thị.
+コンビニ|cửa hàng tiện lợi|コンビニ で 弁当:べんとう を 買います:かいます 。|Tôi mua cơm hộp ở cửa hàng tiện lợi.
+交番:こうばん|đồn cảnh sát nhỏ|交番:こうばん で 道:みち を 聞きます:ききます 。|Tôi hỏi đường ở đồn cảnh sát.
+大使館:たいしかん|đại sứ quán|大使館:たいしかん は 東京:とうきょう に あります 。|Đại sứ quán ở Tokyo.
+映画館:えいがかん|rạp chiếu phim|映画館:えいがかん で 映画:えいが を 見ます:みます 。|Tôi xem phim ở rạp.
+美術館:びじゅつかん|bảo tàng mỹ thuật|日曜日:にちようび に 美術館:びじゅつかん へ 行きます:いきます 。|Chủ nhật tôi đi bảo tàng mỹ thuật.
+動物園:どうぶつえん|vườn thú|子供:こども と 動物園:どうぶつえん へ 行きます:いきます 。|Tôi đi vườn thú với con.
+プール|bể bơi|夏:なつ は プール で 泳ぎます:およぎます 。|Mùa hè tôi bơi ở bể bơi.
+神社:じんじゃ|đền thần đạo|正月:しょうがつ に 神社:じんじゃ へ 行きます:いきます 。|Dịp Tết tôi đi đền.
+教会:きょうかい|nhà thờ|日曜日:にちようび に 教会:きょうかい へ 行きます:いきます 。|Chủ nhật tôi đi nhà thờ.
+工場:こうじょう|nhà máy|父:ちち は 工場:こうじょう で 働いて:はたらいて います 。|Bố tôi làm ở nhà máy.
+事務所:じむしょ|văn phòng|事務所:じむしょ は 三階:さんがい です 。|Văn phòng ở tầng ba.
+受付:うけつけ|quầy lễ tân|受付:うけつけ で 名前:なまえ を 書きます:かきます 。|Tôi viết tên ở quầy lễ tân.
+エレベーター|thang máy|エレベーター で 五階:ごかい へ 行きます:いきます 。|Tôi đi thang máy lên tầng năm.
+トイレ|toa lét|トイレ は 一階:いっかい に あります 。|Toa lét ở tầng một.
+ビル|tòa nhà cao tầng|あの 高い:たかい ビル は ホテル です 。|Tòa nhà cao kia là khách sạn.
+アパート|căn hộ thuê|駅:えき の 近く:ちかく の アパート に 住んで:すんで います 。|Tôi sống ở căn hộ gần ga.
+村:むら|làng|祖母:そぼ は 小さい:ちいさい 村:むら に 住んで:すんで います 。|Bà tôi sống ở một ngôi làng nhỏ.
+池:いけ|cái ao|公園:こうえん に 池:いけ が あります 。|Trong công viên có cái ao.
+所:ところ|nơi, chỗ|ここ は 静か:しずか な 所:ところ です 。|Đây là nơi yên tĩnh.
+@Thiên nhiên và con vật|Cây cỏ, động vật
+牛:うし|con bò|牛:うし が 草:くさ を 食べて:たべて います 。|Con bò đang ăn cỏ.
+馬:うま|con ngựa|馬:うま は 速い:はやい です 。|Ngựa chạy nhanh.
+豚:ぶた|con lợn|豚:ぶた は 何:なん でも 食べます:たべます 。|Lợn ăn gì cũng được.
+象:ぞう|con voi|動物園:どうぶつえん で 象:ぞう を 見ました:みました 。|Tôi đã xem voi ở vườn thú.
+虫:むし|côn trùng|夏:なつ は 虫:むし が 多い:おおい です 。|Mùa hè nhiều côn trùng.
+草:くさ|cỏ|庭:にわ に 草:くさ が たくさん あります 。|Trong vườn có nhiều cỏ.
+桜:さくら|hoa anh đào|春:はる に 桜:さくら が 咲きます:さきます 。|Mùa xuân hoa anh đào nở.
+石:いし|hòn đá|川:かわ に 大きい:おおきい 石:いし が あります 。|Ở sông có hòn đá to.
+島:しま|hòn đảo|日本:にほん は 島:しま の 国:くに です 。|Nhật Bản là đất nước của những hòn đảo.
+晴れ:はれ|trời nắng|明日:あした は 晴れ:はれ です 。|Ngày mai trời nắng.
+曇り:くもり|trời nhiều mây|今日:きょう は 曇り:くもり です 。|Hôm nay trời nhiều mây.
+虹:にじ|cầu vồng|雨:あめ の 後:あと で 虹:にじ が 出ました:でました 。|Sau mưa cầu vồng đã hiện ra.
+@Quần áo và phụ kiện|Trang phục hằng ngày
+上着:うわぎ|áo khoác ngoài|寒い:さむい から 上着:うわぎ を 着ます:きます 。|Vì lạnh nên tôi mặc áo khoác.
+コート|áo măng tô|冬:ふゆ は コート が 必要:ひつよう です 。|Mùa đông cần áo măng tô.
+セーター|áo len|母:はは が セーター を 作りました:つくりました 。|Mẹ đã đan áo len.
+スカート|váy|妹:いもうと は 赤い:あかい スカート を はいて います 。|Em gái tôi mặc váy đỏ.
+ネクタイ|cà vạt|父:ちち に ネクタイ を あげました 。|Tôi đã tặng bố cà vạt.
+靴下:くつした|tất|靴下:くつした を 洗います:あらいます 。|Tôi giặt tất.
+スリッパ|dép đi trong nhà|家:いえ の 中:なか で スリッパ を 履きます:はきます 。|Trong nhà tôi đi dép.
+ハンカチ|khăn tay|ハンカチ で 手:て を 拭きます:ふきます 。|Tôi lau tay bằng khăn tay.
+背広:せびろ|bộ com lê|父:ちち は 毎日:まいにち 背広:せびろ を 着ます:きます 。|Bố tôi mặc com lê mỗi ngày.
+洋服:ようふく|quần áo kiểu Tây|デパート で 洋服:ようふく を 買います:かいます 。|Tôi mua quần áo ở cửa hàng bách hóa.
+ボタン|cái cúc; nút bấm|シャツ の ボタン が 取れました:とれました 。|Cúc áo sơ mi bị tuột.
+指輪:ゆびわ|nhẫn|彼女:かのじょ に 指輪:ゆびわ を あげます 。|Tôi tặng nhẫn cho bạn gái.
+@Cơ thể|Bộ phận cơ thể
+首:くび|cổ|首:くび が 痛い:いたい です 。|Tôi đau cổ.
+腕:うで|cánh tay|腕:うで が 太い:ふとい です ね 。|Cánh tay to nhỉ.
+指:ゆび|ngón tay|指:ゆび を 切りました:きりました 。|Tôi bị đứt ngón tay.
+声:こえ|giọng nói|大きい:おおきい 声:こえ で 話して:はなして ください 。|Hãy nói to lên.
+背中:せなか|lưng|背中:せなか が かゆい です 。|Tôi ngứa lưng.
+病気:びょうき|bệnh|祖父:そふ は 病気:びょうき です 。|Ông tôi bị bệnh.

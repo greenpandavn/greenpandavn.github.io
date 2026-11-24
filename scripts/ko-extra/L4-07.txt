@@ -1,0 +1,67 @@
+=4
+@Đàm phán và trao đổi|Động từ giao tiếp công việc
+제안하다|đề xuất|새로운 방법을 제안합니다.|Tôi đề xuất phương pháp mới.
+건의하다|kiến nghị|회사에 개선을 건의했습니다.|Tôi đã kiến nghị công ty cải thiện.
+상의하다|bàn bạc|부모님과 상의합니다.|Tôi bàn bạc với bố mẹ.
+의논하다|thảo luận bàn tính|친구와 여행 계획을 의논합니다.|Tôi bàn tính kế hoạch du lịch với bạn.
+타협하다|thỏa hiệp|서로 조금씩 타협했습니다.|Hai bên đã thỏa hiệp mỗi bên một chút.
+조정하다|điều chỉnh|일정을 조정합니다.|Điều chỉnh lịch trình.
+승낙하다|ưng thuận|부탁을 승낙했습니다.|Đã ưng thuận lời nhờ.
+허락하다|cho phép|부모님이 여행을 허락하셨습니다.|Bố mẹ đã cho phép đi du lịch.
+사양하다|khước từ lịch sự|선물을 사양했습니다.|Tôi đã khước từ món quà.
+반박하다|phản bác|그의 주장을 반박했습니다.|Tôi đã phản bác chủ trương của anh ấy.
+항변하다|biện bạch phản đối|그는 억울하다고 항변했습니다.|Anh ấy biện bạch rằng mình oan.
+추궁하다|truy hỏi|책임을 추궁합니다.|Truy hỏi trách nhiệm.
+재촉하다|thúc giục|빨리 하라고 재촉합니다.|Thúc giục làm nhanh lên.
+당부하다|dặn dò|안전을 당부했습니다.|Đã dặn dò về an toàn.
+권하다|khuyên, mời|의사가 운동을 권했습니다.|Bác sĩ đã khuyên tập thể dục.
+타이르다|khuyên bảo nhẹ nhàng|아이를 조용히 타이릅니다.|Nhẹ nhàng khuyên bảo đứa bé.
+나무라다|trách mắng|실수를 나무랐습니다.|Đã trách mắng lỗi lầm.
+꾸짖다|quở trách|선생님이 학생을 꾸짖습니다.|Thầy giáo quở trách học sinh.
+비난하다|chỉ trích|남을 쉽게 비난하지 마세요.|Đừng dễ dàng chỉ trích người khác.
+험담하다|nói xấu|뒤에서 험담하면 안 됩니다.|Không được nói xấu sau lưng.
+둘러대다|nói quanh co, viện cớ|바쁘다고 둘러댔습니다.|Tôi đã viện cớ là bận.
+얼버무리다|nói lấp lửng|대답을 얼버무렸습니다.|Đã trả lời lấp lửng.
+맞장구치다|hùa theo|친구의 말에 맞장구칩니다.|Hùa theo lời bạn.
+@Dịch vụ số|Internet và ứng dụng
+온라인|trực tuyến|온라인으로 수업을 듣습니다.|Tôi học trực tuyến.
+오프라인|ngoại tuyến|오프라인 매장에서 샀습니다.|Tôi đã mua ở cửa hàng ngoại tuyến.
+인터넷뱅킹|ngân hàng trực tuyến|인터넷뱅킹으로 송금합니다.|Tôi chuyển tiền bằng ngân hàng trực tuyến.
+전자상거래|thương mại điện tử|전자상거래가 발달했습니다.|Thương mại điện tử đã phát triển.
+간편결제|thanh toán nhanh|휴대폰으로 간편결제를 합니다.|Tôi thanh toán nhanh bằng điện thoại.
+회원가입|đăng ký thành viên|사이트에 회원가입을 했습니다.|Tôi đã đăng ký thành viên trên trang web.
+탈퇴|việc rút khỏi (hội, trang)|회원 탈퇴를 신청했습니다.|Tôi đã xin rút tư cách thành viên.
+인증|việc xác thực|본인 인증을 합니다.|Xác thực chính chủ.
+접속|việc truy cập|사이트 접속이 안 됩니다.|Không truy cập được trang web.
+오류|lỗi (hệ thống)|시스템 오류가 발생했습니다.|Đã xảy ra lỗi hệ thống.
+업데이트|cập nhật|프로그램을 업데이트합니다.|Cập nhật chương trình.
+백업|sao lưu|자료를 백업합니다.|Sao lưu tài liệu.
+첨부파일|tệp đính kèm|첨부파일을 확인해 주세요.|Xin hãy kiểm tra tệp đính kèm.
+스팸|thư rác|스팸 메일이 많이 옵니다.|Thư rác đến nhiều.
+알림|thông báo (ứng dụng)|휴대폰 알림을 끕니다.|Tôi tắt thông báo điện thoại.
+화면캡처|chụp màn hình|화면캡처를 해서 보냅니다.|Tôi chụp màn hình rồi gửi.
+검색어|từ khóa tìm kiếm|검색어를 입력하세요.|Hãy nhập từ khóa tìm kiếm.
+실시간|thời gian thực|실시간으로 방송을 봅니다.|Tôi xem phát sóng theo thời gian thực.
+가상현실|thực tế ảo|가상현실 게임을 합니다.|Tôi chơi trò chơi thực tế ảo.
+빅데이터|dữ liệu lớn|빅데이터를 분석합니다.|Phân tích dữ liệu lớn.
+자율주행|tự lái|자율주행 자동차가 나왔습니다.|Ô tô tự lái đã ra đời.
+무인|không người (phục vụ, lái)|무인 가게가 늘었습니다.|Cửa hàng không người bán đã tăng.
+@Thực phẩm và sức khỏe cộng đồng|An toàn, dinh dưỡng
+식품|thực phẩm|식품 안전이 중요합니다.|An toàn thực phẩm rất quan trọng.
+가공식품|thực phẩm chế biến sẵn|가공식품을 줄입니다.|Giảm thực phẩm chế biến sẵn.
+유기농|hữu cơ|유기농 채소를 삽니다.|Tôi mua rau hữu cơ.
+첨가물|chất phụ gia|첨가물이 없는 음식을 고릅니다.|Tôi chọn đồ ăn không có chất phụ gia.
+방부제|chất bảo quản|방부제를 넣지 않았습니다.|Không cho chất bảo quản.
+원산지|nơi xuất xứ|원산지를 확인합니다.|Kiểm tra nơi xuất xứ.
+칼로리|calo|이 음식은 칼로리가 높습니다.|Món này nhiều calo.
+단백질|chất đạm|단백질을 충분히 먹습니다.|Ăn đủ chất đạm.
+지방|chất béo|지방이 적은 고기를 삽니다.|Mua thịt ít chất béo.
+탄수화물|tinh bột|탄수화물을 줄입니다.|Giảm tinh bột.
+비타민|vitamin|과일에는 비타민이 많습니다.|Hoa quả có nhiều vitamin.
+식습관|thói quen ăn uống|식습관을 바꿉니다.|Thay đổi thói quen ăn uống.
+채식|việc ăn chay|그는 채식을 합니다.|Anh ấy ăn chay.
+위생|vệ sinh|식당의 위생 상태를 검사합니다.|Kiểm tra tình trạng vệ sinh của quán ăn.
+소독|việc khử trùng|손 소독을 합니다.|Khử trùng tay.
+세균|vi khuẩn|손에 세균이 많습니다.|Trên tay có nhiều vi khuẩn.
+전염|sự lây nhiễm|감기는 전염이 됩니다.|Cảm thì lây.
+격리|sự cách ly|환자를 격리합니다.|Cách ly bệnh nhân.

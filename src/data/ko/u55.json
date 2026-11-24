@@ -1,0 +1,133 @@
+{
+ "units": [
+  {"unit":55,"level":5,"title":"Phần 5: Văn học và ngôn ngữ học và hơn thế","desc":"Văn học và ngôn ngữ học, Xã hội học và chính trị học, Động từ trang trọng, Động từ trang trọng 2, Tính từ và trạng từ trang trọng","color":"leaf","course":"ko"}
+ ],
+ "lessons": [
+  {"id":"ko5x10","title":"Văn học và ngôn ngữ học 1","desc":"Thuật ngữ ngữ văn","icon":"서","unit":55,"course":"ko","order":3010,"words":[
+   {"id":"ko5x10-서사","hanzi":"서사","pinyin":"seosa","vi":"tự sự","ex":{"tokens":["이","작품은","서사","구조가","탄탄합니다","."],"py":["i","jakpumeun","seosa","gujoga","tantanhamnida","."],"vi":"Tác phẩm này có cấu trúc tự sự vững chắc.","alts":[]}},
+   {"id":"ko5x10-서정","hanzi":"서정","pinyin":"seojeong","vi":"trữ tình","ex":{"tokens":["서정적인","시를","좋아합니다","."],"py":["seojeongjeogin","sireul","joahamnida","."],"vi":"Tôi thích thơ trữ tình.","alts":[]}},
+   {"id":"ko5x10-운율","hanzi":"운율","pinyin":"unyul","vi":"vần luật","ex":{"tokens":["시의","운율을","느낍니다","."],"py":["siui","unyureul","neukkimnida","."],"vi":"Cảm nhận vần luật của bài thơ.","alts":[]}},
+   {"id":"ko5x10-은유","hanzi":"은유","pinyin":"eunyu","vi":"ẩn dụ","ex":{"tokens":["은유를","사용하여","표현합니다","."],"py":["eunyureul","sayonghayeo","pyohyeonhamnida","."],"vi":"Diễn đạt bằng ẩn dụ.","alts":[]}},
+   {"id":"ko5x10-풍자","hanzi":"풍자","pinyin":"pungja","vi":"sự châm biếm","ex":{"tokens":["사회를","풍자한","소설입니다","."],"py":["sahoereul","pungjahan","soseorimnida","."],"vi":"Đó là tiểu thuyết châm biếm xã hội.","alts":[]}},
+   {"id":"ko5x10-반어","hanzi":"반어","pinyin":"baneo","vi":"phản ngữ, nói ngược","ex":{"tokens":["반어적","표현이","돋보입니다","."],"py":["baneojeok","pyohyeoni","dotboimnida","."],"vi":"Lối nói ngược nổi bật.","alts":[]}},
+   {"id":"ko5x10-복선","hanzi":"복선","pinyin":"bokseon","vi":"chi tiết cài trước","ex":{"tokens":["작가가","복선을","깔았습니다","."],"py":["jakgaga","bokseoneul","kkaratseumnida","."],"vi":"Tác giả đã cài chi tiết báo trước.","alts":[]}},
+   {"id":"ko5x10-갈등구조","hanzi":"갈등구조","pinyin":"galdeunggujo","vi":"cấu trúc mâu thuẫn","ex":{"tokens":["소설의","갈등구조를","분석합니다","."],"py":["soseorui","galdeunggujoreul","bunseokamnida","."],"vi":"Phân tích cấu trúc mâu thuẫn của tiểu thuyết.","alts":[]}},
+   {"id":"ko5x10-시점","hanzi":"시점","pinyin":"sijeom","vi":"điểm nhìn; thời điểm","ex":{"tokens":["일인칭","시점으로","서술합니다","."],"py":["irinching","sijeomeuro","seosulhamnida","."],"vi":"Trần thuật từ điểm nhìn ngôi thứ nhất.","alts":[]}},
+   {"id":"ko5x10-문체","hanzi":"문체","pinyin":"munche","vi":"văn phong","ex":{"tokens":["그","작가는","문체가","간결합니다","."],"py":["geu","jakganeun","munchega","gangyeolhamnida","."],"vi":"Nhà văn đó có văn phong súc tích.","alts":[]}},
+   {"id":"ko5x10-장르","hanzi":"장르","pinyin":"jangneu","vi":"thể loại","ex":{"tokens":["다양한","장르의","영화를","봅니다","."],"py":["dayanghan","jangneuui","yeonghwareul","bomnida","."],"vi":"Tôi xem phim thuộc nhiều thể loại.","alts":[]}},
+   {"id":"ko5x10-평론","hanzi":"평론","pinyin":"pyeongnon","vi":"bài bình luận phê bình","ex":{"tokens":["문학","평론을","발표했습니다","."],"py":["munhak","pyeongnoneul","balpyohaetseumnida","."],"vi":"Đã công bố bài phê bình văn học.","alts":[]}}
+  ]},
+  {"id":"ko5x11","title":"Văn học và ngôn ngữ học 2","desc":"Thuật ngữ ngữ văn","icon":"고","unit":55,"course":"ko","order":3020,"words":[
+   {"id":"ko5x11-고전","hanzi":"고전","pinyin":"gojeon","vi":"tác phẩm kinh điển","ex":{"tokens":["고전을","읽는","것이","중요합니다","."],"py":["gojeoneul","ingneun","geosi","jungyohamnida","."],"vi":"Đọc tác phẩm kinh điển là điều quan trọng.","alts":[]}},
+   {"id":"ko5x11-번안","hanzi":"번안","pinyin":"beonan","vi":"sự phóng tác","ex":{"tokens":["외국","소설을","번안했습니다","."],"py":["oeguk","soseoreul","beonanhaetseumnida","."],"vi":"Đã phóng tác tiểu thuyết nước ngoài.","alts":[]}},
+   {"id":"ko5x11-구비문학","hanzi":"구비문학","pinyin":"gubimunhak","vi":"văn học truyền miệng","ex":{"tokens":["구비문학을","수집합니다","."],"py":["gubimunhageul","sujipamnida","."],"vi":"Sưu tầm văn học truyền miệng.","alts":[]}},
+   {"id":"ko5x11-음운","hanzi":"음운","pinyin":"eumun","vi":"âm vị","ex":{"tokens":["한국어의","음운","체계를","배웁니다","."],"py":["hangugeoui","eumun","chegyereul","baeumnida","."],"vi":"Học hệ thống âm vị tiếng Hàn.","alts":[]}},
+   {"id":"ko5x11-형태소","hanzi":"형태소","pinyin":"hyeongtaeso","vi":"hình vị","ex":{"tokens":["단어를","형태소로","나눕니다","."],"py":["daneoreul","hyeongtaesoro","nanumnida","."],"vi":"Chia từ thành hình vị.","alts":[]}},
+   {"id":"ko5x11-통사론","hanzi":"통사론","pinyin":"tongsaron","vi":"cú pháp học","ex":{"tokens":["통사론","수업을","듣습니다","."],"py":["tongsaron","sueobeul","deutseumnida","."],"vi":"Tôi học môn cú pháp học.","alts":[]}},
+   {"id":"ko5x11-의미론","hanzi":"의미론","pinyin":"uimiron","vi":"ngữ nghĩa học","ex":{"tokens":["의미론을","연구합니다","."],"py":["uimironeul","yeonguhamnida","."],"vi":"Nghiên cứu ngữ nghĩa học.","alts":[]}},
+   {"id":"ko5x11-외래어","hanzi":"외래어","pinyin":"oeraeeo","vi":"từ ngoại lai","ex":{"tokens":["외래어","사용이","늘었습니다","."],"py":["oeraeeo","sayongi","neureotseumnida","."],"vi":"Việc dùng từ ngoại lai đã tăng.","alts":[]}},
+   {"id":"ko5x11-한자어","hanzi":"한자어","pinyin":"hanjaeo","vi":"từ Hán Hàn","ex":{"tokens":["한국어에는","한자어가","많습니다","."],"py":["hangugeoeneun","hanjaeoga","manseumnida","."],"vi":"Tiếng Hàn có nhiều từ Hán Hàn.","alts":[]}},
+   {"id":"ko5x11-고유어","hanzi":"고유어","pinyin":"goyueo","vi":"từ thuần Hàn","ex":{"tokens":["고유어를","살려","씁니다","."],"py":["goyueoreul","sallyeo","sseumnida","."],"vi":"Dùng và giữ gìn từ thuần Hàn.","alts":[]}},
+   {"id":"ko5x11-신조어","hanzi":"신조어","pinyin":"sinjoeo","vi":"từ mới đặt","ex":{"tokens":["젊은","세대가","신조어를","만듭니다","."],"py":["jeolmeun","sedaega","sinjoeoreul","mandeumnida","."],"vi":"Thế hệ trẻ tạo ra từ mới.","alts":[]}},
+   {"id":"ko5x11-띄어쓰기","hanzi":"띄어쓰기","pinyin":"ttuieosseugi","vi":"cách viết cách chữ","ex":{"tokens":["띄어쓰기가","어렵습니다","."],"py":["ttuieosseugiga","eoryeopseumnida","."],"vi":"Cách viết cách chữ rất khó.","alts":[]}}
+  ]},
+  {"id":"ko5x12","title":"Xã hội học và chính trị học","desc":"Lý luận xã hội","icon":"사","unit":55,"course":"ko","order":3030,"words":[
+   {"id":"ko5x12-사회학","hanzi":"사회학","pinyin":"sahoehak","vi":"xã hội học","ex":{"tokens":["사회학을","전공합니다","."],"py":["sahoehageul","jeongonghamnida","."],"vi":"Tôi học chuyên ngành xã hội học.","alts":[]}},
+   {"id":"ko5x12-인류학","hanzi":"인류학","pinyin":"illyuhak","vi":"nhân học","ex":{"tokens":["문화","인류학","강의를","듣습니다","."],"py":["munhwa","illyuhak","ganguireul","deutseumnida","."],"vi":"Tôi nghe giảng nhân học văn hóa.","alts":[]}},
+   {"id":"ko5x12-자본주의","hanzi":"자본주의","pinyin":"jabonjuui","vi":"chủ nghĩa tư bản","ex":{"tokens":["자본주의","사회의","문제를","다룹니다","."],"py":["jabonjuui","sahoeui","munjereul","darumnida","."],"vi":"Bàn về vấn đề của xã hội tư bản.","alts":[]}},
+   {"id":"ko5x12-사회주의","hanzi":"사회주의","pinyin":"sahoejuui","vi":"chủ nghĩa xã hội","ex":{"tokens":["사회주의","이론을","공부합니다","."],"py":["sahoejuui","ironeul","gongbuhamnida","."],"vi":"Học lý luận chủ nghĩa xã hội.","alts":[]}},
+   {"id":"ko5x12-민족주의","hanzi":"민족주의","pinyin":"minjokjuui","vi":"chủ nghĩa dân tộc","ex":{"tokens":["민족주의가","강해졌습니다","."],"py":["minjokjuuiga","ganghaejyeotseumnida","."],"vi":"Chủ nghĩa dân tộc đã mạnh lên.","alts":[]}},
+   {"id":"ko5x12-전체주의","hanzi":"전체주의","pinyin":"jeonchejuui","vi":"chủ nghĩa toàn trị","ex":{"tokens":["전체주의를","비판합니다","."],"py":["jeonchejuuireul","bipanhamnida","."],"vi":"Phê phán chủ nghĩa toàn trị.","alts":[]}},
+   {"id":"ko5x12-독재","hanzi":"독재","pinyin":"dokjae","vi":"chế độ độc tài","ex":{"tokens":["독재","정권이","무너졌습니다","."],"py":["dokjae","jeonggwoni","muneojyeotseumnida","."],"vi":"Chính quyền độc tài đã sụp đổ.","alts":[]}},
+   {"id":"ko5x12-정권","hanzi":"정권","pinyin":"jeonggwon","vi":"chính quyền","ex":{"tokens":["정권이","교체되었습니다","."],"py":["jeonggwoni","gyochedoeeotseumnida","."],"vi":"Chính quyền đã được thay thế.","alts":[]}},
+   {"id":"ko5x12-주권","hanzi":"주권","pinyin":"jugwon","vi":"chủ quyền","ex":{"tokens":["국민에게","주권이","있습니다","."],"py":["gungminege","jugwoni","itseumnida","."],"vi":"Chủ quyền thuộc về nhân dân.","alts":[]}},
+   {"id":"ko5x12-삼권분립","hanzi":"삼권분립","pinyin":"samgwonbullip","vi":"tam quyền phân lập","ex":{"tokens":["삼권분립은","민주","국가의","원칙입니다","."],"py":["samgwonbullibeun","minju","gukgaui","wonchigimnida","."],"vi":"Tam quyền phân lập là nguyên tắc của nước dân chủ.","alts":[]}},
+   {"id":"ko5x12-시민사회","hanzi":"시민사회","pinyin":"siminsahoe","vi":"xã hội dân sự","ex":{"tokens":["시민사회의","역할이","커졌습니다","."],"py":["siminsahoeui","yeokari","keojyeotseumnida","."],"vi":"Vai trò của xã hội dân sự đã lớn hơn.","alts":[]}},
+   {"id":"ko5x12-여론조사","hanzi":"여론조사","pinyin":"yeoronjosa","vi":"thăm dò dư luận","ex":{"tokens":["여론조사","결과를","발표했습니다","."],"py":["yeoronjosa","gyeolgwareul","balpyohaetseumnida","."],"vi":"Đã công bố kết quả thăm dò dư luận.","alts":[]}}
+  ]},
+  {"id":"ko5x13","title":"Động từ trang trọng","desc":"Dùng trong văn viết","icon":"간","unit":55,"course":"ko","order":3040,"words":[
+   {"id":"ko5x13-간과하다","hanzi":"간과하다","pinyin":"gangwahada","vi":"bỏ qua, xem nhẹ","ex":{"tokens":["중요한","사실을","간과했습니다","."],"py":["jungyohan","sasireul","gangwahaetseumnida","."],"vi":"Đã bỏ qua một sự thật quan trọng.","alts":[]}},
+   {"id":"ko5x13-감안하다","hanzi":"감안하다","pinyin":"gamanhada","vi":"cân nhắc đến","ex":{"tokens":["상황을","감안하여","결정합니다","."],"py":["sanghwangeul","gamanhayeo","gyeoljeonghamnida","."],"vi":"Quyết định có cân nhắc tình hình.","alts":[]}},
+   {"id":"ko5x13-고려하다","hanzi":"고려하다","pinyin":"goryeohada","vi":"xem xét","ex":{"tokens":["여러","조건을","고려합니다","."],"py":["yeoreo","jogeoneul","goryeohamnida","."],"vi":"Xem xét nhiều điều kiện.","alts":[]}},
+   {"id":"ko5x13-간추리다","hanzi":"간추리다","pinyin":"ganchurida","vi":"tóm lược","ex":{"tokens":["내용을","간추려","말합니다","."],"py":["naeyongeul","ganchuryeo","malhamnida","."],"vi":"Nói tóm lược nội dung.","alts":[]}},
+   {"id":"ko5x13-구축하다","hanzi":"구축하다","pinyin":"guchukada","vi":"xây dựng (hệ thống)","ex":{"tokens":["새","시스템을","구축했습니다","."],"py":["sae","siseutemeul","guchukaetseumnida","."],"vi":"Đã xây dựng hệ thống mới.","alts":[]}},
+   {"id":"ko5x13-구현하다","hanzi":"구현하다","pinyin":"guhyeonhada","vi":"hiện thực hóa","ex":{"tokens":["이상을","구현합니다","."],"py":["isangeul","guhyeonhamnida","."],"vi":"Hiện thực hóa lý tưởng.","alts":[]}},
+   {"id":"ko5x13-도모하다","hanzi":"도모하다","pinyin":"domohada","vi":"mưu cầu","ex":{"tokens":["회원","간의","친목을","도모합니다","."],"py":["hoewon","ganui","chinmogeul","domohamnida","."],"vi":"Mưu cầu sự thân thiết giữa các thành viên.","alts":[]}},
+   {"id":"ko5x13-동원하다","hanzi":"동원하다","pinyin":"dongwonhada","vi":"huy động","ex":{"tokens":["모든","수단을","동원했습니다","."],"py":["modeun","sudaneul","dongwonhaetseumnida","."],"vi":"Đã huy động mọi phương tiện.","alts":[]}},
+   {"id":"ko5x13-마련하다","hanzi":"마련하다","pinyin":"maryeonhada","vi":"chuẩn bị, lo liệu","ex":{"tokens":["대책을","마련합니다","."],"py":["daechaegeul","maryeonhamnida","."],"vi":"Lo liệu đối sách.","alts":[]}},
+   {"id":"ko5x13-명시하다","hanzi":"명시하다","pinyin":"myeongsihada","vi":"ghi rõ","ex":{"tokens":["계약서에","조건을","명시했습니다","."],"py":["gyeyakseoe","jogeoneul","myeongsihaetseumnida","."],"vi":"Đã ghi rõ điều kiện trong hợp đồng.","alts":[]}},
+   {"id":"ko5x13-부각하다","hanzi":"부각하다","pinyin":"bugakada","vi":"làm nổi bật","ex":{"tokens":["장점을","부각합니다","."],"py":["jangjeomeul","bugakamnida","."],"vi":"Làm nổi bật ưu điểm.","alts":[]}},
+   {"id":"ko5x13-부여하다","hanzi":"부여하다","pinyin":"buyeohada","vi":"trao cho, gán cho","ex":{"tokens":["의미를","부여합니다","."],"py":["uimireul","buyeohamnida","."],"vi":"Gán cho ý nghĩa.","alts":[]}}
+  ]},
+  {"id":"ko5x14","title":"Động từ trang trọng 2 1","desc":"Dùng trong báo cáo, luận văn","icon":"시","unit":55,"course":"ko","order":3050,"words":[
+   {"id":"ko5x14-시정하다","hanzi":"시정하다","pinyin":"sijeonghada","vi":"chỉnh sửa cho đúng","ex":{"tokens":["잘못된","관행을","시정합니다","."],"py":["jalmotdoen","gwanhaengeul","sijeonghamnida","."],"vi":"Chỉnh sửa lề thói sai trái.","alts":[]}},
+   {"id":"ko5x14-역설하다","hanzi":"역설하다","pinyin":"yeokseolhada","vi":"nhấn mạnh khẳng định","ex":{"tokens":["교육의","중요성을","역설했습니다","."],"py":["gyoyugui","jungyoseongeul","yeokseolhaetseumnida","."],"vi":"Đã nhấn mạnh khẳng định tầm quan trọng của giáo dục.","alts":[]}},
+   {"id":"ko5x14-열거하다","hanzi":"열거하다","pinyin":"yeolgeohada","vi":"liệt kê","ex":{"tokens":["이유를","열거합니다","."],"py":["iyureul","yeolgeohamnida","."],"vi":"Liệt kê các lý do.","alts":[]}},
+   {"id":"ko5x14-유추하다","hanzi":"유추하다","pinyin":"yuchuhada","vi":"suy ra tương tự","ex":{"tokens":["결과를","유추할","수","있습니다","."],"py":["gyeolgwareul","yuchuhal","su","itseumnida","."],"vi":"Có thể suy ra kết quả.","alts":[]}},
+   {"id":"ko5x14-의거하다","hanzi":"의거하다","pinyin":"uigeohada","vi":"căn cứ vào","ex":{"tokens":["법에","의거하여","처리합니다","."],"py":["beobe","uigeohayeo","cheorihamnida","."],"vi":"Xử lý căn cứ vào luật.","alts":[]}},
+   {"id":"ko5x14-입각하다","hanzi":"입각하다","pinyin":"ipgakada","vi":"dựa trên lập trường","ex":{"tokens":["사실에","입각하여","판단합니다","."],"py":["sasire","ipgakayeo","pandanhamnida","."],"vi":"Phán đoán dựa trên sự thật.","alts":[]}},
+   {"id":"ko5x14-전개하다","hanzi":"전개하다","pinyin":"jeongaehada","vi":"triển khai","ex":{"tokens":["논의를","전개합니다","."],"py":["nonuireul","jeongaehamnida","."],"vi":"Triển khai cuộc bàn luận.","alts":[]}},
+   {"id":"ko5x14-전환하다","hanzi":"전환하다","pinyin":"jeonhwanhada","vi":"chuyển đổi","ex":{"tokens":["생각을","전환해야","합니다","."],"py":["saenggageul","jeonhwanhaeya","hamnida","."],"vi":"Phải chuyển đổi suy nghĩ.","alts":[]}},
+   {"id":"ko5x14-정립하다","hanzi":"정립하다","pinyin":"jeongnipada","vi":"xác lập","ex":{"tokens":["새로운","이론을","정립했습니다","."],"py":["saeroun","ironeul","jeongnipaetseumnida","."],"vi":"Đã xác lập lý thuyết mới.","alts":[]}},
+   {"id":"ko5x14-제기하다","hanzi":"제기하다","pinyin":"jegihada","vi":"nêu ra (vấn đề)","ex":{"tokens":["문제를","제기했습니다","."],"py":["munjereul","jegihaetseumnida","."],"vi":"Đã nêu ra vấn đề.","alts":[]}},
+   {"id":"ko5x14-조성하다","hanzi":"조성하다","pinyin":"joseonghada","vi":"tạo dựng","ex":{"tokens":["좋은","분위기를","조성합니다","."],"py":["joeun","bunwigireul","joseonghamnida","."],"vi":"Tạo dựng bầu không khí tốt.","alts":[]}},
+   {"id":"ko5x14-주도하다","hanzi":"주도하다","pinyin":"judohada","vi":"chủ đạo, dẫn đầu","ex":{"tokens":["변화를","주도합니다","."],"py":["byeonhwareul","judohamnida","."],"vi":"Dẫn đầu sự thay đổi.","alts":[]}}
+  ]},
+  {"id":"ko5x15","title":"Động từ trang trọng 2 2","desc":"Dùng trong báo cáo, luận văn","icon":"지","unit":55,"course":"ko","order":3060,"words":[
+   {"id":"ko5x15-지속하다","hanzi":"지속하다","pinyin":"jisokada","vi":"duy trì tiếp tục","ex":{"tokens":["노력을","지속합니다","."],"py":["noryeogeul","jisokamnida","."],"vi":"Tiếp tục duy trì nỗ lực.","alts":[]}},
+   {"id":"ko5x15-창출하다","hanzi":"창출하다","pinyin":"changchulhada","vi":"tạo ra (việc làm, giá trị)","ex":{"tokens":["일자리를","창출합니다","."],"py":["iljarireul","changchulhamnida","."],"vi":"Tạo ra việc làm.","alts":[]}},
+   {"id":"ko5x15-채택하다","hanzi":"채택하다","pinyin":"chaetaekada","vi":"thông qua, chọn dùng","ex":{"tokens":["새로운","방식을","채택했습니다","."],"py":["saeroun","bangsigeul","chaetaekaetseumnida","."],"vi":"Đã chọn dùng phương thức mới.","alts":[]}},
+   {"id":"ko5x15-추구하다","hanzi":"추구하다","pinyin":"chuguhada","vi":"theo đuổi","ex":{"tokens":["행복을","추구합니다","."],"py":["haengbogeul","chuguhamnida","."],"vi":"Theo đuổi hạnh phúc.","alts":[]}},
+   {"id":"ko5x15-추정하다","hanzi":"추정하다","pinyin":"chujeonghada","vi":"ước đoán","ex":{"tokens":["피해","규모를","추정합니다","."],"py":["pihae","gyumoreul","chujeonghamnida","."],"vi":"Ước đoán quy mô thiệt hại.","alts":[]}},
+   {"id":"ko5x15-탐구하다","hanzi":"탐구하다","pinyin":"tamguhada","vi":"tìm tòi khám phá","ex":{"tokens":["진리를","탐구합니다","."],"py":["jillireul","tamguhamnida","."],"vi":"Tìm tòi khám phá chân lý.","alts":[]}},
+   {"id":"ko5x15-통합하다","hanzi":"통합하다","pinyin":"tonghapada","vi":"hợp nhất","ex":{"tokens":["두","부서를","통합했습니다","."],"py":["du","buseoreul","tonghapaetseumnida","."],"vi":"Đã hợp nhất hai bộ phận.","alts":[]}},
+   {"id":"ko5x15-파악하다","hanzi":"파악하다","pinyin":"paakada","vi":"nắm bắt","ex":{"tokens":["상황을","파악합니다","."],"py":["sanghwangeul","paakamnida","."],"vi":"Nắm bắt tình hình.","alts":[]}},
+   {"id":"ko5x15-편성하다","hanzi":"편성하다","pinyin":"pyeonseonghada","vi":"biên chế, lập (ngân sách)","ex":{"tokens":["예산을","편성합니다","."],"py":["yesaneul","pyeonseonghamnida","."],"vi":"Lập ngân sách.","alts":[]}},
+   {"id":"ko5x15-표명하다","hanzi":"표명하다","pinyin":"pyomyeonghada","vi":"bày tỏ rõ","ex":{"tokens":["반대","입장을","표명했습니다","."],"py":["bandae","ipjangeul","pyomyeonghaetseumnida","."],"vi":"Đã bày tỏ rõ lập trường phản đối.","alts":[]}},
+   {"id":"ko5x15-함양하다","hanzi":"함양하다","pinyin":"hamyanghada","vi":"bồi dưỡng","ex":{"tokens":["인성을","함양합니다","."],"py":["inseongeul","hamyanghamnida","."],"vi":"Bồi dưỡng nhân cách.","alts":[]}},
+   {"id":"ko5x15-해소하다","hanzi":"해소하다","pinyin":"haesohada","vi":"giải tỏa, xóa bỏ","ex":{"tokens":["갈등을","해소합니다","."],"py":["galdeungeul","haesohamnida","."],"vi":"Giải tỏa mâu thuẫn.","alts":[]}}
+  ]},
+  {"id":"ko5x16","title":"Tính từ và trạng từ trang trọng 1","desc":"Sắc thái văn viết","icon":"광","unit":55,"course":"ko","order":3070,"words":[
+   {"id":"ko5x16-광범위하다","hanzi":"광범위하다","pinyin":"gwangbeomwihada","vi":"rộng khắp","ex":{"tokens":["광범위한","조사를","실시했습니다","."],"py":["gwangbeomwihan","josareul","silsihaetseumnida","."],"vi":"Đã tiến hành khảo sát rộng khắp.","alts":[]}},
+   {"id":"ko5x16-방대하다","hanzi":"방대하다","pinyin":"bangdaehada","vi":"đồ sộ","ex":{"tokens":["자료가","방대합니다","."],"py":["jaryoga","bangdaehamnida","."],"vi":"Tài liệu đồ sộ.","alts":[]}},
+   {"id":"ko5x16-미흡하다","hanzi":"미흡하다","pinyin":"miheupada","vi":"chưa đạt, còn thiếu sót","ex":{"tokens":["준비가","미흡했습니다","."],"py":["junbiga","miheupaetseumnida","."],"vi":"Sự chuẩn bị còn thiếu sót.","alts":[]}},
+   {"id":"ko5x16-부실하다","hanzi":"부실하다","pinyin":"busilhada","vi":"kém chất lượng, yếu kém","ex":{"tokens":["공사가","부실했습니다","."],"py":["gongsaga","busilhaetseumnida","."],"vi":"Công trình kém chất lượng.","alts":[]}},
+   {"id":"ko5x16-빈번하다","hanzi":"빈번하다","pinyin":"binbeonhada","vi":"thường xuyên xảy ra","ex":{"tokens":["사고가","빈번합니다","."],"py":["sagoga","binbeonhamnida","."],"vi":"Tai nạn xảy ra thường xuyên.","alts":[]}},
+   {"id":"ko5x16-상이하다","hanzi":"상이하다","pinyin":"sangihada","vi":"khác nhau (trang trọng)","ex":{"tokens":["두","사람의","견해가","상이합니다","."],"py":["du","saramui","gyeonhaega","sangihamnida","."],"vi":"Kiến giải của hai người khác nhau.","alts":[]}},
+   {"id":"ko5x16-유사하다","hanzi":"유사하다","pinyin":"yusahada","vi":"tương tự (trang trọng)","ex":{"tokens":["두","사건은","유사합니다","."],"py":["du","sageoneun","yusahamnida","."],"vi":"Hai vụ việc tương tự nhau.","alts":[]}},
+   {"id":"ko5x16-동일하다","hanzi":"동일하다","pinyin":"dongilhada","vi":"đồng nhất, giống hệt (trang trọng)","ex":{"tokens":["조건이","동일합니다","."],"py":["jogeoni","dongilhamnida","."],"vi":"Điều kiện đồng nhất.","alts":[]}},
+   {"id":"ko5x16-밀접하다","hanzi":"밀접하다","pinyin":"miljeopada","vi":"mật thiết","ex":{"tokens":["두","문제는","밀접한","관계가","있습니다","."],"py":["du","munjeneun","miljeopan","gwangyega","itseumnida","."],"vi":"Hai vấn đề có quan hệ mật thiết.","alts":[]}},
+   {"id":"ko5x16-무관하다","hanzi":"무관하다","pinyin":"mugwanhada","vi":"không liên quan","ex":{"tokens":["그","일은","저와","무관합니다","."],"py":["geu","ireun","jeowa","mugwanhamnida","."],"vi":"Việc đó không liên quan đến tôi.","alts":[]}},
+   {"id":"ko5x16-유력하다","hanzi":"유력하다","pinyin":"yuryeokada","vi":"có thế lực, nhiều khả năng","ex":{"tokens":["그가","유력한","후보입니다","."],"py":["geuga","yuryeokan","huboimnida","."],"vi":"Ông ấy là ứng viên nhiều khả năng thắng.","alts":[]}},
+   {"id":"ko5x16-유망하다","hanzi":"유망하다","pinyin":"yumanghada","vi":"có triển vọng","ex":{"tokens":["유망한","산업에","투자합니다","."],"py":["yumanghan","saneobe","tujahamnida","."],"vi":"Đầu tư vào ngành có triển vọng.","alts":[]}}
+  ]},
+  {"id":"ko5x17","title":"Tính từ và trạng từ trang trọng 2","desc":"Sắc thái văn viết","icon":"저","unit":55,"course":"ko","order":3080,"words":[
+   {"id":"ko5x17-저조하다","hanzi":"저조하다","pinyin":"jeojohada","vi":"thấp kém, ảm đạm","ex":{"tokens":["참여율이","저조합니다","."],"py":["chamyeoyuri","jeojohamnida","."],"vi":"Tỷ lệ tham gia thấp kém.","alts":[]}},
+   {"id":"ko5x17-저렴하다","hanzi":"저렴하다","pinyin":"jeoryeomhada","vi":"giá rẻ (trang trọng)","ex":{"tokens":["가격이","저렴합니다","."],"py":["gagyeogi","jeoryeomhamnida","."],"vi":"Giá rẻ.","alts":[]}},
+   {"id":"ko5x17-부적절하다","hanzi":"부적절하다","pinyin":"bujeokjeolhada","vi":"không thích đáng","ex":{"tokens":["부적절한","발언을","했습니다","."],"py":["bujeokjeolhan","bareoneul","haetseumnida","."],"vi":"Đã có phát ngôn không thích đáng.","alts":[]}},
+   {"id":"ko5x17-명확하다","hanzi":"명확하다","pinyin":"myeonghwakada","vi":"minh bạch rõ ràng","ex":{"tokens":["기준이","명확합니다","."],"py":["gijuni","myeonghwakamnida","."],"vi":"Tiêu chuẩn minh bạch rõ ràng.","alts":[]}},
+   {"id":"ko5x17-불투명하다","hanzi":"불투명하다","pinyin":"bultumyeonghada","vi":"mờ mịt, không rõ","ex":{"tokens":["전망이","불투명합니다","."],"py":["jeonmangi","bultumyeonghamnida","."],"vi":"Triển vọng mờ mịt.","alts":[]}},
+   {"id":"ko5x17-시급하다","hanzi":"시급하다","pinyin":"sigeupada","vi":"cấp bách","ex":{"tokens":["대책","마련이","시급합니다","."],"py":["daechaek","maryeoni","sigeupamnida","."],"vi":"Việc lo đối sách là cấp bách.","alts":[]}},
+   {"id":"ko5x17-긴밀하다","hanzi":"긴밀하다","pinyin":"ginmilhada","vi":"chặt chẽ khăng khít","ex":{"tokens":["긴밀하게","협력합니다","."],"py":["ginmilhage","hyeomnyeokamnida","."],"vi":"Hợp tác chặt chẽ.","alts":[]}},
+   {"id":"ko5x17-원만하다","hanzi":"원만하다","pinyin":"wonmanhada","vi":"êm đẹp, tròn trịa","ex":{"tokens":["문제를","원만하게","해결했습니다","."],"py":["munjereul","wonmanhage","haegyeolhaetseumnida","."],"vi":"Đã giải quyết vấn đề êm đẹp.","alts":[]}},
+   {"id":"ko5x17-현명하다","hanzi":"현명하다","pinyin":"hyeonmyeonghada","vi":"sáng suốt","ex":{"tokens":["현명한","선택을","했습니다","."],"py":["hyeonmyeonghan","seontaegeul","haetseumnida","."],"vi":"Đã lựa chọn sáng suốt.","alts":[]}},
+   {"id":"ko5x17-어리석다","hanzi":"어리석다","pinyin":"eoriseokda","vi":"ngu ngốc","ex":{"tokens":["어리석은","결정을","내렸습니다","."],"py":["eoriseogeun","gyeoljeongeul","naeryeotseumnida","."],"vi":"Đã đưa ra quyết định ngu ngốc.","alts":[]}},
+   {"id":"ko5x17-무모하다","hanzi":"무모하다","pinyin":"mumohada","vi":"liều lĩnh","ex":{"tokens":["무모한","도전입니다","."],"py":["mumohan","dojeonimnida","."],"vi":"Đó là một thử thách liều lĩnh.","alts":[]}},
+   {"id":"ko5x17-대폭","hanzi":"대폭","pinyin":"daepok","vi":"với biên độ lớn","ex":{"tokens":["가격을","대폭","내렸습니다","."],"py":["gagyeogeul","daepok","naeryeotseumnida","."],"vi":"Đã hạ giá mạnh.","alts":[]}}
+  ]},
+  {"id":"ko5x18","title":"Phương pháp nghiên cứu 1","desc":"Thống kê và học thuật","icon":"연","unit":55,"course":"ko","order":3090,"words":[
+   {"id":"ko5x18-연구방법","hanzi":"연구방법","pinyin":"yeongubangbeop","vi":"phương pháp nghiên cứu","ex":{"tokens":["연구방법을","설명합니다","."],"py":["yeongubangbeobeul","seolmyeonghamnida","."],"vi":"Giải thích phương pháp nghiên cứu.","alts":[]}},
+   {"id":"ko5x18-선행연구","hanzi":"선행연구","pinyin":"seonhaengyeongu","vi":"nghiên cứu đi trước","ex":{"tokens":["선행연구를","검토했습니다","."],"py":["seonhaengyeongureul","geomtohaetseumnida","."],"vi":"Đã xem xét các nghiên cứu đi trước.","alts":[]}},
+   {"id":"ko5x18-표본","hanzi":"표본","pinyin":"pyobon","vi":"mẫu (thống kê)","ex":{"tokens":["표본을","무작위로","뽑습니다","."],"py":["pyoboneul","mujagwiro","ppopseumnida","."],"vi":"Chọn mẫu ngẫu nhiên.","alts":[]}},
+   {"id":"ko5x18-모집단","hanzi":"모집단","pinyin":"mojipdan","vi":"tổng thể (thống kê)","ex":{"tokens":["모집단의","특성을","추정합니다","."],"py":["mojipdanui","teukseongeul","chujeonghamnida","."],"vi":"Ước đoán đặc tính của tổng thể.","alts":[]}},
+   {"id":"ko5x18-변수","hanzi":"변수","pinyin":"byeonsu","vi":"biến số","ex":{"tokens":["여러","변수를","통제합니다","."],"py":["yeoreo","byeonsureul","tongjehamnida","."],"vi":"Kiểm soát nhiều biến số.","alts":[]}},
+   {"id":"ko5x18-상관관계","hanzi":"상관관계","pinyin":"sanggwangwangye","vi":"quan hệ tương quan","ex":{"tokens":["두","요인","사이에","상관관계가","있습니다","."],"py":["du","yoin","saie","sanggwangwangyega","itseumnida","."],"vi":"Giữa hai yếu tố có quan hệ tương quan.","alts":[]}},
+   {"id":"ko5x18-인과관계","hanzi":"인과관계","pinyin":"ingwagwangye","vi":"quan hệ nhân quả","ex":{"tokens":["인과관계를","입증하기","어렵습니다","."],"py":["ingwagwangyereul","ipjeunghagi","eoryeopseumnida","."],"vi":"Khó chứng minh quan hệ nhân quả.","alts":[]}},
+   {"id":"ko5x18-오차","hanzi":"오차","pinyin":"ocha","vi":"sai số","ex":{"tokens":["오차","범위","안에","있습니다","."],"py":["ocha","beomwi","ane","itseumnida","."],"vi":"Nằm trong phạm vi sai số.","alts":[]}},
+   {"id":"ko5x18-비율","hanzi":"비율","pinyin":"biyul","vi":"tỷ lệ","ex":{"tokens":["남녀","비율이","비슷합니다","."],"py":["namnyeo","biyuri","biseutamnida","."],"vi":"Tỷ lệ nam nữ tương đương.","alts":[]}},
+   {"id":"ko5x18-빈도","hanzi":"빈도","pinyin":"bindo","vi":"tần suất","ex":{"tokens":["사용","빈도가","높습니다","."],"py":["sayong","bindoga","nopseumnida","."],"vi":"Tần suất sử dụng cao.","alts":[]}},
+   {"id":"ko5x18-수치","hanzi":"수치","pinyin":"suchi","vi":"con số, chỉ số","ex":{"tokens":["정확한","수치를","제시합니다","."],"py":["jeonghwakan","suchireul","jesihamnida","."],"vi":"Đưa ra con số chính xác.","alts":[]}},
+   {"id":"ko5x18-지표","hanzi":"지표","pinyin":"jipyo","vi":"chỉ tiêu, chỉ số","ex":{"tokens":["경제","지표가","나빠졌습니다","."],"py":["gyeongje","jipyoga","nappajyeotseumnida","."],"vi":"Chỉ số kinh tế đã xấu đi.","alts":[]}}
+  ]}
+ ]
+}

@@ -1,0 +1,62 @@
+=5
+@Hàng không và hàng hải|Vận tải chuyên ngành
+항공사|hãng hàng không|항공사에 예약을 문의합니다.|Hỏi hãng hàng không về đặt chỗ.
+관제탑|đài kiểm soát không lưu|관제탑의 지시를 따릅니다.|Làm theo chỉ thị của đài kiểm soát không lưu.
+활주로|đường băng|비행기가 활주로에 착륙했습니다.|Máy bay đã hạ cánh xuống đường băng.
+경유|sự quá cảnh|홍콩을 경유해서 갑니다.|Đi quá cảnh qua Hồng Kông.
+직항|chuyến bay thẳng|하노이까지 직항이 있습니다.|Có chuyến bay thẳng đến Hà Nội.
+난기류|nhiễu động không khí|난기류 때문에 비행기가 흔들립니다.|Máy bay rung lắc vì nhiễu động không khí.
+화물선|tàu chở hàng|화물선이 항구에 들어옵니다.|Tàu chở hàng vào cảng.
+선장|thuyền trưởng|선장이 배를 지휘합니다.|Thuyền trưởng chỉ huy con tàu.
+선원|thủy thủ|선원들이 갑판에서 일합니다.|Thủy thủ làm việc trên boong.
+갑판|boong tàu|갑판에 나가 바다를 봅니다.|Ra boong tàu ngắm biển.
+부두|bến tàu|부두에 배가 정박해 있습니다.|Tàu đang neo ở bến.
+항로|tuyến đường (biển, bay)|새로운 항로를 개척했습니다.|Đã mở tuyến đường mới.
+조난|sự gặp nạn (trên biển, núi)|배가 조난을 당했습니다.|Con tàu đã gặp nạn.
+구명조끼|áo phao cứu sinh|구명조끼를 입으세요.|Hãy mặc áo phao cứu sinh.
+@Cảm xúc tinh tế|Diễn tả tâm trạng sâu
+허탈하다|hụt hẫng trống rỗng|시험이 끝나니 허탈합니다.|Thi xong thấy hụt hẫng trống rỗng.
+막막하다|mịt mù không lối|앞날이 막막합니다.|Tương lai mịt mù.
+착잡하다|rối bời lẫn lộn|마음이 착잡합니다.|Lòng rối bời.
+씁쓸하다|đắng lòng|결과를 듣고 씁쓸했습니다.|Nghe kết quả tôi thấy đắng lòng.
+뭉클하다|nghẹn ngào xúc động|그 장면에 가슴이 뭉클했습니다.|Cảnh đó làm tôi nghẹn ngào.
+벅차다|ngập tràn (cảm xúc); quá sức|가슴이 벅차서 말이 안 나옵니다.|Lòng ngập tràn cảm xúc, không nói nên lời.
+후련하다|hả lòng, nhẹ cả người|다 말하고 나니 후련합니다.|Nói hết ra thấy nhẹ cả người.
+언짢다|khó chịu, phật ý|그 말을 듣고 언짢았습니다.|Nghe lời đó tôi phật ý.
+못마땅하다|không vừa lòng|그의 태도가 못마땅합니다.|Tôi không vừa lòng thái độ của anh ấy.
+거북하다|ngượng nghịu khó xử|그 사람과 있으면 거북합니다.|Ở cùng người đó thấy khó xử.
+멋쩍다|ngượng ngùng, sượng|실수를 해서 멋쩍었습니다.|Mắc lỗi nên tôi sượng.
+흐뭇하다|hài lòng ấm áp|아이들을 보니 흐뭇합니다.|Nhìn bọn trẻ thấy hài lòng ấm áp.
+애틋하다|da diết thương mến|고향 생각이 애틋합니다.|Nỗi nhớ quê da diết.
+간절하다|khẩn thiết|합격을 간절히 바랍니다.|Tôi khẩn thiết mong thi đỗ.
+절박하다|bức bách|상황이 절박합니다.|Tình hình bức bách.
+암담하다|u ám tuyệt vọng|현실이 암담합니다.|Hiện thực u ám.
+참담하다|thê thảm|참담한 결과가 나왔습니다.|Kết quả thê thảm.
+처량하다|thê lương|혼자 걷는 모습이 처량합니다.|Dáng đi một mình trông thê lương.
+울적하다|rầu rĩ|비가 오면 마음이 울적합니다.|Trời mưa lòng rầu rĩ.
+심란하다|bồn chồn rối trí|이사 때문에 심란합니다.|Tôi rối trí vì chuyển nhà.
+조마조마하다|hồi hộp lo âu|들킬까 봐 조마조마합니다.|Hồi hộp sợ bị lộ.
+얼떨떨하다|ngỡ ngàng choáng váng|갑자기 상을 받아 얼떨떨합니다.|Bỗng nhận giải nên ngỡ ngàng.
+어리둥절하다|ngơ ngác|무슨 일인지 몰라 어리둥절합니다.|Không biết chuyện gì nên ngơ ngác.
+@Khoa học thể thao và dinh dưỡng|Vận động chuyên sâu
+근력|sức cơ|근력 운동을 합니다.|Tập luyện sức cơ.
+지구력|sức bền|달리기로 지구력을 기릅니다.|Rèn sức bền bằng chạy bộ.
+유연성|độ dẻo|요가로 유연성을 높입니다.|Tăng độ dẻo bằng yoga.
+심폐기능|chức năng tim phổi|수영은 심폐기능에 좋습니다.|Bơi tốt cho chức năng tim phổi.
+체지방|mỡ cơ thể|체지방을 줄였습니다.|Đã giảm mỡ cơ thể.
+근육량|lượng cơ|근육량이 늘었습니다.|Lượng cơ đã tăng.
+유산소운동|vận động hiếu khí|유산소운동을 매일 합니다.|Ngày nào cũng vận động hiếu khí.
+준비운동|khởi động|수영 전에 준비운동을 합니다.|Khởi động trước khi bơi.
+체력단련|rèn luyện thể lực|체력단련을 위해 등산합니다.|Leo núi để rèn luyện thể lực.
+도핑|doping|도핑 검사에서 적발되었습니다.|Đã bị phát hiện trong kiểm tra doping.
+@Ẩm thực và chế biến|Khoa học thực phẩm
+발효식품|thực phẩm lên men|김치는 대표적인 발효식품입니다.|Kim chi là thực phẩm lên men tiêu biểu.
+숙성|sự ủ chín|고기를 숙성시킵니다.|Ủ chín thịt.
+염분|lượng muối|염분 섭취를 줄입니다.|Giảm lượng muối nạp vào.
+당분|lượng đường|음료수에 당분이 많습니다.|Nước ngọt có nhiều đường.
+식이섬유|chất xơ|채소에는 식이섬유가 풍부합니다.|Rau giàu chất xơ.
+영양소|chất dinh dưỡng|필수 영양소를 섭취합니다.|Nạp chất dinh dưỡng thiết yếu.
+섭취량|lượng nạp vào|하루 물 섭취량을 늘립니다.|Tăng lượng nước nạp vào mỗi ngày.
+조리법|cách chế biến món|전통 조리법을 배웁니다.|Học cách chế biến truyền thống.
+식재료|nguyên liệu nấu ăn|신선한 식재료를 씁니다.|Dùng nguyên liệu nấu ăn tươi.
+보존|sự bảo quản lâu dài|음식을 냉동하여 보존합니다.|Bảo quản thức ăn bằng cách đông lạnh.

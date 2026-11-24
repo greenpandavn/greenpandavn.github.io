@@ -1,0 +1,88 @@
+=3
+@Từ tượng thanh tượng hình|Âm thanh và dáng vẻ
+반짝반짝|lấp lánh|별이 반짝반짝 빛납니다.|Ngôi sao tỏa sáng lấp lánh.
+두근두근|thình thịch (tim đập)|가슴이 두근두근 뜁니다.|Tim tôi đập thình thịch.
+깜짝|giật mình|소리에 깜짝 놀랐습니다.|Tôi giật mình vì tiếng động.
+살금살금|rón rén|고양이가 살금살금 걸어옵니다.|Con mèo rón rén đi tới.
+주룩주룩|rào rào (mưa)|비가 주룩주룩 내립니다.|Mưa rơi rào rào.
+펑펑|(tuyết, nước mắt) rơi lã chã|눈이 펑펑 옵니다.|Tuyết rơi dày đặc.
+쌩쌩|vù vù|바람이 쌩쌩 붑니다.|Gió thổi vù vù.
+꼬르륵|ùng ục (bụng kêu)|배에서 꼬르륵 소리가 납니다.|Bụng kêu ùng ục.
+쿨쿨|khò khò|아빠가 쿨쿨 잡니다.|Bố ngủ khò khò.
+멍멍|gâu gâu|강아지가 멍멍 짖습니다.|Chú cún sủa gâu gâu.
+야옹|meo meo|고양이가 야옹 하고 웁니다.|Con mèo kêu meo meo.
+엉엉|hu hu|아이가 엉엉 웁니다.|Đứa bé khóc hu hu.
+깔깔|khanh khách|아이들이 깔깔 웃습니다.|Bọn trẻ cười khanh khách.
+방긋|tủm tỉm|아기가 방긋 웃습니다.|Em bé cười tủm tỉm.
+빙글빙글|quay vòng vòng|팽이가 빙글빙글 돕니다.|Con quay quay vòng vòng.
+흔들흔들|lắc lư|나무가 바람에 흔들흔들 합니다.|Cây lắc lư trong gió.
+꾸벅꾸벅|gật gà gật gù|학생이 꾸벅꾸벅 좁니다.|Học sinh ngủ gật gà gật gù.
+벌떡|bật dậy|전화 소리에 벌떡 일어났습니다.|Nghe tiếng điện thoại tôi bật dậy.
+슬슬|từ từ, sắp sửa|슬슬 출발합시다.|Chúng ta từ từ xuất phát thôi.
+텅|trống trơn|지갑이 텅 비었습니다.|Ví trống trơn.
+꽉|chặt, đầy ních|버스에 사람이 꽉 찼습니다.|Xe buýt đầy ních người.
+쭉|thẳng một mạch|이 길로 쭉 가세요.|Hãy đi thẳng một mạch theo đường này.
+뚝|bặt, rụp|비가 뚝 그쳤습니다.|Mưa tạnh bặt.
+활짝|(nở, mở) bung, rạng rỡ|꽃이 활짝 피었습니다.|Hoa nở bung.
+@Động từ bị động và sai khiến|Hành động do tác động
+잡히다|bị bắt|도둑이 경찰에게 잡혔습니다.|Tên trộm đã bị cảnh sát bắt.
+물리다|bị cắn|모기에게 물렸습니다.|Tôi bị muỗi đốt.
+쫓기다|bị đuổi|시간에 쫓깁니다.|Tôi bị thời gian đuổi.
+빼앗기다|bị cướp mất|가방을 빼앗겼습니다.|Tôi bị cướp mất túi.
+밟히다|bị giẫm|지하철에서 발을 밟혔습니다.|Tôi bị giẫm vào chân trên tàu điện ngầm.
+안기다|được ôm; sà vào lòng|아기가 엄마에게 안깁니다.|Em bé sà vào lòng mẹ.
+업히다|được cõng|아이가 아빠에게 업혔습니다.|Đứa bé được bố cõng.
+쌓이다|chồng chất|책상에 서류가 쌓였습니다.|Giấy tờ chồng chất trên bàn.
+섞이다|bị trộn lẫn|물과 기름은 섞이지 않습니다.|Nước và dầu không trộn lẫn.
+잠기다|bị khóa; bị ngập|문이 잠겼습니다.|Cửa đã bị khóa.
+풀리다|được tháo gỡ, giải tỏa|스트레스가 풀렸습니다.|Căng thẳng đã được giải tỏa.
+끊기다|bị ngắt|전화가 끊겼습니다.|Cuộc gọi bị ngắt.
+부러지다|bị gãy|연필이 부러졌습니다.|Bút chì bị gãy.
+쏟다|làm đổ ra, trút|커피를 바닥에 쏟았습니다.|Tôi đã làm đổ cà phê ra sàn.
+넘어뜨리다|làm ngã|바람이 나무를 넘어뜨렸습니다.|Gió đã làm đổ cây.
+살리다|cứu sống|의사가 환자를 살렸습니다.|Bác sĩ đã cứu sống bệnh nhân.
+죽이다|giết|모기를 죽였습니다.|Tôi đã giết con muỗi.
+앉히다|cho ngồi|아이를 의자에 앉힙니다.|Tôi cho đứa bé ngồi lên ghế.
+세우다|dựng; dừng (xe)|차를 길가에 세웁니다.|Tôi dừng xe bên đường.
+낮추다|hạ thấp|목소리를 낮춥니다.|Tôi hạ giọng.
+늘리다|tăng thêm|운동 시간을 늘립니다.|Tôi tăng thời gian tập thể dục.
+밝히다|làm sáng tỏ; thắp sáng|사실을 밝힙니다.|Làm sáng tỏ sự thật.
+@Lời nói và giao tiếp|Cách nói năng
+말투|giọng điệu|그의 말투는 부드럽습니다.|Giọng điệu của anh ấy nhẹ nhàng.
+말씨|cách ăn nói|말씨가 곱습니다.|Cách ăn nói dịu dàng.
+혼잣말|lời nói một mình|그는 혼잣말을 자주 합니다.|Anh ấy hay nói một mình.
+잡담|chuyện tán gẫu|수업 시간에 잡담을 하지 마세요.|Đừng tán gẫu trong giờ học.
+변명|lời biện bạch|변명을 하지 마세요.|Đừng biện bạch.
+불평|lời phàn nàn|그는 항상 불평을 합니다.|Anh ấy lúc nào cũng phàn nàn.
+감탄|sự trầm trồ|경치를 보고 감탄을 했습니다.|Ngắm cảnh tôi đã trầm trồ.
+맹세|lời thề|다시는 안 하겠다고 맹세를 했습니다.|Tôi đã thề sẽ không làm nữa.
+초대장|thiệp mời|파티 초대장을 보냅니다.|Tôi gửi thiệp mời dự tiệc.
+연락처|địa chỉ liên lạc|연락처를 남겨 주세요.|Xin hãy để lại địa chỉ liên lạc.
+말을걸다|bắt chuyện|모르는 사람에게 말을걸었습니다.|Tôi đã bắt chuyện với người lạ.
+털어놓다|thổ lộ|친구에게 고민을 털어놓습니다.|Tôi thổ lộ nỗi trăn trở với bạn.
+캐묻다|hỏi dồn, gặng hỏi|엄마가 어디 갔는지 캐묻습니다.|Mẹ gặng hỏi tôi đã đi đâu.
+중얼거리다|lẩm bẩm|혼자 중얼거립니다.|Anh ấy lẩm bẩm một mình.
+더듬다|nói lắp; sờ soạng|긴장해서 말을 더듬습니다.|Căng thẳng nên tôi nói lắp.
+떠벌리다|khoe khoang ầm ĩ|자기 자랑을 떠벌립니다.|Anh ta khoe khoang ầm ĩ về mình.
+끼어들다|chen vào|남의 말에 끼어들지 마세요.|Đừng chen vào lời người khác.
+맞장구|sự hùa theo, phụ họa|친구의 말에 맞장구를 칩니다.|Tôi phụ họa theo lời bạn.
+@Cơ thể và giác quan|Bộ phận và cảm giác
+속눈썹|lông mi|속눈썹이 깁니다.|Lông mi dài.
+볼|má|아기의 볼이 빨갛습니다.|Má em bé đỏ.
+잇몸|lợi|잇몸에서 피가 납니다.|Lợi bị chảy máu.
+손톱|móng tay|손톱을 깎습니다.|Tôi cắt móng tay.
+발톱|móng chân|발톱이 길었습니다.|Móng chân đã dài.
+손바닥|lòng bàn tay|손바닥에 땀이 납니다.|Lòng bàn tay ra mồ hôi.
+손목|cổ tay|손목이 아픕니다.|Cổ tay đau.
+발목|cổ chân|발목을 삐었습니다.|Tôi bị trẹo cổ chân.
+팔꿈치|khuỷu tay|팔꿈치를 책상에 올립니다.|Tôi đặt khuỷu tay lên bàn.
+엉덩이|mông|넘어져서 엉덩이가 아픕니다.|Bị ngã nên đau mông.
+뼈|xương|뼈가 튼튼합니다.|Xương chắc khỏe.
+근육|cơ bắp|운동을 해서 근육이 생겼습니다.|Tập thể dục nên có cơ bắp.
+심장|tim|심장이 빨리 뜁니다.|Tim đập nhanh.
+시각|thị giác|시각 장애인을 돕습니다.|Tôi giúp người khiếm thị.
+청각|thính giác|개는 청각이 뛰어납니다.|Chó có thính giác nhạy.
+후각|khứu giác|감기 때문에 후각이 둔합니다.|Vì cảm nên khứu giác kém nhạy.
+촉감|cảm giác khi chạm|이 천은 촉감이 좋습니다.|Tấm vải này sờ rất thích.
+간지럽다|buồn buồn, nhột|발바닥이 간지럽습니다.|Lòng bàn chân nhột.
+쑤시다|nhức|비가 오면 무릎이 쑤십니다.|Trời mưa thì đầu gối nhức.

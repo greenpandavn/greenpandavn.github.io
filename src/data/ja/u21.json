@@ -3,7 +3,7 @@
   {"unit":21,"level":2,"title":"Phần 1: Con người và đời sống","desc":"Cảm xúc, sở thích, sức khỏe, mua sắm, công việc","color":"leaf","course":"ja"}
  ],
  "lessons": [
-  {"id":"ja201","title":"Cảm xúc và tính cách","desc":"Vui, buồn, lo lắng, hiền lành","icon":"気","unit":21,"course":"ja","order":160,"words":[
+  {"id":"ja201","title":"Cảm xúc và tính cách","desc":"Vui, buồn, lo lắng, hiền lành","icon":"気","unit":21,"course":"ja","order":840,"words":[
    {"id":"ja201-気持ち","hanzi":"気持ち","pinyin":"kimochi","vi":"cảm giác, tâm trạng","ex":{"tokens":["今日","は","気持ち","が","いい","です","。"],"py":["kyou","wa","kimochi","ga","ii","desu","."],"vi":"Hôm nay tôi thấy dễ chịu.","alts":[]}},
    {"id":"ja201-嬉しい","hanzi":"嬉しい","pinyin":"ureshii","vi":"vui mừng","ex":{"tokens":["試験","に","合格して","嬉しい","です","。"],"py":["shiken","ni","goukakushite","ureshii","desu","."],"vi":"Tôi vui vì đã thi đỗ.","alts":[]}},
    {"id":"ja201-悲しい","hanzi":"悲しい","pinyin":"kanashii","vi":"buồn","ex":{"tokens":["映画","が","悲しくて","泣きました","。"],"py":["eiga","ga","kanashikute","nakimashita","."],"vi":"Bộ phim buồn nên tôi đã khóc.","alts":[]}},
@@ -17,7 +17,7 @@
    {"id":"ja201-安心","hanzi":"安心","pinyin":"anshin","vi":"sự yên tâm","ex":{"tokens":["無事","に","着いた","と","聞いて","安心","しました","。"],"py":["buji","ni","tsuita","to","kiite","anshin","shimashita","."],"vi":"Nghe tin đã đến nơi an toàn tôi thấy yên tâm.","alts":[]}},
    {"id":"ja201-性格","hanzi":"性格","pinyin":"seikaku","vi":"tính cách","ex":{"tokens":["姉","と","私","は","性格","が","違います","。"],"py":["ane","to","watashi","wa","seikaku","ga","chigaimasu","."],"vi":"Chị và tôi tính cách khác nhau.","alts":[]}}
   ]},
-  {"id":"ja202","title":"Sở thích","desc":"Âm nhạc, phim, thể thao, du lịch","icon":"趣","unit":21,"course":"ja","order":170,"words":[
+  {"id":"ja202","title":"Sở thích","desc":"Âm nhạc, phim, thể thao, du lịch","icon":"趣","unit":21,"course":"ja","order":850,"words":[
    {"id":"ja202-趣味","hanzi":"趣味","pinyin":"shumi","vi":"sở thích","ex":{"tokens":["私","の","趣味","は","写真","を","撮る","こと","です","。"],"py":["watashi","no","shumi","wa","shashin","o","toru","koto","desu","."],"vi":"Sở thích của tôi là chụp ảnh.","alts":[]}},
    {"id":"ja202-音楽","hanzi":"音楽","pinyin":"ongaku","vi":"âm nhạc","ex":{"tokens":["静か","な","音楽","を","よく","聞きます","。"],"py":["shizuka","na","ongaku","o","yoku","kikimasu","."],"vi":"Tôi hay nghe nhạc nhẹ.","alts":[]}},
    {"id":"ja202-映画","hanzi":"映画","pinyin":"eiga","vi":"phim","ex":{"tokens":["週末","友達","と","映画","を","見ます","。"],"py":["shuumatsu","tomodachi","to","eiga","o","mimasu","."],"vi":"Cuối tuần tôi xem phim với bạn.","alts":[]}},
@@ -31,7 +31,7 @@
    {"id":"ja202-踊る","hanzi":"踊る","pinyin":"odoru","vi":"nhảy múa","ex":{"tokens":["祭り","で","皆","と","踊る","。"],"py":["matsuri","de","minna","to","odoru","."],"vi":"Tôi nhảy múa cùng mọi người ở lễ hội.","alts":[]}},
    {"id":"ja202-楽しい","hanzi":"楽しい","pinyin":"tanoshii","vi":"vui, thú vị","ex":{"tokens":["昨日","の","パーティー","は","とても","楽しかった","です","。"],"py":["kinou","no","paateii","wa","totemo","tanoshikatta","desu","."],"vi":"Bữa tiệc hôm qua rất vui.","alts":[]}}
   ]},
-  {"id":"ja203","title":"Sức khỏe","desc":"Ốm, thuốc, bệnh viện","icon":"薬","unit":21,"course":"ja","order":180,"words":[
+  {"id":"ja203","title":"Sức khỏe","desc":"Ốm, thuốc, bệnh viện","icon":"薬","unit":21,"course":"ja","order":860,"words":[
    {"id":"ja203-健康","hanzi":"健康","pinyin":"kenkou","vi":"sức khỏe","ex":{"tokens":["健康","は","何","より","大切","です","。"],"py":["kenkou","wa","nani","yori","taisetsu","desu","."],"vi":"Sức khỏe quan trọng hơn mọi thứ.","alts":[]}},
    {"id":"ja203-風邪","hanzi":"風邪","pinyin":"kaze","vi":"cảm cúm","ex":{"tokens":["寒くて","風邪","を","引きました","。"],"py":["samukute","kaze","o","hikimashita","."],"vi":"Trời lạnh nên tôi bị cảm.","alts":[]}},
    {"id":"ja203-薬","hanzi":"薬","pinyin":"kusuri","vi":"thuốc","ex":{"tokens":["食事","の","後","で","この","薬","を","飲んで","ください","。"],"py":["shokuji","no","ato","de","kono","kusuri","o","nonde","kudasai","."],"vi":"Hãy uống thuốc này sau bữa ăn.","alts":[]}},
@@ -45,7 +45,7 @@
    {"id":"ja203-入院","hanzi":"入院","pinyin":"nyuuin","vi":"sự nhập viện","ex":{"tokens":["祖父","は","先週","から","入院","して","います","。"],"py":["sofu","wa","senshuu","kara","nyuuin","shite","imasu","."],"vi":"Ông tôi nằm viện từ tuần trước.","alts":[]}},
    {"id":"ja203-看護師","hanzi":"看護師","pinyin":"kangoshi","vi":"y tá","ex":{"tokens":["看護師","が","優しく","説明","して","くれました","。"],"py":["kangoshi","ga","yasashiku","setsumei","shite","kuremashita","."],"vi":"Y tá đã giải thích nhẹ nhàng cho tôi.","alts":[]}}
   ]},
-  {"id":"ja204","title":"Mua sắm","desc":"Giá, tiền, đắt rẻ, đổi trả","icon":"買","unit":21,"course":"ja","order":190,"words":[
+  {"id":"ja204","title":"Mua sắm","desc":"Giá, tiền, đắt rẻ, đổi trả","icon":"買","unit":21,"course":"ja","order":870,"words":[
    {"id":"ja204-お金","hanzi":"お金","pinyin":"okane","vi":"tiền","ex":{"tokens":["財布","に","お金","が","少し","しか","ありません","。"],"py":["saifu","ni","okane","ga","sukoshi","shika","arimasen","."],"vi":"Trong ví chỉ có một ít tiền.","alts":[]}},
    {"id":"ja204-値段","hanzi":"値段","pinyin":"nedan","vi":"giá cả","ex":{"tokens":["最近","野菜","の","値段","が","上がりました","。"],"py":["saikin","yasai","no","nedan","ga","agarimashita","."],"vi":"Gần đây giá rau đã tăng.","alts":[]}},
    {"id":"ja204-財布","hanzi":"財布","pinyin":"saifu","vi":"ví tiền","ex":{"tokens":["電車","で","財布","を","落としました","。"],"py":["densha","de","saifu","o","otoshimashita","."],"vi":"Tôi đã đánh rơi ví trên tàu điện.","alts":[]}},
@@ -59,7 +59,7 @@
    {"id":"ja204-お釣り","hanzi":"お釣り","pinyin":"otsuri","vi":"tiền thừa","ex":{"tokens":["店員","から","お釣り","を","もらいました","。"],"py":["ten'in","kara","otsuri","o","moraimashita","."],"vi":"Tôi đã nhận tiền thừa từ nhân viên.","alts":[]}},
    {"id":"ja204-買い物","hanzi":"買い物","pinyin":"kaimono","vi":"việc mua sắm","ex":{"tokens":["日曜日","に","家族","と","買い物","に","行きます","。"],"py":["nichiyoubi","ni","kazoku","to","kaimono","ni","ikimasu","."],"vi":"Chủ nhật tôi đi mua sắm với gia đình.","alts":[]}}
   ]},
-  {"id":"ja205","title":"Công việc","desc":"Công ty, họp, bận rộn","icon":"仕","unit":21,"course":"ja","order":200,"words":[
+  {"id":"ja205","title":"Công việc","desc":"Công ty, họp, bận rộn","icon":"仕","unit":21,"course":"ja","order":880,"words":[
    {"id":"ja205-仕事","hanzi":"仕事","pinyin":"shigoto","vi":"công việc","ex":{"tokens":["新しい","仕事","は","来週","から","始まります","。"],"py":["atarashii","shigoto","wa","raishuu","kara","hajimarimasu","."],"vi":"Công việc mới bắt đầu từ tuần sau.","alts":[]}},
    {"id":"ja205-会議","hanzi":"会議","pinyin":"kaigi","vi":"cuộc họp","ex":{"tokens":["午後","二時","から","会議","が","あります","。"],"py":["gogo","niji","kara","kaigi","ga","arimasu","."],"vi":"Từ hai giờ chiều có cuộc họp.","alts":[]}},
    {"id":"ja205-働く","hanzi":"働く","pinyin":"hataraku","vi":"làm việc","ex":{"tokens":["兄","は","貿易","の","会社","で","働く","。"],"py":["ani","wa","boueki","no","kaisha","de","hataraku","."],"vi":"Anh tôi làm việc ở công ty thương mại.","alts":[]}},

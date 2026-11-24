@@ -1,0 +1,125 @@
+=2
+@Du lịch|Đi chơi xa, khách sạn
+관광|việc tham quan|제주도 관광을 합니다.|Tôi tham quan đảo Jeju.
+여행사|công ty du lịch|여행사에서 표를 예약합니다.|Tôi đặt vé ở công ty du lịch.
+안내|sự hướng dẫn|안내를 받고 싶습니다.|Tôi muốn được hướng dẫn.
+안내소|quầy hướng dẫn|안내소에서 지도를 받습니다.|Tôi nhận bản đồ ở quầy hướng dẫn.
+가이드|hướng dẫn viên|가이드가 설명을 합니다.|Hướng dẫn viên giải thích.
+숙소|chỗ nghỉ|숙소를 예약했습니다.|Tôi đã đặt chỗ nghỉ.
+민박|nhà nghỉ dân|바닷가 민박에서 잡니다.|Tôi ngủ ở nhà nghỉ dân ven biển.
+객실|phòng khách sạn|객실이 깨끗합니다.|Phòng khách sạn sạch sẽ.
+체크인|nhận phòng|두 시에 체크인을 합니다.|Tôi nhận phòng lúc hai giờ.
+비자|thị thực|비자를 신청합니다.|Tôi xin thị thực.
+입국|nhập cảnh|입국 심사를 받습니다.|Tôi làm thủ tục nhập cảnh.
+출국|xuất cảnh|내일 출국을 합니다.|Ngày mai tôi xuất cảnh.
+탑승|việc lên máy bay|탑승 시간이 되었습니다.|Đã đến giờ lên máy bay.
+좌석|ghế ngồi (trên xe, máy bay)|창가 좌석으로 주세요.|Cho tôi ghế cạnh cửa sổ.
+수하물|hành lý ký gửi|수하물을 찾습니다.|Tôi lấy hành lý ký gửi.
+기념품|quà lưu niệm|기념품을 삽니다.|Tôi mua quà lưu niệm.
+관광지|điểm du lịch|이곳은 유명한 관광지입니다.|Nơi này là điểm du lịch nổi tiếng.
+바닷가|bờ biển|바닷가에서 산책합니다.|Tôi đi dạo ở bờ biển.
+온천|suối nước nóng|겨울에 온천에 갑니다.|Mùa đông tôi đi suối nước nóng.
+해수욕장|bãi tắm biển|여름에 해수욕장에 사람이 많습니다.|Mùa hè bãi tắm biển đông người.
+폭포|thác nước|폭포가 아주 높습니다.|Thác nước rất cao.
+동굴|hang động|동굴 안은 시원합니다.|Trong hang động mát mẻ.
+궁|cung điện|서울에는 궁이 많습니다.|Ở Seoul có nhiều cung điện.
+성|thành, lâu đài|오래된 성을 구경합니다.|Tôi tham quan tòa thành cổ.
+탑|tòa tháp|탑 위에서 도시를 봅니다.|Tôi ngắm thành phố từ trên tháp.
+일정|lịch trình|여행 일정을 짭니다.|Tôi lên lịch trình du lịch.
+당일|trong ngày|당일 여행을 갑니다.|Tôi đi du lịch trong ngày.
+왕복표|vé khứ hồi|왕복표를 샀습니다.|Tôi đã mua vé khứ hồi.
+배낭|ba lô|배낭을 메고 떠납니다.|Tôi đeo ba lô lên đường.
+여행자|người du lịch|이 도시에는 여행자가 많습니다.|Thành phố này có nhiều người du lịch.
+떠들다|làm ồn|아이들이 버스에서 떠듭니다.|Bọn trẻ làm ồn trên xe buýt.
+둘러보다|nhìn quanh, dạo xem|시장을 둘러봅니다.|Tôi dạo xem khu chợ.
+머물다|ở lại|친구 집에 머뭅니다.|Tôi ở lại nhà bạn.
+들르다|ghé qua|집에 가는 길에 가게에 들릅니다.|Trên đường về tôi ghé qua cửa hàng.
+@Trong thành phố|Đường sá và công trình
+거리|con phố; khoảng cách|거리에 사람이 많습니다.|Trên phố có nhiều người.
+도로|đường xe chạy|도로가 넓습니다.|Đường rộng.
+육교|cầu vượt đi bộ|육교를 건넙니다.|Tôi đi qua cầu vượt.
+지하도|đường hầm đi bộ|지하도로 길을 건넙니다.|Tôi sang đường bằng hầm đi bộ.
+광장|quảng trường|광장에서 공연을 합니다.|Có biểu diễn ở quảng trường.
+빌딩|tòa nhà cao tầng|이 빌딩은 삼십 층입니다.|Tòa nhà này cao ba mươi tầng.
+간판|biển hiệu|가게 간판이 큽니다.|Biển hiệu cửa hàng to.
+가로등|đèn đường|밤에 가로등이 켜집니다.|Ban đêm đèn đường bật sáng.
+벤치|ghế băng|공원 벤치에 앉습니다.|Tôi ngồi trên ghế băng công viên.
+분수|đài phun nước|광장에 분수가 있습니다.|Ở quảng trường có đài phun nước.
+주차|việc đỗ xe|여기에 주차를 하면 안 됩니다.|Không được đỗ xe ở đây.
+교통카드|thẻ giao thông|교통카드로 버스를 탑니다.|Tôi đi xe buýt bằng thẻ giao thông.
+노선|tuyến (xe, tàu)|지하철 이 호선 노선입니다.|Đây là tuyến tàu điện ngầm số hai.
+환승|việc chuyển tuyến|시청역에서 환승을 합니다.|Tôi chuyển tuyến ở ga Tòa thị chính.
+종점|bến cuối|이 버스는 종점까지 갑니다.|Xe buýt này đi đến bến cuối.
+매표소|quầy bán vé|매표소에서 표를 삽니다.|Tôi mua vé ở quầy bán vé.
+승강장|sân ga, chỗ lên xe|승강장에서 기차를 기다립니다.|Tôi đợi tàu ở sân ga.
+시내|nội thành|시내에 쇼핑하러 갑니다.|Tôi vào nội thành mua sắm.
+교외|ngoại ô|주말에 교외로 나갑니다.|Cuối tuần tôi ra ngoại ô.
+중심|trung tâm|도시 중심에 공원이 있습니다.|Ở trung tâm thành phố có công viên.
+방향|phương hướng|어느 방향으로 갑니까?|Bạn đi hướng nào?
+위치|vị trí|가게 위치를 알려 주세요.|Hãy cho tôi biết vị trí cửa hàng.
+약도|sơ đồ đường đi|약도를 그려 주세요.|Hãy vẽ sơ đồ đường đi giúp tôi.
+길거리|đường phố|길거리 음식을 먹습니다.|Tôi ăn đồ ăn đường phố.
+복잡하게|một cách rắc rối, đông đúc|길이 복잡하게 되어 있습니다.|Đường đi rất rắc rối.
+붐비다|đông nghịt|출근 시간에 지하철이 붐빕니다.|Giờ đi làm tàu điện ngầm đông nghịt.
+한산하다|vắng vẻ|아침에는 거리가 한산합니다.|Buổi sáng đường phố vắng vẻ.
+@Điện thoại và mạng|Liên lạc hiện đại
+통화|cuộc gọi|친구와 통화를 합니다.|Tôi gọi điện nói chuyện với bạn.
+전화번호|số điện thoại|전화번호를 알려 주세요.|Hãy cho tôi số điện thoại.
+답장|thư trả lời|친구의 답장을 기다립니다.|Tôi đợi thư trả lời của bạn.
+영상통화|cuộc gọi video|부모님과 영상통화를 합니다.|Tôi gọi video với bố mẹ.
+충전|việc sạc pin|휴대폰 충전을 합니다.|Tôi sạc điện thoại.
+배터리|pin|배터리가 없습니다.|Hết pin rồi.
+충전기|bộ sạc|충전기를 빌려 주세요.|Cho tôi mượn bộ sạc.
+이어폰|tai nghe|이어폰으로 음악을 듣습니다.|Tôi nghe nhạc bằng tai nghe.
+앱|ứng dụng|이 앱은 편리합니다.|Ứng dụng này tiện lợi.
+사이트|trang web|이 사이트에서 표를 삽니다.|Tôi mua vé trên trang web này.
+비밀번호|mật khẩu|비밀번호를 잊어버렸습니다.|Tôi đã quên mật khẩu.
+아이디|tên đăng nhập|아이디를 입력하세요.|Hãy nhập tên đăng nhập.
+가입|việc đăng ký thành viên|회원 가입을 합니다.|Tôi đăng ký thành viên.
+로그인|đăng nhập|먼저 로그인을 하세요.|Trước tiên hãy đăng nhập.
+파일|tệp tin|파일을 보냅니다.|Tôi gửi tệp tin.
+저장|việc lưu lại|사진을 저장합니다.|Tôi lưu ảnh.
+삭제|việc xóa|메시지를 삭제합니다.|Tôi xóa tin nhắn.
+다운로드|tải xuống|영화를 다운로드합니다.|Tôi tải phim xuống.
+와이파이|wifi|여기 와이파이가 됩니까?|Ở đây có wifi không?
+노트북|máy tính xách tay|노트북으로 일합니다.|Tôi làm việc bằng máy tính xách tay.
+키보드|bàn phím|키보드로 글을 씁니다.|Tôi gõ chữ bằng bàn phím.
+마우스|chuột máy tính|마우스가 고장 났습니다.|Chuột máy tính bị hỏng.
+프린터|máy in|프린터로 서류를 뽑습니다.|Tôi in tài liệu bằng máy in.
+동영상|đoạn video|동영상을 봅니다.|Tôi xem video.
+채팅|trò chuyện qua mạng|친구와 채팅을 합니다.|Tôi chat với bạn.
+끊다|ngắt, cúp; bỏ|전화를 끊습니다.|Tôi cúp máy.
+걸려오다|gọi đến|모르는 번호로 전화가 걸려옵니다.|Có cuộc gọi đến từ số lạ.
+입력하다|nhập (dữ liệu)|이름을 입력합니다.|Tôi nhập tên.
+누리다|tận hưởng|편리한 생활을 누립니다.|Tôi tận hưởng cuộc sống tiện lợi.
+@Tiền bạc và mua sắm|Chi tiêu hằng ngày
+용돈|tiền tiêu vặt|부모님에게 용돈을 받습니다.|Tôi nhận tiền tiêu vặt từ bố mẹ.
+생활비|sinh hoạt phí|생활비가 많이 듭니다.|Sinh hoạt phí tốn nhiều.
+교통비|tiền đi lại|교통비가 올랐습니다.|Tiền đi lại đã tăng.
+식비|tiền ăn|한 달 식비가 얼마입니까?|Tiền ăn một tháng là bao nhiêu?
+회비|hội phí|회비를 냅니다.|Tôi nộp hội phí.
+계좌|tài khoản ngân hàng|은행에서 계좌를 만듭니다.|Tôi mở tài khoản ở ngân hàng.
+송금|việc chuyển tiền|고향에 송금을 합니다.|Tôi chuyển tiền về quê.
+출금|việc rút tiền|현금 출금을 합니다.|Tôi rút tiền mặt.
+입금|việc nộp tiền vào tài khoản|통장에 입금을 합니다.|Tôi nộp tiền vào sổ tài khoản.
+잔돈|tiền lẻ|잔돈이 없습니다.|Tôi không có tiền lẻ.
+정가|giá niêm yết|정가보다 싸게 샀습니다.|Tôi đã mua rẻ hơn giá niêm yết.
+반값|nửa giá|오늘은 반값에 팝니다.|Hôm nay bán nửa giá.
+품절|hết hàng|이 신발은 품절입니다.|Đôi giày này đã hết hàng.
+신상품|hàng mới về|신상품이 나왔습니다.|Hàng mới đã về.
+교환|việc đổi hàng|옷 교환을 하고 싶습니다.|Tôi muốn đổi áo.
+환불|việc hoàn tiền|환불을 받았습니다.|Tôi đã được hoàn tiền.
+포장|việc đóng gói|선물 포장을 해 주세요.|Hãy gói quà giúp tôi.
+배송|việc giao hàng|배송이 빠릅니다.|Giao hàng nhanh.
+택배|chuyển phát tận nhà|택배가 도착했습니다.|Hàng chuyển phát đã đến.
+주문|việc đặt hàng|인터넷으로 주문을 합니다.|Tôi đặt hàng qua mạng.
+장바구니|giỏ hàng|장바구니에 과일을 담습니다.|Tôi cho hoa quả vào giỏ hàng.
+사이즈|kích cỡ (quần áo)|더 큰 사이즈가 있습니까?|Có cỡ lớn hơn không?
+탈의실|phòng thử đồ|탈의실에서 옷을 입어 봅니다.|Tôi mặc thử áo trong phòng thử đồ.
+매장|cửa hàng, gian hàng|이 매장은 열 시에 엽니다.|Gian hàng này mở lúc mười giờ.
+쿠폰|phiếu giảm giá|쿠폰을 쓰면 더 쌉니다.|Dùng phiếu giảm giá thì rẻ hơn.
+적립|việc tích điểm|포인트 적립을 합니다.|Tôi tích điểm.
+아깝다|tiếc (của)|돈이 아깝습니다.|Tiếc tiền quá.
+모자라게|một cách thiếu hụt|돈을 모자라게 가져왔습니다.|Tôi đã mang thiếu tiền.
+벌다|kiếm (tiền)|아르바이트로 돈을 법니다.|Tôi kiếm tiền bằng việc làm thêm.
+갚다|trả (nợ)|빌린 돈을 갚습니다.|Tôi trả tiền đã vay.

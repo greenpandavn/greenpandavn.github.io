@@ -1,0 +1,104 @@
+=4
+@Công việc và nghề nghiệp|Môi trường lao động
+직장인|người đi làm|직장인은 아침에 바쁩니다.|Người đi làm bận rộn vào buổi sáng.
+근로자|người lao động|근로자의 권리를 보호합니다.|Bảo vệ quyền của người lao động.
+고용주|người sử dụng lao động|고용주가 임금을 줍니다.|Người sử dụng lao động trả lương.
+직종|loại nghề|다양한 직종이 있습니다.|Có nhiều loại nghề khác nhau.
+전문직|nghề chuyên môn|의사는 전문직입니다.|Bác sĩ là nghề chuyên môn.
+사무직|công việc văn phòng|저는 사무직으로 일합니다.|Tôi làm công việc văn phòng.
+생산직|công việc sản xuất|공장에서 생산직으로 일합니다.|Tôi làm công việc sản xuất ở nhà máy.
+프리랜서|người làm tự do|그는 프리랜서 번역가입니다.|Anh ấy là dịch giả tự do.
+재택근무|làm việc tại nhà|요즘 재택근무를 합니다.|Dạo này tôi làm việc tại nhà.
+근무시간|giờ làm việc|근무시간이 줄었습니다.|Giờ làm việc đã giảm.
+휴가철|mùa nghỉ phép|휴가철에는 공항이 붐빕니다.|Mùa nghỉ phép sân bay đông nghịt.
+연차|phép năm|내일 연차를 냅니다.|Ngày mai tôi xin nghỉ phép năm.
+출산휴가|nghỉ thai sản|그녀는 출산휴가 중입니다.|Cô ấy đang nghỉ thai sản.
+복지제도|chế độ phúc lợi|회사의 복지제도가 좋습니다.|Chế độ phúc lợi của công ty tốt.
+퇴직금|tiền trợ cấp thôi việc|퇴직금을 받았습니다.|Tôi đã nhận tiền trợ cấp thôi việc.
+실업자|người thất nghiệp|실업자가 늘었습니다.|Người thất nghiệp đã tăng.
+구조조정|tái cơ cấu|회사가 구조조정을 했습니다.|Công ty đã tái cơ cấu.
+노조|công đoàn|노조가 회사와 협상합니다.|Công đoàn đàm phán với công ty.
+발령|quyết định điều động|부산으로 발령이 났습니다.|Tôi được điều động về Busan.
+승진시험|kỳ thi thăng chức|승진시험을 준비합니다.|Tôi chuẩn bị thi thăng chức.
+업적|thành tích công việc|그의 업적을 인정합니다.|Công nhận thành tích của ông ấy.
+실적|kết quả kinh doanh|이번 분기 실적이 좋습니다.|Kết quả quý này tốt.
+역할|vai trò|각자의 역할이 있습니다.|Mỗi người có vai trò riêng.
+협업|sự cộng tác|다른 팀과 협업을 합니다.|Chúng tôi cộng tác với nhóm khác.
+분담하다|phân chia đảm nhận|일을 서로 분담합니다.|Chúng tôi phân chia công việc cho nhau.
+지시하다|chỉ thị|상사가 일을 지시합니다.|Cấp trên chỉ thị công việc.
+수행하다|thực hiện (nhiệm vụ)|맡은 일을 수행합니다.|Tôi thực hiện việc được giao.
+처리하다|xử lý|서류를 빨리 처리합니다.|Tôi xử lý giấy tờ nhanh.
+마무리하다|hoàn tất|오늘 일을 마무리합니다.|Tôi hoàn tất công việc hôm nay.
+@Giáo dục và học thuật|Trường lớp nâng cao
+교육과정|chương trình giáo dục|새 교육과정이 시작됩니다.|Chương trình giáo dục mới bắt đầu.
+의무교육|giáo dục bắt buộc|중학교까지 의무교육입니다.|Giáo dục bắt buộc đến hết trung học cơ sở.
+평생교육|giáo dục suốt đời|평생교육이 중요해졌습니다.|Giáo dục suốt đời đã trở nên quan trọng.
+대학원|cao học|대학원에 진학합니다.|Tôi học lên cao học.
+석사|thạc sĩ|석사 과정을 마쳤습니다.|Tôi đã hoàn thành chương trình thạc sĩ.
+박사|tiến sĩ|박사 학위를 받았습니다.|Ông ấy đã nhận học vị tiến sĩ.
+학위|học vị|학위 논문을 준비합니다.|Tôi chuẩn bị luận văn học vị.
+부전공|chuyên ngành phụ|부전공으로 경제학을 공부합니다.|Tôi học kinh tế học làm chuyên ngành phụ.
+교양|kiến thức đại cương|교양 과목을 듣습니다.|Tôi học môn đại cương.
+인문학|nhân văn học|인문학 강의가 인기입니다.|Bài giảng nhân văn học được ưa chuộng.
+공학|ngành kỹ thuật|공학을 전공합니다.|Tôi học chuyên ngành kỹ thuật.
+의학|y học|의학이 많이 발전했습니다.|Y học đã phát triển nhiều.
+법학|luật học|법학을 공부해서 변호사가 됩니다.|Học luật rồi trở thành luật sư.
+심리학|tâm lý học|심리학에 관심이 있습니다.|Tôi quan tâm đến tâm lý học.
+경영학|quản trị học|경영학을 전공했습니다.|Tôi đã học chuyên ngành quản trị.
+학문|học vấn, ngành học|학문에 힘씁니다.|Ông ấy dốc sức cho học vấn.
+학자|học giả|유명한 학자가 강연합니다.|Học giả nổi tiếng thuyết giảng.
+강연|buổi thuyết giảng|교수님의 강연을 들었습니다.|Tôi đã nghe buổi thuyết giảng của giáo sư.
+세미나|hội thảo chuyên đề|세미나에 참석합니다.|Tôi dự hội thảo chuyên đề.
+학회|hội nghị học thuật|학회에서 논문을 발표합니다.|Tôi trình bày luận văn ở hội nghị học thuật.
+참고문헌|tài liệu tham khảo|참고문헌을 정리합니다.|Tôi sắp xếp tài liệu tham khảo.
+표절|đạo văn|표절은 절대 안 됩니다.|Tuyệt đối không được đạo văn.
+암기|việc học thuộc lòng|암기 위주의 공부는 좋지 않습니다.|Học theo kiểu thuộc lòng là không tốt.
+창의력|sức sáng tạo|아이의 창의력을 키웁니다.|Nuôi dưỡng sức sáng tạo của trẻ.
+사고력|năng lực tư duy|독서는 사고력을 높입니다.|Đọc sách nâng cao năng lực tư duy.
+집중력|sức tập trung|집중력이 떨어졌습니다.|Sức tập trung đã giảm.
+이해력|khả năng hiểu|그 학생은 이해력이 빠릅니다.|Học sinh đó có khả năng hiểu nhanh.
+@Văn hóa và nghệ thuật|Biểu diễn, mỹ thuật
+문화생활|sinh hoạt văn hóa|주말에 문화생활을 즐깁니다.|Cuối tuần tôi thưởng thức sinh hoạt văn hóa.
+대중문화|văn hóa đại chúng|한국 대중문화가 인기입니다.|Văn hóa đại chúng Hàn Quốc được ưa chuộng.
+한류|làn sóng Hàn Quốc|한류가 세계로 퍼졌습니다.|Làn sóng Hàn Quốc đã lan ra thế giới.
+전통음악|âm nhạc truyền thống|전통음악 공연을 봅니다.|Tôi xem biểu diễn âm nhạc truyền thống.
+판소리|hát kể chuyện pansori|판소리를 처음 들었습니다.|Lần đầu tôi nghe pansori.
+탈춤|múa mặt nạ|축제에서 탈춤을 춥니다.|Người ta múa mặt nạ ở lễ hội.
+사물놀이|hòa tấu bốn nhạc cụ gõ|사물놀이 소리가 신납니다.|Tiếng hòa tấu samulnori thật rộn ràng.
+민요|dân ca|아리랑은 한국의 민요입니다.|Arirang là dân ca Hàn Quốc.
+공예|thủ công mỹ nghệ|전통 공예를 배웁니다.|Tôi học thủ công mỹ nghệ truyền thống.
+수채화|tranh màu nước|수채화를 그립니다.|Tôi vẽ tranh màu nước.
+유화|tranh sơn dầu|미술관에서 유화를 봅니다.|Tôi xem tranh sơn dầu ở bảo tàng mỹ thuật.
+조각가|nhà điêu khắc|조각가가 돌을 깎습니다.|Nhà điêu khắc đẽo đá.
+사진작가|nhiếp ảnh gia|사진작가가 전시회를 엽니다.|Nhiếp ảnh gia mở triển lãm.
+연출|việc đạo diễn, dàn dựng|이 연극은 연출이 훌륭합니다.|Vở kịch này dàn dựng xuất sắc.
+대본|kịch bản|배우가 대본을 읽습니다.|Diễn viên đọc kịch bản.
+각본|kịch bản phim|그가 영화 각본을 썼습니다.|Anh ấy đã viết kịch bản phim.
+조연|vai phụ|조연 배우도 연기를 잘합니다.|Diễn viên vai phụ cũng diễn giỏi.
+연기|sự diễn xuất; khói|그 배우는 연기를 잘합니다.|Diễn viên đó diễn xuất giỏi.
+관람|việc xem, tham quan|전시회 관람을 합니다.|Tôi xem triển lãm.
+개봉|việc công chiếu|영화가 다음 주에 개봉합니다.|Bộ phim công chiếu tuần sau.
+흥행|sự ăn khách|그 영화는 흥행에 성공했습니다.|Bộ phim đó đã thành công về doanh thu.
+수상|việc nhận giải|감독이 수상 소감을 말합니다.|Đạo diễn nói cảm nghĩ khi nhận giải.
+명작|danh tác|이 소설은 명작입니다.|Tiểu thuyết này là một danh tác.
+@Tâm lý và tư duy|Nội tâm con người
+심리|tâm lý|아이의 심리를 이해합니다.|Tôi hiểu tâm lý của trẻ.
+의식|ý thức|환자가 의식을 찾았습니다.|Bệnh nhân đã tỉnh lại.
+무의식|vô thức|무의식적으로 손을 움직였습니다.|Tôi cử động tay một cách vô thức.
+본능|bản năng|동물은 본능에 따릅니다.|Động vật làm theo bản năng.
+욕구|nhu cầu, ham muốn|사람은 인정받고 싶은 욕구가 있습니다.|Con người có nhu cầu được công nhận.
+충동|sự bốc đồng|충동을 참았습니다.|Tôi đã kìm cơn bốc đồng.
+호기심|sự tò mò|아이들은 호기심이 많습니다.|Trẻ con rất tò mò.
+상상력|trí tưởng tượng|그 작가는 상상력이 풍부합니다.|Nhà văn đó giàu trí tưởng tượng.
+기억력|trí nhớ|나이가 들면 기억력이 나빠집니다.|Có tuổi thì trí nhớ kém đi.
+판단력|khả năng phán đoán|술을 마시면 판단력이 흐려집니다.|Uống rượu thì khả năng phán đoán mờ đi.
+자제력|sự tự kiềm chế|자제력을 잃었습니다.|Anh ấy đã mất tự kiềm chế.
+죄책감|cảm giác tội lỗi|거짓말을 해서 죄책감을 느낍니다.|Nói dối nên tôi cảm thấy tội lỗi.
+성취감|cảm giác đạt thành tựu|일을 끝내고 성취감을 느꼈습니다.|Xong việc tôi cảm thấy mình đã đạt thành tựu.
+만족감|cảm giác thỏa mãn|결과에 만족감을 느낍니다.|Tôi cảm thấy thỏa mãn với kết quả.
+불안감|cảm giác bất an|미래에 대한 불안감이 있습니다.|Tôi có cảm giác bất an về tương lai.
+우월감|cảm giác hơn người|그는 우월감을 가지고 있습니다.|Anh ta mang cảm giác hơn người.
+거부감|cảm giác phản cảm|새 제도에 거부감이 있습니다.|Có sự phản cảm với chế độ mới.
+친밀감|cảm giác thân mật|아이와 친밀감을 쌓습니다.|Tôi xây đắp sự thân mật với con.
+선입견|định kiến có sẵn|선입견을 버리세요.|Hãy bỏ định kiến có sẵn.
+고정관념|quan niệm cố hữu|고정관념을 깨야 합니다.|Phải phá bỏ quan niệm cố hữu.

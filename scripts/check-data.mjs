@@ -17,6 +17,17 @@ const load = (c) =>
     .flatMap((f) => JSON.parse(fs.readFileSync(path.join(root, 'src/data', c, f), 'utf8')).lessons)
     .flatMap((l) => l.words.map((w) => ({ ...w, lesson: l.id })));
 const errors = [];
+// --prune: remove from scripts/<course>-extra the candidate words that fail a check (build with KJ_ALL=1 first)
+const prune = process.argv.includes('--prune');
+const bad = new Set();
+const isExtra = (w) => /^(ko|ja)\dx/.test(w.lesson);
+const drop = (w) => isExtra(w) && bad.add(`${w.id.slice(0, 2)} ${w.lesson} ${w.hanzi}`);
+// of several words that collide, the first one of the main file (or else the first one) stays
+const dropGroup = (v) => {
+  const keep = v.find((w) => !isExtra(w)) ?? v[0];
+  for (const w of v) if (w.hanzi !== keep.hanzi) drop(w);
+};
+const TOTAL = { ko: 5000, ja: 5000 };
 const groups = (ws, key) => {
   const m = new Map();
   for (const w of ws) {
@@ -34,6 +45,7 @@ for (const c of ['ko', 'ja']) {
   for (const w of ws) {
     n++;
     const at = `${c} ${w.lesson} ${w.hanzi}`;
+    const before = errors.length;
     if (!okSurface.test(w.hanzi)) errors.push(`${at}: unexpected characters`);
     if (!/^[a-z']+$/.test(w.pinyin)) errors.push(`${at}: romanization "${w.pinyin}" is not plain Latin`);
     if (!w.vi || /[\uac00-\ud7a3\u3040-\u30ff\p{Script=Han}]/u.test(w.vi)) errors.push(`${at}: bad meaning "${w.vi}"`);
@@ -63,12 +75,24 @@ for (const c of ['ko', 'ja']) {
     // the romanization of the word must be found in the romanized example when the word appears unchanged
     const i = w.ex.tokens.indexOf(w.hanzi);
     if (i >= 0 && w.ex.py[i] !== w.pinyin && !(c === 'ja' && ['は', 'へ'].includes(w.hanzi))) errors.push(`${at}: romanization "${w.pinyin}" differs from the example's "${w.ex.py[i]}"`);
+    if (!w.ex.vi || /[\uac00-\ud7a3\u3040-\u30ff\p{Script=Han}]/u.test(w.ex.vi)) errors.push(`${at}: bad example translation`);
+    if (errors.length > before) drop(w);
   }
-  for (const [k, v] of groups(ws, (w) => w.pinyin)) if (!allow.homophones[c].includes(pairKey(v))) errors.push(`${c}: same romanization "${k}": ${pairKey(v)}`);
-  for (const [k, v] of groups(ws, (w) => w.vi.toLowerCase())) if (!allow.synonyms[c].includes(pairKey(v))) errors.push(`${c}: same meaning "${k}": ${pairKey(v)}`);
+  // Japanese: words written with different kanji but read alike (早い / 速い) are real homophones; a kana
+  // spelling next to a kanji one (たぶん / 多分) is the same word twice and is still rejected.
+  const realHomophones = (v) => c === 'ja' && v.every((w) => /\p{Script=Han}/u.test(w.hanzi));
+  for (const [k, v] of groups(ws, (w) => w.pinyin)) if (!allow.homophones[c].includes(pairKey(v)) && !realHomophones(v)) {
+    errors.push(`${c}: same romanization "${k}": ${pairKey(v)}`);
+    dropGroup(v);
+  }
+  for (const [k, v] of groups(ws, (w) => w.vi.toLowerCase())) if (!allow.synonyms[c].includes(pairKey(v))) {
+    errors.push(`${c}: same meaning "${k}": ${pairKey(v)}`);
+    dropGroup(v);
+  }
   for (const [, v] of groups(ws, () => 'x').slice(0, 0)) void v;
   const dup = ws.map((w) => w.hanzi).filter((h, i, a) => a.indexOf(h) !== i);
   if (dup.length) errors.push(`${c}: duplicate words ${dup.join(', ')}`);
+  if (!prune && n !== TOTAL[c]) errors.push(`${c}: ${n} words, expected exactly ${TOTAL[c]}`);
   console.log(`${c}: ${n} words checked`);
 }
 
@@ -93,6 +117,21 @@ for (const c of ['ko', 'ja']) {
   console.log(`en: ${ws.length} words checked`);
 }
 
+if (prune) {
+  const src = JSON.parse(fs.readFileSync(path.join(root, 'scripts/.kj-src.json'), 'utf8'));
+  const byFile = new Map();
+  for (const k of bad) {
+    const [f, n] = src[k].split(':');
+    byFile.set(f, [...(byFile.get(f) ?? []), Number(n)]);
+  }
+  for (const [f, ns] of byFile) {
+    const file = path.join(root, 'scripts', f);
+    fs.writeFileSync(file, fs.readFileSync(file, 'utf8').split('\n').filter((_, i) => !ns.includes(i + 1)).join('\n'));
+  }
+  console.log(errors.filter((e) => !/expected exactly/.test(e)).join('\n'));
+  console.log(`pruned ${bad.size} candidate word(s)`);
+  process.exit(0);
+}
 if (errors.length) {
   console.error(errors.join('\n'));
   console.error(`\n${errors.length} problem(s)`);

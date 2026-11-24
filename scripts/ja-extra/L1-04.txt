@@ -1,0 +1,91 @@
+=1
+@Tính từ đuôi い|Miêu tả cơ bản
+良い:よい|tốt|今日:きょう は 天気:てんき が 良い:よい です 。|Hôm nay thời tiết tốt.
+悪い:わるい|xấu, tồi|今日:きょう は 天気:てんき が 悪い:わるい です 。|Hôm nay thời tiết xấu.
+少ない:すくない|ít|今年:ことし は 雨:あめ が 少ない:すくない です 。|Năm nay ít mưa.
+広い:ひろい|rộng|この 公園:こうえん は 広い:ひろい です 。|Công viên này rộng.
+狭い:せまい|hẹp, chật|私:わたし の 部屋:へや は 狭い:せまい です 。|Phòng tôi chật.
+明るい:あかるい|sáng sủa|この 部屋:へや は 明るい:あかるい です 。|Căn phòng này sáng sủa.
+暗い:くらい|tối|外:そと は もう 暗い:くらい です 。|Bên ngoài đã tối rồi.
+強い:つよい|mạnh|今日:きょう は 風:かぜ が 強い:つよい です 。|Hôm nay gió mạnh.
+弱い:よわい|yếu|私:わたし は 体:からだ が 弱い:よわい です 。|Tôi yếu người.
+軽い:かるい|nhẹ|この かばん は 軽い:かるい です 。|Cái cặp này nhẹ.
+遅い:おそい|chậm, muộn|この バス は 遅い:おそい です 。|Xe buýt này chậm.
+暖かい:あたたかい|ấm áp|春:はる は 暖かい:あたたかい です 。|Mùa xuân ấm áp.
+涼しい:すずしい|mát mẻ|秋:あき は 涼しい:すずしい です 。|Mùa thu mát mẻ.
+冷たい:つめたい|lạnh (đồ vật)|冷たい:つめたい 水:みず を 飲みます:のみます 。|Tôi uống nước lạnh.
+若い:わかい|trẻ|あの 先生:せんせい は 若い:わかい です 。|Thầy giáo kia trẻ.
+太い:ふとい|to, mập (vật tròn dài)|この 木:き は 太い:ふとい です 。|Cái cây này to.
+細い:ほそい|thon, mảnh|この 道:みち は 細い:ほそい です 。|Con đường này hẹp nhỏ.
+丸い:まるい|tròn|月:つき が 丸い:まるい です 。|Mặt trăng tròn.
+汚い:きたない|bẩn|この 川:かわ は 汚い:きたない です 。|Con sông này bẩn.
+危ない:あぶない|nguy hiểm|この 道:みち は 危ない:あぶない です 。|Con đường này nguy hiểm.
+うるさい|ồn ào|外:そと が うるさい です 。|Bên ngoài ồn ào.
+欲しい:ほしい|muốn có|新しい:あたらしい 車:くるま が 欲しい:ほしい です 。|Tôi muốn có xe mới.
+まずい|dở, không ngon|この 料理:りょうり は まずい です 。|Món này dở.
+つまらない|chán, nhạt nhẽo|この 映画:えいが は つまらない です 。|Bộ phim này chán.
+かわいい|dễ thương|この 犬:いぬ は かわいい です 。|Con chó này dễ thương.
+眠い:ねむい|buồn ngủ|今朝:けさ は とても 眠い:ねむい です 。|Sáng nay tôi rất buồn ngủ.
+黒い:くろい|đen|黒い:くろい 靴:くつ を 買いました:かいました 。|Tôi đã mua giày đen.
+黄色い:きいろい|vàng|黄色い:きいろい 花:はな が 咲いて:さいて います 。|Hoa vàng đang nở.
+茶色:ちゃいろ|màu nâu|茶色:ちゃいろ の かばん を 持って:もって います 。|Tôi có cái cặp màu nâu.
+緑:みどり|màu xanh lá|この 町:まち は 緑:みどり が 多い:おおい です 。|Thị trấn này nhiều cây xanh.
+@Tính từ đuôi な|Tính chất, trạng thái
+好き:すき|thích|私:わたし は 猫:ねこ が 好き:すき です 。|Tôi thích mèo.
+嫌い:きらい|ghét|弟:おとうと は 野菜:やさい が 嫌い:きらい です 。|Em trai tôi ghét rau.
+上手:じょうず|giỏi|姉:あね は 料理:りょうり が 上手:じょうず です 。|Chị tôi nấu ăn giỏi.
+下手:へた|kém|私:わたし は 歌:うた が 下手:へた です 。|Tôi hát kém.
+きれい|đẹp; sạch|この 花:はな は きれい です 。|Bông hoa này đẹp.
+静か:しずか|yên tĩnh|図書館:としょかん は 静か:しずか です 。|Thư viện yên tĩnh.
+にぎやか|náo nhiệt|この 町:まち は にぎやか です 。|Thị trấn này náo nhiệt.
+有名:ゆうめい|nổi tiếng|この 店:みせ は 有名:ゆうめい です 。|Cửa hàng này nổi tiếng.
+親切:しんせつ|tốt bụng|田中:たなか さん は 親切:しんせつ です 。|Anh Tanaka tốt bụng.
+暇:ひま|rảnh rỗi|明日:あした は 暇:ひま です 。|Ngày mai tôi rảnh.
+大切:たいせつ|quan trọng, quý|家族:かぞく は 大切:たいせつ です 。|Gia đình là quan trọng.
+大変:たいへん|vất vả|この 仕事:しごと は 大変:たいへん です 。|Công việc này vất vả.
+丈夫:じょうぶ|bền, khỏe|この 靴:くつ は 丈夫:じょうぶ です 。|Đôi giày này bền.
+立派:りっぱ|tuyệt vời, đàng hoàng|立派:りっぱ な 家:いえ です ね 。|Ngôi nhà thật đàng hoàng nhỉ.
+嫌:いや|không ưa, khó chịu|雨:あめ の 日:ひ は 嫌:いや です 。|Tôi không ưa ngày mưa.
+色々:いろいろ|nhiều loại|色々:いろいろ な 国:くに へ 行きたい:いきたい です 。|Tôi muốn đi nhiều nước.
+同じ:おなじ|giống nhau|私:わたし たち は 同じ:おなじ クラス です 。|Chúng tôi cùng lớp.
+本当:ほんとう|thật|それ は 本当:ほんとう です か 。|Điều đó có thật không?
+だめ|không được|ここ で 写真:しゃしん は だめ です 。|Ở đây không được chụp ảnh.
+@Phó từ và từ nối|Mức độ, tần suất
+あまり|không… lắm|私:わたし は 肉:にく を あまり 食べません:たべません 。|Tôi không ăn thịt mấy.
+ちょっと|một chút, hơi|ちょっと 待って:まって ください 。|Xin chờ một chút.
+ゆっくり|chậm rãi, thong thả|ゆっくり 話して:はなして ください 。|Xin hãy nói chậm.
+まっすぐ|thẳng|この 道:みち を まっすぐ 行きます:いきます 。|Đi thẳng con đường này.
+もっと|hơn nữa|もっと 野菜:やさい を 食べて:たべて ください 。|Hãy ăn nhiều rau hơn nữa.
+たいてい|thường thì|日曜日:にちようび は たいてい 家:いえ に います 。|Chủ nhật tôi thường ở nhà.
+初めて:はじめて|lần đầu tiên|初めて:はじめて 日本:にほん へ 来ました:きました 。|Tôi đến Nhật lần đầu tiên.
+ちょうど|vừa đúng|今:いま 、 ちょうど 十時:じゅうじ です 。|Bây giờ vừa đúng mười giờ.
+もちろん|tất nhiên|もちろん 、 私:わたし も 行きます:いきます 。|Tất nhiên tôi cũng đi.
+でも|nhưng (đầu câu)|高い:たかい です 。 でも 、 買います:かいます 。|Đắt. Nhưng tôi vẫn mua.
+それから|sau đó|ご飯:ごはん を 食べます:たべます 。 それから 、 勉強:べんきょう します 。|Tôi ăn cơm. Sau đó học bài.
+では|vậy thì|では 、 始めましょう:はじめましょう 。|Vậy thì chúng ta bắt đầu nào.
+だけ|chỉ|水:みず だけ 飲みます:のみます 。|Tôi chỉ uống nước.
+ぐらい|khoảng|駅:えき まで 十分:じゅっぷん ぐらい です 。|Đến ga mất khoảng mười phút.
+ずつ|mỗi, từng|一人:ひとり 一つ:ひとつ ずつ 取って:とって ください 。|Mỗi người hãy lấy một cái.
+ながら|vừa… vừa|音楽:おんがく を 聞き:きき ながら 勉強:べんきょう します 。|Tôi vừa nghe nhạc vừa học.
+@Vị trí và phương hướng|Trên, dưới, trong, ngoài
+上:うえ|trên|机:つくえ の 上:うえ に 本:ほん が あります 。|Trên bàn có sách.
+下:した|dưới|椅子:いす の 下:した に 猫:ねこ が います 。|Dưới ghế có con mèo.
+中:なか|trong|かばん の 中:なか に 財布:さいふ が あります 。|Trong cặp có ví.
+外:そと|ngoài|外:そと は 寒い:さむい です 。|Bên ngoài lạnh.
+後ろ:うしろ|phía sau|家:いえ の 後ろ:うしろ に 山:やま が あります 。|Phía sau nhà có núi.
+横:よこ|bên cạnh (ngang)|銀行:ぎんこう の 横:よこ に 本屋:ほんや が あります 。|Bên cạnh ngân hàng có hiệu sách.
+向こう:むこう|phía bên kia|川:かわ の 向こう:むこう に 学校:がっこう が あります 。|Phía bên kia sông có trường học.
+間:あいだ|ở giữa|銀行:ぎんこう と 駅:えき の 間:あいだ に 店:みせ が あります 。|Giữa ngân hàng và ga có cửa hàng.
+東:ひがし|phía đông|太陽:たいよう は 東:ひがし から 出ます:でます 。|Mặt trời mọc từ phía đông.
+西:にし|phía tây|駅:えき の 西:にし に 公園:こうえん が あります 。|Phía tây ga có công viên.
+南:みなみ|phía nam|南:みなみ の 国:くに は 暑い:あつい です 。|Các nước phía nam nóng.
+北:きた|phía bắc|北:きた の 町:まち は 雪:ゆき が 多い:おおい です 。|Thị trấn phía bắc nhiều tuyết.
+入口:いりぐち|lối vào|入口:いりぐち は どこ です か 。|Lối vào ở đâu?
+出口:でぐち|lối ra|出口:でぐち は あちら です 。|Lối ra ở phía kia.
+近く:ちかく|gần đây, vùng gần|家:いえ の 近く:ちかく に 川:かわ が あります 。|Gần nhà tôi có con sông.
+厚い:あつい|dày|この 本:ほん は 厚い:あつい です 。|Quyển sách này dày.
+熱い:あつい|nóng (đồ vật)|この お茶:おちゃ は 熱い:あつい です 。|Trà này nóng.
+早い:はやい|sớm|父:ちち は 朝:あさ が 早い:はやい です 。|Bố tôi dậy sớm.
+多い:おおい|đông, có nhiều|この 町:まち は 人:ひと が 多い:おおい です 。|Thị trấn này đông người.
+だんだん|từ từ, ngày càng|だんだん 寒く:さむく なります 。|Trời ngày càng lạnh.
+簡単:かんたん|dễ, giản đơn|この 問題:もんだい は 簡単:かんたん です 。|Bài này dễ.

@@ -1,0 +1,146 @@
+=1
+@Quần áo và phụ kiện|Trang phục hằng ngày
+셔츠|áo sơ mi|하얀 셔츠를 입습니다.|Tôi mặc áo sơ mi trắng.
+티셔츠|áo phông|여름에는 티셔츠를 입습니다.|Mùa hè tôi mặc áo phông.
+청바지|quần bò|청바지를 자주 입습니다.|Tôi hay mặc quần bò.
+코트|áo khoác dài|겨울에 코트를 입습니다.|Mùa đông tôi mặc áo khoác dài.
+스웨터|áo len|할머니가 스웨터를 만들었습니다.|Bà đã đan áo len.
+원피스|váy liền|언니가 원피스를 샀습니다.|Chị tôi đã mua váy liền.
+양말|tất|양말을 신습니다.|Tôi đi tất.
+장갑|găng tay|추워서 장갑을 낍니다.|Lạnh nên tôi đeo găng tay.
+목도리|khăn quàng cổ|목도리를 하고 나갑니다.|Tôi quàng khăn rồi ra ngoài.
+넥타이|cà vạt|아버지가 넥타이를 맵니다.|Bố tôi thắt cà vạt.
+구두|giày da|회사에 구두를 신고 갑니다.|Tôi đi giày da đến công ty.
+운동화|giày thể thao|운동화가 편합니다.|Giày thể thao thoải mái.
+슬리퍼|dép lê|집에서 슬리퍼를 신습니다.|Ở nhà tôi đi dép lê.
+반지|nhẫn|손가락에 반지를 낍니다.|Tôi đeo nhẫn vào ngón tay.
+목걸이|dây chuyền|어머니에게 목걸이를 드렸습니다.|Tôi đã tặng mẹ dây chuyền.
+귀걸이|khuyên tai|귀걸이가 예쁩니다.|Khuyên tai đẹp.
+벨트|thắt lưng|바지에 벨트를 합니다.|Tôi thắt thắt lưng vào quần.
+주머니|cái túi (áo quần)|주머니에 열쇠가 있습니다.|Trong túi áo có chìa khóa.
+단추|cái cúc|셔츠의 단추가 떨어졌습니다.|Cúc áo sơ mi bị rơi.
+속옷|đồ lót|속옷을 매일 갈아입습니다.|Tôi thay đồ lót hằng ngày.
+잠옷|đồ ngủ|잠옷을 입고 잡니다.|Tôi mặc đồ ngủ rồi đi ngủ.
+교복|đồng phục học sinh|학생들이 교복을 입습니다.|Học sinh mặc đồng phục.
+양복|bộ com lê|결혼식에 양복을 입고 갑니다.|Tôi mặc com lê đi đám cưới.
+손수건|khăn tay|손수건으로 땀을 닦습니다.|Tôi lau mồ hôi bằng khăn tay.
+@Màu sắc và hình dạng|Màu, hình, kích cỡ
+노란색|màu vàng|노란색 꽃이 피었습니다.|Hoa màu vàng đã nở.
+초록색|màu xanh lá cây|초록색 모자를 씁니다.|Tôi đội mũ màu xanh lá.
+검은색|màu đen|검은색 구두를 샀습니다.|Tôi đã mua giày da màu đen.
+분홍색|màu hồng|동생은 분홍색을 좋아합니다.|Em tôi thích màu hồng.
+보라색|màu tím|보라색 치마가 예쁩니다.|Chiếc váy màu tím đẹp.
+갈색|màu nâu|갈색 가방을 들고 있습니다.|Tôi đang cầm túi màu nâu.
+회색|màu xám|하늘이 회색입니다.|Bầu trời màu xám.
+주황색|màu cam|주황색 옷을 입었습니다.|Tôi đã mặc áo màu cam.
+모양|hình dạng|이 빵은 별 모양입니다.|Bánh này có hình ngôi sao.
+크기|kích cỡ|신발 크기가 맞습니까?|Cỡ giày có vừa không?
+동그라미|hình tròn|종이에 동그라미를 그립니다.|Tôi vẽ hình tròn lên giấy.
+네모|hình vuông|네모 상자가 있습니다.|Có cái hộp hình vuông.
+세모|hình tam giác|세모 모양의 김밥입니다.|Đây là cơm cuộn hình tam giác.
+줄|hàng, dây|사람들이 줄을 섭니다.|Mọi người xếp hàng.
+점|dấu chấm, điểm|종이에 점을 찍습니다.|Tôi chấm một điểm lên giấy.
+@Cơ thể và sức khỏe|Thêm các bộ phận cơ thể
+손가락|ngón tay|손가락이 깁니다.|Ngón tay dài.
+발가락|ngón chân|발가락이 아픕니다.|Ngón chân tôi đau.
+무릎|đầu gối|무릎을 다쳤습니다.|Tôi bị thương ở đầu gối.
+가슴|ngực|가슴이 답답합니다.|Tôi thấy tức ngực.
+등|lưng|등이 가렵습니다.|Lưng tôi ngứa.
+혀|lưỡi|혀를 내밀어 보세요.|Hãy thè lưỡi ra.
+입술|môi|입술이 빨갛습니다.|Môi đỏ.
+턱|cằm|턱에 수염이 있습니다.|Ở cằm có râu.
+이마|trán|이마가 넓습니다.|Trán rộng.
+눈썹|lông mày|눈썹이 진합니다.|Lông mày đậm.
+머리카락|sợi tóc|머리카락이 깁니다.|Tóc dài.
+수염|râu|아버지는 수염이 있습니다.|Bố tôi có râu.
+피|máu|손에서 피가 납니다.|Tay tôi chảy máu.
+땀|mồ hôi|더워서 땀이 납니다.|Nóng nên đổ mồ hôi.
+눈물|nước mắt|슬퍼서 눈물이 납니다.|Buồn nên chảy nước mắt.
+키|chiều cao|동생은 키가 큽니다.|Em tôi cao.
+몸무게|cân nặng|몸무게가 늘었습니다.|Cân nặng của tôi đã tăng.
+힘|sức lực|저는 힘이 없습니다.|Tôi không có sức.
+목소리|giọng nói|목소리가 좋습니다.|Giọng nói hay.
+콧물|nước mũi|감기에 걸려서 콧물이 납니다.|Bị cảm nên chảy nước mũi.
+상처|vết thương|상처에 약을 바릅니다.|Tôi bôi thuốc lên vết thương.
+@Thiên nhiên và thời tiết|Trời, đất, mưa, tuyết
+안개|sương mù|아침에 안개가 꼈습니다.|Buổi sáng có sương mù.
+번개|tia chớp|번개가 칩니다.|Có chớp.
+천둥|sấm|천둥 소리가 큽니다.|Tiếng sấm to.
+무지개|cầu vồng|비가 온 후에 무지개가 떴습니다.|Sau mưa cầu vồng hiện lên.
+얼음|nước đá|주스에 얼음을 넣습니다.|Tôi cho đá vào nước ép.
+불|lửa; đèn|불이 뜨겁습니다.|Lửa nóng.
+흙|đất (chất)|손에 흙이 묻었습니다.|Tay tôi dính đất.
+돌|hòn đá|길에 돌이 많습니다.|Trên đường có nhiều đá.
+모래|cát|아이들이 모래에서 놉니다.|Bọn trẻ chơi trên cát.
+땅|mặt đất|땅이 젖었습니다.|Mặt đất bị ướt.
+들|cánh đồng|들에 꽃이 피었습니다.|Hoa nở trên cánh đồng.
+언덕|ngọn đồi|언덕 위에 집이 있습니다.|Trên đồi có ngôi nhà.
+뿌리|rễ cây|이 나무는 뿌리가 깊습니다.|Cây này có rễ sâu.
+씨|hạt giống|마당에 씨를 심습니다.|Tôi gieo hạt trong sân.
+장미|hoa hồng|빨간 장미를 선물합니다.|Tôi tặng hoa hồng đỏ.
+맑다|trong, quang đãng|오늘은 하늘이 맑습니다.|Hôm nay trời quang đãng.
+흐리다|âm u|날씨가 흐립니다.|Trời âm u.
+불다|thổi|바람이 세게 붑니다.|Gió thổi mạnh.
+쌀쌀하다|se lạnh|아침에는 쌀쌀합니다.|Buổi sáng trời se lạnh.
+계절|mùa|저는 가을이라는 계절을 좋아합니다.|Tôi thích mùa thu.
+햇빛|ánh nắng|햇빛이 따뜻합니다.|Ánh nắng ấm áp.
+@Giao thông|Đi lại trong thành phố
+자동차|ô tô|아버지는 자동차로 출근합니다.|Bố tôi đi làm bằng ô tô.
+오토바이|xe máy|베트남에는 오토바이가 많습니다.|Ở Việt Nam có nhiều xe máy.
+트럭|xe tải|트럭이 짐을 싣고 갑니다.|Xe tải chở hàng đi.
+버스표|vé xe buýt|버스표를 두 장 샀습니다.|Tôi đã mua hai vé xe buýt.
+운전|việc lái xe|운전을 배우고 있습니다.|Tôi đang học lái xe.
+터널|đường hầm|기차가 터널을 지나갑니다.|Tàu hỏa đi qua đường hầm.
+횡단보도|vạch sang đường|횡단보도에서 길을 건넙니다.|Tôi sang đường ở vạch sang đường.
+골목|ngõ, hẻm|이 골목은 좁습니다.|Con ngõ này hẹp.
+정문|cổng chính|학교 정문에서 기다립니다.|Tôi đợi ở cổng chính của trường.
+자리|chỗ ngồi|여기 자리가 있습니까?|Ở đây có chỗ ngồi không?
+승객|hành khách|버스에 승객이 많습니다.|Trên xe buýt có nhiều hành khách.
+편도|một chiều (vé)|편도 표를 한 장 주세요.|Cho tôi một vé một chiều.
+왕복|khứ hồi|왕복 표가 더 쌉니다.|Vé khứ hồi rẻ hơn.
+지나다|đi qua, trôi qua|은행을 지나서 오른쪽으로 가세요.|Hãy đi qua ngân hàng rồi rẽ phải.
+돌다|rẽ, quay|사거리에서 왼쪽으로 돕니다.|Tôi rẽ trái ở ngã tư.
+멈추다|dừng lại|버스가 정류장에서 멈춥니다.|Xe buýt dừng ở trạm.
+달리다|chạy|아침마다 공원에서 달립니다.|Sáng nào tôi cũng chạy ở công viên.
+@Gia đình và họ hàng|Người thân, bạn bè
+아들|con trai|아들이 학교에 다닙니다.|Con trai tôi đi học.
+딸|con gái|딸이 피아노를 칩니다.|Con gái tôi chơi piano.
+형제|anh em|형제가 몇 명입니까?|Bạn có mấy anh em?
+자매|chị em gái|우리 자매는 사이가 좋습니다.|Chị em chúng tôi thân nhau.
+삼촌|chú, cậu|삼촌은 부산에 삽니다.|Chú tôi sống ở Busan.
+이모|dì|이모가 선물을 주셨습니다.|Dì đã cho tôi quà.
+고모|cô (em gái bố)|고모는 선생님입니다.|Cô tôi là giáo viên.
+사촌|anh chị em họ|사촌 동생과 같이 놉니다.|Tôi chơi cùng em họ.
+조카|cháu (con của anh chị em)|조카가 아주 귀엽습니다.|Cháu tôi rất dễ thương.
+손자|cháu trai (của ông bà)|할머니가 손자를 사랑하십니다.|Bà yêu cháu trai.
+손녀|cháu gái (của ông bà)|할아버지가 손녀와 산책합니다.|Ông đi dạo với cháu gái.
+친척|họ hàng|명절에 친척들이 모입니다.|Ngày lễ họ hàng tụ họp.
+부부|vợ chồng|그 부부는 행복합니다.|Cặp vợ chồng đó hạnh phúc.
+남동생|em trai|남동생은 고등학생입니다.|Em trai tôi là học sinh cấp ba.
+여동생|em gái|여동생은 그림을 잘 그립니다.|Em gái tôi vẽ đẹp.
+아저씨|chú, bác (đàn ông trung niên)|아저씨, 이거 얼마예요?|Chú ơi, cái này bao nhiêu tiền?
+아주머니|cô, bác gái|아주머니가 길을 가르쳐 주셨습니다.|Bác gái đã chỉ đường cho tôi.
+여자친구|bạn gái|여자친구와 영화를 봅니다.|Tôi xem phim với bạn gái.
+남자친구|bạn trai|남자친구가 꽃을 줬습니다.|Bạn trai đã tặng hoa.
+어린이|trẻ em|어린이는 무료입니다.|Trẻ em được miễn phí.
+청년|thanh niên|그 청년은 친절합니다.|Chàng thanh niên đó tử tế.
+이웃집|nhà hàng xóm|이웃집에 강아지가 있습니다.|Nhà hàng xóm có chú cún.
+@Nghề nghiệp|Công việc của mọi người
+직업|nghề nghiệp|직업이 무엇입니까?|Nghề nghiệp của bạn là gì?
+교사|giáo viên (nghề)|어머니는 중학교 교사입니다.|Mẹ tôi là giáo viên cấp hai.
+은행원|nhân viên ngân hàng|언니는 은행원입니다.|Chị tôi là nhân viên ngân hàng.
+공무원|công chức|아버지는 공무원입니다.|Bố tôi là công chức.
+군인|quân nhân|형은 군인입니다.|Anh tôi là quân nhân.
+운전기사|lái xe (nghề)|삼촌은 버스 운전기사입니다.|Chú tôi là lái xe buýt.
+농부|nông dân|농부가 밭에서 일합니다.|Người nông dân làm việc ngoài ruộng.
+어부|ngư dân|어부가 물고기를 잡습니다.|Ngư dân đánh bắt cá.
+주부|nội trợ|어머니는 주부입니다.|Mẹ tôi là nội trợ.
+점원|nhân viên bán hàng|점원이 친절합니다.|Nhân viên bán hàng thân thiện.
+미용사|thợ làm tóc|미용사가 머리를 자릅니다.|Thợ làm tóc cắt tóc.
+소방관|lính cứu hỏa|소방관이 불을 끕니다.|Lính cứu hỏa dập lửa.
+약사|dược sĩ|약사가 약을 줍니다.|Dược sĩ đưa thuốc.
+기술자|kỹ thuật viên|기술자가 컴퓨터를 고칩니다.|Kỹ thuật viên sửa máy tính.
+비서|thư ký|비서가 전화를 받습니다.|Thư ký nghe điện thoại.
+통역사|phiên dịch viên|통역사가 한국어를 잘 합니다.|Phiên dịch viên giỏi tiếng Hàn.
+모델|người mẫu|그 모델은 키가 큽니다.|Người mẫu đó cao.
+대학생|sinh viên|저는 대학생입니다.|Tôi là sinh viên.

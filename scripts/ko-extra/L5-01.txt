@@ -1,0 +1,105 @@
+=5
+@Kinh tế học và tài chính|Thuật ngữ kinh tế
+거시경제|kinh tế vĩ mô|거시경제 지표를 분석합니다.|Phân tích các chỉ số kinh tế vĩ mô.
+미시경제|kinh tế vi mô|미시경제 이론을 공부합니다.|Học lý thuyết kinh tế vi mô.
+국내총생산|tổng sản phẩm quốc nội|국내총생산이 증가했습니다.|Tổng sản phẩm quốc nội đã tăng.
+경제성장률|tốc độ tăng trưởng kinh tế|경제성장률이 둔화되었습니다.|Tốc độ tăng trưởng kinh tế đã chậm lại.
+인플레이션|lạm phát|인플레이션이 심화되고 있습니다.|Lạm phát đang trầm trọng thêm.
+디플레이션|giảm phát|디플레이션 우려가 커졌습니다.|Mối lo giảm phát đã lớn hơn.
+통화정책|chính sách tiền tệ|중앙은행이 통화정책을 발표했습니다.|Ngân hàng trung ương đã công bố chính sách tiền tệ.
+재정|tài chính công|정부의 재정 상태가 악화되었습니다.|Tình trạng tài chính của chính phủ đã xấu đi.
+국채|trái phiếu chính phủ|국채를 발행합니다.|Phát hành trái phiếu chính phủ.
+증권|chứng khoán|증권 회사에 계좌를 개설했습니다.|Tôi đã mở tài khoản ở công ty chứng khoán.
+채권|trái phiếu; trái quyền|채권에 투자합니다.|Đầu tư vào trái phiếu.
+배당금|cổ tức|주주에게 배당금을 지급합니다.|Chi trả cổ tức cho cổ đông.
+수익률|tỷ suất lợi nhuận|이 상품은 수익률이 높습니다.|Sản phẩm này có tỷ suất lợi nhuận cao.
+외환|ngoại hối|외환 시장이 불안정합니다.|Thị trường ngoại hối bất ổn.
+관세|thuế quan|수입품에 관세를 부과합니다.|Đánh thuế quan lên hàng nhập khẩu.
+보조금|tiền trợ cấp|농가에 보조금을 지급합니다.|Chi trợ cấp cho nông hộ.
+민영화|sự tư nhân hóa|공기업의 민영화를 추진합니다.|Xúc tiến tư nhân hóa doanh nghiệp nhà nước.
+공기업|doanh nghiệp nhà nước|공기업에 입사했습니다.|Tôi đã vào làm ở doanh nghiệp nhà nước.
+벤처기업|doanh nghiệp khởi nghiệp mạo hiểm|벤처기업에 투자가 몰립니다.|Đầu tư dồn vào doanh nghiệp khởi nghiệp mạo hiểm.
+구매력|sức mua|소비자의 구매력이 떨어졌습니다.|Sức mua của người tiêu dùng đã giảm.
+내수|nhu cầu nội địa|내수 시장이 침체되었습니다.|Thị trường nội địa đã trì trệ.
+경상수지|cán cân vãng lai|경상수지가 흑자를 기록했습니다.|Cán cân vãng lai đã ghi nhận thặng dư.
+담보|vật thế chấp|집을 담보로 돈을 빌렸습니다.|Tôi đã vay tiền bằng cách thế chấp nhà.
+상환하다|hoàn trả (nợ)|대출금을 상환했습니다.|Tôi đã hoàn trả khoản vay.
+융자|khoản cho vay vốn|은행에서 융자를 받았습니다.|Tôi đã nhận khoản cho vay vốn từ ngân hàng.
+투기|đầu cơ|부동산 투기를 단속합니다.|Xử lý đầu cơ bất động sản.
+손실|tổn thất|큰 손실을 입었습니다.|Đã chịu tổn thất lớn.
+수익|lợi nhuận thu về|수익이 크게 늘었습니다.|Lợi nhuận đã tăng mạnh.
+@Hành chính và pháp chế|Thuật ngữ nhà nước
+입법|lập pháp|국회는 입법 기관입니다.|Quốc hội là cơ quan lập pháp.
+사법|tư pháp|사법 제도를 개혁합니다.|Cải cách chế độ tư pháp.
+행정부|cơ quan hành pháp|행정부가 정책을 집행합니다.|Cơ quan hành pháp thi hành chính sách.
+법령|pháp lệnh|새 법령이 시행됩니다.|Pháp lệnh mới được thi hành.
+조례|điều lệ địa phương|시 의회가 조례를 만들었습니다.|Hội đồng thành phố đã ban hành điều lệ.
+규정|quy định|회사 규정을 따릅니다.|Làm theo quy định của công ty.
+시행령|nghị định thi hành|시행령을 개정했습니다.|Đã sửa đổi nghị định thi hành.
+개정|sự sửa đổi (luật)|법 개정이 필요합니다.|Cần sửa đổi luật.
+제정|sự ban hành (luật)|새 법의 제정을 요구합니다.|Yêu cầu ban hành luật mới.
+폐지|sự bãi bỏ|그 제도의 폐지를 주장합니다.|Chủ trương bãi bỏ chế độ đó.
+위헌|vi hiến|그 법은 위헌으로 판결되었습니다.|Luật đó đã bị phán quyết là vi hiến.
+소송절차|thủ tục tố tụng|소송절차가 복잡합니다.|Thủ tục tố tụng phức tạp.
+원고|nguyên đơn; bản thảo|원고가 소송을 제기했습니다.|Nguyên đơn đã khởi kiện.
+피고|bị đơn|피고는 혐의를 부인했습니다.|Bị đơn đã phủ nhận cáo buộc.
+혐의|sự tình nghi, cáo buộc|사기 혐의로 조사를 받습니다.|Bị điều tra vì tình nghi lừa đảo.
+기소|việc khởi tố|검찰이 그를 기소했습니다.|Viện kiểm sát đã khởi tố ông ta.
+구속|việc bắt giam|용의자가 구속되었습니다.|Nghi phạm đã bị bắt giam.
+항소|kháng cáo|판결에 불복하여 항소했습니다.|Không phục phán quyết nên đã kháng cáo.
+징역|án tù|징역 삼 년을 선고받았습니다.|Đã bị tuyên án ba năm tù.
+집행유예|án treo|집행유예를 선고받았습니다.|Đã bị tuyên án treo.
+사면|sự ân xá|대통령이 사면을 결정했습니다.|Tổng thống đã quyết định ân xá.
+공청회|buổi điều trần công khai|정책 공청회가 열렸습니다.|Buổi điều trần công khai về chính sách đã diễn ra.
+민원|kiến nghị của dân|구청에 민원을 제기했습니다.|Tôi đã gửi kiến nghị lên ủy ban quận.
+허가|sự cấp phép|건축 허가를 받았습니다.|Đã nhận giấy phép xây dựng.
+인가|sự phê chuẩn|학교 설립 인가를 받았습니다.|Đã được phê chuẩn thành lập trường.
+감사|thanh tra, kiểm toán; lòng biết ơn|정부 기관이 감사를 받습니다.|Cơ quan chính phủ bị thanh tra.
+청문회|phiên điều trần|장관 후보자 청문회가 열립니다.|Phiên điều trần ứng viên bộ trưởng diễn ra.
+탄핵|sự luận tội|국회가 탄핵을 의결했습니다.|Quốc hội đã biểu quyết luận tội.
+@Khoa học tự nhiên|Thuật ngữ học thuật
+분자|phân tử|물 분자는 수소와 산소로 이루어집니다.|Phân tử nước gồm hydro và oxy.
+원자|nguyên tử|원자는 매우 작습니다.|Nguyên tử rất nhỏ.
+원소|nguyên tố|금은 원소입니다.|Vàng là một nguyên tố.
+화합물|hợp chất|새로운 화합물을 합성했습니다.|Đã tổng hợp được hợp chất mới.
+수소|hydro|수소는 가장 가벼운 원소입니다.|Hydro là nguyên tố nhẹ nhất.
+질소|nitơ|공기의 대부분은 질소입니다.|Phần lớn không khí là nitơ.
+탄소|cacbon|탄소 배출량을 줄입니다.|Giảm lượng phát thải cacbon.
+방사능|phóng xạ|방사능 오염이 우려됩니다.|Ô nhiễm phóng xạ đáng lo ngại.
+자기장|từ trường|지구에는 자기장이 있습니다.|Trái đất có từ trường.
+전자기파|sóng điện từ|휴대폰에서 전자기파가 나옵니다.|Điện thoại phát ra sóng điện từ.
+마찰|ma sát|마찰 때문에 열이 발생합니다.|Nhiệt phát sinh do ma sát.
+밀도|mật độ|물의 밀도를 측정합니다.|Đo mật độ của nước.
+질량|khối lượng|물체의 질량을 구합니다.|Tính khối lượng của vật.
+부피|thể tích|상자의 부피를 계산합니다.|Tính thể tích của thùng.
+속력|tốc lực, vận tốc|빛의 속력은 일정합니다.|Vận tốc ánh sáng là không đổi.
+가속도|gia tốc|가속도를 계산합니다.|Tính gia tốc.
+광합성|quang hợp|식물은 광합성을 합니다.|Thực vật quang hợp.
+미생물|vi sinh vật|미생물을 관찰합니다.|Quan sát vi sinh vật.
+염색체|nhiễm sắc thể|사람의 염색체는 마흔여섯 개입니다.|Con người có bốn mươi sáu nhiễm sắc thể.
+단세포|đơn bào|단세포 생물을 연구합니다.|Nghiên cứu sinh vật đơn bào.
+척추동물|động vật có xương sống|사람은 척추동물입니다.|Con người là động vật có xương sống.
+포유류|động vật có vú|고래는 포유류입니다.|Cá voi là động vật có vú.
+파충류|loài bò sát|뱀은 파충류입니다.|Rắn là loài bò sát.
+양서류|loài lưỡng cư|개구리는 양서류입니다.|Ếch là loài lưỡng cư.
+조류|loài chim; dòng triều|조류의 이동 경로를 조사합니다.|Khảo sát đường di cư của loài chim.
+화석|hóa thạch|공룡 화석을 발견했습니다.|Đã phát hiện hóa thạch khủng long.
+지층|địa tầng|지층을 조사합니다.|Khảo sát địa tầng.
+은하|thiên hà|우주에는 수많은 은하가 있습니다.|Trong vũ trụ có vô số thiên hà.
+@Y học chuyên sâu|Thuật ngữ y khoa
+임상|lâm sàng|임상 시험을 진행합니다.|Tiến hành thử nghiệm lâm sàng.
+병리|bệnh lý|병리 검사를 의뢰했습니다.|Đã yêu cầu xét nghiệm bệnh lý.
+항생제|thuốc kháng sinh|항생제를 처방받았습니다.|Tôi đã được kê thuốc kháng sinh.
+항체|kháng thể|몸에 항체가 생겼습니다.|Cơ thể đã có kháng thể.
+종양|khối u|종양을 제거했습니다.|Đã cắt bỏ khối u.
+전이|sự di căn|암이 다른 장기로 전이되었습니다.|Ung thư đã di căn sang cơ quan khác.
+마취|sự gây mê|수술 전에 마취를 합니다.|Gây mê trước khi phẫu thuật.
+수혈|truyền máu|환자에게 수혈을 했습니다.|Đã truyền máu cho bệnh nhân.
+혈관|mạch máu|혈관이 막혔습니다.|Mạch máu bị tắc.
+신경|dây thần kinh|신경이 손상되었습니다.|Dây thần kinh bị tổn thương.
+호르몬|hoóc môn|호르몬 수치를 검사합니다.|Xét nghiệm chỉ số hoóc môn.
+뇌졸중|đột quỵ não|뇌졸중으로 쓰러졌습니다.|Ông ấy ngã quỵ vì đột quỵ não.
+심근경색|nhồi máu cơ tim|심근경색은 위험한 병입니다.|Nhồi máu cơ tim là bệnh nguy hiểm.
+폐렴|viêm phổi|폐렴으로 입원했습니다.|Đã nhập viện vì viêm phổi.
+간염|viêm gan|간염 예방 주사를 맞습니다.|Tiêm phòng viêm gan.
+결핵|bệnh lao|결핵 검사를 받았습니다.|Đã xét nghiệm bệnh lao.

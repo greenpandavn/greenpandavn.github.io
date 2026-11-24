@@ -1,0 +1,124 @@
+=1
+@Động từ cơ bản|Những hành động hằng ngày
+하다|làm|저는 숙제를 합니다.|Tôi làm bài tập.
+없다|không có|지금 시간이 없습니다.|Bây giờ tôi không có thời gian.
+보다|nhìn, xem|저녁에 텔레비전을 봅니다.|Buổi tối tôi xem tivi.
+듣다|nghe|저는 음악을 듣습니다.|Tôi nghe nhạc.
+주다|cho, đưa|친구에게 선물을 줍니다.|Tôi tặng quà cho bạn.
+앉다|ngồi|의자에 앉으세요.|Xin hãy ngồi xuống ghế.
+서다|đứng|버스 정류장에 서 있습니다.|Tôi đang đứng ở trạm xe buýt.
+열다|mở|창문을 엽니다.|Tôi mở cửa sổ.
+닫다|đóng|문을 닫아 주세요.|Xin hãy đóng cửa.
+알다|biết|저는 그 사람을 압니다.|Tôi biết người đó.
+모르다|không biết|저는 그 사람의 이름을 모릅니다.|Tôi không biết tên người đó.
+좋아하다|thích|저는 한국 음식을 좋아합니다.|Tôi thích món Hàn.
+싫어하다|ghét, không thích|동생은 채소를 싫어합니다.|Em tôi ghét rau.
+사랑하다|yêu|저는 가족을 사랑합니다.|Tôi yêu gia đình.
+살다|sống|저는 서울에 삽니다.|Tôi sống ở Seoul.
+놀다|chơi|아이들이 공원에서 놉니다.|Bọn trẻ chơi ở công viên.
+울다|khóc|아기가 웁니다.|Em bé khóc.
+웃다|cười|친구가 크게 웃습니다.|Bạn tôi cười to.
+묻다|hỏi|선생님에게 길을 묻습니다.|Tôi hỏi đường thầy giáo.
+만들다|làm ra, chế tạo|어머니가 김치를 만듭니다.|Mẹ tôi làm kim chi.
+찍다|chụp (ảnh)|공원에서 사진을 찍습니다.|Tôi chụp ảnh ở công viên.
+신다|đi (giày, tất)|새 신발을 신습니다.|Tôi đi giày mới.
+벗다|cởi|집에서는 신발을 벗습니다.|Ở nhà thì cởi giày.
+끝나다|kết thúc, xong|수업이 세 시에 끝납니다.|Buổi học kết thúc lúc ba giờ.
+전화하다|gọi điện thoại|어머니에게 전화합니다.|Tôi gọi điện cho mẹ.
+이야기하다|nói chuyện|친구와 이야기합니다.|Tôi nói chuyện với bạn.
+노래하다|hát|저는 노래방에서 노래합니다.|Tôi hát ở quán karaoke.
+운동하다|tập thể dục|아침마다 운동합니다.|Sáng nào tôi cũng tập thể dục.
+산책하다|đi dạo|저녁에 공원에서 산책합니다.|Buổi tối tôi đi dạo ở công viên.
+쇼핑하다|đi mua sắm|주말에 백화점에서 쇼핑합니다.|Cuối tuần tôi mua sắm ở trung tâm thương mại.
+수영하다|bơi|바다에서 수영합니다.|Tôi bơi ở biển.
+일어서다|đứng dậy|학생들이 모두 일어섭니다.|Tất cả học sinh đứng dậy.
+들어가다|đi vào|교실에 들어갑니다.|Tôi đi vào lớp học.
+나가다|đi ra ngoài|아버지는 일찍 나갑니다.|Bố tôi đi ra ngoài sớm.
+나오다|đi ra (về phía người nói)|친구가 집에서 나옵니다.|Bạn tôi từ trong nhà đi ra.
+들어오다|đi vào (về phía người nói)|어서 들어오세요.|Xin mời vào.
+올라가다|đi lên|계단으로 올라갑니다.|Tôi đi lên bằng cầu thang.
+내려가다|đi xuống|일 층으로 내려갑니다.|Tôi đi xuống tầng một.
+가져오다|mang đến|우산을 가져오세요.|Hãy mang ô đến.
+가져가다|mang đi|이 책을 가져가세요.|Hãy mang quyển sách này đi.
+데려가다|dẫn đi|아이를 학교에 데려갑니다.|Tôi dẫn con đến trường.
+넣다|cho vào, bỏ vào|가방에 책을 넣습니다.|Tôi bỏ sách vào cặp.
+꺼내다|lấy ra|가방에서 지갑을 꺼냅니다.|Tôi lấy ví ra khỏi túi.
+놓다|đặt, để|책상 위에 컵을 놓습니다.|Tôi đặt cốc lên bàn.
+켜다|bật|불을 켭니다.|Tôi bật đèn.
+끄다|tắt|텔레비전을 끕니다.|Tôi tắt tivi.
+닦다|lau, đánh (răng)|아침에 이를 닦습니다.|Buổi sáng tôi đánh răng.
+감다|gội (đầu)|저녁에 머리를 감습니다.|Buổi tối tôi gội đầu.
+빌려주다|cho mượn|친구에게 책을 빌려줍니다.|Tôi cho bạn mượn sách.
+@Tính từ cơ bản|Miêu tả sự vật và con người
+좋다|tốt|오늘은 날씨가 좋습니다.|Hôm nay thời tiết tốt.
+나쁘다|xấu, tồi|오늘은 날씨가 나쁩니다.|Hôm nay thời tiết xấu.
+적다|ít|오늘은 손님이 적습니다.|Hôm nay ít khách.
+높다|cao (vị trí)|이 산은 아주 높습니다.|Ngọn núi này rất cao.
+넓다|rộng|우리 교실은 넓습니다.|Lớp học của chúng tôi rộng.
+좁다|hẹp|이 길은 좁습니다.|Con đường này hẹp.
+새롭다|mới mẻ|새로운 친구를 만났습니다.|Tôi đã gặp một người bạn mới.
+같다|giống nhau|우리는 나이가 같습니다.|Chúng tôi bằng tuổi nhau.
+다르다|khác nhau|두 사람은 성격이 다릅니다.|Hai người có tính cách khác nhau.
+맛없다|không ngon|이 빵은 맛없습니다.|Bánh mì này không ngon.
+재미없다|không thú vị|그 영화는 재미없습니다.|Bộ phim đó không thú vị.
+따뜻하다|ấm áp|봄에는 날씨가 따뜻합니다.|Mùa xuân thời tiết ấm áp.
+시원하다|mát mẻ|가을 바람이 시원합니다.|Gió mùa thu mát mẻ.
+뜨겁다|nóng (đồ vật)|이 커피는 아주 뜨겁습니다.|Cà phê này rất nóng.
+차갑다|lạnh (đồ vật)|물이 차갑습니다.|Nước lạnh.
+가볍다|nhẹ|이 가방은 가볍습니다.|Cái túi này nhẹ.
+밝다|sáng sủa|이 방은 밝습니다.|Căn phòng này sáng.
+어둡다|tối|밤에는 길이 어둡습니다.|Ban đêm đường tối.
+젊다|trẻ|우리 선생님은 젊습니다.|Giáo viên của chúng tôi trẻ.
+늙다|già đi|사람은 누구나 늙습니다.|Ai rồi cũng già đi.
+배부르다|no bụng|많이 먹어서 배부릅니다.|Ăn nhiều nên tôi no.
+목마르다|khát nước|운동을 해서 목마릅니다.|Tập thể dục nên tôi khát nước.
+졸리다|buồn ngủ|밤에 늦게 자서 졸립니다.|Ngủ muộn nên tôi buồn ngủ.
+아름답다|đẹp (cảnh, vật)|제주도는 아름답습니다.|Đảo Jeju đẹp.
+귀엽다|dễ thương|강아지가 귀엽습니다.|Chú cún con dễ thương.
+멋있다|bảnh, ngầu|그 배우는 멋있습니다.|Diễn viên đó rất bảnh.
+착하다|ngoan, hiền lành|제 동생은 착합니다.|Em tôi ngoan.
+똑똑하다|thông minh|그 학생은 똑똑합니다.|Học sinh đó thông minh.
+건강하다|khỏe mạnh|할머니는 건강하십니다.|Bà tôi khỏe mạnh.
+유명하다|nổi tiếng|이 식당은 유명합니다.|Quán ăn này nổi tiếng.
+편하다|thoải mái, tiện|이 의자는 편합니다.|Cái ghế này thoải mái.
+불편하다|bất tiện, khó chịu|이 신발은 불편합니다.|Đôi giày này khó chịu.
+늦다|muộn|오늘 학교에 늦었습니다.|Hôm nay tôi đã đến trường muộn.
+이르다|sớm|아직 시간이 이릅니다.|Vẫn còn sớm.
+@Thời gian trong ngày|Giờ giấc và thứ ngày
+화요일|thứ ba|화요일에 시험이 있습니다.|Thứ ba có bài kiểm tra.
+수요일|thứ tư|수요일에 친구를 만납니다.|Thứ tư tôi gặp bạn.
+목요일|thứ năm|목요일은 바쁩니다.|Thứ năm tôi bận.
+금요일|thứ sáu|금요일 저녁에 영화를 봅니다.|Tối thứ sáu tôi xem phim.
+토요일|thứ bảy|토요일에 등산을 갑니다.|Thứ bảy tôi đi leo núi.
+일요일|chủ nhật|일요일에는 집에서 쉽니다.|Chủ nhật tôi nghỉ ở nhà.
+오전|buổi sáng (trước 12 giờ)|오전에 수업이 있습니다.|Buổi sáng có giờ học.
+오후|buổi chiều|오후에 도서관에 갑니다.|Buổi chiều tôi đi thư viện.
+밤|ban đêm|밤에 별이 보입니다.|Ban đêm nhìn thấy sao.
+낮|ban ngày|낮에는 덥습니다.|Ban ngày thì nóng.
+새벽|rạng sáng|새벽에 일어났습니다.|Tôi đã dậy lúc rạng sáng.
+분|phút|십 분만 기다리세요.|Hãy đợi mười phút thôi.
+초|giây|삼십 초 남았습니다.|Còn lại ba mươi giây.
+주|tuần|이번 주에 시험이 있습니다.|Tuần này có bài kiểm tra.
+달력|tờ lịch|달력을 보세요.|Hãy xem lịch.
+작년|năm ngoái|작년에 한국에 왔습니다.|Năm ngoái tôi đã đến Hàn Quốc.
+내년|năm sau|내년에 대학교에 갑니다.|Năm sau tôi vào đại học.
+모레|ngày kia|모레 친구가 옵니다.|Ngày kia bạn tôi đến.
+그저께|hôm kia|그저께 비가 왔습니다.|Hôm kia trời đã mưa.
+이번|lần này|이번 주말에 뭐 합니까?|Cuối tuần này bạn làm gì?
+다음|tiếp theo, sau|다음 역에서 내립니다.|Tôi xuống ở ga tiếp theo.
+지난주|tuần trước|지난주에 영화를 봤습니다.|Tuần trước tôi đã xem phim.
+날짜|ngày tháng|오늘 날짜를 쓰세요.|Hãy viết ngày tháng hôm nay.
+평일|ngày thường|평일에는 일합니다.|Ngày thường tôi làm việc.
+휴일|ngày nghỉ|휴일에 늦게 일어납니다.|Ngày nghỉ tôi dậy muộn.
+처음|lần đầu|한국에 처음 왔습니다.|Tôi đến Hàn Quốc lần đầu.
+마지막|cuối cùng|오늘이 마지막 수업입니다.|Hôm nay là buổi học cuối cùng.
+나중|sau này, lát nữa|나중에 다시 전화하겠습니다.|Lát nữa tôi sẽ gọi lại.
+방금|vừa mới|방금 밥을 먹었습니다.|Tôi vừa mới ăn cơm.
+요즘|dạo này|요즘 날씨가 춥습니다.|Dạo này trời lạnh.
+항상|luôn luôn|저는 항상 일찍 일어납니다.|Tôi luôn dậy sớm.
+보통|thông thường|보통 일곱 시에 일어납니다.|Thông thường tôi dậy lúc bảy giờ.
+일찍|sớm (trạng từ)|오늘은 일찍 잡니다.|Hôm nay tôi ngủ sớm.
+늦게|muộn (trạng từ)|어제 늦게 잤습니다.|Hôm qua tôi đã ngủ muộn.
+먼저|trước tiên|먼저 손을 씻으세요.|Trước tiên hãy rửa tay.
+곧|sắp, ngay|곧 기차가 옵니다.|Tàu sắp đến.
+있다|có, ở|교실에 학생이 있습니다.|Trong lớp có học sinh.

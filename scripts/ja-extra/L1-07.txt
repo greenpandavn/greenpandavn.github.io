@@ -1,0 +1,75 @@
+=1
+@Đất nước và ngôn ngữ|Quốc gia, tiếng nói
+ベトナム|Việt Nam|私:わたし は ベトナム から 来ました:きました 。|Tôi đến từ Việt Nam.
+中国:ちゅうごく|Trung Quốc|中国:ちゅうごく は 広い:ひろい 国:くに です 。|Trung Quốc là đất nước rộng lớn.
+韓国:かんこく|Hàn Quốc|来月:らいげつ 、 韓国:かんこく へ 行きます:いきます 。|Tháng sau tôi đi Hàn Quốc.
+アメリカ|Mỹ|兄:あに は アメリカ に 住んで:すんで います 。|Anh tôi sống ở Mỹ.
+イギリス|Anh quốc|イギリス は 雨:あめ が 多い:おおい です 。|Nước Anh mưa nhiều.
+フランス|Pháp|フランス の パン は おいしい です 。|Bánh mì Pháp ngon.
+ドイツ|Đức|この 車:くるま は ドイツ の です 。|Xe này là của Đức.
+タイ|Thái Lan|タイ の 料理:りょうり は 辛い:からい です 。|Món ăn Thái cay.
+インド|Ấn Độ|インド は 人:ひと が 多い:おおい です 。|Ấn Độ đông dân.
+日本人:にほんじん|người Nhật|山田:やまだ さん は 日本人:にほんじん です 。|Anh Yamada là người Nhật.
+ベトナム語:ベトナムご|tiếng Việt|友達:ともだち に ベトナム語:ベトナムご を 教えます:おしえます 。|Tôi dạy tiếng Việt cho bạn.
+中国語:ちゅうごくご|tiếng Trung|中国語:ちゅうごくご は 発音:はつおん が 難しい:むずかしい です 。|Tiếng Trung phát âm khó.
+外国語:がいこくご|ngoại ngữ|外国語:がいこくご を 二つ:ふたつ 話します:はなします 。|Tôi nói được hai ngoại ngữ.
+東京:とうきょう|Tokyo|東京:とうきょう は 大きい:おおきい 町:まち です 。|Tokyo là thành phố lớn.
+世界:せかい|thế giới|世界:せかい を 旅行:りょこう したい です 。|Tôi muốn du lịch thế giới.
+@Động từ thường ngày 2|Hành động bổ sung
+急ぐ:いそぐ|vội, gấp|時間:じかん が ない から 急ぎます:いそぎます 。|Vì không có thời gian nên tôi vội.
+始まる:はじまる|bắt đầu (tự)|授業:じゅぎょう は 九時:くじ に 始まります:はじまります 。|Giờ học bắt đầu lúc chín giờ.
+開く:あく|mở ra (tự)|店:みせ は 十時:じゅうじ に 開きます:あきます 。|Cửa hàng mở lúc mười giờ.
+閉まる:しまる|đóng lại (tự)|銀行:ぎんこう は 三時:さんじ に 閉まります:しまります 。|Ngân hàng đóng cửa lúc ba giờ.
+消える:きえる|tắt, biến mất|電気:でんき が 消えました:きえました 。|Điện đã tắt.
+鳴く:なく|kêu, hót|鳥:とり が 鳴いて:ないて います 。|Chim đang hót.
+笑う:わらう|cười|みんな が 笑いました:わらいました 。|Mọi người đã cười.
+掛ける:かける|treo|壁:かべ に 絵:え を 掛けます:かけます 。|Tôi treo tranh lên tường.
+踊り:おどり|điệu múa|日本:にほん の 踊り:おどり を 見ました:みました 。|Tôi đã xem điệu múa Nhật.
+@Mua sắm và tiền bạc|Ở cửa hàng
+お店:おみせ|cửa tiệm (lịch sự)|この お店:おみせ は 人気:にんき です 。|Cửa tiệm này được ưa chuộng.
+売り場:うりば|quầy bán hàng|靴:くつ の 売り場:うりば は 二階:にかい です 。|Quầy bán giày ở tầng hai.
+レジ|quầy thu ngân|レジ で お金:おかね を 払います:はらいます 。|Tôi trả tiền ở quầy thu ngân.
+袋:ふくろ|cái túi|袋:ふくろ は 要ります:いります か 。|Bạn có cần túi không?
+サイズ|kích cỡ|この 靴:くつ の サイズ は 小さい:ちいさい です 。|Cỡ đôi giày này nhỏ.
+細かい:こまかい|nhỏ, lẻ (tiền)|細かい:こまかい お金:おかね が ありません 。|Tôi không có tiền lẻ.
+百円:ひゃくえん|một trăm yên|この ペン は 百円:ひゃくえん です 。|Cây bút này một trăm yên.
+千円:せんえん|một nghìn yên|昼ご飯:ひるごはん は 千円:せんえん でした 。|Bữa trưa hết một nghìn yên.
+一万円:いちまんえん|một vạn yên|財布:さいふ に 一万円:いちまんえん あります 。|Trong ví có một vạn yên.
+セール|đợt giảm giá|今週:こんしゅう 、 デパート は セール です 。|Tuần này cửa hàng bách hóa giảm giá.
+半額:はんがく|nửa giá|夜:よる は 弁当:べんとう が 半額:はんがく です 。|Buổi tối cơm hộp bán nửa giá.
+カード|thẻ|カード で 払います:はらいます 。|Tôi trả bằng thẻ.
+@Sở thích và giải trí|Thời gian rảnh
+読書:どくしょ|đọc sách|趣味:しゅみ は 読書:どくしょ です 。|Sở thích của tôi là đọc sách.
+漫画:まんが|truyện tranh|弟:おとうと は 漫画:まんが を 読んで:よんで います 。|Em trai tôi đang đọc truyện tranh.
+アニメ|phim hoạt hình|日本:にほん の アニメ が 好き:すき です 。|Tôi thích phim hoạt hình Nhật.
+ドラマ|phim truyền hình|毎晩:まいばん 、 ドラマ を 見ます:みます 。|Mỗi tối tôi xem phim truyền hình.
+コンサート|buổi hòa nhạc|土曜日:どようび に コンサート へ 行きます:いきます 。|Thứ bảy tôi đi xem hòa nhạc.
+ダンス|khiêu vũ|妹:いもうと は ダンス を 習って:ならって います 。|Em gái tôi đang học khiêu vũ.
+カラオケ|karaoke|友達:ともだち と カラオケ へ 行きます:いきます 。|Tôi đi karaoke với bạn.
+花見:はなみ|ngắm hoa anh đào|春:はる に 公園:こうえん で 花見:はなみ を します 。|Mùa xuân tôi ngắm hoa ở công viên.
+花火:はなび|pháo hoa|夏:なつ の 夜:よる 、 花火:はなび を 見ます:みます 。|Đêm hè tôi xem pháo hoa.
+ピクニック|dã ngoại|日曜日:にちようび に ピクニック を します 。|Chủ nhật tôi đi dã ngoại.
+スキー|trượt tuyết|冬:ふゆ は スキー を します 。|Mùa đông tôi trượt tuyết.
+ジョギング|chạy bộ|毎朝:まいあさ 、 ジョギング を します 。|Mỗi sáng tôi chạy bộ.
+卓球:たっきゅう|bóng bàn|兄:あに と 卓球:たっきゅう を します 。|Tôi chơi bóng bàn với anh.
+おもちゃ|đồ chơi|子供:こども に おもちゃ を 買います:かいます 。|Tôi mua đồ chơi cho con.
+人形:にんぎょう|búp bê|妹:いもうと は 人形:にんぎょう で 遊びます:あそびます 。|Em gái tôi chơi búp bê.
+@Thời gian và tần suất|Trước, sau, lúc
+後:あと|sau|仕事:しごと の 後:あと で 買い物:かいもの します 。|Sau giờ làm tôi đi mua sắm.
+今度:こんど|lần tới|今度:こんど 、 一緒:いっしょ に 行きましょう:いきましょう 。|Lần tới cùng đi nhé.
+先:さき|trước (thứ tự)|お先:おさき に どうぞ 。 先:さき に 行きます:いきます 。|Xin mời đi trước. Tôi đi trước đây.
+頃:ころ|khoảng lúc|子供:こども の 頃:ころ 、 よく 川:かわ で 遊びました:あそびました 。|Hồi nhỏ tôi hay chơi ở sông.
+最近:さいきん|gần đây|最近:さいきん 、 忙しい:いそがしい です 。|Gần đây tôi bận.
+昔:むかし|ngày xưa|昔:むかし 、 ここ は 海:うみ でした 。|Ngày xưa nơi này là biển.
+平日:へいじつ|ngày thường|平日:へいじつ は 六時:ろくじ に 起きます:おきます 。|Ngày thường tôi dậy lúc sáu giờ.
+休日:きゅうじつ|ngày nghỉ lễ|休日:きゅうじつ は 人:ひと が 多い:おおい です 。|Ngày nghỉ lễ đông người.
+一日中:いちにちじゅう|suốt cả ngày|昨日:きのう は 一日中:いちにちじゅう 寝ました:ねました 。|Hôm qua tôi ngủ suốt cả ngày.
+一週間:いっしゅうかん|một tuần|一週間:いっしゅうかん 、 京都:きょうと に いました 。|Tôi đã ở Kyoto một tuần.
+一か月:いっかげつ|một tháng|日本:にほん に 一か月:いっかげつ います 。|Tôi ở Nhật một tháng.
+一年:いちねん|một năm|日本語:にほんご を 一年:いちねん 勉強:べんきょう しました 。|Tôi đã học tiếng Nhật một năm.
+一時間:いちじかん|một tiếng|毎日:まいにち 、 一時間:いちじかん 歩きます:あるきます 。|Mỗi ngày tôi đi bộ một tiếng.
+吹く:ふく|thổi|強い:つよい 風:かぜ が 吹いて:ふいて います 。|Gió mạnh đang thổi.
+貼る:はる|dán|封筒:ふうとう に 切手:きって を 貼ります:はります 。|Tôi dán tem lên phong bì.
+締める:しめる|thắt, buộc chặt|ネクタイ を 締めます:しめます 。|Tôi thắt cà vạt.
+泣く:なく|khóc|赤ちゃん:あかちゃん が 泣いて:ないて います 。|Em bé đang khóc.
+飼う:かう|nuôi (con vật)|家:いえ で 犬:いぬ を 飼って:かって います 。|Nhà tôi nuôi chó.

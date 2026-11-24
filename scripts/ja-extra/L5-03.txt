@@ -1,0 +1,135 @@
+=5
+@Tư tưởng và lập luận|Quan niệm, suy luận
+観念:かんねん|quan niệm, ý niệm|彼:かれ は 時間:じかん の 観念:かんねん が ありません 。|Anh ta không có ý niệm về thời gian.
+理念:りねん|triết lý (của tổ chức)|会社:かいしゃ の 理念:りねん を 説明:せつめい します 。|Tôi giải thích triết lý của công ty.
+執念:しゅうねん|sự cố chấp đeo đuổi|彼:かれ は 執念:しゅうねん で 犯人:はんにん を 見つけました:みつけました 。|Anh ấy tìm ra thủ phạm nhờ sự cố chấp đeo đuổi.
+世界観:せかいかん|thế giới quan|この 小説:しょうせつ の 世界観:せかいかん が 好き:すき です 。|Tôi thích thế giới quan của tiểu thuyết này.
+人生観:じんせいかん|nhân sinh quan|病気:びょうき で 人生観:じんせいかん が 変わりました:かわりました 。|Nhân sinh quan của tôi thay đổi vì bệnh tật.
+先入観:せんにゅうかん|định kiến có sẵn|先入観:せんにゅうかん を 捨てて:すてて 話:はなし を 聞きます:ききます 。|Tôi bỏ định kiến có sẵn để lắng nghe.
+固定観念:こていかんねん|quan niệm cố hữu|固定観念:こていかんねん に 縛られて:しばられて は いけません 。|Không được để quan niệm cố hữu trói buộc.
+真理:しんり|chân lý|学者:がくしゃ は 真理:しんり を 求めます:もとめます 。|Học giả tìm kiếm chân lý.
+真相:しんそう|chân tướng|事件:じけん の 真相:しんそう が 分かりました:わかりました 。|Chân tướng vụ án đã rõ.
+葛藤:かっとう|giằng xé nội tâm|彼:かれ は 心:こころ の 中:なか で 葛藤:かっとう して います 。|Anh ấy đang giằng xé nội tâm.
+錯覚:さっかく|ảo giác, tưởng lầm|それ は 目:め の 錯覚:さっかく です 。|Đó là ảo giác của mắt.
+幻想:げんそう|ảo tưởng, huyễn tưởng|甘い:あまい 幻想:げんそう を 捨てなさい:すてなさい 。|Hãy vứt bỏ ảo tưởng ngọt ngào.
+妄想:もうそう|hoang tưởng|それ は あなた の 妄想:もうそう です 。|Đó là hoang tưởng của anh.
+空想:くうそう|mơ mộng viển vông|子供:こども は 空想:くうそう が 好き:すき です 。|Trẻ con thích mơ mộng viển vông.
+理屈:りくつ|lý lẽ, lý sự|彼:かれ は 理屈:りくつ ばかり 言います:いいます 。|Anh ta toàn nói lý sự.
+仮定:かてい|giả định|それ が 本当:ほんとう だ と 仮定:かてい します 。|Giả định rằng điều đó là thật.
+推定:すいてい|ước định, suy đoán (số liệu)|被害:ひがい の 額:がく を 推定:すいてい します 。|Người ta ước định số tiền thiệt hại.
+推論:すいろん|suy luận|事実:じじつ から 推論:すいろん します 。|Tôi suy luận từ sự thật.
+憶測:おくそく|đoán mò|憶測:おくそく で 話して:はなして は いけません 。|Không được nói theo kiểu đoán mò.
+見地:けんち|quan điểm (góc độ chuyên môn)|医学:いがく の 見地:けんち から 説明:せつめい します 。|Giải thích từ góc độ y học.
+視点:してん|góc nhìn|子供:こども の 視点:してん で 考えます:かんがえます 。|Tôi suy nghĩ từ góc nhìn của trẻ.
+視野:しや|tầm nhìn|留学:りゅうがく で 視野:しや が 広がりました:ひろがりました 。|Du học giúp tầm nhìn tôi mở rộng.
+主義:しゅぎ|chủ nghĩa, nguyên tắc sống|私:わたし は 借金:しゃっきん を しない 主義:しゅぎ です 。|Tôi theo nguyên tắc không vay nợ.
+資本主義:しほんしゅぎ|chủ nghĩa tư bản|資本主義:しほんしゅぎ の 歴史:れきし を 学びます:まなびます 。|Tôi học lịch sử chủ nghĩa tư bản.
+民主主義:みんしゅしゅぎ|chủ nghĩa dân chủ|選挙:せんきょ は 民主主義:みんしゅしゅぎ の 基本:きほん です 。|Bầu cử là nền tảng của chủ nghĩa dân chủ.
+社会主義:しゃかいしゅぎ|chủ nghĩa xã hội|社会主義:しゃかいしゅぎ の 国:くに を 訪ねました:たずねました 。|Tôi đã thăm một nước xã hội chủ nghĩa.
+個人主義:こじんしゅぎ|chủ nghĩa cá nhân|若者:わかもの の 間:あいだ に 個人主義:こじんしゅぎ が 広がって:ひろがって います 。|Chủ nghĩa cá nhân đang lan rộng trong giới trẻ.
+楽観:らっかん|lạc quan|将来:しょうらい を 楽観:らっかん して います 。|Tôi lạc quan về tương lai.
+悲観:ひかん|bi quan|失敗:しっぱい を 悲観:ひかん しないで ください 。|Đừng bi quan vì thất bại.
+肯定:こうてい|khẳng định|彼:かれ は その 噂:うわさ を 肯定:こうてい しました 。|Anh ấy đã khẳng định tin đồn đó.
+否定:ひてい|phủ định|社長:しゃちょう は 報道:ほうどう を 否定:ひてい しました 。|Giám đốc đã phủ định tin tức báo chí.
+賛否:さんぴ|tán thành và phản đối|この 案:あん に は 賛否:さんぴ が あります 。|Đề án này có cả tán thành và phản đối.
+異議:いぎ|ý kiến phản đối (chính thức)|決定:けってい に 異議:いぎ は ありません 。|Tôi không có ý kiến phản đối quyết định.
+異論:いろん|ý kiến khác|その 点:てん に は 異論:いろん が あります 。|Về điểm đó tôi có ý kiến khác.
+弁解:べんかい|bào chữa, chống chế|遅刻:ちこく の 弁解:べんかい を します 。|Anh ta bào chữa cho việc đi muộn.
+弁明:べんめい|biện minh|会議:かいぎ で 弁明:べんめい の 機会:きかい を もらいました 。|Tôi được cho cơ hội biện minh trong cuộc họp.
+釈明:しゃくめい|giải trình|大臣:だいじん が 発言:はつげん に ついて 釈明:しゃくめい しました 。|Bộ trưởng đã giải trình về phát ngôn.
+言及:げんきゅう|đề cập đến|首相:しゅしょう は その 問題:もんだい に 言及:げんきゅう しました 。|Thủ tướng đã đề cập đến vấn đề đó.
+示唆:しさ|gợi ý, ám chỉ|調査:ちょうさ は 新しい:あたらしい 可能性:かのうせい を 示唆:しさ して います 。|Cuộc điều tra gợi ý một khả năng mới.
+暗示:あんじ|ám thị, báo trước|この 夢:ゆめ は 何か:なにか を 暗示:あんじ して います 。|Giấc mơ này đang báo trước điều gì đó.
+明示:めいじ|nêu rõ|値段:ねだん を 明示:めいじ して ください 。|Hãy nêu rõ giá.
+指摘:してき|chỉ ra|先生:せんせい が 間違い:まちがい を 指摘:してき しました 。|Thầy đã chỉ ra chỗ sai.
+非難:ひなん|chỉ trích, lên án|彼:かれ の 行動:こうどう は 非難:ひなん されました 。|Hành động của anh ta bị lên án.
+抗議:こうぎ|kháng nghị, phản đối|住民:じゅうみん が 工事:こうじ に 抗議:こうぎ しました 。|Cư dân đã phản đối việc thi công.
+糾弾:きゅうだん|vạch tội, công kích|新聞:しんぶん が 不正:ふせい を 糾弾:きゅうだん しました 。|Báo chí đã vạch tội gian lận.
+追及:ついきゅう|truy cứu|警察:けいさつ が 責任:せきにん を 追及:ついきゅう します 。|Cảnh sát truy cứu trách nhiệm.
+追求:ついきゅう|mưu cầu, theo đuổi|会社:かいしゃ は 利益:りえき を 追求:ついきゅう します 。|Công ty mưu cầu lợi nhuận.
+探求:たんきゅう|tìm tòi|彼:かれ は 美:び を 探求:たんきゅう して います 。|Ông ấy đang tìm tòi cái đẹp.
+究明:きゅうめい|làm sáng tỏ (nguyên nhân)|事故:じこ の 原因:げんいん を 究明:きゅうめい します 。|Làm sáng tỏ nguyên nhân tai nạn.
+解明:かいめい|giải mã, làm rõ|病気:びょうき の 仕組み:しくみ を 解明:かいめい しました 。|Người ta đã giải mã cơ chế của bệnh.
+洞察:どうさつ|thấu suốt|彼:かれ は 人:ひと の 心:こころ を 洞察:どうさつ します 。|Ông ấy thấu suốt lòng người.
+熟考:じゅっこう|suy xét kỹ càng|熟考:じゅっこう して から 返事:へんじ を します 。|Tôi suy xét kỹ càng rồi mới trả lời.
+思案:しあん|trầm ngâm tính toán|どう する か 思案:しあん して います 。|Tôi đang trầm ngâm tính xem nên làm gì.
+配分:はいぶん|phân bổ|時間:じかん の 配分:はいぶん を 考えます:かんがえます 。|Tôi tính toán phân bổ thời gian.
+吟味:ぎんみ|chọn lọc kỹ, xem xét kỹ|材料:ざいりょう を 吟味:ぎんみ して 料理:りょうり します 。|Tôi chọn lọc kỹ nguyên liệu để nấu.
+審査:しんさ|thẩm tra, chấm duyệt|書類:しょるい の 審査:しんさ に 通りました:とおりました 。|Tôi đã qua vòng thẩm tra hồ sơ.
+審議:しんぎ|thẩm nghị|国会:こっかい で 法案:ほうあん を 審議:しんぎ します 。|Quốc hội thẩm nghị dự luật.
+協議:きょうぎ|hiệp thương, bàn bạc|両国:りょうこく が 協議:きょうぎ を 続けて:つづけて います 。|Hai nước đang tiếp tục hiệp thương.
+討議:とうぎ|thảo luận (tranh biện)|委員:いいん が 問題:もんだい を 討議:とうぎ します 。|Các ủy viên thảo luận vấn đề.
+譲歩:じょうほ|nhượng bộ|お互い:おたがい に 少し:すこし 譲歩:じょうほ しました 。|Hai bên đã nhượng bộ nhau một chút.
+承諾:しょうだく|ưng thuận|親:おや の 承諾:しょうだく を 得ました:えました 。|Tôi đã được bố mẹ ưng thuận.
+了承:りょうしょう|chấp thuận, thông cảm cho|変更:へんこう を ご 了承:りょうしょう ください 。|Xin quý vị chấp thuận sự thay đổi.
+承認:しょうにん|phê chuẩn|会議:かいぎ で 予算:よさん が 承認:しょうにん されました 。|Ngân sách đã được phê chuẩn tại cuộc họp.
+是認:ぜにん|thừa nhận là đúng|その 方法:ほうほう を 是認:ぜにん する こと は できません 。|Không thể thừa nhận phương pháp đó là đúng.
+黙認:もくにん|ngầm cho phép|上司:じょうし は 遅刻:ちこく を 黙認:もくにん して います 。|Cấp trên đang ngầm cho phép đi muộn.
+拒否:きょひ|cự tuyệt, từ chối (yêu cầu)|彼:かれ は 証言:しょうげん を 拒否:きょひ しました 。|Anh ta đã từ chối làm chứng.
+拒絶:きょぜつ|khước từ thẳng thừng|相手:あいて は 提案:ていあん を 拒絶:きょぜつ しました 。|Đối phương đã khước từ thẳng thừng đề xuất.
+却下:きゃっか|bác bỏ (đơn)|申請:しんせい は 却下:きゃっか されました 。|Đơn xin đã bị bác bỏ.
+棄却:ききゃく|bác (kháng cáo)|裁判所:さいばんしょ は 訴え:うったえ を 棄却:ききゃく しました 。|Tòa án đã bác đơn kiện.
+撤回:てっかい|rút lại (phát ngôn)|大臣:だいじん は 発言:はつげん を 撤回:てっかい しました 。|Bộ trưởng đã rút lại phát ngôn.
+撤廃:てっぱい|xóa bỏ (quy chế)|古い:ふるい 規制:きせい を 撤廃:てっぱい します 。|Xóa bỏ quy chế cũ.
+撤去:てっきょ|dỡ bỏ|古い:ふるい 看板:かんばん を 撤去:てっきょ します 。|Dỡ bỏ biển hiệu cũ.
+削除:さくじょ|xóa (dữ liệu)|古い:ふるい ファイル を 削除:さくじょ します 。|Tôi xóa tệp cũ.
+抹消:まっしょう|gạch tên, xóa sổ|名簿:めいぼ から 名前:なまえ を 抹消:まっしょう します 。|Gạch tên khỏi danh sách.
+除外:じょがい|loại ra, không tính|子供:こども は 対象:たいしょう から 除外:じょがい します 。|Trẻ em được loại ra khỏi đối tượng.
+解除:かいじょ|gỡ bỏ (lệnh, hợp đồng)|警報:けいほう が 解除:かいじょ されました 。|Cảnh báo đã được gỡ bỏ.
+解消:かいしょう|xóa tan, giải tỏa|運動:うんどう で ストレス を 解消:かいしょう します 。|Tôi giải tỏa căng thẳng bằng vận động.
+解散:かいさん|giải tán|会:かい は 五時:ごじ に 解散:かいさん しました 。|Buổi họp giải tán lúc năm giờ.
+@Xung đột và quyền lực|Sụp đổ, đấu tranh, cai trị
+分裂:ぶんれつ|chia rẽ, phân liệt|党:とう が 二つ:ふたつ に 分裂:ぶんれつ しました 。|Đảng đã chia rẽ làm hai.
+破壊:はかい|phá hoại|戦争:せんそう は 町:まち を 破壊:はかい しました 。|Chiến tranh đã phá hoại thị trấn.
+破滅:はめつ|tiêu vong, tan nát đời|賭け事:かけごと は 身:み の 破滅:はめつ を 招きます:まねきます 。|Cờ bạc dẫn đến tan nát cuộc đời.
+壊滅:かいめつ|bị xóa sổ, tan hoang|津波:つなみ で 村:むら が 壊滅:かいめつ しました 。|Ngôi làng bị xóa sổ vì sóng thần.
+消滅:しょうめつ|biến mất hẳn, tiêu biến|古い:ふるい 権利:けんり が 消滅:しょうめつ しました 。|Quyền lợi cũ đã tiêu biến.
+衰退:すいたい|suy thoái (ngành, vùng)|この 町:まち の 産業:さんぎょう は 衰退:すいたい して います 。|Công nghiệp của thị trấn này đang suy thoái.
+没落:ぼつらく|sa sút, lụn bại|その 一族:いちぞく は 没落:ぼつらく しました 。|Dòng họ đó đã lụn bại.
+堕落:だらく|sa đọa|金:かね が 彼:かれ を 堕落:だらく させました 。|Đồng tiền đã làm anh ta sa đọa.
+混乱:こんらん|hỗn loạn|事故:じこ で 駅:えき は 混乱:こんらん して います 。|Nhà ga đang hỗn loạn vì tai nạn.
+混迷:こんめい|rối ren mù mịt|政治:せいじ の 混迷:こんめい が 続いて:つづいて います 。|Tình hình chính trị rối ren mù mịt vẫn tiếp diễn.
+動揺:どうよう|dao động, xao động|その 知らせ:しらせ に 動揺:どうよう しました 。|Tôi đã xao động trước tin đó.
+抗争:こうそう|tranh giành (phe phái)|二つ:ふたつ の 組織:そしき が 抗争:こうそう して います 。|Hai tổ chức đang tranh giành nhau.
+闘争:とうそう|đấu tranh|労働者:ろうどうしゃ が 闘争:とうそう を 続けます:つづけます 。|Người lao động tiếp tục đấu tranh.
+衝突:しょうとつ|va chạm, xung đột|車:くるま と バス が 衝突:しょうとつ しました 。|Ô tô và xe buýt đã va chạm.
+対決:たいけつ|đối đầu|二人:ふたり の 王者:おうじゃ が 対決:たいけつ します 。|Hai nhà vô địch đối đầu.
+決裂:けつれつ|đổ vỡ (đàm phán)|交渉:こうしょう は 決裂:けつれつ しました 。|Cuộc đàm phán đã đổ vỡ.
+和解:わかい|hòa giải|二人:ふたり は 裁判:さいばん で 和解:わかい しました 。|Hai người đã hòa giải tại tòa.
+仲裁:ちゅうさい|đứng ra phân xử|先生:せんせい が けんか を 仲裁:ちゅうさい しました 。|Thầy giáo đã đứng ra phân xử vụ cãi nhau.
+調停:ちょうてい|hòa giải (qua trung gian)|裁判所:さいばんしょ が 調停:ちょうてい を 行います:おこないます 。|Tòa án tiến hành hòa giải.
+介入:かいにゅう|can dự|政府:せいふ が 市場:しじょう に 介入:かいにゅう しました 。|Chính phủ đã can dự vào thị trường.
+干渉:かんしょう|can thiệp (xen vào)|親:おや が 子供:こども の 生活:せいかつ に 干渉:かんしょう します 。|Bố mẹ can thiệp vào cuộc sống của con.
+妨害:ぼうがい|cản trở, phá rối|彼ら:かれら は 会議:かいぎ を 妨害:ぼうがい しました 。|Bọn họ đã phá rối cuộc họp.
+阻止:そし|ngăn chặn|警察:けいさつ が 犯罪:はんざい を 阻止:そし しました 。|Cảnh sát đã ngăn chặn tội phạm.
+抑圧:よくあつ|áp bức, đè nén|自由:じゆう を 抑圧:よくあつ して は いけません 。|Không được đè nén tự do.
+弾圧:だんあつ|đàn áp|政府:せいふ は 反対:はんたい する 人々:ひとびと を 弾圧:だんあつ しました 。|Chính quyền đã đàn áp những người phản đối.
+束縛:そくばく|trói buộc|彼:かれ は 恋人:こいびと を 束縛:そくばく します 。|Anh ta trói buộc người yêu.
+拘束:こうそく|câu thúc, giam giữ|警察:けいさつ が 男:おとこ を 拘束:こうそく しました 。|Cảnh sát đã giam giữ gã đàn ông.
+監禁:かんきん|giam cầm|犯人:はんにん は 女性:じょせい を 部屋:へや に 監禁:かんきん しました 。|Thủ phạm đã giam cầm người phụ nữ trong phòng.
+釈放:しゃくほう|phóng thích|彼:かれ は 昨日:きのう 、 釈放:しゃくほう されました 。|Hôm qua anh ta đã được phóng thích.
+解放:かいほう|giải phóng|人質:ひとじち が 解放:かいほう されました 。|Con tin đã được giải phóng.
+脱出:だっしゅつ|thoát ra|火事:かじ の 建物:たてもの から 脱出:だっしゅつ しました 。|Tôi đã thoát ra khỏi tòa nhà bị cháy.
+逃亡:とうぼう|đào tẩu|犯人:はんにん は 外国:がいこく に 逃亡:とうぼう しました 。|Thủ phạm đã đào tẩu ra nước ngoài.
+亡命:ぼうめい|lưu vong|作家:さっか は アメリカ に 亡命:ぼうめい しました 。|Nhà văn đã sang Mỹ lưu vong.
+追放:ついほう|trục xuất, khai trừ|彼:かれ は 国:くに から 追放:ついほう されました 。|Ông ấy đã bị trục xuất khỏi đất nước.
+侵略:しんりゃく|xâm lược|その 国:くに は 隣:となり の 国:くに を 侵略:しんりゃく しました 。|Nước đó đã xâm lược nước láng giềng.
+侵入:しんにゅう|đột nhập|泥棒:どろぼう が 家:いえ に 侵入:しんにゅう しました 。|Kẻ trộm đã đột nhập vào nhà.
+侵害:しんがい|xâm phạm (quyền)|それ は 権利:けんり の 侵害:しんがい です 。|Đó là sự xâm phạm quyền lợi.
+占領:せんりょう|chiếm đóng|軍:ぐん が 町:まち を 占領:せんりょう しました 。|Quân đội đã chiếm đóng thị trấn.
+征服:せいふく|chinh phục|彼:かれ は 高い:たかい 山:やま を 征服:せいふく しました 。|Anh ấy đã chinh phục ngọn núi cao.
+支配:しはい|thống trị, chi phối|王:おう が 国:くに を 支配:しはい しました 。|Nhà vua đã thống trị đất nước.
+統治:とうち|trị vì|その 王:おう は 五十年:ごじゅうねん 、 国:くに を 統治:とうち しました 。|Vị vua đó đã trị vì đất nước năm mươi năm.
+統一:とういつ|thống nhất|国:くに を 一つ:ひとつ に 統一:とういつ しました 。|Thống nhất đất nước làm một.
+依存:いぞん|lệ thuộc|日本:にほん は 輸入:ゆにゅう に 依存:いぞん して います 。|Nhật Bản lệ thuộc vào nhập khẩu.
+従属:じゅうぞく|phụ thuộc (dưới quyền)|小さい:ちいさい 国:くに が 大きい:おおきい 国:くに に 従属:じゅうぞく します 。|Nước nhỏ phụ thuộc dưới quyền nước lớn.
+服従:ふくじゅう|phục tùng|兵士:へいし は 命令:めいれい に 服従:ふくじゅう します 。|Binh sĩ phục tùng mệnh lệnh.
+屈服:くっぷく|khuất phục|彼:かれ は 権力:けんりょく に 屈服:くっぷく しません でした 。|Ông ấy đã không khuất phục quyền lực.
+降伏:こうふく|đầu hàng|敵:てき は ついに 降伏:こうふく しました 。|Kẻ địch cuối cùng đã đầu hàng.
+抵抗:ていこう|kháng cự|住民:じゅうみん は 最後:さいご まで 抵抗:ていこう しました 。|Cư dân đã kháng cự đến cùng.
+反乱:はんらん|nổi loạn|兵士:へいし が 反乱:はんらん を 起こしました:おこしました 。|Binh lính đã nổi loạn.
+革命:かくめい|cách mạng|その 国:くに で 革命:かくめい が 起きました:おきました 。|Cách mạng đã nổ ra ở nước đó.
+暴動:ぼうどう|bạo động|町:まち で 暴動:ぼうどう が 起きました:おきました 。|Bạo động đã nổ ra trong thị trấn.
+陰謀:いんぼう|âm mưu|王:おう を 倒す:たおす 陰謀:いんぼう が 見つかりました:みつかりました 。|Âm mưu lật đổ nhà vua đã bị phát hiện.
+策略:さくりゃく|mưu lược, mưu mẹo|敵:てき の 策略:さくりゃく に かかりました 。|Chúng tôi đã mắc mưu mẹo của địch.
+戦術:せんじゅつ|chiến thuật|監督:かんとく が 新しい:あたらしい 戦術:せんじゅつ を 考えました:かんがえました 。|Huấn luyện viên đã nghĩ ra chiến thuật mới.

@@ -1,0 +1,106 @@
+=6
+@Khoa học tiên tiến|Công nghệ mũi nhọn
+유전자편집|chỉnh sửa gen|유전자편집 기술이 발전했습니다.|Công nghệ chỉnh sửa gen đã phát triển.
+줄기세포|tế bào gốc|줄기세포 연구가 활발합니다.|Nghiên cứu tế bào gốc sôi động.
+양자역학|cơ học lượng tử|양자역학은 이해하기 어렵습니다.|Cơ học lượng tử khó hiểu.
+상대성이론|thuyết tương đối|상대성이론을 설명합니다.|Giải thích thuyết tương đối.
+암흑물질|vật chất tối|암흑물질의 정체를 연구합니다.|Nghiên cứu bản chất của vật chất tối.
+블랙홀|lỗ đen|블랙홀을 촬영했습니다.|Đã chụp ảnh lỗ đen.
+핵융합|tổng hợp hạt nhân|핵융합 발전을 연구합니다.|Nghiên cứu phát điện bằng tổng hợp hạt nhân.
+초전도체|chất siêu dẫn|초전도체를 개발하고 있습니다.|Đang phát triển chất siêu dẫn.
+집적회로|mạch tích hợp|집적회로를 설계합니다.|Thiết kế mạch tích hợp.
+기계학습|học máy|기계학습으로 자료를 분석합니다.|Phân tích dữ liệu bằng học máy.
+신경망|mạng nơ-ron|인공 신경망을 훈련합니다.|Huấn luyện mạng nơ-ron nhân tạo.
+사물인터넷|internet vạn vật|사물인터넷 기기가 늘었습니다.|Thiết bị internet vạn vật đã tăng.
+증강현실|thực tế tăng cường|증강현실 게임이 인기입니다.|Trò chơi thực tế tăng cường được ưa chuộng.
+생체인식|nhận dạng sinh trắc|생체인식으로 문을 엽니다.|Mở cửa bằng nhận dạng sinh trắc.
+복제|sự nhân bản|동물 복제에 성공했습니다.|Đã nhân bản động vật thành công.
+돌연변이|đột biến|바이러스에 돌연변이가 생겼습니다.|Vi rút đã có đột biến.
+게놈|bộ gen|인간 게놈을 해독했습니다.|Đã giải mã bộ gen người.
+백신접종|tiêm vắc xin|백신접종을 마쳤습니다.|Đã tiêm vắc xin xong.
+집단면역|miễn dịch cộng đồng|집단면역이 형성되었습니다.|Miễn dịch cộng đồng đã hình thành.
+내성|tính kháng thuốc|항생제에 내성이 생겼습니다.|Đã sinh kháng thuốc kháng sinh.
+신약|thuốc mới|신약 개발에 투자합니다.|Đầu tư phát triển thuốc mới.
+@Pháp lý chuyên sâu|Tòa án và hiến pháp
+헌법소원|khiếu kiện hiến pháp|헌법소원을 청구했습니다.|Đã đệ đơn khiếu kiện hiến pháp.
+헌법재판소|tòa án hiến pháp|헌법재판소가 결정을 내렸습니다.|Tòa án hiến pháp đã ra quyết định.
+대법원|tòa án tối cao|대법원이 원심을 확정했습니다.|Tòa án tối cao đã y án sơ thẩm.
+배심원|bồi thẩm viên|배심원이 평결을 내립니다.|Bồi thẩm viên đưa ra phán quyết.
+공소시효|thời hiệu truy tố|공소시효가 지났습니다.|Thời hiệu truy tố đã hết.
+무죄추정|suy đoán vô tội|무죄추정의 원칙을 지킵니다.|Giữ nguyên tắc suy đoán vô tội.
+정당방위|phòng vệ chính đáng|정당방위가 인정되었습니다.|Phòng vệ chính đáng đã được công nhận.
+과실|lỗi vô ý; trái cây|운전자의 과실로 사고가 났습니다.|Tai nạn xảy ra do lỗi vô ý của tài xế.
+고의|sự cố ý|고의가 없었다고 주장합니다.|Chủ trương rằng không có sự cố ý.
+위증|khai man|법정에서 위증을 했습니다.|Đã khai man trước tòa.
+가처분|biện pháp tạm thời|법원에 가처분을 신청했습니다.|Đã xin tòa biện pháp tạm thời.
+판례|án lệ|기존 판례를 참고합니다.|Tham khảo án lệ đã có.
+기각|sự bác đơn|법원이 청구를 기각했습니다.|Tòa đã bác yêu cầu.
+승소|sự thắng kiện|재판에서 승소를 했습니다.|Đã thắng kiện ở phiên tòa.
+패소|sự thua kiện|일심에서 패소를 했습니다.|Đã thua kiện ở sơ thẩm.
+변론|sự biện hộ|변호사가 변론을 합니다.|Luật sư biện hộ.
+구형|đề nghị mức án|검사가 징역 오 년을 구형했습니다.|Công tố viên đề nghị năm năm tù.
+가석방|tạm tha trước hạn|모범수가 가석방되었습니다.|Phạm nhân gương mẫu đã được tạm tha.
+@Văn học cổ điển|Thể loại truyền thống
+향가|hyangga (thơ Silla)|향가는 신라 시대의 노래입니다.|Hyangga là bài ca thời Silla.
+시조|sijo (thơ ba dòng)|시조를 한 수 읊습니다.|Ngâm một bài sijo.
+가사문학|văn học gasa|조선 시대 가사문학을 배웁니다.|Học văn học gasa thời Joseon.
+한시|thơ chữ Hán|선비가 한시를 지었습니다.|Nho sĩ đã làm thơ chữ Hán.
+설화|truyện kể dân gian|마을에 전해지는 설화를 수집합니다.|Sưu tầm truyện kể dân gian lưu truyền trong làng.
+민담|truyện cổ dân gian|할머니가 민담을 들려주십니다.|Bà kể truyện cổ dân gian.
+야담|dã đàm, chuyện ngoài sử|조선 후기 야담이 유행했습니다.|Dã đàm thịnh hành cuối thời Joseon.
+군담소설|tiểu thuyết quân đàm|군담소설의 주인공은 영웅입니다.|Nhân vật chính tiểu thuyết quân đàm là anh hùng.
+필사본|bản chép tay|귀한 필사본이 발견되었습니다.|Một bản chép tay quý đã được phát hiện.
+언문|chữ Hàn (cách gọi xưa)|옛날에는 한글을 언문이라고 했습니다.|Ngày xưa gọi chữ Hàn là eonmun.
+훈민정음|Huấn dân chính âm|세종대왕이 훈민정음을 만들었습니다.|Vua Sejong đã tạo ra Huấn dân chính âm.
+선비|nho sĩ|선비 정신을 본받습니다.|Noi theo tinh thần nho sĩ.
+풍류|phong lưu|선조들은 풍류를 즐겼습니다.|Tổ tiên đã thưởng thức phong lưu.
+해학|sự hài hước dí dỏm|판소리에는 해학이 넘칩니다.|Pansori tràn đầy hài hước dí dỏm.
+한|nỗi hận sầu (han)|한국 문학에는 한의 정서가 있습니다.|Văn học Hàn Quốc có tình cảm han.
+@Tính từ và động từ thuần Hàn 2|Sắc thái tinh tế
+가파르다|dốc đứng|산길이 가파릅니다.|Đường núi dốc đứng.
+나지막하다|thấp thấp|나지막한 언덕이 있습니다.|Có ngọn đồi thấp thấp.
+널찍하다|rộng rãi thênh thang|마당이 널찍합니다.|Sân rộng thênh thang.
+비좁다|chật chội|방이 비좁습니다.|Phòng chật chội.
+빽빽하다|dày đặc san sát|나무가 빽빽합니다.|Cây cối dày đặc.
+듬성듬성|lưa thưa|머리카락이 듬성듬성 났습니다.|Tóc mọc lưa thưa.
+수북하다|đầy ụ|접시에 음식이 수북합니다.|Đĩa đầy ụ thức ăn.
+자욱하다|mù mịt (sương, khói)|안개가 자욱합니다.|Sương mù mịt.
+눅눅하다|ẩm ỉu|과자가 눅눅합니다.|Bánh bị ỉu.
+칙칙하다|xỉn màu u tối|옷 색깔이 칙칙합니다.|Màu áo xỉn tối.
+후미지다|hẻo lánh khuất nẻo|후미진 골목은 위험합니다.|Con hẻm khuất nẻo nguy hiểm.
+외지다|heo hút xa xôi|외진 마을에 삽니다.|Sống ở ngôi làng heo hút.
+매끄럽다|trơn láng mượt|피부가 매끄럽습니다.|Da trơn láng.
+끈적하다|dính nhớp|땀 때문에 몸이 끈적합니다.|Người dính nhớp vì mồ hôi.
+뻣뻣하다|cứng đờ|목이 뻣뻣합니다.|Cổ cứng đờ.
+나른하다|uể oải rã rời|봄에는 몸이 나른합니다.|Mùa xuân người uể oải.
+얼얼하다|tê rát (cay, lạnh)|매워서 입이 얼얼합니다.|Cay nên miệng tê rát.
+메스껍다|buồn nôn|속이 메스껍습니다.|Bụng buồn nôn.
+아찔하다|choáng váng chóng mặt|높은 곳에서 보니 아찔합니다.|Nhìn từ trên cao thấy choáng váng.
+움켜쥐다|nắm chặt lấy|손을 꽉 움켜쥐었습니다.|Đã nắm chặt bàn tay.
+쓰다듬다|vuốt ve|아이의 머리를 쓰다듬습니다.|Vuốt ve đầu đứa bé.
+어루만지다|xoa dịu vỗ về|상처를 어루만집니다.|Xoa dịu vết thương.
+토닥이다|vỗ nhè nhẹ|아기의 등을 토닥입니다.|Vỗ nhè nhẹ lưng em bé.
+부둥켜안다|ôm chầm lấy|두 사람이 부둥켜안았습니다.|Hai người ôm chầm lấy nhau.
+웅크리다|co ro thu mình|추워서 몸을 웅크립니다.|Lạnh nên co ro thu mình.
+기웃거리다|ngó nghiêng|가게 안을 기웃거립니다.|Ngó nghiêng vào trong cửa hàng.
+서성이다|đi đi lại lại quanh quẩn|문 앞에서 서성입니다.|Đi đi lại lại trước cửa.
+어슬렁거리다|đi lững thững|공원을 어슬렁거립니다.|Đi lững thững trong công viên.
+허우적거리다|vùng vẫy chới với|물에 빠져 허우적거립니다.|Rơi xuống nước vùng vẫy chới với.
+비틀거리다|loạng choạng|술에 취해 비틀거립니다.|Say rượu đi loạng choạng.
+머뭇거리다|chần chừ do dự|대답을 못 하고 머뭇거립니다.|Không trả lời được mà chần chừ.
+두리번거리다|nhìn dáo dác|길을 잃어 두리번거립니다.|Lạc đường nên nhìn dáo dác.
+빈둥거리다|ăn không ngồi rồi|하루 종일 빈둥거립니다.|Cả ngày ăn không ngồi rồi.
+투덜거리다|càu nhàu|일이 많다고 투덜거립니다.|Càu nhàu vì nhiều việc.
+흥얼거리다|ngân nga khe khẽ|노래를 흥얼거립니다.|Ngân nga bài hát.
+속닥거리다|rì rầm to nhỏ|뒤에서 속닥거립니다.|Rì rầm to nhỏ phía sau.
+칭얼거리다|mè nheo quấy khóc|아기가 졸려서 칭얼거립니다.|Em bé buồn ngủ nên mè nheo.
+으스대다|vênh váo khoe khoang|일 등을 했다고 으스댑니다.|Vênh váo vì đứng nhất.
+뽐내다|khoe tài|노래 실력을 뽐냅니다.|Khoe tài hát.
+비아냥거리다|mỉa mai châm chọc|남의 실수를 비아냥거립니다.|Mỉa mai lỗi của người khác.
+빈정거리다|nói kháy|그는 늘 빈정거립니다.|Hắn lúc nào cũng nói kháy.
+핀잔하다|quở trách làm bẽ mặt|늦었다고 핀잔했습니다.|Đã quở trách vì đến muộn.
+다그치다|dồn ép thúc bách|대답하라고 다그칩니다.|Dồn ép bắt trả lời.
+윽박지르다|quát nạt dọa dẫm|아이를 윽박지르지 마세요.|Đừng quát nạt đứa bé.
+구슬리다|dỗ ngon dỗ ngọt|동생을 구슬려 심부름을 시킵니다.|Dỗ ngọt em để sai vặt.
+부추기다|xúi giục|싸움을 부추깁니다.|Xúi giục đánh nhau.
+꼬드기다|rủ rê dụ dỗ|친구를 꼬드겨 놀러 갑니다.|Rủ rê bạn đi chơi.

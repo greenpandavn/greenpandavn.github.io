@@ -1,0 +1,43 @@
+=1
+@Tổng hợp N5 2|Từ bổ sung
+はっきり|rành mạch|もっと はっきり 話して:はなして ください 。|Hãy nói rành mạch hơn.
+きっと|chắc là, hẳn là|明日:あした は きっと 晴れます:はれます 。|Ngày mai hẳn là trời nắng.
+遅れる:おくれる|chậm, trễ|バス が 遅れて:おくれて います 。|Xe buýt đang bị trễ.
+喜ぶ:よろこぶ|mừng rỡ|母:はは は プレゼント を 喜びました:よろこびました 。|Mẹ đã mừng rỡ vì món quà.
+牛乳瓶:ぎゅうにゅうびん|chai sữa|牛乳瓶:ぎゅうにゅうびん を 洗います:あらいます 。|Tôi rửa chai sữa.
+瓶:びん|cái chai|瓶:びん に 水:みず を 入れます:いれます 。|Tôi đổ nước vào chai.
+缶:かん|lon, hộp kim loại|ジュース の 缶:かん を 捨てます:すてます 。|Tôi vứt lon nước hoa quả.
+糸:いと|sợi chỉ|赤い:あかい 糸:いと で ボタン を つけます 。|Tôi đính cúc bằng chỉ đỏ.
+針:はり|cái kim|針:はり と 糸:いと を 貸して:かして ください 。|Cho tôi mượn kim và chỉ.
+紐:ひも|sợi dây|箱:はこ を 紐:ひも で 結びます:むすびます 。|Tôi buộc hộp bằng dây.
+地下:ちか|tầng hầm, dưới đất|食品:しょくひん 売り場:うりば は 地下:ちか です 。|Quầy thực phẩm ở tầng hầm.
+屋上:おくじょう|sân thượng|屋上:おくじょう から 町:まち が 見えます:みえます 。|Từ sân thượng nhìn thấy thị trấn.
+隅:すみ|góc (bên trong)|部屋:へや の 隅:すみ に 箱:はこ が あります 。|Ở góc phòng có cái hộp.
+真ん中:まんなか|chính giữa|部屋:へや の 真ん中:まんなか に テーブル が あります 。|Chính giữa phòng có cái bàn.
+周り:まわり|xung quanh|家:いえ の 周り:まわり に 木:き が あります 。|Xung quanh nhà có cây.
+表:おもて|mặt trước|紙:かみ の 表:おもて に 名前:なまえ を 書きます:かきます 。|Tôi viết tên ở mặt trước tờ giấy.
+裏:うら|mặt sau|家:いえ の 裏:うら に 川:かわ が あります 。|Mặt sau nhà có con sông.
+見える:みえる|nhìn thấy được|窓:まど から 山:やま が 見えます:みえます 。|Từ cửa sổ nhìn thấy núi.
+聞こえる:きこえる|nghe thấy được|鳥:とり の 声:こえ が 聞こえます:きこえます 。|Tôi nghe thấy tiếng chim.
+足りる:たりる|đủ|お金:おかね が 足りません:たりません 。|Tôi không đủ tiền.
+通り:とおり|con phố|この 通り:とおり は 店:みせ が 多い:おおい です 。|Con phố này nhiều cửa hàng.
+坂:さか|con dốc|学校:がっこう は 坂:さか の 上:うえ に あります 。|Trường ở trên con dốc.
+港:みなと|bến cảng|港:みなと に 大きい:おおきい 船:ふね が あります 。|Ở bến cảng có con tàu lớn.
+橋の下:はしのした|dưới gầm cầu|橋の下:はしのした で 子供:こども が 遊んで:あそんで います 。|Trẻ con đang chơi dưới gầm cầu.
+海岸:かいがん|bờ biển|朝:あさ 、 海岸:かいがん を 歩きます:あるきます 。|Buổi sáng tôi đi bộ dọc bờ biển.
+昼寝:ひるね|ngủ trưa|日曜日:にちようび は 昼寝:ひるね を します 。|Chủ nhật tôi ngủ trưa.
+朝寝坊:あさねぼう|ngủ dậy muộn|今朝:けさ 、 朝寝坊:あさねぼう しました 。|Sáng nay tôi ngủ dậy muộn.
+早起き:はやおき|dậy sớm|祖母:そぼ は 早起き:はやおき です 。|Bà tôi hay dậy sớm.
+歯ブラシ:はブラシ|bàn chải đánh răng|新しい:あたらしい 歯ブラシ:はブラシ を 買います:かいます 。|Tôi mua bàn chải đánh răng mới.
+歯磨き:はみがき|việc đánh răng|ご飯:ごはん の 後:あと で 歯磨き:はみがき を します 。|Sau bữa ăn tôi đánh răng.
+着替える:きがえる|thay quần áo|家:いえ に 帰って:かえって 着替えます:きがえます 。|Về nhà tôi thay quần áo.
+乾く:かわく|khô|洗濯物:せんたくもの が 乾きました:かわきました 。|Đồ giặt đã khô.
+洗濯物:せんたくもの|đồ giặt|洗濯物:せんたくもの を 外:そと に 出します:だします 。|Tôi phơi đồ giặt ra ngoài.
+濡れる:ぬれる|bị ướt|雨:あめ で 服:ふく が 濡れました:ぬれました 。|Quần áo bị ướt vì mưa.
+汚れる:よごれる|bị bẩn|靴:くつ が 汚れました:よごれました 。|Giày bị bẩn rồi.
+割れる:われる|bị vỡ|コップ が 割れました:われました 。|Cái cốc bị vỡ rồi.
+倒れる:たおれる|đổ, ngã|風:かぜ で 木:き が 倒れました:たおれました 。|Cây đổ vì gió.
+動く:うごく|chuyển động|この 時計:とけい は 動きません:うごきません 。|Đồng hồ này không chạy.
+回る:まわる|quay, xoay|地球:ちきゅう は 回って:まわって います 。|Trái đất đang quay.
+揺れる:ゆれる|rung lắc|地震:じしん で 家:いえ が 揺れました:ゆれました 。|Nhà rung lắc vì động đất.
+光る:ひかる|phát sáng|夜:よる の 空:そら に 星:ほし が 光って:ひかって います 。|Trên trời đêm sao đang sáng.

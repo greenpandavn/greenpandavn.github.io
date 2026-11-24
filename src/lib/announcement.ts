@@ -13,11 +13,9 @@ export const DEFAULT_ANNOUNCEMENT: Announcement = {
   version: APP_VERSION,
   title: `GreenPanda v${APP_VERSION} có gì mới?`,
   body: [
-    '- Tiếng Hàn mở rộng lên TOPIK 1–6: 90 bài / 1.080 từ, thêm thi thử TOPIK 3–6.',
-    '- Tiếng Nhật mở rộng lên JLPT N5–N1: 75 bài / 900 từ, thêm thi thử JLPT N3–N1.',
-    '- Tiếng Anh đủ 10.000 từ / 792 bài (bản 5.4.1 thêm 162 từ; tổng cộng 4.997 từ mới so với bản 5.3).',
-    '- Tài khoản VIP: tiếng Hàn, tiếng Nhật, tiếng Anh từ Nâng cao và tiếng Trung từ HSK 6 dành cho tài khoản VIP. Liên hệ admin để kích hoạt.',
-    '- Thẻ khóa học hiện tổng số từ thật của từng khóa.',
+    '- Tiếng Hàn đủ 5.000 từ / 414 bài: TOPIK 1–6, mỗi cấp khoảng 833 từ.',
+    '- Tiếng Nhật đủ 5.000 từ / 415 bài: JLPT N5–N1, mỗi cấp 1.000 từ.',
+    '- Mỗi từ có phiên âm, nghĩa tiếng Việt và câu ví dụ. Hai khóa vẫn dành cho tài khoản VIP.',
   ].join('\n'),
   updatedAt: 0,
 };

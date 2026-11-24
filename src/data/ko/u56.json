@@ -1,0 +1,133 @@
+{
+ "units": [
+  {"unit":56,"level":5,"title":"Phần 6: Phương pháp nghiên cứu và hơn thế","desc":"Phương pháp nghiên cứu, Quản trị doanh nghiệp, Lịch sử và khảo cổ, Giáo dục học và tâm lý học, Công nghệ và kỹ thuật","color":"sky","course":"ko"}
+ ],
+ "lessons": [
+  {"id":"ko5x19","title":"Phương pháp nghiên cứu 2","desc":"Thống kê và học thuật","icon":"도","unit":56,"course":"ko","order":3100,"words":[
+   {"id":"ko5x19-도표","hanzi":"도표","pinyin":"dopyo","vi":"biểu đồ, bảng biểu","ex":{"tokens":["도표로","결과를","나타냅니다","."],"py":["dopyoro","gyeolgwareul","natanaemnida","."],"vi":"Biểu thị kết quả bằng bảng biểu.","alts":[]}},
+   {"id":"ko5x19-추세","hanzi":"추세","pinyin":"chuse","vi":"xu thế","ex":{"tokens":["증가","추세가","이어집니다","."],"py":["jeungga","chusega","ieojimnida","."],"vi":"Xu thế tăng tiếp diễn.","alts":[]}},
+   {"id":"ko5x19-경향","hanzi":"경향","pinyin":"gyeonghyang","vi":"khuynh hướng","ex":{"tokens":["젊은","층에서","그런","경향이","있습니다","."],"py":["jeolmeun","cheungeseo","geureon","gyeonghyangi","itseumnida","."],"vi":"Giới trẻ có khuynh hướng như vậy.","alts":[]}},
+   {"id":"ko5x19-실태","hanzi":"실태","pinyin":"siltae","vi":"thực trạng","ex":{"tokens":["청소년","흡연","실태를","조사합니다","."],"py":["cheongsonyeon","heubyeon","siltaereul","josahamnida","."],"vi":"Khảo sát thực trạng hút thuốc của thanh thiếu niên.","alts":[]}},
+   {"id":"ko5x19-사례","hanzi":"사례","pinyin":"sarye","vi":"trường hợp điển hình","ex":{"tokens":["성공","사례를","소개합니다","."],"py":["seonggong","saryereul","sogaehamnida","."],"vi":"Giới thiệu trường hợp thành công.","alts":[]}},
+   {"id":"ko5x19-요인","hanzi":"요인","pinyin":"yoin","vi":"yếu tố, nhân tố","ex":{"tokens":["성공의","요인을","분석합니다","."],"py":["seonggongui","yoineul","bunseokamnida","."],"vi":"Phân tích nhân tố thành công.","alts":[]}},
+   {"id":"ko5x19-범위","hanzi":"범위","pinyin":"beomwi","vi":"phạm vi","ex":{"tokens":["시험","범위가","넓습니다","."],"py":["siheom","beomwiga","neolseumnida","."],"vi":"Phạm vi thi rộng.","alts":[]}},
+   {"id":"ko5x19-대상","hanzi":"대상","pinyin":"daesang","vi":"đối tượng","ex":{"tokens":["연구","대상을","선정합니다","."],"py":["yeongu","daesangeul","seonjeonghamnida","."],"vi":"Chọn đối tượng nghiên cứu.","alts":[]}},
+   {"id":"ko5x19-항목","hanzi":"항목","pinyin":"hangmok","vi":"hạng mục","ex":{"tokens":["조사","항목을","정합니다","."],"py":["josa","hangmogeul","jeonghamnida","."],"vi":"Xác định hạng mục khảo sát.","alts":[]}},
+   {"id":"ko5x19-척도","hanzi":"척도","pinyin":"cheokdo","vi":"thang đo","ex":{"tokens":["행복의","척도는","사람마다","다릅니다","."],"py":["haengbogui","cheokdoneun","sarammada","dareumnida","."],"vi":"Thang đo hạnh phúc mỗi người một khác.","alts":[]}},
+   {"id":"ko5x19-타당성","hanzi":"타당성","pinyin":"tadangseong","vi":"tính xác đáng","ex":{"tokens":["계획의","타당성을","검토합니다","."],"py":["gyehoegui","tadangseongeul","geomtohamnida","."],"vi":"Xem xét tính xác đáng của kế hoạch.","alts":[]}},
+   {"id":"ko5x19-신뢰도","hanzi":"신뢰도","pinyin":"silloedo","vi":"độ tin cậy","ex":{"tokens":["조사의","신뢰도가","높습니다","."],"py":["josaui","silloedoga","nopseumnida","."],"vi":"Độ tin cậy của khảo sát cao.","alts":[]}}
+  ]},
+  {"id":"ko5x20","title":"Quản trị doanh nghiệp","desc":"Điều hành và chiến lược","icon":"경","unit":56,"course":"ko","order":3110,"words":[
+   {"id":"ko5x20-경영진","hanzi":"경영진","pinyin":"gyeongyeongjin","vi":"ban điều hành","ex":{"tokens":["경영진이","교체되었습니다","."],"py":["gyeongyeongjini","gyochedoeeotseumnida","."],"vi":"Ban điều hành đã được thay.","alts":[]}},
+   {"id":"ko5x20-이사회","hanzi":"이사회","pinyin":"isahoe","vi":"hội đồng quản trị","ex":{"tokens":["이사회에서","안건을","통과시켰습니다","."],"py":["isahoeeseo","angeoneul","tonggwasikyeotseumnida","."],"vi":"Hội đồng quản trị đã thông qua đề án.","alts":[]}},
+   {"id":"ko5x20-안건","hanzi":"안건","pinyin":"angeon","vi":"đề án, vấn đề nghị sự","ex":{"tokens":["회의","안건을","정합니다","."],"py":["hoeui","angeoneul","jeonghamnida","."],"vi":"Xác định vấn đề nghị sự của cuộc họp.","alts":[]}},
+   {"id":"ko5x20-지분","hanzi":"지분","pinyin":"jibun","vi":"cổ phần nắm giữ","ex":{"tokens":["회사","지분을","매각했습니다","."],"py":["hoesa","jibuneul","maegakaetseumnida","."],"vi":"Đã bán cổ phần công ty.","alts":[]}},
+   {"id":"ko5x20-인수","hanzi":"인수","pinyin":"insu","vi":"việc mua lại","ex":{"tokens":["경쟁","회사를","인수했습니다","."],"py":["gyeongjaeng","hoesareul","insuhaetseumnida","."],"vi":"Đã mua lại công ty đối thủ.","alts":[]}},
+   {"id":"ko5x20-매각","hanzi":"매각","pinyin":"maegak","vi":"việc bán lại","ex":{"tokens":["공장을","매각하기로","했습니다","."],"py":["gongjangeul","maegakagiro","haetseumnida","."],"vi":"Đã quyết định bán lại nhà máy.","alts":[]}},
+   {"id":"ko5x20-구조개선","hanzi":"구조개선","pinyin":"gujogaeseon","vi":"cải thiện cơ cấu","ex":{"tokens":["재무","구조개선에","나섰습니다","."],"py":["jaemu","gujogaeseone","naseotseumnida","."],"vi":"Đã bắt tay vào cải thiện cơ cấu tài chính.","alts":[]}},
+   {"id":"ko5x20-재무","hanzi":"재무","pinyin":"jaemu","vi":"tài vụ","ex":{"tokens":["재무","상태가","건전합니다","."],"py":["jaemu","sangtaega","geonjeonhamnida","."],"vi":"Tình trạng tài vụ lành mạnh.","alts":[]}},
+   {"id":"ko5x20-회계","hanzi":"회계","pinyin":"hoegye","vi":"kế toán","ex":{"tokens":["회계","장부를","확인합니다","."],"py":["hoegye","jangbureul","hwaginhamnida","."],"vi":"Kiểm tra sổ sách kế toán.","alts":[]}},
+   {"id":"ko5x20-결산","hanzi":"결산","pinyin":"gyeolsan","vi":"quyết toán","ex":{"tokens":["연말","결산을","합니다","."],"py":["yeonmal","gyeolsaneul","hamnida","."],"vi":"Làm quyết toán cuối năm.","alts":[]}},
+   {"id":"ko5x20-원가절감","hanzi":"원가절감","pinyin":"wongajeolgam","vi":"cắt giảm giá thành","ex":{"tokens":["원가절감을","위해","노력합니다","."],"py":["wongajeolgameul","wihae","noryeokamnida","."],"vi":"Nỗ lực cắt giảm giá thành.","alts":[]}},
+   {"id":"ko5x20-생산성","hanzi":"생산성","pinyin":"saengsanseong","vi":"năng suất","ex":{"tokens":["노동","생산성이","향상되었습니다","."],"py":["nodong","saengsanseongi","hyangsangdoeeotseumnida","."],"vi":"Năng suất lao động đã được nâng cao.","alts":[]}}
+  ]},
+  {"id":"ko5x21","title":"Lịch sử và khảo cổ 1","desc":"Thuật ngữ sử học","icon":"선","unit":56,"course":"ko","order":3120,"words":[
+   {"id":"ko5x21-선사시대","hanzi":"선사시대","pinyin":"seonsasidae","vi":"thời tiền sử","ex":{"tokens":["선사시대의","유물을","전시합니다","."],"py":["seonsasidaeui","yumureul","jeonsihamnida","."],"vi":"Trưng bày di vật thời tiền sử.","alts":[]}},
+   {"id":"ko5x21-구석기","hanzi":"구석기","pinyin":"guseokgi","vi":"đồ đá cũ","ex":{"tokens":["구석기","시대의","도구를","발견했습니다","."],"py":["guseokgi","sidaeui","dogureul","balgyeonhaetseumnida","."],"vi":"Đã phát hiện công cụ thời đồ đá cũ.","alts":[]}},
+   {"id":"ko5x21-청동기","hanzi":"청동기","pinyin":"cheongdonggi","vi":"đồ đồng","ex":{"tokens":["청동기","문화가","발달했습니다","."],"py":["cheongdonggi","munhwaga","baldalhaetseumnida","."],"vi":"Văn hóa đồ đồng đã phát triển.","alts":[]}},
+   {"id":"ko5x21-철기","hanzi":"철기","pinyin":"cheolgi","vi":"đồ sắt","ex":{"tokens":["철기","사용으로","농업이","발전했습니다","."],"py":["cheolgi","sayongeuro","nongeobi","baljeonhaetseumnida","."],"vi":"Nông nghiệp phát triển nhờ dùng đồ sắt.","alts":[]}},
+   {"id":"ko5x21-문명","hanzi":"문명","pinyin":"munmyeong","vi":"văn minh","ex":{"tokens":["고대","문명이","강","주변에서","시작되었습니다","."],"py":["godae","munmyeongi","gang","jubyeoneseo","sijakdoeeotseumnida","."],"vi":"Văn minh cổ đại bắt đầu quanh các con sông.","alts":[]}},
+   {"id":"ko5x21-제국","hanzi":"제국","pinyin":"jeguk","vi":"đế quốc","ex":{"tokens":["로마","제국은","넓은","영토를","가졌습니다","."],"py":["roma","jegugeun","neolbeun","yeongtoreul","gajyeotseumnida","."],"vi":"Đế quốc La Mã có lãnh thổ rộng lớn.","alts":[]}},
+   {"id":"ko5x21-봉건","hanzi":"봉건","pinyin":"bonggeon","vi":"phong kiến","ex":{"tokens":["봉건","제도가","무너졌습니다","."],"py":["bonggeon","jedoga","muneojyeotseumnida","."],"vi":"Chế độ phong kiến đã sụp đổ.","alts":[]}},
+   {"id":"ko5x21-근대화","hanzi":"근대화","pinyin":"geundaehwa","vi":"sự cận đại hóa","ex":{"tokens":["근대화","과정에서","많은","변화가","있었습니다","."],"py":["geundaehwa","gwajeongeseo","maneun","byeonhwaga","isseotseumnida","."],"vi":"Trong quá trình cận đại hóa đã có nhiều thay đổi.","alts":[]}},
+   {"id":"ko5x21-산업혁명","hanzi":"산업혁명","pinyin":"saneopyeongmyeong","vi":"cách mạng công nghiệp","ex":{"tokens":["산업혁명은","영국에서","시작되었습니다","."],"py":["saneopyeongmyeongeun","yeonggugeseo","sijakdoeeotseumnida","."],"vi":"Cách mạng công nghiệp bắt đầu ở Anh.","alts":[]}},
+   {"id":"ko5x21-개항","hanzi":"개항","pinyin":"gaehang","vi":"việc mở cảng thông thương","ex":{"tokens":["개항","이후","외국","문물이","들어왔습니다","."],"py":["gaehang","ihu","oeguk","munmuri","deureowatseumnida","."],"vi":"Sau khi mở cảng, văn vật nước ngoài đã du nhập.","alts":[]}},
+   {"id":"ko5x21-식민통치","hanzi":"식민통치","pinyin":"singmintongchi","vi":"ách cai trị thực dân","ex":{"tokens":["식민통치","시기의","자료를","연구합니다","."],"py":["singmintongchi","sigiui","jaryoreul","yeonguhamnida","."],"vi":"Nghiên cứu tư liệu thời cai trị thực dân.","alts":[]}},
+   {"id":"ko5x21-독립운동","hanzi":"독립운동","pinyin":"dongnibundong","vi":"phong trào độc lập","ex":{"tokens":["독립운동에","참여했습니다","."],"py":["dongnibundonge","chamyeohaetseumnida","."],"vi":"Đã tham gia phong trào độc lập.","alts":[]}}
+  ]},
+  {"id":"ko5x22","title":"Lịch sử và khảo cổ 2","desc":"Thuật ngữ sử học","icon":"광","unit":56,"course":"ko","order":3130,"words":[
+   {"id":"ko5x22-광복","hanzi":"광복","pinyin":"gwangbok","vi":"sự giải phóng giành lại chủ quyền","ex":{"tokens":["광복을","맞이했습니다","."],"py":["gwangbogeul","majihaetseumnida","."],"vi":"Đã đón ngày giải phóng.","alts":[]}},
+   {"id":"ko5x22-휴전선","hanzi":"휴전선","pinyin":"hyujeonseon","vi":"đường giới tuyến đình chiến","ex":{"tokens":["휴전선","근처에","마을이","있습니다","."],"py":["hyujeonseon","geuncheoe","maeuri","itseumnida","."],"vi":"Gần đường giới tuyến đình chiến có ngôi làng.","alts":[]}},
+   {"id":"ko5x22-사료","hanzi":"사료","pinyin":"saryo","vi":"sử liệu","ex":{"tokens":["사료를","근거로","설명합니다","."],"py":["saryoreul","geungeoro","seolmyeonghamnida","."],"vi":"Giải thích dựa trên sử liệu.","alts":[]}},
+   {"id":"ko5x22-연대","hanzi":"연대","pinyin":"yeondae","vi":"niên đại; sự liên đới","ex":{"tokens":["유물의","연대를","측정합니다","."],"py":["yumurui","yeondaereul","cheukjeonghamnida","."],"vi":"Đo niên đại của di vật.","alts":[]}},
+   {"id":"ko5x22-발굴","hanzi":"발굴","pinyin":"balgul","vi":"việc khai quật","ex":{"tokens":["유적지","발굴이","진행","중입니다","."],"py":["yujeokji","balguri","jinhaeng","jungimnida","."],"vi":"Việc khai quật di tích đang tiến hành.","alts":[]}},
+   {"id":"ko5x22-복원","hanzi":"복원","pinyin":"bogwon","vi":"việc phục dựng","ex":{"tokens":["성곽","복원","공사를","합니다","."],"py":["seonggwak","bogwon","gongsareul","hamnida","."],"vi":"Thi công phục dựng thành quách.","alts":[]}},
+   {"id":"ko5x22-고증","hanzi":"고증","pinyin":"gojeung","vi":"sự khảo chứng","ex":{"tokens":["철저한","고증을","거쳤습니다","."],"py":["cheoljeohan","gojeungeul","geochyeotseumnida","."],"vi":"Đã qua khảo chứng kỹ lưỡng.","alts":[]}},
+   {"id":"ko5x22-연표","hanzi":"연표","pinyin":"yeonpyo","vi":"niên biểu","ex":{"tokens":["역사","연표를","만듭니다","."],"py":["yeoksa","yeonpyoreul","mandeumnida","."],"vi":"Lập niên biểu lịch sử.","alts":[]}},
+   {"id":"ko5x22-실록","hanzi":"실록","pinyin":"sillok","vi":"thực lục","ex":{"tokens":["조선왕조","실록을","번역합니다","."],"py":["joseonwangjo","sillogeul","beonyeokamnida","."],"vi":"Dịch thực lục vương triều Joseon.","alts":[]}},
+   {"id":"ko5x22-사관","hanzi":"사관","pinyin":"sagwan","vi":"sử quan; quan điểm lịch sử","ex":{"tokens":["사관이","왕의","말을","기록했습니다","."],"py":["sagwani","wangui","mareul","girokaetseumnida","."],"vi":"Sử quan đã ghi chép lời vua.","alts":[]}},
+   {"id":"ko5x22-개혁파","hanzi":"개혁파","pinyin":"gaehyeokpa","vi":"phái cải cách","ex":{"tokens":["개혁파가","권력을","잡았습니다","."],"py":["gaehyeokpaga","gwollyeogeul","jabatseumnida","."],"vi":"Phái cải cách đã nắm quyền.","alts":[]}},
+   {"id":"ko5x22-쇄국","hanzi":"쇄국","pinyin":"swaeguk","vi":"bế quan tỏa cảng","ex":{"tokens":["쇄국","정책을","폈습니다","."],"py":["swaeguk","jeongchaegeul","pyeotseumnida","."],"vi":"Đã thi hành chính sách bế quan tỏa cảng.","alts":[]}}
+  ]},
+  {"id":"ko5x23","title":"Giáo dục học và tâm lý học","desc":"Lý luận dạy học","icon":"교","unit":56,"course":"ko","order":3140,"words":[
+   {"id":"ko5x23-교육학","hanzi":"교육학","pinyin":"gyoyukak","vi":"giáo dục học","ex":{"tokens":["교육학을","전공했습니다","."],"py":["gyoyukageul","jeongonghaetseumnida","."],"vi":"Tôi đã học chuyên ngành giáo dục học.","alts":[]}},
+   {"id":"ko5x23-교수법","hanzi":"교수법","pinyin":"gyosubeop","vi":"phương pháp giảng dạy","ex":{"tokens":["새로운","교수법을","적용합니다","."],"py":["saeroun","gyosubeobeul","jeogyonghamnida","."],"vi":"Áp dụng phương pháp giảng dạy mới.","alts":[]}},
+   {"id":"ko5x23-학습자","hanzi":"학습자","pinyin":"hakseupja","vi":"người học","ex":{"tokens":["학습자","중심의","수업을","합니다","."],"py":["hakseupja","jungsimui","sueobeul","hamnida","."],"vi":"Dạy học lấy người học làm trung tâm.","alts":[]}},
+   {"id":"ko5x23-교육열","hanzi":"교육열","pinyin":"gyoyugyeol","vi":"nhiệt tình đầu tư giáo dục","ex":{"tokens":["한국은","교육열이","높습니다","."],"py":["hangugeun","gyoyugyeori","nopseumnida","."],"vi":"Hàn Quốc có nhiệt tình đầu tư giáo dục cao.","alts":[]}},
+   {"id":"ko5x23-조기교육","hanzi":"조기교육","pinyin":"jogigyoyuk","vi":"giáo dục sớm","ex":{"tokens":["조기교육의","효과를","연구합니다","."],"py":["jogigyoyugui","hyogwareul","yeonguhamnida","."],"vi":"Nghiên cứu hiệu quả của giáo dục sớm.","alts":[]}},
+   {"id":"ko5x23-영재","hanzi":"영재","pinyin":"yeongjae","vi":"trẻ năng khiếu","ex":{"tokens":["영재","교육","프로그램이","있습니다","."],"py":["yeongjae","gyoyuk","peurogeuraemi","itseumnida","."],"vi":"Có chương trình giáo dục trẻ năng khiếu.","alts":[]}},
+   {"id":"ko5x23-인성교육","hanzi":"인성교육","pinyin":"inseonggyoyuk","vi":"giáo dục nhân cách","ex":{"tokens":["인성교육을","강화합니다","."],"py":["inseonggyoyugeul","ganghwahamnida","."],"vi":"Tăng cường giáo dục nhân cách.","alts":[]}},
+   {"id":"ko5x23-자기주도","hanzi":"자기주도","pinyin":"jagijudo","vi":"sự tự định hướng","ex":{"tokens":["자기주도","학습이","중요합니다","."],"py":["jagijudo","hakseubi","jungyohamnida","."],"vi":"Việc học tự định hướng rất quan trọng.","alts":[]}},
+   {"id":"ko5x23-동기부여","hanzi":"동기부여","pinyin":"donggibuyeo","vi":"sự tạo động lực","ex":{"tokens":["학생들에게","동기부여를","합니다","."],"py":["haksaengdeurege","donggibuyeoreul","hamnida","."],"vi":"Tạo động lực cho học sinh.","alts":[]}},
+   {"id":"ko5x23-성취도","hanzi":"성취도","pinyin":"seongchwido","vi":"mức độ đạt được","ex":{"tokens":["학업","성취도를","평가합니다","."],"py":["hageop","seongchwidoreul","pyeonggahamnida","."],"vi":"Đánh giá mức độ đạt được trong học tập.","alts":[]}},
+   {"id":"ko5x23-인지","hanzi":"인지","pinyin":"inji","vi":"sự nhận thức (tâm lý)","ex":{"tokens":["인지","능력이","발달합니다","."],"py":["inji","neungnyeogi","baldalhamnida","."],"vi":"Năng lực nhận thức phát triển.","alts":[]}},
+   {"id":"ko5x23-정서","hanzi":"정서","pinyin":"jeongseo","vi":"tình cảm, cảm xúc (tâm lý)","ex":{"tokens":["아이의","정서","발달을","돕습니다","."],"py":["aiui","jeongseo","baldareul","dopseumnida","."],"vi":"Giúp trẻ phát triển cảm xúc.","alts":[]}}
+  ]},
+  {"id":"ko5x24","title":"Công nghệ và kỹ thuật","desc":"Thuật ngữ kỹ thuật","icon":"공","unit":56,"course":"ko","order":3150,"words":[
+   {"id":"ko5x24-공정","hanzi":"공정","pinyin":"gongjeong","vi":"công đoạn sản xuất","ex":{"tokens":["생산","공정을","개선합니다","."],"py":["saengsan","gongjeongeul","gaeseonhamnida","."],"vi":"Cải thiện công đoạn sản xuất.","alts":[]}},
+   {"id":"ko5x24-규격","hanzi":"규격","pinyin":"gyugyeok","vi":"quy cách","ex":{"tokens":["제품","규격을","맞춥니다","."],"py":["jepum","gyugyeogeul","matchumnida","."],"vi":"Làm đúng quy cách sản phẩm.","alts":[]}},
+   {"id":"ko5x24-성능","hanzi":"성능","pinyin":"seongneung","vi":"tính năng, hiệu năng","ex":{"tokens":["이","기계는","성능이","뛰어납니다","."],"py":["i","gigyeneun","seongneungi","ttwieonamnida","."],"vi":"Máy này có hiệu năng vượt trội.","alts":[]}},
+   {"id":"ko5x24-내구성","hanzi":"내구성","pinyin":"naeguseong","vi":"độ bền","ex":{"tokens":["내구성이","강한","재료를","씁니다","."],"py":["naeguseongi","ganghan","jaeryoreul","sseumnida","."],"vi":"Dùng vật liệu có độ bền cao.","alts":[]}},
+   {"id":"ko5x24-정밀","hanzi":"정밀","pinyin":"jeongmil","vi":"sự chính xác tinh vi","ex":{"tokens":["정밀","검사를","받았습니다","."],"py":["jeongmil","geomsareul","badatseumnida","."],"vi":"Đã được kiểm tra tinh vi.","alts":[]}},
+   {"id":"ko5x24-결함","hanzi":"결함","pinyin":"gyeolham","vi":"khuyết điểm kỹ thuật","ex":{"tokens":["제품에","결함이","발견되었습니다","."],"py":["jepume","gyeolhami","balgyeondoeeotseumnida","."],"vi":"Đã phát hiện khuyết điểm ở sản phẩm.","alts":[]}},
+   {"id":"ko5x24-회로","hanzi":"회로","pinyin":"hoero","vi":"mạch điện","ex":{"tokens":["전자","회로를","설계합니다","."],"py":["jeonja","hoeroreul","seolgyehamnida","."],"vi":"Thiết kế mạch điện tử.","alts":[]}},
+   {"id":"ko5x24-센서","hanzi":"센서","pinyin":"senseo","vi":"cảm biến","ex":{"tokens":["센서가","움직임을","감지합니다","."],"py":["senseoga","umjigimeul","gamjihamnida","."],"vi":"Cảm biến nhận biết chuyển động.","alts":[]}},
+   {"id":"ko5x24-알고리즘","hanzi":"알고리즘","pinyin":"algorijeum","vi":"thuật toán","ex":{"tokens":["새로운","알고리즘을","개발했습니다","."],"py":["saeroun","algorijeumeul","gaebalhaetseumnida","."],"vi":"Đã phát triển thuật toán mới.","alts":[]}},
+   {"id":"ko5x24-암호화","hanzi":"암호화","pinyin":"amhohwa","vi":"sự mã hóa","ex":{"tokens":["자료를","암호화합니다","."],"py":["jaryoreul","amhohwahamnida","."],"vi":"Mã hóa tài liệu.","alts":[]}},
+   {"id":"ko5x24-서버","hanzi":"서버","pinyin":"seobeo","vi":"máy chủ","ex":{"tokens":["서버가","다운되었습니다","."],"py":["seobeoga","daundoeeotseumnida","."],"vi":"Máy chủ đã sập.","alts":[]}},
+   {"id":"ko5x24-통신망","hanzi":"통신망","pinyin":"tongsinmang","vi":"mạng thông tin liên lạc","ex":{"tokens":["통신망을","구축합니다","."],"py":["tongsinmangeul","guchukamnida","."],"vi":"Xây dựng mạng thông tin liên lạc.","alts":[]}}
+  ]},
+  {"id":"ko5x25","title":"Sinh thái và nông nghiệp","desc":"Thuật ngữ môi trường","icon":"생","unit":56,"course":"ko","order":3160,"words":[
+   {"id":"ko5x25-생물다양성","hanzi":"생물다양성","pinyin":"saengmuldayangseong","vi":"đa dạng sinh học","ex":{"tokens":["생물다양성을","보전합니다","."],"py":["saengmuldayangseongeul","bojeonhamnida","."],"vi":"Bảo tồn đa dạng sinh học.","alts":[]}},
+   {"id":"ko5x25-먹이사슬","hanzi":"먹이사슬","pinyin":"meogisaseul","vi":"chuỗi thức ăn","ex":{"tokens":["먹이사슬이","파괴되었습니다","."],"py":["meogisaseuri","pagoedoeeotseumnida","."],"vi":"Chuỗi thức ăn đã bị phá vỡ.","alts":[]}},
+   {"id":"ko5x25-외래종","hanzi":"외래종","pinyin":"oeraejong","vi":"loài ngoại lai","ex":{"tokens":["외래종이","생태계를","위협합니다","."],"py":["oeraejongi","saengtaegyereul","wihyeopamnida","."],"vi":"Loài ngoại lai đe dọa hệ sinh thái.","alts":[]}},
+   {"id":"ko5x25-토종","hanzi":"토종","pinyin":"tojong","vi":"giống bản địa","ex":{"tokens":["토종","식물을","보호합니다","."],"py":["tojong","singmureul","bohohamnida","."],"vi":"Bảo vệ thực vật bản địa.","alts":[]}},
+   {"id":"ko5x25-사막화","hanzi":"사막화","pinyin":"samakwa","vi":"sa mạc hóa","ex":{"tokens":["사막화가","빠르게","진행됩니다","."],"py":["samakwaga","ppareuge","jinhaengdoemnida","."],"vi":"Sa mạc hóa diễn ra nhanh.","alts":[]}},
+   {"id":"ko5x25-토양","hanzi":"토양","pinyin":"toyang","vi":"thổ nhưỡng","ex":{"tokens":["토양이","오염되었습니다","."],"py":["toyangi","oyeomdoeeotseumnida","."],"vi":"Thổ nhưỡng đã bị ô nhiễm.","alts":[]}},
+   {"id":"ko5x25-지하수","hanzi":"지하수","pinyin":"jihasu","vi":"nước ngầm","ex":{"tokens":["지하수를","개발합니다","."],"py":["jihasureul","gaebalhamnida","."],"vi":"Khai thác nước ngầm.","alts":[]}},
+   {"id":"ko5x25-수자원","hanzi":"수자원","pinyin":"sujawon","vi":"tài nguyên nước","ex":{"tokens":["수자원을","관리합니다","."],"py":["sujawoneul","gwallihamnida","."],"vi":"Quản lý tài nguyên nước.","alts":[]}},
+   {"id":"ko5x25-벌목","hanzi":"벌목","pinyin":"beolmok","vi":"việc đốn gỗ","ex":{"tokens":["불법","벌목을","단속합니다","."],"py":["bulbeop","beolmogeul","dansokamnida","."],"vi":"Xử lý đốn gỗ trái phép.","alts":[]}},
+   {"id":"ko5x25-조림","hanzi":"조림","pinyin":"jorim","vi":"việc trồng rừng","ex":{"tokens":["조림","사업을","실시합니다","."],"py":["jorim","saeobeul","silsihamnida","."],"vi":"Thực hiện dự án trồng rừng.","alts":[]}},
+   {"id":"ko5x25-탄소중립","hanzi":"탄소중립","pinyin":"tansojungnip","vi":"trung hòa cacbon","ex":{"tokens":["탄소중립을","목표로","합니다","."],"py":["tansojungnibeul","mokpyoro","hamnida","."],"vi":"Lấy trung hòa cacbon làm mục tiêu.","alts":[]}},
+   {"id":"ko5x25-신재생에너지","hanzi":"신재생에너지","pinyin":"sinjaesaengeneoji","vi":"năng lượng tái tạo","ex":{"tokens":["신재생에너지","비중을","늘립니다","."],"py":["sinjaesaengeneoji","bijungeul","neullimnida","."],"vi":"Tăng tỷ trọng năng lượng tái tạo.","alts":[]}}
+  ]},
+  {"id":"ko5x26","title":"Mỹ học và phê bình nghệ thuật","desc":"Thuật ngữ nghệ thuật","icon":"미","unit":56,"course":"ko","order":3170,"words":[
+   {"id":"ko5x26-미학","hanzi":"미학","pinyin":"mihak","vi":"mỹ học","ex":{"tokens":["미학을","공부하고","있습니다","."],"py":["mihageul","gongbuhago","itseumnida","."],"vi":"Tôi đang học mỹ học.","alts":[]}},
+   {"id":"ko5x26-사실주의","hanzi":"사실주의","pinyin":"sasiljuui","vi":"chủ nghĩa hiện thực","ex":{"tokens":["사실주의","소설을","읽습니다","."],"py":["sasiljuui","soseoreul","ikseumnida","."],"vi":"Tôi đọc tiểu thuyết hiện thực chủ nghĩa.","alts":[]}},
+   {"id":"ko5x26-낭만주의","hanzi":"낭만주의","pinyin":"nangmanjuui","vi":"chủ nghĩa lãng mạn","ex":{"tokens":["낭만주의","음악을","좋아합니다","."],"py":["nangmanjuui","eumageul","joahamnida","."],"vi":"Tôi thích âm nhạc lãng mạn chủ nghĩa.","alts":[]}},
+   {"id":"ko5x26-인상주의","hanzi":"인상주의","pinyin":"insangjuui","vi":"trường phái ấn tượng","ex":{"tokens":["인상주의","화가의","전시를","봅니다","."],"py":["insangjuui","hwagaui","jeonsireul","bomnida","."],"vi":"Tôi xem triển lãm của họa sĩ trường phái ấn tượng.","alts":[]}},
+   {"id":"ko5x26-추상화","hanzi":"추상화","pinyin":"chusanghwa","vi":"tranh trừu tượng","ex":{"tokens":["추상화는","해석이","다양합니다","."],"py":["chusanghwaneun","haeseogi","dayanghamnida","."],"vi":"Tranh trừu tượng có nhiều cách diễn giải.","alts":[]}},
+   {"id":"ko5x26-구도","hanzi":"구도","pinyin":"gudo","vi":"bố cục","ex":{"tokens":["이","그림은","구도가","안정적입니다","."],"py":["i","geurimeun","gudoga","anjeongjeogimnida","."],"vi":"Bức tranh này có bố cục ổn định.","alts":[]}},
+   {"id":"ko5x26-색채","hanzi":"색채","pinyin":"saekchae","vi":"sắc màu","ex":{"tokens":["색채가","화려합니다","."],"py":["saekchaega","hwaryeohamnida","."],"vi":"Sắc màu rực rỡ.","alts":[]}},
+   {"id":"ko5x26-질감","hanzi":"질감","pinyin":"jilgam","vi":"chất cảm bề mặt","ex":{"tokens":["작품의","질감이","독특합니다","."],"py":["jakpumui","jilgami","dokteukamnida","."],"vi":"Chất cảm bề mặt của tác phẩm độc đáo.","alts":[]}},
+   {"id":"ko5x26-기법","hanzi":"기법","pinyin":"gibeop","vi":"kỹ pháp","ex":{"tokens":["새로운","기법을","시도했습니다","."],"py":["saeroun","gibeobeul","sidohaetseumnida","."],"vi":"Đã thử kỹ pháp mới.","alts":[]}},
+   {"id":"ko5x26-모방","hanzi":"모방","pinyin":"mobang","vi":"sự mô phỏng","ex":{"tokens":["예술은","모방에서","시작됩니다","."],"py":["yesureun","mobangeseo","sijakdoemnida","."],"vi":"Nghệ thuật bắt đầu từ mô phỏng.","alts":[]}},
+   {"id":"ko5x26-독창성","hanzi":"독창성","pinyin":"dokchangseong","vi":"tính độc sáng","ex":{"tokens":["독창성이","돋보이는","작품입니다","."],"py":["dokchangseongi","dotboineun","jakpumimnida","."],"vi":"Đó là tác phẩm nổi bật về tính độc sáng.","alts":[]}},
+   {"id":"ko5x26-예술성","hanzi":"예술성","pinyin":"yesulseong","vi":"tính nghệ thuật","ex":{"tokens":["이","영화는","예술성이","높습니다","."],"py":["i","yeonghwaneun","yesulseongi","nopseumnida","."],"vi":"Bộ phim này có tính nghệ thuật cao.","alts":[]}}
+  ]},
+  {"id":"ko5x27","title":"Tôn giáo và tín ngưỡng","desc":"Niềm tin tâm linh","icon":"불","unit":56,"course":"ko","order":3180,"words":[
+   {"id":"ko5x27-불교","hanzi":"불교","pinyin":"bulgyo","vi":"Phật giáo","ex":{"tokens":["불교는","인도에서","시작되었습니다","."],"py":["bulgyoneun","indoeseo","sijakdoeeotseumnida","."],"vi":"Phật giáo bắt nguồn từ Ấn Độ.","alts":[]}},
+   {"id":"ko5x27-기독교","hanzi":"기독교","pinyin":"gidokgyo","vi":"Cơ Đốc giáo","ex":{"tokens":["기독교","신자가","많습니다","."],"py":["gidokgyo","sinjaga","manseumnida","."],"vi":"Có nhiều tín đồ Cơ Đốc giáo.","alts":[]}},
+   {"id":"ko5x27-천주교","hanzi":"천주교","pinyin":"cheonjugyo","vi":"Thiên Chúa giáo","ex":{"tokens":["천주교","성당에","다닙니다","."],"py":["cheonjugyo","seongdange","danimnida","."],"vi":"Tôi đi nhà thờ Thiên Chúa giáo.","alts":[]}},
+   {"id":"ko5x27-이슬람교","hanzi":"이슬람교","pinyin":"iseullamgyo","vi":"Hồi giáo","ex":{"tokens":["이슬람교의","문화를","이해합니다","."],"py":["iseullamgyoui","munhwareul","ihaehamnida","."],"vi":"Hiểu văn hóa Hồi giáo.","alts":[]}},
+   {"id":"ko5x27-유교","hanzi":"유교","pinyin":"yugyo","vi":"Nho giáo","ex":{"tokens":["유교는","한국","문화에","큰","영향을","주었습니다","."],"py":["yugyoneun","hanguk","munhwae","keun","yeonghyangeul","jueotseumnida","."],"vi":"Nho giáo đã ảnh hưởng lớn đến văn hóa Hàn Quốc.","alts":[]}},
+   {"id":"ko5x27-무속","hanzi":"무속","pinyin":"musok","vi":"tín ngưỡng shaman","ex":{"tokens":["무속","신앙이","남아","있습니다","."],"py":["musok","sinangi","nama","itseumnida","."],"vi":"Tín ngưỡng shaman vẫn còn tồn tại.","alts":[]}},
+   {"id":"ko5x27-신앙","hanzi":"신앙","pinyin":"sinang","vi":"tín ngưỡng","ex":{"tokens":["신앙의","자유를","보장합니다","."],"py":["sinangui","jayureul","bojanghamnida","."],"vi":"Bảo đảm tự do tín ngưỡng.","alts":[]}},
+   {"id":"ko5x27-신자","hanzi":"신자","pinyin":"sinja","vi":"tín đồ","ex":{"tokens":["신자들이","기도를","합니다","."],"py":["sinjadeuri","gidoreul","hamnida","."],"vi":"Các tín đồ cầu nguyện.","alts":[]}},
+   {"id":"ko5x27-성직자","hanzi":"성직자","pinyin":"seongjikja","vi":"giáo sĩ","ex":{"tokens":["성직자가","예배를","이끕니다","."],"py":["seongjikjaga","yebaereul","ikkeumnida","."],"vi":"Giáo sĩ chủ trì buổi lễ.","alts":[]}},
+   {"id":"ko5x27-승려","hanzi":"승려","pinyin":"seungnyeo","vi":"tăng lữ","ex":{"tokens":["승려가","절에서","수행합니다","."],"py":["seungnyeoga","jeoreseo","suhaenghamnida","."],"vi":"Tăng lữ tu hành trong chùa.","alts":[]}},
+   {"id":"ko5x27-목사","hanzi":"목사","pinyin":"moksa","vi":"mục sư","ex":{"tokens":["목사가","설교를","합니다","."],"py":["moksaga","seolgyoreul","hamnida","."],"vi":"Mục sư thuyết giáo.","alts":[]}},
+   {"id":"ko5x27-성당","hanzi":"성당","pinyin":"seongdang","vi":"nhà thờ Công giáo","ex":{"tokens":["성당에서","결혼식을","올렸습니다","."],"py":["seongdangeseo","gyeolhonsigeul","ollyeotseumnida","."],"vi":"Đã làm lễ cưới ở nhà thờ Công giáo.","alts":[]}}
+  ]}
+ ]
+}

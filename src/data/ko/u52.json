@@ -3,7 +3,7 @@
   {"unit":52,"level":5,"title":"Phần 2: Tri thức và văn hóa","desc":"Giá trị, lịch sử, văn học, khoa học, môi trường","color":"sky","course":"ko"}
  ],
  "lessons": [
-  {"id":"ko506","title":"Giá trị và tư tưởng","desc":"Đạo đức, niềm tin, tự do","icon":"가","unit":52,"course":"ko","order":660,"words":[
+  {"id":"ko506","title":"Giá trị và tư tưởng","desc":"Đạo đức, niềm tin, tự do","icon":"가","unit":52,"course":"ko","order":2820,"words":[
    {"id":"ko506-가치","hanzi":"가치","pinyin":"gachi","vi":"giá trị","ex":{"tokens":["이","그림은","가치가","높습니다","."],"py":["i","geurimeun","gachiga","nopseumnida","."],"vi":"Bức tranh này có giá trị cao.","alts":[]}},
    {"id":"ko506-도덕","hanzi":"도덕","pinyin":"dodeok","vi":"đạo đức","ex":{"tokens":["학교에서","도덕을","배웁니다","."],"py":["hakgyoeseo","dodeogeul","baeumnida","."],"vi":"Ở trường chúng tôi học đạo đức.","alts":[]}},
    {"id":"ko506-양심","hanzi":"양심","pinyin":"yangsim","vi":"lương tâm","ex":{"tokens":["양심에","따라","행동하세요","."],"py":["yangsime","ttara","haengdonghaseyo","."],"vi":"Hãy hành động theo lương tâm.","alts":[]}},
@@ -17,7 +17,7 @@
    {"id":"ko506-희생하다","hanzi":"희생하다","pinyin":"huisaenghada","vi":"hy sinh","ex":{"tokens":["부모님은","자식을","위해","희생하셨습니다","."],"py":["bumonimeun","jasigeul","wihae","huisaenghasyeotseumnida","."],"vi":"Bố mẹ đã hy sinh vì con cái.","alts":[]}},
    {"id":"ko506-인정하다","hanzi":"인정하다","pinyin":"injeonghada","vi":"thừa nhận, công nhận","ex":{"tokens":["그는","자기","잘못을","인정했습니다","."],"py":["geuneun","jagi","jalmoseul","injeonghaetseumnida","."],"vi":"Anh ấy đã thừa nhận lỗi của mình.","alts":[]}}
   ]},
-  {"id":"ko507","title":"Lịch sử","desc":"Triều đại, di sản, sự kiện","icon":"옛","unit":52,"course":"ko","order":670,"words":[
+  {"id":"ko507","title":"Lịch sử","desc":"Triều đại, di sản, sự kiện","icon":"옛","unit":52,"course":"ko","order":2830,"words":[
    {"id":"ko507-왕","hanzi":"왕","pinyin":"wang","vi":"vua","ex":{"tokens":["세종은","조선의","왕이었습니다","."],"py":["sejongeun","joseonui","wangieotseumnida","."],"vi":"Sejong là vua của Joseon.","alts":[]}},
    {"id":"ko507-조상","hanzi":"조상","pinyin":"josang","vi":"tổ tiên","ex":{"tokens":["명절에","조상에게","인사를","드립니다","."],"py":["myeongjeore","josangege","insareul","deurimnida","."],"vi":"Vào ngày lễ chúng tôi làm lễ chào tổ tiên.","alts":[]}},
    {"id":"ko507-시대","hanzi":"시대","pinyin":"sidae","vi":"thời đại","ex":{"tokens":["우리는","정보","시대에","살고","있습니다","."],"py":["urineun","jeongbo","sidaee","salgo","itseumnida","."],"vi":"Chúng ta đang sống trong thời đại thông tin.","alts":[]}},
@@ -31,7 +31,7 @@
    {"id":"ko507-세기","hanzi":"세기","pinyin":"segi","vi":"thế kỷ","ex":{"tokens":["이","성은","15세기에","지어졌습니다","."],"py":["i","seongeun","15segie","jieojyeotseumnida","."],"vi":"Tòa thành này được xây vào thế kỷ 15.","alts":[]}},
    {"id":"ko507-인류","hanzi":"인류","pinyin":"illyu","vi":"nhân loại","ex":{"tokens":["인류의","역사는","매우","깁니다","."],"py":["illyuui","yeoksaneun","maeu","gimnida","."],"vi":"Lịch sử nhân loại rất dài.","alts":[]}}
   ]},
-  {"id":"ko508","title":"Văn học và phê bình","desc":"Thể loại, chủ đề, đánh giá","icon":"글","unit":52,"course":"ko","order":680,"words":[
+  {"id":"ko508","title":"Văn học và phê bình","desc":"Thể loại, chủ đề, đánh giá","icon":"글","unit":52,"course":"ko","order":2840,"words":[
    {"id":"ko508-문학","hanzi":"문학","pinyin":"munhak","vi":"văn học","ex":{"tokens":["저는","한국","문학을","공부합니다","."],"py":["jeoneun","hanguk","munhageul","gongbuhamnida","."],"vi":"Tôi học văn học Hàn Quốc.","alts":[]}},
    {"id":"ko508-주제","hanzi":"주제","pinyin":"juje","vi":"chủ đề","ex":{"tokens":["오늘","토론의","주제는","환경입니다","."],"py":["oneul","toronui","jujeneun","hwangyeongimnida","."],"vi":"Chủ đề thảo luận hôm nay là môi trường.","alts":[]}},
    {"id":"ko508-주인공","hanzi":"주인공","pinyin":"juingong","vi":"nhân vật chính","ex":{"tokens":["이","소설의","주인공은","학생입니다","."],"py":["i","soseorui","juingongeun","haksaengimnida","."],"vi":"Nhân vật chính của tiểu thuyết này là một học sinh.","alts":[]}},
@@ -45,7 +45,7 @@
    {"id":"ko508-독자","hanzi":"독자","pinyin":"dokja","vi":"độc giả","ex":{"tokens":["이","책은","독자가","많습니다","."],"py":["i","chaegeun","dokjaga","manseumnida","."],"vi":"Cuốn sách này có nhiều độc giả.","alts":[]}},
    {"id":"ko508-수필","hanzi":"수필","pinyin":"supil","vi":"tùy bút","ex":{"tokens":["그","교수는","수필을","자주","씁니다","."],"py":["geu","gyosuneun","supireul","jaju","sseumnida","."],"vi":"Vị giáo sư đó thường viết tùy bút.","alts":[]}}
   ]},
-  {"id":"ko509","title":"Khoa học tự nhiên","desc":"Vật chất, sinh học, lý thuyết","icon":"물","unit":52,"course":"ko","order":690,"words":[
+  {"id":"ko509","title":"Khoa học tự nhiên","desc":"Vật chất, sinh học, lý thuyết","icon":"물","unit":52,"course":"ko","order":2850,"words":[
    {"id":"ko509-물질","hanzi":"물질","pinyin":"muljil","vi":"vật chất, chất","ex":{"tokens":["이","물질은","몸에","해롭습니다","."],"py":["i","muljireun","mome","haeropseumnida","."],"vi":"Chất này có hại cho cơ thể.","alts":[]}},
    {"id":"ko509-세포","hanzi":"세포","pinyin":"sepo","vi":"tế bào","ex":{"tokens":["우리","몸은","세포로","이루어져","있습니다","."],"py":["uri","momeun","seporo","irueojyeo","itseumnida","."],"vi":"Cơ thể chúng ta được tạo thành từ tế bào.","alts":[]}},
    {"id":"ko509-유전자","hanzi":"유전자","pinyin":"yujeonja","vi":"gen","ex":{"tokens":["유전자가","병의","원인일","수","있습니다","."],"py":["yujeonjaga","byeongui","woninil","su","itseumnida","."],"vi":"Gen có thể là nguyên nhân của bệnh.","alts":[]}},
@@ -59,7 +59,7 @@
    {"id":"ko509-증명하다","hanzi":"증명하다","pinyin":"jeungmyeonghada","vi":"chứng minh","ex":{"tokens":["그는","자기","주장을","증명했습니다","."],"py":["geuneun","jagi","jujangeul","jeungmyeonghaetseumnida","."],"vi":"Anh ấy đã chứng minh luận điểm của mình.","alts":[]}},
    {"id":"ko509-원리","hanzi":"원리","pinyin":"wolli","vi":"nguyên lý","ex":{"tokens":["이","기계의","원리는","간단합니다","."],"py":["i","gigyeui","wollineun","gandanhamnida","."],"vi":"Nguyên lý của chiếc máy này đơn giản.","alts":[]}}
   ]},
-  {"id":"ko510","title":"Môi trường toàn cầu","desc":"Khí hậu, tài nguyên, phát triển bền vững","icon":"기","unit":52,"course":"ko","order":700,"words":[
+  {"id":"ko510","title":"Môi trường toàn cầu","desc":"Khí hậu, tài nguyên, phát triển bền vững","icon":"기","unit":52,"course":"ko","order":2860,"words":[
    {"id":"ko510-기후","hanzi":"기후","pinyin":"gihu","vi":"khí hậu","ex":{"tokens":["이","지역은","기후가","따뜻합니다","."],"py":["i","jiyeogeun","gihuga","ttatteutamnida","."],"vi":"Khu vực này có khí hậu ấm áp.","alts":[]}},
    {"id":"ko510-온난화","hanzi":"온난화","pinyin":"onnanhwa","vi":"sự nóng lên","ex":{"tokens":["지구","온난화가","점점","심해집니다","."],"py":["jigu","onnanhwaga","jeomjeom","simhaejimnida","."],"vi":"Sự nóng lên của Trái Đất ngày càng nghiêm trọng.","alts":[]}},
    {"id":"ko510-지구","hanzi":"지구","pinyin":"jigu","vi":"Trái Đất","ex":{"tokens":["지구는","우리","모두의","집입니다","."],"py":["jiguneun","uri","moduui","jibimnida","."],"vi":"Trái Đất là ngôi nhà của tất cả chúng ta.","alts":[]}},

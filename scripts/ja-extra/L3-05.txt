@@ -1,0 +1,85 @@
+=3
+@Buôn bán và mua sắm|Thương mại đời thường
+商売:しょうばい|buôn bán|父:ちち は 魚:さかな の 商売:しょうばい を して います 。|Bố tôi buôn bán cá.
+売り上げ:うりあげ|doanh thu|今月:こんげつ は 売り上げ:うりあげ が 伸びました:のびました 。|Tháng này doanh thu tăng.
+儲ける:もうける|kiếm lời|彼:かれ は 株:かぶ で お金:おかね を 儲けました:もうけました 。|Anh ấy kiếm lời nhờ cổ phiếu.
+儲かる:もうかる|có lãi|この 商売:しょうばい は 儲かります:もうかります 。|Việc buôn bán này có lãi.
+値上げ:ねあげ|tăng giá|来月:らいげつ 、 電気代:でんきだい が 値上げ:ねあげ されます 。|Tháng sau tiền điện tăng giá.
+値下げ:ねさげ|giảm giá bán|古い:ふるい 商品:しょうひん を 値下げ:ねさげ します 。|Cửa hàng giảm giá hàng cũ.
+定価:ていか|giá niêm yết|この 本:ほん の 定価:ていか は 千円:せんえん です 。|Giá niêm yết của quyển sách này là một nghìn yên.
+税込み:ぜいこみ|đã gồm thuế|税込み:ぜいこみ で 千百:せんひゃく 円:えん です 。|Đã gồm thuế là một nghìn một trăm yên.
+送料:そうりょう|phí gửi hàng|送料:そうりょう は 無料:むりょう です 。|Miễn phí gửi hàng.
+在庫:ざいこ|hàng tồn kho|この サイズ は 在庫:ざいこ が ありません 。|Cỡ này không còn hàng tồn kho.
+品切れ:しなぎれ|hết hàng|人気:にんき の 商品:しょうひん は 品切れ:しなぎれ です 。|Món hàng được ưa chuộng đã hết.
+保証:ほしょう|bảo hành, bảo đảm|この 時計:とけい は 一年:いちねん の 保証:ほしょう が あります 。|Đồng hồ này được bảo hành một năm.
+包装:ほうそう|gói bọc|プレゼント を 包装:ほうそう して ください 。|Xin hãy gói quà giúp.
+宅配:たくはい|giao tận nhà|ピザ の 宅配:たくはい を 頼みます:たのみます 。|Tôi gọi pizza giao tận nhà.
+通販:つうはん|mua hàng qua mạng, đặt hàng từ xa|通販:つうはん で 服:ふく を 買います:かいます 。|Tôi mua quần áo qua mạng.
+支払い:しはらい|việc thanh toán|支払い:しはらい は カード で お願い:おねがい します 。|Xin cho thanh toán bằng thẻ.
+分割:ぶんかつ|chia ra, trả góp|パソコン を 分割:ぶんかつ で 買います:かいます 。|Tôi mua máy tính trả góp.
+残高:ざんだか|số dư|口座:こうざ の 残高:ざんだか を 確かめます:たしかめます 。|Tôi kiểm tra số dư tài khoản.
+利子:りし|tiền lãi|銀行:ぎんこう の 利子:りし は 低い:ひくい です 。|Tiền lãi ngân hàng thấp.
+貯蓄:ちょちく|tích lũy tiền|将来:しょうらい の ため に 貯蓄:ちょちく します 。|Tôi tích lũy tiền cho tương lai.
+家計簿:かけいぼ|sổ chi tiêu gia đình|母:はは は 毎日:まいにち 家計簿:かけいぼ を つけます 。|Ngày nào mẹ cũng ghi sổ chi tiêu.
+小遣い:こづかい|tiền tiêu vặt|子供:こども に 小遣い:こづかい を あげます 。|Tôi cho con tiền tiêu vặt.
+給料日:きゅうりょうび|ngày lĩnh lương|明日:あした は 給料日:きゅうりょうび です 。|Ngày mai là ngày lĩnh lương.
+出費:しゅっぴ|khoản chi|今月:こんげつ は 出費:しゅっぴ が 多い:おおい です 。|Tháng này nhiều khoản chi.
+不景気:ふけいき|kinh tế ế ẩm|不景気:ふけいき で 客:きゃく が 減りました:へりました 。|Kinh tế ế ẩm nên khách giảm.
+消費:しょうひ|tiêu dùng|電気:でんき の 消費:しょうひ を 減らします:へらします 。|Tôi giảm tiêu dùng điện.
+消費税:しょうひぜい|thuế tiêu dùng|消費税:しょうひぜい が 上がりました:あがりました 。|Thuế tiêu dùng đã tăng.
+購入:こうにゅう|mua vào|新しい:あたらしい 車:くるま を 購入:こうにゅう しました 。|Tôi đã mua xe mới.
+特売:とくばい|bán giá đặc biệt|今日:きょう は 卵:たまご の 特売:とくばい です 。|Hôm nay trứng bán giá đặc biệt.
+福袋:ふくぶくろ|túi may mắn đầu năm|正月:しょうがつ に 福袋:ふくぶくろ を 買います:かいます 。|Dịp Tết tôi mua túi may mắn.
+開店:かいてん|mở cửa hàng|この 店:みせ は 十時:じゅうじ に 開店:かいてん します 。|Cửa hàng này mở cửa lúc mười giờ.
+閉店:へいてん|đóng cửa hàng|閉店:へいてん の 時間:じかん は 九時:くじ です 。|Giờ đóng cửa là chín giờ.
+営業中:えいぎょうちゅう|đang mở cửa bán|その 店:みせ は まだ 営業中:えいぎょうちゅう です 。|Cửa hàng đó vẫn đang mở cửa.
+定休日:ていきゅうび|ngày nghỉ định kỳ|月曜日:げつようび は 定休日:ていきゅうび です 。|Thứ hai là ngày nghỉ định kỳ.
+本店:ほんてん|cửa hàng chính|本店:ほんてん は 東京:とうきょう に あります 。|Cửa hàng chính ở Tokyo.
+支店:してん|chi nhánh|大阪:おおさか の 支店:してん で 働きます:はたらきます 。|Tôi làm ở chi nhánh Osaka.
+試食:ししょく|ăn thử|スーパー で チーズ を 試食:ししょく します 。|Tôi ăn thử pho mát ở siêu thị.
+流行:りゅうこう|mốt, sự thịnh hành|今年:ことし の 流行:りゅうこう は 白:しろ です 。|Mốt năm nay là màu trắng.
+流行る:はやる|thịnh hành, lan rộng|今:いま 、 風邪:かぜ が 流行って:はやって います 。|Hiện nay bệnh cảm đang lan rộng.
+話題:わだい|đề tài câu chuyện|その 映画:えいが は 今:いま 話題:わだい です 。|Bộ phim đó đang là đề tài bàn tán.
+評判:ひょうばん|tiếng tăm, đánh giá|この 店:みせ は 評判:ひょうばん が いい です 。|Cửa hàng này được đánh giá tốt.
+口コミ:くちこみ|truyền miệng, nhận xét|口コミ:くちこみ を 読んで:よんで 店:みせ を 選びます:えらびます 。|Tôi đọc nhận xét rồi chọn quán.
+宣伝:せんでん|quảng bá|新しい:あたらしい 商品:しょうひん を 宣伝:せんでん します 。|Chúng tôi quảng bá sản phẩm mới.
+チラシ|tờ rơi quảng cáo|スーパー の チラシ を 見ます:みます 。|Tôi xem tờ rơi của siêu thị.
+ポスター|áp phích|壁:かべ に ポスター を 貼ります:はります 。|Tôi dán áp phích lên tường.
+新発売:しんはつばい|mới ra mắt|新発売:しんはつばい の お菓子:おかし を 買いました:かいました 。|Tôi đã mua bánh kẹo mới ra mắt.
+限定:げんてい|giới hạn|これ は 冬:ふゆ 限定:げんてい の 味:あじ です 。|Đây là vị chỉ có trong mùa đông.
+定番:ていばん|món quen thuộc, kinh điển|カレー は 家庭:かてい 料理:りょうり の 定番:ていばん です 。|Cà ri là món quen thuộc của bữa cơm nhà.
+安物:やすもの|đồ rẻ tiền|安物:やすもの は すぐ 壊れます:こわれます 。|Đồ rẻ tiền chóng hỏng.
+偽物:にせもの|hàng giả|この かばん は 偽物:にせもの です 。|Cái túi này là hàng giả.
+品:しな|món hàng|この 店:みせ は いい 品:しな が 多い:おおい です 。|Cửa hàng này nhiều món hàng tốt.
+寸法:すんぽう|kích thước đo|家具:かぐ の 寸法:すんぽう を 測ります:はかります 。|Tôi đo kích thước đồ nội thất.
+手頃:てごろ|vừa túi tiền, vừa phải|手頃:てごろ な 値段:ねだん の 店:みせ です 。|Đây là quán có giá vừa túi tiền.
+割高:わりだか|khá đắt (so ra)|駅前:えきまえ の 店:みせ は 割高:わりだか です 。|Cửa hàng trước ga khá đắt.
+割安:わりやす|khá rẻ (so ra)|まとめて 買う:かう と 割安:わりやす です 。|Mua gộp thì khá rẻ.
+代金:だいきん|tiền hàng|商品:しょうひん の 代金:だいきん を 払います:はらいます 。|Tôi trả tiền hàng.
+会費:かいひ|hội phí|パーティー の 会費:かいひ は 三千円:さんぜんえん です 。|Hội phí bữa tiệc là ba nghìn yên.
+月謝:げっしゃ|học phí hàng tháng|ピアノ の 月謝:げっしゃ を 払います:はらいます 。|Tôi trả học phí hàng tháng lớp piano.
+運賃:うんちん|cước vận chuyển, tiền tàu xe|バス の 運賃:うんちん が 上がりました:あがりました 。|Tiền xe buýt đã tăng.
+手数料:てすうりょう|phí thủ tục|振り込み:ふりこみ に 手数料:てすうりょう が かかります 。|Chuyển khoản mất phí thủ tục.
+@Giấy tờ và thủ tục|Hành chính
+入会:にゅうかい|gia nhập hội|スポーツ クラブ に 入会:にゅうかい します 。|Tôi gia nhập câu lạc bộ thể thao.
+退会:たいかい|rút khỏi hội|来月:らいげつ 、 クラブ を 退会:たいかい します 。|Tháng sau tôi rút khỏi câu lạc bộ.
+会員:かいいん|hội viên|この 店:みせ の 会員:かいいん に なりました 。|Tôi đã thành hội viên của cửa hàng này.
+登録:とうろく|đăng ký (ghi danh)|名前:なまえ と 住所:じゅうしょ を 登録:とうろく します 。|Tôi đăng ký tên và địa chỉ.
+解約:かいやく|hủy hợp đồng|携帯:けいたい の 契約:けいやく を 解約:かいやく します 。|Tôi hủy hợp đồng điện thoại.
+更新:こうしん|gia hạn, cập nhật|免許:めんきょ を 更新:こうしん します 。|Tôi gia hạn bằng lái.
+期限:きげん|kỳ hạn|この 薬:くすり は 期限:きげん が 切れて:きれて います 。|Thuốc này đã quá hạn.
+有効:ゆうこう|có hiệu lực|この 券:けん は 一年間:いちねんかん 有効:ゆうこう です 。|Vé này có hiệu lực một năm.
+無効:むこう|vô hiệu|古い:ふるい パスワード は 無効:むこう です 。|Mật khẩu cũ đã vô hiệu.
+締め切る:しめきる|chốt hạn, ngừng nhận|申し込み:もうしこみ を 明日:あした で 締め切ります:しめきります 。|Chúng tôi ngừng nhận đăng ký vào ngày mai.
+受け付ける:うけつける|tiếp nhận|質問:しつもん は メール で 受け付けます:うけつけます 。|Chúng tôi tiếp nhận câu hỏi qua thư điện tử.
+申請:しんせい|xin cấp, nộp đơn xin|ビザ を 申請:しんせい します 。|Tôi xin cấp thị thực.
+申込書:もうしこみしょ|đơn đăng ký|申込書:もうしこみしょ に 名前:なまえ を 書きます:かきます 。|Tôi viết tên vào đơn đăng ký.
+記入:きにゅう|điền vào|住所:じゅうしょ を 記入:きにゅう して ください 。|Hãy điền địa chỉ.
+署名:しょめい|ký tên|書類:しょるい に 署名:しょめい します 。|Tôi ký tên vào giấy tờ.
+印鑑:いんかん|con dấu cá nhân|銀行:ぎんこう に 印鑑:いんかん を 持って行きます:もっていきます 。|Tôi mang con dấu cá nhân đến ngân hàng.
+身分:みぶん|thân phận|身分:みぶん を 証明:しょうめい する 物:もの が 必要:ひつよう です 。|Cần giấy tờ chứng minh thân phận.
+証明書:しょうめいしょ|giấy chứng nhận|学校:がっこう で 証明書:しょうめいしょ を もらいます 。|Tôi lấy giấy chứng nhận ở trường.
+用紙:ようし|mẫu giấy, tờ giấy in|この 用紙:ようし に 書いて:かいて ください 。|Hãy viết vào tờ mẫu này.
+欄:らん|ô, cột (trong mẫu)|この 欄:らん に 名前:なまえ を 書きます:かきます 。|Tôi viết tên vào ô này.
+氏名:しめい|họ tên|ここ に 氏名:しめい を 記入:きにゅう します 。|Tôi điền họ tên vào đây.
+生年月日:せいねんがっぴ|ngày tháng năm sinh|生年月日:せいねんがっぴ を 教えて:おしえて ください 。|Xin cho biết ngày tháng năm sinh.

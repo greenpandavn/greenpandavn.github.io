@@ -3,7 +3,7 @@
   {"unit":53,"level":5,"title":"Phần 3: Diễn đạt tinh tế","desc":"Tâm trạng, tính từ, động từ, phó từ, thành ngữ","color":"grape","course":"ja"}
  ],
  "lessons": [
-  {"id":"ja511","title":"Tâm trạng tinh tế","desc":"U sầu, bối rối, day dứt","icon":"微","unit":53,"course":"ja","order":710,"words":[
+  {"id":"ja511","title":"Tâm trạng tinh tế","desc":"U sầu, bối rối, day dứt","icon":"微","unit":53,"course":"ja","order":3430,"words":[
    {"id":"ja511-憂鬱","hanzi":"憂鬱","pinyin":"yuuutsu","vi":"u sầu, chán nản","ex":{"tokens":["雨","の","日","は","憂鬱","です","。"],"py":["ame","no","hi","wa","yuuutsu","desu","."],"vi":"Ngày mưa thật u sầu.","alts":[]}},
    {"id":"ja511-孤独","hanzi":"孤独","pinyin":"kodoku","vi":"cô độc","ex":{"tokens":["一人","の","生活","は","孤独","です","。"],"py":["hitori","no","seikatsu","wa","kodoku","desu","."],"vi":"Cuộc sống một mình thật cô độc.","alts":[]}},
    {"id":"ja511-焦る","hanzi":"焦る","pinyin":"aseru","vi":"sốt ruột, cuống","ex":{"tokens":["時間","が","なくて","焦って","います","。"],"py":["jikan","ga","nakute","asette","imasu","."],"vi":"Không còn thời gian nên tôi đang cuống.","alts":[]}},
@@ -17,7 +17,7 @@
    {"id":"ja511-切ない","hanzi":"切ない","pinyin":"setsunai","vi":"day dứt, xót xa","ex":{"tokens":["別れ","の","歌","は","切ない","です","。"],"py":["wakare","no","uta","wa","setsunai","desu","."],"vi":"Bài hát chia ly thật xót xa.","alts":[]}},
    {"id":"ja511-虚しい","hanzi":"虚しい","pinyin":"munashii","vi":"trống rỗng, vô nghĩa","ex":{"tokens":["一人","の","食事","は","虚しい","です","。"],"py":["hitori","no","shokuji","wa","munashii","desu","."],"vi":"Bữa ăn một mình thật trống trải.","alts":[]}}
   ]},
-  {"id":"ja512","title":"Tính từ nâng cao","desc":"Trang nghiêm, khéo léo, khiêm tốn","icon":"質","unit":53,"course":"ja","order":720,"words":[
+  {"id":"ja512","title":"Tính từ nâng cao","desc":"Trang nghiêm, khéo léo, khiêm tốn","icon":"質","unit":53,"course":"ja","order":3440,"words":[
    {"id":"ja512-厳か","hanzi":"厳か","pinyin":"ogosoka","vi":"trang nghiêm","ex":{"tokens":["式","は","厳か","に","始まりました","。"],"py":["shiki","wa","ogosoka","ni","hajimarimashita","."],"vi":"Buổi lễ đã bắt đầu trang nghiêm.","alts":[]}},
    {"id":"ja512-巧み","hanzi":"巧み","pinyin":"takumi","vi":"khéo léo","ex":{"tokens":["彼","は","巧み","に","車","を","運転","します","。"],"py":["kare","wa","takumi","ni","kuruma","o","unten","shimasu","."],"vi":"Anh ấy lái xe khéo léo.","alts":[]}},
    {"id":"ja512-顕著","hanzi":"顕著","pinyin":"kencho","vi":"rõ rệt, nổi bật","ex":{"tokens":["薬","の","効果","は","顕著","です","。"],"py":["kusuri","no","kouka","wa","kencho","desu","."],"vi":"Hiệu quả của thuốc rất rõ rệt.","alts":[]}},
@@ -31,7 +31,7 @@
    {"id":"ja512-著しい","hanzi":"著しい","pinyin":"ichijirushii","vi":"đáng kể, rõ rệt","ex":{"tokens":["この","国","の","発展","は","著しい","です","。"],"py":["kono","kuni","no","hatten","wa","ichijirushii","desu","."],"vi":"Sự phát triển của nước này rất đáng kể.","alts":[]}},
    {"id":"ja512-乏しい","hanzi":"乏しい","pinyin":"toboshii","vi":"nghèo nàn, thiếu thốn","ex":{"tokens":["この","島","は","水","が","乏しい","です","。"],"py":["kono","shima","wa","mizu","ga","toboshii","desu","."],"vi":"Hòn đảo này thiếu nước.","alts":[]}}
   ]},
-  {"id":"ja513","title":"Động từ trang trọng","desc":"Thúc đẩy, đảo ngược, vun đắp","icon":"遂","unit":53,"course":"ja","order":730,"words":[
+  {"id":"ja513","title":"Động từ trang trọng","desc":"Thúc đẩy, đảo ngược, vun đắp","icon":"遂","unit":53,"course":"ja","order":3450,"words":[
    {"id":"ja513-促す","hanzi":"促す","pinyin":"unagasu","vi":"thúc giục, thúc đẩy","ex":{"tokens":["先生","は","学生","に","注意","を","促しました","。"],"py":["sensei","wa","gakusei","ni","chuui","o","unagashimashita","."],"vi":"Thầy đã nhắc học sinh chú ý.","alts":[]}},
    {"id":"ja513-覆す","hanzi":"覆す","pinyin":"kutsugaesu","vi":"lật ngược, đảo lộn","ex":{"tokens":["新しい","証拠","が","判決","を","覆しました","。"],"py":["atarashii","shouko","ga","hanketsu","o","kutsugaeshimashita","."],"vi":"Chứng cứ mới đã lật ngược phán quyết.","alts":[]}},
    {"id":"ja513-携わる","hanzi":"携わる","pinyin":"tazusawaru","vi":"tham gia, làm (ngành nghề)","ex":{"tokens":["姉","は","教育","に","携わって","います","。"],"py":["ane","wa","kyouiku","ni","tazusawatte","imasu","."],"vi":"Chị tôi làm trong ngành giáo dục.","alts":[]}},
@@ -45,7 +45,7 @@
    {"id":"ja513-臨む","hanzi":"臨む","pinyin":"nozomu","vi":"đối mặt, bước vào","ex":{"tokens":["選手","たち","は","試合","に","臨みました","。"],"py":["senshu","tachi","wa","shiai","ni","nozomimashita","."],"vi":"Các vận động viên đã bước vào trận đấu.","alts":[]}},
    {"id":"ja513-試みる","hanzi":"試みる","pinyin":"kokoromiru","vi":"thử, thử nghiệm","ex":{"tokens":["彼","は","新しい","方法","を","試みました","。"],"py":["kare","wa","atarashii","houhou","o","kokoromimashita","."],"vi":"Anh ấy đã thử phương pháp mới.","alts":[]}}
   ]},
-  {"id":"ja514","title":"Phó từ và từ nối trang trọng","desc":"Đến cùng, đặc biệt, tức là","icon":"詞","unit":53,"course":"ja","order":740,"words":[
+  {"id":"ja514","title":"Phó từ và từ nối trang trọng","desc":"Đến cùng, đặc biệt, tức là","icon":"詞","unit":53,"course":"ja","order":3460,"words":[
    {"id":"ja514-あくまで","hanzi":"あくまで","pinyin":"akumade","vi":"đến cùng, rốt cuộc chỉ là","ex":{"tokens":["これ","は","あくまで","私","の","意見","です","。"],"py":["kore","wa","akumade","watashi","no","iken","desu","."],"vi":"Đây rốt cuộc chỉ là ý kiến của tôi.","alts":[]}},
    {"id":"ja514-いかにも","hanzi":"いかにも","pinyin":"ikanimo","vi":"quả thật, đúng là","ex":{"tokens":["彼","は","いかにも","先生","らしい","です","。"],"py":["kare","wa","ikanimo","sensei","rashii","desu","."],"vi":"Anh ấy trông đúng là một thầy giáo.","alts":[]}},
    {"id":"ja514-ひたすら","hanzi":"ひたすら","pinyin":"hitasura","vi":"một mực, miệt mài","ex":{"tokens":["彼女","は","ひたすら","勉強","しました","。"],"py":["kanojo","wa","hitasura","benkyou","shimashita","."],"vi":"Cô ấy đã miệt mài học.","alts":[]}},
@@ -59,7 +59,7 @@
    {"id":"ja514-もはや","hanzi":"もはや","pinyin":"mohaya","vi":"đã ... không còn","ex":{"tokens":["もはや","逃げる","道","は","ありません","。"],"py":["mohaya","nigeru","michi","wa","arimasen","."],"vi":"Đã không còn đường chạy trốn.","alts":[]}},
    {"id":"ja514-およそ","hanzi":"およそ","pinyin":"oyoso","vi":"khoảng, đại khái","ex":{"tokens":["駅","まで","およそ","十分","です","。"],"py":["eki","made","oyoso","juppun","desu","."],"vi":"Đến ga mất khoảng mười phút.","alts":[]}}
   ]},
-  {"id":"ja515","title":"Thành ngữ bốn chữ","desc":"Thành ngữ thường gặp trong văn viết","icon":"四","unit":53,"course":"ja","order":750,"words":[
+  {"id":"ja515","title":"Thành ngữ bốn chữ","desc":"Thành ngữ thường gặp trong văn viết","icon":"四","unit":53,"course":"ja","order":3470,"words":[
    {"id":"ja515-一石二鳥","hanzi":"一石二鳥","pinyin":"issekinichou","vi":"một mũi tên trúng hai đích","ex":{"tokens":["歩く","と","健康","に","も","節約","に","も","なって","一石二鳥","です","。"],"py":["aruku","to","kenkou","ni","mo","setsuyaku","ni","mo","natte","issekinichou","desu","."],"vi":"Đi bộ vừa khỏe vừa tiết kiệm, đúng là một mũi tên trúng hai đích.","alts":[]}},
    {"id":"ja515-十人十色","hanzi":"十人十色","pinyin":"juunintoiro","vi":"mỗi người một vẻ","ex":{"tokens":["好き","な","食べ物","は","十人十色","です","。"],"py":["suki","na","tabemono","wa","juunintoiro","desu","."],"vi":"Món ăn yêu thích thì mỗi người một vẻ.","alts":[]}},
    {"id":"ja515-一期一会","hanzi":"一期一会","pinyin":"ichigoichie","vi":"cuộc gặp chỉ có một lần trong đời","ex":{"tokens":["旅","の","出会い","は","一期一会","です","。"],"py":["tabi","no","deai","wa","ichigoichie","desu","."],"vi":"Cuộc gặp gỡ trên đường đi chỉ có một lần trong đời.","alts":[]}},

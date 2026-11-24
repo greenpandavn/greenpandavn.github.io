@@ -1,0 +1,90 @@
+=1
+@Nhà cửa và đồ đạc 2|Phòng và vật dụng
+居間:いま|phòng khách|家族:かぞく は 居間:いま で テレビ を 見ます:みます 。|Gia đình xem ti vi ở phòng khách.
+寝室:しんしつ|phòng ngủ|寝室:しんしつ は 二階:にかい に あります 。|Phòng ngủ ở tầng hai.
+廊下:ろうか|hành lang|廊下:ろうか を 走らないで:はしらないで ください 。|Xin đừng chạy ở hành lang.
+門:もん|cổng|学校:がっこう の 門:もん の 前:まえ で 待ちます:まちます 。|Tôi đợi trước cổng trường.
+畳:たたみ|chiếu tatami|この 部屋:へや は 畳:たたみ の 部屋:へや です 。|Phòng này là phòng trải chiếu tatami.
+布団:ふとん|chăn đệm Nhật|毎朝:まいあさ 、 布団:ふとん を 片付けます:かたづけます 。|Mỗi sáng tôi dọn chăn đệm.
+毛布:もうふ|chăn len|寒い:さむい 夜:よる は 毛布:もうふ を 使います:つかいます 。|Đêm lạnh tôi dùng chăn len.
+枕:まくら|cái gối|この 枕:まくら は 高い:たかい です 。|Cái gối này cao.
+カーテン|rèm cửa|朝:あさ 、 カーテン を 開けます:あけます 。|Buổi sáng tôi mở rèm cửa.
+鏡:かがみ|cái gương|鏡:かがみ で 顔:かお を 見ます:みます 。|Tôi soi mặt trong gương.
+棚:たな|cái kệ|棚:たな の 上:うえ に 箱:はこ が あります 。|Trên kệ có cái hộp.
+引き出し:ひきだし|ngăn kéo|引き出し:ひきだし に ペン が あります 。|Trong ngăn kéo có bút.
+ソファ|ghế sô pha|父:ちち は ソファ で 寝て:ねて います 。|Bố đang ngủ trên sô pha.
+電話機:でんわき|máy điện thoại|玄関:げんかん に 電話機:でんわき が あります 。|Ở tiền sảnh có máy điện thoại.
+エアコン|máy điều hòa|暑い:あつい から エアコン を つけます 。|Vì nóng nên tôi bật điều hòa.
+掃除機:そうじき|máy hút bụi|掃除機:そうじき で 部屋:へや を 掃除:そうじ します 。|Tôi dọn phòng bằng máy hút bụi.
+ごみ箱:ごみばこ|thùng rác|ごみ箱:ごみばこ は 台所:だいどころ に あります 。|Thùng rác ở trong bếp.
+水道:すいどう|nước máy|水道:すいどう の 水:みず を 飲みます:のみます 。|Tôi uống nước máy.
+ガス|ga, khí đốt|ガス で 料理:りょうり を します 。|Tôi nấu ăn bằng ga.
+電灯:でんとう|đèn điện|部屋:へや の 電灯:でんとう が 暗い:くらい です 。|Đèn điện trong phòng tối.
+時刻表:じこくひょう|bảng giờ tàu xe|駅:えき で 時刻表:じこくひょう を 見ます:みます 。|Tôi xem bảng giờ tàu ở ga.
+写真機:しゃしんき|máy chụp hình (cũ)|祖父:そふ の 古い:ふるい 写真機:しゃしんき が あります 。|Có chiếc máy chụp hình cũ của ông.
+絵本:えほん|truyện tranh thiếu nhi|娘:むすめ に 絵本:えほん を 読みます:よみます 。|Tôi đọc truyện tranh cho con gái.
+日記:にっき|nhật ký|毎晩:まいばん 、 日記:にっき を 書きます:かきます 。|Mỗi tối tôi viết nhật ký.
+手帳:てちょう|sổ tay|予定:よてい を 手帳:てちょう に 書きます:かきます 。|Tôi ghi lịch hẹn vào sổ tay.
+@Số lớn và lượng|Đếm và đo
+二十:にじゅう|hai mươi|クラス に 学生:がくせい が 二十:にじゅう 人:にん います 。|Lớp có hai mươi học sinh.
+三十:さんじゅう|ba mươi|父:ちち は 三十:さんじゅう 年:ねん 働きました:はたらきました 。|Bố tôi đã làm việc ba mươi năm.
+五十:ごじゅう|năm mươi|母:はは は 五十:ごじゅう 歳:さい です 。|Mẹ tôi năm mươi tuổi.
+二百:にひゃく|hai trăm|この パン は 二百:にひゃく 円:えん です 。|Bánh mì này hai trăm yên.
+三百:さんびゃく|ba trăm|三百:さんびゃく 円:えん の 切符:きっぷ を 買います:かいます 。|Tôi mua vé ba trăm yên.
+六百:ろっぴゃく|sáu trăm|コーヒー は 六百:ろっぴゃく 円:えん です 。|Cà phê sáu trăm yên.
+八百:はっぴゃく|tám trăm|この 本:ほん は 八百:はっぴゃく 円:えん です 。|Quyển sách này tám trăm yên.
+三千:さんぜん|ba nghìn|この シャツ は 三千:さんぜん 円:えん です 。|Áo sơ mi này ba nghìn yên.
+八千:はっせん|tám nghìn|ホテル は 一泊:いっぱく 八千:はっせん 円:えん です 。|Khách sạn tám nghìn yên một đêm.
+百万:ひゃくまん|một triệu|この 車:くるま は 百万:ひゃくまん 円:えん です 。|Chiếc xe này một triệu yên.
+六つ:むっつ|sáu cái|卵:たまご が 六つ:むっつ あります 。|Có sáu quả trứng.
+七つ:ななつ|bảy cái|みかん を 七つ:ななつ 買いました:かいました 。|Tôi đã mua bảy quả quýt.
+八つ:やっつ|tám cái|椅子:いす が 八つ:やっつ 必要:ひつよう です 。|Cần tám cái ghế.
+九つ:ここのつ|chín cái|箱:はこ に りんご が 九つ:ここのつ あります 。|Trong hộp có chín quả táo.
+三人:さんにん|ba người|家族:かぞく は 三人:さんにん です 。|Gia đình tôi có ba người.
+何人:なんにん|mấy người|家族:かぞく は 何人:なんにん です か 。|Gia đình bạn có mấy người?
+大勢:おおぜい|đông người|公園:こうえん に 人:ひと が 大勢:おおぜい います 。|Trong công viên có đông người.
+両方:りょうほう|cả hai|肉:にく も 魚:さかな も 両方:りょうほう 好き:すき です 。|Thịt và cá tôi thích cả hai.
+半年:はんとし|nửa năm|日本:にほん に 半年:はんとし 住んで:すんで います 。|Tôi sống ở Nhật nửa năm rồi.
+@Động từ thường ngày 3|Hành động bổ sung
+植える:うえる|trồng|庭:にわ に 木:き を 植えます:うえます 。|Tôi trồng cây trong vườn.
+育てる:そだてる|nuôi, trồng|母:はは は 花:はな を 育てて:そだてて います 。|Mẹ tôi đang trồng hoa.
+拭く:ふく|lau|テーブル を 拭きます:ふきます 。|Tôi lau bàn.
+塗る:ぬる|phết, sơn|パン に バター を 塗ります:ぬります 。|Tôi phết bơ lên bánh mì.
+折る:おる|gấp, bẻ|紙:かみ を 半分:はんぶん に 折ります:おります 。|Tôi gấp đôi tờ giấy.
+投げる:なげる|ném|ボール を 投げます:なげます 。|Tôi ném bóng.
+拾う:ひろう|nhặt|道:みち で 財布:さいふ を 拾いました:ひろいました 。|Tôi đã nhặt được ví trên đường.
+捨てる:すてる|vứt|ごみ を 捨てます:すてます 。|Tôi vứt rác.
+触る:さわる|sờ, chạm|絵:え に 触らないで:さわらないで ください 。|Xin đừng sờ vào tranh.
+見つける:みつける|tìm thấy|鍵:かぎ を 見つけました:みつけました 。|Tôi đã tìm thấy chìa khóa.
+迎える:むかえる|đón|空港:くうこう で 友達:ともだち を 迎えます:むかえます 。|Tôi đón bạn ở sân bay.
+連れる:つれる|dẫn theo|子供:こども を 連れて:つれて 公園:こうえん へ 行きます:いきます 。|Tôi dẫn con ra công viên.
+通う:かよう|đi lại thường xuyên|バス で 学校:がっこう に 通って:かよって います 。|Tôi đi học bằng xe buýt.
+戻る:もどる|quay lại|すぐ 戻ります:もどります 。|Tôi quay lại ngay.
+変わる:かわる|thay đổi (tự)|信号:しんごう が 青:あお に 変わりました:かわりました 。|Đèn giao thông đã chuyển xanh.
+壊れる:こわれる|bị hỏng|時計:とけい が 壊れました:こわれました 。|Đồng hồ bị hỏng rồi.
+落とす:おとす|đánh rơi|財布:さいふ を 落としました:おとしました 。|Tôi đánh rơi ví rồi.
+間に合う:まにあう|kịp giờ|電車:でんしゃ に 間に合いました:まにあいました 。|Tôi đã kịp chuyến tàu.
+思い出す:おもいだす|nhớ ra|名前:なまえ を 思い出しました:おもいだしました 。|Tôi đã nhớ ra tên.
+考える:かんがえる|suy nghĩ|よく 考えて:かんがえて ください 。|Hãy suy nghĩ kỹ.
+調べる:しらべる|tra cứu|辞書:じしょ で 言葉:ことば を 調べます:しらべます 。|Tôi tra từ bằng từ điển.
+@Tính từ và trạng thái 2|Miêu tả thêm
+正しい:ただしい|đúng|この 答え:こたえ は 正しい:ただしい です 。|Câu trả lời này đúng.
+美しい:うつくしい|đẹp (trang trọng)|この 町:まち の 夜:よる は 美しい:うつくしい です 。|Đêm ở thị trấn này đẹp.
+珍しい:めずらしい|hiếm|ここ で 雪:ゆき は 珍しい:めずらしい です 。|Ở đây tuyết là hiếm.
+すごい|ghê, tuyệt|この 絵:え は すごい です ね 。|Bức tranh này tuyệt nhỉ.
+ひどい|tồi tệ, kinh khủng|今日:きょう の 雨:あめ は ひどい です 。|Mưa hôm nay kinh khủng.
+浅い:あさい|nông|この 川:かわ は 浅い:あさい です 。|Con sông này nông.
+深い:ふかい|sâu|この 池:いけ は 深い:ふかい です 。|Cái ao này sâu.
+固い:かたい|cứng|この パン は 固い:かたい です 。|Bánh mì này cứng.
+柔らかい:やわらかい|mềm|この 肉:にく は 柔らかい:やわらかい です 。|Thịt này mềm.
+低い:ひくい|thấp|弟:おとうと は 背:せ が 低い:ひくい です 。|Em trai tôi thấp.
+若者:わかもの|người trẻ|この 店:みせ は 若者:わかもの に 人気:にんき です 。|Cửa hàng này được người trẻ ưa chuộng.
+安全:あんぜん|an toàn|この 町:まち は 安全:あんぜん です 。|Thị trấn này an toàn.
+危険:きけん|sự nguy hiểm|夜:よる の 川:かわ は 危険:きけん です 。|Sông ban đêm nguy hiểm.
+不便:ふべん|bất tiện|ここ は 駅:えき から 遠くて:とおくて 不便:ふべん です 。|Chỗ này xa ga nên bất tiện.
+十分:じゅうぶん|đầy đủ|お金:おかね は 十分:じゅうぶん あります 。|Tiền thì có đầy đủ.
+特別:とくべつ|đặc biệt|今日:きょう は 特別:とくべつ な 日:ひ です 。|Hôm nay là ngày đặc biệt.
+自由:じゆう|tự do|午後:ごご は 自由:じゆう な 時間:じかん です 。|Buổi chiều là thời gian tự do.
+無理:むり|quá sức, không thể|明日:あした まで は 無理:むり です 。|Đến ngày mai thì không thể được.
+変:へん|lạ, kỳ quặc|この 水:みず は 味:あじ が 変:へん です 。|Nước này có vị lạ.
+残念:ざんねん|đáng tiếc|行けなくて:いけなくて 残念:ざんねん です 。|Không đi được, thật đáng tiếc.

@@ -1,0 +1,115 @@
+=5
+@Từ ngoại lai N1|Katakana trong công việc
+ノウハウ|bí quyết làm việc|先輩:せんぱい から 仕事:しごと の ノウハウ を 学びます:まなびます 。|Tôi học bí quyết làm việc từ đàn anh.
+コンセプト|ý tưởng chủ đạo|この 店:みせ の コンセプト は 自然:しぜん です 。|Ý tưởng chủ đạo của quán này là thiên nhiên.
+ジレンマ|thế tiến thoái lưỡng nan|仕事:しごと と 家庭:かてい の ジレンマ に 悩みます:なやみます 。|Tôi khổ tâm vì thế tiến thoái lưỡng nan giữa công việc và gia đình.
+ギャップ|khoảng cách, độ vênh|理想:りそう と 現実:げんじつ の ギャップ に 驚きました:おどろきました 。|Tôi ngạc nhiên về độ vênh giữa lý tưởng và hiện thực.
+カテゴリー|hạng mục, phạm trù|商品:しょうひん を カテゴリー に 分けます:わけます 。|Chia sản phẩm theo hạng mục.
+キャリア|sự nghiệp, quá trình công tác|彼女:かのじょ は 長い:ながい キャリア を 持って:もって います 。|Cô ấy có quá trình công tác dài.
+キャンペーン|chiến dịch (quảng bá)|新しい:あたらしい 商品:しょうひん の キャンペーン を 始めます:はじめます 。|Bắt đầu chiến dịch quảng bá sản phẩm mới.
+クレーム|lời khiếu nại (của khách)|客:きゃく から クレーム が 来ました:きました 。|Có lời khiếu nại từ khách.
+コスト|chi phí (sản xuất)|コスト を 下げる:さげる 方法:ほうほう を 考えます:かんがえます 。|Tôi nghĩ cách hạ chi phí.
+コミュニケーション|giao tiếp|社員:しゃいん の コミュニケーション が 大切:たいせつ です 。|Giao tiếp giữa các nhân viên rất quan trọng.
+コントロール|điều khiển, kiểm soát|自分:じぶん の 感情:かんじょう を コントロール します 。|Tôi kiểm soát cảm xúc của mình.
+サイクル|chu kỳ, vòng tuần hoàn|生活:せいかつ の サイクル が 乱れました:みだれました 。|Chu kỳ sinh hoạt đã bị đảo lộn.
+シェア|thị phần; chia sẻ|この 会社:かいしゃ は 市場:しじょう の シェア が 高い:たかい です 。|Công ty này có thị phần cao.
+ジャンル|thể loại|どんな ジャンル の 音楽:おんがく が 好き:すき です か 。|Bạn thích thể loại nhạc nào?
+ストック|hàng dự trữ|水:みず の ストック が あります 。|Có nước dự trữ.
+セクション|bộ phận, phân khu|私:わたし は 別:べつ の セクション に 移りました:うつりました 。|Tôi đã chuyển sang bộ phận khác.
+センス|khiếu thẩm mỹ, gu|彼女:かのじょ は 服:ふく の センス が いい です 。|Cô ấy có gu ăn mặc tốt.
+タイミング|thời điểm (đúng lúc)|話す:はなす タイミング が 難しい:むずかしい です 。|Chọn thời điểm để nói thật khó.
+ダメージ|tổn hại, thiệt hại|台風:たいふう で 町:まち は 大きな:おおきな ダメージ を 受けました:うけました 。|Thị trấn chịu tổn hại lớn do bão.
+テーマ|chủ đề, đề tài|今日:きょう の 会議:かいぎ の テーマ は 教育:きょういく です 。|Chủ đề cuộc họp hôm nay là giáo dục.
+ノルマ|chỉ tiêu (được giao)|今月:こんげつ の ノルマ は 厳しい:きびしい です 。|Chỉ tiêu tháng này khắt khe.
+パターン|khuôn mẫu, kiểu|失敗:しっぱい の パターン を 調べます:しらべます 。|Tôi tìm hiểu khuôn mẫu của thất bại.
+プライド|lòng tự tôn|彼:かれ は プライド が 高い:たかい です 。|Anh ta có lòng tự tôn cao.
+プロセス|tiến trình, quy trình|結果:けっか より プロセス が 大切:たいせつ です 。|Tiến trình quan trọng hơn kết quả.
+ペース|nhịp độ|自分:じぶん の ペース で 走ります:はしります 。|Tôi chạy theo nhịp độ của mình.
+ポイント|điểm mấu chốt|話:はなし の ポイント を まとめます 。|Tôi tóm tắt điểm mấu chốt của câu chuyện.
+マニュアル|sách hướng dẫn thao tác|マニュアル を 読んで:よんで から 使います:つかいます 。|Tôi đọc sách hướng dẫn thao tác rồi mới dùng.
+メカニズム|cơ chế hoạt động|地震:じしん の メカニズム を 研究:けんきゅう します 。|Nghiên cứu cơ chế hoạt động của động đất.
+メリット|điểm lợi|この 方法:ほうほう に は メリット が 多い:おおい です 。|Phương pháp này có nhiều điểm lợi.
+デメリット|điểm bất lợi|デメリット も 考えて:かんがえて ください 。|Hãy nghĩ cả đến điểm bất lợi.
+モチベーション|động lực làm việc|社員:しゃいん の モチベーション を 上げます:あげます 。|Nâng cao động lực làm việc của nhân viên.
+ライバル|đối thủ cạnh tranh|彼:かれ は 私:わたし の ライバル です 。|Anh ấy là đối thủ cạnh tranh của tôi.
+リスク|rủi ro|投資:とうし に は リスク が あります 。|Đầu tư có rủi ro.
+リード|dẫn trước, dẫn dắt|前半:ぜんはん は 二点:にてん の リード です 。|Hiệp một dẫn trước hai điểm.
+ルーズ|lề mề, luộm thuộm|彼:かれ は 時間:じかん に ルーズ です 。|Anh ta lề mề về giờ giấc.
+レギュラー|thành viên chính thức (đội)|彼:かれ は チーム の レギュラー に なりました 。|Anh ấy đã thành thành viên chính thức của đội.
+ロマン|sự lãng mạn, niềm mơ ước|宇宙:うちゅう に は ロマン が あります 。|Vũ trụ chứa đựng niềm mơ ước lãng mạn.
+@Môi trường và đất đai|Sinh thái, địa chất, khai thác
+排気:はいき|khí thải (xả khí)|車:くるま の 排気:はいき が 空気:くうき を 汚します:よごします 。|Khí thải ô tô làm bẩn không khí.
+廃棄:はいき|tiêu hủy, vứt bỏ|古い:ふるい 書類:しょるい を 廃棄:はいき します 。|Tiêu hủy giấy tờ cũ.
+汚濁:おだく|ô trọc, vẩn đục|川:かわ の 水:みず の 汚濁:おだく が 進んで:すすんで います 。|Nước sông ngày càng vẩn đục.
+浄化:じょうか|thanh lọc, làm sạch|汚れた:よごれた 水:みず を 浄化:じょうか します 。|Làm sạch nước bẩn.
+循環:じゅんかん|tuần hoàn|運動:うんどう は 血液:けつえき の 循環:じゅんかん を よく します 。|Vận động giúp máu tuần hoàn tốt.
+保全:ほぜん|bảo toàn, gìn giữ (môi trường)|自然:しぜん 環境:かんきょう を 保全:ほぜん します 。|Gìn giữ môi trường tự nhiên.
+保護区:ほごく|khu bảo tồn|この 森:もり は 動物:どうぶつ の 保護区:ほごく です 。|Khu rừng này là khu bảo tồn động vật.
+砂漠化:さばくか|sa mạc hóa|この 地方:ちほう で 砂漠化:さばくか が 進んで:すすんで います 。|Vùng này đang sa mạc hóa.
+氾濫:はんらん|(sông) tràn bờ|大雨:おおあめ で 川:かわ が 氾濫:はんらん しました 。|Sông tràn bờ do mưa lớn.
+猛暑:もうしょ|nắng nóng gay gắt|今年:ことし の 夏:なつ は 猛暑:もうしょ です 。|Hè năm nay nắng nóng gay gắt.
+寒波:かんぱ|đợt rét đậm|来週:らいしゅう 、 寒波:かんぱ が 来ます:きます 。|Tuần sau đợt rét đậm sẽ đến.
+湿地:しっち|đất ngập nước|湿地:しっち に 珍しい:めずらしい 鳥:とり が います 。|Ở vùng đất ngập nước có loài chim hiếm.
+河川:かせん|sông ngòi|河川:かせん の 工事:こうじ が 始まりました:はじまりました 。|Công trình sông ngòi đã khởi công.
+流域:りゅういき|lưu vực|この 川:かわ の 流域:りゅういき に 多く:おおく の 人:ひと が 住んで:すんで います 。|Nhiều người sống ở lưu vực con sông này.
+上流:じょうりゅう|thượng nguồn|川:かわ の 上流:じょうりゅう は 水:みず が きれい です 。|Thượng nguồn sông nước trong.
+下流:かりゅう|hạ nguồn|ごみ が 下流:かりゅう に 流れます:ながれます 。|Rác trôi xuống hạ nguồn.
+海流:かいりゅう|hải lưu|暖かい:あたたかい 海流:かいりゅう が 流れて:ながれて います 。|Một dòng hải lưu ấm đang chảy.
+潮流:ちょうりゅう|dòng triều; trào lưu|時代:じだい の 潮流:ちょうりゅう に 乗ります:のります 。|Tôi thuận theo trào lưu thời đại.
+満潮:まんちょう|triều cường, nước lên|満潮:まんちょう の 時間:じかん を 調べます:しらべます 。|Tôi tra giờ nước lên.
+干潮:かんちょう|triều rút, nước ròng|干潮:かんちょう の 時:とき 、 島:しま まで 歩けます:あるけます 。|Lúc nước ròng có thể đi bộ ra đảo.
+地盤:じばん|nền đất|この 辺:へん は 地盤:じばん が 弱い:よわい です 。|Khu này nền đất yếu.
+地殻:ちかく|vỏ trái đất|地殻:ちかく の 動き:うごき を 調べます:しらべます 。|Khảo sát chuyển động của vỏ trái đất.
+断層:だんそう|đứt gãy địa chất|町:まち の 下:した に 断層:だんそう が あります 。|Dưới thị trấn có đứt gãy địa chất.
+鉱山:こうざん|mỏ khoáng sản|昔:むかし 、 ここ に 鉱山:こうざん が ありました 。|Ngày xưa ở đây có mỏ khoáng sản.
+採掘:さいくつ|khai thác (mỏ)|この 山:やま で 金:きん を 採掘:さいくつ します 。|Khai thác vàng ở núi này.
+埋蔵:まいぞう|chôn giấu, trữ lượng dưới đất|海:うみ の 下:した に 石油:せきゆ が 埋蔵:まいぞう されて います 。|Dầu mỏ nằm trong lòng đất dưới biển.
+埋め立て:うめたて|san lấp lấn biển|海:うみ の 埋め立て:うめたて に 反対:はんたい します 。|Tôi phản đối san lấp lấn biển.
+開拓:かいたく|khai phá, mở mang|新しい:あたらしい 市場:しじょう を 開拓:かいたく します 。|Khai phá thị trường mới.
+開墾:かいこん|khai hoang|山:やま を 開墾:かいこん して 畑:はたけ を 作ります:つくります 。|Khai hoang núi để làm rẫy.
+灌漑:かんがい|tưới tiêu, thủy lợi|灌漑:かんがい の 設備:せつび を 作ります:つくります 。|Xây dựng thiết bị tưới tiêu.
+品種:ひんしゅ|giống (cây, con)|新しい:あたらしい 米:こめ の 品種:ひんしゅ が できました 。|Một giống lúa mới đã ra đời.
+収穫量:しゅうかくりょう|sản lượng thu hoạch|今年:ことし は 収穫量:しゅうかくりょう が 増えました:ふえました 。|Năm nay sản lượng thu hoạch tăng.
+養殖:ようしょく|nuôi trồng thủy sản|この 湾:わん で 魚:さかな を 養殖:ようしょく して います 。|Người ta nuôi cá trong vịnh này.
+畜産:ちくさん|chăn nuôi gia súc|この 地方:ちほう は 畜産:ちくさん が 盛ん:さかん です 。|Vùng này chăn nuôi gia súc phát triển.
+@Văn học và nghệ thuật|Sáng tác, biểu diễn, mỹ thuật
+文芸:ぶんげい|văn nghệ (văn chương)|彼:かれ は 文芸:ぶんげい の 雑誌:ざっし を 読みます:よみます 。|Anh ấy đọc tạp chí văn chương.
+戯曲:ぎきょく|kịch bản văn học|彼:かれ は 有名:ゆうめい な 戯曲:ぎきょく を 書きました:かきました 。|Ông ấy đã viết một vở kịch văn học nổi tiếng.
+叙述:じょじゅつ|tường thuật, trần thuật|事実:じじつ を 順:じゅん に 叙述:じょじゅつ します 。|Tường thuật sự việc theo trình tự.
+描写:びょうしゃ|miêu tả|この 小説:しょうせつ は 心:こころ の 描写:びょうしゃ が 細かい:こまかい です 。|Tiểu thuyết này miêu tả nội tâm tỉ mỉ.
+風刺:ふうし|châm biếm|この 漫画:まんが は 政治:せいじ を 風刺:ふうし して います 。|Truyện tranh này châm biếm chính trị.
+誇張:こちょう|phóng đại, khoa trương|彼:かれ の 話:はなし は 誇張:こちょう が 多い:おおい です 。|Chuyện anh ta kể phóng đại nhiều.
+主題:しゅだい|chủ đề (tác phẩm)|この 映画:えいが の 主題:しゅだい は 愛:あい です 。|Chủ đề của bộ phim này là tình yêu.
+題材:だいざい|đề tài, chất liệu sáng tác|戦争:せんそう を 題材:だいざい に 小説:しょうせつ を 書きます:かきます 。|Viết tiểu thuyết lấy chiến tranh làm chất liệu.
+構想:こうそう|ý đồ, phác thảo ý tưởng|新しい:あたらしい 小説:しょうせつ の 構想:こうそう を 練ります:ねります 。|Tôi nung nấu ý tưởng cho tiểu thuyết mới.
+草稿:そうこう|bản thảo nháp|演説:えんぜつ の 草稿:そうこう を 書きます:かきます 。|Tôi viết bản thảo nháp bài diễn thuyết.
+執筆:しっぴつ|chấp bút, viết (sách)|先生:せんせい は 本:ほん を 執筆:しっぴつ して います 。|Thầy đang chấp bút viết sách.
+脚本:きゃくほん|kịch bản (phim, kịch)|彼女:かのじょ は ドラマ の 脚本:きゃくほん を 書きます:かきます 。|Cô ấy viết kịch bản phim truyền hình.
+演出:えんしゅつ|dàn dựng, đạo diễn (sân khấu)|有名:ゆうめい な 監督:かんとく が 劇:げき を 演出:えんしゅつ します 。|Đạo diễn nổi tiếng dàn dựng vở kịch.
+上演:じょうえん|công diễn|この 劇:げき は 来月:らいげつ 上演:じょうえん されます 。|Vở kịch này sẽ được công diễn tháng sau.
+脚色:きゃくしょく|chuyển thể kịch bản; thêm thắt|小説:しょうせつ を 映画:えいが に 脚色:きゃくしょく します 。|Chuyển thể tiểu thuyết thành kịch bản phim.
+翻案:ほんあん|phóng tác|外国:がいこく の 小説:しょうせつ を 翻案:ほんあん しました 。|Tôi đã phóng tác một tiểu thuyết nước ngoài.
+書評:しょひょう|bài bình sách|新聞:しんぶん の 書評:しょひょう を 読みます:よみます 。|Tôi đọc bài bình sách trên báo.
+傑作:けっさく|kiệt tác|この 絵:え は 彼:かれ の 傑作:けっさく です 。|Bức tranh này là kiệt tác của ông ấy.
+名作:めいさく|danh tác|世界:せかい の 名作:めいさく を 読みます:よみます 。|Tôi đọc các danh tác thế giới.
+駄作:ださく|tác phẩm tồi|この 映画:えいが は 駄作:ださく でした 。|Bộ phim này là tác phẩm tồi.
+古典:こてん|cổ điển, tác phẩm kinh điển|高校:こうこう で 古典:こてん を 習います:ならいます 。|Ở trường cấp ba học tác phẩm cổ điển.
+旋律:せんりつ|giai điệu|美しい:うつくしい 旋律:せんりつ が 流れます:ながれます 。|Giai điệu đẹp vang lên.
+和音:わおん|hợp âm|ピアノ で 和音:わおん を 弾きます:ひきます 。|Tôi đánh hợp âm trên piano.
+楽譜:がくふ|bản nhạc (ký âm)|楽譜:がくふ を 見ながら:みながら 歌います:うたいます 。|Tôi vừa nhìn bản nhạc vừa hát.
+指揮:しき|chỉ huy (dàn nhạc)|彼:かれ が オーケストラ を 指揮:しき します 。|Ông ấy chỉ huy dàn nhạc.
+独奏:どくそう|độc tấu|彼女:かのじょ は ピアノ を 独奏:どくそう しました 。|Cô ấy đã độc tấu piano.
+伴奏:ばんそう|đệm đàn|先生:せんせい が ピアノ で 伴奏:ばんそう します 。|Cô giáo đệm đàn piano.
+彫像:ちょうぞう|tượng điêu khắc|公園:こうえん に 彫像:ちょうぞう が 立って:たって います 。|Trong công viên có tượng điêu khắc.
+版画:はんが|tranh in khắc|学校:がっこう で 版画:はんが を 作りました:つくりました 。|Tôi đã làm tranh in khắc ở trường.
+壁画:へきが|bích họa|古い:ふるい 壁画:へきが が 見つかりました:みつかりました 。|Một bức bích họa cổ đã được phát hiện.
+肖像:しょうぞう|chân dung|王:おう の 肖像:しょうぞう が 飾って:かざって あります 。|Chân dung nhà vua được treo trang trọng.
+抽象:ちゅうしょう|trừu tượng|彼:かれ の 絵:え は 抽象:ちゅうしょう 的:てき です 。|Tranh của ông ấy mang tính trừu tượng.
+写実:しゃじつ|tả thực|この 画家:がか は 写実:しゃじつ の 絵:え を 描きます:かきます 。|Họa sĩ này vẽ tranh tả thực.
+陳列:ちんれつ|trưng bày (hàng hóa)|棚:たな に 商品:しょうひん を 陳列:ちんれつ します 。|Trưng bày hàng trên kệ.
+所蔵:しょぞう|lưu giữ (trong bộ sưu tập)|この 美術館:びじゅつかん は 有名:ゆうめい な 絵:え を 所蔵:しょぞう して います 。|Bảo tàng mỹ thuật này lưu giữ các bức tranh nổi tiếng.
+韻:いん|vần (thơ)|この 詩:し は 韻:いん を 踏んで:ふんで います 。|Bài thơ này có gieo vần.
+叙事:じょじ|tự sự|これ は 古い:ふるい 叙事:じょじ の 詩:し です 。|Đây là bài thơ tự sự cổ.
+抒情:じょじょう|trữ tình|彼:かれ は 抒情:じょじょう の 詩:し を 書きます:かきます 。|Ông ấy viết thơ trữ tình.
+絶滅危惧:ぜつめつきぐ|có nguy cơ tuyệt chủng|この 鳥:とり は 絶滅危惧:ぜつめつきぐ の 種:しゅ です 。|Loài chim này là loài có nguy cơ tuyệt chủng.
+森林伐採:しんりんばっさい|chặt phá rừng|森林伐採:しんりんばっさい で 動物:どうぶつ が 減りました:へりました 。|Động vật giảm đi vì chặt phá rừng.

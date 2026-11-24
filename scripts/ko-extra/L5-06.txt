@@ -1,0 +1,66 @@
+=5
+@Lao động và phúc lợi|Chính sách xã hội
+단체교섭|thương lượng tập thể|회사와 단체교섭을 진행합니다.|Tiến hành thương lượng tập thể với công ty.
+최저임금|lương tối thiểu|최저임금이 인상되었습니다.|Lương tối thiểu đã được tăng.
+비정규직|lao động không chính thức|비정규직 문제가 심각합니다.|Vấn đề lao động không chính thức nghiêm trọng.
+해고|sự sa thải|부당한 해고를 당했습니다.|Đã bị sa thải bất công.
+실업급여|trợ cấp thất nghiệp|실업급여를 신청했습니다.|Tôi đã xin trợ cấp thất nghiệp.
+산업재해|tai nạn lao động|산업재해를 예방해야 합니다.|Phải phòng tránh tai nạn lao động.
+근로기준법|luật tiêu chuẩn lao động|근로기준법을 지켜야 합니다.|Phải tuân thủ luật tiêu chuẩn lao động.
+육아휴직|nghỉ phép nuôi con|육아휴직을 사용했습니다.|Tôi đã dùng kỳ nghỉ phép nuôi con.
+정년|tuổi nghỉ hưu quy định|정년이 연장되었습니다.|Tuổi nghỉ hưu đã được kéo dài.
+국민연금|lương hưu quốc dân|국민연금을 매달 냅니다.|Hằng tháng đóng lương hưu quốc dân.
+건강보험|bảo hiểm y tế|건강보험에 가입되어 있습니다.|Tôi đã tham gia bảo hiểm y tế.
+기초생활|mức sống cơ bản|기초생활 수급자를 지원합니다.|Hỗ trợ người nhận trợ cấp mức sống cơ bản.
+복지시설|cơ sở phúc lợi|노인 복지시설을 방문했습니다.|Đã thăm cơ sở phúc lợi người cao tuổi.
+저소득층|tầng lớp thu nhập thấp|저소득층을 위한 정책입니다.|Đó là chính sách dành cho tầng lớp thu nhập thấp.
+취약계층|tầng lớp dễ tổn thương|취약계층을 보호합니다.|Bảo vệ tầng lớp dễ tổn thương.
+일자리창출|tạo việc làm|정부가 일자리창출에 힘씁니다.|Chính phủ dốc sức tạo việc làm.
+고용불안|bất ổn việc làm|고용불안이 커지고 있습니다.|Bất ổn việc làm đang gia tăng.
+재취업|tái tìm việc|재취업 교육을 받았습니다.|Tôi đã học lớp đào tạo tái tìm việc.
+@Thương mại và ngoại giao|Quan hệ quốc tế chuyên sâu
+자유무역|thương mại tự do|자유무역 협정을 체결했습니다.|Đã ký hiệp định thương mại tự do.
+보호무역|bảo hộ mậu dịch|보호무역 정책이 강화됩니다.|Chính sách bảo hộ mậu dịch được tăng cường.
+무역수지|cán cân thương mại|무역수지가 적자입니다.|Cán cân thương mại thâm hụt.
+통상|thông thương|두 나라의 통상 마찰이 심합니다.|Xung đột thông thương hai nước gay gắt.
+단교|việc cắt quan hệ ngoại giao|두 나라가 단교를 선언했습니다.|Hai nước đã tuyên bố cắt quan hệ ngoại giao.
+공동성명|tuyên bố chung|회담 후 공동성명을 발표했습니다.|Sau hội đàm đã ra tuyên bố chung.
+비준|sự phê chuẩn (hiệp ước)|국회가 조약을 비준했습니다.|Quốc hội đã phê chuẩn hiệp ước.
+영유권|chủ quyền lãnh thổ|섬의 영유권을 주장합니다.|Tuyên bố chủ quyền lãnh thổ đối với hòn đảo.
+망명|sự lưu vong|그는 외국으로 망명했습니다.|Ông ấy đã lưu vong ra nước ngoài.
+군비|quân bị|군비 경쟁이 치열합니다.|Chạy đua quân bị quyết liệt.
+@Toán học và thiên văn|Thuật ngữ khoa học cơ bản
+방정식|phương trình|방정식을 풉니다.|Giải phương trình.
+함수|hàm số|함수의 그래프를 그립니다.|Vẽ đồ thị hàm số.
+확률|xác suất|성공할 확률이 높습니다.|Xác suất thành công cao.
+기하학|hình học|기하학 문제를 풉니다.|Giải bài hình học.
+미적분|vi tích phân|대학에서 미적분을 배웁니다.|Học vi tích phân ở đại học.
+소수|số thập phân; thiểu số|소수 둘째 자리까지 계산합니다.|Tính đến chữ số thập phân thứ hai.
+정수|số nguyên; máy lọc nước|정수만 입력하세요.|Hãy chỉ nhập số nguyên.
+반지름|bán kính|원의 반지름을 구합니다.|Tìm bán kính hình tròn.
+둘레|chu vi|호수의 둘레를 걷습니다.|Đi bộ quanh chu vi hồ.
+각도|góc độ|각도를 잽니다.|Đo góc độ.
+대각선|đường chéo|대각선을 긋습니다.|Kẻ đường chéo.
+평행|song song|두 선이 평행입니다.|Hai đường thẳng song song.
+수직|thẳng đứng, vuông góc|두 선이 수직으로 만납니다.|Hai đường thẳng gặp nhau vuông góc.
+항성|hằng tinh, sao|태양은 항성입니다.|Mặt trời là một hằng tinh.
+위성|vệ tinh|인공 위성을 발사했습니다.|Đã phóng vệ tinh nhân tạo.
+혜성|sao chổi|혜성이 지구에 접근합니다.|Sao chổi tiến gần trái đất.
+일식|nhật thực; món Nhật|오늘 일식이 일어납니다.|Hôm nay xảy ra nhật thực.
+월식|nguyệt thực|어젯밤 월식을 관찰했습니다.|Tối qua tôi đã quan sát nguyệt thực.
+공전|sự quay quanh (thiên thể)|지구의 공전 주기는 일 년입니다.|Chu kỳ quay quanh Mặt trời của trái đất là một năm.
+자전|sự tự quay|지구의 자전으로 낮과 밤이 생깁니다.|Ngày và đêm sinh ra do trái đất tự quay.
+광년|năm ánh sáng|그 별은 십 광년 떨어져 있습니다.|Ngôi sao đó cách mười năm ánh sáng.
+천문대|đài thiên văn|천문대에서 별을 봅니다.|Ngắm sao ở đài thiên văn.
+@Dân sự thường ngày|Hợp đồng và thừa kế
+약관|điều khoản quy ước|보험 약관을 꼼꼼히 읽습니다.|Đọc kỹ điều khoản bảo hiểm.
+위약금|tiền phạt vi phạm hợp đồng|계약을 깨면 위약금을 냅니다.|Phá hợp đồng thì nộp tiền phạt.
+보증인|người bảo lãnh|대출에 보증인이 필요합니다.|Khoản vay cần người bảo lãnh.
+상속|sự thừa kế|재산 상속 문제로 다툽니다.|Tranh cãi vì vấn đề thừa kế tài sản.
+유언장|di chúc|유언장을 작성했습니다.|Đã lập di chúc.
+증여|sự tặng cho (tài sản)|자녀에게 재산을 증여했습니다.|Đã tặng cho con cái tài sản.
+소유권|quyền sở hữu|토지의 소유권을 이전합니다.|Chuyển quyền sở hữu đất.
+명예훼손|phỉ báng danh dự|명예훼손으로 고소했습니다.|Đã kiện vì tội phỉ báng danh dự.
+손해배상|bồi thường thiệt hại|손해배상을 청구했습니다.|Đã yêu cầu bồi thường thiệt hại.
+합의금|tiền hòa giải|합의금을 주고 사건을 끝냈습니다.|Đã trả tiền hòa giải và kết thúc vụ việc.
+공증|công chứng|서류를 공증받았습니다.|Đã công chứng giấy tờ.

@@ -1,0 +1,69 @@
+=5
+@Quân sự và an ninh|Quốc phòng
+국방|quốc phòng|국방 예산을 늘렸습니다.|Đã tăng ngân sách quốc phòng.
+입대|việc nhập ngũ|다음 달에 입대를 합니다.|Tháng sau tôi nhập ngũ.
+제대|việc xuất ngũ|작년에 제대를 했습니다.|Năm ngoái tôi đã xuất ngũ.
+육군|lục quân|형은 육군에서 복무했습니다.|Anh tôi đã phục vụ trong lục quân.
+해군|hải quân|해군 함정이 출항했습니다.|Tàu hải quân đã xuất cảng.
+공군|không quân|공군 조종사가 되고 싶습니다.|Tôi muốn thành phi công không quân.
+장교|sĩ quan|그는 육군 장교입니다.|Anh ấy là sĩ quan lục quân.
+병사|binh sĩ|병사들이 훈련을 받습니다.|Binh sĩ được huấn luyện.
+부대|đơn vị quân đội|부대로 복귀했습니다.|Đã trở về đơn vị.
+훈련소|trại huấn luyện|훈련소에서 오 주를 보냈습니다.|Đã trải qua năm tuần ở trại huấn luyện.
+미사일|tên lửa|미사일을 발사했습니다.|Đã phóng tên lửa.
+전투기|máy bay chiến đấu|전투기가 하늘을 납니다.|Máy bay chiến đấu bay trên trời.
+잠수함|tàu ngầm|잠수함이 바다 밑을 다닙니다.|Tàu ngầm đi dưới đáy biển.
+침략|sự xâm lược|외국의 침략을 받았습니다.|Đã bị nước ngoài xâm lược.
+방어|sự phòng ngự|방어 체계를 갖췄습니다.|Đã có hệ thống phòng ngự.
+정전협정|hiệp định đình chiến|정전협정을 체결했습니다.|Đã ký hiệp định đình chiến.
+비무장지대|khu phi quân sự|비무장지대를 견학합니다.|Tham quan khu phi quân sự.
+첩보|tin tình báo|첩보를 입수했습니다.|Đã thu được tin tình báo.
+@Tội phạm và điều tra|Pháp y, hình sự
+수사|việc điều tra (hình sự)|경찰이 수사를 시작했습니다.|Cảnh sát đã bắt đầu điều tra.
+진술|lời khai|진술이 서로 다릅니다.|Lời khai khác nhau.
+자백|sự thú tội|범인이 자백을 했습니다.|Thủ phạm đã thú tội.
+알리바이|chứng cứ ngoại phạm|그에게는 알리바이가 있습니다.|Anh ta có chứng cứ ngoại phạm.
+유전자감식|giám định gen|유전자감식으로 범인을 찾았습니다.|Đã tìm ra thủ phạm bằng giám định gen.
+부검|khám nghiệm tử thi|부검 결과가 나왔습니다.|Đã có kết quả khám nghiệm tử thi.
+압수|sự tịch thu|증거물을 압수했습니다.|Đã tịch thu vật chứng.
+수색|sự lục soát|집을 수색했습니다.|Đã lục soát ngôi nhà.
+영장|lệnh (bắt, khám)|법원이 영장을 발부했습니다.|Tòa án đã ban hành lệnh.
+횡령|biển thủ|회사 돈을 횡령했습니다.|Đã biển thủ tiền công ty.
+탈세|trốn thuế|탈세 혐의로 조사받습니다.|Bị điều tra vì tình nghi trốn thuế.
+밀수|buôn lậu|밀수를 적발했습니다.|Đã phát hiện buôn lậu.
+위조|sự làm giả|여권 위조가 드러났습니다.|Việc làm giả hộ chiếu đã lộ ra.
+납치|bắt cóc|아이 납치 사건이 발생했습니다.|Đã xảy ra vụ bắt cóc trẻ em.
+협박|sự đe dọa|협박 전화를 받았습니다.|Đã nhận cuộc gọi đe dọa.
+보이스피싱|lừa đảo qua điện thoại|보이스피싱 피해가 늘었습니다.|Thiệt hại do lừa đảo qua điện thoại đã tăng.
+전과|tiền án|그는 전과가 없습니다.|Anh ta không có tiền án.
+@Địa lý và khí hậu học|Thuật ngữ địa chất
+위도|vĩ độ|서울의 위도는 북위 삼십칠 도입니다.|Vĩ độ của Seoul là ba mươi bảy độ vĩ bắc.
+경도|kinh độ|경도에 따라 시간이 다릅니다.|Giờ khác nhau theo kinh độ.
+한대|hàn đới|한대 지방에는 나무가 적습니다.|Vùng hàn đới ít cây.
+해협|eo biển|배가 해협을 지나갑니다.|Tàu đi qua eo biển.
+고원|cao nguyên|고원 지대는 시원합니다.|Vùng cao nguyên mát mẻ.
+해류|hải lưu|따뜻한 해류가 흐릅니다.|Dòng hải lưu ấm chảy qua.
+강수량|lượng mưa|여름에 강수량이 많습니다.|Mùa hè lượng mưa nhiều.
+기압|khí áp|기압이 낮아지면 비가 옵니다.|Khí áp xuống thấp thì mưa.
+집중호우|mưa lớn tập trung|집중호우로 피해가 컸습니다.|Thiệt hại lớn do mưa lớn tập trung.
+용암|dung nham|화산에서 용암이 흘러나옵니다.|Dung nham chảy ra từ núi lửa.
+지진대|vành đai động đất|일본은 지진대에 있습니다.|Nhật Bản nằm trên vành đai động đất.
+@Thuế và bảo hiểm|Tài chính cá nhân nâng cao
+소득세|thuế thu nhập|소득세를 신고합니다.|Khai thuế thu nhập.
+부가가치세|thuế giá trị gia tăng|가격에 부가가치세가 포함됩니다.|Giá đã gồm thuế giá trị gia tăng.
+재산세|thuế tài sản|재산세를 납부했습니다.|Đã nộp thuế tài sản.
+상속세|thuế thừa kế|상속세가 많이 나왔습니다.|Thuế thừa kế phải nộp rất nhiều.
+연말정산|quyết toán thuế cuối năm|연말정산 서류를 냅니다.|Nộp hồ sơ quyết toán thuế cuối năm.
+공제|sự khấu trừ|세금 공제를 받았습니다.|Đã được khấu trừ thuế.
+환급|sự hoàn tiền|세금을 환급받았습니다.|Đã được hoàn thuế.
+체납|sự chậm nộp|세금 체납으로 벌금을 냅니다.|Nộp phạt vì chậm nộp thuế.
+보험료|phí bảo hiểm|매달 보험료를 냅니다.|Hằng tháng đóng phí bảo hiểm.
+보험금|tiền bảo hiểm chi trả|사고 후 보험금을 받았습니다.|Sau tai nạn đã nhận tiền bảo hiểm.
+가입자|người tham gia|보험 가입자가 늘었습니다.|Người tham gia bảo hiểm đã tăng.
+만기|sự đáo hạn|적금이 만기가 되었습니다.|Khoản tiết kiệm đã đáo hạn.
+해약|sự hủy hợp đồng|보험을 해약했습니다.|Đã hủy hợp đồng bảo hiểm.
+원금|tiền gốc|원금과 이자를 갚습니다.|Trả tiền gốc và lãi.
+연체|sự quá hạn trả|카드 대금이 연체되었습니다.|Tiền thẻ đã quá hạn trả.
+신용등급|hạng tín dụng|신용등급이 올랐습니다.|Hạng tín dụng đã lên.
+노후자금|quỹ dưỡng già|노후자금을 준비합니다.|Chuẩn bị quỹ dưỡng già.
+재테크|đầu tư quản lý tài sản|재테크에 관심이 많습니다.|Tôi rất quan tâm đến đầu tư quản lý tài sản.

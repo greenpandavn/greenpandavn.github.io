@@ -3,7 +3,7 @@
   {"unit":42,"level":4,"title":"Phần 2: Khoa học và tri thức","desc":"Khoa học, công nghệ, y học, giáo dục, nghệ thuật","color":"sky","course":"ja"}
  ],
  "lessons": [
-  {"id":"ja406","title":"Khoa học","desc":"Thí nghiệm, vũ trụ, vật chất","icon":"科","unit":42,"course":"ja","order":510,"words":[
+  {"id":"ja406","title":"Khoa học","desc":"Thí nghiệm, vũ trụ, vật chất","icon":"科","unit":42,"course":"ja","order":2550,"words":[
    {"id":"ja406-科学","hanzi":"科学","pinyin":"kagaku","vi":"khoa học","ex":{"tokens":["科学","の","本","を","読む","の","が","好き","です","。"],"py":["kagaku","no","hon","o","yomu","no","ga","suki","desu","."],"vi":"Tôi thích đọc sách khoa học.","alts":[]}},
    {"id":"ja406-実験","hanzi":"実験","pinyin":"jikken","vi":"thí nghiệm","ex":{"tokens":["学生","が","教室","で","実験","を","して","います","。"],"py":["gakusei","ga","kyoushitsu","de","jikken","o","shite","imasu","."],"vi":"Sinh viên đang làm thí nghiệm trong lớp.","alts":[]}},
    {"id":"ja406-研究","hanzi":"研究","pinyin":"kenkyuu","vi":"nghiên cứu","ex":{"tokens":["姉","は","大学","で","薬","を","研究","して","います","。"],"py":["ane","wa","daigaku","de","kusuri","o","kenkyuu","shite","imasu","."],"vi":"Chị tôi nghiên cứu thuốc ở đại học.","alts":[]}},
@@ -17,7 +17,7 @@
    {"id":"ja406-酸素","hanzi":"酸素","pinyin":"sanso","vi":"khí oxy","ex":{"tokens":["山","の","上","は","酸素","が","少ない","です","。"],"py":["yama","no","ue","wa","sanso","ga","sukunai","desu","."],"vi":"Trên núi cao ít oxy.","alts":[]}},
    {"id":"ja406-温度","hanzi":"温度","pinyin":"ondo","vi":"nhiệt độ","ex":{"tokens":["部屋","の","温度","を","下げて","ください","。"],"py":["heya","no","ondo","o","sagete","kudasai","."],"vi":"Hãy hạ nhiệt độ phòng xuống.","alts":[]}}
   ]},
-  {"id":"ja407","title":"Công nghệ","desc":"Máy móc, phát triển, sửa chữa","icon":"技","unit":42,"course":"ja","order":520,"words":[
+  {"id":"ja407","title":"Công nghệ","desc":"Máy móc, phát triển, sửa chữa","icon":"技","unit":42,"course":"ja","order":2560,"words":[
    {"id":"ja407-技術","hanzi":"技術","pinyin":"gijutsu","vi":"kỹ thuật, công nghệ","ex":{"tokens":["日本","の","技術","は","有名","です","。"],"py":["nihon","no","gijutsu","wa","yuumei","desu","."],"vi":"Công nghệ Nhật Bản nổi tiếng.","alts":[]}},
    {"id":"ja407-機械","hanzi":"機械","pinyin":"kikai","vi":"máy móc","ex":{"tokens":["この","機械","は","使い方","が","簡単","です","。"],"py":["kono","kikai","wa","tsukaikata","ga","kantan","desu","."],"vi":"Cái máy này dễ dùng.","alts":[]}},
    {"id":"ja407-装置","hanzi":"装置","pinyin":"souchi","vi":"thiết bị","ex":{"tokens":["新しい","装置","を","工場","に","入れました","。"],"py":["atarashii","souchi","o","koujou","ni","iremashita","."],"vi":"Chúng tôi đã đưa thiết bị mới vào nhà máy.","alts":[]}},
@@ -31,7 +31,7 @@
    {"id":"ja407-人工知能","hanzi":"人工知能","pinyin":"jinkouchinou","vi":"trí tuệ nhân tạo","ex":{"tokens":["人工知能","が","文","を","翻訳","します","。"],"py":["jinkouchinou","ga","bun","o","hon'yaku","shimasu","."],"vi":"Trí tuệ nhân tạo dịch câu văn.","alts":[]}},
    {"id":"ja407-充電","hanzi":"充電","pinyin":"juuden","vi":"sạc pin","ex":{"tokens":["寝る","前","に","携帯","を","充電","します","。"],"py":["neru","mae","ni","keitai","o","juuden","shimasu","."],"vi":"Trước khi ngủ tôi sạc điện thoại.","alts":[]}}
   ]},
-  {"id":"ja408","title":"Y học","desc":"Điều trị, phòng bệnh, cơ thể","icon":"医","unit":42,"course":"ja","order":530,"words":[
+  {"id":"ja408","title":"Y học","desc":"Điều trị, phòng bệnh, cơ thể","icon":"医","unit":42,"course":"ja","order":2570,"words":[
    {"id":"ja408-治療","hanzi":"治療","pinyin":"chiryou","vi":"điều trị","ex":{"tokens":["祖母","は","病院","で","治療","を","受けて","います","。"],"py":["sobo","wa","byouin","de","chiryou","o","ukete","imasu","."],"vi":"Bà tôi đang điều trị ở bệnh viện.","alts":[]}},
    {"id":"ja408-患者","hanzi":"患者","pinyin":"kanja","vi":"bệnh nhân","ex":{"tokens":["医者","が","患者","に","説明","しました","。"],"py":["isha","ga","kanja","ni","setsumei","shimashita","."],"vi":"Bác sĩ đã giải thích cho bệnh nhân.","alts":[]}},
    {"id":"ja408-感染","hanzi":"感染","pinyin":"kansen","vi":"lây nhiễm","ex":{"tokens":["風邪","が","家族","に","感染","しました","。"],"py":["kaze","ga","kazoku","ni","kansen","shimashita","."],"vi":"Bệnh cảm đã lây sang gia đình.","alts":[]}},
@@ -45,7 +45,7 @@
    {"id":"ja408-寿命","hanzi":"寿命","pinyin":"jumyou","vi":"tuổi thọ","ex":{"tokens":["日本人","は","寿命","が","長い","です","。"],"py":["nihonjin","wa","jumyou","ga","nagai","desu","."],"vi":"Người Nhật có tuổi thọ cao.","alts":[]}},
    {"id":"ja408-救急車","hanzi":"救急車","pinyin":"kyuukyuusha","vi":"xe cấp cứu","ex":{"tokens":["すぐ","に","救急車","を","呼んで","ください","。"],"py":["sugu","ni","kyuukyuusha","o","yonde","kudasai","."],"vi":"Hãy gọi xe cấp cứu ngay.","alts":[]}}
   ]},
-  {"id":"ja409","title":"Giáo dục và nghiên cứu","desc":"Kiến thức, phân tích, đánh giá","icon":"育","unit":42,"course":"ja","order":540,"words":[
+  {"id":"ja409","title":"Giáo dục và nghiên cứu","desc":"Kiến thức, phân tích, đánh giá","icon":"育","unit":42,"course":"ja","order":2580,"words":[
    {"id":"ja409-教育","hanzi":"教育","pinyin":"kyouiku","vi":"giáo dục","ex":{"tokens":["親","は","子供","の","教育","に","熱心","です","。"],"py":["oya","wa","kodomo","no","kyouiku","ni","nesshin","desu","."],"vi":"Cha mẹ rất tâm huyết với việc giáo dục con.","alts":[]}},
    {"id":"ja409-知識","hanzi":"知識","pinyin":"chishiki","vi":"kiến thức","ex":{"tokens":["彼","は","歴史","の","知識","が","多い","です","。"],"py":["kare","wa","rekishi","no","chishiki","ga","ooi","desu","."],"vi":"Anh ấy có nhiều kiến thức lịch sử.","alts":[]}},
    {"id":"ja409-理解","hanzi":"理解","pinyin":"rikai","vi":"hiểu, lĩnh hội","ex":{"tokens":["先生","の","説明","を","理解","しました","。"],"py":["sensei","no","setsumei","o","rikai","shimashita","."],"vi":"Tôi đã hiểu lời giải thích của thầy.","alts":[]}},
@@ -59,7 +59,7 @@
    {"id":"ja409-指導","hanzi":"指導","pinyin":"shidou","vi":"hướng dẫn, chỉ đạo","ex":{"tokens":["先生","が","学生","を","丁寧","に","指導","します","。"],"py":["sensei","ga","gakusei","o","teinei","ni","shidou","shimasu","."],"vi":"Thầy hướng dẫn sinh viên tận tình.","alts":[]}},
    {"id":"ja409-評価","hanzi":"評価","pinyin":"hyouka","vi":"đánh giá","ex":{"tokens":["先生","は","私","の","作文","を","高く","評価","しました","。"],"py":["sensei","wa","watashi","no","sakubun","o","takaku","hyouka","shimashita","."],"vi":"Thầy đã đánh giá cao bài văn của tôi.","alts":[]}}
   ]},
-  {"id":"ja410","title":"Văn hóa nghệ thuật","desc":"Tác phẩm, truyền thống, xuất bản","icon":"芸","unit":42,"course":"ja","order":550,"words":[
+  {"id":"ja410","title":"Văn hóa nghệ thuật","desc":"Tác phẩm, truyền thống, xuất bản","icon":"芸","unit":42,"course":"ja","order":2590,"words":[
    {"id":"ja410-芸術","hanzi":"芸術","pinyin":"geijutsu","vi":"nghệ thuật","ex":{"tokens":["彼女","は","芸術","に","興味","が","あります","。"],"py":["kanojo","wa","geijutsu","ni","kyoumi","ga","arimasu","."],"vi":"Cô ấy quan tâm đến nghệ thuật.","alts":[]}},
    {"id":"ja410-作品","hanzi":"作品","pinyin":"sakuhin","vi":"tác phẩm","ex":{"tokens":["この","作品","は","とても","有名","です","。"],"py":["kono","sakuhin","wa","totemo","yuumei","desu","."],"vi":"Tác phẩm này rất nổi tiếng.","alts":[]}},
    {"id":"ja410-伝統","hanzi":"伝統","pinyin":"dentou","vi":"truyền thống","ex":{"tokens":["この","祭り","は","長い","伝統","が","あります","。"],"py":["kono","matsuri","wa","nagai","dentou","ga","arimasu","."],"vi":"Lễ hội này có truyền thống lâu đời.","alts":[]}},

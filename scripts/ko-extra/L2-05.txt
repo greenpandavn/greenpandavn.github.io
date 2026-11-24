@@ -1,0 +1,123 @@
+=2
+@Quan hệ và giao tiếp|Bạn bè, hẹn hò, trò chuyện
+우정|tình bạn|우리의 우정은 깊습니다.|Tình bạn của chúng tôi sâu sắc.
+애인|người yêu|애인과 영화를 봅니다.|Tôi xem phim với người yêu.
+데이트|buổi hẹn hò|주말에 데이트를 합니다.|Cuối tuần tôi hẹn hò.
+고백|lời tỏ tình|친구에게 고백을 했습니다.|Tôi đã tỏ tình với bạn.
+첫사랑|mối tình đầu|첫사랑을 기억합니다.|Tôi nhớ mối tình đầu.
+이별|sự chia ly|이별은 슬픕니다.|Chia ly thật buồn.
+단짝|bạn thân nhất|그 친구는 제 단짝입니다.|Bạn ấy là bạn thân nhất của tôi.
+모임장소|địa điểm họp mặt|모임장소를 정합니다.|Chúng tôi quyết định địa điểm họp mặt.
+별명|biệt danh|제 별명은 곰입니다.|Biệt danh của tôi là Gấu.
+비밀|bí mật|이것은 비밀입니다.|Đây là bí mật.
+사과하다|xin lỗi (hành động)|친구에게 사과합니다.|Tôi xin lỗi bạn.
+용서하다|tha thứ|저를 용서해 주세요.|Xin hãy tha thứ cho tôi.
+부탁하다|nhờ vả|친구에게 일을 부탁합니다.|Tôi nhờ bạn một việc.
+거절하다|từ chối|초대를 거절했습니다.|Tôi đã từ chối lời mời.
+소개하다|giới thiệu|친구를 부모님에게 소개합니다.|Tôi giới thiệu bạn với bố mẹ.
+대접하다|thết đãi|손님에게 차를 대접합니다.|Tôi mời khách dùng trà.
+돌보다|chăm sóc|할머니가 아이를 돌봅니다.|Bà chăm sóc đứa bé.
+친하다|thân thiết|우리는 아주 친합니다.|Chúng tôi rất thân thiết.
+어색하다|ngượng ngùng, gượng gạo|처음 만나서 어색합니다.|Mới gặp lần đầu nên ngượng ngùng.
+반말|lối nói trống không|친구에게는 반말을 합니다.|Với bạn bè thì tôi nói trống không.
+수다|chuyện phiếm|친구와 수다를 떱니다.|Tôi tán chuyện phiếm với bạn.
+이름표|bảng tên|가슴에 이름표를 답니다.|Tôi đeo bảng tên trên ngực.
+@Thời gian và trình tự|Diễn đạt khi nào, bao lâu
+하루|một ngày|하루에 여덟 시간 일합니다.|Một ngày tôi làm việc tám tiếng.
+이틀|hai ngày|이틀 동안 쉬었습니다.|Tôi đã nghỉ hai ngày.
+사흘|ba ngày|사흘 후에 돌아옵니다.|Ba ngày sau tôi quay lại.
+며칠|mấy ngày|며칠 동안 여행합니까?|Bạn du lịch mấy ngày?
+일주일|một tuần|일주일에 한 번 운동합니다.|Một tuần tôi tập thể dục một lần.
+한달|một tháng|한달 전에 이사했습니다.|Một tháng trước tôi đã chuyển nhà.
+매주|hằng tuần|매주 토요일에 등산합니다.|Thứ bảy hằng tuần tôi leo núi.
+매달|hằng tháng|매달 집세를 냅니다.|Hằng tháng tôi trả tiền nhà.
+매년|hằng năm|매년 고향에 갑니다.|Hằng năm tôi về quê.
+동안|trong khoảng (thời gian)|방학 동안 한국에 있었습니다.|Trong kỳ nghỉ tôi đã ở Hàn Quốc.
+이전|trước đây|이전에는 부산에 살았습니다.|Trước đây tôi sống ở Busan.
+이후|sau đó, từ đó về sau|졸업 이후에 취직했습니다.|Sau khi tốt nghiệp tôi đã đi làm.
+최근|gần đây|최근에 영화를 봤습니다.|Gần đây tôi đã xem phim.
+옛날|ngày xưa|옛날에 왕이 살았습니다.|Ngày xưa có một vị vua.
+미래|tương lai|미래를 준비합니다.|Tôi chuẩn bị cho tương lai.
+과거|quá khứ|과거를 잊으세요.|Hãy quên quá khứ đi.
+현재|hiện tại|현재 서울에 삽니다.|Hiện tại tôi sống ở Seoul.
+순서|thứ tự|순서대로 들어오세요.|Hãy vào theo thứ tự.
+차례|lượt|제 차례가 왔습니다.|Đã đến lượt tôi.
+기간|thời hạn, khoảng thời gian|시험 기간에는 바쁩니다.|Trong thời gian thi tôi bận.
+잠시|một lát|잠시 기다려 주세요.|Xin đợi một lát.
+오랫동안|trong thời gian dài|오랫동안 기다렸습니다.|Tôi đã đợi rất lâu.
+아직도|vẫn còn|아직도 비가 옵니다.|Trời vẫn còn mưa.
+이제|bây giờ thì, từ nay|이제 집에 갑시다.|Bây giờ thì chúng ta về nhà thôi.
+그때|lúc đó|그때 저는 학생이었습니다.|Lúc đó tôi là học sinh.
+언젠가|một ngày nào đó|언젠가 한국에 가고 싶습니다.|Một ngày nào đó tôi muốn đi Hàn Quốc.
+동시에|đồng thời|두 사람이 동시에 말했습니다.|Hai người nói cùng một lúc.
+@Từ nối và diễn đạt|Liên kết câu
+그런데도|thế mà vẫn|비가 옵니다. 그런데도 나갑니다.|Trời mưa. Thế mà tôi vẫn ra ngoài.
+그러니까|vì vậy cho nên|늦었습니다. 그러니까 택시를 탑시다.|Muộn rồi. Vì vậy chúng ta đi taxi thôi.
+그래야|phải vậy thì mới|일찍 자세요. 그래야 일찍 일어납니다.|Hãy ngủ sớm. Phải vậy thì mới dậy sớm được.
+그렇지만|nhưng mà|춥습니다. 그렇지만 기분이 좋습니다.|Lạnh. Nhưng mà tâm trạng tốt.
+아니면|hoặc là|커피 아니면 차를 드릴까요?|Tôi mời cà phê hoặc là trà nhé?
+또는|hay là (văn viết)|전화 또는 이메일로 연락하세요.|Hãy liên lạc bằng điện thoại hay là email.
+예를들면|ví dụ như|과일, 예를들면 사과를 좋아합니다.|Tôi thích hoa quả, ví dụ như táo.
+때문에|vì, do|비 때문에 못 갑니다.|Vì mưa nên tôi không đi được.
+대신|thay vào đó|커피 대신 차를 마십니다.|Tôi uống trà thay cà phê.
+만큼|bằng, ngang với|동생은 형만큼 큽니다.|Em cao bằng anh.
+처럼|giống như|새처럼 날고 싶습니다.|Tôi muốn bay như chim.
+마다|mỗi, mọi|날마다 운동합니다.|Ngày nào tôi cũng tập thể dục.
+부터|từ (thời điểm)|아홉 시부터 일합니다.|Tôi làm việc từ chín giờ.
+까지|đến (giới hạn)|여섯 시까지 일합니다.|Tôi làm việc đến sáu giờ.
+정도|khoảng, mức độ|한 시간 정도 걸립니다.|Mất khoảng một tiếng.
+쯤|chừng, khoảng (sau số)|세 시쯤 만납시다.|Chúng ta gặp nhau chừng ba giờ nhé.
+아마도|có lẽ là|아마도 내일 비가 올 겁니다.|Có lẽ là ngày mai trời mưa.
+혹시|liệu có… không, nhỡ đâu|혹시 김 선생님이십니까?|Liệu ông có phải là thầy Kim không ạ?
+물어보다|hỏi thử|길을 물어봅니다.|Tôi hỏi thử đường.
+알아보다|tìm hiểu; nhận ra|가격을 알아봅니다.|Tôi tìm hiểu giá.
+생각나다|chợt nhớ ra|그 사람의 이름이 생각났습니다.|Tôi chợt nhớ ra tên người đó.
+@Ăn uống ngoài hàng|Quán xá và món ăn
+분식집|quán ăn nhẹ|분식집에서 김밥을 먹습니다.|Tôi ăn cơm cuộn ở quán ăn nhẹ.
+중국집|quán ăn Trung Quốc|중국집에서 짜장면을 시킵니다.|Tôi gọi mì tương đen ở quán Trung Quốc.
+짜장면|mì tương đen|이사하는 날 짜장면을 먹습니다.|Ngày chuyển nhà người ta ăn mì tương đen.
+짬뽕|mì hải sản cay|짬뽕은 국물이 맵습니다.|Mì hải sản cay có nước dùng cay.
+돈가스|thịt lợn tẩm bột rán|아이들은 돈가스를 좋아합니다.|Bọn trẻ thích thịt lợn tẩm bột rán.
+초밥|cơm nắm cá sống|일식집에서 초밥을 먹습니다.|Tôi ăn sushi ở quán Nhật.
+스파게티|mì Ý|점심에 스파게티를 먹었습니다.|Buổi trưa tôi đã ăn mì Ý.
+샐러드|rau trộn|샐러드를 먼저 먹습니다.|Tôi ăn rau trộn trước.
+수프|súp|따뜻한 수프를 마십니다.|Tôi dùng súp ấm.
+볶음밥|cơm rang|김치로 볶음밥을 만듭니다.|Tôi làm cơm rang kim chi.
+순두부|đậu phụ non|순두부 찌개가 맛있습니다.|Canh đậu phụ non ngon.
+잡채|miến trộn|잔치에 잡채를 만듭니다.|Tiệc mừng thì làm miến trộn.
+전|bánh rán kiểu Hàn|비 오는 날에 전을 부칩니다.|Ngày mưa người ta rán bánh.
+국물|nước dùng|국물이 시원합니다.|Nước dùng thanh mát.
+후식|món tráng miệng|후식으로 과일을 먹습니다.|Tôi ăn hoa quả tráng miệng.
+음료수|nước giải khát|음료수를 한 병 삽니다.|Tôi mua một chai nước giải khát.
+빨대|ống hút|빨대로 주스를 마십니다.|Tôi uống nước ép bằng ống hút.
+냅킨|giấy ăn|냅킨을 좀 주세요.|Cho tôi xin ít giấy ăn.
+일인분|một suất ăn|불고기 일인분 주세요.|Cho tôi một suất thịt bò xào.
+곱빼기|suất gấp đôi|짜장면 곱빼기를 시킵니다.|Tôi gọi suất mì tương đen gấp đôi.
+단골|khách quen|저는 이 식당의 단골입니다.|Tôi là khách quen của quán này.
+맛집|quán ăn ngon nổi tiếng|이 동네 맛집을 찾습니다.|Tôi tìm quán ăn ngon ở khu này.
+남기다|để thừa, để lại|음식을 남기지 마세요.|Đừng để thừa thức ăn.
+한턱내다|khao, đãi|오늘은 제가 한턱냅니다.|Hôm nay tôi khao.
+입맛|khẩu vị|한국 음식이 입맛에 맞습니다.|Món Hàn hợp khẩu vị tôi.
+@Giải trí và thư giãn|Thời gian rảnh
+여가|thời gian rảnh rỗi|여가 시간에 책을 읽습니다.|Thời gian rảnh tôi đọc sách.
+놀이공원|công viên giải trí|놀이공원에서 재미있게 놉니다.|Tôi chơi vui ở công viên giải trí.
+미술관|bảo tàng mỹ thuật|미술관에서 그림을 봅니다.|Tôi xem tranh ở bảo tàng mỹ thuật.
+영화관|rạp chiếu phim|영화관에서 팝콘을 먹습니다.|Tôi ăn bỏng ngô ở rạp chiếu phim.
+매진|bán hết vé|표가 매진되었습니다.|Vé đã bán hết.
+예매|việc đặt mua vé trước|영화표 예매를 합니다.|Tôi đặt mua vé xem phim trước.
+자막|phụ đề|한국어 자막으로 봅니다.|Tôi xem bằng phụ đề tiếng Hàn.
+예능|chương trình giải trí|주말에 예능 프로그램을 봅니다.|Cuối tuần tôi xem chương trình giải trí.
+프로그램|chương trình|이 프로그램은 재미있습니다.|Chương trình này thú vị.
+채널|kênh (tivi)|채널을 바꿉니다.|Tôi chuyển kênh.
+바둑|cờ vây|할아버지는 바둑을 둡니다.|Ông tôi chơi cờ vây.
+퍼즐|trò xếp hình|아이가 퍼즐을 맞춥니다.|Đứa bé chơi xếp hình.
+뜨개질|việc đan len|할머니는 뜨개질을 하십니다.|Bà tôi đan len.
+조깅|chạy bộ|아침에 조깅을 합니다.|Buổi sáng tôi chạy bộ.
+헬스장|phòng tập thể hình|퇴근 후에 헬스장에 갑니다.|Sau giờ làm tôi đi phòng tập.
+볼링|bowling|친구들과 볼링을 칩니다.|Tôi chơi bowling với bạn bè.
+배드민턴|cầu lông|공원에서 배드민턴을 칩니다.|Tôi chơi cầu lông ở công viên.
+스케이트|trượt băng|겨울에 스케이트를 탑니다.|Mùa đông tôi trượt băng.
+줄넘기|nhảy dây|아이들이 줄넘기를 합니다.|Bọn trẻ nhảy dây.
+산책|việc đi dạo|저녁에 산책을 합니다.|Buổi tối tôi đi dạo.
+낮잠|giấc ngủ trưa|점심 후에 낮잠을 잡니다.|Sau bữa trưa tôi ngủ trưa.
+휴식|sự nghỉ ngơi|잠시 휴식을 합니다.|Tôi nghỉ ngơi một lát.

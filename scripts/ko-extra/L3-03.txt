@@ -1,0 +1,33 @@
+=3
+@Cảm xúc phức tạp|Tâm trạng nhiều sắc thái
+허전하다|trống trải|친구가 떠나서 마음이 허전합니다.|Bạn đi rồi nên lòng tôi trống trải.
+억울하다|oan ức|잘못이 없는데 혼나서 억울합니다.|Không có lỗi mà bị mắng nên tôi thấy oan ức.
+서운하다|tủi thân, phật lòng|생일을 잊어서 서운합니다.|Bị quên sinh nhật nên tôi tủi thân.
+초조하다|bồn chồn|결과를 기다리며 초조합니다.|Tôi bồn chồn chờ kết quả.
+당황하다|bối rối, hoảng|갑자기 질문을 받아서 당황했습니다.|Bất ngờ bị hỏi nên tôi bối rối.
+흥분하다|phấn khích, kích động|경기를 보며 흥분했습니다.|Tôi phấn khích khi xem trận đấu.
+감격하다|xúc động mạnh|선물을 받고 감격했습니다.|Nhận quà tôi đã xúc động mạnh.
+안심하다|an tâm|소식을 듣고 안심했습니다.|Nghe tin tôi đã an tâm.
+질리다|ngán, phát chán|같은 음식에 질렸습니다.|Tôi đã ngán cùng một món ăn.
+지치다|kiệt sức|일이 많아서 지쳤습니다.|Nhiều việc nên tôi kiệt sức.
+괴롭다|đau khổ, dằn vặt|그 일을 생각하면 괴롭습니다.|Nghĩ đến việc đó tôi thấy dằn vặt.
+쓸쓸하다|hiu quạnh|가을 저녁은 쓸쓸합니다.|Chiều thu hiu quạnh.
+뿌듯하다|mãn nguyện, tự hào|일을 끝내서 뿌듯합니다.|Xong việc nên tôi thấy mãn nguyện.
+홀가분하다|nhẹ nhõm|시험이 끝나서 홀가분합니다.|Thi xong nên tôi thấy nhẹ nhõm.
+민망하다|ngượng, khó xử|실수를 해서 민망합니다.|Mắc lỗi nên tôi thấy ngượng.
+얄밉다|đáng ghét|동생이 가끔 얄밉습니다.|Em tôi thỉnh thoảng thật đáng ghét.
+@Môi trường và thiên tai|Ô nhiễm, thảm họa tự nhiên
+자연재해|thiên tai|자연재해로 피해가 큽니다.|Thiệt hại do thiên tai rất lớn.
+산불|cháy rừng|봄에는 산불이 자주 납니다.|Mùa xuân hay xảy ra cháy rừng.
+화재|hỏa hoạn|건물에서 화재가 발생했습니다.|Hỏa hoạn đã xảy ra trong tòa nhà.
+폭염|nắng nóng gay gắt|폭염 때문에 밖에 못 나갑니다.|Vì nắng nóng gay gắt nên không ra ngoài được.
+한파|đợt rét đậm|이번 주에 한파가 옵니다.|Tuần này có đợt rét đậm.
+산사태|sạt lở núi|비가 많이 와서 산사태가 났습니다.|Mưa nhiều nên xảy ra sạt lở núi.
+해일|sóng thần|지진 후에 해일이 왔습니다.|Sau động đất sóng thần đã ập đến.
+대피하다|sơ tán, lánh nạn|주민들이 학교로 대피했습니다.|Người dân đã sơ tán đến trường học.
+구조하다|cứu hộ|소방관이 사람들을 구조했습니다.|Lính cứu hỏa đã cứu mọi người.
+피해|thiệt hại|태풍 피해가 심각합니다.|Thiệt hại do bão rất nghiêm trọng.
+매연|khói thải|자동차 매연이 심합니다.|Khói thải ô tô rất nặng.
+소음|tiếng ồn|공사 소음이 큽니다.|Tiếng ồn công trình lớn.
+폐수|nước thải|공장 폐수가 강을 더럽힙니다.|Nước thải nhà máy làm bẩn sông.
+분리배출|việc vứt rác theo loại|플라스틱은 분리배출 합니다.|Nhựa thì vứt riêng theo loại.

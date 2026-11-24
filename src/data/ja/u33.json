@@ -3,7 +3,7 @@
   {"unit":33,"level":3,"title":"Phần 3: Xã hội và suy nghĩ","desc":"Cảm xúc, môi trường, truyền thông, động từ, từ nối","color":"grape","course":"ja"}
  ],
  "lessons": [
-  {"id":"ja311","title":"Cảm xúc sâu hơn","desc":"Diễn tả tâm trạng","icon":"情","unit":33,"course":"ja","order":410,"words":[
+  {"id":"ja311","title":"Cảm xúc sâu hơn","desc":"Diễn tả tâm trạng","icon":"情","unit":33,"course":"ja","order":1770,"words":[
    {"id":"ja311-感情","hanzi":"感情","pinyin":"kanjou","vi":"cảm xúc","ex":{"tokens":["感情","を","正直","に","話します","。"],"py":["kanjou","o","shoujiki","ni","hanashimasu","."],"vi":"Tôi nói thật cảm xúc của mình.","alts":[]}},
    {"id":"ja311-驚く","hanzi":"驚く","pinyin":"odoroku","vi":"ngạc nhiên","ex":{"tokens":["大きい","音","に","驚きました","。"],"py":["ookii","oto","ni","odorokimashita","."],"vi":"Tôi đã giật mình vì tiếng động lớn.","alts":[]}},
    {"id":"ja311-満足","hanzi":"満足","pinyin":"manzoku","vi":"hài lòng","ex":{"tokens":["今","の","生活","に","満足","して","います","。"],"py":["ima","no","seikatsu","ni","manzoku","shite","imasu","."],"vi":"Tôi hài lòng với cuộc sống hiện tại.","alts":[]}},
@@ -17,7 +17,7 @@
    {"id":"ja311-不安","hanzi":"不安","pinyin":"fuan","vi":"bất an","ex":{"tokens":["試験","の","前","は","不安","です","。"],"py":["shiken","no","mae","wa","fuan","desu","."],"vi":"Trước kỳ thi tôi thấy bất an.","alts":[]}},
    {"id":"ja311-落ち着く","hanzi":"落ち着く","pinyin":"ochitsuku","vi":"bình tĩnh lại","ex":{"tokens":["お茶","を","飲む","と","落ち着きます","。"],"py":["ocha","o","nomu","to","ochitsukimasu","."],"vi":"Uống trà thì tôi bình tĩnh lại.","alts":[]}}
   ]},
-  {"id":"ja312","title":"Môi trường và thời tiết","desc":"Khí hậu, ô nhiễm, thiên tai","icon":"環","unit":33,"course":"ja","order":420,"words":[
+  {"id":"ja312","title":"Môi trường và thời tiết","desc":"Khí hậu, ô nhiễm, thiên tai","icon":"環","unit":33,"course":"ja","order":1780,"words":[
    {"id":"ja312-環境","hanzi":"環境","pinyin":"kankyou","vi":"môi trường","ex":{"tokens":["環境","を","守りましょう","。"],"py":["kankyou","o","mamorimashou","."],"vi":"Hãy bảo vệ môi trường.","alts":[]}},
    {"id":"ja312-汚染","hanzi":"汚染","pinyin":"osen","vi":"ô nhiễm","ex":{"tokens":["川","の","汚染","が","ひどい","です","。"],"py":["kawa","no","osen","ga","hidoi","desu","."],"vi":"Ô nhiễm sông rất nặng.","alts":[]}},
    {"id":"ja312-空気","hanzi":"空気","pinyin":"kuuki","vi":"không khí","ex":{"tokens":["山","は","空気","が","きれい","です","。"],"py":["yama","wa","kuuki","ga","kirei","desu","."],"vi":"Trên núi không khí trong lành.","alts":[]}},
@@ -31,7 +31,7 @@
    {"id":"ja312-湿度","hanzi":"湿度","pinyin":"shitsudo","vi":"độ ẩm","ex":{"tokens":["夏","は","湿度","が","高い","です","。"],"py":["natsu","wa","shitsudo","ga","takai","desu","."],"vi":"Mùa hè độ ẩm cao.","alts":[]}},
    {"id":"ja312-節約","hanzi":"節約","pinyin":"setsuyaku","vi":"tiết kiệm","ex":{"tokens":["水","と","電気","を","節約","します","。"],"py":["mizu","to","denki","o","setsuyaku","shimasu","."],"vi":"Tôi tiết kiệm nước và điện.","alts":[]}}
   ]},
-  {"id":"ja313","title":"Truyền thông","desc":"Tin tức, quảng cáo, mạng","icon":"報","unit":33,"course":"ja","order":430,"words":[
+  {"id":"ja313","title":"Truyền thông","desc":"Tin tức, quảng cáo, mạng","icon":"報","unit":33,"course":"ja","order":1790,"words":[
    {"id":"ja313-放送","hanzi":"放送","pinyin":"housou","vi":"phát sóng","ex":{"tokens":["その","試合","は","夜","に","放送","します","。"],"py":["sono","shiai","wa","yoru","ni","housou","shimasu","."],"vi":"Trận đấu đó phát sóng vào buổi tối.","alts":[]}},
    {"id":"ja313-記事","hanzi":"記事","pinyin":"kiji","vi":"bài báo","ex":{"tokens":["新聞","の","記事","を","読みました","。"],"py":["shinbun","no","kiji","o","yomimashita","."],"vi":"Tôi đã đọc bài báo.","alts":[]}},
    {"id":"ja313-広告","hanzi":"広告","pinyin":"koukoku","vi":"quảng cáo","ex":{"tokens":["テレビ","は","広告","が","多い","です","。"],"py":["terebi","wa","koukoku","ga","ooi","desu","."],"vi":"Ti vi nhiều quảng cáo.","alts":[]}},
@@ -45,7 +45,7 @@
    {"id":"ja313-投稿","hanzi":"投稿","pinyin":"toukou","vi":"đăng bài","ex":{"tokens":["旅行","の","写真","を","投稿","しました","。"],"py":["ryokou","no","shashin","o","toukou","shimashita","."],"vi":"Tôi đã đăng ảnh du lịch.","alts":[]}},
    {"id":"ja313-事件","hanzi":"事件","pinyin":"jiken","vi":"vụ việc, vụ án","ex":{"tokens":["昨日","駅","で","事件","が","ありました","。"],"py":["kinou","eki","de","jiken","ga","arimashita","."],"vi":"Hôm qua ở ga đã có một vụ việc.","alts":[]}}
   ]},
-  {"id":"ja314","title":"Động từ thường dùng","desc":"Hành động trong đời sống","icon":"動","unit":33,"course":"ja","order":440,"words":[
+  {"id":"ja314","title":"Động từ thường dùng","desc":"Hành động trong đời sống","icon":"動","unit":33,"course":"ja","order":1800,"words":[
    {"id":"ja314-選ぶ","hanzi":"選ぶ","pinyin":"erabu","vi":"chọn","ex":{"tokens":["好き","な","色","を","選びました","。"],"py":["suki","na","iro","o","erabimashita","."],"vi":"Tôi đã chọn màu mình thích.","alts":[]}},
    {"id":"ja314-借りる","hanzi":"借りる","pinyin":"kariru","vi":"mượn","ex":{"tokens":["図書館","で","本","を","借りました","。"],"py":["toshokan","de","hon","o","karimashita","."],"vi":"Tôi đã mượn sách ở thư viện.","alts":[]}},
    {"id":"ja314-返す","hanzi":"返す","pinyin":"kaesu","vi":"trả lại","ex":{"tokens":["友達","に","傘","を","返しました","。"],"py":["tomodachi","ni","kasa","o","kaeshimashita","."],"vi":"Tôi đã trả ô cho bạn.","alts":[]}},
@@ -59,7 +59,7 @@
    {"id":"ja314-忘れる","hanzi":"忘れる","pinyin":"wasureru","vi":"quên","ex":{"tokens":["友達","の","誕生日","を","忘れました","。"],"py":["tomodachi","no","tanjoubi","o","wasuremashita","."],"vi":"Tôi đã quên sinh nhật của bạn.","alts":[]}},
    {"id":"ja314-覚える","hanzi":"覚える","pinyin":"oboeru","vi":"ghi nhớ","ex":{"tokens":["毎日","漢字","を","十","覚えます","。"],"py":["mainichi","kanji","o","juu","oboemasu","."],"vi":"Mỗi ngày tôi nhớ mười chữ Hán.","alts":[]}}
   ]},
-  {"id":"ja315","title":"Phó từ và từ nối 2","desc":"Nối câu, mức độ, thời điểm","icon":"副","unit":33,"course":"ja","order":450,"words":[
+  {"id":"ja315","title":"Phó từ và từ nối 2","desc":"Nối câu, mức độ, thời điểm","icon":"副","unit":33,"course":"ja","order":1810,"words":[
    {"id":"ja315-突然","hanzi":"突然","pinyin":"totsuzen","vi":"đột nhiên","ex":{"tokens":["突然","雨","が","降りました","。"],"py":["totsuzen","ame","ga","furimashita","."],"vi":"Đột nhiên trời đổ mưa.","alts":[]}},
    {"id":"ja315-やっと","hanzi":"やっと","pinyin":"yatto","vi":"cuối cùng thì","ex":{"tokens":["やっと","試験","が","終わりました","。"],"py":["yatto","shiken","ga","owarimashita","."],"vi":"Cuối cùng thì kỳ thi đã xong.","alts":[]}},
    {"id":"ja315-やはり","hanzi":"やはり","pinyin":"yahari","vi":"quả nhiên","ex":{"tokens":["やはり","母","の","料理","は","おいしい","です","。"],"py":["yahari","haha","no","ryouri","wa","oishii","desu","."],"vi":"Quả nhiên món mẹ nấu ngon.","alts":[]}},

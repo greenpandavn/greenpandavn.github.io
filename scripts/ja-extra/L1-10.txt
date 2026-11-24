@@ -1,0 +1,87 @@
+=1
+@Cảm xúc và tính cách|Vui buồn, con người
+楽しみ:たのしみ|niềm mong đợi|旅行:りょこう が 楽しみ:たのしみ です 。|Tôi mong đợi chuyến du lịch.
+幸せ:しあわせ|hạnh phúc|家族:かぞく と いて 幸せ:しあわせ です 。|Ở bên gia đình tôi hạnh phúc.
+びっくり|giật mình, ngạc nhiên|大きい:おおきい 音:おと に びっくり しました 。|Tôi giật mình vì tiếng động lớn.
+がっかり|thất vọng|試験:しけん の 点:てん に がっかり しました 。|Tôi thất vọng về điểm thi.
+にこにこ|tươi cười|赤ちゃん:あかちゃん が にこにこ して います 。|Em bé đang tươi cười.
+どきどき|hồi hộp|試験:しけん の 前:まえ は どきどき します 。|Trước kỳ thi tôi hồi hộp.
+明るい人:あかるいひと|người vui vẻ|姉:あね は 明るい人:あかるいひと です 。|Chị tôi là người vui vẻ.
+厳しい:きびしい|nghiêm khắc|父:ちち は 厳しい:きびしい です 。|Bố tôi nghiêm khắc.
+熱心:ねっしん|nhiệt tình, chăm chú|あの 学生:がくせい は 熱心:ねっしん です 。|Học sinh kia rất nhiệt tình.
+元気がない:げんきがない|ủ rũ, không khỏe|今日:きょう 、 弟:おとうと は 元気がない:げんきがない です 。|Hôm nay em trai tôi ủ rũ.
+大好き:だいすき|rất thích|私:わたし は 寿司:すし が 大好き:だいすき です 。|Tôi rất thích sushi.
+大嫌い:だいきらい|rất ghét|妹:いもうと は 虫:むし が 大嫌い:だいきらい です 。|Em gái tôi rất ghét côn trùng.
+好きな:すきな|ưa thích|好きな:すきな 色:いろ は 青:あお です 。|Màu ưa thích của tôi là xanh.
+上手に:じょうずに|một cách thành thạo|彼:かれ は 日本語:にほんご を 上手に:じょうずに 話します:はなします 。|Anh ấy nói tiếng Nhật thành thạo.
+冗談:じょうだん|lời nói đùa|それ は 冗談:じょうだん です よ 。|Đó là lời nói đùa thôi.
+@Trường lớp 2|Học tập
+先生方:せんせいがた|các thầy cô|先生方:せんせいがた は 会議:かいぎ を して います 。|Các thầy cô đang họp.
+同級生:どうきゅうせい|bạn cùng lớp|同級生:どうきゅうせい と 映画:えいが を 見ます:みます 。|Tôi xem phim với bạn cùng lớp.
+校長:こうちょう|hiệu trưởng|校長:こうちょう 先生:せんせい が 話します:はなします 。|Thầy hiệu trưởng phát biểu.
+入学:にゅうがく|nhập học|四月:しがつ に 大学:だいがく に 入学:にゅうがく します 。|Tháng tư tôi nhập học đại học.
+数学:すうがく|môn toán|数学:すうがく は 難しい:むずかしい です 。|Môn toán khó.
+科目:かもく|môn học|好き:すき な 科目:かもく は 何:なん です か 。|Môn học bạn thích là gì?
+地理:ちり|địa lý|地理:ちり の 授業:じゅぎょう は 面白い:おもしろい です 。|Giờ địa lý thú vị.
+体育:たいいく|môn thể dục|今日:きょう は 体育:たいいく が あります 。|Hôm nay có giờ thể dục.
+音楽室:おんがくしつ|phòng âm nhạc|音楽室:おんがくしつ で 歌:うた を 歌います:うたいます 。|Chúng tôi hát ở phòng âm nhạc.
+図書室:としょしつ|phòng đọc sách (của trường)|昼休み:ひるやすみ に 図書室:としょしつ へ 行きます:いきます 。|Giờ nghỉ trưa tôi đến phòng đọc sách.
+昼休み:ひるやすみ|giờ nghỉ trưa|昼休み:ひるやすみ は 一時間:いちじかん です 。|Giờ nghỉ trưa là một tiếng.
+会話:かいわ|hội thoại|日本語:にほんご で 会話:かいわ を します 。|Tôi hội thoại bằng tiếng Nhật.
+単語:たんご|từ vựng|毎日:まいにち 、 単語:たんご を 十:じゅう 覚えます:おぼえます 。|Mỗi ngày tôi nhớ mười từ vựng.
+読み方:よみかた|cách đọc|この 漢字:かんじ の 読み方:よみかた を 教えて:おしえて ください 。|Hãy chỉ cho tôi cách đọc chữ Hán này.
+書き方:かきかた|cách viết|手紙:てがみ の 書き方:かきかた を 習います:ならいます 。|Tôi học cách viết thư.
+点:てん|điểm|テスト は 百:ひゃく 点:てん でした 。|Bài kiểm tra được một trăm điểm.
+間違い:まちがい|lỗi sai|作文:さくぶん に 間違い:まちがい が あります 。|Trong bài văn có lỗi sai.
+@Đời sống thường ngày|Từ thông dụng
+物:もの|đồ vật|この 店:みせ は 物:もの が 安い:やすい です 。|Cửa hàng này đồ rẻ.
+事:こと|việc, chuyện|大切:たいせつ な 事:こと を 話します:はなします 。|Tôi nói chuyện quan trọng.
+時:とき|khi, lúc|暇:ひま な 時:とき 、 本:ほん を 読みます:よみます 。|Lúc rảnh tôi đọc sách.
+形:かたち|hình dạng|この 皿:さら は 形:かたち が 面白い:おもしろい です 。|Cái đĩa này có hình dạng thú vị.
+数:かず|số lượng|学生:がくせい の 数:かず が 多い:おおい です 。|Số học sinh đông.
+名刺入れ:めいしいれ|hộp đựng danh thiếp|父:ちち に 名刺入れ:めいしいれ を あげました 。|Tôi đã tặng bố hộp đựng danh thiếp.
+お祝い:おいわい|quà mừng, lời chúc mừng|結婚:けっこん の お祝い:おいわい を あげます 。|Tôi tặng quà mừng cưới.
+お見舞い:おみまい|đi thăm người ốm|病院:びょういん へ お見舞い:おみまい に 行きます:いきます 。|Tôi đến bệnh viện thăm người ốm.
+お礼:おれい|lời cảm ơn, quà cảm ơn|先生:せんせい に お礼:おれい を 言います:いいます 。|Tôi nói lời cảm ơn thầy.
+留守:るす|vắng nhà|父:ちち は 今:いま 、 留守:るす です 。|Bố tôi hiện vắng nhà.
+都合:つごう|sự thuận tiện (thời gian)|明日:あした は 都合:つごう が 悪い:わるい です 。|Ngày mai tôi không tiện.
+場所:ばしょ|địa điểm|会議:かいぎ の 場所:ばしょ は どこ です か 。|Địa điểm họp ở đâu?
+忘れ物:わすれもの|đồ để quên|電車:でんしゃ に 忘れ物:わすれもの を しました 。|Tôi để quên đồ trên tàu.
+落とし物:おとしもの|đồ đánh rơi|交番:こうばん に 落とし物:おとしもの を 届けます:とどけます 。|Tôi mang đồ nhặt được đến đồn cảnh sát.
+乗り物:のりもの|phương tiện đi lại|好き:すき な 乗り物:のりもの は 電車:でんしゃ です 。|Phương tiện tôi thích là tàu điện.
+建物の中:たてもののなか|bên trong tòa nhà|建物の中:たてもののなか は 涼しい:すずしい です 。|Bên trong tòa nhà mát mẻ.
+生き物:いきもの|sinh vật|海:うみ に は 色々:いろいろ な 生き物:いきもの が います 。|Dưới biển có nhiều sinh vật.
+着物姿:きものすがた|dáng mặc kimono|姉:あね の 着物姿:きものすがた は きれい です 。|Dáng chị tôi mặc kimono thật đẹp.
+お正月休み:おしょうがつやすみ|kỳ nghỉ Tết|お正月休み:おしょうがつやすみ に 国:くに へ 帰ります:かえります 。|Kỳ nghỉ Tết tôi về nước.
+@Phó từ và trạng từ 2|Cách thức, mức độ
+ゆうべ|tối qua|ゆうべ 、 遅く:おそく まで 勉強:べんきょう しました 。|Tối qua tôi học đến khuya.
+すっかり|hoàn toàn, hẳn|風邪:かぜ は すっかり 治りました:なおりました 。|Tôi đã khỏi hẳn cảm.
+ずっと|suốt; hơn hẳn|昨日:きのう は ずっと 家:いえ に いました 。|Hôm qua tôi ở nhà suốt.
+そろそろ|sắp sửa, đến lúc|そろそろ 帰ります:かえります 。|Tôi sắp sửa về đây.
+なかなか|mãi mà (không); khá|バス が なかなか 来ません:きません 。|Xe buýt mãi mà không đến.
+ぜひ|nhất định (mong muốn)|ぜひ 家:いえ に 来て:きて ください 。|Nhất định hãy đến nhà tôi nhé.
+必ず:かならず|nhất định, luôn luôn|毎朝:まいあさ 、 必ず:かならず 朝ご飯:あさごはん を 食べます:たべます 。|Sáng nào tôi cũng nhất định ăn sáng.
+先に:さきに|trước (làm trước)|先に:さきに 手:て を 洗って:あらって ください 。|Hãy rửa tay trước.
+別々に:べつべつに|riêng từng người|別々に:べつべつに 払います:はらいます 。|Chúng tôi trả tiền riêng.
+自分で:じぶんで|tự mình|自分で:じぶんで 弁当:べんとう を 作ります:つくります 。|Tôi tự mình làm cơm hộp.
+一人で:ひとりで|một mình|一人で:ひとりで 映画:えいが を 見ます:みます 。|Tôi xem phim một mình.
+みんなで|cả nhóm cùng nhau|みんなで 歌:うた を 歌います:うたいます 。|Cả nhóm cùng nhau hát.
+もう一度:もういちど|một lần nữa|もう一度:もういちど 言って:いって ください 。|Hãy nói lại một lần nữa.
+もうすぐ|sắp, chẳng mấy chốc|もうすぐ 春:はる です 。|Sắp sang xuân rồi.
+まず|trước tiên|まず 、 名前:なまえ を 書きます:かきます 。|Trước tiên viết tên.
+つぎに|kế đến|つぎに 、 住所:じゅうしょ を 書きます:かきます 。|Kế đến viết địa chỉ.
+いっぱい|đầy; rất nhiều|お腹:おなか が いっぱい です 。|Tôi no bụng rồi.
+ちゃんと|đàng hoàng, cẩn thận|ちゃんと 朝ご飯:あさごはん を 食べます:たべます 。|Tôi ăn sáng đàng hoàng.
+@Mùa và lễ hội|Sự kiện trong năm
+クリスマス|Giáng sinh|クリスマス に プレゼント を もらいます 。|Giáng sinh tôi được nhận quà.
+年末:ねんまつ|cuối năm|年末:ねんまつ は 忙しい:いそがしい です 。|Cuối năm bận rộn.
+大みそか:おおみそか|đêm giao thừa|大みそか:おおみそか に そば を 食べます:たべます 。|Đêm giao thừa người ta ăn mì soba.
+お盆:おぼん|lễ Obon|お盆:おぼん に 田舎:いなか へ 帰ります:かえります 。|Dịp lễ Obon tôi về quê.
+夏祭り:なつまつり|lễ hội mùa hè|夏祭り:なつまつり で 花火:はなび を 見ます:みます 。|Tôi xem pháo hoa ở lễ hội mùa hè.
+紅葉:こうよう|lá đỏ mùa thu|秋:あき は 山:やま の 紅葉:こうよう が きれい です 。|Mùa thu lá đỏ trên núi rất đẹp.
+年賀状:ねんがじょう|thiệp chúc Tết|友達:ともだち に 年賀状:ねんがじょう を 書きます:かきます 。|Tôi viết thiệp chúc Tết cho bạn.
+お年玉:おとしだま|tiền mừng tuổi|子供:こども は お年玉:おとしだま を もらいます 。|Trẻ con được nhận tiền mừng tuổi.
+卒業式:そつぎょうしき|lễ tốt nghiệp|三月:さんがつ に 卒業式:そつぎょうしき が あります 。|Tháng ba có lễ tốt nghiệp.
+入学式:にゅうがくしき|lễ nhập học|入学式:にゅうがくしき は 四月:しがつ です 。|Lễ nhập học vào tháng tư.
+運動会:うんどうかい|hội thao|秋:あき に 学校:がっこう の 運動会:うんどうかい が あります 。|Mùa thu trường có hội thao.
+遠足:えんそく|chuyến dã ngoại của trường|明日:あした は 遠足:えんそく です 。|Ngày mai là chuyến dã ngoại của trường.

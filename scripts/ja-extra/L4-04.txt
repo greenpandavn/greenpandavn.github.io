@@ -1,0 +1,116 @@
+=4
+@Sản xuất và năng lượng|Nông nghiệp, công nghiệp, vận tải
+産地:さんち|vùng sản xuất|この りんご の 産地:さんち は 青森:あおもり です 。|Vùng sản xuất loại táo này là Aomori.
+農産物:のうさんぶつ|nông sản|農産物:のうさんぶつ を 外国:がいこく に 輸出:ゆしゅつ します 。|Xuất khẩu nông sản ra nước ngoài.
+農薬:のうやく|thuốc trừ sâu|農薬:のうやく を 使わない:つかわない 野菜:やさい を 買います:かいます 。|Tôi mua rau không dùng thuốc trừ sâu.
+肥料:ひりょう|phân bón|畑:はたけ に 肥料:ひりょう を やります 。|Tôi bón phân cho ruộng.
+収穫:しゅうかく|thu hoạch|秋:あき に 米:こめ を 収穫:しゅうかく します 。|Mùa thu người ta thu hoạch lúa.
+栽培:さいばい|trồng trọt|この 地方:ちほう で は みかん を 栽培:さいばい して います 。|Vùng này trồng quýt.
+水田:すいでん|ruộng nước|村:むら に は 広い:ひろい 水田:すいでん が あります 。|Trong làng có ruộng nước rộng.
+漁業:ぎょぎょう|ngư nghiệp|この 町:まち は 漁業:ぎょぎょう が 盛ん:さかん です 。|Thị trấn này ngư nghiệp phát đạt.
+林業:りんぎょう|lâm nghiệp|祖父:そふ は 林業:りんぎょう を して いました 。|Ông tôi từng làm lâm nghiệp.
+酪農:らくのう|chăn nuôi bò sữa|北海道:ほっかいどう は 酪農:らくのう で 有名:ゆうめい です 。|Hokkaido nổi tiếng về chăn nuôi bò sữa.
+鉱業:こうぎょう|ngành khai khoáng|この 国:くに は 鉱業:こうぎょう が 発達:はったつ して います 。|Nước này ngành khai khoáng phát triển.
+製造業:せいぞうぎょう|ngành chế tạo|父:ちち は 製造業:せいぞうぎょう の 会社:かいしゃ で 働きます:はたらきます 。|Bố tôi làm ở công ty ngành chế tạo.
+建設業:けんせつぎょう|ngành xây dựng|建設業:けんせつぎょう は 人:ひと が 足りません:たりません 。|Ngành xây dựng thiếu người.
+運送:うんそう|chuyên chở|荷物:にもつ の 運送:うんそう を 頼みます:たのみます 。|Tôi nhờ chuyên chở hành lý.
+運輸:うんゆ|vận tải (ngành)|兄:あに は 運輸:うんゆ の 会社:かいしゃ に 勤めて:つとめて います 。|Anh tôi làm ở công ty vận tải.
+流通:りゅうつう|lưu thông|新しい:あたらしい お札:おさつ が 流通:りゅうつう して います 。|Tờ tiền mới đang lưu thông.
+物流:ぶつりゅう|hậu cần, logistics|物流:ぶつりゅう の 仕組み:しくみ を 学びます:まなびます 。|Tôi học về cơ chế hậu cần.
+出荷:しゅっか|xuất hàng|野菜:やさい を 市場:いちば に 出荷:しゅっか します 。|Xuất rau ra chợ.
+入荷:にゅうか|nhập hàng về|新しい:あたらしい 商品:しょうひん が 入荷:にゅうか しました 。|Hàng mới đã về.
+納品:のうひん|giao hàng (cho khách đặt)|明日:あした まで に 納品:のうひん します 。|Chúng tôi giao hàng trước ngày mai.
+原料:げんりょう|nguyên liệu thô|パン の 原料:げんりょう は 小麦:こむぎ です 。|Nguyên liệu của bánh mì là lúa mì.
+素材:そざい|chất liệu|この 服:ふく は 素材:そざい が いい です 。|Bộ quần áo này chất liệu tốt.
+部品:ぶひん|linh kiện|車:くるま の 部品:ぶひん を 交換:こうかん します 。|Tôi thay linh kiện xe.
+鉄鋼:てっこう|sắt thép|鉄鋼:てっこう の 値段:ねだん が 上がりました:あがりました 。|Giá sắt thép đã tăng.
+石油:せきゆ|dầu mỏ|日本:にほん は 石油:せきゆ を 輸入:ゆにゅう して います 。|Nhật Bản nhập khẩu dầu mỏ.
+石炭:せきたん|than đá|昔:むかし は 石炭:せきたん を よく 使いました:つかいました 。|Ngày xưa người ta hay dùng than đá.
+天然ガス:てんねんガス|khí thiên nhiên|天然ガス:てんねんガス で 電気:でんき を 作ります:つくります 。|Sản xuất điện bằng khí thiên nhiên.
+電力:でんりょく|điện lực|夏:なつ は 電力:でんりょく が 足りません:たりません 。|Mùa hè thiếu điện.
+発電:はつでん|phát điện|風:かぜ の 力:ちから で 発電:はつでん します 。|Phát điện bằng sức gió.
+原子力:げんしりょく|năng lượng nguyên tử|原子力:げんしりょく の 安全:あんぜん を 考えます:かんがえます 。|Suy nghĩ về an toàn năng lượng nguyên tử.
+太陽光:たいようこう|ánh sáng mặt trời|屋根:やね で 太陽光:たいようこう を 利用:りよう します 。|Tận dụng ánh sáng mặt trời trên mái nhà.
+燃料:ねんりょう|nhiên liệu|車:くるま の 燃料:ねんりょう が なくなりました 。|Xe đã hết nhiên liệu.
+資材:しざい|vật tư|建築:けんちく の 資材:しざい を 運びます:はこびます 。|Tôi chở vật tư xây dựng.
+加工:かこう|gia công, chế biến|魚:さかな を 工場:こうじょう で 加工:かこう します 。|Cá được chế biến tại nhà máy.
+梱包:こんぽう|đóng kiện|荷物:にもつ を 丁寧:ていねい に 梱包:こんぽう します 。|Tôi đóng kiện hành lý cẩn thận.
+貨物:かもつ|hàng hóa chuyên chở|この 列車:れっしゃ は 貨物:かもつ を 運びます:はこびます 。|Đoàn tàu này chở hàng hóa.
+輸送:ゆそう|vận chuyển|船:ふね で 車:くるま を 輸送:ゆそう します 。|Vận chuyển ô tô bằng tàu thủy.
+特産:とくさん|đặc sản (của vùng)|この 町:まち の 特産:とくさん は お茶:おちゃ です 。|Đặc sản của thị trấn này là trà.
+名産:めいさん|sản vật nổi tiếng|ここ の 名産:めいさん を 買って:かって 帰ります:かえります 。|Tôi mua sản vật nổi tiếng ở đây mang về.
+@Địa lý và khí tượng|Vùng miền, địa hình, thời tiết
+都道府県:とどうふけん|các tỉnh thành Nhật Bản|日本:にほん に は 四十七:よんじゅうなな の 都道府県:とどうふけん が あります 。|Nhật Bản có bốn mươi bảy tỉnh thành.
+市町村:しちょうそん|thành phố, thị trấn, làng|市町村:しちょうそん の 役所:やくしょ で 手続き:てつづき を します 。|Làm thủ tục tại cơ quan hành chính cấp cơ sở.
+地域:ちいき|khu vực, vùng|この 地域:ちいき は 雪:ゆき が 多い:おおい です 。|Vùng này nhiều tuyết.
+地区:ちく|quận, khu (hành chính)|この 地区:ちく に は 学校:がっこう が 三つ:みっつ あります 。|Khu này có ba trường học.
+地元:じもと|địa phương mình, sở tại|地元:じもと の 会社:かいしゃ に 就職:しゅうしょく しました 。|Tôi đã vào làm ở công ty tại địa phương mình.
+故郷:こきょう|cố hương|年:とし に 一度:いちど 、 故郷:こきょう に 帰ります:かえります 。|Mỗi năm tôi về cố hương một lần.
+国境:こっきょう|biên giới|車:くるま で 国境:こっきょう を 越えます:こえます 。|Tôi vượt biên giới bằng ô tô.
+領域:りょういき|lãnh vực, lãnh thổ|これ は 医学:いがく の 領域:りょういき です 。|Đây là lãnh vực của y học.
+沿岸:えんがん|ven bờ|沿岸:えんがん の 町:まち に 津波:つなみ が 来ました:きました 。|Sóng thần đã ập vào các thị trấn ven bờ.
+内陸:ないりく|nội địa (xa biển)|内陸:ないりく は 冬:ふゆ が 寒い:さむい です 。|Vùng nội địa xa biển mùa đông lạnh.
+盆地:ぼんち|bồn địa|京都:きょうと は 盆地:ぼんち に あります 。|Kyoto nằm trong bồn địa.
+平野:へいや|đồng bằng|関東:かんとう 平野:へいや は 日本:にほん で 一番:いちばん 広い:ひろい です 。|Đồng bằng Kanto rộng nhất Nhật Bản.
+高原:こうげん|cao nguyên|夏:なつ は 涼しい:すずしい 高原:こうげん で 過ごします:すごします 。|Mùa hè tôi ở cao nguyên mát mẻ.
+山脈:さんみゃく|dãy núi|飛行機:ひこうき から 山脈:さんみゃく が 見えます:みえます 。|Từ máy bay nhìn thấy dãy núi.
+湾:わん|vịnh|東京:とうきょう 湾:わん に 船:ふね が 入ります:はいります 。|Tàu vào vịnh Tokyo.
+岬:みさき|mũi đất|岬:みさき の 灯台:とうだい まで 歩きます:あるきます 。|Tôi đi bộ đến ngọn hải đăng ở mũi đất.
+海峡:かいきょう|eo biển|船:ふね で 海峡:かいきょう を 渡ります:わたります 。|Tôi qua eo biển bằng tàu.
+列島:れっとう|quần đảo (dãy đảo)|台風:たいふう が 日本:にほん 列島:れっとう に 近づきます:ちかづきます 。|Bão tiến gần dãy đảo Nhật Bản.
+諸島:しょとう|các đảo, chùm đảo|南:みなみ の 諸島:しょとう を 旅行:りょこう します 。|Tôi du lịch chùm đảo phía nam.
+赤道:せきどう|xích đạo|船:ふね が 赤道:せきどう を 越えました:こえました 。|Con tàu đã vượt xích đạo.
+緯度:いど|vĩ độ|この 町:まち は 緯度:いど が 高い:たかい です 。|Thị trấn này có vĩ độ cao.
+経度:けいど|kinh độ|地図:ちず で 経度:けいど を 調べます:しらべます 。|Tôi tra kinh độ trên bản đồ.
+北極:ほっきょく|Bắc Cực|北極:ほっきょく の 氷:こおり が 溶けて:とけて います 。|Băng ở Bắc Cực đang tan.
+南極:なんきょく|Nam Cực|南極:なんきょく で 調査:ちょうさ を します 。|Người ta khảo sát ở Nam Cực.
+熱帯:ねったい|nhiệt đới|熱帯:ねったい の 果物:くだもの は 甘い:あまい です 。|Hoa quả nhiệt đới thì ngọt.
+温帯:おんたい|ôn đới|日本:にほん は 温帯:おんたい に あります 。|Nhật Bản nằm ở vùng ôn đới.
+寒帯:かんたい|hàn đới|寒帯:かんたい に は 木:き が 少ない:すくない です 。|Ở vùng hàn đới ít cây.
+気圧:きあつ|khí áp|山:やま の 上:うえ は 気圧:きあつ が 低い:ひくい です 。|Trên núi khí áp thấp.
+高気圧:こうきあつ|áp cao|高気圧:こうきあつ の 影響:えいきょう で 晴れます:はれます 。|Trời nắng do ảnh hưởng của áp cao.
+低気圧:ていきあつ|áp thấp|低気圧:ていきあつ が 近づいて:ちかづいて います 。|Áp thấp đang tiến gần.
+前線:ぜんせん|frông, tiền tuyến|梅雨:つゆ の 前線:ぜんせん が 北:きた へ 進みます:すすみます 。|Frông mùa mưa tiến lên phía bắc.
+降水量:こうすいりょう|lượng mưa|今年:ことし は 降水量:こうすいりょう が 少ない:すくない です 。|Năm nay lượng mưa ít.
+積雪:せきせつ|tuyết phủ dày|積雪:せきせつ は 一:いち メートル に なりました 。|Tuyết phủ dày đã lên một mét.
+豪雨:ごうう|mưa xối xả|豪雨:ごうう で 川:かわ の 水:みず が 増えました:ふえました 。|Nước sông dâng do mưa xối xả.
+突風:とっぷう|gió giật|突風:とっぷう で 看板:かんばん が 倒れました:たおれました 。|Biển hiệu đổ vì gió giật.
+竜巻:たつまき|lốc xoáy|竜巻:たつまき で 家:いえ が 壊れました:こわれました 。|Nhà bị hỏng vì lốc xoáy.
+@Tính từ N2|Tính chất và đánh giá
+堅い:かたい|rắn chắc, vững|彼:かれ は 口:くち が 堅い:かたい 人:ひと です 。|Anh ấy là người kín miệng.
+甚だしい:はなはだしい|quá đáng, cực độ|それ は 甚だしい:はなはだしい 誤解:ごかい です 。|Đó là sự hiểu lầm quá đáng.
+妥当:だとう|thỏa đáng|この 値段:ねだん は 妥当:だとう だ と 思います:おもいます 。|Tôi nghĩ giá này thỏa đáng.
+なだらか|thoai thoải|なだらか な 坂:さか を 上ります:のぼります 。|Tôi leo con dốc thoai thoải.
+莫大:ばくだい|khổng lồ (tiền, lượng)|工事:こうじ に 莫大:ばくだい な 費用:ひよう が かかります 。|Việc thi công tốn chi phí khổng lồ.
+稀:まれ|hiếm hoi|この 地方:ちほう で 雪:ゆき は 稀:まれ です 。|Ở vùng này tuyết hiếm hoi.
+有能:ゆうのう|có năng lực|彼女:かのじょ は 有能:ゆうのう な 秘書:ひしょ です 。|Cô ấy là thư ký có năng lực.
+健やか:すこやか|khỏe mạnh (trưởng thành)|子供:こども が 健やか:すこやか に 育ちます:そだちます 。|Đứa trẻ lớn lên khỏe mạnh.
+速やか:すみやか|mau lẹ|速やか:すみやか に 避難:ひなん して ください 。|Hãy sơ tán mau lẹ.
+細やか:こまやか|tinh tế, chu đáo|細やか:こまやか な 心遣い:こころづかい に 感謝:かんしゃ します 。|Tôi cảm ơn sự quan tâm chu đáo.
+遥か:はるか|xa xăm|遥か:はるか 遠く:とおく に 山:やま が 見えます:みえます 。|Xa xăm phía kia thấy ngọn núi.
+愚か:おろか|ngu ngốc, dại dột|戦争:せんそう は 愚か:おろか な こと です 。|Chiến tranh là điều dại dột.
+厳重:げんじゅう|nghiêm ngặt|空港:くうこう の 警備:けいび は 厳重:げんじゅう です 。|An ninh sân bay nghiêm ngặt.
+高度:こうど|trình độ cao; độ cao|高度:こうど な 技術:ぎじゅつ が 必要:ひつよう です 。|Cần kỹ thuật trình độ cao.
+容易:ようい|dễ dàng (trang trọng)|この 問題:もんだい の 解決:かいけつ は 容易:ようい で は ありません 。|Giải quyết vấn đề này không dễ dàng.
+安易:あんい|dễ dãi, hời hợt|安易:あんい な 考え:かんがえ は 危険:きけん です 。|Suy nghĩ dễ dãi thì nguy hiểm.
+急激:きゅうげき|đột ngột, gấp gáp|気温:きおん が 急激:きゅうげき に 下がりました:さがりました 。|Nhiệt độ hạ đột ngột.
+急速:きゅうそく|nhanh chóng (tốc độ cao)|町:まち は 急速:きゅうそく に 変わりました:かわりました 。|Thị trấn thay đổi nhanh chóng.
+強力:きょうりょく|mạnh mẽ, có sức mạnh|強力:きょうりょく な 薬:くすり を 使います:つかいます 。|Dùng loại thuốc mạnh.
+強引:ごういん|cưỡng ép, độc đoán|彼:かれ の やり方:やりかた は 強引:ごういん です 。|Cách làm của anh ta độc đoán.
+極端:きょくたん|cực đoan|それ は 極端:きょくたん な 意見:いけん です 。|Đó là ý kiến cực đoan.
+広大:こうだい|bao la|広大:こうだい な 土地:とち に 牛:うし が います 。|Bò ở trên vùng đất bao la.
+軽快:けいかい|nhẹ nhàng, thoăn thoắt|軽快:けいかい な 音楽:おんがく が 流れて:ながれて います 。|Tiếng nhạc nhẹ nhàng đang vang lên.
+厳密:げんみつ|chặt chẽ, chính xác|厳密:げんみつ に 言う:いう と 、 それ は 違います:ちがいます 。|Nói cho chính xác thì điều đó không đúng.
+最適:さいてき|thích hợp nhất|ここ は 散歩:さんぽ に 最適:さいてき な 場所:ばしょ です 。|Đây là nơi thích hợp nhất để đi dạo.
+斬新:ざんしん|mới lạ, độc đáo|斬新:ざんしん な デザイン の 車:くるま です 。|Đó là chiếc xe có thiết kế mới lạ.
+敏感:びんかん|nhạy cảm|私:わたし は 匂い:におい に 敏感:びんかん です 。|Tôi nhạy cảm với mùi.
+鈍感:どんかん|chậm cảm nhận, vô tâm|彼:かれ は 人:ひと の 気持ち:きもち に 鈍感:どんかん です 。|Anh ấy vô tâm với cảm xúc người khác.
+不規則:ふきそく|thất thường, không điều độ|不規則:ふきそく な 生活:せいかつ は 体:からだ に 悪い:わるい です 。|Sinh hoạt không điều độ có hại cho cơ thể.
+不潔:ふけつ|mất vệ sinh|不潔:ふけつ な 手:て で 食べないで:たべないで ください 。|Đừng ăn bằng tay mất vệ sinh.
+不正:ふせい|gian lận, bất chính|試験:しけん で 不正:ふせい を して は いけません 。|Không được gian lận trong thi cử.
+無関心:むかんしん|thờ ơ|若者:わかもの は 政治:せいじ に 無関心:むかんしん です 。|Giới trẻ thờ ơ với chính trị.
+無数:むすう|vô số|空:そら に 無数:むすう の 星:ほし が 見えます:みえます 。|Trên trời thấy vô số vì sao.
+有力:ゆうりょく|có thế lực, sáng giá|彼:かれ は 有力:ゆうりょく な 候補:こうほ です 。|Ông ấy là ứng viên sáng giá.
+無害:むがい|vô hại|この 虫:むし は 人:ひと に 無害:むがい です 。|Loài côn trùng này vô hại với người.
+冷淡:れいたん|lạnh nhạt|彼:かれ は 冷淡:れいたん な 返事:へんじ を しました 。|Anh ấy đã trả lời lạnh nhạt.
+露骨:ろこつ|lộ liễu, trắng trợn|彼:かれ は 露骨:ろこつ に 嫌:いや な 顔:かお を しました 。|Anh ta tỏ vẻ khó chịu lộ liễu.

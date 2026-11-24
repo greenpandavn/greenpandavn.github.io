@@ -3,7 +3,7 @@
   {"unit":41,"level":4,"title":"Phần 1: Kinh tế và xã hội","desc":"Tiêu dùng, kinh doanh, pháp luật, hành chính, giáo dục","color":"leaf","course":"ko"}
  ],
  "lessons": [
-  {"id":"ko401","title":"Kinh tế và tiêu dùng","desc":"Giá cả, thu nhập, chi tiêu","icon":"경","unit":41,"course":"ko","order":460,"words":[
+  {"id":"ko401","title":"Kinh tế và tiêu dùng","desc":"Giá cả, thu nhập, chi tiêu","icon":"경","unit":41,"course":"ko","order":2080,"words":[
    {"id":"ko401-경제","hanzi":"경제","pinyin":"gyeongje","vi":"kinh tế","ex":{"tokens":["요즘","경제가","좋지","않습니다","."],"py":["yojeum","gyeongjega","jochi","anseumnida","."],"vi":"Dạo này kinh tế không tốt.","alts":[]}},
    {"id":"ko401-물가","hanzi":"물가","pinyin":"mulga","vi":"vật giá","ex":{"tokens":["서울은","물가가","매우","비쌉니다","."],"py":["seoureun","mulgaga","maeu","bissamnida","."],"vi":"Vật giá ở Seoul rất đắt đỏ.","alts":[]}},
    {"id":"ko401-소비","hanzi":"소비","pinyin":"sobi","vi":"tiêu dùng","ex":{"tokens":["젊은","사람들의","소비가","늘었습니다","."],"py":["jeolmeun","saramdeurui","sobiga","neureotseumnida","."],"vi":"Tiêu dùng của giới trẻ đã tăng.","alts":[]}},
@@ -17,7 +17,7 @@
    {"id":"ko401-할인","hanzi":"할인","pinyin":"harin","vi":"giảm giá","ex":{"tokens":["이","가게는","오늘","할인을","합니다","."],"py":["i","gageneun","oneul","harineul","hamnida","."],"vi":"Cửa hàng này hôm nay giảm giá.","alts":[]}},
    {"id":"ko401-환불하다","hanzi":"환불하다","pinyin":"hwanbulhada","vi":"hoàn tiền","ex":{"tokens":["마음에","안","들면","환불할","수","있습니다","."],"py":["maeume","an","deulmyeon","hwanbulhal","su","itseumnida","."],"vi":"Nếu không ưng thì có thể hoàn tiền.","alts":[]}}
   ]},
-  {"id":"ko402","title":"Kinh doanh","desc":"Doanh nghiệp, sản phẩm, khách hàng","icon":"업","unit":41,"course":"ko","order":470,"words":[
+  {"id":"ko402","title":"Kinh doanh","desc":"Doanh nghiệp, sản phẩm, khách hàng","icon":"업","unit":41,"course":"ko","order":2090,"words":[
    {"id":"ko402-기업","hanzi":"기업","pinyin":"gieop","vi":"doanh nghiệp","ex":{"tokens":["그","기업은","세계에서","유명합니다","."],"py":["geu","gieobeun","segyeeseo","yumyeonghamnida","."],"vi":"Doanh nghiệp đó nổi tiếng trên thế giới.","alts":[]}},
    {"id":"ko402-제품","hanzi":"제품","pinyin":"jepum","vi":"sản phẩm","ex":{"tokens":["새","제품이","다음","달에","나옵니다","."],"py":["sae","jepumi","daeum","dare","naomnida","."],"vi":"Sản phẩm mới ra mắt vào tháng sau.","alts":[]}},
    {"id":"ko402-고객","hanzi":"고객","pinyin":"gogaek","vi":"khách hàng","ex":{"tokens":["고객의","의견을","듣습니다","."],"py":["gogaegui","uigyeoneul","deutseumnida","."],"vi":"Chúng tôi lắng nghe ý kiến khách hàng.","alts":[]}},
@@ -31,7 +31,7 @@
    {"id":"ko402-시장조사","hanzi":"시장조사","pinyin":"sijangjosa","vi":"khảo sát thị trường","ex":{"tokens":["먼저","시장조사를","해야","합니다","."],"py":["meonjeo","sijangjosareul","haeya","hamnida","."],"vi":"Trước tiên phải khảo sát thị trường.","alts":[]}},
    {"id":"ko402-성장하다","hanzi":"성장하다","pinyin":"seongjanghada","vi":"tăng trưởng, trưởng thành","ex":{"tokens":["회사가","빠르게","성장하고","있습니다","."],"py":["hoesaga","ppareuge","seongjanghago","itseumnida","."],"vi":"Công ty đang tăng trưởng nhanh.","alts":[]}}
   ]},
-  {"id":"ko403","title":"Pháp luật và trật tự","desc":"Luật, tội phạm, quyền","icon":"법","unit":41,"course":"ko","order":480,"words":[
+  {"id":"ko403","title":"Pháp luật và trật tự","desc":"Luật, tội phạm, quyền","icon":"법","unit":41,"course":"ko","order":2100,"words":[
    {"id":"ko403-법","hanzi":"법","pinyin":"beop","vi":"pháp luật","ex":{"tokens":["모든","사람은","법을","지켜야","합니다","."],"py":["modeun","sarameun","beobeul","jikyeoya","hamnida","."],"vi":"Mọi người phải tuân thủ pháp luật.","alts":[]}},
    {"id":"ko403-규칙","hanzi":"규칙","pinyin":"gyuchik","vi":"quy tắc","ex":{"tokens":["학교","규칙을","잘","지킵니다","."],"py":["hakgyo","gyuchigeul","jal","jikimnida","."],"vi":"Tôi chấp hành tốt quy tắc của trường.","alts":[]}},
    {"id":"ko403-범죄","hanzi":"범죄","pinyin":"beomjoe","vi":"tội phạm","ex":{"tokens":["이","도시는","범죄가","적습니다","."],"py":["i","dosineun","beomjoega","jeokseumnida","."],"vi":"Thành phố này ít tội phạm.","alts":[]}},
@@ -45,7 +45,7 @@
    {"id":"ko403-증거","hanzi":"증거","pinyin":"jeunggeo","vi":"chứng cứ","ex":{"tokens":["아직","증거가","부족합니다","."],"py":["ajik","jeunggeoga","bujokamnida","."],"vi":"Chứng cứ vẫn còn thiếu.","alts":[]}},
    {"id":"ko403-금지하다","hanzi":"금지하다","pinyin":"geumjihada","vi":"cấm","ex":{"tokens":["여기서는","담배를","금지합니다","."],"py":["yeogiseoneun","dambaereul","geumjihamnida","."],"vi":"Ở đây cấm hút thuốc.","alts":[]}}
   ]},
-  {"id":"ko404","title":"Chính trị và hành chính","desc":"Chính phủ, bầu cử, chính sách","icon":"정","unit":41,"course":"ko","order":490,"words":[
+  {"id":"ko404","title":"Chính trị và hành chính","desc":"Chính phủ, bầu cử, chính sách","icon":"정","unit":41,"course":"ko","order":2110,"words":[
    {"id":"ko404-정부","hanzi":"정부","pinyin":"jeongbu","vi":"chính phủ","ex":{"tokens":["정부가","새","계획을","발표했습니다","."],"py":["jeongbuga","sae","gyehoegeul","balpyohaetseumnida","."],"vi":"Chính phủ đã công bố kế hoạch mới.","alts":[]}},
    {"id":"ko404-대통령","hanzi":"대통령","pinyin":"daetongnyeong","vi":"tổng thống","ex":{"tokens":["대통령이","국민에게","연설했습니다","."],"py":["daetongnyeongi","gungminege","yeonseolhaetseumnida","."],"vi":"Tổng thống đã phát biểu trước người dân.","alts":[]}},
    {"id":"ko404-국민","hanzi":"국민","pinyin":"gungmin","vi":"người dân, quốc dân","ex":{"tokens":["국민의","생각을","들어야","합니다","."],"py":["gungminui","saenggageul","deureoya","hamnida","."],"vi":"Phải lắng nghe suy nghĩ của người dân.","alts":[]}},
@@ -59,7 +59,7 @@
    {"id":"ko404-회담","hanzi":"회담","pinyin":"hoedam","vi":"hội đàm","ex":{"tokens":["두","나라가","회담을","열었습니다","."],"py":["du","naraga","hoedameul","yeoreotseumnida","."],"vi":"Hai nước đã mở cuộc hội đàm.","alts":[]}},
    {"id":"ko404-평화","hanzi":"평화","pinyin":"pyeonghwa","vi":"hòa bình","ex":{"tokens":["세계의","평화를","바랍니다","."],"py":["segyeui","pyeonghwareul","baramnida","."],"vi":"Tôi mong thế giới hòa bình.","alts":[]}}
   ]},
-  {"id":"ko405","title":"Giáo dục","desc":"Dạy học, thi cử, tương lai","icon":"교","unit":41,"course":"ko","order":500,"words":[
+  {"id":"ko405","title":"Giáo dục","desc":"Dạy học, thi cử, tương lai","icon":"교","unit":41,"course":"ko","order":2120,"words":[
    {"id":"ko405-교육","hanzi":"교육","pinyin":"gyoyuk","vi":"giáo dục","ex":{"tokens":["부모는","아이의","교육에","관심이","많습니다","."],"py":["bumoneun","aiui","gyoyuge","gwansimi","manseumnida","."],"vi":"Cha mẹ rất quan tâm đến việc giáo dục con.","alts":[]}},
    {"id":"ko405-입학하다","hanzi":"입학하다","pinyin":"ipakada","vi":"nhập học","ex":{"tokens":["동생이","올해","대학교에","입학했습니다","."],"py":["dongsaengi","olhae","daehakgyoe","ipakaetseumnida","."],"vi":"Em tôi năm nay đã vào đại học.","alts":[]}},
    {"id":"ko405-학원","hanzi":"학원","pinyin":"hagwon","vi":"trung tâm học thêm","ex":{"tokens":["저녁마다","영어","학원에","다닙니다","."],"py":["jeonyeongmada","yeongeo","hagwone","danimnida","."],"vi":"Tối nào tôi cũng đi học ở trung tâm tiếng Anh.","alts":[]}},

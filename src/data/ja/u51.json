@@ -3,7 +3,7 @@
   {"unit":51,"level":5,"title":"Phần 1: Nhà nước và kinh tế","desc":"Ngoại giao, tài chính, tư pháp, lao động, dư luận","color":"leaf","course":"ja"}
  ],
  "lessons": [
-  {"id":"ja501","title":"Ngoại giao","desc":"Hiệp ước, đàm phán, xung đột","icon":"外","unit":51,"course":"ja","order":610,"words":[
+  {"id":"ja501","title":"Ngoại giao","desc":"Hiệp ước, đàm phán, xung đột","icon":"外","unit":51,"course":"ja","order":3330,"words":[
    {"id":"ja501-外交","hanzi":"外交","pinyin":"gaikou","vi":"ngoại giao","ex":{"tokens":["両国","は","外交","の","関係","を","結びました","。"],"py":["ryoukoku","wa","gaikou","no","kankei","o","musubimashita","."],"vi":"Hai nước đã thiết lập quan hệ ngoại giao.","alts":[]}},
    {"id":"ja501-条約","hanzi":"条約","pinyin":"jouyaku","vi":"hiệp ước","ex":{"tokens":["二つ","の","国","が","条約","を","結びました","。"],"py":["futatsu","no","kuni","ga","jouyaku","o","musubimashita","."],"vi":"Hai nước đã ký hiệp ước.","alts":[]}},
    {"id":"ja501-交渉","hanzi":"交渉","pinyin":"koushou","vi":"đàm phán","ex":{"tokens":["会社","と","給料","の","交渉","を","しました","。"],"py":["kaisha","to","kyuuryou","no","koushou","o","shimashita","."],"vi":"Tôi đã đàm phán lương với công ty.","alts":[]}},
@@ -17,7 +17,7 @@
    {"id":"ja501-妥協","hanzi":"妥協","pinyin":"dakyou","vi":"thỏa hiệp","ex":{"tokens":["二人","は","最後","まで","妥協","しません","でした","。"],"py":["futari","wa","saigo","made","dakyou","shimasen","deshita","."],"vi":"Hai người đến cuối vẫn không thỏa hiệp.","alts":[]}},
    {"id":"ja501-合意","hanzi":"合意","pinyin":"goui","vi":"đồng thuận, thỏa thuận","ex":{"tokens":["両方","が","値段","に","ついて","合意","しました","。"],"py":["ryouhou","ga","nedan","ni","tsuite","goui","shimashita","."],"vi":"Hai bên đã thỏa thuận về giá.","alts":[]}}
   ]},
-  {"id":"ja502","title":"Tài chính","desc":"Cổ phiếu, nợ, ngân sách","icon":"金","unit":51,"course":"ja","order":620,"words":[
+  {"id":"ja502","title":"Tài chính","desc":"Cổ phiếu, nợ, ngân sách","icon":"金","unit":51,"course":"ja","order":3340,"words":[
    {"id":"ja502-金融","hanzi":"金融","pinyin":"kin'yuu","vi":"tài chính, tiền tệ","ex":{"tokens":["兄","は","金融","の","会社","に","勤めて","います","。"],"py":["ani","wa","kin'yuu","no","kaisha","ni","tsutomete","imasu","."],"vi":"Anh tôi làm ở công ty tài chính.","alts":[]}},
    {"id":"ja502-株式","hanzi":"株式","pinyin":"kabushiki","vi":"cổ phiếu, cổ phần","ex":{"tokens":["彼","は","会社","の","株式","を","買いました","。"],"py":["kare","wa","kaisha","no","kabushiki","o","kaimashita","."],"vi":"Anh ấy đã mua cổ phiếu của công ty.","alts":[]}},
    {"id":"ja502-為替","hanzi":"為替","pinyin":"kawase","vi":"tỷ giá hối đoái","ex":{"tokens":["毎朝","為替","の","ニュース","を","見ます","。"],"py":["maiasa","kawase","no","nyuusu","o","mimasu","."],"vi":"Sáng nào tôi cũng xem tin tỷ giá.","alts":[]}},
@@ -31,7 +31,7 @@
    {"id":"ja502-不況","hanzi":"不況","pinyin":"fukyou","vi":"suy thoái kinh tế","ex":{"tokens":["長い","不況","で","店","が","減りました","。"],"py":["nagai","fukyou","de","mise","ga","herimashita","."],"vi":"Suy thoái kéo dài khiến cửa hàng giảm đi.","alts":[]}},
    {"id":"ja502-補助金","hanzi":"補助金","pinyin":"hojokin","vi":"tiền trợ cấp","ex":{"tokens":["農家","は","国","から","補助金","を","もらいます","。"],"py":["nouka","wa","kuni","kara","hojokin","o","moraimasu","."],"vi":"Nhà nông nhận trợ cấp từ nhà nước.","alts":[]}}
   ]},
-  {"id":"ja503","title":"Tư pháp và hành chính","desc":"Hiến pháp, phán quyết, quy định","icon":"司","unit":51,"course":"ja","order":630,"words":[
+  {"id":"ja503","title":"Tư pháp và hành chính","desc":"Hiến pháp, phán quyết, quy định","icon":"司","unit":51,"course":"ja","order":3350,"words":[
    {"id":"ja503-憲法","hanzi":"憲法","pinyin":"kenpou","vi":"hiến pháp","ex":{"tokens":["学校","で","日本","の","憲法","を","学びました","。"],"py":["gakkou","de","nihon","no","kenpou","o","manabimashita","."],"vi":"Tôi đã học hiến pháp Nhật Bản ở trường.","alts":[]}},
    {"id":"ja503-訴訟","hanzi":"訴訟","pinyin":"soshou","vi":"kiện tụng","ex":{"tokens":["住民","は","会社","に","訴訟","を","起こしました","。"],"py":["juumin","wa","kaisha","ni","soshou","o","okoshimashita","."],"vi":"Cư dân đã khởi kiện công ty.","alts":[]}},
    {"id":"ja503-判決","hanzi":"判決","pinyin":"hanketsu","vi":"phán quyết, bản án","ex":{"tokens":["裁判","の","判決","は","明日","出ます","。"],"py":["saiban","no","hanketsu","wa","ashita","demasu","."],"vi":"Phán quyết của phiên tòa sẽ có vào ngày mai.","alts":[]}},
@@ -45,7 +45,7 @@
    {"id":"ja503-規制","hanzi":"規制","pinyin":"kisei","vi":"quy chế, hạn chế","ex":{"tokens":["政府","は","輸入","を","規制","して","います","。"],"py":["seifu","wa","yunyuu","o","kisei","shite","imasu","."],"vi":"Chính phủ đang hạn chế nhập khẩu.","alts":[]}},
    {"id":"ja503-賠償","hanzi":"賠償","pinyin":"baishou","vi":"bồi thường","ex":{"tokens":["会社","は","住民","に","賠償","しました","。"],"py":["kaisha","wa","juumin","ni","baishou","shimashita","."],"vi":"Công ty đã bồi thường cho cư dân.","alts":[]}}
   ]},
-  {"id":"ja504","title":"Lao động và quản trị","desc":"Tuyển dụng, chiến lược, hiệu suất","icon":"労","unit":51,"course":"ja","order":640,"words":[
+  {"id":"ja504","title":"Lao động và quản trị","desc":"Tuyển dụng, chiến lược, hiệu suất","icon":"労","unit":51,"course":"ja","order":3360,"words":[
    {"id":"ja504-雇用","hanzi":"雇用","pinyin":"koyou","vi":"việc làm, thuê lao động","ex":{"tokens":["工場","は","百人","を","雇用","して","います","。"],"py":["koujou","wa","hyakunin","o","koyou","shite","imasu","."],"vi":"Nhà máy đang thuê một trăm người.","alts":[]}},
    {"id":"ja504-労働","hanzi":"労働","pinyin":"roudou","vi":"lao động","ex":{"tokens":["長い","時間","の","労働","は","体","に","悪い","です","。"],"py":["nagai","jikan","no","roudou","wa","karada","ni","warui","desu","."],"vi":"Lao động nhiều giờ có hại cho cơ thể.","alts":[]}},
    {"id":"ja504-人材","hanzi":"人材","pinyin":"jinzai","vi":"nhân tài, nguồn nhân lực","ex":{"tokens":["会社","は","若い","人材","を","探して","います","。"],"py":["kaisha","wa","wakai","jinzai","o","sagashite","imasu","."],"vi":"Công ty đang tìm nhân lực trẻ.","alts":[]}},
@@ -59,7 +59,7 @@
    {"id":"ja504-交代","hanzi":"交代","pinyin":"koutai","vi":"thay ca, thay thế","ex":{"tokens":["夜","八時","に","交代","します","。"],"py":["yoru","hachiji","ni","koutai","shimasu","."],"vi":"Tám giờ tối chúng tôi thay ca.","alts":[]}},
    {"id":"ja504-赴任","hanzi":"赴任","pinyin":"funin","vi":"đi nhận nhiệm sở","ex":{"tokens":["父","は","来月","大阪","に","赴任","します","。"],"py":["chichi","wa","raigetsu","oosaka","ni","funin","shimasu","."],"vi":"Tháng sau bố tôi đi nhận công tác ở Osaka.","alts":[]}}
   ]},
-  {"id":"ja505","title":"Truyền thông và dư luận","desc":"Đưa tin, phê phán, định kiến","icon":"論","unit":51,"course":"ja","order":650,"words":[
+  {"id":"ja505","title":"Truyền thông và dư luận","desc":"Đưa tin, phê phán, định kiến","icon":"論","unit":51,"course":"ja","order":3370,"words":[
    {"id":"ja505-世論","hanzi":"世論","pinyin":"yoron","vi":"dư luận","ex":{"tokens":["政府","は","世論","を","調べました","。"],"py":["seifu","wa","yoron","o","shirabemashita","."],"vi":"Chính phủ đã thăm dò dư luận.","alts":[]}},
    {"id":"ja505-報道","hanzi":"報道","pinyin":"houdou","vi":"đưa tin, báo chí","ex":{"tokens":["その","事件","は","世界","に","報道","されました","。"],"py":["sono","jiken","wa","sekai","ni","houdou","saremashita","."],"vi":"Vụ việc đó đã được đưa tin khắp thế giới.","alts":[]}},
    {"id":"ja505-取材","hanzi":"取材","pinyin":"shuzai","vi":"lấy tin, thu thập tư liệu","ex":{"tokens":["記者","が","農家","を","取材","しました","。"],"py":["kisha","ga","nouka","o","shuzai","shimashita","."],"vi":"Phóng viên đã lấy tin về nhà nông.","alts":[]}},

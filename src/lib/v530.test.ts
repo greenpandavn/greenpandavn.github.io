@@ -12,17 +12,18 @@ describe("v5.3.0 Korean and Japanese courses", () => {
     ["ko", "Tiếng Hàn", ["TOPIK 1", "TOPIK 2", "TOPIK 3", "TOPIK 4", "TOPIK 5", "TOPIK 6"]],
     ["ja", "Tiếng Nhật", ["JLPT N5", "JLPT N4", "JLPT N3", "JLPT N2", "JLPT N1"]],
   ] as const)
-    it(`${label}: 15 lessons, 180 words per level with romanization, example and meaning`, async () => {
+    it(`${label}: 5,000 words spread over the levels with romanization, example and meaning`, async () => {
       expect(data.COURSES.find((x) => x.id === c)?.label).toBe(label);
       await data.loadCourse(c);
       data.setCourse(c);
-      const n = levels.length;
-      expect(data.LESSONS.length).toBe(15 * n);
-      expect(data.ALL_WORDS.length).toBe(180 * n);
-      expect(new Set(data.ALL_WORDS.map((w) => w.hanzi)).size).toBe(180 * n);
+      const perLevel = c === "ko" ? [834, 834, 833, 833, 833, 833] : [1000, 1000, 1000, 1000, 1000];
+      expect(data.LESSONS.length).toBe(c === "ko" ? 414 : 415);
+      expect(data.ALL_WORDS.length).toBe(5000);
+      expect(new Set(data.ALL_WORDS.map((w) => w.hanzi)).size).toBe(5000);
+      for (const l of data.LESSONS) expect(l.words.length, l.id).toBeGreaterThanOrEqual(10);
       const lvs = levels.map((_, i) => i + 1);
       expect(lvs.map((lv) => data.levelLabel(lv))).toEqual(levels);
-      expect(lvs.map((lv) => data.levelWordCount(lv, c))).toEqual(lvs.map(() => 180));
+      expect(lvs.map((lv) => data.levelWordCount(lv, c))).toEqual(perLevel);
       const script = c === "ko" ? /[\uac00-\ud7a3]/ : /[\u3040-\u30ff\u4e00-\u9fff]/;
       for (const w of data.ALL_WORDS) {
         expect(w.hanzi, w.id).toMatch(script);
@@ -37,7 +38,8 @@ describe("v5.3.0 Korean and Japanese courses", () => {
       }
       // parts 1–2 are free, part 3 and the second level need an account
       const units = data.UNITS.map((u) => u.unit);
-      expect(units).toEqual([1, 2, 3, ...lvs.slice(1).flatMap((lv) => [1, 2, 3].map((k) => lv * 10 + k))]);
+      const nine = [1, 2, 3, 4, 5, 6, 7, 8, 9];
+      expect(units).toEqual([...nine, ...lvs.slice(1).flatMap((lv) => nine.map((k) => lv * 10 + k))]);
       expect(units.filter((u) => !needsLogin(u))).toEqual([1, 2]);
       // mock exams
       const specs = mockSpecs(c);
@@ -56,7 +58,8 @@ describe("v5.3.0 Korean and Japanese courses", () => {
       }
       // game: wrong pairings are really wrong, no repeated word
       for (const lv of lvs) {
-        const level = data.ALL_WORDS.slice((lv - 1) * 180, lv * 180);
+        const from = perLevel.slice(0, lv - 1).reduce((a, b) => a + b, 0);
+        const level = data.ALL_WORDS.slice(from, from + perLevel[lv - 1]);
         for (let i = 0; i < 30; i++) {
         const round = buildRound(c, level.slice(0, 24), level);
         expect(round.length).toBe(10);

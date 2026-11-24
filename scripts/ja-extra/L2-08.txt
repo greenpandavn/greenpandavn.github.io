@@ -1,0 +1,99 @@
+=2
+@Tiền bạc và ngân hàng|Tài chính cá nhân
+口座:こうざ|tài khoản ngân hàng|銀行:ぎんこう で 口座:こうざ を 開きます:ひらきます 。|Tôi mở tài khoản ở ngân hàng.
+引き出す:ひきだす|rút (tiền)|銀行:ぎんこう で お金:おかね を 引き出します:ひきだします 。|Tôi rút tiền ở ngân hàng.
+振り込む:ふりこむ|chuyển khoản|家賃:やちん を 振り込みます:ふりこみます 。|Tôi chuyển khoản tiền nhà.
+預ける:あずける|gửi, ký gửi|銀行:ぎんこう に お金:おかね を 預けます:あずけます 。|Tôi gửi tiền vào ngân hàng.
+暗証番号:あんしょうばんごう|mã PIN|暗証番号:あんしょうばんごう を 押して:おして ください 。|Hãy bấm mã PIN.
+小銭:こぜに|tiền xu lẻ|小銭:こぜに が ありません 。|Tôi không có tiền xu lẻ.
+お札:おさつ|tiền giấy|千円:せんえん の お札:おさつ を 出します:だします 。|Tôi đưa ra tờ tiền giấy một nghìn yên.
+硬貨:こうか|tiền kim loại|百円:ひゃくえん の 硬貨:こうか を 入れます:いれます 。|Tôi cho đồng tiền kim loại một trăm yên vào.
+費用:ひよう|chi phí|旅行:りょこう の 費用:ひよう は 十万:じゅうまん 円:えん です 。|Chi phí chuyến đi là mười vạn yên.
+生活費:せいかつひ|sinh hoạt phí|東京:とうきょう は 生活費:せいかつひ が 高い:たかい です 。|Ở Tokyo sinh hoạt phí cao.
+交通費:こうつうひ|phí đi lại|会社:かいしゃ が 交通費:こうつうひ を 払います:はらいます 。|Công ty trả phí đi lại.
+食費:しょくひ|tiền ăn|今月:こんげつ は 食費:しょくひ が 多い:おおい です 。|Tháng này tiền ăn nhiều.
+光熱費:こうねつひ|tiền điện nước ga|冬:ふゆ は 光熱費:こうねつひ が 高い:たかい です 。|Mùa đông tiền điện nước ga cao.
+借金:しゃっきん|nợ|彼:かれ は 借金:しゃっきん が あります 。|Anh ấy có nợ.
+稼ぐ:かせぐ|kiếm (tiền)|アルバイト で お金:おかね を 稼ぎます:かせぎます 。|Tôi kiếm tiền bằng việc làm thêm.
+貯める:ためる|để dành|旅行:りょこう の ため に お金:おかね を 貯めます:ためます 。|Tôi để dành tiền cho chuyến du lịch.
+無駄:むだ|lãng phí|時間:じかん の 無駄:むだ です 。|Thật lãng phí thời gian.
+贅沢:ぜいたく|xa xỉ|毎日:まいにち 外食:がいしょく は 贅沢:ぜいたく です 。|Ngày nào cũng ăn ngoài thì xa xỉ.
+得:とく|có lợi, hời|今:いま 買う:かう と 得:とく です 。|Mua bây giờ thì hời.
+損:そん|thiệt, lỗ|高い:たかい 時:とき に 買って:かって 損:そん を しました 。|Tôi mua lúc đắt nên bị thiệt.
+@Thời tiết và mùa|Khí hậu
+気候:きこう|khí hậu|この 国:くに の 気候:きこう は 暖かい:あたたかい です 。|Khí hậu nước này ấm áp.
+天候:てんこう|tình hình thời tiết|天候:てんこう が 悪くて:わるくて 飛行機:ひこうき が 遅れました:おくれました 。|Thời tiết xấu nên máy bay bị trễ.
+快晴:かいせい|trời quang đãng|今日:きょう は 快晴:かいせい です 。|Hôm nay trời quang đãng.
+小雨:こさめ|mưa nhỏ|朝:あさ から 小雨:こさめ が 降って:ふって います 。|Từ sáng trời mưa nhỏ.
+夕立:ゆうだち|mưa rào buổi chiều|夏:なつ は 夕立:ゆうだち が 多い:おおい です 。|Mùa hè hay có mưa rào buổi chiều.
+吹雪:ふぶき|bão tuyết|吹雪:ふぶき で 電車:でんしゃ が 止まりました:とまりました 。|Tàu dừng vì bão tuyết.
+霜:しも|sương giá|今朝:けさ 、 霜:しも が 降りました:おりました 。|Sáng nay có sương giá.
+凍る:こおる|đóng băng|冬:ふゆ は 池:いけ が 凍ります:こおります 。|Mùa đông ao đóng băng.
+溶ける:とける|tan chảy|春:はる に なる と 雪:ゆき が 溶けます:とけます 。|Sang xuân thì tuyết tan.
+積もる:つもる|chất đống, phủ dày|雪:ゆき が 三十:さんじゅう センチ 積もりました:つもりました 。|Tuyết phủ dày ba mươi phân.
+止む:やむ|tạnh, ngừng|雨:あめ が 止みました:やみました 。|Mưa đã tạnh.
+乾燥:かんそう|khô hanh|冬:ふゆ は 空気:くうき が 乾燥:かんそう します 。|Mùa đông không khí khô hanh.
+真夏:まなつ|giữa hè|真夏:まなつ の 昼:ひる は とても 暑い:あつい です 。|Buổi trưa giữa hè rất nóng.
+真冬:まふゆ|giữa đông|真冬:まふゆ は 雪:ゆき が たくさん 降ります:ふります 。|Giữa đông tuyết rơi nhiều.
+日当たり:ひあたり|sự đón nắng|この 部屋:へや は 日当たり:ひあたり が いい です 。|Phòng này đón nắng tốt.
+日陰:ひかげ|bóng râm|暑い:あつい から 日陰:ひかげ で 休みます:やすみます 。|Vì nóng nên tôi nghỉ trong bóng râm.
+最高気温:さいこうきおん|nhiệt độ cao nhất|今日:きょう の 最高気温:さいこうきおん は 三十:さんじゅう 度:ど です 。|Nhiệt độ cao nhất hôm nay là ba mươi độ.
+@Nghề nghiệp và sản xuất|Ngành nghề
+職業:しょくぎょう|nghề nghiệp|ご 職業:しょくぎょう は 何:なん です か 。|Nghề nghiệp của anh là gì?
+公務員:こうむいん|công chức|父:ちち は 公務員:こうむいん です 。|Bố tôi là công chức.
+消防士:しょうぼうし|lính cứu hỏa|弟:おとうと は 消防士:しょうぼうし に なりたい です 。|Em trai tôi muốn làm lính cứu hỏa.
+大工:だいく|thợ mộc|大工:だいく が 家:いえ を 建てて:たてて います 。|Thợ mộc đang xây nhà.
+漁師:りょうし|ngư dân|祖父:そふ は 漁師:りょうし でした 。|Ông tôi từng là ngư dân.
+農業:のうぎょう|nông nghiệp|この 村:むら は 農業:のうぎょう が 盛ん:さかん です 。|Làng này nông nghiệp phát triển.
+工業:こうぎょう|công nghiệp|この 町:まち は 工業:こうぎょう の 町:まち です 。|Thị trấn này là thị trấn công nghiệp.
+産業:さんぎょう|ngành sản xuất|観光:かんこう は この 町:まち の 産業:さんぎょう です 。|Du lịch là ngành kinh tế của thị trấn này.
+生産:せいさん|sản xuất|この 工場:こうじょう は 車:くるま を 生産:せいさん して います 。|Nhà máy này sản xuất ô tô.
+製品:せいひん|sản phẩm|日本:にほん の 製品:せいひん は 丈夫:じょうぶ です 。|Sản phẩm Nhật bền.
+通訳:つうやく|phiên dịch|姉:あね は 通訳:つうやく の 仕事:しごと を して います 。|Chị tôi làm phiên dịch.
+美容師:びようし|thợ làm tóc|美容師:びようし に 髪:かみ を 切って:きって もらいます 。|Tôi nhờ thợ làm tóc cắt tóc.
+パイロット|phi công|子供:こども の 時:とき 、 パイロット に なりたかった です 。|Hồi nhỏ tôi muốn làm phi công.
+アナウンサー|phát thanh viên|アナウンサー が ニュース を 読みます:よみます 。|Phát thanh viên đọc tin tức.
+カメラマン|thợ chụp ảnh|カメラマン が 写真:しゃしん を 撮ります:とります 。|Thợ chụp ảnh chụp hình.
+デザイナー|nhà thiết kế|彼女:かのじょ は 服:ふく の デザイナー です 。|Cô ấy là nhà thiết kế quần áo.
+係:かかり|người phụ trách|係:かかり の 人:ひと に 聞いて:きいて ください 。|Hãy hỏi người phụ trách.
+店長:てんちょう|cửa hàng trưởng|店長:てんちょう に 相談:そうだん します 。|Tôi bàn với cửa hàng trưởng.
+@Hình dạng, chất liệu, dụng cụ|Đồ vật quanh ta
+三角:さんかく|hình tam giác|紙:かみ を 三角:さんかく に 切ります:きります 。|Tôi cắt giấy thành hình tam giác.
+四角:しかく|hình vuông|四角:しかく の 箱:はこ に 入れます:いれます 。|Tôi cho vào hộp hình vuông.
+長さ:ながさ|chiều dài|机:つくえ の 長さ:ながさ を 測ります:はかります 。|Tôi đo chiều dài cái bàn.
+高さ:たかさ|chiều cao (vật)|この 山:やま の 高さ:たかさ は 三千:さんぜん メートル です 。|Ngọn núi này cao ba nghìn mét.
+重さ:おもさ|trọng lượng|荷物:にもつ の 重さ:おもさ を 測ります:はかります 。|Tôi cân trọng lượng hành lý.
+広さ:ひろさ|độ rộng|部屋:へや の 広さ:ひろさ は どのくらい です か 。|Phòng rộng khoảng bao nhiêu?
+測る:はかる|đo|体温:たいおん を 測ります:はかります 。|Tôi đo thân nhiệt.
+穴:あな|cái lỗ, hố|靴下:くつした に 穴:あな が あります 。|Chiếc tất có lỗ thủng.
+ガラス|thủy tinh, kính|窓:まど の ガラス が 割れました:われました 。|Kính cửa sổ bị vỡ.
+プラスチック|nhựa|プラスチック の コップ を 使います:つかいます 。|Tôi dùng cốc nhựa.
+木綿:もめん|vải bông|木綿:もめん の シャツ は 涼しい:すずしい です 。|Áo sơ mi vải bông mát.
+絹:きぬ|lụa|絹:きぬ の 着物:きもの は 高い:たかい です 。|Kimono lụa đắt.
+毛:け|lông, sợi len|この 犬:いぬ は 毛:け が 長い:ながい です 。|Con chó này lông dài.
+革:かわ|da thuộc|革:かわ の かばん を 買いました:かいました 。|Tôi đã mua cặp da.
+鉄:てつ|sắt|この 橋:はし は 鉄:てつ で 作りました:つくりました 。|Cây cầu này làm bằng sắt.
+金:きん|vàng (kim loại)|金:きん の 指輪:ゆびわ を もらいました 。|Tôi được tặng nhẫn vàng.
+銀:ぎん|bạc (kim loại)|銀:ぎん の スプーン を 使います:つかいます 。|Tôi dùng thìa bạc.
+道具:どうぐ|dụng cụ|料理:りょうり の 道具:どうぐ を 買います:かいます 。|Tôi mua dụng cụ nấu ăn.
+釘:くぎ|cái đinh|壁:かべ に 釘:くぎ を 打ちます:うちます 。|Tôi đóng đinh vào tường.
+板:いた|tấm ván|板:いた で 棚:たな を 作ります:つくります 。|Tôi đóng kệ bằng ván.
+棒:ぼう|cái gậy|長い:ながい 棒:ぼう で 実:み を 取ります:とります 。|Tôi lấy quả bằng cái gậy dài.
+綱:つな|dây thừng|船:ふね を 綱:つな で 結びます:むすびます 。|Tôi buộc thuyền bằng dây thừng.
+電球:でんきゅう|bóng đèn|電球:でんきゅう が 切れました:きれました 。|Bóng đèn bị cháy rồi.
+電池:でんち|pin|時計:とけい の 電池:でんち を 取り替えます:とりかえます 。|Tôi thay pin đồng hồ.
+スイッチ|công tắc|電気:でんき の スイッチ を 押します:おします 。|Tôi bấm công tắc đèn.
+@Lái xe và phương tiện|Trên đường
+運転席:うんてんせき|ghế lái|運転席:うんてんせき に 座ります:すわります 。|Tôi ngồi vào ghế lái.
+ハンドル|vô lăng|ハンドル を 右:みぎ に 回します:まわします 。|Tôi xoay vô lăng sang phải.
+ブレーキ|phanh|ブレーキ を 踏みます:ふみます 。|Tôi đạp phanh.
+タイヤ|lốp xe|自転車:じてんしゃ の タイヤ を 取り替えます:とりかえます 。|Tôi thay lốp xe đạp.
+ガソリン|xăng|車:くるま に ガソリン を 入れます:いれます 。|Tôi đổ xăng cho xe.
+トラック|xe tải|大きい:おおきい トラック が 通ります:とおります 。|Chiếc xe tải lớn chạy qua.
+パトカー|xe cảnh sát|パトカー が 来ました:きました 。|Xe cảnh sát đã đến.
+追い越す:おいこす|vượt (xe)|前:まえ の 車:くるま を 追い越します:おいこします 。|Tôi vượt xe phía trước.
+ぶつかる|va chạm|車:くるま が 壁:かべ に ぶつかる 。|Ô tô va vào tường.
+一方通行:いっぽうつうこう|đường một chiều|この 道:みち は 一方通行:いっぽうつうこう です 。|Đường này là đường một chiều.
+通行止め:つうこうどめ|cấm lưu thông|工事:こうじ で 通行止め:つうこうどめ です 。|Đường cấm lưu thông vì thi công.
+工事:こうじ|thi công|道路:どうろ の 工事:こうじ を して います 。|Người ta đang thi công đường.
+道路:どうろ|đường sá|この 道路:どうろ は 新しい:あたらしい です 。|Con đường này mới.

@@ -1,0 +1,60 @@
+=4
+@Thể thao và giải trí đại chúng|Ngành công nghiệp giải trí
+프로선수|vận động viên chuyên nghiệp|그는 프로선수가 되었습니다.|Anh ấy đã thành vận động viên chuyên nghiệp.
+국가대표|tuyển thủ quốc gia|국가대표 선수로 뽑혔습니다.|Anh ấy được chọn làm tuyển thủ quốc gia.
+감독님|huấn luyện viên trưởng (kính ngữ)|감독님이 작전을 설명하십니다.|Huấn luyện viên trưởng giải thích chiến thuật.
+코치|huấn luyện viên|코치가 선수를 가르칩니다.|Huấn luyện viên dạy vận động viên.
+작전|chiến thuật|작전을 바꿨습니다.|Đã đổi chiến thuật.
+전반전|hiệp một|전반전이 끝났습니다.|Hiệp một đã kết thúc.
+후반전|hiệp hai|후반전에 골을 넣었습니다.|Đã ghi bàn ở hiệp hai.
+연장전|hiệp phụ|경기가 연장전까지 갔습니다.|Trận đấu kéo sang hiệp phụ.
+역전|sự lội ngược dòng|우리 팀이 역전을 했습니다.|Đội chúng tôi đã lội ngược dòng.
+반칙|lỗi phạm quy|선수가 반칙을 했습니다.|Cầu thủ đã phạm quy.
+부상|chấn thương|부상으로 경기에 못 나갑니다.|Không ra sân được vì chấn thương.
+응원단|đội cổ vũ|응원단이 노래를 부릅니다.|Đội cổ vũ hát.
+중계|việc tường thuật trực tiếp|축구 경기 중계를 봅니다.|Tôi xem tường thuật trận bóng đá.
+예선|vòng loại|예선을 통과했습니다.|Đã vượt qua vòng loại.
+본선|vòng chung kết (giải)|본선에 진출했습니다.|Đã tiến vào vòng chung kết.
+신기록|kỷ lục mới|신기록을 세웠습니다.|Đã lập kỷ lục mới.
+아이돌|thần tượng|아이돌 그룹이 공연합니다.|Nhóm nhạc thần tượng biểu diễn.
+기획사|công ty quản lý nghệ sĩ|기획사에서 연습생을 뽑습니다.|Công ty quản lý tuyển thực tập sinh.
+연습생|thực tập sinh (nghệ sĩ)|그는 오 년 동안 연습생이었습니다.|Cậu ấy đã là thực tập sinh năm năm.
+데뷔|sự ra mắt|작년에 데뷔를 했습니다.|Năm ngoái họ đã ra mắt.
+음반|đĩa nhạc|새 음반이 나왔습니다.|Đĩa nhạc mới đã ra.
+음원|bản nhạc số|음원 차트 일 위를 했습니다.|Đã đứng nhất bảng xếp hạng nhạc số.
+팬미팅|buổi gặp người hâm mộ|팬미팅에 다녀왔습니다.|Tôi đã đi buổi gặp người hâm mộ.
+촬영|việc quay phim, chụp ảnh|드라마 촬영을 합니다.|Họ quay phim truyền hình.
+편집|việc biên tập|영상 편집을 배웁니다.|Tôi học biên tập video.
+출연하다|góp mặt (trong phim, chương trình)|그 배우가 영화에 출연합니다.|Diễn viên đó góp mặt trong phim.
+@Cảm nhận và đánh giá|Diễn đạt nhận xét
+인상적|ấn tượng|그 장면이 인상적이었습니다.|Cảnh đó thật ấn tượng.
+충격적|gây sốc|충격적인 뉴스를 봤습니다.|Tôi đã xem một tin gây sốc.
+매력적|quyến rũ, hấp dẫn|그 도시는 매력적입니다.|Thành phố đó hấp dẫn.
+환상적|tuyệt diệu như mơ|경치가 환상적입니다.|Cảnh đẹp tuyệt diệu như mơ.
+실용적|thiết thực|실용적인 선물을 고릅니다.|Chọn món quà thiết thực.
+경제적|kinh tế, tiết kiệm|이 차는 경제적입니다.|Xe này tiết kiệm.
+효율적|có hiệu suất cao|효율적으로 일합니다.|Làm việc có hiệu suất cao.
+체계적|có hệ thống|체계적으로 공부합니다.|Học có hệ thống.
+기본적|cơ bản|기본적인 규칙을 지킵니다.|Tuân thủ quy tắc cơ bản.
+대표적|tiêu biểu|김치는 한국의 대표적인 음식입니다.|Kim chi là món ăn tiêu biểu của Hàn Quốc.
+세계적|tầm thế giới|그는 세계적인 가수입니다.|Anh ấy là ca sĩ tầm thế giới.
+개인적|mang tính cá nhân|개인적인 질문을 해도 됩니까?|Tôi hỏi câu mang tính cá nhân được không?
+공식적|chính thức|공식적으로 발표했습니다.|Đã công bố chính thức.
+@Tai nạn và an toàn|Phòng ngừa rủi ro
+안전사고|tai nạn do mất an toàn|공사장에서 안전사고가 났습니다.|Đã xảy ra tai nạn mất an toàn ở công trường.
+비상구|lối thoát hiểm|비상구 위치를 확인하세요.|Hãy kiểm tra vị trí lối thoát hiểm.
+소화기|bình chữa cháy|소화기 사용법을 배웁니다.|Học cách dùng bình chữa cháy.
+경보|báo động|화재 경보가 울렸습니다.|Chuông báo cháy đã reo.
+구조대|đội cứu hộ|구조대가 도착했습니다.|Đội cứu hộ đã đến.
+응급처치|sơ cứu|환자에게 응급처치를 합니다.|Sơ cứu cho bệnh nhân.
+인명피해|thiệt hại về người|다행히 인명피해는 없었습니다.|May mà không có thiệt hại về người.
+사망자|người tử vong|사고로 사망자가 발생했습니다.|Tai nạn đã làm có người tử vong.
+부상자|người bị thương|부상자를 병원으로 옮겼습니다.|Đã chuyển người bị thương đến bệnh viện.
+실종|sự mất tích|등산객이 실종됐습니다.|Người leo núi đã mất tích.
+붕괴|sự sụp đổ|건물 붕괴 사고가 났습니다.|Đã xảy ra tai nạn sập tòa nhà.
+폭발|vụ nổ|가스 폭발이 일어났습니다.|Đã xảy ra nổ ga.
+누출|sự rò rỉ|가스 누출을 확인합니다.|Kiểm tra rò rỉ ga.
+침수|sự ngập nước|비 때문에 도로가 침수됐습니다.|Đường bị ngập vì mưa.
+정전|sự mất điện|태풍으로 정전이 됐습니다.|Mất điện vì bão.
+안전수칙|quy tắc an toàn|안전수칙을 지켜야 합니다.|Phải tuân thủ quy tắc an toàn.
+점검하다|kiểm tra định kỳ|엘리베이터를 점검합니다.|Kiểm tra định kỳ thang máy.

@@ -3,7 +3,7 @@
   {"unit":62,"level":6,"title":"Phần 2: Học thuật và nhân văn","desc":"Triết học, ngôn ngữ, y sinh, nghệ thuật, lịch sử tư tưởng","color":"sky","course":"ko"}
  ],
  "lessons": [
-  {"id":"ko606","title":"Triết học và logic","desc":"Tồn tại, bản chất, mâu thuẫn","icon":"철","unit":62,"course":"ko","order":810,"words":[
+  {"id":"ko606","title":"Triết học và logic","desc":"Tồn tại, bản chất, mâu thuẫn","icon":"철","unit":62,"course":"ko","order":3510,"words":[
    {"id":"ko606-본질","hanzi":"본질","pinyin":"bonjil","vi":"bản chất","ex":{"tokens":["문제의","본질을","봐야","합니다","."],"py":["munjeui","bonjireul","bwaya","hamnida","."],"vi":"Phải nhìn vào bản chất của vấn đề.","alts":[]}},
    {"id":"ko606-존재","hanzi":"존재","pinyin":"jonjae","vi":"sự tồn tại","ex":{"tokens":["그는","팀에서","중요한","존재입니다","."],"py":["geuneun","timeseo","jungyohan","jonjaeimnida","."],"vi":"Anh ấy là một sự hiện diện quan trọng trong đội.","alts":[]}},
    {"id":"ko606-모순","hanzi":"모순","pinyin":"mosun","vi":"mâu thuẫn","ex":{"tokens":["그의","말에는","모순이","있습니다","."],"py":["geuui","mareneun","mosuni","itseumnida","."],"vi":"Trong lời anh ấy có mâu thuẫn.","alts":[]}},
@@ -17,7 +17,7 @@
    {"id":"ko606-상대적","hanzi":"상대적","pinyin":"sangdaejeok","vi":"tương đối","ex":{"tokens":["행복은","상대적인","것입니다","."],"py":["haengbogeun","sangdaejeogin","geosimnida","."],"vi":"Hạnh phúc là thứ tương đối.","alts":[]}},
    {"id":"ko606-절대적","hanzi":"절대적","pinyin":"jeoldaejeok","vi":"tuyệt đối","ex":{"tokens":["그","팀은","절대적으로","유리합니다","."],"py":["geu","timeun","jeoldaejeogeuro","yurihamnida","."],"vi":"Đội đó có lợi thế tuyệt đối.","alts":[]}}
   ]},
-  {"id":"ko607","title":"Ngôn ngữ học","desc":"Ngữ nghĩa, phương ngữ, diễn ngôn","icon":"언","unit":62,"course":"ko","order":820,"words":[
+  {"id":"ko607","title":"Ngôn ngữ học","desc":"Ngữ nghĩa, phương ngữ, diễn ngôn","icon":"언","unit":62,"course":"ko","order":3520,"words":[
    {"id":"ko607-언어","hanzi":"언어","pinyin":"eoneo","vi":"ngôn ngữ","ex":{"tokens":["세계에는","많은","언어가","있습니다","."],"py":["segyeeneun","maneun","eoneoga","itseumnida","."],"vi":"Trên thế giới có nhiều ngôn ngữ.","alts":[]}},
    {"id":"ko607-어휘","hanzi":"어휘","pinyin":"eohwi","vi":"vốn từ","ex":{"tokens":["책을","읽으면","어휘가","늘어납니다","."],"py":["chaegeul","ilgeumyeon","eohwiga","neureonamnida","."],"vi":"Đọc sách thì vốn từ tăng lên.","alts":[]}},
    {"id":"ko607-사투리","hanzi":"사투리","pinyin":"saturi","vi":"phương ngữ","ex":{"tokens":["부산","사투리는","이해하기","어렵습니다","."],"py":["busan","saturineun","ihaehagi","eoryeopseumnida","."],"vi":"Phương ngữ Busan khó hiểu.","alts":[]}},
@@ -31,7 +31,7 @@
    {"id":"ko607-요약하다","hanzi":"요약하다","pinyin":"yoyakada","vi":"tóm tắt","ex":{"tokens":["이","글을","세","문장으로","요약하세요","."],"py":["i","geureul","se","munjangeuro","yoyakaseyo","."],"vi":"Hãy tóm tắt bài này trong ba câu.","alts":[]}},
    {"id":"ko607-인용하다","hanzi":"인용하다","pinyin":"inyonghada","vi":"trích dẫn","ex":{"tokens":["그는","책의","문장을","인용했습니다","."],"py":["geuneun","chaegui","munjangeul","inyonghaetseumnida","."],"vi":"Anh ấy đã trích dẫn một câu trong sách.","alts":[]}}
   ]},
-  {"id":"ko608","title":"Y sinh học","desc":"Miễn dịch, dịch bệnh, đạo đức y khoa","icon":"생","unit":62,"course":"ko","order":830,"words":[
+  {"id":"ko608","title":"Y sinh học","desc":"Miễn dịch, dịch bệnh, đạo đức y khoa","icon":"생","unit":62,"course":"ko","order":3530,"words":[
    {"id":"ko608-면역","hanzi":"면역","pinyin":"myeonyeok","vi":"miễn dịch","ex":{"tokens":["잠이","부족하면","면역이","떨어집니다","."],"py":["jami","bujokamyeon","myeonyeogi","tteoreojimnida","."],"vi":"Thiếu ngủ thì miễn dịch giảm.","alts":[]}},
    {"id":"ko608-전염병","hanzi":"전염병","pinyin":"jeonyeombyeong","vi":"bệnh truyền nhiễm","ex":{"tokens":["전염병이","전국으로","퍼졌습니다","."],"py":["jeonyeombyeongi","jeongugeuro","peojyeotseumnida","."],"vi":"Bệnh truyền nhiễm đã lan ra cả nước.","alts":[]}},
    {"id":"ko608-백신","hanzi":"백신","pinyin":"baeksin","vi":"vắc xin","ex":{"tokens":["아이에게","백신을","맞혔습니다","."],"py":["aiege","baeksineul","machyeotseumnida","."],"vi":"Tôi đã cho con tiêm vắc xin.","alts":[]}},
@@ -45,7 +45,7 @@
    {"id":"ko608-수명","hanzi":"수명","pinyin":"sumyeong","vi":"tuổi thọ","ex":{"tokens":["평균","수명이","점점","길어집니다","."],"py":["pyeonggyun","sumyeongi","jeomjeom","gireojimnida","."],"vi":"Tuổi thọ trung bình ngày càng dài.","alts":[]}},
    {"id":"ko608-노화","hanzi":"노화","pinyin":"nohwa","vi":"lão hóa","ex":{"tokens":["운동은","노화를","늦춥니다","."],"py":["undongeun","nohwareul","neutchumnida","."],"vi":"Tập thể dục làm chậm lão hóa.","alts":[]}}
   ]},
-  {"id":"ko609","title":"Nghệ thuật và thẩm mỹ","desc":"Sáng tạo, phong cách, cảm hứng","icon":"미","unit":62,"course":"ko","order":840,"words":[
+  {"id":"ko609","title":"Nghệ thuật và thẩm mỹ","desc":"Sáng tạo, phong cách, cảm hứng","icon":"미","unit":62,"course":"ko","order":3540,"words":[
    {"id":"ko609-창작","hanzi":"창작","pinyin":"changjak","vi":"sáng tác","ex":{"tokens":["그는","평생","창작","활동을","했습니다","."],"py":["geuneun","pyeongsaeng","changjak","hwaldongeul","haetseumnida","."],"vi":"Ông ấy đã sáng tác suốt đời.","alts":[]}},
    {"id":"ko609-영감","hanzi":"영감","pinyin":"yeonggam","vi":"cảm hứng","ex":{"tokens":["여행에서","영감을","얻었습니다","."],"py":["yeohaengeseo","yeonggameul","eodeotseumnida","."],"vi":"Tôi đã có cảm hứng từ chuyến đi.","alts":[]}},
    {"id":"ko609-독창적","hanzi":"독창적","pinyin":"dokchangjeok","vi":"độc đáo, sáng tạo","ex":{"tokens":["그의","생각은","매우","독창적입니다","."],"py":["geuui","saenggageun","maeu","dokchangjeogimnida","."],"vi":"Ý tưởng của anh ấy rất độc đáo.","alts":[]}},
@@ -59,7 +59,7 @@
    {"id":"ko609-전통문화","hanzi":"전통문화","pinyin":"jeontongmunhwa","vi":"văn hóa truyền thống","ex":{"tokens":["전통문화를","지키는","일은","중요합니다","."],"py":["jeontongmunhwareul","jikineun","ireun","jungyohamnida","."],"vi":"Việc gìn giữ văn hóa truyền thống là quan trọng.","alts":[]}},
    {"id":"ko609-계승하다","hanzi":"계승하다","pinyin":"gyeseunghada","vi":"kế thừa","ex":{"tokens":["젊은","세대가","전통을","계승합니다","."],"py":["jeolmeun","sedaega","jeontongeul","gyeseunghamnida","."],"vi":"Thế hệ trẻ kế thừa truyền thống.","alts":[]}}
   ]},
-  {"id":"ko610","title":"Lịch sử tư tưởng","desc":"Cận đại, bản sắc, ký ức","icon":"사","unit":62,"course":"ko","order":850,"words":[
+  {"id":"ko610","title":"Lịch sử tư tưởng","desc":"Cận đại, bản sắc, ký ức","icon":"사","unit":62,"course":"ko","order":3550,"words":[
    {"id":"ko610-근대","hanzi":"근대","pinyin":"geundae","vi":"cận đại","ex":{"tokens":["근대에","많은","변화가","있었습니다","."],"py":["geundaee","maneun","byeonhwaga","isseotseumnida","."],"vi":"Thời cận đại đã có nhiều biến đổi.","alts":[]}},
    {"id":"ko610-정체성","hanzi":"정체성","pinyin":"jeongcheseong","vi":"bản sắc","ex":{"tokens":["그는","자기","정체성을","찾고","있습니다","."],"py":["geuneun","jagi","jeongcheseongeul","chatgo","itseumnida","."],"vi":"Anh ấy đang tìm bản sắc của mình.","alts":[]}},
    {"id":"ko610-민족","hanzi":"민족","pinyin":"minjok","vi":"dân tộc","ex":{"tokens":["우리","민족은","오랜","역사가","있습니다","."],"py":["uri","minjogeun","oraen","yeoksaga","itseumnida","."],"vi":"Dân tộc chúng tôi có lịch sử lâu đời.","alts":[]}},

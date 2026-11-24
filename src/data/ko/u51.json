@@ -3,7 +3,7 @@
   {"unit":51,"level":5,"title":"Phần 1: Xã hội và thời sự","desc":"Dư luận, kinh tế, lao động, tư pháp, quốc tế","color":"leaf","course":"ko"}
  ],
  "lessons": [
-  {"id":"ko501","title":"Báo chí và dư luận","desc":"Tin tức, khảo sát, tranh luận","icon":"론","unit":51,"course":"ko","order":610,"words":[
+  {"id":"ko501","title":"Báo chí và dư luận","desc":"Tin tức, khảo sát, tranh luận","icon":"론","unit":51,"course":"ko","order":2770,"words":[
    {"id":"ko501-언론","hanzi":"언론","pinyin":"eollon","vi":"báo chí, truyền thông","ex":{"tokens":["언론이","그","사건을","크게","보도했습니다","."],"py":["eolloni","geu","sageoneul","keuge","bodohaetseumnida","."],"vi":"Báo chí đã đưa tin rầm rộ về vụ việc đó.","alts":[]}},
    {"id":"ko501-여론","hanzi":"여론","pinyin":"yeoron","vi":"dư luận","ex":{"tokens":["여론은","새","정책에","반대합니다","."],"py":["yeoroneun","sae","jeongchaege","bandaehamnida","."],"vi":"Dư luận phản đối chính sách mới.","alts":[]}},
    {"id":"ko501-보도하다","hanzi":"보도하다","pinyin":"bodohada","vi":"đưa tin","ex":{"tokens":["기자가","현장에서","사고를","보도했습니다","."],"py":["gijaga","hyeonjangeseo","sagoreul","bodohaetseumnida","."],"vi":"Phóng viên đã đưa tin về tai nạn từ hiện trường.","alts":[]}},
@@ -17,7 +17,7 @@
    {"id":"ko501-전문가","hanzi":"전문가","pinyin":"jeonmunga","vi":"chuyên gia","ex":{"tokens":["전문가의","의견을","들었습니다","."],"py":["jeonmungaui","uigyeoneul","deureotseumnida","."],"vi":"Chúng tôi đã nghe ý kiến của chuyên gia.","alts":[]}},
    {"id":"ko501-현상","hanzi":"현상","pinyin":"hyeonsang","vi":"hiện tượng","ex":{"tokens":["이것은","새로운","사회","현상입니다","."],"py":["igeoseun","saeroun","sahoe","hyeonsangimnida","."],"vi":"Đây là một hiện tượng xã hội mới.","alts":[]}}
   ]},
-  {"id":"ko502","title":"Kinh tế vĩ mô","desc":"Tài chính, thương mại, khủng hoảng","icon":"금","unit":51,"course":"ko","order":620,"words":[
+  {"id":"ko502","title":"Kinh tế vĩ mô","desc":"Tài chính, thương mại, khủng hoảng","icon":"금","unit":51,"course":"ko","order":2780,"words":[
    {"id":"ko502-금융","hanzi":"금융","pinyin":"geumyung","vi":"tài chính","ex":{"tokens":["그는","금융","회사에서","일합니다","."],"py":["geuneun","geumyung","hoesaeseo","ilhamnida","."],"vi":"Anh ấy làm việc ở công ty tài chính.","alts":[]}},
    {"id":"ko502-무역","hanzi":"무역","pinyin":"muyeok","vi":"thương mại, mậu dịch","ex":{"tokens":["두","나라의","무역이","늘었습니다","."],"py":["du","naraui","muyeogi","neureotseumnida","."],"vi":"Thương mại giữa hai nước đã tăng.","alts":[]}},
    {"id":"ko502-주식","hanzi":"주식","pinyin":"jusik","vi":"cổ phiếu","ex":{"tokens":["요즘","주식에","투자하는","사람이","많습니다","."],"py":["yojeum","jusige","tujahaneun","sarami","manseumnida","."],"vi":"Dạo này có nhiều người đầu tư cổ phiếu.","alts":[]}},
@@ -31,7 +31,7 @@
    {"id":"ko502-공급","hanzi":"공급","pinyin":"gonggeup","vi":"cung cấp, nguồn cung","ex":{"tokens":["물","공급이","잠시","중단되었습니다","."],"py":["mul","gonggeubi","jamsi","jungdandoeeotseumnida","."],"vi":"Việc cấp nước tạm thời bị gián đoạn.","alts":[]}},
    {"id":"ko502-전망","hanzi":"전망","pinyin":"jeonmang","vi":"triển vọng, dự báo","ex":{"tokens":["내년","경제","전망은","밝습니다","."],"py":["naenyeon","gyeongje","jeonmangeun","bakseumnida","."],"vi":"Triển vọng kinh tế năm sau tươi sáng.","alts":[]}}
   ]},
-  {"id":"ko503","title":"Lao động","desc":"Tuyển dụng, đình công, điều kiện","icon":"노","unit":51,"course":"ko","order":630,"words":[
+  {"id":"ko503","title":"Lao động","desc":"Tuyển dụng, đình công, điều kiện","icon":"노","unit":51,"course":"ko","order":2790,"words":[
    {"id":"ko503-노동","hanzi":"노동","pinyin":"nodong","vi":"lao động","ex":{"tokens":["노동","시간이","너무","깁니다","."],"py":["nodong","sigani","neomu","gimnida","."],"vi":"Thời gian lao động quá dài.","alts":[]}},
    {"id":"ko503-고용","hanzi":"고용","pinyin":"goyong","vi":"tuyển dụng, việc làm","ex":{"tokens":["정부가","고용을","늘리려고","합니다","."],"py":["jeongbuga","goyongeul","neulliryeogo","hamnida","."],"vi":"Chính phủ định tăng việc làm.","alts":[]}},
    {"id":"ko503-해고하다","hanzi":"해고하다","pinyin":"haegohada","vi":"sa thải","ex":{"tokens":["회사가","직원","백","명을","해고했습니다","."],"py":["hoesaga","jigwon","baek","myeongeul","haegohaetseumnida","."],"vi":"Công ty đã sa thải một trăm nhân viên.","alts":[]}},
@@ -45,7 +45,7 @@
    {"id":"ko503-요구하다","hanzi":"요구하다","pinyin":"yoguhada","vi":"yêu cầu, đòi hỏi","ex":{"tokens":["고객이","환불을","요구했습니다","."],"py":["gogaegi","hwanbureul","yoguhaetseumnida","."],"vi":"Khách hàng đã yêu cầu hoàn tiền.","alts":[]}},
    {"id":"ko503-책임","hanzi":"책임","pinyin":"chaegim","vi":"trách nhiệm","ex":{"tokens":["이","일은","제","책임입니다","."],"py":["i","ireun","je","chaegimimnida","."],"vi":"Việc này là trách nhiệm của tôi.","alts":[]}}
   ]},
-  {"id":"ko504","title":"Tư pháp","desc":"Điều tra, xét xử, hình phạt","icon":"판","unit":51,"course":"ko","order":640,"words":[
+  {"id":"ko504","title":"Tư pháp","desc":"Điều tra, xét xử, hình phạt","icon":"판","unit":51,"course":"ko","order":2800,"words":[
    {"id":"ko504-수사하다","hanzi":"수사하다","pinyin":"susahada","vi":"điều tra (hình sự)","ex":{"tokens":["경찰이","그","사건을","수사하고","있습니다","."],"py":["gyeongchari","geu","sageoneul","susahago","itseumnida","."],"vi":"Cảnh sát đang điều tra vụ án đó.","alts":[]}},
    {"id":"ko504-체포하다","hanzi":"체포하다","pinyin":"chepohada","vi":"bắt giữ","ex":{"tokens":["경찰이","범인을","체포했습니다","."],"py":["gyeongchari","beomineul","chepohaetseumnida","."],"vi":"Cảnh sát đã bắt giữ thủ phạm.","alts":[]}},
    {"id":"ko504-범인","hanzi":"범인","pinyin":"beomin","vi":"thủ phạm","ex":{"tokens":["범인은","아직","잡히지","않았습니다","."],"py":["beomineun","ajik","japiji","anatseumnida","."],"vi":"Thủ phạm vẫn chưa bị bắt.","alts":[]}},
@@ -59,7 +59,7 @@
    {"id":"ko504-인권","hanzi":"인권","pinyin":"ingwon","vi":"nhân quyền","ex":{"tokens":["인권은","누구에게나","소중합니다","."],"py":["ingwoneun","nuguegena","sojunghamnida","."],"vi":"Nhân quyền quý giá với bất kỳ ai.","alts":[]}},
    {"id":"ko504-정의","hanzi":"정의","pinyin":"jeongui","vi":"công lý; định nghĩa","ex":{"tokens":["사람들은","정의를","원합니다","."],"py":["saramdeureun","jeonguireul","wonhamnida","."],"vi":"Mọi người mong muốn công lý.","alts":[]}}
   ]},
-  {"id":"ko505","title":"Quan hệ quốc tế","desc":"Ngoại giao, chiến tranh, hợp tác","icon":"외","unit":51,"course":"ko","order":650,"words":[
+  {"id":"ko505","title":"Quan hệ quốc tế","desc":"Ngoại giao, chiến tranh, hợp tác","icon":"외","unit":51,"course":"ko","order":2810,"words":[
    {"id":"ko505-외교","hanzi":"외교","pinyin":"oegyo","vi":"ngoại giao","ex":{"tokens":["두","나라는","외교","관계를","맺었습니다","."],"py":["du","naraneun","oegyo","gwangyereul","maejeotseumnida","."],"vi":"Hai nước đã thiết lập quan hệ ngoại giao.","alts":[]}},
    {"id":"ko505-대사관","hanzi":"대사관","pinyin":"daesagwan","vi":"đại sứ quán","ex":{"tokens":["대사관에서","비자를","받았습니다","."],"py":["daesagwaneseo","bijareul","badatseumnida","."],"vi":"Tôi đã nhận visa ở đại sứ quán.","alts":[]}},
    {"id":"ko505-전쟁","hanzi":"전쟁","pinyin":"jeonjaeng","vi":"chiến tranh","ex":{"tokens":["전쟁은","많은","사람을","죽입니다","."],"py":["jeonjaengeun","maneun","sarameul","jugimnida","."],"vi":"Chiến tranh giết chết nhiều người.","alts":[]}},

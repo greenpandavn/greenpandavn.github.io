@@ -1,0 +1,98 @@
+=4
+@Môi trường và năng lượng|Bảo vệ thiên nhiên
+환경오염|ô nhiễm môi trường|환경오염이 심해지고 있습니다.|Ô nhiễm môi trường đang nặng lên.
+대기오염|ô nhiễm không khí|대기오염으로 하늘이 뿌옇습니다.|Bầu trời mờ đục vì ô nhiễm không khí.
+수질오염|ô nhiễm nguồn nước|수질오염을 막아야 합니다.|Phải ngăn ô nhiễm nguồn nước.
+쓰레기장|bãi rác|쓰레기장이 가득 찼습니다.|Bãi rác đã đầy.
+음식물쓰레기|rác thực phẩm|음식물쓰레기를 줄입니다.|Giảm rác thực phẩm.
+이산화탄소|khí cacbonic|이산화탄소 배출을 줄입니다.|Giảm phát thải khí cacbonic.
+온실가스|khí nhà kính|온실가스가 지구를 덥게 합니다.|Khí nhà kính làm trái đất nóng lên.
+오존층|tầng ô-zôn|오존층이 파괴되고 있습니다.|Tầng ô-zôn đang bị phá hủy.
+빙하|sông băng|빙하가 녹고 있습니다.|Sông băng đang tan.
+해수면|mực nước biển|해수면이 올라갑니다.|Mực nước biển dâng lên.
+태양열|nhiệt mặt trời|태양열로 물을 데웁니다.|Người ta đun nước bằng nhiệt mặt trời.
+풍력|sức gió|풍력 발전소를 세웁니다.|Họ xây nhà máy điện gió.
+원자력|năng lượng nguyên tử|원자력 발전은 논란이 많습니다.|Điện nguyên tử gây nhiều tranh cãi.
+발전소|nhà máy điện|발전소에서 전기를 만듭니다.|Nhà máy điện sản xuất điện.
+석유|dầu mỏ|석유 가격이 올랐습니다.|Giá dầu mỏ đã tăng.
+석탄|than đá|석탄 사용을 줄입니다.|Giảm sử dụng than đá.
+천연가스|khí thiên nhiên|천연가스를 수입합니다.|Nhập khẩu khí thiên nhiên.
+연료|nhiên liệu|자동차 연료가 떨어졌습니다.|Xe ô tô đã hết nhiên liệu.
+전기차|xe điện|전기차를 타는 사람이 늘었습니다.|Người đi xe điện đã tăng.
+대중교통|giao thông công cộng|대중교통을 이용합시다.|Chúng ta hãy dùng giao thông công cộng.
+야생동물|động vật hoang dã|야생동물을 보호합니다.|Bảo vệ động vật hoang dã.
+서식지|nơi sinh sống (động vật)|동물의 서식지가 사라집니다.|Nơi sinh sống của động vật đang biến mất.
+산림|rừng núi|산림을 보호해야 합니다.|Phải bảo vệ rừng núi.
+습지|vùng đất ngập nước|습지에 새가 많이 삽니다.|Nhiều chim sống ở vùng đất ngập nước.
+녹지|mảng xanh|도시에 녹지를 늘립니다.|Tăng mảng xanh trong thành phố.
+정화하다|làm sạch, lọc|더러운 물을 정화합니다.|Lọc sạch nước bẩn.
+재생하다|tái sinh|종이를 재생합니다.|Tái sinh giấy.
+오염시키다|làm ô nhiễm|공장이 강을 오염시킵니다.|Nhà máy làm ô nhiễm sông.
+@Quan hệ quốc tế|Thế giới và ngoại giao
+선진국|nước phát triển|선진국의 경험을 배웁니다.|Học kinh nghiệm của nước phát triển.
+개발도상국|nước đang phát triển|개발도상국을 돕습니다.|Giúp đỡ nước đang phát triển.
+강대국|cường quốc|강대국들이 회의를 합니다.|Các cường quốc họp bàn.
+동맹|đồng minh|두 나라는 동맹 관계입니다.|Hai nước có quan hệ đồng minh.
+교류|sự giao lưu|문화 교류가 활발합니다.|Giao lưu văn hóa sôi nổi.
+정상회담|hội nghị thượng đỉnh|내일 정상회담이 열립니다.|Ngày mai hội nghị thượng đỉnh diễn ra.
+대사|đại sứ; lời thoại|한국 대사가 연설했습니다.|Đại sứ Hàn Quốc đã phát biểu.
+영사관|lãnh sự quán|영사관에서 서류를 받습니다.|Tôi nhận giấy tờ ở lãnh sự quán.
+국적|quốc tịch|국적이 어디입니까?|Quốc tịch của bạn là gì?
+영토|lãnh thổ|영토 문제로 갈등이 있습니다.|Có mâu thuẫn vì vấn đề lãnh thổ.
+국제기구|tổ chức quốc tế|국제기구에서 일하고 싶습니다.|Tôi muốn làm ở tổ chức quốc tế.
+원조|viện trợ|가난한 나라에 원조를 보냅니다.|Gửi viện trợ cho nước nghèo.
+제재|sự trừng phạt|경제 제재를 가했습니다.|Họ đã áp đặt trừng phạt kinh tế.
+휴전|đình chiến|두 나라가 휴전을 했습니다.|Hai nước đã đình chiến.
+테러|khủng bố|테러 사건이 발생했습니다.|Đã xảy ra vụ khủng bố.
+핵무기|vũ khí hạt nhân|핵무기를 없애야 합니다.|Phải xóa bỏ vũ khí hạt nhân.
+병역|nghĩa vụ quân sự|한국 남자는 병역 의무가 있습니다.|Nam giới Hàn Quốc có nghĩa vụ quân sự.
+수교|việc thiết lập quan hệ ngoại giao|두 나라가 수교를 했습니다.|Hai nước đã thiết lập quan hệ ngoại giao.
+파견하다|phái cử|의사를 해외에 파견합니다.|Phái cử bác sĩ ra nước ngoài.
+체결하다|ký kết|두 회사가 계약을 체결했습니다.|Hai công ty đã ký kết hợp đồng.
+개방하다|mở cửa|시장을 개방합니다.|Mở cửa thị trường.
+@Động từ trừu tượng|Hành động khái quát
+갖추다|trang bị, có đủ|필요한 조건을 갖췄습니다.|Đã có đủ điều kiện cần thiết.
+드러나다|lộ ra|사실이 드러났습니다.|Sự thật đã lộ ra.
+드러내다|để lộ, bộc lộ|감정을 드러냅니다.|Bộc lộ cảm xúc.
+나타내다|biểu thị|이 그림은 평화를 나타냅니다.|Bức tranh này biểu thị hòa bình.
+이끌다|dẫn dắt|그가 팀을 이끕니다.|Anh ấy dẫn dắt nhóm.
+맞서다|đối đầu|어려움에 맞섭니다.|Đối đầu với khó khăn.
+벗어나다|thoát khỏi|위험에서 벗어났습니다.|Đã thoát khỏi nguy hiểm.
+이어지다|được nối tiếp|회의가 밤까지 이어졌습니다.|Cuộc họp kéo dài nối tiếp đến đêm.
+거치다|đi qua, trải qua|여러 단계를 거칩니다.|Trải qua nhiều bước.
+미치다|gây (ảnh hưởng); điên|날씨가 농사에 영향을 미칩니다.|Thời tiết gây ảnh hưởng đến việc nhà nông.
+끼치다|gây ra (phiền, hại)|주변 사람에게 피해를 끼쳤습니다.|Đã gây hại cho người xung quanh.
+달하다|đạt đến (con số)|관객이 백만 명에 달했습니다.|Khán giả đã đạt đến một triệu người.
+뒤따르다|theo sau|책임이 뒤따릅니다.|Trách nhiệm theo sau.
+앞서다|đi trước|기술에서 앞섭니다.|Đi trước về công nghệ.
+뒤처지다|tụt lại|경쟁에서 뒤처졌습니다.|Đã tụt lại trong cạnh tranh.
+돌이키다|nhìn lại, vãn hồi|과거를 돌이켜 봅니다.|Nhìn lại quá khứ.
+되찾다|tìm lại, giành lại|건강을 되찾았습니다.|Đã lấy lại sức khỏe.
+빠져들다|chìm đắm vào|게임에 빠져들었습니다.|Đã chìm đắm vào trò chơi.
+내세우다|đưa ra, nêu lên|자기 주장을 내세웁니다.|Nêu lên chủ trương của mình.
+떠맡다|gánh vác|어려운 일을 떠맡았습니다.|Đã gánh vác việc khó.
+몰두하다|vùi đầu vào|연구에 몰두합니다.|Vùi đầu vào nghiên cứu.
+힘쓰다|dốc sức|교육에 힘씁니다.|Dốc sức cho giáo dục.
+@Tính từ nâng cao|Đánh giá và miêu tả
+뛰어나다|vượt trội|그는 실력이 뛰어납니다.|Anh ấy có thực lực vượt trội.
+우수하다|ưu tú|성적이 우수합니다.|Thành tích ưu tú.
+풍부하다|phong phú|경험이 풍부합니다.|Kinh nghiệm phong phú.
+독특하다|độc đáo|디자인이 독특합니다.|Thiết kế độc đáo.
+섬세하다|tinh xảo, tinh tế|그림이 섬세합니다.|Bức tranh tinh xảo.
+정교하다|tinh vi|이 시계는 정교합니다.|Chiếc đồng hồ này tinh vi.
+원활하다|trôi chảy, suôn sẻ|교통이 원활합니다.|Giao thông thông suốt.
+안정되다|ổn định|생활이 안정됐습니다.|Cuộc sống đã ổn định.
+불안정하다|bất ổn|직업이 불안정합니다.|Nghề nghiệp bất ổn.
+치열하다|khốc liệt|경쟁이 치열합니다.|Cạnh tranh khốc liệt.
+심하다|nặng, quá mức|교통 체증이 심합니다.|Tắc đường rất nặng.
+가혹하다|hà khắc|처벌이 가혹합니다.|Hình phạt hà khắc.
+부당하다|bất công, không chính đáng|부당한 대우를 받았습니다.|Tôi đã bị đối xử bất công.
+정당하다|chính đáng|정당한 요구입니다.|Đó là yêu cầu chính đáng.
+합리적|hợp lý|합리적인 가격입니다.|Đó là giá hợp lý.
+비합리적|bất hợp lý|그 규칙은 비합리적입니다.|Quy tắc đó bất hợp lý.
+현실적|thực tế|현실적인 계획을 세웁니다.|Lập kế hoạch thực tế.
+이상적|lý tưởng|이상적인 직장을 찾습니다.|Tìm chỗ làm lý tưởng.
+자발적|tự nguyện|자발적으로 참여했습니다.|Đã tham gia tự nguyện.
+강제적|cưỡng chế|강제적인 방법은 좋지 않습니다.|Cách cưỡng chế là không tốt.
+일시적|tạm thời|이것은 일시적인 현상입니다.|Đây là hiện tượng tạm thời.
+지속적|liên tục, bền bỉ|지속적인 관심이 필요합니다.|Cần sự quan tâm liên tục.

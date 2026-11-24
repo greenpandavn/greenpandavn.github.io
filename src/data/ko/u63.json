@@ -3,7 +3,7 @@
   {"unit":63,"level":6,"title":"Phần 3: Diễn đạt tinh tế","desc":"Động từ, tính từ, phó từ nâng cao, thành ngữ, văn viết","color":"grape","course":"ko"}
  ],
  "lessons": [
-  {"id":"ko611","title":"Động từ nâng cao","desc":"Gây ra, vượt quá, thúc đẩy","icon":"고","unit":63,"course":"ko","order":860,"words":[
+  {"id":"ko611","title":"Động từ nâng cao","desc":"Gây ra, vượt quá, thúc đẩy","icon":"고","unit":63,"course":"ko","order":3560,"words":[
    {"id":"ko611-초래하다","hanzi":"초래하다","pinyin":"choraehada","vi":"gây ra, dẫn đến","ex":{"tokens":["그","결정은","큰","문제를","초래했습니다","."],"py":["geu","gyeoljeongeun","keun","munjereul","choraehaetseumnida","."],"vi":"Quyết định đó đã gây ra vấn đề lớn.","alts":[]}},
    {"id":"ko611-야기하다","hanzi":"야기하다","pinyin":"yagihada","vi":"gây nên","ex":{"tokens":["작은","실수가","사고를","야기했습니다","."],"py":["jageun","silsuga","sagoreul","yagihaetseumnida","."],"vi":"Một sai sót nhỏ đã gây nên tai nạn.","alts":[]}},
    {"id":"ko611-촉진하다","hanzi":"촉진하다","pinyin":"chokjinhada","vi":"thúc đẩy","ex":{"tokens":["운동은","소화를","촉진합니다","."],"py":["undongeun","sohwareul","chokjinhamnida","."],"vi":"Vận động thúc đẩy tiêu hóa.","alts":[]}},
@@ -17,7 +17,7 @@
    {"id":"ko611-수용하다","hanzi":"수용하다","pinyin":"suyonghada","vi":"tiếp nhận, chấp nhận","ex":{"tokens":["회사는","직원들의","요구를","수용했습니다","."],"py":["hoesaneun","jigwondeurui","yogureul","suyonghaetseumnida","."],"vi":"Công ty đã chấp nhận yêu cầu của nhân viên.","alts":[]}},
    {"id":"ko611-지향하다","hanzi":"지향하다","pinyin":"jihyanghada","vi":"hướng tới","ex":{"tokens":["우리는","평화로운","사회를","지향합니다","."],"py":["urineun","pyeonghwaroun","sahoereul","jihyanghamnida","."],"vi":"Chúng tôi hướng tới một xã hội hòa bình.","alts":[]}}
   ]},
-  {"id":"ko612","title":"Tính từ nâng cao","desc":"Sắc thái, phẩm chất","icon":"형","unit":63,"course":"ko","order":870,"words":[
+  {"id":"ko612","title":"Tính từ nâng cao","desc":"Sắc thái, phẩm chất","icon":"형","unit":63,"course":"ko","order":3570,"words":[
    {"id":"ko612-현저하다","hanzi":"현저하다","pinyin":"hyeonjeohada","vi":"rõ rệt, đáng kể","ex":{"tokens":["두","제품의","차이가","현저합니다","."],"py":["du","jepumui","chaiga","hyeonjeohamnida","."],"vi":"Khác biệt giữa hai sản phẩm rất rõ rệt.","alts":[]}},
    {"id":"ko612-미미하다","hanzi":"미미하다","pinyin":"mimihada","vi":"nhỏ nhoi, không đáng kể","ex":{"tokens":["이번","변화의","영향은","미미합니다","."],"py":["ibeon","byeonhwaui","yeonghyangeun","mimihamnida","."],"vi":"Ảnh hưởng của thay đổi lần này không đáng kể.","alts":[]}},
    {"id":"ko612-막대하다","hanzi":"막대하다","pinyin":"makdaehada","vi":"to lớn, khổng lồ","ex":{"tokens":["태풍으로","막대한","피해가","났습니다","."],"py":["taepungeuro","makdaehan","pihaega","natseumnida","."],"vi":"Bão đã gây thiệt hại to lớn.","alts":[]}},
@@ -31,7 +31,7 @@
    {"id":"ko612-취약하다","hanzi":"취약하다","pinyin":"chwiyakada","vi":"yếu, dễ tổn thương","ex":{"tokens":["노인은","더위에","취약합니다","."],"py":["noineun","deowie","chwiyakamnida","."],"vi":"Người già dễ bị tổn thương bởi nắng nóng.","alts":[]}},
    {"id":"ko612-절실하다","hanzi":"절실하다","pinyin":"jeolsilhada","vi":"bức thiết","ex":{"tokens":["지금은","도움이","절실합니다","."],"py":["jigeumeun","doumi","jeolsilhamnida","."],"vi":"Bây giờ sự giúp đỡ là bức thiết.","alts":[]}}
   ]},
-  {"id":"ko613","title":"Phó từ nâng cao","desc":"Sắc thái lập luận","icon":"부","unit":63,"course":"ko","order":880,"words":[
+  {"id":"ko613","title":"Phó từ nâng cao","desc":"Sắc thái lập luận","icon":"부","unit":63,"course":"ko","order":3580,"words":[
    {"id":"ko613-과연","hanzi":"과연","pinyin":"gwayeon","vi":"quả thật, liệu có","ex":{"tokens":["과연","그","소문은","사실이었습니다","."],"py":["gwayeon","geu","somuneun","sasirieotseumnida","."],"vi":"Quả thật tin đồn đó là sự thật.","alts":[]}},
    {"id":"ko613-도저히","hanzi":"도저히","pinyin":"dojeohi","vi":"hoàn toàn không thể","ex":{"tokens":["이","문제는","도저히","풀","수","없습니다","."],"py":["i","munjeneun","dojeohi","pul","su","eopseumnida","."],"vi":"Bài này tôi hoàn toàn không thể giải được.","alts":[]}},
    {"id":"ko613-굳이","hanzi":"굳이","pinyin":"guji","vi":"nhất thiết, cố","ex":{"tokens":["굳이","오늘","갈","필요가","없습니다","."],"py":["guji","oneul","gal","piryoga","eopseumnida","."],"vi":"Không nhất thiết phải đi hôm nay.","alts":[]}},
@@ -45,7 +45,7 @@
    {"id":"ko613-새삼","hanzi":"새삼","pinyin":"saesam","vi":"một lần nữa (chợt thấy)","ex":{"tokens":["부모님의","사랑을","새삼","느꼈습니다","."],"py":["bumonimui","sarangeul","saesam","neukkyeotseumnida","."],"vi":"Tôi chợt cảm nhận lại tình yêu của bố mẹ.","alts":[]}},
    {"id":"ko613-무조건","hanzi":"무조건","pinyin":"mujogeon","vi":"vô điều kiện","ex":{"tokens":["저는","무조건","찬성합니다","."],"py":["jeoneun","mujogeon","chanseonghamnida","."],"vi":"Tôi tán thành vô điều kiện.","alts":[]}}
   ]},
-  {"id":"ko614","title":"Thành ngữ Hán Hàn","desc":"Bốn chữ thường gặp","icon":"사","unit":63,"course":"ko","order":890,"words":[
+  {"id":"ko614","title":"Thành ngữ Hán Hàn","desc":"Bốn chữ thường gặp","icon":"사","unit":63,"course":"ko","order":3590,"words":[
    {"id":"ko614-일석이조","hanzi":"일석이조","pinyin":"ilseogijo","vi":"một công đôi việc","ex":{"tokens":["걸어서","다니면","일석이조입니다","."],"py":["georeoseo","danimyeon","ilseogijoimnida","."],"vi":"Đi bộ thì được một công đôi việc.","alts":[]}},
    {"id":"ko614-작심삼일","hanzi":"작심삼일","pinyin":"jaksimsamil","vi":"quyết tâm chỉ được ba ngày","ex":{"tokens":["운동","계획이","작심삼일로","끝났습니다","."],"py":["undong","gyehoegi","jaksimsamillo","kkeunnatseumnida","."],"vi":"Kế hoạch tập thể dục đã kết thúc sau ba ngày quyết tâm.","alts":[]}},
    {"id":"ko614-동문서답","hanzi":"동문서답","pinyin":"dongmunseodap","vi":"hỏi một đằng trả lời một nẻo","ex":{"tokens":["그는","질문에","동문서답을","했습니다","."],"py":["geuneun","jilmune","dongmunseodabeul","haetseumnida","."],"vi":"Anh ấy hỏi một đằng trả lời một nẻo.","alts":[]}},
@@ -59,7 +59,7 @@
    {"id":"ko614-전화위복","hanzi":"전화위복","pinyin":"jeonhwawibok","vi":"trong rủi có may","ex":{"tokens":["그","실패가","전화위복이","되었습니다","."],"py":["geu","silpaega","jeonhwawibogi","doeeotseumnida","."],"vi":"Thất bại đó đã thành trong rủi có may.","alts":[]}},
    {"id":"ko614-과유불급","hanzi":"과유불급","pinyin":"gwayubulgeup","vi":"quá mức cũng như chưa đủ","ex":{"tokens":["운동도","과유불급입니다","."],"py":["undongdo","gwayubulgeubimnida","."],"vi":"Tập thể dục cũng vậy, quá mức thì cũng không tốt.","alts":[]}}
   ]},
-  {"id":"ko615","title":"Văn viết trang trọng","desc":"Từ dùng trong báo cáo, luận văn","icon":"서","unit":63,"course":"ko","order":900,"words":[
+  {"id":"ko615","title":"Văn viết trang trọng","desc":"Từ dùng trong báo cáo, luận văn","icon":"서","unit":63,"course":"ko","order":3600,"words":[
    {"id":"ko615-고찰하다","hanzi":"고찰하다","pinyin":"gochalhada","vi":"khảo sát, xem xét kỹ","ex":{"tokens":["이","글에서는","그","원인을","고찰합니다","."],"py":["i","geureseoneun","geu","wonineul","gochalhamnida","."],"vi":"Bài viết này xem xét kỹ nguyên nhân đó.","alts":[]}},
    {"id":"ko615-제시하다","hanzi":"제시하다","pinyin":"jesihada","vi":"đưa ra, trình bày","ex":{"tokens":["교수가","새로운","방법을","제시했습니다","."],"py":["gyosuga","saeroun","bangbeobeul","jesihaetseumnida","."],"vi":"Giáo sư đã đưa ra phương pháp mới.","alts":[]}},
    {"id":"ko615-언급하다","hanzi":"언급하다","pinyin":"eongeupada","vi":"đề cập","ex":{"tokens":["그는","그","문제를","언급하지","않았습니다","."],"py":["geuneun","geu","munjereul","eongeupaji","anatseumnida","."],"vi":"Ông ấy đã không đề cập đến vấn đề đó.","alts":[]}},

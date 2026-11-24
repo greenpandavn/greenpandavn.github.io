@@ -1,0 +1,133 @@
+{
+ "units": [
+  {"unit":54,"level":5,"title":"Phần 4: Kinh tế học và tài chính và hơn thế","desc":"Kinh tế học và tài chính, Hành chính và pháp chế, Khoa học tự nhiên, Y học chuyên sâu, Triết học và logic","color":"sun","course":"ko"}
+ ],
+ "lessons": [
+  {"id":"ko5x01","title":"Kinh tế học và tài chính 1","desc":"Thuật ngữ kinh tế","icon":"거","unit":54,"course":"ko","order":2920,"words":[
+   {"id":"ko5x01-거시경제","hanzi":"거시경제","pinyin":"geosigyeongje","vi":"kinh tế vĩ mô","ex":{"tokens":["거시경제","지표를","분석합니다","."],"py":["geosigyeongje","jipyoreul","bunseokamnida","."],"vi":"Phân tích các chỉ số kinh tế vĩ mô.","alts":[]}},
+   {"id":"ko5x01-미시경제","hanzi":"미시경제","pinyin":"misigyeongje","vi":"kinh tế vi mô","ex":{"tokens":["미시경제","이론을","공부합니다","."],"py":["misigyeongje","ironeul","gongbuhamnida","."],"vi":"Học lý thuyết kinh tế vi mô.","alts":[]}},
+   {"id":"ko5x01-국내총생산","hanzi":"국내총생산","pinyin":"gungnaechongsaengsan","vi":"tổng sản phẩm quốc nội","ex":{"tokens":["국내총생산이","증가했습니다","."],"py":["gungnaechongsaengsani","jeunggahaetseumnida","."],"vi":"Tổng sản phẩm quốc nội đã tăng.","alts":[]}},
+   {"id":"ko5x01-경제성장률","hanzi":"경제성장률","pinyin":"gyeongjeseongjangnyul","vi":"tốc độ tăng trưởng kinh tế","ex":{"tokens":["경제성장률이","둔화되었습니다","."],"py":["gyeongjeseongjangnyuri","dunhwadoeeotseumnida","."],"vi":"Tốc độ tăng trưởng kinh tế đã chậm lại.","alts":[]}},
+   {"id":"ko5x01-인플레이션","hanzi":"인플레이션","pinyin":"inpeulleisyeon","vi":"lạm phát","ex":{"tokens":["인플레이션이","심화되고","있습니다","."],"py":["inpeulleisyeoni","simhwadoego","itseumnida","."],"vi":"Lạm phát đang trầm trọng thêm.","alts":[]}},
+   {"id":"ko5x01-디플레이션","hanzi":"디플레이션","pinyin":"dipeulleisyeon","vi":"giảm phát","ex":{"tokens":["디플레이션","우려가","커졌습니다","."],"py":["dipeulleisyeon","uryeoga","keojyeotseumnida","."],"vi":"Mối lo giảm phát đã lớn hơn.","alts":[]}},
+   {"id":"ko5x01-통화정책","hanzi":"통화정책","pinyin":"tonghwajeongchaek","vi":"chính sách tiền tệ","ex":{"tokens":["중앙은행이","통화정책을","발표했습니다","."],"py":["jungangeunhaengi","tonghwajeongchaegeul","balpyohaetseumnida","."],"vi":"Ngân hàng trung ương đã công bố chính sách tiền tệ.","alts":[]}},
+   {"id":"ko5x01-재정","hanzi":"재정","pinyin":"jaejeong","vi":"tài chính công","ex":{"tokens":["정부의","재정","상태가","악화되었습니다","."],"py":["jeongbuui","jaejeong","sangtaega","akwadoeeotseumnida","."],"vi":"Tình trạng tài chính của chính phủ đã xấu đi.","alts":[]}},
+   {"id":"ko5x01-국채","hanzi":"국채","pinyin":"gukchae","vi":"trái phiếu chính phủ","ex":{"tokens":["국채를","발행합니다","."],"py":["gukchaereul","balhaenghamnida","."],"vi":"Phát hành trái phiếu chính phủ.","alts":[]}},
+   {"id":"ko5x01-증권","hanzi":"증권","pinyin":"jeunggwon","vi":"chứng khoán","ex":{"tokens":["증권","회사에","계좌를","개설했습니다","."],"py":["jeunggwon","hoesae","gyejwareul","gaeseolhaetseumnida","."],"vi":"Tôi đã mở tài khoản ở công ty chứng khoán.","alts":[]}},
+   {"id":"ko5x01-채권","hanzi":"채권","pinyin":"chaegwon","vi":"trái phiếu; trái quyền","ex":{"tokens":["채권에","투자합니다","."],"py":["chaegwone","tujahamnida","."],"vi":"Đầu tư vào trái phiếu.","alts":[]}},
+   {"id":"ko5x01-배당금","hanzi":"배당금","pinyin":"baedanggeum","vi":"cổ tức","ex":{"tokens":["주주에게","배당금을","지급합니다","."],"py":["jujuege","baedanggeumeul","jigeupamnida","."],"vi":"Chi trả cổ tức cho cổ đông.","alts":[]}}
+  ]},
+  {"id":"ko5x02","title":"Kinh tế học và tài chính 2","desc":"Thuật ngữ kinh tế","icon":"수","unit":54,"course":"ko","order":2930,"words":[
+   {"id":"ko5x02-수익률","hanzi":"수익률","pinyin":"suingnyul","vi":"tỷ suất lợi nhuận","ex":{"tokens":["이","상품은","수익률이","높습니다","."],"py":["i","sangpumeun","suingnyuri","nopseumnida","."],"vi":"Sản phẩm này có tỷ suất lợi nhuận cao.","alts":[]}},
+   {"id":"ko5x02-외환","hanzi":"외환","pinyin":"oehwan","vi":"ngoại hối","ex":{"tokens":["외환","시장이","불안정합니다","."],"py":["oehwan","sijangi","buranjeonghamnida","."],"vi":"Thị trường ngoại hối bất ổn.","alts":[]}},
+   {"id":"ko5x02-관세","hanzi":"관세","pinyin":"gwanse","vi":"thuế quan","ex":{"tokens":["수입품에","관세를","부과합니다","."],"py":["suippume","gwansereul","bugwahamnida","."],"vi":"Đánh thuế quan lên hàng nhập khẩu.","alts":[]}},
+   {"id":"ko5x02-보조금","hanzi":"보조금","pinyin":"bojogeum","vi":"tiền trợ cấp","ex":{"tokens":["농가에","보조금을","지급합니다","."],"py":["nonggae","bojogeumeul","jigeupamnida","."],"vi":"Chi trợ cấp cho nông hộ.","alts":[]}},
+   {"id":"ko5x02-민영화","hanzi":"민영화","pinyin":"minyeonghwa","vi":"sự tư nhân hóa","ex":{"tokens":["공기업의","민영화를","추진합니다","."],"py":["gonggieobui","minyeonghwareul","chujinhamnida","."],"vi":"Xúc tiến tư nhân hóa doanh nghiệp nhà nước.","alts":[]}},
+   {"id":"ko5x02-공기업","hanzi":"공기업","pinyin":"gonggieop","vi":"doanh nghiệp nhà nước","ex":{"tokens":["공기업에","입사했습니다","."],"py":["gonggieobe","ipsahaetseumnida","."],"vi":"Tôi đã vào làm ở doanh nghiệp nhà nước.","alts":[]}},
+   {"id":"ko5x02-벤처기업","hanzi":"벤처기업","pinyin":"bencheogieop","vi":"doanh nghiệp khởi nghiệp mạo hiểm","ex":{"tokens":["벤처기업에","투자가","몰립니다","."],"py":["bencheogieobe","tujaga","mollimnida","."],"vi":"Đầu tư dồn vào doanh nghiệp khởi nghiệp mạo hiểm.","alts":[]}},
+   {"id":"ko5x02-구매력","hanzi":"구매력","pinyin":"gumaeryeok","vi":"sức mua","ex":{"tokens":["소비자의","구매력이","떨어졌습니다","."],"py":["sobijaui","gumaeryeogi","tteoreojyeotseumnida","."],"vi":"Sức mua của người tiêu dùng đã giảm.","alts":[]}},
+   {"id":"ko5x02-내수","hanzi":"내수","pinyin":"naesu","vi":"nhu cầu nội địa","ex":{"tokens":["내수","시장이","침체되었습니다","."],"py":["naesu","sijangi","chimchedoeeotseumnida","."],"vi":"Thị trường nội địa đã trì trệ.","alts":[]}},
+   {"id":"ko5x02-경상수지","hanzi":"경상수지","pinyin":"gyeongsangsuji","vi":"cán cân vãng lai","ex":{"tokens":["경상수지가","흑자를","기록했습니다","."],"py":["gyeongsangsujiga","heukjareul","girokaetseumnida","."],"vi":"Cán cân vãng lai đã ghi nhận thặng dư.","alts":[]}},
+   {"id":"ko5x02-담보","hanzi":"담보","pinyin":"dambo","vi":"vật thế chấp","ex":{"tokens":["집을","담보로","돈을","빌렸습니다","."],"py":["jibeul","damboro","doneul","billyeotseumnida","."],"vi":"Tôi đã vay tiền bằng cách thế chấp nhà.","alts":[]}},
+   {"id":"ko5x02-상환하다","hanzi":"상환하다","pinyin":"sanghwanhada","vi":"hoàn trả (nợ)","ex":{"tokens":["대출금을","상환했습니다","."],"py":["daechulgeumeul","sanghwanhaetseumnida","."],"vi":"Tôi đã hoàn trả khoản vay.","alts":[]}}
+  ]},
+  {"id":"ko5x03","title":"Hành chính và pháp chế 1","desc":"Thuật ngữ nhà nước","icon":"입","unit":54,"course":"ko","order":2940,"words":[
+   {"id":"ko5x03-입법","hanzi":"입법","pinyin":"ipbeop","vi":"lập pháp","ex":{"tokens":["국회는","입법","기관입니다","."],"py":["gukoeneun","ipbeop","gigwanimnida","."],"vi":"Quốc hội là cơ quan lập pháp.","alts":[]}},
+   {"id":"ko5x03-사법","hanzi":"사법","pinyin":"sabeop","vi":"tư pháp","ex":{"tokens":["사법","제도를","개혁합니다","."],"py":["sabeop","jedoreul","gaehyeokamnida","."],"vi":"Cải cách chế độ tư pháp.","alts":[]}},
+   {"id":"ko5x03-행정부","hanzi":"행정부","pinyin":"haengjeongbu","vi":"cơ quan hành pháp","ex":{"tokens":["행정부가","정책을","집행합니다","."],"py":["haengjeongbuga","jeongchaegeul","jipaenghamnida","."],"vi":"Cơ quan hành pháp thi hành chính sách.","alts":[]}},
+   {"id":"ko5x03-법령","hanzi":"법령","pinyin":"beomnyeong","vi":"pháp lệnh","ex":{"tokens":["새","법령이","시행됩니다","."],"py":["sae","beomnyeongi","sihaengdoemnida","."],"vi":"Pháp lệnh mới được thi hành.","alts":[]}},
+   {"id":"ko5x03-조례","hanzi":"조례","pinyin":"jorye","vi":"điều lệ địa phương","ex":{"tokens":["시","의회가","조례를","만들었습니다","."],"py":["si","uihoega","joryereul","mandeureotseumnida","."],"vi":"Hội đồng thành phố đã ban hành điều lệ.","alts":[]}},
+   {"id":"ko5x03-규정","hanzi":"규정","pinyin":"gyujeong","vi":"quy định","ex":{"tokens":["회사","규정을","따릅니다","."],"py":["hoesa","gyujeongeul","ttareumnida","."],"vi":"Làm theo quy định của công ty.","alts":[]}},
+   {"id":"ko5x03-시행령","hanzi":"시행령","pinyin":"sihaengnyeong","vi":"nghị định thi hành","ex":{"tokens":["시행령을","개정했습니다","."],"py":["sihaengnyeongeul","gaejeonghaetseumnida","."],"vi":"Đã sửa đổi nghị định thi hành.","alts":[]}},
+   {"id":"ko5x03-개정","hanzi":"개정","pinyin":"gaejeong","vi":"sự sửa đổi (luật)","ex":{"tokens":["법","개정이","필요합니다","."],"py":["beop","gaejeongi","piryohamnida","."],"vi":"Cần sửa đổi luật.","alts":[]}},
+   {"id":"ko5x03-제정","hanzi":"제정","pinyin":"jejeong","vi":"sự ban hành (luật)","ex":{"tokens":["새","법의","제정을","요구합니다","."],"py":["sae","beobui","jejeongeul","yoguhamnida","."],"vi":"Yêu cầu ban hành luật mới.","alts":[]}},
+   {"id":"ko5x03-폐지","hanzi":"폐지","pinyin":"pyeji","vi":"sự bãi bỏ","ex":{"tokens":["그","제도의","폐지를","주장합니다","."],"py":["geu","jedoui","pyejireul","jujanghamnida","."],"vi":"Chủ trương bãi bỏ chế độ đó.","alts":[]}},
+   {"id":"ko5x03-위헌","hanzi":"위헌","pinyin":"wiheon","vi":"vi hiến","ex":{"tokens":["그","법은","위헌으로","판결되었습니다","."],"py":["geu","beobeun","wiheoneuro","pangyeoldoeeotseumnida","."],"vi":"Luật đó đã bị phán quyết là vi hiến.","alts":[]}},
+   {"id":"ko5x03-소송절차","hanzi":"소송절차","pinyin":"sosongjeolcha","vi":"thủ tục tố tụng","ex":{"tokens":["소송절차가","복잡합니다","."],"py":["sosongjeolchaga","bokjapamnida","."],"vi":"Thủ tục tố tụng phức tạp.","alts":[]}}
+  ]},
+  {"id":"ko5x04","title":"Hành chính và pháp chế 2","desc":"Thuật ngữ nhà nước","icon":"원","unit":54,"course":"ko","order":2950,"words":[
+   {"id":"ko5x04-원고","hanzi":"원고","pinyin":"wongo","vi":"nguyên đơn; bản thảo","ex":{"tokens":["원고가","소송을","제기했습니다","."],"py":["wongoga","sosongeul","jegihaetseumnida","."],"vi":"Nguyên đơn đã khởi kiện.","alts":[]}},
+   {"id":"ko5x04-피고","hanzi":"피고","pinyin":"pigo","vi":"bị đơn","ex":{"tokens":["피고는","혐의를","부인했습니다","."],"py":["pigoneun","hyeomuireul","buinhaetseumnida","."],"vi":"Bị đơn đã phủ nhận cáo buộc.","alts":[]}},
+   {"id":"ko5x04-혐의","hanzi":"혐의","pinyin":"hyeomui","vi":"sự tình nghi, cáo buộc","ex":{"tokens":["사기","혐의로","조사를","받습니다","."],"py":["sagi","hyeomuiro","josareul","batseumnida","."],"vi":"Bị điều tra vì tình nghi lừa đảo.","alts":[]}},
+   {"id":"ko5x04-기소","hanzi":"기소","pinyin":"giso","vi":"việc khởi tố","ex":{"tokens":["검찰이","그를","기소했습니다","."],"py":["geomchari","geureul","gisohaetseumnida","."],"vi":"Viện kiểm sát đã khởi tố ông ta.","alts":[]}},
+   {"id":"ko5x04-구속","hanzi":"구속","pinyin":"gusok","vi":"việc bắt giam","ex":{"tokens":["용의자가","구속되었습니다","."],"py":["yonguijaga","gusokdoeeotseumnida","."],"vi":"Nghi phạm đã bị bắt giam.","alts":[]}},
+   {"id":"ko5x04-항소","hanzi":"항소","pinyin":"hangso","vi":"kháng cáo","ex":{"tokens":["판결에","불복하여","항소했습니다","."],"py":["pangyeore","bulbokayeo","hangsohaetseumnida","."],"vi":"Không phục phán quyết nên đã kháng cáo.","alts":[]}},
+   {"id":"ko5x04-징역","hanzi":"징역","pinyin":"jingyeok","vi":"án tù","ex":{"tokens":["징역","삼","년을","선고받았습니다","."],"py":["jingyeok","sam","nyeoneul","seongobadatseumnida","."],"vi":"Đã bị tuyên án ba năm tù.","alts":[]}},
+   {"id":"ko5x04-집행유예","hanzi":"집행유예","pinyin":"jipaengyuye","vi":"án treo","ex":{"tokens":["집행유예를","선고받았습니다","."],"py":["jipaengyuyereul","seongobadatseumnida","."],"vi":"Đã bị tuyên án treo.","alts":[]}},
+   {"id":"ko5x04-사면","hanzi":"사면","pinyin":"samyeon","vi":"sự ân xá","ex":{"tokens":["대통령이","사면을","결정했습니다","."],"py":["daetongnyeongi","samyeoneul","gyeoljeonghaetseumnida","."],"vi":"Tổng thống đã quyết định ân xá.","alts":[]}},
+   {"id":"ko5x04-공청회","hanzi":"공청회","pinyin":"gongcheonghoe","vi":"buổi điều trần công khai","ex":{"tokens":["정책","공청회가","열렸습니다","."],"py":["jeongchaek","gongcheonghoega","yeollyeotseumnida","."],"vi":"Buổi điều trần công khai về chính sách đã diễn ra.","alts":[]}},
+   {"id":"ko5x04-민원","hanzi":"민원","pinyin":"minwon","vi":"kiến nghị của dân","ex":{"tokens":["구청에","민원을","제기했습니다","."],"py":["gucheonge","minwoneul","jegihaetseumnida","."],"vi":"Tôi đã gửi kiến nghị lên ủy ban quận.","alts":[]}},
+   {"id":"ko5x04-허가","hanzi":"허가","pinyin":"heoga","vi":"sự cấp phép","ex":{"tokens":["건축","허가를","받았습니다","."],"py":["geonchuk","heogareul","badatseumnida","."],"vi":"Đã nhận giấy phép xây dựng.","alts":[]}}
+  ]},
+  {"id":"ko5x05","title":"Khoa học tự nhiên 1","desc":"Thuật ngữ học thuật","icon":"분","unit":54,"course":"ko","order":2960,"words":[
+   {"id":"ko5x05-분자","hanzi":"분자","pinyin":"bunja","vi":"phân tử","ex":{"tokens":["물","분자는","수소와","산소로","이루어집니다","."],"py":["mul","bunjaneun","susowa","sansoro","irueojimnida","."],"vi":"Phân tử nước gồm hydro và oxy.","alts":[]}},
+   {"id":"ko5x05-원자","hanzi":"원자","pinyin":"wonja","vi":"nguyên tử","ex":{"tokens":["원자는","매우","작습니다","."],"py":["wonjaneun","maeu","jakseumnida","."],"vi":"Nguyên tử rất nhỏ.","alts":[]}},
+   {"id":"ko5x05-원소","hanzi":"원소","pinyin":"wonso","vi":"nguyên tố","ex":{"tokens":["금은","원소입니다","."],"py":["geumeun","wonsoimnida","."],"vi":"Vàng là một nguyên tố.","alts":[]}},
+   {"id":"ko5x05-화합물","hanzi":"화합물","pinyin":"hwahammul","vi":"hợp chất","ex":{"tokens":["새로운","화합물을","합성했습니다","."],"py":["saeroun","hwahammureul","hapseonghaetseumnida","."],"vi":"Đã tổng hợp được hợp chất mới.","alts":[]}},
+   {"id":"ko5x05-수소","hanzi":"수소","pinyin":"suso","vi":"hydro","ex":{"tokens":["수소는","가장","가벼운","원소입니다","."],"py":["susoneun","gajang","gabyeoun","wonsoimnida","."],"vi":"Hydro là nguyên tố nhẹ nhất.","alts":[]}},
+   {"id":"ko5x05-질소","hanzi":"질소","pinyin":"jilso","vi":"nitơ","ex":{"tokens":["공기의","대부분은","질소입니다","."],"py":["gonggiui","daebubuneun","jilsoimnida","."],"vi":"Phần lớn không khí là nitơ.","alts":[]}},
+   {"id":"ko5x05-탄소","hanzi":"탄소","pinyin":"tanso","vi":"cacbon","ex":{"tokens":["탄소","배출량을","줄입니다","."],"py":["tanso","baechullyangeul","jurimnida","."],"vi":"Giảm lượng phát thải cacbon.","alts":[]}},
+   {"id":"ko5x05-방사능","hanzi":"방사능","pinyin":"bangsaneung","vi":"phóng xạ","ex":{"tokens":["방사능","오염이","우려됩니다","."],"py":["bangsaneung","oyeomi","uryeodoemnida","."],"vi":"Ô nhiễm phóng xạ đáng lo ngại.","alts":[]}},
+   {"id":"ko5x05-자기장","hanzi":"자기장","pinyin":"jagijang","vi":"từ trường","ex":{"tokens":["지구에는","자기장이","있습니다","."],"py":["jigueneun","jagijangi","itseumnida","."],"vi":"Trái đất có từ trường.","alts":[]}},
+   {"id":"ko5x05-전자기파","hanzi":"전자기파","pinyin":"jeonjagipa","vi":"sóng điện từ","ex":{"tokens":["휴대폰에서","전자기파가","나옵니다","."],"py":["hyudaeponeseo","jeonjagipaga","naomnida","."],"vi":"Điện thoại phát ra sóng điện từ.","alts":[]}},
+   {"id":"ko5x05-마찰","hanzi":"마찰","pinyin":"machal","vi":"ma sát","ex":{"tokens":["마찰","때문에","열이","발생합니다","."],"py":["machal","ttaemune","yeori","balsaenghamnida","."],"vi":"Nhiệt phát sinh do ma sát.","alts":[]}},
+   {"id":"ko5x05-밀도","hanzi":"밀도","pinyin":"mildo","vi":"mật độ","ex":{"tokens":["물의","밀도를","측정합니다","."],"py":["murui","mildoreul","cheukjeonghamnida","."],"vi":"Đo mật độ của nước.","alts":[]}}
+  ]},
+  {"id":"ko5x06","title":"Khoa học tự nhiên 2","desc":"Thuật ngữ học thuật","icon":"질","unit":54,"course":"ko","order":2970,"words":[
+   {"id":"ko5x06-질량","hanzi":"질량","pinyin":"jillyang","vi":"khối lượng","ex":{"tokens":["물체의","질량을","구합니다","."],"py":["mulcheui","jillyangeul","guhamnida","."],"vi":"Tính khối lượng của vật.","alts":[]}},
+   {"id":"ko5x06-부피","hanzi":"부피","pinyin":"bupi","vi":"thể tích","ex":{"tokens":["상자의","부피를","계산합니다","."],"py":["sangjaui","bupireul","gyesanhamnida","."],"vi":"Tính thể tích của thùng.","alts":[]}},
+   {"id":"ko5x06-속력","hanzi":"속력","pinyin":"songnyeok","vi":"tốc lực, vận tốc","ex":{"tokens":["빛의","속력은","일정합니다","."],"py":["bichui","songnyeogeun","iljeonghamnida","."],"vi":"Vận tốc ánh sáng là không đổi.","alts":[]}},
+   {"id":"ko5x06-가속도","hanzi":"가속도","pinyin":"gasokdo","vi":"gia tốc","ex":{"tokens":["가속도를","계산합니다","."],"py":["gasokdoreul","gyesanhamnida","."],"vi":"Tính gia tốc.","alts":[]}},
+   {"id":"ko5x06-광합성","hanzi":"광합성","pinyin":"gwanghapseong","vi":"quang hợp","ex":{"tokens":["식물은","광합성을","합니다","."],"py":["singmureun","gwanghapseongeul","hamnida","."],"vi":"Thực vật quang hợp.","alts":[]}},
+   {"id":"ko5x06-미생물","hanzi":"미생물","pinyin":"misaengmul","vi":"vi sinh vật","ex":{"tokens":["미생물을","관찰합니다","."],"py":["misaengmureul","gwanchalhamnida","."],"vi":"Quan sát vi sinh vật.","alts":[]}},
+   {"id":"ko5x06-염색체","hanzi":"염색체","pinyin":"yeomsaekche","vi":"nhiễm sắc thể","ex":{"tokens":["사람의","염색체는","마흔여섯","개입니다","."],"py":["saramui","yeomsaekcheneun","maheunyeoseot","gaeimnida","."],"vi":"Con người có bốn mươi sáu nhiễm sắc thể.","alts":[]}},
+   {"id":"ko5x06-단세포","hanzi":"단세포","pinyin":"dansepo","vi":"đơn bào","ex":{"tokens":["단세포","생물을","연구합니다","."],"py":["dansepo","saengmureul","yeonguhamnida","."],"vi":"Nghiên cứu sinh vật đơn bào.","alts":[]}},
+   {"id":"ko5x06-척추동물","hanzi":"척추동물","pinyin":"cheokchudongmul","vi":"động vật có xương sống","ex":{"tokens":["사람은","척추동물입니다","."],"py":["sarameun","cheokchudongmurimnida","."],"vi":"Con người là động vật có xương sống.","alts":[]}},
+   {"id":"ko5x06-포유류","hanzi":"포유류","pinyin":"poyuryu","vi":"động vật có vú","ex":{"tokens":["고래는","포유류입니다","."],"py":["goraeneun","poyuryuimnida","."],"vi":"Cá voi là động vật có vú.","alts":[]}},
+   {"id":"ko5x06-파충류","hanzi":"파충류","pinyin":"pachungnyu","vi":"loài bò sát","ex":{"tokens":["뱀은","파충류입니다","."],"py":["baemeun","pachungnyuimnida","."],"vi":"Rắn là loài bò sát.","alts":[]}},
+   {"id":"ko5x06-양서류","hanzi":"양서류","pinyin":"yangseoryu","vi":"loài lưỡng cư","ex":{"tokens":["개구리는","양서류입니다","."],"py":["gaegurineun","yangseoryuimnida","."],"vi":"Ếch là loài lưỡng cư.","alts":[]}}
+  ]},
+  {"id":"ko5x07","title":"Y học chuyên sâu","desc":"Thuật ngữ y khoa","icon":"임","unit":54,"course":"ko","order":2980,"words":[
+   {"id":"ko5x07-임상","hanzi":"임상","pinyin":"imsang","vi":"lâm sàng","ex":{"tokens":["임상","시험을","진행합니다","."],"py":["imsang","siheomeul","jinhaenghamnida","."],"vi":"Tiến hành thử nghiệm lâm sàng.","alts":[]}},
+   {"id":"ko5x07-병리","hanzi":"병리","pinyin":"byeongni","vi":"bệnh lý","ex":{"tokens":["병리","검사를","의뢰했습니다","."],"py":["byeongni","geomsareul","uiroehaetseumnida","."],"vi":"Đã yêu cầu xét nghiệm bệnh lý.","alts":[]}},
+   {"id":"ko5x07-항생제","hanzi":"항생제","pinyin":"hangsaengje","vi":"thuốc kháng sinh","ex":{"tokens":["항생제를","처방받았습니다","."],"py":["hangsaengjereul","cheobangbadatseumnida","."],"vi":"Tôi đã được kê thuốc kháng sinh.","alts":[]}},
+   {"id":"ko5x07-항체","hanzi":"항체","pinyin":"hangche","vi":"kháng thể","ex":{"tokens":["몸에","항체가","생겼습니다","."],"py":["mome","hangchega","saenggyeotseumnida","."],"vi":"Cơ thể đã có kháng thể.","alts":[]}},
+   {"id":"ko5x07-종양","hanzi":"종양","pinyin":"jongyang","vi":"khối u","ex":{"tokens":["종양을","제거했습니다","."],"py":["jongyangeul","jegeohaetseumnida","."],"vi":"Đã cắt bỏ khối u.","alts":[]}},
+   {"id":"ko5x07-전이","hanzi":"전이","pinyin":"jeoni","vi":"sự di căn","ex":{"tokens":["암이","다른","장기로","전이되었습니다","."],"py":["ami","dareun","janggiro","jeonidoeeotseumnida","."],"vi":"Ung thư đã di căn sang cơ quan khác.","alts":[]}},
+   {"id":"ko5x07-마취","hanzi":"마취","pinyin":"machwi","vi":"sự gây mê","ex":{"tokens":["수술","전에","마취를","합니다","."],"py":["susul","jeone","machwireul","hamnida","."],"vi":"Gây mê trước khi phẫu thuật.","alts":[]}},
+   {"id":"ko5x07-수혈","hanzi":"수혈","pinyin":"suhyeol","vi":"truyền máu","ex":{"tokens":["환자에게","수혈을","했습니다","."],"py":["hwanjaege","suhyeoreul","haetseumnida","."],"vi":"Đã truyền máu cho bệnh nhân.","alts":[]}},
+   {"id":"ko5x07-혈관","hanzi":"혈관","pinyin":"hyeolgwan","vi":"mạch máu","ex":{"tokens":["혈관이","막혔습니다","."],"py":["hyeolgwani","makyeotseumnida","."],"vi":"Mạch máu bị tắc.","alts":[]}},
+   {"id":"ko5x07-신경","hanzi":"신경","pinyin":"singyeong","vi":"dây thần kinh","ex":{"tokens":["신경이","손상되었습니다","."],"py":["singyeongi","sonsangdoeeotseumnida","."],"vi":"Dây thần kinh bị tổn thương.","alts":[]}},
+   {"id":"ko5x07-호르몬","hanzi":"호르몬","pinyin":"horeumon","vi":"hoóc môn","ex":{"tokens":["호르몬","수치를","검사합니다","."],"py":["horeumon","suchireul","geomsahamnida","."],"vi":"Xét nghiệm chỉ số hoóc môn.","alts":[]}},
+   {"id":"ko5x07-뇌졸중","hanzi":"뇌졸중","pinyin":"noejoljung","vi":"đột quỵ não","ex":{"tokens":["뇌졸중으로","쓰러졌습니다","."],"py":["noejoljungeuro","sseureojyeotseumnida","."],"vi":"Ông ấy ngã quỵ vì đột quỵ não.","alts":[]}}
+  ]},
+  {"id":"ko5x08","title":"Triết học và logic 1","desc":"Tư duy trừu tượng","icon":"인","unit":54,"course":"ko","order":2990,"words":[
+   {"id":"ko5x08-인식론","hanzi":"인식론","pinyin":"insingnon","vi":"nhận thức luận","ex":{"tokens":["인식론은","철학의","한","분야입니다","."],"py":["insingnoneun","cheolhagui","han","bunyaimnida","."],"vi":"Nhận thức luận là một ngành của triết học.","alts":[]}},
+   {"id":"ko5x08-윤리학","hanzi":"윤리학","pinyin":"yullihak","vi":"đạo đức học","ex":{"tokens":["윤리학","강의를","수강합니다","."],"py":["yullihak","ganguireul","suganghamnida","."],"vi":"Tôi học môn đạo đức học.","alts":[]}},
+   {"id":"ko5x08-형이상학","hanzi":"형이상학","pinyin":"hyeongisanghak","vi":"siêu hình học","ex":{"tokens":["형이상학은","이해하기","어렵습니다","."],"py":["hyeongisanghageun","ihaehagi","eoryeopseumnida","."],"vi":"Siêu hình học khó hiểu.","alts":[]}},
+   {"id":"ko5x08-유물론","hanzi":"유물론","pinyin":"yumullon","vi":"chủ nghĩa duy vật","ex":{"tokens":["유물론의","관점에서","설명합니다","."],"py":["yumullonui","gwanjeomeseo","seolmyeonghamnida","."],"vi":"Giải thích từ quan điểm duy vật.","alts":[]}},
+   {"id":"ko5x08-관념론","hanzi":"관념론","pinyin":"gwannyeomnon","vi":"chủ nghĩa duy tâm","ex":{"tokens":["관념론과","유물론을","비교합니다","."],"py":["gwannyeomnongwa","yumulloneul","bigyohamnida","."],"vi":"So sánh chủ nghĩa duy tâm và duy vật.","alts":[]}},
+   {"id":"ko5x08-실존","hanzi":"실존","pinyin":"siljon","vi":"sự hiện sinh","ex":{"tokens":["인간의","실존을","탐구합니다","."],"py":["inganui","siljoneul","tamguhamnida","."],"vi":"Khám phá sự hiện sinh của con người.","alts":[]}},
+   {"id":"ko5x08-이성","hanzi":"이성","pinyin":"iseong","vi":"lý tính; khác giới","ex":{"tokens":["인간은","이성을","가진","존재입니다","."],"py":["inganeun","iseongeul","gajin","jonjaeimnida","."],"vi":"Con người là thực thể có lý tính.","alts":[]}},
+   {"id":"ko5x08-감성","hanzi":"감성","pinyin":"gamseong","vi":"cảm tính","ex":{"tokens":["이성과","감성의","균형이","필요합니다","."],"py":["iseonggwa","gamseongui","gyunhyeongi","piryohamnida","."],"vi":"Cần cân bằng lý tính và cảm tính.","alts":[]}},
+   {"id":"ko5x08-직관","hanzi":"직관","pinyin":"jikgwan","vi":"trực giác","ex":{"tokens":["직관에","의존해서","결정했습니다","."],"py":["jikgwane","uijonhaeseo","gyeoljeonghaetseumnida","."],"vi":"Đã quyết định dựa vào trực giác.","alts":[]}},
+   {"id":"ko5x08-명제","hanzi":"명제","pinyin":"myeongje","vi":"mệnh đề","ex":{"tokens":["이","명제는","참입니다","."],"py":["i","myeongjeneun","chamimnida","."],"vi":"Mệnh đề này đúng.","alts":[]}},
+   {"id":"ko5x08-추론","hanzi":"추론","pinyin":"churon","vi":"sự suy luận","ex":{"tokens":["논리적인","추론이","필요합니다","."],"py":["nollijeogin","churoni","piryohamnida","."],"vi":"Cần suy luận logic.","alts":[]}},
+   {"id":"ko5x08-귀납","hanzi":"귀납","pinyin":"gwinap","vi":"quy nạp","ex":{"tokens":["귀납적","방법으로","결론을","얻습니다","."],"py":["gwinapjeok","bangbeobeuro","gyeolloneul","eotseumnida","."],"vi":"Rút ra kết luận bằng phương pháp quy nạp.","alts":[]}}
+  ]},
+  {"id":"ko5x09","title":"Triết học và logic 2","desc":"Tư duy trừu tượng","icon":"연","unit":54,"course":"ko","order":3000,"words":[
+   {"id":"ko5x09-연역","hanzi":"연역","pinyin":"yeonyeok","vi":"diễn dịch","ex":{"tokens":["연역적으로","증명합니다","."],"py":["yeonyeokjeogeuro","jeungmyeonghamnida","."],"vi":"Chứng minh theo lối diễn dịch.","alts":[]}},
+   {"id":"ko5x09-역설","hanzi":"역설","pinyin":"yeokseol","vi":"nghịch lý","ex":{"tokens":["이것은","흥미로운","역설입니다","."],"py":["igeoseun","heungmiroun","yeokseorimnida","."],"vi":"Đây là một nghịch lý thú vị.","alts":[]}},
+   {"id":"ko5x09-오류추리","hanzi":"오류추리","pinyin":"oryuchuri","vi":"ngụy biện suy luận","ex":{"tokens":["그","주장에는","오류추리가","있습니다","."],"py":["geu","jujangeneun","oryuchuriga","itseumnida","."],"vi":"Chủ trương đó có ngụy biện suy luận.","alts":[]}},
+   {"id":"ko5x09-궤변","hanzi":"궤변","pinyin":"gwebyeon","vi":"lời ngụy biện","ex":{"tokens":["그의","말은","궤변에","불과합니다","."],"py":["geuui","mareun","gwebyeone","bulgwahamnida","."],"vi":"Lời anh ta chẳng qua là ngụy biện.","alts":[]}},
+   {"id":"ko5x09-당위","hanzi":"당위","pinyin":"dangwi","vi":"lẽ tất yếu phải làm","ex":{"tokens":["도덕적","당위를","강조합니다","."],"py":["dodeokjeok","dangwireul","gangjohamnida","."],"vi":"Nhấn mạnh lẽ tất yếu về đạo đức.","alts":[]}},
+   {"id":"ko5x09-필연","hanzi":"필연","pinyin":"piryeon","vi":"tất nhiên, tất yếu","ex":{"tokens":["그","결과는","필연이었습니다","."],"py":["geu","gyeolgwaneun","piryeonieotseumnida","."],"vi":"Kết quả đó là tất yếu.","alts":[]}},
+   {"id":"ko5x09-우연","hanzi":"우연","pinyin":"uyeon","vi":"sự ngẫu nhiên","ex":{"tokens":["모든","것은","우연이","아닙니다","."],"py":["modeun","geoseun","uyeoni","animnida","."],"vi":"Mọi thứ không phải ngẫu nhiên.","alts":[]}},
+   {"id":"ko5x09-인과","hanzi":"인과","pinyin":"ingwa","vi":"nhân quả","ex":{"tokens":["두","사건의","인과","관계를","밝힙니다","."],"py":["du","sageonui","ingwa","gwangyereul","bakimnida","."],"vi":"Làm rõ quan hệ nhân quả của hai sự kiện.","alts":[]}},
+   {"id":"ko5x09-범주","hanzi":"범주","pinyin":"beomju","vi":"phạm trù","ex":{"tokens":["같은","범주에","속합니다","."],"py":["gateun","beomjue","sokamnida","."],"vi":"Thuộc cùng một phạm trù.","alts":[]}},
+   {"id":"ko5x09-실체","hanzi":"실체","pinyin":"silche","vi":"thực thể","ex":{"tokens":["사건의","실체가","드러났습니다","."],"py":["sageonui","silchega","deureonatseumnida","."],"vi":"Thực thể của vụ việc đã lộ ra.","alts":[]}},
+   {"id":"ko5x09-현상학","hanzi":"현상학","pinyin":"hyeonsanghak","vi":"hiện tượng học","ex":{"tokens":["현상학을","전공했습니다","."],"py":["hyeonsanghageul","jeongonghaetseumnida","."],"vi":"Tôi đã học chuyên ngành hiện tượng học.","alts":[]}},
+   {"id":"ko5x09-가치관","hanzi":"가치관","pinyin":"gachigwan","vi":"quan niệm giá trị","ex":{"tokens":["세대마다","가치관이","다릅니다","."],"py":["sedaemada","gachigwani","dareumnida","."],"vi":"Mỗi thế hệ có quan niệm giá trị khác nhau.","alts":[]}}
+  ]}
+ ]
+}

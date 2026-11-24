@@ -3,7 +3,7 @@
   {"unit":32,"level":3,"title":"Phần 2: Công việc và học tập","desc":"Xin việc, văn phòng, đại học, bệnh viện, giải trí","color":"sky","course":"ko"}
  ],
  "lessons": [
-  {"id":"ko306","title":"Xin việc","desc":"Hồ sơ, phỏng vấn, kinh nghiệm","icon":"면","unit":32,"course":"ko","order":360,"words":[
+  {"id":"ko306","title":"Xin việc","desc":"Hồ sơ, phỏng vấn, kinh nghiệm","icon":"면","unit":32,"course":"ko","order":1440,"words":[
    {"id":"ko306-취직하다","hanzi":"취직하다","pinyin":"chwijikada","vi":"tìm được việc làm","ex":{"tokens":["형이","큰","회사에","취직했습니다","."],"py":["hyeongi","keun","hoesae","chwijikaetseumnida","."],"vi":"Anh tôi đã vào làm ở một công ty lớn.","alts":[]}},
    {"id":"ko306-면접","hanzi":"면접","pinyin":"myeonjeop","vi":"phỏng vấn","ex":{"tokens":["내일","회사","면접이","있습니다","."],"py":["naeil","hoesa","myeonjeobi","itseumnida","."],"vi":"Ngày mai tôi có buổi phỏng vấn ở công ty.","alts":[]}},
    {"id":"ko306-이력서","hanzi":"이력서","pinyin":"iryeokseo","vi":"sơ yếu lý lịch","ex":{"tokens":["이력서를","이메일로","보냈습니다","."],"py":["iryeokseoreul","imeillo","bonaetseumnida","."],"vi":"Tôi đã gửi sơ yếu lý lịch qua email.","alts":[]}},
@@ -17,7 +17,7 @@
    {"id":"ko306-적성","hanzi":"적성","pinyin":"jeokseong","vi":"năng khiếu, sở trường","ex":{"tokens":["이","일은","제","적성에","맞습니다","."],"py":["i","ireun","je","jeokseonge","matseumnida","."],"vi":"Việc này hợp với sở trường của tôi.","alts":[]}},
    {"id":"ko306-그만두다","hanzi":"그만두다","pinyin":"geumanduda","vi":"nghỉ việc, bỏ","ex":{"tokens":["작년에","회사를","그만두었습니다","."],"py":["jangnyeone","hoesareul","geumandueotseumnida","."],"vi":"Năm ngoái tôi đã nghỉ việc ở công ty.","alts":[]}}
   ]},
-  {"id":"ko307","title":"Văn phòng","desc":"Công việc hằng ngày ở công ty","icon":"사","unit":32,"course":"ko","order":370,"words":[
+  {"id":"ko307","title":"Văn phòng","desc":"Công việc hằng ngày ở công ty","icon":"사","unit":32,"course":"ko","order":1450,"words":[
    {"id":"ko307-부장님","hanzi":"부장님","pinyin":"bujangnim","vi":"trưởng phòng","ex":{"tokens":["부장님께","보고서를","드렸습니다","."],"py":["bujangnimkke","bogoseoreul","deuryeotseumnida","."],"vi":"Tôi đã nộp báo cáo cho trưởng phòng.","alts":[]}},
    {"id":"ko307-보고서","hanzi":"보고서","pinyin":"bogoseo","vi":"bản báo cáo","ex":{"tokens":["오늘까지","보고서를","써야","합니다","."],"py":["oneulkkaji","bogoseoreul","sseoya","hamnida","."],"vi":"Tôi phải viết báo cáo trước hết hôm nay.","alts":[]}},
    {"id":"ko307-출장","hanzi":"출장","pinyin":"chuljang","vi":"chuyến công tác","ex":{"tokens":["다음","주에","부산으로","출장을","갑니다","."],"py":["daeum","jue","busaneuro","chuljangeul","gamnida","."],"vi":"Tuần sau tôi đi công tác Busan.","alts":[]}},
@@ -31,7 +31,7 @@
    {"id":"ko307-승진하다","hanzi":"승진하다","pinyin":"seungjinhada","vi":"thăng chức","ex":{"tokens":["언니가","과장으로","승진했습니다","."],"py":["eonniga","gwajangeuro","seungjinhaetseumnida","."],"vi":"Chị tôi đã được thăng chức lên trưởng nhóm.","alts":[]}},
    {"id":"ko307-마감","hanzi":"마감","pinyin":"magam","vi":"hạn chót","ex":{"tokens":["마감이","내일이라서","바쁩니다","."],"py":["magami","naeiriraseo","bappeumnida","."],"vi":"Vì hạn chót là ngày mai nên tôi bận.","alts":[]}}
   ]},
-  {"id":"ko308","title":"Đại học","desc":"Học kỳ, học bổng, bài tập","icon":"대","unit":32,"course":"ko","order":380,"words":[
+  {"id":"ko308","title":"Đại học","desc":"Học kỳ, học bổng, bài tập","icon":"대","unit":32,"course":"ko","order":1460,"words":[
    {"id":"ko308-학기","hanzi":"학기","pinyin":"hakgi","vi":"học kỳ","ex":{"tokens":["새","학기가","3월에","시작합니다","."],"py":["sae","hakgiga","3wore","sijakamnida","."],"vi":"Học kỳ mới bắt đầu vào tháng 3.","alts":[]}},
    {"id":"ko308-장학금","hanzi":"장학금","pinyin":"janghakgeum","vi":"học bổng","ex":{"tokens":["열심히","공부해서","장학금을","받았습니다","."],"py":["yeolsimhi","gongbuhaeseo","janghakgeumeul","badatseumnida","."],"vi":"Tôi học chăm nên đã nhận được học bổng.","alts":[]}},
    {"id":"ko308-등록금","hanzi":"등록금","pinyin":"deungnokgeum","vi":"học phí","ex":{"tokens":["등록금이","매년","오릅니다","."],"py":["deungnokgeumi","maenyeon","oreumnida","."],"vi":"Học phí tăng hằng năm.","alts":[]}},
@@ -45,7 +45,7 @@
    {"id":"ko308-유학","hanzi":"유학","pinyin":"yuhak","vi":"du học","ex":{"tokens":["한국으로","유학을","가고","싶습니다","."],"py":["hangugeuro","yuhageul","gago","sipseumnida","."],"vi":"Tôi muốn đi du học Hàn Quốc.","alts":[]}},
    {"id":"ko308-동아리","hanzi":"동아리","pinyin":"dongari","vi":"câu lạc bộ sinh viên","ex":{"tokens":["저는","사진","동아리에","들어갔습니다","."],"py":["jeoneun","sajin","dongarie","deureogatseumnida","."],"vi":"Tôi đã tham gia câu lạc bộ nhiếp ảnh.","alts":[]}}
   ]},
-  {"id":"ko309","title":"Bệnh viện","desc":"Triệu chứng, khám bệnh, điều trị","icon":"병","unit":32,"course":"ko","order":390,"words":[
+  {"id":"ko309","title":"Bệnh viện","desc":"Triệu chứng, khám bệnh, điều trị","icon":"병","unit":32,"course":"ko","order":1470,"words":[
    {"id":"ko309-증상","hanzi":"증상","pinyin":"jeungsang","vi":"triệu chứng","ex":{"tokens":["어떤","증상이","있습니까","?"],"py":["eotteon","jeungsangi","itseumnikka","?"],"vi":"Bạn có triệu chứng gì?","alts":[]}},
    {"id":"ko309-체온","hanzi":"체온","pinyin":"cheon","vi":"thân nhiệt","ex":{"tokens":["간호사가","체온을","쟀습니다","."],"py":["ganhosaga","cheoneul","jaetseumnida","."],"vi":"Y tá đã đo thân nhiệt.","alts":[]}},
    {"id":"ko309-주사","hanzi":"주사","pinyin":"jusa","vi":"mũi tiêm","ex":{"tokens":["병원에서","주사를","맞았습니다","."],"py":["byeongwoneseo","jusareul","majatseumnida","."],"vi":"Tôi đã tiêm ở bệnh viện.","alts":[]}},
@@ -59,7 +59,7 @@
    {"id":"ko309-검사","hanzi":"검사","pinyin":"geomsa","vi":"kiểm tra, xét nghiệm","ex":{"tokens":["내일","건강","검사를","받습니다","."],"py":["naeil","geongang","geomsareul","batseumnida","."],"vi":"Ngày mai tôi đi kiểm tra sức khỏe.","alts":[]}},
    {"id":"ko309-스트레스","hanzi":"스트레스","pinyin":"seuteureseu","vi":"căng thẳng","ex":{"tokens":["일이","많아서","스트레스를","받습니다","."],"py":["iri","manaseo","seuteureseureul","batseumnida","."],"vi":"Vì nhiều việc nên tôi bị căng thẳng.","alts":[]}}
   ]},
-  {"id":"ko310","title":"Thể thao và giải trí","desc":"Trận đấu, đội, buổi diễn","icon":"공","unit":32,"course":"ko","order":400,"words":[
+  {"id":"ko310","title":"Thể thao và giải trí","desc":"Trận đấu, đội, buổi diễn","icon":"공","unit":32,"course":"ko","order":1480,"words":[
    {"id":"ko310-경기","hanzi":"경기","pinyin":"gyeonggi","vi":"trận đấu","ex":{"tokens":["어제","축구","경기를","봤습니다","."],"py":["eoje","chukgu","gyeonggireul","bwatseumnida","."],"vi":"Hôm qua tôi đã xem trận bóng đá.","alts":[]}},
    {"id":"ko310-선수","hanzi":"선수","pinyin":"seonsu","vi":"vận động viên","ex":{"tokens":["그","선수는","정말","빠릅니다","."],"py":["geu","seonsuneun","jeongmal","ppareumnida","."],"vi":"Vận động viên đó thật sự nhanh.","alts":[]}},
    {"id":"ko310-이기다","hanzi":"이기다","pinyin":"igida","vi":"thắng","ex":{"tokens":["우리","팀이","2대","1로","이겼습니다","."],"py":["uri","timi","2dae","1ro","igyeotseumnida","."],"vi":"Đội chúng tôi đã thắng 2-1.","alts":[]}},

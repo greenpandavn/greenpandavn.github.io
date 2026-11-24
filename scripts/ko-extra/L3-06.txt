@@ -1,0 +1,99 @@
+=3
+@Du lịch và trải nghiệm|Chuyến đi, văn hóa địa phương
+여행지|điểm đến du lịch|인기 있는 여행지를 찾습니다.|Tôi tìm điểm đến du lịch được ưa thích.
+배낭여행|du lịch ba lô|유럽으로 배낭여행을 갑니다.|Tôi đi du lịch ba lô ở châu Âu.
+패키지여행|du lịch trọn gói|부모님은 패키지여행을 좋아하십니다.|Bố mẹ tôi thích du lịch trọn gói.
+국내여행|du lịch trong nước|이번 휴가는 국내여행을 합니다.|Kỳ nghỉ này tôi du lịch trong nước.
+성수기|mùa cao điểm|성수기에는 호텔이 비쌉니다.|Mùa cao điểm khách sạn đắt.
+비수기|mùa thấp điểm|비수기에 여행하면 쌉니다.|Du lịch mùa thấp điểm thì rẻ.
+경비|kinh phí|여행 경비를 계산합니다.|Tôi tính kinh phí du lịch.
+환전소|quầy đổi tiền|공항 환전소에서 돈을 바꿉니다.|Tôi đổi tiền ở quầy đổi tiền sân bay.
+면세점|cửa hàng miễn thuế|면세점에서 화장품을 삽니다.|Tôi mua mỹ phẩm ở cửa hàng miễn thuế.
+세관|hải quan|세관에서 가방을 검사합니다.|Hải quan kiểm tra túi.
+시차|chênh lệch múi giờ|시차 때문에 피곤합니다.|Tôi mệt vì chênh lệch múi giờ.
+멀미|say tàu xe|배를 타면 멀미를 합니다.|Đi tàu thủy thì tôi bị say.
+전망대|đài quan sát|전망대에서 야경을 봅니다.|Tôi ngắm cảnh đêm từ đài quan sát.
+야경|cảnh đêm|서울의 야경은 아름답습니다.|Cảnh đêm Seoul rất đẹp.
+유람선|du thuyền|한강에서 유람선을 탑니다.|Tôi đi du thuyền trên sông Hàn.
+케이블카|cáp treo|케이블카를 타고 산에 올라갑니다.|Tôi đi cáp treo lên núi.
+민속촌|làng dân gian|민속촌에서 옛날 집을 봅니다.|Tôi xem nhà cổ ở làng dân gian.
+한옥|nhà truyền thống Hàn|한옥 마을을 구경합니다.|Tôi tham quan làng nhà truyền thống Hàn.
+특산물|đặc sản|이 지역의 특산물은 사과입니다.|Đặc sản vùng này là táo.
+현지인|người bản địa|현지인에게 길을 묻습니다.|Tôi hỏi đường người bản địa.
+체험하다|trải nghiệm thực tế|한국 문화를 체험합니다.|Tôi trải nghiệm văn hóa Hàn Quốc.
+헤매다|lạc, loanh quanh|길을 몰라서 헤맸습니다.|Không biết đường nên tôi đi loanh quanh mãi.
+@Thói quen sinh hoạt|Nếp sống hằng ngày
+일상|sinh hoạt thường ngày|바쁜 일상을 보냅니다.|Tôi trải qua những ngày thường bận rộn.
+늦잠|việc ngủ nướng|주말에는 늦잠을 잡니다.|Cuối tuần tôi ngủ nướng.
+밤샘|việc thức trắng đêm|시험 때문에 밤샘을 했습니다.|Vì thi nên tôi đã thức trắng đêm.
+야식|bữa ăn đêm|밤에 야식을 먹습니다.|Ban đêm tôi ăn đêm.
+외식|việc ăn ngoài|주말에 가족과 외식을 합니다.|Cuối tuần tôi đi ăn ngoài với gia đình.
+도시락|cơm hộp|점심에 도시락을 먹습니다.|Buổi trưa tôi ăn cơm hộp.
+장보기|việc đi chợ|저녁에 장보기를 합니다.|Buổi tối tôi đi chợ.
+외출|việc ra ngoài|외출 준비를 합니다.|Tôi chuẩn bị ra ngoài.
+귀가|việc về nhà|오늘은 귀가가 늦습니다.|Hôm nay tôi về nhà muộn.
+규칙적|đều đặn, có quy luật|규칙적으로 생활합니다.|Tôi sinh hoạt đều đặn.
+불규칙|sự thất thường|식사 시간이 불규칙합니다.|Giờ ăn thất thường.
+여유|sự thư thả, dư dả|요즘 여유가 없습니다.|Dạo này tôi không có lúc nào thư thả.
+분주하다|tất bật|아침에는 항상 분주합니다.|Buổi sáng lúc nào cũng tất bật.
+졸다|ngủ gật|수업 시간에 졸았습니다.|Tôi đã ngủ gật trong giờ học.
+깨우다|đánh thức|엄마가 저를 깨웁니다.|Mẹ đánh thức tôi.
+씻기다|tắm rửa cho|아이를 씻깁니다.|Tôi tắm cho con.
+재우다|cho ngủ|아기를 재웁니다.|Tôi ru em bé ngủ.
+먹이다|cho ăn|아이에게 밥을 먹입니다.|Tôi cho con ăn cơm.
+입히다|mặc cho|아이에게 옷을 입힙니다.|Tôi mặc quần áo cho con.
+@Đồ vật và chất liệu|Vật dụng, nguyên liệu
+플라스틱|nhựa|플라스틱 병을 모읍니다.|Tôi gom chai nhựa.
+유리|thủy tinh, kính|유리 컵이 깨졌습니다.|Cốc thủy tinh bị vỡ.
+쇠|sắt|이 문은 쇠로 만들었습니다.|Cánh cửa này làm bằng sắt.
+금|vàng|금 반지를 선물했습니다.|Tôi đã tặng nhẫn vàng.
+은|bạc|은 목걸이가 예쁩니다.|Dây chuyền bạc đẹp.
+나무토막|khúc gỗ|나무토막으로 의자를 만듭니다.|Tôi làm ghế từ khúc gỗ.
+가죽|da thuộc|가죽 지갑을 샀습니다.|Tôi đã mua ví da.
+면|vải bông; mì sợi|면 티셔츠가 편합니다.|Áo phông vải bông dễ chịu.
+비단|lụa|비단으로 한복을 만듭니다.|Người ta may hanbok bằng lụa.
+고무|cao su|고무 장갑을 낍니다.|Tôi đeo găng tay cao su.
+종이컵|cốc giấy|종이컵에 커피를 따릅니다.|Tôi rót cà phê vào cốc giấy.
+끈|sợi dây|끈으로 상자를 묶습니다.|Tôi buộc thùng bằng dây.
+망치|cái búa|망치로 못을 박습니다.|Tôi đóng đinh bằng búa.
+사다리|cái thang|사다리를 타고 올라갑니다.|Tôi leo thang lên.
+손전등|đèn pin|어두워서 손전등을 켭니다.|Tối nên tôi bật đèn pin.
+건전지|pin tiểu|건전지를 새로 넣습니다.|Tôi lắp pin tiểu mới.
+자물쇠|ổ khóa|문에 자물쇠를 채웁니다.|Tôi khóa cửa bằng ổ khóa.
+바늘|cái kim|바늘로 옷을 꿰맵니다.|Tôi khâu áo bằng kim.
+실|sợi chỉ|바늘에 실을 뀁니다.|Tôi xâu chỉ vào kim.
+테이프|băng dính|상자에 테이프를 붙입니다.|Tôi dán băng dính lên thùng.
+@Sở thích và nghệ thuật|Hoạt động sáng tạo
+취향|gu, sở thích riêng|음악 취향이 비슷합니다.|Gu âm nhạc của chúng tôi giống nhau.
+동호회|câu lạc bộ sở thích|사진 동호회에 가입했습니다.|Tôi đã tham gia câu lạc bộ nhiếp ảnh.
+수집|việc sưu tầm|우표 수집이 취미입니다.|Sở thích của tôi là sưu tầm tem.
+악기|nhạc cụ|악기를 하나 배우고 싶습니다.|Tôi muốn học một loại nhạc cụ.
+바이올린|đàn vĩ cầm|동생은 바이올린을 켭니다.|Em tôi kéo đàn vĩ cầm.
+드럼|trống|그는 밴드에서 드럼을 칩니다.|Anh ấy chơi trống trong ban nhạc.
+합창|hợp xướng|학생들이 합창을 합니다.|Học sinh hát hợp xướng.
+작곡|việc sáng tác nhạc|그는 작곡을 공부합니다.|Anh ấy học sáng tác nhạc.
+가사|lời bài hát|이 노래는 가사가 좋습니다.|Bài hát này có lời hay.
+도자기|đồ gốm sứ|도자기 만들기를 배웁니다.|Tôi học làm đồ gốm.
+서예|thư pháp|할아버지는 서예를 하십니다.|Ông tôi viết thư pháp.
+추리소설|tiểu thuyết trinh thám|추리소설을 좋아합니다.|Tôi thích tiểu thuyết trinh thám.
+원예|việc làm vườn|어머니의 취미는 원예입니다.|Sở thích của mẹ tôi là làm vườn.
+텐트|lều|산에서 텐트를 칩니다.|Tôi dựng lều trên núi.
+자전거도로|đường dành cho xe đạp|강 옆에 자전거도로가 있습니다.|Bên sông có đường dành cho xe đạp.
+암벽등반|leo vách đá|주말에 암벽등반을 합니다.|Cuối tuần tôi leo vách đá.
+명상|thiền|명상을 하면 마음이 편합니다.|Thiền thì lòng thanh thản.
+@Trạng thái và mức độ|Tính từ trung cấp
+낯설다|lạ lẫm|이 동네는 낯섭니다.|Khu này lạ lẫm với tôi.
+익숙하다|quen thuộc|이제 한국 생활에 익숙합니다.|Giờ tôi đã quen với cuộc sống ở Hàn.
+서투르다|vụng về, chưa thạo|아직 한국어가 서투릅니다.|Tiếng Hàn của tôi vẫn chưa thạo.
+능숙하다|thành thạo|그는 운전이 능숙합니다.|Anh ấy lái xe thành thạo.
+번거롭다|phiền toái|절차가 번거롭습니다.|Thủ tục phiền toái.
+간편하다|đơn giản tiện lợi|이 요리는 만들기 간편합니다.|Món này làm đơn giản tiện lợi.
+곤란하다|khó xử|지금은 좀 곤란합니다.|Bây giờ thì hơi khó xử.
+쾌적하다|dễ chịu, thoáng đãng|방이 쾌적합니다.|Căn phòng thoáng đãng dễ chịu.
+썰렁하다|lạnh lẽo, nhạt nhẽo|분위기가 썰렁합니다.|Bầu không khí nhạt nhẽo.
+시끌벅적하다|ồn ào náo nhiệt|시장이 시끌벅적합니다.|Khu chợ ồn ào náo nhiệt.
+아늑하다|ấm cúng|이 카페는 아늑합니다.|Quán cà phê này ấm cúng.
+지저분하다|bẩn thỉu, lộn xộn|방이 지저분합니다.|Căn phòng lộn xộn bẩn thỉu.
+깔끔하다|gọn gàng sạch sẽ|그의 방은 깔끔합니다.|Phòng anh ấy gọn gàng sạch sẽ.
+생생하다|sống động|그날의 기억이 생생합니다.|Ký ức ngày đó vẫn sống động.
+희미하다|mờ nhạt|불빛이 희미합니다.|Ánh đèn mờ nhạt.

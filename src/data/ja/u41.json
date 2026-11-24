@@ -3,7 +3,7 @@
   {"unit":41,"level":4,"title":"Phần 1: Kinh tế và xã hội","desc":"Kinh tế, kinh doanh, chính trị, pháp luật, vấn đề xã hội","color":"leaf","course":"ja"}
  ],
  "lessons": [
-  {"id":"ja401","title":"Kinh tế","desc":"Vật giá, thu chi, xuất nhập khẩu","icon":"経","unit":41,"course":"ja","order":460,"words":[
+  {"id":"ja401","title":"Kinh tế","desc":"Vật giá, thu chi, xuất nhập khẩu","icon":"経","unit":41,"course":"ja","order":2500,"words":[
    {"id":"ja401-経済","hanzi":"経済","pinyin":"keizai","vi":"kinh tế","ex":{"tokens":["日本","の","経済","は","少し","良く","なりました","。"],"py":["nihon","no","keizai","wa","sukoshi","yoku","narimashita","."],"vi":"Kinh tế Nhật Bản đã khá lên một chút.","alts":[]}},
    {"id":"ja401-景気","hanzi":"景気","pinyin":"keiki","vi":"tình hình kinh tế","ex":{"tokens":["今年","は","景気","が","悪い","です","。"],"py":["kotoshi","wa","keiki","ga","warui","desu","."],"vi":"Năm nay tình hình kinh tế xấu.","alts":[]}},
    {"id":"ja401-物価","hanzi":"物価","pinyin":"bukka","vi":"vật giá","ex":{"tokens":["東京","は","物価","が","高い","です","。"],"py":["toukyou","wa","bukka","ga","takai","desu","."],"vi":"Tokyo có vật giá cao.","alts":[]}},
@@ -17,7 +17,7 @@
    {"id":"ja401-需要","hanzi":"需要","pinyin":"juyou","vi":"nhu cầu (thị trường)","ex":{"tokens":["夏","は","電気","の","需要","が","増えます","。"],"py":["natsu","wa","denki","no","juyou","ga","fuemasu","."],"vi":"Mùa hè nhu cầu điện tăng.","alts":[]}},
    {"id":"ja401-供給","hanzi":"供給","pinyin":"kyoukyuu","vi":"nguồn cung, cung cấp","ex":{"tokens":["水","の","供給","が","止まりました","。"],"py":["mizu","no","kyoukyuu","ga","tomarimashita","."],"vi":"Việc cấp nước đã ngừng.","alts":[]}}
   ]},
-  {"id":"ja402","title":"Kinh doanh","desc":"Doanh nghiệp, hợp đồng, sản phẩm","icon":"商","unit":41,"course":"ja","order":470,"words":[
+  {"id":"ja402","title":"Kinh doanh","desc":"Doanh nghiệp, hợp đồng, sản phẩm","icon":"商","unit":41,"course":"ja","order":2510,"words":[
    {"id":"ja402-企業","hanzi":"企業","pinyin":"kigyou","vi":"doanh nghiệp","ex":{"tokens":["多く","の","企業","が","海外","に","工場","を","作りました","。"],"py":["ooku","no","kigyou","ga","kaigai","ni","koujou","o","tsukurimashita","."],"vi":"Nhiều doanh nghiệp đã xây nhà máy ở nước ngoài.","alts":[]}},
    {"id":"ja402-経営","hanzi":"経営","pinyin":"keiei","vi":"kinh doanh, quản trị","ex":{"tokens":["叔父","は","小さい","店","を","経営","して","います","。"],"py":["oji","wa","chiisai","mise","o","keiei","shite","imasu","."],"vi":"Chú tôi kinh doanh một cửa hàng nhỏ.","alts":[]}},
    {"id":"ja402-利益","hanzi":"利益","pinyin":"rieki","vi":"lợi nhuận","ex":{"tokens":["今年","は","会社","の","利益","が","増えました","。"],"py":["kotoshi","wa","kaisha","no","rieki","ga","fuemashita","."],"vi":"Năm nay lợi nhuận công ty đã tăng.","alts":[]}},
@@ -31,7 +31,7 @@
    {"id":"ja402-競争","hanzi":"競争","pinyin":"kyousou","vi":"cạnh tranh","ex":{"tokens":["会社","の","間","の","競争","が","激しい","です","。"],"py":["kaisha","no","aida","no","kyousou","ga","hageshii","desu","."],"vi":"Cạnh tranh giữa các công ty rất gay gắt.","alts":[]}},
    {"id":"ja402-消費者","hanzi":"消費者","pinyin":"shouhisha","vi":"người tiêu dùng","ex":{"tokens":["会社","は","消費者","の","意見","を","聞きます","。"],"py":["kaisha","wa","shouhisha","no","iken","o","kikimasu","."],"vi":"Công ty lắng nghe ý kiến người tiêu dùng.","alts":[]}}
   ]},
-  {"id":"ja403","title":"Chính trị","desc":"Chính phủ, bầu cử, quyền và nghĩa vụ","icon":"政","unit":41,"course":"ja","order":480,"words":[
+  {"id":"ja403","title":"Chính trị","desc":"Chính phủ, bầu cử, quyền và nghĩa vụ","icon":"政","unit":41,"course":"ja","order":2520,"words":[
    {"id":"ja403-政治","hanzi":"政治","pinyin":"seiji","vi":"chính trị","ex":{"tokens":["若い","人","も","政治","に","関心","が","あります","。"],"py":["wakai","hito","mo","seiji","ni","kanshin","ga","arimasu","."],"vi":"Người trẻ cũng quan tâm đến chính trị.","alts":[]}},
    {"id":"ja403-政府","hanzi":"政府","pinyin":"seifu","vi":"chính phủ","ex":{"tokens":["政府","は","新しい","計画","を","発表","しました","。"],"py":["seifu","wa","atarashii","keikaku","o","happyou","shimashita","."],"vi":"Chính phủ đã công bố kế hoạch mới.","alts":[]}},
    {"id":"ja403-選挙","hanzi":"選挙","pinyin":"senkyo","vi":"bầu cử","ex":{"tokens":["来月","市長","の","選挙","が","あります","。"],"py":["raigetsu","shichou","no","senkyo","ga","arimasu","."],"vi":"Tháng sau có bầu cử thị trưởng.","alts":[]}},
@@ -45,7 +45,7 @@
    {"id":"ja403-権利","hanzi":"権利","pinyin":"kenri","vi":"quyền lợi","ex":{"tokens":["誰","でも","学ぶ","権利","が","あります","。"],"py":["dare","demo","manabu","kenri","ga","arimasu","."],"vi":"Ai cũng có quyền được học.","alts":[]}},
    {"id":"ja403-義務","hanzi":"義務","pinyin":"gimu","vi":"nghĩa vụ","ex":{"tokens":["税金","を","払う","こと","は","国民","の","義務","です","。"],"py":["zeikin","o","harau","koto","wa","kokumin","no","gimu","desu","."],"vi":"Nộp thuế là nghĩa vụ của người dân.","alts":[]}}
   ]},
-  {"id":"ja404","title":"Pháp luật","desc":"Quy định, xét xử, vi phạm","icon":"法","unit":41,"course":"ja","order":490,"words":[
+  {"id":"ja404","title":"Pháp luật","desc":"Quy định, xét xử, vi phạm","icon":"法","unit":41,"course":"ja","order":2530,"words":[
    {"id":"ja404-法律","hanzi":"法律","pinyin":"houritsu","vi":"pháp luật","ex":{"tokens":["皆","が","法律","を","守ります","。"],"py":["mina","ga","houritsu","o","mamorimasu","."],"vi":"Mọi người tuân thủ pháp luật.","alts":[]}},
    {"id":"ja404-規則","hanzi":"規則","pinyin":"kisoku","vi":"quy tắc","ex":{"tokens":["学校","の","規則","は","厳しい","です","。"],"py":["gakkou","no","kisoku","wa","kibishii","desu","."],"vi":"Quy tắc của trường nghiêm khắc.","alts":[]}},
    {"id":"ja404-裁判","hanzi":"裁判","pinyin":"saiban","vi":"phiên tòa, xét xử","ex":{"tokens":["来週","その","事件","の","裁判","が","始まります","。"],"py":["raishuu","sono","jiken","no","saiban","ga","hajimarimasu","."],"vi":"Tuần sau phiên tòa xử vụ đó bắt đầu.","alts":[]}},
@@ -59,7 +59,7 @@
    {"id":"ja404-許可","hanzi":"許可","pinyin":"kyoka","vi":"sự cho phép","ex":{"tokens":["先生","の","許可","を","もらいました","。"],"py":["sensei","no","kyoka","o","moraimashita","."],"vi":"Tôi đã được thầy cho phép.","alts":[]}},
    {"id":"ja404-責任","hanzi":"責任","pinyin":"sekinin","vi":"trách nhiệm","ex":{"tokens":["社長","は","事故","の","責任","を","取りました","。"],"py":["shachou","wa","jiko","no","sekinin","o","torimashita","."],"vi":"Giám đốc đã nhận trách nhiệm về vụ tai nạn.","alts":[]}}
   ]},
-  {"id":"ja405","title":"Vấn đề xã hội","desc":"Dân số, phúc lợi, bình đẳng","icon":"社","unit":41,"course":"ja","order":500,"words":[
+  {"id":"ja405","title":"Vấn đề xã hội","desc":"Dân số, phúc lợi, bình đẳng","icon":"社","unit":41,"course":"ja","order":2540,"words":[
    {"id":"ja405-社会","hanzi":"社会","pinyin":"shakai","vi":"xã hội","ex":{"tokens":["私","は","社会","の","役","に","立ちたい","です","。"],"py":["watashi","wa","shakai","no","yaku","ni","tachitai","desu","."],"vi":"Tôi muốn có ích cho xã hội.","alts":[]}},
    {"id":"ja405-人口","hanzi":"人口","pinyin":"jinkou","vi":"dân số","ex":{"tokens":["この","町","の","人口","は","減って","います","。"],"py":["kono","machi","no","jinkou","wa","hette","imasu","."],"vi":"Dân số thị trấn này đang giảm.","alts":[]}},
    {"id":"ja405-高齢者","hanzi":"高齢者","pinyin":"koureisha","vi":"người cao tuổi","ex":{"tokens":["この","村","は","高齢者","が","多い","です","。"],"py":["kono","mura","wa","koureisha","ga","ooi","desu","."],"vi":"Làng này có nhiều người cao tuổi.","alts":[]}},

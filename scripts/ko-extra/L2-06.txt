@@ -1,0 +1,47 @@
+=2
+@Suy nghĩ và ý kiến|Động từ về nhận thức
+믿음|niềm tin|친구에 대한 믿음이 있습니다.|Tôi có niềm tin vào bạn.
+바라다|mong muốn|행복을 바랍니다.|Tôi mong bạn hạnh phúc.
+원하다|muốn|저는 새 컴퓨터를 원합니다.|Tôi muốn một cái máy tính mới.
+정하다|định, quyết|약속 시간을 정합니다.|Chúng tôi định giờ hẹn.
+고민하다|trăn trở|진로를 고민합니다.|Tôi trăn trở về con đường tương lai.
+상상하다|tưởng tượng|미래를 상상합니다.|Tôi tưởng tượng về tương lai.
+기대하다|mong đợi, kỳ vọng|여행을 기대합니다.|Tôi mong đợi chuyến du lịch.
+의심하다|nghi ngờ|그의 말을 의심합니다.|Tôi nghi ngờ lời anh ấy.
+착각하다|nhầm tưởng|날짜를 착각했습니다.|Tôi đã nhầm ngày.
+깨닫다|nhận ra, giác ngộ|제 잘못을 깨달았습니다.|Tôi đã nhận ra lỗi của mình.
+떠올리다|hồi tưởng, nghĩ ra|어린 시절을 떠올립니다.|Tôi hồi tưởng thời thơ ấu.
+헷갈리다|lẫn lộn|두 단어가 헷갈립니다.|Hai từ này hay bị lẫn lộn.
+관심|sự quan tâm|한국 문화에 관심이 있습니다.|Tôi quan tâm đến văn hóa Hàn Quốc.
+잘못|lỗi lầm|제 잘못입니다.|Đó là lỗi của tôi.
+실수|sai sót|시험에서 실수를 했습니다.|Tôi đã mắc sai sót trong bài thi.
+거짓|sự giả dối|그 말은 거짓입니다.|Lời đó là giả dối.
+진짜|thật, đồ thật|이 가방은 진짜입니다.|Cái túi này là đồ thật.
+가짜|đồ giả|이 시계는 가짜입니다.|Cái đồng hồ này là đồ giả.
+소원|điều ước|소원을 빕니다.|Tôi cầu điều ước.
+희망|hy vọng|희망을 잃지 마세요.|Đừng đánh mất hy vọng.
+결과|kết quả|시험 결과가 나왔습니다.|Kết quả thi đã có.
+원인|nguyên nhân|사고의 원인을 찾습니다.|Người ta tìm nguyên nhân tai nạn.
+차이|sự khác biệt|두 나라의 문화 차이가 큽니다.|Sự khác biệt văn hóa giữa hai nước rất lớn.
+@Thời tiết và mùa|Hiện tượng thời tiết
+소나기|mưa rào|오후에 소나기가 왔습니다.|Buổi chiều đã có mưa rào.
+이슬비|mưa phùn|아침부터 이슬비가 내립니다.|Mưa phùn rơi từ sáng.
+폭설|bão tuyết|폭설로 길이 막혔습니다.|Đường bị tắc vì bão tuyết.
+폭우|mưa lớn|폭우가 쏟아집니다.|Mưa lớn trút xuống.
+더위|cái nóng|여름 더위가 심합니다.|Cái nóng mùa hè gay gắt.
+추위|cái lạnh|겨울 추위를 잘 탑니다.|Tôi kém chịu cái lạnh mùa đông.
+영하|dưới không độ|오늘 기온은 영하 오 도입니다.|Nhiệt độ hôm nay là âm năm độ.
+영상|trên không độ|낮에는 영상으로 올라갑니다.|Ban ngày nhiệt độ lên trên không độ.
+일기예보|dự báo thời tiết|일기예보를 봅니다.|Tôi xem dự báo thời tiết.
+황사|bụi vàng|봄에는 황사가 심합니다.|Mùa xuân bụi vàng nặng.
+미세먼지|bụi mịn|오늘은 미세먼지가 많습니다.|Hôm nay nhiều bụi mịn.
+그늘|bóng râm|나무 그늘에서 쉽니다.|Tôi nghỉ dưới bóng cây.
+햇볕|nắng (hơi ấm)|햇볕이 뜨겁습니다.|Nắng nóng.
+무덥다|oi bức|여름 밤은 무덥습니다.|Đêm hè oi bức.
+포근하다|ấm áp dễ chịu|오늘은 날씨가 포근합니다.|Hôm nay thời tiết ấm áp dễ chịu.
+서늘하다|mát lạnh|가을 아침은 서늘합니다.|Sáng mùa thu mát lạnh.
+건조하다|khô hanh|겨울에는 공기가 건조합니다.|Mùa đông không khí khô hanh.
+습하다|ẩm ướt|장마철에는 날씨가 습합니다.|Mùa mưa dầm thời tiết ẩm ướt.
+그치다|tạnh, ngừng|비가 그쳤습니다.|Mưa đã tạnh.
+쏟아지다|trút xuống|갑자기 비가 쏟아집니다.|Mưa bất chợt trút xuống.
+뜨다|mọc; nổi|아침에 해가 뜹니다.|Buổi sáng mặt trời mọc.

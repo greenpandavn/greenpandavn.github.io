@@ -1,0 +1,98 @@
+=2
+@Trường học và học tập|Việc học
+小学生:しょうがくせい|học sinh tiểu học|弟:おとうと は 小学生:しょうがくせい です 。|Em trai tôi là học sinh tiểu học.
+中学生:ちゅうがくせい|học sinh cấp hai|妹:いもうと は 中学生:ちゅうがくせい に なりました 。|Em gái tôi đã thành học sinh cấp hai.
+大学院:だいがくいん|cao học|兄:あに は 大学院:だいがくいん で 研究:けんきゅう して います 。|Anh tôi đang nghiên cứu ở cao học.
+学部:がくぶ|khoa (đại học)|私:わたし は 経済:けいざい 学部:がくぶ の 学生:がくせい です 。|Tôi là sinh viên khoa kinh tế.
+入学試験:にゅうがくしけん|kỳ thi tuyển sinh|来月:らいげつ 、 入学試験:にゅうがくしけん が あります 。|Tháng sau có kỳ thi tuyển sinh.
+受ける:うける|dự (thi), nhận|明日:あした 、 試験:しけん を 受けます:うけます 。|Ngày mai tôi dự thi.
+通学:つうがく|đi học (đi lại)|自転車:じてんしゃ で 通学:つうがく して います 。|Tôi đi học bằng xe đạp.
+時間割:じかんわり|thời khóa biểu|新しい:あたらしい 時間割:じかんわり を もらいました 。|Tôi đã nhận thời khóa biểu mới.
+理科:りか|môn khoa học|理科:りか の 実験:じっけん は 楽しい:たのしい です 。|Thí nghiệm môn khoa học vui.
+国語:こくご|môn quốc ngữ|国語:こくご の 授業:じゅぎょう で 作文:さくぶん を 書きます:かきます 。|Giờ quốc ngữ tôi viết văn.
+美術:びじゅつ|mỹ thuật|美術:びじゅつ の 時間:じかん に 絵:え を かきます 。|Giờ mỹ thuật tôi vẽ tranh.
+黒板消し:こくばんけし|cái lau bảng|黒板消し:こくばんけし で 黒板:こくばん を 消します:けします 。|Tôi xóa bảng bằng cái lau bảng.
+定規:じょうぎ|cái thước|定規:じょうぎ で 線:せん を 引きます:ひきます 。|Tôi kẻ đường bằng thước.
+線:せん|đường kẻ, tuyến|ノート に 線:せん を 引きます:ひきます 。|Tôi kẻ đường vào vở.
+丸:まる|hình tròn, khoanh tròn|正しい:ただしい 答え:こたえ に 丸:まる を つけます 。|Tôi khoanh tròn câu trả lời đúng.
+番号順:ばんごうじゅん|theo thứ tự số|番号順:ばんごうじゅん に 並んで:ならんで ください 。|Hãy xếp hàng theo thứ tự số.
+例:れい|ví dụ|例:れい を 見て:みて 答えて:こたえて ください 。|Hãy xem ví dụ rồi trả lời.
+文章:ぶんしょう|đoạn văn|この 文章:ぶんしょう は 長い:ながい です 。|Đoạn văn này dài.
+文字:もじ|chữ cái, ký tự|小さい:ちいさい 文字:もじ が 読めません:よめません 。|Tôi không đọc được chữ nhỏ.
+発表会:はっぴょうかい|buổi biểu diễn, báo cáo|来週:らいしゅう 、 ピアノ の 発表会:はっぴょうかい が あります 。|Tuần sau có buổi biểu diễn piano.
+受験:じゅけん|dự thi (tuyển sinh)|来年:らいねん 、 大学:だいがく を 受験:じゅけん します 。|Năm sau tôi thi đại học.
+失敗:しっぱい|thất bại|試験:しけん に 失敗:しっぱい しました 。|Tôi đã thi trượt.
+成功:せいこう|thành công|実験:じっけん は 成功:せいこう しました 。|Thí nghiệm đã thành công.
+間違える:まちがえる|làm sai, nhầm|漢字:かんじ を 間違えました:まちがえました 。|Tôi đã viết sai chữ Hán.
+比べ物:くらべもの|vật để so sánh|兄:あに の 絵:え は 私:わたし の と 比べ物:くらべもの に なりません 。|Tranh của anh tôi không thể đem so với của tôi.
+写す:うつす|chép lại; chụp|黒板:こくばん の 字:じ を ノート に 写します:うつします 。|Tôi chép chữ trên bảng vào vở.
+怠ける:なまける|lười biếng|勉強:べんきょう を 怠けて:なまけて は いけません 。|Không được lười học.
+叱る:しかる|mắng|先生:せんせい が 学生:がくせい を 叱りました:しかりました 。|Thầy đã mắng học sinh.
+褒める:ほめる|khen|母:はは が 私:わたし の 絵:え を 褒めました:ほめました 。|Mẹ đã khen tranh của tôi.
+@Nấu ăn và bữa ăn|Trong bếp và nhà hàng
+材料:ざいりょう|nguyên liệu|カレー の 材料:ざいりょう を 買います:かいます 。|Tôi mua nguyên liệu nấu cà ri.
+煮る:にる|ninh, kho|野菜:やさい を 煮ます:にます 。|Tôi ninh rau.
+炒める:いためる|xào|肉:にく と 野菜:やさい を 炒めます:いためます 。|Tôi xào thịt với rau.
+蒸す:むす|hấp|魚:さかな を 蒸します:むします 。|Tôi hấp cá.
+ゆでる|luộc|卵:たまご を ゆでる 。|Tôi luộc trứng.
+刻む:きざむ|thái nhỏ|ねぎ を 細かく:こまかく 刻みます:きざみます 。|Tôi thái nhỏ hành.
+味見:あじみ|nếm thử|スープ の 味見:あじみ を します 。|Tôi nếm thử súp.
+味付け:あじつけ|nêm nếm|この 料理:りょうり は 味付け:あじつけ が 濃い:こい です 。|Món này nêm đậm.
+酢:す|giấm|サラダ に 酢:す を かけます 。|Tôi rưới giấm lên sa lát.
+小麦粉:こむぎこ|bột mì|小麦粉:こむぎこ で パン を 作ります:つくります 。|Tôi làm bánh mì bằng bột mì.
+フライパン|chảo rán|フライパン で 卵:たまご を 焼きます:やきます 。|Tôi rán trứng bằng chảo.
+やかん|ấm đun nước|やかん で お湯:おゆ を 沸かします:わかします 。|Tôi đun nước bằng ấm.
+炊飯器:すいはんき|nồi cơm điện|炊飯器:すいはんき で ご飯:ごはん を 炊きます:たきます 。|Tôi nấu cơm bằng nồi cơm điện.
+炊く:たく|nấu (cơm)|毎朝:まいあさ 、 ご飯:ごはん を 炊きます:たきます 。|Mỗi sáng tôi nấu cơm.
+電子レンジ:でんしレンジ|lò vi sóng|電子レンジ:でんしレンジ で 弁当:べんとう を 温めます:あたためます 。|Tôi hâm cơm hộp bằng lò vi sóng.
+食器:しょっき|bát đĩa|食器:しょっき を 洗います:あらいます 。|Tôi rửa bát đĩa.
+お代わり:おかわり|bát nữa, suất thêm|ご飯:ごはん の お代わり:おかわり を ください 。|Cho tôi thêm bát cơm nữa.
+定食:ていしょく|suất ăn theo set|昼:ひる は 魚:さかな の 定食:ていしょく を 食べます:たべます 。|Buổi trưa tôi ăn suất cá.
+食べ放題:たべほうだい|ăn thỏa thích (buffet)|この 店:みせ は 食べ放題:たべほうだい です 。|Quán này là ăn thỏa thích.
+持ち帰り:もちかえり|mang về|持ち帰り:もちかえり で お願い:おねがい します 。|Cho tôi mang về.
+外食:がいしょく|ăn ngoài|週末:しゅうまつ は 家族:かぞく で 外食:がいしょく します 。|Cuối tuần cả nhà ăn ngoài.
+自炊:じすい|tự nấu ăn|毎日:まいにち 、 自炊:じすい して います 。|Ngày nào tôi cũng tự nấu ăn.
+食欲:しょくよく|sự thèm ăn|暑くて:あつくて 食欲:しょくよく が ありません 。|Nóng quá tôi không thèm ăn.
+新鮮:しんせん|tươi|この 魚:さかな は 新鮮:しんせん です 。|Cá này tươi.
+腐る:くさる|bị thiu, thối|牛乳:ぎゅうにゅう が 腐りました:くさりました 。|Sữa đã bị thiu.
+生:なま|sống (chưa nấu)|生:なま の 魚:さかな を 食べます:たべます 。|Tôi ăn cá sống.
+@Nhà cửa và việc nhà|Công việc trong nhà
+家事:かじ|việc nhà|夫:おっと も 家事:かじ を 手伝います:てつだいます 。|Chồng tôi cũng giúp việc nhà.
+掃く:はく|quét|庭:にわ を 掃きます:はきます 。|Tôi quét sân.
+磨き:みがき|sự đánh bóng|靴:くつ の 磨き:みがき が 上手:じょうず です 。|Anh ấy đánh bóng giày giỏi.
+干す:ほす|phơi|洗濯物:せんたくもの を 干します:ほします 。|Tôi phơi đồ giặt.
+畳む:たたむ|gấp (quần áo)|シャツ を 畳みます:たたみます 。|Tôi gấp áo sơ mi.
+アイロン|bàn là|シャツ に アイロン を かけます 。|Tôi là áo sơ mi.
+洗剤:せんざい|chất tẩy rửa|洗剤:せんざい で 皿:さら を 洗います:あらいます 。|Tôi rửa đĩa bằng chất tẩy rửa.
+雑巾:ぞうきん|giẻ lau|雑巾:ぞうきん で 床:ゆか を 拭きます:ふきます 。|Tôi lau sàn bằng giẻ.
+ほうき|cái chổi|ほうき で 玄関:げんかん を 掃きます:はきます 。|Tôi quét tiền sảnh bằng chổi.
+生ごみ:なまごみ|rác thực phẩm|生ごみ:なまごみ は 月曜日:げつようび に 出します:だします 。|Rác thực phẩm đổ vào thứ hai.
+燃えるごみ:もえるごみ|rác cháy được|今日:きょう は 燃えるごみ:もえるごみ の 日:ひ です 。|Hôm nay là ngày đổ rác cháy được.
+留守番:るすばん|trông nhà|弟:おとうと が 留守番:るすばん を して います 。|Em trai tôi đang trông nhà.
+戸:と|cánh cửa (kéo)|戸:と を 閉めて:しめて ください 。|Hãy đóng cửa lại.
+天井:てんじょう|trần nhà|この 部屋:へや は 天井:てんじょう が 高い:たかい です 。|Phòng này trần cao.
+押し入れ:おしいれ|tủ âm tường|布団:ふとん を 押し入れ:おしいれ に 入れます:いれます 。|Tôi cất chăn đệm vào tủ âm tường.
+物置:ものおき|nhà kho|自転車:じてんしゃ は 物置:ものおき に あります 。|Xe đạp ở trong nhà kho.
+ベランダ|ban công|ベランダ で 花:はな を 育てます:そだてます 。|Tôi trồng hoa ở ban công.
+暖房:だんぼう|máy sưởi|寒い:さむい から 暖房:だんぼう を つけます 。|Vì lạnh nên tôi bật máy sưởi.
+蛇口:じゃぐち|vòi nước|蛇口:じゃぐち を 閉めて:しめて ください 。|Hãy khóa vòi nước.
+停電:ていでん|mất điện|台風:たいふう で 停電:ていでん に なりました 。|Mất điện vì bão.
+引っ越し:ひっこし|việc chuyển nhà|来月:らいげつ 、 引っ越し:ひっこし を します 。|Tháng sau tôi chuyển nhà.
+建てる:たてる|xây (nhà)|新しい:あたらしい 家:いえ を 建てます:たてます 。|Tôi xây nhà mới.
+飾る:かざる|trang trí|部屋:へや に 花:はな を 飾ります:かざります 。|Tôi trang trí hoa trong phòng.
+@Mua sắm và dịch vụ|Cửa hàng, thanh toán
+品物:しなもの|hàng hóa|この 店:みせ は 品物:しなもの が 多い:おおい です 。|Cửa hàng này nhiều hàng hóa.
+割引:わりびき|giảm giá|学生:がくせい は 割引:わりびき が あります 。|Học sinh được giảm giá.
+無料:むりょう|miễn phí|この サービス は 無料:むりょう です 。|Dịch vụ này miễn phí.
+有料:ゆうりょう|mất phí|この 駐車場:ちゅうしゃじょう は 有料:ゆうりょう です 。|Bãi đỗ xe này mất phí.
+合計:ごうけい|tổng cộng|合計:ごうけい で 三千:さんぜん 円:えん です 。|Tổng cộng là ba nghìn yên.
+レシート|hóa đơn (biên lai)|レシート を もらいます 。|Tôi lấy hóa đơn.
+返品:へんぴん|trả lại hàng|この 靴:くつ を 返品:へんぴん したい です 。|Tôi muốn trả lại đôi giày này.
+交換:こうかん|đổi (hàng)|大きい:おおきい サイズ と 交換:こうかん して ください 。|Hãy đổi cho tôi cỡ to hơn.
+試着:しちゃく|mặc thử|この 服:ふく を 試着:しちゃく して も いい です か 。|Tôi mặc thử bộ này được không?
+売り切れ:うりきれ|bán hết|その 本:ほん は 売り切れ:うりきれ です 。|Quyển sách đó đã bán hết.
+包む:つつむ|gói|プレゼント を 紙:かみ で 包みます:つつみます 。|Tôi gói quà bằng giấy.
+選び方:えらびかた|cách chọn|パソコン の 選び方:えらびかた を 教えて:おしえて ください 。|Hãy chỉ tôi cách chọn máy tính.
+高級:こうきゅう|cao cấp|高級:こうきゅう な 店:みせ で 食事:しょくじ を します 。|Tôi dùng bữa ở nhà hàng cao cấp.
+中古:ちゅうこ|đồ cũ (đã qua sử dụng)|中古:ちゅうこ の 車:くるま を 買いました:かいました 。|Tôi đã mua xe cũ.
+本物:ほんもの|đồ thật|この 時計:とけい は 本物:ほんもの です 。|Đồng hồ này là đồ thật.

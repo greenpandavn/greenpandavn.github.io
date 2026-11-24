@@ -1,0 +1,83 @@
+=1
+@Gia đình và mọi người|Cách gọi người thân
+お父さん:おとうさん|bố (cách gọi lịch sự)|お父さん:おとうさん は 会社:かいしゃ で 働いて:はたらいて います 。|Bố làm việc ở công ty.
+お母さん:おかあさん|mẹ (cách gọi lịch sự)|お母さん:おかあさん は 料理:りょうり が 上手:じょうず です 。|Mẹ nấu ăn giỏi.
+お兄さん:おにいさん|anh trai (cách gọi lịch sự)|お兄さん:おにいさん は 大学生:だいがくせい です か 。|Anh trai bạn là sinh viên à?
+お姉さん:おねえさん|chị gái (cách gọi lịch sự)|お姉さん:おねえさん は 東京:とうきょう に 住んで:すんで います 。|Chị gái sống ở Tokyo.
+おじいさん|ông|おじいさん は 毎朝:まいあさ 散歩:さんぽ します 。|Ông đi dạo mỗi sáng.
+おばあさん|bà|おばあさん は 八十:はちじゅう 歳:さい です 。|Bà tám mươi tuổi.
+おじさん|chú, bác trai|おじさん は 大阪:おおさか に います 。|Chú tôi ở Osaka.
+おばさん|cô, dì, bác gái|おばさん が お菓子:おかし を くれました 。|Cô đã cho tôi bánh kẹo.
+息子:むすこ|con trai|息子:むすこ は 小学生:しょうがくせい です 。|Con trai tôi là học sinh tiểu học.
+娘:むすめ|con gái|娘:むすめ は ピアノ を 習って:ならって います 。|Con gái tôi đang học piano.
+兄弟:きょうだい|anh chị em|兄弟:きょうだい が 三人:さんにん います 。|Tôi có ba anh chị em.
+奥さん:おくさん|vợ (của người khác)|田中:たなか さん の 奥さん:おくさん は 先生:せんせい です 。|Vợ anh Tanaka là giáo viên.
+男の子:おとこのこ|bé trai|男の子:おとこのこ が 公園:こうえん で 遊んで:あそんで います 。|Bé trai đang chơi ở công viên.
+女の子:おんなのこ|bé gái|女の子:おんなのこ が 歌:うた を 歌って:うたって います 。|Bé gái đang hát.
+男の人:おとこのひと|người đàn ông|あの 男の人:おとこのひと は 誰:だれ です か 。|Người đàn ông kia là ai?
+女の人:おんなのひと|người phụ nữ|女の人:おんなのひと が 道:みち を 聞きました:ききました 。|Người phụ nữ đã hỏi đường.
+留学生:りゅうがくせい|du học sinh|私:わたし は ベトナム の 留学生:りゅうがくせい です 。|Tôi là du học sinh Việt Nam.
+大学生:だいがくせい|sinh viên đại học|兄:あに は 大学生:だいがくせい です 。|Anh tôi là sinh viên đại học.
+高校生:こうこうせい|học sinh cấp ba|妹:いもうと は 高校生:こうこうせい です 。|Em gái tôi là học sinh cấp ba.
+生徒:せいと|học sinh|この クラス の 生徒:せいと は 三十人:さんじゅうにん です 。|Lớp này có ba mươi học sinh.
+お巡りさん:おまわりさん|chú cảnh sát|お巡りさん:おまわりさん に 道:みち を 聞きます:ききます 。|Tôi hỏi đường chú cảnh sát.
+運転手:うんてんしゅ|tài xế|父:ちち は バス の 運転手:うんてんしゅ です 。|Bố tôi là tài xế xe buýt.
+@Đồ ăn và đồ uống|Món quen thuộc
+食べ物:たべもの|đồ ăn|好き:すき な 食べ物:たべもの は 何:なん です か 。|Đồ ăn bạn thích là gì?
+飲み物:のみもの|đồ uống|冷たい:つめたい 飲み物:のみもの が 欲しい:ほしい です 。|Tôi muốn đồ uống lạnh.
+お菓子:おかし|bánh kẹo|子供:こども は お菓子:おかし が 好き:すき です 。|Trẻ con thích bánh kẹo.
+お酒:おさけ|rượu|父:ちち は お酒:おさけ を 飲みません:のみません 。|Bố tôi không uống rượu.
+ビール|bia|暑い:あつい 日:ひ は ビール が おいしい です 。|Ngày nóng thì bia ngon.
+紅茶:こうちゃ|trà đen|朝:あさ 、 紅茶:こうちゃ を 飲みます:のみます 。|Buổi sáng tôi uống trà đen.
+牛肉:ぎゅうにく|thịt bò|牛肉:ぎゅうにく は 高い:たかい です 。|Thịt bò đắt.
+豚肉:ぶたにく|thịt lợn|豚肉:ぶたにく を 買いました:かいました 。|Tôi đã mua thịt lợn.
+鶏肉:とりにく|thịt gà|鶏肉:とりにく の 料理:りょうり を 作ります:つくります 。|Tôi nấu món thịt gà.
+バナナ|chuối|毎朝:まいあさ 、 バナナ を 食べます:たべます 。|Mỗi sáng tôi ăn chuối.
+みかん|quýt|冬:ふゆ は みかん が おいしい です 。|Mùa đông quýt ngon.
+バター|bơ|パン に バター を 塗ります:ぬります 。|Tôi phết bơ lên bánh mì.
+しょうゆ|nước tương|魚:さかな に しょうゆ を かけます 。|Tôi rưới nước tương lên cá.
+カレー|cà ri|今晩:こんばん は カレー を 作ります:つくります 。|Tối nay tôi nấu cà ri.
+ラーメン|mì ramen|昼:ひる に ラーメン を 食べました:たべました 。|Buổi trưa tôi đã ăn mì ramen.
+うどん|mì udon|寒い:さむい 日:ひ は うどん を 食べます:たべます 。|Ngày lạnh tôi ăn mì udon.
+そば|mì soba|駅:えき の 前:まえ で そば を 食べました:たべました 。|Tôi đã ăn mì soba trước ga.
+天ぷら:てんぷら|món tempura|天ぷら:てんぷら は 日本:にほん の 料理:りょうり です 。|Tempura là món ăn Nhật.
+弁当:べんとう|cơm hộp|毎日:まいにち 、 弁当:べんとう を 作ります:つくります 。|Ngày nào tôi cũng làm cơm hộp.
+ケーキ|bánh ngọt|誕生日:たんじょうび に ケーキ を 食べます:たべます 。|Sinh nhật thì ăn bánh ngọt.
+アイスクリーム|kem|夏:なつ は アイスクリーム が 人気:にんき です 。|Mùa hè kem được ưa chuộng.
+チョコレート|sô cô la|妹:いもうと に チョコレート を あげました 。|Tôi đã cho em gái sô cô la.
+サラダ|sa lát|野菜:やさい の サラダ を 食べます:たべます 。|Tôi ăn sa lát rau.
+スープ|súp|温かい:あたたかい スープ を 飲みます:のみます 。|Tôi uống súp ấm.
+米:こめ|gạo|日本:にほん の 米:こめ は おいしい です 。|Gạo Nhật ngon.
+味:あじ|vị|この スープ は 味:あじ が 薄い:うすい です 。|Súp này vị nhạt.
+レストラン|nhà hàng|家族:かぞく と レストラン で 食べます:たべます 。|Tôi ăn ở nhà hàng với gia đình.
+喫茶店:きっさてん|quán cà phê|喫茶店:きっさてん で 友達:ともだち と 話します:はなします 。|Tôi nói chuyện với bạn ở quán cà phê.
+メニュー|thực đơn|メニュー を 見せて:みせて ください 。|Cho tôi xem thực đơn.
+茶碗:ちゃわん|bát ăn cơm|茶碗:ちゃわん に ご飯:ごはん を 入れます:いれます 。|Tôi xới cơm vào bát.
+コップ|cái cốc|コップ に 水:みず を 入れます:いれます 。|Tôi rót nước vào cốc.
+スプーン|cái thìa|スプーン で スープ を 飲みます:のみます 。|Tôi ăn súp bằng thìa.
+フォーク|cái dĩa|フォーク で ケーキ を 食べます:たべます 。|Tôi ăn bánh bằng dĩa.
+ナイフ|con dao|ナイフ で 肉:にく を 切ります:きります 。|Tôi cắt thịt bằng dao.
+@Đồ vật trong nhà|Vật dụng hằng ngày
+ドア|cửa ra vào|ドア を 閉めて:しめて ください 。|Hãy đóng cửa lại.
+玄関:げんかん|cửa chính, tiền sảnh|玄関:げんかん で 靴:くつ を 脱ぎます:ぬぎます 。|Tôi cởi giày ở cửa chính.
+お風呂:おふろ|bồn tắm, phòng tắm|毎晩:まいばん 、 お風呂:おふろ に 入ります:はいります 。|Mỗi tối tôi tắm bồn.
+シャワー|vòi hoa sen|朝:あさ 、 シャワー を 浴びます:あびます 。|Buổi sáng tôi tắm vòi sen.
+ベッド|giường|ベッド で 寝ます:ねます 。|Tôi ngủ trên giường.
+本棚:ほんだな|giá sách|本棚:ほんだな に 本:ほん が たくさん あります 。|Trên giá sách có nhiều sách.
+テーブル|bàn ăn|テーブル の 上:うえ に 花:はな が あります 。|Trên bàn có hoa.
+ストーブ|lò sưởi|冬:ふゆ は ストーブ を 使います:つかいます 。|Mùa đông tôi dùng lò sưởi.
+ラジオ|đài radio|祖父:そふ は ラジオ を 聞きます:ききます 。|Ông tôi nghe đài.
+カメラ|máy ảnh|新しい:あたらしい カメラ が 欲しい:ほしい です 。|Tôi muốn có máy ảnh mới.
+パソコン|máy tính cá nhân|パソコン で 仕事:しごと を します 。|Tôi làm việc bằng máy tính.
+傘:かさ|cái ô|雨:あめ の 日:ひ は 傘:かさ を 持ちます:もちます 。|Ngày mưa tôi mang ô.
+箱:はこ|cái hộp|箱:はこ の 中:なか に 何:なに が あります か 。|Trong hộp có gì?
+石けん:せっけん|xà phòng|石けん:せっけん で 手:て を 洗います:あらいます 。|Tôi rửa tay bằng xà phòng.
+タオル|khăn tắm|タオル で 顔:かお を 拭きます:ふきます 。|Tôi lau mặt bằng khăn.
+花瓶:かびん|lọ hoa|花瓶:かびん に 花:はな を 入れます:いれます 。|Tôi cắm hoa vào lọ.
+灰皿:はいざら|cái gạt tàn|灰皿:はいざら は どこ です か 。|Cái gạt tàn ở đâu?
+ポケット|túi áo, túi quần|ポケット に 鍵:かぎ が あります 。|Trong túi có chìa khóa.
+はさみ|cái kéo|はさみ を 貸して:かして ください 。|Cho tôi mượn cái kéo.
+封筒:ふうとう|phong bì|封筒:ふうとう に 切手:きって を はります 。|Tôi dán tem lên phong bì.
+切手:きって|con tem|郵便局:ゆうびんきょく で 切手:きって を 買います:かいます 。|Tôi mua tem ở bưu điện.
+はがき|bưu thiếp|友達:ともだち に はがき を 書きます:かきます 。|Tôi viết bưu thiếp cho bạn.
+紙:かみ|giấy|紙:かみ に 名前:なまえ を 書きます:かきます 。|Tôi viết tên lên giấy.

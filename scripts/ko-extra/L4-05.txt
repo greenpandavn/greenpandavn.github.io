@@ -1,0 +1,93 @@
+=4
+@Lịch sử và truyền thống|Quá khứ, phong tục
+역사가|nhà sử học|역사가가 책을 썼습니다.|Nhà sử học đã viết sách.
+고대|thời cổ đại|고대 문명을 연구합니다.|Nghiên cứu văn minh cổ đại.
+중세|thời trung cổ|중세 유럽의 성을 봅니다.|Tôi xem lâu đài châu Âu thời trung cổ.
+현대|thời hiện đại|현대 사회는 빠르게 변합니다.|Xã hội hiện đại thay đổi nhanh.
+왕조|vương triều|조선 왕조는 오백 년 동안 이어졌습니다.|Vương triều Joseon kéo dài năm trăm năm.
+왕비|hoàng hậu|왕비가 궁에 살았습니다.|Hoàng hậu đã sống trong cung.
+신하|bề tôi|신하들이 왕에게 절을 했습니다.|Các bề tôi đã lạy vua.
+백성|thần dân, bách tính|왕이 백성을 사랑했습니다.|Nhà vua yêu thương bách tính.
+양반|quý tộc thời xưa|옛날에 양반은 글을 배웠습니다.|Ngày xưa quý tộc được học chữ.
+장군|tướng quân|이순신 장군은 유명합니다.|Tướng quân Yi Sun-sin rất nổi tiếng.
+전투|trận chiến|큰 전투가 있었습니다.|Đã có một trận chiến lớn.
+무기|vũ khí|박물관에서 옛날 무기를 봅니다.|Tôi xem vũ khí thời xưa ở bảo tàng.
+유물|di vật|유물을 발굴했습니다.|Họ đã khai quật di vật.
+고분|mộ cổ|경주에는 고분이 많습니다.|Ở Gyeongju có nhiều mộ cổ.
+궁궐|cung điện vua|궁궐을 관람합니다.|Tôi tham quan cung điện vua.
+성곽|thành quách|성곽을 따라 걷습니다.|Tôi đi bộ dọc theo thành quách.
+풍습|phong tục|나라마다 풍습이 다릅니다.|Mỗi nước phong tục một khác.
+관습|tập quán|오래된 관습을 따릅니다.|Làm theo tập quán lâu đời.
+예절교육|giáo dục lễ nghĩa|아이들에게 예절교육을 합니다.|Dạy lễ nghĩa cho trẻ.
+미신|mê tín|그것은 미신입니다.|Đó là mê tín.
+전설|truyền thuyết|이 산에는 전설이 있습니다.|Ngọn núi này có truyền thuyết.
+신화|thần thoại|그리스 신화를 읽습니다.|Tôi đọc thần thoại Hy Lạp.
+민속|dân gian|민속 놀이를 체험합니다.|Tôi trải nghiệm trò chơi dân gian.
+명절음식|món ăn ngày lễ tết|명절음식을 준비합니다.|Chuẩn bị món ăn ngày lễ tết.
+세시풍속|phong tục theo mùa|세시풍속을 조사합니다.|Tìm hiểu phong tục theo mùa.
+전해지다|được truyền lại|이 이야기는 옛날부터 전해집니다.|Câu chuyện này được truyền lại từ xưa.
+물려받다|thừa hưởng|아버지의 가게를 물려받았습니다.|Tôi đã thừa hưởng cửa hàng của bố.
+@Địa lý và đô thị|Vùng miền, quy hoạch
+대륙|đại lục|아시아는 가장 큰 대륙입니다.|Châu Á là đại lục lớn nhất.
+반도|bán đảo|한국은 반도 국가입니다.|Hàn Quốc là quốc gia bán đảo.
+해안|bờ biển, duyên hải|해안 도로를 달립니다.|Tôi chạy xe trên đường ven biển.
+평야|đồng bằng|넓은 평야에서 쌀을 기릅니다.|Người ta trồng lúa trên đồng bằng rộng.
+산맥|dãy núi|이 산맥은 매우 깁니다.|Dãy núi này rất dài.
+분지|vùng lòng chảo|대구는 분지에 있습니다.|Daegu nằm trong vùng lòng chảo.
+화산|núi lửa|화산이 폭발했습니다.|Núi lửa đã phun trào.
+온대|ôn đới|한국은 온대 기후입니다.|Hàn Quốc có khí hậu ôn đới.
+열대|nhiệt đới|열대 과일은 답니다.|Hoa quả nhiệt đới ngọt.
+적도|xích đạo|적도 근처는 덥습니다.|Gần xích đạo thì nóng.
+남극|Nam Cực|남극에는 펭귄이 삽니다.|Chim cánh cụt sống ở Nam Cực.
+북극|Bắc Cực|북극의 얼음이 녹습니다.|Băng Bắc Cực tan.
+수도권|vùng thủ đô|인구의 절반이 수도권에 삽니다.|Một nửa dân số sống ở vùng thủ đô.
+대도시|đô thị lớn|대도시는 집값이 비쌉니다.|Ở đô thị lớn giá nhà đắt.
+신도시|đô thị mới|신도시에 아파트를 짓습니다.|Người ta xây chung cư ở đô thị mới.
+주거지|khu dân cư|이곳은 조용한 주거지입니다.|Nơi này là khu dân cư yên tĩnh.
+상가|khu cửa hàng|아파트 앞에 상가가 있습니다.|Trước chung cư có khu cửa hàng.
+번화가|khu phố sầm uất|번화가에는 사람이 많습니다.|Khu phố sầm uất đông người.
+재개발|tái quy hoạch|이 동네는 재개발이 됩니다.|Khu này sẽ được tái quy hoạch.
+철거|việc phá dỡ|오래된 건물을 철거합니다.|Phá dỡ tòa nhà cũ.
+인구밀도|mật độ dân số|서울은 인구밀도가 높습니다.|Seoul có mật độ dân số cao.
+교통망|mạng lưới giao thông|교통망이 잘 되어 있습니다.|Mạng lưới giao thông rất tốt.
+기반시설|cơ sở hạ tầng|기반시설을 건설합니다.|Xây dựng cơ sở hạ tầng.
+@Vận tải và hậu cần|Hàng hóa, phương tiện
+화물|hàng hóa vận chuyển|화물을 배에 싣습니다.|Chất hàng lên tàu.
+화물차|xe tải chở hàng|화물차가 고속도로를 달립니다.|Xe tải chạy trên đường cao tốc.
+운송|việc vận tải|운송 비용이 올랐습니다.|Chi phí vận tải đã tăng.
+물류|hậu cần, kho vận|물류 센터에서 일합니다.|Tôi làm ở trung tâm kho vận.
+창고|nhà kho|창고에 상자를 쌓습니다.|Chất thùng trong nhà kho.
+항공편|chuyến bay|항공편을 예약했습니다.|Tôi đã đặt chuyến bay.
+여객선|tàu chở khách|여객선을 타고 섬에 갑니다.|Tôi đi tàu khách ra đảo.
+고속철도|đường sắt cao tốc|고속철도로 부산까지 갑니다.|Tôi đi Busan bằng đường sắt cao tốc.
+환승역|ga chuyển tuyến|다음 역은 환승역입니다.|Ga tiếp theo là ga chuyển tuyến.
+운행|việc chạy tuyến|버스 운행이 중단됐습니다.|Xe buýt đã ngừng chạy.
+승무원|tiếp viên|승무원이 음료를 줍니다.|Tiếp viên đưa đồ uống.
+기장|cơ trưởng|기장이 방송을 합니다.|Cơ trưởng thông báo.
+이륙|việc cất cánh|비행기가 이륙을 합니다.|Máy bay cất cánh.
+착륙|việc hạ cánh|비행기가 안전하게 착륙했습니다.|Máy bay đã hạ cánh an toàn.
+정체|sự ùn tắc|도로 정체가 심합니다.|Đường ùn tắc nặng.
+우회하다|đi đường vòng|공사 때문에 우회합니다.|Vì công trình nên đi đường vòng.
+싣다|chất lên, chở|트럭에 짐을 싣습니다.|Chất hành lý lên xe tải.
+나르다|khuân vác, chuyển|상자를 창고로 나릅니다.|Chuyển các thùng vào kho.
+운반하다|vận chuyển|무거운 물건을 운반합니다.|Vận chuyển đồ nặng.
+@Nhà đất và xây dựng|Bất động sản, công trình
+건설|việc xây dựng|아파트 건설이 한창입니다.|Việc xây chung cư đang rầm rộ.
+공사|công trình thi công|도로 공사를 하고 있습니다.|Đang thi công đường.
+건축가|kiến trúc sư|건축가가 집을 설계합니다.|Kiến trúc sư thiết kế nhà.
+설계|việc thiết kế|건물 설계가 끝났습니다.|Việc thiết kế tòa nhà đã xong.
+도면|bản vẽ|도면을 보고 설명합니다.|Xem bản vẽ rồi giải thích.
+기둥|cây cột|기둥이 지붕을 받칩니다.|Cột đỡ mái nhà.
+벽돌|gạch|벽돌로 집을 짓습니다.|Xây nhà bằng gạch.
+시멘트|xi măng|시멘트를 바릅니다.|Trát xi măng.
+철근|cốt thép|철근을 세웁니다.|Dựng cốt thép.
+인테리어|nội thất, trang trí trong nhà|집 인테리어를 바꿨습니다.|Tôi đã đổi nội thất nhà.
+매매|việc mua bán|집 매매 계약을 했습니다.|Tôi đã ký hợp đồng mua bán nhà.
+임대|việc cho thuê|사무실 임대를 합니다.|Cho thuê văn phòng.
+세입자|người thuê nhà|세입자가 이사를 갔습니다.|Người thuê nhà đã chuyển đi.
+분양|việc bán căn hộ mới xây|아파트 분양을 받았습니다.|Tôi đã mua được căn hộ mới xây.
+집값|giá nhà|집값이 많이 올랐습니다.|Giá nhà đã tăng nhiều.
+평수|diện tích tính theo pyeong|집의 평수가 넓습니다.|Diện tích nhà rộng.
+층수|số tầng|건물의 층수가 높습니다.|Tòa nhà có số tầng cao.
+허물다|phá sập|오래된 집을 허뭅니다.|Phá sập ngôi nhà cũ.
+보수하다|tu sửa|지붕을 보수합니다.|Tu sửa mái nhà.
