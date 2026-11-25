@@ -61,7 +61,7 @@ export default function CoursePicker() {
       <h1 className="mt-3 text-center text-2xl font-black">Bạn muốn học ngôn ngữ nào?</h1>
       <p className="mb-6 mt-1 text-center font-semibold text-ink-500">Tiến độ của mỗi khóa được lưu riêng. Bạn có thể đổi khóa học bất cứ lúc nào ở góc trên bên trái.</p>
       <CourseCards highlight={false} />
-      <p className="mt-5 text-center text-xs font-bold text-ink-400">Không cần đăng nhập — tiếng Trung và tiếng Anh học được ngay. Tiếng Hàn và tiếng Nhật dành cho tài khoản VIP.</p>
+      <p className="mt-5 text-center text-xs font-bold text-ink-400">Không cần đăng nhập — học được ngay. Tiếng Hàn, tiếng Nhật và tiếng Thái miễn phí 4 Phần đầu, các Phần sau dành cho tài khoản VIP.</p>
       <Footer className="mt-auto" />
     </div>
   );
