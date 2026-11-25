@@ -1,0 +1,62 @@
+=5
+@Toán cao cấp|Giải tích, đại số, hình học
+อนุพันธ์:anuphan|đạo hàm|ครู สอน หา อนุพันธ์|Giáo viên dạy tìm đạo hàm.
+ปริพันธ์:pariphan|tích phân|ข้อ นี้ ต้อง ใช้ ปริพันธ์|Câu này phải dùng tích phân.
+ลิมิต:limit|giới hạn (toán)|ลิมิต ของ ฟังก์ชัน นี้ คือ ศูนย์|Giới hạn của hàm số này bằng không.
+ฟังก์ชัน:fangchan|hàm số|ฟังก์ชัน นี้ มี กราฟ เป็น เส้น ตรง|Hàm số này có đồ thị là đường thẳng.
+สมการเชิงอนุพันธ์:samakanchoeng-anuphan|phương trình vi phân|วิศวกร แก้ สมการเชิงอนุพันธ์|Kỹ sư giải phương trình vi phân.
+พีชคณิตเชิงเส้น:phitchakhanitchoengsen|đại số tuyến tính|พีชคณิตเชิงเส้น ใช้ ใน คอมพิวเตอร์|Đại số tuyến tính dùng trong máy tính.
+เมทริกซ์:methrik|ma trận|นักเรียน คูณ เมทริกซ์|Học sinh nhân ma trận.
+เวกเตอร์:wektoe|véc tơ|แรง เป็น ปริมาณ เวกเตอร์|Lực là đại lượng véc tơ.
+ดีเทอร์มิแนนต์:dithoeminaen|định thức|หา ดีเทอร์มิแนนต์ ของ เมทริกซ์ นี้|Tìm định thức của ma trận này.
+จำนวนเฉพาะ:chamnuanchapho|số nguyên tố|เจ็ด เป็น จำนวนเฉพาะ|Bảy là số nguyên tố.
+จำนวนตรรกยะ:chamnuantakkaya|số hữu tỉ|เศษ ส่วน เป็น จำนวนตรรกยะ|Phân số là số hữu tỉ.
+จำนวนอตรรกยะ:chamnuan-atakkaya|số vô tỉ|พาย เป็น จำนวนอตรรกยะ|Pi là số vô tỉ.
+จำนวนเชิงซ้อน:chamnuanchoengson|số phức|วิศวกร ไฟฟ้า ใช้ จำนวนเชิงซ้อน|Kỹ sư điện dùng số phức.
+ลอการิทึม:lokarithuem|lô ga rít|นักเรียน ใช้ ตาราง ลอการิทึม|Học sinh dùng bảng lô ga rít.
+พหุนาม:phahunam|đa thức|ครู ให้ แยก พหุนาม|Giáo viên cho phân tích đa thức.
+อสมการ:asamakan|bất phương trình|นักเรียน แก้ อสมการ|Học sinh giải bất phương trình.
+ลำดับเลขคณิต:lamdaplekkhanit|cấp số cộng|นี่ คือ ลำดับเลขคณิต|Đây là cấp số cộng.
+อนุกรม:anukrom|chuỗi (toán)|อนุกรม นี้ มี ผล บวก จำกัด|Chuỗi này có tổng hữu hạn.
+ตรีโกณมิติ:trikonmiti|lượng giác|ช่าง สำรวจ ใช้ ตรีโกณมิติ|Thợ trắc địa dùng lượng giác.
+ทฤษฎีบทพีทาโกรัส:thritsadibotphithakorat|định lý Pythagoras|นักเรียน ท่อง ทฤษฎีบทพีทาโกรัส|Học sinh học thuộc định lý Pythagoras.
+เส้นสัมผัส:sensamphat|tiếp tuyến|เส้นสัมผัส แตะ วงกลม จุด เดียว|Tiếp tuyến chạm đường tròn tại một điểm.
+เส้นทแยงมุม:senthayaengmum|đường chéo|สี่เหลี่ยม มี เส้นทแยงมุม สอง เส้น|Hình tứ giác có hai đường chéo.
+ทรงกระบอก:songkrabok|hình trụ|ถัง น้ำ เป็น ทรงกระบอก|Thùng nước có hình trụ.
+ทรงกรวย:songkruai|hình nón|หมวก นี้ เป็น ทรงกรวย|Cái mũ này hình nón.
+ทรงกลม:songklom|hình cầu|โลก เป็น ทรงกลม|Trái Đất hình cầu.
+พาราโบลา:pharabola|parabol|ลูกบอล ลอย เป็น พาราโบลา|Quả bóng bay theo đường parabol.
+วงรี:wongri|hình elip|โลก โคจร เป็น วงรี|Trái Đất quay theo quỹ đạo elip.
+ทฤษฎีเซต:thritsadiset|lý thuyết tập hợp|ครู เริ่ม สอน ทฤษฎีเซต|Giáo viên bắt đầu dạy lý thuyết tập hợp.
+@Thuế và tài chính công|Ngân sách nhà nước
+การคลังสาธารณะ:kankhlangsatharana|tài chính công|เขา สอน วิชา การคลังสาธารณะ|Ông ấy dạy môn tài chính công.
+ภาษีเงินได้บุคคลธรรมดา:phasingoendaibukkhonthammada|thuế thu nhập cá nhân|พนักงาน จ่าย ภาษีเงินได้บุคคลธรรมดา|Nhân viên nộp thuế thu nhập cá nhân.
+ภาษีเงินได้นิติบุคคล:phasingoendainitibukkhon|thuế thu nhập doanh nghiệp|บริษัท จ่าย ภาษีเงินได้นิติบุคคล|Công ty nộp thuế thu nhập doanh nghiệp.
+ภาษีที่ดิน:phasithidin|thuế đất|เจ้าของ ต้อง จ่าย ภาษีที่ดิน|Chủ sở hữu phải nộp thuế đất.
+ภาษีมรดก:phasimoradok|thuế thừa kế|ไทย เริ่ม เก็บ ภาษีมรดก|Thái Lan bắt đầu thu thuế thừa kế.
+ลดหย่อนภาษี:lotyonphasi|giảm trừ thuế|ประกัน ชีวิต ใช้ ลดหย่อนภาษี ได้|Bảo hiểm nhân thọ được giảm trừ thuế.
+ยื่นแบบภาษี:yuenbaepphasi|nộp tờ khai thuế|ผม ยื่นแบบภาษี ทาง อินเทอร์เน็ต|Tôi nộp tờ khai thuế qua mạng.
+คืนภาษี:khuenphasi|hoàn thuế|ปี นี้ ผม ได้ คืนภาษี|Năm nay tôi được hoàn thuế.
+หลบเลี่ยงภาษี:lopliangphasi|trốn thuế|เขา ถูก จับ เพราะ หลบเลี่ยงภาษี|Hắn bị bắt vì trốn thuế.
+กรมสรรพากร:kromsanphakon|tổng cục thuế|กรมสรรพากร ตรวจ บัญชี บริษัท|Tổng cục thuế kiểm tra sổ sách công ty.
+กรมศุลกากร:kromsunlakakon|tổng cục hải quan|กรมศุลกากร จับ ของ เถื่อน|Hải quan bắt hàng lậu.
+งบขาดดุล:ngopkhatdun|thâm hụt ngân sách|รัฐบาล มี งบขาดดุล มาก|Chính phủ thâm hụt ngân sách lớn.
+งบเกินดุล:ngopkoendun|thặng dư ngân sách|ปี นั้น รัฐ มี งบเกินดุล|Năm đó nhà nước thặng dư ngân sách.
+หนี้สาธารณะ:nisatharana|nợ công|หนี้สาธารณะ ของ ไทย เพิ่ม ขึ้น|Nợ công của Thái Lan tăng lên.
+เพดานหนี้:phedanni|trần nợ|รัฐบาล ขยาย เพดานหนี้|Chính phủ nâng trần nợ.
+รายจ่ายประจำ:raichaipracham|chi thường xuyên|รายจ่ายประจำ ของ รัฐ สูง|Chi thường xuyên của nhà nước cao.
+งบลงทุน:ngoplongthun|ngân sách đầu tư|รัฐบาล เพิ่ม งบลงทุน|Chính phủ tăng ngân sách đầu tư.
+เงินอุดหนุน:ngoen-utnun|tiền trợ cấp|ชาวนา ได้ เงินอุดหนุน จาก รัฐ|Nông dân nhận trợ cấp từ nhà nước.
+รัฐวิสาหกิจ:ratwisahakit|doanh nghiệp nhà nước|การไฟฟ้า เป็น รัฐวิสาหกิจ|Điện lực là doanh nghiệp nhà nước.
+แปรรูปรัฐวิสาหกิจ:praerupratwisahakit|tư nhân hóa doanh nghiệp nhà nước|รัฐบาล จะ แปรรูปรัฐวิสาหกิจ|Chính phủ sẽ tư nhân hóa doanh nghiệp nhà nước.
+จัดซื้อจัดจ้าง:chatsuechatchang|mua sắm công|การ จัดซื้อจัดจ้าง ต้อง โปร่งใส|Mua sắm công phải minh bạch.
+ประมูลงาน:pramunngan|đấu thầu|บริษัท ประมูลงาน สร้าง ถนน|Công ty đấu thầu làm đường.
+ฮั้วประมูล:huapramun|thông thầu|ผู้รับเหมา ถูก จับ ข้อหา ฮั้วประมูล|Nhà thầu bị bắt vì thông thầu.
+สำนักงานการตรวจเงินแผ่นดิน:samnakngankantruatngoenphaendin|kiểm toán nhà nước|สำนักงานการตรวจเงินแผ่นดิน ตรวจ โครงการ|Kiểm toán nhà nước kiểm tra dự án.
+เบี้ยยังชีพ:biayangchip|trợ cấp sinh hoạt (người già)|ยาย รับ เบี้ยยังชีพ ทุก เดือน|Bà ngoại nhận trợ cấp mỗi tháng.
+กองทุนประกันสังคม:kongthunprakansangkhom|quỹ bảo hiểm xã hội|ลูกจ้าง จ่าย เงิน เข้า กองทุนประกันสังคม|Người lao động đóng vào quỹ bảo hiểm xã hội.
+ภาษีอัตราก้าวหน้า:phasi-attrakaona|thuế lũy tiến|ไทย ใช้ ภาษีอัตราก้าวหน้า|Thái Lan dùng thuế lũy tiến.
+ฐานภาษี:thanphasi|cơ sở tính thuế|รัฐบาล ต้องการ ขยาย ฐานภาษี|Chính phủ muốn mở rộng cơ sở tính thuế.
+ภาษีซ้อน:phasison|đánh thuế hai lần|สอง ประเทศ ทำ ข้อตกลง เรื่อง ภาษีซ้อน|Hai nước ký thỏa thuận về đánh thuế hai lần.
+เขตปลอดอากร:khetplot-akon|khu phi thuế quan|โรงงาน ตั้ง ใน เขตปลอดอากร|Nhà máy đặt trong khu phi thuế quan.
+วินัยการคลัง:winaikankhlang|kỷ luật tài khóa|รัฐบาล ต้อง รักษา วินัยการคลัง|Chính phủ phải giữ kỷ luật tài khóa.

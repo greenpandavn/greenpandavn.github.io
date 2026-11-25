@@ -1,0 +1,74 @@
+=2
+@Du lịch|Sân bay, thủ tục, tham quan
+วีซ่า:wisa|thị thực|ผม ต้อง ขอ วีซ่า|Tôi phải xin thị thực.
+ศุลกากร:sunlakakon|hải quan|ศุลกากร ตรวจ กระเป๋า|Hải quan kiểm tra hành lý.
+ตรวจคนเข้าเมือง:truatkhonkhaomueang|kiểm tra nhập cảnh|เรา รอ ที่ ตรวจคนเข้าเมือง|Chúng tôi đợi ở khu kiểm tra nhập cảnh.
+เที่ยวบิน:thiaobin|chuyến bay|เที่ยวบิน นี้ ออก สาย|Chuyến bay này cất cánh muộn.
+สายการบิน:saikanbin|hãng hàng không|สายการบิน นี้ บริการ ดี|Hãng hàng không này phục vụ tốt.
+ประตูขึ้นเครื่อง:pratukhuenkhrueang|cửa lên máy bay|ประตูขึ้นเครื่อง อยู่ ทาง ซ้าย|Cửa lên máy bay ở bên trái.
+บัตรโดยสาร:batdoisan|thẻ lên máy bay, vé hành khách|ขอ ดู บัตรโดยสาร หน่อย|Cho tôi xem thẻ lên máy bay.
+ที่นั่ง:thinang|chỗ ngồi|ที่นั่ง ของ ผม อยู่ ข้าง หน้าต่าง|Chỗ ngồi của tôi ở cạnh cửa sổ.
+สัมภาระ:samphara|hành lý|สัมภาระ ของ คุณ หนัก เกินไป|Hành lý của bạn nặng quá.
+เช็คอิน:chek-in|làm thủ tục nhận phòng, lên máy bay|เรา เช็คอิน ที่ โรงแรม|Chúng tôi làm thủ tục nhận phòng ở khách sạn.
+ล่าช้า:lacha|chậm trễ|รถไฟ ล่าช้า หนึ่ง ชั่วโมง|Tàu hỏa chậm trễ một tiếng.
+ต่อเครื่อง:tokhrueang|nối chuyến bay|ผม ต้อง ต่อเครื่อง ที่ กรุงเทพ|Tôi phải nối chuyến ở Bangkok.
+ไปกลับ:paiklap|khứ hồi|ขอ ตั๋ว ไปกลับ สอง ใบ|Cho tôi hai vé khứ hồi.
+เที่ยวเดียว:thiaodiao|một chiều (vé)|ผม ซื้อ ตั๋ว เที่ยวเดียว|Tôi mua vé một chiều.
+ตารางเวลา:tarangwela|lịch trình, thời gian biểu|ขอ ดู ตารางเวลา รถไฟ|Cho tôi xem lịch tàu hỏa.
+จุดหมาย:chutmai|điểm đến|จุดหมาย ของ เรา คือ เชียงใหม่|Điểm đến của chúng tôi là Chiang Mai.
+ท่าเรือ:tharuea|bến tàu, cảng|เรือ ออก จาก ท่าเรือ|Tàu rời bến.
+แหล่งท่องเที่ยว:laengthongthiao|điểm du lịch|ที่ นี่ เป็น แหล่งท่องเที่ยว ดัง|Đây là điểm du lịch nổi tiếng.
+โบราณสถาน:boransathan|di tích cổ|อยุธยา:ayutthaya มี โบราณสถาน มาก|Ayutthaya có nhiều di tích cổ.
+อุทยาน:utthayan|vườn quốc gia, công viên lớn|อุทยาน นี้ มี สัตว์ป่า|Vườn quốc gia này có động vật hoang dã.
+จุดชมวิว:chutchomwio|điểm ngắm cảnh|จุดชมวิว นี้ สวย มาก|Điểm ngắm cảnh này rất đẹp.
+ทิวทัศน์:thiothat|phong cảnh|ทิวทัศน์ ที่ นี่ สวย|Phong cảnh ở đây đẹp.
+ของที่ระลึก:khongthiraluek|đồ lưu niệm|ฉัน ซื้อ ของที่ระลึก ให้ เพื่อน|Tôi mua đồ lưu niệm cho bạn.
+ดำน้ำ:damnam|lặn|เรา ไป ดำน้ำ ที่ เกาะ|Chúng tôi đi lặn ở đảo.
+เดินป่า:doenpa|đi bộ xuyên rừng|ผม ชอบ เดินป่า|Tôi thích đi bộ xuyên rừng.
+ตั้งแคมป์:tangkhaem|cắm trại|เรา ตั้งแคมป์ ใกล้ น้ำตก|Chúng tôi cắm trại gần thác nước.
+เต็นท์:ten|cái lều|เรา นอน ใน เต็นท์|Chúng tôi ngủ trong lều.
+รีสอร์ต:risot|khu nghỉ dưỡng|รีสอร์ต นี้ อยู่ ใกล้ ทะเล|Khu nghỉ dưỡng này ở gần biển.
+แผนการเดินทาง:phaenkandoenthang|kế hoạch chuyến đi|แผนการเดินทาง ของ เรา เปลี่ยน|Kế hoạch chuyến đi của chúng tôi thay đổi.
+ค่าเข้า:khakhao|phí vào cửa|ค่าเข้า ห้า สิบ บาท|Phí vào cửa năm mươi baht.
+ฤดูท่องเที่ยว:ruedutthongthiao|mùa du lịch|ฤดูท่องเที่ยว คนเยอะ มาก|Mùa du lịch rất đông người.
+ประกันการเดินทาง:prakankandoenthang|bảo hiểm du lịch|ผม ซื้อ ประกันการเดินทาง|Tôi mua bảo hiểm du lịch.
+เมารถ:maorot|say xe|เด็ก เมารถ|Đứa trẻ bị say xe.
+ล่าม:lam|phiên dịch viên|เรา ต้องการ ล่าม|Chúng tôi cần phiên dịch viên.
+ต้อนรับ:tonrap|chào đón|คน ไทย ต้อนรับ นักท่องเที่ยว|Người Thái chào đón khách du lịch.
+ทำเรื่อง:thamrueang|làm thủ tục|ผม ทำเรื่อง ขอ วีซ่า|Tôi làm thủ tục xin thị thực.
+@Thể thao và sức khỏe|Tập luyện, thi đấu
+การแข่งขัน:kankhaengkhan|cuộc thi đấu|การแข่งขัน เริ่ม บ่าย โมง|Cuộc thi đấu bắt đầu lúc một giờ chiều.
+นักมวย:nakmuai|võ sĩ quyền anh|นักมวย คน นี้ แข็งแรง|Võ sĩ này khỏe.
+โค้ช:khot|huấn luyện viên|โค้ช สอน ผู้เล่น|Huấn luyện viên dạy cầu thủ.
+กรรมการ:kammakan|trọng tài; ủy viên|กรรมการ เป่า:pao นกหวีด:nokwit|Trọng tài thổi còi.
+ยิง:ying|bắn; sút|ตำรวจ ยิง ปืน:puen|Cảnh sát bắn súng.
+คะแนนเสมอ:khanaensamoe|hòa điểm|สอง ทีม คะแนนเสมอ กัน|Hai đội hòa điểm nhau.
+เหรียญทอง:rianthong|huy chương vàng|นักกีฬา ไทย ได้ เหรียญทอง|Vận động viên Thái giành huy chương vàng.
+แชมป์:chaem|nhà vô địch|ทีม นี้ เป็น แชมป์|Đội này là nhà vô địch.
+สถิติ:sathiti|kỷ lục; thống kê|เขา ทำ สถิติ ใหม่|Anh ấy lập kỷ lục mới.
+ฝึกซ้อม:fueksom|tập luyện|ทีม ฝึกซ้อม ทุก วัน|Đội tập luyện mỗi ngày.
+ยิม:yim|phòng tập gym|ผม ไป ยิม หลัง เลิกงาน|Tôi đi tập gym sau khi tan làm.
+ยกน้ำหนัก:yoknamnak|cử tạ|เขา ยกน้ำหนัก ทุก เช้า|Anh ấy tập tạ mỗi sáng.
+วิ่งมาราธอน:wingmarathon|chạy marathon|เธอ วิ่งมาราธอน ปีที่แล้ว|Cô ấy chạy marathon năm ngoái.
+ปั่นจักรยาน:panchakkrayan|đạp xe|เรา ปั่นจักรยาน ใน สวนสาธารณะ|Chúng tôi đạp xe trong công viên.
+กอล์ฟ:kop|gôn|พ่อ เล่น กอล์ฟ วันอาทิตย์|Bố chơi gôn vào Chủ nhật.
+ปิงปอง:pingpong|bóng bàn|เด็ก เล่น ปิงปอง|Trẻ em chơi bóng bàn.
+ตะกร้อ:takro|cầu mây|ตะกร้อ เป็น กีฬา ไทย|Cầu mây là môn thể thao Thái.
+หมากรุก:makruk|cờ vua|ปู่ เล่น หมากรุก|Ông nội chơi cờ.
+ตกปลา:tokpla|câu cá|ลุง ชอบ ตกปลา|Bác trai thích câu cá.
+พายเรือ:phairuea|chèo thuyền|เรา พายเรือ ใน คลอง|Chúng tôi chèo thuyền trong kênh.
+ปีนเขา:pinkhao|leo núi|เขา ชอบ ปีนเขา|Anh ấy thích leo núi.
+ยืดเส้น:yuetsen|giãn cơ|ยืดเส้น ก่อน วิ่ง นะ|Giãn cơ trước khi chạy nhé.
+กล้ามเนื้อ:klamnuea|cơ bắp|กล้ามเนื้อ ขา แข็งแรง|Cơ chân khỏe.
+เหงื่อ:nguea|mồ hôi|เหงื่อ ออก มาก|Ra nhiều mồ hôi.
+หายใจ:haichai|thở|หายใจ ลึก มาก|Thở sâu vào.
+ลดน้ำหนัก:lotnamnak|giảm cân|ฉัน อยาก ลดน้ำหนัก|Tôi muốn giảm cân.
+อาหารเสริม:ahansoem|thực phẩm chức năng|เขา กิน อาหารเสริม ทุก วัน|Anh ấy uống thực phẩm chức năng mỗi ngày.
+วิตามิน:witamin|vitamin|ผลไม้ มี วิตามิน มาก|Hoa quả có nhiều vitamin.
+โปรตีน:protin|chất đạm|ไข่ มี โปรตีน สูง|Trứng có nhiều chất đạm.
+ไขมัน:khaiman|chất béo, mỡ|อาหาร นี้ มี ไขมัน มาก|Món này nhiều chất béo.
+แคลอรี่:khaelori|calo|ขนม นี้ แคลอรี่ สูง|Bánh này nhiều calo.
+นอนหลับ:nonlap|ngủ (giấc ngủ)|เมื่อคืน ผม นอนหลับ ดี|Đêm qua tôi ngủ ngon.
+สมาธิ:samathi|sự tập trung; thiền|เด็ก ไม่ มี สมาธิ|Đứa trẻ không tập trung.
+ผ่อนคลาย:phonkhlai|thư giãn|ฟัง เพลง ช่วย ให้ ผ่อนคลาย|Nghe nhạc giúp thư giãn.
+ตรวจสุขภาพ:truatsukkhaphap|khám sức khỏe|ผม ตรวจสุขภาพ ทุก ปี|Tôi khám sức khỏe hằng năm.

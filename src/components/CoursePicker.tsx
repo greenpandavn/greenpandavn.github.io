@@ -2,7 +2,7 @@ import { COURSES, courseWordCount, getCourse, setCourse, useContentVersion } fro
 import { xpByCourse, useProgress } from '../lib/store';
 import Panda from './Panda';
 import Footer from './Footer';
-import { useVip, vipCourse } from '../lib/vip';
+import { useVip, useVipParts, vipCourse } from '../lib/vip';
 import { firebaseConfigured } from '../lib/firebaseConfig';
 import { Lock } from './Icons';
 
@@ -13,6 +13,7 @@ export function CourseCards({ compact = false, highlight = true }: { compact?: b
   const xp = xpByCourse();
   const cur = getCourse();
   const vip = useVip();
+  useVipParts();
   return (
     <div className={compact ? 'grid grid-cols-2 gap-2' : 'flex flex-col gap-3'} data-testid="course-picker">
       {COURSES.map((c) => {

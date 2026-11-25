@@ -1,0 +1,74 @@
+=3
+@Khoa học|Nghiên cứu và tự nhiên
+ฟิสิกส์:fisik|vật lý|เขา สอน ฟิสิกส์|Anh ấy dạy vật lý.
+เคมี:khemi|hóa học|ฉัน ไม่ เก่ง เคมี|Tôi không giỏi hóa học.
+ชีววิทยา:chiwawitthaya|sinh học|เธอ ชอบ ชีววิทยา|Cô ấy thích sinh học.
+ดาราศาสตร์:darasat|thiên văn học|เขา สนใจ ดาราศาสตร์|Anh ấy quan tâm thiên văn học.
+ธรณีวิทยา:thoraniwitthaya|địa chất học|เธอ เรียน ธรณีวิทยา|Cô ấy học địa chất.
+ทฤษฎี:thritsadi|lý thuyết|ทฤษฎี นี้ ยาก|Lý thuyết này khó.
+สมมติฐาน:sommuttithan|giả thuyết|นักวิจัย ตั้ง สมมติฐาน|Nhà nghiên cứu đặt giả thuyết.
+การทดลอง:kanthotlong|thí nghiệm|การทดลอง นี้ สำเร็จ|Thí nghiệm này thành công.
+ห้องปฏิบัติการ:hongpatibatkan|phòng thí nghiệm|นักเรียน อยู่ ใน ห้องปฏิบัติการ|Học sinh ở trong phòng thí nghiệm.
+นักวิจัย:nakwichai|nhà nghiên cứu|นักวิจัย พบ ยา ใหม่|Nhà nghiên cứu tìm ra thuốc mới.
+สิ่งประดิษฐ์:singpradit|phát minh (vật)|สิ่งประดิษฐ์ นี้ มี ประโยชน์|Phát minh này hữu ích.
+อะตอม:atom|nguyên tử|น้ำ ประกอบด้วย อะตอม|Nước gồm các nguyên tử.
+โมเลกุล:molekun|phân tử|โมเลกุล นี้ เล็ก มาก|Phân tử này rất nhỏ.
+เซลล์:sen|tế bào|ร่างกาย มี เซลล์ มาก|Cơ thể có nhiều tế bào.
+ยีน:yin|gen|ยีน นี้ มา จาก พ่อ|Gen này đến từ bố.
+ดีเอ็นเอ:di-en-e|ADN|ตำรวจ ตรวจ ดีเอ็นเอ|Cảnh sát xét nghiệm ADN.
+วิวัฒนาการ:wiwatthanakan|sự tiến hóa|วิวัฒนาการ ใช้เวลา นาน|Tiến hóa mất nhiều thời gian.
+สิ่งมีชีวิต:singmichiwit|sinh vật|ใน ทะเล มี สิ่งมีชีวิต มาก|Trong biển có nhiều sinh vật.
+แบคทีเรีย:baekthiria|vi khuẩn|แบคทีเรีย ทำให้ อาหาร เสีย|Vi khuẩn làm thức ăn hỏng.
+ไวรัส:wairat|vi rút|ไวรัส นี้ อันตราย|Vi rút này nguy hiểm.
+แรงโน้มถ่วง:raengnomthuang|trọng lực|บน ดวงจันทร์ แรงโน้มถ่วง น้อย|Trên mặt trăng trọng lực nhỏ.
+พลังงานแสงอาทิตย์:phalang-ngansaeng-athit|năng lượng mặt trời|บ้าน นี้ ใช้ พลังงานแสงอาทิตย์|Nhà này dùng năng lượng mặt trời.
+นิวเคลียร์:nioekhlia|hạt nhân|พลังงาน นิวเคลียร์ มี ความเสี่ยง|Năng lượng hạt nhân có rủi ro.
+รังสี:rangsi|tia, bức xạ|รังสี นี้ อันตราย|Bức xạ này nguy hiểm.
+แม่เหล็ก:maelek|nam châm|แม่เหล็ก ดูด เหล็ก|Nam châm hút sắt.
+ไฟฟ้าสถิต:faifasathit|tĩnh điện|หน้าหนาว มี ไฟฟ้าสถิต|Mùa lạnh có tĩnh điện.
+ออกซิเจน:oksichen|ô xy|คน ต้องการ ออกซิเจน|Con người cần ô xy.
+คาร์บอน:khabon|các bon|โรงงาน ปล่อย คาร์บอน|Nhà máy thải các bon.
+สารเคมี:sankhemi|hóa chất|สารเคมี นี้ อันตราย|Hóa chất này nguy hiểm.
+ปฏิกิริยา:patikiriya|phản ứng|ปฏิกิริยา นี้ เกิด เร็ว|Phản ứng này xảy ra nhanh.
+ระบบสุริยะ:rabopsuriya|hệ mặt trời|โลก อยู่ ใน ระบบสุริยะ|Trái đất nằm trong hệ mặt trời.
+ดาวเคราะห์:daokhro|hành tinh|ดาวเคราะห์ นี้ ใหญ่ ที่สุด|Hành tinh này lớn nhất.
+กาแล็กซี:kalaeksi|thiên hà|กาแล็กซี มี ดาว มาก|Thiên hà có nhiều sao.
+ยานอวกาศ:yan-awakat|tàu vũ trụ|ยานอวกาศ ไป ถึง ดวงจันทร์|Tàu vũ trụ đến mặt trăng.
+นักบินอวกาศ:nakbin-awakat|phi hành gia|เด็ก อยาก เป็น นักบินอวกาศ|Đứa trẻ muốn làm phi hành gia.
+กล้องโทรทรรศน์:klongthorathat|kính thiên văn|เรา ดู ดาว ด้วย กล้องโทรทรรศน์|Chúng tôi ngắm sao bằng kính thiên văn.
+กล้องจุลทรรศน์:klongchunlathat|kính hiển vi|นักเรียน ใช้ กล้องจุลทรรศน์|Học sinh dùng kính hiển vi.
+@Y học nâng cao|Bệnh và điều trị
+โรคเรื้อรัง:rokrueairang|bệnh mãn tính|เบาหวาน เป็น โรคเรื้อรัง|Tiểu đường là bệnh mãn tính.
+โรคติดต่อ:roktitto|bệnh truyền nhiễm|โรคติดต่อ นี้ ระบาด เร็ว|Bệnh truyền nhiễm này lây nhanh.
+ระบาด:rabat|lây lan (dịch)|ไข้หวัด ระบาด ใน โรงเรียน|Cúm lây lan trong trường.
+ภูมิคุ้มกัน:phumkhumkan|hệ miễn dịch|เด็ก มี ภูมิคุ้มกัน น้อย|Trẻ em có sức miễn dịch yếu.
+อักเสบ:aksep|viêm|คอ ของ ผม อักเสบ|Họng tôi bị viêm.
+เนื้องอก:nuea-ngok|khối u|หมอ พบ เนื้องอก|Bác sĩ phát hiện khối u.
+โรคหลอดเลือด:roklotlueat|bệnh mạch máu|ผู้สูงอายุ เป็น โรคหลอดเลือด มาก|Người cao tuổi hay mắc bệnh mạch máu.
+คอเลสเตอรอล:kholetoeron|cholesterol|คอเลสเตอรอล ของ ผม สูง|Cholesterol của tôi cao.
+โรคซึมเศร้า:roksuemsao|bệnh trầm cảm|เขา เป็น โรคซึมเศร้า|Anh ấy bị trầm cảm.
+อัมพาต:ammaphat|liệt|ปู่ เป็น อัมพาต|Ông nội bị liệt.
+หอบหืด:hophuet|hen suyễn|เด็ก คน นี้ เป็น หอบหืด|Đứa trẻ này bị hen suyễn.
+วัณโรค:wannarok|bệnh lao|วัณโรค รักษา ได้|Bệnh lao chữa được.
+ไข้เลือดออก:khailueat-ok|sốt xuất huyết|หน้าฝน มี ไข้เลือดออก มาก|Mùa mưa có nhiều sốt xuất huyết.
+วินิจฉัย:winitchai|chẩn đoán|หมอ วินิจฉัย โรค|Bác sĩ chẩn đoán bệnh.
+อาการแทรกซ้อน:akansaekson|biến chứng|ผู้ป่วย มี อาการแทรกซ้อน|Bệnh nhân có biến chứng.
+ผลข้างเคียง:phonkhangkhiang|tác dụng phụ|ยา นี้ มี ผลข้างเคียง|Thuốc này có tác dụng phụ.
+ยาปฏิชีวนะ:yapatichiwana|thuốc kháng sinh|หมอ ให้ ยาปฏิชีวนะ|Bác sĩ cho thuốc kháng sinh.
+ยาชา:yacha|thuốc tê|หมอฟัน ฉีด ยาชา|Nha sĩ tiêm thuốc tê.
+ยาสลบ:yasalop|thuốc mê|หมอ ให้ ยาสลบ ก่อน ผ่าตัด|Bác sĩ gây mê trước khi mổ.
+ปลูกถ่าย:plukthai|cấy ghép|หมอ ปลูกถ่าย ไต|Bác sĩ ghép thận.
+บริจาคเลือด:borichaklueat|hiến máu|ผม บริจาคเลือด ทุก ปี|Tôi hiến máu hằng năm.
+กายภาพบำบัด:kaiyaphapbambat|vật lý trị liệu|ยาย ทำ กายภาพบำบัด|Bà ngoại tập vật lý trị liệu.
+ฟื้นตัว:fuentua|hồi phục|ผู้ป่วย ฟื้นตัว เร็ว|Bệnh nhân hồi phục nhanh.
+หมดสติ:motsati|bất tỉnh|เขา หมดสติ ใน ห้องน้ำ|Anh ấy bất tỉnh trong nhà tắm.
+ห้องฉุกเฉิน:hongchukchoen|phòng cấp cứu|ผู้ป่วย อยู่ ใน ห้องฉุกเฉิน|Bệnh nhân ở trong phòng cấp cứu.
+ศัลยแพทย์:sanlayaphaet|bác sĩ phẫu thuật|ศัลยแพทย์ ผ่าตัด หัวใจ|Bác sĩ phẫu thuật mổ tim.
+จิตแพทย์:chittaphaet|bác sĩ tâm thần|เขา ไป พบ จิตแพทย์|Anh ấy đi gặp bác sĩ tâm thần.
+เภสัชกร:phesatchakon|dược sĩ|เภสัชกร แนะนำ ยา|Dược sĩ tư vấn thuốc.
+ผู้เชี่ยวชาญ:phuchiaochan|chuyên gia|เขา เป็น ผู้เชี่ยวชาญ ด้าน หัวใจ|Ông ấy là chuyên gia về tim.
+สาธารณสุข:satharanasuk|y tế công cộng|เธอ ทำงาน ด้าน สาธารณสุข|Cô ấy làm trong ngành y tế công cộng.
+สุขอนามัย:sukkha-anamai|vệ sinh sức khỏe|สุขอนามัย ของ เด็ก สำคัญ|Vệ sinh sức khỏe của trẻ là quan trọng.
+โภชนาการ:phochanakan|dinh dưỡng|โภชนาการ ที่ ดี ช่วย ร่างกาย|Dinh dưỡng tốt giúp cơ thể.
+อายุขัย:ayukhai|tuổi thọ|อายุขัย ของ คน ไทย เพิ่ม ขึ้น|Tuổi thọ của người Thái tăng lên.
+พันธุกรรม:phanthukam|di truyền|โรค นี้ เป็น พันธุกรรม|Bệnh này là do di truyền.

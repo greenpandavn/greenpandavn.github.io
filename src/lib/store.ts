@@ -75,12 +75,12 @@ export function coursePart(p: Progress): CourseProgress {
 export function courseView(stored: Progress, course: CourseId): Progress {
   if (course === 'zh') return stored;
   const { level, ...part } = stored[course] ?? coursePart(defaultProgress());
-  return { ...stored, ...part, settings: { ...stored.settings, level }, en: undefined, ko: undefined, ja: undefined };
+  return { ...stored, ...part, settings: { ...stored.settings, level }, en: undefined, ko: undefined, ja: undefined, th: undefined };
 }
 
 /** Write a course view back into the stored form (Chinese at the top level, English under `en`). */
 function foldView(stored: Progress, view: Progress, course: CourseId): Progress {
-  if (course === 'zh') return { ...view, en: stored.en, ko: stored.ko, ja: stored.ja };
+  if (course === 'zh') return { ...view, en: stored.en, ko: stored.ko, ja: stored.ja, th: stored.th };
   const out: Progress = { ...stored, gems: view.gems, mock: view.mock, settings: { ...view.settings, level: stored.settings.level }, [course]: coursePart(view) };
   return out;
 }
@@ -91,7 +91,8 @@ export function xpByCourse(stored: Progress = state) {
   const en = stored.en?.xp ?? 0;
   const ko = stored.ko?.xp ?? 0;
   const ja = stored.ja?.xp ?? 0;
-  return { zh, en, ko, ja, total: zh + en + ko + ja };
+  const th = stored.th?.xp ?? 0;
+  return { zh, en, ko, ja, th, total: zh + en + ko + ja + th };
 }
 
 function sanitizeCourse(raw: unknown): CourseProgress | undefined {
@@ -135,6 +136,7 @@ export function sanitize(raw: unknown): Progress {
     en: sanitizeCourse(r.en),
     ko: sanitizeCourse(r.ko),
     ja: sanitizeCourse(r.ja),
+    th: sanitizeCourse(r.th),
     mock: r.mock && typeof r.mock === 'object' ? r.mock : undefined,
     version: 1,
   } as Progress;

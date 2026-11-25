@@ -1,0 +1,72 @@
+=3
+@Triết học và đạo đức|Tư tưởng, giá trị
+จริยธรรม:chariyatham|đạo đức (chuẩn mực)|หมอ ต้อง มี จริยธรรม|Bác sĩ phải có đạo đức.
+ศีลธรรม:sinlatham|luân lý|ครู สอน ศีลธรรม|Giáo viên dạy luân lý.
+คุณธรรม:khunnatham|đức hạnh|เขา เป็น คน มี คุณธรรม|Anh ấy là người có đức hạnh.
+มโนธรรม:manotham|lương tâm|มโนธรรม บอก ผม ว่า ผิด|Lương tâm bảo tôi rằng sai.
+สัจธรรม:satchatham|chân lý|พระ สอน สัจธรรม|Nhà sư dạy chân lý.
+ความดี:khwamdi|điều thiện|ความดี ชนะ ทุก อย่าง|Điều thiện thắng tất cả.
+ความชั่ว:khwamchua|điều ác|เรา ควร หนี ความชั่ว|Chúng ta nên tránh xa điều ác.
+ความหมายของชีวิต:khwammaikhongchiwit|ý nghĩa cuộc sống|เขา หา ความหมายของชีวิต|Anh ấy tìm ý nghĩa cuộc sống.
+การดำรงอยู่:kandamrongyu|sự tồn tại|นักปรัชญา:nakpratya คิด เรื่อง การดำรงอยู่|Triết gia suy nghĩ về sự tồn tại.
+เจตจำนงเสรี:chetchamnongseri|ý chí tự do|มนุษย์ มี เจตจำนงเสรี|Con người có ý chí tự do.
+โชคชะตา:chokchata|số phận|เขา เชื่อ ใน โชคชะตา|Anh ấy tin vào số phận.
+วัตถุนิยม:watthuniyom|chủ nghĩa vật chất|สังคม นี้ เป็น วัตถุนิยม|Xã hội này theo chủ nghĩa vật chất.
+อุดมคติ:udomkhati|lý tưởng (hoàn mỹ)|นี่ คือ สังคม ใน อุดมคติ|Đây là xã hội lý tưởng.
+ความเชื่อ:khwamchuea|niềm tin, tín ngưỡng|ทุก คน มี ความเชื่อ ของ ตัวเอง|Mỗi người có niềm tin riêng.
+ศรัทธา:sattha|đức tin|เธอ มี ศรัทธา ใน ศาสนา|Cô ấy có đức tin vào tôn giáo.
+ความหลุดพ้น:khwamlutphon|sự giải thoát|พระ สอน เรื่อง ความหลุดพ้น|Nhà sư dạy về sự giải thoát.
+นิพพาน:nipphan|niết bàn|นิพพาน คือ เป้าหมาย ของ พุทธ|Niết bàn là mục tiêu của Phật giáo.
+การเวียนว่ายตายเกิด:kanwianwaitaikoet|luân hồi|คน ไทย เชื่อ เรื่อง การเวียนว่ายตายเกิด|Người Thái tin vào luân hồi.
+ทางสายกลาง:thangsaiklang|trung đạo|พุทธ สอน ทางสายกลาง|Phật giáo dạy trung đạo.
+ความไม่เที่ยง:khwammaithiang|sự vô thường|ชีวิต คือ ความไม่เที่ยง|Cuộc đời là vô thường.
+ปัญญา:panya|trí tuệ (minh triết)|ปัญญา มา จาก ประสบการณ์|Trí tuệ đến từ kinh nghiệm.
+ความสงบ:khwamsangop|sự bình yên|ผม หา ความสงบ ที่ วัด|Tôi tìm sự bình yên ở chùa.
+ความกตัญญู:khwamkatanyu|lòng biết ơn, hiếu thảo|ความกตัญญู เป็น คุณธรรม|Lòng hiếu thảo là đức hạnh.
+ความซื่อตรง:khwamsuetrong|sự ngay thẳng|ความซื่อตรง สำคัญ กว่า เงิน|Sự ngay thẳng quan trọng hơn tiền.
+ความเสียสละ:khwamsiasala|sự hy sinh|แม่ มี ความเสียสละ มาก|Mẹ hy sinh rất nhiều.
+ความถ่อมตัว:khwamthomtua|sự khiêm tốn|ความถ่อมตัว ทำให้ คน รัก|Khiêm tốn khiến người ta yêu mến.
+การให้อภัย:kanhai-aphai|sự tha thứ|การให้อภัย ทำให้ ใจ เบา|Tha thứ làm lòng nhẹ nhõm.
+ศักดิ์ศรี:saksi|phẩm giá|ทุก คน มี ศักดิ์ศรี|Ai cũng có phẩm giá.
+เกียรติ:kiat|danh dự|เขา รักษา เกียรติ ของ ครอบครัว|Anh ấy giữ danh dự gia đình.
+ความชอบธรรม:khwamchoptham|tính chính đáng|รัฐบาล ต้อง มี ความชอบธรรม|Chính phủ phải có tính chính đáng.
+หลักจรรยาบรรณ:lakchanyaban|quy tắc đạo đức nghề nghiệp|นักข่าว มี หลักจรรยาบรรณ|Phóng viên có quy tắc đạo đức nghề.
+ข้อห้าม:khoham|điều cấm kỵ|ศาสนา นี้ มี ข้อห้าม มาก|Tôn giáo này có nhiều điều cấm kỵ.
+ประเพณีนิยม:prapheniniyom|tập tục truyền thống|เรา ทำ ตาม ประเพณีนิยม|Chúng tôi làm theo tập tục.
+โลกทัศน์:lokkathat|thế giới quan|การ เดินทาง เปลี่ยน โลกทัศน์|Du lịch thay đổi thế giới quan.
+มนุษยนิยม:manutsayaniyom|chủ nghĩa nhân văn|เขา ศึกษา มนุษยนิยม|Anh ấy nghiên cứu chủ nghĩa nhân văn.
+ปัจเจกบุคคล:patchekbukkhon|cá nhân (cá thể)|สังคม เคารพ ปัจเจกบุคคล|Xã hội tôn trọng cá nhân.
+@Thành ngữ thông dụng|Cách nói bóng bẩy
+ใจแคบ:chaikhaep|hẹp hòi|อย่า เป็น คน ใจแคบ|Đừng là người hẹp hòi.
+ใจอ่อน:chai-on|mềm lòng|เธอ ใจอ่อน กับ ลูก|Cô ấy mềm lòng với con.
+ใจแข็ง:chaikhaeng|cứng rắn (lòng)|เขา ใจแข็ง มาก|Anh ấy rất cứng rắn.
+ใจลอย:chailoi|lơ đãng|วันนี้ เธอ ใจลอย|Hôm nay cô ấy lơ đãng.
+ใจหาย:chaihai|hụt hẫng, thót tim|ผม ใจหาย เมื่อ ได้ยิน ข่าว|Tôi hụt hẫng khi nghe tin.
+น้ำใจ:namchai|tấm lòng tốt|คน ไทย มี น้ำใจ|Người Thái có lòng tốt.
+หน้าบาง:nabang|dễ xấu hổ|เธอ เป็น คน หน้าบาง|Cô ấy là người dễ xấu hổ.
+หน้าด้าน:nadan|mặt dày|เขา หน้าด้าน มาก|Anh ta rất mặt dày.
+เสียหน้า:siana|mất mặt|เขา กลัว เสียหน้า|Anh ấy sợ mất mặt.
+ได้หน้า:daina|được tiếng, nở mặt|เขา ทำ เพื่อ ได้หน้า|Anh ấy làm để được tiếng.
+ปากหวาน:pakwan|khéo miệng, nói ngọt|พ่อค้า คน นี้ ปากหวาน|Người bán hàng này khéo miệng.
+ปากร้าย:pakrai|độc miệng|ป้า ปากร้าย แต่ ใจดี|Bác gái độc miệng nhưng tốt bụng.
+หูเบา:hubao|cả tin, nhẹ dạ|อย่า เป็น คน หูเบา|Đừng là người cả tin.
+มือเบา:muebao|nhẹ tay|พยาบาล คน นี้ มือเบา|Y tá này nhẹ tay.
+หัวแข็ง:huakhaeng|cứng đầu|ลูก ของ ฉัน หัวแข็ง|Con tôi cứng đầu.
+หัวไว:huawai|nhanh trí|เด็ก คน นี้ หัวไว|Đứa trẻ này nhanh trí.
+ตาโต:tato|tròn mắt (ngạc nhiên, thèm)|เด็ก ตาโต เมื่อ เห็น ขนม|Đứa trẻ tròn mắt khi thấy bánh.
+กินใจ:kinchai|cảm động sâu sắc|เรื่อง นี้ กินใจ มาก|Chuyện này rất cảm động.
+ถูกใจ:thukchai|ưng ý|ของขวัญ นี้ ถูกใจ ฉัน|Món quà này tôi ưng ý.
+ขัดใจ:khatchai|làm trái ý|เขา ไม่ อยาก ขัดใจ แม่|Anh ấy không muốn làm trái ý mẹ.
+เกรงใจ:krengchai|ngại, giữ ý|ผม เกรงใจ คุณ มาก|Tôi ngại bạn lắm.
+ตั้งหลัก:tanglak|ổn định lại, lấy lại thế|เขา ตั้งหลัก ได้ แล้ว|Anh ấy đã ổn định lại.
+ถอดใจ:thotchai|bỏ cuộc, nản chí|อย่า ถอดใจ ง่าย นะ|Đừng bỏ cuộc dễ dàng.
+ลงมือ:longmue|bắt tay vào làm|เรา ลงมือ ทำ วันนี้|Chúng tôi bắt tay vào làm hôm nay.
+ออกหน้า:okna|đứng ra, ra mặt|พี่ชาย ออกหน้า ช่วย ผม|Anh trai đứng ra giúp tôi.
+เอาใจ:aochai|chiều chuộng|ยาย เอาใจ หลาน|Bà ngoại chiều cháu.
+เอาเปรียบ:aopriap|lợi dụng, chèn ép|อย่า เอาเปรียบ คนอื่น|Đừng lợi dụng người khác.
+เสียเปรียบ:siapriap|bị thiệt|ทีม เรา เสียเปรียบ|Đội chúng tôi bị thiệt.
+ได้เปรียบ:daipriap|có lợi thế|ทีม เขา ได้เปรียบ|Đội họ có lợi thế.
+หมดหวัง:motwang|tuyệt vọng|อย่า หมดหวัง นะ|Đừng tuyệt vọng nhé.
+สมหวัง:somwang|toại nguyện|ขอ ให้ คุณ สมหวัง|Chúc bạn toại nguyện.
+ลืมตัว:luemtua|quên mình, quá trớn|เขา ดีใจ จน ลืมตัว|Anh ấy vui đến quên cả mình.
+รู้ตัว:rutua|tự nhận ra, tỉnh táo|เขา รู้ตัว ว่า ผิด|Anh ấy tự nhận ra mình sai.

@@ -1,0 +1,119 @@
+=1
+@Trường học|Lớp học và việc học
+โรงเรียน:rongrian|trường học|โรงเรียน อยู่ ใกล้ บ้าน|Trường học ở gần nhà.
+ครู:khru|giáo viên|ครู สอน ภาษาไทย|Giáo viên dạy tiếng Thái.
+นักเรียน:nakrian|học sinh|นักเรียน อ่าน หนังสือ|Học sinh đọc sách.
+ห้องเรียน:hongrian|lớp học, phòng học|ห้องเรียน นี้ ใหญ่|Phòng học này to.
+สอน:son|dạy|แม่ สอน ลูก เขียน ชื่อ|Mẹ dạy con viết tên.
+สอบ:sop|thi, kiểm tra|พรุ่งนี้ ฉัน มี สอบ|Ngày mai tôi có bài thi.
+ข้อสอบ:khosop|đề thi|ข้อสอบ วันนี้ ง่าย|Đề thi hôm nay dễ.
+การบ้าน:kanban|bài tập về nhà|เด็ก ทำ การบ้าน|Đứa trẻ làm bài tập về nhà.
+ภาษา:phasa|ngôn ngữ|เขา พูด ได้ สาม ภาษา|Anh ấy nói được ba thứ tiếng.
+ภาษาไทย:phasathai|tiếng Thái|ภาษาไทย สนุก|Tiếng Thái thú vị.
+คำ:kham|từ, chữ|คำ นี้ อ่าน ยาก|Từ này khó đọc.
+ประโยค:prayok|câu (ngữ pháp)|ประโยค นี้ ยาว|Câu này dài.
+คำถาม:khamtham|câu hỏi|ผม มี คำถาม|Tôi có câu hỏi.
+คำตอบ:khamtop|câu trả lời|คำตอบ นี้ ถูก|Câu trả lời này đúng.
+บทเรียน:botrian|bài học|บทเรียน นี้ ง่าย|Bài học này dễ.
+มหาวิทยาลัย:mahawitthayalai|trường đại học|พี่สาว เรียน ที่ มหาวิทยาลัย|Chị gái học ở trường đại học.
+นักศึกษา:nakrueksa|sinh viên|เขา เป็น นักศึกษา|Anh ấy là sinh viên.
+ห้องสมุด:hongsamut|thư viện|ฉัน อ่าน หนังสือ ที่ ห้องสมุด|Tôi đọc sách ở thư viện.
+กระดาน:kradan|cái bảng|ครู เขียน บน กระดาน|Giáo viên viết lên bảng.
+ยางลบ:yanglop|cục tẩy|ขอ ยืม ยางลบ หน่อย|Cho tôi mượn cục tẩy một chút.
+ไม้บรรทัด:maibanthat|thước kẻ|ไม้บรรทัด อัน นี้ ยาว|Cái thước kẻ này dài.
+วิชา:wicha|môn học|คุณ ชอบ วิชา อะไร|Bạn thích môn học gì?
+คะแนน:khanaen|điểm số|เขา ได้ คะแนน ดี|Cậu ấy được điểm tốt.
+จำ:cham|nhớ, ghi nhớ|ฉัน จำ ชื่อ เขา ไม่ ได้|Tôi không nhớ được tên anh ấy.
+ลืม:luem|quên|ผม ลืม กุญแจ|Tôi quên chìa khóa.
+ฝึก:fuek|luyện tập|เรา ฝึก พูด ภาษาไทย|Chúng tôi luyện nói tiếng Thái.
+แปล:plae|dịch|ช่วย แปล คำ นี้ หน่อย|Làm ơn dịch giúp từ này.
+อธิบาย:athibai|giải thích|ครู อธิบาย บทเรียน|Giáo viên giải thích bài học.
+ยืม:yuem|mượn|ฉัน ยืม หนังสือ จาก ห้องสมุด|Tôi mượn sách từ thư viện.
+คืน:khuen|trả lại; đêm|ผม คืน หนังสือ แล้ว|Tôi trả sách rồi.
+ความหมาย:khwammai|ý nghĩa|คำ นี้ มี ความหมาย ดี|Từ này có ý nghĩa hay.
+ตัวอย่าง:tuayang|ví dụ|ครู ให้ ตัวอย่าง|Giáo viên cho ví dụ.
+เก่ง:keng|giỏi|เขา เก่ง ภาษาไทย|Anh ấy giỏi tiếng Thái.
+ผิด:phit|sai|คำตอบ นี้ ผิด|Câu trả lời này sai.
+@Nghề nghiệp|Công việc của mọi người
+งาน:ngan|công việc; lễ hội|งาน ของ ผม ยุ่ง มาก|Công việc của tôi rất bận.
+หมอ:mo|bác sĩ|หมอ ทำงาน ที่ โรงพยาบาล|Bác sĩ làm việc ở bệnh viện.
+พยาบาล:phayaban|y tá|พยาบาล คน นี้ ใจดี|Cô y tá này tốt bụng.
+ตำรวจ:tamruat|cảnh sát|ตำรวจ ช่วย เรา|Cảnh sát giúp chúng tôi.
+ทหาร:thahan|bộ đội, quân nhân|พี่ชาย เป็น ทหาร|Anh trai là bộ đội.
+พ่อครัว:phokhrua|đầu bếp nam|พ่อครัว ทำ อาหาร อร่อย|Đầu bếp nấu ăn ngon.
+ชาวนา:chaona|nông dân trồng lúa|ชาวนา ทำงาน ใน นา|Nông dân làm việc ngoài ruộng.
+นักร้อง:nakrong|ca sĩ|นักร้อง คน นี้ ดัง|Ca sĩ này nổi tiếng.
+คนขับรถ:khonkhaprot|tài xế|คนขับรถ มา แล้ว|Tài xế đến rồi.
+พนักงาน:phanakngan|nhân viên|พนักงาน ร้าน นี้ ใจดี|Nhân viên cửa hàng này tốt bụng.
+แม่ค้า:maekha|người bán hàng (nữ)|แม่ค้า ขาย ผัก|Cô bán hàng bán rau.
+นักธุรกิจ:nakthurakit|doanh nhân|พ่อ ของ เขา เป็น นักธุรกิจ|Bố anh ấy là doanh nhân.
+วิศวกร:witsawakon|kỹ sư|ผม อยาก เป็น วิศวกร|Tôi muốn làm kỹ sư.
+ทนาย:thanai|luật sư|เธอ เป็น ทนาย|Cô ấy là luật sư.
+นักแสดง:naksadaeng|diễn viên|นักแสดง คน นี้ หล่อ|Diễn viên này đẹp trai.
+นักกีฬา:nakkila|vận động viên|นักกีฬา วิ่ง เร็ว|Vận động viên chạy nhanh.
+เจ้านาย:chaonai|sếp, ông chủ|เจ้านาย ของ ฉัน ใจดี|Sếp của tôi tốt bụng.
+ลูกค้า:lukkha|khách hàng|ลูกค้า มา ซื้อ ของ|Khách hàng đến mua đồ.
+บริษัท:borisat|công ty|เขา ทำงาน ที่ บริษัท ใหญ่|Anh ấy làm việc ở công ty lớn.
+เงินเดือน:ngoenduean|lương tháng|เงินเดือน ของ เขา สูง|Lương tháng của anh ấy cao.
+อาชีพ:achip|nghề nghiệp|คุณ ทำ อาชีพ อะไร|Bạn làm nghề gì?
+ประชุม:prachum|họp, cuộc họp|วันนี้ เรา มี ประชุม|Hôm nay chúng tôi có cuộc họp.
+@Nơi chốn|Địa điểm trong thành phố
+ที่:thi|nơi, chỗ; ở|ที่ นี่ สวย มาก|Nơi này rất đẹp.
+เมือง:mueang|thành phố, thị trấn|เมือง นี้ ใหญ่|Thành phố này lớn.
+ประเทศ:prathet|đất nước|ประเทศ ไทย สวย|Đất nước Thái Lan đẹp.
+ตลาด:talat|chợ|แม่ ไป ตลาด ทุก เช้า|Mẹ đi chợ mỗi sáng.
+ร้าน:ran|cửa hàng, quán|ร้าน นี้ เปิด ทุก วัน|Cửa hàng này mở cửa mỗi ngày.
+ร้านอาหาร:ranahan|nhà hàng, quán ăn|ร้านอาหาร นี้ อร่อย|Quán ăn này ngon.
+ร้านกาแฟ:rankafae|quán cà phê|เรา พบ กัน ที่ ร้านกาแฟ|Chúng ta gặp nhau ở quán cà phê.
+โรงพยาบาล:rongphayaban|bệnh viện|ยาย อยู่ ที่ โรงพยาบาล|Bà ngoại đang ở bệnh viện.
+ธนาคาร:thanakhan|ngân hàng|ธนาคาร ปิด แล้ว|Ngân hàng đóng cửa rồi.
+วัด:wat|chùa|วัด นี้ เก่า มาก|Ngôi chùa này rất cổ.
+สนามบิน:sanambin|sân bay|ผม ไป สนามบิน|Tôi đi sân bay.
+สถานี:sathani|nhà ga, trạm|สถานี อยู่ ไกล:klai ไหม|Nhà ga có xa không?
+ไปรษณีย์:praisani|bưu điện|ไปรษณีย์ อยู่ ที่ ไหน|Bưu điện ở đâu?
+สวนสาธารณะ:suansatharana|công viên|เด็ก เล่น ที่ สวนสาธารณะ|Trẻ em chơi ở công viên.
+โรงหนัง:rongnang|rạp chiếu phim|โรงหนัง อยู่ ใน ห้าง|Rạp chiếu phim ở trong trung tâm thương mại.
+ร้านขายยา:rankhaiya|hiệu thuốc|ร้านขายยา อยู่ ใกล้ ที่ นี่|Hiệu thuốc ở gần đây.
+สถานีตำรวจ:sathanitamruat|đồn cảnh sát|สถานีตำรวจ อยู่ หน้า ตลาด|Đồn cảnh sát ở trước chợ.
+ถนน:thanon|đường phố|ถนน นี้ รถ มาก|Con đường này nhiều xe.
+ซอย:soi|ngõ, hẻm|บ้าน ผม อยู่ ใน ซอย นี้|Nhà tôi ở trong ngõ này.
+สะพาน:saphan|cây cầu|สะพาน นี้ ยาว|Cây cầu này dài.
+หมู่บ้าน:muban|làng, khu dân cư|หมู่บ้าน นี้ เงียบ|Ngôi làng này yên tĩnh.
+ต่างจังหวัด:tangchangwat|tỉnh lẻ, ngoại tỉnh|พ่อ แม่ อยู่ ต่างจังหวัด|Bố mẹ ở tỉnh lẻ.
+จังหวัด:changwat|tỉnh|ไทย มี หลาย จังหวัด|Thái Lan có nhiều tỉnh.
+สำนักงาน:samnakngan|văn phòng|สำนักงาน อยู่ ชั้น:chan สาม|Văn phòng ở tầng ba.
+พิพิธภัณฑ์:phiphitthaphan|bảo tàng|พิพิธภัณฑ์ ปิด วันจันทร์|Bảo tàng đóng cửa thứ Hai.
+สระว่ายน้ำ:sawainam|bể bơi|โรงแรม มี สระว่ายน้ำ|Khách sạn có bể bơi.
+สวนสัตว์:suansat|sở thú|เด็ก ชอบ ไป สวนสัตว์|Trẻ em thích đi sở thú.
+ร้านหนังสือ:rannangsue|hiệu sách|ฉัน ซื้อ สมุด ที่ ร้านหนังสือ|Tôi mua vở ở hiệu sách.
+ปั๊มน้ำมัน:pamnamman|trạm xăng|ปั๊มน้ำมัน อยู่ ใกล้ สะพาน|Trạm xăng ở gần cây cầu.
+ตึก:tuek|tòa nhà|ตึก นี้ สูง มาก|Tòa nhà này rất cao.
+คอนโด:khondo|chung cư|เขา อยู่ คอนโด ใน เมือง|Anh ấy sống ở chung cư trong thành phố.
+สนาม:sanam|sân (bãi)|เด็ก วิ่ง ใน สนาม|Trẻ em chạy trong sân.
+โบสถ์:bot|nhà thờ|โบสถ์ นี้ สวย|Nhà thờ này đẹp.
+สถานทูต:sathanthut|đại sứ quán|ผม ไป สถานทูต เวียดนาม|Tôi đi đại sứ quán Việt Nam.
+@Đi lại|Phương tiện giao thông
+รถ:rot|xe (ô tô)|รถ คัน นี้ ใหม่|Chiếc xe này mới.
+รถไฟ:rotfai|tàu hỏa|เรา ไป เชียงใหม่ โดย รถไฟ|Chúng tôi đi Chiang Mai bằng tàu hỏa.
+รถเมล์:rotme|xe buýt|ฉัน ไป ทำงาน โดย รถเมล์|Tôi đi làm bằng xe buýt.
+แท็กซี่:thaeksi|taxi|เรียก:riak แท็กซี่ ให้ หน่อย|Gọi taxi giúp tôi với.
+รถไฟฟ้า:rotfaifa|tàu điện|รถไฟฟ้า เร็ว มาก|Tàu điện rất nhanh.
+มอเตอร์ไซค์:motoesai|xe máy|เขา ขับ มอเตอร์ไซค์ ไป ทำงาน|Anh ấy đi xe máy đi làm.
+จักรยาน:chakkrayan|xe đạp|เด็ก ขี่:khi จักรยาน|Đứa trẻ đi xe đạp.
+เครื่องบิน:khrueangbin|máy bay|เครื่องบิน ขึ้น แล้ว|Máy bay cất cánh rồi.
+เรือ:ruea|thuyền, tàu thủy|เรา นั่ง เรือ ไป เกาะ|Chúng tôi đi thuyền ra đảo.
+ตุ๊กตุ๊ก:tuktuk|xe tuk tuk|นั่ง ตุ๊กตุ๊ก สนุก|Đi xe tuk tuk rất vui.
+ขับ:khap|lái (xe)|พ่อ ขับ รถ ไป ทำงาน|Bố lái xe đi làm.
+ตั๋ว:tua|vé|ผม ซื้อ ตั๋ว รถไฟ แล้ว|Tôi mua vé tàu hỏa rồi.
+ขึ้น:khuen|lên|เรา ขึ้น รถเมล์ ที่ นี่|Chúng tôi lên xe buýt ở đây.
+ลง:long|xuống|ผม ลง ที่ สถานี นี้|Tôi xuống ở ga này.
+ถึง:thueng|đến nơi|เรา ถึง บ้าน แล้ว|Chúng tôi đến nhà rồi.
+ออก:ok|ra, rời đi|รถไฟ ออก แปด โมง|Tàu hỏa khởi hành lúc tám giờ.
+เข้า:khao|vào|เชิญ เข้า มา ครับ|Mời vào ạ.
+กลับ:klap|trở về|ฉัน กลับ บ้าน หก โมง|Tôi về nhà lúc sáu giờ.
+เลี้ยว:liao|rẽ|เลี้ยว ซ้าย:sai ที่ นี่|Rẽ trái ở đây.
+จอด:chot|đỗ, dừng xe|จอด รถ ที่ นี่ ได้ ไหม|Đỗ xe ở đây được không?
+รถติด:rottit|tắc đường|วันนี้ รถติด มาก|Hôm nay tắc đường lắm.
+ทาง:thang|con đường, lối đi|ทาง นี้ ไป ตลาด|Lối này đi ra chợ.
+แผนที่:phaenthi|bản đồ|ผม ดู แผนที่|Tôi xem bản đồ.
+น้ำมัน:namman|xăng dầu|น้ำมัน หมด แล้ว|Hết xăng rồi.

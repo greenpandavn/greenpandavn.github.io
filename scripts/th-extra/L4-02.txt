@@ -1,0 +1,75 @@
+=4
+@Giải phẫu|Cơ thể chi tiết
+กายวิภาค:kaiyawiphak|giải phẫu học|นักศึกษา แพทย์ เรียน กายวิภาค|Sinh viên y học giải phẫu.
+กะโหลก:kalok|hộp sọ|กะโหลก ป้องกัน สมอง|Hộp sọ bảo vệ não.
+กระดูกสันหลัง:kraduksanlang|cột sống|กระดูกสันหลัง ของ ปู่ ไม่ ดี|Cột sống của ông nội không tốt.
+ซี่โครง:sikhrong|xương sườn|เขา เจ็บ ซี่โครง|Anh ấy đau xương sườn.
+กระดูกเชิงกราน:kradukchoengkran|xương chậu|หมอ ตรวจ กระดูกเชิงกราน|Bác sĩ khám xương chậu.
+ข้อต่อ:khoto|khớp xương|ข้อต่อ ของ ยาย อักเสบ|Khớp của bà ngoại bị viêm.
+เส้นเอ็น:sen-en|gân, dây chằng|นักกีฬา เจ็บ เส้นเอ็น|Vận động viên đau gân.
+เส้นประสาท:senprasat|dây thần kinh|เส้นประสาท นี้ สำคัญ|Dây thần kinh này quan trọng.
+ไขสันหลัง:khaisanlang|tủy sống|ไขสันหลัง อยู่ ใน กระดูกสันหลัง|Tủy sống nằm trong cột sống.
+ไขกระดูก:khaikraduk|tủy xương|หมอ ตรวจ ไขกระดูก|Bác sĩ xét nghiệm tủy xương.
+หลอดลม:lotlom|khí quản|หลอดลม ของ เด็ก อักเสบ|Khí quản của đứa trẻ bị viêm.
+หลอดอาหาร:lot-ahan|thực quản|อาหาร ผ่าน หลอดอาหาร|Thức ăn đi qua thực quản.
+ลำไส้เล็ก:lamsailek|ruột non|ลำไส้เล็ก ยาว มาก|Ruột non rất dài.
+ลำไส้ใหญ่:lamsaiyai|ruột già|หมอ ตรวจ ลำไส้ใหญ่|Bác sĩ khám ruột già.
+ไส้ติ่ง:saiting|ruột thừa|เขา ผ่าตัด ไส้ติ่ง|Anh ấy mổ ruột thừa.
+ตับอ่อน:tap-on|tuyến tụy|ตับอ่อน ผลิต อินซูลิน:insulin|Tuyến tụy sản xuất insulin.
+ถุงน้ำดี:thungnamdi|túi mật|เธอ มี นิ่ว:nio ใน ถุงน้ำดี|Cô ấy có sỏi trong túi mật.
+ม้าม:mam|lá lách|ม้าม อยู่ ข้าง กระเพาะ|Lá lách nằm cạnh dạ dày.
+กระเพาะปัสสาวะ:kraphopatsawa|bàng quang|กระเพาะปัสสาวะ ของ เขา อักเสบ|Bàng quang của anh ấy bị viêm.
+มดลูก:motluk|tử cung|หมอ ตรวจ มดลูก|Bác sĩ khám tử cung.
+รังไข่:rangkhai|buồng trứng|รังไข่ ผลิต ไข่|Buồng trứng sản sinh trứng.
+ต่อมไทรอยด์:tomthairoi|tuyến giáp|ต่อมไทรอยด์ ของ เธอ โต|Tuyến giáp của cô ấy to ra.
+ต่อมน้ำเหลือง:tomnamlueang|hạch bạch huyết|ต่อมน้ำเหลือง ที่ คอ บวม|Hạch ở cổ bị sưng.
+ฮอร์โมน:homon|hoóc môn|ฮอร์โมน เปลี่ยน ใน วัยรุ่น|Hoóc môn thay đổi ở tuổi dậy thì.
+เม็ดเลือดแดง:metlueatdaeng|hồng cầu|เม็ดเลือดแดง ของ เธอ น้อย|Hồng cầu của cô ấy ít.
+เม็ดเลือดขาว:metlueatkhao|bạch cầu|เม็ดเลือดขาว สู้ กับ เชื้อโรค|Bạch cầu chống lại mầm bệnh.
+เกล็ดเลือด:kletlueat|tiểu cầu|เกล็ดเลือด ของ เขา ต่ำ|Tiểu cầu của anh ấy thấp.
+หลอดเลือดแดง:lotlueatdaeng|động mạch|หลอดเลือดแดง นี้ ตีบ:tip|Động mạch này bị hẹp.
+หลอดเลือดดำ:lotlueatdam|tĩnh mạch|พยาบาล หา หลอดเลือดดำ|Y tá tìm tĩnh mạch.
+กระจกตา:krachokta|giác mạc|กระจกตา ของ เขา เป็น แผล|Giác mạc của anh ấy bị loét.
+จอประสาทตา:choprasatta|võng mạc|หมอ ตรวจ จอประสาทตา|Bác sĩ khám võng mạc.
+แก้วหู:kaeohu|màng nhĩ|เสียง ดัง ทำลาย แก้วหู|Tiếng ồn làm hỏng màng nhĩ.
+เพดานปาก:phedanpak|vòm miệng|เพดานปาก ของ เด็ก เป็น แผล|Vòm miệng đứa trẻ bị loét.
+ต่อมทอนซิล:tomthonsin|a mi đan|ต่อมทอนซิล ของ ลูก อักเสบ|A mi đan của con bị viêm.
+เส้นเสียง:sensiang|dây thanh âm|นักร้อง ดูแล เส้นเสียง|Ca sĩ giữ gìn dây thanh.
+รูขุมขน:rukhumkhon|lỗ chân lông|รูขุมขน บน หน้า กว้าง|Lỗ chân lông trên mặt to.
+@Bệnh lý|Tên bệnh và triệu chứng
+โรคหัวใจขาดเลือด:rokhuachaikhatlueat|bệnh thiếu máu cơ tim|พ่อ เป็น โรคหัวใจขาดเลือด|Bố bị thiếu máu cơ tim.
+เส้นเลือดในสมองแตก:senlueatnaisamongtaek|xuất huyết não|ปู่ เส้นเลือดในสมองแตก|Ông nội bị xuất huyết não.
+โรคไตวาย:roktaiwai|suy thận|เขา เป็น โรคไตวาย|Anh ấy bị suy thận.
+ตับแข็ง:tapkhaeng|xơ gan|เหล้า ทำให้ ตับแข็ง|Rượu gây xơ gan.
+ตับอักเสบ:tap-aksep|viêm gan|เธอ ฉีด วัคซีน ตับอักเสบ|Cô ấy tiêm vắc xin viêm gan.
+ปอดบวม:potbuam|viêm phổi|เด็ก เป็น ปอดบวม|Đứa trẻ bị viêm phổi.
+ถุงลมโป่งพอง:thunglompongphong|khí phế thũng|บุหรี่ ทำให้ ถุงลมโป่งพอง|Thuốc lá gây khí phế thũng.
+กรดไหลย้อน:krotlaiyon|trào ngược dạ dày|ผม เป็น กรดไหลย้อน|Tôi bị trào ngược dạ dày.
+แผลในกระเพาะ:phlaenaikrapho|loét dạ dày|เขา มี แผลในกระเพาะ|Anh ấy bị loét dạ dày.
+ริดสีดวง:ritsiduang|bệnh trĩ|ลุง เป็น ริดสีดวง|Bác trai bị trĩ.
+นิ่ว:nio|sỏi (thận, mật)|หมอ ผ่าตัด นิ่ว|Bác sĩ mổ sỏi.
+เกาต์:kao|bệnh gút|ลุง เป็น เกาต์|Bác trai bị gút.
+ข้อเสื่อม:khosueam|thoái hóa khớp|ยาย เป็น ข้อเสื่อม|Bà ngoại bị thoái hóa khớp.
+กระดูกพรุน:kradukphrun|loãng xương|ผู้สูงอายุ เป็น กระดูกพรุน มาก|Người cao tuổi hay bị loãng xương.
+หมอนรองกระดูก:monrongkraduk|đĩa đệm|หมอนรองกระดูก ของ เขา เคลื่อน:khluean|Đĩa đệm của anh ấy bị lệch.
+ไมเกรน:maikren|đau nửa đầu|เธอ เป็น ไมเกรน บ่อย|Cô ấy hay bị đau nửa đầu.
+ลมชัก:lomchak|động kinh|เด็ก คน นี้ เป็น ลมชัก|Đứa trẻ này bị động kinh.
+อัลไซเมอร์:anlasaimoe|bệnh Alzheimer|ยาย เป็น อัลไซเมอร์|Bà ngoại bị Alzheimer.
+พาร์กินสัน:phakinsan|bệnh Parkinson|ปู่ เป็น พาร์กินสัน|Ông nội bị Parkinson.
+โลหิตจาง:lohitchang|thiếu máu|เธอ เป็น โลหิตจาง|Cô ấy bị thiếu máu.
+มะเร็งเม็ดเลือดขาว:marengmetlueatkhao|bệnh bạch cầu|เด็ก เป็น มะเร็งเม็ดเลือดขาว|Đứa trẻ bị bệnh bạch cầu.
+ต้อกระจก:tokrachok|đục thủy tinh thể|ยาย ผ่าตัด ต้อกระจก|Bà ngoại mổ đục thủy tinh thể.
+ต้อหิน:tohin|tăng nhãn áp|ปู่ เป็น ต้อหิน|Ông nội bị tăng nhãn áp.
+สายตาสั้น:saitasan|cận thị|ผม สายตาสั้น|Tôi bị cận thị.
+สายตายาว:saitayao|viễn thị|พ่อ สายตายาว|Bố bị viễn thị.
+หูหนวก:hunuak|điếc|เขา หูหนวก ตั้งแต่ เกิด|Anh ấy điếc từ khi sinh ra.
+ผื่น:phuen|phát ban|เด็ก มี ผื่น ที่ แขน|Đứa trẻ bị phát ban ở tay.
+ลมพิษ:lomphit|mề đay|ฉัน เป็น ลมพิษ|Tôi bị mề đay.
+สะเก็ดเงิน:saketngoen|bệnh vẩy nến|เขา เป็น สะเก็ดเงิน|Anh ấy bị vẩy nến.
+งูสวัด:ngusawat|bệnh zona|ยาย เป็น งูสวัด|Bà ngoại bị zona.
+อีสุกอีใส:isuk-isai|thủy đậu|เด็ก เป็น อีสุกอีใส|Đứa trẻ bị thủy đậu.
+หัด:hat|bệnh sởi|เด็ก ฉีด วัคซีน หัด|Trẻ em tiêm vắc xin sởi.
+คางทูม:khangthum|quai bị|น้อง เป็น คางทูม|Em bị quai bị.
+บาดทะยัก:batthayak|uốn ván|หมอ ฉีด ยา กัน บาดทะยัก|Bác sĩ tiêm thuốc phòng uốn ván.
+พิษสุนัขบ้า:phitsunakba|bệnh dại|หมา ต้อง ฉีด วัคซีน พิษสุนัขบ้า|Chó phải tiêm vắc xin dại.
+มาลาเรีย:malaria|sốt rét|ใน ป่า มี มาลาเรีย|Trong rừng có sốt rét.

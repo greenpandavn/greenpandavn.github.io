@@ -1,0 +1,52 @@
+{
+ "units": [
+  {"unit":39,"level":3,"title":"Phần 9: Tổng hợp và hơn thế","desc":"Tổng hợp","color":"sky","course":"th"}
+ ],
+ "lessons": [
+  {"id":"th3x81","title":"Tổng hợp 14","desc":"Từ vựng tổng hợp của cấp này","icon":"ก","unit":39,"course":"th","order":2470,"words":[
+   {"id":"th3x81-กระถาง","hanzi":"กระถาง","pinyin":"krathang","vi":"chậu cây","ex":{"tokens":["เธอ","ปลูก","ดอกไม้","ใน","กระถาง"],"py":["thoe","pluk","dokmai","nai","krathang"],"vi":"Cô ấy trồng hoa trong chậu.","alts":[]}},
+   {"id":"th3x81-เรือนกระจก","hanzi":"เรือนกระจก","pinyin":"rueankrachok","vi":"nhà kính","ex":{"tokens":["ผัก","โต","ใน","เรือนกระจก"],"py":["phak","to","nai","rueankrachok"],"vi":"Rau lớn trong nhà kính.","alts":[]}},
+   {"id":"th3x81-กองหลัง","hanzi":"กองหลัง","pinyin":"konglang","vi":"hậu vệ","ex":{"tokens":["กองหลัง","ทีม","นี้","แข็งแรง"],"py":["konglang","thim","ni","khaengraeng"],"vi":"Hậu vệ đội này khỏe.","alts":[]}},
+   {"id":"th3x81-ตัวสำรอง","hanzi":"ตัวสำรอง","pinyin":"tuasamrong","vi":"cầu thủ dự bị","ex":{"tokens":["เขา","เป็น","ตัวสำรอง"],"py":["khao","pen","tuasamrong"],"vi":"Anh ấy là cầu thủ dự bị.","alts":[]}},
+   {"id":"th3x81-ผู้ตัดสิน","hanzi":"ผู้ตัดสิน","pinyin":"phutatsin","vi":"trọng tài (trận đấu)","ex":{"tokens":["ผู้ตัดสิน","เป่า","นกหวีด"],"py":["phutatsin","pao","nokwit"],"vi":"Trọng tài thổi còi.","alts":[]}},
+   {"id":"th3x81-กรีฑา","hanzi":"กรีฑา","pinyin":"kritha","vi":"điền kinh","ex":{"tokens":["เธอ","แข่ง","กรีฑา"],"py":["thoe","khaeng","kritha"],"vi":"Cô ấy thi điền kinh.","alts":[]}},
+   {"id":"th3x81-กระโดดสูง","hanzi":"กระโดดสูง","pinyin":"kradotsung","vi":"nhảy cao","ex":{"tokens":["เขา","เก่ง","กระโดดสูง"],"py":["khao","keng","kradotsung"],"vi":"Anh ấy giỏi nhảy cao.","alts":[]}},
+   {"id":"th3x81-ยิมนาสติก","hanzi":"ยิมนาสติก","pinyin":"yimnatsatik","vi":"thể dục dụng cụ","ex":{"tokens":["เด็ก","เรียน","ยิมนาสติก"],"py":["dek","rian","yimnatsatik"],"vi":"Trẻ em học thể dục dụng cụ.","alts":[]}},
+   {"id":"th3x81-ยกทีม","hanzi":"ยกทีม","pinyin":"yokthim","vi":"cả đội cùng (đi, làm)","ex":{"tokens":["เรา","ยกทีม","ไป","เชียร์"],"py":["rao","yokthim","pai","chia"],"vi":"Cả đội chúng tôi đi cổ vũ.","alts":[]}},
+   {"id":"th3x81-เชียร์","hanzi":"เชียร์","pinyin":"chia","vi":"cổ vũ","ex":{"tokens":["ผม","เชียร์","ทีม","ไทย"],"py":["phom","chia","thim","thai"],"vi":"Tôi cổ vũ đội Thái.","alts":[]}},
+   {"id":"th3x81-สนามเหย้า","hanzi":"สนามเหย้า","pinyin":"sanamyao","vi":"sân nhà","ex":{"tokens":["ทีม","เรา","เล่น","ใน","สนามเหย้า"],"py":["thim","rao","len","nai","sanamyao"],"vi":"Đội chúng tôi chơi trên sân nhà.","alts":[]}},
+   {"id":"th3x81-สารกระตุ้น","hanzi":"สารกระตุ้น","pinyin":"sankratun","vi":"chất kích thích (doping)","ex":{"tokens":["นักกีฬา","ห้าม","ใช้","สารกระตุ้น"],"py":["nakkila","ham","chai","sankratun"],"vi":"Vận động viên cấm dùng chất kích thích.","alts":[]}},
+   {"id":"th3x81-จิงโจ้","hanzi":"จิงโจ้","pinyin":"chingcho","vi":"chuột túi","ex":{"tokens":["จิงโจ้","กระโดด","ไกล"],"py":["chingcho","kradot","klai"],"vi":"Chuột túi nhảy xa.","alts":[]}}
+  ]},
+  {"id":"th3x82","title":"Tổng hợp 15","desc":"Từ vựng tổng hợp của cấp này","icon":"ส","unit":39,"course":"th","order":2480,"words":[
+   {"id":"th3x82-สปิริต","hanzi":"สปิริต","pinyin":"sapirit","vi":"tinh thần thể thao","ex":{"tokens":["นักกีฬา","มี","สปิริต"],"py":["nakkila","mi","sapirit"],"vi":"Vận động viên có tinh thần thể thao.","alts":[]}},
+   {"id":"th3x82-การรู้หนังสือ","hanzi":"การรู้หนังสือ","pinyin":"kanrunangsue","vi":"biết chữ","ex":{"tokens":["การรู้หนังสือ","ของ","ประชากร","สูง"],"py":["kanrunangsue","khong","prachakon","sung"],"vi":"Tỷ lệ biết chữ của dân số cao.","alts":[]}},
+   {"id":"th3x82-ออกกลางคัน","hanzi":"ออกกลางคัน","pinyin":"okklangkhan","vi":"bỏ học giữa chừng","ex":{"tokens":["เด็ก","บาง","คน","ออกกลางคัน"],"py":["dek","bang","khon","okklangkhan"],"vi":"Một số trẻ bỏ học giữa chừng.","alts":[]}},
+   {"id":"th3x82-เรียนซ้ำชั้น","hanzi":"เรียนซ้ำชั้น","pinyin":"riansamchan","vi":"học lại lớp, lưu ban","ex":{"tokens":["เขา","ต้อง","เรียนซ้ำชั้น"],"py":["khao","tong","riansamchan"],"vi":"Cậu ấy phải lưu ban.","alts":[]}},
+   {"id":"th3x82-กวดวิชา","hanzi":"กวดวิชา","pinyin":"kuatwicha","vi":"học thêm luyện thi","ex":{"tokens":["นักเรียน","ไป","กวดวิชา","ตอน","เย็น"],"py":["nakrian","pai","kuatwicha","ton","yen"],"vi":"Học sinh đi học thêm buổi chiều.","alts":[]}},
+   {"id":"th3x82-ครูพี่เลี้ยง","hanzi":"ครูพี่เลี้ยง","pinyin":"khruphiliang","vi":"giáo viên hướng dẫn","ex":{"tokens":["ครูพี่เลี้ยง","ช่วย","ครู","ใหม่"],"py":["khruphiliang","chuai","khru","mai"],"vi":"Giáo viên hướng dẫn giúp giáo viên mới.","alts":[]}},
+   {"id":"th3x82-สื่อการสอน","hanzi":"สื่อการสอน","pinyin":"suekanson","vi":"đồ dùng dạy học","ex":{"tokens":["ครู","ทำ","สื่อการสอน"],"py":["khru","tham","suekanson"],"vi":"Giáo viên làm đồ dùng dạy học.","alts":[]}},
+   {"id":"th3x82-แผนการสอน","hanzi":"แผนการสอน","pinyin":"phaenkanson","vi":"giáo án","ex":{"tokens":["ครู","เขียน","แผนการสอน"],"py":["khru","khian","phaenkanson"],"vi":"Giáo viên soạn giáo án.","alts":[]}},
+   {"id":"th3x82-การประเมินผล","hanzi":"การประเมินผล","pinyin":"kanpramoenphon","vi":"việc đánh giá kết quả","ex":{"tokens":["การประเมินผล","มี","ทุก","ภาคเรียน"],"py":["kanpramoenphon","mi","thuk","phakrian"],"vi":"Việc đánh giá diễn ra mỗi học kỳ.","alts":[]}},
+   {"id":"th3x82-ความเหลื่อมล้ำทางการศึกษา","hanzi":"ความเหลื่อมล้ำทางการศึกษา","pinyin":"khwamlueamlamthangkansueksa","vi":"bất bình đẳng giáo dục","ex":{"tokens":["ความเหลื่อมล้ำทางการศึกษา","ยัง","มี","อยู่"],"py":["khwamlueamlamthangkansueksa","yang","mi","yu"],"vi":"Bất bình đẳng giáo dục vẫn còn.","alts":[]}},
+   {"id":"th3x82-หินอ่อน","hanzi":"หินอ่อน","pinyin":"hin-on","vi":"đá cẩm thạch","ex":{"tokens":["พื้น","ทำ","จาก","หินอ่อน"],"py":["phuen","tham","chak","hin-on"],"vi":"Sàn làm bằng đá cẩm thạch.","alts":[]}},
+   {"id":"th3x82-เซรามิก","hanzi":"เซรามิก","pinyin":"seramik","vi":"gốm sứ","ex":{"tokens":["ถ้วย","นี้","เป็น","เซรามิก"],"py":["thuai","ni","pen","seramik"],"vi":"Cái bát này bằng gốm sứ.","alts":[]}},
+   {"id":"th3x82-หมีขั้วโลก","hanzi":"หมีขั้วโลก","pinyin":"mikhualok","vi":"gấu Bắc Cực","ex":{"tokens":["หมีขั้วโลก","อยู่","บน","น้ำแข็ง"],"py":["mikhualok","yu","bon","namkhaeng"],"vi":"Gấu Bắc Cực sống trên băng.","alts":[]}}
+  ]},
+  {"id":"th3x83","title":"Tổng hợp 16","desc":"Từ vựng tổng hợp của cấp này","icon":"ใ","unit":39,"course":"th","order":2490,"words":[
+   {"id":"th3x83-ใยสังเคราะห์","hanzi":"ใยสังเคราะห์","pinyin":"yaisangkhro","vi":"sợi tổng hợp","ex":{"tokens":["เสื้อ","นี้","ทำ","จาก","ใยสังเคราะห์"],"py":["suea","ni","tham","chak","yaisangkhro"],"vi":"Cái áo này làm từ sợi tổng hợp.","alts":[]}},
+   {"id":"th3x83-ไฟเบอร์กลาส","hanzi":"ไฟเบอร์กลาส","pinyin":"faiboeklat","vi":"sợi thủy tinh","ex":{"tokens":["เรือ","นี้","ทำ","จาก","ไฟเบอร์กลาส"],"py":["ruea","ni","tham","chak","faiboeklat"],"vi":"Chiếc thuyền này làm bằng sợi thủy tinh.","alts":[]}},
+   {"id":"th3x83-ฉนวน","hanzi":"ฉนวน","pinyin":"chanuan","vi":"chất cách điện, cách nhiệt","ex":{"tokens":["ยาง","เป็น","ฉนวน","ไฟฟ้า"],"py":["yang","pen","chanuan","faifa"],"vi":"Cao su là chất cách điện.","alts":[]}},
+   {"id":"th3x83-ตัวนำไฟฟ้า","hanzi":"ตัวนำไฟฟ้า","pinyin":"tuanamfaifa","vi":"chất dẫn điện","ex":{"tokens":["ทองแดง","เป็น","ตัวนำไฟฟ้า"],"py":["thongdaeng","pen","tuanamfaifa"],"vi":"Đồng là chất dẫn điện.","alts":[]}},
+   {"id":"th3x83-แรงดันไฟฟ้า","hanzi":"แรงดันไฟฟ้า","pinyin":"raengdanfaifa","vi":"điện áp","ex":{"tokens":["แรงดันไฟฟ้า","ที่","นี่","สูง"],"py":["raengdanfaifa","thi","ni","sung"],"vi":"Điện áp ở đây cao.","alts":[]}},
+   {"id":"th3x83-กระแสไฟฟ้า","hanzi":"กระแสไฟฟ้า","pinyin":"krasaefaifa","vi":"dòng điện","ex":{"tokens":["กระแสไฟฟ้า","ไหล","ใน","สายไฟ"],"py":["krasaefaifa","lai","nai","saifai"],"vi":"Dòng điện chạy trong dây.","alts":[]}},
+   {"id":"th3x83-วงจร","hanzi":"วงจร","pinyin":"wongchon","vi":"mạch điện, chu trình","ex":{"tokens":["ช่าง","ตรวจ","วงจร"],"py":["chang","truat","wongchon"],"vi":"Thợ kiểm tra mạch điện.","alts":[]}},
+   {"id":"th3x83-ความร้อน","hanzi":"ความร้อน","pinyin":"khwamron","vi":"nhiệt","ex":{"tokens":["ความร้อน","ทำให้","น้ำแข็ง","ละลาย"],"py":["khwamron","thamhai","namkhaeng","lalai"],"vi":"Nhiệt làm đá tan.","alts":[]}},
+   {"id":"th3x83-แรงเสียดทาน","hanzi":"แรงเสียดทาน","pinyin":"raengsiathan","vi":"lực ma sát","ex":{"tokens":["แรงเสียดทาน","ทำให้","รถ","หยุด"],"py":["raengsiathan","thamhai","rot","yut"],"vi":"Lực ma sát làm xe dừng.","alts":[]}},
+   {"id":"th3x83-กระดอง","hanzi":"กระดอง","pinyin":"kradong","vi":"mai (rùa, cua)","ex":{"tokens":["เต่า","มี","กระดอง","แข็ง"],"py":["tao","mi","kradong","khaeng"],"vi":"Rùa có mai cứng.","alts":[]}},
+   {"id":"th3x83-หนวดปลาหมึก","hanzi":"หนวดปลาหมึก","pinyin":"nuatplamuek","vi":"xúc tu mực","ex":{"tokens":["หนวดปลาหมึก","ยาว","มาก"],"py":["nuatplamuek","yao","mak"],"vi":"Xúc tu mực rất dài.","alts":[]}},
+   {"id":"th3x83-แมวน้ำ","hanzi":"แมวน้ำ","pinyin":"maeonam","vi":"hải cẩu","ex":{"tokens":["แมวน้ำ","ว่ายน้ำ","เก่ง"],"py":["maeonam","wainam","keng"],"vi":"Hải cẩu bơi giỏi.","alts":[]}},
+   {"id":"th3x83-เพนกวิน","hanzi":"เพนกวิน","pinyin":"phenkwin","vi":"chim cánh cụt","ex":{"tokens":["เพนกวิน","บิน","ไม่","ได้"],"py":["phenkwin","bin","mai","dai"],"vi":"Chim cánh cụt không bay được.","alts":[]}}
+  ]}
+ ]
+}

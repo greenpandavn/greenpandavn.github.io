@@ -1,0 +1,60 @@
+=2
+@Giao tiếp|Nói năng và trao đổi
+อภิปราย:aphiprai|thảo luận|นักเรียน อภิปราย หัวข้อ นี้|Học sinh thảo luận đề tài này.
+ต่อรอง:torong|mặc cả, thương lượng|แม่ ต่อรอง ราคา|Mẹ mặc cả giá.
+บ่น:bon|phàn nàn, càu nhàu|เขา บ่น เรื่อง งาน|Anh ấy phàn nàn về công việc.
+ชม:chom|khen; ngắm|ครู ชม นักเรียน|Giáo viên khen học sinh.
+ตำหนิ:tamni|khiển trách, chê|หัวหน้า ตำหนิ ลูกน้อง|Cấp trên khiển trách cấp dưới.
+ขอร้อง:khorong|nài xin, nhờ vả|ผม ขอร้อง ให้ เขา ช่วย|Tôi nài xin anh ấy giúp.
+ปรึกษา:prueksa|hỏi ý kiến, tư vấn|ฉัน ปรึกษา หมอ|Tôi hỏi ý kiến bác sĩ.
+โต้แย้ง:toyaeng|tranh luận, phản bác|เขา โต้แย้ง ความคิด นี้|Anh ấy phản bác ý kiến này.
+เห็นด้วย:henduai|đồng tình|ผม เห็นด้วย กับ คุณ|Tôi đồng tình với bạn.
+สัญญาว่า:sanyawa|hứa rằng|เขา สัญญาว่า จะ กลับ มา|Anh ấy hứa rằng sẽ quay lại.
+กระซิบ:krasip|thì thầm|เธอ กระซิบ กับ เพื่อน|Cô ấy thì thầm với bạn.
+ตะโกน:takon|hét lên|เด็ก ตะโกน ดัง|Đứa trẻ hét to.
+ทักทาย:thakthai|chào hỏi|เพื่อนบ้าน ทักทาย เรา|Hàng xóm chào hỏi chúng tôi.
+อวยพร:uaiphon|chúc phúc|เรา อวยพร เจ้าสาว|Chúng tôi chúc phúc cô dâu.
+แสดงความยินดี:sadaengkhwamyindi|chúc mừng|เพื่อน แสดงความยินดี กับ ผม|Bạn bè chúc mừng tôi.
+ล้อเล่น:lolen|nói đùa|ผม ล้อเล่น นะ|Tôi nói đùa thôi nhé.
+นินทา:nintha|nói xấu sau lưng|อย่า นินทา เพื่อน|Đừng nói xấu bạn.
+สารภาพ:saraphap|thú nhận|เขา สารภาพ ความจริง|Anh ấy thú nhận sự thật.
+ปิดบัง:pitbang|che giấu|อย่า ปิดบัง ความจริง|Đừng che giấu sự thật.
+เปิดเผย:poetphoei|tiết lộ, công khai|บริษัท เปิดเผย ข้อมูล|Công ty công khai thông tin.
+ถ่ายทอด:thaithot|truyền đạt|ครู ถ่ายทอด ความรู้|Giáo viên truyền đạt kiến thức.
+สื่อสาร:suesan|giao tiếp|เรา สื่อสาร ด้วย ภาษา อังกฤษ|Chúng tôi giao tiếp bằng tiếng Anh.
+เข้าใจผิด:khaochaiphit|hiểu lầm|คุณ เข้าใจผิด แล้ว|Bạn hiểu lầm rồi.
+@Hình dạng và vật liệu|Đo lường, chất liệu
+รูปทรง:rupsong|hình dạng|กล่อง นี้ รูปทรง แปลก|Cái hộp này hình dạng lạ.
+วงกลม:wongklom|hình tròn|เด็ก วาด วงกลม|Đứa trẻ vẽ hình tròn.
+สี่เหลี่ยม:siliam|hình vuông, tứ giác|โต๊ะ นี้ เป็น สี่เหลี่ยม|Cái bàn này hình vuông.
+สามเหลี่ยม:samliam|hình tam giác|ป้าย นี้ เป็น สามเหลี่ยม|Tấm biển này hình tam giác.
+เส้น:sen|đường (nét), sợi|ครู วาด เส้น ตรง|Giáo viên vẽ đường thẳng.
+มุม:mum|góc|โต๊ะ อยู่ ที่ มุม ห้อง|Cái bàn ở góc phòng.
+ความยาว:khwamyao|chiều dài|ความยาว ของ สะพาน เท่าไร|Chiều dài cây cầu là bao nhiêu?
+ความกว้าง:khwamkwang|chiều rộng|ความกว้าง ของ ห้อง สี่ เมตร|Chiều rộng phòng là bốn mét.
+ความสูง:khwamsung|độ cao|ความสูง ของ ตึก นี้ มาก|Độ cao của tòa nhà này lớn.
+ความลึก:khwamluek|độ sâu|ความลึก ของ บ่อ สอง เมตร|Độ sâu của giếng là hai mét.
+ลึก:luek|sâu|แม่น้ำ นี้ ลึก|Con sông này sâu.
+ตื้น:tuen|nông|น้ำ ที่ นี่ ตื้น|Nước ở đây nông.
+หนา:na|dày|หนังสือ เล่ม นี้ หนา|Quyển sách này dày.
+แบน:baen|dẹt, bẹp|ยาง รถ แบน|Lốp xe bị xẹp.
+กลม:klom|tròn|ลูกบอล กลม|Quả bóng tròn.
+แหลม:laem|nhọn|ดินสอ นี้ แหลม|Cái bút chì này nhọn.
+เรียบ:riap|phẳng, nhẵn|พื้น นี้ เรียบ|Sàn này phẳng.
+ขรุขระ:khrukhra|gồ ghề|ถนน นี้ ขรุขระ|Con đường này gồ ghề.
+เหล็ก:lek|sắt, thép|สะพาน นี้ ทำ จาก เหล็ก|Cây cầu này làm bằng sắt.
+แก้วใส:kaeosai|thủy tinh trong|ขวด นี้ ทำ จาก แก้วใส|Cái chai này làm bằng thủy tinh trong.
+ปูน:pun|xi măng, vôi|ช่าง ใช้ ปูน สร้าง บ้าน|Thợ dùng xi măng xây nhà.
+อิฐ:it|gạch|กำแพง นี้ ทำ จาก อิฐ|Bức tường này làm bằng gạch.
+หนังแท้:nangthae|da thật|กระเป๋า ใบ นี้ ทำ จาก หนังแท้|Cái túi này làm bằng da thật.
+ยางรถ:yangrot|lốp xe|ผม เปลี่ยน ยางรถ|Tôi thay lốp xe.
+ทองแดง:thongdaeng|đồng (kim loại)|สายไฟ ทำ จาก ทองแดง|Dây điện làm bằng đồng.
+ตารางเมตร:tarangmet|mét vuông|ห้อง นี้ สามสิบ ตารางเมตร|Phòng này ba mươi mét vuông.
+เซนติเมตร:sentimet|xăng ti mét|ยาว ยี่สิบ เซนติเมตร|Dài hai mươi xăng ti mét.
+กิโลเมตร:kilomet|ki lô mét|บ้าน ผม อยู่ ไกล ห้า กิโลเมตร|Nhà tôi cách năm ki lô mét.
+กรัม:kram|gam|ขอ หมู ห้า ร้อย กรัม|Cho tôi năm trăm gam thịt lợn.
+องศา:ongsa|độ (nhiệt độ, góc)|วันนี้ ร้อน สามสิบห้า องศา|Hôm nay nóng ba mươi lăm độ.
+ความเร็ว:khwamreo|tốc độ|รถไฟ นี้ ความเร็ว สูง|Tàu này tốc độ cao.
+น้ำหนักเกิน:namnakkoen|quá cân|กระเป๋า ใบ นี้ น้ำหนักเกิน|Cái túi này quá cân.
+ขนาดกลาง:khanatklang|cỡ vừa|ขอ เสื้อ ขนาดกลาง|Cho tôi áo cỡ vừa.
+จำนวน:chamnuan|số lượng (con số)|จำนวน นักเรียน เพิ่ม ขึ้น|Số lượng học sinh tăng lên.

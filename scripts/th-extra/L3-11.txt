@@ -1,0 +1,71 @@
+=3
+@Tài chính ngân hàng|Tiền tệ, bảo hiểm, bất động sản
+สถาบันการเงิน:sathabankanngoen|tổ chức tài chính|สถาบันการเงิน นี้ มั่นคง|Tổ chức tài chính này vững mạnh.
+ธนาคารกลาง:thanakhanklang|ngân hàng trung ương|ธนาคารกลาง ขึ้น ดอกเบี้ย|Ngân hàng trung ương tăng lãi suất.
+สินเชื่อ:sinchuea|tín dụng, khoản vay|ธนาคาร ให้ สินเชื่อ บ้าน|Ngân hàng cho vay mua nhà.
+จำนอง:chamnong|thế chấp|เขา จำนอง บ้าน|Anh ấy thế chấp nhà.
+ผู้ค้ำประกัน:phukhamprakan|người bảo lãnh|พ่อ เป็น ผู้ค้ำประกัน ให้ ผม|Bố là người bảo lãnh cho tôi.
+หลักทรัพย์:laksap|chứng khoán, tài sản bảo đảm|เขา ลงทุน ใน หลักทรัพย์|Anh ấy đầu tư chứng khoán.
+พันธบัตร:phanthabat|trái phiếu|รัฐบาล ขาย พันธบัตร|Chính phủ bán trái phiếu.
+กองทุน:kongthun|quỹ (đầu tư)|ฉัน ซื้อ กองทุน ทุก เดือน|Tôi mua quỹ hằng tháng.
+เงินปันผล:ngoenpanphon|cổ tức|บริษัท จ่าย เงินปันผล|Công ty trả cổ tức.
+ผลตอบแทน:phontopthaen|lợi nhuận thu về|ผลตอบแทน ของ กองทุน นี้ สูง|Lợi nhuận của quỹ này cao.
+สภาพคล่อง:saphapkhlong|tính thanh khoản|บริษัท ขาด สภาพคล่อง|Công ty thiếu thanh khoản.
+หนี้สิน:nisin|nợ nần|เขา มี หนี้สิน มาก|Anh ấy có nhiều nợ nần.
+เงินสำรอง:ngoensamrong|tiền dự trữ|เรา ควร มี เงินสำรอง|Chúng ta nên có tiền dự trữ.
+งวด:nguat|kỳ (trả tiền)|ผม จ่าย งวด สุดท้าย แล้ว|Tôi đã trả kỳ cuối.
+ค้างชำระ:khangchamra|nợ quá hạn, chưa thanh toán|เขา ค้างชำระ ค่าเช่า|Anh ấy còn nợ tiền thuê.
+ค่าธรรมเนียม:khathamniam|phí, lệ phí|ธนาคาร เก็บ ค่าธรรมเนียม|Ngân hàng thu phí.
+เบี้ยประกัน:biaprakan|phí bảo hiểm|เบี้ยประกัน ปี นี้ แพง ขึ้น|Phí bảo hiểm năm nay đắt lên.
+กรมธรรม์:krommathan|hợp đồng bảo hiểm|ผม เก็บ กรมธรรม์ ไว้|Tôi cất giữ hợp đồng bảo hiểm.
+ประกันชีวิต:prakanchiwit|bảo hiểm nhân thọ|พ่อ ซื้อ ประกันชีวิต|Bố mua bảo hiểm nhân thọ.
+ประกันสุขภาพ:prakansukkhaphap|bảo hiểm y tế|บริษัท ให้ ประกันสุขภาพ|Công ty cấp bảo hiểm y tế.
+เคลม:khlem|đòi bồi thường bảo hiểm|ผม เคลม ประกัน รถ|Tôi đòi bồi thường bảo hiểm xe.
+อสังหาริมทรัพย์:asangharimmasap|bất động sản|เขา ลงทุน ใน อสังหาริมทรัพย์|Anh ấy đầu tư bất động sản.
+โฉนด:chanot|sổ đỏ, giấy chứng nhận đất|ผม เก็บ โฉนด ที่ดิน ไว้|Tôi cất giữ sổ đỏ.
+ค่าเช่ารายเดือน:khachaoraiduean|tiền thuê hằng tháng|ค่าเช่ารายเดือน ห้า พัน บาท|Tiền thuê hằng tháng là năm nghìn baht.
+เงินมัดจำ:ngoenmatcham|tiền đặt cọc|ผม จ่าย เงินมัดจำ แล้ว|Tôi đã trả tiền đặt cọc.
+ผู้เช่า:phuchao|người thuê|ผู้เช่า ย้าย ออก แล้ว|Người thuê đã chuyển đi.
+เจ้าของบ้าน:chaokhongban|chủ nhà|เจ้าของบ้าน ใจดี|Chủ nhà tốt bụng.
+ราคาประเมิน:rakhapramoen|giá thẩm định|ราคาประเมิน ที่ดิน สูง ขึ้น|Giá thẩm định đất tăng lên.
+เก็งกำไร:kengkamrai|đầu cơ|เขา ซื้อ ที่ดิน เพื่อ เก็งกำไร|Anh ấy mua đất để đầu cơ.
+ฟองสบู่:fongsabu|bong bóng (kinh tế, xà phòng)|ตลาด บ้าน เป็น ฟองสบู่|Thị trường nhà là bong bóng.
+ภาษีเงินได้:phasingoendai|thuế thu nhập|ทุก คน เสีย ภาษีเงินได้|Mọi người đều nộp thuế thu nhập.
+ภาษีมูลค่าเพิ่ม:phasimunkhaphoem|thuế giá trị gia tăng|ราคา นี้ รวม ภาษีมูลค่าเพิ่ม|Giá này gồm thuế giá trị gia tăng.
+หักภาษี:hakphasi|khấu trừ thuế|บริษัท หักภาษี จาก เงินเดือน|Công ty khấu trừ thuế từ lương.
+@Vấn đề xã hội|Đời sống cộng đồng
+ความยากจน:khwamyakchon|sự nghèo đói|ความยากจน เป็น ปัญหา สังคม|Nghèo đói là vấn đề xã hội.
+ความเหลื่อมล้ำ:khwamlueamlam|sự bất bình đẳng|ความเหลื่อมล้ำ เพิ่ม ขึ้น|Bất bình đẳng tăng lên.
+คนไร้บ้าน:khonraiban|người vô gia cư|ใน เมือง มี คนไร้บ้าน|Trong thành phố có người vô gia cư.
+ชุมชนแออัด:chumchon-ae-at|khu ổ chuột|เขา โต ใน ชุมชนแออัด|Anh ấy lớn lên ở khu ổ chuột.
+ผู้ด้อยโอกาส:phudoi-okat|người kém may mắn|มูลนิธิ ช่วย ผู้ด้อยโอกาส|Quỹ từ thiện giúp người kém may mắn.
+มูลนิธิ:munnithi|quỹ từ thiện|มูลนิธิ นี้ ช่วย เด็ก|Quỹ từ thiện này giúp trẻ em.
+การกุศล:kankuson|việc từ thiện|งาน นี้ จัด เพื่อ การกุศล|Sự kiện này tổ chức vì từ thiện.
+ผู้พิการ:phuphikan|người khuyết tật|รถเมล์ มี ที่นั่ง สำหรับ ผู้พิการ|Xe buýt có chỗ cho người khuyết tật.
+เด็กกำพร้า:dekkamphra|trẻ mồ côi|เธอ ดูแล เด็กกำพร้า|Cô ấy chăm sóc trẻ mồ côi.
+สังคมผู้สูงอายุ:sangkhomphusung-ayu|xã hội già hóa|ไทย เป็น สังคมผู้สูงอายุ|Thái Lan là xã hội già hóa.
+อัตราการเกิด:attrakankoet|tỷ lệ sinh|อัตราการเกิด ลดลง|Tỷ lệ sinh giảm.
+การย้ายถิ่น:kanyaithin|sự di cư|การย้ายถิ่น เข้า เมือง เพิ่ม ขึ้น|Di cư vào thành phố tăng lên.
+แรงงานต่างด้าว:raeng-ngantangdao|lao động nước ngoài|โรงงาน จ้าง แรงงานต่างด้าว|Nhà máy thuê lao động nước ngoài.
+ค้ามนุษย์:khamanut|buôn người|ตำรวจ จับ แก๊ง:kaeng ค้ามนุษย์|Cảnh sát bắt băng buôn người.
+ความรุนแรงในครอบครัว:khwamrunraengnaikhropkhrua|bạo lực gia đình|ความรุนแรงในครอบครัว ผิดกฎหมาย|Bạo lực gia đình là trái luật.
+การกลั่นแกล้ง:kanklanklaeng|sự bắt nạt|โรงเรียน ห้าม การกลั่นแกล้ง|Trường cấm bắt nạt.
+เลือกปฏิบัติ:lueakpatibat|phân biệt đối xử|บริษัท ไม่ เลือกปฏิบัติ|Công ty không phân biệt đối xử.
+ความเสมอภาคทางเพศ:khwamsamoephakthangphet|bình đẳng giới|สังคม ต้องการ ความเสมอภาคทางเพศ|Xã hội cần bình đẳng giới.
+วัยรุ่นตั้งครรภ์:wairuntangkhan|mang thai tuổi vị thành niên|วัยรุ่นตั้งครรภ์ เป็น ปัญหา|Mang thai tuổi vị thành niên là vấn đề.
+ติดการพนัน:titkanphanan|nghiện cờ bạc|เขา ติดการพนัน|Anh ấy nghiện cờ bạc.
+ติดเหล้า:titlao|nghiện rượu|ลุง ติดเหล้า|Bác trai nghiện rượu.
+การฆ่าตัวตาย:kankhatuatai|sự tự tử|การฆ่าตัวตาย เพิ่ม ขึ้น|Tự tử tăng lên.
+คุณภาพชีวิต:khunnaphapchiwit|chất lượng cuộc sống|คุณภาพชีวิต ของ ชาวบ้าน ดี ขึ้น|Chất lượng cuộc sống của dân làng tốt lên.
+ค่านิยม:khaniyom|giá trị quan|ค่านิยม ของ วัยรุ่น เปลี่ยน|Giá trị quan của giới trẻ thay đổi.
+บรรทัดฐาน:banthatthan|chuẩn mực|สังคม มี บรรทัดฐาน|Xã hội có chuẩn mực.
+จิตอาสา:chit-asa|tinh thần tình nguyện|นักเรียน ทำ งาน จิตอาสา|Học sinh làm việc tình nguyện.
+ความสามัคคี:khwamsamakkhi|sự đoàn kết|ความสามัคคี ทำให้ ทีม ชนะ|Đoàn kết làm đội chiến thắng.
+ชนชั้น:chonchan|giai cấp|สังคม นี้ มี ชนชั้น|Xã hội này có giai cấp.
+ชนชั้นกลาง:chonchanklang|tầng lớp trung lưu|ชนชั้นกลาง เพิ่ม ขึ้น|Tầng lớp trung lưu tăng lên.
+ประชาสังคม:prachasangkhom|xã hội dân sự|ประชาสังคม ช่วย ตรวจสอบ รัฐบาล|Xã hội dân sự giúp giám sát chính phủ.
+สิทธิสตรี:sitthisatri|quyền phụ nữ|เธอ ทำงาน เพื่อ สิทธิสตรี|Cô ấy làm việc vì quyền phụ nữ.
+สิทธิเด็ก:sitthidek|quyền trẻ em|ครู สอน เรื่อง สิทธิเด็ก|Giáo viên dạy về quyền trẻ em.
+ผู้บริจาค:phuborichak|nhà hảo tâm|ผู้บริจาค ให้ เงิน โรงเรียน|Nhà hảo tâm cho trường tiền.
+ความช่วยเหลือเพื่อมนุษยธรรม:khwamchuailueaphueamanutsayatham|viện trợ nhân đạo|ประเทศ นี้ ส่ง ความช่วยเหลือเพื่อมนุษยธรรม|Nước này gửi viện trợ nhân đạo.
+การมีส่วนร่วม:kanmisuanruam|sự tham gia|การมีส่วนร่วม ของ ประชาชน สำคัญ|Sự tham gia của người dân là quan trọng.

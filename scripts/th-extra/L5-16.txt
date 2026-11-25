@@ -1,0 +1,56 @@
+=5
+@Bảo hiểm và luật lao động|Hợp đồng, quyền lợi
+ผู้เอาประกัน:phu-aoprakan|người được bảo hiểm|ผู้เอาประกัน ต้อง บอก ความจริง|Người được bảo hiểm phải khai thật.
+ผู้รับประโยชน์:phurapprayot|người thụ hưởng|ลูก เป็น ผู้รับประโยชน์|Con là người thụ hưởng.
+ทุนประกัน:thunprakan|số tiền bảo hiểm|ทุนประกัน ของ ผม คือ หนึ่ง ล้าน|Số tiền bảo hiểm của tôi là một triệu.
+ค่าสินไหมทดแทน:khasinmaithotthaen|tiền bồi thường bảo hiểm|บริษัท จ่าย ค่าสินไหมทดแทน|Công ty trả tiền bồi thường bảo hiểm.
+เรียกร้องค่าสินไหม:riakrongkhasinmai|yêu cầu bồi thường|เขา เรียกร้องค่าสินไหม หลัง อุบัติเหตุ|Anh ấy yêu cầu bồi thường sau tai nạn.
+ค่าเสียหายส่วนแรก:khasiahaisuanraek|mức khấu trừ (bảo hiểm)|ผม ต้อง จ่าย ค่าเสียหายส่วนแรก|Tôi phải trả mức khấu trừ.
+ประกันภัยต่อ:prakanphaito|tái bảo hiểm|บริษัท ทำ ประกันภัยต่อ|Công ty mua tái bảo hiểm.
+ประกันวินาศภัย:prakanwinatsaphai|bảo hiểm phi nhân thọ|เขา ขาย ประกันวินาศภัย|Anh ấy bán bảo hiểm phi nhân thọ.
+ประกันอัคคีภัย:prakan-akkhiphai|bảo hiểm cháy nổ|โรงงาน ต้อง มี ประกันอัคคีภัย|Nhà máy phải có bảo hiểm cháy nổ.
+ประกันภัยทางทะเล:prakanphaithangthale|bảo hiểm hàng hải|เรือ สินค้า มี ประกันภัยทางทะเล|Tàu hàng có bảo hiểm hàng hải.
+ประกันสะสมทรัพย์:prakansasomsap|bảo hiểm tiết kiệm|แม่ ซื้อ ประกันสะสมทรัพย์|Mẹ mua bảo hiểm tiết kiệm.
+เวนคืนกรมธรรม์:wenkhuenkrommathan|hủy hợp đồng nhận giá trị hoàn lại|เขา เวนคืนกรมธรรม์ เพราะ ต้องการ เงิน|Anh ấy hủy hợp đồng bảo hiểm vì cần tiền.
+นักคณิตศาสตร์ประกันภัย:nakkhanitsatprakanphai|chuyên viên định phí bảo hiểm|เธอ เป็น นักคณิตศาสตร์ประกันภัย|Cô ấy là chuyên viên định phí bảo hiểm.
+ตัวแทนประกัน:tuathaenprakan|đại lý bảo hiểm|ตัวแทนประกัน โทร มา ทุก วัน|Đại lý bảo hiểm gọi mỗi ngày.
+กฎหมายแรงงาน:kotmairaeng-ngan|luật lao động|นายจ้าง ต้อง ทำ ตาม กฎหมายแรงงาน|Chủ lao động phải tuân theo luật lao động.
+ค่าจ้างขั้นต่ำ:khachangkhantam|lương tối thiểu|รัฐบาล ขึ้น ค่าจ้างขั้นต่ำ|Chính phủ tăng lương tối thiểu.
+ค่าล่วงเวลา:khaluangwela|tiền làm thêm giờ|บริษัท จ่าย ค่าล่วงเวลา|Công ty trả tiền làm thêm giờ.
+ค่าชดเชย:khachotchoei|tiền bồi thường thôi việc|ลูกจ้าง ได้ ค่าชดเชย|Người lao động nhận tiền thôi việc.
+เลิกจ้างไม่เป็นธรรม:loekchangmaipentham|sa thải trái luật|เขา ฟ้อง เรื่อง เลิกจ้างไม่เป็นธรรม|Anh ấy kiện về việc sa thải trái luật.
+บอกกล่าวล่วงหน้า:bokklaoluangna|báo trước (thôi việc)|นายจ้าง ต้อง บอกกล่าวล่วงหน้า|Chủ lao động phải báo trước.
+สหภาพแรงงาน:sahaphapraeng-ngan|công đoàn|พนักงาน ตั้ง สหภาพแรงงาน|Nhân viên lập công đoàn.
+นัดหยุดงาน:natyutngan|đình công|คน งาน นัดหยุดงาน สาม วัน|Công nhân đình công ba ngày.
+ปิดงาน:pitngan|chủ đóng cửa nhà máy (bế xưởng)|นายจ้าง ประกาศ ปิดงาน|Chủ lao động tuyên bố bế xưởng.
+เจรจาต่อรองร่วม:checharatorongruam|thương lượng tập thể|สหภาพ ขอ เจรจาต่อรองร่วม|Công đoàn yêu cầu thương lượng tập thể.
+ข้อพิพาทแรงงาน:khophiphatraeng-ngan|tranh chấp lao động|ศาล ตัดสิน ข้อพิพาทแรงงาน|Tòa án phân xử tranh chấp lao động.
+ศาลแรงงาน:sanraeng-ngan|tòa án lao động|ลูกจ้าง ไป ศาลแรงงาน|Người lao động ra tòa án lao động.
+ลากิจ:lakit|nghỉ việc riêng|ผม ขอ ลากิจ สอง วัน|Tôi xin nghỉ việc riêng hai ngày.
+แรงงานข้ามชาติ:raeng-ngankhamchat|lao động nhập cư|ไทย มี แรงงานข้ามชาติ มาก|Thái Lan có nhiều lao động nhập cư.
+ใบอนุญาตทำงาน:bai-anuyatthamngan|giấy phép lao động|คน ต่างชาติ ต้อง มี ใบอนุญาตทำงาน|Người nước ngoài phải có giấy phép lao động.
+@Luật quốc tế và sở hữu trí tuệ|Công ước, bản quyền
+กฎหมายระหว่างประเทศ:kotmairawangprathet|luật quốc tế|เขา สอน กฎหมายระหว่างประเทศ|Ông ấy dạy luật quốc tế.
+ให้สัตยาบัน:haisattayaban|phê chuẩn (điều ước)|สภา ให้สัตยาบัน สนธิสัญญา|Nghị viện phê chuẩn hiệp ước.
+ศาลยุติธรรมระหว่างประเทศ:sanyuttithamrawangprathet|Tòa án Công lý Quốc tế|คดี ไป ถึง ศาลยุติธรรมระหว่างประเทศ|Vụ kiện lên đến Tòa án Công lý Quốc tế.
+อนุญาโตตุลาการ:anuyatotulakan|trọng tài (phân xử)|สอง บริษัท ใช้ อนุญาโตตุลาการ|Hai công ty dùng trọng tài phân xử.
+เขตอำนาจศาล:khet-amnatsan|thẩm quyền xét xử|คดี นี้ อยู่ นอก เขตอำนาจศาล|Vụ này nằm ngoài thẩm quyền xét xử.
+ลี้ภัยทางการเมือง:liphaithangkanmueang|tị nạn chính trị|เขา ขอ ลี้ภัยทางการเมือง|Ông ấy xin tị nạn chính trị.
+อาชญากรรมสงคราม:atyakamsongkhram|tội ác chiến tranh|ศาล ตัดสิน คดี อาชญากรรมสงคราม|Tòa xét xử vụ tội ác chiến tranh.
+การฆ่าล้างเผ่าพันธุ์:kankhalangphaophan|diệt chủng|โลก ประณาม การฆ่าล้างเผ่าพันธุ์|Thế giới lên án tội diệt chủng.
+น่านน้ำอาณาเขต:nannam-anakhet|lãnh hải|เรือ เข้า มา ใน น่านน้ำอาณาเขต|Tàu đi vào lãnh hải.
+ทะเลหลวง:thaleluang|biển cả (vùng biển quốc tế)|เรือ ออก ไป ทะเลหลวง|Tàu ra vùng biển quốc tế.
+ทรัพย์สินทางปัญญา:sapsinthangpanya|sở hữu trí tuệ|บริษัท ปกป้อง ทรัพย์สินทางปัญญา|Công ty bảo vệ sở hữu trí tuệ.
+อนุสิทธิบัตร:anusitthibat|giải pháp hữu ích (tiểu sáng chế)|ชาวบ้าน จด อนุสิทธิบัตร|Dân làng đăng ký giải pháp hữu ích.
+ความลับทางการค้า:khwamlapthangkankha|bí mật kinh doanh|สูตร นี้ เป็น ความลับทางการค้า|Công thức này là bí mật kinh doanh.
+สิ่งบ่งชี้ทางภูมิศาสตร์:singbongchithangphumisat|chỉ dẫn địa lý|ข้าว หอม มะลิ มี สิ่งบ่งชี้ทางภูมิศาสตร์|Gạo thơm hoa nhài có chỉ dẫn địa lý.
+ละเมิดลิขสิทธิ์:lamoetlikkhasit|vi phạm bản quyền|เว็บ นี้ ละเมิดลิขสิทธิ์ หนัง|Trang web này vi phạm bản quyền phim.
+สัญญาอนุญาตให้ใช้สิทธิ:sanya-anuyathaichaisit|hợp đồng li xăng|บริษัท ทำ สัญญาอนุญาตให้ใช้สิทธิ|Công ty ký hợp đồng li xăng.
+ค่าสิทธิ:khasit|tiền bản quyền sử dụng (royalty)|ร้าน จ่าย ค่าสิทธิ ทุก เดือน|Cửa hàng trả tiền bản quyền sử dụng mỗi tháng.
+สาธารณสมบัติ:satharanasombat|tài sản công cộng (hết bản quyền)|เพลง นี้ เป็น สาธารณสมบัติ แล้ว|Bài hát này đã thuộc tài sản công cộng.
+การใช้โดยชอบธรรม:kanchaidoichoptham|sử dụng hợp lý (fair use)|ครู อ้าง การใช้โดยชอบธรรม|Giáo viên viện dẫn sử dụng hợp lý.
+มาตรการคว่ำบาตร:mattrakankhwambat|biện pháp trừng phạt|สหรัฐ ใช้ มาตรการคว่ำบาตร|Mỹ áp dụng biện pháp trừng phạt.
+อักษรสาสน์ตราตั้ง:aksonsantratang|quốc thư|ทูต ใหม่ ถวาย อักษรสาสน์ตราตั้ง|Đại sứ mới trình quốc thư.
+อุปทูต:uppathut|đại biện lâm thời|อุปทูต ทำงาน แทน ทูต|Đại biện lâm thời làm thay đại sứ.
+กงสุลใหญ่:kongsunyai|tổng lãnh sự|กงสุลใหญ่ มา เปิด งาน|Tổng lãnh sự đến khai mạc.
+บุคคลไม่พึงปรารถนา:bukkhonmaiphuengpratthana|người không được hoan nghênh|รัฐบาล ประกาศ ให้ เขา เป็น บุคคลไม่พึงปรารถนา|Chính phủ tuyên bố ông ta là người không được hoan nghênh.

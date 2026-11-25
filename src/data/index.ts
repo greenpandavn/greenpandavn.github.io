@@ -4,6 +4,7 @@ import zhMeta from "./zh/meta.json";
 import enMeta from "./en/meta.json";
 import koMeta from "./ko/meta.json";
 import jaMeta from "./ja/meta.json";
+import thMeta from "./th/meta.json";
 
 export type RawWord = Omit<Word, "lessonId">;
 export type RawLesson = Omit<Lesson, "words" | "wordCount"> & { words: RawWord[] };
@@ -46,12 +47,13 @@ const stubs = (meta: Meta, c: CourseId): RawLesson[] =>
 // parts are listed level by level (the later English parts of a level have higher unit numbers than the next level's first ones)
 const byUnit = (a: Unit, b: Unit) =>
   (a.level ?? 1) - (b.level ?? 1) || a.unit - b.unit;
-export const COURSE_IDS: CourseId[] = ["zh", "en", "ko", "ja"];
+export const COURSE_IDS: CourseId[] = ["zh", "en", "ko", "ja", "th"];
 const META: Record<CourseId, Meta> = {
   zh: zhMeta as unknown as Meta,
   en: enMeta as unknown as Meta,
   ko: koMeta as unknown as Meta,
   ja: jaMeta as unknown as Meta,
+  th: thMeta as unknown as Meta,
 };
 const STUBS = Object.fromEntries(
   COURSE_IDS.map((c) => [c, stubs(META[c], c)]),
@@ -69,9 +71,10 @@ const COURSE_UNITS: Record<CourseId, Unit[]> = {
   en: EN_UNITS,
   ko: [...META.ko.units].sort(byUnit),
   ja: [...META.ja.units].sort(byUnit),
+  th: [...META.th.units].sort(byUnit),
 };
 /** Lessons of each course whose words are in memory. */
-const COURSE_LESSONS: Record<CourseId, RawLesson[]> = { zh: [], en: [], ko: [], ja: [] };
+const COURSE_LESSONS: Record<CourseId, RawLesson[]> = { zh: [], en: [], ko: [], ja: [], th: [] };
 export const courseUnits = (c: CourseId) => COURSE_UNITS[c];
 export const courseLessons = (c: CourseId) => COURSE_LESSONS[c];
 const unitsOf = (c: CourseId) => COURSE_UNITS[c];
@@ -127,6 +130,13 @@ export const COURSES: {
     desc: "JLPT N5 → N1 · Kanji, Kana, romaji, luyện nghe nói",
     glyph: "あ",
   },
+  {
+    id: "th",
+    label: "Tiếng Thái",
+    title: "Khóa học tiếng Thái từ sơ cấp đến chuyên sâu",
+    desc: "Sơ cấp → Chuyên sâu · chữ Thái, phiên âm, luyện nghe nói",
+    glyph: "ก",
+  },
 ];
 /** Name of the language of a course, e.g. "tiếng Hàn". */
 export const langName = (c: CourseId = course) =>
@@ -149,8 +159,8 @@ let overrides: ContentOverrides | null = null;
 /** The course being studied on this device. All the live bindings below belong to it. */
 export const getCourse = () => course;
 export const isEnglish = () => course === "en";
-/** Korean and Japanese: words have a script form and a romanization, but no stroke order or tones. */
-export const isRoman = (c: CourseId = course) => c === "ko" || c === "ja";
+/** Korean, Japanese and Thai: words have a script form and a romanization, but no stroke order or tones. */
+export const isRoman = (c: CourseId = course) => c === "ko" || c === "ja" || c === "th";
 /** False until the learner has picked a course on this device. */
 export const courseChosen = () => chosen;
 export const courseInfo = (id: CourseId = course) =>
@@ -172,6 +182,7 @@ const CHUNKS = {
   ...import.meta.glob<{ default: RawData }>("./en/u*.json"),
   ...import.meta.glob<{ default: RawData }>("./ko/u*.json"),
   ...import.meta.glob<{ default: RawData }>("./ja/u*.json"),
+  ...import.meta.glob<{ default: RawData }>("./th/u*.json"),
 };
 const chunkKey = (c: CourseId, unit: number) => `./${c}/u${unit}.json`;
 const FULL: Record<CourseId, Map<string, RawLesson>> = {
@@ -179,6 +190,7 @@ const FULL: Record<CourseId, Map<string, RawLesson>> = {
   en: new Map(),
   ko: new Map(),
   ja: new Map(),
+  th: new Map(),
 };
 const ready = new Set<string>(); // chunks in memory
 const fetching = new Map<string, Promise<void>>();
@@ -240,6 +252,7 @@ export const courseLoaded = (c: CourseId = course) =>
 const SCRIPT_FONT: Partial<Record<CourseId, string>> = {
   ko: "Noto+Sans+KR",
   ja: "Noto+Sans+JP",
+  th: "Noto+Sans+Thai",
 };
 /** Korean and Japanese get their own glyphs instead of the Chinese font's. */
 function scriptFont() {
@@ -277,7 +290,7 @@ export const EN_LEVEL_LABEL = [
   "Chuyên sâu",
 ];
 export const levelLabel = (level: number, c: CourseId = course) =>
-  c === "en"
+  c === "en" || c === "th"
     ? (EN_LEVEL_LABEL[level - 1] ?? EN_LEVEL_LABEL[0])
     : c === "ko"
       ? `TOPIK ${level}`
@@ -405,7 +418,7 @@ export function useContentVersion() {
 
 const PUNCT = /^[，。？！、；：,.?!;:]$/;
 // Chinese and Japanese are written without spaces
-const hasHan = (s: string) => /[\p{Script=Han}\u3040-\u30ff]/u.test(s);
+const hasHan = (s: string) => /[\p{Script=Han}\u3040-\u30ff\u0e00-\u0e7f]/u.test(s);
 export const isPunct = (t: string) => PUNCT.test(t);
 
 /** The example sentence as written: Chinese has no spaces, English words are separated by spaces. */

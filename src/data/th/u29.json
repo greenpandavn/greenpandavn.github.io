@@ -1,0 +1,52 @@
+{
+ "units": [
+  {"unit":29,"level":2,"title":"Phần 9: Tổng hợp và hơn thế","desc":"Tổng hợp","color":"sky","course":"th"}
+ ],
+ "lessons": [
+  {"id":"th2x81","title":"Tổng hợp 6","desc":"Từ vựng tổng hợp của cấp này","icon":"ก","unit":29,"course":"th","order":1640,"words":[
+   {"id":"th2x81-กรอบรูป","hanzi":"กรอบรูป","pinyin":"kroprup","vi":"khung ảnh","ex":{"tokens":["กรอบรูป","อยู่","บน","โต๊ะ"],"py":["kroprup","yu","bon","to"],"vi":"Khung ảnh ở trên bàn.","alts":[]}},
+   {"id":"th2x81-หายใจ","hanzi":"หายใจ","pinyin":"haichai","vi":"thở","ex":{"tokens":["หายใจ","ลึก","มาก"],"py":["haichai","luek","mak"],"vi":"Thở sâu vào.","alts":[]}},
+   {"id":"th2x81-ลดน้ำหนัก","hanzi":"ลดน้ำหนัก","pinyin":"lotnamnak","vi":"giảm cân","ex":{"tokens":["ฉัน","อยาก","ลดน้ำหนัก"],"py":["chan","yak","lotnamnak"],"vi":"Tôi muốn giảm cân.","alts":[]}},
+   {"id":"th2x81-อาหารเสริม","hanzi":"อาหารเสริม","pinyin":"ahansoem","vi":"thực phẩm chức năng","ex":{"tokens":["เขา","กิน","อาหารเสริม","ทุก","วัน"],"py":["khao","kin","ahansoem","thuk","wan"],"vi":"Anh ấy uống thực phẩm chức năng mỗi ngày.","alts":[]}},
+   {"id":"th2x81-วิตามิน","hanzi":"วิตามิน","pinyin":"witamin","vi":"vitamin","ex":{"tokens":["ผลไม้","มี","วิตามิน","มาก"],"py":["phonlamai","mi","witamin","mak"],"vi":"Hoa quả có nhiều vitamin.","alts":[]}},
+   {"id":"th2x81-โปรตีน","hanzi":"โปรตีน","pinyin":"protin","vi":"chất đạm","ex":{"tokens":["ไข่","มี","โปรตีน","สูง"],"py":["khai","mi","protin","sung"],"vi":"Trứng có nhiều chất đạm.","alts":[]}},
+   {"id":"th2x81-ไขมัน","hanzi":"ไขมัน","pinyin":"khaiman","vi":"chất béo, mỡ","ex":{"tokens":["อาหาร","นี้","มี","ไขมัน","มาก"],"py":["ahan","ni","mi","khaiman","mak"],"vi":"Món này nhiều chất béo.","alts":[]}},
+   {"id":"th2x81-แคลอรี่","hanzi":"แคลอรี่","pinyin":"khaelori","vi":"calo","ex":{"tokens":["ขนม","นี้","แคลอรี่","สูง"],"py":["khanom","ni","khaelori","sung"],"vi":"Bánh này nhiều calo.","alts":[]}},
+   {"id":"th2x81-นอนหลับ","hanzi":"นอนหลับ","pinyin":"nonlap","vi":"ngủ (giấc ngủ)","ex":{"tokens":["เมื่อคืน","ผม","นอนหลับ","ดี"],"py":["mueakhuen","phom","nonlap","di"],"vi":"Đêm qua tôi ngủ ngon.","alts":[]}},
+   {"id":"th2x81-สมาธิ","hanzi":"สมาธิ","pinyin":"samathi","vi":"sự tập trung; thiền","ex":{"tokens":["เด็ก","ไม่","มี","สมาธิ"],"py":["dek","mai","mi","samathi"],"vi":"Đứa trẻ không tập trung.","alts":[]}},
+   {"id":"th2x81-ผ่อนคลาย","hanzi":"ผ่อนคลาย","pinyin":"phonkhlai","vi":"thư giãn","ex":{"tokens":["ฟัง","เพลง","ช่วย","ให้","ผ่อนคลาย"],"py":["fang","phleng","chuai","hai","phonkhlai"],"vi":"Nghe nhạc giúp thư giãn.","alts":[]}},
+   {"id":"th2x81-ตรวจสุขภาพ","hanzi":"ตรวจสุขภาพ","pinyin":"truatsukkhaphap","vi":"khám sức khỏe","ex":{"tokens":["ผม","ตรวจสุขภาพ","ทุก","ปี"],"py":["phom","truatsukkhaphap","thuk","pi"],"vi":"Tôi khám sức khỏe hằng năm.","alts":[]}},
+   {"id":"th2x81-จำนวน","hanzi":"จำนวน","pinyin":"chamnuan","vi":"số lượng (con số)","ex":{"tokens":["จำนวน","นักเรียน","เพิ่ม","ขึ้น"],"py":["chamnuan","nakrian","phoem","khuen"],"vi":"Số lượng học sinh tăng lên.","alts":[]}}
+  ]},
+  {"id":"th2x82","title":"Tổng hợp 7","desc":"Từ vựng tổng hợp của cấp này","icon":"แ","unit":29,"course":"th","order":1650,"words":[
+   {"id":"th2x82-แห","hanzi":"แห","pinyin":"hae","vi":"cái lưới (chài)","ex":{"tokens":["ชาวประมง","ใช้","แห","จับ","ปลา"],"py":["chaopramong","chai","hae","chap","pla"],"vi":"Ngư dân dùng lưới bắt cá.","alts":[]}},
+   {"id":"th2x82-สวนผลไม้","hanzi":"สวนผลไม้","pinyin":"suanphonlamai","vi":"vườn cây ăn quả","ex":{"tokens":["ปู่","มี","สวนผลไม้"],"py":["pu","mi","suanphonlamai"],"vi":"Ông nội có vườn cây ăn quả.","alts":[]}},
+   {"id":"th2x82-ออร์แกนิก","hanzi":"ออร์แกนิก","pinyin":"okaenik","vi":"hữu cơ","ex":{"tokens":["ผัก","ออร์แกนิก","แพง","กว่า"],"py":["phak","okaenik","phaeng","kwa"],"vi":"Rau hữu cơ đắt hơn.","alts":[]}},
+   {"id":"th2x82-ศัตรูพืช","hanzi":"ศัตรูพืช","pinyin":"sattruphuet","vi":"sâu bệnh hại cây","ex":{"tokens":["เกษตรกร","ป้องกัน","ศัตรูพืช"],"py":["kasettrakon","pongkan","sattruphuet"],"vi":"Nông dân phòng sâu bệnh.","alts":[]}},
+   {"id":"th2x82-ฤดูเก็บเกี่ยว","hanzi":"ฤดูเก็บเกี่ยว","pinyin":"ruedukepkiao","vi":"mùa thu hoạch","ex":{"tokens":["ฤดูเก็บเกี่ยว","ชาวนา","ยุ่ง","มาก"],"py":["ruedukepkiao","chaona","yung","mak"],"vi":"Mùa thu hoạch nông dân rất bận.","alts":[]}},
+   {"id":"th2x82-ผลผลิต","hanzi":"ผลผลิต","pinyin":"phonphalit","vi":"sản lượng, sản phẩm","ex":{"tokens":["ปี","นี้","ผลผลิต","ดี"],"py":["pi","ni","phonphalit","di"],"vi":"Năm nay sản lượng tốt.","alts":[]}},
+   {"id":"th2x82-ทักทาย","hanzi":"ทักทาย","pinyin":"thakthai","vi":"chào hỏi","ex":{"tokens":["เพื่อนบ้าน","ทักทาย","เรา"],"py":["phueanban","thakthai","rao"],"vi":"Hàng xóm chào hỏi chúng tôi.","alts":[]}},
+   {"id":"th2x82-อวยพร","hanzi":"อวยพร","pinyin":"uaiphon","vi":"chúc phúc","ex":{"tokens":["เรา","อวยพร","เจ้าสาว"],"py":["rao","uaiphon","chaosao"],"vi":"Chúng tôi chúc phúc cô dâu.","alts":[]}},
+   {"id":"th2x82-แสดงความยินดี","hanzi":"แสดงความยินดี","pinyin":"sadaengkhwamyindi","vi":"chúc mừng","ex":{"tokens":["เพื่อน","แสดงความยินดี","กับ","ผม"],"py":["phuean","sadaengkhwamyindi","kap","phom"],"vi":"Bạn bè chúc mừng tôi.","alts":[]}},
+   {"id":"th2x82-ล้อเล่น","hanzi":"ล้อเล่น","pinyin":"lolen","vi":"nói đùa","ex":{"tokens":["ผม","ล้อเล่น","นะ"],"py":["phom","lolen","na"],"vi":"Tôi nói đùa thôi nhé.","alts":[]}},
+   {"id":"th2x82-นินทา","hanzi":"นินทา","pinyin":"nintha","vi":"nói xấu sau lưng","ex":{"tokens":["อย่า","นินทา","เพื่อน"],"py":["ya","nintha","phuean"],"vi":"Đừng nói xấu bạn.","alts":[]}},
+   {"id":"th2x82-สารภาพ","hanzi":"สารภาพ","pinyin":"saraphap","vi":"thú nhận","ex":{"tokens":["เขา","สารภาพ","ความจริง"],"py":["khao","saraphap","khwamching"],"vi":"Anh ấy thú nhận sự thật.","alts":[]}},
+   {"id":"th2x82-ขนาดกลาง","hanzi":"ขนาดกลาง","pinyin":"khanatklang","vi":"cỡ vừa","ex":{"tokens":["ขอ","เสื้อ","ขนาดกลาง"],"py":["kho","suea","khanatklang"],"vi":"Cho tôi áo cỡ vừa.","alts":[]}}
+  ]},
+  {"id":"th2x83","title":"Tổng hợp 8","desc":"Từ vựng tổng hợp của cấp này","icon":"ป","unit":29,"course":"th","order":1660,"words":[
+   {"id":"th2x83-ปิดบัง","hanzi":"ปิดบัง","pinyin":"pitbang","vi":"che giấu","ex":{"tokens":["อย่า","ปิดบัง","ความจริง"],"py":["ya","pitbang","khwamching"],"vi":"Đừng che giấu sự thật.","alts":[]}},
+   {"id":"th2x83-เปิดเผย","hanzi":"เปิดเผย","pinyin":"poetphoei","vi":"tiết lộ, công khai","ex":{"tokens":["บริษัท","เปิดเผย","ข้อมูล"],"py":["borisat","poetphoei","khomun"],"vi":"Công ty công khai thông tin.","alts":[]}},
+   {"id":"th2x83-ถ่ายทอด","hanzi":"ถ่ายทอด","pinyin":"thaithot","vi":"truyền đạt","ex":{"tokens":["ครู","ถ่ายทอด","ความรู้"],"py":["khru","thaithot","khwamru"],"vi":"Giáo viên truyền đạt kiến thức.","alts":[]}},
+   {"id":"th2x83-สื่อสาร","hanzi":"สื่อสาร","pinyin":"suesan","vi":"giao tiếp","ex":{"tokens":["เรา","สื่อสาร","ด้วย","ภาษา","อังกฤษ"],"py":["rao","suesan","duai","phasa","angkrit"],"vi":"Chúng tôi giao tiếp bằng tiếng Anh.","alts":[]}},
+   {"id":"th2x83-เข้าใจผิด","hanzi":"เข้าใจผิด","pinyin":"khaochaiphit","vi":"hiểu lầm","ex":{"tokens":["คุณ","เข้าใจผิด","แล้ว"],"py":["khun","khaochaiphit","laeo"],"vi":"Bạn hiểu lầm rồi.","alts":[]}},
+   {"id":"th2x83-ทองแดง","hanzi":"ทองแดง","pinyin":"thongdaeng","vi":"đồng (kim loại)","ex":{"tokens":["สายไฟ","ทำ","จาก","ทองแดง"],"py":["saifai","tham","chak","thongdaeng"],"vi":"Dây điện làm bằng đồng.","alts":[]}},
+   {"id":"th2x83-ตารางเมตร","hanzi":"ตารางเมตร","pinyin":"tarangmet","vi":"mét vuông","ex":{"tokens":["ห้อง","นี้","สามสิบ","ตารางเมตร"],"py":["hong","ni","samsip","tarangmet"],"vi":"Phòng này ba mươi mét vuông.","alts":[]}},
+   {"id":"th2x83-เซนติเมตร","hanzi":"เซนติเมตร","pinyin":"sentimet","vi":"xăng ti mét","ex":{"tokens":["ยาว","ยี่สิบ","เซนติเมตร"],"py":["yao","yisip","sentimet"],"vi":"Dài hai mươi xăng ti mét.","alts":[]}},
+   {"id":"th2x83-กิโลเมตร","hanzi":"กิโลเมตร","pinyin":"kilomet","vi":"ki lô mét","ex":{"tokens":["บ้าน","ผม","อยู่","ไกล","ห้า","กิโลเมตร"],"py":["ban","phom","yu","klai","ha","kilomet"],"vi":"Nhà tôi cách năm ki lô mét.","alts":[]}},
+   {"id":"th2x83-กรัม","hanzi":"กรัม","pinyin":"kram","vi":"gam","ex":{"tokens":["ขอ","หมู","ห้า","ร้อย","กรัม"],"py":["kho","mu","ha","roi","kram"],"vi":"Cho tôi năm trăm gam thịt lợn.","alts":[]}},
+   {"id":"th2x83-องศา","hanzi":"องศา","pinyin":"ongsa","vi":"độ (nhiệt độ, góc)","ex":{"tokens":["วันนี้","ร้อน","สามสิบห้า","องศา"],"py":["wanni","ron","samsipha","ongsa"],"vi":"Hôm nay nóng ba mươi lăm độ.","alts":[]}},
+   {"id":"th2x83-ความเร็ว","hanzi":"ความเร็ว","pinyin":"khwamreo","vi":"tốc độ","ex":{"tokens":["รถไฟ","นี้","ความเร็ว","สูง"],"py":["rotfai","ni","khwamreo","sung"],"vi":"Tàu này tốc độ cao.","alts":[]}},
+   {"id":"th2x83-น้ำหนักเกิน","hanzi":"น้ำหนักเกิน","pinyin":"namnakkoen","vi":"quá cân","ex":{"tokens":["กระเป๋า","ใบ","นี้","น้ำหนักเกิน"],"py":["krapao","bai","ni","namnakkoen"],"vi":"Cái túi này quá cân.","alts":[]}}
+  ]}
+ ]
+}

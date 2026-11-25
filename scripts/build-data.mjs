@@ -348,10 +348,42 @@ function romanizeJa(kana, particle = true) {
   return out;
 }
 // words per level after the extra themes (v5.5.0: 5,000 words per course)
-const EXTRA_QUOTA = { ko: [834, 834, 833, 833, 833, 833], ja: [1000, 1000, 1000, 1000, 1000] };
+const EXTRA_QUOTA = { ko: [834, 834, 833, 833, 833, 833], ja: [1000, 1000, 1000, 1000, 1000], th: [1000, 1000, 1000, 1000, 1000] };
+/* ---------------- Thai (v5.6.0) ---------------- */
+// The whole course is in scripts/th-extra/*.txt (same theme format as the Korean/Japanese extras). Thai spelling
+// does not show syllable breaks or inherent vowels, so the romanization (RTGS, the Royal Thai General System:
+// no tone marks, no vowel length) is written once per word, คำ:kham, as the headword of a line, inside an
+// example, or in scripts/thai-dict.txt. Every later use of the same Thai word takes that romanization, so a
+// word cannot have two different romanizations in the course.
+const TH_DICT = new Map();
+const thDefine = (surface, roman, where) => {
+  const old = TH_DICT.get(surface);
+  if (old && old !== roman) errors.push(`${where}: ${surface} is romanized "${roman}" here and "${old}" elsewhere`);
+  else TH_DICT.set(surface, roman);
+};
+{
+  const files = [['scripts/thai-dict.txt', true]];
+  const dir = path.join(root, 'scripts/th-extra');
+  if (fs.existsSync(dir)) for (const f of fs.readdirSync(dir).filter((x) => x.endsWith('.txt')).sort()) files.push([`scripts/th-extra/${f}`, false]);
+  for (const [f, dict] of files) {
+    if (!fs.existsSync(path.join(root, f))) continue;
+    for (const [i, raw] of read(f).split('\n').entries()) {
+      const line = raw.trim();
+      if (!line || /^[#=@]/.test(line)) continue;
+      const fields = line.split('|');
+      const tokens = dict ? line.split(/\s+/) : [fields[0], ...(fields[2] ?? '').split(/\s+/)];
+      for (const t of tokens) {
+        const [surface, roman] = t.split(':');
+        if (roman) thDefine(surface, roman, `${f.replace('scripts/', '')}:${i + 1}`);
+      }
+    }
+  }
+}
+const romanizeTh = (surface) => TH_DICT.get(surface) ?? '';
 const srcOf = {};
 const SCRIPT_PUNCT = /^[。、？！,.?!]$/;
 function scriptCourse(file, course, romanize) {
+  const allMode = process.env.KJ_ALL === '1' || process.env.KJ_ALL === course;
   const cUnits = [];
   const cLessons = [];
   const cSeen = new Set();
@@ -361,6 +393,13 @@ function scriptCourse(file, course, romanize) {
   const token = (t, where) => {
     if (SCRIPT_PUNCT.test(t)) return [t, { '。': '.', '、': ',', '？': '?', '！': '!' }[t] ?? t];
     const [surface, reading] = t.split(':');
+    if (course === 'th') {
+      if (!/^[\u0e01-\u0e3a\u0e40-\u0e4e]+$/.test(surface) && !/^[0-9]+$/.test(surface)) errors.push(`${where}: unexpected characters in ${surface}`);
+      const roman = /^[0-9]+$/.test(surface) ? surface : romanize(surface);
+      if (!roman) errors.push(`${where}: no romanization for ${surface}`);
+      else if (!/^[0-9]+$/.test(surface) && !/^[a-z]+(-[a-z]+)*$/.test(roman)) errors.push(`${where}: romanization "${roman}" of ${surface} must be lower-case a–z only`);
+      return [surface, roman];
+    }
     if (course === 'ja') {
       if (/\p{Script=Han}/u.test(surface) && !reading) errors.push(`${where}: no reading for ${surface}`);
       if (reading && !/^[\u3040-\u30ffー]+$/.test(reading)) errors.push(`${where}: reading of ${surface} is not kana`);
@@ -381,12 +420,12 @@ function scriptCourse(file, course, romanize) {
         return [m[1], ...m[2]].filter(Boolean);
       })
       .map((t) => token(t, where));
-    if (!SCRIPT_PUNCT.test(parts[parts.length - 1][0])) errors.push(`${where}: example has no final punctuation`);
+    if (course !== 'th' && !SCRIPT_PUNCT.test(parts[parts.length - 1][0])) errors.push(`${where}: example has no final punctuation`);
     if (parts.filter((t) => !SCRIPT_PUNCT.test(t[0])).length < 2) errors.push(`${where}: example is too short`);
     lesson.words.push({ id: `${lesson.id}-${word}`, hanzi: word, pinyin: py, vi, ex: { tokens: parts.map((t) => t[0]), py: parts.map((t) => t[1]), vi: exVi, alts: [] } });
     srcOf[`${course} ${lesson.id} ${word}`] = where;
   };
-  for (const [i, raw] of read(`scripts/${file}`).split('\n').entries()) {
+  for (const [i, raw] of (course === 'th' ? '' : read(`scripts/${file}`)).split('\n').entries()) {
     const line = raw.trim();
     const where = `${file}:${i + 1}`;
     if (!line || line.startsWith('#')) continue;
@@ -436,7 +475,7 @@ function scriptCourse(file, course, romanize) {
   for (const [level, themes] of [...byLevel].sort((a, b) => a[0] - b[0])) {
     const base = cUnits.filter((u) => u.level === level).map((u) => u.unit);
     const have = cLessons.filter((l) => base.includes(l.unit)).reduce((n, l) => n + l.words.length, 0);
-    let room = process.env.KJ_ALL ? Infinity : (EXTRA_QUOTA[course]?.[level - 1] ?? 0) - have;
+    let room = allMode ? Infinity : (EXTRA_QUOTA[course]?.[level - 1] ?? 0) - have;
     const made = [];
     const spare = [];
     for (const t of themes) {
@@ -449,16 +488,18 @@ function scriptCourse(file, course, romanize) {
     const m = Math.floor(spare.length / 12);
     for (let j = 0; j < m; j++) made.push({ title: `Tổng hợp ${j + 1}`, desc: 'Từ vựng tổng hợp của cấp này', words: spare.slice(j * 12, j * 12 + 12) });
     const rest = spare.slice(m * 12); // fewer than 12 words: one more word for each of the last lessons
-    if (process.env.KJ_ALL && rest.length) made.push({ title: 'Còn lại', desc: '', words: rest });
+    if (allMode && rest.length) made.push({ title: 'Còn lại', desc: '', words: rest });
     else rest.forEach((w, j) => made[made.length - 1 - j]?.words.push(w));
-    if (rest.length > made.length && !process.env.KJ_ALL) errors.push(`${course} level ${level}: ${rest.length - made.length} extra words do not fit`);
-    const per = Math.ceil(made.length / 6);
-    const first = Math.max(...base) + 1;
+    if (rest.length > made.length && !allMode) errors.push(`${course} level ${level}: ${rest.length - made.length} extra words do not fit`);
+    // Thai has no hand-written parts: its lessons form parts 1–9 of each level
+    const nParts = base.length ? 6 : 9;
+    const per = Math.ceil(made.length / nParts);
+    const first = base.length ? Math.max(...base) + 1 : level === 1 ? 1 : level * 10 + 1;
     made.forEach((l, j) => {
       const part = Math.floor(j / per);
       if (j % per === 0) {
         const titles = [...new Set(made.slice(j, j + per).map((x) => x.title.replace(/ \d+$/, '')))];
-        cUnits.push({ unit: first + part, level, title: `Phần ${4 + part}: ${titles[0]} và hơn thế`, desc: titles.slice(0, 5).join(', '), color: COLORS[part], course });
+        cUnits.push({ unit: first + part, level, title: `Phần ${(base.length ? 4 : 1) + part}: ${titles[0]} và hơn thế`, desc: titles.slice(0, 5).join(', '), color: COLORS[part % COLORS.length], course });
       }
       const lesson = { id: `${course}${level}x${String(j + 1).padStart(2, '0')}`, title: l.title, desc: l.desc, icon: [...l.words[0][0].split('|')[0].split(':')[0]][0], unit: first + part, course, words: [] };
       cLessons.push(lesson);
@@ -472,7 +513,7 @@ function scriptCourse(file, course, romanize) {
   for (const l of cLessons) {
     if (ids.has(l.id)) errors.push(`${file}: duplicate lesson id ${l.id}`);
     ids.add(l.id);
-    if ((l.words.length < 10 || l.words.length > 14) && !process.env.KJ_ALL) errors.push(`${file}: lesson ${l.id} has ${l.words.length} words (expected 10–14)`);
+    if ((l.words.length < 10 || l.words.length > 14) && !allMode) errors.push(`${file}: lesson ${l.id} has ${l.words.length} words (expected 10–14)`);
   }
   for (const level of new Set(cUnits.map((u) => u.level))) {
     const us = new Set(cUnits.filter((u) => u.level === level).map((u) => u.unit));
@@ -483,12 +524,19 @@ function scriptCourse(file, course, romanize) {
 }
 const ko = scriptCourse('korean.txt', 'ko', romanizeKo);
 const ja = scriptCourse('japanese.txt', 'ja', romanizeJa);
-if (process.argv.includes('--roman')) for (const c of [ko, ja]) for (const l of c.lessons) for (const w of l.words) console.log(`${w.hanzi}\t${w.pinyin}\t${w.ex.py.join(' ')}`);
+const th = scriptCourse('thai', 'th', romanizeTh);
+if (process.argv.includes('--roman')) for (const c of [ko, ja, th]) for (const l of c.lessons) for (const w of l.words) console.log(`${w.hanzi}\t${w.pinyin}\t${w.ex.py.join(' ')}`);
 
 fs.writeFileSync(path.join(root, 'scripts/.kj-src.json'), JSON.stringify(srcOf));
 if (process.env.KJ_ALL) {
   // candidate lines the builder rejects (duplicates, bad readings…) are removed from the extra files
-  const mine = errors.filter((e) => /^(ko|ja)-extra\/[^:]+:\d+:/.test(e));
+  // Thai tokens without a romanization are listed, never pruned: add them to scripts/thai-dict.txt
+  const missing = [...new Set(errors.filter((e) => /no romanization for/.test(e)).map((e) => e.split('no romanization for ')[1]))];
+  if (missing.length) {
+    console.error(`missing romanization (${missing.length}): ${missing.join(' ')}`);
+    process.exit(3);
+  }
+  const mine = errors.filter((e) => /^(ko|ja|th)-extra\/[^:]+:\d+:/.test(e));
   const byFile = new Map();
   for (const e of mine) {
     const [f, n] = e.split(':');
@@ -540,6 +588,7 @@ writeCourse('zh', units, lessons);
 writeCourse('en', enUnits, enLessons);
 writeCourse('ko', ko.units, ko.lessons);
 writeCourse('ja', ja.units, ja.lessons);
+writeCourse('th', th.units, th.lessons);
 fs.rmSync(path.join(root, 'src/data/english.json'), { force: true });
 
 // Copy stroke-order data for every character used anywhere in the course.

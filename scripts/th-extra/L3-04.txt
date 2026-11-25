@@ -1,0 +1,64 @@
+=3
+@Học thuật|Đại học và nghiên cứu
+วิชาการ:wichakan|học thuật|เขา เขียน บทความ วิชาการ|Anh ấy viết bài báo học thuật.
+วิทยานิพนธ์:witthayaniphon|luận văn, luận án|เธอ เขียน วิทยานิพนธ์|Cô ấy viết luận văn.
+ปริญญาโท:parinyatho|bằng thạc sĩ|ผม เรียน ปริญญาโท|Tôi học thạc sĩ.
+ปริญญาเอก:parinya-ek|bằng tiến sĩ|เธอ จบ ปริญญาเอก|Cô ấy tốt nghiệp tiến sĩ.
+ศาสตราจารย์:sattrachan|giáo sư|ศาสตราจารย์ สอน วิชา นี้|Giáo sư dạy môn này.
+คณบดี:khanabodi|trưởng khoa|คณบดี เปิด งาน|Trưởng khoa khai mạc sự kiện.
+อธิการบดี:athikanbodi|hiệu trưởng đại học|อธิการบดี มา พูด|Hiệu trưởng đến phát biểu.
+ภาควิชา:phakwicha|bộ môn|ภาควิชา นี้ มี อาจารย์ สิบ คน|Bộ môn này có mười giảng viên.
+หน่วยกิต:nuaikit|tín chỉ|วิชา นี้ สาม หน่วยกิต|Môn này ba tín chỉ.
+ภาคเรียน:phakrian|học kỳ|ภาคเรียน นี้ ผม เรียน ห้า วิชา|Học kỳ này tôi học năm môn.
+ทุนการศึกษา:thunkansueksa|học bổng|เธอ ได้ ทุนการศึกษา|Cô ấy được học bổng.
+สัมมนา:sammana|hội thảo|พรุ่งนี้ มี สัมมนา|Ngày mai có hội thảo.
+อ้างอิง:ang-ing|trích dẫn, tham khảo|นักศึกษา อ้างอิง หนังสือ นี้|Sinh viên trích dẫn quyển sách này.
+บรรณานุกรม:bannanukrom|thư mục tham khảo|อย่า ลืม เขียน บรรณานุกรม|Đừng quên viết thư mục tham khảo.
+บทคัดย่อ:botkhatyo|tóm tắt (bài nghiên cứu)|บทคัดย่อ นี้ สั้น|Bản tóm tắt này ngắn.
+สังเคราะห์:sangkhro|tổng hợp|เขา สังเคราะห์ ผล วิจัย|Anh ấy tổng hợp kết quả nghiên cứu.
+ประเมิน:pramoen|đánh giá|ครู ประเมิน นักเรียน|Giáo viên đánh giá học sinh.
+สำรวจ:samruat|khảo sát|เรา สำรวจ ความเห็น ลูกค้า|Chúng tôi khảo sát ý kiến khách hàng.
+แบบสอบถาม:baepsopthan|bảng câu hỏi|ช่วย ตอบ แบบสอบถาม หน่อย|Làm ơn trả lời bảng câu hỏi.
+กลุ่มตัวอย่าง:klumtuayang|nhóm mẫu|กลุ่มตัวอย่าง มี ร้อย คน|Nhóm mẫu có một trăm người.
+ตัวแปร:tuaprae|biến số|ตัวแปร นี้ สำคัญ|Biến số này quan trọng.
+ข้อสรุป:khosarup|kết luận|ข้อสรุป นี้ ชัดเจน|Kết luận này rõ ràng.
+ข้อเท็จจริง:khothetching|sự kiện thực tế|เรา ต้อง ดู ข้อเท็จจริง|Chúng ta phải xem sự thật.
+แนวคิด:naeokhit|khái niệm, ý niệm|แนวคิด นี้ ใหม่|Khái niệm này mới.
+หลักการ:lakkan|nguyên tắc|เขา ทำ ตาม หลักการ|Anh ấy làm theo nguyên tắc.
+ตรรกะ:takka|lô gích|ตรรกะ นี้ ผิด|Lô gích này sai.
+ปรัชญา:pratya|triết học|เขา สอน ปรัชญา|Anh ấy dạy triết học.
+ภาษาศาสตร์:phasasat|ngôn ngữ học|เธอ เรียน ภาษาศาสตร์|Cô ấy học ngôn ngữ học.
+สังคมวิทยา:sangkhomwitthaya|xã hội học|ผม สนใจ สังคมวิทยา|Tôi quan tâm xã hội học.
+มานุษยวิทยา:manutsayawitthaya|nhân học|เขา เรียน มานุษยวิทยา|Anh ấy học nhân học.
+โบราณคดี:borannakhadi|khảo cổ học|เธอ ทำงาน ด้าน โบราณคดี|Cô ấy làm về khảo cổ học.
+สถาปัตยกรรม:sathapattayakam|kiến trúc|สถาปัตยกรรม ไทย สวย|Kiến trúc Thái đẹp.
+วิศวกรรม:witsawakam|kỹ thuật (ngành)|เขา เรียน วิศวกรรม|Anh ấy học ngành kỹ thuật.
+ความเชี่ยวชาญ:khwamchiaochan|chuyên môn|เขา มี ความเชี่ยวชาญ ด้าน นี้|Anh ấy có chuyên môn về lĩnh vực này.
+@Báo chí|Truyền thông và dư luận
+สื่อมวลชน:suemuanchon|truyền thông đại chúng|สื่อมวลชน รายงาน ข่าว นี้|Truyền thông đưa tin này.
+บรรณาธิการ:bannathikan|biên tập viên|บรรณาธิการ ตรวจ บทความ|Biên tập viên duyệt bài viết.
+ผู้ประกาศข่าว:phuprakatkhao|phát thanh viên thời sự|ผู้ประกาศข่าว อ่าน ข่าว|Phát thanh viên đọc tin.
+แถลงข่าว:thalaengkhao|họp báo|รัฐบาล แถลงข่าว เช้านี้|Chính phủ họp báo sáng nay.
+สัมภาษณ์พิเศษ:samphatphiset|phỏng vấn độc quyền|นักข่าว ได้ สัมภาษณ์พิเศษ|Phóng viên có bài phỏng vấn độc quyền.
+พาดหัว:phathua|tít báo|พาดหัว ข่าว วันนี้ น่าสนใจ|Tít báo hôm nay thú vị.
+คอลัมน์:kholam|chuyên mục|เขา เขียน คอลัมน์ ทุก อาทิตย์|Anh ấy viết chuyên mục mỗi tuần.
+ข่าวลือ:khaolue|tin đồn|อย่า เชื่อ ข่าวลือ|Đừng tin tin đồn.
+ข่าวปลอม:khaoplom|tin giả|ข่าวปลอม ระบาด บน อินเทอร์เน็ต|Tin giả lan tràn trên mạng.
+ออกอากาศ:ok-akat|phát sóng|รายการ นี้ ออกอากาศ ทุก คืน|Chương trình này phát sóng mỗi tối.
+ผู้ฟัง:phufang|thính giả|ผู้ฟัง โทร เข้า มา|Thính giả gọi điện đến.
+ยอดวิว:yotwio|lượt xem|คลิป นี้ ยอดวิว สูง|Đoạn phim này có lượt xem cao.
+เซ็นเซอร์:sensoe|kiểm duyệt|หนัง นี้ ถูก เซ็นเซอร์|Bộ phim này bị kiểm duyệt.
+โฆษณาชวนเชื่อ:khotsanachuanchuea|tuyên truyền|นี่ เป็น โฆษณาชวนเชื่อ|Đây là tuyên truyền.
+ประชาสัมพันธ์:prachasamphan|quan hệ công chúng|เธอ ทำงาน ฝ่าย ประชาสัมพันธ์|Cô ấy làm ở bộ phận quan hệ công chúng.
+ความคิดเห็นสาธารณะ:khwamkhithensatharana|dư luận|ความคิดเห็นสาธารณะ เปลี่ยน เร็ว|Dư luận thay đổi nhanh.
+กระแส:krasae|trào lưu, dòng|เพลง นี้ เป็น กระแส|Bài hát này đang thành trào lưu.
+วิจารณ์:wichan|phê bình|นักข่าว วิจารณ์ รัฐบาล|Phóng viên phê bình chính phủ.
+ยกย่อง:yokyong|ca ngợi, tôn vinh|ทุก คน ยกย่อง เขา|Mọi người ca ngợi anh ấy.
+ประณาม:pranam|lên án|ประชาชน ประณาม ความรุนแรง|Người dân lên án bạo lực.
+เผยแพร่:phoeiphrae|phổ biến, công bố|เขา เผยแพร่ ข้อมูล|Anh ấy công bố thông tin.
+ตีพิมพ์:tiphim|xuất bản, in|หนังสือ นี้ ตีพิมพ์ ปีที่แล้ว|Quyển sách này xuất bản năm ngoái.
+สำนักพิมพ์:samnakphim|nhà xuất bản|สำนักพิมพ์ นี้ ใหญ่|Nhà xuất bản này lớn.
+นิตยสารรายเดือน:nittayasanraiduean|tạp chí hằng tháng|ผม อ่าน นิตยสารรายเดือน|Tôi đọc tạp chí hằng tháng.
+สารคดี:sarakhadi|phim tài liệu|ผม ชอบ ดู สารคดี|Tôi thích xem phim tài liệu.
+บทบรรณาธิการ:botbannathikan|bài xã luận|บทบรรณาธิการ วันนี้ ดี|Bài xã luận hôm nay hay.
+แหล่งข่าว:laengkhao|nguồn tin|แหล่งข่าว บอก ว่า เขา ลาออก|Nguồn tin cho biết ông ấy từ chức.

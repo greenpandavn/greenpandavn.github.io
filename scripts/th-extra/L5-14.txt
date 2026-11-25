@@ -1,0 +1,67 @@
+=5
+@Nhạc lý và mỹ thuật|Kỹ thuật nghệ thuật
+ทฤษฎีดนตรี:thritsadidontri|nhạc lý|นักเรียน ดนตรี เรียน ทฤษฎีดนตรี|Học sinh nhạc học nhạc lý.
+โน้ตดนตรี:notdontri|nốt nhạc|เด็ก อ่าน โน้ตดนตรี ได้|Đứa trẻ đọc được nốt nhạc.
+บรรทัดห้าเส้น:banthathasen|khuông nhạc|ครู เขียน บรรทัดห้าเส้น บน กระดาน|Giáo viên kẻ khuông nhạc lên bảng.
+กุญแจซอล:kunchaeson|khóa sol|เพลง นี้ ใช้ กุญแจซอล|Bài này dùng khóa sol.
+บันไดเสียง:bandaisiang|âm giai|นักเปียโน ฝึก บันไดเสียง|Người chơi piano tập âm giai.
+คอร์ด:khot|hợp âm|เขา จับ คอร์ด กีตาร์|Anh ấy bấm hợp âm ghi ta.
+เสียงประสาน:siangprasan|hòa âm|นักร้อง ร้อง เสียงประสาน|Ca sĩ hát hòa âm.
+อัตราจังหวะ:attrachangwa|nhịp (số chỉ nhịp)|เพลง นี้ มี อัตราจังหวะ สาม สี่|Bài này nhịp ba bốn.
+ห้องเพลง:hongphleng|ô nhịp|ห้องเพลง นี้ มี สี่ จังหวะ|Ô nhịp này có bốn phách.
+เครื่องสาย:khrueangsai|nhạc cụ dây|ไวโอลิน เป็น เครื่องสาย|Vĩ cầm là nhạc cụ dây.
+เครื่องเป่าลมไม้:khrueangpaolommai|bộ gỗ (nhạc cụ hơi)|ฟลุต เป็น เครื่องเป่าลมไม้|Sáo flute thuộc bộ gỗ.
+เครื่องเป่าทองเหลือง:khrueangpaothonglueang|bộ đồng (nhạc cụ hơi)|ทรัมเป็ต เป็น เครื่องเป่าทองเหลือง|Kèn trumpet thuộc bộ đồng.
+เครื่องกระทบ:khrueangkrathop|bộ gõ|กลอง เป็น เครื่องกระทบ|Trống thuộc bộ gõ.
+วาทยกร:wathayakon|nhạc trưởng|วาทยกร ยก มือ ขึ้น|Nhạc trưởng giơ tay lên.
+คีตกวี:khitakawi|nhà soạn nhạc|โมสาร์ท เป็น คีตกวี เอก|Mozart là nhà soạn nhạc lớn.
+เรียบเรียงเสียงประสาน:riapriangsiangprasan|hòa âm phối khí|เขา เรียบเรียงเสียงประสาน เพลง นี้|Anh ấy hòa âm phối khí bài này.
+อุปรากร:upparakon|nhạc kịch opera|เรา ไป ดู อุปรากร|Chúng tôi đi xem opera.
+ขับร้องประสานเสียง:khaprongprasansiang|hát hợp xướng|นักเรียน ขับร้องประสานเสียง|Học sinh hát hợp xướng.
+จิตรกรรมสีน้ำมัน:chittrakamsinaman|tranh sơn dầu|ห้อง นี้ แสดง จิตรกรรมสีน้ำมัน|Phòng này trưng bày tranh sơn dầu.
+สีอะคริลิก:si-akhrilik|màu acrylic|ศิลปิน ใช้ สีอะคริลิก|Họa sĩ dùng màu acrylic.
+ถ่านชาร์โคล:thanchakhon|than vẽ|นักเรียน วาด ด้วย ถ่านชาร์โคล|Học sinh vẽ bằng than.
+ภาพร่าง:phaprang|bản phác thảo|ศิลปิน ทำ ภาพร่าง ก่อน|Họa sĩ làm bản phác thảo trước.
+ภาพหุ่นนิ่ง:phaphunning|tranh tĩnh vật|นักเรียน วาด ภาพหุ่นนิ่ง|Học sinh vẽ tranh tĩnh vật.
+ภาพทิวทัศน์:phapthiothat|tranh phong cảnh|ผม ซื้อ ภาพทิวทัศน์ ทะเล|Tôi mua tranh phong cảnh biển.
+ภาพนามธรรม:phapnamtham|tranh trừu tượng|ผม ไม่ เข้าใจ ภาพนามธรรม|Tôi không hiểu tranh trừu tượng.
+ภาพพิมพ์:phapphim|tranh in (đồ họa)|เธอ เรียน ทำ ภาพพิมพ์|Cô ấy học làm tranh in.
+ศิลปะจัดวาง:sinlapachatwang|nghệ thuật sắp đặt|หอศิลป์ แสดง ศิลปะจัดวาง|Phòng tranh trưng bày nghệ thuật sắp đặt.
+ทัศนียภาพ:thatsaniyaphap|phối cảnh|ครู สอน เขียน ทัศนียภาพ|Giáo viên dạy vẽ phối cảnh.
+แสงเงา:saengngao|sáng tối (hội họa)|ภาพ นี้ ใช้ แสงเงา ดี|Bức này dùng sáng tối tốt.
+องค์ประกอบศิลป์:ongprakopsin|bố cục nghệ thuật|นักศึกษา เรียน องค์ประกอบศิลป์|Sinh viên học bố cục nghệ thuật.
+ภัณฑารักษ์:phantharak|giám tuyển|ภัณฑารักษ์ เลือก ภาพ มา แสดง|Giám tuyển chọn tranh để trưng bày.
+@Ẩm thực vùng miền|Món và kỹ thuật nấu
+แกงมัสมั่น:kaengmatsaman|cà ri Massaman|แกงมัสมั่น มี มันฝรั่ง|Cà ri Massaman có khoai tây.
+แกงเขียวหวาน:kaengkhiaowan|cà ri xanh|ฉัน ชอบ แกงเขียวหวาน ไก่|Tôi thích cà ri xanh gà.
+แกงส้ม:kaengsom|canh chua cay kiểu Thái|แม่ ทำ แกงส้ม ปลา|Mẹ nấu canh chua cá.
+แกงไตปลา:kaengtaipla|cà ri lòng cá miền Nam|แกงไตปลา เผ็ด มาก|Cà ri lòng cá rất cay.
+แกงฮังเล:kaenghangle|cà ri Hang Le miền Bắc|เชียงใหม่ มี แกงฮังเล อร่อย|Chiang Mai có cà ri Hang Le ngon.
+ข้าวซอย:khaosoi|mì cà ri Khao Soi|ผม สั่ง ข้าวซอย ไก่|Tôi gọi mì Khao Soi gà.
+น้ำพริกหนุ่ม:namphriknum|ớt xanh giã kiểu Bắc|น้ำพริกหนุ่ม กิน กับ แคบหมู|Ớt xanh giã ăn với tóp mỡ.
+แคบหมู:khaepmu|tóp mỡ, da lợn chiên|ป้า ซื้อ แคบหมู จาก เชียงใหม่|Bác gái mua tóp mỡ từ Chiang Mai.
+ไส้อั่ว:sai-ua|lạp xưởng thảo mộc miền Bắc|ไส้อั่ว หอม สมุนไพร|Lạp xưởng miền Bắc thơm thảo mộc.
+ลาบ:lap|gỏi thịt băm (larb)|คน อีสาน ชอบ กิน ลาบ|Người Đông Bắc thích ăn gỏi thịt băm.
+ปลาร้า:plara|mắm cá lên men|ส้มตำ ใส่ ปลาร้า|Gỏi đu đủ cho mắm cá.
+ซุปหน่อไม้:supnomai|gỏi măng kiểu Isan|ยาย ทำ ซุปหน่อไม้|Bà ngoại làm gỏi măng.
+ข้าวยำ:khaoyam|cơm trộn miền Nam|ข้าวยำ เป็น อาหาร ใต้|Cơm trộn là món miền Nam.
+คั่วกลิ้ง:khuakling|thịt xào khô cay miền Nam|คั่วกลิ้ง เผ็ด ร้อน|Thịt xào khô miền Nam cay nóng.
+ผัดสะตอ:phatsato|đậu sato xào|พ่อ ชอบ ผัดสะตอ กุ้ง|Bố thích đậu sato xào tôm.
+ขนมจีน:khanomchin|bún tươi|เรา กิน ขนมจีน ตอน เช้า|Chúng tôi ăn bún buổi sáng.
+น้ำยา:namya|nước sốt cà ri cá (ăn bún)|ขนมจีน ราด น้ำยา|Bún chan nước sốt cà ri cá.
+ห่อหมก:homok|cá hấp cà ri trong lá|แม่ ทำ ห่อหมก ปลา|Mẹ làm cá hấp cà ri.
+ทอดมัน:thotman|chả cá chiên|ทอดมัน กิน กับ น้ำจิ้ม|Chả cá chiên ăn với nước chấm.
+ยำวุ้นเส้น:yamwunsen|gỏi miến|ฉัน สั่ง ยำวุ้นเส้น|Tôi gọi gỏi miến.
+ต้มโคล้ง:tomkhlong|canh chua cá khô|ต้มโคล้ง ใส่ ปลา ย่าง|Canh chua cho cá nướng.
+พะแนง:phanaeng|cà ri Panang|พะแนง เนื้อ อร่อย มาก|Cà ri Panang bò rất ngon.
+ฉู่ฉี่:chuchi|cà ri khô chu chi|แม่ ทำ ฉู่ฉี่ ปลาทู|Mẹ làm cà ri chu chi cá bạc má.
+ข้าวคลุกกะปิ:khaokhlukkapi|cơm trộn mắm tôm|ผม ชอบ ข้าวคลุกกะปิ|Tôi thích cơm trộn mắm tôm.
+ข้าวหมกไก่:khaomokkai|cơm gà kiểu Hồi|ร้าน มุสลิม ขาย ข้าวหมกไก่|Quán Hồi giáo bán cơm gà.
+โรตี:roti|bánh roti|เด็ก ชอบ กิน โรตี|Trẻ con thích ăn bánh roti.
+ทองหยิบ:thongyip|bánh thong yip (trứng đường)|ทองหยิบ เป็น ขนม ไทย โบราณ|Thong yip là món bánh Thái cổ.
+ฝอยทอง:foithong|sợi trứng vàng (foi thong)|ฝอยทอง ทำ จาก ไข่ แดง|Sợi trứng vàng làm từ lòng đỏ.
+ขนมชั้น:khanomchan|bánh chín tầng|ยาย ทำ ขนมชั้น|Bà ngoại làm bánh chín tầng.
+ลูกชุบ:lukchup|bánh đậu xanh hình trái cây|ลูกชุบ มี หลาย สี|Bánh đậu xanh hình trái cây có nhiều màu.
+บัวลอย:bualoi|chè trôi nước Thái|บัวลอย ใส่ กะทิ|Chè trôi nước cho nước cốt dừa.
+รวน:ruan|xào sơ không dầu|แม่ รวน หมู ก่อน|Mẹ xào sơ thịt lợn trước.
+หมักดอง:makdong|muối chua, lên men|ยาย หมักดอง ผัก|Bà ngoại muối dưa rau.

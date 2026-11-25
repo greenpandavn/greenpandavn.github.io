@@ -29,7 +29,7 @@ export interface Lesson {
   cost?: number;
 }
 
-export type CourseId = 'zh' | 'en' | 'ko' | 'ja';
+export type CourseId = 'zh' | 'en' | 'ko' | 'ja' | 'th';
 /** Courses whose progress is stored under their own key (Chinese is stored at the top level). */
 export type SubCourseId = Exclude<CourseId, 'zh'>;
 
@@ -110,6 +110,7 @@ export interface Progress {
   /** Korean- and Japanese-course progress. */
   ko?: CourseProgress;
   ja?: CourseProgress;
+  th?: CourseProgress;
 }
 
 export interface MockResult {

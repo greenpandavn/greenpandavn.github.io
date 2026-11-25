@@ -1,0 +1,70 @@
+=4
+@Nha khoa và làm đẹp|Răng miệng, thẩm mỹ
+ทันตกรรม:thantakam|nha khoa|คลินิก นี้ ทำ ทันตกรรม|Phòng khám này làm nha khoa.
+ฟันน้ำนม:fannamnom|răng sữa|ฟันน้ำนม ของ ลูก หลุด|Răng sữa của con rụng.
+ฟันแท้:fanthae|răng vĩnh viễn|ฟันแท้ ขึ้น แล้ว|Răng vĩnh viễn đã mọc.
+ฟันกราม:fankram|răng hàm|ผม ปวด ฟันกราม|Tôi đau răng hàm.
+ฟันคุด:fankhut|răng khôn mọc lệch|หมอ ผ่า ฟันคุด|Bác sĩ mổ răng khôn.
+ฟันปลอม:fanplom|răng giả|ปู่ ใส่ ฟันปลอม|Ông nội đeo răng giả.
+ฟันผุ:fanphu|sâu răng|เด็ก กิน ขนม จน ฟันผุ|Đứa trẻ ăn kẹo đến sâu răng.
+หินปูนในฟัน:hinpunnaifan|cao răng|หมอ ขูด หินปูนในฟัน|Bác sĩ cạo cao răng.
+อุดฟัน:utfan|trám răng|ผม ไป อุดฟัน|Tôi đi trám răng.
+ถอนฟัน:thonfan|nhổ răng|หมอ ถอนฟัน ให้ ยาย|Bác sĩ nhổ răng cho bà ngoại.
+จัดฟัน:chatfan|niềng răng|วัยรุ่น ชอบ จัดฟัน|Giới trẻ thích niềng răng.
+รากฟันเทียม:rakfanthiam|cấy ghép răng implant|ลุง ทำ รากฟันเทียม|Bác trai làm răng implant.
+ฟอกสีฟัน:foksifan|tẩy trắng răng|เธอ ไป ฟอกสีฟัน|Cô ấy đi tẩy trắng răng.
+ไหมขัดฟัน:maikhatfan|chỉ nha khoa|ใช้ ไหมขัดฟัน ทุก วัน|Dùng chỉ nha khoa mỗi ngày.
+น้ำยาบ้วนปาก:namyabuanpak|nước súc miệng|ผม ใช้ น้ำยาบ้วนปาก|Tôi dùng nước súc miệng.
+เหงือกอักเสบ:ngueak-aksep|viêm lợi|เขา เป็น เหงือกอักเสบ|Anh ấy bị viêm lợi.
+ศัลยกรรมตกแต่ง:sanlayakamtoktaeng|phẫu thuật thẩm mỹ|เธอ ทำ ศัลยกรรมตกแต่ง|Cô ấy phẫu thuật thẩm mỹ.
+เสริมจมูก:soemchamuk|nâng mũi|ดารา คน นี้ เสริมจมูก|Diễn viên này nâng mũi.
+ทำตาสองชั้น:thamtasongchan|cắt mắt hai mí|เธอ อยาก ทำตาสองชั้น|Cô ấy muốn cắt mắt hai mí.
+ดูดไขมัน:dutkhaiman|hút mỡ|เขา ไป ดูดไขมัน|Anh ấy đi hút mỡ.
+ฉีดฟิลเลอร์:chitfinloe|tiêm chất làm đầy|คลินิก นี้ ฉีดฟิลเลอร์|Phòng khám này tiêm chất làm đầy.
+ฝ้า:fa|nám da|แดด ทำให้ เป็น ฝ้า|Nắng gây nám da.
+กระ:kra|tàn nhang|หน้า ของ เธอ มี กระ|Mặt cô ấy có tàn nhang.
+สิว:sio|mụn trứng cá|วัยรุ่น เป็น สิว มาก|Tuổi mới lớn hay bị mụn.
+รอยแผลเป็น:roiphlaepen|sẹo|เขา มี รอยแผลเป็น ที่ แขน|Anh ấy có sẹo ở tay.
+ครีมกันแดด:khrimkandaet|kem chống nắng|ทา ครีมกันแดด ก่อน ออก บ้าน|Bôi kem chống nắng trước khi ra khỏi nhà.
+ครีมบำรุงผิว:khrimbamrungphio|kem dưỡng da|แม่ ซื้อ ครีมบำรุงผิว|Mẹ mua kem dưỡng da.
+รองพื้น:rongphuen|kem nền|เธอ ทา รองพื้น|Cô ấy thoa kem nền.
+แป้งฝุ่น:paengfun|phấn phủ|ฉัน ใช้ แป้งฝุ่น|Tôi dùng phấn phủ.
+อายแชโดว์:aichaedo|phấn mắt|อายแชโดว์ สี นี้ สวย|Màu phấn mắt này đẹp.
+มาสคาร่า:matkhara|chuốt mi (mascara)|เธอ ปัด มาสคาร่า|Cô ấy chuốt mascara.
+ดินสอเขียนคิ้ว:dinsokhiankhio|chì kẻ mày|ฉัน ซื้อ ดินสอเขียนคิ้ว|Tôi mua chì kẻ mày.
+น้ำยาล้างเล็บ:namyalanglep|nước tẩy sơn móng|ขอ น้ำยาล้างเล็บ หน่อย|Cho xin nước tẩy sơn móng.
+ต่อขนตา:tokhonta|nối mi|เธอ ไป ต่อขนตา|Cô ấy đi nối mi.
+สักคิ้ว:sakkhio|xăm lông mày|ป้า ไป สักคิ้ว|Bác gái đi xăm lông mày.
+@Dụng cụ|Đồ nghề bếp và xưởng
+ครก:khrok|cối giã|แม่ ตำ น้ำพริก ใน ครก|Mẹ giã ớt trong cối.
+สาก:sak|chày|ขอ สาก หน่อย|Cho xin cái chày.
+ตะหลิว:talio|xẻng xào|ใช้ ตะหลิว ผัด ผัก|Dùng xẻng xào để xào rau.
+ทัพพี:thapphi|muôi xới cơm|ยาย ใช้ ทัพพี ตัก ข้าว|Bà ngoại dùng muôi xới cơm.
+กระบวย:krabuai|gáo, vá múc|เขา ใช้ กระบวย ตัก น้ำ|Anh ấy dùng gáo múc nước.
+ที่เปิดขวด:thipoetkhuat|đồ mở chai|ที่เปิดขวด อยู่ ไหน|Đồ mở chai ở đâu?
+ตะแกรง:takraeng|vỉ nướng, cái rây|พ่อ ย่าง ปลา บน ตะแกรง|Bố nướng cá trên vỉ.
+ซึ้ง:sueng|nồi hấp, xửng|แม่ นึ่ง ขนม ใน ซึ้ง|Mẹ hấp bánh trong xửng.
+หวด:huat|chõ đồ xôi|ยาย นึ่ง ข้าวเหนียว ใน หวด|Bà ngoại đồ xôi trong chõ.
+กระติบ:kratip|giỏ đựng xôi|ข้าวเหนียว อยู่ ใน กระติบ|Xôi ở trong giỏ.
+คีม:khim|cái kìm|ช่าง ใช้ คีม ตัด ลวด|Thợ dùng kìm cắt dây thép.
+ประแจ:prachae|cờ lê|ช่าง ใช้ ประแจ ขัน น็อต|Thợ dùng cờ lê vặn đai ốc.
+เลื่อย:lueai|cái cưa|ช่างไม้ ใช้ เลื่อย ตัด ไม้|Thợ mộc dùng cưa cắt gỗ.
+สว่าน:sawan|máy khoan|พ่อ ใช้ สว่าน เจาะ ผนัง|Bố dùng máy khoan khoan tường.
+สิ่ว:sio|cái đục|ช่าง ใช้ สิ่ว แกะสลัก ไม้|Thợ dùng đục chạm gỗ.
+กบไสไม้:kopsaimai|cái bào gỗ|ช่างไม้ ใช้ กบไสไม้|Thợ mộc dùng bào gỗ.
+ตะไบ:tabai|cái giũa|ช่าง ใช้ ตะไบ ขัด เหล็ก|Thợ dùng giũa mài sắt.
+ตลับเมตร:talapmet|thước cuộn|ช่าง วัด ด้วย ตลับเมตร|Thợ đo bằng thước cuộn.
+ระดับน้ำ:radapnam|ống thủy cân bằng; mực nước|ช่าง ใช้ ระดับน้ำ วัด พื้น|Thợ dùng ống thủy đo sàn.
+เกรียง:kriang|cái bay (thợ xây)|ช่าง ปูน ใช้ เกรียง|Thợ xây dùng cái bay.
+จอบ:chop|cái cuốc|ชาวนา ใช้ จอบ ขุด ดิน|Nông dân dùng cuốc đào đất.
+เสียม:siam|cái thuổng, xẻng nhỏ|ลุง ใช้ เสียม ปลูก ต้นไม้|Bác trai dùng thuổng trồng cây.
+พลั่ว:phlua|cái xẻng|คน งาน ใช้ พลั่ว ตัก ทราย|Công nhân dùng xẻng xúc cát.
+เคียว:khiao|cái liềm|ชาวนา ใช้ เคียว เกี่ยว ข้าว|Nông dân dùng liềm gặt lúa.
+ขวาน:khwan|cái rìu|ลุง ใช้ ขวาน ผ่า ฟืน|Bác trai dùng rìu bổ củi.
+มีดพร้า:mitphra|dao rựa|ชาวสวน ถือ มีดพร้า|Người làm vườn cầm dao rựa.
+บันไดพับ:bandaiphap|thang gấp|ช่าง ขึ้น บันไดพับ|Thợ leo thang gấp.
+รถเข็น:rotkhen|xe đẩy|แม่ ใช้ รถเข็น ใน ห้าง|Mẹ dùng xe đẩy trong trung tâm thương mại.
+ถังดับเพลิง:thangdapphloeng|bình chữa cháy|ทุก ชั้น มี ถังดับเพลิง|Tầng nào cũng có bình chữa cháy.
+สายยาง:saiyang|ống nước mềm|พ่อ ใช้ สายยาง รด น้ำ ต้นไม้|Bố dùng ống nước tưới cây.
+บัวรดน้ำ:buarotnam|bình tưới cây|ยาย ถือ บัวรดน้ำ|Bà ngoại cầm bình tưới.
+ไม้กวาดทางมะพร้าว:maikwatthangmaphrao|chổi cọng dừa|ลุง กวาด ลาน ด้วย ไม้กวาดทางมะพร้าว|Bác trai quét sân bằng chổi cọng dừa.

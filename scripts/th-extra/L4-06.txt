@@ -1,0 +1,61 @@
+=4
+@Sinh vật biển và côn trùng|Loài cụ thể
+ปะการัง:pakarang|san hô|ปะการัง ที่ นี่ สวย|San hô ở đây đẹp.
+ดาวทะเล:daothale|sao biển|เด็ก เจอ ดาวทะเล บน หาด|Đứa trẻ gặp sao biển trên bãi.
+ม้าน้ำ:manam|cá ngựa|ม้าน้ำ ว่ายน้ำ ช้า|Cá ngựa bơi chậm.
+ปลากระเบน:plakraben|cá đuối|นักดำน้ำ เห็น ปลากระเบน|Thợ lặn thấy cá đuối.
+พะยูน:phayun|bò biển|พะยูน กิน หญ้าทะเล|Bò biển ăn cỏ biển.
+เต่าทะเล:taothale|rùa biển|เต่าทะเล วางไข่ บน หาด|Rùa biển đẻ trứng trên bãi.
+หอยนางรม:hoinangrom|con hàu|ผม ชอบ กิน หอยนางรม|Tôi thích ăn hàu.
+หอยแมลงภู่:hoimalaengphu|con vẹm xanh|แม่ ซื้อ หอยแมลงภู่|Mẹ mua vẹm xanh.
+หอยเชลล์:hoichen|sò điệp|หอยเชลล์ ย่าง อร่อย|Sò điệp nướng ngon.
+กุ้งมังกร:kungmangkon|tôm hùm|กุ้งมังกร ราคา แพง|Tôm hùm giá đắt.
+ปูม้า:puma|ghẹ|เรา กิน ปูม้า ที่ ชะอำ|Chúng tôi ăn ghẹ ở Cha-am.
+ปลาทู:plathu|cá bạc má|คน ไทย ชอบ กิน ปลาทู|Người Thái thích ăn cá bạc má.
+ปลากะพง:plakaphong|cá chẽm|แม่ นึ่ง ปลากะพง|Mẹ hấp cá chẽm.
+ปลาดุก:pladuk|cá trê|ปลาดุก ย่าง หอม มาก|Cá trê nướng rất thơm.
+ปลานิล:planin|cá rô phi|ชาวบ้าน เลี้ยง ปลานิล|Dân làng nuôi cá rô phi.
+ปลาช่อน:plachon|cá lóc|ใน นา มี ปลาช่อน|Trong ruộng có cá lóc.
+ปลาไหล:plalai|con lươn|ปลาไหล ลื่น มาก|Lươn rất trơn.
+ปลาทอง:plathong|cá vàng|ลูก เลี้ยง ปลาทอง|Con nuôi cá vàng.
+ปลาแซลมอน:plasaenmon|cá hồi|ฉัน ชอบ ปลาแซลมอน ดิบ|Tôi thích cá hồi sống.
+ปลาทูน่า:plathuna|cá ngừ|ไทย ส่งออก ปลาทูน่า|Thái Lan xuất khẩu cá ngừ.
+สาหร่าย:sarai|rong biển|เด็ก ชอบ กิน สาหร่าย|Trẻ em thích ăn rong biển.
+แพลงก์ตอน:phlaengton|sinh vật phù du|ปลา เล็ก กิน แพลงก์ตอน|Cá nhỏ ăn sinh vật phù du.
+แมลงปอ:malaengpo|chuồn chuồn|แมลงปอ บิน เหนือ น้ำ|Chuồn chuồn bay trên mặt nước.
+จิ้งหรีด:chingrit|con dế|กลางคืน จิ้งหรีด ร้อง|Ban đêm dế kêu.
+จักจั่น:chakkachan|ve sầu|หน้าร้อน จักจั่น ร้อง ดัง|Mùa hè ve kêu to.
+หิ่งห้อย:hinghoi|đom đóm|เรา ไป ดู หิ่งห้อย|Chúng tôi đi xem đom đóm.
+ด้วง:duang|bọ cánh cứng|เด็ก จับ ด้วง|Đứa trẻ bắt bọ cánh cứng.
+ตะขาบ:takhap|con rết|ระวัง ตะขาบ กัด|Coi chừng rết cắn.
+แมงป่อง:maengpong|bọ cạp|แมงป่อง มี พิษ|Bọ cạp có độc.
+หนอนผีเสื้อ:nonphisuea|sâu bướm|หนอนผีเสื้อ กิน ใบไม้|Sâu bướm ăn lá cây.
+ไหม:mai|tơ, con tằm|ชาวบ้าน เลี้ยง ไหม|Dân làng nuôi tằm.
+เห็บ:hep|con ve (bét)|หมา มี เห็บ|Con chó có ve.
+@Chim và cây trái|Loài cụ thể
+นกกระจอก:nokkrachok|chim sẻ|นกกระจอก กิน ข้าว|Chim sẻ ăn thóc.
+นกพิราบ:nokphirap|chim bồ câu|ที่ วัด มี นกพิราบ มาก|Ở chùa có nhiều bồ câu.
+นกอินทรี:nok-insi|đại bàng|นกอินทรี บิน สูง|Đại bàng bay cao.
+นกกระยาง:nokkrayang|con cò|นกกระยาง ยืน ใน นา|Cò đứng trong ruộng.
+นกเงือก:nokngueak|chim hồng hoàng|นกเงือก อยู่ ใน ป่า ใหญ่|Hồng hoàng sống trong rừng lớn.
+นกนางแอ่น:noknang-aen|chim én|นกนางแอ่น มา ใน หน้าหนาว|Chim én đến vào mùa lạnh.
+นกกระจอกเทศ:nokkrachokthet|đà điểu|นกกระจอกเทศ วิ่ง เร็ว|Đà điểu chạy nhanh.
+หงส์:hong|thiên nga|หงส์ ว่ายน้ำ ใน สระ|Thiên nga bơi trong hồ.
+ไก่งวง:kainguang|gà tây|ฝรั่ง กิน ไก่งวง|Người Tây ăn gà tây.
+ลำไย:lamyai|quả nhãn|ลำไย จาก ลำพูน หวาน|Nhãn Lamphun ngọt.
+ลิ้นจี่:linchi|quả vải|ลิ้นจี่ ออก ใน หน้าร้อน|Vải ra vào mùa hè.
+ลองกอง:longkong|quả bòn bon|ภาคใต้ มี ลองกอง มาก|Miền Nam có nhiều bòn bon.
+ขนุน:khanun|quả mít|ขนุน ลูก นี้ ใหญ่|Quả mít này to.
+น้อยหน่า:noina|quả na|น้อยหน่า หวาน มาก|Quả na rất ngọt.
+ชมพู่:chomphu|quả roi (mận)|ชมพู่ กรอบ และ หวาน|Quả roi giòn và ngọt.
+มะขาม:makham|quả me|มะขาม เปรี้ยว|Quả me chua.
+มะเฟือง:mafueang|quả khế|มะเฟือง มี ห้า เหลี่ยม|Quả khế có năm cạnh.
+ทับทิม:thapthim|quả lựu; hồng ngọc|ทับทิม มี เมล็ด สี แดง|Quả lựu có hạt màu đỏ.
+สละ:sala|quả mây (salak)|สละ มี รส เปรี้ยว หวาน|Quả salak có vị chua ngọt.
+มะเขือยาว:makhueayao|cà tím|แม่ ผัด มะเขือยาว|Mẹ xào cà tím.
+ถั่วฝักยาว:thuafakyao|đậu đũa|ส้มตำ ใส่ ถั่วฝักยาว|Gỏi đu đủ cho đậu đũa.
+คะน้า:khana|cải làn|คะน้า หมู กรอบ อร่อย|Cải làn thịt giòn ngon.
+กะเพรา:kaphrao|húng quế tây (lá krapao)|ผัด กะเพรา เป็น อาหาร ยอดนิยม|Món xào lá krapao là món được ưa chuộng.
+มะระ:mara|mướp đắng|มะระ ขม แต่ มี ประโยชน์|Mướp đắng đắng nhưng bổ.
+หน่อไม้:nomai|măng|แกง หน่อไม้ อร่อย|Canh măng ngon.
+เผือก:phueak|khoai môn|ขนม นี้ ทำ จาก เผือก|Bánh này làm từ khoai môn.

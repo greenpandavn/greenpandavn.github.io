@@ -1,0 +1,71 @@
+=3
+@Quân sự và an ninh|Lực lượng và bảo vệ
+ทหารบก:thahanbok|lục quân|พี่ชาย เป็น ทหารบก|Anh trai là lính lục quân.
+ทหารเรือ:thahanruea|hải quân|ทหารเรือ อยู่ บน เรือ|Lính hải quân ở trên tàu.
+ทหารอากาศ:thahan-akat|không quân|เขา เป็น ทหารอากาศ|Anh ấy là lính không quân.
+นายพล:naiphon|tướng|นายพล สั่ง ทหาร|Vị tướng ra lệnh cho lính.
+นายทหาร:naithahan|sĩ quan|นายทหาร คน นี้ เก่ง|Sĩ quan này giỏi.
+เกณฑ์ทหาร:kenthahan|nghĩa vụ quân sự|ชาย ไทย ต้อง เกณฑ์ทหาร|Nam giới Thái phải đi nghĩa vụ quân sự.
+ค่ายทหาร:khaithahan|doanh trại|ค่ายทหาร อยู่ นอก เมือง|Doanh trại ở ngoài thành phố.
+อาวุธ:awut|vũ khí|ตำรวจ พบ อาวุธ|Cảnh sát tìm thấy vũ khí.
+กระสุน:krasun|đạn|ปืน นี้ ไม่ มี กระสุน|Khẩu súng này không có đạn.
+รถถัง:rotthang|xe tăng|รถถัง วิ่ง บน ถนน|Xe tăng chạy trên đường.
+เรือรบ:ruearop|tàu chiến|เรือรบ จอด ที่ ท่าเรือ|Tàu chiến đậu ở cảng.
+เครื่องบินรบ:khrueangbinrop|máy bay chiến đấu|เครื่องบินรบ บิน เร็ว มาก|Máy bay chiến đấu bay rất nhanh.
+ขีปนาวุธ:khipanawut|tên lửa|ประเทศ นี้ ทดลอง ขีปนาวุธ|Nước này thử tên lửa.
+พันธมิตร:phanthamit|đồng minh|สอง ประเทศ เป็น พันธมิตร|Hai nước là đồng minh.
+โจมตี:chomti|tấn công|ศัตรู โจมตี ตอน กลางคืน|Kẻ thù tấn công vào ban đêm.
+ป้องกันประเทศ:pongkanprathet|bảo vệ đất nước|ทหาร ป้องกันประเทศ|Quân lính bảo vệ đất nước.
+ถอยทัพ:thoithap|rút quân|กองทัพ ถอยทัพ|Quân đội rút quân.
+ยอมจำนน:yomchamnon|đầu hàng|ศัตรู ยอมจำนน|Kẻ thù đầu hàng.
+หยุดยิง:yutying|ngừng bắn|สอง ฝ่าย ตกลง หยุดยิง|Hai bên đồng ý ngừng bắn.
+เชลย:chaloei|tù binh|ทหาร ปล่อย เชลย|Quân lính thả tù binh.
+สายลับ:sailap|gián điệp|เขา เป็น สายลับ|Anh ta là gián điệp.
+ข่าวกรอง:khaokrong|tin tình báo|กองทัพ ได้ ข่าวกรอง ใหม่|Quân đội nhận được tin tình báo mới.
+ก่อการร้าย:kokanrai|khủng bố|รัฐบาล ต่อต้าน:totan ก่อการร้าย|Chính phủ chống khủng bố.
+ต่อต้าน:totan|chống lại|ประชาชน ต่อต้าน สงคราม|Người dân chống chiến tranh.
+ตัวประกัน:tuaprakan|con tin|ตำรวจ ช่วย ตัวประกัน|Cảnh sát giải cứu con tin.
+ลักพาตัว:lakphatua|bắt cóc|โจร ลักพาตัว เด็ก|Kẻ gian bắt cóc đứa trẻ.
+กล้องวงจรปิด:klongwongchonpit|camera giám sát|ร้าน นี้ มี กล้องวงจรปิด|Cửa hàng này có camera giám sát.
+สัญญาณเตือนภัย:sanyantueanphai|chuông báo động|สัญญาณเตือนภัย ดัง|Chuông báo động kêu.
+ภาวะฉุกเฉิน:phawachukchoen|tình trạng khẩn cấp|รัฐบาล ประกาศ ภาวะฉุกเฉิน|Chính phủ ban bố tình trạng khẩn cấp.
+เคอร์ฟิว:khoefio|giới nghiêm|เมือง นี้ มี เคอร์ฟิว|Thành phố này có giới nghiêm.
+อพยพ:opphayop|sơ tán, di cư|ชาวบ้าน อพยพ หนี น้ำท่วม|Dân làng sơ tán tránh lũ.
+หลุมหลบภัย:lumlopphai|hầm trú ẩn|คน เข้า ไป ใน หลุมหลบภัย|Mọi người vào hầm trú ẩn.
+ด่านตรวจ:dantruat|trạm kiểm soát|ตำรวจ ตั้ง ด่านตรวจ|Cảnh sát lập trạm kiểm soát.
+ลาดตระเวน:lattrawen|tuần tra|ทหาร ลาดตระเวน ชายแดน|Quân lính tuần tra biên giới.
+ความมั่นคง:khwammankhong|an ninh, sự ổn định|ความมั่นคง ของ ชาติ สำคัญ|An ninh quốc gia quan trọng.
+@Vận tải và kỹ thuật|Hạ tầng, xây dựng
+โลจิสติกส์:lochisatik|hậu cần, logistics|บริษัท นี้ ทำ โลจิสติกส์|Công ty này làm hậu cần.
+ขนส่งมวลชน:khonsongmuanchon|giao thông công cộng|กรุงเทพ มี ขนส่งมวลชน ดี|Bangkok có giao thông công cộng tốt.
+ทางหลวง:thangluang|quốc lộ|ทางหลวง นี้ ยาว มาก|Quốc lộ này rất dài.
+ทางแยก:thangyaek|ngã rẽ, giao lộ|เลี้ยว ขวา ที่ ทางแยก|Rẽ phải ở giao lộ.
+วงเวียน:wongwian|bùng binh|รถ วิ่ง รอบ วงเวียน|Xe chạy quanh bùng binh.
+อุโมงค์:umong|đường hầm|รถไฟ เข้า อุโมงค์|Tàu hỏa vào đường hầm.
+รางรถไฟ:rangrotfai|đường ray|อย่า เดิน บน รางรถไฟ|Đừng đi trên đường ray.
+รถไฟความเร็วสูง:rotfaikhwamreosung|tàu cao tốc|ไทย สร้าง รถไฟความเร็วสูง|Thái Lan xây tàu cao tốc.
+ท่าอากาศยาน:tha-akatsayan|cảng hàng không|ท่าอากาศยาน นี้ ใหญ่|Cảng hàng không này lớn.
+รันเวย์:ranwe|đường băng|เครื่องบิน อยู่ บน รันเวย์|Máy bay ở trên đường băng.
+ตู้คอนเทนเนอร์:tukhonthennoe|công ten nơ|เรือ ขน ตู้คอนเทนเนอร์|Tàu chở công ten nơ.
+สินค้าคงคลัง:sinkhakhongkhlang|hàng tồn kho|ร้าน ตรวจ สินค้าคงคลัง|Cửa hàng kiểm hàng tồn kho.
+ค่าระวาง:kharawang|cước vận chuyển hàng|ค่าระวาง เรือ แพง ขึ้น|Cước tàu biển đắt lên.
+ใบขนสินค้า:baikhonsinkha|tờ khai hàng hóa|ศุลกากร ตรวจ ใบขนสินค้า|Hải quan kiểm tra tờ khai hàng hóa.
+โครงสร้างพื้นฐาน:khrongsangphuenthan|cơ sở hạ tầng|ประเทศ ลงทุน ใน โครงสร้างพื้นฐาน|Đất nước đầu tư vào cơ sở hạ tầng.
+ฐานราก:thanrak|nền móng|ฐานราก ของ ตึก แข็งแรง|Nền móng tòa nhà vững chắc.
+เสาเข็ม:saokhem|cọc móng|คน งาน ตอก:tok เสาเข็ม|Công nhân đóng cọc móng.
+คาน:khan|dầm, xà|คาน นี้ ทำ จาก เหล็ก|Cái dầm này làm bằng thép.
+คอนกรีต:khonkrit|bê tông|ถนน นี้ เป็น คอนกรีต|Con đường này bằng bê tông.
+นั่งร้าน:nangran|giàn giáo|ช่าง ยืน บน นั่งร้าน|Thợ đứng trên giàn giáo.
+แบบแปลน:baepplaen|bản vẽ thiết kế|วิศวกร ดู แบบแปลน|Kỹ sư xem bản vẽ.
+รถขุด:rotkhut|máy xúc|รถขุด ขุด ดิน|Máy xúc đào đất.
+เครน:khren|cần cẩu|เครน ยก เหล็ก|Cần cẩu nâng thép.
+เขตก่อสร้าง:khetkosang|khu vực thi công|ห้าม เข้า เขตก่อสร้าง|Cấm vào khu vực thi công.
+ระบบระบายน้ำ:raboprabainam|hệ thống thoát nước|เมือง นี้ มี ระบบระบายน้ำ ดี|Thành phố này có hệ thống thoát nước tốt.
+ประปา:prapa|nước máy|หมู่บ้าน นี้ มี ประปา แล้ว|Ngôi làng này đã có nước máy.
+สายส่งไฟฟ้า:saisongfaifa|đường dây tải điện|สายส่งไฟฟ้า ผ่าน หมู่บ้าน|Đường dây tải điện đi qua làng.
+สถานีไฟฟ้า:sathanifaifa|trạm điện|สถานีไฟฟ้า อยู่ ใกล้ โรงงาน|Trạm điện ở gần nhà máy.
+ท่อส่งน้ำมัน:thosongnamman|đường ống dẫn dầu|ท่อส่งน้ำมัน ยาว มาก|Đường ống dẫn dầu rất dài.
+บำรุงรักษา:bamrungraksa|bảo trì|ช่าง บำรุงรักษา เครื่อง|Thợ bảo trì máy.
+ชำรุด:chamrut|hư hỏng|ถนน นี้ ชำรุด|Con đường này hư hỏng.
+อะไหล่:alai|phụ tùng|ร้าน นี้ ขาย อะไหล่ รถ|Cửa hàng này bán phụ tùng xe.
+มาตรฐานความปลอดภัย:mattrathankhwamplotphai|tiêu chuẩn an toàn|โรงงาน มี มาตรฐานความปลอดภัย|Nhà máy có tiêu chuẩn an toàn.

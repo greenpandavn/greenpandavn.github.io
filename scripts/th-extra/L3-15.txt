@@ -1,0 +1,71 @@
+=3
+@Giáo dục và phát triển|Chính sách học tập
+การศึกษาภาคบังคับ:kansueksaphakbangkhap|giáo dục bắt buộc|การศึกษาภาคบังคับ มี เก้า ปี|Giáo dục bắt buộc là chín năm.
+การศึกษานอกระบบ:kansueksanokrabop|giáo dục không chính quy|ผู้ใหญ่ เรียน การศึกษานอกระบบ|Người lớn học giáo dục không chính quy.
+การเรียนรู้ตลอดชีวิต:kanrianrutalotchiwit|học tập suốt đời|รัฐบาล ส่งเสริม การเรียนรู้ตลอดชีวิต|Chính phủ khuyến khích học tập suốt đời.
+อาชีวศึกษา:achiwasueksa|giáo dục nghề|เขา เรียน อาชีวศึกษา|Anh ấy học trường nghề.
+อุดมศึกษา:udomsueksa|giáo dục đại học|อุดมศึกษา ของ ไทย พัฒนา ขึ้น|Giáo dục đại học của Thái Lan phát triển lên.
+ปฐมวัย:pathommawai|tuổi mầm non|ครู สอน เด็ก ปฐมวัย|Giáo viên dạy trẻ mầm non.
+สอบเข้า:sopkhao|thi đầu vào|นักเรียน เตรียม สอบเข้า มหาวิทยาลัย|Học sinh chuẩn bị thi vào đại học.
+ผลการเรียน:phonkanrian|kết quả học tập|ผลการเรียน ของ ลูก ดี|Kết quả học tập của con tốt.
+เกรดเฉลี่ย:kretchalia|điểm trung bình tích lũy|เกรดเฉลี่ย ของ เธอ สูง|Điểm trung bình của cô ấy cao.
+ใบรับรองผลการเรียน:bairaprongphonkanrian|bảng điểm|ผม ขอ ใบรับรองผลการเรียน|Tôi xin bảng điểm.
+ประกาศนียบัตร:prakatsaniyabat|chứng chỉ, bằng|เธอ ได้ ประกาศนียบัตร|Cô ấy nhận chứng chỉ.
+พิธีรับปริญญา:phithirapparinya|lễ tốt nghiệp|พรุ่งนี้ มี พิธีรับปริญญา|Ngày mai có lễ tốt nghiệp.
+ศิษย์เก่า:sitkao|cựu sinh viên|ศิษย์เก่า กลับ มา เยี่ยม โรงเรียน|Cựu học sinh về thăm trường.
+รุ่นพี่:runphi|đàn anh, khóa trên|รุ่นพี่ ช่วย สอน ผม|Đàn anh giúp dạy tôi.
+รุ่นน้อง:runnong|đàn em, khóa dưới|รุ่นน้อง ถาม เรื่อง สอบ|Đàn em hỏi về kỳ thi.
+กิจกรรมเสริมหลักสูตร:kitchakamsoemlaksut|hoạt động ngoại khóa|โรงเรียน มี กิจกรรมเสริมหลักสูตร มาก|Trường có nhiều hoạt động ngoại khóa.
+ทัศนศึกษา:thatsanasueksa|chuyến tham quan học tập|นักเรียน ไป ทัศนศึกษา|Học sinh đi tham quan học tập.
+ค่ายอาสา:khai-asa|trại tình nguyện|นักศึกษา ไป ค่ายอาสา|Sinh viên đi trại tình nguyện.
+ความสามารถพิเศษ:khwamsamatphiset|năng khiếu|เด็ก คน นี้ มี ความสามารถพิเศษ|Đứa trẻ này có năng khiếu.
+ศักยภาพ:sakkayaphap|tiềm năng|เขา มี ศักยภาพ สูง|Anh ấy có tiềm năng cao.
+การคิดเชิงวิพากษ์:kankhitchoengwiphak|tư duy phản biện|โรงเรียน สอน การคิดเชิงวิพากษ์|Trường dạy tư duy phản biện.
+การแก้ปัญหา:kankaepanha|giải quyết vấn đề|การแก้ปัญหา เป็น ทักษะ สำคัญ|Giải quyết vấn đề là kỹ năng quan trọng.
+การทำงานเป็นทีม:kanthamnganpenthim|làm việc nhóm|บริษัท ต้องการ การทำงานเป็นทีม|Công ty cần làm việc nhóm.
+ภาวะผู้นำ:phawaphunam|khả năng lãnh đạo|เธอ มี ภาวะผู้นำ|Cô ấy có khả năng lãnh đạo.
+การรู้หนังสือ:kanrunangsue|biết chữ|การรู้หนังสือ ของ ประชากร สูง|Tỷ lệ biết chữ của dân số cao.
+ออกกลางคัน:okklangkhan|bỏ học giữa chừng|เด็ก บาง คน ออกกลางคัน|Một số trẻ bỏ học giữa chừng.
+เรียนซ้ำชั้น:riansamchan|học lại lớp, lưu ban|เขา ต้อง เรียนซ้ำชั้น|Cậu ấy phải lưu ban.
+กวดวิชา:kuatwicha|học thêm luyện thi|นักเรียน ไป กวดวิชา ตอน เย็น|Học sinh đi học thêm buổi chiều.
+ครูพี่เลี้ยง:khruphiliang|giáo viên hướng dẫn|ครูพี่เลี้ยง ช่วย ครู ใหม่|Giáo viên hướng dẫn giúp giáo viên mới.
+สื่อการสอน:suekanson|đồ dùng dạy học|ครู ทำ สื่อการสอน|Giáo viên làm đồ dùng dạy học.
+แผนการสอน:phaenkanson|giáo án|ครู เขียน แผนการสอน|Giáo viên soạn giáo án.
+การประเมินผล:kanpramoenphon|việc đánh giá kết quả|การประเมินผล มี ทุก ภาคเรียน|Việc đánh giá diễn ra mỗi học kỳ.
+ความเหลื่อมล้ำทางการศึกษา:khwamlueamlamthangkansueksa|bất bình đẳng giáo dục|ความเหลื่อมล้ำทางการศึกษา ยัง มี อยู่|Bất bình đẳng giáo dục vẫn còn.
+@Hóa chất và vật liệu|Đời sống kỹ thuật
+กรด:krot|a xít|กรด นี้ อันตราย|A xít này nguy hiểm.
+ด่าง:dang|kiềm|สบู่ เป็น ด่าง|Xà phòng là chất kiềm.
+สารละลาย:sanlalai|dung dịch|นักเรียน ผสม สารละลาย|Học sinh pha dung dịch.
+ตัวทำละลาย:tuathamlalai|dung môi|น้ำ เป็น ตัวทำละลาย|Nước là dung môi.
+ของแข็ง:khongkhaeng|chất rắn|น้ำแข็ง เป็น ของแข็ง|Nước đá là chất rắn.
+ของเหลว:khongleo|chất lỏng|น้ำ เป็น ของเหลว|Nước là chất lỏng.
+ไอน้ำ:ainam|hơi nước|ไอน้ำ ร้อน มาก|Hơi nước rất nóng.
+จุดเดือด:chutdueat|điểm sôi|จุดเดือด ของ น้ำ คือ ร้อย องศา|Điểm sôi của nước là một trăm độ.
+จุดเยือกแข็ง:chutyueakkhaeng|điểm đóng băng|จุดเยือกแข็ง ของ น้ำ คือ ศูนย์ องศา|Điểm đóng băng của nước là không độ.
+ระเหย:rahoei|bay hơi|น้ำ ระเหย เร็ว|Nước bay hơi nhanh.
+ควบแน่น:khuapnaen|ngưng tụ|ไอน้ำ ควบแน่น เป็น น้ำ|Hơi nước ngưng tụ thành nước.
+สนิม:sanim|gỉ sét|เหล็ก นี้ มี สนิม|Thanh sắt này bị gỉ.
+กัดกร่อน:katkron|ăn mòn|กรด กัดกร่อน เหล็ก|A xít ăn mòn sắt.
+ติดไฟ:titfai|bắt lửa|น้ำมัน ติดไฟ ง่าย|Dầu dễ bắt lửa.
+สารพิษ:sanphit|chất độc|ผัก นี้ ไม่ มี สารพิษ|Rau này không có chất độc.
+ยาฆ่าแมลง:yakhamalaeng|thuốc trừ sâu|ชาวนา ใช้ ยาฆ่าแมลง|Nông dân dùng thuốc trừ sâu.
+สารฟอกขาว:sanfokkhao|chất tẩy trắng|แม่ ใช้ สารฟอกขาว ซัก ผ้า|Mẹ dùng chất tẩy trắng giặt đồ.
+กาว:kao|keo dán|เด็ก ใช้ กาว ติด กระดาษ|Đứa trẻ dùng keo dán giấy.
+อะลูมิเนียม:aluminiam|nhôm|กระป๋อง ทำ จาก อะลูมิเนียม|Lon làm bằng nhôm.
+สเตนเลส:satenlet|thép không gỉ|หม้อ นี้ เป็น สเตนเลส|Cái nồi này bằng thép không gỉ.
+ตะกั่ว:takua|chì|ตะกั่ว เป็น สารพิษ|Chì là chất độc.
+ดีบุก:dibuk|thiếc|ภาคใต้ เคย มี ดีบุก มาก|Miền Nam từng có nhiều thiếc.
+แร่:rae|khoáng sản, quặng|ประเทศ นี้ มี แร่ มาก|Nước này có nhiều khoáng sản.
+เหมือง:mueang|mỏ|คน งาน ทำงาน ใน เหมือง|Công nhân làm việc trong mỏ.
+หินอ่อน:hin-on|đá cẩm thạch|พื้น ทำ จาก หินอ่อน|Sàn làm bằng đá cẩm thạch.
+เซรามิก:seramik|gốm sứ|ถ้วย นี้ เป็น เซรามิก|Cái bát này bằng gốm sứ.
+ใยสังเคราะห์:yaisangkhro|sợi tổng hợp|เสื้อ นี้ ทำ จาก ใยสังเคราะห์|Cái áo này làm từ sợi tổng hợp.
+ไฟเบอร์กลาส:faiboeklat|sợi thủy tinh|เรือ นี้ ทำ จาก ไฟเบอร์กลาส|Chiếc thuyền này làm bằng sợi thủy tinh.
+ฉนวน:chanuan|chất cách điện, cách nhiệt|ยาง เป็น ฉนวน ไฟฟ้า|Cao su là chất cách điện.
+ตัวนำไฟฟ้า:tuanamfaifa|chất dẫn điện|ทองแดง เป็น ตัวนำไฟฟ้า|Đồng là chất dẫn điện.
+แรงดันไฟฟ้า:raengdanfaifa|điện áp|แรงดันไฟฟ้า ที่ นี่ สูง|Điện áp ở đây cao.
+กระแสไฟฟ้า:krasaefaifa|dòng điện|กระแสไฟฟ้า ไหล ใน สายไฟ|Dòng điện chạy trong dây.
+วงจร:wongchon|mạch điện, chu trình|ช่าง ตรวจ วงจร|Thợ kiểm tra mạch điện.
+ความร้อน:khwamron|nhiệt|ความร้อน ทำให้ น้ำแข็ง ละลาย|Nhiệt làm đá tan.
+แรงเสียดทาน:raengsiathan|lực ma sát|แรงเสียดทาน ทำให้ รถ หยุด|Lực ma sát làm xe dừng.

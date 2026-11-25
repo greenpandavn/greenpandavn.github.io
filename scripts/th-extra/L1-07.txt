@@ -1,0 +1,51 @@
+=1
+@Trạng từ và từ nối|Mức độ, tần suất, liên kết câu
+มาก:mak|nhiều, rất|ฉัน ชอบ อาหาร ไทย มาก|Tôi rất thích món ăn Thái.
+น้อย:noi|ít|เขา กิน น้อย|Anh ấy ăn ít.
+บ่อย:boi|thường xuyên|ผม ไป ตลาด บ่อย|Tôi hay đi chợ.
+บางครั้ง:bangkhrang|thỉnh thoảng|บางครั้ง ฉัน ไป วัด|Thỉnh thoảng tôi đi chùa.
+อีก:ik|nữa, thêm|ขอ น้ำ อีก แก้ว|Cho tôi thêm một cốc nước nữa.
+แล้ว:laeo|rồi|ผม กิน ข้าว แล้ว|Tôi ăn cơm rồi.
+ยัง:yang|vẫn, chưa|เขา ยัง ไม่ มา|Anh ấy vẫn chưa đến.
+และ:lae|và|ฉัน ชอบ แมว และ หมา|Tôi thích mèo và chó.
+แต่:tae|nhưng|อาหาร อร่อย แต่ แพง|Món ăn ngon nhưng đắt.
+หรือ:rue|hoặc, hay là|คุณ ชอบ ชา หรือ กาแฟ|Bạn thích trà hay cà phê?
+เพราะ:phro|bởi vì|ผม ไม่ ไป เพราะ ฝน ตก|Tôi không đi vì trời mưa.
+ถ้า:tha|nếu|ถ้า ฝน ตก ผม จะ อยู่ บ้าน|Nếu trời mưa tôi sẽ ở nhà.
+เท่านั้น:thaonan|chỉ... thôi|ผม มี ร้อย บาท เท่านั้น|Tôi chỉ có một trăm baht thôi.
+ด้วยกัน:duaikan|cùng nhau|เรา กิน ข้าว ด้วยกัน|Chúng tôi ăn cơm cùng nhau.
+คนเดียว:khondiao|một mình|เธอ อยู่ บ้าน คนเดียว|Cô ấy ở nhà một mình.
+ทันที:thanthi|ngay lập tức|เขา กลับ บ้าน ทันที|Anh ấy về nhà ngay lập tức.
+อาจจะ:atcha|có lẽ, có thể|พรุ่งนี้ ฝน อาจจะ ตก|Ngày mai trời có thể mưa.
+จริงๆ:chingching|thật sự|อาหาร นี้ อร่อย จริงๆ|Món này thật sự ngon.
+ประมาณ:praman|khoảng chừng|ใช้เวลา ประมาณ หนึ่ง ชั่วโมง|Mất khoảng một tiếng.
+เกือบ:kueap|gần như, suýt|ผม เกือบ ลืม กุญแจ|Tôi suýt quên chìa khóa.
+ค่อนข้าง:khonkhang|khá là|ห้อง นี้ ค่อนข้าง เล็ก|Phòng này khá nhỏ.
+เกินไป:koenpai|quá mức|กางเกง ตัว นี้ ยาว เกินไป|Cái quần này dài quá.
+ก็:ko|cũng, thì|ผม ก็ ชอบ เพลง นี้|Tôi cũng thích bài hát này.
+@Quốc gia|Đất nước và ngôn ngữ
+ไทย:thai|Thái Lan, (thuộc) Thái|อาหาร ไทย อร่อย|Món ăn Thái ngon.
+เวียดนาม:wiatnam|Việt Nam|ฉัน มา จาก เวียดนาม|Tôi đến từ Việt Nam.
+จีน:chin|Trung Quốc|เขา เป็น คน จีน|Anh ấy là người Trung Quốc.
+ญี่ปุ่น:yipun|Nhật Bản|ผม อยาก ไป เที่ยว ญี่ปุ่น|Tôi muốn đi du lịch Nhật Bản.
+เกาหลี:kaoli|Hàn Quốc|เธอ ชอบ หนัง เกาหลี|Cô ấy thích phim Hàn Quốc.
+ลาว:lao|Lào|ลาว อยู่ ใกล้ ไทย|Lào ở gần Thái Lan.
+กัมพูชา:kamphucha|Campuchia|เพื่อน ผม มา จาก กัมพูชา|Bạn tôi đến từ Campuchia.
+อังกฤษ:angkrit|nước Anh, tiếng Anh|เขา พูด ภาษา อังกฤษ เก่ง|Anh ấy nói tiếng Anh giỏi.
+อเมริกา:amerika|nước Mỹ|พี่ชาย เรียน ที่ อเมริกา|Anh trai học ở Mỹ.
+ฝรั่งเศส:farangset|nước Pháp|ฉัน เรียน ภาษา ฝรั่งเศส|Tôi học tiếng Pháp.
+กรุงเทพ:krungthep|Bangkok|กรุงเทพ เป็น เมือง ใหญ่|Bangkok là thành phố lớn.
+ต่างประเทศ:tangprathet|nước ngoài|เขา ทำงาน ที่ ต่างประเทศ|Anh ấy làm việc ở nước ngoài.
+@Sinh hoạt|Việc làm mỗi ngày
+ตื่นนอน:tuennon|thức dậy (rời giường)|ฉัน ตื่นนอน หก โมง เช้า|Tôi thức dậy lúc sáu giờ sáng.
+แปรงฟัน:praengfan|đánh răng|เด็ก แปรงฟัน ก่อน นอน|Đứa trẻ đánh răng trước khi ngủ.
+ล้างหน้า:langna|rửa mặt|ผม ล้างหน้า ทุก เช้า|Tôi rửa mặt mỗi sáng.
+สระผม:saphom|gội đầu|เธอ สระผม ทุก วัน|Cô ấy gội đầu mỗi ngày.
+ซักผ้า:sakpha|giặt quần áo|ฉัน ซักผ้า วันอาทิตย์|Tôi giặt quần áo vào Chủ nhật.
+ล้างจาน:langchan|rửa bát|ลูก ช่วย แม่ ล้างจาน|Con giúp mẹ rửa bát.
+กวาดบ้าน:kwatban|quét nhà|ยาย กวาดบ้าน ทุก เช้า|Bà ngoại quét nhà mỗi sáng.
+เข้านอน:khaonon|đi ngủ|ผม เข้านอน สี่ ทุ่ม:thum|Tôi đi ngủ lúc mười giờ tối.
+ไปทำงาน:paithamngan|đi làm|พ่อ ไปทำงาน แปด โมง|Bố đi làm lúc tám giờ.
+เลิกงาน:loekngan|tan làm|ฉัน เลิกงาน ห้า โมง เย็น|Tôi tan làm lúc năm giờ chiều.
+พัก:phak|nghỉ, ở trọ|เรา พัก ที่ โรงแรม นี้|Chúng tôi nghỉ ở khách sạn này.
+ง่วง:nguang|buồn ngủ|ผม ง่วง มาก|Tôi rất buồn ngủ.

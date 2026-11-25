@@ -1,0 +1,52 @@
+{
+ "units": [
+  {"unit":59,"level":5,"title":"Phần 9: Tổng hợp và hơn thế","desc":"Tổng hợp","color":"sky","course":"th"}
+ ],
+ "lessons": [
+  {"id":"th5x81","title":"Tổng hợp 16","desc":"Từ vựng tổng hợp của cấp này","icon":"ล","unit":59,"course":"th","order":4130,"words":[
+   {"id":"th5x81-ลูกชุบ","hanzi":"ลูกชุบ","pinyin":"lukchup","vi":"bánh đậu xanh hình trái cây","ex":{"tokens":["ลูกชุบ","มี","หลาย","สี"],"py":["lukchup","mi","lai","si"],"vi":"Bánh đậu xanh hình trái cây có nhiều màu.","alts":[]}},
+   {"id":"th5x81-บัวลอย","hanzi":"บัวลอย","pinyin":"bualoi","vi":"chè trôi nước Thái","ex":{"tokens":["บัวลอย","ใส่","กะทิ"],"py":["bualoi","sai","kathi"],"vi":"Chè trôi nước cho nước cốt dừa.","alts":[]}},
+   {"id":"th5x81-รวน","hanzi":"รวน","pinyin":"ruan","vi":"xào sơ không dầu","ex":{"tokens":["แม่","รวน","หมู","ก่อน"],"py":["mae","ruan","mu","kon"],"vi":"Mẹ xào sơ thịt lợn trước.","alts":[]}},
+   {"id":"th5x81-หมักดอง","hanzi":"หมักดอง","pinyin":"makdong","vi":"muối chua, lên men","ex":{"tokens":["ยาย","หมักดอง","ผัก"],"py":["yai","makdong","phak"],"vi":"Bà ngoại muối dưa rau.","alts":[]}},
+   {"id":"th5x81-กระเจี๊ยบแดง","hanzi":"กระเจี๊ยบแดง","pinyin":"krachiapdaeng","vi":"đài hoa atiso đỏ (bụp giấm)","ex":{"tokens":["แม่","ต้ม","น้ำ","กระเจี๊ยบแดง"],"py":["mae","tom","nam","krachiapdaeng"],"vi":"Mẹ nấu nước bụp giấm.","alts":[]}},
+   {"id":"th5x81-มะรุม","hanzi":"มะรุม","pinyin":"marum","vi":"cây chùm ngây","ex":{"tokens":["ยาย","แกง","ฝัก","มะรุม"],"py":["yai","kaeng","fak","marum"],"vi":"Bà ngoại nấu canh quả chùm ngây.","alts":[]}},
+   {"id":"th5x81-หญ้าหนวดแมว","hanzi":"หญ้าหนวดแมว","pinyin":"yanuatmaeo","vi":"râu mèo (thảo dược)","ex":{"tokens":["ลุง","ดื่ม","ชา","หญ้าหนวดแมว"],"py":["lung","duem","cha","yanuatmaeo"],"vi":"Bác trai uống trà râu mèo.","alts":[]}},
+   {"id":"th5x81-รางจืด","hanzi":"รางจืด","pinyin":"rangchuet","vi":"dây cát đằng (giải độc)","ex":{"tokens":["รางจืด","ใช้","แก้","พิษ"],"py":["rangchuet","chai","kae","phit"],"vi":"Dây cát đằng dùng giải độc.","alts":[]}},
+   {"id":"th5x81-เถาวัลย์เปรียง","hanzi":"เถาวัลย์เปรียง","pinyin":"thaowanpriang","vi":"dây cóc kèn (trị đau khớp)","ex":{"tokens":["ปู่","กิน","เถาวัลย์เปรียง","แก้","ปวด"],"py":["pu","kin","thaowanpriang","kae","puat"],"vi":"Ông nội uống dây cóc kèn trị đau.","alts":[]}},
+   {"id":"th5x81-สรรพคุณ","hanzi":"สรรพคุณ","pinyin":"sapphakhun","vi":"công dụng (dược tính)","ex":{"tokens":["สมุนไพร","นี้","มี","สรรพคุณ","มาก"],"py":["samunphrai","ni","mi","sapphakhun","mak"],"vi":"Thảo dược này có nhiều công dụng.","alts":[]}},
+   {"id":"th5x81-ตำรับยา","hanzi":"ตำรับยา","pinyin":"tamrapya","vi":"bài thuốc","ex":{"tokens":["นี่","เป็น","ตำรับยา","โบราณ"],"py":["ni","pen","tamrapya","boran"],"vi":"Đây là bài thuốc cổ.","alts":[]}},
+   {"id":"th5x81-เภสัชกรรมไทย","hanzi":"เภสัชกรรมไทย","pinyin":"phesatchakamthai","vi":"dược học cổ truyền Thái","ex":{"tokens":["นักศึกษา","เรียน","เภสัชกรรมไทย"],"py":["nakrueksa","rian","phesatchakamthai"],"vi":"Sinh viên học dược cổ truyền Thái.","alts":[]}},
+   {"id":"th5x81-แขนเสื้อ","hanzi":"แขนเสื้อ","pinyin":"khaensuea","vi":"tay áo","ex":{"tokens":["แขนเสื้อ","ยาว","เกิน","ไป"],"py":["khaensuea","yao","koen","pai"],"vi":"Tay áo dài quá.","alts":[]}}
+  ]},
+  {"id":"th5x82","title":"Tổng hợp 17","desc":"Từ vựng tổng hợp của cấp này","icon":"ผ","unit":59,"course":"th","order":4140,"words":[
+   {"id":"th5x82-ผดุงครรภ์","hanzi":"ผดุงครรภ์","pinyin":"phadungkhan","vi":"đỡ đẻ (bà mụ)","ex":{"tokens":["ยาย","เคย","เป็น","หมอ","ผดุงครรภ์"],"py":["yai","khoei","pen","mo","phadungkhan"],"vi":"Bà ngoại từng là bà đỡ.","alts":[]}},
+   {"id":"th5x82-อยู่ไฟ","hanzi":"อยู่ไฟ","pinyin":"yufai","vi":"nằm than sau sinh","ex":{"tokens":["แม่","อยู่ไฟ","หลัง","คลอด"],"py":["mae","yufai","lang","khlot"],"vi":"Mẹ nằm than sau khi sinh.","alts":[]}},
+   {"id":"th5x82-แก้ลม","hanzi":"แก้ลม","pinyin":"kaelom","vi":"trị trúng gió","ex":{"tokens":["ยา","นี้","ใช้","แก้ลม"],"py":["ya","ni","chai","kaelom"],"vi":"Thuốc này dùng trị trúng gió.","alts":[]}},
+   {"id":"th5x82-ข้อพิพาทแรงงาน","hanzi":"ข้อพิพาทแรงงาน","pinyin":"khophiphatraeng-ngan","vi":"tranh chấp lao động","ex":{"tokens":["ศาล","ตัดสิน","ข้อพิพาทแรงงาน"],"py":["san","tatsin","khophiphatraeng-ngan"],"vi":"Tòa án phân xử tranh chấp lao động.","alts":[]}},
+   {"id":"th5x82-ศาลแรงงาน","hanzi":"ศาลแรงงาน","pinyin":"sanraeng-ngan","vi":"tòa án lao động","ex":{"tokens":["ลูกจ้าง","ไป","ศาลแรงงาน"],"py":["lukchang","pai","sanraeng-ngan"],"vi":"Người lao động ra tòa án lao động.","alts":[]}},
+   {"id":"th5x82-ลากิจ","hanzi":"ลากิจ","pinyin":"lakit","vi":"nghỉ việc riêng","ex":{"tokens":["ผม","ขอ","ลากิจ","สอง","วัน"],"py":["phom","kho","lakit","song","wan"],"vi":"Tôi xin nghỉ việc riêng hai ngày.","alts":[]}},
+   {"id":"th5x82-แรงงานข้ามชาติ","hanzi":"แรงงานข้ามชาติ","pinyin":"raeng-ngankhamchat","vi":"lao động nhập cư","ex":{"tokens":["ไทย","มี","แรงงานข้ามชาติ","มาก"],"py":["thai","mi","raeng-ngankhamchat","mak"],"vi":"Thái Lan có nhiều lao động nhập cư.","alts":[]}},
+   {"id":"th5x82-ใบอนุญาตทำงาน","hanzi":"ใบอนุญาตทำงาน","pinyin":"bai-anuyatthamngan","vi":"giấy phép lao động","ex":{"tokens":["คน","ต่างชาติ","ต้อง","มี","ใบอนุญาตทำงาน"],"py":["khon","tangchat","tong","mi","bai-anuyatthamngan"],"vi":"Người nước ngoài phải có giấy phép lao động.","alts":[]}},
+   {"id":"th5x82-ไตรกีฬา","hanzi":"ไตรกีฬา","pinyin":"traikila","vi":"ba môn phối hợp","ex":{"tokens":["ภูเก็ต","จัด","แข่ง","ไตรกีฬา"],"py":["phuket","chat","khaeng","traikila"],"vi":"Phuket tổ chức thi ba môn phối hợp.","alts":[]}},
+   {"id":"th5x82-กระโดดค้ำ","hanzi":"กระโดดค้ำ","pinyin":"kradotkham","vi":"nhảy sào","ex":{"tokens":["เธอ","ได้","เหรียญ","กระโดดค้ำ"],"py":["thoe","dai","rian","kradotkham"],"vi":"Cô ấy giành huy chương nhảy sào.","alts":[]}},
+   {"id":"th5x82-ทุ่มน้ำหนัก","hanzi":"ทุ่มน้ำหนัก","pinyin":"thumnamnak","vi":"đẩy tạ","ex":{"tokens":["นักกีฬา","ทุ่มน้ำหนัก","ไกล","มาก"],"py":["nakkila","thumnamnak","klai","mak"],"vi":"Vận động viên đẩy tạ rất xa.","alts":[]}},
+   {"id":"th5x82-เขน","hanzi":"เขน","pinyin":"khen","vi":"cái khiên tròn","ex":{"tokens":["ทหาร","ถือ","ดาบ","กับ","เขน"],"py":["thahan","thue","dap","kap","khen"],"vi":"Lính cầm kiếm và khiên tròn.","alts":[]}},
+   {"id":"th5x82-ปกเสื้อ","hanzi":"ปกเสื้อ","pinyin":"poksuea","vi":"cổ áo","ex":{"tokens":["ปกเสื้อ","ของ","เขา","สกปรก"],"py":["poksuea","khong","khao","sokkaprok"],"vi":"Cổ áo anh ấy bẩn.","alts":[]}}
+  ]},
+  {"id":"th5x83","title":"Tổng hợp 18","desc":"Từ vựng tổng hợp của cấp này","icon":"ค","unit":59,"course":"th","order":4150,"words":[
+   {"id":"th5x83-ค่ายคูประตูหอรบ","hanzi":"ค่ายคูประตูหอรบ","pinyin":"khaikhupratuhorop","vi":"thành lũy phòng thủ","ex":{"tokens":["เมือง","เก่า","มี","ค่ายคูประตูหอรบ"],"py":["mueang","kao","mi","khaikhupratuhorop"],"vi":"Thành cổ có thành lũy phòng thủ.","alts":[]}},
+   {"id":"th5x83-พระราชลัญจกร","hanzi":"พระราชลัญจกร","pinyin":"phraratchalanchakon","vi":"quốc ấn của vua","ex":{"tokens":["พระราชลัญจกร","ใช้","กับ","กฎหมาย"],"py":["phraratchalanchakon","chai","kap","kotmai"],"vi":"Quốc ấn của vua dùng cho luật.","alts":[]}},
+   {"id":"th5x83-สมุดข่อย","hanzi":"สมุดข่อย","pinyin":"samutkhoi","vi":"sách giấy khoi gấp","ex":{"tokens":["ตำรา","ยา","เขียน","ใน","สมุดข่อย"],"py":["tamra","ya","khian","nai","samutkhoi"],"vi":"Sách thuốc viết trên giấy khoi.","alts":[]}},
+   {"id":"th5x83-ใบลาน","hanzi":"ใบลาน","pinyin":"bailan","vi":"lá buông (chép kinh)","ex":{"tokens":["พระ","จาร","คัมภีร์","บน","ใบลาน"],"py":["phra","chan","khamphi","bon","bailan"],"vi":"Sư khắc kinh trên lá buông.","alts":[]}},
+   {"id":"th5x83-เบี้ย","hanzi":"เบี้ย","pinyin":"bia","vi":"vỏ ốc dùng làm tiền; quân cờ","ex":{"tokens":["คน","โบราณ","ใช้","เบี้ย","ซื้อ","ของ"],"py":["khon","boran","chai","bia","sue","khong"],"vi":"Người xưa dùng vỏ ốc mua hàng.","alts":[]}},
+   {"id":"th5x83-พดด้วง","hanzi":"พดด้วง","pinyin":"photduang","vi":"tiền bạc viên tròn (cổ)","ex":{"tokens":["พิพิธภัณฑ์","มี","เงิน","พดด้วง"],"py":["phiphitthaphan","mi","ngoen","photduang"],"vi":"Bảo tàng có tiền bạc viên tròn.","alts":[]}},
+   {"id":"th5x83-ตำลึง","hanzi":"ตำลึง","pinyin":"tamlueng","vi":"lạng (bốn baht tiền cổ)","ex":{"tokens":["ของ","นี้","ราคา","สอง","ตำลึง"],"py":["khong","ni","rakha","song","tamlueng"],"vi":"Món này giá hai lạng.","alts":[]}},
+   {"id":"th5x83-ออกแบบแฟชั่น","hanzi":"ออกแบบแฟชั่น","pinyin":"okbaepfaechan","vi":"thiết kế thời trang","ex":{"tokens":["เธอ","เรียน","ออกแบบแฟชั่น"],"py":["thoe","rian","okbaepfaechan"],"vi":"Cô ấy học thiết kế thời trang.","alts":[]}},
+   {"id":"th5x83-แพตเทิร์น","hanzi":"แพตเทิร์น","pinyin":"phaetthoen","vi":"rập cắt may","ex":{"tokens":["ช่าง","ทำ","แพตเทิร์น","เสื้อ"],"py":["chang","tham","phaetthoen","suea"],"vi":"Thợ làm rập áo.","alts":[]}},
+   {"id":"th5x83-สร้างแบบตัดเย็บ","hanzi":"สร้างแบบตัดเย็บ","pinyin":"sangbaeptatyep","vi":"dựng rập cắt may","ex":{"tokens":["นักศึกษา","เรียน","สร้างแบบตัดเย็บ"],"py":["nakrueksa","rian","sangbaeptatyep"],"vi":"Sinh viên học dựng rập cắt may.","alts":[]}},
+   {"id":"th5x83-หุ่นลองเสื้อ","hanzi":"หุ่นลองเสื้อ","pinyin":"hunlongsuea","vi":"ma nơ canh thợ may","ex":{"tokens":["ช่าง","ลอง","ชุด","บน","หุ่นลองเสื้อ"],"py":["chang","long","chut","bon","hunlongsuea"],"vi":"Thợ thử váy trên ma nơ canh.","alts":[]}},
+   {"id":"th5x83-ตะเข็บ","hanzi":"ตะเข็บ","pinyin":"takhep","vi":"đường may nối","ex":{"tokens":["ตะเข็บ","เสื้อ","ขาด"],"py":["takhep","suea","khat"],"vi":"Đường may áo bị bung.","alts":[]}},
+   {"id":"th5x83-ซับใน","hanzi":"ซับใน","pinyin":"sapnai","vi":"vải lót","ex":{"tokens":["กระโปรง","นี้","มี","ซับใน"],"py":["kraprong","ni","mi","sapnai"],"vi":"Váy này có vải lót.","alts":[]}}
+  ]}
+ ]
+}

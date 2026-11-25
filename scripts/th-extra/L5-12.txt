@@ -1,0 +1,56 @@
+=5
+@Vũ trụ và viễn thông|Vệ tinh, tín hiệu
+ดาวเทียมสื่อสาร:daothiamsuesan|vệ tinh viễn thông|ไทย ส่ง ดาวเทียมสื่อสาร ขึ้น ไป|Thái Lan phóng vệ tinh viễn thông.
+ดาวเทียมสำรวจ:daothiamsamruat|vệ tinh quan sát|ดาวเทียมสำรวจ ถ่าย ภาพ ป่า|Vệ tinh quan sát chụp ảnh rừng.
+จรวดขนส่ง:charuatkhonsong|tên lửa đẩy|จรวดขนส่ง ระเบิด หลัง ปล่อย|Tên lửa đẩy nổ sau khi phóng.
+ฐานปล่อยจรวด:thanploicharuat|bệ phóng tên lửa|ฐานปล่อยจรวด อยู่ ริม ทะเล|Bệ phóng tên lửa nằm ven biển.
+ชุดอวกาศ:chut-awakat|bộ đồ phi hành gia|ชุดอวกาศ หนัก มาก|Bộ đồ phi hành gia rất nặng.
+ยานสำรวจ:yansamruat|tàu thăm dò|ยานสำรวจ ลง จอด บน ดาวอังคาร|Tàu thăm dò đáp xuống sao Hỏa.
+กล้องโทรทรรศน์อวกาศ:klongthorathat-awakat|kính viễn vọng không gian|กล้องโทรทรรศน์อวกาศ ถ่าย ภาพ กาแล็กซี|Kính viễn vọng không gian chụp ảnh thiên hà.
+ขยะอวกาศ:khaya-awakat|rác vũ trụ|ขยะอวกาศ เป็น อันตราย ต่อ ดาวเทียม|Rác vũ trụ nguy hiểm cho vệ tinh.
+สภาพไร้น้ำหนัก:saphaprainamnak|trạng thái không trọng lượng|นักบินอวกาศ ฝึก ใน สภาพไร้น้ำหนัก|Phi hành gia tập trong trạng thái không trọng lượng.
+ดาวแคระขาว:daokhraekhao|sao lùn trắng|ดวงอาทิตย์ จะ กลาย เป็น ดาวแคระขาว|Mặt Trời sẽ thành sao lùn trắng.
+ซูเปอร์โนวา:supoenowa|siêu tân tinh|นักดาราศาสตร์ เห็น ซูเปอร์โนวา|Nhà thiên văn nhìn thấy siêu tân tinh.
+เนบิวลา:nebiola|tinh vân|เนบิวลา นี้ สวย มาก|Tinh vân này rất đẹp.
+ดาวเคราะห์นอกระบบ:daokhronokrabop|ngoại hành tinh|นักวิจัย พบ ดาวเคราะห์นอกระบบ ใหม่|Nhà nghiên cứu tìm ra ngoại hành tinh mới.
+แถบดาวเคราะห์น้อย:thaepdaokhronoi|vành đai tiểu hành tinh|แถบดาวเคราะห์น้อย อยู่ หลัง ดาวอังคาร|Vành đai tiểu hành tinh nằm sau sao Hỏa.
+โทรคมนาคม:thorakhamanakhom|viễn thông|เขา ทำงาน ใน บริษัท โทรคมนาคม|Anh ấy làm ở công ty viễn thông.
+คลื่นความถี่:khluenkhwamthi|tần số sóng|รัฐ ประมูล คลื่นความถี่|Nhà nước đấu giá tần số.
+เสาสัญญาณ:saosanyan|cột phát sóng|บน เขา มี เสาสัญญาณ|Trên núi có cột phát sóng.
+เคเบิลใต้น้ำ:khebontainam|cáp ngầm dưới biển|เคเบิลใต้น้ำ ขาด|Cáp ngầm dưới biển bị đứt.
+แถบความถี่กว้าง:thaepkhwamthikwang|băng thông rộng|หมู่บ้าน มี อินเทอร์เน็ต แถบความถี่กว้าง|Làng có Internet băng thông rộng.
+สถานีฐาน:sathanithan|trạm gốc (viễn thông)|บริษัท ตั้ง สถานีฐาน ใหม่|Công ty đặt trạm gốc mới.
+ข้ามแดนอัตโนมัติ:khamdaen-attanomat|chuyển vùng quốc tế|ผม เปิด บริการ ข้ามแดนอัตโนมัติ|Tôi bật dịch vụ chuyển vùng quốc tế.
+จานดาวเทียม:chandaothiam|chảo vệ tinh|บ้าน นอก เมือง ติด จานดาวเทียม|Nhà ngoại ô lắp chảo vệ tinh.
+วิทยุสมัครเล่น:witthayusamaklen|vô tuyến nghiệp dư|ปู่ เล่น วิทยุสมัครเล่น|Ông nội chơi vô tuyến nghiệp dư.
+ระบบนำทางด้วยดาวเทียม:rabopnamthangduaidaothiam|định vị vệ tinh|รถ มี ระบบนำทางด้วยดาวเทียม|Xe có định vị vệ tinh.
+ความหน่วง:khwamnuang|độ trễ (tín hiệu)|เกม นี้ มี ความหน่วง สูง|Trò chơi này có độ trễ cao.
+อินเทอร์เน็ตของสรรพสิ่ง:inthoenetkhongsapphasing|Internet vạn vật|โรงงาน ใช้ อินเทอร์เน็ตของสรรพสิ่ง|Nhà máy dùng Internet vạn vật.
+ประมวลผลแบบคลาวด์:pramuanphonbaepkhlao|điện toán đám mây|บริษัท ย้าย ไป ประมวลผลแบบคลาวด์|Công ty chuyển sang điện toán đám mây.
+ศูนย์ข้อมูล:sunkhomun|trung tâm dữ liệu|ศูนย์ข้อมูล ใช้ ไฟฟ้า มาก|Trung tâm dữ liệu dùng nhiều điện.
+มัลแวร์เรียกค่าไถ่:manwaeriakkhathai|mã độc tống tiền|โรงพยาบาล โดน มัลแวร์เรียกค่าไถ่|Bệnh viện bị mã độc tống tiền.
+@Sản xuất và hậu cần|Chất lượng, chuỗi cung ứng
+ศูนย์กระจายสินค้า:sunkrachaisinkha|trung tâm phân phối|ศูนย์กระจายสินค้า อยู่ นอก เมือง|Trung tâm phân phối nằm ngoài thành phố.
+รถยก:rotyok|xe nâng|คน งาน ขับ รถยก|Công nhân lái xe nâng.
+พาเลท:phalet|pa lét (kệ kê hàng)|กล่อง วาง บน พาเลท|Thùng đặt trên pa lét.
+ต้นทุนขนส่ง:tonthunkhonsong|chi phí vận tải|ต้นทุนขนส่ง ของ ไทย สูง|Chi phí vận tải của Thái Lan cao.
+กำลังการผลิต:kamlangkanphalit|công suất sản xuất|โรงงาน ใช้ กำลังการผลิต เต็ม ที่|Nhà máy chạy hết công suất.
+การผลิตแบบลีน:kanphalitbaeplin|sản xuất tinh gọn|บริษัท ญี่ปุ่น ใช้ การผลิตแบบลีน|Công ty Nhật dùng sản xuất tinh gọn.
+ทันเวลาพอดี:thanwelaphodi|đúng lúc (just in time)|โรงงาน ส่ง ชิ้นส่วน แบบ ทันเวลาพอดี|Nhà máy giao linh kiện kiểu đúng lúc.
+ประกันคุณภาพ:prakankhunnaphap|đảm bảo chất lượng|มหาวิทยาลัย มี ระบบ ประกันคุณภาพ|Trường đại học có hệ thống đảm bảo chất lượng.
+ของเสียจากการผลิต:khongsiachakkanphalit|phế phẩm sản xuất|โรงงาน ลด ของเสียจากการผลิต|Nhà máy giảm phế phẩm.
+มาตรฐานอุตสาหกรรม:mattrathan-utsahakam|tiêu chuẩn công nghiệp|สินค้า ผ่าน มาตรฐานอุตสาหกรรม|Hàng đạt tiêu chuẩn công nghiệp.
+สอบเทียบ:sopthiap|hiệu chuẩn|ช่าง สอบเทียบ เครื่องชั่ง|Thợ hiệu chuẩn cái cân.
+ซ่อมบำรุงเชิงป้องกัน:sombamrungchoengpongkan|bảo trì phòng ngừa|โรงงาน ทำ ซ่อมบำรุงเชิงป้องกัน|Nhà máy làm bảo trì phòng ngừa.
+แม่พิมพ์:maephim|khuôn đúc; mẫu mực|ช่าง ทำ แม่พิมพ์ พลาสติก|Thợ làm khuôn nhựa.
+ฉีดพลาสติก:chitphlattik|ép phun nhựa|โรงงาน นี้ ฉีดพลาสติก|Nhà máy này ép phun nhựa.
+หล่อโลหะ:lololha|đúc kim loại|ช่าง หล่อโลหะ เป็น ระฆัง|Thợ đúc kim loại thành chuông.
+ชุบโลหะ:chuplolha|mạ kim loại|ร้าน นี้ รับ ชุบโลหะ|Tiệm này nhận mạ kim loại.
+ฉลากสินค้า:chalaksinkha|nhãn hàng hóa|อ่าน ฉลากสินค้า ก่อน ซื้อ|Đọc nhãn hàng trước khi mua.
+รหัสแท่ง:rahatthaeng|mã vạch|พนักงาน สแกน รหัสแท่ง|Nhân viên quét mã vạch.
+ผู้รับจ้างผลิต:phurapchangphalit|nhà sản xuất gia công|บริษัท ใช้ ผู้รับจ้างผลิต ใน เวียดนาม|Công ty dùng nhà gia công ở Việt Nam.
+ย้ายฐานการผลิต:yaithankanphalit|chuyển cơ sở sản xuất|บริษัท ย้ายฐานการผลิต ไป ไทย|Công ty chuyển cơ sở sản xuất sang Thái Lan.
+แรงงานไร้ฝีมือ:raeng-nganraifimue|lao động phổ thông|โรงงาน จ้าง แรงงานไร้ฝีมือ|Nhà máy thuê lao động phổ thông.
+เครื่องจักรอัตโนมัติ:khrueangchak-attanomat|máy móc tự động|โรงงาน ซื้อ เครื่องจักรอัตโนมัติ|Nhà máy mua máy móc tự động.
+แขนกล:khaenkon|cánh tay rô bốt|แขนกล เชื่อม เหล็ก|Cánh tay rô bốt hàn sắt.
+นิคมอุตสาหกรรม:nikhom-utsahakam|khu công nghiệp tập trung|นิคมอุตสาหกรรม นี้ มี ร้อย โรงงาน|Khu công nghiệp này có một trăm nhà máy.

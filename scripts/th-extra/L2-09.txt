@@ -1,0 +1,69 @@
+=2
+@Văn hóa và tín ngưỡng|Lễ hội, chùa chiền, nghệ thuật
+พุทธ:phut|Phật (giáo)|คน ไทย ส่วนใหญ่ นับถือ พุทธ|Phần lớn người Thái theo đạo Phật.
+นับถือ:napthue|theo (đạo), kính trọng|เขา นับถือ ศาสนา คริสต์:khrit|Anh ấy theo đạo Thiên Chúa.
+ทำบุญ:thambun|làm công đức|ยาย ไป ทำบุญ ที่ วัด|Bà ngoại đi làm công đức ở chùa.
+ตักบาตร:takbat|dâng đồ ăn cho sư|แม่ ตักบาตร ทุก เช้า|Mẹ dâng đồ ăn cho sư mỗi sáng.
+สวดมนต์:suatmon|tụng kinh|พระ สวดมนต์ ตอน เย็น|Nhà sư tụng kinh vào buổi chiều.
+บวช:buat|đi tu, xuất gia|พี่ชาย บวช สาม เดือน|Anh trai đi tu ba tháng.
+เณร:nen|chú tiểu|เณร เรียน ที่ วัด|Chú tiểu học ở chùa.
+เจดีย์:chedi|tháp chùa|เจดีย์ นี้ สูง มาก|Ngọn tháp này rất cao.
+ศาลพระภูมิ:sanphraphum|miếu thờ thổ thần|บ้าน ไทย มี ศาลพระภูมิ|Nhà người Thái có miếu thờ thổ thần.
+บาป:bap|tội lỗi (tôn giáo)|โกหก เป็น บาป|Nói dối là tội lỗi.
+บุญ:bun|công đức, phúc|เขา มี บุญ มาก|Anh ấy có nhiều phúc.
+กรรม:kam|nghiệp|คน ไทย เชื่อ เรื่อง กรรม|Người Thái tin vào nghiệp.
+วิญญาณ:winyan|linh hồn|เขา เชื่อ ว่า วิญญาณ มี จริง|Anh ấy tin rằng linh hồn có thật.
+ผี:phi|ma|เด็ก กลัว ผี|Trẻ em sợ ma.
+โชค:chok|vận may|วันนี้ ผม โชค ดี|Hôm nay tôi may mắn.
+ดวง:duang|vận số|ปี นี้ ดวง ของ เธอ ดี|Năm nay vận số của cô ấy tốt.
+หมอดู:modu|thầy bói|ยาย ไป หา หมอดู|Bà ngoại đi gặp thầy bói.
+ลอยกระทง:loikrathong|lễ thả đèn hoa đăng Loy Krathong|ลอยกระทง อยู่ ใน เดือน พฤศจิกายน|Lễ Loy Krathong rơi vào tháng Mười một.
+วันพระ:wanphra|ngày lễ Phật|วันพระ คน ไป วัด มาก|Ngày lễ Phật nhiều người đi chùa.
+พิธี:phithi|nghi lễ|พิธี เริ่ม เก้า โมง|Nghi lễ bắt đầu lúc chín giờ.
+งานศพ:ngansop|đám tang|เรา ไป งานศพ ของ ปู่|Chúng tôi đi đám tang của ông nội.
+งานบวช:nganbuat|lễ xuất gia|อาทิตย์หน้า มี งานบวช|Tuần sau có lễ xuất gia.
+รำไทย:ramthai|múa Thái|เธอ เรียน รำไทย|Cô ấy học múa Thái.
+ดนตรีไทย:dontrithai|nhạc truyền thống Thái|ผม ชอบ ฟัง ดนตรีไทย|Tôi thích nghe nhạc truyền thống Thái.
+จิตรกรรม:chittrakam|hội họa|จิตรกรรม ใน วัด สวย|Tranh vẽ trong chùa đẹp.
+ประติมากรรม:pratimakam|điêu khắc|เขา เรียน ประติมากรรม|Anh ấy học điêu khắc.
+หัตถกรรม:hatthakam|thủ công mỹ nghệ|หมู่บ้าน นี้ ทำ หัตถกรรม|Ngôi làng này làm thủ công mỹ nghệ.
+วรรณกรรม:wannakam|văn học|เธอ สอน วรรณกรรม ไทย|Cô ấy dạy văn học Thái.
+กวี:kawi|nhà thơ|เขา เป็น กวี ดัง|Ông ấy là nhà thơ nổi tiếng.
+กลอน:klon|bài thơ, vần thơ|ครู อ่าน กลอน|Giáo viên đọc thơ.
+สุภาษิต:suphasit|tục ngữ|สุภาษิต นี้ มี ความหมาย ดี|Câu tục ngữ này có ý nghĩa hay.
+ตำนาน:tamnan|truyền thuyết|ตำนาน นี้ เก่า มาก|Truyền thuyết này rất xưa.
+นิทาน:nithan|truyện cổ tích|ยาย เล่า นิทาน ให้ หลาน|Bà ngoại kể chuyện cổ tích cho cháu.
+มรดกโลก:moradoklok|di sản thế giới|อยุธยา เป็น มรดกโลก|Ayutthaya là di sản thế giới.
+ชุดไทย:chutthai|trang phục truyền thống Thái|เจ้าสาว ใส่ ชุดไทย|Cô dâu mặc trang phục truyền thống Thái.
+พระมหากษัตริย์:phramahakasat|nhà vua|คน ไทย รัก พระมหากษัตริย์|Người Thái yêu kính nhà vua.
+@Nông thôn|Nông nghiệp và làng quê
+เกษตร:kaset|nông nghiệp|เขา เรียน เกษตร|Anh ấy học nông nghiệp.
+เกษตรกร:kasettrakon|nông dân (nói chung)|เกษตรกร ปลูก ข้าว|Nông dân trồng lúa.
+ไร่:rai|nương rẫy|ลุง มี ไร่ ข้าวโพด|Bác trai có rẫy ngô.
+เก็บเกี่ยว:kepkiao|thu hoạch|ชาวนา เก็บเกี่ยว ข้าว|Nông dân thu hoạch lúa.
+ปุ๋ย:pui|phân bón|เขา ใส่ ปุ๋ย ต้นไม้|Anh ấy bón phân cho cây.
+รดน้ำ:rotnam|tưới nước|ยาย รดน้ำ ต้นไม้ ทุก เช้า|Bà ngoại tưới cây mỗi sáng.
+เลี้ยงสัตว์:liangsat|chăn nuôi|ครอบครัว นี้ เลี้ยงสัตว์|Gia đình này làm chăn nuôi.
+คอก:khok|chuồng (gia súc)|วัว อยู่ ใน คอก|Con bò ở trong chuồng.
+ยาง:yang|cao su|ภาคใต้:phaktai ปลูก ยาง มาก|Miền Nam trồng nhiều cao su.
+อ้อย:oi|cây mía|ไร่ อ้อย นี้ ใหญ่|Rẫy mía này rộng.
+มันสำปะหลัง:mansampalang|sắn|ไทย ส่งออก มันสำปะหลัง|Thái Lan xuất khẩu sắn.
+ข้าวสาร:khaosan|gạo|แม่ ซื้อ ข้าวสาร ห้า กิโล|Mẹ mua năm cân gạo.
+ข้าวเปลือก:khaoplueak|thóc|ชาวนา ขาย ข้าวเปลือก|Nông dân bán thóc.
+ฟาง:fang|rơm|ควาย กิน ฟาง|Con trâu ăn rơm.
+บ่อ:bo|ao, giếng|ใน บ่อ มี ปลา มาก|Trong ao có nhiều cá.
+เขื่อน:khuean|đập nước|เขื่อน นี้ ใหญ่ มาก|Cái đập này rất lớn.
+ชลประทาน:chonlaprathan|thủy lợi|ชลประทาน ช่วย ชาวนา|Thủy lợi giúp nông dân.
+ผู้ใหญ่บ้าน:phuyaiban|trưởng làng|ผู้ใหญ่บ้าน เรียก ประชุม|Trưởng làng triệu tập họp.
+ชาวบ้าน:chaoban|dân làng|ชาวบ้าน ช่วย กัน สร้าง ถนน|Dân làng cùng nhau làm đường.
+กระท่อม:krathom|túp lều, chòi|กระท่อม อยู่ กลาง ทุ่งนา|Túp lều ở giữa cánh đồng.
+เกวียน:kwian|xe bò kéo|สมัยก่อน คน ใช้ เกวียน|Ngày xưa người ta dùng xe bò kéo.
+ตลาดสด:talatsot|chợ tươi sống|แม่ ซื้อ ปลา ที่ ตลาดสด|Mẹ mua cá ở chợ tươi sống.
+ประมง:pramong|nghề cá|ชาวบ้าน ทำ ประมง|Dân làng làm nghề cá.
+ชาวประมง:chaopramong|ngư dân|ชาวประมง ออก เรือ ตอน เช้า|Ngư dân ra khơi vào buổi sáng.
+แห:hae|cái lưới (chài)|ชาวประมง ใช้ แห จับ ปลา|Ngư dân dùng lưới bắt cá.
+สวนผลไม้:suanphonlamai|vườn cây ăn quả|ปู่ มี สวนผลไม้|Ông nội có vườn cây ăn quả.
+ออร์แกนิก:okaenik|hữu cơ|ผัก ออร์แกนิก แพง กว่า|Rau hữu cơ đắt hơn.
+ศัตรูพืช:sattruphuet|sâu bệnh hại cây|เกษตรกร ป้องกัน ศัตรูพืช|Nông dân phòng sâu bệnh.
+ฤดูเก็บเกี่ยว:ruedukepkiao|mùa thu hoạch|ฤดูเก็บเกี่ยว ชาวนา ยุ่ง มาก|Mùa thu hoạch nông dân rất bận.
+ผลผลิต:phonphalit|sản lượng, sản phẩm|ปี นี้ ผลผลิต ดี|Năm nay sản lượng tốt.

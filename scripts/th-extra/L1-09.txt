@@ -1,0 +1,86 @@
+=1
+@Món ăn Thái|Món quen thuộc và đồ bếp
+เค้ก:khek|bánh ngọt, bánh kem|เค้ก ชิ้น นี้ หวาน|Miếng bánh kem này ngọt.
+แกง:kaeng|món canh, cà ri|แกง นี้ เผ็ด|Món cà ri này cay.
+ไก่ย่าง:kaiyang|gà nướng|ไก่ย่าง ร้าน นี้ อร่อย|Gà nướng quán này ngon.
+หมูปิ้ง:muping|thịt lợn xiên nướng|ฉัน ซื้อ หมูปิ้ง ห้า ไม้|Tôi mua năm xiên thịt nướng.
+ไอศกรีม:aisakrim|kem (ăn)|เด็ก ชอบ ไอศกรีม|Trẻ em thích kem.
+เนย:noei|bơ|ขนมปัง กับ เนย อร่อย|Bánh mì ăn với bơ rất ngon.
+ซุป:sup|súp|ซุป นี้ ร้อน|Món súp này nóng.
+สลัด:salat|sa lát|เธอ กิน สลัด ทุก วัน|Cô ấy ăn sa lát mỗi ngày.
+ของหวาน:khongwan|món tráng miệng|ของหวาน ไทย หวาน มาก|Món tráng miệng Thái rất ngọt.
+อาหารทะเล:ahanthale|hải sản|อาหารทะเล ที่ นี่ สด|Hải sản ở đây tươi.
+น้ำซุป:namsup|nước dùng|น้ำซุป นี้ อร่อย|Nước dùng này ngon.
+ไส้กรอก:saikrok|xúc xích|เด็ก กิน ไส้กรอก|Đứa trẻ ăn xúc xích.
+@Con người|Quan hệ và giai đoạn cuộc đời
+วัยรุ่น:wairun|thanh thiếu niên|วัยรุ่น ชอบ ฟัง เพลง|Thanh thiếu niên thích nghe nhạc.
+คนแก่:khonkae|người già|คนแก่ เดิน ช้า|Người già đi chậm.
+ทารก:tharok|em bé sơ sinh|ทารก นอน มาก|Em bé sơ sinh ngủ nhiều.
+เพื่อนบ้าน:phueanban|hàng xóm|เพื่อนบ้าน ของ ฉัน ใจดี|Hàng xóm của tôi tốt bụng.
+เพื่อนร่วมงาน:phueanruamngan|đồng nghiệp|เพื่อนร่วมงาน ช่วย ผม|Đồng nghiệp giúp tôi.
+แขก:khaek|khách (đến nhà)|วันนี้ มี แขก มา บ้าน|Hôm nay có khách đến nhà.
+เจ้าของ:chaokhong|chủ nhân|เจ้าของ ร้าน เป็น คน จีน|Chủ cửa hàng là người Trung Quốc.
+ชาวต่างชาติ:chaotangchat|người nước ngoài|ชาวต่างชาติ ชอบ อาหาร ไทย|Người nước ngoài thích món Thái.
+ลูกพี่ลูกน้อง:lukphiluknong|anh chị em họ|ลูกพี่ลูกน้อง ของ ผม อยู่ เชียงใหม่|Anh em họ của tôi ở Chiang Mai.
+ผู้จัดการ:phuchatkan|quản lý, giám đốc|ผู้จัดการ ยัง ไม่ มา|Quản lý vẫn chưa đến.
+ชื่อเล่น:chuelen|tên gọi ở nhà, biệt danh|ชื่อเล่น ของ คุณ คือ อะไร|Tên ở nhà của bạn là gì?
+นามสกุล:namsakun|họ (tên họ)|นามสกุล ของ เขา ยาว|Họ của anh ấy dài.
+เพศ:phet|giới tính|เด็ก คน นี้ เพศ ชาย|Đứa trẻ này giới tính nam.
+ชีวิต:chiwit|cuộc sống|ชีวิต ที่ นี่ สบาย|Cuộc sống ở đây thoải mái.
+ความรัก:khwamrak|tình yêu|ความรัก ของ แม่ ใหญ่ มาก|Tình yêu của mẹ rất lớn.
+งานแต่งงาน:ngantaengngan|đám cưới|เรา ไป งานแต่งงาน ของ เพื่อน|Chúng tôi đi đám cưới của bạn.
+สงกรานต์:songkran|Tết té nước Songkran|สงกรานต์ อยู่ ใน เดือน เมษายน|Tết Songkran rơi vào tháng Tư.
+@Hành động|Động tác và việc thường làm
+กระโดด:kradot|nhảy lên|เด็ก กระโดด สูง|Đứa trẻ nhảy cao.
+ปีน:pin|leo, trèo|ลิง ปีน ต้นไม้|Con khỉ trèo cây.
+ดึง:dueng|kéo|ดึง ประตู นะ|Kéo cửa nhé.
+ผลัก:phlak|đẩy|ผลัก ประตู เข้า ไป|Đẩy cửa vào.
+โยน:yon|ném (nhẹ), tung|เด็ก โยน ลูกบอล:lukbon|Đứa trẻ tung quả bóng.
+เตะ:te|đá (bằng chân)|เขา เตะ ฟุตบอล|Anh ấy đá bóng.
+ตี:ti|đánh|อย่า ตี น้อง|Đừng đánh em.
+กอด:kot|ôm|แม่ กอด ลูก|Mẹ ôm con.
+จูบ:chup|hôn|แม่ จูบ ลูก|Mẹ hôn con.
+มอง:mong|nhìn|เขา มอง ท้องฟ้า|Anh ấy nhìn bầu trời.
+ได้ยิน:daiyin|nghe thấy|ฉัน ได้ยิน เสียง ฝน|Tôi nghe thấy tiếng mưa.
+รู้สึก:rusuek|cảm thấy|ผม รู้สึก เหนื่อย|Tôi cảm thấy mệt.
+หวัง:wang|hy vọng|ฉัน หวัง ว่า คุณ จะ มา|Tôi hy vọng bạn sẽ đến.
+เชื่อ:chuea|tin tưởng|ผม เชื่อ คุณ|Tôi tin bạn.
+ตัดสินใจ:tatsinchai|quyết định|เขา ตัดสินใจ ไป เรียน ต่างประเทศ|Anh ấy quyết định đi học nước ngoài.
+เตรียม:triam|chuẩn bị|แม่ เตรียม อาหาร|Mẹ chuẩn bị đồ ăn.
+ซ่อม:som|sửa chữa|ช่าง ซ่อม รถ|Thợ sửa xe.
+สร้าง:sang|xây dựng, tạo ra|เขา สร้าง บ้าน ใหม่|Anh ấy xây nhà mới.
+ปลูก:pluk|trồng|ยาย ปลูก ผัก|Bà ngoại trồng rau.
+ขี่:khi|cưỡi, đi (xe hai bánh)|ผม ขี่ จักรยาน ไป โรงเรียน|Tôi đạp xe đến trường.
+บิน:bin|bay|นก บิน บน ท้องฟ้า|Chim bay trên trời.
+ไหล:lai|chảy|น้ำ ไหล เร็ว|Nước chảy nhanh.
+หมุน:mun|quay, xoay|พัดลม หมุน เร็ว|Cái quạt quay nhanh.
+แบ่ง:baeng|chia|แม่ แบ่ง ขนม ให้ ลูก|Mẹ chia bánh cho các con.
+รวม:ruam|gộp, tổng cộng|รวม ทั้งหมด ร้อย บาท|Tổng cộng tất cả một trăm baht.
+ชั่ง:chang|cân (đo trọng lượng)|แม่ค้า ชั่ง ผลไม้|Cô bán hàng cân hoa quả.
+ผสม:phasom|trộn, pha|เขา ผสม นม กับ กาแฟ|Anh ấy pha sữa với cà phê.
+เท:the|rót, đổ|เธอ เท น้ำ ใส่ แก้ว|Cô ấy rót nước vào cốc.
+เช็ด:chet|lau|ช่วย เช็ด โต๊ะ หน่อย|Làm ơn lau bàn giúp.
+กวาด:kwat|quét|ฉัน กวาด พื้น|Tôi quét sàn.
+ล็อก:lok|khóa (lại)|อย่า ลืม ล็อก ประตู|Đừng quên khóa cửa.
+เคาะ:kho|gõ|เขา เคาะ ประตู|Anh ấy gõ cửa.
+กด:kot|ấn, bấm|กด เบอร์ นี้|Bấm số này.
+@Trạng thái|Tình trạng của người và vật
+กระหาย:krahai|khát|ฉัน กระหาย น้ำ|Tôi khát nước.
+ตื่นเต้น:tuenten|hồi hộp, phấn khích|เด็ก ตื่นเต้น มาก|Đứa trẻ rất phấn khích.
+แปลก:plaek|lạ|ผลไม้ นี้ แปลก|Loại quả này lạ.
+น่าสนใจ:nasonchai|thú vị, đáng chú ý|หนังสือ เล่ม นี้ น่าสนใจ|Quyển sách này thú vị.
+น่ากลัว:naklua|đáng sợ|หนัง เรื่อง นี้ น่ากลัว|Bộ phim này đáng sợ.
+น่าเบื่อ:nabuea|nhàm chán|งาน นี้ น่าเบื่อ|Công việc này nhàm chán.
+อันตราย:antarai|nguy hiểm|ถนน นี้ อันตราย|Con đường này nguy hiểm.
+ปลอดภัย:plotphai|an toàn|ที่ นี่ ปลอดภัย|Ở đây an toàn.
+สะดวก:saduak|tiện lợi|รถไฟฟ้า สะดวก มาก|Tàu điện rất tiện lợi.
+พร้อม:phrom|sẵn sàng|ผม พร้อม แล้ว|Tôi sẵn sàng rồi.
+แน่ใจ:naechai|chắc chắn (trong lòng)|คุณ แน่ใจ ไหม|Bạn có chắc không?
+รวย:ruai|giàu|เขา เป็น คน รวย|Anh ấy là người giàu.
+จน:chon|nghèo|ครอบครัว นี้ จน|Gia đình này nghèo.
+แก่:kae|già|หมา ตัว นี้ แก่ แล้ว|Con chó này già rồi.
+หนุ่ม:num|trẻ (nam), chàng trai|เขา ยัง หนุ่ม|Anh ấy còn trẻ.
+สาว:sao|trẻ (nữ), cô gái|เธอ ยัง สาว|Cô ấy còn trẻ.
+โสด:sot|độc thân|พี่ชาย ยัง โสด|Anh trai vẫn độc thân.
+เมา:mao|say|เขา เมา เบียร์|Anh ấy say bia.
+หลับ:lap|ngủ say, thiếp đi|เด็ก หลับ แล้ว|Đứa trẻ ngủ rồi.

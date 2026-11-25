@@ -1,4 +1,4 @@
-// Checks the generated Korean / Japanese / English vocabulary (run after scripts/build-data.mjs):
+// Checks the generated Korean / Japanese / Thai / English vocabulary (run after scripts/build-data.mjs):
 //   node scripts/check-data.mjs
 // Korean, Japanese: every word has its own romanization and meaning, its example contains the word,
 //   no two words share a romanization (except the real homophones listed below) or a meaning.
@@ -20,7 +20,7 @@ const errors = [];
 // --prune: remove from scripts/<course>-extra the candidate words that fail a check (build with KJ_ALL=1 first)
 const prune = process.argv.includes('--prune');
 const bad = new Set();
-const isExtra = (w) => /^(ko|ja)\dx/.test(w.lesson);
+const isExtra = (w) => /^(ko|ja|th)\dx/.test(w.lesson);
 const drop = (w) => isExtra(w) && bad.add(`${w.id.slice(0, 2)} ${w.lesson} ${w.hanzi}`);
 // of several words that collide, the first one of the main file (or else the first one) stays
 const dropGroup = (v) => {
@@ -94,6 +94,90 @@ for (const c of ['ko', 'ja']) {
   if (dup.length) errors.push(`${c}: duplicate words ${dup.join(', ')}`);
   if (!prune && n !== TOTAL[c]) errors.push(`${c}: ${n} words, expected exactly ${TOTAL[c]}`);
   console.log(`${c}: ${n} words checked`);
+}
+
+// Thai (v5.6.0): exactly 5,000 words, 1,000 per level, lessons of 12 words (1,000 is not a multiple of 12, so
+// exactly 4 lessons per level have 13), no word or meaning twice, every word in its own example, and the
+// romanization must be RTGS (Royal Thai General System): plain a–z, no tone or length marks, RTGS spellings only.
+{
+  const c = 'th';
+  const ws = load(c);
+  const INITIAL = {};
+  for (const [letters, r] of [['ก', 'k'], ['ขฃคฅฆ', 'kh'], ['ง', 'ng'], ['จฉชฌ', 'ch'], ['ซศษส', 's'], ['ญย', 'y'], ['ฎด', 'd'], ['ฏต', 't'], ['ฐฑฒถทธ', 'th'], ['ณน', 'n'], ['บ', 'b'], ['ป', 'p'], ['ผพภ', 'ph'], ['ฝฟ', 'f'], ['ม', 'm'], ['รฤ', 'r'], ['ลฬ', 'l'], ['ว', 'w'], ['หฮ', 'h'], ['อ', '']])
+    for (const ch of letters) INITIAL[ch] = r;
+  // what an RTGS romanization may start with, from the spelling of the word
+  const initials = (word) => {
+    const t = word.replace(/^[เแโใไ]/, '');
+    const [a, b] = [t[0], t[1]];
+    if (a === 'ห' && 'งญนมยรลว'.includes(b)) return [INITIAL[b], 'h']; // silent leading ห, or ห + its own vowel (โหระพา = horapha)
+    if (a === 'อ' && b === 'ย') return ['y'];
+    if (a === 'อ') return ['a', 'e', 'i', 'o', 'u'];
+    if (a === 'ท' && b === 'ร') return ['s', 'th', 'thr', 'thor']; // ทราย = sai, โทร = tho
+    if ('สศซจ'.includes(a) && b === 'ร') return [INITIAL[a]]; // สร้าง = sang, จริง = ching
+    return [INITIAL[a]];
+  };
+  // a hyphen separates syllables where two vowels would otherwise run together (sa-at, phra-athit)
+  const rtgs = (r) => /^[a-z]+(-[a-z]+)*$/.test(r) && r.split('-').every(rtgsPart);
+  const rtgsPart = (r) =>
+    /^[a-z]+$/.test(r) &&
+    !/[jqvxz]/.test(r) && // not RTGS letters
+    !/c(?!h)/.test(r) && !/(?<!n)g/.test(r) && // c only in ch, g only in ng
+    !/aa|ee|ii|oo|uu/.test(r) && // RTGS does not mark vowel length
+    !/[yw](?![aeiou])/.test(r) && // y and w are consonants only (ai, ao – never ay, aw)
+    /([aeiou]|k|t|p|n|m|ng)$/.test(r) && // the only final sounds
+    !/[bdfhlrs](?![aeiouhrlw])/.test(r.replace(/[ptkc]h/g, 'x')); // b d f h l r s never close a syllable
+  const perLesson = new Map();
+  for (const w of ws) {
+    perLesson.set(w.lesson, (perLesson.get(w.lesson) ?? 0) + 1);
+    const at = `${c} ${w.lesson} ${w.hanzi}`;
+    const before = errors.length;
+    if (!/^[\u0e01-\u0e3a\u0e40-\u0e4e]+$/.test(w.hanzi)) errors.push(`${at}: unexpected characters`);
+    if (!allow.thRoman.includes(w.hanzi)) {
+      if (!rtgs(w.pinyin)) errors.push(`${at}: romanization "${w.pinyin}" is not RTGS`);
+      else if (!initials(w.hanzi).some((x) => x !== undefined && w.pinyin.startsWith(x) && (x !== 'k' || !w.pinyin.startsWith('kh')) && (x !== 't' || !w.pinyin.startsWith('th')) && (x !== 'p' || !w.pinyin.startsWith('ph')) && (x !== 'n' || !w.pinyin.startsWith('ng'))))
+        errors.push(`${at}: romanization "${w.pinyin}" does not start with the sound of the first letter`);
+    }
+    for (const [i, t] of w.ex.tokens.entries()) if (!/^[0-9]+$/.test(t) && !rtgs(w.ex.py[i]) && !allow.thRoman.includes(t)) errors.push(`${at}: example romanization "${w.ex.py[i]}" of ${t} is not RTGS`);
+    if (!w.vi || /[\u0e00-\u0e7f]/.test(w.vi)) errors.push(`${at}: bad meaning "${w.vi}"`);
+    if (w.id !== `${w.lesson}-${w.hanzi}`) errors.push(`${at}: id ${w.id} does not belong to the word`);
+    if (w.ex.tokens.length !== w.ex.py.length) errors.push(`${at}: example tokens and romanization differ in length`);
+    if (w.ex.tokens.length < 2) errors.push(`${at}: example is too short`);
+    if (!w.ex.tokens.join('').includes(w.hanzi) && !allow.example.th.includes(w.hanzi)) errors.push(`${at}: the example does not contain the word`);
+    const i = w.ex.tokens.indexOf(w.hanzi);
+    if (i >= 0 && w.ex.py[i] !== w.pinyin) errors.push(`${at}: romanization "${w.pinyin}" differs from the example's "${w.ex.py[i]}"`);
+    if (!w.ex.vi || /[\u0e00-\u0e7f]/.test(w.ex.vi)) errors.push(`${at}: bad example translation`);
+    if (errors.length > before) drop(w);
+  }
+  for (const [k, v] of groups(ws, (w) => w.vi.toLowerCase())) if (!allow.synonyms.th.includes(pairKey(v))) {
+    errors.push(`${c}: same meaning "${k}": ${pairKey(v)}`);
+    dropGroup(v);
+  }
+  const seen = new Set();
+  for (const w of ws) {
+    if (seen.has(w.hanzi)) {
+      errors.push(`${c}: duplicate word ${w.hanzi} (${w.lesson})`);
+      drop(w);
+    }
+    seen.add(w.hanzi);
+  }
+  if (!prune) {
+    if (ws.length !== 5000) errors.push(`${c}: ${ws.length} words, expected exactly 5000`);
+    for (let lv = 1; lv <= 5; lv++) {
+      const n = ws.filter((w) => w.lesson.startsWith(`th${lv}x`)).length;
+      if (n !== 1000) errors.push(`${c} level ${lv}: ${n} words, expected exactly 1000`);
+      const sizes = [...perLesson].filter(([id]) => id.startsWith(`th${lv}x`)).map(([, k]) => k);
+      const odd = sizes.filter((k) => k !== 12);
+      if (odd.some((k) => k !== 13) || odd.length > 4) errors.push(`${c} level ${lv}: lessons must have 12 words (4 lessons of 13 make up 1,000); found sizes ${[...new Set(odd)].join(', ')} in ${odd.length} lessons`);
+    }
+  }
+  // reported, not an error: RTGS has no tones or vowel length, so different Thai words can be written alike in Latin
+  // letters; and a Vietnamese meaning that another course also teaches is expected (the same idea in another language).
+  const homo = groups(ws, (w) => w.pinyin);
+  const others = new Set(['ko', 'ja', 'en'].flatMap((x) => load(x).map((w) => w.vi.toLowerCase())));
+  const shared = ws.filter((w) => others.has(w.vi.toLowerCase())).length;
+  const otherWords = new Set(['ko', 'ja', 'en'].flatMap((x) => load(x).map((w) => w.hanzi)));
+  const sameWord = ws.filter((w) => otherWords.has(w.hanzi)).length;
+  console.log(`${c}: ${ws.length} words checked (${perLesson.size} lessons; ${homo.length} groups of different words with the same RTGS spelling; ${sameWord} words also in another course; ${shared} meanings also taught in another course)`);
 }
 
 // English

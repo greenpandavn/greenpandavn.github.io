@@ -1,0 +1,60 @@
+=4
+@Xuất bản và nhiếp ảnh|In ấn, quay chụp
+โรงพิมพ์:rongphim|nhà in|หนังสือ อยู่ ที่ โรงพิมพ์|Sách đang ở nhà in.
+พิสูจน์อักษร:phisut-akson|đọc soát lỗi|เธอ ทำงาน พิสูจน์อักษร|Cô ấy làm việc soát lỗi.
+จัดรูปเล่ม:chatruplem|dàn trang|เขา จัดรูปเล่ม หนังสือ|Anh ấy dàn trang sách.
+ปกแข็ง:pokkhaeng|bìa cứng|หนังสือ ปกแข็ง แพง กว่า|Sách bìa cứng đắt hơn.
+ปกอ่อน:pok-on|bìa mềm|ผม ซื้อ หนังสือ ปกอ่อน|Tôi mua sách bìa mềm.
+สารบัญ:saraban|mục lục|ดู สารบัญ หน้า แรก|Xem mục lục ở trang đầu.
+ดัชนี:datchani|chỉ mục; chỉ số|ดัชนี อยู่ ท้าย เล่ม|Chỉ mục ở cuối sách.
+เชิงอรรถ:choeng-at|chú thích cuối trang|ผู้เขียน ใส่ เชิงอรรถ|Tác giả thêm chú thích cuối trang.
+คำนำ:khamnam|lời nói đầu|ผม อ่าน คำนำ ก่อน|Tôi đọc lời nói đầu trước.
+ภาคผนวก:phakphanuak|phụ lục|ตาราง อยู่ ใน ภาคผนวก|Bảng nằm trong phụ lục.
+ฉบับพิมพ์ครั้งแรก:chabapphimkhrangraek|bản in lần đầu|นี่ เป็น ฉบับพิมพ์ครั้งแรก|Đây là bản in lần đầu.
+ยอดพิมพ์:yotphim|số lượng in|ยอดพิมพ์ ของ นิตยสาร ลด ลง|Số lượng in của tạp chí giảm.
+ค่าลิขสิทธิ์:khalikkhasit|tiền bản quyền|นักเขียน ได้ ค่าลิขสิทธิ์|Nhà văn nhận tiền bản quyền.
+นามปากกา:nampakka|bút danh|เธอ ใช้ นามปากกา|Cô ấy dùng bút danh.
+หนังสืออิเล็กทรอนิกส์:nangsue-ilekthronik|sách điện tử|ผม อ่าน หนังสืออิเล็กทรอนิกส์|Tôi đọc sách điện tử.
+หนังสือเสียง:nangsuesiang|sách nói|ยาย ฟัง หนังสือเสียง|Bà ngoại nghe sách nói.
+แบบอักษร:baep-akson|phông chữ|แบบอักษร นี้ อ่าน ง่าย|Phông chữ này dễ đọc.
+รูรับแสง:rurapsaeng|khẩu độ|ช่างภาพ ปรับ รูรับแสง|Nhiếp ảnh gia chỉnh khẩu độ.
+ความเร็วชัตเตอร์:khwamreochattoe|tốc độ màn trập|ความเร็วชัตเตอร์ ต้อง สูง|Tốc độ màn trập phải cao.
+ขาตั้งกล้อง:khatangklong|chân máy ảnh|ผม ลืม ขาตั้งกล้อง|Tôi quên chân máy ảnh.
+เลนส์มุมกว้าง:lenmumkwang|ống kính góc rộng|เขา ใช้ เลนส์มุมกว้าง|Anh ấy dùng ống kính góc rộng.
+ภาพย้อนแสง:phapyonsaeng|ảnh ngược sáng|ภาพย้อนแสง นี้ สวย|Ảnh ngược sáng này đẹp.
+ภาพเบลอ:phapbloe|ảnh bị nhòe|มือ สั่น ทำให้ ภาพเบลอ|Tay run làm ảnh bị nhòe.
+แต่งภาพ:taengphap|chỉnh sửa ảnh|เธอ แต่งภาพ ก่อน โพสต์|Cô ấy chỉnh ảnh trước khi đăng.
+ตัดต่อวิดีโอ:tattowidio|dựng phim, cắt ghép video|เขา รับ งาน ตัดต่อวิดีโอ|Anh ấy nhận việc dựng video.
+กองถ่าย:kongthai|đoàn làm phim|กองถ่าย มา ที่ หมู่บ้าน|Đoàn làm phim đến làng.
+ผู้กำกับภาพ:phukamkapphap|đạo diễn hình ảnh|ผู้กำกับภาพ เลือก มุม กล้อง|Đạo diễn hình ảnh chọn góc máy.
+บทภาพยนตร์:botphapphayon|kịch bản phim|เขา เขียน บทภาพยนตร์|Anh ấy viết kịch bản phim.
+นักแสดงสมทบ:naksadaengsomthop|diễn viên phụ|เธอ เป็น นักแสดงสมทบ|Cô ấy là diễn viên phụ.
+ตัวประกอบ:tuaprakop|diễn viên quần chúng|ผม เคย เป็น ตัวประกอบ|Tôi từng làm diễn viên quần chúng.
+คำบรรยายใต้ภาพ:khambanyaitaiphap|phụ đề|หนัง มี คำบรรยายใต้ภาพ|Phim có phụ đề.
+รอบปฐมทัศน์:roppathommathat|buổi công chiếu đầu tiên|ดารา มา รอบปฐมทัศน์|Diễn viên đến buổi công chiếu.
+@Đô thị và hạ tầng|Quy hoạch, tiện ích
+ผังเมือง:phangmueang|quy hoạch đô thị|เทศบาล เปลี่ยน ผังเมือง|Thành phố thay đổi quy hoạch.
+สาธารณูปโภค:satharanupphok|tiện ích công cộng (điện nước)|หมู่บ้าน ขาด สาธารณูปโภค|Ngôi làng thiếu điện nước.
+ท่อประปา:thoprapa|ống nước máy|ท่อประปา แตก|Ống nước máy vỡ.
+บ่อบำบัดน้ำเสีย:bobambatnamsia|bể xử lý nước thải|โรงงาน มี บ่อบำบัดน้ำเสีย|Nhà máy có bể xử lý nước thải.
+โรงไฟฟ้า:rongfaifa|nhà máy điện|ใกล้ หมู่บ้าน มี โรงไฟฟ้า|Gần làng có nhà máy điện.
+เสาไฟฟ้า:saofaifa|cột điện|รถ ชน เสาไฟฟ้า|Xe đâm vào cột điện.
+อ่างเก็บน้ำ:angkepnam|hồ chứa nước|อ่างเก็บน้ำ แห้ง ใน หน้าแล้ง|Hồ chứa cạn vào mùa khô.
+คลองชลประทาน:khlongchonlaprathan|kênh thủy lợi|ชาวนา ใช้ น้ำ จาก คลองชลประทาน|Nông dân dùng nước từ kênh thủy lợi.
+ทางระบายน้ำ:thangrabainam|cống rãnh|ทางระบายน้ำ ตัน|Cống rãnh bị tắc.
+ทางจักรยาน:thangchakkrayan|làn đường xe đạp|เมือง นี้ มี ทางจักรยาน|Thành phố này có làn xe đạp.
+ทางยกระดับ:thangyokradap|đường trên cao|รถ วิ่ง บน ทางยกระดับ|Xe chạy trên đường trên cao.
+จุดจอดแล้วจร:chutchotlaeochon|bãi đỗ xe trung chuyển|สถานี มี จุดจอดแล้วจร|Nhà ga có bãi đỗ xe trung chuyển.
+พื้นที่สีเขียว:phuenthisikhiao|không gian xanh|กรุงเทพ มี พื้นที่สีเขียว น้อย|Bangkok có ít không gian xanh.
+บ้านจัดสรร:banchatsan|khu nhà ở xây sẵn|เขา ซื้อ บ้านจัดสรร|Anh ấy mua nhà trong khu xây sẵn.
+อาคารพาณิชย์:akhanphanit|nhà phố thương mại|พ่อ เช่า อาคารพาณิชย์|Bố thuê nhà phố thương mại.
+เขตอุตสาหกรรม:khet-utsahakam|khu công nghiệp|โรงงาน อยู่ ใน เขตอุตสาหกรรม|Nhà máy nằm trong khu công nghiệp.
+เขตที่อยู่อาศัย:khetthiyu-asai|khu dân cư|ที่ นี่ เป็น เขตที่อยู่อาศัย|Đây là khu dân cư.
+การเวนคืนที่ดิน:kanwenkhuenthidin|trưng thu đất|รัฐบาล ประกาศ การเวนคืนที่ดิน|Chính phủ công bố trưng thu đất.
+ใบอนุญาตก่อสร้าง:bai-anuyatkosang|giấy phép xây dựng|เขา ขอ ใบอนุญาตก่อสร้าง|Anh ấy xin giấy phép xây dựng.
+ที่ทิ้งขยะ:thithingkhaya|bãi rác|ที่ทิ้งขยะ อยู่ นอก เมือง|Bãi rác nằm ngoài thành phố.
+เตาเผาขยะ:taophaokhaya|lò đốt rác|เทศบาล สร้าง เตาเผาขยะ|Thành phố xây lò đốt rác.
+ไฟถนน:faithanon|đèn đường|ไฟถนน ใน ซอย เสีย|Đèn đường trong ngõ hỏng.
+ป้ายจราจร:paicharachon|biển báo giao thông|คน ขับ ต้อง ดู ป้ายจราจร|Người lái phải xem biển báo giao thông.
+กล้องจับความเร็ว:klongchapkhwamreo|camera bắn tốc độ|ถนน นี้ มี กล้องจับความเร็ว|Đường này có camera bắn tốc độ.
+เมืองอัจฉริยะ:mueang-atchariya|thành phố thông minh|ภูเก็ต จะ เป็น เมืองอัจฉริยะ|Phuket sẽ là thành phố thông minh.

@@ -1,0 +1,64 @@
+=5
+@Kỹ thuật|Xây dựng, hóa chất, phần mềm
+วิศวกรรมโยธา:witsawakamyotha|kỹ thuật xây dựng dân dụng|เขา จบ วิศวกรรมโยธา|Anh ấy tốt nghiệp kỹ thuật xây dựng.
+วิศวกรรมเคมี:witsawakamkhemi|kỹ thuật hóa học|เธอ เรียน วิศวกรรมเคมี|Cô ấy học kỹ thuật hóa học.
+วิศวกรรมซอฟต์แวร์:witsawakamsofwae|kỹ nghệ phần mềm|บริษัท ต้องการ คน จบ วิศวกรรมซอฟต์แวร์|Công ty cần người tốt nghiệp kỹ nghệ phần mềm.
+คอนกรีตเสริมเหล็ก:khonkritsoemlek|bê tông cốt thép|สะพาน ทำ จาก คอนกรีตเสริมเหล็ก|Cây cầu làm bằng bê tông cốt thép.
+คอนกรีตอัดแรง:khonkrit-atraeng|bê tông dự ứng lực|คาน นี้ เป็น คอนกรีตอัดแรง|Dầm này là bê tông dự ứng lực.
+เหล็กเส้น:leksen|thép thanh|คน งาน ผูก เหล็กเส้น|Công nhân buộc thép thanh.
+โครงถัก:khrongthak|giàn kết cấu|หลังคา ใช้ โครงถัก เหล็ก|Mái dùng giàn thép.
+น้ำหนักบรรทุก:namnakbanthuk|tải trọng|สะพาน รับ น้ำหนักบรรทุก ได้ มาก|Cầu chịu được tải trọng lớn.
+แรงเฉือน:raengchuean|lực cắt|วิศวกร คำนวณ แรงเฉือน|Kỹ sư tính lực cắt.
+แรงดึง:raengdueng|lực kéo|ลวด รับ แรงดึง ได้ ดี|Dây thép chịu lực kéo tốt.
+แรงอัด:raeng-at|lực nén|คอนกรีต รับ แรงอัด ได้ ดี|Bê tông chịu lực nén tốt.
+การทรุดตัว:kansuttua|sự lún|ตึก มี การทรุดตัว|Tòa nhà bị lún.
+สำรวจดิน:samruatdin|khảo sát địa chất|บริษัท สำรวจดิน ก่อน สร้าง|Công ty khảo sát địa chất trước khi xây.
+รถเครน:rotkhren|xe cần cẩu|รถเครน ยก เหล็ก|Xe cần cẩu nâng thép.
+รถบดถนน:rotbotthanon|xe lu|รถบดถนน ทำงาน ตอน กลางคืน|Xe lu làm việc ban đêm.
+โรงกลั่น:rongklan|nhà máy lọc dầu|ระยอง มี โรงกลั่น ใหญ่|Rayong có nhà máy lọc dầu lớn.
+การกลั่น:kanklan|sự chưng cất|น้ำมัน ผ่าน การกลั่น|Dầu qua quá trình chưng cất.
+หอกลั่น:hoklan|tháp chưng cất|โรงงาน สร้าง หอกลั่น ใหม่|Nhà máy xây tháp chưng cất mới.
+ปิโตรเคมี:pitrokhemi|hóa dầu|เขา ทำงาน ใน อุตสาหกรรม ปิโตรเคมี|Anh ấy làm trong ngành hóa dầu.
+พอลิเมอร์:pholimoe|polime|พลาสติก เป็น พอลิเมอร์|Nhựa là polime.
+เครื่องปฏิกรณ์:khrueangpatikon|lò phản ứng|วิศวกร ดูแล เครื่องปฏิกรณ์|Kỹ sư trông coi lò phản ứng.
+หม้อไอน้ำ:mo-ainam|nồi hơi|โรงงาน มี หม้อไอน้ำ สอง ตัว|Nhà máy có hai nồi hơi.
+ซอร์สโค้ด:sotkhot|mã nguồn|โปรแกรมเมอร์ แก้ ซอร์สโค้ด|Lập trình viên sửa mã nguồn.
+คอมไพเลอร์:khomphailoe|trình biên dịch|คอมไพเลอร์ แจ้ง ข้อผิดพลาด|Trình biên dịch báo lỗi.
+ดีบัก:dibak|gỡ lỗi|เขา ดีบัก โปรแกรม ทั้ง คืน|Anh ấy gỡ lỗi chương trình cả đêm.
+โครงสร้างข้อมูล:khrongsangkhomun|cấu trúc dữ liệu|วิชา โครงสร้างข้อมูล ยาก|Môn cấu trúc dữ liệu khó.
+ส่วนต่อประสาน:suantoprasan|giao diện (interface)|ส่วนต่อประสาน นี้ ใช้ ง่าย|Giao diện này dễ dùng.
+การเรียนรู้ของเครื่อง:kanrianrukhongkhrueang|học máy|บริษัท ใช้ การเรียนรู้ของเครื่อง|Công ty dùng học máy.
+โครงข่ายประสาทเทียม:khrongkhaiprasatthiam|mạng nơ ron nhân tạo|นักวิจัย ฝึก โครงข่ายประสาทเทียม|Nhà nghiên cứu huấn luyện mạng nơ ron nhân tạo.
+@Nông học và thú y|Đất, cây trồng, vật nuôi
+ปฐพีวิทยา:pathaphiwitthaya|thổ nhưỡng học|เขา เรียน ปฐพีวิทยา|Anh ấy học thổ nhưỡng học.
+ดินร่วน:dinruan|đất thịt (tơi xốp)|ดินร่วน เหมาะ กับ การ ปลูก ผัก|Đất thịt hợp trồng rau.
+ดินเหนียว:dinniao|đất sét|ดินเหนียว ใช้ ปั้น หม้อ|Đất sét dùng nặn nồi.
+ดินทราย:dinsai|đất cát|ดินทราย เก็บ น้ำ ไม่ ได้|Đất cát không giữ được nước.
+ดินเค็ม:dinkhem|đất nhiễm mặn|อีสาน มี ดินเค็ม มาก|Vùng Đông Bắc có nhiều đất mặn.
+ดินเปรี้ยว:dinpriao|đất phèn|ชาวนา ใส่ ปูน แก้ ดินเปรี้ยว|Nông dân bón vôi chữa đất phèn.
+หน้าดิน:nadin|lớp đất mặt|ฝน ชะ หน้าดิน ไป|Mưa cuốn trôi lớp đất mặt.
+การพังทลายของดิน:kanphangthalaikhongdin|xói mòn đất|ต้นไม้ ป้องกัน การพังทลายของดิน|Cây cối ngăn xói mòn đất.
+ปุ๋ยคอก:puikhok|phân chuồng|ลุง ใส่ ปุ๋ยคอก ใน สวน|Bác trai bón phân chuồng trong vườn.
+ปุ๋ยหมัก:puimak|phân ủ|ยาย ทำ ปุ๋ยหมัก จาก ใบไม้|Bà ngoại làm phân ủ từ lá cây.
+ปุ๋ยเคมี:puikhemi|phân hóa học|ชาวนา ลด การ ใช้ ปุ๋ยเคมี|Nông dân giảm dùng phân hóa học.
+ยาฆ่าหญ้า:yakhaya|thuốc diệt cỏ|ลุง ฉีด ยาฆ่าหญ้า|Bác trai phun thuốc diệt cỏ.
+เกษตรอินทรีย์:kaset-insi|nông nghiệp hữu cơ|หมู่บ้าน นี้ ทำ เกษตรอินทรีย์|Làng này làm nông nghiệp hữu cơ.
+ปลูกพืชหมุนเวียน:plukphuetmunwian|luân canh|ชาวนา ปลูกพืชหมุนเวียน|Nông dân luân canh.
+พืชเชิงเดี่ยว:phuetchoengdiao|độc canh|พืชเชิงเดี่ยว ทำให้ ดิน เสีย|Độc canh làm hỏng đất.
+ตอนกิ่ง:tonking|chiết cành|พ่อ ตอนกิ่ง มะนาว|Bố chiết cành chanh.
+ทาบกิ่ง:thapking|ghép áp cành|ชาวสวน ทาบกิ่ง มะม่วง|Người làm vườn ghép áp cành xoài.
+เพาะเมล็ด:phomalet|ươm hạt|เด็ก เพาะเมล็ด ถั่ว|Trẻ con ươm hạt đậu.
+เพาะเลี้ยงเนื้อเยื่อ:pholiangnueayuea|nuôi cấy mô|ห้องแล็บ เพาะเลี้ยงเนื้อเยื่อ กล้วยไม้|Phòng thí nghiệm nuôi cấy mô hoa lan.
+โรงเรือน:rongruean|nhà kính, nhà màng|เขา ปลูก เมลอน ใน โรงเรือน|Anh ấy trồng dưa lưới trong nhà màng.
+ระบบน้ำหยด:rabopnamyot|hệ thống tưới nhỏ giọt|สวน นี้ ใช้ ระบบน้ำหยด|Vườn này dùng tưới nhỏ giọt.
+ผลผลิตต่อไร่:phonphalittorai|năng suất mỗi rai|ผลผลิตต่อไร่ ปี นี้ สูง|Năng suất mỗi rai năm nay cao.
+ยุ้งฉาง:yungchang|kho thóc|ชาวนา เก็บ ข้าว ใน ยุ้งฉาง|Nông dân cất lúa trong kho thóc.
+โรงสี:rongsi|nhà máy xay xát|ลุง ขาย ข้าว ให้ โรงสี|Bác trai bán lúa cho nhà máy xay.
+สัตวแพทยศาสตร์:sattawaphaetthayasat|thú y học|เธอ เรียน สัตวแพทยศาสตร์|Cô ấy học thú y.
+ปศุสัตว์:pasusat|gia súc, chăn nuôi|จังหวัด นี้ เลี้ยง ปศุสัตว์ มาก|Tỉnh này chăn nuôi nhiều.
+โรคปากและเท้าเปื่อย:rokpaklaethaopueai|bệnh lở mồm long móng|วัว ติด โรคปากและเท้าเปื่อย|Bò mắc bệnh lở mồm long móng.
+ผสมเทียม:phasomthiam|thụ tinh nhân tạo|สัตวแพทย์ ผสมเทียม วัว|Bác sĩ thú y thụ tinh nhân tạo cho bò.
+ทำหมัน:thamman|triệt sản|เรา พา แมว ไป ทำหมัน|Chúng tôi đưa mèo đi triệt sản.
+อาหารสัตว์:ahansat|thức ăn chăn nuôi|ราคา อาหารสัตว์ ขึ้น|Giá thức ăn chăn nuôi tăng.
+โรงฆ่าสัตว์:rongkhasat|lò mổ|หมู ถูก ส่ง ไป โรงฆ่าสัตว์|Lợn bị đưa đến lò mổ.
+คอกสัตว์:khoksat|chuồng gia súc|ลุง ล้าง คอกสัตว์ ทุก เช้า|Bác trai rửa chuồng mỗi sáng.

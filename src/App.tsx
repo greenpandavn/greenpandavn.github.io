@@ -16,10 +16,10 @@ import { everSignedIn, firebaseConfigured, useAccount } from './lib/account';
 import AnnouncementPanel from './components/AnnouncementPanel';
 import LoginGate from './components/LoginGate';
 import { needsLogin } from './lib/gate';
-import { needsVip, useVip, vipCourse } from './lib/vip';
+import { partVip, useVip, useVipParts, vipCourse } from './lib/vip';
 import VipGate from './components/VipGate';
 import { COURSE_LANG, VOICE_PACK } from './lib/speech';
-import { LESSON_BY_ID, courseChosen, getCourse, langName, loadUnits, setCourse, unitLevel, unitsOfWords, useContentVersion } from './data';
+import { LESSON_BY_ID, courseChosen, getCourse, langName, loadUnits, setCourse, unitsOfWords, useContentVersion } from './data';
 import CoursePicker from './components/CoursePicker';
 import { socialBadge, useSocial } from './lib/socialState';
 import LevelPicker from './components/LevelPicker';
@@ -165,19 +165,20 @@ export default function App() {
   // v5.4.0: VIP content is a second layer on top of the login gate (see lib/vip.ts).
   const vip = useVip();
   const [vipGate, setVipGate] = useState(false);
-  const vipBlocked = (level: number) => {
-    if (!firebaseConfigured || vip || !needsVip(getCourse(), level)) return false;
+  useVipParts();
+  const vipBlocked = (unit: number) => {
+    if (!firebaseConfigured || vip || !partVip(getCourse(), unit)) return false;
     setVipGate(true);
     return true;
   };
   const gated = (unit: number | undefined) => {
     // VIP content says so first (its gate also offers the login); everything else from Part 3 on asks for a login.
-    if (unit !== undefined && vipBlocked(unitLevel(unit))) return true;
+    if (unit !== undefined && vipBlocked(unit)) return true;
     if (!firebaseConfigured || acc.user || !needsLogin(unit)) return false;
     setGate(true);
     return true;
   };
-  // Korean and Japanese are VIP-only as a whole: their games, reviews and mock tests are closed too.
+  // A course whose parts are all VIP is closed as a whole: its games, reviews and mock tests too.
   const courseBlocked = firebaseConfigured && !vip && vipCourse(getCourse());
 
   const openAuth = () => {

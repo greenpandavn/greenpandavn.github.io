@@ -1,0 +1,56 @@
+=4
+@Thiên văn và địa chất|Vũ trụ, đất đá
+ทางช้างเผือก:thangchangphueak|dải Ngân Hà|คืนนี้ เรา เห็น ทางช้างเผือก|Đêm nay chúng tôi thấy dải Ngân Hà.
+ดาวฤกษ์:daoroek|ngôi sao (định tinh)|ดวงอาทิตย์ เป็น ดาวฤกษ์|Mặt Trời là một ngôi sao.
+ดาวหาง:daohang|sao chổi|คืนนี้ มี ดาวหาง|Đêm nay có sao chổi.
+ดาวตก:daotok|sao băng|เด็ก เห็น ดาวตก|Đứa trẻ thấy sao băng.
+อุกกาบาต:ukkabat|thiên thạch|อุกกาบาต ตก ใน ทะเลทราย|Thiên thạch rơi xuống sa mạc.
+ดาวอังคาร:dao-angkhan|sao Hỏa|มนุษย์ อยาก ไป ดาวอังคาร|Con người muốn lên sao Hỏa.
+ดาวศุกร์:daosuk|sao Kim|ดาวศุกร์ สว่าง มาก|Sao Kim rất sáng.
+ดาวพฤหัสบดี:daopharuehatsabodi|sao Mộc|ดาวพฤหัสบดี ใหญ่ ที่สุด|Sao Mộc lớn nhất.
+ดาวเสาร์:daosao|sao Thổ|ดาวเสาร์ มี วงแหวน|Sao Thổ có vành đai.
+หลุมดำ:lumdam|lỗ đen|นักวิทยาศาสตร์ ศึกษา หลุมดำ|Nhà khoa học nghiên cứu lỗ đen.
+สุริยุปราคา:suriyuprakha|nhật thực|พรุ่งนี้ มี สุริยุปราคา|Ngày mai có nhật thực.
+จันทรุปราคา:chanthruprakha|nguyệt thực|คืนนี้ มี จันทรุปราคา|Đêm nay có nguyệt thực.
+วงโคจร:wongkhochon|quỹ đạo|ดาวเทียม อยู่ ใน วงโคจร|Vệ tinh nằm trên quỹ đạo.
+ปีแสง:pisaeng|năm ánh sáng|ดาว นี้ ไกล ร้อย ปีแสง|Ngôi sao này xa một trăm năm ánh sáng.
+หอดูดาว:hodudao|đài thiên văn|นักเรียน ไป หอดูดาว|Học sinh đi đài thiên văn.
+สถานีอวกาศ:sathani-awakat|trạm vũ trụ|นักบินอวกาศ อยู่ บน สถานีอวกาศ|Phi hành gia sống trên trạm vũ trụ.
+เปลือกโลก:plueaklok|vỏ Trái Đất|เปลือกโลก เคลื่อน ช้า|Vỏ Trái Đất dịch chuyển chậm.
+แผ่นเปลือกโลก:phaenplueaklok|mảng kiến tạo|แผ่นเปลือกโลก ชน กัน|Các mảng kiến tạo va vào nhau.
+รอยเลื่อน:roiluean|đứt gãy địa chất|เมือง นี้ อยู่ บน รอยเลื่อน|Thành phố này nằm trên đứt gãy.
+ลาวา:lawa|dung nham|ลาวา ไหล จาก ภูเขาไฟ|Dung nham chảy từ núi lửa.
+หินแกรนิต:hinkraenit|đá hoa cương|โต๊ะ ทำ จาก หินแกรนิต|Bàn làm bằng đá hoa cương.
+หินปูน:hinpun|đá vôi|ภูเขา นี้ เป็น หินปูน|Ngọn núi này là đá vôi.
+หินทราย:hinsai|sa thạch|ปราสาท สร้าง จาก หินทราย|Đền tháp xây bằng sa thạch.
+ซากดึกดำบรรพ์:sakduekdamban|hóa thạch|นักวิจัย พบ ซากดึกดำบรรพ์|Nhà nghiên cứu tìm thấy hóa thạch.
+ชั้นดิน:chandin|tầng đất|ชั้นดิน นี้ อุดมสมบูรณ์|Tầng đất này màu mỡ.
+น้ำบาดาล:nambadan|nước ngầm|ชาวบ้าน ใช้ น้ำบาดาล|Dân làng dùng nước ngầm.
+@Khí tượng|Thời tiết chuyên ngành
+อุตุนิยมวิทยา:utuniyomwitthaya|khí tượng học|กรม อุตุนิยมวิทยา เตือน เรื่อง พายุ|Cục khí tượng cảnh báo về bão.
+ความกดอากาศ:khwamkot-akat|áp suất không khí|ความกดอากาศ ต่ำ ทำให้ ฝน ตก|Áp suất thấp làm trời mưa.
+มรสุม:morasum|gió mùa|มรสุม มา ใน เดือน พฤษภาคม|Gió mùa đến vào tháng Năm.
+ไต้ฝุ่น:taifun|bão nhiệt đới (bão lớn)|ไต้ฝุ่น เข้า เวียดนาม|Bão đổ vào Việt Nam.
+พายุหมุน:phayumun|lốc xoáy|พายุหมุน ทำลาย บ้าน|Lốc xoáy phá hủy nhà cửa.
+น้ำค้างแข็ง:namkhangkhaeng|sương muối|บน ดอย มี น้ำค้างแข็ง|Trên núi có sương muối.
+ฟ้าผ่า:fapha|sét đánh|ฟ้าผ่า ต้นไม้|Sét đánh vào cây.
+คลื่นความร้อน:khluenkhwamron|đợt nắng nóng|ยุโรป มี คลื่นความร้อน|Châu Âu có đợt nắng nóng.
+คลื่นความหนาว:khluenkhwamnao|đợt rét|คลื่นความหนาว มา จาก จีน|Đợt rét đến từ Trung Quốc.
+ความชื้นสัมพัทธ์:khwamchuensamphat|độ ẩm tương đối|ความชื้นสัมพัทธ์ วันนี้ สูง|Độ ẩm tương đối hôm nay cao.
+ปริมาณน้ำฝน:parimannamfon|lượng mưa|ปริมาณน้ำฝน ปี นี้ น้อย|Lượng mưa năm nay ít.
+ทัศนวิสัย:thatsanawisai|tầm nhìn xa|หมอก ทำให้ ทัศนวิสัย ต่ำ|Sương mù làm tầm nhìn kém.
+ลมกรรโชก:lomkanchok|gió giật|ระวัง ลมกรรโชก แรง|Coi chừng gió giật mạnh.
+ลมบก:lombok|gió đất|ลมบก พัด ตอน กลางคืน|Gió đất thổi ban đêm.
+ลมทะเล:lomthale|gió biển|ลมทะเล เย็น สบาย|Gió biển mát dễ chịu.
+หย่อมความกดอากาศต่ำ:yomkhwamkot-akattam|vùng áp thấp|หย่อมความกดอากาศต่ำ ทำให้ ฝน หนัก|Vùng áp thấp gây mưa to.
+แนวปะทะอากาศ:naeopatha-akat|frông thời tiết|แนวปะทะอากาศ เคลื่อน มา ทาง เหนือ|Frông thời tiết di chuyển lên phía bắc.
+เอลนีโญ:enniyo|hiện tượng El Niño|เอลนีโญ ทำให้ อากาศ แล้ง|El Niño làm thời tiết khô hạn.
+ชั้นบรรยากาศ:chanbanyakat|tầng khí quyển|ชั้นบรรยากาศ ป้องกัน โลก|Tầng khí quyển bảo vệ Trái Đất.
+รังสีอัลตราไวโอเลต:rangsi-antrawaiolet|tia cực tím|รังสีอัลตราไวโอเลต ทำร้าย ผิว|Tia cực tím gây hại cho da.
+ดัชนีความร้อน:datchanikhwamron|chỉ số nhiệt|ดัชนีความร้อน วันนี้ สูง มาก|Chỉ số nhiệt hôm nay rất cao.
+ฝนฟ้าคะนอง:fonfakhanong|mưa dông|บ่าย นี้ มี ฝนฟ้าคะนอง|Chiều nay có mưa dông.
+ฝนหลวง:fonluang|mưa nhân tạo (dự án hoàng gia)|รัฐบาล ทำ ฝนหลวง|Chính phủ làm mưa nhân tạo.
+หน้ามรสุม:namorasum|mùa gió mùa|หน้ามรสุม เรือ ไม่ ออก ทะเล|Mùa gió mùa thuyền không ra khơi.
+น้ำป่า:nampa|lũ quét, lũ rừng|น้ำป่า ไหล เข้า หมู่บ้าน|Lũ rừng tràn vào làng.
+เตือนภัย:tueanphai|cảnh báo thiên tai|กรม เตือนภัย ประชาชน|Cục cảnh báo thiên tai cho dân.
+อพยพหนีภัย:opphayopniphai|sơ tán tránh nạn|ชาวบ้าน อพยพหนีภัย|Dân làng sơ tán tránh nạn.

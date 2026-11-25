@@ -1,0 +1,81 @@
+=2
+@Truyền thông|Báo chí và giải trí
+สื่อ:sue|truyền thông, phương tiện|สื่อ มี ผล ต่อ สังคม|Truyền thông có ảnh hưởng tới xã hội.
+รายการ:raikan|chương trình (tivi); danh sách|รายการ นี้ สนุก|Chương trình này hay.
+ละคร:lakhon|phim truyền hình, kịch|แม่ ชอบ ดู ละคร|Mẹ thích xem phim truyền hình.
+ภาพยนตร์:phapphayon|điện ảnh, phim (trang trọng)|ภาพยนตร์ ไทย เรื่อง นี้ ดัง|Bộ phim Thái này nổi tiếng.
+การ์ตูน:katun|hoạt hình, truyện tranh|เด็ก ดู การ์ตูน|Trẻ em xem hoạt hình.
+นิตยสาร:nittayasan|tạp chí|เธอ อ่าน นิตยสาร|Cô ấy đọc tạp chí.
+นิยาย:niyai|tiểu thuyết|ฉัน ชอบ อ่าน นิยาย|Tôi thích đọc tiểu thuyết.
+นักข่าว:nakkhao|phóng viên|นักข่าว ถาม คำถาม|Phóng viên đặt câu hỏi.
+นักเขียน:nakkhian|nhà văn|เขา เป็น นักเขียน ดัง|Anh ấy là nhà văn nổi tiếng.
+ผู้ชม:phuchom|khán giả|ผู้ชม ชอบ รายการ นี้|Khán giả thích chương trình này.
+ดารา:dara|ngôi sao (giải trí)|ดารา คน นี้ สวย มาก|Ngôi sao này rất đẹp.
+โฆษณา:khotsana|quảng cáo|ทีวี มี โฆษณา มาก|Tivi có nhiều quảng cáo.
+วิทยุ:witthayu|đài phát thanh, radio|ปู่ ฟัง วิทยุ ทุก เช้า|Ông nội nghe đài mỗi sáng.
+ช่อง:chong|kênh; ô, khe|ช่อง นี้ มี ข่าว|Kênh này có tin tức.
+คอนเสิร์ต:khonsoet|buổi hòa nhạc|เรา ไป ดู คอนเสิร์ต|Chúng tôi đi xem hòa nhạc.
+เวที:wethi|sân khấu|นักร้อง อยู่ บน เวที|Ca sĩ ở trên sân khấu.
+แสดง:sadaeng|biểu diễn, thể hiện|เธอ แสดง ละคร|Cô ấy diễn kịch.
+บัตรเข้าชม:batkhaochom|vé vào cửa|บัตรเข้าชม ราคา ร้อย บาท|Vé vào cửa giá một trăm baht.
+นิทรรศการ:nitthatsakan|triển lãm|เรา ไป ดู นิทรรศการ ศิลปะ|Chúng tôi đi xem triển lãm nghệ thuật.
+เทศกาล:thetsakan|lễ hội|เทศกาล นี้ สนุก มาก|Lễ hội này rất vui.
+ประกวด:prakuat|thi (tài năng, sắc đẹp)|เธอ ประกวด ร้องเพลง|Cô ấy thi hát.
+รางวัล:rangwan|giải thưởng|เขา ได้ รางวัล ที่ หนึ่ง|Anh ấy được giải nhất.
+ลอตเตอรี่:lottoeri|xổ số|ยาย ซื้อ ลอตเตอรี่ ทุก เดือน|Bà ngoại mua xổ số mỗi tháng.
+@Tài chính|Tiền bạc và ngân hàng
+เศรษฐกิจ:setthakit|kinh tế|เศรษฐกิจ ปี นี้ ดี|Kinh tế năm nay tốt.
+รายได้:raidai|thu nhập|รายได้ ของ เขา สูง|Thu nhập của anh ấy cao.
+รายจ่าย:raichai|chi tiêu, khoản chi|เดือน นี้ รายจ่าย มาก|Tháng này chi tiêu nhiều.
+หนี้:ni|nợ|เขา มี หนี้ มาก|Anh ấy có nhiều nợ.
+ดอกเบี้ย:dokbia|lãi suất, tiền lãi|ดอกเบี้ย ธนาคาร ต่ำ:tam|Lãi suất ngân hàng thấp.
+ต่ำ:tam|thấp (mức độ)|ราคา นี้ ต่ำ มาก|Giá này rất thấp.
+เงินกู้:ngoenku|khoản vay|ผม ขอ เงินกู้ ซื้อ บ้าน|Tôi xin vay tiền mua nhà.
+บัตรเครดิต:batkhredit|thẻ tín dụng|ร้าน นี้ รับ บัตรเครดิต|Cửa hàng này nhận thẻ tín dụng.
+เงินเฟ้อ:ngoenfoe|lạm phát|เงินเฟ้อ ทำ ให้ ของ แพง|Lạm phát làm cho hàng hóa đắt.
+หุ้น:hun|cổ phiếu|เขา ซื้อ หุ้น|Anh ấy mua cổ phiếu.
+ตลาดหุ้น:talathun|thị trường chứng khoán|วันนี้ ตลาดหุ้น ตก|Hôm nay thị trường chứng khoán giảm.
+อัตราแลกเปลี่ยน:attralaekplian|tỷ giá hối đoái|อัตราแลกเปลี่ยน วันนี้ ดี|Tỷ giá hôm nay tốt.
+งบประมาณ:ngoppraman|ngân sách|งบประมาณ ไม่ พอ|Ngân sách không đủ.
+ค่าใช้จ่าย:khachaichai|chi phí|ค่าใช้จ่าย ใน กรุงเทพ สูง|Chi phí ở Bangkok cao.
+ค่าครองชีพ:khakhrongchip|chi phí sinh hoạt|ค่าครองชีพ แพง ขึ้น|Chi phí sinh hoạt đắt lên.
+ส่วนลด:suanlot|khoản giảm giá|ร้าน นี้ มี ส่วนลด|Cửa hàng này có giảm giá.
+ราคาถูก:rakhathuk|giá rẻ|ตลาด นี้ ขาย ของ ราคาถูก|Chợ này bán đồ giá rẻ.
+คืนเงิน:khuenngoen|hoàn tiền|ร้าน คืนเงิน ให้ ลูกค้า|Cửa hàng hoàn tiền cho khách.
+ผ่อน:phon|trả góp|ผม ผ่อน รถ ทุก เดือน|Tôi trả góp xe mỗi tháng.
+มัดจำ:matcham|đặt cọc|คุณ ต้อง จ่าย มัดจำ|Bạn phải trả tiền đặt cọc.
+ทรัพย์สิน:sapsin|tài sản|นี่ เป็น ทรัพย์สิน ของ บริษัท|Đây là tài sản của công ty.
+มรดก:moradok|di sản, thừa kế|เขา ได้ มรดก จาก พ่อ|Anh ấy được thừa kế từ bố.
+รวยขึ้น:ruaikhuen|giàu lên|เขา รวยขึ้น เพราะ ธุรกิจ|Anh ấy giàu lên nhờ kinh doanh.
+ล้มละลาย:lomlalai|phá sản|บริษัท นี้ ล้มละลาย|Công ty này phá sản.
+@Quan hệ|Gia đình và các mối quan hệ
+ความสัมพันธ์:khwamsamphan|mối quan hệ|ความสัมพันธ์ ของ เรา ดี|Mối quan hệ của chúng tôi tốt.
+สามีภรรยา:samiphanraya|vợ chồng|สามีภรรยา คู่ นี้ มีความสุข|Cặp vợ chồng này hạnh phúc.
+คู่รัก:khurak|cặp đôi yêu nhau|คู่รัก เดิน บน ชายหาด|Cặp đôi đi dạo trên bãi biển.
+หมั้น:man|đính hôn|พี่สาว หมั้น แล้ว|Chị gái đính hôn rồi.
+เจ้าสาว:chaosao|cô dâu|เจ้าสาว สวย มาก|Cô dâu rất đẹp.
+เจ้าบ่าว:chaobao|chú rể|เจ้าบ่าว มา แล้ว|Chú rể đến rồi.
+หย่า:ya|ly hôn|เขา หย่า กับ ภรรยา|Anh ấy ly hôn với vợ.
+ตั้งครรภ์:tangkhan|mang thai|ภรรยา ของ เขา ตั้งครรภ์|Vợ anh ấy mang thai.
+คลอด:khlot|sinh con|เธอ คลอด ลูก เมื่อวาน|Cô ấy sinh con hôm qua.
+เลี้ยงดู:liangdu|nuôi dưỡng|ยาย เลี้ยงดู หลาน|Bà ngoại nuôi dưỡng cháu.
+พ่อตา:phota|bố vợ|พ่อตา ของ ผม ใจดี|Bố vợ tôi tốt bụng.
+แม่ยาย:maeyai|mẹ vợ|แม่ยาย ทำอาหาร อร่อย|Mẹ vợ nấu ăn ngon.
+ลูกเขย:lukkhoei|con rể|ลูกเขย ของ เขา เป็น หมอ|Con rể của ông ấy là bác sĩ.
+ลูกสะใภ้:luksaphai|con dâu|ลูกสะใภ้ ช่วย ทำ งาน บ้าน|Con dâu giúp làm việc nhà.
+ลูกบุญธรรม:lukbuntham|con nuôi|เขา มี ลูกบุญธรรม หนึ่ง คน|Anh ấy có một người con nuôi.
+ฝาแฝด:fafaet|sinh đôi|พี่น้อง คู่ นี้ เป็น ฝาแฝด|Hai anh em này là sinh đôi.
+บรรพบุรุษ:banphaburut|tổ tiên|เรา เคารพ บรรพบุรุษ|Chúng ta kính trọng tổ tiên.
+รุ่น:run|thế hệ; đời (máy)|คน รุ่น ใหม่ ชอบ เทคโนโลยี|Người thế hệ mới thích công nghệ.
+เพื่อนสนิท:phueansanit|bạn thân|เธอ เป็น เพื่อนสนิท ของ ฉัน|Cô ấy là bạn thân của tôi.
+คนรู้จัก:khonruchak|người quen|เขา เป็น คนรู้จัก ของ พ่อ|Anh ấy là người quen của bố.
+คนแปลกหน้า:khonplaekna|người lạ|อย่า คุย กับ คนแปลกหน้า|Đừng nói chuyện với người lạ.
+ศัตรู:sattru|kẻ thù|เขา ไม่ มี ศัตรู|Anh ấy không có kẻ thù.
+ไว้ใจ:waichai|tin cậy|ผม ไว้ใจ เพื่อน คน นี้|Tôi tin cậy người bạn này.
+ให้อภัย:hai-aphai|tha thứ|แม่ ให้อภัย ลูก เสมอ|Mẹ luôn tha thứ cho con.
+ดูแล:dulae|chăm sóc|เธอ ดูแล แม่ ที่ ป่วย|Cô ấy chăm sóc mẹ bị ốm.
+เลิกกัน:loekkan|chia tay|เขา เลิกกัน กับ แฟน|Anh ấy chia tay với người yêu.
+คืนดี:khuendi|làm lành|พี่น้อง คืนดี กัน แล้ว|Anh chị em đã làm lành với nhau.
+พึ่งพา:phuengpha|nương tựa, dựa vào|ลูก พึ่งพา พ่อ แม่|Con cái dựa vào bố mẹ.
+กตัญญู:katanyu|hiếu thảo, biết ơn|เขา เป็น ลูก กตัญญู|Anh ấy là người con hiếu thảo.
+สามัคคี:samakkhi|đoàn kết|ครอบครัว นี้ สามัคคี กัน|Gia đình này đoàn kết với nhau.

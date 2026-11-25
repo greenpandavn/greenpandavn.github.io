@@ -1,0 +1,74 @@
+=2
+@Nhà cửa và sửa chữa|Đồ đạc, hỏng hóc
+เฟอร์นิเจอร์:foenichoe|đồ nội thất|เรา ซื้อ เฟอร์นิเจอร์ ใหม่|Chúng tôi mua đồ nội thất mới.
+ตู้เสื้อผ้า:tusueapha|tủ quần áo|ตู้เสื้อผ้า นี้ ใหญ่|Tủ quần áo này to.
+ชั้นหนังสือ:channangsue|giá sách|ชั้นหนังสือ อยู่ ใน ห้องนอน|Giá sách ở trong phòng ngủ.
+อ่างล้างหน้า:anglangna|bồn rửa mặt|อ่างล้างหน้า สกปรก|Bồn rửa mặt bẩn.
+ฝักบัว:fakbua|vòi hoa sen|ฝักบัว เสีย|Vòi hoa sen bị hỏng.
+ก๊อกน้ำ:koknam|vòi nước|ปิด ก๊อกน้ำ ด้วย|Khóa vòi nước lại.
+ท่อ:tho|đường ống|ท่อ น้ำ แตก|Ống nước bị vỡ.
+รั่ว:rua|rò rỉ, dột|หลังคา รั่ว|Mái nhà bị dột.
+ตัน:tan|tắc (ống)|ท่อ ตัน|Ống bị tắc.
+เพดาน:phedan|trần nhà|เพดาน ห้อง นี้ สูง|Trần phòng này cao.
+ระเบียง:rabiang|ban công|เรา นั่ง ที่ ระเบียง|Chúng tôi ngồi ở ban công.
+รั้ว:rua|hàng rào|รั้ว บ้าน สี ขาว|Hàng rào nhà màu trắng.
+โรงรถ:rongrot|ga ra|รถ อยู่ ใน โรงรถ|Xe ở trong ga ra.
+ห้องเก็บของ:hongkepkhong|phòng kho|กล่อง อยู่ ใน ห้องเก็บของ|Cái hộp ở trong phòng kho.
+สวิตช์:sawit|công tắc|สวิตช์ ไฟ อยู่ ข้าง ประตู|Công tắc đèn ở cạnh cửa.
+สายไฟ:saifai|dây điện|อย่า จับ สายไฟ|Đừng chạm vào dây điện.
+ค้อน:khon|cái búa|ช่าง ใช้ ค้อน|Thợ dùng búa.
+ตะปู:tapu|cái đinh|ขอ ตะปู สาม ตัว|Cho tôi ba cái đinh.
+ไขควง:khaikhuang|tua vít|ไขควง อยู่ ใน กล่อง|Tua vít ở trong hộp.
+ทา:tha|quét, bôi|เธอ ทา ครีม:khrim|Cô ấy bôi kem.
+ติดตั้ง:tittang|lắp đặt|ช่าง ติดตั้ง แอร์|Thợ lắp điều hòa.
+ตกแต่ง:toktaeng|trang trí|เรา ตกแต่ง บ้าน ใหม่|Chúng tôi trang trí lại nhà.
+รื้อ:rue|dỡ bỏ|เขา รื้อ บ้าน เก่า|Họ dỡ ngôi nhà cũ.
+ก่อสร้าง:kosang|xây dựng (công trình)|เขา ก่อสร้าง ตึก ใหม่|Họ xây tòa nhà mới.
+ไฟดับ:faidap|mất điện|เมื่อคืน ไฟดับ|Đêm qua mất điện.
+เครื่องดูดฝุ่น:khrueangdutfun|máy hút bụi|ฉัน ใช้ เครื่องดูดฝุ่น ทุก วัน|Tôi dùng máy hút bụi mỗi ngày.
+เตารีด:taorit|bàn là|เตารีด ร้อน มาก|Bàn là rất nóng.
+รีดผ้า:ritpha|là quần áo|แม่ รีดผ้า|Mẹ là quần áo.
+ผงซักฟอก:phongsakfok|bột giặt|ผงซักฟอก หมด แล้ว|Hết bột giặt rồi.
+น้ำยาล้างจาน:namyalangchan|nước rửa bát|ซื้อ น้ำยาล้างจาน ด้วย นะ|Mua nước rửa bát nữa nhé.
+ผ้าปูที่นอน:phaputhinon|ga trải giường|เปลี่ยน ผ้าปูที่นอน ทุก อาทิตย์|Thay ga trải giường mỗi tuần.
+ที่นอน:thinon|cái đệm|ที่นอน นี้ นุ่ม|Cái đệm này mềm.
+มุ้ง:mung|cái màn (chống muỗi)|เรา นอน ใน มุ้ง|Chúng tôi ngủ trong màn.
+แจกัน:chaekan|lọ hoa|แจกัน นี้ สวย|Lọ hoa này đẹp.
+กรอบรูป:kroprup|khung ảnh|กรอบรูป อยู่ บน โต๊ะ|Khung ảnh ở trên bàn.
+@Thời trang|Trang phục và ngoại hình
+แฟชั่น:faechan|thời trang|เธอ สนใจ แฟชั่น|Cô ấy quan tâm đến thời trang.
+ชุดสูท:chutsut|bộ com lê|เขา ใส่ ชุดสูท ไป ทำงาน|Anh ấy mặc com lê đi làm.
+เนกไท:nekthai|cà vạt|พ่อ ผูก:phuk เนกไท|Bố thắt cà vạt.
+ผูก:phuk|buộc, thắt|เด็ก ผูก เชือก รองเท้า|Đứa trẻ buộc dây giày.
+เสื้อเชิ้ต:sueachoet|áo sơ mi|เสื้อเชิ้ต ตัว นี้ สี ขาว|Cái áo sơ mi này màu trắng.
+กางเกงยีนส์:kangkengyin|quần bò|วัยรุ่น ชอบ กางเกงยีนส์|Thanh thiếu niên thích quần bò.
+กางเกงขาสั้น:kangkengkhasan|quần đùi|ผม ใส่ กางเกงขาสั้น ที่ บ้าน|Tôi mặc quần đùi ở nhà.
+ชุดเดรส:chutdret|váy liền|เธอ ซื้อ ชุดเดรส สี แดง|Cô ấy mua váy liền màu đỏ.
+เสื้อแจ็กเก็ต:sueachaekket|áo khoác jacket|เสื้อแจ็กเก็ต ตัว นี้ แพง|Cái áo jacket này đắt.
+ผ้าพันคอ:phaphankho|khăn quàng cổ|หน้าหนาว ฉัน ใส่ ผ้าพันคอ|Mùa lạnh tôi quàng khăn.
+ถุงมือ:thungmue|găng tay|เขา ใส่ ถุงมือ|Anh ấy đeo găng tay.
+รองเท้าผ้าใบ:rongthaophabai|giày thể thao|ผม ซื้อ รองเท้าผ้าใบ ใหม่|Tôi mua giày thể thao mới.
+รองเท้าส้นสูง:rongthaosonsung|giày cao gót|เธอ ใส่ รองเท้าส้นสูง|Cô ấy đi giày cao gót.
+ชุดชั้นใน:chutchannai|đồ lót|ร้าน นี้ ขาย ชุดชั้นใน|Cửa hàng này bán đồ lót.
+เครื่องประดับ:khrueangpradap|đồ trang sức|เครื่องประดับ นี้ ทำ จาก เงิน|Đồ trang sức này làm bằng bạc.
+ทอง:thong|vàng (kim loại)|แหวน ทอง แพง|Nhẫn vàng đắt.
+เพชร:phet|kim cương|แหวน เพชร สวย มาก|Nhẫn kim cương rất đẹp.
+ผ้าไหม:phamai|lụa|ผ้าไหม ไทย มีชื่อเสียง|Lụa Thái nổi tiếng.
+ผ้าฝ้าย:phafai|vải bông|เสื้อ ผ้าฝ้าย ใส่ สบาย|Áo vải bông mặc thoải mái.
+ลาย:lai|hoa văn, họa tiết|เสื้อ ตัว นี้ ลาย สวย|Cái áo này họa tiết đẹp.
+หลวม:luam|rộng (quần áo), lỏng|กางเกง ตัว นี้ หลวม|Cái quần này rộng.
+คับ:khap|chật (quần áo)|รองเท้า คู่ นี้ คับ|Đôi giày này chật.
+พอดี:phodi|vừa vặn|เสื้อ ตัว นี้ พอดี|Cái áo này vừa vặn.
+ทรงผม:songphom|kiểu tóc|ทรงผม ใหม่ ของ เธอ สวย|Kiểu tóc mới của cô ấy đẹp.
+เครื่องสำอาง:khrueangsam-ang|mỹ phẩm|เธอ ซื้อ เครื่องสำอาง|Cô ấy mua mỹ phẩm.
+แต่งหน้า:taengna|trang điểm|เธอ แต่งหน้า ทุก เช้า|Cô ấy trang điểm mỗi sáng.
+น้ำหอม:namhom|nước hoa|น้ำหอม นี้ หอม มาก|Nước hoa này rất thơm.
+ลิปสติก:lipsatik|son môi|ลิปสติก สี แดง สวย|Son môi màu đỏ đẹp.
+โกนหนวด:konnuat|cạo râu|พ่อ โกนหนวด ทุก เช้า|Bố cạo râu mỗi sáng.
+หนวด:nuat|râu|ปู่ มี หนวด ยาว|Ông nội có râu dài.
+รอยสัก:roisak|hình xăm|เขา มี รอยสัก ที่ แขน|Anh ấy có hình xăm ở tay.
+รูปร่าง:ruprang|vóc dáng|รูปร่าง ของ เธอ ดี|Vóc dáng cô ấy đẹp.
+ส่วนสูง:suansung|chiều cao|ส่วนสูง ของ คุณ เท่าไร|Chiều cao của bạn bao nhiêu?
+ผมหยิก:phomyik|tóc xoăn|เด็ก คน นี้ ผมหยิก|Đứa trẻ này tóc xoăn.
+หัวล้าน:hualan|hói đầu|ลุง หัวล้าน|Bác trai bị hói đầu.
+ริ้วรอย:rioroi|nếp nhăn|ยาย มี ริ้วรอย มาก|Bà ngoại có nhiều nếp nhăn.

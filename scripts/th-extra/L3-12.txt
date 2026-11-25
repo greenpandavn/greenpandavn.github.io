@@ -1,0 +1,66 @@
+=3
+@Toán và thống kê|Con số và phép tính
+คณิตศาสตร์ประยุกต์:khanittasatprayuk|toán ứng dụng|เขา เรียน คณิตศาสตร์ประยุกต์|Anh ấy học toán ứng dụng.
+เลขคณิต:lekkhanit|số học|เด็ก เรียน เลขคณิต|Trẻ em học số học.
+พีชคณิต:phitchakhanit|đại số|พีชคณิต ยาก สำหรับ ผม|Đại số khó với tôi.
+เรขาคณิต:rekhakhanit|hình học|ฉัน ชอบ เรขาคณิต|Tôi thích hình học.
+แคลคูลัส:khaenkhulat|giải tích|นักศึกษา เรียน แคลคูลัส|Sinh viên học giải tích.
+สมการ:samakan|phương trình|นักเรียน แก้ สมการ|Học sinh giải phương trình.
+เศษส่วน:setsuan|phân số|ครู สอน เศษส่วน|Giáo viên dạy phân số.
+ทศนิยม:thotsaniyom|số thập phân|ตัวเลข นี้ เป็น ทศนิยม|Con số này là số thập phân.
+ร้อยละ:roila|phần trăm (tỷ lệ)|ร้อยละ ห้า สิบ ของ นักเรียน สอบผ่าน|Năm mươi phần trăm học sinh thi đỗ.
+อัตราส่วน:attrasuan|tỷ lệ, tỷ số|อัตราส่วน ครู ต่อ นักเรียน ต่ำ|Tỷ lệ giáo viên trên học sinh thấp.
+ค่าเฉลี่ย:khachalia|giá trị trung bình|ค่าเฉลี่ย ของ คะแนน สูง|Điểm trung bình cao.
+ผลรวม:phonruam|tổng|ผลรวม ของ ตัวเลข คือ ร้อย|Tổng các con số là một trăm.
+ผลต่าง:phontang|hiệu số|ผลต่าง ของ ราคา น้อย|Chênh lệch giá nhỏ.
+ผลคูณ:phonkhun|tích số|ผลคูณ ของ สอง กับ สาม คือ หก|Tích của hai và ba là sáu.
+บวก:buak|cộng|สอง บวก สอง เป็น สี่|Hai cộng hai bằng bốn.
+ลบ:lop|trừ; xóa|ห้า ลบ สอง เป็น สาม|Năm trừ hai bằng ba.
+คูณ:khun|nhân|สาม คูณ สาม เป็น เก้า|Ba nhân ba bằng chín.
+หาร:han|chia (phép tính)|สิบ หาร สอง เป็น ห้า|Mười chia hai bằng năm.
+เลขคู่:lekkhu|số chẵn|สี่ เป็น เลขคู่|Bốn là số chẵn.
+เลขคี่:lekkhi|số lẻ|ห้า เป็น เลขคี่|Năm là số lẻ.
+จำนวนเต็ม:chamnuantem|số nguyên|สิบ เป็น จำนวนเต็ม|Mười là số nguyên.
+ยกกำลัง:yokkamlang|lũy thừa|สอง ยกกำลัง สอง เป็น สี่|Hai lũy thừa hai bằng bốn.
+รากที่สอง:rakthisong|căn bậc hai|รากที่สอง ของ เก้า คือ สาม|Căn bậc hai của chín là ba.
+เส้นผ่านศูนย์กลาง:senphansunklang|đường kính|เส้นผ่านศูนย์กลาง ยาว สิบ เซนติเมตร|Đường kính dài mười xăng ti mét.
+รัศมี:ratsami|bán kính|รัศมี ของ วงกลม สั้น|Bán kính hình tròn ngắn.
+เส้นรอบวง:senropwong|chu vi hình tròn|นักเรียน วัด เส้นรอบวง|Học sinh đo chu vi hình tròn.
+พื้นที่ผิว:phuenthiphio|diện tích bề mặt|พื้นที่ผิว ของ กล่อง ใหญ่|Diện tích bề mặt cái hộp lớn.
+ปริมาตร:parimat|thể tích|ปริมาตร ของ ถัง นี้ มาก|Thể tích cái thùng này lớn.
+มุมฉาก:mumchak|góc vuông|สี่เหลี่ยม มี สี่ มุมฉาก|Hình vuông có bốn góc vuông.
+เส้นขนาน:senkhanan|đường song song|ราง รถไฟ เป็น เส้นขนาน|Đường ray là các đường song song.
+กราฟ:krap|đồ thị|กราฟ นี้ แสดง ยอดขาย|Đồ thị này thể hiện doanh số.
+แผนภูมิ:phaenphum|biểu đồ|ครู วาด แผนภูมิ|Giáo viên vẽ biểu đồ.
+ความน่าจะเป็น:khwamnachapen|xác suất|ความน่าจะเป็น ของ ฝน สูง|Xác suất mưa cao.
+ค่าเบี่ยงเบน:khabiangben|độ lệch|ค่าเบี่ยงเบน นี้ น้อย|Độ lệch này nhỏ.
+ข้อมูลดิบ:khomundip|dữ liệu thô|นักวิจัย เก็บ ข้อมูลดิบ|Nhà nghiên cứu thu dữ liệu thô.
+ประมาณการ:pramankan|ước tính|นี่ เป็น ประมาณการ ราคา|Đây là ước tính giá.
+@Ẩm thực|Ngành thực phẩm và nấu nướng
+ศิลปะการทำอาหาร:sinlapakantham-ahan|nghệ thuật nấu ăn|เธอ เรียน ศิลปะการทำอาหาร|Cô ấy học nghệ thuật nấu ăn.
+พ่อครัวใหญ่:phokhruayai|bếp trưởng|พ่อครัวใหญ่ ชิม ซุป|Bếp trưởng nếm súp.
+เครื่องเทศ:khrueangthet|gia vị khô (hương liệu)|อาหาร อินเดีย ใช้ เครื่องเทศ มาก|Món Ấn dùng nhiều gia vị.
+สมุนไพร:samunphrai|thảo dược|ต้มยำ ใส่ สมุนไพร|Canh tom yum cho thảo dược.
+ข่า:kha|củ riềng|ต้มข่า ใส่ ข่า มาก|Canh tom kha cho nhiều riềng.
+ใบมะกรูด:baimakrut|lá chanh Thái|แกง นี้ ใส่ ใบมะกรูด|Món cà ri này cho lá chanh.
+โหระพา:horapha|húng quế|ฉัน ชอบ กลิ่น โหระพา|Tôi thích mùi húng quế.
+กะปิ:kapi|mắm tôm|น้ำพริก ใส่ กะปิ|Nước chấm ớt cho mắm tôm.
+น้ำมันหอย:nammanhoi|dầu hào|ผัด ผัก ใส่ น้ำมันหอย|Rau xào cho dầu hào.
+ยีสต์:yit|men nở|ขนมปัง ใช้ ยีสต์|Bánh mì dùng men.
+หมัก:mak|ướp, ủ lên men|แม่ หมัก หมู|Mẹ ướp thịt lợn.
+ดอง:dong|muối chua, ngâm|ยาย ดอง ผัก|Bà ngoại muối dưa.
+รมควัน:romkhwan|hun khói|ปลา รมควัน อร่อย|Cá hun khói ngon.
+ตากแห้ง:takhaeng|phơi khô|ชาวบ้าน ตากแห้ง ปลา|Dân làng phơi khô cá.
+เคี่ยว:khiao|ninh, hầm lâu|แม่ เคี่ยว ซุป|Mẹ ninh súp.
+ลวก:luak|chần|แม่ ลวก ผัก|Mẹ chần rau.
+คลุก:khluk|trộn (cơm, gỏi)|เขา คลุก ข้าว กับ น้ำปลา|Anh ấy trộn cơm với nước mắm.
+โรย:roi|rắc|แม่ โรย พริกไทย|Mẹ rắc hạt tiêu.
+ราด:rat|rưới, chan|ราด น้ำ แกง บน ข้าว|Rưới nước cà ri lên cơm.
+จิ้ม:chim|chấm|เด็ก จิ้ม ซอส|Đứa trẻ chấm nước xốt.
+อาหารแปรรูป:ahanpraerup|thực phẩm chế biến|อาหารแปรรูป มี เกลือ มาก|Thực phẩm chế biến có nhiều muối.
+อาหารกระป๋อง:ahankrapong|đồ hộp|เรา ซื้อ อาหารกระป๋อง|Chúng tôi mua đồ hộp.
+อาหารแช่แข็ง:ahanchaekhaeng|thực phẩm đông lạnh|ตู้เย็น มี อาหารแช่แข็ง|Tủ lạnh có thực phẩm đông lạnh.
+สารกันบูด:sankanbut|chất bảo quản|ขนม นี้ ไม่ มี สารกันบูด|Bánh này không có chất bảo quản.
+วันหมดอายุ:wanmot-ayu|hạn sử dụng|ดู วันหมดอายุ ก่อน ซื้อ|Xem hạn sử dụng trước khi mua.
+ฉลาก:chalak|nhãn mác|อ่าน ฉลาก ก่อน กิน|Đọc nhãn trước khi ăn.
+สุขอนามัยอาหาร:sukkha-anamai-ahan|vệ sinh thực phẩm|ร้าน นี้ มี สุขอนามัยอาหาร ดี|Quán này vệ sinh thực phẩm tốt.

@@ -1,0 +1,37 @@
+=5
+@Hiến pháp và nghị viện|Thủ tục lập pháp
+สภาผู้แทนราษฎร:saphaphuthaenratsadon|hạ viện|สภาผู้แทนราษฎร ประชุม วันนี้|Hạ viện họp hôm nay.
+วุฒิสภา:wutthisapha|thượng viện|วุฒิสภา รับ กฎหมาย ใหม่|Thượng viện thông qua luật mới.
+สมาชิกวุฒิสภา:samachikwutthisapha|thượng nghị sĩ|เขา เป็น สมาชิกวุฒิสภา|Ông ấy là thượng nghị sĩ.
+ประธานสภา:prathansapha|chủ tịch nghị viện|ประธานสภา เปิด ประชุม|Chủ tịch nghị viện khai mạc phiên họp.
+ร่างพระราชบัญญัติ:rangphraratchabanyat|dự thảo luật|สภา รับ ร่างพระราชบัญญัติ|Nghị viện thông qua dự thảo luật.
+พระราชกำหนด:phraratchakamnot|sắc lệnh khẩn cấp|รัฐบาล ออก พระราชกำหนด|Chính phủ ban hành sắc lệnh khẩn cấp.
+พระราชกฤษฎีกา:phraratchakritsadika|sắc lệnh hoàng gia|พระราชกฤษฎีกา ยุบ สภา ออก แล้ว|Sắc lệnh hoàng gia giải tán nghị viện đã ban hành.
+กฎกระทรวง:kotkrasuang|quy định cấp bộ|กระทรวง ออก กฎกระทรวง ใหม่|Bộ ban hành quy định mới.
+ญัตติ:yatti|kiến nghị (nghị viện)|ฝ่ายค้าน ยื่น ญัตติ|Phe đối lập nộp kiến nghị.
+อภิปรายไม่ไว้วางใจ:aphipraimaiwaiwangchai|tranh luận bất tín nhiệm|ฝ่ายค้าน อภิปรายไม่ไว้วางใจ รัฐบาล|Phe đối lập tranh luận bất tín nhiệm chính phủ.
+ลงมติ:longmati|biểu quyết|สภา ลงมติ คืนนี้|Nghị viện biểu quyết tối nay.
+องค์ประชุม:ongprachum|số đại biểu tối thiểu|สภา ไม่ ครบ องค์ประชุม|Nghị viện không đủ số đại biểu tối thiểu.
+สมัยประชุม:samaiprachum|kỳ họp|สมัยประชุม นี้ จบ เดือน หน้า|Kỳ họp này kết thúc tháng sau.
+คณะกรรมาธิการ:khanakammathikan|ủy ban nghị viện|คณะกรรมาธิการ ตรวจ งบประมาณ|Ủy ban nghị viện xem xét ngân sách.
+กระทู้ถาม:krathutham|chất vấn (nghị viện)|ผู้แทน ตั้ง กระทู้ถาม รัฐมนตรี|Nghị sĩ đặt chất vấn cho bộ trưởng.
+ยุบสภา:yupsapha|giải tán nghị viện|นายกรัฐมนตรี ยุบสภา|Thủ tướng giải tán nghị viện.
+รัฐบาลผสม:ratthabanphasom|chính phủ liên minh|ประเทศ นี้ มี รัฐบาลผสม|Nước này có chính phủ liên minh.
+รัฐบาลรักษาการ:ratthabanraksakan|chính phủ tạm quyền|รัฐบาลรักษาการ ทำงาน ต่อ|Chính phủ tạm quyền làm việc tiếp.
+เสียงข้างมาก:siangkhangmak|đa số phiếu|รัฐบาล มี เสียงข้างมาก|Chính phủ có đa số phiếu.
+เสียงข้างน้อย:siangkhangnoi|thiểu số phiếu|ฝ่ายค้าน เป็น เสียงข้างน้อย|Phe đối lập là thiểu số.
+แก้ไขรัฐธรรมนูญ:kaekhairatthathammanun|sửa đổi hiến pháp|ประชาชน ขอ แก้ไขรัฐธรรมนูญ|Người dân yêu cầu sửa đổi hiến pháp.
+เขตเลือกตั้ง:khetlueaktang|khu vực bầu cử|เขา ลง สมัคร ใน เขตเลือกตั้ง นี้|Ông ấy ứng cử ở khu vực bầu cử này.
+บัญชีรายชื่อ:banchiraichue|danh sách đảng (bầu cử)|เธอ เป็น ผู้แทน แบบ บัญชีรายชื่อ|Bà ấy là nghị sĩ theo danh sách đảng.
+หีบบัตรเลือกตั้ง:hipbatlueaktang|hòm phiếu|เจ้าหน้าที่ เปิด หีบบัตรเลือกตั้ง|Nhân viên mở hòm phiếu.
+คณะกรรมการการเลือกตั้ง:khanakammakankanlueaktang|ủy ban bầu cử|คณะกรรมการการเลือกตั้ง ประกาศ ผล|Ủy ban bầu cử công bố kết quả.
+ซื้อเสียง:suesiang|mua phiếu bầu|การ ซื้อเสียง ผิด กฎหมาย|Mua phiếu bầu là phạm pháp.
+ถอดถอน:thotthon|bãi nhiệm, luận tội|สภา ถอดถอน รัฐมนตรี|Nghị viện bãi nhiệm bộ trưởng.
+หลักนิติธรรม:laknititham|nguyên tắc pháp quyền|ประเทศ ต้อง มี หลักนิติธรรม|Đất nước phải có pháp quyền.
+การแบ่งแยกอำนาจ:kanbaengyaek-amnat|phân chia quyền lực|รัฐธรรมนูญ กำหนด การแบ่งแยกอำนาจ|Hiến pháp quy định phân chia quyền lực.
+อำนาจนิติบัญญัติ:amnatnitibanyat|quyền lập pháp|สภา มี อำนาจนิติบัญญัติ|Nghị viện có quyền lập pháp.
+อำนาจบริหาร:amnatborihan|quyền hành pháp|รัฐบาล มี อำนาจบริหาร|Chính phủ có quyền hành pháp.
+อำนาจตุลาการ:amnattulakan|quyền tư pháp|ศาล มี อำนาจตุลาการ|Tòa án có quyền tư pháp.
+องค์กรอิสระ:ongkon-itsara|cơ quan độc lập|คณะกรรมการการเลือกตั้ง เป็น องค์กรอิสระ|Ủy ban bầu cử là cơ quan độc lập.
+ผู้ตรวจการแผ่นดิน:phutruatkanphaendin|thanh tra nhà nước|ชาวบ้าน ร้องเรียน ผู้ตรวจการแผ่นดิน|Dân làng khiếu nại lên thanh tra nhà nước.
+กฎอัยการศึก:kot-aiyakansuek|thiết quân luật|ทหาร ประกาศ กฎอัยการศึก|Quân đội ban bố thiết quân luật.

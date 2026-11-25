@@ -1,0 +1,111 @@
+=2
+@Công việc|Văn phòng và nghề nghiệp
+ตำแหน่ง:tamnaeng|chức vụ, vị trí|เขา ได้ ตำแหน่ง ใหม่|Anh ấy được chức vụ mới.
+สมัคร:samak|đăng ký, ứng tuyển|ผม สมัคร งาน ที่ บริษัท นี้|Tôi ứng tuyển vào công ty này.
+สัมภาษณ์:samphat|phỏng vấn|พรุ่งนี้ ฉัน มี สัมภาษณ์ งาน|Ngày mai tôi có buổi phỏng vấn xin việc.
+ประสบการณ์:prasopkan|kinh nghiệm|เขา มี ประสบการณ์ มาก|Anh ấy có nhiều kinh nghiệm.
+ความสามารถ:khwamsamat|năng lực|เธอ มี ความสามารถ สูง|Cô ấy có năng lực cao.
+รายงาน:raingan|báo cáo|ผม เขียน รายงาน อยู่|Tôi đang viết báo cáo.
+เอกสาร:ekkasan|tài liệu, giấy tờ|เอกสาร อยู่ บน โต๊ะ|Tài liệu ở trên bàn.
+โครงการ:khrongkan|dự án|โครงการ นี้ สำคัญ มาก|Dự án này rất quan trọng.
+แผน:phaen|kế hoạch|เรา มี แผน ใหม่|Chúng tôi có kế hoạch mới.
+แผนก:phanaek|phòng ban|เขา ทำงาน แผนก ขาย|Anh ấy làm ở phòng kinh doanh.
+หัวหน้า:huana|trưởng nhóm, cấp trên|หัวหน้า เรียก ผม|Cấp trên gọi tôi.
+ลูกน้อง:luknong|cấp dưới|ลูกน้อง ของ เขา ขยัน|Cấp dưới của anh ấy chăm chỉ.
+ลาออก:la-ok|xin nghỉ việc|เธอ ลาออก จาก งาน|Cô ấy xin nghỉ việc.
+เกษียณ:kasian|nghỉ hưu|พ่อ เกษียณ ปีหน้า|Bố nghỉ hưu năm sau.
+ค่าจ้าง:khachang|tiền công|ค่าจ้าง ที่ นี่ ดี|Tiền công ở đây tốt.
+โบนัส:bonat|tiền thưởng|ปี นี้ เรา ได้ โบนัส|Năm nay chúng tôi được thưởng.
+ล่วงเวลา:luangwela|làm thêm giờ|วันนี้ ผม ทำงาน ล่วงเวลา|Hôm nay tôi làm thêm giờ.
+ลาป่วย:lapuai|nghỉ ốm|วันนี้ เธอ ลาป่วย|Hôm nay cô ấy nghỉ ốm.
+ลาพักร้อน:laphakron|nghỉ phép|ผม ลาพักร้อน สาม วัน|Tôi nghỉ phép ba ngày.
+ธุรกิจ:thurakit|kinh doanh, việc làm ăn|ธุรกิจ ของ เขา ดี|Việc kinh doanh của anh ấy tốt.
+การค้า:kankha|thương mại|การค้า กับ จีน ดี ขึ้น|Thương mại với Trung Quốc tốt lên.
+สินค้า:sinkha|hàng hóa|สินค้า นี้ ขายดี|Hàng hóa này bán chạy.
+บริการ:borikan|dịch vụ|บริการ ที่ นี่ ดี มาก|Dịch vụ ở đây rất tốt.
+กำไร:kamrai|lợi nhuận|ปี นี้ บริษัท มี กำไร|Năm nay công ty có lãi.
+ขาดทุน:khatthun|lỗ vốn|ร้าน นี้ ขาดทุน|Cửa hàng này bị lỗ.
+ลงทุน:longthun|đầu tư|เขา ลงทุน ใน ธุรกิจ ใหม่|Anh ấy đầu tư vào việc kinh doanh mới.
+สัญญาจ้าง:sanyachang|hợp đồng lao động|ผม เซ็น:sen สัญญาจ้าง แล้ว|Tôi ký hợp đồng lao động rồi.
+ลายเซ็น:laisen|chữ ký|ขอ ลายเซ็น ที่ นี่|Xin chữ ký ở đây.
+นัด:nat|hẹn|ผม นัด ลูกค้า บ่าย สอง โมง|Tôi hẹn khách hàng lúc hai giờ chiều.
+ยกเลิก:yokloek|hủy bỏ|เขา ยกเลิก ประชุม|Anh ấy hủy cuộc họp.
+เลื่อน:luean|hoãn, dời|เรา เลื่อน ประชุม ไป พรุ่งนี้|Chúng tôi dời cuộc họp sang ngày mai.
+จัดการ:chatkan|xử lý, quản lý|ผม จะ จัดการ เรื่อง นี้|Tôi sẽ xử lý việc này.
+รับผิดชอบ:rapphitchop|chịu trách nhiệm|เขา รับผิดชอบ โครงการ นี้|Anh ấy chịu trách nhiệm dự án này.
+ร่วมมือ:ruammue|hợp tác|เรา ร่วมมือ กัน ทำงาน|Chúng tôi hợp tác làm việc với nhau.
+แข่งขัน:khaengkhan|cạnh tranh|บริษัท ต้อง แข่งขัน กัน|Các công ty phải cạnh tranh với nhau.
+สำเร็จ:samret|thành công, hoàn thành|โครงการ นี้ สำเร็จ แล้ว|Dự án này đã hoàn thành.
+ล้มเหลว:lomleo|thất bại|แผน นี้ ล้มเหลว|Kế hoạch này thất bại.
+พัฒนา:phatthana|phát triển|บริษัท พัฒนา สินค้า ใหม่|Công ty phát triển sản phẩm mới.
+ปรับปรุง:prapprung|cải thiện|เรา ต้อง ปรับปรุง บริการ|Chúng tôi phải cải thiện dịch vụ.
+ตรวจสอบ:truatsop|kiểm tra, rà soát|ช่วย ตรวจสอบ เอกสาร นี้|Làm ơn kiểm tra tài liệu này.
+อนุมัติ:anumat|phê duyệt|หัวหน้า อนุมัติ แผน แล้ว|Cấp trên đã phê duyệt kế hoạch.
+ประกาศ:prakat|thông báo, công bố|บริษัท ประกาศ วันหยุด|Công ty thông báo ngày nghỉ.
+เป้าหมาย:paomai|mục tiêu|เป้าหมาย ของ เรา สูง|Mục tiêu của chúng tôi cao.
+ผลงาน:phonngan|thành tích, tác phẩm|ผลงาน ของ เธอ ดี มาก|Thành tích của cô ấy rất tốt.
+ทักษะ:thaksa|kỹ năng|เขา มี ทักษะ ภาษา ดี|Anh ấy có kỹ năng ngôn ngữ tốt.
+อบรม:oprom|đào tạo, tập huấn|พนักงาน ใหม่ ต้อง อบรม|Nhân viên mới phải tập huấn.
+ฝึกงาน:fuekngan|thực tập|นักศึกษา ฝึกงาน ที่ บริษัท|Sinh viên thực tập ở công ty.
+นามบัตร:nambat|danh thiếp|ขอ นามบัตร หน่อย ครับ|Cho tôi xin danh thiếp.
+@Giáo dục|Học hành và thi cử
+การศึกษา:kansueksa|giáo dục|การศึกษา สำคัญ มาก|Giáo dục rất quan trọng.
+ความรู้:khwamru|kiến thức|ครู มี ความรู้ มาก|Giáo viên có nhiều kiến thức.
+ปริญญา:parinya|bằng cấp đại học|เขา ได้ ปริญญา จาก อเมริกา|Anh ấy có bằng đại học từ Mỹ.
+อาจารย์:achan|giảng viên, thầy cô|อาจารย์ สอน ดี มาก|Giảng viên dạy rất hay.
+คณะ:khana|khoa (đại học)|เธอ เรียน คณะ แพทย์:phaet|Cô ấy học khoa Y.
+หลักสูตร:laksut|chương trình học|หลักสูตร นี้ ใช้เวลา สอง ปี|Chương trình này mất hai năm.
+ทุน:thun|học bổng; vốn|เขา ได้ ทุน ไป เรียน ญี่ปุ่น|Anh ấy được học bổng đi học ở Nhật.
+ค่าเทอม:khathoem|học phí|ค่าเทอม ที่ นี่ แพง|Học phí ở đây đắt.
+เกรด:kret|điểm xếp loại|เกรด ของ เธอ ดี|Điểm xếp loại của cô ấy tốt.
+สอบผ่าน:sopphan|thi đỗ|ผม สอบผ่าน แล้ว|Tôi thi đỗ rồi.
+สอบตก:soptok|thi trượt|เขา สอบตก วิชา นี้|Anh ấy thi trượt môn này.
+ทบทวน:thopthuan|ôn tập|ฉัน ทบทวน บทเรียน ทุก คืน|Tôi ôn bài mỗi tối.
+วิจัย:wichai|nghiên cứu|อาจารย์ ทำ วิจัย|Giảng viên làm nghiên cứu.
+บรรยาย:banyai|giảng bài, thuyết trình|อาจารย์ บรรยาย สอง ชั่วโมง|Giảng viên giảng hai tiếng.
+ประถม:prathom|tiểu học|ลูก เรียน ชั้น ประถม|Con học tiểu học.
+มัธยม:matthayom|trung học|น้องสาว เรียน ชั้น มัธยม|Em gái học trung học.
+อนุบาล:anuban|mẫu giáo|ลูกชาย อยู่ อนุบาล|Con trai học mẫu giáo.
+วิทยาศาสตร์:witthayasat|khoa học|ผม ชอบ วิชา วิทยาศาสตร์|Tôi thích môn khoa học.
+คณิตศาสตร์:khanittasat|toán học|คณิตศาสตร์ ยาก สำหรับ:samrap ฉัน|Toán học khó đối với tôi.
+ประวัติศาสตร์:prawattisat|lịch sử (môn học)|เขา สอน ประวัติศาสตร์ ไทย|Anh ấy dạy lịch sử Thái.
+ภูมิศาสตร์:phumisat|địa lý|วันนี้ เรา เรียน ภูมิศาสตร์|Hôm nay chúng tôi học địa lý.
+ศิลปะ:sinlapa|nghệ thuật, mỹ thuật|เธอ ชอบ ศิลปะ|Cô ấy thích nghệ thuật.
+พจนานุกรม:photchananukrom|từ điển|ฉัน ใช้ พจนานุกรม ทุก วัน|Tôi dùng từ điển mỗi ngày.
+ไวยากรณ์:waiyakon|ngữ pháp|ไวยากรณ์ ไทย ไม่ ยาก|Ngữ pháp tiếng Thái không khó.
+คำศัพท์:khamsap|từ vựng|ผม จำ คำศัพท์ ใหม่|Tôi ghi nhớ từ vựng mới.
+การออกเสียง:kan-oksiang|cách phát âm|การออกเสียง ของ เธอ ดี|Cách phát âm của cô ấy tốt.
+สำเนียง:samniang|giọng (ngữ điệu vùng miền)|เขา พูด สำเนียง เหนือ|Anh ấy nói giọng miền Bắc.
+บทความ:botkhwam|bài viết, bài báo|ฉัน อ่าน บทความ นี้ แล้ว|Tôi đọc bài viết này rồi.
+หัวข้อ:huakho|đề tài, chủ đề|หัวข้อ นี้ น่าสนใจ|Đề tài này thú vị.
+สรุป:sarup|tóm tắt, kết luận|ช่วย สรุป เรื่อง นี้ หน่อย|Làm ơn tóm tắt chuyện này.
+วิเคราะห์:wikhro|phân tích|นักเรียน วิเคราะห์ ปัญหา|Học sinh phân tích vấn đề.
+เปรียบเทียบ:priapthiap|so sánh|เรา เปรียบเทียบ ราคา|Chúng tôi so sánh giá.
+ทดลอง:thotlong|thí nghiệm, thử nghiệm|นักเรียน ทดลอง ใน ห้องเรียน|Học sinh làm thí nghiệm trong lớp.
+ค้นหา:khonha|tìm kiếm|ฉัน ค้นหา ข้อมูล:khomun|Tôi tìm kiếm thông tin.
+ข้อมูล:khomun|thông tin, dữ liệu|ข้อมูล นี้ สำคัญ|Thông tin này quan trọng.
+@Cảm xúc|Tâm trạng và thái độ
+อารมณ์:arom|tâm trạng, cảm xúc|วันนี้ เขา อารมณ์ ดี|Hôm nay anh ấy tâm trạng tốt.
+ความรู้สึก:khwamrusuek|cảm giác, tình cảm|ผม เข้าใจ ความรู้สึก ของ คุณ|Tôi hiểu cảm giác của bạn.
+กังวล:kangwon|lo lắng|อย่า กังวล เรื่อง นี้|Đừng lo lắng chuyện này.
+เครียด:khriat|căng thẳng|ช่วง นี้ ผม เครียด มาก|Dạo này tôi rất căng thẳng.
+ภูมิใจ:phumchai|tự hào|พ่อ แม่ ภูมิใจ ใน ลูก|Bố mẹ tự hào về con.
+ผิดหวัง:phitwang|thất vọng|ฉัน ผิดหวัง มาก|Tôi rất thất vọng.
+ประหลาดใจ:pralatchai|ngạc nhiên|เขา ประหลาดใจ กับ ข่าว นี้|Anh ấy ngạc nhiên với tin này.
+อิจฉา:itcha|ghen tị|เธอ อิจฉา เพื่อน|Cô ấy ghen tị với bạn.
+หึง:hueng|ghen (tình yêu)|แฟน ของ ผม หึง|Người yêu tôi ghen.
+รำคาญ:ramkhan|bực mình, khó chịu|ผม รำคาญ เสียง ดัง|Tôi khó chịu vì tiếng ồn.
+สงสาร:songsan|thương hại, tội nghiệp|ฉัน สงสาร หมา ตัว นั้น|Tôi thương con chó đó.
+เกลียด:kliat|ghét|เขา เกลียด ฝน|Anh ấy ghét mưa.
+สนใจ:sonchai|quan tâm, hứng thú|ผม สนใจ ประวัติศาสตร์|Tôi hứng thú với lịch sử.
+พอใจ:phochai|hài lòng|ลูกค้า พอใจ กับ บริการ|Khách hàng hài lòng với dịch vụ.
+มั่นใจ:manchai|tự tin|เธอ มั่นใจ ใน ตัวเอง:tua-eng|Cô ấy tự tin vào bản thân.
+สงสัย:songsai|nghi ngờ, thắc mắc|ผม สงสัย ว่า เขา จะ มา ไหม|Tôi thắc mắc liệu anh ấy có đến không.
+เสียดาย:siadai|tiếc|เสียดาย ที่ คุณ ไม่ ได้ มา|Tiếc là bạn đã không đến.
+ซาบซึ้ง:sapsueng|cảm động, biết ơn sâu sắc|ฉัน ซาบซึ้ง มาก|Tôi rất cảm động.
+ตื่นตระหนก:tuentranok|hoảng loạn|อย่า ตื่นตระหนก|Đừng hoảng loạn.
+สงบ:sangop|yên bình, bình tĩnh|ที่ นี่ สงบ มาก|Ở đây rất yên bình.
+อบอุ่น:op-un|ấm áp|ครอบครัว นี้ อบอุ่น|Gia đình này ấm áp.
+เขิน:khoen|ngượng ngùng|เธอ เขิน เมื่อ เจอ เขา|Cô ấy ngượng khi gặp anh ấy.
+ท้อ:tho|nản lòng|อย่า ท้อ นะ|Đừng nản nhé.
+กล้า:kla|dũng cảm, dám|เขา กล้า พูด ความจริง|Anh ấy dám nói sự thật.

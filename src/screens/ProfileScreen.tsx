@@ -540,7 +540,7 @@ export default function ProfileScreen({
               type="button"
               className="chip"
               onClick={() =>
-                speak({ zh: "你好，我是熊猫。", en: "Hello, I am a panda.", ko: "안녕하세요, 저는 판다예요.", ja: "こんにちは、パンダです。" }[getCourse()])
+                speak({ zh: "你好，我是熊猫。", en: "Hello, I am a panda.", ko: "안녕하세요, 저는 판다예요.", th: "สวัสดี ฉันเป็นแพนด้า", ja: "こんにちは、パンダです。" }[getCourse()])
               }
             >
               Nghe thử

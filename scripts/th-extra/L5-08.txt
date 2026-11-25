@@ -1,0 +1,64 @@
+=5
+@Tâm thần và thần kinh|Não bộ, rối loạn
+จิตเวชศาสตร์:chittawetchasat|tâm thần học|เขา เรียน ต่อ จิตเวชศาสตร์|Anh ấy học tiếp tâm thần học.
+ประสาทวิทยาศาสตร์:prasatwitthayasat|khoa học thần kinh|เธอ วิจัย ประสาทวิทยาศาสตร์|Cô ấy nghiên cứu khoa học thần kinh.
+เซลล์ประสาท:senprasat|tế bào thần kinh|สมอง มี เซลล์ประสาท มาก|Não có nhiều tế bào thần kinh.
+สารสื่อประสาท:sansueprasat|chất dẫn truyền thần kinh|โดพามีน เป็น สารสื่อประสาท|Dopamin là chất dẫn truyền thần kinh.
+สมองส่วนหน้า:samongsuanna|não trước|สมองส่วนหน้า ควบคุม การ คิด|Não trước điều khiển tư duy.
+สมองน้อย:samongnoi|tiểu não|สมองน้อย ช่วย การ ทรงตัว|Tiểu não giúp giữ thăng bằng.
+ก้านสมอง:kansamong|thân não|ก้านสมอง ควบคุม การ หายใจ|Thân não điều khiển hô hấp.
+เปลือกสมอง:plueaksamong|vỏ não|เปลือกสมอง ของ มนุษย์ หนา|Vỏ não của người dày.
+โรคจิตเภท:rokchittaphet|tâm thần phân liệt|เขา ป่วย เป็น โรคจิตเภท|Anh ấy mắc tâm thần phân liệt.
+โรคอารมณ์สองขั้ว:rok-aromsongkhua|rối loạn lưỡng cực|เธอ รักษา โรคอารมณ์สองขั้ว|Cô ấy điều trị rối loạn lưỡng cực.
+โรคย้ำคิดย้ำทำ:rokyamkhityamtham|rối loạn ám ảnh cưỡng chế|เขา เป็น โรคย้ำคิดย้ำทำ|Anh ấy bị rối loạn ám ảnh cưỡng chế.
+โรคตื่นตระหนก:roktuentranok|rối loạn hoảng sợ|เธอ มี อาการ ของ โรคตื่นตระหนก|Cô ấy có triệu chứng rối loạn hoảng sợ.
+โรคสมาธิสั้น:roksamathisan|rối loạn tăng động giảm chú ý|ลูก เป็น โรคสมาธิสั้น|Con bị tăng động giảm chú ý.
+ออทิสติก:othittik|tự kỷ|โรงเรียน นี้ รับ เด็ก ออทิสติก|Trường này nhận trẻ tự kỷ.
+โรคกลัวที่แคบ:rokkluathikhaep|chứng sợ không gian hẹp|เขา เป็น โรคกลัวที่แคบ|Anh ấy mắc chứng sợ không gian hẹp.
+ภาวะสมองเสื่อม:phawasamongsueam|sa sút trí tuệ|ยาย มี ภาวะสมองเสื่อม|Bà ngoại bị sa sút trí tuệ.
+ประสาทหลอน:prasatlon|ảo giác|ผู้ป่วย มี อาการ ประสาทหลอน|Bệnh nhân có triệu chứng ảo giác.
+หลงผิด:longphit|hoang tưởng; lầm đường|เขา หลงผิด ว่า มี คน ตาม|Anh ta hoang tưởng rằng có người theo dõi.
+จิตใต้สำนึก:chittaisamnuek|tiềm thức|ความ ฝัน มา จาก จิตใต้สำนึก|Giấc mơ đến từ tiềm thức.
+กลไกป้องกันตนเอง:konkaipongkanton-eng|cơ chế tự vệ tâm lý|การ ปฏิเสธ เป็น กลไกป้องกันตนเอง|Phủ nhận là cơ chế tự vệ tâm lý.
+บาดแผลทางใจ:batphlaethangchai|sang chấn tâm lý|สงคราม ทำให้ เกิด บาดแผลทางใจ|Chiến tranh gây sang chấn tâm lý.
+จิตบำบัด:chitbambat|trị liệu tâm lý|เธอ ไป ทำ จิตบำบัด ทุก สัปดาห์|Cô ấy đi trị liệu tâm lý mỗi tuần.
+ยาต้านเศร้า:yatansao|thuốc chống trầm cảm|หมอ ให้ ยาต้านเศร้า|Bác sĩ cho thuốc chống trầm cảm.
+ยากล่อมประสาท:yaklomprasat|thuốc an thần|เขา กิน ยากล่อมประสาท ก่อน นอน|Anh ấy uống thuốc an thần trước khi ngủ.
+ความจำระยะสั้น:khwamchamrayasan|trí nhớ ngắn hạn|ความจำระยะสั้น ของ ปู่ ไม่ ดี|Trí nhớ ngắn hạn của ông không tốt.
+ความจำระยะยาว:khwamchamrayayao|trí nhớ dài hạn|การ นอน ช่วย ความจำระยะยาว|Giấc ngủ giúp trí nhớ dài hạn.
+ความฉลาดทางอารมณ์:khwamchalatthang-arom|trí tuệ cảm xúc|ผู้นำ ต้อง มี ความฉลาดทางอารมณ์|Lãnh đạo phải có trí tuệ cảm xúc.
+เชาวน์ปัญญา:chaopanya|trí thông minh, IQ|เด็ก คน นี้ มี เชาวน์ปัญญา สูง|Đứa trẻ này có trí thông minh cao.
+การรับรู้:kanrapru|sự tri giác, nhận thức|การรับรู้ ของ แต่ละ คน ต่าง กัน|Tri giác của mỗi người khác nhau.
+พฤติกรรมบำบัด:phruettikambambat|trị liệu hành vi|เด็ก ได้ รับ พฤติกรรมบำบัด|Đứa trẻ được trị liệu hành vi.
+ภาวะหมดไฟ:phawamotfai|kiệt sức nghề nghiệp|พยาบาล หลาย คน มี ภาวะหมดไฟ|Nhiều y tá bị kiệt sức nghề nghiệp.
+นอนไม่หลับเรื้อรัง:nonmailapruearang|mất ngủ mãn tính|เขา นอนไม่หลับเรื้อรัง มา สาม ปี|Anh ấy mất ngủ mãn tính đã ba năm.
+@Năng lượng và khai khoáng|Dầu khí, mỏ, điện
+ปิโตรเลียม:pitroliam|dầu mỏ|อ่าวไทย มี ปิโตรเลียม|Vịnh Thái Lan có dầu mỏ.
+น้ำมันดิบ:namandip|dầu thô|ราคา น้ำมันดิบ ขึ้น|Giá dầu thô tăng.
+แท่นขุดเจาะ:thaenkhutcho|giàn khoan|เขา ทำงาน บน แท่นขุดเจาะ|Anh ấy làm việc trên giàn khoan.
+บ่อน้ำมัน:bonaman|giếng dầu|บริษัท พบ บ่อน้ำมัน ใหม่|Công ty phát hiện giếng dầu mới.
+ท่อส่งก๊าซ:thosongkat|đường ống dẫn khí|ท่อส่งก๊าซ ผ่าน หมู่บ้าน|Đường ống dẫn khí đi qua làng.
+ก๊าซธรรมชาติเหลว:katthammachatleo|khí thiên nhiên hóa lỏng|ไทย นำเข้า ก๊าซธรรมชาติเหลว|Thái Lan nhập khẩu khí thiên nhiên hóa lỏng.
+น้ำมันเบนซิน:namanbensin|xăng|รถ คัน นี้ ใช้ น้ำมันเบนซิน|Chiếc xe này dùng xăng.
+น้ำมันดีเซล:namandisen|dầu diesel|รถ บรรทุก ใช้ น้ำมันดีเซล|Xe tải dùng dầu diesel.
+น้ำมันก๊าด:namankat|dầu hỏa|ยาย ใช้ ตะเกียง น้ำมันก๊าด|Bà ngoại dùng đèn dầu hỏa.
+น้ำมันหล่อลื่น:namanloluen|dầu bôi trơn|ช่าง เปลี่ยน น้ำมันหล่อลื่น|Thợ thay dầu bôi trơn.
+ยางมะตอย:yangmatoi|nhựa đường|คน งาน ลาด ยางมะตอย|Công nhân rải nhựa đường.
+ลิกไนต์:liknai|than non|แม่เมาะ มี เหมือง ลิกไนต์|Mae Moh có mỏ than non.
+เหมืองแร่:mueangrae|mỏ khoáng sản|ภูเก็ต เคย มี เหมืองแร่ มาก|Phuket từng có nhiều mỏ khoáng sản.
+เหมืองเปิด:mueangpoet|mỏ lộ thiên|นี่ เป็น เหมืองเปิด ขนาด ใหญ่|Đây là mỏ lộ thiên cỡ lớn.
+สินแร่:sinrae|quặng|รถ ขน สินแร่ ออก จาก เหมือง|Xe chở quặng ra khỏi mỏ.
+แร่โพแทช:raephothaet|quặng kali (potash)|อีสาน มี แร่โพแทช มาก|Vùng Đông Bắc có nhiều quặng kali.
+แร่หายาก:raehayak|đất hiếm|โทรศัพท์ ใช้ แร่หายาก|Điện thoại dùng đất hiếm.
+ถลุงแร่:thalungrae|luyện quặng|โรงงาน ถลุงแร่ เหล็ก|Nhà máy luyện quặng sắt.
+ประทานบัตร:prathanbat|giấy phép khai thác mỏ|บริษัท ได้ ประทานบัตร|Công ty được cấp phép khai thác mỏ.
+ค่าภาคหลวง:khaphakluang|thuế tài nguyên|บริษัท จ่าย ค่าภาคหลวง ให้ รัฐ|Công ty nộp thuế tài nguyên cho nhà nước.
+พลังงานหมุนเวียน:phalangnganmunwian|năng lượng tái tạo|ไทย เพิ่ม พลังงานหมุนเวียน|Thái Lan tăng năng lượng tái tạo.
+พลังงานความร้อนใต้พิภพ:phalangngankhwamrontaiphiphop|năng lượng địa nhiệt|ฝาง มี พลังงานความร้อนใต้พิภพ|Fang có năng lượng địa nhiệt.
+ก๊าซชีวภาพ:katchiwaphap|khí sinh học|ฟาร์ม หมู ผลิต ก๊าซชีวภาพ|Trang trại lợn sản xuất khí sinh học.
+ไบโอดีเซล:bai-odisen|dầu diesel sinh học|ไบโอดีเซล ทำ จาก ปาล์ม|Diesel sinh học làm từ cọ dầu.
+โรงไฟฟ้านิวเคลียร์:rongfaifaniokhlia|nhà máy điện hạt nhân|ชาวบ้าน คัดค้าน โรงไฟฟ้านิวเคลียร์|Dân làng phản đối nhà máy điện hạt nhân.
+กากกัมมันตรังสี:kakkammantarangsi|chất thải phóng xạ|การ เก็บ กากกัมมันตรังสี ยาก|Lưu giữ chất thải phóng xạ rất khó.
+โครงข่ายไฟฟ้า:khrongkhaifaifa|lưới điện|รัฐบาล ปรับปรุง โครงข่ายไฟฟ้า|Chính phủ cải tạo lưới điện.
+ไฟฟ้าแรงสูง:faifaraengsung|điện cao thế|ห้าม เข้า ใกล้ ไฟฟ้าแรงสูง|Cấm lại gần điện cao thế.
+ค่าไฟฟ้าผันแปร:khafaifaphanprae|phụ phí điện biến đổi|เดือน นี้ ค่าไฟฟ้าผันแปร ขึ้น|Tháng này phụ phí điện biến đổi tăng.

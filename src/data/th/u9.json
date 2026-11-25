@@ -1,0 +1,52 @@
+{
+ "units": [
+  {"unit":9,"level":1,"title":"Phần 9: Tổng hợp và hơn thế","desc":"Tổng hợp","color":"sky","course":"th"}
+ ],
+ "lessons": [
+  {"id":"th1x81","title":"Tổng hợp 11","desc":"Từ vựng tổng hợp của cấp này","icon":"ช","unit":9,"course":"th","order":810,"words":[
+   {"id":"th1x81-ชุด","hanzi":"ชุด","pinyin":"chut","vi":"bộ (quần áo, đồ)","ex":{"tokens":["เธอ","ซื้อ","ชุด","ใหม่"],"py":["thoe","sue","chut","mai"],"vi":"Cô ấy mua bộ đồ mới.","alts":[]}},
+   {"id":"th1x81-แถว","hanzi":"แถว","pinyin":"thaeo","vi":"hàng (dãy); khu vực","ex":{"tokens":["นักเรียน","ยืน","เป็น","แถว"],"py":["nakrian","yuen","pen","thaeo"],"vi":"Học sinh đứng thành hàng.","alts":[]}},
+   {"id":"th1x81-ห่อ","hanzi":"ห่อ","pinyin":"ho","vi":"gói (bọc)","ex":{"tokens":["ขอ","ข้าว","หนึ่ง","ห่อ"],"py":["kho","khao","nueng","ho"],"vi":"Cho tôi một gói cơm.","alts":[]}},
+   {"id":"th1x81-เปอร์เซ็นต์","hanzi":"เปอร์เซ็นต์","pinyin":"poesen","vi":"phần trăm","ex":{"tokens":["ร้าน","นี้","ลด","สิบ","เปอร์เซ็นต์"],"py":["ran","ni","lot","sip","poesen"],"vi":"Cửa hàng này giảm mười phần trăm.","alts":[]}},
+   {"id":"th1x81-เพศ","hanzi":"เพศ","pinyin":"phet","vi":"giới tính","ex":{"tokens":["เด็ก","คน","นี้","เพศ","ชาย"],"py":["dek","khon","ni","phet","chai"],"vi":"Đứa trẻ này giới tính nam.","alts":[]}},
+   {"id":"th1x81-ชีวิต","hanzi":"ชีวิต","pinyin":"chiwit","vi":"cuộc sống","ex":{"tokens":["ชีวิต","ที่","นี่","สบาย"],"py":["chiwit","thi","ni","sabai"],"vi":"Cuộc sống ở đây thoải mái.","alts":[]}},
+   {"id":"th1x81-ความรัก","hanzi":"ความรัก","pinyin":"khwamrak","vi":"tình yêu","ex":{"tokens":["ความรัก","ของ","แม่","ใหญ่","มาก"],"py":["khwamrak","khong","mae","yai","mak"],"vi":"Tình yêu của mẹ rất lớn.","alts":[]}},
+   {"id":"th1x81-งานแต่งงาน","hanzi":"งานแต่งงาน","pinyin":"ngantaengngan","vi":"đám cưới","ex":{"tokens":["เรา","ไป","งานแต่งงาน","ของ","เพื่อน"],"py":["rao","pai","ngantaengngan","khong","phuean"],"vi":"Chúng tôi đi đám cưới của bạn.","alts":[]}},
+   {"id":"th1x81-สงกรานต์","hanzi":"สงกรานต์","pinyin":"songkran","vi":"Tết té nước Songkran","ex":{"tokens":["สงกรานต์","อยู่","ใน","เดือน","เมษายน"],"py":["songkran","yu","nai","duean","mesayon"],"vi":"Tết Songkran rơi vào tháng Tư.","alts":[]}},
+   {"id":"th1x81-รวม","hanzi":"รวม","pinyin":"ruam","vi":"gộp, tổng cộng","ex":{"tokens":["รวม","ทั้งหมด","ร้อย","บาท"],"py":["ruam","thangmot","roi","bat"],"vi":"Tổng cộng tất cả một trăm baht.","alts":[]}},
+   {"id":"th1x81-ชั่ง","hanzi":"ชั่ง","pinyin":"chang","vi":"cân (đo trọng lượng)","ex":{"tokens":["แม่ค้า","ชั่ง","ผลไม้"],"py":["maekha","chang","phonlamai"],"vi":"Cô bán hàng cân hoa quả.","alts":[]}},
+   {"id":"th1x81-ผสม","hanzi":"ผสม","pinyin":"phasom","vi":"trộn, pha","ex":{"tokens":["เขา","ผสม","นม","กับ","กาแฟ"],"py":["khao","phasom","nom","kap","kafae"],"vi":"Anh ấy pha sữa với cà phê.","alts":[]}},
+   {"id":"th1x81-แมลงวัน","hanzi":"แมลงวัน","pinyin":"malaengwan","vi":"con ruồi","ex":{"tokens":["ที่","ตลาด","มี","แมลงวัน","มาก"],"py":["thi","talat","mi","malaengwan","mak"],"vi":"Ở chợ có nhiều ruồi.","alts":[]}}
+  ]},
+  {"id":"th1x82","title":"Tổng hợp 12","desc":"Từ vựng tổng hợp của cấp này","icon":"เ","unit":9,"course":"th","order":820,"words":[
+   {"id":"th1x82-เท","hanzi":"เท","pinyin":"the","vi":"rót, đổ","ex":{"tokens":["เธอ","เท","น้ำ","ใส่","แก้ว"],"py":["thoe","the","nam","sai","kaeo"],"vi":"Cô ấy rót nước vào cốc.","alts":[]}},
+   {"id":"th1x82-เช็ด","hanzi":"เช็ด","pinyin":"chet","vi":"lau","ex":{"tokens":["ช่วย","เช็ด","โต๊ะ","หน่อย"],"py":["chuai","chet","to","noi"],"vi":"Làm ơn lau bàn giúp.","alts":[]}},
+   {"id":"th1x82-กวาด","hanzi":"กวาด","pinyin":"kwat","vi":"quét","ex":{"tokens":["ฉัน","กวาด","พื้น"],"py":["chan","kwat","phuen"],"vi":"Tôi quét sàn.","alts":[]}},
+   {"id":"th1x82-ล็อก","hanzi":"ล็อก","pinyin":"lok","vi":"khóa (lại)","ex":{"tokens":["อย่า","ลืม","ล็อก","ประตู"],"py":["ya","luem","lok","pratu"],"vi":"Đừng quên khóa cửa.","alts":[]}},
+   {"id":"th1x82-เคาะ","hanzi":"เคาะ","pinyin":"kho","vi":"gõ","ex":{"tokens":["เขา","เคาะ","ประตู"],"py":["khao","kho","pratu"],"vi":"Anh ấy gõ cửa.","alts":[]}},
+   {"id":"th1x82-กด","hanzi":"กด","pinyin":"kot","vi":"ấn, bấm","ex":{"tokens":["กด","เบอร์","นี้"],"py":["kot","boe","ni"],"vi":"Bấm số này.","alts":[]}},
+   {"id":"th1x82-จน","hanzi":"จน","pinyin":"chon","vi":"nghèo","ex":{"tokens":["ครอบครัว","นี้","จน"],"py":["khropkhrua","ni","chon"],"vi":"Gia đình này nghèo.","alts":[]}},
+   {"id":"th1x82-แก่","hanzi":"แก่","pinyin":"kae","vi":"già","ex":{"tokens":["หมา","ตัว","นี้","แก่","แล้ว"],"py":["ma","tua","ni","kae","laeo"],"vi":"Con chó này già rồi.","alts":[]}},
+   {"id":"th1x82-หนุ่ม","hanzi":"หนุ่ม","pinyin":"num","vi":"trẻ (nam), chàng trai","ex":{"tokens":["เขา","ยัง","หนุ่ม"],"py":["khao","yang","num"],"vi":"Anh ấy còn trẻ.","alts":[]}},
+   {"id":"th1x82-สาว","hanzi":"สาว","pinyin":"sao","vi":"trẻ (nữ), cô gái","ex":{"tokens":["เธอ","ยัง","สาว"],"py":["thoe","yang","sao"],"vi":"Cô ấy còn trẻ.","alts":[]}},
+   {"id":"th1x82-โสด","hanzi":"โสด","pinyin":"sot","vi":"độc thân","ex":{"tokens":["พี่ชาย","ยัง","โสด"],"py":["phichai","yang","sot"],"vi":"Anh trai vẫn độc thân.","alts":[]}},
+   {"id":"th1x82-เมา","hanzi":"เมา","pinyin":"mao","vi":"say","ex":{"tokens":["เขา","เมา","เบียร์"],"py":["khao","mao","bia"],"vi":"Anh ấy say bia.","alts":[]}},
+   {"id":"th1x82-แมงมุม","hanzi":"แมงมุม","pinyin":"maengmum","vi":"con nhện","ex":{"tokens":["ฉัน","กลัว","แมงมุม"],"py":["chan","klua","maengmum"],"vi":"Tôi sợ nhện.","alts":[]}}
+  ]},
+  {"id":"th1x83","title":"Tổng hợp 13","desc":"Từ vựng tổng hợp của cấp này","icon":"ห","unit":9,"course":"th","order":830,"words":[
+   {"id":"th1x83-หลับ","hanzi":"หลับ","pinyin":"lap","vi":"ngủ say, thiếp đi","ex":{"tokens":["เด็ก","หลับ","แล้ว"],"py":["dek","lap","laeo"],"vi":"Đứa trẻ ngủ rồi.","alts":[]}},
+   {"id":"th1x83-ทั้งวัน","hanzi":"ทั้งวัน","pinyin":"thangwan","vi":"cả ngày","ex":{"tokens":["เขา","นอน","ทั้งวัน"],"py":["khao","non","thangwan"],"vi":"Anh ấy ngủ cả ngày.","alts":[]}},
+   {"id":"th1x83-ตรงเวลา","hanzi":"ตรงเวลา","pinyin":"trongwela","vi":"đúng giờ","ex":{"tokens":["รถไฟ","มา","ตรงเวลา"],"py":["rotfai","ma","trongwela"],"vi":"Tàu hỏa đến đúng giờ.","alts":[]}},
+   {"id":"th1x83-สมัยก่อน","hanzi":"สมัยก่อน","pinyin":"samaikon","vi":"ngày xưa","ex":{"tokens":["สมัยก่อน","ที่","นี่","เป็น","ป่า"],"py":["samaikon","thi","ni","pen","pa"],"vi":"Ngày xưa nơi này là rừng.","alts":[]}},
+   {"id":"th1x83-ช่วง","hanzi":"ช่วง","pinyin":"chuang","vi":"khoảng (thời gian)","ex":{"tokens":["ช่วง","นี้","ผม","ยุ่ง","มาก"],"py":["chuang","ni","phom","yung","mak"],"vi":"Dạo này tôi rất bận.","alts":[]}},
+   {"id":"th1x83-ล่าสุด","hanzi":"ล่าสุด","pinyin":"lasut","vi":"mới nhất, gần đây nhất","ex":{"tokens":["นี่","คือ","ข่าว","ล่าสุด"],"py":["ni","khue","khao","lasut"],"vi":"Đây là tin mới nhất.","alts":[]}},
+   {"id":"th1x83-สุดท้าย","hanzi":"สุดท้าย","pinyin":"sutthai","vi":"cuối cùng","ex":{"tokens":["วันนี้","เป็น","วัน","สุดท้าย"],"py":["wanni","pen","wan","sutthai"],"vi":"Hôm nay là ngày cuối cùng.","alts":[]}},
+   {"id":"th1x83-แรก","hanzi":"แรก","pinyin":"raek","vi":"đầu tiên","ex":{"tokens":["นี่","เป็น","ครั้ง","แรก","ของ","ผม"],"py":["ni","pen","khrang","raek","khong","phom"],"vi":"Đây là lần đầu tiên của tôi.","alts":[]}},
+   {"id":"th1x83-ต่อไป","hanzi":"ต่อไป","pinyin":"topai","vi":"tiếp theo","ex":{"tokens":["สถานี","ต่อไป","คือ","สยาม"],"py":["sathani","topai","khue","sayam"],"vi":"Ga tiếp theo là Siam.","alts":[]}},
+   {"id":"th1x83-จระเข้","hanzi":"จระเข้","pinyin":"chorakhe","vi":"cá sấu","ex":{"tokens":["จระเข้","อยู่","ใน","แม่น้ำ"],"py":["chorakhe","yu","nai","maenam"],"vi":"Cá sấu ở dưới sông.","alts":[]}},
+   {"id":"th1x83-ปลาหมึก","hanzi":"ปลาหมึก","pinyin":"plamuek","vi":"con mực","ex":{"tokens":["ปลาหมึก","ย่าง","อร่อย"],"py":["plamuek","yang","aroi"],"vi":"Mực nướng rất ngon.","alts":[]}},
+   {"id":"th1x83-หอย","hanzi":"หอย","pinyin":"hoi","vi":"con sò, ốc","ex":{"tokens":["ฉัน","ชอบ","กิน","หอย"],"py":["chan","chop","kin","hoi"],"vi":"Tôi thích ăn sò ốc.","alts":[]}},
+   {"id":"th1x83-ผึ้ง","hanzi":"ผึ้ง","pinyin":"phueng","vi":"con ong","ex":{"tokens":["ผึ้ง","ชอบ","ดอกไม้"],"py":["phueng","chop","dokmai"],"vi":"Con ong thích hoa.","alts":[]}}
+  ]}
+ ]
+}

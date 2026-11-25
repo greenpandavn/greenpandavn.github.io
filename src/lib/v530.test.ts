@@ -94,7 +94,7 @@ describe("v5.3.0 Korean and Japanese courses", () => {
 
   it("progress of the four courses is kept apart and their XP adds up", () => {
     const p = sanitize({ ...defaultProgress(), xp: 100, en: { xp: 20, lessons: {} }, ko: { xp: 30, lessons: { ko101: { completed: 1, bestAccuracy: 1 } } }, ja: { xp: 5, lessons: {} } });
-    expect(xpByCourse(p)).toEqual({ zh: 100, en: 20, ko: 30, ja: 5, total: 155 });
+    expect(xpByCourse(p)).toEqual({ zh: 100, en: 20, ko: 30, ja: 5, th: 0, total: 155 });
     expect(courseView(p, "ko").xp).toBe(30);
     expect(Object.keys(courseView(p, "ko").lessons)).toEqual(["ko101"]);
     expect(courseView(p, "ja").xp).toBe(5);

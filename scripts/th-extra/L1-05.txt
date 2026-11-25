@@ -1,0 +1,81 @@
+=1
+@Câu hỏi và vị trí|Từ để hỏi, phương hướng
+อะไร:arai|cái gì|นี่ คือ อะไร|Đây là cái gì?
+ที่ไหน:thinai|ở đâu|คุณ ทำงาน ที่ไหน|Bạn làm việc ở đâu?
+ทำไม:thammai|tại sao|ทำไม คุณ มา สาย|Tại sao bạn đến muộn?
+อย่างไร:yangrai|như thế nào|ไป ตลาด อย่างไร|Đi ra chợ như thế nào?
+เท่าไร:thaorai|bao nhiêu|อัน นี้ เท่าไร|Cái này bao nhiêu?
+กี่:ki|mấy|คุณ มี พี่น้อง กี่ คน|Bạn có mấy anh chị em?
+ใกล้:klai|gần|บ้าน ผม อยู่ ใกล้ โรงเรียน|Nhà tôi ở gần trường.
+ไกล:klai|xa|สนามบิน อยู่ ไกล มาก|Sân bay ở rất xa.
+ซ้าย:sai|bên trái|ธนาคาร อยู่ ทาง ซ้าย|Ngân hàng ở phía bên trái.
+ขวา:khwa|bên phải|เลี้ยว ขวา ที่ นี่|Rẽ phải ở đây.
+ตรง:trong|thẳng|เดิน ตรง ไป|Đi thẳng.
+ข้าง:khang|bên cạnh|ร้าน อยู่ ข้าง ธนาคาร|Cửa hàng ở bên cạnh ngân hàng.
+ใต้:tai|bên dưới; phía nam|แมว อยู่ ใต้ โต๊ะ|Con mèo ở dưới gầm bàn.
+ระหว่าง:rawang|ở giữa (hai thứ)|ร้าน อยู่ ระหว่าง วัด กับ ตลาด|Cửa hàng ở giữa chùa và chợ.
+ข้างนอก:khangnok|bên ngoài|เด็ก เล่น ข้างนอก|Trẻ em chơi bên ngoài.
+ข้างใน:khangnai|bên trong|ข้างใน ร้อน มาก|Bên trong rất nóng.
+เหนือ:nuea|phía bắc; phía trên|เชียงใหม่ อยู่ ทาง เหนือ|Chiang Mai ở phía bắc.
+ที่นั่น:thinan|ở đó|ที่นั่น มี ร้านอาหาร|Ở đó có quán ăn.
+ก่อน:kon|trước (thời gian)|ล้าง มือ ก่อน กิน ข้าว|Rửa tay trước khi ăn cơm.
+หลังจาก:langchak|sau khi|หลังจาก เรียน ฉัน กลับ บ้าน|Sau khi học tôi về nhà.
+@Động từ thường dùng|Thêm các hành động hằng ngày
+หา:ha|tìm|ฉัน หา กุญแจ|Tôi tìm chìa khóa.
+เจอ:choe|gặp, tìm thấy|ผม เจอ กุญแจ แล้ว|Tôi tìm thấy chìa khóa rồi.
+เที่ยว:thiao|đi chơi, du lịch|เรา ไป เที่ยว ทะเล|Chúng tôi đi chơi biển.
+เยี่ยม:yiam|thăm|ฉัน ไป เยี่ยม ยาย|Tôi đi thăm bà ngoại.
+ช่วย:chuai|giúp|เพื่อน ช่วย ฉัน|Bạn giúp tôi.
+บอก:bok|bảo, nói cho biết|เขา บอก ชื่อ ผม|Anh ấy nói tên cho tôi biết.
+เรียก:riak|gọi (ai, xe)|แม่ เรียก ลูก|Mẹ gọi con.
+ร้อง:rong|kêu, hát|นก ร้อง ตอน เช้า|Chim hót vào buổi sáng.
+ร้องเพลง:rongphleng|hát|เธอ ร้องเพลง เก่ง|Cô ấy hát giỏi.
+เต้น:ten|nhảy múa|เด็ก ชอบ เต้น|Trẻ em thích nhảy múa.
+ว่ายน้ำ:wainam|bơi|ผม ว่ายน้ำ ทุก วันเสาร์|Tôi bơi vào mỗi thứ Bảy.
+จับ:chap|bắt, cầm nắm|ตำรวจ จับ ขโมย:khamoi|Cảnh sát bắt kẻ trộm.
+ถือ:thue|cầm, xách|เขา ถือ กระเป๋า|Anh ấy xách túi.
+วาง:wang|đặt, để|วาง หนังสือ บน โต๊ะ|Đặt quyển sách lên bàn.
+ยก:yok|nâng, nhấc|ช่วย ยก กล่อง นี้ หน่อย|Làm ơn nhấc giúp cái hộp này.
+ส่ง:song|gửi|ฉัน ส่ง ของ ให้ แม่|Tôi gửi đồ cho mẹ.
+รับ:rap|nhận, đón|พ่อ ไป รับ ลูก ที่ โรงเรียน|Bố đi đón con ở trường.
+เลี้ยง:liang|nuôi; chiêu đãi|ฉัน เลี้ยง แมว สอง ตัว|Tôi nuôi hai con mèo.
+ซัก:sak|giặt|แม่ ซัก ผ้า:pha|Mẹ giặt quần áo.
+ทำอาหาร:thamahan|nấu ăn|พ่อ ทำอาหาร เก่ง|Bố nấu ăn giỏi.
+แต่งตัว:taengtua|mặc quần áo, ăn diện|เธอ แต่งตัว สวย|Cô ấy ăn mặc đẹp.
+แต่งงาน:taengngan|kết hôn|พี่สาว จะ แต่งงาน ปี นี้|Chị gái sẽ kết hôn năm nay.
+มี:mi|có|ฉัน มี พี่ชาย หนึ่ง คน|Tôi có một người anh trai.
+เป็น:pen|là|เขา เป็น คน เวียดนาม|Anh ấy là người Việt Nam.
+อยาก:yak|muốn (làm gì)|ผม อยาก ไป ญี่ปุ่น|Tôi muốn đi Nhật.
+ต้องการ:tongkan|cần, muốn có|ฉัน ต้องการ น้ำ|Tôi cần nước.
+ได้:dai|được, có thể|ผม พูด ภาษาไทย ได้|Tôi nói được tiếng Thái.
+พยายาม:phayayam|cố gắng|เขา พยายาม เรียน|Anh ấy cố gắng học.
+เปลี่ยน:plian|thay đổi|ฉัน อยาก เปลี่ยน งาน|Tôi muốn đổi việc.
+ใช้เวลา:chaiwela|mất thời gian, dành thời gian|ไป สนามบิน ใช้เวลา หนึ่ง ชั่วโมง|Đi sân bay mất một tiếng.
+ตัด:tat|cắt|ผม ไป ตัด ผม|Tôi đi cắt tóc.
+เก็บ:kep|cất, nhặt, giữ|เก็บ ของเล่น ด้วย นะ|Cất đồ chơi đi nhé.
+ทิ้ง:thing|vứt bỏ|อย่า ทิ้ง ขยะ:khaya ที่ นี่|Đừng vứt rác ở đây.
+@Tính từ thường dùng|Thêm từ miêu tả
+หนัก:nak|nặng|กระเป๋า ใบ นี้ หนัก|Cái túi này nặng.
+เบา:bao|nhẹ|กล่อง นี้ เบา|Cái hộp này nhẹ.
+ดัง:dang|to (tiếng); nổi tiếng|เพลง นี้ ดัง มาก|Bài hát này rất nổi tiếng.
+เงียบ:ngiap|yên tĩnh|ห้องสมุด เงียบ|Thư viện yên tĩnh.
+ยุ่ง:yung|bận rộn|วันนี้ แม่ ยุ่ง|Hôm nay mẹ bận.
+ว่าง:wang|rảnh, trống|พรุ่งนี้ คุณ ว่าง ไหม|Ngày mai bạn có rảnh không?
+สาย:sai|muộn, trễ|ขอโทษ ที่ มา สาย|Xin lỗi vì đến muộn.
+เสีย:sia|hỏng; mất|ทีวี เสีย|Tivi bị hỏng.
+แรง:raeng|mạnh|ลม แรง มาก|Gió rất mạnh.
+อ่อน:on|yếu, nhạt, non|สี นี้ อ่อน|Màu này nhạt.
+แข็ง:khaeng|cứng|เตียง นี้ แข็ง|Cái giường này cứng.
+นุ่ม:num|mềm|หมอน ใบ นี้ นุ่ม|Cái gối này mềm.
+กว้าง:kwang|rộng|ถนน นี้ กว้าง|Con đường này rộng.
+แคบ:khaep|hẹp|ซอย นี้ แคบ|Ngõ này hẹp.
+เต็ม:tem|đầy|แก้ว นี้ เต็ม แล้ว|Cái cốc này đầy rồi.
+สว่าง:sawang|sáng sủa|ห้อง นี้ สว่าง|Phòng này sáng sủa.
+มืด:muet|tối (thiếu sáng)|ข้างนอก มืด แล้ว|Bên ngoài tối rồi.
+เปียก:piak|ướt|เสื้อ ของ ผม เปียก|Áo của tôi bị ướt.
+แห้ง:haeng|khô|ผ้า แห้ง แล้ว|Quần áo khô rồi.
+สำคัญ:samkhan|quan trọng|งาน นี้ สำคัญ มาก|Công việc này rất quan trọng.
+พิเศษ:phiset|đặc biệt|วันนี้ เป็น วัน พิเศษ|Hôm nay là ngày đặc biệt.
+ธรรมดา:thammada|bình thường|ร้าน นี้ ธรรมดา|Cửa hàng này bình thường.
+จริง:ching|thật, đúng sự thật|เรื่อง นี้ จริง ไหม|Chuyện này có thật không?
+เหมือน:muean|giống|ลูก เหมือน พ่อ|Con giống bố.

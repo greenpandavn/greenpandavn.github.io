@@ -1,0 +1,88 @@
+=2
+@Nhà nước|Chính quyền và pháp luật cơ bản
+ราชการ:ratchakan|công vụ, nhà nước|พ่อ ทำงาน ราชการ|Bố làm việc nhà nước.
+ข้าราชการ:kharatchakan|công chức|เธอ เป็น ข้าราชการ|Cô ấy là công chức.
+เจ้าหน้าที่:chaonathi|cán bộ, nhân viên công vụ|เจ้าหน้าที่ ตรวจ เอกสาร|Cán bộ kiểm tra giấy tờ.
+อำเภอ:amphoe|huyện|ผม ไป อำเภอ ทำ บัตร|Tôi lên huyện làm thẻ.
+ตำบล:tambon|xã|ตำบล นี้ มี ห้า หมู่บ้าน|Xã này có năm làng.
+เทศบาล:thetsaban|chính quyền thành phố|เทศบาล เก็บ ขยะ ทุก วัน|Chính quyền thành phố thu rác mỗi ngày.
+ผู้ว่า:phuwa|tỉnh trưởng|ผู้ว่า มา เยี่ยม ชาวบ้าน|Tỉnh trưởng đến thăm dân làng.
+รัฐมนตรี:ratthamontri|bộ trưởng|รัฐมนตรี ประกาศ แผน ใหม่|Bộ trưởng công bố kế hoạch mới.
+กระทรวง:krasuang|bộ (cơ quan)|กระทรวง นี้ ดูแล การศึกษา|Bộ này phụ trách giáo dục.
+รัฐสภา:ratthasapha|quốc hội|รัฐสภา ประชุม วันนี้|Quốc hội họp hôm nay.
+พรรค:phak|đảng|พรรค นี้ ชนะ เลือกตั้ง|Đảng này thắng cử.
+นโยบาย:nayobai|chính sách|นโยบาย นี้ ช่วย คนจน|Chính sách này giúp người nghèo.
+บัตรประชาชน:batprachachon|chứng minh nhân dân|ขอ ดู บัตรประชาชน หน่อย|Cho tôi xem chứng minh nhân dân.
+ทะเบียนบ้าน:thabianban|sổ hộ khẩu|ผม ลืม ทะเบียนบ้าน|Tôi quên sổ hộ khẩu.
+ใบอนุญาต:baianuyat|giấy phép|ร้าน นี้ มี ใบอนุญาต|Cửa hàng này có giấy phép.
+ค่าปรับ:khaprap|tiền phạt|เขา จ่าย ค่าปรับ ห้า ร้อย บาท|Anh ấy nộp tiền phạt năm trăm baht.
+ผิดกฎหมาย:phitkotmai|phạm pháp, trái luật|ขาย ของ นี้ ผิดกฎหมาย|Bán thứ này là trái luật.
+ผู้พิพากษา:phuphiphaksa|thẩm phán|ผู้พิพากษา ตัดสิน:tatsin คดี:khadi|Thẩm phán xét xử vụ án.
+คดี:khadi|vụ án|คดี นี้ ซับซ้อน|Vụ án này phức tạp.
+พยาน:phayan|nhân chứng|พยาน เห็น อุบัติเหตุ|Nhân chứng nhìn thấy vụ tai nạn.
+ผู้ต้องหา:phutongha|nghi phạm|ตำรวจ จับ ผู้ต้องหา|Cảnh sát bắt nghi phạm.
+ทุจริต:thutcharit|tham nhũng, gian lận|เขา ทุจริต เงิน บริษัท|Anh ấy tham ô tiền công ty.
+ประท้วง:prathuang|biểu tình|คน งาน ประท้วง หน้า โรงงาน|Công nhân biểu tình trước nhà máy.
+ลงคะแนน:longkhanaen|bỏ phiếu|ประชาชน ลงคะแนน เลือกตั้ง|Người dân bỏ phiếu bầu cử.
+@Đời sống|Diễn đạt thường ngày
+ชีวิตประจำวัน:chiwitprachamwan|cuộc sống hằng ngày|ชีวิตประจำวัน ของ ผม เรียบง่าย|Cuộc sống hằng ngày của tôi giản dị.
+นิสัย:nisai|thói quen, tính nết|นิสัย ของ เขา ดี|Tính nết anh ấy tốt.
+ความเคยชิน:khwamkhoeichin|thói quen (đã quen)|ตื่น เช้า เป็น ความเคยชิน|Dậy sớm là thói quen.
+เวลาว่าง:welawang|thời gian rảnh|เวลาว่าง ผม อ่าน หนังสือ|Lúc rảnh tôi đọc sách.
+ธุระ:thura|việc bận, công chuyện|วันนี้ ผม มี ธุระ|Hôm nay tôi có việc bận.
+นัดหมาย:natmai|cuộc hẹn|ผม มี นัดหมาย กับ หมอ|Tôi có cuộc hẹn với bác sĩ.
+กำหนดการ:kamnotkan|lịch trình (sự kiện)|กำหนดการ วันนี้ เปลี่ยน|Lịch trình hôm nay thay đổi.
+โอกาสพิเศษ:okatphiset|dịp đặc biệt|เรา ใส่ ชุด นี้ ใน โอกาสพิเศษ|Chúng tôi mặc bộ này vào dịp đặc biệt.
+งานเลี้ยง:nganliang|bữa tiệc|คืนนี้ มี งานเลี้ยง|Đêm nay có tiệc.
+ของกิน:khongkin|đồ ăn (thân mật)|ตลาด นี้ มี ของกิน มาก|Chợ này có nhiều đồ ăn.
+ค่าแรง:kharaeng|tiền công lao động|ค่าแรง ขึ้น ปี นี้|Tiền công tăng năm nay.
+รถส่วนตัว:rotsuantua|xe riêng|เขา ขับ รถส่วนตัว ไป ทำงาน|Anh ấy lái xe riêng đi làm.
+หมวกกันน็อก:muakkannok|mũ bảo hiểm|ใส่ หมวกกันน็อก ด้วย นะ|Đội mũ bảo hiểm nữa nhé.
+เข็มขัดนิรภัย:khemkhatniraphai|dây an toàn|ช่วย คาด:khat เข็มขัดนิรภัย ด้วย|Làm ơn thắt dây an toàn.
+พวงมาลัย:phuangmalai|vô lăng; vòng hoa|เขา จับ พวงมาลัย|Anh ấy cầm vô lăng.
+เบรก:brek|phanh|เบรก รถ เสีย|Phanh xe bị hỏng.
+ล้อ:lo|bánh xe|จักรยาน มี สอง ล้อ|Xe đạp có hai bánh.
+เครื่องยนต์:khrueangyon|động cơ|เครื่องยนต์ ร้อน มาก|Động cơ rất nóng.
+อู่:u|xưởng sửa xe|ผม เอา รถ ไป อู่|Tôi mang xe đến xưởng sửa.
+เติมน้ำมัน:toemnamman|đổ xăng|ผม ต้อง เติมน้ำมัน|Tôi phải đổ xăng.
+รถบรรทุก:rotbanthuk|xe tải|รถบรรทุก คัน นี้ ใหญ่|Chiếc xe tải này to.
+รถตู้:rottu|xe khách nhỏ (van)|เรา นั่ง รถตู้ ไป พัทยา:phatthaya|Chúng tôi đi xe van đến Pattaya.
+เรือข้ามฟาก:rueakhamfak|phà, đò ngang|เรา นั่ง เรือข้ามฟาก|Chúng tôi đi phà.
+ทางลัด:thanglat|đường tắt|ผม รู้ ทางลัด|Tôi biết đường tắt.
+ปรอท:parot|nhiệt kế|แม่ ใช้ ปรอท วัด ไข้|Mẹ dùng nhiệt kế đo sốt.
+ฟ้าแลบ:falaep|chớp|ฟ้าแลบ ก่อน ฝน ตก|Chớp trước khi mưa.
+ลูกเห็บ:lukhep|mưa đá|เมื่อวาน มี ลูกเห็บ|Hôm qua có mưa đá.
+น้ำค้าง:namkhang|sương (đọng)|ตอน เช้า มี น้ำค้าง|Buổi sáng có sương.
+แดดออก:daet-ok|trời nắng lên|วันนี้ แดดออก|Hôm nay trời nắng lên.
+ฝนปรอย:fonproi|mưa phùn|เช้านี้ ฝนปรอย|Sáng nay mưa phùn.
+อบอ้าว:op-ao|oi bức|วันนี้ อากาศ อบอ้าว|Hôm nay thời tiết oi bức.
+หนาวจัด:naochat|rét đậm|ปี นี้ หนาวจัด|Năm nay rét đậm.
+พยากรณ์อากาศ:phayakon-akat|dự báo thời tiết|ผม ดู พยากรณ์อากาศ ทุก เช้า|Tôi xem dự báo thời tiết mỗi sáng.
+ครึ้ม:khruem|âm u|ท้องฟ้า ครึ้ม|Trời âm u.
+ลมแรง:lomraeng|gió mạnh|วันนี้ ลมแรง มาก|Hôm nay gió rất mạnh.
+น้ำขึ้น:namkhuen|nước lên (triều)|ตอน เย็น น้ำขึ้น|Buổi chiều nước lên.
+@Hành động khác|Động từ bổ sung
+สูบ:sup|hút (thuốc), bơm|เขา สูบ บุหรี่|Anh ấy hút thuốc lá.
+ตัดสิน:tatsin|phán quyết, phân xử|กรรมการ ตัดสิน เร็ว|Trọng tài phân xử nhanh.
+คาด:khat|thắt (dây); dự đoán|เขา คาด เข็มขัด|Anh ấy thắt thắt lưng.
+ปล่อย:ploi|thả, buông|เด็ก ปล่อย นก|Đứa trẻ thả chim.
+แขวน:khwaen|treo|เธอ แขวน เสื้อ|Cô ấy treo áo.
+ตาก:tak|phơi|แม่ ตาก ผ้า|Mẹ phơi quần áo.
+ห่อของ:hokhong|gói đồ|พนักงาน ห่อของ ให้ ลูกค้า|Nhân viên gói đồ cho khách.
+ขน:khon|chở, vận chuyển|เขา ขน ของ ขึ้น รถ|Họ chở đồ lên xe.
+บรรทุก:banthuk|chở (hàng)|รถ บรรทุก ข้าวสาร|Xe chở gạo.
+ขัด:khat|đánh bóng, chà|เขา ขัด รองเท้า|Anh ấy đánh giày.
+ซึม:suem|thấm|น้ำ ซึม เข้า บ้าน|Nước thấm vào nhà.
+ลอย:loi|nổi, trôi|ใบไม้ ลอย บน น้ำ|Lá cây nổi trên mặt nước.
+จม:chom|chìm|เรือ จม|Thuyền bị chìm.
+ไหลออก:lai-ok|chảy ra|น้ำ ไหลออก จาก ท่อ|Nước chảy ra từ ống.
+ระเบิด:raboet|nổ; bom|ถัง:thang แก๊ส ระเบิด|Bình ga phát nổ.
+พัง:phang|sập, hỏng nát|บ้าน เก่า พัง|Ngôi nhà cũ sập.
+ทรุด:sut|sụt lún, suy sụp|ถนน ทรุด|Con đường bị sụt lún.
+ลุก:luk|đứng dậy|เขา ลุก จาก เก้าอี้|Anh ấy đứng dậy khỏi ghế.
+ก้ม:kom|cúi xuống|เธอ ก้ม เก็บ ปากกา|Cô ấy cúi xuống nhặt bút.
+เงย:ngoei|ngẩng lên|เด็ก เงย หน้า ดู ดาว|Đứa trẻ ngẩng mặt ngắm sao.
+หัน:han|quay (người, mặt)|เขา หัน มา มอง ผม|Anh ấy quay lại nhìn tôi.
+พิง:phing|tựa vào|เธอ พิง กำแพง|Cô ấy tựa vào tường.
+คลาน:khlan|bò (trẻ con)|ทารก คลาน บน พื้น|Em bé bò trên sàn.
+ย่อง:yong|rón rén|แมว ย่อง เข้า ห้อง|Con mèo rón rén vào phòng.

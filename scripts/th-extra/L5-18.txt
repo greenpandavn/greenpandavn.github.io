@@ -1,0 +1,24 @@
+=5
+@Thiết kế thời trang|Cắt may, phom dáng
+ออกแบบแฟชั่น:okbaepfaechan|thiết kế thời trang|เธอ เรียน ออกแบบแฟชั่น|Cô ấy học thiết kế thời trang.
+แพตเทิร์น:phaetthoen|rập cắt may|ช่าง ทำ แพตเทิร์น เสื้อ|Thợ làm rập áo.
+สร้างแบบตัดเย็บ:sangbaeptatyep|dựng rập cắt may|นักศึกษา เรียน สร้างแบบตัดเย็บ|Sinh viên học dựng rập cắt may.
+หุ่นลองเสื้อ:hunlongsuea|ma nơ canh thợ may|ช่าง ลอง ชุด บน หุ่นลองเสื้อ|Thợ thử váy trên ma nơ canh.
+ตะเข็บ:takhep|đường may nối|ตะเข็บ เสื้อ ขาด|Đường may áo bị bung.
+ซับใน:sapnai|vải lót|กระโปรง นี้ มี ซับใน|Váy này có vải lót.
+ปกเสื้อ:poksuea|cổ áo|ปกเสื้อ ของ เขา สกปรก|Cổ áo anh ấy bẩn.
+แขนเสื้อ:khaensuea|tay áo|แขนเสื้อ ยาว เกิน ไป|Tay áo dài quá.
+จีบ:chip|nếp xếp ly; tán tỉnh|กระโปรง มี จีบ รอบ ตัว|Váy có nếp xếp ly quanh thân.
+ระบาย:rabai|bèo nhún; thoát (nước), tô màu|ชุด เด็ก มี ระบาย ที่ คอ|Váy trẻ em có bèo nhún ở cổ.
+ลูกไม้:lukmai|ren (vải); quả cây|ชุด แต่งงาน ใช้ ลูกไม้|Váy cưới dùng ren.
+ผ้ากำมะหยี่:phakammayi|vải nhung|เก้าอี้ หุ้ม ด้วย ผ้ากำมะหยี่|Ghế bọc vải nhung.
+ผ้าลินิน:phalinin|vải lanh|หน้า ร้อน ผม ใส่ ผ้าลินิน|Mùa hè tôi mặc vải lanh.
+ผ้าชีฟอง:phachifong|vải voan|ชุด นี้ ทำ จาก ผ้าชีฟอง|Váy này làm bằng vải voan.
+ผ้ายีนส์:phayin|vải bò|กระเป๋า ทำ จาก ผ้ายีนส์|Túi làm bằng vải bò.
+เสื้อผ้าสำเร็จรูป:sueaphasamretrup|quần áo may sẵn|ร้าน นี้ ขาย เสื้อผ้าสำเร็จรูป|Tiệm này bán quần áo may sẵn.
+สั่งตัด:sangtat|đặt may đo|พ่อ สั่งตัด สูท|Bố đặt may bộ vest.
+ชั้นสูง:chansung|cao cấp (thời trang, tầng lớp)|เธอ ชอบ แฟชั่น ชั้นสูง|Cô ấy thích thời trang cao cấp.
+แฟชั่นหมุนเร็ว:faechanmunreo|thời trang nhanh|แฟชั่นหมุนเร็ว สร้าง ขยะ มาก|Thời trang nhanh tạo nhiều rác.
+คอลเลกชัน:khonlekchan|bộ sưu tập|นักออกแบบ เปิด คอลเลกชัน ใหม่|Nhà thiết kế ra mắt bộ sưu tập mới.
+เดินแบบ:doenbaep|trình diễn thời trang|นางแบบ เดินแบบ บน เวที|Người mẫu trình diễn trên sân khấu.
+สไตลิสต์:satailit|nhà tạo mẫu (stylist)|สไตลิสต์ เลือก ชุด ให้ ดารา|Stylist chọn đồ cho diễn viên.

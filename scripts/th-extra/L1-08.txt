@@ -1,0 +1,76 @@
+=1
+@Liên lạc|Điện thoại và mạng
+โทร:tho|gọi điện|ฉัน โทร หา แม่ ทุก วัน|Tôi gọi điện cho mẹ mỗi ngày.
+ข้อความ:khokhwam|tin nhắn|ผม ส่ง ข้อความ ให้ เพื่อน|Tôi gửi tin nhắn cho bạn.
+อินเทอร์เน็ต:inthoenet|internet|ที่ นี่ มี อินเทอร์เน็ต ไหม|Ở đây có internet không?
+คอมพิวเตอร์:khomphiotoe|máy tính|ผม ใช้ คอมพิวเตอร์ ทำงาน|Tôi dùng máy tính để làm việc.
+อีเมล:imeo|thư điện tử|ฉัน ส่ง อีเมล แล้ว|Tôi gửi email rồi.
+จดหมาย:chotmai|lá thư|ยาย เขียน จดหมาย|Bà ngoại viết thư.
+ข่าว:khao|tin tức|พ่อ ดู ข่าว ทุก เช้า|Bố xem tin tức mỗi sáng.
+รูปภาพ:rupphap|hình ảnh, tranh ảnh|รูปภาพ นี้ สวย|Bức hình này đẹp.
+วิดีโอ:widio|video|เด็ก ดู วิดีโอ|Đứa trẻ xem video.
+กล้อง:klong|máy ảnh|กล้อง นี้ แพง|Máy ảnh này đắt.
+ที่อยู่:thiyu|địa chỉ|ขอ ที่อยู่ ของ คุณ หน่อย|Cho tôi xin địa chỉ của bạn.
+รหัส:rahat|mật mã, mã số|ผม ลืม รหัส|Tôi quên mật khẩu.
+คุย:khui|nói chuyện|เรา คุย กัน ทุก วัน|Chúng tôi nói chuyện với nhau mỗi ngày.
+เล่า:lao|kể|ยาย เล่า เรื่อง เก่า|Bà ngoại kể chuyện xưa.
+ชวน:chuan|rủ, mời|เพื่อน ชวน ผม ไป ดู หนัง|Bạn rủ tôi đi xem phim.
+สัญญา:sanya|hứa; hợp đồng|ผม สัญญา ว่า จะ มา|Tôi hứa là sẽ đến.
+ขอบใจ:khopchai|cảm ơn (thân mật)|ขอบใจ มาก นะ|Cảm ơn nhiều nhé.
+ขอ:kho|xin|ขอ น้ำ หนึ่ง แก้ว|Cho tôi xin một cốc nước.
+ตกลง:toklong|đồng ý, được rồi|ตกลง ผม จะ ไป|Được rồi, tôi sẽ đi.
+แน่นอน:naenon|chắc chắn|พรุ่งนี้ ผม มา แน่นอน|Ngày mai tôi chắc chắn đến.
+@Du lịch|Đi chơi và khách sạn
+นักท่องเที่ยว:nakthongthiao|khách du lịch|ที่ นี่ มี นักท่องเที่ยว มาก|Ở đây có nhiều khách du lịch.
+หนังสือเดินทาง:nangsuedoenthang|hộ chiếu|ผม ลืม หนังสือเดินทาง|Tôi quên hộ chiếu.
+เดินทาง:doenthang|đi lại, di chuyển (đường xa)|เรา เดินทาง โดย รถไฟ|Chúng tôi đi bằng tàu hỏa.
+จอง:chong|đặt trước|ฉัน จอง ห้อง แล้ว|Tôi đặt phòng rồi.
+กระเป๋าเดินทาง:krapaodoenthang|vali|กระเป๋าเดินทาง ใบ นี้ หนัก|Cái vali này nặng.
+ทัวร์:thua|tour du lịch|เรา ไป กับ ทัวร์|Chúng tôi đi theo tour.
+ไกด์:kai|hướng dẫn viên|ไกด์ พูด ภาษา เวียดนาม ได้|Hướng dẫn viên nói được tiếng Việt.
+ที่พัก:thiphak|chỗ ở, chỗ nghỉ|ที่พัก นี้ ราคา ถูก|Chỗ nghỉ này giá rẻ.
+ห้องพัก:hongphak|phòng nghỉ (khách sạn)|ห้องพัก นี้ มี แอร์|Phòng nghỉ này có điều hòa.
+สถานที่:sathanthi|địa điểm|สถานที่ นี้ ดัง มาก|Địa điểm này rất nổi tiếng.
+เช่า:chao|thuê|เรา เช่า รถ หนึ่ง คัน|Chúng tôi thuê một chiếc xe.
+หลงทาง:longthang|lạc đường|นักท่องเที่ยว หลงทาง|Khách du lịch bị lạc đường.
+ชายแดน:chaidaen|biên giới|เมือง นี้ อยู่ ใกล้ ชายแดน|Thành phố này ở gần biên giới.
+ภาพ:phap|bức tranh, hình|ภาพ นี้ สวย มาก|Bức tranh này rất đẹp.
+ตลาดน้ำ:talatnam|chợ nổi|เรา นั่ง เรือ ไป ตลาดน้ำ|Chúng tôi đi thuyền ra chợ nổi.
+ตลาดกลางคืน:talatklangkhuen|chợ đêm|ตลาดกลางคืน มี อาหาร อร่อย|Chợ đêm có đồ ăn ngon.
+พระ:phra|nhà sư|พระ อยู่ ที่ วัด|Nhà sư ở trong chùa.
+ไหว้:wai|chắp tay chào, vái|คน ไทย ไหว้ พระ|Người Thái vái sư.
+พระพุทธรูป:phraphuttharup|tượng Phật|พระพุทธรูป องค์:ong นี้ ใหญ่|Bức tượng Phật này to.
+วัง:wang|cung điện|วัง นี้ เก่า และ สวย|Cung điện này cổ và đẹp.
+ช้างไทย:changthai|voi Thái|นักท่องเที่ยว ชอบ ช้างไทย|Khách du lịch thích voi Thái.
+นวด:nuat|mát xa|ฉัน ชอบ นวด ไทย|Tôi thích mát xa Thái.
+@Số lượng|Đơn vị và lượng từ
+อัน:an|cái (lượng từ đồ nhỏ)|ขอ อัน นี้ ครับ|Cho tôi cái này.
+ใบ:bai|chiếc (lượng từ bát, túi, vé); lá|ขอ จาน สอง ใบ|Cho tôi xin hai cái đĩa.
+เล่ม:lem|quyển (lượng từ sách, dao)|ผม ซื้อ หนังสือ สาม เล่ม|Tôi mua ba quyển sách.
+คัน:khan|chiếc (lượng từ xe); ngứa|บ้าน นี้ มี รถ สอง คัน|Nhà này có hai chiếc xe.
+ชิ้น:chin|miếng, mẩu|ขอ เค้ก หนึ่ง ชิ้น|Cho tôi một miếng bánh ngọt.
+ครั้ง:khrang|lần|ผม ไป ไทย สอง ครั้ง|Tôi đi Thái hai lần.
+ทุก:thuk|mỗi, mọi|ทุก คน ชอบ เขา|Mọi người đều thích anh ấy.
+หลาย:lai|nhiều (số lượng), vài|ผม มี เพื่อน หลาย คน|Tôi có nhiều người bạn.
+บาง:bang|một số; mỏng|บาง คน ไม่ ชอบ เผ็ด|Một số người không thích cay.
+ทั้งหมด:thangmot|tất cả|ทั้งหมด เท่าไร ครับ|Tất cả bao nhiêu ạ?
+กิโล:kilo|ki lô (cân, cây số)|ขอ ส้ม สอง กิโล|Cho tôi hai cân cam.
+เมตร:met|mét|ห้อง นี้ ยาว ห้า เมตร|Phòng này dài năm mét.
+ลิตร:lit|lít|ขอ น้ำมัน สิบ ลิตร|Cho tôi mười lít xăng.
+ชุด:chut|bộ (quần áo, đồ)|เธอ ซื้อ ชุด ใหม่|Cô ấy mua bộ đồ mới.
+แถว:thaeo|hàng (dãy); khu vực|นักเรียน ยืน เป็น แถว|Học sinh đứng thành hàng.
+ห่อ:ho|gói (bọc)|ขอ ข้าว หนึ่ง ห่อ|Cho tôi một gói cơm.
+เปอร์เซ็นต์:poesen|phần trăm|ร้าน นี้ ลด สิบ เปอร์เซ็นต์|Cửa hàng này giảm mười phần trăm.
+@Tháng|Mười hai tháng trong năm
+มกราคม:mokkarakhom|tháng Một|มกราคม อากาศ เย็น|Tháng Một thời tiết mát.
+กุมภาพันธ์:kumphaphan|tháng Hai|ผม เกิด เดือน กุมภาพันธ์|Tôi sinh vào tháng Hai.
+มีนาคม:minakhom|tháng Ba|โรงเรียน ปิด เดือน มีนาคม|Trường học nghỉ vào tháng Ba.
+เมษายน:mesayon|tháng Tư|เมษายน ร้อน มาก|Tháng Tư rất nóng.
+พฤษภาคม:phruetsaphakhom|tháng Năm|โรงเรียน เปิด เดือน พฤษภาคม|Trường học khai giảng vào tháng Năm.
+มิถุนายน:mithunayon|tháng Sáu|มิถุนายน ฝน ตก บ่อย|Tháng Sáu trời hay mưa.
+กรกฎาคม:karakadakhom|tháng Bảy|เรา จะ ไป ไทย เดือน กรกฎาคม|Chúng tôi sẽ đi Thái vào tháng Bảy.
+สิงหาคม:singhakhom|tháng Tám|วัน แม่ อยู่ ใน เดือน สิงหาคม|Ngày của Mẹ ở trong tháng Tám.
+กันยายน:kanyayon|tháng Chín|กันยายน น้ำ มาก|Tháng Chín nhiều nước.
+ตุลาคม:tulakhom|tháng Mười|พี่สาว แต่งงาน เดือน ตุลาคม|Chị gái kết hôn vào tháng Mười.
+พฤศจิกายน:phruetsachikayon|tháng Mười một|พฤศจิกายน อากาศ ดี|Tháng Mười một thời tiết đẹp.
+ธันวาคม:thanwakhom|tháng Mười hai|วัน พ่อ อยู่ ใน เดือน ธันวาคม|Ngày của Bố ở trong tháng Mười hai.

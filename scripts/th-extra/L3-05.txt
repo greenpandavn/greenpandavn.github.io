@@ -1,0 +1,64 @@
+=3
+@Môi trường nâng cao|Khí hậu và tài nguyên
+ภาวะโลกร้อน:phawalokron|hiện tượng nóng lên toàn cầu|ภาวะโลกร้อน เป็น ปัญหา ใหญ่|Nóng lên toàn cầu là vấn đề lớn.
+ก๊าซเรือนกระจก:katrueankrachok|khí nhà kính|โรงงาน ปล่อย ก๊าซเรือนกระจก|Nhà máy thải khí nhà kính.
+ชั้นโอโซน:chan-oson|tầng ô dôn|ชั้นโอโซน บาง ลง|Tầng ô dôn mỏng đi.
+ระบบนิเวศ:rabopniwet|hệ sinh thái|ระบบนิเวศ ใน ป่า ซับซ้อน|Hệ sinh thái trong rừng phức tạp.
+ความหลากหลายทางชีวภาพ:khwamlaklaithangchiwaphap|đa dạng sinh học|ป่า นี้ มี ความหลากหลายทางชีวภาพ สูง|Khu rừng này có đa dạng sinh học cao.
+สัตว์สงวน:satsanguan|động vật được bảo tồn|ช้าง เป็น สัตว์สงวน|Voi là động vật được bảo tồn.
+ตัดไม้ทำลายป่า:tatmaithamlaipa|phá rừng|ตัดไม้ทำลายป่า ทำให้ น้ำท่วม|Phá rừng gây ra lũ lụt.
+ปลูกป่า:plukpa|trồng rừng|นักเรียน ช่วย กัน ปลูกป่า|Học sinh cùng nhau trồng rừng.
+ทรัพยากรธรรมชาติ:sapphayakonthammachat|tài nguyên thiên nhiên|ไทย มี ทรัพยากรธรรมชาติ มาก|Thái Lan có nhiều tài nguyên thiên nhiên.
+พลังงานทดแทน:phalang-nganthotthaen|năng lượng thay thế|รัฐบาล ส่งเสริม พลังงานทดแทน|Chính phủ khuyến khích năng lượng thay thế.
+เชื้อเพลิง:chueaphloeng|nhiên liệu|รถ นี้ ใช้ เชื้อเพลิง น้อย|Xe này dùng ít nhiên liệu.
+ถ่านหิน:thanhin|than đá|โรงไฟฟ้า ใช้ ถ่านหิน|Nhà máy điện dùng than đá.
+ก๊าซธรรมชาติ:katthammachat|khí thiên nhiên|ไทย ผลิต ก๊าซธรรมชาติ|Thái Lan sản xuất khí thiên nhiên.
+กังหันลม:kanghanlom|tua bin gió|บน เขา มี กังหันลม|Trên núi có tua bin gió.
+แผงโซลาร์:phaengsola|tấm pin mặt trời|หลังคา มี แผงโซลาร์|Mái nhà có tấm pin mặt trời.
+ขยะพิษ:khayaphit|rác thải độc hại|ขยะพิษ ต้อง แยก ทิ้ง|Rác độc hại phải vứt riêng.
+ฝุ่นละออง:funla-ong|bụi mịn|กรุงเทพ มี ฝุ่นละออง มาก|Bangkok có nhiều bụi mịn.
+หมอกควัน:mokkhwan|khói mù|เชียงใหม่ มี หมอกควัน ทุก ปี|Chiang Mai có khói mù hằng năm.
+อุทกภัย:uthokkaphai|lũ lụt (thiên tai)|อุทกภัย ปี นี้ รุนแรง|Lũ lụt năm nay nghiêm trọng.
+ดินถล่ม:dinthalom|sạt lở đất|ฝน ตก หนัก ทำให้ ดินถล่ม|Mưa to gây sạt lở đất.
+สึนามิ:suenami|sóng thần|สึนามิ ทำลาย หมู่บ้าน|Sóng thần phá hủy ngôi làng.
+น้ำแข็งขั้วโลก:namkhaengkhualok|băng ở cực|น้ำแข็งขั้วโลก ละลาย|Băng ở cực tan chảy.
+ระดับน้ำทะเล:radapnamthale|mực nước biển|ระดับน้ำทะเล สูง ขึ้น|Mực nước biển dâng lên.
+ย่อยสลาย:yoisalai|phân hủy|พลาสติก ย่อยสลาย ยาก|Nhựa khó phân hủy.
+ยั่งยืน:yangyuen|bền vững|เรา ต้องการ การพัฒนา:kanphatthana ที่ ยั่งยืน|Chúng ta cần sự phát triển bền vững.
+เป็นมิตรกับสิ่งแวดล้อม:penmitkapsingwaetlom|thân thiện với môi trường|ถุง นี้ เป็นมิตรกับสิ่งแวดล้อม|Cái túi này thân thiện với môi trường.
+รอยเท้าคาร์บอน:roithaokhabon|dấu chân các bon|เรา ควร ลด รอยเท้าคาร์บอน|Chúng ta nên giảm dấu chân các bon.
+แหล่งน้ำ:laengnam|nguồn nước|หมู่บ้าน นี้ ขาด แหล่งน้ำ|Ngôi làng này thiếu nguồn nước.
+ป่าชายเลน:pachailen|rừng ngập mặn|ป่าชายเลน ป้องกัน คลื่น|Rừng ngập mặn chắn sóng.
+แนวปะการัง:naeopakarang|rạn san hô|แนวปะการัง นี้ สวย มาก|Rạn san hô này rất đẹp.
+@Công nghệ thông tin|Máy tính và mạng
+ฐานข้อมูล:thankhomun|cơ sở dữ liệu|บริษัท มี ฐานข้อมูล ใหญ่|Công ty có cơ sở dữ liệu lớn.
+เครือข่าย:khrueakhai|mạng lưới|เครือข่าย นี้ ช้า|Mạng này chậm.
+เซิร์ฟเวอร์:soepwoe|máy chủ|เซิร์ฟเวอร์ ล่ม:lom เมื่อคืน|Máy chủ bị sập đêm qua.
+ซอฟต์แวร์:sopwae|phần mềm|ซอฟต์แวร์ นี้ ใช้ ง่าย|Phần mềm này dễ dùng.
+ฮาร์ดแวร์:hatwae|phần cứng|ฮาร์ดแวร์ ของ เครื่อง นี้ เก่า|Phần cứng của máy này cũ.
+ระบบปฏิบัติการ:raboppatibatkan|hệ điều hành|ผม อัปเดต:apdet ระบบปฏิบัติการ|Tôi cập nhật hệ điều hành.
+ติดไวรัส:titwairat|bị nhiễm vi rút (máy tính)|คอมพิวเตอร์ ของ ผม ติดไวรัส|Máy tính của tôi bị nhiễm vi rút.
+แฮก:haek|xâm nhập trái phép, hack|มี คน แฮก เว็บไซต์|Có người hack trang web.
+ความปลอดภัยไซเบอร์:khwamplotphaisaiboe|an ninh mạng|บริษัท สนใจ ความปลอดภัยไซเบอร์|Công ty quan tâm an ninh mạng.
+เข้ารหัส:khaorahat|mã hóa|ข้อมูล นี้ เข้ารหัส แล้ว|Dữ liệu này đã được mã hóa.
+สำรองข้อมูล:samrongkhomun|sao lưu dữ liệu|ผม สำรองข้อมูล ทุก อาทิตย์|Tôi sao lưu dữ liệu mỗi tuần.
+คลาวด์:khlao|đám mây (điện toán)|เรา เก็บ ไฟล์ บน คลาวด์|Chúng tôi lưu tệp trên đám mây.
+เขียนโปรแกรม:khianprokraem|lập trình|เขา เขียนโปรแกรม เก่ง|Anh ấy lập trình giỏi.
+โปรแกรมเมอร์:prokraemmoe|lập trình viên|บริษัท ต้องการ โปรแกรมเมอร์|Công ty cần lập trình viên.
+อัลกอริทึม:anlakorithuem|thuật toán|อัลกอริทึม นี้ เร็ว|Thuật toán này nhanh.
+ข้อบกพร่อง:khobokphrong|lỗi, khiếm khuyết|โปรแกรม นี้ มี ข้อบกพร่อง|Chương trình này có lỗi.
+ผู้ใช้:phuchai|người dùng|แอป นี้ มี ผู้ใช้ มาก|Ứng dụng này có nhiều người dùng.
+บัญชีผู้ใช้:banchiphuchai|tài khoản người dùng|ผม ลืม บัญชีผู้ใช้|Tôi quên tài khoản người dùng.
+ลงทะเบียน:longthabian|đăng ký|นักศึกษา ลงทะเบียน เรียน|Sinh viên đăng ký học.
+เข้าสู่ระบบ:khaosurabop|đăng nhập|ผม เข้าสู่ระบบ ไม่ ได้|Tôi không đăng nhập được.
+ออกจากระบบ:okchakrabop|đăng xuất|อย่า ลืม ออกจากระบบ|Đừng quên đăng xuất.
+หน้าจอสัมผัส:nachosamphat|màn hình cảm ứng|โทรศัพท์ นี้ มี หน้าจอสัมผัส|Điện thoại này có màn hình cảm ứng.
+หน่วยความจำ:nuaikhwamcham|bộ nhớ|หน่วยความจำ เต็ม แล้ว|Bộ nhớ đã đầy.
+ความเร็วอินเทอร์เน็ต:khwamreo-inthoenet|tốc độ mạng|ความเร็วอินเทอร์เน็ต ที่ นี่ ดี|Tốc độ mạng ở đây tốt.
+อัตโนมัติ:attanomat|tự động|ประตู นี้ เปิด อัตโนมัติ|Cửa này mở tự động.
+ดิจิทัล:dichithan|kỹ thuật số|เรา อยู่ ใน ยุค ดิจิทัล|Chúng ta sống trong thời đại số.
+นวัตกรรม:nawattakam|đổi mới sáng tạo|บริษัท นี้ เน้น นวัตกรรม|Công ty này chú trọng đổi mới sáng tạo.
+สตาร์ทอัพ:satat-ap|công ty khởi nghiệp|เขา เปิด สตาร์ทอัพ|Anh ấy mở công ty khởi nghiệp.
+แพลตฟอร์ม:phlaetfom|nền tảng (số)|แพลตฟอร์ม นี้ ใช้ ฟรี|Nền tảng này dùng miễn phí.
+ธุรกรรมออนไลน์:thurakam-onlai|giao dịch trực tuyến|ธุรกรรมออนไลน์ สะดวก มาก|Giao dịch trực tuyến rất tiện.
+ความเป็นส่วนตัว:khwampensuantua|quyền riêng tư|แอป นี้ เคารพ ความเป็นส่วนตัว|Ứng dụng này tôn trọng quyền riêng tư.

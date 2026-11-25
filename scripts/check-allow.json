@@ -23,12 +23,14 @@
  },
  "synonyms": {
   "ko": [],
-  "ja": []
+  "ja": [],
+  "th": []
  },
  "example": {
   "ko": [],
   "ja": [],
-  "en": []
+  "en": [],
+  "th": []
  },
  "en": [
   "May = may",
@@ -46,5 +48,6 @@
   "beside = besides",
   "tight = tights",
   "custom = customs"
- ]
+ ],
+ "thRoman": []
 }

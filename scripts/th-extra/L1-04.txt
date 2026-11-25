@@ -1,0 +1,124 @@
+=1
+@Mua sắm|Tiền bạc và mua bán
+เงิน:ngoen|tiền; bạc|ผม ไม่ มี เงิน|Tôi không có tiền.
+บาท:bat|baht (tiền Thái)|กาแฟ แก้ว นี้ ห้า สิบ บาท|Cốc cà phê này năm mươi baht.
+ราคา:rakha|giá cả|ราคา เท่าไร:thaorai ครับ|Giá bao nhiêu ạ?
+จ่าย:chai|trả tiền|ผม จ่าย เงิน แล้ว|Tôi trả tiền rồi.
+ลด:lot|giảm|ลด ราคา ได้ ไหม|Giảm giá được không?
+ทอน:thon|trả lại tiền thừa|แม่ค้า ทอน เงิน ให้ ฉัน|Cô bán hàng trả lại tiền thừa cho tôi.
+ของขวัญ:khongkhwan|quà tặng|ฉัน ซื้อ ของขวัญ ให้ แม่|Tôi mua quà tặng mẹ.
+ใช้:chai|dùng, sử dụng|ฉัน ใช้ มือถือ ทุก วัน|Tôi dùng điện thoại di động mỗi ngày.
+เลือก:lueak|chọn|คุณ เลือก สี อะไร|Bạn chọn màu gì?
+ลอง:long|thử|ขอ ลอง เสื้อ ตัว นี้ หน่อย|Cho tôi thử cái áo này.
+ขนาด:khanat|kích cỡ|มี ขนาด ใหญ่ กว่า นี้ ไหม|Có cỡ lớn hơn không?
+บัตร:bat|thẻ|จ่าย ด้วย บัตร ได้ ไหม|Trả bằng thẻ được không?
+เงินสด:ngoensot|tiền mặt|ร้าน นี้ รับ:rap เงินสด เท่านั้น|Cửa hàng này chỉ nhận tiền mặt.
+ใบเสร็จ:baiset|hóa đơn, biên lai|ขอ ใบเสร็จ ด้วย ครับ|Cho tôi xin hóa đơn.
+ฟรี:fri|miễn phí|น้ำ ที่ นี่ ฟรี|Nước ở đây miễn phí.
+ขายดี:khaidi|bán chạy|ขนม นี้ ขายดี มาก|Bánh này bán rất chạy.
+หมด:mot|hết|ข้าว หมด แล้ว|Hết cơm rồi.
+พอ:pho|đủ|เงิน ไม่ พอ|Tiền không đủ.
+เหรียญ:rian|đồng xu|ฉัน มี เหรียญ สิบ บาท|Tôi có đồng xu mười baht.
+ธนบัตร:thanabat|tờ tiền giấy|ธนบัตร ใบ นี้ ใหม่|Tờ tiền này mới.
+แลก:laek|đổi (tiền, đồ)|ผม อยาก แลก เงิน|Tôi muốn đổi tiền.
+ร้านสะดวกซื้อ:ransaduaksue|cửa hàng tiện lợi|ร้านสะดวกซื้อ เปิด ทุก วัน|Cửa hàng tiện lợi mở cửa mỗi ngày.
+ตะกร้า:takra|cái giỏ|ตะกร้า ใบ นี้ หนัก|Cái giỏ này nặng.
+ของฝาก:khongfak|quà lưu niệm (mua về tặng)|ฉัน ซื้อ ของฝาก จาก เชียงใหม่|Tôi mua quà từ Chiang Mai về.
+@Rau quả|Trái cây và rau củ
+กล้วย:kluai|quả chuối|ลิง กิน กล้วย|Con khỉ ăn chuối.
+มะม่วง:mamuang|quả xoài|มะม่วง ลูก นี้ หวาน|Quả xoài này ngọt.
+มะพร้าว:maphrao|quả dừa|มะพร้าว ลูก นี้ ใหญ่|Quả dừa này to.
+แตงโม:taengmo|dưa hấu|แตงโม เย็น อร่อย|Dưa hấu lạnh rất ngon.
+ทุเรียน:thurian|sầu riêng|ทุเรียน ไทย แพง|Sầu riêng Thái đắt.
+สับปะรด:sapparot|quả dứa|สับปะรด ลูก นี้ หวาน|Quả dứa này ngọt.
+มะละกอ:malako|đu đủ|ส้มตำ ทำ จาก มะละกอ|Gỏi som tam làm từ đu đủ.
+องุ่น:angun|quả nho|องุ่น นี้ สด|Nho này tươi.
+แอปเปิ้ล:aeppoen|quả táo|ฉัน กิน แอปเปิ้ล ทุก วัน|Tôi ăn táo mỗi ngày.
+มังคุด:mangkhut|măng cụt|มังคุด เป็น ผลไม้ ไทย|Măng cụt là hoa quả Thái.
+เงาะ:ngo|chôm chôm|เงาะ สี แดง|Chôm chôm màu đỏ.
+ฝรั่ง:farang|quả ổi; người phương Tây|ฝรั่ง ลูก นี้ สด|Quả ổi này tươi.
+มะนาว:manao|quả chanh|ใส่ มะนาว หน่อย|Cho thêm chút chanh.
+มะเขือเทศ:makhueathet|cà chua|มะเขือเทศ สี แดง|Cà chua màu đỏ.
+แตงกวา:taengkwa|dưa chuột|แตงกวา นี้ สด|Dưa chuột này tươi.
+หอม:hom|thơm; hành|ดอกไม้ นี้ หอม|Bông hoa này thơm.
+กระเทียม:krathiam|tỏi|แม่ ใส่ กระเทียม ใน อาหาร|Mẹ cho tỏi vào món ăn.
+ผักบุ้ง:phakbung|rau muống|ผัด:phat ผักบุ้ง อร่อย|Rau muống xào rất ngon.
+ถั่ว:thua|đậu, lạc|เขา ชอบ กิน ถั่ว|Anh ấy thích ăn đậu.
+ข้าวโพด:khaophot|ngô|ข้าวโพด นี้ หวาน|Ngô này ngọt.
+เห็ด:het|nấm|ฉัน ใส่ เห็ด ใน ต้มยำ|Tôi cho nấm vào tom yum.
+มัน:man|khoai|มัน ทอด อร่อย|Khoai rán rất ngon.
+ฟักทอง:fakthong|bí đỏ|ฟักทอง สี ส้ม|Bí đỏ màu cam.
+แครอท:khaerot|cà rốt|กระต่าย ชอบ แครอท|Con thỏ thích cà rốt.
+@Hương vị|Mùi vị và nấu nướng
+หวาน:wan|ngọt|ขนม นี้ หวาน มาก|Bánh này rất ngọt.
+เผ็ด:phet|cay|ต้มยำ เผ็ด มาก|Tom yum rất cay.
+เค็ม:khem|mặn|อาหาร นี้ เค็ม|Món này mặn.
+เปรี้ยว:priao|chua|มะนาว เปรี้ยว|Chanh chua.
+ขม:khom|đắng|กาแฟ นี้ ขม|Cà phê này đắng.
+จืด:chuet|nhạt|แกง:kaeng นี้ จืด|Món canh này nhạt.
+สด:sot|tươi|ปลา ตัว นี้ สด|Con cá này tươi.
+ทอด:thot|rán, chiên|แม่ ทอด ไข่|Mẹ rán trứng.
+ต้ม:tom|luộc, nấu (nước)|ฉัน ต้ม ไข่|Tôi luộc trứng.
+ผัด:phat|xào|พ่อครัว ผัด ผัก|Đầu bếp xào rau.
+ย่าง:yang|nướng (than)|เรา ย่าง หมู|Chúng tôi nướng thịt lợn.
+นึ่ง:nueng|hấp|ปลา นึ่ง อร่อย|Cá hấp rất ngon.
+หิว:hio|đói|ผม หิว ข้าว|Tôi đói bụng.
+อิ่ม:im|no|ฉัน อิ่ม แล้ว|Tôi no rồi.
+สั่ง:sang|gọi (món), ra lệnh|เรา สั่ง อาหาร แล้ว|Chúng tôi gọi món rồi.
+เมนู:menu|thực đơn|ขอ เมนู หน่อย ครับ|Cho tôi xin thực đơn.
+มื้อ:mue|bữa (ăn)|เรา กิน สาม มื้อ|Chúng tôi ăn ba bữa.
+อาหารเช้า:ahanchao|bữa sáng|อาหารเช้า ที่ โรงแรม อร่อย|Bữa sáng ở khách sạn ngon.
+อาหารเย็น:ahanyen|bữa tối|แม่ ทำ อาหารเย็น|Mẹ nấu bữa tối.
+กลิ่น:klin|mùi|กลิ่น นี้ หอม|Mùi này thơm.
+รส:rot|vị (hương vị)|รส นี้ อร่อย|Vị này ngon.
+สุก:suk|chín (đã nấu, quả chín)|มะม่วง สุก แล้ว|Xoài chín rồi.
+ดิบ:dip|sống, chưa chín|เนื้อ นี้ ยัง ดิบ|Thịt này vẫn còn sống.
+เช็คบิล:chekbin|tính tiền (ở quán)|เช็คบิล ด้วย ครับ|Tính tiền giúp tôi.
+@Sức khỏe|Ốm đau và chăm sóc cơ thể
+สุขภาพ:sukkhaphap|sức khỏe|สุขภาพ ของ ปู่ ดี|Sức khỏe của ông nội tốt.
+ป่วย:puai|ốm, bị bệnh|ลูก ป่วย|Con bị ốm.
+ปวด:puat|đau nhức|ฉัน ปวด ฟัน|Tôi đau răng.
+เจ็บ:chep|đau (do thương, viêm)|เขา เจ็บ มือ|Anh ấy đau tay.
+ไข้:khai|sốt|เด็ก มี ไข้|Đứa trẻ bị sốt.
+หวัด:wat|cảm cúm|ผม เป็น หวัด|Tôi bị cảm.
+ไอ:ai|ho|ปู่ ไอ มาก|Ông nội ho nhiều.
+ยา:ya|thuốc|กิน ยา หลัง อาหาร|Uống thuốc sau khi ăn.
+หาย:hai|khỏi bệnh; biến mất|ฉัน หาย ป่วย แล้ว|Tôi khỏi ốm rồi.
+เหนื่อย:nueai|mệt|วันนี้ ผม เหนื่อย มาก|Hôm nay tôi rất mệt.
+พักผ่อน:phakphon|nghỉ ngơi|คุณ ควร พักผ่อน|Bạn nên nghỉ ngơi.
+แข็งแรง:khaengraeng|khỏe mạnh|ตา ยัง แข็งแรง|Ông ngoại vẫn khỏe mạnh.
+อาบน้ำ:apnam|tắm|ฉัน อาบน้ำ ทุก เช้า|Tôi tắm mỗi sáng.
+ล้าง:lang|rửa|ล้าง จาน ด้วย นะ|Rửa bát nữa nhé.
+ออกกำลังกาย:okkamlangkai|tập thể dục|เขา ออกกำลังกาย ทุก เช้า|Anh ấy tập thể dục mỗi sáng.
+แผล:phlae|vết thương|แผล นี้ เล็ก|Vết thương này nhỏ.
+แพ้:phae|dị ứng; thua|ฉัน แพ้ กุ้ง|Tôi bị dị ứng tôm.
+อายุ:ayu|tuổi|คุณ อายุ เท่าไร|Bạn bao nhiêu tuổi?
+เกิด:koet|sinh ra|ผม เกิด ที่ เวียดนาม|Tôi sinh ra ở Việt Nam.
+ตาย:tai|chết|ปลา ตัว นี้ ตาย แล้ว|Con cá này chết rồi.
+น้ำหนัก:namnak|cân nặng|น้ำหนัก ของ ฉัน ลด|Cân nặng của tôi giảm.
+คลินิก:khlinik|phòng khám|คลินิก เปิด เก้า โมง|Phòng khám mở cửa lúc chín giờ.
+@Cảm xúc|Tâm trạng và tính cách
+ดีใจ:dichai|vui mừng (vì việc gì)|ฉัน ดีใจ ที่ ได้ พบ คุณ|Tôi vui vì được gặp bạn.
+เสียใจ:siachai|buồn, tiếc|ผม เสียใจ มาก|Tôi rất buồn.
+มีความสุข:mikhwamsuk|hạnh phúc|ครอบครัว นี้ มีความสุข|Gia đình này hạnh phúc.
+เศร้า:sao|buồn bã|หนัง เรื่อง นี้ เศร้า|Bộ phim này buồn.
+โกรธ:krot|tức giận|แม่ โกรธ ผม|Mẹ giận tôi.
+กลัว:klua|sợ|เด็ก กลัว หมา|Đứa trẻ sợ chó.
+ตกใจ:tokchai|giật mình, hoảng|ฉัน ตกใจ มาก|Tôi rất giật mình.
+เบื่อ:buea|chán|ผม เบื่อ งาน นี้|Tôi chán công việc này.
+ห่วง:huang|lo cho (ai)|แม่ ห่วง ลูก|Mẹ lo cho con.
+คิดถึง:khitthueng|nhớ (ai đó)|ฉัน คิดถึง บ้าน|Tôi nhớ nhà.
+ใจดี:chaidi|tốt bụng|ครู ของ เรา ใจดี|Giáo viên của chúng tôi tốt bụng.
+ใจร้อน:chairon|nóng tính|พ่อ เป็น คน ใจร้อน|Bố là người nóng tính.
+ใจเย็น:chaiyen|bình tĩnh, điềm đạm|ใจเย็น นะ|Bình tĩnh nhé.
+ขี้เกียจ:khikiat|lười|น้องชาย ขี้เกียจ มาก|Em trai rất lười.
+ขยัน:khayan|chăm chỉ|นักเรียน คน นี้ ขยัน|Học sinh này chăm chỉ.
+ฉลาด:chalat|thông minh|ลูกสาว ของ เขา ฉลาด|Con gái anh ấy thông minh.
+สุภาพ:suphap|lịch sự|คน ไทย สุภาพ|Người Thái lịch sự.
+ตลก:talok|buồn cười, hài hước|เขา เป็น คน ตลก|Anh ấy là người hài hước.
+อาย:ai|xấu hổ, ngại|เด็ก อาย คุณ ครู|Đứa trẻ ngại thầy giáo.
+ยิ้ม:yim|mỉm cười|เธอ ยิ้ม สวย|Cô ấy cười đẹp.
+หัวเราะ:huaro|cười to|เพื่อน หัวเราะ ดัง|Bạn bè cười to.
+ร้องไห้:ronghai|khóc|เด็ก ร้องไห้|Đứa trẻ khóc.
+เหงา:ngao|cô đơn|ยาย อยู่ คน เดียว:diao เหงา|Bà ngoại ở một mình thấy cô đơn.
+สบาย:sabai|thoải mái, dễ chịu|ห้อง นี้ สบาย|Phòng này thoải mái.

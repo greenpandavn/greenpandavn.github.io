@@ -6,6 +6,7 @@ export { certKey };
 import { sanitize } from './store';
 import { BUNDLED_UNITS, isBundledLesson, type RawLesson, type Unit } from '../data';
 import type { Progress } from '../types';
+import type { VipParts } from './vip';
 
 export interface AdminUser {
   uid: string;
@@ -198,3 +199,8 @@ export const deleteReport = (r: Report) => deleteDoc(doc(db, 'reports', r.id));
 // ---------- v5.2.8: "what's new" notice ----------
 export const saveAnnouncement = (a: { title: string; body: string; version: string }) =>
   setDoc(doc(db, 'site', 'announcement'), { title: a.title.trim().slice(0, 80), body: a.body.trim().slice(0, 1500), version: a.version.trim().replace(/^v/i, '').slice(0, 20), updatedAt: Date.now() });
+
+// ---------- v5.6.0: per-part VIP switches ----------
+/** `parts` holds only the parts switched away from the defaults of lib/vip.ts. */
+export const saveVipParts = (parts: VipParts, by: string) =>
+  setDoc(doc(db, 'config', 'vipParts'), { parts, updatedAt: Date.now(), updatedBy: by.slice(0, 120) });

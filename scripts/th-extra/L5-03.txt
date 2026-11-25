@@ -1,0 +1,66 @@
+=5
+@Vật lý|Lượng tử, quang học, cơ học
+กลศาสตร์:konlasat|cơ học|นักศึกษา เรียน กลศาสตร์|Sinh viên học cơ học.
+กลศาสตร์ควอนตัม:konlasatkhwontam|cơ học lượng tử|กลศาสตร์ควอนตัม เข้าใจ ยาก|Cơ học lượng tử khó hiểu.
+ทฤษฎีสัมพัทธภาพ:thritsadisamphatthaphap|thuyết tương đối|ไอน์สไตน์:aisatai คิด ทฤษฎีสัมพัทธภาพ|Einstein nghĩ ra thuyết tương đối.
+อนุภาค:anuphak|hạt (vật lý)|อะตอม มี อนุภาค เล็ก|Nguyên tử có các hạt nhỏ.
+โฟตอน:foton|phô tôn|แสง ประกอบ ด้วย โฟตอน|Ánh sáng gồm các phô tôn.
+มวล:muan|khối lượng|มวล ของ โลก มาก|Khối lượng Trái Đất lớn.
+ความเร่ง:khwamreng|gia tốc|รถ มี ความเร่ง สูง|Xe có gia tốc cao.
+ความเฉื่อย:khwamchueai|quán tính|วัตถุ ทุก ชิ้น มี ความเฉื่อย|Mọi vật đều có quán tính.
+โมเมนตัม:momentam|động lượng|ลูกบอล มี โมเมนตัม|Quả bóng có động lượng.
+พลังงานจลน์:phalangnganchon|động năng|รถ วิ่ง เร็ว มี พลังงานจลน์ มาก|Xe chạy nhanh có động năng lớn.
+พลังงานศักย์:phalangngansak|thế năng|น้ำ บน เขื่อน มี พลังงานศักย์|Nước trên đập có thế năng.
+แรงเหวี่ยง:raengwiang|lực ly tâm|เครื่องซักผ้า ใช้ แรงเหวี่ยง|Máy giặt dùng lực ly tâm.
+แรงลอยตัว:raengloitua|lực đẩy nổi|เรือ ลอย ได้ เพราะ แรงลอยตัว|Thuyền nổi được nhờ lực đẩy nổi.
+สุญญากาศ:sunyakat|chân không|ใน อวกาศ เป็น สุญญากาศ|Trong vũ trụ là chân không.
+การหักเหของแสง:kanhakhekhongsaeng|khúc xạ ánh sáng|รุ้ง เกิด จาก การหักเหของแสง|Cầu vồng sinh ra do khúc xạ ánh sáng.
+การสะท้อน:kansathon|sự phản xạ|กระจก ทำให้ เกิด การสะท้อน|Gương tạo ra sự phản xạ.
+ความยาวคลื่น:khwamyaokhluen|bước sóng|แสง สี แดง มี ความยาวคลื่น มาก|Ánh sáng đỏ có bước sóng dài.
+สเปกตรัม:sapektram|quang phổ|นักวิจัย ดู สเปกตรัม ของ ดาว|Nhà nghiên cứu xem quang phổ của sao.
+เลนส์นูน:lennun|thấu kính lồi|แว่นขยาย ใช้ เลนส์นูน|Kính lúp dùng thấu kính lồi.
+เลนส์เว้า:lenwao|thấu kính lõm|แว่น สายตาสั้น ใช้ เลนส์เว้า|Kính cận dùng thấu kính lõm.
+ปริซึม:prisuem|lăng kính|ปริซึม แยก แสง เป็น เจ็ด สี|Lăng kính tách ánh sáng thành bảy màu.
+สนามแม่เหล็ก:sanammaelek|từ trường|โลก มี สนามแม่เหล็ก|Trái Đất có từ trường.
+แม่เหล็กไฟฟ้า:maelekfaifa|nam châm điện|เครน ใช้ แม่เหล็กไฟฟ้า|Cần cẩu dùng nam châm điện.
+กัมมันตรังสี:kammantarangsi|phóng xạ|ยูเรเนียม เป็น ธาตุ กัมมันตรังสี|Urani là nguyên tố phóng xạ.
+ครึ่งชีวิต:khruengchiwit|chu kỳ bán rã|ธาตุ นี้ มี ครึ่งชีวิต ยาว|Nguyên tố này có chu kỳ bán rã dài.
+ปฏิกิริยาลูกโซ่:patikiriyalukso|phản ứng dây chuyền|ระเบิด เกิด จาก ปฏิกิริยาลูกโซ่|Vụ nổ sinh ra từ phản ứng dây chuyền.
+ฟิชชัน:fitchan|phân hạch|โรงไฟฟ้า ใช้ ฟิชชัน|Nhà máy điện dùng phân hạch.
+ฟิวชัน:fiochan|nhiệt hạch|ดวงอาทิตย์ ผลิต พลังงาน ด้วย ฟิวชัน|Mặt Trời tạo năng lượng bằng nhiệt hạch.
+อุณหพลศาสตร์:unhaphonlasat|nhiệt động lực học|วิศวกร เรียน อุณหพลศาสตร์|Kỹ sư học nhiệt động lực học.
+เอนโทรปี:enthropi|entropi|เอนโทรปี เพิ่ม ขึ้น เสมอ|Entropi luôn tăng lên.
+ตัวนำยิ่งยวด:tuanamyingyuat|chất siêu dẫn|นักวิจัย พัฒนา ตัวนำยิ่งยวด|Nhà nghiên cứu phát triển chất siêu dẫn.
+สสารมืด:sasanmuet|vật chất tối|จักรวาล มี สสารมืด มาก|Vũ trụ có nhiều vật chất tối.
+บิกแบง:bikbaeng|vụ nổ lớn (Big Bang)|จักรวาล เริ่ม จาก บิกแบง|Vũ trụ bắt đầu từ vụ nổ lớn.
+@Tài chính chứng khoán|Thị trường vốn
+ตลาดหลักทรัพย์:talatlaksap|sở giao dịch chứng khoán|บริษัท เข้า ตลาดหลักทรัพย์|Công ty lên sàn chứng khoán.
+หุ้นสามัญ:hunsaman|cổ phiếu phổ thông|ผม ถือ หุ้นสามัญ|Tôi nắm cổ phiếu phổ thông.
+หุ้นบุริมสิทธิ:hunburimmasit|cổ phiếu ưu đãi|บริษัท ออก หุ้นบุริมสิทธิ|Công ty phát hành cổ phiếu ưu đãi.
+หุ้นกู้:hunku|trái phiếu doanh nghiệp|บริษัท ขาย หุ้นกู้|Công ty bán trái phiếu doanh nghiệp.
+พันธบัตรรัฐบาล:phanthabatratthaban|trái phiếu chính phủ|แม่ ซื้อ พันธบัตรรัฐบาล|Mẹ mua trái phiếu chính phủ.
+ตราสารหนี้:trasanni|công cụ nợ|กองทุน นี้ ลงทุน ใน ตราสารหนี้|Quỹ này đầu tư vào công cụ nợ.
+ตราสารอนุพันธ์:trasan-anuphan|chứng khoán phái sinh|ตราสารอนุพันธ์ มี ความเสี่ยง สูง|Chứng khoán phái sinh có rủi ro cao.
+สัญญาซื้อขายล่วงหน้า:sanyasuekhailuangna|hợp đồng tương lai|เขา ซื้อ สัญญาซื้อขายล่วงหน้า ทองคำ|Anh ấy mua hợp đồng tương lai vàng.
+ออปชัน:opchan|quyền chọn|นักลงทุน ซื้อ ออปชัน|Nhà đầu tư mua quyền chọn.
+กองทุนรวม:kongthunruam|quỹ tương hỗ|ผม ลงทุน ใน กองทุนรวม|Tôi đầu tư vào quỹ tương hỗ.
+กองทุนสำรองเลี้ยงชีพ:kongthunsamrongliangchip|quỹ dự phòng hưu trí|บริษัท มี กองทุนสำรองเลี้ยงชีพ|Công ty có quỹ dự phòng hưu trí.
+ผู้ถือหุ้นรายใหญ่:phuthuehunraiyai|cổ đông lớn|เขา เป็น ผู้ถือหุ้นรายใหญ่|Ông ấy là cổ đông lớn.
+นักลงทุนรายย่อย:naklongthunraiyoi|nhà đầu tư nhỏ lẻ|นักลงทุนรายย่อย ขาย หุ้น|Nhà đầu tư nhỏ lẻ bán cổ phiếu.
+นายหน้าค้าหลักทรัพย์:nainakhalaksap|môi giới chứng khoán|เขา เป็น นายหน้าค้าหลักทรัพย์|Anh ấy là môi giới chứng khoán.
+ดัชนีหุ้น:datchanihun|chỉ số chứng khoán|ดัชนีหุ้น ตก วันนี้|Chỉ số chứng khoán giảm hôm nay.
+ตลาดกระทิง:talatkrathing|thị trường giá lên|ปี นี้ เป็น ตลาดกระทิง|Năm nay là thị trường giá lên.
+ตลาดหมี:talatmi|thị trường giá xuống|นักลงทุน กลัว ตลาดหมี|Nhà đầu tư sợ thị trường giá xuống.
+ขายชอร์ต:khaichot|bán khống|กองทุน ขายชอร์ต หุ้น|Quỹ bán khống cổ phiếu.
+ปั่นหุ้น:panhun|thao túng giá cổ phiếu|เขา ถูก จับ ข้อหา ปั่นหุ้น|Hắn bị bắt vì thao túng giá cổ phiếu.
+ใช้ข้อมูลภายใน:chaikhomunphainai|giao dịch nội gián|ผู้บริหาร ใช้ข้อมูลภายใน ซื้อ หุ้น|Lãnh đạo giao dịch nội gián mua cổ phiếu.
+เสนอขายหุ้นครั้งแรก:sanoekhaihunkhrangraek|phát hành cổ phiếu lần đầu (IPO)|บริษัท จะ เสนอขายหุ้นครั้งแรก|Công ty sẽ phát hành cổ phiếu lần đầu.
+เพิ่มทุน:phoemthun|tăng vốn|ธนาคาร ประกาศ เพิ่มทุน|Ngân hàng công bố tăng vốn.
+มูลค่าตลาด:munkhatalat|vốn hóa thị trường|มูลค่าตลาด ของ บริษัท สูง มาก|Vốn hóa thị trường của công ty rất cao.
+กระจายความเสี่ยง:krachaikhwamsiang|đa dạng hóa rủi ro|นักลงทุน ควร กระจายความเสี่ยง|Nhà đầu tư nên đa dạng hóa rủi ro.
+อันดับเครดิต:andapkhredit|xếp hạng tín nhiệm|อันดับเครดิต ของ ประเทศ ลด ลง|Xếp hạng tín nhiệm quốc gia giảm.
+ผิดนัดชำระหนี้:phitnatchamrani|vỡ nợ, không trả nợ đúng hạn|บริษัท ผิดนัดชำระหนี้|Công ty không trả nợ đúng hạn.
+นโยบายการเงิน:nayobaikanngoen|chính sách tiền tệ|ธนาคารกลาง เปลี่ยน นโยบายการเงิน|Ngân hàng trung ương thay đổi chính sách tiền tệ.
+นโยบายการคลัง:nayobaikankhlang|chính sách tài khóa|รัฐบาล ใช้ นโยบายการคลัง|Chính phủ dùng chính sách tài khóa.
+ทุนสำรองระหว่างประเทศ:thunsamrongrawangprathet|dự trữ ngoại hối|ไทย มี ทุนสำรองระหว่างประเทศ มาก|Thái Lan có dự trữ ngoại hối lớn.
+เงินฝืด:ngoenfuet|giảm phát|ญี่ปุ่น เคย มี ปัญหา เงินฝืด|Nhật Bản từng gặp vấn đề giảm phát.

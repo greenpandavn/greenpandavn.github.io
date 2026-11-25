@@ -46,6 +46,7 @@ import type { CourseId, Progress } from '../types';
 import { setSocialName, startSocial, stopSocial } from './social';
 import { startVisits } from './visits';
 import { setRemoteAnnouncement } from './announcement';
+import { setVipParts } from './vip';
 
 const MIGRATED_KEY = 'hoc-tieng-trung-migrated-uids';
 const CLIENT_ID = Math.random().toString(36).slice(2);
@@ -402,7 +403,7 @@ async function startSession(u: User) {
   applyRemote(progress);
   if (migrated) {
     markMigrated(u.uid);
-    if (guest) localStorage.setItem(CARRIED_KEY, JSON.stringify({ zh: guest.xp, en: guest.en?.xp ?? 0, ko: guest.ko?.xp ?? 0, ja: guest.ja?.xp ?? 0 }));
+    if (guest) localStorage.setItem(CARRIED_KEY, JSON.stringify({ zh: guest.xp, en: guest.en?.xp ?? 0, ko: guest.ko?.xp ?? 0, ja: guest.ja?.xp ?? 0, th: guest.th?.xp ?? 0 }));
   }
   void dropAnon(u.uid);
   setAccount({ migrated, user: { ...toUser(u), displayName: u.displayName || progress.settings.name || nameOf(u) } });
@@ -467,6 +468,7 @@ export function initCloud() {
   getRedirectResult(auth).catch((e) => console.warn('Redirect sign-in failed', e));
   void loadContent();
   void loadAnnouncement();
+  watchVipParts();
   startVisits();
   onAuthStateChanged(auth, (u) => {
     if (u?.isAnonymous) startAnon(u);
@@ -520,6 +522,15 @@ export async function loadAnnouncement() {
   } catch (e) {
     console.warn('Using bundled/cached announcement', (e as { code?: string }).code ?? e);
   }
+}
+
+/** Per-part VIP switches set in the admin screen (config/vipParts); the defaults of lib/vip.ts apply when it cannot be read. */
+function watchVipParts() {
+  onSnapshot(
+    doc(db, 'config', 'vipParts'),
+    (snap) => setVipParts(snap.exists() ? snap.data().parts : null),
+    (e) => console.warn('Using default/cached VIP parts', (e as { code?: string }).code ?? e),
+  );
 }
 
 // ---------- auth actions ----------

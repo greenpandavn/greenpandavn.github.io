@@ -1,0 +1,52 @@
+{
+ "units": [
+  {"unit":49,"level":4,"title":"Phần 9: Tổng hợp và hơn thế","desc":"Tổng hợp","color":"sky","course":"th"}
+ ],
+ "lessons": [
+  {"id":"th4x81","title":"Tổng hợp 12","desc":"Từ vựng tổng hợp của cấp này","icon":"เ","unit":49,"course":"th","order":3300,"words":[
+   {"id":"th4x81-เหยื่อออนไลน์","hanzi":"เหยื่อออนไลน์","pinyin":"yuea-onlai","vi":"nạn nhân trên mạng","ex":{"tokens":["เธอ","เป็น","เหยื่อออนไลน์"],"py":["thoe","pen","yuea-onlai"],"vi":"Cô ấy là nạn nhân trên mạng.","alts":[]}},
+   {"id":"th4x81-ปราบปราม","hanzi":"ปราบปราม","pinyin":"prappram","vi":"trấn áp","ex":{"tokens":["ตำรวจ","ปราบปราม","ยาเสพติด"],"py":["tamruat","prappram","yaseptit"],"vi":"Cảnh sát trấn áp ma túy.","alts":[]}},
+   {"id":"th4x81-รอยแผลเป็น","hanzi":"รอยแผลเป็น","pinyin":"roiphlaepen","vi":"sẹo","ex":{"tokens":["เขา","มี","รอยแผลเป็น","ที่","แขน"],"py":["khao","mi","roiphlaepen","thi","khaen"],"vi":"Anh ấy có sẹo ở tay.","alts":[]}},
+   {"id":"th4x81-ครีมกันแดด","hanzi":"ครีมกันแดด","pinyin":"khrimkandaet","vi":"kem chống nắng","ex":{"tokens":["ทา","ครีมกันแดด","ก่อน","ออก","บ้าน"],"py":["tha","khrimkandaet","kon","ok","ban"],"vi":"Bôi kem chống nắng trước khi ra khỏi nhà.","alts":[]}},
+   {"id":"th4x81-ครีมบำรุงผิว","hanzi":"ครีมบำรุงผิว","pinyin":"khrimbamrungphio","vi":"kem dưỡng da","ex":{"tokens":["แม่","ซื้อ","ครีมบำรุงผิว"],"py":["mae","sue","khrimbamrungphio"],"vi":"Mẹ mua kem dưỡng da.","alts":[]}},
+   {"id":"th4x81-รองพื้น","hanzi":"รองพื้น","pinyin":"rongphuen","vi":"kem nền","ex":{"tokens":["เธอ","ทา","รองพื้น"],"py":["thoe","tha","rongphuen"],"vi":"Cô ấy thoa kem nền.","alts":[]}},
+   {"id":"th4x81-แป้งฝุ่น","hanzi":"แป้งฝุ่น","pinyin":"paengfun","vi":"phấn phủ","ex":{"tokens":["ฉัน","ใช้","แป้งฝุ่น"],"py":["chan","chai","paengfun"],"vi":"Tôi dùng phấn phủ.","alts":[]}},
+   {"id":"th4x81-อายแชโดว์","hanzi":"อายแชโดว์","pinyin":"aichaedo","vi":"phấn mắt","ex":{"tokens":["อายแชโดว์","สี","นี้","สวย"],"py":["aichaedo","si","ni","suai"],"vi":"Màu phấn mắt này đẹp.","alts":[]}},
+   {"id":"th4x81-มาสคาร่า","hanzi":"มาสคาร่า","pinyin":"matkhara","vi":"chuốt mi (mascara)","ex":{"tokens":["เธอ","ปัด","มาสคาร่า"],"py":["thoe","pat","matkhara"],"vi":"Cô ấy chuốt mascara.","alts":[]}},
+   {"id":"th4x81-ดินสอเขียนคิ้ว","hanzi":"ดินสอเขียนคิ้ว","pinyin":"dinsokhiankhio","vi":"chì kẻ mày","ex":{"tokens":["ฉัน","ซื้อ","ดินสอเขียนคิ้ว"],"py":["chan","sue","dinsokhiankhio"],"vi":"Tôi mua chì kẻ mày.","alts":[]}},
+   {"id":"th4x81-น้ำยาล้างเล็บ","hanzi":"น้ำยาล้างเล็บ","pinyin":"namyalanglep","vi":"nước tẩy sơn móng","ex":{"tokens":["ขอ","น้ำยาล้างเล็บ","หน่อย"],"py":["kho","namyalanglep","noi"],"vi":"Cho xin nước tẩy sơn móng.","alts":[]}},
+   {"id":"th4x81-ต่อขนตา","hanzi":"ต่อขนตา","pinyin":"tokhonta","vi":"nối mi","ex":{"tokens":["เธอ","ไป","ต่อขนตา"],"py":["thoe","pai","tokhonta"],"vi":"Cô ấy đi nối mi.","alts":[]}},
+   {"id":"th4x81-ปาลูกโป่ง","hanzi":"ปาลูกโป่ง","pinyin":"palukpong","vi":"ném phi tiêu bóng bay","ex":{"tokens":["เด็ก","ปาลูกโป่ง","ที่","งานวัด"],"py":["dek","palukpong","thi","nganwat"],"vi":"Trẻ con ném bóng bay ở hội chùa.","alts":[]}}
+  ]},
+  {"id":"th4x82","title":"Tổng hợp 13","desc":"Từ vựng tổng hợp của cấp này","icon":"ส","unit":49,"course":"th","order":3310,"words":[
+   {"id":"th4x82-สักคิ้ว","hanzi":"สักคิ้ว","pinyin":"sakkhio","vi":"xăm lông mày","ex":{"tokens":["ป้า","ไป","สักคิ้ว"],"py":["pa","pai","sakkhio"],"vi":"Bác gái đi xăm lông mày.","alts":[]}},
+   {"id":"th4x82-ขวาน","hanzi":"ขวาน","pinyin":"khwan","vi":"cái rìu","ex":{"tokens":["ลุง","ใช้","ขวาน","ผ่า","ฟืน"],"py":["lung","chai","khwan","pha","fuen"],"vi":"Bác trai dùng rìu bổ củi.","alts":[]}},
+   {"id":"th4x82-มีดพร้า","hanzi":"มีดพร้า","pinyin":"mitphra","vi":"dao rựa","ex":{"tokens":["ชาวสวน","ถือ","มีดพร้า"],"py":["chaosuan","thue","mitphra"],"vi":"Người làm vườn cầm dao rựa.","alts":[]}},
+   {"id":"th4x82-บันไดพับ","hanzi":"บันไดพับ","pinyin":"bandaiphap","vi":"thang gấp","ex":{"tokens":["ช่าง","ขึ้น","บันไดพับ"],"py":["chang","khuen","bandaiphap"],"vi":"Thợ leo thang gấp.","alts":[]}},
+   {"id":"th4x82-รถเข็น","hanzi":"รถเข็น","pinyin":"rotkhen","vi":"xe đẩy","ex":{"tokens":["แม่","ใช้","รถเข็น","ใน","ห้าง"],"py":["mae","chai","rotkhen","nai","hang"],"vi":"Mẹ dùng xe đẩy trong trung tâm thương mại.","alts":[]}},
+   {"id":"th4x82-ถังดับเพลิง","hanzi":"ถังดับเพลิง","pinyin":"thangdapphloeng","vi":"bình chữa cháy","ex":{"tokens":["ทุก","ชั้น","มี","ถังดับเพลิง"],"py":["thuk","chan","mi","thangdapphloeng"],"vi":"Tầng nào cũng có bình chữa cháy.","alts":[]}},
+   {"id":"th4x82-สายยาง","hanzi":"สายยาง","pinyin":"saiyang","vi":"ống nước mềm","ex":{"tokens":["พ่อ","ใช้","สายยาง","รด","น้ำ","ต้นไม้"],"py":["pho","chai","saiyang","rot","nam","tonmai"],"vi":"Bố dùng ống nước tưới cây.","alts":[]}},
+   {"id":"th4x82-บัวรดน้ำ","hanzi":"บัวรดน้ำ","pinyin":"buarotnam","vi":"bình tưới cây","ex":{"tokens":["ยาย","ถือ","บัวรดน้ำ"],"py":["yai","thue","buarotnam"],"vi":"Bà ngoại cầm bình tưới.","alts":[]}},
+   {"id":"th4x82-ไม้กวาดทางมะพร้าว","hanzi":"ไม้กวาดทางมะพร้าว","pinyin":"maikwatthangmaphrao","vi":"chổi cọng dừa","ex":{"tokens":["ลุง","กวาด","ลาน","ด้วย","ไม้กวาดทางมะพร้าว"],"py":["lung","kwat","lan","duai","maikwatthangmaphrao"],"vi":"Bác trai quét sân bằng chổi cọng dừa.","alts":[]}},
+   {"id":"th4x82-ตัดต่อวิดีโอ","hanzi":"ตัดต่อวิดีโอ","pinyin":"tattowidio","vi":"dựng phim, cắt ghép video","ex":{"tokens":["เขา","รับ","งาน","ตัดต่อวิดีโอ"],"py":["khao","rap","ngan","tattowidio"],"vi":"Anh ấy nhận việc dựng video.","alts":[]}},
+   {"id":"th4x82-กองถ่าย","hanzi":"กองถ่าย","pinyin":"kongthai","vi":"đoàn làm phim","ex":{"tokens":["กองถ่าย","มา","ที่","หมู่บ้าน"],"py":["kongthai","ma","thi","muban"],"vi":"Đoàn làm phim đến làng.","alts":[]}},
+   {"id":"th4x82-ผู้กำกับภาพ","hanzi":"ผู้กำกับภาพ","pinyin":"phukamkapphap","vi":"đạo diễn hình ảnh","ex":{"tokens":["ผู้กำกับภาพ","เลือก","มุม","กล้อง"],"py":["phukamkapphap","lueak","mum","klong"],"vi":"Đạo diễn hình ảnh chọn góc máy.","alts":[]}},
+   {"id":"th4x82-ยิงเป้า","hanzi":"ยิงเป้า","pinyin":"yingpao","vi":"bắn bia (trò hội chợ)","ex":{"tokens":["พ่อ","ยิงเป้า","ได้","ตุ๊กตา"],"py":["pho","yingpao","dai","tukkata"],"vi":"Bố bắn bia được búp bê.","alts":[]}}
+  ]},
+  {"id":"th4x83","title":"Tổng hợp 14","desc":"Từ vựng tổng hợp của cấp này","icon":"บ","unit":49,"course":"th","order":3320,"words":[
+   {"id":"th4x83-บทภาพยนตร์","hanzi":"บทภาพยนตร์","pinyin":"botphapphayon","vi":"kịch bản phim","ex":{"tokens":["เขา","เขียน","บทภาพยนตร์"],"py":["khao","khian","botphapphayon"],"vi":"Anh ấy viết kịch bản phim.","alts":[]}},
+   {"id":"th4x83-นักแสดงสมทบ","hanzi":"นักแสดงสมทบ","pinyin":"naksadaengsomthop","vi":"diễn viên phụ","ex":{"tokens":["เธอ","เป็น","นักแสดงสมทบ"],"py":["thoe","pen","naksadaengsomthop"],"vi":"Cô ấy là diễn viên phụ.","alts":[]}},
+   {"id":"th4x83-ตัวประกอบ","hanzi":"ตัวประกอบ","pinyin":"tuaprakop","vi":"diễn viên quần chúng","ex":{"tokens":["ผม","เคย","เป็น","ตัวประกอบ"],"py":["phom","khoei","pen","tuaprakop"],"vi":"Tôi từng làm diễn viên quần chúng.","alts":[]}},
+   {"id":"th4x83-คำบรรยายใต้ภาพ","hanzi":"คำบรรยายใต้ภาพ","pinyin":"khambanyaitaiphap","vi":"phụ đề","ex":{"tokens":["หนัง","มี","คำบรรยายใต้ภาพ"],"py":["nang","mi","khambanyaitaiphap"],"vi":"Phim có phụ đề.","alts":[]}},
+   {"id":"th4x83-รอบปฐมทัศน์","hanzi":"รอบปฐมทัศน์","pinyin":"roppathommathat","vi":"buổi công chiếu đầu tiên","ex":{"tokens":["ดารา","มา","รอบปฐมทัศน์"],"py":["dara","ma","roppathommathat"],"vi":"Diễn viên đến buổi công chiếu.","alts":[]}},
+   {"id":"th4x83-เมืองอัจฉริยะ","hanzi":"เมืองอัจฉริยะ","pinyin":"mueang-atchariya","vi":"thành phố thông minh","ex":{"tokens":["ภูเก็ต","จะ","เป็น","เมืองอัจฉริยะ"],"py":["phuket","cha","pen","mueang-atchariya"],"vi":"Phuket sẽ là thành phố thông minh.","alts":[]}},
+   {"id":"th4x83-น้ำกร่อย","hanzi":"น้ำกร่อย","pinyin":"namkroi","vi":"nước lợ","ex":{"tokens":["ปลา","นี้","อยู่","ใน","น้ำกร่อย"],"py":["pla","ni","yu","nai","namkroi"],"vi":"Loài cá này sống ở nước lợ.","alts":[]}},
+   {"id":"th4x83-น้ำจืด","hanzi":"น้ำจืด","pinyin":"namchuet","vi":"nước ngọt","ex":{"tokens":["ปลาน้ำจืด","อยู่","ใน","น้ำจืด"],"py":["planamchuet","yu","nai","namchuet"],"vi":"Cá nước ngọt sống trong nước ngọt.","alts":[]}},
+   {"id":"th4x83-แนวปะการังเทียม","hanzi":"แนวปะการังเทียม","pinyin":"naeopakarangthiam","vi":"rạn san hô nhân tạo","ex":{"tokens":["รัฐบาล","สร้าง","แนวปะการังเทียม"],"py":["ratthaban","sang","naeopakarangthiam"],"vi":"Chính phủ xây rạn san hô nhân tạo.","alts":[]}},
+   {"id":"th4x83-ประมงพื้นบ้าน","hanzi":"ประมงพื้นบ้าน","pinyin":"pramongphuenban","vi":"nghề cá thủ công ven bờ","ex":{"tokens":["หมู่บ้าน","นี้","ทำ","ประมงพื้นบ้าน"],"py":["muban","ni","tham","pramongphuenban"],"vi":"Làng này làm nghề cá ven bờ.","alts":[]}},
+   {"id":"th4x83-ประมงเกินขนาด","hanzi":"ประมงเกินขนาด","pinyin":"pramongkoenkhanat","vi":"đánh bắt quá mức","ex":{"tokens":["ประมงเกินขนาด","ทำให้","ปลา","ลด","ลง"],"py":["pramongkoenkhanat","thamhai","pla","lot","long"],"vi":"Đánh bắt quá mức làm cá giảm đi.","alts":[]}},
+   {"id":"th4x83-บ้านผีสิง","hanzi":"บ้านผีสิง","pinyin":"banphising","vi":"nhà ma","ex":{"tokens":["เธอ","ไม่","กล้า","เข้า","บ้านผีสิง"],"py":["thoe","mai","kla","khao","banphising"],"vi":"Cô ấy không dám vào nhà ma.","alts":[]}},
+   {"id":"th4x83-งานกาชาด","hanzi":"งานกาชาด","pinyin":"ngankachat","vi":"hội chợ Chữ thập đỏ","ex":{"tokens":["เรา","ไป","เที่ยว","งานกาชาด"],"py":["rao","pai","thiao","ngankachat"],"vi":"Chúng tôi đi chơi hội chợ Chữ thập đỏ.","alts":[]}}
+  ]}
+ ]
+}

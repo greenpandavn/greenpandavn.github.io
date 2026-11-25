@@ -1,0 +1,74 @@
+=5
+@Chiêm tinh và lịch Thái|Con giáp, âm lịch
+โหราศาสตร์:horasat|chiêm tinh học|ยาย เชื่อ โหราศาสตร์|Bà ngoại tin chiêm tinh học.
+ปีนักษัตร:pinaksat|năm con giáp|ปีนักษัตร มี สิบสอง ปี|Con giáp có mười hai năm.
+ปีชวด:pichuat|năm Tý|ผม เกิด ปีชวด|Tôi sinh năm Tý.
+ปีฉลู:pichalu|năm Sửu|แม่ เกิด ปีฉลู|Mẹ sinh năm Sửu.
+ปีขาล:pikhan|năm Dần|ลูก เกิด ปีขาล|Con sinh năm Dần.
+ปีเถาะ:pitho|năm Mão|พ่อ เกิด ปีเถาะ|Bố sinh năm Mão.
+ปีมะโรง:pimarong|năm Thìn|น้อง เกิด ปีมะโรง|Em sinh năm Thìn.
+ปีมะเส็ง:pimaseng|năm Tỵ|พี่ เกิด ปีมะเส็ง|Anh sinh năm Tỵ.
+ปีมะเมีย:pimamia|năm Ngọ|ยาย เกิด ปีมะเมีย|Bà ngoại sinh năm Ngọ.
+ปีมะแม:pimamae|năm Mùi|ปู่ เกิด ปีมะแม|Ông nội sinh năm Mùi.
+ปีวอก:piwok|năm Thân|เธอ เกิด ปีวอก|Cô ấy sinh năm Thân.
+ปีระกา:piraka|năm Dậu|ลุง เกิด ปีระกา|Bác trai sinh năm Dậu.
+ปีจอ:picho|năm Tuất|ป้า เกิด ปีจอ|Bác gái sinh năm Tuất.
+ปีกุน:pikun|năm Hợi|หลาน เกิด ปีกุน|Cháu sinh năm Hợi.
+ราศี:rasi|cung hoàng đạo|คุณ เกิด ราศี อะไร|Bạn sinh cung hoàng đạo nào?
+ลัคนา:lakkhana|cung mọc (chiêm tinh)|หมอดู ถาม ลัคนา ของ ผม|Thầy bói hỏi cung mọc của tôi.
+ฤกษ์:roek|giờ lành|พ่อ แม่ หา ฤกษ์ แต่งงาน|Bố mẹ tìm giờ lành làm đám cưới.
+ฤกษ์ยาม:roekyam|ngày giờ tốt xấu|คน ไทย ดู ฤกษ์ยาม ก่อน ขึ้น บ้าน ใหม่|Người Thái xem ngày giờ trước khi vào nhà mới.
+ปีชง:pichong|năm xung tuổi|ปี นี้ เป็น ปีชง ของ ผม|Năm nay là năm xung tuổi của tôi.
+สะเดาะเคราะห์:sadokhro|giải hạn|ป้า ไป วัด เพื่อ สะเดาะเคราะห์|Bác gái đi chùa để giải hạn.
+ดวงชะตา:duangchata|lá số, vận mệnh|หมอดู ดู ดวงชะตา ให้ เธอ|Thầy bói xem lá số cho cô ấy.
+เคราะห์ร้าย:khrorai|vận xui|ปี นี้ เขา มี เคราะห์ร้าย|Năm nay anh ấy gặp vận xui.
+ไพ่ยิปซี:phaiyipsi|bài tarot|เพื่อน ดู ดวง ด้วย ไพ่ยิปซี|Bạn xem bói bằng bài tarot.
+ลายมือ:laimue|chỉ tay; chữ viết tay|หมอดู ดู ลายมือ ของ ผม|Thầy bói xem chỉ tay của tôi.
+ฮวงจุ้ย:huangchui|phong thủy|เขา จัด บ้าน ตาม ฮวงจุ้ย|Anh ấy bài trí nhà theo phong thủy.
+ปฏิทินจันทรคติ:patithinchanthrakhati|âm lịch|วัน พระ ใช้ ปฏิทินจันทรคติ|Ngày lễ Phật dùng âm lịch.
+ปฏิทินสุริยคติ:patithinsuriyakhati|dương lịch|ไทย ใช้ ปฏิทินสุริยคติ|Thái Lan dùng dương lịch.
+พุทธศักราช:phutthasakkarat|Phật lịch|ไทย ใช้ พุทธศักราช|Thái Lan dùng Phật lịch.
+คริสต์ศักราช:khritsakkarat|Công nguyên|ฝรั่ง ใช้ คริสต์ศักราช|Người phương Tây dùng Công nguyên.
+ข้างขึ้น:khangkhuen|tuần trăng tròn dần|วัน นี้ เป็น ข้างขึ้น แปด ค่ำ|Hôm nay là mồng tám trăng lên.
+ข้างแรม:khangraem|tuần trăng khuyết dần|ข้างแรม พระจันทร์ เล็ก ลง|Tuần trăng khuyết, trăng nhỏ dần.
+วันเพ็ญ:wanphen|ngày rằm|ลอยกระทง ตรง กับ วันเพ็ญ|Lễ thả đèn hoa đăng rơi vào ngày rằm.
+เดือนอ้าย:duean-ai|tháng giêng âm lịch|เดือนอ้าย อากาศ หนาว|Tháng giêng âm lịch trời lạnh.
+เดือนยี่:dueanyi|tháng hai âm lịch|ล้านนา ลอยกระทง ใน เดือนยี่|Lanna thả đèn vào tháng hai âm lịch.
+อธิกมาส:athikamat|tháng nhuận âm lịch|ปี นี้ มี อธิกมาส|Năm nay có tháng nhuận.
+อธิกสุรทิน:athikasurathin|ngày nhuận (29 tháng 2)|ปี นี้ มี อธิกสุรทิน|Năm nay có ngày nhuận.
+@Y học cổ truyền|Thuốc nam, xoa bóp
+แพทย์แผนไทย:phaetphaenthai|y học cổ truyền Thái|เธอ เรียน แพทย์แผนไทย|Cô ấy học y học cổ truyền Thái.
+แพทย์แผนจีน:phaetphaenchin|y học cổ truyền Trung Hoa|ปู่ รักษา กับ แพทย์แผนจีน|Ông nội chữa bằng y học Trung Hoa.
+หมอพื้นบ้าน:mophuenban|thầy lang|หมอพื้นบ้าน ใช้ สมุนไพร|Thầy lang dùng thảo dược.
+ยาหม้อ:yamo|thuốc sắc|ยาย ต้ม ยาหม้อ|Bà ngoại sắc thuốc.
+ยาลูกกลอน:yalukklon|thuốc viên hoàn|ปู่ กิน ยาลูกกลอน ทุก เช้า|Ông nội uống thuốc viên hoàn mỗi sáng.
+ยาดม:yadom|ống hít thảo dược|คน ไทย พก ยาดม|Người Thái mang theo ống hít.
+ยาหม่อง:yamong|dầu cù là|แม่ ทา ยาหม่อง ที่ คอ|Mẹ bôi dầu cù là ở cổ.
+ยาหอม:yahom|thuốc bột thơm trị chóng mặt|ยาย กิน ยาหอม แก้ ลม|Bà ngoại uống thuốc bột thơm trị gió.
+ลูกประคบ:lukprakhop|túi chườm thảo dược|หมอ ใช้ ลูกประคบ ร้อน|Thầy thuốc dùng túi chườm nóng.
+อบสมุนไพร:opsamunphrai|xông hơi thảo dược|ป้า ไป อบสมุนไพร|Bác gái đi xông hơi thảo dược.
+นวดแผนไทย:nuatphaenthai|mát xa Thái|นักท่องเที่ยว ชอบ นวดแผนไทย|Du khách thích mát xa Thái.
+นวดกดจุด:nuatkotchut|bấm huyệt|พ่อ ไป นวดกดจุด เท้า|Bố đi bấm huyệt chân.
+ฝังเข็ม:fangkhem|châm cứu|หมอ จีน ฝังเข็ม ให้ ผม|Thầy thuốc Trung Hoa châm cứu cho tôi.
+ครอบแก้ว:khropkaeo|giác hơi|เขา ไป ครอบแก้ว ที่ หลัง|Anh ấy đi giác hơi ở lưng.
+กัวซา:kuasa|cạo gió|ยาย ทำ กัวซา ให้ หลาน|Bà ngoại cạo gió cho cháu.
+เส้นประธานสิบ:senprathansip|mười đường kinh lạc (y học Thái)|หมอ นวด เรียน เส้นประธานสิบ|Thợ mát xa học mười đường kinh lạc.
+ธาตุเจ้าเรือน:thatchaoruean|thể tạng theo ngũ hành Thái|หมอ ถาม ธาตุเจ้าเรือน ของ ฉัน|Thầy thuốc hỏi thể tạng của tôi.
+ฟ้าทะลายโจร:fathalaichon|xuyên tâm liên|เขา กิน ฟ้าทะลายโจร แก้ หวัด|Anh ấy uống xuyên tâm liên chữa cảm.
+ขมิ้นชัน:khaminchan|nghệ vàng|ขมิ้นชัน ช่วย เรื่อง ท้อง|Nghệ vàng tốt cho bụng.
+กระชายขาว:krachaikhao|ngải bún (bồng nga truật)|ยาย ปลูก กระชายขาว|Bà ngoại trồng ngải bún.
+ไพล:phlai|gừng tía (thuốc xoa bóp)|น้ำมัน ไพล แก้ ปวด|Dầu gừng tía giảm đau.
+มะขามป้อม:makhampom|quả me rừng (chùm ruột núi)|มะขามป้อม มี วิตามิน ซี|Me rừng có vitamin C.
+บอระเพ็ด:boraphet|dây thần thông (dây ký ninh)|บอระเพ็ด ขม มาก|Dây thần thông rất đắng.
+ใบบัวบก:baibuabok|rau má|ผม ดื่ม น้ำ ใบบัวบก|Tôi uống nước rau má.
+กระเจี๊ยบแดง:krachiapdaeng|đài hoa atiso đỏ (bụp giấm)|แม่ ต้ม น้ำ กระเจี๊ยบแดง|Mẹ nấu nước bụp giấm.
+มะรุม:marum|cây chùm ngây|ยาย แกง ฝัก มะรุม|Bà ngoại nấu canh quả chùm ngây.
+หญ้าหนวดแมว:yanuatmaeo|râu mèo (thảo dược)|ลุง ดื่ม ชา หญ้าหนวดแมว|Bác trai uống trà râu mèo.
+รางจืด:rangchuet|dây cát đằng (giải độc)|รางจืด ใช้ แก้ พิษ|Dây cát đằng dùng giải độc.
+เถาวัลย์เปรียง:thaowanpriang|dây cóc kèn (trị đau khớp)|ปู่ กิน เถาวัลย์เปรียง แก้ ปวด|Ông nội uống dây cóc kèn trị đau.
+สรรพคุณ:sapphakhun|công dụng (dược tính)|สมุนไพร นี้ มี สรรพคุณ มาก|Thảo dược này có nhiều công dụng.
+ตำรับยา:tamrapya|bài thuốc|นี่ เป็น ตำรับยา โบราณ|Đây là bài thuốc cổ.
+เภสัชกรรมไทย:phesatchakamthai|dược học cổ truyền Thái|นักศึกษา เรียน เภสัชกรรมไทย|Sinh viên học dược cổ truyền Thái.
+ผดุงครรภ์:phadungkhan|đỡ đẻ (bà mụ)|ยาย เคย เป็น หมอ ผดุงครรภ์|Bà ngoại từng là bà đỡ.
+อยู่ไฟ:yufai|nằm than sau sinh|แม่ อยู่ไฟ หลัง คลอด|Mẹ nằm than sau khi sinh.
+แก้ลม:kaelom|trị trúng gió|ยา นี้ ใช้ แก้ลม|Thuốc này dùng trị trúng gió.

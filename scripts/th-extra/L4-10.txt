@@ -1,0 +1,55 @@
+=4
+@Luật hình sự và dân sự|Thuật ngữ tố tụng
+ประมวลกฎหมายอาญา:pramuankotmai-aya|bộ luật hình sự|ทนาย อ่าน ประมวลกฎหมายอาญา|Luật sư đọc bộ luật hình sự.
+ประมวลกฎหมายแพ่ง:pramuankotmaiphaeng|bộ luật dân sự|นักศึกษา เรียน ประมวลกฎหมายแพ่ง|Sinh viên học bộ luật dân sự.
+คดีอาญา:khadi-aya|vụ án hình sự|นี่ เป็น คดีอาญา|Đây là vụ án hình sự.
+คดีแพ่ง:khadiphaeng|vụ án dân sự|เขา ฟ้อง คดีแพ่ง|Anh ấy khởi kiện dân sự.
+ผู้เสียหาย:phusiahai|người bị hại|ผู้เสียหาย แจ้ง ตำรวจ|Người bị hại báo cảnh sát.
+พยานหลักฐาน:phayanlakthan|chứng cứ|ตำรวจ หา พยานหลักฐาน|Cảnh sát tìm chứng cứ.
+คำให้การ:khamhaikan|lời khai|พยาน ให้ คำให้การ|Nhân chứng đưa lời khai.
+หมายจับ:maichap|lệnh bắt|ศาล ออก หมายจับ|Tòa ra lệnh bắt.
+หมายค้น:maikhon|lệnh khám xét|ตำรวจ มี หมายค้น|Cảnh sát có lệnh khám xét.
+หมายเรียก:mairiak|giấy triệu tập|เขา ได้ หมายเรียก จาก ศาล|Anh ấy nhận giấy triệu tập của tòa.
+ฝากขัง:fakkhang|tạm giam|ตำรวจ ฝากขัง ผู้ต้องหา|Cảnh sát tạm giam nghi phạm.
+สำนวนคดี:samnuankhadi|hồ sơ vụ án|อัยการ อ่าน สำนวนคดี|Công tố viên đọc hồ sơ vụ án.
+สั่งฟ้อง:sangfong|quyết định truy tố|อัยการ สั่งฟ้อง ผู้ต้องหา|Công tố viên quyết định truy tố nghi phạm.
+พิพากษา:phiphaksa|tuyên án|ศาล พิพากษา จำคุก ห้า ปี|Tòa tuyên án năm năm tù.
+ยกฟ้อง:yokfong|bác đơn kiện|ศาล ยกฟ้อง คดี นี้|Tòa bác vụ kiện này.
+รอลงอาญา:rolong-aya|án treo|ศาล ให้ รอลงอาญา สอง ปี|Tòa cho hưởng án treo hai năm.
+จำคุกตลอดชีวิต:chamkhuktalotchiwit|tù chung thân|เขา ถูก จำคุกตลอดชีวิต|Hắn bị tù chung thân.
+ทัณฑ์บน:thanbon|quản chế, tha có điều kiện|เขา ออก มา แบบ ทัณฑ์บน|Anh ta được tha có điều kiện.
+อภัยโทษ:aphaiyathot|ân xá|นักโทษ ได้ อภัยโทษ|Tù nhân được ân xá.
+ศาลชั้นต้น:sanchanton|tòa sơ thẩm|ศาลชั้นต้น ตัดสิน แล้ว|Tòa sơ thẩm đã xét xử.
+ศาลอุทธรณ์:san-utthon|tòa phúc thẩm|คดี ไป ถึง ศาลอุทธรณ์|Vụ án lên đến tòa phúc thẩm.
+ศาลรัฐธรรมนูญ:sanratthathammanun|tòa án hiến pháp|ศาลรัฐธรรมนูญ รับ เรื่อง|Tòa hiến pháp thụ lý vụ việc.
+ศาลปกครอง:sanpokkhrong|tòa hành chính|ชาวบ้าน ฟ้อง ศาลปกครอง|Dân làng kiện ra tòa hành chính.
+นิติกรรม:nitikam|giao dịch pháp lý|เด็ก ทำ นิติกรรม ไม่ ได้|Trẻ em không thực hiện giao dịch pháp lý được.
+ผู้จัดการมรดก:phuchatkanmoradok|người quản lý di sản|ศาล ตั้ง ผู้จัดการมรดก|Tòa chỉ định người quản lý di sản.
+ค้ำประกัน:khamprakan|bảo lãnh (nợ)|พ่อ ค้ำประกัน เงินกู้ ให้ ลูก|Bố bảo lãnh khoản vay cho con.
+หมิ่นประมาท:minpramat|phỉ báng, vu khống|เขา ถูก ฟ้อง หมิ่นประมาท|Anh ta bị kiện phỉ báng.
+@Ngôn ngữ học và tu từ|Tiếng nói, cách diễn đạt
+สัทศาสตร์:satthasat|ngữ âm học|สัทศาสตร์ ศึกษา เสียง|Ngữ âm học nghiên cứu âm thanh.
+วากยสัมพันธ์:wakkayasamphan|cú pháp|นักศึกษา เรียน วากยสัมพันธ์|Sinh viên học cú pháp.
+อรรถศาสตร์:atthasat|ngữ nghĩa học|อรรถศาสตร์ ศึกษา ความหมาย|Ngữ nghĩa học nghiên cứu ý nghĩa.
+หน่วยเสียง:nuaisiang|âm vị|ภาษา ไทย มี หน่วยเสียง มาก|Tiếng Thái có nhiều âm vị.
+พยัญชนะต้น:phayanchanaton|phụ âm đầu|คำ นี้ มี พยัญชนะต้น สอง ตัว|Từ này có hai phụ âm đầu.
+ตัวสะกด:tuasakot|phụ âm cuối|คำ นี้ ไม่ มี ตัวสะกด|Từ này không có phụ âm cuối.
+อักษรสูง:aksonsung|phụ âm cao|ข เป็น อักษรสูง|Kho khai là phụ âm cao.
+อักษรกลาง:aksonklang|phụ âm trung|ก เป็น อักษรกลาง|Ko kai là phụ âm trung.
+อักษรต่ำ:aksontam|phụ âm thấp|ค เป็น อักษรต่ำ|Kho khwai là phụ âm thấp.
+คำเป็น:khampen|âm tiết sống|นักเรียน หา คำเป็น|Học sinh tìm âm tiết sống.
+คำตาย:khamtai|âm tiết chết|ครู สอน เรื่อง คำตาย|Giáo viên dạy về âm tiết chết.
+คำควบกล้ำ:khamkhuapklam|từ có phụ âm kép|เด็ก ออกเสียง คำควบกล้ำ ไม่ ชัด|Trẻ phát âm từ có phụ âm kép không rõ.
+คำซ้อน:khamson|từ ghép đẳng lập|นี่ เป็น คำซ้อน|Đây là từ ghép đẳng lập.
+คำซ้ำ:khamsam|từ láy lặp|ภาษา ไทย ใช้ คำซ้ำ บ่อย|Tiếng Thái hay dùng từ lặp.
+คำประสม:khamprasom|từ ghép chính phụ|น้ำแข็ง เป็น คำประสม|Nước đá là từ ghép.
+ภาษามาตรฐาน:phasamattrathan|ngôn ngữ chuẩn|ข่าว ใช้ ภาษามาตรฐาน|Bản tin dùng ngôn ngữ chuẩn.
+ระดับภาษา:radapphasa|cấp độ ngôn ngữ (phong cách)|ภาษา ไทย มี หลาย ระดับภาษา|Tiếng Thái có nhiều cấp độ ngôn ngữ.
+อุปลักษณ์:uppalak|phép ẩn dụ|ประโยค นี้ เป็น อุปลักษณ์|Câu này là ẩn dụ.
+บุคลาธิษฐาน:bukkhalathitthan|phép nhân hóa|กลอน นี้ ใช้ บุคลาธิษฐาน|Bài thơ này dùng phép nhân hóa.
+อติพจน์:atiphot|phép nói quá|เขา พูด แบบ อติพจน์|Anh ấy nói kiểu nói quá.
+ประชดประชัน:prachotprachan|mỉa mai, châm biếm|เธอ พูด ประชดประชัน|Cô ấy nói mỉa mai.
+เสียดสี:siatsi|châm chọc, trào phúng|การ์ตูน นี้ เสียดสี การเมือง|Tranh biếm họa này châm chọc chính trị.
+คำคม:khamkhom|châm ngôn, câu nói hay|ผม ชอบ อ่าน คำคม|Tôi thích đọc châm ngôn.
+วาทศิลป์:wathasin|thuật hùng biện|นักการเมือง มี วาทศิลป์|Chính trị gia có tài hùng biện.
+โวหาร:wohan|lối văn, biện pháp tu từ|นักเขียน ใช้ โวหาร สวย|Nhà văn dùng lối văn đẹp.

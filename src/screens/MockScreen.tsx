@@ -18,7 +18,7 @@ import {
 } from "../lib/mock";
 import { recordMock, useProgress } from "../lib/store";
 import { getCourse, levelUnits } from "../data";
-import { needsVip, useVip } from "../lib/vip";
+import { levelHasVip, useVip, useVipParts } from "../lib/vip";
 import { firebaseConfigured } from "../lib/firebaseConfig";
 import VipGate from "../components/VipGate";
 import DataGate from "../components/DataGate";
@@ -68,6 +68,7 @@ export default function MockScreen({
   >(null);
   const course = getCourse();
   const vip = useVip();
+  useVipParts();
   const [vipGate, setVipGate] = useState(false);
   const openPaper = (m: PaperMeta, src?: string) => {
     setLoading(m.id);
@@ -192,7 +193,7 @@ export default function MockScreen({
       <div className="flex flex-col gap-3">
         {mockSpecs(course).map((s) => {
           const r = p.mock?.[s.id];
-          const locked = firebaseConfigured && !vip && needsVip(s.course, s.level);
+          const locked = firebaseConfigured && !vip && levelHasVip(s.course, s.level);
           return (
             <div key={s.id} className="card" data-testid={`mock-level-${s.id}`}>
               <div className="flex items-center justify-between gap-2">

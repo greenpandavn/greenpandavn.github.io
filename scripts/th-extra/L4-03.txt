@@ -1,0 +1,63 @@
+=4
+@Dược và điều trị|Thuốc men, thủ thuật
+เภสัชวิทยา:phesatchawitthaya|dược lý học|เธอ เรียน เภสัชวิทยา|Cô ấy học dược lý.
+ยาแก้อักเสบ:yakae-aksep|thuốc chống viêm|ผม กิน ยาแก้อักเสบ|Tôi uống thuốc chống viêm.
+ยาระงับปวด:yarangappuat|thuốc giảm đau (y khoa)|พยาบาล ให้ ยาระงับปวด|Y tá cho thuốc giảm đau.
+ยานอนหลับ:yanonlap|thuốc ngủ|เขา กิน ยานอนหลับ ทุก คืน|Anh ấy uống thuốc ngủ mỗi đêm.
+ยาระบาย:yarabai|thuốc nhuận tràng|ยาย กิน ยาระบาย|Bà ngoại uống thuốc nhuận tràng.
+ยาลดกรด:yalotkrot|thuốc kháng a xít|ผม ซื้อ ยาลดกรด|Tôi mua thuốc kháng a xít.
+ยาลดไข้:yalotkhai|thuốc hạ sốt|แม่ ให้ ลูก กิน ยาลดไข้|Mẹ cho con uống thuốc hạ sốt.
+ยาแก้แพ้:yakaephae|thuốc chống dị ứng|ฉัน กิน ยาแก้แพ้|Tôi uống thuốc chống dị ứng.
+ยาคุมกำเนิด:yakhumkamnoet|thuốc tránh thai|เธอ กิน ยาคุมกำเนิด|Cô ấy uống thuốc tránh thai.
+ยาหยอดตา:yayotta|thuốc nhỏ mắt|ผม ใช้ ยาหยอดตา|Tôi dùng thuốc nhỏ mắt.
+ยาทา:yatha|thuốc bôi|หมอ ให้ ยาทา|Bác sĩ cho thuốc bôi.
+ยาเม็ด:yamet|thuốc viên|เด็ก กิน ยาเม็ด ไม่ ได้|Trẻ con không uống được thuốc viên.
+ยาน้ำ:yanam|thuốc nước|ลูก กิน ยาน้ำ|Con uống thuốc nước.
+แคปซูล:khaepsun|viên nang|ยา นี้ เป็น แคปซูล|Thuốc này dạng viên nang.
+ขนาดยา:khanatya|liều lượng thuốc|หมอ เพิ่ม ขนาดยา|Bác sĩ tăng liều thuốc.
+ดื้อยา:dueya|kháng thuốc|เชื้อโรค ดื้อยา|Vi khuẩn kháng thuốc.
+แพ้ยา:phaeya|dị ứng thuốc|ผม แพ้ยา ตัว นี้|Tôi dị ứng thuốc này.
+ให้น้ำเกลือ:hainamkluea|truyền dịch|พยาบาล ให้น้ำเกลือ ผู้ป่วย|Y tá truyền dịch cho bệnh nhân.
+ถ่ายเลือด:thailueat|truyền máu|ผู้ป่วย ต้อง ถ่ายเลือด|Bệnh nhân phải truyền máu.
+ฟอกไต:foktai|chạy thận|ลุง ฟอกไต ทุก สัปดาห์|Bác trai chạy thận hằng tuần.
+ฉายรังสี:chairangsi|xạ trị|ผู้ป่วย มะเร็ง ฉายรังสี|Bệnh nhân ung thư xạ trị.
+เคมีบำบัด:khemibambat|hóa trị|เธอ รับ เคมีบำบัด|Cô ấy điều trị hóa trị.
+ปลูกถ่ายอวัยวะ:plukthai-awaiyawa|ghép tạng|โรงพยาบาล นี้ ปลูกถ่ายอวัยวะ ได้|Bệnh viện này ghép tạng được.
+ส่องกล้อง:songklong|nội soi|หมอ ส่องกล้อง กระเพาะ|Bác sĩ nội soi dạ dày.
+เอกซเรย์:eksare|chụp X quang|ผม ไป เอกซเรย์ ปอด|Tôi đi chụp X quang phổi.
+อัลตราซาวนด์:antrasao|siêu âm|เธอ ทำ อัลตราซาวนด์|Cô ấy đi siêu âm.
+ตรวจชิ้นเนื้อ:truatchinnuea|sinh thiết|หมอ ตรวจชิ้นเนื้อ|Bác sĩ làm sinh thiết.
+เย็บแผล:yepphlae|khâu vết thương|หมอ เย็บแผล ให้ เด็ก|Bác sĩ khâu vết thương cho đứa trẻ.
+เข้าเฝือก:khaofueak|bó bột|เขา เข้าเฝือก ที่ ขา|Anh ấy bó bột ở chân.
+ห้องไอซียู:hong-aisiyu|phòng hồi sức tích cực|ผู้ป่วย อยู่ ใน ห้องไอซียู|Bệnh nhân nằm trong phòng hồi sức tích cực.
+@Cơ khí và kỹ thuật|Máy móc, chi tiết
+วิศวกรรมเครื่องกล:witsawakamkhrueangkon|kỹ thuật cơ khí|เขา เรียน วิศวกรรมเครื่องกล|Anh ấy học kỹ thuật cơ khí.
+ลูกสูบ:luksup|pít tông|ช่าง เปลี่ยน ลูกสูบ|Thợ thay pít tông.
+เพลา:phlao|trục (máy)|เพลา รถ หัก|Trục xe bị gãy.
+เฟือง:fueang|bánh răng|เฟือง นี้ สึก:suek|Bánh răng này bị mòn.
+สายพาน:saiphan|dây cu roa, băng chuyền|ช่าง เปลี่ยน สายพาน|Thợ thay dây cu roa.
+ลูกปืน:lukpuen|vòng bi; viên đạn|ลูกปืน ล้อ เสีย|Vòng bi bánh xe hỏng.
+สปริง:saprin|lò xo|สปริง นี้ แข็ง|Lò xo này cứng.
+น็อต:not|đai ốc, bu lông|ช่าง ขัน น็อต|Thợ vặn đai ốc.
+สกรู:sakru|đinh vít|เขา ใช้ สกรู ยึด ไม้|Anh ấy dùng vít cố định gỗ.
+ปะเก็น:paken|gioăng đệm|ปะเก็น รั่ว|Gioăng bị rò.
+วาล์ว:wao|van|ช่าง ปิด วาล์ว น้ำ|Thợ khóa van nước.
+ปั๊ม:pam|máy bơm|ปั๊ม น้ำ เสีย|Máy bơm nước hỏng.
+คอมเพรสเซอร์:khomphretsoe|máy nén|คอมเพรสเซอร์ แอร์ เสีย|Máy nén điều hòa hỏng.
+หม้อน้ำ:monam|két nước|หม้อน้ำ รถ ร้อน|Két nước xe bị nóng.
+ท่อไอเสีย:tho-aisia|ống xả|ท่อไอเสีย มี ควัน ดำ|Ống xả có khói đen.
+หัวเทียน:huathian|bugi|ช่าง เปลี่ยน หัวเทียน|Thợ thay bugi.
+คลัตช์:khlat|bộ ly hợp|คลัตช์ รถ แข็ง|Ly hợp xe bị cứng.
+เกียร์:kia|hộp số|รถ นี้ เป็น เกียร์ อัตโนมัติ|Xe này là số tự động.
+โช้คอัพ:chok-ap|giảm xóc|โช้คอัพ รถ เสีย|Giảm xóc xe hỏng.
+แชสซี:chaetsi|khung gầm|แชสซี รถ นี้ แข็งแรง|Khung gầm xe này chắc.
+แรงม้า:raengma|mã lực|เครื่องยนต์ นี้ มี สอง ร้อย แรงม้า|Động cơ này có hai trăm mã lực.
+แรงบิด:raengbit|mô men xoắn|แรงบิด ของ รถ นี้ สูง|Mô men xoắn của xe này cao.
+หล่อลื่น:lolluen|bôi trơn|น้ำมัน หล่อลื่น เครื่องยนต์|Dầu bôi trơn động cơ.
+เชื่อมโลหะ:chueamloha|hàn kim loại|ช่าง เชื่อมโลหะ|Thợ hàn kim loại.
+กลึง:klueng|tiện (gia công)|ช่าง กลึง เหล็ก|Thợ tiện sắt.
+เจาะ:cho|khoan, đục lỗ|ช่าง เจาะ ผนัง|Thợ khoan tường.
+ขัดเงา:khatngao|đánh bóng|เขา ขัดเงา รถ|Anh ấy đánh bóng xe.
+ประกอบชิ้นส่วน:prakopchinsuan|lắp ráp linh kiện|โรงงาน ประกอบชิ้นส่วน รถ|Nhà máy lắp ráp linh kiện xe.
+ต้นแบบ:tonbaep|nguyên mẫu|บริษัท สร้าง ต้นแบบ|Công ty chế tạo nguyên mẫu.
+ระบบอัตโนมัติ:rabop-attanomat|hệ thống tự động|โรงงาน ใช้ ระบบอัตโนมัติ|Nhà máy dùng hệ thống tự động.

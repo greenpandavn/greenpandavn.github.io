@@ -1,0 +1,56 @@
+=4
+@Thương mại và hải quan|Xuất nhập khẩu
+พิกัดอัตราภาษี:phikat-attraphasi|biểu thuế quan|สินค้า นี้ อยู่ ใน พิกัดอัตราภาษี ใหม่|Mặt hàng này nằm trong biểu thuế mới.
+ภาษีสรรพสามิต:phasisapphasamit|thuế tiêu thụ đặc biệt|เหล้า มี ภาษีสรรพสามิต|Rượu chịu thuế tiêu thụ đặc biệt.
+เขตปลอดภาษี:khetplotphasi|khu miễn thuế|สนามบิน มี เขตปลอดภาษี|Sân bay có khu miễn thuế.
+ใบกำกับสินค้า:baikamkapsinkha|hóa đơn thương mại|ผู้ขาย ส่ง ใบกำกับสินค้า|Người bán gửi hóa đơn thương mại.
+ใบตราส่ง:baitrasong|vận đơn|ธนาคาร ขอ ดู ใบตราส่ง|Ngân hàng yêu cầu xem vận đơn.
+หนังสือรับรองแหล่งกำเนิด:nangsuerapronglaengkamnoet|giấy chứng nhận xuất xứ|ลูกค้า ต้องการ หนังสือรับรองแหล่งกำเนิด|Khách hàng cần giấy chứng nhận xuất xứ.
+เลตเตอร์ออฟเครดิต:lettoe-opkhredit|thư tín dụng|ธนาคาร เปิด เลตเตอร์ออฟเครดิต|Ngân hàng mở thư tín dụng.
+คลังสินค้าทัณฑ์บน:khlangsinkhathanbon|kho ngoại quan|สินค้า อยู่ ใน คลังสินค้าทัณฑ์บน|Hàng nằm trong kho ngoại quan.
+โควตา:khwota|hạn ngạch|ประเทศ นี้ มี โควตา นำเข้า ข้าว|Nước này có hạn ngạch nhập gạo.
+การทุ่มตลาด:kanthumtalat|bán phá giá|รัฐบาล สอบสวน การทุ่มตลาด|Chính phủ điều tra bán phá giá.
+มาตรการกีดกันทางการค้า:mattrakankitkanthangkankha|biện pháp bảo hộ mậu dịch|หลาย ประเทศ ใช้ มาตรการกีดกันทางการค้า|Nhiều nước dùng biện pháp bảo hộ mậu dịch.
+เขตการค้าเสรี:khetkankhaseri|khu vực mậu dịch tự do|อาเซียน เป็น เขตการค้าเสรี|ASEAN là khu vực mậu dịch tự do.
+ดุลการค้า:dunkankha|cán cân thương mại|ดุลการค้า ของ ไทย เกินดุล:koendun|Cán cân thương mại của Thái Lan thặng dư.
+ผู้ส่งออก:phusong-ok|nhà xuất khẩu|ไทย เป็น ผู้ส่งออก ข้าว|Thái Lan là nhà xuất khẩu gạo.
+ผู้นำเข้า:phunamkhao|nhà nhập khẩu|บริษัท นี้ เป็น ผู้นำเข้า รถ|Công ty này là nhà nhập khẩu xe.
+ตัวแทนจำหน่าย:tuathaenchamnai|đại lý phân phối|เขา เป็น ตัวแทนจำหน่าย ใน เวียดนาม|Anh ấy là đại lý phân phối ở Việt Nam.
+พ่อค้าคนกลาง:phokhakhonklang|thương lái trung gian|พ่อค้าคนกลาง ซื้อ ข้าว จาก ชาวนา|Thương lái mua gạo từ nông dân.
+ค้าปลีก:khaplik|bán lẻ|ร้าน นี้ ขาย ค้าปลีก|Cửa hàng này bán lẻ.
+ค้าส่ง:khasong|bán buôn|ตลาด นี้ เป็น ตลาด ค้าส่ง|Chợ này là chợ bán buôn.
+สินค้าลักลอบ:sinkhalaklop|hàng lậu|ตำรวจ ยึด สินค้าลักลอบ|Cảnh sát tịch thu hàng lậu.
+เครื่องหมายการค้า:khrueangmaikankha|nhãn hiệu thương mại|นี่ เป็น เครื่องหมายการค้า ของ เรา|Đây là nhãn hiệu của chúng tôi.
+แฟรนไชส์:fraenchai|nhượng quyền thương mại|เธอ ซื้อ แฟรนไชส์ ร้าน กาแฟ|Cô ấy mua nhượng quyền quán cà phê.
+พาณิชย์อิเล็กทรอนิกส์:phanit-ilekthronik|thương mại điện tử|พาณิชย์อิเล็กทรอนิกส์ โต เร็ว|Thương mại điện tử tăng trưởng nhanh.
+@Kế toán và quản trị|Sổ sách, điều hành
+งบกำไรขาดทุน:ngopkamraikhatthun|báo cáo lãi lỗ|ผู้จัดการ ดู งบกำไรขาดทุน|Giám đốc xem báo cáo lãi lỗ.
+งบกระแสเงินสด:ngopkrasaengoensot|báo cáo lưu chuyển tiền tệ|ธนาคาร ขอ งบกระแสเงินสด|Ngân hàng yêu cầu báo cáo lưu chuyển tiền tệ.
+สินทรัพย์:sinsap|tài sản (kế toán)|บริษัท มี สินทรัพย์ มาก|Công ty có nhiều tài sản.
+ส่วนของผู้ถือหุ้น:suankhongphuthuehun|vốn chủ sở hữu|ส่วนของผู้ถือหุ้น ลด ลง|Vốn chủ sở hữu giảm.
+ค่าเสื่อมราคา:khasueamrakha|khấu hao|รถ มี ค่าเสื่อมราคา ทุก ปี|Xe có khấu hao hằng năm.
+ต้นทุนคงที่:tonthunkhongthi|chi phí cố định|ค่าเช่า เป็น ต้นทุนคงที่|Tiền thuê là chi phí cố định.
+ต้นทุนผันแปร:tonthunphanprae|chi phí biến đổi|วัตถุดิบ เป็น ต้นทุนผันแปร|Nguyên liệu là chi phí biến đổi.
+จุดคุ้มทุน:chutkhumthun|điểm hòa vốn|ร้าน ถึง จุดคุ้มทุน แล้ว|Cửa hàng đã đạt điểm hòa vốn.
+กำไรสุทธิ:kamraisutthi|lợi nhuận ròng|กำไรสุทธิ ปี นี้ สูง|Lợi nhuận ròng năm nay cao.
+กำไรขั้นต้น:kamraikhanton|lợi nhuận gộp|กำไรขั้นต้น ลด ลง|Lợi nhuận gộp giảm.
+รายได้ค้างรับ:raidaikhangrap|doanh thu phải thu|บริษัท มี รายได้ค้างรับ มาก|Công ty có nhiều khoản phải thu.
+เจ้าหนี้การค้า:chaonikankha|phải trả người bán|เจ้าหนี้การค้า รอ เงิน|Chủ nợ thương mại đang đợi tiền.
+ลูกหนี้:lukni|con nợ|ลูกหนี้ ไม่ จ่าย เงิน|Con nợ không trả tiền.
+ตรวจสอบบัญชี:truatsopbanchi|kiểm toán|บริษัท จ้าง คน ตรวจสอบบัญชี|Công ty thuê người kiểm toán.
+ปีงบประมาณ:pingoppraman|năm tài khóa|ปีงบประมาณ เริ่ม เดือน ตุลาคม|Năm tài khóa bắt đầu tháng Mười.
+ใบสั่งซื้อ:baisangsue|đơn đặt hàng|ลูกค้า ส่ง ใบสั่งซื้อ|Khách hàng gửi đơn đặt hàng.
+วิสัยทัศน์:wisaithat|tầm nhìn|ผู้นำ ต้อง มี วิสัยทัศน์|Lãnh đạo phải có tầm nhìn.
+พันธกิจ:phanthakit|sứ mệnh|พันธกิจ ของ บริษัท ชัดเจน|Sứ mệnh của công ty rõ ràng.
+แผนกลยุทธ์:phaenkonlayut|kế hoạch chiến lược|ผู้บริหาร เขียน แผนกลยุทธ์|Ban lãnh đạo soạn kế hoạch chiến lược.
+ตัวชี้วัด:tuachiwat|chỉ số đánh giá|พนักงาน มี ตัวชี้วัด ทุก เดือน|Nhân viên có chỉ số đánh giá hằng tháng.
+โครงสร้างองค์กร:khrongsang-ongkon|cơ cấu tổ chức|บริษัท เปลี่ยน โครงสร้างองค์กร|Công ty thay đổi cơ cấu tổ chức.
+วัฒนธรรมองค์กร:watthanatham-ongkon|văn hóa doanh nghiệp|วัฒนธรรมองค์กร ที่ นี่ ดี|Văn hóa doanh nghiệp ở đây tốt.
+การบริหารความเสี่ยง:kanborihankhwamsiang|quản trị rủi ro|ธนาคาร เน้น การบริหารความเสี่ยง|Ngân hàng chú trọng quản trị rủi ro.
+ธรรมาภิบาล:thammaphiban|quản trị tốt (minh bạch)|บริษัท ต้อง มี ธรรมาภิบาล|Công ty phải có quản trị minh bạch.
+ผู้มีส่วนได้ส่วนเสีย:phumisuandaisuansia|các bên liên quan|บริษัท ฟัง ผู้มีส่วนได้ส่วนเสีย|Công ty lắng nghe các bên liên quan.
+ควบรวมกิจการ:khuapruamkitchakan|sáp nhập doanh nghiệp|สอง ธนาคาร ควบรวมกิจการ|Hai ngân hàng sáp nhập.
+เข้าซื้อกิจการ:khaosuekitchakan|mua lại doanh nghiệp|บริษัท ใหญ่ เข้าซื้อกิจการ เล็ก|Công ty lớn mua lại doanh nghiệp nhỏ.
+จ้างเหมา:changmao|thuê khoán, thuê ngoài|บริษัท จ้างเหมา งาน ทำความสะอาด|Công ty thuê ngoài việc dọn dẹp.
+ปรับโครงสร้าง:prapkhrongsang|tái cơ cấu|บริษัท ปรับโครงสร้าง หนี้|Công ty tái cơ cấu nợ.
+เลิกกิจการ:loekkitchakan|giải thể, đóng cửa kinh doanh|ร้าน นี้ เลิกกิจการ แล้ว|Cửa hàng này đã đóng cửa.

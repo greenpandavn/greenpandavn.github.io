@@ -95,6 +95,18 @@ service cloud.firestore {
         && getAfter(/databases/$(database)/documents/leaderboard/$(request.auth.uid)).data.no == request.resource.data.count;
     }
 
+    // v5.6.0 config/vipParts: { parts: { <course>: { <unit>: bool } }, updatedAt, updatedBy } = per-part VIP switches
+    // set in the admin screen. Everyone reads, only admins write.
+    match /config/{id} {
+      allow read: if true;
+      allow write: if id == 'vipParts' && isAdmin()
+        && request.resource.data.keys().hasOnly(['parts', 'updatedAt', 'updatedBy'])
+        && request.resource.data.parts is map && request.resource.data.parts.size() <= 20
+        && request.resource.data.updatedAt is number
+        && request.resource.data.updatedBy is string && request.resource.data.updatedBy.size() <= 120;
+      allow delete: if id == 'vipParts' && isAdmin();
+    }
+
     // Admin-managed course content (falls back to the bundled lessons when empty).
     match /lessons/{id} {
       allow read: if true;

@@ -137,6 +137,10 @@ html[data-course="ko"] body,
 html[data-course="ko"] .font-han {
   font-family: "Nunito", "Noto Sans KR", "Apple SD Gothic Neo", "Malgun Gothic", system-ui, sans-serif;
 }
+html[data-course="th"] body,
+html[data-course="th"] .font-han {
+  font-family: "Nunito", "Noto Sans Thai", "Leelawadee UI", "Thonburi", system-ui, sans-serif;
+}
 html[data-course="ja"] body,
 html[data-course="ja"] .font-han {
   font-family: "Nunito", "Noto Sans JP", "Hiragino Sans", "Yu Gothic", system-ui, sans-serif;

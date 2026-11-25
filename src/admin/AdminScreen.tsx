@@ -13,12 +13,14 @@ import { Chevron } from '../components/Icons';
 import LessonEditor from './LessonEditor';
 import { endOfDay, extendVip, fmtVipDate } from '../lib/vip';
 import type { Certificate } from '../types';
+import VipPartsEditor from './VipPartsEditor';
 
-type Tab = 'stats' | 'users' | 'vip' | 'content' | 'certs' | 'reports';
+type Tab = 'stats' | 'users' | 'vip' | 'vipParts' | 'content' | 'certs' | 'reports';
 const TABS: [Tab, string][] = [
   ['stats', 'Thống kê'],
   ['users', 'Người dùng'],
   ['vip', 'VIP'],
+  ['vipParts', 'VIP từng phần'],
   ['content', 'Nội dung'],
   ['certs', 'Chứng chỉ'],
   ['reports', 'Báo cáo'],
@@ -252,10 +254,12 @@ export default function AdminScreen({ onClose }: { onClose: () => void }) {
         </div>
       )}
 
+      {tab === 'vipParts' && <VipPartsEditor by={acc.user?.email ?? ''} />}
+
       {tab === 'vip' && users && (
         <div className="flex flex-col gap-2" data-testid="admin-vip">
           <p className="text-xs font-bold text-ink-400">
-            VIP mở tiếng Hàn, tiếng Nhật, tiếng Anh từ Nâng cao và tiếng Trung từ HSK 6. Hết hạn thì tài khoản tự mất quyền VIP. Gia hạn được cộng tiếp vào ngày hết hạn hiện tại.
+            VIP mở các Phần đang bật VIP (xem tab “VIP từng phần”). Hết hạn thì tài khoản tự mất quyền VIP. Gia hạn được cộng tiếp vào ngày hết hạn hiện tại.
           </p>
           <h2 className="font-black">Đang là VIP ({vips.length})</h2>
           {vips.length === 0 && <p className="text-sm font-bold text-ink-400">Chưa có tài khoản VIP nào.</p>}

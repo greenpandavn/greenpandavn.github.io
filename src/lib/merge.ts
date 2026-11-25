@@ -1,6 +1,6 @@
 import type { Certificate, CourseId, Progress, SubCourseId, TestResult, WordProgress } from '../types';
 
-export const SUB_COURSES: SubCourseId[] = ['en', 'ko', 'ja'];
+export const SUB_COURSES: SubCourseId[] = ['en', 'ko', 'ja', 'th'];
 import { coursePart, courseView } from './store';
 
 const maxBy = <T>(a: T | undefined, b: T | undefined, score: (x: T) => number): T | undefined => {

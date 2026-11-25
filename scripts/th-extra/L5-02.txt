@@ -1,0 +1,66 @@
+=5
+@Hóa học|Nguyên tố và hợp chất
+ธาตุ:that|nguyên tố|ทอง เป็น ธาตุ|Vàng là một nguyên tố.
+ตารางธาตุ:tarangthat|bảng tuần hoàn|นักเรียน ท่อง ตารางธาตุ|Học sinh học thuộc bảng tuần hoàn.
+ไฮโดรเจน:haidrochen|hi đrô|น้ำ มี ไฮโดรเจน|Nước có hi đrô.
+ไนโตรเจน:naitrochen|ni tơ|อากาศ มี ไนโตรเจน มาก|Không khí có nhiều ni tơ.
+แคลเซียม:khaensiam|can xi|นม มี แคลเซียม|Sữa có can xi.
+โซเดียม:sodiam|natri|เกลือ มี โซเดียม|Muối có natri.
+โพแทสเซียม:phothaetsiam|kali|กล้วย มี โพแทสเซียม|Chuối có kali.
+แมกนีเซียม:maekknisiam|ma giê|ถั่ว มี แมกนีเซียม|Đậu có ma giê.
+กำมะถัน:kammathan|lưu huỳnh|ภูเขาไฟ มี กลิ่น กำมะถัน|Núi lửa có mùi lưu huỳnh.
+ฟอสฟอรัส:fotforat|phốt pho|ปุ๋ย มี ฟอสฟอรัส|Phân bón có phốt pho.
+คลอรีน:khlorin|clo|สระว่ายน้ำ ใส่ คลอรีน|Bể bơi cho clo.
+ไอโอดีน:ai-odin|i ốt|เกลือ นี้ มี ไอโอดีน|Muối này có i ốt.
+สังกะสี:sangkasi|kẽm|หลังคา ทำ จาก สังกะสี|Mái nhà làm bằng tôn kẽm.
+สารหนู:sannu|thạch tín, asen|น้ำ นี้ มี สารหนู|Nước này có asen.
+ยูเรเนียม:yureniam|urani|โรงไฟฟ้า ใช้ ยูเรเนียม|Nhà máy điện dùng urani.
+ทองคำขาว:thongkhamkhao|bạch kim|แหวน นี้ ทำ จาก ทองคำขาว|Chiếc nhẫn này làm bằng bạch kim.
+อิเล็กตรอน:ilektron|êlectron|อิเล็กตรอน มี ประจุ ลบ|Êlectron mang điện tích âm.
+โปรตอน:proton|prôton|โปรตอน อยู่ ใน นิวเคลียส:niokhliat|Prôton nằm trong hạt nhân.
+นิวตรอน:niotron|nơtron|นิวตรอน ไม่ มี ประจุ|Nơtron không mang điện.
+ไอออน:ai-on|ion|เกลือ แตก เป็น ไอออน ใน น้ำ|Muối phân li thành ion trong nước.
+พันธะเคมี:phanthakhemi|liên kết hóa học|อะตอม จับ กัน ด้วย พันธะเคมี|Nguyên tử liên kết bằng liên kết hóa học.
+ปฏิกิริยาเคมี:patikiriyakhemi|phản ứng hóa học|การ เผา เป็น ปฏิกิริยาเคมี|Sự cháy là phản ứng hóa học.
+ตัวเร่งปฏิกิริยา:tuarengpatikiriya|chất xúc tác|โรงงาน ใช้ ตัวเร่งปฏิกิริยา|Nhà máy dùng chất xúc tác.
+ออกซิเดชัน:oksidechan|sự ô xi hóa|สนิม เกิด จาก ออกซิเดชัน|Gỉ sinh ra do ô xi hóa.
+สารประกอบ:sanprakop|hợp chất|น้ำ เป็น สารประกอบ|Nước là hợp chất.
+สารอินทรีย์:san-insi|chất hữu cơ|ดิน นี้ มี สารอินทรีย์ มาก|Đất này có nhiều chất hữu cơ.
+คาร์บอนไดออกไซด์:khabondai-oksai|khí các bô níc|ต้นไม้ ดูด คาร์บอนไดออกไซด์|Cây hấp thụ khí các bô níc.
+คาร์บอนมอนอกไซด์:khabonmonoksai|khí các bon mô nô xít|ควัน รถ มี คาร์บอนมอนอกไซด์|Khói xe có các bon mô nô xít.
+แอมโมเนีย:aemmonia|amoniac|ปุ๋ย ผลิต จาก แอมโมเนีย|Phân bón sản xuất từ amoniac.
+มีเทน:mithen|khí mê tan|นา ข้าว ปล่อย มีเทน|Ruộng lúa thải ra mê tan.
+เอทานอล:ethanon|ê ta nôn|รถ นี้ ใช้ เอทานอล|Xe này dùng ê ta nôn.
+โซดาไฟ:sodafai|xút ăn da|สบู่ ทำ จาก โซดาไฟ|Xà phòng làm từ xút.
+@Di truyền và vi sinh|Sự sống ở mức tế bào
+พันธุศาสตร์:phanthusat|di truyền học|เธอ วิจัย พันธุศาสตร์|Cô ấy nghiên cứu di truyền học.
+โครโมโซม:khromosom|nhiễm sắc thể|มนุษย์ มี โครโมโซม ยี่สิบ สาม คู่|Con người có hai mươi ba cặp nhiễm sắc thể.
+การกลายพันธุ์:kanklaiphan|đột biến|ไวรัส มี การกลายพันธุ์|Vi rút có đột biến.
+ลักษณะเด่น:laksanaden|tính trạng trội|ตา สี ดำ เป็น ลักษณะเด่น|Mắt đen là tính trạng trội.
+ลักษณะด้อย:laksanadoi|tính trạng lặn|ตา สี ฟ้า เป็น ลักษณะด้อย|Mắt xanh là tính trạng lặn.
+โรคทางพันธุกรรม:rokthangphanthukam|bệnh di truyền|นี่ เป็น โรคทางพันธุกรรม|Đây là bệnh di truyền.
+ตัดต่อพันธุกรรม:tattophanthukam|biến đổi gen|ถั่วเหลือง นี้ ตัดต่อพันธุกรรม|Đậu nành này biến đổi gen.
+โคลนนิ่ง:khlonning|nhân bản vô tính|นักวิทยาศาสตร์ ทำ โคลนนิ่ง แกะ|Nhà khoa học nhân bản vô tính cừu.
+เซลล์ต้นกำเนิด:sentonkamnoet|tế bào gốc|หมอ ใช้ เซลล์ต้นกำเนิด รักษา|Bác sĩ dùng tế bào gốc để chữa.
+แบ่งเซลล์:baengsen|phân bào|เซลล์ มะเร็ง แบ่งเซลล์ เร็ว|Tế bào ung thư phân bào nhanh.
+นิวเคลียส:niokhliat|nhân tế bào, hạt nhân|นิวเคลียส อยู่ กลาง เซลล์|Nhân nằm giữa tế bào.
+เยื่อหุ้มเซลล์:yueahumsen|màng tế bào|น้ำ ผ่าน เยื่อหุ้มเซลล์|Nước đi qua màng tế bào.
+เอนไซม์:ensai|en zim|เอนไซม์ ช่วย ย่อย อาหาร|En zim giúp tiêu hóa thức ăn.
+กรดอะมิโน:krot-amino|a xít amin|โปรตีน ทำ จาก กรดอะมิโน|Prô tê in cấu tạo từ a xít amin.
+จุลชีววิทยา:chunlachiwawitthaya|vi sinh vật học|เขา เรียน จุลชีววิทยา|Anh ấy học vi sinh vật học.
+จุลินทรีย์:chulinsi|vi sinh vật|ดิน มี จุลินทรีย์ มาก|Đất có nhiều vi sinh vật.
+เชื้อรา:chuera|nấm mốc|ขนมปัง มี เชื้อรา|Bánh mì bị mốc.
+ปรสิต:parasit|ký sinh trùng|ปลา ดิบ อาจ มี ปรสิต|Cá sống có thể có ký sinh trùng.
+พยาธิ:phayat|giun sán|เด็ก กิน ยา ถ่าย พยาธิ|Trẻ uống thuốc tẩy giun.
+สปอร์:sapo|bào tử|เห็ด ปล่อย สปอร์|Nấm phát tán bào tử.
+เพาะเชื้อ:phochuea|nuôi cấy vi khuẩn|ห้องแล็บ เพาะเชื้อ จาก เลือด|Phòng thí nghiệm nuôi cấy vi khuẩn từ máu.
+ฆ่าเชื้อ:khachuea|khử trùng|พยาบาล ฆ่าเชื้อ เครื่องมือ|Y tá khử trùng dụng cụ.
+ภูมิต้านทาน:phumitanthan|sức đề kháng|เด็ก เล็ก มี ภูมิต้านทาน ต่ำ|Trẻ nhỏ có sức đề kháng thấp.
+แอนติบอดี:aentibodi|kháng thể|ร่างกาย สร้าง แอนติบอดี|Cơ thể tạo ra kháng thể.
+ระยะฟักตัว:rayafaktua|thời kỳ ủ bệnh|โรค นี้ มี ระยะฟักตัว สิบ วัน|Bệnh này có thời kỳ ủ bệnh mười ngày.
+พาหะนำโรค:phahanamrok|vật trung gian truyền bệnh|ยุง เป็น พาหะนำโรค|Muỗi là vật trung gian truyền bệnh.
+สายพันธุ์:saiphan|chủng, giống loài|ไวรัส สายพันธุ์ ใหม่ ระบาด|Chủng vi rút mới lây lan.
+การคัดเลือกโดยธรรมชาติ:kankhatlueakdoithammachat|chọn lọc tự nhiên|สัตว์ ปรับตัว ด้วย การคัดเลือกโดยธรรมชาติ|Động vật thích nghi nhờ chọn lọc tự nhiên.
+ห่วงโซ่อาหาร:huangso-ahan|chuỗi thức ăn|พืช อยู่ ต้น ห่วงโซ่อาหาร|Thực vật ở đầu chuỗi thức ăn.
+สิ่งมีชีวิตต่างถิ่น:singmichiwittangthin|sinh vật ngoại lai|ปลา นี้ เป็น สิ่งมีชีวิตต่างถิ่น|Loài cá này là sinh vật ngoại lai.
+ชีวมวล:chiwamuan|sinh khối|โรงไฟฟ้า ใช้ ชีวมวล|Nhà máy điện dùng sinh khối.

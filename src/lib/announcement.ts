@@ -13,9 +13,9 @@ export const DEFAULT_ANNOUNCEMENT: Announcement = {
   version: APP_VERSION,
   title: `GreenPanda v${APP_VERSION} có gì mới?`,
   body: [
-    '- Tiếng Hàn đủ 5.000 từ / 414 bài: TOPIK 1–6, mỗi cấp khoảng 833 từ.',
-    '- Tiếng Nhật đủ 5.000 từ / 415 bài: JLPT N5–N1, mỗi cấp 1.000 từ.',
-    '- Mỗi từ có phiên âm, nghĩa tiếng Việt và câu ví dụ. Hai khóa vẫn dành cho tài khoản VIP.',
+    '- Khóa mới: tiếng Thái 5.000 từ / 415 bài, 5 cấp (Sơ cấp → Chuyên sâu), mỗi cấp 1.000 từ, có phiên âm, nghĩa, câu ví dụ, trò chơi và thi thử từng cấp.',
+    '- Tiếng Hàn và tiếng Nhật: mở miễn phí 4 Phần đầu; các Phần sau vẫn dành cho tài khoản VIP.',
+    '- Tiếng Thái cũng miễn phí 4 Phần đầu.',
   ].join('\n'),
   updatedAt: 0,
 };

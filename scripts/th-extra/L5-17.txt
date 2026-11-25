@@ -1,0 +1,62 @@
+=5
+@Giáo dục học và thể thao|Lý thuyết, khoa học vận động
+ครุศาสตร์:kharusat|khoa học sư phạm|เธอ จบ ครุศาสตร์|Cô ấy tốt nghiệp sư phạm.
+ศึกษาศาสตร์:sueksasat|giáo dục học|พี่ชาย เรียน ศึกษาศาสตร์|Anh trai học giáo dục học.
+จิตวิทยาการศึกษา:chittawitthayakansueksa|tâm lý học giáo dục|ครู ต้อง เรียน จิตวิทยาการศึกษา|Giáo viên phải học tâm lý học giáo dục.
+ผลการเรียนรู้:phonkanrianru|kết quả học tập đầu ra|หลักสูตร กำหนด ผลการเรียนรู้|Chương trình quy định kết quả đầu ra.
+การเรียนรู้เชิงรุก:kanrianruchoengruk|học tập chủ động|โรงเรียน ใช้ การเรียนรู้เชิงรุก|Trường áp dụng học tập chủ động.
+ห้องเรียนกลับด้าน:hongrianklapdan|lớp học đảo ngược|ครู ลอง ห้องเรียนกลับด้าน|Giáo viên thử lớp học đảo ngược.
+การศึกษาพิเศษ:kansueksaphiset|giáo dục đặc biệt|โรงเรียน มี ครู การศึกษาพิเศษ|Trường có giáo viên giáo dục đặc biệt.
+เรียนรวม:rianruam|giáo dục hòa nhập|เด็ก พิการ เข้า เรียนรวม|Trẻ khuyết tật học hòa nhập.
+ประเมินตามสภาพจริง:pramoentamsaphapching|đánh giá thực chất|ครู ประเมินตามสภาพจริง|Giáo viên đánh giá thực chất.
+แฟ้มสะสมผลงาน:faemsasomphon-ngan|hồ sơ năng lực (portfolio)|นักเรียน ทำ แฟ้มสะสมผลงาน|Học sinh làm hồ sơ năng lực.
+เกณฑ์การให้คะแนน:kenkanhaikhanaen|thang chấm điểm (rubric)|ครู แจก เกณฑ์การให้คะแนน|Giáo viên phát thang chấm điểm.
+ซ้ำชั้น:samchan|lưu ban|เขา ต้อง ซ้ำชั้น หนึ่ง ปี|Cậu ấy phải lưu ban một năm.
+วิทยาศาสตร์การกีฬา:witthayasatkankila|khoa học thể thao|เขา เรียน วิทยาศาสตร์การกีฬา|Anh ấy học khoa học thể thao.
+สรีรวิทยาการออกกำลังกาย:sarirawitthayakan-okkamlangkai|sinh lý học vận động|โค้ช เรียน สรีรวิทยาการออกกำลังกาย|Huấn luyện viên học sinh lý học vận động.
+สมรรถภาพทางกาย:samatthaphapthangkai|thể lực|นักกีฬา ทดสอบ สมรรถภาพทางกาย|Vận động viên kiểm tra thể lực.
+ความทนทาน:khwamthonthan|sức bền|นักวิ่ง ต้อง มี ความทนทาน|Người chạy bộ phải có sức bền.
+ความยืดหยุ่น:khwamyuetyun|độ dẻo dai, linh hoạt|โยคะ เพิ่ม ความยืดหยุ่น|Yoga tăng độ dẻo dai.
+มวลกล้ามเนื้อ:muanklamnuea|khối lượng cơ|เขา เพิ่ม มวลกล้ามเนื้อ|Anh ấy tăng khối lượng cơ.
+อัตราการเต้นของหัวใจ:attrakantenkhonghuachai|nhịp tim|นาฬิกา วัด อัตราการเต้นของหัวใจ|Đồng hồ đo nhịp tim.
+กรดแล็กติก:krotlaektik|a xít lactic|กล้ามเนื้อ สะสม กรดแล็กติก|Cơ tích tụ a xít lactic.
+อบอุ่นร่างกาย:op-unrangkai|khởi động làm nóng|นักกีฬา อบอุ่นร่างกาย ก่อน แข่ง|Vận động viên khởi động trước khi thi đấu.
+ตะคริว:takhrio|chuột rút|นักฟุตบอล เป็น ตะคริว|Cầu thủ bị chuột rút.
+เอ็นไขว้หน้า:enkhwaina|dây chằng chéo trước|เขา เอ็นไขว้หน้า ขาด|Anh ấy đứt dây chằng chéo trước.
+ทศกรีฑา:thotsakritha|mười môn phối hợp|เขา แข่ง ทศกรีฑา|Anh ấy thi mười môn phối hợp.
+ไตรกีฬา:traikila|ba môn phối hợp|ภูเก็ต จัด แข่ง ไตรกีฬา|Phuket tổ chức thi ba môn phối hợp.
+กระโดดค้ำ:kradotkham|nhảy sào|เธอ ได้ เหรียญ กระโดดค้ำ|Cô ấy giành huy chương nhảy sào.
+ทุ่มน้ำหนัก:thumnamnak|đẩy tạ|นักกีฬา ทุ่มน้ำหนัก ไกล มาก|Vận động viên đẩy tạ rất xa.
+@Tước vị và từ cổ|Phẩm hàm, từ xưa
+บรรดาศักดิ์:bandasak|phẩm hàm quý tộc|ขุนนาง มี บรรดาศักดิ์|Quan lại có phẩm hàm.
+ราชทินนาม:ratchathinnanam|tước hiệu vua ban|ท่าน ได้ ราชทินนาม ใหม่|Ngài được ban tước hiệu mới.
+สมเด็จเจ้าพระยา:somdetchaophraya|tước somdet chao phraya (cao nhất)|สมเด็จเจ้าพระยา มี อำนาจ มาก|Somdet chao phraya có nhiều quyền lực.
+พระยา:phraya|tước phraya|พระยา คน นี้ เป็น เจ้าเมือง|Vị phraya này là tổng trấn.
+ออกญา:okya|tước okya (thời Ayutthaya)|ออกญา เป็น ตำแหน่ง สมัย อยุธยา|Okya là chức tước thời Ayutthaya.
+เจ้าเมือง:chaomueang|tổng trấn, chúa thành|เจ้าเมือง ส่ง ทหาร มา ช่วย|Tổng trấn gửi lính đến giúp.
+กรมการเมือง:krommakanmueang|quan chức tỉnh thành (cổ)|กรมการเมือง เก็บ ภาษี|Quan chức tỉnh thu thuế.
+มหาดเล็ก:mahatlek|thị vệ, cận thần|มหาดเล็ก ตาม เสด็จ|Thị vệ theo hầu vua.
+นางใน:nangnai|cung nữ|นางใน อยู่ ใน วัง|Cung nữ sống trong cung.
+ราชบัณฑิต:ratchabandit|viện sĩ hoàng gia|ราชบัณฑิต กำหนด คำ ใหม่|Viện sĩ hoàng gia quy định từ mới.
+โหรหลวง:honluang|chiêm tinh gia triều đình|โหรหลวง หา ฤกษ์ ให้ หลวง|Chiêm tinh gia triều đình tìm giờ lành cho vua.
+อาลักษณ์:alak|thư lại hoàng gia|อาลักษณ์ เขียน พระราชสาส์น|Thư lại hoàng gia viết quốc thư.
+พระราชสาส์น:phraratchasan|thư của vua|ทูต นำ พระราชสาส์น ไป ฝรั่งเศส|Sứ thần mang thư của vua sang Pháp.
+ราชทูต:ratchathut|sứ thần của vua|ราชทูต ไทย ไป ถึง ปารีส|Sứ thần Xiêm đến Paris.
+เสนาบดี:senabodi|thượng thư (bộ trưởng thời xưa)|เสนาบดี เข้า ประชุม|Thượng thư vào họp.
+เวียงวังคลังนา:wiangwangkhlangna|bốn bộ đô thành, cung, kho, ruộng|เวียงวังคลังนา คือ จตุสดมภ์|Bốn bộ đô, cung, kho, ruộng chính là tứ trụ triều chính.
+เกณฑ์แรงงาน:kenraeng-ngan|bắt phu, lao dịch|หลวง เกณฑ์แรงงาน ไพร่|Triều đình bắt dân đi phu.
+ส่วย:suai|thuế hiện vật (cổ); tiền hối lộ|ไพร่ ส่ง ส่วย แทน แรงงาน|Dân nộp thuế hiện vật thay lao dịch.
+อากร:akon|thuế (cổ), thuế quan|หลวง เก็บ อากร ตลาด|Triều đình thu thuế chợ.
+สำเภา:samphao|thuyền buồm kiểu Hoa|สำเภา จีน มา ค้าขาย|Thuyền buồm Trung Hoa đến buôn bán.
+กำปั่น:kampan|tàu buôn (cổ); hòm sắt|กำปั่น ฝรั่ง จอด ที่ ปากน้ำ|Tàu buôn phương Tây đậu ở cửa sông.
+ช้างศึก:changsuek|voi chiến|กองทัพ มี ช้างศึก ร้อย เชือก|Quân đội có một trăm con voi chiến.
+ง้าว:ngao|đại đao cán dài|แม่ทัพ ถือ ง้าว บน หลัง ช้าง|Tướng quân cầm đại đao trên lưng voi.
+ทวน:thuan|cây giáo dài; ngược lại|ทหาร ม้า ถือ ทวน|Kỵ binh cầm giáo dài.
+เขน:khen|cái khiên tròn|ทหาร ถือ ดาบ กับ เขน|Lính cầm kiếm và khiên tròn.
+ค่ายคูประตูหอรบ:khaikhupratuhorop|thành lũy phòng thủ|เมือง เก่า มี ค่ายคูประตูหอรบ|Thành cổ có thành lũy phòng thủ.
+พระราชลัญจกร:phraratchalanchakon|quốc ấn của vua|พระราชลัญจกร ใช้ กับ กฎหมาย|Quốc ấn của vua dùng cho luật.
+สมุดข่อย:samutkhoi|sách giấy khoi gấp|ตำรา ยา เขียน ใน สมุดข่อย|Sách thuốc viết trên giấy khoi.
+ใบลาน:bailan|lá buông (chép kinh)|พระ จาร คัมภีร์ บน ใบลาน|Sư khắc kinh trên lá buông.
+เบี้ย:bia|vỏ ốc dùng làm tiền; quân cờ|คน โบราณ ใช้ เบี้ย ซื้อ ของ|Người xưa dùng vỏ ốc mua hàng.
+พดด้วง:photduang|tiền bạc viên tròn (cổ)|พิพิธภัณฑ์ มี เงิน พดด้วง|Bảo tàng có tiền bạc viên tròn.
+ตำลึง:tamlueng|lạng (bốn baht tiền cổ)|ของ นี้ ราคา สอง ตำลึง|Món này giá hai lạng.

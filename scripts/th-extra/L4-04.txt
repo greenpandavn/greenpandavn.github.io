@@ -1,0 +1,68 @@
+=4
+@Điện tử|Linh kiện và tín hiệu
+อิเล็กทรอนิกส์:ilekthronik|điện tử học|เขา เรียน อิเล็กทรอนิกส์|Anh ấy học điện tử.
+แผงวงจร:phaengwongchon|bảng mạch|ช่าง ซ่อม แผงวงจร|Thợ sửa bảng mạch.
+ทรานซิสเตอร์:thransittoe|bóng bán dẫn|ทรานซิสเตอร์ ตัว นี้ เสีย|Bóng bán dẫn này hỏng.
+ตัวต้านทาน:tuatanthan|điện trở|ช่าง เปลี่ยน ตัวต้านทาน|Thợ thay điện trở.
+ตัวเก็บประจุ:tuakepprachu|tụ điện|ตัวเก็บประจุ นี้ บวม|Tụ điện này bị phồng.
+ไดโอด:dai-ot|đi ốt|ไดโอด ให้ ไฟ ผ่าน ทาง เดียว|Đi ốt cho điện đi qua một chiều.
+สารกึ่งตัวนำ:sankuengtuanam|chất bán dẫn|ประเทศ นี้ ผลิต สารกึ่งตัวนำ|Nước này sản xuất chất bán dẫn.
+ชิป:chip|vi mạch, chip|โทรศัพท์ ใช้ ชิป ใหม่|Điện thoại dùng chip mới.
+หม้อแปลง:moplaeng|máy biến áp|หม้อแปลง ระเบิด|Máy biến áp phát nổ.
+ฟิวส์:fio|cầu chì|ฟิวส์ ขาด|Cầu chì bị đứt.
+เบรกเกอร์:brekkoe|cầu dao tự động|ช่าง ปิด เบรกเกอร์|Thợ ngắt cầu dao.
+สายดิน:saidin|dây tiếp đất|บ้าน ต้อง มี สายดิน|Nhà phải có dây tiếp đất.
+ไฟฟ้าลัดวงจร:faifalatwongchon|chập điện|ไฟฟ้าลัดวงจร ทำให้ ไฟไหม้|Chập điện gây cháy.
+ไฟฟ้ากระแสสลับ:faifakrasaesalap|điện xoay chiều|บ้าน ใช้ ไฟฟ้ากระแสสลับ|Nhà dùng điện xoay chiều.
+ไฟฟ้ากระแสตรง:faifakrasaetrong|điện một chiều|แบตเตอรี่ ให้ ไฟฟ้ากระแสตรง|Pin cho điện một chiều.
+ความถี่:khwamthi|tần số|ความถี่ ของ คลื่น นี้ สูง|Tần số của sóng này cao.
+คลื่นวิทยุ:khluenwitthayu|sóng vô tuyến|คลื่นวิทยุ ไป ได้ ไกล|Sóng vô tuyến truyền được xa.
+สัญญาณรบกวน:sanyanropkuan|nhiễu tín hiệu|โทรศัพท์ มี สัญญาณรบกวน|Điện thoại bị nhiễu tín hiệu.
+เสาอากาศ:sao-akat|ăng ten|บน หลังคา มี เสาอากาศ|Trên mái nhà có ăng ten.
+เซนเซอร์:sensoe|cảm biến|ประตู นี้ มี เซนเซอร์|Cửa này có cảm biến.
+เครื่องขยายเสียง:khrueangkhayaisiang|máy khuếch đại âm thanh|ครู ใช้ เครื่องขยายเสียง|Giáo viên dùng máy khuếch đại âm thanh.
+ลำโพง:lamphong|loa|ลำโพง นี้ เสียง ดี|Cái loa này âm thanh tốt.
+ไมโครโฟน:maikhrofon|micrô|นักร้อง ถือ ไมโครโฟน|Ca sĩ cầm micrô.
+หูฟัง:hufang|tai nghe|ผม ใส่ หูฟัง|Tôi đeo tai nghe.
+ความละเอียด:khwamla-iat|độ phân giải; độ tỉ mỉ|จอ นี้ มี ความละเอียด สูง|Màn hình này có độ phân giải cao.
+เครื่องชาร์จ:khrueangchat|bộ sạc|ผม ลืม เครื่องชาร์จ|Tôi quên bộ sạc.
+ปลั๊กไฟ:plakfai|phích cắm điện|ปลั๊กไฟ อยู่ ข้าง เตียง|Ổ cắm điện ở cạnh giường.
+รีโมต:rimot|điều khiển từ xa|รีโมต อยู่ ไหน|Điều khiển ở đâu?
+เครื่องสแกน:khrueangsakaen|máy quét|สำนักงาน ซื้อ เครื่องสแกน|Văn phòng mua máy quét.
+โดรน:dron|máy bay không người lái|เขา บิน โดรน ถ่ายรูป|Anh ấy bay máy bay không người lái để chụp ảnh.
+เลเซอร์:lesoe|tia laze|หมอ ใช้ เลเซอร์ ผ่าตัด|Bác sĩ dùng laze để mổ.
+ใยแก้วนำแสง:yaikaeonamsaeng|cáp quang|อินเทอร์เน็ต ใช้ ใยแก้วนำแสง|Internet dùng cáp quang.
+@Hàng không và hàng hải|Bay và đi biển
+การบิน:kanbin|hàng không|เขา ทำงาน ด้าน การบิน|Anh ấy làm trong ngành hàng không.
+นักบินผู้ช่วย:nakbinphuchuai|phi công phụ|นักบินผู้ช่วย นั่ง ทาง ขวา|Phi công phụ ngồi bên phải.
+ลูกเรือ:lukruea|phi hành đoàn, thủy thủ đoàn|ลูกเรือ ดูแล ผู้โดยสาร|Phi hành đoàn chăm sóc hành khách.
+หอบังคับการบิน:hobangkhapkanbin|đài kiểm soát không lưu|นักบิน คุย กับ หอบังคับการบิน|Phi công nói chuyện với đài kiểm soát không lưu.
+ลานจอด:lanchot|bãi đỗ, sân đỗ|เครื่องบิน อยู่ ที่ ลานจอด|Máy bay ở sân đỗ.
+ห้องนักบิน:hongnakbin|buồng lái|เด็ก อยาก ดู ห้องนักบิน|Đứa trẻ muốn xem buồng lái.
+ปีกเครื่องบิน:pikkhrueangbin|cánh máy bay|ผม นั่ง ใกล้ ปีกเครื่องบิน|Tôi ngồi gần cánh máy bay.
+ล้อเครื่องบิน:lokhrueangbin|càng đáp, bánh máy bay|ล้อเครื่องบิน ลง แล้ว|Bánh máy bay đã hạ xuống.
+ขึ้นบิน:khuenbin|cất cánh|เครื่องบิน ขึ้นบิน ตอน เช้า|Máy bay cất cánh buổi sáng.
+ลงจอด:longchot|hạ cánh|เครื่องบิน ลงจอด ปลอดภัย|Máy bay hạ cánh an toàn.
+ตกหลุมอากาศ:toklum-akat|rơi vào vùng nhiễu động|เครื่องบิน ตกหลุมอากาศ|Máy bay gặp nhiễu động.
+เสื้อชูชีพ:sueachuchip|áo phao|เสื้อชูชีพ อยู่ ใต้ ที่นั่ง|Áo phao ở dưới ghế.
+ทางออกฉุกเฉิน:thang-okchukchoen|lối thoát hiểm|ทางออกฉุกเฉิน อยู่ ข้างหลัง|Lối thoát hiểm ở phía sau.
+กล่องดำ:klongdam|hộp đen|เจ้าหน้าที่ หา กล่องดำ|Nhân viên tìm hộp đen.
+น่านฟ้า:nanfa|không phận|เครื่องบิน เข้า น่านฟ้า ไทย|Máy bay vào không phận Thái Lan.
+เฮลิคอปเตอร์:helikhoptoe|máy bay trực thăng|เฮลิคอปเตอร์ ช่วย ผู้ป่วย|Trực thăng cứu bệnh nhân.
+ท่าเทียบเรือ:thathiapruea|bến tàu, cầu cảng|เรือ จอด ที่ ท่าเทียบเรือ|Tàu đậu ở cầu cảng.
+เรือบรรทุกสินค้า:rueabanthuksinkha|tàu chở hàng|เรือบรรทุกสินค้า ออก จาก ท่าเรือ|Tàu chở hàng rời cảng.
+เรือสำราญ:rueasamran|tàu du lịch|เรา เที่ยว บน เรือสำราญ|Chúng tôi du lịch trên tàu du lịch.
+เรือดำน้ำ:rueadamnam|tàu ngầm|กองทัพ ซื้อ เรือดำน้ำ|Quân đội mua tàu ngầm.
+เรือประมง:rueapramong|tàu đánh cá|เรือประมง กลับ เข้า ฝั่ง|Tàu cá trở về bờ.
+เรือใบ:rueabai|thuyền buồm|เขา แล่น:laen เรือใบ|Anh ấy lái thuyền buồm.
+สมอเรือ:samoruea|mỏ neo|ลูกเรือ ทิ้ง สมอเรือ|Thủy thủ thả neo.
+หางเสือ:hangsuea|bánh lái|กัปตัน จับ หางเสือ|Thuyền trưởng cầm bánh lái.
+ดาดฟ้าเรือ:datfaruea|boong tàu|เรา ยืน บน ดาดฟ้าเรือ|Chúng tôi đứng trên boong tàu.
+ใต้ท้องเรือ:taithongruea|khoang đáy tàu|สินค้า อยู่ ใต้ท้องเรือ|Hàng ở khoang đáy tàu.
+ประภาคาร:praphakhan|ngọn hải đăng|ประภาคาร ส่อง แสง ตอน กลางคืน|Hải đăng chiếu sáng ban đêm.
+ทุ่น:thun|phao tiêu|เรือ ผูก กับ ทุ่น|Thuyền buộc vào phao.
+น่านน้ำ:nannam|vùng biển, lãnh hải|เรือ เข้า น่านน้ำ ไทย|Tàu vào lãnh hải Thái Lan.
+กระแสน้ำ:krasaenam|dòng chảy|กระแสน้ำ แรง มาก|Dòng chảy rất mạnh.
+น้ำลง:namlong|triều xuống|เรา เดิน บน หาด ตอน น้ำลง|Chúng tôi đi trên bãi biển lúc triều xuống.
+เมาเรือ:maoruea|say sóng|เธอ เมาเรือ|Cô ấy say sóng.
+อับปาง:appang|đắm (tàu)|เรือ อับปาง ใน พายุ|Tàu đắm trong bão.

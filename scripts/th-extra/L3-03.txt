@@ -1,0 +1,75 @@
+=3
+@Pháp luật|Tòa án và quyền nghĩa vụ
+นิติศาสตร์:nitisat|luật học|เขา เรียน นิติศาสตร์|Anh ấy học luật.
+ศาลฎีกา:sandika|tòa án tối cao|ศาลฎีกา ตัดสิน คดี นี้|Tòa án tối cao xét xử vụ này.
+อัยการ:aiyakan|công tố viên|อัยการ ฟ้อง ผู้ต้องหา|Công tố viên khởi tố nghi phạm.
+ฟ้อง:fong|kiện, khởi tố|เขา ฟ้อง บริษัท|Anh ấy kiện công ty.
+จำเลย:chamloei|bị cáo|จำเลย ไม่ ยอม รับ ผิด|Bị cáo không nhận tội.
+โจทก์:chot|nguyên đơn|โจทก์ ชนะ คดี|Nguyên đơn thắng kiện.
+คำพิพากษา:khamphiphaksa|bản án|ศาล อ่าน คำพิพากษา|Tòa đọc bản án.
+อุทธรณ์:utthon|kháng cáo|จำเลย อุทธรณ์ คดี|Bị cáo kháng cáo.
+ประกันตัว:prakantua|bảo lãnh tại ngoại|เขา ขอ ประกันตัว|Anh ấy xin bảo lãnh tại ngoại.
+จำคุก:chamkhuk|phạt tù|ศาล สั่ง จำคุก สาม ปี|Tòa phạt tù ba năm.
+เรือนจำ:rueancham|trại giam|เขา อยู่ ใน เรือนจำ|Anh ấy ở trong trại giam.
+นักโทษ:nakthot|tù nhân|นักโทษ ทำงาน ใน เรือนจำ|Tù nhân làm việc trong trại giam.
+อาชญากร:atchayakon|kẻ phạm tội|ตำรวจ จับ อาชญากร|Cảnh sát bắt kẻ phạm tội.
+ฆาตกรรม:khattakam|án mạng|ตำรวจ สืบ:suep คดี ฆาตกรรม|Cảnh sát điều tra vụ án mạng.
+ลักทรัพย์:laksap|trộm cắp tài sản|เขา ถูก จับ ข้อหา:khoha ลักทรัพย์|Anh ta bị bắt vì tội trộm cắp.
+ฉ้อโกง:chokong|lừa đảo|เขา ฉ้อโกง ลูกค้า|Anh ta lừa đảo khách hàng.
+ติดสินบน:titsinbon|hối lộ|เขา ติดสินบน เจ้าหน้าที่|Anh ta hối lộ cán bộ.
+ยาเสพติด:yaseptit|ma túy|ยาเสพติด ทำลาย ชีวิต|Ma túy hủy hoại cuộc đời.
+ลักลอบ:laklop|buôn lậu, lén lút|เขา ลักลอบ นำเข้า สินค้า|Anh ta buôn lậu hàng hóa.
+ละเมิด:lamoet|vi phạm, xâm phạm|เขา ละเมิด กฎหมาย|Anh ta vi phạm pháp luật.
+ลิขสิทธิ์:likkhasit|bản quyền|หนังสือ นี้ มี ลิขสิทธิ์|Quyển sách này có bản quyền.
+สิทธิบัตร:sitthibat|bằng sáng chế|บริษัท ขอ สิทธิบัตร|Công ty xin bằng sáng chế.
+กรรมสิทธิ์:kammasit|quyền sở hữu|เขา มี กรรมสิทธิ์ ใน ที่ดิน|Anh ấy có quyền sở hữu đất.
+พินัยกรรม:phinaikam|di chúc|ปู่ เขียน พินัยกรรม|Ông nội viết di chúc.
+ผู้เยาว์:phuyao|người chưa thành niên|ผู้เยาว์ ซื้อ เหล้า ไม่ ได้|Người chưa thành niên không được mua rượu.
+ผู้ปกครอง:phupokkhrong|người giám hộ, phụ huynh|ผู้ปกครอง มา ประชุม|Phụ huynh đến họp.
+บทลงโทษ:botlongthot|hình phạt|บทลงโทษ นี้ หนัก|Hình phạt này nặng.
+โทษประหาร:thotprahan|án tử hình|บาง ประเทศ มี โทษประหาร|Một số nước có án tử hình.
+ค่าเสียหาย:khasiahai|tiền bồi thường thiệt hại|บริษัท จ่าย ค่าเสียหาย|Công ty trả tiền bồi thường.
+ชดเชย:chotchoei|bồi thường, đền bù|รัฐบาล ชดเชย ให้ ชาวนา|Chính phủ đền bù cho nông dân.
+ไกล่เกลี่ย:klaiklia|hòa giải|ผู้ใหญ่บ้าน ไกล่เกลี่ย สอง ฝ่าย|Trưởng làng hòa giải hai bên.
+บังคับใช้:bangkhapchai|thi hành, áp dụng|รัฐบาล บังคับใช้ กฎหมาย ใหม่|Chính phủ thi hành luật mới.
+ยกเว้นภาษี:yokwenphasi|miễn thuế|สินค้า นี้ ยกเว้นภาษี|Mặt hàng này được miễn thuế.
+ถูกต้องตามกฎหมาย:thuktongtamkotmai|hợp pháp|ธุรกิจ นี้ ถูกต้องตามกฎหมาย|Việc kinh doanh này hợp pháp.
+@Tâm lý|Nội tâm và tính cách
+จิตวิทยา:chittawitthaya|tâm lý học|เธอ เรียน จิตวิทยา|Cô ấy học tâm lý học.
+จิตใจ:chitchai|tâm hồn, tinh thần|จิตใจ ของ เขา ดี|Tâm hồn anh ấy tốt.
+จิตสำนึก:chitsamnuek|ý thức, lương tri|เขา มี จิตสำนึก ดี|Anh ấy có ý thức tốt.
+สัญชาตญาณ:sanchattayan|bản năng|สัตว์ ใช้ สัญชาตญาณ|Động vật dùng bản năng.
+แรงจูงใจ:raengchungchai|động lực|เขา ขาด แรงจูงใจ|Anh ấy thiếu động lực.
+ความมั่นใจ:khwammanchai|sự tự tin|เธอ มี ความมั่นใจ สูง|Cô ấy có sự tự tin cao.
+ความภูมิใจ:khwamphumchai|niềm tự hào|ลูก เป็น ความภูมิใจ ของ แม่|Con là niềm tự hào của mẹ.
+ความอดทน:khwam-otthon|sự kiên nhẫn|ครู ต้อง มี ความอดทน|Giáo viên phải có sự kiên nhẫn.
+ความกล้าหาญ:khwamklahan|lòng dũng cảm|ทหาร มี ความกล้าหาญ|Người lính có lòng dũng cảm.
+ความเมตตา:khwammetta|lòng nhân từ|พระ สอน เรื่อง ความเมตตา|Nhà sư dạy về lòng nhân từ.
+ความอิจฉา:khwam-itcha|sự ghen tị|ความอิจฉา ทำให้ ไม่ มี ความสุข|Sự ghen tị làm ta không hạnh phúc.
+ความโลภ:khwamlop|lòng tham|ความโลภ ทำลาย คน|Lòng tham hủy hoại con người.
+ความเห็นแก่ตัว:khwamhenkaetua|sự ích kỷ|ความเห็นแก่ตัว ทำให้ เสีย เพื่อน|Sự ích kỷ làm mất bạn.
+ความวิตกกังวล:khwamwitokkangwon|sự lo âu|เธอ มี ความวิตกกังวล มาก|Cô ấy có nhiều lo âu.
+ความกดดัน:khwamkotdan|áp lực|นักเรียน มี ความกดดัน สูง|Học sinh chịu áp lực cao.
+ความเหงา:khwamngao|nỗi cô đơn|ผู้สูงอายุ มี ความเหงา|Người cao tuổi có nỗi cô đơn.
+ความผิดหวัง:khwamphitwang|sự thất vọng|ผม เข้าใจ ความผิดหวัง ของ คุณ|Tôi hiểu sự thất vọng của bạn.
+ความพอใจ:khwamphochai|sự hài lòng|ลูกค้า มี ความพอใจ สูง|Khách hàng có mức hài lòng cao.
+อารมณ์ขัน:aromkhan|khiếu hài hước|เขา มี อารมณ์ขัน|Anh ấy có khiếu hài hước.
+บุคลิกภาพ:bukkhalikkaphap|nhân cách, cá tính|บุคลิกภาพ ของ เธอ ดี|Nhân cách của cô ấy tốt.
+ทัศนคติ:thatsanakhati|thái độ, quan điểm|ทัศนคติ ที่ ดี สำคัญ|Thái độ tốt là quan trọng.
+มุมมอง:mummong|góc nhìn|เรา มี มุมมอง ต่างกัน|Chúng ta có góc nhìn khác nhau.
+อคติ:akhati|thành kiến|อย่า มี อคติ กับ คนอื่น|Đừng có thành kiến với người khác.
+จินตนาการ:chintanakan|trí tưởng tượng|เด็ก มี จินตนาการ มาก|Trẻ em có nhiều trí tưởng tượng.
+ความคิดสร้างสรรค์:khwamkhitsangsan|sự sáng tạo|งาน นี้ ต้อง ใช้ ความคิดสร้างสรรค์|Việc này cần sự sáng tạo.
+สติปัญญา:satipanya|trí tuệ|เด็ก คน นี้ มี สติปัญญา ดี|Đứa trẻ này có trí tuệ tốt.
+สติ:sati|sự tỉnh táo, chánh niệm|ขับ รถ ต้อง มี สติ|Lái xe phải tỉnh táo.
+พฤติกรรม:phruettikam|hành vi|พฤติกรรม ของ เด็ก เปลี่ยน|Hành vi của đứa trẻ thay đổi.
+ปมด้อย:pomdoi|mặc cảm tự ti|เขา มี ปมด้อย เรื่อง ส่วนสูง|Anh ấy mặc cảm về chiều cao.
+ซึมเศร้า:suemsao|u uất, trầm buồn|ช่วง นี้ เธอ ซึมเศร้า|Dạo này cô ấy u uất.
+หมกมุ่น:mokmun|mải mê, ám ảnh|เขา หมกมุ่น กับ เกม|Anh ấy mải mê với trò chơi.
+ปรับตัว:praptua|thích nghi|เด็ก ปรับตัว เร็ว|Trẻ em thích nghi nhanh.
+ควบคุมอารมณ์:khuapkhum-arom|kiềm chế cảm xúc|เขา ควบคุมอารมณ์ ไม่ ได้|Anh ấy không kiềm chế được cảm xúc.
+ให้กำลังใจ:haikamlangchai|động viên|เพื่อน ให้กำลังใจ ผม|Bạn bè động viên tôi.
+เห็นอกเห็นใจ:hen-okhenchai|cảm thông|เรา ควร เห็นอกเห็นใจ กัน|Chúng ta nên cảm thông cho nhau.
+ระแวง:rawaeng|nghi ngờ, ngờ vực|เธอ ระแวง ทุก คน|Cô ấy ngờ vực mọi người.
+ฮึกเหิม:huekhoem|hăng hái, phấn chấn|ทีม ของ เรา ฮึกเหิม มาก|Đội chúng tôi rất hăng hái.
+สำนึกผิด:samnuekphit|hối lỗi|เขา สำนึกผิด แล้ว|Anh ấy đã hối lỗi.

@@ -1,0 +1,59 @@
+=5
+@Triết học và logic|Trường phái, lập luận
+อภิปรัชญา:aphipratya|siêu hình học|เขา สนใจ อภิปรัชญา|Anh ấy quan tâm siêu hình học.
+ญาณวิทยา:yanawitthaya|nhận thức luận|อาจารย์ สอน ญาณวิทยา|Giảng viên dạy nhận thức luận.
+จริยศาสตร์:chariyasat|đạo đức học|นักศึกษา เรียน จริยศาสตร์|Sinh viên học đạo đức học.
+สุนทรียศาสตร์:sunthariyasat|mỹ học|ศิลปิน ศึกษา สุนทรียศาสตร์|Nghệ sĩ nghiên cứu mỹ học.
+ตรรกศาสตร์:takkasat|logic học|ตรรกศาสตร์ เป็น วิชา บังคับ|Logic học là môn bắt buộc.
+จิตนิยม:chitniyom|chủ nghĩa duy tâm|เพลโต เป็น นักปรัชญา จิตนิยม|Plato là triết gia duy tâm.
+เหตุผลนิยม:hetphonniyom|chủ nghĩa duy lý|เดการ์ต เป็น นักปรัชญา เหตุผลนิยม|Descartes là triết gia duy lý.
+ประสบการณ์นิยม:prasopkanniyom|chủ nghĩa kinh nghiệm|ล็อก สนับสนุน ประสบการณ์นิยม|Locke ủng hộ chủ nghĩa kinh nghiệm.
+อัตถิภาวนิยม:atthiphawaniyom|chủ nghĩa hiện sinh|ซาร์ตร์ เขียน เรื่อง อัตถิภาวนิยม|Sartre viết về chủ nghĩa hiện sinh.
+ประโยชน์นิยม:prayotniyom|chủ nghĩa vị lợi|มิลล์ อธิบาย ประโยชน์นิยม|Mill giải thích chủ nghĩa vị lợi.
+ปฏิบัตินิยม:patibatniyom|chủ nghĩa thực dụng|ปฏิบัตินิยม เกิด ใน อเมริกา|Chủ nghĩa thực dụng ra đời ở Mỹ.
+สุขนิยม:sukkhaniyom|chủ nghĩa khoái lạc|เขา ใช้ ชีวิต แบบ สุขนิยม|Anh ta sống theo chủ nghĩa khoái lạc.
+สุญนิยม:sunyaniyom|chủ nghĩa hư vô|นิตเช่ พูด ถึง สุญนิยม|Nietzsche nói về chủ nghĩa hư vô.
+ปัจเจกนิยม:patchekniyom|chủ nghĩa cá nhân|สังคม ตะวันตก เน้น ปัจเจกนิยม|Xã hội phương Tây đề cao chủ nghĩa cá nhân.
+สัมพัทธนิยม:samphatthaniyom|thuyết tương đối (triết học)|สัมพัทธนิยม บอก ว่า ความจริง ไม่ แน่นอน|Thuyết tương đối cho rằng chân lý không cố định.
+นิยัตินิยม:niyatiniyom|thuyết tất định|นิยัตินิยม ปฏิเสธ เจตจำนงเสรี|Thuyết tất định phủ nhận ý chí tự do.
+ทวินิยม:thawiniyom|nhị nguyên luận|ทวินิยม แยก กาย กับ จิต|Nhị nguyên luận tách thân và tâm.
+ข้อตั้ง:khotang|tiền đề|ข้อตั้ง นี้ ไม่ จริง|Tiền đề này không đúng.
+นิรนัย:niranai|suy diễn|นักคณิตศาสตร์ ใช้ วิธี นิรนัย|Nhà toán học dùng phép suy diễn.
+อุปนัย:uppanai|quy nạp|วิทยาศาสตร์ ใช้ วิธี อุปนัย|Khoa học dùng phép quy nạp.
+เหตุผลวิบัติ:hetphonwibat|ngụy biện|คำ พูด นั้น เป็น เหตุผลวิบัติ|Lời nói đó là ngụy biện.
+ปฏิทรรศน์:patithat|nghịch lý|นี่ เป็น ปฏิทรรศน์ ที่ มี ชื่อเสียง|Đây là một nghịch lý nổi tiếng.
+วิภาษวิธี:wiphatwithi|phép biện chứng|เฮเกล ใช้ วิภาษวิธี|Hegel dùng phép biện chứng.
+สัจพจน์:satchaphot|tiên đề|คณิตศาสตร์ เริ่ม จาก สัจพจน์|Toán học bắt đầu từ tiên đề.
+มโนทัศน์:manothat|khái niệm, quan niệm|มโนทัศน์ นี้ ใหม่ มาก|Khái niệm này rất mới.
+กระบวนทัศน์:krabuanthat|hệ hình, mô thức tư duy|วิทยาศาสตร์ เปลี่ยน กระบวนทัศน์|Khoa học thay đổi hệ hình.
+อัตวิสัย:attawisai|tính chủ quan|ความ งาม เป็น อัตวิสัย|Cái đẹp mang tính chủ quan.
+ภววิสัย:phawawisai|tính khách quan|ข่าว ต้อง มี ภววิสัย|Tin tức phải có tính khách quan.
+สารัตถะ:sarattha|bản chất cốt lõi|เรา ต้อง หา สารัตถะ ของ ปัญหา|Chúng ta phải tìm bản chất của vấn đề.
+ปรากฏการณ์วิทยา:prakotkanwitthaya|hiện tượng học|เธอ เขียน วิทยานิพนธ์ เรื่อง ปรากฏการณ์วิทยา|Cô ấy viết luận văn về hiện tượng học.
+สัญญาประชาคม:sanyaprachakhom|khế ước xã hội|รุสโซ เขียน เรื่อง สัญญาประชาคม|Rousseau viết về khế ước xã hội.
+@Chuyên khoa y|Khoa lâm sàng và xét nghiệm
+อายุรกรรม:ayurakam|nội khoa|ผู้ป่วย อยู่ แผนก อายุรกรรม|Bệnh nhân ở khoa nội.
+ศัลยกรรม:sanlayakam|ngoại khoa|หมอ ทำงาน แผนก ศัลยกรรม|Bác sĩ làm ở khoa ngoại.
+กุมารเวชกรรม:kumanwetchakam|nhi khoa|ลูก ไป แผนก กุมารเวชกรรม|Con đến khoa nhi.
+สูตินรีเวช:sutinariwet|sản phụ khoa|เธอ นัด หมอ สูตินรีเวช|Cô ấy hẹn bác sĩ sản phụ khoa.
+จักษุวิทยา:chaksuwitthaya|nhãn khoa|เขา เรียน ต่อ จักษุวิทยา|Anh ấy học tiếp nhãn khoa.
+โสตศอนาสิก:sotsonasik|tai mũi họng|แผนก โสตศอนาสิก อยู่ ชั้น สอง|Khoa tai mũi họng ở tầng hai.
+ตจวิทยา:tachawitthaya|da liễu|หมอ ตจวิทยา รักษา สิว|Bác sĩ da liễu chữa mụn.
+ออร์โธปิดิกส์:othopidik|chấn thương chỉnh hình|เขา ขา หัก ต้อง ไป ออร์โธปิดิกส์|Anh ấy gãy chân phải đến khoa chỉnh hình.
+ประสาทวิทยา:prasatwitthaya|thần kinh học|หมอ ประสาทวิทยา ตรวจ สมอง|Bác sĩ thần kinh khám não.
+วิสัญญีแพทย์:wisanyiphaet|bác sĩ gây mê|วิสัญญีแพทย์ ให้ ยาสลบ|Bác sĩ gây mê cho thuốc mê.
+รังสีแพทย์:rangsiphaet|bác sĩ X quang|รังสีแพทย์ อ่าน ฟิล์ม|Bác sĩ X quang đọc phim.
+พยาธิแพทย์:phayathiphaet|bác sĩ giải phẫu bệnh|พยาธิแพทย์ ตรวจ ชิ้น เนื้อ|Bác sĩ giải phẫu bệnh xét nghiệm mẫu mô.
+เวชศาสตร์ฉุกเฉิน:wetchasatchukchoen|y học cấp cứu|เธอ เป็น หมอ เวชศาสตร์ฉุกเฉิน|Cô ấy là bác sĩ y học cấp cứu.
+เวชศาสตร์ฟื้นฟู:wetchasatfuenfu|y học phục hồi chức năng|ผู้ป่วย ไป แผนก เวชศาสตร์ฟื้นฟู|Bệnh nhân đến khoa phục hồi chức năng.
+หออภิบาลผู้ป่วยหนัก:ho-aphibanphupuainak|khoa hồi sức tích cực|ปู่ อยู่ ใน หออภิบาลผู้ป่วยหนัก|Ông nội nằm trong khoa hồi sức tích cực.
+คลื่นไฟฟ้าหัวใจ:khluenfaifahuachai|điện tâm đồ|พยาบาล ตรวจ คลื่นไฟฟ้าหัวใจ|Y tá đo điện tâm đồ.
+เอกซเรย์คอมพิวเตอร์:ekserekhomphiotoe|chụp cắt lớp vi tính|หมอ สั่ง เอกซเรย์คอมพิวเตอร์ สมอง|Bác sĩ chỉ định chụp cắt lớp não.
+ตรวจปัสสาวะ:truatpatsawa|xét nghiệm nước tiểu|พยาบาล ให้ ตรวจปัสสาวะ|Y tá cho xét nghiệm nước tiểu.
+น้ำตาลในเลือด:namtannailueat|đường huyết|ยาย ตรวจ น้ำตาลในเลือด ทุก เช้า|Bà ngoại đo đường huyết mỗi sáng.
+ไขมันในเลือด:khaimannailueat|mỡ máu|พ่อ มี ไขมันในเลือด สูง|Bố bị mỡ máu cao.
+ผ่าตัดเปลี่ยนข้อเข่า:phatatpliankhokhao|mổ thay khớp gối|ยาย ผ่าตัดเปลี่ยนข้อเข่า|Bà ngoại mổ thay khớp gối.
+ผ่าตัดบายพาส:phatatbaiphat|mổ bắc cầu mạch vành|ลุง ต้อง ผ่าตัดบายพาส|Bác trai phải mổ bắc cầu mạch vành.
+ใส่ท่อช่วยหายใจ:saithochuaihaichai|đặt ống thở|หมอ ใส่ท่อช่วยหายใจ ให้ ผู้ป่วย|Bác sĩ đặt ống thở cho bệnh nhân.
+กู้ชีพ:kuchip|hồi sức cấp cứu|ทีม กู้ชีพ มา ถึง เร็ว|Đội cấp cứu đến nhanh.
+การรักษาแบบประคับประคอง:kanraksabaepprakhapprakhong|chăm sóc giảm nhẹ|ผู้ป่วย ได้ การรักษาแบบประคับประคอง|Bệnh nhân được chăm sóc giảm nhẹ.

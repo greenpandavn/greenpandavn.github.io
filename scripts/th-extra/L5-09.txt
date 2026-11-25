@@ -1,0 +1,66 @@
+=5
+@Quân sự|Quân hàm, vũ khí, tác chiến
+พลเอก:phon-ek|đại tướng|พลเอก คน นี้ เกษียณ แล้ว|Vị đại tướng này đã nghỉ hưu.
+พลโท:phontho|trung tướng|เขา ได้ เลื่อน เป็น พลโท|Ông ấy được thăng trung tướng.
+พลตรี:phontri|thiếu tướng|พลตรี มา ตรวจ ค่าย|Thiếu tướng đến kiểm tra doanh trại.
+พันเอก:phan-ek|đại tá|พ่อ ของ เธอ เป็น พันเอก|Bố cô ấy là đại tá.
+พันโท:phantho|trung tá|พันโท สั่ง ให้ ทหาร ถอย|Trung tá ra lệnh cho lính rút.
+พันตรี:phantri|thiếu tá|เขา เป็น พันตรี ตอน อายุ สามสิบ|Anh ấy là thiếu tá lúc ba mươi tuổi.
+ร้อยเอก:roi-ek|đại úy|ร้อยเอก นำ ทหาร เข้า ป่า|Đại úy dẫn lính vào rừng.
+ร้อยโท:roitho|trung úy|ร้อยโท คน ใหม่ มา ถึง แล้ว|Trung úy mới đã đến.
+ร้อยตรี:roitri|thiếu úy|เขา จบ มา เป็น ร้อยตรี|Anh ấy ra trường làm thiếu úy.
+จ่าสิบเอก:chasip-ek|thượng sĩ|จ่าสิบเอก ฝึก ทหาร ใหม่|Thượng sĩ huấn luyện tân binh.
+สิบเอก:sip-ek|trung sĩ|สิบเอก ยืน ยาม หน้า ค่าย|Trung sĩ đứng gác trước doanh trại.
+พลทหาร:phonthahan|binh nhì|พลทหาร ต้อง ตื่น เช้า|Binh nhì phải dậy sớm.
+ทหารเกณฑ์:thahanken|lính nghĩa vụ|น้องชาย เป็น ทหารเกณฑ์|Em trai là lính nghĩa vụ.
+กองพัน:kongphan|tiểu đoàn|กองพัน นี้ อยู่ ชายแดน|Tiểu đoàn này đóng ở biên giới.
+กองร้อย:kongroi|đại đội|กองร้อย เดิน ทั้ง คืน|Đại đội hành quân cả đêm.
+หมวด:muat|trung đội; mục, loại|หมวด ของ เขา มี สามสิบ คน|Trung đội của anh ấy có ba mươi người.
+กองบัญชาการ:kongbanchakan|bộ tư lệnh|กองบัญชาการ อยู่ ใน กรุงเทพ|Bộ tư lệnh ở Bangkok.
+เสนาธิการ:senathikan|tham mưu trưởng|เสนาธิการ วาง แผน รบ|Tham mưu trưởng lập kế hoạch tác chiến.
+ปืนเล็กยาว:puenlekyao|súng trường|ทหาร ถือ ปืนเล็กยาว|Lính cầm súng trường.
+ปืนกล:puenkon|súng máy|ปืนกล ยิง ไม่ หยุด|Súng máy bắn không ngừng.
+ปืนใหญ่:puenyai|pháo|ปืนใหญ่ ยิง ข้าม แม่น้ำ|Pháo bắn qua sông.
+ลูกระเบิดมือ:lukraboetmue|lựu đạn|ทหาร ขว้าง ลูกระเบิดมือ|Lính ném lựu đạn.
+ทุ่นระเบิด:thunraboet|mìn|ชายแดน ยัง มี ทุ่นระเบิด|Biên giới vẫn còn mìn.
+เรือบรรทุกเครื่องบิน:rueabanthukkhrueangbin|tàu sân bay|ไทย เคย มี เรือบรรทุกเครื่องบิน|Thái Lan từng có tàu sân bay.
+เครื่องบินขับไล่:khrueangbinkhaplai|máy bay tiêm kích|เครื่องบินขับไล่ บิน ผ่าน เมือง|Máy bay tiêm kích bay qua thành phố.
+เสื้อเกราะ:sueakro|áo giáp chống đạn|ตำรวจ ใส่ เสื้อเกราะ|Cảnh sát mặc áo chống đạn.
+สนามเพลาะ:sanamphlo|chiến hào|ทหาร ขุด สนามเพลาะ|Lính đào chiến hào.
+ซุ่มโจมตี:sumchomti|phục kích|ข้าศึก ซุ่มโจมตี ตอน กลางคืน|Quân địch phục kích ban đêm.
+@Tôn giáo so sánh|Hồi giáo, Kitô giáo, Ấn Độ giáo
+ศาสนาอิสลาม:satsana-itsalam|đạo Hồi|ภาคใต้ มี คน นับถือ ศาสนาอิสลาม มาก|Miền Nam có nhiều người theo đạo Hồi.
+มัสยิด:matsayit|thánh đường Hồi giáo|ชาวมุสลิม ไป มัสยิด วัน ศุกร์|Người Hồi giáo đến thánh đường vào thứ sáu.
+อิหม่าม:imam|giáo sĩ imam|อิหม่าม นำ ละหมาด|Imam dẫn lễ cầu nguyện.
+ละหมาด:lamat|lễ cầu nguyện (Hồi giáo)|เขา ละหมาด วัน ละ ห้า ครั้ง|Anh ấy cầu nguyện năm lần một ngày.
+ถือศีลอด:thuesin-ot|nhịn ăn (tháng Ramadan)|ชาวมุสลิม ถือศีลอด หนึ่ง เดือน|Người Hồi giáo nhịn ăn một tháng.
+อัลกุรอาน:ankura-an|kinh Koran|เด็ก เรียน อ่าน อัลกุรอาน|Trẻ em học đọc kinh Koran.
+ฮัจญ์:hat|lễ hành hương Hajj|ปู่ ไป ทำ ฮัจญ์ ที่ เมกกะ|Ông nội đi hành hương Hajj ở Mecca.
+ฮาลาล:halan|halal (hợp giáo luật Hồi giáo)|ร้าน นี้ ขาย อาหาร ฮาลาล|Quán này bán đồ ăn halal.
+ฮิญาบ:hiyap|khăn trùm đầu hijab|เธอ ใส่ ฮิญาบ ไป โรงเรียน|Cô ấy đội khăn hijab đi học.
+ศาสนาคริสต์:satsanakhrit|Kitô giáo|ครอบครัว นี้ นับถือ ศาสนาคริสต์|Gia đình này theo Kitô giáo.
+คาทอลิก:khathorik|Công giáo|โรงเรียน นี้ เป็น ของ คาทอลิก|Trường này của Công giáo.
+โปรเตสแตนต์:protesataen|Tin Lành|เขา เป็น คริสเตียน นิกาย โปรเตสแตนต์|Anh ấy là tín hữu hệ phái Tin Lành.
+พระคัมภีร์ไบเบิล:phrakhamphibaiboen|Kinh Thánh|เธอ อ่าน พระคัมภีร์ไบเบิล ทุก คืน|Cô ấy đọc Kinh Thánh mỗi tối.
+บาทหลวง:batluang|linh mục|บาทหลวง ทำ พิธี ใน โบสถ์|Linh mục làm lễ trong nhà thờ.
+ศิษยาภิบาล:sitsayaphiban|mục sư|ศิษยาภิบาล เทศน์ วัน อาทิตย์|Mục sư giảng vào chủ nhật.
+พระสันตะปาปา:phrasantapapa|Giáo hoàng|พระสันตะปาปา เสด็จ มา ไทย|Giáo hoàng đến thăm Thái Lan.
+ศีลล้างบาป:sinlangbap|phép rửa tội|ทารก รับ ศีลล้างบาป|Em bé chịu phép rửa tội.
+ไม้กางเขน:maikangkhen|thánh giá|บน โบสถ์ มี ไม้กางเขน|Trên nhà thờ có thánh giá.
+วันอีสเตอร์:wan-itsatoe|lễ Phục Sinh|ชาวคริสต์ ฉลอง วันอีสเตอร์|Người Kitô giáo mừng lễ Phục Sinh.
+ศาสนาพราหมณ์ฮินดู:satsanaphramhindu|Bà La Môn giáo, Ấn Độ giáo|ไทย รับ พิธี จาก ศาสนาพราหมณ์ฮินดู|Thái Lan tiếp nhận nghi lễ từ Ấn Độ giáo.
+พราหมณ์:phram|thầy Bà La Môn|พราหมณ์ ทำ พิธี ใน วัง|Thầy Bà La Môn làm lễ trong cung.
+พระพรหม:phraphrom|thần Brahma|คน ไทย ไหว้ พระพรหม|Người Thái lễ thần Brahma.
+พระวิษณุ:phrawitsanu|thần Vishnu|พระวิษณุ มี สี่ กร|Thần Vishnu có bốn tay.
+พระอิศวร:phra-isuan|thần Shiva|เทวาลัย นี้ บูชา พระอิศวร|Đền này thờ thần Shiva.
+พระพิฆเนศ:phraphikhanet|thần Ganesha|ศิลปิน บูชา พระพิฆเนศ|Nghệ sĩ thờ thần Ganesha.
+เทวาลัย:thewalai|đền thờ thần (Ấn Độ giáo)|เทวาลัย อยู่ ใกล้ ตลาด|Đền thần ở gần chợ.
+ศาสนาซิกข์:satsanasik|đạo Sikh|พาหุรัด มี วัด ศาสนาซิกข์|Phahurat có đền đạo Sikh.
+ลัทธิเต๋า:latthitao|Đạo giáo|ลัทธิเต๋า เกิด ใน จีน|Đạo giáo ra đời ở Trung Quốc.
+ลัทธิขงจื๊อ:latthikhongchue|Nho giáo|ลัทธิขงจื๊อ สอน เรื่อง ความ กตัญญู|Nho giáo dạy về lòng hiếu thảo.
+ศาลเจ้า:sanchao|miếu thờ (kiểu Hoa)|ยาย ไป ไหว้ ศาลเจ้า|Bà ngoại đi lễ miếu.
+พหุเทวนิยม:phahuthewaniyom|đa thần giáo|กรีก โบราณ นับถือ พหุเทวนิยม|Hy Lạp cổ theo đa thần giáo.
+เอกเทวนิยม:ekkathewaniyom|độc thần giáo|ศาสนาอิสลาม เป็น เอกเทวนิยม|Đạo Hồi là độc thần giáo.
+อเทวนิยม:athewaniyom|vô thần luận|เขา เชื่อ ใน อเทวนิยม|Anh ấy tin theo vô thần luận.
+ผู้เผยแผ่ศาสนา:phuphoeiphaesatsana|nhà truyền giáo|ผู้เผยแผ่ศาสนา มา จาก ยุโรป|Nhà truyền giáo đến từ châu Âu.
+เสรีภาพทางศาสนา:seriphapthangsatsana|tự do tôn giáo|รัฐธรรมนูญ รับรอง เสรีภาพทางศาสนา|Hiến pháp bảo đảm tự do tôn giáo.

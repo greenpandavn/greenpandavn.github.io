@@ -1,0 +1,75 @@
+=2
+@Khái niệm|Danh từ trừu tượng thường gặp
+ผล:phon|kết quả; quả|ผล สอบ ออก แล้ว|Kết quả thi đã có.
+สาเหตุ:sahet|nguyên nhân|สาเหตุ ของ ปัญหา คือ อะไร|Nguyên nhân của vấn đề là gì?
+วิธี:withi|cách, phương pháp|วิธี นี้ ง่าย|Cách này dễ.
+ระบบ:rabop|hệ thống|ระบบ นี้ ใหม่|Hệ thống này mới.
+ขั้นตอน:khanton|bước, quy trình|ขั้นตอน นี้ สำคัญ|Bước này quan trọng.
+สถานการณ์:sathanakan|tình hình|สถานการณ์ ดี ขึ้น|Tình hình tốt lên.
+เงื่อนไข:nguenkhai|điều kiện|เงื่อนไข นี้ ยาก|Điều kiện này khó.
+มาตรฐาน:mattrathan|tiêu chuẩn|สินค้า นี้ มี มาตรฐาน|Hàng hóa này đạt tiêu chuẩn.
+คุณภาพ:khunnaphap|chất lượng|คุณภาพ ของ สินค้า ดี|Chất lượng hàng hóa tốt.
+ปริมาณ:pariman|số lượng, lượng|ปริมาณ น้ำ ลดลง|Lượng nước giảm xuống.
+ระดับ:radap|mức độ, cấp độ|ระดับ น้ำ สูง ขึ้น|Mực nước cao lên.
+ประเภท:praphet|loại, thể loại|หนัง ประเภท นี้ สนุก|Thể loại phim này hay.
+ลักษณะ:laksana|đặc điểm, dáng vẻ|ลักษณะ ของ เขา ดี|Dáng vẻ của anh ấy tốt.
+รูปแบบ:rupbaep|hình thức, mô hình|รูปแบบ นี้ ทันสมัย|Hình thức này hiện đại.
+ความแตกต่าง:khwamtaektang|sự khác biệt|ความแตกต่าง นี้ ชัดเจน|Sự khác biệt này rõ ràng.
+ความสำคัญ:khwamsamkhan|tầm quan trọng|เขา เข้าใจ ความสำคัญ ของ เวลา|Anh ấy hiểu tầm quan trọng của thời gian.
+ความสำเร็จ:khwamsamret|sự thành công|ความสำเร็จ มา จาก ความ ขยัน|Thành công đến từ sự chăm chỉ.
+ความผิดพลาด:khwamphitphlat|sai sót|ทุก คน มี ความผิดพลาด|Ai cũng có sai sót.
+ความเสี่ยง:khwamsiang|rủi ro|ธุรกิจ นี้ มี ความเสี่ยง|Việc kinh doanh này có rủi ro.
+ความต้องการ:khwamtongkan|nhu cầu|ความต้องการ ของ ลูกค้า สูง|Nhu cầu của khách hàng cao.
+ความช่วยเหลือ:khwamchuailuea|sự giúp đỡ|ขอบคุณ สำหรับ ความช่วยเหลือ|Cảm ơn vì sự giúp đỡ.
+ความพยายาม:khwamphayayam|sự nỗ lực|ความพยายาม ของ เธอ ได้ ผล|Nỗ lực của cô ấy có kết quả.
+ความรับผิดชอบ:khwamrapphitchop|trách nhiệm|เขา มี ความรับผิดชอบ สูง|Anh ấy có trách nhiệm cao.
+ความเห็น:khwamhen|ý kiến, nhận xét|ผม ขอ ความเห็น ของ คุณ|Tôi xin ý kiến của bạn.
+ความทรงจำ:khwamsongcham|ký ức|นี่ เป็น ความทรงจำ ที่ ดี|Đây là ký ức đẹp.
+ประโยชน์:prayot|lợi ích|ผัก มี ประโยชน์ มาก|Rau có nhiều lợi ích.
+โทษ:thot|tác hại; hình phạt|บุหรี่:buri มี โทษ มาก|Thuốc lá có nhiều tác hại.
+บุหรี่:buri|thuốc lá|ห้าม สูบ:sup บุหรี่ ที่ นี่|Cấm hút thuốc ở đây.
+ผลกระทบ:phonkrathop|tác động, ảnh hưởng|มลพิษ มี ผลกระทบ ต่อ สุขภาพ|Ô nhiễm có tác động tới sức khỏe.
+แนวโน้ม:naeonom|xu hướng|แนวโน้ม ราคา สูง ขึ้น|Xu hướng giá tăng lên.
+ทางเลือก:thanglueak|lựa chọn (phương án)|เรา มี ทางเลือก สอง ทาง|Chúng ta có hai lựa chọn.
+ข้อดี:khodi|ưu điểm|แผน นี้ มี ข้อดี มาก|Kế hoạch này có nhiều ưu điểm.
+ข้อเสีย:khosia|nhược điểm|ข้อเสีย คือ ราคา แพง|Nhược điểm là giá đắt.
+ข้อตกลง:khotoklong|thỏa thuận|เรา มี ข้อตกลง ใหม่|Chúng tôi có thỏa thuận mới.
+หลักฐาน:lakthan|bằng chứng|ตำรวจ หา หลักฐาน|Cảnh sát tìm bằng chứng.
+รายละเอียด:railaiat|chi tiết|ขอ รายละเอียด เพิ่ม หน่อย|Cho tôi xin thêm chi tiết.
+@Từ nối và trạng từ|Liên kết ý trong câu
+อย่างไรก็ตาม:yangraikotam|tuy nhiên|อย่างไรก็ตาม เรา ต้อง พยายาม|Tuy nhiên chúng ta phải cố gắng.
+ดังนั้น:dangnan|vì vậy|ฝน ตก ดังนั้น ผม ไม่ ไป|Trời mưa, vì vậy tôi không đi.
+นอกจากนี้:nokchakni|ngoài ra|นอกจากนี้ เขา ยัง พูด จีน ได้|Ngoài ra anh ấy còn nói được tiếng Trung.
+ในขณะที่:naikhanathi|trong khi|ในขณะที่ ผม ทำงาน เขา นอน|Trong khi tôi làm việc thì anh ấy ngủ.
+แม้ว่า:maewa|mặc dù|แม้ว่า ฝน ตก เขา ก็ มา|Mặc dù trời mưa anh ấy vẫn đến.
+เพื่อ:phuea|để, nhằm|ผม เรียน เพื่อ อนาคต|Tôi học vì tương lai.
+โดยเฉพาะ:doichapho|đặc biệt là|ฉัน ชอบ ผลไม้ โดยเฉพาะ มะม่วง|Tôi thích hoa quả, đặc biệt là xoài.
+เช่น:chen|ví dụ như|ผม ชอบ กีฬา เช่น ฟุตบอล|Tôi thích thể thao, ví dụ như bóng đá.
+รวมทั้ง:ruamthang|bao gồm cả|ทุก คน มา รวมทั้ง ครู|Mọi người đều đến, kể cả giáo viên.
+ยกเว้น:yokwen|ngoại trừ|ร้าน เปิด ทุก วัน ยกเว้น วันจันทร์|Cửa hàng mở mỗi ngày trừ thứ Hai.
+แทน:thaen|thay cho|ผม ไป แทน เขา|Tôi đi thay anh ấy.
+ตามที่:tamthi|theo như|ตามที่ ครู บอก พรุ่งนี้ มี สอบ|Theo như giáo viên nói, ngày mai có thi.
+เนื่องจาก:nueangchak|do, bởi|เนื่องจาก ฝน ตก รถ จึง:chueng ติด|Do trời mưa nên xe bị kẹt.
+จึง:chueng|nên, do đó|เขา ป่วย จึง ไม่ มา|Anh ấy ốm nên không đến.
+ทั้งๆที่:thangthangthi|dù rằng|เขา มา ทั้งๆที่ ป่วย|Anh ấy đến dù đang ốm.
+มิฉะนั้น:michanan|nếu không thì|รีบ:rip ไป มิฉะนั้น จะ สาย|Đi nhanh lên, nếu không thì sẽ muộn.
+รีบ:rip|vội, nhanh lên|ผม รีบ ไป ทำงาน|Tôi vội đi làm.
+ค่อยๆ:khoikhoi|từ từ, dần dần|เขา ค่อยๆ เดิน|Anh ấy đi từ từ.
+ทันใดนั้น:thandainan|bỗng nhiên, ngay lúc đó|ทันใดนั้น ฝน ก็ ตก|Bỗng nhiên trời mưa.
+ในที่สุด:naithisut|cuối cùng thì|ในที่สุด เขา ก็ สอบผ่าน|Cuối cùng thì anh ấy cũng thi đỗ.
+อย่างน้อย:yangnoi|ít nhất|ผม นอน อย่างน้อย เจ็ด ชั่วโมง|Tôi ngủ ít nhất bảy tiếng.
+อย่างมาก:yangmak|nhiều nhất là|ใช้เวลา อย่างมาก สอง วัน|Mất nhiều nhất là hai ngày.
+ส่วนใหญ่:suanyai|phần lớn|คน ส่วนใหญ่ ชอบ ทะเล|Phần lớn mọi người thích biển.
+โดยทั่วไป:doithuapai|nói chung|โดยทั่วไป อาหาร ไทย เผ็ด|Nói chung món Thái cay.
+แน่นอนว่า:naenonwa|tất nhiên là|แน่นอนว่า ผม จะ ช่วย คุณ|Tất nhiên là tôi sẽ giúp bạn.
+บังเอิญ:bang-oen|tình cờ|ผม บังเอิญ เจอ เพื่อน เก่า|Tôi tình cờ gặp bạn cũ.
+ตั้งใจ:tangchai|cố ý; chăm chú|เขา ตั้งใจ เรียน มาก|Anh ấy học rất chăm chú.
+ด้วยตัวเอง:duaitua-eng|tự mình|เธอ ทำ การบ้าน ด้วยตัวเอง|Cô ấy tự làm bài tập.
+ซึ่งกันและกัน:suengkanlaekan|lẫn nhau|เรา ช่วย ซึ่งกันและกัน|Chúng ta giúp đỡ lẫn nhau.
+ตลอดไป:talotpai|mãi mãi|ผม จะ รัก คุณ ตลอดไป|Anh sẽ yêu em mãi mãi.
+เป็นประจำ:penpracham|thường xuyên, đều đặn|เขา ออกกำลังกาย เป็นประจำ|Anh ấy tập thể dục đều đặn.
+นานๆครั้ง:nannankhrang|lâu lâu một lần|ผม ไป ดู หนัง นานๆครั้ง|Lâu lâu tôi mới đi xem phim.
+ชั่วคราว:chuakhrao|tạm thời|ร้าน ปิด ชั่วคราว|Cửa hàng tạm thời đóng cửa.
+ถาวร:thawon|vĩnh viễn, lâu dài|เขา อยู่ ไทย ถาวร|Anh ấy ở Thái Lan lâu dài.
+ล่วงหน้า:luangna|trước (báo trước, đặt trước)|ช่วย บอก ผม ล่วงหน้า|Làm ơn báo trước cho tôi.
+ทันเวลา:thanwela|kịp giờ|เรา ไป ถึง ทันเวลา|Chúng tôi đến nơi kịp giờ.

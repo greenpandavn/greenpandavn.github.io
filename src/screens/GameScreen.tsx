@@ -1,6 +1,7 @@
 import { useEffect, useMemo, useRef, useState } from "react";
 import {
   COURSES,
+  isRoman,
   langName,
   LESSONS,
   getCourse,
@@ -265,7 +266,7 @@ function Round({
         data-match={q!.match}
       >
         <p
-          className={`break-words font-black text-ink-700 ${course === "en" ? "text-4xl" : course === "ko" ? "font-han text-5xl" : "font-han text-6xl"}`}
+          className={`break-words font-black text-ink-700 ${course === "en" ? "text-4xl" : course === "ko" || course === "th" ? "font-han text-5xl" : "font-han text-6xl"}`}
           data-testid="game-word"
         >
           {q!.word.hanzi}
@@ -274,7 +275,7 @@ function Round({
           kind={q!.kind}
           value={q!.shown}
           label={
-            course === "ko" || course === "ja"
+            isRoman(course)
               ? q!.kind === "pinyin"
                 ? "Phiên âm của từ này là"
                 : "Nghĩa của từ này là"

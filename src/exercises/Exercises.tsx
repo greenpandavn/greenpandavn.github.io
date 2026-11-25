@@ -248,7 +248,7 @@ export function TypeEx({ ex, difficulty, locked, setCheck, submit }: ExProps<Of<
         autoComplete="off"
         spellCheck={false}
         inputMode="text"
-        placeholder={en ? 'Gõ từ tiếng Anh' : roman() ? (getCourse() === 'ko' ? 'Ví dụ: hakgyo' : 'Ví dụ: gakkou') : 'Ví dụ: ni3 hao3 hoặc nǐ hǎo'}
+        placeholder={en ? 'Gõ từ tiếng Anh' : roman() ? (getCourse() === 'ko' ? 'Ví dụ: hakgyo' : getCourse() === 'th' ? 'Ví dụ: rongrian' : 'Ví dụ: gakkou') : 'Ví dụ: ni3 hao3 hoặc nǐ hǎo'}
         aria-label={en ? 'Nhập từ tiếng Anh' : roman() ? 'Nhập phiên âm' : 'Nhập pinyin'}
         className="w-full rounded-2xl border-2 border-cloud bg-mist px-4 py-4 text-center text-2xl font-extrabold text-ink-700 outline-none focus:border-sky-400"
       />

@@ -1,0 +1,66 @@
+=3
+@Nghề nghiệp chuyên môn|Chức danh và ngành nghề
+สถาปนิก:sathapanik|kiến trúc sư|สถาปนิก ออกแบบ บ้าน|Kiến trúc sư thiết kế nhà.
+นักบัญชีอาวุโส:nakbanchi-awuso|kế toán cấp cao|เขา เป็น นักบัญชีอาวุโส|Anh ấy là kế toán cấp cao.
+ผู้ตรวจสอบบัญชี:phutruatsopbanchi|kiểm toán viên|ผู้ตรวจสอบบัญชี มา บริษัท วันนี้|Kiểm toán viên đến công ty hôm nay.
+นักวิเคราะห์:nakwikhro|nhà phân tích|นักวิเคราะห์ ดู ตลาดหุ้น|Nhà phân tích theo dõi thị trường chứng khoán.
+ที่ปรึกษา:thiprueksa|cố vấn, tư vấn viên|บริษัท จ้าง ที่ปรึกษา|Công ty thuê cố vấn.
+นายหน้า:naina|người môi giới|นายหน้า ขาย บ้าน|Người môi giới bán nhà.
+ผู้รับเหมา:phurapmao|nhà thầu|ผู้รับเหมา สร้าง ตึก|Nhà thầu xây tòa nhà.
+ช่างเทคนิค:changtheknik|kỹ thuật viên|ช่างเทคนิค ซ่อม เครื่อง|Kỹ thuật viên sửa máy.
+ช่างไฟฟ้า:changfaifa|thợ điện|ช่างไฟฟ้า มา ซ่อม ไฟ|Thợ điện đến sửa điện.
+ช่างประปา:changprapa|thợ sửa ống nước|ช่างประปา ซ่อม ท่อ|Thợ nước sửa ống.
+ช่างไม้:changmai|thợ mộc|ช่างไม้ ทำ โต๊ะ|Thợ mộc đóng bàn.
+ช่างตัดเสื้อ:changtatsuea|thợ may|ช่างตัดเสื้อ ทำ ชุด ให้ ฉัน|Thợ may may đồ cho tôi.
+ช่างภาพ:changphap|nhiếp ảnh gia|ช่างภาพ ถ่ายรูป เจ้าสาว|Nhiếp ảnh gia chụp ảnh cô dâu.
+นักออกแบบ:nak-okbaep|nhà thiết kế|นักออกแบบ ทำ โลโก้:loko ใหม่|Nhà thiết kế làm logo mới.
+นักแปล:nakplae|dịch giả|นักแปล แปล หนังสือ เล่ม นี้|Dịch giả dịch quyển sách này.
+นักประวัติศาสตร์:nakprawattisat|nhà sử học|นักประวัติศาสตร์ ศึกษา อดีต|Nhà sử học nghiên cứu quá khứ.
+นักสังคมสงเคราะห์:naksangkhomsongkhro|nhân viên công tác xã hội|นักสังคมสงเคราะห์ ช่วย เด็ก|Nhân viên công tác xã hội giúp trẻ em.
+นักจิตวิทยา:nakchittawitthaya|nhà tâm lý học|นักจิตวิทยา คุย กับ ผู้ป่วย|Nhà tâm lý học nói chuyện với bệnh nhân.
+สัตวแพทย์:sattawaphaet|bác sĩ thú y|สัตวแพทย์ รักษา หมา|Bác sĩ thú y chữa cho chó.
+ทันตแพทย์:thantaphaet|bác sĩ nha khoa|ทันตแพทย์ ตรวจ ฟัน|Bác sĩ nha khoa khám răng.
+พยาบาลวิชาชีพ:phayabanwichachip|điều dưỡng chuyên nghiệp|เธอ เป็น พยาบาลวิชาชีพ|Cô ấy là điều dưỡng chuyên nghiệp.
+นักดับเพลิง:nakdapphloeng|lính cứu hỏa|นักดับเพลิง ดับ ไฟ|Lính cứu hỏa dập lửa.
+เจ้าหน้าที่กู้ภัย:chaonathikuphai|nhân viên cứu hộ|เจ้าหน้าที่กู้ภัย ช่วย ผู้บาดเจ็บ:phubatchep|Nhân viên cứu hộ giúp người bị thương.
+ยามรักษาการณ์:yamraksakan|bảo vệ (canh gác)|ยามรักษาการณ์ เปิด ประตู|Bảo vệ mở cổng.
+นักการทูต:nakkanthut|nhà ngoại giao|นักการทูต พูด หลาย ภาษา|Nhà ngoại giao nói nhiều thứ tiếng.
+นักการเมือง:nakkanmueang|chính trị gia|นักการเมือง พบ ประชาชน|Chính trị gia gặp người dân.
+ผู้พิทักษ์:phuphithak|người bảo vệ, người canh giữ|เขา เป็น ผู้พิทักษ์ ป่า|Anh ấy là người giữ rừng.
+ผู้อำนวยการ:phu-amnuaikan|giám đốc|ผู้อำนวยการ ประชุม อยู่|Giám đốc đang họp.
+ผู้ถือหุ้น:phuthuehun|cổ đông|ผู้ถือหุ้น ประชุม ปี ละ ครั้ง|Cổ đông họp mỗi năm một lần.
+กรรมการบริษัท:kammakanborisat|ủy viên hội đồng quản trị|เขา เป็น กรรมการบริษัท|Ông ấy là ủy viên hội đồng quản trị.
+พนักงานชั่วคราว:phanaknganchuakhrao|nhân viên tạm thời|ร้าน จ้าง พนักงานชั่วคราว|Cửa hàng thuê nhân viên tạm thời.
+เด็กฝึกงาน:dekfuekngan|thực tập sinh|เด็กฝึกงาน มา ใหม่ สอง คน|Có hai thực tập sinh mới đến.
+ฟรีแลนซ์:frilaen|người làm tự do|เธอ ทำงาน ฟรีแลนซ์|Cô ấy làm việc tự do.
+ผู้เกษียณ:phukasian|người nghỉ hưu|พ่อ เป็น ผู้เกษียณ แล้ว|Bố đã là người nghỉ hưu.
+@Nơi làm việc|Tổ chức và quy trình
+องค์กร:ongkon|tổ chức|องค์กร นี้ ช่วย เด็ก|Tổ chức này giúp trẻ em.
+สำนักงานใหญ่:samnaknganyai|trụ sở chính|สำนักงานใหญ่ อยู่ ที่ กรุงเทพ|Trụ sở chính ở Bangkok.
+สาขา:sakha|chi nhánh|ธนาคาร นี้ มี หลาย สาขา|Ngân hàng này có nhiều chi nhánh.
+ฝ่ายบุคคล:faibukkhon|phòng nhân sự|ผม ส่ง ใบสมัคร ที่ ฝ่ายบุคคล|Tôi nộp đơn ở phòng nhân sự.
+ฝ่ายบัญชี:faibanchi|phòng kế toán|ฝ่ายบัญชี จ่าย เงินเดือน|Phòng kế toán trả lương.
+ฝ่ายขาย:faikhai|phòng kinh doanh|ฝ่ายขาย มี ยี่สิบ คน|Phòng kinh doanh có hai mươi người.
+ฝ่ายผลิต:faiphalit|bộ phận sản xuất|ฝ่ายผลิต ทำงาน สาม กะ:ka|Bộ phận sản xuất làm ba ca.
+กะ:ka|ca làm việc|ผม ทำงาน กะ กลางคืน|Tôi làm ca đêm.
+เลื่อนตำแหน่ง:lueantamnaeng|thăng chức|เธอ ได้ เลื่อนตำแหน่ง|Cô ấy được thăng chức.
+ลาคลอด:lakhlot|nghỉ thai sản|เธอ ลาคลอด สาม เดือน|Cô ấy nghỉ thai sản ba tháng.
+เลิกจ้าง:loekchang|sa thải, cho thôi việc|โรงงาน เลิกจ้าง คน งาน|Nhà máy cho công nhân thôi việc.
+บำนาญ:bamnan|lương hưu|ปู่ ได้ บำนาญ ทุก เดือน|Ông nội nhận lương hưu hằng tháng.
+ประกันสังคม:prakansangkhom|bảo hiểm xã hội|พนักงาน ทุก คน มี ประกันสังคม|Mọi nhân viên đều có bảo hiểm xã hội.
+ทดลองงาน:thotlongngan|thử việc|เขา อยู่ ใน ช่วง ทดลองงาน|Anh ấy đang trong thời gian thử việc.
+ประเมินผลงาน:pramoenphonngan|đánh giá thành tích|หัวหน้า ประเมินผลงาน ทุก ปี|Cấp trên đánh giá thành tích hằng năm.
+วาระการประชุม:warakanprachum|chương trình cuộc họp|วาระการประชุม มี ห้า เรื่อง|Chương trình họp có năm nội dung.
+รายงานการประชุม:raingankanprachum|biên bản cuộc họp|เลขา เขียน รายงานการประชุม|Thư ký viết biên bản họp.
+กำหนดส่ง:kamnotsong|hạn nộp|กำหนดส่ง คือ วันศุกร์|Hạn nộp là thứ Sáu.
+เป้าหมายรายปี:paomairaipi|mục tiêu hằng năm|เรา ตั้ง เป้าหมายรายปี|Chúng tôi đặt mục tiêu hằng năm.
+ผลประกอบการ:phonprakopkan|kết quả kinh doanh|ผลประกอบการ ปี นี้ ดี|Kết quả kinh doanh năm nay tốt.
+ห่วงโซ่อุปทาน:huangso-upathan|chuỗi cung ứng|ห่วงโซ่อุปทาน มี ปัญหา|Chuỗi cung ứng gặp vấn đề.
+คลังสินค้า:khlangsinkha|kho hàng|สินค้า อยู่ ใน คลังสินค้า|Hàng ở trong kho.
+วัตถุดิบ:watthudip|nguyên liệu|ราคา วัตถุดิบ สูง ขึ้น|Giá nguyên liệu tăng lên.
+สายการผลิต:saikanphalit|dây chuyền sản xuất|โรงงาน เพิ่ม สายการผลิต|Nhà máy thêm dây chuyền sản xuất.
+ควบคุมคุณภาพ:khuapkhumkhunnaphap|kiểm soát chất lượng|เธอ ทำงาน ฝ่าย ควบคุมคุณภาพ|Cô ấy làm ở bộ phận kiểm soát chất lượng.
+ใบเสนอราคา:baisanoerakha|bảng báo giá|ช่วย ส่ง ใบเสนอราคา ด้วย|Làm ơn gửi bảng báo giá.
+ใบแจ้งหนี้:baichaengni|hóa đơn đòi tiền|บริษัท ส่ง ใบแจ้งหนี้ แล้ว|Công ty đã gửi hóa đơn.
+คู่ค้า:khukha|đối tác kinh doanh|เรา มี คู่ค้า ใน เวียดนาม|Chúng tôi có đối tác ở Việt Nam.
+ลูกค้าประจำ:lukkhapracham|khách quen|ร้าน นี้ มี ลูกค้าประจำ มาก|Cửa hàng này có nhiều khách quen.

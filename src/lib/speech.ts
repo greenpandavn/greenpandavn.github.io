@@ -2,15 +2,16 @@ import { unsupportedBrowser } from './browser';
 import { getCourse } from '../data';
 import type { CourseId } from '../types';
 
-export type SpeechLang = 'zh-CN' | 'en-US' | 'ko-KR' | 'ja-JP';
-export const COURSE_LANG: Record<CourseId, SpeechLang> = { zh: 'zh-CN', en: 'en-US', ko: 'ko-KR', ja: 'ja-JP' };
+export type SpeechLang = 'zh-CN' | 'en-US' | 'ko-KR' | 'ja-JP' | 'th-TH';
+export const COURSE_LANG: Record<CourseId, SpeechLang> = { zh: 'zh-CN', en: 'en-US', ko: 'ko-KR', ja: 'ja-JP', th: 'th-TH' };
 /** Name of the voice pack to install, as the system settings call it. */
-export const VOICE_PACK: Record<SpeechLang, string> = { 'zh-CN': 'Chinese (China)', 'en-US': 'English (United States)', 'ko-KR': 'Korean (South Korea)', 'ja-JP': 'Japanese (Japan)' };
+export const VOICE_PACK: Record<SpeechLang, string> = { 'zh-CN': 'Chinese (China)', 'en-US': 'English (United States)', 'ko-KR': 'Korean (South Korea)', 'ja-JP': 'Japanese (Japan)', 'th-TH': 'Thai (Thailand)' };
 
 let zhVoice: SpeechSynthesisVoice | null = null;
 let enVoice: SpeechSynthesisVoice | null = null;
 let koVoice: SpeechSynthesisVoice | null = null;
 let jaVoice: SpeechSynthesisVoice | null = null;
+let thVoice: SpeechSynthesisVoice | null = null;
 let voicesLoaded = false;
 
 function pickVoice() {
@@ -46,8 +47,9 @@ function pickVoice() {
   const byLang = (re: RegExp) => voices.filter((v) => re.test(v.lang)).sort((a, b) => Number(/google/i.test(b.name)) - Number(/google/i.test(a.name)))[0] ?? null;
   koVoice = byLang(/^ko([-_]|$)/i);
   jaVoice = byLang(/^ja([-_]|$)/i);
+  thVoice = byLang(/^th([-_]|$)/i);
 }
-const voiceOf = (lang: SpeechLang) => (lang === 'zh-CN' ? zhVoice : lang === 'ko-KR' ? koVoice : lang === 'ja-JP' ? jaVoice : enVoice);
+const voiceOf = (lang: SpeechLang) => (lang === 'zh-CN' ? zhVoice : lang === 'ko-KR' ? koVoice : lang === 'ja-JP' ? jaVoice : lang === 'th-TH' ? thVoice : enVoice);
 /** Is there a voice for this language (the active course's by default)? */
 export const hasVoice = (lang: SpeechLang = COURSE_LANG[getCourse()]) => {
   if (!voicesLoaded) pickVoice();
@@ -73,7 +75,9 @@ export const hasEnglishVoice = () => {
 export const speechLang = (text: string): SpeechLang =>
   /[\uac00-\ud7a3]/.test(text)
     ? 'ko-KR'
-    : /[\u3040-\u30ff]/.test(text)
+    : /[\u0e00-\u0e7f]/.test(text)
+      ? 'th-TH'
+      : /[\u3040-\u30ff]/.test(text)
       ? 'ja-JP'
       : /\p{Script=Han}/u.test(text)
         ? getCourse() === 'ja'

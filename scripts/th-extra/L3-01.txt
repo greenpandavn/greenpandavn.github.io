@@ -1,0 +1,62 @@
+=3
+@Kinh tế|Kinh doanh và thị trường
+เศรษฐศาสตร์:setthasat|kinh tế học|เธอ เรียน เศรษฐศาสตร์|Cô ấy học kinh tế học.
+อุตสาหกรรม:utsahakam|công nghiệp|อุตสาหกรรม นี้ เติบโต เร็ว|Ngành công nghiệp này tăng trưởng nhanh.
+เติบโต:toepto|tăng trưởng, lớn lên|เศรษฐกิจ เติบโต ช้า|Kinh tế tăng trưởng chậm.
+ถดถอย:thotthoi|suy thoái|เศรษฐกิจ ถดถอย ปี นี้|Kinh tế suy thoái năm nay.
+อุปสงค์:upasong|cầu (kinh tế)|อุปสงค์ ของ ตลาด ลดลง|Cầu của thị trường giảm.
+อุปทาน:upathan|cung (kinh tế)|อุปทาน น้ำมัน เพิ่ม ขึ้น|Nguồn cung dầu tăng lên.
+ผู้บริโภค:phuboriphok|người tiêu dùng|ผู้บริโภค ต้องการ สินค้า ดี|Người tiêu dùng cần hàng tốt.
+ผู้ผลิต:phuphalit|nhà sản xuất|ผู้ผลิต ขึ้น ราคา|Nhà sản xuất tăng giá.
+ผู้ประกอบการ:phuprakopkan|doanh nhân, chủ doanh nghiệp|เขา เป็น ผู้ประกอบการ รุ่น ใหม่|Anh ấy là doanh nhân thế hệ mới.
+นักลงทุน:naklongthun|nhà đầu tư|นักลงทุน สนใจ โครงการ นี้|Nhà đầu tư quan tâm dự án này.
+ต้นทุน:tonthun|chi phí sản xuất, giá vốn|ต้นทุน สูง เกินไป|Chi phí sản xuất cao quá.
+รายรับ:rairap|khoản thu|รายรับ ของ ร้าน เพิ่ม ขึ้น|Khoản thu của cửa hàng tăng lên.
+ยอดขาย:yotkhai|doanh số|ยอดขาย เดือน นี้ ดี|Doanh số tháng này tốt.
+ส่วนแบ่ง:suanbaeng|thị phần, phần chia|บริษัท มี ส่วนแบ่ง ตลาด มาก|Công ty có thị phần lớn.
+คู่แข่ง:khukhaeng|đối thủ cạnh tranh|คู่แข่ง ลดราคา|Đối thủ giảm giá.
+การตลาด:kantalat|tiếp thị|เธอ ทำงาน ฝ่าย การตลาด|Cô ấy làm ở bộ phận tiếp thị.
+แบรนด์:braen|thương hiệu|แบรนด์ นี้ ดัง มาก|Thương hiệu này rất nổi tiếng.
+กลยุทธ์:konlayut|chiến lược|บริษัท เปลี่ยน กลยุทธ์|Công ty thay đổi chiến lược.
+ภาษีนำเข้า:phasinamkhao|thuế nhập khẩu|ภาษีนำเข้า สูง มาก|Thuế nhập khẩu rất cao.
+สกุลเงิน:sakunngoen|đơn vị tiền tệ|บาท เป็น สกุลเงิน ของ ไทย|Baht là đơn vị tiền tệ của Thái Lan.
+งบดุล:ngopdun|bảng cân đối kế toán|นักบัญชี ทำ งบดุล|Kế toán lập bảng cân đối.
+ขาดดุล:khatdun|thâm hụt|ประเทศ ขาดดุล การค้า|Đất nước thâm hụt thương mại.
+เกินดุล:koendun|thặng dư|ไทย เกินดุล การค้า|Thái Lan thặng dư thương mại.
+ควบรวม:khuapruam|sáp nhập|สอง ธนาคาร ควบรวม กัน|Hai ngân hàng sáp nhập với nhau.
+ผูกขาด:phukkhat|độc quyền|บริษัท นี้ ผูกขาด ตลาด|Công ty này độc quyền thị trường.
+แรงงาน:raeng-ngan|lao động (lực lượng)|โรงงาน ขาด แรงงาน|Nhà máy thiếu lao động.
+ว่างงาน:wang-ngan|thất nghiệp|คน ว่างงาน เพิ่ม ขึ้น|Người thất nghiệp tăng lên.
+รายได้ต่อหัว:raidaitohua|thu nhập bình quân đầu người|รายได้ต่อหัว เพิ่ม ขึ้น|Thu nhập bình quân đầu người tăng lên.
+@Chính trị|Nhà nước và xã hội
+ประชาธิปไตย:prachathippatai|dân chủ|ประเทศ นี้ เป็น ประชาธิปไตย|Nước này là nước dân chủ.
+รัฐธรรมนูญ:ratthathammanun|hiến pháp|รัฐธรรมนูญ ใหม่ มีผล แล้ว|Hiến pháp mới đã có hiệu lực.
+อำนาจ:amnat|quyền lực|เขา มี อำนาจ มาก|Ông ấy có nhiều quyền lực.
+สิทธิมนุษยชน:sitthimanutsayachon|nhân quyền|ทุก คน มี สิทธิมนุษยชน|Mọi người đều có nhân quyền.
+เรียกร้อง:riakrong|đòi hỏi, yêu sách|คน งาน เรียกร้อง ค่าแรง|Công nhân đòi tiền công.
+ฝ่ายค้าน:faikhan|phe đối lập|ฝ่ายค้าน ไม่ เห็นด้วย|Phe đối lập không đồng tình.
+ผู้แทน:phuthaen|đại biểu, người đại diện|ประชาชน เลือก ผู้แทน|Người dân bầu đại biểu.
+ผู้นำ:phunam|nhà lãnh đạo|ผู้นำ ต้อง ซื่อสัตย์|Nhà lãnh đạo phải trung thực.
+ประธานาธิบดี:prathanathibodi|tổng thống|ประธานาธิบดี มา เยือน:yuean ไทย|Tổng thống đến thăm Thái Lan.
+เอกอัครราชทูต:ek-akkhraratchathut|đại sứ|เอกอัครราชทูต พูด ไทย ได้|Đại sứ nói được tiếng Thái.
+การทูต:kanthut|ngoại giao|เขา ทำงาน ด้าน การทูต|Anh ấy làm trong ngành ngoại giao.
+สนธิสัญญา:sonthisanya|hiệp ước|สอง ประเทศ ลงนาม สนธิสัญญา|Hai nước ký hiệp ước.
+ลงนาม:longnam|ký kết|ผู้นำ ลงนาม ข้อตกลง|Lãnh đạo ký kết thỏa thuận.
+เจรจา:cheracha|đàm phán|สอง ฝ่าย เจรจา กัน|Hai bên đàm phán với nhau.
+ความขัดแย้ง:khwamkhatyaeng|xung đột|ความขัดแย้ง นี้ รุนแรง|Xung đột này gay gắt.
+สงคราม:songkhram|chiến tranh|ไม่ มี ใคร ชอบ สงคราม|Không ai thích chiến tranh.
+สันติภาพ:santiphap|hòa bình|โลก ต้องการ สันติภาพ|Thế giới cần hòa bình.
+ผู้ลี้ภัย:phuliphai|người tị nạn|ผู้ลี้ภัย ต้องการ ความช่วยเหลือ|Người tị nạn cần sự giúp đỡ.
+อธิปไตย:athippatai|chủ quyền|ทุก ประเทศ มี อธิปไตย|Mọi quốc gia đều có chủ quyền.
+รัฐประหาร:ratthaprahan|đảo chính|ประเทศ นี้ เคย มี รัฐประหาร|Nước này từng có đảo chính.
+ปฏิรูป:patirup|cải cách|รัฐบาล ปฏิรูป การศึกษา|Chính phủ cải cách giáo dục.
+ร่างกฎหมาย:rangkotmai|dự luật|รัฐสภา ผ่าน ร่างกฎหมาย|Quốc hội thông qua dự luật.
+งบประมาณแผ่นดิน:ngoppramanphaendin|ngân sách nhà nước|รัฐบาล เสนอ งบประมาณแผ่นดิน|Chính phủ trình ngân sách nhà nước.
+สวัสดิการ:sawatdikan|phúc lợi|บริษัท นี้ มี สวัสดิการ ดี|Công ty này có phúc lợi tốt.
+ประชามติ:prachamati|trưng cầu dân ý|รัฐบาล จัด ประชามติ|Chính phủ tổ chức trưng cầu dân ý.
+คอร์รัปชัน:khorapchan|nạn tham nhũng|คอร์รัปชัน เป็น ปัญหา ใหญ่|Tham nhũng là vấn đề lớn.
+ความโปร่งใส:khwamprongsai|sự minh bạch|ประชาชน ต้องการ ความโปร่งใส|Người dân cần sự minh bạch.
+พลเมือง:phonlamueang|công dân|พลเมือง ต้อง เสีย ภาษี|Công dân phải nộp thuế.
+ชนกลุ่มน้อย:chonklumnoi|dân tộc thiểu số|ภาคเหนือ:phaknuea มี ชนกลุ่มน้อย มาก|Miền Bắc có nhiều dân tộc thiểu số.
+อุดมการณ์:udomkan|lý tưởng, hệ tư tưởng|เขา มี อุดมการณ์ ชัดเจน|Anh ấy có lý tưởng rõ ràng.
+หน้าที่พลเมือง:nathiphonlamueang|nghĩa vụ công dân|เลือกตั้ง เป็น หน้าที่พลเมือง|Bầu cử là nghĩa vụ công dân.

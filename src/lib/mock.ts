@@ -832,6 +832,172 @@ export const MOCK_SPECS: MockSpec[] = [
       { id: "reading", parts: [{ type: "rd-passage", count: 20 }] },
     ],
   },
+  // Thai (v5.6.0): one paper per level, same three sections as the JLPT papers.
+  {
+    id: "th1",
+    course: "th",
+    title: "Tiếng Thái Sơ cấp",
+    level: 1,
+    minutes: 45,
+    pass: 135,
+    sections: [
+      {
+        id: "vocab",
+        parts: [
+          { type: "r-word-tf", count: 5 },
+          { type: "r-pinyin", count: 5 },
+          { type: "r-meaning-word", count: 5 },
+        ],
+      },
+      {
+        id: "reading",
+        parts: [
+          { type: "r-sent-meaning", count: 10 },
+          { type: "w-arrange", count: 5 },
+        ],
+      },
+      {
+        id: "listening",
+        parts: [
+          { type: "l-word-meaning", count: 5 },
+          { type: "l-word-hanzi", count: 5 },
+          { type: "l-sent-meaning", count: 5 },
+        ],
+      },
+    ],
+  },
+  {
+    id: "th2",
+    course: "th",
+    title: "Tiếng Thái Trung cấp",
+    level: 2,
+    minutes: 60,
+    pass: 150,
+    sections: [
+      {
+        id: "vocab",
+        parts: [
+          { type: "r-word-tf", count: 5 },
+          { type: "r-pinyin", count: 5 },
+          { type: "r-meaning-word", count: 10 },
+        ],
+      },
+      {
+        id: "reading",
+        parts: [
+          { type: "r-sent-meaning", count: 15 },
+          { type: "w-arrange", count: 5 },
+        ],
+      },
+      {
+        id: "listening",
+        parts: [
+          { type: "l-word-meaning", count: 5 },
+          { type: "l-word-hanzi", count: 5 },
+          { type: "l-sent-meaning", count: 10 },
+        ],
+      },
+    ],
+  },
+  {
+    id: "th3",
+    course: "th",
+    title: "Tiếng Thái Nâng cao",
+    level: 3,
+    minutes: 75,
+    pass: 150,
+    sections: [
+      {
+        id: "vocab",
+        parts: [
+          { type: "r-word-tf", count: 5 },
+          { type: "r-pinyin", count: 10 },
+          { type: "r-meaning-word", count: 10 },
+        ],
+      },
+      {
+        id: "reading",
+        parts: [
+          { type: "r-sent-meaning", count: 15 },
+          { type: "w-arrange", count: 10 },
+        ],
+      },
+      {
+        id: "listening",
+        parts: [
+          { type: "l-word-meaning", count: 10 },
+          { type: "l-word-hanzi", count: 5 },
+          { type: "l-sent-meaning", count: 10 },
+        ],
+      },
+    ],
+  },
+  {
+    id: "th4",
+    course: "th",
+    title: "Tiếng Thái Thành thạo",
+    level: 4,
+    minutes: 90,
+    pass: 160,
+    sections: [
+      {
+        id: "vocab",
+        parts: [
+          { type: "r-word-tf", count: 5 },
+          { type: "r-pinyin", count: 10 },
+          { type: "r-meaning-word", count: 15 },
+        ],
+      },
+      {
+        id: "reading",
+        parts: [
+          { type: "r-sent-meaning", count: 20 },
+          { type: "w-arrange", count: 10 },
+        ],
+      },
+      {
+        id: "listening",
+        parts: [
+          { type: "l-word-meaning", count: 10 },
+          { type: "l-word-hanzi", count: 10 },
+          { type: "l-sent-meaning", count: 10 },
+        ],
+      },
+    ],
+  },
+  {
+    id: "th5",
+    course: "th",
+    title: "Tiếng Thái Chuyên sâu",
+    level: 5,
+    minutes: 105,
+    pass: 170,
+    sections: [
+      {
+        id: "vocab",
+        parts: [
+          { type: "r-word-tf", count: 5 },
+          { type: "r-pinyin", count: 15 },
+          { type: "r-meaning-word", count: 15 },
+        ],
+      },
+      {
+        id: "reading",
+        parts: [
+          { type: "r-sent-meaning", count: 20 },
+          { type: "w-arrange", count: 15 },
+        ],
+      },
+      {
+        id: "listening",
+        parts: [
+          { type: "l-word-meaning", count: 10 },
+          { type: "l-word-hanzi", count: 10 },
+          { type: "l-sent-meaning", count: 15 },
+        ],
+      },
+    ],
+  },
 ];
 
 const PART_TITLE: Record<PartType, string> = {
@@ -855,6 +1021,7 @@ const LANG: Record<CourseId, string> = {
   en: "tiếng Anh",
   ko: "tiếng Hàn",
   ja: "tiếng Nhật",
+  th: "tiếng Thái",
 };
 const partTitle = (type: PartType, course: CourseId) =>
   type === "r-meaning-word"
@@ -889,6 +1056,8 @@ export const mockName = (course: CourseId) =>
       ? "Thi thử TOPIK"
       : course === "ja"
         ? "Thi thử JLPT"
+        : course === "th"
+          ? "Thi thử tiếng Thái"
         : "Thi thử HSK";
 
 const TF = ["Đúng", "Sai"];

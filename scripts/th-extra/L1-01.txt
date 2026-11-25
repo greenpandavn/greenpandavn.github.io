@@ -1,0 +1,215 @@
+=1
+@Chào hỏi|Lời chào và phép lịch sự
+สวัสดี:sawatdi|xin chào|สวัสดี ครับ คุณ ครู|Em chào thầy ạ.
+ขอบคุณ:khopkhun|cảm ơn|ขอบคุณ มาก ค่ะ|Cảm ơn nhiều ạ.
+ขอโทษ:khothot|xin lỗi|ขอโทษ ครับ ผม มา สาย|Xin lỗi, tôi đến muộn.
+ไม่เป็นไร:maipenrai|không sao đâu|ไม่เป็นไร ค่ะ|Không sao đâu ạ.
+ยินดี:yindi|vui mừng, hân hạnh|ยินดี ที่ ได้ รู้จัก|Rất vui được làm quen.
+ลาก่อน:lakon|tạm biệt|ลาก่อน นะ เพื่อน|Tạm biệt nhé bạn.
+ชื่อ:chue|tên|ผม ชื่อ สมชาย|Tôi tên là Somchai.
+รู้จัก:ruchak|quen biết|ฉัน รู้จัก เขา|Tôi quen anh ấy.
+สบายดี:sabaidi|khỏe, ổn|คุณ สบายดี ไหม|Bạn có khỏe không?
+พบ:phop|gặp|พบ กัน:kan ใหม่ นะ|Hẹn gặp lại nhé.
+เชิญ:choen|xin mời|เชิญ นั่ง ครับ|Xin mời ngồi.
+โชคดี:chokdi|chúc may mắn|ขอ ให้ โชคดี นะ|Chúc bạn may mắn nhé.
+@Con người|Đại từ và người xung quanh
+ผม:phom|tôi (nam nói)|ผม เป็น นักเรียน|Tôi là học sinh.
+ฉัน:chan|tôi (nữ hoặc thân mật)|ฉัน ชอบ แมว|Tôi thích mèo.
+คุณ:khun|bạn, anh, chị (lịch sự)|คุณ มา จาก ไหน:nai|Bạn đến từ đâu?
+เขา:khao|anh ấy, cô ấy|เขา เป็น หมอ|Anh ấy là bác sĩ.
+เรา:rao|chúng ta, chúng tôi|เรา เป็น เพื่อน กัน|Chúng ta là bạn của nhau.
+คน:khon|người|คน นี้ ใจดี|Người này tốt bụng.
+เพื่อน:phuean|bạn bè|เพื่อน ของ ฉัน ชื่อ มาลี|Bạn của tôi tên là Mali.
+ผู้ชาย:phuchai|đàn ông, con trai|ผู้ชาย คน นั้น สูง|Người đàn ông đó cao.
+ผู้หญิง:phuying|phụ nữ, con gái|ผู้หญิง คน นี้ สวย|Người phụ nữ này đẹp.
+เด็ก:dek|trẻ em|เด็ก กำลัง เล่น|Đứa trẻ đang chơi.
+ผู้ใหญ่:phuyai|người lớn|ผู้ใหญ่ ต้อง ทำงาน|Người lớn phải làm việc.
+ใคร:khrai|ai|ใคร อยู่ ใน ห้อง|Ai ở trong phòng?
+@Gia đình|Người thân trong nhà
+ครอบครัว:khropkhrua|gia đình|ครอบครัว ของ ผม มี สี่ คน|Gia đình tôi có bốn người.
+พ่อ:pho|bố|พ่อ ทำงาน ที่ ธนาคาร|Bố làm việc ở ngân hàng.
+แม่:mae|mẹ|แม่ ทำ อาหาร อร่อย|Mẹ nấu ăn ngon.
+พี่ชาย:phichai|anh trai|พี่ชาย ของ ฉัน เป็น ครู|Anh trai tôi là giáo viên.
+พี่สาว:phisao|chị gái|พี่สาว อยู่ ที่ กรุงเทพ|Chị gái ở Bangkok.
+น้องชาย:nongchai|em trai|น้องชาย ชอบ ฟุตบอล|Em trai thích bóng đá.
+น้องสาว:nongsao|em gái|น้องสาว ไป โรงเรียน|Em gái đi học.
+ลูก:luk|con (của bố mẹ)|เขา มี ลูก สอง คน|Anh ấy có hai người con.
+ปู่:pu|ông nội|ปู่ อายุ แปด สิบ ปี|Ông nội tám mươi tuổi.
+ย่า:ya|bà nội|ย่า อยู่ ที่ บ้าน|Bà nội ở nhà.
+ตา:ta|ông ngoại|ตา ชอบ อ่าน หนังสือพิมพ์|Ông ngoại thích đọc báo.
+ยาย:yai|bà ngoại|ยาย ทำ ขนม|Bà ngoại làm bánh.
+สามี:sami|chồng|สามี ของ เธอ เป็น ตำรวจ|Chồng cô ấy là cảnh sát.
+ภรรยา:phanraya|vợ|ภรรยา ของ เขา ใจดี|Vợ anh ấy tốt bụng.
+ลูกชาย:lukchai|con trai (của bố mẹ)|ลูกชาย ของ ฉัน อายุ ห้า ปี|Con trai tôi năm tuổi.
+ลูกสาว:luksao|con gái (của bố mẹ)|ลูกสาว ของ เขา น่ารัก|Con gái anh ấy dễ thương.
+ลุง:lung|bác trai|ลุง ขับ รถ แท็กซี่|Bác trai lái xe taxi.
+ป้า:pa|bác gái|ป้า ขาย ผลไม้|Bác gái bán hoa quả.
+น้า:na|cậu, dì (em của mẹ)|น้า มา เยี่ยม เรา|Dì đến thăm chúng tôi.
+อา:a|chú, cô (em của bố)|อา อยู่ ที่ เชียงใหม่|Chú ở Chiang Mai.
+หลาน:lan|cháu|ยาย รัก หลาน มาก|Bà ngoại rất thương cháu.
+ญาติ:yat|họ hàng|ญาติ ของ ผม อยู่ ที่ นี่|Họ hàng của tôi ở đây.
+แฟน:faen|người yêu|แฟน ของ เขา เป็น คน ไทย|Người yêu anh ấy là người Thái.
+พี่น้อง:phinong|anh chị em|ฉัน มี พี่น้อง สาม คน|Tôi có ba anh chị em.
+@Số đếm|Các con số cơ bản
+ศูนย์:sun|số không|เบอร์ นี้ มี ศูนย์ สอง ตัว|Số này có hai chữ số không.
+หนึ่ง:nueng|một|ขอ น้ำ หนึ่ง แก้ว|Cho tôi một cốc nước.
+สอง:song|hai|ฉัน มี แมว สอง ตัว|Tôi có hai con mèo.
+สาม:sam|ba|เขา มี รถ สาม คัน|Anh ấy có ba chiếc xe.
+สี่:si|bốn|โต๊ะ มี สี่ ขา|Cái bàn có bốn chân.
+ห้า:ha|năm (số 5)|ผม ซื้อ ส้ม ห้า ลูก|Tôi mua năm quả cam.
+หก:hok|sáu|เรา เรียน หก วัน|Chúng tôi học sáu ngày.
+เจ็ด:chet|bảy|สัปดาห์ หนึ่ง มี เจ็ด วัน|Một tuần có bảy ngày.
+แปด:paet|tám|ร้าน เปิด แปด โมง|Cửa hàng mở lúc tám giờ.
+เก้า:kao|chín (số 9)|เขา มี หนังสือ เก้า เล่ม|Anh ấy có chín quyển sách.
+สิบ:sip|mười|ฉัน มี เงิน สิบ บาท|Tôi có mười baht.
+ยี่สิบ:yisip|hai mươi|เขา อายุ ยี่สิบ ปี|Anh ấy hai mươi tuổi.
+ร้อย:roi|một trăm|เสื้อ ตัว นี้ ร้อย บาท|Cái áo này một trăm baht.
+พัน:phan|một nghìn|ตั๋ว ราคา พัน บาท|Vé giá một nghìn baht.
+หมื่น:muen|mười nghìn|เขา มี เงิน หมื่น บาท|Anh ấy có mười nghìn baht.
+แสน:saen|một trăm nghìn|รถ คัน นี้ ราคา ห้า แสน บาท|Chiếc xe này giá năm trăm nghìn baht.
+ล้าน:lan|một triệu|บ้าน หลัง นี้ ราคา สาม ล้าน บาท|Ngôi nhà này giá ba triệu baht.
+ครึ่ง:khrueng|một nửa|ขอ ข้าว ครึ่ง จาน|Cho tôi nửa đĩa cơm.
+เบอร์:boe|số (điện thoại, số thứ tự)|เบอร์ โทรศัพท์ ของ คุณ คือ อะไร|Số điện thoại của bạn là gì?
+เลข:lek|con số|ฉัน ชอบ เลข เก้า|Tôi thích số chín.
+นับ:nap|đếm|เด็ก นับ หนึ่ง ถึง สิบ|Đứa trẻ đếm từ một đến mười.
+ที่หนึ่ง:thinueng|thứ nhất|เขา สอบ ได้ ที่หนึ่ง|Cậu ấy thi đứng thứ nhất.
+คู่:khu|đôi, cặp|ฉัน ซื้อ รองเท้า หนึ่ง คู่|Tôi mua một đôi giày.
+โหล:lo|một tá|แม่ ซื้อ ไข่ หนึ่ง โหล|Mẹ mua một tá trứng.
+@Thời gian|Ngày, giờ và các buổi
+วัน:wan|ngày|วัน นี้ อากาศ ดี|Hôm nay thời tiết đẹp.
+วันนี้:wanni|hôm nay|วันนี้ ฉัน ไม่ ไป ทำงาน|Hôm nay tôi không đi làm.
+พรุ่งนี้:phrungni|ngày mai|พรุ่งนี้ เรา จะ ไป ทะเล|Ngày mai chúng ta sẽ đi biển.
+เมื่อวาน:mueawan|hôm qua|เมื่อวาน ฝน ตก|Hôm qua trời mưa.
+เช้า:chao|buổi sáng|ฉัน ตื่น เช้า ทุก วัน|Tôi dậy sớm mỗi ngày.
+เที่ยง:thiang|buổi trưa|เรา กิน ข้าว ตอน:ton เที่ยง|Chúng tôi ăn cơm vào buổi trưa.
+บ่าย:bai|buổi chiều|ตอน บ่าย ผม มี ประชุม|Buổi chiều tôi có cuộc họp.
+เย็น:yen|buổi chiều tối; mát|ตอน เย็น เขา ไป วิ่ง|Chiều tối anh ấy đi chạy bộ.
+กลางคืน:klangkhuen|ban đêm|กลางคืน ที่ นี่ เงียบ|Ban đêm ở đây yên tĩnh.
+กลางวัน:klangwan|ban ngày|กลางวัน อากาศ ร้อน|Ban ngày thời tiết nóng.
+เวลา:wela|thời gian|ผม ไม่ มี เวลา|Tôi không có thời gian.
+ชั่วโมง:chuamong|giờ đồng hồ, tiếng|ฉัน เรียน สอง ชั่วโมง|Tôi học hai tiếng.
+นาที:nathi|phút|รอ ห้า นาที นะ|Đợi năm phút nhé.
+วินาที:winathi|giây|หนึ่ง นาที มี หก สิบ วินาที|Một phút có sáu mươi giây.
+โมง:mong|giờ (chỉ giờ ban ngày)|ตอน นี้ สิบ โมง|Bây giờ là mười giờ.
+สัปดาห์:sapda|tuần|สัปดาห์ นี้ ฉัน ยุ่ง|Tuần này tôi bận.
+เดือน:duean|tháng|เดือน นี้ ฝน ตก มาก|Tháng này mưa nhiều.
+ปี:pi|năm (thời gian)|ปี นี้ ผม จะ ไป ญี่ปุ่น|Năm nay tôi sẽ đi Nhật.
+ตอนนี้:tonni|bây giờ|ตอนนี้ คุณ อยู่ ที่ ไหน|Bây giờ bạn ở đâu?
+เมื่อไร:muearai|khi nào|คุณ จะ มา เมื่อไร|Khi nào bạn sẽ đến?
+วันเกิด:wankoet|sinh nhật|วันนี้ เป็น วันเกิด ของ แม่|Hôm nay là sinh nhật của mẹ.
+วันหยุด:wanyut|ngày nghỉ|วันหยุด ฉัน ชอบ นอน|Ngày nghỉ tôi thích ngủ.
+คืนนี้:khuenni|tối nay|คืนนี้ เรา จะ ดู หนัง|Tối nay chúng ta sẽ xem phim.
+เสมอ:samoe|luôn luôn|เขา มา สาย เสมอ|Anh ấy luôn đến muộn.
+@Thứ trong tuần|Bảy ngày trong tuần và lịch
+วันจันทร์:wanchan|thứ Hai|วันจันทร์ ฉัน ไป ทำงาน|Thứ Hai tôi đi làm.
+วันอังคาร:wanangkhan|thứ Ba|วันอังคาร เรา มี เรียน ภาษาไทย|Thứ Ba chúng tôi có giờ học tiếng Thái.
+วันพุธ:wanphut|thứ Tư|วันพุธ ร้าน ปิด|Thứ Tư cửa hàng đóng cửa.
+วันพฤหัสบดี:wanpharuehatsabodi|thứ Năm|วันพฤหัสบดี ผม ไป หา หมอ|Thứ Năm tôi đi khám bác sĩ.
+วันศุกร์:wansuk|thứ Sáu|วันศุกร์ เรา ไป กิน ข้าว กัน|Thứ Sáu chúng ta đi ăn cùng nhau.
+วันเสาร์:wansao|thứ Bảy|วันเสาร์ ฉัน ไป ตลาด|Thứ Bảy tôi đi chợ.
+วันอาทิตย์:wanathit|Chủ nhật|วันอาทิตย์ เขา ไป วัด|Chủ nhật anh ấy đi chùa.
+ปฏิทิน:patithin|lịch (xem ngày)|ปฏิทิน อยู่ บน โต๊ะ|Quyển lịch ở trên bàn.
+วันที่:wanthi|ngày (trong tháng)|วันนี้ วันที่ ห้า|Hôm nay là ngày mùng năm.
+ทุกวัน:thukwan|hằng ngày|ฉัน ดื่ม กาแฟ ทุกวัน|Tôi uống cà phê hằng ngày.
+สุดสัปดาห์:sutsapda|cuối tuần|สุดสัปดาห์ เรา ไป เที่ยว|Cuối tuần chúng tôi đi chơi.
+ปีใหม่:pimai|năm mới|สวัสดี ปีใหม่ ครับ|Chúc mừng năm mới.
+@Đồ ăn|Món ăn hằng ngày
+อาหาร:ahan|thức ăn, món ăn|อาหาร ไทย อร่อย มาก|Món ăn Thái rất ngon.
+ข้าว:khao|cơm, gạo|ฉัน กิน ข้าว แล้ว|Tôi ăn cơm rồi.
+น้ำ:nam|nước|ขอ น้ำ หนึ่ง แก้ว ครับ|Cho tôi xin một cốc nước.
+ไข่:khai|trứng|ผม กิน ไข่ ทุก เช้า|Tôi ăn trứng mỗi sáng.
+ไก่:kai|gà|แม่ ทำ ไก่ ทอด|Mẹ làm gà rán.
+หมู:mu|lợn, thịt lợn|ฉัน ไม่ กิน หมู|Tôi không ăn thịt lợn.
+ปลา:pla|cá|ปลา ตัว นี้ ใหญ่|Con cá này to.
+เนื้อ:nuea|thịt (bò)|เขา ชอบ กิน เนื้อ|Anh ấy thích ăn thịt bò.
+กุ้ง:kung|tôm|กุ้ง ที่ นี่ สด|Tôm ở đây tươi.
+ผัก:phak|rau|เด็ก ควร กิน ผัก|Trẻ em nên ăn rau.
+ผลไม้:phonlamai|hoa quả|ผลไม้ ไทย หวาน|Hoa quả Thái ngọt.
+ขนม:khanom|bánh kẹo, đồ ăn vặt|เด็ก ชอบ กิน ขนม|Trẻ em thích ăn bánh kẹo.
+ก๋วยเตี๋ยว:kuaitiao|hủ tiếu, phở kiểu Thái|ฉัน สั่ง ก๋วยเตี๋ยว หนึ่ง ชาม:cham|Tôi gọi một bát hủ tiếu.
+ขนมปัง:khanompang|bánh mì|ผม กิน ขนมปัง ตอน เช้า|Tôi ăn bánh mì vào buổi sáng.
+น้ำตาล:namtan|đường (ăn)|ไม่ ใส่ น้ำตาล นะ|Đừng cho đường nhé.
+เกลือ:kluea|muối|ใส่ เกลือ น้อย หน่อย:noi|Cho ít muối thôi.
+พริก:phrik|ớt|ฉัน กิน พริก ไม่ ได้|Tôi không ăn được ớt.
+น้ำปลา:nampla|nước mắm|อาหาร ไทย ใส่ น้ำปลา|Món Thái có cho nước mắm.
+ส้มตำ:somtam|gỏi đu đủ|ส้มตำ ร้าน นี้ เผ็ด มาก|Gỏi đu đủ quán này rất cay.
+ต้มยำ:tomyam|canh chua cay tom yum|ผม ชอบ ต้มยำ กุ้ง|Tôi thích tom yum tôm.
+ข้าวผัด:khaophat|cơm rang|ขอ ข้าวผัด ไก่ หนึ่ง จาน|Cho tôi một đĩa cơm rang gà.
+ผัดไทย:phatthai|pad Thái (mì xào Thái)|ผัดไทย เป็น อาหาร ไทย|Pad Thái là món ăn Thái.
+ไข่เจียว:khaichiao|trứng tráng|ไข่เจียว ทำ ง่าย|Trứng tráng dễ làm.
+ข้าวเหนียว:khaoniao|xôi, gạo nếp|เขา กิน ข้าวเหนียว กับ ไก่|Anh ấy ăn xôi với gà.
+@Đồ uống|Thức uống quen thuộc
+กาแฟ:kafae|cà phê|ฉัน ดื่ม กาแฟ ทุก เช้า|Tôi uống cà phê mỗi sáng.
+ชา:cha|trà|คุณ ชอบ ชา ร้อน ไหม|Bạn có thích trà nóng không?
+นม:nom|sữa|เด็ก ดื่ม นม|Đứa trẻ uống sữa.
+น้ำแข็ง:namkhaeng|nước đá|ขอ น้ำแข็ง ด้วย|Cho tôi xin thêm đá.
+น้ำผลไม้:namphonlamai|nước hoa quả|น้ำผลไม้ แก้ว นี้ หวาน|Cốc nước hoa quả này ngọt.
+เบียร์:bia|bia|พ่อ ดื่ม เบียร์ กับ เพื่อน|Bố uống bia với bạn.
+น้ำเปล่า:namplao|nước lọc|ขอ น้ำเปล่า หนึ่ง ขวด|Cho tôi một chai nước lọc.
+น้ำส้ม:namsom|nước cam|น้ำส้ม ร้าน นี้ สด|Nước cam quán này tươi.
+ชาเย็น:chayen|trà sữa Thái đá|ฉัน สั่ง ชาเย็น หนึ่ง แก้ว|Tôi gọi một cốc trà sữa Thái.
+น้ำมะพร้าว:nammaphrao|nước dừa|น้ำมะพร้าว เย็น อร่อย|Nước dừa lạnh rất ngon.
+เหล้า:lao|rượu|เขา ไม่ ดื่ม เหล้า|Anh ấy không uống rượu.
+น้ำอัดลม:namatlom|nước ngọt có ga|เด็ก ไม่ ควร ดื่ม น้ำอัดลม มาก|Trẻ em không nên uống nhiều nước ngọt có ga.
+@Hành động cơ bản|Động từ dùng hằng ngày
+กิน:kin|ăn|เรา กิน ข้าว ด้วย กัน|Chúng tôi ăn cơm cùng nhau.
+ดื่ม:duem|uống|เขา ดื่ม น้ำ มาก|Anh ấy uống nhiều nước.
+นอน:non|ngủ, nằm|ลูก นอน แล้ว|Con ngủ rồi.
+ตื่น:tuen|thức dậy|ฉัน ตื่น หก โมง|Tôi thức dậy lúc sáu giờ.
+ไป:pai|đi|ผม ไป โรงเรียน|Tôi đi đến trường.
+มา:ma|đến|เพื่อน มา ที่ บ้าน|Bạn đến nhà.
+นั่ง:nang|ngồi|เชิญ นั่ง ที่ นี่|Mời ngồi ở đây.
+ยืน:yuen|đứng|เขา ยืน อยู่ หน้า บ้าน|Anh ấy đứng trước nhà.
+เดิน:doen|đi bộ|เรา เดิน ไป ตลาด|Chúng tôi đi bộ ra chợ.
+วิ่ง:wing|chạy|เด็ก วิ่ง เร็ว|Đứa trẻ chạy nhanh.
+ดู:du|xem, nhìn|ฉัน ดู ทีวี|Tôi xem tivi.
+ฟัง:fang|nghe|เขา ฟัง เพลง|Anh ấy nghe nhạc.
+พูด:phut|nói|คุณ พูด ภาษาไทย ได้ ไหม|Bạn nói được tiếng Thái không?
+อ่าน:an|đọc|ฉัน อ่าน หนังสือ|Tôi đọc sách.
+เขียน:khian|viết|เด็ก เขียน ชื่อ|Đứa trẻ viết tên.
+เรียน:rian|học|ผม เรียน ภาษาไทย|Tôi học tiếng Thái.
+ทำ:tham|làm|คุณ ทำ อะไร อยู่|Bạn đang làm gì?
+ทำงาน:thamngan|làm việc|พ่อ ทำงาน ทุก วัน|Bố làm việc mỗi ngày.
+เล่น:len|chơi|เด็ก เล่น ใน สวน|Trẻ em chơi trong vườn.
+ซื้อ:sue|mua|ฉัน ซื้อ ผลไม้|Tôi mua hoa quả.
+ขาย:khai|bán|ป้า ขาย ขนม|Bác gái bán bánh.
+ให้:hai|cho, đưa cho|แม่ ให้ เงิน ลูก|Mẹ cho con tiền.
+เอา:ao|lấy, muốn lấy|ผม เอา อัน นี้|Tôi lấy cái này.
+ชอบ:chop|thích|ฉัน ชอบ อาหาร ไทย|Tôi thích món ăn Thái.
+รัก:rak|yêu|แม่ รัก ลูก|Mẹ yêu con.
+รู้:ru|biết (thông tin)|ผม ไม่ รู้|Tôi không biết.
+เข้าใจ:khaochai|hiểu|ฉัน เข้าใจ แล้ว|Tôi hiểu rồi.
+คิด:khit|nghĩ|เขา คิด มาก|Anh ấy nghĩ nhiều.
+ถาม:tham|hỏi|เด็ก ถาม ครู|Đứa trẻ hỏi thầy giáo.
+ตอบ:top|trả lời|เขา ไม่ ตอบ|Anh ấy không trả lời.
+เปิด:poet|mở, bật|ช่วย เปิด ประตู หน่อย|Làm ơn mở cửa giúp.
+ปิด:pit|đóng, tắt|ปิด ไฟ ด้วย นะ|Tắt đèn nữa nhé.
+รอ:ro|đợi|ผม รอ คุณ อยู่|Tôi đang đợi bạn.
+หยุด:yut|dừng lại|รถ หยุด ที่ นี่|Xe dừng ở đây.
+เริ่ม:roem|bắt đầu|เรา เริ่ม เรียน เก้า โมง|Chúng tôi bắt đầu học lúc chín giờ.
+จบ:chop|kết thúc, xong|หนัง จบ แล้ว|Phim kết thúc rồi.
+@Tính từ cơ bản|Miêu tả người và vật
+ดี:di|tốt|เขา เป็น คน ดี|Anh ấy là người tốt.
+ใหญ่:yai|to, lớn|บ้าน หลัง นี้ ใหญ่|Ngôi nhà này to.
+เล็ก:lek|nhỏ|ห้อง นี้ เล็ก|Căn phòng này nhỏ.
+ยาว:yao|dài|ผม ของ เธอ ยาว|Tóc cô ấy dài.
+สั้น:san|ngắn|กระโปรง ตัว นี้ สั้น|Cái váy này ngắn.
+สูง:sung|cao|พี่ชาย ของ ฉัน สูง|Anh trai tôi cao.
+เตี้ย:tia|thấp, lùn|โต๊ะ ตัว นี้ เตี้ย|Cái bàn này thấp.
+อ้วน:uan|béo|แมว ตัว นี้ อ้วน|Con mèo này béo.
+ผอม:phom|gầy|เขา ผอม มาก|Anh ấy rất gầy.
+สวย:suai|đẹp (nữ, cảnh vật)|ดอกไม้ นี้ สวย|Bông hoa này đẹp.
+หล่อ:lo|đẹp trai|เขา หล่อ มาก|Anh ấy rất đẹp trai.
+น่ารัก:narak|dễ thương|ลูก ของ คุณ น่ารัก|Con của bạn dễ thương.
+ใหม่:mai|mới|ฉัน มี รถ ใหม่|Tôi có xe mới.
+เก่า:kao|cũ|บ้าน หลัง นี้ เก่า|Ngôi nhà này cũ.
+ร้อน:ron|nóng|วันนี้ อากาศ ร้อน|Hôm nay trời nóng.
+หนาว:nao|lạnh, rét|ที่ เชียงใหม่ อากาศ หนาว|Ở Chiang Mai trời lạnh.
+เร็ว:reo|nhanh|รถไฟ นี้ เร็ว|Tàu hỏa này nhanh.
+ช้า:cha|chậm|เขา เดิน ช้า|Anh ấy đi chậm.
+แพง:phaeng|đắt|กระเป๋า ใบ นี้ แพง|Cái túi này đắt.
+ถูก:thuk|rẻ; đúng|ผลไม้ ที่ ตลาด ถูก|Hoa quả ở chợ rẻ.
+ง่าย:ngai|dễ|ภาษาไทย ไม่ ง่าย|Tiếng Thái không dễ.
+ยาก:yak|khó|ข้อสอบ นี้ ยาก|Đề thi này khó.
+อร่อย:aroi|ngon|ส้มตำ อร่อย มาก|Gỏi đu đủ rất ngon.
+สนุก:sanuk|vui, thú vị|หนัง เรื่อง:rueang นี้ สนุก|Bộ phim này vui.

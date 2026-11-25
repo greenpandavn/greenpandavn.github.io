@@ -1,0 +1,70 @@
+=3
+@Thực vật|Cây cối và làm vườn
+พฤกษศาสตร์:phrueksasat|thực vật học|เธอ เรียน พฤกษศาสตร์|Cô ấy học thực vật học.
+พันธุ์พืช:phanphuet|giống cây|พันธุ์พืช นี้ โต เร็ว|Giống cây này lớn nhanh.
+ต้นกล้า:tonkla|cây con, mạ|ต้นกล้า ต้องการ น้ำ|Cây con cần nước.
+ลำต้น:lamton|thân cây|ลำต้น ของ ต้นไม้ นี้ ใหญ่|Thân cây này to.
+เปลือกไม้:plueakmai|vỏ cây|เปลือกไม้ นี้ หนา|Vỏ cây này dày.
+ยอดอ่อน:yot-on|chồi non, ngọn non|แม่ เก็บ ยอดอ่อน มา กิน|Mẹ hái ngọn non về ăn.
+เกสร:keson|nhụy, phấn hoa|ผึ้ง เก็บ เกสร|Ong lấy phấn hoa.
+กลีบดอก:klipdok|cánh hoa|กลีบดอก นี้ สี ชมพู|Cánh hoa này màu hồng.
+หนาม:nam|gai|กุหลาบ มี หนาม|Hoa hồng có gai.
+เถาวัลย์:thaowan|dây leo|เถาวัลย์ ขึ้น บน กำแพง|Dây leo mọc trên tường.
+มอส:mot|rêu|บน หิน มี มอส|Trên đá có rêu.
+เห็ดป่า:hetpa|nấm rừng|ชาวบ้าน เก็บ เห็ดป่า|Dân làng hái nấm rừng.
+ต้นสน:tonson|cây thông|บน เขา มี ต้นสน|Trên núi có cây thông.
+ต้นโพธิ์:tonpho|cây bồ đề|ใน วัด มี ต้นโพธิ์|Trong chùa có cây bồ đề.
+ต้นไทร:tonsai|cây đa|ต้นไทร นี้ เก่า มาก|Cây đa này rất lâu đời.
+ต้นปาล์ม:tonpam|cây cọ|ริม ทะเล มี ต้นปาล์ม|Ven biển có cây cọ.
+ดอกบัว:dokbua|hoa sen|ยาย ซื้อ ดอกบัว ไป วัด|Bà ngoại mua hoa sen đi chùa.
+กล้วยไม้:kluaimai|hoa lan|ไทย ส่งออก กล้วยไม้|Thái Lan xuất khẩu hoa lan.
+ดอกมะลิ:dokmali|hoa nhài|ดอกมะลิ หอม มาก|Hoa nhài rất thơm.
+ทานตะวัน:thantawan|hoa hướng dương|ทุ่ง ทานตะวัน สวย มาก|Cánh đồng hướng dương rất đẹp.
+ลีลาวดี:lilawadi|hoa đại (sứ)|หน้า บ้าน มี ลีลาวดี|Trước nhà có hoa đại.
+กระบองเพชร:krabongphet|cây xương rồng|กระบองเพชร ไม่ ต้องการ น้ำ มาก|Xương rồng không cần nhiều nước.
+ว่านหางจระเข้:wanhangchorakhe|cây lô hội|ว่านหางจระเข้ ดี ต่อ ผิว|Lô hội tốt cho da.
+สังเคราะห์แสง:sangkhrosaeng|quang hợp|ใบไม้ สังเคราะห์แสง|Lá cây quang hợp.
+ผลัดใบ:phlatbai|rụng lá (thay lá)|ต้นไม้ ผลัดใบ ใน หน้าแล้ง|Cây thay lá vào mùa khô.
+ออกดอก:okdok|ra hoa|ต้น มะม่วง ออกดอก แล้ว|Cây xoài đã ra hoa.
+ออกผล:okphon|ra quả|ต้นไม้ นี้ ออกผล ทุก ปี|Cây này ra quả hằng năm.
+เพาะ:pho|ươm, gieo trồng|เขา เพาะ เห็ด|Anh ấy trồng nấm.
+ตัดแต่งกิ่ง:tattaengking|tỉa cành|ลุง ตัดแต่งกิ่ง ต้นไม้|Bác trai tỉa cành cây.
+วัชพืช:watchaphuet|cỏ dại|ชาวนา ถอน วัชพืช|Nông dân nhổ cỏ dại.
+กระถาง:krathang|chậu cây|เธอ ปลูก ดอกไม้ ใน กระถาง|Cô ấy trồng hoa trong chậu.
+เรือนกระจก:rueankrachok|nhà kính|ผัก โต ใน เรือนกระจก|Rau lớn trong nhà kính.
+@Du lịch và thể thao chuyên sâu|Dịch vụ, thi đấu
+อุตสาหกรรมท่องเที่ยว:utsahakamthongthiao|ngành du lịch|อุตสาหกรรมท่องเที่ยว สำคัญ ต่อ ไทย|Ngành du lịch quan trọng với Thái Lan.
+การท่องเที่ยวเชิงนิเวศ:kanthongthiaochoengniwet|du lịch sinh thái|ชุมชน นี้ ทำ การท่องเที่ยวเชิงนิเวศ|Cộng đồng này làm du lịch sinh thái.
+แพ็กเกจทัวร์:phaekketthua|tour trọn gói|เรา ซื้อ แพ็กเกจทัวร์|Chúng tôi mua tour trọn gói.
+มัคคุเทศก์:makkhuthet|hướng dẫn viên du lịch|มัคคุเทศก์ พูด จีน ได้|Hướng dẫn viên nói được tiếng Trung.
+ที่พักแบบโฮมสเตย์:thiphakbaephomsate|chỗ ở homestay|เรา นอน ที่พักแบบโฮมสเตย์|Chúng tôi ngủ ở homestay.
+ห้องสวีท:hongsawit|phòng hạng sang|เขา จอง ห้องสวีท|Anh ấy đặt phòng hạng sang.
+อัตราการเข้าพัก:attrakankhaophak|tỷ lệ lấp đầy phòng|อัตราการเข้าพัก สูง ใน หน้าหนาว|Tỷ lệ lấp đầy phòng cao vào mùa lạnh.
+นอกฤดูท่องเที่ยว:nokruedutthongthiao|mùa thấp điểm|นอกฤดูท่องเที่ยว ราคา ถูก|Mùa thấp điểm giá rẻ.
+ล่องเรือ:longruea|đi du thuyền, xuôi thuyền|เรา ล่องเรือ ใน แม่น้ำ|Chúng tôi đi thuyền trên sông.
+ล่องแก่ง:longkaeng|chèo thuyền vượt thác|วัยรุ่น ชอบ ล่องแก่ง|Giới trẻ thích chèo thuyền vượt thác.
+ดูนก:dunok|ngắm chim|ลุง ชอบ ไป ดูนก|Bác trai thích đi ngắm chim.
+ถนนคนเดิน:thanonkhondoen|phố đi bộ|คืนนี้ เรา ไป ถนนคนเดิน|Tối nay chúng tôi đi phố đi bộ.
+กีฬาโอลิมปิก:kila-olimpik|thế vận hội|กีฬาโอลิมปิก จัด ทุก สี่ ปี|Thế vận hội tổ chức bốn năm một lần.
+นักกีฬาทีมชาติ:nakkilathimchat|vận động viên đội tuyển quốc gia|เธอ เป็น นักกีฬาทีมชาติ|Cô ấy là vận động viên đội tuyển quốc gia.
+รอบชิงชนะเลิศ:ropchingchanaloet|vòng chung kết|ทีม ไทย เข้า รอบชิงชนะเลิศ|Đội Thái vào vòng chung kết.
+รอบรองชนะเลิศ:roprongchanaloet|vòng bán kết|พรุ่งนี้ เป็น รอบรองชนะเลิศ|Ngày mai là vòng bán kết.
+รอบคัดเลือก:ropkhatlueak|vòng loại|ทีม เรา ผ่าน รอบคัดเลือก|Đội chúng tôi qua vòng loại.
+ต่อเวลา:towela|đá hiệp phụ, gia hạn giờ|เกม นี้ ต้อง ต่อเวลา|Trận này phải đá hiệp phụ.
+จุดโทษ:chutthot|phạt đền|ทีม เขา ได้ จุดโทษ|Đội họ được phạt đền.
+ใบเหลือง:bailueang|thẻ vàng|ผู้เล่น ได้ ใบเหลือง|Cầu thủ nhận thẻ vàng.
+ใบแดง:baidaeng|thẻ đỏ|เขา ได้ ใบแดง|Anh ấy nhận thẻ đỏ.
+ล้ำหน้า:lamna|việt vị|ผู้เล่น คน นี้ ล้ำหน้า|Cầu thủ này việt vị.
+ผู้รักษาประตู:phuraksapratu|thủ môn|ผู้รักษาประตู รับ ลูกบอล|Thủ môn bắt bóng.
+กองหน้า:kongna|tiền đạo|กองหน้า ยิง ประตู|Tiền đạo ghi bàn.
+กองหลัง:konglang|hậu vệ|กองหลัง ทีม นี้ แข็งแรง|Hậu vệ đội này khỏe.
+ตัวสำรอง:tuasamrong|cầu thủ dự bị|เขา เป็น ตัวสำรอง|Anh ấy là cầu thủ dự bị.
+ผู้ตัดสิน:phutatsin|trọng tài (trận đấu)|ผู้ตัดสิน เป่า นกหวีด|Trọng tài thổi còi.
+กรีฑา:kritha|điền kinh|เธอ แข่ง กรีฑา|Cô ấy thi điền kinh.
+กระโดดสูง:kradotsung|nhảy cao|เขา เก่ง กระโดดสูง|Anh ấy giỏi nhảy cao.
+ยิมนาสติก:yimnatsatik|thể dục dụng cụ|เด็ก เรียน ยิมนาสติก|Trẻ em học thể dục dụng cụ.
+ยกทีม:yokthim|cả đội cùng (đi, làm)|เรา ยกทีม ไป เชียร์:chia|Cả đội chúng tôi đi cổ vũ.
+เชียร์:chia|cổ vũ|ผม เชียร์ ทีม ไทย|Tôi cổ vũ đội Thái.
+สนามเหย้า:sanamyao|sân nhà|ทีม เรา เล่น ใน สนามเหย้า|Đội chúng tôi chơi trên sân nhà.
+สารกระตุ้น:sankratun|chất kích thích (doping)|นักกีฬา ห้าม ใช้ สารกระตุ้น|Vận động viên cấm dùng chất kích thích.
+สปิริต:sapirit|tinh thần thể thao|นักกีฬา มี สปิริต|Vận động viên có tinh thần thể thao.

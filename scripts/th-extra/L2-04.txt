@@ -1,0 +1,99 @@
+=2
+@Nấu ăn|Nguyên liệu và cách chế biến
+ส่วนผสม:suanphasom|nguyên liệu, thành phần|ส่วนผสม นี้ หา ง่าย|Nguyên liệu này dễ tìm.
+สูตร:sut|công thức|แม่ มี สูตร ต้มยำ|Mẹ có công thức nấu tom yum.
+เครื่องปรุง:khrueangprung|gia vị|ใส่ เครื่องปรุง หน่อย|Cho thêm chút gia vị.
+ซอส:sot|nước xốt|ซอส นี้ เผ็ด|Nước xốt này cay.
+น้ำส้มสายชู:namsomsaichu|giấm|ใส่ น้ำส้มสายชู น้อย|Cho ít giấm.
+ซีอิ๊ว:si-io|xì dầu|ผม ชอบ ซีอิ๊ว ขาว|Tôi thích xì dầu trắng.
+กะทิ:kathi|nước cốt dừa|แกง นี้ ใส่ กะทิ|Món cà ri này có nước cốt dừa.
+แป้ง:paeng|bột|ขนม ทำ จาก แป้ง|Bánh làm từ bột.
+ขิง:khing|gừng|ชา ขิง ดี ต่อ สุขภาพ|Trà gừng tốt cho sức khỏe.
+ตะไคร้:takhrai|sả|ต้มยำ ต้อง ใส่ ตะไคร้|Tom yum phải cho sả.
+ใบกะเพรา:baikaphrao|lá húng quế Thái|ผัด ใบกะเพรา อร่อย|Món xào lá húng quế rất ngon.
+ผักชี:phakchi|rau mùi|ไม่ ใส่ ผักชี นะ|Đừng cho rau mùi nhé.
+หั่น:han|thái, cắt (thức ăn)|แม่ หั่น ผัก|Mẹ thái rau.
+สับ:sap|băm|พ่อครัว สับ หมู|Đầu bếp băm thịt lợn.
+ปอก:pok|gọt, bóc vỏ|ช่วย ปอก ผลไม้ หน่อย|Làm ơn gọt giúp hoa quả.
+อุ่น:un|hâm nóng; ấm|ฉัน อุ่น อาหาร|Tôi hâm nóng đồ ăn.
+แช่:chae|ngâm, ướp lạnh|แช่ น้ำ ใน ตู้เย็น|Ướp lạnh nước trong tủ lạnh.
+อบ:op|nướng (lò)|เธอ อบ เค้ก|Cô ấy nướng bánh kem.
+ตุ๋น:tun|hầm|แม่ ตุ๋น ไก่|Mẹ hầm gà.
+ปรุง:prung|nêm nếm, nấu|พ่อครัว ปรุง อาหาร|Đầu bếp nêm nấu món ăn.
+ชิม:chim|nếm thử|ลอง ชิม ดู|Thử nếm xem.
+เสิร์ฟ:soep|phục vụ, dọn món|พนักงาน เสิร์ฟ อาหาร|Nhân viên dọn món ăn.
+ไหม้:mai|cháy, khét|ข้าว ไหม้|Cơm bị khét.
+เดือด:dueat|sôi|น้ำ เดือด แล้ว|Nước sôi rồi.
+ละลาย:lalai|tan chảy|น้ำแข็ง ละลาย|Đá tan.
+เน่า:nao|thối, ôi|ผลไม้ เน่า แล้ว|Hoa quả thối rồi.
+หมดอายุ:mot-ayu|hết hạn|นม นี้ หมดอายุ|Sữa này hết hạn.
+อาหารว่าง:ahanwang|đồ ăn nhẹ|เรา กิน อาหารว่าง ตอน บ่าย|Chúng tôi ăn nhẹ vào buổi chiều.
+มังสวิรัติ:mangsawirat|ăn chay|เธอ กิน มังสวิรัติ|Cô ấy ăn chay.
+อาหารจานด่วน:ahanchanduan|đồ ăn nhanh|เด็ก ชอบ อาหารจานด่วน|Trẻ em thích đồ ăn nhanh.
+รสชาติ:rotchat|hương vị|รสชาติ อาหาร นี้ ดี|Hương vị món này ngon.
+เตาอบ:tao-op|lò nướng|เค้ก อยู่ ใน เตาอบ|Bánh kem ở trong lò nướng.
+ไมโครเวฟ:maikhrowep|lò vi sóng|อุ่น อาหาร ใน ไมโครเวฟ|Hâm nóng đồ ăn trong lò vi sóng.
+เขียง:khiang|cái thớt|เขียง นี้ ทำ จาก ไม้|Cái thớt này làm bằng gỗ.
+ฝา:fa|cái nắp|ปิด ฝา หม้อ ด้วย|Đậy nắp nồi lại.
+@Môi trường|Thiên nhiên và khí hậu
+สิ่งแวดล้อม:singwaetlom|môi trường|เรา ต้อง รักษา สิ่งแวดล้อม|Chúng ta phải giữ gìn môi trường.
+ภูมิอากาศ:phumi-akat|khí hậu|ภูมิอากาศ ของ ไทย ร้อน|Khí hậu Thái Lan nóng.
+อุณหภูมิ:unhaphum|nhiệt độ|วันนี้ อุณหภูมิ สูง|Hôm nay nhiệt độ cao.
+ความชื้น:khwamchuen|độ ẩm|หน้าฝน ความชื้น สูง|Mùa mưa độ ẩm cao.
+แผ่นดินไหว:phaendinwai|động đất|เมื่อคืน มี แผ่นดินไหว|Đêm qua có động đất.
+ภัยแล้ง:phailaeng|hạn hán|ปี นี้ มี ภัยแล้ง|Năm nay có hạn hán.
+ไฟป่า:faipa|cháy rừng|ไฟป่า อันตราย มาก|Cháy rừng rất nguy hiểm.
+ภูเขาไฟ:phukhaofai|núi lửa|ญี่ปุ่น มี ภูเขาไฟ มาก|Nhật Bản có nhiều núi lửa.
+มหาสมุทร:mahasamut|đại dương|มหาสมุทร ใหญ่ มาก|Đại dương rất rộng lớn.
+ทะเลสาบ:thalesap|hồ|ทะเลสาบ นี้ สวย|Cái hồ này đẹp.
+คลอง:khlong|kênh, rạch|กรุงเทพ มี คลอง มาก|Bangkok có nhiều kênh rạch.
+ลำธาร:lamthan|con suối|น้ำ ใน ลำธาร เย็น|Nước suối mát.
+ถ้ำ:tham|hang động|ใน ถ้ำ มืด มาก|Trong hang rất tối.
+ทะเลทราย:thalesai|sa mạc|ทะเลทราย ร้อน และ แห้ง|Sa mạc nóng và khô.
+หุบเขา:hupkhao|thung lũng|หมู่บ้าน อยู่ ใน หุบเขา|Ngôi làng ở trong thung lũng.
+หน้าผา:napha|vách đá|อย่า ยืน ใกล้ หน้าผา|Đừng đứng gần vách đá.
+ทุ่งนา:thungna|cánh đồng lúa|ทุ่งนา สี เขียว สวย|Cánh đồng lúa xanh đẹp.
+ฟาร์ม:fam|trang trại|ลุง มี ฟาร์ม ไก่|Bác trai có trang trại gà.
+พืช:phuet|thực vật|พืช ต้องการ น้ำ|Thực vật cần nước.
+เมล็ด:malet|hạt giống, hạt|ชาวนา ปลูก เมล็ด ข้าว|Nông dân gieo hạt lúa.
+ราก:rak|rễ|ราก ต้นไม้ ยาว|Rễ cây dài.
+กิ่ง:king|cành|นก อยู่ บน กิ่ง ไม้|Con chim ở trên cành cây.
+ไผ่:phai|cây tre|บ้าน นี้ ทำ จาก ไผ่|Ngôi nhà này làm bằng tre.
+สัตว์ป่า:satpa|động vật hoang dã|เรา ต้อง ช่วย สัตว์ป่า|Chúng ta phải giúp động vật hoang dã.
+สูญพันธุ์:sunphan|tuyệt chủng|สัตว์ นี้ ใกล้ สูญพันธุ์|Loài vật này sắp tuyệt chủng.
+พลังงาน:phalangngan|năng lượng|เรา ต้อง ประหยัด พลังงาน|Chúng ta phải tiết kiệm năng lượng.
+ไฟฟ้า:faifa|điện|หมู่บ้าน นี้ มี ไฟฟ้า แล้ว|Ngôi làng này đã có điện.
+แก๊ส:kaet|khí ga|แก๊ส หมด แล้ว|Hết ga rồi.
+ถ่าน:than|than (củi); pin|เรา ย่าง ปลา ด้วย ถ่าน|Chúng tôi nướng cá bằng than.
+พลาสติก:phlattik|nhựa|ลด การ:kan ใช้ ถุง พลาสติก|Giảm việc dùng túi nhựa.
+รีไซเคิล:risaikhoen|tái chế|เรา รีไซเคิล กระดาษ|Chúng tôi tái chế giấy.
+โลกร้อน:lokron|trái đất nóng lên|โลกร้อน เป็น ปัญหา ใหญ่|Trái đất nóng lên là vấn đề lớn.
+อนุรักษ์:anurak|bảo tồn|เรา อนุรักษ์ ป่า|Chúng ta bảo tồn rừng.
+ทำลาย:thamlai|phá hủy|อย่า ทำลาย ธรรมชาติ|Đừng phá hủy thiên nhiên.
+น้ำเสีย:namsia|nước thải|โรงงาน ปล่อย:ploi น้ำเสีย|Nhà máy xả nước thải.
+อากาศบริสุทธิ์:akatborisut|không khí trong lành|ที่ นี่ มี อากาศบริสุทธิ์|Ở đây có không khí trong lành.
+@Công nghệ|Máy móc và mạng
+เทคโนโลยี:theknoloyi|công nghệ|เทคโนโลยี เปลี่ยน ชีวิต เรา|Công nghệ thay đổi cuộc sống chúng ta.
+เครื่อง:khrueang|máy (thiết bị)|เครื่อง นี้ เสีย|Cái máy này hỏng.
+โปรแกรม:prokraem|chương trình, phần mềm|ผม ใช้ โปรแกรม นี้ ทำงาน|Tôi dùng phần mềm này để làm việc.
+แอป:aep|ứng dụng|แอป นี้ ใช้ ง่าย|Ứng dụng này dễ dùng.
+เว็บไซต์:wepsai|trang web|เว็บไซต์ นี้ มี ข้อมูล มาก|Trang web này có nhiều thông tin.
+รหัสผ่าน:rahatphan|mật khẩu|อย่า บอก รหัสผ่าน กับ ใคร|Đừng nói mật khẩu cho ai.
+บัญชี:banchi|tài khoản|ผม เปิด บัญชี ธนาคาร|Tôi mở tài khoản ngân hàng.
+ดาวน์โหลด:daolot|tải xuống|ฉัน ดาวน์โหลด แอป ใหม่|Tôi tải ứng dụng mới.
+ไฟล์:fai|tệp tin|ส่ง ไฟล์ ให้ ผม หน่อย|Gửi tệp cho tôi với.
+หน้าจอ:nacho|màn hình|หน้าจอ มือถือ แตก:taek|Màn hình điện thoại bị vỡ.
+แตก:taek|vỡ|แก้ว แตก|Cái cốc vỡ.
+แป้นพิมพ์:paenphim|bàn phím|แป้นพิมพ์ นี้ ใหม่|Bàn phím này mới.
+พิมพ์:phim|đánh máy, in|เธอ พิมพ์ เร็ว มาก|Cô ấy đánh máy rất nhanh.
+เครื่องพิมพ์:khrueangphim|máy in|เครื่องพิมพ์ ไม่ ทำงาน|Máy in không hoạt động.
+แบตเตอรี่:baettoeri|pin (thiết bị)|แบตเตอรี่ หมด แล้ว|Hết pin rồi.
+ชาร์จ:chat|sạc|ผม ชาร์จ มือถือ|Tôi sạc điện thoại.
+สัญญาณ:sanyan|tín hiệu|ที่ นี่ ไม่ มี สัญญาณ|Ở đây không có tín hiệu.
+ออนไลน์:onlai|trực tuyến|ฉัน เรียน ออนไลน์|Tôi học trực tuyến.
+โซเชียล:sochian|mạng xã hội|วัยรุ่น ใช้ โซเชียล มาก|Thanh thiếu niên dùng mạng xã hội nhiều.
+ถ่ายทอดสด:thaithotsot|phát trực tiếp|เขา ถ่ายทอดสด ฟุตบอล|Họ phát trực tiếp bóng đá.
+หุ่นยนต์:hunyon|rô bốt|หุ่นยนต์ ทำงาน ใน โรงงาน|Rô bốt làm việc trong nhà máy.
+ปัญญาประดิษฐ์:panyapradit|trí tuệ nhân tạo|ปัญญาประดิษฐ์ ช่วย งาน เรา|Trí tuệ nhân tạo giúp công việc của chúng ta.
+ดาวเทียม:daothiam|vệ tinh|ดาวเทียม อยู่ บน ท้องฟ้า|Vệ tinh ở trên trời.
+อัปเดต:apdet|cập nhật|ผม อัปเดต โปรแกรม แล้ว|Tôi cập nhật phần mềm rồi.

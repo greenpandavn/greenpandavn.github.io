@@ -1,0 +1,56 @@
+=5
+@Khảo cổ và xã hội học|Con người và xã hội
+นักโบราณคดี:nakborannakhadi|nhà khảo cổ|นักโบราณคดี ขุด พบ หม้อ เก่า|Nhà khảo cổ đào được nồi cổ.
+แหล่งโบราณคดี:laengborannakhadi|di chỉ khảo cổ|บ้านเชียง เป็น แหล่งโบราณคดี|Ban Chiang là di chỉ khảo cổ.
+ศิลาจารึก:silacharuek|bia đá khắc chữ|ศิลาจารึก หลัก ที่ หนึ่ง สำคัญ มาก|Bia đá số một rất quan trọng.
+ยุคสำริด:yuksamrit|thời kỳ đồ đồng|บ้านเชียง อยู่ ใน ยุคสำริด|Ban Chiang thuộc thời kỳ đồ đồng.
+ยุคเหล็ก:yuklek|thời kỳ đồ sắt|เครื่องมือ นี้ มา จาก ยุคเหล็ก|Công cụ này có từ thời đồ sắt.
+ก่อนประวัติศาสตร์:konprawattisat|tiền sử|ภาพ นี้ เป็น ของ สมัย ก่อนประวัติศาสตร์|Bức vẽ này thuộc thời tiền sử.
+หาอายุด้วยคาร์บอน:ha-ayuduaikhabon|định tuổi bằng các bon|นักวิจัย หาอายุด้วยคาร์บอน|Nhà nghiên cứu định tuổi bằng các bon.
+ชาติพันธุ์วิทยา:chatiphanwitthaya|dân tộc học|เธอ วิจัย ชาติพันธุ์วิทยา|Cô ấy nghiên cứu dân tộc học.
+กลุ่มชาติพันธุ์:klumchatiphan|nhóm sắc tộc|ภาคเหนือ มี กลุ่มชาติพันธุ์ มาก|Miền Bắc có nhiều nhóm sắc tộc.
+ชนพื้นเมือง:chonphuenmueang|người bản địa|ชนพื้นเมือง อยู่ ที่ นี่ นาน แล้ว|Người bản địa sống ở đây đã lâu.
+เครือญาติ:khrueayat|quan hệ họ hàng|หมู่บ้าน นี้ เป็น เครือญาติ กัน|Làng này có quan hệ họ hàng với nhau.
+ไสยศาสตร์:saiyasat|ma thuật, mê tín|คน บาง คน เชื่อ ไสยศาสตร์|Một số người tin ma thuật.
+ชนชั้นทางสังคม:chonchanthangsangkhom|giai cấp xã hội|ชนชั้นทางสังคม ยัง มี อยู่|Giai cấp xã hội vẫn tồn tại.
+ชนชั้นแรงงาน:chonchanraeng-ngan|giai cấp công nhân|ชนชั้นแรงงาน ขอ ค่าแรง เพิ่ม|Giai cấp công nhân đòi tăng lương.
+การเลื่อนชั้นทางสังคม:kanlueanchanthangsangkhom|dịch chuyển xã hội|การ ศึกษา ช่วย การเลื่อนชั้นทางสังคม|Giáo dục giúp dịch chuyển xã hội.
+การขัดเกลาทางสังคม:kankhatklaothangsangkhom|xã hội hóa (cá nhân)|ครอบครัว ทำ การขัดเกลาทางสังคม|Gia đình thực hiện xã hội hóa.
+ปิตาธิปไตย:pitathippatai|chế độ phụ quyền|สังคม นี้ เป็น ปิตาธิปไตย|Xã hội này theo chế độ phụ quyền.
+ความเป็นเมือง:khwampenmueang|đô thị hóa|ความเป็นเมือง เพิ่ม ขึ้น เร็ว|Đô thị hóa tăng nhanh.
+สำมะโนประชากร:sammanoprachakon|tổng điều tra dân số|รัฐบาล ทำ สำมะโนประชากร|Chính phủ làm tổng điều tra dân số.
+การกีดกันทางสังคม:kankitkanthangsangkhom|loại trừ xã hội|คน จน เจอ การกีดกันทางสังคม|Người nghèo gặp sự loại trừ xã hội.
+ทุนทางสังคม:thunthangsangkhom|vốn xã hội|ชุมชน นี้ มี ทุนทางสังคม สูง|Cộng đồng này có vốn xã hội cao.
+@Phương pháp nghiên cứu|Thống kê và học thuật
+ระเบียบวิธีวิจัย:rabiapwithiwichai|phương pháp luận nghiên cứu|นักศึกษา เรียน ระเบียบวิธีวิจัย|Sinh viên học phương pháp luận nghiên cứu.
+วิจัยเชิงปริมาณ:wichaichoengpariman|nghiên cứu định lượng|เธอ ทำ วิจัยเชิงปริมาณ|Cô ấy làm nghiên cứu định lượng.
+วิจัยเชิงคุณภาพ:wichaichoengkhunnaphap|nghiên cứu định tính|เขา ทำ วิจัยเชิงคุณภาพ|Anh ấy làm nghiên cứu định tính.
+สุ่มตัวอย่าง:sumtuayang|chọn mẫu ngẫu nhiên|นักวิจัย สุ่มตัวอย่าง จาก นักเรียน|Nhà nghiên cứu chọn mẫu ngẫu nhiên từ học sinh.
+กลุ่มควบคุม:klumkhuapkhum|nhóm đối chứng|กลุ่มควบคุม ไม่ ได้ ยา|Nhóm đối chứng không được dùng thuốc.
+กลุ่มทดลอง:klumthotlong|nhóm thực nghiệm|กลุ่มทดลอง ได้ ยา ใหม่|Nhóm thực nghiệm được dùng thuốc mới.
+ตัวแปรต้น:tuapraeton|biến độc lập|อายุ เป็น ตัวแปรต้น|Tuổi là biến độc lập.
+ตัวแปรตาม:tuapraetam|biến phụ thuộc|คะแนน เป็น ตัวแปรตาม|Điểm số là biến phụ thuộc.
+สัมภาษณ์เชิงลึก:samphatchoengluek|phỏng vấn sâu|นักวิจัย สัมภาษณ์เชิงลึก ชาวบ้าน|Nhà nghiên cứu phỏng vấn sâu dân làng.
+สนทนากลุ่ม:sonthanaklum|thảo luận nhóm tập trung|เรา จัด สนทนากลุ่ม กับ ครู|Chúng tôi tổ chức thảo luận nhóm với giáo viên.
+ทบทวนวรรณกรรม:thopthuanwannakam|tổng quan tài liệu|บท ที่ สอง คือ ทบทวนวรรณกรรม|Chương hai là tổng quan tài liệu.
+กรอบแนวคิด:kropnaeokhit|khung khái niệm|อาจารย์ ขอ ดู กรอบแนวคิด|Giảng viên muốn xem khung khái niệm.
+ค่ามัธยฐาน:khamatthayathan|trung vị|ค่ามัธยฐาน ของ รายได้ ต่ำ|Trung vị thu nhập thấp.
+ฐานนิยม:thanniyom|mốt (thống kê)|ฐานนิยม ของ ข้อมูล คือ ห้า|Mốt của dữ liệu là năm.
+ส่วนเบี่ยงเบนมาตรฐาน:suanbiangbenmattrathan|độ lệch chuẩn|ส่วนเบี่ยงเบนมาตรฐาน สูง มาก|Độ lệch chuẩn rất cao.
+ความแปรปรวน:khwampraepruan|phương sai|นักสถิติ คำนวณ ความแปรปรวน|Nhà thống kê tính phương sai.
+สหสัมพันธ์:sahasamphan|tương quan|สอง ตัวแปร มี สหสัมพันธ์ กัน|Hai biến có tương quan với nhau.
+การถดถอย:kanthotthoi|hồi quy; sự thoái lui|เขา วิเคราะห์ ด้วย การถดถอย|Anh ấy phân tích bằng hồi quy.
+นัยสำคัญทางสถิติ:naisamkhanthangsathiti|ý nghĩa thống kê|ผล นี้ มี นัยสำคัญทางสถิติ|Kết quả này có ý nghĩa thống kê.
+ช่วงความเชื่อมั่น:chuangkhwamchueaman|khoảng tin cậy|รายงาน บอก ช่วงความเชื่อมั่น|Báo cáo nêu khoảng tin cậy.
+ความคลาดเคลื่อน:khwamkhlatkhluean|sai số|ผล สำรวจ มี ความคลาดเคลื่อน|Kết quả khảo sát có sai số.
+ความเที่ยงตรง:khwamthiangtrong|độ giá trị (của công cụ)|แบบสอบถาม ต้อง มี ความเที่ยงตรง|Bảng hỏi phải có độ giá trị.
+ความเชื่อมั่นของเครื่องมือ:khwamchueamankhongkhrueangmue|độ tin cậy của công cụ|เรา ทดสอบ ความเชื่อมั่นของเครื่องมือ|Chúng tôi kiểm tra độ tin cậy của công cụ.
+ข้อเสนอโครงการวิจัย:khosanoekhrongkanwichai|đề cương nghiên cứu|เธอ ส่ง ข้อเสนอโครงการวิจัย|Cô ấy nộp đề cương nghiên cứu.
+ผู้ทรงคุณวุฒิ:phusongkhunnawut|chuyên gia thẩm định|ผู้ทรงคุณวุฒิ อ่าน บทความ|Chuyên gia thẩm định đọc bài báo.
+วารสารวิชาการ:warasanwichakan|tạp chí học thuật|อาจารย์ ตีพิมพ์ ใน วารสารวิชาการ|Giảng viên đăng bài trên tạp chí học thuật.
+การลอกเลียนผลงาน:kanloklianphon-ngan|đạo văn|การลอกเลียนผลงาน เป็น ความผิด ร้ายแรง|Đạo văn là lỗi nghiêm trọng.
+จริยธรรมการวิจัย:chariyathamkanwichai|đạo đức nghiên cứu|มหาวิทยาลัย ตรวจ จริยธรรมการวิจัย|Trường đại học kiểm tra đạo đức nghiên cứu.
+ทุนวิจัย:thunwichai|kinh phí nghiên cứu|เขา ได้ ทุนวิจัย จาก รัฐบาล|Anh ấy nhận kinh phí nghiên cứu từ chính phủ.
+ข้อค้นพบ:khokhonphop|phát hiện (nghiên cứu)|ข้อค้นพบ นี้ น่าสนใจ|Phát hiện này thú vị.
+ข้อจำกัดของการวิจัย:khochamkatkhongkanwichai|hạn chế của nghiên cứu|ผู้เขียน บอก ข้อจำกัดของการวิจัย|Tác giả nêu hạn chế của nghiên cứu.
+ดุษฎีนิพนธ์:dutsadiniphon|luận án tiến sĩ|เธอ กำลัง เขียน ดุษฎีนิพนธ์|Cô ấy đang viết luận án tiến sĩ.

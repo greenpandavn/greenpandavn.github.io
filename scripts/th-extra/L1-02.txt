@@ -1,0 +1,168 @@
+=1
+@Nhà cửa|Trong nhà và đồ đạc
+บ้าน:ban|nhà|บ้าน ของ ฉัน อยู่ ใกล้ ตลาด|Nhà tôi ở gần chợ.
+หน้าต่าง:natang|cửa sổ|เปิด หน้าต่าง หน่อย|Mở cửa sổ ra một chút.
+โต๊ะ:to|cái bàn|หนังสือ อยู่ บน โต๊ะ|Quyển sách ở trên bàn.
+เก้าอี้:kaoi|cái ghế|เก้าอี้ ตัว นี้ ใหม่|Cái ghế này mới.
+เตียง:tiang|cái giường|เตียง นี้ ใหญ่ มาก|Cái giường này rất to.
+ห้องนอน:hongnon|phòng ngủ|ห้องนอน ของ ผม เล็ก|Phòng ngủ của tôi nhỏ.
+ห้องน้ำ:hongnam|nhà vệ sinh, phòng tắm|ห้องน้ำ อยู่ ที่ ไหน|Nhà vệ sinh ở đâu?
+ห้องครัว:hongkhrua|phòng bếp|แม่ อยู่ ใน ห้องครัว|Mẹ ở trong bếp.
+ไฟ:fai|đèn, lửa, điện|เปิด ไฟ หน่อย|Bật đèn lên một chút.
+ตู้:tu|cái tủ|เสื้อ อยู่ ใน ตู้|Áo ở trong tủ.
+ตู้เย็น:tuyen|tủ lạnh|นม อยู่ ใน ตู้เย็น|Sữa ở trong tủ lạnh.
+ทีวี:thiwi|tivi|พ่อ ดู ทีวี|Bố xem tivi.
+พัดลม:phatlom|quạt điện|เปิด พัดลม หน่อย|Bật quạt lên một chút.
+แอร์:ae|máy lạnh, điều hòa|ห้อง นี้ มี แอร์|Phòng này có điều hòa.
+หมอน:mon|cái gối|หมอน ใบ นี้ นุ่ม:num|Cái gối này mềm.
+ผ้าห่ม:phahom|cái chăn|ขอ ผ้าห่ม อีก ผืน:phuen|Cho tôi xin thêm một cái chăn.
+กุญแจ:kunchae|chìa khóa|กุญแจ บ้าน อยู่ ที่ ไหน|Chìa khóa nhà ở đâu?
+บันได:bandai|cầu thang|เขา เดิน ขึ้น บันได|Anh ấy đi lên cầu thang.
+หลังคา:langkha|mái nhà|แมว อยู่ บน หลังคา|Con mèo ở trên mái nhà.
+กำแพง:kamphaeng|bức tường|กำแพง นี้ สูง|Bức tường này cao.
+@Đồ dùng|Vật dụng hằng ngày
+ชาม:cham|cái bát|ขอ ชาม หนึ่ง ใบ|Cho tôi xin một cái bát.
+แก้ว:kaeo|cái cốc, ly|แก้ว ใบ นี้ สวย|Cái cốc này đẹp.
+ส้อม:som|cái dĩa (nĩa)|คน ไทย ใช้ ช้อน กับ ส้อม|Người Thái dùng thìa và dĩa.
+ตะเกียบ:takiap|đôi đũa|ฉัน ใช้ ตะเกียบ ได้|Tôi dùng được đũa.
+มีด:mit|con dao|มีด เล่ม นี้ คม:khom|Con dao này sắc.
+ขวด:khuat|cái chai|ขอ น้ำ หนึ่ง ขวด|Cho tôi một chai nước.
+หม้อ:mo|cái nồi|แม่ ซื้อ หม้อ ใหม่|Mẹ mua cái nồi mới.
+กระทะ:kratha|cái chảo|กระทะ ร้อน มาก|Cái chảo rất nóng.
+ถุง:thung|cái túi (ni lông, giấy)|ไม่ เอา ถุง ครับ|Tôi không lấy túi.
+กล่อง:klong|cái hộp|กล่อง นี้ หนัก|Cái hộp này nặng.
+กระเป๋า:krapao|cái túi xách, cặp, vali|กระเป๋า ของ ฉัน หาย|Túi của tôi bị mất.
+ร่ม:rom|cái ô|ฝน ตก เอา ร่ม ไป ด้วย|Trời mưa, mang ô theo nhé.
+นาฬิกา:nalika|đồng hồ|นาฬิกา เรือน:ruean นี้ แพง|Cái đồng hồ này đắt.
+แว่นตา:waenta|kính mắt|ปู่ ใส่ แว่นตา|Ông nội đeo kính.
+โทรศัพท์:thorasap|điện thoại|โทรศัพท์ ของ คุณ ดัง|Điện thoại của bạn đang kêu.
+มือถือ:mueathue|điện thoại di động|มือถือ ของ ผม เก่า|Điện thoại di động của tôi cũ.
+กระดาษ:kradat|giấy|ขอ กระดาษ หนึ่ง แผ่น:phaen|Cho tôi xin một tờ giấy.
+ปากกา:pakka|bút mực, bút bi|ขอ ยืม ปากกา หน่อย|Cho tôi mượn cái bút một chút.
+ดินสอ:dinso|bút chì|เด็ก เขียน ด้วย ดินสอ|Đứa trẻ viết bằng bút chì.
+หนังสือ:nangsue|sách|หนังสือ เล่ม นี้ สนุก|Quyển sách này hay.
+สมุด:samut|quyển vở|ฉัน ซื้อ สมุด สอง เล่ม|Tôi mua hai quyển vở.
+ของ:khong|đồ vật; của|นี่ ของ ใคร|Cái này của ai?
+สบู่:sabu|xà phòng|ล้าง มือ ด้วย สบู่|Rửa tay bằng xà phòng.
+ผ้าเช็ดตัว:phachettua|khăn tắm|ขอ ผ้าเช็ดตัว หน่อย|Cho tôi xin cái khăn tắm.
+แปรงสีฟัน:praengsifan|bàn chải đánh răng|ฉัน ซื้อ แปรงสีฟัน ใหม่|Tôi mua bàn chải đánh răng mới.
+ยาสีฟัน:yasifan|kem đánh răng|ยาสีฟัน หมด แล้ว|Hết kem đánh răng rồi.
+กระจก:krachok|cái gương; kính|เธอ ดู กระจก|Cô ấy soi gương.
+หวี:wi|cái lược|หวี อยู่ บน โต๊ะ|Cái lược ở trên bàn.
+ถังขยะ:thangkhaya|thùng rác|ถังขยะ อยู่ หน้า บ้าน|Thùng rác ở trước nhà.
+ไม้กวาด:maikwat|cái chổi|ไม้กวาด อยู่ หลัง ประตู|Cái chổi ở sau cửa.
+เครื่องซักผ้า:khrueangsakpha|máy giặt|เครื่องซักผ้า เสีย|Máy giặt bị hỏng.
+เตา:tao|cái bếp (lò)|เตา นี้ ร้อน|Cái bếp này nóng.
+รูป:rup|bức ảnh, hình|นี่ คือ รูป ครอบครัว ของ ฉัน|Đây là ảnh gia đình tôi.
+ของเล่น:khonglen|đồ chơi|เด็ก มี ของเล่น มาก|Đứa trẻ có nhiều đồ chơi.
+@Quần áo|Trang phục và phụ kiện
+เสื้อ:suea|cái áo|เสื้อ ตัว นี้ สวย|Cái áo này đẹp.
+กางเกง:kangkeng|cái quần|กางเกง ตัว นี้ ยาว|Cái quần này dài.
+กระโปรง:kraprong|cái váy|เธอ ใส่ กระโปรง สี แดง|Cô ấy mặc váy màu đỏ.
+รองเท้า:rongthao|đôi giày|รองเท้า คู่ นี้ ใหม่|Đôi giày này mới.
+ถุงเท้า:thungthao|đôi tất|ถุงเท้า ของ ผม หาย|Tất của tôi bị mất.
+หมวก:muak|cái mũ|เขา ใส่ หมวก สี ดำ|Anh ấy đội mũ màu đen.
+เสื้อผ้า:sueapha|quần áo|ฉัน ซัก เสื้อผ้า ทุก วัน|Tôi giặt quần áo mỗi ngày.
+ใส่:sai|mặc, đeo, cho vào|เขา ใส่ เสื้อ สี ขาว|Anh ấy mặc áo màu trắng.
+ถอด:thot|cởi ra|ถอด รองเท้า ก่อน เข้า บ้าน|Cởi giày trước khi vào nhà.
+แหวน:waen|cái nhẫn|แหวน วง:wong นี้ แพง|Cái nhẫn này đắt.
+เข็มขัด:khemkhat|thắt lưng|พ่อ ซื้อ เข็มขัด ใหม่|Bố mua thắt lưng mới.
+เสื้อยืด:sueayuet|áo phông|ผม ชอบ ใส่ เสื้อยืด|Tôi thích mặc áo phông.
+@Màu sắc|Các màu cơ bản
+สี:si|màu sắc|คุณ ชอบ สี อะไร|Bạn thích màu gì?
+แดง:daeng|đỏ|รถ คัน นั้น สี แดง|Chiếc xe kia màu đỏ.
+ขาว:khao|trắng|แมว ตัว นี้ สี ขาว|Con mèo này màu trắng.
+ดำ:dam|đen|ผม ของ เขา สี ดำ|Tóc anh ấy màu đen.
+เขียว:khiao|xanh lá cây|ใบไม้ สี เขียว|Lá cây màu xanh lá.
+เหลือง:lueang|vàng (màu)|กล้วย สี เหลือง|Quả chuối màu vàng.
+ฟ้า:fa|xanh da trời; bầu trời|เสื้อ ตัว นี้ สี ฟ้า|Cái áo này màu xanh da trời.
+น้ำเงิน:namngoen|xanh dương đậm|กางเกง สี น้ำเงิน|Cái quần màu xanh dương đậm.
+ชมพู:chomphu|hồng|เธอ ชอบ สี ชมพู|Cô ấy thích màu hồng.
+ส้ม:som|cam (quả, màu)|ส้ม ลูก นี้ หวาน|Quả cam này ngọt.
+ม่วง:muang|tím|ดอกไม้ สี ม่วง สวย|Hoa màu tím đẹp.
+เทา:thao|xám|แมว สี เทา น่ารัก|Con mèo màu xám dễ thương.
+@Cơ thể|Các bộ phận cơ thể
+ตัว:tua|thân mình, cơ thể|เขา ตัว ใหญ่|Anh ấy thân hình to.
+หัว:hua|đầu|ผม ปวด หัว|Tôi đau đầu.
+หน้า:na|mặt; phía trước|เธอ ล้าง หน้า|Cô ấy rửa mặt.
+ดวงตา:duangta|mắt|ดวงตา ของ เธอ สวย|Mắt cô ấy đẹp.
+หู:hu|tai|ช้าง มี หู ใหญ่|Con voi có tai to.
+จมูก:chamuk|mũi|จมูก ของ เขา โด่ง:dong|Mũi anh ấy cao.
+ปาก:pak|miệng|เปิด ปาก หน่อย|Há miệng ra một chút.
+ฟัน:fan|răng|เด็ก แปรง:praeng ฟัน|Đứa trẻ đánh răng.
+เส้นผม:senphom|sợi tóc|เส้นผม ของ เธอ ยาว|Tóc cô ấy dài.
+คอ:kho|cổ, họng|ฉัน เจ็บ คอ|Tôi đau họng.
+มือ:mue|bàn tay|ล้าง มือ ก่อน กิน ข้าว|Rửa tay trước khi ăn cơm.
+แขน:khaen|cánh tay|แขน ของ เขา ยาว|Cánh tay anh ấy dài.
+ขา:kha|cái chân (cả chân)|ผม เจ็บ ขา|Tôi đau chân.
+เท้า:thao|bàn chân|เท้า ของ เด็ก เล็ก|Bàn chân đứa trẻ nhỏ.
+นิ้ว:nio|ngón (tay, chân)|มือ มี ห้า นิ้ว|Bàn tay có năm ngón.
+ท้อง:thong|bụng|ฉัน ปวด ท้อง|Tôi đau bụng.
+หลัง:lang|lưng; phía sau|พ่อ ปวด หลัง|Bố đau lưng.
+ไหล่:lai|vai|ไหล่ ของ เขา กว้าง:kwang|Vai anh ấy rộng.
+หัวใจ:huachai|trái tim|หัวใจ ของ เขา ดี|Trái tim anh ấy tốt.
+เลือด:lueat|máu|เลือด สี แดง|Máu màu đỏ.
+ผิว:phio|da|ผิว ของ เธอ ขาว|Da cô ấy trắng.
+เข่า:khao|đầu gối|ยาย เจ็บ เข่า|Bà ngoại đau đầu gối.
+ลิ้น:lin|lưỡi|ลิ้น อยู่ ใน ปาก|Lưỡi ở trong miệng.
+คิ้ว:khio|lông mày|คิ้ว ของ เขา ดำ|Lông mày anh ấy đen.
+@Động vật|Con vật quen thuộc
+สัตว์:sat|động vật|ฉัน รัก สัตว์|Tôi yêu động vật.
+หมา:ma|con chó|หมา ตัว นี้ ใจดี|Con chó này hiền.
+แมว:maeo|con mèo|แมว นอน บน เตียง|Con mèo ngủ trên giường.
+นก:nok|con chim|นก ร้อง เพลง|Con chim hót.
+ช้าง:chang|con voi|ช้าง เป็น สัตว์ ใหญ่|Voi là động vật to lớn.
+ม้า:ma|con ngựa|ม้า วิ่ง เร็ว|Con ngựa chạy nhanh.
+วัว:wua|con bò|วัว กิน หญ้า|Con bò ăn cỏ.
+ควาย:khwai|con trâu|ควาย อยู่ ใน นา|Con trâu ở ngoài ruộng.
+เป็ด:pet|con vịt|เป็ด ว่าย น้ำ|Con vịt bơi.
+ลิง:ling|con khỉ|ลิง ชอบ กิน กล้วย|Con khỉ thích ăn chuối.
+เสือ:suea|con hổ|เสือ อยู่ ใน ป่า|Con hổ ở trong rừng.
+งู:ngu|con rắn|ฉัน กลัว งู|Tôi sợ rắn.
+หนู:nu|con chuột|แมว จับ หนู|Con mèo bắt chuột.
+กระต่าย:kratai|con thỏ|กระต่าย มี หู ยาว|Con thỏ có tai dài.
+ยุง:yung|con muỗi|ที่ นี่ มี ยุง มาก|Ở đây có nhiều muỗi.
+มด:mot|con kiến|มด ตัว เล็ก|Con kiến nhỏ.
+ผีเสื้อ:phisuea|con bướm|ผีเสื้อ ตัว นี้ สวย|Con bướm này đẹp.
+แมลง:malaeng|côn trùng|เด็ก กลัว แมลง|Đứa trẻ sợ côn trùng.
+เต่า:tao|con rùa|เต่า เดิน ช้า|Con rùa đi chậm.
+ปู:pu|con cua|ปู ตัว นี้ ใหญ่|Con cua này to.
+หมี:mi|con gấu|หมี ชอบ น้ำผึ้ง:namphueng|Con gấu thích mật ong.
+กบ:kop|con ếch|กบ อยู่ ใน น้ำ|Con ếch ở dưới nước.
+แพะ:phae|con dê|แพะ กิน ใบไม้|Con dê ăn lá cây.
+ไก่ชน:kaichon|gà chọi|ลุง เลี้ยง ไก่ชน|Bác trai nuôi gà chọi.
+@Thiên nhiên|Trời đất và thời tiết
+อากาศ:akat|thời tiết, không khí|อากาศ วันนี้ ดี|Thời tiết hôm nay đẹp.
+ฝน:fon|mưa|ฝน ตก ทุก วัน|Trời mưa mỗi ngày.
+ตก:tok|rơi, ngã|ฝน ตก หนัก|Trời mưa to.
+ลม:lom|gió|วันนี้ ลม แรง|Hôm nay gió mạnh.
+แดด:daet|nắng|แดด ร้อน มาก|Nắng rất nóng.
+ท้องฟ้า:thongfa|bầu trời|ท้องฟ้า วันนี้ สวย|Bầu trời hôm nay đẹp.
+พระจันทร์:phrachan|mặt trăng|คืนนี้ พระจันทร์ สวย|Đêm nay trăng đẹp.
+ดาว:dao|ngôi sao|บน ท้องฟ้า มี ดาว มาก|Trên trời có nhiều sao.
+เมฆ:mek|mây|วันนี้ เมฆ มาก|Hôm nay nhiều mây.
+แม่น้ำ:maenam|sông|แม่น้ำ นี้ ยาว|Con sông này dài.
+ภูเขา:phukhao|núi|ภูเขา นี้ สูง|Ngọn núi này cao.
+ป่า:pa|rừng|ใน ป่า มี สัตว์ มาก|Trong rừng có nhiều động vật.
+ต้นไม้:tonmai|cây cối|ต้นไม้ ต้น:ton นี้ ใหญ่|Cái cây này to.
+ดอกไม้:dokmai|bông hoa|แม่ ชอบ ดอกไม้|Mẹ thích hoa.
+ใบไม้:baimai|lá cây|ใบไม้ ตก|Lá cây rụng.
+หญ้า:ya|cỏ|หญ้า สี เขียว|Cỏ màu xanh.
+หิน:hin|đá (hòn đá)|หิน ก้อน:kon นี้ หนัก|Hòn đá này nặng.
+ดิน:din|đất|ดิน ที่ นี่ ดี|Đất ở đây tốt.
+ทราย:sai|cát|เด็ก เล่น ทราย|Đứa trẻ chơi cát.
+เกาะ:ko|hòn đảo|เกาะ นี้ สวย มาก|Hòn đảo này rất đẹp.
+ชายหาด:chaihat|bãi biển|เรา เดิน บน ชายหาด|Chúng tôi đi bộ trên bãi biển.
+น้ำตก:namtok|thác nước|น้ำตก นี้ สูง|Thác nước này cao.
+ฤดู:ruedu|mùa|ไทย มี สาม ฤดู|Thái Lan có ba mùa.
+หน้าร้อน:naron|mùa nóng, mùa hè|หน้าร้อน อากาศ ร้อน มาก|Mùa hè trời rất nóng.
+หน้าฝน:nafon|mùa mưa|หน้าฝน ฝน ตก ทุก วัน|Mùa mưa trời mưa mỗi ngày.
+หน้าหนาว:nanao|mùa lạnh, mùa đông|หน้าหนาว ฉัน ชอบ ไป เชียงใหม่|Mùa lạnh tôi thích đi Chiang Mai.
+พายุ:phayu|bão|พรุ่งนี้ จะ มี พายุ|Ngày mai sẽ có bão.
+หิมะ:hima|tuyết|ที่ ไทย ไม่ มี หิมะ|Ở Thái Lan không có tuyết.
+โลก:lok|trái đất, thế giới|โลก ของ เรา สวย|Trái đất của chúng ta đẹp.
+ธรรมชาติ:thammachat|thiên nhiên|ฉัน รัก ธรรมชาติ|Tôi yêu thiên nhiên.
+น้ำท่วม:namthuam|lũ lụt|ปี นี้ น้ำท่วม|Năm nay bị lũ lụt.
+ฟ้าร้อง:farong|sấm|ฉัน กลัว ฟ้าร้อง|Tôi sợ sấm.
+หมอก:mok|sương mù|ตอน เช้า มี หมอก|Buổi sáng có sương mù.
+รุ้ง:rung|cầu vồng|หลัง ฝน ตก มี รุ้ง|Sau cơn mưa có cầu vồng.

@@ -1,0 +1,41 @@
+=2
+@Mua bán và dịch vụ|Giao dịch hằng ngày
+โปรโมชั่น:promochan|khuyến mãi|ร้าน นี้ มี โปรโมชั่น|Cửa hàng này có khuyến mãi.
+คูปอง:khupong|phiếu giảm giá|ฉัน มี คูปอง ลด ราคา|Tôi có phiếu giảm giá.
+ใบรับประกัน:bairapprakan|phiếu bảo hành|เก็บ ใบรับประกัน ไว้ นะ|Giữ phiếu bảo hành nhé.
+เปลี่ยนสินค้า:pliansinkha|đổi hàng|ผม ขอ เปลี่ยนสินค้า|Tôi xin đổi hàng.
+สั่งซื้อ:sangsue|đặt mua|ฉัน สั่งซื้อ หนังสือ ออนไลน์|Tôi đặt mua sách trên mạng.
+จัดส่ง:chatsong|giao hàng|ร้าน จัดส่ง ฟรี|Cửa hàng giao hàng miễn phí.
+พัสดุ:phatsadu|bưu kiện|พัสดุ มา ถึง แล้ว|Bưu kiện đã đến rồi.
+ค่าส่ง:khasong|phí vận chuyển|ค่าส่ง สี่ สิบ บาท|Phí vận chuyển bốn mươi baht.
+ของแท้:khongthae|hàng thật|กระเป๋า ใบ นี้ เป็น ของแท้|Cái túi này là hàng thật.
+ของปลอม:khongplom|hàng giả|ระวัง ของปลอม|Coi chừng hàng giả.
+มือสอง:muesong|đồ cũ, hàng đã qua sử dụng|ผม ซื้อ รถ มือสอง|Tôi mua xe cũ.
+หมดสต็อก:motsatok|hết hàng|เสื้อ ตัว นี้ หมดสต็อก|Cái áo này hết hàng.
+ร้านเสริมสวย:ransoemsuai|tiệm làm đẹp|แม่ ไป ร้านเสริมสวย|Mẹ đi tiệm làm đẹp.
+ค่าบริการ:khaborikan|phí dịch vụ|ค่าบริการ สิบ เปอร์เซ็นต์|Phí dịch vụ mười phần trăm.
+ทิป:thip|tiền boa|เรา ให้ ทิป พนักงาน|Chúng tôi cho nhân viên tiền boa.
+คิว:khio|hàng (xếp hàng), lượt|คิว ยาว มาก|Hàng dài lắm.
+ต่อคิว:tokhio|xếp hàng|เรา ต่อคิว ซื้อ ตั๋ว|Chúng tôi xếp hàng mua vé.
+จองคิว:chongkhio|đặt lượt, lấy số|ผม จองคิว หมอ ไว้|Tôi đã đặt lượt khám bác sĩ.
+สมาชิก:samachik|thành viên|ฉัน เป็น สมาชิก ของ ร้าน นี้|Tôi là thành viên của cửa hàng này.
+สะสมแต้ม:sasomtaem|tích điểm|ลูกค้า สะสมแต้ม ได้|Khách hàng được tích điểm.
+ของแถม:khongthaem|quà tặng kèm|ซื้อ สอง ได้ ของแถม|Mua hai được quà tặng kèm.
+ลดราคา:lotrakha|giảm giá|ร้าน นี้ ลดราคา ทุก เดือน|Cửa hàng này giảm giá mỗi tháng.
+ราคาเต็ม:rakhatem|giá gốc|ผม ซื้อ ราคาเต็ม|Tôi mua với giá gốc.
+คุ้ม:khum|đáng tiền|ซื้อ แบบ นี้ คุ้ม มาก|Mua kiểu này rất đáng tiền.
+สิ้นเปลือง:sinplueang|tốn kém, lãng phí|เปิด แอร์ ทั้ง วัน สิ้นเปลือง|Bật điều hòa cả ngày thì tốn kém.
+ประหยัดเวลา:prayatwela|tiết kiệm thời gian|นั่ง รถไฟฟ้า ประหยัดเวลา|Đi tàu điện tiết kiệm thời gian.
+เสียเวลา:siawela|mất thời gian|รอ นาน เสียเวลา มาก|Đợi lâu mất nhiều thời gian.
+คุ้นเคย:khunkhoei|quen thuộc|ผม คุ้นเคย กับ ที่ นี่|Tôi quen thuộc với nơi này.
+แปลกใหม่:plaekmai|mới lạ|อาหาร นี้ แปลกใหม่|Món này mới lạ.
+คึกคัก:khuekkhak|nhộn nhịp|ตลาด นี้ คึกคัก มาก|Chợ này rất nhộn nhịp.
+เงียบเหงา:ngiapngao|vắng lặng|หมู่บ้าน นี้ เงียบเหงา|Ngôi làng này vắng lặng.
+โล่ง:long|thoáng, trống trải|ห้อง นี้ โล่ง ดี|Phòng này thoáng.
+มืดมน:muetmon|tối tăm|อนาคต ไม่ มืดมน|Tương lai không tối tăm.
+สดใส:sotsai|tươi sáng|วันนี้ อากาศ สดใส|Hôm nay thời tiết tươi sáng.
+ชุ่มชื้น:chumchuen|ẩm, mát ẩm|ป่า นี้ ชุ่มชื้น|Khu rừng này ẩm mát.
+แห้งแล้ง:haenglaeng|khô hạn|ภาคอีสาน:phak-isan แห้งแล้ง|Vùng Đông Bắc khô hạn.
+อุดมสมบูรณ์:udomsombun|màu mỡ, phong phú|ดิน ที่ นี่ อุดมสมบูรณ์|Đất ở đây màu mỡ.
+รกร้าง:rokrang|hoang vắng, bỏ hoang|บ้าน หลัง นี้ รกร้าง|Ngôi nhà này bị bỏ hoang.
+เจริญ:charoen|phát triển, thịnh vượng|เมือง นี้ เจริญ มาก|Thành phố này rất phát triển.

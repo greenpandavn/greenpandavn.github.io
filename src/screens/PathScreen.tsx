@@ -9,7 +9,7 @@ import { todayXp } from '../lib/gamification';
 import { Trophy } from '../components/Icons';
 import Panda from '../components/Panda';
 import ProgressBar from '../components/ProgressBar';
-import { needsVip, useVip } from '../lib/vip';
+import { levelAllVip, partVip, useVip, useVipParts } from '../lib/vip';
 import { firebaseConfigured } from '../lib/firebaseConfig';
 import { Check, Gem, Gift, Lock, Star, Bolt } from '../components/Icons';
 
@@ -39,7 +39,9 @@ export default function PathScreen({ onStart, onTest, onMock, onGame }: { onStar
   const isDone = (l: Lesson) => lessonDone(p, l);
   const isUnlocked = (l: Lesson) => lessonUnlocked(p, l);
   const vip = useVip();
-  const vipLevel = (lv: number) => firebaseConfigured && needsVip(getCourse(), lv);
+  useVipParts();
+  const vipLevel = (lv: number) => firebaseConfigured && levelAllVip(getCourse(), lv);
+  const vipPart = (unit: number) => firebaseConfigured && partVip(getCourse(), unit);
   const currentId = currentLessonId(p);
   const scrolled = useRef(false);
   useEffect(() => {
@@ -77,7 +79,7 @@ export default function PathScreen({ onStart, onTest, onMock, onGame }: { onStar
             <Trophy size={26} />
           </span>
           <span className="min-w-0 flex-1">
-            <span className="block font-black text-ink-700">{{ zh: 'Thi thử HSK', en: 'Thi thử tiếng Anh', ko: 'Thi thử TOPIK', ja: 'Thi thử JLPT' }[getCourse()]}</span>
+            <span className="block font-black text-ink-700">{{ zh: 'Thi thử HSK', en: 'Thi thử tiếng Anh', ko: 'Thi thử TOPIK', ja: 'Thi thử JLPT', th: 'Thi thử tiếng Thái' }[getCourse()]}</span>
             <span className="block text-xs font-bold text-ink-400">Đề dài, tính giờ như thi thật · không bắt buộc</span>
           </span>
           <span className="text-xl font-black text-ink-300" aria-hidden>
@@ -155,7 +157,14 @@ export default function PathScreen({ onStart, onTest, onMock, onGame }: { onStar
               </div>
             )}
             <div className={`${color.bg} mb-6 rounded-2xl px-4 py-3 text-white`} style={{ boxShadow: `0 4px 0 ${color.shadow}` }}>
-              <h2 className="text-lg font-black">{u.title}</h2>
+              <h2 className="text-lg font-black">
+                {u.title}
+                {vipPart(u.unit) && (
+                  <span className="ml-2 inline-flex items-center gap-1 rounded-lg bg-sun-400 px-2 py-0.5 align-middle text-xs font-black text-white" data-testid={`part-vip-${u.unit}`}>
+                    {!vip && <Lock size={12} />} VIP
+                  </span>
+                )}
+              </h2>
               <p className="text-sm font-bold opacity-90">{u.desc}</p>
             </div>
             <div className="relative flex flex-col items-center gap-5">

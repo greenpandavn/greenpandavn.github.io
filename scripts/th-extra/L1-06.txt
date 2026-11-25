@@ -1,0 +1,32 @@
+=1
+@Sở thích|Giải trí và thể thao
+หนัง:nang|phim; da thuộc|หนัง เรื่อง นี้ สนุก|Bộ phim này hay.
+เพลง:phleng|bài hát|ฉัน ชอบ เพลง ไทย|Tôi thích bài hát Thái.
+ฟุตบอล:futbon|bóng đá|เด็ก เล่น ฟุตบอล|Trẻ em chơi bóng đá.
+หนังสือพิมพ์:nangsuephim|báo (giấy)|พ่อ อ่าน หนังสือพิมพ์|Bố đọc báo.
+กีฬา:kila|thể thao|คุณ ชอบ กีฬา อะไร|Bạn thích môn thể thao gì?
+ดนตรี:dontri|âm nhạc|ผม ชอบ ฟัง ดนตรี|Tôi thích nghe nhạc.
+เกม:kem|trò chơi|เด็ก เล่น เกม|Đứa trẻ chơi trò chơi.
+ถ่ายรูป:thairup|chụp ảnh|ฉัน ชอบ ถ่ายรูป|Tôi thích chụp ảnh.
+วาดรูป:watrup|vẽ tranh|น้องสาว วาดรูป เก่ง|Em gái vẽ tranh giỏi.
+งานอดิเรก:nganadirek|sở thích|งานอดิเรก ของ คุณ คือ อะไร|Sở thích của bạn là gì?
+กีตาร์:kita|đàn ghi ta|เขา เล่น กีตาร์ ได้|Anh ấy chơi được ghi ta.
+ว่าย:wai|bơi (động tác)|ปลา ว่าย ใน น้ำ|Cá bơi trong nước.
+@Nông thôn|Đồng quê
+นา:na|ruộng lúa|ควาย อยู่ ใน นา|Con trâu ở ngoài ruộng.
+ทะเล:thale|biển|ฉัน ชอบ ไป ทะเล|Tôi thích đi biển.
+สวน:suan|vườn|ใน สวน มี ดอกไม้|Trong vườn có hoa.
+ประตู:pratu|cửa ra vào|ปิด ประตู ด้วย|Đóng cửa lại nhé.
+ช้อน:chon|cái thìa|ขอ ช้อน ด้วย ครับ|Cho tôi xin cái thìa.
+ห้าง:hang|trung tâm thương mại|เรา ไป ซื้อ ของ ที่ ห้าง|Chúng tôi đi mua đồ ở trung tâm thương mại.
+พื้น:phuen|sàn nhà, nền|พื้น ห้อง สะอาด|Sàn phòng sạch.
+พระอาทิตย์:phra-athit|mặt trời|พระอาทิตย์ ขึ้น ตอน เช้า|Mặt trời mọc vào buổi sáng.
+ตัวอักษร:tua-akson|chữ cái|ภาษาไทย มี ตัวอักษร มาก|Tiếng Thái có nhiều chữ cái.
+แม่บ้าน:maeban|người giúp việc, nội trợ|แม่บ้าน ทำ ความสะอาด:khwamsa-at|Người giúp việc dọn dẹp.
+สะอาด:sa-at|sạch sẽ|มือ ของ ฉัน สะอาด|Tay tôi sạch.
+ทำความสะอาด:thamkhwamsa-at|dọn dẹp, làm sạch|ฉัน ทำความสะอาด ห้อง|Tôi dọn phòng.
+ห้อง:hong|phòng|ห้อง นี้ สะอาด|Căn phòng này sạch.
+จาน:chan|cái đĩa|จาน ใบ นี้ สะอาด|Cái đĩa này sạch.
+โรงแรม:rongraem|khách sạn|โรงแรม นี้ สะอาด|Khách sạn này sạch.
+ตะวันออก:tawanok|phía đông|พระอาทิตย์ ขึ้น ทาง ตะวันออก|Mặt trời mọc ở phía đông.
+ตะวันตก:tawantok|phía tây|พระอาทิตย์ ตก ทาง ตะวันตก|Mặt trời lặn ở phía tây.
