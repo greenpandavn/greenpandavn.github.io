@@ -13,6 +13,8 @@ export interface AccountState {
   revoked: string[]; // certificate keys revoked by an admin (hidden, but kept in the stored progress)
   /** Firebase anonymous identity of a learner who has not logged in (`user` stays null for them). */
   anon?: { uid: string; no: number; name: string } | null;
+  /** v5.6.1: an account that was signed in on this device lost its session without the learner logging out. */
+  sessionLost?: boolean;
 }
 
 export const OWNER_EMAIL = 'virusphuoc@gmail.com';

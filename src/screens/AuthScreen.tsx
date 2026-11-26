@@ -5,6 +5,7 @@ import { Chevron } from '../components/Icons';
 import { firebaseConfigured, loadCloud, useAccount } from '../lib/account';
 import { NOT_CONFIGURED_MSG } from '../lib/firebaseConfig';
 import { getProgress } from '../lib/store';
+import { unsupportedBrowser } from '../lib/browser';
 import { hasProgress } from '../lib/merge';
 
 type Mode = 'login' | 'register' | 'reset';
@@ -28,6 +29,7 @@ export default function AuthScreen({ onClose }: { onClose: () => void }) {
   const [err, setErr] = useState('');
   const [info, setInfo] = useState('');
   const local = hasProgress(getProgress());
+  const webview = unsupportedBrowser();
 
   const run = async (fn: (m: typeof import('../lib/cloud')) => Promise<unknown>, okMsg?: string) => {
     setBusy(true);
@@ -100,6 +102,11 @@ export default function AuthScreen({ onClose }: { onClose: () => void }) {
       {local && mode !== 'reset' && (
         <p className="mt-3 rounded-2xl bg-leaf-50 px-3 py-2 text-sm font-bold text-leaf-700">
           Tiến độ đang có trên máy này sẽ được gộp vào tài khoản (giữ XP và chuỗi ngày cao hơn).
+        </p>
+      )}
+      {(webview === 'zalo' || webview === 'facebook') && (
+        <p className="mt-3 rounded-2xl bg-coral-100 px-3 py-2 text-sm font-bold text-coral-600" data-testid="auth-webview">
+          Bạn đang mở GreenPanda trong {webview === 'zalo' ? 'Zalo' : 'Facebook/Messenger'}: trình duyệt này không giữ đăng nhập lâu dài và có thể chặn đăng nhập Google. Bấm menu (⋯) → “Mở bằng trình duyệt” để dùng Chrome.
         </p>
       )}
       <form onSubmit={submit} className="mt-4 flex flex-col gap-3">

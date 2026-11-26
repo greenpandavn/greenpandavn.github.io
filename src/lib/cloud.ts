@@ -35,12 +35,12 @@ import {
   where,
   type Unsubscribe,
 } from 'firebase/firestore';
-import { auth, db, resetDb } from './firebase';
+import { auth, authPersistence, db, resetDb } from './firebase';
 import { firebaseConfig } from './firebaseConfig';
 import { levelInfo } from './gamification';
 import { applyRemote, courseView, defaultProgress, getStored, GUEST_KEY, xpByCourse, loadFrom, onLocalChange, sanitize, updateProgress, switchStorageSlot } from './store';
 import { mergeProgress, resolveLogin, SUB_COURSES, weekId, weekXp } from './merge';
-import { getAccount, OWNER_EMAIL, setAccount } from './account';
+import { everSignedIn, getAccount, OWNER_EMAIL, setAccount } from './account';
 import { applyContent, COURSE_IDS, type LessonDoc, type UnitDoc } from '../data';
 import type { CourseId, Progress } from '../types';
 import { setSocialName, startSocial, stopSocial } from './social';
@@ -227,9 +227,16 @@ function applyRole(d: Record<string, unknown>) {
   setAccount(patch);
 }
 
+/** Set before every sign-out the app asks for, so only an unexpected loss of the session is reported. */
+let leaving = false;
+const appSignOut = () => {
+  leaving = true;
+  return signOut(auth);
+};
+
 async function forceLogout(msg: string) {
   setAccount({ notice: msg });
-  await signOut(auth);
+  await appSignOut();
 }
 
 // ---------- anonymous learners (v5.2.8) ----------
@@ -470,15 +477,20 @@ export function initCloud() {
   void loadAnnouncement();
   watchVipParts();
   startVisits();
+  void authPersistence.then(() =>
   onAuthStateChanged(auth, (u) => {
+    if (u && !u.isAnonymous) setAccount({ sessionLost: false });
     if (u?.isAnonymous) startAnon(u);
     else if (u) void startSession(u);
     else {
+      // An account was signed in here and the learner did not log out: tell them instead of silently going on as a guest.
+      if (everSignedIn() && !leaving) setAccount({ sessionLost: true });
+      leaving = false;
       endSession();
       // Learners who are not logged in get an anonymous Firebase identity for the public leaderboard.
       signInAnonymously(auth).catch((e) => console.warn('Anonymous sign-in failed', (e as { code?: string }).code ?? e));
     }
-  });
+  }));
   window.addEventListener('online', () => {
     const u = auth.currentUser;
     if (!u) return;
@@ -573,7 +585,7 @@ export async function registerEmail(name: string, email: string, password: strin
 async function ensureNotLocked(u: User) {
   const snap = await getDoc(doc(db, 'roles', u.uid)).catch(() => null);
   if (snap?.exists() && snap.data().locked) {
-    await signOut(auth);
+    await appSignOut();
     throw Object.assign(new Error(LOCKED_MSG), { code: 'app/locked' });
   }
 }
@@ -626,7 +638,7 @@ export async function logout() {
     timer = null;
     await upload(u, getStored()).catch(() => undefined);
   }
-  await signOut(auth);
+  await appSignOut();
 }
 
 /** Nickname of an anonymous learner (max 20 characters); empty goes back to the numbered name. */

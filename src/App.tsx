@@ -6,6 +6,7 @@ import BottomNav, { SocialTabs, type Tab } from './components/BottomNav';
 import PathScreen from './screens/PathScreen';
 import Footer from './components/Footer';
 import AppBanners from './components/AppBanners';
+import SessionNotice from './components/SessionNotice';
 import type { SessionMode } from './screens/LessonScreen';
 import DataGate from './components/DataGate';
 import ScrollButtons from './components/ScrollButtons';
@@ -365,7 +366,8 @@ export default function App() {
           }}
         />
       )}
-      {!gate && !vipGate && !(tab === 'friends' && chatOpen) && <AnnouncementPanel />}
+      {acc.sessionLost && !acc.user && !gate && !vipGate && <SessionNotice onLogin={openAuth} />}
+      {!gate && !vipGate && !acc.sessionLost && !(tab === 'friends' && chatOpen) && <AnnouncementPanel />}
       {!(tab === 'friends' && chatOpen) && <Footer className="pb-24" />}
       {!(tab === 'friends' && chatOpen) && <ScrollButtons />}
       {!(tab === 'friends' && chatOpen) && <BottomNav tab={tab} onChange={changeTab} badge={Math.min(dueCount(p), 10)} friendsBadge={acc.user ? socialBadge(social) : 0} />}

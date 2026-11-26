@@ -1,5 +1,5 @@
 import { initializeApp } from 'firebase/app';
-import { connectAuthEmulator, getAuth } from 'firebase/auth';
+import { browserLocalPersistence, connectAuthEmulator, getAuth, setPersistence } from 'firebase/auth';
 import { connectFirestoreEmulator, initializeFirestore, memoryLocalCache, terminate, type Firestore } from 'firebase/firestore';
 
 import { firebaseConfig, firebaseConfigured } from './firebaseConfig';
@@ -8,6 +8,8 @@ if (!firebaseConfigured) throw Object.assign(new Error('Firebase is not configur
 
 export const app = initializeApp(firebaseConfig);
 export const auth = getAuth(app);
+/** v5.6.1: keep the sign-in across restarts explicitly (localStorage also works where IndexedDB is unavailable). */
+export const authPersistence = setPersistence(auth, browserLocalPersistence).catch((e) => console.warn('Auth persistence', (e as { code?: string }).code ?? e));
 /** Local testing only: `VITE_FIREBASE_EMULATOR=1` points the app at the Firebase Emulator Suite (auth :9099, firestore :8080). */
 const useEmulator = import.meta.env.VITE_FIREBASE_EMULATOR === '1';
 if (useEmulator) connectAuthEmulator(auth, 'http://127.0.0.1:9099', { disableWarnings: true });

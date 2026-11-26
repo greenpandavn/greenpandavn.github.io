@@ -41,6 +41,11 @@ export default function BrowserNotice({ kind, extra, onClose }: { kind: 'load' |
             ? 'GreenPanda hoạt động đầy đủ trên Chrome, Safari và các trình duyệt chính khác. Trình duyệt Cốc Cốc và trình duyệt trong ứng dụng Zalo không được hỗ trợ — bạn sẽ không nghe được phát âm.'
             : NO_AUDIO_MSG}
         </p>
+        {kind === 'load' && (browser === 'zalo' || browser === 'facebook') && (
+          <p className="mt-2 text-sm font-bold" data-testid="browser-notice-login">
+            Trình duyệt này cũng không giữ đăng nhập lâu dài, bạn có thể bị đăng xuất. Hãy mở GreenPanda bằng Chrome.
+          </p>
+        )}
         {browser ? (
           <p className="mt-3 rounded-2xl bg-mist px-3 py-2 text-sm font-bold text-ink-500" data-testid="browser-notice-how">
             {kind === 'load' && browser !== 'coccoc' ? HOW_TO[browser] : kind === 'load' ? <>{HOW_TO.zalo} {HOW_TO.coccoc}</> : HOW_TO[browser]}

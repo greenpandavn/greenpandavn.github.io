@@ -13,6 +13,9 @@ export const DEFAULT_ANNOUNCEMENT: Announcement = {
   version: APP_VERSION,
   title: `GreenPanda v${APP_VERSION} có gì mới?`,
   body: [
+    '- GreenPanda có tên miền mới greenpanda.vhphuoc.io.vn. Nếu bạn từng đăng nhập ở greenpandavn.github.io, hãy đăng nhập lại một lần ở tên miền mới; điểm trên tài khoản vẫn còn.',
+    '- Đăng nhập được giữ bền hơn; nếu phiên đăng nhập bị mất, app báo cho bạn thay vì lặng lẽ chuyển sang chế độ khách.',
+    '- Mở app trong Zalo/Facebook sẽ được nhắc chuyển sang Chrome để không bị đăng xuất.',
     '- Khóa mới: tiếng Thái 5.000 từ / 415 bài, 5 cấp (Sơ cấp → Chuyên sâu), mỗi cấp 1.000 từ, có phiên âm, nghĩa, câu ví dụ, trò chơi và thi thử từng cấp.',
     '- Tiếng Hàn và tiếng Nhật: mở miễn phí 4 Phần đầu; các Phần sau vẫn dành cho tài khoản VIP.',
     '- Tiếng Thái cũng miễn phí 4 Phần đầu.',
