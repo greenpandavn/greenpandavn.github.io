@@ -105,6 +105,60 @@ service cloud.firestore {
         && request.resource.data.updatedAt is number
         && request.resource.data.updatedBy is string && request.resource.data.updatedBy.size() <= 120;
       allow delete: if id == 'vipParts' && isAdmin();
+      // v5.7.0 config/payment: receiving bank account + VIP prices per term (months), set in the admin screen.
+      allow write: if id == 'payment' && isAdmin()
+        && request.resource.data.keys().hasOnly(['bankBin', 'bankName', 'accountNo', 'accountName', 'prices', 'updatedAt', 'updatedBy'])
+        && request.resource.data.bankBin is string && request.resource.data.bankBin.matches('^[0-9]{6}$')
+        && request.resource.data.bankName is string && request.resource.data.bankName.size() <= 60
+        && request.resource.data.accountNo is string && request.resource.data.accountNo.matches('^[0-9A-Za-z]{4,19}$')
+        && request.resource.data.accountName is string && request.resource.data.accountName.size() > 0 && request.resource.data.accountName.size() <= 60
+        && request.resource.data.prices is map && request.resource.data.prices.keys().hasOnly(['1', '3', '6', '12'])
+        && request.resource.data.updatedAt is number
+        && request.resource.data.updatedBy is string && request.resource.data.updatedBy.size() <= 120;
+      allow delete: if id == 'payment' && isAdmin();
+    }
+
+    // v5.7.0 vipOrders/{code}: a VIP purchase by bank transfer; the id is the transfer content (GP + 12 characters).
+    // A signed-in learner creates it at the current price and receiving account, then marks it 'submitted' ("Tôi đã
+    // chuyển khoản") or 'cancelled'. Only an admin sets 'paid' (together with roles/{uid}.vipUntil) or 'rejected'.
+    // A future bank webhook (Cloud Function, Admin SDK) writes the same 'paid' fields with paidVia 'webhook'.
+    function payCfg() { return get(/databases/$(database)/documents/config/payment).data; }
+    match /vipOrders/{code} {
+      allow read: if isAdmin() || (signedIn() && resource.data.uid == request.auth.uid);
+      allow create: if signedIn() && !isAnon() && notLocked(request.auth.uid)
+        && code.matches('^GP[A-Z0-9]{12}$')
+        && request.resource.data.keys().hasOnly(['code', 'uid', 'email', 'name', 'months', 'amount', 'bankBin', 'bankName', 'accountNo', 'accountName', 'status', 'createdAt', 'note', 'submittedAt'])
+        && request.resource.data.code == code
+        && request.resource.data.uid == request.auth.uid
+        && request.resource.data.email is string && request.resource.data.email.size() <= 120
+        && request.resource.data.name is string && request.resource.data.name.size() <= 40
+        && request.resource.data.months in [1, 3, 6, 12]
+        && request.resource.data.amount is int && request.resource.data.amount > 0
+        && request.resource.data.amount == payCfg().prices.get(string(request.resource.data.months), 0)
+        && request.resource.data.bankBin == payCfg().bankBin
+        && request.resource.data.bankName == payCfg().bankName
+        && request.resource.data.accountNo == payCfg().accountNo
+        && request.resource.data.accountName == payCfg().accountName
+        && request.resource.data.status == 'pending'
+        && request.resource.data.createdAt is int
+        && request.resource.data.note == '' && request.resource.data.submittedAt == 0;
+      allow update: if signedIn() && !isAnon() && resource.data.uid == request.auth.uid
+        && resource.data.status in ['pending', 'submitted']
+        && request.resource.data.diff(resource.data).affectedKeys().hasOnly(['status', 'note', 'submittedAt'])
+        && (
+          (request.resource.data.status == 'submitted' && resource.data.status == 'pending'
+            && request.resource.data.note is string && request.resource.data.note.size() <= 200
+            && request.resource.data.submittedAt is int)
+          || (request.resource.data.status == 'cancelled'
+            && request.resource.data.note == resource.data.note && request.resource.data.submittedAt == resource.data.submittedAt)
+        );
+      allow update: if isAdmin()
+        && resource.data.status in ['pending', 'submitted']
+        && request.resource.data.status in ['paid', 'rejected']
+        && request.resource.data.diff(resource.data).affectedKeys().hasOnly(['status', 'confirmedAt', 'confirmedBy', 'vipUntil', 'paidVia'])
+        && request.resource.data.confirmedAt is int
+        && request.resource.data.confirmedBy is string && request.resource.data.confirmedBy.size() <= 120;
+      allow delete: if isAdmin();
     }
 
     // Admin-managed course content (falls back to the bundled lessons when empty).

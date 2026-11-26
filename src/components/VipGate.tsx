@@ -4,7 +4,7 @@ import { Close, Lock } from './Icons';
 import { CONTACT_EMAIL } from './Footer';
 
 /** Shown when an account without VIP opens VIP content (see lib/vip.ts). */
-export default function VipGate({ onClose, onLogin }: { onClose: () => void; onLogin?: () => void }) {
+export default function VipGate({ onClose, onLogin, onUpgrade }: { onClose: () => void; onLogin?: () => void; onUpgrade?: () => void }) {
   const acc = useAccount();
   return (
     <div className="fixed inset-0 z-[70] flex items-end justify-center bg-black/50 p-4 sm:items-center" role="dialog" aria-modal="true" aria-label="Dành cho tài khoản VIP" data-testid="vip-gate">
@@ -27,6 +27,11 @@ export default function VipGate({ onClose, onLogin }: { onClose: () => void; onL
           {acc.user?.email ? ` và gửi kèm email tài khoản của bạn (${acc.user.email}).` : ' và gửi kèm email tài khoản của bạn.'}
           {!acc.user && ' Bạn cần đăng nhập trước để admin kích hoạt VIP cho tài khoản.'}
         </p>
+        {onUpgrade && (
+          <button type="button" className="btn-green mt-4 w-full" onClick={onUpgrade} data-testid="vip-gate-upgrade">
+            Nâng cấp VIP bằng chuyển khoản
+          </button>
+        )}
         {!acc.user && onLogin && (
           <button type="button" className="btn-green mt-4 w-full" onClick={onLogin} data-testid="vip-gate-login">
             Đăng nhập

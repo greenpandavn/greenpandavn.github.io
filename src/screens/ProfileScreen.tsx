@@ -72,9 +72,11 @@ const BADGE_COLORS = [
 export default function ProfileScreen({
   onLogin,
   onAdmin,
+  onUpgrade,
 }: {
   onLogin: () => void;
   onAdmin: () => void;
+  onUpgrade?: () => void;
 }) {
   const p = useProgress();
   useContentVersion();
@@ -238,6 +240,16 @@ export default function ProfileScreen({
                 Đăng xuất
               </button>
             </div>
+            {firebaseConfigured && onUpgrade && acc.role !== "admin" && (
+              <button
+                type="button"
+                className="chip self-start !text-sun-600"
+                onClick={onUpgrade}
+                data-testid="open-vip"
+              >
+                {vip ? "Gia hạn VIP" : "Nâng cấp VIP"}
+              </button>
+            )}
             {acc.migrated && (
               <p className="text-xs font-bold text-leaf-600">
                 Đã gộp tiến độ trên máy này vào tài khoản.

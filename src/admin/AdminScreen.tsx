@@ -14,13 +14,15 @@ import LessonEditor from './LessonEditor';
 import { endOfDay, extendVip, fmtVipDate } from '../lib/vip';
 import type { Certificate } from '../types';
 import VipPartsEditor from './VipPartsEditor';
+import PaymentAdmin from './PaymentAdmin';
 
-type Tab = 'stats' | 'users' | 'vip' | 'vipParts' | 'content' | 'certs' | 'reports';
+type Tab = 'stats' | 'users' | 'vip' | 'vipParts' | 'pay' | 'content' | 'certs' | 'reports';
 const TABS: [Tab, string][] = [
   ['stats', 'Thống kê'],
   ['users', 'Người dùng'],
   ['vip', 'VIP'],
   ['vipParts', 'VIP từng phần'],
+  ['pay', 'Thanh toán'],
   ['content', 'Nội dung'],
   ['certs', 'Chứng chỉ'],
   ['reports', 'Báo cáo'],
@@ -73,6 +75,10 @@ export default function AdminScreen({ onClose }: { onClose: () => void }) {
   useEffect(() => {
     if (acc.role === 'admin') void reload();
   }, [acc.role]);
+  // VIP can also change through payment confirmations, so refresh the list when the VIP tab opens
+  useEffect(() => {
+    if (acc.role === 'admin' && tab === 'vip') void reload();
+  }, [acc.role, tab]);
   // keep the online count fresh while the statistics tab is open
   useEffect(() => {
     if (acc.role !== 'admin' || tab !== 'stats') return;
@@ -255,6 +261,7 @@ export default function AdminScreen({ onClose }: { onClose: () => void }) {
       )}
 
       {tab === 'vipParts' && <VipPartsEditor by={acc.user?.email ?? ''} />}
+      {tab === 'pay' && <PaymentAdmin by={acc.user?.email ?? ''} />}
 
       {tab === 'vip' && users && (
         <div className="flex flex-col gap-2" data-testid="admin-vip">

@@ -37,6 +37,7 @@ const screens = {
   auth: () => import('./screens/AuthScreen'),
   mock: () => import('./screens/MockScreen'),
   game: () => import('./screens/GameScreen'),
+  vip: () => import('./screens/VipUpgradeScreen'),
 };
 const LessonScreen = lazy(screens.lesson);
 const ReviewScreen = lazy(screens.review);
@@ -47,6 +48,7 @@ const FriendsScreen = lazy(screens.friends);
 const AuthScreen = lazy(screens.auth);
 const MockScreen = lazy(screens.mock);
 const GameScreen = lazy(screens.game);
+const VipUpgradeScreen = lazy(screens.vip);
 const AdminScreen = lazy(() => import('./admin/AdminScreen'));
 const Loading = () => (
   <div className="flex min-h-[60dvh] items-center justify-center" data-testid="screen-loading">
@@ -69,6 +71,7 @@ export default function App() {
   const [mockOpen, setMockOpen] = useState(() => window.location.hash === '#/mock');
   const [mockStart, setMockStart] = useState<string | undefined>();
   const [gameOpen, setGameOpen] = useState(() => window.location.hash === '#/game');
+  const [vipOpen, setVipOpen] = useState(() => window.location.hash === '#/vip');
   const acc = useAccount();
   const [session, setSession] = useState<SessionMode | null>(null);
   useEffect(() => {
@@ -148,6 +151,7 @@ export default function App() {
       setAdminOpen(window.location.hash === '#/admin');
       setMockOpen(window.location.hash === '#/mock');
       setGameOpen(window.location.hash === '#/game');
+      setVipOpen(window.location.hash === '#/vip');
     };
     window.addEventListener('hashchange', onHash);
     return () => window.removeEventListener('hashchange', onHash);
@@ -158,6 +162,7 @@ export default function App() {
     setTab(t);
     setMockOpen(false);
     setGameOpen(false);
+    setVipOpen(false);
     window.scrollTo(0, 0);
   };
 
@@ -204,6 +209,20 @@ export default function App() {
       </>
     );
 
+  const openVip = () => {
+    prevTab.current = tab === 'learn' ? 'learn' : 'profile';
+    setVipGate(false);
+    window.location.hash = '/vip';
+    setVipOpen(true);
+    window.scrollTo(0, 0);
+  };
+  if (vipOpen && !session && !authOpen)
+    return (
+      <Suspense fallback={<Loading />}>
+        <VipUpgradeScreen onClose={() => changeTab(prevTab.current)} onLogin={openAuth} />
+      </Suspense>
+    );
+
   const openAdmin = () => {
     window.location.hash = '/admin';
     setAdminOpen(true);
@@ -230,6 +249,7 @@ export default function App() {
             changeTab('learn');
             openAuth();
           }}
+          onUpgrade={openVip}
         />
       </div>
     );
@@ -346,7 +366,7 @@ export default function App() {
       {(tab === 'rank' || (tab === 'friends' && !chatOpen)) && <SocialTabs tab={tab} onChange={changeTab} friendsBadge={acc.user ? socialBadge(social) : 0} />}
       {tab === 'friends' && <FriendsScreen onLogin={openAuth} onChat={setChatOpen} />}
       {tab === 'rank' && <LeaderboardScreen onLogin={openAuth} />}
-      {tab === 'profile' && <ProfileScreen onLogin={openAuth} onAdmin={openAdmin} />}
+      {tab === 'profile' && <ProfileScreen onLogin={openAuth} onAdmin={openAdmin} onUpgrade={openVip} />}
       </Suspense>
       {gate && !acc.user && (
         <LoginGate
@@ -364,6 +384,7 @@ export default function App() {
             setVipGate(false);
             openAuth();
           }}
+          onUpgrade={openVip}
         />
       )}
       {acc.sessionLost && !acc.user && !gate && !vipGate && <SessionNotice onLogin={openAuth} />}
